@@ -1,3 +1,8 @@
+---
+layout: default
+title: "Husserl_Phantasie_Bildbewußtsein_Erinnerung"
+---
+
 # Phantasy and Image Consciousness
 
 ## (Third Main Section of the Lectures from the Winter Semester 1904/05 on "Main Pieces from the Phenomenology and Theory of Knowledge")

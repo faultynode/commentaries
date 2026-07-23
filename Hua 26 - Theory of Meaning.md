@@ -1,3 +1,8 @@
+---
+layout: default
+title: "Hua 26 - Theory of Meaning"
+---
+
 # Lectures on the Theory of Meaning, Summer Semester 1908 (Husserliana XXVI)
 
 ## Commentary

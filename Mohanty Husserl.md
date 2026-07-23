@@ -1,3 +1,8 @@
+---
+layout: default
+title: "Mohanty Husserl"
+---
+
 # J. N. Mohanty, *The Philosophy of Edmund Husserl: A Historical Development*
 
 ## Paragraph-by-Paragraph Commentary

@@ -1,3 +1,8 @@
+---
+layout: default
+title: "monadology_commentary"
+---
+
 # Leibniz — *The Monadology* (1714): A Paragraph-by-Paragraph Commentary
 
 ---

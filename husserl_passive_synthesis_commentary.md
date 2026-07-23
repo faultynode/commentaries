@@ -1,3 +1,8 @@
+---
+layout: default
+title: "husserl_passive_synthesis_commentary"
+---
+
 # Commentary on Edmund Husserl, *Analyses Concerning Passive and Active Synthesis: Lectures on Transcendental Logic*
 
 ## Translator's Introduction

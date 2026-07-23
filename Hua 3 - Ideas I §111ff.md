@@ -1,3 +1,8 @@
+---
+layout: default
+title: "Hua 3 - Ideas I §111ff"
+---
+
 # Commentary on Edmund Husserl, *Ideen zu einer reinen Phänomenologie und phänomenologischen Philosophie*, Erstes Buch (Husserliana III/1), §§111–153
 
 -----

@@ -1,3 +1,8 @@
+---
+layout: default
+title: "Hua 5 - Ideas III"
+---
+
 # Ideas Pertaining to a Pure Phenomenology and to a Phenomenological Philosophy — Third Book: Phenomenology and the Foundations of the Sciences
 
 ## First Chapter

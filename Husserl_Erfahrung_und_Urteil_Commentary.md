@@ -1,3 +1,8 @@
+---
+layout: default
+title: "Husserl_Erfahrung_und_Urteil_Commentary"
+---
+
 # Husserl, *Erfahrung und Urteil* — Paragraph-by-Paragraph Commentary
 
 ## Introduction. Sense and Delimitation of the Investigation
