@@ -1,3 +1,8 @@
+---
+layout: default
+title: "Husserl_Natur_und_Geist_1919_Commentary"
+---
+
 # Nature and Spirit: Lectures, Summer Semester 1919
 
 ## Introduction

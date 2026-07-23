@@ -1,3 +1,8 @@
+---
+layout: default
+title: "Husserl_Die_Lebenswelt_Commentary"
+---
+
 # Edmund Husserl, *Die Lebenswelt: Auslegungen der vorgegebenen Welt und ihrer Konstitution* (Husserliana XXXIX)
 
 ## Paragraph-by-Paragraph Commentary

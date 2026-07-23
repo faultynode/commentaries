@@ -1,3 +1,8 @@
+---
+layout: default
+title: "La voix et le phénomène"
+---
+
 # A Reader’s Guide to Jacques Derrida’s *La voix et le phénomène* (1967)
 
 ## Introduction au problème du signe dans la phénoménologie de Husserl

@@ -1,3 +1,8 @@
+---
+layout: default
+title: "fichte_commentary"
+---
+
 # Paragraph-by-Paragraph Commentary on Fichte's *The Science of Knowing* (1804 Lectures on the *Wissenschaftslehre*)
 
 ## First Lecture

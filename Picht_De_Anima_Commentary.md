@@ -1,3 +1,8 @@
+---
+layout: default
+title: "Picht_De_Anima_Commentary"
+---
+
 # Georg Picht, *Aristoteles' "De anima"* — Commentary on Part I
 
 ## First Part: Aristotle and Hegel — Introduction to Aristotle as Introduction to Metaphysics as Such

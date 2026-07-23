@@ -1,3 +1,8 @@
+---
+layout: default
+title: "Husserl_formal_and_transcendental_logic"
+---
+
 # Husserl, *Formal and Transcendental Logic* — Introduction and Part I: Paragraph-by-Paragraph Analysis
 
 ---

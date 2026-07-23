@@ -1,3 +1,8 @@
+---
+layout: default
+title: "Basic Problems of Phenomenology"
+---
+
 # **Husserl's *Grundprobleme der Phänomenologie* (1910/11)**
 
 ## **Lectures from the Winter Semester 1910/11**

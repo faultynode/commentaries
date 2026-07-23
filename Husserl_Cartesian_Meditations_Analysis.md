@@ -1,3 +1,8 @@
+---
+layout: default
+title: "Husserl_Cartesian_Meditations_Analysis"
+---
+
 # Cartesian Meditations: An Introduction to Phenomenology
 
 ## A Paragraph-by-Paragraph Analysis of Edmund Husserl's *Cartesianische Meditationen*

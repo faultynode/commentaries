@@ -1,3 +1,8 @@
+---
+layout: default
+title: "Husserl_Prolegomena_Analysis"
+---
+
 # Edmund Husserl, *Logical Investigations*, Volume I: Prolegomena to Pure Logic (1900)
 
 ## Paragraph-by-Paragraph Analysis

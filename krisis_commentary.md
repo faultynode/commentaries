@@ -1,3 +1,8 @@
+---
+layout: default
+title: "krisis_commentary"
+---
+
 # The Crisis of the European Sciences and Transcendental Phenomenology: A Paragraph-by-Paragraph Commentary
 
 ## Preface

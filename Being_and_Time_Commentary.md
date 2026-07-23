@@ -1,3 +1,8 @@
+---
+layout: default
+title: "Being_and_Time_Commentary"
+---
+
 # Being and Time — Paragraph-by-Paragraph Commentary
 
 ## Epigraph and Prefatory Paragraphs
