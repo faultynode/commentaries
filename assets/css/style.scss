@@ -150,12 +150,29 @@ img {
   min-width: 180px;
   max-width: 600px;
   overflow: auto;
-  resize: horizontal;
   padding: 24px 16px;
   background: var(--sidebar-bg);
   border-right: 1px solid var(--border);
   font-size: 13px;
   line-height: 1.4;
+}
+
+.toc-resizer {
+  position: fixed;
+  top: 0;
+  bottom: 0;
+  left: 260px;
+  width: 6px;
+  margin-left: -3px;
+  cursor: col-resize;
+  z-index: 10;
+  touch-action: none;
+}
+
+.toc-resizer:hover,
+.toc-resizer.dragging {
+  background: var(--link);
+  opacity: 0.4;
 }
 
 .toc-heading {
@@ -232,7 +249,8 @@ img {
 }
 
 @media (max-width: 899px) {
-  #toc {
+  #toc,
+  .toc-resizer {
     display: none;
   }
 }
