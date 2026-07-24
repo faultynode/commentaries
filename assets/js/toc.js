@@ -43,6 +43,7 @@
       link.className = 'toc-link';
       link.href = '#' + h.id;
       link.textContent = h.textContent;
+      link.title = h.textContent;
       row.appendChild(link);
 
       li.appendChild(row);
