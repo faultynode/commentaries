@@ -1,6 +1,7 @@
 ---
 layout: default
-title: "commentary_hua26_2"
+title: commentary_hua26_2
+wordpress_id: 206
 ---
 
 # Lectures on the Theory of Meaning, Summer Semester 1908 (Husserliana XXVI)

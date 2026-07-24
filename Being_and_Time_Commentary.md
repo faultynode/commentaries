@@ -1,6 +1,7 @@
 ---
 layout: default
-title: "Being_and_Time_Commentary"
+title: Being_and_Time_Commentary
+wordpress_id: 190
 ---
 
 # Being and Time — Paragraph-by-Paragraph Commentary
@@ -1160,4 +1161,3 @@ The vulgar concept of time is an infinite sequence of now-points, each "in itsel
 The final section of *Being and Time* restates the guiding question: what is the meaning of Being in general? The existential-temporal analytic of Dasein has shown that temporality is the meaning of the Being of Dasein (care). But Dasein is the being for which Being is an issue — the being through which the question of Being is posed. The horizon for the understanding of Being in general must therefore be sought in the temporal constitution of Dasein's Being. Is there a way from primordial time to the meaning of Being? Does time itself manifest itself as the horizon of Being?
 
 With these questions, *Being and Time* ends. The projected Third Division ("Time and Being") was to have answered them by exhibiting the Temporality (*Temporalität*) of Being itself — not merely the temporality (*Zeitlichkeit*) of Dasein. This Division was never published. The path from Dasein's temporality to the meaning of Being as such — the ultimate goal of the entire work — remains a task that Heidegger pursued by other means in his later thought, but that *Being and Time* itself leaves open.
-

@@ -1,6 +1,7 @@
 ---
 layout: default
-title: "Husserl_Prolegomena_Analysis"
+title: Husserl_Prolegomena_Analysis
+wordpress_id: 200
 ---
 
 # Edmund Husserl, *Logical Investigations*, Volume I: Prolegomena to Pure Logic (1900)

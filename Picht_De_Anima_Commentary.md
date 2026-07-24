@@ -1,6 +1,7 @@
 ---
 layout: default
-title: "Picht_De_Anima_Commentary"
+title: Picht_De_Anima_Commentary
+wordpress_id: 204
 ---
 
 # Georg Picht, *Aristoteles' "De anima"* — Commentary on Part I

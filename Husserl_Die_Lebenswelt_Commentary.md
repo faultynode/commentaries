@@ -1,6 +1,7 @@
 ---
 layout: default
-title: "Husserl_Die_Lebenswelt_Commentary"
+title: Husserl_Die_Lebenswelt_Commentary
+wordpress_id: 196
 ---
 
 # Edmund Husserl, *Die Lebenswelt: Auslegungen der vorgegebenen Welt und ihrer Konstitution* (Husserliana XXXIX)
