@@ -1,3 +1,7 @@
+---
+wordpress_id: 265
+---
+
 # Sein und Zeit — Commentary
 
 Niemeyer pagination (SZ 1–437) is cited throughout. A few interpretive guards hold across the whole run, derived from the text and its reception: Dasein is not a synonym for "human consciousness" or "the subject" but names a way of being; being (Sein) is never a being (Seiendes), so no unit may be read as if Heidegger were describing a supreme entity or a property; existenzial (ontological structure) must not collapse into existenziell (ontic self-understanding); Verfallen and Uneigentlichkeit are structural, not moral, determinations; "world" is not the sum of things but a structure of Dasein; Angst is not a psychological state among others; and fundamental ontology is not philosophical anthropology, however much Division One reads like one. Terms retained in German: Dasein, and, once introduced, coinages whose analysis is the text's own business (In-der-Welt-sein, das Man, Sorge — each glossed at first use). Everything else is rendered in consistent English with the German in parentheses where the term is technical.
