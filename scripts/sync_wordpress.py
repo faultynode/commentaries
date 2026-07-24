@@ -17,8 +17,41 @@ from urllib.parse import urlparse
 import frontmatter
 import markdown
 import requests
+from bs4 import BeautifulSoup
 
 EXCLUDED = {"README.md"}
+
+MARKDOWN_EXTENSIONS = ["extra", "sane_lists", "fenced_code", "footnotes", "toc"]
+
+
+def to_gutenberg_html(markdown_text):
+    """Convert markdown to HTML wrapped in Gutenberg block comments.
+
+    Block-based features (like WordPress's Table of Contents block)
+    scan the post's parsed block structure for heading blocks - plain
+    <h2> tags with no block markup are invisible to them. Headings get
+    wrapped as real wp:heading blocks; everything else is wrapped as a
+    generic wp:html block, which WordPress renders as-is.
+    """
+    raw_html = markdown.markdown(markdown_text, extensions=MARKDOWN_EXTENSIONS)
+    soup = BeautifulSoup(raw_html, "html.parser")
+
+    blocks = []
+    for el in soup.contents:
+        name = getattr(el, "name", None)
+        if name is None:
+            continue  # stray whitespace between top-level elements
+
+        if name in ("h1", "h2", "h3", "h4", "h5", "h6"):
+            level = int(name[1])
+            classes = el.get("class", [])
+            if "wp-block-heading" not in classes:
+                el["class"] = classes + ["wp-block-heading"]
+            blocks.append(f'<!-- wp:heading {{"level":{level}}} -->\n{el}\n<!-- /wp:heading -->')
+        else:
+            blocks.append(f"<!-- wp:html -->\n{el}\n<!-- /wp:html -->")
+
+    return "\n\n".join(blocks)
 
 
 def wp_request(url, token, **kwargs):
@@ -42,10 +75,7 @@ def main():
 
         post = frontmatter.load(path)
         title = post.get("title", os.path.splitext(path)[0])
-        html = markdown.markdown(
-            post.content,
-            extensions=["extra", "sane_lists", "fenced_code", "footnotes", "toc"],
-        )
+        html = to_gutenberg_html(post.content)
 
         payload = {"title": title, "content": html, "status": "publish"}
         wp_id = post.get("wordpress_id")
