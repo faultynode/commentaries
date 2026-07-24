@@ -1,10 +1,10 @@
 ---
 layout: default
-title: Being_and_Time_Commentary
+title: Being and Time Commentary
 wordpress_id: 190
 ---
 
-# Being and Time — Paragraph-by-Paragraph Commentary
+# Being and Time Commentary
 
 ## Epigraph and Prefatory Paragraphs
 
