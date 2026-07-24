@@ -1,4 +1,6 @@
 ---
+layout: default
+title: Sein und Zeit — Commentary
 wordpress_id: 265
 ---
 
