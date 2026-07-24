@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Leibniz — The Monadology Commentary
+title: Leibniz, The Monadology Commentary
 wordpress_id: 210
 ---
 
