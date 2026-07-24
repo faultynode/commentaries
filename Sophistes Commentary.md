@@ -1,3 +1,8 @@
+---
+layout: default
+title: "Sophistes Commentary"
+---
+
 # Commentary on Heidegger, *Plato: Sophist* (GA 19)
 
 *Marburg lecture course, Winter Semester 1924/25. Edited by Ingeborg Schüßler. Citations follow the marginal pagination of the Klostermann Gesamtausgabe (GA 19), which the edition prints throughout; passages of the dialogue are additionally keyed to Stephanus numbers as Heidegger gives them.*
