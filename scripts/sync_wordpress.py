@@ -10,6 +10,7 @@ environment.
 import glob
 import os
 import sys
+from urllib.parse import urlparse
 
 import frontmatter
 import markdown
@@ -31,7 +32,11 @@ def main():
     username = os.environ["WP_USERNAME"]
     app_password = os.environ["WP_APP_PASSWORD"]
     auth = (username, app_password)
-    posts_endpoint = f"{wp_url}/wp-json/wp/v2/posts"
+
+    # WordPress.com sites don't serve wp-json on their own domain; REST API
+    # v2 requests are routed through this central proxy instead.
+    site = urlparse(wp_url).netloc or wp_url
+    posts_endpoint = f"https://public-api.wordpress.com/wp/v2/sites/{site}/posts"
 
     for path in sorted(glob.glob("*.md")):
         if path in EXCLUDED:
