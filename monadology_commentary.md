@@ -10,31 +10,17 @@ wordpress_id: 210
 
 ## Notice on the Monadology (Historical and Analytical) — by Émile Boutroux
 
-### Paragraph 1
-
 Boutroux opens by situating the *Monadology* as a summary of the entirety of Leibniz's philosophy. It was composed in French in 1714, during Leibniz's final stay in Vienna, and was written for Prince Eugene of Savoy — a figure distinguished not only as a military and political leader but as a man of considerable scientific and intellectual culture. Prince Eugene treated the manuscript as a precious treasure: he locked it in a casket and permitted only select visitors even to see it. Boutroux quotes a letter from the Count of Bonneval to Leibniz, comparing Eugene's treatment of the manuscript to the way Neapolitan priests guard the blood of Saint Januarius — letting Bonneval kiss it before locking it away again. This anecdote establishes the extraordinary esteem in which the text was held even before its publication.
-
-### Paragraph 2
 
 The *Monadology* was not published during Leibniz's lifetime. It was first translated into German by Köhler and into Latin by Hansche of Leipzig. The Latin translation appeared in the *Acta eruditorum* of 1721 under the title *Principia philosophiæ seu theses in gratiam principis Eugenii conscriptæ* ("Principles of philosophy, or theses composed for the benefit of Prince Eugene"). This Latin version was included in the Dutens edition of Leibniz's works. The original French text was published for the first time in 1840 by Erdmann, in his edition of Leibniz's philosophical works.
 
-### Paragraph 3
-
 Boutroux emphasizes that the work, as the Latin title indicates, is a series of theses summarizing the principal points of Leibniz's philosophy. Crucially, it cannot serve as an introduction to that philosophy. On the contrary, it presupposes a reader already well versed in Leibniz's thought. For such a reader, however, it teaches the supreme vantage point from which the whole system can be seen in its true light and in its harmony.
-
-### Paragraph 4
 
 Boutroux acknowledges that summarizing what is already a summary is an illegitimate enterprise. He will therefore limit himself to indicating the framework and major divisions of the work, and to making explicit the systematic disposition that is more or less concealed by the numbered-thesis format.
 
-### Paragraph 5
-
 The world, Boutroux explains, is at once a diversity and a harmony. To see it as it truly is, one must simultaneously discern its details and grasp its unity. To achieve this double knowledge, one must succeed in placing oneself at the supreme point of view — as close as possible to the point of view of God himself. The *Monadology* determines this point of view and gives us a sketch of the world as it appears to the observer so situated.
 
-### Paragraph 6
-
 Three parts can be distinguished: (1) the Monads or elements of things (§§1–36); (2) God (§§37–48); (3) the world conceived in its cause, which is God (§§49–90). The movement is first ascending, going from creatures to God, and then descending, going from God to creatures. Equivalently, Leibniz's philosophy is first regressive and then progressive.
-
-### Paragraph 7 — I. MONADS
 
 Boutroux divides the doctrine of monads into two parts: (1) their nature (§§1–17), and (2) their degrees of perfection (§§18–36).
 
@@ -44,8 +30,6 @@ Externally, the monad is simple, unextended, without figure, indivisible, incapa
 
 Internally, the monad is endowed with perception — the representation of a multiplicity within a unity — and with appetition — the tendency to pass from less distinct perceptions to more distinct ones. It is thus like an incorporeal automaton (§§8–17).
 
-### Paragraph 8 — Degrees of Perfection
-
 Monads admit of degrees of perfection, determined by the more or less distinct character of their perceptions. The principal degrees are:
 
 (1) The monad or pure and simple entelechy, possessing perception and appetite in the general sense, but without memory. Such is the life of plants (§§18–24).
@@ -53,8 +37,6 @@ Monads admit of degrees of perfection, determined by the more or less distinct c
 (2) The monad endowed with memory, or soul, as it exists in animals. These beings are capable of empirical consecutations that imitate reason, but they cannot rise to reason itself (§§25–28).
 
 (3) The monad endowed with reason, or knowledge of eternal truths, and consequently endowed with apperception or consciousness. Such a monad is called a spirit (*esprit*), and is given to us in human beings (§§29–30). Our reasonings are founded on two great principles — contradiction and sufficient reason — which apply concurrently to the two sorts of truths to which all possible truths can be reduced: truths of reasoning and truths of fact (§§31–36).
-
-### Paragraph 9 — II. GOD
 
 The doctrine concerning God divides into two parts: (1) his existence (§§37–45), and (2) his nature (§§46–48).
 
@@ -64,23 +46,17 @@ A posteriori: a God is necessary as the sufficient reason of the contingent, whi
 
 A priori: (a) a God is necessary as the source of essences or possibilities, i.e. of eternal truths, insofar as there is a reality in them (§§43–44); (b) God exists necessarily if he is possible, that is, if the definition of God implies no contradiction (§45).
 
-### Paragraph 10 — God's Nature
-
 Insofar as God is the source of eternal truths, he does not act by his will (as the Cartesians believed) but by his understanding alone. Insofar as he is the source of contingent truths, on the contrary, God acts by his will, which is regulated — according to a moral, not geometrical necessity — by the principle of fitness or the choice of the best (§46).
 
 Created monads are born by continuous fulgurations of the Divinity (§§46–47).
 
 In God are power, knowledge, and will, corresponding to the three elements of the monad: the subject or base, perception, and appetition (§48).
 
-### Paragraph 11 — III. THE WORLD CONCEIVED IN ITS CAUSE
-
 The progressive doctrine of the world divides into: (1) the nature of the world in general, i.e. universal harmony and optimism (§§49–60); (2) the constitution and hierarchy of created beings (§§61–90).
 
 A creature is said to act when it has distinct perceptions, and to be acted upon when it has confused perceptions corresponding to the distinct ones in another. The influence of things upon one another is, in simple substances, entirely ideal — it consists in a divine preordination. God has from the beginning regulated all monads without exception, so that to each distinct perception of one there correspond, in all the others, confused perceptions, and reciprocally. Each monad is thus representative of the entire universe from its own point of view (§§49–52).
 
 There is an infinity of possible universes, and only one can exist. God's choice was determined, according to the principle of the best, by comparing the perfections enveloped in the various possibles. God infallibly chose the best possible world. The excellence of this world consists in the greatest possible variety combined with the greatest order (§§56–60).
-
-### Paragraph 12 — The Hierarchy of Beings
 
 Every created being necessarily has: a composite body, and a central monad or entelechy.
 
