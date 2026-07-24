@@ -82,6 +82,17 @@
           if (item && item.classList.contains('has-children')) {
             item.classList.toggle('toc-collapsed');
           }
+          return;
+        }
+
+        var link = e.target.closest('.toc-link');
+        if (link) {
+          var target = document.getElementById(link.hash.slice(1));
+          if (target) {
+            e.preventDefault();
+            target.scrollIntoView({ behavior: 'smooth', block: 'start' });
+            history.replaceState(null, '', link.hash);
+          }
         }
       });
     }
