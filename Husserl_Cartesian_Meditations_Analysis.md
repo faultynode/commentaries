@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Husserl_Cartesian_Meditations_Analysis
+title: Husserl Cartesian Meditations Analysis
 wordpress_id: 195
 ---
 

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Husserl_Erfahrung_und_Urteil_Commentary
+title: Husserl Erfahrung und Urteil Commentary
 wordpress_id: 197
 ---
 

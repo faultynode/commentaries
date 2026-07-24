@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Husserl_Natur_und_Geist_1919_Commentary
+title: Husserl Natur und Geist 1919 Commentary
 wordpress_id: 198
 ---
 
