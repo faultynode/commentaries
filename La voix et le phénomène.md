@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "La voix et le phénomène"
+title: "La voix et le phénomène"
 ---
 
 # A Reader’s Guide to Jacques Derrida’s *La voix et le phénomène* (1967)
