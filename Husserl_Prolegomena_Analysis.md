@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Husserl_Prolegomena_Analysis
+title: Husserl Prolegomena Analysis
 wordpress_id: 200
 ---
 

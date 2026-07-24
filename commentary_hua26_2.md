@@ -1,6 +1,6 @@
 ---
 layout: default
-title: commentary_hua26_2
+title: Commentary Hua26 2
 wordpress_id: 206
 ---
 

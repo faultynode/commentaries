@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Husserl_Die_Lebenswelt_Commentary
+title: Husserl Die Lebenswelt Commentary
 wordpress_id: 196
 ---
 

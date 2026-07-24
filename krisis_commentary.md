@@ -1,6 +1,6 @@
 ---
 layout: default
-title: krisis_commentary
+title: Krisis Commentary
 wordpress_id: 209
 ---
 

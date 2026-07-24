@@ -1,6 +1,6 @@
 ---
 layout: default
-title: husserl_passive_synthesis_commentary
+title: Husserl Passive Synthesis Commentary
 wordpress_id: 208
 ---
 

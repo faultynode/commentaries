@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Husserl_formal_and_transcendental_logic
+title: Husserl formal and transcendental logic
 wordpress_id: 201
 ---
 

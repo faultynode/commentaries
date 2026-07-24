@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Picht_De_Anima_Commentary
+title: Picht De Anima Commentary
 wordpress_id: 204
 ---
 
