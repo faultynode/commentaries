@@ -1,0 +1,10 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(git -C \"c:\\\\Users\\\\mbroc\\\\iCloudDrive\\\\Documents\\(1\\)\\\\Code\\\\commentaries\" status)",
+      "Bash(git -C \"c:\\\\Users\\\\mbroc\\\\iCloudDrive\\\\Documents\\(1\\)\\\\Code\\\\commentaries\" diff --cached)",
+      "Bash(git -C 'c:\\\\Users\\\\mbroc\\\\iCloudDrive\\\\Documents\\(1\\)\\\\Code\\\\commentaries' commit -m ' *)",
+      "Bash(git -C \"c:\\\\Users\\\\mbroc\\\\iCloudDrive\\\\Documents\\(1\\)\\\\Code\\\\commentaries\" push)"
+    ]
+  }
+}
