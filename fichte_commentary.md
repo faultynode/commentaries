@@ -1,10 +1,10 @@
 ---
 layout: default
-title: fichte_commentary
+title: Fichte's *The Science of Knowing* (1804 Lectures on the *Wissenschaftslehre*)
 wordpress_id: 207
 ---
 
-# Paragraph-by-Paragraph Commentary on Fichte's *The Science of Knowing* (1804 Lectures on the *Wissenschaftslehre*)
+# Fichte's *The Science of Knowing* (1804 Lectures on the *Wissenschaftslehre*)
 
 ## First Lecture
 
