@@ -1,6 +1,7 @@
 ---
 layout: default
-title: "Sophistes Commentary"
+title: Sophistes Commentary
+wordpress_id: 205
 ---
 
 # Commentary on Heidegger, *Plato: Sophist* (GA 19)

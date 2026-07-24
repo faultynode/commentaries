@@ -1,6 +1,7 @@
 ---
 layout: default
-title: "La voix et le phénomène"
+title: La voix et le phénomène
+wordpress_id: 202
 ---
 
 # A Reader’s Guide to Jacques Derrida’s *La voix et le phénomène* (1967)

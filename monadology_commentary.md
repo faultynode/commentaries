@@ -1,6 +1,7 @@
 ---
 layout: default
-title: "monadology_commentary"
+title: monadology_commentary
+wordpress_id: 210
 ---
 
 # Leibniz — *The Monadology* (1714): A Paragraph-by-Paragraph Commentary

@@ -1,6 +1,7 @@
 ---
 layout: default
-title: "Husserl_Cartesian_Meditations_Analysis"
+title: Husserl_Cartesian_Meditations_Analysis
+wordpress_id: 195
 ---
 
 # Cartesian Meditations: An Introduction to Phenomenology
@@ -432,4 +433,3 @@ Our meditations have essentially fulfilled their purpose: to demonstrate the con
 So the idea of a universal philosophy is realized — not as a universal system of deductive theory, as if everything existing stood in the unity of a calculation, but as a system of phenomenological, thematically correlative disciplines, on the lowest ground not of the axiom *ego cogito* but of a universal self-reflection. The necessary way to cognition ultimately grounded in the highest sense is that of universal self-cognition, first monadic and then intermonadic. A radical and universal continuation of Cartesian Meditations — of universal self-cognition — is philosophy itself and encompasses all self-responsible genuine science.
 
 The Delphic word γνῶθι σεαυτόν has gained a new meaning. Positive science is science in world-lostness. One must first lose the world through *epochē* in order to regain it in universal self-reflection. *Noli foras ire*, says Augustine, *in te redi; in interiore homine habitat veritas*.
-

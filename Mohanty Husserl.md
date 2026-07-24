@@ -1,6 +1,7 @@
 ---
 layout: default
-title: "Mohanty Husserl"
+title: Mohanty Husserl
+wordpress_id: 203
 ---
 
 # J. N. Mohanty, *The Philosophy of Edmund Husserl: A Historical Development*

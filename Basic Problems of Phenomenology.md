@@ -1,6 +1,7 @@
 ---
 layout: default
-title: "Basic Problems of Phenomenology"
+title: Basic Problems of Phenomenology
+wordpress_id: 189
 ---
 
 # **Husserl's *Grundprobleme der Phänomenologie* (1910/11)**
@@ -597,4 +598,3 @@ Appendix XIII is a brief but philosophically dense meditation on the **limits of
 * It establishes that empathy is **essentially unfulfillable** by direct perception — the other's consciousness is constitutively absent from my perceptual field.  
 * It uses the thought-experiment of divine all-consciousness to illuminate the **perspectival structure** of thing-constitution and the coordination of finite visual fields.  
 * It raises, without resolving, the profound question of whether an all-encompassing consciousness is even *conceivable* — a question that points toward the deepest tensions in Husserl's transcendental idealism and his later reflections on teleology, monadic community, and the facticity of absolute consciousness.
-

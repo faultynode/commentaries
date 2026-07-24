@@ -1,6 +1,7 @@
 ---
 layout: default
-title: "Hua 26 - Theory of Meaning"
+title: Hua 26 - Theory of Meaning
+wordpress_id: 191
 ---
 
 # Lectures on the Theory of Meaning, Summer Semester 1908 (Husserliana XXVI)

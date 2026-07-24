@@ -1,6 +1,7 @@
 ---
 layout: default
-title: "Husserl_Phantasie_Bildbewußtsein_Erinnerung"
+title: Husserl_Phantasie_Bildbewußtsein_Erinnerung
+wordpress_id: 199
 ---
 
 # Phantasy and Image Consciousness

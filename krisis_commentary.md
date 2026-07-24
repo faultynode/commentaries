@@ -1,6 +1,7 @@
 ---
 layout: default
-title: "krisis_commentary"
+title: krisis_commentary
+wordpress_id: 209
 ---
 
 # The Crisis of the European Sciences and Transcendental Phenomenology: A Paragraph-by-Paragraph Commentary

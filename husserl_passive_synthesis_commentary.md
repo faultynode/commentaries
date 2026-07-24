@@ -1,6 +1,7 @@
 ---
 layout: default
-title: "husserl_passive_synthesis_commentary"
+title: husserl_passive_synthesis_commentary
+wordpress_id: 208
 ---
 
 # Commentary on Edmund Husserl, *Analyses Concerning Passive and Active Synthesis: Lectures on Transcendental Logic*
@@ -831,4 +832,3 @@ This completes the commentary on the entire volume of *Analyses Concerning Passi
 - Translator's Introduction (complete)
 - Main Texts: Part 1 §§1–10, Part 2 §§1–48, Part 3 §§49–65 (complete)
 - Supplementary Texts: Section 1 (First Version, §§1–26), Section 2 (Appendices 1–39), Section 3 (Related Essays A–B), Section 4 (On Static and Genetic Method A–C) (complete)
-

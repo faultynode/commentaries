@@ -1,6 +1,7 @@
 ---
 layout: default
-title: "Hua 4 - Ideas II"
+title: Hua 4 - Ideas II
+wordpress_id: 193
 ---
 
 # Commentary on Edmund Husserl, *Ideen zu einer reinen Phänomenologie und phänomenologischen Philosophie, Zweites Buch: Phänomenologische Untersuchungen zur Konstitution* (Husserliana IV)
