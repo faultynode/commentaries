@@ -1,0 +1,41 @@
+name: Sync to WordPress
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - "**.md"
+  workflow_dispatch: {}
+
+permissions:
+  contents: write
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.x"
+
+      - name: Install dependencies
+        run: pip install requests python-frontmatter markdown
+
+      - name: Sync markdown files to WordPress
+        env:
+          WP_URL: ${{ secrets.WP_URL }}
+          WP_USERNAME: ${{ secrets.WP_USERNAME }}
+          WP_APP_PASSWORD: ${{ secrets.WP_APP_PASSWORD }}
+        run: python scripts/sync_wordpress.py
+
+      - name: Commit updated wordpress_id front matter
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add -- '*.md'
+          if ! git diff --cached --quiet; then
+            git commit -m "Record WordPress post IDs [skip ci]"
+            git push
+          fi
