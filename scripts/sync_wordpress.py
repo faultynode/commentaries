@@ -119,7 +119,7 @@ def main():
     site = urlparse(wp_url).netloc or wp_url
     base = f"https://public-api.wordpress.com/rest/v1.1/sites/{site}/posts"
 
-    for path in sorted(glob.glob(os.path.join(COMMENTARIES_DIR, "*.md"))):
+    for path in sorted(glob.glob(os.path.join(COMMENTARIES_DIR, "**", "*.md"), recursive=True)):
         post = frontmatter.load(path)
         title = post.get("title", os.path.splitext(os.path.basename(path))[0])
         html = to_gutenberg_html(post.content)
