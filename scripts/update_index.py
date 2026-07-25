@@ -15,7 +15,7 @@ INDEX_PATH = "index.html"
 
 def build_list():
     items = []
-    for path in sorted(glob.glob(os.path.join(COMMENTARIES_DIR, "*.md"))):
+    for path in sorted(glob.glob(os.path.join(COMMENTARIES_DIR, "**", "*.md"), recursive=True)):
         post = frontmatter.load(path)
         title = post.get("title", os.path.splitext(os.path.basename(path))[0])
         href = os.path.splitext(path)[0].replace(" ", "%20") + ".html"
