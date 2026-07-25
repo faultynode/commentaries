@@ -36,7 +36,7 @@ jobs:
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add -- 'commentaries/*.md' index.html
+          git add -- 'commentaries/**/*.md' index.html
           if ! git diff --cached --quiet; then
             git commit -m "Record WordPress post IDs and regenerate index.html [skip ci]"
             git push
