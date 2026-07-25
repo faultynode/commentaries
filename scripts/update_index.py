@@ -9,17 +9,15 @@ import re
 
 import frontmatter
 
-EXCLUDED = {"README.md"}
+COMMENTARIES_DIR = "commentaries"
 INDEX_PATH = "index.html"
 
 
 def build_list():
     items = []
-    for path in sorted(glob.glob("*.md")):
-        if path in EXCLUDED:
-            continue
+    for path in sorted(glob.glob(os.path.join(COMMENTARIES_DIR, "*.md"))):
         post = frontmatter.load(path)
-        title = post.get("title", os.path.splitext(path)[0])
+        title = post.get("title", os.path.splitext(os.path.basename(path))[0])
         href = os.path.splitext(path)[0].replace(" ", "%20") + ".html"
         items.append(f'  <li><a href="{html.escape(href)}">{html.escape(title)}</a></li>')
     return "<ul>\n" + "\n".join(items) + "\n</ul>"
