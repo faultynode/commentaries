@@ -13,7 +13,7 @@ it to a vision model.  Four provider options:
 Usage:
     python pdf_extractor.py paper.pdf
     python pdf_extractor.py paper.pdf --provider ollama --model llama3.2-vision:11b
-    python pdf_extractor.py paper.pdf --provider gemini --model gemini-2.0-flash
+    python pdf_extractor.py paper.pdf --provider gemini --model gemini-3.1-flash-lite
     python pdf_extractor.py paper.pdf --provider openai --model gpt-4o
     python pdf_extractor.py paper.pdf --provider anthropic --model claude-opus-4-5-20251101
     python pdf_extractor.py paper.pdf --pages 1-30 --dpi 300
@@ -91,7 +91,7 @@ DEFAULT_MODELS = {
     PROVIDER_OLLAMA:    "llama3.2-vision:11b",
     PROVIDER_OPENAI:    "gpt-4o",
     PROVIDER_ANTHROPIC: "claude-sonnet-4-6",
-    PROVIDER_GEMINI:    "gemini-2.0-flash",
+    PROVIDER_GEMINI:    "gemini-3.1-flash-lite",
 }
 
 DEFAULT_DPI      = 200
@@ -481,7 +481,7 @@ provider / model quick-reference:
     minicpm-v             compact; usable on CPU-only machines
 
   gemini  (GEMINI_API_KEY required; free tier available)
-    gemini-2.0-flash      fast, generous free-tier quota
+    gemini-3.1-flash-lite fast, current free-tier-eligible model
 
   openai  (OPENAI_API_KEY required)
     gpt-4o                highest quality
