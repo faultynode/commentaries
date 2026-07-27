@@ -20,7 +20,7 @@ import markdown
 import requests
 from bs4 import BeautifulSoup
 
-EXCLUDED = {"README.md"}
+COMMENTARIES_DIR = "commentaries"
 
 MARKDOWN_EXTENSIONS = ["extra", "sane_lists", "fenced_code", "footnotes", "toc"]
 
@@ -119,12 +119,9 @@ def main():
     site = urlparse(wp_url).netloc or wp_url
     base = f"https://public-api.wordpress.com/rest/v1.1/sites/{site}/posts"
 
-    for path in sorted(glob.glob("*.md")):
-        if path in EXCLUDED:
-            continue
-
+    for path in sorted(glob.glob(os.path.join(COMMENTARIES_DIR, "**", "*.md"), recursive=True)):
         post = frontmatter.load(path)
-        title = post.get("title", os.path.splitext(path)[0])
+        title = post.get("title", os.path.splitext(os.path.basename(path))[0])
         html = to_gutenberg_html(post.content)
 
         payload = {"title": title, "content": html, "status": "publish"}
