@@ -1,10 +1,10 @@
-name: Convert PDFs to Markdown
+name: Convert Ebooks to Markdown
 
 on:
   push:
     branches: [main]
     paths:
-      - "pdf-input/**"
+      - "ebook-input/**"
   workflow_dispatch: {}
 
 permissions:
@@ -21,18 +21,25 @@ jobs:
           python-version: "3.x"
 
       - name: Install dependencies
-        run: pip install pymupdf google-genai
-
-      - name: Convert uploaded PDFs to Markdown
-        env:
-          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
         run: |
-          mkdir -p pdf-output
+          sudo apt-get update && sudo apt-get install -y djvulibre-bin
+          pip install mobi ebooklib beautifulsoup4 markdownify
+
+      - name: Convert uploaded ebooks to Markdown
+        run: |
+          mkdir -p ebook-output
           failed=()
-          for f in pdf-input/*.pdf; do
+          for f in ebook-input/*; do
             [ -e "$f" ] || continue
-            base=$(basename "${f%.pdf}")
-            if ! python3 tools/pdf_extractor.py "$f" --provider gemini -o "pdf-output/${base}.md"; then
+            case "$f" in
+              *.epub) script=tools/epub_to_markdown.py ;;
+              *.azw3) script=tools/azw3_to_markdown.py ;;
+              *.djvu) script=tools/djvu_to_markdown.py ;;
+              *) continue ;;
+            esac
+            base=$(basename "$f")
+            base="${base%.*}"
+            if ! python3 "$script" "$f" -o "ebook-output/${base}.md"; then
               echo "::error::Failed to convert $f"
               failed+=("$f")
             fi
@@ -48,8 +55,8 @@ jobs:
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add -- 'pdf-output/*.md'
+          git add -- 'ebook-output/*.md'
           if ! git diff --cached --quiet; then
-            git commit -m "Convert uploaded PDFs to Markdown [skip ci]"
+            git commit -m "Convert uploaded ebooks to Markdown [skip ci]"
             git push
           fi
