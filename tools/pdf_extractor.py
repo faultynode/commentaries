@@ -3,8 +3,9 @@
 pdf_extractor.py — Extract text from PDF page images via vision LLM → Markdown.
 
 Bypasses poor OCR by rendering each page to a high-resolution image and sending
-it to a vision model.  Three provider options:
+it to a vision model.  Four provider options:
 
+  --provider gemini    Gemini (requires GEMINI_API_KEY; free tier available)
   --provider openai    GPT-4o (requires OPENAI_API_KEY)
   --provider anthropic Claude  (requires ANTHROPIC_API_KEY)
   --provider ollama    Fully local, no API key needed  ← default
@@ -12,6 +13,7 @@ it to a vision model.  Three provider options:
 Usage:
     python pdf_extractor.py paper.pdf
     python pdf_extractor.py paper.pdf --provider ollama --model llama3.2-vision:11b
+    python pdf_extractor.py paper.pdf --provider gemini --model gemini-2.0-flash
     python pdf_extractor.py paper.pdf --provider openai --model gpt-4o
     python pdf_extractor.py paper.pdf --provider anthropic --model claude-opus-4-5-20251101
     python pdf_extractor.py paper.pdf --pages 1-30 --dpi 300
@@ -24,6 +26,7 @@ Recommended local models (no API key, install Ollama first):
 
 Requirements:
     pip install pymupdf ollama           # for local Ollama (default)
+    pip install pymupdf google-genai     # for Gemini (free tier available)
     pip install pymupdf openai           # for GPT-4o
     pip install pymupdf anthropic        # for Claude
 """
@@ -67,17 +70,28 @@ except ImportError:
     _AnthropicTextBlock = None  # type: ignore[assignment,misc]
     HAS_ANTHROPIC = False
 
+gemini_sdk: Any = None
+gemini_types: Any = None
+try:
+    from google import genai as gemini_sdk
+    from google.genai import types as gemini_types
+    HAS_GEMINI = True
+except ImportError:
+    HAS_GEMINI = False
+
 
 # ─── Constants ────────────────────────────────────────────────────────────────
 
 PROVIDER_OLLAMA    = "ollama"
 PROVIDER_OPENAI    = "openai"
 PROVIDER_ANTHROPIC = "anthropic"
+PROVIDER_GEMINI    = "gemini"
 
 DEFAULT_MODELS = {
     PROVIDER_OLLAMA:    "llama3.2-vision:11b",
     PROVIDER_OPENAI:    "gpt-4o",
     PROVIDER_ANTHROPIC: "claude-sonnet-4-6",
+    PROVIDER_GEMINI:    "gemini-2.0-flash",
 }
 
 DEFAULT_DPI      = 200
@@ -189,6 +203,18 @@ def _call_anthropic(client: "anthropic_sdk.Anthropic", model: str, image_b64: st
     )
     block = msg.content[0]
     return block.text.strip() if isinstance(block, _AnthropicTextBlock) else ""  # type: ignore[union-attr]
+
+
+def _call_gemini(client: "gemini_sdk.Client", model: str, image_b64: str) -> str:
+    image_bytes = base64.b64decode(image_b64)
+    response = client.models.generate_content(
+        model=model,
+        contents=[
+            gemini_types.Part.from_bytes(data=image_bytes, mime_type="image/png"),
+            EXTRACTION_PROMPT,
+        ],
+    )
+    return (response.text or "").strip()
 
 
 # ─── Raw output parsing ───────────────────────────────────────────────────────
@@ -366,7 +392,16 @@ def build_extract_fn(
         client = anthropic_sdk.Anthropic(api_key=key)
         return lambda img, c=client, m=model: _call_anthropic(c, m, img)
 
-    sys.exit(f"Unknown provider: {provider!r}. Choose ollama, openai, or anthropic.")
+    if provider == PROVIDER_GEMINI:
+        if not HAS_GEMINI:
+            sys.exit("Gemini SDK not installed.  Run:  pip install google-genai")
+        key = api_key or os.environ.get("GEMINI_API_KEY", "")
+        if not key:
+            sys.exit("Set GEMINI_API_KEY env var or pass --api-key.")
+        client = gemini_sdk.Client(api_key=key)
+        return lambda img, c=client, m=model: _call_gemini(c, m, img)
+
+    sys.exit(f"Unknown provider: {provider!r}. Choose ollama, gemini, openai, or anthropic.")
 
 
 # ─── Main entry point ─────────────────────────────────────────────────────────
@@ -445,6 +480,9 @@ provider / model quick-reference:
     qwen2.5vl:7b          strong at structured/scientific documents
     minicpm-v             compact; usable on CPU-only machines
 
+  gemini  (GEMINI_API_KEY required; free tier available)
+    gemini-2.0-flash      fast, generous free-tier quota
+
   openai  (OPENAI_API_KEY required)
     gpt-4o                highest quality
 
@@ -455,6 +493,7 @@ examples:
   python pdf_extractor.py paper.pdf
   python pdf_extractor.py paper.pdf --model olmocr2
   python pdf_extractor.py paper.pdf --model qwen2.5vl:7b --dpi 300
+  python pdf_extractor.py paper.pdf --provider gemini
   python pdf_extractor.py paper.pdf --provider openai
   python pdf_extractor.py paper.pdf --pages 1-50 -o chapter1.md
         """,
@@ -465,18 +504,19 @@ examples:
         help="Output Markdown path (default: <pdf>.md).")
     parser.add_argument("--provider",
         default=DEFAULT_PROVIDER,
-        choices=[PROVIDER_OLLAMA, PROVIDER_OPENAI, PROVIDER_ANTHROPIC],
+        choices=[PROVIDER_OLLAMA, PROVIDER_GEMINI, PROVIDER_OPENAI, PROVIDER_ANTHROPIC],
         help=f"Vision provider (default: {DEFAULT_PROVIDER}).")
     parser.add_argument("--model", default=None,
         help=(
             "Model name. Defaults per provider: "
             f"ollama={DEFAULT_MODELS[PROVIDER_OLLAMA]}, "
+            f"gemini={DEFAULT_MODELS[PROVIDER_GEMINI]}, "
             f"openai={DEFAULT_MODELS[PROVIDER_OPENAI]}, "
             f"anthropic={DEFAULT_MODELS[PROVIDER_ANTHROPIC]}."
         ),
     )
     parser.add_argument("--api-key",
-        help="API key for openai/anthropic (overrides env var).")
+        help="API key for gemini/openai/anthropic (overrides env var).")
     parser.add_argument("--ollama-host",
         default="http://localhost:11434",
         help="Ollama server URL (default: http://localhost:11434).")
