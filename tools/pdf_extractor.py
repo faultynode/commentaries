@@ -36,6 +36,7 @@ import base64
 import os
 import re
 import sys
+import time
 from dataclasses import dataclass, field
 from pathlib import Path
 from typing import Any, Callable, Optional
@@ -404,6 +405,39 @@ def build_extract_fn(
     sys.exit(f"Unknown provider: {provider!r}. Choose ollama, gemini, openai, or anthropic.")
 
 
+# ─── Rate-limit retry ──────────────────────────────────────────────────────────
+
+MAX_RATE_LIMIT_RETRIES = 6
+FALLBACK_RETRY_DELAY   = 20.0  # seconds, used when the error has no explicit delay
+
+_RETRY_DELAY_RE = re.compile(r"retryDelay['\"]?\s*[:=]\s*['\"]?(\d+(?:\.\d+)?)s")
+
+
+def _is_rate_limit_error(exc: Exception) -> bool:
+    msg = str(exc).lower()
+    return any(tok in msg for tok in ("429", "resource_exhausted", "rate limit", "too many requests"))
+
+
+def _parse_retry_delay(exc: Exception) -> Optional[float]:
+    m = _RETRY_DELAY_RE.search(str(exc))
+    return float(m.group(1)) if m else None
+
+
+def extract_with_retry(extract_fn: Callable[[str], str], image_b64: str) -> str:
+    """Call extract_fn, pausing and retrying when the provider reports a rate limit."""
+    for attempt in range(MAX_RATE_LIMIT_RETRIES):
+        try:
+            return extract_fn(image_b64)
+        except Exception as exc:
+            if not _is_rate_limit_error(exc) or attempt == MAX_RATE_LIMIT_RETRIES - 1:
+                raise
+            delay = _parse_retry_delay(exc) or FALLBACK_RETRY_DELAY * (attempt + 1)
+            print(f"\n    rate limited — waiting {delay:.0f}s "
+                  f"(retry {attempt + 1}/{MAX_RATE_LIMIT_RETRIES - 1}) …", end=" ", flush=True)
+            time.sleep(delay)
+    raise RuntimeError("unreachable")  # loop always returns or raises
+
+
 # ─── Main entry point ─────────────────────────────────────────────────────────
 
 def process_pdf(
@@ -444,7 +478,7 @@ def process_pdf(
     for i, idx in enumerate(page_indices):
         print(f"  [{i + 1:>{pad}}/{len(page_indices)}] page {idx + 1} …", end=" ", flush=True)
         img_b64 = render_page_to_base64(doc[idx], dpi)
-        raw     = extract_fn(img_b64)
+        raw     = extract_with_retry(extract_fn, img_b64)
         result  = parse_page_result(raw, idx + 1)
         page_results.append(result)
         fn_n = len(result.footnotes)
