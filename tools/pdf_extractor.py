@@ -18,6 +18,10 @@ Usage:
     python pdf_extractor.py paper.pdf --provider anthropic --model claude-opus-4-5-20251101
     python pdf_extractor.py paper.pdf --pages 1-30 --dpi 300
 
+If a run fails partway through, pages completed so far are saved next to the
+output file (<output>.progress.json). Re-running with the same -o path picks
+up automatically where it left off; a fully completed run removes this file.
+
 Recommended local models (no API key, install Ollama first):
     olmocr2          - fine-tuned for document OCR, best quality for academic text
     llama3.2-vision  - strong general vision model
@@ -33,6 +37,7 @@ Requirements:
 
 import argparse
 import base64
+import json
 import os
 import re
 import sys
@@ -339,6 +344,49 @@ def _assemble_and_write(page_results: list[PageResult], out_path: Path) -> str:
     return markdown
 
 
+# ─── Resume-progress sidecar ───────────────────────────────────────────────────
+# The final Markdown loses the per-page structure (footnotes get renumbered,
+# headings get regrouped into sections), so it can't itself be resumed from.
+# A small JSON sidecar next to the output preserves the raw per-page results
+# so a failed run's completed pages aren't re-fetched (and re-billed) on retry.
+
+def _progress_path(out_path: Path) -> Path:
+    return out_path.with_suffix(out_path.suffix + ".progress.json")
+
+
+def load_progress(out_path: Path, total_pages: int) -> list[PageResult]:
+    path = _progress_path(out_path)
+    if not path.exists():
+        return []
+    try:
+        data = json.loads(path.read_text(encoding="utf-8"))
+    except (json.JSONDecodeError, OSError):
+        return []
+    if data.get("pdf_pages_total") != total_pages:
+        return []  # stale sidecar from a different document; ignore it
+    return [
+        PageResult(page_num=item["page_num"], body=item["body"], footnotes=item["footnotes"])
+        for item in data.get("page_results", [])
+    ]
+
+
+def save_progress(out_path: Path, total_pages: int, page_results: list[PageResult]) -> None:
+    data = {
+        "pdf_pages_total": total_pages,
+        "page_results": [
+            {"page_num": r.page_num, "body": r.body, "footnotes": r.footnotes}
+            for r in page_results
+        ],
+    }
+    _progress_path(out_path).write_text(json.dumps(data), encoding="utf-8")
+
+
+def clear_progress(out_path: Path) -> None:
+    path = _progress_path(out_path)
+    if path.exists():
+        path.unlink()
+
+
 # ─── Page-range helper ────────────────────────────────────────────────────────
 
 def pages_to_spec(indices: list[int]) -> str:
@@ -493,12 +541,18 @@ def process_pdf(
         else list(range(total))
     )
 
+    page_results: list[PageResult] = load_progress(out_path, total)
+    if page_results:
+        done = {r.page_num - 1 for r in page_results}
+        page_indices = [i for i in page_indices if i not in done]
+
     print(f"Provider : {provider}  ({active_model})")
     print(f"Input    : {pdf_file}  ({total} pages total)")
     print(f"Output   : {out_path}")
+    if page_results:
+        print(f"Resuming : {len(page_results)} page(s) already done from a previous run")
     print(f"Pages    : {len(page_indices)} page(s) to process  |  DPI {dpi}\n")
 
-    page_results: list[PageResult] = []
     pad = len(str(len(page_indices)))
 
     for i, idx in enumerate(page_indices):
@@ -512,9 +566,10 @@ def process_pdf(
                   f"({i} of {len(page_indices)} page(s) completed).")
             if page_results:
                 _assemble_and_write(page_results, out_path)
-                resume_spec = pages_to_spec(page_indices[i:])
+                save_progress(out_path, total, page_results)
                 print(f"Partial output saved → {out_path}")
-                print(f"Resume the rest with: --pages {resume_spec}")
+                print(f"Progress saved — re-run with the same -o path to resume automatically "
+                      f"(or manually with --pages {pages_to_spec(page_indices[i:])}).")
             raise
         result = parse_page_result(raw, idx + 1)
         page_results.append(result)
@@ -525,6 +580,7 @@ def process_pdf(
 
     print("\nAssembling sections …")
     markdown = _assemble_and_write(page_results, out_path)
+    clear_progress(out_path)
     print(f"Done → {out_path}  ({len(markdown):,} characters)")
     return str(out_path)
 
