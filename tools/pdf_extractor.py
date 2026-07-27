@@ -329,7 +329,33 @@ def sections_to_markdown(sections: list[Section]) -> str:
     return "\n".join(parts).strip() + "\n"
 
 
+# ─── Output assembly helper ───────────────────────────────────────────────────
+
+def _assemble_and_write(page_results: list[PageResult], out_path: Path) -> str:
+    sections = build_sections(page_results)
+    sections = renumber_footnotes(sections)
+    markdown = sections_to_markdown(sections)
+    out_path.write_text(markdown, encoding="utf-8")
+    return markdown
+
+
 # ─── Page-range helper ────────────────────────────────────────────────────────
+
+def pages_to_spec(indices: list[int]) -> str:
+    """Convert a sorted list of 0-indexed page indices to a 1-indexed --pages spec."""
+    if not indices:
+        return ""
+    parts: list[str] = []
+    start = prev = indices[0]
+    for idx in indices[1:]:
+        if idx == prev + 1:
+            prev = idx
+            continue
+        parts.append(f"{start + 1}-{prev + 1}" if start != prev else f"{start + 1}")
+        start = prev = idx
+    parts.append(f"{start + 1}-{prev + 1}" if start != prev else f"{start + 1}")
+    return ",".join(parts)
+
 
 def parse_page_range(spec: str, total: int) -> list[int]:
     """Parse '1-10', '3,5,7', or '1-5,8,10-15' into sorted 0-indexed page list."""
@@ -477,9 +503,20 @@ def process_pdf(
 
     for i, idx in enumerate(page_indices):
         print(f"  [{i + 1:>{pad}}/{len(page_indices)}] page {idx + 1} …", end=" ", flush=True)
-        img_b64 = render_page_to_base64(doc[idx], dpi)
-        raw     = extract_with_retry(extract_fn, img_b64)
-        result  = parse_page_result(raw, idx + 1)
+        try:
+            img_b64 = render_page_to_base64(doc[idx], dpi)
+            raw     = extract_with_retry(extract_fn, img_b64)
+        except Exception:
+            doc.close()
+            print(f"\nFAILED on page {idx + 1} "
+                  f"({i} of {len(page_indices)} page(s) completed).")
+            if page_results:
+                _assemble_and_write(page_results, out_path)
+                resume_spec = pages_to_spec(page_indices[i:])
+                print(f"Partial output saved → {out_path}")
+                print(f"Resume the rest with: --pages {resume_spec}")
+            raise
+        result = parse_page_result(raw, idx + 1)
         page_results.append(result)
         fn_n = len(result.footnotes)
         print(f"ok  ({fn_n} footnote{'s' if fn_n != 1 else ''})")
@@ -487,11 +524,7 @@ def process_pdf(
     doc.close()
 
     print("\nAssembling sections …")
-    sections = build_sections(page_results)
-    sections = renumber_footnotes(sections)
-    markdown = sections_to_markdown(sections)
-
-    out_path.write_text(markdown, encoding="utf-8")
+    markdown = _assemble_and_write(page_results, out_path)
     print(f"Done → {out_path}  ({len(markdown):,} characters)")
     return str(out_path)
 
