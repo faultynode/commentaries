@@ -21,15 +21,17 @@ jobs:
           python-version: "3.x"
 
       - name: Install dependencies
-        run: pip install pypdf pdfplumber
+        run: pip install pymupdf anthropic
 
       - name: Convert uploaded PDFs to Markdown
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
         run: |
           mkdir -p pdf-output
           for f in pdf-input/*.pdf; do
             [ -e "$f" ] || continue
             base=$(basename "${f%.pdf}")
-            python3 tools/pdf_to_markdown.py "$f" -o "pdf-output/${base}.md"
+            python3 tools/pdf_extractor.py "$f" --provider anthropic -o "pdf-output/${base}.md"
           done
 
       - name: Commit converted files
