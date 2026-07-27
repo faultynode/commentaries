@@ -21,25 +21,17 @@ jobs:
           python-version: "3.x"
 
       - name: Install dependencies
-        run: pip install pymupdf ollama
-
-      - name: Install and start Ollama
-        run: |
-          curl -fsSL https://ollama.com/install.sh | sh
-          ollama serve &
-          for i in $(seq 1 30); do
-            curl -sf http://localhost:11434 >/dev/null && break
-            sleep 1
-          done
-          ollama pull minicpm-v
+        run: pip install pymupdf google-genai
 
       - name: Convert uploaded PDFs to Markdown
+        env:
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
         run: |
           mkdir -p pdf-output
           for f in pdf-input/*.pdf; do
             [ -e "$f" ] || continue
             base=$(basename "${f%.pdf}")
-            python3 tools/pdf_extractor.py "$f" --provider ollama --model minicpm-v -o "pdf-output/${base}.md"
+            python3 tools/pdf_extractor.py "$f" --provider gemini -o "pdf-output/${base}.md"
           done
 
       - name: Commit converted files
