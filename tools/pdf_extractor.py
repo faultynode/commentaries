@@ -492,37 +492,77 @@ def _is_rate_limit_error(exc: Exception) -> bool:
     return any(tok in msg for tok in ("429", "resource_exhausted", "rate limit", "too many requests"))
 
 
+def _is_daily_quota_error(exc: Exception) -> bool:
+    """True for a per-day quota exhaustion, which waiting out a minute can't fix."""
+    return re.search(r"per.?day", str(exc), re.IGNORECASE) is not None
+
+
 def _parse_retry_delay(exc: Exception) -> Optional[float]:
     m = _RETRY_DELAY_RE.search(str(exc))
     return float(m.group(1)) if m else None
 
 
-def extract_with_retry(extract_fn: Callable[[str], str], image_b64: str) -> str:
-    """Call extract_fn, pausing and retrying when the provider reports a rate limit."""
-    for attempt in range(MAX_RATE_LIMIT_RETRIES):
-        try:
-            return extract_fn(image_b64)
-        except Exception as exc:
-            if not _is_rate_limit_error(exc) or attempt == MAX_RATE_LIMIT_RETRIES - 1:
-                raise
-            delay = _parse_retry_delay(exc) or FALLBACK_RETRY_DELAY * (attempt + 1)
-            print(f"\n    rate limited — waiting {delay:.0f}s "
-                  f"(retry {attempt + 1}/{MAX_RATE_LIMIT_RETRIES - 1}) …", end=" ", flush=True)
-            time.sleep(delay)
-    raise RuntimeError("unreachable")  # loop always returns or raises
+class ModelCascade:
+    """Holds the active extract_fn and can fall back to the next model on a
+    daily-quota exhaustion — a fresh model has its own separate quota bucket."""
+
+    def __init__(self, provider: str, models: list[str], api_key: Optional[str], host: str):
+        if not models:
+            raise ValueError("ModelCascade requires at least one model")
+        self.provider = provider
+        self.models   = models
+        self.api_key  = api_key
+        self.host     = host
+        self.index    = 0
+        self.extract_fn = build_extract_fn(provider, models[0], api_key, host)
+
+    @property
+    def model(self) -> str:
+        return self.models[self.index]
+
+    def advance(self) -> bool:
+        """Switch to the next fallback model. Returns False if none remain."""
+        if self.index + 1 >= len(self.models):
+            return False
+        self.index += 1
+        print(f"\n    daily quota exhausted for {self.models[self.index - 1]} — "
+              f"falling back to {self.models[self.index]} …", end=" ", flush=True)
+        self.extract_fn = build_extract_fn(self.provider, self.models[self.index], self.api_key, self.host)
+        return True
+
+
+def extract_with_retry(cascade: ModelCascade, image_b64: str) -> str:
+    """Call the cascade's active model, pausing and retrying on a per-minute rate
+    limit, or falling back to the next model on a per-day quota exhaustion."""
+    while True:
+        for attempt in range(MAX_RATE_LIMIT_RETRIES):
+            try:
+                return cascade.extract_fn(image_b64)
+            except Exception as exc:
+                if _is_daily_quota_error(exc):
+                    if cascade.advance():
+                        break  # retry immediately on the new model
+                    raise
+                if not _is_rate_limit_error(exc) or attempt == MAX_RATE_LIMIT_RETRIES - 1:
+                    raise
+                delay = _parse_retry_delay(exc) or FALLBACK_RETRY_DELAY * (attempt + 1)
+                print(f"\n    rate limited — waiting {delay:.0f}s "
+                      f"(retry {attempt + 1}/{MAX_RATE_LIMIT_RETRIES - 1}) …", end=" ", flush=True)
+                time.sleep(delay)
 
 
 # ─── Main entry point ─────────────────────────────────────────────────────────
 
 def process_pdf(
-    pdf_path:    str,
-    output_path: Optional[str],
-    provider:    str,
-    model:       Optional[str],
-    api_key:     Optional[str],
-    host:        str,
-    dpi:         int,
-    pages_spec:  Optional[str],
+    pdf_path:        str,
+    output_path:     Optional[str],
+    provider:        str,
+    model:           Optional[str],
+    fallback_models: Optional[list[str]],
+    api_key:         Optional[str],
+    host:            str,
+    dpi:             int,
+    pages_spec:      Optional[str],
 ) -> str:
 
     pdf_file = Path(pdf_path)
@@ -531,7 +571,8 @@ def process_pdf(
 
     out_path     = Path(output_path) if output_path else pdf_file.with_suffix(".md")
     active_model = model or DEFAULT_MODELS[provider]
-    extract_fn   = build_extract_fn(provider, active_model, api_key, host)
+    models       = [active_model, *(fallback_models or [])]
+    cascade      = ModelCascade(provider, models, api_key, host)
 
     doc   = fitz.open(str(pdf_file))
     total = len(doc)
@@ -547,6 +588,8 @@ def process_pdf(
         page_indices = [i for i in page_indices if i not in done]
 
     print(f"Provider : {provider}  ({active_model})")
+    if len(models) > 1:
+        print(f"Fallback : {', '.join(models[1:])}  (used if the daily quota is exhausted)")
     print(f"Input    : {pdf_file}  ({total} pages total)")
     print(f"Output   : {out_path}")
     if page_results:
@@ -559,7 +602,7 @@ def process_pdf(
         print(f"  [{i + 1:>{pad}}/{len(page_indices)}] page {idx + 1} …", end=" ", flush=True)
         try:
             img_b64 = render_page_to_base64(doc[idx], dpi)
-            raw     = extract_with_retry(extract_fn, img_b64)
+            raw     = extract_with_retry(cascade, img_b64)
         except Exception:
             doc.close()
             print(f"\nFAILED on page {idx + 1} "
@@ -617,6 +660,7 @@ examples:
   python pdf_extractor.py paper.pdf --model olmocr2
   python pdf_extractor.py paper.pdf --model qwen2.5vl:7b --dpi 300
   python pdf_extractor.py paper.pdf --provider gemini
+  python pdf_extractor.py paper.pdf --provider gemini --fallback-models gemini-3.5-flash
   python pdf_extractor.py paper.pdf --provider openai
   python pdf_extractor.py paper.pdf --pages 1-50 -o chapter1.md
         """,
@@ -638,6 +682,14 @@ examples:
             f"anthropic={DEFAULT_MODELS[PROVIDER_ANTHROPIC]}."
         ),
     )
+    parser.add_argument("--fallback-models",
+        help=(
+            "Comma-separated model names to fall back to, in order, when the "
+            "current model's daily quota is exhausted (each model has its own "
+            "separate quota). Same provider only. Example: "
+            "gemini-3.1-flash-lite --fallback-models gemini-3.5-flash"
+        ),
+    )
     parser.add_argument("--api-key",
         help="API key for gemini/openai/anthropic (overrides env var).")
     parser.add_argument("--ollama-host",
@@ -654,16 +706,21 @@ examples:
     )
 
     args = parser.parse_args()
+    fallback_models = (
+        [m.strip() for m in args.fallback_models.split(",") if m.strip()]
+        if args.fallback_models else None
+    )
 
     process_pdf(
-        pdf_path    = args.pdf,
-        output_path = args.output,
-        provider    = args.provider,
-        model       = args.model,
-        api_key     = args.api_key,
-        host        = args.ollama_host,
-        dpi         = args.dpi,
-        pages_spec  = args.pages,
+        pdf_path        = args.pdf,
+        output_path     = args.output,
+        provider        = args.provider,
+        model           = args.model,
+        fallback_models = fallback_models,
+        api_key         = args.api_key,
+        host            = args.ollama_host,
+        dpi             = args.dpi,
+        pages_spec      = args.pages,
     )
 
 
