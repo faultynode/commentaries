@@ -140,6 +140,39 @@ img {
   max-width: 100%;
 }
 
+.commentary-groups details {
+  margin-bottom: 0.3em;
+  border-bottom: 1px solid var(--border);
+}
+
+.commentary-groups summary {
+  cursor: pointer;
+  list-style: none;
+  padding: 0.5em 0;
+  font-weight: 600;
+  color: var(--heading);
+}
+
+.commentary-groups summary::-webkit-details-marker {
+  display: none;
+}
+
+.commentary-groups summary::before {
+  content: "\25B8";
+  display: inline-block;
+  width: 1em;
+  color: var(--muted);
+}
+
+.commentary-groups details[open] > summary::before {
+  content: "\25BE";
+}
+
+.commentary-groups ul {
+  margin: 0 0 0.8em;
+  padding-left: 2em;
+}
+
 /* Outline sidebar */
 #toc {
   position: fixed;
