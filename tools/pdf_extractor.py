@@ -487,9 +487,15 @@ FALLBACK_RETRY_DELAY   = 20.0  # seconds, used when the error has no explicit de
 _RETRY_DELAY_RE = re.compile(r"retryDelay['\"]?\s*[:=]\s*['\"]?(\d+(?:\.\d+)?)s")
 
 
-def _is_rate_limit_error(exc: Exception) -> bool:
+def _is_retryable_error(exc: Exception) -> bool:
+    """True for rate limits and transient server-side errors worth waiting out."""
     msg = str(exc).lower()
-    return any(tok in msg for tok in ("429", "resource_exhausted", "rate limit", "too many requests"))
+    tokens = (
+        "429", "resource_exhausted", "rate limit", "too many requests",
+        "502", "503", "504", "unavailable", "overloaded", "high demand",
+        "server error", "internal error", "try again later",
+    )
+    return any(tok in msg for tok in tokens)
 
 
 def _is_daily_quota_error(exc: Exception) -> bool:
@@ -543,10 +549,10 @@ def extract_with_retry(cascade: ModelCascade, image_b64: str) -> str:
                     if cascade.advance():
                         break  # retry immediately on the new model
                     raise
-                if not _is_rate_limit_error(exc) or attempt == MAX_RATE_LIMIT_RETRIES - 1:
+                if not _is_retryable_error(exc) or attempt == MAX_RATE_LIMIT_RETRIES - 1:
                     raise
                 delay = _parse_retry_delay(exc) or FALLBACK_RETRY_DELAY * (attempt + 1)
-                print(f"\n    rate limited — waiting {delay:.0f}s "
+                print(f"\n    temporary error — waiting {delay:.0f}s "
                       f"(retry {attempt + 1}/{MAX_RATE_LIMIT_RETRIES - 1}) …", end=" ", flush=True)
                 time.sleep(delay)
 
