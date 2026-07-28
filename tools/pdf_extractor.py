@@ -41,8 +41,10 @@ import json
 import os
 import re
 import sys
+import tempfile
 import time
 from dataclasses import dataclass, field
+from datetime import datetime, timezone
 from pathlib import Path
 from typing import Any, Callable, Optional
 
@@ -718,6 +720,51 @@ def _parse_retry_delay(exc: Exception) -> Optional[float]:
     return float(m.group(1)) if m else None
 
 
+# ─── Cross-run daily-quota memory ──────────────────────────────────────────────
+# A daily quota, once exhausted, stays exhausted until it resets (UTC midnight for
+# Gemini). When a workflow converts many PDFs in one run — one subprocess per file
+# — a model that hit its quota on file 1 will immediately hit it again on file 2,
+# 3, ... Remembering it in a small state file (scoped to this machine/CI job, not
+# the repo) lets later files in the same run skip straight to a working model
+# instead of re-discovering the same exhaustion — and paying for the API call and
+# retry cycle — every time.
+
+def _quota_state_path() -> Path:
+    base = os.environ.get("RUNNER_TEMP") or tempfile.gettempdir()
+    return Path(base) / "pdf_extractor_daily_quota.json"
+
+
+def _today_utc() -> str:
+    return datetime.now(timezone.utc).date().isoformat()
+
+
+def _load_quota_exhausted_models() -> set[str]:
+    path = _quota_state_path()
+    if not path.exists():
+        return set()
+    try:
+        data = json.loads(path.read_text(encoding="utf-8"))
+    except (json.JSONDecodeError, OSError):
+        return set()
+    today = _today_utc()
+    return {model for model, date in data.items() if date == today}
+
+
+def _mark_quota_exhausted(model: str) -> None:
+    path = _quota_state_path()
+    data = {}
+    if path.exists():
+        try:
+            data = json.loads(path.read_text(encoding="utf-8"))
+        except (json.JSONDecodeError, OSError):
+            data = {}
+    data[model] = _today_utc()
+    try:
+        path.write_text(json.dumps(data), encoding="utf-8")
+    except OSError:
+        pass  # best-effort — losing this memory just means re-discovering it
+
+
 class ModelCascade:
     """Holds the active extract_fn and can fall back to the next model on a
     daily-quota exhaustion — a fresh model has its own separate quota bucket."""
@@ -729,8 +776,16 @@ class ModelCascade:
         self.models   = models
         self.api_key  = api_key
         self.host     = host
-        self.index    = 0
-        self.extract_fn = build_extract_fn(provider, models[0], api_key, host)
+
+        exhausted = _load_quota_exhausted_models()
+        self.index = next(
+            (i for i, m in enumerate(models) if m not in exhausted),
+            len(models) - 1,
+        )
+        if self.index > 0:
+            print(f"Skipping {', '.join(models[:self.index])} — already hit today's "
+                  f"quota earlier in this run; starting with {models[self.index]}.")
+        self.extract_fn = build_extract_fn(provider, models[self.index], api_key, host)
 
     @property
     def model(self) -> str:
@@ -756,6 +811,7 @@ def extract_with_retry(cascade: ModelCascade, image_b64: str) -> str:
                 return cascade.extract_fn(image_b64)
             except Exception as exc:
                 if _is_daily_quota_error(exc):
+                    _mark_quota_exhausted(cascade.model)
                     if cascade.advance():
                         break  # retry immediately on the new model
                     raise
