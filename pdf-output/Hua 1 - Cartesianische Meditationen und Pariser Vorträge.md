@@ -3878,7 +3878,7 @@ Andererseits aber enthält das Löwener Manuskript M II 5 I–II über die bishe
 
 Im Besitz von Dorion Cairns (New York) befindet sich ein anderes Schreibmaschinenmanuskript der *Cartesianischen Meditationen*, das Husserl selbst ihm gegen Ende des Jahres 1932 zugeeignet hat. Cairns bezeichnet es – in seiner jüngst erschienenen englischen Übersetzung der *Meditationen* [^14], worin die Abweichungen des Textes dieses Manuskripts von den in der 1. Auflage (1950) vorliegender Ausgabe veröffentlichten in Fußnoten vermerkt sind – als „Typescript C“. Das Husserl-Archiv zu Löwen dankt der Freundlichkeit von Professor Cairns die Überlassung einer Mikrofilmaufnahme dieses Manuskripts.
 
-Das „Typescript C“ trägt auf der ersten Seite die folgende Aufschrift von Husserls Hand: „Cartes. Meditationen / Originaltext 1929 / E. Husserl / für Dorion Cairns“. Cairns charakterisiert das Manuskript – und seine Benutzung in der englischen Übersetzung – wie folgt: „Its use of emphasis and quotation marks conforms more closely to Husserl’s practice, as exemplified in works published during his lifetime. In this respect the translation usually follows Typescript C [^15]. Moreover, some of the variant readings in this typescript are preferable and have been used as the basis for the translation ... The published text [^3] and Typescript C have been compared with the French translation by Gabrielle Peiffer and Übersetzung mit einiger Sorgfalt durchgesehen haben, denn er entdeckte bei dieser Gelegenheit, daß eine Seite Text fehlte – was allen anderen entgangen war. Vielleicht hat er auch erst bei dieser Gelegenheit die letzten Veränderungen des „Straßburger“ Manuskripts vorgenommen, die im „Löwener“ Manuskript fehlen. – Der Verbleib des „Straßburger“ Manuskripts ist unbekannt: Prof. Levinas erinnert sich nur, es Prof. Koyré zurückgesandt zu haben, Prof. Koyré nur, es Husserl zurückgesandt zu haben.
+Das „Typescript C“ trägt auf der ersten Seite die folgende Aufschrift von Husserls Hand: „Cartes. Meditationen / Originaltext 1929 / E. Husserl / für Dorion Cairns“. Cairns charakterisiert das Manuskript – und seine Benutzung in der englischen Übersetzung – wie folgt: „Its use of emphasis and quotation marks conforms more closely to Husserl’s practice, as exemplified in works published during his lifetime. In this respect the translation usually follows Typescript C [^15]. Moreover, some of the variant readings in this typescript are preferable and have been used as the basis for the translation ... The published text [^16] and Typescript C have been compared with the French translation by Gabrielle Peiffer and Übersetzung mit einiger Sorgfalt durchgesehen haben, denn er entdeckte bei dieser Gelegenheit, daß eine Seite Text fehlte – was allen anderen entgangen war. Vielleicht hat er auch erst bei dieser Gelegenheit die letzten Veränderungen des „Straßburger“ Manuskripts vorgenommen, die im „Löwener“ Manuskript fehlen. – Der Verbleib des „Straßburger“ Manuskripts ist unbekannt: Prof. Levinas erinnert sich nur, es Prof. Koyré zurückgesandt zu haben, Prof. Koyré nur, es Husserl zurückgesandt zu haben.
 
 [^1]: Edmund Husserl, *Cartesian Meditations. An Introduction to Phenomenology*. Translated by Dorion Cairns. The Hague, Martinus Nijhoff, 1960.
 [^2]: Es ist hier darauf hinzuweisen, daß im Interesse größerer Übersichtlichkeit und Lesbarkeit des Textes in diesem I. Bande der *Husserliana* von Husserl zwischen Anführungszeichen gesetzte Worte fast stets *ohne* Anführungszeichen, aber in *Kursivdruck* wiedergegeben wurden; auch in der vorliegenden 2. Auflage gibt im Text nur Sperrdruck Unterstreichungen in den Manuskripten wieder, *Kursivdruck* stets nur zwischen Anführungszeichen gesetzte Worte.
@@ -3890,9 +3890,82 @@ Emmanuel Levinas (...). The use of emphasis and quotation marks in the French tr
 
 Hierin liegt in der Tat die – von Cairns, vielleicht allzu vorsichtig, nur angedeutete – Bedeutung dieses ,,Typescript C'', daß von allen bekannten deutschen Originalfassungen sein Text – den Husserl selbst ausdrücklich als den ,,Originaltext 1929'' bezeichnet hat – demjenigen am nächsten steht, der an der französischen Übersetzung, und d.h. der einzigen von Husserl eigens autorisierten Veröffentlichung der *Meditationen*, zugrundegelegen haben muß[^15].
 
-Das Schreibmaschinenmanuskript ,,C'', das insgesamt 167 Seiten zählt und im Unterschied zu dem im Husserl-Archiv zu Löwen befindlichen (M II 5 I–II) das Format 33 × 21 cm hat, also nicht etwa lediglich ein anderes Durchschlagsexemplar von diesem ist, weist – mit einer einzigen Ausnahme[^15] – keinerlei sachlich bedeutsame handschriftliche Veränderungen auf; lediglich offenkundige Schreibversehen sind (teils von Cairns’, teils von einer unbekannten Hand) korrigiert und im Maschinentext für griechische Wörter gelassene Lücken (teilweise von Husserls Hand?) handschriftlich ausgefüllt. Die in M II 5 I–II auf den ersten Seiten von Husserls Hand, im weiteren von Fink mit Tinte eingetragenen Verbesserungen und Zusätze – diejenigen also, die durchweg in der französischen Übersetzung berücksichtigt sind, also vor dem 17. Mai 1929 angebracht sein dürften (s.o.) – finden sich im ,,Typescript C'' in den maschinenschriftlichen Text aufgenommen. Hingegen sind die in M II 5 I–II nach dem 17. Mai 1929 von Husserls Hand mit Bleistift oder in Form von *stenographischen* Einlageblättern vorgenommenen Textveränderungen, die in die französische Übersetzung nicht eingegangen sind, im ,,Typescript C'' ebenfalls nicht berücksichtigt. Endlich aber sind nicht ganz wenige Abweichungen des maschinenschriftlichen Textes des ,,Typescript C'' gegenüber dem maschinenschriftlichen sowohl als auch gegenüber dem durch die handschriftlichen Veränderungen entstandenen Text des Löwener M-Manuskripts festzustellen, die sachlich bedeutsam sind. Hier
+
+<!-- 226 TEXTKRITISCHER ANHANG -->
+Das Schreibmaschinenmanuskript ,,C'', das insgesamt 167 Seiten zählt und im Unterschied zu dem im Husserl-Archiv zu Löwen befindlichen (M II 5 I–II) das Format 33 × 21 cm hat, also nicht etwa lediglich ein anderes Durchschlagsexemplar von diesem ist, weist – mit einer einzigen Ausnahme[^15] – keinerlei sachlich bedeutsame handschriftliche Veränderungen auf; lediglich offenkundige Schreibversehen sind (teils von Cairns’, teils von einer unbekannten Hand) korrigiert und im Maschinentext für griechische Wörter gelassene Lücken (teilweise von Husserls Hand?) handschriftlich ausgefüllt. Die in M II 5 I–II auf den ersten Seiten von Husserls Hand, im weiteren von Fink mit Tinte eingetragenen Verbesserungen und Zusätze – diejenigen also, die durchweg in der französischen Übersetzung berücksichtigt sind, also vor dem 17. Mai 1929 angebracht sein dürften (s.o.) – finden sich im ,,Typescript C'' in den maschinenschriftlichen Text aufgenommen. Hingegen sind die in M II 5 I–II nach dem 17. Mai 1929 von Husserls Hand mit Bleistift oder in Form von *stenographischen* Einlageblättern vorgenommenen Textveränderungen, die in die französische Übersetzung nicht eingegangen sind, im ,,Typescript C'' ebenfalls nicht berücksichtigt. Endlich aber sind nicht ganz wenige Abweichungen des maschinenschriftlichen Textes des ,,Typescript C'' gegenüber dem maschinenschriftlichen sowohl als auch gegenüber dem durch die handschriftlichen Veränderungen entstandenen Text des Löwener M-Manuskripts festzustellen, die sachlich bedeutsam sind. Hier dürfte das ,,Typescript C'' auf handschriftlichen Verbesserungen Husserls in einem anderen als dem in Löwen erhaltenen Exemplar des Schreibmaschinenmanuskripts von 1929 fußen. Bemerkenswerterweise handelt es sich bei diesen Textänderungen im ,,Typescript C'', die sich im Löwener M-Manuskript nicht finden, in mehreren nachprüfbaren Fällen [^14] um Wiederherstellung des ursprünglichen Textes des stenographischen Manuskripts F II 5 (s.o.), wo dessen maschinenschriftliche Wiedergabe im M-Manuskript von diesem abgewichen war, bzw. um die Beseitigung von Irrtümern bei der Redaktion des M-Manuskripts, die aus der Zweideutigkeit des Stenogramms entstehen konnten, aber, einmal erkannt, als Irrtümer evident sind. Und ebenso bemerkenswert ist es, daß insbesondere in all diesen Fällen unter den Abweichungen des ,,Typescript C'' von M II 5 I–II die französische Übersetzung eindeutig dem Text des ,,Typescript C'' entspricht.
+
+Somit stellt sich das ,,Typescript C'' alles in allem als eine Reinschrift des Textes der *Cartesianischen Meditationen* in der Fassung dar, die dieser Text in dem am 17. Mai 1929 (oder wenige Tage danach) nach Straßburg abgesandten Manuskript zu eben diesem Zeitpunkt angenommen hatte [^15]. Allerdings dürfte das ,,Typescript C'' – nach von Dorion Cairns persönlich mitgeteilten Tatsachen und begründeten Vermutungen – erst im Laufe des Jahres 1932 – von einem der jüngeren Freunde und Schüler Husserls oder für ihn – hergestellt worden sein, doch offenbar als Abschrift entweder des zuvor nach Straßburg gesandten Manuskripts selbst [^16] in seinem erhaltenen Zustande vom 17. Mai 1929 oder aber noch eines anderen Exemplars des Maschinenmanuskripts von 1929, das gleichfalls (und jedenfalls genauer als das in Löwen aufbewahrte Exemplar) in den Zustand des ,,Straßburger'' Manuskripts vom 17. Mai 1929 gebracht und in diesem erhalten worden war [^17].
+
+
+<!-- TEXTKRITISCHER ANHANG 227 -->
+Der in vorliegender Ausgabe gedruckte Text der *Cartesianischen Meditationen* fußt grundsätzlich auf dem des Löwener Exemplars des Maschinenmanuskripts von 1929 (M II 5 I–II), unter Einschluß der (bis zum 17. Mai 1929 abgeschlossenen) in ihm mit Tinte angebrachten
+Verbesserungen, jedoch unter Ausschluß der (nach dem 17. Mai 1929) in
+dieses Manuskript mit Bleistift eingetragenen Veränderungen und
+Bemerkungen sowie der stenographischen Einlageblätter; deren Wieder-
+gabe ist in den Anhang verwiesen. In der vorliegenden 2. Auflage wurde an
+solchen Stellen, an denen im „Typescript C“ offensichtlich irrige Wieder-
+gaben der stenographischen Vorlagen im Maschinentext von M II 5 I–II
+bereinigt sind, der Text von M II 5 I–II durch den des „Typescript C“
+ersetzt. An diesen Stellen geben die Textkritischen Anmerkungen die
+Quelle unter Verweis auf die Fußnoten in Dorion Cairns’ Übersetzung der
+*Meditationen* an und die Varianten von M II 5 I–II wieder.
 
 ---
 
 [^14]: Aus der von Dorion Cairns seiner Übersetzung vorangestellten ,,Note'', a.a.O., S. VII.
 [^15]: Unter den gelegentlichen Abweichungen der französischen Übersetzung vom Text des ,,Typescript C'' scheint einzig die folgende bedeutsam zu sein: Die Übersetzung gibt nicht die Worte ,,sinnlichen und in Sinnlichkeit fundierten'' wieder, die an der Stelle S. 59, Zeile 11–12 vorliegender Ausgabe zwischen ,,jedes'' und ,,Erfahrungs­glaubens'' im ,,Typescript C'' (vgl. Cairns, a.a.O., S. 19, Anm. 2) eingefügt sind; doch zugleich handelt es sich hierbei um die einzige bedeutsame handschriftliche Veränderung (von unbekannter Hand) im ,,Typescript C''. – Übrigens ist auf derselben S. 59 nach dem maschinenschriftlichen Text von ,,C'' Zeile 29 statt ,,Erfahrung'', ,,Welterfahrung'', Zeile 31 statt ,,erfahrenden'' ,,welterfahrenden'' zu lesen. Wenn die französische Übersetzung dies mit ,,expérience naturelle'' bzw. einfach ,,empiriques'' wiedergibt, ist darin – z.B. – schwerlich eine bedeutsame Abweichung zu erblicken.
+[^14]: Für die Mehrzahl der in das Maschinenmanuskript von 1929 nachträglich eingefügten maschinengeschriebenen Blätter (s.o.) fehlen im Husserl-Archiv die stenographischen Unterlagen.
+[^15]: Die Fixierung des Datums vom 17. Mai 1929 – hier und in den folgenden Zeilen – steht unter dem Vorbehalt der S. 223, Anm. 1 erwogenen Möglichkeit.
+[^16]: Vgl. S. 223, Anm. 1.
+[^17]: Ein solches Exemplar des Maschinenmanuskripts von 1929, das offenbar genauer in den Zustand des ,,Straßburger'' Manuskripts vom 17. Mai 1929 gebracht und darin erhalten war, jedoch anscheinend ebenfalls ohne mit diesem materialiter oder im Textbestand gänzlich identisch zu sein, hat Prof. Cairns nach einer persönlichen Mitteilung noch 1931 bei Husserl konsultieren können. Auch der Verbleib dieses Manuskripts ist unbekannt. – Der endlich doch nicht ausgeschlossenen Möglichkeit, daß das ,,Typescript C'' ein Durchschlag einer Reinschrift wäre, die um den 17. Mai 1929 als Unterlage für die französische Übersetzung noch eigens hergestellt worden wäre, ist der Bearbeiter vorliegender 2. Auflage nachgegangen. Die Erinnerungen der Befragten widersprechen dieser Möglichkeit nicht ausdrücklich, lassen sie aber auch nur als vage Möglichkeit zu; Dorion Cairns hält sie für fast ausgeschlossen.
+
+## b. DAS VERHÄLTNIS DER FASSUNGEN ZUEINANDER
+
+Aus dem Text zweier Vorträge machte Husserl im Laufe seiner Aus-
+arbeitung eine allerdings meist sehr allgemein gehaltene Übersicht über
+beinahe alle Zweige der transzendentalen Phänomenologie. Damit ist
+bereits gesagt, daß der heute vorliegende Text der *Cartesianischen
+Meditationen* im Vergleich mit der Urfassung ein Vielfaches an Umfang
+darstellt. Aus knappen Andeutungen und kurzen Behauptungen wurden
+im Laufe der Ausgestaltung ganze Paragraphen (etwa zu Beginn der III.
+Meditation). Aber nicht nur ausführlicher, auch wuchtiger und eindrucks-
+voller wurde die Sprache Husserls (wofür etwa die Beginn der V. Medi-
+tation ein gutes Beispiel bietet), leider auch – infolge seines Bestrebens,
+so umfassend und genau wie möglich zu sein – kompliziert und unüber-
+sichtlich. Daneben machen sich natürlich verschiedene Einzelbestrebungen
+geltend, so etwa die Betonung des neugewonnenen transzendentalen
+Standpunktes, die Befürchtung, seine Philosophie als Neu-Cartesianismus
+mißverstanden zu sehen usw.
+
+Im allgemeinen steht der Text des Maschinenmanuskriptes dem der
+„Ausarbeitung“ sehr nahe. Vielfach handelt es sich hierbei nur um eine
+verständnisvolle Transkription. Doch finden wir auch schon in der
+I. Meditation ganze Stellen, die Husserl abgeändert oder hin-
+zugefügt hat. Meist handelt es sich dabei um ein besonderes Anliegen
+der transzendentalen Phänomenologie (wie etwa den Radikalismus des
+Beginns in der I. Meditation). Je weiter der Gang der Meditationen
+fortschreitet, desto größer wird der Unterschied zwischen den beiden
+Fassungen. Dies ist aber vermutlich – und in manchen Fällen nach-
+weisbar – auf die zahlreichen Einschübe und Veränderungen am
+Maschinenmanuskript zurückzuführen. Zählte doch bereits die erste
+Meditation, wie aus der Originalpaginierung hervorgeht, ursprünglich
+23 Maschinenschriftseiten, während wie in der heute vorliegenden Form
+im Original 49 Seiten umfaßt.
+
+Analoges läßt sich von dem Verhältnis der „Ausarbeitung“ zu dem
+Text der *Pariser Vorlesungen* sagen. Was als „Ausarbeitung“ begann,
+nahm sehr bald den Charakter einer völligen Umarbeitung an.
+
+<!-- 228 TEXTKRITISCHER ANHANG -->
+
+So kann man sich die Entstehung der *Cartesianischen Meditationen* vom textkritischen Standpunkt folgendermaßen vorstellen: Der Text der Vorlesungen bildete die Grundlage zu einer Bearbeitung, die im Laufe der Arbeit den Charakter einer völligen Neufassung annahm. Diese Ausarbeitung wurde dann abgetippt, doch erfuhr das Maschinenmanuskript seinerseits noch zahlreiche Veränderungen und vor allem umfangreiche Erweiterungen[^1]).
+
+## C. DIE ZU DEN „CARTESIANISCHEN MEDITATIONEN” IN UNMITTELBARER BEZIEHUNG STEHENDEN MANUSKRIPTE
+
+Der Text der Inhaltsübersicht zu den *Pariser Vorlesungen* befindet sich auf einer Reihe loser Blätter im Format $28\frac{1}{2} \times 22\frac{1}{2}$ cm. Es handelt sich um Durchschläge von Maschinenschrift. Der Durchschlag des ersten Blattes ist beschädigt und wurde von Husserl handschriftlich ergänzt. — Das für das französische Publikum bestimmte „Sommaire ...” ist gedruckt. Die beiden genannten Manuskripte tragen die Signatur M II 5 VII 1 bzw. M II 5 VII 2.
+
+Die kritischen Bemerkungen Roman Ingardens sind maschinengeschrieben und weisen handschriftliche Ergänzungen von dem Autor auf. Husserl hat sie mit zahlreichen Zeichen und Bemerkungen versehen. Auch hat er diejenigen Bemerkungen, die ihm wichtig schienen, besonders gekennzeichnet. Dieses Manuskript wird im Husserl-Archiv unter der Signatur M II 5 VIII bewahrt.
+
+---
+
+[^18]: Vgl. die Übersicht über die Entsprechung der Texte der *Pariser Vorträge* und der *Cartesianischen Meditationen*, S. 248.
