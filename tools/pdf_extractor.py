@@ -108,11 +108,13 @@ You are extracting text from a scanned or typeset academic PDF page image.
 
 Rules:
 1.  Extract ALL text faithfully — headings, body paragraphs, captions, footnotes.
-2.  Format headings with Markdown:
+2.  Format headings with Markdown — but ONLY for a heading that genuinely starts
+    a new chapter or section AT THIS POINT in the page:
       # Title      → document title or chapter title
       ## Section   → major section headings
       ### Sub      → subsection headings
       #### SubSub  → sub-subsection headings
+    Do NOT mark a running header as a heading — see rule 6.
 3.  Mark inline footnote calls in the body text as [^N] (e.g. word[^1], phrase[^2]).
 4.  Collect footnote definitions at the very end of your response, wrapped exactly as:
 
@@ -122,12 +124,32 @@ FOOTNOTES_BEGIN
 FOOTNOTES_END
 
 5.  If the page has no footnotes, omit the FOOTNOTES_BEGIN/FOOTNOTES_END block entirely.
-6.  Page numbers and running headers/footers that are purely navigational should be
-    omitted or wrapped in an HTML comment: <!-- p. 42 -->
+6.  A running header/footer is text that repeats near the top or bottom of every page of
+    a chapter (e.g. the chapter title, and/or the page number). It is page furniture, not
+    content — it must NEVER be formatted as a Markdown heading and must NEVER be left as
+    plain body text. Omit it, or wrap it in a single HTML comment: <!-- p. 42 --> or
+    <!-- 42 CHAPTER TITLE -->. The same applies to marginal line-numbers printed next to
+    the text in critical editions — omit them; never inline them into the sentence.
 7.  Output ONLY the extracted text — no commentary, introductions, or summaries.
-8.  Separate paragraphs with a blank line.
+8.  Separate paragraphs with a blank line. If the page begins mid-paragraph (continuing a
+    sentence from the previous page) or ends mid-paragraph (continuing onto the next page),
+    do NOT insert a paragraph break — start/end the text exactly as it appears, so the
+    surrounding pages can be rejoined into one continuous paragraph.
 9.  For tables, use Markdown table syntax where feasible.
 10. For mathematical expressions, use LaTeX: inline $...$ or display $$...$$.
+11. Title pages, half-title pages, series pages, and copyright/colophon pages (mostly
+    large centered or stacked lines — title, author, publisher — rather than flowing
+    prose) are front matter, not chapter content. Do not turn every prominent line into
+    its own Markdown heading. Use at most one "# " heading for the actual book title if
+    this is its title page, and render every other line (subtitle, author, edition,
+    imprint) as plain text.
+12. German (and other) typeset text sometimes emphasizes a word or phrase by letter-
+    spacing it (Sperrdruck), e.g. "g e s p e r r t" instead of italics. Recognize this and
+    render it as normal italic Markdown instead: *gesperrt*. Do not transcribe the extra
+    spacing literally.
+13. Preserve every genuine italic span exactly as *italic* Markdown — single emphasized
+    words, names, foreign-language phrases, and titles of works — do not drop italic
+    formatting on any of them.
 """
 
 
@@ -242,6 +264,12 @@ def parse_page_result(raw: str, page_num: int) -> PageResult:
 # ─── Document assembly ────────────────────────────────────────────────────────
 
 _HEADING_RE = re.compile(r"^(#{1,4})\s+")
+_COMMENT_RE = re.compile(r"^<!--.*-->$")
+_ARABIC_PAGE_NUM_RE = re.compile(r"^\d+\.?$")
+_ROMAN_PAGE_NUM_RE = re.compile(r"^[IVXLCDM]+\.?$")
+_SENTENCE_END_CHARS = ".!?”“’’\"'»:;*"
+_HYPHEN_BREAK_RE = re.compile(r"(\w)-$")
+_DOT_LEADER_RE = re.compile(r"(?:\.\s*){3,}\d+$")  # a table-of-contents entry: "... 76"
 
 
 def _heading_level(line: str) -> int:
@@ -249,24 +277,177 @@ def _heading_level(line: str) -> int:
     return len(m.group(1)) if m else 0
 
 
+def _normalize_heading(text: str) -> str:
+    """Strip Markdown '#'s and punctuation, casefold, for duplicate-heading comparison."""
+    text = re.sub(r"^#{1,4}\s*", "", text.strip())
+    text = re.sub(r"\s+", " ", text).strip()
+    return text.strip(" .:").casefold()
+
+
+def _is_page_number_line(line: str) -> bool:
+    s = line.strip()
+    return bool(s) and bool(_ARABIC_PAGE_NUM_RE.match(s) or _ROMAN_PAGE_NUM_RE.match(s))
+
+
+def _is_comment_line(line: str) -> bool:
+    return bool(_COMMENT_RE.match(line.strip()))
+
+
+def _ends_sentence(line: str) -> bool:
+    """True if this line looks like the end of a paragraph (not a mid-sentence page break)."""
+    s = line.rstrip()
+    if not s or re.fullmatch(r"[-*]{3,}", s) or _DOT_LEADER_RE.search(s):
+        return True
+    return s[-1] in _SENTENCE_END_CHARS
+
+
+def _join_continuation(prev_tail: str, next_line: str) -> str:
+    """Join a paragraph's tail (from one page) with its continuation (from the next)."""
+    next_line = next_line.lstrip()
+    m = _HYPHEN_BREAK_RE.search(prev_tail)
+    if m and next_line[:1].islower():
+        return prev_tail[:-1] + next_line  # drop the line-break hyphen, no space
+    if not prev_tail or prev_tail.endswith(" "):
+        return prev_tail + next_line
+    return prev_tail + " " + next_line
+
+
+def _split_blocks(body: str) -> list[list[str]]:
+    """Split a page's body into blank-line-delimited blocks of lines."""
+    raw = re.split(r"\n\s*\n", body.strip("\n"))
+    return [b.splitlines() for b in raw if b.strip()]
+
+
+def _render_title_page(blocks: list[list[str]], opening_rule: bool = True) -> list[str]:
+    """Render a title/cover page's stacked headings as a single set-off block."""
+    lines: list[str] = ["---", ""] if opening_rule else []
+    for block in blocks:
+        first = block[0].strip()
+        if _heading_level(first):
+            text = re.sub(r"^#{1,4}\s*", "", first).strip()
+            if text:
+                lines.append(f"**{text}**")
+                lines.append("")
+            lines.extend(block[1:])
+        else:
+            lines.extend(block)
+        lines.append("")
+    while lines and lines[-1] == "":
+        lines.pop()
+    lines.append("")
+    lines.append("---")
+    return lines
+
+
+def _has_adjacent_headings(blocks: list[list[str]]) -> bool:
+    """True if two *bare* heading lines (nothing else in their block) appear back-to-back
+    with no body text between them — the structural signature of stacked title-page
+    typography (Title / Subtitle / Author), not a real chapter break or a table-of-contents
+    entry (where a heading-formatted line is immediately followed by its own body text)."""
+    was_bare_heading = False
+    for block in blocks:
+        is_bare_heading = len(block) == 1 and bool(_heading_level(block[0]))
+        if is_bare_heading and was_bare_heading:
+            return True
+        was_bare_heading = is_bare_heading
+    return False
+
+
 def build_sections(pages: list[PageResult]) -> list[Section]:
     """
     Convert the flat page sequence into Section objects.
+
     Footnotes from each page are attached to the section active at that page's end.
+    Running headers/page-numbers that leaked into the body as stray text are dropped,
+    paragraphs that continue across a page boundary are rejoined, repeated running
+    headers formatted as Markdown headings are collapsed into the enclosing section,
+    and pages with stacked title-page typography are set off as their own block.
     """
     sections: list[Section] = []
     current = Section()  # preamble – content before first heading
+    current_heading_norm = ""
+    pending_comments: list[str] = []
+
+    def _flush_comments() -> None:
+        nonlocal pending_comments
+        if pending_comments:
+            if current.body_lines:
+                current.body_lines.append("")
+            current.body_lines.extend(pending_comments)
+            pending_comments = []
 
     for page in pages:
-        for line in page.body.splitlines():
-            lvl = _heading_level(line)
+        blocks = _split_blocks(page.body)
+
+        if _has_adjacent_headings(blocks):
+            _flush_comments()
+            last_line = next((l.strip() for l in reversed(current.body_lines) if l.strip()), "")
+            rendered = _render_title_page(blocks, opening_rule=last_line != "---")
+            if current.body_lines:
+                current.body_lines.append("")
+            current.body_lines.extend(rendered)
+            current.footnotes.extend(page.footnotes)
+            continue
+
+        first_content_seen = False  # only the page's *first* content block may
+                                     # be merged with the previous page's tail —
+                                     # blocks later on the same page are already
+                                     # correctly paragraph-separated by the model
+
+        for block in blocks:
+            first_line = block[0]
+
+            if len(block) == 1 and _is_comment_line(first_line):
+                pending_comments.append(first_line.strip())
+                continue
+
+            lvl = _heading_level(first_line)
             if lvl:
+                heading_text = first_line.strip()
+                if current_heading_norm and _normalize_heading(heading_text) == current_heading_norm:
+                    # a running header repeating the current section's own title
+                    _flush_comments()
+                    if block[1:]:
+                        if current.body_lines:
+                            current.body_lines.append("")
+                        current.body_lines.extend(block[1:])
+                    first_content_seen = True
+                    continue
+                _flush_comments()
                 sections.append(current)
-                current = Section(heading=line.strip(), level=lvl)
+                current = Section(heading=heading_text, level=lvl)
+                current_heading_norm = _normalize_heading(heading_text)
+                current.body_lines.extend(block[1:])
+                first_content_seen = True
+                continue
+
+            if len(block) == 1:
+                line = block[0].strip()
+                if _is_page_number_line(line) or (
+                    current_heading_norm and _normalize_heading(line) == current_heading_norm
+                ):
+                    continue  # stray running-header/page-number text, not real content
+
+            if (
+                not first_content_seen
+                and current.body_lines
+                and not _ends_sentence(current.body_lines[-1])
+            ):
+                prev_tail = current.body_lines.pop()
+                merged = _join_continuation(prev_tail, block[0])
+                _flush_comments()
+                current.body_lines.append(merged)
+                current.body_lines.extend(block[1:])
             else:
-                current.body_lines.append(line)
+                _flush_comments()
+                if current.body_lines:
+                    current.body_lines.append("")
+                current.body_lines.extend(block)
+            first_content_seen = True
+
         current.footnotes.extend(page.footnotes)
 
+    _flush_comments()
     sections.append(current)
     return sections
 
@@ -334,12 +515,41 @@ def sections_to_markdown(sections: list[Section]) -> str:
     return "\n".join(parts).strip() + "\n"
 
 
+# ─── Sperrdruck (letter-spaced emphasis) cleanup ──────────────────────────────
+# Typeset German text often emphasizes a word/phrase by spacing out its letters
+# (Sperrdruck) instead of italicizing it. A vision model transcribes that spacing
+# literally (e.g. "t r a n s z e n d e n t a l"), so it needs to be collapsed back
+# into a word and marked as italic Markdown.
+
+_SPERRDRUCK_RE = re.compile(r"(?<!\w)(?:\w \w \w(?: \w)+)(?!\w)", re.UNICODE)
+
+
+def _collapse_sperrdruck_run(run: str) -> str:
+    """Rejoin a run of single letters into words, splitting before each capital
+    letter. Lowercase connector words (e.g. 'und') stay attached to the
+    preceding word — a safe compromise, since there's no reliable way to spot
+    a lowercase word boundary in already letter-spaced text."""
+    tokens = run.split(" ")
+    words = [tokens[0]]
+    for tok in tokens[1:]:
+        if tok.isupper():
+            words.append(tok)
+        else:
+            words[-1] += tok
+    return " ".join(words)
+
+
+def desperrdruck(text: str) -> str:
+    """Collapse letter-spaced (Sperrdruck) emphasis runs into italic Markdown."""
+    return _SPERRDRUCK_RE.sub(lambda m: f"*{_collapse_sperrdruck_run(m.group(0))}*", text)
+
+
 # ─── Output assembly helper ───────────────────────────────────────────────────
 
 def _assemble_and_write(page_results: list[PageResult], out_path: Path) -> str:
     sections = build_sections(page_results)
     sections = renumber_footnotes(sections)
-    markdown = sections_to_markdown(sections)
+    markdown = desperrdruck(sections_to_markdown(sections))
     out_path.write_text(markdown, encoding="utf-8")
     return markdown
 
