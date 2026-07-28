@@ -32,7 +32,13 @@ jobs:
           for f in pdf-input/*.pdf; do
             [ -e "$f" ] || continue
             base=$(basename "${f%.pdf}")
-            if ! python3 tools/pdf_extractor.py "$f" --provider gemini --fallback-models gemini-3.5-flash -o "pdf-output/${base}.md"; then
+            out="pdf-output/${base}.md"
+            progress="${out}.progress.json"
+            if [ -e "$out" ] && [ ! -e "$progress" ]; then
+              echo "Skipping $f (already converted → $out)"
+              continue
+            fi
+            if ! python3 tools/pdf_extractor.py "$f" --provider gemini --fallback-models gemini-3.5-flash -o "$out"; then
               echo "::error::Failed to convert $f"
               failed+=("$f")
             fi
