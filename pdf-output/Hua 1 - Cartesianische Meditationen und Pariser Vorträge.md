@@ -3987,4 +3987,360 @@ In den Anmerkungen ist alles vom Herausgeber Stammende in kur- sivem, alles zum 
 <!-- 15 -->
 
 <!-- 230 TEXTKRITISCHER ANHANG -->
-<!-- Cart. Meditationen --> Wissenschaften *verbessert in* Meinung. || **4,17** *Statt* Philosophen *Ms.:* Philosophes || **4,31** *Statt* läßt *Ms.:* lassen || **4,35** *Der gesamte Text von* 4,35 *bis* 5,19 *ist zwischen eckige Klammern gesetzt, quer durchgestrichen und mit zwei Nullen am Rande versehen.* || **5,38** *Am Rande:* Auch müssen verführerische Abirrungen, in die Descartes und die Folgezeiten verfallen sind, \*aufgeklärt und vermieden werden.\* (*Im Ms.:* ... müssen aufgeklärt ...) || **5,39 bis 6,2** *verbessert wie folgt:* Wir fangen also neu an ... mit dem Entschluß radikal anfangender Philosophen, alle unsere bisher gebildeten Überzeugungen und zunächst also auch alle uns < ? > vorgegebenen Wissenschaften außer Spiel zu setzen. || **6,5** *Der gesamte Text von* 6,5 *bis zu* 7,3 *in Anspruch nehmen kreuzweise durchgestrichen.* || **6,8** *Am Rande:* Natürlich auf Wissen aus durchgängiger Begründung. Das sagt, so dürfen wir auslegen: || **6,10** *d.h. auszuweisen geändert in:* d.h. was auszuweisen ist || **6,13** *Nach* uns *eingefügt:* selbst || **6,16–19** *Von* Haben wir *an vielleicht späterer Zusatz.* || **6,20–7,13** *ist zwischen doppelte eckige Bleistiftklammern gesetzt.* || **6,33** *Am Rande:* Zweifellos, diese Evidenz ist die an sich erste des Weltlebens und der Weltwissenschaft. || **7,12** *Nach* für uns *eingefügt:* auf Grund der natürlichen Erfahrungsevidenz || **7,18** *an sich verbessert in:* schlechthin || **7,22** *recht verbessert in* rechter Weise || **7,23f.** *Statt* als dem *Ms.:* als den || **7,33** *Von* für mich *an verbessert in:* ja nur Erfahrungsgegebenheiten vermöge der sinnlichen Erfahrung ihrer körperlichen Leiber || **7,37** Welt *ersetzt durch:* Lebensumwelt || **7,39** *Statt* mag *Ms.:* vermag || **8,8** *Zu* Kulturobjekten *usw. hinzugefügt:* als erscheinende || **8,8** *Am Rande der obigen Stelle Bemerkung: kürzen, aber anscheinend später wieder durchgestrichen.* || **8,13** sie *ersetzt durch:* ihre Setzungsgehalte || **8,14** nämlich *verbessert in:* sondern ihr Verbleiben || **8,22** *Nach* ist für mich *hinzugefügt — das heißt:* gilt für mich, und zwar || **8,30** *Nach* Weltleben *hinzugefügt:* wohin auch mein wissenschaftlich forschendes und begründendes Leben gehört. || **8,31f.** *Verbessert:* ... -handeln, als die in mir || **8,38–9,4** *Der Absatz ist mit Bleistift kreuzweise durchgestrichen.* || **9,15–17** *aus* bis Vorurteile *abgeändert in:* aus der Bewunderung der mathematischen Naturwissenschaft herstammenden und uns selbst als alte Erbschaft bestimmenden Vorurteile || **9,18–21** *Der Satz wurde von* um ein an *abgeändert wie folgt:* um ein apodiktisches ,,Axiom'' handle, das im Verein mit aufzuweisenden anderen und dazu eventuell induktiv begründeten Hypothesen das Fundament für eine deduktive ,,erklärende'' Weltwissenschaft abzugeben habe, eine ,,nomologische'' Wissenschaft, eine Wissenschaft ,,ordine geometrico'', eben ähnlich wie die mathematische Naturwissenschaft. || **9,22** *Nach* es *eingefügt:* auch || **9,32** *Nach* des *eingefügt:* (wie hier noch nicht ersichtlich werden kann) widersinnigen || **9,35** *Nach* also *eingefügt:* hier || **10,8** *Das* ja *durchgestrichen.* *Am Rande: Die Seitenbemerkungen bzw. Einfügungen gehörten ursprünglich nicht zur Vorlesung.* || **10,12ff.** *Am Rande mit Bleistift, später mit Tinte überschrieben:* Dieses Ich und Ich-Leben, das für mich, den radikal Philosophierenden, dadurch allein sichtlich wird, daß ich die naiv-natürliche Seinsgeltung der Welt außer Spiel setze, ist nicht ein Stück der Welt, ist nicht die Seele, das was der Mensch, sich an die bloß innere Erfahrung haltend, von sich selbst als
+<!-- Cart. Meditationen --> Wissenschaften *verbessert in* Meinung. || **4,17** *Statt* Philosophen *Ms.:* Philosophes || **4,31** *Statt* läßt *Ms.:* lassen || **4,35** *Der gesamte Text von* 4,35 *bis* 5,19 *ist zwischen eckige Klammern gesetzt, quer durchgestrichen und mit zwei Nullen am Rande versehen.* || **5,38** *Am Rande:* Auch müssen verführerische Abirrungen, in die Descartes und die Folgezeiten verfallen sind, \*aufgeklärt und vermieden werden.\* (*Im Ms.:* ... müssen aufgeklärt ...) || **5,39 bis 6,2** *verbessert wie folgt:* Wir fangen also neu an ... mit dem Entschluß radikal anfangender Philosophen, alle unsere bisher gebildeten Überzeugungen und zunächst also auch alle uns < ? > vorgegebenen Wissenschaften außer Spiel zu setzen. || **6,5** *Der gesamte Text von* 6,5 *bis zu* 7,3 *in Anspruch nehmen kreuzweise durchgestrichen.* || **6,8** *Am Rande:* Natürlich auf Wissen aus durchgängiger Begründung. Das sagt, so dürfen wir auslegen: || **6,10** *d.h. auszuweisen geändert in:* d.h. was auszuweisen ist || **6,13** *Nach* uns *eingefügt:* selbst || **6,16–19** *Von* Haben wir *an vielleicht späterer Zusatz.* || **6,20–7,13** *ist zwischen doppelte eckige Bleistiftklammern gesetzt.* || **6,33** *Am Rande:* Zweifellos, diese Evidenz ist die an sich erste des Weltlebens und der Weltwissenschaft. || **7,12** *Nach* für uns *eingefügt:* auf Grund der natürlichen Erfahrungsevidenz || **7,18** *an sich verbessert in:* schlechthin || **7,22** *recht verbessert in* rechter Weise || **7,23f.** *Statt* als dem *Ms.:* als den || **7,33** *Von* für mich *an verbessert in:* ja nur Erfahrungsgegebenheiten vermöge der sinnlichen Erfahrung ihrer körperlichen Leiber || **7,37** Welt *ersetzt durch:* Lebensumwelt || **7,39** *Statt* mag *Ms.:* vermag || **8,8** *Zu* Kulturobjekten *usw. hinzugefügt:* als erscheinende || **8,8** *Am Rande der obigen Stelle Bemerkung: kürzen, aber anscheinend später wieder durchgestrichen.* || **8,13** sie *ersetzt durch:* ihre Setzungsgehalte || **8,14** nämlich *verbessert in:* sondern ihr Verbleiben || **8,22** *Nach* ist für mich *hinzugefügt — das heißt:* gilt für mich, und zwar || **8,30** *Nach* Weltleben *hinzugefügt:* wohin auch mein wissenschaftlich forschendes und begründendes Leben gehört. || **8,31f.** *Verbessert:* ... -handeln, als die in mir || **8,38–9,4** *Der Absatz ist mit Bleistift kreuzweise durchgestrichen.* || **9,15–17** *aus* bis Vorurteile *abgeändert in:* aus der Bewunderung der mathematischen Naturwissenschaft herstammenden und uns selbst als alte Erbschaft bestimmenden Vorurteile || **9,18–21** *Der Satz wurde von* um ein an *abgeändert wie folgt:* um ein apodiktisches ,,Axiom'' handle, das im Verein mit aufzuweisenden anderen und dazu eventuell induktiv begründeten Hypothesen das Fundament für eine deduktive ,,erklärende'' Weltwissenschaft abzugeben habe, eine ,,nomologische'' Wissenschaft, eine Wissenschaft ,,ordine geometrico'', eben ähnlich wie die mathematische Naturwissenschaft. || **9,22** *Nach* es *eingefügt:* auch || **9,32** *Nach* des *eingefügt:* (wie hier noch nicht ersichtlich werden kann) widersinnigen || **9,35** *Nach* also *eingefügt:* hier || **10,8** *Das* ja *durchgestrichen.* *Am Rande: Die Seitenbemerkungen bzw. Einfügungen gehörten ursprünglich nicht zur Vorlesung.* || **10,12ff.** *Am Rande mit Bleistift, später mit Tinte überschrieben:* Dieses Ich und Ich-Leben, das für mich, den radikal Philosophierenden, dadurch allein sichtlich wird, daß ich die naiv-natürliche Seinsgeltung der Welt außer Spiel setze, ist nicht ein Stück der Welt, ist nicht die Seele, das was der Mensch, sich an die bloß innere Erfahrung haltend, von sich selbst als TEXTKRITISCHER ANHANG 231
+
+
+<!-- 232 TEXTKRITISCHER ANHANG -->
+seinen ,,animus'', seine reine ,,mens'' erfaßt. || 10,13 Von Person ab bis zum Satzende zwischen roten eckigen Klammern, die mit Bleistift durchgestrichen sind. || 10,21 Nach in der Welt am Rande Bleistiftbemerkung, mit Tinte überschrieben: und das gilt natürlich auch von dem eigenen Seelenleben, das ich in psychologisch innerer Erfahrung rein für sich betrachte. || 10,24f. Von überhaupt bis Welttatsachen durchgestrichen. Am Rande unleserliche Bleistiftbemerkung, da sie mit folgendem mit Tinte geschriebene Text überdeckt ist: also wie die Seinsgeltung aller objektiv apperzipierten Tatsachen auch diejenige der Tatsachen der inneren Erfahrung. || 10,26 Nach Für mich eingeschoben: für das radikal philosophierende Ich, das sich selbst ausschließlich als Seins- und Geltungsgrund aller objektiv geltenden Gründe setzt || 10,27 Nach Akte, eingefügt: keine || 10,29 auch durchgestrichen || 10,31f. Von und bis allein durchgestrichen || 10,33–34 mit dem enthalte(n) gestrichen? || 10,35 Nach dieser Welt eingefügt: mit allen ihren Objekten und ihrem Das folgende und des Textes ist durchgestrichen, so daß zu lesen wäre: und ihrem jeweiligen So-sein. || 10,36–39 Der Satz sollte vermutlich abgeändert werden wie folgt: Heißt die Welt meiner Erfahrung, da ... dieses mein reines Sein nicht aufheben könnte, transzendent, so kann dann dieses mein reines Ich und Ich-Leben transzendental genannt werden. || 11,3 Ende des 1. Vortrages bzw. der ersten Hälfte des 1. Doppelvortrages. || 11,4 Am Rande Querstrich und rot: II || 11,15–22 Der Satz ist mit Blaustift eingeklammert und mit Bleistift durchgestrichen. || 11,28 Nach Begründung hinzugefügt: gegenüber der objektiven oder positiven || 12,2 Von reines Ich an abgeändert wie folgt: reines Ich, und ich bin also zunächst (wie darüber ein Hinauskommen möglich ist, weiß ich nicht) in gewissem Sinne || 12,3 Nach ipse eingefügt: natürlich || 12,12f. gelten soll geändert in gelten zu können scheint || 12,13 Nach Wissenschaft eingefügt: Jedenfalls || 12,19 Nach als die unterste eingefügt: Jedenfalls || 12,19 Nach die unterste eingefügt: in der Tat zunächst wirklich solipsistisch begrenzte || 12,20 Vor also nicht eingefügt: sage ich, || 12,38 Eine hier folgende Passage, die einen ausführlichen Vergleich zwischen der Betrachtungsweise der Psychologie und der transzendentalen Phänomenologie bringt, ist teilweise zwischen blaue eckige Klammern gesetzt und in ihrer Gänze mit Bleistift durchgestrichen. Am Rande ist vermerkt: nicht gelesen. || 12,39 Am Rande: Intentionalität || 13,14 Nach usw. eingefügt: Also || 13,25–37 Der Absatz ist mit Bleistift kreuzweise durchgestrichen. Er sollte, wie durch Zeichen angedeutet ist, durch den Wortlaut des folgenden Absatzes entweder — dies ist nicht deutlich — ersetzt oder ergänzt werden. Jedenfalls dürften die Ausführungen über die ,,zwei Beschreibungsrichtungen'' zum Text des Vortrages gehört haben; darauf deuten die Art und die ,,Schichten'' der Unterstreichungen sowie spätere Bezugnahmen auf diese Stelle. Sie ist mit Blaustift am Rande überschrieben: Zwei Beschreibungsrichtungen, Blickrichtungen || 13,35 Nach als solche mit andersartiger Tinte, vermutlich später hinzugefügt: genau wie sie im ersten stummen Blick der Reflexion anschaulich vorliegt, und dann ist es die Aufgabe, sie sich selbst aussprechen zu lassen, sie auf das getreueste || 13,36 Erscheinungsmodis verändert in: Erscheinungs- oder Bewußtseinsmodis. || 14,18–33 Der Absatz ist zwischen rote eckige Klammern gesetzt, mit Bleistift durchgestrichen und am Rande mit Nullen versehen. Ob diese Stelle gelesen wurde, kann bezweifelt werden. — *Das Folgende am Rande überschrieben: Die Welt als cogitatum* $\parallel$ *14,34* zu beachten abgeändert in: *klar*, $\parallel$ *16,4–16* steht zwischen blauen eckigen Klammern, ist mit Bleistift kreuzweise durchgestrichen und am Rande mit Nullen bezeichnet. Die Stelle wurde vielleicht nicht gelesen $\parallel$ *16,17* *Am Rande mit Rotstift: Zweiseitigkeit – Zusammengehörigkeit*. $\parallel$ *16,23* *Am Rande:* Einheit und Mannigfaltigkeit. Synthesis $\parallel$ *17,1* *Ms.:* reflektieren $\parallel$ *17,4* *Statt der* Ms.: *des* $\parallel$ *17,6f. Der Satz bis möglich.* *mehrfach durchgestrichen* $\parallel$ *17,7–12* *Der Text von Fangen wir bis Zeitlichkeit vielleicht erst später eingeschoben* $\parallel$ *17,12–15* *Die beiden Sätze sind geändert wie folgt: Sie ist eine universale, zum Bewußtseinsleben gehörige Form der Synthesis. So ist z.B. jede Dingwahrnehmung als ein Dahindauern* ... *Darunter am Rande:* Synthesis. Identität $\parallel$ *17,18–20* *Von Jede an abgeändert wie folgt: Jede Teilung dieses strömenden Sichforterstreckens, die wir* ... Typus, von jeder solchen Teilstrecke ... sagen wir dasselbe, z.B. dasselbe, das Hexaeder, sei wahrgenommen. So für jedes Erlebnis. *Am Rande mit Rotstift:* Identität $\parallel$ *17,21–23* *Von* *Aber diese an abgeändert und erweitert wie folgt: Diese Identität des cogitatum ist ein* ... Zug jedes intentionalen Erlebnisses, das als stetiges cogito, <als> eine kontinuierliche Synthesis der Identifikation verläuft, die freilich kein aktives Identifizieren im gewöhnlichen Sinne ist, sondern kontinuierliche Deckung der mannigfaltigen zeitlichen Darstellungen im Einen $\parallel$ *17,34* *Am Rande:* Reelle Teile, Gehalte. Intentionale (irreelle) Gehalte $\parallel$ *18,25–30* *Von* *Ihr ist es an eingeklammert und kreuzweise durchgestrichen. Wurde vielleicht nicht gelesen.* $\parallel$ *18,31* *Am Rande:* Potentialität, Horizont. $\parallel$ *19,8–9* *Von* *und an jeder an zwischen Bleistiftklammern.* $\parallel$ *19,16* *Am Rande:* Intentionale und reelle Analyse $\parallel$ *19,33* *Im Ms.:* Moment statt momentan $\parallel$ *20,9* *Im Ms.:* es statt sie $\parallel$ *20,13* *Am Rande Bleistiftbemerkung,* *mit Tinte nachgezogen:* Sum cogitans als Phänomenologe in einer höheren Stufe. Ich bin, was ich bin, als Subjekt von Sinnesleistungen. Mich Betrachten ist, mein sinnkonstituierendes Leisten und meine Sinngebilde Betrachten und von ihnen aus wieder mich als Sinnhabenden in immer neu beigestellten Sinnesleistungen Auslegen. *Daneben mit Rot- und Blaustift:* Stufen $\parallel$ *Von* *20,23* und zwar bis *20,26* *Stück zwischen eckigen Klammern.* $\parallel$ *20,30* *Am Rande mit Blaustift:* Typen. $\parallel$ *21,2* *Am Rande mit Tinte:* Diese sich immer weiter besondernde Typik bewegt sich innerhalb der allgemeinsten, zu dem dreifachen Titel ,,Ego-cogito-cogitatum“ gehörigen, wohin das Allgemeine gehört, das wir selbst besprechen mußten, wie z.B. das Allgemeine der Synthesis. $\parallel$ *21,2–8* *Von* *Immer kommt es an zwischen eckigen Blei- und Rotstiftklammern.* $\parallel$ *21,9* *Am Rande:* Leitfaden $\parallel$ *21,14–17* *Der Satz mehrfach durchgestrichen* $\parallel$ *21,18* *Am Rande mit Blaustift:* Übergang zu den Universalproblemen $\parallel$ *22,3* *Nach intentionalen eingefügt:* aktuellen und potentiellen $\parallel$ *22,7* *Ende des* *II. Vortrages bzw. der zweiten Hälfte des I. Doppelvortrages.* $\parallel$ *22,8* *Am Rande rechts oben:* II Zweite Doppelvorlesung. *Darunter mit Blaustift:* Vernunft, Evidenz. $\parallel$ *22,10–12* *Von* *zunächst an bis Frage zwischen* <!-- 15 --> *Cart. Meditationen*
+
+<!-- TEXTKRITISCHER ANHANG 233 -->
+
+Blaustiftklammern und mit Bleistift durchgestrichen || **22,27** Nach in dem eingefügt: schließlich || **23,1–30** Von Immer und notwendig *an* mit Bleistift durchgestrichen und mit einer Null versehen. || **23,7–10** Von und nach an zwischen eckigen Klammern. || **23,13** präsumiere geändert in: präsumieren kann || **23,17–22** Von Das bleibt an vermutlich späterer Zusatz || **23,27** Nach ausweisender *eingefügt:* und immer wieder herzustellender || **23,31** *Am Rande mit Rotstift:* Wahrhaft Seiendes. || **23,35** Nach vereinzelten *eingefügt:* und selbst evidenten || **23,34–38** Von Freilich bis mich mit Tinte durchgestrichen und durch folgende, vermutlich spätere Fassung ersetzt: Nicht schafft schon irgendein vereinzeltes Bewußtsein, und sei es selbst ein evidentes, für mich Wirklichkeit des Seins; z.B. nicht die vereinzelte noch so gute Wahrnehmung die Wirklichkeit des* Dinges. Aber sie verweist mich selbst auf weitere Wahrnehmungen || **24,2–4** Von und ihre *an* bis aufhebt *vermutlich späterer Zusatz*. || **24,4** Geändert in: Sie sind … vorausgesetzt … || **24,10** *Im Ms.:* … zugehörigen, die antizipierenden Horizonte. Später die antizipierenden *gestrichen*. || **24,12** *Nach* eine und *eingefügt:* immer || **24,17f.** Von ja bis großen *durchgestrichen* || **24,20** *Am Rande mit Rot- und Blaustift:* Konstitutive Probleme unten! || **24,30** *Am Rande Zeichen Null.* || **24,37–25,9** steht im Ms. am Rande des Blattes. Nichts deutet aber darauf hin, daß es sich um einen späteren Zusatz oder eine Randanmerkung handelt || **25,7–9** Von Schließlich an zwischen eckigen Klammern || **25,23** Das Wort *Wesenseigenheit* beruht auf einer späteren Verbesserung. *Der ursprüngliche Wortlaut ist ausradiert. Vielleicht stand da:* Wesensnatur. || **25,27** *Am Rande mit Blaustift:* Für-sich-selbst-sein des *ego* || **25,29f.** Von auch sein Sein bis es zwischen eckigen Klammern. || **25,30** *Am Rande:* Hier Konstitution des personalen *ego*. || **26,28–30** Von in deren *an* mit abweichender Schrift. *Vielleicht späterer Zusatz* || **27,1–5** Der Absatz steht zwischen eckigen Klammern. *Am Rande:* Hier das Ich im spezifischen Sinn von 29. Vergleiche die entsprechende Randanmerkung bei **28,25f.** || **27,1–9** Die beiden Absätze kreuzweise durchstrichen. *Roter Querstrich. Am Rande mit Blaustift:* Eidos || **27,18** *Im Ms. statt bald vermutlich verschrieben:* er || **27,34** *Am Rande mit Blaustift:* Die Intuition wird zur generellen Intuition || **27,35** *Der Text des folgenden Absatzes steht im Ms. am Rande rechts. Da es sich dabei weder um eine Randbemerkung noch um eine Verbesserung des danebenstehenden Wortlautes handelt, hat der Herausgeber die Stelle dort eingefügt, wo allein sie sinngemäß zu passen scheint || **28,25f.** Von den der an zwischen eckigen Klammern. *Am Rande:* Ich, schon früher || **28,27–29,7** *Der Text der beiden Absätze ist mit Bleistift durchgestrichen.* || **29,1–7** *Der Text dieses Absatzes steht am Rande und ist zwischen eckige Klammern gesetzt. Vielleicht handelt es sich hier um einen späteren Zusatz.* || **29,8** *Am Rande mit Blaustift:* Statische und genetische Phänomenologie. || **29,15** *Am Rande mit Blaustift:* Genesis || **30,19** *Am Rande:* Wissenschaften, transzendentale Logik || **30,8–25** *Der Absatz ist quer durchgestrichen. Zu Beginn des Absatzes vor Zu den ein einzelnes eckiges Klammerzeichen* || **30,27–30** *Von die alles* an bis *herausstellt* zwischen *blauen eckigen Klammern* || **30,26–35** *Der Absatz ist kreuzweise mit Rot- und Blaustift durchgestrichen. Am Rande rechts davon folgende – vermutlich spätere –*
+
+<!-- 234 -->
+<!-- TEXTKRITISCHER ANHANG -->
+
+*Neufassung*: Mit der Reduktion der phänomenologischen Problematik auf den einheitlichen *<?>* Gesamttitel der (statischen und genetischen) Konstitution der Gegenständlichkeiten möglichen Bewußtseins scheint die Phänomenologie sich rechtmäßig auch als transzendentale Erkenntnistheorie zu kennzeichnen. Kontrastieren wir die in diesem Sinne transzendentale mit der traditionellen Erkenntnistheorie: Ihr Problem ... || *30,36 Am Rande mit Blaustift*: Die gewöhnliche Erkenntnistheorie || *31,7f.* Der Satz *Es ist für mich bis cogitationes verbessert in*: Erkenntnt man, Brentano folgend, die Intentionalität an, so sagt man: || *31,11* *Stat*gehörige *Ms*: zugehörige || *31,15* Und so sagen wir . . . *abgeändert wie folgt*: Die Ich-Rede dieses Anfangs ist und bleibt die natürliche Ich-Rede; sie hält sich und auch die ganze Problemführung weiterhin auf dem Boden der gegebenen Welt. Und so heißt es nun, ganz verständlich: || *31,28* *Von Jede an verbessert in*: Jede Begründung, jede Ausweisung von || *31,31* *Am Rande mit Blaustift*: Das ,,Problem“ || *31,38* *Nach* Es ist *eingefügt*: (unter Beiseitelegung der vielleicht nicht so gleichgültigen Ausschaltung der Seinsgeltung der Welt) || *32,1 Am Rande mit Blaustift*: Widerlegung. || *32,3f.* *Von Descartes an verbessert in*: Descartes selbst verfallen mußte, weil ... Sinn seiner ... || *32,6* *Nach* gröber *eingefügt*: eben durch völlige Mißachtung der Cartesianischen Epoché, || *32,7* das transzendentale *verbessert in*: das solche ,,transzendentalen“ || *32,25-27* *Ursprüngliche Fassung*: ... daran geht, das ego in systematischer Selbstbesinnung, sein gesamtes Bewußtseinsfeld ... enthüllen zu wollen, ... *Da der Satzbau grammatisch nicht einwandfrei ist*, wurde die Wendung in der von Husserl verbesserten, jüngeren Form *wiedergegeben* || *32,29* *jede als verbessert in*: jede in irgendeinem Sinn *als Am Rande mit Blaustift, mit Bleistift durchgestrichen*: Transzendenz || *32,31* *Nach* Transzendenz *eingefügt*: in jeder Form || *32,36* *Von* sie ist *bis* Konkretion *gestrichen* || *33,5f.* *Verbessert in*: Ist sie das . . ., so ist ein . . . Unsinn. *Dieser Satz wurde vielleicht später hinzugefügt*. || *33,8* *Nach* ego *und eingefügt*: das, || *33,11* *Nach* also *eingefügt*: auch || *33,13 Am Rande mit Blaustift*: Nur phänomenologische Erkenntnistheorie. || *33,18* *wird verbessert in*: verständlich werden muß || *33,19* *Am Rande mit Blaustift, mit Bleistift durchgestrichen*: Verständlichkeit || *33,19* *Nach* Seiendes *eingefügt*: selbst || *33,24-26* *Nach* Horizonte *eingefügt* und *abgeändert*: ... und für die zugehörigen Aufgaben der Enthüllung der impliziten Intentionalität. Werden sie erschaut und ergriffen, so ergibt sich als Konsequenz eine universale Phänomenologie als eine in reiner Evidenz und dabei in Konkretion . . . || *33,26* *Das vermutlich ursprüngliche* *zu* *wurde ausradiert und ersetzt durch*: mit ihr aber in || *33,28 Am Rande mit Rotstift*: Transzendentaler Idealismus || *33,28* *Nach* Sinnes; *nicht eingefügt*: in dem || *33,36* *Nach* Selbstauslegung *eingefügt*: meines ego als Subjekts jeder möglichen Erkenntnis, und zwar in Hinsicht auf || *33,37* *Am Rande folgender mit Tinte* — *vermutlich später* — *hinzugefügten Satz*: Nur wer den tiefsten Sinn der intentionalen Methode mißversteht und damit den Phänomenologie selbst, kann Phänomenologie und transzendentalen Idealismus trennen wollen. || *33,38* *ist aber verbessert in*: ist also || *34,5* *Nach* selbst *eingefügt*: Also || *34,6* *Vermutlich Ende des III. Vortrages bzw.*
+
+<!-- TEXTKRITISCHER ANHANG 235 -->
+
+der ersten Hälfte des II. Doppelvortrages || *34,7 Am Rande mit Rotstift, mit Bleistift durchgestrichen:* Intersubjektivität || *34,8 Nach kommen eingefügt:* und im Zusammenhang damit noch eine letzte besonders bedeutsame Problemsphäre der Phänomenologie behandelt werden, durch welche sich erst der bestimmtere Sinn dieses Idealismus erschließt || *34,13 Am Rande mit Rotstift, mit Bleistift durchgestrichen:* Solipsismus || *34,21-25 Von und erfahre sie bis sondern erfahre sie mit Tinte durchgestrichen und wurde — vermutlich später — durch folgenden am Rande mit Tinte notierten Wortlaut ersetzt:* und normalerweise in synthetisch-einstimmigen Erfahrungsreihen, in denen sich für mich ihr wirkliches Dasein kontinuierlich bewährt. Ich erfahre sie freilich in besonderer Weise: einerseits als Weltobjekte, nicht als bloße Naturdinge, aber doch mit Naturdingen als Leibern eigentümlich verflochten und so psycho-physische Objekte in der Welt; andererseits erfahre ich sie aber zugleich als Subjekte für diese Welt || *34,28f.* Bewußtseinslebens *alles und jedes verändert in:* Bewußtseinslebens die Welt als || *34,30f. Von für jedermann bis zugängliche vielleicht späterer Zusatz.* || *34,34 Von in meinem intentionalen Leben an verbessert in:* nur in meinem … Leben durch konstitutive Synthesen Sinn … || *34,36-35,8 Die Stelle vom Beginn des Absatzes an bis Fühlen, Wollen ist durchgestrichen und wurde — vermutlich später — durch folgenden am Rande mit Tinte notierten Wortlaut ersetzt:* Hier kann nur eine systematische Entfaltung der offenen und impliziten Intentionalität Klarheit schaffen, die in der Fremderfahrung selbst (der „Einfühlung“) vorliegt, eine Enthüllung ihrer Horizonte in möglichen Erfahrungen mit den zugehörigen noetisch-noematischen Zusammenhängen, in deren < ? > Synthesis der Sinn Anderer zugleich mit den von ihm unabtrennbaren Sinnbeziehungen an den Tag tritt <Ms.: treten>.
+
+Die Tragweite einer solchen transzendentalen Theorie der Einführung ist, näher besehen, eine noch viel größere, als es zunächst scheint.
+
+*Der letzte Absatz ist mit veränderter Schrift geschrieben und stellt vielleicht einen noch späteren Zusatz dar.* || *35,2 Im Ms. ursprünglich:* unterscheidet statt scheidet || *35,11 Am Rande mit Blaustift:* Monadenlehre || *35,26 Am Rande mit Blaustift:* Das erste ego der transzendentalen Reduktion hat noch keine Scheidung. || *36,7 Unterhalb dieses Absatzes Entwurf eines Schlußwortes mit Tinte, aber veränderter Schrift, mit Blaustift durchstrichen. Die Stelle gehört keinesfalls zum Text des Vortrages.* || *36,8 Am Rande mit Blaustift:* Das Cartesianische Problem der Philosophie. *Darunter mit Tinte:* Neues Blatt! *In der Tat scheint Husserl dieses wie vermutlich auch andere Blätter wegen der zahlreichen Verbesserungen neu geschrieben zu haben. Doch deutet vieles — u.a. die Paginierung, die Schrift, die Unterstreichungen — darauf hin, daß dies erst nach dem Vortrag geschehen ist.* || *36,12 Nach daß sie eingefügt:* in Form einer unendlichen Aufgabe || *36,26 Am Rande mit Blaustift:* Naivität der Wissenschaften. Ihre Kritik nicht letzte Kritik. || *36,34 Am Rande mit Blaustift:* Daher Paradoxien. || *37,10 ist aber verbessert in:* sind aber || *37,23 Am Rande mit Blaustift:* Phänomenologische Begriffe ursprünglich erzeugt; || *37,25f. Von der selbst bis gefaßten, später eingeklammert.* || *37,37 Am Rande mit Tinte, aber in*
+
+---
+
+<!-- 236 TEXTKRITISCHER ANHANG -->
+
+wesentlich *andersartiger Schrift* wurde — vermutlich später — folgendes *eingefügt*: So sind die von uns im vorangegangenen andeutungsweise vorgezeichneten Untersuchungen nichts anderes als <der> Anfang einer radikalen Klärung des Sinnes und Ursprungs (bzw. des Sinnes aus dem Ursprung) der Begriffe Welt, Natur, Raum, Zeit, animalisches Wesen, Mensch, Seele, Leib, soziale Gemeinschaft, Kultur usw.: Es ist klar, daß die wirkliche Durchführung der bezeichneten Untersuchungen zu all den Begriffen führen müßte, die unerforscht als Grundbegriffe der positiven Wissenschaften fungieren, aber in der Phänomenologie in einer allseitigen Klarheit und Ursprünglichkeit erwachsen, die für keine erdenklichen Fraglichkeiten mehr Raum übrig lassen. || **38,15f.** *Das Eingeklammerte verändert wie folgt:* (oder auch universale und konkrete Wissenschaftslehre, diese Logik des Seins) || **38,34** *Am Rande mit Blaustift:* Metaphysik || **39,6f.** Möglichkeit einzelsubjektiven und gemeinschaftlichen Lebens *mit Tinte, aber in abweichender Schrift verbessert wie folgt:* Möglichkeit eines ,,echten“ menschlichen Lebens || **39,30** *Unterhalb des Textes findet sich im Ms. folgende Bleistiftnotiz:* über intersubjektive Reduktion nur flüchtige mündliche Andeutungen, systematisch näher ausgeführt in Straßburg. ||
+
+**ANMERKUNGEN**
+
+
+**ZU DEN ,,CARTESIANISCHEN MEDITATIONEN“**
+
+
+**42**, *Stenographische Bemerkung Husserls unterhalb des Titels:* Beginn der Ausarbeitung der Pariser Vorlesungen **25.I.29**. Ausarbeitung für den Druck von etwa 15. März ab bis 6. April und dann von etwa 15. April bis 16. Mai und dann sogleich nach der Abreise nach Tremezzo (17. Mai) von Fink nach Straßburg geschickt. || **43,1** *Am Rande von unbekannter Hand:* blau unterstrichen heißt kursiv. || **43,1** *Vergleiche Einleitung, S. XXIII.* || **43,5–8** *An dieser Stelle finden sich Änderungen von unbekannter Hand, denen zufolge der Text folgendermaßen umgestellt werden sollte:* ... Impulse gegeben, deren Studium ... eingewirkt hat. Fast könnte man diese ... || **44,22** *führen könnte verbessert in:* zu führen verspricht || **44,25f.** Darstellung erster ... *Begründungen verbessert in:* Darstellung seiner philosophischen Grundlegungen || **44, *Fußnote 1*:** *Dazu bemerkt: Seiten-zitat! nachsehen! Vergleiche:* ,,Oeuvres“ *herausgegeben von C. Adam und P. Tannery, Paris 1904, Band IX, S. I–20.* || **44, *Fußnote 2*:** *Die vermutlich ältere Fassung der Einlage lautet:* ad 4 nach dem Absatz. Einlage. Wendet man hier ein, daß doch Wissenschaft, Philosophie in Zusammenhang arbeit vieler einzelner, als Gebilde der wissenschaftlichen Gemeinschaft der Philosophierenden erwachsen sollte und in jeder Stufe der eventuellen Vollkommenheit erwachsen ist, so wäre zu antworten: den anderen mag ich, der einzelne Philosophierende, vieles verdanken, aber was Ihnen, und günstigenfalls aus ihrer Einsicht gilt, muß ich aus eigener absoluter Einsicht rechtfertigen, wenn es eben für mich absolut begründet sein soll. Darin besteht meine theoretische Autonomie, meine und jedes echten Wissenschaftlers.
+
+---
+
+<!-- TEXTKRITISCHER ANHANG -->
+<!-- 237 -->
+
+
+<!-- 238 TEXTKRITISCHER ANHANG -->
+Im Vorhaben einer absolut begründeten — vom Philosophen in der absoluten, autonomen theoretischen Verantwortung begründeten Wissenschaft liegt vorausgesetzt: Es ist Welt, ein Universum von an sich Seiendem, mir dem Erkennenden zugänglich in Sicht; es ist Wissenschaft als Einsicht und letzte einsichtig zu begründende Aussage möglich, für mich oder für andere ein vermögliches Erzeugnis, das, wenn ich es einsichtig erkenne, notwendig identisch dasselbe ist, das jedermann in seiner Einsicht erzeugen würde usw. *Dazu bemerkte Husserl:* Das bleibt zunächst unüberlegt, verschwiegen. *Darum wohl verfaßte er den im Text wiedergegebenen jüngeren Zusatz* || **45,9** *Über dem Worte Zweifelsmöglichkeit stenographiert:* die Erdenklichkeit eines Zweifels || **45,17** *Zu* ... *diese Welt* ... *Randbemerkung:* außer dem ego || **45,18** *Die Worte so reduzierte sind eingeklammert und verbessert in:* so erkenntnismäßig reduzierte || **45,29** *Nach dieser Gedanken hinzugefügt:* oder eines abzuklärenden Kerns dieser Gedanken || **45,36:** *Nach ihrer Grundlagen hinzugefügt:* ihrer Grundbegriffe und Grundmethoden || **45,37** ihrer Grundlagen von *unbekannter Hand geändert in:* dieser Grundlagen || **46,9 Nach hinzustreben scheint hinzugefügt:* in welcher sich vielleicht erst sein wahrer Sinn und derjenige der radikalen Umwandlung selbst enthüllt. || **46,28** *Die Worte:* Unechtheit und *später gestrichen*. || **46,31** *Die Stelle:* wachsende, *aber fast wurde später durch die Worte:* wachsende, wohl literarische, aber nicht ernstlich wissenschaftliche *ersetzt* || **46,38** *Die Worte nichts weniger als von unbekannter Hand abgeändert in:* keineswegs || **47,6–10** *Der Satz von:* Wir haben zwar noch bis wirken könnten *später gestrichen* || **47,10f.** *Die Stelle:* innerhalb einzelner wurde abgeändert *wie folgt:* innerhalb der einzelnen unter den mannigfaltigen „Schulen“ oder „Richtungen“ etwas besser steht; || **47,36–48,2** *Der Satz von* Sollte nicht die ... *an wurde folgendermaßen geändert:* Sollte nicht die einzig fruchtbare Renaissance eben die sein, die den Impuls der Cartesianischen Meditationen wiedererweckt: nicht diese inhaltlich zu übernehmen, sondern den Radikalismus ihrer Gesinnung, der Selbstverantwortlichkeit desto mehr zu erneuern, ihn durch letzte Steigerung allererst wahr zu machen, eben dadurch den echten Sinn des notwendigen Rückganges auf das ego allererst zu enthüllen und in weiterer Folge die immer noch verborgene, obschon bereits empfindlich gewordene Naivität des früheren Philosophierens zu überwinden || **48,3** *der Weg abgeändert in:* einer der Wege || **48,5f.** *Cartesianisch abgeändert in:* quasi Cartesianisch || **48,7** natürlich *später gestrichen* || **48,8** *Nach notwendigen eingefügt:* und sei es noch so tiefgreifenden || **48,15** *Nach Idee sei hinzugefügt:* zunächst || **48,25–29** *Der Text von* oder gar *an wurde geändert wie folgt:* oder ein ganzes Normensystem, in dem in vermeintlichen Evidenzen <?> die Stilform echter Wissenschaft umschrieben sei. Denn das hieße, eine ganze Logik als Wissenschaftstheorie voraussetzen, während doch auch diese in den Umsturz aller Wissenschaft einbegriffen sein muß. || **49,1f.** kritisch *unerwogen ersetzt durch:* im geheimen || **49,2** *Nach für Descartes eingefügt:* offenbar || **49,2–12** *Die Stelle von* Es war für Descartes *an bis zum Ende des Absatzes wurde später zwischen eckige Klammern gesetzt. Am Rande mehrere „deleatur“-Zeichen* || **49,15** *Am Rande dieses Absatzes Bemerkung:* Ingarden 2. *Hier verweist Husserl auf die S. 205f. wiedergegebene Anmerkung R. Ingardens. Das Ende von Ingardens Text ist von ,,man muß...“ an von Husserl am Rande mit einer Wellenlinie versehen* || **49,22f.** *Von Aber wie an geändert wie folgt:* Aber wie ist uns nun die echte Zielstellung zuzueignen, sie vollkommen und damit als praktisch mögliche zu sichern, wie dann die zunächst *allgemein* einsichtige Möglichkeit bestimmter zu sondern und dadurch der methodische Gang einer echten Philosophie, einer radikalen, mit dem an sich Ersten anhebenden, bestimmt vorzuzeichnen? || **49,26** *vermeinten ersetzt durch:* prätendierten *Am Rande:* I 3. *Diese und die folgenden (3. bis 10.) Bemerkungen Ingardens, *auf* die Husserl am Rande der Blätter verweist, *behandeln Fragen der Formulierung und der Übersetzung* || **49,27** *Nach so muß eingefügt:* uns nach dem Gesagten || **49,28** *zu einer bloß vermeinten ersetzt durch:* zu einer bloßen Prätention || **49,28f.** *Der Satz:* Wir wissen also ... *gestrichen.* || **49,33** *Nach nehmen sie eingefügt:* also || **49,36f.** *wie sie zur Verwirklichung geändert in:* ob und wie sie zur bestimmten Verwirklichung || **50,6** *Nach Bildung des eingefügt:* echten || **50,8** *Nach tatsächlichen Wissenschaften hinzugefügt:* nämlich der tatsächlich als allgemein geltenden und als das objektiv dokumentierten Lehrgebäude (Sätze, Theorien) || **50,8–15** *Diese beiden Sätze sollten geändert werden wie folgt:* Im Sinne unserer ganzen Betrachtung liegt ja, daß Wissenschaften als diese Fakta der objektiven Kultur und Wissenschaften ,,im wahren und echten Sinn“ nicht schon einerlei sind, oder daß jene über diese Tatsächlichkeit hinaus eine Prätention tragen, die mit ihr eben als schon erfüllte Prätention bezeugt sein müßte. Eben in dieser Prätention ,,liegt“ noch verhüllt die Wissenschaft ... || **50,17 Geltung ersetzt durch:** Gültigkeit || **51,17 Nach das und das hinzugefügt:* und sei so und so beschaffen || **51,21 Bewußthaben geändert in:* selbst haben || **52,1** *Am Rande:* Gehört zum französischen Text || **52,5 Nach kommt zum eingefügt:* prädikativen || **52,20 Am Rande:* I 11. *Husserl bezieht sich hier auf die auf S. 206f. wiedergegebene kritische Bemerkung Ingardens* || **52,24f.** *Nach negative Evidenz eingefügt:* urteilsmäßig gewendet: die positive Evidenz des Nicht-Seins der Sache; oder, was dasselbe: sie hat zum Inhalt || **52,36 Am Rande bei** ... *relative Evidenzen* ... *hinzugefügt:* Sie sind relativ, sofern die Alltagsurteile in ihrem jeweiligen Sinn auf die okkasionellen Umstände des Urteilenden bezogen sind. *Diese Notiz wurde später gestrichen* || **53,24f.** *Der Passus ohne daß wir* ... *geändert in:* ohne daß wir die Möglichkeit dieser Grundstücke ... || **54,6 Nach kein Urteil hinzugefügt:* als wissenschaftliches. *Hier wird auf die 12, 13., und in der Folge auf die 14. Bemerkung Ingardens verwiesen; diese Bemerkungen haben jedoch nur Übersetzungsprobleme zum Gegenstand.* || **54,24** *Das Wort wissenschaftlich später eingeklammert* || **54,31 Nach den Worten in den Gang am untersten Rand des betreffende Manuskriptblattes getippt:* Echte soll wohl heißen: in den Gang echter Verwirklichung ... || **55,2 Am Rande zu** ... *vorangehende* ... *hinzugefügt:* fundierende! und absolut sichere || **55,18 Nach Einseitigkeit eingefügt:* und zugleich *Am Rande mit Beziehung auf den ganzen Satz:* Das muß doch erst aufgewiesen werden || **55,24-27** *Der Satz mit einer Wellenlinie am Rande bezeichnet* || **56,7f.** *schließt sie darum*
+
+<!-- TEXTKRITISCHER ANHANG 239 -->
+
+
+<!-- 240 TEXTKRITISCHER ANHANG -->
+aus die Möglichkeit *verbessert in*: schließt sie darum die Denkbarkeit aus || **56,14–24** *Dieser Wortlaut beruht auf Verbesserungen Eugen Finks. Das vom Herausgeber ergänzte ⟨des⟩ wurde vermutlich infolge einer Beifügung am Rande vergessen.* — Die ursprüngliche Fassung dieser wichtigen Stelle lautete: Eine apodiktische Evidenz aber hat die ausgezeichnete Eigenheit, daß die Seinsgewißheit des in ihr Erschauten sich durch eine kritische Reflexion zugleich als schlechthinnige Unausdenkbarkeit des Nichtseins, also auch des Zweifelhaft-seinkönnens enthüllt. (*Unbeschriebener Platz für ein Wort*) ... ist die Evidenz jener kritischen Reflexion, also auch die vom Sein dieser Unausdenkbarkeit abermals von dieser apodiktischen Dignität, und so in jeder kritischen Reflexionsstufe wie auch hinsichtlich stets möglicher apodiktischer Reflexionen. || **57,3** *Bemerkung*: Von hier Fink. *Doch weist bereits der Paragraph 6 zahlreiche Verbesserungen von der Hand Eugen Finks auf.* || **58,17** *Absehen gemäß „Typescript C“ (vgl. Cairns, S. 18, Anm. 2); M-Ms. stattdessen*: Ergebnis || **58,25** *Unterhalb dieses Absatzes am unteren Rande des betreffenden Manuskriptblattes*: Es muß gesagt werden, daß die Reduktion insofern apodiktische Bedeutung hat, als sie zeigt, und zwar in apodiktischer Weise, daß dem Sein der Welt das Sein des transzendentalen Ich vorhergeht. || **58,32–36** *Zu die anderen Menschen ... am Rande bemerkt*: auch das innerweltliche Sein meines Ichs als Mensch! *Darunter*: I 15. *Die betreffende Bemerkung Ingardens ist auf S. 207 wiedergegeben.* || **59,15** *Am Rande*: I 16. *Die betreffende Bemerkung R. Ingardens ist S. 207f. wiedergegeben. Von ungefähr* **59,10** *bis* **60,30** *folgen Verweise auf Ingardens Bemerkungen No. 17–20. Diese handeln jedoch lediglich von Problemen der Übersetzung und der Formulierung* || **59,30** *Am Rande*: Hintergrund, habituelles In-Geltung-haben etc. scheint nicht berücksichtigt. || **59,35** *unphilosophisch später gestrichen* || **60,33** *Am Rande*: Aber wenn etwas mir zum Schein wird. Ferner verweist Husserl auf die 21. *Bemerkung Ingardens, die auf S. 208 wiedergegeben ist.* || **60,38** *Am Rande*: I 22. Ingardens Bemerkung findet sich auf S. 208f. || **61,4** *Am Rande*: Im transzendentalen Sinne; diese Reinheit will ich transzendentale Reinheit nennen. || **61,12f.** *Am Rande*: Es fehlt, wie es scheint, der apodiktische Charakter des Vorhergehens der transzendentalen Subjektivität. || **63,30** *Nach macht am Rande*: und vermeintlich sogar zu einem reinen intellectus, der ohne alle Imagination denkbar wäre || **64,2** *Nach gegeben haben am Rande*: und dann mittelbar, aber mittelbare Gegebenheit ist nicht immer Deduktion || **64,13** *unberührt gestrichen* || **64,13** *Statt bleiben im Ms.*: bleibt || **64,15** *verbleibende gestrichen* || **65,18** *Am Rande*: Kant und alle seine Überzeugungen über Ich, transzendentale Apperzeption und so aller anderen sind eingeklammert. || **65,31** *Nach dann eingefügt*: in Kontrast dazu || **65,33** *Nach phänomenologischen Sinne eingefügt*: rechtmäßig, wie wir es genannt haben, || **66,23** *Am Rande*: Und wo eine neue Erfahrung ist, muß doch auch eine neuartige Wissenschaft erwachsen. || **66,33** *An dieser Stelle des Manuskriptes findet sich das kleine Blatt 62 mit folgendem Text*: Ich und Habitualitäten werden erst in IV p. 120ff <S. 100> eingeführt. Es ist zu überlegen, ob das nicht zu sehr nachträglich und zu spät ist. „Monade“ 125 <S. 102>, 126 <S. 103> Begriff der transzendentalen Genesis? 127 <S. 103, letzter Absatz> Einführung der eidetischen Betrachtungsweise. Warum nicht vorher, gleich im Eingang von IV oder schon früher? || *68,35 Nach Sinne, den eingefügt*: positiven || *68,35 Nach diesen eingefügt*: letzteren || *68,36 Nach aber eingefügt*: das ist eben die || *69,9f.* mit einem Horizont unbestimmter Bestimmbarkeit *gemäß* „*Type-script C*“ (vgl. Cairns, S. 30, Anm. I) und *F-Ms.*; *M-Ms.* stattdessen: mit dem noematisch-noetischen Gehalt || *69,10f.* *Später wurde diese Stelle von Sicherlich . . . an erweitert wie folgt:* Sicherlich muß <sie> zunächst die im ego sich bekundende Unterscheidung zwischen „ich selbst“ und meinem Leben, meinen Erscheinungen, meinen erworbenen Seinsgewißheiten, meinen bleibenden Interessen etc. und die Anderen mit ihrem Leben etc. einklammern, und so fängt sie also in gewissem Sinne als reine Egologie an, als . . . || *69,12–29 Die vier Sätze von Es ist ja angefangen bis zu können.* sind von *Husserl* am Rande mit Wellenlinien, Fragezeichen und zahlreichen „*deleatur*“-Zeichen versehen || *69,25 Nach zeigen, daß eingefügt*: in gewisser Weise || *69,26 und später ersetzt durch*: aber || *69,27 Nach Absicht eingefügt*: erst || *69,34f.* eine wesentliche . . . geändert in: grundwesentliche Abweichung vom Cartesianischen Gedankengang, . . . || *70,15–17 Von* in dem das . . . an geändert in: in dem das identische „Ich“ (meines, des Meditierenden) „lebt“, was immer diese Ausdrücke näher bestimmen möge || *70,22 Man wird vielleicht sagen ersetzt durch*: Es wäre ein großer Irrtum zu sagen || *70,27 Nach bleibe eingefügt*: Ein großer Irrtum, sage ich: || *70,34 Nach beides eingefügt*: zunächst || *71,15 Nach Wirklichkeitsphänomen hinzugefügt*: als etc. || *72,5 Am Rande*: Ergänzungen! Vorauschicken: Intentionalität im prägnanten Sinne des Sich-richtens auf etc. || *72,9 Statt* durch die sich *Ms.*: durch die sich uns || *72,13 Am Rande*: Ich-Reflexion || *73,10 Nach Nicht-mitmachen der eingefügt*: „Setzung“, des Vollzuges des Seinsglaubens, der || *73,23 Nach Wahrnehmens eingefügt*: bzw. des in natürlicher Weise wahrnehmenden Ich || *73,36 Nach sehen und eingefügt*: das Gesehene rein als solches, als was und wie || *76,4 Nach wechselnden eingefügt*: noetischen und noematischen || *76,19 Nach Seins eingefügt*: und zunächst || *77,7 Nach stumme eingefügt*: psych. || *77,32 Am Rande*: in der Wahrnehmung! || *79,10 Statt* die alle *Ms.*: die können alle || *81,3 Am Rande*: Das alles bedarf weiterer Ergänzungen mit Bezug auf das *im ego* liegende intersubjektive Zeitbewußtsein. || *82,5 Horizont ersetzt durch*: Erlebnis-horizont || *82,33f. Am Rande*: explizieren (entfalten) || *83,34 Nach das Wort hinzugefügt*: im ursprünglichen Sinne || *83,35 Nach auf hinzugefügt*: solche || *83,35 Nach Leistung eingefügt*: als „intentionale“ || *83,37 Nach . . . Hinsicht hinzugefügt*: Explikation || *84,2 Nach des gegenständlichen Sinnes am Rande hinzugefügt*: und korrelativ der potentiellen und intentionalen Erlebnisse || *84,30 Am Rande*: Substrat || *85,3 Nach machen; oder eingefügt*: genauer gesprochen, sie machen || *85,12 Statt* ihre *Ms.*: ihrer || *85,12 Nach jede ihre eingefügt*: potentiellen und eventuell aktuellen || *85,16 Am Rande beigefügt*: des spezifisch ichlichen Noch-habens und -haltens || *85,32 Nach Sinn eingefügt*: explicite || *87,1 Am Rande, vielleicht als Erweiterung des Titels*: Die intentionale Modifikation des cogito — die Erinnerungen und Einfühlungen. || *87,2 Nach durch unser eingefügt*:
+
+<!-- TEXTKRITISCHER ANHANG 241 -->
+
+erstes || 87,3–5 *Der Satz sollte erweitert werden wie folgt*: Auf sie beziehen sich in äußerster, in sozusagen formaler Allgemeinheit durchgeführte allgemeinste Beschreibungen, die wir im Rohen ... versucht haben. || *87,9f. Erweitert in*: unendlichen Mannigfaltigkeit von möglichen cogitationes || *87,16 Nach Einheit hinzugefügt*: sogar || *87,17 Nach Bewußtseinslebens am Rande hinzugefügt*: dessen gesamte Möglichkeiten im „ego“ beschlossen sind || *87,17 formalen geändert in*: der äußersten, der formalen || *88,1 Nach passiven eingefügt*: jedenfalls nicht erzeugenden || *88,19f. Nach Strukturtypik, die eingefügt*: „invariant“ || *88,28 zunächst ersetzt durch*: vorerst || *89,4 Am Rande*: auf menschliches Sich-verhalten zu ihrer naturalen und sonstigen Umwelt || *89,5 Zwischen den Blättern 111 und 113 liegt im Manuskript das stenographierte Blatt 112 mit folgendem für die Methode der Meditation interessanten Text*: Ich mußte doch mit mir, mit dem Ich der Selbst-Mensch-Erfahrung anfar.gen, ich konnte doch nur von mir aus Reduktion üben und kam also nur zu dem ego, das sein weltliches Gegenbild in der eigenen Seele hatte, also nur meine eigene menschliche Seele kann ich erweisen als Bekundung von Absolutum: Was sind für mich Andere, was die Welt — konstitutive Phänomene, ein bloßes Gebilde in mir. Niemand kann ich dahin kommen, den Anderen Sein im absoluten Sinne zuzusprechen, so wenig wie den Dingen der Natur, die nur als transzendentale Gebilde sind. — In I–IV handelt es sich um einen ersten Weg, auf dem sehr allgemein sichtlich wird, daß für das ego der transzendentalen Reduktion alles Seiende konstituiertes Gebilde ist und sein muß. Aber muß nicht auch gesagt werden, daß alles für mich als Menschen Seiende in mir bewußtseinsmäßig konstituiert sein muß, auch mein eigenes menschliches Sein? Wie steht dieser Satz zum vorigen? In der konstituierten Welt ist auch notwendig konstituiert das Bewußtseinsleben als menschliches, und als solches, worin Welt bewußt ist, Welt psychisch konstituiert ist etc.
+
+Die allgemeine Weltkonstitution im ego ist nur umrissen as Problem bis zur Lehre von den Leitfäden — zur ontologischen Weltbetrachtung, in ihrer konstitutiven Umwandlung. Da muß natürlich das Problem Mensch auftreten; aber in welcher Ordnung?
+
+
+<!-- 242 TEXTKRITISCHER ANHANG -->
+Das erste Vorgehen in I–IV ist Weckung des Leitgedankens: Welt ist Meinung, geltender Sinn, im Rückgang auf das ego können wir den Fundierungsaufbau auslegen, können wir das absolute Sein und Geschehen erreichen, in welchem das Sein der Welt seine letzte Wahrheit zeigt und sich die letzte Seinsproblematik enthüllt, die alle Verhüllungen der unphilosophischen Naivität mit in das thematische Feld bringt. || *89.8 Nach ἐποχή am Rande hinzugefügt*: aus der alles transzendentalen Sinn schöpft || *92,29 Anstatt — sprechen im Ms.*: — gesprochen || *93,29 Nach schlechthin, der eingefügt*: urmodalen || *96,12f. Manuskript*: diejenige Unendlichkeit; *„Typescript C“*: diejenige Unendlichkeit *(vgl. Cairns, S. 16, Anm. 1)* || *98,27 Statts ergibt im Manuskript*: ergeben || *99,12 Zu Beginn der IV. Meditation liegt dem Manuskript ein stenographiertes Blatt bei. Dieses enthält prinzipielle Gedankengänge, die an den Inhalt der IV. und V. Meditation anknüpfen*: Zeitkonstitution, Immanenz und Transzendenz. Einzelsubjektivität — Insubjektivität. 1.) Einzelsubjektivität: die primordiale Immanenz, der primordiale Bewußtseinsstrom, die primordialen vermöglichen Abwandlungen des Bewußtseinsstroms — der Lauf der wirklichen Erfahrung in seinem faktischen „Ich bewege“ und meinen Möglichkeiten des ichlichen Bewegens — primordial mit dem Sinn der Abstraktion von den Seinsgeltungen durch Einfühlung. 2.) Die Einfühlungen gehören zu meiner Immanenz als „ego“ der Reduktion. Diese „Vergegenwärtigungen“ spielen mit allen anderen zusammen in der Konstitution der „Welt“. Also müsste, was I–III ausgeführt ist, implizite die Einfühlung mit benutzt haben — es war eben nur keine Rede davon. Der Unterschied zwischen Ich als Person unter Personen und eben anderen Personen ist selbst ein konstituierter Unterschied — im ego. Im ego: die transzendentale Scheidung zwischen transzendentalem Ich (ego im zweiten Sinne) und transzendentalen Anderen und die transzendental-intersubjektive Konstitution der Welt als Welt für alle und als Welt, die transzendentalen Subjekte verweltlicht enthält als Menschen. Konstituiert ist in dem absoluten und ursprünglichen ego der Reduktion die Welt als Welt, die in jedem transzendentalen Ich als transzendental-intersubjektiv konstituierte sei. Meine volle primordiale Immanenz (die Einfühlung mitgerechnet), mein konkret primordiales Sein konstituiert (und hat schon in bleibender Geltung unter immerfort sich anknüpfender Fortbildung von konstituierenden Geltungen) als Seinseinheiten „Wiederholungen“, „andere“ Ich, andere totale Primordialitäten, und diese transzendentalen Anderen als in mir konstituierte sind fundierend für weitere konstitutive Funktionen. Ihr Mir-gelten, ihr Sich-mir-ausweisen "unter Korrektur" ist in beständigem synthetischem Konnex mit all meinem sonstigen schon Konstituierten und in Konstitution Begriffenen, aber so, daß die intentionale Wiederholung als Andere auch dieses Fungieren wiederholt. || **99,24f.** *Das Eingeklammerte mit Wellenlinie versehen.* || **99,28f.** *adäquat zu bewährenden zwischen eckige Klammern gesetzt* || **100,8** *Dazu bemerkt Husserl am Rande:* Kommt das nicht zu spät? || **100,10f.** *Am Rande:* Transzendentale Selbstkonstitution. || **100,21** *Am Rande:* Selbst eine Form <?> von Einheitsbildungen. || **102,18** *Zu konstituiert sich am Rande hinzugefügt:* ursprünglich wahrnehmungsmäßig || **103,23** *empirischer gestrichen* || **103,25** *cartesianisch ersetzt durch:* transzendental || **106,4** *Nach ich und eingefügt:* keine Wirklichkeitsabwandlung (*nämlich wohl „eines transzendentalen Ich überhaupt“*) || **106,10** *Am Rande ein Paragraph-Zeichen* || **106,10** *cartesianisch gestrichen* || **106,19** *Ms.: auf seine* || **106,32** *Vor daß im Ms. eine geöffnete Maschinen-schriftklammer, die dann nicht geschlossen ist* || **106, Footnote 1:** *im Ms. als Note am Rande, mit genauer Angabe der Zugehörigkeit zu 106,25 durch ¹)* || **108,4–6** *Ms. ursprünglich: ... Schwierigkeiten. Erst im letzten Jahrzehnt beginnt sich diese Systematik zu klären, und vor allem, weil ... gewonnen haben. Dann Erst bis klären sowie gewonnen haben mit Tinte zwischen eckige Klammern gesetzt und letzteres ersetzt durch:* gewinnen müssen || **108,11f.** *zu einem einheitlich möglichen ego geändert in:* zu jedem ... ego, das Wirklichkeitsabwandlung meines faktischen ist, || **108,16f.** *der nicht in*
+
+<!-- TEXTKRITISCHER ANHANG 243 -->
+
+jedem möglichen ego möglich ist *geändert in*: der nicht in jeder Möglichkeitsabwandlung meines ego möglich wäre || **108,19** Mensch *ersetzt durch* Ich-Mensch || **108,26** *Nach meines eingefügt*: transzendentalen reduzierten || **108,33** *Nach in einem eingefügt*: auf mich bezogenen; *vielleicht auch in einem ego ersetzt durch*: auf mich bezogen || **108,37** *Nach ego eingefügt*: jede Möglichkeitsabwandlung des meinen || **109,4** *Nach den eingefügt*: vom Naturalismus her || **109,7** *Am Rande*: Erlebnisse — noetisch, noematisch || **109,25** Geschichte, und wenn *geändert wie folgt*: Geschichte. Wenn || **109,29–31** beizufügen *bis* möglich sind. *geändert wie folgt*: beizufügen: Die konstitutiven Systeme, Systeme der Vormöglichkeit, durch die für das ego die und jene Gegenstände und Gegenstandskategorien Geltungseinheiten sind, sind selbst nur $\dots$ möglich. || **110,2** *Vor ob im Ms. offenbar versehentlich nochmals*: für mich bestehen || **110,16** *Nach schwierig sind eingefügt*: allerdings || **110,28** *Am Rande*: immanente? || **110,30–111,2** *Von* *Aber selbst an eingeklammert und am Rande mit Wellenlinien und Fragezeichen versehen* || **111,10** *Nach Das eingefügt*: für das Reich des Logos || **111,29–33** *Die bis wird. eingeklammert* || **111,30f.** *nach wie die eingefügt*: Gegenstände || **112,5** *Statt* Das-Erfahrene-$\dots$ *Ms.*: Das-Erfahren-$\dots$ *Verändert nach einem Korrekturvorschlag Cairns* (vgl. Cairns, S. 78, *Anm.* 2) *und in Übereinstimmung mit dem F-Ms.* || **113,13** *scheinen gestrichen* || **113,29** im aktiven Bilder gemäß Bleistiftverbesserung im *M-Ms.* *für ursprünglich*: den aktiven Gebilden; *„Typescript C“: dem aktiven Bilden* || **115,16** *Erkennt bis an eingeklammert, F. Brentano folgend gestrichen* || **115,18** *reale gestrichen*; *Ausrufezeichen am Rande* || **116,14** *Nach seiner eingefügt*: Reduktion auf das Unbezweifelbare, wir wollten sagen || **117,16f.** *Aber bis Einsehbarkeit. eingeklammert* || **117,18–21** *Von und das bis ausgeführt: eingeklammert und gestrichen* || **117,19f.** *Am Rande Bemerkung: Stil; möglicherweise auch auf den folgenden Text bis 118,2 Welt. zu beziehen* || **117,22–118,2** *bis Welt. am Rande Wellenlinien, am Ende eine schließende große Klammer und die Bemerkung: Das muß anders behandelt werden.* || **117,26** *in der meinen gemäß „Typescript C“* (vgl. Cairns, S. 84, *Anm. 3*); *M-Ms. stattdessen*: in dem meine || **117,27** *Nach Welt. eine schließende Klammer* || **117,33** *nur gestrichen* || **118,4–8** *Am Rande Wellenlinie* || **118,18–20** *Am Rande drei Ausrufezeichen und vor* Genauer eine geöffnete Klammer, die dann nicht geschlossen || **118,20–25** *Am Rande zwei große Ausrufe- und ein Nullzeichen* || **118,28f.** *Nach psychologischen Idealismus eingefügt*: etwa gar eines solchen im Sinne des sensualistischen Psychologismus || **118,33** *Nach können eingefügt*: und die für das Ich bedeuten würde ein ihm mythisch zugehöriges Ich an sich, und keineswegs würde der Kantische Transzendentalismus etwa in den hier behandelten phänomenologischen übergehen, wenn solche Lehren ausgemerzt würden. || **120,27** *<zu> eingefügt nach einem Korrekturvorschlag Cairns* (vgl. Cairns, S. 88, *Anm. 1*) || **121,22** *Am Rande*: Scheint? Ist. || **122,3** *Nach überhaupt eingefügt*: sei nur meine Vorstellung, || **122,25ff.** *Randbemerkung: Die gefährliche Ich-Rede, mein-Rede! Das Sprachliche erörtern. Vgl. die drei folgenden Anmerkungen* || **122,25** *unseres gestrichen* || **122,28** *in mir gestrichen* || **122,31** *meiner gestrichen* || **123,7–9** *(obschon bis waltende.*
+
+<!-- p. 244 -->
+<!-- TEXTKRITISCHER ANHANG -->
+
+
+<!-- TEXTKRITISCHER ANHANG 245 -->
+gestrichen; zu sind ja auch erfahren zwei *Ausrufungszeichen* || **123,9** Statt *den Ms.:* denen || **123,9** *Nach* waltdende *Ms. nochmals*: erfahren sind || **124,22f.** Sinnesschicht, die, von ihnen ausstrahlend, *gemäß* *F-Ms.*; *M-Ms.* stattdessen: Sinnengeschichte, die, von innen ausstrahlend; *„Typescript C“*: Sinnesschicht, die, von innen ausstrahlend *(vgl. Cairns, S. 92, Anm. 1 und 2)* || **124,27–33** *Auf diese Stelle bezieht sich das eingelegte stenographierte Blatt 197 mit folgendem Text:* § 44, S. 165 oben *<die angegebene Stelle>*: *„innerhalb der transzendentalen Universalsphäre“* — *„eigentümliche Epoché“*. Es ist aber irreführend, wenn es weiter heißt: *„indem wir alles jetzt Fragliche vorerst aus dem thematischen Feld ausschalten“*, *„indem wir alle konstitutiven Leistungen, die sich auf fremde Subjektivität unmittelbar oder mittelbar beziehen usw.“*. In Frage sind doch nicht andere Menschen! Sonderm wie es dazu kommt, daß das ego, wie es der transzendentale Zuschauer transzendental erfährt, in sich die Unterscheidung Ich und anderes Ich konstituiert, eine Scheidung, die aber zunächst im Phänomen Welt auftritt, als die von meinem menschlichen Ich, dem Ich im gewöhnlichen Sinne, und anderem menschlichen Ich, anderem Ich. || **124,35** in seiner Eigenheit *ersetzt durch*: in sich eine Eigenheit || **124,35–125,2** *Von* in seiner Eigenheit *(vgl. vorangehende Anmerkung)* *oder von und in der es ab eingeklammert* || **125,3–22** *An den Inhalt dieses Absatzes scheint die folgende, auf die Rückseite eines Briefes flüchtig stenographierte Notiz des Einlageblattes 199 anzuknüpfen*: Die Totalerscheinung der Welt — im Strömen immer gemeinte Welt. Die Totalerscheinung der Natur. Die Totalmeinung der Welt, die Einzelmeinung, Einzelerscheinung, das einzelne Weltliche. Aber die Meinung schichtet sich, ich kann abstrahieren Dingerscheinung, Schicht der Kultur oder Schicht des menschlichen, seelischen Daseins als *<eine Lücke im Text gelassen>* in der strömenden Gegenwart. Der Strom der Welt-*„Erscheinungen“*, der *„Wahrnehmungserscheinungen“*, ontologisch — Gemeintes. Cogito-Schichten, gemäß denen jede Schicht eine *<entsprechende>* Schicht des cogitatum hat. Das Ich gerichtet auf das Gemeinte. || **125,25** auf Fremdes *mit einer Wellenlinie versehen, am Rande dazu ein Frage- und ein Ausrufungszeichen und die Bemerkung:* auf Menschen und mich selbst als Menschen || **127,6** *Nach* Umweltlichkeit *eingefügt:* nicht bloß für jeweils in wirklicher Erfahrung mit gegebene Andere, sondern || **127,8** *Nach* -etwas-angehen *eingefügt:* -können || **131,6** *Ms.:* diejenige in die Sphäre *worin diejenige offenbar gelegentlich einer mit Tinte eingezeichneten Korrektur nur versehentlich nicht gestrichen* || **132,4** *Nach* auslegt *Ms. noch:* was er — in Sonderheit — ist; diese Worte sind offenbar durch eine Tinte eingezeichnete Korrektur *(eingefügt:* **132,3f.** *und worin bis auslegt)* *ersetzt und nur versehentlich nicht gestrichen; sie fehlen im „Typescript C“* || **135,28** *Statt* dem der *Ms.:* dem des || **136,14** *Ms.:* Es ist die in der *worin die offenbar gelegentlich einer mit Tinte eingetragenen Einfügung* *(136,17 die an sich) nur versehentlich nicht gestrichen* || **136,29** *Statt* Nicht-mehr-erfahren *M-Ms.:* nicht mehr Erfahrenen || **137,29** *Statt* und auch *Ms.:* und es auch || **137,35f.** *Ms.:* ... bzw. ihr zugehörige *<sic>* intersubjektives Eigenwesen ... worin zugehörige offenbar gelegentlich einer mit Tinte eingezeichneten Korrektur nur versehentlich nicht gestrichen || 148,7–9 *Statt* und nicht den irgendeines und so auch jenes bestimmten Dort, der sich in irgendeinem einzusetzenden „Ich kann und ich tue“ abwandelt *Ms.*: und nicht den in irgendeinem einzusetzenden „Ich kann und ich tue“ sich abwandelnden irgendeines und so auch jenes bestimmten Dort || 148,24f. *Statt* Fremdappräsentation *Ms.*: fremde Appräsentation || 148,29 *Statt* die *Ms.*: der; vielleicht ist auch den bzw. der $\dots$ Forderung (statt Forderungen) zu lesen || 148,33–35 *Ms.*: das Verstehen der Glieder als tastender oder auch stoßend fungierender Hände, als gehend fungierende Füße, als sehend fungierende Augen usw. || 153,19 *Ms.*: über die primordial konstituierten || 154,22 *Statt* die *Ms.*: der || 161,9 *Statt* das *Ms.*: die || 161,15ff. *und* 162,5–12 Textfolge gemäß „*Typescript C*“ (vgl. Cairns, S. 133, *Anm. 1*, und S. 135, *Anm. 1*); im *M-Ms.* folgt stattdessen bereits 161,15 nach „orientierter“ Konstitution. der 162,5–12 wiedergegebene Text: So ist, sehen wir, bis Untersuchungen. Es handelt sich wohl um einen im *M-Ms.* versehentlich nicht bereinigten Irrtum bei der Transkription einer eingelegten Beifügung Husserls. || 165,28 *Statt* etwa bloß *Ms.*: bloß etwa || 169,23 *Statt* dem einer *Ms.*: auf einer || 169,28 *das fehlt* im *Ms.* || 171,27f. *Statt* und seiner stufenweisen Sinnbildungen in primordialer Originalität *Ms.*: und seiner in primordialer Originalität stufenweisen Sinnbildungen || 174,1 *Ms.*: sondern daß dieser || 176,20 *Vor* überhaupt *Ms.* nochmals: ich || 176,25 *Statt* einen *Ms.*: ein || 177,31f. *Statt* „echt wissenschaftlich“ durchzuführenden *Ms.*: „echt wissenschaftlichen“ durchzuführen || 178,24–26 nämlich *bis* darzutun. *gemäß einem Korrekturvorschlag Cairns’* (vgl. Cairns, S. 152, *Anm. 1*); *Ms.*: nämlich die konkrete Möglichkeit, die Cartesianische Idee einer Philosophie als einer universalen Wissenschaft aus absoluter Begründung darzutun. || 180,22 *Statt* auch *Ms.*: nach || 182,9f. *Statt* und keineswegs sagt *Ms.*: und sagt keineswegs ||
+
+ANMERKUNGEN ZU „HUSSERLS INHALTSÜBERSICHT IM URTEXT“
+
+187,28 *Am Rande:* Wohl zum Inhaltsverzeichnis der Londoner Vorlesungen. Oder der Pariser? || 188,39 *Statt* seines *Ms.*: seiner || 190,10–23 *Von* Die Welt *an bis zum Ende des Absatzes zwischen eckigen Klammern* ||
+
+NACHWEIS DER ORIGINALSEITEN
+
+
+<!-- 246 TEXTKRITISCHER ANHANG -->
+[Um die Kontrolle unserer Textausgabe prinzipiell zu ermöglichen, lassen wir untenstehende Übersicht über die Entsprechung jeder Seite mit den korrespondierenden Seiten der Husserl-Manuskripte folgen. In dieser Tabelle gibt jeweils die linke Ziffer die Seite des im Druck vorliegenden Textes, die rechte Ziffer die entsprechende Seite (oder die entsprechenden Seiten) der Originalhandschrift an. Als Originalmanuskripte gelten, wie aus den Bemerkungen zur Textgestaltung hervorgeht, für die „Pariser Vorlesungen“ das Ms. F II 5, für die I.–IV. Cartesianische Meditation M II 5 I, für die V. Meditation M II 5 II, für Husserls Inhaltsübersicht
+M II 5 VII 1 und für das ,,Sommaire des Leçons" M II 5 VII 2. Sämtliche
+genannten Originalmanuskripte werden im Husserl-Archiv in Löwen
+bewahrt.]
+
+## *Die Pariser Vorträge*
+
+| Druck S. | Ms. |
+| :--- | :--- |
+| 1 | 1a |
+| 3 | 3a, 4a |
+| 4 | 4a, 4b, 30a |
+| 5 | 30a, 30b |
+| 6 | 30b, 31a, 31b |
+| 7 | 31b, 33a |
+| 8 | 33a, 33b, 34a |
+| 9 | 34a, 34b |
+| 10 | 34b, 5a, 5b |
+| 11 | 5b, 6a |
+| 12 | 6a, 6b, 7a, 7b |
+| 13 | 7b, 8a |
+| 14 | 8a, 8b |
+| 15 | 9a, 9b |
+| 16 | 9b, 10a |
+| 17 | 10a, 10b, 24a |
+| 18 | 24a, 24b |
+| 19 | 24b, 13a |
+| 20 | 13a, 13b, 14a |
+
+| Druck S. | Ms. |
+| :--- | :--- |
+| 21 | 14a, 14b |
+| 22 | 14b, 15a, 15b |
+| 23 | 15b, 16a |
+| 24 | 16a, 17a |
+| 25 | 17a, 17b |
+| 26 | 18a, 18b |
+| 27 | 19a, 19b |
+| 28 | 19b, 20a |
+| 29 | 20a, 20b |
+| 30 | 20b, 82b, 82a |
+| 31 | 82a, 83a, 83b |
+| 32 | 83b, 21a |
+| 33 | 21a, 21b, 22a |
+| 34 | 22a, 22b |
+| 35 | 22b, 23a, 23b |
+| 36 | 23b, 98a, 98b |
+| 37 | 98b, 99a |
+| 38 | 99a, 99b, 100a |
+| 39 | 100a, 100b |
+
+## *Cartesianische Meditationen*
+
+| Druck S. | Ms. |
+| :--- | :--- |
+| 41 | 3 |
+| 43 | 5a, 6a |
+| 44 | 6a, 7a, 10a, 9a |
+| 45 | 10a, 11a, 12a, 14a |
+| 46 | 14a, 15a, 16a |
+| 47 | 16a, 17a, 18a |
+| 48 | 18a, 19a, 20a |
+| 49 | 20a, 21a, 22a |
+| 50 | 22a, 23a, 24a |
+| 51 | 24a, 25a, 26a |
+| 52 | 27a, 26a, 28a |
+| 53 | 28a, 29a, 30a, 32a |
+| 54 | 32a, 33a |
+| 55 | 33a, 34a, 35a |
+| 56 | 35a, 36a, 37a |
+| 57 | 37a, 39a, 40a, 41a |
+| 58 | 41a, 42a, 43a, 44a |
+| 59 | 44a, 45a, 46a |
+| 60 | 46a, 47a, 48a |
+| 61 | 48a, 49a, 50a |
+| 62 | 50a, 51a, 52a, 53a |
+
+| Druck S. | Ms. |
+| :--- | :--- |
+| 63 | 53a, 54a, 55a |
+| 64 | 55a, 56a, 57a |
+| 65 | 57a, 58a, 59a |
+| 66 | 59a, 60a, 63a |
+| 67 | 63a, 64a, 65a |
+| 68 | 65a, 66a, 67a |
+| 69 | 67a, 68a, 69a |
+| 70 | 69a, 70a, 71a |
+| 71 | 71a, 72a, 73a, 74a |
+| 72 | 74a, 75a, 76a |
+| 73 | 76a, 77a, 78a |
+| 74 | 78a, 79a, 80a |
+| 75 | 80a, 81a, 82a |
+| 76 | 83a, 84a, 85a |
+| 77 | 85a, 86a, 87a |
+| 78 | 87a, 88a, 89a, 90a |
+| 79 | 90a, 91a, 92a |
+| 80 | 92a, 93a, 94a |
+| 81 | 94a, 95a, 96a |
+| 82 | 96a, 97a, 98a |
+
+<!-- TEXTKRITISCHER ANHANG 247 -->
+| 83 | 98a, 99a, 100a | | Druck S. | Ms. | | Druck S. | Ms. |
+| :--- | :--- | :--- | :--- | :--- |
+| 84 | 100a, 101a, 102a | 131 | 213a, 214a, 215a, 216a |
+| 85 | 102a, 103a, 104a | 132 | 216a, 217a, 218a |
+| 86 | 104a, 105a, 106a, 107a | 133 | 218a, 219a, 220a |
+| 87 | 107a, 108a, 109a | 134 | 221a, 222a |
+| 88 | 109a, 110a, 111a | 135 | 222a, 223a, 224a, 225a |
+| 89 | 111a, 113a, 114a | 136 | 225a, 226a, 227a |
+| 90 | 114a, 115a, 116a | 137 | 227a, 228a, 229a |
+| 91 | 116a, 120a, 121a | 138 | 229a, 230a, 231a, 232a |
+| 92 | 121a, 122a, 123a | 139 | 232a, 233a, 234a |
+| 93 | 123a, 124a, 125a | 140 | 234a, 235a, 236a, 237a |
+| 94 | 125a, 126a, 127a | 141 | 237a, 238a, 239a |
+| 95 | 127a, 128a, 129a | 142 | 239a, 240a, 241a, 242a |
+| 96 | 129a, 130a, 131a | 143 | 242a, 243a, 244a |
+| 97 | 131a, 132a, 133a | 144 | 244a, 245a, 246a |
+| 98 | 133a, 134a, 135a, 137a | 145 | 246a, 247a, 248a, 249a |
+| 99 | 137a, 138a | 146 | 249a, 250a, 251a |
+| 100 | 138a, 139a, 140a | 147 | 251a, 252a, 253a |
+| 101 | 140a, 141a, 142a, 143a | 148 | 253a, 254a, 255a |
+| 102 | 143a, 144a, 145a | 149 | 255a, 256a, 257a, 258a |
+| 103 | 145a, 146a, 147a | 150 | 258a, 259a, 260a |
+| 104 | 147a, 148a, 149a | 151 | 260a, 261a, 262a |
+| 105 | 149a, 150a, 151a, 152a | 152 | 262a, 263a, 264a, 265a |
+| 106 | 152a, 153a | 153 | 265a, 266a, 267a |
+| 107 | 154a, 155a, 156a | 154 | 267a, 268a, 269a |
+| 108 | 156a, 157a, 158a | 155 | 269a, 270a, 271a |
+| 109 | 158a, 159a, 160a, 161a | 156 | 271a, 272a, 273a |
+| 110 | 161a, 162a, 163a | 157 | 273a, 274a, 275a, 276a |
+| 111 | 163a, 164a, 165a | 158 | 276a, 277a, 278a |
+| 112 | 165a, 166a, 167a, 168a | 159 | 278a, 279a, 280a |
+| 113 | 168a, 169a, 170a | 160 | 280a, 281a, 282a |
+| 114 | 170a, 171a, 172a, 173a | 161 | 282a, 283a, 284a, 285a |
+| 115 | 173a, 174a, 175a | 162 | 285a, 286a, 287a |
+| 116 | 175a, 176a, 177a | 163 | 287a, 288a, 289a |
+| 117 | 177a, 178a, 179a, 180a | 164 | 289a, 290a, 291a |
+| 118 | 180a, 181a, 182a, 183a | 165 | 291a, 292a, 293a |
+| 119 | 183a, 184a, 185a | 166 | 293a, 294a, 295a |
+| 120 | 185a, 186a, 187a | 167 | 295a, 296a, 297a |
+| 121 | 187a, 190a, 191a | 168 | 297a, 298a, 299a |
+| 122 | 191a, 192a, 193a | 169 | 300a, 301a, 302a |
+| 123 | 193a, 194a, 195a | 170 | 302a, 303a, 304a |
+| 124 | 195a, 196a, 198a | 171 | 304a, 305a, 306a |
+| 125 | 198a, 201a, 202a | 172 | 306a, 307a, 308a |
+| 126 | 202a, 203a, 204a | 173 | 308a, 309a, 310a, 311a |
+| 127 | 204a, 205a, 206a, 207a | 174 | 311a, 312a, 313a |
+| 128 | 207a, 208a, 209a | 175 | 313a, 314a, 315a |
+| 129 | 209a, 210a, 211a | 176 | 315a, 316a, 317a, 318a |
+
+<!-- 248 TEXTKRITISCHER ANHANG -->
+| 130 | 211a, 212a, 213a | 177 | 318a, 319a, 320a | Druck S. 178 Ms. 320*a*, 321*a*, 322*a*
+\quad\quad 179 \quad\quad 322*a*, 323*a*, 324*a*, 325*a*
+\quad\quad 180 \quad\quad 325*a*, 326*a*, 327*a*
+
+Druck S. 181 Ms. 327*a*, 328*a*, 329*a*
+\quad\quad 182 \quad\quad 329*a*, 330*a*, 331*a*
+\quad\quad 183 \quad\quad 331*a*
+
+*Husserls Inhaltsübersicht im Urtext*
+
+Druck S. 187 Ms. 1*a*, 2*a*
+\quad\quad 188 \quad\quad 2*a*, 3*a*
+\quad\quad 189 \quad\quad 3*a*, 4*a*, 5*a*
+\quad\quad 190 \quad\quad 5*a*, 6*a*
+
+Druck S. 191 Ms. 6*a*, 7*a*, 8*a*
+\quad\quad 192 \quad\quad 8*a*, 9*a*
+\quad\quad 193 \quad\quad 9*a*, 10*a*
+
+*Sommaire des Leçons du Professeur E. Husserl*
+
+Druck S. 194 Ms. 1*a*
+\quad\quad 195 \quad\quad 1*b*
+\quad\quad 196 \quad\quad 2*a*
+\quad\quad 197 \quad\quad 2*b*
+
+Druck S. 198 Ms. 3*a*
+\quad\quad 199 \quad\quad 3*b*
+\quad\quad 200 \quad\quad 4*a*, 4*b*
+\quad\quad 201 \quad\quad 4*b*
+
+## ÜBERSICHT ÜBER DIE ENTSPRECHUNG DER TEXTE DER „PARISER VORTRÄGE“ UND DER „CARTESIANISCHEN MEDITATIONEN“
+
+[In der linken Kolonne ist mit Angabe der Seiten- und Zeilenzahlen auf die Texte der *Pariser Vorträge*, in der rechten Kolonne mit Angabe der Paragraphen auf die Texte der *Cartesianischen Meditationen* verwiesen.]
+
+| I. Vortrag | $3,1-4,37$ | I. Meditation | § 1 |
+| --- | --- | --- | --- |
+| | $4,38-5,38$ | | § 2 |
+| | $5,39-6,4$ | | § 3 |
+| | $6,5-6,12$ | | § 4 |
+| | $6,13-6,23$ | | § 5 |
+| | $6,24-7,20$ | | § 7 |
+| | $7,21-9,4$ | | § 8 |
+| | $9,5-10,5$ | | § 10 |
+
+<!-- TEXTKRITISCHER ANHANG 249 -->
+| | $10,6-11,3$ | | § 11 | II. Vortrag 11,4 –11,38
+11,39–12,30
+12,30–13,24
+13,25–16,16
+16,17–17,10
+17,10–18,30
+18,31–19,15
+19,16–20,22
+20,22–21,37
+21,38–22,7
+
+III. Vortrag 22,8 –22,17
+22,18–23,30
+23,31–24,36
+24,37–25,9
+25,10–25,17
+
+25,17–25,27
+25,28–26,16
+26,17–26,30
+26,31–27,9
+27,10–29,7
+29,8 –29,27
+29,28–30,25
+30,26–31,39
+32,1 –34,6
+
+IV. Vortrag 34,7 –36,7
+
+36,8 –39,30
+
+II. Meditation § 12
+§ 13
+§ 14
+§ 15
+§ 17
+§ 18
+§ 19
+§ 20
+§ 21
+§ 22
+
+III. Meditation § 23
+§ 24
+§ 26
+§ 28
+§ 29
+
+IV. Meditation § 30
+§ 31
+§ 32
+§ 33
+§ 34
+§ 38
+§ 39
+§ 40
+§ 41
+
+V. Meditation
+
+Schlußwort § 64
+
+NAMENREGISTER
+
+Augustinus 39, 183
+Berkeley 192, 199
+Brentano 31, 79, 86, 115, 170, 197
+Descartes 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 15, 31, 32, 36, 38, 39, 43, 44, 45, 46,
+47, 48, 49, 52, 53, 56, 57, 58, 60, 61, 63, 64, 66, 68, 69, 70, 74, 77, 116,
+120, 178, 181, 182, 187, 188, 189, 192, 193, 194, 195, 198, 200, 201,
+210, 212
+Gilson 9, 63
+Heraklit 18, 86, 191, 198
+Hume 114, 192
+Husserl 210, 214, 216
+Kant 33, 118, 173, 192, 199
+Koyré 9, 63
+Leibniz 28, 35, 102, 167, 174, 176, 192, 200
+Scheler 173
