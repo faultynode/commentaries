@@ -765,6 +765,11 @@ def _mark_quota_exhausted(model: str) -> None:
         pass  # best-effort — losing this memory just means re-discovering it
 
 
+class QuotaExhaustedError(Exception):
+    """Every configured model has hit its daily quota — not fixable by retrying
+    today. Quotas reset daily (UTC), so this is expected to clear on its own."""
+
+
 class ModelCascade:
     """Holds the active extract_fn and can fall back to the next model on a
     daily-quota exhaustion — a fresh model has its own separate quota bucket."""
@@ -778,6 +783,7 @@ class ModelCascade:
         self.host     = host
 
         exhausted = _load_quota_exhausted_models()
+        self.all_exhausted = all(m in exhausted for m in models)
         self.index = next(
             (i for i, m in enumerate(models) if m not in exhausted),
             len(models) - 1,
@@ -814,7 +820,7 @@ def extract_with_retry(cascade: ModelCascade, image_b64: str) -> str:
                     _mark_quota_exhausted(cascade.model)
                     if cascade.advance():
                         break  # retry immediately on the new model
-                    raise
+                    raise QuotaExhaustedError(str(exc)) from exc
                 if not _is_retryable_error(exc) or attempt == MAX_RATE_LIMIT_RETRIES - 1:
                     raise
                 delay = _parse_retry_delay(exc) or FALLBACK_RETRY_DELAY * (attempt + 1)
@@ -868,6 +874,13 @@ def process_pdf(
         print(f"Resuming : {len(page_results)} page(s) already done from a previous run")
     print(f"Pages    : {len(page_indices)} page(s) to process  |  DPI {dpi}\n")
 
+    if page_indices and cascade.all_exhausted:
+        doc.close()
+        print(f"All configured models ({', '.join(models)}) already hit their daily "
+              f"quota earlier in this run — skipping this file for now.")
+        print("Quotas reset daily (UTC) — re-run with the same -o path to resume automatically.")
+        return str(out_path)
+
     pad = len(str(len(page_indices)))
 
     for i, idx in enumerate(page_indices):
@@ -875,6 +888,16 @@ def process_pdf(
         try:
             img_b64 = render_page_to_base64(doc[idx], dpi)
             raw     = extract_with_retry(cascade, img_b64)
+        except QuotaExhaustedError:
+            doc.close()
+            print(f"\nAll configured models ({', '.join(models)}) have hit their daily "
+                  f"quota ({i} of {len(page_indices)} page(s) completed this run).")
+            if page_results:
+                _assemble_and_write(page_results, out_path)
+                save_progress(out_path, total, page_results)
+                print(f"Partial output saved → {out_path}")
+            print("Quotas reset daily (UTC) — re-run with the same -o path to resume automatically.")
+            return str(out_path)
         except Exception:
             doc.close()
             print(f"\nFAILED on page {idx + 1} "
@@ -920,6 +943,9 @@ provider / model quick-reference:
 
   gemini  (GEMINI_API_KEY required; free tier available)
     gemini-3.1-flash-lite fast, current free-tier-eligible model
+    gemini-3.5-flash-lite same lightweight tier — good first fallback, its own quota
+    gemini-3.5-flash      heavier frontier model — much smaller free-tier daily quota;
+                          best used as a last-resort fallback, not a first one
 
   openai  (OPENAI_API_KEY required)
     gpt-4o                highest quality
@@ -932,7 +958,7 @@ examples:
   python pdf_extractor.py paper.pdf --model olmocr2
   python pdf_extractor.py paper.pdf --model qwen2.5vl:7b --dpi 300
   python pdf_extractor.py paper.pdf --provider gemini
-  python pdf_extractor.py paper.pdf --provider gemini --fallback-models gemini-3.5-flash
+  python pdf_extractor.py paper.pdf --provider gemini --fallback-models gemini-3.5-flash-lite,gemini-3.5-flash
   python pdf_extractor.py paper.pdf --provider openai
   python pdf_extractor.py paper.pdf --pages 1-50 -o chapter1.md
         """,
@@ -958,8 +984,10 @@ examples:
         help=(
             "Comma-separated model names to fall back to, in order, when the "
             "current model's daily quota is exhausted (each model has its own "
-            "separate quota). Same provider only. Example: "
-            "gemini-3.1-flash-lite --fallback-models gemini-3.5-flash"
+            "separate quota). Same provider only. Prefer same-tier fallbacks first "
+            "(a heavier model may have a much smaller free-tier daily quota than the "
+            "one it's backing up). Example: "
+            "gemini-3.1-flash-lite --fallback-models gemini-3.5-flash-lite,gemini-3.5-flash"
         ),
     )
     parser.add_argument("--api-key",

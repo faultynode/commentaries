@@ -38,7 +38,7 @@ jobs:
               echo "Skipping $f (already converted → $out)"
               continue
             fi
-            if ! python3 tools/pdf_extractor.py "$f" --provider gemini --fallback-models gemini-3.5-flash -o "$out"; then
+            if ! python3 tools/pdf_extractor.py "$f" --provider gemini --fallback-models gemini-3.5-flash-lite,gemini-3.5-flash -o "$out"; then
               echo "::error::Failed to convert $f"
               failed+=("$f")
             fi
