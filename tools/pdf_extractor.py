@@ -943,6 +943,9 @@ provider / model quick-reference:
 
   gemini  (GEMINI_API_KEY required; free tier available)
     gemini-3.1-flash-lite fast, current free-tier-eligible model
+    gemini-3.5-flash-lite same lightweight tier — good first fallback, its own quota
+    gemini-3.5-flash      heavier frontier model — much smaller free-tier daily quota;
+                          best used as a last-resort fallback, not a first one
 
   openai  (OPENAI_API_KEY required)
     gpt-4o                highest quality
@@ -955,7 +958,7 @@ examples:
   python pdf_extractor.py paper.pdf --model olmocr2
   python pdf_extractor.py paper.pdf --model qwen2.5vl:7b --dpi 300
   python pdf_extractor.py paper.pdf --provider gemini
-  python pdf_extractor.py paper.pdf --provider gemini --fallback-models gemini-3.5-flash
+  python pdf_extractor.py paper.pdf --provider gemini --fallback-models gemini-3.5-flash-lite,gemini-3.5-flash
   python pdf_extractor.py paper.pdf --provider openai
   python pdf_extractor.py paper.pdf --pages 1-50 -o chapter1.md
         """,
@@ -981,8 +984,10 @@ examples:
         help=(
             "Comma-separated model names to fall back to, in order, when the "
             "current model's daily quota is exhausted (each model has its own "
-            "separate quota). Same provider only. Example: "
-            "gemini-3.1-flash-lite --fallback-models gemini-3.5-flash"
+            "separate quota). Same provider only. Prefer same-tier fallbacks first "
+            "(a heavier model may have a much smaller free-tier daily quota than the "
+            "one it's backing up). Example: "
+            "gemini-3.1-flash-lite --fallback-models gemini-3.5-flash-lite,gemini-3.5-flash"
         ),
     )
     parser.add_argument("--api-key",
