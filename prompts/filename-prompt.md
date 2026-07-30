@@ -8,18 +8,28 @@ Default:  <author-last-name>-<title>.<ext>
 
 Two series override the default:
 
-1. Husserliana volumes → husserl-hua-<volume>
-   - Roman numerals become Arabic: Hua IV → husserl-hua-4
+1. Husserliana volumes → husserl-hua-<volume>-<title>
+   - Roman numerals become Arabic: Hua IV → husserl-hua-4-<title>
    - Slash-separated part-volumes become hyphens:
-     Hua XLIII/2 → husserl-hua-43-2
+     Hua XLIII/2 → husserl-hua-43-2-<title>
    - Sub-series keep their abbreviation:
-     Hua Mat VIII → husserl-hua-mat-8
-     Hua Dok III/4 → husserl-hua-dok-3-4
+     Hua Mat VIII → husserl-hua-mat-8-<title>
+     Hua Dok III/4 → husserl-hua-dok-3-4-<title>
+   - The appended title follows the same normalization and
+     subtitle-dropping rules as the default format:
+     Hua I, Cartesianische Meditationen und Pariser Vorträge
+       → husserl-hua-1-cartesianische-meditationen-und-pariser-vortrage
    - Husserl works NOT in Husserliana use the default format
      (husserl-erfahrung-und-urteil.pdf)
 
-2. Heidegger Gesamtausgabe volumes → heidegger-ga-<volume>
-   - GA 19 → heidegger-ga-19
+2. Heidegger Gesamtausgabe volumes → heidegger-ga-<volume>-<title>
+   - GA 19 → heidegger-ga-19-<title>
+   - The appended title follows the same normalization and
+     subtitle-dropping rules as the default format, in the language
+     of the edition in hand:
+     GA 61 (Eng. trans.), Phenomenological Interpretations of
+     Aristotle: Initiation into Phenomenological Research
+       → heidegger-ga-61-phenomenological-interpretations-of-aristotle
    - Heidegger works not from the GA (single editions, translations,
      correspondence outside the GA) use the default format
      (heidegger-sein-und-zeit.pdf)
