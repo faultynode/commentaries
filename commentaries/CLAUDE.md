@@ -42,23 +42,50 @@ Every file opens with Jekyll frontmatter:
 ---
 layout: default
 title: <human-readable page title, shown in the browser tab>
-wordpress_id: <only on posts migrated from the old WordPress site>
 ---
 ```
 
-Omit `wordpress_id` on new commentaries — it's a migration artifact,
-not a convention to continue.
+Don't set `wordpress_id` by hand — see below, it's written back
+automatically.
 
-## index.html must be updated manually
+## Every push auto-publishes to WordPress and rebuilds index.html
 
-The site homepage ([../index.html](../index.html)) hand-lists every
-commentary inside a `<details><summary>Author</summary><ul>` block,
-one `<li><a href="commentaries/<author>/<file>.html">Title</a></li>`
-per file (note: `.html`, not `.md` — Jekyll's build target). Adding,
-renaming, or deleting a commentary file does **not** update this
-list automatically — you must edit `index.html` in the same change,
-or the page becomes unreachable from the homepage even though it
-still builds and is live at its own URL.
+`.github/workflows/wordpress-sync.yml` runs on every push that
+touches a `.md` file. It:
+
+1. Runs `scripts/sync_wordpress.py`, which globs
+   `commentaries/*/*.md` — **exactly one directory level**, i.e.
+   `<author>/<file>.md` — and publishes each one live to WordPress.
+   A file with no `wordpress_id` in its frontmatter is treated as new
+   and gets a fresh post created (and the resulting ID written back
+   into the file); a file that already has one gets that post
+   updated in place. There is no draft/staging step — every push
+   goes live immediately.
+2. Runs `scripts/update_index.py`, which regenerates the
+   `<div class="commentary-groups">` block in
+   [../index.html](../index.html) from the same glob, grouping by
+   parent-folder name into a `<details><summary>Author</summary><ul>`
+   section per author. You do **not** need to hand-edit `index.html`
+   for a normal commentary add/rename — the next push does it.
+3. Commits both the updated files and `index.html` back to `main` as
+   `github-actions[bot]`, tagged `[skip ci]`.
+
+**The one-directory-level glob is deliberate, not incidental.** A
+`.md` file placed directly in `commentaries/` (like this one) is
+*not* a commentary and must **not** be picked up — earlier, before
+the glob was narrowed from a recursive `**` to `*`, this very file
+got auto-published as a live WordPress post titled "CLAUDE" (falling
+back to the filename, since it has no `title` frontmatter), and the
+`wordpress_id` write-back for it was silently lost by an unrelated
+`git add` globbing quirk in the workflow — meaning every subsequent
+push would have created *another* duplicate post. If you add any
+other non-commentary `.md` file at the top level of `commentaries/`,
+it's excluded from both scripts by construction; don't rely on this
+by accident, but don't be surprised it's silent either.
+
+Do add/rename `index.html` entries yourself only when doing manual
+cleanup outside the normal flow (e.g. removing a stray auto-generated
+entry) — otherwise leave it to the workflow.
 
 When renaming a file with accented characters, double-check the link
 still resolves after publish — iCloud Drive can silently re-encode
