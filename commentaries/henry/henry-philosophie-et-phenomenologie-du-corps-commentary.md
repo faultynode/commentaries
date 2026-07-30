@@ -1,3 +1,8 @@
+---
+layout: default
+title: Philosophie et phénoménologie du corps — Commentary
+---
+
 # Commentary on Michel Henry, *Philosophie et phénoménologie du corps: essai sur l'ontologie biranienne*
 
 Citation is by the pagination of the Presses Universitaires de France edition (Épiméthée; 1st ed. 1965, 4th ed. 2001), given in the form (PPC 12). References to Maine de Biran follow Henry's own sigla: E for the *Essai sur les fondements de la psychologie* (Tisserand edition, vols. VIII–IX), D followed by volume and page for the Tisserand *Œuvres*.
