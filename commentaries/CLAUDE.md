@@ -48,6 +48,20 @@ title: <human-readable page title, shown in the browser tab>
 Don't set `wordpress_id` by hand — see below, it's written back
 automatically.
 
+## Raw-source conversion pipeline moved to sources repo
+
+This repo used to have `pdf-input/`, `pdf-output/`, `ebook-input/`,
+`ebook-output/` folders, a `tools/` folder of PDF/ebook-to-Markdown
+conversion scripts, and two workflows
+(`.github/workflows/pdf-to-markdown.yml`,
+`.github/workflows/ebook-to-markdown.yml`) that ran them on push. All
+of that moved (history preserved via `git subtree split`) to
+[faultynode/sources](https://github.com/faultynode/sources), which
+already held the `sources/` folder from an earlier move (see
+"Filename convention" above). Nothing in this repo depends on that
+pipeline; it only ever fed raw conversions into files that get
+hand-reviewed and placed in the sources repo's `sources/` folder.
+
 ## Every push auto-publishes to WordPress and rebuilds index.html
 
 `.github/workflows/wordpress-sync.yml` runs on every push that
