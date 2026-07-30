@@ -7372,66 +7372,51 @@ Sachverhalt, eidetischer S. als Korrelat eidetischen Urteilens bzw. eidetischer 
 Sa tz (Apophansis) (s. auch „Urteil”), S. als logische Kategorie **22**; „S. überhaupt” 25; Begriff des S. in d. „Logischen Untersuchungen” 117; Begriff des S. im rein logischen Sinn **195**; Begriff des S. „an <!-- 456 -->
 <!-- L. LANDGREBE -->
 
-sich'' bei Bolzano 196; jedem S. entspricht ein Nominale (Gesetz d.
-Nominalisierung) 248 f.; Ausdruck d. Glaubensthesen in Aussage-
-sätzen 250; ob nicht alle S. Aussagesätze sind 262 ff.; ausdrückliche
-u. thetische S. 274; Überführbarkeit jedes S. in einen Aussagesatz
-277; S.-verständnis unabhängig von Verworrenheit d. Unterlagen
-260; Formenlehre d. prädikativen (apophantischen) S. 275 ff. (s.
-auch ,,Apophantik''); Wesenszusammenhang zwischen rein synthe-
-tischer Form des S. u. Möglichkeit intuitiver Erfüllung 306.
-Sa tz (Thesis, s. auch dort u. ,,Setzung''), S. als Einheit von Sinneskern
-u. thetischem Charakter 216, 274; Wesensgemeinschaft aller S. 242;
-jeder S. in einen urdoxischen umwandelbar 243; eingliedrige u. syn-
-thetische S. 274; Idee einer systematischen Typik der S. 275; Aus-
-drückbarkeit aller urdoxischen S. 276; Erweiterung d. Begriffs d.
-Form u. d. Idee d. Formenlehre der S. 277; erfüllter u. nicht erfüllter
-S. 283; Recht jedes vernünftigen S. 289; Deckung gleicher S. mit
-verschiedenem Vernunftwert 291 f.; Formenlehre der S. gehört noch
-nicht zur Vernunftlehre 305.
-Schein, S. als Thema d. Phänomenologie 177, 318; ,,bloßer'' S. 215.
-221; S. u. Neutralisierung 233.
+sich'' bei Bolzano 196; jedem S. entspricht ein Nominale (Gesetz d. Nominalisierung) 248 f.; Ausdruck d. Glaubensthesen in Aussagesätzen 250; ob nicht alle S. Aussagesätze sind 262 ff.; ausdrückliche u. thetische S. 274; Überführbarkeit jedes S. in einen Aussagesatz 277; S.-verständnis unabhängig von Verworrenheit d. Unterlagen 260; Formenlehre d. prädikativen (apophantischen) S. 275 ff. (s. auch ,,Apophantik''); Wesenszusammenhang zwischen rein synthetischer Form des S. u. Möglichkeit intuitiver Erfüllung 306.
+
+Sa tz (Thesis, s. auch dort u. ,,Setzung''), S. als Einheit von Sinneskern u. thetischem Charakter 216, 274; Wesensgemeinschaft aller S. 242; jeder S. in einen urdoxischen umwandelbar 243; eingliedrige u. synthetische S. 274; Idee einer systematischen Typik der S. 275; Ausdrückbarkeit aller urdoxischen S. 276; Erweiterung d. Begriffs d. Form u. d. Idee d. Formenlehre der S. 277; erfüllter u. nicht erfüllter S. 283; Recht jedes vernünftigen S. 289; Deckung gleicher S. mit verschiedenem Vernunftwert 291 f.; Formenlehre der S. gehört noch nicht zur Vernunftlehre 305.
+
+Schein, S. als Thema d. Phänomenologie 177, 318; ,,bloßer'' S. 215. 221; S. u. Neutralisierung 233.
+
 Schema 315 f.
-Schluß, mittelbare S. in d. Phänomenologie 140; mittelbare S. u.
-Evidenz 293 ff.
+
+Schluß, mittelbare S. in d. Phänomenologie 140; mittelbare S. u. Evidenz 293 ff.
+
 Schritte, synthetische S. d. reinen Ich 253 ff. (s. auch ,,Synthesis'').
-Seele (Psyche), psychische Funktion s. ,,Funktion''; reale Einheit
-von S. u. Leib 69 f., 134; seelische Zustände transzendent, konsti-
-tuiert im absoluten Bewußtsein 104 ff., 114 (s. auch ,,Phänomenolo-
-gie u. Psychologie''); Begriff d. ,,psychischen'' Phänomens 174 f.;
-S. als in d. Empirie faktisch gegebene Realität, deren Zustände d.
-Erlebnisse, Irrtum d. ,,Psychologie ohne Seele'' 175; S. fundiert d.
-animalischen Gemeinschaften 318 f.
+
+Seele (Psyche), psychische Funktion s. ,,Funktion''; reale Einheit von S. u. Leib 69 f., 134; seelische Zustände transzendent, konstituiert im absoluten Bewußtsein 104 ff., 114 (s. auch ,,Phänomenologie u. Psychologie''); Begriff d. ,,psychischen'' Phänomens 174 f.; S. als in d. Empirie faktisch gegebene Realität, deren Zustände d. Erlebnisse, Irrtum d. ,,Psychologie ohne Seele'' 175; S. fundiert d. animalischen Gemeinschaften 318 f.
+
 Sehding als Schicht d. Dingkonstitution 316.
-Sehen, S. im weitesten Sinn als originär gebendes Bewußtsein 36, 282
-(s. auch ,,Originärität''); assertorisches u. apodiktisches S. (Einsehen)
-285 f.
-Sein, S.-Gebiet s. ,,Region''; individuelles S. nicht gleich realem S. 4;
-individuelles S. als zufälliges 9; reales S. als ,,S. in d. Welt'' 7 (s. auch
-,,Realität''); S. d. Wesen 40 ff.; S. d. Bewußtseins u. S. d. Welt 70 f.,
-92 f.; S. als Erlebnis u. S. als Ding 76 f., 84 f. (s. auch ,,Ding''); All
-des S. nicht All d. Realitäten 106 f.; transzendentes und transzen-
-dentales S. 142, 177 f. (s. auch ,,Transzendenz''); S. jeder Region
-konstituiert im Bewußtsein 177; immanentes S. als endliche Gegeben-
-heit, transzendentes gegeben als Idee 298.
-S.-Charaktere u. S.-modalitäten als noematische Charaktere 214;
-S.-Charakter schlechthin als Urform aller S.-Modalitäten 215 f.; S.-
-Modalität als Sein 217 ff.; iterierte S.-Modalitäten 219 f.; S.-Charak-
-tere keine Reflexionsbestimmtheiten 220 f.; Nichtsein nicht iden-
+
+Sehen, S. im weitesten Sinn als originär gebendes Bewußtsein 36, 282 (s. auch ,,Originarität''); assertorisches u. apodiktisches S. (Einsehen) 285 f.
+
+Sein, S.-Gebiet s. ,,Region''; individuelles S. nicht gleich realem S. 4; individuelles S. als zufälliges 9; reales S. als ,,S. in d. Welt'' 7 (s. auch ,,Realität''); S. d. Wesen 40 ff.; S. d. Bewußtseins u. S. d. Welt 70 f., 92 f.; S. als Erlebnis u. S. als Ding 76 f., 84 f. (s. auch ,,Ding''); All des S. nicht All d. Realitäten 106 f.; transzendentes und transzendentales S. 142, 177 f. (s. auch ,,Transzendenz''); S. jeder Region konstituiert im Bewußtsein 177; immanentes S. als endliche Gegebenheit, transzendentes gegeben als Idee 298.
+
 
 <!-- SACHREGISTER 457 -->
-tisch mit ,,gültig negiert sein'' 221; S.-Modalität im weitesten Sinn 233; wahrhaft oder wirklich Sein u. ausweisbar Sein in d. logischen Sphäre Korrelate 282; wahrhaftes S. als Idee u. Vernunftthesis Korrelate 295 ff.
+S.-Charaktere u. S.-Modalitäten als noematische Charaktere 214; S.-Charakter schlechthin als Urform aller S.-Modalitäten 215 f.; S.-Modalität als Sein 217 ff.; iterierte S.-Modalitäten 219 f.; S.-Charaktere keine Reflexionsbestimmtheiten 220 f.; Nichtsein nicht identisch mit ,,gültig negiert sein'' 221; S.-Modalität im weitesten Sinn 233; wahrhaft oder wirklich Sein u. ausweisbar Sein in d. logischen Sphäre Korrelate 282; wahrhaftes S. als Idee u. Vernunftthesis Korrelate 295 ff.
+
 Selbständigkeit, Begriff d. S. 28.
+
 Selbstbeobachtung (s. auch ,,Reflexion“), d. Schwierigkeiten d. „S.“ 115 ff.
-Selbstgegebenheit s. „Gegebenheit“.
+
+Selbstgegebenheit s. ,,Gegebenheit“.
+
 Sensualismus u. Aufmerksamkeitstheorie 192 f. Anm.
-Sensuell, s. Daten s. „Empfindungsdaten“, „$\text{\(\hat{\upsilon}\lambda\acute{\eta}\)}$“ u. „Stoff“; s. Erlebnisse 172 f.
-Setzung ($=$ Thesis, s. auch dort, „Positionalität“ u. „Satz“), S.-Charakter s. „thetischer Charakter, Vernunft-S. s. „Vernunft“, aktuelle potentielle usw. S. s. „Aktualität“ usw.
-S. von Wesen unabhängig von Tatsachen-S. 13; Tatsachen-S. in Anwendung eidetischer Wahrheiten 15; S. in Werten, Wünschen u. Wollen 199, 241 f.; aktuelle u. potentielle, wirkliche u. neutralisierte S. 228 ff.; S. im erweiterten Sinn 233 f., 241 f.; S.-Charaktere im weitesten Sinn als Aktqualität 268; ursprunglicher Rechtsgrund (vernünftige Motivierung) der S. d. originäre Gegebenheit 283 f.; Gewicht der S. 287 f.; Recht jeder vernünftigen S. 289; Überführbarkeit der S. in aktuelle Vernunft-S. 291 f.
+
+Sensuell, s. Daten s. ,,Empfindungsdaten“, „$\text{\(\hat{\upsilon}\lambda\acute{\eta}\)}$“ u. „Stoff“; s. Erlebnisse 172 f.
+
+Setzung ($=$ Thesis, s. auch dort, ,,Positionalität“ u. ,,Satz“), S.-Charakter s. ,,thetischer Charakter, Vernunft-S. s. „Vernunft“, aktuelle potentielle usw. S. s. „Aktualität“ usw.
+
+S. von Wesen unabhängig von Tatsachen-S. 13; Tatsachen-S. in Anwendung eidetischer Wahrheiten 15; S. in Werten, Wünschen u. Wollen 199, 241 f.; aktuelle u. potentielle, wirkliche u. neutralisierte S. 228 ff.; S. im erweiterten Sinn 233 f., 241 f.; S.-Charaktere im weitesten Sinn als Aktqualität 268; ursprünlicher Rechtsgrund (vernünftige Motivierung) der S. d. originäre Gegebenheit 283 f.; Gewicht der S. 287 f.; Recht jeder vernünftigen S. 289; Überführbarkeit der S. in aktuelle Vernunft-S. 291 f.
+
 Singulär, s. Bewußtsein 248.
+
 Singularität, eidetische S. u. oberste Gattung 25 f.; S. u. eidetischer Umfang 27; eidetische S. zerfallen in abstrakte u. konkrete 30; eidetische S. d. Bewußtseins nicht eindeutig bestimmbar 139 f.
-Sinn. Allgemeines: S. u. Sinngebung, S.-gebung als Intentionalität gegenüber d. sensuellen Bewußtsein 172 ff. (s. auch „Intentionalität“ u. „Noesis“); S. nicht reelle Erlebniskomponente 181, 206; S. in psychologischer Auffassung 184; S. durch attentionale Wandlungen nicht berührt 191, 254; S. d. Urteilserlebnisses (s. auch „Urteil“) 194; S. d. Wertens 198 f.; S. d. fundierten Akte 239 f.; S. u. Bedeutung 256 f.; Erhebung des S. ins Begriffliche durch d. Ausdruck 257 f.; alle Gegenstands-S. stehen unter einer obersten Gattung 265; S. als „Materie“ 274; Idee einer Formenlehre der S. 275; erfüllter u. nicht erfüllter S. 283; Dingerscheinung u. Ding-S. 286 (s. auch ,,Ding“).
-S., Kern u. Gegenstand (s. auch dort): S. als Kernschicht im Noema, unabhängig von Existenz d. Vermeinten 185, 189; gegenständlicher S. u. Gegenstand schlechthin 189, 208 f.; Noema hat Beziehung auf den Gegenstand durch den S. 267 ff., 278; S. als Zen-tralpunkt d. noematischen Kernes; Beschreibung d. noematischen S. 269 f.; S. als noematischer Gegenstand im Wie, Identität u. Verschiedenheit der S. u. Beziehung auf denselben Gegenstand 272 f.; S. im Modus d. Fülle als Kern 273; erfüllter originär gebender S. u. Vernünftigkeit d. Setzungscharakters 283 f.; originär erfüllter S. u. Gegenstand fallen bei immanenter Anschauung zusammen; erfüllter S. als „erkenntnismäßiges Wesen“ 298; S.-Subjekt als Gegenstand 302.
+
+Sinn. Allgemeines: S. u. Sinngebung, S.-gebung als Intentionalität gegenüber d. sensuellen Bewußtsein 172 ff. (s. auch „Intentionalität“ u. „Noesis“); S. nicht reelle Erlebniskomponente 181, 206; S. in psychologischer Auffassung 184; S. durch attentionale Wandlungen nicht berührt 191, 254; S. d. Urteilserlebnisses (s. auch „Urteil“) 194; S. d. Wertens 198 f.; S. d. fundierten Akte 239 f.; S. u. Bedeutung 256 f.; Erhebung des S. ins Begriffliche durch d. Ausdruck 257 f.; alle Gegenstands-S. stehen unter einer obersten Gattung 265; S. als „Materie“ 274; Idee einer Formenlehre der S. 275; erfüllter u. nicht erfüllter S. 283; Dingerscheinung u. Ding-S. 286 (s. auch „Ding“).
+
+S., Kern u. Gegenstand (s. auch dort): S. als Kernschicht im Noema, unabhängig von Existenz d. Vermeinten 185, 189; gegenständlicher S. u. Gegenstand schlechthin 189, 208 f.; Noema hat Beziehung auf den Gegenstand durch den S. 267 ff., 278; S. als Zentralpunkt d. noematischen Kernes; Beschreibung d. noematischen S. 269 f.; S. als noematischer Gegenstand im Wie, Identität u. Verschiedenheit der S. u. Beziehung auf denselben Gegenstand 272 f.; S. im Modus d. Fülle als Kern 273; erfüllter originär gebender S. u. Vernünftigkeit d. Setzungscharakters 283 f.; originär erfüllter S. u. Gegenstand fallen bei immanenter Anschauung zusammen; erfüllter S. als „erkenntnismäßiges Wesen“ 298; S.-Subjekt als Gegenstand 302.
 
 <!-- 458 -->
 <!-- L. LANDGREBE -->
@@ -7458,32 +7443,31 @@ Synthesis, Allgemeines: S. d. Identifikation in der Wahrnehmung 75 (s. auch „I
 
 <!-- SACHREGISTER 459 -->
 
-Erscheinungsmannigfaltigkeit (s. auch ,,Erscheinung'') 78; synthetische Einheit u. Konstitution 176 f.; Ur-S. d. Zeitbewußtseins, kontinuierliche u. gegliederte S. 246; synthetische Einigung d. Sinne im X, S. d. Einstimmigkeit, Andersbestimmung u. Widerstreites 287, 318; synthetische Einigung als Verbindung zur Einheit eines Aktes 301.
+Erscheinungsmannigfaltigkeit (s. auch ,,Erscheinung'') 78; synthetische Einheit u. Konstitution *176* f.; Ur-S. d. Zeitbewußtseins, kontinuirliche u. gegliederte S. *246*; synthetische Einigung d. Sinne im X, S. d. Einstimmigkeit, Andersbestimmung u. Widerstreites *287*, *318*; synthetische Einigung als Verbindung zur Einheit eines Aktes 301.
 
-Gegliederte S.: synthetische Akte in Vorstellungen fundiert 239; S. u. Bedeutungsformen d. formalen Logik 246 f.; Unterscheidung von explikativer oder analytischer S., Urteil u. Doxa 264; — Polythetisches Bewußtsein (vielstrahliges) u. monothetisches (einstrahliges), synthetisches Bewußtsein konstituiert ursprünglich Gesamtgegenstände 247 f.; S. selbst Thesis, höherer Stufe, aufgebaut auf schlichten Thesen 249; Positionalität u. Neutralität der S. 249 f.; doxische S. u. ihre Parallelen in anderen Aktsphären 250 ff.; Vollzugsmodi der S.: ursprüngliche Produktion u. ihre Modifikationen 253 ff.; synthetische Originarität 321. — Begriff d. prädikativen oder analytischen S., Formenlehre d. prädikativen S. 275 ff.; in den synthetischen Formen liegen apriorische Bedingungen möglicher Gültigkeit 305; d. Wesensgesetzmäßigkeiten d. synthetischen Stufe von d. besonderen Materien d. synthetischen Glieder unabhängig 322.
+Gegliederte S.: synthetische Akte in Vorstellungen fundiert 239; S. u. Bedeutungsformen d. formalen Logik *246* f.; Unterscheidung von explikativer oder analytischer S., Urteil u. Doxa *264*; — Polythetisches Bewußtsein (vielstrahliges) u. monothetisches (einstrahliges), synthetisches Bewußtsein konstituiert ursprünglich Gesamtgegenstände *247* f.; S. selbst Thesis, höherer Stufe, aufgebaut auf schlichten Thesen *249*; Positionalität u. Neutralität der S. 249 f.; doxische S. u. ihre Parallelen in anderen Aktsphären *250* ff.; Vollzugsymodi der S.: ursprüngliche Produktion u. ihre Modifikationen *253* ff.; synthetische Originarität 321. — Begriff d. prädikativen oder analytischen S., Formenlehre d. prädikativen S. *275* ff.; in den synthetischen Formen liegen apriorische Bedingungen möglicher Gültigkeit *305*; d. Wesensgesetzmäßigkeiten d. synthetischen Stufe von d. besonderen Materien d. synthetischen Glieder unabhängig 322.
 
-Synthetisch, s. u. analytische Kategorien 22 f., 31 f.; s. u. analytische Evidenz 286.
+Synthetisch, s. u. analytische Kategorien *22* f., *31* f.; s. u. analytische Evidenz 286.
 
 ## T
 
-Tatsache, T. u. Wesen 8 f.; Tatsächlichkeit bezogen auf Notwendigkeit 9; T. u. Existenz, T.-erkenntnis u. Wesenserkenntnis 12 f.; T. setzung in Anwendung eidetischer Wahrheiten 15 f., 285 f.; jede T. schließt einen formalen u. materialen Wesensbestand ein 18; T.-setzung assertorisch evident 285.
+Tatsache, T. u. Wesen *8* f.; Tatsächlichkeit bezogen auf Notwendigkeit 9; T. u. Existenz, T.-erkenntnis u. Wesenserkenntnis *12* f.; T. setzung in Anwendung eidetischer Wahrheiten 15 f., *285* f.; jede T. schließt einen formalen u. materialen Wesensbestand ein 18; T.-setzung assertorisch evident *285*.
 
-Tatsachenwissenschaft, T. u. Erfahrungswissenschaft 8, 17; prinzipielle Abhängigkeit der T. von d. formalen u. regionalen Ontologie 18 ff., 44 f., 153, 299; Bedingungen d. Rationalität der T. 19 f.; phänom. u. außerphänom. T. 119; Scheidung der T. parallel der d. Wesenswissenschaften 134.
+Tatsachenwissenschaft, T. u. Erfahrungswissenschaft *8*, 17; prinzipielle Abhängigkeit der T. von d. formalen u. regionalen Ontologie *18* ff., 44 f., 153, 299; Bedingungen d. Rationalität der T. 19 f.; phänom. u. außerphänom. T. *119*; Scheidung der T. parallel der d. Wesenswissenschaften 134.
 
-Teleologie, immanente T. u. Gott 96, 111; T. d. Welt u. Gott 110 f.; T. d. noetischen Funktionen 176.
+Teleologie, immanente T. u. Gott *96*, 111; T. d. Welt u. Gott 110 f.; T. d. noetischen Funktionen *176*.
 
-Terminus, letzter T. = letztes Substrat 25; T. d. Phänomenologie u. ihre Eigenart 124 f., 170 f.
+Terminus, letzter T. = letztes Substrat 25; T. d. Phänomenologie u. ihre Eigenart *124* f., *170* f.
 
 Theorie, T. als untergeordnete Gattung von Wissenschaften (= Disziplin) 134.
 
 Thesis (s. auch ,,Satz'' u. ,,Setzung'').
 
-Allgemeines: General-Th. d. natürlichen Einstellung u. ihre Ausschaltung 52 ff.; letzte Quelle d. General-Th. d. sinnliche Erfahrung 70; Th. d. Welt u. d. reinen Ich 86; Th. d. Welt u. Horizontbewußtsein 90; Th. in phänom. Reduktion als Komponente d.
+Allgemeines: General-Th. d. natürlichen Einstellung u. ihre Ausschaltung *52* ff.; letzte Quelle d. General-Th. d. sinnliche Erfahrung 70; Th. d. Welt u. d. reinen Ich 86; Th. d. Welt u. Horizontbewußtsein 90; Th. in phänom. Reduktion als Komponente d.
 
-<!-- 460 -->
-<!-- L. LANDGREBE -->
+<!-- 460 L. LANDGREBE -->
 
-Noema **187** f.; Potentialität der Th. u. Neutralitätsmodifikation (s. auch dort) 229 f., 232 ff.; schöpferische Erzeugung der Th. als Sponsaneität (Aktualität) u. ihre Modifikationen **253** ff.; Th. von ausdrückender u. ausgedrückter Schicht wesenseinig **258, 263** f.
+Noema **187** f.; Potentialität der Th. u. Neutralitätsmodifikation (s. auch dort) 229 f., 232 ff.; schöpferische Erzeugung der Th. als Spontaneität (Aktualität) u. ihre Modifikationen **253** ff.; Th. von ausdrückender u. ausgedrückter Schicht wesenseinig **258, 263** f.
 
 Th. und Urdoxa (s. auch dort): doxische Ur-Th. 217; doxische Ur-Th. u. weiterer Begriff der Th. **231**, 241 ff.; jeder thetische Akt Seinsmodalität im weitesten Sinn, Erweiterung d. Begriffes der Th. auf alle Aktsphären **233** f.; jeder thetische Aktcharakter überhaupt birgt in sich eine doxische Ur-Th., besonderer Vorzug der Ur-Th. gegenüber den Modalitäten 237; gattungsmäßige Wesengemeinschaft aller thetischen Charaktere (Setzungscharaktere) **242**; in allen thetischen Charakteren stecken doxische Modalitäten 244.
 
@@ -7491,11 +7475,11 @@ Fundierte Thesen: schlichtes thetisches Bewußtsein u. polythetisches (vielstrah
 
 Thesis u. Vernunft: Vernünftigkeit d. Setzungscharakters auf Grund eines erfüllten originär gebunden Sinnes **283** f.; Vernunftbewußtsein oberste Gattung thetischer Modalitäten **285** f.; Gewicht der Th. 287 f.; Recht jeder vernünftigen Th. **289**; Überführbarkeit aller Th. in aktuelle Vernunftsetzungen **291** f.
 
-$\tau\overset{\prime}{\omega}\delta\epsilon\ \tau\iota$ = Dies-da, s. dort.
+$\tau\overset{\prime}{\text{\unicode{x1F00}}}\delta\varepsilon\ \tau\iota$ = Dies-da, s. dort.
 
 Träger, Empfindungsdatum als T. d. Intentionalität 65; Ding als T. physikalischer Eigenschaften 73, 99; Sinn als T. noematischer Charaktere 213, **269**.
 
-Transzendenz, T. d. Dinges s. „Ding“; T. d. Dinges u. Immanenz d. Bewußtseins 76 f.; transzendentes Sein prinzipiell nur durch Erscheinungen gebbar **81**; T. als prinzipiell Erfahrbares **84** f., **88** ff.; T. als bloß intentionales Sein, konstituiert im reinen Bewußtsein **92** f., 142, 280 f., 297 ff.; T. Gottes u. T. d. Welt 96, 111; T. d. physikalischen Dinges 100 ff.; T. d. empirischen Bewußtseins 104 ff. (s. auch ,,Bewußtsein''); T. in d. Immanenz d. reinen $\text{Th } 109\text{ f.; T. d. Eidetischen } 111\text{ ff.; alles Transzendente Objekt phänom. Untersuchung}$ 142 f.; T. als Unendlichkeit d. noematischen Korrelats **298**; T. als Grenzenlosigkeit im Fortgang d. Anschauungen **311** f.
+Transzendenz, T. d. Dinges s. ,,Ding“; T. d. Dinges u. Immanenz d. Bewußtseins 76 f.; transzendentes Sein prinzipiell nur durch Erscheinungen gebbar **81**; T. als prinzipiell Erfahrbares **84** f., **88** ff.; T. als bloß intentionales Sein, konstituiert im reinen Bewußtsein **92** f., 142, 280 f., 297 ff.; T. Gottes u. T. d. Welt 96, 111; T. d. physikalischen Dinges 100 ff.; T. d. empirischen Bewußtseins 104 ff. (s. auch ,,Bewußtsein“); T. in d. Immanenz d. reinen $\text{Th } 109\text{ f.; T. d. Eidetischen}$ 111 ff.; alles Transzendente Objekt phänom. Untersuchung 142 f.; T. als Unendlichkeit d. noematischen Korrelats **298**; T. als Grenzenlosigkeit im Fortgang d. Anschauungen **311** f.
 
 Transzendental, t. u. transzendentes Sein 142; t. Probleme als Probleme d. Konstitution **178, 204**.
 
@@ -7503,45 +7487,45 @@ Triebe als sensuelle Erlebnisse 172 f.
 
 Typus, Typik d. Sätze 275, T. d. Erfahrung 90, 299.
 
-U
+## U
 
-„Überhaupt”, Urteile im Modus des „ü”. u. Urteile über Wesen 13 f.
+,,Überhaupt“, Urteile im Modus des ,,ü“. u. Urteile über Wesen 13 f.
 
 Umfang, eidetischer u. individueller U. 27, 31; empirischer U. 27; mathematischer U. 27; U. d. Klarheit 127.
 
 Umgebung, zentrale U. als aktuelles Wahrnehmungsfeld 49.
 
-Umwelt s. „Welt”.
+Umwelt s. ,,Welt“.
 
 <!-- SACHREGISTER 461 -->
 
-„Und”, doxisches, axiologisches u. praktisches „u.” 250 ff.; Allgemeinheit des „u.” 259; „,„usw.” als unentbehrliches Moment im Dingnoema 312 f., 316.
-Unendlichkeit, Idee einer wesensmäßig motivierten U. einsichtig gebbar, nicht U. selbst 298, 312.
-Unselbstständigkeit, Begriff der U. 28 f.
+„Und”, doxisches, axiologisches u. praktisches „u.” **250** ff.; Allgemeinheit des „u.” 259; „,usw.” als unentbehrliches Moment im Dingnoema **312** f., 316.
+Unendlichkeit, Idee einer wesensmäßig motivierten U. einsichtig gebbar, nicht U. selbst **298**, 312.
+Unselbständigkeit, Begriff der U. 28 f.
 Unvernunft, Phänomenologie der U. 300.
 Unverträglichkeit s. „Widerstreit”.
 Urdoxa; s. „Doxa”.
 Urgegenständlichkeit s. „Gegenstand”.
-Urteil, Urteilen; U. über Wesen u. über Einzelheiten dieser Wesen (universell) 14; apodiktisches U. 15; U. schreibt durch seinen Sinn Art d. Begründung vor 36; U.-Enthaltung 55; U. über Wirkliches u. über Erscheinendes als solches 183 f., 187 f.; U. im gewöhnlichen Sinne als „Geurteiltes als solches (Noema d. Urteilens), Geurteiltes u. Beurteiltes 194; U.-Noesis u. -noema 182, 194 f.; Urteil als Satz Grundbegriff d. formalen Logik, Urteilen überhaupt Grundbegriff d. formalen noetischen Rechtslehre d. Urteilens 196; U. als Thema d. formalen Logik korrelativ d. Sachverhalt als Thema d. formalen Ontologie 307; —, „Begriff d. Urteils” an sich bei Bolzano 196; Doppeldeutigkeit d. Begriffs von U.-Inhalt 197; U. als unpassender Terminus für Glaube 216; U. über Urteilsmodalitäten 217 f., 247 f.; U.modalitäten u. Urdoxa 231, 233 f., 241; prädikatives U. u. seine Universalität 244; U. u. Ausdrücke anderer Aktarten 262 ff.; U. als explikative Synthesis u. Aussage, Vieldeutigkeit von „Urteilstheorie” 264, 275; U. als synthetischer, prädikativer, doxischer Satz 274; logische U. als apophantische Sätze (s. auch dort) 276 f.; „blindes” u. einsichtiges U. 282; Wahrheit u. vollkommener Vernunftcharakter d. U. 290.
+Urteil, Urteilen; U. über Wesen u. über Einzelheiten dieser Wesen (universell) 14; apodiktisches U. 15; U. schreibt durch seinen Sinn Art d. Begründung vor 36; U.-Enthaltung **55**; U. über Wirkliches u. über Erscheinendes als solches 183 f., 187 f.; U. im gewöhnlichen Sinne als „Geurteiltes als solches (Noema d. Urteilens), Geurteiltes u. Beurteiltes **194**; U.-Noesis u. -noema 182, **194** f.; Urteil als Satz Grundbegriff d. formalen Logik, Urteilen überhaupt Grundbegriff d. formalen noetischen Rechtslehre d. Urteilens **196**; U. als Thema d. formalen Logik korrelativ d. Sachverhalt als Thema d. formalen Ontologie **307**; —, „Begriff d. Urteils” an sich bei Bolzano 196; Doppeldeutigkeit d. Begriffs von U.-Inhalt **197**; U. als unpassender Terminus für Glaube 216; U. über Urteilsmodalitäten 217 f., 247 f.; U.modalitäten u. Urdoxa 231, **233** f., 241; prädikatives U. u. seine Universalität **244**; U. u. Ausdrücke anderer Aktarten **262** ff.; U. als explikative Synthesis u. als Aussage, Vieldeutigkeit von „Urteilstheorie” **264**, 275; U. als synthetischer, prädikativer, doxischer Satz 274; logische U. als apophantische Sätze (s. auch dort) **276** f.; „blindes” u. einsichtiges U. **282**; Wahrheit u. vollkommener Vernunftcharakter d. U. 290.
 Urthese, s. „Thesis”.
 
 ## V
 
 Verallgemeinerung s. „Allgemeinheit”.
 Vergegenständlichung = Objektivierung, s. dort.
-Vergegenwärtigung (s. auch „Reproduktion”), Klarheitsstufen der V. u. Gegebenheit durch Abschattung 83; Vorzugsstellung der V. in d. Phänomenologie 130 f.; schlichte V., Bild u. Zeichen 209; schlichte u. höherstufige (iterierte) V. 210 ff.; V. zerfallen in Erinnerungen u. ihre Neutralitätsmodifikationen (Phantasien) 225; anschauliche V. als Erfüllung von Wesenssetzungen 293.
+Vergegenwärtigung (s.auch „Reproduktion”), Klarheitsstufen der V. u. Gegebenheit durch Abschattung **83**; Vorzugsstellung der V. in d. Phänomenologie 130 f.; schlichte V., Bild u. Zeichen **209**; schlichte u. höherstufige (iterierte) V. **210** ff.; V. zerfallen in Erinnerungen u. ihre Neutralitätsmodifikationen (Phantasien) **225**; anschauliche V. als Erfüllung von Wesenssetzungen 293.
 Verknüpfung, V. setzt Wesensgleichheit voraus 92 f.
-Vermutung, V. als doxische Modalität 214 f., 240; V.-thesis 231; Ausdruck der V. 261; Vernunftcharakter der V. 289 f.
+Vermutung, V. als doxische Modalität **214** f., 240; V.-thesis 231; Ausdruck der V. 261; Vernunftcharakter der V. **289** f.
 Vernunft (s. auch „Evidenz”), Rechtsquelle der V. d. originär gebende Bewußtsein 36; V.-Thesis verweist auf originär u. adäquat gebendes Bewußtsein als Idee 295 ff. — V.-Kritik u. Phänomenologie <!-- 462 -->
 <!-- L. LANDGREBE -->
 
-121; Rechtsprechung der V. nur auf das nicht neutralisierte Bewußtsein bezogen 223; Fragen der V. als Fragen d. Wirklichkeit **281** f. Grundform d. V.-bewußtseins das originär gebende „Sehen” **282**; V.-Charakter u. Verworrenheit wesensmäßig unverträglich 284; V.-bewußtsein überhaupt als eine oberste Gattung von thetischen Modalitäten (Evidenz) **285**; Kraft der V.-setzungen 287 f.; Urvernunftcharakter d. Urdoxa **289** f.; V. in d. Gemüts- u. Willenssphäre, Vorrang d. V. in d. doxischen Sphäre **290**, 305 f.; unmittelbare u. mittelbare V.-Setzungen 293 ff.; V. u. Wahrheit Korrelate 296, 298; Phänomenologie d. V. setzt allgemeine Phänomenologie voraus 299; V.-Lehre u. Formenlehre d. Sätze **305**; jeder Wirklichkeitstypus hat seine V.-Lehre **319**; V.-sphäre als Sphäre d. Synthesis 320; vollständige Phänomenologie d. V. in Deckung mit Phänomenologie überhaupt **323**.
+121; Rechtsprechung der V. nur auf das nicht neutralisierte Bewußtsein bezogen 223; Fragen der V. als Fragen d. Wirklichkeit 281 f. Grundform d. V.-bewußtseins das originär gebende „Sehen” 282; V.-Charakter u. Verworrenheit wesensmäßig unverträglich 284; V.-bewußtsein überhaupt als eine oberste Gattung von thetischen Modalitäten (Evidenz) 285; Kraft der V.-setzungen 287 f.; Urvernunftcharakter d. Urdoxa 289 f.; V. in d. Gemüts- u. Willenssphäre, Vorrang d. V. in d. doxischen Sphäre 290, 305 f.; unmittelbare u. mittelbare V.-Setzungen 293 ff.; V. u. Wahrheit Korrelate 296, 298; Phänomenologie d. V. setzt allgemeine Phänomenologie voraus 299; V.-Lehre u. Formenlehre d. Sätze 305; jeder Wirklichkeitstypus hat seine V.-Lehre 319; V.-sphäre als Sphäre d. Synthesis 320; vollständige Phänomenologie d. V. in Deckung mit Phänomenologie überhaupt 323.
 
-Verworrenheit, V. u. Deutlichkeit als Vollzugsmodus synthetischer Akte **255** f.; V. d. Unterschichten u. logische Deutlichkeit **260** f. V. u. Unvollständigkeit d. Ausdrucks 261; V. u. Vernunftcharakter unverträglich 284.
+Verworrenheit, V. u. Deutlichkeit als Vollzugsmodus synthetischer Akte 255 f.; V. d. Unterschichten u. logische Deutlichkeit 260 f. V. u. Unvollständigkeit d. Ausdrucks 261; V. u. Vernunftcharakter unverträglich 284.
 
 Vielheit als Korrelat d. pluralen Bewußtseins 248.
 
-Vollständigkeit, Ausdruck vollständig, wenn er alle synthetischen Formen u. Materien d. Unterschicht begrifflich-bedeutungsmäßig ausprägt **261**.
+Vollständigkeit, Ausdruck vollständig, wenn er alle synthetischen Formen u. Materien d. Unterschicht begrifflich-bedeutungsmäßig ausprägt 261.
 
 Voraussetzen als Annehmen (s. auch dort) 55.
 
@@ -7549,31 +7533,31 @@ Vordergrund s. „Aktualität”.
 
 Vorerinnerung = Erwartung (s. dort).
 
-Vorstellen, Vorstellung, Bild-, Zeichen- V. usw. s. unter „Bild” usw. V. als noematische Intentionalität 212; Begriff von V. **213**, 320; V. als Unterschicht d. Erlebnisstromes **238**.
+Vorstellen, Vorstellung, Bild-, Zeichen- V. usw. s. unter „Bild” usw. V. als noematische Intentionalität 212; Begriff von V. 213, 320; V. als Unterschicht d. Erlebnisstromes 238.
 
 Vorzeichenänderung als phänom. Reduktion, s. dort.
 
 ## W
 
-Wahrheit, reine Bedeutungs-W. u. reine Gegenstands-W. 23; formale u. synthetische Wesens-W. 31; Begriff der W. in d. definiten Mannigfaltigkeit als formallogische Axiome d. Axiome 136; wahrhaft sein u. ausweisbar sein in d. logischen Sphäre Korrelate **282**; W. als Korrelat d. Urvernunftcharakters (d. Urdoxa), theoretische, axiologische u. praktische W. **290**, 305 f.; Eidos Wahrhaft-sein u. Evident-setzbar-sein (adäquat gegeben sein) Korrelate 296, **298**; d. Formen prädikatischer Synthesis als apriorische Bedingungen möglicher W. **305**.
+Wahrheit, reine Bedeutungs-W. u. reine Gegenstands-W. 23; formale u. synthetische Wesens-W. 31; Begriff der W. in d. definiten Mannigfaltigkeit als formallogische Folge d. Axiome 136; wahrhaft sein u. ausweisbar sein in d. logischen Sphäre Korrelate 282; W. als Korrelat d. Urvernunftcharakters (d. Urdoxa), theoretische, axiologische u. praktische W. 290, 305 f.; Eidos Wahrhaft-sein u. Evidenz-setzbar-sein (adäquat gegeben sein) Korrelate 296, 298; d. Formen prädikativer Synthesis als apriorische Bedingungen möglicher W. 305.
 
-Wahrnehmung, Allgemeines: Unterscheidung von transzendenter u. immanenter W. **68**, 77, 81; W. als Bewußtsein leibhafter Selbstgegenwart von Individuellem 70; Begriff d. Wahrnehmbarkeit 84 f.; W. kein leeres Gegenwärtighaben 205; W. im normalen Wort­sinn nicht nur das leibhaft gegenwärtige Erscheinen, sondern auch das Erfaßtsein durch d. Ich bedeutend 230.
+Wahrnehmung, Allgemeines: Unterscheidung von transzendenter u. immanenter W. 68, 77, 81; W. als Bewußtsein leibhafter Selbstgegenwart von Individuellem 70; Begriff d. Wahrnehmbarkeit 84 f.; W. kein leeres Gegenwärtighaben 205; W. im normalen Wortsinn nicht nur das leibhaft gegenwärtige Erscheinen, sondern auch das Erfaßtsein durch d. Ich bedeutend 230.
 
 <!-- SACHREGISTER 463 -->
 
-Transzendente (äußere) W. (s. auch „Dingwahrnehmung“): W. als originär gebende Erfahrung von Realem 7 f.; Wahrnehmungsfeld, Bereich des Mitgegenwärtigen u. unbestimmter Horizont 48 f.; W. u. Hintergrund 62; Änderung der W. durch Änderung ihrer Umgebungsbestimmtheit 167 f.; W.-hintergrund als Einheit potentieller Setzungen 231; — Sinnliche (dingliche) W. als Naturerfahrung 70; reeller Bestand der W. 73 ff., 182 f., 231 ff.; W. u. Empfindungsdaten 75; Analyse einer W. als Beispiel einer reellen Analyse 201 ff.; Änderung der W. durch Änderung ihrer hyletischen Momente 203. — Wesencharakter der W. 77; W., Zeichen- u. Bildbewußtsein 78 ff., 186; Vergegenwärtigung als Modifikation der W. 209 ff.; Mischung von W. u. Vergegenwärtigungen 211. — Inäquatheit der W. 80 ff.; W. präsumptiv 86; doxische Modalitäten der W. 214 ff.; Erfüllung, Bekräftigung u. Explosion der W. 286 ff., 317 f.; motivierte Möglichkeiten d. Modalisierung d. W. 292; W.-Sinn dem Typus nach vorgezeichnet 296 ff., 299 ff., 311 f., 314 f. — W. u. Wesenserfassung, Vorzugsstellung der W. in d. Phänomenologie 130 f.; Wahrgenommenes als solches = Noema der W. 182 ff., 187 f.; 202 f.; synthetische Deckunghrer W. (s. auch „Identifikationssynthesen“) 271, 279; Dingsinn der W. 275.
+Transzendente (äußere) W. (s. auch „Dingwahrnehmung“): W. als originär gebende Erfahrung von Realem **7** f.; Wahrnehmungsfeld, Bereich des Mitgegenwärtigen u. unbestimmter Horizont **48** f.; W. u. Hintergrund 62; Änderung der W. durch Änderung ihrer Umgebungsbestimmtheit 167 f.; W.-hintergrund als Einheit potentieller Setzungen **231**; — Sinnliche (dingliche) W. als Naturerfahrung 70; reeller Bestand der W. **73** ff., 182 f., 231 ff.; W. u. Empfindungsdaten 75; Analyse einer W. als Beispiel einer reellen Analyse **201** ff.; Änderung der W. durch Änderung ihrer hyletischen Momente 203. — Wesencharakter der W. **77**; W., Zeichen- u. Bildbewußtsein 78 ff., 186; Vergegenwärtigung als Modifikation der W. **209** ff.; Mischung von W. u. Vergegenwärtigungen 211. — Inäquatheit der W. **80** ff.; W. präsumptiv **86**; doxische Modalitäten der W. 214 ff.; Erfüllung, Bekräftigung u. Explosion der W. **286** ff., 317 f.; motivierte Möglichkeiten d. Modalisierung d. W. 292; W.-Sinn dem Typus nach vorgezeichnet 296 ff., 299 ff., **311** f., 314 f. — W. u. Wesenserfassung, Vorzugsstellung der W. in d. Phänomenologie 130 f.; Wahrgenommenes als solches = Noema der W. **182** ff., 187 f.; 202 f.; synthetische Deckunghrer W. (s. auch „Identifikationssynthesen“) 271, 279; Dingsinn der W. 275.
 
-Immanente („innere“) W. (s. auch „Reflexion“): i. W. als originäre Erfahrung 8; Begriff d. i. W. 68 ff.; i. W. absolut aber nicht adäquat gebend 81 f.; Zweifellosigkeit der i. W. 85 ff.; Erlebnisse prinzipiell bereit für i. W. 83 f., 145 ff.; absolutes Recht der i. W. 150 f.; grenzenloser Horizont der i. W. 166; i. W. u. Zeitbewußtsein 229; originär erfüllter Sinn u. Gegenstand fallen bei i. W. zusammen 298.
+Immanente („innere“) W. (s. auch „Reflexion“): i. W. als originäre Erfahrung 8; Begriff d. i. W. **68** ff.; i. W. absolut aber nicht adäquat gebend **81** f.; Zweifellosigkeit der i. W. **85** ff.; Erlebnisse prinzipiell bereit für i. W. 83 f., 145 ff.; absolutes Recht der i. W. **150** f.; grenzenloser Horizont der i. W. 166; i. W. u. Zeitbewußtsein 229; originär erfüllter Sinn u. Gegenstand fallen bei i. W. zusammen 298.
 
 Wahrscheinlichkeitslehre, ihr Thema motivierte Möglichkeiten 292 Anm.
 
-Was, W. als Materie s. dort, W. als Wesen eines Individuums 9 f.; geurteiltes W. as noematisches Korrelat d. Urteilens 194; W. als noematischer Sinn 198; 270; W. als noematischer Kern (s. auch dort) 268.
+Was, W. als Materie s. dort, W. als Wesen eines Individuums **9** f.; geurteiltes W. als noematisches Korrelat d. Urteilens 194; W. als noematischer Sinn 198; 270; W. als noematischer Kern (s. auch dort) 268.
 
-Welt. Natürliche W.: Begriff der W. 7 f.; W. der natürlichen Einstellung 48 ff.; W. als Umwelt 50 f.; Verhältnis von natürlicher W. u. idealen Welten 51; natürliche Umwelt auf Insubjektivität bezogen 51 f., intersubjektive W. als Korrelat d. intersubjektiven Erfahrung 317; natürliche W. ständig vorhanden 52 f.; Quelle d. Generalthesis d. natürlichen W. die sinnliche Erfahrung 70; materielle W. als Fundamentalschicht d. natürlichen W. 70, 319; Thesis der W. u. Horizontbewußtsein 90; Möglichkeit einer W. außer unserer W. 90 f.; W. als psychophysische 70, *103* f.; Teleologie im Zusammenfallen von physikalischer u. morphologisch geordneter W. 110.
+Welt. Natürliche W.: Begriff der W. **7** f.; W. der natürlichen Einstellung **48** ff.; W. als Umwelt **50** f.; Verhältnis von natürlicher W. u. idealen Welten 51; natürliche Umwelt auf Insubjektivität bezogen 51 f., intersubjektive W. als Korrelat d. intersubjektiven Erfahrung 317; natürliche W. ständig vorhanden 52 f.; Quelle d. Generalthesis d. natürlichen W. die sinnliche Erfahrung 70; materielle W. als Fundamentalschicht d. natürlichen W. **70**, **319**; Thesis der W. u. Horizontbewußtsein 90; Möglichkeit einer W. außer unserer W. **90** f.; W. als psychophysische 70, **103** f.; Teleologie im Zusammenfallen von physikalischer u. morphologisch geordneter W. 110.
 
 
 <!-- 464 L. LANDGREBE -->
-W. als Korrelat d. Bewußtseins: Ausschaltung der W. 56 f.; Frage nach d. Anderssein von natürlicher W. u. Bewußtsein 69 ff.; W. präsumptiv gegeben 86; wirkliche W. als Spezialfall möglicher W. immer Bewußtseinskorrelat 88 f.; Zufälligkeit der W. 91 f.; W. als bloß intentionales Sein 92 ff.; 96. W. als Sinneseinheit 106 f.; W. als Korrelat d. absoluten Bewußtseins Thema d. Phänomenologie 143, 303.
+W. als Korrelat d. Bewußtseins: Ausschaltung der W. **56** f.; Frage nach d. Anderssein von natürlicher W. u. Bewußtsein 69 ff.; W. präsumptiv gegeben **86**;wirkliche W. als Spezialfall möglicher W. immer Bewußtseinskorrelat 88 f.; Zufälligkeit der W. 91 f.; W. als bloß intentionales Sein 92 ff.; 96. W. als Sinneseinheit 106 f.; W. als Korrelat d. absoluten Bewußtseins Thema d. Phänomenologie 143, 303.
 
 Wert u. Werten (s. auch ,,Gemüt''), W.-Welt u. Sachenwelt, W.-charaktere konstitutiv zu d. vorhandenen Objekten als solchen gehörig 50; Zuwendung u. Erfassung im Werten 66 f.; bloße Sache, Wertheit u. Wertobjektität — Sachverhalt u. Wertverhalt, Wertobjektität schlechthin u. Wertobjektität als Noema 198; W. als fundiertes Noema, Gewertetes als solches als Sinneskern 239 f.; W.-bewußtsein als positionales u. seine Modalisierungen 240 f.; Analogie von Logik u. Wertlehre (s. auch ,,Axiologie'') 242, 305; wertendes Bewußtsein als objektivierendes (Gegenstände konstituierendes) 244, 318; formale Ontologie der W. 308.
 
@@ -7583,35 +7567,35 @@ Wesenserschauung, Wesenserkenntnis; W. u. individuelle Anschauung, adäquate u. 
 
 
 <!-- SACHREGISTER 465 -->
-Wesenswissenschaft (Eidetik, s. auch „Ontologie“), Methode der W. f. ,,Wesenserschauung''; W. können nicht durch Erfahrung begründet werden **16** f.; Ideal exakter eidetischer Wissenschaft u. Mathematisierung **17** ff. Unabhängigkeit der W. von aller Tatsachenwissenschaft **18**, 153; Ausschaltung der W. 111 f.; Problem d. Möglichkeit einer deskriptiven Eidetik **132** f., 138 f.; konkrete, abstrakte u. mathematische W. **133** ff.
+Wesenswissenschaft (Eidetik, s. auch ,,Ontologie''), Methode der W. f. „Wesenserschauung”; W. können nicht durch Erfahrung begründet werden 16 f.; Ideal exakter eidetischer Wissenschaft u. Mathematisierung 17 ff. Unabhängigkeit der W. von aller Tatsachenwissenschaft 18, 153; Ausschaltung der W. 111 f.; Problem d. Möglichkeit einer deskriptiven Eidetik 132 f., 138 f.; konkrete, abstrakte u. mathematische W. 133 ff.
 
-Wettstreit von Erscheinungen **288**.
+Wettstreit von Erscheinungen 288.
 
-Widersinn, Begriff des W. **98**.
+Widersinn, Begriff des W. 98.
 
-Widerstreit, W. von Sehen u. Sehen **36** f.; W. von Erscheinungen 86, **91**, **287** f., 317 f.; W. bekundet tiefere Wahrheit **91**.
+Widerstreit, W. von Sehen u. Sehen 36 f.; W. von Erscheinungen 86, 91, 287 f., 317 f.; W. bekundet tiefere Wahrheit 91.
 
-Wie, Gegenstand, Sinn ,,im Wie'' seiner Bestimmtheiten s. ,,Gegenstand'' u. ,,Sinn''; objektives W. d. Erscheinens u. Unterschiede d. Gegebenheitsweise 209.
+Wie, Gegenstand, Sinn „im Wie” seiner Bestimmtheiten s. „Gegenstand” u. „Sinn”; objektives W. d. Erscheinens u. Unterschiede d. Gegebenheitsweise 209.
 
-,,Wirklich'' als noematisches Korrelat d. Wahrnehmungsgewißheit **214** f.; ,,w.'' Setzungen u. neutralisierte 228 f., 233.
+„Wirklichlich” als noematisches Korrelat d. Wahrnehmungsgewißheit 214 f.; „w.” Setzungen u. neutralisierte 228 f., 233.
 
-Wirklichkeit (s. auch ,,Realität'' u. ,,Welt''), Natur-W. nicht W. überhaupt **35**, 40; raumzeitliche W. als ständig vorhandene 52 f.; präsumptive u. absolute W. **86**; W. als Bewußtseinskorrelat 91 ff.; Erkenntnis d. Möglichkeiten muß der W. vorangehen 159; Aussagen über W. u. noematische Aussagen **183** ff., 187 f.; Frage nach d. Wesen der W. 280 f.; W.-fragen als Vernunftfragen **281**; wirklicher Gegenstand (s. auch dort) Titel für Zusammenhänge d. Vernunft **302**. — Wirklich sein u. ausweisbar sein in d. logischen Sphäre Korrelate **282**; Deckung von Möglichkeit u. W. bei Wesenssetzung **292** f.; jeder Typus von W. hat seine konstitutive Phänomenologie **319**.
+Wirklichkeit (s. auch „Realität” u. „Welt”), Natur-W. nicht W. überhaupt 35, 40; raumzeitliche W. als ständig vorhandene 52 f.; präsumptive u. absolute W. 86; W. als Bewußtseinskorrelat 91 ff.; Erkenntnis d. Möglichkeiten muß der W. vorangehen 159; Aussagen über W. u. noematische Aussagen 183 ff., 187 f.; Frage nach d. Wesen der W. 280 f.; W.-fragen als Vernunftfragen 281; wirklicher Gegenstand (s. auch dort) Titel für Zusammenhänge d. Vernunft 302. — Wirklich sein u. ausweisbar sein in d. logischen Sphäre Korrelate 282; Deckung von Möglichkeit u. W. bei Wesenssetzung 292 f.; jeder Typus von W. hat seine konstitutive Phänomenologie 319.
 
-Wissenschaft, Geistes-W. s. dort, Natur-W. s. dort, Tatsachen-W. s. dort, Wesens-W. s. dort. Klassifikation der W. als Scheidung der Regionen **32**; empiristischer Begriff der W. 35; echte W. auf originär gebender Anschauung beruhend 36; W. überhaupt u. Erfahrungs-W. nicht identisch 37; dogmatische u. philos. W. 46 f.; dogmatische u. phänom. W. **118** f.; W. als intersubjektive Gebilde 124; konkrete u. abstrakte W., Scheidung d. eidetischen W. parallel der d. Erfahrungswissenschaften **134**; deskriptive u. exakte W. **138** f.
+Wissenschaft, Geistes-W. s. dort, Natur-W. s. dort, Tatsachen-W. s. dort, Wesens-W. s. dort. Klassifikation der W. als Scheidung der Regionen 32; empiristischer Begriff der W. 35; echte W. auf originär gebender Anschauung beruhend 36; W. überhaupt u. Erfahrungs-W. nicht identisch 37; dogmatische u. philos. W. 46 f.; dogmatische u. phänom. W. 118 f.; W. als intersubjektive Gebilde 124; konkrete u. abstrakte W., Scheidung d. eidetischen W. parallel der d. Erfahrungswissenschaften 134; deskriptive u. exakte W. 138 f.
 
-Wollen, W. überhaupt als Gattungswesen **140**; W. als fundierter Akt **197** ff., 239 ff.; Noesis u. Noema im Willensgebiet, Entschließen u. Entschluß **199**; W. als Setzung **241**; Willensakte als objektivierende, Quellen neuer Seinsregionen **244**, 308 (vgl. auch ,,Praktik''); beziehendes W. als Beispiel eines synthetischen Aktes höherer Stufe **246**, 305; kollektives W. **251**; W. u. Spontaneität **253**; Vernunft in d. Willenssphäre, praktische Wahrheit **290**.
+Wollen, W. überhaupt als Gattungswesen 140; W. als fundierter Akt 197 ff., 239 ff.; Noesis u. Noema im Willensgebiet, Entschließen u. Entschluß 199; W. als Setzung 241; Willensakte als objektivierende, Quellen neuer Seinsregionen 244, 308 (vgl. auch „Praktik”); beziehendes W. als Beispiel eines synthetischen Aktes höherer Stufe 246, 305; kollektives W. 251; W. u. Spontaneität 253; Vernunft in d. Willenssphäre, praktische Wahrheit 290.
 
-Wort, W.-lautschicht u. Schicht d. ausdrückenden Bedeutens **257**, **259**; W.-verständnis u. Verworrenheit d. Unterschicht 260 f.
+Wort, W.-lautschicht u. Schicht d. ausdrückenden Bedeutens 257, 259; W.-verständnis u. Verworrenheit d. Unterschicht 260 f.
 
-Wünschen, W. als Setzung **241**; jeder Wunschsatz kann in einen doxischen umgewandelt werden **243**; Allgemeinheit u. Unvollständigkeit d. Wunschform 261 f.; direkte u. indirekte Ausdrücke d. W. **263** f.
+Wünschen, W. als Setzung 241; jeder Wunschsatz kann in einen doxischen umgewandelt werden 243; Allgemeinheit u. Unvollständigkeit d. Wunschform 261 f.; direkte u. indirekte Ausdrücke d. W. 263 f.
 
 <!-- 466 L. LANDGREBE -->
 
-### X
+## X
 
 X, das erfahrene Ding als x 72, 99, 312; x als noematischer Gegenstand 270 ff., 302; synthetisches x 273; wirkliches u. bloß vermeintes x 280 f.; Einstimmigkeit u. Widerstreit desselben x 287; vollkommen bestimmtes x als wahrhaftes Sein 296; Erscheinungskontuinen desselben x u. adäquate Dinggegebenheit 297 f.
 
-### Z
+## Z
 
 Zeichen, Z.-bewußtsein u. Wahrnehmungsbewußtsein 78 f.; Z. u. Bekundung 100; Z.-bewußtsein u. sinnliche Unanschaulichkeit 102, 128; Z., Bild u. schlichte Vergegenwärtigung 209 ff.
 
@@ -7629,7 +7613,7 @@ Zuwendung (Richtung-auf), Z. als schlichter Ichakt 50, Z. als Aktualität 62 f.,
 
 Zweifel, Cartesianischer Z.-versuch als methodisches Mittel 53 ff.; Z., Ausschaltung u. Annahme 55; Z. als Glaubenscharakter u. sein noematisches Korrelat 214, 220; Z. als Gleichgewichtslage d. Motivation 288.
 
-## NAMENREGISTER
+# NAMENREGISTER
 
 Aristoteles 28.
 
@@ -7637,7 +7621,7 @@ Berkeley 72, 106, 206.
 
 Bolzano, ,,Wissenschaftslehre'' 196 Fußn.
 
-Brentano, Franz, ''Psychologie'' 174, 268; ,,Vom Ursprung der sittlichen Erkenntnis'' 290 Fußn.
+Brentano, Franz, ,,Psychologie'' 174, 268; ,,Vom Ursprung der sittlichen Erkenntnis'' 290 Fußn.
 
 Cantor, G. 196 Fußn.
 
@@ -7655,23 +7639,9 @@ Hilbert, D. 136 Fußn.
 
 Hume, D. 3, 118.
 
-Husserl, E., „Philosophie d. Arithmetik“ 136 Fußn., 172 Fußn., 246
-Fußn., 256 Fußn.; „Bericht über deutsche Schriften zur Logik i. d.
-Jahren 1895–99“ i. „Archiv f. system. Philosophie“ Bd. X., 2 Fußn.;
-„Logische Untersuchungen“ 2, 5, 6, 11 Fußn., 17 Fußn., 22 Fußn.,
-24 Fußn., 25 Fußn., 29 Fußn., 37 Fußn., 38 Fußn., 39 Fußn., 40
-Fußn., 79 Fußn., 87 Fußn., 89 Fußn., 110 Fußn., 117, 136, Fußn.,
-151 Fußn., 157 Fußn., 170, 172 Fußn., 182 Fußn., 193 Fußn., 195
-Fußn., 221 Fußn., 227 Fußn., 248 Fußn., 258 Fußn., 261 Fußn., 264
-Fußn., 266 Fußn., 274, 300 Fußn., 301 Fußn., 304; „Philosophie als
-strenge Wissenschaft“ i. „Logos“ Bd. I, 2 Fußn., 12 Fußn., 40 Fußn.,
-158 Fußn.; Vorlesungen 25 Fußn., 79 Fußn., 136 Fußn., 163 Fußn.,
-170; Vortrag i. d. Göttinger „Mathematischen Gesellschaft“ 136
-Fußn.
+Husserl, E., „Philosophie d. Arithmetik“ 136 Fußn., 172 Fußn., 246 Fußn., 256 Fußn.; „Bericht über deutsche Schriften zur Logik i. d. Jahren 1895–99“ i. „Archiv f. system. Philosophie“ Bd. X., 2 Fußn.; „Logische Untersuchungen“ 2, 5, 6, 11 Fußn., 17 Fußn., 22 Fußn., 24 Fußn., 25 Fußn., 29 Fußn., 37 Fußn., 38 Fußn., 39 Fußn., 40 Fußn., 79 Fußn., 87 Fußn., 89 Fußn., 110 Fußn., 117, 136, Fußn., 151 Fußn., 157 Fußn., 170, 172 Fußn., 182 Fußn., 193 Fußn., 195 Fußn., 221 Fußn., 227 Fußn., 248 Fußn., 258 Fußn., 261 Fußn., 264 Fußn., 266 Fußn., 274, 300 Fußn., 301 Fußn., 304; „Philosophie als strenge Wissenschaft“ i. „Logos“ Bd. I, 2 Fußn., 12 Fußn., 40 Fußn., 158 Fußn.; Vorlesungen 25 Fußn., 79 Fußn., 136 Fußn., 163 Fußn., 170; Vortrag i. d. Göttinger „Mathematischen Gesellschaft“ 136 Fußn.
 
-Kant 109, 118, 312; „Kritik d. reinen Vernunft“ 31, 119, 311 Fußn.;
-„Metaphysik d. Sitten“ 308 Fußn.; „Idee“ i. Kantischen Sinn 6,
-138, 166, 297 f., 311 f.
+Kant 109, 118, 312; „Kritik d. reinen Vernunft“ 31, 119, 311 Fußn.; „Metaphysik d. Sitten“ 308 Fußn.; „Idee“ i. Kantischen Sinn 6, 138, 166, 297 f., 311 f.
 
 Külpe, O., „Die Realisierung I“ 11 Fußn.
 
@@ -7691,60 +7661,58 @@ Pfänder, A. 193 Fußn.
 
 Platon 20; Platonismus 40, 117.
 
-Reinach, A., „Zur Theorie d. negativen Urteils“ i. „Münchener
-Philos. Abhandlungen, 1911“, 219 Fußn.
+Reinach, A., „Zur Theorie d. negativen Urteils“ i. „Münchener Philos. Abhandlungen, 1911“, 219 Fußn.
 
-Stumpf, C., „Erscheinungen u. psychische Funktionen“ u. „Zur Ein-
-teilung d. Wissenschaften“ i. „Abh. d. kgl. preuß. Akademie d.
-Wissensch. 1906“, 178 Fußn.
+Stumpf, C., „Erscheinungen u. psychische Funktionen“ u. „Zur Einteilung d. Wissenschaften“ i. „Abh. d. kgl. preuß. Akademie d. Wissensch. 1906“, 178 Fußn.
 
-Twardowski, „Zur Lehre vom Inhalt u. Gegenstand d. Vorstellungen“
-267.
+Twardowski, „Zur Lehre vom Inhalt u. Gegenstand d. Vorstellungen“ 267.
 
-Watt, H. J., „Sammelbericht II, „Über die neueren Forschungen i. d.
-Gedächtnis- u. Assoziationspsychologie aus d. Jahre 1905“, Archiv
-f. d. ges. Psychologie“ Bd. IX, 151 ff.
+Watt, H. J., „Sammelbericht II, „Über die neueren Forschungen i. d. Gedächtnis- u. Assoziationspsychologie aus d. Jahre 1905“, Archiv f. d. ges. Psychologie“ Bd. IX, 151 ff.
 
 Wundt, W., „Kleine Schriften I“ 301 Fußn.
 
-Ziehen, Th., „Erkenntnistheorie auf psychophysiologischer u. phy-
-sikalischer Grundlage“ 157 Fußn.
+Ziehen, Th., „Erkenntnistheorie auf psychophysiologischer u. physikalischer Grundlage“ 157 Fußn.
 
 <!-- blank page -->
 
-TEXTKRITISCHER ANHANG
-ZUM 1. HALBBAND
+# TEXTKRITISCHER ANHANG
 
 <!-- blank page -->
-
-## ZUR TEXTGESTALTUNG
-
-Zu Lebzeiten Husserls erschienen drei deutschsprachige Auflagen des in vorliegender Ausgabe textkritisch neuveröffentlichten Husserlschen Werkes.[^76]
-1. Die Erstauflage erschien, zusammen mit Alexander Pfänders Aufsatz *,,Zur Psychologie der Gesinnungen''*, als Eröffnungsartikel auf S. 1–323 des Jahrbuch für Philosophie und phänomenologische Forschung. In Gemeinschaft mit M. GEIGER-München, A. PFÄNDER-München, A. REINACH-Göttingen, M. SCHELER-Berlin herausgegeben von EDMUND HUSSERL. Erster Band, Teil I, Halle a. d. S., Verlag von Max Niemeyer, 1913. *Auf ein allgemeines Vorwort zum Jahrbuch, das weder Titel noch Verfassernamen trägt*,[^77] folgt eine Seite Inhaltsverzeichnis zu Husserls und Pfänders Arbeiten. Darin werden von Husserls Werk nur die Abschnitt- und Kapiteltitel genannt. Nach diesen acht römisch paginierten Seiten kommt auf S. 1 der Titel des Werkes *Ideen zu einer reinen Phänomenologie und phänomenologischen Philosophie*. Von Edmund Husserl (Göttingen). *Nach der Einleitung (S. 1–6) folgt auf S. 7 der Untertitel Erstes Buch. Allgemeine Einführung in die reine Phänomenologie*.
-
-Wohl etwa gleichzeitig erschien das Werk unter demselben Titel in Buchform. Die vollständigen Angaben des Titelblattes lauten: *Ideen zu einer reinen Phänomenologie und phänomenologischen Philosophie*. Von Edmund Husserl, ord. Professor der Philosophie an der Universität Göttingen. Sonderdruck aus: ,,Jahrbuch für Philosophie und phänomenologische Forschung'', Bd. I. Herausgegeben von E. Husserl-Göttingen, Halle a. d. S., Verlag von Max Niemeyer, 1913. *Auf das Titelblatt folgt, römisch paginiert von III– VIII, ein Inhaltsverzeichnis*, das neben den Abschnitt- und Kapiteltitel n auch sämtliche Titel der *153 Paragraph en* des Werkes aufführt. *Abgesehen von der Weglassung des Titels Ideen zu einer reinen Phänomenologie und phänomenologischen Philosophie vor dem Beginn der Einleitung ist der Druck textidentisch mit der Jahrbuch-Veröffentlichung*.
-
 <!-- 472 TEXTKRITISCHER ANHANG -->
+ZUM 1. HALBBAND Dem zu Beginn 1916 erschienenen II. Band des Jahrbuchs ließ Husserl separat ein „bis in die untersten Teilungen . . . reichendes Inhaltsverzeichnis“[^76] zu den Ideen I beigeben, das die Besitzer von Jahrbuch I/1 in ihre Exemplare einlegen konnten und das zugleich auch „als Sonderdruck“[^77] erschien. Dieses von römisch I-VII paginierte Ausführliche Inhaltsverzeichnis des ersten Bandes, Teil I des Jahrbuchs, *das auch das Inhaltsverzeichnis zu Pfänders Zur Psychologie der Gesinnungen nochmals enthält, wurde auch den restlichen, Anfang 1916 noch beim Verlag vorrätigen Exemplaren von Band I, Teil I des Jahrbuchs beigebunden*, und zwar zwischen das allgemeine Vorwort zum Jahrbuch und das kurze (also nicht entfernte) ursprüngliche Inhaltsverzeichnis dieser Jahrbuch-Teilbands.
 
-Dem zu Beginn 1916 erschienenen II. Band des Jahrbuchs ließ Husserl separat ein „bis in die untersten Teilungen . . . reichendes Inhaltsverzeichnis“[^76] zu den Ideen I beigeben, das die Besitzer von Jahrbuch I/1 in ihre Exemplare einlegen konnten und das zugleich auch „als Sonderdruck“[^77] erschien. Dieses von römisch I-VII paginierte Ausführliche Inhaltsverzeichnis des ersten Bandes, Teil I des Jahrbuchs, *das auch das Inhaltsverzeichnis zu Pfänders Zur Psychologie der Gesinnungen nochmals enthält, wurde auch den restlichen, Anfang 1916 noch beim Verlag vorrätigen Exemplaren von Band I, Teil 1 des Jahrbuchs beigebunden, und zwar zwischen das allgemeine Vorwort zum Jahrbuch und das kurze (also nicht entfernte) ursprüngliche Inhaltsverzeichnis dieser Jahrbuch-Teilbands*.
+2. Die 2. Auflage erschien unter dem *ausführlichen Titel* Ideen zu einer reinen Phänomenologie und phänomenologischen Philosophie. Von Edmund Husserl. Erstes Buch: Allgemeine Einführung in die reine Phänomenologie. *Außer dem Zusatz* Zweiter unveränderter Abdruck *enthält das Titelblatt noch die Angaben* Sonderdruck aus: „Jahrbuch für Philosophie und phänomenologische Forschung“, Bd. I, herausgegeben von E. HUSSERL-Göttingen, Halle a.d.S., Verlag von Max Niemeyer, 1922. *Das III-IX paginierte Inhaltsverzeichnis ist (abgesehen von der Weglassung des Titels* Ausführliches Inhaltsverzeichnis des ersten Bandes, Teil I *und des darin aufgenommenen Inhaltsverzeichnisses von A. Pfänders* Zur Psychologie der Gesinnungen) *identisch mit dem 1916 dem II. Band des Jahrbuchs beigegebenen bzw. den noch übrigen Exemplaren des 1. Teils des I. Bandes beigebundenen* ausführlichen Inhaltsverzeichnis. *Darauf folgt auf* S. 1–323 *ein seitenidentischer Wiederabdruck der 1. Auflage von* 1913. *Beigebunden ist dieser* 2. *Auflage unter dem (auf einer eigenen, nicht paginierten Seite stehenden) Titel sodann ein Anhang zum zweiten unveränderten Abdruck von HUSSERL „Ideen zu einer reinen Phänomenologie und phänomenologischen Philosophie“ Bd. I, nämlich das auf* 1923 *datierte*, 58 *Seiten umfassende* Ausführliche Sachregister *zu* EDMUND HUSSERLS „Ideen zu einer reinen Phänomenologie und phänomenologischen Philosophie“, Bd. I *von* Dr. Gerda WALTHER, *das oben auf* S. 360–427 *wiederabgedruckt wurde. Das gegenüber der* 2. *Auflage der Ideen I um ein Jahr verspätete Erscheinungsjahr des* 1918 *entstandenen Registers ist wohl dadurch zu erklären, daß es, außer als Anhang* „auch als Sonderdruck“[^78] *erschienen*.
 
-2. Die 2. Auflage erschien unter dem ausführlichen Titel Ideen zu einer reinen Phänomenologie und phänomenologischen Philosophie. Von Edmund Husserl. Erstes Buch: Allgemeine Einführung in die reine Phänomenologie. *Außer dem Zusatz Zweiter unveränderter Abdruck* enthält das *Titelblatt noch die Angaben Sonderdruck aus: „Jahrbuch für Philosophie und phänomenologische Forschung“, Bd. I, herausgegeben von E. HUSSERL-Göttingen, Halle a.d.S., Verlag von Max Niemeyer, 1922.* Das III-IX *paginierte Inhaltsverzeichnis ist (abgesehen von der Weglassung des Titels* Ausführliches Inhaltsverzeichnis des ersten Bandes, Teil I *und des darin aufgenommenen Inhaltsverzeichnisses von A. Pfänders Zur Psychologie der Gesinnungen) identisch mit dem 1916 dem II. Band des Jahrbuchs beigegebenen bzw. den noch übrigen Exemplaren des 1. Teils des I. Bandes beigebundenen ausführlichen Inhaltsverzeichnis. Darauf folgt auf* S. 1-323 *ein seitenidentischer Wiederabdruck der 1. Auflage von 1913. Beigebunden ist dieser 2. Auflage unter dem (auf einer eigenen, nicht paginierten Seite stehenden) Titel sodann ein Anhag zum zweiten unveränderten Abdruck von HUSSERL „Ideen zu einer reinen Phänomenologie und phänomenologischen Philosophie“ Bd. I, nämlich das auf 1923 datierte, 58 Seiten umfassende Ausführliche Sachregister zu EDMUND HUSSERLS „Ideen zu einer reinen Phänomenologie und phänomenologischen Philosophie“, Bd. I von Dr. Gerda WALTHER, das oben S. 360-427 wiederabgedruckt wurde. Das gegenüber der 2. Auflage der Ideen I um ein Jahr verspätete Erscheinungsjahr des 1918 entstandenen Registers ist wohl dadurch zu erklären, daß es, außer als Anhag, „auch als Sonderdruck“[^78] erschien.*
+*Gleichzeitig mit der* 2. *Auflage des separat gedruckten Werks erschien im Jahr* 1922 *auch ein Zweiter unveränderter Abdruck des* 1. *Teilbands von Bd. I des Jahrbuchs. Abgesehen vom Inhaltsverzeichnis — der* 2. *Abdruck enthält allein das ausführliche Inhaltsverzeichnis in der* 1916 *gedruckten Form — ist diese Auflage identisch mit der von* 1913.
 
-*Gleichzeitig mit der 2. Auflage des separat gedruckten Werks erschien im Jahr 1922 auch ein Zweiter unveränderter Abdruck des 1. Teilbands von Bd. I des Jahrbuchs. Abgesehen vom Inhaltsverzeichnis – der 2. Abdruck enthält allein das ausführliche Inhaltsverzeichnis in der 1916 gedruckten Form — ist diese Auflage identisch mit der von 1913.*
-
-3. *Das Titelblatt der 3. Auflage ist bis auf die Jahreszahl 1928 und die Angabe 3. unveränderter Abdruck identisch mit dem der zweiten Auflage.*
+3. *Das Titelblatt der* 3. *Auflage ist bis auf die Jahreszahl* 1928 *und die Angabe* 3. *unveränderter Abdruck identisch mit dem der zweiten Auflage.*
 
 <!-- ZUR TEXTGESTALTUNG 473 -->
 
-Nach dem Titelblatt folgt auf S. III–VIII das Inhaltsverzeichnis, das nach der Einleitung sogleich den ,,Ersten Abschnitt“ des Werkes verzeichnet, also entgegen dem Ausführlichen Inhaltsverzeichnis von 1916 und dem der 2. Auflage von 1922 nicht erst den Gesamttitel Ideen zu einer reinen Phänomenologie und phänomenologischen Philosophie vor der Einleitung bzw. nach ihr nicht die Angabe Erstes Buch. Allgemeine Einführung in die reine Phänomenologie bietet. Am Ende der Paragraphentitel verzeichnet es ein (auf S. 325 beginnendes) Sach- und Namenregister. Es handelt sich dabei um das Sachregister von Dr. Ludwig Landgrebe (Freiburg i. B.), das oben S. 428–467 wiederabgedruckt wurde. Über die Entstehungszeit dieses Sachregisters, das in modifizierter Form auch in der englischen Übersetzung der *Ideen I von 1931* abgedruckt wurde,[^76] berichtet eine Tagebuchnotiz W. R. Boyce Gibsons vom 24. Juli 1928: ,,He $\langle=$ L. Landgrebe$\rangle$ has *already* shortened and modified the ,Index‘ $\langle=$ das Walthersche Sachregister$\rangle$ to the ,Ideen‘ and it is this modified form of it which appears in the *3rd* edition of the ,Ideen‘ as *separately published*“.[^77] In Husserls Nachlaß befindet sich kein Exemplar der 3. Auflage der Ideen I, die dieses Sachregister enthält. Auch sonst fanden sich keine Bemerkungen Husserls dazu. In dieser 3. Auflage steht das eigentliche Sachregister auf S. 325–358, das dazugehörige Namenregister auf S. 359–360.
+Nach dem Titelblatt folgt auf S. III-VIII das Inhaltsverzeichnis, das nach der Einleitung sogleich den ,,Ersten Abschnitt“ des Werkes verzeichnet, also entgegen dem Ausführlichen Inhaltsverzeichnis von 1916 und dem der 2. Auflage von 1922 nicht erst den Gesamttitel Ideen zu einer reinen Phänomenologie und phänomenologischen Philosophie vor der Einleitung bzw. nach ihr nicht die Angabe Erstes Buch. Allgemeine Einführung in die reine Phänomenologie bietet. Am Ende der Paragraphentitel verzeichnet ist ein (auf S. 325 beginnendes) Sach- und Namenregister. Es handelt sich dabei um das Sachregister von Dr. Ludwig Landgrebe (Freiburg i. B.), das oben S. 428-467 wiederabgedruckt wurde. Über die Entstehungszeit dieses Sachregisters, das in modifizierter Form auch in der englischen Übersetzung der *Ideen I* von 1931 abgedruckt wurde,[^76] berichtet eine Tagebuchnotiz W. R. Boyce Gibsons vom 24. Juli 1928: ,,He (<= L. Landgrebe) has already shortened and modified the ,Index‘ (<= das Walthersche Sachregister) to the ,Ideen‘ and it is this modified form of it which appears in the 3rd edition of the ,Ideen‘ as separately published“.[^77] In Husserls Nachlaß befindet sich kein Exemplar der 3. Auflage der Ideen I, die dieses Sachregister enthält. Auch sonst fanden sich keine Bemerkungen Husserls dazu. In dieser 3. Auflage steht das eigentliche Sachregister auf S. 325-358, das dazugehörige Namenregister auf S. 359-360.
 
 
 <!-- 474 TEXTKRITISCHER ANHANG -->
-Mit *Ausnahme* des Nachworts zu meinen ,,Ideen zu einer reinen Phänomenologie und phänomenologischen Philosophie“[^78] gibt der vorliegende 1. Halbband der Neuausgabe von Husserls *Ideen I* alle zu seinen Lebzeiten im Druck erschienenen diesbezüglichen Texte wieder. Den beiden Sachregistern liegen die Erstveröffentlichungen von 1923 (*Walthersches Index*) bzw. 1928 (*Landgrebescher Index*) zugrunde. Die *Ideen I* selber erschienen dagegen zu Husserls Lebzeiten in drei, den Titelblättern zufolge unveränderten Auflagen. Die 3. Auflage von 1928 steht auf einer Stufe mit der ersten Auflage von 1913; sie ist anhand eines Exemplars der Erstauflage nachgedruckt, aus dem sie z. T. sogar leicht verifizierbare Druckfehler übernimmt. Dagegen bietet die 2. Auflage von 1922 insofern einen besseren Text, als darin einige wenige Stilfehler, falsche Verweisungen in Anmerkungen und Druckfehler des Erstdrucks korrigiert sind. In einer Anmerkung auf S. 7 der (oben am Rand der Neuausgabe wiedergegebenen) *Originalpaginierung* findet sich überdies die einzige feststellbare inhaltliche Änderung des Drucktextes. Sie geht, wie die gesamten Fehlerverbesserungen, eindeutig auf Husserl selbst zurück. Dies beweisen die vier Husserlschen Handexemplare des Werkes im *Husserl-Archiv* zu Löwen. Darin hat Husserl u.a. Druckfehlerberichtigungen eingetragen, die großen teils *in der 2. Auflage richtiggestellt wurden.* Da also die *2. Auflage von 1922 den korrektesten Text bietet*, wurde sie der vorliegenden Neuausgabe der *Ideen I* zugrunde gelegt.
+Mit *Ausnahme* des Nachworts zu meinen ,,Ideen zu einer reinen Phänomenologie und phänomenologischen Philosophie“[^78] gibt der vorliegende 1. Halbband der Neuausgabe von Husserls *Ideen I* alle zu seinen Lebzeiten im Druck erschienenen diesbezüglichen Texte wieder. Den beiden Sachregistern liegen die *Erstveröffentlichungen* von 1923 (*Walthersches Index*) bzw. 1928 (*Landgrebeches Index*) zugrunde. Die *Ideen I* selber erschienen dagegen zu Husserls Lebzeiten in drei, den Titelblättern zufolge unveränderten Auflagen. Die 3. Auflage von 1928 steht auf einer Stufe mit der ersten Auflage von 1913; sie ist anhand eines Exemplars der Erstauflage nachgedruckt, aus dem sie z. T. sogar leicht verifizierbare Druckfehler übernimmt. Dagegen bietet die 2. Auflage von 1922 insofern einen besseren Text, als darin einige wenige Stilfehler, falsche Verweisungen in Anmerkungen und Druckfehler des Erstdrucks korrigiert sind. In einer Anmerkung auf S. 7 der (oben am Rand der Neuausgabe wiedergegebenen) *Originalpaginierung* findet sich überdies die einzige feststellbare inhaltliche Änderung des Drucktextes. Sie geht, wie die gesamten Fehlerverbesserungen, eindeutig auf Husserl selbst zurück. Dies beweisen die vier Husserlschen Handexemplare des Werkes im Husserl-Archiv zu Löwen. Darin hat Husserl u.a. Druckfehlerberichtigungen eingetragen, die großenteils in der 2. Auflage richtiggestellt wurden. Da also die 2. Auflage von 1922
+den korrektesten Text bietet, wurde sie der vorliegenden Neuausgabe der Ideen
+I zugrunde gelegt.
 
-*Wo auch der Text der 2. Auflage fehlerhaft war — mithin der aller drei Auflagen —, wurde er gebessert. An einigen wenigen Stellen trägt der Herausgeber allein die Verantwortung für die vorgenommenen Änderungen. Meist wurden diese Besserungen allerdings aufgrund von Angaben in einem oder mehreren der vier Handexemplare Husserls durchgeführt bzw. werden sie durch solche Randnotizen gestützt und bestätigt. Diese Handexemplare tragen, wie überhaupt in vorliegender Ausgabe, in den folgenden textkritischen Anmerkungen die Bezeichnungen **Exemplar A, B, C**, bzw. **D**. Eine ausführliche Beschreibung dieser vier Exemplare enthält der textkritische Anhang zum 2. Halbband dieser Ausgabe, S. 657f.*[^76]
+Wo auch der Text der 2. Auflage fehlerhaft war — mithan der aller drei
+Auflagen —, wurde er gebessert. An einigen wenigen Stellen trägt der Heraus-
+geber allein die Verantwortung für die vorgenommenen Änderungen. Meist
+wurden diese Besserungen allerdings aufgrund von Angaben in einem oder
+mehreren der vier Handexemplare Husserls durchgeführt bzw. werden sie
+durch solche Randnotizen gestützt und bestätigt. Diese Handexemplare tragen,
+wie überhaupt in vorliegender Ausgabe, in den folgenden textkritischen An-
+merkungen die Bezeichnungen Exemplar *A*, *B*, *C*, bzw. *D*. Eine ausführliche
+Beschreibung dieser vier Exemplare enthält der textkritische Anhang zum 2.
+Halbband dieser Ausgabe, S. 657f.[^76]
 
-*Die folgenden textkritischen Anmerkungen verzeichnen alle Textabweichungen der 1. bzw. 3. Auflage gegenüber der zweiten. Außerdem motivieren sie die vom Herausgeber am Text der 2. Auflage vorgenommenen Korrekturen. Neben den Sigeln für die vier Handexemplare Husserls finden dabei die folgenden Abkürzungen Verwendung:*
+Die folgenden textkritischen Anmerkungen verzeichnen alle Textabweichun-
+gen der 1. bzw. 3. Auflage gegenüber der zweiten. Außerdem motivieren sie
+die vom Herausgeber am Text der 2. Auflage vorgenommenen Korrekturen.
+Neben den Sigeln für die vier Handexemplare Husserls finden dabei die fol-
+genden Abkürzungen Verwendung:
 
 | | |
 |---|---|
@@ -7752,26 +7720,35 @@ Mit *Ausnahme* des Nachworts zu meinen ,,Ideen zu einer reinen Phänomenologie u
 | *Rb.* | Randbemerkung |
 | *V.* | Veränderung |
 
-[^1]: Über die Exemplare **A** und **D** vgl. auch die *Einleitung* des Hrsg., S. XLIIff. und S. LIff..
+[^1]: Über die Exemplare *A* und *D* vgl. auch die *Einleitung* des Hrsg., S. XLIIff. und S. LIff..
 
 ---
 
-[^76]: In der *Library of Philosophy. Edited by J. H. Muirhead, LL. D.* erschien außerdem eine englische Übersetzung unter dem Titel *Ideas: General Introduction to Pure Phenomenology. By Edmund Husserl. Translated by W. R. Boyce Gibson, M. A., D. Sc.* (Oxon), *Professor of Philosophy in the University of Melbourne, London: George Allen and Unwin Ltd, New York: The Macmillan Company*, 1931. Dieser Übersetzung geht vorher eine ,,Author's Preface to the English Edition'' und eine ,,Translator's Preface''.
-[^77]: Wiederabgedruckt in K. Schuhmann, *Reine Phänomenologie und phänomenologische Philosophie. Historisch-analytische Monographie über Husserls „Ideen I“* (Phaenomenologica 57), Den Haag 1973, S. 37–38.
 [^76]: Jahrbuch, Bd. II, 1916, S. VI.
 [^77]: A.a.O.
 [^78]: Gerda Walther, *Zum anderen Ufer*, Remagen 1960, S. 215.
-[^76]: Edmund Husserl, *Ideas: General Introduction to Pure Phenomenology*, London – New York 1931, S. 429–466. In einer Vorbemerkung bezeichnet W. R. Boyce Gibson diesen Index als ,,compiled by Dr. Ludwig Landgrebe of Freiburg-im-Breisgau, 1928, on the basis of Gerda Walther's *Ausführliches Sachregister*, 1923“.
+[^76]: Edmund Husserl, *Ideas: General Introduction to Pure Phenomenology*, London – New York 1931, S. 429-466. In einer Vorbemerkung bezeichnet W. R. Boyce Gibson diesen Index als ,,compiled by Dr. Ludwig Landgrebe of Freiburg-im-Breisgau, 1928, on the basis of Gerda Walther's *Ausführliches Sachregister*, 1923“.
 [^77]: H. Spiegelberg (Hrsg.), ,,From Husserl to Heidegger: Excerpts from a 1928 Freiburg Diary by W. R. Boyce Gibson“, *Journal of the British Society for Phenomenology*, 1971 (II/1), S. 70.
-[^78]: *Jahrbuch für Philosophie und phänomenologische Forschung*, 1930 (XI), S. 549–570. Wieder abgedruckt in *Husserliana V*, S. 138–162.
+[^78]: *Jahrbuch für Philosophie und phänomenologische Forschung*, 1930 (XI), S. 549–570. Wieder abgedruckt in *Husserliana* V, S. 138-162.
 
 ## TEXTKRITISCHE ANMERKUNGEN
 
 <!-- 476 TEXTKRITISCHE ANMERKUNGEN -->
 
 <!-- blank page -->
-<!-- TITLE PAGE / FRONT MATTER -->
-**10, 26–27** *statt* keinen objektiven zeitlichen Sinn haben müsse. ($=2.$ *Aufl.*) *in der 1. und 3. Aufl.* keinen zeitlichen Sinn haben müsse und in unzeitlichem verständlich ist. *Letzteres in* **A** *verbessert in* keinen objektiven zeitlichen Sinn haben müsse und in unzeitlichem verständlich ist. $\parallel$ **22, 36** *statt* $\S\ 72$ ($=V.$ *in* **C**) *in allen drei Auflagen* $\S\ 70$ $\parallel$ **29, 29** *statt* letzten, syntaktisch-formlosen ($=V.$ *in* **A**) *in allen drei Auflagen* letzten syntaktisch-formlosen $\parallel$ **32, 14** *statt* gegenüber der echten ($=2.$ *Aufl.*; *ebenso verbessert in* **A**, **B** *(zweimal) und zweimal in* **C**) *in der 1. und 3. Aufl.* als echte $\parallel$ **33, 14** *statt mit den* ($=2.$ *Aufl.*; *ebenso verbessert in* **A** *(zweimal)*, **B** *und* **C**) *in der 1. und 3. Aufl.* den $\parallel$ **62, 34** *statt* Es ($=2.$ *Aufl.*; *ebenso zweimal verbessert in* **A**) *in der 1. und 3. Aufl.* es $\parallel$ **67, 10** *statt* ihrer ($=2.$ *Aufl.*; *ebenso verbessert in* **A** *(dreimal); die diesbezügliche Rb. gebessert bezieht sich wohl auf die 2. Aufl.*), **B** *(zweimal) und zweimal in* **C**) *in der 1. und 3. Aufl.* seiner $\parallel$ **67, 14** *statt* und, da *in allen drei Auflagen* und betrachten, da *V. nach* **A** $\langle Hier \rangle$ müßte es heißen, wir gehen —— von dem Ich aus *sowie* Das müßte eigentlich stilistisch geändert werden. $\parallel$ **79, 16** *statt* Das Wahrnehmen ($=2.$ *Aufl.*; *ebenso verbessert in* **A**, *wo allerdings auch 18 es in sie verbessert ist, und zweimal in* **C**) *in der 1. und 3. Aufl.* Die Wahrnehmung $\parallel$ **79, 37** *statt* dabei ($=2.$ *Aufl.*; *ebenso verbessert in* **B** *(zweimal) und* **C**. *In* **D** *wieder rückverbessert in* ja) *in der 1. und 3. Aufl.* ja $\parallel$ **85, 20** *statt* in die ($=2.$ *Aufl.*; *ebenso zweimal verbessert in* **C**) *in der 1. und 3. Aufl.* in der $\parallel$ **115, 25** *statt* Lebewesen *in allen drei Auflagen* Lebewelten *V. nach* Die Krisis der europäischen Wissenschaften... ($=$ *Husserliana* VI), *S. 242:* So sind Geologie und Paläontologie „deskriptive Wissenschaften“, obschon sie in klimatische Perioden der Erde hineinreichen, in denen die analogischen Anschauungen der induzierten Lebewesen prinzipiell nicht für mögliche Erfahrung repräsentieren können. $\parallel$ **153, 35** *statt* 1901/02 *in allen drei Auflagen* 1900/01 *V. in* **A** *und* **D**. *Vgl. auch* Husserliana XII, *S. 549f.* $\parallel$ **202, 11** *statt* zweiten ($=2.$ *Aufl.*) *in der 1. und 3. Aufl.* dritten $\parallel$ **206, 11** *statt* durften *in allen drei Auflagen* dürften *V. in* **D**, *wo dürften als Druckfehler bezeichnet wird* $\parallel$ **227, 2–3** *statt* sich zu ihr verhalten wie kontinuierliche „Mannigfaltigkeit“ zu „Einheit“ *in allen drei Auflagen* sich verhalten wie „Einheit“ zu kontinuierlicher „Mannigfaltigkeit“ *In* **D** *an dieser Stelle ein Strich am Rand. Im Sinn dieser V. übersetzt auch W. R. Boyce Gibson in* E. Husserl, *Ideas: General Introduction to Pure Phenomenology, London — New York* 1931, *S. 284. Vgl. auch den Brief L. Landgrebes vom 5. August 1930 an W. R. Boyce Gibson (aufbewahrt im Husserl-Archiv unter der Signatur* R I Boyce Gibson) || **234**, 33 *statt* Weise, ebenfalls (= *V. in* **A** *und zweimal in* **B**) *in allen drei Auflagen* Weise ebenfalls || **236**, 7 Teniersschen *in allen drei Auflagen. In* **A** *gestr. und* Rb. Teniersschen zu streichen, *in* **B** Rb. nicht Teniersssches Bild, *in* **C** *bei* Teniersschen *Fragezeichen am Rand*, *in* **D** Teniersschen *gestr. und* Fragezeichen am Rand. *Hier im Drucktext belassen im Hinblick auf* Ms. F I $19/127b$ *(aus 1901/02):* Das Teniers'sche Bild einer Bildergalerie, *Ms. L II $14/8a$ (1907):* die endlosen Teniers'schen Bilder von Bildergalerien *und* Ms. A VI 12 III/139 *(aus 1912):* etwa die Tenierssche Bildergalerie || **265**, 2 *statt* ihre (= 2. *Aufl.*; *ebenso verbessert in* **C**) *in der* $1.$ *und* $3.$ *Aufl.* seine || **276**, 39 *statt* Untersuchung (= 2. *Aufl.*; *ebenso verbessert in* **A** *(zweimal),* **B** *und* **C**) *in der* $1.$ *und* $3.$ *Aufl.* Untersuchungen || **279**, 37 *statt* Idee (= 2. *Aufl.*; *ebenso in* **A**, **B** *und* **C** *jeweils zweimal verbessert*) *in der* $1.$ *und* $3.$ *Aufl.* Ideen || **339**, 37 *statt* 274 *in allen drei Auflagen* 273 || EDMUND HUSSERL
+**10, 26–27** *statt keinen objektiven zeitlichen Sinn haben müsse. ($=$ 2. Aufl.) in der 1. und 3. Aufl.* keinen zeitlichen Sinn haben müsse und in unzeitlichem verständlich ist. *Letzteres in* **A** *verbessert in* keinen objektiven zeitlichen Sinn haben müsse und in unzeitlichem verständlich ist. || **22, 36** *statt* § 72 ($=$ *V. in* **C**) *in allen drei Auflagen* § 70 || **29, 29** *statt* letzten, syntaktisch-formlosen ($=$ *V. in* **A**) *in allen drei Auflagen* letzten syntaktisch-formlosen || **32, 14** *statt* gegenüber der echten ($=$ 2. Aufl.; *ebenso verbessert in* **A, B** *(zweimal) und zweimal in* **C**) *in der 1. und 3. Aufl.* als echte || **33, 14** *statt* mit den ($=$ 2. Aufl.; *ebenso verbessert in* **A** *(zweimal),* **B** *und* **C**) *in der 1. und 3. Aufl.* den || **62, 34** *statt* Es ($=$ 2. Aufl.; *ebenso zweimal verbessert in* **A**) *in der 1. und 3. Aufl.* es || **67, 10** *statt* ihrer ($=$ 2. Aufl.; *ebenso verbessert in* **A** *(dreimal); die diesbezügliche Rb. gebessert bezieht sich wohl auf die 2. Aufl.),* **B** *(zweimal) und zweimal in* **C**) *in der 1. und 3. Aufl.* seiner || **67, 14** *statt* und, *da in allen drei Auflagen und betrachten, da V. nach* **A** $\langle Hier \rangle$ *mußte es heißen, wir gehen* — — *von dem Ich aus sowie* Das müßte eigentlich stilistisch geändert werden. || **79, 16** *statt* Das Wahrnehmen ($=$ 2. Aufl.; *ebenso verbessert in* **A**, *wo allerdings auch 18 es in sie verbessert ist, und zweimal in* **C**) *in der 1. und 3. Aufl.* Die Wahrnehmung || **79, 37** *statt* dabei ($=$ 2. Aufl.; *ebenso verbessert in* **B** *(zweimal) und* **C**. *In* **D** *wieder rückverbessert in* ja) *in der 1. und 3. Aufl.* ja || **85, 20** *statt* in die ($=$ 2. Aufl.; *ebenso zweimal verbessert in* **C**) *in der 1. und 3. Aufl.* in der || **115, 25** *statt* Lebewesen *in allen drei Auflagen* Lebewelten *V. nach* Die Krisis der europäischen Wissenschaften... ($=$ Husserliana VI), *S. 242:* So sind Geologie und Paläontologie „deskriptive Wissenschaften“, obschon sie in klimatische Perioden der Erde hineinreichen, in denen die analogischen Anschauungen der induzierten Lebewesen prinzipiell nicht für mögliche Erfahrung repräsentieren können. || **153, 35** *statt* 1901/02 *in allen drei Auflagen* 1900/01 *V. in* **A** *und* **D**. *Vgl. auch Husserliana XII, S. 549f.* || **202, 11** *statt* zweiten ($=$ 2. Aufl.) *in der 1. und 3. Aufl.* dritten || **206, 11** *statt* durften *in allen drei Auflagen* dürften *V. in* **D**, *wo dürften als Druckfehler bezeichnet wird* || **227, 2–3** *statt* sich zu ihr verhalten wie kontinuierliche „Mannigfaltigkeit“ zu „Einheit“ *in allen drei Auflagen* sich verhalten wie „Einheit“ zu kontinuierlicher „Mannigfaltigkeit“ *in* **D** *an dieser Stelle ein Strich am Rand. Im Sinn dieser V. übersetzt auch W. R. Boyce Gibson in* E. Husserl, Ideas: General Introduction to Pure Phenomenology, London — New York 1931, *S. 284. Vgl. auch den Brief L. Landgrebes vom 5. August 1930 an W. R. Boyce Gibson (aufbewahrt im Husserl-Archiv unter der Signatur* R I Boyce Gibson) || **234**, 33 *statt* Weise, ebenfalls ($=$ *V.* in $\mathbf{A}$ *und zweimal in* $\mathbf{B}$) *in allen drei Auflagen* Weise ebenfalls || **236**, 7 Teniersschen *in allen drei Auflagen. In* $\mathbf{A}$ *gestr. und* Rb. Teniersschen zu streichen, in $\mathbf{B}$ Rb. nicht Tenierssches Bild, *in* $\mathbf{C}$ *bei* Teniersschen *Fragezeichen am Rand, in* $\mathbf{D}$ Teniersschen *gestr. und* Fragezeichen am Rand. *Hier im Drucktext belassen im Hinblick auf* Ms. F I 19/127b *(aus* 1901/02): Das Teniers’sche Bild einer Bildergalerie, *Ms. L II* 14/8a *(1907):* die endlosen Teniers’schen Bilder von Bildergalerien *und* Ms. A VI 12 III/139 *(aus* 1912): etwa die Tenierssche Bildergalerie || **265**, 2 *statt* ihre ($=$ *2. Aufl.; ebenso verbessert in* $\mathbf{C}$) *in der* I. *und* 3. *Aufl.* seine || **276**, 39 *statt* Untersuchung ($=$ *2. Aufl.; ebenso verbessert in* $\mathbf{A}$ *(zweimal),* $\mathbf{B}$ *und* $\mathbf{C}$) *in der* I. *und* 3. *Aufl.* Untersuchungen || **279**, 37 *statt* Idee ($=$ *2. Aufl.; ebenso in* $\mathbf{A}$, $\mathbf{B}$ *und* $\mathbf{C}$ *jeweils zweimal verbessert*) *in der* I. *und* 3. *Aufl.* Ideen || **339**, 37 *statt* 274 *in allen drei Auflagen* 273 || <!-- p. [left page] -->
+sserls *Ideen zu einer reinen Phänomenologie und phänomenologischen Philosophie* erschien zu Husserls Lebzeiten in drei fast völlig identischen Auflagen.
+
+Im Rahmen der auf Grund des Nachlasses veranstalteten *Gesammelten Werke* eine "Neue, auf Grund der Handsätze des Verfassers erweiterte Auflage", in Husserls Archivs in dieser Form herausgegeben von Walter Biemel, suchte in textkritisch verantwortete Textgestalt und Ansätze Husserls zu einer Überarbeitung des Werkes, zu tragen durch eine Neugestaltung des Haupttextes.
+
+Die vorliegenden, im Auftrage des Husserls-Archivs vorbereitete neue Neuausgabe des Werkes wird im ersten Band den Text der zu Lebzeiten Husserls erschienene erste Auflage, während die sämtlichen handschriftliche Notizen im Rahmen der im Zweiten Halbband zusammengefaßten Texte berücksichtigt sind. Die Teilung soll das vergleichende Studium von Urtext und Vorarbeit und weitergehenden Entwürfen erleichtern.
+
+Der Band hält, ausser dem Drucktext der *Ideen I*, ein Vorwort " von G. Walther aus dem Jahr 1923 sowie das von R. Landgrebe von 1928.
+
+Ferner werden zunächst die Randnotizen sämtlich aus dem Textel zwischen 1913 und 1929 in vier Handexemplaren eingetragen hat. Daran anschliessend komme Texte aus seinem Nachlass zum Abdruck, die er etwa von Mitte März 1913 zum Zwecke der Vorbereitung der Fortsetzung geschrieben hat. Es folgen die Notizen zum Werk, die er damals niederschrieb, die er in seine Handexemplare eingetragen hat. Den Abschluss des Bandes bildet schliesslich des Versuchs einer Umarbeitung der Einleitung in Verbindung mit der englischen Übersetzung der dort zuerst entstanden sind.
+
+<!-- p. [right page] -->
+EDMUND HUSSERL
 
 IDEEN
 ZU EINER REINEN
@@ -7781,50 +7758,10 @@ GISCHEN
 PHILOSOPHIE
 
 ERSTES BUCH
-
 1. Halbband
 
 HUSSERLIANA
 BAND III, 1
-
-<!-- BEGIN TEXT BODY -->
-
-sserls *Ideen zu einer reinen Phänomenologi*
-*Philosophie* erschien zu Husserls Lebzeiten
-drei fast völlig identischen Auflagen.
-
-men der auf Grund des Nachlasses ver
-Gesammelten Werke eine "Neue, auf Grun
-itze des Verfassers erweiterte Auflage", in
-chivs in dieser Form herausgegeben von
-sgabe suchte in textkritisch verantwortete
-Ansätzen Husserls zu einer Überarbeitun
-tragen durch eine Neugestaltung des Haupt
-
-enden, im Auftrage des Husserl-Archivs vo
-n Neuausgabe des Werkes wird im erste
-t der zu Lebzeiten Husserls erschienene
-während die sämtlichen handschriftliche
-Rahmen der im Zweiten Halbband zusam
-n Texte berücksichtigt sind. Die Teilun
-gleichende Studium von Urtext und Vo
-l weitergehenden Entwürfen erleichtern.
-
-hält, ausser dem Drucktext der *Ideen I*, ei
-" von G. Walther aus dem Jahr 1923 sowi
-Landgrebe von 1928.
-
-werden zunächst die Randnotizen sämtlic
-l zwischen 1913 und 1929 in vier Hand
-etragen hat. Daran anschliessend komme
-seinem Nachlass zum Abdruck, die er etw
-ärz 1913 zum Zwecke der Vorbereitung de
-en hat. Es folgen die Notizen zum Werk
-niederschrieb, die er in seine Handexem
-gt hat. Den Abschluss des Bandes bilde
-ich des Versuchs einer Umarbeitung de
-ang mit der englischen Übersetzung de
-standen sind.
 
 # EDMUND HUSSERL
 
@@ -7832,7 +7769,6 @@ IDEEN ZU EINER REINEN PHÄNOMENOLOGIE
 UND PHÄNOMENOLOGISCHEN PHILOSOPHIE
 
 ERSTES BUCH
-
 ALLGEMEINE EINFÜHRUNG IN DIE REINE
 PHÄNOMENOLOGIE
 
@@ -7851,7 +7787,7 @@ und phänomenologischer
 der handschriftlichen Zu
 Aufträge des Husserl-A
 Walter Biemel. Diese A
-Form den mannigfache
+Form den mannigfacher
 des Werkes Rechnung zu
 textes.
 
@@ -7859,73 +7795,33 @@ In der nunmehr vorlie
 Karl Schuhmann besorg
 Halbband allein der T
 Auflagen wiedergegeber
-Zusätze des Verfassers i
+Zusätze des Verfassers in
 mengefassten Ergänzend
 des Bandes sollte das v
 studien, Bearbeitungen u
 
 Der Erste Halbband e
-»Ausführliches Sachregis
+"Ausführliches Sachregis
 das "Sachregister" von I
 
-Im Zweiten Halbbani
+Im Zweiten Halbbane
 wiedergegeben, die Hus
-exemplare des Werks e
+exemplare des Werks ei
 alle jene Manuskripte au
 zwischen Mai 1912 und
 Drucktexts niedergeschr
 die Husserl auf Beiblätt
-plare der *Ideen I* einge
+plare der *Ideen I* eing
 Manuskripte, die gelege
-Drucktexts im Zusammi
+Drucktexts im Zusammen
 
-<!-- p. [left page: introductory text; right page: half-title page] -->
-Werks im Herbst 1929 e IDEEN
-ZU EINER REINEN
-PHÄNOMENOLOGIE
-UND PHÄNOMENOLO-
-GISCHEN
-PHILOSOPHIE
+<!-- EDMUND HUSSERL IDEEN ZU EINER REINEN PHÄNOMENOLOGIE UND PHÄNOMENOLOGIE PHILOSOPHIE ERSTES BUCH 1. Halbband HUSSERLIANA BAND III, 1 -->
+Werks im Herbst 1929 e n Husserls *Ideen zu einer reinen Phänomenologischen Philosophie* erschien zu Husserls Lebzeiten in drei fast völlig identischen Auflagen.
 
-ERSTES BUCH
-1. Halbband
+Rahmen der auf Grund des Nachlasses vorbereiteten Gesammelten Werke eine "Neue, auf Grund der Zusätze des Verfassers erweiterte Auflage", im Husserl-Archivs in dieser Form herausgegeben von. Diese Ausgabe suchte in textkritisch verantworteten Verfahren Ansätze Husserls zu einer Überarbeitung mit zu tragen durch eine Neugestaltung des Haupt.
 
-HUSSERLIANA
-BAND III, 1
+rlegenden, im Auftrage des Husserl-Archivs vorbereiteten Neuausgabe des Werkes wird im ersten Text der zu Lebzeiten Husserls erschienene Text, während die sämtlichen handschriftlichen Notizen im Rahmen der im Zweiten Halbband zusammengefaßten Texte berücksichtigt sind. Die Teilung soll das vergleichende Studium von Urtext und Vorarbeiten und weitergehenden Entwürfen erleichtern.
 
-n Husserls *Ideen zu einer reinen Phänomenologi*
-*hen Philosophie* erschien zu Husserls Lebzeite
-s in drei fast völlig identischen Auflagen.
+nd enthält, ausser dem Drucktext der *Ideen I*, ein "Namenregister" von G. Walther aus dem Jahr 1923 sowie ein Register von L. Landgrebe von 1928.
 
-Rahmen der auf Grund des Nachlasses ver
-der Gesammelten Werke eine "Neue, auf Grun
-Zusätze des Verfassers erweiterte Auflage", in
-l-Archivs in dieser Form herausgegeben vo
-e Ausgabe suchte in textkritisch verantwortete
-hen Ansätzen Husserls zu einer Überarbeitun
-zu tragen durch eine Neugestaltung des Haupt
-
-rliegenden, im Auftrage des Husserl-Archivs vo
-orgten Neuausgabe des Werkes wird im erste
-Text der zu Lebzeiten Husserls erschienene
-en, während die sämtlichen handschriftliche
-s im Rahmen der im Zweiten Halbbande zusam
-enden Texte berücksichtigt sind. Die Teilun
-s vergleichende Studium von Urtext und Vor
-n und weitergehenden Entwürfen erleichtern.
-
-d enthält, ausser dem Drucktext der *Ideen I*, ei
-gister" von G. Walther aus dem Jahr 1923 sowi
-n L. Landgrebe von 1928.
-
-and werden zunächst die Randnotizen sämtlic
-Husserl zwischen 1913 und 1929 in vier Hand
-eingetragen hat. Daran anschliessend komme
-aus seinem Nachlass zum Abdruck, die er etw
-nd März 1913 zum Zwecke der Vorbereitung de
-chrieben hat. Es folgen die Notizen zum Werk
-ättern niederschrieb, die er in seine Handexem
-angelegt hat. Den Abschluss des Bandes bilde
-egentlich des Versuchs einer Umarbeitung de
-mnhang mit der englischen Übersetzung de
-9 entstanden sind.
+and werden zunächst die Randnotizen sämtlich, die Husserl zwischen 1913 und 1929 in vier Handexemplaren eingetragen hat. Daran anschliessend kommen Texte aus seinem Nachlass zum Abdruck, die er etwa im Februar und März 1913 zum Zwecke der Vorbereitung des zweiten Buches aufschrieben hat. Es folgen die Notizen zum Werke auf losen Blättern niederschrieb, die er in seine Handexemplare eingelegt hat. Den Abschluss des Bandes bilden Materialien egelentlich des Versuchs einer Umarbeitung der *Ideen I* in Zusammenhang mit der englischen Übersetzung, die in den Jahren 1929 entstanden sind.
