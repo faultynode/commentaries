@@ -706,6 +706,8 @@ def _is_retryable_error(exc: Exception) -> bool:
         "429", "resource_exhausted", "rate limit", "too many requests",
         "502", "503", "504", "unavailable", "overloaded", "high demand",
         "server error", "internal error", "try again later",
+        "connection reset", "connection refused", "broken pipe", "timed out",
+        "deadline exceeded", "temporarily unavailable",
     )
     return any(tok in msg for tok in tokens)
 
