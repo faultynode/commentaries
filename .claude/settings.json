@@ -7,7 +7,25 @@
       "Bash(git -C \"c:\\\\Users\\\\mbroc\\\\iCloudDrive\\\\Documents\\(1\\)\\\\Code\\\\commentaries\" push)",
       "Bash(git commit -m ' *)",
       "Bash(git mv *)",
-      "Bash(sort -k6,7)"
+      "Bash(sort -k6,7)",
+      "Bash(git remote *)",
+      "Read(//c/Users/mbroc/iCloudDrive/Documents\\\\\\(1\\\\\\)/Code/**)",
+      "Bash(gh repo *)",
+      "PowerShell(gh repo list faultynode --limit 50)",
+      "Bash(git ls-remote *)",
+      "Bash(rm -rf /tmp/sources-repo-check)",
+      "Bash(git clone *)",
+      "Read(//tmp/**)",
+      "Bash(git -C /tmp/sources-repo-check log --oneline -20)",
+      "Read(//c/WINDOWS/TEMP/sources-repo-check/**)",
+      "Bash(git subtree *)",
+      "Bash(git branch *)",
+      "Bash(python3 -c ' *)",
+      "Read(//c/Users/mbroc/iCloudDrive/Documents\\\\\\(1\\\\\\)/Code/sources/**)",
+      "Bash(git -C \"../sources\" log --oneline -5)"
+    ],
+    "additionalDirectories": [
+      "c:\\Users\\mbroc\\iCloudDrive\\Documents(1)\\Code"
     ]
   }
 }
