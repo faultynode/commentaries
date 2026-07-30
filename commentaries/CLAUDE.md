@@ -16,16 +16,19 @@ different pagination systems).
 
 `<author-last-name>-<title-slug>-commentary.md`, using the same
 lowercase/hyphen slug rules as [prompts/filename-prompt.md](../prompts/filename-prompt.md)
-(the source-file naming prompt) — transliterate diacritics, strip
-punctuation, drop subtitles after a colon or dash.
+(the source-file naming prompt, originally written for this repo's
+now-removed `sources/` folder — that folder's content moved to the
+separate [faultynode/sources](https://github.com/faultynode/sources)
+repository, but the naming prompt still applies here) — transliterate
+diacritics, strip punctuation, drop subtitles after a colon or dash.
 
 One deviation from that prompt: Husserliana volumes here are slugged
 `husserliana-<volume>-<title-slug>`, not `husserl-hua-<volume>-<title>`
-as in `sources/`. This folder's commentary filenames don't need to
-match the corresponding `sources/` filename — they're independent,
-and existing ones may use an English title where the source uses the
-German (e.g. `husserliana-3-ideas-i-commentary.md` vs.
-`sources/husserl-hua-3-1-ideen-i-...md`).
+as in the sources repo. This folder's commentary filenames don't need
+to match the corresponding sources-repo filename — they're
+independent, and existing ones may use an English title where the
+source uses the German (e.g. `husserliana-3-ideas-i-commentary.md`
+vs. `husserl-hua-3-1-ideen-i-...md` in faultynode/sources).
 
 Known inconsistency: `husserliana-1-cartesianische-meditationen.md`
 is missing the `-commentary` suffix that every other file has. Match
