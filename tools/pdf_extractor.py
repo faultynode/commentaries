@@ -594,9 +594,13 @@ def save_progress(out_path: Path, total_pages: int, page_results: list[PageResul
 
 
 def clear_progress(out_path: Path) -> None:
+    out_path = Path(out_path) if not isinstance(out_path, Path) else out_path
     path = _progress_path(out_path)
-    if path.exists():
-        path.unlink()
+    try:
+        if path.exists():
+            path.unlink()
+    except OSError as e:
+        print(f"Warning: Failed to delete progress file {path}: {e}", file=sys.stderr)
 
 
 # ─── Page-range helper ────────────────────────────────────────────────────────
