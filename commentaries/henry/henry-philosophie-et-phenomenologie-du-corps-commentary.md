@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Philosophie et phénoménologie du corps — Commentary
+wordpress_id: 356
 ---
 
 # Commentary on Michel Henry, *Philosophie et phénoménologie du corps: essai sur l'ontologie biranienne*
