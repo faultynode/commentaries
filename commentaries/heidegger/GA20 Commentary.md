@@ -1,3 +1,7 @@
+---
+wordpress_id: 368
+---
+
 # Commentary on Heidegger, *Prolegomena zur Geschichte des Zeitbegriffs* (GA 20)
 
 *Marburg lecture course, Summer Semester 1925. Cited by the printed pagination of the Klostermann edition (ed. Petra Jaeger), which is the standard scholarly reference for this volume. Section numbers (§) are Heidegger's own.*
