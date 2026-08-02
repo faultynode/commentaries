@@ -1,3 +1,7 @@
+---
+wordpress_id: 362
+---
+
 # **Husserl's *Thing and Space* (1907)**
 
 # INTRODUCTION
@@ -2216,4 +2220,3 @@ The existence of a real thing is thus placed in relation to a **system of percep
 **Architectonic significance:** §84 is doing several things at once. First, it provides the epistemological capstone to the entire *Dingvorlesung*: the constitutive analyses of perception, kinaesthesis, spatial form, qualitative filling, and movement all culminate in this account of what it means for the constituted thing to *be*. Second, the passage on the "phenomenological maelstrom" is one of Husserl's most philosophically exposed moments — an explicit confrontation with radical contingency that anticipates (and to some degree already answers) the problematic of the "annihilation of the world" passage in *Ideas I* §49. The key difference is that in 1907 Husserl is more cautious: he doesn't yet claim that consciousness would survive the world's annihilation as an absolute residuum, but instead frames the world's existence as an "irrational fact" whose rationality is constituted a posteriori through the growing force of coherent experience.
 
 Third, the theory of real possibility at the end connects directly to Husserl's later work on horizonal intentionality and the potentiality structure of perception (developed extensively in *Experience and Judgment* and the *Crisis*). The idea that every actual perception motivates a determinate system of real possibilities — and that the thing's Being just *is* its place in this system — is one of Husserl's most distinctive contributions to the phenomenology of modality and anticipates much of the later discussion of the "horizon" as constitutive of objectivity.
-

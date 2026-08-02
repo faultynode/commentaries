@@ -1,3 +1,7 @@
+---
+wordpress_id: 360
+---
+
 # **Hua 5 \- Ideas Pertaining to a Pure Phenomenology and to a Phenomenological Philosophy — Third Book: Phenomenology and the Foundations of the Sciences**
 
 ## **First Chapter**
@@ -457,4 +461,3 @@ Husserl explains the essentially new insight of transcendental phenomenology (an
 ### **Section 7**
 
 The final section reaffirms that this work, as a philosophical one, has a limited task. It seeks to be a first attempt — grown from decades of reflection directed exclusively at this goal — to set in motion the radical beginning of a philosophy that, in Kant's words, "will be able to present itself as a science." The author had early and to this day to renounce the ideal of working out for himself a systematically closed logic, ethics, metaphysics justified from absolutely compelling insight. The reason: the conviction was and remains indubitable that philosophy cannot naively begin straight ahead, cannot settle as positive sciences do on the pregiven, unquestioned ground of worldly experience. That they do so is what creates all their foundational problems and paradoxes. A philosophy with problematic foundations, with paradoxes resting on the unclarity of fundamental concepts, is no philosophy — it contradicts its very sense. Only in radical reflections on the sense and possibility of its undertaking can philosophy take root. Having had to lower the ideal of his philosophical striving practically to that of a genuine beginner, the author has in old age at least arrived at the complete certainty of being able to call himself a genuine beginner. He sees the infinitely open land of true philosophy, the "Promised Land," spread out before him, which he himself will no longer experience as already cultivated. May one laugh at this confidence, but let one see for oneself whether it does not have some ground, in the fragments presented here as beginning phenomenology. He would gladly hope that those who come after will take up these beginnings, steadily carry them further, and also improve their great imperfections — imperfections unavoidable in scientific beginnings.
-
