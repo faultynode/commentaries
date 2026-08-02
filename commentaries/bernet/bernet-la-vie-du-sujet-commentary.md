@@ -1,3 +1,7 @@
+---
+wordpress_id: 363
+---
+
 # Rudolf Bernet, *La vie du sujet: Recherches sur l'interprétation de Husserl dans la phénoménologie* — Commentary
 
 References are to the pagination of the Presses Universitaires de France edition (Épiméthée, 1994). Where Bernet cites Fink's *Sixth Cartesian Meditation* or Heidegger's *Sein und Zeit*, the page numbers are those of the German texts, and this is noted.
