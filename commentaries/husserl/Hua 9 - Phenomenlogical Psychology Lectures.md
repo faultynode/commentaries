@@ -1,4 +1,6 @@
-
+---
+wordpress_id: 361
+---
 
 Phenomenological PsychologyLectures, Summer Semester, 1925  
 
@@ -1780,4 +1782,3 @@ Husserl, Edmund. Logische Untersuchungen. 3 vols. Halle: Niemeyer, 1913-21\. Eng
 Kant, Immanuel. Kritik der reinen Vernunft. Hamburg: Meiner, 1956. English: Critique of Pure Reason, tr. Norman Kemp Smith. New York: St. Martin's Press, 1961.
 
 Locke, John. Essay Concerning Human Understanding, ed. A. C. Fraser. Oxford: 1894.
-
