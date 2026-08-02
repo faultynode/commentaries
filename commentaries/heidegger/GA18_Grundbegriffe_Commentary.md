@@ -1,3 +1,7 @@
+---
+wordpress_id: 358
+---
+
 # Commentary on Heidegger, *Grundbegriffe der aristotelischen Philosophie* (GA 18), pp. 1–268 (Einleitung and Erster Teil)
 
 Citations follow the Gesamtausgabe pagination of GA 18 (given in the running heads as "S 1," "S 2," etc.). Aristotelian passages are cited by Bekker line as Heidegger gives them. A short fixed glossary retains the Greek terms of art Heidegger treats as untranslatable and holds a few German coinages that carry the argument: *Dasein* (the human being's being, "being-there"); *ousia* (rendered "being-there," the being of a being in the how of its being); *horismos* (the delimiting *logos*, "definition"); *peras* (limit, the ground-character of the *Da*); *Sein-in-der-Welt* (being-in-the-world); *Miteinandersein* (being-with-one-another); *Besorgen* (concernful dealing, "taking care of"); *Sorge* (care); *Begegnen* (the world's "coming to meet" a living thing); *Man* (the anonymous "one" of everydayness); *Erschlossenheit* (disclosedness); *Bodenständigkeit* (rootedness — the course's guiding theme, the anchoredness of conceptuality in *Dasein*). Greek is retained where Heidegger's whole point is that no German or English word fits.
