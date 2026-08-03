@@ -117,6 +117,16 @@ touches a `.md` file. It:
    into the file); a file that already has one gets that post
    updated in place. There is no draft/staging step — every push
    goes live immediately.
+
+   Every post is tagged with the author's last name, taken from the
+   parent folder (`commentaries/husserl/...` → tag `Husserl`) and
+   title-cased for display. The tag list is sent on updates as well
+   as on creation, so the WordPress side is overwritten from the
+   folder name each run — retagging a post by hand in WordPress
+   won't stick. Where a folder holds a commentary *on* a secondary
+   author (`mohanty/`, `bernet/`, `picht/`), the folder name is still
+   what governs, so the tag is that author, not the philosopher they
+   are writing about.
 2. Runs `scripts/update_index.py`, which regenerates the
    `<div class="commentary-groups">` block in
    [../index.html](../index.html) from the same glob, grouping by

@@ -104,6 +104,18 @@ def to_gutenberg_html(markdown_text):
     return "\n\n".join(blocks)
 
 
+def author_tag(path):
+    """Derive the post's author tag from its parent folder name.
+
+    `commentaries/<author>/<file>.md` folders are named as the author's
+    lowercase last name (see commentaries/CLAUDE.md), so the folder is
+    the tag. Title-cased for display, since WordPress shows tag names
+    verbatim; the slug WordPress derives from it stays lowercase.
+    """
+    folder = os.path.basename(os.path.dirname(path))
+    return "-".join(part.capitalize() for part in folder.split("-"))
+
+
 def wp_request(url, token, **kwargs):
     headers = {"Authorization": f"Bearer {token}"}
     resp = requests.post(url, headers=headers, timeout=30, **kwargs)
@@ -124,7 +136,12 @@ def main():
         title = post.get("title", os.path.splitext(os.path.basename(path))[0])
         html = to_gutenberg_html(post.content)
 
-        payload = {"title": title, "content": html, "status": "publish"}
+        payload = {
+            "title": title,
+            "content": html,
+            "status": "publish",
+            "tags": author_tag(path),
+        }
         wp_id = post.get("wordpress_id")
 
         if wp_id:
