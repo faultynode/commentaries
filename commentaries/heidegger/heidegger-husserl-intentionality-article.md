@@ -1,6 +1,7 @@
 ---
 layout: default
-title: "Intentionality Objectivated: Heidegger's Terminological Inheritance, 1921–1927"
+title: 'Intentionality Objectivated: Heidegger''s Terminological Inheritance, 1921–1927'
+wordpress_id: 370
 ---
 
 # Intentionality Objectivated
