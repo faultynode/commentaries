@@ -72,9 +72,24 @@ independent, and existing ones may use an English title where the
 source uses the German (e.g. `husserliana-3-ideas-i-commentary.md`
 vs. `husserl-hua-3-1-ideen-i-...md` in faultynode/sources).
 
-Known inconsistency: `husserliana-1-cartesianische-meditationen.md`
-is missing the `-commentary` suffix that every other file has. Match
-new files to the `-commentary` suffix, not to that one.
+**Series volumes carry their number only when the file itself states
+it.** Husserliana volumes are slugged
+`husserliana-<volume>-<title-slug>-commentary.md`, Gesamtausgabe
+volumes `heidegger-ga-<volume>-<title-slug>-commentary.md`. Per
+[filename-prompt.md](../prompts/filename-prompt.md) §Process step 4,
+never supply a volume number from outside knowledge — only from the
+file's own text. Six Husserl commentaries therefore keep the plain
+`husserl-<title>-commentary.md` form: `erfahrung-und-urteil` (not a
+Husserliana volume at all), and `krisis`, `natur-und-geist`,
+`prolegomena`, `formal-and-transcendental-logic`, `thing-and-space`,
+which are Husserliana volumes that never cite their own volume
+number. That split is deliberate; if one of those files later gains
+an explicit volume citation, rename it then.
+
+Title language follows the edition the commentary works from, not the
+original — hence `husserl-thing-and-space-commentary.md` for a
+commentary written against the English *Thing and Space*, even though
+the volume is usually cited as *Ding und Raum*.
 
 ## Frontmatter
 
