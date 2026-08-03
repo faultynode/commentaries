@@ -12,6 +12,48 @@ several commentaries (e.g. `heidegger/` has separate commentaries for
 the English *Being and Time* and the German *Sein und Zeit*, keyed to
 different pagination systems).
 
+## Always translate quotations
+
+**Non-English text never appears without an English rendering — no
+exceptions.** The primary texts are mostly German or French, so this
+comes up constantly. It holds for commentary body text, for chat
+responses discussing these files, and for commit messages.
+
+**Ordering differs by context, and the difference is deliberate:**
+
+- **In commentary body text, English leads.**
+  [prompts/commentary-prompt](../prompts/commentary-prompt) §"Original-language
+  terms and quotations" governs and is stricter than a bare
+  translate-everything rule: cite the source word *in parentheses after*
+  its English equivalent, never as the inline subject; retain the
+  original only for a short fixed glossary of genuinely untranslatable
+  terms of art, glossed on first use (e.g. Dasein — being-there); and
+  **no bracketed original-language incipits anywhere**. Follow the
+  prompt, not the sources-repo format below. These files publish live
+  to WordPress and GitHub Pages on every push (see below), so an
+  unglossed German block quotation goes straight to a public page.
+- **In chat, notes and analysis, the original leads** — quote it first,
+  then the English in square brackets, e.g. "Bewußtsein von etwas"
+  [consciousness of something]. This matches
+  [faultynode/sources](https://github.com/faultynode/sources) `CLAUDE.md`
+  §"Always translate quotations", which is the mirror of this section.
+  There the original is the evidence and the translation is the gloss;
+  here the commentary *is* the English rendering, so the priority flips.
+
+In both contexts:
+
+- **Never replace the original with a translation** where the original
+  is doing evidential work — a claim about what a text *says* needs the
+  words it says it in.
+- **Gloss terms of art on first use** per document; repeats within the
+  same file don't need re-glossing.
+- **Mark working renderings as such** rather than letting them read as
+  a published translation. Note any recurring choice that could
+  mislead.
+- Sources already in English (e.g. the *Being and Time* translation,
+  as against *Sein und Zeit*) need no gloss — but keep the two keyed
+  separately, as the folder convention above already requires.
+
 ## Filename convention
 
 `<author-last-name>-<title-slug>-commentary.md`, using the same
