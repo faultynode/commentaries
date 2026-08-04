@@ -9,7 +9,7 @@ a verbatim quote, chronological ledgers built from them, and a synthesis
 stage that may write only from the ledgers. Quotes are re-checked against
 their sources in CI.
 
-- [DESIGN.md](DESIGN.md) — architecture and the decisions behind it
-- [OPERATIONS.md](OPERATIONS.md) — runbook, CI, troubleshooting
+- [docs/synthesis-design.md](docs/synthesis-design.md) — architecture and the decisions behind it
+- [docs/synthesis-operations.md](docs/synthesis-operations.md) — runbook, CI, troubleshooting
 - [synthesis/CLAUDE.md](synthesis/CLAUDE.md) — conventions for working in
   `synthesis/`
