@@ -50,9 +50,7 @@ def theme_section(theme, meta, corpus, chron, out):
             continue
         if doc["slug"] in records:
             continue
-        body = lib.normalize_quote(
-            lib.read_text(os.path.join(lib.REPO_ROOT, doc["path"])))
-        hits = lib.count_terms(body, meta["search_terms"])
+        hits = lib.count_terms(lib.normalized_document(doc), meta["search_terms"])
         if hits:
             scored.append((hits, doc["slug"], lib.entry_year(entry) if entry else lib.UNDATED))
     scored.sort(key=lambda r: -r[0])

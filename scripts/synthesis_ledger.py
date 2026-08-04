@@ -173,9 +173,7 @@ def build(theme, registry, corpus):
         entry = chron.get(doc["slug"])
         if entry and entry["role"] == "output":
             continue
-        body = lib.normalize_quote(
-            lib.read_text(os.path.join(lib.REPO_ROOT, doc["path"])))
-        hits = lib.count_terms(body, terms)
+        hits = lib.count_terms(lib.normalized_document(doc), terms)
         if hits:
             uncovered.append((hits, doc["slug"]))
     uncovered.sort(key=lambda r: (-r[0], r[1]))
