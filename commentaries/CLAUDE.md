@@ -172,3 +172,28 @@ When renaming a file with accented characters, double-check the link
 still resolves after publish — iCloud Drive can silently re-encode
 such filenames (NFD instead of NFC), which breaks the GitHub Pages
 link even though the file looks identical locally.
+
+## Reading across the commentaries: `synthesis/`
+
+Each file here explains its own text, unit by unit; nothing here looks
+across works. [synthesis/](../synthesis/CLAUDE.md) is the layer that
+does — extraction records pinning a claim to
+`<commentary-slug>#<section-id>` with a verbatim quote, chronological
+ledgers built from those records, and a synthesis stage allowed to write
+only from the ledgers. Every quote is re-checked against the file it came
+from by `scripts/synthesis_validate.py`, in CI.
+
+Two consequences for editing files in *this* folder:
+
+- **Editing a commentary can invalidate records that quote it.** Nothing
+  breaks and no build fails: the records go *stale* — their recorded
+  digest stops matching the file — and appear in `synthesis/STATUS.md` as
+  a re-extraction task. Rewording a heading is enough to do it, since
+  locators address sections by heading.
+- **The one-directory-level glob is what keeps synthesis drafts
+  unpublished.** Per the section above, `commentaries/*/*.md` publishes
+  live on push; `synthesis/` sits outside that glob on purpose. Moving a
+  finished synthesis output into `commentaries/<author>/` *is* the act of
+  publishing it, and it then needs frontmatter, a filename per the
+  convention above, and the translation discipline of §"Always translate
+  quotations".

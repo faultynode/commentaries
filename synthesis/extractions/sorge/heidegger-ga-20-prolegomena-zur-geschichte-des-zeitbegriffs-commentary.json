@@ -1,0 +1,127 @@
+{
+  "schema_version": 1,
+  "theme": "sorge",
+  "commentary": "heidegger-ga-20-prolegomena-zur-geschichte-des-zeitbegriffs-commentary",
+  "source_sha256": "30416fcea761ee439a1e714cce8c61ed361ef1ef9e776b844fe15ad7cf060e0c",
+  "extracted_at": "2026-08-04",
+  "extractor": {
+    "agent": "claude-code",
+    "prompt": "prompts/extraction-prompt.md",
+    "note": "Seed record written while building the pipeline; it is a real pass, not a fixture."
+  },
+  "coverage": "partial",
+  "coverage_note": "Chapter Four (§§ 27-32), where care is introduced and worked out. §§ 19-26, 33-36 carry term hits and have not been extracted; see synthesis/STATUS.md.",
+  "units": [
+    {
+      "id": "sorge/ga20/001",
+      "locator": "heidegger-ga-20-prolegomena-zur-geschichte-des-zeitbegriffs-commentary#h4-s-27-in-being-and-care-outline",
+      "primary_locator": "GA 20 § 27",
+      "stratum": "ga20-1925",
+      "term": "Sorge",
+      "status": "introduced",
+      "claim": "The being-structure of in-being that the analysis has been driving at is named care, and the explication is ordered into four phenomena with care last.",
+      "quote": "Heidegger names the being-structure sought *care* (Sorge), and orders the explication of in-being fourfold: the phenomenon of *uncoveredness*, *falling* as a basic movedness of Dasein, the structure of *uncanniness* (from being-at-home — familiarity), and *care*."
+    },
+    {
+      "id": "sorge/ga20/002",
+      "locator": "heidegger-ga-20-prolegomena-zur-geschichte-des-zeitbegriffs-commentary#h4-s-28-the-phenomenon-of-uncoveredness-entdecktheit",
+      "primary_locator": "GA 20 § 28a",
+      "stratum": "ga20-1925",
+      "term": "care",
+      "status": "presupposed",
+      "claim": "Disposedness is derived from care: the world is experienced as threatening or unthreatening only because Dasein is itself care, and not because a caring Dasein apprehends it so.",
+      "quote": "And only because *Dasein is itself, at itself, care* is the world experienced in its threateningness, its significance."
+    },
+    {
+      "id": "sorge/ga20/003",
+      "locator": "heidegger-ga-20-prolegomena-zur-geschichte-des-zeitbegriffs-commentary#h4-s-31-care-as-the-being-of-dasein",
+      "primary_locator": "GA 20 § 31a",
+      "stratum": "ga20-1925",
+      "term": "Sorge",
+      "status": "introduced",
+      "claim": "Care is the term for the being of Dasein as such, with the formal structure: a being to which, in its being-in-the-world, this being itself is at issue.",
+      "quote": "Care is the term for the being of Dasein *simpliciter*, with the formal structure: *a being to which, in its being-in-the-world, this being itself is at issue*."
+    },
+    {
+      "id": "sorge/ga20/004",
+      "locator": "heidegger-ga-20-prolegomena-zur-geschichte-des-zeitbegriffs-commentary#h4-s-31-care-as-the-being-of-dasein",
+      "primary_locator": "GA 20 § 31a",
+      "stratum": "ga20-1925",
+      "term": "Urstruktur",
+      "status": "introduced",
+      "claim": "Care is marked a pre-structure and explicitly the penultimate phenomenon, with time named as the last nexus of the being of Dasein.",
+      "quote": "Heidegger marks it as a *pre-structure* (Urstruktur) in the sense of Dasein itself — not the *last* nexus of the being of Dasein (that will be time), but the *penultimate* phenomenon through which the proper being-structure can be reached."
+    },
+    {
+      "id": "sorge/ga20/005",
+      "locator": "heidegger-ga-20-prolegomena-zur-geschichte-des-zeitbegriffs-commentary#h4-s-31-care-as-the-being-of-dasein",
+      "primary_locator": "GA 20 § 31a",
+      "stratum": "ga20-1925",
+      "term": "Besorgen",
+      "status": "revised",
+      "claim": "Concern, which carried the earlier analysis of everyday commerce with the world, is subordinated to care as one of its being-modes.",
+      "quote": "*concern* (Besorgen) is only a being-mode of care — care qua structure of Dasein *is* in-being as concern; caring that is in the world is *eo ipso* concern."
+    },
+    {
+      "id": "sorge/ga20/006",
+      "locator": "heidegger-ga-20-prolegomena-zur-geschichte-des-zeitbegriffs-commentary#h4-s-31-care-as-the-being-of-dasein",
+      "primary_locator": "GA 20 § 31a",
+      "stratum": "ga20-1925",
+      "term": "Sich-vorweg-sein",
+      "status": "introduced",
+      "claim": "The total formal structure of care is given in two moments: being-ahead-of-itself, and always-already-being-alongside something.",
+      "quote": "So the total structure of care in the formal sense: *the being-ahead-of-itself of Dasein in its always-already-being-alongside something*."
+    },
+    {
+      "id": "sorge/ga20/007",
+      "locator": "heidegger-ga-20-prolegomena-zur-geschichte-des-zeitbegriffs-commentary#h4-s-31-care-as-the-being-of-dasein",
+      "primary_locator": "GA 20 § 31a",
+      "stratum": "ga20-1925",
+      "term": "Darben",
+      "status": "introduced",
+      "claim": "The not-yet-having belonging to being-out-for is named want or privation and distinguished from a sheer objective not-having.",
+      "quote": "which Heidegger names *want* or *privation* (Darben): not a sheer objective not-having, but always a not-having *of something one is out for*"
+    },
+    {
+      "id": "sorge/ga20/008",
+      "locator": "heidegger-ga-20-prolegomena-zur-geschichte-des-zeitbegriffs-commentary#h4-s-31-care-as-the-being-of-dasein",
+      "primary_locator": "GA 20 § 31b",
+      "stratum": "ga20-1925",
+      "term": "Drang",
+      "status": "revised",
+      "claim": "Urge and hang are founded modifications of care in which one moment predominates and covers the rest; care is the condition of their possibility and is not composed out of them.",
+      "quote": "Urge is a being-mode of care — the *not-yet-freed* care — but care is *not* an urge"
+    },
+    {
+      "id": "sorge/ga20/009",
+      "locator": "heidegger-ga-20-prolegomena-zur-geschichte-des-zeitbegriffs-commentary#h4-s-31-care-as-the-being-of-dasein",
+      "primary_locator": "GA 20 § 31, Cura fable",
+      "stratum": "ga20-1925",
+      "term": "Sorge",
+      "status": "presupposed",
+      "claim": "Heidegger dates his first striking on the phenomenon of care to seven years before the course, in work on the ontological foundations of Augustinian anthropology.",
+      "quote": "he first struck on the phenomenon of care seven years earlier while trying to reach the ontological foundations of Augustinian anthropology"
+    },
+    {
+      "id": "sorge/ga20/010",
+      "locator": "heidegger-ga-20-prolegomena-zur-geschichte-des-zeitbegriffs-commentary#h4-s-32-the-result-and-the-task-of-the-fundamental-dasein-analysis-the-working-out",
+      "primary_locator": "GA 20 § 32",
+      "stratum": "ga20-1925",
+      "term": "Sorge",
+      "status": "presupposed",
+      "claim": "Care is the primary wholeness of Dasein's being-constitution; the equiprimordial structures belong to it rather than composing it.",
+      "quote": "Care is thus the *primary wholeness* of the being-constitution of Dasein, which as this wholeness lays itself in each case into this or that way of its being-able-to-be"
+    }
+  ],
+  "absences": [
+    {
+      "locator": "heidegger-ga-20-prolegomena-zur-geschichte-des-zeitbegriffs-commentary#h4-s-12-exhibiting-the-neglect-of-the-question-of-the-being-of-the-intentional",
+      "expected_because": "The section states the neglect of the question of the being of the intentional as the decisive omission of the phenomenology being criticized — the question § 31 answers with care. No term of the family occurs here."
+    },
+    {
+      "locator": "heidegger-ga-20-prolegomena-zur-geschichte-des-zeitbegriffs-commentary#h4-s-35-the-phenomenon-of-wanting-to-have-conscience-and-of-being-guilty",
+      "expected_because": "Conscience and being-guilty are treated as Dasein-phenomena of the same rank as the death analysis of § 34, which does work in the vocabulary of care. This section does not use it at all.",
+      "note": "Short section (358 words); the absence may be an artifact of the commentary's compression rather than of the course."
+    }
+  ]
+}

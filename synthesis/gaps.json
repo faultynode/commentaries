@@ -1,0 +1,30 @@
+{
+  "schema_version": 1,
+  "_comment": "The reading queue. Stage 4 appends here instead of filling a gap with a plausible sentence; scripts/synthesis_status.py renders the open ones. The three below were raised by the seed extraction passes on GA 19 and GA 20.",
+  "gaps": [
+    {
+      "id": "gap-001",
+      "opened": "2026-08-04",
+      "theme": "sorge",
+      "question": "GA 18 sits between GA 19 and the rest of the Marburg courses on any account of the development of care, but its commentary states no semester, so it cannot be placed on the ledger spine at all.",
+      "needs": "The semester, from the commentary itself - i.e. from the volume the commentary works from, written into the commentary's opening note. Then chronology.json can move it from unresolved.",
+      "status": "open"
+    },
+    {
+      "id": "gap-002",
+      "opened": "2026-08-04",
+      "theme": "sorge",
+      "question": "GA 20 § 31 dates the first striking on the phenomenon of care to seven years before the course, in work on the ontological foundations of Augustinian anthropology. Nothing in the corpus covers that work, so the earliest stratum of care is asserted in the corpus and evidenced nowhere in it.",
+      "needs": "A commentary on the Augustine course the passage refers to. Until then the claim stands as a report of GA 20, not as a dated stratum.",
+      "status": "open"
+    },
+    {
+      "id": "gap-003",
+      "opened": "2026-08-04",
+      "theme": "sorge",
+      "question": "GA 20 § 31 gives care a two-moment formal structure - being-ahead-of-itself in already-being-alongside. Whether the structure gains, loses or reorders a moment two years later cannot be checked from this ledger.",
+      "needs": "An extraction pass for sorge over heidegger-sein-und-zeit-commentary (1,024 term hits, no record) and heidegger-being-and-time-commentary.",
+      "status": "open"
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "schema_version": 1,
+  "theme": "sorge",
+  "commentary": "heidegger-ga-19-platon-sophistes-commentary",
+  "source_sha256": "28b074d10428ca6c33ab4bc6507cd441ca0426552c4f82a72fd85d29117cfb75",
+  "extracted_at": "2026-08-04",
+  "extractor": {
+    "agent": "claude-code",
+    "prompt": "prompts/extraction-prompt.md",
+    "note": "The whole file was scanned for Sorge, Besorgen, Fürsorge and Bekümmerung: one occurrence, in the glossary. The English 'care' occurs several times in its ordinary sense and is recorded as such under absences."
+  },
+  "coverage": "complete",
+  "units": [
+    {
+      "id": "sorge/ga19/001",
+      "locator": "heidegger-ga-19-platon-sophistes-commentary#h2-orientation-the-traps-this-course-sets",
+      "term": "Sorge",
+      "status": "presupposed",
+      "claim": "Sorge is listed among the terms the commentary holds in German throughout, glossed as care, alongside ἀλήθεια, λόγος, οὐσία and Dasein.",
+      "quote": "Terms held in Greek or German throughout, with the English fixed on first use: ἀλήθεια (un-concealment), ἀληθεύειν (disclosing, being-in-the-truth), λόγος (speech/discourse), δηλοῦν (making-manifest), οὐσία (being, in the Greek sense of presence/standing-presence), Dasein (the human being in its being), Sorge (care)."
+    }
+  ],
+  "absences": [
+    {
+      "locator": "heidegger-ga-19-platon-sophistes-commentary#h5-a-the-object-of-phronesis-dasein-itself-the-determination-of-the-telos-of-phrone",
+      "expected_because": "The τέλος of φρόνησις is fixed as Dasein itself, and Dasein as the οὗ ἕνεκα for the sake of which it acts — a being for which its own being is at issue, which is the structure the commentary's glossary reserves the word Sorge for. No form of the word occurs.",
+      "absent_terms": ["Sorge", "Besorgen", "Fürsorge", "Bekümmerung"],
+      "note": "The English 'care' occurs here in its ordinary sense ('to be taken care of'), so only the German terms are checked."
+    },
+    {
+      "locator": "heidegger-ga-19-platon-sophistes-commentary#h5-b-phronesis-as-a-letheyein-edone-and-lype-sophrosyne-phronesis-as-struggle-again",
+      "expected_because": "Dasein is described here as constantly in danger of being concealed from itself by itself, so that φρόνησις must be wrested from that tendency again and again. The whole analysis proceeds in the vocabulary of ἀληθεύειν and πρᾶξις without the German term the same commentary glosses as care.",
+      "absent_terms": ["Sorge", "Besorgen", "Fürsorge", "Bekümmerung"],
+      "note": "The English 'care' occurs in a non-technical sense ('come to care about incidental things')."
+    },
+    {
+      "locator": "heidegger-ga-19-platon-sophistes-commentary#h5-a-the-idea-of-eydaimonia-nic-eth-x-6-the-ontological-sense-of-eydaimonia-as-the",
+      "expected_because": "εὐδαιμονία is given an ontological sense as the completed being of the ψυχή, i.e. as what human Dasein is out for — the place where a doctrine of care would have to appear if the course had one.",
+      "absent_terms": ["Sorge", "Besorgen", "Fürsorge", "Bekümmerung"],
+      "note": "The English 'caring for one's own Dasein' occurs in the surrounding discussion of the physician who heals himself; it renders no German term of the family."
+    }
+  ]
+}
