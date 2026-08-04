@@ -22,7 +22,24 @@
       "Bash(git branch *)",
       "Bash(python3 -c ' *)",
       "Read(//c/Users/mbroc/iCloudDrive/Documents\\\\\\(1\\\\\\)/Code/sources/**)",
-      "Bash(git -C \"../sources\" log --oneline -5)"
+      "Bash(git -C \"../sources\" log --oneline -5)",
+      "Bash(gh api *)",
+      "PowerShell(gh api repos/zelestcarlyone/stacks 2>&1)",
+      "WebFetch(domain:github.com)",
+      "PowerShell(docker --version)",
+      "PowerShell(docker compose version)",
+      "PowerShell(winget --version)",
+      "PowerShell(Get-AppxPackage -Name \"Microsoft.DesktopAppInstaller\")",
+      "PowerShell($p = Get-AppxPackage -Name \"Microsoft.DesktopAppInstaller\"; Get-ChildItem \"$\\($p.InstallLocation\\)\" -Filter \"winget.exe\" -ErrorAction SilentlyContinue)",
+      "PowerShell(& \"C:\\\\Program Files\\\\WindowsApps\\\\Microsoft.DesktopAppInstaller_1.29.280.0_x64__8wekyb3d8bbwe\\\\winget.exe\" search \"Docker Desktop\")",
+      "PowerShell(& \"C:\\\\Program Files\\\\WindowsApps\\\\Microsoft.DesktopAppInstaller_1.29.280.0_x64__8wekyb3d8bbwe\\\\winget.exe\" search \"Docker Desktop\" --accept-source-agreements)",
+      "PowerShell(Start-Process -FilePath \"C:\\\\Program Files\\\\WindowsApps\\\\Microsoft.DesktopAppInstaller_1.29.280.0_x64__8wekyb3d8bbwe\\\\winget.exe\" -ArgumentList 'install --id Docker.DockerDesktop -e --accept-source-agreements --accept-package-agreements' -Verb RunAs -Wait)",
+      "Read(//c/Program Files/Docker/Docker/**)",
+      "PowerShell(Get-WindowsOptionalFeature -Online -FeatureName Microsoft-Windows-Subsystem-Linux, VirtualMachinePlatform)",
+      "PowerShell(Get-WindowsOptionalFeature -Online -FeatureName Microsoft-Windows-Subsystem-Linux)",
+      "PowerShell(Get-WindowsOptionalFeature -Online -FeatureName VirtualMachinePlatform)",
+      "PowerShell(wsl --status)",
+      "PowerShell(Start-Process \"C:\\\\Program Files\\\\Docker\\\\Docker\\\\Docker Desktop.exe\")"
     ],
     "additionalDirectories": [
       "c:\\Users\\mbroc\\iCloudDrive\\Documents(1)\\Code"
