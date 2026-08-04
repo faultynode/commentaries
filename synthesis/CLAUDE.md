@@ -4,8 +4,8 @@ Machinery for reading *across* the commentaries: extraction records that
 pin a claim to a place in a commentary, ledgers that order those records
 by date, and a synthesis stage that may write only from the ledgers.
 
-- **Why it is built this way** — [DESIGN.md](../DESIGN.md)
-- **How to run it** — [OPERATIONS.md](../OPERATIONS.md)
+- **Why it is built this way** — [synthesis-design.md](../docs/synthesis-design.md)
+- **How to run it** — [synthesis-operations.md](../docs/synthesis-operations.md)
 - **What binds you while working here** — this file.
 
 Nothing in this folder is published. That is load-bearing: see
@@ -75,9 +75,10 @@ so rebuilding without a change produces no diff.
 
 ## Layout
 
-Design and operations docs live at the repo root
-([DESIGN.md](../DESIGN.md), [OPERATIONS.md](../OPERATIONS.md)); this
-folder holds the data.
+Design and operations docs live in [`docs/`](../docs)
+([synthesis-design.md](../docs/synthesis-design.md),
+[synthesis-operations.md](../docs/synthesis-operations.md)); this folder
+holds the data.
 
     themes.json          Theme registry. search_terms must include the
                          English renderings - the commentaries are English
@@ -132,4 +133,4 @@ to WordPress and GitHub Pages on the next push, with no draft step.
 So moving a Stage 4 output into `commentaries/<author>/` **is the act of
 publishing it**. That is the author's decision, never a step in a
 synthesis pass. The procedure, once the decision is made, is
-[OPERATIONS.md](../OPERATIONS.md) §P8.
+[synthesis-operations.md](../docs/synthesis-operations.md) §P8.
