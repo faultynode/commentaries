@@ -1,0 +1,9 @@
+# Working files, not site content. The synthesis pipeline's records,
+# ledgers and scripts would otherwise be copied into _site verbatim.
+# Note that setting `exclude` replaces Jekyll's default list rather than
+# adding to it; nothing in that default list (Gemfile, vendor/,
+# node_modules/, ...) exists in this repo.
+exclude:
+  - synthesis/
+  - scripts/
+  - prompts/

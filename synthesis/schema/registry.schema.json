@@ -1,0 +1,120 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "$id": "https://faultynode.github.io/commentaries/synthesis/schema/registry.schema.json",
+  "title": "Synthesis registries",
+  "description": "Schemas for the three hand-maintained files the pipeline reads: themes.json, chronology.json, gaps.json. Kept in one file because they are small and always edited together.",
+  "$defs": {
+    "themes": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": ["schema_version", "themes"],
+      "properties": {
+        "schema_version": { "const": 1 },
+        "themes": {
+          "type": "array",
+          "items": {
+            "type": "object",
+            "additionalProperties": false,
+            "required": ["id", "english", "search_terms"],
+            "properties": {
+              "id": { "type": "string", "pattern": "^[a-z0-9-]+$" },
+              "english": { "type": "string" },
+              "glossary_terms": {
+                "type": "array",
+                "description": "Original-language forms held untranslated in the commentaries.",
+                "items": { "type": "string" }
+              },
+              "search_terms": {
+                "type": "array",
+                "minItems": 1,
+                "description": "Word-boundary search terms for the candidate heuristic and for absence checks. Must include the English renderings: the commentaries are written in English by construction, so the German alone finds almost nothing.",
+                "items": { "type": "string" }
+              },
+              "note": { "type": "string" }
+            }
+          }
+        }
+      }
+    },
+    "chronology": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": ["schema_version", "entries"],
+      "properties": {
+        "schema_version": { "const": 1 },
+        "entries": {
+          "type": "array",
+          "items": {
+            "type": "object",
+            "additionalProperties": false,
+            "required": ["commentary", "role", "status", "strata"],
+            "properties": {
+              "commentary": { "type": "string", "pattern": "^[a-z0-9-]+$" },
+              "role": {
+                "type": "string",
+                "enum": ["primary", "reception", "output"],
+                "description": "'primary' texts are ordered on the ledger's spine; 'reception' sits alongside as a separate layer; 'output' is something this pipeline produced and must never be fed back in as evidence."
+              },
+              "status": {
+                "type": "string",
+                "enum": ["resolved", "unresolved"],
+                "description": "'unresolved' means the commentary does not state a date. The ledger puts these in an explicit undated bucket rather than guessing one."
+              },
+              "strata": {
+                "type": "array",
+                "description": "Dated layers of composition or delivery. Most works have one. Hua IV has five, and treating them as one date is the single largest dating error available in this corpus.",
+                "items": {
+                  "type": "object",
+                  "additionalProperties": false,
+                  "required": ["id", "label", "year_start", "stated_in_commentary"],
+                  "properties": {
+                    "id": { "type": "string", "pattern": "^[a-z0-9-]+$" },
+                    "label": { "type": "string" },
+                    "year_start": { "type": ["integer", "null"] },
+                    "year_end": { "type": ["integer", "null"] },
+                    "stated_in_commentary": {
+                      "type": "boolean",
+                      "description": "False is allowed but must carry an evidence note saying where the date came from. Nothing in this file may be supplied from outside knowledge without saying so."
+                    },
+                    "evidence": { "type": "string" }
+                  }
+                }
+              },
+              "note": { "type": "string" }
+            }
+          }
+        }
+      }
+    },
+    "gaps": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": ["schema_version", "gaps"],
+      "properties": {
+        "schema_version": { "const": 1 },
+        "gaps": {
+          "type": "array",
+          "items": {
+            "type": "object",
+            "additionalProperties": false,
+            "required": ["id", "opened", "question", "needs", "status"],
+            "properties": {
+              "id": { "type": "string", "pattern": "^gap-[0-9]{3}$" },
+              "opened": { "type": "string", "pattern": "^[0-9]{4}-[0-9]{2}-[0-9]{2}$" },
+              "theme": { "type": "string" },
+              "question": { "type": "string", "minLength": 12 },
+              "needs": {
+                "type": "string",
+                "minLength": 8,
+                "description": "What would settle it: a text to read, a commentary to write, an extraction pass to run."
+              },
+              "raised_by": { "type": "string", "description": "Path of the synthesis output that flagged it." },
+              "status": { "type": "string", "enum": ["open", "reading", "closed"] },
+              "resolution": { "type": "string" }
+            }
+          }
+        }
+      }
+    }
+  }
+}
