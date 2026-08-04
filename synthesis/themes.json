@@ -1,0 +1,72 @@
+{
+  "schema_version": 1,
+  "themes": [
+    {
+      "id": "sorge",
+      "english": "care",
+      "glossary_terms": ["Sorge", "Besorgen", "Fürsorge", "Bekümmerung"],
+      "search_terms": [
+        "Sorge", "Besorgen", "Fürsorge", "Bekümmerung",
+        "care", "concern", "concernful", "solicitude", "being-out-for",
+        "taking care", "caring"
+      ],
+      "note": "The shape of care across GA 17 → GA 18 → GA 19 → GA 20 → SZ is visible mainly in what is not yet there. Absences carry the periodization."
+    },
+    {
+      "id": "vorhandenheit",
+      "english": "presence-at-hand",
+      "glossary_terms": ["Vorhandenheit", "vorhanden", "Zuhandenheit", "zuhanden"],
+      "search_terms": [
+        "Vorhandenheit", "vorhanden", "Zuhandenheit", "zuhanden",
+        "presence-at-hand", "present-at-hand", "objective presence",
+        "readiness-to-hand", "ready-to-hand", "handiness", "at hand",
+        "occurrent"
+      ],
+      "note": "English renderings diverge sharply between translations (Macquarrie-Robinson vs. Stambaugh), so the search terms must cover both or the English-language commentaries drop out of the results."
+    },
+    {
+      "id": "konstitution",
+      "english": "constitution",
+      "glossary_terms": ["Konstitution", "Konstituierung", "sich konstituieren"],
+      "search_terms": [
+        "Konstitution", "konstituiert", "Konstituierung",
+        "constitution", "constitutes", "constituted", "constituting",
+        "constitutive", "self-constitution"
+      ],
+      "note": "The standing misreading is constitution as causation or production. Extraction records the claim, not the guard; the guards belong to the commentaries."
+    },
+    {
+      "id": "leib",
+      "english": "lived body",
+      "glossary_terms": ["Leib", "Leiblichkeit", "Körper", "Leibkörper"],
+      "search_terms": [
+        "Leib", "Leiblichkeit", "Körper", "Leibkörper",
+        "lived body", "living body", "the body", "bodily", "corporeal",
+        "corps propre", "kinaesthe", "kinesthe", "somatic"
+      ],
+      "note": "Body/Leib runs through Hua IV, Hua V, Thing and Space, Henry and Picht, which makes it the theme with the widest divergence dossier available in the corpus."
+    },
+    {
+      "id": "intentionalitaet",
+      "english": "intentionality",
+      "glossary_terms": ["Intentionalität", "Intention", "Meinen"],
+      "search_terms": [
+        "Intentionalität", "intentional", "intentionality", "intending",
+        "directedness", "aboutness", "noesis", "noema", "noetic", "noematic"
+      ],
+      "note": "Partly worked already: commentaries/heidegger/heidegger-husserl-intentionality-article.md is a Stage 4 output written before this pipeline existed. Extract the commentaries, not that article."
+    },
+    {
+      "id": "zeitlichkeit",
+      "english": "temporality",
+      "glossary_terms": ["Zeitlichkeit", "Temporalität", "Zeitbewußtsein"],
+      "search_terms": [
+        "Zeitlichkeit", "Temporalität", "Zeitbewußtsein",
+        "temporality", "temporal", "time-consciousness", "retention",
+        "protention", "primal impression", "ekstas", "Augenblick",
+        "moment of vision"
+      ],
+      "note": "Husserl's time-consciousness and Heidegger's ekstatic temporality share almost no vocabulary, so the search terms have to carry both idioms."
+    }
+  ]
+}
