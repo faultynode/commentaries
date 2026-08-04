@@ -1,0 +1,53 @@
+{
+  "schema_version": 1,
+  "commentary": "heidegger-ga-19-platon-sophistes-commentary",
+  "source_sha256": "28b074d10428ca6c33ab4bc6507cd441ca0426552c4f82a72fd85d29117cfb75",
+  "extracted_at": "2026-08-04",
+  "extractor": {
+    "agent": "claude-code",
+    "prompt": "prompts/inheritance-prompt.md",
+    "note": "Seed record written while building the pipeline."
+  },
+  "coverage": "partial",
+  "coverage_note": "The Natorp obituary and § 1 (the twofold preparation). The Aristotle sections that make up most of the course are not yet extracted.",
+  "engagements": [
+    {
+      "id": "inh/ga19/001",
+      "locator": "heidegger-ga-19-platon-sophistes-commentary#h2-obituary-for-paul-natorp",
+      "stratum": "ga19-1924",
+      "predecessor": { "author": "Natorp", "text": "Plato's Theory of Ideas" },
+      "mode": "acknowledged-debt",
+      "claim": "What is credited to Natorp is a demand rather than a doctrine: that command of material is not yet understanding.",
+      "quote": "What the book taught was a conscience: that command of the material is not yet understanding, and that understanding cannot be assembled out of average philosophical erudition."
+    },
+    {
+      "id": "inh/ga19/002",
+      "locator": "heidegger-ga-19-platon-sophistes-commentary#h2-obituary-for-paul-natorp",
+      "stratum": "ga19-1924",
+      "predecessor": { "author": "Natorp" },
+      "mode": "polemical-rejection",
+      "claim": "Marburg's epistemological framing of Greek philosophy is named as the horizon and the limit of Natorp's reading, and the course's program is set against it.",
+      "quote": "The double-edged compliment discloses Heidegger's own program: the very Aristotle whom Marburg subordinated is about to become the key to Plato."
+    },
+    {
+      "id": "inh/ga19/003",
+      "locator": "heidegger-ga-19-platon-sophistes-commentary#h4-a-philosophical-phenomenological-preparation-the-method-and-aim-of-phenomenology",
+      "primary_locator": "GA 19 § 1a",
+      "stratum": "ga19-1924",
+      "predecessor": { "author": "Husserl", "text": "Logical Investigations" },
+      "mode": "acknowledged-debt",
+      "claim": "Phenomenology's contemporary breakthrough is credited to the Logical Investigations, and placed as the recovery of a Greek way of looking rather than as a modern invention.",
+      "quote": "In the present, it first won through in Husserl's *Logical Investigations*, whose theme is certain phenomena from the domain of consciousness or lived experience — acts of knowing and judging, described as to their structure."
+    },
+    {
+      "id": "inh/ga19/004",
+      "locator": "heidegger-ga-19-platon-sophistes-commentary#h4-b-historical-hermeneutic-preparation-the-principle-of-hermeneutics-from-the-clea",
+      "primary_locator": "GA 19 § 1b",
+      "stratum": "ga19-1924",
+      "predecessor": { "author": "Aristotle" },
+      "mode": "acknowledged-debt",
+      "claim": "Aristotle is made the way into Plato on the warrant that he understood him, with the claim generalized: later thinkers understand their predecessors better than those understood themselves.",
+      "quote": "The presupposition is that Aristotle understood Plato — no bold claim, given the level of Aristotle's work."
+    }
+  ]
+}

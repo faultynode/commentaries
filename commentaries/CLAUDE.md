@@ -72,9 +72,24 @@ independent, and existing ones may use an English title where the
 source uses the German (e.g. `husserliana-3-ideas-i-commentary.md`
 vs. `husserl-hua-3-1-ideen-i-...md` in faultynode/sources).
 
-Known inconsistency: `husserliana-1-cartesianische-meditationen.md`
-is missing the `-commentary` suffix that every other file has. Match
-new files to the `-commentary` suffix, not to that one.
+**Series volumes carry their number only when the file itself states
+it.** Husserliana volumes are slugged
+`husserliana-<volume>-<title-slug>-commentary.md`, Gesamtausgabe
+volumes `heidegger-ga-<volume>-<title-slug>-commentary.md`. Per
+[filename-prompt.md](../prompts/filename-prompt.md) §Process step 4,
+never supply a volume number from outside knowledge — only from the
+file's own text. Six Husserl commentaries therefore keep the plain
+`husserl-<title>-commentary.md` form: `erfahrung-und-urteil` (not a
+Husserliana volume at all), and `krisis`, `natur-und-geist`,
+`prolegomena`, `formal-and-transcendental-logic`, `thing-and-space`,
+which are Husserliana volumes that never cite their own volume
+number. That split is deliberate; if one of those files later gains
+an explicit volume citation, rename it then.
+
+Title language follows the edition the commentary works from, not the
+original — hence `husserl-thing-and-space-commentary.md` for a
+commentary written against the English *Thing and Space*, even though
+the volume is usually cited as *Ding und Raum*.
 
 ## Frontmatter
 
@@ -157,3 +172,28 @@ When renaming a file with accented characters, double-check the link
 still resolves after publish — iCloud Drive can silently re-encode
 such filenames (NFD instead of NFC), which breaks the GitHub Pages
 link even though the file looks identical locally.
+
+## Reading across the commentaries: `synthesis/`
+
+Each file here explains its own text, unit by unit; nothing here looks
+across works. [synthesis/](../synthesis/CLAUDE.md) is the layer that
+does — extraction records pinning a claim to
+`<commentary-slug>#<section-id>` with a verbatim quote, chronological
+ledgers built from those records, and a synthesis stage allowed to write
+only from the ledgers. Every quote is re-checked against the file it came
+from by `scripts/synthesis_validate.py`, in CI.
+
+Two consequences for editing files in *this* folder:
+
+- **Editing a commentary can invalidate records that quote it.** Nothing
+  breaks and no build fails: the records go *stale* — their recorded
+  digest stops matching the file — and appear in `synthesis/STATUS.md` as
+  a re-extraction task. Rewording a heading is enough to do it, since
+  locators address sections by heading.
+- **The one-directory-level glob is what keeps synthesis drafts
+  unpublished.** Per the section above, `commentaries/*/*.md` publishes
+  live on push; `synthesis/` sits outside that glob on purpose. Moving a
+  finished synthesis output into `commentaries/<author>/` *is* the act of
+  publishing it, and it then needs frontmatter, a filename per the
+  convention above, and the translation discipline of §"Always translate
+  quotations".
