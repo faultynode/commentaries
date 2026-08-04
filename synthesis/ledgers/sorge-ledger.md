@@ -105,9 +105,9 @@
 
 *Where the theme's terms occur but no extraction pass has run. Silence in the sections above is silence about these files, not evidence of absence in them.*
 
-- `heidegger-sein-und-zeit-commentary` - 1024 term hits, no record
-- `heidegger-being-and-time-commentary` - 257 term hits, no record
-- `heidegger-ga-18-grundbegriffe-der-aristotelischen-philosophie-commentary` - 170 term hits, no record
+- `heidegger-sein-und-zeit-commentary` - 915 term hits, no record
+- `heidegger-being-and-time-commentary` - 253 term hits, no record
+- `heidegger-ga-18-grundbegriffe-der-aristotelischen-philosophie-commentary` - 156 term hits, no record
 - `bernet-la-vie-du-sujet-commentary` - 138 term hits, no record
 - `husserliana-9-phenomenological-psychology-commentary` - 100 term hits, no record
 - `husserl-thing-and-space-commentary` - 66 term hits, no record
