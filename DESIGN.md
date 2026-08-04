@@ -2,14 +2,14 @@
 
 Why this is built the way it is. For how to run it, see
 [OPERATIONS.md](OPERATIONS.md); for the conventions that bind an agent
-working in this folder, [CLAUDE.md](CLAUDE.md).
+working in `synthesis/`, [synthesis/CLAUDE.md](synthesis/CLAUDE.md).
 
 ---
 
 ## 1. The problem
 
 The commentaries are exhaustive and locally focused by construction: the
-[commentary prompt](../prompts/commentary-prompt) requires every native
+[commentary prompt](prompts/commentary-prompt) requires every native
 unit of a text to get its own block at equal depth, in order. That
 produces the best possible material for reading *one* work and no
 apparatus at all for reading *across* works. Nothing in a commentary
@@ -201,7 +201,7 @@ flattens exactly the development a ledger exists to show.
 Nine entries are therefore `unresolved` — seven primary commentaries and
 two of reception: their commentary never dates its own text, so they sit
 in an undated bucket rather than on a guessed position. This mirrors
-[filename-prompt.md](../prompts/filename-prompt.md) §Process step 4 —
+[filename-prompt.md](prompts/filename-prompt.md) §Process step 4 —
 never supply a volume number from outside knowledge — and for the same
 reason: a corpus that quietly imports facts from a model's memory has no
 way to mark which facts those were.
