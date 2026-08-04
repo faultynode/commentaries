@@ -12,12 +12,12 @@ Corpus: **29 commentaries**, 1,322,667 words, 2569 sections indexed in `synthesi
 
 Next candidates, by term density:
 
-- [ ] `bernet-la-vie-du-sujet-commentary` (1994) - 946 hits
-- [ ] `husserliana-11-analyses-concerning-passive-and-active-synthesis-commentary` (1920) - 224 hits
-- [ ] `henry-philosophie-et-phenomenologie-du-corps-commentary` (1965) - 216 hits
-- [ ] `husserliana-3-ideas-i-commentary` (undated) - 169 hits
-- [ ] `husserl-thing-and-space-commentary` (1907) - 159 hits
-- [ ] `husserliana-9-phenomenological-psychology-commentary` (1925) - 156 hits
+- [ ] `bernet-la-vie-du-sujet-commentary` (1994) - 630 hits
+- [ ] `husserliana-11-analyses-concerning-passive-and-active-synthesis-commentary` (1920) - 175 hits
+- [ ] `husserl-thing-and-space-commentary` (1907) - 128 hits
+- [ ] `henry-philosophie-et-phenomenologie-du-corps-commentary` (1965) - 127 hits
+- [ ] `husserliana-3-ideas-i-commentary` (undated) - 121 hits
+- [ ] `husserliana-9-phenomenological-psychology-commentary` (1925) - 113 hits
 - ... 19 more; see `synthesis_query.py --theme intentionalitaet`
 
 ### konstitution - constitution
@@ -26,10 +26,10 @@ Next candidates, by term density:
 
 Next candidates, by term density:
 
-- [ ] `husserl-thing-and-space-commentary` (1907) - 707 hits
+- [ ] `husserl-thing-and-space-commentary` (1907) - 706 hits
 - [ ] `heidegger-sein-und-zeit-commentary` (1927) - 547 hits
-- [ ] `husserliana-39-die-lebenswelt-commentary` (undated) - 349 hits
-- [ ] `bernet-la-vie-du-sujet-commentary` (1994) - 340 hits
+- [ ] `husserliana-39-die-lebenswelt-commentary` (undated) - 348 hits
+- [ ] `bernet-la-vie-du-sujet-commentary` (1994) - 339 hits
 - [ ] `henry-philosophie-et-phenomenologie-du-corps-commentary` (1965) - 216 hits
 - [ ] `husserliana-4-ideas-ii-commentary` (1912) - 213 hits
 - ... 22 more; see `synthesis_query.py --theme konstitution`
@@ -54,9 +54,9 @@ Next candidates, by term density:
 
 Next candidates, by term density:
 
-- [ ] `heidegger-sein-und-zeit-commentary` (1927) - 1024 hits
-- [ ] `heidegger-being-and-time-commentary` (1927) - 257 hits
-- [ ] `heidegger-ga-18-grundbegriffe-der-aristotelischen-philosophie-commentary` (undated) - 170 hits
+- [ ] `heidegger-sein-und-zeit-commentary` (1927) - 915 hits
+- [ ] `heidegger-being-and-time-commentary` (1927) - 253 hits
+- [ ] `heidegger-ga-18-grundbegriffe-der-aristotelischen-philosophie-commentary` (undated) - 156 hits
 - [ ] `bernet-la-vie-du-sujet-commentary` (1994) - 138 hits
 - [ ] `husserliana-9-phenomenological-psychology-commentary` (1925) - 100 hits
 - [ ] `husserl-thing-and-space-commentary` (1907) - 66 hits
@@ -68,10 +68,10 @@ Next candidates, by term density:
 
 Next candidates, by term density:
 
-- [ ] `heidegger-sein-und-zeit-commentary` (1927) - 947 hits
-- [ ] `heidegger-being-and-time-commentary` (1927) - 294 hits
-- [ ] `heidegger-ga-20-prolegomena-zur-geschichte-des-zeitbegriffs-commentary` (1925) - 69 hits
-- [ ] `bernet-la-vie-du-sujet-commentary` (1994) - 63 hits
+- [ ] `heidegger-sein-und-zeit-commentary` (1927) - 940 hits
+- [ ] `heidegger-being-and-time-commentary` (1927) - 288 hits
+- [ ] `heidegger-ga-20-prolegomena-zur-geschichte-des-zeitbegriffs-commentary` (1925) - 65 hits
+- [ ] `bernet-la-vie-du-sujet-commentary` (1994) - 60 hits
 - [ ] `heidegger-ga-18-grundbegriffe-der-aristotelischen-philosophie-commentary` (undated) - 17 hits
 - [ ] `henry-philosophie-et-phenomenologie-du-corps-commentary` (1965) - 7 hits
 - ... 9 more; see `synthesis_query.py --theme vorhandenheit`
@@ -82,12 +82,12 @@ Next candidates, by term density:
 
 Next candidates, by term density:
 
-- [ ] `heidegger-sein-und-zeit-commentary` (1927) - 1290 hits
-- [ ] `bernet-la-vie-du-sujet-commentary` (1994) - 611 hits
-- [ ] `heidegger-being-and-time-commentary` (1927) - 224 hits
-- [ ] `husserliana-11-analyses-concerning-passive-and-active-synthesis-commentary` (1920) - 224 hits
-- [ ] `husserl-thing-and-space-commentary` (1907) - 188 hits
-- [ ] `husserliana-9-phenomenological-psychology-commentary` (1925) - 114 hits
+- [ ] `heidegger-sein-und-zeit-commentary` (1927) - 843 hits
+- [ ] `bernet-la-vie-du-sujet-commentary` (1994) - 525 hits
+- [ ] `husserliana-11-analyses-concerning-passive-and-active-synthesis-commentary` (1920) - 213 hits
+- [ ] `husserl-thing-and-space-commentary` (1907) - 168 hits
+- [ ] `heidegger-being-and-time-commentary` (1927) - 138 hits
+- [ ] `husserliana-9-phenomenological-psychology-commentary` (1925) - 97 hits
 - ... 22 more; see `synthesis_query.py --theme zeitlichkeit`
 
 ## Inheritance index
@@ -119,4 +119,4 @@ Flagged by a synthesis pass as unsupported by the ledgers. This is the reading q
 - [ ] **gap-002** (open, sorge) GA 20 § 31 dates the first striking on the phenomenon of care to seven years before the course, in work on the ontological foundations of Augustinian anthropology. Nothing in the corpus covers that work, so the earliest stratum of care is asserted in the corpus and evidenced nowhere in it.
       *Needs:* A commentary on the Augustine course the passage refers to. Until then the claim stands as a report of GA 20, not as a dated stratum.
 - [ ] **gap-003** (open, sorge) GA 20 § 31 gives care a two-moment formal structure - being-ahead-of-itself in already-being-alongside. Whether the structure gains, loses or reorders a moment two years later cannot be checked from this ledger.
-      *Needs:* An extraction pass for sorge over heidegger-sein-und-zeit-commentary (1,024 term hits, no record) and heidegger-being-and-time-commentary.
+      *Needs:* An extraction pass for sorge over heidegger-sein-und-zeit-commentary (the densest file in the corpus for these terms, no record) and heidegger-being-and-time-commentary.

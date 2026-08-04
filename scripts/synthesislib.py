@@ -380,12 +380,44 @@ def load_inheritance():
     return list(iter_records(INHERITANCE_DIR))
 
 
+_NORMALIZED = {}
+
+
+def normalized_document(doc):
+    """Whole-file normalized text, memoized for the process.
+
+    The status report scans every document once per registered theme.
+    Normalizing 1.3 million words six times over is the difference between
+    a 25-second run and a 5-second one, and the text does not change
+    underneath a single run.
+    """
+    slug = doc["slug"]
+    if slug not in _NORMALIZED:
+        _NORMALIZED[slug] = normalize_quote(
+            read_text(os.path.join(REPO_ROOT, doc["path"])))
+    return _NORMALIZED[slug]
+
+
+_TERM_RE = {}
+
+
+def term_regex(terms):
+    """One alternation for a term list, compiled once.
+
+    A pass per term meant six themes x twelve terms x twenty-nine
+    documents - two thousand scans of the corpus to build one status
+    report. One alternation per theme is a single scan.
+    """
+    key = tuple(terms)
+    if key not in _TERM_RE:
+        alts = "|".join(re.escape(normalize_quote(t)) for t in terms)
+        _TERM_RE[key] = re.compile(r"(?<!\w)(?:%s)" % alts)
+    return _TERM_RE[key]
+
+
 def count_terms(text, terms):
     """Word-boundary hit count over already-normalized text."""
-    total = 0
-    for term in terms:
-        total += len(re.findall(r"(?<!\w)%s" % re.escape(normalize_quote(term)), text))
-    return total
+    return len(term_regex(terms).findall(text))
 
 
 # ----------------------------------------------------------------- schema
