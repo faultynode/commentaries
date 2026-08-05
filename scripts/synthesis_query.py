@@ -22,6 +22,7 @@ incremental rather than repeated.
 """
 
 import argparse
+import os
 import sys
 
 import synthesislib as lib
@@ -73,7 +74,7 @@ def main(argv):
             continue
         if args.author and doc["author"] != args.author:
             continue
-        text = lib.read_text(lib.os.path.join(lib.REPO_ROOT, doc["path"])).split("\n")
+        text = lib.read_text(os.path.join(lib.REPO_ROOT, doc["path"])).split("\n")
         doc_hits = 0
         for sec in doc["sections"]:
             body = lib.normalize_quote(
