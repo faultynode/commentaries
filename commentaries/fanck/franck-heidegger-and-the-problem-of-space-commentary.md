@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Franck, Heidegger and the Problem of Space
+wordpress_id: 401
 ---
 
 # **Didier Franck, *Heidegger and the Problem of Space* (1986)**
@@ -200,4 +201,3 @@ From this Franck rebuilds the aporia of paragraph 6 in the register of dispersio
 Franck closes the chapter by converting the whole analysis into a verdict that points straight at the book's thesis. The thesis of the *originary neutrality of Dasein* poses the *problem of its incarnation*, which the recourse to *transcendental dispersion* is meant to *resolve*. But does the introduction of these two concepts (neutrality and transcendental dispersion) into the existential analytic not gravely *perturb its internal equilibrium*? Does it not *withdraw Dasein from the difference of the proper and the improper*? Does it not entail that *the being we are cannot incarnate itself without excepting itself from its temporal sense* — since *propriety and impropriety are modes of temporalization*? In other words: if incarnation is grounded in a *neutral* transcendental dispersion that lies *beneath* the proper/improper distinction, then the embodied being slips out of the very framework (the modes of temporalization) by which *Sein und Zeit* claimed to account for every existential structure.
 
 And Franck makes the closing analogy explicit. Is this *exception* not *analogous, even identical*, to that of *spatiality* — which *every dispersion*, and the very word *dis-persion*, *implies* — *spatiality that we know to be irreducible to temporality*? Is it not, he asks, *already manifest* that the questions and aporias raised by *flesh and space* lead to the very *limits of the conceptuality* whose resources *Sein und Zeit* deploys *in the service of the over-power (surpuissance) of time*? The chapter thus ends by aligning the body with space as the two phenomena that strain Heidegger's temporal framework to its breaking point — preparing the next chapter's turn to "The Hand and the World."
-

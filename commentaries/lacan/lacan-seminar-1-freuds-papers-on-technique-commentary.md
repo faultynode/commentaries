@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Lacan, Seminar I — Freud's Papers on Technique
+wordpress_id: 417
 ---
 
 # *The Seminar, Book I: Freud's Papers on Technique* (1953–1954)
@@ -2996,4 +2997,3 @@ The seminar closes, fittingly, with the distribution of elephant figurines — a
 ---
 
 **End of commentary.**
-

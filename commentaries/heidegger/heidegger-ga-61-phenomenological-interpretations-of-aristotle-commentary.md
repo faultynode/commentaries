@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Heidegger, GA 61 — Phenomenological Interpretations of Aristotle
+wordpress_id: 404
 ---
 
 # **Phenomenological Interpretations of Aristotle: Introduction to Phenomenological Research**
@@ -610,4 +611,3 @@ The editors, Walter Bröcker and Käte Bröcker-Oltmanns, explain the provenance
 Heidegger's manuscript comprises three components: first, a lecture text designated by him as "Introduction"; second, a bundle titled "Presupposition"; and third, a number of unnumbered loose pages, some showing that Heidegger attempted after the lecture to make a book from the manuscript. It cannot be clearly determined what was written before and what after the delivery of the lecture.
 
 The lecture manuscript stands on 43 quarto sheets written in landscape format. On the left stands the main text and to its right, mostly in multiple columns, additions that were presumably partly written after the delivery. The structuring of the texts, the corresponding table of contents, and the headings come from the editors unless otherwise noted. Heidegger's emphasis-markings by underlining served only for oral delivery; he directed that they not be observed for print.
-

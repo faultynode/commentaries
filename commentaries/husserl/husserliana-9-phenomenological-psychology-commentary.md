@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Husserl, Hua 9 — Phenomenological Psychology
+wordpress_id: 414
 ---
 
 # ***Phenomenological Psychology: Lectures, Summer Semester 1925*** **(Husserliana IX)**
@@ -1700,4 +1701,3 @@ The lectures are also remarkable for the *systematic articulation* of the field 
 The Ergänzende Texte (the three EB drafts, the Amsterdam Lectures, and the 32 Beilagen) extend the systematic part with: focused historical analyses (Beilagen I–II); methodological clarifications of the relation between psychological and transcendental phenomenology (the EB drafts, Amsterdam Lectures, Beilagen XXI); deepenings of particular structural analyses (Beilagen on intentionality, synthesis, monad, empathy, time); and forward-pointers to work yet to come (Beilage XXII on rational psychology, Beilage XXXII on genetic phenomenology). Taken together, the volume offers a *more complete* picture of the mature Husserlian phenomenology than any other single Husserliana volume — a picture in which the *psychological* gateway is foregrounded as the *propaedeutic* path to the *transcendental* foundation.
 
 With this, the paragraph-by-paragraph commentary on Hua IX is complete.
-

@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Derrida, Introduction à L'Origine de la géométrie
+wordpress_id: 399
 ---
 
 # **Jacques Derrida, *Introduction* to Husserl's *L'Origine de la géométrie***
@@ -564,4 +565,3 @@ The Introduction ends by binding *Difference* to the *transcendental* itself —
 ---
 
 *Commentary complete: the Introduction has been covered paragraph by paragraph from the opening through the close of section XI (July 1961), comprising the untitled opening (¶¶1–5) and sections I–XI (¶¶6–269). Derrida's substantive footnotes have been incorporated inline at the paragraphs they annotate; his translation decisions (Rückfrage, Stiftung/Endstiftung, Leib/Körper, Geistigkeit, Vergegenwärtigung, Selbstbesinnung, Verantwortung, relever for aufheben, clôture, frappe, Bodenkörper, Wechselspiel, the genitival "de," Difference, retard, à venir) have been tracked throughout; and the systematic anticipations of La voix et le phénomène and of the later thought of writing, the trace, iterability, the pharmakon, the supplement, the closure of metaphysics, and différance have been flagged at their points of emergence.*
-

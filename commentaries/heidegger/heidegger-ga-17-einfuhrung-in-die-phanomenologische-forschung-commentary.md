@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Heidegger, GA 17 — Einführung in die phänomenologische Forschung
+wordpress_id: 402
 ---
 
 # **Commentary on Heidegger, *Einführung in die phänomenologische Forschung* (GA 17\)**

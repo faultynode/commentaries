@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Kern, Husserl and Kant
+wordpress_id: 416
 ---
 
 # Iso Kern, *Husserl and Kant: An Investigation of Husserl's Relationship to Kant and to Neo-Kantianism* (1964)
@@ -438,4 +439,3 @@ Husserl's implicit rejection of Rickert's distinction between the formational le
 Husserl's middle position between Kant and Rickert is presented: like Kant and unlike Rickert, Husserl grounds the a priori of the sciences in the constituting achievements of transcendental subjectivity; but like Rickert and unlike Kant, he acknowledges the fundamental distinctness of natural-scientific and human-scientific methodology.
 
 The section and the book conclude with Husserl's charge that scientific methodological ideas can be gained philosophically only through the return to full, concrete experience — phenomenology as "life-philosophy" — and that the structures of the life-world form the basis for the cognitive goals of the positive sciences. Rickert's "pseudo-deductions" are criticized, his naturalism exposed, and a final appeal to Kant's transcendental deduction is made: Rickert's procedure is called "a formalistic externalization of the Kantian thoughts of a transcendental deduction."
-

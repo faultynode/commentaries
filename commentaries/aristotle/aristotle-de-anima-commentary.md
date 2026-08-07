@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Aristotle, De Anima
+wordpress_id: 397
 ---
 
 # Aristoteles Περὶ ψυχῆς
@@ -494,4 +495,3 @@ The primary sense-organ is that in which such a capacity resides. The organ and 
 It is also clear why plants do not perceive, even though they have a part of soul and are affected by tangible things — they become cold and hot, after all. The reason is that they have no mean, and no principle of the kind that can receive the forms of perceptible objects. They are affected, but together with the matter.
 
 One might puzzle about whether something that cannot smell can be affected by odor, or something that cannot see can be affected by color, and so for the other senses. If the object of smell is odor, then what odor produces, if anything, is smelling, and so what is incapable of smelling cannot be affected by odor — and the same reasoning applies to the others. Nor can perceivers be affected except insofar as each is a perceiver. This becomes clear from the following as well. Neither light nor darkness, neither sound nor silence, affect bodies at all — rather, the things in which they are present do so. It is the air that comes with the thunder that splits the wood. But the tangible qualities and flavors do affect bodies. Otherwise, what would affect soulless things and alter them? Will the other perceptible qualities do so too? Or does not every body admit of being affected by odor and sound? And those that are affected are indeterminate and shifting things — like air, for air becomes odorous, as if affected. What then is smelling, beyond being affected? Smelling is also perceiving, whereas the air, when affected, quickly becomes something perceptible.
-

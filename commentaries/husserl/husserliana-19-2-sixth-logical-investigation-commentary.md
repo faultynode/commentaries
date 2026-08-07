@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Husserl, Hua 19/2 — Sixth Logical Investigation
+wordpress_id: 408
 ---
 
 # ***Logical Investigations*****, Investigation VI: *Elements of a Phenomenological Elucidation of Knowledge***
@@ -1130,4 +1131,3 @@ Accordingly, under "expressed acts" there can be meant: (1) the *significative* 
 The ground of all the difficulty lies, however, in this: that in the *direct* application of the expressions (or expressing acts) to the intuitively-grasped *inner experiences*, the significative acts are *completely fulfilled* through the inner intuitions belonging to them — hence the two are most intimately *fused* — while at the same time the intuitions, as *inner* ones, go up in the *simple presentation* of the meant acts.
 
 Finally Husserl notes that the difference brought against Bolzano above — whether only the *subjective* objection (bearing on truthfulness or adequacy of the expression) can be made, or also the *factual* objection (which goes upon objective truth and falsehood) — exactly seen does *not* essentially hang together with the question here disputed. For it concerns quite generally the difference between expressions that refer to the own, intuitively-grasped act-experiences, and such as do not. But of the former, many are quite *undisputed predications* — so all statements of the form *I ask whether* …, *I command or wish that* …, and the like. And, well to note: even with the so-formulated *subjective* judgments no *factual* objection can be made. They are indeed true or false, but *truth* here *coincides with truthfulness*. With other statements, which go upon "objective" (i.e. not upon the self-pronouncing subject and its experiences), the *factual* question concerns the meaning; the question of *truthfulness*, however, hangs together with the possibility of *apparent* stating, where the proper and normal act of meaning is lacking — it is not judged at all, but the statement-meaning is *presented* in the context of a deception-intention.
-

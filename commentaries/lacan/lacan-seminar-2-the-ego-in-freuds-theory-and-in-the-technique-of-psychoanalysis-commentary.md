@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Lacan, Seminar II — The Ego in Freud's Theory and in the Technique of Psychoanalysis
+wordpress_id: 419
 ---
 
 # **Lacan, *Seminar II: The Ego in Freud's Theory and in the Technique of Psychoanalysis* (1954–1955)**
@@ -456,4 +457,3 @@ This commentary covers the opening movement of *Seminar II*: the two-session **I
 Read together, these seven sessions accomplish a single sustained argument. They establish the seminar's central distinction between the imaginary ego (*moi*) and the subject of the unconscious (*je*); they relocate the analytic concept of the ego as an *object* with an imaginary function rather than as the seat of the subject; they install the tripartite framework of symbolic, imaginary, and real; they read Freud's 1920 metapsychological turn as the recovery of the decentering of the subject against the regressive pull of ego psychology; and they reconstruct the death instinct and the compulsion to repetition not as biological speculation but as the insistence of the symbolic order — the discourse of the Other — which has its own laws and runs its own circuit independent of the subject's lived experience and adaptive needs. The recurrent interlocutors (Hyppolite, Mannoni, Leclaire, Pontalis, Riguet) and the recurrent reference points (the *Meno*, Lévi-Strauss, Hegel, the cybernetic machine, Condillac, energetics and information theory) are the materials through which this argument is built.
 
 The commentary throughout reconstructs Lacan's reasoning and situates it within the development of his thought; it is intended as a reader's companion and does not substitute for the seminar itself, which should be consulted directly (Jacques Lacan, *Le Séminaire, Livre II: Le moi dans la théorie de Freud et dans la technique de la psychanalyse*, texte établi par Jacques-Alain Miller, Éditions du Seuil, 1978; English translation by Sylvana Tomaselli, Cambridge University Press / Norton, 1988).
-

@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Husserl, Hua 3 — Ideas I, Parts 3–4
+wordpress_id: 410
 ---
 
 [Ideen I, Parts 1 & 2 Commentary](https://docs.google.com/document/d/1I-_VJk0alpXGnt8KvvAAQX4PiNZQWGek-1KSCfwmk-w/edit?usp=sharing)
@@ -1496,4 +1497,3 @@ This completes the paragraph-by-paragraph commentary on the main text of Husserl
 The book's architecture, in retrospect: the **First Part** secured the eidetic method and the absolute givenness of essences, against naturalism. The **Second Part** carried out the phenomenological reductions, winning pure consciousness as the absolute being-region and the "transcendental residuum," with the great theses on intentionality, the absolute being of consciousness over against the merely-presumptive being of the world, and the pure ego. The **Third Part** developed the systematic doctrine of method and the central structures: the *hyle/morphe* distinction, the **noesis–noema** correlation, the noematic sense and its characters, the **doxic modalities** and the **Urdoxa**, the **neutrality-modification**, the syntheses and nominalization, and the *Logos*\-layer of expression (*Sinn* and *Bedeutung*). The **Fourth Part**, "Reason and Actuality," brought the whole to its goal: the noematic sense and the **determinable X**, the theory of **reason** and **evidence** (originary givenness as the ground of right; adequate vs. inadequate; assertoric vs. apodictic), the equivalence of **truly-being** with perfect adequate givability, the **thing as a Kantian Idea**, and finally the doctrine of **constitution** — region by region, culminating in the identity of constitutive phenomenology, the phenomenology of reason, and phenomenology as such.
 
 Throughout, the guiding correlation has held: object and consciousness, noema and noesis, being and the possible evidence in which it gives itself — the a priori correlation that is the master-theme of transcendental phenomenology, and that Husserl would continue to unfold in *Ideen II*, the *Cartesian Meditations*, *Formal and Transcendental Logic*, and the *Krisis*.
-

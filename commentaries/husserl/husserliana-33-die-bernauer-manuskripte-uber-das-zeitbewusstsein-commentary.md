@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Husserl, Hua 33 — Die Bernauer Manuskripte über das Zeitbewußtsein
+wordpress_id: 411
 ---
 
 # Hua 33 \- *Die Bernauer Manuskripte über das Zeitbewußtsein (1917/18)*
@@ -966,4 +967,3 @@ The evidence that pastness was past present says that a "transposition" into the
 ---
 
 **Note on the remainder of the volume.** After Supplement XXII, Husserliana XXXIII contains a "Text-Critical Appendix" (*Textkritischer Anhang*, pp. 391–457), which comprises (a) an overview of the manuscript origins (*Zur Textgestaltung*) and (b) detailed text-critical notes (*Textkritische Anmerkungen*) for each of the 22 texts and 22 supplements, identifying the manuscript sources (the L I and L II series in the Husserl Archive), pagination, Husserl's own marginal notes and cross-references, Edith Stein's transcriptions, Eugen Fink's editorial marks, and other philological matters. This apparatus is followed by a Name Index (*Namenregister*) and a Table of Original Pages (*Nachweis der Originalseiten*). These materials are of interest primarily to editors and archivists and do not contain philosophical argumentation requiring commentary.
-
