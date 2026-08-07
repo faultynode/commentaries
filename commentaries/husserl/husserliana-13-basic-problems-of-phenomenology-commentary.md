@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Husserl, Hua 13 — Basic Problems of Phenomenology (B)
+title: Husserl, Hua 13 — Basic Problems of Phenomenology
 ---
 
 # ***Basic Problems of Phenomenology*** **(Winter Semester 1910/11)**

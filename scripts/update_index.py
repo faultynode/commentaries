@@ -19,7 +19,7 @@ def build_list():
     for path in sorted(glob.glob(os.path.join(COMMENTARIES_DIR, "*", "*.md"))):
         post = frontmatter.load(path)
         title = post.get("title", os.path.splitext(os.path.basename(path))[0])
-        href = os.path.splitext(path)[0].replace(" ", "%20") + ".html"
+        href = os.path.splitext(path)[0].replace(os.sep, "/").replace(" ", "%20") + ".html"
         author = os.path.basename(os.path.dirname(path))
         groups.setdefault(author, []).append((title, href))
 
@@ -44,7 +44,7 @@ def main():
 
     updated = re.sub(
         r'<div class="commentary-groups">.*?</div>',
-        build_list(),
+        lambda m: build_list(),
         text,
         count=1,
         flags=re.DOTALL,
