@@ -22,8 +22,9 @@ responses discussing these files, and for commit messages.
 **Ordering differs by context, and the difference is deliberate:**
 
 - **In commentary body text, English leads.**
-  [prompts/commentary-prompt](../prompts/commentary-prompt) §"Original-language
-  terms and quotations" governs and is stricter than a bare
+  [commentary-prompt](https://github.com/faultynode/prompts/blob/main/content-generation/commentary-prompt.md)
+  (in the separate [faultynode/prompts](https://github.com/faultynode/prompts)
+  repo) §"Original-language terms and quotations" governs and is stricter than a bare
   translate-everything rule: cite the source word *in parentheses after*
   its English equivalent, never as the inline subject; retain the
   original only for a short fixed glossary of genuinely untranslatable
@@ -57,8 +58,10 @@ In both contexts:
 ## Filename convention
 
 `<author-last-name>-<title-slug>-commentary.md`, using the same
-lowercase/hyphen slug rules as [prompts/filename-prompt.md](../prompts/filename-prompt.md)
-(the source-file naming prompt, originally written for this repo's
+lowercase/hyphen slug rules as
+[filename-prompt.md](https://github.com/faultynode/prompts/blob/main/repo-maintenance/filename-prompt.md)
+in the separate [faultynode/prompts](https://github.com/faultynode/prompts)
+repo (the source-file naming prompt, originally written for this repo's
 now-removed `sources/` folder — that folder's content moved to the
 separate [faultynode/sources](https://github.com/faultynode/sources)
 repository, but the naming prompt still applies here) — transliterate
@@ -76,8 +79,8 @@ vs. `husserl-hua-3-1-ideen-i-...md` in faultynode/sources).
 it.** Husserliana volumes are slugged
 `husserliana-<volume>-<title-slug>-commentary.md`, Gesamtausgabe
 volumes `heidegger-ga-<volume>-<title-slug>-commentary.md`. Per
-[filename-prompt.md](../prompts/filename-prompt.md) §Process step 4,
-never supply a volume number from outside knowledge — only from the
+[filename-prompt.md](https://github.com/faultynode/prompts/blob/main/repo-maintenance/filename-prompt.md)
+§Process step 4, never supply a volume number from outside knowledge — only from the
 file's own text. Six Husserl commentaries therefore keep the plain
 `husserl-<title>-commentary.md` form: `erfahrung-und-urteil` (not a
 Husserliana volume at all), and `krisis`, `natur-und-geist`,

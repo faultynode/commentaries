@@ -46,7 +46,7 @@ only if you want to read them before pushing.
 ## P1 · Run an extraction pass
 
 Stage 1. One commentary, one theme. Prompt:
-[extraction-prompt.md](../prompts/extraction-prompt.md).
+[extraction-prompt.md](https://github.com/faultynode/prompts/blob/main/synthesis-pipeline/extraction-prompt.md).
 
 1. **Pick the target.** `synthesis/STATUS.md` §Themes lists candidates
    ranked by term density. Prefer a dated commentary over an undated one:
@@ -89,7 +89,7 @@ that silently thins out is not.
 
 ## P2 · Run an inheritance pass
 
-Stage 3, prompt [inheritance-prompt.md](../prompts/inheritance-prompt.md).
+Stage 3, prompt [inheritance-prompt.md](https://github.com/faultynode/prompts/blob/main/synthesis-pipeline/inheritance-prompt.md).
 Same procedure as P1, but retrieval keys on predecessor names rather than
 a theme:
 
@@ -102,7 +102,7 @@ commentary, covering all predecessors — not one per predecessor.
 
 ## P3 · Run a synthesis pass
 
-Stage 4, prompt [synthesis-prompt.md](../prompts/synthesis-prompt.md).
+Stage 4, prompt [synthesis-prompt.md](https://github.com/faultynode/prompts/blob/main/synthesis-pipeline/synthesis-prompt.md).
 
 1. Rebuild the ledgers so you are writing against current records:
 

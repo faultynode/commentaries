@@ -6,5 +6,4 @@
 exclude:
   - synthesis/
   - scripts/
-  - prompts/
   - docs/

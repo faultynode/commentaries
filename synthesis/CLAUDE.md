@@ -48,7 +48,7 @@ Everything below is downstream of keeping that check meaningful.
    the commentaries state. If a date must come from elsewhere, set
    `stated_in_commentary: false` and put the source in `evidence` — the
    validator requires it. Same rule, same reason as
-   [filename-prompt.md](../prompts/filename-prompt.md) §Process step 4.
+   [filename-prompt.md](https://github.com/faultynode/prompts/blob/main/repo-maintenance/filename-prompt.md) §Process step 4.
 7. **Declare `coverage` honestly.** `partial` plus a `coverage_note` is
    always available and keeps the record in the queue. Overstated
    coverage is the one failure the validator cannot catch.
@@ -94,9 +94,11 @@ holds the data.
     outputs/             Stage 4 drafts. Not published.
     STATUS.md            Generated. The queue for the next pass.
 
-Prompts live in [`prompts/`](../prompts): extraction (Stage 1),
-inheritance (Stage 3), synthesis (Stage 4). Stage 2 is a script and has
-no prompt, because it needs no judgement.
+Prompts live in the separate
+[faultynode/prompts](https://github.com/faultynode/prompts) repo, under
+`synthesis-pipeline/`: extraction (Stage 1), inheritance (Stage 3),
+synthesis (Stage 4). Stage 2 is a script and has no prompt, because it
+needs no judgement.
 
 ## Gotchas
 
