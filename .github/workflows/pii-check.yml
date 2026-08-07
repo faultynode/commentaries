@@ -1,0 +1,25 @@
+name: PII check
+
+on: [push, pull_request]
+
+jobs:
+  check:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Scan pushed commits for personal info / secrets
+        run: |
+          if [ "${{ github.event_name }}" = "pull_request" ]; then
+            python3 scripts/check_pii.py "${{ github.event.pull_request.base.sha }}..${{ github.event.pull_request.head.sha }}"
+          elif [ "${{ github.event.before }}" = "0000000000000000000000000000000000000000" ]; then
+            python3 scripts/check_pii.py "${{ github.sha }}" --not --remotes=origin
+          else
+            python3 scripts/check_pii.py "${{ github.event.before }}..${{ github.sha }}"
+          fi
