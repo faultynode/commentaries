@@ -34,6 +34,24 @@ FORM
 - Citation convention: [YOUR CONVENTION]
 - Length: [N] words.
 
+OUTPUT FILE
+- Save the finished article to articles/<slug>-article.md — the
+  top-level articles/ folder, not under commentaries/. Articles are
+  a separate category from the per-author commentaries.
+- Slug: <topic>-article, using the same slugging rules as
+  prompts/filename-prompt.md (lowercase, hyphens, transliterated
+  diacritics, punctuation dropped rather than hyphenated, subtitle
+  dropped after a colon or dash) — e.g.
+  heidegger-husserl-intentionality-article.md.
+- Frontmatter, before the title heading:
+  ---
+  layout: default
+  title: <human-readable title>
+  ---
+  Quote the title in YAML (single quotes, doubling any internal
+  apostrophe) if it contains a colon — e.g. title: 'Intentionality
+  Objectivated: Heidegger''s Terminological Inheritance, 1921–1927'.
+
 RESEARCH REGISTER (append after the article)
 1. Works and passages actually used, grouped by text.
 2. Desiderata: what's missing, and what each would settle.
