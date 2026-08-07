@@ -1,15 +1,9 @@
 {
   "permissions": {
     "allow": [
-      "Bash(git -C \"c:\\\\Users\\\\mbroc\\\\iCloudDrive\\\\Documents\\(1\\)\\\\Code\\\\commentaries\" status)",
-      "Bash(git -C \"c:\\\\Users\\\\mbroc\\\\iCloudDrive\\\\Documents\\(1\\)\\\\Code\\\\commentaries\" diff --cached)",
-      "Bash(git -C 'c:\\\\Users\\\\mbroc\\\\iCloudDrive\\\\Documents\\(1\\)\\\\Code\\\\commentaries' commit -m ' *)",
-      "Bash(git -C \"c:\\\\Users\\\\mbroc\\\\iCloudDrive\\\\Documents\\(1\\)\\\\Code\\\\commentaries\" push)",
-      "Bash(git commit -m ' *)",
       "Bash(git mv *)",
       "Bash(sort -k6,7)",
       "Bash(git remote *)",
-      "Read(//c/Users/mbroc/iCloudDrive/Documents\\\\\\(1\\\\\\)/Code/**)",
       "Bash(gh repo *)",
       "PowerShell(gh repo list faultynode --limit 50)",
       "Bash(git ls-remote *)",
@@ -21,7 +15,6 @@
       "Bash(git subtree *)",
       "Bash(git branch *)",
       "Bash(python3 -c ' *)",
-      "Read(//c/Users/mbroc/iCloudDrive/Documents\\\\\\(1\\\\\\)/Code/sources/**)",
       "Bash(git -C \"../sources\" log --oneline -5)",
       "Bash(gh api *)",
       "PowerShell(gh api repos/zelestcarlyone/stacks 2>&1)",
@@ -40,10 +33,6 @@
       "PowerShell(Get-WindowsOptionalFeature -Online -FeatureName VirtualMachinePlatform)",
       "PowerShell(wsl --status)",
       "PowerShell(Start-Process \"C:\\\\Program Files\\\\Docker\\\\Docker\\\\Docker Desktop.exe\")",
-      "Bash(find \"c:/Users/mbroc/iCloudDrive/Documents\\(1\\)/Code\" -maxdepth 1 -iname \"*.code-workspace\" 2>/dev/null)",
-      "Bash(ls \"/c/Users/mbroc/AppData/Local/Programs/Python/Python313/\" | head -20; echo \"---\"; ls \"/c/Users/mbroc/AppData/Local/Programs/Python/Python313/Scripts\" | head -20)",
-      "Read(//c/Users/mbroc/AppData/Local/Programs/Python/Python313//**)",
-      "Read(//c/Users/mbroc/AppData/Local/Programs/Python/Python313/Scripts/**)",
       "Bash(python -c ' *)",
       "Bash(python -c \"import locale, sys; print\\('preferred:', locale.getpreferredencoding\\(False\\)\\); print\\('stdout:', sys.stdout.encoding\\); print\\('fs:', sys.getfilesystemencoding\\(\\)\\)\")",
       "Bash(python tests/test_harvest.py)",
@@ -69,11 +58,7 @@
       "Bash(python scripts/seed_from_bibliography.py --file /tmp/husserl.html --slug husserl)",
       "Bash(grep -n -B3 \"New Husserl: A Critical Reader\" /tmp/husserl.html)",
       "Bash(grep -n -B5 \"New Husserl\" /tmp/husserl.html)",
-      "Bash(rm -rf build/seed-drafts)",
-      "Bash(head -1 /tmp/out.txt; echo \"---\"; grep -c '^_review' -r \"/c/Users/mbroc/iCloudDrive/Documents\\(1\\)/Code/indexes/build/seed-drafts/husserl\" | grep ':1' | wc -l)"
-    ],
-    "additionalDirectories": [
-      "c:\\Users\\mbroc\\iCloudDrive\\Documents(1)\\Code"
+      "Bash(rm -rf build/seed-drafts)"
     ]
   }
 }

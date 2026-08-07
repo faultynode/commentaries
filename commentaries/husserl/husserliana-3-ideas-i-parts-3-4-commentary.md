@@ -4,8 +4,6 @@ title: Husserl, Hua 3 — Ideas I, Parts 3–4
 wordpress_id: 410
 ---
 
-[Ideen I, Parts 1 & 2 Commentary](https://docs.google.com/document/d/1I-_VJk0alpXGnt8KvvAAQX4PiNZQWGek-1KSCfwmk-w/edit?usp=sharing)
-
 # Third Part: Concerning the Methodology and Problematic of Pure Phenomenology
 
 ## **First Chapter: Methodological Preliminary Considerations**
