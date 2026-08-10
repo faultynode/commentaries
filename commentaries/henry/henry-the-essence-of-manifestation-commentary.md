@@ -1,3 +1,7 @@
+---
+wordpress_id: 442
+---
+
 # Michel Henry, *L'essence de la manifestation*
 
 # Introduction. The problem of the being of the ego and the fundamental presuppositions of ontology
