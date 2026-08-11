@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Heidegger, GA 3 — Kant und das Problem der Metaphysik
+wordpress_id: 443
 ---
 
 # **Commentary on Heidegger, *Kant und das Problem der Metaphysik* (GA 3)**
