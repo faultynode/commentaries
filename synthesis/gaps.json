@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "_comment": "The reading queue. Stage 4 appends here instead of filling a gap with a plausible sentence; scripts/synthesis_status.py renders the open ones. The three below were raised by the seed extraction passes on GA 19 and GA 20.",
+  "_comment": "The reading queue. Stage 4 appends here instead of filling a gap with a plausible sentence; scripts/synthesis_status.py renders the open ones. gap-001 to gap-003 were raised by the seed extraction passes on GA 19 and GA 20; gap-004 to gap-006 by the first Stage 4 pass.",
   "gaps": [
     {
       "id": "gap-001",
@@ -24,6 +24,33 @@
       "theme": "sorge",
       "question": "GA 20 § 31 gives care a two-moment formal structure - being-ahead-of-itself in already-being-alongside. Whether the structure gains, loses or reorders a moment two years later cannot be checked from this ledger.",
       "needs": "An extraction pass for sorge over heidegger-sein-und-zeit-commentary (the densest file in the corpus for these terms, no record) and heidegger-being-and-time-commentary.",
+      "status": "open"
+    },
+    {
+      "id": "gap-004",
+      "opened": "2026-08-04",
+      "theme": "sorge",
+      "question": "GA 19's commentary contains one occurrence of Sorge, in its own glossary, and three checked absences at the phronesis and eudaimonia sections - where the argument runs in the vocabulary of aletheuein and praxis. Whether that near-absence belongs to the course or to the commentary's rendering cannot be told from the ledger: the extraction checked German terms, and an English-language commentary may render a German term of art into ordinary English without flagging it.",
+      "needs": "A second extraction pass over GA 19 keyed to the structure rather than the word - places where a being is said to be one for which its own being is at issue - so that a structural presence can be distinguished from a terminological absence.",
+      "raised_by": "synthesis/outputs/sorge-concept-trace.md",
+      "status": "open"
+    },
+    {
+      "id": "gap-005",
+      "opened": "2026-08-04",
+      "theme": "sorge",
+      "question": "sorge/ga20/005 is recorded as 'revised': concern is subordinated to care, having carried the earlier analysis of everyday commerce with the world. The ledger holds no unit for that earlier use, because the GA 20 pass covered Chapter Four only. A revision with no baseline in the ledger is an unsupported claim about a development.",
+      "needs": "Extraction of GA 20 §§ 19-26, where the earlier use of Besorgen would be recorded. Until then the 'revised' status rests on the commentary's own retrospective phrasing rather than on two dated units.",
+      "raised_by": "synthesis/outputs/sorge-concept-trace.md",
+      "status": "open"
+    },
+    {
+      "id": "gap-006",
+      "opened": "2026-08-04",
+      "theme": "sorge",
+      "question": "The GA 20 § 35 absence - conscience and being-guilty treated without the vocabulary of care, next to a death analysis in § 34 that uses it - is either a fact about the course or an artifact of a commentary section that runs to 358 words. The extraction record flags the ambiguity and cannot resolve it.",
+      "needs": "Either a fuller commentary on GA 20 §§ 33-36, or a note in the existing commentary recording whether the course itself drops the term there. This is the general case of a checked absence in a compressed section, and worth settling once as a rule.",
+      "raised_by": "synthesis/outputs/sorge-concept-trace.md",
       "status": "open"
     }
   ]

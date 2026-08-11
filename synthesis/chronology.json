@@ -492,13 +492,6 @@
           "evidence": "The dates in the file (1805, 1929) belong to Hegel and to Heidegger's inaugural lecture, not to Picht's course."
         }
       ]
-    },
-    {
-      "commentary": "heidegger-husserl-intentionality-article",
-      "role": "output",
-      "status": "unresolved",
-      "note": "Not a commentary. This is a Stage 4 article, written against the corpus before this pipeline existed, and it is the model for what Stage 4 should produce - note its citation preamble, which already does by hand what the locator scheme now does mechanically. Excluded from ledgers by role: feeding a synthesis output back in as evidence is how a corpus starts citing itself.",
-      "strata": []
     }
   ]
 }
