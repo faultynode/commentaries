@@ -16,7 +16,7 @@ The argument of the book, stated once so the reader can hold the arc. The *Criti
 
 Certain misreadings dog this text, and the commentary guards against them throughout. The book is not Kant philology and does not claim to be; Heidegger concedes the charge of violence in the preface to the second edition and grants that historical philology is right every time it presses the charge against a thinking dialogue. Finitude (*Endlichkeit*) is not a defect measured against an infinite intellect but the positive constitution of human knowing, and the whole reading collapses if it is heard as a lament. Ontological knowledge is not knowledge of some higher class of beings, and transcendence is not a passage across to a transcendent object; both name the prior projection of the being of beings within which any object can be met. The transcendental imagination is not a third faculty added to two others, and "root" is not a cause producing effects — Heidegger's claim is that intuition and thinking are *stems* of one root, so that neither is intelligible on its own. A schema is not an image and not a generic picture; the schema-image is introduced precisely to keep the two apart. Time as pure self-affection is not introspection and not the inner sense of empirical psychology, and the self is not first given and then found to be temporal. Finally, the metaphysics of Dasein is not a philosophical anthropology, and the Fourth Section is a sustained argument that the question "what is the human being?" cannot be posed anthropologically at all.
 
-## **Einleitung: Das Thema der Untersuchung und seine Gliederung**
+## **Introduction: The Theme of the Investigation and Its Articulation**
 
 The investigation sets itself the task of interpreting the *Critique of Pure Reason* as a laying of the ground of metaphysics, in order to set the problem of metaphysics before us as the problem of a fundamental ontology. Two theses are packed into one sentence, and their order matters: the Kant interpretation is the means, the exhibition of fundamental ontology the end. Kant's text is not the subject matter but the medium in which a systematic claim is to be made visible.
 
@@ -38,11 +38,11 @@ The interpretation must accordingly bring four things to light: the laying of th
 
 The body of the book carries a title of its own, standing over all four Sections: the laying out of the idea of a fundamental ontology by way of the interpretation of the *Critique of Pure Reason* as a laying of the ground of metaphysics. The Sections are subordinate to that one heading, and the reader who forgets it will take the four Sections for four topics rather than four passes at one.
 
-## **Erster Abschnitt: Die Grundlegung der Metaphysik im Ansatz**
+## **First Section: The Laying of the Ground of Metaphysics in Its Starting Point**
 
 Exhibiting Kant's starting point amounts to answering one question: why does the laying of the ground of metaphysics become, for Kant, a critique of pure reason? The answer comes through three subsidiary questions — what concept of metaphysics did Kant find before him, what is the starting point of the laying of its ground, and why is this laying of the ground a critique of pure reason. The three §§ answer them in order.
 
-### **§ 1. Der überlieferte Begriff der Metaphysik**
+### **§ 1. The Traditional Concept of Metaphysics**
 
 The horizon within which Kant saw metaphysics, and within which his own grounding had to begin, is roughly marked by Baumgarten's definition: metaphysics is the science containing the first principles of what human knowing grasps. In the concept of "first principles of human knowledge" lies a peculiar and initially necessary ambiguity — first principles may mean the highest beings from which everything else derives, or the fundamental determinations of anything that is. Baumgarten's division follows: ontology, cosmology, psychology and natural theology belong to metaphysics. Heidegger's marginal gloss sharpens the definition — metaphysics is the first science insofar as it contains the governing grounds of what human knowing *represents* — shifting the accent from what knowing grasps to how it represents, which is the direction the whole book will take.
 
@@ -68,7 +68,7 @@ The second motive concerns metaphysics' manner of knowing and its method. Since 
 
 Kant holds fast to the intention of this metaphysics, and even shifts it more strongly into *metaphysica specialis*, which he calls "metaphysics proper," "metaphysics in its final purpose." But in the face of the constant miscarriage of all attempts in this science, its inconsistency and ineffectiveness, all attempts to extend pure rational knowledge must first be interdicted until the question of the inner possibility of this science is clarified. So arises the task of a laying of the ground in the sense of an essential determination of metaphysics. Kant's critique is thus conservative in aim and revolutionary in effect: he wants what the tradition wanted, and the demand that it first show its possibility is what destroys it.
 
-### **§ 2. Der Ansatz der Grundlegung der überlieferten Metaphysik**
+### **§ 2. The Starting Point of the Laying of the Ground of Traditional Metaphysics**
 
 In metaphysics as the pure rational knowledge of the "universal" in beings and of the respective totality of their principal regions, a "crossing-over" is performed beyond what experience can offer as particular and partial. Crossing over the sensible, this knowledge seeks to grasp the supersensible being. But its procedure has hitherto been "a mere groping, and, what is worst, among mere concepts" (B xv). Metaphysics lacks any binding demonstration of the insights it claims. What gives this metaphysics the inner possibility of being what it wants to be? The crossing-over is registered as a fact about metaphysics before it is analysed; that word, *Überschritt*, will shortly become *Transzendenz*, and the whole book is the analysis of it.
 
@@ -88,7 +88,7 @@ Kant means: not "all knowledge" is ontic, and where ontic knowledge is present i
 
 So the laying of the ground of traditional metaphysics begins with the question of the inner possibility of ontology as such. Why does this laying of the ground become a "critique of pure reason"?
 
-### **§ 3. Die Grundlegung der Metaphysik als „Kritik der reinen Vernunft"**
+### **§ 3. The Laying of the Ground of Metaphysics as "Critique of Pure Reason"**
 
 Kant brings the problem of the possibility of ontology to the question: how are synthetic judgments a priori possible? Interpreting this problem-formula explains why the laying of the ground of metaphysics is carried out as a critique of pure reason. The question of the possibility of ontological knowledge requires a preliminary characterization of that knowledge, and Kant, in accordance with the tradition, grasps knowing as judging. That inherited equation of knowing with judging is registered without protest here; the book will end by dismantling it, since the whole doctrine of the imagination shows that judgment is not the seat of ontological knowledge.
 
@@ -118,7 +118,7 @@ The laying of the ground must rather trace the a priori synthesis back within it
 
 So arises the task of showing how this development of the possibility of ontology out of its germs is carried out.
 
-## **Zweiter Abschnitt: Die Grundlegung der Metaphysik in der Durchführung**
+## **Second Section: The Laying of the Ground of Metaphysics in Its Execution**
 
 Before the inner possibility of ontological knowledge can be projected, a survey must already have opened onto the dimension of the regress to the bearing ground. It is the necessary fate of every genuine break-in to a hitherto concealed field that the field determines itself only gradually; the direction of access consolidates, and the way becomes passable, only in the course of the advance. So even where the first break-in remains guided by the security and unerring directive force of creative disclosing, an explicit systematic clearing and marking-out of the field is at first lacking. "Critiques require knowledge of the sources, and reason must know itself" — yet Kant works out this more original self-knowledge of reason only through the *Critique*. What Kant lacked is not insight but a map; and the excuse Heidegger offers him here is the same one he will withdraw in the Third Section, where the failure to follow the root is no longer a matter of missing cartography.
 
@@ -126,13 +126,13 @@ The interpretation that comes after, by contrast, is neither yet nor any longer 
 
 The Section accordingly falls into two parts: the characterization of the dimension of regress, and the stages of the execution of the projection of the inner possibility of ontology.
 
-### **A. Die Kennzeichnung der Rückgangsdimension für die Durchführung der Grundlegung der Metaphysik**
+### **A. The Characterization of the Dimension of Regress for the Execution of the Laying of the Ground of Metaphysics**
 
 The task is the essential determination of ontological knowledge by illuminating its origin out of the germs that make it possible. That requires clarity above all about the essence of knowing as such, and about the place and kind of the field of origin. Precisely this prior and sufficient characterization of the dimension of origin has been unduly neglected or misinterpreted in the interpretation of the *Critique* to date, so that, given the further wavering about the work's intention, no productive appropriation of its basic tendency could succeed. Along with the characterization of the field, the manner of the unveiling of the origin must also be marked out in its peculiarity.
 
-#### **I. Die wesentlichen Charaktere des Ursprungsfeldes**
+#### **I. The Essential Characters of the Field of Origin**
 
-##### **§ 4. Das Wesen der Erkenntnis überhaupt**
+##### **§ 4. The Essence of Knowledge in General**
 
 Kant does not discuss the essential characters of the field of origin explicitly and thematically but takes them up more in the manner of "self-evident presuppositions." All the less may the interpretation overlook the function these positings exercise in advance. A marginal note asks for the point to be developed more sharply by starting from the difference between knowledge as representing and knowledge as knowing, with knowledge as knowing the guiding concept — a sharpening Heidegger carried out only in the 1935/36 lectures on the thing.
 
@@ -154,7 +154,7 @@ The essence of finite human knowledge is elucidated by setting it off against th
 
 The decisive difference would be missed, however, if one said: divine knowing is only intuiting, human knowing is a thinking intuiting. The essential difference lies primarily in the intuiting itself, since knowing is properly intuition. The finitude of human knowledge must accordingly be sought first in the finitude of its own intuition. That a finite knowing being must "also" think is only an essential consequence of the finitude of its intuiting. Only so does the essential serving position of "all thinking" come into the right light. The whole architecture of the book depends on locating finitude in receptivity rather than in discursivity: if finitude lay in thinking, its overcoming would lie in a better intuition, and the transcendental imagination would have no work to do.
 
-##### **§ 5. Das Wesen der Endlichkeit der Erkenntnis**
+##### **§ 5. The Essence of the Finitude of Knowledge**
 
 Negatively put: finite knowledge is non-creative intuition. What it has to present immediately in its singularity must already be present beforehand. Finite intuition finds itself dependent on the intuitable as something already a being of itself. What is intuited is derived from such a being, which is why this intuition is also called *intuitus derivativus*, derived intuition (B 72). Finite intuition of beings cannot give itself the object; it must let it be given to it. Not every intuition as such, but only finite intuition, is receptive. A marginal note blocks the obvious mistake: "derived" does not mean deduced from absolute intuition, and finite knowing is not a derivative of the absolute — the question of ontic origin is not at issue at all. "Derived" names a structural feature, that finite knowing comes to what it knows from elsewhere instead of creating it.
 
@@ -206,7 +206,7 @@ The essence of the difference shows itself especially clearly in the double mean
 
 With this characterization of the finitude of human knowledge, the essential features of the dimension within which the laying of the ground moves have been indicated, and with them a clearer prefiguring of the direction the regress to the sources of the inner possibility of ontology must take.
 
-##### **§ 6. Der Quellgrund der Grundlegung der Metaphysik**
+##### **§ 6. The Source-Ground of the Laying of the Ground of Metaphysics**
 
 The interpretation of the essence of knowledge and of its finitude yielded: finite intuition (sensibility) needs as such to be determined by the understanding, and conversely the already finite understanding is dependent on intuition, "for we can understand nothing except what carries with it in intuition something corresponding to our words" (A 277, B 333). When Kant says that "neither of these properties is to be preferred to the other" (A 51, B 75), this seems to contradict his placing the basic character of knowing in intuition. But the necessary belonging of sensibility and understanding to the essential unity of finite knowledge does not exclude but includes a rank-order in the structural grounding of thinking upon intuition as the leading representing. Precisely this rank-order must not be overlooked in view of their reciprocal belonging-together, nor levelled to an indifferent correlation of content and form, by anyone who wants to come nearer the innermost drift of Kant's problem. Kant's parity claim concerns indispensability, Heidegger's rank-claim concerns founding; they are compatible, and the form/content picture is what conflates them.
 
@@ -218,9 +218,9 @@ Kant does in fact give, both in the Introduction to the *Critique* and at its cl
 
 The "sources" are here grasped as "stems" springing from a common root. But at the first passage the "common root" is named with a "perhaps," while at the second "the general root" counts as existing. At both places, nevertheless, the root is only pointed at. Kant not only does not pursue it but even designates it as "unknown to us." From this follows the one essential thing about the general character of Kant's laying of the ground: it does not lead to the sun-clear absolute evidence of a first proposition and principle but knowingly goes, and points, into the unknown. It is a *philosophizing* laying of the ground of philosophy. The discrepancy between "perhaps" and "the general root" is the textual crack Heidegger works in the Third Section. And the closing formula is a thrust at Husserl as much as at the neo-Kantians: a grounding that terminates in absolute evidence would have made philosophy into a science, and Kant's refusal of that is here counted to his credit.
 
-#### **II. Die Weise der Ursprungsenthüllung**
+#### **II. The Manner of the Unveiling of the Origin**
 
-##### **§ 7. Die Vorzeichnung der Stadien der Grundlegung der Ontologie**
+##### **§ 7. The Prefiguring of the Stages of the Laying of the Ground of Ontology**
 
 The grounding of metaphysics is the projection of the inner possibility of the a priori synthesis: its essence must be determined and its origin presented out of its source-ground. The elucidation of finite knowledge and the characterization of the basic sources have circumscribed the dimension in which the origin is to be unveiled. With that, the question of the inner possibility of synthetic a priori knowledge receives both a sharpening and a complication.
 
@@ -236,7 +236,7 @@ The question of the inner possibility of the essential unity of a pure veritativ
 
 The laying of the ground of ontology accordingly runs through five stages: the essential elements of pure knowledge; the essential unity of pure knowledge; the inner possibility of the essential unity of the ontological synthesis; the ground of the inner possibility of the ontological synthesis; and the full essential determination of ontological knowledge. The five stages are not Kant's own division and do not answer to the Aesthetic, Analytic and Dialectic; they are the "inner drift" Heidegger claims to read behind the architectonic, and the claim will be defended in the introduction to part B.
 
-##### **§ 8. Die Methode der Ursprungsenthüllung**
+##### **§ 8. The Method of the Unveiling of the Origin**
 
 Already the preliminary characterization of the essential structure of finite knowledge showed a wealth of interconnected structures of synthesis. Insofar as the pure veritative synthesis contains the idea of a knowledge that in a certain sense apparently is not finite, the question of the possibility of ontology for a finite being became complicated. And the indication of the source-ground of the basic sources led into the unknown.
 
@@ -254,19 +254,19 @@ A general pointer at the fundamental character of the procedure is nevertheless 
 
 Such analytic therefore contains a projecting anticipation of the whole inner essence of finite pure reason. Only by constructing through this essence does the essential structure of ontology become visible; and as so unveiled, that structure at the same time determines the construction of the foundations it requires. This projecting laying-free of everything that essentially makes an ontology possible brings metaphysics onto the ground and soil in which it is rooted as a "visitation" (*Heimsuchung*) of human nature. Kant's word at B xv for metaphysics as an affliction that keeps returning is taken over without irony: metaphysics is not a discipline one takes up but something that happens to a finite being, and the Fourth Section will make that the whole content of the question about the human being.
 
-### **B. Die Stadien der Durchführung des Entwurfs der inneren Möglichkeit der Ontologie**
+### **B. The Stages of the Execution of the Projection of the Inner Possibility of Ontology**
 
 At this point the interpretation must assure itself anew, and with increasing sharpness, of the guiding problem. What is asked is the essential possibility of the ontological synthesis. Laid out, the question runs: how can finite human Dasein in advance cross over — transcend — beings that it has not only not created itself, but on which it is even dependent in order to be able to exist as Dasein at all? The problem of the possibility of ontology is thus the question of the essence and the essential ground of the transcendence of the prior understanding of being. The problem of the transcendental — that is, transcendence-forming — synthesis can therefore also be posed thus: how must the finite being we call the human being be according to its innermost essence, in order to be able to be open at all to beings that it is not itself and that must therefore be able to show themselves from themselves? Transcendence has now been defined entirely in terms of openness to what one did not make, which is why the answer cannot be a faculty of the subject in the ordinary sense; and the word Dasein enters the argument at exactly the point where the question turns from knowledge to the constitution of being of the knower.
 
 The stages of an answer were prefigured above; now they are to be run through individually, though without an interpretation that exhausts everything equally. The interpretation follows the inner movement of Kant's laying of the ground without holding to his own disposition and its formulation. It must go back behind that disposition, in order to be able to estimate, from a more original understanding of the inner drift, the appropriateness, the right and the limits of the outer architectonic of the *Critique of Pure Reason*. The methodological licence for everything that follows is stated openly here: Heidegger is not claiming to expound Kant's order but to recover the movement that order imperfectly registers, and he undertakes in advance to justify the departure by the light it sheds on the architectonic itself.
 
-#### **Das erste Stadium der Grundlegung: Die Wesenselemente der reinen Erkenntnis**
+#### **The First Stage of the Laying of the Ground: The Essential Elements of Pure Knowledge**
 
 If the essence of a synthetic a priori knowledge is to be laid before our eyes, the stock of its necessary elements must first be illuminated. As knowing, the transcendental synthesis must be an intuition, and as a priori knowing a pure intuition; and as pure knowing belonging to the finitude of the human being, pure intuition must necessarily determine itself through a pure thinking. The first stage is thus dictated by the results of §§4–5 and not by the *Critique*'s division into Aesthetic and Analytic, though it will run parallel to it.
 
-##### **a) Die reine Anschauung im endlichen Erkennen**
+##### **a) Pure Intuition in Finite Knowing**
 
-###### **§ 9. Die Aufhellung von Raum und Zeit als reinen Anschauungen**
+###### **§ 9. The Illumination of Space and Time as Pure Intuitions**
 
 Can anything like a pure intuiting be found in the finite knowing of beings? What is sought is an immediate, though experience-free, letting-something-singular-be-encountered. Pure intuiting is, as finite, a receptive representing; but since what is now to be taken in is the being of beings and not beings, it cannot be a present being that gives itself. Pure receptive representing must give itself something representable. Pure intuition must therefore in a certain way be "creative." The paradox announced in §7 recurs in its first concrete form, and the quotation marks around "creative" carry the whole burden: pure intuition produces nothing that is, yet does not merely find what it intuits.
 
@@ -292,7 +292,7 @@ Pure intuition thus does have its intuited, and has it in such a way that it giv
 
 Even from this it can be gathered that a further illumination of what is "originally represented" in pure intuition becomes possible only if it can be brought to light more penetratingly in what sense pure intuition is "original," that is, how it lets its intuited spring forth. The question is deferred to §28, where the answer will be that pure intuition is an accomplishment of the transcendental imagination; the first stage therefore leaves its own central term unexplained on purpose.
 
-###### **§ 10. Die Zeit als die universale reine Anschauung**
+###### **§ 10. Time as the Universal Pure Intuition**
 
 Pure intuition is sought as the one essential element of ontological knowledge in which the experience of beings is grounded. But space, as pure intuition, gives in advance only the whole of those relations in which the encounters of outer sense are ordered. At the same time we find givens of "inner sense" that show no spatial shape and no spatial relations but announce themselves as a succession of states of our mind — representations, strivings, moods. What we look toward in advance in experiencing these appearances, non-objectively and unthematically, is the pure one-after-another. Hence time is "the form of inner sense, that is, of the intuiting of ourselves and of our inner state" (A 33, B 49); time determines "the relation of representations in our inner state"; and "time can be no determination of outer appearances; it belongs neither to a shape nor a position" (A 33, B 49 f.).
 
@@ -318,9 +318,9 @@ Yet as little as one may evaporate pure intuition as an essential element of ont
 
 First, though, the second essential element of a pure finite knowledge must be exhibited in the same isolating consideration: pure thinking.
 
-##### **b) Das reine Denken im endlichen Erkennen**
+##### **b) Pure Thinking in Finite Knowing**
 
-###### **§ 11. Der reine Verstandesbegriff (Notion)**
+###### **§ 11. The Pure Concept of the Understanding (Notion)**
 
 The other element in the finitude of human knowledge is thinking, which as determining representing aims at what is intuited in intuition and so serves intuition alone. The object of an intuition, always an individual, determines itself as "this and that" in a "general representation," the concept. The finitude of thinking intuition is therefore a knowing through concepts, and pure knowing is pure intuition through pure concepts. These must be exhibited if the full essential stock of a pure knowledge is to be secured; and to find them, what is sought under the title must first be clarified.
 
@@ -340,7 +340,7 @@ Pure concepts accordingly do not first arise through an act of reflection; they 
 
 There are therefore pure concepts in the understanding as such, and the "dissection of the faculty of understanding itself" must bring to light these representations that co-constitute the essential structure of reflection.
 
-###### **§ 12. Die Notionen als ontologische Prädikate (Kategorien)**
+###### **§ 12. The Notions as Ontological Predicates (Categories)**
 
 The pure understanding yields in itself a manifold, the pure unities of possible uniting. And if the possible modes of uniting — judgments — make up a closed nexus, the closed nature of the understanding itself, then a systematic whole of the manifold of pure concepts lies concealed in the pure understanding. This whole is then the system of those predicates that function in pure knowledge, that is, assert about the being of beings. The pure concepts have the character of ontological predicates, called from of old "categories." The table of judgments is therefore the origin of the categories and of their table. Heidegger's own marginal note against this last inference — "why?" — marks the sentence as a report of Kant's reasoning rather than an endorsement, and the rest of the § withdraws it.
 
@@ -358,7 +358,7 @@ So long as the pure understanding does not stand in view with respect to its ess
 
 What now becomes clear is this: the more radically one tries to isolate the pure elements of a finite knowledge, the more insistently the impossibility of such isolation shows itself, and the more obtrusively the dependence of pure thinking on intuition. With that the artificiality of the first approach comes to light. Pure concepts can be determined as ontological predicates only when they are understood out of the essential unity of finite pure knowledge. The first stage thus succeeds by failing, and the failure is the argument: an isolation carried through consistently demonstrates that what was isolated cannot be.
 
-#### **Das zweite Stadium der Grundlegung: Die Wesenseinheit der reinen Erkenntnis**
+#### **The Second Stage of the Laying of the Ground: The Essential Unity of Pure Knowledge**
 
 The isolated pure elements of pure knowledge are time as universal pure intuition and the notions as what is thought in pure thinking. But if the isolating consideration does not even manage to grasp the elements as such completely, then all the less will their unity be won by a linking of the isolated pieces added afterwards. With that the problem of the essential unity of pure knowledge sharpens, if matters are not to rest with the negative characterization that this unity cannot be a band stretched between the elements after the fact.
 
@@ -368,7 +368,7 @@ Kant gives the first characterization of the original essential unity of the pur
 
 Because the notions, belonging as they do to the finitude of knowledge, are essentially related to pure intuition, and because this relatedness co-constitutes the essential unity of pure knowledge, the essential delimitation of the category is at the same time the illumination of the inner possibility of the essential unity of ontological knowledge. Kant's answer must now be presented through the interpretation of that piece — but the question itself first needs clarifying.
 
-##### **§ 13. Die Frage nach der Wesenseinheit der reinen Erkenntnis**
+##### **§ 13. The Question of the Essential Unity of Pure Knowledge**
 
 If the elements of finite pure knowledge are essentially dependent on one another, that already prevents their unity from being stuck onto them as a subsequent togetherness. That and how the unity underlies the elements is precisely what the preceding isolation covered over and made unrecognizable. And even if an analysis holds to the tendency toward unveiling the original unity, this does not yet guarantee a full grasp of it. On the contrary: given the sharpness with which the isolation was carried out, and the still more clearly emerging peculiarity of the second element, it is to be expected that this isolation can no longer be entirely undone, so that in the end the unity is after all not explicitly developed out of its ownmost origin. Kant's failure is thus predicted before the deduction is read, and predicted from a methodological cause rather than a personal one: an isolation that has been performed too well cannot be reversed, and the analytic order in which one begins decides what one can still reach.
 
@@ -380,7 +380,7 @@ The essential unity of pure knowledge is nevertheless to form the unity of the t
 
 The problem of the pure veritative or ontological synthesis must accordingly be brought to the question: what does the original (veritative) "synthesis" of the pure synopsis and the pure reflecting (predicative) synthesis look like? Already from the form of this question it can be estimated that the sought synthesis must have a quite distinguished character, if it is to unify things that already show synthesis-structure in themselves. It must be equal in advance to the forms of "synthesis" and "synopsis" that it is to unite; it must itself originally form them in uniting them. Three of the four occurrences of "syn-" are already in the members to be joined, so the joining term cannot be a fourth of the same kind — it must be what lets the others be syntheses at all. This is the formal shape of the argument for the transcendental imagination, given before the imagination is named.
 
-##### **§ 14. Die ontologische Synthesis**
+##### **§ 14. The Ontological Synthesis**
 
 The question of the essential unity of pure intuition and pure thinking comes from the prior isolation of these elements. The character of the unity belonging to them can therefore first be prefigured by showing how each of these elements structurally demands the other. They show joints that point ahead to something jointed together. The veritative synthesis is then what not only fits into these joints, joining the elements together, but first *joints* the joints themselves. The image is exact and load-bearing: a joint is not a third thing between two pieces but the shaping of each piece so that it meets the other. If the synthesis makes the joints, then intuition and thinking have the shape they have because of it.
 
@@ -408,7 +408,7 @@ In this triad the pure synthesis of the imagination holds the middle. This does 
 
 When the laying of the ground now enters the stage where "the matter itself is deeply veiled" (A 88, B 121) and complaints about the darkness are therefore out of order, a short halt for methodological reflection on the present position and the further way is all the more necessary.
 
-##### **§ 15. Das Kategorienproblem und die Rolle der transzendentalen Logik**
+##### **§ 15. The Problem of the Categories and the Role of Transcendental Logic**
 
 The problem of the essential unity of ontological knowledge first gives the ground for determining the essence of the category. If the category is to be not only, and not primarily, a mode of "asserting" — *schēma tou logou*, a figure of speech — as the name suggests, but is to satisfy its ownmost essence as *schēma tou ontos*, a figure of being, then it may not function as an "element" (notion) of pure knowledge; rather the known being of beings must lie in it. But knowing being is the unity of pure intuition and pure thinking, so what becomes decisive for the essence of the category is precisely the pure intuitiveness of the notions. A category is thus not a concept that happens to apply to everything but the being of beings as known; and its intuitive side is not a supplement to a logical core but constitutive of it.
 
@@ -432,7 +432,7 @@ Added to all this: for the architectonic mastery and presentation of the "very m
 
 However self-evident this manifold rule of "logic" in the *Critique of Pure Reason* may be, the following interpretation of the further and decisive stages must penetrate through the architectonic of the outer sequence and stamping of the problems and lay before our eyes the inner drift of the problematic that first brought Kant to such a presentation.
 
-#### **Das dritte Stadium der Grundlegung: Die innere Möglichkeit der Wesenseinheit der ontologischen Synthesis**
+#### **The Third Stage of the Laying of the Ground: The Inner Possibility of the Essential Unity of the Ontological Synthesis**
 
 The apparently firm answer to the question of the essential unity of ontological knowledge dissolves, as that unity is determined more closely, into the problem of the possibility of such a unification. In the pure synthesis, pure intuition and pure thinking are supposed to be able to meet a priori.
 
@@ -446,7 +446,7 @@ The inner manifoldness of the problem also causes those relations whose clarific
 
 The interpretation that follows should not walk the entangled paths of the deduction in detail but lay free the original drift of the problematic. The first requirement for that is to make the deduction's proper goal sufficiently clear with a view to the guiding problem of the laying of the ground of metaphysics.
 
-##### **§ 16. Die Aufhellung der Transzendenz der endlichen Vernunft als Grundabsicht der transzendentalen Deduktion**
+##### **§ 16. The Illumination of the Transcendence of Finite Reason as the Basic Intention of the Transcendental Deduction**
 
 A finitely knowing being can comport itself toward beings that it is not itself and has not created only if these already present beings can encounter it from themselves. But to be able to encounter as the being it is, a being must in advance already be "known" as a being at all, that is, with respect to its constitution of being. Which means: ontological — here always *pre*ontological — knowledge is the condition of the possibility that anything like beings themselves can stand over against a finite being at all. A finite being needs this basic capacity of a turning-toward that lets something stand over against it. In this original turning-toward, the finite being first holds open for itself a play-space within which something can "correspond" to it. To hold oneself in advance within such a play-space, to form it originally, is nothing other than the transcendence that marks all finite comportment toward beings. And if the possibility of ontological knowledge is grounded in the pure synthesis, while ontological knowledge is precisely this letting-stand-over-against, then the pure synthesis must reveal itself as what joints and bears the single whole of the inner essential structure of transcendence. Through illumination of this jointure the innermost essence of the finitude of reason unveils itself. *Gegenstehenlassen* [letting-stand-over-against] is now the operative term for the whole enterprise; it names an act of the finite knower that produces no being but produces the standing-over-against in which beings can be met. Michel Henry's *objectivation* renders exactly this word, and his critique of Heidegger's "ontological monism" is aimed at what is said here.
 
@@ -480,7 +480,7 @@ Only insofar as the pure understanding, as understanding, is servant of pure int
 
 But pure intuition itself, and precisely it, is again of finite essence. Only their essential structural unity sinks pure intuition and pure thinking into their full finitude, which announces itself as transcendence. And if the pure synthesis originally unites the elements of pure knowledge, then the unveiling of the full synthesis-structure of the pure synthesis must suggest itself as the task that alone leads to the goal of the transcendental deduction: the illumination of transcendence.
 
-##### **§ 17. Die zwei Wege der transzendentalen Deduktion**
+##### **§ 17. The Two Ways of the Transcendental Deduction**
 
 From the determination of the problematic of ontological knowledge, the sense of the transcendental deduction has emerged: it is the dissecting unveiling of the structural whole of the pure synthesis. This reading corresponds at first little to the word-concept of a deduction, and seems even to contradict Kant's own explicit explanation of what deduction means. But before that can be decided, the deduction must first be re-enacted in its execution and so concretely laid before our eyes. The interpretation here holds to the "third section" of the "Deduction of the pure concepts of the understanding" (A 115–128), in which Kant presents the deduction "in connection."
 
@@ -498,7 +498,7 @@ The second way goes "from below up" (A 119), beginning with intuition and leadin
 
 On both ways the unveiling of the "two extreme ends, namely sensibility and understanding," which must "necessarily connect" (A 124), is carried out. What is essential is not a linearly conceived linking of two faculties but the structural illumination of their essential unity, so that what becomes decisive is that in which they can connect at all. On both ways this unifying middle must be traversed and thereby brought to light as such. In this going back and forth between the two ends the unveiling of pure synthesis happens. The two ways are thus not two proofs of one conclusion but two passages through one middle, and their doubling is what makes the middle visible — a middle reached from one direction only might be an artefact of that direction.
 
-###### **a) Der erste Weg**
+###### **a) The First Way**
 
 The necessary dependence of the pure understanding on pure intuition must be unveiled so that the mediating unity of the two, the pure synthesis, reveals itself as mediatrix. This requires that the pure understanding, as the starting point of the first way, be clarified far enough for its dependence on a pure synthesis, and thereby on a pure intuition, to become visible from its structure.
 
@@ -522,7 +522,7 @@ But pure synthesis is to unite a priori, and what it unites must be given a prio
 
 Kant therefore sends ahead of all the discussions of the transcendental deduction a "general remark" that "must be laid at the ground of what follows" (A 99): all "modifications of the mind are subject to time, in which they must all be ordered, connected and brought into relations." It may strike one that Kant discusses the a priori essential relatedness of the pure imagination to time more thoroughly and explicitly on neither of the two ways. The whole analysis concentrates instead on making visible the essential relatedness of the pure understanding to the pure synthesis of the imagination — for it is through this relatedness that the understanding's ownmost nature, its finitude, comes most clearly to expression. It is understanding only insofar as it "presupposes or includes" pure imagination: "the unity of apperception in relation to the synthesis of the imagination is the understanding, and the very same unity, in relation to the transcendental synthesis of the imagination, the pure understanding" (A 119). The gap Heidegger notes here is the one his own Third Section will fill: Kant establishes that the imagination mediates without ever setting out how it is related to time, and that unexamined relation is where the Kantbuch does its own work.
 
-###### **b) Der zweite Weg**
+###### **b) The Second Way**
 
 The necessary dependence of pure intuition on the pure understanding — the mediating unity of the two, the pure synthesis — is to become manifest as mediatrix. Hence the second way sets in: "now we will lay before our eyes the necessary connection of the understanding with appearances by means of the categories by beginning from below up, namely with the empirical" (A 119).
 
@@ -538,7 +538,7 @@ The triad of pure intuition, pure imagination and pure apperception is now no lo
 
 Since finitude is distinguished by the understanding, the understanding plays a special role in the deduction. But precisely on the going back and forth of the two ways it gives up its primacy, and by this giving-up announces itself in its essence, which lies in having to be grounded in the time-related pure synthesis of the transcendental imagination. The understanding's self-abdication is the result of the deduction, and it is what the Third Section will convert into the thesis that Kant found the root and shrank from it.
 
-##### **§ 18. Die äußere Form der transzendentalen Deduktion**
+##### **§ 18. The Outer Form of the Transcendental Deduction**
 
 What occasions the transcendental deduction, as a laying of transcendence before our eyes, to take on the form of a *quaestio juris*? Where does the right of this "juristic" formulation lie, and where its limits — a formulation that presses forward only in the first introduction of the deduction, not in its execution?
 
@@ -560,7 +560,7 @@ The problem of the "origin and truth" of the categories (A 128) is the question 
 
 But if the fundamental problem to which the inherited *metaphysica specialis* gave occasion is thereby solved precisely by the transcendental deduction, does the laying of the ground not already reach its goal with the stage now discussed? And does what has been said not at the same time confirm the right of the usual practice of regarding the transcendental deduction as the central discussion within the positive part of the Doctrine of Elements? Why still a further stage of the laying of the ground of ontological knowledge? What demands a still more original regress into the ground of the essential unity of ontological knowledge?
 
-#### **Das vierte Stadium der Grundlegung: Der Grund der inneren Möglichkeit der ontologischen Erkenntnis**
+#### **The Fourth Stage of the Laying of the Ground: The Ground of the Inner Possibility of Ontological Knowledge**
 
 The inner possibility of ontological knowledge shows itself from the specific wholeness of the constitution of transcendence, whose cohesive middle is the pure imagination. Kant finds this result of the laying of the ground not merely "strange"; he repeatedly stresses the darkness into which all the discussions of the transcendental deduction must press. At the same time the laying of the ground of ontological knowledge strives, beyond a mere characterization of transcendence, to illuminate it so that it can be developed into a systematic whole of a presentation of transcendence — transcendental philosophy, that is, ontology.
 
@@ -572,7 +572,7 @@ Even this pointer to the systematic position of the schematism chapter within th
 
 Kant again introduces the problem in a more external form, on the guiding thread of the question of the possible subsumption of appearances under the categories. Justifying that formulation is to follow, as with the treatment of the *quaestio juris*, only after the inner dynamic of the schematism problem has been worked out.
 
-##### **§ 19. Transzendenz und Versinnlichung**
+##### **§ 19. Transcendence and Rendering-Sensible**
 
 A finite being must be able to take in beings, precisely if these are to be manifest as already present. But taking-in demands, for its own possibility, something like a turning-toward — not an arbitrary one, but one that makes the encountering of beings possible in advance. And for beings to be able to offer themselves as such, the horizon of their possible encountering must itself have the character of an offer. The turning-toward must in itself be a pre-forming holding-before-oneself of the offerable as such.
 
@@ -594,7 +594,7 @@ Sensibility means for Kant finite intuition. A pure sensibility would be an intu
 
 What character, then, does the intuitable of pure sensibility have? Can it have that of an "image"? What does image mean? How is the look that "forms" itself in the pure imagination, the pure schema, distinguished from the image? And in what sense can the schema in the end also be called an "image"? Without a preceding interpretation of these phenomena of rendering-sensible, the schematism as the ground of transcendence remains veiled in complete darkness.
 
-##### **§ 20. Bild und Schema**
+##### **§ 20. Image and Schema**
 
 Rendering-sensible names generally the way in which a finite being can make something intuitive to itself, that is, procure a look, an image, of something. Depending on what comes into view and how, look or image mean different things.
 
@@ -632,7 +632,7 @@ If in rendering-sensible neither the empirical look nor the isolated concept is 
 
 Such rendering-sensible happens primarily in the imagination. "This representation of a general procedure of the imagination for procuring an image for a concept I call the schema of this concept" (A 140, B 179 f.). Schema-formation in its execution, as the way concepts are rendered sensible, is called schematism. The schema is to be distinguished from the image and yet is related to something like an image; the image-character belongs necessarily to the schema. That character has its own essence: it is neither a plain look (image in the first sense) nor a copy (image in the second). Let it therefore be called the *schema-image*. The term is Heidegger's coinage, not Kant's, and it is introduced to name what Kant's three senses of "image" leave out — the visible thing insofar as it displays a rule.
 
-##### **§ 21. Schema und Schema-Bild**
+##### **§ 21. Schema and Schema-Image**
 
 A closer characterization of the schema-image will clarify its relation to the schema, and thereby the kind of relation the concept has to the image. Schema-formation is the rendering-sensible of concepts. How does the look of the immediately represented being relate to what is represented in the concept of it? In what sense is this look an "image" of the concept? The question is discussed on two kinds of concept: the empirically sensible, the concept of a dog, and the purely sensible or mathematical, the concept of a triangle or of a number.
 
@@ -654,7 +654,7 @@ The analysis of the image-character of the schema-image of empirical and pure se
 
 All conceptual representing is by its essence schematism. But all finite knowing is, as thinking intuition, necessarily conceptual. And so already in the immediate perception of something present, of this house, there necessarily lies the schematizing fore-look toward anything like a house in general, from which representing alone what encounters can show itself as a house and offer the look "present house." Schematism therefore happens necessarily on the ground of our knowing as finite. Hence Kant must say: "this schematism ... is a hidden art in the depths of the human soul" (A 141, B 180). And if schematism belongs to the essence of finite knowledge, and finitude centres in transcendence, then the happening of transcendence must in its innermost be a schematism. Kant therefore necessarily comes upon a "transcendental schematism," if he means to raise to light the ground of the inner possibility of transcendence. The famous phrase about a hidden art is thereby stripped of its air of resignation: the concealment is structural, not a limit on Kant's insight, since a schematism we always look through is by its manner of working never in view.
 
-##### **§ 22. Der transzendentale Schematismus**
+##### **§ 22. The Transcendental Schematism**
 
 The general characterization of schematism as a peculiar kind of rendering-sensible has yielded that schematism belongs necessarily to transcendence. From the other side, the characterization of the full structure of ontological knowledge, which is necessarily intuition, led to the insight that a rendering-sensible belongs necessarily to transcendence — and a pure one. It was claimed that this pure rendering-sensible happens as a schematism. That claim must now be grounded by demonstrating that the necessary pure rendering-sensible of the pure understanding and its concepts is carried out in a transcendental schematism; and what that itself is will clarify itself with the unveiling of the happening.
 
@@ -694,7 +694,7 @@ So even this rough interpretation of the transcendental schema of substance, whi
 
 The transcendental schematism is accordingly the ground of the inner possibility of ontological knowledge. It forms what stands over against in the pure letting-stand-over-against in such a way that what is represented in pure thinking necessarily gives itself intuitively in the pure image of time. It is therefore time that, as what gives a priori, lends the horizon of transcendence from the outset the character of a perceivable offer. And not only that: as the single pure universal image, time gives the horizon of transcendence a prior enclosedness. This one pure ontological horizon is the condition of the possibility that beings given within it can have this or that particular open, ontic horizon. Time gives transcendence not only its prior unified cohesion; as what purely gives itself, it offers anything like a halt at all. It makes the "against" of objectivity, which belongs to the finitude of the transcending turning-toward, perceivable for a finite being. Two functions are thus assigned to time in a single sentence — it offers and it holds back — and the second is the more important: without a halt, nothing would resist, and without resistance nothing could be met as a being at all.
 
-##### **§ 23. Schematismus und Subsumtion**
+##### **§ 23. Schematism and Subsumption**
 
 In the foregoing, Kant's doctrine of the schematism of the pure concepts of the understanding was interpreted deliberately in the single orientation toward the innermost happening of transcendence. But Kant follows not only the drift of the problematic that grows anew with every step; precisely at the first introduction of the decisive doctrines he holds to formulations as familiar as possible, which are provisionally to lead toward the problem. So the transcendental deduction started from the legal action in traditional metaphysics, an action decided by the demonstration that the notions must be categories — must belong by their essence to transcendence itself — if they are to be able to determine a priori the empirically accessible being. And with that the condition of the "use" of these concepts is fixed as well.
 
@@ -720,13 +720,13 @@ The schematism chapter is not "confused" but incomparably transparently built. I
 
 And yet Kant still writes in his last years, in 1797: "in general the schematism is one of the most difficult points. Even Herr Beck cannot find his way into it. — I hold this chapter to be one of the most important." The chapter's difficulty and its importance are, on Heidegger's reading, the same fact: it is difficult because what it treats is the hidden art by which anything is ever in view, and important for the same reason.
 
-#### **Das fünfte Stadium der Grundlegung: Die volle Wesensbestimmung der ontologischen Erkenntnis**
+#### **The Fifth Stage of the Laying of the Ground: The Full Essential Determination of Ontological Knowledge**
 
 In the previous stage the ground of the inner possibility of the ontological synthesis, and thereby the goal of the laying of the ground, was reached with the transcendental schematism. If a fifth stage is now attached, it can no longer carry the grounding further; it is to take explicit possession of the ground won, with a view to a possible building.
 
 The stages passed through must here be appropriated in their unity — not by way of a subsequent adding-up but in the manner of an independent, full determination of the essence of ontological knowledge. Kant lays this decisive essential determination down in the "highest principle of all synthetic judgments." And if ontological knowledge is nothing other than the original forming of transcendence, then the highest principle must contain the most central essential determination of transcendence. On the ground so reached, the outlook onto the further tasks and consequences of Kant's laying of the ground of *metaphysica generalis* then opens.
 
-##### **§ 24. Der oberste synthetische Grundsatz als die volle Wesensbestimmung der Transzendenz**
+##### **§ 24. The Highest Synthetic Principle as the Full Essential Determination of Transcendence**
 
 Kant introduces this central doctrine too in a critical stance toward traditional metaphysics, which wants to know beings "from mere concepts," that is, merely by thinking. The peculiar essence of mere thinking is delimited by general logic: mere thinking is the connecting of subject and predicate, judging. Such connecting only elucidates what is represented in the connected representations as such; it must be merely elucidating, "analytic," because it has "merely played with representations" (A 155, B 195). Mere thinking must, if it wants to be that, "remain" with the represented as such. Even in this constriction it has its own rules and principles, of which the highest counts as the "principle of contradiction." Mere thinking is not knowing at all but only an element — a necessary one — of finite knowledge. But from mere thinking, provided it is taken in advance as an element of finite knowledge, its necessary relation to something that first primarily determines full knowledge can be made visible. Kant's dialectic is thus disarmed at its source: school metaphysics fails not because it reasons badly but because thinking alone, however correct, is not yet knowledge.
 
@@ -752,7 +752,7 @@ The decisive content of this proposition lies not so much in what Kant italicize
 
 Hence the principle can also be put briefly: what makes an experiencing possible makes possible at the same time the experienceable, or the experienced, as such. Which says: transcendence makes beings accessible at themselves to a finite being. The "being at the same time" in the formula of the highest synthetic principle means neither merely that both conditions always occur together, nor that in thinking one the other must be thought too, nor even that both conditions are identical. The principle is not a principle won by inference, one that must be posited as valid if experience is to be valid; it is the expression of the most original phenomenological knowledge of the innermost unitary structure of transcendence — the structure that was worked out in the presented stages of the essential projection of the ontological synthesis. Heidegger's own footnote adds that the principle, so read, is at the same time the rightly understood metaphysical principle of ground, and refers to *Vom Wesen des Grundes*, published the same year in the Husserl *Festschrift*.
 
-##### **§ 25. Die Transzendenz und die Grundlegung der Metaphysica generalis**
+##### **§ 25. Transcendence and the Laying of the Ground of Metaphysica Generalis**
 
 The unveiling of the ground of the inner possibility of the essence of the ontological synthesis was determined as the task of the laying of the ground of *metaphysica generalis*. Ontological knowledge has proved to be what forms transcendence. Insight into the full structure of transcendence therefore makes it possible only now to survey the whole peculiarity of ontological knowledge — its knowing as well as its known.
 
@@ -788,15 +788,15 @@ Kant nevertheless wants to replace "the proud name of an ontology" (A 247, B 303
 
 With the transformation of *metaphysica generalis*, however, the building-ground of traditional metaphysics comes into motion, and thereby the proper building of *metaphysica specialis* begins to totter. This further problematic is not to be touched here; it needs a preparation obtainable only through a more original appropriation of what Kant achieved, in the unity of transcendental aesthetic and logic, as a laying of the ground of *metaphysica generalis*. The Second Section thus closes by naming the demolition it has caused and declining to inspect it: God, world and soul have lost their ground, and Heidegger passes over the Dialectic entirely to press instead into the origin of the ground just laid.
 
-## **Dritter Abschnitt: Die Grundlegung der Metaphysik in ihrer Ursprünglichkeit**
+## **Third Section: The Laying of the Ground of Metaphysics in Its Originality**
 
 Can the laying of the ground now reached be grasped still more originally at all? Is this incessant pressing toward originality not empty curiosity, punished by the wretchedness in which every wish to know better has its fatal distinction? And above all: does it not force Kant's philosophizing before a standard that remains foreign to it, so that everything ends in a critique "from outside" that is unjust every time?
 
 The question of the originality of Kant's laying of the ground will not want to set out on that slippery path from the start. If the discussion of originality is not to become critique in the sense of polemic but still to remain interpretation, then the idea of originality guiding it must be taken from Kant's laying of the ground itself. Kant's entering into the dimension of origin, and thereby his striving toward the source-ground of the "basic sources of knowledge," must be questioned in respect of the fore-look guiding it. But before that can happen, what the ground laid in the grounding first and last is must be clearly delimited. The rule Heidegger imposes on himself is the only defence he offers against the charge of violence: the standard of originality is Kant's own, since Kant himself named a root he did not pursue.
 
-### **A. Die ausdrückliche Charakteristik des in der Grundlegung gelegten Grundes**
+### **A. The Explicit Characterization of the Ground Laid in the Laying of the Ground**
 
-#### **§ 26. Die bildende Mitte der ontologischen Erkenntnis als transzendentale Einbildungskraft**
+#### **§ 26. The Forming Middle of Ontological Knowledge as Transcendental Imagination**
 
 The laying of the ground of *metaphysica generalis* is the answer to the question of the essential unity of ontological knowledge and of the ground of its possibility. Ontological knowledge "forms" transcendence, the holding-open of the horizon that is visible in advance through the pure schemata; and these "spring" as a "transcendental product" of the transcendental imagination, which as original pure synthesis forms the essential unity of pure intuition (time) and pure thinking (apperception).
 
@@ -834,7 +834,7 @@ What kind of knowing, then, is it that carries out the unveiling of transcendenc
 
 An explicit discussion of "transcendental method" seems no longer avoidable at this point. Yet supposing this method were clarified, the task would still remain of reading out of the ground so far laid the direction of the regress that the dimension of origin itself demands. And whether this swinging into the direction prefigured by the matters themselves succeeds depends solely on whether Kant's grounding, or the interpretation of it, is original and rich enough to take the lead in such a swing. Only an attempt actually carried out can decide that. The way into Kant's anthropology, which at first seemed self-evident, has shown itself to be a wrong turn; and all the more clearly follows the necessity of holding the further interpretation unwaveringly to the phenomenon that revealed itself as the ground of the inner possibility of the ontological synthesis — the transcendental imagination. The methodological question is thus raised and set aside in the same breath: a discussion of transcendental method would itself presuppose the ground being sought, so method must be earned by execution.
 
-#### **§ 27. Die transzendentale Einbildungskraft als drittes Grundvermögen**
+#### **§ 27. The Transcendental Imagination as Third Basic Faculty**
 
 To understand the faculties of "our mind" as "transcendental faculties" means first to unveil them with respect to how they make the essence of transcendence possible. Faculty here does not have the meaning of a "basic power" present in the soul; "faculty" now means what such a phenomenon *is capable of*, in the sense of enabling the essential structure of ontological transcendence. Faculty now means as much as "possibility" in the sense laid out at §24. So understood, the transcendental imagination is not merely and not first a faculty occurring between pure intuition and pure thinking; it is, together with these, a "basic faculty," as the enabling of the original unity of both and thereby of the essential unity of transcendence as a whole. "We therefore have a pure imagination as a basic faculty of the human soul, which grounds all knowledge a priori" (A 124).
 
@@ -856,7 +856,7 @@ The interpretation of the laying of the ground has shown that the transcendental
 
 What if this originally forming middle were that "unknown common root" of the two stems? Is it a chance that Kant, at the first introduction of the imagination, says of it that "we are seldom even once conscious" of it? The book's central thesis is put as a question, twice, and never as an assertion; and Heidegger's footnote is equally careful, granting that Fichte, Schelling and Jacobi assigned the imagination an essential role while declining to say whether they grasped what Kant saw, and stating that the interpretation here "moves in the opposite direction" from German idealism. The opposition is exact: idealism took the imagination as the productive absolute, whereas here it is the root of *finitude*.
 
-### **B. Die transzendentale Einbildungskraft als Wurzel der beiden Stämme**
+### **B. The Transcendental Imagination as the Root of the Two Stems**
 
 If the laid ground is not anything like a present soil but has the character of a root, then it must be ground in such a way that it lets the stems grow out of itself and lends them hold and stability. And with that the sought direction is already won in which the originality of Kant's laying of the ground can be discussed within its own problematic. The grounding becomes more original if it does not simply accept the laid ground but unveils how this root is root *for the two stems*. Which means nothing less than leading pure intuition and pure thinking back to the transcendental imagination.
 
@@ -878,7 +878,7 @@ If the transcendental imagination can be demonstrated as the root of transcenden
 
 In the interpretation that follows the orientation to the traversed path of the grounding is retained, but the individual stages are no longer described; and the specific connection of pure imagination, pure intuition and pure thinking is to be unveiled only so far as Kant's laying of the ground itself contains indications for it.
 
-#### **§ 28. Die transzendentale Einbildungskraft und die reine Anschauung**
+#### **§ 28. The Transcendental Imagination and Pure Intuition**
 
 Kant calls the pure intuitions space and time "original representations." The "original" here is not understood ontically-psychologically and does not concern presence, the innateness of these intuitions in the soul; it characterizes the way in which these representations represent. The expression corresponds to the *originarius* in the title *intuitus originarius* and means: letting-spring-forth. Of course the pure intuitions, belonging as they do to the finitude of the human being, cannot let a being spring forth in their representing.
 
@@ -902,7 +902,7 @@ Only through this interpretation of pure intuition is the transcendental charact
 
 As untenable as the attempt of the Marburg Kant interpretation is — to grasp space and time as "categories" in the logical sense and to dissolve the transcendental aesthetic into logic — so genuine is one motive that suggested that attempt: the insight, not clarified there, that the transcendental aesthetic taken by itself cannot be the whole that lies enclosed in it by possibility. But from the peculiar "syn"-character of pure intuition it does not follow that pure intuition belongs to the synthesis of the understanding; interpreting that "syn"-character leads rather to the origin of pure intuition out of the transcendental imagination. And the dissolution of the aesthetic into logic becomes still more questionable if it turns out that the specific object of transcendental logic, pure thinking, is rooted in the transcendental imagination as well. Cohen and Natorp are conceded their diagnosis and refused their remedy: the Aesthetic is indeed incomplete on its own, but what completes it lies below both disciplines rather than in one of them.
 
-#### **§ 29. Die transzendentale Einbildungskraft und die theoretische Vernunft**
+#### **§ 29. The Transcendental Imagination and Theoretical Reason**
 
 The attempt to demonstrate an origin of pure thinking, and thereby of theoretical reason in general, out of the transcendental imagination looks hopeless at first simply because such a project might be held self-contradictory. Kant says expressly that the imagination is "always sensible" (A 124). How is it, as an essentially sensible, that is, lower faculty, to form the origin for the higher and "upper" one? That in finite knowing the understanding presupposes sensibility and thereby imagination as a "substratum" is intelligible; but that it itself should by its essence spring from sensibility — this opinion cannot conceal an obvious absurdity.
 
@@ -964,7 +964,7 @@ But the necessity that announces itself in the standing-over-against of the obje
 
 Together with the reduction of pure intuition and pure thinking to the transcendental imagination, it should become evident that the transcendental imagination reveals itself more and more as a structural possibility, in its enabling of transcendence as the essence of the finite self. It thereby loses not only the character of an empirically gathered faculty of the soul; the restriction of its essence hitherto to being the root of the theoretical faculty as such also falls away. And so the last step in unveiling the "originality" of the laid ground must be ventured.
 
-#### **§ 30. Die transzendentale Einbildungskraft und die praktische Vernunft**
+#### **§ 30. The Transcendental Imagination and Practical Reason**
 
 Kant says already in the *Critique of Pure Reason*: "practical is everything that is possible through freedom" (A 800, B 828). But insofar as freedom belongs to the possibility of theoretical reason, theoretical reason is in itself, as theoretical, practical. And if finite reason as spontaneity is receptive and therefore springs from the transcendental imagination, then practical reason too is necessarily grounded in it. The origin of practical reason may nevertheless not be "inferred" by an argument, however well justified; it needs express unveiling through an illumination of the essence of the "practical self." A methodological scruple is doing real work here: the argument from theoretical reason to practical is available and is refused, because a structure of transcendence must be shown in the phenomenon rather than deduced.
 
@@ -996,7 +996,7 @@ The subjecting immediate surrender to... is pure receptivity; the free self-givi
 
 And again only this origin of practical reason out of the transcendental imagination makes intelligible how far in respect both the law and the acting self are not grasped objectively, and yet are manifest in a more original, non-objective and unthematic way as ought and as acting, and form the unreflected acting self-being.
 
-#### **§ 31. Die Ursprünglichkeit des gelegten Grundes und Kants Zurückweichen vor der transzendentalen Einbildungskraft**
+#### **§ 31. The Originality of the Laid Ground and Kant's Shrinking Back before the Transcendental Imagination**
 
 The "highest principle of all synthetic judgments" delimited the full essence of the transcendence of pure knowledge, and the transcendental imagination revealed itself as the essential ground of that essence. But the more original interpretation of this essential ground first shows the range of the highest principle: it speaks of the essential constitution of the human essence as such, insofar as that essence is determined as finite pure reason.
 
@@ -1068,7 +1068,7 @@ The interpretation of the stages of the laying of the ground carried out above i
 
 But is judgment not thereby passed on the interpretation presented here, and all the more on the more original reading of the transcendental imagination that grew out of it? Why, though, was the finitude of pure knowledge moved into the problem from the outset? Because the metaphysics whose ground is to be laid belongs to the "nature of the human being." For the laying of the ground of metaphysics, therefore, the *specific* finitude of human nature is decisive. The seemingly external question whether in interpreting the *Critique* the second edition deserves preference over the first or the reverse is only the pale reflection of the question decisive for Kant's laying of the ground and its interpretation: is the transcendental imagination, as the ground laid, bearing enough to determine originally — unitarily and as a whole — precisely the finite essence of the subjectivity of the human subject; or is the problem of a *human* pure reason made more graspable as a problem, and brought nearer a possible solution, by eliminating the transcendental imagination? So long as this question is not decided, the attempted more original interpretation of the transcendental imagination necessarily remains incomplete. The edition question is thereby converted from a philological into a systematic one, and Heidegger declines to award himself the victory: whether the imagination can bear the weight is not settled by the fact that Kant named it.
 
-### **C. Die transzendentale Einbildungskraft und das Problem der menschlichen reinen Vernunft**
+### **C. The Transcendental Imagination and the Problem of Human Pure Reason**
 
 That in the *Critique of Pure Reason* as a laying of the ground of metaphysics it is from the outset, and only, human pure reason that is at issue may first be made clear by a characteristic piece of evidence. The formula for the problem of the possibility of *metaphysica generalis* runs: "how are synthetic judgments a priori possible?" And Kant says of the solution of this task: "the above task cannot be solved otherwise than thus: that we first consider it in relation to the faculties of the human being through which he is capable of the extension of his knowledge a priori, and which make up in him what one may specifically call his pure reason. For if by a pure reason of a being in general one understands the faculty of knowing things independently of experience, hence of sense-representations, then it is not at all determined in what way such knowledge is possible in that being (in God, say, or in another higher spirit), and the task is then indeterminate. As regards the human being, by contrast, every knowledge of his consists of concept and intuition."
 
@@ -1080,7 +1080,7 @@ If the transcendental imagination is to be the original ground of the possibilit
 
 Time as pure sensibility is supposed to stand in an original unity with the "I think" of pure apperception? The pure I, which on the generally prevailing interpretation Kant places outside all temporality and against all time, is supposed to be "temporal"? And all of this on the ground of the transcendental imagination? How does the imagination relate to time at all?
 
-#### **§ 32. Die transzendentale Einbildungskraft und ihr Bezug zur Zeit**
+#### **§ 32. The Transcendental Imagination and Its Relation to Time**
 
 The transcendental imagination was set out as the origin of pure sensible intuition, and with that it is in principle demonstrated that time as a pure intuition springs from the transcendental imagination. But an analytic illumination of its own is needed for the way in which precisely time is grounded in the transcendental imagination.
 
@@ -1104,7 +1104,7 @@ But pure intuition can form the pure one-after-another of the now-sequence as su
 
 But can so far-reaching an interpretation of the transcendental imagination as original time be picked out of Kant's few hints? Given the incalculable consequences that follow from it, it must be grounded more concretely and more securely.
 
-#### **§ 33. Der innere Zeitcharakter der transzendentalen Einbildungskraft**
+#### **§ 33. The Inner Time-Character of the Transcendental Imagination**
 
 The imagination is called in the first edition the faculty of "synthesis in general." If the inner time-character of the imagination is to be exhibited, we must investigate where Kant expressly treats of synthesis. That happens in the section preparing the execution of the transcendental deduction on its two ways, headed "On the a priori grounds for the possibility of experience" (A 95 ff.). The place of the thematic analysis of synthesis as such is thus not arbitrary. And when Kant designates the discussion of synthesis in particular as a "preliminary reminder," what is meant is not an incidental and at bottom dispensable remark: what is treated there must be kept in view in advance for the transcendental deduction and the transcendental schematism.
 
@@ -1180,7 +1180,7 @@ But if the self will not let itself be exhibited as temporal, does the reverse w
 
 Yet what does "in the subject" mean here? Time is surely not present "in the subject" the way cells are in the brain, and the constant appeal to the subjectivity of time yields little. Has Kant himself seen only this negative point, that time is "nothing outside the subject"? Has he not shown in the transcendental deduction and the schematism chapter that time is essentially involved in the innermost essential structure of transcendence? And does transcendence not determine the selfhood of the finite self? Must this essence of subjectivity not be kept in view if the much-discussed "subjective" character of time is even to be legitimately asked after? If Kant met time in the "depth" of the essential ground of transcendence, will what the transcendental aesthetic says introductorily about time be the last word — or is what is discussed there only a pointer to the more original essence of time? Can the time-character of the subject in the end be illuminated only from the rightly grasped subject-character of time? The reversal is the move that makes §34 possible: instead of asking whether the I is in time, ask what time is such that it can be the being of a self.
 
-#### **§ 34. Die Zeit als reine Selbstaffektion und der Zeitcharakter des Selbst**
+#### **§ 34. Time as Pure Self-Affection and the Time-Character of the Self**
 
 At the place where he first circumscribes the essential unity of pure knowledge, in the second stage of the laying of the ground, Kant remarks that space and time "must always affect" the concept of the representations of objects. What does this at first dark thesis mean — that time affects a concept, and specifically the concept of the representations of objects?
 
@@ -1234,7 +1234,7 @@ Yet as certainly as the "at the same time" is a time-determination, so little ne
 
 With his orientation to the non-original essence of time Kant had to deny time-character to the principle of contradiction; for it is contrary to sense to want to determine essentially, by means of a product derived from time, what is originally time itself. Precisely because the self in its innermost essence is originally time itself, the I cannot be grasped as "temporal," that is, here, as within time. Pure sensibility (time) and pure reason are not only homogeneous; they belong together in the unity of the same essence, which makes possible the finitude of human subjectivity in its wholeness. The book's central promise is thereby redeemed: a pure sensible reason is not a non-concept, because sensibility at its root is time and reason at its root is a self that is time.
 
-#### **§ 35. Die Ursprünglichkeit des gelegten Grundes und das Problem der Metaphysik**
+#### **§ 35. The Originality of the Laid Ground and the Problem of Metaphysics**
 
 Kant's laying of the ground of metaphysics asks after the ground of the inner possibility of the essential unity of ontological knowledge. The ground it comes upon is the transcendental imagination, which presses forward as an in-between faculty against the initial positing of two basic sources of the mind. But the more original interpretation of this laid ground unveiled this in-between faculty not only as the originally unifying middle but that middle as the root of the two stems.
 
@@ -1286,7 +1286,7 @@ On the ground of time the laying of the ground of metaphysics grows. The questio
 
 This title contains the guiding idea of the foregoing interpretation of the *Critique of Pure Reason* as a laying of the ground of metaphysics. But the idea attested by this interpretation gives the prefiguring of the problem of a fundamental ontology. Fundamental ontology does not understand itself as something supposedly "new" over against something allegedly "old"; it is rather the expression of the attempt to appropriate originally what is essential in a laying of the ground of metaphysics — to help that grounding, by a retrieval, to its own more original possibility. The book's title-page thesis is stated only here, at the end of the Third Section, and it is stated as a result rather than a premise: *Sein und Zeit* is what the Kant interpretation was for, and the interpretation was to prove that the pairing of those two words is not Heidegger's invention but the unsaid of the *Critique*.
 
-## **Vierter Abschnitt: Die Grundlegung der Metaphysik in einer Wiederholung**
+## **Fourth Section: The Laying of the Ground of Metaphysics in a Retrieval**
 
 By the retrieval of a fundamental problem we understand the disclosure of its original, hitherto concealed possibilities, through whose working-out the problem is transformed and only so preserved in its problem-content. But to preserve a problem means to keep it free and awake in those inner forces that make it possible as a problem in the ground of its essence.
 
@@ -1294,9 +1294,9 @@ Retrieval of the possible does not mean taking up what is current, what "there i
 
 A rightly understood retrieval must nevertheless first have assured itself of what makes up the proper result of the earlier laying of the ground, here Kant's. And from what is sought as the "result" of the grounding in the *Critique of Pure Reason*, and from how what is found is determined, it must be possible to gather how far the understanding of the possible that guides all retrieval reaches, and whether it is equal to what can be retrieved.
 
-### **A. Grundlegung der Metaphysik in der Anthropologie**
+### **A. The Laying of the Ground of Metaphysics in Anthropology**
 
-#### **§ 36. Der gelegte Grund und das Ergebnis der Kantischen Grundlegung der Metaphysik**
+#### **§ 36. The Laid Ground and the Result of Kant's Laying of the Ground of Metaphysics**
 
 In running through the individual stages of Kant's laying of the ground it emerged how it finally comes upon the transcendental imagination as the ground of the inner possibility of the ontological synthesis, of transcendence. Is this establishing of the ground, or its more original interpretation as temporality, the result of Kant's grounding? Or does his grounding yield something else? For establishing that result the effort of laying the grounding before our eyes in its inner happening and the sequence of its steps would not have been needed; citing the relevant passages about the central function of the transcendental imagination in the deduction and the schematism would have sufficed. But if the result does not consist in the knowledge that the transcendental imagination makes up the ground, what else is the grounding to yield?
 
@@ -1318,7 +1318,7 @@ Kant did not simply patch the fourth question onto the first three. He says: "at
 
 With that Kant himself has unambiguously pronounced the proper result of his laying of the ground of metaphysics, and the attempt at a retrieval has thereby received a clear directive for its task. Kant speaks only of anthropology in general; but after what was discussed above it is beyond doubt that only a philosophical anthropology can take over the grounding of proper philosophy, of *metaphysica specialis*. Will the retrieval of Kant's grounding therefore not have to pursue the systematic working-out of a "philosophical anthropology" as its proper task, and hence first determine the idea of one?
 
-#### **§ 37. Die Idee einer philosophischen Anthropologie**
+#### **§ 37. The Idea of a Philosophical Anthropology**
 
 What belongs to a philosophical anthropology? What is anthropology at all, and through what does it become philosophical? Anthropology means knowledge of the human being. It comprises everything investigable concerning the nature of the human being as this bodily-psychical-spiritual being. Into its domain fall not only the properties of the human being establishable as at hand, as this determinate species distinguished from animal and plant, but also his hidden dispositions, the differences of character, race and sex. And since the human being does not merely occur as a natural being but acts and creates, anthropology must also try to grasp what he as acting "makes of himself," can and ought to make. His ability and his ought rest in the end on basic positions the human being as such can take up, which we call "world-views," and whose "psychology" embraces the whole of the knowledge of the human being.
 
@@ -1360,7 +1360,7 @@ But was the proper result of Kant's grounding not precisely this connection of t
 
 The critique of the idea of philosophical anthropology shows, however, that it does not suffice simply to pose the fourth question. On the contrary, the indeterminacy of this question indicates that even now the decisive result of Kant's laying of the ground has not been taken into possession.
 
-#### **§ 38. Die Frage nach dem Wesen des Menschen und das eigentliche Ergebnis der Kantischen Grundlegung**
+#### **§ 38. The Question of the Essence of the Human Being and the Proper Result of Kant's Laying of the Ground**
 
 More and more it shows that we do not come nearer the proper result of Kant's grounding so long as we hold to any definition or formulated thesis. We come near Kant's proper philosophizing only if, still more resolutely than hitherto, we ask not after what Kant *says* but after what *happens* in his laying of the ground. Solely at laying free this happening did the more original interpretation carried out above aim.
 
@@ -1404,11 +1404,11 @@ The laying of the ground of metaphysics is grounded in the question about the fi
 
 That and how "philosophical anthropology" nevertheless presents a task of its own kind — outside the problem of a grounding of metaphysics — cannot be discussed here. The refusal is not a dismissal: anthropology is denied the foundational role and left its own legitimacy, which is exactly the distinction that the Introduction's demarcation of fundamental ontology from all anthropology required.
 
-### **B. Das Problem der Endlichkeit im Menschen und die Metaphysik des Daseins**
+### **B. The Problem of Finitude in the Human Being and the Metaphysics of Dasein**
 
 It was in order to bring this fundamental problem to light — the necessity of the question about the finitude in the human being with a view to a grounding of metaphysics — that the preceding interpretation of the *Critique of Pure Reason* was undertaken. Accordingly finitude was what had to be brought to mind in advance at the outset of the interpretation and then constantly during its execution. If Kant in his laying of the ground digs the previously posited ground away from under himself, that now means: what was lifted out at the beginning of the interpretation as Kant's unspoken "presuppositions" — the essence of knowledge and its finitude — gains the character of the decisive problem. Finitude, and the peculiarity of the question about it, first decide from the ground up about the inner form of a transcendental "analytic" of the subjectivity of the subject.
 
-#### **§ 39. Das Problem einer möglichen Bestimmung der Endlichkeit im Menschen**
+#### **§ 39. The Problem of a Possible Determination of Finitude in the Human Being**
 
 How is the finitude in the human being to be asked after? Is that a serious problem at all? Does human finitude not lie before us a thousandfold, everywhere and at all times?
 
@@ -1424,7 +1424,7 @@ If the question about the finitude in the human being is to determine itself out
 
 With the *ti to on* the question about beings is indeed posed; but to pose a question does not yet mean to master the problematic lying in it and to work it out. How far the problem of metaphysics remains veiled in the question *ti to on* can be recognized from the fact that from this question it cannot be gathered at all how the problem of the finitude in the human being lies enclosed within it, insofar as it is to be grasped as a problem. Still less is a directive to be won, merely by pronouncing and repeating this question, for how the finitude in the human being is to be asked after. Retrieval of the problem of grounding *metaphysica generalis* therefore does not mean repeating after Aristotle the question what beings as such are. The retrieval must develop this question — which we call briefly the question of being — into a problem. And this development has to show how far the problem of the finitude in the human being, and the investigations prefigured by it, belong necessarily to the mastering of the question of being. Put fundamentally: the essential connection between being as such — not beings — and the finitude in the human being must be raised to light.
 
-#### **§ 40. Die ursprüngliche Ausarbeitung der Seinsfrage als Weg zum Problem der Endlichkeit im Menschen**
+#### **§ 40. The Original Working-Out of the Question of Being as the Way to the Problem of Finitude in the Human Being**
 
 The fundamental question of the old *physiologoi* about beings in general — about the *logos* of *physis* — developed, and this is the inner development of ancient metaphysics from its beginnings to Aristotle, out of the indeterminacy and fullness of its initial universality into the determinacy of the two directions of questioning that according to Aristotle make up proper philosophizing.
 
@@ -1456,7 +1456,7 @@ Yet if the original shape of the being-problem has so far been clarified in orie
 
 When the possibility of grasping something like being is asked after, this "being" is not devised and forced into a problem, perhaps in order to take up again a question of the philosophical tradition. What is asked after is the possibility of grasping what we all as human beings already and constantly understand. The question of being, as a question about the possibility of the concept of being, springs for its part from the pre-conceptual understanding of being. So the question about the possibility of the concept of being is driven back one step further, to the question about the essence of the understanding of being as such. The more originally grasped task of a grounding of metaphysics accordingly transforms itself into the illumination of the inner possibility of the understanding of being. And working out the question of being so grasped first brings the decision whether and in what way the being-problem carries an inner relation to the finitude in the human being. A marginal note at this transformation is severely self-critical: "quite relapsing into the sense of the transcendental formulation of the question." The later Heidegger's objection to his own book is registered in its own margins — that asking after the *possibility* of the understanding of being still asks in Kant's manner, from the side of the being that understands.
 
-#### **§ 41. Das Seinsverständnis und das Dasein im Menschen**
+#### **§ 41. The Understanding of Being and the Dasein in the Human Being**
 
 That we human beings comport ourselves toward beings is evident. Set the task of representing beings, we can at any time cite arbitrary beings: what we are not and what is not our like; what we ourselves are; and what we are not ourselves but which is nevertheless, as a self, our like. Beings are familiar to us — but being? Does dizziness not befall us when we are to determine it, even only expressly grasp it? Is being not something like nothing? Indeed no less a figure than Hegel said: "pure being and pure nothing are therefore the same."
 
@@ -1490,7 +1490,7 @@ Kant, in whose philosophizing the problem of the possibility of metaphysics was 
 
 This word strikes down finally every attempt to find even partially an "epistemology" in the *Critique of Pure Reason*; but it also obliges every retrieval of a laying of the ground of metaphysics to come clear about this "metaphysics of metaphysics" far enough that it can be brought onto a concrete ground granting the happening of the grounding a possible path. The phrase from a private letter is made to carry the whole reading, and it does the work of the title: a *metaphysics of metaphysics* is exactly what "Kant and the problem of metaphysics" names, where the ambiguity of the genitive — announced in the preface to the third edition — is the point.
 
-### **C. Die Metaphysik des Daseins als Fundamentalontologie**
+### **C. The Metaphysics of Dasein as Fundamental Ontology**
 
 No anthropology that still understands its own questioning and that questioning's presuppositions can claim even to develop the problem of a laying of the ground of metaphysics, let alone to carry it out. The question necessary for such a grounding — what the human being is — is taken over by the metaphysics of Dasein.
 
@@ -1500,7 +1500,7 @@ In its destiny it remains bound to the concealed happening of metaphysics in Das
 
 The inner requirements of a metaphysics of Dasein and the difficulty of determining it Kant's attempt has sufficiently shown. But its ownmost result, rightly understood, lies precisely in the unveiling of the problem-connection between the question about the possibility of the ontological synthesis and the unveiling of the finitude in the human being — that is, in the demand for a reflection on how a metaphysics of Dasein is to be concretely realized.
 
-#### **§ 42. Die Idee einer Fundamentalontologie**
+#### **§ 42. The Idea of a Fundamental Ontology**
 
 The laying of the ground of metaphysics must, in the setting of its task and in the setting-in, the course and the goal of that task's execution, be guided solely and with constant sharpening by the basic question of the laying of the ground. This basic question is the problem of the inner possibility of the understanding of being, out of which all explicit questioning about being is to be able to grow. The metaphysics of Dasein led by this grounding-question is to unveil Dasein's constitution of being in such a way that this becomes visible as the inner enabling of the understanding of being.
 
@@ -1522,7 +1522,7 @@ The fundamental-ontological basic act of the metaphysics of Dasein as the laying
 
 But genuine recollection must at all times internalize what is recollected, that is, let it come toward one again more and more in its innermost possibility. With respect to the execution of a fundamental ontology that means: it lays its main effort on letting the sole and constant guidance from the side of the question of being take effect undiminished, so as to hold the existential analytic of Dasein assigned to it on the right track. The forgottenness of being is thus already the theme in 1929, and the "retrieval" of the Fourth Section is its counter-move; the later doctrine of *Seinsvergessenheit* is here still a feature of Dasein's constitution rather than of the history of being.
 
-#### **§ 43. Der Einsatz und der Gang der Fundamentalontologie**
+#### **§ 43. The Setting-In and the Course of Fundamental Ontology**
 
 The Dasein in the human being determines him as that being which, being in the midst of beings, comports itself toward them as such, and as this comportment toward beings is essentially otherwise determined in its own being than all the other beings manifest in Dasein.
 
@@ -1552,7 +1552,7 @@ Anxiety is that basic attunement which places one before the nothing. But the be
 
 But the working-out of care as the transcendental basic constitution of Dasein is only the first stage of fundamental ontology. For the further course toward its goal, the determining guidance from the side of the question of being must take effect with growing inexorability.
 
-#### **§ 44. Das Ziel der Fundamentalontologie**
+#### **§ 44. The Goal of Fundamental Ontology**
 
 The further, decisive step of the existential analytic is the concrete illumination of care as temporality. And because the problematic of the laying of the ground of metaphysics has an inner relation to the finitude in the human being, it could seem as though the working-out of "temporality" stood in the service of a concrete determination of the finitude of the human being as a "temporal" being — since the "temporal" usually counts as the finite.
 
@@ -1596,7 +1596,7 @@ The metaphysics of Dasein that is to bring itself to development in fundamental 
 
 And if the problematic of the metaphysics of Dasein is named as that of "Being and Time," it can now be clear, from the clarification of the idea of fundamental ontology, that in this title the "and" harbours the central problem within it. "Being" as well as "time" need not give up their previous meaning, but a more original interpretation must ground the right and the limit of that meaning. The title of the earlier work is thus read the same way the *Kantbuch* has read every title it has touched: the conjunction is the thesis, and the two nouns are what has to be transformed to make it sayable.
 
-#### **§ 45. Die Idee der Fundamentalontologie und die Kritik der reinen Vernunft**
+#### **§ 45. The Idea of Fundamental Ontology and the Critique of Pure Reason**
 
 Kant's laying of the ground of metaphysics had to come upon time as the basic determination of finite transcendence, as the first resolute questioning about the inner possibility of the manifestness of the being of beings — if the understanding of being in Dasein as it were of itself projects being upon time. A marginal note asks of that clause: what does that mean? But his grounding also had to be driven back, beyond the vulgar concept of time, to the transcendental understanding of time as pure self-affection, which in its essence is one with pure apperception and in this unity makes possible the wholeness of a pure sensible reason.
 
