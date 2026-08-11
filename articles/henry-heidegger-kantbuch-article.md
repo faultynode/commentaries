@@ -513,13 +513,23 @@ Line pointers are into the archive text and will drift.
 [^1]: `faultynode/sources`, `sources/henry/Henry - L'essence de la
     manifestation.md` (French, PUF) and `sources/heidegger/Heidegger GA 3 -
     Kant und das Problem der Metaphysik.md` (German, Klostermann, ed. von
-    Herrmann, text of the separate edition with the author's marginalia). Two
-    caveats about the latter. Its conversion carries a systematic
-    mis-decoding of UTF-8 (`Ã¼` for *ü*, `Â§` for *§*, `â€ž` for the opening
-    German quotation mark); all German quoted in this article has been
-    normalized, and the underlying file has not been altered. And GA 3 is not
-    yet registered in the sources repository's `CLAUDE.md` corpus map or in
-    `sources/notes/`, so this article is the first pass over it.
+    Herrmann, text of the separate edition with the author's marginalia).
+    Two notes on the state of the latter, both since addressed. When this
+    article was researched the GA 3 conversion carried a systematic
+    double-encoding fault — its UTF-8 bytes had been decoded as CP1252, so
+    every non-ASCII character appeared as mojibake (`Ã¼` for *ü*, `Â§` for
+    *§*, `â€ž` for the opening German quotation mark), which is why German
+    quoted here was normalized before use. **That file has since been
+    repaired** (`text.encode('cp1252').decode('utf-8')`, line count
+    unchanged at 11,380, so every line pointer in this article still
+    resolves); the repair is documented in the sources repository's
+    `CLAUDE.md`. Untouched by it, and still a live caveat: the polytonic
+    Greek in GA 3 is OCR garble (`cpvatoXoyoi` for φυσιολόγοι at `:8134`),
+    and at `:4642` the word *Enthülltheit* is mis-read as `EnthüUtheit`, so
+    it will not be found by a naive grep. GA 3 was also unregistered in the
+    sources corpus map and notes when this was written; **it is now indexed
+    at length in `sources/notes/truth-husserl-heidegger.md`** and recorded
+    as checked-and-thin in `sources/notes/intentionality-husserl-heidegger.md`.
 
 [^2]: *L'essence de la manifestation*, "Abréviations utilisées dans les notes":
     «*K…* HEIDEGGER, *Kant et le problème de la métaphysique*, trad. A. de
