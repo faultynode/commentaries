@@ -510,10 +510,10 @@ Line pointers are into the archive text and will drift.
 
 ## Notes
 
-[^1]: `faultynode/sources`, `sources/henry/Henry - L'essence de la
-    manifestation.md` (French, PUF) and `sources/heidegger/Heidegger GA 3 -
-    Kant und das Problem der Metaphysik.md` (German, Klostermann, ed. von
-    Herrmann, text of the separate edition with the author's marginalia).
+[^1]: `faultynode/sources`, `sources/henry/henry-lessence-de-la-manifestation.md`
+    (French, PUF) and `sources/heidegger/heidegger-ga-3-kant-und-das-problem-der-metaphysik.md`
+    (German, Klostermann, ed. von Herrmann, text of the separate edition with
+    the author's marginalia).
     Two notes on the state of the latter, both since addressed. When this
     article was researched the GA 3 conversion carried a systematic
     double-encoding fault — its UTF-8 bytes had been decoded as CP1252, so
