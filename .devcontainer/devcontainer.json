@@ -1,0 +1,10 @@
+{
+  "customizations": {
+    "codespaces": {
+      "openOnLaunch": true
+    }
+  },
+  "hostRequirements": {
+    "cpus": 2
+  }
+}
