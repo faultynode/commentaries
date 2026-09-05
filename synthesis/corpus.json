@@ -53578,6 +53578,967 @@
       ]
     },
     {
+      "slug": "Prisme_Commentary",
+      "path": "commentaries/marion/Prisme_Commentary.md",
+      "author": "marion",
+      "title": "Jean-Luc Marion, Sur le prisme métaphysique de Descartes — Commentary",
+      "wordpress_id": null,
+      "sha256": "434950859b94d97a942dc407b94e638e9bb92376932a6eaaf73f6738a668b71f",
+      "lines": 372,
+      "words": 110407,
+      "url": "https://faultynode.github.io/commentaries/commentaries/marion/Prisme_Commentary.html",
+      "sections": [
+        {
+          "id": "h1-jean-luc-marion-sur-le-prisme-metaphysique-de-descartes-commentary",
+          "level": 1,
+          "title": "Jean-Luc Marion, Sur le prisme métaphysique de Descartes — Commentary",
+          "path": [
+            "Jean-Luc Marion, Sur le prisme métaphysique de Descartes — Commentary"
+          ],
+          "anchor": "jean-luc-marion-sur-le-prisme-metaphysique-de-descartes--commentary",
+          "line_start": 1,
+          "line_end": 6,
+          "words": 283
+        },
+        {
+          "id": "h2-the-closure-of-a-question",
+          "level": 2,
+          "title": "The Closure of a Question",
+          "path": [
+            "Jean-Luc Marion, Sur le prisme métaphysique de Descartes — Commentary",
+            "The Closure of a Question"
+          ],
+          "anchor": "the-closure-of-a-question",
+          "line_start": 7,
+          "line_end": 20,
+          "words": 1466
+        },
+        {
+          "id": "h2-i-metaphysics",
+          "level": 2,
+          "title": "I. Metaphysics",
+          "path": [
+            "Jean-Luc Marion, Sur le prisme métaphysique de Descartes — Commentary",
+            "I. Metaphysics"
+          ],
+          "anchor": "i-metaphysics",
+          "line_start": 21,
+          "line_end": 22,
+          "words": 0
+        },
+        {
+          "id": "h3-s-1-an-indeterminate-question",
+          "level": 3,
+          "title": "§ 1. An Indeterminate Question",
+          "path": [
+            "Jean-Luc Marion, Sur le prisme métaphysique de Descartes — Commentary",
+            "I. Metaphysics",
+            "§ 1. An Indeterminate Question"
+          ],
+          "anchor": "an-indeterminate-question",
+          "line_start": 23,
+          "line_end": 32,
+          "words": 1311
+        },
+        {
+          "id": "h3-s-2-metaphysics-as-transgression",
+          "level": 3,
+          "title": "§ 2. Metaphysics as Transgression",
+          "path": [
+            "Jean-Luc Marion, Sur le prisme métaphysique de Descartes — Commentary",
+            "I. Metaphysics",
+            "§ 2. Metaphysics as Transgression"
+          ],
+          "anchor": "metaphysics-as-transgression",
+          "line_start": 33,
+          "line_end": 54,
+          "words": 4510
+        },
+        {
+          "id": "h3-s-3-two-decisions-for-a-first-philosophy",
+          "level": 3,
+          "title": "§ 3. Two Decisions for a First Philosophy",
+          "path": [
+            "Jean-Luc Marion, Sur le prisme métaphysique de Descartes — Commentary",
+            "I. Metaphysics",
+            "§ 3. Two Decisions for a First Philosophy"
+          ],
+          "anchor": "two-decisions-for-a-first-philosophy",
+          "line_start": 55,
+          "line_end": 66,
+          "words": 2515
+        },
+        {
+          "id": "h3-s-4-primacy-and-universality-order-and-being",
+          "level": 3,
+          "title": "§ 4. Primacy and Universality — Order and Being",
+          "path": [
+            "Jean-Luc Marion, Sur le prisme métaphysique de Descartes — Commentary",
+            "I. Metaphysics",
+            "§ 4. Primacy and Universality — Order and Being"
+          ],
+          "anchor": "primacy-and-universality--order-and-being",
+          "line_start": 67,
+          "line_end": 80,
+          "words": 3791
+        },
+        {
+          "id": "h3-s-5-the-other-first",
+          "level": 3,
+          "title": "§ 5. The Other First",
+          "path": [
+            "Jean-Luc Marion, Sur le prisme métaphysique de Descartes — Commentary",
+            "I. Metaphysics",
+            "§ 5. The Other First"
+          ],
+          "anchor": "the-other-first",
+          "line_start": 81,
+          "line_end": 98,
+          "words": 3822
+        },
+        {
+          "id": "h2-ii-onto-theo-logy",
+          "level": 2,
+          "title": "II. Onto-theo-logy",
+          "path": [
+            "Jean-Luc Marion, Sur le prisme métaphysique de Descartes — Commentary",
+            "II. Onto-theo-logy"
+          ],
+          "anchor": "ii-onto-theo-logy",
+          "line_start": 99,
+          "line_end": 100,
+          "words": 0
+        },
+        {
+          "id": "h3-s-6-a-nothing-of-ontology",
+          "level": 3,
+          "title": "§ 6. A Nothing of Ontology",
+          "path": [
+            "Jean-Luc Marion, Sur le prisme métaphysique de Descartes — Commentary",
+            "II. Onto-theo-logy",
+            "§ 6. A Nothing of Ontology"
+          ],
+          "anchor": "a-nothing-of-ontology",
+          "line_start": 101,
+          "line_end": 112,
+          "words": 4642
+        },
+        {
+          "id": "h3-s-7-principle-and-causa-sui",
+          "level": 3,
+          "title": "§ 7. Principle and causa sui",
+          "path": [
+            "Jean-Luc Marion, Sur le prisme métaphysique de Descartes — Commentary",
+            "II. Onto-theo-logy",
+            "§ 7. Principle and causa sui"
+          ],
+          "anchor": "principle-and-causa-sui",
+          "line_start": 113,
+          "line_end": 124,
+          "words": 2922
+        },
+        {
+          "id": "h3-s-8-the-first-word-on-the-being-of-beings-cogitatio",
+          "level": 3,
+          "title": "§ 8. The First Word on the Being of Beings: cogitatio",
+          "path": [
+            "Jean-Luc Marion, Sur le prisme métaphysique de Descartes — Commentary",
+            "II. Onto-theo-logy",
+            "§ 8. The First Word on the Being of Beings: cogitatio"
+          ],
+          "anchor": "the-first-word-on-the-being-of-beings-cogitatio",
+          "line_start": 125,
+          "line_end": 136,
+          "words": 4317
+        },
+        {
+          "id": "h3-s-9-the-second-word-on-the-being-of-beings-causa",
+          "level": 3,
+          "title": "§ 9. The Second Word on the Being of Beings: causa",
+          "path": [
+            "Jean-Luc Marion, Sur le prisme métaphysique de Descartes — Commentary",
+            "II. Onto-theo-logy",
+            "§ 9. The Second Word on the Being of Beings: causa"
+          ],
+          "anchor": "the-second-word-on-the-being-of-beings-causa",
+          "line_start": 137,
+          "line_end": 152,
+          "words": 4758
+        },
+        {
+          "id": "h3-s-10-a-redoubled-onto-theo-logy",
+          "level": 3,
+          "title": "§ 10. A Redoubled Onto-theo-logy",
+          "path": [
+            "Jean-Luc Marion, Sur le prisme métaphysique de Descartes — Commentary",
+            "II. Onto-theo-logy",
+            "§ 10. A Redoubled Onto-theo-logy"
+          ],
+          "anchor": "a-redoubled-onto-theo-logy",
+          "line_start": 153,
+          "line_end": 168,
+          "words": 2917
+        },
+        {
+          "id": "h2-iii-ego",
+          "level": 2,
+          "title": "III. Ego",
+          "path": [
+            "Jean-Luc Marion, Sur le prisme métaphysique de Descartes — Commentary",
+            "III. Ego"
+          ],
+          "anchor": "iii-ego",
+          "line_start": 169,
+          "line_end": 170,
+          "words": 0
+        },
+        {
+          "id": "h3-s-11-the-cogito-sum-as-protocol-statement",
+          "level": 3,
+          "title": "§ 11. The \"cogito, sum\" as Protocol Statement",
+          "path": [
+            "Jean-Luc Marion, Sur le prisme métaphysique de Descartes — Commentary",
+            "III. Ego",
+            "§ 11. The \"cogito, sum\" as Protocol Statement"
+          ],
+          "anchor": "the-cogito-sum-as-protocol-statement",
+          "line_start": 171,
+          "line_end": 182,
+          "words": 4405
+        },
+        {
+          "id": "h3-s-12-the-indeterminate-equivalence-of-being-and-thought",
+          "level": 3,
+          "title": "§ 12. The Indeterminate Equivalence of Being and Thought",
+          "path": [
+            "Jean-Luc Marion, Sur le prisme métaphysique de Descartes — Commentary",
+            "III. Ego",
+            "§ 12. The Indeterminate Equivalence of Being and Thought"
+          ],
+          "anchor": "the-indeterminate-equivalence-of-being-and-thought",
+          "line_start": 183,
+          "line_end": 192,
+          "words": 2765
+        },
+        {
+          "id": "h3-s-13-the-egological-deduction-of-substance",
+          "level": 3,
+          "title": "§ 13. The Egological Deduction of Substance",
+          "path": [
+            "Jean-Luc Marion, Sur le prisme métaphysique de Descartes — Commentary",
+            "III. Ego",
+            "§ 13. The Egological Deduction of Substance"
+          ],
+          "anchor": "the-egological-deduction-of-substance",
+          "line_start": 193,
+          "line_end": 206,
+          "words": 6278
+        },
+        {
+          "id": "h3-s-14-the-subsistent-temporality-of-the-ego",
+          "level": 3,
+          "title": "§ 14. The Subsistent Temporality of the Ego",
+          "path": [
+            "Jean-Luc Marion, Sur le prisme métaphysique de Descartes — Commentary",
+            "III. Ego",
+            "§ 14. The Subsistent Temporality of the Ego"
+          ],
+          "anchor": "the-subsistent-temporality-of-the-ego",
+          "line_start": 207,
+          "line_end": 218,
+          "words": 6536
+        },
+        {
+          "id": "h3-s-15-the-ego-outside-subsistence",
+          "level": 3,
+          "title": "§ 15. The Ego Outside Subsistence",
+          "path": [
+            "Jean-Luc Marion, Sur le prisme métaphysique de Descartes — Commentary",
+            "III. Ego",
+            "§ 15. The Ego Outside Subsistence"
+          ],
+          "anchor": "the-ego-outside-subsistence",
+          "line_start": 219,
+          "line_end": 230,
+          "words": 4377
+        },
+        {
+          "id": "h2-iv-god",
+          "level": 2,
+          "title": "IV. God",
+          "path": [
+            "Jean-Luc Marion, Sur le prisme métaphysique de Descartes — Commentary",
+            "IV. God"
+          ],
+          "anchor": "iv-god",
+          "line_start": 231,
+          "line_end": 232,
+          "words": 0
+        },
+        {
+          "id": "h3-s-16-the-question-of-the-divine-names",
+          "level": 3,
+          "title": "§ 16. The Question of the Divine Names",
+          "path": [
+            "Jean-Luc Marion, Sur le prisme métaphysique de Descartes — Commentary",
+            "IV. God",
+            "§ 16. The Question of the Divine Names"
+          ],
+          "anchor": "the-question-of-the-divine-names",
+          "line_start": 233,
+          "line_end": 246,
+          "words": 3778
+        },
+        {
+          "id": "h3-s-17-substance-and-the-infinite",
+          "level": 3,
+          "title": "§ 17. Substance and the Infinite",
+          "path": [
+            "Jean-Luc Marion, Sur le prisme métaphysique de Descartes — Commentary",
+            "IV. God",
+            "§ 17. Substance and the Infinite"
+          ],
+          "anchor": "substance-and-the-infinite",
+          "line_start": 247,
+          "line_end": 260,
+          "words": 4493
+        },
+        {
+          "id": "h3-s-18-power-and-perfections",
+          "level": 3,
+          "title": "§ 18. Power and Perfections",
+          "path": [
+            "Jean-Luc Marion, Sur le prisme métaphysique de Descartes — Commentary",
+            "IV. God",
+            "§ 18. Power and Perfections"
+          ],
+          "anchor": "power-and-perfections",
+          "line_start": 261,
+          "line_end": 272,
+          "words": 3260
+        },
+        {
+          "id": "h3-s-19-the-system-of-contradictions",
+          "level": 3,
+          "title": "§ 19. The System of Contradictions",
+          "path": [
+            "Jean-Luc Marion, Sur le prisme métaphysique de Descartes — Commentary",
+            "IV. God",
+            "§ 19. The System of Contradictions"
+          ],
+          "anchor": "the-system-of-contradictions",
+          "line_start": 273,
+          "line_end": 284,
+          "words": 5157
+        },
+        {
+          "id": "h3-s-20-the-name-out-of-play",
+          "level": 3,
+          "title": "§ 20. The Name Out of Play",
+          "path": [
+            "Jean-Luc Marion, Sur le prisme métaphysique de Descartes — Commentary",
+            "IV. God",
+            "§ 20. The Name Out of Play"
+          ],
+          "anchor": "the-name-out-of-play",
+          "line_start": 285,
+          "line_end": 296,
+          "words": 5201
+        },
+        {
+          "id": "h2-v-overcoming",
+          "level": 2,
+          "title": "V. Overcoming",
+          "path": [
+            "Jean-Luc Marion, Sur le prisme métaphysique de Descartes — Commentary",
+            "V. Overcoming"
+          ],
+          "anchor": "v-overcoming",
+          "line_start": 297,
+          "line_end": 298,
+          "words": 0
+        },
+        {
+          "id": "h3-s-21-pascal-according-to-cartesian-metaphysics",
+          "level": 3,
+          "title": "§ 21. Pascal According to Cartesian Metaphysics",
+          "path": [
+            "Jean-Luc Marion, Sur le prisme métaphysique de Descartes — Commentary",
+            "V. Overcoming",
+            "§ 21. Pascal According to Cartesian Metaphysics"
+          ],
+          "anchor": "pascal-according-to-cartesian-metaphysics",
+          "line_start": 299,
+          "line_end": 308,
+          "words": 3897
+        },
+        {
+          "id": "h3-s-22-descartes-useless-and-uncertain",
+          "level": 3,
+          "title": "§ 22. Descartes Useless and Uncertain",
+          "path": [
+            "Jean-Luc Marion, Sur le prisme métaphysique de Descartes — Commentary",
+            "V. Overcoming",
+            "§ 22. Descartes Useless and Uncertain"
+          ],
+          "anchor": "descartes-useless-and-uncertain",
+          "line_start": 309,
+          "line_end": 320,
+          "words": 5562
+        },
+        {
+          "id": "h3-s-23-the-distance-between-the-orders",
+          "level": 3,
+          "title": "§ 23. The Distance Between the Orders",
+          "path": [
+            "Jean-Luc Marion, Sur le prisme métaphysique de Descartes — Commentary",
+            "V. Overcoming",
+            "§ 23. The Distance Between the Orders"
+          ],
+          "anchor": "the-distance-between-the-orders",
+          "line_start": 321,
+          "line_end": 334,
+          "words": 5898
+        },
+        {
+          "id": "h3-s-24-the-ego-undone-and-the-decentring-of-the-self",
+          "level": 3,
+          "title": "§ 24. The Ego Undone and the Decentring of the Self",
+          "path": [
+            "Jean-Luc Marion, Sur le prisme métaphysique de Descartes — Commentary",
+            "V. Overcoming",
+            "§ 24. The Ego Undone and the Decentring of the Self"
+          ],
+          "anchor": "the-ego-undone-and-the-decentring-of-the-self",
+          "line_start": 335,
+          "line_end": 346,
+          "words": 4428
+        },
+        {
+          "id": "h3-s-25-the-destitution-of-metaphysics",
+          "level": 3,
+          "title": "§ 25. The Destitution of Metaphysics",
+          "path": [
+            "Jean-Luc Marion, Sur le prisme métaphysique de Descartes — Commentary",
+            "V. Overcoming",
+            "§ 25. The Destitution of Metaphysics"
+          ],
+          "anchor": "the-destitution-of-metaphysics",
+          "line_start": 347,
+          "line_end": 358,
+          "words": 4461
+        },
+        {
+          "id": "h2-the-question-of-an-opening",
+          "level": 2,
+          "title": "The Question of an Opening",
+          "path": [
+            "Jean-Luc Marion, Sur le prisme métaphysique de Descartes — Commentary",
+            "The Question of an Opening"
+          ],
+          "anchor": "the-question-of-an-opening",
+          "line_start": 359,
+          "line_end": 372,
+          "words": 2416
+        }
+      ]
+    },
+    {
+      "slug": "Reduction et donation Commentary",
+      "path": "commentaries/marion/Reduction et donation Commentary.md",
+      "author": "marion",
+      "title": "Commentary on Jean-Luc Marion, Réduction et donation: Recherches sur Husserl, Heidegger et la phénoménologie",
+      "wordpress_id": null,
+      "sha256": "ff0359d74db4c22aeaa69aeaf5b82a675759dd7561fcefd6af6d5e9d95352ca6",
+      "lines": 296,
+      "words": 49682,
+      "url": "https://faultynode.github.io/commentaries/commentaries/marion/Reduction et donation Commentary.html",
+      "sections": [
+        {
+          "id": "h1-commentary-on-jean-luc-marion-reduction-et-donation-recherches-sur-husserl-heide",
+          "level": 1,
+          "title": "Commentary on Jean-Luc Marion, Réduction et donation: Recherches sur Husserl, Heidegger et la phénoménologie",
+          "path": [
+            "Commentary on Jean-Luc Marion, Réduction et donation: Recherches sur Husserl, Heidegger et la phénoménologie"
+          ],
+          "anchor": "commentary-on-jean-luc-marion-reduction-et-donation-recherches-sur-husserl-heidegger-et-la-phenomenologie",
+          "line_start": 1,
+          "line_end": 6,
+          "words": 197
+        },
+        {
+          "id": "h2-foreword",
+          "level": 2,
+          "title": "Foreword",
+          "path": [
+            "Commentary on Jean-Luc Marion, Réduction et donation: Recherches sur Husserl, Heidegger et la phénoménologie",
+            "Foreword"
+          ],
+          "anchor": "foreword",
+          "line_start": 7,
+          "line_end": 12,
+          "words": 323
+        },
+        {
+          "id": "h2-phenomenology-as-such",
+          "level": 2,
+          "title": "Phenomenology as Such",
+          "path": [
+            "Commentary on Jean-Luc Marion, Réduction et donation: Recherches sur Husserl, Heidegger et la phénoménologie",
+            "Phenomenology as Such"
+          ],
+          "anchor": "phenomenology-as-such",
+          "line_start": 13,
+          "line_end": 28,
+          "words": 979
+        },
+        {
+          "id": "h2-i-the-breakthrough-and-the-enlargement",
+          "level": 2,
+          "title": "I. The Breakthrough and the Enlargement",
+          "path": [
+            "Commentary on Jean-Luc Marion, Réduction et donation: Recherches sur Husserl, Heidegger et la phénoménologie",
+            "I. The Breakthrough and the Enlargement"
+          ],
+          "anchor": "i-the-breakthrough-and-the-enlargement",
+          "line_start": 29,
+          "line_end": 30,
+          "words": 0
+        },
+        {
+          "id": "h3-1-two-interpretations-and-an-enlargement",
+          "level": 3,
+          "title": "1 - Two Interpretations and an Enlargement",
+          "path": [
+            "Commentary on Jean-Luc Marion, Réduction et donation: Recherches sur Husserl, Heidegger et la phénoménologie",
+            "I. The Breakthrough and the Enlargement",
+            "1 - Two Interpretations and an Enlargement"
+          ],
+          "anchor": "two-interpretations-and-an-enlargement",
+          "line_start": 31,
+          "line_end": 42,
+          "words": 1640
+        },
+        {
+          "id": "h3-2-the-domains-of-intuition",
+          "level": 3,
+          "title": "2 - The Domains of Intuition",
+          "path": [
+            "Commentary on Jean-Luc Marion, Réduction et donation: Recherches sur Husserl, Heidegger et la phénoménologie",
+            "I. The Breakthrough and the Enlargement",
+            "2 - The Domains of Intuition"
+          ],
+          "anchor": "the-domains-of-intuition",
+          "line_start": 43,
+          "line_end": 52,
+          "words": 1293
+        },
+        {
+          "id": "h3-3-the-accomplishment-of-presence",
+          "level": 3,
+          "title": "3 - The Accomplishment of Presence",
+          "path": [
+            "Commentary on Jean-Luc Marion, Réduction et donation: Recherches sur Husserl, Heidegger et la phénoménologie",
+            "I. The Breakthrough and the Enlargement",
+            "3 - The Accomplishment of Presence"
+          ],
+          "anchor": "the-accomplishment-of-presence",
+          "line_start": 53,
+          "line_end": 60,
+          "words": 1155
+        },
+        {
+          "id": "h3-4-a-misconstrual-of-signification",
+          "level": 3,
+          "title": "4 - A Misconstrual of Signification?",
+          "path": [
+            "Commentary on Jean-Luc Marion, Réduction et donation: Recherches sur Husserl, Heidegger et la phénoménologie",
+            "I. The Breakthrough and the Enlargement",
+            "4 - A Misconstrual of Signification?"
+          ],
+          "anchor": "a-misconstrual-of-signification",
+          "line_start": 61,
+          "line_end": 66,
+          "words": 1066
+        },
+        {
+          "id": "h3-5-presence-without-intuition",
+          "level": 3,
+          "title": "5 - Presence without Intuition",
+          "path": [
+            "Commentary on Jean-Luc Marion, Réduction et donation: Recherches sur Husserl, Heidegger et la phénoménologie",
+            "I. The Breakthrough and the Enlargement",
+            "5 - Presence without Intuition"
+          ],
+          "anchor": "presence-without-intuition",
+          "line_start": 67,
+          "line_end": 78,
+          "words": 2037
+        },
+        {
+          "id": "h3-6-the-evidence-of-givenness",
+          "level": 3,
+          "title": "6 - The Evidence of Givenness",
+          "path": [
+            "Commentary on Jean-Luc Marion, Réduction et donation: Recherches sur Husserl, Heidegger et la phénoménologie",
+            "I. The Breakthrough and the Enlargement",
+            "6 - The Evidence of Givenness"
+          ],
+          "anchor": "the-evidence-of-givenness",
+          "line_start": 79,
+          "line_end": 88,
+          "words": 2182
+        },
+        {
+          "id": "h3-7-givenness-as-question",
+          "level": 3,
+          "title": "7 - Givenness as Question",
+          "path": [
+            "Commentary on Jean-Luc Marion, Réduction et donation: Recherches sur Husserl, Heidegger et la phénoménologie",
+            "I. The Breakthrough and the Enlargement",
+            "7 - Givenness as Question"
+          ],
+          "anchor": "givenness-as-question",
+          "line_start": 89,
+          "line_end": 98,
+          "words": 1648
+        },
+        {
+          "id": "h2-ii-the-entity-and-the-phenomenon",
+          "level": 2,
+          "title": "II. The Entity and the Phenomenon",
+          "path": [
+            "Commentary on Jean-Luc Marion, Réduction et donation: Recherches sur Husserl, Heidegger et la phénoménologie",
+            "II. The Entity and the Phenomenon"
+          ],
+          "anchor": "ii-the-entity-and-the-phenomenon",
+          "line_start": 99,
+          "line_end": 100,
+          "words": 0
+        },
+        {
+          "id": "h3-1-putting-ontology-out-of-play",
+          "level": 3,
+          "title": "1 - Putting Ontology Out of Play",
+          "path": [
+            "Commentary on Jean-Luc Marion, Réduction et donation: Recherches sur Husserl, Heidegger et la phénoménologie",
+            "II. The Entity and the Phenomenon",
+            "1 - Putting Ontology Out of Play"
+          ],
+          "anchor": "putting-ontology-out-of-play",
+          "line_start": 101,
+          "line_end": 106,
+          "words": 960
+        },
+        {
+          "id": "h3-2-the-method-of-ontology",
+          "level": 3,
+          "title": "2 - The Method of Ontology",
+          "path": [
+            "Commentary on Jean-Luc Marion, Réduction et donation: Recherches sur Husserl, Heidegger et la phénoménologie",
+            "II. The Entity and the Phenomenon",
+            "2 - The Method of Ontology"
+          ],
+          "anchor": "the-method-of-ontology",
+          "line_start": 107,
+          "line_end": 114,
+          "words": 1826
+        },
+        {
+          "id": "h3-3-the-reduced-phenomenon-reduced-to-present-objectivity",
+          "level": 3,
+          "title": "3 - The \"Reduced Phenomenon,\" Reduced to Present Objectivity",
+          "path": [
+            "Commentary on Jean-Luc Marion, Réduction et donation: Recherches sur Husserl, Heidegger et la phénoménologie",
+            "II. The Entity and the Phenomenon",
+            "3 - The \"Reduced Phenomenon,\" Reduced to Present Objectivity"
+          ],
+          "anchor": "the-reduced-phenomenon-reduced-to-present-objectivity",
+          "line_start": 115,
+          "line_end": 122,
+          "words": 2612
+        },
+        {
+          "id": "h3-4-from-the-inapparent-phenomenon-to-the-phenomenon-of-being",
+          "level": 3,
+          "title": "4 - From the Inapparent Phenomenon to the \"Phenomenon of Being\"",
+          "path": [
+            "Commentary on Jean-Luc Marion, Réduction et donation: Recherches sur Husserl, Heidegger et la phénoménologie",
+            "II. The Entity and the Phenomenon",
+            "4 - From the Inapparent Phenomenon to the \"Phenomenon of Being\""
+          ],
+          "anchor": "from-the-inapparent-phenomenon-to-the-phenomenon-of-being",
+          "line_start": 123,
+          "line_end": 132,
+          "words": 1855
+        },
+        {
+          "id": "h3-5-the-two-senses-of-the-reduction",
+          "level": 3,
+          "title": "5 - The Two Senses of the Reduction",
+          "path": [
+            "Commentary on Jean-Luc Marion, Réduction et donation: Recherches sur Husserl, Heidegger et la phénoménologie",
+            "II. The Entity and the Phenomenon",
+            "5 - The Two Senses of the Reduction"
+          ],
+          "anchor": "the-two-senses-of-the-reduction",
+          "line_start": 133,
+          "line_end": 138,
+          "words": 1867
+        },
+        {
+          "id": "h3-6-the-redoubled-reduction-dasein",
+          "level": 3,
+          "title": "6 - The Redoubled Reduction — Dasein",
+          "path": [
+            "Commentary on Jean-Luc Marion, Réduction et donation: Recherches sur Husserl, Heidegger et la phénoménologie",
+            "II. The Entity and the Phenomenon",
+            "6 - The Redoubled Reduction — Dasein"
+          ],
+          "anchor": "the-redoubled-reduction--dasein",
+          "line_start": 139,
+          "line_end": 146,
+          "words": 1606
+        },
+        {
+          "id": "h3-7-the-redoubled-reduction-the-nothing",
+          "level": 3,
+          "title": "7 - The Redoubled Reduction — the Nothing",
+          "path": [
+            "Commentary on Jean-Luc Marion, Réduction et donation: Recherches sur Husserl, Heidegger et la phénoménologie",
+            "II. The Entity and the Phenomenon",
+            "7 - The Redoubled Reduction — the Nothing"
+          ],
+          "anchor": "the-redoubled-reduction--the-nothing",
+          "line_start": 147,
+          "line_end": 154,
+          "words": 2074
+        },
+        {
+          "id": "h2-iii-the-ego-and-dasein",
+          "level": 2,
+          "title": "III. The Ego and Dasein",
+          "path": [
+            "Commentary on Jean-Luc Marion, Réduction et donation: Recherches sur Husserl, Heidegger et la phénoménologie",
+            "III. The Ego and Dasein"
+          ],
+          "anchor": "iii-the-ego-and-dasein",
+          "line_start": 155,
+          "line_end": 156,
+          "words": 0
+        },
+        {
+          "id": "h3-1-the-figure-of-descartes-in-heidegger-s-itinerary",
+          "level": 3,
+          "title": "1 - The Figure of Descartes in Heidegger's Itinerary",
+          "path": [
+            "Commentary on Jean-Luc Marion, Réduction et donation: Recherches sur Husserl, Heidegger et la phénoménologie",
+            "III. The Ego and Dasein",
+            "1 - The Figure of Descartes in Heidegger's Itinerary"
+          ],
+          "anchor": "the-figure-of-descartes-in-heideggers-itinerary",
+          "line_start": 157,
+          "line_end": 166,
+          "words": 963
+        },
+        {
+          "id": "h3-2-the-phenomenological-motive-of-the-original-confrontation",
+          "level": 3,
+          "title": "2 - The Phenomenological Motive of the Original Confrontation",
+          "path": [
+            "Commentary on Jean-Luc Marion, Réduction et donation: Recherches sur Husserl, Heidegger et la phénoménologie",
+            "III. The Ego and Dasein",
+            "2 - The Phenomenological Motive of the Original Confrontation"
+          ],
+          "anchor": "the-phenomenological-motive-of-the-original-confrontation",
+          "line_start": 167,
+          "line_end": 178,
+          "words": 1782
+        },
+        {
+          "id": "h3-3-the-first-failure-the-indeterminacy-of-the-ego-sum",
+          "level": 3,
+          "title": "3 - The First Failure: The Indeterminacy of the \"ego sum\"",
+          "path": [
+            "Commentary on Jean-Luc Marion, Réduction et donation: Recherches sur Husserl, Heidegger et la phénoménologie",
+            "III. The Ego and Dasein",
+            "3 - The First Failure: The Indeterminacy of the \"ego sum\""
+          ],
+          "anchor": "the-first-failure-the-indeterminacy-of-the-ego-sum",
+          "line_start": 179,
+          "line_end": 186,
+          "words": 1571
+        },
+        {
+          "id": "h3-4-the-second-failure-the-permanence-of-the-intraworldly-entity",
+          "level": 3,
+          "title": "4 - The Second Failure: The Permanence of the Intraworldly Entity",
+          "path": [
+            "Commentary on Jean-Luc Marion, Réduction et donation: Recherches sur Husserl, Heidegger et la phénoménologie",
+            "III. The Ego and Dasein",
+            "4 - The Second Failure: The Permanence of the Intraworldly Entity"
+          ],
+          "anchor": "the-second-failure-the-permanence-of-the-intraworldly-entity",
+          "line_start": 187,
+          "line_end": 194,
+          "words": 1614
+        },
+        {
+          "id": "h3-5-dasein-as-destruction-of-the-ego",
+          "level": 3,
+          "title": "5 - Dasein as \"Destruction\" of the \"ego\"",
+          "path": [
+            "Commentary on Jean-Luc Marion, Réduction et donation: Recherches sur Husserl, Heidegger et la phénoménologie",
+            "III. The Ego and Dasein",
+            "5 - Dasein as \"Destruction\" of the \"ego\""
+          ],
+          "anchor": "dasein-as-destruction-of-the-ego",
+          "line_start": 195,
+          "line_end": 202,
+          "words": 1959
+        },
+        {
+          "id": "h3-6-dasein-as-confirmation-of-the-ego",
+          "level": 3,
+          "title": "6 - Dasein as Confirmation of the \"ego\"",
+          "path": [
+            "Commentary on Jean-Luc Marion, Réduction et donation: Recherches sur Husserl, Heidegger et la phénoménologie",
+            "III. The Ego and Dasein",
+            "6 - Dasein as Confirmation of the \"ego\""
+          ],
+          "anchor": "dasein-as-confirmation-of-the-ego",
+          "line_start": 203,
+          "line_end": 214,
+          "words": 2151
+        },
+        {
+          "id": "h3-7-the-repetition-of-the-ego",
+          "level": 3,
+          "title": "7 - The Repetition of the \"ego\"",
+          "path": [
+            "Commentary on Jean-Luc Marion, Réduction et donation: Recherches sur Husserl, Heidegger et la phénoménologie",
+            "III. The Ego and Dasein",
+            "7 - The Repetition of the \"ego\""
+          ],
+          "anchor": "the-repetition-of-the-ego",
+          "line_start": 215,
+          "line_end": 224,
+          "words": 1944
+        },
+        {
+          "id": "h2-iv-the-question-of-being-or-ontological-difference",
+          "level": 2,
+          "title": "IV. The Question of Being or Ontological Difference",
+          "path": [
+            "Commentary on Jean-Luc Marion, Réduction et donation: Recherches sur Husserl, Heidegger et la phénoménologie",
+            "IV. The Question of Being or Ontological Difference"
+          ],
+          "anchor": "iv-the-question-of-being-or-ontological-difference",
+          "line_start": 225,
+          "line_end": 226,
+          "words": 0
+        },
+        {
+          "id": "h3-1-the-breakthrough-and-the-difference-sein-und-zeit",
+          "level": 3,
+          "title": "1 - The Breakthrough and the Difference: Sein und Zeit",
+          "path": [
+            "Commentary on Jean-Luc Marion, Réduction et donation: Recherches sur Husserl, Heidegger et la phénoménologie",
+            "IV. The Question of Being or Ontological Difference",
+            "1 - The Breakthrough and the Difference: Sein und Zeit"
+          ],
+          "anchor": "the-breakthrough-and-the-difference-sein-und-zeit",
+          "line_start": 227,
+          "line_end": 232,
+          "words": 842
+        },
+        {
+          "id": "h3-2-emergence-and-delay",
+          "level": 3,
+          "title": "2 - Emergence and Delay",
+          "path": [
+            "Commentary on Jean-Luc Marion, Réduction et donation: Recherches sur Husserl, Heidegger et la phénoménologie",
+            "IV. The Question of Being or Ontological Difference",
+            "2 - Emergence and Delay"
+          ],
+          "anchor": "emergence-and-delay",
+          "line_start": 233,
+          "line_end": 238,
+          "words": 1539
+        },
+        {
+          "id": "h3-3-the-occurrences-and-the-notes",
+          "level": 3,
+          "title": "3 - The Occurrences and the Notes",
+          "path": [
+            "Commentary on Jean-Luc Marion, Réduction et donation: Recherches sur Husserl, Heidegger et la phénoménologie",
+            "IV. The Question of Being or Ontological Difference",
+            "3 - The Occurrences and the Notes"
+          ],
+          "anchor": "the-occurrences-and-the-notes",
+          "line_start": 239,
+          "line_end": 250,
+          "words": 1911
+        },
+        {
+          "id": "h3-4-the-most-cardinal-unthought",
+          "level": 3,
+          "title": "4 - The Most Cardinal Unthought",
+          "path": [
+            "Commentary on Jean-Luc Marion, Réduction et donation: Recherches sur Husserl, Heidegger et la phénoménologie",
+            "IV. The Question of Being or Ontological Difference",
+            "4 - The Most Cardinal Unthought"
+          ],
+          "anchor": "the-most-cardinal-unthought",
+          "line_start": 251,
+          "line_end": 262,
+          "words": 2029
+        },
+        {
+          "id": "h3-5-the-irreducibility-of-the-question-of-being-to-ontological-difference",
+          "level": 3,
+          "title": "5 - The Irreducibility of the \"Question of Being\" to \"Ontological Difference\"",
+          "path": [
+            "Commentary on Jean-Luc Marion, Réduction et donation: Recherches sur Husserl, Heidegger et la phénoménologie",
+            "IV. The Question of Being or Ontological Difference",
+            "5 - The Irreducibility of the \"Question of Being\" to \"Ontological Difference\""
+          ],
+          "anchor": "the-irreducibility-of-the-question-of-being-to-ontological-difference",
+          "line_start": 263,
+          "line_end": 274,
+          "words": 2379
+        },
+        {
+          "id": "h3-6-the-ontic-primacy-of-the-question-of-being-as-interrogation",
+          "level": 3,
+          "title": "6 - The Ontic Primacy of the Question of Being as Interrogation",
+          "path": [
+            "Commentary on Jean-Luc Marion, Réduction et donation: Recherches sur Husserl, Heidegger et la phénoménologie",
+            "IV. The Question of Being or Ontological Difference",
+            "6 - The Ontic Primacy of the Question of Being as Interrogation"
+          ],
+          "anchor": "the-ontic-primacy-of-the-question-of-being-as-interrogation",
+          "line_start": 275,
+          "line_end": 284,
+          "words": 1269
+        },
+        {
+          "id": "h3-7-the-misconstrual-of-ontological-difference-by-ontological-difference",
+          "level": 3,
+          "title": "7 - The Misconstrual of Ontological Difference by \"Ontological Difference\"",
+          "path": [
+            "Commentary on Jean-Luc Marion, Réduction et donation: Recherches sur Husserl, Heidegger et la phénoménologie",
+            "IV. The Question of Being or Ontological Difference",
+            "7 - The Misconstrual of Ontological Difference by \"Ontological Difference\""
+          ],
+          "anchor": "the-misconstrual-of-ontological-difference-by-ontological-difference",
+          "line_start": 285,
+          "line_end": 296,
+          "words": 2109
+        }
+      ]
+    },
+    {
       "slug": "mohanty-philosophy-of-edmund-husserl-commentary",
       "path": "commentaries/mohanty/mohanty-philosophy-of-edmund-husserl-commentary.md",
       "author": "mohanty",
