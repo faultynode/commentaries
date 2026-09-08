@@ -30996,6 +30996,44 @@
       ]
     },
     {
+      "slug": "husserliana-13-editors-introduction-commentary",
+      "path": "commentaries/husserl/husserliana-13-editors-introduction-commentary.md",
+      "author": "husserl",
+      "title": "Commentary on Husserl, Zur Phänomenologie der Intersubjektivität, Erster Teil: 1905–1920 (Husserliana XIII)",
+      "wordpress_id": null,
+      "sha256": "977937c46151d7bf4ad90837b73a5916a68580d269068d4929a5658fe69c8ec6",
+      "lines": 84,
+      "words": 8721,
+      "url": "https://faultynode.github.io/commentaries/commentaries/husserl/husserliana-13-editors-introduction-commentary.html",
+      "sections": [
+        {
+          "id": "h1-commentary-on-husserl-zur-phanomenologie-der-intersubjektivitat-erster-teil-1905",
+          "level": 1,
+          "title": "Commentary on Husserl, Zur Phänomenologie der Intersubjektivität, Erster Teil: 1905–1920 (Husserliana XIII)",
+          "path": [
+            "Commentary on Husserl, Zur Phänomenologie der Intersubjektivität, Erster Teil: 1905–1920 (Husserliana XIII)"
+          ],
+          "anchor": "commentary-on-husserl-zur-phanomenologie-der-intersubjektivitat-erster-teil-19051920-husserliana-xiii",
+          "line_start": 1,
+          "line_end": 2,
+          "words": 0
+        },
+        {
+          "id": "h2-editor-s-introduction-iso-kern",
+          "level": 2,
+          "title": "Editor's Introduction (Iso Kern)",
+          "path": [
+            "Commentary on Husserl, Zur Phänomenologie der Intersubjektivität, Erster Teil: 1905–1920 (Husserliana XIII)",
+            "Editor's Introduction (Iso Kern)"
+          ],
+          "anchor": "editors-introduction-iso-kern",
+          "line_start": 3,
+          "line_end": 84,
+          "words": 8703
+        }
+      ]
+    },
+    {
       "slug": "husserliana-19-1-fifth-logical-investigation-commentary",
       "path": "commentaries/husserl/husserliana-19-1-fifth-logical-investigation-commentary.md",
       "author": "husserl",

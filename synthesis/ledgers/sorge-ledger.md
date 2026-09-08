@@ -153,4 +153,5 @@
 - `husserliana-4-ideas-ii-commentary` - 7 term hits, no record
 - `kern-husserl-and-kant-commentary` - 6 term hits, no record
 - `leibniz-monadology-commentary` - 2 term hits, no record
+- `husserliana-13-editors-introduction-commentary` - 1 term hit, no record
 - `mohanty-philosophy-of-edmund-husserl-commentary` - 1 term hit, no record
