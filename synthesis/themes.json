@@ -57,6 +57,19 @@
       "note": "Partly worked already: commentaries/heidegger/heidegger-husserl-intentionality-article.md is a Stage 4 output written before this pipeline existed. Extract the commentaries, not that article."
     },
     {
+      "id": "wesen",
+      "english": "essence",
+      "glossary_terms": ["Wesen", "Eidos", "vera et immutabilis natura", "true and immutable nature"],
+      "search_terms": [
+        "Wesen", "Wesensschau", "Eidos", "eidetic",
+        "essence", "essences", "essential",
+        "true and immutable nature", "true and immutable natures",
+        "immutable nature", "innate idea", "innate ideas",
+        "simple nature", "simple natures"
+      ],
+      "note": "Descartes' vera et immutabilis natura (Meditation V) and Husserl's Wesen/eidos both do the same anti-nominalist work — an essence's necessary properties hold independently of any existing instance — but Descartes secures it theologically (the eternal truths as God's creation) where Husserl secures it by eidetic intuition alone. Opened from a cross-corpus question about whether Husserl treats 'true and immutable natures' as a phenomenological residuum; no commentary in the corpus yet states the connection explicitly, see gap-007."
+    },
+    {
       "id": "zeitlichkeit",
       "english": "temporality",
       "glossary_terms": ["Zeitlichkeit", "Temporalität", "Zeitbewußtsein"],

@@ -52,6 +52,14 @@
       "needs": "Either a fuller commentary on GA 20 §§ 33-36, or a note in the existing commentary recording whether the course itself drops the term there. This is the general case of a checked absence in a compressed section, and worth settling once as a rule.",
       "raised_by": "synthesis/outputs/sorge-concept-trace.md",
       "status": "open"
+    },
+    {
+      "id": "gap-007",
+      "opened": "2026-09-08",
+      "theme": "wesen",
+      "question": "marion-sur-le-prisme-metaphysique-de-descartes-commentary#h3-s-20-the-name-out-of-play records Marion reading Descartes' geometrical figures and God's essence alike as 'true and immutable natures', innate ideas drawn from thought rather than from sense-perception or imagination. Whether Husserl's eidos/Wesen is this doctrine's phenomenological heir, and whether he would count it as a 'phenomenological residuum' in his own technical sense (Ideas I) or only as the invariant residue of eidetic/free variation (Experience and Judgment), cannot be answered from the corpus: a keyword search of husserl-krisis-commentary, husserliana-3-ideas-i-parts-3-4-commentary, husserliana-9-phenomenological-psychology-commentary, husserliana-39-die-lebenswelt-commentary and husserl-thing-and-space-commentary for 'immutable' and 'residuum' turns up only an unrelated sense of residuum (the hyletic/transcendental residuum of the reduction, not essences), and no commentary discusses vera et immutabilis natura or cites Descartes' Meditation V by name.",
+      "needs": "An extraction pass for theme 'wesen' over the Wesen/Wesensschau sections of husserliana-3-ideas-i-parts-3-4-commentary (the doctrine of essences, Ideas I §§ 2-3 and 22-23) and, if a commentary on Erfahrung und Urteil's free-variation chapters exists or is written, over its eidos/invariant material - to find or confirm the absence of any place where Husserl's own commentary explicitly compares eidetic essences to Descartes' true and immutable natures, and to settle whether 'phenomenological residuum' is ever used there of essences rather than only of transcendental consciousness.",
+      "status": "open"
     }
   ]
 }

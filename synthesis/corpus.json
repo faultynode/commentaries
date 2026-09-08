@@ -53578,472 +53578,6 @@
       ]
     },
     {
-      "slug": "Prisme_Commentary",
-      "path": "commentaries/marion/Prisme_Commentary.md",
-      "author": "marion",
-      "title": "Jean-Luc Marion, Sur le prisme métaphysique de Descartes — Commentary",
-      "wordpress_id": null,
-      "sha256": "434950859b94d97a942dc407b94e638e9bb92376932a6eaaf73f6738a668b71f",
-      "lines": 372,
-      "words": 110407,
-      "url": "https://faultynode.github.io/commentaries/commentaries/marion/Prisme_Commentary.html",
-      "sections": [
-        {
-          "id": "h1-jean-luc-marion-sur-le-prisme-metaphysique-de-descartes-commentary",
-          "level": 1,
-          "title": "Jean-Luc Marion, Sur le prisme métaphysique de Descartes — Commentary",
-          "path": [
-            "Jean-Luc Marion, Sur le prisme métaphysique de Descartes — Commentary"
-          ],
-          "anchor": "jean-luc-marion-sur-le-prisme-metaphysique-de-descartes--commentary",
-          "line_start": 1,
-          "line_end": 6,
-          "words": 283
-        },
-        {
-          "id": "h2-the-closure-of-a-question",
-          "level": 2,
-          "title": "The Closure of a Question",
-          "path": [
-            "Jean-Luc Marion, Sur le prisme métaphysique de Descartes — Commentary",
-            "The Closure of a Question"
-          ],
-          "anchor": "the-closure-of-a-question",
-          "line_start": 7,
-          "line_end": 20,
-          "words": 1466
-        },
-        {
-          "id": "h2-i-metaphysics",
-          "level": 2,
-          "title": "I. Metaphysics",
-          "path": [
-            "Jean-Luc Marion, Sur le prisme métaphysique de Descartes — Commentary",
-            "I. Metaphysics"
-          ],
-          "anchor": "i-metaphysics",
-          "line_start": 21,
-          "line_end": 22,
-          "words": 0
-        },
-        {
-          "id": "h3-s-1-an-indeterminate-question",
-          "level": 3,
-          "title": "§ 1. An Indeterminate Question",
-          "path": [
-            "Jean-Luc Marion, Sur le prisme métaphysique de Descartes — Commentary",
-            "I. Metaphysics",
-            "§ 1. An Indeterminate Question"
-          ],
-          "anchor": "an-indeterminate-question",
-          "line_start": 23,
-          "line_end": 32,
-          "words": 1311
-        },
-        {
-          "id": "h3-s-2-metaphysics-as-transgression",
-          "level": 3,
-          "title": "§ 2. Metaphysics as Transgression",
-          "path": [
-            "Jean-Luc Marion, Sur le prisme métaphysique de Descartes — Commentary",
-            "I. Metaphysics",
-            "§ 2. Metaphysics as Transgression"
-          ],
-          "anchor": "metaphysics-as-transgression",
-          "line_start": 33,
-          "line_end": 54,
-          "words": 4510
-        },
-        {
-          "id": "h3-s-3-two-decisions-for-a-first-philosophy",
-          "level": 3,
-          "title": "§ 3. Two Decisions for a First Philosophy",
-          "path": [
-            "Jean-Luc Marion, Sur le prisme métaphysique de Descartes — Commentary",
-            "I. Metaphysics",
-            "§ 3. Two Decisions for a First Philosophy"
-          ],
-          "anchor": "two-decisions-for-a-first-philosophy",
-          "line_start": 55,
-          "line_end": 66,
-          "words": 2515
-        },
-        {
-          "id": "h3-s-4-primacy-and-universality-order-and-being",
-          "level": 3,
-          "title": "§ 4. Primacy and Universality — Order and Being",
-          "path": [
-            "Jean-Luc Marion, Sur le prisme métaphysique de Descartes — Commentary",
-            "I. Metaphysics",
-            "§ 4. Primacy and Universality — Order and Being"
-          ],
-          "anchor": "primacy-and-universality--order-and-being",
-          "line_start": 67,
-          "line_end": 80,
-          "words": 3791
-        },
-        {
-          "id": "h3-s-5-the-other-first",
-          "level": 3,
-          "title": "§ 5. The Other First",
-          "path": [
-            "Jean-Luc Marion, Sur le prisme métaphysique de Descartes — Commentary",
-            "I. Metaphysics",
-            "§ 5. The Other First"
-          ],
-          "anchor": "the-other-first",
-          "line_start": 81,
-          "line_end": 98,
-          "words": 3822
-        },
-        {
-          "id": "h2-ii-onto-theo-logy",
-          "level": 2,
-          "title": "II. Onto-theo-logy",
-          "path": [
-            "Jean-Luc Marion, Sur le prisme métaphysique de Descartes — Commentary",
-            "II. Onto-theo-logy"
-          ],
-          "anchor": "ii-onto-theo-logy",
-          "line_start": 99,
-          "line_end": 100,
-          "words": 0
-        },
-        {
-          "id": "h3-s-6-a-nothing-of-ontology",
-          "level": 3,
-          "title": "§ 6. A Nothing of Ontology",
-          "path": [
-            "Jean-Luc Marion, Sur le prisme métaphysique de Descartes — Commentary",
-            "II. Onto-theo-logy",
-            "§ 6. A Nothing of Ontology"
-          ],
-          "anchor": "a-nothing-of-ontology",
-          "line_start": 101,
-          "line_end": 112,
-          "words": 4642
-        },
-        {
-          "id": "h3-s-7-principle-and-causa-sui",
-          "level": 3,
-          "title": "§ 7. Principle and causa sui",
-          "path": [
-            "Jean-Luc Marion, Sur le prisme métaphysique de Descartes — Commentary",
-            "II. Onto-theo-logy",
-            "§ 7. Principle and causa sui"
-          ],
-          "anchor": "principle-and-causa-sui",
-          "line_start": 113,
-          "line_end": 124,
-          "words": 2922
-        },
-        {
-          "id": "h3-s-8-the-first-word-on-the-being-of-beings-cogitatio",
-          "level": 3,
-          "title": "§ 8. The First Word on the Being of Beings: cogitatio",
-          "path": [
-            "Jean-Luc Marion, Sur le prisme métaphysique de Descartes — Commentary",
-            "II. Onto-theo-logy",
-            "§ 8. The First Word on the Being of Beings: cogitatio"
-          ],
-          "anchor": "the-first-word-on-the-being-of-beings-cogitatio",
-          "line_start": 125,
-          "line_end": 136,
-          "words": 4317
-        },
-        {
-          "id": "h3-s-9-the-second-word-on-the-being-of-beings-causa",
-          "level": 3,
-          "title": "§ 9. The Second Word on the Being of Beings: causa",
-          "path": [
-            "Jean-Luc Marion, Sur le prisme métaphysique de Descartes — Commentary",
-            "II. Onto-theo-logy",
-            "§ 9. The Second Word on the Being of Beings: causa"
-          ],
-          "anchor": "the-second-word-on-the-being-of-beings-causa",
-          "line_start": 137,
-          "line_end": 152,
-          "words": 4758
-        },
-        {
-          "id": "h3-s-10-a-redoubled-onto-theo-logy",
-          "level": 3,
-          "title": "§ 10. A Redoubled Onto-theo-logy",
-          "path": [
-            "Jean-Luc Marion, Sur le prisme métaphysique de Descartes — Commentary",
-            "II. Onto-theo-logy",
-            "§ 10. A Redoubled Onto-theo-logy"
-          ],
-          "anchor": "a-redoubled-onto-theo-logy",
-          "line_start": 153,
-          "line_end": 168,
-          "words": 2917
-        },
-        {
-          "id": "h2-iii-ego",
-          "level": 2,
-          "title": "III. Ego",
-          "path": [
-            "Jean-Luc Marion, Sur le prisme métaphysique de Descartes — Commentary",
-            "III. Ego"
-          ],
-          "anchor": "iii-ego",
-          "line_start": 169,
-          "line_end": 170,
-          "words": 0
-        },
-        {
-          "id": "h3-s-11-the-cogito-sum-as-protocol-statement",
-          "level": 3,
-          "title": "§ 11. The \"cogito, sum\" as Protocol Statement",
-          "path": [
-            "Jean-Luc Marion, Sur le prisme métaphysique de Descartes — Commentary",
-            "III. Ego",
-            "§ 11. The \"cogito, sum\" as Protocol Statement"
-          ],
-          "anchor": "the-cogito-sum-as-protocol-statement",
-          "line_start": 171,
-          "line_end": 182,
-          "words": 4405
-        },
-        {
-          "id": "h3-s-12-the-indeterminate-equivalence-of-being-and-thought",
-          "level": 3,
-          "title": "§ 12. The Indeterminate Equivalence of Being and Thought",
-          "path": [
-            "Jean-Luc Marion, Sur le prisme métaphysique de Descartes — Commentary",
-            "III. Ego",
-            "§ 12. The Indeterminate Equivalence of Being and Thought"
-          ],
-          "anchor": "the-indeterminate-equivalence-of-being-and-thought",
-          "line_start": 183,
-          "line_end": 192,
-          "words": 2765
-        },
-        {
-          "id": "h3-s-13-the-egological-deduction-of-substance",
-          "level": 3,
-          "title": "§ 13. The Egological Deduction of Substance",
-          "path": [
-            "Jean-Luc Marion, Sur le prisme métaphysique de Descartes — Commentary",
-            "III. Ego",
-            "§ 13. The Egological Deduction of Substance"
-          ],
-          "anchor": "the-egological-deduction-of-substance",
-          "line_start": 193,
-          "line_end": 206,
-          "words": 6278
-        },
-        {
-          "id": "h3-s-14-the-subsistent-temporality-of-the-ego",
-          "level": 3,
-          "title": "§ 14. The Subsistent Temporality of the Ego",
-          "path": [
-            "Jean-Luc Marion, Sur le prisme métaphysique de Descartes — Commentary",
-            "III. Ego",
-            "§ 14. The Subsistent Temporality of the Ego"
-          ],
-          "anchor": "the-subsistent-temporality-of-the-ego",
-          "line_start": 207,
-          "line_end": 218,
-          "words": 6536
-        },
-        {
-          "id": "h3-s-15-the-ego-outside-subsistence",
-          "level": 3,
-          "title": "§ 15. The Ego Outside Subsistence",
-          "path": [
-            "Jean-Luc Marion, Sur le prisme métaphysique de Descartes — Commentary",
-            "III. Ego",
-            "§ 15. The Ego Outside Subsistence"
-          ],
-          "anchor": "the-ego-outside-subsistence",
-          "line_start": 219,
-          "line_end": 230,
-          "words": 4377
-        },
-        {
-          "id": "h2-iv-god",
-          "level": 2,
-          "title": "IV. God",
-          "path": [
-            "Jean-Luc Marion, Sur le prisme métaphysique de Descartes — Commentary",
-            "IV. God"
-          ],
-          "anchor": "iv-god",
-          "line_start": 231,
-          "line_end": 232,
-          "words": 0
-        },
-        {
-          "id": "h3-s-16-the-question-of-the-divine-names",
-          "level": 3,
-          "title": "§ 16. The Question of the Divine Names",
-          "path": [
-            "Jean-Luc Marion, Sur le prisme métaphysique de Descartes — Commentary",
-            "IV. God",
-            "§ 16. The Question of the Divine Names"
-          ],
-          "anchor": "the-question-of-the-divine-names",
-          "line_start": 233,
-          "line_end": 246,
-          "words": 3778
-        },
-        {
-          "id": "h3-s-17-substance-and-the-infinite",
-          "level": 3,
-          "title": "§ 17. Substance and the Infinite",
-          "path": [
-            "Jean-Luc Marion, Sur le prisme métaphysique de Descartes — Commentary",
-            "IV. God",
-            "§ 17. Substance and the Infinite"
-          ],
-          "anchor": "substance-and-the-infinite",
-          "line_start": 247,
-          "line_end": 260,
-          "words": 4493
-        },
-        {
-          "id": "h3-s-18-power-and-perfections",
-          "level": 3,
-          "title": "§ 18. Power and Perfections",
-          "path": [
-            "Jean-Luc Marion, Sur le prisme métaphysique de Descartes — Commentary",
-            "IV. God",
-            "§ 18. Power and Perfections"
-          ],
-          "anchor": "power-and-perfections",
-          "line_start": 261,
-          "line_end": 272,
-          "words": 3260
-        },
-        {
-          "id": "h3-s-19-the-system-of-contradictions",
-          "level": 3,
-          "title": "§ 19. The System of Contradictions",
-          "path": [
-            "Jean-Luc Marion, Sur le prisme métaphysique de Descartes — Commentary",
-            "IV. God",
-            "§ 19. The System of Contradictions"
-          ],
-          "anchor": "the-system-of-contradictions",
-          "line_start": 273,
-          "line_end": 284,
-          "words": 5157
-        },
-        {
-          "id": "h3-s-20-the-name-out-of-play",
-          "level": 3,
-          "title": "§ 20. The Name Out of Play",
-          "path": [
-            "Jean-Luc Marion, Sur le prisme métaphysique de Descartes — Commentary",
-            "IV. God",
-            "§ 20. The Name Out of Play"
-          ],
-          "anchor": "the-name-out-of-play",
-          "line_start": 285,
-          "line_end": 296,
-          "words": 5201
-        },
-        {
-          "id": "h2-v-overcoming",
-          "level": 2,
-          "title": "V. Overcoming",
-          "path": [
-            "Jean-Luc Marion, Sur le prisme métaphysique de Descartes — Commentary",
-            "V. Overcoming"
-          ],
-          "anchor": "v-overcoming",
-          "line_start": 297,
-          "line_end": 298,
-          "words": 0
-        },
-        {
-          "id": "h3-s-21-pascal-according-to-cartesian-metaphysics",
-          "level": 3,
-          "title": "§ 21. Pascal According to Cartesian Metaphysics",
-          "path": [
-            "Jean-Luc Marion, Sur le prisme métaphysique de Descartes — Commentary",
-            "V. Overcoming",
-            "§ 21. Pascal According to Cartesian Metaphysics"
-          ],
-          "anchor": "pascal-according-to-cartesian-metaphysics",
-          "line_start": 299,
-          "line_end": 308,
-          "words": 3897
-        },
-        {
-          "id": "h3-s-22-descartes-useless-and-uncertain",
-          "level": 3,
-          "title": "§ 22. Descartes Useless and Uncertain",
-          "path": [
-            "Jean-Luc Marion, Sur le prisme métaphysique de Descartes — Commentary",
-            "V. Overcoming",
-            "§ 22. Descartes Useless and Uncertain"
-          ],
-          "anchor": "descartes-useless-and-uncertain",
-          "line_start": 309,
-          "line_end": 320,
-          "words": 5562
-        },
-        {
-          "id": "h3-s-23-the-distance-between-the-orders",
-          "level": 3,
-          "title": "§ 23. The Distance Between the Orders",
-          "path": [
-            "Jean-Luc Marion, Sur le prisme métaphysique de Descartes — Commentary",
-            "V. Overcoming",
-            "§ 23. The Distance Between the Orders"
-          ],
-          "anchor": "the-distance-between-the-orders",
-          "line_start": 321,
-          "line_end": 334,
-          "words": 5898
-        },
-        {
-          "id": "h3-s-24-the-ego-undone-and-the-decentring-of-the-self",
-          "level": 3,
-          "title": "§ 24. The Ego Undone and the Decentring of the Self",
-          "path": [
-            "Jean-Luc Marion, Sur le prisme métaphysique de Descartes — Commentary",
-            "V. Overcoming",
-            "§ 24. The Ego Undone and the Decentring of the Self"
-          ],
-          "anchor": "the-ego-undone-and-the-decentring-of-the-self",
-          "line_start": 335,
-          "line_end": 346,
-          "words": 4428
-        },
-        {
-          "id": "h3-s-25-the-destitution-of-metaphysics",
-          "level": 3,
-          "title": "§ 25. The Destitution of Metaphysics",
-          "path": [
-            "Jean-Luc Marion, Sur le prisme métaphysique de Descartes — Commentary",
-            "V. Overcoming",
-            "§ 25. The Destitution of Metaphysics"
-          ],
-          "anchor": "the-destitution-of-metaphysics",
-          "line_start": 347,
-          "line_end": 358,
-          "words": 4461
-        },
-        {
-          "id": "h2-the-question-of-an-opening",
-          "level": 2,
-          "title": "The Question of an Opening",
-          "path": [
-            "Jean-Luc Marion, Sur le prisme métaphysique de Descartes — Commentary",
-            "The Question of an Opening"
-          ],
-          "anchor": "the-question-of-an-opening",
-          "line_start": 359,
-          "line_end": 372,
-          "words": 2416
-        }
-      ]
-    },
-    {
       "slug": "Reduction et donation Commentary",
       "path": "commentaries/marion/Reduction et donation Commentary.md",
       "author": "marion",
@@ -54535,6 +54069,472 @@
           "line_start": 285,
           "line_end": 296,
           "words": 2109
+        }
+      ]
+    },
+    {
+      "slug": "marion-sur-le-prisme-metaphysique-de-descartes-commentary",
+      "path": "commentaries/marion/marion-sur-le-prisme-metaphysique-de-descartes-commentary.md",
+      "author": "marion",
+      "title": "Jean-Luc Marion, Sur le prisme métaphysique de Descartes — Commentary",
+      "wordpress_id": null,
+      "sha256": "434950859b94d97a942dc407b94e638e9bb92376932a6eaaf73f6738a668b71f",
+      "lines": 372,
+      "words": 110407,
+      "url": "https://faultynode.github.io/commentaries/commentaries/marion/marion-sur-le-prisme-metaphysique-de-descartes-commentary.html",
+      "sections": [
+        {
+          "id": "h1-jean-luc-marion-sur-le-prisme-metaphysique-de-descartes-commentary",
+          "level": 1,
+          "title": "Jean-Luc Marion, Sur le prisme métaphysique de Descartes — Commentary",
+          "path": [
+            "Jean-Luc Marion, Sur le prisme métaphysique de Descartes — Commentary"
+          ],
+          "anchor": "jean-luc-marion-sur-le-prisme-metaphysique-de-descartes--commentary",
+          "line_start": 1,
+          "line_end": 6,
+          "words": 283
+        },
+        {
+          "id": "h2-the-closure-of-a-question",
+          "level": 2,
+          "title": "The Closure of a Question",
+          "path": [
+            "Jean-Luc Marion, Sur le prisme métaphysique de Descartes — Commentary",
+            "The Closure of a Question"
+          ],
+          "anchor": "the-closure-of-a-question",
+          "line_start": 7,
+          "line_end": 20,
+          "words": 1466
+        },
+        {
+          "id": "h2-i-metaphysics",
+          "level": 2,
+          "title": "I. Metaphysics",
+          "path": [
+            "Jean-Luc Marion, Sur le prisme métaphysique de Descartes — Commentary",
+            "I. Metaphysics"
+          ],
+          "anchor": "i-metaphysics",
+          "line_start": 21,
+          "line_end": 22,
+          "words": 0
+        },
+        {
+          "id": "h3-s-1-an-indeterminate-question",
+          "level": 3,
+          "title": "§ 1. An Indeterminate Question",
+          "path": [
+            "Jean-Luc Marion, Sur le prisme métaphysique de Descartes — Commentary",
+            "I. Metaphysics",
+            "§ 1. An Indeterminate Question"
+          ],
+          "anchor": "an-indeterminate-question",
+          "line_start": 23,
+          "line_end": 32,
+          "words": 1311
+        },
+        {
+          "id": "h3-s-2-metaphysics-as-transgression",
+          "level": 3,
+          "title": "§ 2. Metaphysics as Transgression",
+          "path": [
+            "Jean-Luc Marion, Sur le prisme métaphysique de Descartes — Commentary",
+            "I. Metaphysics",
+            "§ 2. Metaphysics as Transgression"
+          ],
+          "anchor": "metaphysics-as-transgression",
+          "line_start": 33,
+          "line_end": 54,
+          "words": 4510
+        },
+        {
+          "id": "h3-s-3-two-decisions-for-a-first-philosophy",
+          "level": 3,
+          "title": "§ 3. Two Decisions for a First Philosophy",
+          "path": [
+            "Jean-Luc Marion, Sur le prisme métaphysique de Descartes — Commentary",
+            "I. Metaphysics",
+            "§ 3. Two Decisions for a First Philosophy"
+          ],
+          "anchor": "two-decisions-for-a-first-philosophy",
+          "line_start": 55,
+          "line_end": 66,
+          "words": 2515
+        },
+        {
+          "id": "h3-s-4-primacy-and-universality-order-and-being",
+          "level": 3,
+          "title": "§ 4. Primacy and Universality — Order and Being",
+          "path": [
+            "Jean-Luc Marion, Sur le prisme métaphysique de Descartes — Commentary",
+            "I. Metaphysics",
+            "§ 4. Primacy and Universality — Order and Being"
+          ],
+          "anchor": "primacy-and-universality--order-and-being",
+          "line_start": 67,
+          "line_end": 80,
+          "words": 3791
+        },
+        {
+          "id": "h3-s-5-the-other-first",
+          "level": 3,
+          "title": "§ 5. The Other First",
+          "path": [
+            "Jean-Luc Marion, Sur le prisme métaphysique de Descartes — Commentary",
+            "I. Metaphysics",
+            "§ 5. The Other First"
+          ],
+          "anchor": "the-other-first",
+          "line_start": 81,
+          "line_end": 98,
+          "words": 3822
+        },
+        {
+          "id": "h2-ii-onto-theo-logy",
+          "level": 2,
+          "title": "II. Onto-theo-logy",
+          "path": [
+            "Jean-Luc Marion, Sur le prisme métaphysique de Descartes — Commentary",
+            "II. Onto-theo-logy"
+          ],
+          "anchor": "ii-onto-theo-logy",
+          "line_start": 99,
+          "line_end": 100,
+          "words": 0
+        },
+        {
+          "id": "h3-s-6-a-nothing-of-ontology",
+          "level": 3,
+          "title": "§ 6. A Nothing of Ontology",
+          "path": [
+            "Jean-Luc Marion, Sur le prisme métaphysique de Descartes — Commentary",
+            "II. Onto-theo-logy",
+            "§ 6. A Nothing of Ontology"
+          ],
+          "anchor": "a-nothing-of-ontology",
+          "line_start": 101,
+          "line_end": 112,
+          "words": 4642
+        },
+        {
+          "id": "h3-s-7-principle-and-causa-sui",
+          "level": 3,
+          "title": "§ 7. Principle and causa sui",
+          "path": [
+            "Jean-Luc Marion, Sur le prisme métaphysique de Descartes — Commentary",
+            "II. Onto-theo-logy",
+            "§ 7. Principle and causa sui"
+          ],
+          "anchor": "principle-and-causa-sui",
+          "line_start": 113,
+          "line_end": 124,
+          "words": 2922
+        },
+        {
+          "id": "h3-s-8-the-first-word-on-the-being-of-beings-cogitatio",
+          "level": 3,
+          "title": "§ 8. The First Word on the Being of Beings: cogitatio",
+          "path": [
+            "Jean-Luc Marion, Sur le prisme métaphysique de Descartes — Commentary",
+            "II. Onto-theo-logy",
+            "§ 8. The First Word on the Being of Beings: cogitatio"
+          ],
+          "anchor": "the-first-word-on-the-being-of-beings-cogitatio",
+          "line_start": 125,
+          "line_end": 136,
+          "words": 4317
+        },
+        {
+          "id": "h3-s-9-the-second-word-on-the-being-of-beings-causa",
+          "level": 3,
+          "title": "§ 9. The Second Word on the Being of Beings: causa",
+          "path": [
+            "Jean-Luc Marion, Sur le prisme métaphysique de Descartes — Commentary",
+            "II. Onto-theo-logy",
+            "§ 9. The Second Word on the Being of Beings: causa"
+          ],
+          "anchor": "the-second-word-on-the-being-of-beings-causa",
+          "line_start": 137,
+          "line_end": 152,
+          "words": 4758
+        },
+        {
+          "id": "h3-s-10-a-redoubled-onto-theo-logy",
+          "level": 3,
+          "title": "§ 10. A Redoubled Onto-theo-logy",
+          "path": [
+            "Jean-Luc Marion, Sur le prisme métaphysique de Descartes — Commentary",
+            "II. Onto-theo-logy",
+            "§ 10. A Redoubled Onto-theo-logy"
+          ],
+          "anchor": "a-redoubled-onto-theo-logy",
+          "line_start": 153,
+          "line_end": 168,
+          "words": 2917
+        },
+        {
+          "id": "h2-iii-ego",
+          "level": 2,
+          "title": "III. Ego",
+          "path": [
+            "Jean-Luc Marion, Sur le prisme métaphysique de Descartes — Commentary",
+            "III. Ego"
+          ],
+          "anchor": "iii-ego",
+          "line_start": 169,
+          "line_end": 170,
+          "words": 0
+        },
+        {
+          "id": "h3-s-11-the-cogito-sum-as-protocol-statement",
+          "level": 3,
+          "title": "§ 11. The \"cogito, sum\" as Protocol Statement",
+          "path": [
+            "Jean-Luc Marion, Sur le prisme métaphysique de Descartes — Commentary",
+            "III. Ego",
+            "§ 11. The \"cogito, sum\" as Protocol Statement"
+          ],
+          "anchor": "the-cogito-sum-as-protocol-statement",
+          "line_start": 171,
+          "line_end": 182,
+          "words": 4405
+        },
+        {
+          "id": "h3-s-12-the-indeterminate-equivalence-of-being-and-thought",
+          "level": 3,
+          "title": "§ 12. The Indeterminate Equivalence of Being and Thought",
+          "path": [
+            "Jean-Luc Marion, Sur le prisme métaphysique de Descartes — Commentary",
+            "III. Ego",
+            "§ 12. The Indeterminate Equivalence of Being and Thought"
+          ],
+          "anchor": "the-indeterminate-equivalence-of-being-and-thought",
+          "line_start": 183,
+          "line_end": 192,
+          "words": 2765
+        },
+        {
+          "id": "h3-s-13-the-egological-deduction-of-substance",
+          "level": 3,
+          "title": "§ 13. The Egological Deduction of Substance",
+          "path": [
+            "Jean-Luc Marion, Sur le prisme métaphysique de Descartes — Commentary",
+            "III. Ego",
+            "§ 13. The Egological Deduction of Substance"
+          ],
+          "anchor": "the-egological-deduction-of-substance",
+          "line_start": 193,
+          "line_end": 206,
+          "words": 6278
+        },
+        {
+          "id": "h3-s-14-the-subsistent-temporality-of-the-ego",
+          "level": 3,
+          "title": "§ 14. The Subsistent Temporality of the Ego",
+          "path": [
+            "Jean-Luc Marion, Sur le prisme métaphysique de Descartes — Commentary",
+            "III. Ego",
+            "§ 14. The Subsistent Temporality of the Ego"
+          ],
+          "anchor": "the-subsistent-temporality-of-the-ego",
+          "line_start": 207,
+          "line_end": 218,
+          "words": 6536
+        },
+        {
+          "id": "h3-s-15-the-ego-outside-subsistence",
+          "level": 3,
+          "title": "§ 15. The Ego Outside Subsistence",
+          "path": [
+            "Jean-Luc Marion, Sur le prisme métaphysique de Descartes — Commentary",
+            "III. Ego",
+            "§ 15. The Ego Outside Subsistence"
+          ],
+          "anchor": "the-ego-outside-subsistence",
+          "line_start": 219,
+          "line_end": 230,
+          "words": 4377
+        },
+        {
+          "id": "h2-iv-god",
+          "level": 2,
+          "title": "IV. God",
+          "path": [
+            "Jean-Luc Marion, Sur le prisme métaphysique de Descartes — Commentary",
+            "IV. God"
+          ],
+          "anchor": "iv-god",
+          "line_start": 231,
+          "line_end": 232,
+          "words": 0
+        },
+        {
+          "id": "h3-s-16-the-question-of-the-divine-names",
+          "level": 3,
+          "title": "§ 16. The Question of the Divine Names",
+          "path": [
+            "Jean-Luc Marion, Sur le prisme métaphysique de Descartes — Commentary",
+            "IV. God",
+            "§ 16. The Question of the Divine Names"
+          ],
+          "anchor": "the-question-of-the-divine-names",
+          "line_start": 233,
+          "line_end": 246,
+          "words": 3778
+        },
+        {
+          "id": "h3-s-17-substance-and-the-infinite",
+          "level": 3,
+          "title": "§ 17. Substance and the Infinite",
+          "path": [
+            "Jean-Luc Marion, Sur le prisme métaphysique de Descartes — Commentary",
+            "IV. God",
+            "§ 17. Substance and the Infinite"
+          ],
+          "anchor": "substance-and-the-infinite",
+          "line_start": 247,
+          "line_end": 260,
+          "words": 4493
+        },
+        {
+          "id": "h3-s-18-power-and-perfections",
+          "level": 3,
+          "title": "§ 18. Power and Perfections",
+          "path": [
+            "Jean-Luc Marion, Sur le prisme métaphysique de Descartes — Commentary",
+            "IV. God",
+            "§ 18. Power and Perfections"
+          ],
+          "anchor": "power-and-perfections",
+          "line_start": 261,
+          "line_end": 272,
+          "words": 3260
+        },
+        {
+          "id": "h3-s-19-the-system-of-contradictions",
+          "level": 3,
+          "title": "§ 19. The System of Contradictions",
+          "path": [
+            "Jean-Luc Marion, Sur le prisme métaphysique de Descartes — Commentary",
+            "IV. God",
+            "§ 19. The System of Contradictions"
+          ],
+          "anchor": "the-system-of-contradictions",
+          "line_start": 273,
+          "line_end": 284,
+          "words": 5157
+        },
+        {
+          "id": "h3-s-20-the-name-out-of-play",
+          "level": 3,
+          "title": "§ 20. The Name Out of Play",
+          "path": [
+            "Jean-Luc Marion, Sur le prisme métaphysique de Descartes — Commentary",
+            "IV. God",
+            "§ 20. The Name Out of Play"
+          ],
+          "anchor": "the-name-out-of-play",
+          "line_start": 285,
+          "line_end": 296,
+          "words": 5201
+        },
+        {
+          "id": "h2-v-overcoming",
+          "level": 2,
+          "title": "V. Overcoming",
+          "path": [
+            "Jean-Luc Marion, Sur le prisme métaphysique de Descartes — Commentary",
+            "V. Overcoming"
+          ],
+          "anchor": "v-overcoming",
+          "line_start": 297,
+          "line_end": 298,
+          "words": 0
+        },
+        {
+          "id": "h3-s-21-pascal-according-to-cartesian-metaphysics",
+          "level": 3,
+          "title": "§ 21. Pascal According to Cartesian Metaphysics",
+          "path": [
+            "Jean-Luc Marion, Sur le prisme métaphysique de Descartes — Commentary",
+            "V. Overcoming",
+            "§ 21. Pascal According to Cartesian Metaphysics"
+          ],
+          "anchor": "pascal-according-to-cartesian-metaphysics",
+          "line_start": 299,
+          "line_end": 308,
+          "words": 3897
+        },
+        {
+          "id": "h3-s-22-descartes-useless-and-uncertain",
+          "level": 3,
+          "title": "§ 22. Descartes Useless and Uncertain",
+          "path": [
+            "Jean-Luc Marion, Sur le prisme métaphysique de Descartes — Commentary",
+            "V. Overcoming",
+            "§ 22. Descartes Useless and Uncertain"
+          ],
+          "anchor": "descartes-useless-and-uncertain",
+          "line_start": 309,
+          "line_end": 320,
+          "words": 5562
+        },
+        {
+          "id": "h3-s-23-the-distance-between-the-orders",
+          "level": 3,
+          "title": "§ 23. The Distance Between the Orders",
+          "path": [
+            "Jean-Luc Marion, Sur le prisme métaphysique de Descartes — Commentary",
+            "V. Overcoming",
+            "§ 23. The Distance Between the Orders"
+          ],
+          "anchor": "the-distance-between-the-orders",
+          "line_start": 321,
+          "line_end": 334,
+          "words": 5898
+        },
+        {
+          "id": "h3-s-24-the-ego-undone-and-the-decentring-of-the-self",
+          "level": 3,
+          "title": "§ 24. The Ego Undone and the Decentring of the Self",
+          "path": [
+            "Jean-Luc Marion, Sur le prisme métaphysique de Descartes — Commentary",
+            "V. Overcoming",
+            "§ 24. The Ego Undone and the Decentring of the Self"
+          ],
+          "anchor": "the-ego-undone-and-the-decentring-of-the-self",
+          "line_start": 335,
+          "line_end": 346,
+          "words": 4428
+        },
+        {
+          "id": "h3-s-25-the-destitution-of-metaphysics",
+          "level": 3,
+          "title": "§ 25. The Destitution of Metaphysics",
+          "path": [
+            "Jean-Luc Marion, Sur le prisme métaphysique de Descartes — Commentary",
+            "V. Overcoming",
+            "§ 25. The Destitution of Metaphysics"
+          ],
+          "anchor": "the-destitution-of-metaphysics",
+          "line_start": 347,
+          "line_end": 358,
+          "words": 4461
+        },
+        {
+          "id": "h2-the-question-of-an-opening",
+          "level": 2,
+          "title": "The Question of an Opening",
+          "path": [
+            "Jean-Luc Marion, Sur le prisme métaphysique de Descartes — Commentary",
+            "The Question of an Opening"
+          ],
+          "anchor": "the-question-of-an-opening",
+          "line_start": 359,
+          "line_end": 372,
+          "words": 2416
         }
       ]
     },

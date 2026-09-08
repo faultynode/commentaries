@@ -1,0 +1,56 @@
+{
+  "schema_version": 1,
+  "theme": "wesen",
+  "commentary": "marion-sur-le-prisme-metaphysique-de-descartes-commentary",
+  "source_sha256": "434950859b94d97a942dc407b94e638e9bb92376932a6eaaf73f6738a668b71f",
+  "extracted_at": "2026-09-08",
+  "extractor": {
+    "agent": "claude-code",
+    "prompt": "prompts/extraction-prompt.md",
+    "note": "Grep-searched the whole file for 'immutable', 'vera et immutabilis', 'true and immutable', 'geometry/geometric/geometrical', 'essence of the triangle', 'eidos', 'innate' and 'residuum'; closely read lines 90-149 and 190-319 (chapters II-IV) paragraph by paragraph. Lines 1-89, 150-189 and 320-371 (chapter I's mathesis universalis material and chapter V's Pascal material) were keyword-scanned but not closely read, hence coverage is declared partial."
+  },
+  "coverage": "partial",
+  "coverage_note": "Covers chapter II §6 (p. 80-82, the Rule XIV figuratum passage) and chapter IV §20 (pp. 276-281, the fifth-Meditation 'true and immutable natures' passage) in full. Chapter I (§§1-5, pp. 1-72), the ego/substance material of chapter III not already read (roughly pp. 160-176), and chapter V (Pascal, pp. 296-324) were only keyword-scanned for the theme's search terms, not read paragraph by paragraph.",
+  "units": [
+    {
+      "id": "wesen/marion-prisme/001",
+      "locator": "marion-sur-le-prisme-metaphysique-de-descartes-commentary#h3-s-20-the-name-out-of-play",
+      "term": "innate idea",
+      "status": "introduced",
+      "claim": "The idea of God in the fifth Meditation is presented as an innate idea drawn from the same reserve of thought as every other innate idea, not from experience.",
+      "quote": "exactly as all the innate ideas are drawn from thought, the idea of God is drawn from the reserve where, among others, it was as it were stocked"
+    },
+    {
+      "id": "wesen/marion-prisme/002",
+      "locator": "marion-sur-le-prisme-metaphysique-de-descartes-commentary#h3-s-20-the-name-out-of-play",
+      "term": "true and immutable natures",
+      "status": "introduced",
+      "claim": "Innate ideas are said to offer their true and immutable natures, each attesting a determinate nature, essence or form of it, immutable and eternal.",
+      "quote": "namely all those that offer their true and immutable natures and so attest a certain determinate nature or essence or form of it, immutable and eternal"
+    },
+    {
+      "id": "wesen/marion-prisme/003",
+      "locator": "marion-sur-le-prisme-metaphysique-de-descartes-commentary#h3-s-20-the-name-out-of-play",
+      "term": "figure",
+      "status": "introduced",
+      "claim": "Marion states that the idea of God is found in the mind no less than the idea of a triangle, placing it among the simple natures of extension, figure and number.",
+      "quote": "the idea of God is found in me no less, that is, at most as much, as the idea of a triangle, and so as the simple natures of extension, figure, number"
+    },
+    {
+      "id": "wesen/marion-prisme/004",
+      "locator": "marion-sur-le-prisme-metaphysique-de-descartes-commentary#h3-s-20-the-name-out-of-play",
+      "term": "true and immutable natures",
+      "status": "criticized",
+      "claim": "Because determination [B], God as supremely perfect, shares the epistemic status of the true-and-immutable simple natures, Marion concludes it contradicts determination [A], God as incomprehensible infinite.",
+      "quote": "it must definitively be admitted that [A] and [B] contradict one another on the parameter of incomprehensibility"
+    }
+  ],
+  "absences": [
+    {
+      "locator": "marion-sur-le-prisme-metaphysique-de-descartes-commentary#h3-s-6-a-nothing-of-ontology",
+      "expected_because": "This passage treats an extended geometrical figure at length as an object the mind reduces to a minimal ens (Rule XIV's figuratum: body, surface, line, point) - the same kind of geometrical object that section 20 later calls a true and immutable nature - yet describes it only as an ens 'respectu intellectus nostri', without the immutable-nature vocabulary.",
+      "absent_terms": ["true and immutable nature", "true and immutable natures", "immutable nature", "vera et immutabilis natura"],
+      "note": "The passage uses essentia and figure extensively but never pairs geometrical figure with immutable-nature vocabulary; that pairing appears only later, at section 20, once Marion turns to the fifth Meditation."
+    }
+  ]
+}

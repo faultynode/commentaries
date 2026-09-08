@@ -76,6 +76,20 @@ Next candidates, by term density:
 - [ ] `Reduction et donation Commentary` (undated) - 45 hits
 - ... 25 more; see `synthesis_query.py --theme vorhandenheit`
 
+### wesen - essence
+
+1 commentary extracted · 4 units · 1 absences · 1 partial
+
+Next candidates, by term density:
+
+- [ ] `henry-the-essence-of-manifestation-commentary` (undated) - 3585 hits
+- [ ] `husserliana-3-ideas-i-parts-3-4-commentary` (undated) - 1038 hits
+- [ ] `Heidegger GA 3 - Kant und das Problem der Metaphysik Commentary` (undated) - 508 hits
+- [ ] `heidegger-ga-3-kant-und-das-problem-der-metaphysik-commentary` (undated) - 508 hits
+- [ ] `heidegger-sein-und-zeit-commentary` (1927) - 394 hits
+- [ ] `husserliana-5-ideas-iii-commentary` (undated) - 356 hits
+- ... 45 more; see `synthesis_query.py --theme wesen`
+
 ### zeitlichkeit - temporality
 
 0 commentaries extracted · 0 units · 0 absences
@@ -126,3 +140,5 @@ Flagged by a synthesis pass as unsupported by the ledgers. This is the reading q
       *Needs:* Extraction of GA 20 §§ 19-26, where the earlier use of Besorgen would be recorded. Until then the 'revised' status rests on the commentary's own retrospective phrasing rather than on two dated units.
 - [ ] **gap-006** (open, sorge) The GA 20 § 35 absence - conscience and being-guilty treated without the vocabulary of care, next to a death analysis in § 34 that uses it - is either a fact about the course or an artifact of a commentary section that runs to 358 words. The extraction record flags the ambiguity and cannot resolve it.
       *Needs:* Either a fuller commentary on GA 20 §§ 33-36, or a note in the existing commentary recording whether the course itself drops the term there. This is the general case of a checked absence in a compressed section, and worth settling once as a rule.
+- [ ] **gap-007** (open, wesen) marion-sur-le-prisme-metaphysique-de-descartes-commentary#h3-s-20-the-name-out-of-play records Marion reading Descartes' geometrical figures and God's essence alike as 'true and immutable natures', innate ideas drawn from thought rather than from sense-perception or imagination. Whether Husserl's eidos/Wesen is this doctrine's phenomenological heir, and whether he would count it as a 'phenomenological residuum' in his own technical sense (Ideas I) or only as the invariant residue of eidetic/free variation (Experience and Judgment), cannot be answered from the corpus: a keyword search of husserl-krisis-commentary, husserliana-3-ideas-i-parts-3-4-commentary, husserliana-9-phenomenological-psychology-commentary, husserliana-39-die-lebenswelt-commentary and husserl-thing-and-space-commentary for 'immutable' and 'residuum' turns up only an unrelated sense of residuum (the hyletic/transcendental residuum of the reduction, not essences), and no commentary discusses vera et immutabilis natura or cites Descartes' Meditation V by name.
+      *Needs:* An extraction pass for theme 'wesen' over the Wesen/Wesensschau sections of husserliana-3-ideas-i-parts-3-4-commentary (the doctrine of essences, Ideas I §§ 2-3 and 22-23) and, if a commentary on Erfahrung und Urteil's free-variation chapters exists or is written, over its eidos/invariant material - to find or confirm the absence of any place where Husserl's own commentary explicitly compares eidetic essences to Descartes' true and immutable natures, and to settle whether 'phenomenological residuum' is ever used there of essences rather than only of transcendental consciousness.

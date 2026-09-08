@@ -464,6 +464,21 @@
       ]
     },
     {
+      "commentary": "marion-sur-le-prisme-metaphysique-de-descartes-commentary",
+      "role": "reception",
+      "status": "resolved",
+      "strata": [
+        {
+          "id": "prisme-1986",
+          "label": "Sur le prisme métaphysique de Descartes",
+          "year_start": 1986,
+          "year_end": 1986,
+          "stated_in_commentary": true,
+          "evidence": "\"References are to the pagination of the PUF/Épiméthée edition (Paris, 1986)\""
+        }
+      ]
+    },
+    {
       "commentary": "mohanty-philosophy-of-edmund-husserl-commentary",
       "role": "reception",
       "status": "unresolved",

@@ -112,7 +112,7 @@
 - `heidegger-ga-18-grundbegriffe-der-aristotelischen-philosophie-commentary` - 156 term hits, no record
 - `bernet-la-vie-du-sujet-commentary` - 138 term hits, no record
 - `heidegger-ga-61-phenomenological-interpretations-of-aristotle-commentary` - 133 term hits, no record
-- `Prisme_Commentary` - 83 term hits, no record
+- `marion-sur-le-prisme-metaphysique-de-descartes-commentary` - 83 term hits, no record
 - `kant-kritik-der-reinen-vernunft-commentary` - 75 term hits, no record
 - `husserl-thing-and-space-commentary` - 66 term hits, no record
 - `husserliana-3-ideas-i-parts-3-4-commentary` - 65 term hits, no record
