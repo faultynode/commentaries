@@ -1,0 +1,51 @@
+{
+  "schema_version": 1,
+  "commentary": "husserliana-39-die-lebenswelt-commentary",
+  "source_sha256": "d62704cb5caf45b6bdf8945916547e1f1c889ace9b84a84347f16fce9c32a105",
+  "extracted_at": "2026-09-09",
+  "extractor": {
+    "agent": "claude-code",
+    "prompt": "prompts/inheritance-prompt.md",
+    "note": "source_sha256 is the LF digest (CRLF checkout; local validate reports a false staleness, CI on LF passes). Die Lebenswelt is a volume of research manuscripts and names predecessors sparingly: the explicit engagement is with Descartes (the ego cogito and the doubt-attempt, in Text Nr. 1, Text Nr. 25, and Supplement XV) and with the Kantian title 'transcendental aesthetics' (Text Nr. 60, Text Nr. 43). The pervasive Leibnizian talk of souls as monads is Husserl's own idiom and not marked as engagement. One record per commentary covering all predecessors."
+  },
+  "coverage": "partial",
+  "coverage_note": "Covers Die Lebenswelt's thin explicit engagement with predecessors: Descartes (the epoch-making beginning of demonstrating the self-sufficiency of the ego cogito through doubting the world, which Descartes neither understood nor consistently maintained; the rejection of the Cartesian doubt-attempt, since for the ego with world-consciousness the non-being of the world is only hypothetically, countersensically positable; and the new, deep sense given to the Cartesian doctrine of the possible non-being of the world as a historical apodicticity), and Kant (the title 'transcendental aesthetics' taken over for a transcendental ontology and phenomenology of the intuitively experienced world). Not covered: the detailed analyses of pre-givenness, horizon structure, orientation, and the reality-structure of the life-world, which proceed without predecessor engagement.",
+  "engagements": [
+    {
+      "id": "inh/hua39/001",
+      "locator": "husserliana-39-die-lebenswelt-commentary#h3-text-nr-1-primal-institution-of-the-sense-of-being-of-pre-given-individual-being",
+      "primary_locator": "Die Lebenswelt, Text Nr. 1",
+      "predecessor": { "author": "René Descartes", "text": "Meditationes de prima philosophia" },
+      "mode": "acknowledged-debt",
+      "claim": "Descartes already attempted, by doubting the world, to demonstrate the absolute self-sufficiency of the validity-of-being of the ego cogito, and so gave a premonition of a life that is itself and in which the world is something intended — without understanding or consistently maintaining his epoch-making beginning.",
+      "quote": "Descartes already attempted to demonstrate the absolute self-sufficiency of the validity-of-being of the ego cogito through \"doubting\" the world — without, to be sure, having understood and consistently maintained the sense and value of his epoch-making beginning."
+    },
+    {
+      "id": "inh/hua39/002",
+      "locator": "husserliana-39-die-lebenswelt-commentary#h3-text-nr-25-the-apodictic-certainty-of-my-human-bodily-being-as-part-of-the-apodi",
+      "primary_locator": "Die Lebenswelt, Text Nr. 25",
+      "predecessor": { "author": "René Descartes" },
+      "mode": "polemical-rejection",
+      "claim": "Against the Cartesian doubt-attempt, for the ego that has world-consciousness it is absolutely impossible to represent the world as non-existing, even though it can do so for every individual being, so the non-being of the world is only hypothetically, countersensically positable.",
+      "quote": "For the ego that has world-consciousness in this way, it is absolutely impossible to represent the world as non-existing, while it can do this for every individual being (its own being as human subject excepted)."
+    },
+    {
+      "id": "inh/hua39/003",
+      "locator": "husserliana-39-die-lebenswelt-commentary#h3-supplement-xv-apodictic-anticipation-of-the-being-of-the-world-in-the-course-of",
+      "primary_locator": "Die Lebenswelt, Supplement XV",
+      "predecessor": { "author": "René Descartes" },
+      "mode": "destructive-appropriation",
+      "claim": "The Cartesian doctrine of the possible non-being of the world is taken over but given a new and deep meaning: natural life lives in a world-certainty arising continuously through anticipation, a certainty with the character of a historical apodicticity that the one living in concordant experience cannot cancel while he lives.",
+      "quote": "This gives new and deep meaning to the Cartesian doctrine of the possible non-being of the world. The natural life lives in a certainty of the world arising continuously through anticipation. But this certainty has the character of a *historical apodicticity*"
+    },
+    {
+      "id": "inh/hua39/004",
+      "locator": "husserliana-39-die-lebenswelt-commentary#h3-text-nr-60-ontology-or-phenomenology-of-the-aesthetic-world-transcendental-aesth",
+      "primary_locator": "Die Lebenswelt, Text Nr. 60",
+      "predecessor": { "author": "Immanuel Kant", "text": "Kritik der reinen Vernunft" },
+      "mode": "terminological-borrowing",
+      "claim": "The ontology or phenomenology of the intuitively experienced 'aesthetic world', taken on a purely transcendental standpoint, is designated a 'transcendental aesthetics', a transcendental ontology and phenomenology of the world, taking over the Kantian title.",
+      "quote": "On a purely transcendental standpoint, this is a *transcendental aesthetics* — a transcendental ontology and phenomenology of the world."
+    }
+  ]
+}
