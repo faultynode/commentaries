@@ -1,0 +1,197 @@
+{
+  "schema_version": 1,
+  "theme": "intentionalitaet",
+  "commentary": "heidegger-ga-20-prolegomena-zur-geschichte-des-zeitbegriffs-commentary",
+  "source_sha256": "30416fcea761ee439a1e714cce8c61ed361ef1ef9e776b844fe15ad7cf060e0c",
+  "extracted_at": "2026-09-08",
+  "extractor": {
+    "agent": "claude-code",
+    "prompt": "prompts/extraction-prompt.md",
+    "note": "source_sha256 is the LF digest (CRLF checkout; local validate reports a false staleness, CI on LF passes). Closely read SS 5-6 (Intentionality; Categorial intuition) and SS 11-13 (the immanent critique: the four determinations of pure consciousness, the neglect of the being of the intentional, the neglect of the sense of being). Not read: SS 4, 7-10 (the situation of philosophy, evidence/apriori, the principle of phenomenology, the clarification of the name) and the whole Main Part on time. Chronology already resolved (1925). There is also a sorge extraction and an inheritance record for this commentary."
+  },
+  "coverage": "partial",
+  "coverage_note": "Covers SS 5-6 and SS 11-13 of the Preparatory Part: intentionality as a structure of lived experience, the critics' mislocation of the phenomenon, the perceived in its how and bodily presence, the critique of the image-theory, intentio/intentum mutual belonging and fulfillment, the critique of Brentano, categorial intuition and the objectivity of the ideal, synthesis and ideation as object-giving, 'constituting is letting-be-seen', the identity of scientific ontology and phenomenology, the four barred being-determinations of pure consciousness, and the double neglect (being of the acts / sense of being) grounded in Dasein's falling. Not covered: SS 4, 7-10 and the Main Part on the time-phenomenon.",
+  "units": [
+    {
+      "id": "intentionalitaet/ga20/001",
+      "locator": "heidegger-ga-20-prolegomena-zur-geschichte-des-zeitbegriffs-commentary#h4-s-5-intentionality",
+      "primary_locator": "GA 20 § 5",
+      "term": "intentionality as structure of lived experience",
+      "status": "introduced",
+      "claim": "The thesis to be shown is that intentionality is a structure of lived experiences as such, not a relation subsequently attached to experiences understood as psychic states.",
+      "quote": "intentionality is a structure of lived experiences *as such*, not a relation subsequently attached to experiences understood as psychic states."
+    },
+    {
+      "id": "intentionalitaet/ga20/002",
+      "locator": "heidegger-ga-20-prolegomena-zur-geschichte-des-zeitbegriffs-commentary#h4-s-5-intentionality",
+      "primary_locator": "GA 20 § 5",
+      "term": "the hallucination as directing-toward",
+      "status": "criticized",
+      "claim": "The critics' apparatus mislocates the phenomenon: the deception itself, as such, is a directing-toward even when the real object is factually absent, so the perception in itself, whether veridical or deceptive, is intentional.",
+      "quote": "The deception itself, as such, is a directing-toward, even when the real object is factually absent."
+    },
+    {
+      "id": "intentionalitaet/ga20/003",
+      "locator": "heidegger-ga-20-prolegomena-zur-geschichte-des-zeitbegriffs-commentary#h4-s-5-intentionality",
+      "primary_locator": "GA 20 § 5",
+      "term": "environmental thing / natural thing / thinghood",
+      "status": "introduced",
+      "claim": "The perceived of natural perception is the environmental thing (Umweltding), which the same perception can also describe as natural thing (Naturding) and as thinghood as such (Dinglichkeit), and in every case one sees the thing itself, not representations or images or sensations.",
+      "quote": "This perceived of natural perception Heidegger calls the *environmental thing* (Umweltding)."
+    },
+    {
+      "id": "intentionalitaet/ga20/004",
+      "locator": "heidegger-ga-20-prolegomena-zur-geschichte-des-zeitbegriffs-commentary#h4-s-5-intentionality",
+      "primary_locator": "GA 20 § 5",
+      "term": "perceivedness (Wahrgenommenheit)",
+      "status": "introduced",
+      "claim": "The perceived in the strict phenomenological sense is not the perceived being in itself but the perceived being insofar as it is perceived, its perceivedness, so that one distinguishes the being itself from the being in the manner of its being-intended.",
+      "quote": "That is not the perceived being in itself but the perceived being *insofar as it is perceived* — the *how* in which it shows itself in concrete perception, the *perceivedness* (Wahrgenommenheit) of this chair"
+    },
+    {
+      "id": "intentionalitaet/ga20/005",
+      "locator": "heidegger-ga-20-prolegomena-zur-geschichte-des-zeitbegriffs-commentary#h4-s-5-intentionality",
+      "primary_locator": "GA 20 § 5",
+      "term": "bodily presence (Leibhaftigkeit)",
+      "status": "introduced",
+      "claim": "What shows itself when we look to the perceivedness is bodily presence, a distinguished mode of self-givenness: what is self-given need not be bodily given, but every bodily-given is self-given, and much natural speech moves in mere empty meaning that means the things themselves without intuitive fulfillment.",
+      "quote": "What is self-given need not be bodily given, but every bodily-given is self-given; bodily presence is a distinguished mode of self-givenness."
+    },
+    {
+      "id": "intentionalitaet/ga20/006",
+      "locator": "heidegger-ga-20-prolegomena-zur-geschichte-des-zeitbegriffs-commentary#h4-s-5-intentionality",
+      "primary_locator": "GA 20 § 5",
+      "term": "critique of the image-theory of perception",
+      "status": "criticized",
+      "claim": "The image-theory that explains object-perception by an inner image explains nothing, courts an infinite regress, and above all contradicts the plain phenomenological finding, being theory without phenomenology, since image-consciousness is itself only possible as a perceiving in which the image-thing is grasped and only in it the depicted.",
+      "quote": "the decisive objection is that it contradicts the plain phenomenological finding, being theory without phenomenology."
+    },
+    {
+      "id": "intentionalitaet/ga20/007",
+      "locator": "heidegger-ga-20-prolegomena-zur-geschichte-des-zeitbegriffs-commentary#h4-s-5-intentionality",
+      "primary_locator": "GA 20 § 5",
+      "term": "intentio / intentum mutual belonging",
+      "status": "introduced",
+      "claim": "The basic constitution of intentionality is the mutual belonging-together of the how of being-intended (the intentio) and the intentum, where intentum means not the perceived as a being but the being in the how of its being-perceived.",
+      "quote": "a peculiar belonging-together of the *how* of being-intended, the *intentio*, and the *intentum* — where *intentum* means, in the sense worked out, not the perceived *as a being* but the being in the *how* of its being-perceived."
+    },
+    {
+      "id": "intentionalitaet/ga20/008",
+      "locator": "heidegger-ga-20-prolegomena-zur-geschichte-des-zeitbegriffs-commentary#h4-s-5-intentionality",
+      "primary_locator": "GA 20 § 5",
+      "term": "intentional fulfillment",
+      "status": "introduced",
+      "claim": "Perception is a distinguished case of intentional fulfillment: every intention bears in itself a tendency to fulfillment, and each has its own determinate mode of possible fulfillment (perception only through perception, memory only through remembering presentification).",
+      "quote": "every intention bears in itself a tendency to fulfillment, and each has its own determinate mode of possible fulfillment (perception only through perception, memory never through expectation but through remembering presentification)."
+    },
+    {
+      "id": "intentionalitaet/ga20/009",
+      "locator": "heidegger-ga-20-prolegomena-zur-geschichte-des-zeitbegriffs-commentary#h4-s-5-intentionality",
+      "primary_locator": "GA 20 § 5",
+      "term": "critique of Brentano",
+      "status": "criticized",
+      "claim": "Brentano saw the intentio and the variety of its modes but not the noema, the intentum, wavering over the \"intentional object\" between the being itself and the how of its being-grasped, so that intentionality as a structural whole is never lifted out and gets identified with the psychic.",
+      "quote": "he saw the *intentio*, the noesis, and the variety of its modes, but not the noema, the *intentum*; he stayed uncertain about what he called the \"intentional object,\" wavering between the being itself and the how of its being-grasped, undivided from the being."
+    },
+    {
+      "id": "intentionalitaet/ga20/010",
+      "locator": "heidegger-ga-20-prolegomena-zur-geschichte-des-zeitbegriffs-commentary#h4-s-5-intentionality",
+      "primary_locator": "GA 20 § 5",
+      "term": "what intentionality is the structure of",
+      "status": "criticized",
+      "claim": "Not intentionality as such is metaphysically dogmatic, but what is built under the structure or left unquestioned beneath it through the traditional failure to ask what it is the structure of; taking intentionality as structure of reason (Husserl) or of spirit/person (Scheler) does not overcome that starting-point.",
+      "quote": "Not intentionality as such is metaphysically dogmatic, but what is built under the structure, or left unquestioned beneath it, through the traditional failure to ask what it is the structure *of*."
+    },
+    {
+      "id": "intentionalitaet/ga20/011",
+      "locator": "heidegger-ga-20-prolegomena-zur-geschichte-des-zeitbegriffs-commentary#h4-s-6-categorial-intuition",
+      "primary_locator": "GA 20 § 6",
+      "term": "origin of the categorial in the objects of the acts",
+      "status": "introduced",
+      "claim": "The origin of the concepts state-of-affairs and being (the copula) lies not in reflection on judgments but in the judgment-fulfillments themselves, not in these acts as objects but in the objects of these acts, so that being, \"and\", \"or\", \"this\" are correlates of certain acts and nothing conscious or psychic.",
+      "quote": "the origin of the concepts *state-of-affairs* and *being* (in the sense of the copula) lies not in reflection on judgments or on judgment-fulfillments but *in the judgment-fulfillments themselves* — not in these acts as objects but in the *objects of these acts*."
+    },
+    {
+      "id": "intentionalitaet/ga20/012",
+      "locator": "heidegger-ga-20-prolegomena-zur-geschichte-des-zeitbegriffs-commentary#h4-s-6-categorial-intuition",
+      "primary_locator": "GA 20 § 6",
+      "term": "categorial correction and intentionality are one",
+      "status": "introduced",
+      "claim": "The correction of the old prejudice that the non-sensory and non-real is the immanent and subjective hangs together with the discovery of intentionality itself, so that one cannot decide for the correct grasp of the categorial while dismissing intentionality as a mythical concept: the two are one and the same.",
+      "quote": "one does not know what one does if one decides for the correct grasp of the categorial while thinking one can dismiss intentionality as a mythical concept; the two are one and the same."
+    },
+    {
+      "id": "intentionalitaet/ga20/013",
+      "locator": "heidegger-ga-20-prolegomena-zur-geschichte-des-zeitbegriffs-commentary#h4-s-6-categorial-intuition",
+      "primary_locator": "GA 20 § 6",
+      "term": "synthesis as object-giving",
+      "status": "introduced",
+      "claim": "Taken intentionally, synthesis is not the gluing-together of two separate things but is object-giving, and the relating itself is primary, only through it do the related terms become explicit.",
+      "quote": "synthesis is not the gluing-together of two separate things but is *object-giving* — synthesis and diairesis *give* objects"
+    },
+    {
+      "id": "intentionalitaet/ga20/014",
+      "locator": "heidegger-ga-20-prolegomena-zur-geschichte-des-zeitbegriffs-commentary#h4-s-6-categorial-intuition",
+      "primary_locator": "GA 20 § 6",
+      "term": "constituting as letting-be-seen",
+      "status": "introduced",
+      "claim": "\"Constitute\" is to be taken intentionally: categorial acts do not let things first arise somewhere, and constituting is not producing or making but the letting-be-seen of the being in its objectivity.",
+      "quote": "*constituting is not producing or making but letting-be-seen of the being in its objectivity*."
+    },
+    {
+      "id": "intentionalitaet/ga20/015",
+      "locator": "heidegger-ga-20-prolegomena-zur-geschichte-des-zeitbegriffs-commentary#h4-s-6-categorial-intuition",
+      "primary_locator": "GA 20 § 6",
+      "term": "scientific ontology as phenomenology",
+      "status": "introduced",
+      "claim": "Because being and the categories are given in categorial intuition, the manner of research the old ontology sought is won, there is no ontology alongside a phenomenology, and scientific ontology is nothing other than phenomenology.",
+      "quote": "scientific ontology is nothing other than phenomenology"
+    },
+    {
+      "id": "intentionalitaet/ga20/016",
+      "locator": "heidegger-ga-20-prolegomena-zur-geschichte-des-zeitbegriffs-commentary#h4-s-11-immanent-critique-the-four-determinations-of-pure-consciousness",
+      "primary_locator": "GA 20 § 11",
+      "term": "the four barred being-determinations of pure consciousness",
+      "status": "criticized",
+      "claim": "The four being-determinations of pure consciousness (immanent, absolutely given, absolute-in-constitution, pure) are in no way drawn from the being itself and, set up as being-determinations of consciousness, are precisely suited to bar the way to a question after the being of this being.",
+      "quote": "All four being-determinations — immanent, absolutely-given, absolute-in-constitution, pure — are in no way drawn from the being itself; insofar as they are set up *as being-determinations of consciousness*, they are precisely suited to *bar* the way to a question after the being of this being."
+    },
+    {
+      "id": "intentionalitaet/ga20/017",
+      "locator": "heidegger-ga-20-prolegomena-zur-geschichte-des-zeitbegriffs-commentary#h4-s-11-immanent-critique-the-four-determinations-of-pure-consciousness",
+      "primary_locator": "GA 20 § 11",
+      "term": "pure consciousness won from a traditional idea",
+      "status": "criticized",
+      "claim": "Pure consciousness is won not phenomenologically, by return to the things themselves, but by return to a traditional idea of philosophy, the idea of an absolute science occupying modern philosophy since Descartes, so that none of the being-characters of experiences is original.",
+      "quote": "The pure consciousness is won not phenomenologically, by return to the things themselves, but by return to a *traditional idea of philosophy*; hence none of the being-characters of experiences is original."
+    },
+    {
+      "id": "intentionalitaet/ga20/018",
+      "locator": "heidegger-ga-20-prolegomena-zur-geschichte-des-zeitbegriffs-commentary#h4-s-12-exhibiting-the-neglect-of-the-question-of-the-being-of-the-intentional",
+      "primary_locator": "GA 20 § 12",
+      "term": "the reduction gives out of hand the ground for the question of being",
+      "status": "criticized",
+      "claim": "The reduction by its methodical sense disregards the reality of the intentional and so gives out of hand the very ground on which one could ask after the being of consciousness, since constitution-analysis presupposes throughout that the sense of being at issue is being as objectivity for a theoretical, scientific knowing.",
+      "quote": "the reduction *gives out of hand* the very ground on which alone one could ask after the being of consciousness"
+    },
+    {
+      "id": "intentionalitaet/ga20/019",
+      "locator": "heidegger-ga-20-prolegomena-zur-geschichte-des-zeitbegriffs-commentary#h4-s-13-exhibiting-the-neglect-of-the-question-of-the-sense-of-being-itself-and-of",
+      "primary_locator": "GA 20 § 13",
+      "term": "the double neglect",
+      "status": "criticized",
+      "claim": "There are two neglects, the question of the being of the specific being (the acts) and the question of the sense of being as such, so that a most radical being-distinction (consciousness / reality) is made without asking after the being of its terms or clarifying the sense of being that directs it.",
+      "quote": "Two neglects, then: the question of the being of this specific being, the *acts*, and the question of the *sense of being* as such."
+    },
+    {
+      "id": "intentionalitaet/ga20/020",
+      "locator": "heidegger-ga-20-prolegomena-zur-geschichte-des-zeitbegriffs-commentary#h4-s-13-exhibiting-the-neglect-of-the-question-of-the-sense-of-being-itself-and-of",
+      "primary_locator": "GA 20 § 13",
+      "term": "phenomenology as unphenomenological / animal rationale",
+      "status": "criticized",
+      "claim": "Phenomenology is, in the basic task of determining its ownmost field, unphenomenological while taking itself to be phenomenological, because behind all its titles for the intentional stands the traditional definition animal rationale, and this neglect is not a chance negligence but an event of Dasein's own falling.",
+      "quote": "Phenomenology is therefore, in the basic task of determining its ownmost field, *un*phenomenological — while *taking itself* to be phenomenological."
+    }
+  ],
+  "absences": []
+}
