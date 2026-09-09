@@ -4,14 +4,323 @@
 
 *Partly worked already: commentaries/heidegger/heidegger-husserl-intentionality-article.md is a Stage 4 output written before this pipeline existed. Extract the commentaries, not that article.*
 
-25 units and 2 recorded absences from 1 commentaries.
+125 units and 3 recorded absences from 3 commentaries.
+
+## Reception layer
+
+*Read alongside the spine, not on it. A commentator's date orders the reception, not the doctrine.*
+
+### 1994 - Rudolf Bernet, La vie du sujet: Recherches sur l'interprétation de Husserl dans la phénoménologie — Commentary
+
+`bernet-la-vie-du-sujet-commentary`
+
+- **revised** · `intentionalitaet/bernet-vds/001` · *intentio / intentum*
+  Heidegger reframes intentionality as a comportment (Verhalten) in which an intentio directs itself toward an intentum, avoiding both Husserl's "acts" and the terms "noesis" and "noema."
+  `bernet-la-vie-du-sujet-commentary#h4-the-intentionality-of-sensible-and-categorial-acts` · La vie du sujet, pp. 41-42 · [The Intentionality of Sensible and Categorial Acts](https://faultynode.github.io/commentaries/commentaries/bernet/bernet-la-vie-du-sujet-commentary.html#the-intentionality-of-sensible-and-categorial-acts)
+  > He likewise avoids speaking of intentional "acts", preferring intentional comportments (*Verhalten*) — a terminological shift that already betrays the concern to tear intentionality out of the narrow frame of a theory of signification and above all of knowledge in which Husserl had confined it.
+
+- **revised** · `intentionalitaet/bernet-vds/002` · *co-belonging (Mitzugehörigkeit)*
+  The enigma of intentionality is not the transitivity of a directing-toward but the correlation of intentio and intentum, which Heidegger renames their co-belonging.
+  `bernet-la-vie-du-sujet-commentary#h4-the-intentionality-of-sensible-and-categorial-acts` · La vie du sujet, pp. 41-42 · [The Intentionality of Sensible and Categorial Acts](https://faultynode.github.io/commentaries/commentaries/bernet/bernet-la-vie-du-sujet-commentary.html#the-intentionality-of-sensible-and-categorial-acts)
+  > The enigma is not transitivity but what Husserl calls the correlation of *intentio* and *intentum*, which Heidegger in turn calls their co-belonging (*Mitzugehörigkeit*).
+
+- **revised** · `intentionalitaet/bernet-vds/003` · *the being of intentionality*
+  Heidegger holds the a priori of the object, which he also calls the being of beings, belongs neither to subject nor object but, in a manner still obscure, to intentionality, raising the question of the being of intentionality.
+  `bernet-la-vie-du-sujet-commentary#h4-the-intentionality-of-sensible-and-categorial-acts` · La vie du sujet, pp. 51-52 · [The Intentionality of Sensible and Categorial Acts](https://faultynode.github.io/commentaries/commentaries/bernet/bernet-la-vie-du-sujet-commentary.html#the-intentionality-of-sensible-and-categorial-acts)
+  > Rather than say it belongs to nothing, he prefers to say it belongs, in a manner still obscure, to intentionality. Whereupon the question rebounds: what is the being of intentionality?
+
+- **revised** · `intentionalitaet/bernet-vds/004` · *transcendence as ground of intentionality*
+  Heidegger's circle is ordered, not vicious: the phenomenological investigation of intentionality issues in Dasein's transcendence, which then proves to be the ontological foundation of intentionality.
+  `bernet-la-vie-du-sujet-commentary#h4-the-being-of-intentional-consciousness` · La vie du sujet, pp. 52-53 · [The Being of Intentional Consciousness](https://faultynode.github.io/commentaries/commentaries/bernet/bernet-la-vie-du-sujet-commentary.html#the-being-of-intentional-consciousness)
+  > In sum: the phenomenological investigation of intentionality issues in the discovery of Dasein's transcendence, which in turn proves to be the ontological foundation of intentionality. The circle is not vicious but ordered: intentionality gives the access, transcendence gives the ground.
+
+- **criticized** · `intentionalitaet/bernet-vds/005` · *noetic-noematic intentionality*
+  In Ideen I the noetic-noematic structures of intentionality are developed only after the reduction and the determination of pure consciousness and the pure I, inscribing the analysis of intentionality within an epistemological project.
+  `bernet-la-vie-du-sujet-commentary#h4-the-being-of-intentional-consciousness` · La vie du sujet, p. 53 · [The Being of Intentional Consciousness](https://faultynode.github.io/commentaries/commentaries/bernet/bernet-la-vie-du-sujet-commentary.html#the-being-of-intentional-consciousness)
+  > the structures of noetic-noematic intentionality are developed only *after* the fundamental phenomenological consideration, which is devoted above all to setting out the reduction and determining pure consciousness and the pure I.
+
+- **criticized** · `intentionalitaet/bernet-vds/006` · *subjectivation of intentionality*
+  Heidegger's charge is that although the transcendental and eidetic reduction let Husserl avoid objectivating intentionality, it pushes him toward a greater subjectivation of it.
+  `bernet-la-vie-du-sujet-commentary#h4-the-being-of-intentional-consciousness` · La vie du sujet, p. 53 · [The Being of Intentional Consciousness](https://faultynode.github.io/commentaries/commentaries/bernet/bernet-la-vie-du-sujet-commentary.html#the-being-of-intentional-consciousness)
+  > If the transcendental and eidetic reduction allowed Husserl to avoid the objectivation of intentionality, it pushes him toward a greater subjectivation of it.
+
+- **criticized** · `intentionalitaet/bernet-vds/007` · *intentionality of reflection*
+  In reflection pure consciousness is at once the subject of intentionality and the intentional object, and this privileged intentionality of reflection serves as the measure for intentional acts of lesser evidence such as outer perception.
+  `bernet-la-vie-du-sujet-commentary#h4-the-being-of-intentional-consciousness` · La vie du sujet, pp. 54-55 · [The Being of Intentional Consciousness](https://faultynode.github.io/commentaries/commentaries/bernet/bernet-la-vie-du-sujet-commentary.html#the-being-of-intentional-consciousness)
+  > in reflection pure consciousness is at once the subject of intentionality and the intentional object. This privileged intentionality of reflection then serves as the measure for determining intentional acts endowed with lesser evidence, such as the perception of things in the external world.
+
+- **revised** · `intentionalitaet/bernet-vds/008` · *ontic transcendence / Urtranszendenz*
+  Heidegger construes the relation of intentionality and transcendence as one of founding: intentionality is an ontic comportment, an "ontic transcendence," grounded in the primal transcendence of being-in-the-world.
+  `bernet-la-vie-du-sujet-commentary#h4-intentionality-and-transcendence` · La vie du sujet, pp. 61-62 · [Intentionality and "Transcendence"](https://faultynode.github.io/commentaries/commentaries/bernet/bernet-la-vie-du-sujet-commentary.html#intentionality-and-transcendence)
+  > everywhere he envisages the relation as one of founding: intentionality is an ontic comportment, an "ontic transcendence", finding its ontological foundation in the primal transcendence (*Urtranszendenz*) of being-in-the-world.
+
+- **revised** · `intentionalitaet/bernet-vds/009` · *ratio cognoscendi / ratio essendi*
+  Heidegger's scholastic formula for the relation is that intentionality is the ratio cognoscendi of transcendence and transcendence the ratio essendi of intentionality in its various modes.
+  `bernet-la-vie-du-sujet-commentary#h4-intentionality-and-transcendence` · La vie du sujet, pp. 62-63 · [Intentionality and "Transcendence"](https://faultynode.github.io/commentaries/commentaries/bernet/bernet-la-vie-du-sujet-commentary.html#intentionality-and-transcendence)
+  > Hence Heidegger's slightly scholastic formula for their mutual relation: intentionality is the *ratio cognoscendi* of transcendence, and transcendence the *ratio essendi* of intentionality in its various modes.
+
+- **introduced** · `intentionalitaet/bernet-vds/010` · *noema (two contexts)*
+  The chapter's thesis is that Husserl deployed the noema in two distinct contexts, a phenomenological theory of knowledge and a phenomenological theory of signification, that determine noematic sense and its object-relation differently, and that only in Ideen I do the two cross indistinguishably.
+  `bernet-la-vie-du-sujet-commentary#h3-2-the-concept-of-the-noema-husserl` · La vie du sujet, pp. 67-68 · [2. The Concept of the Noema (Husserl)](https://faultynode.github.io/commentaries/commentaries/bernet/bernet-la-vie-du-sujet-commentary.html#the-concept-of-the-noema-husserl)
+  > Husserl himself deployed the noema on the one hand within a phenomenological *theory of knowledge* and on the other within the elaboration of a phenomenological *theory of signification*, and noematic sense and its relation to the intentional object are determined differently in the two contexts. Only in *Ideen I* do the two treatments cross in a way that renders them largely indistinguishable.
+
+- **introduced** · `intentionalitaet/bernet-vds/011` · *noema as phenomenologically reduced object*
+  In the theory-of-knowledge context the noema is the phenomenologically reduced object, the object exactly insofar as it is intuitively given and intended in a phenomenologically reduced act, the cogitatum of a punctual cogitatio, an "ontic phenomenon."
+  `bernet-la-vie-du-sujet-commentary#h4-the-noema-as-phenomenologically-reduced-object` · La vie du sujet, p. 70 · [The Noema as Phenomenologically Reduced "Object"](https://faultynode.github.io/commentaries/commentaries/bernet/bernet-la-vie-du-sujet-commentary.html#the-noema-as-phenomenologically-reduced-object)
+  > The noema here is thus the phenomenologically reduced object, or better, the object exactly insofar as it is in each case intuitively given and intended in a phenomenologically reduced act
+
+- **criticized** · `intentionalitaet/bernet-vds/012` · *amphiboly of the reduced object*
+  The noema as phenomenologically reduced object designates on one side a pure constituting phenomenon and on the other an object-in-quotation-marks constituted unitarily across a chaining of such phenomena, a first confusion internal to the theory-of-knowledge use.
+  `bernet-la-vie-du-sujet-commentary#h4-the-noema-as-phenomenologically-reduced-object` · La vie du sujet, p. 70 · [The Noema as Phenomenologically Reduced "Object"](https://faultynode.github.io/commentaries/commentaries/bernet/bernet-la-vie-du-sujet-commentary.html#the-noema-as-phenomenologically-reduced-object)
+  > The noema as phenomenologically reduced object can therefore designate on one side a pure constituting phenomenon and on the other an object-in-quotation-marks constituted unitarily in the regulated chaining of such phenomena.
+
+- **presupposed** · `intentionalitaet/bernet-vds/013` · *correlate inseparable but not reell*
+  The noematic correlate is inseparable from consciousness without being really (reell) contained in it, and the lived experience of perception contains in its essence "the perceived tree as such," the full noema.
+  `bernet-la-vie-du-sujet-commentary#h4-the-noema-as-phenomenologically-reduced-object` · La vie du sujet, pp. 70-71 · [The Noema as Phenomenologically Reduced "Object"](https://faultynode.github.io/commentaries/commentaries/bernet/bernet-la-vie-du-sujet-commentary.html#the-noema-as-phenomenologically-reduced-object)
+  > the correlate of consciousness is inseparable from consciousness without being really contained (*reell*) in it; the lived experience of perception taken in itself contains in its essence "the perceived tree as such", the full noema.
+
+- **criticized** · `intentionalitaet/bernet-vds/014` · *noema as sense (standard defence)*
+  The standard legitimation of the noema's non-mental status, appealing to the perceptual noema as an ideally identical sense transcendent to each act, rests on assimilating two things Husserl himself distinguishes.
+  `bernet-la-vie-du-sujet-commentary#h4-the-noema-as-phenomenologically-reduced-object` · La vie du sujet, pp. 73-74 · [The Noema as Phenomenologically Reduced "Object"](https://faultynode.github.io/commentaries/commentaries/bernet/bernet-la-vie-du-sujet-commentary.html#the-noema-as-phenomenologically-reduced-object)
+  > The standard defence of the noema's non-mental status therefore rests on assimilating two things Husserl himself distinguishes.
+
+- **criticized** · `intentionalitaet/bernet-vds/015` · *punctual noematic appearance*
+  So long as the intuitive givenness of the object in the punctual noematic appearance is determined, as it constantly is in Husserl, as a claim made by each punctual intentional act, that givenness cannot be anything but a mental content.
+  `bernet-la-vie-du-sujet-commentary#h4-the-noema-as-phenomenologically-reduced-object` · La vie du sujet, pp. 74-75 · [The Noema as Phenomenologically Reduced "Object"](https://faultynode.github.io/commentaries/commentaries/bernet/bernet-la-vie-du-sujet-commentary.html#the-noema-as-phenomenologically-reduced-object)
+  > So long as the intuitive givenness of the object in the punctual noematic appearance is determined — as it constantly is in Husserl — as a claim made by each punctual intuitive intentional act, that intuitive givenness cannot be anything but a mental content.
+
+- **revised** · `intentionalitaet/bernet-vds/016` · *constituted thing / Idea in the Kantian sense*
+  The thing constituting itself in a continuous perceiving is a phenomenological noematic datum transcendent to consciousness, and as a real thing it is the unity of an unclosable infinite series of appearances, an Idea in the Kantian sense.
+  `bernet-la-vie-du-sujet-commentary#h4-the-noema-as-phenomenologically-reduced-object` · La vie du sujet, pp. 77-78 · [The Noema as Phenomenologically Reduced "Object"](https://faultynode.github.io/commentaries/commentaries/bernet/bernet-la-vie-du-sujet-commentary.html#the-noema-as-phenomenologically-reduced-object)
+  > the thing constituting itself in a continuous perceiving is a phenomenological noematic datum transcendent to consciousness. It does not hold for the punctual noematic appearance.
+
+- **criticized** · `intentionalitaet/bernet-vds/017` · *the tree that can burn*
+  On Bernet's reading of the famous passage, Husserl omits to say that the noema conceived as constituted object can perfectly well burn, its capacity to burn being a real-causal, phenomenologically constituted property of the thing.
+  `bernet-la-vie-du-sujet-commentary#h4-the-noema-as-phenomenologically-reduced-object` · La vie du sujet, pp. 78-79 · [The Noema as Phenomenologically Reduced "Object"](https://faultynode.github.io/commentaries/commentaries/bernet/bernet-la-vie-du-sujet-commentary.html#the-noema-as-phenomenologically-reduced-object)
+  > Unfortunately Husserl in both passages omits to say expressly that the noema conceived as constituted object can perfectly well burn, and that its capacity to burn must be understood as a real-causal, phenomenologically constituted property of the thing.
+
+- **criticized** · `intentionalitaet/bernet-vds/018` · *three concepts of the noema*
+  Three essentially different concepts of the noema keep crossing and merging in Ideen I: the punctual noematic appearance, the ideally identical sense or signification, and the constituted unitary object.
+  `bernet-la-vie-du-sujet-commentary#h4-the-noema-as-ideal-signification-of-a-judgment` · La vie du sujet, p. 81 · [The Noema as Ideal Signification of a Judgment](https://faultynode.github.io/commentaries/commentaries/bernet/bernet-la-vie-du-sujet-commentary.html#the-noema-as-ideal-signification-of-a-judgment)
+  > Three essentially different concepts of the noema keep crossing and even merging there: the noema as punctual correlate of an act, that is, as punctual noematic appearance; the noema as ideally identical sense or signification; and the noema as constituted unitary object.
+
+- **introduced** · `intentionalitaet/bernet-vds/019` · *noematic signification / the said as such*
+  The 1908 theory of signification introduces the ontic, noematic concept of signification as the "said as such" of a statement, an objecthood given in categorial reflection and distinguished from the object simply as such, merely thematized rather than first brought to life.
+  `bernet-la-vie-du-sujet-commentary#h4-the-noema-as-ideal-signification-of-a-judgment` · La vie du sujet, pp. 82-83 · [The Noema as Ideal Signification of a Judgment](https://faultynode.github.io/commentaries/commentaries/bernet/bernet-la-vie-du-sujet-commentary.html#the-noema-as-ideal-signification-of-a-judgment)
+  > Noematic signification is determined as the said as such of a statement, and as an objecthood given in reflection it is distinguished from the object simply as such
+
+- **revised** · `intentionalitaet/bernet-vds/020` · *judged as such vs perceived as such*
+  The sense of a judgment is more ideal and more ideell than the perceived as such, and also more identical, anticipated a priori as a possible identical datum, because consciousness of an identity presupposes a synthesis of identification.
+  `bernet-la-vie-du-sujet-commentary#h4-the-noema-as-ideal-signification-of-a-judgment` · La vie du sujet, pp. 85-86 · [The Noema as Ideal Signification of a Judgment](https://faultynode.github.io/commentaries/commentaries/bernet/bernet-la-vie-du-sujet-commentary.html#the-noema-as-ideal-signification-of-a-judgment)
+  > The sense of a judgment is therefore not only more ideal and more *ideell* than the perceived as such but also more identical, that is, anticipated a priori as a possible identical datum.
+
+- **revised** · `intentionalitaet/bernet-vds/021` · *object = X*
+  The Ideen I sentence "every noema has a content, namely its sense, and by it the noema relates to its object" must be read as an internal articulation of the said as such: the punctual correlate only implies the ideally identical sense, and the sense relates through its predicates to its bearer, the X.
+  `bernet-la-vie-du-sujet-commentary#h4-the-noema-as-ideal-signification-of-a-judgment` · La vie du sujet, pp. 88-89 · [The Noema as Ideal Signification of a Judgment](https://faultynode.github.io/commentaries/commentaries/bernet/bernet-la-vie-du-sujet-commentary.html#the-noema-as-ideal-signification-of-a-judgment)
+  > the punctual noematic correlate is not simply *identical with* the ideally identical sense — it only implies it, it "has" it; and the ideally identical sense is not the X, but relates, through its predicative determinations, to its bearer, its object.
+
+- **criticized** · `intentionalitaet/bernet-vds/022` · *the amphibolic X*
+  The theory of knowledge introduces a new concept of X as unity-pole of the actual state of affairs, so that "X" means both the identity-pole of noematic sense and the actual state of affairs, an amphiboly that gravely compromises the intelligibility of Ideen I.
+  `bernet-la-vie-du-sujet-commentary#h4-the-noema-as-ideal-signification-of-a-judgment` · La vie du sujet, pp. 90-91 · [The Noema as Ideal Signification of a Judgment](https://faultynode.github.io/commentaries/commentaries/bernet/bernet-la-vie-du-sujet-commentary.html#the-noema-as-ideal-signification-of-a-judgment)
+  > "X" thus signifies on one side the identity-pole of noematic sense, intuitive or not, and on the other the actual state of affairs itself, to which the various rationally grounded positings of being relate.
+
+- **revised** · `intentionalitaet/bernet-vds/023` · *noematic theory of signification*
+  Husserl's noematic theory of signification, conceived as a stepping-stone to a transcendental elucidation of pure logic, turns out at the same time to be a first instalment of a hermeneutic understanding of ordinary language.
+  `bernet-la-vie-du-sujet-commentary#h4-the-noema-as-ideal-signification-of-a-judgment` · La vie du sujet, pp. 91-92 · [The Noema as Ideal Signification of a Judgment](https://faultynode.github.io/commentaries/commentaries/bernet/bernet-la-vie-du-sujet-commentary.html#the-noema-as-ideal-signification-of-a-judgment)
+  > Husserl's noematic theory of signification, conceived as the stepping-stone to a transcendental-phenomenological elucidation of pure logic, turns out at the same time to be the fruitful first instalment of a hermeneutic understanding of ordinary language
+
+- **introduced** · `intentionalitaet/bernet-vds/024` · *intentionality as subject/thing difference*
+  What most radically distinguishes subject from thing for Husserl is intentionality, which is nothing other than the subject's relation to things, so that intentionality marks at once the difference and the bond between subject and things.
+  `bernet-la-vie-du-sujet-commentary#h4-i` · La vie du sujet, pp. 95-96 · [I](https://faultynode.github.io/commentaries/commentaries/bernet/bernet-la-vie-du-sujet-commentary.html#i)
+  > What most radically distinguishes subject from thing in Husserl's eyes is intentionality — which is nothing other than the subject's relation to things. Intentionality therefore marks at once the difference and the bond between subject and things
+
+- **introduced** · `intentionalitaet/bernet-vds/025` · *horizonal intentionality (Horizontintentionalität)*
+  Everything given without being noticed belongs to the horizon of the actual perception via what Husserl calls horizonal intentionality, an essentially subjective principle with a noematic correlate that is responsible for the continuity of the subject's life.
+  `bernet-la-vie-du-sujet-commentary#h4-i` · La vie du sujet, pp. 98-99 · [I](https://faultynode.github.io/commentaries/commentaries/bernet/bernet-la-vie-du-sujet-commentary.html#i)
+  > The notion of horizon takes its sense from what Husserl calls horizonal intentionality (*Horizontintentionalität*), which at least in its beginnings remains marked by the concerns of a psychology of attention
+
+- **introduced** · `intentionalitaet/bernet-vds/026` · *objectivism / egological subjectivism*
+  The Conclusion's governing thesis is that the development of the analysis of intentionality in Heidegger, Gurwitsch, Sartre, Merleau-Ponty and Henry is at bottom the putting in question of the representationalist objectivism and egological subjectivism Husserl progressively set in place.
+  `bernet-la-vie-du-sujet-commentary#h2-conclusion-an-intentional-life-without-subject-or-object` · La vie du sujet, pp. 297-298 · [Conclusion — An Intentional Life Without Subject or Object?](https://faultynode.github.io/commentaries/commentaries/bernet/bernet-la-vie-du-sujet-commentary.html#conclusion--an-intentional-life-without-subject-or-object)
+  > The development of the analysis of intentionality in Heidegger, Gurwitsch, Sartre, Merleau-Ponty and Henry is at bottom nothing but the putting in question of the representationalist objectivism and the egological subjectivism progressively set in place by Husserl at the beginning of the century.
+
+- **revised** · `intentionalitaet/bernet-vds/027` · *pure I as source of intentional acts*
+  Ideen I attributes an egological structure to all intentional lived experiences, so that the pure I becomes not the result of experience but its ultimate source, the radiating centre from which every act in the form of a cogito proceeds.
+  `bernet-la-vie-du-sujet-commentary#h4-genesis-of-egological-subjectivism` · La vie du sujet, pp. 305-306 · [Genesis of Egological Subjectivism](https://faultynode.github.io/commentaries/commentaries/bernet/bernet-la-vie-du-sujet-commentary.html#genesis-of-egological-subjectivism)
+  > the pure I, far from being the result of an experience, becomes its ultimate source: every intentional act accomplished in the form of a *cogito* — every act that turns explicitly and attentively toward an intentional object — proceeds from a pure I.
+
+- **criticized** · `intentionalitaet/bernet-vds/028` · *non-appearing of the pure I*
+  As the universal source of every intentional act the pure I is implicated as soon as an object appears, but what appears is that object and not the egological origin of its appearing, so the pure I as source can appear only belatedly as an object of reflection.
+  `bernet-la-vie-du-sujet-commentary#h4-genesis-of-egological-subjectivism` · La vie du sujet, p. 307 · [Genesis of Egological Subjectivism](https://faultynode.github.io/commentaries/commentaries/bernet/bernet-la-vie-du-sujet-commentary.html#genesis-of-egological-subjectivism)
+  > As unique and universal source of every intentional act, the pure I is implicated as soon as an object appears, but what appears is that object and not the egological origin of its appearing.
+
+- **revised** · `intentionalitaet/bernet-vds/029` · *feelings as doxic acts*
+  By treating feelings as doxic acts relating to the existence of a value, Ideen I makes them exhibit a perfect noesis-noema correlation like acts of representation, reducing affectivity to a form of objectivating intentionality.
+  `bernet-la-vie-du-sujet-commentary#h4-genesis-of-objectivism-and-the-analysis-of-the-intentionality-of-feelings` · La vie du sujet, pp. 308-309 · [Genesis of Objectivism and the Analysis of the Intentionality of Feelings](https://faultynode.github.io/commentaries/commentaries/bernet/bernet-la-vie-du-sujet-commentary.html#genesis-of-objectivism-and-the-analysis-of-the-intentionality-of-feelings)
+  > It follows that in the case of feelings, exactly as for intentional acts of representation, one can observe a perfect correlation between the lived experience and its intentional object, between noesis and noema
+
+- **revised** · `intentionalitaet/bernet-vds/030` · *objectivism of feelings and ethics*
+  Bernet locates the motive for aligning feelings on objectivating acts in Husserl's concern to give ethics a phenomenological founding, which required ethical feelings to be intentional acts whose value-objects can serve as intuitive fulfilment.
+  `bernet-la-vie-du-sujet-commentary#h4-genesis-of-objectivism-and-the-analysis-of-the-intentionality-of-feelings` · La vie du sujet, p. 312 · [Genesis of Objectivism and the Analysis of the Intentionality of Feelings](https://faultynode.github.io/commentaries/commentaries/bernet/bernet-la-vie-du-sujet-commentary.html#genesis-of-objectivism-and-the-analysis-of-the-intentionality-of-feelings)
+  > It thus seems that this demand for a rational justification of ethical feelings brought Husserl to consider all feelings objectivating intentional acts.
+
+- **introduced** · `intentionalitaet/bernet-vds/031` · *impressional intentionality*
+  Against Henry's purely impressional consciousness without intentionality, Bernet credits Husserl with the discovery of a self-consciousness having the form of an "impressional intentionality."
+  `bernet-la-vie-du-sujet-commentary#h3-overcoming-subjectivism-and-objectivism-in-husserl` · La vie du sujet, pp. 315-316 · [Overcoming Subjectivism and Objectivism in Husserl](https://faultynode.github.io/commentaries/commentaries/bernet/bernet-la-vie-du-sujet-commentary.html#overcoming-subjectivism-and-objectivism-in-husserl)
+  > far from opposing impressional and intentional consciousness, Bernet would willingly credit Husserl with the discovery of a self-consciousness having the form of an *impressional intentionality*.
+
+- **revised** · `intentionalitaet/bernet-vds/032` · *the pre-reflective self as pre-object*
+  Where Brentano makes the pre-reflective self a secondary intentional object, Husserl makes it a "pre-object," a datum of a horizon-intentionality awaiting to become the object of a reflective act.
+  `bernet-la-vie-du-sujet-commentary#h4-the-impressional-intentionality-of-the-relation-to-self` · La vie du sujet, pp. 319-320 · [The Impressional Intentionality of the Relation to Self](https://faultynode.github.io/commentaries/commentaries/bernet/bernet-la-vie-du-sujet-commentary.html#the-impressional-intentionality-of-the-relation-to-self)
+  > Rather than a secondary object, the pre-reflective self is for Husserl a *pre-object*, a datum awaiting to become the object of a reflective act.
+
+- **introduced** · `intentionalitaet/bernet-vds/033` · *double intentionality of perception*
+  Every perception of an extended thing brings into play a double intentionality: an impressional intentionality circulating among sensations and an objectivating intentionality relating that network to worldly things, the latter being a forgetting of the carnal Self.
+  `bernet-la-vie-du-sujet-commentary#h5-the-self-appearing-of-the-flesh` · La vie du sujet, p. 322 · [The Self-Appearing of the Flesh](https://faultynode.github.io/commentaries/commentaries/bernet/bernet-la-vie-du-sujet-commentary.html#the-self-appearing-of-the-flesh)
+  > Every perception of an extended thing would thus bring into play a double intentionality: the impressional intentionality circulating among sensations, and the objectivating intentionality putting this network of sensations in relation with worldly things
+
+- **presupposed** · `intentionalitaet/bernet-vds/034` · *transverse and longitudinal intentionality*
+  The flux of absolute consciousness is animated by a double impressional intentionality, a transverse intentionality aiming at the temporality of lived experiences and a longitudinal intentionality aiming at the flux itself.
+  `bernet-la-vie-du-sujet-commentary#h5-the-self-appearing-of-the-flux-of-consciousness` · La vie du sujet, pp. 324-325 · [The Self-Appearing of the Flux of Consciousness](https://faultynode.github.io/commentaries/commentaries/bernet/bernet-la-vie-du-sujet-commentary.html#the-self-appearing-of-the-flux-of-consciousness)
+  > In Husserl's terms: the flux is animated by a double impressional intentionality, a transverse intentionality aiming at the temporality of lived experiences and a longitudinal intentionality aiming at the flux itself.
+
+- **introduced** · `intentionalitaet/bernet-vds/035` · *intentionality without object*
+  The inquiry does not corroborate an intentionality without subject but does bring to light in Husserl an intentionality without object, at work both in the relation to a pre-given world and in the impressionally-intentional relation of the subject to itself.
+  `bernet-la-vie-du-sujet-commentary#h3-conclusion` · La vie du sujet, p. 326 · [Conclusion](https://faultynode.github.io/commentaries/commentaries/bernet/bernet-la-vie-du-sujet-commentary.html#conclusion)
+  > But we have effectively succeeded in bringing to light in Husserl the existence of "an intentionality without object". This is at work both in the subject's relation to a pre-given world and in the impressionally-intentional relation of the subject to itself.
+
+- **criticized** · `intentionalitaet/bernet-vds/036` · *constitution as Leistung*
+  Bernet holds that new discoveries such as noematic phenomena, passive constitution and horizonal intentionality have hardly shaken Husserl's idea of constitution as a subjective accomplishment issuing in a constituted taken as its objective result.
+  `bernet-la-vie-du-sujet-commentary#h4-iii` · La vie du sujet, p. 116 · [III](https://faultynode.github.io/commentaries/commentaries/bernet/bernet-la-vie-du-sujet-commentary.html#iii)
+  > New discoveries such as noematic phenomena, passive and anonymous constitution, and horizonal intentionality have hardly shaken his idea of constitution as a subjective accomplishment (*Leistung*) issuing in a constituted taken as its objective result.
+
+- **criticized** · `intentionalitaet/bernet-vds/037` · *intentional anthropology*
+  Husserl's intentional anthropology describes an indissoluble interlacing of subject and world, but the sense of that analysis is made to depend on a transcendental resumption putting a world-constituting, self-mundanizing pure ego to work.
+  `bernet-la-vie-du-sujet-commentary#h4-iii` · La vie du sujet, p. 116 · [III](https://faultynode.github.io/commentaries/commentaries/bernet/bernet-la-vie-du-sujet-commentary.html#iii)
+  > the sense of that analysis depends on a transcendental resumption which puts to work a pure ego that constitutes the world and at the same time constitutes itself as a person in the world by mundanizing itself.
+
+- **revised** · `intentionalitaet/bernet-vds/038` · *intentional object / real object*
+  Husserl repeats that the intentional object of intuitive representation is nothing other than the real object, and that the reduction, while determining its reality through the intuitive character of the intentional consciousness, takes nothing from its external transcendence.
+  `bernet-la-vie-du-sujet-commentary#h4-i-2` · La vie du sujet, pp. 124-125 · [I](https://faultynode.github.io/commentaries/commentaries/bernet/bernet-la-vie-du-sujet-commentary.html#i-1)
+  > the intentional object of intuitive representation is nothing other than the real object, and that the reduction — while determining the reality of that object in terms of the intuitive character of the representation or intentional consciousness relating to it — takes nothing away from its external transcendence.
+
+- **revised** · `intentionalitaet/bernet-vds/039` · *thing-in-itself as Idea in the Kantian sense*
+  The adequate givenness of a spatial thing that orients the perceptual process teleologically is, for Ideen I, an Idea in the Kantian sense and not an object, as the Logical Investigations still supposed.
+  `bernet-la-vie-du-sujet-commentary#h4-i-2` · La vie du sujet, p. 130 · [I](https://faultynode.github.io/commentaries/commentaries/bernet/bernet-la-vie-du-sujet-commentary.html#i-1)
+  > The adequate givenness of a spatial thing that orients the perceptual process teleologically is therefore an Idea and not an object, as the *Investigations* still supposed.
+
+- **introduced** · `intentionalitaet/bernet-vds/040` · *appearance (eigentliche / uneigentliche Erscheinung)*
+  Noetically the appearance of a spatial thing is an intentional act composed of a purely perceptual content and an apperceptive surplus lacking intuitive fulfilment; noematically it is an intuitive datum surrounded by an empty horizon.
+  `bernet-la-vie-du-sujet-commentary#h4-ii-2` · La vie du sujet, pp. 131-132 · [II](https://faultynode.github.io/commentaries/commentaries/bernet/bernet-la-vie-du-sujet-commentary.html#ii-1)
+  > In noetic formulation this means the appearance is an intentional act composed of a purely perceptual content and an apperceptive surplus lacking intuitive fulfilment.
+
+- **introduced** · `intentionalitaet/bernet-vds/041` · *synthesis of fulfilment / emptying*
+  The continuous synthesis of appearances has the form of a process of intuitive fulfilment that is at the same time a synthesis of emptying, since what one appearance gains in intuitiveness another loses.
+  `bernet-la-vie-du-sujet-commentary#h4-ii-2` · La vie du sujet, p. 133 · [II](https://faultynode.github.io/commentaries/commentaries/bernet/bernet-la-vie-du-sujet-commentary.html#ii-1)
+  > The synthesis of fulfilment is therefore at the same time a synthesis of emptying (*Entleerung*) or unfulfilment (*Entfüllung*), since what is gained in intuitiveness by one appearance is lost by another.
+
+- **revised** · `intentionalitaet/bernet-vds/042` · *transcendence within immanence*
+  The perceptual process is a process of transcendental constitution in which the thing, depending on constituting consciousness without coinciding with it, is a transcendence within immanence: an object for perceptual consciousness, not in it.
+  `bernet-la-vie-du-sujet-commentary#h4-ii-2` · La vie du sujet, pp. 133-134 · [II](https://faultynode.github.io/commentaries/commentaries/bernet/bernet-la-vie-du-sujet-commentary.html#ii-1)
+  > Depending on constituting consciousness without coinciding with it, the thing is a transcendence within immanence: the spatial thing is an object *for* perceptual consciousness, not an object *in* consciousness or a moment of consciousness.
+
+- **criticized** · `intentionalitaet/bernet-vds/043` · *noematic phenomenology of perception (Gurwitsch)*
+  Gurwitsch's Gestalt-based field of appearances lets him dispense with the noetic concept of appearance and the form-matter dualism it presupposes, but his identification of the thing-in-itself with the totality of its appearances is less convincing.
+  `bernet-la-vie-du-sujet-commentary#h4-ii-2` · La vie du sujet, p. 135 · [II](https://faultynode.github.io/commentaries/commentaries/bernet/bernet-la-vie-du-sujet-commentary.html#ii-1)
+  > This allows him not only to go beyond an egological and intellectualist conception of perception but, in the first place, to dispense with the noetic concept of appearance and the form–matter dualism it presupposes.
+
+- **revised** · `intentionalitaet/bernet-vds/044` · *network of references (Cassirer)*
+  For Cassirer hermeneutic perception addresses a datum caught in a network of references that deserve to be called intentional even if they are not really of subjective order, effacing Husserl's opposition of presentation and re-presentation.
+  `bernet-la-vie-du-sujet-commentary#h4-a-hermeneutic-conception-of-perception` · La vie du sujet, p. 150 · [A Hermeneutic Conception of Perception](https://faultynode.github.io/commentaries/commentaries/bernet/bernet-la-vie-du-sujet-commentary.html#a-hermeneutic-conception-of-perception)
+  > These deserve to be called intentional even if they are not really of subjective order.
+
+- **introduced** · `intentionalitaet/bernet-vds/045` · *operative intentionality (fungierende Intentionalität)*
+  The operative intentionality animating natural life is not an objectivating intentionality lacking reflective self-consciousness but an intentionality devoid of all representation of an object.
+  `bernet-la-vie-du-sujet-commentary#h4-i-3` · La vie du sujet, p. 170 · [I](https://faultynode.github.io/commentaries/commentaries/bernet/bernet-la-vie-du-sujet-commentary.html#i-2)
+  > The operative intentionality (*fungierende Intentionalität*) animating natural life is not an objectivating intentionality lacking a reflective consciousness of itself; it is on the contrary an intentionality devoid of all representation of an object.
+
+- **introduced** · `intentionalitaet/bernet-vds/046` · *motor intentionality*
+  Concrete movements are animated by an anonymous motor intentionality inscribed in the body's habits, whereas abstract movements bring in a subjective intentionality that is nonetheless not objectivating but belongs to an existential project.
+  `bernet-la-vie-du-sujet-commentary#h4-ii-3` · La vie du sujet, p. 175 · [II](https://faultynode.github.io/commentaries/commentaries/bernet/bernet-la-vie-du-sujet-commentary.html#ii-2)
+  > Concrete movements are animated by an anonymous motor intentionality inscribed in the structure and habits of the perceiving body, whereas abstract movements bring in a subjective form of intentionality — which Merleau-Ponty hastens to specify is nonetheless not an objectivating intentionality but still belongs to an existential attitude or project.
+
+- **introduced** · `intentionalitaet/bernet-vds/047` · *internal time-consciousness*
+  Immanent time-consciousness is in the first place an intentional lived experience directed toward the temporal determinations of an immanent object, each temporal determination being given in its own intentional act.
+  `bernet-la-vie-du-sujet-commentary#h4-i-4` · La vie du sujet, p. 194 · [I](https://faultynode.github.io/commentaries/commentaries/bernet/bernet-la-vie-du-sujet-commentary.html#i-3)
+  > In the first place it is an intentional lived experience directed toward the temporal determinations of an immanent object.
+
+- **revised** · `intentionalitaet/bernet-vds/048` · *presentation / re-presentation*
+  The perceptual experience of the present, presentation, is the foundation of all time-consciousness, and memory and expectation derive from it as acts of re-presentation putting to work a doubling of the present.
+  `bernet-la-vie-du-sujet-commentary#h4-i-4` · La vie du sujet, p. 195 · [I](https://faultynode.github.io/commentaries/commentaries/bernet/bernet-la-vie-du-sujet-commentary.html#i-3)
+  > The perceptual experience of the present — presentation (*Gegenwärtigung*) — is the foundation of all time-consciousness; memory and expectation derive from it as acts of re-presentation (*Vergegenwärtigung*) putting to work a doubling of the present.
+
+- **revised** · `intentionalitaet/bernet-vds/049` · *flux of absolute consciousness*
+  The absolute consciousness in which the temporality of intentional acts is constituted is no longer, properly speaking, an intentional consciousness or a perception, but a passive consciousness resulting from an affection.
+  `bernet-la-vie-du-sujet-commentary#h4-i-4` · La vie du sujet, p. 196 · [I](https://faultynode.github.io/commentaries/commentaries/bernet/bernet-la-vie-du-sujet-commentary.html#i-3)
+  > This absolute consciousness in which the temporality of intentional acts is constituted is no longer, properly speaking, an intentional consciousness, a perception
+
+- **introduced** · `intentionalitaet/bernet-vds/050` · *intentionality of a singular kind*
+  Bernet holds that Husserl's phenomenology of time, in its retentional analysis of absolute consciousness, innovates most radically and runs up against that intentionality of a singular kind which Heidegger will call transcendence.
+  `bernet-la-vie-du-sujet-commentary#h4-i-4` · La vie du sujet, p. 198 · [I](https://faultynode.github.io/commentaries/commentaries/bernet/bernet-la-vie-du-sujet-commentary.html#i-3)
+  > and it is here that his phenomenology of time innovates most radically and runs up against that intentionality of a singular kind which Heidegger will call transcendence
+
+- **introduced** · `intentionalitaet/bernet-vds/051` · *Querintentionalität / Längsintentionalität*
+  Husserl calls the retention of the proto-object's past duration transverse intentionality and the retention of the elapsed flux longitudinal intentionality.
+  `bernet-la-vie-du-sujet-commentary#h4-i-4` · La vie du sujet, p. 198 · [I](https://faultynode.github.io/commentaries/commentaries/bernet/bernet-la-vie-du-sujet-commentary.html#i-3)
+  > Husserl calls the retention of the proto-object's past duration transverse intentionality (*Querintentionalität*) and the retention of the elapsed flux longitudinal intentionality (*Längsintentionalität*).
+
+- **introduced** · `intentionalitaet/bernet-vds/052` · *longitudinal intentionality*
+  Longitudinal intentionality puts to work a self-consciousness of a wholly new type in Husserl, a pre-reflective and non-objectivating consciousness in which the self gives itself belatedly.
+  `bernet-la-vie-du-sujet-commentary#h4-i-4` · La vie du sujet, pp. 198-199 · [I](https://faultynode.github.io/commentaries/commentaries/bernet/bernet-la-vie-du-sujet-commentary.html#i-3)
+  > it is a pre-reflective and non-objectivating consciousness in which the self gives itself belatedly (*nachträglich*)
+
+- **criticized** · `intentionalitaet/bernet-vds/053` · *absolute consciousness is not absolute*
+  Because within absolute consciousness there is no longitudinal without transverse intentionality, Bernet draws the consequence Husserl refused to face, that absolute consciousness is not absolute and a reversible founding relation lies at the heart of originary time.
+  `bernet-la-vie-du-sujet-commentary#h4-i-4` · La vie du sujet, p. 199 · [I](https://faultynode.github.io/commentaries/commentaries/bernet/bernet-la-vie-du-sujet-commentary.html#i-3)
+  > Among the many consequences of this description there is at least one Husserl refused to envisage seriously: that absolute consciousness is not absolute
+
+- **criticized** · `intentionalitaet/bernet-vds/054` · *time and intentionality*
+  Heidegger congratulates Husserl on having been the first to discover the relation between time and intentionality while remarking that as regards the problem of time everything in Husserl remains fundamentally unchanged.
+  `bernet-la-vie-du-sujet-commentary#h4-ii-4` · La vie du sujet, p. 201 · [II](https://faultynode.github.io/commentaries/commentaries/bernet/bernet-la-vie-du-sujet-commentary.html#ii-3)
+  > On one hand he congratulates Husserl on having been the first to discover the relation between time and intentionality; on the other he remarks superbly that as regards the problem of time everything in Husserl remains fundamentally unchanged.
+
+- **revised** · `intentionalitaet/bernet-vds/055` · *double intentionality of the flux*
+  The double intentionality of the flux is singular, being a non-objectivating ecstatic intentionality and therefore more properly transcendence.
+  `bernet-la-vie-du-sujet-commentary#h4-iii-4` · La vie du sujet, pp. 210-211 · [III](https://faultynode.github.io/commentaries/commentaries/bernet/bernet-la-vie-du-sujet-commentary.html#iii-3)
+  > Likewise the double intentionality of the flux is singular, being a non-objectivating ecstatic intentionality and therefore more properly transcendence
+
+- **introduced** · `intentionalitaet/bernet-vds/056` · *re-memoration (Wiedererinnerung)*
+  Re-memoration of the past as Husserl understands it is an intentional act in which a past event is presently given as having been present.
+  `bernet-la-vie-du-sujet-commentary#h4-i-5` · La vie du sujet, p. 218 · [I](https://faultynode.github.io/commentaries/commentaries/bernet/bernet-la-vie-du-sujet-commentary.html#i-4)
+  > Re-memoration of the past as Husserl understands it is an intentional act in which a past event is presently given as having been present
+
+- **presupposed** · `intentionalitaet/bernet-vds/057` · *consciousness of the act*
+  The consciousness of an object is implicitly also the consciousness of the act: an act of perception is a perceived perceiving, a sensation a sensed sensing, by the non-reflective absolute consciousness accompanying every perceptual consciousness.
+  `bernet-la-vie-du-sujet-commentary#h4-ii-5` · La vie du sujet, p. 228 · [II](https://faultynode.github.io/commentaries/commentaries/bernet/bernet-la-vie-du-sujet-commentary.html#ii-4)
+  > The consciousness of an object is implicitly also the consciousness of the act. An act of perception is a perceived perceiving, a sensation is a sensed sensing.
+
+- **revised** · `intentionalitaet/bernet-vds/058` · *source of the subject/object difference*
+  In longitudinal intentionality absolute consciousness does not apprehend itself as an object while in transverse intentionality it apprehends objects, so that, the two being inseparable, absolute consciousness is found at the source of the difference between subject and object.
+  `bernet-la-vie-du-sujet-commentary#h4-ii-5` · La vie du sujet, p. 235 · [II](https://faultynode.github.io/commentaries/commentaries/bernet/bernet-la-vie-du-sujet-commentary.html#ii-4)
+  > In longitudinal intentionality absolute consciousness therefore does not apprehend itself as an object, but in transverse intentionality it does apprehend objects. Since the two functions are said to be inseparable, absolute consciousness is found at the source of the difference between subject and object.
+
+- **criticized** · `intentionalitaet/bernet-vds/059` · *truth of memory*
+  The concept of truth inspiring Husserl's analysis of remembering proceeds from the wish to neutralize temporal difference by a doubled presence of intentional consciousness to itself.
+  `bernet-la-vie-du-sujet-commentary#h4-iii-5` · La vie du sujet, p. 241 · [III](https://faultynode.github.io/commentaries/commentaries/bernet/bernet-la-vie-du-sujet-commentary.html#iii-4)
+  > the concept of truth inspiring Husserl's analysis of remembering proceeds from the wish to neutralize temporal difference by a doubled presence of intentional consciousness to itself.
+
+#### Recorded absences
+
+- **absent** · `bernet-la-vie-du-sujet-commentary#h4-ii`
+  Expected because: This section describes the constitution of the historical world of humanity and of intramundane objects across the generations, the same constitutive work every other Husserl section in the book analyses with noesis/noema and intentional-act vocabulary, yet carries it entirely in the borrowed idiom of living-into and caring-into the world (Hineinleben, Hineinsorgen).
+  [II](https://faultynode.github.io/commentaries/commentaries/bernet/bernet-la-vie-du-sujet-commentary.html#ii)
+
+*Partial pass: Covers Part One chapters 1-2 (pp. 39-92: intentionality vs. transcendence in the 1925 Heidegger course; the two/three concepts of the noema), chapter 3 in full (pp. 95-118: intentionality as subject/thing difference; horizonal intentionality; the world, historicity and Heidegger's anxiety), Part Two in full (pp. 121-185: finitude and teleology of perception; perception and hermeneutics; perception and natural life / Merleau-Ponty), Part Three chapters 1-2 (pp. 189-241: origin of time; the presence of the past), and the Conclusion (pp. 297-327). Not covered: the Introduction (pp. 11-38), Part Three chapter 3 (The Framing of Memory, pp. 243-265) and chapter 4 (His Master's Voice / Derrida, pp. 267-296), both scanned only.*
 
 ## Not covered by this ledger
 
 *Where the theme's terms occur but no extraction pass has run. Silence in the sections above is silence about these files, not evidence of absence in them.*
 
-- `bernet-la-vie-du-sujet-commentary` - 630 term hits, no record
-- `husserliana-19-1-fifth-logical-investigation-commentary` - 281 term hits, no record
 - `franck-chair-et-corps-commentary` - 224 term hits, no record
 - `husserliana-33-die-bernauer-manuskripte-uber-das-zeitbewusstsein-commentary` - 182 term hits, no record
 - `husserliana-11-analyses-concerning-passive-and-active-synthesis-commentary` - 175 term hits, no record
