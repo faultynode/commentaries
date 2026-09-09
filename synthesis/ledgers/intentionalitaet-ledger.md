@@ -4,7 +4,7 @@
 
 *Partly worked already: commentaries/heidegger/heidegger-husserl-intentionality-article.md is a Stage 4 output written before this pipeline existed. Extract the commentaries, not that article.*
 
-233 units and 3 recorded absences from 11 commentaries.
+250 units and 3 recorded absences from 12 commentaries.
 
 ## Primary corpus, by composition or delivery date
 
@@ -1020,7 +1020,6 @@
 
 *Where the theme's terms occur but no extraction pass has run. Silence in the sections above is silence about these files, not evidence of absence in them.*
 
-- `husserliana-7-erste-philosophie-i-commentary` - 118 term hits, no record
 - `derrida-introduction-a-lorigine-de-la-geometrie-commentary` - 98 term hits, no record
 - `heidegger-ga-20-prolegomena-zur-geschichte-des-zeitbegriffs-commentary` - 98 term hits, no record
 - `henry-the-essence-of-manifestation-commentary` - 96 term hits, no record
