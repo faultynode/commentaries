@@ -2,12 +2,12 @@
   "schema_version": 1,
   "theme": "intentionalitaet",
   "commentary": "husserliana-19-1-fifth-logical-investigation-commentary",
-  "source_sha256": "20f07477f679b932bd6a5a02a2576299d9111e84869b215e2c7dbe27d9821e08",
+  "source_sha256": "481ad7323da6ba1f2a4c7dc3e8a9b60a2e5b201db5c01ed34842809e11508c8e",
   "extracted_at": "2026-09-08",
   "extractor": {
     "agent": "claude-code",
     "prompt": "prompts/extraction-prompt.md",
-    "note": "source_sha256 is the LF digest as recorded in corpus.json (CRLF checkout; local validate reports a false staleness, CI on LF passes). Closely read Chapter Two in full (SS 9-21, 'Consciousness as Intentional Experience'), the Appendix to SS 11 and 20 (critique of the image-theory and of 'immanent' objects), and Chapter Five SS 37-39 (the objectivating act). Not read: the Introduction, Chapter One (SS 1-8, on the ego and inner perception), Chapter Three (SS 22-31, matter/quality and 'mere presenting'), Chapter Four (SS 32-36, judgment), Chapter Five SS 40-43, and Chapter Six (SS 44-45, equivocations of 'presentation' and 'content')."
+    "note": "source_sha256 is the LF digest (CRLF checkout; local validate reports a false staleness, CI on LF passes). Refreshed after a dating note was added to the commentary's opening (P5/P6): no extracted section touched, quotes unchanged, source_sha256 bumped from 20f07477 to 481ad732. Closely read Chapter Two in full (SS 9-21, 'Consciousness as Intentional Experience'), the Appendix to SS 11 and 20 (critique of the image-theory and of 'immanent' objects), and Chapter Five SS 37-39 (the objectivating act). Not read: the Introduction, Chapter One (SS 1-8, on the ego and inner perception), Chapter Three (SS 22-31, matter/quality and 'mere presenting'), Chapter Four (SS 32-36, judgment), Chapter Five SS 40-43, and Chapter Six (SS 44-45, equivocations of 'presentation' and 'content')."
   },
   "coverage": "partial",
   "coverage_note": "Covers the doctrinal core of the Fifth Investigation: Chapter Two (SS 9-21) on the descriptive essence of the act as intentional experience, the warding-off of the 'immanent object', the ego-relation, the act-class against Natorp, intentional feelings, the real/intentional content distinction and the three concepts of intentional content (object, matter/quality, intentional essence); the Appendix (image-theory, the analytic identity of intentional and real object); and Chapter Five SS 37-39 on the objectivating act, positing/non-positing modification, and nominalization. Not covered: the Introduction, Chapter One (ego, inner perception), Chapters Three-Four (matter/quality debates, judgment), Chapter Five SS 40-43, Chapter Six.",

@@ -78,6 +78,30 @@
       ]
     },
     {
+      "commentary": "husserliana-19-1-fifth-logical-investigation-commentary",
+      "role": "primary",
+      "status": "resolved",
+      "note": "Two editions, twelve years apart. The commentary works from the B-text and marks the layers throughout: first-edition-only passages in smaller type (§7, part of §8), second-edition footnotes and the §10 Addendum as marginal self-corrections (the pure-ego recantations at §§6 and 8; the noesis/noema footnote at §16). A unit should carry the A- or B-stratum only where the commentary assigns the passage to one; otherwise leave it unset.",
+      "strata": [
+        {
+          "id": "lu5-a-1901",
+          "label": "First edition (Logische Untersuchungen II, Halle 1901)",
+          "year_start": 1901,
+          "year_end": 1901,
+          "stated_in_commentary": true,
+          "evidence": "opening note: \"First edition: Logische Untersuchungen, Zweiter Theil, Halle 1901\""
+        },
+        {
+          "id": "lu5-b-1913",
+          "label": "Second, revised edition (Logische Untersuchungen II/1, 1913)",
+          "year_start": 1913,
+          "year_end": 1913,
+          "stated_in_commentary": true,
+          "evidence": "opening note: \"Second, revised edition (the B-text ...): Logische Untersuchungen II/1, 1913\""
+        }
+      ]
+    },
+    {
       "commentary": "husserliana-4-ideas-ii-commentary",
       "role": "primary",
       "status": "resolved",
