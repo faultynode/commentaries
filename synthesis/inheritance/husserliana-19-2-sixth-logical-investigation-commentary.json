@@ -1,0 +1,69 @@
+{
+  "schema_version": 1,
+  "commentary": "husserliana-19-2-sixth-logical-investigation-commentary",
+  "source_sha256": "b8cda8b8a2a31d263455efa37437b0aefc01c6231f22bb078a8ff640c779cc85",
+  "extracted_at": "2026-09-09",
+  "extractor": {
+    "agent": "claude-code",
+    "prompt": "prompts/inheritance-prompt.md",
+    "note": "source_sha256 is the LF digest (CRLF checkout; local validate reports a false staleness, CI on LF passes). Predecessor engagement is thin and concentrated in the Second Section (§§ 43-44 on the origin of the categories) and the Third Section (§§ 68-70 on the Aristotelian conception of non-objectifying sentences). Not read for this pass: §§ 1-42, 45-67 in detail beyond the extraction pass. One record per commentary covering all predecessors."
+  },
+  "coverage": "partial",
+  "coverage_note": "Covers the Sixth Investigation's engagement with predecessors: Kant (the appropriated proposition that being is no real predicate, extended from existential to predicative and attributive being), Herbart (the being of 'absolute position'), Locke (the doctrine, widespread since Locke, that the logical categories arise through reflection on psychic acts in the sphere of inner sense, which Husserl denies, locating the origin of 'state of affairs' and 'being' in the judgment-fulfilments themselves and not in reflection on them), and Aristotle (the logicians attaching to Aristotle who coordinate names, statements, wish-sentences, and question-sentences as expression-forms for presentations, judgments, wishes, and questions, from whom an unbridgeable gulf separates Husserl, who holds that all meaning is the one genus meaning-intention and all fulfilment the one genus intuition, so that one coordinates not judgment and wish but state of affairs and wish). Not covered: the detailed fulfilment and categorial-intuition analyses.",
+  "engagements": [
+    {
+      "id": "inh/lu6/001",
+      "locator": "husserliana-19-2-sixth-logical-investigation-commentary#h3-s-43-the-objective-correlates-of-the-categorial-forms-are-no-real-moments",
+      "primary_locator": "Logical Investigations VI § 43",
+      "predecessor": { "author": "Immanuel Kant" },
+      "mode": "terminological-borrowing",
+      "claim": "Husserl recalls the Kantian proposition that being is no real predicate (das Sein ist kein reales Prädikat) and, even where it relates to existential being, appropriates it for predicative and attributive being: the colour can be seen but not the being-coloured.",
+      "quote": "Here we recall the *Kantian proposition*: *being is no real predicate* (*das Sein ist kein reales Prädikat*)."
+    },
+    {
+      "id": "inh/lu6/002",
+      "locator": "husserliana-19-2-sixth-logical-investigation-commentary#h3-s-43-the-objective-correlates-of-the-categorial-forms-are-no-real-moments",
+      "primary_locator": "Logical Investigations VI § 43",
+      "predecessor": { "author": "Johann Friedrich Herbart" },
+      "mode": "terminological-borrowing",
+      "claim": "The existential being to which the Kantian proposition first relates is the being of 'absolute position', as Herbart called it.",
+      "quote": "the being of \"absolute position\" (as Herbart called it)"
+    },
+    {
+      "id": "inh/lu6/003",
+      "locator": "husserliana-19-2-sixth-logical-investigation-commentary#h3-s-44-the-origin-of-the-concept-being-and-of-the-remaining-categories-does-not-li",
+      "primary_locator": "Logical Investigations VI § 44",
+      "predecessor": { "author": "John Locke", "text": "An Essay Concerning Human Understanding" },
+      "mode": "polemical-rejection",
+      "claim": "Taking 'reflection' in the relatively fixed sense Locke gave it, that of inner perception, Husserl denies the doctrine widespread since Locke that the origin of the concept 'being', and of the logical categories generally, lies in reflection on the judgment or on psychic acts in the sphere of the inner sense.",
+      "quote": "In epistemology it has the at least relatively fixed sense Locke gave it, that of *inner perception*; only to this, then, can we hold in interpreting the doctrine that believes it can find the origin of the concept *being* in reflection on the judgment. Such an origin we therefore *deny*."
+    },
+    {
+      "id": "inh/lu6/004",
+      "locator": "husserliana-19-2-sixth-logical-investigation-commentary#h3-s-44-the-origin-of-the-concept-being-and-of-the-remaining-categories-does-not-li",
+      "primary_locator": "Logical Investigations VI § 44",
+      "predecessor": { "author": "John Locke" },
+      "mode": "polemical-rejection",
+      "claim": "Not in the reflection on judgments but in the judgment-fulfilments themselves lies the origin of the concepts state of affairs and being (in the sense of the copula): not in these acts as objects but in the objects of these acts we find the abstraction-foundation.",
+      "quote": "*Not in the reflection on judgments (or rather on judgment-fulfilments), but in the judgment-fulfilments themselves, lies truly the origin of the concepts state of affairs and being (in the sense of the copula);*"
+    },
+    {
+      "id": "inh/lu6/005",
+      "locator": "husserliana-19-2-sixth-logical-investigation-commentary#h3-s-70-decision",
+      "primary_locator": "Logical Investigations VI § 70",
+      "predecessor": { "author": "Aristotle", "text": "De Interpretatione" },
+      "mode": "polemical-rejection",
+      "claim": "Even where the disputed sentences are not expressions of judgments, an unbridgeable gulf separates Husserl from the logicians attaching to Aristotle, for whom names, statements, wish-sentences, question-sentences, and commands are coordinated expression-forms giving expression respectively to presentations, judgments, wishes, and questions.",
+      "quote": "According to them, names, statements, wish-sentences, question-sentences, commands, etc., would be *coordinated* expression-forms — and indeed in the following sense: *names* give expression to *presentations*, *statements* to *judgments*, *wish-sentences* to *wishes*, and so on."
+    },
+    {
+      "id": "inh/lu6/006",
+      "locator": "husserliana-19-2-sixth-logical-investigation-commentary#h3-s-70-decision",
+      "primary_locator": "Logical Investigations VI § 70",
+      "predecessor": { "author": "Aristotle" },
+      "mode": "polemical-rejection",
+      "claim": "Against the Aristotelian coordination, Husserl finds a fundamental difference: the acts expressed in names and statements are meaning-giving but not meant, whereas with the disputed expressions the 'expressed' acts become objective, so that one coordinates not judgment and wish but state of affairs and wish.",
+      "quote": "We, by contrast, find, in comparing the names and statements with the expressions of the disputed group, a *fundamental difference* therein: that the acts of presenting (or judging) \"expressed\" in names and statements are indeed *meaning-giving* (or meaning-fulfilling), but for that reason precisely *not meant*"
+    }
+  ]
+}
