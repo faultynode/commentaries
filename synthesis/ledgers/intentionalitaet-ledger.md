@@ -4,7 +4,7 @@
 
 *Partly worked already: commentaries/heidegger/heidegger-husserl-intentionality-article.md is a Stage 4 output written before this pipeline existed. Extract the commentaries, not that article.*
 
-25 units and 2 recorded absences from 1 commentaries.
+42 units and 2 recorded absences from 2 commentaries.
 
 ## Not covered by this ledger
 
@@ -12,7 +12,6 @@
 
 - `bernet-la-vie-du-sujet-commentary` - 630 term hits, no record
 - `husserliana-19-1-fifth-logical-investigation-commentary` - 281 term hits, no record
-- `franck-chair-et-corps-commentary` - 224 term hits, no record
 - `husserliana-33-die-bernauer-manuskripte-uber-das-zeitbewusstsein-commentary` - 182 term hits, no record
 - `husserliana-11-analyses-concerning-passive-and-active-synthesis-commentary` - 175 term hits, no record
 - `husserliana-9-phenomenological-psychology-commentary` - 166 term hits, no record

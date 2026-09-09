@@ -1,0 +1,170 @@
+{
+  "schema_version": 1,
+  "theme": "intentionalitaet",
+  "commentary": "franck-chair-et-corps-commentary",
+  "source_sha256": "0757213bac9658321459643d6202563f502dbbf2f877f1e30d07dd34c897d9d5",
+  "extracted_at": "2026-09-09",
+  "extractor": {
+    "agent": "claude-code",
+    "prompt": "prompts/synthesis-pipeline/extraction-prompt.md",
+    "note": "Extraction focused on core doctrine and application of intentionality across the commentary. Chapter Two introduces intentionality as the first structural feature of transcendental consciousness; Chapter Three applies intentional analysis to perception and flesh; Chapter Four examines constitution through intentional life. Partial coverage of remaining chapters (Five-Twelve) for thematic richness and development."
+  },
+  "coverage": "partial",
+  "coverage_note": "Covers the introduction and core doctrine of intentionality across Chapters One-Four with emphasis on: Ch. Two §§123-125 (intentionality as first structure), Ch. Three §§139-163 (intentional analysis, noematic correlation, horizon-structure), Ch. Four §169 (constitution through intentional life). Also covers selected passages from Chapters Five-Seven establishing intentionality in relation to eidetic analysis, idealism, and solipsism. Not fully covered: later applications in Chapters Eight-Twelve, the full development of intentionality through alterity and pairing.",
+  "units": [
+    {
+      "id": "intentionalitaet/franck-bodies/001",
+      "locator": "franck-chair-et-corps-commentary#h2-chapter-two-science-as-egology",
+      "primary_locator": "Cartesian Meditations II",
+      "term": "intentionality / consciousness of something",
+      "status": "introduced",
+      "claim": "Intentionality is the first fundamental structure of the transcendental field, brought out by shifting focus from singular ego-positing to the multiple acts of consciousness.",
+      "quote": "By shifting the center of gravity of transcendental evidence from the *ego cogito* (the singular act of self-positing) to the multiple *cogitationes* (the multiple acts of consciousness), the phenomenologist brings out the first of these structures: intentionality."
+    },
+    {
+      "id": "intentionalitaet/franck-bodies/002",
+      "locator": "franck-chair-et-corps-commentary#h2-chapter-two-science-as-egology",
+      "primary_locator": "Cartesian Meditations II",
+      "term": "intentionality / universal fundamental property",
+      "status": "introduced",
+      "claim": "Intentionality is defined as the universal fundamental property of consciousness: to be consciousness of something, bearing its cogitatum within itself.",
+      "quote": "Franck cites Husserl: the word intentionality means nothing other than this universal fundamental property of consciousness — to be consciousness of something, as a cogito to bear within itself its cogitatum."
+    },
+    {
+      "id": "intentionalitaet/franck-bodies/003",
+      "locator": "franck-chair-et-corps-commentary#h2-chapter-two-science-as-egology",
+      "primary_locator": "Cartesian Meditations II",
+      "term": "intentional correlate / noema",
+      "status": "introduced",
+      "claim": "The intentional correlate (noema) is the object-as-perceived held within the cogitatio in an irreal sense, distinct from the real object.",
+      "quote": "Each lived experience of consciousness is a consciousness of …, regardless of whether its object actually exists. The relation to the perceived, for example, is essential to perception itself; it contains the *cogitatum* (the perceived as perceived) in an irreal sense within the *cogitatio*."
+    },
+    {
+      "id": "intentionalitaet/franck-bodies/004",
+      "locator": "franck-chair-et-corps-commentary#h2-chapter-two-science-as-egology",
+      "primary_locator": "Cartesian Meditations II",
+      "term": "intentional process / reflection",
+      "status": "introduced",
+      "claim": "Reflection is itself an intentional process that relates back to the original lived experience, making the original available as the correlate of reflective consciousness.",
+      "quote": "The reflective attitude yields a new intentional process, one with the peculiarity of \"relating back to the earlier process\" (*Rückbeziehung auf das frühere Erlebnis*), and this new process is awareness — even, possibly, evidential awareness — of just that earlier process itself, and not of any other."
+    },
+    {
+      "id": "intentionalitaet/franck-bodies/005",
+      "locator": "franck-chair-et-corps-commentary#h2-chapter-three-flesh-and-body-in-perception",
+      "primary_locator": "Cartesian Meditations V",
+      "term": "intentional correlativity / consciousness and objects",
+      "status": "introduced",
+      "claim": "Consciousness is intentionally correlative with its objects, establishing a dual-oriented analysis examining both the noema and the noeses.",
+      "quote": "The demonstration that consciousness is intentionally correlative with its objects forces a dual orientation onto the analysis of consciousness — a correlative structure."
+    },
+    {
+      "id": "intentionalitaet/franck-bodies/006",
+      "locator": "franck-chair-et-corps-commentary#h2-chapter-three-flesh-and-body-in-perception",
+      "primary_locator": "Cartesian Meditations V",
+      "term": "intentional analysis",
+      "status": "introduced",
+      "claim": "Intentional analysis is the analysis of transcendental subjectivity insofar as it constitutes all possible objectivity through noetic-noematic correlation.",
+      "quote": "Intentional analysis is thus the analysis of the transcendental ego insofar as the ego includes and constitutes all possible objectivity."
+    },
+    {
+      "id": "intentionalitaet/franck-bodies/007",
+      "locator": "franck-chair-et-corps-commentary#h2-chapter-three-flesh-and-body-in-perception",
+      "primary_locator": "Logical Investigations, Ideas I",
+      "term": "intentional analysis / perception",
+      "status": "introduced",
+      "claim": "Phenomenology necessarily begins with intentional analysis of perception as its exemplary case, responding to the deep necessity of overcoming transcendental psychologism.",
+      "quote": "If phenomenology is always a phenomenology of perception, this is for essential and profoundly historical reasons. Franck cites Husserl: involuntarily, he says, we began with the intentional analysis of perception — and indeed gave privileged status to intuitively given physical bodies (*Körper*)."
+    },
+    {
+      "id": "intentionalitaet/franck-bodies/008",
+      "locator": "franck-chair-et-corps-commentary#h2-chapter-three-flesh-and-body-in-perception",
+      "primary_locator": "Ideas I",
+      "term": "intentional object / noetic-noematic synthesis",
+      "status": "introduced",
+      "claim": "The intentional object is the identical unity of various modes of noetic-noematic consciousness, unified through synthetic relations.",
+      "quote": "What was just found — in the exemplary analysis of perception, which holds *mutatis mutandis* for all conscious life — can be condensed thus: the intentional object as such is conscious as the identical unity of various modes of noetic-noematic consciousness; conscious life is essentially synthetic."
+    },
+    {
+      "id": "intentionalitaet/franck-bodies/009",
+      "locator": "franck-chair-et-corps-commentary#h2-chapter-three-flesh-and-body-in-perception",
+      "primary_locator": "Ideas I",
+      "term": "intentional correlate / internal time-consciousness",
+      "status": "introduced",
+      "claim": "Internal time-consciousness is the fundamental form of synthesis underlying intentional relations, joining lived experiences into a continuous flow.",
+      "quote": "And in the final analysis, internal time-consciousness is the fundamental form of this synthesis. The phenomenology of perception implies a phenomenology of temporality that joins lived experiences together into a single, unique flow."
+    },
+    {
+      "id": "intentionalitaet/franck-bodies/010",
+      "locator": "franck-chair-et-corps-commentary#h2-chapter-three-flesh-and-body-in-perception",
+      "primary_locator": "Ideas I",
+      "term": "intentional relatedness / conscious life",
+      "status": "introduced",
+      "claim": "Conscious life exhibits a reflexive intentional relatedness to itself, demonstrating intentionality as the being-for-itself characteristic of consciousness.",
+      "quote": "The fact is evident — even apodictically evident — and indicates one aspect of the ego's marvellous being-for-himself: above all the being of his conscious life in the form of reflexive intentional relatedness to himself."
+    },
+    {
+      "id": "intentionalitaet/franck-bodies/011",
+      "locator": "franck-chair-et-corps-commentary#h2-chapter-three-flesh-and-body-in-perception",
+      "primary_locator": "Ideas I",
+      "term": "intentionality / horizon-structure",
+      "status": "introduced",
+      "claim": "The horizon-structure is an essential feature of intentionality insofar as intentionality is the positing of objects; every object is given within horizons that generate further horizons.",
+      "quote": "The horizon-structure remains an essential feature of intentionality insofar as intentionality is positing of objects. Every cogitatum is given within a horizon that in turn gives rise to new horizons; therefore the sense of the object — the noema — can never be given as something complete."
+    },
+    {
+      "id": "intentionalitaet/franck-bodies/012",
+      "locator": "franck-chair-et-corps-commentary#h2-chapter-three-flesh-and-body-in-perception",
+      "primary_locator": "Ideas I",
+      "term": "intentional analysis / constitution",
+      "status": "introduced",
+      "claim": "Intentional analysis unfolds the constitutive syntheses underlying each actuality, inquiring back to the multiplicities of noetic syntheses that continually constitute objects.",
+      "quote": "It is not a real (psychological) analysis — there is no empiricist sensualism of intentionality; rather, it unfolds, distinguishes, and clarifies the richness of horizons and infinite potentialities harboured and concealed in each actuality."
+    },
+    {
+      "id": "intentionalitaet/franck-bodies/013",
+      "locator": "franck-chair-et-corps-commentary#h2-chapter-three-flesh-and-body-in-perception",
+      "primary_locator": "Ideas I",
+      "term": "intentional object / transcendental clue",
+      "status": "introduced",
+      "claim": "The intentional object serves as a transcendental clue for displaying constitutive noetic structures, grounding the method of intentional analysis itself.",
+      "quote": "First, the intentional object must serve as a *transcendental clue* for displaying the constitutive noetic structures. This affirms a relative and methodological privilege of the constituted (in phenomenology, the question of method is sovereign)."
+    },
+    {
+      "id": "intentionalitaet/franck-bodies/014",
+      "locator": "franck-chair-et-corps-commentary#h2-chapter-four-constitutive-analysis",
+      "primary_locator": "Cartesian Meditations III-V",
+      "term": "intentional life / constitution",
+      "status": "introduced",
+      "claim": "Being and non-being, reality and irreality, are constituted in and through intentional life; the reduction reveals being as wholly reducible to intentional sense.",
+      "quote": "It is therefore necessary to show that being and non-being, reality and irreality, are constituted in and through intentional life — such that, as Husserl says, the idea of investigating anything outside the parentheses placed by the reduction \"cannot occur to us within the sphere of phenomenological reduction.\""
+    },
+    {
+      "id": "intentionalitaet/franck-bodies/015",
+      "locator": "franck-chair-et-corps-commentary#h2-preface",
+      "primary_locator": "Cartesian Meditations V",
+      "term": "intentionality / being of intentionality",
+      "status": "introduced",
+      "claim": "The fifth Meditation poses the question of the being of intentionality in relation to the constitution of objectivity and intersubjectivity.",
+      "quote": "In short, the fifth Meditation treats the *objectivity of the object*, thereby posing the question of *the being of intentionality*."
+    },
+    {
+      "id": "intentionalitaet/franck-bodies/019",
+      "locator": "franck-chair-et-corps-commentary#h2-chapter-three-flesh-and-body-in-perception",
+      "primary_locator": "Ideas I",
+      "term": "intentionality / supplementary aim",
+      "status": "introduced",
+      "claim": "Each cogito intends more than what is actually given (the Mehrmeinung); this supplementary intentional aim is essential to intentional analysis itself.",
+      "quote": "This means that each cogito intends *more* than what is actually there (the *Mehrmeinung*, the \"meaning-more\"), and without this supplementary aim intentional analysis could not even take place — could not inquire back to the multiplicities of noetic syntheses that continually give the object as the same."
+    },
+    {
+      "id": "intentionalitaet/franck-bodies/020",
+      "locator": "franck-chair-et-corps-commentary#h2-chapter-three-flesh-and-body-in-perception",
+      "primary_locator": "Ideas I",
+      "term": "intentional synthesis / object-pole",
+      "status": "introduced",
+      "claim": "The object is a pole of identity constituted by multiple intentional syntheses; it serves as the organizing center for the correlative system of consciousness.",
+      "quote": "The object is a pole of identity, an index of noetic constitutive intentionalities. At the same time, intentional analysis acquires a distinctive structure."
+    }
+  ],
+  "absences": []
+}
