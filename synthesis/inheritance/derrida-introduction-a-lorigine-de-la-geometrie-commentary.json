@@ -1,0 +1,105 @@
+{
+  "schema_version": 1,
+  "commentary": "derrida-introduction-a-lorigine-de-la-geometrie-commentary",
+  "source_sha256": "d88dc07ec83bdabc771b2e7ffa2f60764136bc0f531626ed13e58223d20ca693",
+  "extracted_at": "2026-09-09",
+  "extractor": {
+    "agent": "claude-code",
+    "prompt": "prompts/inheritance-prompt.md",
+    "note": "source_sha256 is the LF digest (CRLF checkout; local validate reports a false staleness, CI on LF passes). Derrida's Introduction is a book-length reading of Husserl's Origin of Geometry; predecessor engagement is concentrated in section II (the extended Kant comparison, plus Descartes and Fink), section VII (Joyce, Hegel, Heidegger on the equivocity/univocity of language), and section XI (Cavailles and Platonism on the historicity of the Idea). One record per commentary covering all predecessors."
+  },
+  "coverage": "partial",
+  "coverage_note": "Covers Derrida's engagement with predecessors in the Introduction: Husserl (the axiom that every ideal objectity is produced by the act of a concrete consciousness, sole point of departure of transcendental phenomenology, so that every ideal objectity has a history always already announced in it), Kant (the inaugural 'revolution' that delivers rather than creates geometry, heard under a dative category, so that Kant's account is a phenomenology of ready-made geometry, the constituted taken for the constituting; and the absence of the material or contingent a priori, which uproots Kant's formalist apriorism from all concrete history), Descartes (the philosophers of method, needing a path from the already-there, are perhaps the more profoundly sensitive to historicity), Fink (the interpretation, approved by Husserl, of the intra-worldliness of the Kantian critique against the Husserlian inquiry into the origin of the world), James Joyce (the transcendental parallel: repeating and taking charge of the totality of equivocation in a writing that circulates through all languages at once), Hegel (the interiorization of cultural memory as Erinnerung, and Husserl's association of Hegelianism with romanticism and historicism), Heidegger (Husserl's critique of depth and the marginalia to Sein und Zeit charging a Tiefsinnigkeit with a displacement toward a facto-anthropological plane), Cavailles (the descent-model of empirical history as mere developer of essential enchainments, and the forced choice between absolute and transcendental logic), and Plato (the relapse into Platonism, against which the Idea's supra-temporality is nothing but an omnitemporality). Not covered: the fine detail of the sections on the living present, writing, and the transcendental sense of death.",
+  "engagements": [
+    {
+      "id": "inh/derrida-og/001",
+      "locator": "derrida-introduction-a-lorigine-de-la-geometrie-commentary#h2-ii",
+      "primary_locator": "Introduction to the Origin of Geometry, §II",
+      "predecessor": { "author": "Edmund Husserl", "text": "Die Frage nach dem Ursprung der Geometrie" },
+      "mode": "acknowledged-debt",
+      "claim": "Derrida takes as the fundamental axiom of the whole Introduction that, since every ideal objectity is produced by the act of a concrete consciousness, the sole point of departure for a transcendental phenomenology, every ideal objectity has a history that always already announces itself in it.",
+      "quote": "since *every ideal objectity is produced by the act of a concrete consciousness* — the *sole point of departure for a transcendental phenomenology* — every ideal objectity *has a history* which *always already announces itself in it*, even if we know nothing of its determinate content."
+    },
+    {
+      "id": "inh/derrida-og/002",
+      "locator": "derrida-introduction-a-lorigine-de-la-geometrie-commentary#h2-ii",
+      "primary_locator": "Introduction to the Origin of Geometry, §II",
+      "predecessor": { "author": "Immanuel Kant", "text": "Kritik der reinen Vernunft, Preface to the 2nd edition" },
+      "mode": "polemical-rejection",
+      "claim": "The inaugural mutation that interests Kant delivers geometry rather than creating it, a revelation heard by the first geometer under a dative category, so that Kant's account of the origin is, in Husserlian terms, a phenomenology of ready-made geometry projected back onto the founding instant: the constituted taken for the constituting.",
+      "quote": "the inaugural mutation that interests Kant *delivers* (*délivre*) geometry rather than *creating* it: it liberates, in order to hand over to us, a possibility that is *nothing less than historical*"
+    },
+    {
+      "id": "inh/derrida-og/003",
+      "locator": "derrida-introduction-a-lorigine-de-la-geometrie-commentary#h2-ii",
+      "primary_locator": "Introduction to the Origin of Geometry, §II",
+      "predecessor": { "author": "Immanuel Kant" },
+      "mode": "polemical-rejection",
+      "claim": "The absence of the decisive notion of the material or contingent a priori, as Husserl defined it, uproots Kant's formalist apriorism from all concrete history and inhibits the theme of a transcendental history, since Kant's exhaustive division of the a priori into the formal and the empirical leaves no room for the historicity of essences.",
+      "quote": "it is the *absence of the decisive notion of the \"material\" or \"contingent a priori\"*, as Husserl defined it (Derrida refers to FTL §6), that thus seems to *uproot Kant's formalist apriorism from all concrete history* and to inhibit the theme of a transcendental history"
+    },
+    {
+      "id": "inh/derrida-og/004",
+      "locator": "derrida-introduction-a-lorigine-de-la-geometrie-commentary#h2-ii",
+      "primary_locator": "Introduction to the Origin of Geometry, §II",
+      "predecessor": { "author": "René Descartes" },
+      "mode": "acknowledged-debt",
+      "claim": "Derrida remarks that, despite appearances, the philosophers of method are perhaps more profoundly sensitive to historicity: Descartes and Husserl, the great proceduralists, testify to history precisely by needing a path, an itinerary that takes time and starts from the already-there.",
+      "quote": "despite appearances, *the philosophers of method are perhaps more profoundly sensitive to historicity*, even as they seem to withdraw the parenthesis of the path from history — Descartes and Husserl, the great proceduralists, testify to history precisely by needing a path"
+    },
+    {
+      "id": "inh/derrida-og/005",
+      "locator": "derrida-introduction-a-lorigine-de-la-geometrie-commentary#h2-ii",
+      "primary_locator": "Introduction to the Origin of Geometry, §II",
+      "predecessor": { "author": "Eugen Fink", "text": "Kant-Studien essay (1933)" },
+      "mode": "acknowledged-debt",
+      "claim": "Derrida rediscovers, locally and by a different route, the interpretation proposed by Fink and approved by Husserl concerning the intra-worldliness of the Kantian critique compared with the Husserlian inquiry into the origin of the world.",
+      "quote": "one rediscovers here, locally and by a different route, the interpretation proposed by *Fink* and approved by Husserl concerning the *intra-worldliness* (*intra-mondanité*) of the Kantian critique compared with the Husserlian inquiry into the \"origin of the world\" (Fink's 1933 *Kant-Studien* essay)"
+    },
+    {
+      "id": "inh/derrida-og/006",
+      "locator": "derrida-introduction-a-lorigine-de-la-geometrie-commentary#h2-vii",
+      "primary_locator": "Introduction to the Origin of Geometry, §VII",
+      "predecessor": { "author": "James Joyce", "text": "Finnegans Wake / Ulysses" },
+      "mode": "acknowledged-debt",
+      "claim": "Derrida sets Husserl's project of reducing language to univocity against a transcendental parallel resembling James Joyce's: to repeat and take charge of the totality of equivocation in a writing that no longer translates one language into another but circulates through all languages at once, cultivating the associative syntheses instead of fleeing them.",
+      "quote": "One \"would resemble that of *James Joyce*\": to *repeat and take charge of the totality of equivocation itself*, in a language that brings to the surface, in the greatest possible *synchrony*, the greatest potency of the intentions buried, accumulated, and interwoven"
+    },
+    {
+      "id": "inh/derrida-og/007",
+      "locator": "derrida-introduction-a-lorigine-de-la-geometrie-commentary#h2-vii",
+      "primary_locator": "Introduction to the Origin of Geometry, §VII",
+      "predecessor": { "author": "Georg Wilhelm Friedrich Hegel" },
+      "mode": "polemical-rejection",
+      "claim": "Whoever wants to interiorize the memory of a culture faces it in a sort of Erinnerung in the Hegelian sense, but Husserl always associated Hegelianism with romanticism and the historicism it produced once faith in its metaphysics of history was lost.",
+      "quote": "Husserl always associated \"Hegelianism\" with \"romanticism\" and the \"historicism\" it produced once \"faith\" in its \"metaphysics of history\" was lost"
+    },
+    {
+      "id": "inh/derrida-og/008",
+      "locator": "derrida-introduction-a-lorigine-de-la-geometrie-commentary#h2-vii",
+      "primary_locator": "Introduction to the Origin of Geometry, §VII",
+      "predecessor": { "author": "Martin Heidegger" },
+      "mode": "polemical-rejection",
+      "claim": "Derrida cites Husserl's critique of depth, in which even the marginalia to Sein und Zeit attribute to a Tiefsinnigkeit, a profundity-mongering, the Heideggerian displacement toward what Husserl took to be a facto-anthropological plane, Husserl preferring interiority to depth.",
+      "quote": "even the marginalia to *Sein und Zeit*, which attribute to a *Tiefsinnigkeit* — a profundity-mongering — the Heideggerian \"displacement\" toward what Husserl took to be a facto-anthropological plane."
+    },
+    {
+      "id": "inh/derrida-og/009",
+      "locator": "derrida-introduction-a-lorigine-de-la-geometrie-commentary#h2-xi",
+      "primary_locator": "Introduction to the Origin of Geometry, §XI",
+      "predecessor": { "author": "Jean Cavaillès", "text": "Sur la logique et la théorie de la science" },
+      "mode": "polemical-rejection",
+      "claim": "Against Cavaillès's descent-model, in which empirical history is only a developer of essential enchainments, and against the forced choice between an absolute logic and a transcendental logic, Derrida argues that the dialecticity of genesis Cavaillès opposes to Husserlian consciousness is precisely and abundantly described by Husserl, though the word is never pronounced.",
+      "quote": "why must one *choose*, as Cavaillès thought, between an \"*absolute logic*\" and a \"*transcendental logic*\", or between \"*a consciousness of progress*\" and \"*a progress of consciousness*\"?"
+    },
+    {
+      "id": "inh/derrida-og/010",
+      "locator": "derrida-introduction-a-lorigine-de-la-geometrie-commentary#h2-xi",
+      "primary_locator": "Introduction to the Origin of Geometry, §XI",
+      "predecessor": { "author": "Plato" },
+      "mode": "polemical-rejection",
+      "claim": "Against the relapse into Platonism, in which an eternal Idea would descend into time, Derrida insists that the eternity of the Idea is nothing but a historicity and its supra-temporality nothing but an omnitemporality, so that the Idea is nothing outside the history where it exposes itself.",
+      "quote": "this eternity *is nothing but a historicity*. It is the possibility of history itself. Its *supra-temporality* — with regard to empirical temporality — *is nothing but an omnitemporality*."
+    }
+  ]
+}
