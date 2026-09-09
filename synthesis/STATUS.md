@@ -8,17 +8,17 @@ Corpus: **53 commentaries**, 2,934,431 words, 3902 sections indexed in `synthesi
 
 ### intentionalitaet - intentionality
 
-5 commentaries extracted · 143 units · 3 absences · 5 partial
+7 commentaries extracted · 157 units · 3 absences · 7 partial
 
 Next candidates, by term density:
 
 - [ ] `franck-chair-et-corps-commentary` (undated) - 224 hits
 - [ ] `husserliana-11-analyses-concerning-passive-and-active-synthesis-commentary` (1920) - 175 hits
-- [ ] `husserliana-9-phenomenological-psychology-commentary` (1925) - 166 hits
-- [ ] `heidegger-ga-24-die-grundprobleme-der-phanomenologie-commentary` (undated) - 133 hits
 - [ ] `henry-philosophie-et-phenomenologie-du-corps-commentary` (1965) - 127 hits
 - [ ] `husserliana-3-ideas-i-commentary` (undated) - 121 hits
-- ... 36 more; see `synthesis_query.py --theme intentionalitaet`
+- [ ] `husserliana-7-erste-philosophie-i-commentary` (undated) - 118 hits
+- [ ] `derrida-introduction-a-lorigine-de-la-geometrie-commentary` (undated) - 98 hits
+- ... 34 more; see `synthesis_query.py --theme intentionalitaet`
 
 ### konstitution - constitution
 
@@ -97,7 +97,7 @@ Next candidates, by term density:
 Next candidates, by term density:
 
 - [ ] `heidegger-sein-und-zeit-commentary` (1927) - 843 hits
-- [ ] `husserliana-33-die-bernauer-manuskripte-uber-das-zeitbewusstsein-commentary` (undated) - 606 hits
+- [ ] `husserliana-33-die-bernauer-manuskripte-uber-das-zeitbewusstsein-commentary` (1917) - 606 hits
 - [ ] `bernet-la-vie-du-sujet-commentary` (1994) - 525 hits
 - [ ] `husserliana-11-analyses-concerning-passive-and-active-synthesis-commentary` (1920) - 213 hits
 - [ ] `henry-the-essence-of-manifestation-commentary` (undated) - 180 hits
@@ -106,17 +106,20 @@ Next candidates, by term density:
 
 ## Inheritance index
 
-3 commentaries · 13 engagements
+5 commentaries · 23 engagements
 
 - `heidegger-ga-19-platon-sophistes-commentary` - 4 engagements (partial)
+- `heidegger-ga-24-die-grundprobleme-der-phanomenologie-commentary` - 4 engagements (partial)
 - `husserl-thing-and-space-commentary` - 0 engagements (partial)
 - `husserliana-33-die-bernauer-manuskripte-uber-das-zeitbewusstsein-commentary` - 9 engagements (partial)
+- `husserliana-9-phenomenological-psychology-commentary` - 6 engagements (partial)
 
 ## Chronology to resolve
 
 These commentaries do not date their own text, so they sit off the ledger spine. Each is a reading task, not a lookup: the date belongs in the commentary first.
 
 - [ ] `heidegger-ga-18-grundbegriffe-der-aristotelischen-philosophie-commentary` - The commentary names the volume and the page range covered but no semester. Resolving this matters more than most: GA 18 sits immediately before GA 19 on the Sorge ledger, and the two courses are what the periodization turns on.
+- [ ] `heidegger-ga-24-die-grundprobleme-der-phanomenologie-commentary`
 - [ ] `husserl-erfahrung-und-urteil-commentary`
 - [ ] `husserl-formal-and-transcendental-logic-commentary`
 - [ ] `husserliana-1-cartesianische-meditationen-commentary`
