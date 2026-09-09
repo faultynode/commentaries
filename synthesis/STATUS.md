@@ -106,11 +106,12 @@ Next candidates, by term density:
 
 ## Inheritance index
 
-12 commentaries · 107 engagements
+13 commentaries · 115 engagements
 
 - `heidegger-ga-19-platon-sophistes-commentary` - 4 engagements (partial)
 - `heidegger-ga-24-die-grundprobleme-der-phanomenologie-commentary` - 4 engagements (partial)
 - `heidegger-sein-und-zeit-commentary` - 19 engagements (partial)
+- `husserl-erfahrung-und-urteil-commentary` - 8 engagements (partial)
 - `husserl-formal-and-transcendental-logic-commentary` - 12 engagements (partial)
 - `husserl-krisis-commentary` - 14 engagements (partial)
 - `husserl-thing-and-space-commentary` - 0 engagements (partial)
