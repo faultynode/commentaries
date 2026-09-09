@@ -8,17 +8,17 @@ Corpus: **53 commentaries**, 2,934,474 words, 3902 sections indexed in `synthesi
 
 ### intentionalitaet - intentionality
 
-9 commentaries extracted · 200 units · 3 absences · 9 partial
+10 commentaries extracted · 216 units · 3 absences · 10 partial
 
 Next candidates, by term density:
 
-- [ ] `henry-philosophie-et-phenomenologie-du-corps-commentary` (1965) - 127 hits
 - [ ] `husserliana-3-ideas-i-commentary` (undated) - 121 hits
 - [ ] `husserliana-7-erste-philosophie-i-commentary` (undated) - 118 hits
 - [ ] `derrida-introduction-a-lorigine-de-la-geometrie-commentary` (undated) - 98 hits
 - [ ] `heidegger-ga-20-prolegomena-zur-geschichte-des-zeitbegriffs-commentary` (1925) - 98 hits
 - [ ] `henry-the-essence-of-manifestation-commentary` (undated) - 96 hits
-- ... 32 more; see `synthesis_query.py --theme intentionalitaet`
+- [ ] `husserliana-43-2-studien-zur-struktur-des-bewusstseins-commentary` (undated) - 84 hits
+- ... 31 more; see `synthesis_query.py --theme intentionalitaet`
 
 ### konstitution - constitution
 

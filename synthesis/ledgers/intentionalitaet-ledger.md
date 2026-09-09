@@ -4,7 +4,7 @@
 
 *Partly worked already: commentaries/heidegger/heidegger-husserl-intentionality-article.md is a Stage 4 output written before this pipeline existed. Extract the commentaries, not that article.*
 
-200 units and 3 recorded absences from 9 commentaries.
+216 units and 3 recorded absences from 10 commentaries.
 
 ## Primary corpus, by composition or delivery date
 
@@ -507,6 +507,92 @@
 
 *Read alongside the spine, not on it. A commentator's date orders the reception, not the doctrine.*
 
+### 1965 - Philosophie et phénoménologie du corps — Commentary
+
+`henry-philosophie-et-phenomenologie-du-corps-commentary`
+
+- **introduced** · `intentionalitaet/henry-ppc/001` · *"reflection" (non-intentional self-knowledge)*
+  Henry defines "reflection" as the knowledge included in every intentionality that is not knowledge of what that intentionality aims at, establishing that intentionality has a self-knowledge that is itself neither intentional nor a second intentional act.
+  `henry-philosophie-et-phenomenologie-du-corps-commentary#h3-s-1-the-phenomenological-presuppositions-of-biranian-ontology` · Philosophie et phénoménologie du corps, ch. I § 1 · [§ 1. The Phenomenological Presuppositions of Biranian Ontology](https://faultynode.github.io/commentaries/commentaries/henry/henry-philosophie-et-phenomenologie-du-corps-commentary.html#the-phenomenological-presuppositions-of-biranian-ontology)
+  > "Reflection" designates the knowledge included in every intentionality and which is not knowledge of what that intentionality aims at.
+
+- **criticized** · `intentionalitaet/henry-ppc/002` · *ontological monism*
+  Ontological monism is Henry's name for the thesis he takes to unite Kant, Husserl and Heidegger, that nothing can be given to us otherwise than within and through the mediation of the transcendental horizon of being in general.
+  `henry-philosophie-et-phenomenologie-du-corps-commentary#h3-s-1-the-phenomenological-presuppositions-of-biranian-ontology` · Philosophie et phénoménologie du corps, ch. I § 1 · [§ 1. The Phenomenological Presuppositions of Biranian Ontology](https://faultynode.github.io/commentaries/commentaries/henry/henry-philosophie-et-phenomenologie-du-corps-commentary.html#the-phenomenological-presuppositions-of-biranian-ontology)
+  > the position that nothing can be given to us otherwise than within and through the mediation of the transcendental horizon of being in general.
+
+- **introduced** · `intentionalitaet/henry-ppc/003` · *intentionalities knowing themselves in immanence*
+  All intentionalities in general know themselves originally in the immanence of their own being and in their immediate accomplishment, without seeing themselves or applying themselves to themselves as object.
+  `henry-philosophie-et-phenomenologie-du-corps-commentary#h3-s-1-the-phenomenological-presuppositions-of-biranian-ontology` · Philosophie et phénoménologie du corps, ch. I § 1 · [§ 1. The Phenomenological Presuppositions of Biranian Ontology](https://faultynode.github.io/commentaries/commentaries/henry/henry-philosophie-et-phenomenologie-du-corps-commentary.html#the-phenomenological-presuppositions-of-biranian-ontology)
+  > Because all intentionalities in general, and hence the essential intentionalities of consciousness, know themselves originally in the immanence of their own being and in their immediate accomplishment, we are able to name them and acquire their idea.
+
+- **introduced** · `intentionalitaet/henry-ppc/004` · *transcendental inner sense / no phenomenological distance*
+  In the transcendental inner sense the medium of manifestation and what is manifested coincide, which is precisely what "no phenomenological distance" means, so that interior vision carries its own torch and illuminates itself.
+  `henry-philosophie-et-phenomenologie-du-corps-commentary#h3-s-1-the-phenomenological-presuppositions-of-biranian-ontology` · Philosophie et phénoménologie du corps, ch. I § 1 · [§ 1. The Phenomenological Presuppositions of Biranian Ontology](https://faultynode.github.io/commentaries/commentaries/henry/henry-philosophie-et-phenomenologie-du-corps-commentary.html#the-phenomenological-presuppositions-of-biranian-ontology)
+  > the medium of manifestation and what is manifested coincide, which is precisely what "no phenomenological distance" means.
+
+- **introduced** · `intentionalitaet/henry-ppc/005` · *transcendental inner experience / auto-affection*
+  By transcendental inner experience Henry means the original revelation of lived experience to itself accomplished in a sphere of radical immanence, in conformity with the fundamental ontological process of auto-affection.
+  `henry-philosophie-et-phenomenologie-du-corps-commentary#h3-s-1-the-phenomenological-presuppositions-of-biranian-ontology` · Philosophie et phénoménologie du corps, ch. I § 1 · [§ 1. The Phenomenological Presuppositions of Biranian Ontology](https://faultynode.github.io/commentaries/commentaries/henry/henry-philosophie-et-phenomenologie-du-corps-commentary.html#the-phenomenological-presuppositions-of-biranian-ontology)
+  > the original revelation of lived experience to itself as accomplished in a sphere of radical immanence, in conformity with the fundamental ontological process of auto-affection
+
+- **criticized** · `intentionalitaet/henry-ppc/006` · *noetic-noematic correlation*
+  Henry's thesis is not to read the eidetic structure of the body in the correlative structure of the intentionalities that would constitute it (a noetic-noematic correlation that holds everywhere for all objects) but on the contrary to deny that the original body can be the product of such a constitution.
+  `henry-philosophie-et-phenomenologie-du-corps-commentary#h2-conclusion-the-ontological-theory-of-the-body-and-the-problem-of-incarnation-fle` · Philosophie et phénoménologie du corps, Conclusion · [Conclusion. The Ontological Theory of the Body and the Problem of Incarnation: Flesh and Spirit](https://faultynode.github.io/commentaries/commentaries/henry/henry-philosophie-et-phenomenologie-du-corps-commentary.html#conclusion-the-ontological-theory-of-the-body-and-the-problem-of-incarnation-flesh-and-spirit)
+  > It is not a matter of reading in the eidetic structure of certain intentional acts the correlative and eidetically determined structure of their objects. Such a noetic-noematic correlation holds everywhere and always, for all objects.
+
+- **introduced** · `intentionalitaet/henry-ppc/007` · *the subjective body as structure of intentionalities*
+  In its original being our body is a structure made of virtually compossible intentionalities, conformably to their eidetic types, an organic totality of transcendental determinations accomplished in a sphere of absolute immanence.
+  `henry-philosophie-et-phenomenologie-du-corps-commentary#h2-conclusion-the-ontological-theory-of-the-body-and-the-problem-of-incarnation-fle` · Philosophie et phénoménologie du corps, Conclusion · [Conclusion. The Ontological Theory of the Body and the Problem of Incarnation: Flesh and Spirit](https://faultynode.github.io/commentaries/commentaries/henry/henry-philosophie-et-phenomenologie-du-corps-commentary.html#conclusion-the-ontological-theory-of-the-body-and-the-problem-of-incarnation-flesh-and-spirit)
+  > In its original being our body is rather a structure made of virtually compossible intentionalities, conformably to their eidetic types — an organic totality of transcendental determinations accomplished in a sphere of absolute immanence.
+
+- **introduced** · `intentionalitaet/henry-ppc/008` · *immanence of transcendental intentionality*
+  To say transcendental intentionality is immanent is to say it is not immersed in a milieu vaster than itself; the immanence of a transcendental determination signifies that subjectivity exhausts itself in it, because it does not belong to a world.
+  `henry-philosophie-et-phenomenologie-du-corps-commentary#h2-conclusion-the-ontological-theory-of-the-body-and-the-problem-of-incarnation-fle` · Philosophie et phénoménologie du corps, Conclusion · [Conclusion. The Ontological Theory of the Body and the Problem of Incarnation: Flesh and Spirit](https://faultynode.github.io/commentaries/commentaries/henry/henry-philosophie-et-phenomenologie-du-corps-commentary.html#conclusion-the-ontological-theory-of-the-body-and-the-problem-of-incarnation-flesh-and-spirit)
+  > To say transcendental intentionality is immanent is to say it is not immersed in a milieu vaster than itself. The immanence of a transcendental determination signifies on the contrary that subjectivity *exhausts itself* in it
+
+- **criticized** · `intentionalitaet/henry-ppc/009` · *ontological monism as obstacle to absolute knowledge*
+  The obstacle to admitting the possibility of an absolute human knowledge is ontological monism, the conception by which something real can be given us in general only in the element of transcendent being, which empties subjectivity of all reality and founders in psychologism.
+  `henry-philosophie-et-phenomenologie-du-corps-commentary#h2-conclusion-the-ontological-theory-of-the-body-and-the-problem-of-incarnation-fle` · Philosophie et phénoménologie du corps, Conclusion · [Conclusion. The Ontological Theory of the Body and the Problem of Incarnation: Flesh and Spirit](https://faultynode.github.io/commentaries/commentaries/henry/henry-philosophie-et-phenomenologie-du-corps-commentary.html#conclusion-the-ontological-theory-of-the-body-and-the-problem-of-incarnation-flesh-and-spirit)
+  > the possibility and existence of an absolute human knowledge, is *ontological monism*: the conception by which something real can be given us in general only in the element of transcendent being.
+
+- **introduced** · `intentionalitaet/henry-ppc/010` · *organic body as non-represented correlate*
+  Because it is the strict non-represented correlate of the intentionalities of our absolute body, the organic body is always wholly present for us and possessed in a knowing excluding all limitation and all possibility of error.
+  `henry-philosophie-et-phenomenologie-du-corps-commentary#h2-conclusion-the-ontological-theory-of-the-body-and-the-problem-of-incarnation-fle` · Philosophie et phénoménologie du corps, Conclusion · [Conclusion. The Ontological Theory of the Body and the Problem of Incarnation: Flesh and Spirit](https://faultynode.github.io/commentaries/commentaries/henry/henry-philosophie-et-phenomenologie-du-corps-commentary.html#conclusion-the-ontological-theory-of-the-body-and-the-problem-of-incarnation-flesh-and-spirit)
+  > Because it is the strict *non-represented* correlate of the intentionalities of our absolute body, it is always wholly present for us and we possess it in a knowing excluding all limitation and all possibility of error.
+
+- **revised** · `intentionalitaet/henry-ppc/011` · *the original body sought in intentionalities, not in the transcendent body*
+  The original being of the body is to be sought in the intentionalities that direct themselves toward the transcendent body, not in that founded transcendent body toward which they direct themselves.
+  `henry-philosophie-et-phenomenologie-du-corps-commentary#h2-conclusion-the-ontological-theory-of-the-body-and-the-problem-of-incarnation-fle` · Philosophie et phénoménologie du corps, Conclusion · [Conclusion. The Ontological Theory of the Body and the Problem of Incarnation: Flesh and Spirit](https://faultynode.github.io/commentaries/commentaries/henry/henry-philosophie-et-phenomenologie-du-corps-commentary.html#conclusion-the-ontological-theory-of-the-body-and-the-problem-of-incarnation-flesh-and-spirit)
+  > the original being of the body is to be sought in these intentionalities that direct themselves toward, against, and not in the transcendent body toward which they direct themselves, the latter being only a founded body.
+
+- **introduced** · `intentionalitaet/henry-ppc/012` · *"I am my body"*
+  "I am my body" means that the original being of my body is a transcendental inner experience, so that the life of this body is a mode of the absolute life of the ego.
+  `henry-philosophie-et-phenomenologie-du-corps-commentary#h2-conclusion-the-ontological-theory-of-the-body-and-the-problem-of-incarnation-fle` · Philosophie et phénoménologie du corps, Conclusion · [Conclusion. The Ontological Theory of the Body and the Problem of Incarnation: Flesh and Spirit](https://faultynode.github.io/commentaries/commentaries/henry/henry-philosophie-et-phenomenologie-du-corps-commentary.html#conclusion-the-ontological-theory-of-the-body-and-the-problem-of-incarnation-flesh-and-spirit)
+  > "I am my body" means very exactly: the original being of my body is a transcendental inner experience, and consequently the life of this body is a mode of the absolute life of the ego.
+
+- **revised** · `intentionalitaet/henry-ppc/013` · *action as intentional but immanent*
+  Though it is not the intention, action is no less intentional: in the process of action intentionalities unify synthetically while correlative intentional unities organize themselves, and action remains near itself in a sphere of immanence without ever leaving itself.
+  `henry-philosophie-et-phenomenologie-du-corps-commentary#h2-conclusion-the-ontological-theory-of-the-body-and-the-problem-of-incarnation-fle` · Philosophie et phénoménologie du corps, Conclusion · [Conclusion. The Ontological Theory of the Body and the Problem of Incarnation: Flesh and Spirit](https://faultynode.github.io/commentaries/commentaries/henry/henry-philosophie-et-phenomenologie-du-corps-commentary.html#conclusion-the-ontological-theory-of-the-body-and-the-problem-of-incarnation-flesh-and-spirit)
+  > Though it is not the intention, action is no less intentional. In the process of action, intentionalities unify synthetically while correlatively intentional unities organize themselves whose linkage is that of the modifications affecting transcendent being.
+
+- **criticized** · `intentionalitaet/henry-ppc/014` · *self-objectification (Hegel)*
+  Expressions like "the subject objectifies itself" are improper, since what is subjective cannot manifest itself in the milieu of transcendence, so that to objectify itself is for the ego only to represent itself to itself.
+  `henry-philosophie-et-phenomenologie-du-corps-commentary#h2-conclusion-the-ontological-theory-of-the-body-and-the-problem-of-incarnation-fle` · Philosophie et phénoménologie du corps, Conclusion · [Conclusion. The Ontological Theory of the Body and the Problem of Incarnation: Flesh and Spirit](https://faultynode.github.io/commentaries/commentaries/henry/henry-philosophie-et-phenomenologie-du-corps-commentary.html#conclusion-the-ontological-theory-of-the-body-and-the-problem-of-incarnation-flesh-and-spirit)
+  > Expressions like "the subject objectifies itself," "the self objectifies itself" are particularly improper; they mean at most that *the representation but not the being* of the ego manifests itself in the milieu of transcendence.
+
+- **revised** · `intentionalitaet/henry-ppc/015` · *action as intentionality falling under morality*
+  The philosophy of subjectivity alone recognizes action for what it is, an intentionality, a subjective element falling under the categories of morality, whereas action envisaged as an objective third-person process can never have anything but the innocence of a stone.
+  `henry-philosophie-et-phenomenologie-du-corps-commentary#h2-conclusion-the-ontological-theory-of-the-body-and-the-problem-of-incarnation-fle` · Philosophie et phénoménologie du corps, Conclusion · [Conclusion. The Ontological Theory of the Body and the Problem of Incarnation: Flesh and Spirit](https://faultynode.github.io/commentaries/commentaries/henry/henry-philosophie-et-phenomenologie-du-corps-commentary.html#conclusion-the-ontological-theory-of-the-body-and-the-problem-of-incarnation-flesh-and-spirit)
+  > an intentionality, a subjective element falling under the categories of morality, whereas action envisaged as an objective third-person process can never have anything but *the innocence of a stone*.
+
+- **revised** · `intentionalitaet/henry-ppc/016` · *finitude as world-relatedness*
+  Intentionality can be said finite insofar as it relates to a world: every intentionality obeys this concept by reason of its principled transcendence, its thought unable to survey the world to which it is bound.
+  `henry-philosophie-et-phenomenologie-du-corps-commentary#h2-conclusion-the-ontological-theory-of-the-body-and-the-problem-of-incarnation-fle` · Philosophie et phénoménologie du corps, Conclusion · [Conclusion. The Ontological Theory of the Body and the Problem of Incarnation: Flesh and Spirit](https://faultynode.github.io/commentaries/commentaries/henry/henry-philosophie-et-phenomenologie-du-corps-commentary.html#conclusion-the-ontological-theory-of-the-body-and-the-problem-of-incarnation-flesh-and-spirit)
+  > intentionality can be said finite insofar as it relates to a *world*. So understood, finitude is an essential qualification belonging to the being of human reality as such. Every intentionality obeys, by reason of its principled transcendence, this concept.
+
+*Partial pass: Covers Chapter I § 1 and about two-thirds of the Conclusion: Henry's concept of non-intentional 'reflection' and transcendental inner experience, the polemic against 'ontological monism', the thesis that the subjective body is a structure of immanent (non-objectivating) intentionalities that is not constituted, the organic body as non-represented correlate, 'I am my body', action as intentional-but-immanent, and the fourfold sense of finitude. Not covered: the Introduction, Chapter I § 2 (transcendental deduction of the categories), and Chapters II-VI (the subjective body, movement and sensing, the double use of signs, the critique of Maine de Biran on passivity).*
+
 ### 1994 - Rudolf Bernet, La vie du sujet: Recherches sur l'interprétation de Husserl dans la phénoménologie — Commentary
 
 `bernet-la-vie-du-sujet-commentary`
@@ -843,7 +929,6 @@
 
 *Where the theme's terms occur but no extraction pass has run. Silence in the sections above is silence about these files, not evidence of absence in them.*
 
-- `henry-philosophie-et-phenomenologie-du-corps-commentary` - 127 term hits, no record
 - `husserliana-3-ideas-i-commentary` - 121 term hits, no record
 - `husserliana-7-erste-philosophie-i-commentary` - 118 term hits, no record
 - `derrida-introduction-a-lorigine-de-la-geometrie-commentary` - 98 term hits, no record
