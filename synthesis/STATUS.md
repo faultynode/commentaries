@@ -106,7 +106,7 @@ Next candidates, by term density:
 
 ## Inheritance index
 
-22 commentaries · 168 engagements
+23 commentaries · 171 engagements
 
 - `franck-chair-et-corps-commentary` - 7 engagements (partial)
 - `heidegger-ga-19-platon-sophistes-commentary` - 4 engagements (partial)
@@ -122,6 +122,7 @@ Next candidates, by term density:
 - `husserliana-11-analyses-concerning-passive-and-active-synthesis-commentary` - 5 engagements (partial)
 - `husserliana-19-2-sixth-logical-investigation-commentary` - 6 engagements (partial)
 - `husserliana-28-vorlesungen-uber-ethik-und-wertlehre-commentary` - 8 engagements (partial)
+- `husserliana-3-ideas-i-commentary` - 3 engagements (partial)
 - `husserliana-33-die-bernauer-manuskripte-uber-das-zeitbewusstsein-commentary` - 9 engagements (partial)
 - `husserliana-39-die-lebenswelt-commentary` - 4 engagements (partial)
 - `husserliana-4-ideas-ii-commentary` - 4 engagements (partial)
