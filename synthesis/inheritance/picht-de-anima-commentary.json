@@ -1,0 +1,78 @@
+{
+  "schema_version": 1,
+  "commentary": "picht-de-anima-commentary",
+  "source_sha256": "db24b31144e91e5d1cfd8f3d27541388b32c20bc777c00ca5b68d2967e538a95",
+  "extracted_at": "2026-09-09",
+  "extractor": {
+    "agent": "claude-code",
+    "prompt": "prompts/inheritance-prompt.md",
+    "note": "source_sha256 is the LF digest (CRLF checkout; local validate reports a false staleness, CI on LF passes). Picht's lecture course on De anima is a reception text that runs the engagement in both directions: it reads Aristotle's inheritance from and polemic against his Greek predecessors (Plato, Parmenides, Anaxagoras) and it traces the modern reception of Aristotle's hypokeimenon/ousia through Wolff, Descartes, Kant, and Hegel. Engagements are keyed on the predecessor whose thought is at stake in each passage. One record per commentary covering all predecessors."
+  },
+  "coverage": "partial",
+  "coverage_note": "Covers the predecessor engagements Picht's De anima lectures put into play: Plato (Aristotle's polemic against the Platonic dialectic that lifts the hypotheseis — Aristotle insists they are unmoved and necessary), Parmenides (Aristotle's propositions that the soul is in a way all beings and that in what is without matter beholding and beheld are the same, read as paraphrases of Parmenides' 'the same is beholding and being'), Anaxagoras (Aristotle undertaking to execute, by the Socratic method, the nous-as-ground-of-the-universe program Anaxagoras announced but could not carry out), Hegel (the Idea as Hegel's form of the essence of truth, a paraphrase of the Aristotelian entelecheia taken over from Aristotle), Wolff (subiectum defined still in the Aristotelian-scholastic sense in the Philosophia Prima), Descartes (the self-certainty of the thinking I as the foundation of all certainty, from which Kant draws his consequence), and Kant (the Aristotelian question of the first hypokeimenon driven until the I emerges as absolute subject, then exposed as transcendental illusion, blasting apart the identity of subject and substance). Not covered: the detailed line-by-line exegesis of De anima I and the ontology of dynamis and entelecheia.",
+  "engagements": [
+    {
+      "id": "inh/picht-da/001",
+      "locator": "picht-de-anima-commentary#h4-3-the-polemic-of-aristotle-against-the-platonic-dialectic",
+      "primary_locator": "Picht, De anima lectures, Part I.IV.3",
+      "predecessor": { "author": "Plato" },
+      "mode": "polemical-rejection",
+      "claim": "Against Plato's claim that the deductive sciences only dream so long as they leave their hypotheseis unmoved, and that dialectic must lift them, Aristotle insists that the hypotheseis are unmoved and therefore necessary, which grounds the distinction between necessity and freedom.",
+      "quote": "Against this, Aristotle insists that the *hypotheseis* are unmoved and therefore necessary; and precisely this claim is the presupposition for the distinction between necessity and freedom."
+    },
+    {
+      "id": "inh/picht-da/002",
+      "locator": "picht-de-anima-commentary#h5-e-beholding-being-and-unity-in-parmenides",
+      "primary_locator": "Picht, De anima lectures, Part V.II.2.e",
+      "predecessor": { "author": "Parmenides", "text": "Fragment 28 B 3" },
+      "mode": "acknowledged-debt",
+      "claim": "Picht reads Aristotle's propositions that the soul is in a certain way all beings and that in what is without matter the beholding and the beheld are the same as Aristotelian paraphrases of Parmenides' sentence 'for the same is beholding and being'.",
+      "quote": "These are Aristotelian paraphrases of Parmenides' sentence: \"For the same is beholding and being\" (28 B 3)."
+    },
+    {
+      "id": "inh/picht-da/003",
+      "locator": "picht-de-anima-commentary#h4-4-the-nous-of-anaxagoras",
+      "primary_locator": "Picht, De anima lectures, Part V.I.4",
+      "predecessor": { "author": "Anaxagoras" },
+      "mode": "acknowledged-debt",
+      "claim": "Picht presents Aristotle as setting himself the task of executing, by the Socratic method, the program Anaxagoras announced but could not carry out — that nous is the ground of the universe — so that Socrates would no longer have needed to be disappointed.",
+      "quote": "Aristotle set himself the task of executing Anaxagoras's program using the Socratic method, in a way that Socrates would no longer have needed to be disappointed."
+    },
+    {
+      "id": "inh/picht-da/004",
+      "locator": "picht-de-anima-commentary#h3-ii-perspectives-of-the-comparison-of-hegel-with-aristotle-the-essence-of-actuali",
+      "primary_locator": "Picht, De anima lectures, Part I.II",
+      "predecessor": { "author": "Aristotle" },
+      "mode": "acknowledged-debt",
+      "claim": "Picht argues that Hegel's dictum that everything actual only is insofar as it has the Idea in itself and expresses it is a paraphrase of the Aristotelian concept of entelecheia, and that the form in which Hegel grasps the essence of truth, the Idea, is taken over from the philosophy of Aristotle.",
+      "quote": "Hegel's sentence that \"everything actual is only insofar as it has the Idea in itself and expresses it\" is a paraphrase of the Aristotelian concept of *entelecheia*. The form in which Hegel grasps the essence of truth — the Idea — is taken over from the philosophy of Aristotle."
+    },
+    {
+      "id": "inh/picht-da/005",
+      "locator": "picht-de-anima-commentary#h4-3-the-modern-concept-of-the-subject-in-wolff-and-kant",
+      "primary_locator": "Picht, De anima lectures, Part I.V.3",
+      "predecessor": { "author": "Christian Wolff", "text": "Philosophia Prima sive Ontologia" },
+      "mode": "terminological-borrowing",
+      "claim": "Picht traces the Aristotelian hypokeimenon through Wolff's Philosophia Prima, where subiectum is defined still in the Aristotelian-scholastic sense as the being considered as having an essence and capable of receiving other determinations.",
+      "quote": "Wolff defines *subiectum* as \"the being insofar as it is considered as having an essence and capable of receiving other determinations.\" This is still the Aristotelian-scholastic sense."
+    },
+    {
+      "id": "inh/picht-da/006",
+      "locator": "picht-de-anima-commentary#h4-3-the-modern-concept-of-the-subject-in-wolff-and-kant",
+      "primary_locator": "Picht, De anima lectures, Part I.V.3",
+      "predecessor": { "author": "René Descartes" },
+      "mode": "acknowledged-debt",
+      "claim": "Picht presents Kant as drawing from Descartes the consequence that, if the self-certainty of the thinking I is the foundation of all possible certainty, then nothing outside thinking can be considered as independently underlying and being becomes an object set over against thought.",
+      "quote": "if the self-certainty of the thinking I is the foundation of all possible certainty, then nothing outside thinking can be considered as independently underlying."
+    },
+    {
+      "id": "inh/picht-da/007",
+      "locator": "picht-de-anima-commentary#h4-3-the-modern-concept-of-the-subject-in-wolff-and-kant",
+      "primary_locator": "Picht, De anima lectures, Part I.V.3",
+      "predecessor": { "author": "Immanuel Kant", "text": "Kritik der reinen Vernunft" },
+      "mode": "destructive-appropriation",
+      "claim": "Picht reads Kant as driving the Aristotelian question of the first hypokeimenon until the I emerges as the absolute subject and then exposing this as transcendental illusion, so that by blasting apart the identity of subject and substance Kant opens the possibility of recognizing what constitutes the Aristotelian concept of ousia.",
+      "quote": "By blasting apart the identity of subject and substance, Kant opens the possibility of recognizing what constitutes the Aristotelian concept of *ousia*."
+    }
+  ]
+}
