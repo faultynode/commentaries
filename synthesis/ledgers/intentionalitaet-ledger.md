@@ -4,7 +4,7 @@
 
 *Partly worked already: commentaries/heidegger/heidegger-husserl-intentionality-article.md is a Stage 4 output written before this pipeline existed. Extract the commentaries, not that article.*
 
-335 units and 3 recorded absences from 17 commentaries.
+359 units and 3 recorded absences from 18 commentaries.
 
 ## Primary corpus, by composition or delivery date
 
@@ -1126,7 +1126,6 @@
 
 *Where the theme's terms occur but no extraction pass has run. Silence in the sections above is silence about these files, not evidence of absence in them.*
 
-- `husserliana-28-vorlesungen-uber-ethik-und-wertlehre-commentary` - 76 term hits, no record
 - `husserl-formal-and-transcendental-logic-commentary` - 75 term hits, no record
 - `husserliana-1-cartesianische-meditationen-commentary` - 75 term hits, no record
 - `husserl-erfahrung-und-urteil-commentary` - 70 term hits, no record
