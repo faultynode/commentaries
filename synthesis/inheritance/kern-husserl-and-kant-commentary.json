@@ -1,0 +1,159 @@
+{
+  "schema_version": 1,
+  "commentary": "kern-husserl-and-kant-commentary",
+  "source_sha256": "fef19456ecbae77db47c04a5e88bb6a25b6679cfe10bde97ffce5336ad06bdaa",
+  "extracted_at": "2026-09-09",
+  "extractor": {
+    "agent": "claude-code",
+    "prompt": "prompts/inheritance-prompt.md",
+    "note": "source_sha256 is the LF digest (CRLF checkout; local validate reports a false staleness, CI on LF passes). The monograph's whole subject is Husserl's engagement with predecessors, so the engagements recorded here are Husserl's, as Kern documents them. Closely read §§ 1-3 (the Brentano inheritance and the shift on Kant and Natorp), § 9 (the Kant-critique), §§ 13-15 (the borrowings of the analytic/synthetic distinction, the natura formaliter spectata, and the transcendental deduction), and §§ 29, 32, 37 (Natorp and Rickert). Not read for this pass: §§ 4-8, 10-12, 16-28, 30-31, 33-36 in detail. One record per commentary covering all predecessors."
+  },
+  "coverage": "partial",
+  "coverage_note": "Covers Husserl's engagement, as reconstructed by Kern, with Brentano (the debt that made philosophy his life's task, and the inherited anti-Kantian affect resting on Brentano's misreadings), Kant (early polemical rejection of the intuitive form of time, schematism, and the synthetic character of arithmetic; the Logical Investigations rapprochement and the generalization of the 'conditions of the possibility of experience'; the borrowing of the Analytik/Synthetik terminology and the natura formaliter spectata; the acceptance of the a priori forms with rejection of their subjectivization; and the persistent charge that Kant confuses noesis and noema and psychologizes reason), Wolff (the formal-rationalistic prejudice diagnosed in Kant), Hume (the genuine a priori found between Hume's lines that Kant missed), Natorp (the metabasis-eis-allo-genos argument taken over into the Prolegomena, more decisive than Frege's review, and the influence on the inclusion of the noema and the ego-pole doctrine), Rickert (the polemic against the formalistic pseudo-deduction and the transcendent-object problem), Riehl (the realistic reading of the thing-in-itself that remained Husserl's, against whose realism the picture/sign polemic was aimed), and Lotze/Leibniz (the Platonic doctrine of essences). Not covered: the detailed Cohen, Erdmann, Vaihinger, Lange/Helmholtz, and Fichte/German-idealism engagements.",
+  "engagements": [
+    {
+      "id": "inh/kern-hk/001",
+      "locator": "kern-husserl-and-kant-commentary#h4-s-1-the-student-years",
+      "primary_locator": "Kern, Husserl und Kant, § 1",
+      "predecessor": { "author": "Franz Brentano" },
+      "mode": "acknowledged-debt",
+      "claim": "Brentano, whose lectures Husserl attended in Vienna 1884-1886, not only communicated essential philosophical impulses to Husserl but also persuaded him to make philosophy his life's task.",
+      "quote": "who not only communicated essential philosophical impulses to Husserl but also persuaded him to make philosophy his life's task"
+    },
+    {
+      "id": "inh/kern-hk/002",
+      "locator": "kern-husserl-and-kant-commentary#h4-s-1-the-student-years",
+      "primary_locator": "Kern, Husserl und Kant, § 1",
+      "predecessor": { "author": "Franz Brentano" },
+      "mode": "acknowledged-debt",
+      "claim": "Brentano's very negative relationship to Kant, resting on deep misunderstandings, strongly determined Husserl at the beginning of his philosophical career and above all aroused in him an emotional anti-Kantian affect that he later had to overcome.",
+      "quote": "this very negative relationship to Kant, resting on deep misunderstandings, strongly determined Husserl at the beginning of his philosophical career and above all aroused in him an emotional anti-Kantian affect."
+    },
+    {
+      "id": "inh/kern-hk/003",
+      "locator": "kern-husserl-and-kant-commentary#h4-s-2-the-pre-phenomenological-period",
+      "primary_locator": "Kern, Husserl und Kant, § 2",
+      "predecessor": { "author": "Immanuel Kant", "text": "Kritik der reinen Vernunft" },
+      "mode": "polemical-rejection",
+      "claim": "In the Philosophy of Arithmetic Husserl refers to Kant several times, always in a rejecting sense, opposing the intuitive form of time as the basis of the number concept and rejecting the doctrine of schematism, and he maintained the analytic character of arithmetic against Kant throughout his life.",
+      "quote": "It refers to Kant several times, always in a rejecting sense."
+    },
+    {
+      "id": "inh/kern-hk/004",
+      "locator": "kern-husserl-and-kant-commentary#h4-s-3-the-period-of-the-logical-investigations",
+      "primary_locator": "Kern, Husserl und Kant, § 3",
+      "predecessor": { "author": "Paul Natorp", "text": "Über objektive und subjektive Begründung der Erkenntnis (1887)" },
+      "mode": "acknowledged-debt",
+      "claim": "Natorp's main argument against logical psychologism, that it constitutes a metabasis eis allo genos from the objective-logical to the subjective-psychological sphere, is taken over by Husserl into the Prolegomena and plays the decisive role there, and Natorp's article was of the greatest importance for Husserl's turn away from psychologism.",
+      "quote": "Natorp's main argument against logical psychologism — that it constitutes a *metabasis eis allo genos* from the objective-logical sphere to the subjective-psychological sphere — is taken over by Husserl into the *Prolegomena* and plays the decisive role there."
+    },
+    {
+      "id": "inh/kern-hk/005",
+      "locator": "kern-husserl-and-kant-commentary#h4-s-3-the-period-of-the-logical-investigations",
+      "primary_locator": "Kern, Husserl und Kant, § 3",
+      "predecessor": { "author": "Gottlob Frege" },
+      "mode": "acknowledged-debt",
+      "claim": "Kern argues that Natorp's influence on Husserl's turn away from psychologism was probably much more important than Frege's critique of the Philosophy of Arithmetic, which the existing literature had considered the decisive motive for that turn.",
+      "quote": "probably much more important than Frege's critique of the *Philosophy of Arithmetic*, which the existing literature considered the decisive motive for Husserl's turn."
+    },
+    {
+      "id": "inh/kern-hk/006",
+      "locator": "kern-husserl-and-kant-commentary#h4-s-3-the-period-of-the-logical-investigations",
+      "primary_locator": "Kern, Husserl und Kant, § 3",
+      "predecessor": { "author": "Immanuel Kant" },
+      "mode": "terminological-borrowing",
+      "claim": "Husserl's determination of the object of the most general idea of pure logic as the 'conditions of the possibility of science in general' is characterized as a thoroughly necessary generalization of the Kantian question about the 'conditions of the possibility of experience'.",
+      "quote": "His determination of the object of the most general idea of pure logic as the \"conditions of the possibility of science in general\" is characterized as a thoroughly necessary generalization of the Kantian question about the \"conditions of the possibility of experience.\""
+    },
+    {
+      "id": "inh/kern-hk/007",
+      "locator": "kern-husserl-and-kant-commentary#h4-s-3-the-period-of-the-logical-investigations",
+      "primary_locator": "Kern, Husserl und Kant, § 3",
+      "predecessor": { "author": "Immanuel Kant" },
+      "mode": "acknowledged-debt",
+      "claim": "In the Logical Investigations Husserl names his idea of pure logic with appeal to 'Kant and the other representatives of a formal or pure logic', links it within the work to 'great thinkers of the past and first of all to Kant', and in the second volume says he 'feels very close' to Kant.",
+      "quote": "Within the work, he links his idea of pure logic to \"great thinkers of the past and first of all to Kant.\""
+    },
+    {
+      "id": "inh/kern-hk/008",
+      "locator": "kern-husserl-and-kant-commentary#h4-s-3-the-period-of-the-logical-investigations",
+      "primary_locator": "Kern, Husserl und Kant, § 3",
+      "predecessor": { "author": "Immanuel Kant" },
+      "mode": "polemical-rejection",
+      "claim": "The Logical Investigations also charge that Kant's logic does not correctly grasp the genuine idea of logic in content and scope, that Kant's idealism belongs under a genus of psychologism, that his 'mythical' concepts of understanding and reason are unclarified, and that he did not undertake an analysis of the acts of logical thought.",
+      "quote": "Kant's idealism belongs under a genus of psychologism, though his epistemology has sides that strive beyond and actually reach beyond this psychologism of faculties"
+    },
+    {
+      "id": "inh/kern-hk/009",
+      "locator": "kern-husserl-and-kant-commentary#h4-s-13-husserl-s-adoption-of-the-kantian-distinction-between-analytic-and-syntheti",
+      "primary_locator": "Kern, Husserl und Kant, § 13",
+      "predecessor": { "author": "Immanuel Kant" },
+      "mode": "terminological-borrowing",
+      "claim": "Seeing his own distinction between formal ontology and material logic anticipated in Kant's contrast of a formal logic determined by the analytic a priori and a transcendental logic determined by the synthetic a priori, Husserl used the Kantian terms 'Analytik' for the formal disciplines and 'Synthetik' or 'transcendental logic' for the a priori material disciplines.",
+      "quote": "He therefore used the Kantian terms: \"Analytik\" for formal disciplines, \"Synthetik\" or \"transcendental logic\" for the a priori material disciplines."
+    },
+    {
+      "id": "inh/kern-hk/010",
+      "locator": "kern-husserl-and-kant-commentary#h4-s-13-husserl-s-adoption-of-the-kantian-distinction-between-analytic-and-syntheti",
+      "primary_locator": "Kern, Husserl und Kant, § 13",
+      "predecessor": { "author": "Immanuel Kant" },
+      "mode": "acknowledged-debt",
+      "claim": "Despite rejecting Kant's concrete execution of the analytic/synthetic distinction, Husserl saw in the principled distinction a fundamental insight and credited Kant: 'Kant was the first to discern the demarcation here, but could not bring it to ultimate principled transparency.'",
+      "quote": "\"Kant was the first to discern the demarcation here, but could not bring it to ultimate principled transparency.\""
+    },
+    {
+      "id": "inh/kern-hk/011",
+      "locator": "kern-husserl-and-kant-commentary#h4-s-14-husserl-s-adoption-of-kant-s-idea-of-the-natura-formaliter-spectata",
+      "primary_locator": "Kern, Husserl und Kant, § 14",
+      "predecessor": { "author": "Immanuel Kant", "text": "Metaphysische Anfangsgründe der Naturwissenschaft" },
+      "mode": "destructive-appropriation",
+      "claim": "Husserl took over from Kant the idea of a formal ontology of nature (natura formaliter spectata) providing the principles for empirical natural science, accepting the a priori forms space, time, substantiality, and causality while rejecting their subjectivization, so that space becomes essence-form of the thing itself.",
+      "quote": "Husserl accepts Kant's thesis that space is an a priori form of appearing things but rejects the subjectivization; space is essence-form of the thing itself."
+    },
+    {
+      "id": "inh/kern-hk/012",
+      "locator": "kern-husserl-and-kant-commentary#h4-s-9-critique-of-some-false-prejudices-of-kant",
+      "primary_locator": "Kern, Husserl und Kant, § 9",
+      "predecessor": { "author": "Christian Wolff" },
+      "mode": "polemical-rejection",
+      "claim": "Husserl accuses Kant of the formal-rationalistic prejudice inherited from Wolff, according to which only analytic cognition counts as genuinely rational, and traces to the influence of the rationalist Wolff Kant's failure to distinguish clearly between the noetic and the noematic.",
+      "quote": "coming from Wolff, Kant regarded only analytic cognition as genuinely rational."
+    },
+    {
+      "id": "inh/kern-hk/013",
+      "locator": "kern-husserl-and-kant-commentary#h4-s-9-critique-of-some-false-prejudices-of-kant",
+      "primary_locator": "Kern, Husserl und Kant, § 9",
+      "predecessor": { "author": "David Hume", "text": "A Treatise of Human Nature" },
+      "mode": "acknowledged-debt",
+      "claim": "Husserl holds that Kant's disastrous interpretation of Hume's 'relations of ideas', falsely identifying them with analytic cognition, caused Kant to miss what is significant between Hume's lines: the genuine a priori, the formal and material relations grounded in universal essences and graspable in evidence.",
+      "quote": "Kant's disastrous interpretation of Hume's \"relations of ideas\" — falsely identifying them with his concept of analytic cognition — contributed to this error, causing Kant to miss what is significant between Hume's lines"
+    },
+    {
+      "id": "inh/kern-hk/014",
+      "locator": "kern-husserl-and-kant-commentary#h4-s-15-husserl-and-kant-s-thought-of-the-transcendental-deduction-of-the-a-priori",
+      "primary_locator": "Kern, Husserl und Kant, § 15",
+      "predecessor": { "author": "Heinrich Rickert" },
+      "mode": "polemical-rejection",
+      "claim": "In the 1927 lecture Nature and Spirit Husserl criticizes Rickert's transcendental deduction as a 'formalistic pseudo-deduction' and sets against it his own method of transcendental deduction, related to Kant's, while elsewhere criticizing Rickert's presuppositions in posing the problem of the object of knowledge and his determination of the transcendent object.",
+      "quote": "Against Rickert, Husserl sets his own method of \"transcendental deduction\" and relates it to Kant's."
+    },
+    {
+      "id": "inh/kern-hk/015",
+      "locator": "kern-husserl-and-kant-commentary#h4-s-3-the-period-of-the-logical-investigations",
+      "primary_locator": "Kern, Husserl und Kant, § 3",
+      "predecessor": { "author": "Alois Riehl" },
+      "mode": "acknowledged-debt",
+      "claim": "Riehl maintained against the great neo-Kantian schools a realistic interpretation of the Kantian 'thing in itself', an interpretation that always remained Husserl's own, even though Husserl's polemic against the 'picture' and 'sign' theories was aimed primarily against Riehl's realism.",
+      "quote": "Riehl represented a critical realism and maintained against the great neo-Kantian schools a realistic interpretation of the Kantian \"thing in itself\" — an interpretation that always remained Husserl's own."
+    },
+    {
+      "id": "inh/kern-hk/016",
+      "locator": "kern-husserl-and-kant-commentary#h4-s-2-the-pre-phenomenological-period",
+      "primary_locator": "Kern, Husserl und Kant, § 2",
+      "predecessor": { "author": "Hermann Lotze" },
+      "mode": "acknowledged-debt",
+      "claim": "Among the authors Husserl engaged with in the pre-phenomenological period, the representatives of objective logic and the Platonic doctrine of essences, Leibniz, Lotze, and Herbart, became truly significant for him only in the following years.",
+      "quote": "the representatives of objective logic and the Platonic doctrine of essences — Leibniz, Lotze, and Herbart — who became truly significant for Husserl only in the following years."
+    }
+  ]
+}
