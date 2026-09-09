@@ -1,0 +1,60 @@
+{
+  "schema_version": 1,
+  "commentary": "husserliana-11-analyses-concerning-passive-and-active-synthesis-commentary",
+  "source_sha256": "bd22bb3a9bd7ac059dd0537fbae0892179ea2f75e9464040ab2e95600cf82570",
+  "extracted_at": "2026-09-09",
+  "extractor": {
+    "agent": "claude-code",
+    "prompt": "prompts/inheritance-prompt.md",
+    "note": "source_sha256 is the LF digest (CRLF checkout; local validate reports a false staleness, CI on LF passes). Predecessor engagement is concentrated on Kant (the translator's introduction on productive synthesis and the sensibility/understanding schism; the Association Division's §26 on Kant's insight into associative lawfulness and §27's tribute to the A-Deduction) and, more lightly, on Wundt and Fechner (the naturalistic Reiz) and on the theory-of-judgment tradition (Mill, Brentano, Sigwart). One record per commentary covering all predecessors."
+  },
+  "coverage": "partial",
+  "coverage_note": "Covers the Passive and Active Synthesis lectures' engagement with predecessors: Kant (the appeal to the A-edition doctrine of productive synthesis and the challenge to the Kantian schism between sensibility and understanding, so that a transcendental aesthetic cannot be foreign to truth; Kant's seeing that association manifests necessary lawful regularity without which subjectivity could not be, though his doctrine lacks phenomenological eidetic analysis; and the tribute to Kant's nearly overwhelming genius in sketching a system of transcendental syntheses in the A-Deduction, which addressed only the higher problem of spatio-worldly object constitution), Wundt and Fechner (the physiological-naturalistic concept of Reiz as quantitative intensity, to which Husserl gives a fundamentally new motivational sense), and the theory-of-judgment tradition since Mill, Brentano, and Sigwart (recast as the phenomenological clarification of certainty of being and its modalities). Not covered: the detailed analyses of modalization, evidence, and active objectivation.",
+  "engagements": [
+    {
+      "id": "inh/hua11/001",
+      "locator": "husserliana-11-analyses-concerning-passive-and-active-synthesis-commentary#h3-a-passivity-and-passive-synthesis",
+      "primary_locator": "Analyses Concerning Passive and Active Synthesis, Translator's Introduction, §3.a",
+      "predecessor": { "author": "Immanuel Kant", "text": "Kritik der reinen Vernunft (A-edition)" },
+      "mode": "acknowledged-debt",
+      "claim": "Husserl appeals to Kant's A-edition doctrine of productive synthesis, in which the imagination is independent of the understanding, but his analyses challenge the Kantian schism between sensibility and understanding, so that a transcendental aesthetic cannot be foreign to truth, evidence, and their modalizations.",
+      "quote": "Husserl appeals to Kant's \"productive synthesis\" in the A-edition of the *Critique of Pure Reason*, where imagination is independent of the Understanding. The expression \"passive synthesis\" is oxymoronic from a Kantian perspective, but Husserl's analyses challenge the schism between sensibility and understanding"
+    },
+    {
+      "id": "inh/hua11/002",
+      "locator": "husserliana-11-analyses-concerning-passive-and-active-synthesis-commentary#h3-b-affection-and-association",
+      "primary_locator": "Analyses Concerning Passive and Active Synthesis, Translator's Introduction, §3.b",
+      "predecessor": { "author": "Wilhelm Wundt" },
+      "mode": "destructive-appropriation",
+      "claim": "Where Wundt and Fechner reduced the physiological concept of Reiz to quantitative variations of intensity, Husserl gives Reiz a fundamentally new sense by bringing it into the motivational, non-causal relation between the lived-body and intentional objectlike formations.",
+      "quote": "Wundt and Fechner reduced normality/pathology to quantitative variations of intensity. Husserl gave *Reiz* a \"fundamentally new sense\" by bringing it into the motivational relation between the lived-body and intentional objectlike formations"
+    },
+    {
+      "id": "inh/hua11/003",
+      "locator": "husserliana-11-analyses-concerning-passive-and-active-synthesis-commentary#h3-s6-partial-fulfillment-conflict-through-unexpected-sense-data-restored-concordan",
+      "primary_locator": "Analyses Concerning Passive and Active Synthesis, Division 1",
+      "predecessor": { "author": "Franz Brentano" },
+      "mode": "acknowledged-debt",
+      "claim": "Husserl holds that what was debated under the title 'theory of judgment' since Mill, Brentano, and Sigwart is at its core the phenomenological clarification of the essence and logical function of certainty of being and the modalities of being.",
+      "quote": "What was debated under the \"theory of judgment\" since Mill, Brentano, and Sigwart is at its core the phenomenological clarification of the essence and logical function of certainty of being and modalities of being."
+    },
+    {
+      "id": "inh/hua11/004",
+      "locator": "husserliana-11-analyses-concerning-passive-and-active-synthesis-commentary#h3-s26-the-position-and-the-delimitation-of-themes-concerning-a-phenomenological-do",
+      "primary_locator": "Analyses Concerning Passive and Active Synthesis, §26",
+      "predecessor": { "author": "Immanuel Kant" },
+      "mode": "destructive-appropriation",
+      "claim": "Kant already saw that under the rubric of association a necessary lawful regularity is manifest without which subjectivity could not be, but his doctrine lacks the phenomenological eidetic analysis that would show what is actually at issue in the elementary facts and essential laws of association.",
+      "quote": "Kant already saw that under the rubric of association, not mere accidental facts but absolutely necessary lawful regularity is manifest without which subjectivity could not be. But Kant's doctrine lacks phenomenological eidetic analysis"
+    },
+    {
+      "id": "inh/hua11/005",
+      "locator": "husserliana-11-analyses-concerning-passive-and-active-synthesis-commentary#h3-s27-the-presuppositions-of-associative-synthesis-the-syntheses-of-original-time",
+      "primary_locator": "Analyses Concerning Passive and Active Synthesis, §27",
+      "predecessor": { "author": "Immanuel Kant", "text": "Kritik der reinen Vernunft (A-edition Transcendental Deduction)" },
+      "mode": "acknowledged-debt",
+      "claim": "Husserl pays tribute to Kant's nearly overwhelming genius in sketching a system of transcendental syntheses in the A-edition Transcendental Deduction, while noting that Kant addressed only the higher problem of spatio-worldly object constitution and not the prior constitution of the stream of lived-experience as being for itself.",
+      "quote": "Husserl pays tribute to Kant's \"nearly overwhelming genius\" in sketching a system of transcendental syntheses in the A-edition Transcendental Deduction, but notes Kant only addressed the higher problem of spatio-worldly object constitution."
+    }
+  ]
+}
