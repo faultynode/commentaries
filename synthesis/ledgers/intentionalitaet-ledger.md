@@ -4,7 +4,7 @@
 
 *Partly worked already: commentaries/heidegger/heidegger-husserl-intentionality-article.md is a Stage 4 output written before this pipeline existed. Extract the commentaries, not that article.*
 
-157 units and 3 recorded absences from 7 commentaries.
+177 units and 3 recorded absences from 8 commentaries.
 
 ## Primary corpus, by composition or delivery date
 
@@ -722,7 +722,6 @@
 
 *Where the theme's terms occur but no extraction pass has run. Silence in the sections above is silence about these files, not evidence of absence in them.*
 
-- `franck-chair-et-corps-commentary` - 224 term hits, no record
 - `husserliana-11-analyses-concerning-passive-and-active-synthesis-commentary` - 175 term hits, no record
 - `henry-philosophie-et-phenomenologie-du-corps-commentary` - 127 term hits, no record
 - `husserliana-3-ideas-i-commentary` - 121 term hits, no record
