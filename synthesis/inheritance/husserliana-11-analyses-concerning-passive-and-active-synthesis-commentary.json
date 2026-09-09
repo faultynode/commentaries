@@ -1,0 +1,23 @@
+{
+  "schema_version": 1,
+  "commentary": "husserliana-11-analyses-concerning-passive-and-active-synthesis-commentary",
+  "source_sha256": "bd22bb3a9bd7ac059dd0537fbae0892179ea2f75e9464040ab2e95600cf82570",
+  "extracted_at": "2026-09-09",
+  "extractor": {
+    "agent": "claude-code",
+    "prompt": "prompts/synthesis-pipeline/inheritance-prompt.md",
+    "note": "Inheritance pass tracing Husserl's development of genetic phenomenology in relation to key predecessors. Covers references in Translator's Introduction where methodological precedents are discussed."
+  },
+  "coverage": "partial",
+  "coverage_note": "Covers engagement with Dilthey's distinction between descriptive and explanatory methods as methodological precedent for Husserl's static/genetic distinction. Not covered: specific engagements with other philosophers in main lecture texts.",
+  "engagements": [
+    {
+      "id": "inh/husserliana-11/001",
+      "locator": "husserliana-11-analyses-concerning-passive-and-active-synthesis-commentary#h3-section-2-genesis-and-genetic-phenomenological-method",
+      "predecessor": { "author": "Dilthey" },
+      "mode": "acknowledged-debt",
+      "claim": "Husserl draws on Dilthey's methodological distinction between descriptive and explanatory approaches to clarify static versus genetic phenomenology.",
+      "quote": "he himself refers to the difference in terms Dilthey used for psychology: \"descriptive\" (*beschreibende*) and \"explanatory\" (*erklärende*)."
+    }
+  ]
+}

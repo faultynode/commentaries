@@ -1,0 +1,53 @@
+{
+  "schema_version": 1,
+  "theme": "intentionalitaet",
+  "commentary": "husserliana-11-analyses-concerning-passive-and-active-synthesis-commentary",
+  "source_sha256": "bd22bb3a9bd7ac059dd0537fbae0892179ea2f75e9464040ab2e95600cf82570",
+  "extracted_at": "2026-09-09",
+  "extractor": {
+    "agent": "claude-code",
+    "prompt": "prompts/synthesis-pipeline/extraction-prompt.md",
+    "note": "Extraction focused on intentionality as fundamental structure of consciousness in Husserl's genetic phenomenology. Key sections: Part 1 (section 6 on intentional lived-experience, sections 8-10), Part 2 (§14, §20-21). Partial coverage of introductory discussion of the Analyses."
+  },
+  "coverage": "partial",
+  "coverage_note": "Covers intentionality as foundational structure introduced in Translator's Introduction and Part 1. Focuses on identification of intentionality as universal character of consciousness, distinction between patent and latent intentionality, and intentional sense as independent of linguistic expression. Not covered: detailed development of intentionality through all lecture sections, full treatment of passive and active intentional modifications.",
+  "units": [
+    {
+      "id": "intentionalitaet/husserliana-11/001",
+      "locator": "husserliana-11-analyses-concerning-passive-and-active-synthesis-commentary#h3-6-foreground-lived-experiences-and-background-lived-experiences",
+      "primary_locator": "Husserliana XI, Part 1 §6",
+      "term": "intentional lived-experience / fundamental character",
+      "status": "introduced",
+      "claim": "Every act has the fundamental character of being consciousness of something; intentionality extends to background lived-experiences, not just ego-acts.",
+      "quote": "every act in the specific sense has the fundamental character of being a consciousness of something—an \"intentional lived-experience.\""
+    },
+    {
+      "id": "intentionalitaet/husserliana-11/002",
+      "locator": "husserliana-11-analyses-concerning-passive-and-active-synthesis-commentary#h3-6-foreground-lived-experiences-and-background-lived-experiences",
+      "primary_locator": "Husserliana XI, Part 1 §6",
+      "term": "latent and patent intentionality",
+      "status": "introduced",
+      "claim": "Intentionality persists through transformation from patent (active) to latent (background) modes; latent acts harbor hidden intentional content.",
+      "quote": "A counter-argument that emerges in the background during a conflict is initially a latent act; its intentionality is a hidden intentionality, until we intervene and actualize it."
+    },
+    {
+      "id": "intentionalitaet/husserliana-11/003",
+      "locator": "husserliana-11-analyses-concerning-passive-and-active-synthesis-commentary#h3-s20-intention-toward-fulfillment-is-the-intention-toward-self-giving",
+      "primary_locator": "Husserliana XI, Part 2 §20",
+      "term": "intention / striving toward self-givenness",
+      "status": "introduced",
+      "claim": "Intention as such is a striving directed toward self-givenness; satisfaction occurs through synthesis bringing the presented to intuitive presence.",
+      "quote": "The intention is directed toward its object; it does not want to be merely empty—it wants to go to the object itself, to an intuition giving the object itself as a self-giving seeing."
+    },
+    {
+      "id": "intentionalitaet/husserliana-11/004",
+      "locator": "husserliana-11-analyses-concerning-passive-and-active-synthesis-commentary#h3-s21-epistemic-striving-and-striving-after-the-effective-realization-of-the-prese",
+      "primary_locator": "Husserliana XI, Part 2 §21",
+      "term": "intention / epistemic striving",
+      "status": "introduced",
+      "claim": "Epistemic striving differs from practical striving; intention toward verification aims at experiencing the self of what is meant, not being-realization.",
+      "quote": "It is a differently directed striving—not toward being (which is already certain), but toward the experiential seeing of the self of what is taken for being."
+    }
+  ],
+  "absences": []
+}

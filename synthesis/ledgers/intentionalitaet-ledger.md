@@ -4,7 +4,35 @@
 
 *Partly worked already: commentaries/heidegger/heidegger-husserl-intentionality-article.md is a Stage 4 output written before this pipeline existed. Extract the commentaries, not that article.*
 
-42 units and 2 recorded absences from 2 commentaries.
+46 units and 2 recorded absences from 3 commentaries.
+
+## Primary corpus, by composition or delivery date
+
+### 1920-1921 to 1925-1926 - Husserl Passive Synthesis Commentary
+
+`husserliana-11-analyses-concerning-passive-and-active-synthesis-commentary`
+
+- **introduced** · `intentionalitaet/husserliana-11/001` · *intentional lived-experience / fundamental character*
+  Every act has the fundamental character of being consciousness of something; intentionality extends to background lived-experiences, not just ego-acts.
+  `husserliana-11-analyses-concerning-passive-and-active-synthesis-commentary#h3-6-foreground-lived-experiences-and-background-lived-experiences` · Husserliana XI, Part 1 §6 · [6. Foreground Lived-Experiences and Background Lived-Experiences](https://faultynode.github.io/commentaries/commentaries/husserl/husserliana-11-analyses-concerning-passive-and-active-synthesis-commentary.html#foreground-lived-experiences-and-background-lived-experiences)
+  > every act in the specific sense has the fundamental character of being a consciousness of something—an "intentional lived-experience."
+
+- **introduced** · `intentionalitaet/husserliana-11/002` · *latent and patent intentionality*
+  Intentionality persists through transformation from patent (active) to latent (background) modes; latent acts harbor hidden intentional content.
+  `husserliana-11-analyses-concerning-passive-and-active-synthesis-commentary#h3-6-foreground-lived-experiences-and-background-lived-experiences` · Husserliana XI, Part 1 §6 · [6. Foreground Lived-Experiences and Background Lived-Experiences](https://faultynode.github.io/commentaries/commentaries/husserl/husserliana-11-analyses-concerning-passive-and-active-synthesis-commentary.html#foreground-lived-experiences-and-background-lived-experiences)
+  > A counter-argument that emerges in the background during a conflict is initially a latent act; its intentionality is a hidden intentionality, until we intervene and actualize it.
+
+- **introduced** · `intentionalitaet/husserliana-11/003` · *intention / striving toward self-givenness*
+  Intention as such is a striving directed toward self-givenness; satisfaction occurs through synthesis bringing the presented to intuitive presence.
+  `husserliana-11-analyses-concerning-passive-and-active-synthesis-commentary#h3-s20-intention-toward-fulfillment-is-the-intention-toward-self-giving` · Husserliana XI, Part 2 §20 · [§20. Intention Toward Fulfillment is the Intention Toward Self-Giving](https://faultynode.github.io/commentaries/commentaries/husserl/husserliana-11-analyses-concerning-passive-and-active-synthesis-commentary.html#intention-toward-fulfillment-is-the-intention-toward-self-giving)
+  > The intention is directed toward its object; it does not want to be merely empty—it wants to go to the object itself, to an intuition giving the object itself as a self-giving seeing.
+
+- **introduced** · `intentionalitaet/husserliana-11/004` · *intention / epistemic striving*
+  Epistemic striving differs from practical striving; intention toward verification aims at experiencing the self of what is meant, not being-realization.
+  `husserliana-11-analyses-concerning-passive-and-active-synthesis-commentary#h3-s21-epistemic-striving-and-striving-after-the-effective-realization-of-the-prese` · Husserliana XI, Part 2 §21 · [§21. Epistemic Striving and Striving after the Effective Realization of the Presented Object](https://faultynode.github.io/commentaries/commentaries/husserl/husserliana-11-analyses-concerning-passive-and-active-synthesis-commentary.html#epistemic-striving-and-striving-after-the-effective-realization-of-the-presented-object)
+  > It is a differently directed striving—not toward being (which is already certain), but toward the experiential seeing of the self of what is taken for being.
+
+*Partial pass: Covers intentionality as foundational structure introduced in Translator's Introduction and Part 1. Focuses on identification of intentionality as universal character of consciousness, distinction between patent and latent intentionality, and intentional sense as independent of linguistic expression. Not covered: detailed development of intentionality through all lecture sections, full treatment of passive and active intentional modifications.*
 
 ## Not covered by this ledger
 
@@ -13,7 +41,6 @@
 - `bernet-la-vie-du-sujet-commentary` - 630 term hits, no record
 - `husserliana-19-1-fifth-logical-investigation-commentary` - 281 term hits, no record
 - `husserliana-33-die-bernauer-manuskripte-uber-das-zeitbewusstsein-commentary` - 182 term hits, no record
-- `husserliana-11-analyses-concerning-passive-and-active-synthesis-commentary` - 175 term hits, no record
 - `husserliana-9-phenomenological-psychology-commentary` - 166 term hits, no record
 - `heidegger-ga-24-die-grundprobleme-der-phanomenologie-commentary` - 133 term hits, no record
 - `husserl-thing-and-space-commentary` - 128 term hits, no record
