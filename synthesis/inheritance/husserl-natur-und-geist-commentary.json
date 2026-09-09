@@ -1,0 +1,87 @@
+{
+  "schema_version": 1,
+  "commentary": "husserl-natur-und-geist-commentary",
+  "source_sha256": "14f1f234e659bbc695dd081170fbca7b835617d38f83eeeefe19f99944528172",
+  "extracted_at": "2026-09-09",
+  "extractor": {
+    "agent": "claude-code",
+    "prompt": "prompts/inheritance-prompt.md",
+    "note": "source_sha256 is the LF digest (CRLF checkout; local validate reports a false staleness, CI on LF passes). Predecessor engagement runs through the Introduction (Plato and Bacon on the ideal of a rational humanity founded on rigorous science) and the Part I methodological sections (Leibniz on perception/apperception, Hume on 'impression', Berkeley on esse=percipi, Descartes on the ego cogito and the transformation of the Cartesian meditation, Kant on time). One record per commentary covering all predecessors."
+  },
+  "coverage": "partial",
+  "coverage_note": "Covers the Nature and Spirit lectures' engagement with predecessors: Plato (the ideal of founding the whole life of humanity on rational insight and rigorous science, which determined the fate of European humanity), Bacon (the Instauratio magna's project of a universal classification and completion of all possible sciences), Leibniz (the distinction between perceptio with and without apperception, taken over to fix the broad sense of 'perception'), Hume (the word 'impression', borrowed to mark perceptual presence without awareness while explicitly not adopting Hume's views), Berkeley (the formula esse = percipi, recalled cum grano salis for the immanent sphere and not as metaphysical idealism), Descartes (the ego-attitude is Descartes' first Meditation reaching the ego cogito ego sum; but the phenomenological reduction is not a restitution of the Cartesian meditation, rather its transformation and purification, dropping the foundationalist aim), and Kant (time is not a 'pure form of intuiting' but a form of the intuited as such). Not covered: the ontology of physical nature and the psychophysical problems of Part II in detail.",
+  "engagements": [
+    {
+      "id": "inh/nug/001",
+      "locator": "husserl-natur-und-geist-commentary#h2-introduction",
+      "primary_locator": "Nature and Spirit, Introduction",
+      "predecessor": { "author": "Plato" },
+      "mode": "acknowledged-debt",
+      "claim": "The ideal of founding the entire life of humanity upon rational insight, and thus ultimately upon rigorous science, is connected already with the name of Plato and quite essentially determined the further fate of European humanity.",
+      "quote": "Already with the name of Plato is connected the conception of this ideal or principle — one that quite essentially determined the further fate of European humanity — of founding the entire life of humanity upon rational insight, and thus ultimately upon rigorous science."
+    },
+    {
+      "id": "inh/nug/002",
+      "locator": "husserl-natur-und-geist-commentary#h2-introduction",
+      "primary_locator": "Nature and Spirit, Introduction",
+      "predecessor": { "author": "Francis Bacon", "text": "Instauratio magna" },
+      "mode": "acknowledged-debt",
+      "claim": "Bacon, the passionate herald of the rational-humanity ideal, designs in his Instauratio magna the great thought of a universal classification of all possible sciences and demands that those still unworked be brought to execution.",
+      "quote": "right at the entrance of the modern age, Bacon, the passionate herald of this ideal, designs in his *Instauratio magna* the great thought of a universal classification of all possible sciences and attaches to it the demand that all those still unworked should now be brought to actual execution."
+    },
+    {
+      "id": "inh/nug/003",
+      "locator": "husserl-natur-und-geist-commentary#h3-ego-life-as-constant-perceiving-impression-and-reproduction",
+      "primary_locator": "Nature and Spirit, Part I, 'Ego-Life as Constant Perceiving'",
+      "predecessor": { "author": "Gottfried Wilhelm Leibniz" },
+      "mode": "terminological-borrowing",
+      "claim": "Husserl establishes the broad technical sense of 'perception' by the philosophical tradition, recalling Leibniz's distinction between perceptio without and with apperception.",
+      "quote": "This usage of the term is established by the philosophical tradition (I recall Leibniz's distinction between perceptio sine and cum apperceptione)."
+    },
+    {
+      "id": "inh/nug/004",
+      "locator": "husserl-natur-und-geist-commentary#h3-ego-life-as-constant-perceiving-impression-and-reproduction",
+      "primary_locator": "Nature and Spirit, Part I, 'Ego-Life as Constant Perceiving'",
+      "predecessor": { "author": "David Hume" },
+      "mode": "terminological-borrowing",
+      "claim": "To mark perceptual presence without the mode of being-aware-of, Husserl adopts the Humean word 'impression', though he does not here adopt Hume's actual views.",
+      "quote": "A special terminus is unavoidable here, at least in cases where this extension must be marked and emphasized, and for this the Humean word offers itself, though we do not here adopt Hume's actual views."
+    },
+    {
+      "id": "inh/nug/005",
+      "locator": "husserl-natur-und-geist-commentary#h3-inner-and-outer-perception-object-and-appearance",
+      "primary_locator": "Nature and Spirit, Part I, 'Inner and Outer Perception'",
+      "predecessor": { "author": "George Berkeley" },
+      "mode": "terminological-borrowing",
+      "claim": "For the immanent sphere Husserl uses the formula that the esse of the I-ish components is exhausted in their percipi, meant to recall Berkeley but to be understood cum grano salis and not as metaphysical idealism.",
+      "quote": "the *esse* of the I-ish components is exhausted in their *percipi*. It is of course meant to recall Berkeley; for the rest, it is, naturally, to be understood *cum grano salis*."
+    },
+    {
+      "id": "inh/nug/006",
+      "locator": "husserl-natur-und-geist-commentary#h3-the-pure-ego-attitude-and-the-idea-of-a-transcendental-phenomenology",
+      "primary_locator": "Nature and Spirit, Part I, 'The Pure Ego-Attitude'",
+      "predecessor": { "author": "René Descartes", "text": "Meditationes de prima philosophia" },
+      "mode": "acknowledged-debt",
+      "claim": "Husserl's ego-attitude is none other than the one Descartes first carried out in the first of his Meditations, which led him to the ego cogito, ego sum, and which Husserl resumes as ego cogito, cogito cogitata.",
+      "quote": "Our ego-attitude was none other than that which Descartes first carried out in the first of his famous Meditations and which led him to the much-cited *ego cogito, ego sum*. So we too began: *ego cogito, cogito cogitata*"
+    },
+    {
+      "id": "inh/nug/007",
+      "locator": "husserl-natur-und-geist-commentary#h3-the-method-of-phenomenological-reduction-transcendental-phenomenology-as-a-prior",
+      "primary_locator": "Nature and Spirit, Part I, 'The Method of Phenomenological Reduction'",
+      "predecessor": { "author": "René Descartes" },
+      "mode": "destructive-appropriation",
+      "claim": "The phenomenological reduction takes up the Cartesian fundamental meditation but is not a restitution of it: it is an essentially new meditation arising through a transformation and purification of the Cartesian one, abandoning the aim of an indubitable foundation for reconstructing the sciences.",
+      "quote": "In general it is not a matter for us of a restitution of the Cartesian fundamental meditation, but of an essentially new one that can arise through a certain transformation, purification of the Cartesian one."
+    },
+    {
+      "id": "inh/nug/008",
+      "locator": "husserl-natur-und-geist-commentary#h3-the-articulation-into-things-and-subjects-according-to-the-distinction-of-nature",
+      "primary_locator": "Nature and Spirit, Part II, 'The Articulation into Things and Subjects'",
+      "predecessor": { "author": "Immanuel Kant" },
+      "mode": "polemical-rejection",
+      "claim": "Against Kant, time is not a 'pure form of intuiting' but a form of the intuited as such, a structural feature of objects as they present themselves in experience.",
+      "quote": "Time is not a \"pure form of intuiting\" (against Kant) but a form of the intuited as such — a structural feature of objects as they present themselves in experience."
+    }
+  ]
+}
