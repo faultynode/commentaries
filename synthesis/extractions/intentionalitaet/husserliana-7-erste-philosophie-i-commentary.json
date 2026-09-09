@@ -1,0 +1,170 @@
+{
+  "schema_version": 1,
+  "theme": "intentionalitaet",
+  "commentary": "husserliana-7-erste-philosophie-i-commentary",
+  "source_sha256": "caeb8c837e2fc6f2afe18b07a39cebcd9f50a3476698bd72417fd9cebd8c9703",
+  "extracted_at": "2026-09-08",
+  "extractor": {
+    "agent": "claude-code",
+    "prompt": "prompts/extraction-prompt.md",
+    "note": "source_sha256 is the LF digest (CRLF checkout; local validate reports a false staleness, CI on LF passes). Closely read the Fifteenth, Sixteenth and Seventeenth Lectures (the critical disclosure of the genuine problematic hidden in Locke: the pure I, intentionality, irreal immanence, constitutive synthesis, the critique of the image-theory, true being as confirmation, and the curable/incurable distinction). Not read: the First Chapter (Locke's horizon), the rest of the Third Chapter (abstraction-theory and the extension of intuition), and the Hume, Berkeley, Leibniz and Kant lectures. No chronology.json entry yet (P5 pending); the course is the 1923/24 Erste Philosophie lectures."
+  },
+  "coverage": "partial",
+  "coverage_note": "Covers the Fifteenth to Seventeenth Lectures of the Second Chapter (critical disclosure of the problematic hidden in Locke): the pure I as identical non-real subject-pole, the intentional relation and the mere immanent object, the change of attitude that isolates the meant-as-meant, irreal (non-reell) immanence, synthesis as production of a unitary intentional objectivity, the double I/object polarization, the critique of the image- and sign-theory and of Berkeley's residual blindness to intentionality, empathy as the only route beyond one's own nature, true being as the idea of unbroken confirmation, sense-giving consciousness as source of all objective sense, and the curable psychologism / incurable sensualism distinction. Not covered: the First Chapter, the abstraction/intuition material of the Third Chapter, and the Hume, Berkeley, Leibniz and Kant lectures.",
+  "units": [
+    {
+      "id": "intentionalitaet/hua7-i/001",
+      "locator": "husserliana-7-erste-philosophie-i-commentary#h3-fifteenth-lecture-the-problem-of-immanence-and-of-the-synthetic-unity-in-conscio",
+      "primary_locator": "Hua VII, Fifteenth Lecture",
+      "term": "the pure I as subject-pole",
+      "status": "introduced",
+      "claim": "The pure I belongs to all conceivable experiences one can call one's own as an unlosable and numerically identical subject-pole, given with the strongest evidence, yet not as a real part of any experience.",
+      "quote": "it belongs to all conceivable experiences I am to be able to call mine, as an *unlosable and numerically identical subject-pole*. But indeed *not as a part*"
+    },
+    {
+      "id": "intentionalitaet/hua7-i/002",
+      "locator": "husserliana-7-erste-philosophie-i-commentary#h3-fifteenth-lecture-the-problem-of-immanence-and-of-the-synthetic-unity-in-conscio",
+      "primary_locator": "Hua VII, Fifteenth Lecture",
+      "term": "consciousness as consciousness of something",
+      "status": "introduced",
+      "claim": "As consciousness is not thinkable without I, it is also not thinkable without some objectivity that is conscious in it, so no description of consciousness is possible that does not co-describe the in-it-conscious as conscious of this consciousness.",
+      "quote": "As consciousness is not thinkable without I, it is also not thinkable without *something*, without some \"objectivity\" that is conscious in it."
+    },
+    {
+      "id": "intentionalitaet/hua7-i/003",
+      "locator": "husserliana-7-erste-philosophie-i-commentary#h3-fifteenth-lecture-the-problem-of-immanence-and-of-the-synthetic-unity-in-conscio",
+      "primary_locator": "Hua VII, Fifteenth Lecture",
+      "term": "the mere intentional object",
+      "status": "introduced",
+      "claim": "The intentional relation, designated after Brentano, has an essentially other sense than other relations, and its object is the mere intentional object, the immanent one, meant purely as meant without decision as to whether it in truth be.",
+      "quote": "The *object of the intentional relation* — as that which is enclosed purely in the act, in the intentional experiencing itself — is the *mere intentional object*, the *immanent* one, as Brentano too, in connection with Scholasticism, introduces it."
+    },
+    {
+      "id": "intentionalitaet/hua7-i/004",
+      "locator": "husserliana-7-erste-philosophie-i-commentary#h3-fifteenth-lecture-the-problem-of-immanence-and-of-the-synthetic-unity-in-conscio",
+      "primary_locator": "Hua VII, Fifteenth Lecture",
+      "term": "the tree by the brook",
+      "status": "introduced",
+      "claim": "Putting the existence of the perceived tree in question changes nothing in the fact that the perception-experience is in itself perception of \"this tree,\" in itself related to its immanent object, even if it subsequently turned out to be illusion.",
+      "quote": "that changes nothing in the fact that the perception-experience is in itself perception of \"this tree,\" and it remains what it is, perception of the same, in itself related to its immanent object, even if it subsequently turned out that this perception is to be valued as illusion."
+    },
+    {
+      "id": "intentionalitaet/hua7-i/005",
+      "locator": "husserliana-7-erste-philosophie-i-commentary#h3-fifteenth-lecture-the-problem-of-immanence-and-of-the-synthetic-unity-in-conscio",
+      "primary_locator": "Hua VII, Fifteenth Lecture",
+      "term": "change of attitude / sense-modification",
+      "status": "introduced",
+      "claim": "It needs a change of attitude, the enactment of a sense-modification, to make recognizable the meant object as such in the pure immanence of the experience, under abstention from every position-taking toward its existence.",
+      "quote": "It therefore needs a *change of attitude*, the enactment of a *sense-modification*, to make recognizable the in the pure immanence of the experience itself \"meant object as such\""
+    },
+    {
+      "id": "intentionalitaet/hua7-i/006",
+      "locator": "husserliana-7-erste-philosophie-i-commentary#h3-fifteenth-lecture-the-problem-of-immanence-and-of-the-synthetic-unity-in-conscio",
+      "primary_locator": "Hua VII, Fifteenth Lecture",
+      "term": "irreal immanence",
+      "status": "introduced",
+      "claim": "The bearing-in-itself of the immanent object cannot have the sense of a real (reell) immanence, as though the immanent intentional object dwelt in its consciousness as a real piece, moment or part; to regard it so would be evident countersense.",
+      "quote": "this bearing-in-itself *cannot* have the sense of a *real (reell) immanence* — as though the immanent intentional object dwelt in its consciousness as a real piece, a real moment, a part. To regard it so would be evident countersense."
+    },
+    {
+      "id": "intentionalitaet/hua7-i/007",
+      "locator": "husserliana-7-erste-philosophie-i-commentary#h3-fifteenth-lecture-the-problem-of-immanence-and-of-the-synthetic-unity-in-conscio",
+      "primary_locator": "Hua VII, Fifteenth Lecture",
+      "term": "synthesis as production of a unitary intentional objectivity",
+      "status": "introduced",
+      "claim": "Binding of consciousness with consciousness produces, as synthesis, a unitary intentional objectivity that is, for the bound consciousness as one consciousness, its own; to treat synthesis as a real conjunction (Gestalt-qualities) is to be blind to the peculiarity of consciousness.",
+      "quote": "that it, as *synthesis*, produces a *unitary intentional objectivity* that is, for the bound consciousness as *one* consciousness, its own"
+    },
+    {
+      "id": "intentionalitaet/hua7-i/008",
+      "locator": "husserliana-7-erste-philosophie-i-commentary#h3-fifteenth-lecture-the-problem-of-immanence-and-of-the-synthetic-unity-in-conscio",
+      "primary_locator": "Hua VII, Fifteenth Lecture",
+      "term": "the I as index of a universal synthesis",
+      "status": "introduced",
+      "claim": "Parallel to the synthesis that makes conscious the identity of an object, the I itself is the index of a universal synthesis through which all the manifold consciousness that is mine has an I-ly unity, so that the standing and abiding I is continually constituted.",
+      "quote": "the *I* itself is the index of a *universal synthesis*, through which all the infinitely manifold consciousness that is mine has a universal unity — not the objective but the *I-ly* (*ichliche*) one"
+    },
+    {
+      "id": "intentionalitaet/hua7-i/009",
+      "locator": "husserliana-7-erste-philosophie-i-commentary#h3-sixteenth-lecture-the-irreality-of-the-immanent-contents-of-the-consciousness-sy",
+      "primary_locator": "Hua VII, Sixteenth Lecture",
+      "term": "irreal immanent contents / infinities of description",
+      "status": "introduced",
+      "claim": "Consciousness-synthesis has, in the form of the I and object poles, immanent contents that are irreal, and once one begins to see that these irrealities must be co-described as inseparable enclosures of consciousness, true infinities of descriptive work open.",
+      "quote": "consciousness-synthesis has, in the form of these poles, immanent contents that are *irreal* (*irreal*)"
+    },
+    {
+      "id": "intentionalitaet/hua7-i/010",
+      "locator": "husserliana-7-erste-philosophie-i-commentary#h3-sixteenth-lecture-the-irreality-of-the-immanent-contents-of-the-consciousness-sy",
+      "primary_locator": "Hua VII, Sixteenth Lecture",
+      "term": "the pocket-image",
+      "status": "introduced",
+      "claim": "Consciousness, even the seemingly simplest perceiving, is never an empty having of something as though the subject had its intentional objects merely lying in it as in a pocket; they are highly complicated consciousness-manners accomplishing ever-new intentional accomplishments.",
+      "quote": "*Never* is consciousness, even the seemingly simplest perceiving or without-any-attending having-conscious, an *empty having* of something, as though the subject therein had its intentional objects merely lying in it as in a pocket."
+    },
+    {
+      "id": "intentionalitaet/hua7-i/011",
+      "locator": "husserliana-7-erste-philosophie-i-commentary#h3-sixteenth-lecture-the-irreality-of-the-immanent-contents-of-the-consciousness-sy",
+      "primary_locator": "Hua VII, Sixteenth Lecture",
+      "term": "Berkeley's blindness to intentionality",
+      "status": "criticized",
+      "claim": "Berkeley recognized the countersense of the image-theory and of the causal inference into the transcendent, but a real clarification and a theory of the intentional constitution of externality in inwardness he could not give, since he was for intentionality just as blind as Locke.",
+      "quote": "a *real clarification* and a *theory of the intentional constitution of externality in inwardness* he could not give, since he himself was for *intentionality* just as blind as Locke and therefore could not disclose an intentional problem-situation either."
+    },
+    {
+      "id": "intentionalitaet/hua7-i/012",
+      "locator": "husserliana-7-erste-philosophie-i-commentary#h3-sixteenth-lecture-the-irreality-of-the-immanent-contents-of-the-consciousness-sy",
+      "primary_locator": "Hua VII, Sixteenth Lecture",
+      "term": "empathy as route beyond one's own nature",
+      "status": "introduced",
+      "claim": "The only way to transcend one's own subjectivity and self-experienced nature is empathy into another subjectivity, and Locke's image-theory both raises and conceals the genuine problem of how the one common nature, the same for all, is constituted across the plurality of subjects.",
+      "quote": "is *empathy* (*Einfühlung*) into another subjectivity, the inwardly motivated positing of analogous spirituality and analogous sensuous \"images\" like the self-experienced."
+    },
+    {
+      "id": "intentionalitaet/hua7-i/013",
+      "locator": "husserliana-7-erste-philosophie-i-commentary#h3-seventeenth-lecture-on-the-question-of-the-constitution-of-externality-the-carte",
+      "primary_locator": "Hua VII, Seventeenth Lecture",
+      "term": "seeing the table itself",
+      "status": "criticized",
+      "claim": "The inner images and signs on the tabula rasa are inventions of a misled reflection: it is absolutely evident that when I see a table I do not see sensation-complexes or inner images or signs but the table itself.",
+      "quote": "is it not then *absolutely evident* that when I see, e.g., a table, a house, a tree, I do not see something like subjective sensation-complexes, or something like inner images of… or signs for a table or a house, but precisely *see the table itself, the house itself*?"
+    },
+    {
+      "id": "intentionalitaet/hua7-i/014",
+      "locator": "husserliana-7-erste-philosophie-i-commentary#h3-seventeenth-lecture-on-the-question-of-the-constitution-of-externality-the-carte",
+      "primary_locator": "Hua VII, Seventeenth Lecture",
+      "term": "true being as unbroken confirmation",
+      "status": "introduced",
+      "claim": "By the true being of a thing one can understand nothing other than the idea, grown out of the constancy of confirmation, of a confirmation in the course of future experience never and nowhere to be broken through, and if the thing is actual it is no other than the perceived.",
+      "quote": "I could understand by its *true being* nothing other than the *idea*, grown out of the constancy of confirmation, of a confirmation in the course of future experience never and nowhere to be broken through"
+    },
+    {
+      "id": "intentionalitaet/hua7-i/015",
+      "locator": "husserliana-7-erste-philosophie-i-commentary#h3-seventeenth-lecture-on-the-question-of-the-constitution-of-externality-the-carte",
+      "primary_locator": "Hua VII, Seventeenth Lecture",
+      "term": "image- and sign-consciousness presuppose perception",
+      "status": "criticized",
+      "claim": "Image-consciousness and sign-consciousness are founded complex intentionalities whose sense-giving consciousness points back, according to origin and kind of its fulfilling confirmation, to possible perception of the transcendent, so the image-theory inverts the order of foundation.",
+      "quote": "The consciousness giving them sense points itself, according to origin and kind of its fulfilling confirmation, back to *possible perception*, and to a perception of *transcendent*, if it is to be able to indicate transcendent."
+    },
+    {
+      "id": "intentionalitaet/hua7-i/016",
+      "locator": "husserliana-7-erste-philosophie-i-commentary#h3-seventeenth-lecture-on-the-question-of-the-constitution-of-externality-the-carte",
+      "primary_locator": "Hua VII, Seventeenth Lecture",
+      "term": "sense-giving consciousness",
+      "status": "introduced",
+      "claim": "Objects have their sense, constituting them as and as so-determined objects, out of the sense-giving consciousness, and for every basic kind of objectivity the correlative basic kinds of consciousness and consciousness-syntheses must be studied as the accomplishment in which a so-constituted objectivity constitutes itself as unity of validity.",
+      "quote": "objects simply, in every respect and every conceivable subjective and objective sense purely materially, objectively taken, have their sense — constituting them *as*, and as so-determined, objects — out of the *sense-giving consciousness*"
+    },
+    {
+      "id": "intentionalitaet/hua7-i/017",
+      "locator": "husserliana-7-erste-philosophie-i-commentary#h3-seventeenth-lecture-on-the-question-of-the-constitution-of-externality-the-carte",
+      "primary_locator": "Hua VII, Seventeenth Lecture",
+      "term": "curable psychologism / incurable sensualism",
+      "status": "introduced",
+      "claim": "A merely psychologistic misclassification of genuine intentional analyses is curable by the reduction, since through bracketing of all objectivity the immanent analyses survive with their essence-kernel intact, whereas a sensualistic psychologism that never even attains the elements of understanding intentionality is incurable.",
+      "quote": "a *psychologism on the ground of such a phenomenological psychology* (and even one that had mistaken its a priori character) is *curable*."
+    }
+  ],
+  "absences": []
+}
