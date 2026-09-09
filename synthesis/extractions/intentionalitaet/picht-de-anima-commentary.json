@@ -1,0 +1,152 @@
+{
+  "schema_version": 1,
+  "theme": "intentionalitaet",
+  "commentary": "picht-de-anima-commentary",
+  "source_sha256": "db24b31144e91e5d1cfd8f3d27541388b32c20bc777c00ca5b68d2967e538a95",
+  "extracted_at": "2026-09-09",
+  "extractor": {
+    "agent": "claude-code",
+    "prompt": "prompts/extraction-prompt.md",
+    "note": "source_sha256 is the LF digest (CRLF checkout; local validate reports a false staleness, CI on LF passes). This is a reception commentary (Picht's lecture-course on Aristotle's De Anima Book I, read through Hegel and Heidegger); intentionality figures only obliquely, in the analysis of nous/noesis, the grasping of eidos, and the identity of beholding and being. Closely read the Noesis-noeseos section of Part I (§ II.1.d-e), the Platonic Archē section (§ II.2.b.a), and the doctrine-of-nous chapters of Part V (Human knowledge's share in the divine nous, The nous is the region of the Ideas, God is pure nous, The transition to theology, The self-revealing of truth). Not read in detail: the bulk of the Aristotle/Hegel comparison, the dialectic chapters, the concept-of-the-subject material, and the De Anima I structure/aporiai analysis. chronology.json entry is a 'reception' role, unresolved and undated (P5 pending; the dates in the file belong to Hegel and Heidegger, not to Picht's course)."
+  },
+  "coverage": "partial",
+  "coverage_note": "Covers the strands of Picht's De Anima commentary where the structure of knowing is at stake, read as a foil to modern representationalism: noesis as an energeia that carries its work within itself and noesis noeseos as the eidos-identity of thinking and thought; the Platonic doctrine that in the noetic domain being and truth coincide, and that the soul dwells a priori 'outside' the human being so that it can know truth; the unmixed nous without a bodily organ, the soul as the region of the Ideas (only the noetic part, only potentially), the Ideas as the real structures of what is rather than representations in consciousness, aphairesis as grasping the true structure of the being rather than a cut-off mental representation, perception as always grasping eidē and both the sensible and noetic aspect; the Parmenidean identity of beholding and being, being as manifest-being that necessarily implies a horizon (alētheia), matter as presupposing the nous for which it manifests itself, the purely noetic grasp of the being as a whole, the divine nous as light that brings forth the pure structures, and poiēsis as disclosure rather than fabrication. Not covered: the Aristotle/Hegel and Plato/Hegel comparisons, the concept of the subject, and the detailed exegesis of De Anima I.",
+  "units": [
+    {
+      "id": "intentionalitaet/picht-de-anima/001",
+      "locator": "picht-de-anima-commentary#h5-d-noesis-noeseos-the-aristotelian-concept-of-god",
+      "primary_locator": "Picht, De Anima commentary, Part I § II.1.d",
+      "term": "noesis as self-contained energeia",
+      "status": "introduced",
+      "claim": "The highest level of energeia is noesis, the carrying-out in which the highest faculty of knowledge, nous, carries its work within itself and thereby fulfils its nous-being, so that the pure knowing of pure knowing (noesis noeseos) is the actuality of the actual simply as such.",
+      "quote": "*noesis* — that carrying-out in which the highest faculty of knowledge, *nous*, carries its work within itself and thereby fulfills its *nous*-being."
+    },
+    {
+      "id": "intentionalitaet/picht-de-anima/002",
+      "locator": "picht-de-anima-commentary#h5-d-noesis-noeseos-the-aristotelian-concept-of-god",
+      "primary_locator": "Picht, De Anima commentary, Part I § II.1.d",
+      "term": "noesis noeseos / identity",
+      "status": "introduced",
+      "claim": "In the doubly occurring word noesis neither the one nor the other is the eidos of noesis; the eidos is rather the identity that makes both one and the same, an identity Hegel calls the 'absolute Idea'.",
+      "quote": "The *eidos* is rather the identity that makes both one and the same. This identity Hegel calls the \"absolute Idea.\""
+    },
+    {
+      "id": "intentionalitaet/picht-de-anima/003",
+      "locator": "picht-de-anima-commentary#h6-a-what-does-arche-mean",
+      "primary_locator": "Picht, De Anima commentary, Part I § II.2.b.α",
+      "term": "being and truth in the noetic domain",
+      "status": "introduced",
+      "claim": "As in the sun-comparison what comes to be and grows also becomes visible, so in the noetic domain everything that 'is' is at the same time true, the Idea of the Good being origin at once of being, of truth, and of knowledge.",
+      "quote": "everything that in nature comes to be and grows also becomes visible; everything that in the noetic domain \"is\" is at the same time true."
+    },
+    {
+      "id": "intentionalitaet/picht-de-anima/004",
+      "locator": "picht-de-anima-commentary#h6-a-what-does-arche-mean",
+      "primary_locator": "Picht, De Anima commentary, Part I § II.2.b.α",
+      "term": "the ec-static soul",
+      "status": "introduced",
+      "claim": "Psyche is not a substance enclosed in the mortal body but has its dwelling in the intermediate realm between humans and gods, and only because it is a priori 'outside' the human being can the human being, in the movement of the soul, know truth.",
+      "quote": "*Psyche* is not a substance enclosed in the mortal body; it has its dwelling not in the human being but in the intermediate realm between humans and gods. Only because it is a priori \"outside\" the human being can the human being, in the movement of the soul, know truth."
+    },
+    {
+      "id": "intentionalitaet/picht-de-anima/005",
+      "locator": "picht-de-anima-commentary#h5-b-knowing-the-truth",
+      "primary_locator": "Picht, De Anima commentary, Part V § II.1.b",
+      "term": "the unmixed nous",
+      "status": "introduced",
+      "claim": "The nous is not mixed with the body, for were it so knowledge would be subject to the same qualitative changes as the material body, and it has no bodily organ, so the human nous must carry within itself a faculty analogous to the divine nous.",
+      "quote": "The *nous* is not mixed with the body: were it so, knowledge would be subject to the same qualitative changes as the material body."
+    },
+    {
+      "id": "intentionalitaet/picht-de-anima/006",
+      "locator": "picht-de-anima-commentary#h5-b-knowing-the-truth",
+      "primary_locator": "Picht, De Anima commentary, Part V § II.1.b",
+      "term": "soul as region of the Ideas",
+      "status": "introduced",
+      "claim": "The Platonic teaching that the soul is the region of the Ideas is corrected: not the whole soul but the noetic part, and not in the fulfilled entelecheia but only in possibility is it the Ideas.",
+      "quote": "well do those teach who say the soul is the region of the Ideas — only not the whole soul but the noetic, and not in the fulfilled entelecheia but only in possibility is it the Ideas"
+    },
+    {
+      "id": "intentionalitaet/picht-de-anima/007",
+      "locator": "picht-de-anima-commentary#h5-a-psyche-and-nous",
+      "primary_locator": "Picht, De Anima commentary, Part V § II.2.a",
+      "term": "Ideas not representations",
+      "status": "introduced",
+      "claim": "For Plato the Ideas are not representations in consciousness but the real structures of what is, which appear only in veiled form in the sensible cosmos and show themselves unveiled in the soul as they are from themselves.",
+      "quote": "for Plato, the Ideas are not representations in consciousness but the real structures of what is."
+    },
+    {
+      "id": "intentionalitaet/picht-de-anima/008",
+      "locator": "picht-de-anima-commentary#h5-c-aphairesis",
+      "primary_locator": "Picht, De Anima commentary, Part V § II.2.c",
+      "term": "aphairesis vs. modern abstraction",
+      "status": "criticized",
+      "claim": "Unlike modern abstraction, which yields a mere mental representation cut off from the being, Aristotelian aphairesis lifts out and grasps the true structure of the being itself, and the process can be repeated to reach ever purer eidē.",
+      "quote": "unlike modern abstraction (which yields a mere mental representation cut off from the being), Aristotelian *aphairesis* grasps the true structure of the being itself."
+    },
+    {
+      "id": "intentionalitaet/picht-de-anima/009",
+      "locator": "picht-de-anima-commentary#h5-d-the-mode-of-knowledge-of-nous",
+      "primary_locator": "Picht, De Anima commentary, Part V § II.2.d",
+      "term": "perception grasps eidē",
+      "status": "introduced",
+      "claim": "Already sensible perception does not take in things as they are in themselves but their eidē, their 'views', so that every act of perception grasps simultaneously the sensible and the noetic aspect of the being, lifting the sensible image from the thing as the wax lifts the impression from the signet ring.",
+      "quote": "already sensible perception does not take in things as they are in themselves but their *eidē* — their \"views.\" Every act of perception grasps simultaneously the sensible and the noetic aspect of the being."
+    },
+    {
+      "id": "intentionalitaet/picht-de-anima/010",
+      "locator": "picht-de-anima-commentary#h5-e-beholding-being-and-unity-in-parmenides",
+      "primary_locator": "Picht, De Anima commentary, Part V § II.2.e",
+      "term": "identity of beholding and being",
+      "status": "introduced",
+      "claim": "Aristotle's propositions that the soul is in a way all beings and that in what is without matter the beholding and the beheld are the same paraphrase Parmenides: without the beholding, being is not, because 'being' means essentially 'manifesting itself', and whatever does not manifest itself at all is nothing.",
+      "quote": "Conversely — and this is what modern thought finds so difficult — without the beholding, being is not. This is because \"being\" means essentially \"manifesting itself.\" Whatever does not manifest itself at all is nothing."
+    },
+    {
+      "id": "intentionalitaet/picht-de-anima/011",
+      "locator": "picht-de-anima-commentary#h5-e-beholding-being-and-unity-in-parmenides",
+      "primary_locator": "Picht, De Anima commentary, Part V § II.2.e",
+      "term": "manifest-being / horizon",
+      "status": "introduced",
+      "claim": "Being is necessarily manifest-being, but manifest-being necessarily implies the horizon into which being manifests itself, and the unity of this horizon is what Parmenides calls alētheia, unconcealment, truth: the belonging-together of beholding and being.",
+      "quote": "Being is necessarily manifest-being. But manifest-being necessarily implies the horizon into which being manifests itself. The unity of this horizon is what Parmenides calls *alētheia* — unconcealment, truth."
+    },
+    {
+      "id": "intentionalitaet/picht-de-anima/012",
+      "locator": "picht-de-anima-commentary#h4-3-god-is-pure-nous",
+      "primary_locator": "Picht, De Anima commentary, Part V § II.3",
+      "term": "matter presupposes nous",
+      "status": "introduced",
+      "claim": "A doctrine of the universal materiality of what is can never be grounded on sensory experience: materialism, because it claims universality, is in principle only possible as 'idealism', since matter presupposes the nous for which it manifests itself as matter.",
+      "quote": "materialism, because it claims universality, is in principle only possible as \"idealism\" — matter presupposes the *nous* for which it manifests itself as matter."
+    },
+    {
+      "id": "intentionalitaet/picht-de-anima/013",
+      "locator": "picht-de-anima-commentary#h4-3-god-is-pure-nous",
+      "primary_locator": "Picht, De Anima commentary, Part V § II.3",
+      "term": "noetic grasp of the whole",
+      "status": "introduced",
+      "claim": "The concrete being as such never appears in sensible experience, and the knowledge that being is always a concrete whole is a purely noetic knowledge, only because it is noetic grasping the being as holon.",
+      "quote": "The knowledge that being is always a concrete whole is a purely noetic knowledge, and only because it is noetic does it grasp the being as *holon*."
+    },
+    {
+      "id": "intentionalitaet/picht-de-anima/014",
+      "locator": "picht-de-anima-commentary#h4-4-the-transition-to-theology-de-an-iii-5",
+      "primary_locator": "Picht, De Anima commentary, Part V § II.4",
+      "term": "nous as light",
+      "status": "introduced",
+      "claim": "The activity of the nous poiētikos is compared to light: as sunlight brings forth as actual colours what was only potentially colour, so the light of the divine nous brings forth, for the human soul that possesses receptivity for such views, the pure and imperishable structures of what beings as such are.",
+      "quote": "as sunlight brings forth as actual colors what was only potentially color, so the light of the divine *nous* brings forth, for the human soul that possesses receptivity for such views, the pure and imperishable structures of what beings as such are."
+    },
+    {
+      "id": "intentionalitaet/picht-de-anima/015",
+      "locator": "picht-de-anima-commentary#h4-4-the-transition-to-theology-de-an-iii-5",
+      "primary_locator": "Picht, De Anima commentary, Part V § II.4",
+      "term": "poiesis as disclosure",
+      "status": "introduced",
+      "claim": "The word poiein does not mean 'making' or 'creating' but 'bringing to light' what was hidden in possibility, and this is the fundamental meaning of poiēsis and of technē: not fabrication but disclosure.",
+      "quote": "The word *poiein* does not mean \"making\" or \"creating\" but \"bringing to light\" what was hidden in possibility. This is the fundamental meaning of *poiēsis* and also of *technē*: not fabrication but disclosure."
+    }
+  ],
+  "absences": []
+}
