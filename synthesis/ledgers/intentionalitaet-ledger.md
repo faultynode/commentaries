@@ -4,7 +4,7 @@
 
 *Partly worked already: commentaries/heidegger/heidegger-husserl-intentionality-article.md is a Stage 4 output written before this pipeline existed. Extract the commentaries, not that article.*
 
-582 units and 3 recorded absences from 28 commentaries.
+600 units and 3 recorded absences from 29 commentaries.
 
 ## Primary corpus, by composition or delivery date
 
@@ -2302,7 +2302,6 @@
 *Where the theme's terms occur but no extraction pass has run. Silence in the sections above is silence about these files, not evidence of absence in them.*
 
 - `Reduction et donation Commentary` - 43 term hits, no record
-- `kern-husserl-and-kant-commentary` - 20 term hits, no record
 - `heidegger-ga-19-platon-sophistes-commentary` - 16 term hits, no record
 - `husserliana-23-phantasie-bildbewusstsein-erinnerung-commentary` - 15 term hits, no record
 - `derrida-la-voix-et-le-phenomene-commentary` - 14 term hits, no record
