@@ -4,7 +4,7 @@
 
 *Partly worked already: commentaries/heidegger/heidegger-husserl-intentionality-article.md is a Stage 4 output written before this pipeline existed. Extract the commentaries, not that article.*
 
-429 units and 3 recorded absences from 21 commentaries.
+452 units and 3 recorded absences from 22 commentaries.
 
 ## Primary corpus, by composition or delivery date
 
@@ -244,6 +244,127 @@
   > The incomplete presentation is already a consciousness of givenness
 
 *Partial pass: Covers intentionality as essential determination of perception (§4), real/intentional content distinction (§6), intentional relation through identity-consciousness framework (§11), and intention/fulfillment in perceptual process (§32). Not covered: intentionality through kinaesthetic motivation (§§44-57), intentionality in spatial constitution (§§58ff).*
+
+### 1912 to 1924-1928 - Hua 4 - Ideas II
+
+`husserliana-4-ideas-ii-commentary`
+
+- **introduced** · `intentionalitaet/hua4/001` · *pre-theoretical constitution*
+  The objectuality toward which the theoretical subject directs itself is already constituted in consciousness before the theoretical acts, through certain intentional experiences and not through all experiences that can be called related to it.
+  `husserliana-4-ideas-ii-commentary#h3-s4-theoretical-acts-and-pre-giving-intentional-experiences` · Ideas II § 4 · [§4. Theoretical Acts and “Pre-giving” Intentional Experiences](https://faultynode.github.io/commentaries/commentaries/husserl/husserliana-4-ideas-ii-commentary.html#theoretical-acts-and-pre-giving-intentional-experiences)
+  > the relevant objectuality is already constituted in consciousness before these theoretical acts, through certain intentional experiences — and not through all experiences that can be designated as related to this objectuality.
+
+- **introduced** · `intentionalitaet/hua4/002` · *feeling-experiences as constitutive*
+  The experiences through which the theoretical glance does not pass, for example feeling-experiences, are still lived through, and as intentional experiences they are also constitutive: they constitute new object-strata for the relevant object.
+  `husserliana-4-ideas-ii-commentary#h3-s4-theoretical-acts-and-pre-giving-intentional-experiences` · Ideas II § 4 · [§4. Theoretical Acts and “Pre-giving” Intentional Experiences](https://faultynode.github.io/commentaries/commentaries/husserl/husserliana-4-ideas-ii-commentary.html#theoretical-acts-and-pre-giving-intentional-experiences)
+  > The remaining experiences, for example feeling-experiences of this or that particular kind, are lived through; as intentional experiences they are also constitutive — they constitute new object-strata for the relevant object.
+
+- **introduced** · `intentionalitaet/hua4/003` · *Wertnehmung / value-perception*
+  The most original value-constitution takes place in feeling as the pre-theoretical enjoying devotion of the feeling ego, and the expression 'Wertnehmung' designates an analogue of perception in the feeling-sphere, the feeling in which the ego feels itself present at the object 'itself'.
+  `husserliana-4-ideas-ii-commentary#h3-s4-theoretical-acts-and-pre-giving-intentional-experiences` · Ideas II § 4 · [§4. Theoretical Acts and “Pre-giving” Intentional Experiences](https://faultynode.github.io/commentaries/commentaries/husserl/husserliana-4-ideas-ii-commentary.html#theoretical-acts-and-pre-giving-intentional-experiences)
+  > The expression designates an analogue of perception (Wahrnehmung) belonging to the feeling-sphere; perception in the doxic sphere signifies the original (self-grasping) being-there of the ego at the object itself.
+
+- **introduced** · `intentionalitaet/hua4/004` · *empty and fulfilled feeling-intention*
+  Just as there is an empty presenting-meaning without being-there-oneself that fulfills itself in intuitive presenting, so there is an empty object-related feeling that is fulfilled through enjoying, the two being parallel striving intentions.
+  `husserliana-4-ideas-ii-commentary#h3-s4-theoretical-acts-and-pre-giving-intentional-experiences` · Ideas II § 4 · [§4. Theoretical Acts and “Pre-giving” Intentional Experiences](https://faultynode.github.io/commentaries/commentaries/husserl/husserliana-4-ideas-ii-commentary.html#theoretical-acts-and-pre-giving-intentional-experiences)
+  > just as there is, so to speak, a presenting from afar, an empty presenting-meaning without being-there-oneself, so there is an empty object-related feeling; and just as the former fulfills itself in intuitive presenting, so the empty feeling is fulfilled through enjoying.
+
+- **introduced** · `intentionalitaet/hua4/005` · *feeling-horizons / value-anticipation*
+  Even in a value-apprehending consciousness the intuition can be inadequate, namely anticipating, equipped with emptily anticipating horizons of feeling similarly to an outer perception, and this feeling-anticipation already suffices for a doxic turn and predication.
+  `husserliana-4-ideas-ii-commentary#h3-s4-theoretical-acts-and-pre-giving-intentional-experiences` · Ideas II § 4 · [§4. Theoretical Acts and “Pre-giving” Intentional Experiences](https://faultynode.github.io/commentaries/commentaries/husserl/husserliana-4-ideas-ii-commentary.html#theoretical-acts-and-pre-giving-intentional-experiences)
+  > even in a value-apprehending (and, doxically turned, value-intuiting) consciousness, the intuition can be "inadequate" — namely anticipating, and thus equipped with emptily anticipating horizons of feeling, similarly to an outer perception.
+
+- **introduced** · `intentionalitaet/hua4/006` · *change of attitude*
+  A priori there belongs to every act the possibility of a change of attitude by virtue of which, whenever the subject was not from the outset in a theoretical attitude, it can pass over into one in which the objective becomes a theoretical object of an actually carried-out belief-positing.
+  `husserliana-4-ideas-ii-commentary#h3-s4-theoretical-acts-and-pre-giving-intentional-experiences` · Ideas II § 4 · [§4. Theoretical Acts and “Pre-giving” Intentional Experiences](https://faultynode.github.io/commentaries/commentaries/husserl/husserliana-4-ideas-ii-commentary.html#theoretical-acts-and-pre-giving-intentional-experiences)
+  > a priori there belongs to this situation the "possibility" of a change of attitude of the subject, by virtue of which, whenever it was not from the outset in a theoretical attitude, it can pass over into a theoretical attitude
+
+- **introduced** · `intentionalitaet/hua4/007` · *living-in vs. directedness*
+  Having intentional experiences in the consciousness-nexus and carrying out acts as spontaneities do not yet say as much as being directed toward their objects; we are directed in this way only where we live in the relevant acts in a preeminent sense.
+  `husserliana-4-ideas-ii-commentary#h3-s5-spontaneity-and-passivity-actuality-and-inactuality-of-consciousness` · Ideas II § 5 · [§5. Spontaneity and Passivity; Actuality and Inactuality of Consciousness](https://faultynode.github.io/commentaries/commentaries/husserl/husserliana-4-ideas-ii-commentary.html#spontaneity-and-passivity-actuality-and-inactuality-of-consciousness)
+  > "having intentional experiences in the consciousness-nexus" and "carrying out acts as spontaneities oneself" do not yet say as much as being directed toward their objects
+
+- **introduced** · `intentionalitaet/hua4/008` · *spontaneity passes into passivity*
+  Every spontaneous act necessarily passes after its carrying-out into a confused state; activity passes into passivity, a passivity that points back to the originally spontaneous and articulated carrying-out through the belonging 'I can' to reactivate it.
+  `husserliana-4-ideas-ii-commentary#h3-s5-spontaneity-and-passivity-actuality-and-inactuality-of-consciousness` · Ideas II § 5 · [§5. Spontaneity and Passivity; Actuality and Inactuality of Consciousness](https://faultynode.github.io/commentaries/commentaries/husserl/husserliana-4-ideas-ii-commentary.html#spontaneity-and-passivity-actuality-and-inactuality-of-consciousness)
+  > Every spontaneous act necessarily passes after its carrying-out into a confused state; spontaneity, or what is properly to be called activity, passes into passivity
+
+- **introduced** · `intentionalitaet/hua4/009` · *value-predicates are not reflection-predicates*
+  The pleasing, the delightful, the sad, and all coordinate object-predicates are in their objective sense not relation-predicates referring to acts; they arise through the change of attitude as an objective stratum found at the object itself, superimposed on the sensory predicates.
+  `husserliana-4-ideas-ii-commentary#h3-s6-difference-of-the-transition-into-the-theoretical-attitude-from-the-transitio` · Ideas II § 6 · [§6. Difference of the Transition into the Theoretical Attitude from the Transition into Reflection](https://faultynode.github.io/commentaries/commentaries/husserl/husserliana-4-ideas-ii-commentary.html#difference-of-the-transition-into-the-theoretical-attitude-from-the-transition-into-reflection)
+  > The "pleasing," the "delightful," the "sad," and all coordinate object-predicates are in their objective sense not relation-predicates referring to acts.
+
+- **introduced** · `intentionalitaet/hua4/010` · *non-objectivating acts as implicitly objectivating*
+  Every non-objectivating act allows objectualities to be drawn from it through a change of attitude, so that every such act by its essence is implicitly also objectivating, not only built upon objectivating acts but itself objectivating in what it newly contributes.
+  `husserliana-4-ideas-ii-commentary#h3-s7-objectivating-and-non-objectivating-acts-and-their-correlates` · Ideas II § 7 · [§7. Objectivating and Non-objectivating Acts and Their Correlates](https://faultynode.github.io/commentaries/commentaries/husserl/husserliana-4-ideas-ii-commentary.html#objectivating-and-non-objectivating-acts-and-their-correlates)
+  > every such act, by its essence, is implicitly also objectivating — it is essentially not only built in a higher stratum upon objectivating acts, but is itself objectivating in what it newly contributes.
+
+- **introduced** · `intentionalitaet/hua4/011` · *sense-objects as primordial objects*
+  Following the intentional structure of any given objects back through their retrospective indications, one arrives at founding objectualities or noemata that contain nothing more of such indications and are grasped in the simplest theses: the primordial objects to which all possible objects point back, the sense-objects.
+  `husserliana-4-ideas-ii-commentary#h3-s8-the-sense-objects-as-constitutive-primordial-objects` · Ideas II § 8 · [§8. The Sense-Objects as Constitutive Primordial Objects](https://faultynode.github.io/commentaries/commentaries/husserl/husserliana-4-ideas-ii-commentary.html#the-sense-objects-as-constitutive-primordial-objects)
+  > The objects that are phenomenologically characterized in this peculiarity — the so-to-speak primordial objects to which all possible objects point back according to their phenomenological constitution — are the sense-objects.
+
+- **introduced** · `intentionalitaet/hua4/012` · *the ego-ray*
+  In every act-carrying-out lies a ray of directedness that takes its point of departure in the ego, which remains undivided and numerically identical while it lives in these manifold acts and passes in ever-new rays through them toward the objectual content of their sense.
+  `husserliana-4-ideas-ii-commentary#h3-s22-the-pure-ego-as-ego-pole` · Ideas II § 22 · [§22. The Pure Ego as Ego-Pole](https://faultynode.github.io/commentaries/commentaries/husserl/husserliana-4-ideas-ii-commentary.html#the-pure-ego-as-ego-pole)
+  > In every act-carrying-out lies a ray of directedness that I cannot describe other than as taking its point of departure in the "ego," which thereby evidently remains undivided and numerically identical while it lives in these manifold acts
+
+- **introduced** · `intentionalitaet/hua4/013` · *modes of ego-object relatedness*
+  The pure ego is related to objects in very different modes depending on the act carried out: in desiring it finds itself attracted by the desired object without reaching it, in loving inclined toward and possibly wholly devoted to the beloved, in hating directed toward the hated yet repelled.
+  `husserliana-4-ideas-ii-commentary#h3-s22-the-pure-ego-as-ego-pole` · Ideas II § 22 · [§22. The Pure Ego as Ego-Pole](https://faultynode.github.io/commentaries/commentaries/husserl/husserliana-4-ideas-ii-commentary.html#the-pure-ego-as-ego-pole)
+  > In desiring I find myself attracted by the desired object, striving toward it without reaching it in mere desire. In loving I feel myself inclined toward the beloved, attracted, possibly wholly devoted, absorbed in the beloved.
+
+- **introduced** · `intentionalitaet/hua4/014` · *actuality / inactuality*
+  The pure ego never vanishes but is always there in its acts differently according to whether they are actual: the difference of actuality and inactuality designates a different essential structure of the intentional experiences and an inseparable difference of the 'how' in ego-experiencing.
+  `husserliana-4-ideas-ii-commentary#h3-s22-the-pure-ego-as-ego-pole` · Ideas II § 22 · [§22. The Pure Ego as Ego-Pole](https://faultynode.github.io/commentaries/commentaries/husserl/husserliana-4-ideas-ii-commentary.html#the-pure-ego-as-ego-pole)
+  > the difference of actuality and inactuality designates a different essential structure of the intentional experiences and therewith an inseparable difference of the "how" in ego-experiencing.
+
+- **introduced** · `intentionalitaet/hua4/015` · *polarity of acts*
+  Since every cogito demands a cogitatum standing in relation to the pure ego, we find in every act a remarkable polarity, the ego-pole on one side and the object as counter-pole on the other, each an identity but of a radically different kind and provenance, often with double radiations toward the object and back to the center.
+  `husserliana-4-ideas-ii-commentary#h3-s25-polarity-of-acts-ego-and-object` · Ideas II § 25 · [§25. Polarity of Acts: Ego and Object](https://faultynode.github.io/commentaries/commentaries/husserl/husserliana-4-ideas-ii-commentary.html#polarity-of-acts-ego-and-object)
+  > we find in every act a remarkable polarity: on the one side the ego-pole, on the other the object as counter-pole.
+
+- **introduced** · `intentionalitaet/hua4/016` · *enduring opinions / habitus of the pure ego*
+  Every new position-taking institutes a lasting opinion or theme (an experiential, judgment, joy, or will theme) that remains in the subject's possession until motives demand its surrender, and this habitus belongs not to the empirical but to the pure ego.
+  `husserliana-4-ideas-ii-commentary#h3-s29-constitution-of-unities-within-the-immanent-sphere-enduring-opinions-as-depo` · Ideas II § 29 · [§29. Constitution of Unities Within the Immanent Sphere. Enduring Opinions as Deposits in the Pure Ego](https://faultynode.github.io/commentaries/commentaries/husserl/husserliana-4-ideas-ii-commentary.html#constitution-of-unities-within-the-immanent-sphere-enduring-opinions-as-deposits-in-the-pure-ego)
+  > Every "new" position-taking institutes a lasting "opinion" or theme (an experiential theme, a judgment-theme, a joy-theme, a will-theme)
+
+- **introduced** · `intentionalitaet/hua4/017` · *the persisting conviction*
+  The unity of a conviction is not the unity of the judging-experience but the unity of 'the' judgment that persists for the judging subject, grasped in repeatedly repeatable acts as the one and same conviction it constantly has.
+  `husserliana-4-ideas-ii-commentary#h3-s29-constitution-of-unities-within-the-immanent-sphere-enduring-opinions-as-depo` · Ideas II § 29 · [§29. Constitution of Unities Within the Immanent Sphere. Enduring Opinions as Deposits in the Pure Ego](https://faultynode.github.io/commentaries/commentaries/husserl/husserliana-4-ideas-ii-commentary.html#constitution-of-unities-within-the-immanent-sphere-enduring-opinions-as-deposits-in-the-pure-ego)
+  > the unity of a conviction is not the unity of the judging-experience but the unity of "the" judgment that persists for the judging subject, which it grasps in repeated and arbitrarily repeatable acts as the one and same conviction
+
+- **introduced** · `intentionalitaet/hua4/018` · *feeling-sensations as hyletic stuff*
+  Sensory feelings, pleasure and pain sensations, and the sensations of the desiring and willing life play an analogous role as stuff for the intentional experiences of the feeling-sphere, and for the constitution of values as their intentional correlates, as the primary sensations do for the experience-sphere and for spatial-thingly objects.
+  `husserliana-4-ideas-ii-commentary#h3-s39-significance-of-the-body-for-the-constitution-of-higher-objectualities` · Ideas II § 39 · [§39. Significance of the Body for the Constitution of Higher Objectualities](https://faultynode.github.io/commentaries/commentaries/husserl/husserliana-4-ideas-ii-commentary.html#significance-of-the-body-for-the-constitution-of-higher-objectualities)
+  > Here belong groups of sensations that play an analogous role as stuff for the intentional experiences of the feeling-sphere, or for the constitution of values as their intentional correlates, as the primary sensations do for the intentional experiences of the experience-sphere
+
+- **introduced** · `intentionalitaet/hua4/019` · *intentional relation vs. real relation*
+  The ego of intentionality is in the cogito related to its real surrounding world not by a real relation but by an intentional relation to something real: the real relation drops away if the thing does not exist, while the intentional relation persists.
+  `husserliana-4-ideas-ii-commentary#h3-s55-the-spiritual-ego-in-its-behavior-toward-its-surrounding-world` · Ideas II § 55 · [§55. The Spiritual Ego in Its Behavior Toward Its Surrounding World](https://faultynode.github.io/commentaries/commentaries/husserl/husserliana-4-ideas-ii-commentary.html#the-spiritual-ego-in-its-behavior-toward-its-surrounding-world)
+  > This relation is immediately not a real relation but an intentional relation to something real. The real relation drops away if the thing does not exist; the intentional relation persists.
+
+- **introduced** · `intentionalitaet/hua4/020` · *motivation-causality*
+  Between the spiritual subject and its posited objects there obtain relations of a subjective-objective causality that is not real causality but motivation-causality: experienced objects exercise a stimulus, awaken an interest, and by virtue of it a tendency of turning-toward, all of which plays itself out between ego and intentional object.
+  `husserliana-4-ideas-ii-commentary#h3-s55-the-spiritual-ego-in-its-behavior-toward-its-surrounding-world` · Ideas II § 55 · [§55. The Spiritual Ego in Its Behavior Toward Its Surrounding World](https://faultynode.github.io/commentaries/commentaries/husserl/husserliana-4-ideas-ii-commentary.html#the-spiritual-ego-in-its-behavior-toward-its-surrounding-world)
+  > Experienced objects of the surrounding world exercise a greater or lesser "stimulus," "awaken" an interest, and by virtue of this interest a tendency of turning-toward, which freely flows out in the turning-toward or flows out only after counter-tendencies are weakened and overcome.
+
+- **introduced** · `intentionalitaet/hua4/021` · *personal ego as subject of intentionality*
+  By the spiritual or personal ego is to be understood the subject of intentionality, and motivation is the fundamental lawfulness of spiritual life, ranging from reason-motivation (position-takings by position-takings within evidence) to the whole realm of associations and habits.
+  `husserliana-4-ideas-ii-commentary#h3-s56-motivation-as-fundamental-lawfulness-of-spiritual-life` · Ideas II § 56 · [§56. Motivation as Fundamental Lawfulness of Spiritual Life](https://faultynode.github.io/commentaries/commentaries/husserl/husserliana-4-ideas-ii-commentary.html#motivation-as-fundamental-lawfulness-of-spiritual-life)
+  > We see that by the spiritual or personal ego is to be understood the subject of intentionality, and that motivation is the lawfulness of spiritual life.
+
+- **introduced** · `intentionalitaet/hua4/022` · *association as motivation*
+  The realm of associations and habits is a form of motivation, but not motivation of position-takings by position-takings: it is motivation of experiences of any kind, whether precipitates of earlier reason-acts or entirely reason-less pregivennesses of the sphere of passivity, with 'psychical grounds' seekable through psychoanalysis.
+  `husserliana-4-ideas-ii-commentary#h4-b-association-as-motivation` · Ideas II § 56 (b) · [b) Association as Motivation](https://faultynode.github.io/commentaries/commentaries/husserl/husserliana-4-ideas-ii-commentary.html#b-association-as-motivation)
+  > This is not motivation of position-takings by position-takings (active theses by active theses), but of experiences of any kind: those that are "precipitates" of earlier reason-acts, or those that are entirely reason-less
+
+- **introduced** · `intentionalitaet/hua4/023` · *nature as a web of motivations*
+  Grasping the structure of thing-constituting consciousness, all nature with space, time, and causality is fully dissolved into a web of immanent motivations, considerable either noetically (positing motivating positing in the character of 'as a consequence') or noematically in the belongingness of the themes.
+  `husserliana-4-ideas-ii-commentary#h4-d-motivation-on-the-noetic-and-noematic-side` · Ideas II, Beilage (to § 56) (d) · [d) Motivation on the Noetic and Noematic Side](https://faultynode.github.io/commentaries/commentaries/husserl/husserliana-4-ideas-ii-commentary.html#d-motivation-on-the-noetic-and-noematic-side)
+  > Husserl shows that all nature with space, time, causality, and so on is fully dissolved into a web of immanent motivations.
+
+*Partial pass: Covers Ideas II's account of intentionality across the doxic/axiological/practical attitudes and the motivation-doctrine: the pre-theoretical constitution of objects through certain (not all) intentional experiences, feeling-experiences as themselves intentional and constitutive of new object-strata, Wertnehmung as an analogue of perception in the feeling-sphere, empty vs. fulfilled feeling-intentions and inadequate value-apprehension with feeling-horizons, the a priori possibility of a change of attitude into a theoretical one, the distinction of merely having/carrying out acts from being directed toward their objects, the passage of spontaneity into passivity, value-predicates as not reflection- or relation-predicates, every non-objectivating act as implicitly objectivating, the sense-objects as primordial objects; the ego-ray and the pure ego's varying modes of object-relatedness (desire, love, hate), actuality vs. inactuality, the polarity of every act (ego-pole and counter-pole), enduring opinions/convictions as deposits whose habitus belongs to the pure ego and the noesis/noema distinction for the persisting conviction; feeling-sensations as hyletic stuff for value-constitution; the intentional relation as not a real relation, motivation-causality, the personal ego as the subject of intentionality, association as motivation, and the dissolution of all nature into a web of immanent motivations. Not covered: the detailed constitution of material and animal nature, the body-constitution analysis, empathy, and the personalistic/naturalistic-attitude contrast.*
 
 ### 1917 to 1918 - Husserl, Hua 33 — Die Bernauer Manuskripte über das Zeitbewußtsein
 
@@ -1494,7 +1615,6 @@
 
 *Where the theme's terms occur but no extraction pass has run. Silence in the sections above is silence about these files, not evidence of absence in them.*
 
-- `husserliana-4-ideas-ii-commentary` - 65 term hits, no record
 - `husserliana-5-ideas-iii-commentary` - 59 term hits, no record
 - `husserl-krisis-commentary` - 58 term hits, no record
 - `husserliana-39-die-lebenswelt-commentary` - 51 term hits, no record
