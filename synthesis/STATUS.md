@@ -106,10 +106,11 @@ Next candidates, by term density:
 
 ## Inheritance index
 
-25 commentaries · 185 engagements
+26 commentaries · 194 engagements
 
 - `franck-chair-et-corps-commentary` - 7 engagements (partial)
 - `heidegger-ga-19-platon-sophistes-commentary` - 4 engagements (partial)
+- `heidegger-ga-20-prolegomena-zur-geschichte-des-zeitbegriffs-commentary` - 9 engagements (partial)
 - `heidegger-ga-24-die-grundprobleme-der-phanomenologie-commentary` - 4 engagements (partial)
 - `heidegger-sein-und-zeit-commentary` - 19 engagements (partial)
 - `henry-philosophie-et-phenomenologie-du-corps-commentary` - 7 engagements (partial)
