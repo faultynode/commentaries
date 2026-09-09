@@ -4,7 +4,70 @@
 
 *Partly worked already: commentaries/heidegger/heidegger-husserl-intentionality-article.md is a Stage 4 output written before this pipeline existed. Extract the commentaries, not that article.*
 
-39 units and 2 recorded absences from 2 commentaries.
+50 units and 2 recorded absences from 3 commentaries.
+
+## Primary corpus, by composition or delivery date
+
+### 1925 - Husserl, Hua 9 — Phenomenological Psychology
+
+`husserliana-9-phenomenological-psychology-commentary`
+
+- **introduced** · `intentionalitaet/hua9/001` · *intentionality (fundamental character of consciousness)*
+  Brentano discovered intentionality as the fundamental character of consciousness, establishing it descriptively as the most general essential character of psychic life.
+  `husserliana-9-phenomenological-psychology-commentary#h4-d-brentano-as-pioneer-for-the-investigation-in-inner-experience-discovery-of-int` · [d) Brentano as Pioneer for the Investigation in Inner Experience — Discovery of Intentionality as Fundamental Character of the Psychic](https://faultynode.github.io/commentaries/commentaries/husserl/husserliana-9-phenomenological-psychology-commentary.html#d-brentano-as-pioneer-for-the-investigation-in-inner-experience--discovery-of-intentionality-as-fundamental-character-of-the-psychic)
+  > we today designate it with the word *intentionality*. For the first time, the *fundamental essence of all psychic life* — *consciousness* as *having-consciousness of something* — was put in the focal point, and indeed brought out descriptively as the most general essential character of psychic life
+
+- **presupposed** · `intentionalitaet/hua9/002` · *intentionality (fundamental property of psychic life)*
+  Intentionality is a fundamental property of psychic life given immediately and evidently prior to all theories.
+  `husserliana-9-phenomenological-psychology-commentary#h4-d-brentano-as-pioneer-for-the-investigation-in-inner-experience-discovery-of-int` · [d) Brentano as Pioneer for the Investigation in Inner Experience — Discovery of Intentionality as Fundamental Character of the Psychic](https://faultynode.github.io/commentaries/commentaries/husserl/husserliana-9-phenomenological-psychology-commentary.html#d-brentano-as-pioneer-for-the-investigation-in-inner-experience--discovery-of-intentionality-as-fundamental-character-of-the-psychic)
+  > One could not escape the recognition that intentionality is a *fundamental property* of psychic life — given quite immediately and evidently *prior to all theories*.
+
+- **presupposed** · `intentionalitaet/hua9/003` · *intentional object-relation*
+  Descriptively, an object-relation belongs to every experience whether or not the object actually exists.
+  `husserliana-9-phenomenological-psychology-commentary#h4-d-brentano-as-pioneer-for-the-investigation-in-inner-experience-discovery-of-int` · [d) Brentano as Pioneer for the Investigation in Inner Experience — Discovery of Intentionality as Fundamental Character of the Psychic](https://faultynode.github.io/commentaries/commentaries/husserl/husserliana-9-phenomenological-psychology-commentary.html#d-brentano-as-pioneer-for-the-investigation-in-inner-experience--discovery-of-intentionality-as-fundamental-character-of-the-psychic)
+  > it can in any case be made evident that *in the perceptual experience itself there lies a consciousness-relation*, and indeed to the house perceived *in it itself*.
+
+- **presupposed** · `intentionalitaet/hua9/004` · *intentional acts (consciousness of correlates)*
+  Every act has its object-correlate: perception is consciousness of what is perceived, memory of what is remembered, love of what is loved.
+  `husserliana-9-phenomenological-psychology-commentary#h4-d-brentano-as-pioneer-for-the-investigation-in-inner-experience-discovery-of-int` · [d) Brentano as Pioneer for the Investigation in Inner Experience — Discovery of Intentionality as Fundamental Character of the Psychic](https://faultynode.github.io/commentaries/commentaries/husserl/husserliana-9-phenomenological-psychology-commentary.html#d-brentano-as-pioneer-for-the-investigation-in-inner-experience--discovery-of-intentionality-as-fundamental-character-of-the-psychic)
+  > if I imagine to myself a centaur, the lived-experience of the fiction is itself *phantasy of* such-and-such a centaur; in the experience that we call *memory* lies likewise itself the *relation to the past*, in *loving* the relation to the *loved*, in *hating* to the *hated*, in *willing* to the *willed*.
+
+- **introduced** · `intentionalitaet/hua9/005` · *intentionality (descriptively graspable essential character)*
+  Brentano established intentionality as the descriptively graspable essential character that distinguishes the psychic from the physical.
+  `husserliana-9-phenomenological-psychology-commentary#h4-d-brentano-as-pioneer-for-the-investigation-in-inner-experience-discovery-of-int` · [d) Brentano as Pioneer for the Investigation in Inner Experience — Discovery of Intentionality as Fundamental Character of the Psychic](https://faultynode.github.io/commentaries/commentaries/husserl/husserliana-9-phenomenological-psychology-commentary.html#d-brentano-as-pioneer-for-the-investigation-in-inner-experience--discovery-of-intentionality-as-fundamental-character-of-the-psychic)
+  > he sought a *descriptive principle of distinction between physical and psychic*, and was the first to establish that *intentionality* is the *descriptively graspable essential character of the specifically psychic*.
+
+- **introduced** · `intentionalitaet/hua9/006` · *intentional analysis (psychological theme)*
+  Once clearly seen, intentionality became the central psychological theme requiring intentional analysis.
+  `husserliana-9-phenomenological-psychology-commentary#h4-d-brentano-as-pioneer-for-the-investigation-in-inner-experience-discovery-of-int` · [d) Brentano as Pioneer for the Investigation in Inner Experience — Discovery of Intentionality as Fundamental Character of the Psychic](https://faultynode.github.io/commentaries/commentaries/husserl/husserliana-9-phenomenological-psychology-commentary.html#d-brentano-as-pioneer-for-the-investigation-in-inner-experience--discovery-of-intentionality-as-fundamental-character-of-the-psychic)
+  > Once clearly seen, intentionality had to be a *psychological* theme — indeed *the central* psychological theme.
+
+- **introduced** · `intentionalitaet/hua9/007` · *intentional implication and analysis*
+  The Logical Investigations discovered intentional analysis as distinct from spatial combination, involving an interwovenness of consciousness specific to the mental.
+  `husserliana-9-phenomenological-psychology-commentary#h4-e-the-further-development-of-the-thought-of-intentionality-in-the-logical-invest` · [e) The Further Development of the Thought of Intentionality in the "Logical Investigations." The Performance-Character of Consciousness. Transition from a Purely Descriptive Psychology to an A Priori (Eidetic-Intuitive) Psychology and Its Significance for Epistemology](https://faultynode.github.io/commentaries/commentaries/husserl/husserliana-9-phenomenological-psychology-commentary.html#e-the-further-development-of-the-thought-of-intentionality-in-the-logical-investigations-the-performance-character-of-consciousness-transition-from-a-purely-descriptive-psychology-to-an-a-priori-eidetic-intuitive-psychology-and-its-significance-for-epistemology)
+  > an *intentional interwovenness, motivated-ness, being-enclosed-in-one-another in a meaning-relation* — and in a manner that has, in form and in principle, *no analogue in the physical at all*.
+
+- **introduced** · `intentionalitaet/hua9/008` · *intentional correlation research*
+  Phenomenological psychology pursues systematic intentional correlations between possible objectivities and structures of consciousness.
+  `husserliana-9-phenomenological-psychology-commentary#h4-e-the-further-development-of-the-thought-of-intentionality-in-the-logical-invest` · [e) The Further Development of the Thought of Intentionality in the "Logical Investigations." The Performance-Character of Consciousness. Transition from a Purely Descriptive Psychology to an A Priori (Eidetic-Intuitive) Psychology and Its Significance for Epistemology](https://faultynode.github.io/commentaries/commentaries/husserl/husserliana-9-phenomenological-psychology-commentary.html#e-the-further-development-of-the-thought-of-intentionality-in-the-logical-investigations-the-performance-character-of-consciousness-transition-from-a-purely-descriptive-psychology-to-an-a-priori-eidetic-intuitive-psychology-and-its-significance-for-epistemology)
+  > the manifold of psychic modes in which, *purely in the immanence of psychic life*, concepts, judgments, theories shape themselves as *ideally identical sense-unities*
+
+- **presupposed** · `intentionalitaet/hua9/009` · *intentional accomplishments (eidetic necessity)*
+  Intentional accomplishments exhibit essential necessity: any knowing subject must structure its thinking identically.
+  `husserliana-9-phenomenological-psychology-commentary#h4-e-the-further-development-of-the-thought-of-intentionality-in-the-logical-invest` · [e) The Further Development of the Thought of Intentionality in the "Logical Investigations." The Performance-Character of Consciousness. Transition from a Purely Descriptive Psychology to an A Priori (Eidetic-Intuitive) Psychology and Its Significance for Epistemology](https://faultynode.github.io/commentaries/commentaries/husserl/husserliana-9-phenomenological-psychology-commentary.html#e-the-further-development-of-the-thought-of-intentionality-in-the-logical-investigations-the-performance-character-of-consciousness-transition-from-a-purely-descriptive-psychology-to-an-a-priori-eidetic-intuitive-psychology-and-its-significance-for-epistemology)
+  > if anything at all like *numbers, mathematical manifolds, propositions, theories*, etc., are to come to subjective givenness, to become conscious in subjective experiences, *these necessary experiences must have their essentially-necessary, everywhere-identical structure*.
+
+- **revised** · `intentionalitaet/hua9/010` · *intentionality (performance-character of consciousness)*
+  Consciousness is not a static taxonomy but a teleologically structured performance-life, everywhere intentional and goal-directed.
+  `husserliana-9-phenomenological-psychology-commentary#h4-e-the-further-development-of-the-thought-of-intentionality-in-the-logical-invest` · [e) The Further Development of the Thought of Intentionality in the "Logical Investigations." The Performance-Character of Consciousness. Transition from a Purely Descriptive Psychology to an A Priori (Eidetic-Intuitive) Psychology and Its Significance for Epistemology](https://faultynode.github.io/commentaries/commentaries/husserl/husserliana-9-phenomenological-psychology-commentary.html#e-the-further-development-of-the-thought-of-intentionality-in-the-logical-investigations-the-performance-character-of-consciousness-transition-from-a-purely-descriptive-psychology-to-an-a-priori-eidetic-intuitive-psychology-and-its-significance-for-epistemology)
+  > Consciousness, intentionality, revealed its true essential character only in such directed work.
+
+- **presupposed** · `intentionalitaet/hua9/011` · *intentional correlation research (Korrelationsforschung)*
+  Phenomenological investigation pursues systematic intentional correlations revealing necessary connections between consciousness and objects.
+  `husserliana-9-phenomenological-psychology-commentary#h4-e-the-further-development-of-the-thought-of-intentionality-in-the-logical-invest` · [e) The Further Development of the Thought of Intentionality in the "Logical Investigations." The Performance-Character of Consciousness. Transition from a Purely Descriptive Psychology to an A Priori (Eidetic-Intuitive) Psychology and Its Significance for Epistemology](https://faultynode.github.io/commentaries/commentaries/husserl/husserliana-9-phenomenological-psychology-commentary.html#e-the-further-development-of-the-thought-of-intentionality-in-the-logical-investigations-the-performance-character-of-consciousness-transition-from-a-purely-descriptive-psychology-to-an-a-priori-eidetic-intuitive-psychology-and-its-significance-for-epistemology)
+  > a new-kind *Idea of psychology* opens up — new-kind not only through its concretely and universally grasped theme *object-consciousness*
+
+*Partial pass: Covers sections d-e: Brentano's discovery of intentionality, the fundamental character of consciousness, intentional object-relations, intentional acts, descriptive psychology, intentional analysis, Logical Investigations' development of intentional implication and analysis, intentional correlation-research, and the performance-character of consciousness.*
 
 ## Not covered by this ledger
 
@@ -14,7 +77,6 @@
 - `husserliana-19-1-fifth-logical-investigation-commentary` - 281 term hits, no record
 - `franck-chair-et-corps-commentary` - 224 term hits, no record
 - `husserliana-11-analyses-concerning-passive-and-active-synthesis-commentary` - 175 term hits, no record
-- `husserliana-9-phenomenological-psychology-commentary` - 166 term hits, no record
 - `heidegger-ga-24-die-grundprobleme-der-phanomenologie-commentary` - 133 term hits, no record
 - `husserl-thing-and-space-commentary` - 128 term hits, no record
 - `henry-philosophie-et-phenomenologie-du-corps-commentary` - 127 term hits, no record
