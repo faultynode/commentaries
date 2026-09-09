@@ -8,17 +8,17 @@ Corpus: **53 commentaries**, 2,934,474 words, 3902 sections indexed in `synthesi
 
 ### intentionalitaet - intentionality
 
-23 commentaries extracted · 474 units · 3 absences · 23 partial
+24 commentaries extracted · 497 units · 3 absences · 24 partial
 
 Next candidates, by term density:
 
-- [ ] `husserl-krisis-commentary` (1935) - 58 hits
 - [ ] `husserliana-39-die-lebenswelt-commentary` (undated) - 51 hits
 - [ ] `husserl-natur-und-geist-commentary` (1919) - 43 hits
 - [ ] `Reduction et donation Commentary` (undated) - 43 hits
 - [ ] `picht-de-anima-commentary` (undated) - 28 hits
 - [ ] `heidegger-sein-und-zeit-commentary` (1927) - 27 hits
-- ... 18 more; see `synthesis_query.py --theme intentionalitaet`
+- [ ] `kern-husserl-and-kant-commentary` (undated) - 20 hits
+- ... 17 more; see `synthesis_query.py --theme intentionalitaet`
 
 ### konstitution - constitution
 

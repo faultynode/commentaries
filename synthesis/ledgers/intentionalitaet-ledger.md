@@ -4,7 +4,7 @@
 
 *Partly worked already: commentaries/heidegger/heidegger-husserl-intentionality-article.md is a Stage 4 output written before this pipeline existed. Extract the commentaries, not that article.*
 
-474 units and 3 recorded absences from 23 commentaries.
+497 units and 3 recorded absences from 24 commentaries.
 
 ## Primary corpus, by composition or delivery date
 
@@ -729,6 +729,127 @@
   > a new-kind *Idea of psychology* opens up — new-kind not only through its concretely and universally grasped theme *object-consciousness*
 
 *Partial pass: Covers sections d-e: Brentano's discovery of intentionality, the fundamental character of consciousness, intentional object-relations, intentional acts, descriptive psychology, intentional analysis, Logical Investigations' development of intentional implication and analysis, intentional correlation-research, and the performance-character of consciousness.*
+
+### 1935 - Krisis Commentary
+
+`husserl-krisis-commentary`
+
+- **introduced** · `intentionalitaet/krisis/001` · *intentionality as the essence of egological life*
+  Intentionality makes up the essence of egological life: every cogitatio has its cogitatum (experiencing, thinking, feeling, willing something), every one is in the broadest sense a meaning, and thus to each belongs some mode of certainty.
+  `husserl-krisis-commentary#h3-s-20-intentionality-in-descartes` · Crisis § 20 · [§ 20 "Intentionality" in Descartes](https://faultynode.github.io/commentaries/commentaries/husserl/husserl-krisis-commentary.html#intentionality-in-descartes)
+  > intentionality, which makes up the essence of egological life. Every *cogitatio* has its *cogitatum*: experiencing, thinking, feeling, willing something. Every one is in the broadest sense a "meaning" (*Meinen*), and thus to each belongs some mode of certainty.
+
+- **criticized** · `intentionalitaet/krisis/002` · *Descartes's undeveloped intentionality*
+  Although Descartes's founding Meditations were actually a piece of psychology in which the significant moment of intentionality appears, there is no question of a real posing and treatment of the theme 'intentionality'; the whole is an epistemology of how the ego brings about objective cognition.
+  `husserl-krisis-commentary#h3-s-20-intentionality-in-descartes` · Crisis § 20 · [§ 20 "Intentionality" in Descartes](https://faultynode.github.io/commentaries/commentaries/husserl/husserl-krisis-commentary.html#intentionality-in-descartes)
+  > But there is no question of a real posing and treatment of the theme "intentionality."
+
+- **introduced** · `intentionalitaet/krisis/003` · *anonymous constituting subjectivity*
+  Inquiring back into the unquestioned self-evidences discloses an infinity of thoroughly purely subjective phenomena, not psychophysical occurrences of sensory data but spiritual courses that in essential necessity exercise the function of constituting meaning-formations.
+  `husserl-krisis-commentary#h3-s-29-the-life-world-can-be-disclosed-as-a-realm-of-subjective-phenomena-that-hav` · Crisis § 29 · [§ 29 The life-world can be disclosed as a realm of subjective phenomena that have remained "anonymous"](https://faultynode.github.io/commentaries/commentaries/husserl/husserl-krisis-commentary.html#the-life-world-can-be-disclosed-as-a-realm-of-subjective-phenomena-that-have-remained-anonymous)
+  > These are thoroughly purely subjective phenomena — not mere factual occurrences of psychophysical courses of sensory data, but spiritual courses that as such exercise in essential necessity the function of constituting meaning-formations.
+
+- **introduced** · `intentionalitaet/krisis/004` · *self-enclosed functioning subjectivity*
+  This is a realm of a thoroughly self-enclosed subjectivity, functioning in all experiencing, thinking, and living and hence inseparable everywhere, yet never caught sight of, grasped, or conceptualized by any objective science or philosophy.
+  `husserl-krisis-commentary#h3-s-29-the-life-world-can-be-disclosed-as-a-realm-of-subjective-phenomena-that-hav` · Crisis § 29 · [§ 29 The life-world can be disclosed as a realm of subjective phenomena that have remained "anonymous"](https://faultynode.github.io/commentaries/commentaries/husserl/husserl-krisis-commentary.html#the-life-world-can-be-disclosed-as-a-realm-of-subjective-phenomena-that-have-remained-anonymous)
+  > It is a realm of a thoroughly self-enclosed subjectivity, existing in its own way, functioning in all experiencing, all thinking, all living — hence inseparable everywhere — and yet never caught sight of, never grasped and conceptualized.
+
+- **introduced** · `intentionalitaet/krisis/005` · *meaning-beyond in perception*
+  In the continuous change of seeing, while the thing is actually given I mean more than it offers, having certainty of being of this thing to which all sides simultaneously belong; the seen side is retained and taken together with earlier retentions so that I get to know the thing.
+  `husserl-krisis-commentary#h3-s-45-beginnings-of-a-concrete-explication-of-the-data-of-sensory-intuition-purel` · Crisis § 45 · [§ 45 Beginnings of a concrete explication of the data of sensory intuition purely as such](https://faultynode.github.io/commentaries/commentaries/husserl/husserl-krisis-commentary.html#beginnings-of-a-concrete-explication-of-the-data-of-sensory-intuition-purely-as-such)
+  > Therein lies: while it is actually given, I mean more than it offers. I have certainty of being of this thing to which all sides simultaneously belong.
+
+- **introduced** · `intentionalitaet/krisis/006` · *synthesis as meaning-enrichment*
+  The changing perspectives of a figure and its color function in a continuous synthesis of identification not as an external fusion but, as bearing meaning in each phase, connecting in a progressive enrichment and further-formation of meaning.
+  `husserl-krisis-commentary#h3-s-45-beginnings-of-a-concrete-explication-of-the-data-of-sensory-intuition-purel` · Crisis § 45 · [§ 45 Beginnings of a concrete explication of the data of sensory intuition purely as such](https://faultynode.github.io/commentaries/commentaries/husserl/husserl-krisis-commentary.html#beginnings-of-a-concrete-explication-of-the-data-of-sensory-intuition-purely-as-such)
+  > This happens not as an external fusion; rather, as bearing "meaning" in each phase, they connect in a progressive enrichment and further-formation of meaning.
+
+- **introduced** · `intentionalitaet/krisis/007` · *the universal correlation-a priori*
+  As soon as one inquires after the modes of subjective givenness of life-worldly things, one recognizes in reflection that essential correlations prevail here which are component parts of a further-reaching, universal a priori.
+  `husserl-krisis-commentary#h3-s-46-the-universal-correlation-a-priori` · Crisis § 46 · [§ 46 The universal correlation-a priori](https://faultynode.github.io/commentaries/commentaries/husserl/husserl-krisis-commentary.html#the-universal-correlation-a-priori)
+  > in reflection we recognize with astonishment that essential correlations prevail here, which are component parts of a further-reaching, a universal a priori.
+
+- **introduced** · `intentionalitaet/krisis/008` · *horizon of co-functioning appearances*
+  Implied in the respective perception of the thing is a whole horizon of non-actual and yet co-functioning modes of appearance and syntheses of validity, without which we would not have things or a world of experience given at all.
+  `husserl-krisis-commentary#h3-s-46-the-universal-correlation-a-priori` · Crisis § 46 · [§ 46 The universal correlation-a priori](https://faultynode.github.io/commentaries/commentaries/husserl/husserl-krisis-commentary.html#the-universal-correlation-a-priori)
+  > Implied in the respective perception of the thing is a whole "horizon" of non-actual and yet co-functioning modes of appearance and syntheses of validity.
+
+- **introduced** · `intentionalitaet/krisis/009` · *the correlation-a priori as origin of the project*
+  The first breakthrough of the universal correlation-a priori, during the working-out of the Logical Investigations around 1898, shook Husserl so deeply that from then on his entire life's work was governed by the task of a systematic elaboration of this correlation-a priori.
+  `husserl-krisis-commentary#h3-s-46-the-universal-correlation-a-priori` · Crisis § 46 · [§ 46 The universal correlation-a priori](https://faultynode.github.io/commentaries/commentaries/husserl/husserl-krisis-commentary.html#the-universal-correlation-a-priori)
+  > Husserl notes that the first breakthrough of this universal correlation-a priori (during the working-out of his *Logical Investigations*, approximately in the year 1898) shook him so deeply that from then on his entire life's work was governed by the task of a systematic elaboration of this correlation-a priori.
+
+- **introduced** · `intentionalitaet/krisis/010` · *kinaesthesis / presentation-correlation*
+  In perception the systems of presentations 'of' a thing are referred back to correlative manifolds of kinaesthetic courses that have the character of 'I do', 'I move', including 'I hold still'.
+  `husserl-krisis-commentary#h3-s-47-reference-to-further-directions-of-research-the-subjective-basic-phenomena` · Crisis § 47 · [§ 47 Reference to further directions of research: the subjective basic phenomena of kinaestheses, validity-change, horizon-consciousness, and the communalization of experience](https://faultynode.github.io/commentaries/commentaries/husserl/husserl-krisis-commentary.html#reference-to-further-directions-of-research-the-subjective-basic-phenomena-of-kinaestheses-validity-change-horizon-consciousness-and-the-communalization-of-experience)
+  > In perception, the systems of presentations "of" a thing are referred back to correlative manifolds of kinaesthetic courses, which have the character of "I do," "I move" (including "I hold still").
+
+- **introduced** · `intentionalitaet/krisis/011` · *the intentional if-then*
+  A hidden intentional 'if-then' connection plays in perception: in certain systematic co-sequences the presentations must run, the actual kinaestheses lying in a system of kinaesthetic possibility to which the system of concordantly belonging possible sequences stands in correlation, and this is the intentional background of every simple certainty of being.
+  `husserl-krisis-commentary#h3-s-47-reference-to-further-directions-of-research-the-subjective-basic-phenomena` · Crisis § 47 · [§ 47 Reference to further directions of research: the subjective basic phenomena of kinaestheses, validity-change, horizon-consciousness, and the communalization of experience](https://faultynode.github.io/commentaries/commentaries/husserl/husserl-krisis-commentary.html#reference-to-further-directions-of-research-the-subjective-basic-phenomena-of-kinaestheses-validity-change-horizon-consciousness-and-the-communalization-of-experience)
+  > A hidden intentional "if-then" connection plays: in certain systematic co-sequences the presentations must run. The actual kinaestheses lie in a system of kinaesthetic possibility, to which the system of concordantly belonging possible sequences stands in correlation.
+
+- **introduced** · `intentionalitaet/krisis/012` · *validity-change*
+  Occasionally a break in the concordance of presentations occurs and being transforms into semblance, or merely into being-doubtful, being-merely-possible, being-probable, the semblance resolving through correction, through alteration of the sense in which one had perceived the thing.
+  `husserl-krisis-commentary#h3-s-47-reference-to-further-directions-of-research-the-subjective-basic-phenomena` · Crisis § 47 · [§ 47 Reference to further directions of research: the subjective basic phenomena of kinaestheses, validity-change, horizon-consciousness, and the communalization of experience](https://faultynode.github.io/commentaries/commentaries/husserl/husserl-krisis-commentary.html#reference-to-further-directions-of-research-the-subjective-basic-phenomena-of-kinaestheses-validity-change-horizon-consciousness-and-the-communalization-of-experience)
+  > Occasionally, however, a break in this concordance occurs: being transforms into semblance, or merely into being-doubtful, being-merely-possible, being-probable.
+
+- **introduced** · `intentionalitaet/krisis/013` · *the thing as intersubjective unity*
+  Through the communalization of the perceptual, 'the' thing itself is really that which nobody has as really seen, since it is constantly, for everyone, the unity of the openly endless manifold of changing own and foreign experiences and experience-things.
+  `husserl-krisis-commentary#h3-s-47-reference-to-further-directions-of-research-the-subjective-basic-phenomena` · Crisis § 47 · [§ 47 Reference to further directions of research: the subjective basic phenomena of kinaestheses, validity-change, horizon-consciousness, and the communalization of experience](https://faultynode.github.io/commentaries/commentaries/husserl/husserl-krisis-commentary.html#reference-to-further-directions-of-research-the-subjective-basic-phenomena-of-kinaestheses-validity-change-horizon-consciousness-and-the-communalization-of-experience)
+  > "The" thing itself is really that which nobody has as really seen, since it is rather constantly, for everyone, the unity of the openly endless manifold of changing own and foreign experiences and experience-things.
+
+- **introduced** · `intentionalitaet/krisis/014` · *universal scope of the correlation*
+  Being of every concrete or abstract, real or ideal sense has its modes of self-givenness, on the side of the I its modes of intention in modes of validity, and belonging thereto its modes of subjective change in syntheses of concordance and discordance, individual-subjective and intersubjective.
+  `husserl-krisis-commentary#h3-s-48-all-beings-of-every-sense-and-every-region-as-indices-of-their-correlative` · Crisis § 48 · [§ 48 All beings of every sense and every region as indices of their correlative systems of subjective experience](https://faultynode.github.io/commentaries/commentaries/husserl/husserl-krisis-commentary.html#all-beings-of-every-sense-and-every-region-as-indices-of-their-correlative-systems-of-subjective-experience)
+  > Being of every concrete or abstract, real or ideal sense has its modes of self-givenness, on the side of the I its modes of intention in modes of validity, and belonging thereto its modes of subjective change in their syntheses of concordance and discordance, individual-subjective and intersubjective.
+
+- **introduced** · `intentionalitaet/krisis/015` · *constitution as original formation of meaning*
+  The concept of constitution is introduced as a preliminary title under the name 'original formation of meaning' (ursprüngliche Sinnbildung), the levels and strata of intersubjectively intertwined intentional syntheses forming a universal unity of synthesis through which the objective universe comes about.
+  `husserl-krisis-commentary#h3-s-49-preliminary-concept-of-transcendental-constitution-as-original-formation-of` · Crisis § 49 · [§ 49 Preliminary concept of transcendental constitution as "original formation of meaning." The exemplary narrowness of the analyses carried out; indication of further horizons](https://faultynode.github.io/commentaries/commentaries/husserl/husserl-krisis-commentary.html#preliminary-concept-of-transcendental-constitution-as-original-formation-of-meaning-the-exemplary-narrowness-of-the-analyses-carried-out-indication-of-further-horizons)
+  > The concept of constitution as "original formation of meaning" (*ursprüngliche Sinnbildung*) is introduced as a preliminary title.
+
+- **introduced** · `intentionalitaet/krisis/016` · *intentionality as the only genuine explanation*
+  Intentionality is the title for the only real and genuine explaining, making-intelligible: to lead back to the intentional origins and unities of meaning-formation yields an intelligibility which, once attained, would leave no meaningful question remaining.
+  `husserl-krisis-commentary#h3-s-49-preliminary-concept-of-transcendental-constitution-as-original-formation-of` · Crisis § 49 · [§ 49 Preliminary concept of transcendental constitution as "original formation of meaning." The exemplary narrowness of the analyses carried out; indication of further horizons](https://faultynode.github.io/commentaries/commentaries/husserl/husserl-krisis-commentary.html#preliminary-concept-of-transcendental-constitution-as-original-formation-of-meaning-the-exemplary-narrowness-of-the-analyses-carried-out-indication-of-further-horizons)
+  > Intentionality is the title for the only real and genuine explaining, making-intelligible.
+
+- **introduced** · `intentionalitaet/krisis/017` · *the world as meaning-formation*
+  Through the systematic disclosure of the total system of hidden modes of givenness and I-like modes of validity, the world that exists for us is made intelligible as a meaning-formation out of the elementary intentionalities.
+  `husserl-krisis-commentary#h3-s-49-preliminary-concept-of-transcendental-constitution-as-original-formation-of` · Crisis § 49 · [§ 49 Preliminary concept of transcendental constitution as "original formation of meaning." The exemplary narrowness of the analyses carried out; indication of further horizons](https://faultynode.github.io/commentaries/commentaries/husserl/husserl-krisis-commentary.html#preliminary-concept-of-transcendental-constitution-as-original-formation-of-meaning-the-exemplary-narrowness-of-the-analyses-carried-out-indication-of-further-horizons)
+  > Through their systematic disclosure, the world that exists for us is made intelligible as a meaning-formation out of the elementary intentionalities.
+
+- **introduced** · `intentionalitaet/krisis/018` · *the life-world as intentional index*
+  With the establishment of the new direction of interest and its strict epoche, the plainly given life-world becomes a first intentional title, index, and guiding thread for the inquiry back into the manifolds of modes of appearance and their intentional structures.
+  `husserl-krisis-commentary#h3-s-50-first-ordering-of-all-working-problems-under-the-titles-ego-cogito-cogitatu` · Crisis § 50 · [§ 50 First ordering of all working problems under the titles: ego — cogito — cogitatum](https://faultynode.github.io/commentaries/commentaries/husserl/husserl-krisis-commentary.html#first-ordering-of-all-working-problems-under-the-titles-ego--cogito--cogitatum)
+  > it becomes a first intentional title, index, guiding thread for the inquiry back into the manifolds of modes of appearance and their intentional structures.
+
+- **introduced** · `intentionalitaet/krisis/019` · *self-objectivation of transcendental subjectivity*
+  The paradox of human subjectivity resolves once the transcendental ego is recognized not as a second ego behind the human one but as the human ego itself seen from within the transcendental attitude, so that the human being 'in' the world is the self-objectivation of transcendental subjectivity.
+  `husserl-krisis-commentary#h3-s-54-the-resolution-of-the-paradox` · Crisis § 54 · [§ 54 The resolution of the paradox](https://faultynode.github.io/commentaries/commentaries/husserl/husserl-krisis-commentary.html#the-resolution-of-the-paradox)
+  > The human being "in" the world is the self-objectivation of transcendental subjectivity.
+
+- **introduced** · `intentionalitaet/krisis/020` · *consciousness as intentional accomplishment*
+  The proper task of a reformed psychology is the explication of consciousness as intentional accomplishment (intentionale Leistung): every act of consciousness is an intending, a directing-itself-toward, and every object is the correlate of a system of intentional acts in which it is constituted.
+  `husserl-krisis-commentary#h3-s-68-the-task-of-an-explication-of-consciousness-as-intentional-accomplishment` · Crisis § 68 · [§ 68 The task of an explication of consciousness as intentional accomplishment](https://faultynode.github.io/commentaries/commentaries/husserl/husserl-krisis-commentary.html#the-task-of-an-explication-of-consciousness-as-intentional-accomplishment)
+  > every object is the correlate of a system of intentional acts in which it is constituted.
+
+- **introduced** · `intentionalitaet/krisis/021` · *intentional relatedness as internal*
+  The first characteristic of the phenomenological-psychological reduction is grasping the intentional relatedness of consciousness (every experience is an experience 'of' something), a relatedness that is not an external relation between two separately existing items but an internal structural feature of consciousness itself.
+  `husserl-krisis-commentary#h3-s-69-the-psychological-basic-method-of-the-phenomenological-psychological-reduct` · Crisis § 69 · [§ 69 The psychological basic method of the "phenomenological-psychological reduction"](https://faultynode.github.io/commentaries/commentaries/husserl/husserl-krisis-commentary.html#the-psychological-basic-method-of-the-phenomenological-psychological-reduction)
+  > This relatedness is not an external relation between two separately existing items but an internal structural feature of consciousness itself.
+
+- **introduced** · `intentionalitaet/krisis/022` · *the intentional object*
+  The paradox of the intentional object (not a real part of consciousness, yet inseparable from it) is not resolved by treating it as a mental representation between consciousness and the real thing, but by seeing that consciousness does not contain objects but intends them: the object 'in' consciousness is the object as meant, given, constituted, not a copy of a reality lying elsewhere.
+  `husserl-krisis-commentary#h3-s-70-the-difficulties-of-psychological-abstraction-paradoxes-of-the-intentional` · Crisis § 70 · [§ 70 The difficulties of "psychological abstraction." Paradoxes of the "intentional object"](https://faultynode.github.io/commentaries/commentaries/husserl/husserl-krisis-commentary.html#the-difficulties-of-psychological-abstraction-paradoxes-of-the-intentional-object)
+  > The object "in" consciousness is the object as meant, as given, as constituted — not a copy or image of a reality lying elsewhere.
+
+- **introduced** · `intentionalitaet/krisis/023` · *the psychology / transcendental parallelism*
+  The psychological reduction investigates intentional life as the psychic life of human beings in the world, the transcendental reduction investigates the same intentional life as the constitutive ground of the world; the content is the same and the meaning is transformed when the psychologist recognizes that the presupposed world is itself a constitutive achievement of that life.
+  `husserl-krisis-commentary#h3-s-72-the-relation-of-transcendental-psychology-to-transcendental-philosophy-the` · Crisis § 72 · [§ 72 The relation of transcendental psychology to transcendental philosophy. The "parallelism" and the transition](https://faultynode.github.io/commentaries/commentaries/husserl/husserl-krisis-commentary.html#the-relation-of-transcendental-psychology-to-transcendental-philosophy-the-parallelism-and-the-transition)
+  > The psychological reduction investigates intentional life as the psychic life of human beings in the world; the transcendental reduction investigates the same intentional life as the constitutive ground of the world. The content is the same; the meaning is transformed.
+
+*Partial pass: Covers the Crisis's account of intentionality: intentionality as the essence of egological life (cogitatio/cogitatum) touched but undeveloped in Descartes; the disclosure of the anonymous, self-enclosed constituting subjectivity whose spiritual courses exercise the function of constituting meaning-formations; the meaning-beyond of perception and the synthesis of appearances as progressive meaning-enrichment; the universal correlation-a priori between things and their subjective givenness-ways, the horizon of co-functioning appearances, and the 1898 breakthrough that governed Husserl's whole life's work; kinaesthesis and the presentation-correlation, the hidden intentional if-then and the system of kinaesthetic possibility, validity-change (being into semblance), and the thing as the intersubjective unity nobody has really seen; the universal scope of the correlation across every sense and region; constitution as 'original formation of meaning', intentionality as the only genuine explanation, the world as a meaning-formation out of the elementary intentionalities, and the ego-cogito-cogitatum ordering with the life-world as intentional index; the human being as the self-objectivation of transcendental subjectivity; consciousness as intentional accomplishment, intentional relatedness as an internal structural feature rather than an external relation, the paradox of the intentional object, and the psychology/transcendental parallelism. Not covered: the crisis narrative, the Galileo analysis, and the Kant/Descartes/empiricism history in detail.*
 
 ## Reception layer
 
@@ -1731,7 +1852,6 @@
 
 *Where the theme's terms occur but no extraction pass has run. Silence in the sections above is silence about these files, not evidence of absence in them.*
 
-- `husserl-krisis-commentary` - 58 term hits, no record
 - `husserliana-39-die-lebenswelt-commentary` - 51 term hits, no record
 - `Reduction et donation Commentary` - 43 term hits, no record
 - `husserl-natur-und-geist-commentary` - 43 term hits, no record
