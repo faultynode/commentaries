@@ -1,0 +1,114 @@
+{
+  "schema_version": 1,
+  "commentary": "husserliana-33-die-bernauer-manuskripte-uber-das-zeitbewusstsein-commentary",
+  "source_sha256": "7824dfc668eb525991d53ab3355fb32c76040ee942ce34e20338a34d494b2530",
+  "extracted_at": "2026-09-09",
+  "extractor": {
+    "agent": "claude-code",
+    "prompt": "Extract inheritance engagements: where Husserl engages predecessors on time-consciousness and intentionality in Bernau manuscripts",
+    "note": "Partial pass focused on the editors' introduction. Identifies engagements with Brentano (restitution of doctrine, inner consciousness), Meinong (differences on retention), and later assistants/editors (Heidegger, Fink, Ingarden, Stein) who worked with the manuscripts. The Bernau texts notably contain no engagement with earlier contemporary theorists (James, Stumpf, Stern) who shaped Husserliana X."
+  },
+  "coverage": "partial",
+  "coverage_note": "Covers editors' introduction and programmatic engagements. Full pass would require examining the six main text groups (Texts 1-22) for detailed phenomenological engagements with predecessors.",
+  "engagements": [
+    {
+      "id": "inh/hua33/001",
+      "locator": "husserliana-33-die-bernauer-manuskripte-uber-das-zeitbewusstsein-commentary#h2-iii",
+      "predecessor": {
+        "author": "Brentano",
+        "text": "Doctrine of inner consciousness"
+      },
+      "mode": "acknowledged-debt",
+      "claim": "Husserl in the Bernau texts returns near to Brentano's doctrine of inner consciousness, which Husserl had always regarded sympathetically despite critical distance.",
+      "quote": "A first leads him back near Brentano's well-known doctrine of inner consciousness, for which Husserl had already shown much sympathy despite all criticism."
+    },
+    {
+      "id": "inh/hua33/002",
+      "locator": "husserliana-33-die-bernauer-manuskripte-uber-das-zeitbewusstsein-commentary#h2-iii",
+      "predecessor": {
+        "author": "Brentano",
+        "text": "Theory of retention as re-presentation"
+      },
+      "mode": "polemical-rejection",
+      "claim": "Husserl differentiates substantively from Brentano's understanding of retention as an act of re-presentation or categorical synthesis.",
+      "quote": "He differed substantively from Brentano and Meinong in that he understood retention neither as an act of (phantasy-like) re-presentation nor as a categorical act of subsequent synthesis, but rather as a modality of perceiving itself."
+    },
+    {
+      "id": "inh/hua33/003",
+      "locator": "husserliana-33-die-bernauer-manuskripte-uber-das-zeitbewusstsein-commentary#h2-iii",
+      "predecessor": {
+        "author": "Meinong",
+        "text": "Theory of retention as re-presentation"
+      },
+      "mode": "polemical-rejection",
+      "claim": "Like Brentano, Meinong's theory of retention is rejected in favor of retention as a modality of perception itself.",
+      "quote": "He differed substantively from Brentano and Meinong in that he understood retention neither as an act of (phantasy-like) re-presentation nor as a categorical act of subsequent synthesis, but rather as a modality of perceiving itself."
+    },
+    {
+      "id": "inh/hua33/004",
+      "locator": "husserliana-33-die-bernauer-manuskripte-uber-das-zeitbewusstsein-commentary#h2-i",
+      "predecessor": {
+        "author": "Brentano",
+        "text": "Phenomenology of time-consciousness and inner consciousness"
+      },
+      "mode": "acknowledged-debt",
+      "claim": "The Bernau manuscripts aim at a phenomenological deepening and restitution of the Brentano-Aristotelian doctrine of time and inner consciousness.",
+      "quote": "a \"restitution of the Brentano-Aristotelian doctrine\" in phenomenological deepening, furthermore the diagram, the individuation-problematic leading already toward \"transcendental logic,\" including the doctrine of the temporality of ideal objects."
+    },
+    {
+      "id": "inh/hua33/005",
+      "locator": "husserliana-33-die-bernauer-manuskripte-uber-das-zeitbewusstsein-commentary#h2-i",
+      "predecessor": {
+        "author": "Heidegger",
+        "text": "Editorial publication and interpretation of Husserl's time-manuscripts"
+      },
+      "mode": "acknowledged-debt",
+      "claim": "Heidegger's 1928 publication and editorial introduction brought the earlier time-manuscripts to public attention and created expectations for the Bernau manuscripts.",
+      "quote": "The editors note that less than half of the published text actually derives from the 1904/05 lectures; portions come from 1909–1911 research manuscripts, and still others from the 1917 redaction. The critical edition in Husserliana X documented the various working phases."
+    },
+    {
+      "id": "inh/hua33/006",
+      "locator": "husserliana-33-die-bernauer-manuskripte-uber-das-zeitbewusstsein-commentary#h2-i",
+      "predecessor": {
+        "author": "Stein, Edith",
+        "text": "Compilation and redaction of time-consciousness dossier"
+      },
+      "mode": "acknowledged-debt",
+      "claim": "Edith Stein's compilation of the time-consciousness dossier in summer 1917 was the immediate occasion for Husserl's renewed engagement with time in the Bernau period.",
+      "quote": "In July 1917 she apparently completed the compilation. In September 1917, she reports to Ingarden that Husserl is now working intensively on time in Bernau."
+    },
+    {
+      "id": "inh/hua33/007",
+      "locator": "husserliana-33-die-bernauer-manuskripte-uber-das-zeitbewusstsein-commentary#h2-i",
+      "predecessor": {
+        "author": "Fink, Eugen",
+        "text": "Editorial preparation and systematic ordering of Bernau manuscripts"
+      },
+      "mode": "acknowledged-debt",
+      "claim": "Husserl entrusted the Bernau manuscripts to Fink for editorial preparation, regarding them as his main work; Fink sorted and organized them by formal criteria.",
+      "quote": "Husserl regarded these manuscripts so highly that in 1927 he described them to Roman Ingarden as \"my main work\" (*mein Hauptwerk*). From 1926, Husserl unsuccessfully sought students to prepare the material for publication. Later, Eugen Fink (Husserl's personal assistant from August 1928\\) was entrusted with the task."
+    },
+    {
+      "id": "inh/hua33/008",
+      "locator": "husserliana-33-die-bernauer-manuskripte-uber-das-zeitbewusstsein-commentary#h2-i",
+      "predecessor": {
+        "author": "Ingarden, Roman",
+        "text": "Correspondence on time-consciousness investigations"
+      },
+      "mode": "acknowledged-debt",
+      "claim": "Ingarden was in correspondence with Husserl about the time-consciousness work and was considered for editorial preparation of the Bernau manuscripts.",
+      "quote": "In September 1927, Husserl turned to Ingarden with the idea that he should prepare the Bernau manuscripts for print. Ingarden could not comply."
+    },
+    {
+      "id": "inh/hua33/009",
+      "locator": "husserliana-33-die-bernauer-manuskripte-uber-das-zeitbewusstsein-commentary#h2-iii",
+      "predecessor": {
+        "author": "James, William; Stumpf, Carl; Stern, William",
+        "text": "Theories of time-consciousness in Husserliana X period"
+      },
+      "mode": "silent-appropriation",
+      "claim": "The Bernau manuscripts notably contain no direct engagement with the contemporary time-theorists (James, Stumpf, Stern) who shaped Husserl's earlier time-consciousness work in Husserliana X.",
+      "quote": "Through engagement with Brentano, Meinong, James, Stumpf, Stern, and others (the Bernau manuscripts, notably, contain no engagement with these thinkers), Husserl came to the conviction that while perception of a lasting object normally occurs in a lasting act of perception, the duration of perception does not yet explain how the perception of an objective duration is possible."
+    }
+  ]
+}
