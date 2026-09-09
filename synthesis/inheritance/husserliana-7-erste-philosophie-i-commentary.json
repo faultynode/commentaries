@@ -1,0 +1,96 @@
+{
+  "schema_version": 1,
+  "commentary": "husserliana-7-erste-philosophie-i-commentary",
+  "source_sha256": "caeb8c837e2fc6f2afe18b07a39cebcd9f50a3476698bd72417fd9cebd8c9703",
+  "extractor": {
+    "agent": "claude-code",
+    "prompt": "prompts/inheritance-prompt.md",
+    "note": "source_sha256 is the LF digest (CRLF checkout; local validate reports a false staleness, CI on LF passes). Erste Philosophie I is Husserl's 'critical history of ideas', so almost the whole text is predecessor engagement; this record covers the principal figures of the lecture cycle — Socrates, Plato, Aristotle, Descartes, Locke, Berkeley, Leibniz, Hume, and the rationalist line to Kant. One record per commentary covering all predecessors."
+  },
+  "extracted_at": "2026-09-09",
+  "coverage": "partial",
+  "coverage_note": "Covers the critical history of ideas of Erste Philosophie I: Socrates (the first to recognize the necessity of a universal method of reason, grasped as an intuitive apriori critique of reason completing itself in apodictic evidence), Plato (the Platonic idea of philosophy as rigorous science, whose impulses the whole development of European science imperfectly realizes), Aristotle (the grounding of psychology in the connection of the logical and ethical problematic, motivated by the sophistic attacks on cognition), Descartes (the great discovery of transcendentally pure subjectivity whose sense he could not possess — Columbus discovering a continent he took for a sea-route to India), Locke (not seeing the radical cognition-problem ancient skepticism posed, so pursuing the clarification of all science on a ground that makes it impossible), Berkeley (developing Lockean psychologism into a purely immanent philosophy and a first theory of transcendence on the ground of immanence), Leibniz (the monadology, near in result to Berkeley's theory but opposite in grounding-manner), Hume (the theories skeptically countersensical but their question-settings the first pre-forms of phenomenology's constitutive problems), and Kant and the rationalist line (constructive but not pioneering the regress to phenomenological origins, hence treated more summarily than empiricism). Not covered: the fine detail of the logic lectures and the closing lectures on metaphysics.",
+  "engagements": [
+    {
+      "id": "inh/hua7/001",
+      "locator": "husserliana-7-erste-philosophie-i-commentary#h3-second-lecture-plato-s-dialectic-and-the-idea-of-philosophical-science",
+      "primary_locator": "Erste Philosophie I, Second Lecture",
+      "predecessor": { "author": "Socrates" },
+      "mode": "acknowledged-debt",
+      "claim": "Husserl credits Socrates as the first to recognize the necessity of a universal method of reason and to grasp its basic sense, in modern terms, as an intuitive and apriori critique of reason, a method of clarifying self-reflections that completes itself in apodictic evidence.",
+      "quote": "He was the first to recognize the necessity of a universal method of reason, and recognized the basic sense of this method, expressed in modern terms, as an intuitive and apriori critique of reason."
+    },
+    {
+      "id": "inh/hua7/002",
+      "locator": "husserliana-7-erste-philosophie-i-commentary#h3-third-lecture-the-aristotelian-stoic-traditional-logic-as-a-logic-of-consequence",
+      "primary_locator": "Erste Philosophie I, Third Lecture",
+      "predecessor": { "author": "Plato" },
+      "mode": "acknowledged-debt",
+      "claim": "Husserl takes the Platonic idea of philosophy as rigorous science as the standard against which the whole development of European science is measured, asking how and to what extent the Platonic impulses play themselves out.",
+      "quote": "we have come to know the Platonic idea of philosophy. What now interests us above all is the development of European science — how and to what extent the Platonic impulses play themselves out."
+    },
+    {
+      "id": "inh/hua7/003",
+      "locator": "husserliana-7-erste-philosophie-i-commentary#h3-eighth-lecture-aristotle-s-grounding-of-psychology-and-the-basic-problem-of-a-ps",
+      "primary_locator": "Erste Philosophie I, Eighth Lecture",
+      "predecessor": { "author": "Aristotle", "text": "De Anima" },
+      "mode": "acknowledged-debt",
+      "claim": "Husserl traces Aristotle's grounding of psychology to antiquity's turning of a theoretical interest upon subjectivity from logic and ethics, where reason and unreason of every kind are names for human soul-faculties for spiritual accomplishments realized in science, practical wisdom, virtue, politics, and constitutions.",
+      "quote": "reason and unreason of every kind are names for human *soul-faculties* (*Seelenvermögen*), faculties for certain spiritual accomplishments realizing themselves in science, in practical wisdom and virtue, in politics, in constitutions."
+    },
+    {
+      "id": "inh/hua7/004",
+      "locator": "husserliana-7-erste-philosophie-i-commentary#h3-tenth-lecture-the-cartesian-meditations",
+      "primary_locator": "Erste Philosophie I, Tenth Lecture",
+      "predecessor": { "author": "René Descartes", "text": "Meditationes de prima philosophia" },
+      "mode": "destructive-appropriation",
+      "claim": "In the first two Meditations lies the great discovery of transcendentally pure, absolutely self-enclosed subjectivity aware of itself in absolute indubitability, but Descartes could not take possession of its proper sense: it went with him as with Columbus, who discovered a new continent yet supposed he had only found a sea-route to India.",
+      "quote": "it went with Descartes as with Columbus, who discovered the new continent but knew nothing of it and supposed merely to have discovered a new sea-route to the old India."
+    },
+    {
+      "id": "inh/hua7/005",
+      "locator": "husserliana-7-erste-philosophie-i-commentary#h3-twelfth-lecture-the-naive-dogmatism-of-objectivism",
+      "primary_locator": "Erste Philosophie I, Twelfth Lecture",
+      "predecessor": { "author": "John Locke", "text": "An Essay Concerning Human Understanding" },
+      "mode": "polemical-rejection",
+      "claim": "Locke did not see the radical cognition-problem that ancient skepticism had posed, so that although the Essay wants to be a theory of the understanding that ends the disputes of metaphysics and clarifies all the sciences, it pursues this on a ground that makes the wanted clarification impossible.",
+      "quote": "*Locke* did not see the radical cognition-problem that the ancient skepticism had posed, and so it is naturally not the theme of his *Essay*."
+    },
+    {
+      "id": "inh/hua7/006",
+      "locator": "husserliana-7-erste-philosophie-i-commentary#h3-twenty-first-lecture-berkeley-s-discovery-and-naturalistic-misinterpretation-of",
+      "primary_locator": "Erste Philosophie I, Twenty-first Lecture",
+      "predecessor": { "author": "George Berkeley" },
+      "mode": "destructive-appropriation",
+      "claim": "Husserl reads Berkeley as developing Lockean psychologism into a purely immanent philosophy in which immediately given are only our own ideas, the field of immediately evident inner experience, taken as the original field of all scientific clarification of cognition-problems.",
+      "quote": "Immediately given are only our own \"ideas,\" is only the field of our immediately evident inner experience; that must therefore be the original field of scientific-psychological research, and so also of the scientific clarification of all cognition-problems."
+    },
+    {
+      "id": "inh/hua7/007",
+      "locator": "husserliana-7-erste-philosophie-i-commentary#h3-twenty-second-lecture-berkeley-s-monadological-approach-comparison-with-leibniz",
+      "primary_locator": "Erste Philosophie I, Twenty-second Lecture",
+      "predecessor": { "author": "Gottfried Wilhelm Leibniz", "text": "Monadologie" },
+      "mode": "acknowledged-debt",
+      "claim": "Husserl marks the essential difference between Berkeley's first theory of transcendence on the ground of immanence and the contemporaneous Leibnizian monadology: as nearly related as they are in result, so different are they in their layout and their grounding-manner.",
+      "quote": "we also see the *essential difference* of the Berkeleyan theory from the contemporaneous Leibnizian *monadology*. As nearly related as they are in result, so different are they in their layout and their grounding-manner."
+    },
+    {
+      "id": "inh/hua7/008",
+      "locator": "husserliana-7-erste-philosophie-i-commentary#h3-twenty-fifth-lecture-the-constitution-problem-in-hume-but-its-ending-in-complete",
+      "primary_locator": "Erste Philosophie I, Twenty-fifth Lecture",
+      "predecessor": { "author": "David Hume", "text": "A Treatise of Human Nature" },
+      "mode": "destructive-appropriation",
+      "claim": "Hume's theories are only an unfolding of the countersense in his grounding principles, yet in their question-settings there mark themselves out, for the first time, problems of highest philosophical dignity that despite their skeptical devaluation are pre-forms of the constitutive main-problems of the new phenomenology.",
+      "quote": "in the question-settings for these theories there mark themselves out, *for the first time*, problems of highest philosophical dignity, which despite their naturalistic-skeptical devaluation are yet to be regarded as *pre-forms of constitutive main-problems of the new phenomenology*."
+    },
+    {
+      "id": "inh/hua7/009",
+      "locator": "husserliana-7-erste-philosophie-i-commentary#h3-twenty-sixth-lecture-the-basic-features-of-the-positively-constructing-line-of-m",
+      "primary_locator": "Erste Philosophie I, Twenty-sixth Lecture",
+      "predecessor": { "author": "Immanuel Kant" },
+      "mode": "acknowledged-debt",
+      "claim": "Husserl treats the great line of rationalism, from Descartes over Spinoza and Leibniz to Kant and Hegel, more summarily than empiricism, because for all its constructive achievement it did not pioneer the method of regress to the phenomenological origins of all cognition.",
+      "quote": "The great developmental line of rationalism, rich in so great thinkers — leading from Descartes over Spinoza, Leibniz to Kant and over him to Hegel — does not, for the present aim, demand the close critique empiricism received."
+    }
+  ]
+}
