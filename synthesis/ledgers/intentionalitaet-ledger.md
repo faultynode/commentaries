@@ -4,7 +4,7 @@
 
 *Partly worked already: commentaries/heidegger/heidegger-husserl-intentionality-article.md is a Stage 4 output written before this pipeline existed. Extract the commentaries, not that article.*
 
-452 units and 3 recorded absences from 22 commentaries.
+474 units and 3 recorded absences from 23 commentaries.
 
 ## Primary corpus, by composition or delivery date
 
@@ -1611,11 +1611,126 @@
 
 *Partial pass: Covers Ideas I SS 114-135 and 148-153 as summarised by this commentary: neutrality vs. positionality as a universal consciousness-difference, the extended concept of act and act-stirrings, founded noeses and the new dimension of value-sense, the archontic thesis and the objectivating character of all acts, polythetic/monothetic conversion and nominalization, the expressive Logos layer (Sinn/Bedeutung), the noematic content/sense and the determinable X, the noematic proposition, object-consciousness correlation and the turn to reason, and the problem of phenomenological constitution across regions. Not covered: SS 111-113, 126-127, and the phenomenology-of-reason chapter (SS 136-147).*
 
+### undated - Hua 5 - Ideas III
+
+`husserliana-5-ideas-iii-commentary`
+
+- **introduced** · `intentionalitaet/hua5/001` · *eidetic analysis of apprehensions*
+  The phenomenological analyses take the singular experiential datum only as an exemplar and move at once into the essential attitude, researching eidetically the possibilities enclosed in the essence of certain apprehensions to pass over into intuitive series, fulfil themselves harmoniously, and unfold their sense, the sense of what is meant in them.
+  `husserliana-5-ideas-iii-commentary#h3-s5-the-relation-of-phenomenology-to-the-sciences` · Ideas III § 5 · [§5. The Relation of Phenomenology to the Sciences](https://faultynode.github.io/commentaries/commentaries/husserl/husserliana-5-ideas-iii-commentary.html#the-relation-of-phenomenology-to-the-sciences)
+  > the investigation always moved immediately into the essential attitude, researching eidetically what belongs to the essence, the possibilities enclosed in the essence of certain apprehensions to pass over into intuitive series and experiential series, to fulfill themselves harmoniously therein, to unfold their sense — i.e., the sense of what is meant in them, of the experienced as such
+
+- **introduced** · `intentionalitaet/hua5/002` · *originarily giving intuition determines method*
+  The method of all sciences must be determined by the kind of originarily giving intuition essentially belonging to the object-category to which the science is related, that is, by the fundamental kind of originary apprehension.
+  `husserliana-5-ideas-iii-commentary#h3-s5-the-relation-of-phenomenology-to-the-sciences` · Ideas III § 5 · [§5. The Relation of Phenomenology to the Sciences](https://faultynode.github.io/commentaries/commentaries/husserl/husserliana-5-ideas-iii-commentary.html#the-relation-of-phenomenology-to-the-sciences)
+  > the method of all sciences must be determined by the kind of originarily giving intuition essentially belonging to the object-category to which the science is related — that is, the fundamental kind of originary apprehension.
+
+- **introduced** · `intentionalitaet/hua5/003` · *object-category / constitutive apprehension*
+  To the different object-categories there must correspond essentially different constitutive apprehensions and hence different fundamental forms of originarily giving acts.
+  `husserliana-5-ideas-iii-commentary#h3-s5-the-relation-of-phenomenology-to-the-sciences` · Ideas III § 5 · [§5. The Relation of Phenomenology to the Sciences](https://faultynode.github.io/commentaries/commentaries/husserl/husserliana-5-ideas-iii-commentary.html#the-relation-of-phenomenology-to-the-sciences)
+  > to the different object-categories there must correspond essentially different constitutive apprehensions and hence different fundamental forms of originarily giving acts.
+
+- **introduced** · `intentionalitaet/hua5/004` · *logical essence / intuitive noema*
+  A word-meaning as logical essence is valid only if the logical thinking that actualizes it is adaptable to a corresponding intuiting, so that the logical essence constituting itself in pure thought and the intuitive noema stand in the definite essential relation of 'adequate expression'.
+  `husserliana-5-ideas-iii-commentary#h3-s7-regional-concepts-and-genus-concepts` · Ideas III § 7 · [§7. Regional Concepts and “Genus”-Concepts](https://faultynode.github.io/commentaries/commentaries/husserl/husserliana-5-ideas-iii-commentary.html#regional-concepts-and-genus-concepts)
+  > The logical essence constituting itself in pure thought and the intuitive noema stand in the definite essential relation of "adequate expression."
+
+- **introduced** · `intentionalitaet/hua5/005` · *noematic essences as sense-norms*
+  The noematic essences constitute the sense belonging to the objectivity that is intuited or thought, and every pure essential truth grounding in these essences prescribes an unconditionally valid norm for possible objectivities of such sense.
+  `husserliana-5-ideas-iii-commentary#h3-s7-regional-concepts-and-genus-concepts` · Ideas III § 7 · [§7. Regional Concepts and “Genus”-Concepts](https://faultynode.github.io/commentaries/commentaries/husserl/husserliana-5-ideas-iii-commentary.html#regional-concepts-and-genus-concepts)
+  > these noematic essences constitute the sense belonging to the objectivity that is intuited or thought, and that every pure essential truth grounding in these essences prescribes an unconditionally valid norm for possible objectivities of such sense.
+
+- **introduced** · `intentionalitaet/hua5/006` · *a priori of thing-perception*
+  An a priori is truly inscribed in the course of all possible experience, prescribed by the essence of thingly perception as a fundamental kind of perception, so that the idea of the thing designates a regional framework to which all closer determination of an indeterminately posited object is a priori bound.
+  `husserliana-5-ideas-iii-commentary#h3-s7-regional-concepts-and-genus-concepts` · Ideas III § 7 · [§7. Regional Concepts and “Genus”-Concepts](https://faultynode.github.io/commentaries/commentaries/husserl/husserliana-5-ideas-iii-commentary.html#regional-concepts-and-genus-concepts)
+  > an a priori is truly inscribed in the course of all possible experience, obviously prescribed by the essence of thingly perception as a fundamental kind of perception or experience.
+
+- **introduced** · `intentionalitaet/hua5/007` · *regional concept / sense-form of giving intuition*
+  To each fundamental kind of originarily giving intuition there corresponds a regional concept circumscribing its sense-form and an object-region spanning all objects to which this sense is attributed, with founded kinds of giving intuition yielding founded regional concepts and object-regions.
+  `husserliana-5-ideas-iii-commentary#h3-s7-regional-concepts-and-genus-concepts` · Ideas III § 7 · [§7. Regional Concepts and “Genus”-Concepts](https://faultynode.github.io/commentaries/commentaries/husserl/husserliana-5-ideas-iii-commentary.html#regional-concepts-and-genus-concepts)
+  > To each such fundamental kind there evidently corresponds a regional concept circumscribing the sense-form of the respective fundamental kind of giving intuition, and correspondingly an object-region spanning all objects to which this sense is attributed.
+
+- **introduced** · `intentionalitaet/hua5/008` · *fundamental kinds of giving consciousness*
+  In the essence of originarily giving consciousness in general, cardinal divisions according to fundamental kinds are grounded, and to seek them out systematically and describe them scientifically is one of the foremost tasks of phenomenology.
+  `husserliana-5-ideas-iii-commentary#h3-s7-regional-concepts-and-genus-concepts` · Ideas III § 7 · [§7. Regional Concepts and “Genus”-Concepts](https://faultynode.github.io/commentaries/commentaries/husserl/husserliana-5-ideas-iii-commentary.html#regional-concepts-and-genus-concepts)
+  > In the essence of originarily giving consciousness in general, cardinal divisions according to fundamental kinds are grounded, and to seek them out systematically and describe them scientifically is one of the foremost tasks of phenomenology.
+
+- **revised** · `intentionalitaet/hua5/009` · *Brentano and the idea of intentionality*
+  Brentano won epoch-making merits for the very enabling of phenomenology by offering the modern age, drawn from consciousness itself in immanent description, the idea of intentionality; but he often oversteps pure description and the essence of intentional analysis he did not see.
+  `husserliana-5-ideas-iii-commentary#h3-s10-the-relation-of-phenomenology-to-the-writings-of-bolzano-lotze-and-brentano` · Ideas III § 10 · [§10. The Relation of Phenomenology to the Writings of Bolzano, Lotze, and Brentano](https://faultynode.github.io/commentaries/commentaries/husserl/husserliana-5-ideas-iii-commentary.html#the-relation-of-phenomenology-to-the-writings-of-bolzano-lotze-and-brentano)
+  > He offered the modern age — drawn from consciousness itself in immanent description — the idea of intentionality
+
+- **introduced** · `intentionalitaet/hua5/010` · *the phenomenological residuum as noema*
+  In transcendental experiencing all transcendent being is bracketed, and what alone should remain is consciousness itself in its own essence, and in place of transcendent being the 'being-meant' of what is transcendent, all kinds of correlates, the meanings, the noemata.
+  `husserliana-5-ideas-iii-commentary#h3-s13-the-field-of-phenomenological-research` · Ideas III § 13 · [§13. The Field of Phenomenological Research](https://faultynode.github.io/commentaries/commentaries/husserl/husserliana-5-ideas-iii-commentary.html#the-field-of-phenomenological-research)
+  > What alone should remain is "consciousness itself" in its own essence, and in place of transcendent being, the "being-meant" of what is transcendent and thus all kinds of correlates, the meanings, the noemata.
+
+- **introduced** · `intentionalitaet/hua5/011` · *noesis and noema retained*
+  After excluding the actual being of the perceived, one can evidently say that perception is in its essence perception of this and that objectual content, means it, is consciousness of it; so one retains noesis and noema, and on the noematic side several fundamentally essential distinctions.
+  `husserliana-5-ideas-iii-commentary#h3-s13-the-field-of-phenomenological-research` · Ideas III § 13 · [§13. The Field of Phenomenological Research](https://faultynode.github.io/commentaries/commentaries/husserl/husserliana-5-ideas-iii-commentary.html#the-field-of-phenomenological-research)
+  > we can evidently say that perception is in its essence perception of this and that objectual content — it means it, is consciousness of it
+
+- **introduced** · `intentionalitaet/hua5/012` · *noema vs. essence*
+  The noema of a clear thing-intuition is not and does not contain the essence of the thing: the grasping of the one is not the grasping of the other, though an essential change of attitude is possible through which the grasping of the noema passes over into the grasping of the corresponding ontic essence.
+  `husserliana-5-ideas-iii-commentary#h3-s16-noema-and-essence` · Ideas III § 16 · [§16. Noema and Essence](https://faultynode.github.io/commentaries/commentaries/husserl/husserliana-5-ideas-iii-commentary.html#noema-and-essence)
+  > The grasping of the one is not the grasping of the other, although here an essential change of attitude and direction of grasping is possible through which the grasping of the noema can pass over into the grasping of the corresponding ontic essence.
+
+- **introduced** · `intentionalitaet/hua5/013` · *objectivity as unity-moment of the noema*
+  The objectivity appears in the noema as a unity-moment that different noemata can have as 'identical', the word 'identical' rightly put in quotation marks.
+  `husserliana-5-ideas-iii-commentary#h3-s16-noema-and-essence` · Ideas III § 16 · [§16. Noema and Essence](https://faultynode.github.io/commentaries/commentaries/husserl/husserliana-5-ideas-iii-commentary.html#noema-and-essence)
+  > The objectivity appears in the noema as a unity-moment that different noemata can have as "identical" — but in quotation marks
+
+- **introduced** · `intentionalitaet/hua5/014` · *the being of the absurd noema*
+  A logical meaning can be 'absurd', like 'round square', and yet it still exists within the being-category 'logical meaning' and more generally 'noema' and has its actual being, since to judge that the essence 'round square' does not exist presupposes that 'round square' is a meaning existing in this unity.
+  `husserliana-5-ideas-iii-commentary#h3-s16-noema-and-essence` · Ideas III § 16 · [§16. Noema and Essence](https://faultynode.github.io/commentaries/commentaries/husserl/husserliana-5-ideas-iii-commentary.html#noema-and-essence)
+  > the thought as such (logical meaning in the noematic sense) can be "absurd" — yet it, which still "exists" within the being-category "logical meaning" and more generally "noema," has its actual being, like the thought-meaning "round square."
+
+- **introduced** · `intentionalitaet/hua5/015` · *parallel of psychology and phenomenology*
+  Every phenomenological description passes through psychological apprehension into a psychological one regarding the experiences of an experiencing soul, just as conversely every description of psychic experiences passes, through the ideally possible eidetic and de-realizing reduction, into a purely phenomenological one.
+  `husserliana-5-ideas-iii-commentary#h3-s17-the-significance-of-ontological-concepts-for-psychology` · Ideas III § 17 · [§17. The Significance of Ontological Concepts for Psychology](https://faultynode.github.io/commentaries/commentaries/husserl/husserliana-5-ideas-iii-commentary.html#the-significance-of-ontological-concepts-for-psychology)
+  > Every phenomenological description passes through psychological apprehension into a psychological one regarding the experiences of an experiencing soul, just as conversely every description of psychic experiences passes, through the ideally possible reduction (eidetic and purifying from realization), into a purely phenomenological one.
+
+- **introduced** · `intentionalitaet/hua5/016` · *clarification as noematic coincidence*
+  In clarification, as distinct from mere elucidation within the thinking-sphere, one transcends the sphere of word-meanings and brings meanings to coincidence with the noematic of intuition, so completely that to every partial concept extracted by elucidation there corresponds an explicated moment of the intuitive noema.
+  `husserliana-5-ideas-iii-commentary#h3-s20-elucidation-and-clarification` · Ideas III § 20 · [§20. Elucidation and Clarification](https://faultynode.github.io/commentaries/commentaries/husserl/husserliana-5-ideas-iii-commentary.html#elucidation-and-clarification)
+  > In clarification we transcend the sphere of mere word-meanings and meaning-thinking; we bring meanings to coincidence with the noematic of intuition, the noematic object of the former with that of the latter.
+
+- **introduced** · `intentionalitaet/hua5/017` · *phenomenology as mother-soil of ontology*
+  All eidetic axioms can, in the context of phenomenology, be found through mere execution of the change of gaze and corresponding positing, so that phenomenology contains the mother-soil from which all ontological insights originate, while owing nothing to the other ontologies.
+  `husserliana-5-ideas-iii-commentary#h3-s20-elucidation-and-clarification` · Ideas III § 20 · [§20. Elucidation and Clarification](https://faultynode.github.io/commentaries/commentaries/husserl/husserliana-5-ideas-iii-commentary.html#elucidation-and-clarification)
+  > so that phenomenology contains the mother-soil from which all ontological insights originate.
+
+- **introduced** · `intentionalitaet/hua5/018` · *empathy / interpretation of intentional experiences*
+  A thing is apprehended as an ensouled body by having courses of consciousness interpreted into it, and in empathy or interpretation (Eindeutung) the body is understood as a bearer of the psychic, not only of sensations but also of 'acts', of intentional experiences, with a pure subject belonging to the content of the interpretation.
+  `husserliana-5-ideas-iii-commentary#h4-s1-the-constitution-of-the-soul-empathy` · Ideas III, Supplement I § 1 · [§1. The Constitution of the Soul (Empathy)](https://faultynode.github.io/commentaries/commentaries/husserl/husserliana-5-ideas-iii-commentary.html#the-constitution-of-the-soul-empathy)
+  > In empathy or interpretation (Eindeutung), the body is understood as a body — first simply as a bearer of the psychic, and not only of sensations but also of "acts," of intentional experiences.
+
+- **introduced** · `intentionalitaet/hua5/019` · *the soul as noematic representation*
+  The soul does not appear in the sense of adumbrating; it becomes presentive to every pure consciousness in a mere noematic 'representation'-appearance, and apprehended as objective being it is the unity manifesting itself in all these representations and verifying itself in mutual understanding.
+  `husserliana-5-ideas-iii-commentary#h4-s1-the-constitution-of-the-soul-empathy` · Ideas III, Supplement I § 1 · [§1. The Constitution of the Soul (Empathy)](https://faultynode.github.io/commentaries/commentaries/husserl/husserliana-5-ideas-iii-commentary.html#the-constitution-of-the-soul-empathy)
+  > The soul does not appear in the sense of adumbrating; the soul does become presentive to every pure consciousness in a mere noematic "representation"-appearance.
+
+- **introduced** · `intentionalitaet/hua5/020` · *description of the intentional object as such*
+  Concrete description of consciousness-experiences necessarily requires also the description of the objects conscious (intended) in the respective experiences 'as such', as they inseparably belong to the experience itself as its objective meaning.
+  `husserliana-5-ideas-iii-commentary#h3-section-6` · Ideas III, Afterword Section 6 · [Section 6](https://faultynode.github.io/commentaries/commentaries/husserl/husserliana-5-ideas-iii-commentary.html#section-6)
+  > Concrete description of consciousness-experiences necessarily requires also the description of the objects conscious (intended) in the respective experiences "as such" — as they inseparably belong to the experience itself as its objective meaning.
+
+- **introduced** · `intentionalitaet/hua5/021` · *intentional object as index of consciousness-manifolds*
+  One and the same intentional object as such is, in purely inner-psychological regard, an ideal index for a manifold of firmly correlated consciousness-modes whose typics essentially belongs together with the typical kind of the intentional object.
+  `husserliana-5-ideas-iii-commentary#h3-section-6` · Ideas III, Afterword Section 6 · [Section 6](https://faultynode.github.io/commentaries/commentaries/husserl/husserliana-5-ideas-iii-commentary.html#section-6)
+  > one and the same intentional object as such is, in purely inner-psychological regard, an ideal index for a manifold of firmly correlated consciousness-modes whose typics essentially belongs together with the typical kind of the intentional object.
+
+- **introduced** · `intentionalitaet/hua5/022` · *constitutive analysis of the object-categories*
+  One must not merely say every consciousness is consciousness-of and then distinguish types, but must interrogate the different categories of objects purely as such of possible consciousness and trace back the essential forms of possible manifolds through whose synthesis the consciousness of identity of an object of the relevant category comes about.
+  `husserliana-5-ideas-iii-commentary#h3-section-6` · Ideas III, Afterword Section 6 · [Section 6](https://faultynode.github.io/commentaries/commentaries/husserl/husserliana-5-ideas-iii-commentary.html#section-6)
+  > One must not merely say every consciousness is consciousness-of and then distinguish types; one must interrogate the different categories of "objects" — purely as such of possible consciousness — and trace back the essential forms of possible "manifolds" through whose synthesis the consciousness of identity of a respective object of the relevant category comes about.
+
+*Partial pass: Covers Ideas III's methodological treatment of intentionality: the eidetic analysis of apprehensions and their possibilities of harmonious fulfilment; the correlation of every object-category with an essentially different constitutive apprehension and fundamental form of originarily giving intuition, and the derivation of method from that intuition; regional concepts as circumscribing the sense-form of a fundamental kind of giving intuition, and the a priori of thing-perception; the essential relation of 'adequate expression' between the logical essence and the intuitive noema, and noematic essences as the sense-norm for possible objectivities; the phenomenological residuum as noesis and noema, the distinction of noema and ontic essence, the objectivity as a unity-moment of the noema and the being of the absurd noema; the parallel of psychology and phenomenology through eidetic reduction; clarification as bringing meanings to coincidence with the noematic of intuition, and phenomenology as the mother-soil of ontology; the constitution of the soul through empathy/interpretation of intentional experiences and the soul as noematic representation; the description of the intentional object as such and the intentional object as an ideal index of correlated consciousness-manifolds; and the appraisal of Brentano as the source of the idea of intentionality who nonetheless missed the essence of intentional analysis. Not covered: the material-nature and body/somatology chapters and the detailed psychology-classification material.*
+
 ## Not covered by this ledger
 
 *Where the theme's terms occur but no extraction pass has run. Silence in the sections above is silence about these files, not evidence of absence in them.*
 
-- `husserliana-5-ideas-iii-commentary` - 59 term hits, no record
 - `husserl-krisis-commentary` - 58 term hits, no record
 - `husserliana-39-die-lebenswelt-commentary` - 51 term hits, no record
 - `Reduction et donation Commentary` - 43 term hits, no record
