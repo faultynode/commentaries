@@ -1,0 +1,134 @@
+{
+  "schema_version": 1,
+  "theme": "intentionalitaet",
+  "commentary": "henry-the-essence-of-manifestation-commentary",
+  "source_sha256": "81321687b3823d9c3244b29758d979f86bd9d4ac28813fa58686aa2e9446ff68",
+  "extracted_at": "2026-09-08",
+  "extractor": {
+    "agent": "claude-code",
+    "prompt": "prompts/extraction-prompt.md",
+    "note": "source_sha256 is the LF digest (CRLF checkout; local validate reports a false staleness, CI on LF passes). The commentary is ~280,000 words; this is a targeted pass on the two sections where intentionality is directly at stake: § 18 (the two senses of 'representation'; the horizon that cannot be thematized) and § 54 (the critique of 'intentional affectivity'). Not read: the Introduction, Sections I-II otherwise, and Sections III-V otherwise (ontological monism, immanence, the invisible, Eckhart, affectivity). In this book intentionality is the structure Henry names 'ontological monism' and rejects in favour of a non-intentional immanent auto-affection. No chronology.json entry yet (P5 pending; French original 1963)."
+  },
+  "coverage": "partial",
+  "coverage_note": "Covers § 18 (the concept of representation) and § 54 (the problem of 'intentional affectivity'): the distinction between representation as a particular noetic act and representation as the ontological structure of consciousness, the horizon as the non-thematizable 'object' of universal consciousness, the ontological/existential distinction, and the dismantling of the intentionalist theory of the emotions (Brentano, Husserl, Scheler, Sartre) in favour of affectivity as the non-intentional foundation of the transcendence that deploys the horizon. Not covered: the Introduction and the rest of Sections I-V.",
+  "units": [
+    {
+      "id": "intentionalitaet/henry-em/001",
+      "locator": "henry-the-essence-of-manifestation-commentary#h2-s-18-the-concept-of-representation-ontological-structure-and-existential-underst",
+      "primary_locator": "The Essence of Manifestation, § 18",
+      "term": "two senses of representation",
+      "status": "criticized",
+      "claim": "The word representation has two structurally different senses that the phenomenological tradition has failed to distinguish: the narrow Husserlian sense of a particular noetic act thematically intending an object, and the broad ontological sense in which representation is the very structure of consciousness as such (Heidegger's Vor-stellen).",
+      "quote": "Sense (i) — the *narrow*, Husserlian sense: representation is a particular noetic act in which consciousness thematically intends an object; the object is given as a noematic correlate of the noetic aim."
+    },
+    {
+      "id": "intentionalitaet/henry-em/002",
+      "locator": "henry-the-essence-of-manifestation-commentary#h2-s-18-the-concept-of-representation-ontological-structure-and-existential-underst",
+      "primary_locator": "The Essence of Manifestation, § 18",
+      "term": "representation as determinate mode of the life of consciousness",
+      "status": "presupposed",
+      "claim": "Representation in the narrow sense is a determinate mode of the life of consciousness which includes within itself, as irreal noematic correlate, the object in the presence of which this life holds itself in that mode of existence.",
+      "quote": "Representation so understood is a *determinate mode of the life of consciousness*; and it includes within itself, as irreal noematic correlate, the \"object\" in the presence of which this life holds itself in this determinate mode of existence which is then its own."
+    },
+    {
+      "id": "intentionalitaet/henry-em/003",
+      "locator": "henry-the-essence-of-manifestation-commentary#h2-s-18-the-concept-of-representation-ontological-structure-and-existential-underst",
+      "primary_locator": "The Essence of Manifestation, § 18",
+      "term": "objectification of being",
+      "status": "criticized",
+      "claim": "Even philosophical consciousness, in trying to think being, distorts being by treating it as just another thematic object, which is the structural failure of all representational philosophies of being, including Husserl's transcendental phenomenology and Heidegger's fundamental ontology insofar as they remain within representational thinking.",
+      "quote": "even philosophical consciousness, in its very attempt to think being, distorts being by treating it as just another object. This is the structural failure of all representational philosophies of being — including, Henry will argue, Husserl's transcendental phenomenology and Heidegger's fundamental ontology insofar as they remain within the structure of representational thinking."
+    },
+    {
+      "id": "intentionalitaet/henry-em/004",
+      "locator": "henry-the-essence-of-manifestation-commentary#h2-s-18-the-concept-of-representation-ontological-structure-and-existential-underst",
+      "primary_locator": "The Essence of Manifestation, § 18",
+      "term": "the horizon that cannot be thematized",
+      "status": "criticized",
+      "claim": "The object of consciousness in its universal essence is objectivity, being itself under the form of a horizon, and to the essence of the horizon it belongs not to let itself be thematized, so that the representation of universal consciousness is the manifestation-of-self of this horizon.",
+      "quote": "*The object of consciousness in its universal essence is objectivity, being itself under the form of a horizon. The representation of consciousness in its universal essence is the representation of the horizon.*"
+    },
+    {
+      "id": "intentionalitaet/henry-em/005",
+      "locator": "henry-the-essence-of-manifestation-commentary#h2-s-18-the-concept-of-representation-ontological-structure-and-existential-underst",
+      "primary_locator": "The Essence of Manifestation, § 18",
+      "term": "ontological structure / existential determination",
+      "status": "introduced",
+      "claim": "The ontological structure of consciousness, the manifestation-of-self of being, is at once indifferent and immanent to the existential determinations of consciousness, so that the opposition of natural consciousness and true knowledge is inessential.",
+      "quote": "*the ontological structure of consciousness is at once indifferent and immanent to the existential determinations of consciousness*."
+    },
+    {
+      "id": "intentionalitaet/henry-em/006",
+      "locator": "henry-the-essence-of-manifestation-commentary#h2-s-54-ontological-interpretation-of-affectivity-as-the-foundation-of-affection-th",
+      "primary_locator": "The Essence of Manifestation, § 54",
+      "term": "affectivity as condition of transcendence",
+      "status": "introduced",
+      "claim": "Immanence is the condition of transcendence, the reality of the act that sets a horizon over against itself, so that affectivity is the condition of sensibility and sensing is possible only as affective.",
+      "quote": "immanence is the condition of transcendence, the reality of the act that sets a horizon over against itself; affectivity is therefore the condition of sensibility."
+    },
+    {
+      "id": "intentionalitaet/henry-em/007",
+      "locator": "henry-the-essence-of-manifestation-commentary#h2-s-54-ontological-interpretation-of-affectivity-as-the-foundation-of-affection-th",
+      "primary_locator": "The Essence of Manifestation, § 54",
+      "term": "the asymmetry of affectivity and sensibility",
+      "status": "introduced",
+      "claim": "The eidetic law governing the ultimate domain of the ground reads in two clauses that must not be run together: affectivity is never sensible; sensibility is constantly affective.",
+      "quote": "The eidetic law governing the ultimate domain of the ground reads in two clauses that must not be run together: affectivity is never sensible; sensibility is constantly affective."
+    },
+    {
+      "id": "intentionalitaet/henry-em/008",
+      "locator": "henry-the-essence-of-manifestation-commentary#h2-s-54-ontological-interpretation-of-affectivity-as-the-foundation-of-affection-th",
+      "primary_locator": "The Essence of Manifestation, § 54",
+      "term": "the world given only as what moves us",
+      "status": "introduced",
+      "claim": "Sensibility is transcendence itself as affective in its essence, and the affection of transcendence by the world is conditioned by auto-affection, so that the world can be given to us only as what touches and moves us.",
+      "quote": "the affection of transcendence by the world is conditioned by auto-affection. Sensibility is transcendence itself as affective in its essence."
+    },
+    {
+      "id": "intentionalitaet/henry-em/009",
+      "locator": "henry-the-essence-of-manifestation-commentary#h2-s-54-ontological-interpretation-of-affectivity-as-the-foundation-of-affection-th",
+      "primary_locator": "The Essence of Manifestation, § 54",
+      "term": "break with Gleichursprünglichkeit",
+      "status": "criticized",
+      "claim": "Henry explicitly breaks with Sein und Zeit by denying the equiprimordiality of Befindlichkeit and Verstehen, since their bond is one of foundation: affectivity has already done its work when the world rises.",
+      "quote": "This is the explicit break with *Sein und Zeit*: Heidegger's equiprimordiality of *Befindlichkeit* and *Verstehen* is exactly the thesis Henry denies, because their bond is one of foundation."
+    },
+    {
+      "id": "intentionalitaet/henry-em/010",
+      "locator": "henry-the-essence-of-manifestation-commentary#h2-s-54-ontological-interpretation-of-affectivity-as-the-foundation-of-affection-th",
+      "primary_locator": "The Essence of Manifestation, § 54",
+      "term": "every positing act as affective",
+      "status": "revised",
+      "claim": "Henry accepts Husserl's refutation of the feeling-theory of evidence (evidence is a special mode of positing, not a tonality) and turns it: every positing act, in its original self-affection as self-feeling, is in itself an affective phenomenon, the bond being one of foundation and so not contingent.",
+      "quote": "Every positing act, in whatever mode it is accomplished, including the case where thought gives itself the intuitive fulfilment of the meaning it intends, is in itself — in its original self-affection, as self-feeling — an affective phenomenon."
+    },
+    {
+      "id": "intentionalitaet/henry-em/011",
+      "locator": "henry-the-essence-of-manifestation-commentary#h2-s-54-ontological-interpretation-of-affectivity-as-the-foundation-of-affection-th",
+      "primary_locator": "The Essence of Manifestation, § 54",
+      "term": "eidetic correlation of tonality and noetic-noematic structure",
+      "status": "revised",
+      "claim": "The eidetic correlations between acts' affective tonalities and their noetic-noematic structure are universal and concern every possible intentional act, so that the feelings things provoke in us are the consciousness of their constitution.",
+      "quote": "The eidetic correlations between acts' affective tonalities and their noetic-noematic structure are not confined to evidence or to judgement; they are universal and concern every possible intentional act."
+    },
+    {
+      "id": "intentionalitaet/henry-em/012",
+      "locator": "henry-the-essence-of-manifestation-commentary#h2-s-54-ontological-interpretation-of-affectivity-as-the-foundation-of-affection-th",
+      "primary_locator": "The Essence of Manifestation, § 54",
+      "term": "the thesis that affectivity is intentional",
+      "status": "criticized",
+      "claim": "Modern philosophy (Brentano, Husserl, Scheler, Sartre) gives out as a discovery the thesis that affectivity is intentional, consciousness of something (love has an object, hatred is of Peter or Paul); Henry dismantles it by asking how affectivity can be understanding if nothing is more repugnant to its essence than transcendence.",
+      "quote": "how can affectivity be understanding, capable of grasping and living transcendent significations, if nothing is more repugnant to its essence than transcendence, if the deployment of a horizon of understanding is what is most foreign to it?"
+    },
+    {
+      "id": "intentionalitaet/henry-em/013",
+      "locator": "henry-the-essence-of-manifestation-commentary#h2-s-54-ontological-interpretation-of-affectivity-as-the-foundation-of-affection-th",
+      "primary_locator": "The Essence of Manifestation, § 54",
+      "term": "affectivity as foundation, not grasping",
+      "status": "criticized",
+      "claim": "Against the intentionalist claim, affectivity is the universal foundation of all phenomena and determines them all originally as affective; it is not the grasping of the horizon but the reality of the act that grasps, the affectivity of phenomena residing in the auto-affection of the transcendence that deploys the horizon.",
+      "quote": "affectivity is the universal foundation of all phenomena and determines them all originally as affective. The affectivity of phenomena resides in the auto-affection of the transcendence that deploys the horizon. Affectivity is not the grasping of the horizon but the reality of the act that grasps"
+    }
+  ],
+  "absences": []
+}
