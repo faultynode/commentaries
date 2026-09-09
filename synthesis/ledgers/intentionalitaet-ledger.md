@@ -4,7 +4,7 @@
 
 *Partly worked already: commentaries/heidegger/heidegger-husserl-intentionality-article.md is a Stage 4 output written before this pipeline existed. Extract the commentaries, not that article.*
 
-383 units and 3 recorded absences from 19 commentaries.
+407 units and 3 recorded absences from 20 commentaries.
 
 ## Primary corpus, by composition or delivery date
 
@@ -1157,6 +1157,132 @@
 
 *Partial pass: Covers the strands of FTL and its commentary where intentionality is directly thematic: Besinnung as the actual production of the meant sense and the whole work as an intentional explication of the sense of formal logic that goes back to the constituting intentionality of logicians and scientists; the diagnosis that the positive sciences fail to grasp their achievements as achievements of an intentionality unthematic for them; the two-sidedness of logic and the constitutive correlate of every objective-logical formation; the anonymity of functioning intentionality; the objectual direction of judging and categorial forms as intentional positional correlates; the constitutive-idealist thesis about nature; evidence as the distinguished mode of intentionality (self-giving) and as original institution of sense and being; the fundamental lawfulness of intentionality (the open manifold of consciousness-modes of the same, the teleology toward reason); the correlation of object-category and evidence-category; the object as identity-pole; the ideality/transcendence of all intentional unities; static vs. genetic intentional analysis, the Urstiftung of apperception for every object-category, and retentional sedimentation into the 'unconscious' as a limit-mode of consciousness. Not covered: the technical apophantic-analytics/formal-ontology material (§§ 12-54), the psychologism chapters in full, the idealizing presuppositions of logic, and the transcendental-phenomenological conclusion.*
 
+### undated - Husserl Cartesian Meditations Analysis
+
+`husserliana-1-cartesianische-meditationen-commentary`
+
+- **introduced** · `intentionalitaet/hua1/001` · *intentionality / cogito-cogitatum*
+  The transcendental title 'ego cogito' must be expanded by one member: every cogito intends something and carries in itself, in the manner of what is intended, its respective cogitatum, and the word intentionality means nothing other than this fundamental property of consciousness, to be consciousness of something.
+  `husserliana-1-cartesianische-meditationen-commentary#h3-s-14-the-stream-of-cogitationes-cogito-and-cogitatum` · Cartesian Meditations § 14 · [§ 14. The Stream of Cogitationes. Cogito and Cogitatum](https://faultynode.github.io/commentaries/commentaries/husserl/husserliana-1-cartesianische-meditationen-commentary.html#the-stream-of-cogitationes-cogito-and-cogitatum)
+  > the word intentionality then means nothing other than this general fundamental property of consciousness — to be consciousness of something, as *cogito* to carry its *cogitatum* within itself.
+
+- **introduced** · `intentionalitaet/hua1/002` · *epoche retains the intentional relation*
+  The epoche regarding all worldly being changes nothing about the fact that the cogitationes relating to the worldly carry that relation within themselves, so that the perception of this table is still, as before, precisely a perception of it.
+  `husserliana-1-cartesianische-meditationen-commentary#h3-s-14-the-stream-of-cogitationes-cogito-and-cogitatum` · Cartesian Meditations § 14 · [§ 14. The Stream of Cogitationes. Cogito and Cogitatum](https://faultynode.github.io/commentaries/commentaries/husserl/husserliana-1-cartesianische-meditationen-commentary.html#the-stream-of-cogitationes-cogito-and-cogitatum)
+  > It must not be overlooked that the *epochē* regarding all worldly being changes nothing about the fact that the manifold *cogitationes* relating to what is worldly carry this relation within themselves, that, for example, the perception of this table is still, as before, precisely a perception of it.
+
+- **introduced** · `intentionalitaet/hua1/003` · *reflection alters the experience*
+  Every reflection, natural or transcendental, essentially alters the previously naive experience, which loses its original straightforward mode precisely because reflection makes into an object what was previously an experience but not an object.
+  `husserliana-1-cartesianische-meditationen-commentary#h3-s-15-natural-and-transcendental-reflection` · Cartesian Meditations § 15 · [§ 15. Natural and Transcendental Reflection](https://faultynode.github.io/commentaries/commentaries/husserl/husserliana-1-cartesianische-meditationen-commentary.html#natural-and-transcendental-reflection)
+  > It essentially alters the previously naive experience; the experience loses its original mode of the straightforward — precisely because reflection makes into an object what was previously an experience but not an object.
+
+- **introduced** · `intentionalitaet/hua1/004` · *the disinterested spectator*
+  The phenomenologically modified attitude consists in a splitting of the ego in which the phenomenological ego establishes itself as disinterested spectator above the naively interested ego, its sole remaining interest being to see and describe adequately.
+  `husserliana-1-cartesianische-meditationen-commentary#h3-s-15-natural-and-transcendental-reflection` · Cartesian Meditations § 15 · [§ 15. Natural and Transcendental Reflection](https://faultynode.github.io/commentaries/commentaries/husserl/husserliana-1-cartesianische-meditationen-commentary.html#natural-and-transcendental-reflection)
+  > a splitting of the ego takes place, in which the phenomenological ego establishes itself as disinterested spectator above the naively interested ego.
+
+- **introduced** · `intentionalitaet/hua1/005` · *noematic / noetic direction of description*
+  Under the double title cogito-cogitatum, descriptions run in two correlative directions: the noematic, concerning the intentional object as such with its being-modes and temporal modes, and the noetic, concerning the modes of the cogito itself with their differences of clarity and distinctness.
+  `husserliana-1-cartesianische-meditationen-commentary#h3-s-15-natural-and-transcendental-reflection` · Cartesian Meditations § 15 · [§ 15. Natural and Transcendental Reflection](https://faultynode.github.io/commentaries/commentaries/husserl/husserliana-1-cartesianische-meditationen-commentary.html#natural-and-transcendental-reflection)
+  > This descriptive direction is called the noematic. Over against it stands the noetic. It concerns the modes of the *cogito* itself, the modes of consciousness, e.g., of perception, of recollection, of retention, with the modal differences dwelling in them, such as those of clarity and distinctness.
+
+- **introduced** · `intentionalitaet/hua1/006` · *world qua cogitatum*
+  Through the universally exercised epoche regarding the being or non-being of the world, phenomenology has not simply lost the world; it retains it qua cogitata, with the whole world conscious in its proper form of spatiotemporal endlessness as the standing background of all life.
+  `husserliana-1-cartesianische-meditationen-commentary#h3-s-15-natural-and-transcendental-reflection` · Cartesian Meditations § 15 · [§ 15. Natural and Transcendental Reflection](https://faultynode.github.io/commentaries/commentaries/husserl/husserliana-1-cartesianische-meditationen-commentary.html#natural-and-transcendental-reflection)
+  > through the universally exercised *epochē* regarding the being or nonbeing of the world, we have not simply lost the world for phenomenology; we retain it *qua cogitata*.
+
+- **introduced** · `intentionalitaet/hua1/007` · *synthesis as the primal form of consciousness*
+  The mode of connection that unites consciousness with consciousness is the one exclusively proper to consciousness, synthesis, in which one and the same is conscious as what appears across a manifold of determinately belonging modes of appearance.
+  `husserliana-1-cartesianische-meditationen-commentary#h3-s-17-the-two-sidedness-of-consciousness-research-as-a-correlative-problematic-di` · Cartesian Meditations § 17 · [§ 17. The Two-Sidedness of Consciousness-Research as a Correlative Problematic. Directions of Description. Synthesis as the Primal Form of Consciousness](https://faultynode.github.io/commentaries/commentaries/husserl/husserliana-1-cartesianische-meditationen-commentary.html#the-two-sidedness-of-consciousness-research-as-a-correlative-problematic-directions-of-description-synthesis-as-the-primal-form-of-consciousness)
+  > the mode of connection that unites consciousness with consciousness is the one exclusively proper to consciousness — synthesis.
+
+- **introduced** · `intentionalitaet/hua1/008` · *unity in a manifold of appearance-modes*
+  In pure reflection the cube shows itself as continuously given as an objective unity in a multiform and changeable manifold of determinately belonging modes of appearance, which flow in the unity of a synthesis rather than in an incoherent succession.
+  `husserliana-1-cartesianische-meditationen-commentary#h3-s-17-the-two-sidedness-of-consciousness-research-as-a-correlative-problematic-di` · Cartesian Meditations § 17 · [§ 17. The Two-Sidedness of Consciousness-Research as a Correlative Problematic. Directions of Description. Synthesis as the Primal Form of Consciousness](https://faultynode.github.io/commentaries/commentaries/husserl/husserliana-1-cartesianische-meditationen-commentary.html#the-two-sidedness-of-consciousness-research-as-a-correlative-problematic-directions-of-description-synthesis-as-the-primal-form-of-consciousness)
+  > this cube is continuously given as an objective unity in a multiform and changeable manifold of determinately belonging modes of appearance.
+
+- **introduced** · `intentionalitaet/hua1/009` · *identification as fundamental synthesis*
+  The fundamental form of synthesis is identification, which confronts us first as an all-pervasive, passively proceeding synthesis in the form of continuous inner time-consciousness, and which grounds every knowledge of identity across separate acts.
+  `husserliana-1-cartesianische-meditationen-commentary#h3-s-18-identification-as-a-fundamental-form-of-synthesis-universal-synthesis-of-tr` · Cartesian Meditations § 18 · [§ 18. Identification as a Fundamental Form of Synthesis. Universal Synthesis of Transcendental Time](https://faultynode.github.io/commentaries/commentaries/husserl/husserliana-1-cartesianische-meditationen-commentary.html#identification-as-a-fundamental-form-of-synthesis-universal-synthesis-of-transcendental-time)
+  > Let us now consider the fundamental form of synthesis, namely identification. It confronts us first as an all-pervasive, passively proceeding synthesis in the form of the continuous inner time-consciousness.
+
+- **introduced** · `intentionalitaet/hua1/010` · *universal cogito*
+  The entire consciousness-life is synthetically unified, so that it is a universal cogito synthetically embracing all particular consciousness-experiences, with a universal cogitatum (the universal life itself) whose fundamental synthetic form is the all-encompassing inner time-consciousness.
+  `husserliana-1-cartesianische-meditationen-commentary#h3-s-18-identification-as-a-fundamental-form-of-synthesis-universal-synthesis-of-tr` · Cartesian Meditations § 18 · [§ 18. Identification as a Fundamental Form of Synthesis. Universal Synthesis of Transcendental Time](https://faultynode.github.io/commentaries/commentaries/husserl/husserliana-1-cartesianische-meditationen-commentary.html#identification-as-a-fundamental-form-of-synthesis-universal-synthesis-of-transcendental-time)
+  > the entire consciousness-life, as we have already said in advance, is synthetically unified. It is therefore a universal *cogito*, synthetically embracing within itself all particular consciousness-experiences, with its universal *cogitatum*
+
+- **introduced** · `intentionalitaet/hua1/011` · *actuality and potentiality of intentional life*
+  Every actuality of intentional life implies its potentialities, which are not empty possibilities but possibilities intentionally pre-delineated in content in the actual experience and furnished with the character of being realizable by the ego.
+  `husserliana-1-cartesianische-meditationen-commentary#h3-s-19-actuality-and-potentiality-of-intentional-life` · Cartesian Meditations § 19 · [§ 19. Actuality and Potentiality of Intentional Life](https://faultynode.github.io/commentaries/commentaries/husserl/husserliana-1-cartesianische-meditationen-commentary.html#actuality-and-potentiality-of-intentional-life)
+  > every actuality implies its potentialities, which are not empty possibilities but possibilities that are intentionally pre-delineated in content in the respective actual experience and moreover furnished with the character of being realizable by the ego.
+
+- **introduced** · `intentionalitaet/hua1/012` · *the intentional horizon*
+  Every experience has a horizon, an intentional horizon of reference to potentialities of consciousness belonging to it, which changes in the course of the changing consciousness-context and of the experience's own streaming phases.
+  `husserliana-1-cartesianische-meditationen-commentary#h3-s-19-actuality-and-potentiality-of-intentional-life` · Cartesian Meditations § 19 · [§ 19. Actuality and Potentiality of Intentional Life](https://faultynode.github.io/commentaries/commentaries/husserl/husserliana-1-cartesianische-meditationen-commentary.html#actuality-and-potentiality-of-intentional-life)
+  > Every experience has a horizon — an intentional horizon of reference to potentialities of consciousness belonging to it — that changes in the course of the changing consciousness-context
+
+- **introduced** · `intentionalitaet/hua1/013` · *cogitatum qua cogitatum*
+  The objective sense, the cogitatum qua cogitatum, is never something finished and given but clarifies itself only through the interpretation of the horizon and the continually newly awakened horizons, its pre-delineation being always imperfect yet having a structure of determinacy within its indeterminacy.
+  `husserliana-1-cartesianische-meditationen-commentary#h3-s-19-actuality-and-potentiality-of-intentional-life` · Cartesian Meditations § 19 · [§ 19. Actuality and Potentiality of Intentional Life](https://faultynode.github.io/commentaries/commentaries/husserl/husserliana-1-cartesianische-meditationen-commentary.html#actuality-and-potentiality-of-intentional-life)
+  > This sense, the *cogitatum qua cogitatum*, is never something finished and given; it clarifies itself only through this interpretation of the horizon and the continually newly awakened horizons.
+
+- **introduced** · `intentionalitaet/hua1/014` · *the distinctive character of intentional analysis*
+  Intentional analysis is something totally different from analysis in the ordinary sense: its everywhere distinctive performance is the disclosure of the potentialities implied in the actualities of consciousness, whereby noematically there takes place interpretation and clarification of the objective sense.
+  `husserliana-1-cartesianische-meditationen-commentary#h3-s-20-the-distinctive-character-of-intentional-analysis` · Cartesian Meditations § 20 · [§ 20. The Distinctive Character of Intentional Analysis](https://faultynode.github.io/commentaries/commentaries/husserl/husserliana-1-cartesianische-meditationen-commentary.html#the-distinctive-character-of-intentional-analysis)
+  > its everywhere distinctive performance is the disclosure of the potentialities implied in the actualities of consciousness
+
+- **introduced** · `intentionalitaet/hua1/015` · *the More of the meant*
+  Intentional analysis is guided by the fundamental cognition that every cogito is in the broadest sense a meaning of its meant, but that this meant is at every moment more, with a More of what is meant, than what lies before us at the moment as explicitly meant.
+  `husserliana-1-cartesianische-meditationen-commentary#h3-s-20-the-distinctive-character-of-intentional-analysis` · Cartesian Meditations § 20 · [§ 20. The Distinctive Character of Intentional Analysis](https://faultynode.github.io/commentaries/commentaries/husserl/husserliana-1-cartesianische-meditationen-commentary.html#the-distinctive-character-of-intentional-analysis)
+  > every *cogito*, as consciousness, is indeed in the broadest sense a meaning of its meant, but that this meant is at every moment more (with a More of what is meant) than what at the respective moment lies before us as explicitly meant.
+
+- **introduced** · `intentionalitaet/hua1/016` · *the anonymous cogitative life*
+  Rather than dwelling naively on the intentional object as such, the phenomenologist penetrates disclosingly with his reflective gaze into the anonymous cogitative life and lays out the determinate synthetic courses of the manifold modes of consciousness that make the straightforward being-meant of the object understandable.
+  `husserliana-1-cartesianische-meditationen-commentary#h3-s-20-the-distinctive-character-of-intentional-analysis` · Cartesian Meditations § 20 · [§ 20. The Distinctive Character of Intentional Analysis](https://faultynode.github.io/commentaries/commentaries/husserl/husserliana-1-cartesianische-meditationen-commentary.html#the-distinctive-character-of-intentional-analysis)
+  > penetrates disclosingly with his reflective gaze into the anonymous *cogitative* life, discloses the determinate synthetic courses of the manifold modes of consciousness
+
+- **introduced** · `intentionalitaet/hua1/017` · *intentional object as transcendental clue*
+  In the particularization of the schema ego-cogito-cogitatum, the intentional object on the side of the cogitatum plays the role of a transcendental clue for the disclosure of the typical manifold of cogitationes that carry it within themselves as the same meant.
+  `husserliana-1-cartesianische-meditationen-commentary#h3-s-21-the-intentional-object-as-transcendental-clue` · Cartesian Meditations § 21 · [§ 21. The Intentional Object as "Transcendental Clue"](https://faultynode.github.io/commentaries/commentaries/husserl/husserliana-1-cartesianische-meditationen-commentary.html#the-intentional-object-as-transcendental-clue)
+  > the intentional object standing on the side of the *cogitatum* plays, for easily understandable reasons, the role of a transcendental clue for the disclosure of the typical manifold of *cogitationes*
+
+- **introduced** · `intentionalitaet/hua1/018` · *object as rule-structure of the transcendental ego*
+  Every object whatsoever, including every immanent one, designates a rule-structure of the transcendental ego: as something represented by it, it at once designates a universal rule of possible further consciousness of the same.
+  `husserliana-1-cartesianische-meditationen-commentary#h3-s-22-the-idea-of-the-universal-unity-of-all-objects-and-the-task-of-their-consti` · Cartesian Meditations § 22 · [§ 22. The Idea of the Universal Unity of All Objects and the Task of Their Constitutional Clarification](https://faultynode.github.io/commentaries/commentaries/husserl/husserliana-1-cartesianische-meditationen-commentary.html#the-idea-of-the-universal-unity-of-all-objects-and-the-task-of-their-constitutional-clarification)
+  > Every object, every object whatsoever (including every immanent one), designates a rule-structure of the transcendental ego.
+
+- **introduced** · `intentionalitaet/hua1/019` · *ego inseparable from intentional objectualities*
+  The transcendental ego (in the psychological parallel, the soul) only is what it is in relation to intentional objectualities, and it is an essential property of the ego to constantly have systems of intentionality partly running their course within it, partly available as fixed potentialities.
+  `husserliana-1-cartesianische-meditationen-commentary#h3-s-30-the-transcendental-ego-inseparable-from-its-experiences` · Cartesian Meditations § 30 · [§ 30. The Transcendental Ego Inseparable from Its Experiences](https://faultynode.github.io/commentaries/commentaries/husserl/husserliana-1-cartesianische-meditationen-commentary.html#the-transcendental-ego-inseparable-from-its-experiences)
+  > the transcendental ego (in the psychological parallel, the soul) only is what it is in relation to intentional objectualities.
+
+- **introduced** · `intentionalitaet/hua1/020` · *motivation as the form of egological genesis*
+  In the transcendental sphere it is better to avoid the prejudice-laden expression 'causality' and to speak of motivation: the most general form of concrete experiences is a form of all-linking motivation that is a formal lawfulness of a universal genesis in which the ego constitutes itself in the unity of a history.
+  `husserliana-1-cartesianische-meditationen-commentary#h3-s-37-time-as-the-universal-form-of-all-egological-genesis` · Cartesian Meditations § 37 · [§ 37. Time as the Universal Form of All Egological Genesis](https://faultynode.github.io/commentaries/commentaries/husserl/husserliana-1-cartesianische-meditationen-commentary.html#time-as-the-universal-form-of-all-egological-genesis)
+  > it is better here to avoid the prejudice-laden expression "causality" and to speak in the transcendental sphere of motivation.
+
+- **introduced** · `intentionalitaet/hua1/021` · *active and passive genesis*
+  Constitutive genesis divides into active and passive: every structure of activity necessarily presupposes as its lowest level a passivity that pre-gives, and passive synthesis, furnishing all the matter for the active syntheses, is constantly ongoing.
+  `husserliana-1-cartesianische-meditationen-commentary#h3-s-38-active-and-passive-genesis` · Cartesian Meditations § 38 · [§ 38. Active and Passive Genesis](https://faultynode.github.io/commentaries/commentaries/husserl/husserliana-1-cartesianische-meditationen-commentary.html#active-and-passive-genesis)
+  > every structure of activity necessarily presupposes, as its lowest level, a passivity that pre-gives, and in pursuing this we encounter constitution through passive genesis.
+
+- **revised** · `intentionalitaet/hua1/022` · *association as a title of intentionality*
+  The universal principle of passive genesis for the constitution of all objectualities pre-given to the active formations carries the title Association, which is a title of intentionality and a transcendental fundamental concept, the old naturalistic concept of association being only a distortion of it.
+  `husserliana-1-cartesianische-meditationen-commentary#h3-s-39-association-as-a-principle-of-passive-genesis` · Cartesian Meditations § 39 · [§ 39. Association as a Principle of Passive Genesis](https://faultynode.github.io/commentaries/commentaries/husserl/husserliana-1-cartesianische-meditationen-commentary.html#association-as-a-principle-of-passive-genesis)
+  > The universal principle of passive genesis for the constitution of all objectualities ultimately pre-given to the active formations carries the title Association. It is a title of intentionality, descriptively demonstrable in its primal forms and standing under essential laws.
+
+- **introduced** · `intentionalitaet/hua1/023` · *mediate intentionality / appresentation*
+  The experience of others involves a certain mediacy of intentionality proceeding from the primordial world, which presents a being-also-there that yet never is itself-there: what is involved is appresentation, an analogizing apperception motivated by similarity-association and not an analogical inference.
+  `husserliana-1-cartesianische-meditationen-commentary#h3-s-50-the-mediate-intentionality-of-the-experience-of-others-as-appresentation-an` · Cartesian Meditations § 50 · [§ 50. The Mediate Intentionality of the Experience of Others as "Appresentation" (Analogical Apperception)](https://faultynode.github.io/commentaries/commentaries/husserl/husserliana-1-cartesianische-meditationen-commentary.html#the-mediate-intentionality-of-the-experience-of-others-as-appresentation-analogical-apperception)
+  > A certain mediacy of intentionality must be at work here — one proceeding from the primordial world, which presents a being-also-there that yet never is itself-there. What is involved is appresentation.
+
+- **introduced** · `intentionalitaet/hua1/024` · *pairing / transfer of sense*
+  Pairing is a primal form of passive synthesis (association) in which two intuitively given data found a unity of similarity: there occurs an intentional reaching-over, a living mutual awakening and overlapping according to objective sense, whose performance is a transfer of sense upon the paired.
+  `husserliana-1-cartesianische-meditationen-commentary#h3-s-51-pairing-as-an-associatively-constitutive-component-of-the-experience-of-oth` · Cartesian Meditations § 51 · [§ 51. "Pairing" as an Associatively Constitutive Component of the Experience of Others](https://faultynode.github.io/commentaries/commentaries/husserl/husserliana-1-cartesianische-meditationen-commentary.html#pairing-as-an-associatively-constitutive-component-of-the-experience-of-others)
+  > There occurs an intentional reaching-over, a living mutual awakening, a mutual overlapping covering according to objective sense. As its performance, there takes place a transfer of sense upon the paired.
+
+*Partial pass: Covers the Cartesian Meditations' account of intentionality: the cogito/cogitatum structure and intentionality as the fundamental property of consciousness, the epoche's retention of the intentional relation and of the world qua cogitatum, the alteration of experience by reflection and the splitting of the ego into a disinterested spectator, the noematic and noetic directions of description, synthesis as the mode of connection exclusively proper to consciousness, identification as the fundamental (passive) form of synthesis in inner time-consciousness and the universal cogito, actuality and potentiality of intentional life and the intentional horizon, the cogitatum qua cogitatum as never finished, the distinctive character of intentional analysis (disclosure of implied potentialities, the More of the meant, penetration of the anonymous cogitative life), the intentional object as transcendental clue, every object as a rule-structure of the transcendental ego, the ego as inseparable from intentional objectualities, motivation as the form of egological genesis, active and passive genesis, association as a title of intentionality, and the mediate intentionality of the experience of others (appresentation, pairing). Not covered: the Cartesian way and the doctrine of evidence, the verification/reason material of the Third Meditation, the ego-pole/monad and transcendental-idealism material of the Fourth Meditation, and most of the Fifth Meditation's constitution of intersubjectivity.*
+
 ### undated - Hua 3 - Ideas I §111ff
 
 `husserliana-3-ideas-i-commentary`
@@ -1252,7 +1378,6 @@
 
 *Where the theme's terms occur but no extraction pass has run. Silence in the sections above is silence about these files, not evidence of absence in them.*
 
-- `husserliana-1-cartesianische-meditationen-commentary` - 75 term hits, no record
 - `husserl-erfahrung-und-urteil-commentary` - 70 term hits, no record
 - `husserliana-4-ideas-ii-commentary` - 65 term hits, no record
 - `husserliana-5-ideas-iii-commentary` - 59 term hits, no record
