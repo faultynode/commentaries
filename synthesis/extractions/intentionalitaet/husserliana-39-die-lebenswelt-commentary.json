@@ -1,0 +1,224 @@
+{
+  "schema_version": 1,
+  "theme": "intentionalitaet",
+  "commentary": "husserliana-39-die-lebenswelt-commentary",
+  "source_sha256": "d62704cb5caf45b6bdf8945916547e1f1c889ace9b84a84347f16fce9c32a105",
+  "extracted_at": "2026-09-09",
+  "extractor": {
+    "agent": "claude-code",
+    "prompt": "prompts/extraction-prompt.md",
+    "note": "source_sha256 is the LF digest (CRLF checkout; local validate reports a false staleness, CI on LF passes). Hua XXXIX collects late Husserl manuscripts of several dates; the commentary marks the date of each text/supplement in brackets. Closely read Text Nr. 1 (primal institution of the sense of being, dated early 1920s), Text Nr. 2 (background and pre-givenness, the constitutive function of apperceptions, c. 1920), Supplement I (background, transitional unities and end-objects, c. 1920), Text Nr. 4 § 1 (the effective field and the ineffective horizon of the 'unconscious'), Text Nr. 10 § 4 (the empathy-horizon as validity-horizon), and Text Nr. 15 (horizon-meaning and original induction, dated May/June 1934). Not read in detail: the bulk of the volume (Texts Nr. 3, 5-9, 11-14, 16-65 and Supplements II-LVI on world-constitution, horizon-systematics, orientation and situativity, apodicticity of the world, the reality-structure of the life-world, praxis, the world as acquisition, temporal constitution, bodiliness, and the plurality of surrounding worlds). chronology.json entry is unresolved and undated at the ledger level (P5 pending); the per-text manuscript dates given above are recorded in this note rather than as per-unit strata, since chronology.json carries only a single hua39-undated stratum."
+  },
+  "coverage": "partial",
+  "coverage_note": "Covers the intentionality-relevant core of Hua XXXIX's analysis of the pre-given world: the actual-validity structure of the thematic act and the primal institution (Urstiftung) of a horizon of continuing validity; typification and the overlay of a sedimented sense-schema on every new experience, primal institution according to type, horizons as motivated act-possibilities, and 'being' as a title that has sense only from primal-instituting acts; intentional analysis as evident, right-bestowing interpretation; the sensation-datum as an already-constituted intentional objectuality, the stratified architecture of relative hyle, primary vs. secondary (implicit) objectualities, the privilege of the worldly and the worldlicization of the subjective, the order-bound character of constitutive reflection, and the character of familiarity; the Durchgang/Ende distinction between a gaze that passes through transitional unities and one that terminates at the thing, the objective background as a positively constituted apperceptive field, functioning intentionality with sensation-data as mere transit, and the infinite openness of the end-object; the pre-givenness of the world, the ineffective horizon of the 'unconscious' as a genuinely intentional horizon, horizon-meaning as indeterminate determinability through objects, founded intentionalities as the medium of world-transformation, intersubjectivity as an intra-egoic constitutive achievement, and the empathy-horizon as validity-horizon; and the horizon as original induction / perception through apperception. Not covered: the detailed world-constitution, orientation, apodicticity, reality-structure, praxis, and temporal-constitution analyses of the rest of the volume.",
+  "units": [
+    {
+      "id": "intentionalitaet/hua39/001",
+      "locator": "husserliana-39-die-lebenswelt-commentary#h3-text-nr-1-primal-institution-of-the-sense-of-being-of-pre-given-individual-being",
+      "primary_locator": "Hua XXXIX, Text Nr. 1",
+      "term": "actual validity / thematic act",
+      "status": "introduced",
+      "claim": "Something existing is there for me in thematic acts insofar as I, as the grasping ego, am directed toward it in an act in the specific sense, so that in the carrying-out of the act it is for me in actual validity, the belief in its being a living, actively performed belief radiating from the ego-pole.",
+      "quote": "I, as the grasping ego, am directed toward it in an act in the specific sense; in the carrying out of the act it is for me in *actual validity* (*aktuelle Geltung*). The belief in its being is a living, actively performed belief radiating from the ego-pole."
+    },
+    {
+      "id": "intentionalitaet/hua39/002",
+      "locator": "husserliana-39-die-lebenswelt-commentary#h3-text-nr-1-primal-institution-of-the-sense-of-being-of-pre-given-individual-being",
+      "primary_locator": "Hua XXXIX, Text Nr. 1",
+      "term": "Urstiftung / continuing validity",
+      "status": "introduced",
+      "claim": "An initial act of positing creates not merely a momentary awareness but an enduring claim on being: the first validity institutes a horizon of continuing validity (Fortgeltung), in which lies the possibility of acts that reactivate the posits of earlier acts.",
+      "quote": "*The first validity institutes a horizon of continuing validity* (*Fortgeltung*). In this lies the possibility of acts that have the character of reactivations of the posits of earlier acts"
+    },
+    {
+      "id": "intentionalitaet/hua39/003",
+      "locator": "husserliana-39-die-lebenswelt-commentary#h3-text-nr-1-primal-institution-of-the-sense-of-being-of-pre-given-individual-being",
+      "primary_locator": "Hua XXXIX, Text Nr. 1",
+      "term": "typification / sense-schema overlay",
+      "status": "introduced",
+      "claim": "Every genuinely new experience is primal-instituting only with respect to the individual object, never absolutely new with respect to its type: in the new validity the old validity is simultaneously alive, with its old sense overlaying the newly forming sense from its initial stage onward.",
+      "quote": "In the new validity, as validity of its sense, the old validity is simultaneously alive, with its old sense overlaying (*sich überschiebend*) the newly forming sense from its initial stage onward."
+    },
+    {
+      "id": "intentionalitaet/hua39/004",
+      "locator": "husserliana-39-die-lebenswelt-commentary#h3-text-nr-1-primal-institution-of-the-sense-of-being-of-pre-given-individual-being",
+      "primary_locator": "Hua XXXIX, Text Nr. 1",
+      "term": "intentional analysis as interpretation",
+      "status": "introduced",
+      "claim": "All intentional analysis, all self-clarification of consciousness that finds expression in description, is itself interpretation, but not arbitrary interpretation: in all its evidence it is evident interpretation, and thus originally right-bestowing.",
+      "quote": "All intentional analysis, all self-clarification of consciousness that finds expression in \"description,\" is itself interpretation; in all its evidence it is *evident interpretation*, and thus originally right-bestowing."
+    },
+    {
+      "id": "intentionalitaet/hua39/005",
+      "locator": "husserliana-39-die-lebenswelt-commentary#h3-text-nr-1-primal-institution-of-the-sense-of-being-of-pre-given-individual-being",
+      "primary_locator": "Hua XXXIX, Text Nr. 1",
+      "term": "primal institution according to type",
+      "status": "introduced",
+      "claim": "Every apperception, whether of a palm tree, a table, a human being, or a thing in general as spatial-corporeal, has its origin, its primal institution according to its type; without such typifying primal institutions every new thing would have to be constituted originally anew.",
+      "quote": "*every* \"apperception\" — whether of a palm tree, a table, a human being, a thing in general as spatial-corporeal — has its origin, its primal institution according to its *type*."
+    },
+    {
+      "id": "intentionalitaet/hua39/006",
+      "locator": "husserliana-39-die-lebenswelt-commentary#h3-text-nr-1-primal-institution-of-the-sense-of-being-of-pre-given-individual-being",
+      "primary_locator": "Hua XXXIX, Text Nr. 1",
+      "term": "horizon as motivated act-possibility",
+      "status": "introduced",
+      "claim": "The horizons surrounding every apperception signify motivated (and in interpretive unfolding evidently motivated) act-possibilities with a possible 'what is coming', activation of the horizon-consciousness being a kind of reactivation that transforms it into motivated expectation.",
+      "quote": "such horizons signify *motivated* (and, in interpretive unfolding, evidently motivated) *act-possibilities*, with possible \"what is coming,\" when we activate the horizon-consciousness (which is thus a kind of reactivation) and thereby transform it into motivated expectation."
+    },
+    {
+      "id": "intentionalitaet/hua39/007",
+      "locator": "husserliana-39-die-lebenswelt-commentary#h3-text-nr-1-primal-institution-of-the-sense-of-being-of-pre-given-individual-being",
+      "primary_locator": "Hua XXXIX, Text Nr. 1",
+      "term": "the sense of 'being' from instituting acts",
+      "status": "introduced",
+      "claim": "Even where original passivity already yields a pre-constitution of sense-connections, 'being' as objectuality that is there, graspable or ungrasped and unthematic, is a title that has sense only on the basis of primal-instituting acts.",
+      "quote": "\"being,\" objectuality that \"is there\" — first grasped and then in reach as something possibly to be grasped, as ungrasped, unthematic \"being\" (existing without being \"conscious,\" without being thematic) — is a title that *has sense only on the basis of primal-instituting acts*"
+    },
+    {
+      "id": "intentionalitaet/hua39/008",
+      "locator": "husserliana-39-die-lebenswelt-commentary#h3-text-nr-2-background-and-pre-givenness-differences-of-pre-givenness-prominence-a",
+      "primary_locator": "Hua XXXIX, Text Nr. 2",
+      "term": "the sensation-datum as intentional objectuality",
+      "status": "introduced",
+      "claim": "Reflection on a sensation-datum shows that it is constituted as a temporally enduring unity in a synthesis and is itself an intentional objectuality, an immanent one, originally constituted, here functioning for a transcendent apperception in the pregnant sense.",
+      "quote": "It is an \"intentional objectuality,\" an immanent one, originally constituted, here functioning in a certain way for a \"transcendent apperception,\" an apperception in the pregnant sense."
+    },
+    {
+      "id": "intentionalitaet/hua39/009",
+      "locator": "husserliana-39-die-lebenswelt-commentary#h3-text-nr-2-background-and-pre-givenness-differences-of-pre-givenness-prominence-a",
+      "primary_locator": "Hua XXXIX, Text Nr. 2",
+      "term": "relative hyle / stratified constitution",
+      "status": "introduced",
+      "claim": "Everything that can be attended to is a unity of constituting manifolds, an 'object' in the sense of a unity but not therefore actively identified, which points to a step-wise functioning of objectualities as relative hyle for other objectualities.",
+      "quote": "indicating a step-wise \"functioning\" of objectualities as *relative hyle* for other objectualities"
+    },
+    {
+      "id": "intentionalitaet/hua39/010",
+      "locator": "husserliana-39-die-lebenswelt-commentary#h3-text-nr-2-background-and-pre-givenness-differences-of-pre-givenness-prominence-a",
+      "primary_locator": "Hua XXXIX, Text Nr. 2",
+      "term": "primary / secondary (implicit) objectualities",
+      "status": "introduced",
+      "claim": "One must distinguish primary objectualities, self-sufficiently prominent and constituted in active identification, from secondary or implicit objectualities, which can come to prominence as parts or moments in primary ones from subsequent motives but need not, carrying with them potentialities for prominence.",
+      "quote": "*secondary objectualities*, which can perhaps come to prominence as parts or moments in primary ones, from subsequent motives (association), but need not; thus implicit objectualities that do not have prominence from the outset but carry with them potentialities for prominence."
+    },
+    {
+      "id": "intentionalitaet/hua39/011",
+      "locator": "husserliana-39-die-lebenswelt-commentary#h3-text-nr-2-background-and-pre-givenness-differences-of-pre-givenness-prominence-a",
+      "primary_locator": "Hua XXXIX, Text Nr. 2",
+      "term": "the privilege of the worldly / Verweltlichung",
+      "status": "introduced",
+      "claim": "In natural going-along-living, worldly objects in general are privileged for me: they determine the associations, and associative awakening always proceeds from what is already prominent and worldly to what is worldly, so that eventually even everything merely subjective is worldlicized.",
+      "quote": "in natural going-along-living (in natural attitude), worldly objects in general are *privileged* for me; they determine the associations, and associative awakening (*Weckung*) always proceeds from what is already prominent and worldly to what is worldly."
+    },
+    {
+      "id": "intentionalitaet/hua39/012",
+      "locator": "husserliana-39-die-lebenswelt-commentary#h3-text-nr-2-background-and-pre-givenness-differences-of-pre-givenness-prominence-a",
+      "primary_locator": "Hua XXXIX, Text Nr. 2",
+      "term": "the character of familiarity",
+      "status": "introduced",
+      "claim": "Because the temporally preceding primal constitution already functioned in earlier similar cases, every later apperception eo ipso has the 'character of familiarity' and from the outset, wherever its founding material presents itself, creates apperception, being apprehended with the sense of the earlier.",
+      "quote": "every later one eo ipso has the \"character of familiarity\" (*Charakter der Bekanntheit*) and from the outset, wherever its founding \"material\" presents itself, creates \"apperception.\" It is from the outset \"apprehended\" with the sense of the earlier"
+    },
+    {
+      "id": "intentionalitaet/hua39/013",
+      "locator": "husserliana-39-die-lebenswelt-commentary#h3-supplement-i-background-pre-given-objectuality-end-object-and-transitional-uniti",
+      "primary_locator": "Hua XXXIX, Supplement I",
+      "term": "Durchgang / Ende (transit / terminus)",
+      "status": "introduced",
+      "claim": "One must distinguish the gaze that terminates in an object (terminus ad quem) from the gaze that passes through functioning data: my gaze goes through the kinaestheses to the kinaesthetically motivated and through them to their unity, and there I am at the thing itself.",
+      "quote": "My gaze goes *through* the kinaestheses to the kinaesthetically motivated and *through them to their unity*. And there I am \"at the thing itself.\""
+    },
+    {
+      "id": "intentionalitaet/hua39/014",
+      "locator": "husserliana-39-die-lebenswelt-commentary#h3-supplement-i-background-pre-given-objectuality-end-object-and-transitional-uniti",
+      "primary_locator": "Hua XXXIX, Supplement I",
+      "term": "the objective background as constituted",
+      "status": "introduced",
+      "claim": "The background is not merely a privation of attention: it is a domain of objectualities constituted in a particular and peculiar way, as objects pre-given and apperceptively conscious, in the field of view but not in the gaze that rests and terminates on them, which can at any moment attract the terminating gaze.",
+      "quote": "Background is not merely what is not in the gaze and not the terminus — as privation; background is a domain of objectualities \"constituted\" in a particular and peculiar way, as objects \"pre-given,\" \"apperceptively\" conscious."
+    },
+    {
+      "id": "intentionalitaet/hua39/015",
+      "locator": "husserliana-39-die-lebenswelt-commentary#h3-supplement-i-background-pre-given-objectuality-end-object-and-transitional-uniti",
+      "primary_locator": "Hua XXXIX, Supplement I",
+      "term": "functioning intentionality",
+      "status": "introduced",
+      "claim": "In the normal givenness of natural objects, the intentionality that makes appearances-of out of sensation-data (themselves constituted as intentional unities) is a functioning intentionality in which the sensation-data are merely transitional unities, the thematic gaze being deflected off them toward the end-object.",
+      "quote": "the intentionality that makes appearances-of out of sensation-data, while these data are themselves constituted as intentional unities, is in the normal givenness of natural objects a *functioning intentionality* in which sensation-data are merely *transitional unities*."
+    },
+    {
+      "id": "intentionalitaet/hua39/016",
+      "locator": "husserliana-39-die-lebenswelt-commentary#h3-supplement-i-background-pre-given-objectuality-end-object-and-transitional-uniti",
+      "primary_locator": "Hua XXXIX, Supplement I",
+      "term": "the infinite openness of the end-object",
+      "status": "introduced",
+      "claim": "The transitional items are quickly finished while the end-object is infinitely open: to be at the thing itself means to live in an intentionality that carries in itself an endlessness of open, prefigured intentionality to be unfolded, everything that emerges being end and at the same time transit for the actualization of what is new.",
+      "quote": "when we are \"at the thing itself,\" this means nothing other than: we live in an intentionality that carries in itself an endlessness of open, prefigured intentionality that is to be unfolded. Everything that emerges is end and at the same time transit for the actualization of what is new."
+    },
+    {
+      "id": "intentionalitaet/hua39/017",
+      "locator": "husserliana-39-die-lebenswelt-commentary#h4-s-1-the-field-of-effectively-conscious-objects-and-the-ineffective-horizon-of-th",
+      "primary_locator": "Hua XXXIX, Text Nr. 4 § 1",
+      "term": "the pre-givenness of the world",
+      "status": "introduced",
+      "claim": "The world is pre-given to us: if we direct the active gaze straightforwardly at anything, it was already there, it affected me, motivated me to turn toward it, and so it is now straightforwardly grasped.",
+      "quote": "\"The\" world is pre-given to us. If we direct the active gaze straightforwardly at anything, it was already there, it affected me, motivated me to turn toward it, and so it is now straightforwardly grasped."
+    },
+    {
+      "id": "intentionalitaet/hua39/018",
+      "locator": "husserliana-39-die-lebenswelt-commentary#h4-s-1-the-field-of-effectively-conscious-objects-and-the-ineffective-horizon-of-th",
+      "primary_locator": "Hua XXXIX, Text Nr. 4 § 1",
+      "term": "the ineffective horizon of the 'unconscious'",
+      "status": "introduced",
+      "claim": "The effective field of conscious objects is surrounded by an ineffective horizon of the 'unconscious' that is nevertheless a genuinely intentional horizon: in it something is conscious in a broader sense, namely the totality of unconscious objects that intentionally supplement the effective field to the world, so that always more is meant than is grasped.",
+      "quote": "an open horizon of non-prominent, not explicitly conscious objects that nevertheless is an intentional horizon: in it, in a broader sense, something is conscious, namely the totality of \"unconscious\" objects that intentionally supplement the effective field to the world."
+    },
+    {
+      "id": "intentionalitaet/hua39/019",
+      "locator": "husserliana-39-die-lebenswelt-commentary#h4-s-1-the-field-of-effectively-conscious-objects-and-the-ineffective-horizon-of-th",
+      "primary_locator": "Hua XXXIX, Text Nr. 4 § 1",
+      "term": "horizon-meaning as indeterminate determinability",
+      "status": "introduced",
+      "claim": "The horizon-meaning that everywhere attaches to every effective field as co-meaning is indeterminate determinability, and always determinability through objects, so that whatever can become effective in the natural attitude can become so only as an effective object-field.",
+      "quote": "This horizon-meaning (*Horizontmeinung*), which everywhere attaches to every effective field as co-meaning, is indeterminate *determinability* — and always determinability through *objects*."
+    },
+    {
+      "id": "intentionalitaet/hua39/020",
+      "locator": "husserliana-39-die-lebenswelt-commentary#h4-s-1-the-field-of-effectively-conscious-objects-and-the-ineffective-horizon-of-th",
+      "primary_locator": "Hua XXXIX, Text Nr. 4 § 1",
+      "term": "founded intentionalities / world-transformation",
+      "status": "introduced",
+      "claim": "Constantly the world is pre-given, constantly it renews itself and transforms what exists through the arising of founded intentionalities, through which pre-givennesses gain new determinations such as those of art-works, which point back to a genesis and to producing subjectivity.",
+      "quote": "Constantly the world is pre-given, constantly it renews itself and transforms what exists through the arising of founded intentionalities, through which pre-givennesses gain new determinations"
+    },
+    {
+      "id": "intentionalitaet/hua39/021",
+      "locator": "husserliana-39-die-lebenswelt-commentary#h4-s-1-the-field-of-effectively-conscious-objects-and-the-ineffective-horizon-of-th",
+      "primary_locator": "Hua XXXIX, Text Nr. 4 § 1",
+      "term": "intersubjectivity as an intra-egoic achievement",
+      "status": "introduced",
+      "claim": "In the life of each individual the world is pre-given from exclusively their own sources of intentionality, and only within this, through the mediation of empathic experiences, is the world the intersubjective one pre-given for all of us.",
+      "quote": "in the life of each individual, the world is pre-given for them from exclusively their own sources of intentionality, and only within this, through the mediation of empathic experiences, is the world the intersubjective one"
+    },
+    {
+      "id": "intentionalitaet/hua39/022",
+      "locator": "husserliana-39-die-lebenswelt-commentary#h4-s-4-the-empathy-horizon-as-validity-horizon",
+      "primary_locator": "Hua XXXIX, Text Nr. 10 § 4",
+      "term": "the empathy-horizon as validity-horizon",
+      "status": "introduced",
+      "claim": "In the concretion of the livingly streaming consciousness-present there is always an empathy-horizon as validity-horizon: in my living conscious being, foreign conscious being is always also implicated, and as ego being I carry others as being-for-me within me.",
+      "quote": "In my living conscious being, foreign conscious being is always also implicated. I am who I am, but as ego being, I carry others as being-for-me within me."
+    },
+    {
+      "id": "intentionalitaet/hua39/023",
+      "locator": "husserliana-39-die-lebenswelt-commentary#h3-text-nr-15-horizon-meaning-and-original-induction-the-world-horizon-as-structure",
+      "primary_locator": "Hua XXXIX, Text Nr. 15",
+      "term": "horizon as original induction",
+      "status": "introduced",
+      "claim": "'Horizon' means the induction essentially belonging to every experience: the original induction or anticipation is a modification-mode of originally instituting activity, a mode of intentionality, the anticipating meaning beyond a kernel of givenness, and perception of the thing is perception through apperception.",
+      "quote": "The original \"induction\" or anticipation proves to be a modification-mode of originally instituting activity — a mode of \"intentionality,\" the anticipating meaning beyond a kernel of givenness."
+    }
+  ],
+  "absences": []
+}
