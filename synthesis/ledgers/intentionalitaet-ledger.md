@@ -4,7 +4,7 @@
 
 *Partly worked already: commentaries/heidegger/heidegger-husserl-intentionality-article.md is a Stage 4 output written before this pipeline existed. Extract the commentaries, not that article.*
 
-177 units and 3 recorded absences from 8 commentaries.
+200 units and 3 recorded absences from 9 commentaries.
 
 ## Primary corpus, by composition or delivery date
 
@@ -320,6 +320,127 @@
   > The consciousness of presentness arises from the interplay of the retentional and protentional intentionality of the passively experienced primal stream.
 
 *Partial pass: Covers editors' introduction (Sections I-V): intentional consciousness framework, problems with intentional apprehension schema, the question of whether the primal process is intentional, double intentionality (transverse/longitudinal), passive/genetic intentionality. Not covered: the six main text groups (Texts 1-22).*
+
+### 1920-1921 to 1925-1926 - Husserl Passive Synthesis Commentary
+
+`husserliana-11-analyses-concerning-passive-and-active-synthesis-commentary`
+
+- **revised** · `intentionalitaet/hua11/001` · *the ego as pole*
+  The ego manifests in each wakeful lived-experience as pole, ego-center and radiating point, and is not a box containing egoless lived-experiences, a slate on which they appear, or a bundle or flow of consciousness.
+  `husserliana-11-analyses-concerning-passive-and-active-synthesis-commentary#h3-5-sense-constituting-lived-experiences-as-egoic-acts` · Hua XI, Preliminary Considerations § 5 · [5. Sense-Constituting Lived-Experiences as Egoic Acts](https://faultynode.github.io/commentaries/commentaries/husserl/husserliana-11-analyses-concerning-passive-and-active-synthesis-commentary.html#sense-constituting-lived-experiences-as-egoic-acts)
+  > The ego is not a box containing egoless lived-experiences, not a slate upon which they appear and disappear, not a bundle or flow of consciousness.
+
+- **introduced** · `intentionalitaet/hua11/002` · *background lived-experiences*
+  The wakeful ego has a constant broad horizon of background lived-experiences, which are not a dead zone but a field of potential allures, sensations, affects and drives that knock at the door of the ego without necessarily being admitted.
+  `husserliana-11-analyses-concerning-passive-and-active-synthesis-commentary#h3-5-sense-constituting-lived-experiences-as-egoic-acts` · Hua XI, Preliminary Considerations § 5 · [5. Sense-Constituting Lived-Experiences as Egoic Acts](https://faultynode.github.io/commentaries/commentaries/husserl/husserliana-11-analyses-concerning-passive-and-active-synthesis-commentary.html#sense-constituting-lived-experiences-as-egoic-acts)
+  > the background is not a dead zone but a field of potential allures—sensations, affects, drives—that "knock at the door of the ego" without necessarily being admitted.
+
+- **revised** · `intentionalitaet/hua11/003` · *intentional lived-experience (broad concept)*
+  Every act in the specific sense is a consciousness of something, but even background lived-experiences are intentional, and the egoic act in the specific sense is a special form of carrying out intentional lived-experiences.
+  `husserliana-11-analyses-concerning-passive-and-active-synthesis-commentary#h3-6-foreground-lived-experiences-and-background-lived-experiences` · Hua XI, Preliminary Considerations § 6 · [6. Foreground Lived-Experiences and Background Lived-Experiences](https://faultynode.github.io/commentaries/commentaries/husserl/husserliana-11-analyses-concerning-passive-and-active-synthesis-commentary.html#foreground-lived-experiences-and-background-lived-experiences)
+  > The egoic act in the specific sense is a special form of carrying out intentional lived-experiences.
+
+- **introduced** · `intentionalitaet/hua11/004` · *latent / patent intentionality*
+  A background act's intentionality is a hidden intentionality until the ego intervenes and actualizes it, and it belongs to the essence of a lived-experience that it is a consciousness of the same thing in the transition from one mode of execution to another.
+  `husserliana-11-analyses-concerning-passive-and-active-synthesis-commentary#h3-6-foreground-lived-experiences-and-background-lived-experiences` · Hua XI, Preliminary Considerations § 6 · [6. Foreground Lived-Experiences and Background Lived-Experiences](https://faultynode.github.io/commentaries/commentaries/husserl/husserliana-11-analyses-concerning-passive-and-active-synthesis-commentary.html#foreground-lived-experiences-and-background-lived-experiences)
+  > its intentionality is a hidden intentionality, until we intervene and actualize it.
+
+- **presupposed** · `intentionalitaet/hua11/005` · *intentionality as fundamental essence of consciousness*
+  Phenomenology's regression to sense-giving consciousness lets us see in a presuppositionless manner the feature of intentionality as the fundamental essence of consciousness and the hidden implication of one consciousness in another.
+  `husserliana-11-analyses-concerning-passive-and-active-synthesis-commentary#h3-9-the-regression-from-theoretical-logos-to-the-pre-theoretical-sense-giving-life` · Hua XI, Preliminary Considerations § 9 · [9. The Regression from Theoretical Logos to the Pre-theoretical Sense-Giving Life of Consciousness](https://faultynode.github.io/commentaries/commentaries/husserl/husserliana-11-analyses-concerning-passive-and-active-synthesis-commentary.html#the-regression-from-theoretical-logos-to-the-pre-theoretical-sense-giving-life-of-consciousness)
+  > It has allowed us to see in a presuppositionless manner the feature of intentionality as the fundamental essence of consciousness, and to develop the hidden implication of one consciousness in another, making intelligible how objectivity as true being is shaped as an accomplishment in the subjectivity of conscious life.
+
+- **introduced** · `intentionalitaet/hua11/006` · *sense liberated from expression*
+  The concept of sense must be liberated from its relation to expressions: every intentional lived-experience possesses its intentional sense, which becomes a specifically meant sense only when the ego carries out acts thematically.
+  `husserliana-11-analyses-concerning-passive-and-active-synthesis-commentary#h3-9-the-regression-from-theoretical-logos-to-the-pre-theoretical-sense-giving-life` · Hua XI, Preliminary Considerations § 9 · [9. The Regression from Theoretical Logos to the Pre-theoretical Sense-Giving Life of Consciousness](https://faultynode.github.io/commentaries/commentaries/husserl/husserliana-11-analyses-concerning-passive-and-active-synthesis-commentary.html#the-regression-from-theoretical-logos-to-the-pre-theoretical-sense-giving-life-of-consciousness)
+  > We must liberate the concept of sense from its relation to expressions. Every intentional lived-experience possesses its intentional sense; this becomes a specifically meant sense when the ego carries out acts thematically.
+
+- **introduced** · `intentionalitaet/hua11/007` · *objective sense (Sinn)*
+  The objective sense is the identical pole of a manifold of varying appearances constituted through a synthesis of coinciding, and perception is an intentional lived-experience having immanently within itself an intentional object as an inseparable sense.
+  `husserliana-11-analyses-concerning-passive-and-active-synthesis-commentary#h3-10-perception-and-perceptual-sense` · Hua XI, Preliminary Considerations § 10 · [10. Perception and Perceptual Sense](https://faultynode.github.io/commentaries/commentaries/husserl/husserliana-11-analyses-concerning-passive-and-active-synthesis-commentary.html#perception-and-perceptual-sense)
+  > Perception is an intentional lived-experience having immanently, within itself, an intentional object as an inseparable sense.
+
+- **criticized** · `intentionalitaet/hua11/008` · *ambiguity of Sinn (Materie / quality)*
+  Husserl adds a self-critical note that his introduction of "sense" is unclear: a schism arises between the intentional content or "material" (Materie) and the "quality," the intentional object as merely presented versus modally qualified.
+  `husserliana-11-analyses-concerning-passive-and-active-synthesis-commentary#h3-10-perception-and-perceptual-sense` · Hua XI, Preliminary Considerations § 10 · [10. Perception and Perceptual Sense](https://faultynode.github.io/commentaries/commentaries/husserl/husserliana-11-analyses-concerning-passive-and-active-synthesis-commentary.html#perception-and-perceptual-sense)
+  > a schism arises between the intentional content and the intentional modal-character, which looks like a distinction between two components: the intentional content or "material" (*Materie*) and the "quality"—the intentional object as what is merely presented (*das bloß Vorgestellte*) and what is modally qualified.
+
+- **introduced** · `intentionalitaet/hua11/009` · *essential contradiction of external perception*
+  External perception is a constant pretension to accomplish something that by its very nature it is not in a position to accomplish, so that it harbors an essential contradiction.
+  `husserliana-11-analyses-concerning-passive-and-active-synthesis-commentary#h3-s1-original-consciousness-and-the-perspectival-adumbration-of-spatial-objects` · Hua XI, Part 2 § 1 · [§1. Original Consciousness and the Perspectival Adumbration of Spatial Objects](https://faultynode.github.io/commentaries/commentaries/husserl/husserliana-11-analyses-concerning-passive-and-active-synthesis-commentary.html#original-consciousness-and-the-perspectival-adumbration-of-spatial-objects)
+  > external perception is a constant pretension to accomplish something that, by its very nature, it is not in a position to accomplish. It thus harbors an "essential contradiction," as it were.
+
+- **introduced** · `intentionalitaet/hua11/010` · *system of referential implications / halo of emptiness*
+  The perceived is at every moment a system of referential implications with an appearance-core, and everything genuinely appearing is so only by being intertwined with an intentional empty horizon, a halo of emptiness that is a determinable indeterminacy.
+  `husserliana-11-analyses-concerning-passive-and-active-synthesis-commentary#h3-s1-original-consciousness-and-the-perspectival-adumbration-of-spatial-objects` · Hua XI, Part 2 § 1 · [§1. Original Consciousness and the Perspectival Adumbration of Spatial Objects](https://faultynode.github.io/commentaries/commentaries/husserl/husserliana-11-analyses-concerning-passive-and-active-synthesis-commentary.html#original-consciousness-and-the-perspectival-adumbration-of-spatial-objects)
+  > Everything genuinely appearing is so only by virtue of being intertwined with an intentional empty horizon—a "halo of emptiness" that is not a nothingness but an emptiness to be filled out, a determinable indeterminacy.
+
+- **introduced** · `intentionalitaet/hua11/011` · *inner / outer horizon*
+  Husserl distinguishes the inner horizon from the outer horizon, and aspects are nothing in themselves, being appearances-of only through the intentional horizons inseparable from them.
+  `husserliana-11-analyses-concerning-passive-and-active-synthesis-commentary#h3-s1-original-consciousness-and-the-perspectival-adumbration-of-spatial-objects` · Hua XI, Part 2 § 1 · [§1. Original Consciousness and the Perspectival Adumbration of Spatial Objects](https://faultynode.github.io/commentaries/commentaries/husserl/husserliana-11-analyses-concerning-passive-and-active-synthesis-commentary.html#original-consciousness-and-the-perspectival-adumbration-of-spatial-objects)
+  > Aspects are nothing in themselves; they are appearances-of only through the intentional horizons inseparable from them.
+
+- **introduced** · `intentionalitaet/hua11/012` · *apperceptive transfer / association of similarity*
+  When a second thing accords with an earlier familiar thing in the side genuinely seen, an inner coinciding awakened through the association of similarity gives the new thing the entire epistemic prefiguring of the earlier one, so that it is apperceived with the same non-visible qualities.
+  `husserliana-11-analyses-concerning-passive-and-active-synthesis-commentary#h3-s3-the-possibility-of-our-acquired-knowledge-being-freely-at-our-disposal` · Hua XI, Part 2 § 3 · [§3. The Possibility of Our Acquired Knowledge Being Freely at Our Disposal](https://faultynode.github.io/commentaries/commentaries/husserl/husserliana-11-analyses-concerning-passive-and-active-synthesis-commentary.html#the-possibility-of-our-acquired-knowledge-being-freely-at-our-disposal)
+  > the new thing receives the entire epistemic prefiguring from the earlier one. It is *apperceived* with the same non-visible qualities as the previous one.
+
+- **introduced** · `intentionalitaet/hua11/013` · *constitutive duet (kinaestheses / appearances)*
+  In every perceptual process there is a constitutive duet of kinaestheses as independent and appearances as dependent variables: appearances form dependent systems and only as dependent on kinaestheses can they pass into one another and constitute a unity of sense.
+  `husserliana-11-analyses-concerning-passive-and-active-synthesis-commentary#h3-s3-the-possibility-of-our-acquired-knowledge-being-freely-at-our-disposal` · Hua XI, Part 2 § 3 · [§3. The Possibility of Our Acquired Knowledge Being Freely at Our Disposal](https://faultynode.github.io/commentaries/commentaries/husserl/husserliana-11-analyses-concerning-passive-and-active-synthesis-commentary.html#the-possibility-of-our-acquired-knowledge-being-freely-at-our-disposal)
+  > Appearances form dependent systems; only as dependent upon kinaestheses can they pass into one another and constitute a unity of sense.
+
+- **introduced** · `intentionalitaet/hua11/014` · *esse and percipi*
+  For the immanent object appearance and what appears cannot be separated, so that percipi and esse converge in every Now, whereas for transcendent objects esse is in principle distinguished from percipi and the thing is given only in and through an appearance.
+  `husserliana-11-analyses-concerning-passive-and-active-synthesis-commentary#h3-s4-the-relation-of-esse-and-percipi-in-immanent-and-transcendent-perception` · Hua XI, Part 2 § 4 · [§4. The Relation of esse and percipi in Immanent and Transcendent Perception](https://faultynode.github.io/commentaries/commentaries/husserl/husserliana-11-analyses-concerning-passive-and-active-synthesis-commentary.html#the-relation-of-esse-and-percipi-in-immanent-and-transcendent-perception)
+  > For transcendent objects, *esse* is in principle distinguished from *percipi*.
+
+- **introduced** · `intentionalitaet/hua11/015` · *apperception*
+  Consciousness's accomplishment of bestowing on mere immanent sensible data the function of exhibiting something objectively transcendent is apperception, and adumbrating and exhibiting in data of sensation is totally different from interpretation through signs.
+  `husserliana-11-analyses-concerning-passive-and-active-synthesis-commentary#h3-s4-the-relation-of-esse-and-percipi-in-immanent-and-transcendent-perception` · Hua XI, Part 2 § 4 · [§4. The Relation of esse and percipi in Immanent and Transcendent Perception](https://faultynode.github.io/commentaries/commentaries/husserl/husserliana-11-analyses-concerning-passive-and-active-synthesis-commentary.html#the-relation-of-esse-and-percipi-in-immanent-and-transcendent-perception)
+  > Husserl characterizes consciousness's accomplishment of bestowing on mere immanent sensible data the function of exhibiting something objectively "transcendent" as *apperception*.
+
+- **introduced** · `intentionalitaet/hua11/016` · *correlation of sense-giving and sense*
+  Every possible object of a possible consciousness is also an object for a possible originally giving consciousness, an object that in principle could not be an object of consciousness being pure non-sense, and both sense-giving and sense require one another essentially.
+  `husserliana-11-analyses-concerning-passive-and-active-synthesis-commentary#h3-s4-the-relation-of-esse-and-percipi-in-immanent-and-transcendent-perception` · Hua XI, Part 2 § 4 · [§4. The Relation of esse and percipi in Immanent and Transcendent Perception](https://faultynode.github.io/commentaries/commentaries/husserl/husserliana-11-analyses-concerning-passive-and-active-synthesis-commentary.html#the-relation-of-esse-and-percipi-in-immanent-and-transcendent-perception)
+  > Every possible object of a possible consciousness is also an object for possible originally giving consciousness—"perception."
+
+- **introduced** · `intentionalitaet/hua11/017` · *negation as impressional overpowering*
+  Negation is not a logical operation applied externally but a lived-experiential event in which the primordial-impressional force of what is actually given in the flesh overpowers the merely empty anticipation.
+  `husserliana-11-analyses-concerning-passive-and-active-synthesis-commentary#h3-s6-partial-fulfillment-conflict-through-unexpected-sense-data-restored-concordan` · Hua XI, Part 2 § 6 · [§6. Partial Fulfillment—Conflict through Unexpected Sense Data—Restored Concordance](https://faultynode.github.io/commentaries/commentaries/husserl/husserliana-11-analyses-concerning-passive-and-active-synthesis-commentary.html#partial-fulfillmentconflict-through-unexpected-sense-datarestored-concordance)
+  > the primordial-impressional force of what is actually given in the flesh overpowers the merely empty anticipation. Negation is not a logical operation applied externally but a lived-experiential event of overpowering.
+
+- **introduced** · `intentionalitaet/hua11/018` · *passive modalization / active position-taking*
+  Passive modalization occurs in the intentionality of perception itself prior to any egoic intervention, while active position-taking is the ego's Yes/No response to what has already occurred passively, so that all active judgment presupposes its passive motivational ground.
+  `husserliana-11-analyses-concerning-passive-and-active-synthesis-commentary#h3-s14-position-taking-of-the-ego-as-the-active-response-to-the-modal-modifications` · Hua XI, Part 2 § 14 · [§14. Position-Taking of the Ego as the Active Response to the Modal Modifications of Passive Doxa](https://faultynode.github.io/commentaries/commentaries/husserl/husserliana-11-analyses-concerning-passive-and-active-synthesis-commentary.html#position-taking-of-the-ego-as-the-active-response-to-the-modal-modifications-of-passive-doxa)
+  > the difference between passive modalization (which occurs in the intentionality of perception itself, prior to any egoic intervention) and active position-taking (which is the ego's response to what has already occurred passively). All active judgment presupposes its passive motivational ground.
+
+- **introduced** · `intentionalitaet/hua11/019` · *passive intention / associative synthesis*
+  Presentations that point beyond themselves to other presentations thereby gain the character of a specific "intention" (teleological directedness, meantness) produced in pure passivity, and the synthesis in which this passive intention arises is the associative synthesis, the universal shape of passive genesis.
+  `husserliana-11-analyses-concerning-passive-and-active-synthesis-commentary#h3-s18-description-of-the-possible-types-of-empty-presentation` · Hua XI, Part 2 § 18 · [§18. Description of the Possible Types of Empty Presentation](https://faultynode.github.io/commentaries/commentaries/husserl/husserliana-11-analyses-concerning-passive-and-active-synthesis-commentary.html#description-of-the-possible-types-of-empty-presentation)
+  > The synthesis in which this intention arises is named associative synthesis—the most important and completely universal functioning shape of passive genesis.
+
+- **criticized** · `intentionalitaet/hua11/020` · *retention without intention*
+  Not all presentations intend an object: original retentions arising in time-consciousness do not arise through associative awakening and have no directedness, so Brentano was phenomenologically incorrect to characterize the connection of retentions to impressions as "original association."
+  `husserliana-11-analyses-concerning-passive-and-active-synthesis-commentary#h3-s18-description-of-the-possible-types-of-empty-presentation` · Hua XI, Part 2 § 18 · [§18. Description of the Possible Types of Empty Presentation](https://faultynode.github.io/commentaries/commentaries/husserl/husserliana-11-analyses-concerning-passive-and-active-synthesis-commentary.html#description-of-the-possible-types-of-empty-presentation)
+  > Therefore Brentano was phenomenologically incorrect to characterize the connection of retentions to impressions as "original association."
+
+- **introduced** · `intentionalitaet/hua11/021` · *intention toward self-giving*
+  Directedness is tendentious, a striving that drives at satisfaction, and this satisfaction is only possible in a special synthesis bringing the presented object to self-givenness.
+  `husserliana-11-analyses-concerning-passive-and-active-synthesis-commentary#h3-s20-intention-toward-fulfillment-is-the-intention-toward-self-giving` · Hua XI, Part 2 § 20 · [§20. Intention Toward Fulfillment is the Intention Toward Self-Giving](https://faultynode.github.io/commentaries/commentaries/husserl/husserliana-11-analyses-concerning-passive-and-active-synthesis-commentary.html#intention-toward-fulfillment-is-the-intention-toward-self-giving)
+  > directedness is tendentious, a striving—and as tendency, it is "driving at" satisfaction. This satisfaction is only possible in a special synthesis bringing the presented object to self-givenness.
+
+- **introduced** · `intentionalitaet/hua11/022` · *epistemic striving*
+  The protentional intention already carries the anticipatory certainty of what is to come, so epistemic striving is directed not toward being, which is already certain, but toward the experiential seeing of the self of what is taken for being.
+  `husserliana-11-analyses-concerning-passive-and-active-synthesis-commentary#h3-s21-epistemic-striving-and-striving-after-the-effective-realization-of-the-prese` · Hua XI, Part 2 § 21 · [§21. Epistemic Striving and Striving after the Effective Realization of the Presented Object](https://faultynode.github.io/commentaries/commentaries/husserl/husserliana-11-analyses-concerning-passive-and-active-synthesis-commentary.html#epistemic-striving-and-striving-after-the-effective-realization-of-the-presented-object)
+  > not toward being (which is already certain), but toward the experiential seeing of the self of what is taken for being.
+
+- **introduced** · `intentionalitaet/hua11/023` · *evidence as possessing the self*
+  Evidence is nothing other than consciousness of the adaequatio rei et intellectus carried out in the originality of possessing the self, and an object grasped in the flesh can only be there as existent when it is the identical to which the subject can return in iterable rememberings.
+  `husserliana-11-analyses-concerning-passive-and-active-synthesis-commentary#h3-s22-the-different-relationships-of-intention-and-the-intended-self-secondary-ver` · Hua XI, Part 2 § 22 · [§22. The Different Relationships of Intention and the Intended Self. Secondary Verification](https://faultynode.github.io/commentaries/commentaries/husserl/husserliana-11-analyses-concerning-passive-and-active-synthesis-commentary.html#the-different-relationships-of-intention-and-the-intended-self-secondary-verification)
+  > Evidence is nothing other than consciousness of the *adaequatio rei et intellectus* carried out in the originality of possessing the self.
+
+*Partial pass: Covers Part 1 SS 4-10 and Part 2 SS 1-7 and SS 14-22 of the lecture course: the threefold intending/meaning/intended distinction, the ego as radiating pole, latent vs. patent intentionality, the objective sense as identical pole of a coinciding synthesis, the halo of emptiness and referential implications, esse/percipi and apperception, negation as an impressional overpowering, passive vs. active modalization, passive intention and associative synthesis, and intention toward self-giving. Not covered: Part 2 SS 8-13 (doubt, possibility), the rest of Division 2 (evidence), Part 3 (active synthesis, SS 48-54), the Supplementary Texts, and the Translator's Introduction.*
 
 ### 1925 - Husserl, Hua 9 — Phenomenological Psychology
 
@@ -722,7 +843,6 @@
 
 *Where the theme's terms occur but no extraction pass has run. Silence in the sections above is silence about these files, not evidence of absence in them.*
 
-- `husserliana-11-analyses-concerning-passive-and-active-synthesis-commentary` - 175 term hits, no record
 - `henry-philosophie-et-phenomenologie-du-corps-commentary` - 127 term hits, no record
 - `husserliana-3-ideas-i-commentary` - 121 term hits, no record
 - `husserliana-7-erste-philosophie-i-commentary` - 118 term hits, no record
