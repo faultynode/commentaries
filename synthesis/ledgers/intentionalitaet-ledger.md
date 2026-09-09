@@ -4,7 +4,35 @@
 
 *Partly worked already: commentaries/heidegger/heidegger-husserl-intentionality-article.md is a Stage 4 output written before this pipeline existed. Extract the commentaries, not that article.*
 
-139 units and 3 recorded absences from 4 commentaries.
+143 units and 3 recorded absences from 5 commentaries.
+
+## Primary corpus, by composition or delivery date
+
+### 1907 - Husserl's Thing and Space (1907)
+
+`husserl-thing-and-space-commentary`
+
+- **introduced** · `intentionalitaet/husserl-thing-and-space/001` · *intentionality / essential determination of perception*
+  Intentionality is the essential character of perception: to perceive is to be consciousness of an object. Perception is distinguished from other consciousness-types (phantasy, image, thought) not by intentionality itself but by the mode of givenness—presence in the flesh.
+  `husserl-thing-and-space-commentary#h3-s4-intentionality-as-the-essential-determination-of-perception` · Thing and Space, §4 · [§4. Intentionality as the essential determination of perception](https://faultynode.github.io/commentaries/commentaries/husserl/husserl-thing-and-space-commentary.html#intentionality-as-the-essential-determination-of-perception)
+  > the relation to the object constitutes an essential character of perception
+
+- **introduced** · `intentionalitaet/husserl-thing-and-space/002` · *intentional content / real (reell) content distinction*
+  The real content of perception (what belongs phenomenologically to the perception) must be distinguished from its intentional content (what the perception presents as properties of the object). The perceiving subject has parts that the perceived object does not: the perception is not itself a surface.
+  `husserl-thing-and-space-commentary#h3-s6-assertions-about-perceptions-and-assertions-about-perceived-objects-real-reel` · Thing and Space, §6 · [§6. Assertions about perceptions and assertions about perceived objects. Real \[reell\] and intentional components of perception](https://faultynode.github.io/commentaries/commentaries/husserl/husserl-thing-and-space-commentary.html#assertions-about-perceptions-and-assertions-about-perceived-objects-real-reell-and-intentional-components-of-perception)
+  > The real content and the intentional content are rigorously distinct. The color-datum in the perception is not the color of the object; the spatial extension of the pre-empirical visual field is not the spatial extension of the thing.
+
+- **introduced** · `intentionalitaet/husserl-thing-and-space/003` · *intentional relation / identity-consciousness / immanent determination*
+  The intentional relation to an object is reconceived as the fittingness of consciousness to found identity-consciousness or difference-consciousness with other perceptions. Intending an object is an immanent determination of consciousness itself, grounded in essence.
+  `husserl-thing-and-space-commentary#h3-s11-resolution-of-a-difficulty-even-intentional-components-of-perception-given-i` · Thing and Space, §11 · [§11. Resolution of a difficulty: even intentional components of perception given in the mode of self-posing](https://faultynode.github.io/commentaries/commentaries/husserl/husserl-thing-and-space-commentary.html#resolution-of-a-difficulty-even-intentional-components-of-perception-given-in-the-mode-of-self-posing)
+  > It is an immanent determination of the consciousness itself
+
+- **introduced** · `intentionalitaet/husserl-thing-and-space/004` · *intention / fulfillment / degrees of givenness*
+  Perceptual intention is directed toward increasingly complete givenness of the object. As perception proceeds, intentions for fuller presentation are continuously set out and fulfilled, with degrees of completeness ranging from partial and unclear presentations toward optimal givenness.
+  `husserl-thing-and-space-commentary#h3-s32-intention-and-fulfillment-in-the-perceptual-process-increase-and-decrease-of` · Thing and Space, §32 · [§32. Intention and fulfillment in the perceptual process. Increase and decrease of the fullness of givenness](https://faultynode.github.io/commentaries/commentaries/husserl/husserl-thing-and-space-commentary.html#intention-and-fulfillment-in-the-perceptual-process-increase-and-decrease-of-the-fullness-of-givenness)
+  > The incomplete presentation is already a consciousness of givenness
+
+*Partial pass: Covers intentionality as essential determination of perception (§4), real/intentional content distinction (§6), intentional relation through identity-consciousness framework (§11), and intention/fulfillment in perceptual process (§32). Not covered: intentionality through kinaesthetic motivation (§§44-57), intentionality in spatial constitution (§§58ff).*
 
 ## Reception layer
 
@@ -325,7 +353,6 @@
 - `husserliana-11-analyses-concerning-passive-and-active-synthesis-commentary` - 175 term hits, no record
 - `husserliana-9-phenomenological-psychology-commentary` - 166 term hits, no record
 - `heidegger-ga-24-die-grundprobleme-der-phanomenologie-commentary` - 133 term hits, no record
-- `husserl-thing-and-space-commentary` - 128 term hits, no record
 - `henry-philosophie-et-phenomenologie-du-corps-commentary` - 127 term hits, no record
 - `husserliana-3-ideas-i-commentary` - 121 term hits, no record
 - `husserliana-7-erste-philosophie-i-commentary` - 118 term hits, no record

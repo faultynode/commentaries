@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "commentary": "husserl-thing-and-space-commentary",
+  "source_sha256": "e0d0451d72ec96da3d81ae5556439940774ed1e7a51cb3d8a40eb1cf5affde23",
+  "extracted_at": "2026-09-09",
+  "extractor": {
+    "agent": "claude-code",
+    "prompt": "prompts/synthesis-pipeline/inheritance-prompt.md",
+    "note": "Inheritance pass queried Thing and Space commentary for philosophical precedents influencing intentionality doctrine. Commentary focuses on developing and analyzing Husserl's intentionality theory rather than tracing its philosophical genealogy. Engagements identified with Kant (critical/anti-Kantian), Locke (adumbration example), and Brentano (physical phenomena concept), but these address other aspects of perception theory rather than intentionality's methodological precedents."
+  },
+  "coverage": "partial",
+  "coverage_note": "Thing and Space lectures do not contain explicit discussions of philosophical predecessors for intentionality doctrine. The text presents intentionality as foundational to phenomenology and develops it constitutively without tracing its genealogy. Methodological references to Kant and Locke are critical engagements; Brentano reference concerns sensation theory rather than intentionality.",
+  "engagements": []
+}
