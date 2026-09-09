@@ -4,7 +4,7 @@
 
 *Partly worked already: commentaries/heidegger/heidegger-husserl-intentionality-article.md is a Stage 4 output written before this pipeline existed. Extract the commentaries, not that article.*
 
-520 units and 3 recorded absences from 25 commentaries.
+544 units and 3 recorded absences from 26 commentaries.
 
 ## Primary corpus, by composition or delivery date
 
@@ -441,6 +441,132 @@
   > The consciousness of presentness arises from the interplay of the retentional and protentional intentionality of the passively experienced primal stream.
 
 *Partial pass: Covers editors' introduction (Sections I-V): intentional consciousness framework, problems with intentional apprehension schema, the question of whether the primal process is intentional, double intentionality (transverse/longitudinal), passive/genetic intentionality. Not covered: the six main text groups (Texts 1-22).*
+
+### 1919 - Husserl Natur und Geist 1919 Commentary
+
+`husserl-natur-und-geist-commentary`
+
+- **introduced** · `intentionalitaet/nug/001` · *consciousness of something / stream of experience*
+  My life is an unceasing stream of subjective experiencing, enclosed within which is a stream of ceaseless consciousness that is in itself consciousness of something, in which I have something conscious in various forms (perceiving, remembering, expecting, fantasizing, thinking, valuing, willing, acting).
+  `husserl-natur-und-geist-commentary#h3-ego-life-as-constant-perceiving-impression-and-reproduction` · Nature and Spirit (SS 1919), 'Ego-Life as Constant Perceiving' · [Ego-Life as Constant Perceiving: Impression and Reproduction](https://faultynode.github.io/commentaries/commentaries/husserl/husserl-natur-und-geist-commentary.html#ego-life-as-constant-perceiving-impression-and-reproduction)
+  > My life is an unceasing stream of subjective experiencing, and enclosed within it a stream of ceaseless "consciousness" that is in itself consciousness of something — consciousness in which I have something conscious, and that in various forms
+
+- **introduced** · `intentionalitaet/nug/002` · *consciousness as condition of pregivenness*
+  The I and its conscious life are the title of the most original pregivennesses and what makes pregivennesses possible at all, since for me something is given only through some modes of consciousness, in intentional experiences, and what is given is not only consciousness and its immanent contents but also what is foreign to it.
+  `husserl-natur-und-geist-commentary#h3-ego-life-as-constant-perceiving-impression-and-reproduction` · Nature and Spirit (SS 1919), 'Ego-Life as Constant Perceiving' · [Ego-Life as Constant Perceiving: Impression and Reproduction](https://faultynode.github.io/commentaries/commentaries/husserl/husserl-natur-und-geist-commentary.html#ego-life-as-constant-perceiving-impression-and-reproduction)
+  > it is what makes pregivennesses possible at all. For it is entirely evident: for me something is given and to be given, to be given only through some modes of consciousness (in intentional experiences).
+
+- **introduced** · `intentionalitaet/nug/003` · *Perzeption / ego-life as constant perceiving*
+  Ego-life is constant perceiving: by perception in the broad (Leibnizian) sense is meant every consciousness in which an individually singular object is intuitively conscious in its selfhood as actually existing, whether or not it is actively grasped or thematized.
+  `husserl-natur-und-geist-commentary#h3-ego-life-as-constant-perceiving-impression-and-reproduction` · Nature and Spirit (SS 1919), 'Ego-Life as Constant Perceiving' · [Ego-Life as Constant Perceiving: Impression and Reproduction](https://faultynode.github.io/commentaries/commentaries/husserl/husserl-natur-und-geist-commentary.html#ego-life-as-constant-perceiving-impression-and-reproduction)
+  > Ego-life is constant perceiving. By perception we understand here every consciousness in which an individually singular object is intuitively — that is, in its selfhood, in features that make up its own essence — conscious to us as actually existing
+
+- **introduced** · `intentionalitaet/nug/004` · *impression / reproduction*
+  Every perceptive experience in which the individually singular is conscious in the awareness that it is present in the original is an impression, and every experience in which the perceived is conscious as not present in the original, in the mode of mere re-presentation, is a reproductive experience; the difference is not that of temporal present but an immanent modality of the experience itself.
+  `husserl-natur-und-geist-commentary#h3-ego-life-as-constant-perceiving-impression-and-reproduction` · Nature and Spirit (SS 1919), 'Ego-Life as Constant Perceiving' · [Ego-Life as Constant Perceiving: Impression and Reproduction](https://faultynode.github.io/commentaries/commentaries/husserl/husserl-natur-und-geist-commentary.html#ego-life-as-constant-perceiving-impression-and-reproduction)
+  > Every experience in which the perceived itself is conscious as not present in the original, in other words in the mode of mere re-presentation — is a reproductive, that is, a re-presenting experience
+
+- **introduced** · `intentionalitaet/nug/005` · *reflexivity of consciousness*
+  Consciousness is only as itself also conscious, and indeed impressionally conscious, and where it is not currently noted it can be brought to awareness by a turning-back of the gaze, a reflection, which is itself impressionally conscious and open to a further reflection, in principle without end.
+  `husserl-natur-und-geist-commentary#h3-ego-life-as-constant-perceiving-impression-and-reproduction` · Nature and Spirit (SS 1919), 'Ego-Life as Constant Perceiving' · [Ego-Life as Constant Perceiving: Impression and Reproduction](https://faultynode.github.io/commentaries/commentaries/husserl/husserl-natur-und-geist-commentary.html#ego-life-as-constant-perceiving-impression-and-reproduction)
+  > Wondrously, consciousness is only as itself also conscious — indeed, as said, impressionally conscious — and it can, where it is not currently noted in awareness, be brought to awareness by way of a turning-back of the gaze, a reflection.
+
+- **introduced** · `intentionalitaet/nug/006` · *immanent / transcendent perception*
+  In immanent perception the perceived is inseparably one with the perceiving and both are really one stream; what is externally perceived or I-foreign is conscious as being 'in itself' over against the perceiving, not inseparably united with it, its enduring esse not exhausted by its percipi.
+  `husserl-natur-und-geist-commentary#h3-inner-and-outer-perception-object-and-appearance` · Nature and Spirit (SS 1919), 'Inner and Outer Perception' · [Inner and Outer Perception. Object and Appearance](https://faultynode.github.io/commentaries/commentaries/husserl/husserl-natur-und-geist-commentary.html#inner-and-outer-perception-object-and-appearance)
+  > what is externally perceived or I-foreign is conscious as being "in itself" over against the perceiving and its I. It is not inseparably united with the perceiving; its enduring *esse* is not exhausted by its *percipi*.
+
+- **introduced** · `intentionalitaet/nug/007` · *the intentional sense of outer perception*
+  Every outer perception in itself intends the reality of the perceived as I-foreign; by its own essence it is perception of something existing 'in itself', be it a thing or a foreign subject, and it can occasionally be a false perception that falsely posits this I-foreign in-itself.
+  `husserl-natur-und-geist-commentary#h3-inner-and-outer-perception-object-and-appearance` · Nature and Spirit (SS 1919), 'Inner and Outer Perception' · [Inner and Outer Perception. Object and Appearance](https://faultynode.github.io/commentaries/commentaries/husserl/husserl-natur-und-geist-commentary.html#inner-and-outer-perception-object-and-appearance)
+  > every outer perception in itself intends the reality of the perceived as I-foreign; it is by its own essence perception of something existing "in itself" in the designated sense
+
+- **introduced** · `intentionalitaet/nug/008` · *the presumptive character of outer perception*
+  An externally perceived thing, although given in its bodily presence, is actually always given only presumptively, since its content or sense points beyond itself to what is not given, and this co-intended surplus must agree with the actual further experience or be rejected.
+  `husserl-natur-und-geist-commentary#h3-inner-and-outer-perception-object-and-appearance` · Nature and Spirit (SS 1919), 'Inner and Outer Perception' · [Inner and Outer Perception. Object and Appearance](https://faultynode.github.io/commentaries/commentaries/husserl/husserl-natur-und-geist-commentary.html#inner-and-outer-perception-object-and-appearance)
+  > an externally perceived thing, although given in its bodily presence, is actually always given only presumptively — its content or sense, with which it is given, points beyond itself to what is not given
+
+- **introduced** · `intentionalitaet/nug/009` · *meaning-beyond / fulfilment*
+  A perception can have a real, something characterized as an in-itself over against it, conscious only in the manner of an intending, a meaning-beyond that intends beyond itself and constantly aims at fulfilment, and even in fulfilment again aims beyond itself at something new, in infinitum.
+  `husserl-natur-und-geist-commentary#h3-inner-and-outer-perception-object-and-appearance` · Nature and Spirit (SS 1919), 'Inner and Outer Perception' · [Inner and Outer Perception. Object and Appearance](https://faultynode.github.io/commentaries/commentaries/husserl/husserl-natur-und-geist-commentary.html#inner-and-outer-perception-object-and-appearance)
+  > a perception can have a real, something characterized as an in-itself over against it, conscious only in the manner of an intending, a meaning-beyond that intends beyond itself and constantly aims at fulfillment, and even in fulfillment again aims beyond itself at something new.
+
+- **introduced** · `intentionalitaet/nug/010` · *perception through appearance*
+  All outer perception is, not contingently but in eternal necessity, perception through appearance: in outer perception one must unavoidably distinguish, according to its own sense-content, between appearance and what appears, transcendent objects being what they are only as something appearing in appearances.
+  `husserl-natur-und-geist-commentary#h3-inner-and-outer-perception-object-and-appearance` · Nature and Spirit (SS 1919), 'Inner and Outer Perception' · [Inner and Outer Perception. Object and Appearance](https://faultynode.github.io/commentaries/commentaries/husserl/husserl-natur-und-geist-commentary.html#inner-and-outer-perception-object-and-appearance)
+  > all outer perception is — and not contingently but in eternal necessity — perception through appearance. In outer perception, one must distinguish, and unavoidably distinguish according to its own sense-content, between appearance and what appears.
+
+- **introduced** · `intentionalitaet/nug/011` · *immanent perception without appearance*
+  It belongs to the essence of immanent perception that its object in principle cannot appear: the distinction between the object itself and the appearance of the object is necessarily absent, and thereby immanent perception characterizes itself as one that has its perceived as absolute being within itself.
+  `husserl-natur-und-geist-commentary#h3-inner-and-outer-perception-object-and-appearance` · Nature and Spirit (SS 1919), 'Inner and Outer Perception' · [Inner and Outer Perception. Object and Appearance](https://faultynode.github.io/commentaries/commentaries/husserl/husserl-natur-und-geist-commentary.html#inner-and-outer-perception-object-and-appearance)
+  > For immanent perception, the distinction between the object itself and the appearance of the object is necessarily absent. Precisely thereby it characterizes itself as a perception that has its perceived as absolute being within itself
+
+- **introduced** · `intentionalitaet/nug/012` · *adumbration (Abschattung)*
+  Every thing is in every case seen only in a certain perspectival adumbration, the shape itself being distinguished from the given shape-adumbration and likewise the colour from the colour-adumbration, so that a distinction must be made throughout between object and object-aspect.
+  `husserl-natur-und-geist-commentary#h3-inner-and-outer-perception-object-and-appearance` · Nature and Spirit (SS 1919), 'Inner and Outer Perception' · [Inner and Outer Perception. Object and Appearance](https://faultynode.github.io/commentaries/commentaries/husserl/husserl-natur-und-geist-commentary.html#inner-and-outer-perception-object-and-appearance)
+  > Every thing is in every case seen only in a certain perspectival adumbration; the shape itself is thereby distinguished from the given shape-adumbration.
+
+- **introduced** · `intentionalitaet/nug/013` · *the a priori of adumbration*
+  The perspectival givenness of outer objects is a priori in the strictest sense in which everything purely mathematical is a priori: no object of the type of an outer, I-foreign can be thinkable that would not be given through appearances, and it could be given otherwise only with absurdity.
+  `husserl-natur-und-geist-commentary#h3-inner-and-outer-perception-object-and-appearance` · Nature and Spirit (SS 1919), 'Inner and Outer Perception' · [Inner and Outer Perception. Object and Appearance](https://faultynode.github.io/commentaries/commentaries/husserl/husserl-natur-und-geist-commentary.html#inner-and-outer-perception-object-and-appearance)
+  > that no object of the type of an outer, I-foreign can be thinkable that would not be given through appearances, and that it could be given otherwise only with absurdity.
+
+- **introduced** · `intentionalitaet/nug/014` · *the infinite perceptual system*
+  Every outer perception belongs a priori to an infinite and determinate perceptual system, the actual perception being convertible into an endlessly open manifold of new perceptions all characterized in themselves, by a unity-consciousness derived from the continuous transition, as perceptions of the same object.
+  `husserl-natur-und-geist-commentary#h3-inner-and-outer-perception-object-and-appearance` · Nature and Spirit (SS 1919), 'Inner and Outer Perception' · [Inner and Outer Perception. Object and Appearance](https://faultynode.github.io/commentaries/commentaries/husserl/husserl-natur-und-geist-commentary.html#inner-and-outer-perception-object-and-appearance)
+  > Every outer perception thus belongs a priori to an infinite perceptual system, and to a determinate one.
+
+- **introduced** · `intentionalitaet/nug/015` · *presentation / appresentation*
+  Constantly and necessarily there obtains a two-layeredness of outer perception: in one layer it is properly presenting (the visible side), in the other merely appresenting (the invisible aspect, conscious only as an indeterminate horizon of appresented thingly moments inseparable from the given side).
+  `husserl-natur-und-geist-commentary#h3-inner-and-outer-perception-object-and-appearance` · Nature and Spirit (SS 1919), 'Inner and Outer Perception' · [Inner and Outer Perception. Object and Appearance](https://faultynode.github.io/commentaries/commentaries/husserl/husserl-natur-und-geist-commentary.html#inner-and-outer-perception-object-and-appearance)
+  > Constantly and necessarily there obtains this two-layeredness of outer perception: in one layer it is properly presenting, in the other merely appresenting.
+
+- **introduced** · `intentionalitaet/nug/016` · *appresentation vs. sign*
+  Appresentation is not representation by a sign, not a pointer directing attention elsewhere, but a structural moment of the perception itself in which what is not directly given is nonetheless co-intended as belonging to the same object.
+  `husserl-natur-und-geist-commentary#h3-inner-and-outer-perception-object-and-appearance` · Nature and Spirit (SS 1919), 'Inner and Outer Perception' · [Inner and Outer Perception. Object and Appearance](https://faultynode.github.io/commentaries/commentaries/husserl/husserl-natur-und-geist-commentary.html#inner-and-outer-perception-object-and-appearance)
+  > Appresentation is not representation by a sign — it is not like a pointer directing attention elsewhere — but a structural moment of the perception itself in which what is not directly given is nonetheless co-intended as belonging to the same object.
+
+- **introduced** · `intentionalitaet/nug/017` · *the transcendental as streaming life*
+  The transcendental is not some concept or construction of an extravagant philosophy, but streaming life itself as it actually is ego-life, under exclusion of everything that in this life, in the form of intentions and appearances, is merely intended, appearing, or thought and is not itself occurring in the stream.
+  `husserl-natur-und-geist-commentary#h3-the-method-of-phenomenological-reduction-transcendental-phenomenology-as-a-prior` · Nature and Spirit (SS 1919), 'The Method of Phenomenological Reduction' · [The Method of Phenomenological Reduction. Transcendental Phenomenology as A Priori Science of Pure Consciousness](https://faultynode.github.io/commentaries/commentaries/husserl/husserl-natur-und-geist-commentary.html#the-method-of-phenomenological-reduction-transcendental-phenomenology-as-a-priori-science-of-pure-consciousness)
+  > The transcendental is thus not some concept, some construction of an extravagant philosophy, but streaming life itself as it actually is ego-life, under exclusion of everything that in this life, in the form of intentions and appearances, is merely intended, appearing, thought
+
+- **introduced** · `intentionalitaet/nug/018` · *the I constitutes its surrounding world*
+  The I in its own ego-life is what creates for itself its surrounding world: it is the achievement of certain of its experiences, the play of immanent appearances and their peculiar syntheses under titles such as 'concordant flowing-together in consciousness of selfsameness', that makes it the case that the I has the outer as bodily pregivenness.
+  `husserl-natur-und-geist-commentary#h3-the-method-of-phenomenological-reduction-transcendental-phenomenology-as-a-prior` · Nature and Spirit (SS 1919), 'The Method of Phenomenological Reduction' · [The Method of Phenomenological Reduction. Transcendental Phenomenology as A Priori Science of Pure Consciousness](https://faultynode.github.io/commentaries/commentaries/husserl/husserl-natur-und-geist-commentary.html#the-method-of-phenomenological-reduction-transcendental-phenomenology-as-a-priori-science-of-pure-consciousness)
+  > For the I in its own ego-life is what, so to speak, creates for itself its surrounding world; it is the achievement of certain of its experiences, the play of immanent appearances, peculiar syntheses of these appearances
+
+- **introduced** · `intentionalitaet/nug/019` · *the phenomenological bracket / noematic correlate*
+  The content bracketed by the reduction does not vanish; it remains as the intentional correlate of consciousness, the 'perceived as such', the 'remembered as such', the 'thought as such', so that the whole world reappears within phenomenology as intentional sense rather than posited reality.
+  `husserl-natur-und-geist-commentary#h3-the-method-of-phenomenological-reduction-transcendental-phenomenology-as-a-prior` · Nature and Spirit (SS 1919), 'The Method of Phenomenological Reduction' · [The Method of Phenomenological Reduction. Transcendental Phenomenology as A Priori Science of Pure Consciousness](https://faultynode.github.io/commentaries/commentaries/husserl/husserl-natur-und-geist-commentary.html#the-method-of-phenomenological-reduction-transcendental-phenomenology-as-a-priori-science-of-pure-consciousness)
+  > The bracketed content does not vanish; it remains as the intentional correlate of consciousness — the "perceived as such," the "remembered as such," the "thought as such."
+
+- **introduced** · `intentionalitaet/nug/020` · *noesis / noema*
+  Every noetic moment has noematic function: nothing in the real content of a consciousness fails to contribute to the sense-giving for the noematic x, and consciousness is through and through consciousness-of-something, so that analyzing it in any direction one always finds the 'of something'.
+  `husserl-natur-und-geist-commentary#h3-the-method-of-phenomenological-reduction-transcendental-phenomenology-as-a-prior` · Nature and Spirit (SS 1919), 'The Method of Phenomenological Reduction' · [The Method of Phenomenological Reduction. Transcendental Phenomenology as A Priori Science of Pure Consciousness](https://faultynode.github.io/commentaries/commentaries/husserl/husserl-natur-und-geist-commentary.html#the-method-of-phenomenological-reduction-transcendental-phenomenology-as-a-priori-science-of-pure-consciousness)
+  > Every noetic moment has noematic function: nothing in the real content of a consciousness fails to contribute to the sense-giving for the noematic x. Consciousness is through and through consciousness-of-something; analyzing it in any direction, one always finds the "of something."
+
+- **introduced** · `intentionalitaet/nug/021` · *existence as index / idea*
+  Existence is not a property of the object but an index for a certain structure of experiential course: the idea of an identical x as the theme of a consistently self-confirming positing, an open infinite horizon of concordant experience, so that existence is an ideal limit-concept.
+  `husserl-natur-und-geist-commentary#h3-the-method-of-phenomenological-reduction-transcendental-phenomenology-as-a-prior` · Nature and Spirit (SS 1919), 'The Method of Phenomenological Reduction' · [The Method of Phenomenological Reduction. Transcendental Phenomenology as A Priori Science of Pure Consciousness](https://faultynode.github.io/commentaries/commentaries/husserl/husserl-natur-und-geist-commentary.html#the-method-of-phenomenological-reduction-transcendental-phenomenology-as-a-priori-science-of-pure-consciousness)
+  > Existence, Husserl argues, is not a property of the object but an index for a certain structure of experiential course: the idea of an identical x as the theme of a consistently self-confirming positing, an open infinite horizon of concordant experience.
+
+- **introduced** · `intentionalitaet/nug/022` · *transcendental guidelines*
+  The ontological categories of each region of objects (thing, person, cultural artifact, number) serve as transcendental guidelines (Leitfäden), guiding threads for the phenomenological investigation of the constitutive consciousness in which objects of that type are given.
+  `husserl-natur-und-geist-commentary#h3-the-method-of-phenomenological-reduction-transcendental-phenomenology-as-a-prior` · Nature and Spirit (SS 1919), 'The Method of Phenomenological Reduction' · [The Method of Phenomenological Reduction. Transcendental Phenomenology as A Priori Science of Pure Consciousness](https://faultynode.github.io/commentaries/commentaries/husserl/husserl-natur-und-geist-commentary.html#the-method-of-phenomenological-reduction-transcendental-phenomenology-as-a-priori-science-of-pure-consciousness)
+  > the ontological categories of each region of objects (thing, person, cultural artifact, number, etc.) serve as guiding threads for the phenomenological investigation of the constitutive consciousness in which objects of that type are given.
+
+- **introduced** · `intentionalitaet/nug/023` · *things and subjects in quotation marks*
+  The basic types of outer objectivities are to be taken not at face value as basic types of outer realities but as guiding threads for noematic-noetic phenomenological investigations, so that all talk of 'things' and 'subjects' is in quotation marks, noematic and not ontological.
+  `husserl-natur-und-geist-commentary#h3-the-articulation-into-things-and-subjects-according-to-the-distinction-of-nature` · Nature and Spirit (SS 1919), 'The Articulation into Things and Subjects' · [The Articulation into Things and Subjects according to the Distinction of Nature and Spirit](https://faultynode.github.io/commentaries/commentaries/husserl/husserl-natur-und-geist-commentary.html#the-articulation-into-things-and-subjects-according-to-the-distinction-of-nature-and-spirit)
+  > All talk of "things" and "subjects" is in quotation marks — noematic, not ontological.
+
+- **introduced** · `intentionalitaet/nug/024` · *meaning-predicates as achievement-correlate*
+  Spiritual meaning, consisting in certain predicates belonging to the object, is originally the achievement-correlate of certain subject-acts that bestow meaning upon pregiven objects, and such predicates can be fully intuitively understood only by going back to the active subjectivity in whose acts they originally constitute themselves.
+  `husserl-natur-und-geist-commentary#h3-the-articulation-into-things-and-subjects-according-to-the-distinction-of-nature` · Nature and Spirit (SS 1919), 'The Articulation into Things and Subjects' · [The Articulation into Things and Subjects according to the Distinction of Nature and Spirit](https://faultynode.github.io/commentaries/commentaries/husserl/husserl-natur-und-geist-commentary.html#the-articulation-into-things-and-subjects-according-to-the-distinction-of-nature-and-spirit)
+  > spiritual meaning, consisting in certain predicates belonging to the object, is originally the achievement-correlate of certain subject-acts that bestow meaning upon pregiven objects. Such predicates can be fully intuitively understood only if one goes back to the active subjectivity in whose acts they originally constitute themselves.
+
+*Partial pass: Covers the 1919 lectures' phenomenology of perception and the reduction: the stream of experience as consciousness of something and as the condition of all pregivenness; ego-life as constant perceiving (Perzeption) and the impression/reproduction distinction as an immanent modality; the reflexivity of consciousness; the contrast of immanent and transcendent perception (esse=percipi for the immanent, the in-itself of the transcendent), the intentional sense of outer perception and its essentially presumptive character, meaning-beyond and fulfilment, perception through appearance vs the appearance-free givenness of the immanent, adumbration (Abschattung) and its a priori status, the infinite perceptual system, and presentation/appresentation; the transcendental as streaming life, the I as constitutor of its surrounding world, the phenomenological bracket and the noematic correlate, noesis/noema and consciousness as through-and-through consciousness-of-something, existence as an index/idea, and transcendental guidelines; and the treatment of 'things' and 'subjects' as noematic guiding threads and of spiritual meaning-predicates as the achievement-correlate of meaning-bestowing subject-acts. Not covered: the Introduction's history-of-philosophy material and the Part II ontology of physical nature and the psychophysical/psychic sphere.*
 
 ### 1920-1921 to 1925-1926 - Husserl Passive Synthesis Commentary
 
@@ -1974,7 +2100,6 @@
 *Where the theme's terms occur but no extraction pass has run. Silence in the sections above is silence about these files, not evidence of absence in them.*
 
 - `Reduction et donation Commentary` - 43 term hits, no record
-- `husserl-natur-und-geist-commentary` - 43 term hits, no record
 - `picht-de-anima-commentary` - 28 term hits, no record
 - `heidegger-sein-und-zeit-commentary` - 27 term hits, no record
 - `kern-husserl-and-kant-commentary` - 20 term hits, no record
