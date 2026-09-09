@@ -1,0 +1,111 @@
+{
+  "schema_version": 1,
+  "commentary": "franck-chair-et-corps-commentary",
+  "source_sha256": "0757213bac9658321459643d6202563f502dbbf2f877f1e30d07dd34c897d9d5",
+  "extracted_at": "2026-09-09",
+  "extractor": {
+    "agent": "claude-code",
+    "prompt": "prompts/synthesis-pipeline/inheritance-prompt.md",
+    "note": "Stage 3 inheritance pass tracing Husserl's phenomenology relative to its philosophical predecessors. Focus on Preface and Chapter One establishing genealogy of phenomenology through Descartes, Heidegger, and German Idealism."
+  },
+  "coverage": "partial",
+  "coverage_note": "Covers the genealogy established in Preface and Chapters One-Two, tracing Husserl's relation to Descartes (founder of modern philosophy), Hegel (history of philosophy), Heidegger (end of metaphysics), Kierkegaard (repetition), and broader tradition. Not covered: detailed engagements with Kant, Brentano, Natorp in later chapters.",
+  "engagements": [
+    {
+      "id": "inh/franck/001",
+      "locator": "franck-chair-et-corps-commentary#h2-preface",
+      "predecessor": { "author": "Heidegger", "text": "Was heißt Denken?" },
+      "mode": "acknowledged-debt",
+      "claim": "Franck's entire methodological frame is set by Heideggerian questioning about thinking at the end of philosophy, establishing the horizon for phenomenological study.",
+      "quote": "The list of possible tasks he runs through (\"to think that we do not yet think,\" \"to think that what most gives us to think is that we do not yet think,\" \"to think that thinking means nothing\") quietly cites Heidegger's *Was heißt Denken?*"
+    },
+    {
+      "id": "inh/franck/002",
+      "locator": "franck-chair-et-corps-commentary#h2-preface",
+      "predecessor": { "author": "Descartes" },
+      "mode": "acknowledged-debt",
+      "claim": "Descartes is established as the originary founder of modern philosophy whose cogito initiates the entire philosophical epoch that Husserl completes.",
+      "quote": "And modern philosophy is, originally and fundamentally, Cartesian."
+    },
+    {
+      "id": "inh/franck/003",
+      "locator": "franck-chair-et-corps-commentary#h2-preface",
+      "predecessor": { "author": "Hegel" },
+      "mode": "acknowledged-debt",
+      "claim": "Hegel's historical-philosophical framework is marshalled to support the Cartesian genealogy of modern philosophy.",
+      "quote": "Hegel calling Descartes the true beginning of modern philosophy"
+    },
+    {
+      "id": "inh/franck/004",
+      "locator": "franck-chair-et-corps-commentary#h2-preface",
+      "predecessor": { "author": "Heidegger", "text": "Being and Time" },
+      "mode": "acknowledged-debt",
+      "claim": "Heidegger's ontological analysis grounds the claim that modern metaphysics originates with Descartes and completes with Western philosophy.",
+      "quote": "Heidegger saying that the whole of modern metaphysics, Nietzsche included, remains within the interpretation of truth and of beings initiated by Descartes"
+    },
+    {
+      "id": "inh/franck/005",
+      "locator": "franck-chair-et-corps-commentary#h2-preface",
+      "predecessor": { "author": "Kierkegaard" },
+      "mode": "terminological-borrowing",
+      "claim": "The Kierkegaardian-Heideggerian concept of repetition characterizes how Husserl's phenomenology repeats and completes the Cartesian project.",
+      "quote": "Thinking demands, as a precondition, the elucidation of this ultimate figure; it requires a *repetition* (in the strong Heideggerian–Kierkegaardian sense)."
+    },
+    {
+      "id": "inh/franck/006",
+      "locator": "franck-chair-et-corps-commentary#h2-preface",
+      "predecessor": { "author": "Descartes" },
+      "mode": "polemical-rejection",
+      "claim": "Descartes initiates both transcendental subjectivity and the psychologism that phenomenology must overcome — a paradoxical double inheritance.",
+      "quote": "Descartes is thus at the origin of *transcendental psychologism*, a \"displacement that falsifies everything,\" a falsification perceptible only from transcendental phenomenology."
+    },
+    {
+      "id": "inh/franck/007",
+      "locator": "franck-chair-et-corps-commentary#h2-preface",
+      "predecessor": { "author": "Descartes", "text": "Meditations" },
+      "mode": "destructive-appropriation",
+      "claim": "Husserl's fundamental question transforms Descartes' epistemological problem into a transcendental-phenomenological one about consciousness and transcendence.",
+      "quote": "And this restriction takes its ultimate origin from Descartes's own question — how to attain certain knowledge of external things? — to which Husserl's prior question responds: how can consciousness go outside itself to posit things as transcendent?"
+    },
+    {
+      "id": "inh/franck/008",
+      "locator": "franck-chair-et-corps-commentary#h2-preface",
+      "predecessor": { "author": "Husserl", "text": "Crisis" },
+      "mode": "acknowledged-debt",
+      "claim": "Husserl's own philosophy of history identifies Descartes as originary founding genius, producing what Husserl calls a \"poem of the history of philosophy.\"",
+      "quote": "Franck now shows that Husserl himself produced a \"poem of the history of philosophy\" (the phrase is Husserl's own self-description, drawn from the *Crisis*) in which Descartes is the originary founding genius of all modern philosophy"
+    },
+    {
+      "id": "inh/franck/009",
+      "locator": "franck-chair-et-corps-commentary#h2-preface",
+      "predecessor": { "author": "Heidegger", "text": "Being and Time" },
+      "mode": "acknowledged-debt",
+      "claim": "Reading Husserl well is the methodological way to measure what Heidegger's fundamental ontology attempted and to expose the unthought problem of flesh.",
+      "quote": "In other words: the better we read Husserl, the more we can take the measure of Heidegger."
+    },
+    {
+      "id": "inh/franck/010",
+      "locator": "franck-chair-et-corps-commentary#h2-chapter-one-self-givenness-and-incarnate-givenness",
+      "predecessor": { "author": "Heidegger", "text": "Being and Time § 69" },
+      "mode": "polemical-rejection",
+      "claim": "Heidegger's critique of Husserl grounds intentionality in ecstatic temporality, proposing a fundamental alternative to Husserlian phenomenology's approach.",
+      "quote": "He notes that Husserl uses the expression \"make present\" to characterize sensory perception (citing the *Logical Investigations*) and that this temporal way of describing the phenomenon must have been suggested by the analysis of perception and intuition in terms of intention."
+    },
+    {
+      "id": "inh/franck/011",
+      "locator": "franck-chair-et-corps-commentary#h2-chapter-one-self-givenness-and-incarnate-givenness",
+      "predecessor": { "author": "Heidegger", "text": "Time and Being" },
+      "mode": "polemical-rejection",
+      "claim": "Heidegger later disavowed the spatiality-from-temporality derivation of Being and Time, indicating internal critique of his own foundational strategy.",
+      "quote": "Heidegger himself later wrote, in \"Time and Being,\" that this attempt to derive human spatiality from temporality is untenable."
+    },
+    {
+      "id": "inh/franck/012",
+      "locator": "franck-chair-et-corps-commentary#h2-chapter-three-flesh-and-body-in-perception",
+      "predecessor": { "author": "Kant" },
+      "mode": "acknowledged-debt",
+      "claim": "Husserl's doctrine of adequate givenness as regulative ideal follows Kantian critical philosophy, making the transcendent thing adequately present only as an Idea.",
+      "quote": "And — just like the temporal flow itself — the adequate givenness of a transcendent thing is an Idea in the Kantian sense (a regulative idea, never fully realized but always aimed at)."
+    }
+  ]
+}
