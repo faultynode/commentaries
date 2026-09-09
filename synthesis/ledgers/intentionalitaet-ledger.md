@@ -4,7 +4,7 @@
 
 *Partly worked already: commentaries/heidegger/heidegger-husserl-intentionality-article.md is a Stage 4 output written before this pipeline existed. Extract the commentaries, not that article.*
 
-50 units and 2 recorded absences from 3 commentaries.
+53 units and 2 recorded absences from 4 commentaries.
 
 ## Primary corpus, by composition or delivery date
 
@@ -77,7 +77,6 @@
 - `husserliana-19-1-fifth-logical-investigation-commentary` - 281 term hits, no record
 - `franck-chair-et-corps-commentary` - 224 term hits, no record
 - `husserliana-11-analyses-concerning-passive-and-active-synthesis-commentary` - 175 term hits, no record
-- `heidegger-ga-24-die-grundprobleme-der-phanomenologie-commentary` - 133 term hits, no record
 - `husserl-thing-and-space-commentary` - 128 term hits, no record
 - `henry-philosophie-et-phenomenologie-du-corps-commentary` - 127 term hits, no record
 - `husserliana-3-ideas-i-commentary` - 121 term hits, no record

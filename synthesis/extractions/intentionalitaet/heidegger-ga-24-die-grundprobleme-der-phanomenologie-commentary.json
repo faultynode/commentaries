@@ -1,0 +1,41 @@
+{
+  "schema_version": 1,
+  "theme": "intentionalitaet",
+  "commentary": "heidegger-ga-24-die-grundprobleme-der-phanomenologie-commentary",
+  "source_sha256": "224be004aedc25744d4193201465722e6efe4c8c99c0b1c2a05764b01b51efad",
+  "extracted_at": "2026-09-09",
+  "extractor": {
+    "agent": "claude-code",
+    "prompt": "Extract key instances of intentionality/intentional from Heidegger GA 24 Die Grundprobleme der Phänomenologie",
+    "note": "Partial extraction focused on section §8c on the being-constitution of perception and intentionality. Documents Heidegger's engagement with Husserl's phenomenological doctrine of intentionality and its role in correcting misinterpretations."
+  },
+  "coverage": "partial",
+  "coverage_note": "Covers section b of the commentary: phenomenology's designation of intentionality, historical roles of Brentano and especially Husserl's philosophical clarification in the Logical Investigations and Ideas, and intentionality as essential to comportment. Not covered: detailed analysis of intentio/intentum distinction, misinterpretations, transcendence relation, or treatment in other sections.",
+  "units": [
+    {
+      "id": "intentionalitaet/hga24/001",
+      "locator": "heidegger-ga-24-die-grundprobleme-der-phanomenologie-commentary#h3-b-the-being-constitution-of-perception-intentionality-and-transcendence",
+      "term": "intentionality (phenomenological designation)",
+      "status": "introduced",
+      "claim": "Phenomenology designates the structure of comportments as being-directed-toward using the term intentionality, following a Scholastic term.",
+      "quote": "*Phenomenology designates this structure, following a Scholastic term, as intentionality.*"
+    },
+    {
+      "id": "intentionalitaet/hga24/002",
+      "locator": "heidegger-ga-24-die-grundprobleme-der-phanomenologie-commentary#h3-b-the-being-constitution-of-perception-intentionality-and-transcendence",
+      "term": "intentionality (Husserl's philosophical clarification)",
+      "status": "introduced",
+      "claim": "Husserl for the first time philosophically clarified the essence of intentionality in the Logical Investigations and continued this clarification in the Ideas.",
+      "quote": "Husserl is influenced, who for the first time in the *Logical Investigations* clarified the essence of intentionality and continues this clarification in the *Ideas*."
+    },
+    {
+      "id": "intentionalitaet/hga24/003",
+      "locator": "heidegger-ga-24-die-grundprobleme-der-phanomenologie-commentary#h3-b-the-being-constitution-of-perception-intentionality-and-transcendence",
+      "term": "intentionality as essential structure",
+      "status": "presupposed",
+      "claim": "Intentionality belongs essentially to comportments such that talking of 'intentional comportment' is redundant, like saying 'a spatial triangle.'",
+      "quote": "It belongs to the *essence* of comportments, so that the talk of \"intentional comportment\" is already a pleonasm and amounts to my saying \"a spatial triangle.\""
+    }
+  ],
+  "absences": []
+}
