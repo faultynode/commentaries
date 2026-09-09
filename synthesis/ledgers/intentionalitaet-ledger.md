@@ -4,7 +4,7 @@
 
 *Partly worked already: commentaries/heidegger/heidegger-husserl-intentionality-article.md is a Stage 4 output written before this pipeline existed. Extract the commentaries, not that article.*
 
-407 units and 3 recorded absences from 20 commentaries.
+429 units and 3 recorded absences from 21 commentaries.
 
 ## Primary corpus, by composition or delivery date
 
@@ -1031,6 +1031,122 @@
 
 *Partial pass: Covers section b of the commentary: phenomenology's designation of intentionality, historical roles of Brentano and especially Husserl's philosophical clarification in the Logical Investigations and Ideas, and intentionality as essential to comportment. Not covered: detailed analysis of intentio/intentum distinction, misinterpretations, transcendence relation, or treatment in other sections.*
 
+### undated - Husserl Erfahrung und Urteil Commentary
+
+`husserl-erfahrung-und-urteil-commentary`
+
+- **introduced** · `intentionalitaet/eu/001` · *intentional modification / intentional implication*
+  Mere judging is to be understood as an intentional modification of evident judging: every judgment, even one made emptily, carries within itself a reference to possible fulfillment, to a possible return to the things themselves, and the genetic regress traces these modifications back to their fulfilling originals.
+  `husserl-erfahrung-und-urteil-commentary#h4-a-mere-judging-as-an-intentional-modification-of-evident-judging` · Erfahrung und Urteil § 5 (a) · [a) Mere Judging as an Intentional Modification of Evident Judging](https://faultynode.github.io/commentaries/commentaries/husserl/husserl-erfahrung-und-urteil-commentary.html#a-mere-judging-as-an-intentional-modification-of-evident-judging)
+  > every judgment, even one made emptily, carries within itself a reference to possible fulfillment, to a possible return to the things themselves.
+
+- **introduced** · `intentionalitaet/eu/002` · *fore-knowledge / inner horizon*
+  Every experience has a knowing and co-knowing concerning the very thing it experiences, of what belongs to it that it has not yet gotten to see; this fore-knowledge is indeterminate but never completely empty, and if it did not co-hold the experience would not be experience of this thing at all.
+  `husserl-erfahrung-und-urteil-commentary#h3-s8-the-horizon-structure-of-experience-typical-pre-acquaintance-with-every-indiv` · Erfahrung und Urteil § 8 · [§8. The Horizon-Structure of Experience; Typical Pre-Acquaintance with Every Individual Object of Experience](https://faultynode.github.io/commentaries/commentaries/husserl/husserl-erfahrung-und-urteil-commentary.html#the-horizon-structure-of-experience-typical-pre-acquaintance-with-every-individual-object-of-experience)
+  > This fore-knowledge (*Vorwissen*) is indeterminate or incompletely determined in content, but never completely empty; and if it did not co-hold, the experience would not be experience of a thing at all — of this thing.
+
+- **introduced** · `intentionalitaet/eu/003` · *anticipation as a mode of intentionality*
+  The original 'induction' or anticipation belonging to every experience proves to be a modification-mode of originally instituting cognitive activities, a mode of intentionality that intends beyond a core of givenness, anticipating.
+  `husserl-erfahrung-und-urteil-commentary#h3-s8-the-horizon-structure-of-experience-typical-pre-acquaintance-with-every-indiv` · Erfahrung und Urteil § 8 · [§8. The Horizon-Structure of Experience; Typical Pre-Acquaintance with Every Individual Object of Experience](https://faultynode.github.io/commentaries/commentaries/husserl/husserl-erfahrung-und-urteil-commentary.html#the-horizon-structure-of-experience-typical-pre-acquaintance-with-every-individual-object-of-experience)
+  > This original "induction" or anticipation proves to be a modification-mode of originally instituting cognitive activities — a mode of "intentionality," one that intends (*meint*) beyond a core of givenness, anticipating.
+
+- **introduced** · `intentionalitaet/eu/004` · *inner and outer horizon*
+  Every experienced thing has not only an inner horizon (of its own not-yet-perceived determinations) but also an openly endless outer horizon of co-objects, a second-level horizon that refers to the first and implies it, all its co-conscious background reals being conscious as objects of the one spatiotemporal world.
+  `husserl-erfahrung-und-urteil-commentary#h3-s8-the-horizon-structure-of-experience-typical-pre-acquaintance-with-every-indiv` · Erfahrung und Urteil § 8 · [§8. The Horizon-Structure of Experience; Typical Pre-Acquaintance with Every Individual Object of Experience](https://faultynode.github.io/commentaries/commentaries/husserl/husserl-erfahrung-und-urteil-commentary.html#the-horizon-structure-of-experience-typical-pre-acquaintance-with-every-individual-object-of-experience)
+  > every experienced thing has not only an inner horizon but also an openly endless outer horizon of co-objects — a second-level horizon, referring to the first and implying it
+
+- **introduced** · `intentionalitaet/eu/005` · *sense-transcendence*
+  To every individual apperception, and to every given total stock of individual apperceptions, there attaches a sense-transcendence: toward the anticipated potentiality of possible new reals to be experienced, and as inner horizon toward the stock of features not yet apperceived in every appearing real.
+  `husserl-erfahrung-und-urteil-commentary#h3-s8-the-horizon-structure-of-experience-typical-pre-acquaintance-with-every-indiv` · Erfahrung und Urteil § 8 · [§8. The Horizon-Structure of Experience; Typical Pre-Acquaintance with Every Individual Object of Experience](https://faultynode.github.io/commentaries/commentaries/husserl/husserl-erfahrung-und-urteil-commentary.html#the-horizon-structure-of-experience-typical-pre-acquaintance-with-every-individual-object-of-experience)
+  > to every individual apperception, to every given total stock of individual apperceptions, there attaches a sense-transcendence (*Sinnestranszendenz*)
+
+- **introduced** · `intentionalitaet/eu/006` · *objectual apprehension of the pregiven*
+  From the very outset everything affecting us from the background is conscious in an objectual apprehension (gegenständliche Auffassung), the perceptual field being from the outset a field of objects apprehended as unities of possible experience, that is, as possible substrates of acts of taking cognizance.
+  `husserl-erfahrung-und-urteil-commentary#h3-s8-the-horizon-structure-of-experience-typical-pre-acquaintance-with-every-indiv` · Erfahrung und Urteil § 8 · [§8. The Horizon-Structure of Experience; Typical Pre-Acquaintance with Every Individual Object of Experience](https://faultynode.github.io/commentaries/commentaries/husserl/husserl-erfahrung-und-urteil-commentary.html#the-horizon-structure-of-experience-typical-pre-acquaintance-with-every-individual-object-of-experience)
+  > From the very outset, everything affecting us from the background is conscious in an "objectual apprehension" (*gegenständliche Auffassung*), anticipatorily conscious as what belongs to every moment of life
+
+- **introduced** · `intentionalitaet/eu/007` · *acquaintance / non-acquaintance*
+  What affects us from the passively pregiven background is not a completely empty something without sense: non-acquaintance is always at the same time a mode of acquaintance, since what affects us is at least known in advance as a something with determinations, conscious in the empty form of determinability.
+  `husserl-erfahrung-und-urteil-commentary#h3-s8-the-horizon-structure-of-experience-typical-pre-acquaintance-with-every-indiv` · Erfahrung und Urteil § 8 · [§8. The Horizon-Structure of Experience; Typical Pre-Acquaintance with Every Individual Object of Experience](https://faultynode.github.io/commentaries/commentaries/husserl/husserl-erfahrung-und-urteil-commentary.html#the-horizon-structure-of-experience-typical-pre-acquaintance-with-every-individual-object-of-experience)
+  > non-acquaintance is always at the same time a mode of acquaintance. At the very least, what affects us is known in advance insofar as it is at all a something with determinations; it is conscious in the empty form of determinability
+
+- **introduced** · `intentionalitaet/eu/008` · *concealed constituting intentionality*
+  The idealized world and its scientific determinacy are precipitates of subjective achievements, intentional achievements, but of an intentionality that does not lie open to the gaze of reflection and is only implied in the precipitates that refer back to it, so the regress goes to a concealed subjectivity indicated only by its precipitates.
+  `husserl-erfahrung-und-urteil-commentary#h3-s11-the-origin-clarification-of-judgment-and-genealogy-of-logic-in-the-overall-h` · Erfahrung und Urteil § 11 · [§11. The Origin-Clarification of Judgment and Genealogy of Logic in the Overall Horizon of the Transcendental, Phenomenological-Constitutive Problematic](https://faultynode.github.io/commentaries/commentaries/husserl/husserl-erfahrung-und-urteil-commentary.html#the-origin-clarification-of-judgment-and-genealogy-of-logic-in-the-overall-horizon-of-the-transcendental-phenomenological-constitutive-problematic)
+  > These too are precipitates of subjective achievements, intentional achievements — but of an intentionality that does not lie open to the gaze of reflection, but is only implied (*impliziert*) in the precipitates that refer back to it.
+
+- **revised** · `intentionalitaet/eu/009` · *association as immanent genesis*
+  The title 'association', under a transformation of its traditional sense, designates a form of lawfulness of immanent genesis belonging essentially to consciousness as such, so that every conception of association as a psychophysical natural lawfulness won by objective induction must be excluded.
+  `husserl-erfahrung-und-urteil-commentary#h3-s16-the-field-of-passive-pregivennesses-and-its-associative-structure` · Erfahrung und Urteil § 16 · [§16. The Field of Passive Pregivennesses and Its Associative Structure](https://faultynode.github.io/commentaries/commentaries/husserl/husserl-erfahrung-und-urteil-commentary.html#the-field-of-passive-pregivennesses-and-its-associative-structure)
+  > The title "association" in this context designates a form of lawfulness of immanent genesis belonging essentially to consciousness as such.
+
+- **introduced** · `intentionalitaet/eu/010` · *association / Anzeige*
+  Association comes into question here exclusively as the purely immanent nexus of 'something reminds of something', 'one points to the other', a phenomenon phenomenologically demonstrable where individual prominences stand out from a field, one member consciously characterized as waking and the other as wakened.
+  `husserl-erfahrung-und-urteil-commentary#h3-s16-the-field-of-passive-pregivennesses-and-its-associative-structure` · Erfahrung und Urteil § 16 · [§16. The Field of Passive Pregivennesses and Its Associative Structure](https://faultynode.github.io/commentaries/commentaries/husserl/husserl-erfahrung-und-urteil-commentary.html#the-field-of-passive-pregivennesses-and-its-associative-structure)
+  > Association comes into question here exclusively as the purely immanent nexus of "something reminds of something," "one points to the other."
+
+- **introduced** · `intentionalitaet/eu/011` · *affection / affective force*
+  The associative coincidence-syntheses that produce prominence in the field are not merely passive processes: they have their affective force, exercising upon the ego a stimulus (Reiz) toward turning, whether or not the ego follows the stimulus.
+  `husserl-erfahrung-und-urteil-commentary#h3-s17-affection-and-ego-turning-receptivity-as-the-lowest-level-of-egoic-activity` · Erfahrung und Urteil § 17 · [§17. Affection and Ego-Turning. Receptivity as the Lowest Level of Egoic Activity](https://faultynode.github.io/commentaries/commentaries/husserl/husserl-erfahrung-und-urteil-commentary.html#affection-and-ego-turning-receptivity-as-the-lowest-level-of-egoic-activity)
+  > The syntheses of coincidence — whether coincidence in distanceless fusion or coincidence under conflict of the non-equal — have their affective force, exercise upon the ego a stimulus (*Reiz*) toward turning, whether or not it follows the stimulus.
+
+- **introduced** · `intentionalitaet/eu/012` · *ego-turning / the two tendencies*
+  One must distinguish the tendency before the cogito (the stimulus of the intentional background-experience with its degrees of strength) from the turning-toward as yielding to the tendency, the transformation of the tendency-character of the background-experience through which it becomes an actual cogito.
+  `husserl-erfahrung-und-urteil-commentary#h3-s17-affection-and-ego-turning-receptivity-as-the-lowest-level-of-egoic-activity` · Erfahrung und Urteil § 17 · [§17. Affection and Ego-Turning. Receptivity as the Lowest Level of Egoic Activity](https://faultynode.github.io/commentaries/commentaries/husserl/husserl-erfahrung-und-urteil-commentary.html#affection-and-ego-turning-receptivity-as-the-lowest-level-of-egoic-activity)
+  > We must therefore distinguish: (1) the tendency before the cogito — the tendency as stimulus of the intentional background-experience, with its various degrees of strength; and (2) the turning-toward as yielding to the tendency — the transformation of the tendency-character of the intentional background-experience, through which it becomes an actual cogito.
+
+- **introduced** · `intentionalitaet/eu/013` · *the cogito as striving*
+  Once the ego is turned toward the object and tendentiously directed toward it, every cogito, every specific ego-act, is a striving carried out from the ego, with its various forms of working-out, which can work itself out unhindered or hindered, more or less completely.
+  `husserl-erfahrung-und-urteil-commentary#h3-s17-affection-and-ego-turning-receptivity-as-the-lowest-level-of-egoic-activity` · Erfahrung und Urteil § 17 · [§17. Affection and Ego-Turning. Receptivity as the Lowest Level of Egoic Activity](https://faultynode.github.io/commentaries/commentaries/husserl/husserl-erfahrung-und-urteil-commentary.html#affection-and-ego-turning-receptivity-as-the-lowest-level-of-egoic-activity)
+  > every cogito, every specific ego-act, is a striving carried out from the ego, with its various forms of working-out.
+
+- **introduced** · `intentionalitaet/eu/014` · *receptivity as the lowest level of activity*
+  Insofar as the ego in turning-toward takes up what is pregiven to it through the affecting stimuli, one speaks of the receptivity of the ego, which stands in no exclusive opposition to activity but is to be regarded as the lowest level of activity.
+  `husserl-erfahrung-und-urteil-commentary#h3-s17-affection-and-ego-turning-receptivity-as-the-lowest-level-of-egoic-activity` · Erfahrung und Urteil § 17 · [§17. Affection and Ego-Turning. Receptivity as the Lowest Level of Egoic Activity](https://faultynode.github.io/commentaries/commentaries/husserl/husserl-erfahrung-und-urteil-commentary.html#affection-and-ego-turning-receptivity-as-the-lowest-level-of-egoic-activity)
+  > Rather, receptivity is to be regarded as the lowest level of activity.
+
+- **introduced** · `intentionalitaet/eu/015` · *attention as ego-tendency*
+  Attention is a tending of the ego toward the intentional object, toward the unity appearing in the constant change of modes of givenness, belonging to the essential structure of a specific ego-act as a carrying-out-tending whose beginning has an intentional horizon that points beyond itself emptily.
+  `husserl-erfahrung-und-urteil-commentary#h3-s18-attention-as-ego-tendency` · Erfahrung und Urteil § 18 · [§18. Attention as Ego-Tendency](https://faultynode.github.io/commentaries/commentaries/husserl/husserl-erfahrung-und-urteil-commentary.html#attention-as-ego-tendency)
+  > In general, attention is a tending of the ego toward the intentional object — toward the unity "appearing" in the constant change of modes of givenness — belonging to the essential structure of a specific ego-act
+
+- **introduced** · `intentionalitaet/eu/016` · *interest / the plus ultra*
+  With the turning-toward, an interest in the perceptual object as being has awakened, and in the firm direction toward the object there lies an intention that tends beyond the given and its momentary mode of givenness toward an ongoing plus ultra, a striving for the enrichment of the objectual 'self'.
+  `husserl-erfahrung-und-urteil-commentary#h3-s19-the-experiencing-ego-tendency-as-interest-in-what-is-experienced-and-its-wor` · Erfahrung und Urteil § 19 · [§19. The Experiencing Ego-Tendency as "Interest" in What Is Experienced and Its Working-Out in the "Doing" of the Ego](https://faultynode.github.io/commentaries/commentaries/husserl/husserl-erfahrung-und-urteil-commentary.html#the-experiencing-ego-tendency-as-interest-in-what-is-experienced-and-its-working-out-in-the-doing-of-the-ego)
+  > in this firm direction toward the object, in the continuity of its experiencing, there lies an intention that tends beyond the given and its momentary mode of givenness toward an ongoing *plus ultra*.
+
+- **introduced** · `intentionalitaet/eu/017` · *aiming (Abzielung) / attainment (Erzielung)*
+  Only in the enrichment of givenness, the penetration into the particulars and the being-given from all sides, does the tendency of the turning pass from the initial mode of aiming (Abzielung) into the mode of attainment (Erzielung).
+  `husserl-erfahrung-und-urteil-commentary#h3-s19-the-experiencing-ego-tendency-as-interest-in-what-is-experienced-and-its-wor` · Erfahrung und Urteil § 19 · [§19. The Experiencing Ego-Tendency as "Interest" in What Is Experienced and Its Working-Out in the "Doing" of the Ego](https://faultynode.github.io/commentaries/commentaries/husserl/husserl-erfahrung-und-urteil-commentary.html#the-experiencing-ego-tendency-as-interest-in-what-is-experienced-and-its-working-out-in-the-doing-of-the-ego)
+  > Only in this enrichment of givenness — the penetration into the particulars and the being-given "from all sides" — does the tendency pass from the initial mode of aiming (*Abzielung*) into the mode of attainment (*Erzielung*)
+
+- **introduced** · `intentionalitaet/eu/018` · *identity in the appearance-manifold*
+  The perceptual doing moves in a closed manifold of possible appearances, striving for ever new alterations of appearance, and is directed thereby at the one identical object that presents itself in all these appearances, the same object from this side and that side, from nearer and farther.
+  `husserl-erfahrung-und-urteil-commentary#h3-s19-the-experiencing-ego-tendency-as-interest-in-what-is-experienced-and-its-wor` · Erfahrung und Urteil § 19 · [§19. The Experiencing Ego-Tendency as "Interest" in What Is Experienced and Its Working-Out in the "Doing" of the Ego](https://faultynode.github.io/commentaries/commentaries/husserl/husserl-erfahrung-und-urteil-commentary.html#the-experiencing-ego-tendency-as-interest-in-what-is-experienced-and-its-working-out-in-the-doing-of-the-ego)
+  > It is directed thereby at the one identical object that "presents itself" in all these appearances — the same object from this side and that side, from nearer and farther.
+
+- **introduced** · `intentionalitaet/eu/019` · *kinaesthesis*
+  The movements that belong to the essence of perception and serve to bring the perceptual object to givenness from all sides are the kinaestheses, the working-out of the tendencies of perception, active subjective processes carried out involuntarily and without voluntary acts.
+  `husserl-erfahrung-und-urteil-commentary#h3-s19-the-experiencing-ego-tendency-as-interest-in-what-is-experienced-and-its-wor` · Erfahrung und Urteil § 19 · [§19. The Experiencing Ego-Tendency as "Interest" in What Is Experienced and Its Working-Out in the "Doing" of the Ego](https://faultynode.github.io/commentaries/commentaries/husserl/husserl-erfahrung-und-urteil-commentary.html#the-experiencing-ego-tendency-as-interest-in-what-is-experienced-and-its-working-out-in-the-doing-of-the-ego)
+  > We call these movements, which belong to the essence of perception and serve to bring the perceptual object to givenness from all sides as far as possible, kinaestheses. They are the working-out of the tendencies of perception
+
+- **introduced** · `intentionalitaet/eu/020` · *retentional/protentional horizon of perception*
+  Every perception, as consciousness meaning actual objectuality, has its horizon of the before and after: it points back to what was previously perceived, presentifiable in memories, and forward by anticipation to new actual intuitions.
+  `husserl-erfahrung-und-urteil-commentary#h3-s38-the-necessary-connection-of-the-intentional-objects-of-all-perceptions-and-p` · Erfahrung und Urteil § 38 · [§38. The Necessary Connection of the Intentional Objects of All Perceptions and Positional Presentifications of an Ego and an Ego-Community on the Basis of Time as the Form of Sensibility](https://faultynode.github.io/commentaries/commentaries/husserl/husserl-erfahrung-und-urteil-commentary.html#the-necessary-connection-of-the-intentional-objects-of-all-perceptions-and-positional-presentifications-of-an-ego-and-an-ego-community-on-the-basis-of-time-as-the-form-of-sensibility)
+  > Every perception, as consciousness meaning actual objectuality, has its horizon of the before and after.
+
+- **introduced** · `intentionalitaet/eu/021` · *necessary time-connection of intentional objects*
+  All perceptions and experiences of an ego stand, with respect to their intentional objects, in connection, referring even where they enter into conflict to one time; and likewise all perceptions of all mutually understanding ego-subjects refer to an objective time constituting itself in all their subjective times.
+  `husserl-erfahrung-und-urteil-commentary#h3-s38-the-necessary-connection-of-the-intentional-objects-of-all-perceptions-and-p` · Erfahrung und Urteil § 38 · [§38. The Necessary Connection of the Intentional Objects of All Perceptions and Positional Presentifications of an Ego and an Ego-Community on the Basis of Time as the Form of Sensibility](https://faultynode.github.io/commentaries/commentaries/husserl/husserl-erfahrung-und-urteil-commentary.html#the-necessary-connection-of-the-intentional-objects-of-all-perceptions-and-positional-presentifications-of-an-ego-and-an-ego-community-on-the-basis-of-time-as-the-form-of-sensibility)
+  > all perceptions and experiences of an ego stand, with respect to their intentional objects, in connection — they refer (even where they enter into conflict) to one time.
+
+- **introduced** · `intentionalitaet/eu/022` · *disconnectedness of phantasy / quasi-positionality*
+  While all perceptions, with respect to the objectualities meant in them, close together into the unity of one world, the phantasy-objectualities fall outside this unity: they have no absolute temporal position and so no single time-order among themselves, only a quasi-time in the mode of the as-if.
+  `husserl-erfahrung-und-urteil-commentary#h3-s39-transition-to-quasi-positionality-the-disconnectedness-of-phantasy-intuition` · Erfahrung und Urteil § 39 · [§39. Transition to Quasi-Positionality. The Disconnectedness of Phantasy Intuitions](https://faultynode.github.io/commentaries/commentaries/husserl/husserl-erfahrung-und-urteil-commentary.html#transition-to-quasi-positionality-the-disconnectedness-of-phantasy-intuitions)
+  > while all perceptions, with respect to the objectualities meant in them, close together into a unity, related to the unity of one world, the phantasy-objectualities fall outside this unity
+
+*Partial pass: Covers Erfahrung und Urteil's account of intentionality on the receptive/pre-predicative level and the framing of the genealogy of logic: mere judging as an intentional modification of evident judging and the intentional implication of every judgment; the inner and outer horizon of experience, fore-knowledge, anticipation as a mode of intentionality that intends beyond a core of givenness, sense-transcendence, the objectual apprehension of the pregiven and the acquaintance/non-acquaintance structure; the regress to a concealed constituting subjectivity only implied in the sense-precipitates of the world; association as a lawfulness of immanent genesis (the nexus 'something reminds of something') and as the passive synthesis that unifies the temporally separated; affection and its affective force, the two tendencies (stimulus before the cogito and the turning-toward that becomes an actual cogito), the cogito as a striving from the ego, receptivity as the lowest level of activity; attention as an ego-tendency with its intentional horizon; interest as an intention toward a plus ultra, the passage from aiming to attainment, the one identical object in the appearance-manifold, kinaesthesis; the retentional/protentional horizon of every perception and the necessary time-connection of all intentional objects of an ego and ego-community; the disconnectedness of phantasy-objectualities from the unity of the one world. Not covered: the detailed theory of explication, relation, predication, judgment-modality, the objectualities of the understanding, and eidetic variation.*
+
 ### undated - Husserl formal and transcendental logic
 
 `husserl-formal-and-transcendental-logic-commentary`
@@ -1378,7 +1494,6 @@
 
 *Where the theme's terms occur but no extraction pass has run. Silence in the sections above is silence about these files, not evidence of absence in them.*
 
-- `husserl-erfahrung-und-urteil-commentary` - 70 term hits, no record
 - `husserliana-4-ideas-ii-commentary` - 65 term hits, no record
 - `husserliana-5-ideas-iii-commentary` - 59 term hits, no record
 - `husserl-krisis-commentary` - 58 term hits, no record
