@@ -8,17 +8,17 @@ Corpus: **53 commentaries**, 2,934,474 words, 3902 sections indexed in `synthesi
 
 ### intentionalitaet - intentionality
 
-27 commentaries extracted · 559 units · 3 absences · 27 partial
+28 commentaries extracted · 582 units · 3 absences · 28 partial
 
 Next candidates, by term density:
 
 - [ ] `Reduction et donation Commentary` (undated) - 43 hits
-- [ ] `heidegger-sein-und-zeit-commentary` (1927) - 27 hits
 - [ ] `kern-husserl-and-kant-commentary` (undated) - 20 hits
 - [ ] `heidegger-ga-19-platon-sophistes-commentary` (1924) - 16 hits
 - [ ] `husserliana-23-phantasie-bildbewusstsein-erinnerung-commentary` (1904) - 15 hits
 - [ ] `derrida-la-voix-et-le-phenomene-commentary` (1967) - 14 hits
-- ... 14 more; see `synthesis_query.py --theme intentionalitaet`
+- [ ] `husserliana-13-basic-problems-of-phenomenology-commentary` (1910) - 14 hits
+- ... 13 more; see `synthesis_query.py --theme intentionalitaet`
 
 ### konstitution - constitution
 

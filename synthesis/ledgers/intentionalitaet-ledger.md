@@ -4,7 +4,7 @@
 
 *Partly worked already: commentaries/heidegger/heidegger-husserl-intentionality-article.md is a Stage 4 output written before this pipeline existed. Extract the commentaries, not that article.*
 
-559 units and 3 recorded absences from 27 commentaries.
+582 units and 3 recorded absences from 28 commentaries.
 
 ## Primary corpus, by composition or delivery date
 
@@ -855,6 +855,127 @@
   > a new-kind *Idea of psychology* opens up — new-kind not only through its concretely and universally grasped theme *object-consciousness*
 
 *Partial pass: Covers sections d-e: Brentano's discovery of intentionality, the fundamental character of consciousness, intentional object-relations, intentional acts, descriptive psychology, intentional analysis, Logical Investigations' development of intentional implication and analysis, intentional correlation-research, and the performance-character of consciousness.*
+
+### 1927 to 1953 - Sein und Zeit — Commentary
+
+`heidegger-sein-und-zeit-commentary`
+
+- **introduced** · `intentionalitaet/sz/001` · *being-in-the-world as unitary phenomenon*
+  The composite expression 'being-in-the-world' is minted to make the unity of the phenomenon prior to its moments, so that there is no worldless subject plus world to be bridged, because the bridge-problem presupposes fragments the phenomenon never yields.
+  `heidegger-sein-und-zeit-commentary#h5-s-12-the-predelineation-of-being-in-the-world-from-the-orientation-toward-being` · Sein und Zeit § 12 · [§ 12. The Predelineation of Being-in-the-World from the Orientation toward Being-in as Such](https://faultynode.github.io/commentaries/commentaries/heidegger/heidegger-sein-und-zeit-commentary.html#the-predelineation-of-being-in-the-world-from-the-orientation-toward-being-in-as-such)
+  > there is no worldless subject plus world to be bridged, because the bridge-problem presupposes fragments the phenomenon never yields.
+
+- **revised** · `intentionalitaet/sz/002` · *being-in as dwelling*
+  Against the sedimented spatial 'in' of the container-schema, the language preserves an older stratum: 'in' stems from innan-, to dwell, and the copula 'bin' is connected with 'bei' (alongside), so that 'ich bin' says: I dwell, I sojourn alongside the world as what is familiar.
+  `heidegger-sein-und-zeit-commentary#h5-s-12-the-predelineation-of-being-in-the-world-from-the-orientation-toward-being` · Sein und Zeit § 12 · [§ 12. The Predelineation of Being-in-the-World from the Orientation toward Being-in as Such](https://faultynode.github.io/commentaries/commentaries/heidegger/heidegger-sein-und-zeit-commentary.html#the-predelineation-of-being-in-the-world-from-the-orientation-toward-being-in-as-such)
+  > the expression "bin" (am) is connected with "bei" (at, alongside) — "ich bin" says in turn: I dwell, I sojourn alongside... the world as what is thus and so familiar.
+
+- **introduced** · `intentionalitaet/sz/003` · *touching presupposes a disclosed world*
+  A being can touch a present-at-hand being within the world only if it has by nature the mode of being of being-in, only if with its Da-sein something like world is already discovered to it; two worldless present-at-hand beings can never touch one another.
+  `heidegger-sein-und-zeit-commentary#h5-s-12-the-predelineation-of-being-in-the-world-from-the-orientation-toward-being` · Sein und Zeit § 12 · [§ 12. The Predelineation of Being-in-the-World from the Orientation toward Being-in as Such](https://faultynode.github.io/commentaries/commentaries/heidegger/heidegger-sein-und-zeit-commentary.html#the-predelineation-of-being-in-the-world-from-the-orientation-toward-being-in-as-such)
+  > A being can touch a present-at-hand being within the world only if it has by nature the mode of being of being-in — only if, with its Da-sein, something like world is already discovered to it, from out of which a being can become manifest in touch and so accessible in its presence-at-hand.
+
+- **criticized** · `intentionalitaet/sz/004` · *knowing not the subject-object relation*
+  As soon as the phenomenon of knowing the world was grasped it fell into an external, formal interpretation that posits knowing as a relation between subject and object, which harbours as much truth as emptiness, since subject and object do not coincide with Dasein and world.
+  `heidegger-sein-und-zeit-commentary#h5-s-13-the-exemplification-of-being-in-in-a-founded-mode-knowing-the-world` · Sein und Zeit § 13 · [§ 13. The Exemplification of Being-in in a Founded Mode. Knowing the World](https://faultynode.github.io/commentaries/commentaries/heidegger/heidegger-sein-und-zeit-commentary.html#the-exemplification-of-being-in-in-a-founded-mode-knowing-the-world)
+  > And subject and object do not coincide with Dasein and world.
+
+- **criticized** · `intentionalitaet/sz/005` · *the manufactured transcendence-problem*
+  Each step of the epistemological genesis (knowing is not in nature, not an outer property, hence 'inside') is granted only to show that the transcendence-problem is manufactured by an unexamined ontology of the knower as an occurrent thing with an interior.
+  `heidegger-sein-und-zeit-commentary#h5-s-13-the-exemplification-of-being-in-in-a-founded-mode-knowing-the-world` · Sein und Zeit § 13 · [§ 13. The Exemplification of Being-in in a Founded Mode. Knowing the World](https://faultynode.github.io/commentaries/commentaries/heidegger/heidegger-sein-und-zeit-commentary.html#the-exemplification-of-being-in-in-a-founded-mode-knowing-the-world)
+  > the transcendence-problem is shown to be manufactured by an unexamined ontology of the knower — an occurrent thing with an interior.
+
+- **introduced** · `intentionalitaet/sz/006` · *knowing founded in being-alongside*
+  Knowing is antecedently grounded in an already-being-alongside-the-world (Schon-sein-bei-der-Welt) that essentially constitutes Dasein's being, and contemplative determining of the present-at-hand becomes possible only through a deficiency of concernful having-to-do that lets beings be encountered in their pure look.
+  `heidegger-sein-und-zeit-commentary#h5-s-13-the-exemplification-of-being-in-in-a-founded-mode-knowing-the-world` · Sein und Zeit § 13 · [§ 13. The Exemplification of Being-in in a Founded Mode. Knowing the World](https://faultynode.github.io/commentaries/commentaries/heidegger/heidegger-sein-und-zeit-commentary.html#the-exemplification-of-being-in-in-a-founded-mode-knowing-the-world)
+  > knowing is antecedently grounded in an already-being-alongside-the-world (Schon-sein-bei-der-Welt), which essentially constitutes Dasein's being.
+
+- **introduced** · `intentionalitaet/sz/007` · *always already outside*
+  In directing itself toward and grasping, Dasein does not first go outside an inner sphere in which it is at first encapsulated; rather, by its primary mode of being, it is always already 'outside', alongside beings encountered in the world already discovered.
+  `heidegger-sein-und-zeit-commentary#h5-s-13-the-exemplification-of-being-in-in-a-founded-mode-knowing-the-world` · Sein und Zeit § 13 · [§ 13. The Exemplification of Being-in in a Founded Mode. Knowing the World](https://faultynode.github.io/commentaries/commentaries/heidegger/heidegger-sein-und-zeit-commentary.html#the-exemplification-of-being-in-in-a-founded-mode-knowing-the-world)
+  > In directing itself toward... and grasping, Dasein does not first go outside of an inner sphere in which it is at first encapsulated; rather, by its primary mode of being, it is always already "outside," alongside beings encountered in the world already discovered.
+
+- **revised** · `intentionalitaet/sz/008` · *intentionality out-radicalized*
+  Even mere thinking, memory, forgetting, and every error are modifications of original being-in, never lapses into a worldless interior, so that intentionality is out-radicalized: the 'of' was never a bridge from an inside, because there never was an inside to leave.
+  `heidegger-sein-und-zeit-commentary#h5-s-13-the-exemplification-of-being-in-in-a-founded-mode-knowing-the-world` · Sein und Zeit § 13 · [§ 13. The Exemplification of Being-in in a Founded Mode. Knowing the World](https://faultynode.github.io/commentaries/commentaries/heidegger/heidegger-sein-und-zeit-commentary.html#the-exemplification-of-being-in-in-a-founded-mode-knowing-the-world)
+  > Intentionality, one may say, is here out-radicalized: where Husserl taught that consciousness is of its object, Heidegger replies that the "of" was never a bridge from an inside, because there never was an inside to leave.
+
+- **introduced** · `intentionalitaet/sz/009` · *no commercium*
+  Knowing neither first creates a commercium of the subject with a world nor arises from an action of the world upon a subject: it is a mode of Dasein founded in being-in-the-world, and it wins a new stance of being toward the world already discovered.
+  `heidegger-sein-und-zeit-commentary#h5-s-13-the-exemplification-of-being-in-in-a-founded-mode-knowing-the-world` · Sein und Zeit § 13 · [§ 13. The Exemplification of Being-in in a Founded Mode. Knowing the World](https://faultynode.github.io/commentaries/commentaries/heidegger/heidegger-sein-und-zeit-commentary.html#the-exemplification-of-being-in-in-a-founded-mode-knowing-the-world)
+  > knowing neither first creates a "commercium" of the subject with a world, nor does this arise from an action of the world upon a subject: knowing is a mode of Dasein founded in being-in-the-world.
+
+- **criticized** · `intentionalitaet/sz/010` · *the external-world problem as senseless*
+  The question whether a world is at all and whether its being can be proven is, as a question posed by Dasein as being-in-the-world (and who else should pose it?), without sense, since world is essentially disclosed with the being of Dasein.
+  `heidegger-sein-und-zeit-commentary#h6-a-reality-as-a-problem-of-being-and-of-the-provability-of-the-external-world` · Sein und Zeit § 43(a) · [a) Reality as a Problem of Being and of the Provability of the "External World"](https://faultynode.github.io/commentaries/commentaries/heidegger/heidegger-sein-und-zeit-commentary.html#a-reality-as-a-problem-of-being-and-of-the-provability-of-the-external-world)
+  > The question whether a world is at all and whether its being can be proven is, as a question posed by Dasein as being-in-the-world — and who else should pose it? — without sense (ohne Sinn).
+
+- **introduced** · `intentionalitaet/sz/011` · *cognition as founded access to the real*
+  Cognition is a founded mode of access to the real; the real is essentially accessible only as innerworldly being; and all access to such beings is ontologically founded in Dasein's basic constitution, being-in-the-world, which has the more original constitution of care.
+  `heidegger-sein-und-zeit-commentary#h6-a-reality-as-a-problem-of-being-and-of-the-provability-of-the-external-world` · Sein und Zeit § 43(a) · [a) Reality as a Problem of Being and of the Provability of the "External World"](https://faultynode.github.io/commentaries/commentaries/heidegger/heidegger-sein-und-zeit-commentary.html#a-reality-as-a-problem-of-being-and-of-the-provability-of-the-external-world)
+  > cognition is a founded mode of access to the real; the real is essentially accessible only as innerworldly being; all access to such beings is ontologically founded in Dasein's basic constitution, being-in-the-world
+
+- **criticized** · `intentionalitaet/sz/012` · *the demand for proof as Cartesian confession*
+  That Kant demands a proof at all for the 'Dasein of things outside me' is itself the Cartesian confession: whoever asks for a bridge has already posited the two banks, and the proof's engine (inner time) is located 'in me', so it leaps from an interior it never questions.
+  `heidegger-sein-und-zeit-commentary#h6-a-reality-as-a-problem-of-being-and-of-the-provability-of-the-external-world` · Sein und Zeit § 43(a) · [a) Reality as a Problem of Being and of the Provability of the "External World"](https://faultynode.github.io/commentaries/commentaries/heidegger/heidegger-sein-und-zeit-commentary.html#a-reality-as-a-problem-of-being-and-of-the-provability-of-the-external-world)
+  > the demand for proof is itself the Cartesian confession — whoever asks for a bridge has already posited the two banks
+
+- **revised** · `intentionalitaet/sz/013` · *being-true as being-discovering*
+  Primarily 'true', that is discovering, is Dasein; truth in the second sense means not being-discovering (discovery) but being-discovered (discoveredness), so that the tradition inverted the order by making assertion-agreement primary.
+  `heidegger-sein-und-zeit-commentary#h6-b-the-original-phenomenon-of-truth-and-the-derivativeness-of-the-traditional-tru` · Sein und Zeit § 44(b) · [b) The Original Phenomenon of Truth and the Derivativeness of the Traditional Truth-Concept](https://faultynode.github.io/commentaries/commentaries/heidegger/heidegger-sein-und-zeit-commentary.html#b-the-original-phenomenon-of-truth-and-the-derivativeness-of-the-traditional-truth-concept)
+  > Primarily "true" — that is, discovering — is Dasein; truth in the second sense means not being-discovering (discovery) but being-discovered (discoveredness).
+
+- **introduced** · `intentionalitaet/sz/014` · *truth as disclosedness*
+  The discoveredness of innerworldly beings grounds in the disclosedness of the world, and disclosedness is the basic kind of Dasein according to which it is its Da, so that only with Dasein's disclosedness is the most original phenomenon of truth reached.
+  `heidegger-sein-und-zeit-commentary#h6-b-the-original-phenomenon-of-truth-and-the-derivativeness-of-the-traditional-tru` · Sein und Zeit § 44(b) · [b) The Original Phenomenon of Truth and the Derivativeness of the Traditional Truth-Concept](https://faultynode.github.io/commentaries/commentaries/heidegger/heidegger-sein-und-zeit-commentary.html#b-the-original-phenomenon-of-truth-and-the-derivativeness-of-the-traditional-truth-concept)
+  > the discoveredness of innerworldly beings grounds in the disclosedness of the world; disclosedness, however, is the basic kind of Dasein according to which it is its Da.
+
+- **introduced** · `intentionalitaet/sz/015` · *Dasein is in the truth*
+  The assertion 'Dasein is in the truth' has ontological sense: it does not mean that Dasein is ontically always or ever introduced 'into all truth', but that to its existential constitution belongs disclosedness of its ownmost being.
+  `heidegger-sein-und-zeit-commentary#h6-b-the-original-phenomenon-of-truth-and-the-derivativeness-of-the-traditional-tru` · Sein und Zeit § 44(b) · [b) The Original Phenomenon of Truth and the Derivativeness of the Traditional Truth-Concept](https://faultynode.github.io/commentaries/commentaries/heidegger/heidegger-sein-und-zeit-commentary.html#b-the-original-phenomenon-of-truth-and-the-derivativeness-of-the-traditional-truth-concept)
+  > This assertion has ontological sense: it does not mean that Dasein is ontically always, or even ever, introduced "into all truth," but that to its existential constitution belongs disclosedness of its ownmost being.
+
+- **introduced** · `intentionalitaet/sz/016` · *truth as wresting from concealment*
+  Because untruth is equiprimordial with truth, truth (discoveredness) must always first be wrested from beings, which are torn from concealment, so that the respective factical discoveredness is, as it were, always a robbery.
+  `heidegger-sein-und-zeit-commentary#h6-b-the-original-phenomenon-of-truth-and-the-derivativeness-of-the-traditional-tru` · Sein und Zeit § 44(b) · [b) The Original Phenomenon of Truth and the Derivativeness of the Traditional Truth-Concept](https://faultynode.github.io/commentaries/commentaries/heidegger/heidegger-sein-und-zeit-commentary.html#b-the-original-phenomenon-of-truth-and-the-derivativeness-of-the-traditional-truth-concept)
+  > truth (discoveredness) must always first be wrested (abgerungen) from beings; beings are torn from concealment. The respective factical discoveredness is, as it were, always a robbery (Raub).
+
+- **introduced** · `intentionalitaet/sz/017` · *apophantic as founded in hermeneutic as*
+  Assertion and its structure, the apophantic as, are founded in interpretation and its structure, the hermeneutic as, and further in understanding, Dasein's disclosedness, so that the roots of assertion-truth reach back into the disclosedness of understanding.
+  `heidegger-sein-und-zeit-commentary#h6-b-the-original-phenomenon-of-truth-and-the-derivativeness-of-the-traditional-tru` · Sein und Zeit § 44(b) · [b) The Original Phenomenon of Truth and the Derivativeness of the Traditional Truth-Concept](https://faultynode.github.io/commentaries/commentaries/heidegger/heidegger-sein-und-zeit-commentary.html#b-the-original-phenomenon-of-truth-and-the-derivativeness-of-the-traditional-truth-concept)
+  > assertion and its structure, the apophantic as, are founded in interpretation and its structure, the hermeneutic as, and further in understanding, Dasein's disclosedness
+
+- **introduced** · `intentionalitaet/sz/018` · *the change-over (Umschlag)*
+  The about-which of the modified assertion shows itself otherwise not because we take distance from handling or look away from the tool-character, but because we look at the encountering ready-to-hand 'anew', as present-at-hand: the understanding of being that guides concernful dealings has switched over.
+  `heidegger-sein-und-zeit-commentary#h6-b-the-temporal-sense-of-the-modification-of-circumspect-concern-into-the-theoret` · Sein und Zeit § 69(b) · [b) The Temporal Sense of the Modification of Circumspect Concern into the Theoretical Discovery of the Innerworldly Present-at-Hand](https://faultynode.github.io/commentaries/commentaries/heidegger/heidegger-sein-und-zeit-commentary.html#b-the-temporal-sense-of-the-modification-of-circumspect-concern-into-the-theoretical-discovery-of-the-innerworldly-present-at-hand)
+  > we look at the encountering ready-to-hand "anew" — as present-at-hand. The understanding of being that guides concernful dealings has switched over.
+
+- **introduced** · `intentionalitaet/sz/019` · *the mathematical projection of nature*
+  In the mathematical projection of nature the primarily decisive thing is not the mathematical as such but that it discloses an a priori, discovering in advance something constantly present-at-hand and opening the horizon for its quantitatively determinable moments, so that there are in principle no bare facts.
+  `heidegger-sein-und-zeit-commentary#h6-b-the-temporal-sense-of-the-modification-of-circumspect-concern-into-the-theoret` · Sein und Zeit § 69(b) · [b) The Temporal Sense of the Modification of Circumspect Concern into the Theoretical Discovery of the Innerworldly Present-at-Hand](https://faultynode.github.io/commentaries/commentaries/heidegger/heidegger-sein-und-zeit-commentary.html#b-the-temporal-sense-of-the-modification-of-circumspect-concern-into-the-theoretical-discovery-of-the-innerworldly-present-at-hand)
+  > In the mathematical projection of nature, again, the primarily decisive thing is not the mathematical as such, but that it discloses an a priori
+
+- **introduced** · `intentionalitaet/sz/020` · *thematization / objecthood as liberation*
+  Thematization aims at a freeing of the innerworldly encountering beings such that they can 'throw themselves against' a pure discovering, that is, become objects; it objectifies not by first positing the beings but by freeing them so they become objectively questionable and determinable.
+  `heidegger-sein-und-zeit-commentary#h6-b-the-temporal-sense-of-the-modification-of-circumspect-concern-into-the-theoret` · Sein und Zeit § 69(b) · [b) The Temporal Sense of the Modification of Circumspect Concern into the Theoretical Discovery of the Innerworldly Present-at-Hand](https://faultynode.github.io/commentaries/commentaries/heidegger/heidegger-sein-und-zeit-commentary.html#b-the-temporal-sense-of-the-modification-of-circumspect-concern-into-the-theoretical-discovery-of-the-innerworldly-present-at-hand)
+  > It aims at a freeing of the innerworldly encountering beings in such a way that they can "throw themselves against" a pure discovering — that is, become objects. Thematization objectifies — not that it first "posits" the beings: it frees them
+
+- **introduced** · `intentionalitaet/sz/021` · *transcendence precedes objectification*
+  Transcendence does not consist in objectification; rather, objectification presupposes transcendence, and since the thematization of the present-at-hand is a switch-over of circumspectly discovering concern, a transcendence of Dasein must already underlie 'practical' being alongside the ready-to-hand.
+  `heidegger-sein-und-zeit-commentary#h6-b-the-temporal-sense-of-the-modification-of-circumspect-concern-into-the-theoret` · Sein und Zeit § 69(b) · [b) The Temporal Sense of the Modification of Circumspect Concern into the Theoretical Discovery of the Innerworldly Present-at-Hand](https://faultynode.github.io/commentaries/commentaries/heidegger/heidegger-sein-und-zeit-commentary.html#b-the-temporal-sense-of-the-modification-of-circumspect-concern-into-the-theoretical-discovery-of-the-innerworldly-present-at-hand)
+  > Transcendence does not consist in objectification; rather, objectification presupposes transcendence. But if the thematization of the innerworldly present-at-hand is a switch-over of circumspectly discovering concern, then a transcendence of Dasein must already underlie "practical" being alongside the ready-to-hand.
+
+- **introduced** · `intentionalitaet/sz/022` · *cognition as making-present*
+  The thesis that all cognition aims at intuition has the temporal sense that all cognizing is making-present; Husserl uses the expression 'Gegenwärtigen' for the characterization of sense-perception, and the intentional analysis of perception could not but suggest this temporal characterization.
+  `heidegger-sein-und-zeit-commentary#h6-b-the-temporal-sense-of-the-modification-of-circumspect-concern-into-the-theoret` · Sein und Zeit § 69(b) · [b) The Temporal Sense of the Modification of Circumspect Concern into the Theoretical Discovery of the Innerworldly Present-at-Hand](https://faultynode.github.io/commentaries/commentaries/heidegger/heidegger-sein-und-zeit-commentary.html#b-the-temporal-sense-of-the-modification-of-circumspect-concern-into-the-theoretical-discovery-of-the-innerworldly-present-at-hand)
+  > Husserl uses the expression "Gegenwärtigen" for the characterization of sense-perception; the intentional analysis of perception and intuition in general could not but suggest this "temporal" characterization of the phenomenon
+
+- **introduced** · `intentionalitaet/sz/023` · *intentionality grounded in ecstatic temporality*
+  Heidegger's note attaches the enormous promissory theorem that and how the intentionality of 'consciousness' grounds in Dasein's ecstatic temporality, which the following (never published) division was to show.
+  `heidegger-sein-und-zeit-commentary#h6-b-the-temporal-sense-of-the-modification-of-circumspect-concern-into-the-theoret` · Sein und Zeit § 69(b) · [b) The Temporal Sense of the Modification of Circumspect Concern into the Theoretical Discovery of the Innerworldly Present-at-Hand](https://faultynode.github.io/commentaries/commentaries/heidegger/heidegger-sein-und-zeit-commentary.html#b-the-temporal-sense-of-the-modification-of-circumspect-concern-into-the-theoretical-discovery-of-the-innerworldly-present-at-hand)
+  > that and how the intentionality of "consciousness" grounds in Dasein's ecstatic temporality, the following division will show.
+
+*Partial pass: Covers the points where Sein und Zeit engages and displaces intentionality: being-in-the-world as a unitary phenomenon that leaves no worldless subject to be bridged to a world; being-in as dwelling rather than categorial containment, and the chair-and-wall argument that touching presupposes a disclosed world; knowing as a founded mode of being-in-the-world in which subject and object do not coincide with Dasein and world, the manufactured transcendence-problem, knowing as grounded in an already-being-alongside-the-world, Dasein as always already 'outside' so that even thought, memory, forgetting, and error are modifications of being-in ('intentionality out-radicalized'), and knowing as creating no commercium; the senselessness of the external-world problem, cognition as a founded mode of access to the real, and the demand for proof as itself the Cartesian confession; truth as the disclosedness of Dasein, being-true as being-discovering with discoveredness derivative, 'Dasein is in the truth' as a constitutional statement, truth as a wresting from concealment, and the apophantic 'as' founded in the hermeneutic 'as'; and the change-over from circumspect concern to theoretical discovery as a modification of the understanding of being, the mathematical projection of nature, thematization as freeing beings into objecthood, transcendence as prior to objectification, and Heidegger's note that the intentionality of consciousness grounds in Dasein's ecstatic temporality. Not covered: the temporality, death, conscience, and historicity analyses.*
 
 ### 1935 - Krisis Commentary
 
@@ -2181,7 +2302,6 @@
 *Where the theme's terms occur but no extraction pass has run. Silence in the sections above is silence about these files, not evidence of absence in them.*
 
 - `Reduction et donation Commentary` - 43 term hits, no record
-- `heidegger-sein-und-zeit-commentary` - 27 term hits, no record
 - `kern-husserl-and-kant-commentary` - 20 term hits, no record
 - `heidegger-ga-19-platon-sophistes-commentary` - 16 term hits, no record
 - `husserliana-23-phantasie-bildbewusstsein-erinnerung-commentary` - 15 term hits, no record
