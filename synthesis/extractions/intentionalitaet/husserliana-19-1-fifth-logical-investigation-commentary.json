@@ -1,0 +1,386 @@
+{
+  "schema_version": 1,
+  "theme": "intentionalitaet",
+  "commentary": "husserliana-19-1-fifth-logical-investigation-commentary",
+  "source_sha256": "20f07477f679b932bd6a5a02a2576299d9111e84869b215e2c7dbe27d9821e08",
+  "extracted_at": "2026-09-08",
+  "extractor": {
+    "agent": "claude-code",
+    "prompt": "prompts/extraction-prompt.md",
+    "note": "source_sha256 is the LF digest as recorded in corpus.json (CRLF checkout; local validate reports a false staleness, CI on LF passes). Closely read Chapter Two in full (SS 9-21, 'Consciousness as Intentional Experience'), the Appendix to SS 11 and 20 (critique of the image-theory and of 'immanent' objects), and Chapter Five SS 37-39 (the objectivating act). Not read: the Introduction, Chapter One (SS 1-8, on the ego and inner perception), Chapter Three (SS 22-31, matter/quality and 'mere presenting'), Chapter Four (SS 32-36, judgment), Chapter Five SS 40-43, and Chapter Six (SS 44-45, equivocations of 'presentation' and 'content')."
+  },
+  "coverage": "partial",
+  "coverage_note": "Covers the doctrinal core of the Fifth Investigation: Chapter Two (SS 9-21) on the descriptive essence of the act as intentional experience, the warding-off of the 'immanent object', the ego-relation, the act-class against Natorp, intentional feelings, the real/intentional content distinction and the three concepts of intentional content (object, matter/quality, intentional essence); the Appendix (image-theory, the analytic identity of intentional and real object); and Chapter Five SS 37-39 on the objectivating act, positing/non-positing modification, and nominalization. Not covered: the Introduction, Chapter One (ego, inner perception), Chapters Three-Four (matter/quality debates, judgment), Chapter Five SS 40-43, Chapter Six.",
+  "units": [
+    {
+      "id": "intentionalitaet/hua19-1/001",
+      "locator": "husserliana-19-1-fifth-logical-investigation-commentary#h3-s9-the-significance-of-brentano-s-delimitation-of-psychic-phenomena",
+      "primary_locator": "LU V § 9",
+      "term": "psychic phenomenon / act",
+      "status": "introduced",
+      "claim": "The value of Brentano's concept is independent of his classificatory ends: a sharply delimited class of experiences here confronts us, embracing everything that in a pregnant sense characterizes psychic conscious existence.",
+      "quote": "A *sharply delimited class* of experiences here confronts us, which embraces everything that, in a certain *pregnant* sense, characterizes psychic, conscious existence."
+    },
+    {
+      "id": "intentionalitaet/hua19-1/002",
+      "locator": "husserliana-19-1-fifth-logical-investigation-commentary#h3-s10-descriptive-characterization-of-acts-as-intentional-experiences",
+      "primary_locator": "LU V § 10",
+      "term": "intentionality",
+      "status": "introduced",
+      "claim": "Of Brentano's determinations, intentionality directly exhibits the essence of acts and presses itself upon us in arbitrary examples.",
+      "quote": "It presses itself upon us unmistakably in arbitrary examples: in perception something is *perceived*, in image-presentation something is *imaged*, in assertion something is *asserted*, in love something is *loved*, in hate something *hated*, in desire something *desired*."
+    },
+    {
+      "id": "intentionalitaet/hua19-1/003",
+      "locator": "husserliana-19-1-fifth-logical-investigation-commentary#h3-s10-descriptive-characterization-of-acts-as-intentional-experiences",
+      "primary_locator": "LU V § 10",
+      "term": "specific differences of the intention",
+      "status": "introduced",
+      "claim": "The unity of the descriptive genus intention exhibits specific differences grounded in the pure essence of the genus and thus preceding empirical-psychological facticity as an a priori.",
+      "quote": "the unity of the descriptive genus \"intention\" (\"act-character\") exhibits specific differences grounded in the *pure essence* of this genus and thus preceding empirical-psychological *facticity as an a priori*."
+    },
+    {
+      "id": "intentionalitaet/hua19-1/004",
+      "locator": "husserliana-19-1-fifth-logical-investigation-commentary#h3-s10-descriptive-characterization-of-acts-as-intentional-experiences",
+      "primary_locator": "LU V § 10",
+      "term": "essential definition of the act",
+      "status": "introduced",
+      "claim": "The ideation performed on exemplary cases, with all empirical-psychological apprehension and existence-positing out of play, gives the purely phenomenological generic idea \"intentional experience\" or \"act\" and its pure species.",
+      "quote": "the *ideation* performed on exemplary single cases of such experiences — performed so that every empirical-psychological apprehension and existence-positing remains out of play and only the really phenomenological content of these experiences comes into consideration — gives us the *purely phenomenological generic idea* \"intentional experience\" or \"act,\" and then further its pure species."
+    },
+    {
+      "id": "intentionalitaet/hua19-1/005",
+      "locator": "husserliana-19-1-fifth-logical-investigation-commentary#h3-s10-descriptive-characterization-of-acts-as-intentional-experiences",
+      "primary_locator": "LU V § 10",
+      "term": "non-intentional experiences",
+      "status": "introduced",
+      "claim": "Not all experiences are intentional, as the sensations and sensation-complexes show; sensational material is experienced but does not of itself intend anything.",
+      "quote": "That not all experiences are intentional is shown by the *sensations* and sensation-complexes."
+    },
+    {
+      "id": "intentionalitaet/hua19-1/006",
+      "locator": "husserliana-19-1-fifth-logical-investigation-commentary#h3-s11-warding-off-terminologically-suggested-misinterpretations-a-the-mental-or-im",
+      "primary_locator": "LU V § 11",
+      "term": "phenomenon (rejected term)",
+      "status": "criticized",
+      "claim": "The term \"phenomenon\" imputes the doubtful conviction that every intentional experience not only relates to objects but is itself an object of certain intentional experiences.",
+      "quote": "that every intentional experience not only *relates* to objects but is itself an *object* of certain intentional experiences"
+    },
+    {
+      "id": "intentionalitaet/hua19-1/007",
+      "locator": "husserliana-19-1-fifth-logical-investigation-commentary#h3-s11-warding-off-terminologically-suggested-misinterpretations-a-the-mental-or-im",
+      "primary_locator": "LU V § 11",
+      "term": "immanent objectivity (misinterpretations)",
+      "status": "criticized",
+      "claim": "The idiom of \"immanent objectivity\" invites two misinterpretations: a real process between consciousness and thing, and a relation between two things really in consciousness, act and object nested one in the other.",
+      "quote": "*First*, that it is a matter of a pure real *process* or a real *relating* playing out *between* consciousness or ego and the \"conscious\" thing. *Second*, that it is a matter of a *relation between two things equally to be found really (reell) in consciousness* — act and intentional object — something like a *nesting* of one psychic content within another."
+    },
+    {
+      "id": "intentionalitaet/hua19-1/008",
+      "locator": "husserliana-19-1-fifth-logical-investigation-commentary#h3-s11-warding-off-terminologically-suggested-misinterpretations-a-the-mental-or-im",
+      "primary_locator": "LU V § 11",
+      "term": "intention / relation to an object",
+      "status": "introduced",
+      "claim": "Only one thing is present, the intentional experience whose descriptive character is the intention; if it is present, eo ipso the relation to an object is accomplished and an object is intentionally present, for the two say exactly the same.",
+      "quote": "If this experience is present, then *eo ipso* — and this, Husserl emphasizes, lies in its own *essence* — the intentional \"relation to an object\" is accomplished, *eo ipso* an object is \"intentionally present\"; for the one and the other say *exactly the same*."
+    },
+    {
+      "id": "intentionalitaet/hua19-1/009",
+      "locator": "husserliana-19-1-fifth-logical-investigation-commentary#h3-s11-warding-off-terminologically-suggested-misinterpretations-a-the-mental-or-im",
+      "primary_locator": "LU V § 11",
+      "term": "the \"immanent\" object (Jupiter)",
+      "status": "introduced",
+      "claim": "The \"immanent\" or \"mental\" object does not belong to the real subsistence of the experience and is in truth not immanent, not extra mentem, but not at all, while the presenting itself is a real experience.",
+      "quote": "The \"immanent,\" \"mental\" object therefore does *not* belong to the descriptive (real) subsistence of the experience; it is thus in truth not immanent or mental at all. It is, to be sure, also not *extra mentem*; it is *not at all*."
+    },
+    {
+      "id": "intentionalitaet/hua19-1/010",
+      "locator": "husserliana-19-1-fifth-logical-investigation-commentary#h3-s11-warding-off-terminologically-suggested-misinterpretations-a-the-mental-or-im",
+      "primary_locator": "LU V § 11",
+      "term": "existence-indifference",
+      "status": "introduced",
+      "claim": "If the intended object exists, nothing need be changed in phenomenological respect: for consciousness the given is essentially the same whether the object exists or is fictitious or nonsensical.",
+      "quote": "For consciousness the given is *essentially the same* whether the presented object exists, or is fictitious and perhaps even nonsensical. I present *Jupiter* no differently than *Bismarck*, the *Tower of Babel* no differently than *Cologne Cathedral*"
+    },
+    {
+      "id": "intentionalitaet/hua19-1/011",
+      "locator": "husserliana-19-1-fifth-logical-investigation-commentary#h3-s11-warding-off-terminologically-suggested-misinterpretations-a-the-mental-or-im",
+      "primary_locator": "LU V § 11",
+      "term": "truly immanent contents",
+      "status": "introduced",
+      "claim": "The truly immanent contents, belonging to the real subsistence of the intentional experiences, are not themselves intentional: they build up the act and support the intention but are not intended.",
+      "quote": "*I do not see color-sensations but colored things, I do not hear tone-sensations but the song of the singer*"
+    },
+    {
+      "id": "intentionalitaet/hua19-1/012",
+      "locator": "husserliana-19-1-fifth-logical-investigation-commentary#h3-s12-b-the-act-and-the-relation-of-consciousness-or-of-the-ego-to-the-object",
+      "primary_locator": "LU V § 12",
+      "term": "the ego as relation-point",
+      "status": "criticized",
+      "claim": "When we live in the act nothing is to be noticed of the ego as relation-point; the relation to the experiencing ego is not to be circumvented in description, but the experience itself does not contain the ego-presentation as a part.",
+      "quote": "In the *description* the relation to the experiencing ego is not to be circumvented; but the respective *experience itself* does *not* consist in a complexion that would contain the ego-presentation as a part-experience."
+    },
+    {
+      "id": "intentionalitaet/hua19-1/013",
+      "locator": "husserliana-19-1-fifth-logical-investigation-commentary#h3-s13-fixing-our-terminology",
+      "primary_locator": "LU V § 13",
+      "term": "intention (narrower / wider)",
+      "status": "revised",
+      "claim": "The term \"intention\" carries reservations: not always is the intentional object a noticed, attended one, and a narrower concept (pointing to a fulfillment) must be distinguished from a wider one that covers the fulfillments too.",
+      "quote": "attending more exactly to the examples assembled in §10, we cannot fail to notice that a *narrower* and a *wider* concept of intention must be distinguished."
+    },
+    {
+      "id": "intentionalitaet/hua19-1/014",
+      "locator": "husserliana-19-1-fifth-logical-investigation-commentary#h3-s13-fixing-our-terminology",
+      "primary_locator": "LU V § 13",
+      "term": "act (not activity)",
+      "status": "revised",
+      "claim": "In retaining the word \"act\" the thought of activity must be unconditionally excluded; the acts are defined not as psychic activities but as intentional experiences.",
+      "quote": "one may here of course no longer think of the original word-sense of *actus*: *the thought of activity must be unconditionally excluded*."
+    },
+    {
+      "id": "intentionalitaet/hua19-1/015",
+      "locator": "husserliana-19-1-fifth-logical-investigation-commentary#h3-s14-reservations-against-the-assumption-of-acts-as-a-descriptively-founded-class",
+      "primary_locator": "LU V § 14",
+      "term": "heard tone / hearing of the tone",
+      "status": "criticized",
+      "claim": "Against Natorp, that the hearing cannot be detached from the heard tone does not mean a twofold is not to be distinguished: the heard tone, the perceptual object, and the hearing of the tone, the perceptual act.",
+      "quote": "But with that it is *not* said that a *twofold* is not to be distinguished: the *heard tone*, the perceptual object, and the *hearing of the tone*, the perceptual act."
+    },
+    {
+      "id": "intentionalitaet/hua19-1/016",
+      "locator": "husserliana-19-1-fifth-logical-investigation-commentary#h3-s14-reservations-against-the-assumption-of-acts-as-a-descriptively-founded-class",
+      "primary_locator": "LU V § 14",
+      "term": "content vs perceived object (the box)",
+      "status": "introduced",
+      "claim": "Seeing the same box however turned, very different contents are experienced yet the same object is perceived, so the experienced content is generally not itself the perceived object.",
+      "quote": "Thus *very different* contents are *experienced*, and yet the *same* object is *perceived*. Hence the experienced content, generally speaking, is *not* itself the perceived object."
+    },
+    {
+      "id": "intentionalitaet/hua19-1/017",
+      "locator": "husserliana-19-1-fifth-logical-investigation-commentary#h3-s14-reservations-against-the-assumption-of-acts-as-a-descriptively-founded-class",
+      "primary_locator": "LU V § 14",
+      "term": "apperception / animation (beseelt)",
+      "status": "introduced",
+      "claim": "Apperception is the surplus in the experience over the raw existence of the sensation, the act-character that animates the sensation; sensations and apprehending acts are experienced but do not appear, objects appear but are not experienced.",
+      "quote": "it is the *act-character* that, so to speak, *animates* (beseelt) the sensation and makes it the case, *according to its essence*, that we *perceive* this or that object"
+    },
+    {
+      "id": "intentionalitaet/hua19-1/018",
+      "locator": "husserliana-19-1-fifth-logical-investigation-commentary#h3-s14-reservations-against-the-assumption-of-acts-as-a-descriptively-founded-class",
+      "primary_locator": "LU V § 14",
+      "term": "world / meaning-of-the-world",
+      "status": "introduced",
+      "claim": "The world is nevermore an experience of the thinker: experience is the meaning-of-the-world, the world itself is the intended object, and this distinction stands before all metaphysics at the gateway of epistemology.",
+      "quote": "But the *world* is *nevermore* an experience of the thinker. *Experience* is the *meaning-of-the-world* (das Die-Welt-Meinen); the *world itself* is the *intended object*."
+    },
+    {
+      "id": "intentionalitaet/hua19-1/019",
+      "locator": "husserliana-19-1-fifth-logical-investigation-commentary#h3-s15-whether-experiences-of-one-and-the-same-phenomenological-genus-and-especiall",
+      "primary_locator": "LU V § 15",
+      "term": "intentional feelings",
+      "status": "introduced",
+      "claim": "A liking without a likeable is not thinkable, and not merely because the expressions are correlative but because the specific essence of liking demands the relation to a likeable.",
+      "quote": "But a *liking* without a *likeable* is *not thinkable*. And not merely because we here deal with *correlative* expressions (as we say a cause without effect, a father without child is not thinkable), but because *the specific essence of liking demands the relation to a likeable*."
+    },
+    {
+      "id": "intentionalitaet/hua19-1/020",
+      "locator": "husserliana-19-1-fifth-logical-investigation-commentary#h3-s15-whether-experiences-of-one-and-the-same-phenomenological-genus-and-especiall",
+      "primary_locator": "LU V § 15",
+      "term": "intentional relation vs causal relation",
+      "status": "criticized",
+      "claim": "It is a principled absurdity to regard the intentional relation as a causal relation, since the intentional object apprehended as \"effecting\" comes into question only as the intentional one, not as really existing outside me.",
+      "quote": "More exactly weighed, it is a *principled absurdity* to regard the intentional relation, here and in general, as a *causal* relation, hence to supply it with the sense of an empirical, substantial-causal necessity-connection."
+    },
+    {
+      "id": "intentionalitaet/hua19-1/021",
+      "locator": "husserliana-19-1-fifth-logical-investigation-commentary#h3-s15-whether-experiences-of-one-and-the-same-phenomenological-genus-and-especiall",
+      "primary_locator": "LU V § 15",
+      "term": "feeling-sensations / feeling-acts",
+      "status": "revised",
+      "claim": "The mere word \"feeling\" spans two essentially different genera, the pain- and pleasure-sensations and the acts of liking and disliking, between which there is no generic community but only equivocation.",
+      "quote": "The mere word \"feeling\" spans two essentially different genera."
+    },
+    {
+      "id": "intentionalitaet/hua19-1/022",
+      "locator": "husserliana-19-1-fifth-logical-investigation-commentary#h3-s16-distinction-between-descriptive-and-intentional-content",
+      "primary_locator": "LU V § 16",
+      "term": "real (reell) content / intentional content",
+      "status": "introduced",
+      "claim": "A second-edition footnote records that the description of the intentional objectivity as such represents another direction of purely intuitive, adequate description that must also be called phenomenological.",
+      "quote": "the description of the *intentional objectivity as such* (taken as it is conscious in the concrete act-experience) represents *another direction* of purely intuitive, adequate description, which must *also* be called phenomenological."
+    },
+    {
+      "id": "intentionalitaet/hua19-1/023",
+      "locator": "husserliana-19-1-fifth-logical-investigation-commentary#h3-s16-distinction-between-descriptive-and-intentional-content",
+      "primary_locator": "LU V § 16",
+      "term": "three concepts of intentional content",
+      "status": "introduced",
+      "claim": "Three concepts of intentional content are to be distinguished: the intentional object of the act, its intentional matter in contrast to its intentional quality, and its intentional essence.",
+      "quote": "We will have to distinguish, for now, *three* concepts of intentional content: the *intentional object* of the act; its *intentional matter* (Materie) (in contrast to its *intentional quality* (Qualität)); and finally its *intentional essence* (Wesen)."
+    },
+    {
+      "id": "intentionalitaet/hua19-1/024",
+      "locator": "husserliana-19-1-fifth-logical-investigation-commentary#h3-s17-the-intentional-content-in-the-sense-of-the-intentional-object",
+      "primary_locator": "LU V § 17",
+      "term": "object as intended / object which is intended",
+      "status": "introduced",
+      "claim": "Manifold new presentations can all present the same object, so that the object which is intended is the same while in each the intention is different, each meaning the object in another way.",
+      "quote": "In all of them the *object which is intended* is then *the same*, but in each the *intention* is different; each *means the object in another way*."
+    },
+    {
+      "id": "intentionalitaet/hua19-1/025",
+      "locator": "husserliana-19-1-fifth-logical-investigation-commentary#h3-s17-the-intentional-content-in-the-sense-of-the-intentional-object",
+      "primary_locator": "LU V § 17",
+      "term": "objectivity of the whole act / state of affairs",
+      "status": "introduced",
+      "claim": "The full and whole object of a judgment is the judged state of affairs (Sachverhalt), not the subject-object, and this state of affairs, as identically the same, can be presented, wished, asked, or doubted.",
+      "quote": "To the *whole judgment* there corresponds, as full and whole object, the *judged state of affairs* (Sachverhalt), which, as identically the same, can be presented in a *mere presentation*, *wished* in a wish, *asked* in a question, *doubted* in a doubt."
+    },
+    {
+      "id": "intentionalitaet/hua19-1/026",
+      "locator": "husserliana-19-1-fifth-logical-investigation-commentary#h3-s19-the-function-of-attention-in-complex-acts-the-phenomenological-relation-betw",
+      "primary_locator": "LU V § 19",
+      "term": "attention",
+      "status": "introduced",
+      "claim": "Attention is a distinguishing function belonging to acts in the precise sense of intentional experiences, so that only intentional objects of some acts can be attended to, and to attend to an act's objects and to live in the act are the same expressed from different sides.",
+      "quote": "And so it is *intentional objects* of some acts whatever, and *only* intentional objects, to which we are and can be attentive."
+    },
+    {
+      "id": "intentionalitaet/hua19-1/027",
+      "locator": "husserliana-19-1-fifth-logical-investigation-commentary#h3-s19-the-function-of-attention-in-complex-acts-the-phenomenological-relation-betw",
+      "primary_locator": "LU V § 19",
+      "term": "attention as mode of accomplishment",
+      "status": "revised",
+      "claim": "Under the title attention it is doubtless a matter of mere modes of accomplishment of the acts, not of a peculiar superadded act that would make every prevailing act complex.",
+      "quote": "under the title attention, it is rather a matter of mere *modes of accomplishment* (Vollzugsmodi) of the acts (to be more closely described in their peculiar particularizations) — *as is doubtless the case*."
+    },
+    {
+      "id": "intentionalitaet/hua19-1/028",
+      "locator": "husserliana-19-1-fifth-logical-investigation-commentary#h3-s20-the-difference-of-the-quality-and-the-matter-of-an-act",
+      "primary_locator": "LU V § 20",
+      "term": "quality / matter",
+      "status": "introduced",
+      "claim": "A most important difference is drawn between the general character of the act, marking it as presenting or judging or feeling, and its content, marking it as presentation of this presented, as judgment of this judged.",
+      "quote": "that between the *general character* of the act — which marks it as merely *presenting*, or as judging, feeling, desiring — and its \"*content*,\" which marks it as *presentation of this presented*, as *judgment of this judged*."
+    },
+    {
+      "id": "intentionalitaet/hua19-1/029",
+      "locator": "husserliana-19-1-fifth-logical-investigation-commentary#h3-s20-the-difference-of-the-quality-and-the-matter-of-an-act",
+      "primary_locator": "LU V § 20",
+      "term": "objective relation as descriptive difference",
+      "status": "introduced",
+      "claim": "For the really phenomenological consideration the objectivity itself is nothing and transcendent to the act, and all differences in the manner of objective relation are descriptive differences of the relevant intentional experiences.",
+      "quote": "For the *really phenomenological* consideration the objectivity itself is *nothing*; it is, generally speaking, *transcendent* to the act."
+    },
+    {
+      "id": "intentionalitaet/hua19-1/030",
+      "locator": "husserliana-19-1-fifth-logical-investigation-commentary#h3-s20-the-difference-of-the-quality-and-the-matter-of-an-act",
+      "primary_locator": "LU V § 20",
+      "term": "matter as Auffassungssinn",
+      "status": "introduced",
+      "claim": "The matter is the sense of objective apprehension founding the quality but indifferent to its differences; like matters can never give a different objective relation, but different matters can give the same objective relation.",
+      "quote": "the matter is, so to speak, the *sense of objective apprehension* (Auffassungssinn) founding the quality but indifferent to its differences. *Like* matters can never give a *different* objective relation; but *different* matters can well give the *same* objective relation."
+    },
+    {
+      "id": "intentionalitaet/hua19-1/031",
+      "locator": "husserliana-19-1-fifth-logical-investigation-commentary#h3-s21-the-intentional-and-the-meaning-essence",
+      "primary_locator": "LU V § 21",
+      "term": "intentional essence / meaning-essence",
+      "status": "introduced",
+      "claim": "The unity of quality and matter, which makes up only a part of the full act, is designated the intentional essence of the act, and for meaning-conferring acts the meaning-essence, whose ideating abstraction yields the meaning in the ideal sense.",
+      "quote": "it would be suitable to designate the *unity of both* — which makes up only a *part* of the full act — as the *intentional essence* (intentionales Wesen) of the act."
+    },
+    {
+      "id": "intentionalitaet/hua19-1/032",
+      "locator": "husserliana-19-1-fifth-logical-investigation-commentary#h3-s21-the-intentional-and-the-meaning-essence",
+      "primary_locator": "LU V § 21",
+      "term": "intentional essence does not exhaust the act",
+      "status": "introduced",
+      "claim": "The intentional essence does not phenomenologically exhaust the act, and the species-differences of the intuitive acts are not determined by it: the difference between perceiving and phantasying lies outside quality and matter.",
+      "quote": "The difference between perceiving and phantasying lies *outside* quality and matter."
+    },
+    {
+      "id": "intentionalitaet/hua19-1/033",
+      "locator": "husserliana-19-1-fifth-logical-investigation-commentary#h2-appendix-to-paragraphs-11-and-20-toward-a-critique-of-the-image-theory-and-of-th",
+      "primary_locator": "LU V, Appendix to §§ 11 and 20",
+      "term": "image-theory",
+      "status": "criticized",
+      "claim": "The image-theory overlooks that in image-presenting we mean, on the basis of the appearing image-object, the depicted image-subject, and that imageness is no inner character of an object.",
+      "quote": "that in image-presenting we *mean*, *on the basis of* the appearing \"*image-object*\" (Bildobjekt), the *depicted* object (the \"*image-subject*,\" Bildsujet). But the *imageness* of the object functioning as image is evidently no inner character"
+    },
+    {
+      "id": "intentionalitaet/hua19-1/034",
+      "locator": "husserliana-19-1-fifth-logical-investigation-commentary#h2-appendix-to-paragraphs-11-and-20-toward-a-critique-of-the-image-theory-and-of-th",
+      "primary_locator": "LU V, Appendix to §§ 11 and 20",
+      "term": "relation to objectivity enclosed in consciousness",
+      "status": "introduced",
+      "claim": "An image-theory of perception leads to an infinite regress; rather, in the phenomenological essence of consciousness itself all relation to its objectivity is enclosed and can in principle only be enclosed therein, as relation to a transcendent thing.",
+      "quote": "but rather that *in the phenomenological essence of consciousness itself* all relation to its objectivity is enclosed, and *can* in principle only be enclosed therein — and indeed *as* relation to a \"transcendent\" thing."
+    },
+    {
+      "id": "intentionalitaet/hua19-1/035",
+      "locator": "husserliana-19-1-fifth-logical-investigation-commentary#h2-appendix-to-paragraphs-11-and-20-toward-a-critique-of-the-image-theory-and-of-th",
+      "primary_locator": "LU V, Appendix to §§ 11 and 20",
+      "term": "identity of intentional and real object",
+      "status": "criticized",
+      "claim": "It is a merely analytic proposition that the intentional object of the presentation is the same as its real and, in the given case, its outer object, and that it is absurd to distinguish between the two.",
+      "quote": "*that the intentional object of the presentation is the same as its real and, in the given case, its outer object, and that it is absurd to distinguish between the two.*"
+    },
+    {
+      "id": "intentionalitaet/hua19-1/036",
+      "locator": "husserliana-19-1-fifth-logical-investigation-commentary#h2-appendix-to-paragraphs-11-and-20-toward-a-critique-of-the-image-theory-and-of-th",
+      "primary_locator": "LU V, Appendix to §§ 11 and 20",
+      "term": "\"merely intentional object\"",
+      "status": "introduced",
+      "claim": "That an object is a \"merely intentional\" one means not that it exists only in the intentio, but that the intention, the meaning of a so-constituted object, exists while the object does not; if the object exists, both intention and meant exist.",
+      "quote": "rather it means: the *intention*, the \"*meaning*\" of a so-constituted object, *exists* — but *not* the object. If, on the other hand, the intentional object *does* exist, then not merely the intention, the meaning, but also the *meant* exists."
+    },
+    {
+      "id": "intentionalitaet/hua19-1/037",
+      "locator": "husserliana-19-1-fifth-logical-investigation-commentary#h2-the-eleventh-paragraph-reserves-the-legitimate-distinction-what-has-just-been-se",
+      "primary_locator": "LU V, Appendix to §§ 11 and 20",
+      "term": "object simpliciter / object as intended",
+      "status": "revised",
+      "claim": "The identity thesis does not exclude a distinction between the object simpliciter, which is in each case intended, and the object as it is thereby intended, in what apprehension-sense and fullness of intuition, to which its own analyses and descriptions belong.",
+      "quote": "a distinction is drawn between the object *simpliciter*, which is in each case intended, and the object *as* it is thereby intended (in what *apprehension-sense* and possibly in what \"*fullness*\" of intuition), and that to the latter title *its own analyses and descriptions* belong."
+    },
+    {
+      "id": "intentionalitaet/hua19-1/038",
+      "locator": "husserliana-19-1-fifth-logical-investigation-commentary#h3-s37-the-aim-of-the-following-investigation-the-concept-of-the-objectivating-act",
+      "primary_locator": "LU V § 37",
+      "term": "objectivating act",
+      "status": "introduced",
+      "claim": "The distinction of basic classes of acts refers only to the act-qualities, and a wider concept of presentation is delimited, the objectivating act, through which the thesis of the grounding of every act in presentations receives a new interpretation.",
+      "quote": "the distinction of \"basic classes\" of acts refers, as is at once clear, *only to the act-qualities*."
+    },
+    {
+      "id": "intentionalitaet/hua19-1/039",
+      "locator": "husserliana-19-1-fifth-logical-investigation-commentary#h3-s38-qualitative-and-material-differentiation-of-the-objectivating-acts",
+      "primary_locator": "LU V § 38",
+      "term": "positing / non-positing; nominal / propositional",
+      "status": "introduced",
+      "claim": "The genus of objectivating acts divides through qualitative differentiation into positing acts (belief, judgment) and non-positing \"mere presentations\", and through differentiation of the matter into nominal and propositional acts.",
+      "quote": "(1) through *qualitative* differentiation, the division into the *positing* acts (the acts of *belief*, of judgment in the sense of Mill and Brentano) and the *non-positing*, with respect to positing \"modified\" acts (the corresponding \"mere presentations\"); (2) through differentiation of the *matter*, the difference of the *nominal* and *propositional* acts"
+    },
+    {
+      "id": "intentionalitaet/hua19-1/040",
+      "locator": "husserliana-19-1-fifth-logical-investigation-commentary#h3-s38-qualitative-and-material-differentiation-of-the-objectivating-acts",
+      "primary_locator": "LU V § 38",
+      "term": "thetic / synthetic (single-rayed / multi-rayed)",
+      "status": "introduced",
+      "claim": "The really pervasive opposition among objectivating acts is between synthetic multi-rayed acts and single-rayed thetic acts, with all syntheses admitting the fundamental operation of nominalization into a nominal single-rayedness with a back-pointing matter.",
+      "quote": "the fundamental *operation of nominalization* is possible — the transformation of the *synthetic multi-rayedness* into a \"*nominal*\" *single-rayedness* with the corresponding *back-pointing matter*."
+    },
+    {
+      "id": "intentionalitaet/hua19-1/041",
+      "locator": "husserliana-19-1-fifth-logical-investigation-commentary#h3-s39-presentation-in-the-sense-of-the-objectivating-act-and-its-qualitative-modif",
+      "primary_locator": "LU V § 39",
+      "term": "presenting objectivation / qualitative modification",
+      "status": "introduced",
+      "claim": "Presenting objectivation is iterable in infinitum and applicable to all objects whatever, whereas qualitative modification is not iterable and has a sense only for acts, the two being totally different operations.",
+      "quote": "is *iterable in infinitum*, but the *qualitative modification* is *not*; and again, that *presenting objectivation* is applicable to *all objects whatever*, while the *qualitative modification* has a sense only for *acts*."
+    }
+  ],
+  "absences": []
+}

@@ -8,17 +8,17 @@ Corpus: **53 commentaries**, 2,934,431 words, 3902 sections indexed in `synthesi
 
 ### intentionalitaet - intentionality
 
-1 commentary extracted · 25 units · 2 absences · 1 partial
+3 commentaries extracted · 125 units · 3 absences · 3 partial
 
 Next candidates, by term density:
 
-- [ ] `bernet-la-vie-du-sujet-commentary` (1994) - 630 hits
-- [ ] `husserliana-19-1-fifth-logical-investigation-commentary` (undated) - 281 hits
 - [ ] `franck-chair-et-corps-commentary` (undated) - 224 hits
 - [ ] `husserliana-33-die-bernauer-manuskripte-uber-das-zeitbewusstsein-commentary` (undated) - 182 hits
 - [ ] `husserliana-11-analyses-concerning-passive-and-active-synthesis-commentary` (1920) - 175 hits
 - [ ] `husserliana-9-phenomenological-psychology-commentary` (1925) - 166 hits
-- ... 40 more; see `synthesis_query.py --theme intentionalitaet`
+- [ ] `heidegger-ga-24-die-grundprobleme-der-phanomenologie-commentary` (undated) - 133 hits
+- [ ] `husserl-thing-and-space-commentary` (1907) - 128 hits
+- ... 38 more; see `synthesis_query.py --theme intentionalitaet`
 
 ### konstitution - constitution
 
