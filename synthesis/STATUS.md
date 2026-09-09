@@ -8,17 +8,17 @@ Corpus: **53 commentaries**, 2,934,431 words, 3902 sections indexed in `synthesi
 
 ### intentionalitaet - intentionality
 
-3 commentaries extracted · 125 units · 3 absences · 3 partial
+4 commentaries extracted · 139 units · 3 absences · 4 partial
 
 Next candidates, by term density:
 
 - [ ] `franck-chair-et-corps-commentary` (undated) - 224 hits
-- [ ] `husserliana-33-die-bernauer-manuskripte-uber-das-zeitbewusstsein-commentary` (undated) - 182 hits
 - [ ] `husserliana-11-analyses-concerning-passive-and-active-synthesis-commentary` (1920) - 175 hits
 - [ ] `husserliana-9-phenomenological-psychology-commentary` (1925) - 166 hits
 - [ ] `heidegger-ga-24-die-grundprobleme-der-phanomenologie-commentary` (undated) - 133 hits
 - [ ] `husserl-thing-and-space-commentary` (1907) - 128 hits
-- ... 38 more; see `synthesis_query.py --theme intentionalitaet`
+- [ ] `henry-philosophie-et-phenomenologie-du-corps-commentary` (1965) - 127 hits
+- ... 37 more; see `synthesis_query.py --theme intentionalitaet`
 
 ### konstitution - constitution
 
@@ -106,9 +106,10 @@ Next candidates, by term density:
 
 ## Inheritance index
 
-1 commentary · 4 engagements
+2 commentaries · 13 engagements
 
 - `heidegger-ga-19-platon-sophistes-commentary` - 4 engagements (partial)
+- `husserliana-33-die-bernauer-manuskripte-uber-das-zeitbewusstsein-commentary` - 9 engagements (partial)
 
 ## Chronology to resolve
 
