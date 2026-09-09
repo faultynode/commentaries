@@ -4,7 +4,7 @@
 
 *Partly worked already: commentaries/heidegger/heidegger-husserl-intentionality-article.md is a Stage 4 output written before this pipeline existed. Extract the commentaries, not that article.*
 
-143 units and 3 recorded absences from 5 commentaries.
+157 units and 3 recorded absences from 7 commentaries.
 
 ## Primary corpus, by composition or delivery date
 
@@ -33,6 +33,143 @@
   > The incomplete presentation is already a consciousness of givenness
 
 *Partial pass: Covers intentionality as essential determination of perception (§4), real/intentional content distinction (§6), intentional relation through identity-consciousness framework (§11), and intention/fulfillment in perceptual process (§32). Not covered: intentionality through kinaesthetic motivation (§§44-57), intentionality in spatial constitution (§§58ff).*
+
+### 1917 to 1918 - Husserl, Hua 33 — Die Bernauer Manuskripte über das Zeitbewußtsein
+
+`husserliana-33-die-bernauer-manuskripte-uber-das-zeitbewusstsein-commentary`
+
+- **introduced** · `intentionalitaet/hua33/001` · *intentional consciousness*
+  Husserl's doctrine of intentional consciousness provides the framework for understanding retention and distinguishing it from phantasy and recollection.
+  `husserliana-33-die-bernauer-manuskripte-uber-das-zeitbewusstsein-commentary#h2-iii` · [III](https://faultynode.github.io/commentaries/commentaries/husserl/husserliana-33-die-bernauer-manuskripte-uber-das-zeitbewusstsein-commentary.html#iii)
+  > Husserl found it difficult to precisely determine this perception of the past within his doctrine of intentional consciousness, and the associated difficulties troubled him in the Bernau manuscripts as well.
+
+- **introduced** · `intentionalitaet/hua33/002` · *intentional apprehension*
+  The schema of intentional apprehension of sensation-content poses problems when applied to time-consciousness and retention.
+  `husserliana-33-die-bernauer-manuskripte-uber-das-zeitbewusstsein-commentary#h2-iii` · [III](https://faultynode.github.io/commentaries/commentaries/husserl/husserliana-33-die-bernauer-manuskripte-uber-das-zeitbewusstsein-commentary.html#iii)
+  > Problems arose especially from applying the schema of intentional apprehension of a sensation-content (borrowed from the phenomenological determination of outer perception of spatial objects) to time-consciousness and thus to retentional perceptual consciousness.
+
+- **presupposed** · `intentionalitaet/hua33/003` · *intentional apprehension (sensation)*
+  The sensation-content underlying intentional apprehension is foundational to time-consciousness across all its forms.
+  `husserliana-33-die-bernauer-manuskripte-uber-das-zeitbewusstsein-commentary#h2-iii` · [III](https://faultynode.github.io/commentaries/commentaries/husserl/husserliana-33-die-bernauer-manuskripte-uber-das-zeitbewusstsein-commentary.html#iii)
+  > The first decisive step toward clarifying the modified or unmodified givenness of the sensation-content underlying intentional apprehension is already found in Husserl's earlier time-texts, and these insights are never questioned in the Bernau manuscripts.
+
+- **revised** · `intentionalitaet/hua33/004` · *intentional consciousness (objectifying form)*
+  Husserl no longer assumes the primal process itself necessarily has the form of an objectifying intentional consciousness.
+  `husserliana-33-die-bernauer-manuskripte-uber-das-zeitbewusstsein-commentary#h2-iii` · [III](https://faultynode.github.io/commentaries/commentaries/husserl/husserliana-33-die-bernauer-manuskripte-uber-das-zeitbewusstsein-commentary.html#iii)
+  > This terminological change signals that Husserl no longer took for granted that sensations are given in the primal process as objects and that the primal process itself has the form of an objectifying intentional consciousness.
+
+- **presupposed** · `intentionalitaet/hua33/005` · *intentional consciousness (species)*
+  Sensation-data must belong to consciousness as an intentional species without being reell components of absolute consciousness.
+  `husserliana-33-die-bernauer-manuskripte-uber-das-zeitbewusstsein-commentary#h2-iii` · [III](https://faultynode.github.io/commentaries/commentaries/husserl/husserliana-33-die-bernauer-manuskripte-uber-das-zeitbewusstsein-commentary.html#iii)
+  > first, the "absolutely" named consciousness of sensation-data must be a (sub-)species of intentional consciousness—the sensation-data cannot belong to it as "reell" components (otherwise the difference between retentional and ur-impressional consciousness would be unintelligible).
+
+- **criticized** · `intentionalitaet/hua33/006` · *intentional consciousness (primal process)*
+  The characterization of the primal process as a species of intentional consciousness is questioned in Bernau texts.
+  `husserliana-33-die-bernauer-manuskripte-uber-das-zeitbewusstsein-commentary#h2-iii` · [III](https://faultynode.github.io/commentaries/commentaries/husserl/husserliana-33-die-bernauer-manuskripte-uber-das-zeitbewusstsein-commentary.html#iii)
+  > the characterization of the primal process as a species of intentional consciousness. These doubts and questions also pressed upon Husserl in the late C-group time-texts, confirming that the Bernau manuscripts reached no definitive determination of the primal process/events relation.
+
+- **introduced** · `intentionalitaet/hua33/007` · *pre-intentional primal process*
+  The primal process may be pre-intentional, gaining constitutive significance only through subsequent egoic reflection.
+  `husserliana-33-die-bernauer-manuskripte-uber-das-zeitbewusstsein-commentary#h2-iii` · [III](https://faultynode.github.io/commentaries/commentaries/husserl/husserliana-33-die-bernauer-manuskripte-uber-das-zeitbewusstsein-commentary.html#iii)
+  > Only through the subsequent performance of an egoic act of reflection on the pre-intentional primal process, i.e., through an intervening modification of its nature, does the hyletic primal stream gain constitutive significance.
+
+- **presupposed** · `intentionalitaet/hua33/008` · *intentional consciousness (absolute)*
+  Absolute consciousness is understood as intentional consciousness in determining consciousness of transcendent time-objects.
+  `husserliana-33-die-bernauer-manuskripte-uber-das-zeitbewusstsein-commentary#h2-iii` · [III](https://faultynode.github.io/commentaries/commentaries/husserl/husserliana-33-die-bernauer-manuskripte-uber-das-zeitbewusstsein-commentary.html#iii)
+  > Husserl determines intentional consciousness of a transcendent time-object as an intentional apprehension of a pre-intentional sensation-datum.
+
+- **presupposed** · `intentionalitaet/hua33/009` · *intentionality (of absolute consciousness)*
+  The intentionality proper to absolute consciousness—whether it maintains intentional apprehension form—remains deeply problematic.
+  `husserliana-33-die-bernauer-manuskripte-uber-das-zeitbewusstsein-commentary#h2-iii` · [III](https://faultynode.github.io/commentaries/commentaries/husserl/husserliana-33-die-bernauer-manuskripte-uber-das-zeitbewusstsein-commentary.html#iii)
+  > Is it an intentional, transcendentally constituting consciousness? Does its intentionality still have the form of intentional apprehension of a pre-intentional content?
+
+- **criticized** · `intentionalitaet/hua33/010` · *intentional character (primal)*
+  If the primal process requires subsequent egoic grasping, its intentional character and independence become questionable.
+  `husserliana-33-die-bernauer-manuskripte-uber-das-zeitbewusstsein-commentary#h2-iii` · [III](https://faultynode.github.io/commentaries/commentaries/husserl/husserliana-33-die-bernauer-manuskripte-uber-das-zeitbewusstsein-commentary.html#iii)
+  > If a subsequent egoic grasping (an act of reflection) were required, both the primal process's independence and its intentional character would become questionable, and its original self-consciousness could scarcely be maintained.
+
+- **introduced** · `intentionalitaet/hua33/011` · *double intentionality*
+  Absolute retentional consciousness harbors a double intentionality: transverse (directed at objects) and longitudinal (self-referential).
+  `husserliana-33-die-bernauer-manuskripte-uber-das-zeitbewusstsein-commentary#h2-iii` · [III](https://faultynode.github.io/commentaries/commentaries/husserl/husserliana-33-die-bernauer-manuskripte-uber-das-zeitbewusstsein-commentary.html#iii)
+  > The flow of "absolute" retentional consciousness thus harbors a double intentionality: one directed at immanent time-objects ("transverse intentionality" / *Querintentionalität*) and one having the form of self-reference or self-consciousness of the flow ("longitudinal intentionality" / *Längsintentionalität*).
+
+- **presupposed** · `intentionalitaet/hua33/012` · *intentional directions (unity)*
+  The two intentional directions belong to one unified process and are inseparably connected.
+  `husserliana-33-die-bernauer-manuskripte-uber-das-zeitbewusstsein-commentary#h2-iii` · [III](https://faultynode.github.io/commentaries/commentaries/husserl/husserliana-33-die-bernauer-manuskripte-uber-das-zeitbewusstsein-commentary.html#iii)
+  > These two intentional directions belong to one and the same process in the flow of continuous retentional modification and are thus inseparably connected.
+
+- **introduced** · `intentionalitaet/hua33/013` · *intentionality (passive, genetic)*
+  Genetic phenomenology traces intentionality from pre-egoic tendencies and strivings rather than treating it as purely egoic act-intentionality.
+  `husserliana-33-die-bernauer-manuskripte-uber-das-zeitbewusstsein-commentary#h2-iv` · [IV](https://faultynode.github.io/commentaries/commentaries/husserl/husserliana-33-die-bernauer-manuskripte-uber-das-zeitbewusstsein-commentary.html#iv)
+  > Husserl now focuses on its genesis from pre-egoic tendencies, strivings, and inhibitions characterizing the intentionality of a passively running primal process.
+
+- **presupposed** · `intentionalitaet/hua33/014` · *retentional and protentional intentionality (passive)*
+  In genetic phenomenology, consciousness of presentness arises from the retentional and protentional intentionality of the passively experienced primal stream.
+  `husserliana-33-die-bernauer-manuskripte-uber-das-zeitbewusstsein-commentary#h2-iv` · [IV](https://faultynode.github.io/commentaries/commentaries/husserl/husserliana-33-die-bernauer-manuskripte-uber-das-zeitbewusstsein-commentary.html#iv)
+  > The consciousness of presentness arises from the interplay of the retentional and protentional intentionality of the passively experienced primal stream.
+
+*Partial pass: Covers editors' introduction (Sections I-V): intentional consciousness framework, problems with intentional apprehension schema, the question of whether the primal process is intentional, double intentionality (transverse/longitudinal), passive/genetic intentionality. Not covered: the six main text groups (Texts 1-22).*
+
+### 1925 - Husserl, Hua 9 — Phenomenological Psychology
+
+`husserliana-9-phenomenological-psychology-commentary`
+
+- **introduced** · `intentionalitaet/hua9/001` · *intentionality (fundamental character of consciousness)*
+  Brentano discovered intentionality as the fundamental character of consciousness, establishing it descriptively as the most general essential character of psychic life.
+  `husserliana-9-phenomenological-psychology-commentary#h4-d-brentano-as-pioneer-for-the-investigation-in-inner-experience-discovery-of-int` · [d) Brentano as Pioneer for the Investigation in Inner Experience — Discovery of Intentionality as Fundamental Character of the Psychic](https://faultynode.github.io/commentaries/commentaries/husserl/husserliana-9-phenomenological-psychology-commentary.html#d-brentano-as-pioneer-for-the-investigation-in-inner-experience--discovery-of-intentionality-as-fundamental-character-of-the-psychic)
+  > we today designate it with the word *intentionality*. For the first time, the *fundamental essence of all psychic life* — *consciousness* as *having-consciousness of something* — was put in the focal point, and indeed brought out descriptively as the most general essential character of psychic life
+
+- **presupposed** · `intentionalitaet/hua9/002` · *intentionality (fundamental property of psychic life)*
+  Intentionality is a fundamental property of psychic life given immediately and evidently prior to all theories.
+  `husserliana-9-phenomenological-psychology-commentary#h4-d-brentano-as-pioneer-for-the-investigation-in-inner-experience-discovery-of-int` · [d) Brentano as Pioneer for the Investigation in Inner Experience — Discovery of Intentionality as Fundamental Character of the Psychic](https://faultynode.github.io/commentaries/commentaries/husserl/husserliana-9-phenomenological-psychology-commentary.html#d-brentano-as-pioneer-for-the-investigation-in-inner-experience--discovery-of-intentionality-as-fundamental-character-of-the-psychic)
+  > One could not escape the recognition that intentionality is a *fundamental property* of psychic life — given quite immediately and evidently *prior to all theories*.
+
+- **presupposed** · `intentionalitaet/hua9/003` · *intentional object-relation*
+  Descriptively, an object-relation belongs to every experience whether or not the object actually exists.
+  `husserliana-9-phenomenological-psychology-commentary#h4-d-brentano-as-pioneer-for-the-investigation-in-inner-experience-discovery-of-int` · [d) Brentano as Pioneer for the Investigation in Inner Experience — Discovery of Intentionality as Fundamental Character of the Psychic](https://faultynode.github.io/commentaries/commentaries/husserl/husserliana-9-phenomenological-psychology-commentary.html#d-brentano-as-pioneer-for-the-investigation-in-inner-experience--discovery-of-intentionality-as-fundamental-character-of-the-psychic)
+  > it can in any case be made evident that *in the perceptual experience itself there lies a consciousness-relation*, and indeed to the house perceived *in it itself*.
+
+- **presupposed** · `intentionalitaet/hua9/004` · *intentional acts (consciousness of correlates)*
+  Every act has its object-correlate: perception is consciousness of what is perceived, memory of what is remembered, love of what is loved.
+  `husserliana-9-phenomenological-psychology-commentary#h4-d-brentano-as-pioneer-for-the-investigation-in-inner-experience-discovery-of-int` · [d) Brentano as Pioneer for the Investigation in Inner Experience — Discovery of Intentionality as Fundamental Character of the Psychic](https://faultynode.github.io/commentaries/commentaries/husserl/husserliana-9-phenomenological-psychology-commentary.html#d-brentano-as-pioneer-for-the-investigation-in-inner-experience--discovery-of-intentionality-as-fundamental-character-of-the-psychic)
+  > if I imagine to myself a centaur, the lived-experience of the fiction is itself *phantasy of* such-and-such a centaur; in the experience that we call *memory* lies likewise itself the *relation to the past*, in *loving* the relation to the *loved*, in *hating* to the *hated*, in *willing* to the *willed*.
+
+- **introduced** · `intentionalitaet/hua9/005` · *intentionality (descriptively graspable essential character)*
+  Brentano established intentionality as the descriptively graspable essential character that distinguishes the psychic from the physical.
+  `husserliana-9-phenomenological-psychology-commentary#h4-d-brentano-as-pioneer-for-the-investigation-in-inner-experience-discovery-of-int` · [d) Brentano as Pioneer for the Investigation in Inner Experience — Discovery of Intentionality as Fundamental Character of the Psychic](https://faultynode.github.io/commentaries/commentaries/husserl/husserliana-9-phenomenological-psychology-commentary.html#d-brentano-as-pioneer-for-the-investigation-in-inner-experience--discovery-of-intentionality-as-fundamental-character-of-the-psychic)
+  > he sought a *descriptive principle of distinction between physical and psychic*, and was the first to establish that *intentionality* is the *descriptively graspable essential character of the specifically psychic*.
+
+- **introduced** · `intentionalitaet/hua9/006` · *intentional analysis (psychological theme)*
+  Once clearly seen, intentionality became the central psychological theme requiring intentional analysis.
+  `husserliana-9-phenomenological-psychology-commentary#h4-d-brentano-as-pioneer-for-the-investigation-in-inner-experience-discovery-of-int` · [d) Brentano as Pioneer for the Investigation in Inner Experience — Discovery of Intentionality as Fundamental Character of the Psychic](https://faultynode.github.io/commentaries/commentaries/husserl/husserliana-9-phenomenological-psychology-commentary.html#d-brentano-as-pioneer-for-the-investigation-in-inner-experience--discovery-of-intentionality-as-fundamental-character-of-the-psychic)
+  > Once clearly seen, intentionality had to be a *psychological* theme — indeed *the central* psychological theme.
+
+- **introduced** · `intentionalitaet/hua9/007` · *intentional implication and analysis*
+  The Logical Investigations discovered intentional analysis as distinct from spatial combination, involving an interwovenness of consciousness specific to the mental.
+  `husserliana-9-phenomenological-psychology-commentary#h4-e-the-further-development-of-the-thought-of-intentionality-in-the-logical-invest` · [e) The Further Development of the Thought of Intentionality in the "Logical Investigations." The Performance-Character of Consciousness. Transition from a Purely Descriptive Psychology to an A Priori (Eidetic-Intuitive) Psychology and Its Significance for Epistemology](https://faultynode.github.io/commentaries/commentaries/husserl/husserliana-9-phenomenological-psychology-commentary.html#e-the-further-development-of-the-thought-of-intentionality-in-the-logical-investigations-the-performance-character-of-consciousness-transition-from-a-purely-descriptive-psychology-to-an-a-priori-eidetic-intuitive-psychology-and-its-significance-for-epistemology)
+  > an *intentional interwovenness, motivated-ness, being-enclosed-in-one-another in a meaning-relation* — and in a manner that has, in form and in principle, *no analogue in the physical at all*.
+
+- **introduced** · `intentionalitaet/hua9/008` · *intentional correlation research*
+  Phenomenological psychology pursues systematic intentional correlations between possible objectivities and structures of consciousness.
+  `husserliana-9-phenomenological-psychology-commentary#h4-e-the-further-development-of-the-thought-of-intentionality-in-the-logical-invest` · [e) The Further Development of the Thought of Intentionality in the "Logical Investigations." The Performance-Character of Consciousness. Transition from a Purely Descriptive Psychology to an A Priori (Eidetic-Intuitive) Psychology and Its Significance for Epistemology](https://faultynode.github.io/commentaries/commentaries/husserl/husserliana-9-phenomenological-psychology-commentary.html#e-the-further-development-of-the-thought-of-intentionality-in-the-logical-investigations-the-performance-character-of-consciousness-transition-from-a-purely-descriptive-psychology-to-an-a-priori-eidetic-intuitive-psychology-and-its-significance-for-epistemology)
+  > the manifold of psychic modes in which, *purely in the immanence of psychic life*, concepts, judgments, theories shape themselves as *ideally identical sense-unities*
+
+- **presupposed** · `intentionalitaet/hua9/009` · *intentional accomplishments (eidetic necessity)*
+  Intentional accomplishments exhibit essential necessity: any knowing subject must structure its thinking identically.
+  `husserliana-9-phenomenological-psychology-commentary#h4-e-the-further-development-of-the-thought-of-intentionality-in-the-logical-invest` · [e) The Further Development of the Thought of Intentionality in the "Logical Investigations." The Performance-Character of Consciousness. Transition from a Purely Descriptive Psychology to an A Priori (Eidetic-Intuitive) Psychology and Its Significance for Epistemology](https://faultynode.github.io/commentaries/commentaries/husserl/husserliana-9-phenomenological-psychology-commentary.html#e-the-further-development-of-the-thought-of-intentionality-in-the-logical-investigations-the-performance-character-of-consciousness-transition-from-a-purely-descriptive-psychology-to-an-a-priori-eidetic-intuitive-psychology-and-its-significance-for-epistemology)
+  > if anything at all like *numbers, mathematical manifolds, propositions, theories*, etc., are to come to subjective givenness, to become conscious in subjective experiences, *these necessary experiences must have their essentially-necessary, everywhere-identical structure*.
+
+- **revised** · `intentionalitaet/hua9/010` · *intentionality (performance-character of consciousness)*
+  Consciousness is not a static taxonomy but a teleologically structured performance-life, everywhere intentional and goal-directed.
+  `husserliana-9-phenomenological-psychology-commentary#h4-e-the-further-development-of-the-thought-of-intentionality-in-the-logical-invest` · [e) The Further Development of the Thought of Intentionality in the "Logical Investigations." The Performance-Character of Consciousness. Transition from a Purely Descriptive Psychology to an A Priori (Eidetic-Intuitive) Psychology and Its Significance for Epistemology](https://faultynode.github.io/commentaries/commentaries/husserl/husserliana-9-phenomenological-psychology-commentary.html#e-the-further-development-of-the-thought-of-intentionality-in-the-logical-investigations-the-performance-character-of-consciousness-transition-from-a-purely-descriptive-psychology-to-an-a-priori-eidetic-intuitive-psychology-and-its-significance-for-epistemology)
+  > Consciousness, intentionality, revealed its true essential character only in such directed work.
+
+- **presupposed** · `intentionalitaet/hua9/011` · *intentional correlation research (Korrelationsforschung)*
+  Phenomenological investigation pursues systematic intentional correlations revealing necessary connections between consciousness and objects.
+  `husserliana-9-phenomenological-psychology-commentary#h4-e-the-further-development-of-the-thought-of-intentionality-in-the-logical-invest` · [e) The Further Development of the Thought of Intentionality in the "Logical Investigations." The Performance-Character of Consciousness. Transition from a Purely Descriptive Psychology to an A Priori (Eidetic-Intuitive) Psychology and Its Significance for Epistemology](https://faultynode.github.io/commentaries/commentaries/husserl/husserliana-9-phenomenological-psychology-commentary.html#e-the-further-development-of-the-thought-of-intentionality-in-the-logical-investigations-the-performance-character-of-consciousness-transition-from-a-purely-descriptive-psychology-to-an-a-priori-eidetic-intuitive-psychology-and-its-significance-for-epistemology)
+  > a new-kind *Idea of psychology* opens up — new-kind not only through its concretely and universally grasped theme *object-consciousness*
+
+*Partial pass: Covers sections d-e: Brentano's discovery of intentionality, the fundamental character of consciousness, intentional object-relations, intentional acts, descriptive psychology, intentional analysis, Logical Investigations' development of intentional implication and analysis, intentional correlation-research, and the performance-character of consciousness.*
 
 ## Reception layer
 
@@ -345,14 +482,37 @@
 
 *Partial pass: Covers Part One chapters 1-2 (pp. 39-92: intentionality vs. transcendence in the 1925 Heidegger course; the two/three concepts of the noema), chapter 3 in full (pp. 95-118: intentionality as subject/thing difference; horizonal intentionality; the world, historicity and Heidegger's anxiety), Part Two in full (pp. 121-185: finitude and teleology of perception; perception and hermeneutics; perception and natural life / Merleau-Ponty), Part Three chapters 1-2 (pp. 189-241: origin of time; the presence of the past), and the Conclusion (pp. 297-327). Not covered: the Introduction (pp. 11-38), Part Three chapter 3 (The Framing of Memory, pp. 243-265) and chapter 4 (His Master's Voice / Derrida, pp. 267-296), both scanned only.*
 
+## Undated - chronology unresolved
+
+*These commentaries do not state a date for their text. They are held out of the sequence rather than placed on a guess; see `synthesis/chronology.json`.*
+
+### undated - Heidegger, GA 24 — Die Grundprobleme der Phänomenologie
+
+`heidegger-ga-24-die-grundprobleme-der-phanomenologie-commentary`
+
+- **introduced** · `intentionalitaet/hga24/001` · *intentionality (phenomenological designation)*
+  Phenomenology designates the structure of comportments as being-directed-toward using the term intentionality, following a Scholastic term.
+  `heidegger-ga-24-die-grundprobleme-der-phanomenologie-commentary#h3-b-the-being-constitution-of-perception-intentionality-and-transcendence` · [b) The Being-Constitution of Perception. Intentionality and Transcendence](https://faultynode.github.io/commentaries/commentaries/heidegger/heidegger-ga-24-die-grundprobleme-der-phanomenologie-commentary.html#b-the-being-constitution-of-perception-intentionality-and-transcendence)
+  > *Phenomenology designates this structure, following a Scholastic term, as intentionality.*
+
+- **introduced** · `intentionalitaet/hga24/002` · *intentionality (Husserl's philosophical clarification)*
+  Husserl for the first time philosophically clarified the essence of intentionality in the Logical Investigations and continued this clarification in the Ideas.
+  `heidegger-ga-24-die-grundprobleme-der-phanomenologie-commentary#h3-b-the-being-constitution-of-perception-intentionality-and-transcendence` · [b) The Being-Constitution of Perception. Intentionality and Transcendence](https://faultynode.github.io/commentaries/commentaries/heidegger/heidegger-ga-24-die-grundprobleme-der-phanomenologie-commentary.html#b-the-being-constitution-of-perception-intentionality-and-transcendence)
+  > Husserl is influenced, who for the first time in the *Logical Investigations* clarified the essence of intentionality and continues this clarification in the *Ideas*.
+
+- **presupposed** · `intentionalitaet/hga24/003` · *intentionality as essential structure*
+  Intentionality belongs essentially to comportments such that talking of 'intentional comportment' is redundant, like saying 'a spatial triangle.'
+  `heidegger-ga-24-die-grundprobleme-der-phanomenologie-commentary#h3-b-the-being-constitution-of-perception-intentionality-and-transcendence` · [b) The Being-Constitution of Perception. Intentionality and Transcendence](https://faultynode.github.io/commentaries/commentaries/heidegger/heidegger-ga-24-die-grundprobleme-der-phanomenologie-commentary.html#b-the-being-constitution-of-perception-intentionality-and-transcendence)
+  > It belongs to the *essence* of comportments, so that the talk of "intentional comportment" is already a pleonasm and amounts to my saying "a spatial triangle."
+
+*Partial pass: Covers section b of the commentary: phenomenology's designation of intentionality, historical roles of Brentano and especially Husserl's philosophical clarification in the Logical Investigations and Ideas, and intentionality as essential to comportment. Not covered: detailed analysis of intentio/intentum distinction, misinterpretations, transcendence relation, or treatment in other sections.*
+
 ## Not covered by this ledger
 
 *Where the theme's terms occur but no extraction pass has run. Silence in the sections above is silence about these files, not evidence of absence in them.*
 
 - `franck-chair-et-corps-commentary` - 224 term hits, no record
 - `husserliana-11-analyses-concerning-passive-and-active-synthesis-commentary` - 175 term hits, no record
-- `husserliana-9-phenomenological-psychology-commentary` - 166 term hits, no record
-- `heidegger-ga-24-die-grundprobleme-der-phanomenologie-commentary` - 133 term hits, no record
 - `henry-philosophie-et-phenomenologie-du-corps-commentary` - 127 term hits, no record
 - `husserliana-3-ideas-i-commentary` - 121 term hits, no record
 - `husserliana-7-erste-philosophie-i-commentary` - 118 term hits, no record

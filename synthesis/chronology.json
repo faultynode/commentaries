@@ -507,6 +507,44 @@
           "evidence": "The dates in the file (1805, 1929) belong to Hegel and to Heidegger's inaugural lecture, not to Picht's course."
         }
       ]
+    },
+    {
+      "commentary": "husserliana-33-die-bernauer-manuskripte-uber-das-zeitbewusstsein-commentary",
+      "role": "primary",
+      "status": "resolved",
+      "strata": [
+        {
+          "id": "hua33-1917",
+          "label": "Bernau manuscripts, first stay, July-October 1917",
+          "year_start": 1917,
+          "year_end": 1917,
+          "stated_in_commentary": true,
+          "evidence": "\"During two stays in Bernau (July 30–October 1, 1917 and February 1–April 27, 1918), the writings on time grew to a considerable volume.\""
+        },
+        {
+          "id": "hua33-1918",
+          "label": "Bernau manuscripts, second stay, February-April 1918",
+          "year_start": 1918,
+          "year_end": 1918,
+          "stated_in_commentary": true,
+          "evidence": "same sentence as hua33-1917"
+        }
+      ]
+    },
+    {
+      "commentary": "heidegger-ga-24-die-grundprobleme-der-phanomenologie-commentary",
+      "role": "primary",
+      "status": "unresolved",
+      "strata": [
+        {
+          "id": "ga24-undated",
+          "label": "Marburg lecture course, semester not stated in the commentary",
+          "year_start": null,
+          "year_end": null,
+          "stated_in_commentary": false,
+          "evidence": "The commentary references *Sein und Zeit* being published 'only months earlier' but gives no explicit semester or year for the course. Two prior lecture courses are mentioned (GA 22 and GA 23) as being from 'the two previous semesters' but without stating when those semesters occurred."
+        }
+      ]
     }
   ]
 }
