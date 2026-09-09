@@ -106,7 +106,7 @@ Next candidates, by term density:
 
 ## Inheritance index
 
-17 commentaries · 139 engagements
+18 commentaries · 142 engagements
 
 - `heidegger-ga-19-platon-sophistes-commentary` - 4 engagements (partial)
 - `heidegger-ga-24-die-grundprobleme-der-phanomenologie-commentary` - 4 engagements (partial)
@@ -122,6 +122,7 @@ Next candidates, by term density:
 - `husserliana-33-die-bernauer-manuskripte-uber-das-zeitbewusstsein-commentary` - 9 engagements (partial)
 - `husserliana-39-die-lebenswelt-commentary` - 4 engagements (partial)
 - `husserliana-4-ideas-ii-commentary` - 4 engagements (partial)
+- `husserliana-43-2-studien-zur-struktur-des-bewusstseins-commentary` - 3 engagements (partial)
 - `husserliana-5-ideas-iii-commentary` - 9 engagements (partial)
 - `husserliana-9-phenomenological-psychology-commentary` - 6 engagements (partial)
 - `kern-husserl-and-kant-commentary` - 16 engagements (partial)
