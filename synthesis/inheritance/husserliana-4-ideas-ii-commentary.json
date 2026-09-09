@@ -1,0 +1,51 @@
+{
+  "schema_version": 1,
+  "commentary": "husserliana-4-ideas-ii-commentary",
+  "source_sha256": "5edb5103ea6db8e048cd4823f8d833ebe634ec0cd959e5c2b9321ab2b5f727be",
+  "extracted_at": "2026-09-09",
+  "extractor": {
+    "agent": "claude-code",
+    "prompt": "prompts/inheritance-prompt.md",
+    "note": "source_sha256 is the LF digest (CRLF checkout; local validate reports a false staleness, CI on LF passes). Ideas II is a constitutive-analysis text and names predecessors sparingly: Descartes on extensio (§12), Kant and Leibniz on the pure ego / monad (§26), Dilthey on the human sciences (§48). The pervasive Cartesian idiom ('sum cogitans', 'cogito', §22) and Leibnizian 'monad' talk (§§28-29, 33) is Husserl's own and not marked as engagement. One record per commentary covering all predecessors."
+  },
+  "coverage": "partial",
+  "coverage_note": "Covers Ideas II's explicit engagement with predecessors, which is thin: Descartes (the designation of extensio as the essential attribute of the material thing, in contrast to spiritual being that excludes extension — endorsed and used to divide material from animal nature), Kant (the proposition that the pure ego must be able to accompany all representations, taken over with a 'good sense' once 'representations' is read as all dark, non-actual consciousness), Leibniz (the monad passing from evolution to involution and becoming a self-conscious spirit, invoked to describe waking versus dull consciousness), and Dilthey (placed first among the reactions against the naturalistic interpretation of the human sciences as merely descriptive natural sciences). Not covered: the constitutive analyses of material nature, the body, empathy, and the personalistic attitude, which proceed without predecessor engagement.",
+  "engagements": [
+    {
+      "id": "inh/hua4/001",
+      "locator": "husserliana-4-ideas-ii-commentary#h3-s12-material-and-animal-nature",
+      "primary_locator": "Ideas II § 12",
+      "predecessor": { "author": "René Descartes" },
+      "mode": "acknowledged-debt",
+      "claim": "Husserl endorses Descartes' designation of extensio as the essential attribute of the material thing, contrasted with psychical or spiritual being that excludes extension, and takes rightly understood extensio to divide material nature from animal nature.",
+      "quote": "Not without reason does Descartes designate extensio as the essential attribute of the material thing, which for that reason is also called simply corporeal, in contrast to psychical or spiritual being, which in its spirituality as such has no extensio, rather essentially excludes it."
+    },
+    {
+      "id": "inh/hua4/002",
+      "locator": "husserliana-4-ideas-ii-commentary#h3-s26-waking-and-dull-consciousness",
+      "primary_locator": "Ideas II § 26",
+      "predecessor": { "author": "Immanuel Kant", "text": "Kritik der reinen Vernunft" },
+      "mode": "acknowledged-debt",
+      "claim": "Husserl takes over the Kantian proposition that the pure ego must be able to accompany all my representations, holding that it has a good sense once 'representations' is understood as all dark, non-actual consciousness.",
+      "quote": "\"The pure ego must be able to accompany all my representations.\" This Kantian proposition has a good sense if we understand \"representations\" here as all dark consciousness."
+    },
+    {
+      "id": "inh/hua4/003",
+      "locator": "husserliana-4-ideas-ii-commentary#h3-s26-waking-and-dull-consciousness",
+      "primary_locator": "Ideas II § 26",
+      "predecessor": { "author": "Gottfried Wilhelm Leibniz" },
+      "mode": "terminological-borrowing",
+      "claim": "To describe the passage between waking and wholly dull consciousness Husserl invokes Leibniz: the monad passes from the stage of evolution to that of involution and in higher acts becomes a self-conscious spirit.",
+      "quote": "Husserl invokes Leibniz: the monad passes from the stage of evolution to that of involution and in higher acts becomes a self-conscious \"spirit.\""
+    },
+    {
+      "id": "inh/hua4/004",
+      "locator": "husserliana-4-ideas-ii-commentary#h3-s48-introduction",
+      "primary_locator": "Ideas II § 48",
+      "predecessor": { "author": "Wilhelm Dilthey" },
+      "mode": "acknowledged-debt",
+      "claim": "Husserl places Dilthey first among the decades-long reactions against the naturalistic interpretation of the human sciences, self-evident to the natural-scientific age, as merely descriptive natural sciences.",
+      "quote": "For decades, reactions have made themselves felt against the naturalistic interpretation of the human sciences — self-evident to the natural-scientific age — as merely descriptive natural sciences. Dilthey stands in first place here."
+    }
+  ]
+}
