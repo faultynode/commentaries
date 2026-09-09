@@ -1,0 +1,60 @@
+{
+  "schema_version": 1,
+  "commentary": "husserliana-3-ideas-i-parts-3-4-commentary",
+  "source_sha256": "cca8c38ab34388e5a559649f69b70591451b461759746ee131fb0656b0e0b361",
+  "extracted_at": "2026-09-09",
+  "extractor": {
+    "agent": "claude-code",
+    "prompt": "prompts/inheritance-prompt.md",
+    "note": "source_sha256 is the LF digest (CRLF checkout; local validate reports a false staleness, CI on LF passes). This commentary covers Ideas I Parts 3 and 4 (§§63-153). Explicit predecessor engagement: Kant (the 'Idea in the Kantian sense' for exact essences at §74 and for adequate thing-givenness at §143), Aristotle (the borrowed hyle/morphe pair, §85), Brentano (the distinction of psychic and physical phenomena, §85), and Descartes (the demon fiction, §145). One record per commentary covering all predecessors."
+  },
+  "coverage": "partial",
+  "coverage_note": "Covers the predecessor engagements of Ideas I Parts 3-4: Kant (exact, ideal essences have the character of 'Ideas in the Kantian sense', ideal limits never intuitable that morphological essences only approach; and the perfect givenness of a thing, unreachable in any closed appearance, prefigured as an 'Idea in the Kantian sense', an a priori determinate infinite continuum of harmonious appearances of the same X), Aristotle (the deliberately borrowed hyle/morphe pair: the concrete intentional experience is a unity of sensuous hyle and animating intentional morphe), Brentano (the distinction of psychic and physical phenomena, path-breaking for phenomenology in first marking off the intentional, though Brentano remained far from the phenomenological ground and did not strike the distinction he sought), and Descartes (the lying-spirit fiction as a skeptical worry that no index- or feeling-theory of evidence can overcome). Not covered: the technical noesis-noema and neutrality-modification analyses that name no predecessors.",
+  "engagements": [
+    {
+      "id": "inh/hua3-i34/001",
+      "locator": "husserliana-3-ideas-i-parts-3-4-commentary#h3-s-74-descriptive-and-exact-sciences",
+      "primary_locator": "Ideas I §74",
+      "predecessor": { "author": "Immanuel Kant", "text": "Kritik der reinen Vernunft" },
+      "mode": "terminological-borrowing",
+      "claim": "Husserl holds that exact concepts have their correlates in essences that have the character of 'Ideas in the Kantian sense' — ideal limits, never found in any sensuous intuition, that the vague morphological essences of descriptive concepts only more or less approach.",
+      "quote": "Exact concepts have their correlates in essences that have the character of \"Ideas in the Kantian sense.\" Over against these Ideas or ideal essences stand the morphological essences, as correlates of the descriptive concepts."
+    },
+    {
+      "id": "inh/hua3-i34/002",
+      "locator": "husserliana-3-ideas-i-parts-3-4-commentary#h3-s-143-adequate-thing-givenness-as-idea-in-the-kantian-sense",
+      "primary_locator": "Ideas I §143",
+      "predecessor": { "author": "Immanuel Kant" },
+      "mode": "terminological-borrowing",
+      "claim": "Since a thing can be given in no closed appearance, its perfect givenness is prefigured as an 'Idea in the Kantian sense': an in its essence-type absolutely determinate system of endless processes of continuous appearing, governed throughout by firm essence-lawfulness.",
+      "quote": "But as \"Idea\" (in the Kantian sense) the perfect givenness is nevertheless prefigured — as a in its essence-type absolutely determinate system of endless processes of continuous appearing"
+    },
+    {
+      "id": "inh/hua3-i34/003",
+      "locator": "husserliana-3-ideas-i-parts-3-4-commentary#h3-s-85-sensuous-hyle-intentional-morphe",
+      "primary_locator": "Ideas I §85",
+      "predecessor": { "author": "Aristotle" },
+      "mode": "terminological-borrowing",
+      "claim": "The Aristotelian hyle/morphe language is deliberately borrowed to name the duality within every concrete intentional experience: consciousness is the in-forming of sensuous matter by intentional form.",
+      "quote": "The Aristotelian *hyle/morphe* language is deliberately borrowed: consciousness is the in-forming of sensuous matter by intentional form."
+    },
+    {
+      "id": "inh/hua3-i34/004",
+      "locator": "husserliana-3-ideas-i-parts-3-4-commentary#h3-s-85-sensuous-hyle-intentional-morphe",
+      "primary_locator": "Ideas I §85",
+      "predecessor": { "author": "Franz Brentano", "text": "Psychologie vom empirischen Standpunkt" },
+      "mode": "acknowledged-debt",
+      "claim": "Husserl honours Brentano's distinction of psychic and physical phenomena as path-breaking for the development of phenomenology in first identifying intentionality as the mark of the mental, while noting that Brentano remained far from the phenomenological ground and did not strike the distinction he actually sought.",
+      "quote": "This old tendency finds its newest expression in Brentano's distinction of \"psychic\" and \"physical phenomena.\" It is especially significant because it became path-breaking for the development of phenomenology, although Brentano himself remained far from the phenomenological ground"
+    },
+    {
+      "id": "inh/hua3-i34/005",
+      "locator": "husserliana-3-ideas-i-parts-3-4-commentary#h3-s-145-critical-remarks-on-the-phenomenology-of-evidence",
+      "primary_locator": "Ideas I §145",
+      "predecessor": { "author": "René Descartes" },
+      "mode": "polemical-rejection",
+      "claim": "Husserl rejects the index- and feeling-theories of evidence because they cannot overcome the old skeptical doubt that a lying-spirit, the Cartesian fiction, could equip precisely every false judgment with the same feeling of thought-necessity.",
+      "quote": "no index- and feeling-theory of evidence can overcome: whether not a lying-spirit (the Cartesian fiction) or a fatal change of the factual world-course could bring it about that precisely every false judgment were equipped with this index"
+    }
+  ]
+}
