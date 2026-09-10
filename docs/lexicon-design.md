@@ -69,15 +69,16 @@ flowchart LR
 The dotted line back to the commentaries is the part worth noticing. A
 rendering can be *attested* — a commentary glossed the term itself, in a
 named section, and the entry records where. That is the same move as the
-quote check, applied to a dictionary entry, and it is why the seed file
-carries 24 attested renderings out of 69.
+quote check, applied to a dictionary entry, and it is why the file
+carries 71 attested renderings out of 349.
 
 ## 3. Data model
 
     lexicon.json
       sources[]   {id, kind, citation, note?}
       entries[]   {id, headword, language, forms[], renderings[],
-                   authors?, theme?, contrast_with?, gloss?, note?}
+                   authors?, theme?, contrast_with?, ordinary_english?,
+                   gloss?, note?}
         renderings[]  {english, source, translator?, locator?, note?}
 
 One entry per **headword**, not per theme and not per author. Themes are
@@ -187,6 +188,39 @@ a Heidegger dictionary would have flagged, because both are facts about
 A dictionary tells you what renderings exist. The corpus tells you which
 ones are in play. Both belong in the file; only the second can be checked.
 
+### L8 · Some forms are recorded and never searched
+
+`ordinary_english` lists forms a search cannot separate from ordinary
+English, and `--expand` will not propose them. Two mechanisms, both
+common:
+
+- **Homographs.** `Not` is German for distress and English for *not*:
+  26,852 whole-word hits in this corpus, none of them Heidegger's word.
+  `Interpretation`, `Situation`, `Tradition` and `Negation` are spelled
+  identically in both languages.
+- **Prefixes.** The matcher is left-anchored (D5), so `Natur` fires
+  inside *nature* and *natural* — 5,445 hits, of which 13 are the German
+  — `Tod` inside *today*, `Irre` inside *irreducible*, `Wort` inside
+  *worth*, `Ontologie` inside the English plural *ontologies*.
+
+The forms stay in `forms`, because they are the term's real forms and an
+`--attest` report should still count them. What they must not do is reach
+`themes.json`, where `absent_terms` defaults to the theme's search terms
+and one such entry makes every absence claim in the theme vacuous. This
+is the German-side counterpart of `synthesis/CLAUDE.md` rule 5.
+
+**The field is authored, not computed, and the Dahlstrom import is why.**
+The obvious rule — flag a form whose left-anchored count far exceeds its
+whole-word count — produced 25 flags of which 12 were wrong. It cannot
+tell English contamination from German compounding, and by count they are
+identical: `Wissen` exceeds its whole-word total because of
+*Wissenschaft*, `Ding` because of *Dinglichkeit*, `Grund` because of
+*Grundprobleme*. That over-inclusion is not a defect, it is what the
+left-anchored matcher is *for*. Only looking at the words a form actually
+fires inside separates the two cases, so `--attest` prints both counts and
+flags the divergence neutrally — "fires mostly inside longer words" — and
+a person decides which kind it is.
+
 ## 5. What the machine cannot check
 
 | Checked | Not checked |
@@ -195,6 +229,7 @@ ones are in play. Both belong in the file; only the second can be checked.
 | Locators resolve; entry ids are unique; themes exist | That the entry's `theme` is the right theme |
 | Sources resolve; corpus-sourced renderings carry a locator | That a `dictionary` rendering is really in that dictionary |
 | Shared renderings are declared as contrasts | That the contrast is the significant one |
+| `ordinary_english` names real forms of the entry | That the forms needing the flag all have it |
 | Which registered terms occur in the corpus, and where | Which *unregistered* terms should have been |
 
 The last row is the important one, and it is where the lexicon narrows a
@@ -205,62 +240,94 @@ glosses it — no scan over English text can, and that is exactly what
 gap-004 asks about. What the lexicon does is make the answerable part
 cheap enough to actually run.
 
-## 6. Adding a dictionary
+## 6. The reference works
 
-The seed file is compiled from this repository only: `themes.json`,
-`scripts/synthesis_query.py`, `commentaries/CLAUDE.md`, and the
-commentaries' own glosses. Nothing in it came from a reference work, so
-the file is honest before a single dictionary is opened.
+### What is registered
 
-To bring one in:
+| Source | Kind | Contributes |
+|---|---|---|
+| `corpus` | the commentaries themselves | 71 renderings, each with a locator, each checked |
+| `repo-registry` | `themes.json`, `synthesis_query.py`, `commentaries/CLAUDE.md` | the pre-lexicon seed |
+| `dahlstrom-2013` | Dahlstrom, *The Heidegger Dictionary* (Bloomsbury, 2013) | 255 headwords and their renderings |
 
-1. **Keep the book out of the repo.** Source texts and secondary material
-   live in [faultynode/sources](https://github.com/faultynode/sources).
-   A reference work belongs there or outside git entirely; only the
-   derived registry belongs here.
-2. **Add it to `sources[]`** with `kind: "dictionary"` and a full
-   bibliographic `citation` — author, title, edition. The citation is the
-   whole of what the book contributes textually. See L4.
-3. **Add entries headword by headword,** in the dictionary's own order or
-   in whatever order the corpus makes urgent. `forms` and `renderings`
-   are what to take; definitions are not.
-4. **Mine the corpus for the same headword** before moving on:
+Only forms, renderings and cross-references are taken. No definition text
+is reproduced — not in an entry, not in a note, not in a gloss. The books
+stay in [faultynode/sources](https://github.com/faultynode/sources) or
+outside git; see L4, and note that `synthesis/` is one `git mv` from a
+live public page.
 
-       grep -rno ".\{45\}(\*\?Headword\*\?)" commentaries/*/*.md
+### What the first import taught
 
-   Every `English (Headword)` gloss the corpus contains is an attested
-   rendering — add it with a locator, source `corpus`, and let `--check`
-   confirm it. This is the step that makes the entry worth more than the
-   dictionary page it came from.
-5. **Run `--check`, then `--expand --theme <id>`,** and paste what is
-   missing into `themes.json` if you agree with it (L3).
-6. **Run `--candidates`** once the batch is in. A headword with no theme
-   and five thousand hits is the next theme to register, or the next gap
-   to open.
+Dahlstrom's A–Z headings are `English (German)` and his glossary is a
+plain German→English list, so the term equivalences extract cleanly. Four
+things did not, and each is now part of the design:
 
-A dictionary for an author with no commentary in the corpus — Merleau-Ponty
-is the live case, named 146 times across these files and the subject of
-none of them — is still worth registering. Its entries will show up in
-`--candidates` with real hit counts from the commentaries that discuss him,
-and they are the coverage map for the commentary that does not exist yet.
+1. **The glossary marks translator divergences.** Dahlstrom flags where
+   his rendering differs from the standard translations of *Sein und
+   Zeit* — `MR` for Macquarrie-Robinson (1962), `S` for Stambaugh
+   (2011). `Befindlichkeit` is his *disposedness*, MR's *state of mind*,
+   S's *attunement*; `Verfallen` is *fallenness*, *falling*, *falling
+   prey*. Fifteen renderings now carry a `translator`, which is exactly
+   what the `vorhandenheit` theme note has been asking for since it was
+   written: "English renderings diverge sharply between translations, so
+   the search terms must cover both or the English-language commentaries
+   drop out of the results."
+2. **A dictionary poisons a term list if imported naively.** See L8. Of
+   255 headwords, 13 cannot be searched at all.
+3. **Collisions arrive in bulk.** Registering 223 new headwords at once
+   turned up 26 pairs of German terms that reach English as one word —
+   `Auslegung`/`Interpretation` both *interpretation*,
+   `Verbergung`/`Verborgenheit` both *concealment*,
+   `Differenz`/`Unterschied` both *difference*, `Grund`/`Vernunft` both
+   *reason*, `Wille`/`Wollen` both *will*. Each is recorded in
+   `contrast_with`, which is what `--check` demands and all it demands:
+   the lexicon says the collision exists, and says nothing about which
+   term a passage means.
+4. **Most of a dictionary is not about this corpus.** 87 of the 255
+   headwords occur in no commentary here. They are kept — a term registry
+   for an author is a coherent object and a partial import invites a
+   confused second one — and they simply rank last in `--candidates`,
+   which is where an unregistered headword goes to be noticed.
+
+### Adding the next one
+
+1. Keep the book out of the repo (as above).
+2. Add it to `sources[]` with `kind: "dictionary"` and a full citation.
+3. Extract headwords, forms and renderings. Nothing else.
+4. Mine the corpus for the same headwords — `English (Headword)` glosses
+   are attested renderings, and they carry locators `--check` can verify.
+   This is what makes an entry worth more than the dictionary page it
+   came from (L7).
+5. Run `--check`, work the collision warnings into `contrast_with`, and
+   run `--attest` over the new entries to decide `ordinary_english` by
+   looking at what each form fires inside (L8).
+6. `--expand` per theme the batch touches, then `--candidates`.
+
+A dictionary for an author with no commentary in the corpus is still
+worth registering. Merleau-Ponty is the live case — named 146 times
+across these files and the subject of none of them — and his entries
+would rank in `--candidates` on hits from the commentaries that discuss
+him, which is the coverage map for the commentary nobody has written.
 
 ## 7. Performance
 
-Whole lexicon, 29 entries, against 53 commentaries and 2.9 million words:
+Whole lexicon, 255 entries, against 53 commentaries and 2.9 million words:
 
 | Mode | Time |
 |---|---|
 | `--expand` | instant (no corpus scan) |
-| `--check` | 0.7 s |
-| `--attest` | 3.3 s |
-| `--candidates` | 3.5 s |
+| `--check` | 1.2 s |
+| `--candidates` | 5.3 s |
+| `--attest`, one theme | under a second |
+| `--attest`, everything | 11.7 s |
 
-`--attest` counts every registered term against every document, which is
-6,413 term-document pairs and was 42 s written the obvious way. The
-matcher's pattern is a literal with a left-hand word boundary, so the
-occurrences can be found with `str.find` and filtered on the preceding
-character instead of scanned for with a regex; cost then tracks how often
-a term occurs rather than how long the corpus is. The result is identical —
-checked against `lib.count_terms` over all 6,413 pairs — and the same
-trick is available to `synthesis_status.py` if that report ever outgrows
-its budget.
+`--attest` over the whole file counts every registered term against every
+document: 33,284 term-document pairs, and 42 s written the obvious way at
+a quarter of the current size. The matcher's pattern is a literal with a
+left-hand word boundary, so the occurrences can be found with `str.find`
+and filtered on the preceding character instead of scanned for with a
+regex; cost then tracks how often a term occurs rather than how long the
+corpus is, and both boundary tests share one traversal. The result is
+identical — checked against `lib.count_terms` over every pair — and the
+same trick is available to `synthesis_status.py` if that report ever
+outgrows its budget.

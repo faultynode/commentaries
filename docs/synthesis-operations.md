@@ -306,6 +306,22 @@ with no commentary in the corpus is still worth registering — its entries
 rank in `--candidates` on hits from the commentaries that discuss him, and
 that ranking is the coverage map for the commentary nobody has written.
 
+Three things a bulk import always needs, learned from the first one
+(Dahlstrom, 255 headwords — see
+[lexicon-design.md](lexicon-design.md) §6):
+
+- **Translator divergences are data.** Where the reference work marks a
+  rendering as some translator's rather than its own, put it in
+  `translator`. That is the field the `vorhandenheit` theme note wanted.
+- **Collisions come in bulk and must be recorded, not resolved.**
+  `--check` warns for every English word two entries share; the fix is
+  `contrast_with` on both, never deleting a rendering.
+- **Decide `ordinary_english` by looking, not by counting.** Run
+  `--attest` over the new entries. A form flagged "fires mostly inside
+  longer words" is contaminated by English (`Natur` inside *nature*) or
+  compounded in German (`Wissen` inside *Wissenschaft*), and only the
+  words themselves say which. Flag the first, leave the second.
+
 ## CI reference
 
 `.github/workflows/synthesis.yml`. **The model never runs here.**

@@ -87,6 +87,47 @@ def term_hits(body, needle):
     return n
 
 
+def whole_word_hits(body, needle):
+    """`term_hits` with a right-hand boundary as well as a left.
+
+    Not what the matcher does - `synthesis_query.py` and every absence
+    check are left-anchored only, deliberately (synthesis-design.md D5).
+    This is the control. Where the two counts diverge the term is firing
+    inside longer words, and the ratio says how badly: `Natur` scores
+    5,445 against the corpus and 13 of them are the German word, the rest
+    being `nature` and `natural`.
+    """
+    n = 0
+    i = body.find(needle)
+    while i != -1:
+        j = i + len(needle)
+        if ((i == 0 or not body[i - 1].isalnum())
+                and (j >= len(body) or not body[j].isalnum())):
+            n += 1
+        i = body.find(needle, i + 1)
+    return n
+
+
+def both_hits(body, needle):
+    """`term_hits` and `whole_word_hits` in one traversal.
+
+    An attestation pass wants both numbers for every term, and finding
+    the occurrences twice to apply two different boundary tests doubles
+    the only cost there is.
+    """
+    anchored = whole = 0
+    i = body.find(needle)
+    n = len(needle)
+    while i != -1:
+        if i == 0 or not body[i - 1].isalnum():
+            anchored += 1
+            j = i + n
+            if j >= len(body) or not body[j].isalnum():
+                whole += 1
+        i = body.find(needle, i + 1)
+    return anchored, whole
+
+
 def present(body, term):
     return term_hits(body, lib.normalize_quote(term)) > 0
 
@@ -125,6 +166,12 @@ def check(lexicon, quiet=False):
         ids.add(e["id"])
         if e.get("theme") and e["theme"] not in themes:
             errors.append("%s: theme %r is not in themes.json" % (where, e["theme"]))
+
+        forms_lc = {f.lower() for f in e["forms"]}
+        for f in e.get("ordinary_english", []):
+            if f.lower() not in forms_lc:
+                errors.append("%s: ordinary_english names %r, which is not one "
+                              "of the entry's forms" % (where, f))
 
         for r in e["renderings"]:
             src = sources.get(r["source"])
@@ -235,13 +282,18 @@ def expand(lexicon, args):
         current = list(theme["search_terms"])
         current_lc = {t.lower() for t in current}
 
-        proposed, seen = [], set()
+        proposed, seen, withheld = [], set(), []
         for e in lexicon["entries"]:
             if e.get("theme") != tid:
                 continue
+            unsafe = {t.lower() for t in e.get("ordinary_english", [])}
             for term in entry_terms(e):
-                if term.lower() not in seen:
-                    seen.add(term.lower())
+                if term.lower() in seen:
+                    continue
+                seen.add(term.lower())
+                if term.lower() in unsafe:
+                    withheld.append(term)
+                else:
                     proposed.append(term)
 
         missing = [t for t in proposed if t.lower() not in current_lc]
@@ -256,6 +308,10 @@ def expand(lexicon, args):
         if orphan:
             print("  in search_terms with no lexicon entry (%d):" % len(orphan))
             for t in orphan:
+                print("      %s" % t)
+        if withheld:
+            print("  withheld as ordinary English (%d):" % len(withheld))
+            for t in withheld:
                 print("      %s" % t)
         if not missing and not orphan:
             print("  in step")
@@ -292,18 +348,27 @@ def attest(lexicon, args):
     bodies = [(d, lib.normalized_document(d)) for d in docs]
     for e in entries:
         print("%s - %s" % (e["id"], e["headword"]))
+        marked = set(e.get("ordinary_english", []))
         rows = ([("form", f) for f in e["forms"]]
                 + [("rendering", r["english"]) for r in e["renderings"]])
         for kind, term in rows:
             needle = lib.normalize_quote(term)
-            hits = ndocs = 0
+            hits = whole = ndocs = 0
             for _, body in bodies:
-                n = term_hits(body, needle)
+                n, w = both_hits(body, needle)
                 hits += n
+                whole += w
                 ndocs += 1 if n else 0
-            flag = "  <- not in the corpus" if not hits else ""
-            print("  %-9s %-34s %6d hits  %2d docs%s"
-                  % (kind, term[:34], hits, ndocs, flag))
+            if term in marked:
+                flag = "  <- ordinary English, not proposed as a search term"
+            elif not hits:
+                flag = "  <- not in the corpus"
+            elif hits >= 3 * whole and hits >= 10:
+                flag = "  <- fires mostly inside longer words"
+            else:
+                flag = ""
+            print("  %-9s %-28s %6d hits %6d whole  %2d docs%s"
+                  % (kind, term[:28], hits, whole, ndocs, flag))
         print()
     return 0
 
@@ -314,35 +379,51 @@ def attest(lexicon, args):
 def candidates(lexicon, args):
     """Unregistered headwords, ranked by how much corpus they touch.
 
-    Theme selection is otherwise a matter of what someone thought of. This
-    makes it a measurement: a headword with six thousand hits and no theme
-    is a gap in the registry whether or not anyone finds it interesting.
-    Density is not importance, and the ranking does not pretend otherwise -
-    it only stops a term being missed for want of noticing.
+    Ranked on the entry's original-language forms only, and never on a
+    form flagged `ordinary_english`. Renderings are excluded on purpose:
+    they are English words in an English corpus, and a ranking that
+    counted them would put `das Man` near the top on 4,914 occurrences of
+    "they". The German is the signal that these commentaries are working
+    with the term rather than using the word.
+
+    Counted whole-word, which is not what the matcher does. The matcher
+    is left-anchored and over-inclusive by design (D5), which is right
+    for a candidate list and wrong for a measurement: `Natur` scores
+    5,445 anchored and 13 whole, and the 5,432 are `nature`.
+
+    Theme selection is otherwise a matter of what someone thought of.
+    This makes it a measurement. Density is not importance, and the
+    ranking does not pretend otherwise - it only stops a term being
+    missed for want of noticing.
     """
     corpus = lib.load_corpus()
-    bodies = [(d, lib.normalized_document(d)) for d in corpus["documents"]]
+    bodies = [lib.normalized_document(d) for d in corpus["documents"]]
     rows = []
     for e in select(lexicon, args):
         if e.get("theme"):
             continue
-        terms = entry_terms(e)
+        unsafe = {t.lower() for t in e.get("ordinary_english", [])}
+        forms = [f for f in e["forms"] if f.lower() not in unsafe]
         hits = ndocs = 0
-        for _, body in bodies:
-            n = lib.count_terms(body, terms)
+        for body in bodies:
+            n = sum(whole_word_hits(body, lib.normalize_quote(f)) for f in forms)
             hits += n
             ndocs += 1 if n else 0
-        rows.append((hits, ndocs, e))
+        rows.append((hits, ndocs, e, forms))
 
     if not rows:
         print("every lexicon entry is registered to a theme")
         return 0
 
+    silent = sum(1 for r in rows if not r[0])
     rows.sort(key=lambda r: (-r[0], r[2]["id"]))
-    print("%d headword(s) with no theme, by corpus density\n" % len(rows))
-    for hits, ndocs, e in rows[:args.top]:
-        print("%7d hits  %2d docs  %-16s %s"
-              % (hits, ndocs, e["id"], ", ".join(entry_terms(e))[:60]))
+    print("%d headword(s) with no theme, by corpus density; %d occur in no "
+          "commentary\n" % (len(rows), silent))
+    for hits, ndocs, e, forms in rows[:args.top]:
+        if not hits:
+            break
+        print("%7d hits  %2d docs  %-22s %s"
+              % (hits, ndocs, e["id"], ", ".join(forms)[:44]))
     return 0
 
 

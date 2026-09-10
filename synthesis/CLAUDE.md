@@ -133,7 +133,10 @@ is glossed three different ways across three commentaries and
 "concern" here and no search separates them. Run
 `scripts/synthesis_lexicon.py --expand --theme <id>` before trusting a
 candidate ranking, and read a shared rendering as a warning that the hit
-list merges two terms. Widening `search_terms` also widens what
+list merges two terms. Some forms are recorded and deliberately never
+searched — `Not`, `Natur`, `Tod`, `Interpretation` and nine others are
+ordinary English or fire inside it — so never paste a term into
+`search_terms` that `--expand` withheld. Widening `search_terms` also widens what
 `absent_terms` defaults to, so it is a judgement - operations P9.
 
 **Hua IV is six strata, not one date.** 1912 draft, 1915 rework, two
