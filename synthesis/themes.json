@@ -80,6 +80,24 @@
         "moment of vision"
       ],
       "note": "Husserl's time-consciousness and Heidegger's ekstatic temporality share almost no vocabulary, so the search terms have to carry both idioms."
+    },
+    {
+      "id": "reduktion",
+      "english": "phenomenological reduction",
+      "glossary_terms": ["Reduktion", "phänomenologische Reduktion", "transzendentale Reduktion", "Epoché"],
+      "search_terms": [
+        "Reduktion", "phänomenologische Reduktion", "transzendentale Reduktion", "eidetische Reduktion", "Epoché",
+        "reduction", "phenomenological reduction", "transcendental reduction", "eidetic reduction", "epoché",
+        "bracketing", "bracketed",
+        "putting out of play", "suspension",
+        "phenomenological method", "transcendental reflection",
+        "transcendental attitude", "transcendental standpoint",
+        "Cartesian meditation", "cartesian meditation",
+        "zu den Sachen selbst", "back to the things themselves",
+        "transcendental ego",
+        "Destruktion", "destruction"
+      ],
+      "note": "Core distinction: Husserl's phenomenological reduction as method (epoché, transcendental-methodical standpoint) versus Heidegger's destruction (Destruktion) as dismantling of philosophical tradition—both critical for phenomenological inquiry but different aims and procedures. Translation variants matter: 'epoché' vs 'bracketing' both appear in English commentaries. Watch for ambiguous uses of 'reduction' in mathematical or logical contexts; term carries significant density in Ideas I commentary and Cartesian Meditations. Bernet and Derrida commentaries are key secondary sources."
     }
   ]
 }
