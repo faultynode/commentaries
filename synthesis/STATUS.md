@@ -48,6 +48,20 @@ Next candidates, by term density:
 - [ ] `husserliana-9-phenomenological-psychology-commentary` (1925) - 108 hits
 - ... 43 more; see `synthesis_query.py --theme leib`
 
+### reduktion - phenomenological reduction
+
+0 commentaries extracted · 0 units · 0 absences
+
+Next candidates, by term density:
+
+- [ ] `bernet-la-vie-du-sujet-commentary` (1994) - 164 hits
+- [ ] `derrida-introduction-a-lorigine-de-la-geometrie-commentary` (undated) - 164 hits
+- [ ] `husserliana-13-basic-problems-of-phenomenology-commentary` (1910) - 135 hits
+- [ ] `husserliana-3-ideas-i-parts-3-4-commentary` (undated) - 127 hits
+- [ ] `franck-chair-et-corps-commentary` (undated) - 124 hits
+- [ ] `Reduction et donation Commentary` (undated) - 123 hits
+- ... 44 more; see `synthesis_query.py --theme reduktion`
+
 ### sorge - care
 
 2 commentaries extracted · 11 units · 5 absences · 1 partial
@@ -106,8 +120,9 @@ Next candidates, by term density:
 
 ## Inheritance index
 
-26 commentaries · 194 engagements
+27 commentaries · 204 engagements
 
+- `derrida-introduction-a-lorigine-de-la-geometrie-commentary` - 10 engagements (partial)
 - `franck-chair-et-corps-commentary` - 7 engagements (partial)
 - `heidegger-ga-19-platon-sophistes-commentary` - 4 engagements (partial)
 - `heidegger-ga-20-prolegomena-zur-geschichte-des-zeitbegriffs-commentary` - 9 engagements (partial)
