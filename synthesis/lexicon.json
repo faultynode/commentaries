@@ -1,0 +1,411 @@
+{
+  "schema_version": 1,
+  "sources": [
+    {
+      "id": "corpus",
+      "kind": "commentary-corpus",
+      "citation": "commentaries/*/*.md, via synthesis/corpus.json",
+      "note": "A commentary in this corpus states the pairing in its own text, usually as 'English (Original)'. These renderings carry a locator and are re-checked by scripts/synthesis_lexicon.py --check, which is why they are the only kind the machine can verify. They are also the only kind that proves a rendering is actually in use here rather than merely available."
+    },
+    {
+      "id": "repo-registry",
+      "kind": "registry",
+      "citation": "synthesis/themes.json, scripts/synthesis_query.py, commentaries/CLAUDE.md",
+      "note": "Terms this repository already asserted before the lexicon existed. Migrated rather than re-derived, so the seed carries no outside knowledge: every one of these was already in a file under version control. Unverifiable in the sense that no locator points at a commentary using it - but not unsourced."
+    }
+  ],
+  "entries": [
+    {
+      "id": "sorge",
+      "headword": "Sorge",
+      "language": "de",
+      "authors": ["heidegger"],
+      "forms": ["Sorge"],
+      "renderings": [
+        { "english": "care", "source": "corpus", "locator": "heidegger-sein-und-zeit-commentary#h4-s-4-the-ontic-priority-of-the-question-of-being" },
+        { "english": "caring", "source": "repo-registry" },
+        { "english": "taking care", "source": "repo-registry" }
+      ],
+      "theme": "sorge",
+      "contrast_with": ["besorgen", "fuersorge", "bekuemmerung"],
+      "gloss": "The unified structure of Dasein's being in Being and Time, not an attitude or a mood.",
+      "note": "'care' is also an ordinary English word throughout the corpus, which is why the GA 19 absence records check the German family only. See synthesis/CLAUDE.md rule 5."
+    },
+    {
+      "id": "besorgen",
+      "headword": "Besorgen",
+      "language": "de",
+      "authors": ["heidegger"],
+      "forms": ["Besorgen", "besorgt"],
+      "renderings": [
+        { "english": "concern", "source": "corpus", "locator": "heidegger-sein-und-zeit-commentary#h5-s-12-the-predelineation-of-being-in-the-world-from-the-orientation-toward-being" },
+        { "english": "concernful", "source": "repo-registry" }
+      ],
+      "theme": "sorge",
+      "contrast_with": ["sorge", "fuersorge", "bekuemmerung"],
+      "gloss": "Care in the mode of dealing with equipment - the ready-to-hand, not other people.",
+      "note": "Shares the English 'concern' with Bekuemmerung, which is a different term from a different period. A hit on 'concern' does not say which is meant; the German does."
+    },
+    {
+      "id": "fuersorge",
+      "headword": "Fürsorge",
+      "language": "de",
+      "authors": ["heidegger"],
+      "forms": ["Fürsorge"],
+      "renderings": [
+        { "english": "solicitude", "source": "corpus", "locator": "heidegger-sein-und-zeit-commentary#h5-s-26-the-co-dasein-of-others-and-everyday-being-with" },
+        { "english": "welfare work", "source": "corpus", "locator": "heidegger-sein-und-zeit-commentary#h5-s-26-the-co-dasein-of-others-and-everyday-being-with", "note": "The ordinary German sense, which that section names in order to set it aside. A rendering recorded because the corpus contains it, not because it is the right one." }
+      ],
+      "theme": "sorge",
+      "contrast_with": ["sorge", "besorgen"],
+      "gloss": "Care in the mode of being with others, as against Besorgen's dealings with equipment."
+    },
+    {
+      "id": "bekuemmerung",
+      "headword": "Bekümmerung",
+      "language": "de",
+      "authors": ["heidegger"],
+      "forms": ["Bekümmerung"],
+      "renderings": [
+        { "english": "concern", "source": "corpus", "locator": "heidegger-ga-61-phenomenological-interpretations-of-aristotle-commentary#h4-a-the-uncritical-idea-of-definition" },
+        { "english": "affliction", "source": "repo-registry" }
+      ],
+      "theme": "sorge",
+      "contrast_with": ["besorgen"],
+      "note": "The early-Freiburg term. Its presence or absence periodizes, which is the whole point of the sorge ledger - and it is rendered 'concern' in GA 61, the same English word GA 20 and SZ use for Besorgen."
+    },
+    {
+      "id": "vorhandenheit",
+      "headword": "Vorhandenheit",
+      "language": "de",
+      "authors": ["heidegger"],
+      "forms": ["Vorhandenheit", "vorhanden"],
+      "renderings": [
+        { "english": "presence-at-hand", "source": "corpus", "locator": "heidegger-sein-und-zeit-commentary#h4-s-2-the-formal-structure-of-the-question-of-being" },
+        { "english": "present-at-hand", "source": "repo-registry" },
+        { "english": "objective presence", "source": "repo-registry" },
+        { "english": "occurrent", "source": "repo-registry" }
+      ],
+      "theme": "vorhandenheit",
+      "contrast_with": ["zuhandenheit"],
+      "note": "The theme registry records that English renderings diverge sharply between translations, so a search keyed to one of them drops whole commentaries. This entry is where that divergence belongs; add a translator field as each attribution is established from a commentary rather than assumed."
+    },
+    {
+      "id": "zuhandenheit",
+      "headword": "Zuhandenheit",
+      "language": "de",
+      "authors": ["heidegger"],
+      "forms": ["Zuhandenheit", "zuhanden"],
+      "renderings": [
+        { "english": "readiness-to-hand", "source": "corpus", "locator": "heidegger-sein-und-zeit-commentary#h6-s-15-the-being-of-the-beings-encountered-in-the-environing-world" },
+        { "english": "ready-to-hand", "source": "repo-registry" },
+        { "english": "handiness", "source": "repo-registry" },
+        { "english": "at hand", "source": "repo-registry" }
+      ],
+      "theme": "vorhandenheit",
+      "contrast_with": ["vorhandenheit"]
+    },
+    {
+      "id": "konstitution",
+      "headword": "Konstitution",
+      "language": "de",
+      "authors": ["husserl"],
+      "forms": ["Konstitution", "Konstituierung", "konstituiert", "sich konstituieren"],
+      "renderings": [
+        { "english": "constitution", "source": "repo-registry" },
+        { "english": "constitutes", "source": "repo-registry" },
+        { "english": "constituted", "source": "repo-registry" },
+        { "english": "constituting", "source": "repo-registry" },
+        { "english": "constitutive", "source": "repo-registry" },
+        { "english": "self-constitution", "source": "repo-registry" }
+      ],
+      "theme": "konstitution",
+      "gloss": "How an object comes to be given as what it is for consciousness. Not production and not causation - that is the standing misreading the commentaries guard against."
+    },
+    {
+      "id": "leib",
+      "headword": "Leib",
+      "language": "de",
+      "authors": ["husserl", "henry", "fanck"],
+      "forms": ["Leib", "Leiblichkeit", "Leibkörper"],
+      "renderings": [
+        { "english": "lived body", "source": "corpus", "locator": "husserl-krisis-commentary#h3-s-28-kant-s-unspoken-presupposition-the-self-evidently-valid-surrounding-life-wo" },
+        { "english": "living body", "source": "repo-registry" },
+        { "english": "the body", "source": "repo-registry", "note": "Ambiguous between Leib and Koerper wherever a commentary does not gloss it. Kept because dropping it loses real hits, not because it disambiguates." }
+      ],
+      "theme": "leib",
+      "contrast_with": ["koerper"],
+      "gloss": "The body as lived and sensed from within, the bearer of kinaestheses.",
+      "note": "Leib/Koerper is the distinction the English 'body' collapses, and the corpus renders both with it. This pair is the standing case for why renderings alone cannot settle which term a passage is about."
+    },
+    {
+      "id": "koerper",
+      "headword": "Körper",
+      "language": "de",
+      "authors": ["husserl", "fanck"],
+      "forms": ["Körper", "körperlich"],
+      "renderings": [
+        { "english": "body", "source": "corpus", "locator": "franck-chair-et-corps-commentary#h2-chapter-seven-the-objection-of-solipsism" },
+        { "english": "corporeal", "source": "repo-registry" },
+        { "english": "bodily", "source": "repo-registry" }
+      ],
+      "theme": "leib",
+      "contrast_with": ["leib"],
+      "gloss": "The body as a physical thing among things, as against the Leib lived from within."
+    },
+    {
+      "id": "chair",
+      "headword": "chair",
+      "language": "fr",
+      "authors": ["fanck", "henry", "bernet"],
+      "forms": ["chair"],
+      "renderings": [
+        { "english": "flesh", "source": "corpus", "locator": "franck-chair-et-corps-commentary#h2-chapter-eight-flesh-and-the-sphere-of-ownness" }
+      ],
+      "theme": "leib",
+      "contrast_with": ["leib", "koerper"],
+      "note": "The French limb of the Leib/Koerper distinction, and the entry a Merleau-Ponty lexicon would extend first - he is named 146 times across this corpus and has no commentary of his own in it."
+    },
+    {
+      "id": "intentionalitaet",
+      "headword": "Intentionalität",
+      "language": "de",
+      "authors": ["husserl", "heidegger"],
+      "forms": ["Intentionalität", "intentional"],
+      "renderings": [
+        { "english": "intentionality", "source": "repo-registry" },
+        { "english": "directedness", "source": "repo-registry" },
+        { "english": "aboutness", "source": "repo-registry" }
+      ],
+      "theme": "intentionalitaet",
+      "gloss": "The directedness of consciousness upon what it is consciousness of."
+    },
+    {
+      "id": "meinen",
+      "headword": "Meinen",
+      "language": "de",
+      "authors": ["husserl"],
+      "forms": ["Meinen", "Meinung"],
+      "renderings": [
+        { "english": "intending", "source": "repo-registry" }
+      ],
+      "theme": "intentionalitaet"
+    },
+    {
+      "id": "noema",
+      "headword": "Noema",
+      "language": "grc",
+      "authors": ["husserl"],
+      "forms": ["Noema", "noematisch"],
+      "renderings": [
+        { "english": "noema", "source": "repo-registry" },
+        { "english": "noematic", "source": "repo-registry" }
+      ],
+      "theme": "intentionalitaet",
+      "contrast_with": ["noesis"],
+      "gloss": "The object exactly as intended, on the object side of the intentional correlation. Not a mental image."
+    },
+    {
+      "id": "noesis",
+      "headword": "Noesis",
+      "language": "grc",
+      "authors": ["husserl"],
+      "forms": ["Noesis", "noetisch"],
+      "renderings": [
+        { "english": "noesis", "source": "repo-registry" },
+        { "english": "noetic", "source": "repo-registry" }
+      ],
+      "theme": "intentionalitaet",
+      "contrast_with": ["noema"]
+    },
+    {
+      "id": "wesen",
+      "headword": "Wesen",
+      "language": "de",
+      "authors": ["husserl"],
+      "forms": ["Wesen", "Wesenheit"],
+      "renderings": [
+        { "english": "essence", "source": "repo-registry" },
+        { "english": "essences", "source": "repo-registry" },
+        { "english": "essential", "source": "repo-registry" }
+      ],
+      "theme": "wesen",
+      "contrast_with": ["eidos"]
+    },
+    {
+      "id": "wesensschau",
+      "headword": "Wesensschau",
+      "language": "de",
+      "authors": ["husserl", "heidegger", "derrida"],
+      "forms": ["Wesensschau"],
+      "renderings": [
+        { "english": "essence-intuition", "source": "corpus", "locator": "derrida-introduction-a-lorigine-de-la-geometrie-commentary#h2-x" },
+        { "english": "intuition of essences", "source": "corpus", "locator": "heidegger-sein-und-zeit-commentary#h6-s-31-da-sein-as-understanding" },
+        { "english": "essential intuition", "source": "corpus", "locator": "husserliana-9-phenomenological-psychology-commentary#h4-beilage-xxviii-to-s45-summarizing-overview-of-the-lectures" }
+      ],
+      "theme": "wesen",
+      "note": "Three commentaries, three renderings of one term, all attested. A theme registered with any one of them finds a third of the passages. This entry is the argument for the lexicon in miniature."
+    },
+    {
+      "id": "vera-et-immutabilis-natura",
+      "headword": "vera et immutabilis natura",
+      "language": "la",
+      "authors": ["marion"],
+      "forms": ["vera et immutabilis natura", "verae et immutabiles naturae"],
+      "renderings": [
+        { "english": "true and immutable nature", "source": "repo-registry" },
+        { "english": "true and immutable natures", "source": "repo-registry" },
+        { "english": "immutable nature", "source": "repo-registry" }
+      ],
+      "theme": "wesen",
+      "contrast_with": ["wesen"],
+      "note": "Descartes' term, registered under the wesen theme because gap-007 asks whether the corpus connects it to Husserl's Wesen - and it reaches this corpus only through the Marion commentary, in English. The Latin is not attested here at all, which --attest will say."
+    },
+    {
+      "id": "eidos",
+      "headword": "Eidos",
+      "language": "grc",
+      "authors": ["husserl"],
+      "forms": ["Eidos", "eidetisch"],
+      "renderings": [
+        { "english": "eidos", "source": "repo-registry" },
+        { "english": "eidetic", "source": "repo-registry" }
+      ],
+      "theme": "wesen",
+      "contrast_with": ["wesen"]
+    },
+    {
+      "id": "zeitlichkeit",
+      "headword": "Zeitlichkeit",
+      "language": "de",
+      "authors": ["heidegger"],
+      "forms": ["Zeitlichkeit"],
+      "renderings": [
+        { "english": "temporality", "source": "corpus", "locator": "franck-heidegger-and-the-problem-of-space-commentary#h2-introduction" }
+      ],
+      "theme": "zeitlichkeit",
+      "contrast_with": ["temporalitaet"],
+      "gloss": "The temporality of Dasein, as against the Temporalitaet of being itself."
+    },
+    {
+      "id": "temporalitaet",
+      "headword": "Temporalität",
+      "language": "de",
+      "authors": ["heidegger"],
+      "forms": ["Temporalität"],
+      "renderings": [
+        { "english": "Temporality", "source": "corpus", "locator": "heidegger-being-and-time-commentary#h3-s-83-the-existential-temporal-analytic-of-dasein-and-the-fundamental-ontological", "note": "Distinguished from Zeitlichkeit's 'temporality' by the capital T alone - a distinction the matcher cannot see, since it lowercases before searching." },
+        { "english": "temporal-ity", "source": "corpus", "locator": "franck-heidegger-and-the-problem-of-space-commentary#h2-introduction", "note": "The hyphen does the work the capital does elsewhere." }
+      ],
+      "theme": "zeitlichkeit",
+      "contrast_with": ["zeitlichkeit"],
+      "note": "The one pair in this file that term search cannot separate at all. Any pass distinguishing the two must read the German, and an absence claim over 'temporality' says nothing about which term is absent."
+    },
+    {
+      "id": "zeitbewusstsein",
+      "headword": "Zeitbewußtsein",
+      "language": "de",
+      "authors": ["husserl"],
+      "forms": ["Zeitbewußtsein", "Zeitbewusstsein"],
+      "renderings": [
+        { "english": "time-consciousness", "source": "repo-registry" }
+      ],
+      "theme": "zeitlichkeit"
+    },
+    {
+      "id": "reduktion",
+      "headword": "Reduktion",
+      "language": "de",
+      "authors": ["husserl"],
+      "forms": ["Reduktion", "phänomenologische Reduktion", "transzendentale Reduktion", "eidetische Reduktion"],
+      "renderings": [
+        { "english": "reduction", "source": "repo-registry" },
+        { "english": "phenomenological reduction", "source": "repo-registry" },
+        { "english": "transcendental reduction", "source": "repo-registry" },
+        { "english": "eidetic reduction", "source": "repo-registry" }
+      ],
+      "theme": "reduktion",
+      "contrast_with": ["epoche"]
+    },
+    {
+      "id": "epoche",
+      "headword": "Epoché",
+      "language": "grc",
+      "authors": ["husserl"],
+      "forms": ["Epoché", "Epoche"],
+      "renderings": [
+        { "english": "epoché", "source": "repo-registry" },
+        { "english": "bracketing", "source": "repo-registry" },
+        { "english": "putting out of play", "source": "repo-registry" },
+        { "english": "suspension", "source": "repo-registry" }
+      ],
+      "theme": "reduktion",
+      "contrast_with": ["reduktion"],
+      "gloss": "The suspension of the natural attitude's positing. Registered separately from the reduction because the commentaries do not always identify the two."
+    },
+    {
+      "id": "dasein",
+      "headword": "Dasein",
+      "language": "de",
+      "authors": ["heidegger", "husserl"],
+      "forms": ["Dasein"],
+      "renderings": [
+        { "english": "being-there", "source": "corpus", "locator": "husserliana-26-theory-of-meaning-commentary#h4-a-first-characterization-of-the-distinction" },
+        { "english": "existence", "source": "corpus", "locator": "heidegger-ga-24-die-grundprobleme-der-phanomenologie-commentary#h2-s-7-the-content-of-the-kantian-thesis", "note": "The traditional sense - existentia, that a thing is - which GA 24 is expounding in Kant, not Heidegger's own term. Same word, different concept, and no search can tell them apart." }
+      ],
+      "contrast_with": [],
+      "note": "No theme, and the densest unregistered headword in the corpus - the German alone occurs 6,070 times across 23 commentaries. The standing example of why --candidates ranks by density rather than by interest: nobody was going to forget Dasein, but nothing in the registry noticed it was missing either."
+    },
+    {
+      "id": "erlebnis",
+      "headword": "Erlebnis",
+      "language": "de",
+      "authors": ["husserl", "derrida"],
+      "forms": ["Erlebnis", "Erlebnisse"],
+      "renderings": [
+        { "english": "lived-experience", "source": "corpus", "locator": "husserliana-13-basic-problems-of-phenomenology-commentary#h3-s-1-the-i-in-the-natural-attitude" },
+        { "english": "experience", "source": "corpus", "locator": "derrida-la-voix-et-le-phenomene-commentary#h3-the-second-argument-presence-ideality-and-death", "note": "The unhyphenated rendering, which is also an ordinary English word - so an absence claim over it needs absent_terms set to the German." }
+      ]
+    },
+    {
+      "id": "lebenswelt",
+      "headword": "Lebenswelt",
+      "language": "de",
+      "authors": ["husserl", "bernet"],
+      "forms": ["Lebenswelt"],
+      "renderings": [
+        { "english": "life-world", "source": "corpus", "locator": "bernet-la-vie-du-sujet-commentary#h4-the-being-of-the-ready-to-hand-and-the-being-of-concerned-dasein-inauthentic-exi" }
+      ]
+    },
+    {
+      "id": "horizont",
+      "headword": "Horizont",
+      "language": "de",
+      "authors": ["husserl", "henry"],
+      "forms": ["Horizont", "Horizonthaftigkeit"],
+      "renderings": [
+        { "english": "horizon", "source": "corpus", "locator": "henry-the-essence-of-manifestation-commentary#h2-s-3-the-overcoming-of-intuitionism-and-the-liberation-of-the-universal-phenomeno" }
+      ]
+    },
+    {
+      "id": "ereignis",
+      "headword": "Ereignis",
+      "language": "de",
+      "authors": ["heidegger", "fanck"],
+      "forms": ["Ereignis"],
+      "renderings": [
+        { "english": "appropriation", "source": "corpus", "locator": "franck-heidegger-and-the-problem-of-space-commentary#h2-introduction" }
+      ]
+    },
+    {
+      "id": "evidenz",
+      "headword": "Evidenz",
+      "language": "de",
+      "authors": ["husserl"],
+      "forms": ["Evidenz"],
+      "renderings": [
+        { "english": "evidence", "source": "corpus", "locator": "husserl-prolegomena-commentary#h4-paragraph-2-6", "note": "'evidence' in this corpus is overwhelmingly the ordinary English word; the German is the only reliable handle." }
+      ]
+    }
+  ]
+}

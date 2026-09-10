@@ -305,7 +305,15 @@ to actually do: read the claims beside their quotes in the ledger.
 
 - **New theme** — add to `themes.json` with English renderings in
   `search_terms`; it appears in `STATUS.md` with a ranked candidate list
-  immediately.
+  immediately. `scripts/synthesis_lexicon.py --expand` proposes the
+  renderings from the term registry rather than leaving them to memory —
+  see [lexicon-design.md](lexicon-design.md), which is this extension
+  point taken up.
+- **Term registry** — `synthesis/lexicon.json` sits upstream of
+  `search_terms`, one entry per headword, and is where a reference work
+  or a translator's divergence enters the pipeline. It is retrieval
+  apparatus and is denied the evidence side entirely: nothing there may
+  be quoted.
 - **New stage** — add a schema, a validator branch, and a records
   directory. The invariant to preserve: whatever it writes must carry a
   locator and a quote.
