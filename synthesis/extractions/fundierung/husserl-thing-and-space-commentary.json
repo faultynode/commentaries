@@ -1,0 +1,65 @@
+{
+  "schema_version": 1,
+  "theme": "fundierung",
+  "commentary": "husserl-thing-and-space-commentary",
+  "source_sha256": "e0d0451d72ec96da3d81ae5556439940774ed1e7a51cb3d8a40eb1cf5affde23",
+  "extracted_at": "2026-09-11",
+  "extractor": {
+    "agent": "claude-code",
+    "prompt": "Extract founding relations in Husserl's Thing and Space (1907), focusing on how higher-order perceptual and scientific objectivities are founded on lower strata of immediate experience.",
+    "note": "Partial extraction covering Introduction and Section I (Chapters 1-2, ¶¶1-6) on foundational structure of perception and layered constitution. Focuses on how lower levels (perception, appearance-stratum) ground higher levels (scientific reality, doxic acts), the distinction between real and intentional content, and kinaesthetic motivation. Not covered: kinetic and kinaesthetic analyses (§§26-57), spatial constitution (Sections V-VI), higher theoretical cognition."
+  },
+  "coverage": "partial",
+  "coverage_note": "Covers Introduction (¶¶1-48) establishing foundational program, and foundational sections (¶¶49-190) on how perception as appearance-stratum grounds doxic position-takings and how perceptual manifolds are constituted through kinaesthetic motivation. Focused on the doctrine of layered constitution where each stratum presupposes and is built upon lower strata.",
+  "units": [
+    {
+      "id": "fundierung/husserl-thing-space/001",
+      "locator": "husserl-thing-and-space-commentary#h3-s1-the-world-of-natural-experience-and-the-world-of-scientific-theory",
+      "term": "Foundation of higher constitutive problems",
+      "status": "presupposed",
+      "claim": "Phenomenology of straightforward perceptual experience provides the necessary foundation for higher constitutive problems of scientific reality, not merely a preliminary exercise.",
+      "quote": "the foundation without which the higher constitutive problems cannot even be posed"
+    },
+    {
+      "id": "fundierung/husserl-thing-space/002",
+      "locator": "husserl-thing-and-space-commentary#h3-s1-the-world-of-natural-experience-and-the-world-of-scientific-theory",
+      "term": "Layered constitution (higher strata building on lower)",
+      "status": "presupposed",
+      "claim": "Higher constitutive strata of perceptual and scientific experience asymmetrically presuppose and are built upon lower strata of immediate sensory experience.",
+      "quote": "the higher constitutive strata presuppose and build upon the lower, so that clarity about perception is a necessary condition for any future phenomenology of scientific cognition"
+    },
+    {
+      "id": "fundierung/husserl-thing-space/003",
+      "locator": "husserl-thing-and-space-commentary#h3-s1-the-world-of-natural-experience-and-the-world-of-scientific-theory",
+      "term": "Restricted lowest stratum of experience",
+      "status": "presupposed",
+      "claim": "Investigation proceeds from the lowest stratum of perceptual constitution, which provides the foundation upon which all higher theoretically mediated cognition must build.",
+      "quote": "The lectures will address only the lowest stratum of experiential givenness — perceptual constitution prior to all deduction, induction, and higher theoretical cognition"
+    },
+    {
+      "id": "fundierung/husserl-thing-space/004",
+      "locator": "husserl-thing-and-space-commentary#h3-s4-intentionality-as-the-essential-determination-of-perception",
+      "term": "Presence in the flesh (foundational concept)",
+      "status": "presupposed",
+      "claim": "Presence in the flesh is the foundational phenomenological characteristic that distinguishes perception from all other modes of consciousness and grounds all subsequent constitutional analysis.",
+      "quote": "§4 provides the foundational concept of the entire lectures: presence in the flesh"
+    },
+    {
+      "id": "fundierung/husserl-thing-space/005",
+      "locator": "husserl-thing-and-space-commentary#h3-s5-presence-in-the-flesh-and-belief-perception-perzeption-and-position-taking",
+      "term": "Appearance-stratum as foundation of doxic stratum",
+      "status": "presupposed",
+      "claim": "The appearance-stratum (pure presence-in-the-flesh) is the constant, foundational element underlying all doxic variations (belief, doubt, disbelief), which form a higher stratum built upon it.",
+      "quote": "presence in the flesh is the *constant* element across all the doxic variations"
+    },
+    {
+      "id": "fundierung/husserl-thing-space/006",
+      "locator": "husserl-thing-and-space-commentary#h3-s6-assertions-about-perceptions-and-assertions-about-perceived-objects-real-reel",
+      "term": "Real vs. intentional content (foundational distinction)",
+      "status": "presupposed",
+      "claim": "The distinction between real content genuinely belonging to perception and intentional content belonging to the object as presented grounds the entire analysis of thing-constitution.",
+      "quote": "the conceptual axis around which the entire subsequent analysis of thing-constitution will turn"
+    }
+  ],
+  "absences": []
+}
