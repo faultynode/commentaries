@@ -1,0 +1,5097 @@
+{
+  "schema_version": 1,
+  "sources": [
+    {
+      "id": "corpus",
+      "kind": "commentary-corpus",
+      "citation": "commentaries/*/*.md, via synthesis/corpus.json",
+      "note": "A commentary in this corpus states the pairing in its own text, usually as 'English (Original)'. These renderings carry a locator and are re-checked by scripts/synthesis_lexicon.py --check, which is why they are the only kind the machine can verify. They are also the only kind that proves a rendering is actually in use here rather than merely available."
+    },
+    {
+      "id": "repo-registry",
+      "kind": "registry",
+      "citation": "synthesis/themes.json, scripts/synthesis_query.py, commentaries/CLAUDE.md",
+      "note": "Terms this repository already asserted before the lexicon existed. Migrated rather than re-derived, so the seed carries no outside knowledge: every one of these was already in a file under version control. Unverifiable in the sense that no locator points at a commentary using it - but not unsourced."
+    },
+    {
+      "id": "dahlstrom-2013",
+      "kind": "dictionary",
+      "citation": "Daniel O. Dahlstrom, The Heidegger Dictionary (London: Bloomsbury Academic, 2013), A-Z headwords and Glossary, pp. 9-240, 295-300.",
+      "note": "Headwords and their English renderings only. No definition text is reproduced here, in this repository or in any file derived from it - see docs/lexicon-design.md L4. The book is in copyright and belongs in faultynode/sources or outside git."
+    }
+  ],
+  "entries": [
+    {
+      "id": "abgrund",
+      "headword": "Abgrund",
+      "language": "de",
+      "authors": [
+        "heidegger"
+      ],
+      "forms": [
+        "Abgrund"
+      ],
+      "renderings": [
+        {
+          "english": "Abyss",
+          "source": "corpus",
+          "locator": "bernet-la-vie-du-sujet-commentary#h4-i-3"
+        }
+      ]
+    },
+    {
+      "id": "abschied",
+      "headword": "Abschied",
+      "language": "de",
+      "authors": [
+        "heidegger"
+      ],
+      "forms": [
+        "Abschied"
+      ],
+      "renderings": [
+        {
+          "english": "departure",
+          "source": "dahlstrom-2013"
+        }
+      ]
+    },
+    {
+      "id": "abwesen",
+      "headword": "Abwesen",
+      "language": "de",
+      "authors": [
+        "heidegger"
+      ],
+      "forms": [
+        "Abwesen"
+      ],
+      "renderings": [
+        {
+          "english": "Absence",
+          "source": "dahlstrom-2013"
+        }
+      ]
+    },
+    {
+      "id": "alltaeglichkeit",
+      "headword": "Alltäglichkeit",
+      "language": "de",
+      "authors": [
+        "heidegger"
+      ],
+      "forms": [
+        "Alltäglichkeit"
+      ],
+      "renderings": [
+        {
+          "english": "Everydayness",
+          "source": "dahlstrom-2013"
+        }
+      ]
+    },
+    {
+      "id": "als-struktur",
+      "headword": "Als-Struktur",
+      "language": "de",
+      "authors": [
+        "heidegger"
+      ],
+      "forms": [
+        "Als-Struktur"
+      ],
+      "renderings": [
+        {
+          "english": "As-structure",
+          "source": "dahlstrom-2013"
+        }
+      ]
+    },
+    {
+      "id": "andenken",
+      "headword": "Andenken",
+      "language": "de",
+      "authors": [
+        "heidegger"
+      ],
+      "forms": [
+        "Andenken"
+      ],
+      "renderings": [
+        {
+          "english": "commemoration",
+          "source": "dahlstrom-2013"
+        }
+      ]
+    },
+    {
+      "id": "anfang",
+      "headword": "Anfang",
+      "language": "de",
+      "authors": [
+        "heidegger"
+      ],
+      "forms": [
+        "Anfang"
+      ],
+      "renderings": [
+        {
+          "english": "Beginning",
+          "source": "dahlstrom-2013"
+        },
+        {
+          "english": "inception",
+          "source": "dahlstrom-2013"
+        }
+      ]
+    },
+    {
+      "id": "angst",
+      "headword": "Angst",
+      "language": "de",
+      "authors": [
+        "heidegger"
+      ],
+      "forms": [
+        "Angst"
+      ],
+      "renderings": [
+        {
+          "english": "Anxiety",
+          "source": "corpus",
+          "locator": "heidegger-being-and-time-commentary#h3-s-39-the-question-of-the-primordial-totality-of-the-structural-whole-of-dasein"
+        }
+      ]
+    },
+    {
+      "id": "anklang",
+      "headword": "Anklang",
+      "language": "de",
+      "authors": [
+        "heidegger"
+      ],
+      "forms": [
+        "Anklang"
+      ],
+      "renderings": [
+        {
+          "english": "Resonance",
+          "source": "dahlstrom-2013"
+        },
+        {
+          "english": "echo",
+          "source": "dahlstrom-2013"
+        }
+      ]
+    },
+    {
+      "id": "anwesen",
+      "headword": "Anwesen",
+      "language": "de",
+      "authors": [
+        "heidegger"
+      ],
+      "forms": [
+        "Anwesen"
+      ],
+      "renderings": [
+        {
+          "english": "presence",
+          "source": "dahlstrom-2013"
+        }
+      ],
+      "contrast_with": [
+        "anwesenheit"
+      ]
+    },
+    {
+      "id": "anwesenheit",
+      "headword": "Anwesenheit",
+      "language": "de",
+      "authors": [
+        "heidegger"
+      ],
+      "forms": [
+        "Anwesenheit"
+      ],
+      "renderings": [
+        {
+          "english": "presence",
+          "source": "dahlstrom-2013"
+        }
+      ],
+      "contrast_with": [
+        "anwesen"
+      ]
+    },
+    {
+      "id": "ausdruck",
+      "headword": "Ausdruck",
+      "language": "de",
+      "authors": [
+        "heidegger"
+      ],
+      "forms": [
+        "Ausdruck"
+      ],
+      "renderings": [
+        {
+          "english": "expression",
+          "source": "corpus",
+          "locator": "bernet-la-vie-du-sujet-commentary#h4-a-hermeneutic-conception-of-perception"
+        }
+      ]
+    },
+    {
+      "id": "auslegung",
+      "headword": "Auslegung",
+      "language": "de",
+      "authors": [
+        "heidegger"
+      ],
+      "forms": [
+        "Auslegung"
+      ],
+      "renderings": [
+        {
+          "english": "interpretation",
+          "source": "corpus",
+          "locator": "heidegger-sein-und-zeit-commentary#h5-c-the-preliminary-concept-of-phenomenology"
+        }
+      ],
+      "contrast_with": [
+        "interpretation"
+      ]
+    },
+    {
+      "id": "aussage",
+      "headword": "Aussage",
+      "language": "de",
+      "authors": [
+        "heidegger"
+      ],
+      "forms": [
+        "Aussage"
+      ],
+      "renderings": [
+        {
+          "english": "assertion",
+          "source": "corpus",
+          "locator": "heidegger-being-and-time-commentary#h3-s-33-assertion-as-a-derivative-mode-of-interpretation"
+        },
+        {
+          "english": "statement",
+          "source": "dahlstrom-2013",
+          "translator": "Stambaugh"
+        }
+      ]
+    },
+    {
+      "id": "bauen",
+      "headword": "Bauen",
+      "language": "de",
+      "authors": [
+        "heidegger"
+      ],
+      "forms": [
+        "Bauen"
+      ],
+      "renderings": [
+        {
+          "english": "Building",
+          "source": "dahlstrom-2013"
+        }
+      ]
+    },
+    {
+      "id": "bedeutsamkeit",
+      "headword": "Bedeutsamkeit",
+      "language": "de",
+      "authors": [
+        "heidegger"
+      ],
+      "forms": [
+        "Bedeutsamkeit"
+      ],
+      "renderings": [
+        {
+          "english": "meaningfulness",
+          "source": "dahlstrom-2013"
+        }
+      ]
+    },
+    {
+      "id": "bedeutung",
+      "headword": "Bedeutung",
+      "language": "de",
+      "authors": [
+        "heidegger"
+      ],
+      "forms": [
+        "Bedeutung"
+      ],
+      "renderings": [
+        {
+          "english": "meaning",
+          "source": "corpus",
+          "locator": "husserliana-11-analyses-concerning-passive-and-active-synthesis-commentary#h3-s61-logical-sense"
+        },
+        {
+          "english": "significance",
+          "source": "dahlstrom-2013",
+          "translator": "Macquarrie-Robinson and Stambaugh"
+        }
+      ],
+      "contrast_with": [
+        "sinn"
+      ]
+    },
+    {
+      "id": "befindlichkeit",
+      "headword": "Befindlichkeit",
+      "language": "de",
+      "authors": [
+        "heidegger"
+      ],
+      "forms": [
+        "Befindlichkeit"
+      ],
+      "renderings": [
+        {
+          "english": "disposition",
+          "source": "dahlstrom-2013"
+        },
+        {
+          "english": "disposedness",
+          "source": "dahlstrom-2013"
+        },
+        {
+          "english": "state of mind",
+          "source": "dahlstrom-2013",
+          "translator": "Macquarrie-Robinson"
+        },
+        {
+          "english": "attunement",
+          "source": "dahlstrom-2013",
+          "translator": "Stambaugh"
+        }
+      ]
+    },
+    {
+      "id": "befreiung",
+      "headword": "Befreiung",
+      "language": "de",
+      "authors": [
+        "heidegger"
+      ],
+      "forms": [
+        "Befreiung"
+      ],
+      "renderings": [
+        {
+          "english": "liberation",
+          "source": "dahlstrom-2013"
+        }
+      ]
+    },
+    {
+      "id": "bekuemmerung",
+      "headword": "Bekümmerung",
+      "language": "de",
+      "authors": [
+        "heidegger"
+      ],
+      "forms": [
+        "Bekümmerung"
+      ],
+      "renderings": [
+        {
+          "english": "concern",
+          "source": "corpus",
+          "locator": "heidegger-ga-61-phenomenological-interpretations-of-aristotle-commentary#h4-a-the-uncritical-idea-of-definition"
+        },
+        {
+          "english": "affliction",
+          "source": "repo-registry"
+        }
+      ],
+      "theme": "sorge",
+      "contrast_with": [
+        "besorgen"
+      ],
+      "note": "The early-Freiburg term. Its presence or absence periodizes, which is the whole point of the sorge ledger - and it is rendered 'concern' in GA 61, the same English word GA 20 and SZ use for Besorgen."
+    },
+    {
+      "id": "benommen",
+      "headword": "Benommen",
+      "language": "de",
+      "authors": [
+        "heidegger"
+      ],
+      "forms": [
+        "Benommen"
+      ],
+      "renderings": [
+        {
+          "english": "captivated",
+          "source": "dahlstrom-2013"
+        }
+      ]
+    },
+    {
+      "id": "bergung",
+      "headword": "Bergung",
+      "language": "de",
+      "authors": [
+        "heidegger"
+      ],
+      "forms": [
+        "Bergung"
+      ],
+      "renderings": [
+        {
+          "english": "sheltering",
+          "source": "dahlstrom-2013"
+        }
+      ]
+    },
+    {
+      "id": "besinnung",
+      "headword": "Besinnung",
+      "language": "de",
+      "authors": [
+        "heidegger"
+      ],
+      "forms": [
+        "Besinnung"
+      ],
+      "renderings": [
+        {
+          "english": "mindfulness",
+          "source": "dahlstrom-2013"
+        }
+      ]
+    },
+    {
+      "id": "besorgen",
+      "headword": "Besorgen",
+      "language": "de",
+      "authors": [
+        "heidegger"
+      ],
+      "forms": [
+        "Besorgen",
+        "besorgt"
+      ],
+      "renderings": [
+        {
+          "english": "concern",
+          "source": "corpus",
+          "locator": "heidegger-sein-und-zeit-commentary#h5-s-12-the-predelineation-of-being-in-the-world-from-the-orientation-toward-being"
+        },
+        {
+          "english": "concernful",
+          "source": "repo-registry"
+        },
+        {
+          "english": "concern for",
+          "source": "dahlstrom-2013"
+        },
+        {
+          "english": "taking care of",
+          "source": "dahlstrom-2013"
+        }
+      ],
+      "theme": "sorge",
+      "contrast_with": [
+        "bekuemmerung",
+        "fuersorge",
+        "sorge"
+      ],
+      "gloss": "Care in the mode of dealing with equipment - the ready-to-hand, not other people.",
+      "note": "Shares the English 'concern' with Bekuemmerung, which is a different term from a different period. A hit on 'concern' does not say which is meant; the German does."
+    },
+    {
+      "id": "bestand",
+      "headword": "Bestand",
+      "language": "de",
+      "authors": [
+        "heidegger"
+      ],
+      "forms": [
+        "Bestand"
+      ],
+      "renderings": [
+        {
+          "english": "standing reserve",
+          "source": "dahlstrom-2013"
+        }
+      ]
+    },
+    {
+      "id": "bewandtnis",
+      "headword": "Bewandtnis",
+      "language": "de",
+      "authors": [
+        "heidegger"
+      ],
+      "forms": [
+        "Bewandtnis"
+      ],
+      "renderings": [
+        {
+          "english": "relevance",
+          "source": "dahlstrom-2013"
+        },
+        {
+          "english": "involvement",
+          "source": "corpus",
+          "locator": "bernet-la-vie-du-sujet-commentary#h4-the-being-of-the-world-as-world-and-dasein-s-being-in-the-world-authentic-existe"
+        }
+      ]
+    },
+    {
+      "id": "bewusstsein",
+      "headword": "Bewusstsein",
+      "language": "de",
+      "authors": [
+        "heidegger"
+      ],
+      "forms": [
+        "Bewusstsein"
+      ],
+      "renderings": [
+        {
+          "english": "Consciousness",
+          "source": "dahlstrom-2013"
+        }
+      ]
+    },
+    {
+      "id": "biologie",
+      "headword": "Biologie",
+      "language": "de",
+      "authors": [
+        "heidegger"
+      ],
+      "forms": [
+        "Biologie"
+      ],
+      "renderings": [
+        {
+          "english": "Biology",
+          "source": "dahlstrom-2013"
+        }
+      ]
+    },
+    {
+      "id": "biologismus",
+      "headword": "Biologismus",
+      "language": "de",
+      "authors": [
+        "heidegger"
+      ],
+      "forms": [
+        "Biologismus"
+      ],
+      "renderings": [
+        {
+          "english": "biologism",
+          "source": "dahlstrom-2013"
+        }
+      ]
+    },
+    {
+      "id": "boden",
+      "headword": "Boden",
+      "language": "de",
+      "authors": [
+        "heidegger"
+      ],
+      "forms": [
+        "Boden"
+      ],
+      "renderings": [
+        {
+          "english": "basis",
+          "source": "dahlstrom-2013"
+        },
+        {
+          "english": "soil",
+          "source": "dahlstrom-2013"
+        }
+      ]
+    },
+    {
+      "id": "bodenstaendigkeit",
+      "headword": "Bodenständigkeit",
+      "language": "de",
+      "authors": [
+        "heidegger"
+      ],
+      "forms": [
+        "Bodenständigkeit"
+      ],
+      "renderings": [
+        {
+          "english": "autochthony",
+          "source": "dahlstrom-2013"
+        }
+      ]
+    },
+    {
+      "id": "chair",
+      "headword": "chair",
+      "language": "fr",
+      "authors": [
+        "fanck",
+        "henry",
+        "bernet"
+      ],
+      "forms": [
+        "chair"
+      ],
+      "renderings": [
+        {
+          "english": "flesh",
+          "source": "corpus",
+          "locator": "franck-chair-et-corps-commentary#h2-chapter-eight-flesh-and-the-sphere-of-ownness"
+        }
+      ],
+      "theme": "leib",
+      "contrast_with": [
+        "koerper",
+        "leib"
+      ],
+      "note": "The French limb of the Leib/Koerper distinction, and the entry a Merleau-Ponty lexicon would extend first - he is named 146 times across this corpus and has no commentary of his own in it."
+    },
+    {
+      "id": "da-sein",
+      "headword": "Da-sein",
+      "language": "de",
+      "authors": [
+        "heidegger"
+      ],
+      "forms": [
+        "Da-sein"
+      ],
+      "renderings": [
+        {
+          "english": "Being-here",
+          "source": "dahlstrom-2013"
+        }
+      ],
+      "contrast_with": [
+        "dasein"
+      ]
+    },
+    {
+      "id": "das-heilige",
+      "headword": "das Heilige",
+      "language": "de",
+      "authors": [
+        "heidegger"
+      ],
+      "forms": [
+        "das Heilige"
+      ],
+      "renderings": [
+        {
+          "english": "Holy, the",
+          "source": "dahlstrom-2013"
+        },
+        {
+          "english": "holy",
+          "source": "dahlstrom-2013"
+        }
+      ]
+    },
+    {
+      "id": "das-man",
+      "headword": "das Man",
+      "language": "de",
+      "authors": [
+        "heidegger"
+      ],
+      "forms": [
+        "das Man"
+      ],
+      "renderings": [
+        {
+          "english": "they",
+          "source": "dahlstrom-2013"
+        },
+        {
+          "english": "the One",
+          "source": "dahlstrom-2013",
+          "translator": "Stambaugh"
+        }
+      ],
+      "note": "The article is part of the term, and it is what makes it searchable: the bare Man would fire on every English 'man', while 'das Man' occurs 293 times in five commentaries and is always the term. The English 'they' is not searchable at all."
+    },
+    {
+      "id": "das-riesige",
+      "headword": "das Riesige",
+      "language": "de",
+      "authors": [
+        "heidegger"
+      ],
+      "forms": [
+        "das Riesige"
+      ],
+      "renderings": [
+        {
+          "english": "Gigantic",
+          "source": "dahlstrom-2013"
+        }
+      ]
+    },
+    {
+      "id": "dasein",
+      "headword": "Dasein",
+      "language": "de",
+      "authors": [
+        "heidegger",
+        "husserl"
+      ],
+      "forms": [
+        "Dasein"
+      ],
+      "renderings": [
+        {
+          "english": "being-there",
+          "source": "corpus",
+          "locator": "husserliana-26-theory-of-meaning-commentary#h4-a-first-characterization-of-the-distinction"
+        },
+        {
+          "english": "existence",
+          "source": "corpus",
+          "locator": "heidegger-ga-24-die-grundprobleme-der-phanomenologie-commentary#h2-s-7-the-content-of-the-kantian-thesis",
+          "note": "The traditional sense - existentia, that a thing is - which GA 24 is expounding in Kant, not Heidegger's own term. Same word, different concept, and no search can tell them apart."
+        },
+        {
+          "english": "being-here",
+          "source": "dahlstrom-2013"
+        }
+      ],
+      "contrast_with": [
+        "da-sein",
+        "existenz"
+      ],
+      "note": "No theme, and the densest unregistered headword in the corpus - the German alone occurs 6,070 times across 23 commentaries. The standing example of why --candidates ranks by density rather than by interest: nobody was going to forget Dasein, but nothing in the registry noticed it was missing either."
+    },
+    {
+      "id": "denken",
+      "headword": "Denken",
+      "language": "de",
+      "authors": [
+        "heidegger"
+      ],
+      "forms": [
+        "Denken"
+      ],
+      "renderings": [
+        {
+          "english": "Thinking",
+          "source": "corpus",
+          "locator": "husserl-prolegomena-commentary#h3-paragraph-5"
+        }
+      ]
+    },
+    {
+      "id": "der-letzte-gott",
+      "headword": "der letzte Gott",
+      "language": "de",
+      "authors": [
+        "heidegger"
+      ],
+      "forms": [
+        "der letzte Gott"
+      ],
+      "renderings": [
+        {
+          "english": "Last God, the",
+          "source": "dahlstrom-2013"
+        },
+        {
+          "english": "last god",
+          "source": "dahlstrom-2013"
+        }
+      ]
+    },
+    {
+      "id": "destruktion",
+      "headword": "Destruktion",
+      "language": "de",
+      "authors": [
+        "heidegger"
+      ],
+      "forms": [
+        "Destruktion"
+      ],
+      "renderings": [
+        {
+          "english": "destruction",
+          "source": "corpus",
+          "locator": "heidegger-sein-und-zeit-commentary#h4-s-6-the-task-of-a-destruction-of-the-history-of-ontology"
+        },
+        {
+          "english": "destructuring",
+          "source": "dahlstrom-2013",
+          "translator": "Stambaugh"
+        }
+      ]
+    },
+    {
+      "id": "dichtung",
+      "headword": "Dichtung",
+      "language": "de",
+      "authors": [
+        "heidegger"
+      ],
+      "forms": [
+        "Dichtung"
+      ],
+      "renderings": [
+        {
+          "english": "Poetry",
+          "source": "dahlstrom-2013"
+        }
+      ]
+    },
+    {
+      "id": "die-gruendung",
+      "headword": "die Gründung",
+      "language": "de",
+      "authors": [
+        "heidegger"
+      ],
+      "forms": [
+        "die Gründung"
+      ],
+      "renderings": [
+        {
+          "english": "Grounding, the",
+          "source": "dahlstrom-2013"
+        }
+      ]
+    },
+    {
+      "id": "die-zukuenftigen",
+      "headword": "die Zukünftigen",
+      "language": "de",
+      "authors": [
+        "heidegger"
+      ],
+      "forms": [
+        "die Zukünftigen"
+      ],
+      "renderings": [
+        {
+          "english": "the future ones",
+          "source": "dahlstrom-2013"
+        }
+      ]
+    },
+    {
+      "id": "differenz",
+      "headword": "Differenz",
+      "language": "de",
+      "authors": [
+        "heidegger"
+      ],
+      "forms": [
+        "Differenz"
+      ],
+      "renderings": [
+        {
+          "english": "difference",
+          "source": "dahlstrom-2013"
+        }
+      ],
+      "contrast_with": [
+        "unterschied"
+      ]
+    },
+    {
+      "id": "ding",
+      "headword": "Ding",
+      "language": "de",
+      "authors": [
+        "heidegger"
+      ],
+      "forms": [
+        "Ding"
+      ],
+      "renderings": [
+        {
+          "english": "Thing",
+          "source": "dahlstrom-2013"
+        }
+      ]
+    },
+    {
+      "id": "eidos",
+      "headword": "Eidos",
+      "language": "grc",
+      "authors": [
+        "husserl"
+      ],
+      "forms": [
+        "Eidos",
+        "eidetisch"
+      ],
+      "renderings": [
+        {
+          "english": "eidos",
+          "source": "repo-registry"
+        },
+        {
+          "english": "eidetic",
+          "source": "repo-registry"
+        }
+      ],
+      "theme": "wesen",
+      "contrast_with": [
+        "wesen"
+      ]
+    },
+    {
+      "id": "eigentlichkeit",
+      "headword": "Eigentlichkeit",
+      "language": "de",
+      "authors": [
+        "heidegger"
+      ],
+      "forms": [
+        "Eigentlichkeit"
+      ],
+      "renderings": [
+        {
+          "english": "Authenticity",
+          "source": "dahlstrom-2013"
+        }
+      ]
+    },
+    {
+      "id": "einfuehlung",
+      "headword": "Einfühlung",
+      "language": "de",
+      "authors": [
+        "heidegger"
+      ],
+      "forms": [
+        "Einfühlung"
+      ],
+      "renderings": [
+        {
+          "english": "sympathy",
+          "source": "dahlstrom-2013"
+        }
+      ]
+    },
+    {
+      "id": "einsamkeit",
+      "headword": "Einsamkeit",
+      "language": "de",
+      "authors": [
+        "heidegger"
+      ],
+      "forms": [
+        "Einsamkeit"
+      ],
+      "renderings": [
+        {
+          "english": "solitude",
+          "source": "dahlstrom-2013"
+        }
+      ]
+    },
+    {
+      "id": "ekstasis",
+      "headword": "Ekstasis",
+      "language": "de",
+      "authors": [
+        "heidegger"
+      ],
+      "forms": [
+        "Ekstasis"
+      ],
+      "renderings": [
+        {
+          "english": "ecstasis",
+          "source": "dahlstrom-2013"
+        }
+      ]
+    },
+    {
+      "id": "entscheidung",
+      "headword": "Entscheidung",
+      "language": "de",
+      "authors": [
+        "heidegger"
+      ],
+      "forms": [
+        "Entscheidung"
+      ],
+      "renderings": [
+        {
+          "english": "Decision",
+          "source": "dahlstrom-2013"
+        }
+      ]
+    },
+    {
+      "id": "entschlossenheit",
+      "headword": "Entschlossenheit",
+      "language": "de",
+      "authors": [
+        "heidegger"
+      ],
+      "forms": [
+        "Entschlossenheit"
+      ],
+      "renderings": [
+        {
+          "english": "Resoluteness",
+          "source": "corpus",
+          "locator": "heidegger-sein-und-zeit-commentary#h5-s-54-the-problem-of-the-attestation-of-an-authentic-existentiell-possibility"
+        }
+      ]
+    },
+    {
+      "id": "entsprechen",
+      "headword": "Entsprechen",
+      "language": "de",
+      "authors": [
+        "heidegger"
+      ],
+      "forms": [
+        "Entsprechen"
+      ],
+      "renderings": [
+        {
+          "english": "Correspond",
+          "source": "dahlstrom-2013"
+        }
+      ]
+    },
+    {
+      "id": "epoche",
+      "headword": "Epoché",
+      "language": "grc",
+      "authors": [
+        "husserl"
+      ],
+      "forms": [
+        "Epoché",
+        "Epoche"
+      ],
+      "renderings": [
+        {
+          "english": "epoché",
+          "source": "repo-registry"
+        },
+        {
+          "english": "bracketing",
+          "source": "repo-registry"
+        },
+        {
+          "english": "putting out of play",
+          "source": "repo-registry"
+        },
+        {
+          "english": "suspension",
+          "source": "repo-registry"
+        },
+        {
+          "english": "Epoch",
+          "source": "dahlstrom-2013"
+        }
+      ],
+      "theme": "reduktion",
+      "contrast_with": [
+        "reduktion"
+      ],
+      "gloss": "The suspension of the natural attitude's positing. Registered separately from the reduction because the commentaries do not always identify the two."
+    },
+    {
+      "id": "erde",
+      "headword": "Erde",
+      "language": "de",
+      "authors": [
+        "heidegger"
+      ],
+      "forms": [
+        "Erde"
+      ],
+      "renderings": [
+        {
+          "english": "earth",
+          "source": "dahlstrom-2013"
+        }
+      ]
+    },
+    {
+      "id": "ereignis",
+      "headword": "Ereignis",
+      "language": "de",
+      "authors": [
+        "heidegger",
+        "fanck"
+      ],
+      "forms": [
+        "Ereignis"
+      ],
+      "renderings": [
+        {
+          "english": "appropriation",
+          "source": "corpus",
+          "locator": "franck-heidegger-and-the-problem-of-space-commentary#h2-introduction"
+        },
+        {
+          "english": "Appropriating event",
+          "source": "dahlstrom-2013"
+        }
+      ]
+    },
+    {
+      "id": "erkennen",
+      "headword": "Erkennen",
+      "language": "de",
+      "authors": [
+        "heidegger"
+      ],
+      "forms": [
+        "Erkennen"
+      ],
+      "renderings": [
+        {
+          "english": "cognition",
+          "source": "dahlstrom-2013"
+        }
+      ]
+    },
+    {
+      "id": "erlebnis",
+      "headword": "Erlebnis",
+      "language": "de",
+      "authors": [
+        "husserl",
+        "derrida"
+      ],
+      "forms": [
+        "Erlebnis",
+        "Erlebnisse"
+      ],
+      "renderings": [
+        {
+          "english": "lived-experience",
+          "source": "corpus",
+          "locator": "husserliana-13-basic-problems-of-phenomenology-commentary#h3-s-1-the-i-in-the-natural-attitude"
+        },
+        {
+          "english": "experience",
+          "source": "corpus",
+          "locator": "derrida-la-voix-et-le-phenomene-commentary#h3-the-second-argument-presence-ideality-and-death",
+          "note": "The unhyphenated rendering, which is also an ordinary English word - so an absence claim over it needs absent_terms set to the German."
+        }
+      ]
+    },
+    {
+      "id": "erschlossenheit",
+      "headword": "Erschlossenheit",
+      "language": "de",
+      "authors": [
+        "heidegger"
+      ],
+      "forms": [
+        "Erschlossenheit"
+      ],
+      "renderings": [
+        {
+          "english": "Disclosedness",
+          "source": "corpus",
+          "locator": "heidegger-ga-18-grundbegriffe-der-aristotelischen-philosophie-commentary#h4-b-the-logos-of-the-human-and-the-phone-of-the-animal-as-peculiar-modes-of-being"
+        }
+      ]
+    },
+    {
+      "id": "ethik",
+      "headword": "Ethik",
+      "language": "de",
+      "authors": [
+        "heidegger"
+      ],
+      "forms": [
+        "Ethik"
+      ],
+      "renderings": [
+        {
+          "english": "Ethics",
+          "source": "dahlstrom-2013"
+        }
+      ]
+    },
+    {
+      "id": "evidenz",
+      "headword": "Evidenz",
+      "language": "de",
+      "authors": [
+        "husserl"
+      ],
+      "forms": [
+        "Evidenz"
+      ],
+      "renderings": [
+        {
+          "english": "evidence",
+          "source": "corpus",
+          "locator": "husserl-prolegomena-commentary#h4-paragraph-2-6",
+          "note": "'evidence' in this corpus is overwhelmingly the ordinary English word; the German is the only reliable handle."
+        }
+      ]
+    },
+    {
+      "id": "existenz",
+      "headword": "Existenz",
+      "language": "de",
+      "authors": [
+        "heidegger"
+      ],
+      "forms": [
+        "Existenz"
+      ],
+      "renderings": [
+        {
+          "english": "Existence",
+          "source": "corpus",
+          "locator": "heidegger-sein-und-zeit-commentary#h4-s-4-the-ontic-priority-of-the-question-of-being"
+        }
+      ],
+      "contrast_with": [
+        "dasein"
+      ]
+    },
+    {
+      "id": "existenzial",
+      "headword": "Existenzial",
+      "language": "de",
+      "authors": [
+        "heidegger"
+      ],
+      "forms": [
+        "Existenzial"
+      ],
+      "renderings": [
+        {
+          "english": "existential",
+          "source": "corpus",
+          "locator": "heidegger-sein-und-zeit-commentary#h4-s-4-the-ontic-priority-of-the-question-of-being"
+        }
+      ]
+    },
+    {
+      "id": "existenziell",
+      "headword": "Existenziell",
+      "language": "de",
+      "authors": [
+        "heidegger"
+      ],
+      "forms": [
+        "Existenziell"
+      ],
+      "renderings": [
+        {
+          "english": "existentiel",
+          "source": "dahlstrom-2013"
+        }
+      ]
+    },
+    {
+      "id": "faktizitaet",
+      "headword": "Faktizität",
+      "language": "de",
+      "authors": [
+        "heidegger"
+      ],
+      "forms": [
+        "Faktizität"
+      ],
+      "renderings": [
+        {
+          "english": "Facticity",
+          "source": "corpus",
+          "locator": "heidegger-sein-und-zeit-commentary#h5-s-12-the-predelineation-of-being-in-the-world-from-the-orientation-toward-being"
+        }
+      ]
+    },
+    {
+      "id": "fest",
+      "headword": "Fest",
+      "language": "de",
+      "authors": [
+        "heidegger"
+      ],
+      "forms": [
+        "Fest"
+      ],
+      "renderings": [
+        {
+          "english": "fête",
+          "source": "dahlstrom-2013"
+        }
+      ]
+    },
+    {
+      "id": "formale-anzeige",
+      "headword": "Formale Anzeige",
+      "language": "de",
+      "authors": [
+        "heidegger"
+      ],
+      "forms": [
+        "Formale Anzeige"
+      ],
+      "renderings": [
+        {
+          "english": "Formal indication",
+          "source": "dahlstrom-2013"
+        }
+      ]
+    },
+    {
+      "id": "fragen",
+      "headword": "Fragen",
+      "language": "de",
+      "authors": [
+        "heidegger"
+      ],
+      "forms": [
+        "Fragen"
+      ],
+      "renderings": [
+        {
+          "english": "Questioning",
+          "source": "dahlstrom-2013"
+        }
+      ]
+    },
+    {
+      "id": "freiheit",
+      "headword": "Freiheit",
+      "language": "de",
+      "authors": [
+        "heidegger"
+      ],
+      "forms": [
+        "Freiheit"
+      ],
+      "renderings": [
+        {
+          "english": "Freedom",
+          "source": "dahlstrom-2013"
+        }
+      ]
+    },
+    {
+      "id": "fuegung",
+      "headword": "Fügung",
+      "language": "de",
+      "authors": [
+        "heidegger"
+      ],
+      "forms": [
+        "Fügung"
+      ],
+      "renderings": [
+        {
+          "english": "fittingness",
+          "source": "dahlstrom-2013"
+        }
+      ]
+    },
+    {
+      "id": "fuersorge",
+      "headword": "Fürsorge",
+      "language": "de",
+      "authors": [
+        "heidegger"
+      ],
+      "forms": [
+        "Fürsorge"
+      ],
+      "renderings": [
+        {
+          "english": "solicitude",
+          "source": "corpus",
+          "locator": "heidegger-sein-und-zeit-commentary#h5-s-26-the-co-dasein-of-others-and-everyday-being-with"
+        },
+        {
+          "english": "welfare work",
+          "source": "corpus",
+          "locator": "heidegger-sein-und-zeit-commentary#h5-s-26-the-co-dasein-of-others-and-everyday-being-with",
+          "note": "The ordinary German sense, which that section names in order to set it aside. A rendering recorded because the corpus contains it, not because it is the right one."
+        }
+      ],
+      "theme": "sorge",
+      "contrast_with": [
+        "besorgen",
+        "sorge"
+      ],
+      "gloss": "Care in the mode of being with others, as against Besorgen's dealings with equipment."
+    },
+    {
+      "id": "fug",
+      "headword": "Fug",
+      "language": "de",
+      "authors": [
+        "heidegger"
+      ],
+      "forms": [
+        "Fug"
+      ],
+      "renderings": [
+        {
+          "english": "fitting",
+          "source": "dahlstrom-2013"
+        }
+      ],
+      "ordinary_english": [
+        "Fug"
+      ],
+      "note": "Fires inside fugitive; the bare word never occurs. Recorded so --expand cannot propose it as a search term."
+    },
+    {
+      "id": "fuge",
+      "headword": "Fuge",
+      "language": "de",
+      "authors": [
+        "heidegger"
+      ],
+      "forms": [
+        "Fuge"
+      ],
+      "renderings": [
+        {
+          "english": "Fit",
+          "source": "dahlstrom-2013"
+        }
+      ]
+    },
+    {
+      "id": "furcht",
+      "headword": "Furcht",
+      "language": "de",
+      "authors": [
+        "heidegger"
+      ],
+      "forms": [
+        "Furcht"
+      ],
+      "renderings": [
+        {
+          "english": "fear",
+          "source": "dahlstrom-2013"
+        }
+      ]
+    },
+    {
+      "id": "ganzheit",
+      "headword": "Ganzheit",
+      "language": "de",
+      "authors": [
+        "heidegger"
+      ],
+      "forms": [
+        "Ganzheit"
+      ],
+      "renderings": [
+        {
+          "english": "totality",
+          "source": "dahlstrom-2013"
+        }
+      ]
+    },
+    {
+      "id": "gefahr",
+      "headword": "Gefahr",
+      "language": "de",
+      "authors": [
+        "heidegger"
+      ],
+      "forms": [
+        "Gefahr"
+      ],
+      "renderings": [
+        {
+          "english": "Danger",
+          "source": "dahlstrom-2013"
+        }
+      ]
+    },
+    {
+      "id": "gegenstaendigkeit",
+      "headword": "Gegenständigkeit",
+      "language": "de",
+      "authors": [
+        "heidegger"
+      ],
+      "forms": [
+        "Gegenständigkeit"
+      ],
+      "renderings": [
+        {
+          "english": "objectivity",
+          "source": "dahlstrom-2013"
+        }
+      ],
+      "contrast_with": [
+        "objektivitaet"
+      ]
+    },
+    {
+      "id": "geheimnis",
+      "headword": "Geheimnis",
+      "language": "de",
+      "authors": [
+        "heidegger"
+      ],
+      "forms": [
+        "Geheimnis"
+      ],
+      "renderings": [
+        {
+          "english": "Mystery",
+          "source": "dahlstrom-2013"
+        }
+      ]
+    },
+    {
+      "id": "gelassenheit",
+      "headword": "Gelassenheit",
+      "language": "de",
+      "authors": [
+        "heidegger"
+      ],
+      "forms": [
+        "Gelassenheit"
+      ],
+      "renderings": [
+        {
+          "english": "letting be",
+          "source": "dahlstrom-2013"
+        },
+        {
+          "english": "releasement",
+          "source": "dahlstrom-2013"
+        }
+      ]
+    },
+    {
+      "id": "gerede",
+      "headword": "Gerede",
+      "language": "de",
+      "authors": [
+        "heidegger"
+      ],
+      "forms": [
+        "Gerede"
+      ],
+      "renderings": [
+        {
+          "english": "idle talk",
+          "source": "corpus",
+          "locator": "heidegger-ga-19-platon-sophistes-commentary#h4-a-the-meaning-of-the-word-aletheia-aletheia-and-dasein"
+        },
+        {
+          "english": "palaver",
+          "source": "dahlstrom-2013"
+        },
+        {
+          "english": "gossip",
+          "source": "dahlstrom-2013"
+        }
+      ]
+    },
+    {
+      "id": "geschehen",
+      "headword": "Geschehen",
+      "language": "de",
+      "authors": [
+        "heidegger"
+      ],
+      "forms": [
+        "Geschehen"
+      ],
+      "renderings": [
+        {
+          "english": "happening",
+          "source": "corpus",
+          "locator": "heidegger-being-and-time-commentary#h3-s-73-the-vulgar-understanding-of-history-and-the-happening-of-dasein"
+        },
+        {
+          "english": "historizing",
+          "source": "dahlstrom-2013"
+        }
+      ]
+    },
+    {
+      "id": "geschichte",
+      "headword": "Geschichte",
+      "language": "de",
+      "authors": [
+        "heidegger"
+      ],
+      "forms": [
+        "Geschichte"
+      ],
+      "renderings": [
+        {
+          "english": "History",
+          "source": "corpus",
+          "locator": "bernet-la-vie-du-sujet-commentary#h4-the-intentionality-of-sensible-and-categorial-acts"
+        }
+      ]
+    },
+    {
+      "id": "geschichtlichkeit",
+      "headword": "Geschichtlichkeit",
+      "language": "de",
+      "authors": [
+        "heidegger"
+      ],
+      "forms": [
+        "Geschichtlichkeit"
+      ],
+      "renderings": [
+        {
+          "english": "historicity",
+          "source": "corpus",
+          "locator": "bernet-la-vie-du-sujet-commentary#h4-iii-4"
+        }
+      ]
+    },
+    {
+      "id": "geschick",
+      "headword": "Geschick",
+      "language": "de",
+      "authors": [
+        "heidegger"
+      ],
+      "forms": [
+        "Geschick"
+      ],
+      "renderings": [
+        {
+          "english": "destiny",
+          "source": "corpus",
+          "locator": "heidegger-sein-und-zeit-commentary#h5-s-74-the-basic-constitution-of-historicity"
+        }
+      ]
+    },
+    {
+      "id": "gespraech",
+      "headword": "Gespräch",
+      "language": "de",
+      "authors": [
+        "heidegger"
+      ],
+      "forms": [
+        "Gespräch"
+      ],
+      "renderings": [
+        {
+          "english": "Conversation",
+          "source": "dahlstrom-2013"
+        }
+      ]
+    },
+    {
+      "id": "gestell",
+      "headword": "Gestell",
+      "language": "de",
+      "authors": [
+        "heidegger"
+      ],
+      "forms": [
+        "Gestell"
+      ],
+      "renderings": [
+        {
+          "english": "Positionality",
+          "source": "dahlstrom-2013"
+        }
+      ]
+    },
+    {
+      "id": "geviert",
+      "headword": "Geviert",
+      "language": "de",
+      "authors": [
+        "heidegger"
+      ],
+      "forms": [
+        "Geviert"
+      ],
+      "renderings": [
+        {
+          "english": "Fourfold",
+          "source": "dahlstrom-2013"
+        },
+        {
+          "english": "foursome",
+          "source": "dahlstrom-2013"
+        }
+      ]
+    },
+    {
+      "id": "gewissen",
+      "headword": "Gewissen",
+      "language": "de",
+      "authors": [
+        "heidegger"
+      ],
+      "forms": [
+        "Gewissen"
+      ],
+      "renderings": [
+        {
+          "english": "Conscience",
+          "source": "corpus",
+          "locator": "bernet-la-vie-du-sujet-commentary#h4-the-being-of-the-world-as-world-and-dasein-s-being-in-the-world-authentic-existe"
+        }
+      ]
+    },
+    {
+      "id": "geworfenheit",
+      "headword": "Geworfenheit",
+      "language": "de",
+      "authors": [
+        "heidegger"
+      ],
+      "forms": [
+        "Geworfenheit"
+      ],
+      "renderings": [
+        {
+          "english": "Thrownness",
+          "source": "corpus",
+          "locator": "heidegger-sein-und-zeit-commentary#h6-s-29-da-sein-as-disposedness"
+        }
+      ]
+    },
+    {
+      "id": "glaube",
+      "headword": "Glaube",
+      "language": "de",
+      "authors": [
+        "heidegger"
+      ],
+      "forms": [
+        "Glaube"
+      ],
+      "renderings": [
+        {
+          "english": "belief",
+          "source": "dahlstrom-2013"
+        }
+      ]
+    },
+    {
+      "id": "gleichurspruenglichkeit",
+      "headword": "Gleichursprünglichkeit",
+      "language": "de",
+      "authors": [
+        "heidegger"
+      ],
+      "forms": [
+        "Gleichursprünglichkeit"
+      ],
+      "renderings": [
+        {
+          "english": "equiprimordiality",
+          "source": "dahlstrom-2013"
+        }
+      ]
+    },
+    {
+      "id": "goettlichen",
+      "headword": "Göttlichen",
+      "language": "de",
+      "authors": [
+        "heidegger"
+      ],
+      "forms": [
+        "Göttlichen"
+      ],
+      "renderings": [
+        {
+          "english": "divinities",
+          "source": "dahlstrom-2013"
+        }
+      ]
+    },
+    {
+      "id": "gruendung",
+      "headword": "Gründung",
+      "language": "de",
+      "authors": [
+        "heidegger"
+      ],
+      "forms": [
+        "Gründung"
+      ],
+      "renderings": [
+        {
+          "english": "grounding",
+          "source": "dahlstrom-2013"
+        }
+      ]
+    },
+    {
+      "id": "grund",
+      "headword": "Grund",
+      "language": "de",
+      "authors": [
+        "heidegger"
+      ],
+      "forms": [
+        "Grund"
+      ],
+      "renderings": [
+        {
+          "english": "Ground",
+          "source": "corpus",
+          "locator": "bernet-la-vie-du-sujet-commentary#h4-i-3"
+        },
+        {
+          "english": "reason",
+          "source": "dahlstrom-2013"
+        }
+      ],
+      "contrast_with": [
+        "vernunft"
+      ]
+    },
+    {
+      "id": "grundbegriff",
+      "headword": "Grundbegriff",
+      "language": "de",
+      "authors": [
+        "heidegger"
+      ],
+      "forms": [
+        "Grundbegriff"
+      ],
+      "renderings": [
+        {
+          "english": "Basic concept",
+          "source": "dahlstrom-2013"
+        }
+      ]
+    },
+    {
+      "id": "grundbegriffe",
+      "headword": "Grundbegriffe",
+      "language": "de",
+      "authors": [
+        "heidegger"
+      ],
+      "forms": [
+        "Grundbegriffe"
+      ],
+      "renderings": [
+        {
+          "english": "basic concepts",
+          "source": "dahlstrom-2013"
+        }
+      ]
+    },
+    {
+      "id": "grundfrage",
+      "headword": "Grundfrage",
+      "language": "de",
+      "authors": [
+        "heidegger"
+      ],
+      "forms": [
+        "Grundfrage"
+      ],
+      "renderings": [
+        {
+          "english": "fundamental question",
+          "source": "dahlstrom-2013"
+        },
+        {
+          "english": "basic question",
+          "source": "dahlstrom-2013"
+        }
+      ]
+    },
+    {
+      "id": "heimkunft",
+      "headword": "Heimkunft",
+      "language": "de",
+      "authors": [
+        "heidegger"
+      ],
+      "forms": [
+        "Heimkunft"
+      ],
+      "renderings": [
+        {
+          "english": "Homecoming",
+          "source": "dahlstrom-2013"
+        }
+      ]
+    },
+    {
+      "id": "herd",
+      "headword": "Herd",
+      "language": "de",
+      "authors": [
+        "heidegger"
+      ],
+      "forms": [
+        "Herd"
+      ],
+      "renderings": [
+        {
+          "english": "hearth",
+          "source": "dahlstrom-2013"
+        }
+      ]
+    },
+    {
+      "id": "hermeneutik",
+      "headword": "Hermeneutik",
+      "language": "de",
+      "authors": [
+        "heidegger"
+      ],
+      "forms": [
+        "Hermeneutik"
+      ],
+      "renderings": [
+        {
+          "english": "Hermeneutics",
+          "source": "dahlstrom-2013"
+        }
+      ]
+    },
+    {
+      "id": "herstellen",
+      "headword": "Herstellen",
+      "language": "de",
+      "authors": [
+        "heidegger"
+      ],
+      "forms": [
+        "Herstellen"
+      ],
+      "renderings": [
+        {
+          "english": "produce",
+          "source": "dahlstrom-2013"
+        },
+        {
+          "english": "production",
+          "source": "dahlstrom-2013"
+        }
+      ]
+    },
+    {
+      "id": "himmel",
+      "headword": "Himmel",
+      "language": "de",
+      "authors": [
+        "heidegger"
+      ],
+      "forms": [
+        "Himmel"
+      ],
+      "renderings": [
+        {
+          "english": "sky",
+          "source": "dahlstrom-2013"
+        }
+      ]
+    },
+    {
+      "id": "historie",
+      "headword": "Historie",
+      "language": "de",
+      "authors": [
+        "heidegger"
+      ],
+      "forms": [
+        "Historie"
+      ],
+      "renderings": [
+        {
+          "english": "historical study",
+          "source": "dahlstrom-2013"
+        },
+        {
+          "english": "science of history",
+          "source": "dahlstrom-2013"
+        },
+        {
+          "english": "chronological or historical record",
+          "source": "dahlstrom-2013"
+        }
+      ]
+    },
+    {
+      "id": "historizitaet",
+      "headword": "Historizität",
+      "language": "de",
+      "authors": [
+        "heidegger"
+      ],
+      "forms": [
+        "Historizität"
+      ],
+      "renderings": [
+        {
+          "english": "historicality",
+          "source": "corpus",
+          "locator": "heidegger-being-and-time-commentary#h3-s-6-the-task-of-a-destruction-of-the-history-of-ontology"
+        }
+      ]
+    },
+    {
+      "id": "horizont",
+      "headword": "Horizont",
+      "language": "de",
+      "authors": [
+        "husserl",
+        "henry"
+      ],
+      "forms": [
+        "Horizont",
+        "Horizonthaftigkeit"
+      ],
+      "renderings": [
+        {
+          "english": "horizon",
+          "source": "corpus",
+          "locator": "henry-the-essence-of-manifestation-commentary#h2-s-3-the-overcoming-of-intuitionism-and-the-liberation-of-the-universal-phenomeno"
+        }
+      ]
+    },
+    {
+      "id": "humanismus",
+      "headword": "Humanismus",
+      "language": "de",
+      "authors": [
+        "heidegger"
+      ],
+      "forms": [
+        "Humanismus"
+      ],
+      "renderings": [
+        {
+          "english": "humanism",
+          "source": "dahlstrom-2013"
+        }
+      ]
+    },
+    {
+      "id": "idealismus",
+      "headword": "Idealismus",
+      "language": "de",
+      "authors": [
+        "heidegger"
+      ],
+      "forms": [
+        "Idealismus"
+      ],
+      "renderings": [
+        {
+          "english": "idealism",
+          "source": "dahlstrom-2013"
+        }
+      ]
+    },
+    {
+      "id": "identitaet",
+      "headword": "Identität",
+      "language": "de",
+      "authors": [
+        "heidegger"
+      ],
+      "forms": [
+        "Identität"
+      ],
+      "renderings": [
+        {
+          "english": "Identity",
+          "source": "dahlstrom-2013"
+        }
+      ]
+    },
+    {
+      "id": "in-der-welt-sein",
+      "headword": "In-der-Welt-sein",
+      "language": "de",
+      "authors": [
+        "heidegger"
+      ],
+      "forms": [
+        "In-der-Welt-sein"
+      ],
+      "renderings": [
+        {
+          "english": "Being-in-the-world",
+          "source": "corpus",
+          "locator": "heidegger-sein-und-zeit-commentary#h5-s-12-the-predelineation-of-being-in-the-world-from-the-orientation-toward-being"
+        }
+      ]
+    },
+    {
+      "id": "innerweltlich",
+      "headword": "Innerweltlich",
+      "language": "de",
+      "authors": [
+        "heidegger"
+      ],
+      "forms": [
+        "Innerweltlich"
+      ],
+      "renderings": [
+        {
+          "english": "innerworldly",
+          "source": "corpus",
+          "locator": "heidegger-sein-und-zeit-commentary#h5-s-14-the-idea-of-the-worldhood-of-the-world-in-general"
+        },
+        {
+          "english": "within-the-world",
+          "source": "dahlstrom-2013",
+          "translator": "Macquarrie-Robinson"
+        }
+      ]
+    },
+    {
+      "id": "innigkeit",
+      "headword": "Innigkeit",
+      "language": "de",
+      "authors": [
+        "heidegger"
+      ],
+      "forms": [
+        "Innigkeit"
+      ],
+      "renderings": [
+        {
+          "english": "Wholeheartedness",
+          "source": "dahlstrom-2013"
+        }
+      ]
+    },
+    {
+      "id": "insistenz",
+      "headword": "Insistenz",
+      "language": "de",
+      "authors": [
+        "heidegger"
+      ],
+      "forms": [
+        "Insistenz"
+      ],
+      "renderings": [
+        {
+          "english": "insistence",
+          "source": "dahlstrom-2013"
+        }
+      ]
+    },
+    {
+      "id": "instaendigkeit",
+      "headword": "Inständigkeit",
+      "language": "de",
+      "authors": [
+        "heidegger"
+      ],
+      "forms": [
+        "Inständigkeit"
+      ],
+      "renderings": [
+        {
+          "english": "Steadfastness",
+          "source": "dahlstrom-2013"
+        }
+      ]
+    },
+    {
+      "id": "intentionalitaet",
+      "headword": "Intentionalität",
+      "language": "de",
+      "authors": [
+        "husserl",
+        "heidegger"
+      ],
+      "forms": [
+        "Intentionalität",
+        "intentional"
+      ],
+      "renderings": [
+        {
+          "english": "intentionality",
+          "source": "repo-registry"
+        },
+        {
+          "english": "directedness",
+          "source": "repo-registry"
+        },
+        {
+          "english": "aboutness",
+          "source": "repo-registry"
+        }
+      ],
+      "theme": "intentionalitaet",
+      "gloss": "The directedness of consciousness upon what it is consciousness of."
+    },
+    {
+      "id": "interpretation",
+      "headword": "Interpretation",
+      "language": "de",
+      "authors": [
+        "heidegger"
+      ],
+      "forms": [
+        "Interpretation"
+      ],
+      "renderings": [
+        {
+          "english": "interpretation",
+          "source": "dahlstrom-2013"
+        }
+      ],
+      "ordinary_english": [
+        "Interpretation"
+      ],
+      "contrast_with": [
+        "auslegung"
+      ],
+      "note": "Spelled as the English word; 1,797 whole-word hits, none of them Heidegger's term. Recorded so --expand cannot propose it as a search term."
+    },
+    {
+      "id": "inzwischen",
+      "headword": "Inzwischen",
+      "language": "de",
+      "authors": [
+        "heidegger"
+      ],
+      "forms": [
+        "Inzwischen"
+      ],
+      "renderings": [
+        {
+          "english": "in-between",
+          "source": "dahlstrom-2013"
+        }
+      ]
+    },
+    {
+      "id": "irre",
+      "headword": "Irre",
+      "language": "de",
+      "authors": [
+        "heidegger"
+      ],
+      "forms": [
+        "Irre"
+      ],
+      "renderings": [
+        {
+          "english": "Errancy",
+          "source": "dahlstrom-2013"
+        }
+      ],
+      "ordinary_english": [
+        "Irre"
+      ],
+      "note": "Fires inside irreducible, irreal, irrelevant; 2 hits are the German. Recorded so --expand cannot propose it as a search term."
+    },
+    {
+      "id": "jemeinigkeit",
+      "headword": "Jemeinigkeit",
+      "language": "de",
+      "authors": [
+        "heidegger"
+      ],
+      "forms": [
+        "Jemeinigkeit"
+      ],
+      "renderings": [
+        {
+          "english": "Mineness",
+          "source": "corpus",
+          "locator": "heidegger-sein-und-zeit-commentary#h4-s-2-the-formal-structure-of-the-question-of-being"
+        }
+      ]
+    },
+    {
+      "id": "kehre",
+      "headword": "Kehre",
+      "language": "de",
+      "authors": [
+        "heidegger"
+      ],
+      "forms": [
+        "Kehre"
+      ],
+      "renderings": [
+        {
+          "english": "Turn",
+          "source": "dahlstrom-2013"
+        }
+      ]
+    },
+    {
+      "id": "koerper",
+      "headword": "Körper",
+      "language": "de",
+      "authors": [
+        "husserl",
+        "fanck"
+      ],
+      "forms": [
+        "Körper",
+        "körperlich"
+      ],
+      "renderings": [
+        {
+          "english": "body",
+          "source": "corpus",
+          "locator": "franck-chair-et-corps-commentary#h2-chapter-seven-the-objection-of-solipsism"
+        },
+        {
+          "english": "corporeal",
+          "source": "repo-registry"
+        },
+        {
+          "english": "bodily",
+          "source": "repo-registry"
+        }
+      ],
+      "theme": "leib",
+      "contrast_with": [
+        "leib"
+      ],
+      "gloss": "The body as a physical thing among things, as against the Leib lived from within."
+    },
+    {
+      "id": "konservativ",
+      "headword": "Konservativ",
+      "language": "de",
+      "authors": [
+        "heidegger"
+      ],
+      "forms": [
+        "Konservativ"
+      ],
+      "renderings": [
+        {
+          "english": "conservative",
+          "source": "dahlstrom-2013"
+        }
+      ]
+    },
+    {
+      "id": "konstitution",
+      "headword": "Konstitution",
+      "language": "de",
+      "authors": [
+        "husserl"
+      ],
+      "forms": [
+        "Konstitution",
+        "Konstituierung",
+        "konstituiert",
+        "sich konstituieren"
+      ],
+      "renderings": [
+        {
+          "english": "constitution",
+          "source": "repo-registry"
+        },
+        {
+          "english": "constitutes",
+          "source": "repo-registry"
+        },
+        {
+          "english": "constituted",
+          "source": "repo-registry"
+        },
+        {
+          "english": "constituting",
+          "source": "repo-registry"
+        },
+        {
+          "english": "constitutive",
+          "source": "repo-registry"
+        },
+        {
+          "english": "self-constitution",
+          "source": "repo-registry"
+        }
+      ],
+      "theme": "konstitution",
+      "gloss": "How an object comes to be given as what it is for consciousness. Not production and not causation - that is the standing misreading the commentaries guard against."
+    },
+    {
+      "id": "kunst",
+      "headword": "Kunst",
+      "language": "de",
+      "authors": [
+        "heidegger"
+      ],
+      "forms": [
+        "Kunst"
+      ],
+      "renderings": [
+        {
+          "english": "Art",
+          "source": "dahlstrom-2013"
+        }
+      ]
+    },
+    {
+      "id": "langeweile",
+      "headword": "Langeweile",
+      "language": "de",
+      "authors": [
+        "heidegger"
+      ],
+      "forms": [
+        "Langeweile"
+      ],
+      "renderings": [
+        {
+          "english": "Boredom",
+          "source": "dahlstrom-2013"
+        }
+      ]
+    },
+    {
+      "id": "lebenswelt",
+      "headword": "Lebenswelt",
+      "language": "de",
+      "authors": [
+        "husserl",
+        "bernet"
+      ],
+      "forms": [
+        "Lebenswelt"
+      ],
+      "renderings": [
+        {
+          "english": "life-world",
+          "source": "corpus",
+          "locator": "bernet-la-vie-du-sujet-commentary#h4-the-being-of-the-ready-to-hand-and-the-being-of-concerned-dasein-inauthentic-exi"
+        }
+      ]
+    },
+    {
+      "id": "leib",
+      "headword": "Leib",
+      "language": "de",
+      "authors": [
+        "husserl",
+        "henry",
+        "fanck"
+      ],
+      "forms": [
+        "Leib",
+        "Leiblichkeit",
+        "Leibkörper"
+      ],
+      "renderings": [
+        {
+          "english": "lived body",
+          "source": "corpus",
+          "locator": "husserl-krisis-commentary#h3-s-28-kant-s-unspoken-presupposition-the-self-evidently-valid-surrounding-life-wo"
+        },
+        {
+          "english": "living body",
+          "source": "repo-registry"
+        },
+        {
+          "english": "the body",
+          "source": "repo-registry",
+          "note": "Ambiguous between Leib and Koerper wherever a commentary does not gloss it. Kept because dropping it loses real hits, not because it disambiguates."
+        }
+      ],
+      "theme": "leib",
+      "contrast_with": [
+        "koerper"
+      ],
+      "gloss": "The body as lived and sensed from within, the bearer of kinaestheses.",
+      "note": "Leib/Koerper is the distinction the English 'body' collapses, and the corpus renders both with it. This pair is the standing case for why renderings alone cannot settle which term a passage is about."
+    },
+    {
+      "id": "leiblichkeit",
+      "headword": "Leiblichkeit",
+      "language": "de",
+      "authors": [
+        "heidegger"
+      ],
+      "forms": [
+        "Leiblichkeit"
+      ],
+      "renderings": [
+        {
+          "english": "Bodiliness",
+          "source": "dahlstrom-2013"
+        }
+      ]
+    },
+    {
+      "id": "leitfrage",
+      "headword": "Leitfrage",
+      "language": "de",
+      "authors": [
+        "heidegger"
+      ],
+      "forms": [
+        "Leitfrage"
+      ],
+      "renderings": [
+        {
+          "english": "leading question",
+          "source": "dahlstrom-2013"
+        }
+      ]
+    },
+    {
+      "id": "lichtung",
+      "headword": "Lichtung",
+      "language": "de",
+      "authors": [
+        "heidegger"
+      ],
+      "forms": [
+        "Lichtung"
+      ],
+      "renderings": [
+        {
+          "english": "Clearing",
+          "source": "dahlstrom-2013"
+        }
+      ]
+    },
+    {
+      "id": "logik",
+      "headword": "Logik",
+      "language": "de",
+      "authors": [
+        "heidegger"
+      ],
+      "forms": [
+        "Logik"
+      ],
+      "renderings": [
+        {
+          "english": "Logic",
+          "source": "dahlstrom-2013"
+        }
+      ]
+    },
+    {
+      "id": "logistik",
+      "headword": "Logistik",
+      "language": "de",
+      "authors": [
+        "heidegger"
+      ],
+      "forms": [
+        "Logistik"
+      ],
+      "renderings": [
+        {
+          "english": "symbolic logic",
+          "source": "dahlstrom-2013"
+        }
+      ]
+    },
+    {
+      "id": "machenschaft",
+      "headword": "Machenschaft",
+      "language": "de",
+      "authors": [
+        "heidegger"
+      ],
+      "forms": [
+        "Machenschaft"
+      ],
+      "renderings": [
+        {
+          "english": "Machination",
+          "source": "dahlstrom-2013"
+        }
+      ]
+    },
+    {
+      "id": "meinen",
+      "headword": "Meinen",
+      "language": "de",
+      "authors": [
+        "husserl"
+      ],
+      "forms": [
+        "Meinen",
+        "Meinung"
+      ],
+      "renderings": [
+        {
+          "english": "intending",
+          "source": "repo-registry"
+        }
+      ],
+      "theme": "intentionalitaet"
+    },
+    {
+      "id": "mensch",
+      "headword": "Mensch",
+      "language": "de",
+      "authors": [
+        "heidegger"
+      ],
+      "forms": [
+        "Mensch"
+      ],
+      "renderings": [
+        {
+          "english": "Human being",
+          "source": "dahlstrom-2013"
+        }
+      ]
+    },
+    {
+      "id": "metaphysik",
+      "headword": "Metaphysik",
+      "language": "de",
+      "authors": [
+        "heidegger"
+      ],
+      "forms": [
+        "Metaphysik"
+      ],
+      "renderings": [
+        {
+          "english": "Metaphysics",
+          "source": "dahlstrom-2013"
+        }
+      ]
+    },
+    {
+      "id": "metontologie",
+      "headword": "Metontologie",
+      "language": "de",
+      "authors": [
+        "heidegger"
+      ],
+      "forms": [
+        "Metontologie"
+      ],
+      "renderings": [
+        {
+          "english": "metontology",
+          "source": "dahlstrom-2013"
+        }
+      ]
+    },
+    {
+      "id": "mitsein",
+      "headword": "Mitsein",
+      "language": "de",
+      "authors": [
+        "heidegger"
+      ],
+      "forms": [
+        "Mitsein"
+      ],
+      "renderings": [
+        {
+          "english": "Being-with",
+          "source": "corpus",
+          "locator": "bernet-la-vie-du-sujet-commentary#h4-the-being-of-the-ready-to-hand-and-the-being-of-concerned-dasein-inauthentic-exi"
+        },
+        {
+          "english": "being - with",
+          "source": "dahlstrom-2013"
+        }
+      ]
+    },
+    {
+      "id": "modalitaet",
+      "headword": "Modalität",
+      "language": "de",
+      "authors": [
+        "heidegger"
+      ],
+      "forms": [
+        "Modalität"
+      ],
+      "renderings": [
+        {
+          "english": "Modality",
+          "source": "dahlstrom-2013"
+        }
+      ]
+    },
+    {
+      "id": "moeglichkeit",
+      "headword": "Möglichkeit",
+      "language": "de",
+      "authors": [
+        "heidegger"
+      ],
+      "forms": [
+        "Möglichkeit"
+      ],
+      "renderings": [
+        {
+          "english": "Possibility",
+          "source": "dahlstrom-2013"
+        }
+      ]
+    },
+    {
+      "id": "naehe",
+      "headword": "Nähe",
+      "language": "de",
+      "authors": [
+        "heidegger"
+      ],
+      "forms": [
+        "Nähe"
+      ],
+      "renderings": [
+        {
+          "english": "Nearness",
+          "source": "dahlstrom-2013"
+        }
+      ]
+    },
+    {
+      "id": "natur",
+      "headword": "Natur",
+      "language": "de",
+      "authors": [
+        "heidegger"
+      ],
+      "forms": [
+        "Natur"
+      ],
+      "renderings": [
+        {
+          "english": "nature",
+          "source": "dahlstrom-2013"
+        }
+      ],
+      "ordinary_english": [
+        "Natur"
+      ],
+      "note": "Fires inside nature (2,252) and natural (2,071); 13 hits are the German. Recorded so --expand cannot propose it as a search term."
+    },
+    {
+      "id": "negation",
+      "headword": "Negation",
+      "language": "de",
+      "authors": [
+        "heidegger"
+      ],
+      "forms": [
+        "Negation"
+      ],
+      "renderings": [
+        {
+          "english": "negation",
+          "source": "dahlstrom-2013"
+        }
+      ],
+      "ordinary_english": [
+        "Negation"
+      ],
+      "note": "Spelled as the English word; 335 whole-word hits. Recorded so --expand cannot propose it as a search term."
+    },
+    {
+      "id": "neugier",
+      "headword": "Neugier",
+      "language": "de",
+      "authors": [
+        "heidegger"
+      ],
+      "forms": [
+        "Neugier"
+      ],
+      "renderings": [
+        {
+          "english": "Curiosity",
+          "source": "corpus",
+          "locator": "heidegger-ga-20-prolegomena-zur-geschichte-des-zeitbegriffs-commentary#h4-s-29-falling-as-a-basic-movedness-of-dasein"
+        }
+      ]
+    },
+    {
+      "id": "neuzeit",
+      "headword": "Neuzeit",
+      "language": "de",
+      "authors": [
+        "heidegger"
+      ],
+      "forms": [
+        "Neuzeit"
+      ],
+      "renderings": [
+        {
+          "english": "Modernity",
+          "source": "dahlstrom-2013"
+        }
+      ]
+    },
+    {
+      "id": "nichtigkeit",
+      "headword": "Nichtigkeit",
+      "language": "de",
+      "authors": [
+        "heidegger"
+      ],
+      "forms": [
+        "Nichtigkeit"
+      ],
+      "renderings": [
+        {
+          "english": "nullity",
+          "source": "dahlstrom-2013"
+        }
+      ]
+    },
+    {
+      "id": "nichts",
+      "headword": "Nichts",
+      "language": "de",
+      "authors": [
+        "heidegger"
+      ],
+      "forms": [
+        "Nichts"
+      ],
+      "renderings": [
+        {
+          "english": "Nothing",
+          "source": "dahlstrom-2013"
+        },
+        {
+          "english": "nothingness",
+          "source": "dahlstrom-2013"
+        }
+      ]
+    },
+    {
+      "id": "nihilismus",
+      "headword": "Nihilismus",
+      "language": "de",
+      "authors": [
+        "heidegger"
+      ],
+      "forms": [
+        "Nihilismus"
+      ],
+      "renderings": [
+        {
+          "english": "Nihilism",
+          "source": "dahlstrom-2013"
+        }
+      ]
+    },
+    {
+      "id": "noema",
+      "headword": "Noema",
+      "language": "grc",
+      "authors": [
+        "husserl"
+      ],
+      "forms": [
+        "Noema",
+        "noematisch"
+      ],
+      "renderings": [
+        {
+          "english": "noema",
+          "source": "repo-registry"
+        },
+        {
+          "english": "noematic",
+          "source": "repo-registry"
+        }
+      ],
+      "theme": "intentionalitaet",
+      "contrast_with": [
+        "noesis"
+      ],
+      "gloss": "The object exactly as intended, on the object side of the intentional correlation. Not a mental image."
+    },
+    {
+      "id": "noesis",
+      "headword": "Noesis",
+      "language": "grc",
+      "authors": [
+        "husserl"
+      ],
+      "forms": [
+        "Noesis",
+        "noetisch"
+      ],
+      "renderings": [
+        {
+          "english": "noesis",
+          "source": "repo-registry"
+        },
+        {
+          "english": "noetic",
+          "source": "repo-registry"
+        }
+      ],
+      "theme": "intentionalitaet",
+      "contrast_with": [
+        "noema"
+      ]
+    },
+    {
+      "id": "not",
+      "headword": "Not",
+      "language": "de",
+      "authors": [
+        "heidegger"
+      ],
+      "forms": [
+        "Not"
+      ],
+      "renderings": [
+        {
+          "english": "distress",
+          "source": "dahlstrom-2013"
+        }
+      ],
+      "ordinary_english": [
+        "Not"
+      ],
+      "note": "Whole-word 26,852 times as English 'not', and inside nothing, note, notion. Recorded so --expand cannot propose it as a search term."
+    },
+    {
+      "id": "objektivitaet",
+      "headword": "Objektivität",
+      "language": "de",
+      "authors": [
+        "heidegger"
+      ],
+      "forms": [
+        "Objektivität"
+      ],
+      "renderings": [
+        {
+          "english": "objectivity",
+          "source": "dahlstrom-2013"
+        }
+      ],
+      "contrast_with": [
+        "gegenstaendigkeit"
+      ]
+    },
+    {
+      "id": "offene",
+      "headword": "Offene",
+      "language": "de",
+      "authors": [
+        "heidegger"
+      ],
+      "forms": [
+        "Offene",
+        "das Offene"
+      ],
+      "renderings": [
+        {
+          "english": "open",
+          "source": "dahlstrom-2013"
+        }
+      ]
+    },
+    {
+      "id": "offenheit",
+      "headword": "Offenheit",
+      "language": "de",
+      "authors": [
+        "heidegger"
+      ],
+      "forms": [
+        "Offenheit"
+      ],
+      "renderings": [
+        {
+          "english": "openness",
+          "source": "dahlstrom-2013"
+        }
+      ]
+    },
+    {
+      "id": "ontisch",
+      "headword": "Ontisch",
+      "language": "de",
+      "authors": [
+        "heidegger"
+      ],
+      "forms": [
+        "Ontisch"
+      ],
+      "renderings": [
+        {
+          "english": "Ontic",
+          "source": "dahlstrom-2013"
+        }
+      ]
+    },
+    {
+      "id": "onto-theo-logie",
+      "headword": "Onto-theo-logie",
+      "language": "de",
+      "authors": [
+        "heidegger"
+      ],
+      "forms": [
+        "Onto-theo-logie"
+      ],
+      "renderings": [
+        {
+          "english": "Onto-theo-logy",
+          "source": "dahlstrom-2013"
+        }
+      ]
+    },
+    {
+      "id": "ontologie",
+      "headword": "Ontologie",
+      "language": "de",
+      "authors": [
+        "heidegger"
+      ],
+      "forms": [
+        "Ontologie"
+      ],
+      "renderings": [
+        {
+          "english": "Ontology",
+          "source": "dahlstrom-2013"
+        }
+      ],
+      "ordinary_english": [
+        "Ontologie"
+      ],
+      "note": "Fires inside the English plural ontologies (166); 9 hits are the German. Recorded so --expand cannot propose it as a search term."
+    },
+    {
+      "id": "phaenomenologie",
+      "headword": "Phänomenologie",
+      "language": "de",
+      "authors": [
+        "heidegger"
+      ],
+      "forms": [
+        "Phänomenologie"
+      ],
+      "renderings": [
+        {
+          "english": "Phenomenology",
+          "source": "dahlstrom-2013"
+        }
+      ]
+    },
+    {
+      "id": "philosophie",
+      "headword": "Philosophie",
+      "language": "de",
+      "authors": [
+        "heidegger"
+      ],
+      "forms": [
+        "Philosophie"
+      ],
+      "renderings": [
+        {
+          "english": "Philosophy",
+          "source": "dahlstrom-2013"
+        }
+      ]
+    },
+    {
+      "id": "psychologismus",
+      "headword": "Psychologismus",
+      "language": "de",
+      "authors": [
+        "heidegger"
+      ],
+      "forms": [
+        "Psychologismus"
+      ],
+      "renderings": [
+        {
+          "english": "Psychologism",
+          "source": "dahlstrom-2013"
+        }
+      ]
+    },
+    {
+      "id": "raeumlichkeit",
+      "headword": "Räumlichkeit",
+      "language": "de",
+      "authors": [
+        "heidegger"
+      ],
+      "forms": [
+        "Räumlichkeit"
+      ],
+      "renderings": [
+        {
+          "english": "Spatiality",
+          "source": "dahlstrom-2013"
+        }
+      ]
+    },
+    {
+      "id": "rationalitaet",
+      "headword": "Rationalität",
+      "language": "de",
+      "authors": [
+        "heidegger"
+      ],
+      "forms": [
+        "Rationalität"
+      ],
+      "renderings": [
+        {
+          "english": "rationality",
+          "source": "dahlstrom-2013"
+        }
+      ]
+    },
+    {
+      "id": "realismus",
+      "headword": "Realismus",
+      "language": "de",
+      "authors": [
+        "heidegger"
+      ],
+      "forms": [
+        "Realismus"
+      ],
+      "renderings": [
+        {
+          "english": "realism",
+          "source": "dahlstrom-2013"
+        }
+      ]
+    },
+    {
+      "id": "realitaet",
+      "headword": "Realität",
+      "language": "de",
+      "authors": [
+        "heidegger"
+      ],
+      "forms": [
+        "Realität"
+      ],
+      "renderings": [
+        {
+          "english": "Reality",
+          "source": "corpus",
+          "locator": "heidegger-being-and-time-commentary#h3-s-43-dasein-worldhood-and-reality"
+        }
+      ]
+    },
+    {
+      "id": "rede",
+      "headword": "Rede",
+      "language": "de",
+      "authors": [
+        "heidegger"
+      ],
+      "forms": [
+        "Rede"
+      ],
+      "renderings": [
+        {
+          "english": "Discourse",
+          "source": "corpus",
+          "locator": "derrida-la-voix-et-le-phenomene-commentary#h3-sinn-and-bedeutung-in-husserl-vs-frege"
+        },
+        {
+          "english": "talk",
+          "source": "dahlstrom-2013"
+        }
+      ],
+      "ordinary_english": [
+        "Rede"
+      ],
+      "note": "Fires inside redeem, redefined; 20 hits are the German. Recorded so --expand cannot propose it as a search term."
+    },
+    {
+      "id": "reduktion",
+      "headword": "Reduktion",
+      "language": "de",
+      "authors": [
+        "husserl"
+      ],
+      "forms": [
+        "Reduktion",
+        "phänomenologische Reduktion",
+        "transzendentale Reduktion",
+        "eidetische Reduktion"
+      ],
+      "renderings": [
+        {
+          "english": "reduction",
+          "source": "repo-registry"
+        },
+        {
+          "english": "phenomenological reduction",
+          "source": "repo-registry"
+        },
+        {
+          "english": "transcendental reduction",
+          "source": "repo-registry"
+        },
+        {
+          "english": "eidetic reduction",
+          "source": "repo-registry"
+        }
+      ],
+      "theme": "reduktion",
+      "contrast_with": [
+        "epoche"
+      ]
+    },
+    {
+      "id": "rektoratsrede",
+      "headword": "Rektoratsrede",
+      "language": "de",
+      "authors": [
+        "heidegger"
+      ],
+      "forms": [
+        "Rektoratsrede"
+      ],
+      "renderings": [
+        {
+          "english": "Rectoral Address",
+          "source": "dahlstrom-2013"
+        }
+      ]
+    },
+    {
+      "id": "revolutionaer",
+      "headword": "Revolutionär",
+      "language": "de",
+      "authors": [
+        "heidegger"
+      ],
+      "forms": [
+        "Revolutionär"
+      ],
+      "renderings": [
+        {
+          "english": "revolutionary",
+          "source": "dahlstrom-2013"
+        }
+      ]
+    },
+    {
+      "id": "ruecksicht",
+      "headword": "Rücksicht",
+      "language": "de",
+      "authors": [
+        "heidegger"
+      ],
+      "forms": [
+        "Rücksicht"
+      ],
+      "renderings": [
+        {
+          "english": "considerateness",
+          "source": "corpus",
+          "locator": "heidegger-being-and-time-commentary#h3-s-31-dasein-as-understanding"
+        }
+      ]
+    },
+    {
+      "id": "sage",
+      "headword": "Sage",
+      "language": "de",
+      "authors": [
+        "heidegger"
+      ],
+      "forms": [
+        "Sage"
+      ],
+      "renderings": [
+        {
+          "english": "saying",
+          "source": "dahlstrom-2013"
+        },
+        {
+          "english": "saga",
+          "source": "dahlstrom-2013"
+        }
+      ]
+    },
+    {
+      "id": "sammlung",
+      "headword": "Sammlung",
+      "language": "de",
+      "authors": [
+        "heidegger"
+      ],
+      "forms": [
+        "Sammlung"
+      ],
+      "renderings": [
+        {
+          "english": "gathering",
+          "source": "dahlstrom-2013"
+        }
+      ]
+    },
+    {
+      "id": "schicksal",
+      "headword": "Schicksal",
+      "language": "de",
+      "authors": [
+        "heidegger"
+      ],
+      "forms": [
+        "Schicksal"
+      ],
+      "renderings": [
+        {
+          "english": "Fate",
+          "source": "corpus",
+          "locator": "heidegger-sein-und-zeit-commentary#h5-s-74-the-basic-constitution-of-historicity"
+        }
+      ]
+    },
+    {
+      "id": "schoenheit",
+      "headword": "Schönheit",
+      "language": "de",
+      "authors": [
+        "heidegger"
+      ],
+      "forms": [
+        "Schönheit"
+      ],
+      "renderings": [
+        {
+          "english": "beauty",
+          "source": "dahlstrom-2013"
+        }
+      ]
+    },
+    {
+      "id": "schritt-zurueck",
+      "headword": "Schritt zurück",
+      "language": "de",
+      "authors": [
+        "heidegger"
+      ],
+      "forms": [
+        "Schritt zurück"
+      ],
+      "renderings": [
+        {
+          "english": "Step-back",
+          "source": "dahlstrom-2013"
+        },
+        {
+          "english": "step back",
+          "source": "dahlstrom-2013"
+        }
+      ]
+    },
+    {
+      "id": "schuld",
+      "headword": "Schuld",
+      "language": "de",
+      "authors": [
+        "heidegger"
+      ],
+      "forms": [
+        "Schuld"
+      ],
+      "renderings": [
+        {
+          "english": "guilt",
+          "source": "corpus",
+          "locator": "heidegger-ga-61-phenomenological-interpretations-of-aristotle-commentary#h5-d-the-easy-aristotle"
+        }
+      ]
+    },
+    {
+      "id": "schweigen",
+      "headword": "Schweigen",
+      "language": "de",
+      "authors": [
+        "heidegger"
+      ],
+      "forms": [
+        "Schweigen"
+      ],
+      "renderings": [
+        {
+          "english": "silence",
+          "source": "dahlstrom-2013"
+        }
+      ]
+    },
+    {
+      "id": "sein",
+      "headword": "Sein",
+      "language": "de",
+      "authors": [
+        "heidegger"
+      ],
+      "forms": [
+        "Sein"
+      ],
+      "renderings": [
+        {
+          "english": "Being",
+          "source": "corpus",
+          "locator": "heidegger-ga-24-die-grundprobleme-der-phanomenologie-commentary#h2-s-3-philosophy-as-science-of-being"
+        }
+      ]
+    },
+    {
+      "id": "seinkoennen",
+      "headword": "Seinkönnen",
+      "language": "de",
+      "authors": [
+        "heidegger"
+      ],
+      "forms": [
+        "Seinkönnen"
+      ],
+      "renderings": [
+        {
+          "english": "capability of being",
+          "source": "dahlstrom-2013"
+        }
+      ]
+    },
+    {
+      "id": "selbst",
+      "headword": "Selbst",
+      "language": "de",
+      "authors": [
+        "heidegger"
+      ],
+      "forms": [
+        "Selbst"
+      ],
+      "renderings": [
+        {
+          "english": "Self",
+          "source": "corpus",
+          "locator": "bernet-la-vie-du-sujet-commentary#h4-intentionality-and-transcendence"
+        }
+      ]
+    },
+    {
+      "id": "seyn",
+      "headword": "Seyn",
+      "language": "de",
+      "authors": [
+        "heidegger"
+      ],
+      "forms": [
+        "Seyn"
+      ],
+      "renderings": [
+        {
+          "english": "historical being",
+          "source": "dahlstrom-2013"
+        }
+      ]
+    },
+    {
+      "id": "sich-verbergung",
+      "headword": "Sich-verbergung",
+      "language": "de",
+      "authors": [
+        "heidegger"
+      ],
+      "forms": [
+        "Sich-verbergung"
+      ],
+      "renderings": [
+        {
+          "english": "self-concealment",
+          "source": "dahlstrom-2013"
+        }
+      ]
+    },
+    {
+      "id": "sinn",
+      "headword": "Sinn",
+      "language": "de",
+      "authors": [
+        "heidegger"
+      ],
+      "forms": [
+        "Sinn"
+      ],
+      "renderings": [
+        {
+          "english": "sense",
+          "source": "corpus",
+          "locator": "derrida-introduction-a-lorigine-de-la-geometrie-commentary#h2-introduction"
+        },
+        {
+          "english": "meaning",
+          "source": "dahlstrom-2013",
+          "translator": "Macquarrie-Robinson and Stambaugh"
+        }
+      ],
+      "contrast_with": [
+        "bedeutung"
+      ]
+    },
+    {
+      "id": "situation",
+      "headword": "Situation",
+      "language": "de",
+      "authors": [
+        "heidegger"
+      ],
+      "forms": [
+        "Situation"
+      ],
+      "renderings": [
+        {
+          "english": "situation",
+          "source": "dahlstrom-2013"
+        }
+      ],
+      "ordinary_english": [
+        "Situation"
+      ],
+      "note": "Spelled as the English word; 1,090 whole-word hits. Recorded so --expand cannot propose it as a search term."
+    },
+    {
+      "id": "sorge",
+      "headword": "Sorge",
+      "language": "de",
+      "authors": [
+        "heidegger"
+      ],
+      "forms": [
+        "Sorge"
+      ],
+      "renderings": [
+        {
+          "english": "care",
+          "source": "corpus",
+          "locator": "heidegger-sein-und-zeit-commentary#h4-s-4-the-ontic-priority-of-the-question-of-being"
+        },
+        {
+          "english": "caring",
+          "source": "repo-registry"
+        },
+        {
+          "english": "taking care",
+          "source": "repo-registry"
+        }
+      ],
+      "theme": "sorge",
+      "contrast_with": [
+        "bekuemmerung",
+        "besorgen",
+        "fuersorge"
+      ],
+      "gloss": "The unified structure of Dasein's being in Being and Time, not an attitude or a mood.",
+      "note": "'care' is also an ordinary English word throughout the corpus, which is why the GA 19 absence records check the German family only. See synthesis/CLAUDE.md rule 5."
+    },
+    {
+      "id": "spiel",
+      "headword": "Spiel",
+      "language": "de",
+      "authors": [
+        "heidegger"
+      ],
+      "forms": [
+        "Spiel"
+      ],
+      "renderings": [
+        {
+          "english": "play",
+          "source": "dahlstrom-2013"
+        }
+      ]
+    },
+    {
+      "id": "sprache",
+      "headword": "Sprache",
+      "language": "de",
+      "authors": [
+        "heidegger"
+      ],
+      "forms": [
+        "Sprache"
+      ],
+      "renderings": [
+        {
+          "english": "Language",
+          "source": "corpus",
+          "locator": "heidegger-sein-und-zeit-commentary#h5-b-the-concept-of-logos"
+        }
+      ]
+    },
+    {
+      "id": "sprung",
+      "headword": "Sprung",
+      "language": "de",
+      "authors": [
+        "heidegger"
+      ],
+      "forms": [
+        "Sprung"
+      ],
+      "renderings": [
+        {
+          "english": "Leap",
+          "source": "dahlstrom-2013"
+        }
+      ]
+    },
+    {
+      "id": "staendigkeit",
+      "headword": "Ständigkeit",
+      "language": "de",
+      "authors": [
+        "heidegger"
+      ],
+      "forms": [
+        "Ständigkeit"
+      ],
+      "renderings": [
+        {
+          "english": "Constancy",
+          "source": "dahlstrom-2013"
+        }
+      ]
+    },
+    {
+      "id": "sterblichen",
+      "headword": "Sterblichen",
+      "language": "de",
+      "authors": [
+        "heidegger"
+      ],
+      "forms": [
+        "Sterblichen"
+      ],
+      "renderings": [
+        {
+          "english": "mortals",
+          "source": "dahlstrom-2013"
+        }
+      ]
+    },
+    {
+      "id": "stimmung",
+      "headword": "Stimmung",
+      "language": "de",
+      "authors": [
+        "heidegger"
+      ],
+      "forms": [
+        "Stimmung"
+      ],
+      "renderings": [
+        {
+          "english": "Mood",
+          "source": "corpus",
+          "locator": "bernet-la-vie-du-sujet-commentary#h4-iii"
+        }
+      ]
+    },
+    {
+      "id": "streit",
+      "headword": "Streit",
+      "language": "de",
+      "authors": [
+        "heidegger"
+      ],
+      "forms": [
+        "Streit"
+      ],
+      "renderings": [
+        {
+          "english": "conflict",
+          "source": "dahlstrom-2013"
+        },
+        {
+          "english": "strife",
+          "source": "corpus",
+          "locator": "henry-the-essence-of-manifestation-commentary#h2-s-13-the-ambiguity-of-dasein-essence-and-ontic-determination"
+        }
+      ]
+    },
+    {
+      "id": "subjektivitaet",
+      "headword": "Subjektivität",
+      "language": "de",
+      "authors": [
+        "heidegger"
+      ],
+      "forms": [
+        "Subjektivität"
+      ],
+      "renderings": [
+        {
+          "english": "Subjectivity",
+          "source": "dahlstrom-2013"
+        }
+      ]
+    },
+    {
+      "id": "technik",
+      "headword": "Technik",
+      "language": "de",
+      "authors": [
+        "heidegger"
+      ],
+      "forms": [
+        "Technik"
+      ],
+      "renderings": [
+        {
+          "english": "Technology",
+          "source": "dahlstrom-2013"
+        }
+      ]
+    },
+    {
+      "id": "temporalitaet",
+      "headword": "Temporalität",
+      "language": "de",
+      "authors": [
+        "heidegger"
+      ],
+      "forms": [
+        "Temporalität"
+      ],
+      "renderings": [
+        {
+          "english": "Temporality",
+          "source": "corpus",
+          "locator": "heidegger-being-and-time-commentary#h3-s-83-the-existential-temporal-analytic-of-dasein-and-the-fundamental-ontological",
+          "note": "Distinguished from Zeitlichkeit's 'temporality' by the capital T alone - a distinction the matcher cannot see, since it lowercases before searching."
+        },
+        {
+          "english": "temporal-ity",
+          "source": "corpus",
+          "locator": "franck-heidegger-and-the-problem-of-space-commentary#h2-introduction",
+          "note": "The hyphen does the work the capital does elsewhere."
+        }
+      ],
+      "theme": "zeitlichkeit",
+      "contrast_with": [
+        "zeitlichkeit"
+      ],
+      "note": "The one pair in this file that term search cannot separate at all. Any pass distinguishing the two must read the German, and an absence claim over 'temporality' says nothing about which term is absent."
+    },
+    {
+      "id": "theologie",
+      "headword": "Theologie",
+      "language": "de",
+      "authors": [
+        "heidegger"
+      ],
+      "forms": [
+        "Theologie"
+      ],
+      "renderings": [
+        {
+          "english": "Theology",
+          "source": "dahlstrom-2013"
+        }
+      ]
+    },
+    {
+      "id": "tiere",
+      "headword": "Tiere",
+      "language": "de",
+      "authors": [
+        "heidegger"
+      ],
+      "forms": [
+        "Tiere"
+      ],
+      "renderings": [
+        {
+          "english": "Animals",
+          "source": "dahlstrom-2013"
+        }
+      ]
+    },
+    {
+      "id": "tod",
+      "headword": "Tod",
+      "language": "de",
+      "authors": [
+        "heidegger"
+      ],
+      "forms": [
+        "Tod"
+      ],
+      "renderings": [
+        {
+          "english": "Death",
+          "source": "dahlstrom-2013"
+        }
+      ],
+      "ordinary_english": [
+        "Tod"
+      ],
+      "note": "Fires inside today (251); 4 hits are the German. Recorded so --expand cannot propose it as a search term."
+    },
+    {
+      "id": "topologie",
+      "headword": "Topologie",
+      "language": "de",
+      "authors": [
+        "heidegger"
+      ],
+      "forms": [
+        "Topologie"
+      ],
+      "renderings": [
+        {
+          "english": "topology",
+          "source": "dahlstrom-2013"
+        }
+      ]
+    },
+    {
+      "id": "tradition",
+      "headword": "Tradition",
+      "language": "de",
+      "authors": [
+        "heidegger"
+      ],
+      "forms": [
+        "Tradition"
+      ],
+      "renderings": [
+        {
+          "english": "tradition",
+          "source": "dahlstrom-2013"
+        }
+      ],
+      "ordinary_english": [
+        "Tradition"
+      ],
+      "contrast_with": [
+        "ueberlieferung"
+      ],
+      "note": "Spelled as the English word, and inside traditional, traditionally. Recorded so --expand cannot propose it as a search term."
+    },
+    {
+      "id": "transzendenz",
+      "headword": "Transzendenz",
+      "language": "de",
+      "authors": [
+        "heidegger"
+      ],
+      "forms": [
+        "Transzendenz"
+      ],
+      "renderings": [
+        {
+          "english": "Transcendence",
+          "source": "dahlstrom-2013"
+        }
+      ]
+    },
+    {
+      "id": "trieb",
+      "headword": "Trieb",
+      "language": "de",
+      "authors": [
+        "heidegger"
+      ],
+      "forms": [
+        "Trieb"
+      ],
+      "renderings": [
+        {
+          "english": "drive",
+          "source": "dahlstrom-2013"
+        }
+      ]
+    },
+    {
+      "id": "uebereinstimmung",
+      "headword": "übereinstimmung",
+      "language": "de",
+      "authors": [
+        "heidegger"
+      ],
+      "forms": [
+        "übereinstimmung"
+      ],
+      "renderings": [
+        {
+          "english": "correspondence",
+          "source": "dahlstrom-2013"
+        }
+      ]
+    },
+    {
+      "id": "uebergang",
+      "headword": "übergang",
+      "language": "de",
+      "authors": [
+        "heidegger"
+      ],
+      "forms": [
+        "übergang"
+      ],
+      "renderings": [
+        {
+          "english": "transition",
+          "source": "dahlstrom-2013"
+        }
+      ]
+    },
+    {
+      "id": "ueberlieferung",
+      "headword": "überlieferung",
+      "language": "de",
+      "authors": [
+        "heidegger"
+      ],
+      "forms": [
+        "überlieferung"
+      ],
+      "renderings": [
+        {
+          "english": "tradition",
+          "source": "dahlstrom-2013"
+        }
+      ],
+      "contrast_with": [
+        "tradition"
+      ]
+    },
+    {
+      "id": "uebersetzung",
+      "headword": "Übersetzung",
+      "language": "de",
+      "authors": [
+        "heidegger"
+      ],
+      "forms": [
+        "Übersetzung"
+      ],
+      "renderings": [
+        {
+          "english": "Translation",
+          "source": "dahlstrom-2013"
+        }
+      ]
+    },
+    {
+      "id": "ueberwindung",
+      "headword": "überwindung",
+      "language": "de",
+      "authors": [
+        "heidegger"
+      ],
+      "forms": [
+        "überwindung"
+      ],
+      "renderings": [
+        {
+          "english": "overturning",
+          "source": "dahlstrom-2013"
+        }
+      ]
+    },
+    {
+      "id": "umgebung",
+      "headword": "Umgebung",
+      "language": "de",
+      "authors": [
+        "heidegger"
+      ],
+      "forms": [
+        "Umgebung"
+      ],
+      "renderings": [
+        {
+          "english": "surroundings",
+          "source": "dahlstrom-2013"
+        }
+      ],
+      "contrast_with": [
+        "umwelt"
+      ]
+    },
+    {
+      "id": "umsicht",
+      "headword": "Umsicht",
+      "language": "de",
+      "authors": [
+        "heidegger"
+      ],
+      "forms": [
+        "Umsicht"
+      ],
+      "renderings": [
+        {
+          "english": "Circumspection",
+          "source": "corpus",
+          "locator": "bernet-la-vie-du-sujet-commentary#h4-iii"
+        }
+      ]
+    },
+    {
+      "id": "umwelt",
+      "headword": "Umwelt",
+      "language": "de",
+      "authors": [
+        "heidegger"
+      ],
+      "forms": [
+        "Umwelt"
+      ],
+      "renderings": [
+        {
+          "english": "environment",
+          "source": "dahlstrom-2013"
+        },
+        {
+          "english": "surrounding world",
+          "source": "corpus",
+          "locator": "bernet-la-vie-du-sujet-commentary#h3-3-the-world-husserl"
+        },
+        {
+          "english": "surroundings",
+          "source": "dahlstrom-2013"
+        }
+      ],
+      "contrast_with": [
+        "umgebung"
+      ]
+    },
+    {
+      "id": "unheimlich",
+      "headword": "Unheimlich",
+      "language": "de",
+      "authors": [
+        "heidegger"
+      ],
+      "forms": [
+        "Unheimlich"
+      ],
+      "renderings": [
+        {
+          "english": "Uncanny",
+          "source": "dahlstrom-2013"
+        }
+      ]
+    },
+    {
+      "id": "untergang",
+      "headword": "Untergang",
+      "language": "de",
+      "authors": [
+        "heidegger"
+      ],
+      "forms": [
+        "Untergang"
+      ],
+      "renderings": [
+        {
+          "english": "going under",
+          "source": "dahlstrom-2013"
+        },
+        {
+          "english": "descent",
+          "source": "dahlstrom-2013"
+        }
+      ]
+    },
+    {
+      "id": "unterschied",
+      "headword": "Unterschied",
+      "language": "de",
+      "authors": [
+        "heidegger"
+      ],
+      "forms": [
+        "Unterschied"
+      ],
+      "renderings": [
+        {
+          "english": "difference",
+          "source": "dahlstrom-2013"
+        }
+      ],
+      "contrast_with": [
+        "differenz"
+      ]
+    },
+    {
+      "id": "unverborgenheit",
+      "headword": "Unverborgenheit",
+      "language": "de",
+      "authors": [
+        "heidegger"
+      ],
+      "forms": [
+        "Unverborgenheit"
+      ],
+      "renderings": [
+        {
+          "english": "unconconcealment",
+          "source": "dahlstrom-2013"
+        },
+        {
+          "english": "unhiddenness",
+          "source": "dahlstrom-2013"
+        }
+      ]
+    },
+    {
+      "id": "urspruenglichkeit",
+      "headword": "Ursprünglichkeit",
+      "language": "de",
+      "authors": [
+        "heidegger"
+      ],
+      "forms": [
+        "Ursprünglichkeit"
+      ],
+      "renderings": [
+        {
+          "english": "Primordiality",
+          "source": "dahlstrom-2013"
+        }
+      ]
+    },
+    {
+      "id": "vera-et-immutabilis-natura",
+      "headword": "vera et immutabilis natura",
+      "language": "la",
+      "authors": [
+        "marion"
+      ],
+      "forms": [
+        "vera et immutabilis natura",
+        "verae et immutabiles naturae"
+      ],
+      "renderings": [
+        {
+          "english": "true and immutable nature",
+          "source": "repo-registry"
+        },
+        {
+          "english": "true and immutable natures",
+          "source": "repo-registry"
+        },
+        {
+          "english": "immutable nature",
+          "source": "repo-registry"
+        }
+      ],
+      "theme": "wesen",
+      "contrast_with": [
+        "wesen"
+      ],
+      "note": "Descartes' term, registered under the wesen theme because gap-007 asks whether the corpus connects it to Husserl's Wesen - and it reaches this corpus only through the Marion commentary, in English. The Latin is not attested here at all, which --attest will say."
+    },
+    {
+      "id": "verantwortung",
+      "headword": "Verantwortung",
+      "language": "de",
+      "authors": [
+        "heidegger"
+      ],
+      "forms": [
+        "Verantwortung"
+      ],
+      "renderings": [
+        {
+          "english": "responsibility",
+          "source": "dahlstrom-2013"
+        }
+      ]
+    },
+    {
+      "id": "verbergung",
+      "headword": "Verbergung",
+      "language": "de",
+      "authors": [
+        "heidegger"
+      ],
+      "forms": [
+        "Verbergung"
+      ],
+      "renderings": [
+        {
+          "english": "concealment",
+          "source": "dahlstrom-2013"
+        },
+        {
+          "english": "hiddenness",
+          "source": "dahlstrom-2013"
+        }
+      ],
+      "contrast_with": [
+        "verborgenheit"
+      ]
+    },
+    {
+      "id": "verborgenheit",
+      "headword": "Verborgenheit",
+      "language": "de",
+      "authors": [
+        "heidegger"
+      ],
+      "forms": [
+        "Verborgenheit"
+      ],
+      "renderings": [
+        {
+          "english": "concealment",
+          "source": "dahlstrom-2013"
+        },
+        {
+          "english": "hiddenness",
+          "source": "dahlstrom-2013"
+        }
+      ],
+      "contrast_with": [
+        "verbergung"
+      ]
+    },
+    {
+      "id": "verfallen",
+      "headword": "Verfallen",
+      "language": "de",
+      "authors": [
+        "heidegger"
+      ],
+      "forms": [
+        "Verfallen"
+      ],
+      "renderings": [
+        {
+          "english": "fallenness",
+          "source": "dahlstrom-2013"
+        },
+        {
+          "english": "falling",
+          "source": "dahlstrom-2013",
+          "translator": "Macquarrie-Robinson"
+        },
+        {
+          "english": "falling prey",
+          "source": "dahlstrom-2013",
+          "translator": "Stambaugh"
+        }
+      ]
+    },
+    {
+      "id": "verhaltenheit",
+      "headword": "Verhaltenheit",
+      "language": "de",
+      "authors": [
+        "heidegger"
+      ],
+      "forms": [
+        "Verhaltenheit"
+      ],
+      "renderings": [
+        {
+          "english": "Reserve",
+          "source": "dahlstrom-2013"
+        }
+      ]
+    },
+    {
+      "id": "vernunft",
+      "headword": "Vernunft",
+      "language": "de",
+      "authors": [
+        "heidegger"
+      ],
+      "forms": [
+        "Vernunft"
+      ],
+      "renderings": [
+        {
+          "english": "Reason",
+          "source": "corpus",
+          "locator": "heidegger-being-and-time-commentary#h4-b-the-concept-of-logos"
+        }
+      ],
+      "contrast_with": [
+        "grund"
+      ]
+    },
+    {
+      "id": "verstehen",
+      "headword": "Verstehen",
+      "language": "de",
+      "authors": [
+        "heidegger"
+      ],
+      "forms": [
+        "Verstehen"
+      ],
+      "renderings": [
+        {
+          "english": "Understanding",
+          "source": "corpus",
+          "locator": "heidegger-sein-und-zeit-commentary#h6-s-18-involvement-and-significance-the-worldhood-of-the-world"
+        }
+      ]
+    },
+    {
+      "id": "vertrautheit",
+      "headword": "Vertrautheit",
+      "language": "de",
+      "authors": [
+        "heidegger"
+      ],
+      "forms": [
+        "Vertrautheit"
+      ],
+      "renderings": [
+        {
+          "english": "familiarity",
+          "source": "corpus",
+          "locator": "bernet-la-vie-du-sujet-commentary#h4-the-being-of-the-ready-to-hand-and-the-being-of-concerned-dasein-inauthentic-exi"
+        }
+      ]
+    },
+    {
+      "id": "verweisung",
+      "headword": "Verweisung",
+      "language": "de",
+      "authors": [
+        "heidegger"
+      ],
+      "forms": [
+        "Verweisung"
+      ],
+      "renderings": [
+        {
+          "english": "reference",
+          "source": "corpus",
+          "locator": "heidegger-sein-und-zeit-commentary#h6-s-15-the-being-of-the-beings-encountered-in-the-environing-world"
+        }
+      ]
+    },
+    {
+      "id": "verwinden",
+      "headword": "Verwinden",
+      "language": "de",
+      "authors": [
+        "heidegger"
+      ],
+      "forms": [
+        "Verwinden"
+      ],
+      "renderings": [
+        {
+          "english": "getting over",
+          "source": "dahlstrom-2013"
+        },
+        {
+          "english": "coming to terms with",
+          "source": "dahlstrom-2013"
+        },
+        {
+          "english": "winding back",
+          "source": "dahlstrom-2013"
+        }
+      ]
+    },
+    {
+      "id": "volk",
+      "headword": "Volk",
+      "language": "de",
+      "authors": [
+        "heidegger"
+      ],
+      "forms": [
+        "Volk"
+      ],
+      "renderings": [
+        {
+          "english": "People",
+          "source": "dahlstrom-2013"
+        }
+      ]
+    },
+    {
+      "id": "vorhandenheit",
+      "headword": "Vorhandenheit",
+      "language": "de",
+      "authors": [
+        "heidegger"
+      ],
+      "forms": [
+        "Vorhandenheit",
+        "vorhanden"
+      ],
+      "renderings": [
+        {
+          "english": "presence-at-hand",
+          "source": "corpus",
+          "locator": "heidegger-sein-und-zeit-commentary#h4-s-2-the-formal-structure-of-the-question-of-being"
+        },
+        {
+          "english": "present-at-hand",
+          "source": "repo-registry"
+        },
+        {
+          "english": "objective presence",
+          "source": "repo-registry",
+          "translator": "Stambaugh"
+        },
+        {
+          "english": "occurrent",
+          "source": "repo-registry"
+        },
+        {
+          "english": "on-handness",
+          "source": "dahlstrom-2013"
+        },
+        {
+          "english": "present-at-handness",
+          "source": "dahlstrom-2013",
+          "translator": "Macquarrie-Robinson"
+        }
+      ],
+      "theme": "vorhandenheit",
+      "contrast_with": [
+        "vorhandensein",
+        "zuhandenheit"
+      ],
+      "note": "The theme registry records that English renderings diverge sharply between translations, so a search keyed to one of them drops whole commentaries. This entry is where that divergence belongs; add a translator field as each attribution is established from a commentary rather than assumed."
+    },
+    {
+      "id": "vorhandensein",
+      "headword": "Vorhandensein",
+      "language": "de",
+      "authors": [
+        "heidegger"
+      ],
+      "forms": [
+        "Vorhandensein"
+      ],
+      "renderings": [
+        {
+          "english": "being-on-hand",
+          "source": "dahlstrom-2013"
+        },
+        {
+          "english": "present-at-handness",
+          "source": "dahlstrom-2013",
+          "translator": "Macquarrie-Robinson"
+        },
+        {
+          "english": "objective presence",
+          "source": "dahlstrom-2013",
+          "translator": "Stambaugh"
+        }
+      ],
+      "theme": "vorhandenheit",
+      "contrast_with": [
+        "vorhandenheit"
+      ]
+    },
+    {
+      "id": "vorstellen",
+      "headword": "Vorstellen",
+      "language": "de",
+      "authors": [
+        "heidegger"
+      ],
+      "forms": [
+        "Vorstellen"
+      ],
+      "renderings": [
+        {
+          "english": "Representing",
+          "source": "dahlstrom-2013"
+        },
+        {
+          "english": "represent",
+          "source": "dahlstrom-2013"
+        },
+        {
+          "english": "place before",
+          "source": "dahlstrom-2013"
+        }
+      ]
+    },
+    {
+      "id": "vorstruktur",
+      "headword": "Vorstruktur",
+      "language": "de",
+      "authors": [
+        "heidegger"
+      ],
+      "forms": [
+        "Vorstruktur"
+      ],
+      "renderings": [
+        {
+          "english": "forestructure",
+          "source": "dahlstrom-2013"
+        }
+      ]
+    },
+    {
+      "id": "wahl",
+      "headword": "Wahl",
+      "language": "de",
+      "authors": [
+        "heidegger"
+      ],
+      "forms": [
+        "Wahl"
+      ],
+      "renderings": [
+        {
+          "english": "choice",
+          "source": "dahlstrom-2013"
+        }
+      ]
+    },
+    {
+      "id": "wahrer",
+      "headword": "Wahrer",
+      "language": "de",
+      "authors": [
+        "heidegger"
+      ],
+      "forms": [
+        "Wahrer"
+      ],
+      "renderings": [
+        {
+          "english": "preserver",
+          "source": "dahlstrom-2013"
+        }
+      ]
+    },
+    {
+      "id": "wahrheit",
+      "headword": "Wahrheit",
+      "language": "de",
+      "authors": [
+        "heidegger"
+      ],
+      "forms": [
+        "Wahrheit"
+      ],
+      "renderings": [
+        {
+          "english": "Truth",
+          "source": "dahlstrom-2013"
+        }
+      ]
+    },
+    {
+      "id": "welt",
+      "headword": "Welt",
+      "language": "de",
+      "authors": [
+        "heidegger"
+      ],
+      "forms": [
+        "Welt"
+      ],
+      "renderings": [
+        {
+          "english": "World",
+          "source": "dahlstrom-2013"
+        }
+      ]
+    },
+    {
+      "id": "weltanschauung",
+      "headword": "Weltanschauung",
+      "language": "de",
+      "authors": [
+        "heidegger"
+      ],
+      "forms": [
+        "Weltanschauung"
+      ],
+      "renderings": [
+        {
+          "english": "worldview",
+          "source": "dahlstrom-2013"
+        }
+      ]
+    },
+    {
+      "id": "weltbild",
+      "headword": "Weltbild",
+      "language": "de",
+      "authors": [
+        "heidegger"
+      ],
+      "forms": [
+        "Weltbild"
+      ],
+      "renderings": [
+        {
+          "english": "world-picture",
+          "source": "dahlstrom-2013"
+        }
+      ]
+    },
+    {
+      "id": "werk",
+      "headword": "Werk",
+      "language": "de",
+      "authors": [
+        "heidegger"
+      ],
+      "forms": [
+        "Werk"
+      ],
+      "renderings": [
+        {
+          "english": "work",
+          "source": "dahlstrom-2013"
+        }
+      ]
+    },
+    {
+      "id": "wesen",
+      "headword": "Wesen",
+      "language": "de",
+      "authors": [
+        "husserl"
+      ],
+      "forms": [
+        "Wesen",
+        "Wesenheit"
+      ],
+      "renderings": [
+        {
+          "english": "essence",
+          "source": "repo-registry"
+        },
+        {
+          "english": "essences",
+          "source": "repo-registry"
+        },
+        {
+          "english": "essential",
+          "source": "repo-registry"
+        }
+      ],
+      "theme": "wesen",
+      "contrast_with": [
+        "eidos"
+      ]
+    },
+    {
+      "id": "wesensschau",
+      "headword": "Wesensschau",
+      "language": "de",
+      "authors": [
+        "husserl",
+        "heidegger",
+        "derrida"
+      ],
+      "forms": [
+        "Wesensschau"
+      ],
+      "renderings": [
+        {
+          "english": "essence-intuition",
+          "source": "corpus",
+          "locator": "derrida-introduction-a-lorigine-de-la-geometrie-commentary#h2-x"
+        },
+        {
+          "english": "intuition of essences",
+          "source": "corpus",
+          "locator": "heidegger-sein-und-zeit-commentary#h6-s-31-da-sein-as-understanding"
+        },
+        {
+          "english": "essential intuition",
+          "source": "corpus",
+          "locator": "husserliana-9-phenomenological-psychology-commentary#h4-beilage-xxviii-to-s45-summarizing-overview-of-the-lectures"
+        }
+      ],
+      "theme": "wesen",
+      "note": "Three commentaries, three renderings of one term, all attested. A theme registered with any one of them finds a third of the passages. This entry is the argument for the lexicon in miniature."
+    },
+    {
+      "id": "wiederholung",
+      "headword": "Wiederholung",
+      "language": "de",
+      "authors": [
+        "heidegger"
+      ],
+      "forms": [
+        "Wiederholung"
+      ],
+      "renderings": [
+        {
+          "english": "repetition",
+          "source": "dahlstrom-2013"
+        },
+        {
+          "english": "retrieval",
+          "source": "corpus",
+          "locator": "heidegger-sein-und-zeit-commentary#h4-s-1-the-necessity-of-an-explicit-retrieval-of-the-question-of-being"
+        }
+      ]
+    },
+    {
+      "id": "wille",
+      "headword": "Wille",
+      "language": "de",
+      "authors": [
+        "heidegger"
+      ],
+      "forms": [
+        "Wille"
+      ],
+      "renderings": [
+        {
+          "english": "will",
+          "source": "dahlstrom-2013"
+        }
+      ],
+      "ordinary_english": [
+        "Wille"
+      ],
+      "contrast_with": [
+        "wollen"
+      ],
+      "note": "Fires inside willed, willer; 2 hits are the German. Recorded so --expand cannot propose it as a search term."
+    },
+    {
+      "id": "wissen",
+      "headword": "Wissen",
+      "language": "de",
+      "authors": [
+        "heidegger"
+      ],
+      "forms": [
+        "Wissen"
+      ],
+      "renderings": [
+        {
+          "english": "knowing",
+          "source": "dahlstrom-2013"
+        }
+      ]
+    },
+    {
+      "id": "wissenschaft",
+      "headword": "Wissenschaft",
+      "language": "de",
+      "authors": [
+        "heidegger"
+      ],
+      "forms": [
+        "Wissenschaft"
+      ],
+      "renderings": [
+        {
+          "english": "Science",
+          "source": "dahlstrom-2013"
+        }
+      ]
+    },
+    {
+      "id": "wohnen",
+      "headword": "Wohnen",
+      "language": "de",
+      "authors": [
+        "heidegger"
+      ],
+      "forms": [
+        "Wohnen"
+      ],
+      "renderings": [
+        {
+          "english": "Dwelling",
+          "source": "dahlstrom-2013"
+        }
+      ]
+    },
+    {
+      "id": "wollen",
+      "headword": "Wollen",
+      "language": "de",
+      "authors": [
+        "heidegger"
+      ],
+      "forms": [
+        "Wollen"
+      ],
+      "renderings": [
+        {
+          "english": "will",
+          "source": "dahlstrom-2013"
+        }
+      ],
+      "contrast_with": [
+        "wille"
+      ]
+    },
+    {
+      "id": "wort",
+      "headword": "Wort",
+      "language": "de",
+      "authors": [
+        "heidegger"
+      ],
+      "forms": [
+        "Wort"
+      ],
+      "renderings": [
+        {
+          "english": "Word",
+          "source": "dahlstrom-2013"
+        }
+      ],
+      "ordinary_english": [
+        "Wort"
+      ],
+      "note": "Fires inside worth, worthy; the bare word never occurs. Recorded so --expand cannot propose it as a search term."
+    },
+    {
+      "id": "zeichen",
+      "headword": "Zeichen",
+      "language": "de",
+      "authors": [
+        "heidegger"
+      ],
+      "forms": [
+        "Zeichen"
+      ],
+      "renderings": [
+        {
+          "english": "Sign",
+          "source": "corpus",
+          "locator": "bernet-la-vie-du-sujet-commentary#h4-i-6"
+        }
+      ]
+    },
+    {
+      "id": "zeit",
+      "headword": "Zeit",
+      "language": "de",
+      "authors": [
+        "heidegger"
+      ],
+      "forms": [
+        "Zeit"
+      ],
+      "renderings": [
+        {
+          "english": "Time",
+          "source": "dahlstrom-2013"
+        }
+      ]
+    },
+    {
+      "id": "zeit-raum",
+      "headword": "Zeit-Raum",
+      "language": "de",
+      "authors": [
+        "heidegger"
+      ],
+      "forms": [
+        "Zeit-Raum"
+      ],
+      "renderings": [
+        {
+          "english": "Time-space",
+          "source": "dahlstrom-2013"
+        }
+      ]
+    },
+    {
+      "id": "zeitbewusstsein",
+      "headword": "Zeitbewußtsein",
+      "language": "de",
+      "authors": [
+        "husserl"
+      ],
+      "forms": [
+        "Zeitbewußtsein",
+        "Zeitbewusstsein"
+      ],
+      "renderings": [
+        {
+          "english": "time-consciousness",
+          "source": "repo-registry"
+        }
+      ],
+      "theme": "zeitlichkeit"
+    },
+    {
+      "id": "zeitlichkeit",
+      "headword": "Zeitlichkeit",
+      "language": "de",
+      "authors": [
+        "heidegger"
+      ],
+      "forms": [
+        "Zeitlichkeit"
+      ],
+      "renderings": [
+        {
+          "english": "temporality",
+          "source": "corpus",
+          "locator": "franck-heidegger-and-the-problem-of-space-commentary#h2-introduction"
+        }
+      ],
+      "theme": "zeitlichkeit",
+      "contrast_with": [
+        "temporalitaet"
+      ],
+      "gloss": "The temporality of Dasein, as against the Temporalitaet of being itself."
+    },
+    {
+      "id": "zeitraum",
+      "headword": "zeitraum",
+      "language": "de",
+      "authors": [
+        "heidegger"
+      ],
+      "forms": [
+        "zeitraum"
+      ],
+      "renderings": [
+        {
+          "english": "timespan",
+          "source": "dahlstrom-2013"
+        }
+      ]
+    },
+    {
+      "id": "zuhandenheit",
+      "headword": "Zuhandenheit",
+      "language": "de",
+      "authors": [
+        "heidegger"
+      ],
+      "forms": [
+        "Zuhandenheit",
+        "zuhanden"
+      ],
+      "renderings": [
+        {
+          "english": "readiness-to-hand",
+          "source": "corpus",
+          "locator": "heidegger-sein-und-zeit-commentary#h6-s-15-the-being-of-the-beings-encountered-in-the-environing-world",
+          "translator": "Macquarrie-Robinson"
+        },
+        {
+          "english": "ready-to-hand",
+          "source": "repo-registry"
+        },
+        {
+          "english": "handiness",
+          "source": "repo-registry"
+        },
+        {
+          "english": "at hand",
+          "source": "repo-registry"
+        }
+      ],
+      "theme": "vorhandenheit",
+      "contrast_with": [
+        "vorhandenheit"
+      ]
+    },
+    {
+      "id": "zuhandensein",
+      "headword": "zuhandensein",
+      "language": "de",
+      "authors": [
+        "heidegger"
+      ],
+      "forms": [
+        "zuhandensein"
+      ],
+      "renderings": [
+        {
+          "english": "being-handy",
+          "source": "dahlstrom-2013"
+        }
+      ]
+    },
+    {
+      "id": "zuspiel",
+      "headword": "Zuspiel",
+      "language": "de",
+      "authors": [
+        "heidegger"
+      ],
+      "forms": [
+        "Zuspiel"
+      ],
+      "renderings": [
+        {
+          "english": "Pass",
+          "source": "dahlstrom-2013"
+        },
+        {
+          "english": "playing forth",
+          "source": "dahlstrom-2013"
+        }
+      ]
+    },
+    {
+      "id": "zwiefalt",
+      "headword": "Zwiefalt",
+      "language": "de",
+      "authors": [
+        "heidegger"
+      ],
+      "forms": [
+        "Zwiefalt"
+      ],
+      "renderings": [
+        {
+          "english": "Twofold",
+          "source": "dahlstrom-2013"
+        }
+      ]
+    }
+  ]
+}

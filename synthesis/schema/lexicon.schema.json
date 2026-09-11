@@ -1,0 +1,125 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "$id": "https://faultynode.github.io/commentaries/synthesis/schema/lexicon.schema.json",
+  "title": "Term lexicon",
+  "description": "A registry of the corpus's terms of art: one entry per headword, its original-language forms, and the English renderings it travels under. The lexicon is retrieval apparatus, not evidence. It says what to search for and where a rendering was seen; it never says what a text claims. Nothing here may be cited by an extraction unit or a synthesis output - those may quote only a commentary.",
+  "type": "object",
+  "additionalProperties": false,
+  "required": ["schema_version", "sources", "entries"],
+  "properties": {
+    "schema_version": { "const": 1 },
+    "sources": {
+      "type": "array",
+      "minItems": 1,
+      "description": "Where renderings come from. Every rendering names one of these, so a reader can tell an attested pairing from an imported one.",
+      "items": { "$ref": "#/$defs/source" }
+    },
+    "entries": {
+      "type": "array",
+      "items": { "$ref": "#/$defs/entry" }
+    }
+  },
+  "$defs": {
+    "source": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": ["id", "kind", "citation"],
+      "properties": {
+        "id": { "type": "string", "pattern": "^[a-z0-9-]+$" },
+        "kind": {
+          "type": "string",
+          "enum": ["commentary-corpus", "dictionary", "translation", "registry"],
+          "description": "'commentary-corpus' is the only kind a script can verify: the pairing is stated in a commentary, so the rendering carries a locator and scripts/synthesis_lexicon.py --check looks it up. 'dictionary' is a published reference work, 'translation' a named translator's standing rendering, 'registry' a term already asserted elsewhere in this repo. The last three are unverifiable by construction and are marked so rather than blended in."
+        },
+        "citation": {
+          "type": "string",
+          "minLength": 4,
+          "description": "A bibliographic reference or repo path. Never the source's own text: see docs/lexicon-design.md L4."
+        },
+        "note": { "type": "string", "maxLength": 600 }
+      }
+    },
+    "entry": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": ["id", "headword", "language", "forms", "renderings"],
+      "properties": {
+        "id": {
+          "type": "string",
+          "pattern": "^[a-z0-9-]+$",
+          "description": "Transliterated headword slug (leib, koerper, fuersorge). One entry per term of art, not per author: a term shared by several authors lists them in 'authors' rather than being duplicated."
+        },
+        "headword": {
+          "type": "string",
+          "minLength": 1,
+          "description": "The term as its own language writes it."
+        },
+        "language": { "type": "string", "enum": ["de", "fr", "grc", "la", "en"] },
+        "authors": {
+          "type": "array",
+          "description": "Author folder names whose commentaries use this as a term of art. Restricts --attest and --candidates; not an assertion that no one else uses it.",
+          "items": { "type": "string", "pattern": "^[a-z-]+$" }
+        },
+        "forms": {
+          "type": "array",
+          "minItems": 1,
+          "description": "Inflectional and orthographic variants, the headword included. These are searched with the same left-anchored, deliberately over-inclusive matcher the themes use.",
+          "items": { "type": "string", "minLength": 1 }
+        },
+        "renderings": {
+          "type": "array",
+          "minItems": 1,
+          "items": { "$ref": "#/$defs/rendering" }
+        },
+        "theme": {
+          "type": "string",
+          "pattern": "^[a-z0-9-]+$",
+          "description": "Theme id from synthesis/themes.json. Optional: an entry with no theme is a candidate, and that is what --candidates ranks."
+        },
+        "ordinary_english": {
+          "type": "array",
+          "description": "Forms a search cannot separate from ordinary English, so --expand never proposes them as search terms. Two causes, both measurable with --attest: a homograph, where the German is spelled like a common English word (Not, Interpretation, Situation), and a prefix, where the left-anchored matcher fires inside longer English words (Natur in 'nature', Tod in 'today', Irre in 'irreducible'). The forms stay in 'forms' because they are the term's real forms; this is the German-side counterpart of the absent_terms rule in synthesis/CLAUDE.md.",
+          "items": { "type": "string", "minLength": 1 }
+        },
+        "contrast_with": {
+          "type": "array",
+          "description": "Entry ids this term must not be collapsed into (Leib/Korper, Zeitlichkeit/Temporalitat). The pairing is what makes a shared English rendering a finding rather than a coincidence.",
+          "items": { "type": "string", "pattern": "^[a-z0-9-]+$" }
+        },
+        "gloss": {
+          "type": "string",
+          "maxLength": 240,
+          "description": "An aid to recognizing the term in a search result, in the registrar's own words. Never evidence, never a definition copied from a reference work, and never citable downstream."
+        },
+        "note": { "type": "string", "maxLength": 600 }
+      }
+    },
+    "rendering": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": ["english", "source"],
+      "properties": {
+        "english": {
+          "type": "string",
+          "minLength": 2,
+          "description": "An English form this term travels under in the commentaries. Feeds themes.json search_terms via --expand; a rendering that is wrong costs a glance on a candidate list, a rendering that is missing costs a whole commentary."
+        },
+        "source": {
+          "type": "string",
+          "pattern": "^[a-z0-9-]+$",
+          "description": "Source id from the top-level sources array."
+        },
+        "translator": {
+          "type": "string",
+          "description": "Whose standing rendering this is, where the divergence is a translator's (Macquarrie-Robinson vs. Stambaugh) rather than an author's."
+        },
+        "locator": {
+          "type": "string",
+          "pattern": "^[a-z0-9-]+#[a-z0-9-]+$",
+          "description": "commentary-slug#section-id where a commentary itself states the pairing. Required when the named source is of kind 'commentary-corpus', and checked: --check confirms the section contains both the English and one of the entry's forms."
+        },
+        "note": { "type": "string", "maxLength": 300 }
+      }
+    }
+  }
+}

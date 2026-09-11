@@ -26,6 +26,11 @@ against the repo root.
 | `python3 scripts/synthesis_ledger.py --theme <id>` | rebuild one | |
 | `python3 scripts/synthesis_ledger.py --all --check` | are they current? | 0 / 1 stale |
 | `python3 scripts/synthesis_status.py [--check]` | rebuild `STATUS.md` | 0 / 1 |
+| `python3 scripts/synthesis_lexicon.py --check` | schema, references, attested renderings | 0 / 1 errors |
+| `python3 scripts/synthesis_lexicon.py --expand --theme <id>` | what `themes.json` is missing, both directions | 0 / 2 unknown theme |
+| `… --expand --theme <id> --json` | the merged `search_terms` array, ready to paste | |
+| `python3 scripts/synthesis_lexicon.py --attest [--theme <id>]` | which registered terms the corpus contains | 0 |
+| `python3 scripts/synthesis_lexicon.py --candidates` | headwords with no theme, by corpus density | 0 |
 
 Useful query flags: `--author husserl`, `--top 40`, `--min-hits 3`,
 `--urls`. Sections already carrying a record print as `[done]`.
@@ -146,6 +151,10 @@ out of the ranking.
 Then `python3 scripts/synthesis_status.py` — the theme appears with a
 ranked candidate list, and it is queued.
 
+Before typing `search_terms` by hand, check what is already registered:
+`python3 scripts/synthesis_lexicon.py --expand --theme welt --json` prints
+the merged array, and P9 below is the fuller loop.
+
 ## P5 · Resolve a chronology entry
 
 Nine commentaries do not date their own text (`STATUS.md` §Chronology to
@@ -220,13 +229,106 @@ is deliberately no automation across this line.
 
 ---
 
+## P9 · Widen a theme's search terms from the lexicon
+
+The retrieval layer is only as good as its term list, and the list is
+typed by hand. This is the loop that stops it drifting:
+
+1. `python3 scripts/synthesis_lexicon.py --expand --theme <id>` — reads
+   both directions. *Missing from search_terms* are renderings the
+   lexicon knows and the theme does not: every one of them is a
+   commentary the theme's searches are currently missing. *In
+   search_terms with no lexicon entry* is the reverse question — a term
+   nobody has accounted for, which may be good and may be a relic.
+2. Decide. This is a judgement, not a merge: `absent_terms` defaults to
+   the theme's search terms, so widening them changes what a recorded
+   absence means. See [lexicon-design.md](lexicon-design.md) L3.
+3. Paste. `--json` prints the merged array in `themes.json`'s shape.
+4. `python3 scripts/synthesis_status.py` — the candidate ranking moves,
+   usually a lot.
+5. Any extraction record whose absences were keyed to the old terms is
+   now under-checked. It is not stale — the commentary did not change —
+   so nothing reports it. Re-run the absence checks by hand if the theme
+   gained a rendering that matters (P6 is the procedure for the
+   file-changed case, not this one).
+
+## P10 · Register a headword
+
+One entry per term of art, in `synthesis/lexicon.json`. The minimum is a
+headword, its forms, and one rendering with a source.
+
+```json
+{
+  "id": "welt",
+  "headword": "Welt",
+  "language": "de",
+  "authors": ["heidegger"],
+  "forms": ["Welt", "Weltlichkeit", "Umwelt"],
+  "renderings": [
+    { "english": "world", "source": "repo-registry" },
+    { "english": "environing world", "source": "corpus",
+      "locator": "heidegger-sein-und-zeit-commentary#h6-s-15-the-being-of-the-beings-encountered-in-the-environing-world" }
+  ],
+  "theme": "welt",
+  "contrast_with": ["umwelt"],
+  "gloss": "Your own words, under 240 characters, never a reference work's."
+}
+```
+
+Then mine the corpus for the same headword — the commentaries gloss their
+own terms, and those glosses are the renderings actually in use here:
+
+    grep -rno ".\{45\}(\*\?Welt\*\?)" commentaries/*/*.md
+
+Each `English (Welt)` hit is an attested rendering. Add it with
+`source: "corpus"` and the locator of the section it sits in (take the
+section id from `corpus.json`, never from the heading — CLAUDE.md rule 2),
+and `--check` will confirm the section really contains both halves.
+
+Finish with `python3 scripts/synthesis_lexicon.py --check`. Warnings about
+shared renderings are asking you to record a collision in
+`contrast_with`, not to delete a rendering.
+
+## P11 · Bring in a reference work
+
+A published dictionary of an author's terms is a headword list and a
+rendering list, and both are useful here. The book itself is not: keep it
+in [faultynode/sources](https://github.com/faultynode/sources) or outside
+git, add it to `lexicon.json` `sources[]` with `kind: "dictionary"` and a
+full bibliographic citation, and take from it only forms, renderings and
+cross-references. No definition text — see
+[lexicon-design.md](lexicon-design.md) L4, and note that `synthesis/` is
+one `git mv` from a live public page.
+
+Then work the batch: P10 per headword, `--check`, `--expand` per theme it
+touches (P9), and `--candidates` at the end. A dictionary for an author
+with no commentary in the corpus is still worth registering — its entries
+rank in `--candidates` on hits from the commentaries that discuss him, and
+that ranking is the coverage map for the commentary nobody has written.
+
+Three things a bulk import always needs, learned from the first one
+(Dahlstrom, 255 headwords — see
+[lexicon-design.md](lexicon-design.md) §6):
+
+- **Translator divergences are data.** Where the reference work marks a
+  rendering as some translator's rather than its own, put it in
+  `translator`. That is the field the `vorhandenheit` theme note wanted.
+- **Collisions come in bulk and must be recorded, not resolved.**
+  `--check` warns for every English word two entries share; the fix is
+  `contrast_with` on both, never deleting a rendering.
+- **Decide `ordinary_english` by looking, not by counting.** Run
+  `--attest` over the new entries. A form flagged "fires mostly inside
+  longer words" is contaminated by English (`Natur` inside *nature*) or
+  compounded in German (`Wissen` inside *Wissenschaft*), and only the
+  words themselves say which. Flag the first, leave the second.
+
 ## CI reference
 
 `.github/workflows/synthesis.yml`. **The model never runs here.**
 
 | Event | Job | Behaviour |
 |---|---|---|
-| pull request touching `synthesis/**`, `commentaries/**`, `scripts/synthesis*.py` | `validate` | quotes and absences re-checked against the branch's commentaries; errors fail |
+| pull request touching `synthesis/**`, `commentaries/**`, `scripts/synthesis*.py` | `validate` | quotes and absences re-checked against the branch's commentaries, then the lexicon's attested renderings; errors fail |
 | push to `main`, same paths | `validate` then `rebuild` | rebuilds `corpus.json`, ledgers, `STATUS.md`; commits `[skip ci]` |
 | manual `workflow_dispatch` | both | |
 

@@ -4,7 +4,8 @@ Machinery for reading *across* the commentaries: extraction records that
 pin a claim to a place in a commentary, ledgers that order those records
 by date, and a synthesis stage that may write only from the ledgers.
 
-- **Why it is built this way** — [synthesis-design.md](../docs/synthesis-design.md)
+- **Why it is built this way** — [synthesis-design.md](../docs/synthesis-design.md),
+  and for the term registry [lexicon-design.md](../docs/lexicon-design.md)
 - **How to run it** — [synthesis-operations.md](../docs/synthesis-operations.md)
 - **What binds you while working here** — this file.
 
@@ -54,7 +55,15 @@ Everything below is downstream of keeping that check meaningful.
    coverage is the one failure the validator cannot catch.
 8. **Do not hand-edit generated files** (below). They are rebuilt by CI
    and your edit will vanish.
-9. **Flag gaps; do not fill them.** A Stage 4 pass that cannot support a
+9. **Nothing in `lexicon.json` is quotable.** It is compiled from
+   reference works, translators' habits and the registrar's reading -
+   the outside knowledge rules 3 and 6 keep out of the evidence. It may
+   tell a pass what to search for and which section glossed a term; it
+   may never be the source of a `claim`, a `quote`, or a date. Its
+   glosses are aids to recognition and are capped at 240 characters so
+   they cannot become arguments. See
+   [lexicon-design.md](../docs/lexicon-design.md) L1.
+10. **Flag gaps; do not fill them.** A Stage 4 pass that cannot support a
    claim appends to `gaps.json`. That register is the reading queue, and
    it is the output that makes the next iteration possible.
 
@@ -63,6 +72,7 @@ Everything below is downstream of keeping that check meaningful.
 | Authored — edit these | Generated — never edit |
 |---|---|
 | `themes.json` | `corpus.json` |
+| `lexicon.json` | |
 | `chronology.json` | `ledgers/*.md` |
 | `gaps.json` | `STATUS.md` |
 | `extractions/<theme>/<slug>.json` | |
@@ -84,6 +94,10 @@ holds the data.
                          English renderings - the commentaries are English
                          by construction, so German alone finds almost
                          nothing.
+    lexicon.json         Term registry: one entry per headword, its
+                         original-language forms, and the English
+                         renderings it travels under. Feeds search_terms
+                         via --expand. Retrieval only, never evidence.
     chronology.json      Dates and strata, with evidence.
     gaps.json            The reading queue. Written by Stage 4.
     corpus.json          Generated. Heading tree, line spans, digests.
@@ -112,6 +126,18 @@ and no build fails: the recorded digest stops matching, and the records
 appear in `STATUS.md` as re-extraction tasks. Rewording a heading does
 more — it changes the section id, so locators pointing at it stop
 resolving.
+
+**A theme's search terms are narrower than the corpus.** `Wesensschau`
+is glossed three different ways across three commentaries and
+`themes.json` carries none of them; `Besorgen` and `Bekümmerung` are both
+"concern" here and no search separates them. Run
+`scripts/synthesis_lexicon.py --expand --theme <id>` before trusting a
+candidate ranking, and read a shared rendering as a warning that the hit
+list merges two terms. Some forms are recorded and deliberately never
+searched — `Not`, `Natur`, `Tod`, `Interpretation` and nine others are
+ordinary English or fire inside it — so never paste a term into
+`search_terms` that `--expand` withheld. Widening `search_terms` also widens what
+`absent_terms` defaults to, so it is a judgement - operations P9.
 
 **Hua IV is six strata, not one date.** 1912 draft, 1915 rework, two
 Stein copies, the Landgrebe typescript, Husserl's insertions to 1928 —
