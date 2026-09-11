@@ -1,0 +1,57 @@
+{
+  "schema_version": 1,
+  "theme": "fundierung",
+  "commentary": "derrida-introduction-a-lorigine-de-la-geometrie-commentary",
+  "source_sha256": "d88dc07ec83bdabc771b2e7ffa2f60764136bc0f531626ed13e58223d20ca693",
+  "extracted_at": "2026-09-11",
+  "extractor": {
+    "agent": "claude-code",
+    "prompt": "Extract founding relations and foundational structures in Derrida's Introduction to Husserl's Origin of Geometry, focusing on how higher-order objectivities (idealities) are constituted through founding acts and depend on pre-given strata.",
+    "note": "Partial extraction covering section II (¶¶23-64) which develops the methodological foundations for Husserl's phenomenology of origin. Focuses on the doctrine of founding relations between proto-idealizations and perceptual ground, the necessity of pre-geometrical strata, the singularity of founding acts, and tradition as the medium of historical foundation. Not covered: sections III-VIII on specific Husserlian and Kantian developments."
+  },
+  "coverage": "partial",
+  "coverage_note": "Covers section II on methodological precautions and the doctrine of intentional history, particularly ¶¶27-28 (founded sense vs. factual rootedness), ¶¶40-48 (proto-idealizations and founding on perceptual substrate), ¶¶50-56 (founding acts and eidetic singularities), ¶57 (tradition as founding medium), and ¶63 (independence and dependence structure of ideal validity).",
+  "units": [
+    {
+      "id": "fundierung/derrida/001",
+      "locator": "derrida-introduction-a-lorigine-de-la-geometrie-commentary#h2-ii",
+      "term": "Proto-idealization (founded on perceptual substrate)",
+      "status": "presupposed",
+      "claim": "Ideal geometric formations arise constitutively through proto-idealizations founded on the substrate of real, effectively perceived sensory experience.",
+      "quote": "proto-idealizations on the substrate of a real, effectively perceived world"
+    },
+    {
+      "id": "fundierung/derrida/002",
+      "locator": "derrida-introduction-a-lorigine-de-la-geometrie-commentary#h2-ii",
+      "term": "Pre-geometrical ground (founding stratum)",
+      "status": "presupposed",
+      "claim": "The originary constitution of geometry necessarily presupposes and is founded upon a pre-geometrical stratum of sensory experience and practical measurement.",
+      "quote": "*ground* (*sol*) of *pre-geometrical experience*"
+    },
+    {
+      "id": "fundierung/derrida/003",
+      "locator": "derrida-introduction-a-lorigine-de-la-geometrie-commentary#h2-ii",
+      "term": "Founding acts (instituting ideal signification)",
+      "status": "presupposed",
+      "claim": "The singular founding acts that institute the sense of ideal objectivities are irreplaceable and foundational to all higher-order ideal signification.",
+      "quote": "the singularities of origins are those of the founding acts of all ideal signification"
+    },
+    {
+      "id": "fundierung/derrida/004",
+      "locator": "derrida-introduction-a-lorigine-de-la-geometrie-commentary#h2-ii",
+      "term": "Tradition (founding medium of sense)",
+      "status": "presupposed",
+      "claim": "Tradition functions as the necessary constitutive medium through which founding acts are reactivated and ideal sense endures and circulates across time.",
+      "quote": "tradition, as the ether of historical perception, then becomes necessary"
+    },
+    {
+      "id": "fundierung/derrida/005",
+      "locator": "derrida-introduction-a-lorigine-de-la-geometrie-commentary#h2-ii",
+      "term": "Ideal validity (founded yet normatively independent)",
+      "status": "presupposed",
+      "claim": "Higher-order objectivities possess normative validity independent of empirical historical transmission yet depend constitutively on founding intentional-historical acts.",
+      "quote": "ideal validity is independent of factual transmission"
+    }
+  ],
+  "absences": []
+}

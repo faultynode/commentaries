@@ -6,35 +6,35 @@
   "extracted_at": "2026-09-11",
   "extractor": {
     "agent": "claude-code",
-    "prompt": "Extract foundational structures and founding relations in Henry's phenomenology of manifestation, focusing on how higher-order objectivities emerge through immanent self-relation rather than transcendent constitution.",
-    "note": "Partial extraction covering §§37 and 42-43. Henry distinguishes between transcendent founding (where freedom projects horizons) and immanent founding (where life receives itself). Untouched: §§54-57 on affectivity, §§31-36 on transcendence/immanence contrast, sections on embodiment and concrete manifestation."
+    "prompt": "Extract foundational structures in Henry's phenomenology of manifestation, focusing on the dédoublement of situation and immanent founding.",
+    "note": "Partial extraction covering §§37 and 42-43. Henry's distinction between transcendent founding (freedom projects horizons) and immanent founding (life receives itself). Untouched: §§54-57 on affectivity, sections on embodiment and concrete manifestation."
   },
   "coverage": "partial",
-  "coverage_note": "Covers Henry's account of the structural difference between 'a situation' (pragmatic, transcendently founded) and 'being-in-situation' (ontologically founding, impossible to found from transcendence). Also covers the internal structure of immanence as the exclusion of horizonal constitution and the self-receiving character of life. Partially read: dense material on Heidegger's Nichtigkeit, the role of affectivity, and Henry's critique of freedom; unread: Sections II and IV material on concrete manifestation and affective tonalities.",
+  "coverage_note": "Covers §37 on the internal structure of immanence (what excludes transcendence from the essence) and §42 on the ontological determination of situation (the structural dédoublement). Focused on founding relations between transcendence and immanence, freedom and thrownness.",
   "units": [
     {
       "id": "fundierung/henry/001",
       "locator": "henry-the-essence-of-manifestation-commentary#h2-s-42-the-ontological-determination-of-the-essence-of-situation-as-immanence-and",
       "term": "Fundierung (dédoublement of situation)",
       "status": "presupposed",
-      "claim": "Situation structurally bifurcates: transcendence founds particular pragmatic situations but not the structural fact of being-situated, which is imposed on transcendence from outside itself.",
-      "quote": "In investment, transcendence founds each time *a situation*, not *the fact for it of finding itself in this situation*. In this fact, however, resides the essence of situation — *not in the situation itself, but in the fact of finding oneself thus in the situation*, in such a way that this coming does not depend on transcendence but is imposed on it."
+      "claim": "Situation bifurcates: transcendence founds particular pragmatic situations but not the structural fact of being-situated, which is imposed on transcendence from a non-transcendent ground.",
+      "quote": "*to be situated means, for transcendence, not to be the foundation of its situation*"
     },
     {
       "id": "fundierung/henry/002",
       "locator": "henry-the-essence-of-manifestation-commentary#h2-s-37-the-internal-structure-of-immanence",
-      "term": "Immanence (structural exclusion of transcendence)",
+      "term": "Immanence (structural exclusion founding)",
       "status": "presupposed",
-      "claim": "The internal structure of immanence excludes transcendence ontologically: no opposition, representation, distance, or division exists in the essence; the absence of transcendence is the essence's own internal nature.",
-      "quote": "*It is in the essence itself that there is nothing transcendent; it is in the essence — in its internal nature — that the thought of exclusion penetrates.* *In the essence itself, there is nothing exterior, nothing foreign*."
+      "claim": "The internal structure of immanence excludes transcendence ontologically: no opposition, representation, distance, or division exists in the essence itself.",
+      "quote": "*It is in the essence itself that there is nothing transcendent*"
     },
     {
       "id": "fundierung/henry/003",
       "locator": "henry-the-essence-of-manifestation-commentary#h2-s-37-the-internal-structure-of-immanence",
-      "term": "Life (self-receiving and self-constitution)",
+      "term": "Life (founded self-constitution)",
       "status": "presupposed",
-      "claim": "Life is the unity of receiver and received: to be oneself what one receives, with receiver and received identical in immediate self-presence, constitutes the immanent structure founding all objectivities.",
-      "quote": "They do not *become* it; *they are it* — and that since always, because, since always, this is what they are — what they receive insofar precisely as *they are themselves what they receive*."
+      "claim": "Life constitutes itself through a founding structure of self-reception where the receiver and received are identical: to be oneself what one receives.",
+      "quote": "*To be oneself what one receives*"
     }
   ],
   "absences": []

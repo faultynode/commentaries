@@ -1,0 +1,33 @@
+{
+  "schema_version": 1,
+  "theme": "fundierung",
+  "commentary": "bernet-la-vie-du-sujet-commentary",
+  "source_sha256": "4269d26270bb4f610dfccc053738781719d3fd12980aa525092b4633187232af",
+  "extracted_at": "2026-09-11",
+  "extractor": {
+    "agent": "claude-code",
+    "prompt": "Extract foundational structures and founding relations in Bernet's phenomenology of the noema.",
+    "note": "Partial extraction on the noema as ideal signification of a judgment (pp. 81-92). Focuses on how noematic signification is founded on punctual acts and how ideal identity emerges through synthesis."
+  },
+  "coverage": "partial",
+  "coverage_note": "Covers section 'The Noema as Ideal Signification of a Judgment' on founding relations between noetic acts and noematic significations.",
+  "units": [
+    {
+      "id": "fundierung/bernet/001",
+      "locator": "bernet-la-vie-du-sujet-commentary#h4-the-noema-as-ideal-signification-of-a-judgment",
+      "term": "Noematic signification (founded structure)",
+      "status": "presupposed",
+      "claim": "Noematic signification is more independent of the particular act than the perceived, because it is not essentially tied to the punctual act's spatiotemporal particularity.",
+      "quote": "the said as such can be understood independently of any relation to the punctual intention of the speaker"
+    },
+    {
+      "id": "fundierung/bernet/002",
+      "locator": "bernet-la-vie-du-sujet-commentary#h4-the-noema-as-ideal-signification-of-a-judgment",
+      "term": "Synthesis of identification (founding ideal identity)",
+      "status": "presupposed",
+      "claim": "Ideal identity requires synthesis of identification across multiple acts; consciousness of identity presupposes this synthesis.",
+      "quote": "consciousness of an identity presupposes a synthesis of identification"
+    }
+  ],
+  "absences": []
+}
