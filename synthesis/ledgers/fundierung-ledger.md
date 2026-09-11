@@ -4,7 +4,45 @@
 
 *Husserl's account of how complex objectivities (states of affairs, values, meanings) are founded on and constituted through more basic entities—a foundational doctrine running through Logical Investigations (especially the Sixth Investigation), Ideas I Part 3, and Thing and Space. The doctrine holds that some objects depend asymmetrically on others for their existence (dependent parts cannot exist alone; independent parts can), and that higher-order objectivities emerge through founding relations between strata of objects. Henry's phenomenology of manifestation and Marion's donation all work substantially with founding structures, making this theme particularly dense in French phenomenology. Watch for ambiguous 'function' in mathematical contexts or psychological functions; the philosophical sense concerns the structural role of an object in constituting a higher-order whole.*
 
-10 units and 0 recorded absences from 3 commentaries.
+16 units and 0 recorded absences from 4 commentaries.
+
+## Primary corpus, by composition or delivery date
+
+### 1907 - Husserl's Thing and Space (1907)
+
+`husserl-thing-and-space-commentary`
+
+- **presupposed** · `fundierung/husserl-thing-space/001` · *Foundation of higher constitutive problems*
+  Phenomenology of straightforward perceptual experience provides the necessary foundation for higher constitutive problems of scientific reality, not merely a preliminary exercise.
+  `husserl-thing-and-space-commentary#h3-s1-the-world-of-natural-experience-and-the-world-of-scientific-theory` · [§1. The world of natural experience and the world of scientific theory](https://faultynode.github.io/commentaries/commentaries/husserl/husserl-thing-and-space-commentary.html#the-world-of-natural-experience-and-the-world-of-scientific-theory)
+  > the foundation without which the higher constitutive problems cannot even be posed
+
+- **presupposed** · `fundierung/husserl-thing-space/002` · *Layered constitution (higher strata building on lower)*
+  Higher constitutive strata of perceptual and scientific experience asymmetrically presuppose and are built upon lower strata of immediate sensory experience.
+  `husserl-thing-and-space-commentary#h3-s1-the-world-of-natural-experience-and-the-world-of-scientific-theory` · [§1. The world of natural experience and the world of scientific theory](https://faultynode.github.io/commentaries/commentaries/husserl/husserl-thing-and-space-commentary.html#the-world-of-natural-experience-and-the-world-of-scientific-theory)
+  > the higher constitutive strata presuppose and build upon the lower, so that clarity about perception is a necessary condition for any future phenomenology of scientific cognition
+
+- **presupposed** · `fundierung/husserl-thing-space/003` · *Restricted lowest stratum of experience*
+  Investigation proceeds from the lowest stratum of perceptual constitution, which provides the foundation upon which all higher theoretically mediated cognition must build.
+  `husserl-thing-and-space-commentary#h3-s1-the-world-of-natural-experience-and-the-world-of-scientific-theory` · [§1. The world of natural experience and the world of scientific theory](https://faultynode.github.io/commentaries/commentaries/husserl/husserl-thing-and-space-commentary.html#the-world-of-natural-experience-and-the-world-of-scientific-theory)
+  > The lectures will address only the lowest stratum of experiential givenness — perceptual constitution prior to all deduction, induction, and higher theoretical cognition
+
+- **presupposed** · `fundierung/husserl-thing-space/004` · *Presence in the flesh (foundational concept)*
+  Presence in the flesh is the foundational phenomenological characteristic that distinguishes perception from all other modes of consciousness and grounds all subsequent constitutional analysis.
+  `husserl-thing-and-space-commentary#h3-s4-intentionality-as-the-essential-determination-of-perception` · [§4. Intentionality as the essential determination of perception](https://faultynode.github.io/commentaries/commentaries/husserl/husserl-thing-and-space-commentary.html#intentionality-as-the-essential-determination-of-perception)
+  > §4 provides the foundational concept of the entire lectures: presence in the flesh
+
+- **presupposed** · `fundierung/husserl-thing-space/005` · *Appearance-stratum as foundation of doxic stratum*
+  The appearance-stratum (pure presence-in-the-flesh) is the constant, foundational element underlying all doxic variations (belief, doubt, disbelief), which form a higher stratum built upon it.
+  `husserl-thing-and-space-commentary#h3-s5-presence-in-the-flesh-and-belief-perception-perzeption-and-position-taking` · [§5. Presence in the flesh and belief. Perception \[Perzeption\] and position-taking](https://faultynode.github.io/commentaries/commentaries/husserl/husserl-thing-and-space-commentary.html#presence-in-the-flesh-and-belief-perception-perzeption-and-position-taking)
+  > presence in the flesh is the *constant* element across all the doxic variations
+
+- **presupposed** · `fundierung/husserl-thing-space/006` · *Real vs. intentional content (foundational distinction)*
+  The distinction between real content genuinely belonging to perception and intentional content belonging to the object as presented grounds the entire analysis of thing-constitution.
+  `husserl-thing-and-space-commentary#h3-s6-assertions-about-perceptions-and-assertions-about-perceived-objects-real-reel` · [§6. Assertions about perceptions and assertions about perceived objects. Real \[reell\] and intentional components of perception](https://faultynode.github.io/commentaries/commentaries/husserl/husserl-thing-and-space-commentary.html#assertions-about-perceptions-and-assertions-about-perceived-objects-real-reell-and-intentional-components-of-perception)
+  > the conceptual axis around which the entire subsequent analysis of thing-constitution will turn
+
+*Partial pass: Covers Introduction (¶¶1-48) establishing foundational program, and foundational sections (¶¶49-190) on how perception as appearance-stratum grounds doxic position-takings and how perceptual manifolds are constituted through kinaesthetic motivation. Focused on the doctrine of layered constitution where each stratum presupposes and is built upon lower strata.*
 
 ## Reception layer
 
@@ -86,7 +124,6 @@
 
 *Where the theme's terms occur but no extraction pass has run. Silence in the sections above is silence about these files, not evidence of absence in them.*
 
-- `husserl-thing-and-space-commentary` - 788 term hits, no record
 - `husserliana-3-ideas-i-parts-3-4-commentary` - 779 term hits, no record
 - `husserliana-19-2-sixth-logical-investigation-commentary` - 728 term hits, no record
 - `heidegger-sein-und-zeit-commentary` - 624 term hits, no record

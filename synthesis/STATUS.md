@@ -8,17 +8,17 @@ Corpus: **53 commentaries**, 2,934,474 words, 3902 sections indexed in `synthesi
 
 ### fundierung - founding of higher-order objectivities
 
-3 commentaries extracted · 10 units · 0 absences · 3 partial
+4 commentaries extracted · 16 units · 0 absences · 4 partial
 
 Next candidates, by term density:
 
-- [ ] `husserl-thing-and-space-commentary` (1907) - 788 hits
 - [ ] `husserliana-3-ideas-i-parts-3-4-commentary` (undated) - 779 hits
 - [ ] `husserliana-19-2-sixth-logical-investigation-commentary` (undated) - 728 hits
 - [ ] `heidegger-sein-und-zeit-commentary` (1927) - 624 hits
 - [ ] `husserliana-19-1-fifth-logical-investigation-commentary` (1901) - 578 hits
 - [ ] `husserliana-43-2-studien-zur-struktur-des-bewusstseins-commentary` (undated) - 377 hits
-- ... 44 more; see `synthesis_query.py --theme fundierung`
+- [ ] `lacan-seminar-11-the-four-fundamental-concepts-of-psychoanalysis-commentary` (undated) - 370 hits
+- ... 43 more; see `synthesis_query.py --theme fundierung`
 
 ### intentionalitaet - intentionality
 
