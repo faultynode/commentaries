@@ -98,6 +98,24 @@
         "Destruktion", "destruction"
       ],
       "note": "Core distinction: Husserl's phenomenological reduction as method (epoché, transcendental-methodical standpoint) versus Heidegger's destruction (Destruktion) as dismantling of philosophical tradition—both critical for phenomenological inquiry but different aims and procedures. Translation variants matter: 'epoché' vs 'bracketing' both appear in English commentaries. Watch for ambiguous uses of 'reduction' in mathematical or logical contexts; term carries significant density in Ideas I commentary and Cartesian Meditations. Bernet and Derrida commentaries are key secondary sources."
+    },
+    {
+      "id": "fundierung",
+      "english": "founding of higher-order objectivities",
+      "glossary_terms": ["Fundierung", "höhere Objectivität", "Sachverhalt", "Funktion"],
+      "search_terms": [
+        "Fundierung", "fundiert", "Funktion", "höhere Objectivität",
+        "founding", "founded", "foundation", "function", "higher objectivity", "higher-order object",
+        "state of affairs", "Sachverhalt",
+        "stratum", "Schicht", "layer",
+        "part and whole", "Ganze", "Ganzes",
+        "dependent", "independence", "independent",
+        "object constitution", "constituted object",
+        "ideal object", "ideal objectivity",
+        "content", "Gehalt",
+        "manifold", "Mannigfaltigkeit"
+      ],
+      "note": "Husserl's account of how complex objectivities (states of affairs, values, meanings) are founded on and constituted through more basic entities—a foundational doctrine running through Logical Investigations (especially the Sixth Investigation), Ideas I Part 3, and Thing and Space. The doctrine holds that some objects depend asymmetrically on others for their existence (dependent parts cannot exist alone; independent parts can), and that higher-order objectivities emerge through founding relations between strata of objects. Henry's phenomenology of manifestation and Marion's donation all work substantially with founding structures, making this theme particularly dense in French phenomenology. Watch for ambiguous 'function' in mathematical contexts or psychological functions; the philosophical sense concerns the structural role of an object in constituting a higher-order whole."
     }
   ]
 }
