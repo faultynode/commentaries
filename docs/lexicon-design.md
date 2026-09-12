@@ -78,7 +78,7 @@ The dotted line back to the commentaries is the part worth noticing. A
 rendering can be *attested* — a commentary glossed the term itself, in a
 named section, and the entry records where. That is the same move as the
 quote check, applied to a dictionary entry, and it is why the file
-carries 112 attested renderings out of 674.
+carries 112 attested renderings out of 676.
 
 ## 3. Data model
 
@@ -107,7 +107,7 @@ single rendering, which looks circular and is not: it records that the
 headword travels under itself. What such an entry cannot do is the thing
 a German entry does best. There is no second spelling to disambiguate a
 hit, so every ambiguity has to be settled by `absent_terms` at extraction
-time (CLAUDE.md rule 5) rather than by the term list. Eighteen of the 534
+time (CLAUDE.md rule 5) rather than by the term list. Eighteen of the 535
 entries are of this kind.
 
 ## 4. Design decisions
@@ -282,9 +282,9 @@ cheap enough to actually run.
 | `corpus` | the commentaries themselves | 112 renderings, each with a locator, each checked |
 | `repo-registry` | `themes.json`, `synthesis_query.py`, `commentaries/CLAUDE.md` | 45, the pre-lexicon seed |
 | `dahlstrom-2013` | Dahlstrom, *The Heidegger Dictionary* (Bloomsbury, 2013) | 242 |
-| `moran-cohen-2012` | Moran and Cohen, *The Husserl Dictionary* (Continuum, 2012) | 275 |
+| `moran-cohen-2012` | Moran and Cohen, *The Husserl Dictionary* (Continuum, 2012) | 277 |
 
-534 entries — 497 German, 18 English, 12 Greek, 6 Latin, 1 French. Only forms,
+535 entries — 498 German, 18 English, 12 Greek, 6 Latin, 1 French. Only forms,
 renderings and cross-references are taken. No definition text is
 reproduced — not in an entry, not in a note, not in a gloss. The books
 stay in [faultynode/sources](https://github.com/faultynode/sources) or
@@ -323,10 +323,10 @@ of keying entries on the headword rather than on a book's layout.
    *interpretation*, `Grund`/`Vernunft` both *reason*), then 20 more once
    Husserl's vocabulary landed beside Heidegger's — `Einklammerung` and
    `Epoché` both *bracketing*, `Gegenständlichkeit` and `Objektivität`
-   both *objectivity*, `Erkennen` and `Wissen` both *knowing*. 58 entries
+   both *objectivity*, `Erkennen` and `Wissen` both *knowing*. 60 entries
    now carry a `contrast_with`. The lexicon says the collision exists and
    says nothing about which term a passage means.
-4. **Most of a dictionary is not about this corpus.** 205 of the 534
+4. **Most of a dictionary is not about this corpus.** 208 of the 535
    headwords occur in no commentary here. They are kept — a term registry
    for an author is a coherent object, and a partial import invites a
    confused second one — and they rank last in `--candidates`, which is
@@ -351,6 +351,14 @@ a heading pattern *fails* on is a two-minute check and it is what found
 these. And the failure is per-book, not general — the same check over
 Dahlstrom matched all 171 of his headings, because his layout puts every
 heading on a line of its own.
+
+A heading can also carry more than one parenthetical, and a pattern that
+takes the span between the first `(` and the last `)` swallows the
+English in between: Moran's `Judgement (Urteil), judging (Urteilen)`
+became a form spelled `Urteil)` beside one spelled `judging (Urteilen`.
+Three entries were built that way. Stray brackets in a form or rendering
+are the signature, they are one `grep` away, and finding none afterwards
+is what says the file is clean.
 
 Reading the rejected lines a second time, for the headwords with no
 German parenthetical, found three more groups. Entries whose German the
@@ -390,7 +398,7 @@ him, which is the coverage map for the commentary nobody has written.
 
 ## 7. Performance
 
-Whole lexicon, 534 entries, against 53 commentaries and 2.9 million words:
+Whole lexicon, 535 entries, against 53 commentaries and 2.9 million words:
 
 | Mode | Time |
 |---|---|
@@ -401,7 +409,7 @@ Whole lexicon, 534 entries, against 53 commentaries and 2.9 million words:
 | `--attest`, everything | 19.5 s |
 
 `--attest` over the whole file counts every registered term against every
-document: 65,773 term-document pairs, and 42 s written the obvious way at
+document: 69,801 term-document pairs, and 42 s written the obvious way at
 a twelfth of the current size. The matcher's pattern is a literal with a
 left-hand word boundary, so the occurrences can be found with `str.find`
 and filtered on the preceding character instead of scanned for with a

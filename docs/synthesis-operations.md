@@ -307,7 +307,7 @@ rank in `--candidates` on hits from the commentaries that discuss him, and
 that ranking is the coverage map for the commentary nobody has written.
 
 Three things a bulk import always needs, learned from the first one
-(Dahlstrom's Heidegger and Moran and Cohen's Husserl, 534 headwords
+(Dahlstrom's Heidegger and Moran and Cohen's Husserl, 535 headwords
 between them — see [lexicon-design.md](lexicon-design.md) §6):
 
 - **Translator divergences are data.** Where the reference work marks a
@@ -324,6 +324,10 @@ between them — see [lexicon-design.md](lexicon-design.md) §6):
   one whose headword is Latin or Greek, an English concept for
   `language: "en"`, or a pure redirect that belongs on another entry as a
   rendering.
+- **Grep the result for stray brackets.** A heading with two
+  parentheticals defeats a pattern that reads from the first `(` to the
+  last `)`, and the wreckage shows up as a form containing `(` or `)`.
+  Finding none is the check that says the extraction is clean.
 - **Check any form you derive rather than read.** Stripping the article
   off `das Man` produced `Man`, which is 87% noise; the same rule on
   `die natürliche Einstellung` is exactly right. A derived form gets the

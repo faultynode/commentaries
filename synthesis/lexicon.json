@@ -123,7 +123,8 @@
           "english": "Absolute grounding",
           "source": "moran-cohen-2012"
         }
-      ]
+      ],
+      "theme": "fundierung"
     },
     {
       "id": "absolute-gegebenheit",
@@ -3442,7 +3443,8 @@
           "english": "Foundation",
           "source": "moran-cohen-2012"
         }
-      ]
+      ],
+      "theme": "fundierung"
     },
     {
       "id": "fungierende-subjektivitaet",
@@ -3604,7 +3606,8 @@
       "contrast_with": [
         "gegenstaendigkeit",
         "objektivitaet"
-      ]
+      ],
+      "theme": "fundierung"
     },
     {
       "id": "gegenstaendlose-vorstellungen",
@@ -3682,7 +3685,8 @@
           "source": "corpus",
           "locator": "heidegger-ga-61-phenomenological-interpretations-of-aristotle-commentary#h4-b-comportment"
         }
-      ]
+      ],
+      "theme": "fundierung"
     },
     {
       "id": "geheimnis",
@@ -4559,7 +4563,8 @@
           "english": "Ideality",
           "source": "moran-cohen-2012"
         }
-      ]
+      ],
+      "theme": "fundierung"
     },
     {
       "id": "ideation",
@@ -4951,7 +4956,8 @@
           "english": "Categorial intuition",
           "source": "moran-cohen-2012"
         }
-      ]
+      ],
+      "theme": "fundierung"
     },
     {
       "id": "kausalitaet",
@@ -6831,6 +6837,27 @@
       ]
     },
     {
+      "id": "real",
+      "headword": "real",
+      "language": "de",
+      "authors": [
+        "husserl"
+      ],
+      "forms": [
+        "real"
+      ],
+      "renderings": [
+        {
+          "english": "Real",
+          "source": "moran-cohen-2012"
+        }
+      ],
+      "contrast_with": [
+        "reell"
+      ],
+      "note": "Moran prints reell and real as one entry in order to keep them apart: the really-inherent moment of an act against the real of the natural world."
+    },
+    {
       "id": "realismus",
       "headword": "Realismus",
       "language": "de",
@@ -6950,21 +6977,25 @@
       ]
     },
     {
-      "id": "reell-and-real-real",
-      "headword": "reell) and Real (real",
+      "id": "reell",
+      "headword": "reell",
       "language": "de",
       "authors": [
         "husserl"
       ],
       "forms": [
-        "reell) and Real (real"
+        "reell"
       ],
       "renderings": [
         {
           "english": "Reell",
           "source": "moran-cohen-2012"
         }
-      ]
+      ],
+      "contrast_with": [
+        "real"
+      ],
+      "note": "Moran prints reell and real as one entry in order to keep them apart: the really-inherent moment of an act against the real of the natural world."
     },
     {
       "id": "reflexion",
@@ -7202,7 +7233,8 @@
           "source": "corpus",
           "locator": "husserl-erfahrung-und-urteil-commentary#h3-s58-transition-to-a-new-level-of-predicative-achievements-the-preconstitution-of"
         }
-      ]
+      ],
+      "theme": "fundierung"
     },
     {
       "id": "saetze-an-sich",
@@ -8170,7 +8202,8 @@
           "english": "Part",
           "source": "moran-cohen-2012"
         }
-      ]
+      ],
+      "theme": "fundierung"
     },
     {
       "id": "teleologie",
@@ -8978,18 +9011,22 @@
     },
     {
       "id": "urteil",
-      "headword": "Urteil)",
+      "headword": "Urteil",
       "language": "de",
       "authors": [
         "husserl"
       ],
       "forms": [
-        "Urteil)",
-        "judging (Urteilen"
+        "Urteil",
+        "Urteilen"
       ],
       "renderings": [
         {
           "english": "Judgement",
+          "source": "moran-cohen-2012"
+        },
+        {
+          "english": "judging",
           "source": "moran-cohen-2012"
         }
       ]
@@ -9858,14 +9895,14 @@
     },
     {
       "id": "widerstreit",
-      "headword": "Widerstreit)",
+      "headword": "Widerstreit",
       "language": "de",
       "authors": [
         "husserl"
       ],
       "forms": [
-        "Widerstreit)",
-        "(Entäuschung"
+        "Widerstreit",
+        "Entäuschung"
       ],
       "renderings": [
         {
@@ -9875,7 +9912,8 @@
       ],
       "contrast_with": [
         "streit"
-      ]
+      ],
+      "note": "Moran's heading groups Entäuschung under the English headword Conflict without giving it an English of its own, so none is recorded here."
     },
     {
       "id": "wiederholung",
