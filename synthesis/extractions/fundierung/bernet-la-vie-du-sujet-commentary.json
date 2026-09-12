@@ -6,8 +6,9 @@
   "extracted_at": "2026-09-12",
   "extractor": {
     "agent": "claude-code",
+    "model": "claude-opus-5",
     "prompt": "Stage 1 extraction, theme fundierung (founding of higher-order objectivities), one commentary.",
-    "note": "Re-extracted with claude-opus-5. Replaces the 2026-09-11 pass, which took two units from the noema section and did not reach the section on sensible and categorial acts, where the founding doctrine of the Logical Investigations is treated directly."
+    "note": "Replaces the 2026-09-11 pass, which took two units from the noema section and did not reach the section on sensible and categorial acts, where the founding doctrine of the Logical Investigations is treated directly."
   },
   "coverage": "partial",
   "coverage_note": "Scanned 'The Intentionality of Sensible and Categorial Acts' (lines 143-168) and 'The Noema as Ideal Signification of a Judgment' (lines 261-294). The remaining 58 sections, including the chapters on time, hermeneutics and Derrida, are not covered.",

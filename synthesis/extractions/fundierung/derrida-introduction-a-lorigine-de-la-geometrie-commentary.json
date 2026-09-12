@@ -6,8 +6,9 @@
   "extracted_at": "2026-09-12",
   "extractor": {
     "agent": "claude-code",
+    "model": "claude-opus-5",
     "prompt": "Stage 1 extraction, theme fundierung (founding of higher-order objectivities), one commentary.",
-    "note": "Re-extracted with claude-opus-5. Replaces the 2026-09-11 pass, whose coverage note cited paragraph ranges that fell outside the one section its units came from, and whose closing unit quoted step (i) of a three-step dialectic as if it were the commentary's own thesis."
+    "note": "Replaces the 2026-09-11 pass, whose coverage note cited paragraph ranges that fell outside the one section its units came from, and whose closing unit quoted step (i) of a three-step dialectic as if it were the commentary's own thesis."
   },
   "coverage": "partial",
   "coverage_note": "Scanned § II (lines 57-140) and § VII (lines 289-368), the two densest sections for this theme. §§ I, III-VI and VIII-XI are not covered.",

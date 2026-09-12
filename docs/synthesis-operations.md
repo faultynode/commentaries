@@ -73,6 +73,8 @@ Stage 1. One commentary, one theme. Prompt:
 4. **Read the sections in the file, in order,** and write
    `synthesis/extractions/<theme>/<commentary-slug>.json`. Copy quotes;
    never retype them. Locators come from `corpus.json` and nowhere else.
+   Set `extractor.model` to the model running the pass; omit it if you do
+   not know, and never guess it for a record you are only editing.
 
 5. **Record absences.** Where you expected the theme and did not find it,
    with `expected_because`. Set `absent_terms` explicitly when the

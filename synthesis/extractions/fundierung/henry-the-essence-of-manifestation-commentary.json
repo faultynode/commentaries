@@ -6,8 +6,9 @@
   "extracted_at": "2026-09-12",
   "extractor": {
     "agent": "claude-code",
+    "model": "claude-opus-5",
     "prompt": "Stage 1 extraction, theme fundierung (founding of higher-order objectivities), one commentary.",
-    "note": "Re-extracted with claude-opus-5. Replaces the 2026-09-11 pass, which took three units from the densest commentary in the corpus for this theme, and whose unit on life read the passage as self-constitution where the text denies that life becomes what it receives."
+    "note": "Replaces the 2026-09-11 pass, which took three units from the densest commentary in the corpus for this theme, and whose unit on life read the passage as self-constitution where the text denies that life becomes what it receives."
   },
   "coverage": "partial",
   "coverage_note": "Scanned § 30 (lines 1573-1600), § 31 (lines 1601-1636), § 37 (lines 1727-1895) and § 42 (lines 2285-2389). The Introduction, §§ 1-29, 32-36, 38-41 and 43-70 — including the Eckhart sections and Section IV on affectivity — are not covered.",
