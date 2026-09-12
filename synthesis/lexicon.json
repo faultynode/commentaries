@@ -23,7 +23,7 @@
       "id": "moran-cohen-2012",
       "kind": "dictionary",
       "citation": "Dermot Moran and Joseph Cohen, The Husserl Dictionary (London: Continuum, 2012), A-Z entries.",
-      "note": "Headwords and their English renderings only; no definition text is reproduced here or in any file derived from it (docs/lexicon-design.md L4). Keyed the other way round from Dahlstrom - Moran's headword is the English and the German follows in italics - so the renderings are his entry titles."
+      "note": "Headwords and their English renderings only; no definition text is reproduced here or in any file derived from it (docs/lexicon-design.md L4). Keyed the other way round from Dahlstrom - Moran's headword is the English and the German follows in italics - so the renderings are his entry titles. Extracted twice, from two ebook exports of the same book: the first left HTML link markup in the text and the extraction missed seven entries whose body runs on to the heading line. The term pairs themselves were identical in both exports."
     }
   ],
   "entries": [
@@ -1582,6 +1582,24 @@
       ]
     },
     {
+      "id": "der-uninteressierte-zuschauer",
+      "headword": "der uninteressierte Zuschauer",
+      "language": "de",
+      "authors": [
+        "husserl"
+      ],
+      "forms": [
+        "der uninteressierte Zuschauer",
+        "uninteressierte Zuschauer"
+      ],
+      "renderings": [
+        {
+          "english": "Disinterested spectator",
+          "source": "moran-cohen-2012"
+        }
+      ]
+    },
+    {
       "id": "deskriptive-oder-beschreibende-psychologie",
       "headword": "deskriptive oder beschreibende Psychologie",
       "language": "de",
@@ -2137,6 +2155,10 @@
           "english": "Empathy",
           "source": "corpus",
           "locator": "bernet-la-vie-du-sujet-commentary#h4-i"
+        },
+        {
+          "english": "intropathy",
+          "source": "moran-cohen-2012"
         }
       ]
     },
@@ -2664,6 +2686,23 @@
           "english": "Disclosedness",
           "source": "corpus",
           "locator": "heidegger-ga-18-grundbegriffe-der-aristotelischen-philosophie-commentary#h4-b-the-logos-of-the-human-and-the-phone-of-the-animal-as-peculiar-modes-of-being"
+        }
+      ]
+    },
+    {
+      "id": "erste-philosophie",
+      "headword": "erste Philosophie",
+      "language": "de",
+      "authors": [
+        "husserl"
+      ],
+      "forms": [
+        "erste Philosophie"
+      ],
+      "renderings": [
+        {
+          "english": "First philosophy",
+          "source": "moran-cohen-2012"
         }
       ]
     },
@@ -3839,6 +3878,23 @@
         {
           "english": "basic question",
           "source": "dahlstrom-2013"
+        }
+      ]
+    },
+    {
+      "id": "grundlagenkrise",
+      "headword": "Grundlagenkrise",
+      "language": "de",
+      "authors": [
+        "husserl"
+      ],
+      "forms": [
+        "Grundlagenkrise"
+      ],
+      "renderings": [
+        {
+          "english": "Crisis of foundation",
+          "source": "moran-cohen-2012"
         }
       ]
     },
@@ -6601,6 +6657,23 @@
       ]
     },
     {
+      "id": "rueckfragen",
+      "headword": "Rückfragen",
+      "language": "de",
+      "authors": [
+        "husserl"
+      ],
+      "forms": [
+        "Rückfragen"
+      ],
+      "renderings": [
+        {
+          "english": "Questioning back",
+          "source": "moran-cohen-2012"
+        }
+      ]
+    },
+    {
       "id": "ruecksicht",
       "headword": "Rücksicht",
       "language": "de",
@@ -7125,6 +7198,23 @@
       ]
     },
     {
+      "id": "sinnzusammenhang",
+      "headword": "Sinnzusammenhang",
+      "language": "de",
+      "authors": [
+        "husserl"
+      ],
+      "forms": [
+        "Sinnzusammenhang"
+      ],
+      "renderings": [
+        {
+          "english": "Framework of sense",
+          "source": "moran-cohen-2012"
+        }
+      ]
+    },
+    {
       "id": "situation",
       "headword": "Situation",
       "language": "de",
@@ -7558,6 +7648,23 @@
       ]
     },
     {
+      "id": "teleologie",
+      "headword": "Teleologie",
+      "language": "de",
+      "authors": [
+        "husserl"
+      ],
+      "forms": [
+        "Teleologie"
+      ],
+      "renderings": [
+        {
+          "english": "Teleology",
+          "source": "moran-cohen-2012"
+        }
+      ]
+    },
+    {
       "id": "temporalitaet",
       "headword": "Temporalität",
       "language": "de",
@@ -7621,6 +7728,27 @@
           "source": "moran-cohen-2012"
         }
       ]
+    },
+    {
+      "id": "thesis",
+      "headword": "Thesis",
+      "language": "grc",
+      "authors": [
+        "husserl"
+      ],
+      "forms": [
+        "Thesis"
+      ],
+      "renderings": [
+        {
+          "english": "Thesis",
+          "source": "moran-cohen-2012"
+        }
+      ],
+      "unsearchable": [
+        "Thesis"
+      ],
+      "note": "Moran's entry for the Greek word Husserl uses for positing. Unsearchable here: 1,126 whole-word hits, all of them the English 'thesis'. Registered so the headword is on record, not so it can be searched."
     },
     {
       "id": "tiere",

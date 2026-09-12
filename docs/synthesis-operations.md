@@ -307,7 +307,7 @@ rank in `--candidates` on hits from the commentaries that discuss him, and
 that ranking is the coverage map for the commentary nobody has written.
 
 Three things a bulk import always needs, learned from the first one
-(Dahlstrom's Heidegger and Moran and Cohen's Husserl, 497 headwords
+(Dahlstrom's Heidegger and Moran and Cohen's Husserl, 505 headwords
 between them — see [lexicon-design.md](lexicon-design.md) §6):
 
 - **Translator divergences are data.** Where the reference work marks a
@@ -316,6 +316,10 @@ between them — see [lexicon-design.md](lexicon-design.md) §6):
 - **Collisions come in bulk and must be recorded, not resolved.**
   `--check` warns for every English word two entries share; the fix is
   `contrast_with` on both, never deleting a rendering.
+- **Count the lines your heading pattern rejects.** Reading them is how
+  you find entries a layout assumption loses — seven Husserl terms were
+  missing until that check was run, all of them entries whose body text
+  runs on to the heading line.
 - **Decide `unsearchable` by looking, not by counting.** Run `--attest`
   over the new entries. A form flagged "fires mostly inside longer
   words" is swamped by something else (`Natur` inside *nature*, `Leib`

@@ -78,7 +78,7 @@ The dotted line back to the commentaries is the part worth noticing. A
 rendering can be *attested* — a commentary glossed the term itself, in a
 named section, and the entry records where. That is the same move as the
 quote check, applied to a dictionary entry, and it is why the file
-carries 71 attested renderings out of 349.
+carries 112 attested renderings out of 635.
 
 ## 3. Data model
 
@@ -263,9 +263,9 @@ cheap enough to actually run.
 | `corpus` | the commentaries themselves | 112 renderings, each with a locator, each checked |
 | `repo-registry` | `themes.json`, `synthesis_query.py`, `commentaries/CLAUDE.md` | 45, the pre-lexicon seed |
 | `dahlstrom-2013` | Dahlstrom, *The Heidegger Dictionary* (Bloomsbury, 2013) | 233 |
-| `moran-cohen-2012` | Moran and Cohen, *The Husserl Dictionary* (Continuum, 2012) | 237 |
+| `moran-cohen-2012` | Moran and Cohen, *The Husserl Dictionary* (Continuum, 2012) | 245 |
 
-497 entries: 299 carry Husserl, 237 Heidegger, some both. Only forms,
+505 entries: 306 carry Husserl, 238 Heidegger, some both. Only forms,
 renderings and cross-references are taken. No definition text is
 reproduced — not in an entry, not in a note, not in a gloss. The books
 stay in [faultynode/sources](https://github.com/faultynode/sources) or
@@ -297,28 +297,50 @@ of keying entries on the headword rather than on a book's layout.
    written. Moran and Cohen mark no translator divergences, so the field
    stays empty for the Husserl half.
 2. **A dictionary poisons a term list if imported naively.** See L8.
-   Nineteen forms cannot be searched here at all, and the worst of them
+   Twenty forms cannot be searched here at all, and the worst of them
    was invisible until the second import: `Leib` is 86% Leibniz.
 3. **Collisions arrive in bulk, and the second import collides with the
    first.** 26 pairs from Dahlstrom (`Auslegung`/`Interpretation` both
    *interpretation*, `Grund`/`Vernunft` both *reason*), then 20 more once
    Husserl's vocabulary landed beside Heidegger's — `Einklammerung` and
    `Epoché` both *bracketing*, `Gegenständlichkeit` and `Objektivität`
-   both *objectivity*, `Erkennen` and `Wissen` both *knowing*. 55 entries
+   both *objectivity*, `Erkennen` and `Wissen` both *knowing*. 56 entries
    now carry a `contrast_with`. The lexicon says the collision exists and
    says nothing about which term a passage means.
-4. **Most of a dictionary is not about this corpus.** 194 of the 497
+4. **Most of a dictionary is not about this corpus.** 199 of the 505
    headwords occur in no commentary here. They are kept — a term registry
    for an author is a coherent object, and a partial import invites a
    confused second one — and they rank last in `--candidates`, which is
    where an unregistered headword goes to be noticed.
+
+### A book can be extracted twice and differ
+
+The Husserl dictionary arrived a second time as a cleaner ebook export —
+the same text with its HTML link markup flattened. The term pairs were
+byte-identical, 303 either way, but the diff exposed a defect in the
+first extraction rather than in the book: Moran and Cohen sometimes run
+an entry's body text on to the heading line, and a heading regex that
+required the line to end after the bold skipped those entries outright.
+Seven terms were missing — `Grundlagenkrise`, `der uninteressierte
+Zuschauer`, `erste Philosophie`, `Sinnzusammenhang`, `Rückfragen`,
+`Teleologie`, `Thesis` — along with *intropathy*, the second half of the
+headword "Empathy or intropathy".
+
+Two things follow. A layout assumption is worth testing against the lines
+it rejects, not only the ones it accepts: counting the bold-initial lines
+a heading pattern *fails* on is a two-minute check and it is what found
+these. And the failure is per-book, not general — the same check over
+Dahlstrom matched all 171 of his headings, because his layout puts every
+heading on a line of its own.
 
 ### Adding the next one
 
 1. Keep the book out of the repo (as above).
 2. Add it to `sources[]` with `kind: "dictionary"` and a full citation.
 3. Extract headwords, forms and renderings. Nothing else. Work out which
-   way round the book is keyed first.
+   way round the book is keyed first, then count the lines your heading
+   pattern rejects and read them — that is where the entries a layout
+   assumption loses will be.
 4. Mine the corpus for the same headwords — `English (Headword)` glosses
    are attested renderings, and they carry locators `--check` can verify.
    This is what makes an entry worth more than the dictionary page it
@@ -336,18 +358,18 @@ him, which is the coverage map for the commentary nobody has written.
 
 ## 7. Performance
 
-Whole lexicon, 497 entries, against 53 commentaries and 2.9 million words:
+Whole lexicon, 505 entries, against 53 commentaries and 2.9 million words:
 
 | Mode | Time |
 |---|---|
 | `--expand` | instant (no corpus scan) |
 | `--check` | 1.2 s |
-| `--candidates` | 9.2 s |
+| `--candidates` | 9.3 s |
 | `--attest`, one theme | under a second |
-| `--attest`, everything | 19.4 s |
+| `--attest`, everything | 19.5 s |
 
 `--attest` over the whole file counts every registered term against every
-document: 64,925 term-document pairs, and 42 s written the obvious way at
+document: 65,773 term-document pairs, and 42 s written the obvious way at
 a twelfth of the current size. The matcher's pattern is a literal with a
 left-hand word boundary, so the occurrences can be found with `str.find`
 and filtered on the preceding character instead of scanned for with a
