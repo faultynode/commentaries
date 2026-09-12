@@ -1,0 +1,81 @@
+{
+  "schema_version": 1,
+  "theme": "fundierung",
+  "commentary": "heidegger-sein-und-zeit-commentary",
+  "source_sha256": "94b7fcaaa8e87cacbb03c01d9c915e9725572cda2849afa28f9a800cc7c63551",
+  "extracted_at": "2026-09-12",
+  "extractor": {
+    "agent": "claude-code",
+    "prompt": "Extract founding relations in Heidegger's Sein und Zeit, focusing on how theoretical knowledge is founded in practical being-in-the-world, how individual equipment is founded in equipmental totalities, how reference-structures are founded in worldhood, and how all comportment is founded in care.",
+    "note": "Partial extraction covering §§13, 15, 18, and 41 on the founding of knowing in being-in-the-world, equipment in equipmental wholes, involvement in world-familiarity, and being-in-the-world in care. Focuses on: (1) theoretical knowing as a founded mode of being-in; (2) individual tools presupposing equipmental totality; (3) reference and involvement grounded in significance and worldhood; (4) worldhood grounded in Dasein's for-the-sake-of-which; (5) all comportments founded in care-structure. Not covered: detailed treatment of falling (§§35-38), mood and understanding (§§29-31), authentic/inauthentic distinction throughout, or care's temporalization (§69)."
+  },
+  "coverage": "partial",
+  "coverage_note": "Extracts from sections 13, 15, 18, and 41 which contain explicit treatment of founded structures: knowing founded in being-in, equipment founded in totality, involvement founded in worldhood, and all being founded in care. Focuses on the asymmetric dependence relationships constitutive of Dasein's being-in-the-world.",
+  "units": [
+    {
+      "id": "fundierung/heidegger-sz/001",
+      "locator": "heidegger-sein-und-zeit-commentary#h5-s-13-the-exemplification-of-being-in-in-a-founded-mode-knowing-the-world",
+      "term": "Knowing as founded in being-in-the-world",
+      "status": "presupposed",
+      "claim": "Knowing is antecedently grounded in an already-being-alongside-the-world; it is a mode of Dasein founded in being-in-the-world, not a primary access that creates a subject-object relation.",
+      "quote": "knowing is antecedently grounded in an already-being-alongside-the-world (Schon-sein-bei-der-Welt)"
+    },
+    {
+      "id": "fundierung/heidegger-sz/002",
+      "locator": "heidegger-sein-und-zeit-commentary#h5-s-13-the-exemplification-of-being-in-in-a-founded-mode-knowing-the-world",
+      "term": "Knowing founded in concernful being-in",
+      "status": "presupposed",
+      "claim": "Knowing wins a new stance of being toward the world, but this founded possibility develops only on the ground of the already-discovered being-in-the-world of concern.",
+      "quote": "knowing is a mode of Dasein founded in being-in-the-world"
+    },
+    {
+      "id": "fundierung/heidegger-sz/003",
+      "locator": "heidegger-sein-und-zeit-commentary#h6-s-15-the-being-of-the-beings-encountered-in-the-environing-world",
+      "term": "Equipment founded in equipmental whole",
+      "status": "presupposed",
+      "claim": "Strictly taken, an equipment never is in isolation; to the being of equipment there always belongs an equipmental whole, within which it can be the specific equipment that it is.",
+      "quote": "Strictly taken, an equipment never \"is\"; to the being of equipment there always belongs an equipmental whole (Zeugganzes)"
+    },
+    {
+      "id": "fundierung/heidegger-sz/004",
+      "locator": "heidegger-sein-und-zeit-commentary#h6-s-15-the-being-of-the-beings-encountered-in-the-environing-world",
+      "term": "Item encountered within prior totality",
+      "status": "presupposed",
+      "claim": "Before any individual item of equipment is encountered, an equipmental totality is in each case already discovered; the item is accessible only as what it is within the foundational whole.",
+      "quote": "Before this individual item, an equipmental totality is in each case already discovered"
+    },
+    {
+      "id": "fundierung/heidegger-sz/005",
+      "locator": "heidegger-sein-und-zeit-commentary#h6-s-18-involvement-and-significance-the-worldhood-of-the-world",
+      "term": "Involvement as foundational mode of being",
+      "status": "presupposed",
+      "claim": "Involvement is the ontologically foundational character of the ready-to-hand, on which reference-structures and suitabilities are in turn founded; properties of beings are bound within suitabilities, which are bound within serviceability.",
+      "quote": "Serviceability (reference) as equipment-constitution, however, is no suitability of a being either, but the being-level condition of the possibility of its being determined by suitabilities"
+    },
+    {
+      "id": "fundierung/heidegger-sz/006",
+      "locator": "heidegger-sein-und-zeit-commentary#h6-s-18-involvement-and-significance-the-worldhood-of-the-world",
+      "term": "Involvement-totality presupposed in encountered involvement",
+      "status": "presupposed",
+      "claim": "Individual involvement is discovered only on the ground of the pre-discoveredness of an involvement-totality; every encountered ready-to-hand pre-discovers the worldly character of the world.",
+      "quote": "Involvement itself, as the being of the ready-to-hand, is in each case discovered only on the ground of the pre-discoveredness of an involvement-totality"
+    },
+    {
+      "id": "fundierung/heidegger-sz/007",
+      "locator": "heidegger-sein-und-zeit-commentary#h6-s-18-involvement-and-significance-the-worldhood-of-the-world",
+      "term": "Significance-chain grounded in Dasein's being",
+      "status": "presupposed",
+      "claim": "The involvement-totality regresses to a primary what-for at which there is no further involvement, which is itself a possibility of Dasein's being whose constitution includes worldhood.",
+      "quote": "the involvement-totality itself goes back ultimately to a what-for at which there is no further involvement — which is itself not a being of the ready-to-hand's mode of being within a world, but a being whose being is determined as being-in-the-world"
+    },
+    {
+      "id": "fundierung/heidegger-sz/008",
+      "locator": "heidegger-sein-und-zeit-commentary#h5-s-41-the-being-of-dasein-as-care",
+      "term": "All comportments founded in care",
+      "status": "presupposed",
+      "claim": "Care, as the original structural totality of Dasein's being-in-the-world, lies existentially a priori before every factical comportment; both theoretical and practical modes of being are founded in care.",
+      "quote": "Care, as original structural totality, lies existentially-a priori \"before\" every factical \"comportment\" and \"situation\" of Dasein"
+    }
+  ],
+  "absences": []
+}
