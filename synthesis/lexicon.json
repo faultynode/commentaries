@@ -1103,17 +1103,37 @@
         {
           "english": "suspension",
           "source": "repo-registry"
-        },
-        {
-          "english": "Epoch",
-          "source": "dahlstrom-2013"
         }
       ],
       "theme": "reduktion",
       "contrast_with": [
+        "epoche-de",
         "reduktion"
       ],
-      "gloss": "The suspension of the natural attitude's positing. Registered separately from the reduction because the commentaries do not always identify the two."
+      "gloss": "The suspension of the natural attitude's positing. Registered separately from the reduction because the commentaries do not always identify the two.",
+      "note": "Also spelled Epoche without the accent - 7 hits in one commentary against 94 for Epoché - and that unaccented spelling is the German word Heidegger uses for an epoch of the history of being, registered as epoche-de. The matcher cannot separate the two."
+    },
+    {
+      "id": "epoche-de",
+      "headword": "Epoche",
+      "language": "de",
+      "authors": [
+        "heidegger"
+      ],
+      "forms": [
+        "Epoche"
+      ],
+      "renderings": [
+        {
+          "english": "epoch",
+          "source": "dahlstrom-2013"
+        }
+      ],
+      "contrast_with": [
+        "epoche"
+      ],
+      "gloss": "Heidegger's epoch in the history of being - the sense in play where a text speaks of epochs of metaphysics or of presence. Not Husserl's epoché, which shares the unaccented spelling.",
+      "note": "Dahlstrom heads the entry 'Epoch (Epoche)' and glosses the German in the same list as Husserl's term, which is how the two were first registered as one. Kept apart here: the id carries the language because both headwords transliterate to the same slug."
     },
     {
       "id": "erde",
