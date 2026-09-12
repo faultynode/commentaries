@@ -4,9 +4,55 @@
 
 *Husserl's account of how complex objectivities (states of affairs, values, meanings) are founded on and constituted through more basic entities—a foundational doctrine running through Logical Investigations (especially the Sixth Investigation), Ideas I Part 3, and Thing and Space. The doctrine holds that some objects depend asymmetrically on others for their existence (dependent parts cannot exist alone; independent parts can), and that higher-order objectivities emerge through founding relations between strata of objects. Henry's phenomenology of manifestation and Marion's donation all work substantially with founding structures, making this theme particularly dense in French phenomenology. Watch for ambiguous 'function' in mathematical contexts or psychological functions; the philosophical sense concerns the structural role of an object in constituting a higher-order whole.*
 
-16 units and 0 recorded absences from 4 commentaries.
+48 units and 0 recorded absences from 8 commentaries.
 
 ## Primary corpus, by composition or delivery date
+
+### 1901 to 1913 - Husserl, Hua 19/1 — Fifth Logical Investigation
+
+`husserliana-19-1-fifth-logical-investigation-commentary`
+
+- **presupposed** · `fundierung/husserliana-19-1/001` · *Judgment as founding act for emotional acts*
+  Joy and other emotional acts are founded on and determined by an underlying judgment-act; the judgment realizes the abstract possibility of the emotion, and without such founding the emotional act cannot exist at all.
+  `husserliana-19-1-fifth-logical-investigation-commentary#h3-s18-simple-and-composite-founding-and-founded-acts` · [§18. Simple and composite, founding and founded acts](https://faultynode.github.io/commentaries/commentaries/husserl/husserliana-19-1-fifth-logical-investigation-commentary.html#simple-and-composite-founding-and-founded-acts)
+  > the judgment is the *founding* act for the joy, it determines its content, *realizes its abstract possibility* — for *without* such founding, joy cannot be at all
+
+- **presupposed** · `fundierung/husserliana-19-1/002` · *Non-objectivating acts founded in presentations*
+  Feeling, desiring, and other non-objectivating act-characters are not full self-sufficient acts but are founded in objectivating presentation-acts; they cannot unfold intentional relation to an objective without intimate interweaving with a presentation.
+  `husserliana-19-1-fifth-logical-investigation-commentary#h3-s23-the-conception-of-matter-as-a-founding-act-of-mere-presenting` · [§23. The conception of matter as a founding act of "mere presenting"](https://faultynode.github.io/commentaries/commentaries/husserl/husserliana-19-1-fifth-logical-investigation-commentary.html#the-conception-of-matter-as-a-founding-act-of-mere-presenting)
+  > These new intentional characters are evidently *not* to be grasped as *full and self-sufficient acts*. They are not thinkable without the objectivating presentation-act, hence *founded* in it.
+
+- **presupposed** · `fundierung/husserliana-19-1/003` · *Desired object unthinkable without underlying presentation*
+  A desired object cannot exist or be thought without being at the same time presented in an act of presenting; this foundational relation is an a priori essential law evident with apodictic evidence.
+  `husserliana-19-1-fifth-logical-investigation-commentary#h3-s23-the-conception-of-matter-as-a-founding-act-of-mere-presenting` · [§23. The conception of matter as a founding act of "mere presenting"](https://faultynode.github.io/commentaries/commentaries/husserl/husserliana-19-1-fifth-logical-investigation-commentary.html#the-conception-of-matter-as-a-founding-act-of-mere-presenting)
+  > A *desired* object (or state of affairs) that were not, in and with the desiring, at the same time *presented*, not only does not actually occur but is *simply unthinkable*.
+
+- **presupposed** · `fundierung/husserliana-19-1/004` · *Presentation in two senses: act and matter*
+  The proposition that every act has a presentation as basis gains clarity through distinguishing two senses of presentation: act-quality (a specific kind of intentional experience) and act-matter (the content-moment that determines objective relation).
+  `husserliana-19-1-fifth-logical-investigation-commentary#h3-s32-a-double-sense-of-the-word-presentation-and-the-supposed-evidence-of-the-pro` · [§32. A double sense of the word presentation and the supposed evidence of the proposition of the foundation of every act by a presentation-act](https://faultynode.github.io/commentaries/commentaries/husserl/husserliana-19-1-fifth-logical-investigation-commentary.html#a-double-sense-of-the-word-presentation-and-the-supposed-evidence-of-the-proposition-of-the-foundation-of-every-act-by-a-presentation-act)
+  > The deception is grounded in the discussed *double sense* of presentation. In its first part the proposition speaks, rightly understood, of presentation in the sense of a certain *act-kind*; in the second, of presentation in the sense of the mere *act-matter*
+
+- **presupposed** · `fundierung/husserliana-19-1/005` · *Nominal acts as modifications of predicative judgments*
+  Nominal acts and complete predicative judgments possess different intentional essences and cannot be identified; the nominal meaning is a phenomenological modification of the judgment, not the judgment itself.
+  `husserliana-19-1-fifth-logical-investigation-commentary#h3-s35-nominal-positing-and-judgment-whether-judgments-can-become-parts-of-nominal` · [§35. Nominal positing and judgment. Whether judgments can become parts of nominal acts at all](https://faultynode.github.io/commentaries/commentaries/husserl/husserliana-19-1-fifth-logical-investigation-commentary.html#nominal-positing-and-judgment-whether-judgments-can-become-parts-of-nominal-acts-at-all)
+  > The difference is so sharply marked that we may not push it aside for theoretical prejudices or for the greater simplicity hoped for in the doctrine of presenting and judging. The *prior judging* is *not yet* the nominal meaning, which only *grows* out of it.
+
+- **presupposed** · `fundierung/husserliana-19-1/006` · *Objectivating acts as genus grounding all acts*
+  All nominally and propositionally functioning acts belong to a comprehensive genus of objectivating acts unified by quality; despite their matter-differences (nominal vs. propositional), they share the same qualitative essence of objectification.
+  `husserliana-19-1-fifth-logical-investigation-commentary#h3-s37-the-aim-of-the-following-investigation-the-concept-of-the-objectivating-act` · [§37. The aim of the following investigation. The concept of the objectivating act](https://faultynode.github.io/commentaries/commentaries/husserl/husserliana-19-1-fifth-logical-investigation-commentary.html#the-aim-of-the-following-investigation-the-concept-of-the-objectivating-act)
+  > the distinction of "basic classes" of acts refers, as is at once clear, *only to the act-qualities*. We must further consider that from our expositions it does *not even* follow that nominal and propositional acts must be *of different quality at all*, let alone of different *quality-genus*.
+
+- **presupposed** · `fundierung/husserliana-19-1/007` · *Qualitative modification: positing into non-positing*
+  Every positing act (perception, memory, assertion) has a qualitative counterpart in a corresponding non-positing act that makes the same objectivity present in identical matter but withholds the being-positing; this modification is non-iterable and creates a unique connection.
+  `husserliana-19-1-fifth-logical-investigation-commentary#h3-s39-presentation-in-the-sense-of-the-objectivating-act-and-its-qualitative-modif` · [§39. Presentation in the sense of the objectivating act and its qualitative modification](https://faultynode.github.io/commentaries/commentaries/husserl/husserliana-19-1-fifth-logical-investigation-commentary.html#presentation-in-the-sense-of-the-objectivating-act-and-its-qualitative-modification)
+  > To every act of *belief* there corresponds, as counterpart, a "mere" presentation, which makes the *same* objectivity present in exactly the same way (on the basis of an *identical matter*) as that act of belief
+
+- **presupposed** · `fundierung/husserliana-19-1/008` · *Objectivating acts as sole bearers of intentional matter*
+  Every intentional experience either is an objectivating act or has one as necessary basis; no act-quality can appropriate its matter except through an objectivating act interwoven into the unified whole, which thereby makes present the objectivity for all other acts.
+  `husserliana-19-1-fifth-logical-investigation-commentary#h3-s41-new-interpretation-of-the-proposition-of-presentation-as-basis-of-all-acts-t` · [§41. New interpretation of the proposition of presentation as basis of all acts. The objectivating act as primary bearer of the matter](https://faultynode.github.io/commentaries/commentaries/husserl/husserliana-19-1-fifth-logical-investigation-commentary.html#new-interpretation-of-the-proposition-of-presentation-as-basis-of-all-acts-the-objectivating-act-as-primary-bearer-of-the-matter)
+  > no *act* — or rather no *act-quality* not itself of the objectivating kind — can *appropriate its matter* except by means of an objectivating act interwoven with it into *one* unified act
+
+*Partial pass: Extracts from central sections on the foundational doctrine of acts (§18 on simple/composite acts, §23 on matter as founding presentation, §32 on double sense of presentation, §35 on nominal-propositional distinction, §37-39 on objectivating acts and modifications, §41-42 on presentation-basis and composite act laws). Focuses on the asymmetric founding relations where higher-order intentional acts (emotions, judgments, nominalizations) depend necessarily on lower acts (perceptions, presentations, objectivations).*
 
 ### 1907 - Husserl's Thing and Space (1907)
 
@@ -43,6 +89,98 @@
   > the conceptual axis around which the entire subsequent analysis of thing-constitution will turn
 
 *Partial pass: Covers Introduction (¶¶1-48) establishing foundational program, and foundational sections (¶¶49-190) on how perception as appearance-stratum grounds doxic position-takings and how perceptual manifolds are constituted through kinaesthetic motivation. Focused on the doctrine of layered constitution where each stratum presupposes and is built upon lower strata.*
+
+### 1921 - Husserl, Hua 19/2 — Sixth Logical Investigation
+
+`husserliana-19-2-sixth-logical-investigation-commentary`
+
+- **presupposed** · `fundierung/husserliana-19-2/001` · *Wish-fulfilment as founded in identification*
+  Wish-fulfilment is founded in an act of identification; this foundational act does not exhaust but only grounds the satisfaction of the wish-quality itself.
+  `husserliana-19-2-sixth-logical-investigation-commentary#h3-s-13-the-synthesis-of-knowledge-as-the-form-of-fulfilment-characteristic-of-the` · [§ 13\. The synthesis of knowledge as the form of fulfilment characteristic of the objectifying acts. Subsumption of the meaning-acts under the class of objectifying acts](https://faultynode.github.io/commentaries/commentaries/husserl/husserliana-19-2-sixth-logical-investigation-commentary.html#the-synthesis-of-knowledge-as-the-form-of-fulfilment-characteristic-of-the-objectifying-acts-subsumption-of-the-meaning-acts-under-the-class-of-objectifying-acts)
+  > this act does not exhaust the wish-fulfilment but precisely only founds it
+
+- **presupposed** · `fundierung/husserliana-19-2/002` · *Wish-quality as higher stratum*
+  Wish-quality is a distinct act-character proper to feeling-intentions that constitutes itself only through founded acts of identification, never through those foundational acts alone.
+  `husserliana-19-2-sixth-logical-investigation-commentary#h3-s-13-the-synthesis-of-knowledge-as-the-form-of-fulfilment-characteristic-of-the` · [§ 13\. The synthesis of knowledge as the form of fulfilment characteristic of the objectifying acts. Subsumption of the meaning-acts under the class of objectifying acts](https://faultynode.github.io/commentaries/commentaries/husserl/husserliana-19-2-sixth-logical-investigation-commentary.html#the-synthesis-of-knowledge-as-the-form-of-fulfilment-characteristic-of-the-objectifying-acts-subsumption-of-the-meaning-acts-under-the-class-of-objectifying-acts)
+  > The self-satisfying of the specific wish-quality is a proper and other-kinded act-character
+
+- **presupposed** · `fundierung/husserliana-19-2/003` · *Sensuous perception as non-founded simple unity*
+  Sensuous perception is a simple, non-founded unity that appears to objects in one stroke without the apparatus of founded or founding acts, even in continuous perception-courses.
+  `husserliana-19-2-sixth-logical-investigation-commentary#h3-s-47-continuation-characterization-of-sensuous-perception-as-simple-perception` · [§ 47\. Continuation. Characterization of sensuous perception as "simple" perception](https://faultynode.github.io/commentaries/commentaries/husserl/husserliana-19-2-sixth-logical-investigation-commentary.html#continuation-characterization-of-sensuous-perception-as-simple-perception)
+  > Its manner of letting the thing appear as present is a simple one; it does not need the apparatus of founding or founded acts
+
+- **presupposed** · `fundierung/husserliana-19-2/004` · *Continuous perception as fusion, not founded act*
+  Continuous perception-course constitutes itself as a phenomenological fusion of partial acts into one unified act, not as a proper founded act built upon those partial perceptions.
+  `husserliana-19-2-sixth-logical-investigation-commentary#h3-s-47-continuation-characterization-of-sensuous-perception-as-simple-perception` · [§ 47\. Continuation. Characterization of sensuous perception as "simple" perception](https://faultynode.github.io/commentaries/commentaries/husserl/husserliana-19-2-sixth-logical-investigation-commentary.html#continuation-characterization-of-sensuous-perception-as-simple-perception)
+  > a fusion of partial acts into one act, not a proper act founded in the partial acts
+
+- **presupposed** · `fundierung/husserliana-19-2/005` · *Categorical form grounded in founding acts themselves*
+  The phenomenological form of acts like identification grounds essentially in the founding acts as such—in what these acts are and contain beyond their sensuous representational contents.
+  `husserliana-19-2-sixth-logical-investigation-commentary#h3-s-57-the-representants-of-the-founding-intuitions-not-immediately-connected-thro` · [§ 57\. The representants of the founding intuitions not immediately connected through the representants of the synthetic form](https://faultynode.github.io/commentaries/commentaries/husserl/husserliana-19-2-sixth-logical-investigation-commentary.html#the-representants-of-the-founding-intuitions-not-immediately-connected-through-the-representants-of-the-synthetic-form)
+  > the phenomenological form of the identification grounds essentially in the founding acts as such — hence grounds in what these are and contain beyond their representing contents
+
+- **presupposed** · `fundierung/husserliana-19-2/006` · *Synthesis connects intentional essences, not representational contents*
+  Categorial synthesis connects intentional matters and essences of founding acts, not their sensuous representational contents, which remain extra-essential elements.
+  `husserliana-19-2-sixth-logical-investigation-commentary#h3-s-57-the-representants-of-the-founding-intuitions-not-immediately-connected-thro` · [§ 57\. The representants of the founding intuitions not immediately connected through the representants of the synthetic form](https://faultynode.github.io/commentaries/commentaries/husserl/husserliana-19-2-sixth-logical-investigation-commentary.html#the-representants-of-the-founding-intuitions-not-immediately-connected-through-the-representants-of-the-synthetic-form)
+  > it connects under all circumstances their intentional matters and is in them, in the true sense, founded
+
+- **presupposed** · `fundierung/husserliana-19-2/007` · *Founded act grounded in its generic nature*
+  The being-founded of an act means that the founded act is by its nature possible only as one that builds itself upon acts of the founding genus, with an objective form appearing intuitively only in such founded acts.
+  `husserliana-19-2-sixth-logical-investigation-commentary#h3-s-58-the-relation-of-the-two-distinctions-outer-and-inner-sense-as-well-as-sense` · [§ 58\. The relation of the two distinctions: outer and inner sense as well as sense of \[sensibility\] and sense of category](https://faultynode.github.io/commentaries/commentaries/husserl/husserliana-19-2-sixth-logical-investigation-commentary.html#the-relation-of-the-two-distinctions-outer-and-inner-sense-as-well-as-sense-of-sensibility-and-sense-of-category)
+  > the founded act is, by its nature (i.e. its genus), possible only as one that builds itself upon acts of the genus of the founding ones
+
+- **presupposed** · `fundierung/husserliana-19-2/008` · *Sensuous moments constituting categorial forms*
+  The same sensuous psychic moments that appear as representants in inner perception can, in a founded categorial act, constitute an entirely different categorial representation.
+  `husserliana-19-2-sixth-logical-investigation-commentary#h3-s-58-the-relation-of-the-two-distinctions-outer-and-inner-sense-as-well-as-sense` · [§ 58\. The relation of the two distinctions: outer and inner sense as well as sense of \[sensibility\] and sense of category](https://faultynode.github.io/commentaries/commentaries/husserl/husserliana-19-2-sixth-logical-investigation-commentary.html#the-relation-of-the-two-distinctions-outer-and-inner-sense-as-well-as-sense-of-sensibility-and-sense-of-category)
+  > the same psychic moments which are sensuously given in inner perception (functioning in it thus as sensuous representants) can, in a founded act of the character of categorial perception (or imagination), constitute a categorial form
+
+*Partial pass: Focuses on sections 13-14, 47, 56, and 58 which contain explicit discussions of founding relations. Extracts key passages on: the foundational status of wish-fulfilment in identification, distinction between founded vs. non-founded perception, grounding of categorial forms in foundation-acts, and relationship between sensuous and categorial consciousness.*
+
+### 1927 to 1953 - Sein und Zeit — Commentary
+
+`heidegger-sein-und-zeit-commentary`
+
+- **presupposed** · `fundierung/heidegger-sz/001` · *Knowing as founded in being-in-the-world*
+  Knowing is antecedently grounded in an already-being-alongside-the-world; it is a mode of Dasein founded in being-in-the-world, not a primary access that creates a subject-object relation.
+  `heidegger-sein-und-zeit-commentary#h5-s-13-the-exemplification-of-being-in-in-a-founded-mode-knowing-the-world` · [§ 13. The Exemplification of Being-in in a Founded Mode. Knowing the World](https://faultynode.github.io/commentaries/commentaries/heidegger/heidegger-sein-und-zeit-commentary.html#the-exemplification-of-being-in-in-a-founded-mode-knowing-the-world)
+  > knowing is antecedently grounded in an already-being-alongside-the-world (Schon-sein-bei-der-Welt)
+
+- **presupposed** · `fundierung/heidegger-sz/002` · *Knowing founded in concernful being-in*
+  Knowing wins a new stance of being toward the world, but this founded possibility develops only on the ground of the already-discovered being-in-the-world of concern.
+  `heidegger-sein-und-zeit-commentary#h5-s-13-the-exemplification-of-being-in-in-a-founded-mode-knowing-the-world` · [§ 13. The Exemplification of Being-in in a Founded Mode. Knowing the World](https://faultynode.github.io/commentaries/commentaries/heidegger/heidegger-sein-und-zeit-commentary.html#the-exemplification-of-being-in-in-a-founded-mode-knowing-the-world)
+  > knowing is a mode of Dasein founded in being-in-the-world
+
+- **presupposed** · `fundierung/heidegger-sz/003` · *Equipment founded in equipmental whole*
+  Strictly taken, an equipment never is in isolation; to the being of equipment there always belongs an equipmental whole, within which it can be the specific equipment that it is.
+  `heidegger-sein-und-zeit-commentary#h6-s-15-the-being-of-the-beings-encountered-in-the-environing-world` · [§ 15. The Being of the Beings Encountered in the Environing World](https://faultynode.github.io/commentaries/commentaries/heidegger/heidegger-sein-und-zeit-commentary.html#the-being-of-the-beings-encountered-in-the-environing-world)
+  > Strictly taken, an equipment never "is"; to the being of equipment there always belongs an equipmental whole (Zeugganzes)
+
+- **presupposed** · `fundierung/heidegger-sz/004` · *Item encountered within prior totality*
+  Before any individual item of equipment is encountered, an equipmental totality is in each case already discovered; the item is accessible only as what it is within the foundational whole.
+  `heidegger-sein-und-zeit-commentary#h6-s-15-the-being-of-the-beings-encountered-in-the-environing-world` · [§ 15. The Being of the Beings Encountered in the Environing World](https://faultynode.github.io/commentaries/commentaries/heidegger/heidegger-sein-und-zeit-commentary.html#the-being-of-the-beings-encountered-in-the-environing-world)
+  > Before this individual item, an equipmental totality is in each case already discovered
+
+- **presupposed** · `fundierung/heidegger-sz/005` · *Involvement as foundational mode of being*
+  Involvement is the ontologically foundational character of the ready-to-hand, on which reference-structures and suitabilities are in turn founded; properties of beings are bound within suitabilities, which are bound within serviceability.
+  `heidegger-sein-und-zeit-commentary#h6-s-18-involvement-and-significance-the-worldhood-of-the-world` · [§ 18. Involvement and Significance; the Worldhood of the World](https://faultynode.github.io/commentaries/commentaries/heidegger/heidegger-sein-und-zeit-commentary.html#involvement-and-significance-the-worldhood-of-the-world)
+  > Serviceability (reference) as equipment-constitution, however, is no suitability of a being either, but the being-level condition of the possibility of its being determined by suitabilities
+
+- **presupposed** · `fundierung/heidegger-sz/006` · *Involvement-totality presupposed in encountered involvement*
+  Individual involvement is discovered only on the ground of the pre-discoveredness of an involvement-totality; every encountered ready-to-hand pre-discovers the worldly character of the world.
+  `heidegger-sein-und-zeit-commentary#h6-s-18-involvement-and-significance-the-worldhood-of-the-world` · [§ 18. Involvement and Significance; the Worldhood of the World](https://faultynode.github.io/commentaries/commentaries/heidegger/heidegger-sein-und-zeit-commentary.html#involvement-and-significance-the-worldhood-of-the-world)
+  > Involvement itself, as the being of the ready-to-hand, is in each case discovered only on the ground of the pre-discoveredness of an involvement-totality
+
+- **presupposed** · `fundierung/heidegger-sz/007` · *Significance-chain grounded in Dasein's being*
+  The involvement-totality regresses to a primary what-for at which there is no further involvement, which is itself a possibility of Dasein's being whose constitution includes worldhood.
+  `heidegger-sein-und-zeit-commentary#h6-s-18-involvement-and-significance-the-worldhood-of-the-world` · [§ 18. Involvement and Significance; the Worldhood of the World](https://faultynode.github.io/commentaries/commentaries/heidegger/heidegger-sein-und-zeit-commentary.html#involvement-and-significance-the-worldhood-of-the-world)
+  > the involvement-totality itself goes back ultimately to a what-for at which there is no further involvement — which is itself not a being of the ready-to-hand's mode of being within a world, but a being whose being is determined as being-in-the-world
+
+- **presupposed** · `fundierung/heidegger-sz/008` · *All comportments founded in care*
+  Care, as the original structural totality of Dasein's being-in-the-world, lies existentially a priori before every factical comportment; both theoretical and practical modes of being are founded in care.
+  `heidegger-sein-und-zeit-commentary#h5-s-41-the-being-of-dasein-as-care` · [§ 41. The Being of Dasein as Care](https://faultynode.github.io/commentaries/commentaries/heidegger/heidegger-sein-und-zeit-commentary.html#the-being-of-dasein-as-care)
+  > Care, as original structural totality, lies existentially-a priori "before" every factical "comportment" and "situation" of Dasein
+
+*Partial pass: Extracts from sections 13, 15, 18, and 41 which contain explicit treatment of founded structures: knowing founded in being-in, equipment founded in totality, involvement founded in worldhood, and all being founded in care. Focuses on the asymmetric dependence relationships constitutive of Dasein's being-in-the-world.*
 
 ## Reception layer
 
@@ -120,14 +258,56 @@
 
 *Partial pass: Covers §37 on the internal structure of immanence (what excludes transcendence from the essence) and §42 on the ontological determination of situation (the structural dédoublement). Focused on founding relations between transcendence and immanence, freedom and thrownness.*
 
+### undated - Husserl, Hua 3 — Ideas I, Parts 3–4
+
+`husserliana-3-ideas-i-parts-3-4-commentary`
+
+- **presupposed** · `fundierung/husserliana-3/001` · *Valuing founded on presenting*
+  A valuing act is founded on a presenting act; the valuing-layer is a non-self-sufficient layer that can be added to or removed from the underlying presentation without ceasing to be concretely complete.
+  `husserliana-3-ideas-i-parts-3-4-commentary#h3-s-95-the-analogous-distinctions-in-the-emotional-and-volitional-sphere` · [§ 95\. The Analogous Distinctions in the Emotional and Volitional Sphere](https://faultynode.github.io/commentaries/commentaries/husserl/husserliana-3-ideas-i-parts-3-4-commentary.html#the-analogous-distinctions-in-the-emotional-and-volitional-sphere)
+  > A valuing is founded on a presenting (one values what one presents); the valuing-layer can be added to or removed from the underlying presentation
+
+- **presupposed** · `fundierung/husserliana-3/002` · *Multi-layered intentional structure of feeling*
+  Emotional and volitional acts possess multiple intentional layers: a founding presentation-layer plus a founded valuing- or willing-layer, where the higher layer is non-self-sufficient.
+  `husserliana-3-ideas-i-parts-3-4-commentary#h3-s-95-the-analogous-distinctions-in-the-emotional-and-volitional-sphere` · [§ 95\. The Analogous Distinctions in the Emotional and Volitional Sphere](https://faultynode.github.io/commentaries/commentaries/husserl/husserliana-3-ideas-i-parts-3-4-commentary.html#the-analogous-distinctions-in-the-emotional-and-volitional-sphere)
+  > So these acts are multi-layered: a founding presentation-layer plus a founded valuing- or willing-layer
+
+- **presupposed** · `fundierung/husserliana-3/003` · *Value-objectity implies the mere thing*
+  The value-objectity includes and implies the mere thing as its substrate, constituting a new objective layer by adding value-character to the thing-substrate.
+  `husserliana-3-ideas-i-parts-3-4-commentary#h3-s-95-the-analogous-distinctions-in-the-emotional-and-volitional-sphere` · [§ 95\. The Analogous Distinctions in the Emotional and Volitional Sphere](https://faultynode.github.io/commentaries/commentaries/husserl/husserliana-3-ideas-i-parts-3-4-commentary.html#the-analogous-distinctions-in-the-emotional-and-volitional-sphere)
+  > The value-objectity implies its thing; it brings in, as a new objective layer, the Wertheit
+
+- **presupposed** · `fundierung/husserliana-3/004` · *Analysis restricted to lower stratum of presentations*
+  Initial phenomenological analysis studies only the lower stratum of experience—the simple sensuous presentations—as the necessary foundation before extending to founded (higher) acts of feeling and willing.
+  `husserliana-3-ideas-i-parts-3-4-commentary#h3-s-116-transition-to-new-analyses-the-founded-noeses-and-their-noematic-correlate` · [§ 116\. Transition to New Analyses. The Founded Noeses and their Noematic Correlates](https://faultynode.github.io/commentaries/commentaries/husserl/husserliana-3-ideas-i-parts-3-4-commentary.html#transition-to-new-analyses-the-founded-noeses-and-their-noematic-correlates)
+  > So the analyses so far treated only the lower stratum (the simple sensuous presentations). The task now is to extend to the founded (higher) acts (feeling, willing)
+
+- **presupposed** · `fundierung/husserliana-3/005` · *New sense founded in underlying noesis*
+  Founded acts constitute a new sense-dimension that is founded in and encloses the sense of the underlying noesis, bringing entirely new value-characters and value-objectities to appearance.
+  `husserliana-3-ideas-i-parts-3-4-commentary#h3-s-116-transition-to-new-analyses-the-founded-noeses-and-their-noematic-correlate` · [§ 116\. Transition to New Analyses. The Founded Noeses and their Noematic Correlates](https://faultynode.github.io/commentaries/commentaries/husserl/husserliana-3-ideas-i-parts-3-4-commentary.html#transition-to-new-analyses-the-founded-noeses-and-their-noematic-correlates)
+  > there constitutes itself a new sense, which is founded in that of the underlying noesis, at the same time enclosing it
+
+- **presupposed** · `fundierung/husserliana-3/006` · *Value-objectity as founded on mere thing*
+  The value-object (the artwork, the beautiful thing) is a new founded objectity constituted by founded valuing acts on top of and dependent upon the mere thing.
+  `husserliana-3-ideas-i-parts-3-4-commentary#h3-s-116-transition-to-new-analyses-the-founded-noeses-and-their-noematic-correlate` · [§ 116\. Transition to New Analyses. The Founded Noeses and their Noematic Correlates](https://faultynode.github.io/commentaries/commentaries/husserl/husserliana-3-ideas-i-parts-3-4-commentary.html#transition-to-new-analyses-the-founded-noeses-and-their-noematic-correlates)
+  > with it constitute themselves no new determination-pieces of the mere "things," but values of the things, value-characters (Wertheiten), or concrete value-objectities
+
+- **presupposed** · `fundierung/husserliana-3/007` · *Thing-constitution through strata and stages*
+  The constitution of a transcendental thing is determined by different stages and strata, each constituting its own partial unity that serves as a necessary middle-member for the full constitution of the thing.
+  `husserliana-3-ideas-i-parts-3-4-commentary#h3-s-151-strata-of-the-transcendental-constitution-of-the-thing-supplements` · [§ 151\. Strata of the Transcendental Constitution of the Thing. Supplements](https://faultynode.github.io/commentaries/commentaries/husserl/husserliana-3-ideas-i-parts-3-4-commentary.html#strata-of-the-transcendental-constitution-of-the-thing-supplements)
+  > Every stage and every stratum in the stage is characterized thereby, that it constitutes an own unity, which on its side is necessary middle-member for the full constitution of the thing
+
+- **presupposed** · `fundierung/husserliana-3/008` · *Intersubjective constitution of the objective thing*
+  The intersubjectively-identical thing is a higher-order constitutive unity founded on and constituted through empathy—the experience of other subjects—which unifies the separate perception-manifolds of a plurality of experiencing egos.
+  `husserliana-3-ideas-i-parts-3-4-commentary#h3-s-151-strata-of-the-transcendental-constitution-of-the-thing-supplements` · [§ 151\. Strata of the Transcendental Constitution of the Thing. Supplements](https://faultynode.github.io/commentaries/commentaries/husserl/husserliana-3-ideas-i-parts-3-4-commentary.html#strata-of-the-transcendental-constitution-of-the-thing-supplements)
+  > The intersubjectively-identical thing (the "objective" thing) is a higher-order constitutive unity, constituted through **empathy** (Einfühlung) — the experience of other subjects
+
+*Partial pass: Extracts from sections 95, 96, 116, 117, and 151-152 which contain explicit treatment of founded acts, layered constitution, and the dependence of higher objectivities on lower strata. Focuses on emotional/volitional founding on perception, value-constitution, and transcendental stratification.*
+
 ## Not covered by this ledger
 
 *Where the theme's terms occur but no extraction pass has run. Silence in the sections above is silence about these files, not evidence of absence in them.*
 
-- `husserliana-3-ideas-i-parts-3-4-commentary` - 779 term hits, no record
-- `husserliana-19-2-sixth-logical-investigation-commentary` - 728 term hits, no record
-- `heidegger-sein-und-zeit-commentary` - 624 term hits, no record
-- `husserliana-19-1-fifth-logical-investigation-commentary` - 578 term hits, no record
 - `husserliana-43-2-studien-zur-struktur-des-bewusstseins-commentary` - 377 term hits, no record
 - `lacan-seminar-11-the-four-fundamental-concepts-of-psychoanalysis-commentary` - 370 term hits, no record
 - `henry-philosophie-et-phenomenologie-du-corps-commentary` - 340 term hits, no record

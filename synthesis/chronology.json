@@ -102,6 +102,36 @@
       ]
     },
     {
+      "commentary": "husserliana-19-2-sixth-logical-investigation-commentary",
+      "role": "primary",
+      "status": "resolved",
+      "strata": [
+        {
+          "id": "lu6-b-1921",
+          "label": "Second edition (Logische Untersuchungen II/2, 1921)",
+          "year_start": 1921,
+          "year_end": 1921,
+          "stated_in_commentary": true,
+          "evidence": "opening line: \"A commentary on the text of Husserliana XIX/2 (the running B² text of 1921)\""
+        }
+      ]
+    },
+    {
+      "commentary": "husserliana-3-ideas-i-parts-3-4-commentary",
+      "role": "primary",
+      "status": "unresolved",
+      "strata": [
+        {
+          "id": "hua3-undated",
+          "label": "Date not stated in the commentary",
+          "year_start": null,
+          "year_end": null,
+          "stated_in_commentary": false,
+          "evidence": "Opening frontmatter gives title only; commentary opens directly with §63 without dating the edition or work."
+        }
+      ]
+    },
+    {
       "commentary": "husserliana-4-ideas-ii-commentary",
       "role": "primary",
       "status": "resolved",
