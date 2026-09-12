@@ -307,7 +307,7 @@ rank in `--candidates` on hits from the commentaries that discuss him, and
 that ranking is the coverage map for the commentary nobody has written.
 
 Three things a bulk import always needs, learned from the first one
-(Dahlstrom's Heidegger and Moran and Cohen's Husserl, 505 headwords
+(Dahlstrom's Heidegger and Moran and Cohen's Husserl, 534 headwords
 between them — see [lexicon-design.md](lexicon-design.md) §6):
 
 - **Translator divergences are data.** Where the reference work marks a
@@ -319,7 +319,15 @@ between them — see [lexicon-design.md](lexicon-design.md) §6):
 - **Count the lines your heading pattern rejects.** Reading them is how
   you find entries a layout assumption loses — seven Husserl terms were
   missing until that check was run, all of them entries whose body text
-  runs on to the heading line.
+  runs on to the heading line. Read them twice: a headword with no
+  original-language parenthetical may be one the export's markup broke,
+  one whose headword is Latin or Greek, an English concept for
+  `language: "en"`, or a pure redirect that belongs on another entry as a
+  rendering.
+- **Check any form you derive rather than read.** Stripping the article
+  off `das Man` produced `Man`, which is 87% noise; the same rule on
+  `die natürliche Einstellung` is exactly right. A derived form gets the
+  same `--attest` reading as a printed one.
 - **Decide `unsearchable` by looking, not by counting.** Run `--attest`
   over the new entries. A form flagged "fires mostly inside longer
   words" is swamped by something else (`Natur` inside *nature*, `Leib`

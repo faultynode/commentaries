@@ -78,7 +78,7 @@ The dotted line back to the commentaries is the part worth noticing. A
 rendering can be *attested* — a commentary glossed the term itself, in a
 named section, and the entry records where. That is the same move as the
 quote check, applied to a dictionary entry, and it is why the file
-carries 112 attested renderings out of 635.
+carries 112 attested renderings out of 674.
 
 ## 3. Data model
 
@@ -98,6 +98,17 @@ three entries drifting apart.
 `theme` is optional, and its absence is the point: an entry with no theme
 is a candidate, and `--candidates` ranks those by how much corpus they
 touch.
+
+**An `en` entry has no original-language anchor, and says so.** Some
+headwords in both dictionaries are English concepts with no German behind
+them — *Apophantics*, *Signitive act*, *Philosophical anthropology*. They
+are registered with `language: "en"`, and their single form equals their
+single rendering, which looks circular and is not: it records that the
+headword travels under itself. What such an entry cannot do is the thing
+a German entry does best. There is no second spelling to disambiguate a
+hit, so every ambiguity has to be settled by `absent_terms` at extraction
+time (CLAUDE.md rule 5) rather than by the term list. Eighteen of the 534
+entries are of this kind.
 
 ## 4. Design decisions
 
@@ -216,6 +227,14 @@ else, and `--expand` will not propose them. Three mechanisms:
   `ordinary_english` until the Husserl import found a case that was
   neither ordinary nor English.
 
+A form the registrar creates is as exposed as one the book prints.
+Article-led headwords get an article-less form as well, because a
+commentary writing *natürliche Einstellung* should still be found — but
+the same rule turned `das Man` into `Man`, which fires 7,536 times inside
+*manner*, *manifold* and *manifestation* and a further 1,072 times as the
+English word. The article was the whole of what made that headword
+searchable. Derived forms go through the same reading as printed ones.
+
 The forms stay in `forms`, because they are the term's real forms and an
 `--attest` report should still count them. What they must not do is reach
 `themes.json`, where `absent_terms` defaults to the theme's search terms
@@ -262,10 +281,10 @@ cheap enough to actually run.
 |---|---|---|
 | `corpus` | the commentaries themselves | 112 renderings, each with a locator, each checked |
 | `repo-registry` | `themes.json`, `synthesis_query.py`, `commentaries/CLAUDE.md` | 45, the pre-lexicon seed |
-| `dahlstrom-2013` | Dahlstrom, *The Heidegger Dictionary* (Bloomsbury, 2013) | 233 |
-| `moran-cohen-2012` | Moran and Cohen, *The Husserl Dictionary* (Continuum, 2012) | 245 |
+| `dahlstrom-2013` | Dahlstrom, *The Heidegger Dictionary* (Bloomsbury, 2013) | 242 |
+| `moran-cohen-2012` | Moran and Cohen, *The Husserl Dictionary* (Continuum, 2012) | 275 |
 
-505 entries: 306 carry Husserl, 238 Heidegger, some both. Only forms,
+534 entries — 497 German, 18 English, 12 Greek, 6 Latin, 1 French. Only forms,
 renderings and cross-references are taken. No definition text is
 reproduced — not in an entry, not in a note, not in a gloss. The books
 stay in [faultynode/sources](https://github.com/faultynode/sources) or
@@ -297,17 +316,17 @@ of keying entries on the headword rather than on a book's layout.
    written. Moran and Cohen mark no translator divergences, so the field
    stays empty for the Husserl half.
 2. **A dictionary poisons a term list if imported naively.** See L8.
-   Twenty forms cannot be searched here at all, and the worst of them
+   Twenty-one forms cannot be searched here at all, and the worst of them
    was invisible until the second import: `Leib` is 86% Leibniz.
 3. **Collisions arrive in bulk, and the second import collides with the
    first.** 26 pairs from Dahlstrom (`Auslegung`/`Interpretation` both
    *interpretation*, `Grund`/`Vernunft` both *reason*), then 20 more once
    Husserl's vocabulary landed beside Heidegger's — `Einklammerung` and
    `Epoché` both *bracketing*, `Gegenständlichkeit` and `Objektivität`
-   both *objectivity*, `Erkennen` and `Wissen` both *knowing*. 56 entries
+   both *objectivity*, `Erkennen` and `Wissen` both *knowing*. 58 entries
    now carry a `contrast_with`. The lexicon says the collision exists and
    says nothing about which term a passage means.
-4. **Most of a dictionary is not about this corpus.** 199 of the 505
+4. **Most of a dictionary is not about this corpus.** 205 of the 534
    headwords occur in no commentary here. They are kept — a term registry
    for an author is a coherent object, and a partial import invites a
    confused second one — and they rank last in `--candidates`, which is
@@ -332,6 +351,19 @@ a heading pattern *fails* on is a two-minute check and it is what found
 these. And the failure is per-book, not general — the same check over
 Dahlstrom matched all 171 of his headings, because his layout puts every
 heading on a line of its own.
+
+Reading the rejected lines a second time, for the headwords with no
+German parenthetical, found three more groups. Entries whose German the
+export's stray asterisks had hidden (`Erscheinung, Apparenz` behind
+`*Apparenz***`); entries whose headword is Latin or Greek rather than
+German (`Cogito`, `Epistēmē`, and on Dahlstrom's side `Aletheia`,
+`Logos`, `Moira`); and entries that are English concepts with nothing
+behind them, which is what `language: "en"` is for. Three Dahlstrom
+entries had also been lost to headings the export split across two lines
+— `Seyn`, `Überwindung der Metaphysik`, and a second rendering for `die
+Zukünftigen`. Moran's eleven pure redirects (*Animate body* **See** *lived
+body*) are not entries at all: they are renderings of the entry they point
+at, and six resolved to exactly one target.
 
 ### Adding the next one
 
@@ -358,7 +390,7 @@ him, which is the coverage map for the commentary nobody has written.
 
 ## 7. Performance
 
-Whole lexicon, 505 entries, against 53 commentaries and 2.9 million words:
+Whole lexicon, 534 entries, against 53 commentaries and 2.9 million words:
 
 | Mode | Time |
 |---|---|

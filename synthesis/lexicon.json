@@ -177,6 +177,23 @@
       ]
     },
     {
+      "id": "abstraction",
+      "headword": "Abstraction",
+      "language": "en",
+      "authors": [
+        "husserl"
+      ],
+      "forms": [
+        "Abstraction"
+      ],
+      "renderings": [
+        {
+          "english": "Abstraction",
+          "source": "moran-cohen-2012"
+        }
+      ]
+    },
+    {
       "id": "abwesen",
       "headword": "Abwesen",
       "language": "de",
@@ -190,6 +207,23 @@
         {
           "english": "Absence",
           "source": "dahlstrom-2013"
+        }
+      ]
+    },
+    {
+      "id": "act-quality",
+      "headword": "Act quality",
+      "language": "en",
+      "authors": [
+        "husserl"
+      ],
+      "forms": [
+        "Act quality"
+      ],
+      "renderings": [
+        {
+          "english": "Act quality",
+          "source": "moran-cohen-2012"
         }
       ]
     },
@@ -224,6 +258,24 @@
         {
           "english": "Active and passive genesis",
           "source": "moran-cohen-2012"
+        }
+      ]
+    },
+    {
+      "id": "aletheia",
+      "headword": "Aletheia",
+      "language": "grc",
+      "authors": [
+        "heidegger"
+      ],
+      "forms": [
+        "Aletheia",
+        "a-letheia"
+      ],
+      "renderings": [
+        {
+          "english": "Aletheia",
+          "source": "dahlstrom-2013"
         }
       ]
     },
@@ -296,6 +348,23 @@
         },
         {
           "english": "analogizing apperception",
+          "source": "moran-cohen-2012"
+        }
+      ]
+    },
+    {
+      "id": "analyticity",
+      "headword": "Analyticity",
+      "language": "en",
+      "authors": [
+        "husserl"
+      ],
+      "forms": [
+        "Analyticity"
+      ],
+      "renderings": [
+        {
+          "english": "Analyticity",
           "source": "moran-cohen-2012"
         }
       ]
@@ -560,6 +629,23 @@
       "renderings": [
         {
           "english": "Apodicticity",
+          "source": "moran-cohen-2012"
+        }
+      ]
+    },
+    {
+      "id": "apophantics",
+      "headword": "Apophantics",
+      "language": "en",
+      "authors": [
+        "husserl"
+      ],
+      "forms": [
+        "Apophantics"
+      ],
+      "renderings": [
+        {
+          "english": "Apophantics",
           "source": "moran-cohen-2012"
         }
       ]
@@ -1118,6 +1204,10 @@
         {
           "english": "Stream of consciousness",
           "source": "moran-cohen-2012"
+        },
+        {
+          "english": "Flow of consciousness",
+          "source": "moran-cohen-2012"
         }
       ]
     },
@@ -1233,6 +1323,40 @@
       ]
     },
     {
+      "id": "cartesian-ideal-of-science",
+      "headword": "Cartesian ideal of science",
+      "language": "en",
+      "authors": [
+        "husserl"
+      ],
+      "forms": [
+        "Cartesian ideal of science"
+      ],
+      "renderings": [
+        {
+          "english": "Cartesian ideal of science",
+          "source": "moran-cohen-2012"
+        }
+      ]
+    },
+    {
+      "id": "categorical-imperative",
+      "headword": "Categorical imperative",
+      "language": "en",
+      "authors": [
+        "husserl"
+      ],
+      "forms": [
+        "Categorical imperative"
+      ],
+      "renderings": [
+        {
+          "english": "Categorical imperative",
+          "source": "moran-cohen-2012"
+        }
+      ]
+    },
+    {
       "id": "chair",
       "headword": "chair",
       "language": "fr",
@@ -1259,6 +1383,79 @@
       "note": "The French limb of the Leib/Koerper distinction, and the entry a Merleau-Ponty lexicon would extend first - he is named 146 times across this corpus and has no commentary of his own in it."
     },
     {
+      "id": "cogitatio",
+      "headword": "Cogitatio",
+      "language": "la",
+      "authors": [
+        "husserl"
+      ],
+      "forms": [
+        "Cogitatio"
+      ],
+      "renderings": [
+        {
+          "english": "Cogitatio",
+          "source": "moran-cohen-2012"
+        }
+      ]
+    },
+    {
+      "id": "cogitatum",
+      "headword": "Cogitatum",
+      "language": "la",
+      "authors": [
+        "husserl"
+      ],
+      "forms": [
+        "Cogitatum"
+      ],
+      "renderings": [
+        {
+          "english": "Cogitatum",
+          "source": "moran-cohen-2012"
+        }
+      ]
+    },
+    {
+      "id": "cogito",
+      "headword": "Cogito",
+      "language": "la",
+      "authors": [
+        "husserl"
+      ],
+      "forms": [
+        "Cogito",
+        "Ego cogito"
+      ],
+      "renderings": [
+        {
+          "english": "Cogito",
+          "source": "moran-cohen-2012"
+        },
+        {
+          "english": "Ego cogito",
+          "source": "moran-cohen-2012"
+        }
+      ]
+    },
+    {
+      "id": "collectivity",
+      "headword": "Collectivity",
+      "language": "en",
+      "authors": [
+        "husserl"
+      ],
+      "forms": [
+        "Collectivity"
+      ],
+      "renderings": [
+        {
+          "english": "Collectivity",
+          "source": "moran-cohen-2012"
+        }
+      ]
+    },
+    {
       "id": "da-sein",
       "headword": "Da-sein",
       "language": "de",
@@ -1276,6 +1473,23 @@
       ],
       "contrast_with": [
         "dasein"
+      ]
+    },
+    {
+      "id": "darwinism",
+      "headword": "Darwinism",
+      "language": "en",
+      "authors": [
+        "heidegger"
+      ],
+      "forms": [
+        "Darwinism"
+      ],
+      "renderings": [
+        {
+          "english": "Darwinism",
+          "source": "dahlstrom-2013"
+        }
       ]
     },
     {
@@ -1378,7 +1592,10 @@
           "translator": "Stambaugh"
         }
       ],
-      "note": "The article is part of the term, and it is what makes it searchable: the bare Man would fire on every English 'man', while 'das Man' occurs 293 times in five commentaries and is always the term. The English 'they' is not searchable at all."
+      "note": "The article is part of the term, and it is what makes it searchable: 'das Man' occurs 294 times in five commentaries and is always the term. The bare Man is registered because it is the German word, and is unsearchable here - 7,536 hits, firing inside manner, manifold and manifestation, and 1,072 whole-word ones that are the English 'man'. The English rendering 'they' is not searchable either.",
+      "unsearchable": [
+        "Man"
+      ]
     },
     {
       "id": "das-morphologische-wesen",
@@ -1876,6 +2093,10 @@
         {
           "english": "the future ones",
           "source": "dahlstrom-2013"
+        },
+        {
+          "english": "the ones to come",
+          "source": "dahlstrom-2013"
         }
       ]
     },
@@ -1964,6 +2185,10 @@
       "renderings": [
         {
           "english": "Dualism",
+          "source": "moran-cohen-2012"
+        },
+        {
+          "english": "Cartesian dualism",
           "source": "moran-cohen-2012"
         }
       ]
@@ -2254,6 +2479,23 @@
       ]
     },
     {
+      "id": "emotivism",
+      "headword": "Emotivism",
+      "language": "en",
+      "authors": [
+        "husserl"
+      ],
+      "forms": [
+        "Emotivism"
+      ],
+      "renderings": [
+        {
+          "english": "Emotivism",
+          "source": "moran-cohen-2012"
+        }
+      ]
+    },
+    {
       "id": "empfindnisse",
       "headword": "Empfindnisse",
       "language": "de",
@@ -2401,6 +2643,24 @@
       ]
     },
     {
+      "id": "episteme",
+      "headword": "Epistēmē",
+      "language": "grc",
+      "authors": [
+        "husserl"
+      ],
+      "forms": [
+        "Epistēmē",
+        "ἐπιστήμη"
+      ],
+      "renderings": [
+        {
+          "english": "Epistēmē",
+          "source": "moran-cohen-2012"
+        }
+      ]
+    },
+    {
       "id": "epoche",
       "headword": "Epoché",
       "language": "grc",
@@ -2496,6 +2756,26 @@
           "english": "Appropriating event",
           "source": "dahlstrom-2013"
         }
+      ]
+    },
+    {
+      "id": "erfahrung",
+      "headword": "Erfahrung",
+      "language": "de",
+      "authors": [
+        "husserl"
+      ],
+      "forms": [
+        "Erfahrung"
+      ],
+      "renderings": [
+        {
+          "english": "Experience",
+          "source": "moran-cohen-2012"
+        }
+      ],
+      "contrast_with": [
+        "erlebnis"
       ]
     },
     {
@@ -2652,6 +2932,9 @@
           "english": "Mental process",
           "source": "moran-cohen-2012"
         }
+      ],
+      "contrast_with": [
+        "erfahrung"
       ]
     },
     {
@@ -2667,6 +2950,24 @@
       "renderings": [
         {
           "english": "Renewal",
+          "source": "moran-cohen-2012"
+        }
+      ]
+    },
+    {
+      "id": "erscheinung",
+      "headword": "Erscheinung",
+      "language": "de",
+      "authors": [
+        "husserl"
+      ],
+      "forms": [
+        "Erscheinung",
+        "Apparenz"
+      ],
+      "renderings": [
+        {
+          "english": "Appearance",
           "source": "moran-cohen-2012"
         }
       ]
@@ -2754,6 +3055,23 @@
       "renderings": [
         {
           "english": "Europe",
+          "source": "moran-cohen-2012"
+        }
+      ]
+    },
+    {
+      "id": "europocentrism",
+      "headword": "Europocentrism",
+      "language": "en",
+      "authors": [
+        "husserl"
+      ],
+      "forms": [
+        "Europocentrism"
+      ],
+      "renderings": [
+        {
+          "english": "Europocentrism",
           "source": "moran-cohen-2012"
         }
       ]
@@ -2951,6 +3269,23 @@
       "renderings": [
         {
           "english": "Formalism",
+          "source": "moran-cohen-2012"
+        }
+      ]
+    },
+    {
+      "id": "foundationalism",
+      "headword": "Foundationalism",
+      "language": "en",
+      "authors": [
+        "husserl"
+      ],
+      "forms": [
+        "Foundationalism"
+      ],
+      "renderings": [
+        {
+          "english": "Foundationalism",
           "source": "moran-cohen-2012"
         }
       ]
@@ -3473,6 +3808,23 @@
       "renderings": [
         {
           "english": "Generativity",
+          "source": "moran-cohen-2012"
+        }
+      ]
+    },
+    {
+      "id": "genetic-phenomenology",
+      "headword": "Genetic phenomenology",
+      "language": "en",
+      "authors": [
+        "husserl"
+      ],
+      "forms": [
+        "Genetic phenomenology"
+      ],
+      "renderings": [
+        {
+          "english": "Genetic phenomenology",
           "source": "moran-cohen-2012"
         }
       ]
@@ -5094,6 +5446,23 @@
       ]
     },
     {
+      "id": "logos",
+      "headword": "Logos",
+      "language": "grc",
+      "authors": [
+        "heidegger"
+      ],
+      "forms": [
+        "Logos"
+      ],
+      "renderings": [
+        {
+          "english": "Logos",
+          "source": "dahlstrom-2013"
+        }
+      ]
+    },
+    {
       "id": "machenschaft",
       "headword": "Machenschaft",
       "language": "de",
@@ -5123,6 +5492,23 @@
       "renderings": [
         {
           "english": "Theory of manifolds",
+          "source": "moran-cohen-2012"
+        }
+      ]
+    },
+    {
+      "id": "material-thing-in-space",
+      "headword": "Material thing in space",
+      "language": "en",
+      "authors": [
+        "husserl"
+      ],
+      "forms": [
+        "Material thing in space"
+      ],
+      "renderings": [
+        {
+          "english": "Material thing in space",
           "source": "moran-cohen-2012"
         }
       ]
@@ -5366,6 +5752,23 @@
       ]
     },
     {
+      "id": "moira",
+      "headword": "Moira",
+      "language": "grc",
+      "authors": [
+        "heidegger"
+      ],
+      "forms": [
+        "Moira"
+      ],
+      "renderings": [
+        {
+          "english": "Moira",
+          "source": "dahlstrom-2013"
+        }
+      ]
+    },
+    {
       "id": "moment",
       "headword": "Moment",
       "language": "de",
@@ -5429,6 +5832,23 @@
       "renderings": [
         {
           "english": "Monadology",
+          "source": "moran-cohen-2012"
+        }
+      ]
+    },
+    {
+      "id": "morphe",
+      "headword": "Morphē",
+      "language": "grc",
+      "authors": [
+        "husserl"
+      ],
+      "forms": [
+        "Morphē"
+      ],
+      "renderings": [
+        {
+          "english": "Morphē",
           "source": "moran-cohen-2012"
         }
       ]
@@ -6220,6 +6640,23 @@
       ]
     },
     {
+      "id": "philosophical-anthropology",
+      "headword": "Philosophical anthropology",
+      "language": "en",
+      "authors": [
+        "heidegger"
+      ],
+      "forms": [
+        "Philosophical anthropology"
+      ],
+      "renderings": [
+        {
+          "english": "Philosophical anthropology",
+          "source": "dahlstrom-2013"
+        }
+      ]
+    },
+    {
       "id": "philosophie",
       "headword": "Philosophie",
       "language": "de",
@@ -6249,6 +6686,23 @@
       "renderings": [
         {
           "english": "Platonism",
+          "source": "moran-cohen-2012"
+        }
+      ]
+    },
+    {
+      "id": "primary-properties",
+      "headword": "Primary properties",
+      "language": "en",
+      "authors": [
+        "husserl"
+      ],
+      "forms": [
+        "Primary properties"
+      ],
+      "renderings": [
+        {
+          "english": "Primary properties",
           "source": "moran-cohen-2012"
         }
       ]
@@ -6395,6 +6849,23 @@
       ]
     },
     {
+      "id": "realist-phenomenology",
+      "headword": "Realist phenomenology",
+      "language": "en",
+      "authors": [
+        "husserl"
+      ],
+      "forms": [
+        "Realist phenomenology"
+      ],
+      "renderings": [
+        {
+          "english": "Realist phenomenology",
+          "source": "moran-cohen-2012"
+        }
+      ]
+    },
+    {
       "id": "realitaet",
       "headword": "Realität",
       "language": "de",
@@ -6467,6 +6938,10 @@
         {
           "english": "eidetic reduction",
           "source": "repo-registry"
+        },
+        {
+          "english": "Cartesian way",
+          "source": "moran-cohen-2012"
         }
       ],
       "theme": "reduktion",
@@ -7081,6 +7556,14 @@
         {
           "english": "historical being",
           "source": "dahlstrom-2013"
+        },
+        {
+          "english": "be-ing",
+          "source": "dahlstrom-2013"
+        },
+        {
+          "english": "beyng",
+          "source": "dahlstrom-2013"
         }
       ]
     },
@@ -7098,6 +7581,23 @@
         {
           "english": "self-concealment",
           "source": "dahlstrom-2013"
+        }
+      ]
+    },
+    {
+      "id": "signitive-act",
+      "headword": "Signitive act",
+      "language": "en",
+      "authors": [
+        "husserl"
+      ],
+      "forms": [
+        "Signitive act"
+      ],
+      "renderings": [
+        {
+          "english": "Signitive act",
+          "source": "moran-cohen-2012"
         }
       ]
     },
@@ -7338,6 +7838,10 @@
         {
           "english": "Species",
           "source": "moran-cohen-2012"
+        },
+        {
+          "english": "Universal",
+          "source": "moran-cohen-2012"
         }
       ]
     },
@@ -7424,6 +7928,10 @@
       "renderings": [
         {
           "english": "Static phenomenology",
+          "source": "moran-cohen-2012"
+        },
+        {
+          "english": "Constitutive phenomenology",
           "source": "moran-cohen-2012"
         }
       ]
@@ -7557,6 +8065,23 @@
       "renderings": [
         {
           "english": "Piece",
+          "source": "moran-cohen-2012"
+        }
+      ]
+    },
+    {
+      "id": "subjective-relative-properties",
+      "headword": "Subjective-relative properties",
+      "language": "en",
+      "authors": [
+        "husserl"
+      ],
+      "forms": [
+        "Subjective-relative properties"
+      ],
+      "renderings": [
+        {
+          "english": "Subjective-relative properties",
           "source": "moran-cohen-2012"
         }
       ]
@@ -8111,6 +8636,24 @@
       ]
     },
     {
+      "id": "ueberwindung-der-metaphysik",
+      "headword": "Überwindung der Metaphysik",
+      "language": "de",
+      "authors": [
+        "heidegger"
+      ],
+      "forms": [
+        "Überwindung der Metaphysik",
+        "Überwindung"
+      ],
+      "renderings": [
+        {
+          "english": "Overturning metaphysics",
+          "source": "dahlstrom-2013"
+        }
+      ]
+    },
+    {
       "id": "ueberzeugung",
       "headword": "Überzeugung",
       "language": "de",
@@ -8605,6 +9148,10 @@
       "renderings": [
         {
           "english": "Presentification",
+          "source": "moran-cohen-2012"
+        },
+        {
+          "english": "Presentiation",
           "source": "moran-cohen-2012"
         }
       ]
