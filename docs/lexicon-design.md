@@ -32,7 +32,15 @@ different terms, different decades, one English word. `Zeitlichkeit` and
 matcher lowercases away. Nothing in `themes.json` can express either fact,
 so nothing warns the pass that walks into it.
 
-There is a third problem the first two hide: nobody has an inventory.
+**And a term can be swamped by something that merely looks like it.** The
+matcher is left-anchored by design (D5), so `Leib` matches `Leibniz` — and
+this corpus has a Leibniz commentary. `synthesis_query.py --terms Leib`
+ranks it first, on 93 hits, none of them the German word; in the `leib`
+theme as registered it sits fifth, above four Husserl commentaries on the
+body. That is a live defect in the retrieval layer, and nothing in
+`themes.json` can express it.
+
+There is a fourth problem the others hide: nobody has an inventory.
 Eight themes exist because eight themes occurred to someone. `Dasein` has
 no theme, and no file anywhere records that this is a choice rather than
 an oversight.
@@ -77,7 +85,7 @@ carries 71 attested renderings out of 349.
     lexicon.json
       sources[]   {id, kind, citation, note?}
       entries[]   {id, headword, language, forms[], renderings[],
-                   authors?, theme?, contrast_with?, ordinary_english?,
+                   authors?, theme?, contrast_with?, unsearchable?,
                    gloss?, note?}
         renderings[]  {english, source, translator?, locator?, note?}
 
@@ -190,18 +198,23 @@ ones are in play. Both belong in the file; only the second can be checked.
 
 ### L8 · Some forms are recorded and never searched
 
-`ordinary_english` lists forms a search cannot separate from ordinary
-English, and `--expand` will not propose them. Two mechanisms, both
-common:
+`unsearchable` lists forms whose hits in this corpus are mostly something
+else, and `--expand` will not propose them. Three mechanisms:
 
 - **Homographs.** `Not` is German for distress and English for *not*:
-  26,852 whole-word hits in this corpus, none of them Heidegger's word.
+  26,852 whole-word hits here, none of them Heidegger's word.
   `Interpretation`, `Situation`, `Tradition` and `Negation` are spelled
   identically in both languages.
 - **Prefixes.** The matcher is left-anchored (D5), so `Natur` fires
   inside *nature* and *natural* — 5,445 hits, of which 13 are the German
-  — `Tod` inside *today*, `Irre` inside *irreducible*, `Wort` inside
-  *worth*, `Ontologie` inside the English plural *ontologies*.
+  — `Stil` inside *still*, `Typ` inside *type*, `Tod` inside *today*,
+  `Wort` inside *worth*, Husserl's `ratio` inside *rational*.
+- **Another word the corpus happens to contain,** which need not be
+  English. `Leib` fires inside `Leibniz` 265 times against 44
+  occurrences of the German word, because this corpus has a Leibniz
+  commentary. This is the cause that named the field: it was
+  `ordinary_english` until the Husserl import found a case that was
+  neither ordinary nor English.
 
 The forms stay in `forms`, because they are the term's real forms and an
 `--attest` report should still count them. What they must not do is reach
@@ -209,17 +222,18 @@ The forms stay in `forms`, because they are the term's real forms and an
 and one such entry makes every absence claim in the theme vacuous. This
 is the German-side counterpart of `synthesis/CLAUDE.md` rule 5.
 
-**The field is authored, not computed, and the Dahlstrom import is why.**
-The obvious rule — flag a form whose left-anchored count far exceeds its
-whole-word count — produced 25 flags of which 12 were wrong. It cannot
-tell English contamination from German compounding, and by count they are
+**The field is authored, not computed, and the imports are why.** The
+obvious rule — flag a form whose left-anchored count far exceeds its
+whole-word count — produced 25 flags on the Heidegger import of which 12
+were wrong, and 28 candidates on the Husserl one of which 22 were. It
+cannot tell contamination from German compounding, and by count they are
 identical: `Wissen` exceeds its whole-word total because of
-*Wissenschaft*, `Ding` because of *Dinglichkeit*, `Grund` because of
-*Grundprobleme*. That over-inclusion is not a defect, it is what the
-left-anchored matcher is *for*. Only looking at the words a form actually
-fires inside separates the two cases, so `--attest` prints both counts and
-flags the divergence neutrally — "fires mostly inside longer words" — and
-a person decides which kind it is.
+*Wissenschaft*, `Geist` because of *Geisteswissenschaften*, `Leben`
+because of *Lebenswelt*. That over-inclusion is not a defect, it is what
+the left-anchored matcher is *for*. Only reading the words a form
+actually fires inside separates the cases, so `--attest` prints both
+counts and flags the divergence neutrally — "fires mostly inside longer
+words" — and a person decides which kind it is.
 
 ## 5. What the machine cannot check
 
@@ -229,7 +243,7 @@ a person decides which kind it is.
 | Locators resolve; entry ids are unique; themes exist | That the entry's `theme` is the right theme |
 | Sources resolve; corpus-sourced renderings carry a locator | That a `dictionary` rendering is really in that dictionary |
 | Shared renderings are declared as contrasts | That the contrast is the significant one |
-| `ordinary_english` names real forms of the entry | That the forms needing the flag all have it |
+| `unsearchable` names real forms of the entry | That the forms needing the flag all have it |
 | Which registered terms occur in the corpus, and where | Which *unregistered* terms should have been |
 
 The last row is the important one, and it is where the lexicon narrows a
@@ -246,61 +260,72 @@ cheap enough to actually run.
 
 | Source | Kind | Contributes |
 |---|---|---|
-| `corpus` | the commentaries themselves | 71 renderings, each with a locator, each checked |
-| `repo-registry` | `themes.json`, `synthesis_query.py`, `commentaries/CLAUDE.md` | the pre-lexicon seed |
-| `dahlstrom-2013` | Dahlstrom, *The Heidegger Dictionary* (Bloomsbury, 2013) | 255 headwords and their renderings |
+| `corpus` | the commentaries themselves | 112 renderings, each with a locator, each checked |
+| `repo-registry` | `themes.json`, `synthesis_query.py`, `commentaries/CLAUDE.md` | 45, the pre-lexicon seed |
+| `dahlstrom-2013` | Dahlstrom, *The Heidegger Dictionary* (Bloomsbury, 2013) | 233 |
+| `moran-cohen-2012` | Moran and Cohen, *The Husserl Dictionary* (Continuum, 2012) | 237 |
 
-Only forms, renderings and cross-references are taken. No definition text
-is reproduced — not in an entry, not in a note, not in a gloss. The books
+497 entries: 299 carry Husserl, 237 Heidegger, some both. Only forms,
+renderings and cross-references are taken. No definition text is
+reproduced — not in an entry, not in a note, not in a gloss. The books
 stay in [faultynode/sources](https://github.com/faultynode/sources) or
 outside git; see L4, and note that `synthesis/` is one `git mv` from a
 live public page.
 
-### What the first import taught
+### The two are shaped differently
 
 Dahlstrom's A–Z headings are `English (German)` and his glossary is a
-plain German→English list, so the term equivalences extract cleanly. Four
-things did not, and each is now part of the design:
+plain German→English list. Moran and Cohen key the other way round — the
+headword is the English, the German follows in italics, often several at
+once (`Adumbration, profile (Abschattung, Aspekt, Profil)`) — so their
+entry titles are the renderings and their italics are the forms. Two
+entries pointing at one German word is how the redirects work:
+*Accomplishment* and *Achievement* are both `Leistung`, and merge into one
+entry with two renderings.
 
-1. **The glossary marks translator divergences.** Dahlstrom flags where
-   his rendering differs from the standard translations of *Sein und
-   Zeit* — `MR` for Macquarrie-Robinson (1962), `S` for Stambaugh
+Neither shape is the lexicon's; both flatten into it, which is the point
+of keying entries on the headword rather than on a book's layout.
+
+### What the imports taught
+
+1. **A glossary can carry translator divergences.** Dahlstrom flags
+   where his rendering differs from the standard translations of *Sein
+   und Zeit* — `MR` for Macquarrie-Robinson (1962), `S` for Stambaugh
    (2011). `Befindlichkeit` is his *disposedness*, MR's *state of mind*,
-   S's *attunement*; `Verfallen` is *fallenness*, *falling*, *falling
-   prey*. Fifteen renderings now carry a `translator`, which is exactly
+   S's *attunement*. Fifteen renderings carry a `translator`, which is
    what the `vorhandenheit` theme note has been asking for since it was
-   written: "English renderings diverge sharply between translations, so
-   the search terms must cover both or the English-language commentaries
-   drop out of the results."
-2. **A dictionary poisons a term list if imported naively.** See L8. Of
-   255 headwords, 13 cannot be searched at all.
-3. **Collisions arrive in bulk.** Registering 223 new headwords at once
-   turned up 26 pairs of German terms that reach English as one word —
-   `Auslegung`/`Interpretation` both *interpretation*,
-   `Verbergung`/`Verborgenheit` both *concealment*,
-   `Differenz`/`Unterschied` both *difference*, `Grund`/`Vernunft` both
-   *reason*, `Wille`/`Wollen` both *will*. Each is recorded in
-   `contrast_with`, which is what `--check` demands and all it demands:
-   the lexicon says the collision exists, and says nothing about which
-   term a passage means.
-4. **Most of a dictionary is not about this corpus.** 87 of the 255
+   written. Moran and Cohen mark no translator divergences, so the field
+   stays empty for the Husserl half.
+2. **A dictionary poisons a term list if imported naively.** See L8.
+   Nineteen forms cannot be searched here at all, and the worst of them
+   was invisible until the second import: `Leib` is 86% Leibniz.
+3. **Collisions arrive in bulk, and the second import collides with the
+   first.** 26 pairs from Dahlstrom (`Auslegung`/`Interpretation` both
+   *interpretation*, `Grund`/`Vernunft` both *reason*), then 20 more once
+   Husserl's vocabulary landed beside Heidegger's — `Einklammerung` and
+   `Epoché` both *bracketing*, `Gegenständlichkeit` and `Objektivität`
+   both *objectivity*, `Erkennen` and `Wissen` both *knowing*. 55 entries
+   now carry a `contrast_with`. The lexicon says the collision exists and
+   says nothing about which term a passage means.
+4. **Most of a dictionary is not about this corpus.** 194 of the 497
    headwords occur in no commentary here. They are kept — a term registry
-   for an author is a coherent object and a partial import invites a
-   confused second one — and they simply rank last in `--candidates`,
-   which is where an unregistered headword goes to be noticed.
+   for an author is a coherent object, and a partial import invites a
+   confused second one — and they rank last in `--candidates`, which is
+   where an unregistered headword goes to be noticed.
 
 ### Adding the next one
 
 1. Keep the book out of the repo (as above).
 2. Add it to `sources[]` with `kind: "dictionary"` and a full citation.
-3. Extract headwords, forms and renderings. Nothing else.
+3. Extract headwords, forms and renderings. Nothing else. Work out which
+   way round the book is keyed first.
 4. Mine the corpus for the same headwords — `English (Headword)` glosses
    are attested renderings, and they carry locators `--check` can verify.
    This is what makes an entry worth more than the dictionary page it
    came from (L7).
 5. Run `--check`, work the collision warnings into `contrast_with`, and
-   run `--attest` over the new entries to decide `ordinary_english` by
-   looking at what each form fires inside (L8).
+   run `--attest` over the new entries to decide `unsearchable` by
+   reading what each form fires inside (L8).
 6. `--expand` per theme the batch touches, then `--candidates`.
 
 A dictionary for an author with no commentary in the corpus is still
@@ -311,19 +336,19 @@ him, which is the coverage map for the commentary nobody has written.
 
 ## 7. Performance
 
-Whole lexicon, 255 entries, against 53 commentaries and 2.9 million words:
+Whole lexicon, 497 entries, against 53 commentaries and 2.9 million words:
 
 | Mode | Time |
 |---|---|
 | `--expand` | instant (no corpus scan) |
 | `--check` | 1.2 s |
-| `--candidates` | 5.3 s |
+| `--candidates` | 9.2 s |
 | `--attest`, one theme | under a second |
-| `--attest`, everything | 11.7 s |
+| `--attest`, everything | 19.4 s |
 
 `--attest` over the whole file counts every registered term against every
-document: 33,284 term-document pairs, and 42 s written the obvious way at
-a quarter of the current size. The matcher's pattern is a literal with a
+document: 64,925 term-document pairs, and 42 s written the obvious way at
+a twelfth of the current size. The matcher's pattern is a literal with a
 left-hand word boundary, so the occurrences can be found with `str.find`
 and filtered on the preceding character instead of scanned for with a
 regex; cost then tracks how often a term occurs rather than how long the

@@ -168,9 +168,9 @@ def check(lexicon, quiet=False):
             errors.append("%s: theme %r is not in themes.json" % (where, e["theme"]))
 
         forms_lc = {f.lower() for f in e["forms"]}
-        for f in e.get("ordinary_english", []):
+        for f in e.get("unsearchable", []):
             if f.lower() not in forms_lc:
-                errors.append("%s: ordinary_english names %r, which is not one "
+                errors.append("%s: unsearchable names %r, which is not one "
                               "of the entry's forms" % (where, f))
 
         for r in e["renderings"]:
@@ -286,7 +286,7 @@ def expand(lexicon, args):
         for e in lexicon["entries"]:
             if e.get("theme") != tid:
                 continue
-            unsafe = {t.lower() for t in e.get("ordinary_english", [])}
+            unsafe = {t.lower() for t in e.get("unsearchable", [])}
             for term in entry_terms(e):
                 if term.lower() in seen:
                     continue
@@ -310,7 +310,7 @@ def expand(lexicon, args):
             for t in orphan:
                 print("      %s" % t)
         if withheld:
-            print("  withheld as ordinary English (%d):" % len(withheld))
+            print("  withheld as unsearchable (%d):" % len(withheld))
             for t in withheld:
                 print("      %s" % t)
         if not missing and not orphan:
@@ -348,7 +348,7 @@ def attest(lexicon, args):
     bodies = [(d, lib.normalized_document(d)) for d in docs]
     for e in entries:
         print("%s - %s" % (e["id"], e["headword"]))
-        marked = set(e.get("ordinary_english", []))
+        marked = set(e.get("unsearchable", []))
         rows = ([("form", f) for f in e["forms"]]
                 + [("rendering", r["english"]) for r in e["renderings"]])
         for kind, term in rows:
@@ -360,7 +360,7 @@ def attest(lexicon, args):
                 whole += w
                 ndocs += 1 if n else 0
             if term in marked:
-                flag = "  <- ordinary English, not proposed as a search term"
+                flag = "  <- unsearchable here, not proposed as a search term"
             elif not hits:
                 flag = "  <- not in the corpus"
             elif hits >= 3 * whole and hits >= 10:
@@ -380,7 +380,7 @@ def candidates(lexicon, args):
     """Unregistered headwords, ranked by how much corpus they touch.
 
     Ranked on the entry's original-language forms only, and never on a
-    form flagged `ordinary_english`. Renderings are excluded on purpose:
+    form flagged `unsearchable`. Renderings are excluded on purpose:
     they are English words in an English corpus, and a ranking that
     counted them would put `das Man` near the top on 4,914 occurrences of
     "they". The German is the signal that these commentaries are working
@@ -402,7 +402,7 @@ def candidates(lexicon, args):
     for e in select(lexicon, args):
         if e.get("theme"):
             continue
-        unsafe = {t.lower() for t in e.get("ordinary_english", [])}
+        unsafe = {t.lower() for t in e.get("unsearchable", [])}
         forms = [f for f in e["forms"] if f.lower() not in unsafe]
         hits = ndocs = 0
         for body in bodies:

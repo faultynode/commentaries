@@ -18,9 +18,32 @@
       "kind": "dictionary",
       "citation": "Daniel O. Dahlstrom, The Heidegger Dictionary (London: Bloomsbury Academic, 2013), A-Z headwords and Glossary, pp. 9-240, 295-300.",
       "note": "Headwords and their English renderings only. No definition text is reproduced here, in this repository or in any file derived from it - see docs/lexicon-design.md L4. The book is in copyright and belongs in faultynode/sources or outside git."
+    },
+    {
+      "id": "moran-cohen-2012",
+      "kind": "dictionary",
+      "citation": "Dermot Moran and Joseph Cohen, The Husserl Dictionary (London: Continuum, 2012), A-Z entries.",
+      "note": "Headwords and their English renderings only; no definition text is reproduced here or in any file derived from it (docs/lexicon-design.md L4). Keyed the other way round from Dahlstrom - Moran's headword is the English and the German follows in italics - so the renderings are his entry titles."
     }
   ],
   "entries": [
+    {
+      "id": "a-priori",
+      "headword": "a priori",
+      "language": "la",
+      "authors": [
+        "husserl"
+      ],
+      "forms": [
+        "a priori"
+      ],
+      "renderings": [
+        {
+          "english": "Apriori",
+          "source": "moran-cohen-2012"
+        }
+      ]
+    },
     {
       "id": "abgrund",
       "headword": "Abgrund",
@@ -40,6 +63,34 @@
       ]
     },
     {
+      "id": "abschattung",
+      "headword": "Abschattung",
+      "language": "de",
+      "authors": [
+        "husserl"
+      ],
+      "forms": [
+        "Abschattung",
+        "Aspekt",
+        "Profil"
+      ],
+      "renderings": [
+        {
+          "english": "Adumbration",
+          "source": "corpus",
+          "locator": "husserl-thing-and-space-commentary#h3-s14-contents-of-sensation-and-the-qualities-of-things"
+        },
+        {
+          "english": "profile",
+          "source": "moran-cohen-2012"
+        }
+      ],
+      "unsearchable": [
+        "Profil"
+      ],
+      "note": "Fires inside profile, profiled, profiling; the bare word never occurs."
+    },
+    {
       "id": "abschied",
       "headword": "Abschied",
       "language": "de",
@@ -57,6 +108,75 @@
       ]
     },
     {
+      "id": "absolute-begruendung",
+      "headword": "absolute Begründung",
+      "language": "de",
+      "authors": [
+        "husserl"
+      ],
+      "forms": [
+        "absolute Begründung",
+        "letzte Begründung"
+      ],
+      "renderings": [
+        {
+          "english": "Absolute grounding",
+          "source": "moran-cohen-2012"
+        }
+      ]
+    },
+    {
+      "id": "absolute-gegebenheit",
+      "headword": "absolute Gegebenheit",
+      "language": "de",
+      "authors": [
+        "husserl"
+      ],
+      "forms": [
+        "absolute Gegebenheit"
+      ],
+      "renderings": [
+        {
+          "english": "Absolute givenness",
+          "source": "moran-cohen-2012"
+        }
+      ]
+    },
+    {
+      "id": "absolutes-bewusstsein",
+      "headword": "absolutes Bewusstsein",
+      "language": "de",
+      "authors": [
+        "husserl"
+      ],
+      "forms": [
+        "absolutes Bewusstsein"
+      ],
+      "renderings": [
+        {
+          "english": "Absolute consciousness",
+          "source": "moran-cohen-2012"
+        }
+      ]
+    },
+    {
+      "id": "absolutes-sein",
+      "headword": "absolutes Sein",
+      "language": "de",
+      "authors": [
+        "husserl"
+      ],
+      "forms": [
+        "absolutes Sein"
+      ],
+      "renderings": [
+        {
+          "english": "Absolute being",
+          "source": "moran-cohen-2012"
+        }
+      ]
+    },
+    {
       "id": "abwesen",
       "headword": "Abwesen",
       "language": "de",
@@ -70,6 +190,40 @@
         {
           "english": "Absence",
           "source": "dahlstrom-2013"
+        }
+      ]
+    },
+    {
+      "id": "akt",
+      "headword": "Akt",
+      "language": "de",
+      "authors": [
+        "husserl"
+      ],
+      "forms": [
+        "Akt"
+      ],
+      "renderings": [
+        {
+          "english": "Act",
+          "source": "moran-cohen-2012"
+        }
+      ]
+    },
+    {
+      "id": "aktive-und-passive-genesis",
+      "headword": "aktive und passive Genesis",
+      "language": "de",
+      "authors": [
+        "husserl"
+      ],
+      "forms": [
+        "aktive und passive Genesis"
+      ],
+      "renderings": [
+        {
+          "english": "Active and passive genesis",
+          "source": "moran-cohen-2012"
         }
       ]
     },
@@ -108,6 +262,45 @@
       ]
     },
     {
+      "id": "alter-ego",
+      "headword": "alter ego",
+      "language": "la",
+      "authors": [
+        "husserl"
+      ],
+      "forms": [
+        "alter ego"
+      ],
+      "renderings": [
+        {
+          "english": "Alter ego",
+          "source": "moran-cohen-2012"
+        }
+      ]
+    },
+    {
+      "id": "analogische-apperzeption",
+      "headword": "analogische Apperzeption",
+      "language": "de",
+      "authors": [
+        "husserl"
+      ],
+      "forms": [
+        "analogische Apperzeption",
+        "analogisierende Auffassung"
+      ],
+      "renderings": [
+        {
+          "english": "Analogical",
+          "source": "moran-cohen-2012"
+        },
+        {
+          "english": "analogizing apperception",
+          "source": "moran-cohen-2012"
+        }
+      ]
+    },
+    {
       "id": "andenken",
       "headword": "Andenken",
       "language": "de",
@@ -122,6 +315,28 @@
           "english": "commemoration",
           "source": "dahlstrom-2013"
         }
+      ]
+    },
+    {
+      "id": "anerkennung",
+      "headword": "Anerkennung",
+      "language": "de",
+      "authors": [
+        "husserl"
+      ],
+      "forms": [
+        "Anerkennung",
+        "das Erkennen",
+        "Erkennen"
+      ],
+      "renderings": [
+        {
+          "english": "Recognition",
+          "source": "moran-cohen-2012"
+        }
+      ],
+      "contrast_with": [
+        "erkennen"
       ]
     },
     {
@@ -185,6 +400,79 @@
       ]
     },
     {
+      "id": "anschauung",
+      "headword": "Anschauung",
+      "language": "de",
+      "authors": [
+        "husserl"
+      ],
+      "forms": [
+        "Anschauung"
+      ],
+      "renderings": [
+        {
+          "english": "Intuition",
+          "source": "corpus",
+          "locator": "bernet-la-vie-du-sujet-commentary#h4-a-hermeneutic-conception-of-perception"
+        }
+      ]
+    },
+    {
+      "id": "ansichsein",
+      "headword": "Ansichsein",
+      "language": "de",
+      "authors": [
+        "husserl"
+      ],
+      "forms": [
+        "Ansichsein"
+      ],
+      "renderings": [
+        {
+          "english": "Being in itself’",
+          "source": "moran-cohen-2012"
+        },
+        {
+          "english": "‘in-itself-ness’",
+          "source": "moran-cohen-2012"
+        }
+      ]
+    },
+    {
+      "id": "anthropologie",
+      "headword": "Anthropologie",
+      "language": "de",
+      "authors": [
+        "husserl"
+      ],
+      "forms": [
+        "Anthropologie"
+      ],
+      "renderings": [
+        {
+          "english": "Anthropology",
+          "source": "moran-cohen-2012"
+        }
+      ]
+    },
+    {
+      "id": "anthropologismus",
+      "headword": "Anthropologismus",
+      "language": "de",
+      "authors": [
+        "husserl"
+      ],
+      "forms": [
+        "Anthropologismus"
+      ],
+      "renderings": [
+        {
+          "english": "Anthropologism",
+          "source": "moran-cohen-2012"
+        }
+      ]
+    },
+    {
       "id": "anwesen",
       "headword": "Anwesen",
       "language": "de",
@@ -225,11 +513,186 @@
       ]
     },
     {
+      "id": "anzahl",
+      "headword": "Anzahl",
+      "language": "de",
+      "authors": [
+        "husserl"
+      ],
+      "forms": [
+        "Anzahl"
+      ],
+      "renderings": [
+        {
+          "english": "Cardinal number",
+          "source": "moran-cohen-2012"
+        }
+      ]
+    },
+    {
+      "id": "anzeichen",
+      "headword": "Anzeichen",
+      "language": "de",
+      "authors": [
+        "husserl"
+      ],
+      "forms": [
+        "Anzeichen"
+      ],
+      "renderings": [
+        {
+          "english": "Indication",
+          "source": "corpus",
+          "locator": "derrida-la-voix-et-le-phenomene-commentary#h3-the-solitary-life-of-the-soul"
+        }
+      ]
+    },
+    {
+      "id": "apodiktizitaet",
+      "headword": "Apodiktizität",
+      "language": "de",
+      "authors": [
+        "husserl"
+      ],
+      "forms": [
+        "Apodiktizität"
+      ],
+      "renderings": [
+        {
+          "english": "Apodicticity",
+          "source": "moran-cohen-2012"
+        }
+      ]
+    },
+    {
+      "id": "apophantische-logik",
+      "headword": "apophantische Logik",
+      "language": "de",
+      "authors": [
+        "husserl"
+      ],
+      "forms": [
+        "apophantische Logik"
+      ],
+      "renderings": [
+        {
+          "english": "Apophantic logic",
+          "source": "moran-cohen-2012"
+        }
+      ]
+    },
+    {
+      "id": "apperzeption",
+      "headword": "Apperzeption",
+      "language": "de",
+      "authors": [
+        "husserl"
+      ],
+      "forms": [
+        "Apperzeption",
+        "Vergegenwärtigung"
+      ],
+      "renderings": [
+        {
+          "english": "Apperception",
+          "source": "moran-cohen-2012"
+        }
+      ]
+    },
+    {
+      "id": "appraesentation",
+      "headword": "Appräsentation",
+      "language": "de",
+      "authors": [
+        "husserl"
+      ],
+      "forms": [
+        "Appräsentation"
+      ],
+      "renderings": [
+        {
+          "english": "Appresentation",
+          "source": "corpus",
+          "locator": "husserl-natur-und-geist-commentary#h3-inner-and-outer-perception-object-and-appearance"
+        }
+      ]
+    },
+    {
+      "id": "aprioritaet",
+      "headword": "Apriorität",
+      "language": "de",
+      "authors": [
+        "husserl"
+      ],
+      "forms": [
+        "Apriorität"
+      ],
+      "renderings": [
+        {
+          "english": "Apriority",
+          "source": "moran-cohen-2012"
+        }
+      ]
+    },
+    {
+      "id": "assoziation",
+      "headword": "Assoziation",
+      "language": "de",
+      "authors": [
+        "husserl"
+      ],
+      "forms": [
+        "Assoziation"
+      ],
+      "renderings": [
+        {
+          "english": "Association",
+          "source": "moran-cohen-2012"
+        }
+      ]
+    },
+    {
+      "id": "aufbau",
+      "headword": "Aufbau",
+      "language": "de",
+      "authors": [
+        "husserl"
+      ],
+      "forms": [
+        "Aufbau"
+      ],
+      "renderings": [
+        {
+          "english": "Construction",
+          "source": "moran-cohen-2012"
+        }
+      ]
+    },
+    {
+      "id": "auffassung",
+      "headword": "Auffassung",
+      "language": "de",
+      "authors": [
+        "husserl"
+      ],
+      "forms": [
+        "Auffassung"
+      ],
+      "renderings": [
+        {
+          "english": "Apprehension",
+          "source": "corpus",
+          "locator": "bernet-la-vie-du-sujet-commentary#h4-i-5"
+        }
+      ]
+    },
+    {
       "id": "ausdruck",
       "headword": "Ausdruck",
       "language": "de",
       "authors": [
-        "heidegger"
+        "heidegger",
+        "husserl"
       ],
       "forms": [
         "Ausdruck"
@@ -283,6 +746,23 @@
           "english": "statement",
           "source": "dahlstrom-2013",
           "translator": "Stambaugh"
+        }
+      ]
+    },
+    {
+      "id": "axiologie",
+      "headword": "Axiologie",
+      "language": "de",
+      "authors": [
+        "husserl"
+      ],
+      "forms": [
+        "Axiologie"
+      ],
+      "renderings": [
+        {
+          "english": "Axiology",
+          "source": "moran-cohen-2012"
         }
       ]
     },
@@ -344,6 +824,23 @@
       ],
       "contrast_with": [
         "sinn"
+      ]
+    },
+    {
+      "id": "bedeutungsmaessiges-wesen",
+      "headword": "bedeutungsmässiges Wesen",
+      "language": "de",
+      "authors": [
+        "husserl"
+      ],
+      "forms": [
+        "bedeutungsmässiges Wesen"
+      ],
+      "renderings": [
+        {
+          "english": "Semantic essence",
+          "source": "moran-cohen-2012"
+        }
       ]
     },
     {
@@ -456,11 +953,29 @@
       ]
     },
     {
+      "id": "beschreibung",
+      "headword": "Beschreibung",
+      "language": "de",
+      "authors": [
+        "husserl"
+      ],
+      "forms": [
+        "Beschreibung"
+      ],
+      "renderings": [
+        {
+          "english": "Description",
+          "source": "moran-cohen-2012"
+        }
+      ]
+    },
+    {
       "id": "besinnung",
       "headword": "Besinnung",
       "language": "de",
       "authors": [
-        "heidegger"
+        "heidegger",
+        "husserl"
       ],
       "forms": [
         "Besinnung"
@@ -469,6 +984,10 @@
         {
           "english": "mindfulness",
           "source": "dahlstrom-2013"
+        },
+        {
+          "english": "Sense investigation",
+          "source": "moran-cohen-2012"
         }
       ]
     },
@@ -551,11 +1070,29 @@
       ]
     },
     {
+      "id": "bewegungsempfindungen",
+      "headword": "Bewegungsempfindungen",
+      "language": "de",
+      "authors": [
+        "husserl"
+      ],
+      "forms": [
+        "Bewegungsempfindungen"
+      ],
+      "renderings": [
+        {
+          "english": "Movement sensations",
+          "source": "moran-cohen-2012"
+        }
+      ]
+    },
+    {
       "id": "bewusstsein",
       "headword": "Bewusstsein",
       "language": "de",
       "authors": [
-        "heidegger"
+        "heidegger",
+        "husserl"
       ],
       "forms": [
         "Bewusstsein"
@@ -564,6 +1101,62 @@
         {
           "english": "Consciousness",
           "source": "dahlstrom-2013"
+        }
+      ]
+    },
+    {
+      "id": "bewusstseinsstrom",
+      "headword": "Bewusstseinsstrom",
+      "language": "de",
+      "authors": [
+        "husserl"
+      ],
+      "forms": [
+        "Bewusstseinsstrom"
+      ],
+      "renderings": [
+        {
+          "english": "Stream of consciousness",
+          "source": "moran-cohen-2012"
+        }
+      ]
+    },
+    {
+      "id": "bild",
+      "headword": "Bild",
+      "language": "de",
+      "authors": [
+        "husserl"
+      ],
+      "forms": [
+        "Bild"
+      ],
+      "renderings": [
+        {
+          "english": "Image",
+          "source": "corpus",
+          "locator": "fichte-science-of-knowing-commentary#h2-eleventh-lecture"
+        }
+      ]
+    },
+    {
+      "id": "bildbewusstsein",
+      "headword": "Bildbewusstsein",
+      "language": "de",
+      "authors": [
+        "husserl"
+      ],
+      "forms": [
+        "Bildbewusstsein"
+      ],
+      "renderings": [
+        {
+          "english": "Image consciousness",
+          "source": "moran-cohen-2012"
+        },
+        {
+          "english": "Picture consciousness",
+          "source": "moran-cohen-2012"
         }
       ]
     },
@@ -686,6 +1279,62 @@
       ]
     },
     {
+      "id": "das-andere",
+      "headword": "das Andere",
+      "language": "de",
+      "authors": [
+        "husserl"
+      ],
+      "forms": [
+        "das Andere",
+        "Anderer",
+        "Andere"
+      ],
+      "renderings": [
+        {
+          "english": "Other",
+          "source": "moran-cohen-2012"
+        }
+      ]
+    },
+    {
+      "id": "das-ding-als-idee-im-kantischen-sinne",
+      "headword": "Das Ding als Idee im Kantischen Sinne",
+      "language": "de",
+      "authors": [
+        "husserl"
+      ],
+      "forms": [
+        "Das Ding als Idee im Kantischen Sinne",
+        "Ding als Idee im Kantischen Sinne"
+      ],
+      "renderings": [
+        {
+          "english": "Thing as idea in the Kantian sense",
+          "source": "moran-cohen-2012"
+        }
+      ]
+    },
+    {
+      "id": "das-exakte-wesen",
+      "headword": "das exakte Wesen",
+      "language": "de",
+      "authors": [
+        "husserl"
+      ],
+      "forms": [
+        "das exakte Wesen",
+        "exakte Wesen"
+      ],
+      "renderings": [
+        {
+          "english": "Exact essence",
+          "source": "moran-cohen-2012"
+        }
+      ],
+      "theme": "wesen"
+    },
+    {
       "id": "das-heilige",
       "headword": "das Heilige",
       "language": "de",
@@ -693,7 +1342,8 @@
         "heidegger"
       ],
       "forms": [
-        "das Heilige"
+        "das Heilige",
+        "Heilige"
       ],
       "renderings": [
         {
@@ -714,7 +1364,8 @@
         "heidegger"
       ],
       "forms": [
-        "das Man"
+        "das Man",
+        "Man"
       ],
       "renderings": [
         {
@@ -730,6 +1381,61 @@
       "note": "The article is part of the term, and it is what makes it searchable: the bare Man would fire on every English 'man', while 'das Man' occurs 293 times in five commentaries and is always the term. The English 'they' is not searchable at all."
     },
     {
+      "id": "das-morphologische-wesen",
+      "headword": "das morphologische Wesen",
+      "language": "de",
+      "authors": [
+        "husserl"
+      ],
+      "forms": [
+        "das morphologische Wesen",
+        "morphologische Wesen"
+      ],
+      "renderings": [
+        {
+          "english": "Morphological essence",
+          "source": "moran-cohen-2012"
+        }
+      ],
+      "theme": "wesen"
+    },
+    {
+      "id": "das-optimale",
+      "headword": "das Optimale",
+      "language": "de",
+      "authors": [
+        "husserl"
+      ],
+      "forms": [
+        "das Optimale",
+        "Optimale"
+      ],
+      "renderings": [
+        {
+          "english": "Optimality",
+          "source": "moran-cohen-2012"
+        }
+      ]
+    },
+    {
+      "id": "das-prinzip-aller-prinzipien",
+      "headword": "Das Prinzip aller Prinzipien",
+      "language": "de",
+      "authors": [
+        "husserl"
+      ],
+      "forms": [
+        "Das Prinzip aller Prinzipien",
+        "Prinzip aller Prinzipien"
+      ],
+      "renderings": [
+        {
+          "english": "Principle of principles",
+          "source": "moran-cohen-2012"
+        }
+      ]
+    },
+    {
       "id": "das-riesige",
       "headword": "das Riesige",
       "language": "de",
@@ -737,7 +1443,8 @@
         "heidegger"
       ],
       "forms": [
-        "das Riesige"
+        "das Riesige",
+        "Riesige"
       ],
       "renderings": [
         {
@@ -781,6 +1488,24 @@
       "note": "No theme, and the densest unregistered headword in the corpus - the German alone occurs 6,070 times across 23 commentaries. The standing example of why --candidates ranks by density rather than by interest: nobody was going to forget Dasein, but nothing in the registry noticed it was missing either."
     },
     {
+      "id": "deckung",
+      "headword": "Deckung",
+      "language": "de",
+      "authors": [
+        "husserl"
+      ],
+      "forms": [
+        "Deckung"
+      ],
+      "renderings": [
+        {
+          "english": "Coincidence",
+          "source": "corpus",
+          "locator": "husserliana-3-ideas-i-parts-3-4-commentary#h3-s-115-applications-the-extended-act-concept-act-performances-and-act-stirrings"
+        }
+      ]
+    },
+    {
       "id": "denken",
       "headword": "Denken",
       "language": "de",
@@ -799,6 +1524,24 @@
       ]
     },
     {
+      "id": "der-intentionale-inhalt",
+      "headword": "der intentionale Inhalt",
+      "language": "de",
+      "authors": [
+        "husserl"
+      ],
+      "forms": [
+        "der intentionale Inhalt",
+        "intentionale Inhalt"
+      ],
+      "renderings": [
+        {
+          "english": "Intentional content",
+          "source": "moran-cohen-2012"
+        }
+      ]
+    },
+    {
       "id": "der-letzte-gott",
       "headword": "der letzte Gott",
       "language": "de",
@@ -806,7 +1549,8 @@
         "heidegger"
       ],
       "forms": [
-        "der letzte Gott"
+        "der letzte Gott",
+        "letzte Gott"
       ],
       "renderings": [
         {
@@ -816,6 +1560,41 @@
         {
           "english": "last god",
           "source": "dahlstrom-2013"
+        }
+      ]
+    },
+    {
+      "id": "der-raum",
+      "headword": "der Raum",
+      "language": "de",
+      "authors": [
+        "husserl"
+      ],
+      "forms": [
+        "der Raum",
+        "Raum"
+      ],
+      "renderings": [
+        {
+          "english": "Space",
+          "source": "moran-cohen-2012"
+        }
+      ]
+    },
+    {
+      "id": "deskriptive-oder-beschreibende-psychologie",
+      "headword": "deskriptive oder beschreibende Psychologie",
+      "language": "de",
+      "authors": [
+        "husserl"
+      ],
+      "forms": [
+        "deskriptive oder beschreibende Psychologie"
+      ],
+      "renderings": [
+        {
+          "english": "Descriptive psychology",
+          "source": "moran-cohen-2012"
         }
       ]
     },
@@ -860,19 +1639,207 @@
       ]
     },
     {
-      "id": "die-gruendung",
-      "headword": "die Gründung",
+      "id": "die-doxischen-modalitaeten",
+      "headword": "die doxischen Modalitäten",
       "language": "de",
       "authors": [
-        "heidegger"
+        "husserl"
       ],
       "forms": [
-        "die Gründung"
+        "die doxischen Modalitäten",
+        "doxischen Modalitäten"
       ],
       "renderings": [
         {
-          "english": "Grounding, the",
-          "source": "dahlstrom-2013"
+          "english": "Doxic modalities",
+          "source": "moran-cohen-2012"
+        }
+      ]
+    },
+    {
+      "id": "die-fremde-welt",
+      "headword": "die fremde Welt",
+      "language": "de",
+      "authors": [
+        "husserl"
+      ],
+      "forms": [
+        "die fremde Welt",
+        "die Fremdwelt",
+        "fremde Welt",
+        "Fremdwelt"
+      ],
+      "renderings": [
+        {
+          "english": "Alien world",
+          "source": "moran-cohen-2012"
+        }
+      ]
+    },
+    {
+      "id": "die-natueralistische-einstellung",
+      "headword": "die natüralistische Einstellung",
+      "language": "de",
+      "authors": [
+        "husserl"
+      ],
+      "forms": [
+        "die natüralistische Einstellung",
+        "natüralistische Einstellung"
+      ],
+      "renderings": [
+        {
+          "english": "Naturalistic attitude",
+          "source": "moran-cohen-2012"
+        }
+      ]
+    },
+    {
+      "id": "die-natuerliche-einstellung",
+      "headword": "die natürliche Einstellung",
+      "language": "de",
+      "authors": [
+        "husserl"
+      ],
+      "forms": [
+        "die natürliche Einstellung",
+        "natürliche Einstellung"
+      ],
+      "renderings": [
+        {
+          "english": "Natural attitude",
+          "source": "moran-cohen-2012"
+        }
+      ]
+    },
+    {
+      "id": "die-neutralitaetsmodifikation",
+      "headword": "die Neutralitätsmodifikation",
+      "language": "de",
+      "authors": [
+        "husserl"
+      ],
+      "forms": [
+        "die Neutralitätsmodifikation",
+        "Neutralitätsmodifikation"
+      ],
+      "renderings": [
+        {
+          "english": "Neutrality modification",
+          "source": "moran-cohen-2012"
+        }
+      ]
+    },
+    {
+      "id": "die-personalistische-einstellung",
+      "headword": "die personalistische Einstellung",
+      "language": "de",
+      "authors": [
+        "husserl"
+      ],
+      "forms": [
+        "die personalistische Einstellung",
+        "personalistische Einstellung"
+      ],
+      "renderings": [
+        {
+          "english": "Personalistic attitude",
+          "source": "moran-cohen-2012"
+        }
+      ]
+    },
+    {
+      "id": "die-philosophische-einstellung",
+      "headword": "die philosophische Einstellung",
+      "language": "de",
+      "authors": [
+        "husserl"
+      ],
+      "forms": [
+        "die philosophische Einstellung",
+        "philosophische Einstellung"
+      ],
+      "renderings": [
+        {
+          "english": "Philosophical attitude",
+          "source": "moran-cohen-2012"
+        }
+      ]
+    },
+    {
+      "id": "die-primordiale-reduktion",
+      "headword": "die primordiale Reduktion",
+      "language": "de",
+      "authors": [
+        "husserl"
+      ],
+      "forms": [
+        "die primordiale Reduktion",
+        "primordiale Reduktion"
+      ],
+      "renderings": [
+        {
+          "english": "Primordial reduction",
+          "source": "moran-cohen-2012"
+        }
+      ],
+      "theme": "reduktion"
+    },
+    {
+      "id": "die-seele",
+      "headword": "die Seele",
+      "language": "de",
+      "authors": [
+        "husserl"
+      ],
+      "forms": [
+        "die Seele",
+        "das Psychische",
+        "das Seelische",
+        "Seele",
+        "Psychische",
+        "Seelische"
+      ],
+      "renderings": [
+        {
+          "english": "Soul",
+          "source": "moran-cohen-2012"
+        }
+      ]
+    },
+    {
+      "id": "die-theoretische-einstellung",
+      "headword": "die theoretische Einstellung",
+      "language": "de",
+      "authors": [
+        "husserl"
+      ],
+      "forms": [
+        "die theoretische Einstellung",
+        "theoretische Einstellung"
+      ],
+      "renderings": [
+        {
+          "english": "Theoretical attitude",
+          "source": "moran-cohen-2012"
+        }
+      ]
+    },
+    {
+      "id": "die-vorpraedikative-erfahrung",
+      "headword": "die vorprädikative Erfahrung",
+      "language": "de",
+      "authors": [
+        "husserl"
+      ],
+      "forms": [
+        "die vorprädikative Erfahrung",
+        "vorprädikative Erfahrung"
+      ],
+      "renderings": [
+        {
+          "english": "Prepredicative experience",
+          "source": "moran-cohen-2012"
         }
       ]
     },
@@ -884,7 +1851,8 @@
         "heidegger"
       ],
       "forms": [
-        "die Zukünftigen"
+        "die Zukünftigen",
+        "Zukünftigen"
       ],
       "renderings": [
         {
@@ -918,7 +1886,8 @@
       "headword": "Ding",
       "language": "de",
       "authors": [
-        "heidegger"
+        "heidegger",
+        "husserl"
       ],
       "forms": [
         "Ding"
@@ -927,6 +1896,126 @@
         {
           "english": "Thing",
           "source": "dahlstrom-2013"
+        }
+      ]
+    },
+    {
+      "id": "doxa",
+      "headword": "Doxa",
+      "language": "grc",
+      "authors": [
+        "husserl"
+      ],
+      "forms": [
+        "Doxa"
+      ],
+      "renderings": [
+        {
+          "english": "Doxa",
+          "source": "moran-cohen-2012"
+        }
+      ]
+    },
+    {
+      "id": "drei-grundklasse-psychischer-akte",
+      "headword": "drei Grundklasse psychischer Akte",
+      "language": "de",
+      "authors": [
+        "husserl"
+      ],
+      "forms": [
+        "drei Grundklasse psychischer Akte"
+      ],
+      "renderings": [
+        {
+          "english": "Three basic classes of psychic act",
+          "source": "moran-cohen-2012"
+        }
+      ]
+    },
+    {
+      "id": "dualismus",
+      "headword": "Dualismus",
+      "language": "de",
+      "authors": [
+        "husserl"
+      ],
+      "forms": [
+        "Dualismus"
+      ],
+      "renderings": [
+        {
+          "english": "Dualism",
+          "source": "moran-cohen-2012"
+        }
+      ]
+    },
+    {
+      "id": "ego",
+      "headword": "Ego",
+      "language": "de",
+      "authors": [
+        "husserl"
+      ],
+      "forms": [
+        "Ego",
+        "Ich"
+      ],
+      "renderings": [
+        {
+          "english": "Ego",
+          "source": "moran-cohen-2012"
+        }
+      ]
+    },
+    {
+      "id": "egologie",
+      "headword": "Egologie",
+      "language": "de",
+      "authors": [
+        "husserl"
+      ],
+      "forms": [
+        "Egologie"
+      ],
+      "renderings": [
+        {
+          "english": "Egology",
+          "source": "moran-cohen-2012"
+        }
+      ]
+    },
+    {
+      "id": "eidetik",
+      "headword": "Eidetik",
+      "language": "de",
+      "authors": [
+        "husserl"
+      ],
+      "forms": [
+        "Eidetik"
+      ],
+      "renderings": [
+        {
+          "english": "Eidetics",
+          "source": "moran-cohen-2012"
+        }
+      ]
+    },
+    {
+      "id": "eidetische-variation",
+      "headword": "eidetische Variation",
+      "language": "de",
+      "authors": [
+        "husserl"
+      ],
+      "forms": [
+        "eidetische Variation"
+      ],
+      "renderings": [
+        {
+          "english": "Eidetic variation",
+          "source": "moran-cohen-2012"
         }
       ]
     },
@@ -957,6 +2046,44 @@
       ]
     },
     {
+      "id": "eigenheitssphaere",
+      "headword": "Eigenheitssphäre",
+      "language": "de",
+      "authors": [
+        "husserl"
+      ],
+      "forms": [
+        "Eigenheitssphäre"
+      ],
+      "renderings": [
+        {
+          "english": "Sphere of ownness",
+          "source": "moran-cohen-2012"
+        }
+      ]
+    },
+    {
+      "id": "eigentliche-vorstellungen",
+      "headword": "eigentliche Vorstellungen",
+      "language": "de",
+      "authors": [
+        "husserl"
+      ],
+      "forms": [
+        "eigentliche Vorstellungen"
+      ],
+      "renderings": [
+        {
+          "english": "Genuine",
+          "source": "moran-cohen-2012"
+        },
+        {
+          "english": "authentic presentations",
+          "source": "moran-cohen-2012"
+        }
+      ]
+    },
+    {
       "id": "eigentlichkeit",
       "headword": "Eigentlichkeit",
       "language": "de",
@@ -974,11 +2101,29 @@
       ]
     },
     {
+      "id": "ein-etwas",
+      "headword": "ein Etwas",
+      "language": "de",
+      "authors": [
+        "husserl"
+      ],
+      "forms": [
+        "ein Etwas"
+      ],
+      "renderings": [
+        {
+          "english": "Something",
+          "source": "moran-cohen-2012"
+        }
+      ]
+    },
+    {
       "id": "einfuehlung",
       "headword": "Einfühlung",
       "language": "de",
       "authors": [
-        "heidegger"
+        "heidegger",
+        "husserl"
       ],
       "forms": [
         "Einfühlung"
@@ -987,7 +2132,34 @@
         {
           "english": "sympathy",
           "source": "dahlstrom-2013"
+        },
+        {
+          "english": "Empathy",
+          "source": "corpus",
+          "locator": "bernet-la-vie-du-sujet-commentary#h4-i"
         }
+      ]
+    },
+    {
+      "id": "einklammerung",
+      "headword": "Einklammerung",
+      "language": "de",
+      "authors": [
+        "husserl"
+      ],
+      "forms": [
+        "Einklammerung"
+      ],
+      "renderings": [
+        {
+          "english": "Bracketing",
+          "source": "corpus",
+          "locator": "bernet-la-vie-du-sujet-commentary#h4-the-being-of-intentional-consciousness"
+        }
+      ],
+      "theme": "reduktion",
+      "contrast_with": [
+        "epoche"
       ]
     },
     {
@@ -1008,6 +2180,41 @@
       ]
     },
     {
+      "id": "einsicht",
+      "headword": "Einsicht",
+      "language": "de",
+      "authors": [
+        "husserl"
+      ],
+      "forms": [
+        "Einsicht"
+      ],
+      "renderings": [
+        {
+          "english": "Insight",
+          "source": "moran-cohen-2012"
+        }
+      ]
+    },
+    {
+      "id": "einstellung",
+      "headword": "Einstellung",
+      "language": "de",
+      "authors": [
+        "husserl"
+      ],
+      "forms": [
+        "Einstellung"
+      ],
+      "renderings": [
+        {
+          "english": "Attitude",
+          "source": "corpus",
+          "locator": "husserl-erfahrung-und-urteil-commentary#h3-s1-the-predicative-judgment-as-the-central-theme-in-the-genealogy-of-logic"
+        }
+      ]
+    },
+    {
       "id": "ekstasis",
       "headword": "Ekstasis",
       "language": "de",
@@ -1021,6 +2228,75 @@
         {
           "english": "ecstasis",
           "source": "dahlstrom-2013"
+        }
+      ]
+    },
+    {
+      "id": "empfindnisse",
+      "headword": "Empfindnisse",
+      "language": "de",
+      "authors": [
+        "husserl"
+      ],
+      "forms": [
+        "Empfindnisse"
+      ],
+      "renderings": [
+        {
+          "english": "Sensings",
+          "source": "corpus",
+          "locator": "franck-chair-et-corps-commentary#h2-chapter-eleven-the-incarnation-of-another-body"
+        }
+      ]
+    },
+    {
+      "id": "empfindung",
+      "headword": "Empfindung",
+      "language": "de",
+      "authors": [
+        "husserl"
+      ],
+      "forms": [
+        "Empfindung"
+      ],
+      "renderings": [
+        {
+          "english": "Sensation",
+          "source": "moran-cohen-2012"
+        }
+      ]
+    },
+    {
+      "id": "empirische-psychologie",
+      "headword": "empirische Psychologie",
+      "language": "de",
+      "authors": [
+        "husserl"
+      ],
+      "forms": [
+        "empirische Psychologie"
+      ],
+      "renderings": [
+        {
+          "english": "Empirical psychology",
+          "source": "moran-cohen-2012"
+        }
+      ]
+    },
+    {
+      "id": "empirismus",
+      "headword": "Empirismus",
+      "language": "de",
+      "authors": [
+        "husserl"
+      ],
+      "forms": [
+        "Empirismus"
+      ],
+      "renderings": [
+        {
+          "english": "Empiricism",
+          "source": "moran-cohen-2012"
         }
       ]
     },
@@ -1077,6 +2353,32 @@
       ]
     },
     {
+      "id": "enttaeuschung",
+      "headword": "Enttäuschung",
+      "language": "de",
+      "authors": [
+        "husserl"
+      ],
+      "forms": [
+        "Enttäuschung"
+      ],
+      "renderings": [
+        {
+          "english": "Disillusion",
+          "source": "moran-cohen-2012"
+        },
+        {
+          "english": "frustration",
+          "source": "moran-cohen-2012"
+        },
+        {
+          "english": "disappointment",
+          "source": "corpus",
+          "locator": "husserl-erfahrung-und-urteil-commentary#h4-a-the-origin-of-negation"
+        }
+      ]
+    },
+    {
       "id": "epoche",
       "headword": "Epoché",
       "language": "grc",
@@ -1084,8 +2386,7 @@
         "husserl"
       ],
       "forms": [
-        "Epoché",
-        "Epoche"
+        "Epoché"
       ],
       "renderings": [
         {
@@ -1103,17 +2404,37 @@
         {
           "english": "suspension",
           "source": "repo-registry"
-        },
+        }
+      ],
+      "theme": "reduktion",
+      "contrast_with": [
+        "einklammerung",
+        "epoche-de",
+        "reduktion"
+      ],
+      "gloss": "The suspension of the natural attitude's positing. Registered separately from the reduction because the commentaries do not always identify the two.",
+      "note": "Husserl's Greek suspension, not Heidegger's German Epoche [epoch of being], which transliterates to the same slug and is registered as epoche-de."
+    },
+    {
+      "id": "epoche-de",
+      "headword": "Epoche",
+      "language": "de",
+      "authors": [
+        "heidegger"
+      ],
+      "forms": [
+        "Epoche"
+      ],
+      "renderings": [
         {
           "english": "Epoch",
           "source": "dahlstrom-2013"
         }
       ],
-      "theme": "reduktion",
       "contrast_with": [
-        "reduktion"
+        "epoche"
       ],
-      "gloss": "The suspension of the natural attitude's positing. Registered separately from the reduction because the commentaries do not always identify the two."
+      "note": "Heidegger's epoch of being. Distinct from Husserl's Epoché, which it transliterates onto; the -de suffix disambiguates the slug, and the accent is the only thing that separates the two words in print."
     },
     {
       "id": "erde",
@@ -1156,11 +2477,48 @@
       ]
     },
     {
+      "id": "erfuellung",
+      "headword": "Erfüllung",
+      "language": "de",
+      "authors": [
+        "husserl"
+      ],
+      "forms": [
+        "Erfüllung"
+      ],
+      "renderings": [
+        {
+          "english": "Fulfilment",
+          "source": "corpus",
+          "locator": "bernet-la-vie-du-sujet-commentary#h4-ii-6"
+        }
+      ]
+    },
+    {
+      "id": "erinnerung",
+      "headword": "Erinnerung",
+      "language": "de",
+      "authors": [
+        "husserl"
+      ],
+      "forms": [
+        "Erinnerung"
+      ],
+      "renderings": [
+        {
+          "english": "Memory",
+          "source": "corpus",
+          "locator": "husserl-erfahrung-und-urteil-commentary#h3-s37-the-unity-of-memory-and-its-separation-from-perception"
+        }
+      ]
+    },
+    {
       "id": "erkennen",
       "headword": "Erkennen",
       "language": "de",
       "authors": [
-        "heidegger"
+        "heidegger",
+        "husserl"
       ],
       "forms": [
         "Erkennen"
@@ -1169,6 +2527,74 @@
         {
           "english": "cognition",
           "source": "dahlstrom-2013"
+        },
+        {
+          "english": "Knowing",
+          "source": "moran-cohen-2012"
+        },
+        {
+          "english": "recognition",
+          "source": "moran-cohen-2012"
+        }
+      ],
+      "contrast_with": [
+        "anerkennung",
+        "wissen"
+      ]
+    },
+    {
+      "id": "erkenntnis",
+      "headword": "Erkenntnis",
+      "language": "de",
+      "authors": [
+        "husserl"
+      ],
+      "forms": [
+        "Erkenntnis"
+      ],
+      "renderings": [
+        {
+          "english": "Knowledge",
+          "source": "corpus",
+          "locator": "bernet-la-vie-du-sujet-commentary#h4-a-hermeneutic-conception-of-perception"
+        }
+      ]
+    },
+    {
+      "id": "erkenntniskritik",
+      "headword": "Erkenntniskritik",
+      "language": "de",
+      "authors": [
+        "husserl"
+      ],
+      "forms": [
+        "Erkenntniskritik"
+      ],
+      "renderings": [
+        {
+          "english": "Critique of knowledge",
+          "source": "moran-cohen-2012"
+        }
+      ]
+    },
+    {
+      "id": "erkenntnistheorie",
+      "headword": "Erkenntnistheorie",
+      "language": "de",
+      "authors": [
+        "husserl"
+      ],
+      "forms": [
+        "Erkenntnistheorie"
+      ],
+      "renderings": [
+        {
+          "english": "Epistemology",
+          "source": "moran-cohen-2012"
+        },
+        {
+          "english": "theory of knowledge",
+          "source": "moran-cohen-2012"
         }
       ]
     },
@@ -1195,6 +2621,31 @@
           "source": "corpus",
           "locator": "derrida-la-voix-et-le-phenomene-commentary#h3-the-second-argument-presence-ideality-and-death",
           "note": "The unhyphenated rendering, which is also an ordinary English word - so an absence claim over it needs absent_terms set to the German."
+        },
+        {
+          "english": "Lived experience",
+          "source": "moran-cohen-2012"
+        },
+        {
+          "english": "Mental process",
+          "source": "moran-cohen-2012"
+        }
+      ]
+    },
+    {
+      "id": "erneuerung",
+      "headword": "Erneuerung",
+      "language": "de",
+      "authors": [
+        "husserl"
+      ],
+      "forms": [
+        "Erneuerung"
+      ],
+      "renderings": [
+        {
+          "english": "Renewal",
+          "source": "moran-cohen-2012"
         }
       ]
     },
@@ -1217,11 +2668,29 @@
       ]
     },
     {
+      "id": "erwartung",
+      "headword": "Erwartung",
+      "language": "de",
+      "authors": [
+        "husserl"
+      ],
+      "forms": [
+        "Erwartung"
+      ],
+      "renderings": [
+        {
+          "english": "Expectation",
+          "source": "moran-cohen-2012"
+        }
+      ]
+    },
+    {
       "id": "ethik",
       "headword": "Ethik",
       "language": "de",
       "authors": [
-        "heidegger"
+        "heidegger",
+        "husserl"
       ],
       "forms": [
         "Ethik"
@@ -1230,6 +2699,23 @@
         {
           "english": "Ethics",
           "source": "dahlstrom-2013"
+        }
+      ]
+    },
+    {
+      "id": "europa",
+      "headword": "Europa",
+      "language": "de",
+      "authors": [
+        "husserl"
+      ],
+      "forms": [
+        "Europa"
+      ],
+      "renderings": [
+        {
+          "english": "Europe",
+          "source": "moran-cohen-2012"
         }
       ]
     },
@@ -1313,7 +2799,8 @@
       "headword": "Faktizität",
       "language": "de",
       "authors": [
-        "heidegger"
+        "heidegger",
+        "husserl"
       ],
       "forms": [
         "Faktizität"
@@ -1323,6 +2810,24 @@
           "english": "Facticity",
           "source": "corpus",
           "locator": "heidegger-sein-und-zeit-commentary#h5-s-12-the-predelineation-of-being-in-the-world-from-the-orientation-toward-being"
+        }
+      ]
+    },
+    {
+      "id": "faktum",
+      "headword": "Faktum",
+      "language": "de",
+      "authors": [
+        "husserl"
+      ],
+      "forms": [
+        "Faktum",
+        "Tatsache"
+      ],
+      "renderings": [
+        {
+          "english": "Fact",
+          "source": "moran-cohen-2012"
         }
       ]
     },
@@ -1361,6 +2866,57 @@
       ]
     },
     {
+      "id": "formale-ontologie",
+      "headword": "formale Ontologie",
+      "language": "de",
+      "authors": [
+        "husserl"
+      ],
+      "forms": [
+        "formale Ontologie"
+      ],
+      "renderings": [
+        {
+          "english": "Formal ontology",
+          "source": "moran-cohen-2012"
+        }
+      ]
+    },
+    {
+      "id": "formalisierung",
+      "headword": "Formalisierung",
+      "language": "de",
+      "authors": [
+        "husserl"
+      ],
+      "forms": [
+        "Formalisierung"
+      ],
+      "renderings": [
+        {
+          "english": "Formalization",
+          "source": "moran-cohen-2012"
+        }
+      ]
+    },
+    {
+      "id": "formalismus",
+      "headword": "Formalismus",
+      "language": "de",
+      "authors": [
+        "husserl"
+      ],
+      "forms": [
+        "Formalismus"
+      ],
+      "renderings": [
+        {
+          "english": "Formalism",
+          "source": "moran-cohen-2012"
+        }
+      ]
+    },
+    {
       "id": "fragen",
       "headword": "Fragen",
       "language": "de",
@@ -1391,6 +2947,23 @@
         {
           "english": "Freedom",
           "source": "dahlstrom-2013"
+        }
+      ]
+    },
+    {
+      "id": "fremderfahrung",
+      "headword": "Fremderfahrung",
+      "language": "de",
+      "authors": [
+        "husserl"
+      ],
+      "forms": [
+        "Fremderfahrung"
+      ],
+      "renderings": [
+        {
+          "english": "Other experience",
+          "source": "moran-cohen-2012"
         }
       ]
     },
@@ -1457,10 +3030,10 @@
           "source": "dahlstrom-2013"
         }
       ],
-      "ordinary_english": [
+      "note": "Fires inside fugitive; the bare word never occurs. Recorded so --expand cannot propose it as a search term.",
+      "unsearchable": [
         "Fug"
-      ],
-      "note": "Fires inside fugitive; the bare word never occurs. Recorded so --expand cannot propose it as a search term."
+      ]
     },
     {
       "id": "fuge",
@@ -1476,6 +3049,41 @@
         {
           "english": "Fit",
           "source": "dahlstrom-2013"
+        }
+      ]
+    },
+    {
+      "id": "fundierung",
+      "headword": "Fundierung",
+      "language": "de",
+      "authors": [
+        "husserl"
+      ],
+      "forms": [
+        "Fundierung",
+        "Begründung"
+      ],
+      "renderings": [
+        {
+          "english": "Foundation",
+          "source": "moran-cohen-2012"
+        }
+      ]
+    },
+    {
+      "id": "fungierende-subjektivitaet",
+      "headword": "fungierende Subjektivität",
+      "language": "de",
+      "authors": [
+        "husserl"
+      ],
+      "forms": [
+        "fungierende Subjektivität"
+      ],
+      "renderings": [
+        {
+          "english": "Functioning subjectivity",
+          "source": "moran-cohen-2012"
         }
       ]
     },
@@ -1531,6 +3139,58 @@
       ]
     },
     {
+      "id": "gefuehl",
+      "headword": "Gefühl",
+      "language": "de",
+      "authors": [
+        "husserl"
+      ],
+      "forms": [
+        "Gefühl"
+      ],
+      "renderings": [
+        {
+          "english": "Feeling",
+          "source": "moran-cohen-2012"
+        }
+      ]
+    },
+    {
+      "id": "gegebenheit",
+      "headword": "Gegebenheit",
+      "language": "de",
+      "authors": [
+        "husserl"
+      ],
+      "forms": [
+        "Gegebenheit"
+      ],
+      "renderings": [
+        {
+          "english": "Givenness",
+          "source": "corpus",
+          "locator": "bernet-la-vie-du-sujet-commentary#h4-the-being-of-the-ready-to-hand-and-the-being-of-concerned-dasein-inauthentic-exi"
+        }
+      ]
+    },
+    {
+      "id": "gegebenheitsweise",
+      "headword": "Gegebenheitsweise",
+      "language": "de",
+      "authors": [
+        "husserl"
+      ],
+      "forms": [
+        "Gegebenheitsweise"
+      ],
+      "renderings": [
+        {
+          "english": "Mode of givenness",
+          "source": "moran-cohen-2012"
+        }
+      ]
+    },
+    {
       "id": "gegenstaendigkeit",
       "headword": "Gegenständigkeit",
       "language": "de",
@@ -1547,7 +3207,107 @@
         }
       ],
       "contrast_with": [
+        "gegenstaendlichkeit",
         "objektivitaet"
+      ]
+    },
+    {
+      "id": "gegenstaendlichkeit",
+      "headword": "Gegenständlichkeit",
+      "language": "de",
+      "authors": [
+        "husserl"
+      ],
+      "forms": [
+        "Gegenständlichkeit"
+      ],
+      "renderings": [
+        {
+          "english": "Objectivity",
+          "source": "moran-cohen-2012"
+        }
+      ],
+      "contrast_with": [
+        "gegenstaendigkeit",
+        "objektivitaet"
+      ]
+    },
+    {
+      "id": "gegenstaendlose-vorstellungen",
+      "headword": "gegenständlose Vorstellungen",
+      "language": "de",
+      "authors": [
+        "husserl"
+      ],
+      "forms": [
+        "gegenständlose Vorstellungen"
+      ],
+      "renderings": [
+        {
+          "english": "Objectless presentations",
+          "source": "moran-cohen-2012"
+        }
+      ]
+    },
+    {
+      "id": "gegenstandstheorie",
+      "headword": "Gegenstandstheorie",
+      "language": "de",
+      "authors": [
+        "husserl"
+      ],
+      "forms": [
+        "Gegenstandstheorie"
+      ],
+      "renderings": [
+        {
+          "english": "Theory of objects",
+          "source": "moran-cohen-2012"
+        }
+      ]
+    },
+    {
+      "id": "gegenwaertigung",
+      "headword": "Gegenwärtigung",
+      "language": "de",
+      "authors": [
+        "husserl"
+      ],
+      "forms": [
+        "Gegenwärtigung"
+      ],
+      "renderings": [
+        {
+          "english": "Presentation",
+          "source": "corpus",
+          "locator": "bernet-la-vie-du-sujet-commentary#h4-a-hermeneutic-conception-of-perception"
+        },
+        {
+          "english": "presencing",
+          "source": "moran-cohen-2012"
+        }
+      ],
+      "contrast_with": [
+        "vorstellung"
+      ]
+    },
+    {
+      "id": "gehalt",
+      "headword": "Gehalt",
+      "language": "de",
+      "authors": [
+        "husserl"
+      ],
+      "forms": [
+        "Gehalt",
+        "Inhalt"
+      ],
+      "renderings": [
+        {
+          "english": "Content",
+          "source": "corpus",
+          "locator": "heidegger-ga-61-phenomenological-interpretations-of-aristotle-commentary#h4-b-comportment"
+        }
       ]
     },
     {
@@ -1564,6 +3324,24 @@
         {
           "english": "Mystery",
           "source": "dahlstrom-2013"
+        }
+      ]
+    },
+    {
+      "id": "geist",
+      "headword": "Geist",
+      "language": "de",
+      "authors": [
+        "husserl"
+      ],
+      "forms": [
+        "Geist"
+      ],
+      "renderings": [
+        {
+          "english": "Spirit",
+          "source": "corpus",
+          "locator": "bernet-la-vie-du-sujet-commentary#h4-method-and-status-of-a-hermeneutic-philosophy"
         }
       ]
     },
@@ -1585,6 +3363,95 @@
         {
           "english": "releasement",
           "source": "dahlstrom-2013"
+        }
+      ]
+    },
+    {
+      "id": "gemuet",
+      "headword": "Gemüt",
+      "language": "de",
+      "authors": [
+        "husserl"
+      ],
+      "forms": [
+        "Gemüt"
+      ],
+      "renderings": [
+        {
+          "english": "Emotion",
+          "source": "moran-cohen-2012"
+        }
+      ]
+    },
+    {
+      "id": "generalisierung",
+      "headword": "Generalisierung",
+      "language": "de",
+      "authors": [
+        "husserl"
+      ],
+      "forms": [
+        "Generalisierung"
+      ],
+      "renderings": [
+        {
+          "english": "Generalization",
+          "source": "moran-cohen-2012"
+        }
+      ]
+    },
+    {
+      "id": "generalthesis",
+      "headword": "Generalthesis",
+      "language": "de",
+      "authors": [
+        "husserl"
+      ],
+      "forms": [
+        "Generalthesis"
+      ],
+      "renderings": [
+        {
+          "english": "General thesis",
+          "source": "moran-cohen-2012"
+        },
+        {
+          "english": "general positing",
+          "source": "moran-cohen-2012"
+        }
+      ]
+    },
+    {
+      "id": "generativitaet",
+      "headword": "Generativität",
+      "language": "de",
+      "authors": [
+        "husserl"
+      ],
+      "forms": [
+        "Generativität"
+      ],
+      "renderings": [
+        {
+          "english": "Generativity",
+          "source": "moran-cohen-2012"
+        }
+      ]
+    },
+    {
+      "id": "genetische-psychologie",
+      "headword": "genetische Psychologie",
+      "language": "de",
+      "authors": [
+        "husserl"
+      ],
+      "forms": [
+        "genetische Psychologie"
+      ],
+      "renderings": [
+        {
+          "english": "Genetic psychology",
+          "source": "moran-cohen-2012"
         }
       ]
     },
@@ -1659,10 +3526,12 @@
       "headword": "Geschichtlichkeit",
       "language": "de",
       "authors": [
-        "heidegger"
+        "heidegger",
+        "husserl"
       ],
       "forms": [
-        "Geschichtlichkeit"
+        "Geschichtlichkeit",
+        "Historizität"
       ],
       "renderings": [
         {
@@ -1764,6 +3633,43 @@
       ]
     },
     {
+      "id": "gewissheit",
+      "headword": "Gewißheit",
+      "language": "de",
+      "authors": [
+        "husserl"
+      ],
+      "forms": [
+        "Gewißheit"
+      ],
+      "renderings": [
+        {
+          "english": "Certainty",
+          "source": "moran-cohen-2012"
+        }
+      ]
+    },
+    {
+      "id": "gewohnheit",
+      "headword": "Gewohnheit",
+      "language": "de",
+      "authors": [
+        "husserl"
+      ],
+      "forms": [
+        "Gewohnheit",
+        "Habitus",
+        "Habitualität"
+      ],
+      "renderings": [
+        {
+          "english": "Habit",
+          "source": "corpus",
+          "locator": "kant-kritik-der-reinen-vernunft-commentary#h3-vi-the-general-problem-of-pure-reason"
+        }
+      ]
+    },
+    {
       "id": "geworfenheit",
       "headword": "Geworfenheit",
       "language": "de",
@@ -1786,10 +3692,12 @@
       "headword": "Glaube",
       "language": "de",
       "authors": [
-        "heidegger"
+        "heidegger",
+        "husserl"
       ],
       "forms": [
-        "Glaube"
+        "Glaube",
+        "doxa"
       ],
       "renderings": [
         {
@@ -1840,11 +3748,16 @@
         "heidegger"
       ],
       "forms": [
-        "Gründung"
+        "Gründung",
+        "die Gründung"
       ],
       "renderings": [
         {
           "english": "grounding",
+          "source": "dahlstrom-2013"
+        },
+        {
+          "english": "Grounding, the",
           "source": "dahlstrom-2013"
         }
       ]
@@ -1943,6 +3856,40 @@
         {
           "english": "Homecoming",
           "source": "dahlstrom-2013"
+        }
+      ]
+    },
+    {
+      "id": "heimwelt",
+      "headword": "Heimwelt",
+      "language": "de",
+      "authors": [
+        "husserl"
+      ],
+      "forms": [
+        "Heimwelt"
+      ],
+      "renderings": [
+        {
+          "english": "Homeworld",
+          "source": "moran-cohen-2012"
+        }
+      ]
+    },
+    {
+      "id": "heraklitischer-fluss",
+      "headword": "Heraklitischer Fluss",
+      "language": "de",
+      "authors": [
+        "husserl"
+      ],
+      "forms": [
+        "Heraklitischer Fluss"
+      ],
+      "renderings": [
+        {
+          "english": "Heraclitean flux",
+          "source": "moran-cohen-2012"
         }
       ]
     },
@@ -2079,7 +4026,11 @@
           "source": "corpus",
           "locator": "henry-the-essence-of-manifestation-commentary#h2-s-3-the-overcoming-of-intuitionism-and-the-liberation-of-the-universal-phenomeno"
         }
-      ]
+      ],
+      "unsearchable": [
+        "Horizont"
+      ],
+      "note": "Fires inside horizontality, horizontal, horizontally (33); 4 hits are the German. The rendering 'horizon' is the searchable form."
     },
     {
       "id": "humanismus",
@@ -2099,11 +4050,81 @@
       ]
     },
     {
+      "id": "hyle",
+      "headword": "Hyle",
+      "language": "grc",
+      "authors": [
+        "husserl"
+      ],
+      "forms": [
+        "Hyle"
+      ],
+      "renderings": [
+        {
+          "english": "Hyle",
+          "source": "moran-cohen-2012"
+        }
+      ]
+    },
+    {
+      "id": "hyletische-daten",
+      "headword": "hyletische Daten",
+      "language": "de",
+      "authors": [
+        "husserl"
+      ],
+      "forms": [
+        "hyletische Daten"
+      ],
+      "renderings": [
+        {
+          "english": "Hyletic data",
+          "source": "moran-cohen-2012"
+        }
+      ]
+    },
+    {
+      "id": "ich-spaltung",
+      "headword": "Ich-Spaltung",
+      "language": "de",
+      "authors": [
+        "husserl"
+      ],
+      "forms": [
+        "Ich-Spaltung",
+        "Ichspaltung"
+      ],
+      "renderings": [
+        {
+          "english": "Splitting of the ego",
+          "source": "moran-cohen-2012"
+        }
+      ]
+    },
+    {
+      "id": "ichpol",
+      "headword": "Ichpol",
+      "language": "de",
+      "authors": [
+        "husserl"
+      ],
+      "forms": [
+        "Ichpol"
+      ],
+      "renderings": [
+        {
+          "english": "Ego pole",
+          "source": "moran-cohen-2012"
+        }
+      ]
+    },
+    {
       "id": "idealismus",
       "headword": "Idealismus",
       "language": "de",
       "authors": [
-        "heidegger"
+        "heidegger",
+        "husserl"
       ],
       "forms": [
         "Idealismus"
@@ -2112,6 +4133,40 @@
         {
           "english": "idealism",
           "source": "dahlstrom-2013"
+        }
+      ]
+    },
+    {
+      "id": "idealitaet",
+      "headword": "Idealität",
+      "language": "de",
+      "authors": [
+        "husserl"
+      ],
+      "forms": [
+        "Idealität"
+      ],
+      "renderings": [
+        {
+          "english": "Ideality",
+          "source": "moran-cohen-2012"
+        }
+      ]
+    },
+    {
+      "id": "ideation",
+      "headword": "Ideation",
+      "language": "de",
+      "authors": [
+        "husserl"
+      ],
+      "forms": [
+        "Ideation"
+      ],
+      "renderings": [
+        {
+          "english": "Ideation",
+          "source": "moran-cohen-2012"
         }
       ]
     },
@@ -2133,6 +4188,23 @@
       ]
     },
     {
+      "id": "immanenz",
+      "headword": "Immanenz",
+      "language": "de",
+      "authors": [
+        "husserl"
+      ],
+      "forms": [
+        "Immanenz"
+      ],
+      "renderings": [
+        {
+          "english": "Immanence",
+          "source": "moran-cohen-2012"
+        }
+      ]
+    },
+    {
       "id": "in-der-welt-sein",
       "headword": "In-der-Welt-sein",
       "language": "de",
@@ -2147,6 +4219,41 @@
           "english": "Being-in-the-world",
           "source": "corpus",
           "locator": "heidegger-sein-und-zeit-commentary#h5-s-12-the-predelineation-of-being-in-the-world-from-the-orientation-toward-being"
+        }
+      ]
+    },
+    {
+      "id": "inexistenz",
+      "headword": "Inexistenz",
+      "language": "de",
+      "authors": [
+        "husserl"
+      ],
+      "forms": [
+        "Inexistenz"
+      ],
+      "renderings": [
+        {
+          "english": "Inexistence",
+          "source": "moran-cohen-2012"
+        }
+      ]
+    },
+    {
+      "id": "innere-wahrnehmung",
+      "headword": "innere Wahrnehmung",
+      "language": "de",
+      "authors": [
+        "husserl"
+      ],
+      "forms": [
+        "innere Wahrnehmung"
+      ],
+      "renderings": [
+        {
+          "english": "Inner perception",
+          "source": "corpus",
+          "locator": "bernet-la-vie-du-sujet-commentary#h4-the-impressional-intentionality-of-the-relation-to-self"
         }
       ]
     },
@@ -2225,6 +4332,40 @@
       ]
     },
     {
+      "id": "instinkt",
+      "headword": "Instinkt",
+      "language": "de",
+      "authors": [
+        "husserl"
+      ],
+      "forms": [
+        "Instinkt"
+      ],
+      "renderings": [
+        {
+          "english": "Instinct",
+          "source": "moran-cohen-2012"
+        }
+      ]
+    },
+    {
+      "id": "intentionales-wesen",
+      "headword": "intentionales Wesen",
+      "language": "de",
+      "authors": [
+        "husserl"
+      ],
+      "forms": [
+        "intentionales Wesen"
+      ],
+      "renderings": [
+        {
+          "english": "Intentional essence",
+          "source": "moran-cohen-2012"
+        }
+      ]
+    },
+    {
       "id": "intentionalitaet",
       "headword": "Intentionalität",
       "language": "de",
@@ -2258,10 +4399,13 @@
       "headword": "Interpretation",
       "language": "de",
       "authors": [
-        "heidegger"
+        "heidegger",
+        "husserl"
       ],
       "forms": [
-        "Interpretation"
+        "Interpretation",
+        "Deutung",
+        "Auffassung"
       ],
       "renderings": [
         {
@@ -2269,13 +4413,30 @@
           "source": "dahlstrom-2013"
         }
       ],
-      "ordinary_english": [
-        "Interpretation"
-      ],
       "contrast_with": [
         "auslegung"
       ],
-      "note": "Spelled as the English word; 1,797 whole-word hits, none of them Heidegger's term. Recorded so --expand cannot propose it as a search term."
+      "note": "Spelled as the English word; 1,797 whole-word hits, none of them Heidegger's term. Recorded so --expand cannot propose it as a search term.",
+      "unsearchable": [
+        "Interpretation"
+      ]
+    },
+    {
+      "id": "intersubjektivitaet",
+      "headword": "Intersubjektivität",
+      "language": "de",
+      "authors": [
+        "husserl"
+      ],
+      "forms": [
+        "Intersubjektivität"
+      ],
+      "renderings": [
+        {
+          "english": "Intersubjectivity",
+          "source": "moran-cohen-2012"
+        }
+      ]
     },
     {
       "id": "inzwischen",
@@ -2310,10 +4471,27 @@
           "source": "dahlstrom-2013"
         }
       ],
-      "ordinary_english": [
+      "note": "Fires inside irreducible, irreal, irrelevant; 2 hits are the German. Recorded so --expand cannot propose it as a search term.",
+      "unsearchable": [
         "Irre"
+      ]
+    },
+    {
+      "id": "jahrbuch-fuer-philosophie-und-phaenomenologische-forschung",
+      "headword": "Jahrbuch für Philosophie und phänomenologische Forschung",
+      "language": "de",
+      "authors": [
+        "husserl"
       ],
-      "note": "Fires inside irreducible, irreal, irrelevant; 2 hits are the German. Recorded so --expand cannot propose it as a search term."
+      "forms": [
+        "Jahrbuch für Philosophie und phänomenologische Forschung"
+      ],
+      "renderings": [
+        {
+          "english": "Yearbook for Philosophy and Phenomenological Research",
+          "source": "moran-cohen-2012"
+        }
+      ]
     },
     {
       "id": "jemeinigkeit",
@@ -2334,6 +4512,57 @@
       ]
     },
     {
+      "id": "jetztmoment",
+      "headword": "Jetztmoment",
+      "language": "de",
+      "authors": [
+        "husserl"
+      ],
+      "forms": [
+        "Jetztmoment"
+      ],
+      "renderings": [
+        {
+          "english": "Now moment",
+          "source": "moran-cohen-2012"
+        }
+      ]
+    },
+    {
+      "id": "kategoriale-anschauung",
+      "headword": "kategoriale Anschauung",
+      "language": "de",
+      "authors": [
+        "husserl"
+      ],
+      "forms": [
+        "kategoriale Anschauung"
+      ],
+      "renderings": [
+        {
+          "english": "Categorial intuition",
+          "source": "moran-cohen-2012"
+        }
+      ]
+    },
+    {
+      "id": "kausalitaet",
+      "headword": "Kausalität",
+      "language": "de",
+      "authors": [
+        "husserl"
+      ],
+      "forms": [
+        "Kausalität"
+      ],
+      "renderings": [
+        {
+          "english": "Causality",
+          "source": "moran-cohen-2012"
+        }
+      ]
+    },
+    {
       "id": "kehre",
       "headword": "Kehre",
       "language": "de",
@@ -2347,6 +4576,41 @@
         {
           "english": "Turn",
           "source": "dahlstrom-2013"
+        }
+      ]
+    },
+    {
+      "id": "kinaesthetische-empfindungen",
+      "headword": "kinästhetische Empfindungen",
+      "language": "de",
+      "authors": [
+        "husserl"
+      ],
+      "forms": [
+        "kinästhetische Empfindungen"
+      ],
+      "renderings": [
+        {
+          "english": "Kinaesthetic sensations",
+          "source": "moran-cohen-2012"
+        }
+      ]
+    },
+    {
+      "id": "klaerung",
+      "headword": "Klärung",
+      "language": "de",
+      "authors": [
+        "husserl"
+      ],
+      "forms": [
+        "Klärung"
+      ],
+      "renderings": [
+        {
+          "english": "Clarification",
+          "source": "corpus",
+          "locator": "husserliana-5-ideas-iii-commentary#h3-s20-elucidation-and-clarification"
         }
       ]
     },
@@ -2382,6 +4646,40 @@
         "leib"
       ],
       "gloss": "The body as a physical thing among things, as against the Leib lived from within."
+    },
+    {
+      "id": "kollective-verbindung",
+      "headword": "kollective Verbindung",
+      "language": "de",
+      "authors": [
+        "husserl"
+      ],
+      "forms": [
+        "kollective Verbindung"
+      ],
+      "renderings": [
+        {
+          "english": "Collective combination",
+          "source": "moran-cohen-2012"
+        }
+      ]
+    },
+    {
+      "id": "konkretum",
+      "headword": "Konkretum",
+      "language": "de",
+      "authors": [
+        "husserl"
+      ],
+      "forms": [
+        "Konkretum"
+      ],
+      "renderings": [
+        {
+          "english": "Concretum",
+          "source": "moran-cohen-2012"
+        }
+      ]
     },
     {
       "id": "konservativ",
@@ -2443,6 +4741,23 @@
       "gloss": "How an object comes to be given as what it is for consciousness. Not production and not causation - that is the standing misreading the commentaries guard against."
     },
     {
+      "id": "korrelation",
+      "headword": "Korrelation",
+      "language": "de",
+      "authors": [
+        "husserl"
+      ],
+      "forms": [
+        "Korrelation"
+      ],
+      "renderings": [
+        {
+          "english": "Correlation",
+          "source": "moran-cohen-2012"
+        }
+      ]
+    },
+    {
       "id": "kunst",
       "headword": "Kunst",
       "language": "de",
@@ -2456,6 +4771,23 @@
         {
           "english": "Art",
           "source": "dahlstrom-2013"
+        }
+      ]
+    },
+    {
+      "id": "laengsintentionalitaet",
+      "headword": "Längsintentionalität",
+      "language": "de",
+      "authors": [
+        "husserl"
+      ],
+      "forms": [
+        "Längsintentionalität"
+      ],
+      "renderings": [
+        {
+          "english": "Horizontal intentionality",
+          "source": "moran-cohen-2012"
         }
       ]
     },
@@ -2477,6 +4809,40 @@
       ]
     },
     {
+      "id": "leben",
+      "headword": "Leben",
+      "language": "de",
+      "authors": [
+        "husserl"
+      ],
+      "forms": [
+        "Leben"
+      ],
+      "renderings": [
+        {
+          "english": "Life",
+          "source": "moran-cohen-2012"
+        }
+      ]
+    },
+    {
+      "id": "lebendige-gegenwart",
+      "headword": "lebendige Gegenwart",
+      "language": "de",
+      "authors": [
+        "husserl"
+      ],
+      "forms": [
+        "lebendige Gegenwart"
+      ],
+      "renderings": [
+        {
+          "english": "Living present",
+          "source": "moran-cohen-2012"
+        }
+      ]
+    },
+    {
       "id": "lebenswelt",
       "headword": "Lebenswelt",
       "language": "de",
@@ -2492,6 +4858,24 @@
           "english": "life-world",
           "source": "corpus",
           "locator": "bernet-la-vie-du-sujet-commentary#h4-the-being-of-the-ready-to-hand-and-the-being-of-concerned-dasein-inauthentic-exi"
+        }
+      ]
+    },
+    {
+      "id": "leerintention",
+      "headword": "Leerintention",
+      "language": "de",
+      "authors": [
+        "husserl"
+      ],
+      "forms": [
+        "Leerintention",
+        "Leermeinen"
+      ],
+      "renderings": [
+        {
+          "english": "Empty intention",
+          "source": "moran-cohen-2012"
         }
       ]
     },
@@ -2523,6 +4907,10 @@
           "english": "the body",
           "source": "repo-registry",
           "note": "Ambiguous between Leib and Koerper wherever a commentary does not gloss it. Kept because dropping it loses real hits, not because it disambiguates."
+        },
+        {
+          "english": "animate body",
+          "source": "moran-cohen-2012"
         }
       ],
       "theme": "leib",
@@ -2530,14 +4918,18 @@
         "koerper"
       ],
       "gloss": "The body as lived and sensed from within, the bearer of kinaestheses.",
-      "note": "Leib/Koerper is the distinction the English 'body' collapses, and the corpus renders both with it. This pair is the standing case for why renderings alone cannot settle which term a passage is about."
+      "note": "Leib/Koerper is the distinction the English 'body' collapses, and the corpus renders both with it. This pair is the standing case for why renderings alone cannot settle which term a passage is about. Fires inside Leibniz and Leibnizian (265) - this corpus has a Leibniz commentary - against 44 occurrences of the German word.",
+      "unsearchable": [
+        "Leib"
+      ]
     },
     {
       "id": "leiblichkeit",
       "headword": "Leiblichkeit",
       "language": "de",
       "authors": [
-        "heidegger"
+        "heidegger",
+        "husserl"
       ],
       "forms": [
         "Leiblichkeit"
@@ -2546,6 +4938,33 @@
         {
           "english": "Bodiliness",
           "source": "dahlstrom-2013"
+        },
+        {
+          "english": "Lived bodiliness",
+          "source": "moran-cohen-2012"
+        }
+      ],
+      "theme": "leib"
+    },
+    {
+      "id": "leistung",
+      "headword": "Leistung",
+      "language": "de",
+      "authors": [
+        "husserl"
+      ],
+      "forms": [
+        "Leistung"
+      ],
+      "renderings": [
+        {
+          "english": "Accomplishment",
+          "source": "corpus",
+          "locator": "bernet-la-vie-du-sujet-commentary#h4-iii"
+        },
+        {
+          "english": "Achievement",
+          "source": "moran-cohen-2012"
         }
       ]
     },
@@ -2588,7 +5007,8 @@
       "headword": "Logik",
       "language": "de",
       "authors": [
-        "heidegger"
+        "heidegger",
+        "husserl"
       ],
       "forms": [
         "Logik"
@@ -2635,6 +5055,40 @@
       ]
     },
     {
+      "id": "mannigfaeltigkeitslehre",
+      "headword": "Mannigfältigkeitslehre",
+      "language": "de",
+      "authors": [
+        "husserl"
+      ],
+      "forms": [
+        "Mannigfältigkeitslehre"
+      ],
+      "renderings": [
+        {
+          "english": "Theory of manifolds",
+          "source": "moran-cohen-2012"
+        }
+      ]
+    },
+    {
+      "id": "mathematizierung-der-natur",
+      "headword": "Mathematizierung der Natur",
+      "language": "de",
+      "authors": [
+        "husserl"
+      ],
+      "forms": [
+        "Mathematizierung der Natur"
+      ],
+      "renderings": [
+        {
+          "english": "Mathematization of nature",
+          "source": "moran-cohen-2012"
+        }
+      ]
+    },
+    {
       "id": "meinen",
       "headword": "Meinen",
       "language": "de",
@@ -2654,6 +5108,48 @@
       "theme": "intentionalitaet"
     },
     {
+      "id": "meinung",
+      "headword": "Meinung",
+      "language": "de",
+      "authors": [
+        "husserl"
+      ],
+      "forms": [
+        "Meinung"
+      ],
+      "renderings": [
+        {
+          "english": "Reference",
+          "source": "moran-cohen-2012"
+        }
+      ],
+      "contrast_with": [
+        "verweisung"
+      ]
+    },
+    {
+      "id": "menchentum",
+      "headword": "Menchentum",
+      "language": "de",
+      "authors": [
+        "husserl"
+      ],
+      "forms": [
+        "Menchentum",
+        "Menschheit"
+      ],
+      "renderings": [
+        {
+          "english": "Humanity",
+          "source": "moran-cohen-2012"
+        },
+        {
+          "english": "humanness",
+          "source": "moran-cohen-2012"
+        }
+      ]
+    },
+    {
       "id": "mensch",
       "headword": "Mensch",
       "language": "de",
@@ -2671,11 +5167,29 @@
       ]
     },
     {
+      "id": "mereologie",
+      "headword": "Mereologie",
+      "language": "de",
+      "authors": [
+        "husserl"
+      ],
+      "forms": [
+        "Mereologie"
+      ],
+      "renderings": [
+        {
+          "english": "Mereology",
+          "source": "moran-cohen-2012"
+        }
+      ]
+    },
+    {
       "id": "metaphysik",
       "headword": "Metaphysik",
       "language": "de",
       "authors": [
-        "heidegger"
+        "heidegger",
+        "husserl"
       ],
       "forms": [
         "Metaphysik"
@@ -2744,11 +5258,46 @@
       ]
     },
     {
+      "id": "modalizierung",
+      "headword": "Modalizierung",
+      "language": "de",
+      "authors": [
+        "husserl"
+      ],
+      "forms": [
+        "Modalizierung"
+      ],
+      "renderings": [
+        {
+          "english": "Modalization",
+          "source": "moran-cohen-2012"
+        }
+      ]
+    },
+    {
+      "id": "modifikation",
+      "headword": "Modifikation",
+      "language": "de",
+      "authors": [
+        "husserl"
+      ],
+      "forms": [
+        "Modifikation"
+      ],
+      "renderings": [
+        {
+          "english": "Modification",
+          "source": "moran-cohen-2012"
+        }
+      ]
+    },
+    {
       "id": "moeglichkeit",
       "headword": "Möglichkeit",
       "language": "de",
       "authors": [
-        "heidegger"
+        "heidegger",
+        "husserl"
       ],
       "forms": [
         "Möglichkeit"
@@ -2757,6 +5306,114 @@
         {
           "english": "Possibility",
           "source": "dahlstrom-2013"
+        }
+      ]
+    },
+    {
+      "id": "moment",
+      "headword": "Moment",
+      "language": "de",
+      "authors": [
+        "husserl"
+      ],
+      "forms": [
+        "Moment"
+      ],
+      "renderings": [
+        {
+          "english": "Moment",
+          "source": "moran-cohen-2012"
+        }
+      ]
+    },
+    {
+      "id": "monad",
+      "headword": "Monad",
+      "language": "de",
+      "authors": [
+        "husserl"
+      ],
+      "forms": [
+        "Monad"
+      ],
+      "renderings": [
+        {
+          "english": "Monad",
+          "source": "moran-cohen-2012"
+        }
+      ]
+    },
+    {
+      "id": "monadengemeinschaft",
+      "headword": "Monadengemeinschaft",
+      "language": "de",
+      "authors": [
+        "husserl"
+      ],
+      "forms": [
+        "Monadengemeinschaft"
+      ],
+      "renderings": [
+        {
+          "english": "Community of monads",
+          "source": "moran-cohen-2012"
+        }
+      ]
+    },
+    {
+      "id": "monadologie",
+      "headword": "Monadologie",
+      "language": "de",
+      "authors": [
+        "husserl"
+      ],
+      "forms": [
+        "Monadologie"
+      ],
+      "renderings": [
+        {
+          "english": "Monadology",
+          "source": "moran-cohen-2012"
+        }
+      ]
+    },
+    {
+      "id": "motivation",
+      "headword": "Motivation",
+      "language": "de",
+      "authors": [
+        "husserl"
+      ],
+      "forms": [
+        "Motivation"
+      ],
+      "renderings": [
+        {
+          "english": "Motivation",
+          "source": "moran-cohen-2012"
+        }
+      ]
+    },
+    {
+      "id": "mundanisierung",
+      "headword": "Mundanisierung",
+      "language": "de",
+      "authors": [
+        "husserl"
+      ],
+      "forms": [
+        "Mundanisierung",
+        "Verweltlichung"
+      ],
+      "renderings": [
+        {
+          "english": "Mundanization",
+          "source": "corpus",
+          "locator": "bernet-la-vie-du-sujet-commentary#h3-3-the-world-husserl"
+        },
+        {
+          "english": "enworlding",
+          "source": "moran-cohen-2012"
         }
       ]
     },
@@ -2782,7 +5439,8 @@
       "headword": "Natur",
       "language": "de",
       "authors": [
-        "heidegger"
+        "heidegger",
+        "husserl"
       ],
       "forms": [
         "Natur"
@@ -2793,10 +5451,27 @@
           "source": "dahlstrom-2013"
         }
       ],
-      "ordinary_english": [
+      "note": "Fires inside nature (2,252) and natural (2,071); 13 hits are the German. Recorded so --expand cannot propose it as a search term.",
+      "unsearchable": [
         "Natur"
+      ]
+    },
+    {
+      "id": "naturalismus",
+      "headword": "Naturalismus",
+      "language": "de",
+      "authors": [
+        "husserl"
       ],
-      "note": "Fires inside nature (2,252) and natural (2,071); 13 hits are the German. Recorded so --expand cannot propose it as a search term."
+      "forms": [
+        "Naturalismus"
+      ],
+      "renderings": [
+        {
+          "english": "Naturalism",
+          "source": "moran-cohen-2012"
+        }
+      ]
     },
     {
       "id": "negation",
@@ -2814,10 +5489,10 @@
           "source": "dahlstrom-2013"
         }
       ],
-      "ordinary_english": [
+      "note": "Spelled as the English word; 335 whole-word hits. Recorded so --expand cannot propose it as a search term.",
+      "unsearchable": [
         "Negation"
-      ],
-      "note": "Spelled as the English word; 335 whole-word hits. Recorded so --expand cannot propose it as a search term."
+      ]
     },
     {
       "id": "neugier",
@@ -2893,6 +5568,25 @@
       ]
     },
     {
+      "id": "niederschlaege",
+      "headword": "Niederschläge",
+      "language": "de",
+      "authors": [
+        "husserl"
+      ],
+      "forms": [
+        "Niederschläge",
+        "Sedimentierung"
+      ],
+      "renderings": [
+        {
+          "english": "Sedimentation",
+          "source": "corpus",
+          "locator": "husserl-erfahrung-und-urteil-commentary#h4-b-the-empty-modifications-arising-from-the-sedimentation-of-originally-formed-ju"
+        }
+      ]
+    },
+    {
       "id": "nihilismus",
       "headword": "Nihilismus",
       "language": "de",
@@ -2963,6 +5657,57 @@
       ]
     },
     {
+      "id": "nominaler-akt",
+      "headword": "nominaler Akt",
+      "language": "de",
+      "authors": [
+        "husserl"
+      ],
+      "forms": [
+        "nominaler Akt"
+      ],
+      "renderings": [
+        {
+          "english": "Nominal act",
+          "source": "moran-cohen-2012"
+        }
+      ]
+    },
+    {
+      "id": "nominalisierung",
+      "headword": "Nominalisierung",
+      "language": "de",
+      "authors": [
+        "husserl"
+      ],
+      "forms": [
+        "Nominalisierung"
+      ],
+      "renderings": [
+        {
+          "english": "Nominalization",
+          "source": "moran-cohen-2012"
+        }
+      ]
+    },
+    {
+      "id": "normalitaet",
+      "headword": "Normalität",
+      "language": "de",
+      "authors": [
+        "husserl"
+      ],
+      "forms": [
+        "Normalität"
+      ],
+      "renderings": [
+        {
+          "english": "Normality",
+          "source": "moran-cohen-2012"
+        }
+      ]
+    },
+    {
       "id": "not",
       "headword": "Not",
       "language": "de",
@@ -2978,17 +5723,109 @@
           "source": "dahlstrom-2013"
         }
       ],
-      "ordinary_english": [
+      "note": "Whole-word 26,852 times as English 'not', and inside nothing, note, notion. Recorded so --expand cannot propose it as a search term.",
+      "unsearchable": [
         "Not"
+      ]
+    },
+    {
+      "id": "nuance",
+      "headword": "Nuance",
+      "language": "de",
+      "authors": [
+        "husserl"
       ],
-      "note": "Whole-word 26,852 times as English 'not', and inside nothing, note, notion. Recorded so --expand cannot propose it as a search term."
+      "forms": [
+        "Nuance"
+      ],
+      "renderings": [
+        {
+          "english": "Nuance",
+          "source": "moran-cohen-2012"
+        }
+      ]
+    },
+    {
+      "id": "nullpunkt",
+      "headword": "Nullpunkt",
+      "language": "de",
+      "authors": [
+        "husserl"
+      ],
+      "forms": [
+        "Nullpunkt"
+      ],
+      "renderings": [
+        {
+          "english": "Zero point",
+          "source": "moran-cohen-2012"
+        }
+      ]
+    },
+    {
+      "id": "objekt",
+      "headword": "Objekt",
+      "language": "de",
+      "authors": [
+        "husserl"
+      ],
+      "forms": [
+        "Objekt",
+        "Gegenstand"
+      ],
+      "renderings": [
+        {
+          "english": "Object",
+          "source": "corpus",
+          "locator": "husserliana-33-die-bernauer-manuskripte-uber-das-zeitbewusstsein-commentary#h4-s-2-the-identical-non-objectual-and-non-temporal-ego-as-functioning-pole-primal"
+        }
+      ]
+    },
+    {
+      "id": "objektivierender-akt",
+      "headword": "objektivierender Akt",
+      "language": "de",
+      "authors": [
+        "husserl"
+      ],
+      "forms": [
+        "objektivierender Akt"
+      ],
+      "renderings": [
+        {
+          "english": "Objectifying act",
+          "source": "moran-cohen-2012"
+        },
+        {
+          "english": "objectivating act",
+          "source": "moran-cohen-2012"
+        }
+      ]
+    },
+    {
+      "id": "objektivismus",
+      "headword": "Objektivismus",
+      "language": "de",
+      "authors": [
+        "husserl"
+      ],
+      "forms": [
+        "Objektivismus"
+      ],
+      "renderings": [
+        {
+          "english": "Objectivism",
+          "source": "moran-cohen-2012"
+        }
+      ]
     },
     {
       "id": "objektivitaet",
       "headword": "Objektivität",
       "language": "de",
       "authors": [
-        "heidegger"
+        "heidegger",
+        "husserl"
       ],
       "forms": [
         "Objektivität"
@@ -3000,7 +5837,25 @@
         }
       ],
       "contrast_with": [
-        "gegenstaendigkeit"
+        "gegenstaendigkeit",
+        "gegenstaendlichkeit"
+      ]
+    },
+    {
+      "id": "occasionale-ausdrucken",
+      "headword": "occasionale Ausdrucken",
+      "language": "de",
+      "authors": [
+        "husserl"
+      ],
+      "forms": [
+        "occasionale Ausdrucken"
+      ],
+      "renderings": [
+        {
+          "english": "Occasional expressions",
+          "source": "moran-cohen-2012"
+        }
       ]
     },
     {
@@ -3088,17 +5943,137 @@
           "source": "dahlstrom-2013"
         }
       ],
-      "ordinary_english": [
+      "note": "Fires inside the English plural ontologies (166); 9 hits are the German. Recorded so --expand cannot propose it as a search term.",
+      "unsearchable": [
         "Ontologie"
+      ]
+    },
+    {
+      "id": "originalssphaere",
+      "headword": "Originalssphäre",
+      "language": "de",
+      "authors": [
+        "husserl"
       ],
-      "note": "Fires inside the English plural ontologies (166); 9 hits are the German. Recorded so --expand cannot propose it as a search term."
+      "forms": [
+        "Originalssphäre"
+      ],
+      "renderings": [
+        {
+          "english": "Original sphere",
+          "source": "moran-cohen-2012"
+        }
+      ]
+    },
+    {
+      "id": "paarung",
+      "headword": "Paarung",
+      "language": "de",
+      "authors": [
+        "husserl"
+      ],
+      "forms": [
+        "Paarung"
+      ],
+      "renderings": [
+        {
+          "english": "Pairing",
+          "source": "moran-cohen-2012"
+        }
+      ]
+    },
+    {
+      "id": "passive-synthesis",
+      "headword": "passive Synthesis",
+      "language": "de",
+      "authors": [
+        "husserl"
+      ],
+      "forms": [
+        "passive Synthesis"
+      ],
+      "renderings": [
+        {
+          "english": "Passive synthesis",
+          "source": "moran-cohen-2012"
+        }
+      ]
+    },
+    {
+      "id": "passivitaet",
+      "headword": "Passivität",
+      "language": "de",
+      "authors": [
+        "husserl"
+      ],
+      "forms": [
+        "Passivität"
+      ],
+      "renderings": [
+        {
+          "english": "Passivity",
+          "source": "moran-cohen-2012"
+        }
+      ]
+    },
+    {
+      "id": "person",
+      "headword": "Person",
+      "language": "de",
+      "authors": [
+        "husserl"
+      ],
+      "forms": [
+        "Person"
+      ],
+      "renderings": [
+        {
+          "english": "Person",
+          "source": "moran-cohen-2012"
+        }
+      ]
+    },
+    {
+      "id": "personalitaet-hoeherer-ordnung",
+      "headword": "Personalität höherer Ordnung",
+      "language": "de",
+      "authors": [
+        "husserl"
+      ],
+      "forms": [
+        "Personalität höherer Ordnung"
+      ],
+      "renderings": [
+        {
+          "english": "Personality of a higher order",
+          "source": "moran-cohen-2012"
+        }
+      ]
+    },
+    {
+      "id": "phaenomenalismus",
+      "headword": "Phänomenalismus",
+      "language": "de",
+      "authors": [
+        "husserl"
+      ],
+      "forms": [
+        "Phänomenalismus"
+      ],
+      "renderings": [
+        {
+          "english": "Phenomenalism",
+          "source": "moran-cohen-2012"
+        }
+      ]
     },
     {
       "id": "phaenomenologie",
       "headword": "Phänomenologie",
       "language": "de",
       "authors": [
-        "heidegger"
+        "heidegger",
+        "husserl"
       ],
       "forms": [
         "Phänomenologie"
@@ -3107,6 +6082,84 @@
         {
           "english": "Phenomenology",
           "source": "dahlstrom-2013"
+        }
+      ]
+    },
+    {
+      "id": "phaenomenon",
+      "headword": "Phänomenon",
+      "language": "de",
+      "authors": [
+        "husserl"
+      ],
+      "forms": [
+        "Phänomenon",
+        "phainomenon",
+        "φαινόμενoν"
+      ],
+      "renderings": [
+        {
+          "english": "Phenomenon",
+          "source": "moran-cohen-2012"
+        }
+      ]
+    },
+    {
+      "id": "phantasie",
+      "headword": "Phantasie",
+      "language": "de",
+      "authors": [
+        "husserl"
+      ],
+      "forms": [
+        "Phantasie"
+      ],
+      "renderings": [
+        {
+          "english": "Fantasy",
+          "source": "moran-cohen-2012"
+        },
+        {
+          "english": "Phantasy",
+          "source": "corpus",
+          "locator": "husserliana-23-phantasie-bildbewusstsein-erinnerung-commentary#h3-chapter-introduction"
+        }
+      ]
+    },
+    {
+      "id": "phantasievariation",
+      "headword": "Phantasievariation",
+      "language": "de",
+      "authors": [
+        "husserl"
+      ],
+      "forms": [
+        "Phantasievariation",
+        "freie Variation",
+        "Variation"
+      ],
+      "renderings": [
+        {
+          "english": "Imaginative free variation",
+          "source": "moran-cohen-2012"
+        }
+      ]
+    },
+    {
+      "id": "phantom",
+      "headword": "Phantom",
+      "language": "de",
+      "authors": [
+        "husserl"
+      ],
+      "forms": [
+        "Phantom"
+      ],
+      "renderings": [
+        {
+          "english": "Phantom",
+          "source": "corpus",
+          "locator": "husserliana-11-analyses-concerning-passive-and-active-synthesis-commentary#h3-s4-the-relation-of-esse-and-percipi-in-immanent-and-transcendent-perception"
         }
       ]
     },
@@ -3128,11 +6181,64 @@
       ]
     },
     {
+      "id": "platonismus",
+      "headword": "Platonismus",
+      "language": "de",
+      "authors": [
+        "husserl"
+      ],
+      "forms": [
+        "Platonismus"
+      ],
+      "renderings": [
+        {
+          "english": "Platonism",
+          "source": "moran-cohen-2012"
+        }
+      ]
+    },
+    {
+      "id": "protention",
+      "headword": "Protention",
+      "language": "de",
+      "authors": [
+        "husserl"
+      ],
+      "forms": [
+        "Protention"
+      ],
+      "renderings": [
+        {
+          "english": "Protention",
+          "source": "moran-cohen-2012"
+        }
+      ],
+      "theme": "zeitlichkeit"
+    },
+    {
+      "id": "psychologie",
+      "headword": "Psychologie",
+      "language": "de",
+      "authors": [
+        "husserl"
+      ],
+      "forms": [
+        "Psychologie"
+      ],
+      "renderings": [
+        {
+          "english": "Psychology",
+          "source": "moran-cohen-2012"
+        }
+      ]
+    },
+    {
       "id": "psychologismus",
       "headword": "Psychologismus",
       "language": "de",
       "authors": [
-        "heidegger"
+        "heidegger",
+        "husserl"
       ],
       "forms": [
         "Psychologismus"
@@ -3141,6 +6247,24 @@
         {
           "english": "Psychologism",
           "source": "dahlstrom-2013"
+        }
+      ]
+    },
+    {
+      "id": "querintentionalitaet",
+      "headword": "Querintentionalität",
+      "language": "de",
+      "authors": [
+        "husserl"
+      ],
+      "forms": [
+        "Querintentionalität"
+      ],
+      "renderings": [
+        {
+          "english": "Transverse intentionality",
+          "source": "corpus",
+          "locator": "bernet-la-vie-du-sujet-commentary#h4-i-4"
         }
       ]
     },
@@ -3162,11 +6286,29 @@
       ]
     },
     {
+      "id": "rationalismus",
+      "headword": "Rationalismus",
+      "language": "de",
+      "authors": [
+        "husserl"
+      ],
+      "forms": [
+        "Rationalismus"
+      ],
+      "renderings": [
+        {
+          "english": "Rationalism",
+          "source": "moran-cohen-2012"
+        }
+      ]
+    },
+    {
       "id": "rationalitaet",
       "headword": "Rationalität",
       "language": "de",
       "authors": [
-        "heidegger"
+        "heidegger",
+        "husserl"
       ],
       "forms": [
         "Rationalität"
@@ -3183,7 +6325,8 @@
       "headword": "Realismus",
       "language": "de",
       "authors": [
-        "heidegger"
+        "heidegger",
+        "husserl"
       ],
       "forms": [
         "Realismus"
@@ -3234,10 +6377,10 @@
           "source": "dahlstrom-2013"
         }
       ],
-      "ordinary_english": [
+      "note": "Fires inside redeem, redefined; 20 hits are the German. Recorded so --expand cannot propose it as a search term.",
+      "unsearchable": [
         "Rede"
-      ],
-      "note": "Fires inside redeem, redefined; 20 hits are the German. Recorded so --expand cannot propose it as a search term."
+      ]
     },
     {
       "id": "reduktion",
@@ -3276,6 +6419,119 @@
       ]
     },
     {
+      "id": "reell-and-real-real",
+      "headword": "reell) and Real (real",
+      "language": "de",
+      "authors": [
+        "husserl"
+      ],
+      "forms": [
+        "reell) and Real (real"
+      ],
+      "renderings": [
+        {
+          "english": "Reell",
+          "source": "moran-cohen-2012"
+        }
+      ]
+    },
+    {
+      "id": "reflexion",
+      "headword": "Reflexion",
+      "language": "de",
+      "authors": [
+        "husserl"
+      ],
+      "forms": [
+        "Reflexion",
+        "Besinnung"
+      ],
+      "renderings": [
+        {
+          "english": "Reflection",
+          "source": "corpus",
+          "locator": "husserl-formal-and-transcendental-logic-commentary#h2-introduction"
+        }
+      ]
+    },
+    {
+      "id": "region",
+      "headword": "Region",
+      "language": "de",
+      "authors": [
+        "husserl"
+      ],
+      "forms": [
+        "Region"
+      ],
+      "renderings": [
+        {
+          "english": "Region",
+          "source": "moran-cohen-2012"
+        }
+      ]
+    },
+    {
+      "id": "regionale-ontologie",
+      "headword": "regionale Ontologie",
+      "language": "de",
+      "authors": [
+        "husserl"
+      ],
+      "forms": [
+        "regionale Ontologie"
+      ],
+      "renderings": [
+        {
+          "english": "Regional ontology",
+          "source": "moran-cohen-2012"
+        }
+      ]
+    },
+    {
+      "id": "reine-grammatik",
+      "headword": "reine Grammatik",
+      "language": "de",
+      "authors": [
+        "husserl"
+      ],
+      "forms": [
+        "reine Grammatik"
+      ],
+      "renderings": [
+        {
+          "english": "Formal",
+          "source": "moran-cohen-2012"
+        },
+        {
+          "english": "pure grammar",
+          "source": "moran-cohen-2012"
+        }
+      ]
+    },
+    {
+      "id": "reiz",
+      "headword": "Reiz",
+      "language": "de",
+      "authors": [
+        "husserl"
+      ],
+      "forms": [
+        "Reiz"
+      ],
+      "renderings": [
+        {
+          "english": "Allure",
+          "source": "moran-cohen-2012"
+        },
+        {
+          "english": "stimulus",
+          "source": "corpus",
+          "locator": "husserl-erfahrung-und-urteil-commentary#h3-s17-affection-and-ego-turning-receptivity-as-the-lowest-level-of-egoic-activity"
+        }
+      ]
+    },
+    {
       "id": "rektoratsrede",
       "headword": "Rektoratsrede",
       "language": "de",
@@ -3291,6 +6547,41 @@
           "source": "dahlstrom-2013"
         }
       ]
+    },
+    {
+      "id": "relativismus",
+      "headword": "Relativismus",
+      "language": "de",
+      "authors": [
+        "husserl"
+      ],
+      "forms": [
+        "Relativismus"
+      ],
+      "renderings": [
+        {
+          "english": "Relativism",
+          "source": "moran-cohen-2012"
+        }
+      ]
+    },
+    {
+      "id": "retention",
+      "headword": "Retention",
+      "language": "de",
+      "authors": [
+        "husserl"
+      ],
+      "forms": [
+        "Retention"
+      ],
+      "renderings": [
+        {
+          "english": "Retention",
+          "source": "moran-cohen-2012"
+        }
+      ],
+      "theme": "zeitlichkeit"
     },
     {
       "id": "revolutionaer",
@@ -3324,6 +6615,61 @@
           "english": "considerateness",
           "source": "corpus",
           "locator": "heidegger-being-and-time-commentary#h3-s-31-dasein-as-understanding"
+        }
+      ]
+    },
+    {
+      "id": "sachlage",
+      "headword": "Sachlage",
+      "language": "de",
+      "authors": [
+        "husserl"
+      ],
+      "forms": [
+        "Sachlage"
+      ],
+      "renderings": [
+        {
+          "english": "Situation",
+          "source": "moran-cohen-2012"
+        }
+      ],
+      "contrast_with": [
+        "situation"
+      ]
+    },
+    {
+      "id": "sachverhalt",
+      "headword": "Sachverhalt",
+      "language": "de",
+      "authors": [
+        "husserl"
+      ],
+      "forms": [
+        "Sachverhalt"
+      ],
+      "renderings": [
+        {
+          "english": "State of affairs",
+          "source": "corpus",
+          "locator": "husserl-erfahrung-und-urteil-commentary#h3-s58-transition-to-a-new-level-of-predicative-achievements-the-preconstitution-of"
+        }
+      ]
+    },
+    {
+      "id": "saetze-an-sich",
+      "headword": "Sätze an sich",
+      "language": "de",
+      "authors": [
+        "husserl"
+      ],
+      "forms": [
+        "Sätze an sich"
+      ],
+      "renderings": [
+        {
+          "english": "Propositions in themselves",
+          "source": "moran-cohen-2012"
         }
       ]
     },
@@ -3362,6 +6708,24 @@
         {
           "english": "gathering",
           "source": "dahlstrom-2013"
+        }
+      ]
+    },
+    {
+      "id": "satz",
+      "headword": "Satz",
+      "language": "de",
+      "authors": [
+        "husserl"
+      ],
+      "forms": [
+        "Satz"
+      ],
+      "renderings": [
+        {
+          "english": "Proposition",
+          "source": "corpus",
+          "locator": "husserliana-26-theory-of-meaning-commentary#h4-a-meaning-as-the-specific-of-meaning-bestowal"
         }
       ]
     },
@@ -3461,10 +6825,12 @@
       "headword": "Sein",
       "language": "de",
       "authors": [
-        "heidegger"
+        "heidegger",
+        "husserl"
       ],
       "forms": [
-        "Sein"
+        "Sein",
+        "Seiendes"
       ],
       "renderings": [
         {
@@ -3492,6 +6858,23 @@
       ]
     },
     {
+      "id": "seinssinn",
+      "headword": "Seinssinn",
+      "language": "de",
+      "authors": [
+        "husserl"
+      ],
+      "forms": [
+        "Seinssinn"
+      ],
+      "renderings": [
+        {
+          "english": "Ontic meaning",
+          "source": "moran-cohen-2012"
+        }
+      ]
+    },
+    {
       "id": "selbst",
       "headword": "Selbst",
       "language": "de",
@@ -3506,6 +6889,108 @@
           "english": "Self",
           "source": "corpus",
           "locator": "bernet-la-vie-du-sujet-commentary#h4-intentionality-and-transcendence"
+        }
+      ]
+    },
+    {
+      "id": "selbstbeantwartigung",
+      "headword": "Selbstbeantwartigung",
+      "language": "de",
+      "authors": [
+        "husserl"
+      ],
+      "forms": [
+        "Selbstbeantwartigung"
+      ],
+      "renderings": [
+        {
+          "english": "Self-responsibility",
+          "source": "moran-cohen-2012"
+        }
+      ]
+    },
+    {
+      "id": "selbstbeobachtung",
+      "headword": "Selbstbeobachtung",
+      "language": "de",
+      "authors": [
+        "husserl"
+      ],
+      "forms": [
+        "Selbstbeobachtung"
+      ],
+      "renderings": [
+        {
+          "english": "Self-observation",
+          "source": "moran-cohen-2012"
+        }
+      ]
+    },
+    {
+      "id": "selbstbesinnung",
+      "headword": "Selbstbesinnung",
+      "language": "de",
+      "authors": [
+        "husserl"
+      ],
+      "forms": [
+        "Selbstbesinnung"
+      ],
+      "renderings": [
+        {
+          "english": "Self-reflection",
+          "source": "moran-cohen-2012"
+        }
+      ]
+    },
+    {
+      "id": "selbstdenker",
+      "headword": "Selbstdenker",
+      "language": "de",
+      "authors": [
+        "husserl"
+      ],
+      "forms": [
+        "Selbstdenker"
+      ],
+      "renderings": [
+        {
+          "english": "Self-thinker",
+          "source": "moran-cohen-2012"
+        }
+      ]
+    },
+    {
+      "id": "selbsterfahrung",
+      "headword": "Selbsterfahrung",
+      "language": "de",
+      "authors": [
+        "husserl"
+      ],
+      "forms": [
+        "Selbsterfahrung"
+      ],
+      "renderings": [
+        {
+          "english": "Self-experience",
+          "source": "moran-cohen-2012"
+        }
+      ]
+    },
+    {
+      "id": "setzender-akt",
+      "headword": "setzender Akt",
+      "language": "de",
+      "authors": [
+        "husserl"
+      ],
+      "forms": [
+        "setzender Akt"
+      ],
+      "renderings": [
+        {
+          "english": "Positing act",
+          "source": "moran-cohen-2012"
         }
       ]
     },
@@ -3548,7 +7033,8 @@
       "headword": "Sinn",
       "language": "de",
       "authors": [
-        "heidegger"
+        "heidegger",
+        "husserl"
       ],
       "forms": [
         "Sinn"
@@ -3570,6 +7056,75 @@
       ]
     },
     {
+      "id": "sinn-und-geltung",
+      "headword": "Sinn und Geltung",
+      "language": "de",
+      "authors": [
+        "husserl"
+      ],
+      "forms": [
+        "Sinn und Geltung"
+      ],
+      "renderings": [
+        {
+          "english": "Sense and validity",
+          "source": "moran-cohen-2012"
+        }
+      ]
+    },
+    {
+      "id": "sinnesdaten",
+      "headword": "Sinnesdaten",
+      "language": "de",
+      "authors": [
+        "husserl"
+      ],
+      "forms": [
+        "Sinnesdaten",
+        "Empfindungsdaten"
+      ],
+      "renderings": [
+        {
+          "english": "Sense data",
+          "source": "moran-cohen-2012"
+        }
+      ]
+    },
+    {
+      "id": "sinngebung",
+      "headword": "Sinngebung",
+      "language": "de",
+      "authors": [
+        "husserl"
+      ],
+      "forms": [
+        "Sinngebung"
+      ],
+      "renderings": [
+        {
+          "english": "Sense bestowal",
+          "source": "moran-cohen-2012"
+        }
+      ]
+    },
+    {
+      "id": "sinnlichkeit",
+      "headword": "Sinnlichkeit",
+      "language": "de",
+      "authors": [
+        "husserl"
+      ],
+      "forms": [
+        "Sinnlichkeit"
+      ],
+      "renderings": [
+        {
+          "english": "Sensibility",
+          "source": "moran-cohen-2012"
+        }
+      ]
+    },
+    {
       "id": "situation",
       "headword": "Situation",
       "language": "de",
@@ -3585,10 +7140,30 @@
           "source": "dahlstrom-2013"
         }
       ],
-      "ordinary_english": [
-        "Situation"
+      "note": "Spelled as the English word; 1,090 whole-word hits. Recorded so --expand cannot propose it as a search term.",
+      "contrast_with": [
+        "sachlage"
       ],
-      "note": "Spelled as the English word; 1,090 whole-word hits. Recorded so --expand cannot propose it as a search term."
+      "unsearchable": [
+        "Situation"
+      ]
+    },
+    {
+      "id": "skepticismus",
+      "headword": "Skepticismus",
+      "language": "de",
+      "authors": [
+        "husserl"
+      ],
+      "forms": [
+        "Skepticismus"
+      ],
+      "renderings": [
+        {
+          "english": "Scepticism",
+          "source": "moran-cohen-2012"
+        }
+      ]
     },
     {
       "id": "sorge",
@@ -3625,6 +7200,58 @@
       "note": "'care' is also an ordinary English word throughout the corpus, which is why the GA 19 absence records check the German family only. See synthesis/CLAUDE.md rule 5."
     },
     {
+      "id": "sozialer-akt",
+      "headword": "sozialer Akt",
+      "language": "de",
+      "authors": [
+        "husserl"
+      ],
+      "forms": [
+        "sozialer Akt"
+      ],
+      "renderings": [
+        {
+          "english": "Social act",
+          "source": "moran-cohen-2012"
+        }
+      ]
+    },
+    {
+      "id": "sozialitaet",
+      "headword": "Sozialität",
+      "language": "de",
+      "authors": [
+        "husserl"
+      ],
+      "forms": [
+        "Sozialität"
+      ],
+      "renderings": [
+        {
+          "english": "Sociality",
+          "source": "moran-cohen-2012"
+        }
+      ]
+    },
+    {
+      "id": "spezies",
+      "headword": "Spezies",
+      "language": "de",
+      "authors": [
+        "husserl"
+      ],
+      "forms": [
+        "Spezies",
+        "Gattung"
+      ],
+      "renderings": [
+        {
+          "english": "Species",
+          "source": "moran-cohen-2012"
+        }
+      ]
+    },
+    {
       "id": "spiel",
       "headword": "Spiel",
       "language": "de",
@@ -3646,7 +7273,8 @@
       "headword": "Sprache",
       "language": "de",
       "authors": [
-        "heidegger"
+        "heidegger",
+        "husserl"
       ],
       "forms": [
         "Sprache"
@@ -3694,6 +7322,41 @@
       ]
     },
     {
+      "id": "statische-phaenomenologie",
+      "headword": "statische Phänomenologie",
+      "language": "de",
+      "authors": [
+        "husserl"
+      ],
+      "forms": [
+        "statische Phänomenologie"
+      ],
+      "renderings": [
+        {
+          "english": "Static phenomenology",
+          "source": "moran-cohen-2012"
+        }
+      ]
+    },
+    {
+      "id": "stellungnehmen",
+      "headword": "Stellungnehmen",
+      "language": "de",
+      "authors": [
+        "husserl"
+      ],
+      "forms": [
+        "Stellungnehmen",
+        "Stellungnahme"
+      ],
+      "renderings": [
+        {
+          "english": "Position taking",
+          "source": "moran-cohen-2012"
+        }
+      ]
+    },
+    {
       "id": "sterblichen",
       "headword": "Sterblichen",
       "language": "de",
@@ -3711,6 +7374,27 @@
       ]
     },
     {
+      "id": "stil",
+      "headword": "Stil",
+      "language": "de",
+      "authors": [
+        "husserl"
+      ],
+      "forms": [
+        "Stil"
+      ],
+      "renderings": [
+        {
+          "english": "Style",
+          "source": "moran-cohen-2012"
+        }
+      ],
+      "unsearchable": [
+        "Stil"
+      ],
+      "note": "Fires inside the English 'still' (1,814); the bare word never occurs."
+    },
+    {
       "id": "stimmung",
       "headword": "Stimmung",
       "language": "de",
@@ -3725,6 +7409,23 @@
           "english": "Mood",
           "source": "corpus",
           "locator": "bernet-la-vie-du-sujet-commentary#h4-iii"
+        }
+      ]
+    },
+    {
+      "id": "stoff",
+      "headword": "Stoff",
+      "language": "de",
+      "authors": [
+        "husserl"
+      ],
+      "forms": [
+        "Stoff"
+      ],
+      "renderings": [
+        {
+          "english": "Stuff",
+          "source": "moran-cohen-2012"
         }
       ]
     },
@@ -3748,6 +7449,43 @@
           "source": "corpus",
           "locator": "henry-the-essence-of-manifestation-commentary#h2-s-13-the-ambiguity-of-dasein-essence-and-ontic-determination"
         }
+      ],
+      "contrast_with": [
+        "widerstreit"
+      ]
+    },
+    {
+      "id": "stueck",
+      "headword": "Stück",
+      "language": "de",
+      "authors": [
+        "husserl"
+      ],
+      "forms": [
+        "Stück"
+      ],
+      "renderings": [
+        {
+          "english": "Piece",
+          "source": "moran-cohen-2012"
+        }
+      ]
+    },
+    {
+      "id": "subjektivismus",
+      "headword": "Subjektivismus",
+      "language": "de",
+      "authors": [
+        "husserl"
+      ],
+      "forms": [
+        "Subjektivismus"
+      ],
+      "renderings": [
+        {
+          "english": "Subjectivism",
+          "source": "moran-cohen-2012"
+        }
       ]
     },
     {
@@ -3755,7 +7493,8 @@
       "headword": "Subjektivität",
       "language": "de",
       "authors": [
-        "heidegger"
+        "heidegger",
+        "husserl"
       ],
       "forms": [
         "Subjektivität"
@@ -3764,6 +7503,23 @@
         {
           "english": "Subjectivity",
           "source": "dahlstrom-2013"
+        }
+      ]
+    },
+    {
+      "id": "synthesis",
+      "headword": "Synthesis",
+      "language": "de",
+      "authors": [
+        "husserl"
+      ],
+      "forms": [
+        "Synthesis"
+      ],
+      "renderings": [
+        {
+          "english": "Synthesis",
+          "source": "moran-cohen-2012"
         }
       ]
     },
@@ -3781,6 +7537,23 @@
         {
           "english": "Technology",
           "source": "dahlstrom-2013"
+        }
+      ]
+    },
+    {
+      "id": "teil",
+      "headword": "Teil",
+      "language": "de",
+      "authors": [
+        "husserl"
+      ],
+      "forms": [
+        "Teil"
+      ],
+      "renderings": [
+        {
+          "english": "Part",
+          "source": "moran-cohen-2012"
         }
       ]
     },
@@ -3832,6 +7605,24 @@
       ]
     },
     {
+      "id": "theoria",
+      "headword": "Theoria",
+      "language": "de",
+      "authors": [
+        "husserl"
+      ],
+      "forms": [
+        "Theoria",
+        "θεωρία"
+      ],
+      "renderings": [
+        {
+          "english": "Theoria",
+          "source": "moran-cohen-2012"
+        }
+      ]
+    },
+    {
       "id": "tiere",
       "headword": "Tiere",
       "language": "de",
@@ -3864,10 +7655,10 @@
           "source": "dahlstrom-2013"
         }
       ],
-      "ordinary_english": [
+      "note": "Fires inside today (251); 4 hits are the German. Recorded so --expand cannot propose it as a search term.",
+      "unsearchable": [
         "Tod"
-      ],
-      "note": "Fires inside today (251); 4 hits are the German. Recorded so --expand cannot propose it as a search term."
+      ]
     },
     {
       "id": "topologie",
@@ -3902,20 +7693,123 @@
           "source": "dahlstrom-2013"
         }
       ],
-      "ordinary_english": [
-        "Tradition"
-      ],
       "contrast_with": [
         "ueberlieferung"
       ],
-      "note": "Spelled as the English word, and inside traditional, traditionally. Recorded so --expand cannot propose it as a search term."
+      "note": "Spelled as the English word, and inside traditional, traditionally. Recorded so --expand cannot propose it as a search term.",
+      "unsearchable": [
+        "Tradition"
+      ]
+    },
+    {
+      "id": "transzendental",
+      "headword": "transzendental",
+      "language": "de",
+      "authors": [
+        "husserl"
+      ],
+      "forms": [
+        "transzendental"
+      ],
+      "renderings": [
+        {
+          "english": "Transcendental",
+          "source": "moran-cohen-2012"
+        }
+      ]
+    },
+    {
+      "id": "transzendentale-erfahrung",
+      "headword": "transzendentale Erfahrung",
+      "language": "de",
+      "authors": [
+        "husserl"
+      ],
+      "forms": [
+        "transzendentale Erfahrung"
+      ],
+      "renderings": [
+        {
+          "english": "Transcendental experience",
+          "source": "moran-cohen-2012"
+        }
+      ]
+    },
+    {
+      "id": "transzendentale-intersubjektivitaet",
+      "headword": "transzendentale Intersubjektivität",
+      "language": "de",
+      "authors": [
+        "husserl"
+      ],
+      "forms": [
+        "transzendentale Intersubjektivität"
+      ],
+      "renderings": [
+        {
+          "english": "Transcendental intersubjectivity",
+          "source": "moran-cohen-2012"
+        }
+      ]
+    },
+    {
+      "id": "transzendentale-philosophie",
+      "headword": "transzendentale Philosophie",
+      "language": "de",
+      "authors": [
+        "husserl"
+      ],
+      "forms": [
+        "transzendentale Philosophie"
+      ],
+      "renderings": [
+        {
+          "english": "Transcendental philosophy",
+          "source": "moran-cohen-2012"
+        }
+      ]
+    },
+    {
+      "id": "transzendentaler-idealismus",
+      "headword": "transzendentaler Idealismus",
+      "language": "de",
+      "authors": [
+        "husserl"
+      ],
+      "forms": [
+        "transzendentaler Idealismus"
+      ],
+      "renderings": [
+        {
+          "english": "Transcendental idealism",
+          "source": "moran-cohen-2012"
+        }
+      ]
+    },
+    {
+      "id": "transzendentalismus",
+      "headword": "Transzendentalismus",
+      "language": "de",
+      "authors": [
+        "husserl"
+      ],
+      "forms": [
+        "Transzendentalismus"
+      ],
+      "renderings": [
+        {
+          "english": "Transcendentalism",
+          "source": "moran-cohen-2012"
+        }
+      ]
     },
     {
       "id": "transzendenz",
       "headword": "Transzendenz",
       "language": "de",
       "authors": [
-        "heidegger"
+        "heidegger",
+        "husserl"
       ],
       "forms": [
         "Transzendenz"
@@ -3932,7 +7826,8 @@
       "headword": "Trieb",
       "language": "de",
       "authors": [
-        "heidegger"
+        "heidegger",
+        "husserl"
       ],
       "forms": [
         "Trieb"
@@ -3943,6 +7838,27 @@
           "source": "dahlstrom-2013"
         }
       ]
+    },
+    {
+      "id": "typ",
+      "headword": "Typ",
+      "language": "de",
+      "authors": [
+        "husserl"
+      ],
+      "forms": [
+        "Typ"
+      ],
+      "renderings": [
+        {
+          "english": "Type",
+          "source": "moran-cohen-2012"
+        }
+      ],
+      "unsearchable": [
+        "Typ"
+      ],
+      "note": "Fires inside type, types, typical (787); the bare word never occurs."
     },
     {
       "id": "uebereinstimmung",
@@ -3999,6 +7915,23 @@
       ]
     },
     {
+      "id": "uebernationalitaet",
+      "headword": "Übernationalität",
+      "language": "de",
+      "authors": [
+        "husserl"
+      ],
+      "forms": [
+        "Übernationalität"
+      ],
+      "renderings": [
+        {
+          "english": "Supernationality",
+          "source": "moran-cohen-2012"
+        }
+      ]
+    },
+    {
       "id": "uebersetzung",
       "headword": "Übersetzung",
       "language": "de",
@@ -4016,6 +7949,23 @@
       ]
     },
     {
+      "id": "uebertragung",
+      "headword": "Übertragung",
+      "language": "de",
+      "authors": [
+        "husserl"
+      ],
+      "forms": [
+        "Übertragung"
+      ],
+      "renderings": [
+        {
+          "english": "Transference",
+          "source": "moran-cohen-2012"
+        }
+      ]
+    },
+    {
       "id": "ueberwindung",
       "headword": "überwindung",
       "language": "de",
@@ -4029,6 +7979,24 @@
         {
           "english": "overturning",
           "source": "dahlstrom-2013"
+        }
+      ]
+    },
+    {
+      "id": "ueberzeugung",
+      "headword": "Überzeugung",
+      "language": "de",
+      "authors": [
+        "husserl"
+      ],
+      "forms": [
+        "Überzeugung"
+      ],
+      "renderings": [
+        {
+          "english": "Conviction",
+          "source": "corpus",
+          "locator": "heidegger-sein-und-zeit-commentary#h5-s-52-everyday-being-toward-the-end-and-the-full-existential-concept-of-death"
         }
       ]
     },
@@ -4075,7 +8043,8 @@
       "headword": "Umwelt",
       "language": "de",
       "authors": [
-        "heidegger"
+        "heidegger",
+        "husserl"
       ],
       "forms": [
         "Umwelt"
@@ -4100,6 +8069,40 @@
       ]
     },
     {
+      "id": "unbeteiligter-zuschauer",
+      "headword": "unbeteiligter Zuschauer",
+      "language": "de",
+      "authors": [
+        "husserl"
+      ],
+      "forms": [
+        "unbeteiligter Zuschauer"
+      ],
+      "renderings": [
+        {
+          "english": "Non-participating spectator",
+          "source": "moran-cohen-2012"
+        }
+      ]
+    },
+    {
+      "id": "unendlichkeit",
+      "headword": "Unendlichkeit",
+      "language": "de",
+      "authors": [
+        "husserl"
+      ],
+      "forms": [
+        "Unendlichkeit"
+      ],
+      "renderings": [
+        {
+          "english": "Infinity",
+          "source": "moran-cohen-2012"
+        }
+      ]
+    },
+    {
       "id": "unheimlich",
       "headword": "Unheimlich",
       "language": "de",
@@ -4113,6 +8116,24 @@
         {
           "english": "Uncanny",
           "source": "dahlstrom-2013"
+        }
+      ]
+    },
+    {
+      "id": "unselbststaendigkeit",
+      "headword": "Unselbstständigkeit",
+      "language": "de",
+      "authors": [
+        "husserl"
+      ],
+      "forms": [
+        "Unselbstständigkeit",
+        "Abhängigkeit"
+      ],
+      "renderings": [
+        {
+          "english": "Dependency",
+          "source": "moran-cohen-2012"
         }
       ]
     },
@@ -4179,6 +8200,73 @@
       ]
     },
     {
+      "id": "urbewusstsein",
+      "headword": "Urbewusstsein",
+      "language": "de",
+      "authors": [
+        "husserl"
+      ],
+      "forms": [
+        "Urbewusstsein"
+      ],
+      "renderings": [
+        {
+          "english": "Primal consciousness",
+          "source": "moran-cohen-2012"
+        }
+      ]
+    },
+    {
+      "id": "urdoxa",
+      "headword": "Urdoxa",
+      "language": "de",
+      "authors": [
+        "husserl"
+      ],
+      "forms": [
+        "Urdoxa",
+        "Urglaube"
+      ],
+      "renderings": [
+        {
+          "english": "Fundamental belief",
+          "source": "moran-cohen-2012"
+        },
+        {
+          "english": "primal belief",
+          "source": "corpus",
+          "locator": "husserliana-3-ideas-i-parts-3-4-commentary#h3-s-104-the-doxic-modalities-as-modifications"
+        },
+        {
+          "english": "proto-doxa",
+          "source": "moran-cohen-2012"
+        }
+      ]
+    },
+    {
+      "id": "urimpression",
+      "headword": "Urimpression",
+      "language": "de",
+      "authors": [
+        "husserl"
+      ],
+      "forms": [
+        "Urimpression"
+      ],
+      "renderings": [
+        {
+          "english": "Primal impression",
+          "source": "corpus",
+          "locator": "bernet-la-vie-du-sujet-commentary#h4-i-5"
+        },
+        {
+          "english": "primordial impression",
+          "source": "moran-cohen-2012"
+        }
+      ],
+      "theme": "zeitlichkeit"
+    },
+    {
       "id": "urspruenglichkeit",
       "headword": "Ursprünglichkeit",
       "language": "de",
@@ -4192,6 +8280,46 @@
         {
           "english": "Primordiality",
           "source": "dahlstrom-2013"
+        }
+      ]
+    },
+    {
+      "id": "urstiftung",
+      "headword": "Urstiftung",
+      "language": "de",
+      "authors": [
+        "husserl"
+      ],
+      "forms": [
+        "Urstiftung"
+      ],
+      "renderings": [
+        {
+          "english": "Primal establishment",
+          "source": "moran-cohen-2012"
+        },
+        {
+          "english": "primal instituting",
+          "source": "corpus",
+          "locator": "husserliana-33-die-bernauer-manuskripte-uber-das-zeitbewusstsein-commentary#h4-s-1-individuality-and-identity-of-time-objects-fact-and-essence-ur-presentation"
+        }
+      ]
+    },
+    {
+      "id": "urteil",
+      "headword": "Urteil)",
+      "language": "de",
+      "authors": [
+        "husserl"
+      ],
+      "forms": [
+        "Urteil)",
+        "judging (Urteilen"
+      ],
+      "renderings": [
+        {
+          "english": "Judgement",
+          "source": "moran-cohen-2012"
         }
       ]
     },
@@ -4319,6 +8447,41 @@
       ]
     },
     {
+      "id": "vergegenstaendlichung",
+      "headword": "Vergegenständlichung",
+      "language": "de",
+      "authors": [
+        "husserl"
+      ],
+      "forms": [
+        "Vergegenständlichung",
+        "Objektivierung"
+      ],
+      "renderings": [
+        {
+          "english": "Objectification",
+          "source": "moran-cohen-2012"
+        }
+      ]
+    },
+    {
+      "id": "vergegenwaertigung",
+      "headword": "Vergegenwärtigung",
+      "language": "de",
+      "authors": [
+        "husserl"
+      ],
+      "forms": [
+        "Vergegenwärtigung"
+      ],
+      "renderings": [
+        {
+          "english": "Presentification",
+          "source": "moran-cohen-2012"
+        }
+      ]
+    },
+    {
       "id": "verhaltenheit",
       "headword": "Verhaltenheit",
       "language": "de",
@@ -4340,10 +8503,12 @@
       "headword": "Vernunft",
       "language": "de",
       "authors": [
-        "heidegger"
+        "heidegger",
+        "husserl"
       ],
       "forms": [
-        "Vernunft"
+        "Vernunft",
+        "ratio"
       ],
       "renderings": [
         {
@@ -4354,14 +8519,19 @@
       ],
       "contrast_with": [
         "grund"
-      ]
+      ],
+      "unsearchable": [
+        "ratio"
+      ],
+      "note": "Fires inside rational, rationalism, rationality (1,004); 109 hits are the Latin."
     },
     {
       "id": "verstehen",
       "headword": "Verstehen",
       "language": "de",
       "authors": [
-        "heidegger"
+        "heidegger",
+        "husserl"
       ],
       "forms": [
         "Verstehen"
@@ -4408,6 +8578,9 @@
           "source": "corpus",
           "locator": "heidegger-sein-und-zeit-commentary#h6-s-15-the-being-of-the-beings-encountered-in-the-environing-world"
         }
+      ],
+      "contrast_with": [
+        "meinung"
       ]
     },
     {
@@ -4436,6 +8609,23 @@
       ]
     },
     {
+      "id": "vielheit",
+      "headword": "Vielheit",
+      "language": "de",
+      "authors": [
+        "husserl"
+      ],
+      "forms": [
+        "Vielheit"
+      ],
+      "renderings": [
+        {
+          "english": "Multiplicity",
+          "source": "moran-cohen-2012"
+        }
+      ]
+    },
+    {
       "id": "volk",
       "headword": "Volk",
       "language": "de",
@@ -4449,6 +8639,23 @@
         {
           "english": "People",
           "source": "dahlstrom-2013"
+        }
+      ]
+    },
+    {
+      "id": "voraussetzunglosigkeit",
+      "headword": "Voraussetzunglosigkeit",
+      "language": "de",
+      "authors": [
+        "husserl"
+      ],
+      "forms": [
+        "Voraussetzunglosigkeit"
+      ],
+      "renderings": [
+        {
+          "english": "Presupppositionlessness",
+          "source": "moran-cohen-2012"
         }
       ]
     },
@@ -4556,6 +8763,27 @@
       ]
     },
     {
+      "id": "vorstellung",
+      "headword": "Vorstellung",
+      "language": "de",
+      "authors": [
+        "husserl"
+      ],
+      "forms": [
+        "Vorstellung"
+      ],
+      "renderings": [
+        {
+          "english": "Presentation",
+          "source": "corpus",
+          "locator": "husserliana-26-theory-of-meaning-commentary#h3-beilage-iii-presentation-as-phansical-and-as-ontic-meaning"
+        }
+      ],
+      "contrast_with": [
+        "gegenwaertigung"
+      ]
+    },
+    {
       "id": "vorstruktur",
       "headword": "Vorstruktur",
       "language": "de",
@@ -4611,7 +8839,8 @@
       "headword": "Wahrheit",
       "language": "de",
       "authors": [
-        "heidegger"
+        "heidegger",
+        "husserl"
       ],
       "forms": [
         "Wahrheit"
@@ -4624,11 +8853,68 @@
       ]
     },
     {
+      "id": "wahrheiten-an-sich",
+      "headword": "Wahrheiten an sich",
+      "language": "de",
+      "authors": [
+        "husserl"
+      ],
+      "forms": [
+        "Wahrheiten an sich"
+      ],
+      "renderings": [
+        {
+          "english": "Truths in themselves",
+          "source": "moran-cohen-2012"
+        }
+      ]
+    },
+    {
+      "id": "wahrnehmung",
+      "headword": "Wahrnehmung",
+      "language": "de",
+      "authors": [
+        "husserl"
+      ],
+      "forms": [
+        "Wahrnehmung"
+      ],
+      "renderings": [
+        {
+          "english": "Perception",
+          "source": "corpus",
+          "locator": "bernet-la-vie-du-sujet-commentary#h4-a-hermeneutic-conception-of-perception"
+        }
+      ]
+    },
+    {
+      "id": "walten",
+      "headword": "Walten",
+      "language": "de",
+      "authors": [
+        "husserl"
+      ],
+      "forms": [
+        "Walten"
+      ],
+      "renderings": [
+        {
+          "english": "Governing",
+          "source": "moran-cohen-2012"
+        },
+        {
+          "english": "holding sway",
+          "source": "moran-cohen-2012"
+        }
+      ]
+    },
+    {
       "id": "welt",
       "headword": "Welt",
       "language": "de",
       "authors": [
-        "heidegger"
+        "heidegger",
+        "husserl"
       ],
       "forms": [
         "Welt"
@@ -4645,7 +8931,8 @@
       "headword": "Weltanschauung",
       "language": "de",
       "authors": [
-        "heidegger"
+        "heidegger",
+        "husserl"
       ],
       "forms": [
         "Weltanschauung"
@@ -4675,6 +8962,62 @@
       ]
     },
     {
+      "id": "weltkonstitution",
+      "headword": "Weltkonstitution",
+      "language": "de",
+      "authors": [
+        "husserl"
+      ],
+      "forms": [
+        "Weltkonstitution"
+      ],
+      "renderings": [
+        {
+          "english": "World constitution",
+          "source": "moran-cohen-2012"
+        }
+      ]
+    },
+    {
+      "id": "weltvernichtung",
+      "headword": "Weltvernichtung",
+      "language": "de",
+      "authors": [
+        "husserl"
+      ],
+      "forms": [
+        "Weltvernichtung"
+      ],
+      "renderings": [
+        {
+          "english": "Annihilation of the world",
+          "source": "corpus",
+          "locator": "bernet-la-vie-du-sujet-commentary#h3-3-the-world-husserl"
+        }
+      ]
+    },
+    {
+      "id": "weltvorstellung",
+      "headword": "Weltvorstellung",
+      "language": "de",
+      "authors": [
+        "husserl"
+      ],
+      "forms": [
+        "Weltvorstellung"
+      ],
+      "renderings": [
+        {
+          "english": "World presentation",
+          "source": "moran-cohen-2012"
+        },
+        {
+          "english": "world representation",
+          "source": "moran-cohen-2012"
+        }
+      ]
+    },
+    {
       "id": "werk",
       "headword": "Werk",
       "language": "de",
@@ -4692,6 +9035,63 @@
       ]
     },
     {
+      "id": "wert",
+      "headword": "Wert",
+      "language": "de",
+      "authors": [
+        "husserl"
+      ],
+      "forms": [
+        "Wert"
+      ],
+      "renderings": [
+        {
+          "english": "Value",
+          "source": "moran-cohen-2012"
+        }
+      ]
+    },
+    {
+      "id": "werten",
+      "headword": "Werten",
+      "language": "de",
+      "authors": [
+        "husserl"
+      ],
+      "forms": [
+        "Werten",
+        "wertende Akte"
+      ],
+      "renderings": [
+        {
+          "english": "Valuing",
+          "source": "corpus",
+          "locator": "husserliana-43-2-studien-zur-struktur-des-bewusstseins-commentary#h3-s-1-determinations-of-the-thing-and-determinations-of-value"
+        },
+        {
+          "english": "valuation",
+          "source": "moran-cohen-2012"
+        }
+      ]
+    },
+    {
+      "id": "wertnehmen",
+      "headword": "Wertnehmen",
+      "language": "de",
+      "authors": [
+        "husserl"
+      ],
+      "forms": [
+        "Wertnehmen"
+      ],
+      "renderings": [
+        {
+          "english": "Value apprehension",
+          "source": "moran-cohen-2012"
+        }
+      ]
+    },
+    {
       "id": "wesen",
       "headword": "Wesen",
       "language": "de",
@@ -4700,7 +9100,9 @@
       ],
       "forms": [
         "Wesen",
-        "Wesenheit"
+        "Wesenheit",
+        "Essenz",
+        "Eidos"
       ],
       "renderings": [
         {
@@ -4722,6 +9124,23 @@
       ]
     },
     {
+      "id": "wesensgesetze",
+      "headword": "Wesensgesetze",
+      "language": "de",
+      "authors": [
+        "husserl"
+      ],
+      "forms": [
+        "Wesensgesetze"
+      ],
+      "renderings": [
+        {
+          "english": "Laws of essence",
+          "source": "moran-cohen-2012"
+        }
+      ]
+    },
+    {
       "id": "wesensschau",
       "headword": "Wesensschau",
       "language": "de",
@@ -4731,7 +9150,8 @@
         "derrida"
       ],
       "forms": [
-        "Wesensschau"
+        "Wesensschau",
+        "Wesenserschauung"
       ],
       "renderings": [
         {
@@ -4748,10 +9168,39 @@
           "english": "essential intuition",
           "source": "corpus",
           "locator": "husserliana-9-phenomenological-psychology-commentary#h4-beilage-xxviii-to-s45-summarizing-overview-of-the-lectures"
+        },
+        {
+          "english": "Eidetic insight",
+          "source": "moran-cohen-2012"
+        },
+        {
+          "english": "Eidetic intuition",
+          "source": "moran-cohen-2012"
         }
       ],
       "theme": "wesen",
       "note": "Three commentaries, three renderings of one term, all attested. A theme registered with any one of them finds a third of the passages. This entry is the argument for the lexicon in miniature."
+    },
+    {
+      "id": "widerstreit",
+      "headword": "Widerstreit)",
+      "language": "de",
+      "authors": [
+        "husserl"
+      ],
+      "forms": [
+        "Widerstreit)",
+        "(Entäuschung"
+      ],
+      "renderings": [
+        {
+          "english": "Conflict",
+          "source": "moran-cohen-2012"
+        }
+      ],
+      "contrast_with": [
+        "streit"
+      ]
     },
     {
       "id": "wiederholung",
@@ -4780,10 +9229,12 @@
       "headword": "Wille",
       "language": "de",
       "authors": [
-        "heidegger"
+        "heidegger",
+        "husserl"
       ],
       "forms": [
-        "Wille"
+        "Wille",
+        "der Wille"
       ],
       "renderings": [
         {
@@ -4791,13 +9242,13 @@
           "source": "dahlstrom-2013"
         }
       ],
-      "ordinary_english": [
-        "Wille"
-      ],
       "contrast_with": [
         "wollen"
       ],
-      "note": "Fires inside willed, willer; 2 hits are the German. Recorded so --expand cannot propose it as a search term."
+      "note": "Fires inside willed, willer; 2 hits are the German. Recorded so --expand cannot propose it as a search term.",
+      "unsearchable": [
+        "Wille"
+      ]
     },
     {
       "id": "wissen",
@@ -4814,6 +9265,9 @@
           "english": "knowing",
           "source": "dahlstrom-2013"
         }
+      ],
+      "contrast_with": [
+        "erkennen"
       ]
     },
     {
@@ -4821,7 +9275,8 @@
       "headword": "Wissenschaft",
       "language": "de",
       "authors": [
-        "heidegger"
+        "heidegger",
+        "husserl"
       ],
       "forms": [
         "Wissenschaft"
@@ -4886,17 +9341,36 @@
           "source": "dahlstrom-2013"
         }
       ],
-      "ordinary_english": [
+      "note": "Fires inside worth, worthy; the bare word never occurs. Recorded so --expand cannot propose it as a search term.",
+      "unsearchable": [
         "Wort"
+      ]
+    },
+    {
+      "id": "zahl",
+      "headword": "Zahl",
+      "language": "de",
+      "authors": [
+        "husserl"
       ],
-      "note": "Fires inside worth, worthy; the bare word never occurs. Recorded so --expand cannot propose it as a search term."
+      "forms": [
+        "Zahl",
+        "Anzahl"
+      ],
+      "renderings": [
+        {
+          "english": "Number",
+          "source": "moran-cohen-2012"
+        }
+      ]
     },
     {
       "id": "zeichen",
       "headword": "Zeichen",
       "language": "de",
       "authors": [
-        "heidegger"
+        "heidegger",
+        "husserl"
       ],
       "forms": [
         "Zeichen"
@@ -4914,7 +9388,8 @@
       "headword": "Zeit",
       "language": "de",
       "authors": [
-        "heidegger"
+        "heidegger",
+        "husserl"
       ],
       "forms": [
         "Zeit"
@@ -4958,9 +9433,30 @@
         {
           "english": "time-consciousness",
           "source": "repo-registry"
+        },
+        {
+          "english": "Time consciousness",
+          "source": "moran-cohen-2012"
         }
       ],
       "theme": "zeitlichkeit"
+    },
+    {
+      "id": "zeitigung",
+      "headword": "Zeitigung",
+      "language": "de",
+      "authors": [
+        "husserl"
+      ],
+      "forms": [
+        "Zeitigung"
+      ],
+      "renderings": [
+        {
+          "english": "Temporalization",
+          "source": "moran-cohen-2012"
+        }
+      ]
     },
     {
       "id": "zeitlichkeit",
@@ -5052,6 +9548,23 @@
         {
           "english": "being-handy",
           "source": "dahlstrom-2013"
+        }
+      ]
+    },
+    {
+      "id": "zusammenhang",
+      "headword": "Zusammenhang",
+      "language": "de",
+      "authors": [
+        "husserl"
+      ],
+      "forms": [
+        "Zusammenhang"
+      ],
+      "renderings": [
+        {
+          "english": "Nexus",
+          "source": "moran-cohen-2012"
         }
       ]
     },

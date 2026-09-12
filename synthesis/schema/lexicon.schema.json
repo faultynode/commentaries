@@ -47,7 +47,7 @@
         "id": {
           "type": "string",
           "pattern": "^[a-z0-9-]+$",
-          "description": "Transliterated headword slug (leib, koerper, fuersorge). One entry per term of art, not per author: a term shared by several authors lists them in 'authors' rather than being duplicated."
+          "description": "Transliterated headword slug (leib, koerper, fuersorge). One entry per term of art, not per author: a term shared by several authors lists them in 'authors' rather than being duplicated. Where two distinct headwords transliterate to the same slug - Husserl's Greek Epoche and Heidegger's German Epoche - the second takes a language suffix (epoche-de), because merging them would make one entry out of two words."
         },
         "headword": {
           "type": "string",
@@ -76,9 +76,9 @@
           "pattern": "^[a-z0-9-]+$",
           "description": "Theme id from synthesis/themes.json. Optional: an entry with no theme is a candidate, and that is what --candidates ranks."
         },
-        "ordinary_english": {
+        "unsearchable": {
           "type": "array",
-          "description": "Forms a search cannot separate from ordinary English, so --expand never proposes them as search terms. Two causes, both measurable with --attest: a homograph, where the German is spelled like a common English word (Not, Interpretation, Situation), and a prefix, where the left-anchored matcher fires inside longer English words (Natur in 'nature', Tod in 'today', Irre in 'irreducible'). The forms stay in 'forms' because they are the term's real forms; this is the German-side counterpart of the absent_terms rule in synthesis/CLAUDE.md.",
+          "description": "Forms whose hits in this corpus are mostly something else, so --expand never proposes them as search terms. Three causes, all visible in --attest's two counts: a homograph, where the German is spelled like a common English word (Not, Interpretation, Situation); a prefix, where the left-anchored matcher fires inside longer English words (Natur in 'nature', Tod in 'today', Stil in 'still'); and another word the corpus happens to contain, which need not be English at all (Leib inside Leibniz, 225 times against 44 real ones). The forms stay in 'forms' because they are the term's real forms; this is the German-side counterpart of the absent_terms rule in synthesis/CLAUDE.md.",
           "items": { "type": "string", "minLength": 1 }
         },
         "contrast_with": {
