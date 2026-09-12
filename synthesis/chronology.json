@@ -569,6 +569,51 @@
           "evidence": "The commentary references *Sein und Zeit* being published 'only months earlier' but gives no explicit semester or year for the course. Two prior lecture courses are mentioned (GA 22 and GA 23) as being from 'the two previous semesters' but without stating when those semesters occurred."
         }
       ]
+    },
+    {
+      "commentary": "derrida-introduction-a-lorigine-de-la-geometrie-commentary",
+      "role": "reception",
+      "status": "resolved",
+      "strata": [
+        {
+          "id": "derrida-intro-1961",
+          "label": "Introduction à *L'Origine de la géométrie*, July 1961",
+          "year_start": 1961,
+          "year_end": 1961,
+          "stated_in_commentary": true,
+          "evidence": "\"The Introduction is dated 'Juillet 1961.'\""
+        }
+      ]
+    },
+    {
+      "commentary": "henry-the-essence-of-manifestation-commentary",
+      "role": "reception",
+      "status": "unresolved",
+      "strata": [
+        {
+          "id": "henry-essence-undated",
+          "label": "Commentary on *L'essence de la manifestation* (1963)",
+          "year_start": null,
+          "year_end": null,
+          "stated_in_commentary": false,
+          "evidence": "The commentary does not explicitly state the publication date of Henry's work; it refers only to Henry's engagement with Heidegger and Husserl. Henry's *L'essence de la manifestation* was published in 1963, but this date is not stated in the commentary itself."
+        }
+      ]
+    },
+    {
+      "commentary": "bernet-la-vie-du-sujet-commentary",
+      "role": "reception",
+      "status": "resolved",
+      "strata": [
+        {
+          "id": "bernet-vie-1994",
+          "label": "*La vie du sujet: Recherches sur l'interprétation de Husserl dans la phénoménologie*, 1994",
+          "year_start": 1994,
+          "year_end": 1994,
+          "stated_in_commentary": true,
+          "evidence": "\"References are to the pagination of the Presses Universitaires de France edition (Épiméthée, 1994)\""
+        }
+      ]
     }
   ]
 }

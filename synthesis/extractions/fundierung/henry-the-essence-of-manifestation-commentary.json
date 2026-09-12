@@ -1,0 +1,161 @@
+{
+  "schema_version": 1,
+  "theme": "fundierung",
+  "commentary": "henry-the-essence-of-manifestation-commentary",
+  "source_sha256": "81321687b3823d9c3244b29758d979f86bd9d4ac28813fa58686aa2e9446ff68",
+  "extracted_at": "2026-09-12",
+  "extractor": {
+    "agent": "claude-code",
+    "prompt": "Stage 1 extraction, theme fundierung (founding of higher-order objectivities), one commentary.",
+    "note": "Re-extracted with claude-opus-5. Replaces the 2026-09-11 pass, which took three units from the densest commentary in the corpus for this theme, and whose unit on life read the passage as self-constitution where the text denies that life becomes what it receives."
+  },
+  "coverage": "partial",
+  "coverage_note": "Scanned § 30 (lines 1573-1600), § 31 (lines 1601-1636), § 37 (lines 1727-1895) and § 42 (lines 2285-2389). The Introduction, §§ 1-29, 32-36, 38-41 and 43-70 — including the Eckhart sections and Section IV on affectivity — are not covered.",
+  "units": [
+    {
+      "id": "fundierung/henry/001",
+      "locator": "henry-the-essence-of-manifestation-commentary#h2-s-30-the-ontological-determination-of-the-original-essence-of-revelation-as-imma",
+      "primary_locator": "The Essence of Manifestation, § 30",
+      "term": "immanent content as constitutive element of the essence",
+      "status": "introduced",
+      "claim": "To belong to the essence is to enter as a constitutive element into its internal structure, and how a pure ontological content does so depends on the nature of that structure.",
+      "quote": "To belong to the essence means to enter as a constitutive element into its internal structure — and how a pure ontological content does so depends on the nature of that structure."
+    },
+    {
+      "id": "fundierung/henry/002",
+      "locator": "henry-the-essence-of-manifestation-commentary#h2-s-30-the-ontological-determination-of-the-original-essence-of-revelation-as-imma",
+      "primary_locator": "The Essence of Manifestation, § 30",
+      "term": "content constituted by the essence that receives it",
+      "status": "introduced",
+      "claim": "Henry concludes that the pure ontological content of the essence of immanence is constituted by that essence.",
+      "quote": "Henry's conclusion is that the pure ontological content of the essence of immanence is constituted by that essence."
+    },
+    {
+      "id": "fundierung/henry/003",
+      "locator": "henry-the-essence-of-manifestation-commentary#h2-s-30-the-ontological-determination-of-the-original-essence-of-revelation-as-imma",
+      "primary_locator": "The Essence of Manifestation, § 30",
+      "term": "presuppositions blocking a rigorous grasp of immanent content",
+      "status": "criticized",
+      "claim": "Where the indeterminacy is lifted, the determination proceeds under presuppositions that forbid any rigorous ontological grasp of a content's immanence.",
+      "quote": "the determination is not free: it proceeds under presuppositions that forbid any rigorous ontological grasp of a content's immanence."
+    },
+    {
+      "id": "fundierung/henry/004",
+      "locator": "henry-the-essence-of-manifestation-commentary#h2-s-31-the-fundamental-ambiguity-in-the-concept-of-auto-affection-auto-affection-a",
+      "primary_locator": "The Essence of Manifestation, § 31",
+      "term": "link between essence and the content it constitutes",
+      "status": "introduced",
+      "claim": "Understanding the internal structure of auto-affection depends on the link between the essence and a content that the essence itself constitutes.",
+      "quote": "Understanding that structure therefore depends on the link between the essence and its content when the content is constituted by the essence — and the nature of that link, the manner in which the essence receives a content constituted by it, is precisely what the problematic of receptivity has clarified."
+    },
+    {
+      "id": "fundierung/henry/005",
+      "locator": "henry-the-essence-of-manifestation-commentary#h2-s-31-the-fundamental-ambiguity-in-the-concept-of-auto-affection-auto-affection-a",
+      "primary_locator": "The Essence of Manifestation, § 31",
+      "term": "horizon as content the essence constitutes and receives",
+      "status": "criticized",
+      "claim": "Where the ontological content is the pure element letting beings appear, it is the essence that constitutes the content it receives, so the content cannot rightly be called exterior to it.",
+      "quote": "it is manifestly the essence that constitutes the content it receives."
+    },
+    {
+      "id": "fundierung/henry/006",
+      "locator": "henry-the-essence-of-manifestation-commentary#h2-s-37-the-internal-structure-of-immanence",
+      "primary_locator": "The Essence of Manifestation, § 37",
+      "term": "exclusion of transcendence from the internal nature of the essence",
+      "status": "introduced",
+      "claim": "The thought of exclusion penetrates into the essence itself, in its internal nature: it is in the essence that there is nothing transcendent.",
+      "quote": "It is in the essence itself that there is nothing transcendent; it is in the essence — in its internal nature — that the thought of exclusion penetrates."
+    },
+    {
+      "id": "fundierung/henry/007",
+      "locator": "henry-the-essence-of-manifestation-commentary#h2-s-37-the-internal-structure-of-immanence",
+      "primary_locator": "The Essence of Manifestation, § 37",
+      "term": "passivity with regard to self, not to alterity",
+      "status": "revised",
+      "claim": "The passivity that fundamentally determines the ontological power is a passivity of being with regard to itself rather than to something other, and so a passivity in unity.",
+      "quote": "*The passivity that fundamentally determines the ontological power is, as passivity of being with regard to itself (not of something other), a passivity in unity.*"
+    },
+    {
+      "id": "fundierung/henry/008",
+      "locator": "henry-the-essence-of-manifestation-commentary#h2-s-37-the-internal-structure-of-immanence",
+      "primary_locator": "The Essence of Manifestation, § 37",
+      "term": "to be oneself what one receives",
+      "status": "introduced",
+      "claim": "To be oneself what one receives, and as such to be essentially passive with regard to oneself, is the essence of life.",
+      "quote": "To be oneself what one receives — and as such essentially *passive with regard to oneself* — such is however the essence of *life*"
+    },
+    {
+      "id": "fundierung/henry/009",
+      "locator": "henry-the-essence-of-manifestation-commentary#h2-s-37-the-internal-structure-of-immanence",
+      "primary_locator": "The Essence of Manifestation, § 37",
+      "term": "life not becoming but being what it receives",
+      "status": "criticized",
+      "claim": "Against Hegel's formula, life and spirit do not become what they receive; they are it, and since always, insofar as they are themselves what they receive.",
+      "quote": "This is why, in truth, they do not *become* it; *they are it* — and that since always, because, since always, this is what they are — what they receive insofar precisely as *they are themselves what they receive*."
+    },
+    {
+      "id": "fundierung/henry/010",
+      "locator": "henry-the-essence-of-manifestation-commentary#h2-s-37-the-internal-structure-of-immanence",
+      "primary_locator": "The Essence of Manifestation, § 37",
+      "term": "the experience of acquiescence as presupposing the structure",
+      "status": "presupposed",
+      "claim": "Far from revealing the internal structure of revelation, the experience of acquiescence presupposes that structure as what reveals the experience originarily to itself.",
+      "quote": "far from revealing this structure, the experience of acquiescence *presupposes* this structure on the contrary — as *what reveals it (the experience of acquiescence) originarily to itself*, insofar as this structure (the internal structure of revelation) reveals itself originarily to itself."
+    },
+    {
+      "id": "fundierung/henry/011",
+      "locator": "henry-the-essence-of-manifestation-commentary#h2-s-42-the-ontological-determination-of-the-essence-of-situation-as-immanence-and",
+      "primary_locator": "The Essence of Manifestation, § 42",
+      "term": "founding its own situation as the hidden aim of the philosophy of transcendence",
+      "status": "introduced",
+      "claim": "The task of founding its proper situation from transcendence itself is one of the ultimate, most often hidden, aims of the philosophy of transcendence.",
+      "quote": "*The task of founding, from transcendence itself, its proper situation* constitutes in fact one of its ultimate aims, even if most often hidden."
+    },
+    {
+      "id": "fundierung/henry/012",
+      "locator": "henry-the-essence-of-manifestation-commentary#h2-s-42-the-ontological-determination-of-the-essence-of-situation-as-immanence-and",
+      "primary_locator": "The Essence of Manifestation, § 42",
+      "term": "to found is for transcendence to found itself",
+      "status": "introduced",
+      "claim": "For transcendence, to found and to be a foundation is to found itself.",
+      "quote": "To found, to be a foundation, is therefore for transcendence *to found itself*."
+    },
+    {
+      "id": "fundierung/henry/013",
+      "locator": "henry-the-essence-of-manifestation-commentary#h2-s-42-the-ontological-determination-of-the-essence-of-situation-as-immanence-and",
+      "primary_locator": "The Essence of Manifestation, § 42",
+      "term": "reciprocity of founding and being founded",
+      "status": "introduced",
+      "claim": "Project and investment together constitute transcendence as foundation: it founds by projecting and is itself founded, in another sense, by being invested in the world it projects.",
+      "quote": "These two moments together constitute transcendence as *foundation*: it founds by projecting, but it itself is also founded (in another sense) by being invested in the world it projects."
+    },
+    {
+      "id": "fundierung/henry/014",
+      "locator": "henry-the-essence-of-manifestation-commentary#h2-s-42-the-ontological-determination-of-the-essence-of-situation-as-immanence-and",
+      "primary_locator": "The Essence of Manifestation, § 42",
+      "term": "Dasein as foundation of its power-to-be",
+      "status": "presupposed",
+      "claim": "Deciding each time itself what it is and can be, Dasein is in its existence the foundation of its power-to-be.",
+      "quote": "*Dasein is, in its existence, the foundation of its power-to-be*"
+    },
+    {
+      "id": "fundierung/henry/015",
+      "locator": "henry-the-essence-of-manifestation-commentary#h2-s-42-the-ontological-determination-of-the-essence-of-situation-as-immanence-and",
+      "primary_locator": "The Essence of Manifestation, § 42",
+      "term": "Geworfenheit as a coming not founded in transcendence",
+      "status": "criticized",
+      "claim": "The coming of transcendence into the Dasein does not depend on transcendence but is imposed on it as what does not find its foundation in it.",
+      "quote": "this coming does not depend on transcendence but is on the contrary imposed on it as what finds not in it its foundation"
+    },
+    {
+      "id": "fundierung/henry/016",
+      "locator": "henry-the-essence-of-manifestation-commentary#h2-s-42-the-ontological-determination-of-the-essence-of-situation-as-immanence-and",
+      "primary_locator": "The Essence of Manifestation, § 42",
+      "term": "dédoublement of situation",
+      "status": "criticized",
+      "claim": "The evidence that condemns the problematic of transcendence is that to be situated means, for transcendence, not to be the foundation of its situation.",
+      "quote": "to be situated means, for transcendence, not to be the foundation of its situation*"
+    }
+  ],
+  "absences": []
+}

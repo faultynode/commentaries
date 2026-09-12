@@ -1,0 +1,170 @@
+{
+  "schema_version": 1,
+  "theme": "fundierung",
+  "commentary": "derrida-introduction-a-lorigine-de-la-geometrie-commentary",
+  "source_sha256": "d88dc07ec83bdabc771b2e7ffa2f60764136bc0f531626ed13e58223d20ca693",
+  "extracted_at": "2026-09-12",
+  "extractor": {
+    "agent": "claude-code",
+    "prompt": "Stage 1 extraction, theme fundierung (founding of higher-order objectivities), one commentary.",
+    "note": "Re-extracted with claude-opus-5. Replaces the 2026-09-11 pass, whose coverage note cited paragraph ranges that fell outside the one section its units came from, and whose closing unit quoted step (i) of a three-step dialectic as if it were the commentary's own thesis."
+  },
+  "coverage": "partial",
+  "coverage_note": "Scanned § II (lines 57-140) and § VII (lines 289-368), the two densest sections for this theme. §§ I, III-VI and VIII-XI are not covered.",
+  "units": [
+    {
+      "id": "fundierung/derrida/001",
+      "locator": "derrida-introduction-a-lorigine-de-la-geometrie-commentary#h2-ii",
+      "primary_locator": "Introduction à L'Origine de la géométrie, § II",
+      "term": "Abbau of the sedimentations of mathematized nature",
+      "status": "criticized",
+      "claim": "The radicalist exigency demands that the sedimentations on which the infinite mathematization of nature was founded be themselves undone.",
+      "quote": "the *sedimentations on which the enterprise of an infinite mathematization of nature was founded* be themselves *undone* (*défaites*)"
+    },
+    {
+      "id": "fundierung/derrida/002",
+      "locator": "derrida-introduction-a-lorigine-de-la-geometrie-commentary#h2-ii",
+      "primary_locator": "Introduction à L'Origine de la géométrie, § II",
+      "term": "archi-sol / Urboden",
+      "status": "introduced",
+      "claim": "The question in return moves back to the originally sense-bestowing production which operates as idealization on the archi-ground of all theoretical and practical life.",
+      "quote": "*originally sense-bestowing production* which operates, as *idealization*, on the *archi-ground* (*archi-sol*, *Urboden*) of all theoretical and practical life — the ground of the immediately intuitive world (here, specifically, of the empirically intuitive world of bodies) — and furnishes the ideal formations of geometry."
+    },
+    {
+      "id": "fundierung/derrida/003",
+      "locator": "derrida-introduction-a-lorigine-de-la-geometrie-commentary#h2-ii",
+      "primary_locator": "Introduction à L'Origine de la géométrie, § II",
+      "term": "sedimentation, étages, couches, soubassements",
+      "status": "introduced",
+      "claim": "A geological metaphor of sedimentation, deposits, levels, strata and substructures of sense runs through the text.",
+      "quote": "*geological metaphor* that runs through the text, with its multiplied allusions to *sedimentation*, deposits, levels (*étages*), strata (*couches*), and substructures (*soubassements*) of sense."
+    },
+    {
+      "id": "fundierung/derrida/004",
+      "locator": "derrida-introduction-a-lorigine-de-la-geometrie-commentary#h2-ii",
+      "primary_locator": "Introduction à L'Origine de la géométrie, § II",
+      "term": "géométrie en train de se fonder",
+      "status": "criticized",
+      "claim": "Kant's account instructs us about the sense of ready-made geometry but not about geometry in the process of founding itself.",
+      "quote": "it instructs us about the sense of *ready-made geometry as such*, but not about *geometry in the process of founding itself* (*la géométrie en train de se fonder*)."
+    },
+    {
+      "id": "fundierung/derrida/005",
+      "locator": "derrida-introduction-a-lorigine-de-la-geometrie-commentary#h2-ii",
+      "primary_locator": "Introduction à L'Origine de la géométrie, § II",
+      "term": "opération distinguished from fondation",
+      "status": "criticized",
+      "claim": "The Kantian construction yields the history of an operation and not of a founding, deploying explicitation within a space of possibility already opened.",
+      "quote": "But it is the history of an *operation*, not of a *founding* (*l'histoire d'une opération et non d'une fondation*): it deploys gestures of explicitation within the space of a possibility *already opened* to the geometer."
+    },
+    {
+      "id": "fundierung/derrida/006",
+      "locator": "derrida-introduction-a-lorigine-de-la-geometrie-commentary#h2-ii",
+      "primary_locator": "Introduction à L'Origine de la géométrie, § II",
+      "term": "founding sense withheld from psychological experience",
+      "status": "presupposed",
+      "claim": "At the stage of the Logical Investigations no psychological experience and no event-content had, as such, a founding sense.",
+      "quote": "no psychological experience, no event-content had, *as such*, a founding sense"
+    },
+    {
+      "id": "fundierung/derrida/007",
+      "locator": "derrida-introduction-a-lorigine-de-la-geometrie-commentary#h2-ii",
+      "primary_locator": "Introduction à L'Origine de la géométrie, § II",
+      "term": "non-dependence without positive foundation",
+      "status": "revised",
+      "claim": "The early relation of ideality to perception is described only negatively, as non-dependence; the positive foundation of truth is not itself sought.",
+      "quote": "it is the *non-dependence* that is underlined; the *positive foundation* of the truth is not sought for itself — one simply reduces, within the mathematical \"phenomenon,\" what cannot presently be retained as foundation."
+    },
+    {
+      "id": "fundierung/derrida/008",
+      "locator": "derrida-introduction-a-lorigine-de-la-geometrie-commentary#h2-ii",
+      "primary_locator": "Introduction à L'Origine de la géométrie, § II",
+      "term": "Urstiftung as the foundation Descartes delegated to God",
+      "status": "introduced",
+      "claim": "Where Descartes delegates the foundation of evidence to a veracious God, Husserl seeks that foundation in historical acts of originary founding.",
+      "quote": "Husserl, after an analogous descriptive stage, will seek that foundation *in historical acts of originary founding* (*Urstiftung*)."
+    },
+    {
+      "id": "fundierung/derrida/009",
+      "locator": "derrida-introduction-a-lorigine-de-la-geometrie-commentary#h2-ii",
+      "primary_locator": "Introduction à L'Origine de la géométrie, § II",
+      "term": "proto-idealizations on the substrate of a perceived world",
+      "status": "introduced",
+      "claim": "If idealities neither pre-exist every subjective act nor lack a history, they must relate as to their originary foundation to proto-idealizations on the substrate of a real, effectively perceived world.",
+      "quote": "they must relate, as to their originary foundation, to *proto-idealizations on the substrate of a real, effectively perceived world* (*sur le substrat d'un monde réal effectivement perçu*)."
+    },
+    {
+      "id": "fundierung/derrida/010",
+      "locator": "derrida-introduction-a-lorigine-de-la-geometrie-commentary#h2-ii",
+      "primary_locator": "Introduction à L'Origine de la géométrie, § II",
+      "term": "reference back to a real founding act",
+      "status": "introduced",
+      "claim": "What distinguishes a tradition of truth from an arbitrary phantasm is the reference back to a real founding act, not a present percept.",
+      "quote": "only the reference back to a real founding act distinguishes a tradition of truth from an arbitrary phantasm"
+    },
+    {
+      "id": "fundierung/derrida/011",
+      "locator": "derrida-introduction-a-lorigine-de-la-geometrie-commentary#h2-ii",
+      "primary_locator": "Introduction à L'Origine de la géométrie, § II",
+      "term": "worldly history presupposes the having-currency it cannot found",
+      "status": "revised",
+      "claim": "As the history of its transmission does not found the value of gold, no worldly history can deliver the sense of ideal having-currency, which that history on the contrary presupposes.",
+      "quote": "no more than the history of its transmission founds the value of gold\" can any *worldly* history deliver the sense of this having-currency, since worldly history on the contrary *presupposes* it."
+    },
+    {
+      "id": "fundierung/derrida/012",
+      "locator": "derrida-introduction-a-lorigine-de-la-geometrie-commentary#h2-ii",
+      "primary_locator": "Introduction à L'Origine de la géométrie, § II",
+      "term": "irreplaceability of the founding fact",
+      "status": "introduced",
+      "claim": "Taken as singular historical origin, the founding fact would be irreplaceable and hence invariable.",
+      "quote": "as singular historical origin, the founding fact would be irreplaceable, hence invariable*"
+    },
+    {
+      "id": "fundierung/derrida/013",
+      "locator": "derrida-introduction-a-lorigine-de-la-geometrie-commentary#h2-ii",
+      "primary_locator": "Introduction à L'Origine de la géométrie, § II",
+      "term": "Founding history as indissociability of fact and right",
+      "status": "introduced",
+      "claim": "Founding history would be the deep place of the indissociability of sense and being, of fact and right.",
+      "quote": "Founding history would be the deep place of the *indissociability of sense and being, of fact and right*;"
+    },
+    {
+      "id": "fundierung/derrida/014",
+      "locator": "derrida-introduction-a-lorigine-de-la-geometrie-commentary#h2-vii",
+      "primary_locator": "Introduction à L'Origine de la géométrie, § VII",
+      "term": "insufficiency of the speaking subject",
+      "status": "introduced",
+      "claim": "The speaking subject taken by itself is incapable of absolutely founding the ideal objectivity of sense.",
+      "quote": "the *speaking* subject, in the narrow sense of the term, is *incapable of absolutely founding the ideal objectivity of sense*"
+    },
+    {
+      "id": "fundierung/derrida/015",
+      "locator": "derrida-introduction-a-lorigine-de-la-geometrie-commentary#h2-vii",
+      "primary_locator": "Introduction à L'Origine de la géométrie, § VII",
+      "term": "irreal as founded in a real yet identical across realities",
+      "status": "introduced",
+      "claim": "The irreal is defined as what is founded in a specific real by its spatio-temporal apparition yet can appear in different realities as identical and not merely similar.",
+      "quote": "and *irreal* \"every determination that is doubtless *founded* in a specific real by virtue of its spatio-temporal apparition, but can appear in *different* realities *as identical* — and not merely as similar\""
+    },
+    {
+      "id": "fundierung/derrida/016",
+      "locator": "derrida-introduction-a-lorigine-de-la-geometrie-commentary#h2-vii",
+      "primary_locator": "Introduction à L'Origine de la géométrie, § VII",
+      "term": "ideality of the signifier's form as an unthematized stratum",
+      "status": "introduced",
+      "claim": "The note discovers a stratum Husserl never thematized, the ideality of the signifier's form.",
+      "quote": "it discovers a stratum Husserl never thematized (the ideality of the signifier's form — in later terms, the iterability of the mark)"
+    },
+    {
+      "id": "fundierung/derrida/017",
+      "locator": "derrida-introduction-a-lorigine-de-la-geometrie-commentary#h2-vii",
+      "primary_locator": "Introduction à L'Origine de la géométrie, § VII",
+      "term": "writing as condition of tradition and of forgetting",
+      "status": "revised",
+      "claim": "Writing is at once the condition of the infinite tradition of truth and the condition of its forgetting, the remedy and the source of crisis being one possibility.",
+      "quote": "Writing is at once the condition of the infinite tradition of truth *and* the condition of its forgetting; the pharmakon-structure that Derrida will analyze a decade later in Plato is here read off from Husserl's own text, where the remedy for finitude and the source of crisis are demonstrably one and the same possibility."
+    }
+  ],
+  "absences": []
+}

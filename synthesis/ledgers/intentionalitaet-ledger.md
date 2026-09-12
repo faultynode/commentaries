@@ -1102,6 +1102,87 @@
 
 *Read alongside the spine, not on it. A commentator's date orders the reception, not the doctrine.*
 
+### 1961 - Derrida, Introduction à L'Origine de la géométrie
+
+`derrida-introduction-a-lorigine-de-la-geometrie-commentary`
+
+- **introduced** · `intentionalitaet/derrida-iog/001` · *non-reellity of the noema*
+  Beneath the regional distinction between ideal and real objects lies the non-reell status of the noema, which in the last analysis permits the repetition of sense as the same and makes possible the idealization of identity in general.
+  `derrida-introduction-a-lorigine-de-la-geometrie-commentary#h2-v` · Introduction à L'Origine de la géométrie, § V · [V](https://faultynode.github.io/commentaries/commentaries/derrida/derrida-introduction-a-lorigine-de-la-geometrie-commentary.html#v)
+  > this non-reellity of the noema — "a notion of the most difficult and the most decisive" — is what, in the last analysis, *permits the repetition of sense as the "same"* and *makes possible the idealization of identity in general*
+
+- **introduced** · `intentionalitaet/derrida-iog/002` · *immediate eidetics of speech*
+  Language presupposes a spontaneous neutralization of the factual existence of the speaker, the words and the thing designated, so that speech is only the practice of an immediate eidetics and the reduction is implicitly operated as soon as one considers language for itself.
+  `derrida-introduction-a-lorigine-de-la-geometrie-commentary#h2-v` · Introduction à L'Origine de la géométrie, § V · [V](https://faultynode.github.io/commentaries/commentaries/derrida/derrida-introduction-a-lorigine-de-la-geometrie-commentary.html#v)
+  > the reduction is implicitly operated, simply exercised and not yet explicated, as soon as one considers language for itself.
+
+- **introduced** · `intentionalitaet/derrida-iog/003` · *intentional content / noematic Kernschicht*
+  The Logical Investigations' notion of "intentional content" or "unity of signification" announces, in the sphere of language, the noematic sense, the nuclear stratum (Kernschicht) of the noema, and its ideal identity secures translatability across languages.
+  `derrida-introduction-a-lorigine-de-la-geometrie-commentary#h2-v` · Introduction à L'Origine de la géométrie, § V · [V](https://faultynode.github.io/commentaries/commentaries/derrida/derrida-introduction-a-lorigine-de-la-geometrie-commentary.html#v)
+  > the notion of "intentional content" *announces*, in the sphere of language, the notion of *noematic sense* — the *Kernschicht*, nuclear stratum, of the noema
+
+- **introduced** · `intentionalitaet/derrida-iog/004` · *bound / free idealities*
+  Free idealities (logico-mathematical formations and pure essence-structures) are bound to no territory and are omnispatial and omnitemporal with respect to their reactivation, whereas bound idealities carry reality in their being-sense; yet by their apparition even free idealities are factual and worldly.
+  `derrida-introduction-a-lorigine-de-la-geometrie-commentary#h2-v` · Introduction à L'Origine de la géométrie, § V · [V](https://faultynode.github.io/commentaries/commentaries/derrida/derrida-introduction-a-lorigine-de-la-geometrie-commentary.html#v)
+  > free idealities (logico-mathematical formations and pure essence-structures) are bound to *no territory* — "or rather, they have their territory in the *whole-of-the-world* and in every possible whole-of-a-world"
+
+- **introduced** · `intentionalitaet/derrida-iog/005` · *de jure bond to transcendental subjectivity*
+  Because the absolute ideal object does not inhabit a topos ouranios, its liberation from every factual subjectivity only lays bare its de jure bonds with a transcendental subjectivity, and its historicity is intrinsic and essential.
+  `derrida-introduction-a-lorigine-de-la-geometrie-commentary#h2-v` · Introduction à L'Origine de la géométrie, § V · [V](https://faultynode.github.io/commentaries/commentaries/derrida/derrida-introduction-a-lorigine-de-la-geometrie-commentary.html#v)
+  > (1) its liberation from every *factual* subjectivity only *lays bare its de jure bonds with a transcendental subjectivity*; (2) *its historicity is intrinsic and essential*.
+
+- **introduced** · `intentionalitaet/derrida-iog/006` · *writing as autonomous transcendental field*
+  By absolutely virtualizing the dialogue, writing creates a sort of autonomous transcendental field from which every actual subject can absent itself, so that the act of writing is the highest possibility of all constitution.
+  `derrida-introduction-a-lorigine-de-la-geometrie-commentary#h2-vii` · Introduction à L'Origine de la géométrie, § VII · [VII](https://faultynode.github.io/commentaries/commentaries/derrida/derrida-introduction-a-lorigine-de-la-geometrie-commentary.html#vii)
+  > "By *absolutely virtualizing* the dialogue, writing creates a sort of *autonomous transcendental field from which every actual subject can absent itself*."
+
+- **introduced** · `intentionalitaet/derrida-iog/007` · *virtual intentionality haunting the text*
+  All of this can be said only on the basis of an intentional analysis: without a virtual intentionality haunting it, the written mark, in the vacancy of its soul, is no more than a chaotic literality, the sensible opacity of a defunct designation.
+  `derrida-introduction-a-lorigine-de-la-geometrie-commentary#h2-vii` · Introduction à L'Origine de la géométrie, § VII · [VII](https://faultynode.github.io/commentaries/commentaries/derrida/derrida-introduction-a-lorigine-de-la-geometrie-commentary.html#vii)
+  > if a *virtual intentionality* does not *haunt* it, then, in the *vacancy of its soul*, it is no more than a *chaotic literality*, the sensible opacity of a *defunct designation*
+
+- **introduced** · `intentionalitaet/derrida-iog/008` · *factual absence of subjectivity*
+  The absence of subjectivity from the transcendental field, whose possibility liberates absolute objectivity, can only be a factual absence, even if it removed forever the totality of real subjects, since the pure juridical relation to a writer and a reader in general must announce itself in the text.
+  `derrida-introduction-a-lorigine-de-la-geometrie-commentary#h2-vii` · Introduction à L'Origine de la géométrie, § VII · [VII](https://faultynode.github.io/commentaries/commentaries/derrida/derrida-introduction-a-lorigine-de-la-geometrie-commentary.html#vii)
+  > can only be a *factual* absence, even if it removed forever the totality of real subjects.
+
+- **introduced** · `intentionalitaet/derrida-iog/009` · *the graphic body as Leib*
+  In thinking of the juridical purity of this intentional animation, Husserl always says of the linguistic or graphic body that it is a flesh, a corps propre (Leib) or spiritual corporeality, never a mere physical Körper.
+  `derrida-introduction-a-lorigine-de-la-geometrie-commentary#h2-vii` · Introduction à L'Origine de la géométrie, § VII · [VII](https://faultynode.github.io/commentaries/commentaries/derrida/derrida-introduction-a-lorigine-de-la-geometrie-commentary.html#vii)
+  > Husserl always says of the linguistic or graphic body that it is *a flesh* — *un corps propre* (*Leib*) — or a *spiritual corporeality* (*geistige Leiblichkeit*
+
+- **introduced** · `intentionalitaet/derrida-iog/010` · *the ambiguous value of virtuality*
+  The virtualization that perfects ideality is an ambiguous value: it renders possible at the same stroke passivity, forgetting, and all the phenomena of crisis, so that writing is at once the condition of the infinite tradition of truth and the condition of its forgetting.
+  `derrida-introduction-a-lorigine-de-la-geometrie-commentary#h2-vii` · Introduction à L'Origine de la géométrie, § VII · [VII](https://faultynode.github.io/commentaries/commentaries/derrida/derrida-introduction-a-lorigine-de-la-geometrie-commentary.html#vii)
+  > it renders possible at the same stroke (*du même coup*) passivity, forgetting, and all the phenomena of crisis.
+
+- **introduced** · `intentionalitaet/derrida-iog/011` · *crisis as degradation of expression into indication*
+  The phenomenon of crisis, which always refers for Husserl to a sickness of language, can be interpreted as a degradation of the expression-sign into the indication-sign, of a clear aim into an empty symbol.
+  `derrida-introduction-a-lorigine-de-la-geometrie-commentary#h2-vii` · Introduction à L'Origine de la géométrie, § VII · [VII](https://faultynode.github.io/commentaries/commentaries/derrida/derrida-introduction-a-lorigine-de-la-geometrie-commentary.html#vii)
+  > a *degradation of the expression-sign into the indication-sign*, of a 'clear' (*klar*) aim into an *empty symbol*.
+
+- **introduced** · `intentionalitaet/derrida-iog/012` · *the Absolute of intentional historicity / the genitive*
+  The Absolute of the Idea is the Absolute of intentional historicity, and the "of" is neither an objective nor a subjective genitive but the intentional Absolute of the pure relation to the object, a relation in which subject and object engender and govern one another reciprocally.
+  `derrida-introduction-a-lorigine-de-la-geometrie-commentary#h2-xi` · Introduction à L'Origine de la géométrie, § XI · [XI](https://faultynode.github.io/commentaries/commentaries/derrida/derrida-introduction-a-lorigine-de-la-geometrie-commentary.html#xi)
+  > It is "the *intentional Absolute of the objectivized*, of the *pure relation to the object* — a relation in which subject and object *engender and govern one another reciprocally*."
+
+- **introduced** · `intentionalitaet/derrida-iog/013` · *the Living Present as dialectic and non-dialectic*
+  The movement of primordial temporalization, ultimate foundation of all constitution, is dialectical through and through, but only as the dialectic of the dialectic (the mutual implication of protentions and retentions) with the non-dialectic, the absolute and concrete identity of the Living Present.
+  `derrida-introduction-a-lorigine-de-la-geometrie-commentary#h2-xi` · Introduction à L'Origine de la géométrie, § XI · [XI](https://faultynode.github.io/commentaries/commentaries/derrida/derrida-introduction-a-lorigine-de-la-geometrie-commentary.html#xi)
+  > it was only the *dialectic of the dialectic* — the indefinite, mutual and irreducible implication of protentions and retentions — *with the non-dialectic*: the absolute and concrete identity of the Living Present, universal form of all consciousness.
+
+- **introduced** · `intentionalitaet/derrida-iog/014` · *ideality of noematic sense*
+  One must constantly return to Husserl's descriptions of the non-real inclusion of the noema in consciousness and the ideality of noematic sense, which is neither of the subject nor of the object and is therefore nothing but the objectivity of the object, the appearing of its "as such" for a consciousness.
+  `derrida-introduction-a-lorigine-de-la-geometrie-commentary#h2-xi` · Introduction à L'Origine de la géométrie, § XI · [XI](https://faultynode.github.io/commentaries/commentaries/derrida/derrida-introduction-a-lorigine-de-la-geometrie-commentary.html#xi)
+  > the *non-real* inclusion of the noema in consciousness, the *ideality of noematic sense*" — which is "neither of the subject nor of the object, *and is therefore nothing but the objectivity of the object*, the appearing of its '*as such*' for a consciousness
+
+- **introduced** · `intentionalitaet/derrida-iog/015` · *intentionality is traditionality*
+  The Introduction's culminating identification is that intentionality is traditionality: in the pure movement of phenomenological temporalization, as the going-out-from-self-into-self of the Absolute of the Living Present, intentionality is the root of historicity, and historicity is sense.
+  `derrida-introduction-a-lorigine-de-la-geometrie-commentary#h2-xi` · Introduction à L'Origine de la géométrie, § XI · [XI](https://faultynode.github.io/commentaries/commentaries/derrida/derrida-introduction-a-lorigine-de-la-geometrie-commentary.html#xi)
+  > "*Intentionality is traditionality*."
+
+*Partial pass: Covers Sections V, VII (opening) and XI: the non-reell noema as root of all repeatability, the immediate eidetics practised by speech, intentional content / noematic Kernschicht and translatability, bound vs. free idealities and omnitemporality, the geometrical object's de jure bond to transcendental subjectivity, writing as an autonomous transcendental field, virtual intentionality haunting the text, the graphic body as Leib, writing as the highest possibility of constitution, crisis as degradation of expression into indication, the Absolute of intentional historicity and the undecidable genitive, the Living Present as dialectic-of-the-dialectic-with-the-non-dialectic, and 'intentionality is traditionality / the root of historicity'. Not covered: Sections I-IV, VI, VIII-X.*
+
 ### 1965 - Philosophie et phénoménologie du corps — Commentary
 
 `henry-philosophie-et-phenomenologie-du-corps-commentary`
@@ -1519,6 +1600,77 @@
   > It belongs to the *essence* of comportments, so that the talk of "intentional comportment" is already a pleonasm and amounts to my saying "a spatial triangle."
 
 *Partial pass: Covers section b of the commentary: phenomenology's designation of intentionality, historical roles of Brentano and especially Husserl's philosophical clarification in the Logical Investigations and Ideas, and intentionality as essential to comportment. Not covered: detailed analysis of intentio/intentum distinction, misinterpretations, transcendence relation, or treatment in other sections.*
+
+### undated - Michel Henry, L'essence de la manifestation
+
+`henry-the-essence-of-manifestation-commentary`
+
+- **criticized** · `intentionalitaet/henry-em/001` · *two senses of representation*
+  The word representation has two structurally different senses that the phenomenological tradition has failed to distinguish: the narrow Husserlian sense of a particular noetic act thematically intending an object, and the broad ontological sense in which representation is the very structure of consciousness as such (Heidegger's Vor-stellen).
+  `henry-the-essence-of-manifestation-commentary#h2-s-18-the-concept-of-representation-ontological-structure-and-existential-underst` · The Essence of Manifestation, § 18 · [§ 18\. The concept of representation: ontological structure and existential understanding](https://faultynode.github.io/commentaries/commentaries/henry/henry-the-essence-of-manifestation-commentary.html#the-concept-of-representation-ontological-structure-and-existential-understanding)
+  > Sense (i) — the *narrow*, Husserlian sense: representation is a particular noetic act in which consciousness thematically intends an object; the object is given as a noematic correlate of the noetic aim.
+
+- **presupposed** · `intentionalitaet/henry-em/002` · *representation as determinate mode of the life of consciousness*
+  Representation in the narrow sense is a determinate mode of the life of consciousness which includes within itself, as irreal noematic correlate, the object in the presence of which this life holds itself in that mode of existence.
+  `henry-the-essence-of-manifestation-commentary#h2-s-18-the-concept-of-representation-ontological-structure-and-existential-underst` · The Essence of Manifestation, § 18 · [§ 18\. The concept of representation: ontological structure and existential understanding](https://faultynode.github.io/commentaries/commentaries/henry/henry-the-essence-of-manifestation-commentary.html#the-concept-of-representation-ontological-structure-and-existential-understanding)
+  > Representation so understood is a *determinate mode of the life of consciousness*; and it includes within itself, as irreal noematic correlate, the "object" in the presence of which this life holds itself in this determinate mode of existence which is then its own.
+
+- **criticized** · `intentionalitaet/henry-em/003` · *objectification of being*
+  Even philosophical consciousness, in trying to think being, distorts being by treating it as just another thematic object, which is the structural failure of all representational philosophies of being, including Husserl's transcendental phenomenology and Heidegger's fundamental ontology insofar as they remain within representational thinking.
+  `henry-the-essence-of-manifestation-commentary#h2-s-18-the-concept-of-representation-ontological-structure-and-existential-underst` · The Essence of Manifestation, § 18 · [§ 18\. The concept of representation: ontological structure and existential understanding](https://faultynode.github.io/commentaries/commentaries/henry/henry-the-essence-of-manifestation-commentary.html#the-concept-of-representation-ontological-structure-and-existential-understanding)
+  > even philosophical consciousness, in its very attempt to think being, distorts being by treating it as just another object. This is the structural failure of all representational philosophies of being — including, Henry will argue, Husserl's transcendental phenomenology and Heidegger's fundamental ontology insofar as they remain within the structure of representational thinking.
+
+- **criticized** · `intentionalitaet/henry-em/004` · *the horizon that cannot be thematized*
+  The object of consciousness in its universal essence is objectivity, being itself under the form of a horizon, and to the essence of the horizon it belongs not to let itself be thematized, so that the representation of universal consciousness is the manifestation-of-self of this horizon.
+  `henry-the-essence-of-manifestation-commentary#h2-s-18-the-concept-of-representation-ontological-structure-and-existential-underst` · The Essence of Manifestation, § 18 · [§ 18\. The concept of representation: ontological structure and existential understanding](https://faultynode.github.io/commentaries/commentaries/henry/henry-the-essence-of-manifestation-commentary.html#the-concept-of-representation-ontological-structure-and-existential-understanding)
+  > *The object of consciousness in its universal essence is objectivity, being itself under the form of a horizon. The representation of consciousness in its universal essence is the representation of the horizon.*
+
+- **introduced** · `intentionalitaet/henry-em/005` · *ontological structure / existential determination*
+  The ontological structure of consciousness, the manifestation-of-self of being, is at once indifferent and immanent to the existential determinations of consciousness, so that the opposition of natural consciousness and true knowledge is inessential.
+  `henry-the-essence-of-manifestation-commentary#h2-s-18-the-concept-of-representation-ontological-structure-and-existential-underst` · The Essence of Manifestation, § 18 · [§ 18\. The concept of representation: ontological structure and existential understanding](https://faultynode.github.io/commentaries/commentaries/henry/henry-the-essence-of-manifestation-commentary.html#the-concept-of-representation-ontological-structure-and-existential-understanding)
+  > *the ontological structure of consciousness is at once indifferent and immanent to the existential determinations of consciousness*.
+
+- **introduced** · `intentionalitaet/henry-em/006` · *affectivity as condition of transcendence*
+  Immanence is the condition of transcendence, the reality of the act that sets a horizon over against itself, so that affectivity is the condition of sensibility and sensing is possible only as affective.
+  `henry-the-essence-of-manifestation-commentary#h2-s-54-ontological-interpretation-of-affectivity-as-the-foundation-of-affection-th` · The Essence of Manifestation, § 54 · [§ 54 — Ontological interpretation of affectivity as the foundation of affection: the problem of "intentional affectivity"](https://faultynode.github.io/commentaries/commentaries/henry/henry-the-essence-of-manifestation-commentary.html#ontological-interpretation-of-affectivity-as-the-foundation-of-affection-the-problem-of-intentional-affectivity)
+  > immanence is the condition of transcendence, the reality of the act that sets a horizon over against itself; affectivity is therefore the condition of sensibility.
+
+- **introduced** · `intentionalitaet/henry-em/007` · *the asymmetry of affectivity and sensibility*
+  The eidetic law governing the ultimate domain of the ground reads in two clauses that must not be run together: affectivity is never sensible; sensibility is constantly affective.
+  `henry-the-essence-of-manifestation-commentary#h2-s-54-ontological-interpretation-of-affectivity-as-the-foundation-of-affection-th` · The Essence of Manifestation, § 54 · [§ 54 — Ontological interpretation of affectivity as the foundation of affection: the problem of "intentional affectivity"](https://faultynode.github.io/commentaries/commentaries/henry/henry-the-essence-of-manifestation-commentary.html#ontological-interpretation-of-affectivity-as-the-foundation-of-affection-the-problem-of-intentional-affectivity)
+  > The eidetic law governing the ultimate domain of the ground reads in two clauses that must not be run together: affectivity is never sensible; sensibility is constantly affective.
+
+- **introduced** · `intentionalitaet/henry-em/008` · *the world given only as what moves us*
+  Sensibility is transcendence itself as affective in its essence, and the affection of transcendence by the world is conditioned by auto-affection, so that the world can be given to us only as what touches and moves us.
+  `henry-the-essence-of-manifestation-commentary#h2-s-54-ontological-interpretation-of-affectivity-as-the-foundation-of-affection-th` · The Essence of Manifestation, § 54 · [§ 54 — Ontological interpretation of affectivity as the foundation of affection: the problem of "intentional affectivity"](https://faultynode.github.io/commentaries/commentaries/henry/henry-the-essence-of-manifestation-commentary.html#ontological-interpretation-of-affectivity-as-the-foundation-of-affection-the-problem-of-intentional-affectivity)
+  > the affection of transcendence by the world is conditioned by auto-affection. Sensibility is transcendence itself as affective in its essence.
+
+- **criticized** · `intentionalitaet/henry-em/009` · *break with Gleichursprünglichkeit*
+  Henry explicitly breaks with Sein und Zeit by denying the equiprimordiality of Befindlichkeit and Verstehen, since their bond is one of foundation: affectivity has already done its work when the world rises.
+  `henry-the-essence-of-manifestation-commentary#h2-s-54-ontological-interpretation-of-affectivity-as-the-foundation-of-affection-th` · The Essence of Manifestation, § 54 · [§ 54 — Ontological interpretation of affectivity as the foundation of affection: the problem of "intentional affectivity"](https://faultynode.github.io/commentaries/commentaries/henry/henry-the-essence-of-manifestation-commentary.html#ontological-interpretation-of-affectivity-as-the-foundation-of-affection-the-problem-of-intentional-affectivity)
+  > This is the explicit break with *Sein und Zeit*: Heidegger's equiprimordiality of *Befindlichkeit* and *Verstehen* is exactly the thesis Henry denies, because their bond is one of foundation.
+
+- **revised** · `intentionalitaet/henry-em/010` · *every positing act as affective*
+  Henry accepts Husserl's refutation of the feeling-theory of evidence (evidence is a special mode of positing, not a tonality) and turns it: every positing act, in its original self-affection as self-feeling, is in itself an affective phenomenon, the bond being one of foundation and so not contingent.
+  `henry-the-essence-of-manifestation-commentary#h2-s-54-ontological-interpretation-of-affectivity-as-the-foundation-of-affection-th` · The Essence of Manifestation, § 54 · [§ 54 — Ontological interpretation of affectivity as the foundation of affection: the problem of "intentional affectivity"](https://faultynode.github.io/commentaries/commentaries/henry/henry-the-essence-of-manifestation-commentary.html#ontological-interpretation-of-affectivity-as-the-foundation-of-affection-the-problem-of-intentional-affectivity)
+  > Every positing act, in whatever mode it is accomplished, including the case where thought gives itself the intuitive fulfilment of the meaning it intends, is in itself — in its original self-affection, as self-feeling — an affective phenomenon.
+
+- **revised** · `intentionalitaet/henry-em/011` · *eidetic correlation of tonality and noetic-noematic structure*
+  The eidetic correlations between acts' affective tonalities and their noetic-noematic structure are universal and concern every possible intentional act, so that the feelings things provoke in us are the consciousness of their constitution.
+  `henry-the-essence-of-manifestation-commentary#h2-s-54-ontological-interpretation-of-affectivity-as-the-foundation-of-affection-th` · The Essence of Manifestation, § 54 · [§ 54 — Ontological interpretation of affectivity as the foundation of affection: the problem of "intentional affectivity"](https://faultynode.github.io/commentaries/commentaries/henry/henry-the-essence-of-manifestation-commentary.html#ontological-interpretation-of-affectivity-as-the-foundation-of-affection-the-problem-of-intentional-affectivity)
+  > The eidetic correlations between acts' affective tonalities and their noetic-noematic structure are not confined to evidence or to judgement; they are universal and concern every possible intentional act.
+
+- **criticized** · `intentionalitaet/henry-em/012` · *the thesis that affectivity is intentional*
+  Modern philosophy (Brentano, Husserl, Scheler, Sartre) gives out as a discovery the thesis that affectivity is intentional, consciousness of something (love has an object, hatred is of Peter or Paul); Henry dismantles it by asking how affectivity can be understanding if nothing is more repugnant to its essence than transcendence.
+  `henry-the-essence-of-manifestation-commentary#h2-s-54-ontological-interpretation-of-affectivity-as-the-foundation-of-affection-th` · The Essence of Manifestation, § 54 · [§ 54 — Ontological interpretation of affectivity as the foundation of affection: the problem of "intentional affectivity"](https://faultynode.github.io/commentaries/commentaries/henry/henry-the-essence-of-manifestation-commentary.html#ontological-interpretation-of-affectivity-as-the-foundation-of-affection-the-problem-of-intentional-affectivity)
+  > how can affectivity be understanding, capable of grasping and living transcendent significations, if nothing is more repugnant to its essence than transcendence, if the deployment of a horizon of understanding is what is most foreign to it?
+
+- **criticized** · `intentionalitaet/henry-em/013` · *affectivity as foundation, not grasping*
+  Against the intentionalist claim, affectivity is the universal foundation of all phenomena and determines them all originally as affective; it is not the grasping of the horizon but the reality of the act that grasps, the affectivity of phenomena residing in the auto-affection of the transcendence that deploys the horizon.
+  `henry-the-essence-of-manifestation-commentary#h2-s-54-ontological-interpretation-of-affectivity-as-the-foundation-of-affection-th` · The Essence of Manifestation, § 54 · [§ 54 — Ontological interpretation of affectivity as the foundation of affection: the problem of "intentional affectivity"](https://faultynode.github.io/commentaries/commentaries/henry/henry-the-essence-of-manifestation-commentary.html#ontological-interpretation-of-affectivity-as-the-foundation-of-affection-the-problem-of-intentional-affectivity)
+  > affectivity is the universal foundation of all phenomena and determines them all originally as affective. The affectivity of phenomena resides in the auto-affection of the transcendence that deploys the horizon. Affectivity is not the grasping of the horizon but the reality of the act that grasps
+
+*Partial pass: Covers § 18 (the concept of representation) and § 54 (the problem of 'intentional affectivity'): the distinction between representation as a particular noetic act and representation as the ontological structure of consciousness, the horizon as the non-thematizable 'object' of universal consciousness, the ontological/existential distinction, and the dismantling of the intentionalist theory of the emotions (Brentano, Husserl, Scheler, Sartre) in favour of affectivity as the non-intentional foundation of the transcendence that deploys the horizon. Not covered: the Introduction and the rest of Sections I-V.*
 
 ### undated - Husserl Erfahrung und Urteil Commentary
 

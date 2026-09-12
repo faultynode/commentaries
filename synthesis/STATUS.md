@@ -8,17 +8,17 @@ Corpus: **53 commentaries**, 2,934,474 words, 3902 sections indexed in `synthesi
 
 ### fundierung - founding of higher-order objectivities
 
-0 commentaries extracted · 0 units · 0 absences
+4 commentaries extracted · 64 units · 1 absences · 4 partial
 
 Next candidates, by term density:
 
-- [ ] `henry-the-essence-of-manifestation-commentary` (undated) - 1420 hits
-- [ ] `husserl-thing-and-space-commentary` (1907) - 788 hits
 - [ ] `husserliana-3-ideas-i-parts-3-4-commentary` (undated) - 779 hits
 - [ ] `husserliana-19-2-sixth-logical-investigation-commentary` (undated) - 728 hits
 - [ ] `heidegger-sein-und-zeit-commentary` (1927) - 624 hits
 - [ ] `husserliana-19-1-fifth-logical-investigation-commentary` (1901) - 578 hits
-- ... 47 more; see `synthesis_query.py --theme fundierung`
+- [ ] `husserliana-43-2-studien-zur-struktur-des-bewusstseins-commentary` (undated) - 377 hits
+- [ ] `lacan-seminar-11-the-four-fundamental-concepts-of-psychoanalysis-commentary` (undated) - 370 hits
+- ... 43 more; see `synthesis_query.py --theme fundierung`
 
 ### intentionalitaet - intentionality
 
@@ -69,7 +69,7 @@ Next candidates, by term density:
 Next candidates, by term density:
 
 - [ ] `bernet-la-vie-du-sujet-commentary` (1994) - 164 hits
-- [ ] `derrida-introduction-a-lorigine-de-la-geometrie-commentary` (undated) - 164 hits
+- [ ] `derrida-introduction-a-lorigine-de-la-geometrie-commentary` (1961) - 164 hits
 - [ ] `husserliana-13-basic-problems-of-phenomenology-commentary` (1910) - 135 hits
 - [ ] `husserliana-3-ideas-i-parts-3-4-commentary` (undated) - 127 hits
 - [ ] `franck-chair-et-corps-commentary` (undated) - 124 hits
@@ -170,6 +170,7 @@ These commentaries do not date their own text, so they sit off the ledger spine.
 
 - [ ] `heidegger-ga-18-grundbegriffe-der-aristotelischen-philosophie-commentary` - The commentary names the volume and the page range covered but no semester. Resolving this matters more than most: GA 18 sits immediately before GA 19 on the Sorge ledger, and the two courses are what the periodization turns on.
 - [ ] `heidegger-ga-24-die-grundprobleme-der-phanomenologie-commentary`
+- [ ] `henry-the-essence-of-manifestation-commentary`
 - [ ] `husserl-erfahrung-und-urteil-commentary`
 - [ ] `husserl-formal-and-transcendental-logic-commentary`
 - [ ] `husserliana-1-cartesianische-meditationen-commentary`

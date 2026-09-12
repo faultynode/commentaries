@@ -1,0 +1,143 @@
+{
+  "schema_version": 1,
+  "theme": "fundierung",
+  "commentary": "bernet-la-vie-du-sujet-commentary",
+  "source_sha256": "4269d26270bb4f610dfccc053738781719d3fd12980aa525092b4633187232af",
+  "extracted_at": "2026-09-12",
+  "extractor": {
+    "agent": "claude-code",
+    "prompt": "Stage 1 extraction, theme fundierung (founding of higher-order objectivities), one commentary.",
+    "note": "Re-extracted with claude-opus-5. Replaces the 2026-09-11 pass, which took two units from the noema section and did not reach the section on sensible and categorial acts, where the founding doctrine of the Logical Investigations is treated directly."
+  },
+  "coverage": "partial",
+  "coverage_note": "Scanned 'The Intentionality of Sensible and Categorial Acts' (lines 143-168) and 'The Noema as Ideal Signification of a Judgment' (lines 261-294). The remaining 58 sections, including the chapters on time, hermeneutics and Derrida, are not covered.",
+  "units": [
+    {
+      "id": "fundierung/bernet/001",
+      "locator": "bernet-la-vie-du-sujet-commentary#h4-the-intentionality-of-sensible-and-categorial-acts",
+      "primary_locator": "La vie du sujet, p. 46",
+      "term": "Fundierung of categorial on sensible acts",
+      "status": "introduced",
+      "claim": "Heidegger summarizes the distinction between sensible and categorial intentional acts together with the relations of interdependence or founding that unite them.",
+      "quote": "the distinction between different sorts of intentional acts, sensible and categorial, and the relations of interdependence or founding that unite them"
+    },
+    {
+      "id": "fundierung/bernet/002",
+      "locator": "bernet-la-vie-du-sujet-commentary#h4-the-intentionality-of-sensible-and-categorial-acts",
+      "primary_locator": "La vie du sujet, pp. 46-47",
+      "term": "circularity of the simple/categorial distinction",
+      "status": "criticized",
+      "claim": "Neither Husserl nor Heidegger addresses the circularity that a categorial act cannot be defined without appeal to its being founded on a set of simple acts.",
+      "quote": "a categorial act cannot be defined without appeal to its being composed of, or more precisely founded on, a set of simple acts"
+    },
+    {
+      "id": "fundierung/bernet/003",
+      "locator": "bernet-la-vie-du-sujet-commentary#h4-the-intentionality-of-sensible-and-categorial-acts",
+      "primary_locator": "La vie du sujet, pp. 46-47",
+      "term": "gestufte Akte governed by the logic of whole and parts",
+      "status": "introduced",
+      "claim": "Acts of synthesis are governed by the same logic of whole and parts that forms the real weave of the Logical Investigations.",
+      "quote": "Such acts are governed by the same logic of whole and parts that forms the real weave of the *Logical Investigations*."
+    },
+    {
+      "id": "fundierung/bernet/004",
+      "locator": "bernet-la-vie-du-sujet-commentary#h4-the-intentionality-of-sensible-and-categorial-acts",
+      "primary_locator": "La vie du sujet, pp. 47-48",
+      "term": "Überschuss (categorial excess)",
+      "status": "introduced",
+      "claim": "Despite their rootedness in sensible perception, categorial acts never reduce to the simple acts that compose or found them.",
+      "quote": "Despite their rootedness in sensible perception, categorial acts never reduce purely and simply to the simple acts that compose them or found them"
+    },
+    {
+      "id": "fundierung/bernet/005",
+      "locator": "bernet-la-vie-du-sujet-commentary#h4-the-intentionality-of-sensible-and-categorial-acts",
+      "primary_locator": "La vie du sujet, pp. 48-49",
+      "term": "the copula as founded categorial object",
+      "status": "introduced",
+      "claim": "The 'is' of a perceptual statement counts as a categorial object whose intuitive apprehension is founded on sensible perception without being reducible to it.",
+      "quote": "a categorial object whose intuitive apprehension is founded on, but not reducible to, sensible perception"
+    },
+    {
+      "id": "fundierung/bernet/006",
+      "locator": "bernet-la-vie-du-sujet-commentary#h4-the-intentionality-of-sensible-and-categorial-acts",
+      "primary_locator": "La vie du sujet, pp. 49-50",
+      "term": "ideierende Abstraktion",
+      "status": "revised",
+      "claim": "Acts of ideation differ from acts of synthesis in excluding their sensible foundation rather than including it.",
+      "quote": "differs from acts of synthesis precisely in excluding its sensible foundation rather than including it"
+    },
+    {
+      "id": "fundierung/bernet/007",
+      "locator": "bernet-la-vie-du-sujet-commentary#h4-the-intentionality-of-sensible-and-categorial-acts",
+      "primary_locator": "La vie du sujet, pp. 47-48",
+      "term": "categorial intuition as the foundation of language",
+      "status": "introduced",
+      "claim": "Husserl and Heidegger agree that categorial intuitions are not derived from language but constitute its intuitive foundation.",
+      "quote": "far from being derived from language these categorial intuitions constitute its intuitive foundation"
+    },
+    {
+      "id": "fundierung/bernet/008",
+      "locator": "bernet-la-vie-du-sujet-commentary#h4-the-intentionality-of-sensible-and-categorial-acts",
+      "primary_locator": "La vie du sujet, pp. 50-51",
+      "term": "Gegenständlichkeit without production",
+      "status": "revised",
+      "claim": "That categorial acts constitute a new objecthood does not mean producing in the sense of manufacture but letting the being be seen in its objecthood.",
+      "quote": "constituting does not mean producing in the sense of making and manufacturing, but letting the being be seen in its objecthood (*Gegenständlichkeit*)."
+    },
+    {
+      "id": "fundierung/bernet/009",
+      "locator": "bernet-la-vie-du-sujet-commentary#h4-the-intentionality-of-sensible-and-categorial-acts",
+      "primary_locator": "La vie du sujet, pp. 50-51",
+      "term": "higher-order objects denied",
+      "status": "criticized",
+      "claim": "For Heidegger categorial objects are not objects of a higher order in a separate world of thought and are hardly genuine objects at all.",
+      "quote": "Far from being objects of a higher order belonging to a separate world of thought governed by immutable laws, categorial objects for Heidegger are hardly genuine \"objects\" at all."
+    },
+    {
+      "id": "fundierung/bernet/010",
+      "locator": "bernet-la-vie-du-sujet-commentary#h4-the-intentionality-of-sensible-and-categorial-acts",
+      "primary_locator": "La vie du sujet, pp. 51-52",
+      "term": "founding bond recast as condition of showing",
+      "status": "revised",
+      "claim": "Under Aristotle's influence the bond between sensible and categorial is no longer strictly one of constitution but one between what shows itself straightaway and what makes that showing possible.",
+      "quote": "That bond is no longer strictly a bond of constitution but a bond between what shows itself straightaway and what makes that showing possible."
+    },
+    {
+      "id": "fundierung/bernet/011",
+      "locator": "bernet-la-vie-du-sujet-commentary#h4-the-noema-as-ideal-signification-of-a-judgment",
+      "primary_locator": "La vie du sujet, pp. 85-86",
+      "term": "synthesis of identification presupposed by identity",
+      "status": "presupposed",
+      "claim": "The 1908 course already contains the decisive idea that consciousness of an identity presupposes a synthesis of identification.",
+      "quote": "consciousness of an identity presupposes a synthesis of identification"
+    },
+    {
+      "id": "fundierung/bernet/012",
+      "locator": "bernet-la-vie-du-sujet-commentary#h4-the-noema-as-ideal-signification-of-a-judgment",
+      "primary_locator": "La vie du sujet, pp. 86-88",
+      "term": "implicit in the correlate, explicit only through synthesis",
+      "status": "introduced",
+      "claim": "The signified object stands as the identical signification does: implicit in the punctual noematic correlate but requiring a synthesis of identification to be grasped explicitly.",
+      "quote": "The signified object is therefore in the same position as the identical signification itself: implicit in the punctual noematic correlate, but requiring a synthesis of identification to be grasped explicitly."
+    },
+    {
+      "id": "fundierung/bernet/013",
+      "locator": "bernet-la-vie-du-sujet-commentary#h4-the-noema-as-ideal-signification-of-a-judgment",
+      "primary_locator": "La vie du sujet, pp. 88-89",
+      "term": "X as junction point or support of the predicates",
+      "status": "introduced",
+      "claim": "In Ideen I the X is the unifying centre and support of the predicates, to be distinguished from them yet incapable of being set apart and separated from them.",
+      "quote": "the unifying centre, the junction point or support of the predicates, necessarily to be distinguished from them though it cannot be set apart and separated from them."
+    },
+    {
+      "id": "fundierung/bernet/014",
+      "locator": "bernet-la-vie-du-sujet-commentary#h4-the-noema-as-ideal-signification-of-a-judgment",
+      "primary_locator": "La vie du sujet, pp. 88-89",
+      "term": "noema implying rather than being its sense",
+      "status": "revised",
+      "claim": "Sense and object are bound to the noema inseparably, yet the punctual noematic correlate is not identical with the ideally identical sense but only implies it.",
+      "quote": "sense and object are bound to the noema inseparably, but the punctual noematic correlate is not simply *identical with* the ideally identical sense — it only implies it, it \"has\" it;"
+    }
+  ],
+  "absences": []
+}

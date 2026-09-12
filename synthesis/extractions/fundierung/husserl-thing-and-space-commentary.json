@@ -1,0 +1,188 @@
+{
+  "schema_version": 1,
+  "theme": "fundierung",
+  "commentary": "husserl-thing-and-space-commentary",
+  "source_sha256": "e0d0451d72ec96da3d81ae5556439940774ed1e7a51cb3d8a40eb1cf5affde23",
+  "extracted_at": "2026-09-12",
+  "extractor": {
+    "agent": "claude-code",
+    "prompt": "Stage 1 extraction, theme fundierung (founding of higher-order objectivities), one commentary.",
+    "note": "Re-extracted with claude-opus-5. Replaces the 2026-09-11 pass, which drew all six of its units from lines 9-190 while its coverage note claimed the kinaesthesis material of Chapter 8 onward. Sections chosen by term density (synthesis_query.py), restricted to the technical sense of founding."
+  },
+  "coverage": "partial",
+  "coverage_note": "Scanned Chapter 1 (SS1-7, lines 9-222), Chapter 3 (SS14-15, lines 433-506), Chapter 8 (SS45-47, lines 1255-1352) and Chapter 9 S49 (lines 1383-1418). Chapters 2, 4-7 and 10-14 (including the constitution of three-dimensional space, SS58-84) are not covered.",
+  "units": [
+    {
+      "id": "fundierung/husserl-thing-space/001",
+      "locator": "husserl-thing-and-space-commentary#h3-s1-the-world-of-natural-experience-and-the-world-of-scientific-theory",
+      "primary_locator": "Thing and Space, §1",
+      "term": "lowest stratum of experiential givenness",
+      "status": "introduced",
+      "claim": "The lectures restrict themselves to the lowest stratum of experiential givenness because the higher constitutive strata presuppose and build upon it.",
+      "quote": "higher constitutive strata presuppose and build upon the lower, so that clarity about perception is a necessary condition for any future phenomenology of scientific cognition."
+    },
+    {
+      "id": "fundierung/husserl-thing-space/002",
+      "locator": "husserl-thing-and-space-commentary#h3-s1-the-world-of-natural-experience-and-the-world-of-scientific-theory",
+      "primary_locator": "Thing and Space, §1",
+      "term": "foundation of the higher constitutive problems",
+      "status": "introduced",
+      "claim": "The phenomenology of straightforward perceptual experience is not preparatory but the foundation without which the higher constitutive problems cannot be posed at all.",
+      "quote": "phenomenology of straightforward perceptual experience is not a detour or a preliminary exercise; it is the foundation without which the higher constitutive problems cannot even be posed."
+    },
+    {
+      "id": "fundierung/husserl-thing-space/003",
+      "locator": "husserl-thing-and-space-commentary#h3-s6-assertions-about-perceptions-and-assertions-about-perceived-objects-real-reel",
+      "primary_locator": "Thing and Space, §6",
+      "term": "reell content (parts, moments, determinations)",
+      "status": "introduced",
+      "claim": "The reell content of perception is delimited as the parts, moments and determinations that can be established with evidence as genuinely belonging to the perception as a phenomenon.",
+      "quote": "The real (*reell*) content of the perception consists of what can be established phenomenologically with evidence as genuinely belonging to the perception as a phenomenon — its parts, moments, and determinations."
+    },
+    {
+      "id": "fundierung/husserl-thing-space/004",
+      "locator": "husserl-thing-and-space-commentary#h3-s15-presentational-contents-and-apprehension-perception",
+      "primary_locator": "Thing and Space, §15",
+      "term": "Auffassung (apprehension) animating the contents of sensation",
+      "status": "introduced",
+      "claim": "Contents of sensation are in themselves dead matter and acquire animating significance only through the apprehension, by which they become able to present an object.",
+      "quote": "would in themselves be, as it were, dead matter, but through the apprehension they acquire animating significance in such a way that they are able to present an object."
+    },
+    {
+      "id": "fundierung/husserl-thing-space/005",
+      "locator": "husserl-thing-and-space-commentary#h3-s15-presentational-contents-and-apprehension-perception",
+      "primary_locator": "Thing and Space, §15",
+      "term": "apprehension built upon content as a further stratum",
+      "status": "criticized",
+      "claim": "Husserl raises but declines to settle whether the apprehension is immediately one with the physical content or is built upon a prior immanent consciousness of it as a further stratum.",
+      "quote": "is the interpretive apprehension \"immediately one with\" the physical content, or does the content first have its own immanent consciousness, upon which the apprehending is then built as a further stratum?"
+    },
+    {
+      "id": "fundierung/husserl-thing-space/006",
+      "locator": "husserl-thing-and-space-commentary#h3-s15-presentational-contents-and-apprehension-perception",
+      "primary_locator": "Thing and Space, §15",
+      "term": "Perzeption / Apperzeption layering",
+      "status": "criticized",
+      "claim": "Against the traditional layering of apperception upon mere perception, Husserl objects that reflection does not show a self-posing of the physical content inside the normal perception of a thing.",
+      "quote": "Husserl objects: reflection does not show that a self-posing of the physical content is contained within the normal perception of a thing."
+    },
+    {
+      "id": "fundierung/husserl-thing-space/007",
+      "locator": "husserl-thing-and-space-commentary#h3-s15-presentational-contents-and-apprehension-perception",
+      "primary_locator": "Thing and Space, §15",
+      "term": "physische Data and consciousness as non-interchangeable functions",
+      "status": "introduced",
+      "claim": "Physical data and consciousness are two classes of reell ingredient whose functions cannot be exchanged: a datum cannot function as apprehension nor apprehension as content of sensation.",
+      "quote": "a physical datum cannot function as apprehension, and apprehension cannot function as content of sensation (at least in outer perception)."
+    },
+    {
+      "id": "fundierung/husserl-thing-space/008",
+      "locator": "husserl-thing-and-space-commentary#h3-s46-presentational-and-kinaesthetic-sensations",
+      "primary_locator": "Thing and Space, §46",
+      "term": "insufficiency of visual contents",
+      "status": "introduced",
+      "claim": "Visual contents are not sufficient by themselves to serve as apprehensional contents for visual spatiality or for a thing in general.",
+      "quote": "**visual contents are not sufficient by themselves** to serve as apprehensional contents for visual spatiality and for a thing in general."
+    },
+    {
+      "id": "fundierung/husserl-thing-space/009",
+      "locator": "husserl-thing-and-space-commentary#h3-s46-presentational-and-kinaesthetic-sensations",
+      "primary_locator": "Thing and Space, §46",
+      "term": "secondary (appended) determinations",
+      "status": "introduced",
+      "claim": "Fieldless classes of sensation can supply only secondary appended determinations of a thing already constituted from another quarter, and cannot present projectively.",
+      "quote": "They can serve only for a secondary filling of space, for secondary (appended) determinations of a thing that is already constituted from another quarter."
+    },
+    {
+      "id": "fundierung/husserl-thing-space/010",
+      "locator": "husserl-thing-and-space-commentary#h3-s46-presentational-and-kinaesthetic-sensations",
+      "primary_locator": "Thing and Space, §46",
+      "term": "kinästhetische Empfindung as non-presentational condition",
+      "status": "introduced",
+      "claim": "Kinaesthetic sensations make presentation possible without themselves being presentational.",
+      "quote": "**They make possible a presentation without being presentational themselves.**"
+    },
+    {
+      "id": "fundierung/husserl-thing-space/011",
+      "locator": "husserl-thing-and-space-commentary#h3-s46-presentational-and-kinaesthetic-sensations",
+      "primary_locator": "Thing and Space, §46",
+      "term": "interweaving without exchange of function",
+      "status": "introduced",
+      "claim": "Kinaesthetic and presentational sensations are bound together and interwoven but cannot blend in the sense of exchanging functions.",
+      "quote": "They are specifically bound together with presentational sensations and interwoven with them, but they **cannot blend with them in the sense of exchanging functions**."
+    },
+    {
+      "id": "fundierung/husserl-thing-space/012",
+      "locator": "husserl-thing-and-space-commentary#h3-s47-insertion-of-the-kinaesthetic-sensations-into-the-body",
+      "primary_locator": "Thing and Space, §47",
+      "term": "subjectivating apprehension as presupposing a prior constitution",
+      "status": "presupposed",
+      "claim": "The subjectivating apprehension of kinaesthetic sensations presupposes both the Body as already constituted from another quarter and the prior functioning of those sensations in another manner.",
+      "quote": "They allow only a subjectivating apprehension — one that transforms them into appended determinations of the Body, presupposing the Body as already constituted from another quarter and presupposing that the kinaesthetic sensations have already functioned in another manner."
+    },
+    {
+      "id": "fundierung/husserl-thing-space/013",
+      "locator": "husserl-thing-and-space-commentary#h3-s47-insertion-of-the-kinaesthetic-sensations-into-the-body",
+      "primary_locator": "Thing and Space, §47",
+      "term": "Doppelauffassung (double apprehension)",
+      "status": "introduced",
+      "claim": "In the subjectivating apprehension the same sensations that objectivate are grasped as something the Body has, as subjective occurrences inserted and localized in it.",
+      "quote": "In the subjectivating apprehension, these same sensations are grasped as something the Body *has* — as subjective occurrences inserted and localized in it."
+    },
+    {
+      "id": "fundierung/husserl-thing-space/014",
+      "locator": "husserl-thing-and-space-commentary#h3-s49-functional-connection-between-visual-data-and-kinaesthetic-sequences-monocul",
+      "primary_locator": "Thing and Space, §49",
+      "term": "in Wesen fundierte Zugehörigkeiten (appurtenances founded in essence)",
+      "status": "introduced",
+      "claim": "Quality and extension, and the moments within each, belong together as appurtenances founded in essence that produce inseparable unities.",
+      "quote": "Everywhere there are appurtenances founded in essence that produce inseparable unities."
+    },
+    {
+      "id": "fundierung/husserl-thing-space/015",
+      "locator": "husserl-thing-and-space-commentary#h3-s49-functional-connection-between-visual-data-and-kinaesthetic-sequences-monocul",
+      "primary_locator": "Thing and Space, §49",
+      "term": "functional unity distinguished from mutual founding",
+      "status": "revised",
+      "claim": "The kinaesthetic-visual bond is a functional unity, a bond of what is separable, and is not the inner unity of what is mutually founded.",
+      "quote": "The bond in the case of functional unity is a bond of what is *separable*; it is not the inner unity of what is mutually founded."
+    },
+    {
+      "id": "fundierung/husserl-thing-space/016",
+      "locator": "husserl-thing-and-space-commentary#h3-s49-functional-connection-between-visual-data-and-kinaesthetic-sequences-monocul",
+      "primary_locator": "Thing and Space, §49",
+      "term": "absence of a founded connection between kinaesthetic and visual contents",
+      "status": "revised",
+      "claim": "Kinaesthetic sensations stand outside the visual field and have no more of an intrinsic founded connection with visual contents than visual contents have with tactile ones.",
+      "quote": "stand *outside* the visual field and have no more of an intrinsic, founded connection with visual contents than visual contents have with tactile contents."
+    },
+    {
+      "id": "fundierung/husserl-thing-space/017",
+      "locator": "husserl-thing-and-space-commentary#h3-s49-functional-connection-between-visual-data-and-kinaesthetic-sequences-monocul",
+      "primary_locator": "Thing and Space, §49",
+      "term": "depth-moment founded in extension",
+      "status": "introduced",
+      "claim": "The binocular depth-moment is founded in the moment of extension, so that the coloration acquires extension with depth rather than extension alone.",
+      "quote": "This depth-moment is founded in the moment of extension, and through it the coloration acquires not merely extension but extension *with depth*, possibly with changing relief."
+    }
+  ],
+  "absences": [
+    {
+      "locator": "husserl-thing-and-space-commentary#h3-s4-intentionality-as-the-essential-determination-of-perception",
+      "expected_because": "S4 introduces presence in the flesh as the concept on which the lectures turn, and the section is described throughout as foundational, so a founding relation in the technical sense would be expected here.",
+      "absent_terms": [
+        "Fundierung",
+        "founded",
+        "founding",
+        "stratum",
+        "strata",
+        "Schicht",
+        "Sachverhalt",
+        "state of affairs",
+        "higher objectivity",
+        "part and whole"
+      ],
+      "note": "The word 'foundational' here is the ordinary English adjective describing the section's importance to the lectures, not Fundierung. The technical vocabulary of founding enters only at S15 and S46."
+    }
+  ]
+}
