@@ -1,0 +1,105 @@
+{
+  "schema_version": 1,
+  "theme": "intentionalitaet",
+  "commentary": "husserliana-9-phenomenological-psychology-commentary",
+  "source_sha256": "668c7a551f240c6b325a909d5e9a3a0b2edff78d29009d73c83a9f11bd08b350",
+  "extracted_at": "2026-09-09",
+  "extractor": {
+    "agent": "claude-code",
+    "prompt": "Extract key instances of intentionality/intentional from Husserliana 9 Phenomenological Psychology editors' introduction",
+    "note": "Partial extraction focused on Introduction §§ d-e, which presents Brentano's discovery of intentionality as the fundamental character of consciousness and the Logical Investigations' development of intentional analysis and correlation research."
+  },
+  "coverage": "partial",
+  "coverage_note": "Covers sections d-e: Brentano's discovery of intentionality, the fundamental character of consciousness, intentional object-relations, intentional acts, descriptive psychology, intentional analysis, Logical Investigations' development of intentional implication and analysis, intentional correlation-research, and the performance-character of consciousness.",
+  "units": [
+    {
+      "id": "intentionalitaet/hua9/001",
+      "locator": "husserliana-9-phenomenological-psychology-commentary#h4-d-brentano-as-pioneer-for-the-investigation-in-inner-experience-discovery-of-int",
+      "term": "intentionality (fundamental character of consciousness)",
+      "status": "introduced",
+      "claim": "Brentano discovered intentionality as the fundamental character of consciousness, establishing it descriptively as the most general essential character of psychic life.",
+      "quote": "we today designate it with the word *intentionality*. For the first time, the *fundamental essence of all psychic life* — *consciousness* as *having-consciousness of something* — was put in the focal point, and indeed brought out descriptively as the most general essential character of psychic life"
+    },
+    {
+      "id": "intentionalitaet/hua9/002",
+      "locator": "husserliana-9-phenomenological-psychology-commentary#h4-d-brentano-as-pioneer-for-the-investigation-in-inner-experience-discovery-of-int",
+      "term": "intentionality (fundamental property of psychic life)",
+      "status": "presupposed",
+      "claim": "Intentionality is a fundamental property of psychic life given immediately and evidently prior to all theories.",
+      "quote": "One could not escape the recognition that intentionality is a *fundamental property* of psychic life — given quite immediately and evidently *prior to all theories*."
+    },
+    {
+      "id": "intentionalitaet/hua9/003",
+      "locator": "husserliana-9-phenomenological-psychology-commentary#h4-d-brentano-as-pioneer-for-the-investigation-in-inner-experience-discovery-of-int",
+      "term": "intentional object-relation",
+      "status": "presupposed",
+      "claim": "Descriptively, an object-relation belongs to every experience whether or not the object actually exists.",
+      "quote": "it can in any case be made evident that *in the perceptual experience itself there lies a consciousness-relation*, and indeed to the house perceived *in it itself*."
+    },
+    {
+      "id": "intentionalitaet/hua9/004",
+      "locator": "husserliana-9-phenomenological-psychology-commentary#h4-d-brentano-as-pioneer-for-the-investigation-in-inner-experience-discovery-of-int",
+      "term": "intentional acts (consciousness of correlates)",
+      "status": "presupposed",
+      "claim": "Every act has its object-correlate: perception is consciousness of what is perceived, memory of what is remembered, love of what is loved.",
+      "quote": "if I imagine to myself a centaur, the lived-experience of the fiction is itself *phantasy of* such-and-such a centaur; in the experience that we call *memory* lies likewise itself the *relation to the past*, in *loving* the relation to the *loved*, in *hating* to the *hated*, in *willing* to the *willed*."
+    },
+    {
+      "id": "intentionalitaet/hua9/005",
+      "locator": "husserliana-9-phenomenological-psychology-commentary#h4-d-brentano-as-pioneer-for-the-investigation-in-inner-experience-discovery-of-int",
+      "term": "intentionality (descriptively graspable essential character)",
+      "status": "introduced",
+      "claim": "Brentano established intentionality as the descriptively graspable essential character that distinguishes the psychic from the physical.",
+      "quote": "he sought a *descriptive principle of distinction between physical and psychic*, and was the first to establish that *intentionality* is the *descriptively graspable essential character of the specifically psychic*."
+    },
+    {
+      "id": "intentionalitaet/hua9/006",
+      "locator": "husserliana-9-phenomenological-psychology-commentary#h4-d-brentano-as-pioneer-for-the-investigation-in-inner-experience-discovery-of-int",
+      "term": "intentional analysis (psychological theme)",
+      "status": "introduced",
+      "claim": "Once clearly seen, intentionality became the central psychological theme requiring intentional analysis.",
+      "quote": "Once clearly seen, intentionality had to be a *psychological* theme — indeed *the central* psychological theme."
+    },
+    {
+      "id": "intentionalitaet/hua9/007",
+      "locator": "husserliana-9-phenomenological-psychology-commentary#h4-e-the-further-development-of-the-thought-of-intentionality-in-the-logical-invest",
+      "term": "intentional implication and analysis",
+      "status": "introduced",
+      "claim": "The Logical Investigations discovered intentional analysis as distinct from spatial combination, involving an interwovenness of consciousness specific to the mental.",
+      "quote": "an *intentional interwovenness, motivated-ness, being-enclosed-in-one-another in a meaning-relation* — and in a manner that has, in form and in principle, *no analogue in the physical at all*."
+    },
+    {
+      "id": "intentionalitaet/hua9/008",
+      "locator": "husserliana-9-phenomenological-psychology-commentary#h4-e-the-further-development-of-the-thought-of-intentionality-in-the-logical-invest",
+      "term": "intentional correlation research",
+      "status": "introduced",
+      "claim": "Phenomenological psychology pursues systematic intentional correlations between possible objectivities and structures of consciousness.",
+      "quote": "the manifold of psychic modes in which, *purely in the immanence of psychic life*, concepts, judgments, theories shape themselves as *ideally identical sense-unities*"
+    },
+    {
+      "id": "intentionalitaet/hua9/009",
+      "locator": "husserliana-9-phenomenological-psychology-commentary#h4-e-the-further-development-of-the-thought-of-intentionality-in-the-logical-invest",
+      "term": "intentional accomplishments (eidetic necessity)",
+      "status": "presupposed",
+      "claim": "Intentional accomplishments exhibit essential necessity: any knowing subject must structure its thinking identically.",
+      "quote": "if anything at all like *numbers, mathematical manifolds, propositions, theories*, etc., are to come to subjective givenness, to become conscious in subjective experiences, *these necessary experiences must have their essentially-necessary, everywhere-identical structure*."
+    },
+    {
+      "id": "intentionalitaet/hua9/010",
+      "locator": "husserliana-9-phenomenological-psychology-commentary#h4-e-the-further-development-of-the-thought-of-intentionality-in-the-logical-invest",
+      "term": "intentionality (performance-character of consciousness)",
+      "status": "revised",
+      "claim": "Consciousness is not a static taxonomy but a teleologically structured performance-life, everywhere intentional and goal-directed.",
+      "quote": "Consciousness, intentionality, revealed its true essential character only in such directed work."
+    },
+    {
+      "id": "intentionalitaet/hua9/011",
+      "locator": "husserliana-9-phenomenological-psychology-commentary#h4-e-the-further-development-of-the-thought-of-intentionality-in-the-logical-invest",
+      "term": "intentional correlation research (Korrelationsforschung)",
+      "status": "presupposed",
+      "claim": "Phenomenological investigation pursues systematic intentional correlations revealing necessary connections between consciousness and objects.",
+      "quote": "a new-kind *Idea of psychology* opens up — new-kind not only through its concretely and universally grasped theme *object-consciousness*"
+    }
+  ],
+  "absences": []
+}

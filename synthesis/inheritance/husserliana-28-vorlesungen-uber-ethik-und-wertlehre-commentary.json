@@ -1,0 +1,87 @@
+{
+  "schema_version": 1,
+  "commentary": "husserliana-28-vorlesungen-uber-ethik-und-wertlehre-commentary",
+  "source_sha256": "fd9165d1171e8a6ec659a655447727e831a2aecb868d315e15f209b69ec5f379",
+  "extracted_at": "2026-09-09",
+  "extractor": {
+    "agent": "claude-code",
+    "prompt": "prompts/inheritance-prompt.md",
+    "note": "source_sha256 is the LF digest (CRLF checkout; local validate reports a false staleness, CI on LF passes). Predecessor engagement is spread across the parallelism sections (§2 on ethical empiricism vs. absolutism, §5b on Kant's categorical imperative, §7 on axiological reason), the Schluesstueck's formal theory of rational choice (correction of Brentano), and the Einleitung's §5 on the hidden countersense of natural epistemology (Descartes, Berkeley, Hume). One record per commentary covering all predecessors."
+  },
+  "coverage": "partial",
+  "coverage_note": "Covers the Ethik/Wertlehre lectures' engagement with predecessors: Kant (the categorical imperative, offered as the sole purely formal and sufficient principle of morality, is not formal in the logician's sense because it positively decides the individual case as formal logic never does), Brentano (the principle 'Do the best among the attainable!', taken over but shown to be only a provisional popular expression needing a rigorous formal theory of practical realm, absorption, and realizability), Locke (the parallelization of ethics with pure mathematics, issuing from the Cambridge School's renewal of Platonism and still acknowledged in Locke, which Husserl reconstructs as the logic/ethics analogy), Rickert and Windelband (whose felt sense of the neglected axiological reason drives them to reinterpret logical reason itself axiologically), Vaihinger (the philosophy of the 'As-if', stated as the skeptic's strongest self-aware position and then refuted), and Descartes, Berkeley, and Hume (the problem of knowledge of the outer world as a perverse pseudo-problem, with Hume as the consistent skeptical endpoint of naive idealist epistemology). Not covered: the detailed formal-axiological and formal-practical law systems.",
+  "engagements": [
+    {
+      "id": "inh/hua28/001",
+      "locator": "husserliana-28-vorlesungen-uber-ethik-und-wertlehre-commentary#h4-b-the-traditional-sense-of-the-ethical-principles-formal-correctness-according-t",
+      "primary_locator": "Vorlesungen ueber Ethik und Wertlehre, Part A, §5(b)",
+      "predecessor": { "author": "Immanuel Kant", "text": "Grundlegung zur Metaphysik der Sitten" },
+      "mode": "polemical-rejection",
+      "claim": "Kant's categorical imperative, offered as the sole admissible purely formal principle and the one sufficient criterion of morality, is not formal in the logician's sense at all, since it positively decides the concrete individual case in a way formal logic never does.",
+      "quote": "The Kantian \"formal\" principle, in short, is not formal in the logician's sense at all, and the genuinely formal Praktik remains to be found."
+    },
+    {
+      "id": "inh/hua28/002",
+      "locator": "husserliana-28-vorlesungen-uber-ethik-und-wertlehre-commentary#h3-b-the-formal-laws-of-rational-choice-and-the-formal-determination-of-the-highest",
+      "primary_locator": "Vorlesungen ueber Ethik und Wertlehre, Schluesstueck (b)",
+      "predecessor": { "author": "Franz Brentano" },
+      "mode": "destructive-appropriation",
+      "claim": "Husserl takes over Brentano's principle 'Do the best among the attainable!' while showing that it can only be a provisional, popular expression whose sense, limits, and formal presuppositions require the deep-penetrating formal theory of practical realm, absorption, and realizability.",
+      "quote": "In a few sentences, after setting up his summation-laws, Brentano comes to his principle \"Do the best among the attainable\\!\"; but our considerations show that this can only be a provisional, popular expression"
+    },
+    {
+      "id": "inh/hua28/003",
+      "locator": "husserliana-28-vorlesungen-uber-ethik-und-wertlehre-commentary#h3-s-2-the-opposition-between-ethical-empiricism-and-absolutism",
+      "primary_locator": "Vorlesungen ueber Ethik und Wertlehre, Part A, §2",
+      "predecessor": { "author": "John Locke" },
+      "mode": "acknowledged-debt",
+      "claim": "The idea of an apriori ethical doctrine of principles emerges in the modern age with the Cambridge School's renewal of Platonism, and its parallelization of ethics with pure mathematics, still acknowledged in Locke, is the very logic/ethics analogy Husserl reconstructs.",
+      "quote": "the idea of an apriori ethical doctrine of principles emerges at the threshold of the modern age in connection with the renewal of Platonism, namely in the Cambridge School, and the current of intellectualist ethics issuing from it likes to parallelize ethics and pure mathematics — a parallelization still acknowledged in Locke."
+    },
+    {
+      "id": "inh/hua28/004",
+      "locator": "husserliana-28-vorlesungen-uber-ethik-und-wertlehre-commentary#h3-s-2-the-opposition-between-ethical-empiricism-and-absolutism",
+      "primary_locator": "Vorlesungen ueber Ethik und Wertlehre, Part A, §2",
+      "predecessor": { "author": "Hans Vaihinger", "text": "Die Philosophie des Als Ob" },
+      "mode": "polemical-rejection",
+      "claim": "Husserl states the ethical skeptic's position in its strongest, most self-aware form as the philosophy of the 'As-if', speaking with Vaihinger, and then undertakes to refute it from within.",
+      "quote": "the true philosophy is to be the philosophy of the \"As-if\": it is good to proceed practically as if these fictions had absolute validity, but theoretically one must be clear that everything is only relative, only anthropological"
+    },
+    {
+      "id": "inh/hua28/005",
+      "locator": "husserliana-28-vorlesungen-uber-ethik-und-wertlehre-commentary#h3-s-7-the-analogies-for-the-judging-position-taking-of-belief-in-the-classes-of-em",
+      "primary_locator": "Vorlesungen ueber Ethik und Wertlehre, Part A, §7",
+      "predecessor": { "author": "Heinrich Rickert" },
+      "mode": "polemical-rejection",
+      "claim": "Against Rickert and Windelband, in whom the axiological reason scorned by the tradition breaks through so strongly that these Fichte-leaning researchers fall into the exaggeration of reinterpreting logical reason itself axiologically, Husserl holds that the omni-dominion of logical reason leaves the parallelism of the reason-kinds intact.",
+      "quote": "This critique is directed against the theories of Rickert and Windelband, so popular in our time. In them the axiological reason scorned by the tradition breaks through, in a certain way; its very peculiarity becomes so strongly felt by these Fichte-leaning researchers that they fall into the exaggeration of reinterpreting logical reason itself axiologically."
+    },
+    {
+      "id": "inh/hua28/006",
+      "locator": "husserliana-28-vorlesungen-uber-ethik-und-wertlehre-commentary#h4-b-the-knowledge-problems-the-hidden-countersense-of-every-natural-theory-of-know",
+      "primary_locator": "Vorlesungen ueber Ethik und Wertlehre, Einleitung, §5(b)",
+      "predecessor": { "author": "René Descartes" },
+      "mode": "polemical-rejection",
+      "claim": "The problem of the possibility of a knowledge of the outer world, which has misled modern philosophy since Descartes and Berkeley and which many still declare the basic problem of epistemology, is a fundamentally perverse pseudo-problem internal to a countersense shared by realism and idealism alike.",
+      "quote": "Not a few epistemologists would even today declare this problem — which has misled modern philosophy since Descartes and Berkeley — the specific basic problem of epistemology"
+    },
+    {
+      "id": "inh/hua28/007",
+      "locator": "husserliana-28-vorlesungen-uber-ethik-und-wertlehre-commentary#h4-b-the-knowledge-problems-the-hidden-countersense-of-every-natural-theory-of-know",
+      "primary_locator": "Vorlesungen ueber Ethik und Wertlehre, Einleitung, §5(b)",
+      "predecessor": { "author": "George Berkeley" },
+      "mode": "polemical-rejection",
+      "claim": "Berkeley's idealism dissolves the material outer world into connections of ideas of experiencing spirits while inferring the existence of God and of other minds through rational inferences, and so shares with realism the perverse problem of the knowledge of the outer world.",
+      "quote": "the doctrine of Berkeley, who dissolves the material outer world into connections of ideas, of lived-experiences of experiencing spirits, but holds the existence of God and of a plurality of human spirits justified through rational inferences"
+    },
+    {
+      "id": "inh/hua28/008",
+      "locator": "husserliana-28-vorlesungen-uber-ethik-und-wertlehre-commentary#h4-b-the-knowledge-problems-the-hidden-countersense-of-every-natural-theory-of-know",
+      "primary_locator": "Vorlesungen ueber Ethik und Wertlehre, Einleitung, §5(b)",
+      "predecessor": { "author": "David Hume" },
+      "mode": "polemical-rejection",
+      "claim": "In Hume the naive idealist theory of knowledge reaches its most consequent development: a psychologism carried through so purely that it becomes conscious of its own countersense, becomes skepticism, and is at the point of turning over into its opposite.",
+      "quote": "The thought, which presses itself so strongly, that all being must dissolve into consciousness, hence into the psychological, leads here to a consequent psychologism carried through in such purity that it becomes conscious of its own countersense, becomes skepticism"
+    }
+  ]
+}

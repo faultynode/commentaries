@@ -1,0 +1,87 @@
+{
+  "schema_version": 1,
+  "commentary": "husserliana-1-cartesianische-meditationen-commentary",
+  "source_sha256": "e3798169d749d13a00bde43b2e4b4c47b7c3db4944199cfb4eb09148c0824eb6",
+  "extracted_at": "2026-09-09",
+  "extractor": {
+    "agent": "claude-code",
+    "prompt": "prompts/inheritance-prompt.md",
+    "note": "source_sha256 is the LF digest (CRLF checkout; local validate reports a false staleness, CI on LF passes). The whole framing of the Cartesian Meditations is an engagement with Descartes; retrieval keyed on predecessor names, closely read §§ 1-2 and § 10 (Descartes), § 33 and § 60 (Leibniz's monad), and § 61 (the Kantian 'transcendental aesthetic'). One record per commentary covering all predecessors."
+  },
+  "coverage": "partial",
+  "coverage_note": "Covers the Cartesian Meditations' engagement with predecessors: Descartes (phenomenology as a neo-Cartesianism that, through the radical unfolding of Cartesian motifs, rejects nearly the entire known doctrinal content of Cartesian philosophy; the eternal significance of the return to the thinking subject and the demand for absolute foundations; the Meditations as the prototype of the necessary meditations of every beginning philosopher, to be reawakened rather than taken over; the scholastic prejudices lurking unclarified in them (Gilson, Koyré); the prejudice from the admiration of mathematical natural science that treats the ego cogito as an axiom for a world-science ordine geometrico; and the fateful turn that makes the ego a substantia cogitans and makes Descartes the father of a countersensical transcendental realism, standing before the greatest discovery without grasping its transcendental sense), Leibniz (the borrowed word 'monad' for the ego in its full concretion, and the corrected thesis that infinitely many monads are conceivable but not all compossible), and Kant (the 'transcendental aesthetic' title taken over in a very expanded sense for the primordial-world research). Not covered: the detailed constitutional analyses.",
+  "engagements": [
+    {
+      "id": "inh/hua1/001",
+      "locator": "husserliana-1-cartesianische-meditationen-commentary#h3-s-1-descartes-meditations-as-the-prototype-of-philosophical-self-reflection",
+      "primary_locator": "Cartesian Meditations § 1",
+      "predecessor": { "author": "René Descartes", "text": "Meditationes de prima philosophia" },
+      "mode": "destructive-appropriation",
+      "claim": "There is a striking paradox: phenomenology could almost be called a neo-Cartesianism, yet precisely through the radical unfolding of Cartesian motifs it is compelled to reject nearly the entire known doctrinal content of Cartesian philosophy.",
+      "quote": "phenomenology could almost be called a neo-Cartesianism, yet precisely through the radical unfolding of Cartesian motifs, it is compelled to reject nearly the entire known doctrinal content of Cartesian philosophy."
+    },
+    {
+      "id": "inh/hua1/002",
+      "locator": "husserliana-1-cartesianische-meditationen-commentary#h3-s-1-descartes-meditations-as-the-prototype-of-philosophical-self-reflection",
+      "primary_locator": "Cartesian Meditations § 1",
+      "predecessor": { "author": "René Descartes" },
+      "mode": "acknowledged-debt",
+      "claim": "The Cartesian Meditations do not wish to be a private affair of the philosopher Descartes: they delineate the prototype of the necessary meditations of every beginning philosopher, from which alone a philosophy can originally grow, and carry an eternal significance in the radical return to the thinking subject and the demand for absolute foundations.",
+      "quote": "They rather delineate the prototype of the necessary meditations of every beginning philosopher, from which alone a philosophy can originally grow."
+    },
+    {
+      "id": "inh/hua1/003",
+      "locator": "husserliana-1-cartesianische-meditationen-commentary#h3-s-2-the-necessity-of-a-radical-new-beginning-in-philosophy",
+      "primary_locator": "Cartesian Meditations § 2",
+      "predecessor": { "author": "René Descartes" },
+      "mode": "acknowledged-debt",
+      "claim": "The only fruitful renaissance is that which reawakens the Cartesian Meditations, not to take them over but to disclose first of all the deepest sense of their radicalism in the return to the ego cogito, and this marks the path that has led to transcendental phenomenology.",
+      "quote": "that which reawakens the Cartesian *Meditations* — not to take them over, but to disclose first of all the deepest sense of their radicalism in the return to the *ego cogito*"
+    },
+    {
+      "id": "inh/hua1/004",
+      "locator": "husserliana-1-cartesianische-meditationen-commentary#h3-s-10-excursus-descartes-failure-to-make-the-transcendental-turn",
+      "primary_locator": "Cartesian Meditations § 10",
+      "predecessor": { "author": "René Descartes" },
+      "mode": "polemical-rejection",
+      "claim": "More recent research, in particular the work of Gilson and Koyré, shows how much scholasticism lurks in concealment as an unclarified prejudice in Descartes' Meditations, and a further prejudice from the admiration of mathematical natural science treats the ego cogito as an apodictic axiom for a deductively explanatory world-science ordine geometrico.",
+      "quote": "we know through more recent research — in particular the beautiful and profound work of Gilson and Koyré — how much scholasticism lurks in concealment as an unclarified prejudice in Descartes' *Meditations*."
+    },
+    {
+      "id": "inh/hua1/005",
+      "locator": "husserliana-1-cartesianische-meditationen-commentary#h3-s-10-excursus-descartes-failure-to-make-the-transcendental-turn",
+      "primary_locator": "Cartesian Meditations § 10",
+      "predecessor": { "author": "René Descartes" },
+      "mode": "destructive-appropriation",
+      "claim": "Through the inconspicuous but fateful turn that makes the ego into a substantia cogitans, a separated human mens sive animus and a starting-point for causal inferences, Descartes became the father of transcendental realism, standing before the greatest of all discoveries, having in a way already made it, yet not grasping its authentic sense, transcendental subjectivity.",
+      "quote": "so it comes about that he stands before the greatest of all discoveries, has in a certain way already made it, and yet does not grasp its authentic sense — the sense of transcendental subjectivity — and thus does not cross the entry gate leading into genuine transcendental philosophy."
+    },
+    {
+      "id": "inh/hua1/006",
+      "locator": "husserliana-1-cartesianische-meditationen-commentary#h3-s-33-the-full-concretion-of-the-ego-as-monad-and-the-problem-of-its-self-constit",
+      "primary_locator": "Cartesian Meditations § 33",
+      "predecessor": { "author": "Gottfried Wilhelm Leibniz" },
+      "mode": "terminological-borrowing",
+      "claim": "From the ego as identical pole and substrate of habitualities Husserl distinguishes the ego in its full concretion, which he calls a monad, using Leibniz's word, and which can only be in the streaming manifoldness of its intentional life and the objects meant therein.",
+      "quote": "we distinguish the ego taken in its full concretion (which we wish to call a monad, using Leibniz's word)"
+    },
+    {
+      "id": "inh/hua1/007",
+      "locator": "husserliana-1-cartesianische-meditationen-commentary#h3-s-60-metaphysical-results-of-our-interpretation-of-the-experience-of-others",
+      "primary_locator": "Cartesian Meditations § 60",
+      "predecessor": { "author": "Gottfried Wilhelm Leibniz", "text": "Monadology" },
+      "mode": "acknowledged-debt",
+      "claim": "Leibniz is right that infinitely many monads and groups of monads are conceivable, but not all these possibilities are compossible, and not multiple worlds can exist simultaneously, so there can be only a single community of all coexisting monads and a single objective world.",
+      "quote": "Leibniz is right that infinitely many monads and groups of monads are conceivable, but not all these possibilities are compossible, and not multiple worlds can exist simultaneously."
+    },
+    {
+      "id": "inh/hua1/008",
+      "locator": "husserliana-1-cartesianische-meditationen-commentary#h3-s-61-the-traditional-problems-of-psychological-origin-and-their-phenomenological",
+      "primary_locator": "Cartesian Meditations § 61",
+      "predecessor": { "author": "Immanuel Kant", "text": "Kritik der reinen Vernunft" },
+      "mode": "terminological-borrowing",
+      "claim": "Since the problems of the psychological origin of the space-, time-, and thing-representation are exclusively problems of intentional constitution, the complex of research concerning the primordial world may be designated as 'transcendental aesthetics' in a very expanded sense, taking over the Kantian title.",
+      "quote": "The complex of research concerning the primordial world may also be designated as \"transcendental aesthetics\" in a very expanded sense, taking over the Kantian title."
+    }
+  ]
+}

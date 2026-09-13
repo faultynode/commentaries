@@ -1,0 +1,87 @@
+{
+  "schema_version": 1,
+  "commentary": "husserl-erfahrung-und-urteil-commentary",
+  "source_sha256": "82c4ca54e212939aeb705d8aa3ecf44065fe852bd013910cfcf8326007d09b15",
+  "extracted_at": "2026-09-09",
+  "extractor": {
+    "agent": "claude-code",
+    "prompt": "prompts/inheritance-prompt.md",
+    "note": "source_sha256 is the LF digest (CRLF checkout; local validate reports a false staleness, CI on LF passes). Predecessor engagement is concentrated in the Introduction (Aristotle on the two-membered judgment, §2; the Cartesian motif of the transcendental, §11; Hume and Brentano on judgment as passive datum, §13), in Part I §16 (the transformation of the traditional concept of association) and §38 (the Kantian thesis that time is the form of sensibility), and in Appendix II (critique of the Humean conception of probability). One record per commentary covering all predecessors."
+  },
+  "coverage": "partial",
+  "coverage_note": "Covers Erfahrung und Urteil's engagement with predecessors: Aristotle (the Aristotelian founding of the logical tradition fixes the two-membered structure of the predicative judgment as the archetypal model whose origin is to be interrogated; and since Aristotle the copulative 'S is p' has counted as the basic schema of judgment, a privileging whose originality EU calls into question), Kant (EU claims to exhibit the inner truth of the Kantian thesis that time is the form of sensibility, extended to the form of every possible world of objective experience), Hume (the passive 'belief' that Hume and the positivism following him take as a datum on the consciousness-table, from which judging as egoic activity must be distinguished; and the Humean conception of probability and causal inference, which ends in skepticism because Hume never distinguished phenomenological from psychological analysis), Brentano (whose concept of judgment likewise means a passive datum, not an activity radiating from the ego-pole), Locke (the traditional 'association of ideas', a term EU takes over while transforming its sense and excluding every conception of association as psychophysical natural lawfulness), and Descartes (the original Cartesian motif of inquiring back to the ultimate source of all cognition-formations, in which 'transcendental' has its sense). Not covered: the detailed constitutive analyses of pre-predicative experience and predicative form.",
+  "engagements": [
+    {
+      "id": "inh/eu/001",
+      "locator": "husserl-erfahrung-und-urteil-commentary#h3-s2-the-traditional-determination-and-privileged-position-of-the-predicative-judg",
+      "primary_locator": "Erfahrung und Urteil § 2",
+      "predecessor": { "author": "Aristotle" },
+      "mode": "acknowledged-debt",
+      "claim": "From the Aristotelian founding of the logical tradition it has been established that the predicative judgment has a two-membered structure of a hypokeimenon and what is predicated of it, and EU takes this traditionally given formation as the archetypal model whose origin is to be interrogated.",
+      "quote": "what has been established from the beginning — from the Aristotelian founding of our logical tradition — is that the predicative judgment is universally characterized by a two-membered structure"
+    },
+    {
+      "id": "inh/eu/002",
+      "locator": "husserl-erfahrung-und-urteil-commentary#h3-s2-the-traditional-determination-and-privileged-position-of-the-predicative-judg",
+      "primary_locator": "Erfahrung und Urteil § 2",
+      "predecessor": { "author": "Aristotle" },
+      "mode": "polemical-rejection",
+      "claim": "Since Aristotle the copulative judgment reducible to 'S is p' has been taken as the basic schema of judgment, but EU holds that the originality of this schema, and the depersonalization built into its third-person form, must themselves be put in question.",
+      "quote": "Since Aristotle, the basic schema of judgment has been taken to be the copulative judgment, reducible to the form \"S is p.\""
+    },
+    {
+      "id": "inh/eu/003",
+      "locator": "husserl-erfahrung-und-urteil-commentary#h3-s38-the-necessary-connection-of-the-intentional-objects-of-all-perceptions-and-p",
+      "primary_locator": "Erfahrung und Urteil § 38",
+      "predecessor": { "author": "Immanuel Kant", "text": "Kritik der reinen Vernunft" },
+      "mode": "acknowledged-debt",
+      "claim": "EU claims to make intelligible the inner truth of the Kantian thesis that time is the form of sensibility: it is the first and fundamental form, the presupposition of all other unity-founding connections, and therefore the form of every possible world of objective experience.",
+      "quote": "We now understand the inner truth of the Kantian thesis: time is the form of sensibility, and therefore it is the form of every possible world of objective experience."
+    },
+    {
+      "id": "inh/eu/004",
+      "locator": "husserl-erfahrung-und-urteil-commentary#h3-s13-the-general-concept-of-judgment-and-of-the-object-judgment-as-determination",
+      "primary_locator": "Erfahrung und Urteil § 13",
+      "predecessor": { "author": "David Hume" },
+      "mode": "polemical-rejection",
+      "claim": "Judging in the widest sense, as egoic activity of a lower or higher level, must not be confused with the passive belief that Hume and the positivism following him take as a mere datum on the consciousness-table.",
+      "quote": "Judging in this widest sense of egoic activity of lower or higher level must not be confused with the passive belief that Hume and the positivism following him assumes as a datum on the consciousness-table."
+    },
+    {
+      "id": "inh/eu/005",
+      "locator": "husserl-erfahrung-und-urteil-commentary#h3-s13-the-general-concept-of-judgment-and-of-the-object-judgment-as-determination",
+      "primary_locator": "Erfahrung und Urteil § 13",
+      "predecessor": { "author": "Franz Brentano" },
+      "mode": "polemical-rejection",
+      "claim": "Brentano's concept of judgment also means such a passive datum and not, as his doctrine of inner consciousness shows, an activity radiating from the ego-pole.",
+      "quote": "Brentano's concept of judgment also means such a datum — at least, as his doctrine of inner consciousness shows, not an activity radiating from the ego-pole."
+    },
+    {
+      "id": "inh/eu/006",
+      "locator": "husserl-erfahrung-und-urteil-commentary#h2-appendix-ii-to-s76-the-evidence-of-the-probability-claim-critique-of-the-humean",
+      "primary_locator": "Erfahrung und Urteil, Appendix II (to § 76)",
+      "predecessor": { "author": "David Hume" },
+      "mode": "polemical-rejection",
+      "claim": "Hume first made the grounding of assertions about the future through past experience a comprehensive problem and ended in skepticism, but he must fail because he never clarified purely phenomenological analysis as distinct from psychological analysis.",
+      "quote": "Hume must fail here because he has not clarified for himself the essence of purely phenomenological analysis as distinguished from psychological analysis"
+    },
+    {
+      "id": "inh/eu/007",
+      "locator": "husserl-erfahrung-und-urteil-commentary#h3-s16-the-field-of-passive-pregivennesses-and-its-associative-structure",
+      "primary_locator": "Erfahrung und Urteil § 16",
+      "predecessor": { "author": "John Locke", "text": "An Essay Concerning Human Understanding" },
+      "mode": "destructive-appropriation",
+      "claim": "EU designates the coincidence-synthesis of the passive field with the traditional expression 'association', while transforming its sense and excluding every conception of association and its laws as a psychophysical natural lawfulness won through objective induction.",
+      "quote": "a coincidence-synthesis that we designate, with the traditional expression but under a transformation of its sense, as association."
+    },
+    {
+      "id": "inh/eu/008",
+      "locator": "husserl-erfahrung-und-urteil-commentary#h3-s11-the-origin-clarification-of-judgment-and-genealogy-of-logic-in-the-overall-h",
+      "primary_locator": "Erfahrung und Urteil § 11",
+      "predecessor": { "author": "René Descartes" },
+      "mode": "acknowledged-debt",
+      "claim": "In unveiling the intentional implications of the pregiven world we understand ourselves as transcendental subjectivity, where 'transcendental' means nothing other than the original Cartesian motif of inquiring back to the ultimate source of all cognition-formations.",
+      "quote": "we understand ourselves as transcendental subjectivity — where \"transcendental\" means nothing other than the original Cartesian motif of inquiring back to the ultimate source of all cognition-formations"
+    }
+  ]
+}

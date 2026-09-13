@@ -1,0 +1,253 @@
+{
+  "schema_version": 1,
+  "theme": "intentionalitaet",
+  "commentary": "husserliana-3-ideas-i-parts-3-4-commentary",
+  "source_sha256": "cca8c38ab34388e5a559649f69b70591451b461759746ee131fb0656b0e0b361",
+  "extracted_at": "2026-09-08",
+  "extractor": {
+    "agent": "claude-code",
+    "prompt": "prompts/extraction-prompt.md",
+    "note": "source_sha256 is the LF digest as recorded in corpus.json (this pass was done on a CRLF checkout; local validate reports a false staleness, CI on LF passes). Closely read the intentionality spine: the Second Chapter (SS 84-86), the Third Chapter in full (SS 87-96), the Fourth Chapter SS 97-99, and Part Four's First Chapter SS 128-131 plus SS 134-136. Read SS 76, 77 (opening only) and SS 81-83 for the absence check. Not read: the methodological First Chapter (SS 63-75), SS 78-80, SS 100-127 (level-formations, doxic modalities, neutrality-modification, syntheses, Logos/Bedeutung), SS 132-133, and SS 137-153 (the phenomenology of reason after S 136, and the reason-theoretical problematic and constitution chapters)."
+  },
+  "coverage": "partial",
+  "coverage_note": "Covers the introduction and core doctrine of intentionality: S 84 (intentionality as principal theme), S 85 (hyle/morphe, noesis), S 86 (functional/constitution problems), SS 87-96 (the noesis-noema correlation across perception, judgment, feeling, will), SS 97-99 (reell vs non-reell, mode of being of the noema, the full noema and its characters), and SS 128-131, 134-136 (the noematic sense, the determinable X, object-consciousness correlation, evidence as motivated positing). Not covered: SS 63-83 except 76 and 81-83, SS 100-127, SS 132-133, and SS 137-153.",
+  "units": [
+    {
+      "id": "intentionalitaet/hua3-p34/001",
+      "locator": "husserliana-3-ideas-i-parts-3-4-commentary#h3-s-84-intentionality-as-the-principal-phenomenological-theme",
+      "primary_locator": "Ideas I § 84",
+      "term": "Intentionalität / intentionality",
+      "status": "introduced",
+      "claim": "Intentionality is announced as the general theme of objectively-oriented phenomenology and as what characterizes consciousness in the pregnant sense.",
+      "quote": "This sets intentionality as the central theme. Intentionality (being-consciousness-of-something) characterizes consciousness in the strict sense."
+    },
+    {
+      "id": "intentionalitaet/hua3-p34/002",
+      "locator": "husserliana-3-ideas-i-parts-3-4-commentary#h3-s-84-intentionality-as-the-principal-phenomenological-theme",
+      "primary_locator": "Ideas I § 84",
+      "term": "intentionality (actual / inactual)",
+      "status": "revised",
+      "claim": "Intentionality is broadened beyond the actual cogito to include the inactual background-consciousness of the objective field.",
+      "quote": "Intentionality is therefore broader than the actual cogito: it includes the inactual, background consciousness."
+    },
+    {
+      "id": "intentionalitaet/hua3-p34/003",
+      "locator": "husserliana-3-ideas-i-parts-3-4-commentary#h3-s-84-intentionality-as-the-principal-phenomenological-theme",
+      "primary_locator": "Ideas I § 84",
+      "term": "act / intentional experience",
+      "status": "revised",
+      "claim": "The terms \"act\" and \"intentional experience\" are no longer used as equivalent; \"act\" is reserved for the performed cogito, with the modal difference between performed and unperformed acts kept in view.",
+      "quote": "Husserl will reserve \"act\" for the performed cogito unless otherwise noted, while recognizing the modal difference between performed and unperformed."
+    },
+    {
+      "id": "intentionalitaet/hua3-p34/004",
+      "locator": "husserliana-3-ideas-i-parts-3-4-commentary#h3-s-85-sensuous-hyle-intentional-morphe",
+      "primary_locator": "Ideas I § 85",
+      "term": "sensuous hyle / intentional morphe",
+      "status": "introduced",
+      "claim": "The sensuous data have in themselves nothing of intentionality and become part of an intentional experience only through an animating, sense-giving layer laid over them.",
+      "quote": "These data have, in themselves, nothing of intentionality. They become part of an intentional experience only through an \"animating,\" sense-giving layer that lies over them."
+    },
+    {
+      "id": "intentionalitaet/hua3-p34/005",
+      "locator": "husserliana-3-ideas-i-parts-3-4-commentary#h3-s-85-sensuous-hyle-intentional-morphe",
+      "primary_locator": "Ideas I § 85",
+      "term": "noesis",
+      "status": "introduced",
+      "claim": "The term \"noesis\" is introduced for the forming, animating, sense-giving moment that carries intentionality, correlative to the hyletic stuff.",
+      "quote": "So noesis names the forming, animating, sense-giving side of the experience, correlative to the hyletic stuff."
+    },
+    {
+      "id": "intentionalitaet/hua3-p34/006",
+      "locator": "husserliana-3-ideas-i-parts-3-4-commentary#h3-s-85-sensuous-hyle-intentional-morphe",
+      "primary_locator": "Ideas I § 85",
+      "term": "Brentano's psychic / physical phenomena",
+      "status": "criticized",
+      "claim": "Brentano's distinction of psychic from physical phenomena is credited as path-breaking for first identifying intentionality as the mark of the mental, while marked as not reaching the phenomenological ground.",
+      "quote": "Brentano's distinction of psychic from physical phenomena (the psychic being the intentional, the \"physical phenomena\" being the sensory contents) was path-breaking: it first identified intentionality as the mark of the mental, and so opened the way to phenomenology."
+    },
+    {
+      "id": "intentionalitaet/hua3-p34/007",
+      "locator": "husserliana-3-ideas-i-parts-3-4-commentary#h3-s-86-the-functional-problems",
+      "primary_locator": "Ideas I § 86",
+      "term": "functional problems / constitution",
+      "status": "introduced",
+      "claim": "The functional problems are the problems of the constitution of objectivities, governed by an a priori correlation of object and consciousness-system.",
+      "quote": "This is the master-principle of constitutive phenomenology: the a priori correlation of object and consciousness."
+    },
+    {
+      "id": "intentionalitaet/hua3-p34/008",
+      "locator": "husserliana-3-ideas-i-parts-3-4-commentary#h3-s-86-the-functional-problems",
+      "primary_locator": "Ideas I § 86",
+      "term": "transcendental phenomenology",
+      "status": "introduced",
+      "claim": "Phenomenology is called transcendental because, grasping experiences as \"consciousness-of\" rather than dead content-complexes, it necessarily reaches the constitution-problems.",
+      "quote": "The transcendental problematic (constitution) is what makes phenomenology transcendental."
+    },
+    {
+      "id": "intentionalitaet/hua3-p34/009",
+      "locator": "husserliana-3-ideas-i-parts-3-4-commentary#h3-s-88-reell-and-intentional-experience-components-the-noema",
+      "primary_locator": "Ideas I § 88",
+      "term": "reell components / intentional correlate",
+      "status": "introduced",
+      "claim": "The master-distinction within intentionality is between the reell components genuinely contained in the experience and the intentional correlate, which is in the experience only intentionally.",
+      "quote": "The reell is what is genuinely in the experience; the intentional correlate (the noema, introduced below) is the object-as-meant, which is in the experience only intentionally, not reell."
+    },
+    {
+      "id": "intentionalitaet/hua3-p34/010",
+      "locator": "husserliana-3-ideas-i-parts-3-4-commentary#h3-s-88-reell-and-intentional-experience-components-the-noema",
+      "primary_locator": "Ideas I § 88",
+      "term": "noema",
+      "status": "introduced",
+      "claim": "The \"perceived as such\" (the object-as-meant, surviving the bracketing of the real object) is named the perception-noema, correlative to the noesis.",
+      "quote": "So every intentional experience has its noema, the object-as-meant, correlative to its noesis, the act of meaning."
+    },
+    {
+      "id": "intentionalitaet/hua3-p34/011",
+      "locator": "husserliana-3-ideas-i-parts-3-4-commentary#h3-s-89-noematic-statements-and-reality-statements-the-noema-in-the-psychological-s",
+      "primary_locator": "Ideas I § 89",
+      "term": "perception-sense / noema",
+      "status": "introduced",
+      "claim": "The real tree can burn while the perception-sense cannot; the noema is not a real thing but an irreal objective sense belonging to the experience.",
+      "quote": "The noema is not a real thing; it is the objective sense, an irreal correlate belonging to the experience."
+    },
+    {
+      "id": "intentionalitaet/hua3-p34/012",
+      "locator": "husserliana-3-ideas-i-parts-3-4-commentary#h3-s-90-the-noematic-sense-and-the-distinction-of-immanent-and-actual-objects",
+      "primary_locator": "Ideas I § 90",
+      "term": "immanent / intentional object",
+      "status": "criticized",
+      "claim": "Construing the intentional object as an \"immanent\" object or inner image inhering reell in the experience is rejected by a regress argument: there is one perceived tree, and the noema is not a second thing.",
+      "quote": "So the construction is circular and generates an infinite regress. There is no inner image; there is one tree, perceived, and the noema is not a second thing but the tree-as-perceived."
+    },
+    {
+      "id": "intentionalitaet/hua3-p34/013",
+      "locator": "husserliana-3-ideas-i-parts-3-4-commentary#h3-s-91-transference-to-the-widest-sphere-of-intentionality",
+      "primary_locator": "Ideas I § 91",
+      "term": "noematic core / character",
+      "status": "introduced",
+      "claim": "The noema-doctrine is extended to all act-types, and the full noema is articulated into a core (the objective sense, identical across act-types) plus a differentiating givenness-mode character.",
+      "quote": "So the noema has a common core (the objective sense) plus a differentiating character (the givenness-mode). The core can be identical across acts; the character necessarily differs."
+    },
+    {
+      "id": "intentionalitaet/hua3-p34/014",
+      "locator": "husserliana-3-ideas-i-parts-3-4-commentary#h3-s-92-the-attentional-changes-in-noetic-and-noematic-respect",
+      "primary_locator": "Ideas I § 92",
+      "term": "attentional changes",
+      "status": "introduced",
+      "claim": "Attention is a dimension of correlative noetic and noematic modifications: each change of attention is at once a change of the glance-ray and of the illumination of the appearing.",
+      "quote": "So attention is a dimension of correlative noetic-noematic modifications: every change of attention is at once a noetic change (the glance-ray) and a noematic change (the illumination of the appearing)."
+    },
+    {
+      "id": "intentionalitaet/hua3-p34/015",
+      "locator": "husserliana-3-ideas-i-parts-3-4-commentary#h3-s-94-noesis-and-noema-in-the-realm-of-judgment",
+      "primary_locator": "Ideas I § 94",
+      "term": "judgment-noema / Sinn im Wie",
+      "status": "introduced",
+      "claim": "The judgment-noema is the \"judged as such,\" and the full noema is fixed by the formula \"the sense in the how of its givenness-mode.\"",
+      "quote": "Husserl's precise formula: the noema is \"the sense in the how of its givenness-mode\" (der Sinn im Wie seiner Gegebenheitsweise)."
+    },
+    {
+      "id": "intentionalitaet/hua3-p34/016",
+      "locator": "husserliana-3-ideas-i-parts-3-4-commentary#h3-s-94-noesis-and-noema-in-the-realm-of-judgment",
+      "primary_locator": "Logische Untersuchungen V § 21",
+      "term": "intentional essence / epistemic essence",
+      "status": "revised",
+      "claim": "The Logical Investigations' \"intentional essence\" and \"epistemic essence\" are self-corrected as read one-sidedly noetically; the pure-logical concept of the proposition is noematic, not noetic.",
+      "quote": "In the Logical Investigations, the \"intentional essence\" and \"epistemic essence\" of an act were read one-sidedly as noetic (act-essences). But the pure-logical concept of the proposition (the proposition that pure logic studies) is noematic, not noetic."
+    },
+    {
+      "id": "intentionalitaet/hua3-p34/017",
+      "locator": "husserliana-3-ideas-i-parts-3-4-commentary#h3-s-97-the-hyletic-and-noetic-moments-as-reell-the-noematic-as-non-reell-experienc",
+      "primary_locator": "Ideas I § 97",
+      "term": "noema (non-reell)",
+      "status": "introduced",
+      "claim": "The noema belongs to the essence of the perception yet is not a reell component of it, any more than the real tree is.",
+      "quote": "So the noema is neither the real tree (bracketed) nor a real part of the experience; it is the intentional correlate, belonging to the experience but not reell in it."
+    },
+    {
+      "id": "intentionalitaet/hua3-p34/018",
+      "locator": "husserliana-3-ideas-i-parts-3-4-commentary#h3-s-98-mode-of-being-of-the-noema-form-doctrine-of-the-noeses-form-doctrine-of-the",
+      "primary_locator": "Ideas I § 98",
+      "term": "mode of being of the noema",
+      "status": "introduced",
+      "claim": "The noema is non-self-sufficient and its esse consists in its percipi, but not in the Berkeleyan sense, since the percipi does not contain the esse as a reell component.",
+      "quote": "So its esse (being) is its percipi (being-perceived, being-conscious): the noema is only as the perceived-as-such of a perceiving. But this is not Berkeley's esse est percipi."
+    },
+    {
+      "id": "intentionalitaet/hua3-p34/019",
+      "locator": "husserliana-3-ideas-i-parts-3-4-commentary#h3-s-98-mode-of-being-of-the-noema-form-doctrine-of-the-noeses-form-doctrine-of-the",
+      "primary_locator": "Ideas I § 98",
+      "term": "the two parallelisms",
+      "status": "introduced",
+      "claim": "The constitution-parallelism of object and constituting acts must not be confused with the noesis-noema parallelism proper, between noetic and corresponding noematic characters.",
+      "quote": "The second is the noesis-noema parallelism proper: noetic characters versus corresponding noematic characters (the act-features and the object-as-given features that mirror each other)."
+    },
+    {
+      "id": "intentionalitaet/hua3-p34/020",
+      "locator": "husserliana-3-ideas-i-parts-3-4-commentary#h3-s-99-the-noematic-core-and-its-characters-in-the-sphere-of-presentations-and-re",
+      "primary_locator": "Ideas I § 99",
+      "term": "noematic character / givenness-mode",
+      "status": "introduced",
+      "claim": "The givenness-modes (originary, memory-wise, image-wise) are noematic characters at the core, found by looking at the noematic correlate, and are ideell not reell.",
+      "quote": "So the givenness-mode is a noematic character, a mode of self-giving of the object, irreal like the noema itself."
+    },
+    {
+      "id": "intentionalitaet/hua3-p34/021",
+      "locator": "husserliana-3-ideas-i-parts-3-4-commentary#h3-s-128-introduction",
+      "primary_locator": "Ideas I § 128",
+      "term": "noetic / noematic",
+      "status": "presupposed",
+      "claim": "The reell/intentional, noetic/noematic separation is taken as the fundamental structure of all intentionality and the leitmotif of phenomenological method.",
+      "quote": "The reell/intentional, noetic/noematic separation is the fundamental structure of all intentionality, the leitmotif of phenomenological method."
+    },
+    {
+      "id": "intentionalitaet/hua3-p34/022",
+      "locator": "husserliana-3-ideas-i-parts-3-4-commentary#h3-s-129-content-and-object-the-content-as-sense",
+      "primary_locator": "Ideas I § 129",
+      "term": "content / sense",
+      "status": "introduced",
+      "claim": "Every noema has a content, namely its sense, and relates through it to its object; the sense is the medium of the objective relation.",
+      "quote": "The guiding proposition: every noema has a content (sense) and relates through it to its object. So the sense is the medium of the objective relation: consciousness relates to its object through the noematic sense."
+    },
+    {
+      "id": "intentionalitaet/hua3-p34/023",
+      "locator": "husserliana-3-ideas-i-parts-3-4-commentary#h3-s-131-the-object-the-determinable-x-in-the-noematic-sense",
+      "primary_locator": "Ideas I § 131",
+      "term": "the determinable X",
+      "status": "introduced",
+      "claim": "The predicates of the noematic sense are predicates of a pure object-point, the determinable X, the identical bearer abstracted from all predicates.",
+      "quote": "So the determinable X is the pure object-point, the identical bearer, abstracted from all its predicates. It is the \"determinable subject\" — determinable because it can take predicates, the subject because the predicates are predicated of it."
+    },
+    {
+      "id": "intentionalitaet/hua3-p34/024",
+      "locator": "husserliana-3-ideas-i-parts-3-4-commentary#h3-s-135-object-and-consciousness-transition-to-the-phenomenology-of-reason",
+      "primary_locator": "Ideas I § 135",
+      "term": "constitution (wider / narrower)",
+      "status": "introduced",
+      "claim": "\"Constitution\" is distinguished into a wider sense (the mere consciousness of an identical X, whether actual or not) and a narrower sense (the constitution of an actual object).",
+      "quote": "So \"constitution\" can mean the constitution of the object-as-meant (wider) or of the actual object (narrower). The reason-question is how the meant identity becomes actual identity."
+    },
+    {
+      "id": "intentionalitaet/hua3-p34/025",
+      "locator": "husserliana-3-ideas-i-parts-3-4-commentary#h3-s-76-the-theme-of-the-following-investigations",
+      "primary_locator": "Ideas I § 76",
+      "term": "the given as such / correlate",
+      "status": "introduced",
+      "claim": "Bracketed transcendencies re-enter phenomenology as themes studied in two interwoven respects, on the side of the consciousness of them and on the side of the given as such, anticipating the noesis/noema two-sidedness.",
+      "quote": "This anticipates the noesis/noema two-sidedness (the act-side and the object-side) that organizes the following analyses."
+    }
+  ],
+  "absences": [
+    {
+      "locator": "husserliana-3-ideas-i-parts-3-4-commentary#h3-s-82-continuation-the-threefold-experience-horizon-at-the-same-time-as-the-horiz",
+      "expected_because": "This section develops the Second Chapter's announced program of laying out the general structures of pure consciousness, working out the threefold time-horizon and the correlation of one ego and one stream, but keeps entirely to the time-form and does not yet thematize intentionality.",
+      "absent_terms": ["intentionality", "intentional", "noesis", "noema", "noetic", "noematic", "directedness", "aboutness", "intending"]
+    },
+    {
+      "locator": "husserliana-3-ideas-i-parts-3-4-commentary#h3-s-83-grasping-the-unitary-experience-stream-as-an-idea",
+      "expected_because": "This section treats givenness-modes, the attentional horizon of viewed and unviewed experiences, and the non-self-sufficiency of every concrete experience — all of which become noetic-noematic themes from S 84 on — yet analyzes them purely as stream-structure, with intentionality deferred to the next section.",
+      "absent_terms": ["intentionality", "intentional", "noesis", "noema", "noetic", "noematic", "directedness", "aboutness", "intending"]
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "schema_version": 1,
+  "commentary": "husserliana-43-2-studien-zur-struktur-des-bewusstseins-commentary",
+  "source_sha256": "ab2091d0d2406e6ba2b503d9afa17940d2d708456d427e95c9ae4f669de6778c",
+  "extracted_at": "2026-09-09",
+  "extractor": {
+    "agent": "claude-code",
+    "prompt": "prompts/inheritance-prompt.md",
+    "note": "source_sha256 is the LF digest (CRLF checkout; local validate reports a false staleness, CI on LF passes). This is a manuscript volume on the fine structure of feeling-consciousness and is largely non-historical; the explicit predecessor engagement is with Brentano (preferring as a Gemuetsakt, §5), Kant (synthesis of the imagination vs. analytic unity, Part III §1), and the old (Aristotelian) faculty-division nous/orexis (§7). The whole Gemuetsakt / value-apperception framework is Brentanian in inspiration but not everywhere marked as such. One record per commentary covering all predecessors."
+  },
+  "coverage": "partial",
+  "coverage_note": "Covers the sparse explicit predecessor engagement of Studien zur Struktur des Bewusstseins II (Gefuehl und Wert): Brentano (the act of preferring classed as a Gemuetsakt founded in the simple pleasing-acts, whose belonging to the feeling-sphere Husserl probes against the formal parallel with the comparison of probabilities), Kant (the synthesis of the imagination as the lower, properly creative appearance-constituting functions, over against the higher analytic unity that merely unfolds what they created), and Aristotle (the old fourfold faculty-division, which Husserl considers replacing with a twofold division of intellect and Gemuet mapping onto nous and orexis). Not covered: the detailed analyses of value-perception, sensible feeling, and the analogy of thought-acts and axiological acts, which proceed without predecessor engagement.",
+  "engagements": [
+    {
+      "id": "inh/hua43-2/001",
+      "locator": "husserliana-43-2-studien-zur-struktur-des-bewusstseins-commentary#h3-s-5-valuing-as-an-act-founded-in-perceiving-fulfillment-of-the-value-meaning-imm",
+      "primary_locator": "Studien zur Struktur des Bewusstseins II, §5",
+      "predecessor": { "author": "Franz Brentano" },
+      "mode": "acknowledged-debt",
+      "claim": "Husserl takes over from Brentano the classification of the act of preferring as a Gemuetsakt, a unifying meaning founded in the simple pleasing-acts, while asking whether its belonging to the feeling-sphere means more than the formal parallel it shares with the comparison of probabilities.",
+      "quote": "According to Brentano the act of preferring is a *Gemütsakt*. Naturally the preferring belongs to the feeling-sphere insofar as it is a unifying meaning founded in the simple pleasing-acts, necessarily so, in the strict sense. But should that \"belonging-to-the-feeling-sphere\" mean more?"
+    },
+    {
+      "id": "inh/hua43-2/002",
+      "locator": "husserliana-43-2-studien-zur-struktur-des-bewusstseins-commentary#h3-s-1-affection-apprehension-turning-toward-and-creative-act-of-the-understanding",
+      "primary_locator": "Studien zur Struktur des Bewusstseins II, Part III, §1",
+      "predecessor": { "author": "Immanuel Kant", "text": "Kritik der reinen Vernunft" },
+      "mode": "acknowledged-debt",
+      "claim": "Husserl aligns his distinction between the lower, appearance-constituting functions and the higher, spontaneous understanding-functions with Kant's synthesis: Kant, where he speaks of the synthesis of the imagination, has perhaps just the lower functions in view and treats them as the properly creative, the higher analytic unity merely unfolding what they have created.",
+      "quote": "Kant, where he speaks of *synthesis*, has indeed perhaps just the *lower* functions in view (synthesis of the imagination); on the higher level he speaks of *analytic unity*. The latter presupposes the former."
+    },
+    {
+      "id": "inh/hua43-2/003",
+      "locator": "husserliana-43-2-studien-zur-struktur-des-bewusstseins-commentary#h3-s-7-the-relation-of-joy-wish-and-will-to-valuing-the-foundation-of-willing-in-wi",
+      "primary_locator": "Studien zur Struktur des Bewusstseins II, §7",
+      "predecessor": { "author": "Aristotle", "text": "De Anima" },
+      "mode": "terminological-borrowing",
+      "claim": "Husserl considers replacing the old fourfold faculty-division of consciousness's comportment toward the pregiven world with a twofold division of intellect and Gemuet, mapping onto the pairing nous and orexis.",
+      "quote": "There is a tendency, in place of this fourfold division, to perform a *twofold* division — to take presenting and thinking together as *intellect*, and to take taking-part as valuing, and desiring/willing as *Gemüt* (νοῦς, ὄρεξις)."
+    }
+  ]
+}

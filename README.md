@@ -10,6 +10,7 @@ stage that may write only from the ledgers. Quotes are re-checked against
 their sources in CI.
 
 - [docs/synthesis-design.md](docs/synthesis-design.md) — architecture and the decisions behind it
+- [docs/lexicon-design.md](docs/lexicon-design.md) — the term registry that feeds the retrieval layer
 - [docs/synthesis-operations.md](docs/synthesis-operations.md) — runbook, CI, troubleshooting
 - [synthesis/CLAUDE.md](synthesis/CLAUDE.md) — conventions for working in
   `synthesis/`

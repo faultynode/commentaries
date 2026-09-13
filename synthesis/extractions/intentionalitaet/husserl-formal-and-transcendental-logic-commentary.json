@@ -1,0 +1,233 @@
+{
+  "schema_version": 1,
+  "theme": "intentionalitaet",
+  "commentary": "husserl-formal-and-transcendental-logic-commentary",
+  "source_sha256": "04e5753e083caeb49e03ab9548070ef879b6571320ae58ffdca2c89992f8f95b",
+  "extracted_at": "2026-09-09",
+  "extractor": {
+    "agent": "claude-code",
+    "prompt": "prompts/extraction-prompt.md",
+    "note": "source_sha256 is the LF digest (CRLF checkout; local validate reports a false staleness, CI on LF passes). This commentary is a paragraph-by-paragraph analysis whose sections are mostly compact summary; closely read the Introduction (Besinnung and intentional explication as method, the anonymity of constituting intentionality, the constitutive insight), Preparatory Considerations § 8 (the two-sidedness of logic), Part I Chapter 4 § 42 (a/c/g: judging directed at the objectuality, categorial forms as positional correlates, constitutive idealism illustrated by nature), Part II Chapter 1 §§ 59-63 (evidence as self-giving, the fundamental lawfulness of intentionality, evidence in the function of all objects, the ideality/transcendence of intentional unities, producing activity as self-giving), § 70a (shifting of intentional aimings), Chapter 4 §§ 85-86 (sense-genesis and the intentionality of pre-predicative experience), and Appendix II § 2 (a/b/c: static and genetic intentional explication, original institution of apperception, retentional modification and sedimentation). Not read in detail: §§ 1-58, 64-84, 87-105, the Concluding Word, and Appendices I and III. chronology.json entry exists but status 'unresolved' (P5 pending; FTL was published 1929, but the commentary opening does not state a date)."
+  },
+  "coverage": "partial",
+  "coverage_note": "Covers the strands of FTL and its commentary where intentionality is directly thematic: Besinnung as the actual production of the meant sense and the whole work as an intentional explication of the sense of formal logic that goes back to the constituting intentionality of logicians and scientists; the diagnosis that the positive sciences fail to grasp their achievements as achievements of an intentionality unthematic for them; the two-sidedness of logic and the constitutive correlate of every objective-logical formation; the anonymity of functioning intentionality; the objectual direction of judging and categorial forms as intentional positional correlates; the constitutive-idealist thesis about nature; evidence as the distinguished mode of intentionality (self-giving) and as original institution of sense and being; the fundamental lawfulness of intentionality (the open manifold of consciousness-modes of the same, the teleology toward reason); the correlation of object-category and evidence-category; the object as identity-pole; the ideality/transcendence of all intentional unities; static vs. genetic intentional analysis, the Urstiftung of apperception for every object-category, and retentional sedimentation into the 'unconscious' as a limit-mode of consciousness. Not covered: the technical apophantic-analytics/formal-ontology material (§§ 12-54), the psychologism chapters in full, the idealizing presuppositions of logic, and the transcendental-phenomenological conclusion.",
+  "units": [
+    {
+      "id": "intentionalitaet/ftl/001",
+      "locator": "husserl-formal-and-transcendental-logic-commentary#h2-introduction",
+      "primary_locator": "FTL, Introduction",
+      "term": "Besinnung / sense-explication",
+      "status": "introduced",
+      "claim": "Reflection (Besinnung) is the attempt at the actual production of the sense 'itself' that in mere meaning is only meant or presupposed, carrying the vaguely hovering intending sense over into the fulfilled, clear sense and thereby providing it with the evidence of clear possibility.",
+      "quote": "Reflection (*Besinnung*) means nothing other than the attempt at the actual production of the sense \"itself\" that in mere meaning is meant, presupposed"
+    },
+    {
+      "id": "intentionalitaet/ftl/002",
+      "locator": "husserl-formal-and-transcendental-logic-commentary#h2-introduction",
+      "primary_locator": "FTL, Introduction",
+      "term": "intentional explication of the sense of logic",
+      "status": "introduced",
+      "claim": "The method of the work is an intentional explication of the genuine sense of formal logic that places the traditional theoretical formations back into the living intention of the logicians and, inseparably, goes back to the intentionality of the scientists from which the objective stocks of scientific theory sprang.",
+      "quote": "And inseparably from this, it goes back to the intentionality of the scientists, from which the objective stocks of concrete scientific theory sprang — since the logician orients himself by the given sciences."
+    },
+    {
+      "id": "intentionalitaet/ftl/003",
+      "locator": "husserl-formal-and-transcendental-logic-commentary#h2-introduction",
+      "primary_locator": "FTL, Introduction",
+      "term": "unthematic constituting intentionality",
+      "status": "introduced",
+      "claim": "The un-philosophical positivity of the sciences consists in nothing other than that, through a failure to understand their own achievements as achievements of an intentionality that remains unthematic for them, they are unable to clarify the genuine sense of being of their domains.",
+      "quote": "the sciences, through a failure to understand their own achievements as achievements of an intentionality that remains unthematic for them, are unable to clarify the genuine sense of being of their domains"
+    },
+    {
+      "id": "intentionalitaet/ftl/004",
+      "locator": "husserl-formal-and-transcendental-logic-commentary#h2-introduction",
+      "primary_locator": "FTL, Introduction",
+      "term": "the domain as consciousness-achievement",
+      "status": "introduced",
+      "claim": "What a science has before it as its domain is, according to sense and being, domain for the researchers from sources of their own consciousness-achievement, and the finished theory of that domain is a result from an act-achievement that produces its entire sense and truth-sense.",
+      "quote": "What science has before it as its domain, given to theoretical work, is according to sense and being domain for the researchers from sources of their own consciousness-achievement"
+    },
+    {
+      "id": "intentionalitaet/ftl/005",
+      "locator": "husserl-formal-and-transcendental-logic-commentary#h3-s8-the-two-sidedness-of-logic-the-subjective-and-the-objective-direction-of-its",
+      "primary_locator": "FTL, Preparatory Considerations § 8",
+      "term": "two-sidedness / constitutive correlate",
+      "status": "introduced",
+      "claim": "Every objective-logical formation has its subjective correlate in its constitutive intentionalities, and essentially to every form of the formations there corresponds a system of performing intentionality.",
+      "quote": "Every objective-logical formation has its \"subjective\" correlate in its constitutive intentionalities, and essentially to every form of the formations corresponds a system of performing intentionality."
+    },
+    {
+      "id": "intentionalitaet/ftl/006",
+      "locator": "husserl-formal-and-transcendental-logic-commentary#h3-s8-the-two-sidedness-of-logic-the-subjective-and-the-objective-direction-of-its",
+      "primary_locator": "FTL, Preparatory Considerations § 8",
+      "term": "anonymity of functioning intentionality",
+      "status": "introduced",
+      "claim": "While the constituting intentionality is in execution, running as life accomplishing objectification, it is 'unconscious' in the sense that it makes thematic but is not itself thematic, remaining hidden until uncovered by reflection.",
+      "quote": "While the corresponding intentionality is in execution, while it runs as life accomplishing objectification, it is \"unconscious\" — meaning it makes thematic but is not itself thematic."
+    },
+    {
+      "id": "intentionalitaet/ftl/007",
+      "locator": "husserl-formal-and-transcendental-logic-commentary#h5-a-judging-is-not-directed-at-the-judgment-but-at-the-thematic-objectuality",
+      "primary_locator": "FTL Part I § 42 (a)",
+      "term": "objectual direction of judging",
+      "status": "introduced",
+      "claim": "When we judge we are not directed at the judgment but at the objects-about-which, the predicates, the relations; the judgment being passed is something we have but not as an object, and without a change of orientation into a second-level judging we could get no concept of judgment at all.",
+      "quote": "Judging, we are not directed at the judgment but at the \"objects about which\" (substrate-objects), at the predicates, at the relations, etc."
+    },
+    {
+      "id": "intentionalitaet/ftl/008",
+      "locator": "husserl-formal-and-transcendental-logic-commentary#h5-c-the-typology-of-syntactic-object-forms-as-that-of-the-modes-of-the-something",
+      "primary_locator": "FTL Part I § 42 (c)",
+      "term": "categorial form as positional correlate",
+      "status": "introduced",
+      "claim": "Property as a form originally arises in simple categorical judging and collection in collecting, not as a real psychic datum but as an intentional positional correlate, one of the derivation-forms of the something-in-general that derive from it through the judging itself.",
+      "quote": "Property as a form originally arises in simple categorical judging, collection in collecting — not as a real psychic datum but as an intentional positional correlate."
+    },
+    {
+      "id": "intentionalitaet/ftl/009",
+      "locator": "husserl-formal-and-transcendental-logic-commentary#h5-g-objectuality-already-given-to-thinking-versus-categorial-thought-objectuality",
+      "primary_locator": "FTL Part I § 42 (g)",
+      "term": "constitutive idealism (nature)",
+      "status": "introduced",
+      "claim": "Although we say the unity of universal experience called nature is and has its properties 'before' our judging, only from our judging and for possible judgers does it a priori have the 'being' and the 'it is how it is'.",
+      "quote": "But only from our judging and for possible judgers does it a priori have the \"being\" and the \"it is how it is.\""
+    },
+    {
+      "id": "intentionalitaet/ftl/010",
+      "locator": "husserl-formal-and-transcendental-logic-commentary#h4-s59-generalities-on-evidence-as-self-giving",
+      "primary_locator": "FTL Part II § 59",
+      "term": "evidence as self-giving",
+      "status": "introduced",
+      "claim": "Evidence designates the intentional accomplishment of self-giving: it is the general distinguished form of intentionality, of consciousness of something, in which the objectual conscious in it is conscious in the mode of self-grasping and being-with-it-itself, with perception as its primordial mode.",
+      "quote": "Evidence designates the intentional accomplishment of self-giving. More precisely, it is the general distinguished form of \"intentionality,\" of \"consciousness of something,\" in which the objectual conscious in it is conscious in the mode of self-grasping"
+    },
+    {
+      "id": "intentionalitaet/ftl/011",
+      "locator": "husserl-formal-and-transcendental-logic-commentary#h4-s59-generalities-on-evidence-as-self-giving",
+      "primary_locator": "FTL Part II § 59",
+      "term": "evidence as original institution of sense and being",
+      "status": "introduced",
+      "claim": "The self-givings, the acts creating evident right, are creative original-institutions of right and of truth as correctness, because they are originally constituting, originally instituting sense and being for the respective objectualities.",
+      "quote": "The self-givings, the acts creating evident right, are creative original-institutions of right, of truth as correctness — because they are originally constituting, originally instituting sense and being for the respective objectualities."
+    },
+    {
+      "id": "intentionalitaet/ftl/012",
+      "locator": "husserl-formal-and-transcendental-logic-commentary#h4-s60-the-fundamental-lawfulness-of-intentionality-and-the-universal-function-of-e",
+      "primary_locator": "FTL Part II § 60",
+      "term": "the fundamental lawfulness of intentionality",
+      "status": "introduced",
+      "claim": "Every consciousness of something belongs a priori in an openly endless manifold of possible consciousness-modes synthetically joinable to one consciousness as consciousness of 'the same', a manifold that essentially includes the modes of evidence-consciousness, so that consciousness has a universal teleological structure oriented toward reason.",
+      "quote": "Every consciousness of something belongs a priori in an openly endless manifold of possible consciousness-modes synthetically joinable to one consciousness as consciousness of \"the same.\""
+    },
+    {
+      "id": "intentionalitaet/ftl/013",
+      "locator": "husserl-formal-and-transcendental-logic-commentary#h4-s60-the-fundamental-lawfulness-of-intentionality-and-the-universal-function-of-e",
+      "primary_locator": "FTL Part II § 60",
+      "term": "correlation of object-category and evidence-category",
+      "status": "introduced",
+      "claim": "Category of objectuality and category of evidence are correlates: to every fundamental kind of objectualities belongs a fundamental kind of experience, of evidence, and a corresponding evidence-style in the possible heightening of the perfection of self-having.",
+      "quote": "Category of objectuality and category of evidence are correlates. To every fundamental kind of objectualities belongs a fundamental kind of \"experience,\" of evidence, and a corresponding evidence-style in the possible heightening of the perfection of self-having."
+    },
+    {
+      "id": "intentionalitaet/ftl/014",
+      "locator": "husserl-formal-and-transcendental-logic-commentary#h4-s61-evidence-in-general-in-the-function-of-all-objects-real-or-irreal-as-synthet",
+      "primary_locator": "FTL Part II § 61",
+      "term": "object as identity-pole",
+      "status": "introduced",
+      "claim": "Phenomenological reflection must make understandable how the transcendent object consists within the sight-sphere of synthetic experience itself, as the identity-pole immanent to the individual experiences and yet transcendent in the identity surpassing them.",
+      "quote": "make understandable how the transcendent object consists within the sight-sphere of synthetic experience itself — as the identity-pole immanent to the individual experiences and yet transcendent in the identity surpassing them."
+    },
+    {
+      "id": "intentionalitaet/ftl/015",
+      "locator": "husserl-formal-and-transcendental-logic-commentary#h4-s61-evidence-in-general-in-the-function-of-all-objects-real-or-irreal-as-synthet",
+      "primary_locator": "FTL Part II § 61",
+      "term": "experience as original institution of being",
+      "status": "introduced",
+      "claim": "Experience is the original institution of the for-us-being of objects and of their objectual sense, and this holds equally for irreal objects, so that everywhere evident self-giving is to be characterized as a process of constitution, a self-forming of the experience-object.",
+      "quote": "Experience is the original institution of the for-us-being of objects and of their objectual sense. This holds equally for irreal objects."
+    },
+    {
+      "id": "intentionalitaet/ftl/016",
+      "locator": "husserl-formal-and-transcendental-logic-commentary#h4-s62-the-ideality-of-all-kinds-of-objectualities-vis-a-vis-constituting-conscious",
+      "primary_locator": "FTL Part II § 62",
+      "term": "ideality / transcendence of intentional unities",
+      "status": "introduced",
+      "claim": "In the sense of every experienceable object, even a physical one, lies a certain ideality over against the constituting psychic manifolds; this is the general ideality of all intentional unities over against the manifolds constituting them, and in it consists the transcendence of all kinds of objectualities over against the consciousness of them.",
+      "quote": "This is the general ideality of all intentional unities over against the manifolds constituting them. Therein consists the \"transcendence\" of all kinds of objectualities over against the consciousness of them."
+    },
+    {
+      "id": "intentionalitaet/ftl/017",
+      "locator": "husserl-formal-and-transcendental-logic-commentary#h4-s63-originally-producing-activity-as-the-self-giving-of-the-logical-formations-a",
+      "primary_locator": "FTL Part II § 63",
+      "term": "producing activity as self-giving of logical formations",
+      "status": "introduced",
+      "claim": "In judging, something irreal is intentionally constituted, and the originally acquiring activity that produces the logical formations is the 'evidence' for these idealities: this evidencing consciousness-activity is the original constitution, more precisely the original institution, of the ideal objectualities of the logical kind.",
+      "quote": "this originally acquiring activity is the \"evidence\" for these idealities. This evidencing consciousness-activity — here a spontaneous activity difficult to research — is the \"original constitution,\" more precisely the original institution of the ideal objectualities of the logical kind."
+    },
+    {
+      "id": "intentionalitaet/ftl/018",
+      "locator": "husserl-formal-and-transcendental-logic-commentary#h5-a-shifting-of-intentional-aimings-and-equivocation",
+      "primary_locator": "FTL Part II § 70 (a)",
+      "term": "shifting of intentional aimings",
+      "status": "introduced",
+      "claim": "The equivocations that beset the basic logical concepts are not coined verbal equivocations to be resolved by attending to word-meanings, but inner shiftings of intentionality and its accomplishment, demanded by essential connections and resolvable only through reflective interrogation of the intentional aimings.",
+      "quote": "What is at stake is not coined equivocations to be resolved by attending to words and word-meanings, but inner shiftings of intentionality and its accomplishment, connected and demanded by essential connections."
+    },
+    {
+      "id": "intentionalitaet/ftl/019",
+      "locator": "husserl-formal-and-transcendental-logic-commentary#h4-s85-the-genuine-tasks-of-the-so-called-judgment-theory-the-sense-genesis-of-judg",
+      "primary_locator": "FTL Part II § 85",
+      "term": "intentional analysis as uncovering of implications",
+      "status": "introduced",
+      "claim": "Every sense-formation can be questioned according to its essentially belonging sense-history, and this fundamental fact, in its universality encompassing the entire intentional life, determines the proper sense of intentional analysis as the uncovering of intentional implications.",
+      "quote": "This fundamental fact, in its universality encompassing the entire intentional life, determines the proper sense of intentional analysis as uncovering of intentional implications."
+    },
+    {
+      "id": "intentionalitaet/ftl/020",
+      "locator": "husserl-formal-and-transcendental-logic-commentary#h4-s86-the-evidence-of-pre-predicative-experience-as-the-first-in-itself-theme-of-t",
+      "primary_locator": "FTL Part II § 86",
+      "term": "the intentionality of experience",
+      "status": "introduced",
+      "claim": "At the transition from the experience-judgment (the judgment of origin) it is to be discovered that certainty and its modalities, intending intention and fulfillment, identical being and identical sense, evident self-having, and truth as sense-correctness are not exclusively peculiar to the predicative sphere but already belong to the intentionality of experience.",
+      "quote": "that certainty and certainty-modalities, intending intention and fulfillment, identical being and identical sense, evident self-having, being-truth, truth as sense-correctness — that all this is not exclusively peculiar to the predicative sphere but already belongs to the intentionality of experience."
+    },
+    {
+      "id": "intentionalitaet/ftl/021",
+      "locator": "husserl-formal-and-transcendental-logic-commentary#h4-a-original-consciousness-and-intentional-modification-static-intentional-explica",
+      "primary_locator": "FTL, Appendix II § 2 (a)",
+      "term": "intentional modification",
+      "status": "introduced",
+      "claim": "One and the same object can a priori be conscious in very different consciousness-modes among which the experiencing, original mode has a priority, and intentional modification has the peculiarity that it in itself points back to the non-modified.",
+      "quote": "Intentional modification has the peculiarity that it in itself points back to the non-modified."
+    },
+    {
+      "id": "intentionalitaet/ftl/022",
+      "locator": "husserl-formal-and-transcendental-logic-commentary#h4-a-original-consciousness-and-intentional-modification-static-intentional-explica",
+      "primary_locator": "FTL, Appendix II § 2 (a)",
+      "term": "double intentionality in categorial activity",
+      "status": "introduced",
+      "claim": "Where the original form is one producing in synthetic activity, a double intentionality and self-giving are intertwined: the activity producing the judgment itself merely as judgment, and the activity of original formation or making-evident of the categorial objectuality itself.",
+      "quote": "a double intentionality and self-giving are intertwined: the activity producing the judgment itself (merely as judgment) originally, and the activity of original formation (making-evident) of the categorial objectuality itself."
+    },
+    {
+      "id": "intentionalitaet/ftl/023",
+      "locator": "husserl-formal-and-transcendental-logic-commentary#h4-b-intentional-explication-of-genesis-genetic-as-well-as-static-originality-of-th",
+      "primary_locator": "FTL, Appendix II § 2 (b)",
+      "term": "Urstiftung of apperception",
+      "status": "introduced",
+      "claim": "For every fundamental kind of objectualities no non-original consciousness-mode is essentially possible unless the corresponding original consciousness-mode has previously occurred in the synthetic unity of immanent temporality as the genetically originally-instituting one, so that the type of the experience has been instituted in a prior original-instituting genesis.",
+      "quote": "no non-original consciousness-mode is essentially possible unless the corresponding original consciousness-mode has previously occurred in the synthetic unity of immanent temporality as the genetically \"originally instituting\" one."
+    },
+    {
+      "id": "intentionalitaet/ftl/024",
+      "locator": "husserl-formal-and-transcendental-logic-commentary#h4-c-the-time-form-of-intentional-genesis-and-its-constitution-retentional-modifica",
+      "primary_locator": "FTL, Appendix II § 2 (c)",
+      "term": "retentional sedimentation / the 'unconscious'",
+      "status": "introduced",
+      "claim": "The continuous retentional self-modification is accompanied by a graduality of prominence and has its limit where the previously prominent flows into the general background, the so-called 'unconscious', which is not a phenomenological nothing but itself a limit-mode of consciousness.",
+      "quote": "a graduality of prominence goes hand in hand with the modification, and this has its limit where the previously prominent flows into the general background — the so-called \"unconscious,\" which is nothing less than a phenomenological nothing but itself a limit-mode of consciousness."
+    }
+  ],
+  "absences": []
+}

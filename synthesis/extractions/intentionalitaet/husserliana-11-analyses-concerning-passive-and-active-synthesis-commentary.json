@@ -1,0 +1,224 @@
+{
+  "schema_version": 1,
+  "theme": "intentionalitaet",
+  "commentary": "husserliana-11-analyses-concerning-passive-and-active-synthesis-commentary",
+  "source_sha256": "bd22bb3a9bd7ac059dd0537fbae0892179ea2f75e9464040ab2e95600cf82570",
+  "extracted_at": "2026-09-08",
+  "extractor": {
+    "agent": "claude-code",
+    "prompt": "prompts/extraction-prompt.md",
+    "note": "source_sha256 is the LF digest (CRLF checkout; local validate reports a false staleness, CI on LF passes). Closely read Part 1 SS 4-10 (the sense-constituting lived-experience, foreground/background, perception and perceptual sense) and Part 2 SS 1-7 (self-giving in perception, the halo of emptiness, esse/percipi, negation) plus SS 14-22 (passive vs active modalization, empty presentation and passive intention, intention toward self-giving). Not read: Part 2 SS 8-13 (doubt, possibility) and SS 23-47, Part 3 (active synthesis), the Supplementary Texts, and most of the Translator's Introduction. Per the chronology note for this file, passages are not assigned a delivery stratum unless the commentary names one, so no stratum fields are set."
+  },
+  "coverage": "partial",
+  "coverage_note": "Covers Part 1 SS 4-10 and Part 2 SS 1-7 and SS 14-22 of the lecture course: the threefold intending/meaning/intended distinction, the ego as radiating pole, latent vs. patent intentionality, the objective sense as identical pole of a coinciding synthesis, the halo of emptiness and referential implications, esse/percipi and apperception, negation as an impressional overpowering, passive vs. active modalization, passive intention and associative synthesis, and intention toward self-giving. Not covered: Part 2 SS 8-13 (doubt, possibility), the rest of Division 2 (evidence), Part 3 (active synthesis, SS 48-54), the Supplementary Texts, and the Translator's Introduction.",
+  "units": [
+    {
+      "id": "intentionalitaet/hua11/001",
+      "locator": "husserliana-11-analyses-concerning-passive-and-active-synthesis-commentary#h3-5-sense-constituting-lived-experiences-as-egoic-acts",
+      "primary_locator": "Hua XI, Preliminary Considerations § 5",
+      "term": "the ego as pole",
+      "status": "revised",
+      "claim": "The ego manifests in each wakeful lived-experience as pole, ego-center and radiating point, and is not a box containing egoless lived-experiences, a slate on which they appear, or a bundle or flow of consciousness.",
+      "quote": "The ego is not a box containing egoless lived-experiences, not a slate upon which they appear and disappear, not a bundle or flow of consciousness."
+    },
+    {
+      "id": "intentionalitaet/hua11/002",
+      "locator": "husserliana-11-analyses-concerning-passive-and-active-synthesis-commentary#h3-5-sense-constituting-lived-experiences-as-egoic-acts",
+      "primary_locator": "Hua XI, Preliminary Considerations § 5",
+      "term": "background lived-experiences",
+      "status": "introduced",
+      "claim": "The wakeful ego has a constant broad horizon of background lived-experiences, which are not a dead zone but a field of potential allures, sensations, affects and drives that knock at the door of the ego without necessarily being admitted.",
+      "quote": "the background is not a dead zone but a field of potential allures—sensations, affects, drives—that \"knock at the door of the ego\" without necessarily being admitted."
+    },
+    {
+      "id": "intentionalitaet/hua11/003",
+      "locator": "husserliana-11-analyses-concerning-passive-and-active-synthesis-commentary#h3-6-foreground-lived-experiences-and-background-lived-experiences",
+      "primary_locator": "Hua XI, Preliminary Considerations § 6",
+      "term": "intentional lived-experience (broad concept)",
+      "status": "revised",
+      "claim": "Every act in the specific sense is a consciousness of something, but even background lived-experiences are intentional, and the egoic act in the specific sense is a special form of carrying out intentional lived-experiences.",
+      "quote": "The egoic act in the specific sense is a special form of carrying out intentional lived-experiences."
+    },
+    {
+      "id": "intentionalitaet/hua11/004",
+      "locator": "husserliana-11-analyses-concerning-passive-and-active-synthesis-commentary#h3-6-foreground-lived-experiences-and-background-lived-experiences",
+      "primary_locator": "Hua XI, Preliminary Considerations § 6",
+      "term": "latent / patent intentionality",
+      "status": "introduced",
+      "claim": "A background act's intentionality is a hidden intentionality until the ego intervenes and actualizes it, and it belongs to the essence of a lived-experience that it is a consciousness of the same thing in the transition from one mode of execution to another.",
+      "quote": "its intentionality is a hidden intentionality, until we intervene and actualize it."
+    },
+    {
+      "id": "intentionalitaet/hua11/005",
+      "locator": "husserliana-11-analyses-concerning-passive-and-active-synthesis-commentary#h3-9-the-regression-from-theoretical-logos-to-the-pre-theoretical-sense-giving-life",
+      "primary_locator": "Hua XI, Preliminary Considerations § 9",
+      "term": "intentionality as fundamental essence of consciousness",
+      "status": "presupposed",
+      "claim": "Phenomenology's regression to sense-giving consciousness lets us see in a presuppositionless manner the feature of intentionality as the fundamental essence of consciousness and the hidden implication of one consciousness in another.",
+      "quote": "It has allowed us to see in a presuppositionless manner the feature of intentionality as the fundamental essence of consciousness, and to develop the hidden implication of one consciousness in another, making intelligible how objectivity as true being is shaped as an accomplishment in the subjectivity of conscious life."
+    },
+    {
+      "id": "intentionalitaet/hua11/006",
+      "locator": "husserliana-11-analyses-concerning-passive-and-active-synthesis-commentary#h3-9-the-regression-from-theoretical-logos-to-the-pre-theoretical-sense-giving-life",
+      "primary_locator": "Hua XI, Preliminary Considerations § 9",
+      "term": "sense liberated from expression",
+      "status": "introduced",
+      "claim": "The concept of sense must be liberated from its relation to expressions: every intentional lived-experience possesses its intentional sense, which becomes a specifically meant sense only when the ego carries out acts thematically.",
+      "quote": "We must liberate the concept of sense from its relation to expressions. Every intentional lived-experience possesses its intentional sense; this becomes a specifically meant sense when the ego carries out acts thematically."
+    },
+    {
+      "id": "intentionalitaet/hua11/007",
+      "locator": "husserliana-11-analyses-concerning-passive-and-active-synthesis-commentary#h3-10-perception-and-perceptual-sense",
+      "primary_locator": "Hua XI, Preliminary Considerations § 10",
+      "term": "objective sense (Sinn)",
+      "status": "introduced",
+      "claim": "The objective sense is the identical pole of a manifold of varying appearances constituted through a synthesis of coinciding, and perception is an intentional lived-experience having immanently within itself an intentional object as an inseparable sense.",
+      "quote": "Perception is an intentional lived-experience having immanently, within itself, an intentional object as an inseparable sense."
+    },
+    {
+      "id": "intentionalitaet/hua11/008",
+      "locator": "husserliana-11-analyses-concerning-passive-and-active-synthesis-commentary#h3-10-perception-and-perceptual-sense",
+      "primary_locator": "Hua XI, Preliminary Considerations § 10",
+      "term": "ambiguity of Sinn (Materie / quality)",
+      "status": "criticized",
+      "claim": "Husserl adds a self-critical note that his introduction of \"sense\" is unclear: a schism arises between the intentional content or \"material\" (Materie) and the \"quality,\" the intentional object as merely presented versus modally qualified.",
+      "quote": "a schism arises between the intentional content and the intentional modal-character, which looks like a distinction between two components: the intentional content or \"material\" (*Materie*) and the \"quality\"—the intentional object as what is merely presented (*das bloß Vorgestellte*) and what is modally qualified."
+    },
+    {
+      "id": "intentionalitaet/hua11/009",
+      "locator": "husserliana-11-analyses-concerning-passive-and-active-synthesis-commentary#h3-s1-original-consciousness-and-the-perspectival-adumbration-of-spatial-objects",
+      "primary_locator": "Hua XI, Part 2 § 1",
+      "term": "essential contradiction of external perception",
+      "status": "introduced",
+      "claim": "External perception is a constant pretension to accomplish something that by its very nature it is not in a position to accomplish, so that it harbors an essential contradiction.",
+      "quote": "external perception is a constant pretension to accomplish something that, by its very nature, it is not in a position to accomplish. It thus harbors an \"essential contradiction,\" as it were."
+    },
+    {
+      "id": "intentionalitaet/hua11/010",
+      "locator": "husserliana-11-analyses-concerning-passive-and-active-synthesis-commentary#h3-s1-original-consciousness-and-the-perspectival-adumbration-of-spatial-objects",
+      "primary_locator": "Hua XI, Part 2 § 1",
+      "term": "system of referential implications / halo of emptiness",
+      "status": "introduced",
+      "claim": "The perceived is at every moment a system of referential implications with an appearance-core, and everything genuinely appearing is so only by being intertwined with an intentional empty horizon, a halo of emptiness that is a determinable indeterminacy.",
+      "quote": "Everything genuinely appearing is so only by virtue of being intertwined with an intentional empty horizon—a \"halo of emptiness\" that is not a nothingness but an emptiness to be filled out, a determinable indeterminacy."
+    },
+    {
+      "id": "intentionalitaet/hua11/011",
+      "locator": "husserliana-11-analyses-concerning-passive-and-active-synthesis-commentary#h3-s1-original-consciousness-and-the-perspectival-adumbration-of-spatial-objects",
+      "primary_locator": "Hua XI, Part 2 § 1",
+      "term": "inner / outer horizon",
+      "status": "introduced",
+      "claim": "Husserl distinguishes the inner horizon from the outer horizon, and aspects are nothing in themselves, being appearances-of only through the intentional horizons inseparable from them.",
+      "quote": "Aspects are nothing in themselves; they are appearances-of only through the intentional horizons inseparable from them."
+    },
+    {
+      "id": "intentionalitaet/hua11/012",
+      "locator": "husserliana-11-analyses-concerning-passive-and-active-synthesis-commentary#h3-s3-the-possibility-of-our-acquired-knowledge-being-freely-at-our-disposal",
+      "primary_locator": "Hua XI, Part 2 § 3",
+      "term": "apperceptive transfer / association of similarity",
+      "status": "introduced",
+      "claim": "When a second thing accords with an earlier familiar thing in the side genuinely seen, an inner coinciding awakened through the association of similarity gives the new thing the entire epistemic prefiguring of the earlier one, so that it is apperceived with the same non-visible qualities.",
+      "quote": "the new thing receives the entire epistemic prefiguring from the earlier one. It is *apperceived* with the same non-visible qualities as the previous one."
+    },
+    {
+      "id": "intentionalitaet/hua11/013",
+      "locator": "husserliana-11-analyses-concerning-passive-and-active-synthesis-commentary#h3-s3-the-possibility-of-our-acquired-knowledge-being-freely-at-our-disposal",
+      "primary_locator": "Hua XI, Part 2 § 3",
+      "term": "constitutive duet (kinaestheses / appearances)",
+      "status": "introduced",
+      "claim": "In every perceptual process there is a constitutive duet of kinaestheses as independent and appearances as dependent variables: appearances form dependent systems and only as dependent on kinaestheses can they pass into one another and constitute a unity of sense.",
+      "quote": "Appearances form dependent systems; only as dependent upon kinaestheses can they pass into one another and constitute a unity of sense."
+    },
+    {
+      "id": "intentionalitaet/hua11/014",
+      "locator": "husserliana-11-analyses-concerning-passive-and-active-synthesis-commentary#h3-s4-the-relation-of-esse-and-percipi-in-immanent-and-transcendent-perception",
+      "primary_locator": "Hua XI, Part 2 § 4",
+      "term": "esse and percipi",
+      "status": "introduced",
+      "claim": "For the immanent object appearance and what appears cannot be separated, so that percipi and esse converge in every Now, whereas for transcendent objects esse is in principle distinguished from percipi and the thing is given only in and through an appearance.",
+      "quote": "For transcendent objects, *esse* is in principle distinguished from *percipi*."
+    },
+    {
+      "id": "intentionalitaet/hua11/015",
+      "locator": "husserliana-11-analyses-concerning-passive-and-active-synthesis-commentary#h3-s4-the-relation-of-esse-and-percipi-in-immanent-and-transcendent-perception",
+      "primary_locator": "Hua XI, Part 2 § 4",
+      "term": "apperception",
+      "status": "introduced",
+      "claim": "Consciousness's accomplishment of bestowing on mere immanent sensible data the function of exhibiting something objectively transcendent is apperception, and adumbrating and exhibiting in data of sensation is totally different from interpretation through signs.",
+      "quote": "Husserl characterizes consciousness's accomplishment of bestowing on mere immanent sensible data the function of exhibiting something objectively \"transcendent\" as *apperception*."
+    },
+    {
+      "id": "intentionalitaet/hua11/016",
+      "locator": "husserliana-11-analyses-concerning-passive-and-active-synthesis-commentary#h3-s4-the-relation-of-esse-and-percipi-in-immanent-and-transcendent-perception",
+      "primary_locator": "Hua XI, Part 2 § 4",
+      "term": "correlation of sense-giving and sense",
+      "status": "introduced",
+      "claim": "Every possible object of a possible consciousness is also an object for a possible originally giving consciousness, an object that in principle could not be an object of consciousness being pure non-sense, and both sense-giving and sense require one another essentially.",
+      "quote": "Every possible object of a possible consciousness is also an object for possible originally giving consciousness—\"perception.\""
+    },
+    {
+      "id": "intentionalitaet/hua11/017",
+      "locator": "husserliana-11-analyses-concerning-passive-and-active-synthesis-commentary#h3-s6-partial-fulfillment-conflict-through-unexpected-sense-data-restored-concordan",
+      "primary_locator": "Hua XI, Part 2 § 6",
+      "term": "negation as impressional overpowering",
+      "status": "introduced",
+      "claim": "Negation is not a logical operation applied externally but a lived-experiential event in which the primordial-impressional force of what is actually given in the flesh overpowers the merely empty anticipation.",
+      "quote": "the primordial-impressional force of what is actually given in the flesh overpowers the merely empty anticipation. Negation is not a logical operation applied externally but a lived-experiential event of overpowering."
+    },
+    {
+      "id": "intentionalitaet/hua11/018",
+      "locator": "husserliana-11-analyses-concerning-passive-and-active-synthesis-commentary#h3-s14-position-taking-of-the-ego-as-the-active-response-to-the-modal-modifications",
+      "primary_locator": "Hua XI, Part 2 § 14",
+      "term": "passive modalization / active position-taking",
+      "status": "introduced",
+      "claim": "Passive modalization occurs in the intentionality of perception itself prior to any egoic intervention, while active position-taking is the ego's Yes/No response to what has already occurred passively, so that all active judgment presupposes its passive motivational ground.",
+      "quote": "the difference between passive modalization (which occurs in the intentionality of perception itself, prior to any egoic intervention) and active position-taking (which is the ego's response to what has already occurred passively). All active judgment presupposes its passive motivational ground."
+    },
+    {
+      "id": "intentionalitaet/hua11/019",
+      "locator": "husserliana-11-analyses-concerning-passive-and-active-synthesis-commentary#h3-s18-description-of-the-possible-types-of-empty-presentation",
+      "primary_locator": "Hua XI, Part 2 § 18",
+      "term": "passive intention / associative synthesis",
+      "status": "introduced",
+      "claim": "Presentations that point beyond themselves to other presentations thereby gain the character of a specific \"intention\" (teleological directedness, meantness) produced in pure passivity, and the synthesis in which this passive intention arises is the associative synthesis, the universal shape of passive genesis.",
+      "quote": "The synthesis in which this intention arises is named associative synthesis—the most important and completely universal functioning shape of passive genesis."
+    },
+    {
+      "id": "intentionalitaet/hua11/020",
+      "locator": "husserliana-11-analyses-concerning-passive-and-active-synthesis-commentary#h3-s18-description-of-the-possible-types-of-empty-presentation",
+      "primary_locator": "Hua XI, Part 2 § 18",
+      "term": "retention without intention",
+      "status": "criticized",
+      "claim": "Not all presentations intend an object: original retentions arising in time-consciousness do not arise through associative awakening and have no directedness, so Brentano was phenomenologically incorrect to characterize the connection of retentions to impressions as \"original association.\"",
+      "quote": "Therefore Brentano was phenomenologically incorrect to characterize the connection of retentions to impressions as \"original association.\""
+    },
+    {
+      "id": "intentionalitaet/hua11/021",
+      "locator": "husserliana-11-analyses-concerning-passive-and-active-synthesis-commentary#h3-s20-intention-toward-fulfillment-is-the-intention-toward-self-giving",
+      "primary_locator": "Hua XI, Part 2 § 20",
+      "term": "intention toward self-giving",
+      "status": "introduced",
+      "claim": "Directedness is tendentious, a striving that drives at satisfaction, and this satisfaction is only possible in a special synthesis bringing the presented object to self-givenness.",
+      "quote": "directedness is tendentious, a striving—and as tendency, it is \"driving at\" satisfaction. This satisfaction is only possible in a special synthesis bringing the presented object to self-givenness."
+    },
+    {
+      "id": "intentionalitaet/hua11/022",
+      "locator": "husserliana-11-analyses-concerning-passive-and-active-synthesis-commentary#h3-s21-epistemic-striving-and-striving-after-the-effective-realization-of-the-prese",
+      "primary_locator": "Hua XI, Part 2 § 21",
+      "term": "epistemic striving",
+      "status": "introduced",
+      "claim": "The protentional intention already carries the anticipatory certainty of what is to come, so epistemic striving is directed not toward being, which is already certain, but toward the experiential seeing of the self of what is taken for being.",
+      "quote": "not toward being (which is already certain), but toward the experiential seeing of the self of what is taken for being."
+    },
+    {
+      "id": "intentionalitaet/hua11/023",
+      "locator": "husserliana-11-analyses-concerning-passive-and-active-synthesis-commentary#h3-s22-the-different-relationships-of-intention-and-the-intended-self-secondary-ver",
+      "primary_locator": "Hua XI, Part 2 § 22",
+      "term": "evidence as possessing the self",
+      "status": "introduced",
+      "claim": "Evidence is nothing other than consciousness of the adaequatio rei et intellectus carried out in the originality of possessing the self, and an object grasped in the flesh can only be there as existent when it is the identical to which the subject can return in iterable rememberings.",
+      "quote": "Evidence is nothing other than consciousness of the *adaequatio rei et intellectus* carried out in the originality of possessing the self."
+    }
+  ],
+  "absences": []
+}

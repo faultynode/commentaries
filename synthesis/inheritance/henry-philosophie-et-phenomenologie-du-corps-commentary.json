@@ -1,0 +1,78 @@
+{
+  "schema_version": 1,
+  "commentary": "henry-philosophie-et-phenomenologie-du-corps-commentary",
+  "source_sha256": "7873678cba294a842ebb78cf1590f2f4f3c732a826b6741035ba102fe8b1f802",
+  "extracted_at": "2026-09-09",
+  "extractor": {
+    "agent": "claude-code",
+    "prompt": "prompts/inheritance-prompt.md",
+    "note": "source_sha256 is the LF digest (CRLF checkout; local validate reports a false staleness, CI on LF passes). Henry's Philosophie et phenomenologie du corps is a study of Maine de Biran's ontology of the subjective body; predecessor engagement runs through the Introduction (Biran, Descartes, Husserl, Kierkegaard), Chapter I §2 (Kant and Hume on the deduction of the categories), and Chapter V (the critique of Cartesian dualism). One record per commentary covering all predecessors."
+  },
+  "coverage": "partial",
+  "coverage_note": "Covers Henry's engagement with predecessors in Philosophie et phenomenologie du corps: Maine de Biran (the first and only philosopher to see the necessity of determining our body originally as a subjective body, a founder of a phenomenological science of human reality), Descartes (the Cartesian essential analysis of body as extension, partes extra partes, which cannot coincide with the living body; and the permixtio of soul and body as a transcendent theory smuggled into the definition of the lived fact of union), Kant (Biran's deduction of the categories as a remarkable complement that keeps the Kantian word 'deduction' while emptying it of the Kantian procedure, since Kant's categories are merely posited by the philosopher and the 'I think' has no experiential status), Hume (empiricism's recourse to sentiment as a disguised appeal to a subjectivity it cannot theorize), Husserl (a founder of the phenomenological science of human reality, who likewise read the return to subjectivity as the hidden sense of Hume), and Kierkegaard (the Concept of Anxiety's fundamental paradox of the mind-body structure functioning as a ground). Not covered: the detailed analyses of movement, sensing, and the constitution of the objective body.",
+  "engagements": [
+    {
+      "id": "inh/henry-ppc/001",
+      "locator": "henry-philosophie-et-phenomenologie-du-corps-commentary#h2-introduction-the-apparent-contingency-of-the-question-concerning-the-body-and-th",
+      "primary_locator": "Philosophie et phenomenologie du corps, Introduction",
+      "predecessor": { "author": "Maine de Biran", "text": "Essai sur les fondements de la psychologie" },
+      "mode": "acknowledged-debt",
+      "claim": "Henry credits Maine de Biran as the first and in truth the only philosopher who saw the necessity of determining our body originally as a subjective body, one who deserves to stand alongside Descartes and Husserl as a founder of a phenomenological science of human reality.",
+      "quote": "The first and in truth the only philosopher in the long history of human reflection who saw the necessity of determining our body originally as a subjective body is Maine de Biran — \"this prince of thought,\" who deserves to be regarded alongside Descartes and Husserl as one of the true founders of a phenomenological science of human reality."
+    },
+    {
+      "id": "inh/henry-ppc/002",
+      "locator": "henry-philosophie-et-phenomenologie-du-corps-commentary#h2-introduction-the-apparent-contingency-of-the-question-concerning-the-body-and-th",
+      "primary_locator": "Philosophie et phenomenologie du corps, Introduction",
+      "predecessor": { "author": "René Descartes" },
+      "mode": "polemical-rejection",
+      "claim": "Against the famous philosophy that identified body with extension, a reality of parts outside parts, Henry holds that our body is a living body belonging to a region whose phenomenological characters mark it as an autonomous essence not to be confused with Cartesian extension.",
+      "quote": "our body is a living body, and as such belongs to a region whose phenomenological characters mark it as an autonomous essence, not to be confused with Cartesian extension"
+    },
+    {
+      "id": "inh/henry-ppc/003",
+      "locator": "henry-philosophie-et-phenomenologie-du-corps-commentary#h2-chapter-v-cartesian-dualism",
+      "primary_locator": "Philosophie et phenomenologie du corps, Chapter V",
+      "predecessor": { "author": "René Descartes", "text": "Meditationes / Conversation with Burman" },
+      "mode": "destructive-appropriation",
+      "claim": "Henry grants that Cartesianism elaborated the essences of thought and extension within a phenomenological ontology, but charges that into the very definition of the lived fact of union the theory of a mixture of extended and thinking substance is already surreptitiously introduced, so that acknowledging the fact looks like conceding the implausible theory.",
+      "quote": "into the definition of this fact as *primitive nature of the union of soul and body* the theory already enters — the affirmation of the mixture of extended and thinking substance"
+    },
+    {
+      "id": "inh/henry-ppc/004",
+      "locator": "henry-philosophie-et-phenomenologie-du-corps-commentary#h3-s-2-the-transcendental-deduction-of-the-categories",
+      "primary_locator": "Philosophie et phenomenologie du corps, Chapter I, §2",
+      "predecessor": { "author": "Immanuel Kant", "text": "Kritik der reinen Vernunft" },
+      "mode": "destructive-appropriation",
+      "claim": "Henry presents Biran's deduction of the categories as a remarkable complement to Kant's theory that keeps the word 'deduction' for its Kantian resonance while emptying it of the Kantian procedure, because Kant's categories are conditions the philosopher posits, not something the subject possesses, and the Kantian 'I think' has no experiential status.",
+      "quote": "Kant's categories are conditions the philosopher posits, not something the subject possesses; the Kantian \"I think\" that must accompany all representations has no experiential status of its own."
+    },
+    {
+      "id": "inh/henry-ppc/005",
+      "locator": "henry-philosophie-et-phenomenologie-du-corps-commentary#h3-s-2-the-transcendental-deduction-of-the-categories",
+      "primary_locator": "Philosophie et phenomenologie du corps, Chapter I, §2",
+      "predecessor": { "author": "David Hume" },
+      "mode": "polemical-rejection",
+      "claim": "Henry argues that Hume's recourse to sentiment to explain the abstraction of ideas from sensations is a disguised appeal to a subjectivity of which empiricism, an ontological monism that knows only one kind of experience and evidence, can give no theory.",
+      "quote": "Hume's recourse to sentiment is a disguised appeal to subjectivity, of which empiricism can give no theory, since it is an ontological monism claiming to know only one kind of experience and one kind of evidence."
+    },
+    {
+      "id": "inh/henry-ppc/006",
+      "locator": "henry-philosophie-et-phenomenologie-du-corps-commentary#h3-s-2-the-transcendental-deduction-of-the-categories",
+      "primary_locator": "Philosophie et phenomenologie du corps, Chapter I, §2",
+      "predecessor": { "author": "Edmund Husserl" },
+      "mode": "acknowledged-debt",
+      "claim": "Henry notes that Husserl too read the demand for a radical return to subjectivity as the hidden sense of Hume's philosophy.",
+      "quote": "Henry notes that Husserl too read the demand for a radical return to subjectivity as the hidden sense of Hume's philosophy."
+    },
+    {
+      "id": "inh/henry-ppc/007",
+      "locator": "henry-philosophie-et-phenomenologie-du-corps-commentary#h2-introduction-the-apparent-contingency-of-the-question-concerning-the-body-and-th",
+      "primary_locator": "Philosophie et phenomenologie du corps, Introduction",
+      "predecessor": { "author": "Søren Kierkegaard", "text": "The Concept of Anxiety" },
+      "mode": "acknowledged-debt",
+      "claim": "Henry follows Kierkegaard's Concept of Anxiety in calling the mind-body structure a fundamental paradox, fundamental because it actually functions as a ground.",
+      "quote": "Henry follows Kierkegaard's *Concept of Anxiety* in calling it a fundamental paradox — fundamental because it actually functions as a ground."
+    }
+  ]
+}

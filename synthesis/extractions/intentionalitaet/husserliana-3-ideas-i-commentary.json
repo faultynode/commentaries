@@ -1,0 +1,170 @@
+{
+  "schema_version": 1,
+  "theme": "intentionalitaet",
+  "commentary": "husserliana-3-ideas-i-commentary",
+  "source_sha256": "87eabf5946b56577dd1e29d808c5bcae6aa90710640fa66a7f7655362c0ce63c",
+  "extracted_at": "2026-09-08",
+  "extractor": {
+    "agent": "claude-code",
+    "prompt": "prompts/extraction-prompt.md",
+    "note": "source_sha256 is the LF digest (CRLF checkout; local validate reports a false staleness, CI on LF passes). This is a compact section-by-section commentary on Ideas I SS 111-153; each section is a short paragraph. Closely read SS 114-135 (the neutrality/positionality doctrine, founded noeses and value-noemata, the archontic thesis, syntheses and nominalization, the Logos layer, the noematic sense and the determinable X, the noematic proposition, the transition to the phenomenology of reason) and SS 148-153 (formal ontology, the problem of phenomenological constitution, the regional guiding thread, transfer to other regions). Not read: SS 111-113, 126-127, 136-147 (the phenomenology of reason and evidence chapter). Chronology entry exists but is unresolved (the commentary's opening names the volume and SS 111-153 but no date)."
+  },
+  "coverage": "partial",
+  "coverage_note": "Covers Ideas I SS 114-135 and 148-153 as summarised by this commentary: neutrality vs. positionality as a universal consciousness-difference, the extended concept of act and act-stirrings, founded noeses and the new dimension of value-sense, the archontic thesis and the objectivating character of all acts, polythetic/monothetic conversion and nominalization, the expressive Logos layer (Sinn/Bedeutung), the noematic content/sense and the determinable X, the noematic proposition, object-consciousness correlation and the turn to reason, and the problem of phenomenological constitution across regions. Not covered: SS 111-113, 126-127, and the phenomenology-of-reason chapter (SS 136-147).",
+  "units": [
+    {
+      "id": "intentionalitaet/hua3-i/001",
+      "locator": "husserliana-3-ideas-i-commentary#h2-s-114-more-on-potentiality-of-the-thesis-and-neutrality-modification",
+      "primary_locator": "Ideas I § 114",
+      "term": "positionality / neutrality",
+      "status": "introduced",
+      "claim": "Consciousness in general is pervaded by the radical division of positionality and neutrality, where positionality means not the presence of an actual position but a certain potentiality for the performance of actually positing doxic acts, and the difference is a universal consciousness-difference.",
+      "quote": "Positionality does not mean the presence or performance of an actual position; it expresses only a certain potentiality for the performance of actually positing doxic acts."
+    },
+    {
+      "id": "intentionalitaet/hua3-i/002",
+      "locator": "husserliana-3-ideas-i-commentary#h2-s-115-applications-the-extended-concept-of-act-act-accomplishments-and-act-stirr",
+      "primary_locator": "Ideas I § 115",
+      "term": "act-stirrings (Aktregungen) / explicit intentionality",
+      "status": "introduced",
+      "claim": "The cogito is the explicit intentionality, and the concept of intentional experience presupposes the opposition of potentiality and actuality, so that act-stirrings are experienced with all their intentionalities although the ego does not live in them as an accomplishing subject.",
+      "quote": "Such act-stirrings are experienced with all their intentionalities, but the ego does not live in them as an \"accomplishing subject.\""
+    },
+    {
+      "id": "intentionalitaet/hua3-i/003",
+      "locator": "husserliana-3-ideas-i-commentary#h2-s-116-transition-to-new-analyses-the-founded-noeses-and-their-noematic-correlate",
+      "primary_locator": "Ideas I § 116",
+      "term": "founded noeses / new dimension of sense",
+      "status": "introduced",
+      "claim": "The founded feeling, desiring and willing noeses bring new noematic moments in which a totally new dimension of sense is constituted: not new pieces of mere things but values of things, worthinesses and concrete value-objectivities.",
+      "quote": "The new sense introduces a totally **new dimension of sense**: through it, not new determinative pieces of mere \"things\" are constituted but **values of things**, worthinesses, and concrete value-objectivities"
+    },
+    {
+      "id": "intentionalitaet/hua3-i/004",
+      "locator": "husserliana-3-ideas-i-commentary#h2-s-117-the-founded-theses-and-the-conclusion-of-the-doctrine-of-the-neutralizatio",
+      "primary_locator": "Ideas I § 117",
+      "term": "archontic thesis",
+      "status": "introduced",
+      "claim": "Every intentional experience has at least one and normally several positing characters or theses connected in the manner of founding, and in this plurality one is necessarily the archontic thesis uniting and governing all others.",
+      "quote": "In this plurality, one is necessarily the **archontic** thesis, uniting and governing all others."
+    },
+    {
+      "id": "intentionalitaet/hua3-i/005",
+      "locator": "husserliana-3-ideas-i-commentary#h2-s-117-the-founded-theses-and-the-conclusion-of-the-doctrine-of-the-neutralizatio",
+      "primary_locator": "Ideas I § 117",
+      "term": "all acts as objectivating",
+      "status": "introduced",
+      "claim": "Because every thesis can be converted into an actual doxic positing, all acts whatsoever, including the acts of sentiment and will, are objectivating, originally constituting objects and necessary sources of different regions of being.",
+      "quote": "all acts whatsoever—including the acts of sentiment and will—are \"objectivating,\" originally \"constituting\" objects, necessary sources of different regions of being"
+    },
+    {
+      "id": "intentionalitaet/hua3-i/006",
+      "locator": "husserliana-3-ideas-i-commentary#h2-s-119-conversion-of-polythetic-acts-into-monothetic-ones",
+      "primary_locator": "Ideas I § 119",
+      "term": "polythetic / monothetic; nominalization",
+      "status": "introduced",
+      "claim": "Synthetic consciousness is multi-rayed and simply thetic consciousness single-rayed, and by a fundamental law every polythetic constitution can be converted into something simply conscious in a single ray, which manifests in logic as the law of nominalization.",
+      "quote": "the synthetic consciousness is **multi-rayed** in its directedness, while the simply thetic consciousness is single-rayed."
+    },
+    {
+      "id": "intentionalitaet/hua3-i/007",
+      "locator": "husserliana-3-ideas-i-commentary#h2-s-124-the-noetic-noematic-layer-of-the-logos-meaning-and-signification",
+      "primary_locator": "Ideas I § 124",
+      "term": "Sinn / Bedeutung",
+      "status": "introduced",
+      "claim": "Husserl reserves \"Bedeutung\" for the linguistic-conceptual concept and uses \"Sinn\" in the more encompassing breadth, expression being a form that can adapt to all sense and raise it into the realm of the logos, of the conceptual and thereby of the universal.",
+      "quote": "\"Expression\" is a remarkable form that can adapt to all \"sense\" (the noematic \"kernel\") and raises it into the realm of the \"logos,\" of the **conceptual** and thereby of the \"universal.\""
+    },
+    {
+      "id": "intentionalitaet/hua3-i/008",
+      "locator": "husserliana-3-ideas-i-commentary#h2-s-124-the-noetic-noematic-layer-of-the-logos-meaning-and-signification",
+      "primary_locator": "Ideas I § 124",
+      "term": "the expressive layer (one thesis)",
+      "status": "introduced",
+      "claim": "The expressive layer is not productive and cannot have a differently qualified positional or neutral thesis than the expression-receiving layer, so that in the covering there are not two theses to be distinguished but only one thesis.",
+      "quote": "in the covering we find not two theses to be distinguished but **only one thesis**."
+    },
+    {
+      "id": "intentionalitaet/hua3-i/009",
+      "locator": "husserliana-3-ideas-i-commentary#h2-s-128-introduction",
+      "primary_locator": "Ideas I § 128",
+      "term": "reell/intentional, noetic/noematic division",
+      "status": "presupposed",
+      "claim": "The division into reell and intentional, noetic and noematic analysis is a fundamental structure pervading all intentional structures and a governing leitmotif of phenomenological method, setting off two radically opposed yet essentially interrelated regions of being, and all fully taken noemata belong to a single highest genus.",
+      "quote": "This division turns out to be a **fundamental structure pervading all intentional structures**, forming a governing leitmotif of phenomenological method."
+    },
+    {
+      "id": "intentionalitaet/hua3-i/010",
+      "locator": "husserliana-3-ideas-i-commentary#h2-s-129-content-and-object-content-as-sense",
+      "primary_locator": "Ideas I § 129",
+      "term": "content / sense",
+      "status": "introduced",
+      "claim": "The thesis is that every noema has a content, namely its sense, and refers through it to its object, so that not only for consciousness but for the noema in itself the distinction between content and object must be made.",
+      "quote": "**Every noema has a \"content,\" namely its \"sense,\" and refers through it to \"its\" object.**"
+    },
+    {
+      "id": "intentionalitaet/hua3-i/011",
+      "locator": "husserliana-3-ideas-i-commentary#h2-s-130-delimitation-of-the-essence-noematic-sense",
+      "primary_locator": "Ideas I § 130",
+      "term": "noematic sense",
+      "status": "introduced",
+      "claim": "A quite fixed content is delimited in every noema: the description of the meant objectuality exactly as it is intended, in formal- and material-ontological and content expressions all taken in noematically modified (quotation-marked) sense, excluding expressions of the manner how something is conscious.",
+      "quote": "Every consciousness has its what and every one intends \"its\" objectuality; with every consciousness such a noematic description of the same, \"exactly as it is intended,\" must be in principle performable."
+    },
+    {
+      "id": "intentionalitaet/hua3-i/012",
+      "locator": "husserliana-3-ideas-i-commentary#h2-s-131-the-object-the-determinable-x-in-the-noematic-sense",
+      "primary_locator": "Ideas I § 131",
+      "term": "the determinable X",
+      "status": "introduced",
+      "claim": "The identical intentional object separates itself as a central noematic moment, the determinable subject of its possible predicates, the pure X in abstraction from all predicates, distinguished from the object simpliciter and from the object in the how of its determinacies, which is the sense.",
+      "quote": "This identical intentional **\"object\"** separates itself as a **central noematic moment**: the \"object,\" the \"identical,\" the \"determinable subject of its possible predicates\"—the **pure X in abstraction from all predicates**."
+    },
+    {
+      "id": "intentionalitaet/hua3-i/013",
+      "locator": "husserliana-3-ideas-i-commentary#h2-s-133-the-noematic-proposition-thetic-and-synthetic-propositions-propositions-in",
+      "primary_locator": "Ideas I § 133",
+      "term": "noematic proposition (Satz)",
+      "status": "revised",
+      "claim": "It now seems more fitting to define \"sense\" as merely the \"matter\" and to designate the unity of sense and thetic character as a proposition, yielding single-membered and synthetic propositions as well as pleasure-, wish- and command-propositions, and even simple intuitions have an intuition-sense and an intuition-proposition.",
+      "quote": "It now seems more fitting to define the term \"sense\" as merely that \"matter\" and to designate the unity of sense and thetic character as a **proposition**."
+    },
+    {
+      "id": "intentionalitaet/hua3-i/014",
+      "locator": "husserliana-3-ideas-i-commentary#h2-s-135-object-and-consciousness-transition-to-the-phenomenology-of-reason",
+      "primary_locator": "Ideas I § 135",
+      "term": "object-consciousness correlation",
+      "status": "introduced",
+      "claim": "As every intentional experience refers to its object through a sense, so conversely everything called object is already object of consciousness, and whatever world and reality may be must be represented within actual and possible consciousness through senses and propositions filled with intuitive content.",
+      "quote": "As every intentional experience has a noema and thereby a sense through which it refers to the object, so conversely everything we call **object** is already object of consciousness."
+    },
+    {
+      "id": "intentionalitaet/hua3-i/015",
+      "locator": "husserliana-3-ideas-i-commentary#h2-s-135-object-and-consciousness-transition-to-the-phenomenology-of-reason",
+      "primary_locator": "Ideas I § 135",
+      "term": "the turning point to reason",
+      "status": "introduced",
+      "claim": "A double meaning lurks in the object-consciousness connection: the manifold harmonious propositions could run their conscious course even if the object were unreal, so the essence of the right of reason and correlatively the essence of reality must be clarifiable within the essential nexus of transcendental consciousness.",
+      "quote": "Could it not be unreal while the manifold harmonious propositions ran their conscious course? The consciousness-subject itself judges about reality, asks about it, conjectures, doubts, and performs \"adjudications of reason.\""
+    },
+    {
+      "id": "intentionalitaet/hua3-i/016",
+      "locator": "husserliana-3-ideas-i-commentary#h2-s-149-the-reason-theoretical-problems-of-the-regional-ontologies-the-problem-of",
+      "primary_locator": "Ideas I § 149",
+      "term": "the problem of phenomenological constitution",
+      "status": "introduced",
+      "claim": "Every objective region constitutes itself in consciousness, and the regional idea of the thing, its identical X with its determining sense-content posited as being, prescribes rules for determinately ordered, infinitely progressing manifolds of appearances.",
+      "quote": "The regional idea of the thing—its identical X with its determining sense-content, posited as being—**prescribes rules for manifolds of appearances**."
+    },
+    {
+      "id": "intentionalitaet/hua3-i/017",
+      "locator": "husserliana-3-ideas-i-commentary#h2-s-152-transfer-of-the-problem-of-transcendental-constitution-to-other-regions",
+      "primary_locator": "Ideas I § 152",
+      "term": "constitution across regions",
+      "status": "revised",
+      "claim": "Every distinctive type of realities carries with it its own constitutive phenomenology and thereby a new concrete doctrine of reason, the founded unities being genuinely novel and never reducible to mere sums of other realities.",
+      "quote": "**Every distinctive type of such realities carries with it its own constitutive phenomenology** and thereby a new concrete doctrine of reason."
+    }
+  ],
+  "absences": []
+}

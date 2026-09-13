@@ -57,6 +57,19 @@
       "note": "Partly worked already: commentaries/heidegger/heidegger-husserl-intentionality-article.md is a Stage 4 output written before this pipeline existed. Extract the commentaries, not that article."
     },
     {
+      "id": "wesen",
+      "english": "essence",
+      "glossary_terms": ["Wesen", "Eidos", "vera et immutabilis natura", "true and immutable nature"],
+      "search_terms": [
+        "Wesen", "Wesensschau", "Eidos", "eidetic",
+        "essence", "essences", "essential",
+        "true and immutable nature", "true and immutable natures",
+        "immutable nature", "innate idea", "innate ideas",
+        "simple nature", "simple natures"
+      ],
+      "note": "Descartes' vera et immutabilis natura (Meditation V) and Husserl's Wesen/eidos both do the same anti-nominalist work — an essence's necessary properties hold independently of any existing instance — but Descartes secures it theologically (the eternal truths as God's creation) where Husserl secures it by eidetic intuition alone. Opened from a cross-corpus question about whether Husserl treats 'true and immutable natures' as a phenomenological residuum; no commentary in the corpus yet states the connection explicitly, see gap-007."
+    },
+    {
       "id": "zeitlichkeit",
       "english": "temporality",
       "glossary_terms": ["Zeitlichkeit", "Temporalität", "Zeitbewußtsein"],
@@ -67,6 +80,42 @@
         "moment of vision"
       ],
       "note": "Husserl's time-consciousness and Heidegger's ekstatic temporality share almost no vocabulary, so the search terms have to carry both idioms."
+    },
+    {
+      "id": "reduktion",
+      "english": "phenomenological reduction",
+      "glossary_terms": ["Reduktion", "phänomenologische Reduktion", "transzendentale Reduktion", "Epoché"],
+      "search_terms": [
+        "Reduktion", "phänomenologische Reduktion", "transzendentale Reduktion", "eidetische Reduktion", "Epoché",
+        "reduction", "phenomenological reduction", "transcendental reduction", "eidetic reduction", "epoché",
+        "bracketing", "bracketed",
+        "putting out of play", "suspension",
+        "phenomenological method", "transcendental reflection",
+        "transcendental attitude", "transcendental standpoint",
+        "Cartesian meditation", "cartesian meditation",
+        "zu den Sachen selbst", "back to the things themselves",
+        "transcendental ego",
+        "Destruktion", "destruction"
+      ],
+      "note": "Core distinction: Husserl's phenomenological reduction as method (epoché, transcendental-methodical standpoint) versus Heidegger's destruction (Destruktion) as dismantling of philosophical tradition—both critical for phenomenological inquiry but different aims and procedures. Translation variants matter: 'epoché' vs 'bracketing' both appear in English commentaries. Watch for ambiguous uses of 'reduction' in mathematical or logical contexts; term carries significant density in Ideas I commentary and Cartesian Meditations. Bernet and Derrida commentaries are key secondary sources."
+    },
+    {
+      "id": "fundierung",
+      "english": "founding of higher-order objectivities",
+      "glossary_terms": ["Fundierung", "höhere Objectivität", "Sachverhalt", "Funktion"],
+      "search_terms": [
+        "Fundierung", "fundiert", "Funktion", "höhere Objectivität",
+        "founding", "founded", "foundation", "function", "higher objectivity", "higher-order object",
+        "state of affairs", "Sachverhalt",
+        "stratum", "Schicht", "layer",
+        "part and whole", "Ganze", "Ganzes",
+        "dependent", "independence", "independent",
+        "object constitution", "constituted object",
+        "ideal object", "ideal objectivity",
+        "content", "Gehalt",
+        "manifold", "Mannigfaltigkeit"
+      ],
+      "note": "Husserl's account of how complex objectivities (states of affairs, values, meanings) are founded on and constituted through more basic entities—a foundational doctrine running through Logical Investigations (especially the Sixth Investigation), Ideas I Part 3, and Thing and Space. The doctrine holds that some objects depend asymmetrically on others for their existence (dependent parts cannot exist alone; independent parts can), and that higher-order objectivities emerge through founding relations between strata of objects. Henry's phenomenology of manifestation and Marion's donation all work substantially with founding structures, making this theme particularly dense in French phenomenology. Watch for ambiguous 'function' in mathematical contexts or psychological functions; the philosophical sense concerns the structural role of an object in constituting a higher-order whole."
     }
   ]
 }

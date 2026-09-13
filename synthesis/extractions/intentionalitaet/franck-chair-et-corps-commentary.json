@@ -1,0 +1,197 @@
+{
+  "schema_version": 1,
+  "theme": "intentionalitaet",
+  "commentary": "franck-chair-et-corps-commentary",
+  "source_sha256": "0757213bac9658321459643d6202563f502dbbf2f877f1e30d07dd34c897d9d5",
+  "extracted_at": "2026-09-08",
+  "extractor": {
+    "agent": "claude-code",
+    "prompt": "prompts/extraction-prompt.md",
+    "note": "source_sha256 is the LF digest (CRLF checkout; local validate reports a false staleness, CI on LF passes). Closely read the theme-dense chapters: One (self-givenness and incarnate givenness), Three (flesh and body in perception), Four (constitutive analysis), Five (eidetic reduction and archi-facticity), Six (phenomenological idealism), and Ten (the alteration of ownness). Not read: Preface, Chapter Two (science as egology), Chapters Seven-Nine and Eleven-Twelve (the solipsism objection, the sphere of ownness, flesh/ego/psyche, the incarnation of another body, pairing and resemblance). Franck's own text carries no year in its opening note, so this commentary has no chronology.json entry yet (P5 pending); the book is Chair et corps (1981)."
+  },
+  "coverage": "partial",
+  "coverage_note": "Covers Chapters One, Three, Four, Five, Six and Ten of Franck's twelve-chapter book: the derivation of incarnate givenness from evidence and intentionality, perception and the die-analysis, the noema and the determinable X, the pure ego as source of the intentional regard, active and passive genesis and association, phenomenological idealism, and 'transcendence in immanence'. Not covered: the Preface, Chapter Two, and Chapters Seven through Nine and Eleven through Twelve (the intersubjectivity half of the book).",
+  "units": [
+    {
+      "id": "intentionalitaet/franck-cc/001",
+      "locator": "franck-chair-et-corps-commentary#h2-chapter-one-self-givenness-and-incarnate-givenness",
+      "primary_locator": "Chair et corps, ch. One",
+      "term": "intentionality / the thing as intended",
+      "status": "introduced",
+      "claim": "Franck reads intentionality as Husserl's answer to whether the thing's relation to lived experience can be understood as irreal: the thing has meaning only as something intended, a relation to transcendence given in the flesh within lived experience itself.",
+      "quote": "the thing has meaning only as something intended, as a relation to transcendence that is given in the flesh within lived experience itself. If this relation is identical with lived experience, and if its objective term (the noema) is intentionally contained within it, then this new sense of immanence makes incarnate perception phenomenologically intelligible."
+    },
+    {
+      "id": "intentionalitaet/franck-cc/002",
+      "locator": "franck-chair-et-corps-commentary#h2-chapter-one-self-givenness-and-incarnate-givenness",
+      "primary_locator": "Chair et corps, ch. One",
+      "term": "intentional immanence / noema contained irreally",
+      "status": "introduced",
+      "claim": "The move to idealism is commonly said to be made possible by Husserl's discovery of a new sense of immanence, intentional immanence, and that the noema is contained irreally within the noesis, which made the objective term of the intentional relation phenomenologically accessible.",
+      "quote": "what made the move possible was Husserl's discovery of a new sense of immanence — namely, intentional immanence — and his discovery that the noema is contained \"irreally\" within the noesis (i.e., contained as a structural moment of intentional sense, not as a real psychological part). This new sense of immanence made the objective term of the intentional relation phenomenologically accessible"
+    },
+    {
+      "id": "intentionalitaet/franck-cc/003",
+      "locator": "franck-chair-et-corps-commentary#h2-chapter-one-self-givenness-and-incarnate-givenness",
+      "primary_locator": "Being and Time § 69",
+      "term": "intentionality founded on ecstatic temporality",
+      "status": "criticized",
+      "claim": "Franck draws from Heidegger's note in Being and Time §69 that the relation between intentional consciousness and Dasein is one of founding: intentionality is to be founded on the ecstatic temporality of Dasein.",
+      "quote": "The relation between intentional consciousness and *Dasein* is a relation of *founding*: intentionality is to be founded on the ecstatic temporality of Dasein."
+    },
+    {
+      "id": "intentionalitaet/franck-cc/004",
+      "locator": "franck-chair-et-corps-commentary#h2-chapter-one-self-givenness-and-incarnate-givenness",
+      "primary_locator": "Chair et corps, ch. One",
+      "term": "intentionality and flesh",
+      "status": "revised",
+      "claim": "Franck's guiding thesis is that the meaning of intentionality is worked out in an analysis of perception and that its full depth cannot be reached without a thematic treatment of flesh.",
+      "quote": "the meaning of intentionality is itself worked out in an analysis of perception, and the full depth of this meaning, Franck contends, cannot be reached without a thematic treatment of flesh."
+    },
+    {
+      "id": "intentionalitaet/franck-cc/005",
+      "locator": "franck-chair-et-corps-commentary#h2-chapter-three-flesh-and-body-in-perception",
+      "primary_locator": "Cartesian Meditations, Second Meditation",
+      "term": "intentional analysis",
+      "status": "presupposed",
+      "claim": "Intentional analysis is the analysis of the transcendental ego insofar as the ego includes and constitutes all possible objectivity, with the correlative noema and noesis as its dual orientation.",
+      "quote": "Intentional analysis is thus the analysis of the transcendental ego insofar as the ego includes and constitutes all possible objectivity."
+    },
+    {
+      "id": "intentionalitaet/franck-cc/006",
+      "locator": "franck-chair-et-corps-commentary#h2-chapter-three-flesh-and-body-in-perception",
+      "primary_locator": "Cartesian Meditations, Second Meditation",
+      "term": "phenomenology of perception",
+      "status": "introduced",
+      "claim": "Phenomenology is always a phenomenology of perception for essential and historical reasons: overcoming transcendental psychologism requires a new analysis of perception faithful to original intuitive givenness.",
+      "quote": "If phenomenology is always a phenomenology of perception, this is for essential and profoundly historical reasons."
+    },
+    {
+      "id": "intentionalitaet/franck-cc/007",
+      "locator": "franck-chair-et-corps-commentary#h2-chapter-three-flesh-and-body-in-perception",
+      "primary_locator": "Cartesian Meditations § 17",
+      "term": "the die (Würfel) example",
+      "status": "introduced",
+      "claim": "One and the same die is intended as appearing through a multiform changing multiplicity of manners of appearing that flow in the unity of a synthesis, against an always co-intended absolute Here that is my co-appearing flesh-body.",
+      "quote": "in them one and the same die is intended as appearing. The same die appears now in \"near appearances,\" now in \"far appearances,\" in changing modes of Here and There, against an always co-intended though perhaps unheeded absolute Here — namely, my co-appearing flesh-body (*Leib*)."
+    },
+    {
+      "id": "intentionalitaet/franck-cc/008",
+      "locator": "franck-chair-et-corps-commentary#h2-chapter-three-flesh-and-body-in-perception",
+      "primary_locator": "Chair et corps, ch. Three",
+      "term": "synthesis of identification / adumbration",
+      "status": "introduced",
+      "claim": "The unity of the thing is grounded in the harmonious convergence of the adumbrations, resting on a synthesis of identification whose fundamental form is internal time-consciousness, and the adequate givenness of a transcendent thing is an Idea in the Kantian sense.",
+      "quote": "it rests on a *synthesis of identification* whose fundamental form is internal time-consciousness. And — just like the temporal flow itself — the adequate givenness of a transcendent thing is an Idea in the Kantian sense"
+    },
+    {
+      "id": "intentionalitaet/franck-cc/009",
+      "locator": "franck-chair-et-corps-commentary#h2-chapter-three-flesh-and-body-in-perception",
+      "primary_locator": "Cartesian Meditations § 20",
+      "term": "intentional analysis (not real analysis) / Mehrmeinung",
+      "status": "introduced",
+      "claim": "Intentional analysis is not a real psychological analysis and involves no empiricist sensualism of intentionality; each cogito intends more than what is actually there, and without this meaning-more intentional analysis could not proceed.",
+      "quote": "It is not a real (psychological) analysis — there is no empiricist sensualism of intentionality; rather, it unfolds, distinguishes, and clarifies the richness of horizons and infinite potentialities harboured and concealed in each actuality."
+    },
+    {
+      "id": "intentionalitaet/franck-cc/010",
+      "locator": "franck-chair-et-corps-commentary#h2-chapter-three-flesh-and-body-in-perception",
+      "primary_locator": "Cartesian Meditations § 21",
+      "term": "transcendental clue",
+      "status": "introduced",
+      "claim": "The circularity by which intentional analysis reveals intentionality as its own basis is accepted on the condition that the intentional object serve as a transcendental clue for displaying the constitutive noetic structures.",
+      "quote": "the intentional object must serve as a *transcendental clue* for displaying the constitutive noetic structures. This affirms a relative and methodological privilege of the constituted"
+    },
+    {
+      "id": "intentionalitaet/franck-cc/011",
+      "locator": "franck-chair-et-corps-commentary#h2-chapter-four-constitutive-analysis",
+      "primary_locator": "Ideas I §§ 88-90",
+      "term": "noema / perceptual sense",
+      "status": "introduced",
+      "claim": "The noema is an intentional component of lived experience, given in its immanence, so that sense is indifferent to the reality or non-reality of the object; the noema is neither a real component of perception nor a mental copy of a real object.",
+      "quote": "The noema is an intentional component of lived experience — for example, perception has its noema, most basically the *perceptual sense*, the perceived as perceived — given in the immanence of lived experience. As a result, sense is *indifferent* to the reality or non-reality of the object."
+    },
+    {
+      "id": "intentionalitaet/franck-cc/012",
+      "locator": "franck-chair-et-corps-commentary#h2-chapter-four-constitutive-analysis",
+      "primary_locator": "Ideas I §§ 99-104",
+      "term": "noematic core / being-characteristics",
+      "status": "introduced",
+      "claim": "The noema is broken into a core and the characteristics of its being; the being-characteristics are the noematic correlates of the doxic characteristics, so that reality is the noematic correlate of certainty.",
+      "quote": "The being-characteristics are the noematic correlates of the doxic characteristics (the modalities of belief: certainty, doubt, supposition, etc.). Reality is thus the noematic correlate of *certainty*."
+    },
+    {
+      "id": "intentionalitaet/franck-cc/013",
+      "locator": "franck-chair-et-corps-commentary#h2-chapter-four-constitutive-analysis",
+      "primary_locator": "Ideas I § 131",
+      "term": "the determinable X",
+      "status": "introduced",
+      "claim": "The object pure and simple, the point of identity, must be distinguished from the object in the how of its determinations; Husserl reserves \"sense\" for the latter, and it is by means of the bare X that all sense has its object.",
+      "quote": "The object pure and simple — the point of identity — must be distinguished from the object in the *how* of its determinations. Husserl reserves the word \"sense\" for the second of these concepts of the object; it is by means of this X — the bare pole — that all sense has its object"
+    },
+    {
+      "id": "intentionalitaet/franck-cc/014",
+      "locator": "franck-chair-et-corps-commentary#h2-chapter-four-constitutive-analysis",
+      "primary_locator": "Ideas I § 136",
+      "term": "evidence as archi-phenomenon of intentional life",
+      "status": "introduced",
+      "claim": "As original givenness, evidence is the archi-phenomenon of intentional life and the a priori structural form of consciousness, so that to constitute is to provide evidence of incarnate givenness.",
+      "quote": "As original givenness, evidence is the archi-phenomenon of intentional life — the *a priori* structural form of consciousness."
+    },
+    {
+      "id": "intentionalitaet/franck-cc/015",
+      "locator": "franck-chair-et-corps-commentary#h2-chapter-five-eidetic-reduction-and-archi-facticity",
+      "primary_locator": "Ideas I § 80",
+      "term": "pure ego / regard-to-the-Object",
+      "status": "revised",
+      "claim": "The pure ego is the source of the regard directed at the object that runs through every actual cogito, a transcendency that is not constituted, a transcendency within immanency that must not be excluded.",
+      "quote": "in that process the subject is \"directing\" himself to the intentional Object. To the cogito itself belongs, as immanent within it, a \"regard-to-the-Object,\" which on the other side wells forth from the \"Ego,\" which therefore can never be lacking."
+    },
+    {
+      "id": "intentionalitaet/franck-cc/016",
+      "locator": "franck-chair-et-corps-commentary#h2-chapter-five-eidetic-reduction-and-archi-facticity",
+      "primary_locator": "Chair et corps, ch. Five",
+      "term": "unification of the flow / no-ego reversal",
+      "status": "revised",
+      "claim": "With the discovery of the irreal inclusion of the noema it is no longer possible to unify the flow of lived experiences on the basis of their contents, since what unifies the flow cannot itself be unified by the flow, which is why a unifying egological principle becomes necessary.",
+      "quote": "with the discovery of the irreal inclusion of the noema — the discovery necessary to explain the incarnate givenness of transcendent things in perception — it is no longer possible to unify the flow of lived experiences on the basis of their contents"
+    },
+    {
+      "id": "intentionalitaet/franck-cc/017",
+      "locator": "franck-chair-et-corps-commentary#h2-chapter-five-eidetic-reduction-and-archi-facticity",
+      "primary_locator": "Cartesian Meditations §§ 38-39",
+      "term": "active act / passive intentionality",
+      "status": "introduced",
+      "claim": "Each act is actively born from the ego, which presupposes that the ego has already been affected: a passive intentionality, not under the control of the actual ego, has already delivered an object capable of affecting the ego and prompting it to act.",
+      "quote": "Each act is *actively born* from the ego. This presupposes that the ego has *already* been affected — that a passive intentionality, not under the control of the actual ego, has already delivered an object capable of affecting the ego and prompting it to act."
+    },
+    {
+      "id": "intentionalitaet/franck-cc/018",
+      "locator": "franck-chair-et-corps-commentary#h2-chapter-six-phenomenological-idealism",
+      "primary_locator": "Cartesian Meditations § 39",
+      "term": "association / passive genesis",
+      "status": "introduced",
+      "claim": "The universal principle of passive genesis bears the title association (distinct from Hume's concept), and associative genesis is an essential law of intentionality operative in all passive constitution, an a priori for the constitution of any ego.",
+      "quote": "Associative genesis, as an essential law of intentionality, is operative in all passive constitution — including the constitution of immanent temporal objects (lived experiences). Consequently it is an *a priori* for all constitution of any ego."
+    },
+    {
+      "id": "intentionalitaet/franck-cc/019",
+      "locator": "franck-chair-et-corps-commentary#h2-chapter-six-phenomenological-idealism",
+      "primary_locator": "Cartesian Meditations § 41",
+      "term": "phenomenological idealism",
+      "status": "revised",
+      "claim": "Phenomenological idealism is not a psychological idealism in Berkeley's sense, since intentionality prevents this, and its attention to the horizonal aspect of all sense excludes the sense of an in-itself, distancing it from Kantian idealism.",
+      "quote": "Phenomenological idealism is not a psychological idealism in Berkeley's sense; intentionality prevents this. And, since it is continually attentive to the *horizonal* aspect of all sense, intentionality also excludes the possibility — and so the *sense* — of an in-itself, and thereby distances itself from Kantian idealism."
+    },
+    {
+      "id": "intentionalitaet/franck-cc/020",
+      "locator": "franck-chair-et-corps-commentary#h2-chapter-ten-the-alteration-of-ownness",
+      "primary_locator": "Basic Problems of Phenomenology (WS 1910-11)",
+      "term": "transcendence in immanence",
+      "status": "introduced",
+      "claim": "It is necessary to admit a transcendence within phenomenological immanence, since what is received phenomenologically is not only the retention as such but also that which is retained, each now of a retention being a retention of a not-now, and any attempt to reduce this transcendence presupposes it.",
+      "quote": "what is received phenomenologically is not only the *retention* as such but also *that which is retained*: each now of a retention is a retention of a *not-now*."
+    }
+  ],
+  "absences": []
+}

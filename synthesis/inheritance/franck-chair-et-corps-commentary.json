@@ -1,0 +1,78 @@
+{
+  "schema_version": 1,
+  "commentary": "franck-chair-et-corps-commentary",
+  "source_sha256": "0757213bac9658321459643d6202563f502dbbf2f877f1e30d07dd34c897d9d5",
+  "extracted_at": "2026-09-09",
+  "extractor": {
+    "agent": "claude-code",
+    "prompt": "prompts/inheritance-prompt.md",
+    "note": "source_sha256 is the LF digest (CRLF checkout; local validate reports a false staleness, CI on LF passes). Franck's Chair et corps is a reading of Husserl that engages predecessors mostly in the Preface (Descartes, Hegel, Heidegger, Nietzsche on the Cartesian closure of metaphysics), Chapter One (Heidegger's 1925 distinction of self-givenness and bodily-givenness), and Chapter Six (Descartes' divine veracity, Berkeley, Kant on phenomenological idealism). One record per commentary covering all predecessors."
+  },
+  "coverage": "partial",
+  "coverage_note": "Covers the predecessor engagements of Franck's Chair et corps: Descartes (Husserlian phenomenology as the deepest and most refined repetition of the Cartesian establishment of the cogito as absolute foundation; and the Cartesian problem of divine veracity as counter-sensical, an inconsistency into which Descartes fell because he missed the genuine sense of his reduction), Hegel (the Hegel/Heidegger convergence on Descartes as the true beginning of modern philosophy), Nietzsche (modern metaphysics, Nietzsche included, held to remain within the interpretation of truth and beings initiated by Descartes), Heidegger (the 1925 lectures' hierarchical distinction of self-givenness and bodily/incarnate givenness, which like Husserl leaves unthought what the flesh itself means), Berkeley (phenomenological idealism distinguished from psychological idealism in Berkeley's sense), and Kant (Husserl's idealism excluding the sense of an in-itself and so distancing itself from Kantian idealism). Not covered: the detailed analyses of the fifth Cartesian Meditation, pairing, and carnal difference.",
+  "engagements": [
+    {
+      "id": "inh/franck-cc/001",
+      "locator": "franck-chair-et-corps-commentary#h2-preface",
+      "primary_locator": "Chair et corps, Preface",
+      "predecessor": { "author": "René Descartes", "text": "Meditationes de prima philosophia" },
+      "mode": "acknowledged-debt",
+      "claim": "Franck reads Husserlian phenomenology as the deepest and most refined repetition of the Cartesian establishment of the cogito as absolute and certain foundation of all truth, so that reading Husserl well is reading the closure of metaphysics at its most acute point.",
+      "quote": "if Husserlian phenomenology constitutes such a repetition — the deepest and the most refined — then one must tirelessly return to it."
+    },
+    {
+      "id": "inh/franck-cc/002",
+      "locator": "franck-chair-et-corps-commentary#h2-preface",
+      "primary_locator": "Chair et corps, Preface",
+      "predecessor": { "author": "Georg Wilhelm Friedrich Hegel" },
+      "mode": "acknowledged-debt",
+      "claim": "Franck marshals the convergence of Hegel and Heidegger, across their divergent concepts of history, in taking Descartes to be the initiator of the ultimate epoch of philosophy: Hegel calls Descartes the true beginning of modern philosophy.",
+      "quote": "Hegel calling Descartes the true beginning of modern philosophy, Heidegger saying that the whole of modern metaphysics, Nietzsche included, remains within the interpretation of truth and of beings initiated by Descartes, and that with Descartes begins the *completion* of Western metaphysics."
+    },
+    {
+      "id": "inh/franck-cc/003",
+      "locator": "franck-chair-et-corps-commentary#h2-preface",
+      "primary_locator": "Chair et corps, Preface",
+      "predecessor": { "author": "Friedrich Nietzsche" },
+      "mode": "acknowledged-debt",
+      "claim": "Following Heidegger, Franck places even Nietzsche's thought within the Cartesian epoch: the whole of modern metaphysics, Nietzsche included, remains within the interpretation of truth and of beings initiated by Descartes.",
+      "quote": "Heidegger saying that the whole of modern metaphysics, Nietzsche included, remains within the interpretation of truth and of beings initiated by Descartes"
+    },
+    {
+      "id": "inh/franck-cc/004",
+      "locator": "franck-chair-et-corps-commentary#h2-chapter-one-self-givenness-and-incarnate-givenness",
+      "primary_locator": "Chair et corps, Chapter One",
+      "predecessor": { "author": "Martin Heidegger", "text": "Prolegomena zur Geschichte des Zeitbegriffs (1925)" },
+      "mode": "acknowledged-debt",
+      "claim": "Franck takes over from Heidegger's 1925 lectures the hierarchical phenomenological distinction between self-givenness and bodily (incarnate) givenness, in which bodily presence implies self-givenness but not vice versa, while noting that Heidegger, like Husserl, never poses the question of what the flesh itself means.",
+      "quote": "Heidegger clearly identifies a difference between two modes of givenness — a *phenomenological* difference. Moreover, it is a hierarchical difference: one mode necessarily implies the other (bodily presence implies self-givenness, but not vice versa). Yet, as in Husserl, the question of what the flesh itself means is not posed."
+    },
+    {
+      "id": "inh/franck-cc/005",
+      "locator": "franck-chair-et-corps-commentary#h2-chapter-six-phenomenological-idealism",
+      "primary_locator": "Chair et corps, Chapter Six",
+      "predecessor": { "author": "René Descartes" },
+      "mode": "polemical-rejection",
+      "claim": "On Husserl's transcendental self-investigation the Cartesian problem of how divine veracity guarantees that clear and distinct perception corresponds to reality is counter-sensical, an inconsistency into which Descartes necessarily fell because he missed the genuine sense of his reduction to the indubitable.",
+      "quote": "the whole problem is counter-sensical (*Widersinn*). It involves an inconsistency into which Descartes necessarily fell because he missed the genuine sense of his reduction to the indubitable"
+    },
+    {
+      "id": "inh/franck-cc/006",
+      "locator": "franck-chair-et-corps-commentary#h2-chapter-six-phenomenological-idealism",
+      "primary_locator": "Chair et corps, Chapter Six",
+      "predecessor": { "author": "George Berkeley" },
+      "mode": "polemical-rejection",
+      "claim": "Franck stresses, with Husserl, that phenomenological idealism is not a psychological idealism in Berkeley's sense, because intentionality prevents this.",
+      "quote": "Phenomenological idealism is not a psychological idealism in Berkeley's sense; intentionality prevents this."
+    },
+    {
+      "id": "inh/franck-cc/007",
+      "locator": "franck-chair-et-corps-commentary#h2-chapter-six-phenomenological-idealism",
+      "primary_locator": "Chair et corps, Chapter Six",
+      "predecessor": { "author": "Immanuel Kant" },
+      "mode": "polemical-rejection",
+      "claim": "Because intentionality is continually attentive to the horizonal aspect of all sense, it excludes the possibility and the very sense of an in-itself, and thereby Husserl's absolute idealism distances itself from Kantian idealism.",
+      "quote": "since it is continually attentive to the *horizonal* aspect of all sense, intentionality also excludes the possibility — and so the *sense* — of an in-itself, and thereby distances itself from Kantian idealism."
+    }
+  ]
+}

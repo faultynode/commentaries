@@ -1,0 +1,96 @@
+{
+  "schema_version": 1,
+  "commentary": "husserliana-5-ideas-iii-commentary",
+  "source_sha256": "8f2dc2d3128d9af6d69e6ff7f334da6dfba099087d5891eea67fc54fba9b1ffd",
+  "extracted_at": "2026-09-09",
+  "extractor": {
+    "agent": "claude-code",
+    "prompt": "prompts/inheritance-prompt.md",
+    "note": "source_sha256 is the LF digest (CRLF checkout; local validate reports a false staleness, CI on LF passes). Predecessor engagement is thin and concentrated in § 10 (Bolzano, Lotze, Brentano), with scattered references in § 7 (the anti-Kantian contrast on 'transcendental deduction') and the Afterword (Kant's 'will be able to present itself as a science'; Plato's founding of the idea of philosophy). One record per commentary covering all predecessors."
+  },
+  "coverage": "partial",
+  "coverage_note": "Covers Ideas III's engagement with predecessors, mostly from § 10: Bolzano (no inkling of phenomenology, as far from essential intuition as Mill, yet the doctrine of propositions in themselves and truths in themselves was of inestimable value for the mathesis universalis), Lotze (lacked the sense for radical principial research and the genuine concept of essence, but the interpretation of the Platonic theory of ideas is his unforgettable merit), Brentano (won epoch-making merits for the very enabling of phenomenology by offering the idea of intentionality drawn from immanent description, but oversteps pure description and did not see the essence of intentional analysis), Kant (the regional-concept derivation is not a transcendental deduction from a thought-system not given in intuition, as the Kantian deduction of the categories is; but the aim is stated in Kant's words as a philosophy that 'will be able to present itself as a science'), and Plato (whose first firm formulation of the idea of philosophy underlies European philosophy and is restored here). Not covered: the technical constitution and clarification chapters.",
+  "engagements": [
+    {
+      "id": "inh/hua5/001",
+      "locator": "husserliana-5-ideas-iii-commentary#h3-s10-the-relation-of-phenomenology-to-the-writings-of-bolzano-lotze-and-brentano",
+      "primary_locator": "Ideas III § 10",
+      "predecessor": { "author": "Bernard Bolzano", "text": "Wissenschaftslehre" },
+      "mode": "acknowledged-debt",
+      "claim": "Of the thought of an essential research in intuition and of an a priori arising thereby Bolzano is as far as Mill, yet for the conception of the mathesis universalis Bolzano's sketch of a limited piece, the doctrine of propositions in themselves and truths in themselves, was of inestimable value.",
+      "quote": "for the conception of this idea, Bolzano's sketch of a limited piece — the doctrine of propositions in themselves and truths in themselves — was of inestimable value."
+    },
+    {
+      "id": "inh/hua5/002",
+      "locator": "husserliana-5-ideas-iii-commentary#h3-s10-the-relation-of-phenomenology-to-the-writings-of-bolzano-lotze-and-brentano",
+      "primary_locator": "Ideas III § 10",
+      "predecessor": { "author": "Bernard Bolzano" },
+      "mode": "polemical-rejection",
+      "claim": "Bolzano had not the slightest inkling of phenomenology in the sense Husserl's writings represent, and of the thought of a foundation of philosophy and psychology on essential cognition he is as far as Mill.",
+      "quote": "Of the thought of an essential research in intuition, of an a priori arising thereby, of a foundation of philosophy and psychology on essential cognition, Bolzano is as far as Mill."
+    },
+    {
+      "id": "inh/hua5/003",
+      "locator": "husserliana-5-ideas-iii-commentary#h3-s10-the-relation-of-phenomenology-to-the-writings-of-bolzano-lotze-and-brentano",
+      "primary_locator": "Ideas III § 10",
+      "predecessor": { "author": "Hermann Lotze" },
+      "mode": "acknowledged-debt",
+      "claim": "Lotze's genial interpretation of the Platonic theory of ideas will remain his greatest, unforgettable merit.",
+      "quote": "His genial interpretation of the Platonic theory of ideas will remain his greatest, unforgettable merit."
+    },
+    {
+      "id": "inh/hua5/004",
+      "locator": "husserliana-5-ideas-iii-commentary#h3-s10-the-relation-of-phenomenology-to-the-writings-of-bolzano-lotze-and-brentano",
+      "primary_locator": "Ideas III § 10",
+      "predecessor": { "author": "Hermann Lotze" },
+      "mode": "polemical-rejection",
+      "claim": "Lotze lacked the sense for radical principial research, his epistemology is a contradictory hybrid, and he lacks the genuine concept of essence to be grasped by essential intuition as an absolute measure of truth.",
+      "quote": "he lacks the genuine concept of essence to be grasped by essential intuition as an absolute measure of truth."
+    },
+    {
+      "id": "inh/hua5/005",
+      "locator": "husserliana-5-ideas-iii-commentary#h3-s10-the-relation-of-phenomenology-to-the-writings-of-bolzano-lotze-and-brentano",
+      "primary_locator": "Ideas III § 10",
+      "predecessor": { "author": "Franz Brentano" },
+      "mode": "acknowledged-debt",
+      "claim": "Brentano won epoch-making merits for the very enabling of phenomenology: he offered the modern age, drawn from consciousness itself in immanent description, the idea of intentionality, and many of his concept-formations have their source in real intuition.",
+      "quote": "He offered the modern age — drawn from consciousness itself in immanent description — the idea of intentionality"
+    },
+    {
+      "id": "inh/hua5/006",
+      "locator": "husserliana-5-ideas-iii-commentary#h3-s10-the-relation-of-phenomenology-to-the-writings-of-bolzano-lotze-and-brentano",
+      "primary_locator": "Ideas III § 10",
+      "predecessor": { "author": "Franz Brentano" },
+      "mode": "polemical-rejection",
+      "claim": "Brentano has remained far from a phenomenology in Husserl's sense: he often oversteps the lines of pure description, and the essence of intentional analysis he did not see.",
+      "quote": "the essence of intentional analysis he did not see."
+    },
+    {
+      "id": "inh/hua5/007",
+      "locator": "husserliana-5-ideas-iii-commentary#h3-s7-regional-concepts-and-genus-concepts",
+      "primary_locator": "Ideas III § 7",
+      "predecessor": { "author": "Immanuel Kant", "text": "Kritik der reinen Vernunft" },
+      "mode": "polemical-rejection",
+      "claim": "The a priori derivation of the regional concepts is not meant in the sense of a transcendental deduction from some postulate or from some thought-system not itself given through intuition, as the system of judgment-forms is in the Kantian deduction of his categories, but follows an apodictically evident transcendental clue leading us to find and grasp step by step through our own seeing.",
+      "quote": "not meant in the sense of a \"transcendental deduction\" from some postulate or from some thought-system not itself given through intuition (as the system of judgment-forms is in the Kantian deduction of his categories)"
+    },
+    {
+      "id": "inh/hua5/008",
+      "locator": "husserliana-5-ideas-iii-commentary#h3-section-7",
+      "primary_locator": "Ideas III, Afterword Section 7",
+      "predecessor": { "author": "Immanuel Kant", "text": "Prolegomena" },
+      "mode": "terminological-borrowing",
+      "claim": "The work seeks to be a first attempt to set in motion the radical beginning of a philosophy that, in Kant's words, 'will be able to present itself as a science'.",
+      "quote": "the radical beginning of a philosophy that, in Kant’s words, “will be able to present itself as a science.”"
+    },
+    {
+      "id": "inh/hua5/009",
+      "locator": "husserliana-5-ideas-iii-commentary#h3-preliminary-remark",
+      "primary_locator": "Ideas III, Afterword Preliminary Remark",
+      "predecessor": { "author": "Plato" },
+      "mode": "acknowledged-debt",
+      "claim": "In the concept of philosophy Husserl restores the most originary idea of philosophy, the one that, since Plato's first firm formulation, underlies our European philosophy and science and designates an imperishable task: philosophy as universal and radically strict science from ultimate self-responsibility.",
+      "quote": "Husserl restores the most originary idea of philosophy — the one that, since Plato’s first firm formulation, underlies our European philosophy and science and designates an imperishable task."
+    }
+  ]
+}

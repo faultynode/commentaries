@@ -1,0 +1,233 @@
+{
+  "schema_version": 1,
+  "theme": "intentionalitaet",
+  "commentary": "husserliana-28-vorlesungen-uber-ethik-und-wertlehre-commentary",
+  "source_sha256": "fd9165d1171e8a6ec659a655447727e831a2aecb868d315e15f209b69ec5f379",
+  "extracted_at": "2026-09-09",
+  "extractor": {
+    "agent": "claude-code",
+    "prompt": "prompts/extraction-prompt.md",
+    "note": "source_sha256 is the LF digest (CRLF checkout; local validate reports a false staleness, CI on LF passes). Closely read the sections where act-structure and intentional directedness are at stake: Einleitung § 8 (act as meaning vs. meaning-content, proposition-matter/quality, the Urmodus of belief and its modalizations, the transposition of the apophantic apparatus to the will), Part II § 9 (the founding of valuing acts in objectivating acts and the distinction of value-directedness from object-directedness), and Part III §§ 13-17 (wish vs. will, the will as creative positing, the temporal structure of the action-will, the parallels between judgment-modalities and will-modalities, the will-question, choice as the performance of a will-question, will-negation and omission), plus § 21 (the subject-relativity of practical possibilities and insight as saturation of the intention). Not read in detail: §§ 1-7 (the parallelism of logic and ethics, the refutation of ethical empiricism/skepticism), §§ 10-12 (formal axiology proper: motivation-laws, the axiological law of contradiction, value-comparison), §§ 18-20 (formal Praktik: the will-laws of choice, the absorption-law, perfect will-rightness), and the 1911 Einleitung §§ 1-7 and Schlußstück on rational choice, and the Beilagen. No chronology.json entry yet (P5 pending; the volume gathers lecture-courses of 1908/09, 1911 and 1914, ed. U. Melle 1988)."
+  },
+  "coverage": "partial",
+  "coverage_note": "Covers the act-theoretic and intentionality-relevant core: judging as meaning and the primal mode of belief, proposition-matter and proposition-quality, the transposition of the whole apophantic apparatus (act/meaning, matter/quality, Urthesis/modalization) to the will and the emotive acts; the doctrine that valuing acts are founded in objectivating acts yet are directed upon values rather than upon objects; the wish/will distinction (distinct genera, not species of one genus), the will as a being-modalization confined to the real and the future, the will as creative positing that first confers certainty of being and reverses the founding relation to belief, the will directed on the future as a creative intention fulfilling itself in action, the temporal structure of the action-will modeled on time-consciousness, the parallel Formenlehre of will-modalities, the will-question and its intention upon a will-answer, practical deliberation and choice as the performance of a will-question, affirmation and negation as modalizations pointing back to an unperformed position, will-negation and omission, the subject-relativity of practical possibilities, and insight as a saturation of the intention. Not covered: formal axiology and formal Praktik proper (motivation-laws, value-comparison, the will-laws of choice and the absorption-law), the parallelism-of-logic-and-ethics argument, and the 1911 course on the idea of philosophy.",
+  "units": [
+    {
+      "id": "intentionalitaet/hua28/001",
+      "locator": "husserliana-28-vorlesungen-uber-ethik-und-wertlehre-commentary#h3-s-8-the-distinctions-underlying-the-logical-and-noetic-disciplines-between-act-a",
+      "primary_locator": "Hua XXVIII, Einleitung § 8",
+      "term": "judging as meaning / Urmodus of belief",
+      "status": "introduced",
+      "claim": "Judging is meaning, believing meaning, and the primal mode (Urmodus) of belief is certainty or being-certain, of which the modes of being-uncertain, solicitation-as-probable, doubt, and rejection are modalizations.",
+      "quote": "*Judging is meaning, believing meaning*; we highlight the *Urmodus* (primal mode) of belief, namely certainty, or rather being-certain."
+    },
+    {
+      "id": "intentionalitaet/hua28/002",
+      "locator": "husserliana-28-vorlesungen-uber-ethik-und-wertlehre-commentary#h3-s-8-the-distinctions-underlying-the-logical-and-noetic-disciplines-between-act-a",
+      "primary_locator": "Hua XXVIII, Einleitung § 8",
+      "term": "proposition-matter / proposition-quality",
+      "status": "introduced",
+      "claim": "The proposition has two components that can vary independently: the identical proposition-content or sense (the matter) and the proposition-quality, the thetic qualification that runs parallel to the modal differences of the meaning.",
+      "quote": "the proposition can vary in two directions, or that it has two components: the identical proposition-content (the *matter*) and the proposition-*quality*; more distinctly, the *sense* of the proposition and the proposition-quality, the thetic qualification."
+    },
+    {
+      "id": "intentionalitaet/hua28/003",
+      "locator": "husserliana-28-vorlesungen-uber-ethik-und-wertlehre-commentary#h3-s-8-the-distinctions-underlying-the-logical-and-noetic-disciplines-between-act-a",
+      "primary_locator": "Hua XXVIII, Einleitung § 8",
+      "term": "willing as meaning",
+      "status": "introduced",
+      "claim": "Willing and wishing are meaning just as belief is, with a will-meaning and a wish-meaning as their correlates, only that the meaning here is not a being-meaning (a meaning that something is) but a meaning that something shall be.",
+      "quote": "Willing too is meaning, wishing too is meaning, and correlatively the will-meaning, the wish-meaning corresponds to them; only the meaning here is not a being-meaning, a meaning that something is, but a meaning that something shall be."
+    },
+    {
+      "id": "intentionalitaet/hua28/004",
+      "locator": "husserliana-28-vorlesungen-uber-ethik-und-wertlehre-commentary#h3-s-9-apriori-motivation-laws-as-laws-of-rational-consequence-motivational-connect",
+      "primary_locator": "Hua XXVIII, Part II § 9",
+      "term": "founding of valuing on objectivating acts",
+      "status": "introduced",
+      "claim": "To every valuing act there necessarily underlie intellective, objectivating acts (presenting, judging, or surmising) in which the valued objectivities become presented and stand as being or non-being, and this founding is not merely psychological but belongs to the essence of the valuing act insofar as it constitutes the value-appearance.",
+      "quote": "to every valuing act there necessarily underlie intellective, \"objectivating\" acts — presenting, judging, or surmising acts — in which the valued objectivities become presented and possibly stand as being or non-being, in certainty or probability."
+    },
+    {
+      "id": "intentionalitaet/hua28/005",
+      "locator": "husserliana-28-vorlesungen-uber-ethik-und-wertlehre-commentary#h3-s-9-apriori-motivation-laws-as-laws-of-rational-consequence-motivational-connect",
+      "primary_locator": "Hua XXVIII, Part II § 9",
+      "term": "valuing acts directed upon values",
+      "status": "introduced",
+      "claim": "In the proper sense only objectivating acts are directed upon the objective, the being or non-being, whereas valuing acts are directed upon values, more closely upon positive and negative values, so that value-directedness is its own intentionality and not a special case of object-directedness.",
+      "quote": "in the proper sense only objectivating acts are directed upon the objective, the being or non-being, whereas valuing acts are directed upon *values*, and more closely upon positive and negative values."
+    },
+    {
+      "id": "intentionalitaet/hua28/006",
+      "locator": "husserliana-28-vorlesungen-uber-ethik-und-wertlehre-commentary#h3-s-9-apriori-motivation-laws-as-laws-of-rational-consequence-motivational-connect",
+      "primary_locator": "Hua XXVIII, Part II § 9",
+      "term": "object-side / value-side",
+      "status": "introduced",
+      "claim": "Values have their object-side and at once their specific value-side, the former founding the latter, and when values themselves become objects of judging cognition the value-side itself is objectivated.",
+      "quote": "values have their object-side and at once their specific value-side, the former founding the latter, and when values themselves become objects of judging cognition the value-side itself is objectivated."
+    },
+    {
+      "id": "intentionalitaet/hua28/007",
+      "locator": "husserliana-28-vorlesungen-uber-ethik-und-wertlehre-commentary#h3-s-13-the-will-sphere-in-the-narrower-and-wider-sense",
+      "primary_locator": "Hua XXVIII, Part III § 13",
+      "term": "wish is not a practical act",
+      "status": "introduced",
+      "claim": "Mere wishing contains nothing of willing and nothing of practical modalities and is not itself a practical act, since the wished need not be conscious as practically realizable and what can be wished is anything possible, not merely anything practically possible.",
+      "quote": "Mere wishing contains nothing of willing, contains nothing of practical modalities, and is not itself a practical act, a will-act in the widest sense."
+    },
+    {
+      "id": "intentionalitaet/hua28/008",
+      "locator": "husserliana-28-vorlesungen-uber-ethik-und-wertlehre-commentary#h3-s-14-wish-and-will",
+      "primary_locator": "Hua XXVIII, Part III § 14",
+      "term": "wishing and willing as distinct genera",
+      "status": "introduced",
+      "claim": "That one can wish a goal and at the same time will the same goal proves that wishing and willing are not coordinate differences of one genus, since such differences exclude one another essentially as two colour-species covering the same surface-patch, so that wishing and willing are distinct genera of act.",
+      "quote": "the qualitative peculiarities of the act-characters wishing and willing are *not* coordinate differences of one and the same genus — for such differences exclude one another essentially, as two color-species exclude each other as covering the same patch of surface in the same duration."
+    },
+    {
+      "id": "intentionalitaet/hua28/009",
+      "locator": "husserliana-28-vorlesungen-uber-ethik-und-wertlehre-commentary#h3-s-14-wish-and-will",
+      "primary_locator": "Hua XXVIII, Part III § 14",
+      "term": "will as being-modalization",
+      "status": "introduced",
+      "claim": "All acts go in a certain way upon being: belief is the meaning of being, and the emotive acts are to be grasped as being-modalizations of a new dimension, the wishing meaning an 'it may be' and the willing an 'it shall be'.",
+      "quote": "The Gemütsakte too are to be grasped as being-modalizations, though of a new dimension: the wishing means an \"it may be,\" the willing an \"it shall be\""
+    },
+    {
+      "id": "intentionalitaet/hua28/010",
+      "locator": "husserliana-28-vorlesungen-uber-ethik-und-wertlehre-commentary#h3-s-14-wish-and-will",
+      "primary_locator": "Hua XXVIII, Part III § 14",
+      "term": "will confined to the real and the future",
+      "status": "introduced",
+      "claim": "By a rational essential law the will cannot go upon the ideal but only upon the real, and not upon the past but upon the future, in contrast to joy and to wish, which can also go upon an ideal or past being.",
+      "quote": "the will, one then says, cannot go upon the ideal but only upon the real, and not upon the past but upon the future — in contrast to joy and to wish."
+    },
+    {
+      "id": "intentionalitaet/hua28/011",
+      "locator": "husserliana-28-vorlesungen-uber-ethik-und-wertlehre-commentary#h3-s-15-action-will-and-the-resolve-will-directed-at-the-future",
+      "primary_locator": "Hua XXVIII, Part III § 15",
+      "term": "the will as creative positing",
+      "status": "introduced",
+      "claim": "The future willed is not first certain-being and then willed; on the contrary, were it certain in advance it could not be willed at all, so that it is certain only by virtue of the will-certainty, which sets the future in a manner that first confers on it the certainty of being.",
+      "quote": "Instead of being certain in advance, it is certain only by virtue of the will-certainty: the will as will-certainty sets the future in a manner that first confers on it, for consciousness, the certainty of being."
+    },
+    {
+      "id": "intentionalitaet/hua28/012",
+      "locator": "husserliana-28-vorlesungen-uber-ethik-und-wertlehre-commentary#h3-s-15-action-will-and-the-resolve-will-directed-at-the-future",
+      "primary_locator": "Hua XXVIII, Part III § 15",
+      "term": "reversal of the founding relation (will / belief)",
+      "status": "revised",
+      "claim": "On the act-side the founding relation is reversed: instead of the willing being founded upon the belief of the future being, it is rather the belief of the future that springs forth from the willing.",
+      "quote": "Instead of the willing being founded upon the belief of the future being, it is rather the belief of the future that springs forth from the willing"
+    },
+    {
+      "id": "intentionalitaet/hua28/013",
+      "locator": "husserliana-28-vorlesungen-uber-ethik-und-wertlehre-commentary#h3-s-15-action-will-and-the-resolve-will-directed-at-the-future",
+      "primary_locator": "Hua XXVIII, Part III § 15",
+      "term": "creative intention / will-fulfilment",
+      "status": "introduced",
+      "claim": "The will directed upon the future is, in a certain sense, a creative intention, and this intention fulfils itself in the executing action.",
+      "quote": "the will directed upon the future is, in a certain sense, a creative intention, and this \"fulfills\" itself in the executing action."
+    },
+    {
+      "id": "intentionalitaet/hua28/014",
+      "locator": "husserliana-28-vorlesungen-uber-ethik-und-wertlehre-commentary#h3-s-16-the-structure-of-the-action-will",
+      "primary_locator": "Hua XXVIII, Part III § 16",
+      "term": "intentional direction of the action-will",
+      "status": "introduced",
+      "claim": "The willings do not direct themselves upon the further willings; rather each will directs itself upon the things, creatively fulfilled upon the respective now-phase of the process and intending the whole rest of the process as to be realized.",
+      "quote": "The willings do not direct themselves upon the further willings; rather each will directs itself upon the things — creatively fulfilled upon the respective now-phase of the process and \"intending\" the whole rest of the process as to be realized."
+    },
+    {
+      "id": "intentionalitaet/hua28/015",
+      "locator": "husserliana-28-vorlesungen-uber-ethik-und-wertlehre-commentary#h3-s-16-the-structure-of-the-action-will",
+      "primary_locator": "Hua XXVIII, Part III § 16",
+      "term": "will-continuity / welling-up",
+      "status": "introduced",
+      "claim": "In the will-continuities belonging to each time-point the willing-moments do not lie side by side but stand in continuous relations of welling-up-out-of-one-another, so that the action-will has a temporal structure analogous to that of inner time-consciousness.",
+      "quote": "in the will-continuities belonging to each time-point, the willing-moments do not lie side by side but stand in continuous relations of welling-up-out-of-one-another"
+    },
+    {
+      "id": "intentionalitaet/hua28/016",
+      "locator": "husserliana-28-vorlesungen-uber-ethik-und-wertlehre-commentary#h4-a-willing-in-the-original-sense-as-analogue-of-certain-belief-the-problematic-hy",
+      "primary_locator": "Hua XXVIII, Part III § 17 (a)",
+      "term": "Formenlehre of will-modalities",
+      "status": "introduced",
+      "claim": "Parallel to the pure Formenlehre of judgments in which the modifications of certain belief (holding-for-possible, holding-for-probable, doubting, questioning, deciding) also count as judging, there is in the will-sphere a pure Formenlehre of will-formations with respect to the will-acts and, parallel, to their correlates, the will-propositions and will-contents.",
+      "quote": "for these we have parallels in the will-sphere, where too there is a pure *Formenlehre* of will-formations taken in a wider sense, with respect to the will-acts and, parallel, to their correlates, the will-propositions and will-contents."
+    },
+    {
+      "id": "intentionalitaet/hua28/017",
+      "locator": "husserliana-28-vorlesungen-uber-ethik-und-wertlehre-commentary#h4-a-willing-in-the-original-sense-as-analogue-of-certain-belief-the-problematic-hy",
+      "primary_locator": "Hua XXVIII, Part III § 17 (a)",
+      "term": "problematic willing",
+      "status": "introduced",
+      "claim": "Instead of willing in the normal sense one can perform a practical consciousness akin to willing and characterized as a modification of a willing, in which the will-matter solicits itself as practically ought-to-be without a full will-certainty, the analogue of the problematic (possibility-)modalization of belief.",
+      "quote": "instead of willing in the normal sense, I can perform a practical consciousness akin to willing and essentially characterized as a modification of a willing — the will-matter solicits itself as practically ought-to-be"
+    },
+    {
+      "id": "intentionalitaet/hua28/018",
+      "locator": "husserliana-28-vorlesungen-uber-ethik-und-wertlehre-commentary#h4-b-the-will-question-as-analogue-of-the-being-question-toward-the-form-theory-of",
+      "primary_locator": "Hua XXVIII, Part III § 17 (b)",
+      "term": "will-question / being-question",
+      "status": "introduced",
+      "claim": "As the analogue of the being-question there is the practical will-question, and to the essence of the question belongs the aiming at an answer that fulfils itself in the actual answer, so that the will-question harbours in itself the intention upon a corresponding will-answer.",
+      "quote": "To the essence of the question belongs the aiming at an answer, and this aiming fulfills itself in the actual answer; so the will-question harbors in itself the intention upon a corresponding will-answer."
+    },
+    {
+      "id": "intentionalitaet/hua28/019",
+      "locator": "husserliana-28-vorlesungen-uber-ethik-und-wertlehre-commentary#h4-b-the-will-question-as-analogue-of-the-being-question-toward-the-form-theory-of",
+      "primary_locator": "Hua XXVIII, Part III § 17 (b)",
+      "term": "pre-predicative will-acts",
+      "status": "introduced",
+      "claim": "The decisive point is that before all assertions, in the emotive and specifically the will-sphere, analogues of the specifically doxic occurrences (doubt, question, deliberation, decision) already appear, and what their performance presupposes and newly brings in is a theme for difficult analyses of its own.",
+      "quote": "*before* all assertions, in the Gemüt- and specifically the will-sphere, analogues of the specifically doxic occurrences appear"
+    },
+    {
+      "id": "intentionalitaet/hua28/020",
+      "locator": "husserliana-28-vorlesungen-uber-ethik-und-wertlehre-commentary#h4-c-the-analogies-between-theoretical-and-practical-deliberating-deciding-and-surm",
+      "primary_locator": "Hua XXVIII, Part III § 17 (c)",
+      "term": "choice as performance of a will-question",
+      "status": "introduced",
+      "claim": "A practical deliberation is nothing other than the performance of a will-question together with the modifications and supplementations of the questioning acts that lie on the way to deciding it, and the concluding will-answer to a disjunctive practical question is what we call the choice.",
+      "quote": "A practical deliberation is nothing other than the performance of a will-question, and not only that but, following upon it, the performance of those modifications and supplementations of the questioning acts that lie on the way to the deciding of the question"
+    },
+    {
+      "id": "intentionalitaet/hua28/021",
+      "locator": "husserliana-28-vorlesungen-uber-ethik-und-wertlehre-commentary#h4-d-affirmation-and-negation-in-the-belief-domain-and-in-the-will-domain",
+      "primary_locator": "Hua XXVIII, Part III § 17 (d)",
+      "term": "affirmation and negation as modalizations",
+      "status": "revised",
+      "claim": "Against older logic, which conflates position with affirmation, the consciousness 'it is not' expresses phenomenologically a rejection that points back in itself to an 'it is', a not-actually-performed position whose own structure contains no such back-pointing, so that negation and affirmation are modalizations set over against the primal belief.",
+      "quote": "the consciousness \"It is not\" expresses, not only linguistically but phenomenologically, a rejection that points back in itself to an \"It is,\" to a position — not actually performed — whose structure does not in turn contain a back-pointing"
+    },
+    {
+      "id": "intentionalitaet/hua28/022",
+      "locator": "husserliana-28-vorlesungen-uber-ethik-und-wertlehre-commentary#h4-d-affirmation-and-negation-in-the-belief-domain-and-in-the-will-domain",
+      "primary_locator": "Hua XXVIII, Part III § 17 (d)",
+      "term": "will-negation / omission",
+      "status": "introduced",
+      "claim": "The willing rejection of the 'I will not' implies a positive will-solicitation and is a willful crossing-out of a not-performed but soliciting 'I will', and a special case of such will-rejection is omission (Unterlassung), which is not the mere privative performing of no will at all.",
+      "quote": "the willing rejection of the \"I will not\" implies a positive will-solicitation; it is a willful crossing-out of a not-performed but soliciting \"I will.\""
+    },
+    {
+      "id": "intentionalitaet/hua28/023",
+      "locator": "husserliana-28-vorlesungen-uber-ethik-und-wertlehre-commentary#h3-s-21-the-objectivity-of-the-practical-possibilities-and-their-relativity-to-the",
+      "primary_locator": "Hua XXVIII, Part IV § 21",
+      "term": "subject-relativity of practical possibilities",
+      "status": "introduced",
+      "claim": "Unlike an objective truth, which is truth in itself and relative to no judging subject, what is a practical possibility for one subject need not be one for another: practical possibilities are essentially referred to the will-capable subject and its momentary field of efficacy.",
+      "quote": "what is a practical possibility for me need not be one for everyone else: practical possibilities are essentially referred to the will-capable subject."
+    },
+    {
+      "id": "intentionalitaet/hua28/024",
+      "locator": "husserliana-28-vorlesungen-uber-ethik-und-wertlehre-commentary#h3-s-21-the-objectivity-of-the-practical-possibilities-and-their-relativity-to-the",
+      "primary_locator": "Hua XXVIII, Part IV § 21",
+      "term": "insight as saturation of the intention",
+      "status": "introduced",
+      "claim": "The originary consciousness of rightness that lies in the reason-judgment itself and that an external spectator recomputing the judgment does not perform represents a peculiar saturation of the judgment-intention, a saturation by the goal itself, an inner fulfilledness of the adequation of the meaning in the givenness of the meant, and it stands so in every act-domain including the will.",
+      "quote": "a peculiar saturation of the judgment-intention, a saturation by the goal itself, an inner fulfilledness of the adequation of the meaning in the givenness of the meant."
+    }
+  ],
+  "absences": []
+}

@@ -1,0 +1,81 @@
+{
+  "schema_version": 1,
+  "commentary": "husserliana-9-phenomenological-psychology-commentary",
+  "source_sha256": "668c7a551f240c6b325a909d5e9a3a0b2edff78d29009d73c83a9f11bd08b350",
+  "extracted_at": "2026-09-09",
+  "extractor": {
+    "agent": "claude-code",
+    "prompt": "Extract inheritance engagements: where Husserl engages predecessors on intentionality and descriptive psychology in Husserliana 9 editors' introduction",
+    "note": "Partial pass focused on sections d-e presenting Husserl's engagements with Brentano (doctrine of intentionality, differences on methodology) and Dilthey (descriptive-analytic psychology)."
+  },
+  "coverage": "partial",
+  "coverage_note": "Covers sections d-e: historical engagement with Brentano's discovery of intentionality and Husserl's methodological departures; positioning vis-à-vis empirical and eidetic approaches. Not covered: engagement with Leibniz-Wolff school, Kant's critique, or section f on transcendental extension.",
+  "engagements": [
+    {
+      "id": "inh/hua9/001",
+      "locator": "husserliana-9-phenomenological-psychology-commentary#h4-d-brentano-as-pioneer-for-the-investigation-in-inner-experience-discovery-of-int",
+      "predecessor": {
+        "author": "Brentano",
+        "text": "Doctrine of intentionality as fundamental character of consciousness"
+      },
+      "mode": "acknowledged-debt",
+      "claim": "Husserl credits Brentano with discovering intentionality as the fundamental character of consciousness through inner experience, establishing it as the basis for descriptive psychology.",
+      "quote": "Husserl thus crowns Brentano with the historical achievement of *intentionality as the fundamental character of consciousness*."
+    },
+    {
+      "id": "inh/hua9/002",
+      "locator": "husserliana-9-phenomenological-psychology-commentary#h4-d-brentano-as-pioneer-for-the-investigation-in-inner-experience-discovery-of-int",
+      "predecessor": {
+        "author": "Brentano",
+        "text": "Descriptive psychology and intentional analysis"
+      },
+      "mode": "polemical-rejection",
+      "claim": "Brentano opened the path but did not work out the methodology of intentional analysis; Husserl's task was to complete what Brentano left undone.",
+      "quote": "Brentano *opened* the path but did not work out the methodology of intentional analysis; what remained was for Husserl to do this."
+    },
+    {
+      "id": "inh/hua9/003",
+      "locator": "husserliana-9-phenomenological-psychology-commentary#h4-d-brentano-as-pioneer-for-the-investigation-in-inner-experience-discovery-of-int",
+      "predecessor": {
+        "author": "Dilthey",
+        "text": "Descriptive-analytic psychology as foundational discipline"
+      },
+      "mode": "acknowledged-debt",
+      "claim": "Husserl recognizes Dilthey's demand for purely descriptive psychology as a foundational discipline for the human sciences, and identifies convergence between his phenomenology and Dilthey's program.",
+      "quote": "the *Logical Investigations*, although they had arisen outside all relation to his writings, with great joy and saw in them a *first concrete execution* of his \"Ideas Concerning a Descriptive and Analytic Psychology.\""
+    },
+    {
+      "id": "inh/hua9/004",
+      "locator": "husserliana-9-phenomenological-psychology-commentary#h4-d-brentano-as-pioneer-for-the-investigation-in-inner-experience-discovery-of-int",
+      "predecessor": {
+        "author": "Dilthey",
+        "text": "Psychology and philosophical method in the Geisteswissenschaften"
+      },
+      "mode": "acknowledged-debt",
+      "claim": "Husserl later recognized that Dilthey's writings contain an inspired pre-view and pre-stage of phenomenology, offering valuable concrete stimuli for phenomenological work despite lack of strict methodological form.",
+      "quote": "His writings contain an inspired *pre-view* and *pre-stage* of phenomenology. They are by no means antiquated; even today they remain overrich in most valuable concrete stimuli for work in the methodologically advanced and, in its whole problematic, differently shaped phenomenology."
+    },
+    {
+      "id": "inh/hua9/005",
+      "locator": "husserliana-9-phenomenological-psychology-commentary#h4-e-the-further-development-of-the-thought-of-intentionality-in-the-logical-invest",
+      "predecessor": {
+        "author": "Brentano",
+        "text": "Conceptual naturalism in treatment of psychology"
+      },
+      "mode": "polemical-rejection",
+      "claim": "Husserl identifies Brentano as still operating within naturalistic assumptions about consciousness, failing to recognize intentional implication and analysis as distinct from physical combination.",
+      "quote": "Even Brentano was, in the indicated sense, a naturalist: something like *intentional implication* and *intentional analysis* as the analysis of possibly continuously-into-one-another-wound sense-givings he had not yet seen."
+    },
+    {
+      "id": "inh/hua9/006",
+      "locator": "husserliana-9-phenomenological-psychology-commentary#h4-e-the-further-development-of-the-thought-of-intentionality-in-the-logical-invest",
+      "predecessor": {
+        "author": "Brentano",
+        "text": "Classificatory-descriptive consideration of intentional experiences"
+      },
+      "mode": "polemical-rejection",
+      "claim": "Brentano's approach remained externally classificatory-descriptive; the Logical Investigations advanced beyond this by asking how possible modes of consciousness correlate with objective categories.",
+      "quote": "Brentano had not gone beyond an externally classificatory-descriptive consideration of intentional experiences — or, what is the same, of *modes of consciousness*."
+    }
+  ]
+}

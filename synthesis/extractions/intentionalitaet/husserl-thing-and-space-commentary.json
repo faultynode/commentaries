@@ -1,0 +1,53 @@
+{
+  "schema_version": 1,
+  "theme": "intentionalitaet",
+  "commentary": "husserl-thing-and-space-commentary",
+  "source_sha256": "e0d0451d72ec96da3d81ae5556439940774ed1e7a51cb3d8a40eb1cf5affde23",
+  "extracted_at": "2026-09-09",
+  "extractor": {
+    "agent": "claude-code",
+    "prompt": "prompts/synthesis-pipeline/extraction-prompt.md",
+    "note": "Extraction focused on intentionality as essential determination of perception in Husserl's analysis of perception and spatial constitution. Key sections: §4 (intentionality as essential), §6 (real/intentional distinction), §11 (intentional relation), §32 (intention/fulfillment). Covers foundational aspects of perceptual intentionality in Thing and Space lectures."
+  },
+  "coverage": "partial",
+  "coverage_note": "Covers intentionality as essential determination of perception (§4), real/intentional content distinction (§6), intentional relation through identity-consciousness framework (§11), and intention/fulfillment in perceptual process (§32). Not covered: intentionality through kinaesthetic motivation (§§44-57), intentionality in spatial constitution (§§58ff).",
+  "units": [
+    {
+      "id": "intentionalitaet/husserl-thing-and-space/001",
+      "locator": "husserl-thing-and-space-commentary#h3-s4-intentionality-as-the-essential-determination-of-perception",
+      "primary_locator": "Thing and Space, §4",
+      "term": "intentionality / essential determination of perception",
+      "status": "introduced",
+      "claim": "Intentionality is the essential character of perception: to perceive is to be consciousness of an object. Perception is distinguished from other consciousness-types (phantasy, image, thought) not by intentionality itself but by the mode of givenness—presence in the flesh.",
+      "quote": "the relation to the object constitutes an essential character of perception"
+    },
+    {
+      "id": "intentionalitaet/husserl-thing-and-space/002",
+      "locator": "husserl-thing-and-space-commentary#h3-s6-assertions-about-perceptions-and-assertions-about-perceived-objects-real-reel",
+      "primary_locator": "Thing and Space, §6",
+      "term": "intentional content / real (reell) content distinction",
+      "status": "introduced",
+      "claim": "The real content of perception (what belongs phenomenologically to the perception) must be distinguished from its intentional content (what the perception presents as properties of the object). The perceiving subject has parts that the perceived object does not: the perception is not itself a surface.",
+      "quote": "The real content and the intentional content are rigorously distinct. The color-datum in the perception is not the color of the object; the spatial extension of the pre-empirical visual field is not the spatial extension of the thing."
+    },
+    {
+      "id": "intentionalitaet/husserl-thing-and-space/003",
+      "locator": "husserl-thing-and-space-commentary#h3-s11-resolution-of-a-difficulty-even-intentional-components-of-perception-given-i",
+      "primary_locator": "Thing and Space, §11",
+      "term": "intentional relation / identity-consciousness / immanent determination",
+      "status": "introduced",
+      "claim": "The intentional relation to an object is reconceived as the fittingness of consciousness to found identity-consciousness or difference-consciousness with other perceptions. Intending an object is an immanent determination of consciousness itself, grounded in essence.",
+      "quote": "It is an immanent determination of the consciousness itself"
+    },
+    {
+      "id": "intentionalitaet/husserl-thing-and-space/004",
+      "locator": "husserl-thing-and-space-commentary#h3-s32-intention-and-fulfillment-in-the-perceptual-process-increase-and-decrease-of",
+      "primary_locator": "Thing and Space, §32",
+      "term": "intention / fulfillment / degrees of givenness",
+      "status": "introduced",
+      "claim": "Perceptual intention is directed toward increasingly complete givenness of the object. As perception proceeds, intentions for fuller presentation are continuously set out and fulfilled, with degrees of completeness ranging from partial and unclear presentations toward optimal givenness.",
+      "quote": "The incomplete presentation is already a consciousness of givenness"
+    }
+  ],
+  "absences": []
+}

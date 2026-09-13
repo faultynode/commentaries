@@ -1,0 +1,141 @@
+{
+  "schema_version": 1,
+  "commentary": "husserl-krisis-commentary",
+  "source_sha256": "2b88ec8e52006ce7c22903c868cc8d32c8b5f43eb0dccec8e1c9e78f0a55c845",
+  "extracted_at": "2026-09-09",
+  "extractor": {
+    "agent": "claude-code",
+    "prompt": "prompts/inheritance-prompt.md",
+    "note": "source_sha256 is the LF digest (CRLF checkout; local validate reports a false staleness, CI on LF passes). Part II of the Crisis is a history of modern philosophy; retrieval keyed on predecessor names, closely read § 9 (Galileo), §§ 16-25 (Descartes, Locke, Berkeley, Hume, Leibniz/Wolff, Kant), and §§ 27-31 (Kant's presuppositions and the regressive method). Not read for this pass: §§ 1-8, 10-15, 26, 32-73 in detail. One record per commentary covering all predecessors."
+  },
+  "coverage": "partial",
+  "coverage_note": "Covers the Crisis's genealogy of modern philosophy: Galileo (the mathematization of nature that idealizes nature into a mathematical manifold and forgets the life-world), Descartes (primal-founder of both objectivistic rationalism and the transcendental motive; the epoché of unprecedented radicalism whose great discovery slipped away; the psychologistic falsification of the pure ego by identifying it with the soul; the undeveloped moment of intentionality), Locke (blindness to the Cartesian epoché and to intentionality, the soul as a self-enclosed real, the writing-tablet), Berkeley (bodies reduced to sensory-data complexes), Hume (all categories of objectivity as fictions, ending in a self-cancelling solipsism, yet whose Treatise brings to light the world-riddle of a being out of subjective performance), Leibniz and the Wolffian school (the rationalistic line and the method more geometrico reaching into a transcendent in-itself), and Kant (the first executed universal transcendental philosophy and the pre-discovery of the doubly functioning understanding, but who never engaged the depths of the Cartesian consideration, presupposed the life-world unexamined, and whose regressive method and thing-in-itself cannot ground the transcendental motive). Not covered: the detailed engagements of §§ 1-8 and the post-Kantian idealists.",
+  "engagements": [
+    {
+      "id": "inh/krisis/001",
+      "locator": "husserl-krisis-commentary#h3-s-9-galileo-s-mathematization-of-nature",
+      "primary_locator": "Crisis § 9",
+      "predecessor": { "author": "Galileo Galilei" },
+      "mode": "destructive-appropriation",
+      "claim": "In the Galilean mathematization of nature, nature itself is idealized under the guidance of the new mathematics and becomes itself a mathematical manifold, a founding deed whose meaning and whose forgetting of the life-world as its meaning-fundament Husserl reconstructs and dismantles.",
+      "quote": "In the Galilean mathematization of nature, however, nature itself is idealized under the guidance of the new mathematics; it becomes — expressed in modern terms — itself a mathematical manifold."
+    },
+    {
+      "id": "inh/krisis/002",
+      "locator": "husserl-krisis-commentary#h3-s-16-descartes-as-primal-founder-both-of-the-modern-idea-of-objectivistic-ration",
+      "primary_locator": "Crisis § 16",
+      "predecessor": { "author": "René Descartes", "text": "Meditationes de prima philosophia" },
+      "mode": "destructive-appropriation",
+      "claim": "Descartes, turning the philosophizing ego back upon itself with the Meditations, is the primal-founding genius of the entire modern philosophy in a way that contains both the founding gesture of modern objectivistic rationalism and the seed of the transcendental motive that will ultimately blow it apart.",
+      "quote": "he does so, Husserl will argue, in a way that contains both the founding gesture of modern objectivistic rationalism and the seed of the transcendental motive that will ultimately blow it apart."
+    },
+    {
+      "id": "inh/krisis/003",
+      "locator": "husserl-krisis-commentary#h3-s-17-descartes-return-to-the-ego-cogito-interpretation-of-the-cartesian-epoche",
+      "primary_locator": "Crisis § 17",
+      "predecessor": { "author": "René Descartes" },
+      "mode": "destructive-appropriation",
+      "claim": "The Cartesian epoché is of an unprecedented radicalism, encompassing not only all previous sciences including mathematics but even the pre- and extra-scientific life-world, yet the first Meditations contain a depth so hard to exhaust that Descartes let the great discovery he already held in his hands slip away again.",
+      "quote": "the first Meditations contain a depth so hard to exhaust that even Descartes could not do it — so little that he let the great discovery he already held in his hands slip away again."
+    },
+    {
+      "id": "inh/krisis/004",
+      "locator": "husserl-krisis-commentary#h3-s-18-descartes-self-misinterpretation-the-psychologistic-falsification-of-the-pu",
+      "primary_locator": "Crisis § 18",
+      "predecessor": { "author": "René Descartes" },
+      "mode": "polemical-rejection",
+      "claim": "A hidden ambiguity in the Cartesian thoughts brings a breach of consistency through the identification of the ego of the epoché with the pure soul, which devalues the great discovery of this ego by an absurd substitution, since a pure soul has no meaning in the epoché except as 'phenomenon'.",
+      "quote": "A breach of consistency has entered through the identification of the ego of the epoché with the pure soul."
+    },
+    {
+      "id": "inh/krisis/005",
+      "locator": "husserl-krisis-commentary#h3-s-20-intentionality-in-descartes",
+      "primary_locator": "Crisis § 20",
+      "predecessor": { "author": "René Descartes" },
+      "mode": "acknowledged-debt",
+      "claim": "The founding first Meditations were actually a piece of psychology in which a most significant but quite undeveloped moment is to be highlighted, intentionality, which makes up the essence of egological life, though there is no real posing and treatment of the theme.",
+      "quote": "A most significant but quite undeveloped moment is to be highlighted: intentionality, which makes up the essence of egological life."
+    },
+    {
+      "id": "inh/krisis/006",
+      "locator": "husserl-krisis-commentary#h3-s-22-locke-s-naturalistic-epistemological-psychology",
+      "primary_locator": "Crisis § 22",
+      "predecessor": { "author": "John Locke", "text": "An Essay Concerning Human Understanding" },
+      "mode": "polemical-rejection",
+      "claim": "Locke senses nothing of the depths of the Cartesian epoché, makes no use of the introduction of cogitatio as cogitatio of cogitata (intentionality) and is blind to the whole distinction, and grasps the soul as a self-enclosed real like a body, in his famous simile a writing tablet on which psychic data come and go.",
+      "quote": "Locke makes no use of the Cartesian first introduction of *cogitatio* as *cogitatio* of *cogitata* — of intentionality. He is blind to the entire distinction. The soul is grasped as a self-enclosed real, like a body; in his famous simile, like a writing tablet on which psychic data come and go."
+    },
+    {
+      "id": "inh/krisis/007",
+      "locator": "husserl-krisis-commentary#h3-s-23-berkeley-david-hume-s-psychology-as-fictionalistic-epistemology-the-bankrup",
+      "primary_locator": "Crisis § 23",
+      "predecessor": { "author": "George Berkeley" },
+      "mode": "polemical-rejection",
+      "claim": "Continuing Locke's sensualism, Berkeley reduces the corporeal things appearing in natural experience to the complexes of sensory data themselves.",
+      "quote": "Berkeley reduces the corporeal things appearing in natural experience to the complexes of sensory data themselves."
+    },
+    {
+      "id": "inh/krisis/008",
+      "locator": "husserl-krisis-commentary#h3-s-23-berkeley-david-hume-s-psychology-as-fictionalistic-epistemology-the-bankrup",
+      "primary_locator": "Crisis § 23",
+      "predecessor": { "author": "David Hume", "text": "A Treatise of Human Nature" },
+      "mode": "polemical-rejection",
+      "claim": "Hume goes to the end: all categories of objectivity, scientific and pre-scientific, are fictions (mathematical concepts, the identity of bodies and persons, causality), so that the world in general and objective science transform into fiction and Hume in truth ends in a solipsism that, like all skepticism, cancels itself.",
+      "quote": "Hume goes to the end: all categories of objectivity — scientific and pre-scientific — are fictions."
+    },
+    {
+      "id": "inh/krisis/009",
+      "locator": "husserl-krisis-commentary#h3-s-24-the-genuine-philosophical-motive-of-the-shattering-of-objectivism-hidden-in",
+      "primary_locator": "Crisis § 24",
+      "predecessor": { "author": "David Hume" },
+      "mode": "acknowledged-debt",
+      "claim": "Hume's Treatise is so great a historical event because empiricist skepticism brought to light what lay undeveloped in the Cartesian consideration: the world-riddle in the deepest sense, the riddle of a world whose being is being out of subjective performance, is Hume's problem and nothing else, though Kant never pressed forward to this riddle itself.",
+      "quote": "The world-riddle in the deepest and ultimate sense — the riddle of a world whose being is being out of subjective performance — this and nothing else is Hume's problem. Kant, however, never pressed forward to this riddle itself."
+    },
+    {
+      "id": "inh/krisis/010",
+      "locator": "husserl-krisis-commentary#h3-s-21-descartes-as-point-of-departure-for-the-two-lines-of-development-rationalis",
+      "primary_locator": "Crisis § 21",
+      "predecessor": { "author": "Gottfried Wilhelm Leibniz" },
+      "mode": "acknowledged-debt",
+      "claim": "The rationalistic line of development from Descartes proceeds through Malebranche, Spinoza, Leibniz, through the Wolffian school to Kant as the turning point, unfolding the conviction that the method more geometrico can realize an absolutely grounded universal cognition of the world thought as a transcendent in-itself.",
+      "quote": "The rationalistic line proceeds through Malebranche, Spinoza, Leibniz, through the Wolffian school to Kant, the turning point."
+    },
+    {
+      "id": "inh/krisis/011",
+      "locator": "husserl-krisis-commentary#h3-s-25-the-transcendental-motive-in-rationalism-kant-s-conception-of-a-transcenden",
+      "primary_locator": "Crisis § 25",
+      "predecessor": { "author": "Immanuel Kant", "text": "Kritik der reinen Vernunft" },
+      "mode": "acknowledged-debt",
+      "claim": "Kant's system is the first and, in inspiring scientific seriousness, executed attempt at a really universal transcendental philosophy intended as strict science, undertaking to show that the intuitively appearing world must already be a formation of the capacities pure intuition and pure reason.",
+      "quote": "Kant's system is the first and, in inspiring scientific seriousness, executed attempt at a really universal transcendental philosophy, intended as strict science."
+    },
+    {
+      "id": "inh/krisis/012",
+      "locator": "husserl-krisis-commentary#h3-s-25-the-transcendental-motive-in-rationalism-kant-s-conception-of-a-transcenden",
+      "primary_locator": "Crisis § 25",
+      "predecessor": { "author": "Immanuel Kant" },
+      "mode": "destructive-appropriation",
+      "claim": "For Kant the intuitive corporeal world and the natural-scientific world altogether are subjective formation of our intellect, with the proviso that the material of sensory data stems from a transcendent affection by things in themselves in principle inaccessible to cognition, a transcendental motive Husserl takes over while dismantling the thing-in-itself and the regressive method.",
+      "quote": "Like the intuitive corporeal world, the natural-scientific world altogether is subjective formation of our intellect, only with the proviso that the material of sensory data stems from a transcendent affection by \"things in themselves\""
+    },
+    {
+      "id": "inh/krisis/013",
+      "locator": "husserl-krisis-commentary#h3-s-27-the-philosophy-of-kant-and-his-successors-in-the-perspective-of-our-guiding",
+      "primary_locator": "Crisis § 27",
+      "predecessor": { "author": "Immanuel Kant" },
+      "mode": "polemical-rejection",
+      "claim": "Kant's system is transcendental-philosophical in the general sense but far from achieving a really radical grounding of philosophy, because Kant never engaged the enormous depths of the Cartesian fundamental consideration.",
+      "quote": "Kant never engaged the enormous depths of the Cartesian fundamental consideration."
+    },
+    {
+      "id": "inh/krisis/014",
+      "locator": "husserl-krisis-commentary#h3-s-28-kant-s-unspoken-presupposition-the-self-evidently-valid-surrounding-life-wo",
+      "primary_locator": "Crisis § 28",
+      "predecessor": { "author": "Immanuel Kant" },
+      "mode": "polemical-rejection",
+      "claim": "Kant has no awareness that his own philosophizing rests on unquestioned presuppositions: presupposed by the Kantian questions is the everyday life-world as existing, along with the sciences as cultural facts in this world, and his great pre-discovery of the doubly functioning understanding could never be grounded by his merely regressive method.",
+      "quote": "Presupposed by the Kantian questions is the everyday life-world as existing"
+    }
+  ]
+}

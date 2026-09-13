@@ -1,0 +1,123 @@
+{
+  "schema_version": 1,
+  "commentary": "husserl-formal-and-transcendental-logic-commentary",
+  "source_sha256": "04e5753e083caeb49e03ab9548070ef879b6571320ae58ffdca2c89992f8f95b",
+  "extracted_at": "2026-09-09",
+  "extractor": {
+    "agent": "claude-code",
+    "prompt": "prompts/inheritance-prompt.md",
+    "note": "source_sha256 is the LF digest (CRLF checkout; local validate reports a false staleness, CI on LF passes). Predecessor engagement is concentrated in the Introduction (Plato, Descartes, Kant, Locke, Lotze) and in short sections of Part I and Part II (Leibniz § 23b, Bolzano § 26d, Riemann § 30, Descartes § 93b, Hume/Kant § 100). Not read for this pass: the technical apophantic-analytics chapters and the transcendental-phenomenology conclusion in detail. One record per commentary covering all predecessors."
+  },
+  "coverage": "partial",
+  "coverage_note": "Covers Formal and Transcendental Logic's engagement with predecessors: Plato (the founding of logic as the site of investigating genuine knowing, and the renewal of the old Platonic idea of genuine science from absolute grounding), Descartes (the First Philosophy of the Meditations as the model of a radical universal science-theory, whose first attempt failed under unnoticed prejudices, and who fixed the Ego as a first bit of the world and missed its transcendental sense), Kant (whose transcendental investigation remained far from concrete analysis of cognition, and who, dependent on Hume, did not put transcendental questions to formal logic), Hume (who did not raise the transcendental problem of the constitution of ideal objectualities), Locke (whose psychology of cognition failed through its absurd sensualism), Lotze (whose saying that the task of cognition is to understand and not merely to calculate is claimed for logic), Leibniz (the idea of the mathesis universalis as a broader analytics unifying syllogistic and formal mathematics), Bolzano (the anticipation of the objectivity and ideality of propositions, with an undeveloped formal ontology), and Riemann (the mathematical manifold as the implementation of the formal object-domain). Not covered: the detailed technical engagements of the apophantic-analytics chapters.",
+  "engagements": [
+    {
+      "id": "inh/ftl/001",
+      "locator": "husserl-formal-and-transcendental-logic-commentary#h2-introduction",
+      "primary_locator": "FTL, Introduction",
+      "predecessor": { "author": "Plato" },
+      "mode": "acknowledged-debt",
+      "claim": "Science in a new, rigorous sense first arises from the Platonic founding of logic, conceived as a site for investigating the essential requirements of genuine knowing, and the present work renews the old Platonic idea of genuine science from absolute grounding.",
+      "quote": "Science in a new, rigorous sense first arises from the Platonic founding of logic"
+    },
+    {
+      "id": "inh/ftl/002",
+      "locator": "husserl-formal-and-transcendental-logic-commentary#h2-introduction",
+      "primary_locator": "FTL, Introduction",
+      "predecessor": { "author": "René Descartes", "text": "Meditationes de prima philosophia" },
+      "mode": "acknowledged-debt",
+      "claim": "The 'First Philosophy' of the Meditations is itself nothing other than expression of a completely radical and universal science-theory, and the present work attempts the bold path of the Cartesian Meditations.",
+      "quote": "the \"First Philosophy\" of the *Meditations* is itself nothing other than expression of a completely radical and universal science-theory."
+    },
+    {
+      "id": "inh/ftl/003",
+      "locator": "husserl-formal-and-transcendental-logic-commentary#h2-introduction",
+      "primary_locator": "FTL, Introduction",
+      "predecessor": { "author": "René Descartes" },
+      "mode": "polemical-rejection",
+      "claim": "The first attempt at such a most radical scientific grounding, that of Descartes himself, failed: unnoticed prejudices direct his meditations, so that as a whole they already lacked the power of conviction for his contemporaries.",
+      "quote": "Unnoticed prejudices direct his meditations, so that, taken as a whole, they already lacked the power of conviction for his contemporaries."
+    },
+    {
+      "id": "inh/ftl/004",
+      "locator": "husserl-formal-and-transcendental-logic-commentary#h5-b-the-missing-of-the-transcendental-sense-of-the-cartesian-reduction-to-the-ego",
+      "primary_locator": "FTL § 93(b)",
+      "predecessor": { "author": "René Descartes" },
+      "mode": "polemical-rejection",
+      "claim": "Already in Descartes the Ego is fixed through an absolute evidence as a first bit of the world (mens sive animus, substantia cogitans) with the rest inferred by logical procedure, so that Descartes operates with a naive a priori heritage and misses the properly transcendental sense of the Ego he discovered.",
+      "quote": "Descartes operates with a naive a priori heritage, with the naive presupposition of ontological and logical evidences for the treatment of the transcendental thematic. He misses the properly transcendental sense of the Ego he discovered."
+    },
+    {
+      "id": "inh/ftl/005",
+      "locator": "husserl-formal-and-transcendental-logic-commentary#h2-introduction",
+      "primary_locator": "FTL, Introduction",
+      "predecessor": { "author": "Immanuel Kant" },
+      "mode": "polemical-rejection",
+      "claim": "Kant's transcendental investigation of cognition had an aftereffect that remained far from all genuinely and concretely explicating analysis of cognition.",
+      "quote": "Kant's transcendental investigation of cognition had an aftereffect that remained far from all genuinely and concretely explicating analysis of cognition"
+    },
+    {
+      "id": "inh/ftl/006",
+      "locator": "husserl-formal-and-transcendental-logic-commentary#h4-s100-historical-critical-remarks-on-the-development-of-transcendental-philosophy",
+      "primary_locator": "FTL § 100",
+      "predecessor": { "author": "Immanuel Kant" },
+      "mode": "polemical-rejection",
+      "claim": "Kant, reactively dependent on Hume, did not put transcendental questions to formal logic, treating it as self-sufficient in its aprioricity, so that the transcendental problematic of formal logic (whose very title FTL takes over from him) was never adequately posed.",
+      "quote": "Kant, reactively dependent on Hume, did not put transcendental questions to formal logic, treating it as self-sufficient in its aprioricity."
+    },
+    {
+      "id": "inh/ftl/007",
+      "locator": "husserl-formal-and-transcendental-logic-commentary#h4-s100-historical-critical-remarks-on-the-development-of-transcendental-philosophy",
+      "primary_locator": "FTL § 100",
+      "predecessor": { "author": "David Hume" },
+      "mode": "polemical-rejection",
+      "claim": "Hume did not raise the transcendental problem of the constitution of ideal objectualities, and the anti-Platonism of the tradition, its refusal to recognize the objecthood of the ideal, has been the greatest obstacle to understanding genuine transcendental philosophy.",
+      "quote": "Hume did not raise the transcendental problem of the constitution of ideal objectualities."
+    },
+    {
+      "id": "inh/ftl/008",
+      "locator": "husserl-formal-and-transcendental-logic-commentary#h2-introduction",
+      "primary_locator": "FTL, Introduction",
+      "predecessor": { "author": "John Locke" },
+      "mode": "polemical-rejection",
+      "claim": "The psychology of cognition since Locke has completely failed, through its absurd sensualism, already as a properly psychological investigation, and Locke and the later psychologizing logicians could not distinguish psychological from transcendental investigation of cognition.",
+      "quote": "The psychology of cognition since Locke has completely failed, through its absurd sensualism — already as a properly psychological investigation."
+    },
+    {
+      "id": "inh/ftl/009",
+      "locator": "husserl-formal-and-transcendental-logic-commentary#h2-introduction",
+      "primary_locator": "FTL, Introduction",
+      "predecessor": { "author": "Hermann Lotze" },
+      "mode": "acknowledged-debt",
+      "claim": "Husserl invokes Lotze's famous saying that the highest task of cognition is not merely to calculate the course of the world but to understand it, and claims this word, mutatis mutandis, for logic.",
+      "quote": "Husserl invokes Lotze's famous saying that the highest task of cognition is not merely to calculate the course of the world but to understand it, and claims this word, mutatis mutandis, for logic."
+    },
+    {
+      "id": "inh/ftl/010",
+      "locator": "husserl-formal-and-transcendental-logic-commentary#h5-b-the-emergence-of-the-idea-of-an-extended-analytics-leibniz-s-mathesis-universa",
+      "primary_locator": "FTL § 23(b)",
+      "predecessor": { "author": "Gottfried Wilhelm Leibniz" },
+      "mode": "acknowledged-debt",
+      "claim": "With Leibniz emerges the idea of a broader analytics, a mathesis universalis, that would encompass not only the traditional syllogistic but also formal mathematics; Husserl takes over this vision of their unity while charging that its philosophical clarification remained inadequate.",
+      "quote": "With Leibniz emerges the idea of a broader analytics — a *mathesis universalis* — that would encompass not only the traditional syllogistic but also formal mathematics (arithmetic, algebra, analysis)."
+    },
+    {
+      "id": "inh/ftl/011",
+      "locator": "husserl-formal-and-transcendental-logic-commentary#h5-d-remark-on-bolzano-s-position-regarding-formal-ontology",
+      "primary_locator": "FTL § 26(d)",
+      "predecessor": { "author": "Bernard Bolzano", "text": "Wissenschaftslehre" },
+      "mode": "acknowledged-debt",
+      "claim": "Husserl notes that Bolzano anticipated some of these insights, particularly regarding the objectivity and ideality of propositions, but that his position regarding formal ontology was not sufficiently developed.",
+      "quote": "Husserl adds a brief note on Bolzano, who anticipated some of these insights — particularly regarding the objectivity and ideality of propositions — but whose position regarding formal ontology was not sufficiently developed."
+    },
+    {
+      "id": "inh/ftl/012",
+      "locator": "husserl-formal-and-transcendental-logic-commentary#h4-s30-the-manifold-theory-since-riemann",
+      "primary_locator": "FTL § 30",
+      "predecessor": { "author": "Bernhard Riemann" },
+      "mode": "terminological-borrowing",
+      "claim": "The mathematical concept of a manifold, a multiply extended magnitude governed by certain structural laws, provides the mathematical implementation of the idea of a formal object-domain, and since Riemann mathematicians have studied manifolds as formal structures abstractly, without reference to any particular realization.",
+      "quote": "The mathematical concept of a manifold — a multiply extended magnitude governed by certain structural laws — provides the mathematical implementation of the idea of a formal object-domain. Since Riemann, mathematicians have studied manifolds as formal structures abstractly"
+    }
+  ]
+}

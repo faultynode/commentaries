@@ -1,0 +1,59 @@
+{
+  "schema_version": 1,
+  "commentary": "heidegger-ga-24-die-grundprobleme-der-phanomenologie-commentary",
+  "source_sha256": "224be004aedc25744d4193201465722e6efe4c8c99c0b1c2a05764b01b51efad",
+  "extracted_at": "2026-09-09",
+  "extractor": {
+    "agent": "claude-code",
+    "prompt": "Extract inheritance engagements: where Heidegger engages predecessors on intentionality in GA 24 editors' introduction",
+    "note": "Partial pass focused on section §8c-9c documenting Heidegger's engagements with Scholasticism (historical attribution), Brentano (pioneering role), and especially Husserl (philosophical clarification and adequate grounding of intentionality)."
+  },
+  "coverage": "partial",
+  "coverage_note": "Covers section b-c: Heidegger's critical historical reconstruction of intentionality's transmission from Scholasticism through Brentano to Husserl, Heidegger's assessment of Husserl's philosophical achievement in the Logical Investigations and Ideas, and Heidegger's positioning of his own analysis relative to Husserl's phenomenological doctrine. Not covered: engagements with Kant, Descartes, or other philosophical positions in the full lecture course.",
+  "engagements": [
+    {
+      "id": "inh/hga24/001",
+      "locator": "heidegger-ga-24-die-grundprobleme-der-phanomenologie-commentary#h3-b-the-being-constitution-of-perception-intentionality-and-transcendence",
+      "predecessor": {
+        "author": "Scholasticism",
+        "text": "Doctrine of intentio in the will"
+      },
+      "mode": "acknowledged-debt",
+      "claim": "Phenomenology follows a Scholastic term in designating the structure of comportments as intentionality, though Scholasticism knew intentionality only regarding the will.",
+      "quote": "*Phenomenology designates this structure, following a Scholastic term, as intentionality.*"
+    },
+    {
+      "id": "inh/hga24/002",
+      "locator": "heidegger-ga-24-die-grundprobleme-der-phanomenologie-commentary#h3-b-the-being-constitution-of-perception-intentionality-and-transcendence",
+      "predecessor": {
+        "author": "Brentano",
+        "text": "Pioneering emphasis on intentionality in Psychology from an Empirical Standpoint"
+      },
+      "mode": "acknowledged-debt",
+      "claim": "Brentano opened the investigation of intentionality as a fundamental structure of psychic life.",
+      "quote": "emphasized intentionality more sharply and said that with respect to this structure — the manner of self-directing-toward something — the totality of psychic lived-experiences could and must be classified."
+    },
+    {
+      "id": "inh/hga24/003",
+      "locator": "heidegger-ga-24-die-grundprobleme-der-phanomenologie-commentary#h3-b-the-being-constitution-of-perception-intentionality-and-transcendence",
+      "predecessor": {
+        "author": "Husserl",
+        "text": "Philosophical clarification of the essence of intentionality"
+      },
+      "mode": "acknowledged-debt",
+      "claim": "Husserl for the first time philosophically clarified the essence of intentionality, establishing phenomenological foundations through the Logical Investigations and continuing this work in the Ideas.",
+      "quote": "Husserl is influenced, who for the first time in the *Logical Investigations* clarified the essence of intentionality and continues this clarification in the *Ideas*."
+    },
+    {
+      "id": "inh/hga24/004",
+      "locator": "heidegger-ga-24-die-grundprobleme-der-phanomenologie-commentary#h3-b-the-being-constitution-of-perception-intentionality-and-transcendence",
+      "predecessor": {
+        "author": "Husserl",
+        "text": "Phenomenological doctrine of intentionality as still inadequately grasped"
+      },
+      "mode": "polemical-rejection",
+      "claim": "Despite Husserl's philosophical grounding, the enigmatic phenomenon of intentionality remains philosophically inadequate and requires further clarification through phenomenological research.",
+      "quote": "Nevertheless it must be said: this enigmatic phenomenon of intentionality is far from being philosophically adequately grasped. Research concentrates precisely on seeing this phenomenon more clearly."
+    }
+  ]
+}

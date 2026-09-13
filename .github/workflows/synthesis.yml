@@ -41,6 +41,12 @@ jobs:
       - name: Validate records against the commentaries
         run: python3 scripts/synthesis_validate.py
 
+      # The lexicon is retrieval apparatus and cannot fail a claim, but its
+      # attested renderings name a section and assert what is in it - the
+      # same kind of statement, so it gets the same audit.
+      - name: Check the term lexicon
+        run: python3 scripts/synthesis_lexicon.py --check
+
   rebuild:
     if: github.event_name != 'pull_request'
     needs: validate
