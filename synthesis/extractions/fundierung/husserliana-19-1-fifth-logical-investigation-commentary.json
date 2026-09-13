@@ -1,0 +1,81 @@
+{
+  "schema_version": 1,
+  "theme": "fundierung",
+  "commentary": "husserliana-19-1-fifth-logical-investigation-commentary",
+  "source_sha256": "481ad7323da6ba1f2a4c7dc3e8a9b60a2e5b201db5c01ed34842809e11508c8e",
+  "extracted_at": "2026-09-12",
+  "extractor": {
+    "agent": "claude-code",
+    "prompt": "Extract founding relations in Husserl's Fifth Logical Investigation, focusing on how higher acts (joy, desire, judgment) are founded in underlying presentation acts, how material distinctions depend on founding presentations, how objectivating acts ground all intentionality, and the stratified nature of complex acts.",
+    "note": "Partial extraction covering §§18, 23, 32, 35, 37-39, 41-42 on the foundational structure of intentional acts. Focuses on: (1) joy founded in judgment-act; (2) feeling and willing founded on presentations; (3) double sense of presentation (act vs. matter); (4) nominal positing as modification of judgment; (5) objectivating act as primary act-kind; (6) qualitative modification of positing acts; (7) presentation-essence as foundation for all act-quality; (8) composite acts requiring objectivating quality. Not covered: detailed analysis of expressions (§§1-16), the evidence-problematic (§§27-30), imaginative modification, full synthesis of nominal and propositional acts, or temporal constitution."
+  },
+  "coverage": "partial",
+  "coverage_note": "Extracts from central sections on the foundational doctrine of acts (§18 on simple/composite acts, §23 on matter as founding presentation, §32 on double sense of presentation, §35 on nominal-propositional distinction, §37-39 on objectivating acts and modifications, §41-42 on presentation-basis and composite act laws). Focuses on the asymmetric founding relations where higher-order intentional acts (emotions, judgments, nominalizations) depend necessarily on lower acts (perceptions, presentations, objectivations).",
+  "units": [
+    {
+      "id": "fundierung/husserliana-19-1/001",
+      "locator": "husserliana-19-1-fifth-logical-investigation-commentary#h3-s18-simple-and-composite-founding-and-founded-acts",
+      "term": "Judgment as founding act for emotional acts",
+      "status": "presupposed",
+      "claim": "Joy and other emotional acts are founded on and determined by an underlying judgment-act; the judgment realizes the abstract possibility of the emotion, and without such founding the emotional act cannot exist at all.",
+      "quote": "the judgment is the *founding* act for the joy, it determines its content, *realizes its abstract possibility* — for *without* such founding, joy cannot be at all"
+    },
+    {
+      "id": "fundierung/husserliana-19-1/002",
+      "locator": "husserliana-19-1-fifth-logical-investigation-commentary#h3-s23-the-conception-of-matter-as-a-founding-act-of-mere-presenting",
+      "term": "Non-objectivating acts founded in presentations",
+      "status": "presupposed",
+      "claim": "Feeling, desiring, and other non-objectivating act-characters are not full self-sufficient acts but are founded in objectivating presentation-acts; they cannot unfold intentional relation to an objective without intimate interweaving with a presentation.",
+      "quote": "These new intentional characters are evidently *not* to be grasped as *full and self-sufficient acts*. They are not thinkable without the objectivating presentation-act, hence *founded* in it."
+    },
+    {
+      "id": "fundierung/husserliana-19-1/003",
+      "locator": "husserliana-19-1-fifth-logical-investigation-commentary#h3-s23-the-conception-of-matter-as-a-founding-act-of-mere-presenting",
+      "term": "Desired object unthinkable without underlying presentation",
+      "status": "presupposed",
+      "claim": "A desired object cannot exist or be thought without being at the same time presented in an act of presenting; this foundational relation is an a priori essential law evident with apodictic evidence.",
+      "quote": "A *desired* object (or state of affairs) that were not, in and with the desiring, at the same time *presented*, not only does not actually occur but is *simply unthinkable*."
+    },
+    {
+      "id": "fundierung/husserliana-19-1/004",
+      "locator": "husserliana-19-1-fifth-logical-investigation-commentary#h3-s32-a-double-sense-of-the-word-presentation-and-the-supposed-evidence-of-the-pro",
+      "term": "Presentation in two senses: act and matter",
+      "status": "presupposed",
+      "claim": "The proposition that every act has a presentation as basis gains clarity through distinguishing two senses of presentation: act-quality (a specific kind of intentional experience) and act-matter (the content-moment that determines objective relation).",
+      "quote": "The deception is grounded in the discussed *double sense* of presentation. In its first part the proposition speaks, rightly understood, of presentation in the sense of a certain *act-kind*; in the second, of presentation in the sense of the mere *act-matter*"
+    },
+    {
+      "id": "fundierung/husserliana-19-1/005",
+      "locator": "husserliana-19-1-fifth-logical-investigation-commentary#h3-s35-nominal-positing-and-judgment-whether-judgments-can-become-parts-of-nominal",
+      "term": "Nominal acts as modifications of predicative judgments",
+      "status": "presupposed",
+      "claim": "Nominal acts and complete predicative judgments possess different intentional essences and cannot be identified; the nominal meaning is a phenomenological modification of the judgment, not the judgment itself.",
+      "quote": "The difference is so sharply marked that we may not push it aside for theoretical prejudices or for the greater simplicity hoped for in the doctrine of presenting and judging. The *prior judging* is *not yet* the nominal meaning, which only *grows* out of it."
+    },
+    {
+      "id": "fundierung/husserliana-19-1/006",
+      "locator": "husserliana-19-1-fifth-logical-investigation-commentary#h3-s37-the-aim-of-the-following-investigation-the-concept-of-the-objectivating-act",
+      "term": "Objectivating acts as genus grounding all acts",
+      "status": "presupposed",
+      "claim": "All nominally and propositionally functioning acts belong to a comprehensive genus of objectivating acts unified by quality; despite their matter-differences (nominal vs. propositional), they share the same qualitative essence of objectification.",
+      "quote": "the distinction of \"basic classes\" of acts refers, as is at once clear, *only to the act-qualities*. We must further consider that from our expositions it does *not even* follow that nominal and propositional acts must be *of different quality at all*, let alone of different *quality-genus*."
+    },
+    {
+      "id": "fundierung/husserliana-19-1/007",
+      "locator": "husserliana-19-1-fifth-logical-investigation-commentary#h3-s39-presentation-in-the-sense-of-the-objectivating-act-and-its-qualitative-modif",
+      "term": "Qualitative modification: positing into non-positing",
+      "status": "presupposed",
+      "claim": "Every positing act (perception, memory, assertion) has a qualitative counterpart in a corresponding non-positing act that makes the same objectivity present in identical matter but withholds the being-positing; this modification is non-iterable and creates a unique connection.",
+      "quote": "To every act of *belief* there corresponds, as counterpart, a \"mere\" presentation, which makes the *same* objectivity present in exactly the same way (on the basis of an *identical matter*) as that act of belief"
+    },
+    {
+      "id": "fundierung/husserliana-19-1/008",
+      "locator": "husserliana-19-1-fifth-logical-investigation-commentary#h3-s41-new-interpretation-of-the-proposition-of-presentation-as-basis-of-all-acts-t",
+      "term": "Objectivating acts as sole bearers of intentional matter",
+      "status": "presupposed",
+      "claim": "Every intentional experience either is an objectivating act or has one as necessary basis; no act-quality can appropriate its matter except through an objectivating act interwoven into the unified whole, which thereby makes present the objectivity for all other acts.",
+      "quote": "no *act* — or rather no *act-quality* not itself of the objectivating kind — can *appropriate its matter* except by means of an objectivating act interwoven with it into *one* unified act"
+    }
+  ],
+  "absences": []
+}
