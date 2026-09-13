@@ -16,11 +16,12 @@ the form `GA 3:6980`. Those pointers are not pagination; they will drift on
 re-conversion. They are given so that every claim below can be checked against
 the same text I checked it against.
 
-Henry cites Heidegger's Kant book in the 1953 de Waelhens–Biemel French
+Henry cites Heidegger's Kant book in the de Waelhens–Biemel French
 translation, under the siglum *K*, and his page numbers are that translation's.
-The archive holds the German original (GA 3). All the alignments below therefore
-cross a translation boundary in the direction French → German, and I say so at
-each point where the direction matters. Renderings into English are my own
+The archive holds the German original (GA 3) and, since this article was first
+written, that translation as well; the alignments below were made from the
+German and have since been re-checked against the French, which is what allows
+§V to say what it now says about *affection par soi*. Renderings into English are my own
 working translations unless otherwise noted; one recurring choice needs flagging
 in advance, because it carries the argument. De Waelhens and Biemel render
 Heidegger's coinage *Gegenstehenlassen* [letting-stand-over-against] as
@@ -288,7 +289,20 @@ terminological. *Auto-affection* has been used equivocally, he says, to cover
 two things: *affection par soi* [affection *by* oneself], where what affects is
 the horizon one has oneself produced, and *affection de soi* [affection *of*
 oneself], where the essence receives itself without any horizon at all. Only the
-second deserves the name. And with the distinction in hand he rejects the
+second deserves the name.
+
+It is worth being exact about where that distinction comes from, because the
+obvious suspicion is that Henry found it in his translation. He did not. De
+Waelhens and Biemel render *Selbstaffektion* eighteen times for the German's
+eighteen occurrences — one for one, almost always as *affection pure de soi* —
+and the phrase *affection par soi* **does not occur in their translation at
+all**, against thirty-three occurrences in *L'essence de la manifestation*.[^b]
+There was no inconsistency in the French for Henry to exploit. The contrastive
+term on which the whole move depends is his own coinage, introduced to name the
+thing he is rejecting and then read back into Heidegger as one of two senses
+Heidegger had supposedly confused. That makes the passage stronger as philosophy
+and weaker as exegesis: the ambiguity Henry says he is resolving is one his own
+vocabulary creates. And with the distinction in hand he rejects the
 sentence he had quoted seven sections earlier, in Heidegger's own words:
 
 > Pour cette raison, il est faux de dire que «l'affection pure de soi… détermine…
@@ -465,8 +479,9 @@ the vocabulary in which it is stated, and — in the *Achtung* analysis — the
 nearest anticipation of the doctrine it is used to establish. Henry's reading of
 it is accurate and his critique of its circle is real. His inference from that
 circle to immanence is not compelled by the critique, and the concept he carries
-away keeps a name whose original sense his own thesis dissolves. That is not a
-refutation of Henry. It is a statement of what a defence of him would have to
+away keeps a name whose original sense his own thesis dissolves — and the term
+with which he pries the two senses apart turns out to be one he minted himself.
+That is not a refutation of Henry. It is a statement of what a defence of him would have to
 do: show that *affection* still means something when nothing stands over
 against.
 
@@ -548,6 +563,14 @@ Line pointers are into the archive text and will drift.
 [^5]: EM §15.
 
 [^6]: GA 3:1351, 1384, 1388, 1444–1445, 4530.
+
+[^b]: Counts over `heidegger-ga-3-kant-und-das-problem-der-metaphysik.md`
+    (*Selbstaffektion*, 18), `heidegger-kant-et-le-probleme-de-la-metaphysique.md`
+    — the de Waelhens–Biemel translation, distinct from the de Launay
+    retranslation also in the archive — (*affection … de soi* in all forms, 18;
+    *affection par soi*, 0), and `henry-lessence-de-la-manifestation.md`
+    (*affection par soi*, 33). The reading plan and full concordance are in the
+    sources repository at `sources/notes/ga-3-readers-guide-for-henry.md`.
 
 [^a]: `heidegger-sein-und-zeit.md`:5273, §68b (*Die Zeitlichkeit der
     Befindlichkeit*): «Nur Seiendes, das seinem Seinssinne nach sich befindet,
