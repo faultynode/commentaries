@@ -1,0 +1,113 @@
+{
+  "schema_version": 1,
+  "theme": "fundierung",
+  "commentary": "henry-philosophie-et-phenomenologie-du-corps-commentary",
+  "source_sha256": "7873678cba294a842ebb78cf1590f2f4f3c732a826b6741035ba102fe8b1f802",
+  "extracted_at": "2026-09-13",
+  "extractor": {
+    "agent": "claude-code",
+    "prompt": "Stage 1 extraction, theme fundierung, per docs/synthesis-operations.md P1.",
+    "note": "Founding in this commentary is ontological rather than act-theoretic: the formula is that immanence excludes transcendence from itself while founding it. The recurring pattern is one of asymmetric ontological dependence - the transcendent body on the subjective body, scientific relations on transcendental ones, psychology's judgments on the primitive fact of inner apperception."
+  },
+  "coverage": "partial",
+  "coverage_note": "The Introduction, Chapter I §§ 1-3, Chapter IV, Chapter VI and the Conclusion, at the places where the commentary states an ontological founding relation. Not covered: Chapter II (The Subjective Body), Chapter III (Movement and Sensing) in its three sections, and Chapter V (Cartesian Dualism).",
+  "units": [
+    {
+      "id": "fundierung/henry-corps/001",
+      "locator": "henry-philosophie-et-phenomenologie-du-corps-commentary#h2-introduction-the-apparent-contingency-of-the-question-concerning-the-body-and-th",
+      "term": "knowledges founded on originary knowledge",
+      "status": "introduced",
+      "claim": "Henry's reduction is specified so as to mark the boundaries between originary knowledge and the various knowledges founded on it.",
+      "quote": "the boundaries between originary knowledge and the various knowledges founded on it"
+    },
+    {
+      "id": "fundierung/henry-corps/002",
+      "locator": "henry-philosophie-et-phenomenologie-du-corps-commentary#h3-s-1-the-phenomenological-presuppositions-of-biranian-ontology",
+      "term": "founded judgments",
+      "status": "introduced",
+      "claim": "The judgments of psychology are founded judgments, or intuitive judgments, an expression marking that the judgment rests on something anterior and more primitive.",
+      "quote": "the judgments of psychology are founded judgments, or as he says intuitive judgments — an expression marking that the judgment rests on something anterior and more primitive"
+    },
+    {
+      "id": "fundierung/henry-corps/003",
+      "locator": "henry-philosophie-et-phenomenologie-du-corps-commentary#h3-s-2-the-transcendental-deduction-of-the-categories",
+      "term": "founded on other relations",
+      "status": "presupposed",
+      "claim": "The presence of a world to the ego is founded on a transcendental relation, and scientific relations are founded on other relations.",
+      "quote": "That presence is founded on a transcendental relation, and the world it delivers is not first a scientific structure. Scientific relations are founded on other relations"
+    },
+    {
+      "id": "fundierung/henry-corps/004",
+      "locator": "henry-philosophie-et-phenomenologie-du-corps-commentary#h3-s-3-the-theory-of-the-ego-and-the-problem-of-the-soul",
+      "term": "excludes while founding",
+      "status": "introduced",
+      "claim": "The ego's most original structure does not coincide with the manifestation of exteriority but excludes it from itself while founding it.",
+      "quote": "as not coinciding with the manifestation of exteriority but rather excluding it from itself while founding it"
+    },
+    {
+      "id": "fundierung/henry-corps/005",
+      "locator": "henry-philosophie-et-phenomenologie-du-corps-commentary#h2-chapter-iv-the-double-use-of-signs-and-the-problem-of-the-constitution-of-one-s",
+      "term": "Ontological dualism is the foundation",
+      "status": "introduced",
+      "claim": "The duality that splits the unity of the being of my body finds its foundation in the ontological structure of truth, and ontological dualism is the foundation of the double use of signs.",
+      "quote": "*Ontological dualism is the foundation of the double use of signs.*"
+    },
+    {
+      "id": "fundierung/henry-corps/006",
+      "locator": "henry-philosophie-et-phenomenologie-du-corps-commentary#h2-chapter-iv-the-double-use-of-signs-and-the-problem-of-the-constitution-of-one-s",
+      "term": "finds its foundation in absolute subjectivity",
+      "status": "presupposed",
+      "claim": "The unity of experience, of life and transcendent being, finds its foundation in the existence of an absolute subjectivity that transcends toward a world.",
+      "quote": "the unity of life and transcendent being, finds its foundation in the existence of an absolute subjectivity transcending toward a world"
+    },
+    {
+      "id": "fundierung/henry-corps/007",
+      "locator": "henry-philosophie-et-phenomenologie-du-corps-commentary#h2-chapter-iv-the-double-use-of-signs-and-the-problem-of-the-constitution-of-one-s",
+      "term": "constituted on the foundation of the original being of the subjective body",
+      "status": "introduced",
+      "claim": "The unity and the belonging to the ego of the transcendent body are constituted on the foundation of the original being of the subjective body, of its unity and its belonging to the ego.",
+      "quote": "the unity and belonging to the ego of the transcendent body are constituted on the foundation of the original being of the subjective body*, on the foundation of its unity and its belonging to the ego"
+    },
+    {
+      "id": "fundierung/henry-corps/008",
+      "locator": "henry-philosophie-et-phenomenologie-du-corps-commentary#h2-chapter-iv-the-double-use-of-signs-and-the-problem-of-the-constitution-of-one-s",
+      "term": "foundation of the organic body's belonging to the ego",
+      "status": "presupposed",
+      "claim": "The unity of the two bodies is affirmed at the same time as the foundation of the organic body's belonging to the ego appears, a foundation residing in the unity of absolute subjectivity.",
+      "quote": "a foundation residing precisely in its unity, which is the unity of absolute subjectivity, of the life of the ego itself"
+    },
+    {
+      "id": "fundierung/henry-corps/009",
+      "locator": "henry-philosophie-et-phenomenologie-du-corps-commentary#h2-chapter-iv-the-double-use-of-signs-and-the-problem-of-the-constitution-of-one-s",
+      "term": "image founded on the organic body",
+      "status": "presupposed",
+      "claim": "An image founded on the organic body gives a representation of our body richer than one relating only to the being of the objective body, and so is not lacunary.",
+      "quote": "so an image founded on the organic body offers a representation of our body infinitely richer and more complete than one relating only to the being of our objective body"
+    },
+    {
+      "id": "fundierung/henry-corps/010",
+      "locator": "henry-philosophie-et-phenomenologie-du-corps-commentary#h2-chapter-vi-critique-of-maine-de-biran-s-thought-the-problem-of-passivity",
+      "term": "a deeper power founding both",
+      "status": "introduced",
+      "claim": "The common root of acting and sensing is a deeper power founding both, namely habit, on which rests the unity of our corporeal life.",
+      "quote": "The common root of our acting and our sensing is a deeper power founding both: it is *habit*, on which rests the unity of our corporeal life"
+    },
+    {
+      "id": "fundierung/henry-corps/011",
+      "locator": "henry-philosophie-et-phenomenologie-du-corps-commentary#h2-chapter-vi-critique-of-maine-de-biran-s-thought-the-problem-of-passivity",
+      "term": "the only possible foundation of their distinction",
+      "status": "criticized",
+      "claim": "The ontological homogeneity of activity and passivity is the only possible foundation of their distinction, and Biranism, not recognizing it, cannot assign that difference a foundation.",
+      "quote": "*the ontological homogeneity of activity and passivity is the only possible foundation of their distinction*"
+    },
+    {
+      "id": "fundierung/henry-corps/012",
+      "locator": "henry-philosophie-et-phenomenologie-du-corps-commentary#h2-conclusion-the-ontological-theory-of-the-body-and-the-problem-of-incarnation-fle",
+      "term": "ontological possibility understood as foundation",
+      "status": "revised",
+      "claim": "The analysis of the body shows the connection between ontological possibility understood as foundation and original reality - not the reality rendered possible by the foundation but the reality of the foundation itself.",
+      "quote": "not the reality rendered possible by the foundation but the reality *of the foundation itself*"
+    }
+  ],
+  "absences": []
+}

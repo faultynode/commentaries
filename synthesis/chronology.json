@@ -122,7 +122,7 @@
       "status": "unresolved",
       "strata": [
         {
-          "id": "hua3-undated",
+          "id": "hua3-parts-3-4-undated",
           "label": "Date not stated in the commentary",
           "year_start": null,
           "year_end": null,
@@ -441,6 +441,21 @@
       ]
     },
     {
+      "commentary": "husserliana-43-2-studien-zur-struktur-des-bewusstseins-commentary",
+      "role": "primary",
+      "status": "unresolved",
+      "strata": [
+        {
+          "id": "hua43-2-undated",
+          "label": "Date not stated in the commentary",
+          "year_start": null,
+          "year_end": null,
+          "stated_in_commentary": false,
+          "evidence": "Frontmatter gives title and volume only; the commentary opens at Part I § 1 without dating the manuscripts or the volume. The 1908/09 ethics lectures are named in § 5 only as the place Husserl had earlier spoken of beauty-values, not as the date of this text."
+        }
+      ]
+    },
+    {
       "commentary": "husserliana-5-ideas-iii-commentary",
       "role": "primary",
       "status": "unresolved",
@@ -642,6 +657,21 @@
           "year_end": 1994,
           "stated_in_commentary": true,
           "evidence": "\"References are to the pagination of the Presses Universitaires de France edition (Épiméthée, 1994)\""
+        }
+      ]
+    },
+    {
+      "commentary": "lacan-seminar-11-the-four-fundamental-concepts-of-psychoanalysis-commentary",
+      "role": "primary",
+      "status": "resolved",
+      "strata": [
+        {
+          "id": "sem11-1964",
+          "label": "Seminar XI, delivered 1964 (first lesson 15 January 1964)",
+          "year_start": 1964,
+          "year_end": 1964,
+          "stated_in_commentary": true,
+          "evidence": "Title line: \"Commentary on Lacan, The Four Fundamental Concepts of Psychoanalysis (Seminar XI, 1964)\"; Lesson I is dated \"15 January 1964\" in the commentary's own text."
         }
       ]
     }

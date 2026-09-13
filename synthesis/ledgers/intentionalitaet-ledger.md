@@ -689,6 +689,132 @@
 
 *Partial pass: Covers Part 1 SS 4-10 and Part 2 SS 1-7 and SS 14-22 of the lecture course: the threefold intending/meaning/intended distinction, the ego as radiating pole, latent vs. patent intentionality, the objective sense as identical pole of a coinciding synthesis, the halo of emptiness and referential implications, esse/percipi and apperception, negation as an impressional overpowering, passive vs. active modalization, passive intention and associative synthesis, and intention toward self-giving. Not covered: Part 2 SS 8-13 (doubt, possibility), the rest of Division 2 (evidence), Part 3 (active synthesis, SS 48-54), the Supplementary Texts, and the Translator's Introduction.*
 
+### 1921 - Husserl, Hua 19/2 — Sixth Logical Investigation
+
+`husserliana-19-2-sixth-logical-investigation-commentary`
+
+- **introduced** · `intentionalitaet/lu6/001` · *meaning-intention / meaning-fulfilment*
+  The master-theme of the Sixth Investigation is the relation between meaning-intention and meaning-fulfilment, the contrast between an empty meaning-directedness and its intuitive fulfilment.
+  `husserliana-19-2-sixth-logical-investigation-commentary#h2-introduction` · Logical Investigations VI, Introduction · [Introduction](https://faultynode.github.io/commentaries/commentaries/husserl/husserliana-19-2-sixth-logical-investigation-commentary.html#introduction)
+  > This pair names the master-theme of the whole Investigation: the contrast between an empty meaning-directedness and its intuitive fulfilment.
+
+- **introduced** · `intentionalitaet/lu6/002` · *objectifying acts*
+  The objectifying acts are distinguished from all others in that the fulfilment-syntheses belonging to their sphere have the character of knowledge and of identification, the setting-into-one of what agrees.
+  `husserliana-19-2-sixth-logical-investigation-commentary#h2-introduction` · Logical Investigations VI, Introduction · [Introduction](https://faultynode.github.io/commentaries/commentaries/husserl/husserliana-19-2-sixth-logical-investigation-commentary.html#introduction)
+  > A class of acts — the *objectifying* acts (*die objektivierenden Akte*) — is distinguished from all others in that the fulfilment-syntheses belonging to their sphere have the character of *knowledge* (*Erkenntnis*), of *identification* (*Identifizierung*)
+
+- **introduced** · `intentionalitaet/lu6/003` · *fulfilment-consciousness*
+  Knowledge of the object and fulfilment of the meaning-intention express, merely from different standpoints, the same state of affairs, and the talk of fulfilment gives the phenomenological essence of the knowledge-relation its better-characterizing expression.
+  `husserliana-19-2-sixth-logical-investigation-commentary#h3-s-8-the-dynamic-unity-between-expression-and-expressed-intuition-the-fulfilment` · Logical Investigations VI, § 8 · [§ 8\. The dynamic unity between expression and expressed intuition. The fulfilment- and identity-consciousness](https://faultynode.github.io/commentaries/commentaries/husserl/husserliana-19-2-sixth-logical-investigation-commentary.html#the-dynamic-unity-between-expression-and-expressed-intuition-the-fulfilment--and-identity-consciousness)
+  > The talk of knowledge of the object and of fulfilment of the meaning-intention thus express, merely from different standpoints, *the same* state of affairs.
+
+- **revised** · `intentionalitaet/lu6/004` · *identifying coincidence vs. act of identification*
+  A doubt (which the later inquiry will find serious) arises that the lived coincidence-unity of meaning-intention and intuition grounds no act of relating identification, no intentional consciousness of identity in which the identity first becomes objective as a meant unity.
+  `husserliana-19-2-sixth-logical-investigation-commentary#h3-s-8-the-dynamic-unity-between-expression-and-expressed-intuition-the-fulfilment` · Logical Investigations VI, § 8 (Zusatz) · [§ 8\. The dynamic unity between expression and expressed intuition. The fulfilment- and identity-consciousness](https://faultynode.github.io/commentaries/commentaries/husserl/husserliana-19-2-sixth-logical-investigation-commentary.html#the-dynamic-unity-between-expression-and-expressed-intuition-the-fulfilment--and-identity-consciousness)
+  > the lived coincidence-unity grounds no act of *relating* identification, no intentional consciousness of identity in which the identity would first become *objective* to us as a meant unity.
+
+- **introduced** · `intentionalitaet/lu6/005` · *perception as a web of partial intentions*
+  Every perception and imagination is a web of partial intentions fused into the unity of a total intention whose correlate is the thing, while the correlates of the partial intentions are thingly parts and moments.
+  `husserliana-19-2-sixth-logical-investigation-commentary#h3-s-10-the-more-comprehensive-class-of-fulfilment-experiences-intuitions-as-intent` · Logical Investigations VI, § 10 · [§ 10\. The more comprehensive class of fulfilment-experiences. Intuitions as intentions in need of fulfilment](https://faultynode.github.io/commentaries/commentaries/husserl/husserliana-19-2-sixth-logical-investigation-commentary.html#the-more-comprehensive-class-of-fulfilment-experiences-intuitions-as-intentions-in-need-of-fulfilment)
+  > *every perception and imagination is a web of partial intentions, fused into the unity of a total intention*. The correlate of this latter is the *thing*, while the correlates of those partial intentions are *thingly parts and moments*.
+
+- **introduced** · `intentionalitaet/lu6/006` · *intention vs. expectation*
+  Intention is not expectation: it is not essential to an intention to be directed upon a future occurrence, since the seen piece of an incomplete pattern is beset with intentions toward completion without anything being expected.
+  `husserliana-19-2-sixth-logical-investigation-commentary#h3-s-10-the-more-comprehensive-class-of-fulfilment-experiences-intuitions-as-intent` · Logical Investigations VI, § 10 · [§ 10\. The more comprehensive class of fulfilment-experiences. Intuitions as intentions in need of fulfilment](https://faultynode.github.io/commentaries/commentaries/husserl/husserliana-19-2-sixth-logical-investigation-commentary.html#the-more-comprehensive-class-of-fulfilment-experiences-intuitions-as-intentions-in-need-of-fulfilment)
+  > *Intention is not expectation*; it is not essential to it to be directed upon a future occurrence.
+
+- **introduced** · `intentionalitaet/lu6/007` · *disappointment / conflict as synthesis of distinction*
+  An intention disappoints itself in the manner of conflict only by being a part of a more comprehensive intention whose complementary part fulfils itself, so that with simple or isolated acts there can be no talk of conflict.
+  `husserliana-19-2-sixth-logical-investigation-commentary#h3-s-11-disappointment-and-conflict-synthesis-of-distinction` · Logical Investigations VI, § 11 · [§ 11\. Disappointment and conflict. Synthesis of distinction](https://faultynode.github.io/commentaries/commentaries/husserl/husserliana-19-2-sixth-logical-investigation-commentary.html#disappointment-and-conflict-synthesis-of-distinction)
+  > *an intention disappoints itself in the manner of conflict only by being a part of a more comprehensive intention whose complementary part fulfils itself.*
+
+- **introduced** · `intentionalitaet/lu6/008` · *the copula and objective identity*
+  To the bare 'is' there belongs everywhere objective identity, to the 'is not' non-identity or conflict, while the more special relations of ordering-in and exclusion require further expressive means such as the adjectival and substantival forms.
+  `husserliana-19-2-sixth-logical-investigation-commentary#h3-s-12-total-and-partial-identification-and-distinction-as-the-common-phenomenolog` · Logical Investigations VI, § 12 · [§ 12\. Total and partial identification and distinction as the common phenomenological foundations of the predicative and determinative expression-form](https://faultynode.github.io/commentaries/commentaries/husserl/husserliana-19-2-sixth-logical-investigation-commentary.html#total-and-partial-identification-and-distinction-as-the-common-phenomenological-foundations-of-the-predicative-and-determinative-expression-form)
+  > To the bare *is* belongs everywhere *objective identity* überhaupt, to the *is not* *non-identity* (conflict).
+
+- **introduced** · `intentionalitaet/lu6/009` · *founded fulfilment of non-objectifying acts*
+  Wish-fulfilment is founded in an identification, for the wish-intention can find its fulfilling satisfaction only by the bare presentation of the wished transforming itself into the conform for-perception, though this identification does not exhaust but only founds the self-satisfying of the wish-quality.
+  `husserliana-19-2-sixth-logical-investigation-commentary#h3-s-13-the-synthesis-of-knowledge-as-the-form-of-fulfilment-characteristic-of-the` · Logical Investigations VI, § 13 · [§ 13\. The synthesis of knowledge as the form of fulfilment characteristic of the objectifying acts. Subsumption of the meaning-acts under the class of objectifying acts](https://faultynode.github.io/commentaries/commentaries/husserl/husserliana-19-2-sixth-logical-investigation-commentary.html#the-synthesis-of-knowledge-as-the-form-of-fulfilment-characteristic-of-the-objectifying-acts-subsumption-of-the-meaning-acts-under-the-class-of-objectifying-acts)
+  > the wish-intention can find its fulfilling satisfaction only by the bare presentation of the wished, underlying it, transforming itself into the conform *for-perception* (*Fürwahrnehmung*)
+
+- **introduced** · `intentionalitaet/lu6/010` · *acts of meaning and of intuiting as one class*
+  The acts of meaning-intention and of meaning-fulfilment, the acts of thinking just as well as those of intuiting, belong to a single class of acts, the objectifying, so that other-kinded acts never function as sense-givers.
+  `husserliana-19-2-sixth-logical-investigation-commentary#h3-s-13-the-synthesis-of-knowledge-as-the-form-of-fulfilment-characteristic-of-the` · Logical Investigations VI, § 13 · [§ 13\. The synthesis of knowledge as the form of fulfilment characteristic of the objectifying acts. Subsumption of the meaning-acts under the class of objectifying acts](https://faultynode.github.io/commentaries/commentaries/husserl/husserliana-19-2-sixth-logical-investigation-commentary.html#the-synthesis-of-knowledge-as-the-form-of-fulfilment-characteristic-of-the-objectifying-acts-subsumption-of-the-meaning-acts-under-the-class-of-objectifying-acts)
+  > the acts of meaning-intention, just as well as those of meaning-fulfilment — the acts of "thinking" just as well as those of intuiting — belong to a single class of acts, to the objectifying
+
+- **introduced** · `intentionalitaet/lu6/011` · *fulfilment as intuitivization*
+  In every fulfilment there takes place a more or less perfect intuitivization in which we experience, as it were, a 'that is it itself', the fulfilling act conferring on the intention the fullness of the 'itself' and bringing it more directly to the thing.
+  `husserliana-19-2-sixth-logical-investigation-commentary#h3-s-16-mere-identification-and-fulfilment` · Logical Investigations VI, § 16 · [§ 16\. Mere identification and fulfilment](https://faultynode.github.io/commentaries/commentaries/husserl/husserliana-19-2-sixth-logical-investigation-commentary.html#mere-identification-and-fulfilment)
+  > In fulfilment we experience, as it were, a *that is it itself* (*das ist es selbst*).
+
+- **introduced** · `intentionalitaet/lu6/012` · *fullness*
+  Fullness is, beside quality and matter, a characteristic moment of presentations: a positive component only with the intuitive presentations and a lack with the signitive, which merely point to the object without anything of it becoming living in them.
+  `husserliana-19-2-sixth-logical-investigation-commentary#h3-s-21-the-fullness-of-the-presentation` · Logical Investigations VI, § 21 · [§ 21\. The "fullness" of the presentation](https://faultynode.github.io/commentaries/commentaries/husserl/husserliana-19-2-sixth-logical-investigation-commentary.html#the-fullness-of-the-presentation)
+  > This *fullness* is therefore, beside *quality* and *matter*, a *characteristic moment* of the presentations — a positive component, to be sure, only with the intuitive presentations, a *lack* with the signitive.
+
+- **introduced** · `intentionalitaet/lu6/013` · *pure intuition / pure signification*
+  The limiting case of pure intuition is a presentation that contains no signitive content at all, in which everything meant is also presented; its opposite limiting case, pure signification, is the pure meaning-intention that presents no determinacy of its object.
+  `husserliana-19-2-sixth-logical-investigation-commentary#h3-s-23-the-weight-relations-between-intuitive-and-signitive-content-of-one-and-the` · Logical Investigations VI, § 23 · [§ 23\. The weight-relations between intuitive and signitive content of one and the same act. Pure intuition and pure signification. Perception-content and image-content, pure perception and pure imagination. The gradations of fullness](https://faultynode.github.io/commentaries/commentaries/husserl/husserliana-19-2-sixth-logical-investigation-commentary.html#the-weight-relations-between-intuitive-and-signitive-content-of-one-and-the-same-act-pure-intuition-and-pure-signification-perception-content-and-image-content-pure-perception-and-pure-imagination-the-gradations-of-fullness)
+  > the presentation contains *no* signitive content at all. Everything in it is fullness; no part, no side, no determinacy of its object that is not intuitively presented, none that is merely *indirectly co-meant*.
+
+- **introduced** · `intentionalitaet/lu6/014` · *representation / apprehension-form*
+  The phenomenological unity between matter and representant, insofar as it lends the latter its character as representant, is the form of representation, and the whole produced through it is the representation simply (Repräsentation schlechthin).
+  `husserliana-19-2-sixth-logical-investigation-commentary#h3-s-26-continuation-representation-or-apprehension-the-matter-as-the-apprehension` · Logical Investigations VI, § 26 · [§ 26\. Continuation. Representation or apprehension. The matter as the apprehension-sense, the apprehension-form and the apprehended content. Differentiating characterization of the intuitive and signitive apprehension](https://faultynode.github.io/commentaries/commentaries/husserl/husserliana-19-2-sixth-logical-investigation-commentary.html#continuation-representation-or-apprehension-the-matter-as-the-apprehension-sense-the-apprehension-form-and-the-apprehended-content-differentiating-characterization-of-the-intuitive-and-signitive-apprehension)
+  > We therefore call the *phenomenological unity between matter and representant*, insofar as it lends the latter the character *as* representant, the *form of representation*, and the whole produced through it the *representation* simply (*Repräsentation schlechthin*).
+
+- **introduced** · `intentionalitaet/lu6/015` · *apprehension-matter, apprehension-form, apprehended content*
+  In every apprehension one must distinguish phenomenologically the apprehension-matter or apprehension-sense (the matter giving the sense in which the content is apprehended), the apprehension-form, and the apprehended content, the last to be distinguished from the object of the apprehension.
+  `husserliana-19-2-sixth-logical-investigation-commentary#h3-s-26-continuation-representation-or-apprehension-the-matter-as-the-apprehension` · Logical Investigations VI, § 26 · [§ 26\. Continuation. Representation or apprehension. The matter as the apprehension-sense, the apprehension-form and the apprehended content. Differentiating characterization of the intuitive and signitive apprehension](https://faultynode.github.io/commentaries/commentaries/husserl/husserliana-19-2-sixth-logical-investigation-commentary.html#continuation-representation-or-apprehension-the-matter-as-the-apprehension-sense-the-apprehension-form-and-the-apprehended-content-differentiating-characterization-of-the-intuitive-and-signitive-apprehension)
+  > we would have to distinguish phenomenologically, in every apprehension: *apprehension-matter* or *apprehension-sense*, *apprehension-form*, and *apprehended content* — which last is to be distinguished from the *object of the apprehension*.
+
+- **introduced** · `intentionalitaet/lu6/016` · *representation as substratum of all acts*
+  Every objectifying act includes a representation in itself, and since every act is either objectifying or founded in such an act, the ultimate foundation of all acts are presentations in the sense of representations.
+  `husserliana-19-2-sixth-logical-investigation-commentary#h3-s-27-representations-as-necessary-presentational-substrata-in-all-acts-last-clar` · Logical Investigations VI, § 27 · [§ 27\. Representations as necessary presentational substrata in all acts. Last clarification of the talk of the different ways of the relation of consciousness to an object](https://faultynode.github.io/commentaries/commentaries/husserl/husserliana-19-2-sixth-logical-investigation-commentary.html#representations-as-necessary-presentational-substrata-in-all-acts-last-clarification-of-the-talk-of-the-different-ways-of-the-relation-of-consciousness-to-an-object)
+  > Hence the *ultimate foundation of all acts* are "*presentations*" in the sense of *representations* (*Repräsentationen*).
+
+- **introduced** · `intentionalitaet/lu6/017` · *fulfilling sense*
+  The fulfilling sense, as the intentional essence of the fulfilling intuitive act, coincides with the meaningful essence of the meaning-intention, only the fullness of the intuition falling outside this coincidence.
+  `husserliana-19-2-sixth-logical-investigation-commentary#h3-s-28-intentional-essence-and-fulfilling-sense-cognitive-essence-intuitions-in-sp` · Logical Investigations VI, § 28 · [§ 28\. Intentional essence and fulfilling sense. Cognitive essence. Intuitions in specie](https://faultynode.github.io/commentaries/commentaries/husserl/husserliana-19-2-sixth-logical-investigation-commentary.html#intentional-essence-and-fulfilling-sense-cognitive-essence-intuitions-in-specie)
+  > the *fulfilling sense*, as the *intentional essence* of the fulfilling intuitive act, coincides with the meaningful essence (the intentional essence of the meaning-intention).
+
+- **introduced** · `intentionalitaet/lu6/018` · *cognitive essence*
+  Beside the merely meaningful essence (quality and matter) one must form the concept of the cognitive essence, the entire content coming into consideration for the knowledge-function, comprising quality, matter, and intuitively representing content, the last falling away with the empty intentions.
+  `husserliana-19-2-sixth-logical-investigation-commentary#h3-s-28-intentional-essence-and-fulfilling-sense-cognitive-essence-intuitions-in-sp` · Logical Investigations VI, § 28 · [§ 28\. Intentional essence and fulfilling sense. Cognitive essence. Intuitions in specie](https://faultynode.github.io/commentaries/commentaries/husserl/husserliana-19-2-sixth-logical-investigation-commentary.html#intentional-essence-and-fulfilling-sense-cognitive-essence-intuitions-in-specie)
+  > To it then belong the three components *quality, matter, and fullness* (or intuitive content); or, if we want to avoid the overlapping of the two latter and have disjunct components: *quality, matter, and intuitively representing content*
+
+- **introduced** · `intentionalitaet/lu6/019` · *ultimate fulfilment / adaequatio rei et intellectus*
+  Where a presentation-intention procures itself ultimate fulfilment through an ideally perfect perception, the genuine adaequatio rei et intellectus establishes itself: the objective is really present exactly as that as which it is intended, with no partial intention left unfulfilled.
+  `husserliana-19-2-sixth-logical-investigation-commentary#h3-s-37-the-fulfilment-function-of-perception-the-ideal-of-the-ultimate-fulfilment` · Logical Investigations VI, § 37 · [§ 37\. The fulfilment-function of perception. The ideal of the ultimate fulfilment](https://faultynode.github.io/commentaries/commentaries/husserl/husserliana-19-2-sixth-logical-investigation-commentary.html#the-fulfilment-function-of-perception-the-ideal-of-the-ultimate-fulfilment)
+  > there the genuine *adaequatio rei et intellectus* has established itself: *the objective is really "present" or "given" exactly as that as which it is intended*
+
+- **introduced** · `intentionalitaet/lu6/020` · *evidence and truth*
+  Truth, as correlate of an identifying act, is a state of affairs, and as correlate of a coinciding identification an identity, the full agreement between meant and given as such, experienced in evidence as the actual performance of the adequate identification.
+  `husserliana-19-2-sixth-logical-investigation-commentary#h3-s-39-evidence-and-truth` · Logical Investigations VI, § 39 · [§ 39\. Evidence and truth](https://faultynode.github.io/commentaries/commentaries/husserl/husserliana-19-2-sixth-logical-investigation-commentary.html#evidence-and-truth)
+  > *truth*, as correlate of an identifying act, is a *state of affairs*, and as correlate of a coinciding identification an *identity* — *the full agreement between meant and given as such*.
+
+- **revised** · `intentionalitaet/lu6/021` · *is / is not as differences of matter*
+  Being and non-being are not oppositions of judgment-quality: every judgment is positing, and the differences between 'is' and 'is not' are differences of the intentional matter, the 'is' expressing predicative agreement and the 'is not' predicative conflict.
+  `husserliana-19-2-sixth-logical-investigation-commentary#h3-s-39-evidence-and-truth` · Logical Investigations VI, § 39 · [§ 39\. Evidence and truth](https://faultynode.github.io/commentaries/commentaries/husserl/husserliana-19-2-sixth-logical-investigation-commentary.html#evidence-and-truth)
+  > The differences between *is* and *is not* are differences of the *intentional matter*. Just as the *is*, in the manner of meaning-intention, expresses the predicative *agreement*, so the *is not* expresses the predicative *conflict*.
+
+- **introduced** · `intentionalitaet/lu6/022` · *being is no real predicate*
+  Appropriating the Kantian proposition that being is no real predicate, Husserl holds that the categorial 'is' fulfils itself in no sensuous perception: colour can be seen but not being-coloured, smoothness felt but not being-smooth, tone heard but not being-sounding.
+  `husserliana-19-2-sixth-logical-investigation-commentary#h3-s-43-the-objective-correlates-of-the-categorial-forms-are-no-real-moments` · Logical Investigations VI, § 43 · [§ 43\. The objective correlates of the categorial forms are no "real" moments](https://faultynode.github.io/commentaries/commentaries/husserl/husserliana-19-2-sixth-logical-investigation-commentary.html#the-objective-correlates-of-the-categorial-forms-are-no-real-moments)
+  > The *colour* I can see, not the *being-coloured*. The *smoothness* I can feel, not the *being-smooth*. The *tone* I can hear, not the *being-sounding*.
+
+- **introduced** · `intentionalitaet/lu6/023` · *categorial intuition in founded acts*
+  The categorial of intuiting and knowing lies in founded acts, which constitute new objectivities that appear as real and self-given though they could not be given in the founding acts alone, and in these acts stating thinking finds its fulfilment.
+  `husserliana-19-2-sixth-logical-investigation-commentary#h3-s-46-phenomenological-analysis-of-the-distinction-between-sensuous-and-categoria` · Logical Investigations VI, § 46 · [§ 46\. Phenomenological analysis of the distinction between sensuous and categorial perception](https://faultynode.github.io/commentaries/commentaries/husserl/husserliana-19-2-sixth-logical-investigation-commentary.html#phenomenological-analysis-of-the-distinction-between-sensuous-and-categorial-perception)
+  > In such *founded acts* lies the *categorial* of intuiting and knowing; in them the *stating thinking*, where it functions as expression, finds its fulfilment
+
+- **introduced** · `intentionalitaet/lu6/024` · *categorial form vs. sensuous connection*
+  The forms of categorial connection are forms belonging to the manner of the act-synthesis, constituting themselves objectively in the synthetic acts built upon sensibility, and must not be mingled with the sensuous connection-forms that are actual moments present in the real object.
+  `husserliana-19-2-sixth-logical-investigation-commentary#h3-s-48-characterization-of-the-categorial-acts-as-founded-acts` · Logical Investigations VI, § 48 · [§ 48\. Characterization of the categorial acts as founded acts](https://faultynode.github.io/commentaries/commentaries/husserl/husserliana-19-2-sixth-logical-investigation-commentary.html#characterization-of-the-categorial-acts-as-founded-acts)
+  > the forms of *categorial* connection are forms belonging to the *manner of the act-synthesis* — hence forms which constitute themselves objectively in the *synthetic acts built upon sensibility*.
+
+*Partial pass: Covers the Introduction and the First Section's core doctrine plus the opening of the categorial-intuition analysis: intention/fulfilment as the master contrast, the objectifying acts defined by the identification-character of their fulfilment-syntheses, static vs. dynamic fulfilment and the doubt whether identifying coincidence is already an act of identification, the free/bound modification of the intention, perception as a web of partial intentions, disappointment as a synthesis of distinction, the founding of non-objectifying (e.g. wish-) fulfilment on an identification, fulfilment as intuitivization toward the 'itself', the doctrine of fullness as a third moment beside quality and matter, pure intuition vs. pure signification, the theory of representation (apprehension-matter/sense, apprehension-form, apprehended content), representation as the ultimate substratum of every act, meaningful vs. cognitive essence and the fulfilling sense, the adaequatio rei et intellectus as ideal of ultimate fulfilment, evidence and the fourfold concept of truth, 'is' and 'is not' as matter-differences, 'being is no real predicate', and categorial objectivities as given only in founded acts. Not covered: the compatibility/incompatibility chapter, the detailed theory of categorial representation, the laws of genuine and improper thinking, and the Third Section on non-objectifying acts.*
+
 ### 1925 - Commentary on Heidegger, Prolegomena zur Geschichte des Zeitbegriffs (GA 20)
 
 `heidegger-ga-20-prolegomena-zur-geschichte-des-zeitbegriffs-commentary`
@@ -1101,6 +1227,87 @@
 ## Reception layer
 
 *Read alongside the spine, not on it. A commentator's date orders the reception, not the doctrine.*
+
+### 1961 - Derrida, Introduction à L'Origine de la géométrie
+
+`derrida-introduction-a-lorigine-de-la-geometrie-commentary`
+
+- **introduced** · `intentionalitaet/derrida-iog/001` · *non-reellity of the noema*
+  Beneath the regional distinction between ideal and real objects lies the non-reell status of the noema, which in the last analysis permits the repetition of sense as the same and makes possible the idealization of identity in general.
+  `derrida-introduction-a-lorigine-de-la-geometrie-commentary#h2-v` · Introduction à L'Origine de la géométrie, § V · [V](https://faultynode.github.io/commentaries/commentaries/derrida/derrida-introduction-a-lorigine-de-la-geometrie-commentary.html#v)
+  > this non-reellity of the noema — "a notion of the most difficult and the most decisive" — is what, in the last analysis, *permits the repetition of sense as the "same"* and *makes possible the idealization of identity in general*
+
+- **introduced** · `intentionalitaet/derrida-iog/002` · *immediate eidetics of speech*
+  Language presupposes a spontaneous neutralization of the factual existence of the speaker, the words and the thing designated, so that speech is only the practice of an immediate eidetics and the reduction is implicitly operated as soon as one considers language for itself.
+  `derrida-introduction-a-lorigine-de-la-geometrie-commentary#h2-v` · Introduction à L'Origine de la géométrie, § V · [V](https://faultynode.github.io/commentaries/commentaries/derrida/derrida-introduction-a-lorigine-de-la-geometrie-commentary.html#v)
+  > the reduction is implicitly operated, simply exercised and not yet explicated, as soon as one considers language for itself.
+
+- **introduced** · `intentionalitaet/derrida-iog/003` · *intentional content / noematic Kernschicht*
+  The Logical Investigations' notion of "intentional content" or "unity of signification" announces, in the sphere of language, the noematic sense, the nuclear stratum (Kernschicht) of the noema, and its ideal identity secures translatability across languages.
+  `derrida-introduction-a-lorigine-de-la-geometrie-commentary#h2-v` · Introduction à L'Origine de la géométrie, § V · [V](https://faultynode.github.io/commentaries/commentaries/derrida/derrida-introduction-a-lorigine-de-la-geometrie-commentary.html#v)
+  > the notion of "intentional content" *announces*, in the sphere of language, the notion of *noematic sense* — the *Kernschicht*, nuclear stratum, of the noema
+
+- **introduced** · `intentionalitaet/derrida-iog/004` · *bound / free idealities*
+  Free idealities (logico-mathematical formations and pure essence-structures) are bound to no territory and are omnispatial and omnitemporal with respect to their reactivation, whereas bound idealities carry reality in their being-sense; yet by their apparition even free idealities are factual and worldly.
+  `derrida-introduction-a-lorigine-de-la-geometrie-commentary#h2-v` · Introduction à L'Origine de la géométrie, § V · [V](https://faultynode.github.io/commentaries/commentaries/derrida/derrida-introduction-a-lorigine-de-la-geometrie-commentary.html#v)
+  > free idealities (logico-mathematical formations and pure essence-structures) are bound to *no territory* — "or rather, they have their territory in the *whole-of-the-world* and in every possible whole-of-a-world"
+
+- **introduced** · `intentionalitaet/derrida-iog/005` · *de jure bond to transcendental subjectivity*
+  Because the absolute ideal object does not inhabit a topos ouranios, its liberation from every factual subjectivity only lays bare its de jure bonds with a transcendental subjectivity, and its historicity is intrinsic and essential.
+  `derrida-introduction-a-lorigine-de-la-geometrie-commentary#h2-v` · Introduction à L'Origine de la géométrie, § V · [V](https://faultynode.github.io/commentaries/commentaries/derrida/derrida-introduction-a-lorigine-de-la-geometrie-commentary.html#v)
+  > (1) its liberation from every *factual* subjectivity only *lays bare its de jure bonds with a transcendental subjectivity*; (2) *its historicity is intrinsic and essential*.
+
+- **introduced** · `intentionalitaet/derrida-iog/006` · *writing as autonomous transcendental field*
+  By absolutely virtualizing the dialogue, writing creates a sort of autonomous transcendental field from which every actual subject can absent itself, so that the act of writing is the highest possibility of all constitution.
+  `derrida-introduction-a-lorigine-de-la-geometrie-commentary#h2-vii` · Introduction à L'Origine de la géométrie, § VII · [VII](https://faultynode.github.io/commentaries/commentaries/derrida/derrida-introduction-a-lorigine-de-la-geometrie-commentary.html#vii)
+  > "By *absolutely virtualizing* the dialogue, writing creates a sort of *autonomous transcendental field from which every actual subject can absent itself*."
+
+- **introduced** · `intentionalitaet/derrida-iog/007` · *virtual intentionality haunting the text*
+  All of this can be said only on the basis of an intentional analysis: without a virtual intentionality haunting it, the written mark, in the vacancy of its soul, is no more than a chaotic literality, the sensible opacity of a defunct designation.
+  `derrida-introduction-a-lorigine-de-la-geometrie-commentary#h2-vii` · Introduction à L'Origine de la géométrie, § VII · [VII](https://faultynode.github.io/commentaries/commentaries/derrida/derrida-introduction-a-lorigine-de-la-geometrie-commentary.html#vii)
+  > if a *virtual intentionality* does not *haunt* it, then, in the *vacancy of its soul*, it is no more than a *chaotic literality*, the sensible opacity of a *defunct designation*
+
+- **introduced** · `intentionalitaet/derrida-iog/008` · *factual absence of subjectivity*
+  The absence of subjectivity from the transcendental field, whose possibility liberates absolute objectivity, can only be a factual absence, even if it removed forever the totality of real subjects, since the pure juridical relation to a writer and a reader in general must announce itself in the text.
+  `derrida-introduction-a-lorigine-de-la-geometrie-commentary#h2-vii` · Introduction à L'Origine de la géométrie, § VII · [VII](https://faultynode.github.io/commentaries/commentaries/derrida/derrida-introduction-a-lorigine-de-la-geometrie-commentary.html#vii)
+  > can only be a *factual* absence, even if it removed forever the totality of real subjects.
+
+- **introduced** · `intentionalitaet/derrida-iog/009` · *the graphic body as Leib*
+  In thinking of the juridical purity of this intentional animation, Husserl always says of the linguistic or graphic body that it is a flesh, a corps propre (Leib) or spiritual corporeality, never a mere physical Körper.
+  `derrida-introduction-a-lorigine-de-la-geometrie-commentary#h2-vii` · Introduction à L'Origine de la géométrie, § VII · [VII](https://faultynode.github.io/commentaries/commentaries/derrida/derrida-introduction-a-lorigine-de-la-geometrie-commentary.html#vii)
+  > Husserl always says of the linguistic or graphic body that it is *a flesh* — *un corps propre* (*Leib*) — or a *spiritual corporeality* (*geistige Leiblichkeit*
+
+- **introduced** · `intentionalitaet/derrida-iog/010` · *the ambiguous value of virtuality*
+  The virtualization that perfects ideality is an ambiguous value: it renders possible at the same stroke passivity, forgetting, and all the phenomena of crisis, so that writing is at once the condition of the infinite tradition of truth and the condition of its forgetting.
+  `derrida-introduction-a-lorigine-de-la-geometrie-commentary#h2-vii` · Introduction à L'Origine de la géométrie, § VII · [VII](https://faultynode.github.io/commentaries/commentaries/derrida/derrida-introduction-a-lorigine-de-la-geometrie-commentary.html#vii)
+  > it renders possible at the same stroke (*du même coup*) passivity, forgetting, and all the phenomena of crisis.
+
+- **introduced** · `intentionalitaet/derrida-iog/011` · *crisis as degradation of expression into indication*
+  The phenomenon of crisis, which always refers for Husserl to a sickness of language, can be interpreted as a degradation of the expression-sign into the indication-sign, of a clear aim into an empty symbol.
+  `derrida-introduction-a-lorigine-de-la-geometrie-commentary#h2-vii` · Introduction à L'Origine de la géométrie, § VII · [VII](https://faultynode.github.io/commentaries/commentaries/derrida/derrida-introduction-a-lorigine-de-la-geometrie-commentary.html#vii)
+  > a *degradation of the expression-sign into the indication-sign*, of a 'clear' (*klar*) aim into an *empty symbol*.
+
+- **introduced** · `intentionalitaet/derrida-iog/012` · *the Absolute of intentional historicity / the genitive*
+  The Absolute of the Idea is the Absolute of intentional historicity, and the "of" is neither an objective nor a subjective genitive but the intentional Absolute of the pure relation to the object, a relation in which subject and object engender and govern one another reciprocally.
+  `derrida-introduction-a-lorigine-de-la-geometrie-commentary#h2-xi` · Introduction à L'Origine de la géométrie, § XI · [XI](https://faultynode.github.io/commentaries/commentaries/derrida/derrida-introduction-a-lorigine-de-la-geometrie-commentary.html#xi)
+  > It is "the *intentional Absolute of the objectivized*, of the *pure relation to the object* — a relation in which subject and object *engender and govern one another reciprocally*."
+
+- **introduced** · `intentionalitaet/derrida-iog/013` · *the Living Present as dialectic and non-dialectic*
+  The movement of primordial temporalization, ultimate foundation of all constitution, is dialectical through and through, but only as the dialectic of the dialectic (the mutual implication of protentions and retentions) with the non-dialectic, the absolute and concrete identity of the Living Present.
+  `derrida-introduction-a-lorigine-de-la-geometrie-commentary#h2-xi` · Introduction à L'Origine de la géométrie, § XI · [XI](https://faultynode.github.io/commentaries/commentaries/derrida/derrida-introduction-a-lorigine-de-la-geometrie-commentary.html#xi)
+  > it was only the *dialectic of the dialectic* — the indefinite, mutual and irreducible implication of protentions and retentions — *with the non-dialectic*: the absolute and concrete identity of the Living Present, universal form of all consciousness.
+
+- **introduced** · `intentionalitaet/derrida-iog/014` · *ideality of noematic sense*
+  One must constantly return to Husserl's descriptions of the non-real inclusion of the noema in consciousness and the ideality of noematic sense, which is neither of the subject nor of the object and is therefore nothing but the objectivity of the object, the appearing of its "as such" for a consciousness.
+  `derrida-introduction-a-lorigine-de-la-geometrie-commentary#h2-xi` · Introduction à L'Origine de la géométrie, § XI · [XI](https://faultynode.github.io/commentaries/commentaries/derrida/derrida-introduction-a-lorigine-de-la-geometrie-commentary.html#xi)
+  > the *non-real* inclusion of the noema in consciousness, the *ideality of noematic sense*" — which is "neither of the subject nor of the object, *and is therefore nothing but the objectivity of the object*, the appearing of its '*as such*' for a consciousness
+
+- **introduced** · `intentionalitaet/derrida-iog/015` · *intentionality is traditionality*
+  The Introduction's culminating identification is that intentionality is traditionality: in the pure movement of phenomenological temporalization, as the going-out-from-self-into-self of the Absolute of the Living Present, intentionality is the root of historicity, and historicity is sense.
+  `derrida-introduction-a-lorigine-de-la-geometrie-commentary#h2-xi` · Introduction à L'Origine de la géométrie, § XI · [XI](https://faultynode.github.io/commentaries/commentaries/derrida/derrida-introduction-a-lorigine-de-la-geometrie-commentary.html#xi)
+  > "*Intentionality is traditionality*."
+
+*Partial pass: Covers Sections V, VII (opening) and XI: the non-reell noema as root of all repeatability, the immediate eidetics practised by speech, intentional content / noematic Kernschicht and translatability, bound vs. free idealities and omnitemporality, the geometrical object's de jure bond to transcendental subjectivity, writing as an autonomous transcendental field, virtual intentionality haunting the text, the graphic body as Leib, writing as the highest possibility of constitution, crisis as degradation of expression into indication, the Absolute of intentional historicity and the undecidable genitive, the Living Present as dialectic-of-the-dialectic-with-the-non-dialectic, and 'intentionality is traditionality / the root of historicity'. Not covered: Sections I-IV, VI, VIII-X.*
 
 ### 1965 - Philosophie et phénoménologie du corps — Commentary
 
@@ -1519,6 +1726,77 @@
   > It belongs to the *essence* of comportments, so that the talk of "intentional comportment" is already a pleonasm and amounts to my saying "a spatial triangle."
 
 *Partial pass: Covers section b of the commentary: phenomenology's designation of intentionality, historical roles of Brentano and especially Husserl's philosophical clarification in the Logical Investigations and Ideas, and intentionality as essential to comportment. Not covered: detailed analysis of intentio/intentum distinction, misinterpretations, transcendence relation, or treatment in other sections.*
+
+### undated - Michel Henry, L'essence de la manifestation
+
+`henry-the-essence-of-manifestation-commentary`
+
+- **criticized** · `intentionalitaet/henry-em/001` · *two senses of representation*
+  The word representation has two structurally different senses that the phenomenological tradition has failed to distinguish: the narrow Husserlian sense of a particular noetic act thematically intending an object, and the broad ontological sense in which representation is the very structure of consciousness as such (Heidegger's Vor-stellen).
+  `henry-the-essence-of-manifestation-commentary#h2-s-18-the-concept-of-representation-ontological-structure-and-existential-underst` · The Essence of Manifestation, § 18 · [§ 18\. The concept of representation: ontological structure and existential understanding](https://faultynode.github.io/commentaries/commentaries/henry/henry-the-essence-of-manifestation-commentary.html#the-concept-of-representation-ontological-structure-and-existential-understanding)
+  > Sense (i) — the *narrow*, Husserlian sense: representation is a particular noetic act in which consciousness thematically intends an object; the object is given as a noematic correlate of the noetic aim.
+
+- **presupposed** · `intentionalitaet/henry-em/002` · *representation as determinate mode of the life of consciousness*
+  Representation in the narrow sense is a determinate mode of the life of consciousness which includes within itself, as irreal noematic correlate, the object in the presence of which this life holds itself in that mode of existence.
+  `henry-the-essence-of-manifestation-commentary#h2-s-18-the-concept-of-representation-ontological-structure-and-existential-underst` · The Essence of Manifestation, § 18 · [§ 18\. The concept of representation: ontological structure and existential understanding](https://faultynode.github.io/commentaries/commentaries/henry/henry-the-essence-of-manifestation-commentary.html#the-concept-of-representation-ontological-structure-and-existential-understanding)
+  > Representation so understood is a *determinate mode of the life of consciousness*; and it includes within itself, as irreal noematic correlate, the "object" in the presence of which this life holds itself in this determinate mode of existence which is then its own.
+
+- **criticized** · `intentionalitaet/henry-em/003` · *objectification of being*
+  Even philosophical consciousness, in trying to think being, distorts being by treating it as just another thematic object, which is the structural failure of all representational philosophies of being, including Husserl's transcendental phenomenology and Heidegger's fundamental ontology insofar as they remain within representational thinking.
+  `henry-the-essence-of-manifestation-commentary#h2-s-18-the-concept-of-representation-ontological-structure-and-existential-underst` · The Essence of Manifestation, § 18 · [§ 18\. The concept of representation: ontological structure and existential understanding](https://faultynode.github.io/commentaries/commentaries/henry/henry-the-essence-of-manifestation-commentary.html#the-concept-of-representation-ontological-structure-and-existential-understanding)
+  > even philosophical consciousness, in its very attempt to think being, distorts being by treating it as just another object. This is the structural failure of all representational philosophies of being — including, Henry will argue, Husserl's transcendental phenomenology and Heidegger's fundamental ontology insofar as they remain within the structure of representational thinking.
+
+- **criticized** · `intentionalitaet/henry-em/004` · *the horizon that cannot be thematized*
+  The object of consciousness in its universal essence is objectivity, being itself under the form of a horizon, and to the essence of the horizon it belongs not to let itself be thematized, so that the representation of universal consciousness is the manifestation-of-self of this horizon.
+  `henry-the-essence-of-manifestation-commentary#h2-s-18-the-concept-of-representation-ontological-structure-and-existential-underst` · The Essence of Manifestation, § 18 · [§ 18\. The concept of representation: ontological structure and existential understanding](https://faultynode.github.io/commentaries/commentaries/henry/henry-the-essence-of-manifestation-commentary.html#the-concept-of-representation-ontological-structure-and-existential-understanding)
+  > *The object of consciousness in its universal essence is objectivity, being itself under the form of a horizon. The representation of consciousness in its universal essence is the representation of the horizon.*
+
+- **introduced** · `intentionalitaet/henry-em/005` · *ontological structure / existential determination*
+  The ontological structure of consciousness, the manifestation-of-self of being, is at once indifferent and immanent to the existential determinations of consciousness, so that the opposition of natural consciousness and true knowledge is inessential.
+  `henry-the-essence-of-manifestation-commentary#h2-s-18-the-concept-of-representation-ontological-structure-and-existential-underst` · The Essence of Manifestation, § 18 · [§ 18\. The concept of representation: ontological structure and existential understanding](https://faultynode.github.io/commentaries/commentaries/henry/henry-the-essence-of-manifestation-commentary.html#the-concept-of-representation-ontological-structure-and-existential-understanding)
+  > *the ontological structure of consciousness is at once indifferent and immanent to the existential determinations of consciousness*.
+
+- **introduced** · `intentionalitaet/henry-em/006` · *affectivity as condition of transcendence*
+  Immanence is the condition of transcendence, the reality of the act that sets a horizon over against itself, so that affectivity is the condition of sensibility and sensing is possible only as affective.
+  `henry-the-essence-of-manifestation-commentary#h2-s-54-ontological-interpretation-of-affectivity-as-the-foundation-of-affection-th` · The Essence of Manifestation, § 54 · [§ 54 — Ontological interpretation of affectivity as the foundation of affection: the problem of "intentional affectivity"](https://faultynode.github.io/commentaries/commentaries/henry/henry-the-essence-of-manifestation-commentary.html#ontological-interpretation-of-affectivity-as-the-foundation-of-affection-the-problem-of-intentional-affectivity)
+  > immanence is the condition of transcendence, the reality of the act that sets a horizon over against itself; affectivity is therefore the condition of sensibility.
+
+- **introduced** · `intentionalitaet/henry-em/007` · *the asymmetry of affectivity and sensibility*
+  The eidetic law governing the ultimate domain of the ground reads in two clauses that must not be run together: affectivity is never sensible; sensibility is constantly affective.
+  `henry-the-essence-of-manifestation-commentary#h2-s-54-ontological-interpretation-of-affectivity-as-the-foundation-of-affection-th` · The Essence of Manifestation, § 54 · [§ 54 — Ontological interpretation of affectivity as the foundation of affection: the problem of "intentional affectivity"](https://faultynode.github.io/commentaries/commentaries/henry/henry-the-essence-of-manifestation-commentary.html#ontological-interpretation-of-affectivity-as-the-foundation-of-affection-the-problem-of-intentional-affectivity)
+  > The eidetic law governing the ultimate domain of the ground reads in two clauses that must not be run together: affectivity is never sensible; sensibility is constantly affective.
+
+- **introduced** · `intentionalitaet/henry-em/008` · *the world given only as what moves us*
+  Sensibility is transcendence itself as affective in its essence, and the affection of transcendence by the world is conditioned by auto-affection, so that the world can be given to us only as what touches and moves us.
+  `henry-the-essence-of-manifestation-commentary#h2-s-54-ontological-interpretation-of-affectivity-as-the-foundation-of-affection-th` · The Essence of Manifestation, § 54 · [§ 54 — Ontological interpretation of affectivity as the foundation of affection: the problem of "intentional affectivity"](https://faultynode.github.io/commentaries/commentaries/henry/henry-the-essence-of-manifestation-commentary.html#ontological-interpretation-of-affectivity-as-the-foundation-of-affection-the-problem-of-intentional-affectivity)
+  > the affection of transcendence by the world is conditioned by auto-affection. Sensibility is transcendence itself as affective in its essence.
+
+- **criticized** · `intentionalitaet/henry-em/009` · *break with Gleichursprünglichkeit*
+  Henry explicitly breaks with Sein und Zeit by denying the equiprimordiality of Befindlichkeit and Verstehen, since their bond is one of foundation: affectivity has already done its work when the world rises.
+  `henry-the-essence-of-manifestation-commentary#h2-s-54-ontological-interpretation-of-affectivity-as-the-foundation-of-affection-th` · The Essence of Manifestation, § 54 · [§ 54 — Ontological interpretation of affectivity as the foundation of affection: the problem of "intentional affectivity"](https://faultynode.github.io/commentaries/commentaries/henry/henry-the-essence-of-manifestation-commentary.html#ontological-interpretation-of-affectivity-as-the-foundation-of-affection-the-problem-of-intentional-affectivity)
+  > This is the explicit break with *Sein und Zeit*: Heidegger's equiprimordiality of *Befindlichkeit* and *Verstehen* is exactly the thesis Henry denies, because their bond is one of foundation.
+
+- **revised** · `intentionalitaet/henry-em/010` · *every positing act as affective*
+  Henry accepts Husserl's refutation of the feeling-theory of evidence (evidence is a special mode of positing, not a tonality) and turns it: every positing act, in its original self-affection as self-feeling, is in itself an affective phenomenon, the bond being one of foundation and so not contingent.
+  `henry-the-essence-of-manifestation-commentary#h2-s-54-ontological-interpretation-of-affectivity-as-the-foundation-of-affection-th` · The Essence of Manifestation, § 54 · [§ 54 — Ontological interpretation of affectivity as the foundation of affection: the problem of "intentional affectivity"](https://faultynode.github.io/commentaries/commentaries/henry/henry-the-essence-of-manifestation-commentary.html#ontological-interpretation-of-affectivity-as-the-foundation-of-affection-the-problem-of-intentional-affectivity)
+  > Every positing act, in whatever mode it is accomplished, including the case where thought gives itself the intuitive fulfilment of the meaning it intends, is in itself — in its original self-affection, as self-feeling — an affective phenomenon.
+
+- **revised** · `intentionalitaet/henry-em/011` · *eidetic correlation of tonality and noetic-noematic structure*
+  The eidetic correlations between acts' affective tonalities and their noetic-noematic structure are universal and concern every possible intentional act, so that the feelings things provoke in us are the consciousness of their constitution.
+  `henry-the-essence-of-manifestation-commentary#h2-s-54-ontological-interpretation-of-affectivity-as-the-foundation-of-affection-th` · The Essence of Manifestation, § 54 · [§ 54 — Ontological interpretation of affectivity as the foundation of affection: the problem of "intentional affectivity"](https://faultynode.github.io/commentaries/commentaries/henry/henry-the-essence-of-manifestation-commentary.html#ontological-interpretation-of-affectivity-as-the-foundation-of-affection-the-problem-of-intentional-affectivity)
+  > The eidetic correlations between acts' affective tonalities and their noetic-noematic structure are not confined to evidence or to judgement; they are universal and concern every possible intentional act.
+
+- **criticized** · `intentionalitaet/henry-em/012` · *the thesis that affectivity is intentional*
+  Modern philosophy (Brentano, Husserl, Scheler, Sartre) gives out as a discovery the thesis that affectivity is intentional, consciousness of something (love has an object, hatred is of Peter or Paul); Henry dismantles it by asking how affectivity can be understanding if nothing is more repugnant to its essence than transcendence.
+  `henry-the-essence-of-manifestation-commentary#h2-s-54-ontological-interpretation-of-affectivity-as-the-foundation-of-affection-th` · The Essence of Manifestation, § 54 · [§ 54 — Ontological interpretation of affectivity as the foundation of affection: the problem of "intentional affectivity"](https://faultynode.github.io/commentaries/commentaries/henry/henry-the-essence-of-manifestation-commentary.html#ontological-interpretation-of-affectivity-as-the-foundation-of-affection-the-problem-of-intentional-affectivity)
+  > how can affectivity be understanding, capable of grasping and living transcendent significations, if nothing is more repugnant to its essence than transcendence, if the deployment of a horizon of understanding is what is most foreign to it?
+
+- **criticized** · `intentionalitaet/henry-em/013` · *affectivity as foundation, not grasping*
+  Against the intentionalist claim, affectivity is the universal foundation of all phenomena and determines them all originally as affective; it is not the grasping of the horizon but the reality of the act that grasps, the affectivity of phenomena residing in the auto-affection of the transcendence that deploys the horizon.
+  `henry-the-essence-of-manifestation-commentary#h2-s-54-ontological-interpretation-of-affectivity-as-the-foundation-of-affection-th` · The Essence of Manifestation, § 54 · [§ 54 — Ontological interpretation of affectivity as the foundation of affection: the problem of "intentional affectivity"](https://faultynode.github.io/commentaries/commentaries/henry/henry-the-essence-of-manifestation-commentary.html#ontological-interpretation-of-affectivity-as-the-foundation-of-affection-the-problem-of-intentional-affectivity)
+  > affectivity is the universal foundation of all phenomena and determines them all originally as affective. The affectivity of phenomena resides in the auto-affection of the transcendence that deploys the horizon. Affectivity is not the grasping of the horizon but the reality of the act that grasps
+
+*Partial pass: Covers § 18 (the concept of representation) and § 54 (the problem of 'intentional affectivity'): the distinction between representation as a particular noetic act and representation as the ontological structure of consciousness, the horizon as the non-thematizable 'object' of universal consciousness, the ontological/existential distinction, and the dismantling of the intentionalist theory of the emotions (Brentano, Husserl, Scheler, Sartre) in favour of affectivity as the non-intentional foundation of the transcendence that deploys the horizon. Not covered: the Introduction and the rest of Sections I-V.*
 
 ### undated - Husserl Erfahrung und Urteil Commentary
 
@@ -1979,6 +2257,147 @@
 
 *Partial pass: Covers Ideas I SS 114-135 and 148-153 as summarised by this commentary: neutrality vs. positionality as a universal consciousness-difference, the extended concept of act and act-stirrings, founded noeses and the new dimension of value-sense, the archontic thesis and the objectivating character of all acts, polythetic/monothetic conversion and nominalization, the expressive Logos layer (Sinn/Bedeutung), the noematic content/sense and the determinable X, the noematic proposition, object-consciousness correlation and the turn to reason, and the problem of phenomenological constitution across regions. Not covered: SS 111-113, 126-127, and the phenomenology-of-reason chapter (SS 136-147).*
 
+### undated - Husserl, Hua 3 — Ideas I, Parts 3–4
+
+`husserliana-3-ideas-i-parts-3-4-commentary`
+
+- **introduced** · `intentionalitaet/hua3-p34/001` · *Intentionalität / intentionality*
+  Intentionality is announced as the general theme of objectively-oriented phenomenology and as what characterizes consciousness in the pregnant sense.
+  `husserliana-3-ideas-i-parts-3-4-commentary#h3-s-84-intentionality-as-the-principal-phenomenological-theme` · Ideas I § 84 · [§ 84\. Intentionality as the Principal Phenomenological Theme](https://faultynode.github.io/commentaries/commentaries/husserl/husserliana-3-ideas-i-parts-3-4-commentary.html#intentionality-as-the-principal-phenomenological-theme)
+  > This sets intentionality as the central theme. Intentionality (being-consciousness-of-something) characterizes consciousness in the strict sense.
+
+- **revised** · `intentionalitaet/hua3-p34/002` · *intentionality (actual / inactual)*
+  Intentionality is broadened beyond the actual cogito to include the inactual background-consciousness of the objective field.
+  `husserliana-3-ideas-i-parts-3-4-commentary#h3-s-84-intentionality-as-the-principal-phenomenological-theme` · Ideas I § 84 · [§ 84\. Intentionality as the Principal Phenomenological Theme](https://faultynode.github.io/commentaries/commentaries/husserl/husserliana-3-ideas-i-parts-3-4-commentary.html#intentionality-as-the-principal-phenomenological-theme)
+  > Intentionality is therefore broader than the actual cogito: it includes the inactual, background consciousness.
+
+- **revised** · `intentionalitaet/hua3-p34/003` · *act / intentional experience*
+  The terms "act" and "intentional experience" are no longer used as equivalent; "act" is reserved for the performed cogito, with the modal difference between performed and unperformed acts kept in view.
+  `husserliana-3-ideas-i-parts-3-4-commentary#h3-s-84-intentionality-as-the-principal-phenomenological-theme` · Ideas I § 84 · [§ 84\. Intentionality as the Principal Phenomenological Theme](https://faultynode.github.io/commentaries/commentaries/husserl/husserliana-3-ideas-i-parts-3-4-commentary.html#intentionality-as-the-principal-phenomenological-theme)
+  > Husserl will reserve "act" for the performed cogito unless otherwise noted, while recognizing the modal difference between performed and unperformed.
+
+- **introduced** · `intentionalitaet/hua3-p34/004` · *sensuous hyle / intentional morphe*
+  The sensuous data have in themselves nothing of intentionality and become part of an intentional experience only through an animating, sense-giving layer laid over them.
+  `husserliana-3-ideas-i-parts-3-4-commentary#h3-s-85-sensuous-hyle-intentional-morphe` · Ideas I § 85 · [§ 85\. Sensuous hyle, Intentional morphe](https://faultynode.github.io/commentaries/commentaries/husserl/husserliana-3-ideas-i-parts-3-4-commentary.html#sensuous-hyle-intentional-morphe)
+  > These data have, in themselves, nothing of intentionality. They become part of an intentional experience only through an "animating," sense-giving layer that lies over them.
+
+- **introduced** · `intentionalitaet/hua3-p34/005` · *noesis*
+  The term "noesis" is introduced for the forming, animating, sense-giving moment that carries intentionality, correlative to the hyletic stuff.
+  `husserliana-3-ideas-i-parts-3-4-commentary#h3-s-85-sensuous-hyle-intentional-morphe` · Ideas I § 85 · [§ 85\. Sensuous hyle, Intentional morphe](https://faultynode.github.io/commentaries/commentaries/husserl/husserliana-3-ideas-i-parts-3-4-commentary.html#sensuous-hyle-intentional-morphe)
+  > So noesis names the forming, animating, sense-giving side of the experience, correlative to the hyletic stuff.
+
+- **criticized** · `intentionalitaet/hua3-p34/006` · *Brentano's psychic / physical phenomena*
+  Brentano's distinction of psychic from physical phenomena is credited as path-breaking for first identifying intentionality as the mark of the mental, while marked as not reaching the phenomenological ground.
+  `husserliana-3-ideas-i-parts-3-4-commentary#h3-s-85-sensuous-hyle-intentional-morphe` · Ideas I § 85 · [§ 85\. Sensuous hyle, Intentional morphe](https://faultynode.github.io/commentaries/commentaries/husserl/husserliana-3-ideas-i-parts-3-4-commentary.html#sensuous-hyle-intentional-morphe)
+  > Brentano's distinction of psychic from physical phenomena (the psychic being the intentional, the "physical phenomena" being the sensory contents) was path-breaking: it first identified intentionality as the mark of the mental, and so opened the way to phenomenology.
+
+- **introduced** · `intentionalitaet/hua3-p34/007` · *functional problems / constitution*
+  The functional problems are the problems of the constitution of objectivities, governed by an a priori correlation of object and consciousness-system.
+  `husserliana-3-ideas-i-parts-3-4-commentary#h3-s-86-the-functional-problems` · Ideas I § 86 · [§ 86\. The Functional Problems](https://faultynode.github.io/commentaries/commentaries/husserl/husserliana-3-ideas-i-parts-3-4-commentary.html#the-functional-problems)
+  > This is the master-principle of constitutive phenomenology: the a priori correlation of object and consciousness.
+
+- **introduced** · `intentionalitaet/hua3-p34/008` · *transcendental phenomenology*
+  Phenomenology is called transcendental because, grasping experiences as "consciousness-of" rather than dead content-complexes, it necessarily reaches the constitution-problems.
+  `husserliana-3-ideas-i-parts-3-4-commentary#h3-s-86-the-functional-problems` · Ideas I § 86 · [§ 86\. The Functional Problems](https://faultynode.github.io/commentaries/commentaries/husserl/husserliana-3-ideas-i-parts-3-4-commentary.html#the-functional-problems)
+  > The transcendental problematic (constitution) is what makes phenomenology transcendental.
+
+- **introduced** · `intentionalitaet/hua3-p34/009` · *reell components / intentional correlate*
+  The master-distinction within intentionality is between the reell components genuinely contained in the experience and the intentional correlate, which is in the experience only intentionally.
+  `husserliana-3-ideas-i-parts-3-4-commentary#h3-s-88-reell-and-intentional-experience-components-the-noema` · Ideas I § 88 · [§ 88\. Reell and Intentional Experience-Components. The Noema](https://faultynode.github.io/commentaries/commentaries/husserl/husserliana-3-ideas-i-parts-3-4-commentary.html#reell-and-intentional-experience-components-the-noema)
+  > The reell is what is genuinely in the experience; the intentional correlate (the noema, introduced below) is the object-as-meant, which is in the experience only intentionally, not reell.
+
+- **introduced** · `intentionalitaet/hua3-p34/010` · *noema*
+  The "perceived as such" (the object-as-meant, surviving the bracketing of the real object) is named the perception-noema, correlative to the noesis.
+  `husserliana-3-ideas-i-parts-3-4-commentary#h3-s-88-reell-and-intentional-experience-components-the-noema` · Ideas I § 88 · [§ 88\. Reell and Intentional Experience-Components. The Noema](https://faultynode.github.io/commentaries/commentaries/husserl/husserliana-3-ideas-i-parts-3-4-commentary.html#reell-and-intentional-experience-components-the-noema)
+  > So every intentional experience has its noema, the object-as-meant, correlative to its noesis, the act of meaning.
+
+- **introduced** · `intentionalitaet/hua3-p34/011` · *perception-sense / noema*
+  The real tree can burn while the perception-sense cannot; the noema is not a real thing but an irreal objective sense belonging to the experience.
+  `husserliana-3-ideas-i-parts-3-4-commentary#h3-s-89-noematic-statements-and-reality-statements-the-noema-in-the-psychological-s` · Ideas I § 89 · [§ 89\. Noematic Statements and Reality-Statements. The Noema in the Psychological Sphere](https://faultynode.github.io/commentaries/commentaries/husserl/husserliana-3-ideas-i-parts-3-4-commentary.html#noematic-statements-and-reality-statements-the-noema-in-the-psychological-sphere)
+  > The noema is not a real thing; it is the objective sense, an irreal correlate belonging to the experience.
+
+- **criticized** · `intentionalitaet/hua3-p34/012` · *immanent / intentional object*
+  Construing the intentional object as an "immanent" object or inner image inhering reell in the experience is rejected by a regress argument: there is one perceived tree, and the noema is not a second thing.
+  `husserliana-3-ideas-i-parts-3-4-commentary#h3-s-90-the-noematic-sense-and-the-distinction-of-immanent-and-actual-objects` · Ideas I § 90 · [§ 90\. The "Noematic Sense" and the Distinction of "Immanent" and "Actual Objects"](https://faultynode.github.io/commentaries/commentaries/husserl/husserliana-3-ideas-i-parts-3-4-commentary.html#the-noematic-sense-and-the-distinction-of-immanent-and-actual-objects)
+  > So the construction is circular and generates an infinite regress. There is no inner image; there is one tree, perceived, and the noema is not a second thing but the tree-as-perceived.
+
+- **introduced** · `intentionalitaet/hua3-p34/013` · *noematic core / character*
+  The noema-doctrine is extended to all act-types, and the full noema is articulated into a core (the objective sense, identical across act-types) plus a differentiating givenness-mode character.
+  `husserliana-3-ideas-i-parts-3-4-commentary#h3-s-91-transference-to-the-widest-sphere-of-intentionality` · Ideas I § 91 · [§ 91\. Transference to the Widest Sphere of Intentionality](https://faultynode.github.io/commentaries/commentaries/husserl/husserliana-3-ideas-i-parts-3-4-commentary.html#transference-to-the-widest-sphere-of-intentionality)
+  > So the noema has a common core (the objective sense) plus a differentiating character (the givenness-mode). The core can be identical across acts; the character necessarily differs.
+
+- **introduced** · `intentionalitaet/hua3-p34/014` · *attentional changes*
+  Attention is a dimension of correlative noetic and noematic modifications: each change of attention is at once a change of the glance-ray and of the illumination of the appearing.
+  `husserliana-3-ideas-i-parts-3-4-commentary#h3-s-92-the-attentional-changes-in-noetic-and-noematic-respect` · Ideas I § 92 · [§ 92\. The Attentional Changes in Noetic and Noematic Respect](https://faultynode.github.io/commentaries/commentaries/husserl/husserliana-3-ideas-i-parts-3-4-commentary.html#the-attentional-changes-in-noetic-and-noematic-respect)
+  > So attention is a dimension of correlative noetic-noematic modifications: every change of attention is at once a noetic change (the glance-ray) and a noematic change (the illumination of the appearing).
+
+- **introduced** · `intentionalitaet/hua3-p34/015` · *judgment-noema / Sinn im Wie*
+  The judgment-noema is the "judged as such," and the full noema is fixed by the formula "the sense in the how of its givenness-mode."
+  `husserliana-3-ideas-i-parts-3-4-commentary#h3-s-94-noesis-and-noema-in-the-realm-of-judgment` · Ideas I § 94 · [§ 94\. Noesis and Noema in the Realm of Judgment](https://faultynode.github.io/commentaries/commentaries/husserl/husserliana-3-ideas-i-parts-3-4-commentary.html#noesis-and-noema-in-the-realm-of-judgment)
+  > Husserl's precise formula: the noema is "the sense in the how of its givenness-mode" (der Sinn im Wie seiner Gegebenheitsweise).
+
+- **revised** · `intentionalitaet/hua3-p34/016` · *intentional essence / epistemic essence*
+  The Logical Investigations' "intentional essence" and "epistemic essence" are self-corrected as read one-sidedly noetically; the pure-logical concept of the proposition is noematic, not noetic.
+  `husserliana-3-ideas-i-parts-3-4-commentary#h3-s-94-noesis-and-noema-in-the-realm-of-judgment` · Logische Untersuchungen V § 21 · [§ 94\. Noesis and Noema in the Realm of Judgment](https://faultynode.github.io/commentaries/commentaries/husserl/husserliana-3-ideas-i-parts-3-4-commentary.html#noesis-and-noema-in-the-realm-of-judgment)
+  > In the Logical Investigations, the "intentional essence" and "epistemic essence" of an act were read one-sidedly as noetic (act-essences). But the pure-logical concept of the proposition (the proposition that pure logic studies) is noematic, not noetic.
+
+- **introduced** · `intentionalitaet/hua3-p34/017` · *noema (non-reell)*
+  The noema belongs to the essence of the perception yet is not a reell component of it, any more than the real tree is.
+  `husserliana-3-ideas-i-parts-3-4-commentary#h3-s-97-the-hyletic-and-noetic-moments-as-reell-the-noematic-as-non-reell-experienc` · Ideas I § 97 · [§ 97\. The Hyletic and Noetic Moments as Reell, the Noematic as Non-Reell Experience-Moments](https://faultynode.github.io/commentaries/commentaries/husserl/husserliana-3-ideas-i-parts-3-4-commentary.html#the-hyletic-and-noetic-moments-as-reell-the-noematic-as-non-reell-experience-moments)
+  > So the noema is neither the real tree (bracketed) nor a real part of the experience; it is the intentional correlate, belonging to the experience but not reell in it.
+
+- **introduced** · `intentionalitaet/hua3-p34/018` · *mode of being of the noema*
+  The noema is non-self-sufficient and its esse consists in its percipi, but not in the Berkeleyan sense, since the percipi does not contain the esse as a reell component.
+  `husserliana-3-ideas-i-parts-3-4-commentary#h3-s-98-mode-of-being-of-the-noema-form-doctrine-of-the-noeses-form-doctrine-of-the` · Ideas I § 98 · [§ 98\. Mode of Being of the Noema. Form-Doctrine of the Noeses. Form-Doctrine of the Noemata](https://faultynode.github.io/commentaries/commentaries/husserl/husserliana-3-ideas-i-parts-3-4-commentary.html#mode-of-being-of-the-noema-form-doctrine-of-the-noeses-form-doctrine-of-the-noemata)
+  > So its esse (being) is its percipi (being-perceived, being-conscious): the noema is only as the perceived-as-such of a perceiving. But this is not Berkeley's esse est percipi.
+
+- **introduced** · `intentionalitaet/hua3-p34/019` · *the two parallelisms*
+  The constitution-parallelism of object and constituting acts must not be confused with the noesis-noema parallelism proper, between noetic and corresponding noematic characters.
+  `husserliana-3-ideas-i-parts-3-4-commentary#h3-s-98-mode-of-being-of-the-noema-form-doctrine-of-the-noeses-form-doctrine-of-the` · Ideas I § 98 · [§ 98\. Mode of Being of the Noema. Form-Doctrine of the Noeses. Form-Doctrine of the Noemata](https://faultynode.github.io/commentaries/commentaries/husserl/husserliana-3-ideas-i-parts-3-4-commentary.html#mode-of-being-of-the-noema-form-doctrine-of-the-noeses-form-doctrine-of-the-noemata)
+  > The second is the noesis-noema parallelism proper: noetic characters versus corresponding noematic characters (the act-features and the object-as-given features that mirror each other).
+
+- **introduced** · `intentionalitaet/hua3-p34/020` · *noematic character / givenness-mode*
+  The givenness-modes (originary, memory-wise, image-wise) are noematic characters at the core, found by looking at the noematic correlate, and are ideell not reell.
+  `husserliana-3-ideas-i-parts-3-4-commentary#h3-s-99-the-noematic-core-and-its-characters-in-the-sphere-of-presentations-and-re` · Ideas I § 99 · [§ 99\. The Noematic Core and its Characters in the Sphere of Presentations and Re-presentations](https://faultynode.github.io/commentaries/commentaries/husserl/husserliana-3-ideas-i-parts-3-4-commentary.html#the-noematic-core-and-its-characters-in-the-sphere-of-presentations-and-re-presentations)
+  > So the givenness-mode is a noematic character, a mode of self-giving of the object, irreal like the noema itself.
+
+- **presupposed** · `intentionalitaet/hua3-p34/021` · *noetic / noematic*
+  The reell/intentional, noetic/noematic separation is taken as the fundamental structure of all intentionality and the leitmotif of phenomenological method.
+  `husserliana-3-ideas-i-parts-3-4-commentary#h3-s-128-introduction` · Ideas I § 128 · [§ 128\. Introduction](https://faultynode.github.io/commentaries/commentaries/husserl/husserliana-3-ideas-i-parts-3-4-commentary.html#introduction)
+  > The reell/intentional, noetic/noematic separation is the fundamental structure of all intentionality, the leitmotif of phenomenological method.
+
+- **introduced** · `intentionalitaet/hua3-p34/022` · *content / sense*
+  Every noema has a content, namely its sense, and relates through it to its object; the sense is the medium of the objective relation.
+  `husserliana-3-ideas-i-parts-3-4-commentary#h3-s-129-content-and-object-the-content-as-sense` · Ideas I § 129 · [§ 129\. "Content" and "Object"; the Content as "Sense"](https://faultynode.github.io/commentaries/commentaries/husserl/husserliana-3-ideas-i-parts-3-4-commentary.html#content-and-object-the-content-as-sense)
+  > The guiding proposition: every noema has a content (sense) and relates through it to its object. So the sense is the medium of the objective relation: consciousness relates to its object through the noematic sense.
+
+- **introduced** · `intentionalitaet/hua3-p34/023` · *the determinable X*
+  The predicates of the noematic sense are predicates of a pure object-point, the determinable X, the identical bearer abstracted from all predicates.
+  `husserliana-3-ideas-i-parts-3-4-commentary#h3-s-131-the-object-the-determinable-x-in-the-noematic-sense` · Ideas I § 131 · [§ 131\. The "Object," the Determinable X in the Noematic Sense](https://faultynode.github.io/commentaries/commentaries/husserl/husserliana-3-ideas-i-parts-3-4-commentary.html#the-object-the-determinable-x-in-the-noematic-sense)
+  > So the determinable X is the pure object-point, the identical bearer, abstracted from all its predicates. It is the "determinable subject" — determinable because it can take predicates, the subject because the predicates are predicated of it.
+
+- **introduced** · `intentionalitaet/hua3-p34/024` · *constitution (wider / narrower)*
+  "Constitution" is distinguished into a wider sense (the mere consciousness of an identical X, whether actual or not) and a narrower sense (the constitution of an actual object).
+  `husserliana-3-ideas-i-parts-3-4-commentary#h3-s-135-object-and-consciousness-transition-to-the-phenomenology-of-reason` · Ideas I § 135 · [§ 135\. Object and Consciousness. Transition to the Phenomenology of Reason](https://faultynode.github.io/commentaries/commentaries/husserl/husserliana-3-ideas-i-parts-3-4-commentary.html#object-and-consciousness-transition-to-the-phenomenology-of-reason)
+  > So "constitution" can mean the constitution of the object-as-meant (wider) or of the actual object (narrower). The reason-question is how the meant identity becomes actual identity.
+
+- **introduced** · `intentionalitaet/hua3-p34/025` · *the given as such / correlate*
+  Bracketed transcendencies re-enter phenomenology as themes studied in two interwoven respects, on the side of the consciousness of them and on the side of the given as such, anticipating the noesis/noema two-sidedness.
+  `husserliana-3-ideas-i-parts-3-4-commentary#h3-s-76-the-theme-of-the-following-investigations` · Ideas I § 76 · [§ 76\. The Theme of the Following Investigations](https://faultynode.github.io/commentaries/commentaries/husserl/husserliana-3-ideas-i-parts-3-4-commentary.html#the-theme-of-the-following-investigations)
+  > This anticipates the noesis/noema two-sidedness (the act-side and the object-side) that organizes the following analyses.
+
+#### Recorded absences
+
+- **absent** · `husserliana-3-ideas-i-parts-3-4-commentary#h3-s-82-continuation-the-threefold-experience-horizon-at-the-same-time-as-the-horiz`
+  Expected because: This section develops the Second Chapter's announced program of laying out the general structures of pure consciousness, working out the threefold time-horizon and the correlation of one ego and one stream, but keeps entirely to the time-form and does not yet thematize intentionality.
+  [§ 82\. Continuation. The Threefold Experience-Horizon, at the Same Time as the Horizon of Experience-Reflection](https://faultynode.github.io/commentaries/commentaries/husserl/husserliana-3-ideas-i-parts-3-4-commentary.html#continuation-the-threefold-experience-horizon-at-the-same-time-as-the-horizon-of-experience-reflection)
+
+- **absent** · `husserliana-3-ideas-i-parts-3-4-commentary#h3-s-83-grasping-the-unitary-experience-stream-as-an-idea`
+  Expected because: This section treats givenness-modes, the attentional horizon of viewed and unviewed experiences, and the non-self-sufficiency of every concrete experience — all of which become noetic-noematic themes from S 84 on — yet analyzes them purely as stream-structure, with intentionality deferred to the next section.
+  [§ 83\. Grasping the Unitary Experience-Stream as an "Idea"](https://faultynode.github.io/commentaries/commentaries/husserl/husserliana-3-ideas-i-parts-3-4-commentary.html#grasping-the-unitary-experience-stream-as-an-idea)
+
+*Partial pass: Covers the introduction and core doctrine of intentionality: S 84 (intentionality as principal theme), S 85 (hyle/morphe, noesis), S 86 (functional/constitution problems), SS 87-96 (the noesis-noema correlation across perception, judgment, feeling, will), SS 97-99 (reell vs non-reell, mode of being of the noema, the full noema and its characters), and SS 128-131, 134-136 (the noematic sense, the determinable X, object-consciousness correlation, evidence as motivated positing). Not covered: SS 63-83 except 76 and 81-83, SS 100-127, SS 132-133, and SS 137-153.*
+
 ### undated - Husserl Die Lebenswelt Commentary
 
 `husserliana-39-die-lebenswelt-commentary`
@@ -2099,6 +2518,77 @@
   > The original "induction" or anticipation proves to be a modification-mode of originally instituting activity — a mode of "intentionality," the anticipating meaning beyond a kernel of givenness.
 
 *Partial pass: Covers the intentionality-relevant core of Hua XXXIX's analysis of the pre-given world: the actual-validity structure of the thematic act and the primal institution (Urstiftung) of a horizon of continuing validity; typification and the overlay of a sedimented sense-schema on every new experience, primal institution according to type, horizons as motivated act-possibilities, and 'being' as a title that has sense only from primal-instituting acts; intentional analysis as evident, right-bestowing interpretation; the sensation-datum as an already-constituted intentional objectuality, the stratified architecture of relative hyle, primary vs. secondary (implicit) objectualities, the privilege of the worldly and the worldlicization of the subjective, the order-bound character of constitutive reflection, and the character of familiarity; the Durchgang/Ende distinction between a gaze that passes through transitional unities and one that terminates at the thing, the objective background as a positively constituted apperceptive field, functioning intentionality with sensation-data as mere transit, and the infinite openness of the end-object; the pre-givenness of the world, the ineffective horizon of the 'unconscious' as a genuinely intentional horizon, horizon-meaning as indeterminate determinability through objects, founded intentionalities as the medium of world-transformation, intersubjectivity as an intra-egoic constitutive achievement, and the empathy-horizon as validity-horizon; and the horizon as original induction / perception through apperception. Not covered: the detailed world-constitution, orientation, apodicticity, reality-structure, praxis, and temporal-constitution analyses of the rest of the volume.*
+
+### undated - Husserl, Hua 43/2 — Studien zur Struktur des Bewusstseins
+
+`husserliana-43-2-studien-zur-struktur-des-bewusstseins-commentary`
+
+- **introduced** · `intentionalitaet/hua43-2/001` · *being-motivation / value-motivation*
+  Just as through primary sensations spatio-temporal being constitutes itself, so through the feelings interwoven with and founded in the sensations something constitutes itself, namely values.
+  `husserliana-43-2-studien-zur-struktur-des-bewusstseins-commentary#h3-s-1-affection-apprehension-turning-toward-and-creative-act-of-the-understanding` · Hua XLIII/2, Part III § 1 · [§ 1\. Affection, Apprehension, Turning-Toward, and Creative Act of the Understanding](https://faultynode.github.io/commentaries/commentaries/husserl/husserliana-43-2-studien-zur-struktur-des-bewusstseins-commentary.html#affection-apprehension-turning-toward-and-creative-act-of-the-understanding)
+  > through the feelings *interwoven with*, *founded in* the sensations, *something* constitutes itself, *namely values*.
+
+- **introduced** · `intentionalitaet/hua43-2/002` · *receptivity / spontaneity schema*
+  The affective sphere is articulated by a receptivity/spontaneity schema parallel on the being- and value-sides: receptivity-sensibility (sensations, feeling- and drive-passivities, blind motivations constitutive of objects of love and value-objects) and spontaneity-understanding (the creative functions of thinking, valuing, and willing), with spontaneity presupposing receptivity.
+  `husserliana-43-2-studien-zur-struktur-des-bewusstseins-commentary#h3-s-1-affection-apprehension-turning-toward-and-creative-act-of-the-understanding` · Hua XLIII/2, Part III § 1 · [§ 1\. Affection, Apprehension, Turning-Toward, and Creative Act of the Understanding](https://faultynode.github.io/commentaries/commentaries/husserl/husserliana-43-2-studien-zur-struktur-des-bewusstseins-commentary.html#affection-apprehension-turning-toward-and-creative-act-of-the-understanding)
+  > *Spontaneity presupposes receptivity*.
+
+- **introduced** · `intentionalitaet/hua43-2/003` · *turning-toward a fantasy-object*
+  Turning toward a fantasy-object, if one lives in the fantasy-world rather than executing it as quasi-turning, is an actual turning-toward and thus a positing of the fantasized as such, an objectivating positing.
+  `husserliana-43-2-studien-zur-struktur-des-bewusstseins-commentary#h3-s-1-affection-apprehension-turning-toward-and-creative-act-of-the-understanding` · Hua XLIII/2, Part III § 1 · [§ 1\. Affection, Apprehension, Turning-Toward, and Creative Act of the Understanding](https://faultynode.github.io/commentaries/commentaries/husserl/husserliana-43-2-studien-zur-struktur-des-bewusstseins-commentary.html#affection-apprehension-turning-toward-and-creative-act-of-the-understanding)
+  > if in doing so I *live in the fantasy-world*, then it is an *actual* turning-toward, and thus a *positing of the fantasized as such* — an objectivating positing.
+
+- **revised** · `intentionalitaet/hua43-2/004` · *turning-toward as executed apprehension*
+  Turning-toward is not the sending of an attention-ray into an unchanged appearance: the whole phenomenon, and above all the apprehension itself, has undergone activation and is executed apprehension (vollzogene Auffassung), whereas sensation constitutes itself passively and time-consciousness is not executed.
+  `husserliana-43-2-studien-zur-struktur-des-bewusstseins-commentary#h3-s-1-affection-apprehension-turning-toward-and-creative-act-of-the-understanding` · Hua XLIII/2, Part III § 1 · [§ 1\. Affection, Apprehension, Turning-Toward, and Creative Act of the Understanding](https://faultynode.github.io/commentaries/commentaries/husserl/husserliana-43-2-studien-zur-struktur-des-bewusstseins-commentary.html#affection-apprehension-turning-toward-and-creative-act-of-the-understanding)
+  > the *whole phenomenon* — and above all, no doubt, the *apprehension itself* — has undergone "*activation*"; it is *executed* apprehension (vollzogene Auffassung), whereas, with respect to *sensation*, we must continue to say that it constitutes itself *passively*
+
+- **introduced** · `intentionalitaet/hua43-2/005` · *mere affection / function*
+  Receptivity divides into the layer of mere affections, which contain nothing of function and in which primary contents constitute themselves as immanent temporalities in the a priori form of immanent time (the constituting taking place through intentionality yet not through acts proper), and the functions of sensible apprehension.
+  `husserliana-43-2-studien-zur-struktur-des-bewusstseins-commentary#h3-s-1-affection-apprehension-turning-toward-and-creative-act-of-the-understanding` · Hua XLIII/2, Part III § 1 · [§ 1\. Affection, Apprehension, Turning-Toward, and Creative Act of the Understanding](https://faultynode.github.io/commentaries/commentaries/husserl/husserliana-43-2-studien-zur-struktur-des-bewusstseins-commentary.html#affection-apprehension-turning-toward-and-creative-act-of-the-understanding)
+  > the layer of *mere affections* (which contain *nothing of function*) — the layer within which the *primary contents* (as immanent temporalities, of course) constitute themselves.
+
+- **introduced** · `intentionalitaet/hua43-2/006` · *living / petrified function*
+  Every function admits a twofold experience-mode, executed and enlivened by spontaneity (living function) or non-executed and un-living (petrified function), and in this sense receptivity of un-living functions is divided from spontaneity of executed functions, without mixing receptivity and affectivity.
+  `husserliana-43-2-studien-zur-struktur-des-bewusstseins-commentary#h3-s-1-affection-apprehension-turning-toward-and-creative-act-of-the-understanding` · Hua XLIII/2, Part III § 1 · [§ 1\. Affection, Apprehension, Turning-Toward, and Creative Act of the Understanding](https://faultynode.github.io/commentaries/commentaries/husserl/husserliana-43-2-studien-zur-struktur-des-bewusstseins-commentary.html#affection-apprehension-turning-toward-and-creative-act-of-the-understanding)
+  > a function can be *executed*, *enlivened by spontaneity*, "*living*" function; and it can be *non-executed*, *non-spontaneous*, *un-living* — petrified function.
+
+- **introduced** · `intentionalitaet/hua43-2/007` · *affection in the framework of time-consciousness*
+  In the extended sense every immanent-unitary experience affects insofar as it can be object of a possible mere turning-toward and positing apprehension, and the sphere of mere affection is one of experiences that can undergo no other animation than the simple turning-toward of inner perception, that is, simple immanent reflection.
+  `husserliana-43-2-studien-zur-struktur-des-bewusstseins-commentary#h3-s-1-affection-apprehension-turning-toward-and-creative-act-of-the-understanding` · Hua XLIII/2, Part III § 1 · [§ 1\. Affection, Apprehension, Turning-Toward, and Creative Act of the Understanding](https://faultynode.github.io/commentaries/commentaries/husserl/husserliana-43-2-studien-zur-struktur-des-bewusstseins-commentary.html#affection-apprehension-turning-toward-and-creative-act-of-the-understanding)
+  > every immanent-unitary experience "*affects*" insofar as it *can be object of possible mere turning-toward and positing apprehension*.
+
+- **introduced** · `intentionalitaet/hua43-2/008` · *the outer appearance as unity of function*
+  Insofar as the outer appearance is a unity of function it has the character of an intentional experience and, when it was un-living functional unity, admits an animating ray of simple positing turning-toward whereby active outer perception arises, and seeing is nothing but the livingness of the apprehension-function as perceptive.
+  `husserliana-43-2-studien-zur-struktur-des-bewusstseins-commentary#h3-s-1-affection-apprehension-turning-toward-and-creative-act-of-the-understanding` · Hua XLIII/2, Part III § 1 · [§ 1\. Affection, Apprehension, Turning-Toward, and Creative Act of the Understanding](https://faultynode.github.io/commentaries/commentaries/husserl/husserliana-43-2-studien-zur-struktur-des-bewusstseins-commentary.html#affection-apprehension-turning-toward-and-creative-act-of-the-understanding)
+  > insofar as it is a *unity of function*, it has the character of an *intentional experience* and admits — when it was *un-living* functional unity — an *animating ray of simple turning-toward*, a *positing, grasping turning-toward*, whereby *active perception*, *outer perception* arises
+
+- **introduced** · `intentionalitaet/hua43-2/009` · *the deepest-lying intentionality*
+  The deepest-lying intentionality lies in the inner consciousness that constitutes the unity in the immanent time-flux, and this inner consciousness has intentionality whereas the sensible sensation as constituted unity does not.
+  `husserliana-43-2-studien-zur-struktur-des-bewusstseins-commentary#h3-s-4-feeling-sensibility-and-intentionality` · Hua XLIII/2, Part III § 4 · [§ 4\. Feeling-Sensibility and Intentionality](https://faultynode.github.io/commentaries/commentaries/husserl/husserliana-43-2-studien-zur-struktur-des-bewusstseins-commentary.html#feeling-sensibility-and-intentionality)
+  > *The deepest-lying intentionality* lies in the *inner consciousness* that *constitutes the unity in the immanent time-flux*.
+
+- **introduced** · `intentionalitaet/hua43-2/010` · *primary feeling / feeling-apprehension*
+  The primary feeling immediately belonging to the primary content likewise has no intentionality; it undergoes a feeling-apprehension, becoming intentional feeling founded in the sensible-theoretical appearance and making possible a higher-stage feeling-appearance.
+  `husserliana-43-2-studien-zur-struktur-des-bewusstseins-commentary#h3-s-4-feeling-sensibility-and-intentionality` · Hua XLIII/2, Part III § 4 · [§ 4\. Feeling-Sensibility and Intentionality](https://faultynode.github.io/commentaries/commentaries/husserl/husserliana-43-2-studien-zur-struktur-des-bewusstseins-commentary.html#feeling-sensibility-and-intentionality)
+  > *Likewise the primary feeling undergoes a "feeling-apprehension," it becomes intentional feeling, which is founded in the sensible-theoretical appearance and makes possible a higher-stage appearance: so to speak, the feeling-appearance.*
+
+- **introduced** · `intentionalitaet/hua43-2/011` · *emotional intentional rays*
+  Feeling-apprehension consists of emotional intentional rays and ray-complexes founded by the underlying theoretical ray-complexes that form a unity of theoretical appearance, and a part of the theoretical rays may remain uncovered, so that the feeling-apprehension is selective in its founding.
+  `husserliana-43-2-studien-zur-struktur-des-bewusstseins-commentary#h3-s-4-feeling-sensibility-and-intentionality` · Hua XLIII/2, Part III § 4 · [§ 4\. Feeling-Sensibility and Intentionality](https://faultynode.github.io/commentaries/commentaries/husserl/husserliana-43-2-studien-zur-struktur-des-bewusstseins-commentary.html#feeling-sensibility-and-intentionality)
+  > *Feeling-apprehension, likewise, consists of emotional "intentional rays" and ray-complexes, founded by the underlying ray-complexes that form a unity of theoretical appearance.*
+
+- **introduced** · `intentionalitaet/hua43-2/012` · *double intentionality / double Repräsentanten*
+  The parallel between theoretical and feeling-apprehension is grounded at the level of the Repräsentanten: a single immanent material, primary content and primary feeling fused in inner consciousness, bears a double intentionality through double Repräsentanten, the value-intentionality being founded in but not reducible to the theoretical.
+  `husserliana-43-2-studien-zur-struktur-des-bewusstseins-commentary#h3-s-4-feeling-sensibility-and-intentionality` · Hua XLIII/2, Part III § 4 · [§ 4\. Feeling-Sensibility and Intentionality](https://faultynode.github.io/commentaries/commentaries/husserl/husserliana-43-2-studien-zur-struktur-des-bewusstseins-commentary.html#feeling-sensibility-and-intentionality)
+  > the *complex of primary contents* bears a *double intentionality* through *double Repräsentanten*.
+
+- **criticized** · `intentionalitaet/hua43-2/013` · *drive-sensibility resists the articulation*
+  Extending the picture to the drive-sphere, the objection at once arises that this is already intentionality, since the drive directed to the continuation of an agreeable tone already has a directedness-toward and its striving intention fulfills itself, finding satisfaction or dissatisfaction, so that drive seems to admit no layer of primary non-intentional drive-content.
+  `husserliana-43-2-studien-zur-struktur-des-bewusstseins-commentary#h3-s-4-feeling-sensibility-and-intentionality` · Hua XLIII/2, Part III § 4 · [§ 4\. Feeling-Sensibility and Intentionality](https://faultynode.github.io/commentaries/commentaries/husserl/husserliana-43-2-studien-zur-struktur-des-bewusstseins-commentary.html#feeling-sensibility-and-intentionality)
+  > *here at once the objection arises that this is already intentionality*: there is *already a directedness-toward*, the *striving intention fulfills itself*, *finds satisfaction or dissatisfaction*.
+
+*Partial pass: Covers Part III § 1 and § 4: the being-motivation / value-motivation contrast, the receptivity/spontaneity schema for both the being- and value-sides, the analysis of turning-toward (Zuwendung) as executed apprehension, the division of receptivity into mere affection and function, the doctrine that the deepest-lying intentionality is in inner time-constituting consciousness while the constituted sensation and primary feeling have none, and the generalization of the Repraesentanten-doctrine to feeling (double intentionality on a single immanent material). Not covered: Parts I-II and Part III §§ 2-3.*
 
 ### undated - Hua 5 - Ideas III
 
