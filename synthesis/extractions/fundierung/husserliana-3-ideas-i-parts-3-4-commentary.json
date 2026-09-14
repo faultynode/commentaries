@@ -2,7 +2,7 @@
   "schema_version": 1,
   "theme": "fundierung",
   "commentary": "husserliana-3-ideas-i-parts-3-4-commentary",
-  "source_sha256": "cca8c38ab34388e5a559649f69b70591451b461759746ee131fb0656b0e0b361",
+  "source_sha256": "f19201709befc4de8b6bb22946e7a6025dab23288f3e0eedcb69c94689a60ce1",
   "extracted_at": "2026-09-12",
   "extractor": {
     "agent": "claude-code",

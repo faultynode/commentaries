@@ -1,0 +1,172 @@
+{
+  "schema_version": 1,
+  "theme": "sorge",
+  "commentary": "heidegger-ga-18-grundbegriffe-der-aristotelischen-philosophie-commentary",
+  "source_sha256": "9f1def7ddb13a608d73a01f2d922e9d88a1c907d9d302fedae8cde63382f6a36",
+  "extracted_at": "2026-09-14",
+  "extractor": {
+    "agent": "claude-code",
+    "prompt": "prompts/extraction-prompt.md",
+    "note": "Run after the chronology pass dated the course to Summer Semester 1924, which is what let it go on the ledger spine at all (gap-001)."
+  },
+  "coverage": "partial",
+  "coverage_note": "The Introduction and Chapters 1-3 of the First Part (SS 9-17), where the concerning-character of world, the structure of concern and the self-concern of Dasein are set out, together with three checked absences later in the First Part. SS 18-26 carry term hits and have not been extracted.",
+  "units": [
+    {
+      "id": "sorge/ga18/001",
+      "locator": "heidegger-ga-18-grundbegriffe-der-aristotelischen-philosophie-commentary#h4-b-the-logos-of-the-human-and-the-phone-of-the-animal-as-peculiar-modes-of-being",
+      "primary_locator": "GA 18 § 9",
+      "stratum": "ga18-1924",
+      "term": "Begegnen",
+      "claim": "The world's coming-to-meet a living being is characterised as being-concerned: the way world is there for life at all is that it bears on it.",
+      "status": "introduced",
+      "quote": "This bearing-on, this being-concerned by the world one is in, Heidegger calls a definite mode of the world's *coming-to-meet* (*Begegnen*) in life."
+    },
+    {
+      "id": "sorge/ga18/002",
+      "locator": "heidegger-ga-18-grundbegriffe-der-aristotelischen-philosophie-commentary#h4-b-the-logos-of-the-human-and-the-phone-of-the-animal-as-peculiar-modes-of-being",
+      "primary_locator": "GA 18 § 9",
+      "stratum": "ga18-1924",
+      "term": "Belanglosigkeit",
+      "claim": "Inconsequentiality is a mode of the concerning-character and not its absence, which makes the concerning-character the more original determination of the surrounding world.",
+      "status": "introduced",
+      "quote": "Precisely in declaring something inconsequential, *Dasein* interprets the world as something that *could* concern it — so the concerning-character is the more original."
+    },
+    {
+      "id": "sorge/ga18/003",
+      "locator": "heidegger-ga-18-grundbegriffe-der-aristotelischen-philosophie-commentary#h4-b-the-ground-determinations-of-the-agathon",
+      "primary_locator": "GA 18 § 10",
+      "stratum": "ga18-1924",
+      "term": "concern",
+      "claim": "Concern is glossed as a knowing-one's-way-about: taking care of something already says that one knows one's way within the circle of what one sets oneself.",
+      "status": "introduced",
+      "quote": "\"I take care of something\" already says that I know my way within the circle of what I set myself"
+    },
+    {
+      "id": "sorge/ga18/004",
+      "locator": "heidegger-ga-18-grundbegriffe-der-aristotelischen-philosophie-commentary#h4-b-the-ground-determinations-of-the-agathon",
+      "primary_locator": "GA 18 § 10",
+      "stratum": "ga18-1924",
+      "term": "concern",
+      "claim": "Concern is said to have the character of peras: its enactment is possible only because what is taken care of is there, and on this the determination Dasein is being-limited rests.",
+      "status": "presupposed",
+      "quote": "the enactment of concern is possible only because what is taken care of is there, because concern does not grasp into the void, because concern has the character of *peras*"
+    },
+    {
+      "id": "sorge/ga18/005",
+      "locator": "heidegger-ga-18-grundbegriffe-der-aristotelischen-philosophie-commentary#h4-b-the-ground-determinations-of-the-agathon",
+      "primary_locator": "GA 18 § 10",
+      "stratum": "ga18-1924",
+      "term": "concerns",
+      "claim": "The concerns of a Dasein form not a heap but a nexus determined by being-with-one-another, so that the manifold of concerns is structured in advance by the with.",
+      "status": "presupposed",
+      "quote": "a manifold of concerns is given — not a heap but a *multiplicity with a nexus* determined by the character of being-with-one-another"
+    },
+    {
+      "id": "sorge/ga18/006",
+      "locator": "heidegger-ga-18-grundbegriffe-der-aristotelischen-philosophie-commentary#h4-b-the-psyches-energeia-kat-areten-as-the-being-possibility-of-the-human-that-sat",
+      "primary_locator": "GA 18 § 12",
+      "stratum": "ga18-1924",
+      "term": "concern",
+      "claim": "Being-in-the-world is determined as a mode of being that can take care of something in the world, and the concern is specified as the concern of a being that speaks.",
+      "status": "presupposed",
+      "quote": "one mode of being-in-the-world such that it can *take care* of something in it, a concern of a being that *speaks*"
+    },
+    {
+      "id": "sorge/ga18/007",
+      "locator": "heidegger-ga-18-grundbegriffe-der-aristotelischen-philosophie-commentary#h3-s-13-being-speaking-as-being-able-to-hear-and-as-the-possibility-of-falling-the",
+      "primary_locator": "GA 18 § 13",
+      "stratum": "ga18-1924",
+      "term": "concernful life",
+      "claim": "Concernful life is tied to hearing: the life in which speaking is co-present speaks in such a way that it hears itself.",
+      "status": "presupposed",
+      "quote": "So the concernful life in which speaking is co-present speaks such that it *hears itself*."
+    },
+    {
+      "id": "sorge/ga18/008",
+      "locator": "heidegger-ga-18-grundbegriffe-der-aristotelischen-philosophie-commentary#h4-c-logos-itself-as-pistis",
+      "primary_locator": "GA 18 § 14",
+      "stratum": "ga18-1924",
+      "term": "concern",
+      "claim": "Concern is given a threefold temporal structure: it takes care of the not-yet-present, speaks of the already-happened and contemplates the now-there.",
+      "status": "introduced",
+      "quote": "Being as concern and concernful speaking is temporal: it takes care of the not-yet-present, speaks about the already-happened, contemplates the now-there."
+    },
+    {
+      "id": "sorge/ga18/009",
+      "locator": "heidegger-ga-18-grundbegriffe-der-aristotelischen-philosophie-commentary#h4-b-recalling-the-nexus-of-the-treatment-of-doxa",
+      "primary_locator": "GA 18 § 15",
+      "stratum": "ga18-1924",
+      "term": "concern",
+      "claim": "The being-in-the-world whose character is concern is one in which its own being is at issue: in taking care of what life deals with, it takes care of its own being.",
+      "status": "presupposed",
+      "quote": "in this being-in-the-world *the being itself is at issue*: *eudaimonia* is taken care of — in taking care of what life deals with, it takes care of its own being"
+    },
+    {
+      "id": "sorge/ga18/010",
+      "locator": "heidegger-ga-18-grundbegriffe-der-aristotelischen-philosophie-commentary#h4-c-the-hexis-and-the-arete",
+      "primary_locator": "GA 18 § 17",
+      "stratum": "ga18-1924",
+      "term": "care",
+      "claim": "The first of four ground-moments of Dasein drawn from hexis and arete states that Dasein as concern is care about itself, and that this self-concern is mostly inexplicit.",
+      "status": "introduced",
+      "quote": "in dealing about in the world, in dealing with other humans, the so-dealing *Dasein* takes care of itself, its being — *Dasein* as concern is care about itself, mostly inexplicit"
+    }
+  ],
+  "absences": [
+    {
+      "locator": "heidegger-ga-18-grundbegriffe-der-aristotelischen-philosophie-commentary#h4-a-the-hexis-of-aletheuein-eth-nic-d-12-13",
+      "expected_because": "The hexis of aletheuein is where phronesis is set out, and § 17 has just made Dasein as concern care about itself by way of hexis. The argument runs here in aletheuein and hexis instead, with no term of the family.",
+      "note": "This is the GA 19 pattern one semester earlier: the same near-absence at the phronesis material, in the same vocabulary. gap-004 asks whether that absence belongs to the course or to the commentary's rendering; GA 18 shows it is not peculiar to GA 19.",
+      "absent_terms": [
+        "Sorge",
+        "Besorgen",
+        "Fürsorge",
+        "Bekümmerung",
+        "care",
+        "concern",
+        "concernful",
+        "solicitude",
+        "being-out-for",
+        "taking care",
+        "caring"
+      ]
+    },
+    {
+      "locator": "heidegger-ga-18-grundbegriffe-der-aristotelischen-philosophie-commentary#h4-c-repetition-and-continuation-of-the-delimitation-of-doxa-doxa-and-being-resolve",
+      "expected_because": "Being-resolved (proairesis) is treated here, and resoluteness is a mode of care wherever care is a formal structure. The section carries no term of the family, so the two are not yet joined.",
+      "note": "An absence that periodizes: in SS 1924 being-resolved is delimited against doxa, not referred to care.",
+      "absent_terms": [
+        "Sorge",
+        "Besorgen",
+        "Fürsorge",
+        "Bekümmerung",
+        "care",
+        "concern",
+        "concernful",
+        "solicitude",
+        "being-out-for",
+        "taking care",
+        "caring"
+      ]
+    },
+    {
+      "locator": "heidegger-ga-18-grundbegriffe-der-aristotelischen-philosophie-commentary#h4-g-fear-as-pistis-courage-as-the-possibility-of-composure-toward-it-the-pathe-as",
+      "expected_because": "Fear and courage are treated as pisteis and as pathe. Where care is a formal structure of Dasein, fear is a mode of disposedness grounded in it, as GA 20 § 30 has it; here the analysis is carried by pistis and composure instead.",
+      "note": "The neighbouring section f) on the disposedness in being-afraid does carry the vocabulary, so this is an absence within a treatment of fear, not a gap in the course's attention to it.",
+      "absent_terms": [
+        "Sorge",
+        "Besorgen",
+        "Fürsorge",
+        "Bekümmerung",
+        "care",
+        "concern",
+        "concernful",
+        "solicitude",
+        "being-out-for",
+        "taking care",
+        "caring"
+      ]
+    }
+  ]
+}

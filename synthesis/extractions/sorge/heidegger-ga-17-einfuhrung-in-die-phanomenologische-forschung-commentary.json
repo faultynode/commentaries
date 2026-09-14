@@ -1,0 +1,164 @@
+{
+  "schema_version": 1,
+  "theme": "sorge",
+  "commentary": "heidegger-ga-17-einfuhrung-in-die-phanomenologische-forschung-commentary",
+  "source_sha256": "ed66742cbd4dd82f4df2239b2d0d2f8268b4295f940c4395d683c46c070894f3",
+  "extracted_at": "2026-09-14",
+  "extractor": {
+    "agent": "claude-code",
+    "prompt": "prompts/extraction-prompt.md",
+    "note": "Run after the chronology pass registered the course at Winter Semester 1923/24, which makes it the earliest dated stratum on this ledger."
+  },
+  "coverage": "partial",
+  "coverage_note": "The care of knowing where the course builds it: SS 7, 12, 16 and 22 in Chapter Two, S 37 in the Descartes chapters and S 50 at the close, with two checked absences in the Descartes material. The remaining SS carry term hits and have not been extracted.",
+  "units": [
+    {
+      "id": "sorge/ga17/001",
+      "locator": "heidegger-ga-17-einfuhrung-in-die-phanomenologische-forschung-commentary#h4-s-7-husserl-s-confrontation-with-contemporary-philosophy-in-philosophy-as-rigoro",
+      "primary_locator": "GA 17 § 7",
+      "stratum": "ga17-1923",
+      "term": "Sorge um erkannte Erkenntnis",
+      "claim": "The care for known knowledge is named as what is alive in Husserl's demand for rigorous science: knowing is to be brought to a knowing of knowing, attestable from an ultimately secured ground.",
+      "status": "introduced",
+      "quote": "care for known knowledge*, such that the knowing of knowing becomes attestable from an ultimately secured ground."
+    },
+    {
+      "id": "sorge/ga17/002",
+      "locator": "heidegger-ga-17-einfuhrung-in-die-phanomenologische-forschung-commentary#h4-s-12-characteristic-moments-of-the-care-for-known-knowledge-in-husserl-s-critiqu",
+      "primary_locator": "GA 17 § 12",
+      "stratum": "ga17-1923",
+      "term": "Rückschein",
+      "claim": "Back-shine is the first structural moment of the care: what stands in the care determines everything that enters its field, and it is a moment of the care precisely insofar as the care knows nothing of itself.",
+      "status": "introduced",
+      "quote": "The back-shine is a moment of the care *insofar as the care knows nothing of itself*."
+    },
+    {
+      "id": "sorge/ga17/003",
+      "locator": "heidegger-ga-17-einfuhrung-in-die-phanomenologische-forschung-commentary#h4-s-12-characteristic-moments-of-the-care-for-known-knowledge-in-husserl-s-critiqu",
+      "primary_locator": "GA 17 § 12",
+      "stratum": "ga17-1923",
+      "term": "Verfallen",
+      "claim": "Falling is given as a moment of the care of knowing: the care has no time to reflect on whether what it deals with is determined by itself, and falls to what it cares for.",
+      "status": "introduced",
+      "quote": "the care has no time for reflection on whether what it deals with is in the end determined by itself; it falls to what it cares for, drawn by it inexpressly"
+    },
+    {
+      "id": "sorge/ga17/004",
+      "locator": "heidegger-ga-17-einfuhrung-in-die-phanomenologische-forschung-commentary#h4-s-12-characteristic-moments-of-the-care-for-known-knowledge-in-husserl-s-critiqu",
+      "primary_locator": "GA 17 § 12",
+      "stratum": "ga17-1923",
+      "term": "Verfängnis",
+      "claim": "Ensnarement is the more originary moment: the care is what it is by ensnaring itself in itself, and this is said to belong more intimately to the being-character of Dasein.",
+      "status": "introduced",
+      "quote": "the care, absorbing itself in the cared-for, *is what it is by ensnaring itself in itself* — a ground-phenomenon Heidegger says belongs more intimately to the being-character of Dasein"
+    },
+    {
+      "id": "sorge/ga17/005",
+      "locator": "heidegger-ga-17-einfuhrung-in-die-phanomenologische-forschung-commentary#h4-s-16-the-disclosing-of-the-thematic-field-consciousness-by-the-care-for-known-kn",
+      "primary_locator": "GA 17 § 16",
+      "stratum": "ga17-1923",
+      "term": "Umsicht",
+      "claim": "Every care is seeing: a sightedness belongs to being-within-a-world, and each care has a directed regard alive in the enactment as circumspection, led by the care's intent.",
+      "status": "introduced",
+      "quote": "Every care has its *Hinblick*, a directed regard alive in the enactment as *Umsicht*, circumspection, led by what Heidegger calls the care's *Absicht*, its intent."
+    },
+    {
+      "id": "sorge/ga17/006",
+      "locator": "heidegger-ga-17-einfuhrung-in-die-phanomenologische-forschung-commentary#h4-s-16-the-disclosing-of-the-thematic-field-consciousness-by-the-care-for-known-kn",
+      "primary_locator": "GA 17 § 16",
+      "stratum": "ga17-1923",
+      "term": "Sorge",
+      "claim": "Care is declared a way of Dasein: facticity belongs to the what-being of the care itself, so that every care is in its being factical care.",
+      "status": "presupposed",
+      "quote": "every care is in its being *factical* care — facticity belongs to the what-being of the care itself, which is to say the care *is a way of Dasein*"
+    },
+    {
+      "id": "sorge/ga17/007",
+      "locator": "heidegger-ga-17-einfuhrung-in-die-phanomenologische-forschung-commentary#h4-s-16-the-disclosing-of-the-thematic-field-consciousness-by-the-care-for-known-kn",
+      "primary_locator": "GA 17 § 16",
+      "stratum": "ga17-1923",
+      "term": "caring",
+      "claim": "Being-in-a-world is glossed as having the world in the mode of caring for it, rather than as a relation between two objects.",
+      "status": "presupposed",
+      "quote": "\"in a world\" names not two objects related but that the specific being of the living thing is grounded in *having* the world in the mode of caring for it"
+    },
+    {
+      "id": "sorge/ga17/008",
+      "locator": "heidegger-ga-17-einfuhrung-in-die-phanomenologische-forschung-commentary#h4-s-22-three-possibilities-of-the-care-of-knowing-curiosity-security-bindingness",
+      "primary_locator": "GA 17 § 22",
+      "stratum": "ga17-1923",
+      "term": "care of knowing",
+      "claim": "The care for known knowledge is only one possibility of the care of knowing, which has three: curiosity, security and bindingness.",
+      "status": "introduced",
+      "quote": "The care of knowing has three: *curiosity* (Neugier), *security* (Sicherheit), and *bindingness* (Verbindlichkeit)."
+    },
+    {
+      "id": "sorge/ga17/009",
+      "locator": "heidegger-ga-17-einfuhrung-in-die-phanomenologische-forschung-commentary#h4-s-22-three-possibilities-of-the-care-of-knowing-curiosity-security-bindingness",
+      "primary_locator": "GA 17 § 22",
+      "stratum": "ga17-1923",
+      "term": "Neugier",
+      "claim": "Curiosity is a care that wants only ever-new possibilities of knowing, no longer caring what it knows or the being of what it knows.",
+      "status": "introduced",
+      "quote": "it wants only the possibility of pressing ever further, no longer caring *what* it knows, still less the *being* of what it knows"
+    },
+    {
+      "id": "sorge/ga17/010",
+      "locator": "heidegger-ga-17-einfuhrung-in-die-phanomenologische-forschung-commentary#h4-s-37-the-care-of-knowing-as-care-of-certainty-as-sichvergreifen",
+      "primary_locator": "GA 17 § 37",
+      "stratum": "ga17-1923",
+      "term": "care of certainty",
+      "claim": "The care of knowing is determined more sharply as the care of certainty: it does not tarry with a being as being but goes upon beings in the how of their graspability, seen upon assent.",
+      "status": "revised",
+      "quote": "the care of knowing does not tarry with a being *qua* being, does not regard objects as to their content, but goes upon them *in the how of their graspability*, and that graspability seen upon *assent*"
+    },
+    {
+      "id": "sorge/ga17/011",
+      "locator": "heidegger-ga-17-einfuhrung-in-die-phanomenologische-forschung-commentary#h4-s-50-repetition-of-the-traversed-characters-of-the-care-of-knowing-and-the-exhib",
+      "primary_locator": "GA 17 § 50",
+      "stratum": "ga17-1923",
+      "term": "care",
+      "claim": "Tradition befalls the care without becoming express, so that the care is not transparent to its own being-possibilities; only a being that sees itself in its situation can make the tradition express.",
+      "status": "presupposed",
+      "quote": "tradition *befalls* it without becoming express, which means the care is *not transparent to its own being-possibilities*"
+    }
+  ],
+  "absences": [
+    {
+      "locator": "heidegger-ga-17-einfuhrung-in-die-phanomenologische-forschung-commentary#h4-s-24-the-cogito-sum-the-clara-et-distincta-perceptio-and-the-task-of-an-ontologi",
+      "expected_because": "The cogito sum is where the course's Descartes reading has its centre, and § 37 will name the care of certainty as what performs the substitution of certum for ens. The section states the ontological task and carries no term of the family.",
+      "note": "The care-vocabulary carries the diagnosis, not the exposition: where the commentary sets out what Descartes says, it drops away, and returns when the course says what the saying is a care of.",
+      "absent_terms": [
+        "Sorge",
+        "Besorgen",
+        "Fürsorge",
+        "Bekümmerung",
+        "care",
+        "concern",
+        "concernful",
+        "solicitude",
+        "being-out-for",
+        "taking care",
+        "caring"
+      ]
+    },
+    {
+      "locator": "heidegger-ga-17-einfuhrung-in-die-phanomenologische-forschung-commentary#h4-ss-29-30-the-connection-of-verum-and-ens-being-true-as-a-mode-of-being-the-prope",
+      "expected_because": "Being-true as a mode of being is exactly the connection § 37 puts into the care - esse as verum and verum as certum primarily set into the care. Here the connection is drawn without the term.",
+      "note": "Read with § 37, this marks where the course's own analysis is ontological rather than care-analytic.",
+      "absent_terms": [
+        "Sorge",
+        "Besorgen",
+        "Fürsorge",
+        "Bekümmerung",
+        "care",
+        "concern",
+        "concernful",
+        "solicitude",
+        "being-out-for",
+        "taking care",
+        "caring"
+      ]
+    }
+  ]
+}

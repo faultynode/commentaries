@@ -373,30 +373,16 @@
     {
       "commentary": "husserliana-3-ideas-i-commentary",
       "role": "primary",
-      "status": "unresolved",
+      "status": "resolved",
+      "note": "Same text and same stratum as husserliana-3-ideas-i-commentary, which covers a different range of the same book; the ids are kept distinct because stratum ids are one global namespace.",
       "strata": [
         {
-          "id": "hua3-undated",
-          "label": "Date not stated in the commentary",
-          "year_start": null,
-          "year_end": null,
-          "stated_in_commentary": false,
-          "evidence": "Opening names the volume and the range covered (§§111-153) but no date."
-        }
-      ]
-    },
-    {
-      "commentary": "husserliana-3-ideas-i-parts-3-4-commentary",
-      "role": "primary",
-      "status": "unresolved",
-      "strata": [
-        {
-          "id": "hua3-parts34-undated",
-          "label": "Date not stated in the commentary",
-          "year_start": null,
-          "year_end": null,
-          "stated_in_commentary": false,
-          "evidence": "Opening frontmatter gives title only; commentary opens directly with §63 without dating the edition or work."
+          "id": "hua3-parts-3-4-1913",
+          "label": "First Book, text of the first to third editions (1913, 1922, 1928)",
+          "year_start": 1913,
+          "year_end": 1928,
+          "stated_in_commentary": true,
+          "evidence": "\"The First Book appeared in Husserl's lifetime in three almost entirely identical editions, in 1913, 1922 and 1928\""
         }
       ]
     },
@@ -598,22 +584,126 @@
           "year_start": 1994,
           "year_end": 1994,
           "stated_in_commentary": true,
-          "evidence": "\"References are to the pagination of the Presses Universitaires de France edition (Épiméthée, 1994)\""
+          "evidence": "\"Fichte's *The Science of Knowing* (1804 Lectures on the *Wissenschaftslehre*)\""
         }
       ]
     },
     {
-      "commentary": "bernet-la-vie-du-sujet-commentary",
-      "role": "reception",
+      "commentary": "heidegger-ga-18-grundbegriffe-der-aristotelischen-philosophie-commentary",
+      "role": "primary",
       "status": "resolved",
       "strata": [
         {
-          "id": "bernet-vie-1994",
-          "label": "*La vie du sujet: Recherches sur l'interprétation de Husserl dans la phénoménologie*, 1994",
-          "year_start": 1994,
-          "year_end": 1994,
+          "id": "ga18-1924",
+          "label": "Marburg lecture course, Summer Semester 1924",
+          "year_start": 1924,
+          "year_end": 1924,
           "stated_in_commentary": true,
-          "evidence": "\"References are to the pagination of the Presses Universitaires de France edition (Épiméthée, 1994)\""
+          "evidence": "\"Marburg lecture course, Summer Semester 1924, delivered four hours weekly at the Philipps University in Marburg. Edited by Mark Michalski.\""
+        }
+      ]
+    },
+    {
+      "commentary": "husserl-erfahrung-und-urteil-commentary",
+      "role": "primary",
+      "status": "unresolved",
+      "strata": [
+        {
+          "id": "eu-undated",
+          "label": "Date not stated in the commentary",
+          "year_start": null,
+          "year_end": null,
+          "stated_in_commentary": false,
+          "evidence": "Opening gives title and unit scheme only. The Landgrebe compilation strata are not identified anywhere in the file."
+        }
+      ],
+      "note": "Stays unresolved for want of the volume, not for want of a pass: no edition of Erfahrung und Urteil is in faultynode/sources, so the Landgrebe compilation strata cannot be taken from the source the way GA 18 and Hua XVII were. Resolving it means bringing the volume into the sources repo first."
+    },
+    {
+      "commentary": "husserl-formal-and-transcendental-logic-commentary",
+      "role": "primary",
+      "status": "resolved",
+      "note": "The 1937 annotations sit in an apparatus beneath the 1929 text, not in it. A unit takes the 1937 stratum only where the commentary reads an annotation; the running text is 1929 throughout.",
+      "strata": [
+        {
+          "id": "ftl-1929",
+          "label": "Original text, Jahrbuch fuer Philosophie und phaenomenologische Forschung, 1929",
+          "year_start": 1929,
+          "year_end": 1929,
+          "stated_in_commentary": true,
+          "evidence": "\"The text is the original, unaltered version of the work as it appeared in 1929 in the\""
+        },
+        {
+          "id": "ftl-1937",
+          "label": "Husserl's pencil annotations in his own copy, 1937",
+          "year_start": 1937,
+          "year_end": 1937,
+          "stated_in_commentary": true,
+          "evidence": "\"The pencil annotations Husserl entered in his own copy in 1937, on returning to the work, are printed in an apparatus below the text rather than within it.\""
+        }
+      ]
+    },
+    {
+      "commentary": "husserliana-1-cartesianische-meditationen-commentary",
+      "role": "primary",
+      "status": "resolved",
+      "note": "The commentary works through the Meditations, not the Paris lectures, which the volume prints separately as their preliminary stage. The Fifth Meditation is the latest layer of the German text and should not be dated with the first four.",
+      "strata": [
+        {
+          "id": "hua1-paris-1929",
+          "label": "Paris lectures, Sorbonne, 23 and 25 February 1929 (preliminary stage)",
+          "year_start": 1929,
+          "year_end": 1929,
+          "stated_in_commentary": true,
+          "evidence": "\"two double lectures given at the Sorbonne on 23 and 25 February 1929\""
+        },
+        {
+          "id": "hua1-meditationen-1929",
+          "label": "The Meditations drafted March-May 1929 and revised at least three times",
+          "year_start": 1929,
+          "year_end": 1929,
+          "stated_in_commentary": true,
+          "evidence": "\"Husserl drafted the Meditations themselves from 15 March to 6 April and again from about 15 April to 16 May 1929, then revised the typescript at least three further times, rewriting the Fifth Meditation entirely.\""
+        },
+        {
+          "id": "hua1-french-1931",
+          "label": "French translation, Méditations Cartésiennes, A. Colin, Paris, 1931",
+          "year_start": 1931,
+          "year_end": 1931,
+          "stated_in_commentary": true,
+          "evidence": "\"The French translation appeared as\""
+        }
+      ]
+    },
+    {
+      "commentary": "husserliana-3-ideas-i-commentary",
+      "role": "primary",
+      "status": "resolved",
+      "note": "Husserliana III/1 prints only the text published in Husserl's lifetime; his handwritten additions toward a revision are in III/2 and are not in what this commentary reads. The three editions are almost entirely identical, so the stratum spans them rather than splitting.",
+      "strata": [
+        {
+          "id": "hua3-1913",
+          "label": "First Book, text of the first to third editions (1913, 1922, 1928)",
+          "year_start": 1913,
+          "year_end": 1928,
+          "stated_in_commentary": true,
+          "evidence": "\"appeared in Husserl's lifetime in three almost entirely identical editions, in 1913, 1922 and 1928\""
+        }
+      ]
+    },
+    {
+      "commentary": "husserliana-5-ideas-iii-commentary",
+      "role": "primary",
+      "status": "resolved",
+      "note": "Husserl's additions and marginal remarks in the Landgrebe version are a later layer that the volume's apparatus records but does not date; no stratum is given for them here. The second transcription the edition collates is not named in the material consulted, so nothing is recorded of it - in particular, the Stein strata carried by husserliana-4-ideas-ii-commentary are still not copied across.",
+      "strata": [
+        {
+          "id": "hua5-1912",
+          "label": "Second part of the original pencil manuscript of 1912",
+          "year_start": 1912,
+          "year_end": 1912,
+          "stated_in_commentary": true,
+          "evidence": "\"The Third Book rests exclusively on the second part of Husserl's original pencil manuscript of 1912, written immediately after the manuscript of the First Book, which appeared in 1913.\""
         }
       ]
     },
@@ -630,7 +720,8 @@
           "stated_in_commentary": true,
           "evidence": "\"The Introduction is dated 'Juillet 1961.'\""
         }
-      ]
+      ],
+      "note": "Stays unresolved for want of the volume: Hua XXXIX is not in faultynode/sources. The volume collects manuscripts of several dates, so what is wanted from it is a set of strata, not a date - a single date would be wrong even if one were stated."
     },
     {
       "commentary": "derrida-la-voix-et-le-phenomene-commentary",
@@ -756,23 +847,15 @@
       "commentary": "husserliana-28-vorlesungen-uber-ethik-und-wertlehre-commentary",
       "role": "primary",
       "status": "resolved",
-      "note": "Two layers, stated by the commentary's own opening: the 1914 course is the latest and fullest redaction of a core course of 1908/09. The commentary covers Part A, i.e. the 1914 redaction; the 1908/09 stratum is recorded because the commentary names it as what that redaction redacts, not because any unit has been assigned to it.",
+      "note": "The printed text is a composite: Heidegger's lecture manuscript joined with Simon Moser's transcript of the delivered course, assembled on Heidegger's instructions. One delivery, but not a single authorial document.",
       "strata": [
         {
-          "id": "hua28-1908-09",
-          "label": "Core ethics course, 1908/09, which the 1914 course redacts",
-          "year_start": 1908,
-          "year_end": 1909,
+          "id": "ga24-1927",
+          "label": "Marburg lecture course, Summer Semester 1927",
+          "year_start": 1927,
+          "year_end": 1927,
           "stated_in_commentary": true,
-          "evidence": "opening note: \"the latest and fullest redaction of the core 1908/09 ethics course\""
-        },
-        {
-          "id": "hua28-1914",
-          "label": "Vorlesungen über Grundfragen zur Ethik und Wertlehre, 1914 (Part A, the range covered)",
-          "year_start": 1914,
-          "year_end": 1914,
-          "stated_in_commentary": true,
-          "evidence": "opening note: \"the lecture course *Vorlesungen über Grundfragen zur Ethik und Wertlehre* of 1914, which Ullrich Melle places first in the volume\""
+          "evidence": "\"Marburg lecture course, Summer Semester 1927, delivered four hours weekly. Edited by Friedrich-Wilhelm von Herrmann.\""
         }
       ]
     },
@@ -818,6 +901,151 @@
           "year_end": 1981,
           "stated_in_commentary": true,
           "evidence": "title line: \"***Chair et corps: Sur la phénoménologie de Husserl*** **(1981)**\""
+        }
+      ]
+    },
+    {
+      "commentary": "franck-chair-et-corps-commentary",
+      "role": "reception",
+      "status": "resolved",
+      "strata": [
+        {
+          "id": "franck-chair-1981",
+          "label": "Chair et corps: Sur la phenomenologie de Husserl (1981)",
+          "year_start": 1981,
+          "year_end": 1981,
+          "stated_in_commentary": true,
+          "evidence": "\"Chair et corps: Sur la phénoménologie de Husserl*** **(1981)\""
+        }
+      ]
+    },
+    {
+      "commentary": "franck-heidegger-and-the-problem-of-space-commentary",
+      "role": "reception",
+      "status": "resolved",
+      "strata": [
+        {
+          "id": "franck-espace-1986",
+          "label": "Heidegger and the Problem of Space (1986)",
+          "year_start": 1986,
+          "year_end": 1986,
+          "stated_in_commentary": true,
+          "evidence": "\"Didier Franck, *Heidegger and the Problem of Space* (1986)\""
+        }
+      ]
+    },
+    {
+      "commentary": "heidegger-ga-3-kant-und-das-problem-der-metaphysik-commentary",
+      "role": "primary",
+      "status": "resolved",
+      "strata": [
+        {
+          "id": "ga3-1929",
+          "label": "Kant und das Problem der Metaphysik, 1929",
+          "year_start": 1929,
+          "year_end": 1929,
+          "stated_in_commentary": true,
+          "evidence": "\"the *Kantbuch* of 1929\""
+        }
+      ]
+    },
+    {
+      "commentary": "heidegger-ga-17-einfuhrung-in-die-phanomenologische-forschung-commentary",
+      "role": "primary",
+      "status": "resolved",
+      "strata": [
+        {
+          "id": "ga17-1923",
+          "label": "Marburg lecture course, Winter Semester 1923/24",
+          "year_start": 1923,
+          "year_end": 1924,
+          "stated_in_commentary": true,
+          "evidence": "\"the Marburg lecture course of Winter Semester 1923/24\""
+        }
+      ]
+    },
+    {
+      "commentary": "heidegger-ga-61-phenomenological-interpretations-of-aristotle-commentary",
+      "role": "primary",
+      "status": "resolved",
+      "strata": [
+        {
+          "id": "ga61-1921",
+          "label": "Freiburg lecture course, Winter Semester 1921/22",
+          "year_start": 1921,
+          "year_end": 1922,
+          "stated_in_commentary": true,
+          "evidence": "\"Band 61 (Winter Semester 1921/22)\""
+        }
+      ]
+    },
+    {
+      "commentary": "husserliana-7-erste-philosophie-i-commentary",
+      "role": "primary",
+      "status": "resolved",
+      "strata": [
+        {
+          "id": "hua7-1923",
+          "label": "Lecture course, 1923/24",
+          "year_start": 1923,
+          "year_end": 1924,
+          "stated_in_commentary": true,
+          "evidence": "\"*Erste Philosophie I* (1923/24)\""
+        }
+      ]
+    },
+    {
+      "commentary": "husserliana-28-vorlesungen-uber-ethik-und-wertlehre-commentary",
+      "role": "primary",
+      "status": "resolved",
+      "note": "Two layers of one course, not two courses: the commentary covers the 1914 redaction, which Melle places first in the volume as the latest and fullest working of the 1908/09 material.",
+      "strata": [
+        {
+          "id": "hua28-1908",
+          "label": "Core ethics course, 1908/09",
+          "year_start": 1908,
+          "year_end": 1909,
+          "stated_in_commentary": true,
+          "evidence": "\"the latest and fullest redaction of the core 1908/09 ethics course\""
+        },
+        {
+          "id": "hua28-1914",
+          "label": "Vorlesungen ueber Grundfragen zur Ethik und Wertlehre, 1914 redaction",
+          "year_start": 1914,
+          "year_end": 1914,
+          "stated_in_commentary": true,
+          "evidence": "\"the lecture course *Vorlesungen über Grundfragen zur Ethik und Wertlehre* of 1914\""
+        }
+      ]
+    },
+    {
+      "commentary": "husserliana-43-2-studien-zur-struktur-des-bewusstseins-commentary",
+      "role": "primary",
+      "status": "resolved",
+      "note": "Hua XLIII/2 collects manuscripts of several dates and the commentary dates only this one, from a footnote to a section heading. The stratum therefore covers the manuscript behind Part II, not the whole commentary; a unit takes it only where the commentary places the passage there.",
+      "strata": [
+        {
+          "id": "hua43-2-1911",
+          "label": "Manuscript dated early November 1911",
+          "year_start": 1911,
+          "year_end": 1911,
+          "stated_in_commentary": true,
+          "evidence": "\"early November 1911\""
+        }
+      ]
+    },
+    {
+      "commentary": "husserliana-13-editors-introduction-commentary",
+      "role": "reception",
+      "status": "unresolved",
+      "strata": [
+        {
+          "id": "hua13-intro-undated",
+          "label": "Iso Kern's editorial introduction, date not stated in the commentary",
+          "year_start": null,
+          "year_end": null,
+          "stated_in_commentary": false,
+          "evidence": "The dates in the file belong to Husserl's material (the volume's span, 1905-1920) and to Formal and Transcendental Logic (1929), not to Kern's introduction. The extracted source volume in faultynode/sources begins at Text Nr. 1 and does not carry the introduction, so the date cannot be taken from it either."
         }
       ]
     }

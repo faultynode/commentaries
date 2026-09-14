@@ -90,66 +90,51 @@
 
 *Partial pass: Covers Introduction (¶¶1-48) establishing foundational program, and foundational sections (¶¶49-190) on how perception as appearance-stratum grounds doxic position-takings and how perceptual manifolds are constituted through kinaesthetic motivation. Focused on the doctrine of layered constitution where each stratum presupposes and is built upon lower strata.*
 
-### 1908 - Hua 26 - Theory of Meaning
+### 1913-1928 - Husserl, Hua 3 — Ideas I, Parts 3–4
 
-`husserliana-26-theory-of-meaning-commentary`
+`husserliana-3-ideas-i-parts-3-4-commentary`
 
-- **introduced** · `fundierung/husserliana-26/001` · *Sachverhalt*
-  What a categorical proposition says - that the subject-object has such and such a property - is itself an objectuality, the state of affairs.
-  `husserliana-26-theory-of-meaning-commentary#h3-s-7-propositional-meaning-state-of-affairs-and-situation-of-affairs` · Hua XXVI, § 7 · [§ 7. Propositional Meaning, State of Affairs, and Situation of Affairs](https://faultynode.github.io/commentaries/commentaries/husserl/husserliana-26-theory-of-meaning-commentary.html#propositional-meaning-state-of-affairs-and-situation-of-affairs)
-  > This is an objectuality — precisely this state of affairs (*Sachverhalt*): that that object has such and such a property.
+- **presupposed** · `fundierung/husserliana-3/001` · *Valuing founded on presenting*
+  A valuing act is founded on a presenting act; the valuing-layer is a non-self-sufficient layer that can be added to or removed from the underlying presentation without ceasing to be concretely complete.
+  `husserliana-3-ideas-i-parts-3-4-commentary#h3-s-95-the-analogous-distinctions-in-the-emotional-and-volitional-sphere` · [§ 95\. The Analogous Distinctions in the Emotional and Volitional Sphere](https://faultynode.github.io/commentaries/commentaries/husserl/husserliana-3-ideas-i-parts-3-4-commentary.html#the-analogous-distinctions-in-the-emotional-and-volitional-sphere)
+  > A valuing is founded on a presenting (one values what one presents); the valuing-layer can be added to or removed from the underlying presentation
 
-- **introduced** · `fundierung/husserliana-26/002` · *Sachlage (situation of affairs)*
-  Two states of affairs that immediately condition one another have the same situation of affairs at their basis, categorially grasped in different ways.
-  `husserliana-26-theory-of-meaning-commentary#h3-s-7-propositional-meaning-state-of-affairs-and-situation-of-affairs` · Hua XXVI, § 7 · [§ 7. Propositional Meaning, State of Affairs, and Situation of Affairs](https://faultynode.github.io/commentaries/commentaries/husserl/husserliana-26-theory-of-meaning-commentary.html#propositional-meaning-state-of-affairs-and-situation-of-affairs)
-  > The two states of affairs, immediately conditioning one another, have the same situation of affairs at their basis, which is merely categorially grasped in different ways.
+- **presupposed** · `fundierung/husserliana-3/002` · *Multi-layered intentional structure of feeling*
+  Emotional and volitional acts possess multiple intentional layers: a founding presentation-layer plus a founded valuing- or willing-layer, where the higher layer is non-self-sufficient.
+  `husserliana-3-ideas-i-parts-3-4-commentary#h3-s-95-the-analogous-distinctions-in-the-emotional-and-volitional-sphere` · [§ 95\. The Analogous Distinctions in the Emotional and Volitional Sphere](https://faultynode.github.io/commentaries/commentaries/husserl/husserliana-3-ideas-i-parts-3-4-commentary.html#the-analogous-distinctions-in-the-emotional-and-volitional-sphere)
+  > So these acts are multi-layered: a founding presentation-layer plus a founded valuing- or willing-layer
 
-- **introduced** · `fundierung/husserliana-26/003` · *non-independent expressions*
-  The total meaning of an independent expression encompasses the meanings of its non-independent parts, and to every non-independent expression-part there corresponds in a certain way a meant objectual something.
-  `husserliana-26-theory-of-meaning-commentary#h3-s-6-the-meant-objectuality-and-the-said-as-such` · Hua XXVI, § 6 · [§ 6. The Meant Objectuality and the “Said” as Such](https://faultynode.github.io/commentaries/commentaries/husserl/husserliana-26-theory-of-meaning-commentary.html#the-meant-objectuality-and-the-said-as-such)
-  > The total meaning of an independent expression encompasses the meanings of its non-independent parts; and just as to it as a whole there corresponds a meant objectuality, so too to every non-independent expression-part there corresponds in a certain way a meant objectual something
+- **presupposed** · `fundierung/husserliana-3/003` · *Value-objectity implies the mere thing*
+  The value-objectity includes and implies the mere thing as its substrate, constituting a new objective layer by adding value-character to the thing-substrate.
+  `husserliana-3-ideas-i-parts-3-4-commentary#h3-s-95-the-analogous-distinctions-in-the-emotional-and-volitional-sphere` · [§ 95\. The Analogous Distinctions in the Emotional and Volitional Sphere](https://faultynode.github.io/commentaries/commentaries/husserl/husserliana-3-ideas-i-parts-3-4-commentary.html#the-analogous-distinctions-in-the-emotional-and-volitional-sphere)
+  > The value-objectity implies its thing; it brings in, as a new objective layer, the Wertheit
 
-- **presupposed** · `fundierung/husserliana-26/004` · *non-independent objectual moment*
-  To every meaningful word and word-part there corresponds something objectual, possibly a categorial and non-independent objectual moment.
-  `husserliana-26-theory-of-meaning-commentary#h4-b-meaning-as-the-categorial-objectuality-distinguished-from-the-meant-objectuali-2` · Hua XXVI, § 8 b) · [b) Meaning as the Categorial Objectuality Distinguished from the Meant Objectuality Simpliciter](https://faultynode.github.io/commentaries/commentaries/husserl/husserliana-26-theory-of-meaning-commentary.html#b-meaning-as-the-categorial-objectuality-distinguished-from-the-meant-objectuality-simpliciter-1)
-  > to every meaningful word and word-part there corresponds something objectual — possibly a categorial and non-independent objectual moment
+- **presupposed** · `fundierung/husserliana-3/004` · *Analysis restricted to lower stratum of presentations*
+  Initial phenomenological analysis studies only the lower stratum of experience—the simple sensuous presentations—as the necessary foundation before extending to founded (higher) acts of feeling and willing.
+  `husserliana-3-ideas-i-parts-3-4-commentary#h3-s-116-transition-to-new-analyses-the-founded-noeses-and-their-noematic-correlate` · [§ 116\. Transition to New Analyses. The Founded Noeses and their Noematic Correlates](https://faultynode.github.io/commentaries/commentaries/husserl/husserliana-3-ideas-i-parts-3-4-commentary.html#transition-to-new-analyses-the-founded-noeses-and-their-noematic-correlates)
+  > So the analyses so far treated only the lower stratum (the simple sensuous presentations). The task now is to extend to the founded (higher) acts (feeling, willing)
 
-- **introduced** · `fundierung/husserliana-26/005` · *new levels of predications*
-  Making something objectual where no nominal presentation is present requires new levels of predications with new nominal presentations referred back to and made possible by the lower levels.
-  `husserliana-26-theory-of-meaning-commentary#h3-s-19-the-nominal-presentation-is-a-basic-function-within-the-full-assertion` · Hua XXVI, § 19 · [§ 19. The Nominal Presentation Is a Basic Function within the Full Assertion](https://faultynode.github.io/commentaries/commentaries/husserl/husserliana-26-theory-of-meaning-commentary.html#the-nominal-presentation-is-a-basic-function-within-the-full-assertion)
-  > Every extracting or making-objectual where no nominal presentation is present requires new levels of predications with new nominal presentations referred back to and made possible by the lower levels.
+- **presupposed** · `fundierung/husserliana-3/005` · *New sense founded in underlying noesis*
+  Founded acts constitute a new sense-dimension that is founded in and encloses the sense of the underlying noesis, bringing entirely new value-characters and value-objectities to appearance.
+  `husserliana-3-ideas-i-parts-3-4-commentary#h3-s-116-transition-to-new-analyses-the-founded-noeses-and-their-noematic-correlate` · [§ 116\. Transition to New Analyses. The Founded Noeses and their Noematic Correlates](https://faultynode.github.io/commentaries/commentaries/husserl/husserliana-3-ideas-i-parts-3-4-commentary.html#transition-to-new-analyses-the-founded-noeses-and-their-noematic-correlates)
+  > there constitutes itself a new sense, which is founded in that of the underlying noesis, at the same time enclosing it
 
-- **introduced** · `fundierung/husserliana-26/006` · *basic function within the full assertion*
-  No thinking is merely nominal presentation: nominal presentation designates a basic function within the full assertion.
-  `husserliana-26-theory-of-meaning-commentary#h3-s-19-the-nominal-presentation-is-a-basic-function-within-the-full-assertion` · Hua XXVI, § 19 · [§ 19. The Nominal Presentation Is a Basic Function within the Full Assertion](https://faultynode.github.io/commentaries/commentaries/husserl/husserliana-26-theory-of-meaning-commentary.html#the-nominal-presentation-is-a-basic-function-within-the-full-assertion)
-  > On the other hand, no thinking is merely nominal presentation. Nominal presentation designates a basic function within the full assertion.
+- **presupposed** · `fundierung/husserliana-3/006` · *Value-objectity as founded on mere thing*
+  The value-object (the artwork, the beautiful thing) is a new founded objectity constituted by founded valuing acts on top of and dependent upon the mere thing.
+  `husserliana-3-ideas-i-parts-3-4-commentary#h3-s-116-transition-to-new-analyses-the-founded-noeses-and-their-noematic-correlate` · [§ 116\. Transition to New Analyses. The Founded Noeses and their Noematic Correlates](https://faultynode.github.io/commentaries/commentaries/husserl/husserliana-3-ideas-i-parts-3-4-commentary.html#transition-to-new-analyses-the-founded-noeses-and-their-noematic-correlates)
+  > with it constitute themselves no new determination-pieces of the mere "things," but values of the things, value-characters (Wertheiten), or concrete value-objectities
 
-- **introduced** · `fundierung/husserliana-26/007` · *total categorial object*
-  The total categorial object, the state of affairs extractable from the judgment, contains as a component the categorial object extractable from the nominal presentation.
-  `husserliana-26-theory-of-meaning-commentary#h3-s-23-the-distinction-of-object-about-and-categorial-object-nominalization-and-ca` · Hua XXVI, § 23 · [§ 23. The Distinction of Object-About and Categorial Object. Nominalization and Categorial Reflection](https://faultynode.github.io/commentaries/commentaries/husserl/husserliana-26-theory-of-meaning-commentary.html#the-distinction-of-object-about-and-categorial-object-nominalization-and-categorial-reflection)
-  > The total categorial object, the state of affairs extractable from the respective judgment, contains as a component the categorial object extractable from the nominal presentation.
+- **presupposed** · `fundierung/husserliana-3/007` · *Thing-constitution through strata and stages*
+  The constitution of a transcendental thing is determined by different stages and strata, each constituting its own partial unity that serves as a necessary middle-member for the full constitution of the thing.
+  `husserliana-3-ideas-i-parts-3-4-commentary#h3-s-151-strata-of-the-transcendental-constitution-of-the-thing-supplements` · [§ 151\. Strata of the Transcendental Constitution of the Thing. Supplements](https://faultynode.github.io/commentaries/commentaries/husserl/husserliana-3-ideas-i-parts-3-4-commentary.html#strata-of-the-transcendental-constitution-of-the-thing-supplements)
+  > Every stage and every stratum in the stage is characterized thereby, that it constitutes an own unity, which on its side is necessary middle-member for the full constitution of the thing
 
-- **presupposed** · `fundierung/husserliana-26/008` · *builds itself upon intuition*
-  Categorial consciousness can build itself upon intuition so that not only the underlying simple acts but the entire consciousness has the character of a giving, perceiving consciousness.
-  `husserliana-26-theory-of-meaning-commentary#h3-s-24-categorial-reflection-is-a-giving-act-when-the-underlying-judging-is-eviden` · Hua XXVI, § 24 · [§ 24. Categorial Reflection Is a Giving Act When the Underlying Judging Is Evident](https://faultynode.github.io/commentaries/commentaries/husserl/husserliana-26-theory-of-meaning-commentary.html#categorial-reflection-is-a-giving-act-when-the-underlying-judging-is-evident)
-  > categorial consciousness can build itself upon intuition so that not only the underlying simple acts but the entire consciousness has the character of a giving, “perceiving” consciousness
+- **presupposed** · `fundierung/husserliana-3/008` · *Intersubjective constitution of the objective thing*
+  The intersubjectively-identical thing is a higher-order constitutive unity founded on and constituted through empathy—the experience of other subjects—which unifies the separate perception-manifolds of a plurality of experiencing egos.
+  `husserliana-3-ideas-i-parts-3-4-commentary#h3-s-151-strata-of-the-transcendental-constitution-of-the-thing-supplements` · [§ 151\. Strata of the Transcendental Constitution of the Thing. Supplements](https://faultynode.github.io/commentaries/commentaries/husserl/husserliana-3-ideas-i-parts-3-4-commentary.html#strata-of-the-transcendental-constitution-of-the-thing-supplements)
+  > The intersubjectively-identical thing (the "objective" thing) is a higher-order constitutive unity, constituted through **empathy** (Einfühlung) — the experience of other subjects
 
-- **introduced** · `fundierung/husserliana-26/009` · *founds itself upon*
-  A new seeing act founds itself upon the intuition to grasp the essence of the propositionale and every categorial object; this act is categorial ideation or essence-seeing.
-  `husserliana-26-theory-of-meaning-commentary#h3-s-31-categorial-object-and-categorial-essence` · Hua XXVI, § 31 · [§ 31. Categorial Object and Categorial Essence](https://faultynode.github.io/commentaries/commentaries/husserl/husserliana-26-theory-of-meaning-commentary.html#categorial-object-and-categorial-essence)
-  > This means a new gaze — a new seeing act — founds itself upon the one and other intuition, and we call this act ideation (here categorial ideation) or essence-seeing.
-
-- **introduced** · `fundierung/husserliana-26/010` · *higher layer presupposes the lower*
-  The covering of categorial apprehensions in the higher layer presupposes the covering of perceptions in the lower layer but goes beyond it.
-  `husserliana-26-theory-of-meaning-commentary#h4-b-exposition-of-the-covering-relations-in-the-lower-and-higher-layers` · Hua XXVI, § 34 b) · [b) Exposition of the Covering-Relations in the Lower and Higher Layers](https://faultynode.github.io/commentaries/commentaries/husserl/husserliana-26-theory-of-meaning-commentary.html#b-exposition-of-the-covering-relations-in-the-lower-and-higher-layers)
-  > The covering in the higher layer presupposes covering in the lower layer but goes beyond it, since it also involves the identity of categorial forms and conceptual content.
-
-- **presupposed** · `fundierung/husserliana-26/011` · *cognition founded on perception*
-  Existential states of affairs are given in experience, in perception and the cognition founded on perception.
-  `husserliana-26-theory-of-meaning-commentary#h4-b-further-elaboration-the-givenness-of-existential-state-of-affairs-and-essentia` · Hua XXVI, § 36 b) · [b) Further Elaboration. The Givenness of Existential State of Affairs and Essential State of Affairs](https://faultynode.github.io/commentaries/commentaries/husserl/husserliana-26-theory-of-meaning-commentary.html#b-further-elaboration-the-givenness-of-existential-state-of-affairs-and-essential-state-of-affairs)
-  > Existential states of affairs are given in experience — in perception and the cognition founded on perception.
-
-*Partial pass: Chapter 2 § 7 and Chapter 4 § 6 in the first run of the text, and §§ 19, 23, 24, 31, 34 b) and 36 b) plus § 8 b) in the second. Not covered: the Introduction, Chapter 1, §§ 5-6 and 8-18, 20-22, 25-30, 32-33, 35, 37-39, and the supplementary texts. Note that Chapters 2-4 appear twice in this file; locators here name the occurrence read.*
+*Partial pass: Extracts from sections 95, 96, 116, 117, and 151-152 which contain explicit treatment of founded acts, layered constitution, and the dependence of higher objectivities on lower strata. Focuses on emotional/volitional founding on perception, value-constitution, and transcendental stratification.*
 
 ### 1921 - Husserl, Hua 19/2 — Sixth Logical Investigation
 
@@ -527,52 +512,6 @@
   > *To be oneself what one receives*
 
 *Partial pass: Covers §37 on the internal structure of immanence (what excludes transcendence from the essence) and §42 on the ontological determination of situation (the structural dédoublement). Focused on founding relations between transcendence and immanence, freedom and thrownness.*
-
-### undated - Husserl, Hua 3 — Ideas I, Parts 3–4
-
-`husserliana-3-ideas-i-parts-3-4-commentary`
-
-- **presupposed** · `fundierung/husserliana-3/001` · *Valuing founded on presenting*
-  A valuing act is founded on a presenting act; the valuing-layer is a non-self-sufficient layer that can be added to or removed from the underlying presentation without ceasing to be concretely complete.
-  `husserliana-3-ideas-i-parts-3-4-commentary#h3-s-95-the-analogous-distinctions-in-the-emotional-and-volitional-sphere` · [§ 95\. The Analogous Distinctions in the Emotional and Volitional Sphere](https://faultynode.github.io/commentaries/commentaries/husserl/husserliana-3-ideas-i-parts-3-4-commentary.html#the-analogous-distinctions-in-the-emotional-and-volitional-sphere)
-  > A valuing is founded on a presenting (one values what one presents); the valuing-layer can be added to or removed from the underlying presentation
-
-- **presupposed** · `fundierung/husserliana-3/002` · *Multi-layered intentional structure of feeling*
-  Emotional and volitional acts possess multiple intentional layers: a founding presentation-layer plus a founded valuing- or willing-layer, where the higher layer is non-self-sufficient.
-  `husserliana-3-ideas-i-parts-3-4-commentary#h3-s-95-the-analogous-distinctions-in-the-emotional-and-volitional-sphere` · [§ 95\. The Analogous Distinctions in the Emotional and Volitional Sphere](https://faultynode.github.io/commentaries/commentaries/husserl/husserliana-3-ideas-i-parts-3-4-commentary.html#the-analogous-distinctions-in-the-emotional-and-volitional-sphere)
-  > So these acts are multi-layered: a founding presentation-layer plus a founded valuing- or willing-layer
-
-- **presupposed** · `fundierung/husserliana-3/003` · *Value-objectity implies the mere thing*
-  The value-objectity includes and implies the mere thing as its substrate, constituting a new objective layer by adding value-character to the thing-substrate.
-  `husserliana-3-ideas-i-parts-3-4-commentary#h3-s-95-the-analogous-distinctions-in-the-emotional-and-volitional-sphere` · [§ 95\. The Analogous Distinctions in the Emotional and Volitional Sphere](https://faultynode.github.io/commentaries/commentaries/husserl/husserliana-3-ideas-i-parts-3-4-commentary.html#the-analogous-distinctions-in-the-emotional-and-volitional-sphere)
-  > The value-objectity implies its thing; it brings in, as a new objective layer, the Wertheit
-
-- **presupposed** · `fundierung/husserliana-3/004` · *Analysis restricted to lower stratum of presentations*
-  Initial phenomenological analysis studies only the lower stratum of experience—the simple sensuous presentations—as the necessary foundation before extending to founded (higher) acts of feeling and willing.
-  `husserliana-3-ideas-i-parts-3-4-commentary#h3-s-116-transition-to-new-analyses-the-founded-noeses-and-their-noematic-correlate` · [§ 116\. Transition to New Analyses. The Founded Noeses and their Noematic Correlates](https://faultynode.github.io/commentaries/commentaries/husserl/husserliana-3-ideas-i-parts-3-4-commentary.html#transition-to-new-analyses-the-founded-noeses-and-their-noematic-correlates)
-  > So the analyses so far treated only the lower stratum (the simple sensuous presentations). The task now is to extend to the founded (higher) acts (feeling, willing)
-
-- **presupposed** · `fundierung/husserliana-3/005` · *New sense founded in underlying noesis*
-  Founded acts constitute a new sense-dimension that is founded in and encloses the sense of the underlying noesis, bringing entirely new value-characters and value-objectities to appearance.
-  `husserliana-3-ideas-i-parts-3-4-commentary#h3-s-116-transition-to-new-analyses-the-founded-noeses-and-their-noematic-correlate` · [§ 116\. Transition to New Analyses. The Founded Noeses and their Noematic Correlates](https://faultynode.github.io/commentaries/commentaries/husserl/husserliana-3-ideas-i-parts-3-4-commentary.html#transition-to-new-analyses-the-founded-noeses-and-their-noematic-correlates)
-  > there constitutes itself a new sense, which is founded in that of the underlying noesis, at the same time enclosing it
-
-- **presupposed** · `fundierung/husserliana-3/006` · *Value-objectity as founded on mere thing*
-  The value-object (the artwork, the beautiful thing) is a new founded objectity constituted by founded valuing acts on top of and dependent upon the mere thing.
-  `husserliana-3-ideas-i-parts-3-4-commentary#h3-s-116-transition-to-new-analyses-the-founded-noeses-and-their-noematic-correlate` · [§ 116\. Transition to New Analyses. The Founded Noeses and their Noematic Correlates](https://faultynode.github.io/commentaries/commentaries/husserl/husserliana-3-ideas-i-parts-3-4-commentary.html#transition-to-new-analyses-the-founded-noeses-and-their-noematic-correlates)
-  > with it constitute themselves no new determination-pieces of the mere "things," but values of the things, value-characters (Wertheiten), or concrete value-objectities
-
-- **presupposed** · `fundierung/husserliana-3/007` · *Thing-constitution through strata and stages*
-  The constitution of a transcendental thing is determined by different stages and strata, each constituting its own partial unity that serves as a necessary middle-member for the full constitution of the thing.
-  `husserliana-3-ideas-i-parts-3-4-commentary#h3-s-151-strata-of-the-transcendental-constitution-of-the-thing-supplements` · [§ 151\. Strata of the Transcendental Constitution of the Thing. Supplements](https://faultynode.github.io/commentaries/commentaries/husserl/husserliana-3-ideas-i-parts-3-4-commentary.html#strata-of-the-transcendental-constitution-of-the-thing-supplements)
-  > Every stage and every stratum in the stage is characterized thereby, that it constitutes an own unity, which on its side is necessary middle-member for the full constitution of the thing
-
-- **presupposed** · `fundierung/husserliana-3/008` · *Intersubjective constitution of the objective thing*
-  The intersubjectively-identical thing is a higher-order constitutive unity founded on and constituted through empathy—the experience of other subjects—which unifies the separate perception-manifolds of a plurality of experiencing egos.
-  `husserliana-3-ideas-i-parts-3-4-commentary#h3-s-151-strata-of-the-transcendental-constitution-of-the-thing-supplements` · [§ 151\. Strata of the Transcendental Constitution of the Thing. Supplements](https://faultynode.github.io/commentaries/commentaries/husserl/husserliana-3-ideas-i-parts-3-4-commentary.html#strata-of-the-transcendental-constitution-of-the-thing-supplements)
-  > The intersubjectively-identical thing (the "objective" thing) is a higher-order constitutive unity, constituted through **empathy** (Einfühlung) — the experience of other subjects
-
-*Partial pass: Extracts from sections 95, 96, 116, 117, and 151-152 which contain explicit treatment of founded acts, layered constitution, and the dependence of higher objectivities on lower strata. Focuses on emotional/volitional founding on perception, value-constitution, and transcendental stratification.*
 
 ## Not covered by this ledger
 

@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "commentary": "heidegger-ga-24-die-grundprobleme-der-phanomenologie-commentary",
-  "source_sha256": "224be004aedc25744d4193201465722e6efe4c8c99c0b1c2a05764b01b51efad",
+  "source_sha256": "003514567d0b73dd235330743a361742f936d47ce3162363bd51c132df0c98a8",
   "extracted_at": "2026-09-09",
   "extractor": {
     "agent": "claude-code",
