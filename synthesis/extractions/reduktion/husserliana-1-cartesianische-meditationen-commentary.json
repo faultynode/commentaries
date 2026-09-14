@@ -1,0 +1,98 @@
+{
+  "schema_version": 1,
+  "theme": "reduktion",
+  "commentary": "husserliana-1-cartesianische-meditationen-commentary",
+  "source_sha256": "e3798169d749d13a00bde43b2e4b4c47b7c3db4944199cfb4eb09148c0824eb6",
+  "extracted_at": "2026-09-14",
+  "extractor": {
+    "agent": "claude-code",
+    "prompt": "https://github.com/faultynode/prompts/blob/main/synthesis-pipeline/extraction-prompt.md",
+    "note": "Partial pass over the sections where the epoché and the transcendental reduction do argumentative work: §§ 8, 9, 13, 14, 15, 34, 42, 62."
+  },
+  "coverage": "partial",
+  "coverage_note": "Covers §§ 8, 9, 13, 14, 15 and 34, and §§ 42 and 62 of the Fifth Meditation. The Third Meditation and the remaining sections of the Fourth and Fifth carry hits and are not covered.",
+  "units": [
+    {
+      "id": "reduktion/hua1/001",
+      "locator": "husserliana-1-cartesianische-meditationen-commentary#h3-s-8-the-ego-cogito-as-transcendental-subjectivity",
+      "primary_locator": "Hua I § 8",
+      "term": "epochē, bracketing of the objective world",
+      "status": "introduced",
+      "claim": "The universal setting-out-of-play of all position-takings toward the objective world does not leave a nothing but yields the meditator's pure life and the universe of phenomena.",
+      "quote": "this phenomenological *epochē* or this bracketing of the objective world — does not confront us with a nothing"
+    },
+    {
+      "id": "reduktion/hua1/002",
+      "locator": "husserliana-1-cartesianische-meditationen-commentary#h3-s-8-the-ego-cogito-as-transcendental-subjectivity",
+      "primary_locator": "Hua I § 8",
+      "term": "epochē",
+      "status": "introduced",
+      "claim": "The epoché is the radical and universal method by which I apprehend myself purely as ego with my own pure conscious life, in which the entire objective world is for me.",
+      "quote": "The *epochē* is, as can also be said, the radical and universal method whereby I apprehend myself purely as the ego together with my own pure conscious life"
+    },
+    {
+      "id": "reduktion/hua1/003",
+      "locator": "husserliana-1-cartesianische-meditationen-commentary#h3-s-9-the-range-of-apodictic-evidence-of-the-i-am",
+      "primary_locator": "Hua I § 9",
+      "term": "transcendental reduction",
+      "status": "presupposed",
+      "claim": "The indubitability in which the ego is given through the transcendental reduction corresponds to the concept of apodicticity, though the range of that apodicticity remains a problem.",
+      "quote": "the sense of the indubitability in which the ego comes to givenness through the transcendental reduction truly corresponds to our earlier concept of apodicticity"
+    },
+    {
+      "id": "reduktion/hua1/004",
+      "locator": "husserliana-1-cartesianische-meditationen-commentary#h3-s-13-the-necessity-of-initially-excluding-problems-of-the-range-of-transcendenta",
+      "primary_locator": "Hua I § 13",
+      "term": "transcendental reduction",
+      "status": "criticized",
+      "claim": "It lies in the sense of the transcendental reduction that at the outset it can posit nothing but the ego, so the science begins as pure egology and seems to condemn us to transcendental solipsism.",
+      "quote": "Certainly it lies in the sense of the transcendental reduction that it can at the outset posit as existing nothing other than the ego and what is contained in the ego itself."
+    },
+    {
+      "id": "reduktion/hua1/005",
+      "locator": "husserliana-1-cartesianische-meditationen-commentary#h3-s-14-the-stream-of-cogitationes-cogito-and-cogitatum",
+      "primary_locator": "Hua I § 14",
+      "term": "transcendental-phenomenological reduction",
+      "status": "revised",
+      "claim": "Pure consciousness-psychology parallels transcendental phenomenology exactly but must be kept strictly apart from it, their confusion constituting transcendental psychologism.",
+      "quote": "Pure consciousness-psychology is indeed an exact parallel to transcendental consciousness-phenomenology, but both must be strictly kept apart, while their confusion characterizes the transcendental psychologism that makes a genuine philosophy impossible."
+    },
+    {
+      "id": "reduktion/hua1/006",
+      "locator": "husserliana-1-cartesianische-meditationen-commentary#h3-s-15-natural-and-transcendental-reflection",
+      "primary_locator": "Hua I § 15",
+      "term": "phenomenological reduction",
+      "status": "presupposed",
+      "claim": "Consistently carried out, the reduction leaves noetically the endless pure conscious life and noematically the intended world purely as such, so the world is retained qua cogitata.",
+      "quote": "Thus, in the consistent carrying out of the phenomenological reduction, there remains noetically the openly endless pure conscious life, and on the side of its noematic correlate, the intended world purely as such."
+    },
+    {
+      "id": "reduktion/hua1/007",
+      "locator": "husserliana-1-cartesianische-meditationen-commentary#h3-s-34-principled-elaboration-of-the-phenomenological-method-transcendental-analys",
+      "primary_locator": "Hua I § 34",
+      "term": "eidetic intuition (beside the reduction)",
+      "status": "introduced",
+      "claim": "Beside the phenomenological reduction, eidetic intuition is the fundamental form of all particular transcendental methods.",
+      "quote": "Beside the phenomenological reduction, eidetic intuition is the fundamental form of all particular transcendental methods."
+    },
+    {
+      "id": "reduktion/hua1/008",
+      "locator": "husserliana-1-cartesianische-meditationen-commentary#h3-s-42-exposition-of-the-problem-of-the-experience-of-others-in-contrast-to-the-ob",
+      "primary_locator": "Hua I § 42",
+      "term": "transcendental reduction (and the solus ipse)",
+      "status": "criticized",
+      "claim": "The objection is pressed that reducing myself through the epoché to my absolute transcendental ego makes me the solus ipse, since the reduction binds me to my own stream of experiences.",
+      "quote": "the transcendental reduction binds me to the stream of my pure consciousness-experiences and to the unities constituted through their actualities and potentialities"
+    },
+    {
+      "id": "reduktion/hua1/009",
+      "locator": "husserliana-1-cartesianische-meditationen-commentary#h3-s-62-survey-characterization-of-the-intentional-interpretation-of-the-experience",
+      "primary_locator": "Hua I § 62",
+      "term": "transcendental reduction (as source of the monadology)",
+      "status": "revised",
+      "claim": "The idealism reached is a monadology drawing its content purely from the phenomenological interpretation of the transcendental experience the reduction discloses.",
+      "quote": "This idealism proved to be a monadology that draws its content purely from the phenomenological interpretation of the transcendental experience disclosed in the transcendental reduction"
+    }
+  ],
+  "absences": []
+}

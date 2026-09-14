@@ -2,7 +2,7 @@
   "schema_version": 1,
   "theme": "intentionalitaet",
   "commentary": "husserliana-3-ideas-i-parts-3-4-commentary",
-  "source_sha256": "cca8c38ab34388e5a559649f69b70591451b461759746ee131fb0656b0e0b361",
+  "source_sha256": "f19201709befc4de8b6bb22946e7a6025dab23288f3e0eedcb69c94689a60ce1",
   "extracted_at": "2026-09-08",
   "extractor": {
     "agent": "claude-code",
@@ -242,12 +242,32 @@
     {
       "locator": "husserliana-3-ideas-i-parts-3-4-commentary#h3-s-82-continuation-the-threefold-experience-horizon-at-the-same-time-as-the-horiz",
       "expected_because": "This section develops the Second Chapter's announced program of laying out the general structures of pure consciousness, working out the threefold time-horizon and the correlation of one ego and one stream, but keeps entirely to the time-form and does not yet thematize intentionality.",
-      "absent_terms": ["intentionality", "intentional", "noesis", "noema", "noetic", "noematic", "directedness", "aboutness", "intending"]
+      "absent_terms": [
+        "intentionality",
+        "intentional",
+        "noesis",
+        "noema",
+        "noetic",
+        "noematic",
+        "directedness",
+        "aboutness",
+        "intending"
+      ]
     },
     {
       "locator": "husserliana-3-ideas-i-parts-3-4-commentary#h3-s-83-grasping-the-unitary-experience-stream-as-an-idea",
       "expected_because": "This section treats givenness-modes, the attentional horizon of viewed and unviewed experiences, and the non-self-sufficiency of every concrete experience — all of which become noetic-noematic themes from S 84 on — yet analyzes them purely as stream-structure, with intentionality deferred to the next section.",
-      "absent_terms": ["intentionality", "intentional", "noesis", "noema", "noetic", "noematic", "directedness", "aboutness", "intending"]
+      "absent_terms": [
+        "intentionality",
+        "intentional",
+        "noesis",
+        "noema",
+        "noetic",
+        "noematic",
+        "directedness",
+        "aboutness",
+        "intending"
+      ]
     }
   ]
 }

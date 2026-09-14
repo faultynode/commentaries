@@ -1,0 +1,28 @@
+{
+  "schema_version": 1,
+  "theme": "reduktion",
+  "commentary": "lacan-seminar-1-freuds-papers-on-technique-commentary",
+  "source_sha256": "86f48ef8bc6693ceaa0497c33cf28ba98049f33ede95d0ab8bfab29031b3c4a3",
+  "extracted_at": "2026-09-14",
+  "extractor": {
+    "agent": "claude-code",
+    "prompt": "https://github.com/faultynode/prompts/blob/main/synthesis-pipeline/extraction-prompt.md",
+    "note": "A recorded absence. The commentary ranks high on term density only through ordinary-English renderings: every hit resolves to 'suspension' in a non-technical sense or to Freud's Destruktionstrieb (destruction drive), not to the phenomenological reduction."
+  },
+  "coverage": "partial",
+  "coverage_note": "The whole file was searched for the theme's technical forms (phenomenological / transcendental / eidetic reduction, Reduktion, epoché, bracketing, putting out of play, transcendental ego / attitude / reflection / standpoint, zu den Sachen selbst) and none occurs anywhere in it; the two densest sections, 'Jean Hyppolite: Die Verneinung' and 'Rosine Lefort', were then read and are recorded as absences. The commentary was not read end to end, so this stays partial.",
+  "units": [],
+  "absences": [
+    {
+      "locator": "lacan-seminar-1-freuds-papers-on-technique-commentary#h3-jean-hyppolite-die-verneinung",
+      "expected_because": "This section ranks highest in the theme's density for the commentary, and Hyppolite's reading of Verneinung turns on a 'suspension' in which the repressed is taken up as thought — a use the theme's search terms match but which is not the phenomenological suspension of the natural thesis.",
+      "note": "The other hits in this section come from Freud's Destruktionstrieb, the destruction drive, which the theme's search term 'Destruktion' matches and which has nothing to do with Heidegger's destruction of the history of ontology.",
+      "absent_terms": ["phenomenological reduction", "transcendental reduction", "eidetic reduction", "Reduktion", "epoché", "bracketing", "bracketed", "putting out of play", "transcendental ego", "transcendental attitude", "transcendental reflection", "transcendental standpoint", "phenomenological method", "back to the things themselves", "zu den Sachen selbst"]
+    },
+    {
+      "locator": "lacan-seminar-1-freuds-papers-on-technique-commentary#h3-rosine-lefort",
+      "expected_because": "The second densest section for the theme, and a case presentation in which the analyst's abstention from intervening might have been read in phenomenological terms; the hits are again ordinary uses of 'suspension' and no technical form of the reduction occurs.",
+      "absent_terms": ["phenomenological reduction", "transcendental reduction", "eidetic reduction", "Reduktion", "epoché", "bracketing", "bracketed", "putting out of play", "transcendental ego", "transcendental attitude", "transcendental reflection", "transcendental standpoint", "phenomenological method", "back to the things themselves", "zu den Sachen selbst"]
+    }
+  ]
+}

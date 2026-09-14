@@ -6,6 +6,8 @@ wordpress_id: 403
 
 # ***Die Grundprobleme der Phänomenologie*** **(GA 24\)**
 
+*Marburg lecture course, Summer Semester 1927, delivered four hours weekly. Edited by Friedrich-Wilhelm von Herrmann. The printed text combines Heidegger's own lecture manuscript with Simon Moser's transcript of the delivered course, assembled on Heidegger's own instructions.*
+
 # **Introduction**
 
 ## **§ 1\. Exposition and General Articulation of the Theme**

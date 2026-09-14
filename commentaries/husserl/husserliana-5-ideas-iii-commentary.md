@@ -6,6 +6,8 @@ wordpress_id: 194
 
 # Ideas Pertaining to a Pure Phenomenology and to a Phenomenological Philosophy — Third Book: Phenomenology and the Foundations of the Sciences
 
+*The Third Book rests exclusively on the second part of Husserl's original pencil manuscript of 1912, written immediately after the manuscript of the First Book, which appeared in 1913. The edition collates that manuscript against two transcriptions, among them the Landgrebe version of the* Ideas III*, in which Husserl entered numerous additions and marginal remarks. Edited by Marly Biemel (Husserliana V).*
+
 ## First Chapter
 
 ### The Different Regions of Reality (Material Thing, Body, Soul), the Correlative Fundamental Kinds of Apperception, and the Sciences Arising Therefrom

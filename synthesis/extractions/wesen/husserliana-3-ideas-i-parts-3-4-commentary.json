@@ -1,0 +1,110 @@
+{
+  "schema_version": 1,
+  "theme": "wesen",
+  "commentary": "husserliana-3-ideas-i-parts-3-4-commentary",
+  "source_sha256": "cca8c38ab34388e5a559649f69b70591451b461759746ee131fb0656b0e0b361",
+  "extracted_at": "2026-09-14",
+  "extractor": {
+    "agent": "claude-code",
+    "prompt": "prompts/synthesis-pipeline/extraction-prompt.md",
+    "note": "Whole file grep-counted for the theme's search terms plus 'immutable', 'innate', 'residuum', 'Wesensschau', 'vera et' and 'Descartes'. 'immutable', 'innate', 'Wesensschau' and 'vera et' return nothing anywhere in the file; 'residuum' occurs three times and never of essences; 'Descartes' once. Closely read § 70 (lines 103-126), § 75 (195-216) and § 149 (1393-1412). Opened partly against gap-007, which names this commentary's doctrine-of-essences material as the pass it needs."
+  },
+  "coverage": "partial",
+  "coverage_note": "Covers § 70 (the method of essence-clarification and the privilege of free phantasy) and § 75 (phenomenology as descriptive eidetic doctrine) in full, and § 149 (regional ontologies) for its essence vocabulary. The remaining high-density sections - § 67 (nearness and farness from givenness), § 78 (experience-reflections), §§ 65-66, § 94 and § 145 - were keyword-scanned only. Note for gap-007: this commentary covers Ideas I §§ 63-153, so Ideas I §§ 2-3 and 22-23, which gap-007 names, are not in this file and are not in the corpus at all.",
+  "units": [
+    {
+      "id": "wesen/hua3-parts34/001",
+      "locator": "husserliana-3-ideas-i-parts-3-4-commentary#h3-s-70-the-role-of-perception-in-the-method-of-essence-clarification-the-privilege",
+      "primary_locator": "Ideas I § 70",
+      "stratum": "hua3-parts34-undated",
+      "term": "essence-grasping",
+      "status": "presupposed",
+      "claim": "Immediately intuitive essence-grasping is said to be carriable out on the basis of either perception or mere phantasy, a point the commentary refers back to Ideas I § 4.",
+      "quote": "It belongs to the general nature of immediately intuitive essence-grasping that it can be carried out on the basis of either perception or mere phantasy (re-presentation)."
+    },
+    {
+      "id": "wesen/hua3-parts34/002",
+      "locator": "husserliana-3-ideas-i-parts-3-4-commentary#h3-s-70-the-role-of-perception-in-the-method-of-essence-clarification-the-privilege",
+      "primary_locator": "Ideas I § 70",
+      "stratum": "hua3-parts34-undated",
+      "term": "eidetic sciences",
+      "status": "introduced",
+      "claim": "Free phantasies are said to win a privileged position over perceptions in phenomenology as in all eidetic sciences, with the hyletic sensation-data excluded from the privilege.",
+      "quote": "There are reasons why, in phenomenology as in all eidetic sciences, re-presentations, and more precisely free phantasies, win a privileged position over perceptions."
+    },
+    {
+      "id": "wesen/hua3-parts34/003",
+      "locator": "husserliana-3-ideas-i-parts-3-4-commentary#h3-s-70-the-role-of-perception-in-the-method-of-essence-clarification-the-privilege",
+      "primary_locator": "Ideas I § 70",
+      "stratum": "hua3-parts34-undated",
+      "term": "essential possibilities",
+      "status": "introduced",
+      "claim": "The geometer's freedom to reshape invented figures in phantasy is said to be what first opens access to the reaches of essential possibilities and their horizons of essential knowledge.",
+      "quote": "This freedom first opens up access to the vast reaches of essential possibilities, with their infinite horizons of essential knowledge."
+    },
+    {
+      "id": "wesen/hua3-parts34/004",
+      "locator": "husserliana-3-ideas-i-parts-3-4-commentary#h3-s-70-the-role-of-perception-in-the-method-of-essence-clarification-the-privilege",
+      "primary_locator": "Ideas I § 70",
+      "stratum": "hua3-parts34-undated",
+      "term": "eternal truths",
+      "status": "introduced",
+      "claim": "Fiction is called the vital element of phenomenology and of all eidetic science, and the source from which knowledge of eternal truths draws its nourishment.",
+      "quote": "that \"fiction\" makes up the vital element of phenomenology as of all eidetic science, that fiction is the source from which the knowledge of \"eternal truths\" draws its nourishment"
+    },
+    {
+      "id": "wesen/hua3-parts34/005",
+      "locator": "husserliana-3-ideas-i-parts-3-4-commentary#h3-s-75-phenomenology-as-a-descriptive-eidetic-doctrine-of-the-pure-experiences",
+      "primary_locator": "Ideas I § 75",
+      "stratum": "hua3-parts34-undated",
+      "term": "descriptive eidetic doctrine",
+      "status": "introduced",
+      "claim": "Phenomenology is characterized as a descriptive - not mathematical or idealizing - eidetic doctrine of the transcendentally pure experiences.",
+      "quote": "it wants to be a descriptive eidetic doctrine of the transcendentally pure experiences in the phenomenological attitude, and like every descriptive, non-substructing and non-idealizing discipline, it has its right in itself"
+    },
+    {
+      "id": "wesen/hua3-parts34/006",
+      "locator": "husserliana-3-ideas-i-parts-3-4-commentary#h3-s-75-phenomenology-as-a-descriptive-eidetic-doctrine-of-the-pure-experiences",
+      "primary_locator": "Ideas I § 75",
+      "stratum": "hua3-parts34-undated",
+      "term": "ideal-identical essence",
+      "status": "introduced",
+      "claim": "Phenomenology is said to let only the individuation fall and to raise the whole essential content into eidetic consciousness as an ideal-identical essence singularizable in countless instances.",
+      "quote": "Only the individuation does phenomenology let fall; the whole essential content, in the fullness of its concretion, it raises into eidetic consciousness and takes as an ideal-identical essence"
+    },
+    {
+      "id": "wesen/hua3-parts34/007",
+      "locator": "husserliana-3-ideas-i-parts-3-4-commentary#h3-s-75-phenomenology-as-a-descriptive-eidetic-doctrine-of-the-pure-experiences",
+      "primary_locator": "Ideas I § 75",
+      "stratum": "hua3-parts34-undated",
+      "term": "eidetic singularity",
+      "status": "revised",
+      "claim": "Eidetic singularities are declared unfixable in exact concepts, while essences of a higher level of speciality are said to admit firm distinction and strict conceptual grasp.",
+      "quote": "it stands quite otherwise with the essences of a higher level of speciality. These are accessible to firm distinction, identifying maintenance, and strict conceptual grasp"
+    },
+    {
+      "id": "wesen/hua3-parts34/008",
+      "locator": "husserliana-3-ideas-i-parts-3-4-commentary#h3-s-149-the-reason-theoretical-problems-of-the-regional-ontologies-the-problem-of",
+      "primary_locator": "Ideas I § 149",
+      "stratum": "hua3-parts34-undated",
+      "term": "regional and categorial essence",
+      "status": "presupposed",
+      "claim": "The transition from formal to material ontologies is made by taking the material generality of the regional and categorial essence in view, each region guiding its own investigation-group.",
+      "quote": "since we have the material generality of the regional and categorial essence in view, to propositions whose determination-content is taken in its regional determinateness"
+    }
+  ],
+  "absences": [
+    {
+      "locator": "husserliana-3-ideas-i-parts-3-4-commentary#h3-s-70-the-role-of-perception-in-the-method-of-essence-clarification-the-privilege",
+      "expected_because": "This is the commentary's fullest treatment of how essences are secured - free variation in phantasy, the geometer's triangle, and the knowledge of 'eternal truths' - and so the place where a comparison with Descartes' geometrical figures as true and immutable natures would fall if the commentary made one.",
+      "absent_terms": ["true and immutable nature", "true and immutable natures", "immutable nature", "innate idea", "innate ideas", "simple nature", "simple natures", "Descartes", "residuum"],
+      "note": "Bears directly on gap-007: the section grounds eternal truths in freely varied fiction and never in innateness or divine immutability, and never calls essences a residuum."
+    },
+    {
+      "locator": "husserliana-3-ideas-i-parts-3-4-commentary#h3-s-75-phenomenology-as-a-descriptive-eidetic-doctrine-of-the-pure-experiences",
+      "expected_because": "The section defines phenomenology as a descriptive eidetic doctrine and distinguishes eidetic singularities from higher essences, so if 'phenomenological residuum' were ever used of essences rather than of transcendental consciousness, it would be used here.",
+      "absent_terms": ["residuum", "immutable", "innate", "simple nature", "Descartes"],
+      "note": "The three occurrences of 'residuum' in this commentary are all of the hyletic or transcendental residuum of the reduction, none of an essence."
+    }
+  ]
+}

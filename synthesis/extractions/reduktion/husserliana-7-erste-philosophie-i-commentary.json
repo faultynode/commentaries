@@ -1,0 +1,74 @@
+{
+  "schema_version": 1,
+  "theme": "reduktion",
+  "commentary": "husserliana-7-erste-philosophie-i-commentary",
+  "source_sha256": "caeb8c837e2fc6f2afe18b07a39cebcd9f50a3476698bd72417fd9cebd8c9703",
+  "extracted_at": "2026-09-14",
+  "extractor": {
+    "agent": "claude-code",
+    "prompt": "https://github.com/faultynode/prompts/blob/main/synthesis-pipeline/extraction-prompt.md",
+    "note": "Partial pass over the Tenth, Thirteenth, Fourteenth, Twenty-sixth and Twenty-seventh Lectures."
+  },
+  "coverage": "partial",
+  "coverage_note": "Covers the Tenth Lecture (the Cartesian Meditations), the Thirteenth (empiricist prejudices), the Fourteenth (the exemplariness of natural science), the Twenty-sixth (the positively constructing line) and the Twenty-seventh (metaphysics and theory of cognition). The Ninth, Eleventh and Seventeenth Lectures and the remaining lectures carrying hits are not covered.",
+  "units": [
+    {
+      "id": "reduktion/hua7/001",
+      "locator": "husserliana-7-erste-philosophie-i-commentary#h3-tenth-lecture-the-cartesian-meditations",
+      "term": "not letting pre-givenness count",
+      "status": "introduced",
+      "claim": "Transcendental research may in principle not let the being-pre-given of objects count, treating their being-there as a problem of constitution rather than a premise.",
+      "quote": "To \"not let pre-givenness count\" is the methodological refusal — the seed of the *epoché* — to take the being-there of objects as a premise rather than as itself a problem of constitution."
+    },
+    {
+      "id": "reduktion/hua7/002",
+      "locator": "husserliana-7-erste-philosophie-i-commentary#h3-thirteenth-lecture-the-empiricist-prejudices-the-psychologism-in-the-theory-of-c",
+      "term": "method of the phenomenological reduction",
+      "status": "introduced",
+      "claim": "Pure inner experience requires a proper method, the method of the phenomenological reduction, in order to come about at all and to keep its purity scientifically secured.",
+      "quote": "in order to come about at all, to obtain its purity, and to carry with itself scientific security of the preservation of this purity, *a proper method, the method of the phenomenological reduction*"
+    },
+    {
+      "id": "reduktion/hua7/003",
+      "locator": "husserliana-7-erste-philosophie-i-commentary#h3-thirteenth-lecture-the-empiricist-prejudices-the-psychologism-in-the-theory-of-c",
+      "term": "phenomenological reduction (as remedy)",
+      "status": "presupposed",
+      "claim": "The reduction is named as the still-outstanding remedy for the historical failure of inner description, whose observers' findings never harmonized.",
+      "quote": "having named the phenomenological reduction as the still-outstanding remedy"
+    },
+    {
+      "id": "reduktion/hua7/004",
+      "locator": "husserliana-7-erste-philosophie-i-commentary#h3-fourteenth-lecture-the-exemplariness-of-modern-natural-science-as-a-hindering-mo",
+      "term": "reduction of all cognition-problems to inner experience",
+      "status": "revised",
+      "claim": "Once Locke's confusion of sensation and reflection is clarified, his procedure is to be designated as the reduction of all cognition-problems to the ground of inner or consciousness-experience.",
+      "quote": "the Lockean procedure is to be designated, in the right sense, as the *reduction of all cognition-problems to the ground of inner experience, of pure idea-experience or consciousness-experience*"
+    },
+    {
+      "id": "reduktion/hua7/005",
+      "locator": "husserliana-7-erste-philosophie-i-commentary#h3-twenty-sixth-lecture-the-basic-features-of-the-positively-constructing-line-of-m",
+      "primary_locator": "Ideen I",
+      "term": "phenomenological reduction (as universal ground)",
+      "status": "presupposed",
+      "claim": "After the methodical bringing-into-relief of the phenomenological reduction as the universal ground of research, the whole work is carried out within the phenomenological attitude itself.",
+      "quote": "Although, after the methodical bringing-into-relief of the universal ground of phenomenological research (the phenomenological reduction), this whole work carries itself out *within the phenomenological attitude itself*"
+    },
+    {
+      "id": "reduktion/hua7/006",
+      "locator": "husserliana-7-erste-philosophie-i-commentary#h3-twenty-seventh-lecture-on-metaphysics-and-theory-of-cognition-the-significance-o",
+      "term": "universal epoché",
+      "status": "introduced",
+      "claim": "The genuine method requires that all cognition be set up merely as phenomenon and that nothing be posited first but the absolutely evident transcendental subjectivity.",
+      "quote": "all cognition, beginning from the simple experience-cognition up to all science, must be treated as *epistemologically questionable*, and according to the sense of this questionability all and every cognition"
+    },
+    {
+      "id": "reduktion/hua7/007",
+      "locator": "husserliana-7-erste-philosophie-i-commentary#h3-twenty-seventh-lecture-on-metaphysics-and-theory-of-cognition-the-significance-o",
+      "term": "epoché (methodical prescription)",
+      "status": "presupposed",
+      "claim": "Everything pre-given, the sense-world and the science determining it, may only be posited as experienced of the experiencing.",
+      "quote": "everything pre-given however self-evidently — the sense-world and the science determining it — may *only* be posited as *experienced of the experiencing*"
+    }
+  ],
+  "absences": []
+}

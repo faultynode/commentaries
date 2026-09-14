@@ -1,0 +1,116 @@
+{
+  "schema_version": 1,
+  "theme": "reduktion",
+  "commentary": "husserliana-13-basic-problems-of-phenomenology-commentary",
+  "source_sha256": "e644f4bf71525db6c087db314384648602700f12e1fa0cb69cb7541ebf74685e",
+  "extracted_at": "2026-09-14",
+  "extractor": {
+    "agent": "claude-code",
+    "prompt": "https://github.com/faultynode/prompts/blob/main/synthesis-pipeline/extraction-prompt.md",
+    "note": "Partial pass over the sections where the reduction is thematic: §§ 16, 19, 32, 34, 39."
+  },
+  "coverage": "partial",
+  "coverage_note": "Covers §§ 16, 19, 32, 34 and 39 (the Descartes section, the objection to switching off the I, the restated all-embracing reduction, the double reduction, and its application to empathy). The remaining sections of the Second through Sixth Chapters carry hits and are not covered.",
+  "units": [
+    {
+      "id": "reduktion/hua13/001",
+      "locator": "husserliana-13-basic-problems-of-phenomenology-commentary#h3-s-16-descartes-fundamental-consideration-and-the-phenomenological-reduction",
+      "primary_locator": "Hua XIII § 16",
+      "term": "phenomenological reduction",
+      "status": "introduced",
+      "claim": "Descartes is named the first philosopher to have carried out a phenomenological reduction, and to have surrendered it immediately.",
+      "quote": "The *first* philosopher who carried out a phenomenological reduction — though he performed it only to surrender it again at once — was *Descartes*."
+    },
+    {
+      "id": "reduktion/hua13/002",
+      "locator": "husserliana-13-basic-problems-of-phenomenology-commentary#h3-s-16-descartes-fundamental-consideration-and-the-phenomenological-reduction",
+      "primary_locator": "Hua XIII § 16",
+      "term": "cogitatio, pure consciousness",
+      "status": "presupposed",
+      "claim": "What the empirical psychologist takes as psychic experience becomes cogitatio in the absolute sense only through the phenomenological reduction.",
+      "quote": "first becomes *cogitatio in the absolute sense* — in the sense of *pure phenomenological givenness* — *through* the phenomenological reduction"
+    },
+    {
+      "id": "reduktion/hua13/003",
+      "locator": "husserliana-13-basic-problems-of-phenomenology-commentary#h3-s-16-descartes-fundamental-consideration-and-the-phenomenological-reduction",
+      "primary_locator": "Hua XIII § 16",
+      "term": "Cartesian fundamental consideration",
+      "status": "criticized",
+      "claim": "Descartes' procedure failed because he attempted to ground absolute science without any systematic phenomenology of the field he had reached.",
+      "quote": "Descartes reached the field of pure consciousness and immediately abandoned it, pressing on to prove God and the external world, precisely because he lacked the systematic discipline that would have shown what that field contains and demands."
+    },
+    {
+      "id": "reduktion/hua13/004",
+      "locator": "husserliana-13-basic-problems-of-phenomenology-commentary#h3-s-19-the-objection-against-the-phenomenological-switch-off-ability-of-the-i",
+      "primary_locator": "Hua XIII § 19",
+      "term": "phenomenological reduction (switching off the own I)",
+      "status": "criticized",
+      "claim": "The objection is raised that a reduction wanting to switch off the own I is unthinkable, since the relation to the I is essential to the cogitatio.",
+      "quote": "the phenomenological reduction, which wants to switch off the own I, is something *unthinkable*"
+    },
+    {
+      "id": "reduktion/hua13/005",
+      "locator": "husserliana-13-basic-problems-of-phenomenology-commentary#h3-s-19-the-objection-against-the-phenomenological-switch-off-ability-of-the-i",
+      "primary_locator": "Hua XIII § 19",
+      "term": "bracketing of the empirical I",
+      "status": "presupposed",
+      "claim": "Husserl grants the bracketing of the empirical I as indisputable and leaves the pure I open as a question for what the reduced attitude actually finds.",
+      "quote": "phenomenological research can and must speak of *everything it finds* in its attitude"
+    },
+    {
+      "id": "reduktion/hua13/006",
+      "locator": "husserliana-13-basic-problems-of-phenomenology-commentary#h3-s-32-repetition-and-new-presentation-the-phenomenological-reduction-to-the-pure",
+      "primary_locator": "Hua XIII § 32",
+      "term": "all-embracing phenomenological reduction",
+      "status": "presupposed",
+      "claim": "The all-embracing reduction switches off every existence-positing of natural givenness without doubting it, excluding in principle every empirically founded judgment as premise.",
+      "quote": "we switch off *all* transcendence in the sense of natural existence-positing. We will make *no judgment-use* of any existence that comes to us as *natural* givenness — *without*, however, doubting it or suspecting it in any way."
+    },
+    {
+      "id": "reduktion/hua13/007",
+      "locator": "husserliana-13-basic-problems-of-phenomenology-commentary#h3-s-32-repetition-and-new-presentation-the-phenomenological-reduction-to-the-pure",
+      "primary_locator": "Hua XIII § 32",
+      "term": "phenomenological reduction (as against the apriori)",
+      "status": "revised",
+      "claim": "In this course the reduction does not coincide with a turn to essences but yields a world of individual being, the world of pure consciousness.",
+      "quote": "the reduction here does *not* coincide with the turn to essences; it yields a domain of *individual* being"
+    },
+    {
+      "id": "reduktion/hua13/008",
+      "locator": "husserliana-13-basic-problems-of-phenomenology-commentary#h3-s-34-lifting-of-an-artificial-restriction-the-attainment-of-the-phenomenological",
+      "primary_locator": "Hua XIII § 34",
+      "term": "double phenomenological reduction",
+      "status": "introduced",
+      "claim": "Every experience permits a double reduction: one bringing the act itself to pure immanent beholding, a second exercised on its intentional content and object.",
+      "quote": "every experience permits a double phenomenological reduction"
+    },
+    {
+      "id": "reduktion/hua13/009",
+      "locator": "husserliana-13-basic-problems-of-phenomenology-commentary#h3-s-34-lifting-of-an-artificial-restriction-the-attainment-of-the-phenomenological",
+      "primary_locator": "Hua XIII § 34",
+      "term": "phenomenological reduction (starting point)",
+      "status": "revised",
+      "claim": "The reduction must be exercised on the stream as it offers itself in natural reflection, not presupposed as already in force.",
+      "quote": "The reduction is thus to be applied to the *naturally* given mental life, not presupposed as already operative."
+    },
+    {
+      "id": "reduktion/hua13/010",
+      "locator": "husserliana-13-basic-problems-of-phenomenology-commentary#h3-s-39-the-attainment-of-other-phenomenological-i-s-through-double-phenomenologica",
+      "primary_locator": "Hua XIII § 39",
+      "term": "double phenomenological reduction (on empathy)",
+      "status": "presupposed",
+      "claim": "Empathy is reduced in the double manner, yielding my act of empathizing on one side and a reduced foreign cogitatio with its own time-background on the other.",
+      "quote": "Empathy is, at all events, an *experience* that we can *phenomenologically reduce* like any other — and here too in the *double* manner."
+    },
+    {
+      "id": "reduktion/hua13/011",
+      "locator": "husserliana-13-basic-problems-of-phenomenology-commentary#h3-s-39-the-attainment-of-other-phenomenological-i-s-through-double-phenomenologica",
+      "primary_locator": "Hua XIII § 39",
+      "term": "phenomenological reduction (outcome)",
+      "status": "revised",
+      "claim": "The reduction issues not in solipsism but in a multiplicity of pure I-monads coordinated through objective nature as index.",
+      "quote": "The phenomenological reduction, far from imprisoning the philosopher in solipsism (the objection of §18), has issued in a *monadology*"
+    }
+  ],
+  "absences": []
+}

@@ -2,7 +2,7 @@
   "schema_version": 1,
   "theme": "intentionalitaet",
   "commentary": "husserl-formal-and-transcendental-logic-commentary",
-  "source_sha256": "04e5753e083caeb49e03ab9548070ef879b6571320ae58ffdca2c89992f8f95b",
+  "source_sha256": "420fa4fc5a2515a86e1abd413a8003659f5fe4e917f7e6fb57088970b2866590",
   "extracted_at": "2026-09-09",
   "extractor": {
     "agent": "claude-code",

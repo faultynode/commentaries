@@ -1,0 +1,98 @@
+{
+  "schema_version": 1,
+  "theme": "wesen",
+  "commentary": "husserliana-33-die-bernauer-manuskripte-uber-das-zeitbewusstsein-commentary",
+  "source_sha256": "7824dfc668eb525991d53ab3355fb32c76040ee942ce34e20338a34d494b2530",
+  "extracted_at": "2026-09-14",
+  "extractor": {
+    "agent": "claude-code",
+    "prompt": "prompts/synthesis-pipeline/extraction-prompt.md",
+    "note": "Whole file grep-scanned for the theme's search terms plus 'Wesensschau', 'immutable', 'innate', 'Descartes', 'residuum', 'free variation' and 'simple nature'. Closely read the three sections where the theme is a term of art: the eidetic shape of psychic interiority (lines 739-744), individuality and identity of time-objects (773-776) and the tode ti (797-802). No stratum is assigned: chronology.json distinguishes a 1917 and a 1918 layer for this volume, and the appended texts read here do not state which they belong to."
+  },
+  "coverage": "partial",
+  "coverage_note": "Covers three short sections of the appended texts - 'The Time-Relation of the Pure Ego' § 1, 'Temporal Streaming and the Constitution of Individual Objectual Being' § 1, and 'On the Phenomenology of Individuation' § 2. The main body of the Bernau manuscripts on protention and retention, which carries most of the file's 'essential' hits adverbially, was keyword-scanned only.",
+  "units": [
+    {
+      "id": "wesen/hua33-bernau/001",
+      "locator": "husserliana-33-die-bernauer-manuskripte-uber-das-zeitbewusstsein-commentary#h4-s-1-the-eidetic-shape-of-psychic-interiority-temporal-ur-genesis-ego-and-hyle",
+      "term": "general essence",
+      "status": "introduced",
+      "claim": "The section is said to characterize the general essence without which a unified interiority is unthinkable.",
+      "quote": "Husserl characterizes the general essence without which a unified interiority is unthinkable."
+    },
+    {
+      "id": "wesen/hua33-bernau/002",
+      "locator": "husserliana-33-die-bernauer-manuskripte-uber-das-zeitbewusstsein-commentary#h4-s-1-the-eidetic-shape-of-psychic-interiority-temporal-ur-genesis-ego-and-hyle",
+      "term": "essential lawfulness",
+      "status": "introduced",
+      "claim": "The essential lawfulness of time-constituting consciousness is called the primordially first and deepest lawfulness of a consciousness-genesis and of the primal constitution of objectivities.",
+      "quote": "The essential lawfulness of this time-constituting consciousness is the primordially first and deepest lawfulness of a consciousness-genesis"
+    },
+    {
+      "id": "wesen/hua33-bernau/003",
+      "locator": "husserliana-33-die-bernauer-manuskripte-uber-das-zeitbewusstsein-commentary#h4-s-1-the-eidetic-shape-of-psychic-interiority-temporal-ur-genesis-ego-and-hyle",
+      "term": "eidetic form",
+      "status": "introduced",
+      "claim": "Ur-genesis as eidetic form, the form of the constitution of immanent hyletic objects, is said to underlie every further genesis.",
+      "quote": "Ur-genesis (as eidetic form) — the form of the constitution of immanent hyletic objects — underlies every further genesis."
+    },
+    {
+      "id": "wesen/hua33-bernau/004",
+      "locator": "husserliana-33-die-bernauer-manuskripte-uber-das-zeitbewusstsein-commentary#h4-s-1-individuality-and-identity-of-time-objects-fact-and-essence-ur-presentation",
+      "term": "individuelles Wesen",
+      "status": "introduced",
+      "claim": "The full sense identical across experience and phantasy is called the individual essence of the object, encompassing its time-duration and the distribution of its temporal filling.",
+      "quote": "This full sense is the individual essence (*individuelles Wesen*) of the object, encompassing its identical time-duration and the distribution of its temporal filling over this duration."
+    },
+    {
+      "id": "wesen/hua33-bernau/005",
+      "locator": "husserliana-33-die-bernauer-manuskripte-uber-das-zeitbewusstsein-commentary#h4-s-1-individuality-and-identity-of-time-objects-fact-and-essence-ur-presentation",
+      "term": "individual essence",
+      "status": "revised",
+      "claim": "The individual essence is said to be a universal in that it is an identical general particularizing itself here and there, as individual actuality or individual possibility.",
+      "quote": "It is one in that it is an identical general that particularizes itself here and there, as individual actuality or individual possibility."
+    },
+    {
+      "id": "wesen/hua33-bernau/006",
+      "locator": "husserliana-33-die-bernauer-manuskripte-uber-das-zeitbewusstsein-commentary#h4-s-2-the-tode-ti-the-concrete-temporally-individuated-essence-and-its-temporal-ex",
+      "primary_locator": "Ideas I",
+      "term": "concrete essence",
+      "status": "presupposed",
+      "claim": "Returning to the Ideas I distinction of sachhaltig essence and tode ti, concrete essence is said to contain abstract essences, every essence being individualized through the tode ti.",
+      "quote": "Concrete essence contains abstract (non-independent) essences; every essence is individualized through the τόδε τι."
+    },
+    {
+      "id": "wesen/hua33-bernau/007",
+      "locator": "husserliana-33-die-bernauer-manuskripte-uber-das-zeitbewusstsein-commentary#h4-s-2-the-tode-ti-the-concrete-temporally-individuated-essence-and-its-temporal-ex",
+      "term": "logical essence of essence",
+      "status": "introduced",
+      "claim": "To the logical essence of essence is said to belong being an identical universal in relation to an open pure possibility of an infinite range of particulars, each an absolute once-only this-here.",
+      "quote": "to the logical essence of essence belongs being an identical universal in relation to an open pure possibility of an infinite range of particulars — each an absolute once-only this-here"
+    },
+    {
+      "id": "wesen/hua33-bernau/008",
+      "locator": "husserliana-33-die-bernauer-manuskripte-uber-das-zeitbewusstsein-commentary#h4-s-2-the-tode-ti-the-concrete-temporally-individuated-essence-and-its-temporal-ex",
+      "term": "formal essence",
+      "status": "introduced",
+      "claim": "Temporal extension is said to belong to the formal essence of the concretum and, as a moment of an essence, to be itself an abstract essence in a distinguished position.",
+      "quote": "temporal extension, as moment of an essence, is itself an abstract essence occupying a distinguished position"
+    }
+  ],
+  "absences": [
+    {
+      "locator": "husserliana-33-die-bernauer-manuskripte-uber-das-zeitbewusstsein-commentary#h4-s-2-the-tode-ti-the-concrete-temporally-individuated-essence-and-its-temporal-ex",
+      "expected_because": "This section states what the logical essence of essence is - an identical universal over an infinite range of once-only particulars - which is the anti-nominalist thesis the theme was opened to trace, and states it without the method by which such an essence is seen or any rival account of its standing.",
+      "absent_terms": [
+        "Wesensschau",
+        "free variation",
+        "immutable",
+        "true and immutable",
+        "innate",
+        "simple nature",
+        "Descartes",
+        "residuum"
+      ],
+      "note": "Bears on gap-007. The universality of essence is grounded here in the tode ti and in temporal individuation, not in variation, innateness or immutability."
+    }
+  ]
+}

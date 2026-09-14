@@ -4,55 +4,9 @@
 
 *Husserl's account of how complex objectivities (states of affairs, values, meanings) are founded on and constituted through more basic entities—a foundational doctrine running through Logical Investigations (especially the Sixth Investigation), Ideas I Part 3, and Thing and Space. The doctrine holds that some objects depend asymmetrically on others for their existence (dependent parts cannot exist alone; independent parts can), and that higher-order objectivities emerge through founding relations between strata of objects. Henry's phenomenology of manifestation and Marion's donation all work substantially with founding structures, making this theme particularly dense in French phenomenology. Watch for ambiguous 'function' in mathematical contexts or psychological functions; the philosophical sense concerns the structural role of an object in constituting a higher-order whole.*
 
-110 units and 2 recorded absences from 13 commentaries.
+64 units and 1 recorded absences from 4 commentaries.
 
 ## Primary corpus, by composition or delivery date
-
-### 1901 to 1913 - Husserl, Hua 19/1 — Fifth Logical Investigation
-
-`husserliana-19-1-fifth-logical-investigation-commentary`
-
-- **presupposed** · `fundierung/husserliana-19-1/001` · *Judgment as founding act for emotional acts*
-  Joy and other emotional acts are founded on and determined by an underlying judgment-act; the judgment realizes the abstract possibility of the emotion, and without such founding the emotional act cannot exist at all.
-  `husserliana-19-1-fifth-logical-investigation-commentary#h3-s18-simple-and-composite-founding-and-founded-acts` · [§18. Simple and composite, founding and founded acts](https://faultynode.github.io/commentaries/commentaries/husserl/husserliana-19-1-fifth-logical-investigation-commentary.html#simple-and-composite-founding-and-founded-acts)
-  > the judgment is the *founding* act for the joy, it determines its content, *realizes its abstract possibility* — for *without* such founding, joy cannot be at all
-
-- **presupposed** · `fundierung/husserliana-19-1/002` · *Non-objectivating acts founded in presentations*
-  Feeling, desiring, and other non-objectivating act-characters are not full self-sufficient acts but are founded in objectivating presentation-acts; they cannot unfold intentional relation to an objective without intimate interweaving with a presentation.
-  `husserliana-19-1-fifth-logical-investigation-commentary#h3-s23-the-conception-of-matter-as-a-founding-act-of-mere-presenting` · [§23. The conception of matter as a founding act of "mere presenting"](https://faultynode.github.io/commentaries/commentaries/husserl/husserliana-19-1-fifth-logical-investigation-commentary.html#the-conception-of-matter-as-a-founding-act-of-mere-presenting)
-  > These new intentional characters are evidently *not* to be grasped as *full and self-sufficient acts*. They are not thinkable without the objectivating presentation-act, hence *founded* in it.
-
-- **presupposed** · `fundierung/husserliana-19-1/003` · *Desired object unthinkable without underlying presentation*
-  A desired object cannot exist or be thought without being at the same time presented in an act of presenting; this foundational relation is an a priori essential law evident with apodictic evidence.
-  `husserliana-19-1-fifth-logical-investigation-commentary#h3-s23-the-conception-of-matter-as-a-founding-act-of-mere-presenting` · [§23. The conception of matter as a founding act of "mere presenting"](https://faultynode.github.io/commentaries/commentaries/husserl/husserliana-19-1-fifth-logical-investigation-commentary.html#the-conception-of-matter-as-a-founding-act-of-mere-presenting)
-  > A *desired* object (or state of affairs) that were not, in and with the desiring, at the same time *presented*, not only does not actually occur but is *simply unthinkable*.
-
-- **presupposed** · `fundierung/husserliana-19-1/004` · *Presentation in two senses: act and matter*
-  The proposition that every act has a presentation as basis gains clarity through distinguishing two senses of presentation: act-quality (a specific kind of intentional experience) and act-matter (the content-moment that determines objective relation).
-  `husserliana-19-1-fifth-logical-investigation-commentary#h3-s32-a-double-sense-of-the-word-presentation-and-the-supposed-evidence-of-the-pro` · [§32. A double sense of the word presentation and the supposed evidence of the proposition of the foundation of every act by a presentation-act](https://faultynode.github.io/commentaries/commentaries/husserl/husserliana-19-1-fifth-logical-investigation-commentary.html#a-double-sense-of-the-word-presentation-and-the-supposed-evidence-of-the-proposition-of-the-foundation-of-every-act-by-a-presentation-act)
-  > The deception is grounded in the discussed *double sense* of presentation. In its first part the proposition speaks, rightly understood, of presentation in the sense of a certain *act-kind*; in the second, of presentation in the sense of the mere *act-matter*
-
-- **presupposed** · `fundierung/husserliana-19-1/005` · *Nominal acts as modifications of predicative judgments*
-  Nominal acts and complete predicative judgments possess different intentional essences and cannot be identified; the nominal meaning is a phenomenological modification of the judgment, not the judgment itself.
-  `husserliana-19-1-fifth-logical-investigation-commentary#h3-s35-nominal-positing-and-judgment-whether-judgments-can-become-parts-of-nominal` · [§35. Nominal positing and judgment. Whether judgments can become parts of nominal acts at all](https://faultynode.github.io/commentaries/commentaries/husserl/husserliana-19-1-fifth-logical-investigation-commentary.html#nominal-positing-and-judgment-whether-judgments-can-become-parts-of-nominal-acts-at-all)
-  > The difference is so sharply marked that we may not push it aside for theoretical prejudices or for the greater simplicity hoped for in the doctrine of presenting and judging. The *prior judging* is *not yet* the nominal meaning, which only *grows* out of it.
-
-- **presupposed** · `fundierung/husserliana-19-1/006` · *Objectivating acts as genus grounding all acts*
-  All nominally and propositionally functioning acts belong to a comprehensive genus of objectivating acts unified by quality; despite their matter-differences (nominal vs. propositional), they share the same qualitative essence of objectification.
-  `husserliana-19-1-fifth-logical-investigation-commentary#h3-s37-the-aim-of-the-following-investigation-the-concept-of-the-objectivating-act` · [§37. The aim of the following investigation. The concept of the objectivating act](https://faultynode.github.io/commentaries/commentaries/husserl/husserliana-19-1-fifth-logical-investigation-commentary.html#the-aim-of-the-following-investigation-the-concept-of-the-objectivating-act)
-  > the distinction of "basic classes" of acts refers, as is at once clear, *only to the act-qualities*. We must further consider that from our expositions it does *not even* follow that nominal and propositional acts must be *of different quality at all*, let alone of different *quality-genus*.
-
-- **presupposed** · `fundierung/husserliana-19-1/007` · *Qualitative modification: positing into non-positing*
-  Every positing act (perception, memory, assertion) has a qualitative counterpart in a corresponding non-positing act that makes the same objectivity present in identical matter but withholds the being-positing; this modification is non-iterable and creates a unique connection.
-  `husserliana-19-1-fifth-logical-investigation-commentary#h3-s39-presentation-in-the-sense-of-the-objectivating-act-and-its-qualitative-modif` · [§39. Presentation in the sense of the objectivating act and its qualitative modification](https://faultynode.github.io/commentaries/commentaries/husserl/husserliana-19-1-fifth-logical-investigation-commentary.html#presentation-in-the-sense-of-the-objectivating-act-and-its-qualitative-modification)
-  > To every act of *belief* there corresponds, as counterpart, a "mere" presentation, which makes the *same* objectivity present in exactly the same way (on the basis of an *identical matter*) as that act of belief
-
-- **presupposed** · `fundierung/husserliana-19-1/008` · *Objectivating acts as sole bearers of intentional matter*
-  Every intentional experience either is an objectivating act or has one as necessary basis; no act-quality can appropriate its matter except through an objectivating act interwoven into the unified whole, which thereby makes present the objectivity for all other acts.
-  `husserliana-19-1-fifth-logical-investigation-commentary#h3-s41-new-interpretation-of-the-proposition-of-presentation-as-basis-of-all-acts-t` · [§41. New interpretation of the proposition of presentation as basis of all acts. The objectivating act as primary bearer of the matter](https://faultynode.github.io/commentaries/commentaries/husserl/husserliana-19-1-fifth-logical-investigation-commentary.html#new-interpretation-of-the-proposition-of-presentation-as-basis-of-all-acts-the-objectivating-act-as-primary-bearer-of-the-matter)
-  > no *act* — or rather no *act-quality* not itself of the objectivating kind — can *appropriate its matter* except by means of an objectivating act interwoven with it into *one* unified act
-
-*Partial pass: Extracts from central sections on the foundational doctrine of acts (§18 on simple/composite acts, §23 on matter as founding presentation, §32 on double sense of presentation, §35 on nominal-propositional distinction, §37-39 on objectivating acts and modifications, §41-42 on presentation-basis and composite act laws). Focuses on the asymmetric founding relations where higher-order intentional acts (emotions, judgments, nominalizations) depend necessarily on lower acts (perceptions, presentations, objectivations).*
 
 ### 1907 - Husserl's Thing and Space (1907)
 
@@ -456,16 +410,12 @@
 
 #### Recorded absences
 
-- **absent** · `lacan-seminar-11-the-four-fundamental-concepts-of-psychoanalysis-commentary#h3-viii-the-line-and-light`
-  Expected because: Lesson VII had just stated that consciousness finds its foundation in the turned-inside-out structure of the gaze (unit fundierung/lacan-seminar-11/002); Lesson VIII carries that structure through the optics of the two triangles and the screen, which is where the founding relation would have to be worked out.
-  The relation is carried instead by the vocabulary of the cut, the screen and the stain. Ranking this commentary high for fundierung is an artifact of the theme's generic English search terms.
-  [VIII. The Line and Light](https://faultynode.github.io/commentaries/commentaries/lacan/lacan-seminar-11-the-four-fundamental-concepts-of-psychoanalysis-commentary.html#viii-the-line-and-light)
+- **absent** · `husserl-thing-and-space-commentary#h3-s4-intentionality-as-the-essential-determination-of-perception`
+  Expected because: S4 introduces presence in the flesh as the concept on which the lectures turn, and the section is described throughout as foundational, so a founding relation in the technical sense would be expected here.
+  The word 'foundational' here is the ordinary English adjective describing the section's importance to the lectures, not Fundierung. The technical vocabulary of founding enters only at S15 and S46.
+  [§4. Intentionality as the essential determination of perception](https://faultynode.github.io/commentaries/commentaries/husserl/husserl-thing-and-space-commentary.html#intentionality-as-the-essential-determination-of-perception)
 
-- **absent** · `lacan-seminar-11-the-four-fundamental-concepts-of-psychoanalysis-commentary#h3-ix-what-is-a-picture`
-  Expected because: The lesson asks what a picture is and settles the relation between the gaze as objet a and the seen - an asymmetric dependence of the visible on the gaze, which is the place a founding claim would be made.
-  [IX. What Is a Picture?](https://faultynode.github.io/commentaries/commentaries/lacan/lacan-seminar-11-the-four-fundamental-concepts-of-psychoanalysis-commentary.html#ix-what-is-a-picture)
-
-*Partial pass: Lessons III, IV, VII, X, XIV, XVI, XVIII and XIX - the sections where the commentary states a founding relation in so many words - plus checked absences at VIII and IX. Not covered: Lessons I-II, V-VI, XI-XIII, XV, XVII and XX.*
+*Partial pass: Scanned Chapter 1 (SS1-7, lines 9-222), Chapter 3 (SS14-15, lines 433-506), Chapter 8 (SS45-47, lines 1255-1352) and Chapter 9 S49 (lines 1383-1418). Chapters 2, 4-7 and 10-14 (including the constitution of three-dimensional space, SS58-84) are not covered.*
 
 ## Reception layer
 
@@ -593,17 +543,77 @@
 
 `bernet-la-vie-du-sujet-commentary`
 
-- **presupposed** · `fundierung/bernet/001` · *Noematic signification (founded structure)*
-  Noematic signification is more independent of the particular act than the perceived, because it is not essentially tied to the punctual act's spatiotemporal particularity.
-  `bernet-la-vie-du-sujet-commentary#h4-the-noema-as-ideal-signification-of-a-judgment` · [The Noema as Ideal Signification of a Judgment](https://faultynode.github.io/commentaries/commentaries/bernet/bernet-la-vie-du-sujet-commentary.html#the-noema-as-ideal-signification-of-a-judgment)
-  > the said as such can be understood independently of any relation to the punctual intention of the speaker
+- **introduced** · `fundierung/bernet/001` · *Fundierung of categorial on sensible acts*
+  Heidegger summarizes the distinction between sensible and categorial intentional acts together with the relations of interdependence or founding that unite them.
+  `bernet-la-vie-du-sujet-commentary#h4-the-intentionality-of-sensible-and-categorial-acts` · La vie du sujet, p. 46 · [The Intentionality of Sensible and Categorial Acts](https://faultynode.github.io/commentaries/commentaries/bernet/bernet-la-vie-du-sujet-commentary.html#the-intentionality-of-sensible-and-categorial-acts)
+  > the distinction between different sorts of intentional acts, sensible and categorial, and the relations of interdependence or founding that unite them
 
-- **presupposed** · `fundierung/bernet/002` · *Synthesis of identification (founding ideal identity)*
-  Ideal identity requires synthesis of identification across multiple acts; consciousness of identity presupposes this synthesis.
-  `bernet-la-vie-du-sujet-commentary#h4-the-noema-as-ideal-signification-of-a-judgment` · [The Noema as Ideal Signification of a Judgment](https://faultynode.github.io/commentaries/commentaries/bernet/bernet-la-vie-du-sujet-commentary.html#the-noema-as-ideal-signification-of-a-judgment)
+- **criticized** · `fundierung/bernet/002` · *circularity of the simple/categorial distinction*
+  Neither Husserl nor Heidegger addresses the circularity that a categorial act cannot be defined without appeal to its being founded on a set of simple acts.
+  `bernet-la-vie-du-sujet-commentary#h4-the-intentionality-of-sensible-and-categorial-acts` · La vie du sujet, pp. 46-47 · [The Intentionality of Sensible and Categorial Acts](https://faultynode.github.io/commentaries/commentaries/bernet/bernet-la-vie-du-sujet-commentary.html#the-intentionality-of-sensible-and-categorial-acts)
+  > a categorial act cannot be defined without appeal to its being composed of, or more precisely founded on, a set of simple acts
+
+- **introduced** · `fundierung/bernet/003` · *gestufte Akte governed by the logic of whole and parts*
+  Acts of synthesis are governed by the same logic of whole and parts that forms the real weave of the Logical Investigations.
+  `bernet-la-vie-du-sujet-commentary#h4-the-intentionality-of-sensible-and-categorial-acts` · La vie du sujet, pp. 46-47 · [The Intentionality of Sensible and Categorial Acts](https://faultynode.github.io/commentaries/commentaries/bernet/bernet-la-vie-du-sujet-commentary.html#the-intentionality-of-sensible-and-categorial-acts)
+  > Such acts are governed by the same logic of whole and parts that forms the real weave of the *Logical Investigations*.
+
+- **introduced** · `fundierung/bernet/004` · *Überschuss (categorial excess)*
+  Despite their rootedness in sensible perception, categorial acts never reduce to the simple acts that compose or found them.
+  `bernet-la-vie-du-sujet-commentary#h4-the-intentionality-of-sensible-and-categorial-acts` · La vie du sujet, pp. 47-48 · [The Intentionality of Sensible and Categorial Acts](https://faultynode.github.io/commentaries/commentaries/bernet/bernet-la-vie-du-sujet-commentary.html#the-intentionality-of-sensible-and-categorial-acts)
+  > Despite their rootedness in sensible perception, categorial acts never reduce purely and simply to the simple acts that compose them or found them
+
+- **introduced** · `fundierung/bernet/005` · *the copula as founded categorial object*
+  The 'is' of a perceptual statement counts as a categorial object whose intuitive apprehension is founded on sensible perception without being reducible to it.
+  `bernet-la-vie-du-sujet-commentary#h4-the-intentionality-of-sensible-and-categorial-acts` · La vie du sujet, pp. 48-49 · [The Intentionality of Sensible and Categorial Acts](https://faultynode.github.io/commentaries/commentaries/bernet/bernet-la-vie-du-sujet-commentary.html#the-intentionality-of-sensible-and-categorial-acts)
+  > a categorial object whose intuitive apprehension is founded on, but not reducible to, sensible perception
+
+- **revised** · `fundierung/bernet/006` · *ideierende Abstraktion*
+  Acts of ideation differ from acts of synthesis in excluding their sensible foundation rather than including it.
+  `bernet-la-vie-du-sujet-commentary#h4-the-intentionality-of-sensible-and-categorial-acts` · La vie du sujet, pp. 49-50 · [The Intentionality of Sensible and Categorial Acts](https://faultynode.github.io/commentaries/commentaries/bernet/bernet-la-vie-du-sujet-commentary.html#the-intentionality-of-sensible-and-categorial-acts)
+  > differs from acts of synthesis precisely in excluding its sensible foundation rather than including it
+
+- **introduced** · `fundierung/bernet/007` · *categorial intuition as the foundation of language*
+  Husserl and Heidegger agree that categorial intuitions are not derived from language but constitute its intuitive foundation.
+  `bernet-la-vie-du-sujet-commentary#h4-the-intentionality-of-sensible-and-categorial-acts` · La vie du sujet, pp. 47-48 · [The Intentionality of Sensible and Categorial Acts](https://faultynode.github.io/commentaries/commentaries/bernet/bernet-la-vie-du-sujet-commentary.html#the-intentionality-of-sensible-and-categorial-acts)
+  > far from being derived from language these categorial intuitions constitute its intuitive foundation
+
+- **revised** · `fundierung/bernet/008` · *Gegenständlichkeit without production*
+  That categorial acts constitute a new objecthood does not mean producing in the sense of manufacture but letting the being be seen in its objecthood.
+  `bernet-la-vie-du-sujet-commentary#h4-the-intentionality-of-sensible-and-categorial-acts` · La vie du sujet, pp. 50-51 · [The Intentionality of Sensible and Categorial Acts](https://faultynode.github.io/commentaries/commentaries/bernet/bernet-la-vie-du-sujet-commentary.html#the-intentionality-of-sensible-and-categorial-acts)
+  > constituting does not mean producing in the sense of making and manufacturing, but letting the being be seen in its objecthood (*Gegenständlichkeit*).
+
+- **criticized** · `fundierung/bernet/009` · *higher-order objects denied*
+  For Heidegger categorial objects are not objects of a higher order in a separate world of thought and are hardly genuine objects at all.
+  `bernet-la-vie-du-sujet-commentary#h4-the-intentionality-of-sensible-and-categorial-acts` · La vie du sujet, pp. 50-51 · [The Intentionality of Sensible and Categorial Acts](https://faultynode.github.io/commentaries/commentaries/bernet/bernet-la-vie-du-sujet-commentary.html#the-intentionality-of-sensible-and-categorial-acts)
+  > Far from being objects of a higher order belonging to a separate world of thought governed by immutable laws, categorial objects for Heidegger are hardly genuine "objects" at all.
+
+- **revised** · `fundierung/bernet/010` · *founding bond recast as condition of showing*
+  Under Aristotle's influence the bond between sensible and categorial is no longer strictly one of constitution but one between what shows itself straightaway and what makes that showing possible.
+  `bernet-la-vie-du-sujet-commentary#h4-the-intentionality-of-sensible-and-categorial-acts` · La vie du sujet, pp. 51-52 · [The Intentionality of Sensible and Categorial Acts](https://faultynode.github.io/commentaries/commentaries/bernet/bernet-la-vie-du-sujet-commentary.html#the-intentionality-of-sensible-and-categorial-acts)
+  > That bond is no longer strictly a bond of constitution but a bond between what shows itself straightaway and what makes that showing possible.
+
+- **presupposed** · `fundierung/bernet/011` · *synthesis of identification presupposed by identity*
+  The 1908 course already contains the decisive idea that consciousness of an identity presupposes a synthesis of identification.
+  `bernet-la-vie-du-sujet-commentary#h4-the-noema-as-ideal-signification-of-a-judgment` · La vie du sujet, pp. 85-86 · [The Noema as Ideal Signification of a Judgment](https://faultynode.github.io/commentaries/commentaries/bernet/bernet-la-vie-du-sujet-commentary.html#the-noema-as-ideal-signification-of-a-judgment)
   > consciousness of an identity presupposes a synthesis of identification
 
-*Partial pass: Covers section 'The Noema as Ideal Signification of a Judgment' on founding relations between noetic acts and noematic significations.*
+- **introduced** · `fundierung/bernet/012` · *implicit in the correlate, explicit only through synthesis*
+  The signified object stands as the identical signification does: implicit in the punctual noematic correlate but requiring a synthesis of identification to be grasped explicitly.
+  `bernet-la-vie-du-sujet-commentary#h4-the-noema-as-ideal-signification-of-a-judgment` · La vie du sujet, pp. 86-88 · [The Noema as Ideal Signification of a Judgment](https://faultynode.github.io/commentaries/commentaries/bernet/bernet-la-vie-du-sujet-commentary.html#the-noema-as-ideal-signification-of-a-judgment)
+  > The signified object is therefore in the same position as the identical signification itself: implicit in the punctual noematic correlate, but requiring a synthesis of identification to be grasped explicitly.
+
+- **introduced** · `fundierung/bernet/013` · *X as junction point or support of the predicates*
+  In Ideen I the X is the unifying centre and support of the predicates, to be distinguished from them yet incapable of being set apart and separated from them.
+  `bernet-la-vie-du-sujet-commentary#h4-the-noema-as-ideal-signification-of-a-judgment` · La vie du sujet, pp. 88-89 · [The Noema as Ideal Signification of a Judgment](https://faultynode.github.io/commentaries/commentaries/bernet/bernet-la-vie-du-sujet-commentary.html#the-noema-as-ideal-signification-of-a-judgment)
+  > the unifying centre, the junction point or support of the predicates, necessarily to be distinguished from them though it cannot be set apart and separated from them.
+
+- **revised** · `fundierung/bernet/014` · *noema implying rather than being its sense*
+  Sense and object are bound to the noema inseparably, yet the punctual noematic correlate is not identical with the ideally identical sense but only implies it.
+  `bernet-la-vie-du-sujet-commentary#h4-the-noema-as-ideal-signification-of-a-judgment` · La vie du sujet, pp. 88-89 · [The Noema as Ideal Signification of a Judgment](https://faultynode.github.io/commentaries/commentaries/bernet/bernet-la-vie-du-sujet-commentary.html#the-noema-as-ideal-signification-of-a-judgment)
+  > sense and object are bound to the noema inseparably, but the punctual noematic correlate is not simply *identical with* the ideally identical sense — it only implies it, it "has" it;
+
+*Partial pass: Scanned 'The Intentionality of Sensible and Categorial Acts' (lines 143-168) and 'The Noema as Ideal Signification of a Judgment' (lines 261-294). The remaining 58 sections, including the chapters on time, hermeneutics and Derrida, are not covered.*
 
 ## Undated - chronology unresolved
 
@@ -659,6 +669,15 @@
 
 *Where the theme's terms occur but no extraction pass has run. Silence in the sections above is silence about these files, not evidence of absence in them.*
 
+- `husserliana-3-ideas-i-parts-3-4-commentary` - 779 term hits, no record
+- `husserliana-19-2-sixth-logical-investigation-commentary` - 728 term hits, no record
+- `heidegger-sein-und-zeit-commentary` - 624 term hits, no record
+- `husserliana-19-1-fifth-logical-investigation-commentary` - 578 term hits, no record
+- `husserliana-43-2-studien-zur-struktur-des-bewusstseins-commentary` - 377 term hits, no record
+- `lacan-seminar-11-the-four-fundamental-concepts-of-psychoanalysis-commentary` - 370 term hits, no record
+- `henry-philosophie-et-phenomenologie-du-corps-commentary` - 340 term hits, no record
+- `husserliana-9-phenomenological-psychology-commentary` - 335 term hits, no record
+- `husserliana-26-theory-of-meaning-commentary` - 333 term hits, no record
 - `kant-kritik-der-reinen-vernunft-commentary` - 332 term hits, no record
 - `husserliana-28-vorlesungen-uber-ethik-und-wertlehre-commentary` - 316 term hits, no record
 - `lacan-seminar-1-freuds-papers-on-technique-commentary` - 308 term hits, no record

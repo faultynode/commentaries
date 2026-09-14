@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "commentary": "husserliana-3-ideas-i-parts-3-4-commentary",
-  "source_sha256": "cca8c38ab34388e5a559649f69b70591451b461759746ee131fb0656b0e0b361",
+  "source_sha256": "f19201709befc4de8b6bb22946e7a6025dab23288f3e0eedcb69c94689a60ce1",
   "extracted_at": "2026-09-09",
   "extractor": {
     "agent": "claude-code",
@@ -15,7 +15,10 @@
       "id": "inh/hua3-i34/001",
       "locator": "husserliana-3-ideas-i-parts-3-4-commentary#h3-s-74-descriptive-and-exact-sciences",
       "primary_locator": "Ideas I §74",
-      "predecessor": { "author": "Immanuel Kant", "text": "Kritik der reinen Vernunft" },
+      "predecessor": {
+        "author": "Immanuel Kant",
+        "text": "Kritik der reinen Vernunft"
+      },
       "mode": "terminological-borrowing",
       "claim": "Husserl holds that exact concepts have their correlates in essences that have the character of 'Ideas in the Kantian sense' — ideal limits, never found in any sensuous intuition, that the vague morphological essences of descriptive concepts only more or less approach.",
       "quote": "Exact concepts have their correlates in essences that have the character of \"Ideas in the Kantian sense.\" Over against these Ideas or ideal essences stand the morphological essences, as correlates of the descriptive concepts."
@@ -24,7 +27,9 @@
       "id": "inh/hua3-i34/002",
       "locator": "husserliana-3-ideas-i-parts-3-4-commentary#h3-s-143-adequate-thing-givenness-as-idea-in-the-kantian-sense",
       "primary_locator": "Ideas I §143",
-      "predecessor": { "author": "Immanuel Kant" },
+      "predecessor": {
+        "author": "Immanuel Kant"
+      },
       "mode": "terminological-borrowing",
       "claim": "Since a thing can be given in no closed appearance, its perfect givenness is prefigured as an 'Idea in the Kantian sense': an in its essence-type absolutely determinate system of endless processes of continuous appearing, governed throughout by firm essence-lawfulness.",
       "quote": "But as \"Idea\" (in the Kantian sense) the perfect givenness is nevertheless prefigured — as a in its essence-type absolutely determinate system of endless processes of continuous appearing"
@@ -33,7 +38,9 @@
       "id": "inh/hua3-i34/003",
       "locator": "husserliana-3-ideas-i-parts-3-4-commentary#h3-s-85-sensuous-hyle-intentional-morphe",
       "primary_locator": "Ideas I §85",
-      "predecessor": { "author": "Aristotle" },
+      "predecessor": {
+        "author": "Aristotle"
+      },
       "mode": "terminological-borrowing",
       "claim": "The Aristotelian hyle/morphe language is deliberately borrowed to name the duality within every concrete intentional experience: consciousness is the in-forming of sensuous matter by intentional form.",
       "quote": "The Aristotelian *hyle/morphe* language is deliberately borrowed: consciousness is the in-forming of sensuous matter by intentional form."
@@ -42,7 +49,10 @@
       "id": "inh/hua3-i34/004",
       "locator": "husserliana-3-ideas-i-parts-3-4-commentary#h3-s-85-sensuous-hyle-intentional-morphe",
       "primary_locator": "Ideas I §85",
-      "predecessor": { "author": "Franz Brentano", "text": "Psychologie vom empirischen Standpunkt" },
+      "predecessor": {
+        "author": "Franz Brentano",
+        "text": "Psychologie vom empirischen Standpunkt"
+      },
       "mode": "acknowledged-debt",
       "claim": "Husserl honours Brentano's distinction of psychic and physical phenomena as path-breaking for the development of phenomenology in first identifying intentionality as the mark of the mental, while noting that Brentano remained far from the phenomenological ground and did not strike the distinction he actually sought.",
       "quote": "This old tendency finds its newest expression in Brentano's distinction of \"psychic\" and \"physical phenomena.\" It is especially significant because it became path-breaking for the development of phenomenology, although Brentano himself remained far from the phenomenological ground"
@@ -51,7 +61,9 @@
       "id": "inh/hua3-i34/005",
       "locator": "husserliana-3-ideas-i-parts-3-4-commentary#h3-s-145-critical-remarks-on-the-phenomenology-of-evidence",
       "primary_locator": "Ideas I §145",
-      "predecessor": { "author": "René Descartes" },
+      "predecessor": {
+        "author": "René Descartes"
+      },
       "mode": "polemical-rejection",
       "claim": "Husserl rejects the index- and feeling-theories of evidence because they cannot overcome the old skeptical doubt that a lying-spirit, the Cartesian fiction, could equip precisely every false judgment with the same feeling of thought-necessity.",
       "quote": "no index- and feeling-theory of evidence can overcome: whether not a lying-spirit (the Cartesian fiction) or a fatal change of the factual world-course could bring it about that precisely every false judgment were equipped with this index"
