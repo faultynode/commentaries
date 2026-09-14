@@ -1,0 +1,128 @@
+{
+  "schema_version": 1,
+  "theme": "konstitution",
+  "commentary": "husserliana-28-vorlesungen-uber-ethik-und-wertlehre-commentary",
+  "source_sha256": "fd9165d1171e8a6ec659a655447727e831a2aecb868d315e15f209b69ec5f379",
+  "extracted_at": "2026-09-14",
+  "extractor": {
+    "agent": "claude-code",
+    "prompt": "synthesis-pipeline/extraction-prompt.md"
+  },
+  "coverage": "partial",
+  "coverage_note": "SS 3 and 8 and the sections (b) on the knowledge-problems and (b) on the stages to absolute knowledge - that is, the epistemological framing of the lectures. The pass records a distribution: the term family sits almost entirely in that framing, and the axiological and practical parts of the lectures carry none of it, three of them being recorded as absences. No stratum: the commentary has no chronology.json entry and states no date of its own.",
+  "units": [
+    {
+      "id": "konstitution/hua28/001",
+      "locator": "husserliana-28-vorlesungen-uber-ethik-und-wertlehre-commentary#h3-s-3-absolute-and-universal-knowledge-as-the-ideal-of-philosophy-the-philosophica",
+      "primary_locator": "Hua XXVIII S 3",
+      "term": "constitutive",
+      "claim": "Philosophical inquiries are those constitutive for the building of the at-first-formal idea of a highest knowledge-unity.",
+      "status": "introduced",
+      "quote": "Philosophical, then, will be those inquiries that are constitutive for the building of the at-first-formal idea of a highest knowledge-unity"
+    },
+    {
+      "id": "konstitution/hua28/002",
+      "locator": "husserliana-28-vorlesungen-uber-ethik-und-wertlehre-commentary#h3-s-3-absolute-and-universal-knowledge-as-the-ideal-of-philosophy-the-philosophica",
+      "primary_locator": "Hua XXVIII S 3",
+      "term": "constituted",
+      "claim": "Factual nature is so constituted that the knowledge researching it is able to realize high intellectual ideals.",
+      "status": "presupposed",
+      "quote": "it is so constituted that the knowledge researching it is able to realize high intellectual ideals"
+    },
+    {
+      "id": "konstitution/hua28/003",
+      "locator": "husserliana-28-vorlesungen-uber-ethik-und-wertlehre-commentary#h4-b-the-knowledge-problems-the-hidden-countersense-of-every-natural-theory-of-know",
+      "primary_locator": "Hua XXVIII, Introduction (b)",
+      "term": "constitutive principle",
+      "claim": "The clarification sought is of how the ideal is norm-determining and enabling for all the real, a constitutive principle for the possibility of the real.",
+      "status": "introduced",
+      "quote": "the clarification of the possibility of how the ideal is norm-determining and enabling for all the real, a constitutive principle for the possibility of the real."
+    },
+    {
+      "id": "konstitution/hua28/004",
+      "locator": "husserliana-28-vorlesungen-uber-ethik-und-wertlehre-commentary#h4-b-the-knowledge-problems-the-hidden-countersense-of-every-natural-theory-of-know",
+      "primary_locator": "Hua XXVIII, Introduction (b)",
+      "term": "constitutive",
+      "claim": "The genuine problem is not whether an outer world exists but how being of every kind has its sense in and through consciousness, and how the ideal can be constitutive for the real.",
+      "status": "introduced",
+      "quote": "The genuine problem is thus not whether an outer world exists, but how being of every kind has its sense in and through consciousness, and how the ideal can be constitutive for the real."
+    },
+    {
+      "id": "konstitution/hua28/005",
+      "locator": "husserliana-28-vorlesungen-uber-ethik-und-wertlehre-commentary#h4-b-the-knowledge-problems-the-hidden-countersense-of-every-natural-theory-of-know",
+      "primary_locator": "Hua XXVIII, Introduction (b)",
+      "term": "constitutive thesis of phenomenology",
+      "claim": "That the division between the being of consciousness and a being external to it is itself performed within consciousness is stated as the constitutive thesis of phenomenology.",
+      "status": "introduced",
+      "quote": "if one divides between the being of the consciousness itself and a being external to it, this division too is performed within consciousness. This is the constitutive thesis of phenomenology stated as the result of an immanent analysis of the sense of \"being.\""
+    },
+    {
+      "id": "konstitution/hua28/006",
+      "locator": "husserliana-28-vorlesungen-uber-ethik-und-wertlehre-commentary#h4-b-the-knowledge-problems-the-hidden-countersense-of-every-natural-theory-of-know",
+      "primary_locator": "Hua XXVIII, Introduction (b)",
+      "term": "constitutions of objects",
+      "claim": "What is at issue is not merely some particular constitutions of objects but them through and through, into their pure being.",
+      "status": "introduced",
+      "quote": "this concerns not merely some particular constitutions of objects but them through and through, into their pure being"
+    },
+    {
+      "id": "konstitution/hua28/007",
+      "locator": "husserliana-28-vorlesungen-uber-ethik-und-wertlehre-commentary#h4-b-the-stages-on-the-way-to-absolute-knowledge-the-necessity-of-the-critique-of-t",
+      "primary_locator": "Hua XXVIII, Introduction (b)",
+      "term": "constituting concrete science",
+      "claim": "For the purposes of constituting concrete science there is need of reflective clarity about being- and knowledge-norms.",
+      "status": "introduced",
+      "quote": "For the purposes of constituting concrete science there is need of reflective clarity about being- and knowledge-norms"
+    },
+    {
+      "id": "konstitution/hua28/008",
+      "locator": "husserliana-28-vorlesungen-uber-ethik-und-wertlehre-commentary#h4-b-the-stages-on-the-way-to-absolute-knowledge-the-necessity-of-the-critique-of-t",
+      "primary_locator": "Hua XXVIII, Introduction (b)",
+      "term": "constitution of exact nature-knowledge",
+      "claim": "Of the ontologies, only those unconditionally needed for the constitution of exact nature-knowledge have de facto undergone development.",
+      "status": "presupposed",
+      "quote": "de facto, of the ontologies only those unconditionally needed for the constitution of exact nature-knowledge have undergone such a development"
+    },
+    {
+      "id": "konstitution/hua28/009",
+      "locator": "husserliana-28-vorlesungen-uber-ethik-und-wertlehre-commentary#h4-b-the-stages-on-the-way-to-absolute-knowledge-the-necessity-of-the-critique-of-t",
+      "primary_locator": "Hua XXVIII, Introduction (b)",
+      "term": "constitutes itself",
+      "claim": "In the third stage, with which alone real knowledge in the absolute sense can arise, the critique of knowledge constitutes itself.",
+      "status": "introduced",
+      "quote": "In the third stage — with which alone real knowledge in the absolute sense can arise, be it in an ever so small domain — the *critique of knowledge* constitutes itself."
+    },
+    {
+      "id": "konstitution/hua28/010",
+      "locator": "husserliana-28-vorlesungen-uber-ethik-und-wertlehre-commentary#h3-s-8-the-distinctions-underlying-the-logical-and-noetic-disciplines-between-act-a",
+      "primary_locator": "Hua XXVIII S 8",
+      "term": "constitution of analogous principle-doctrines",
+      "claim": "The point is to seek stimuli for the constitution of analogous ontic and noetic principle-doctrines in the domains of the non-objectivating kinds of reason.",
+      "status": "introduced",
+      "quote": "to seek stimuli for the constitution of analogous ontic and noetic principle-doctrines in the domains of the non-objectivating kinds of reason, such as are constituted, in the sphere of objectivating reason, as formal logic and mathesis"
+    },
+    {
+      "id": "konstitution/hua28/011",
+      "locator": "husserliana-28-vorlesungen-uber-ethik-und-wertlehre-commentary#h3-s-8-the-distinctions-underlying-the-logical-and-noetic-disciplines-between-act-a",
+      "primary_locator": "Hua XXVIII S 8",
+      "term": "constituted",
+      "claim": "The judged What, the logical proposition, is constituted consciousness-wise in very different ways: one and the same proposition can be conscious clearly or unclearly.",
+      "status": "introduced",
+      "quote": "This What is constituted, consciousness-wise, in very different ways: one and the same proposition can be conscious clearly or unclearly, can be given in a distinct or indistinct setting-off of its members"
+    }
+  ],
+  "absences": [
+    {
+      "locator": "husserliana-28-vorlesungen-uber-ethik-und-wertlehre-commentary#h4-a-laws-for-value-increase-relations-and-for-value-collections",
+      "expected_because": "The laws for value-increase-relations and value-collections are the formal axiology the lectures exist to build, and S 8 announces the search for principle-doctrines in the non-objectivating kinds of reason to parallel those constituted in the objectivating sphere. The section carries no term of the family."
+    },
+    {
+      "locator": "husserliana-28-vorlesungen-uber-ethik-und-wertlehre-commentary#h4-c-on-the-possibility-of-formal-practical-and-formal-axiological-principles",
+      "expected_because": "The possibility of formal-practical and formal-axiological principles is precisely the question S 8 poses as the constitution of analogous ontic and noetic principle-doctrines for valuing and willing consciousness. The section answers it without any term of the family."
+    },
+    {
+      "locator": "husserliana-28-vorlesungen-uber-ethik-und-wertlehre-commentary#h3-s-19-the-idea-of-perfect-will-rightness-the-order-of-the-ethical-disciplines",
+      "expected_because": "The idea of perfect will-rightness and the order of the ethical disciplines is the practical counterpart of the knowledge-ideal that S 3 describes with inquiries constitutive for the idea of a highest knowledge-unity. No term of the family occurs here."
+    }
+  ]
+}

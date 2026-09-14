@@ -1,0 +1,145 @@
+{
+  "schema_version": 1,
+  "theme": "konstitution",
+  "commentary": "husserliana-9-phenomenological-psychology-commentary",
+  "source_sha256": "668c7a551f240c6b325a909d5e9a3a0b2edff78d29009d73c83a9f11bd08b350",
+  "extracted_at": "2026-09-14",
+  "extractor": {
+    "agent": "claude-code",
+    "prompt": "synthesis-pipeline/extraction-prompt.md"
+  },
+  "coverage": "partial",
+  "coverage_note": "Beilage XVII, SS 27, 40 and 45 of the lectures, and S 2 of the appended Amsterdam material. The term family is sparse across this commentary for its length - the longest sections, including S 4 and the Brentano section, carry none of it at all, and two are recorded as absences.",
+  "units": [
+    {
+      "id": "konstitution/hua9/001",
+      "locator": "husserliana-9-phenomenological-psychology-commentary#h4-beilage-xvii-to-s36-on-the-doctrine-of-intentional-constitution",
+      "primary_locator": "Hua IX, Beilage XVII",
+      "stratum": "hua9-1925",
+      "term": "doctrine of intentional constitution",
+      "claim": "The doctrine of intentional constitution is the systematic theory of how objects of various types are constituted in intentional life.",
+      "status": "introduced",
+      "quote": "the systematic theory of *how* objects of various types *are constituted* in intentional life. Constitution is not an *act* (as if the I created the object"
+    },
+    {
+      "id": "konstitution/hua9/002",
+      "locator": "husserliana-9-phenomenological-psychology-commentary#h4-beilage-xvii-to-s36-on-the-doctrine-of-intentional-constitution",
+      "primary_locator": "Hua IX, Beilage XVII",
+      "stratum": "hua9-1925",
+      "term": "structure of intentional accomplishment",
+      "claim": "Constitution is not an act but the structure of intentional accomplishment by which an object comes to be given as a unitary, identifiable, determinable something for consciousness.",
+      "status": "revised",
+      "quote": "it is the *structure of intentional accomplishment* by which an object *comes to be given* as a unitary, identifiable, determinable something *for* consciousness"
+    },
+    {
+      "id": "konstitution/hua9/003",
+      "locator": "husserliana-9-phenomenological-psychology-commentary#h4-beilage-xvii-to-s36-on-the-doctrine-of-intentional-constitution",
+      "primary_locator": "Hua IX, Beilage XVII",
+      "stratum": "hua9-1925",
+      "term": "constitute themselves",
+      "claim": "The doctrine must distinguish what is constituted in what manner: things through perspectives, persons through expressive bodies, cultural objects through production, ideal objects through sedimented identifying acts.",
+      "status": "introduced",
+      "quote": "The doctrine of constitution must distinguish *what is constituted in what manner*: physical things constitute themselves through perspectives in the synthesis of unanimous perception; persons constitute themselves through expressive bodies"
+    },
+    {
+      "id": "konstitution/hua9/004",
+      "locator": "husserliana-9-phenomenological-psychology-commentary#h3-s-27-the-difficulty-that-the-objective-world-is-constituted-through-exclusion-of",
+      "primary_locator": "Hua IX S 27",
+      "stratum": "hua9-1925",
+      "term": "self-constituting-in-the-connected-subjects",
+      "claim": "The world-sphere seems to swim in a milieu of the subjective, possible only as a subject-related and self-constituting-in-the-connected-subjects unity-formation.",
+      "status": "introduced",
+      "quote": "So in a milieu of the subjective the world-sphere seems to swim, indeed itself to be in it — and to be possible only as a subject-related and self-constituting-in-the-connected-subjects unity-formation.*"
+    },
+    {
+      "id": "konstitution/hua9/005",
+      "locator": "husserliana-9-phenomenological-psychology-commentary#h3-s-27-the-difficulty-that-the-objective-world-is-constituted-through-exclusion-of",
+      "primary_locator": "Hua IX S 27",
+      "stratum": "hua9-1925",
+      "term": "constituted",
+      "claim": "The paradox is that the objective world is constituted by excluding the subjective, yet the subjective itself belongs to the world.",
+      "status": "criticized",
+      "quote": "the objective world is \"constituted\" by excluding the subjective, yet the subjective itself belongs to the world.*"
+    },
+    {
+      "id": "konstitution/hua9/006",
+      "locator": "husserliana-9-phenomenological-psychology-commentary#h3-s-40-the-problematic-of-temporality-presentation-retention-and-protention-the-po",
+      "primary_locator": "Hua IX S 40",
+      "stratum": "hua9-1925",
+      "term": "constituted",
+      "claim": "Through recollection-syntheses a past is constituted which, with future-directed protentions, constitutes the unity of filled time.",
+      "status": "introduced",
+      "quote": "Through *recollection-syntheses* there is constituted a *past* to be pursued in various directions, which — thanks to the at-any-time-producible synthesis with perception and through future-directed protentions — constitutes the *unity of filled time*"
+    },
+    {
+      "id": "konstitution/hua9/007",
+      "locator": "husserliana-9-phenomenological-psychology-commentary#h3-s-40-the-problematic-of-temporality-presentation-retention-and-protention-the-po",
+      "primary_locator": "Hua IX S 40",
+      "stratum": "hua9-1925",
+      "term": "constituting itself",
+      "claim": "In the quasi-positional modification we have the tone as if it were once again hearingly constituting itself as enduring and persisting.",
+      "status": "introduced",
+      "quote": "a *peculiar consciousness* in which we have it *as if* the tone were once again *hearingly constituting itself as enduring and persisting*"
+    },
+    {
+      "id": "konstitution/hua9/008",
+      "locator": "husserliana-9-phenomenological-psychology-commentary#h3-s-45-retrospective-self-reflection",
+      "primary_locator": "Hua IX S 45",
+      "stratum": "hua9-1925",
+      "term": "constitutively connected",
+      "claim": "The Umwelt, the world as experienced for the person, is constitutively connected to the person, whatever she takes to be in it.",
+      "status": "introduced",
+      "quote": "the world-as-experienced-for-the-person — is *constitutively connected* to the person, *whatever* she takes to be in it"
+    },
+    {
+      "id": "konstitution/hua9/009",
+      "locator": "husserliana-9-phenomenological-psychology-commentary#h3-s-45-retrospective-self-reflection",
+      "primary_locator": "Hua IX S 45",
+      "stratum": "hua9-1925",
+      "term": "constituted",
+      "claim": "The one experiential world, always constituted and pre-given in the constant universal validity of natural experience, is the ground for all sciences.",
+      "status": "presupposed",
+      "quote": "The *one experiential world* — always *constituted*, pre-given in the constant universal validity of natural experience — is the underlay, the *ground* for all sciences."
+    },
+    {
+      "id": "konstitution/hua9/010",
+      "locator": "husserliana-9-phenomenological-psychology-commentary#h3-s-45-retrospective-self-reflection",
+      "primary_locator": "Hua IX S 45",
+      "stratum": "hua9-1925",
+      "term": "doctrine of constitution",
+      "claim": "Carrying out the indications begun in the lecture would include the whole doctrine of constitution, and leaning on it a general structural doctrine of singular subjectivity and intersubjectivity.",
+      "status": "presupposed",
+      "quote": "the actual carrying-out of the indications begun in the lecture would include the whole *doctrine of constitution*, but, leaning on it and gradually detaching itself from it, *a general structural doctrine of singular subjectivity and intersubjectivity*"
+    },
+    {
+      "id": "konstitution/hua9/011",
+      "locator": "husserliana-9-phenomenological-psychology-commentary#h4-s2-positive-sciences-and-transcendental-phenomenology-as-ontology",
+      "primary_locator": "Hua IX, Amsterdam lectures S 2",
+      "stratum": "hua9-1925",
+      "term": "transcendentally-constituting manifolds",
+      "claim": "In transcendental naivete the whole life transcendentally constituting the real unities remains hidden, though such unities are what they are only as unities of transcendentally-constituting manifolds.",
+      "status": "criticized",
+      "quote": "in which the *whole life transcendentally constituting the real unities of experience and knowledge remains hidden* — although, as can be purely seen only after our reductions, *all such unities according to their own knowledge-sense are only what they are as unities of transcendentally-constituting manifolds*"
+    },
+    {
+      "id": "konstitution/hua9/012",
+      "locator": "husserliana-9-phenomenological-psychology-commentary#h4-s2-positive-sciences-and-transcendental-phenomenology-as-ontology",
+      "primary_locator": "Hua IX, Amsterdam lectures S 2",
+      "stratum": "hua9-1925",
+      "term": "intentional constitution",
+      "claim": "The Idea is of a science of the system of essence-forms of every possible knowledge-world and of the correlative forms of its intentional constitution.",
+      "status": "introduced",
+      "quote": "the Idea of a *science of the system of essence-forms of every possible knowledge-world as such, and of the correlative forms of its intentional constitution*"
+    }
+  ],
+  "absences": [
+    {
+      "locator": "husserliana-9-phenomenological-psychology-commentary#h4-d-brentano-as-pioneer-for-the-investigation-in-inner-experience-discovery-of-int",
+      "expected_because": "The section credits Brentano with the discovery of intentionality, which Beilage XVII then makes the bearer of the whole doctrine of intentional constitution. Its 1,795 words carry no term of the family."
+    },
+    {
+      "locator": "husserliana-9-phenomenological-psychology-commentary#h4-b-investigation-of-the-correlation-ideal-object-psychic-lived-experience-sense-f",
+      "expected_because": "The correlation of ideal object and psychic lived-experience is exactly the case Beilage XVII describes as ideal objects constituting themselves through repeated identifying acts and their sedimentation. The section investigates the correlation with no term of the family."
+    }
+  ]
+}

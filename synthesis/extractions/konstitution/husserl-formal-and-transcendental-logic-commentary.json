@@ -1,0 +1,121 @@
+{
+  "schema_version": 1,
+  "theme": "konstitution",
+  "commentary": "husserl-formal-and-transcendental-logic-commentary",
+  "source_sha256": "04e5753e083caeb49e03ab9548070ef879b6571320ae58ffdca2c89992f8f95b",
+  "extracted_at": "2026-09-14",
+  "extractor": {
+    "agent": "claude-code",
+    "prompt": "synthesis-pipeline/extraction-prompt.md"
+  },
+  "coverage": "partial",
+  "coverage_note": "The Introduction, S 66, and the sections a), b) and f) of the appended analyses - the places where the theme carries argument. The term family is thin in this commentary relative to its length: no section reaches six hits, and several run to 450-500 words with none at all; one is recorded as an absence. No stratum: the commentary states no date for its own text.",
+  "units": [
+    {
+      "id": "konstitution/ftl/001",
+      "locator": "husserl-formal-and-transcendental-logic-commentary#h2-introduction",
+      "primary_locator": "Formale und transzendentale Logik, Introduction",
+      "stratum": "ftl-undated",
+      "term": "consciousness constituting objective sense",
+      "claim": "The tradition did not ask the deepest clarification of the possibility of genuine sciences from the universality of consciousness constituting objective sense in itself.",
+      "status": "criticized",
+      "quote": "the deepest clarification and grounding of the possibility of genuine sciences (and thereby of a true objectivity itself) from the universality of consciousness constituting objective sense in itself, let alone develop the method of solution"
+    },
+    {
+      "id": "konstitution/ftl/002",
+      "locator": "husserl-formal-and-transcendental-logic-commentary#h2-introduction",
+      "primary_locator": "Formale und transzendentale Logik, Introduction",
+      "stratum": "ftl-undated",
+      "term": "constitutional insight",
+      "claim": "What science has before it as its domain is, according to sense and being, domain for the researchers from sources of their own consciousness-achievement.",
+      "status": "introduced",
+      "quote": "What science has before it as its domain, given to theoretical work, is according to sense and being domain for the researchers from sources of their own consciousness-achievement"
+    },
+    {
+      "id": "konstitution/ftl/003",
+      "locator": "husserl-formal-and-transcendental-logic-commentary#h2-introduction",
+      "primary_locator": "Formale und transzendentale Logik, Introduction",
+      "stratum": "ftl-undated",
+      "term": "constituted",
+      "claim": "The being-for-us of a theory is not transcendentally understandable as constituted from sources of individual subjectivity and intersubjectivity.",
+      "status": "introduced",
+      "quote": "the being-for-us of the theory is not transcendentally understandable, just as little as the being-for-us of the thing is understandable in this respect — namely as constituted from sources of the individual subjectivity and intersubjectivity, as that which it is for us"
+    },
+    {
+      "id": "konstitution/ftl/004",
+      "locator": "husserl-formal-and-transcendental-logic-commentary#h4-s66-psychologistic-and-phenomenological-idealism-analytic-and-transcendental-cri",
+      "primary_locator": "Formale und transzendentale Logik S 66",
+      "stratum": "ftl-undated",
+      "term": "constituting subjectivity",
+      "claim": "Every science has a third thematic sphere of critique concerning the constituting subjectivity belonging to every domain.",
+      "status": "introduced",
+      "quote": "But every science has a third thematic sphere, also one of critique, but of a differently turned kind. This concerns the constituting subjectivity belonging to every domain."
+    },
+    {
+      "id": "konstitution/ftl/005",
+      "locator": "husserl-formal-and-transcendental-logic-commentary#h4-s66-psychologistic-and-phenomenological-idealism-analytic-and-transcendental-cri",
+      "primary_locator": "Formale und transzendentale Logik S 66",
+      "stratum": "ftl-undated",
+      "term": "constitutive origin-sources",
+      "claim": "The transcendental critique of cognition is the critique of the constitutive origin-sources of the positional sense and right of pregivennesses, actions and results.",
+      "status": "introduced",
+      "quote": "we here have to do with a quite differently constituted critique of cognition — that of the constitutive origin-sources of their positional sense and right"
+    },
+    {
+      "id": "konstitution/ftl/006",
+      "locator": "husserl-formal-and-transcendental-logic-commentary#h5-a-the-first-constitutive-investigations-of-categorial-objectualities-in-the-phil",
+      "primary_locator": "Formale und transzendentale Logik, Appendix a)",
+      "stratum": "ftl-undated",
+      "term": "constitutive investigations",
+      "claim": "The origin of the concept of formal ontology is traced back to the Philosophy of Arithmetic, where constitutive investigations of categorial objectualities like sets and numbers were first undertaken.",
+      "status": "presupposed",
+      "quote": "where he first undertook constitutive investigations of categorial objectualities like sets and numbers, asking how such objects are constituted in the acts of collecting, counting, and ordering."
+    },
+    {
+      "id": "konstitution/ftl/007",
+      "locator": "husserl-formal-and-transcendental-logic-commentary#h5-b-clarification-of-the-basic-concepts-to-be-distinguished-as-uncovering-of-the-h",
+      "primary_locator": "Formale und transzendentale Logik, Appendix b)",
+      "stratum": "ftl-undated",
+      "term": "constitutive research",
+      "claim": "Constitutive research is only initially reflection and ongoing uncovering of the factually and unconsciously exercised method; in its progress it is critique.",
+      "status": "introduced",
+      "quote": "The constitutive research is only initially such reflection and ongoing uncovering of the factually and \"unconsciously\" exercised method. In its progress, it is \"critique\""
+    },
+    {
+      "id": "konstitution/ftl/008",
+      "locator": "husserl-formal-and-transcendental-logic-commentary#h5-b-clarification-of-the-basic-concepts-to-be-distinguished-as-uncovering-of-the-h",
+      "primary_locator": "Formale und transzendentale Logik, Appendix b)",
+      "stratum": "ftl-undated",
+      "term": "creative constitution",
+      "claim": "Such critique is creative constitution of the relevant objectualities in the unity of consistent self-givenness; every constitutive analysis is creative and the constitutive unities acquired are norms.",
+      "status": "introduced",
+      "quote": "Such critique is creative constitution of the relevant objectualities in the unity of consistent self-givenness and creation of their essences and essential concepts. Every constitutive analysis is creative in this respect; the creatively acquired constitutive unities are norms"
+    },
+    {
+      "id": "konstitution/ftl/009",
+      "locator": "husserl-formal-and-transcendental-logic-commentary#h5-f-the-categorial-formations-arising-in-determining-as-habitual-and-intersubjecti",
+      "primary_locator": "Formale und transzendentale Logik, Appendix f)",
+      "stratum": "ftl-undated",
+      "term": "constituting activity",
+      "claim": "What was once posited in validity through genuinely constituting activity can resurface in memory as still valid, with the certainty of being able to reactivate the constitutive process.",
+      "status": "introduced",
+      "quote": "What was once posited in validity through genuinely constituting activity can resurface in memory, and not merely as having been in validity but as still valid. But this resurfacing includes the certainty of being able to reactivate the constitutive process, to restore it in its continued validity."
+    },
+    {
+      "id": "konstitution/ftl/010",
+      "locator": "husserl-formal-and-transcendental-logic-commentary#h5-f-the-categorial-formations-arising-in-determining-as-habitual-and-intersubjecti",
+      "primary_locator": "Formale und transzendentale Logik, Appendix f)",
+      "stratum": "ftl-undated",
+      "term": "constituted in the judging community",
+      "claim": "With the communalization of judging the categorial objectualities are those constituted in the judging community: not nature for me but nature for us.",
+      "status": "revised",
+      "quote": "The categorial objectualities are then those constituted in the judging community. Not \"nature for me\" but \"nature for us,\" \"for us natural scientists,\" \"for the natural science of our time.\""
+    }
+  ],
+  "absences": [
+    {
+      "locator": "husserl-formal-and-transcendental-logic-commentary#h5-b-the-correlative-double-sense-of-formal-logic",
+      "expected_because": "The correlative double sense of formal logic is the doctrine that apophantics and formal ontology are two directions on one and the same categorial formations, which the neighbouring appendix section a) states as their constitutive investigation. The section works out the correlation with no term of the family."
+    }
+  ]
+}
