@@ -1,0 +1,186 @@
+{
+  "schema_version": 1,
+  "commentary": "heidegger-sein-und-zeit-commentary",
+  "source_sha256": "94b7fcaaa8e87cacbb03c01d9c915e9725572cda2849afa28f9a800cc7c63551",
+  "extracted_at": "2026-09-09",
+  "extractor": {
+    "agent": "claude-code",
+    "prompt": "prompts/inheritance-prompt.md",
+    "note": "source_sha256 is the LF digest (CRLF checkout; local validate reports a false staleness, CI on LF passes). Retrieval keyed on predecessor names; closely read § 6 (the Destruktion programme: Kant, Descartes, Aristotle, Parmenides, Suárez, Dilthey), § 7 C (the Greek definition of phenomenology, the debt to Husserl, veritas transcendentalis), § 13 and § 69(b) (Husserl on intentionality), § 21 (the Cartesian ontology of the world), § 43(a) (Kant's Refutation of Idealism), and § 44(b) (alētheia in Aristotle and Parmenides). Not read for this pass: §§ 72-83 (Dilthey/Yorck at § 77, Hegel at § 82) in detail, and the remainder of the treatise. One record per commentary covering all predecessors."
+  },
+  "coverage": "partial",
+  "coverage_note": "Covers the predecessor engagements concentrated in the Introduction (§§ 6-7) and Division One's worldhood, reality, and truth chapters: Husserl (acknowledged debt to the Logical Investigations, and the destructive re-grounding of intentionality in ecstatic temporality / being-in-the-world), Aristotle (terminological borrowing of apophainesthai ta phainomena for the concept of phenomenology; destructive appropriation of the Physics IV time-treatise as the discrimen of ancient ontology, of legein/noein as making-present yielding being as ousia/presence, and of alētheia as unconcealment), Descartes (destructive appropriation of the cogito sum with the sum left ontologically undetermined, the transfer of medieval ens-creatum ontology onto the fundamentum inconcussum, and the prescription of constant presence-at-hand to the 'world' as the relay-switch onto mathematical physics), Kant (destructive appropriation of the schematism as the sole modern move toward Temporality that had to fail through the dogmatic takeover of Descartes and the vulgar concept of time; polemical rejection of the Refutation of Idealism; terminological re-minting of veritas transcendentalis), Parmenides (destructive appropriation of the two-ways of the didactic poem as Dasein's being in truth and untruth), Hegel (polemical rejection of the tradition as 'material for reworking'), Suárez (acknowledged conduit of Greek ontology into modern metaphysics), and Dilthey (silent appropriation of 'generation'). Not covered: the detailed Dilthey/Yorck engagement of § 77 and the Hegel engagement of § 82.",
+  "engagements": [
+    {
+      "id": "inh/sz/001",
+      "locator": "heidegger-sein-und-zeit-commentary#h5-c-the-preliminary-concept-of-phenomenology",
+      "primary_locator": "Sein und Zeit § 7 C",
+      "predecessor": { "author": "Edmund Husserl", "text": "Logische Untersuchungen" },
+      "mode": "acknowledged-debt",
+      "claim": "Heidegger writes that the following investigations became possible only on the ground that Husserl laid, with whose Logical Investigations phenomenology achieved its breakthrough, and a personal note thanks Husserl for incisive guidance and the freest access to unpublished investigations during the Freiburg apprenticeship.",
+      "quote": "The following investigations, Heidegger writes, became possible only on the ground that E. Husserl laid, with whose Logical Investigations phenomenology achieved its breakthrough"
+    },
+    {
+      "id": "inh/sz/002",
+      "locator": "heidegger-sein-und-zeit-commentary#h5-c-the-preliminary-concept-of-phenomenology",
+      "primary_locator": "Sein und Zeit § 7 C",
+      "predecessor": { "author": "Edmund Husserl" },
+      "mode": "acknowledged-debt",
+      "claim": "The tribute is at once a declaration of independence: what is essential to phenomenology does not lie in being actual as a philosophical direction, and higher than actuality stands possibility, so that fidelity to phenomenology as possibility can license infidelity to it as an actual school.",
+      "quote": "Higher than actuality stands possibility: the understanding of phenomenology lies solely in seizing it as possibility."
+    },
+    {
+      "id": "inh/sz/003",
+      "locator": "heidegger-sein-und-zeit-commentary#h5-s-13-the-exemplification-of-being-in-in-a-founded-mode-knowing-the-world",
+      "primary_locator": "Sein und Zeit § 13",
+      "predecessor": { "author": "Edmund Husserl" },
+      "mode": "destructive-appropriation",
+      "claim": "Where Husserl taught that consciousness is of its object, Heidegger replies that the 'of' was never a bridge from an inside because there never was an inside to leave: even mere thought, memory, forgetting, and error are modifications of being-in-the-world, so intentionality is out-radicalized rather than rejected.",
+      "quote": "Intentionality, one may say, is here out-radicalized: where Husserl taught that consciousness is of its object, Heidegger replies that the \"of\" was never a bridge from an inside, because there never was an inside to leave."
+    },
+    {
+      "id": "inh/sz/004",
+      "locator": "heidegger-sein-und-zeit-commentary#h6-b-the-temporal-sense-of-the-modification-of-circumspect-concern-into-the-theoret",
+      "primary_locator": "Sein und Zeit § 69(b)",
+      "predecessor": { "author": "Edmund Husserl" },
+      "mode": "destructive-appropriation",
+      "claim": "Heidegger credits Husserl at the point of nearest approach (Husserl's use of 'Gegenwärtigen' for sense-perception) and attaches the promissory theorem that and how the intentionality of consciousness grounds in Dasein's ecstatic temporality, which the following division was to show.",
+      "quote": "that and how the intentionality of \"consciousness\" grounds in Dasein's ecstatic temporality, the following division will show."
+    },
+    {
+      "id": "inh/sz/005",
+      "locator": "heidegger-sein-und-zeit-commentary#h5-c-the-preliminary-concept-of-phenomenology",
+      "primary_locator": "Sein und Zeit § 7 C",
+      "predecessor": { "author": "Aristotle" },
+      "mode": "terminological-borrowing",
+      "claim": "The concept of phenomenology is composed from Aristotle's Greek: legein ta phainomena, where legein means apophainesthai, so phenomenology says apophainesthai ta phainomena, to let what shows itself be seen from itself just as it shows itself from itself.",
+      "quote": "Phenomenology can be formulated in Greek: legein ta phainomena; but legein means apophainesthai; so phenomenology says: apophainesthai ta phainomena — to let what shows itself be seen from itself, just as it shows itself from itself."
+    },
+    {
+      "id": "inh/sz/006",
+      "locator": "heidegger-sein-und-zeit-commentary#h4-s-6-the-task-of-a-destruction-of-the-history-of-ontology",
+      "primary_locator": "Sein und Zeit § 6",
+      "predecessor": { "author": "Aristotle", "text": "Physics IV 10-14" },
+      "mode": "destructive-appropriation",
+      "claim": "In place of a full Temporal interpretation of ancient ontology, Heidegger elects an interpretation of Aristotle's treatise on time (Physics IV 10-14) as the discrimen of the basis and the limits of the ancient science of being, which has essentially determined all subsequent conceptions of time, Bergson's and Kant's included.",
+      "quote": "an interpretation of Aristotle's treatise on time (Physics IV 10–14), which may be chosen as the discrimen of the basis and the limits of the ancient science of being."
+    },
+    {
+      "id": "inh/sz/007",
+      "locator": "heidegger-sein-und-zeit-commentary#h4-s-6-the-task-of-a-destruction-of-the-history-of-ontology",
+      "primary_locator": "Sein und Zeit § 6",
+      "predecessor": { "author": "Aristotle" },
+      "mode": "destructive-appropriation",
+      "claim": "Greek ontology (in Aristotle its highest and purest stage) takes its guiding thread from the zōon logon echon and reads being off from legein/noein, which has the Temporal structure of pure making-present, so that the being that shows itself to this perceiving is conceived as presence (ousia).",
+      "quote": "the being that shows itself in and for this perceiving, and is understood as the authentic being, accordingly receives its interpretation with regard to the pres-ent — it is conceived as presence (ousia)."
+    },
+    {
+      "id": "inh/sz/008",
+      "locator": "heidegger-sein-und-zeit-commentary#h6-b-the-original-phenomenon-of-truth-and-the-derivativeness-of-the-traditional-tru",
+      "primary_locator": "Sein und Zeit § 44(b)",
+      "predecessor": { "author": "Aristotle" },
+      "mode": "destructive-appropriation",
+      "claim": "The definition of being-true as being-discovering is the necessary interpretation of what the oldest tradition originally surmised: the being-true of the logos as apophansis is alētheuein in the manner of apophainesthai, letting beings be seen out of concealment, and the alētheia Aristotle equates with pragma and phainomena means the things themselves.",
+      "quote": "The being-true of the logos as apophansis is the alētheuein in the manner of apophainesthai: to let beings be seen — taking them out of concealment — in their unconcealment (discoveredness)."
+    },
+    {
+      "id": "inh/sz/009",
+      "locator": "heidegger-sein-und-zeit-commentary#h4-s-6-the-task-of-a-destruction-of-the-history-of-ontology",
+      "primary_locator": "Sein und Zeit § 6",
+      "predecessor": { "author": "René Descartes", "text": "Meditationes de prima philosophia" },
+      "mode": "destructive-appropriation",
+      "claim": "With the cogito sum Descartes claims to provide philosophy a new and secure ground, but what he leaves undetermined in this radical beginning is the mode of being of the res cogitans, more precisely the being-sense of the sum, so that the sum is forgotten in favour of the cogito.",
+      "quote": "what he leaves undetermined in this \"radical\" beginning is the mode of being of the res cogitans — more precisely, the being-sense of the sum."
+    },
+    {
+      "id": "inh/sz/010",
+      "locator": "heidegger-sein-und-zeit-commentary#h4-s-6-the-task-of-a-destruction-of-the-history-of-ontology",
+      "primary_locator": "Sein und Zeit § 6",
+      "predecessor": { "author": "René Descartes" },
+      "mode": "destructive-appropriation",
+      "claim": "Descartes does not leave the res cogitans in ontological indeterminacy: he carries through the Meditationes by transferring medieval ontology onto this being posited as fundamentum inconcussum, so the res cogitans is determined as ens, whose medieval being-sense is ens creatum and whose structural moment is producedness.",
+      "quote": "he carries through the fundamental reflections of his Meditationes by transferring medieval ontology onto this being posited as fundamentum inconcussum. The res cogitans is ontologically determined as ens"
+    },
+    {
+      "id": "inh/sz/011",
+      "locator": "heidegger-sein-und-zeit-commentary#h6-s-21-the-hermeneutical-discussion-of-the-cartesian-ontology-of-the-world",
+      "primary_locator": "Sein und Zeit § 21",
+      "predecessor": { "author": "René Descartes", "text": "Principia philosophiae" },
+      "mode": "destructive-appropriation",
+      "claim": "On the ground of an idea of being unrevealed in its origin and unattested in its right (being = constant presence-at-hand) Descartes prescribes to the world its 'authentic' being, and thereby carries out the switching-over of the traditional ontology onto modern mathematical physics and its transcendental foundations.",
+      "quote": "on the ground of an idea of being unrevealed in its origin and unattested in its right — being = constant presence-at-hand — he prescribes to the world its \"authentic\" being."
+    },
+    {
+      "id": "inh/sz/012",
+      "locator": "heidegger-sein-und-zeit-commentary#h4-s-6-the-task-of-a-destruction-of-the-history-of-ontology",
+      "primary_locator": "Sein und Zeit § 6",
+      "predecessor": { "author": "Immanuel Kant", "text": "Kritik der reinen Vernunft" },
+      "mode": "destructive-appropriation",
+      "claim": "Kant is the first and only one who moved a stretch of the way toward the dimension of Temporality (the schematism), let himself be driven there by the compulsion of the phenomena, and yet had to be denied insight into the problematic of Temporality in its authentic dimensions.",
+      "quote": "The first and only one who moved a stretch of the investigative way in the direction of the dimension of Temporality — or rather, let himself be driven there by the compulsion of the phenomena themselves — is Kant."
+    },
+    {
+      "id": "inh/sz/013",
+      "locator": "heidegger-sein-und-zeit-commentary#h4-s-6-the-task-of-a-destruction-of-the-history-of-ontology",
+      "primary_locator": "Sein und Zeit § 6",
+      "predecessor": { "author": "Immanuel Kant" },
+      "mode": "polemical-rejection",
+      "claim": "Two things prevented Kant's insight: the omission of the question of being and the lack of a thematic ontology of Dasein, so that for all his essential advances Kant dogmatically takes over Descartes' position; and his analysis of time remains oriented to the transmitted vulgar understanding of time.",
+      "quote": "for all his essential advances, Kant dogmatically takes over Descartes' position."
+    },
+    {
+      "id": "inh/sz/014",
+      "locator": "heidegger-sein-und-zeit-commentary#h6-a-reality-as-a-problem-of-being-and-of-the-provability-of-the-external-world",
+      "primary_locator": "Sein und Zeit § 43(a)",
+      "predecessor": { "author": "Immanuel Kant" },
+      "mode": "polemical-rejection",
+      "claim": "The entanglement of the questions, the confusion of what wants proving with what gets proved and with that by which the proof is conducted, shows itself in Kant's 'Refutation of Idealism', where the demand for a proof at all already takes the footing of the problematic in the isolated subject.",
+      "quote": "The entanglement of the questions — the confusion of what wants proving with what gets proved and with that by which the proof is conducted — shows itself in Kant's \"Refutation of Idealism.\""
+    },
+    {
+      "id": "inh/sz/015",
+      "locator": "heidegger-sein-und-zeit-commentary#h5-c-the-preliminary-concept-of-phenomenology",
+      "primary_locator": "Sein und Zeit § 7 C",
+      "predecessor": { "author": "Immanuel Kant" },
+      "mode": "terminological-borrowing",
+      "claim": "Being is the transcendens pure and simple, and every disclosure of being as the transcendens is transcendental knowledge, so that phenomenological truth (disclosedness of being) is re-minted as veritas transcendentalis, no longer the truth of a subject's conditions.",
+      "quote": "Every disclosure of being as the transcendens is transcendental knowledge; phenomenological truth (disclosedness of being) is veritas transcendentalis."
+    },
+    {
+      "id": "inh/sz/016",
+      "locator": "heidegger-sein-und-zeit-commentary#h6-b-the-original-phenomenon-of-truth-and-the-derivativeness-of-the-traditional-tru",
+      "primary_locator": "Sein und Zeit § 44(b)",
+      "predecessor": { "author": "Parmenides", "text": "On Nature (the didactic poem)" },
+      "mode": "destructive-appropriation",
+      "claim": "That the goddess of truth who leads Parmenides places him before the two ways, that of discovering and that of concealing, means nothing other than that Dasein is in each case already in truth and untruth, and the way of discovering is won only in the understanding distinguishing of the two.",
+      "quote": "That the goddess of truth who leads Parmenides places him before the two ways, that of discovering and that of concealing, means nothing other than: Dasein is in each case already in truth and untruth."
+    },
+    {
+      "id": "inh/sz/017",
+      "locator": "heidegger-sein-und-zeit-commentary#h4-s-6-the-task-of-a-destruction-of-the-history-of-ontology",
+      "primary_locator": "Sein und Zeit § 6",
+      "predecessor": { "author": "G. W. F. Hegel" },
+      "mode": "polemical-rejection",
+      "claim": "Greek ontology, understanding being from the 'world', falls prey to the tradition, which lets it sink to self-evidence and to mere material for reworking (as for Hegel), and still determines the foundations and goals of Hegel's Logic.",
+      "quote": "the ontology thus arisen falls prey to the tradition, which lets it sink to self-evidence and to mere material for reworking (as for Hegel)."
+    },
+    {
+      "id": "inh/sz/018",
+      "locator": "heidegger-sein-und-zeit-commentary#h4-s-6-the-task-of-a-destruction-of-the-history-of-ontology",
+      "primary_locator": "Sein und Zeit § 6",
+      "predecessor": { "author": "Francisco Suárez", "text": "Disputationes metaphysicae" },
+      "mode": "acknowledged-debt",
+      "claim": "In its scholastic coinage Greek ontology passes over, essentially by way of Suárez's Disputationes metaphysicae, into the metaphysics and transcendental philosophy of modernity, and still determines the foundations and goals of Hegel's Logic.",
+      "quote": "In its scholastic coinage, Greek ontology passes over — essentially by way of Suárez's Disputationes metaphysicae — into the \"metaphysics\" and transcendental philosophy of modernity"
+    },
+    {
+      "id": "inh/sz/019",
+      "locator": "heidegger-sein-und-zeit-commentary#h4-s-6-the-task-of-a-destruction-of-the-history-of-ontology",
+      "primary_locator": "Sein und Zeit § 6",
+      "predecessor": { "author": "Wilhelm Dilthey" },
+      "mode": "silent-appropriation",
+      "claim": "The claim that Dasein's own past always means the past of its 'generation', which goes ahead of it rather than following after it, silently appropriates Dilthey's concept of generation: the past that pre-forms Dasein is communal, not private.",
+      "quote": "\"Generation\" is Dilthey's concept, silently appropriated: the past that pre-forms me is communal, not private."
+    }
+  ]
+}

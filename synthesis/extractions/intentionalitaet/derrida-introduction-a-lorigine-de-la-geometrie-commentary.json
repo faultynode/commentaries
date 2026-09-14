@@ -1,0 +1,152 @@
+{
+  "schema_version": 1,
+  "theme": "intentionalitaet",
+  "commentary": "derrida-introduction-a-lorigine-de-la-geometrie-commentary",
+  "source_sha256": "d88dc07ec83bdabc771b2e7ffa2f60764136bc0f531626ed13e58223d20ca693",
+  "extracted_at": "2026-09-08",
+  "extractor": {
+    "agent": "claude-code",
+    "prompt": "prompts/extraction-prompt.md",
+    "note": "source_sha256 is the LF digest (CRLF checkout; local validate reports a false staleness, CI on LF passes). Closely read Section V (the degrees of linguistic ideality, bound and free idealities), the first half of Section VII (writing as autonomous transcendental field, virtual intentionality, the graphic Leib, crisis as sickness of language), and Section XI (the Absolute of intentional historicity, the genitive, the Living Present, 'intentionality is traditionality'). Not read: Sections I-IV, VI, VIII-X and the closing of VII. Intentionality here is refracted through Derrida's reading of Husserl's Origin of Geometry. No chronology.json entry yet (P5 pending; the Introduction is 1962)."
+  },
+  "coverage": "partial",
+  "coverage_note": "Covers Sections V, VII (opening) and XI: the non-reell noema as root of all repeatability, the immediate eidetics practised by speech, intentional content / noematic Kernschicht and translatability, bound vs. free idealities and omnitemporality, the geometrical object's de jure bond to transcendental subjectivity, writing as an autonomous transcendental field, virtual intentionality haunting the text, the graphic body as Leib, writing as the highest possibility of constitution, crisis as degradation of expression into indication, the Absolute of intentional historicity and the undecidable genitive, the Living Present as dialectic-of-the-dialectic-with-the-non-dialectic, and 'intentionality is traditionality / the root of historicity'. Not covered: Sections I-IV, VI, VIII-X.",
+  "units": [
+    {
+      "id": "intentionalitaet/derrida-iog/001",
+      "locator": "derrida-introduction-a-lorigine-de-la-geometrie-commentary#h2-v",
+      "primary_locator": "Introduction à L'Origine de la géométrie, § V",
+      "term": "non-reellity of the noema",
+      "status": "introduced",
+      "claim": "Beneath the regional distinction between ideal and real objects lies the non-reell status of the noema, which in the last analysis permits the repetition of sense as the same and makes possible the idealization of identity in general.",
+      "quote": "this non-reellity of the noema — \"a notion of the most difficult and the most decisive\" — is what, in the last analysis, *permits the repetition of sense as the \"same\"* and *makes possible the idealization of identity in general*"
+    },
+    {
+      "id": "intentionalitaet/derrida-iog/002",
+      "locator": "derrida-introduction-a-lorigine-de-la-geometrie-commentary#h2-v",
+      "primary_locator": "Introduction à L'Origine de la géométrie, § V",
+      "term": "immediate eidetics of speech",
+      "status": "introduced",
+      "claim": "Language presupposes a spontaneous neutralization of the factual existence of the speaker, the words and the thing designated, so that speech is only the practice of an immediate eidetics and the reduction is implicitly operated as soon as one considers language for itself.",
+      "quote": "the reduction is implicitly operated, simply exercised and not yet explicated, as soon as one considers language for itself."
+    },
+    {
+      "id": "intentionalitaet/derrida-iog/003",
+      "locator": "derrida-introduction-a-lorigine-de-la-geometrie-commentary#h2-v",
+      "primary_locator": "Introduction à L'Origine de la géométrie, § V",
+      "term": "intentional content / noematic Kernschicht",
+      "status": "introduced",
+      "claim": "The Logical Investigations' notion of \"intentional content\" or \"unity of signification\" announces, in the sphere of language, the noematic sense, the nuclear stratum (Kernschicht) of the noema, and its ideal identity secures translatability across languages.",
+      "quote": "the notion of \"intentional content\" *announces*, in the sphere of language, the notion of *noematic sense* — the *Kernschicht*, nuclear stratum, of the noema"
+    },
+    {
+      "id": "intentionalitaet/derrida-iog/004",
+      "locator": "derrida-introduction-a-lorigine-de-la-geometrie-commentary#h2-v",
+      "primary_locator": "Introduction à L'Origine de la géométrie, § V",
+      "term": "bound / free idealities",
+      "status": "introduced",
+      "claim": "Free idealities (logico-mathematical formations and pure essence-structures) are bound to no territory and are omnispatial and omnitemporal with respect to their reactivation, whereas bound idealities carry reality in their being-sense; yet by their apparition even free idealities are factual and worldly.",
+      "quote": "free idealities (logico-mathematical formations and pure essence-structures) are bound to *no territory* — \"or rather, they have their territory in the *whole-of-the-world* and in every possible whole-of-a-world\""
+    },
+    {
+      "id": "intentionalitaet/derrida-iog/005",
+      "locator": "derrida-introduction-a-lorigine-de-la-geometrie-commentary#h2-v",
+      "primary_locator": "Introduction à L'Origine de la géométrie, § V",
+      "term": "de jure bond to transcendental subjectivity",
+      "status": "introduced",
+      "claim": "Because the absolute ideal object does not inhabit a topos ouranios, its liberation from every factual subjectivity only lays bare its de jure bonds with a transcendental subjectivity, and its historicity is intrinsic and essential.",
+      "quote": "(1) its liberation from every *factual* subjectivity only *lays bare its de jure bonds with a transcendental subjectivity*; (2) *its historicity is intrinsic and essential*."
+    },
+    {
+      "id": "intentionalitaet/derrida-iog/006",
+      "locator": "derrida-introduction-a-lorigine-de-la-geometrie-commentary#h2-vii",
+      "primary_locator": "Introduction à L'Origine de la géométrie, § VII",
+      "term": "writing as autonomous transcendental field",
+      "status": "introduced",
+      "claim": "By absolutely virtualizing the dialogue, writing creates a sort of autonomous transcendental field from which every actual subject can absent itself, so that the act of writing is the highest possibility of all constitution.",
+      "quote": "\"By *absolutely virtualizing* the dialogue, writing creates a sort of *autonomous transcendental field from which every actual subject can absent itself*.\""
+    },
+    {
+      "id": "intentionalitaet/derrida-iog/007",
+      "locator": "derrida-introduction-a-lorigine-de-la-geometrie-commentary#h2-vii",
+      "primary_locator": "Introduction à L'Origine de la géométrie, § VII",
+      "term": "virtual intentionality haunting the text",
+      "status": "introduced",
+      "claim": "All of this can be said only on the basis of an intentional analysis: without a virtual intentionality haunting it, the written mark, in the vacancy of its soul, is no more than a chaotic literality, the sensible opacity of a defunct designation.",
+      "quote": "if a *virtual intentionality* does not *haunt* it, then, in the *vacancy of its soul*, it is no more than a *chaotic literality*, the sensible opacity of a *defunct designation*"
+    },
+    {
+      "id": "intentionalitaet/derrida-iog/008",
+      "locator": "derrida-introduction-a-lorigine-de-la-geometrie-commentary#h2-vii",
+      "primary_locator": "Introduction à L'Origine de la géométrie, § VII",
+      "term": "factual absence of subjectivity",
+      "status": "introduced",
+      "claim": "The absence of subjectivity from the transcendental field, whose possibility liberates absolute objectivity, can only be a factual absence, even if it removed forever the totality of real subjects, since the pure juridical relation to a writer and a reader in general must announce itself in the text.",
+      "quote": "can only be a *factual* absence, even if it removed forever the totality of real subjects."
+    },
+    {
+      "id": "intentionalitaet/derrida-iog/009",
+      "locator": "derrida-introduction-a-lorigine-de-la-geometrie-commentary#h2-vii",
+      "primary_locator": "Introduction à L'Origine de la géométrie, § VII",
+      "term": "the graphic body as Leib",
+      "status": "introduced",
+      "claim": "In thinking of the juridical purity of this intentional animation, Husserl always says of the linguistic or graphic body that it is a flesh, a corps propre (Leib) or spiritual corporeality, never a mere physical Körper.",
+      "quote": "Husserl always says of the linguistic or graphic body that it is *a flesh* — *un corps propre* (*Leib*) — or a *spiritual corporeality* (*geistige Leiblichkeit*"
+    },
+    {
+      "id": "intentionalitaet/derrida-iog/010",
+      "locator": "derrida-introduction-a-lorigine-de-la-geometrie-commentary#h2-vii",
+      "primary_locator": "Introduction à L'Origine de la géométrie, § VII",
+      "term": "the ambiguous value of virtuality",
+      "status": "introduced",
+      "claim": "The virtualization that perfects ideality is an ambiguous value: it renders possible at the same stroke passivity, forgetting, and all the phenomena of crisis, so that writing is at once the condition of the infinite tradition of truth and the condition of its forgetting.",
+      "quote": "it renders possible at the same stroke (*du même coup*) passivity, forgetting, and all the phenomena of crisis."
+    },
+    {
+      "id": "intentionalitaet/derrida-iog/011",
+      "locator": "derrida-introduction-a-lorigine-de-la-geometrie-commentary#h2-vii",
+      "primary_locator": "Introduction à L'Origine de la géométrie, § VII",
+      "term": "crisis as degradation of expression into indication",
+      "status": "introduced",
+      "claim": "The phenomenon of crisis, which always refers for Husserl to a sickness of language, can be interpreted as a degradation of the expression-sign into the indication-sign, of a clear aim into an empty symbol.",
+      "quote": "a *degradation of the expression-sign into the indication-sign*, of a 'clear' (*klar*) aim into an *empty symbol*."
+    },
+    {
+      "id": "intentionalitaet/derrida-iog/012",
+      "locator": "derrida-introduction-a-lorigine-de-la-geometrie-commentary#h2-xi",
+      "primary_locator": "Introduction à L'Origine de la géométrie, § XI",
+      "term": "the Absolute of intentional historicity / the genitive",
+      "status": "introduced",
+      "claim": "The Absolute of the Idea is the Absolute of intentional historicity, and the \"of\" is neither an objective nor a subjective genitive but the intentional Absolute of the pure relation to the object, a relation in which subject and object engender and govern one another reciprocally.",
+      "quote": "It is \"the *intentional Absolute of the objectivized*, of the *pure relation to the object* — a relation in which subject and object *engender and govern one another reciprocally*.\""
+    },
+    {
+      "id": "intentionalitaet/derrida-iog/013",
+      "locator": "derrida-introduction-a-lorigine-de-la-geometrie-commentary#h2-xi",
+      "primary_locator": "Introduction à L'Origine de la géométrie, § XI",
+      "term": "the Living Present as dialectic and non-dialectic",
+      "status": "introduced",
+      "claim": "The movement of primordial temporalization, ultimate foundation of all constitution, is dialectical through and through, but only as the dialectic of the dialectic (the mutual implication of protentions and retentions) with the non-dialectic, the absolute and concrete identity of the Living Present.",
+      "quote": "it was only the *dialectic of the dialectic* — the indefinite, mutual and irreducible implication of protentions and retentions — *with the non-dialectic*: the absolute and concrete identity of the Living Present, universal form of all consciousness."
+    },
+    {
+      "id": "intentionalitaet/derrida-iog/014",
+      "locator": "derrida-introduction-a-lorigine-de-la-geometrie-commentary#h2-xi",
+      "primary_locator": "Introduction à L'Origine de la géométrie, § XI",
+      "term": "ideality of noematic sense",
+      "status": "introduced",
+      "claim": "One must constantly return to Husserl's descriptions of the non-real inclusion of the noema in consciousness and the ideality of noematic sense, which is neither of the subject nor of the object and is therefore nothing but the objectivity of the object, the appearing of its \"as such\" for a consciousness.",
+      "quote": "the *non-real* inclusion of the noema in consciousness, the *ideality of noematic sense*\" — which is \"neither of the subject nor of the object, *and is therefore nothing but the objectivity of the object*, the appearing of its '*as such*' for a consciousness"
+    },
+    {
+      "id": "intentionalitaet/derrida-iog/015",
+      "locator": "derrida-introduction-a-lorigine-de-la-geometrie-commentary#h2-xi",
+      "primary_locator": "Introduction à L'Origine de la géométrie, § XI",
+      "term": "intentionality is traditionality",
+      "status": "introduced",
+      "claim": "The Introduction's culminating identification is that intentionality is traditionality: in the pure movement of phenomenological temporalization, as the going-out-from-self-into-self of the Absolute of the Living Present, intentionality is the root of historicity, and historicity is sense.",
+      "quote": "\"*Intentionality is traditionality*.\""
+    }
+  ],
+  "absences": []
+}

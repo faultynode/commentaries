@@ -1,0 +1,179 @@
+{
+  "schema_version": 1,
+  "theme": "intentionalitaet",
+  "commentary": "kern-husserl-and-kant-commentary",
+  "source_sha256": "fef19456ecbae77db47c04a5e88bb6a25b6679cfe10bde97ffce5336ad06bdaa",
+  "extracted_at": "2026-09-09",
+  "extractor": {
+    "agent": "claude-code",
+    "prompt": "prompts/extraction-prompt.md",
+    "note": "source_sha256 is the LF digest (CRLF checkout; local validate reports a false staleness, CI on LF passes). This is a scholarly monograph (Iso Kern, Husserl und Kant); intentionality appears in the reconstruction of Husserl's critique of Kant and the neo-Kantians. Closely read § 9 (b/c: the sensibility/understanding division, the noesis/noema confusion charged against Kant), § 11 (the principle of all principles, Kant's constructive method vs. intentional analysis, Kant's de facto phenomenological attitude), § 15 (the way from above / from below in the transcendental deduction), § 18 (the way via ontology and the reference of the objective a priori to subjectivity), § 32 (critique of Natorp's collapse of act and content), and § 34 (real vs. intentional immanence). Not read in detail: the historical Part 1, §§ 10, 12-14, 16-17, 19-31, 33, 35-37. No chronology.json entry (P5 pending; Kern's monograph appeared 1964, not dated in the commentary file)."
+  },
+  "coverage": "partial",
+  "coverage_note": "Covers the intentionality-relevant strands of Kern's reconstruction: psychologism as the confusion of the objective with the experiences directed toward it, and the distinction of intentional experience and objective sense as the fundamental structure of phenomenological research; the charge that Kant confuses pure intuiting with the idea intuited and lacks a clear noesis/noema distinction, so that a transcendental logic is possible only within a transcendental noetics; Husserl's treatment of sensibility and understanding as two aspects of a deeper unity, 'experiencing reason', spontaneity as always interwoven with receptivity, secondary sensibility and the primal hyle as a limiting concept, and the a priori of every sensibility; the principle of all principles and the critique of Kant's constructive method for lacking intentional analysis, alongside the concession that Kant de facto moves in the phenomenological attitude; the way from above and the way from below in the transcendental deduction, and the way via ontology that recognizes the reference of all objective a priori to constituting subjectivity; the critique of Natorp's collapse of act and content and the acknowledged constructive character of Husserl's own noetics; and the distinction of real from intentional immanence. Not covered: the historical overview, the analytic/synthetic and natura-formaliter-spectata chapters, and the detailed Natorp/Rickert critique.",
+  "units": [
+    {
+      "id": "intentionalitaet/kern-hk/001",
+      "locator": "kern-husserl-and-kant-commentary#h4-s-9-critique-of-some-false-prejudices-of-kant",
+      "primary_locator": "Kern, Husserl und Kant, § 9(c)",
+      "term": "psychologism as confusion of objective and experience",
+      "status": "introduced",
+      "claim": "In the eighth chapter of the Prolegomena Husserl identifies the fundamental error of psychologism as the confusion of the objective and the experiences directed toward it, and he raises this charge against Kant as well, both where he combats Kant's psychologism and where he discusses Kantian transcendental arguments.",
+      "quote": "Husserl identifies the fundamental error of psychologism as the confusion of the objective and the experiences directed toward it. He raises this charge against Kant as well"
+    },
+    {
+      "id": "intentionalitaet/kern-hk/002",
+      "locator": "kern-husserl-and-kant-commentary#h4-s-9-critique-of-some-false-prejudices-of-kant",
+      "primary_locator": "Kern, Husserl und Kant, § 9(c)",
+      "term": "intentional experience / objective sense",
+      "status": "introduced",
+      "claim": "For Husserl the distinction between intentional experience and objective sense constitutes the fundamental structure of phenomenological research.",
+      "quote": "For Husserl, the distinction between intentional experience and objective sense constitutes the fundamental structure of phenomenological research."
+    },
+    {
+      "id": "intentionalitaet/kern-hk/003",
+      "locator": "kern-husserl-and-kant-commentary#h4-s-9-critique-of-some-false-prejudices-of-kant",
+      "primary_locator": "Kern, Husserl und Kant, § 9(c)",
+      "term": "confusion of intuiting and intuited",
+      "status": "criticized",
+      "claim": "Under the title 'pure intuition' Kant does not distinguish pure intuiting (the giving consciousness of ideation) from the idea of space itself, and there is a constant confusion between the experience of appearing and the appearing-as-such.",
+      "quote": "under the title \"pure intuition\" Kant does not distinguish pure intuiting (the giving consciousness of ideation) from the idea of space itself."
+    },
+    {
+      "id": "intentionalitaet/kern-hk/004",
+      "locator": "kern-husserl-and-kant-commentary#h4-s-9-critique-of-some-false-prejudices-of-kant",
+      "primary_locator": "Kern, Husserl und Kant, § 9(c)",
+      "term": "noesis-noema confusion in Kant",
+      "status": "criticized",
+      "claim": "Husserl notes in the Transcendental Analytic the lack of a clear distinction between intuitions and what is intuited, between forms of appearances as modes of consciousness and forms of the appearing objectivity, and holds that this is why the transcendental deduction becomes so confused and the transcendental apperception harbours so many mysteries.",
+      "quote": "the lack of a clear distinction between intuitions and what is intuited, between forms of appearances as modes of consciousness and forms of the appearing objectivity — and that this is why the transcendental deduction becomes so confused and the transcendental apperception harbors so many mysteries."
+    },
+    {
+      "id": "intentionalitaet/kern-hk/005",
+      "locator": "kern-husserl-and-kant-commentary#h4-s-9-critique-of-some-false-prejudices-of-kant",
+      "primary_locator": "Kern, Husserl und Kant, § 9(c)",
+      "term": "transcendental logic requires transcendental noetics",
+      "status": "introduced",
+      "claim": "Because Kant's one-sided orientation toward the noematic left the accomplishing subjectivity and its consciousness-functions unstudied, a transcendental logic is possible only within a transcendental noetics, whose radically scientific execution requires the full concrete consciousness-life to be subjected to study.",
+      "quote": "A transcendental logic is possible only within a transcendental noetics."
+    },
+    {
+      "id": "intentionalitaet/kern-hk/006",
+      "locator": "kern-husserl-and-kant-commentary#h4-s-9-critique-of-some-false-prejudices-of-kant",
+      "primary_locator": "Kern, Husserl und Kant, § 9(b)",
+      "term": "sensibility and understanding as a unity",
+      "status": "revised",
+      "claim": "For Husserl sensibility and understanding/reason are not strictly separated but flow into one another; indeed they are not two different domains but two aspects of a deeper unity.",
+      "quote": "For Husserl, sensibility and understanding/reason are not strictly separated but flow into one another; indeed, they are not two different domains but two aspects of a deeper unity."
+    },
+    {
+      "id": "intentionalitaet/kern-hk/007",
+      "locator": "kern-husserl-and-kant-commentary#h4-s-9-critique-of-some-false-prejudices-of-kant",
+      "primary_locator": "Kern, Husserl und Kant, § 9(b)",
+      "term": "experiencing reason",
+      "status": "introduced",
+      "claim": "From about 1909 Husserl uses 'reason' and 'understanding' also for simple thing-experience, which he always already thought of as sense-apprehension rather than as empiricist succession of sensations, and speaks of an 'experiencing reason' in which the objects of all regions constitute themselves.",
+      "quote": "which he always already thought of as sense-apprehension rather than as empiricist succession of sensations. He now speaks of \"experiencing reason\" in which the objects of all regions constitute themselves."
+    },
+    {
+      "id": "intentionalitaet/kern-hk/008",
+      "locator": "kern-husserl-and-kant-commentary#h4-s-9-critique-of-some-false-prejudices-of-kant",
+      "primary_locator": "Kern, Husserl und Kant, § 9(b)",
+      "term": "spontaneity interwoven with receptivity",
+      "status": "introduced",
+      "claim": "For Husserl the distinction of activity and passivity is only relative: spontaneity is always interwoven with receptivity, receptivity is itself the lowest level of spontaneity, and in the receptivity in which real things constitute themselves the spontaneity of sensuous apprehension already functions.",
+      "quote": "Spontaneity is always interwoven with receptivity; receptivity is itself the lowest level of spontaneity. The real things of simple experience constitute themselves in receptivity, in sensibility; but in this receptivity the spontaneity of sensuous apprehension already functions."
+    },
+    {
+      "id": "intentionalitaet/kern-hk/009",
+      "locator": "kern-husserl-and-kant-commentary#h4-s-9-critique-of-some-false-prejudices-of-kant",
+      "primary_locator": "Kern, Husserl und Kant, § 9(b)",
+      "term": "secondary sensibility / primal hyle as limiting concept",
+      "status": "introduced",
+      "claim": "Conversely, higher acts of reason produce a possession toward which the subject then behaves passively ('reason that has sunk down into sensibility', 'secondary sensibility'), while 'absolute' sensibility is only primal sensibility, the primal hyle, ultimately a mere limiting concept.",
+      "quote": "Husserl speaks of \"reason that has sunk down into sensibility\" or \"secondary sensibility.\" \"Absolute\" sensibility is for him only primal sensibility, the primal hyle, ultimately a mere limiting concept."
+    },
+    {
+      "id": "intentionalitaet/kern-hk/010",
+      "locator": "kern-husserl-and-kant-commentary#h4-s-9-critique-of-some-false-prejudices-of-kant",
+      "primary_locator": "Kern, Husserl und Kant, § 9(b)",
+      "term": "the a priori of sensibility",
+      "status": "introduced",
+      "claim": "Husserl can formulate the sentence paradoxical for Kantian ears that for every sensibility there are a priori laws, and that every sort of sensibility is a sphere of genuine rationality, of pure reason in the proper sense.",
+      "quote": "For every sensibility there are a priori laws; every sort of sensibility is a sphere of genuine rationality, of pure reason in the proper sense."
+    },
+    {
+      "id": "intentionalitaet/kern-hk/011",
+      "locator": "kern-husserl-and-kant-commentary#h4-s-11-husserl-s-kant-critique-from-the-standpoint-of-transcendental-philosophical",
+      "primary_locator": "Kern, Husserl und Kant, § 11(a)",
+      "term": "Kant's de facto phenomenological attitude",
+      "status": "introduced",
+      "claim": "Kant's thinking de facto moves within the framework of the phenomenological attitude, and the force of his genuinely transcendental theories rests on pure intuitions drawn from original sources, but it makes an essential difference whether one naively theorizes in that attitude or achieves principled clarity about its essence.",
+      "quote": "Kant's thinking *de facto* moves within the framework of phenomenological attitude, and the force of his genuinely transcendental theories rests on pure intuitions drawn from original sources. But it makes an essential difference whether one naively theorizes in phenomenological attitude or achieves principled clarity about its essence."
+    },
+    {
+      "id": "intentionalitaet/kern-hk/012",
+      "locator": "kern-husserl-and-kant-commentary#h4-s-11-husserl-s-kant-critique-from-the-standpoint-of-transcendental-philosophical",
+      "primary_locator": "Kern, Husserl und Kant, § 11(b)",
+      "term": "the principle of all principles",
+      "status": "introduced",
+      "claim": "Husserl's 'principle of all principles' demands that everything that presents itself in intuition be accepted as it gives itself, and his 'positivism' means accepting only what is originally given and refusing to go behind or beyond what intuition delivers.",
+      "quote": "Husserl's \"principle of all principles\" demands that everything that presents itself in intuition be accepted as it gives itself. Husserl's \"positivism\" means accepting only what is originally given and refusing to go behind or beyond what intuition delivers."
+    },
+    {
+      "id": "intentionalitaet/kern-hk/013",
+      "locator": "kern-husserl-and-kant-commentary#h4-s-11-husserl-s-kant-critique-from-the-standpoint-of-transcendental-philosophical",
+      "primary_locator": "Kern, Husserl und Kant, § 11(b)",
+      "term": "Kant's constructive method / lack of intentional analysis",
+      "status": "criticized",
+      "claim": "Kant's transcendental philosophy constructs hypothetical explanatory principles rather than demonstrating them in intuitive evidence, and the lack of the phenomenological reduction is the deepest reason for his overlooking the possibility of a transcendental experience.",
+      "quote": "Kant's transcendental philosophy constructs hypothetical explanatory principles rather than demonstrating them in intuitive evidence."
+    },
+    {
+      "id": "intentionalitaet/kern-hk/014",
+      "locator": "kern-husserl-and-kant-commentary#h4-s-15-husserl-and-kant-s-thought-of-the-transcendental-deduction-of-the-a-priori",
+      "primary_locator": "Kern, Husserl und Kant, § 15",
+      "term": "way from above / way from below",
+      "status": "introduced",
+      "claim": "Kern distinguishes two paths of the transcendental deduction: the way 'from above' (from the idea of objectivity to its subjective conditions, the Kantian regressive path) and the way 'from below' (from concrete experience up to the constitutive conditions), Husserl holding that eidetic variation offers a more direct path.",
+      "quote": "the way \"from above\" (starting from the idea of objectivity and asking what subjective conditions make it possible — the Kantian regressive path) and the way \"from below\" (starting from the analysis of concrete experience and working up to the constitutive conditions)."
+    },
+    {
+      "id": "intentionalitaet/kern-hk/015",
+      "locator": "kern-husserl-and-kant-commentary#h4-s-18-the-significance-of-kant-s-return-to-subjectivity-for-husserl-s-idea-of-the",
+      "primary_locator": "Kern, Husserl und Kant, § 18(c)",
+      "term": "the way via ontology",
+      "status": "introduced",
+      "claim": "The way via ontology starts from the positive sciences or ontology, recognizes the necessary reference of all objective a priori to constituting subjectivity, and thereby achieves the transcendental turn, yielding the sense of the reduction ultimately intended by Husserl.",
+      "quote": "recognizing the necessary reference of all objective a priori to constituting subjectivity, and thereby achieving the transcendental turn."
+    },
+    {
+      "id": "intentionalitaet/kern-hk/016",
+      "locator": "kern-husserl-and-kant-commentary#h4-s-32-critique-of-natorp-s-concept-of-subjectivity",
+      "primary_locator": "Kern, Husserl und Kant, § 32",
+      "term": "Natorp's collapse of act and content",
+      "status": "criticized",
+      "claim": "Natorp rejected the distinction between content of consciousness and act of consciousness, conceiving the sole graspable expression of consciousness as the connection of consciousness-contents, and Husserl found lacking in Natorp a distinction between noema, noesis, and sensation and any special noetics.",
+      "quote": "Natorp rejected the distinction between content of consciousness and act of consciousness. He conceived the sole graspable expression of consciousness as the connection of consciousness-contents."
+    },
+    {
+      "id": "intentionalitaet/kern-hk/017",
+      "locator": "kern-husserl-and-kant-commentary#h4-s-32-critique-of-natorp-s-concept-of-subjectivity",
+      "primary_locator": "Kern, Husserl und Kant, § 32",
+      "term": "the constructive character of Husserl's noetics",
+      "status": "introduced",
+      "claim": "Kern observes that Husserl's actually practiced consciousness-research corresponds to a large extent to Natorp's position, the constructive character of Husserl's own noetics being acknowledged, along with Natorp's influence on Husserl's inclusion of the noema within phenomenology and on his doctrine of the ego-pole.",
+      "quote": "Husserl's actually practiced consciousness-research corresponds to a large extent to Natorp's position — the constructive character of Husserl's own noetics is acknowledged."
+    },
+    {
+      "id": "intentionalitaet/kern-hk/018",
+      "locator": "kern-husserl-and-kant-commentary#h4-s-34-critique-of-rickert-s-presuppositions-in-posing-the-problem-of-the-object-o",
+      "primary_locator": "Kern, Husserl und Kant, § 34",
+      "term": "real vs. intentional immanence",
+      "status": "introduced",
+      "claim": "Against Rickert's rejection of the pure immanence-standpoint, Husserl demands a purely immanent epistemology while himself rejecting the 'real' immanence-standpoint as opposed to 'intentional' immanence.",
+      "quote": "Husserl's rejection of the \"real\" immanence-standpoint (as opposed to \"intentional\" immanence) is noted"
+    }
+  ],
+  "absences": []
+}

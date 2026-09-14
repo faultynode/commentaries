@@ -1,0 +1,117 @@
+{
+  "schema_version": 1,
+  "theme": "sorge",
+  "commentary": "heidegger-ga-61-phenomenological-interpretations-of-aristotle-commentary",
+  "source_sha256": "26f53a21e0f990da34472f5ac8a3878c99a06271372ea5caa65f0fab85371fc7",
+  "extracted_at": "2026-09-14",
+  "extractor": {
+    "agent": "claude-code",
+    "prompt": "prompts/extraction-prompt.md",
+    "note": "Run after the chronology pass registered the course at Winter Semester 1921/22. This is now the earliest stratum on the ledger and the only Freiburg one."
+  },
+  "coverage": "partial",
+  "coverage_note": "Chapter 1 of Part III (the basic categories of life: caring, its directives, barricading) and the intensification of caring into concern in the returning interpretation, with two checked absences earlier in the course. The movement categories and the Aristotle interpretation carry term hits and have not been extracted.",
+  "units": [
+    {
+      "id": "sorge/ga61/001",
+      "locator": "heidegger-ga-61-phenomenological-interpretations-of-aristotle-commentary#h4-b-relational-sense-of-life-caring",
+      "stratum": "ga61-1921",
+      "term": "Sorgen",
+      "claim": "Life in its verbal sense is interpreted according to its relational sense as caring, and caring is said to characterise living in every mode, revelry and indifference included.",
+      "status": "introduced",
+      "quote": "Life, taken in the verbal sense, is to be interpreted according to its relational sense as caring (*Sorgen*): caring for and about something, caringly living from and out of the world."
+    },
+    {
+      "id": "sorge/ga61/002",
+      "locator": "heidegger-ga-61-phenomenological-interpretations-of-aristotle-commentary#h4-b-relational-sense-of-life-caring",
+      "stratum": "ga61-1921",
+      "term": "Bedeutsamkeit",
+      "claim": "What caring is directed at and holds to is significance, a categorial determination of world, so that the objects of a world are lived in the character of significance.",
+      "status": "introduced",
+      "quote": "What caring is directed at and holds to is to be determined as significance (*Bedeutsamkeit*). Significance is a categorial determination of world; the objects of a world are lived in the character of significance."
+    },
+    {
+      "id": "sorge/ga61/003",
+      "locator": "heidegger-ga-61-phenomenological-interpretations-of-aristotle-commentary#h4-b-relational-sense-of-life-caring",
+      "stratum": "ga61-1921",
+      "term": "caring",
+      "claim": "The broadest relational sense of life is caring about daily bread, and privation is named the fundamental how of the sense of being of life.",
+      "status": "presupposed",
+      "quote": "Life in its most broadly grasped relational sense is: caring about \"daily bread\" — understood in the broadest, formally indicative sense."
+    },
+    {
+      "id": "sorge/ga61/004",
+      "locator": "heidegger-ga-61-phenomenological-interpretations-of-aristotle-commentary#h5-b-directives-of-caring",
+      "stratum": "ga61-1921",
+      "term": "caring",
+      "claim": "Caring always proceeds in a directive, determinate or indeterminate, secure or fluttering.",
+      "status": "presupposed",
+      "quote": "Caring always proceeds in a determinate or indeterminate, secure or fluttering directive (*Weisung*)."
+    },
+    {
+      "id": "sorge/ga61/005",
+      "locator": "heidegger-ga-61-phenomenological-interpretations-of-aristotle-commentary#h5-c-barricading",
+      "stratum": "ga61-1921",
+      "term": "Abriegelung",
+      "claim": "Barricading is the third character of the relational sense of caring: because caring factically consolidates itself in being-inclined, the appropriation of what stands before it fails to occur.",
+      "status": "introduced",
+      "quote": "insofar as caring in the fundamental how of its enactment — the being-inclined — factically lives and consolidates itself, the appropriation of the \"before\" fails to occur"
+    },
+    {
+      "id": "sorge/ga61/006",
+      "locator": "heidegger-ga-61-phenomenological-interpretations-of-aristotle-commentary#h5-a-intensification-of-care-concern-besorgnis",
+      "stratum": "ga61-1921",
+      "term": "Besorgnis",
+      "claim": "Caring has it in for itself in its enactment, and where caring takes itself into care it is itself overtaken by caring; this being-concerned is determined as concern.",
+      "status": "introduced",
+      "quote": "The caring is \"concerned\" (*be-sorgt*), itself overtaken by caring, overloaded. This caring as being-concerned is determined as concern (*Besorgnis*)."
+    },
+    {
+      "id": "sorge/ga61/007",
+      "locator": "heidegger-ga-61-phenomenological-interpretations-of-aristotle-commentary#h5-a-intensification-of-care-concern-besorgnis",
+      "stratum": "ga61-1921",
+      "term": "Besorgnis",
+      "claim": "In concern the full movedness of caring throws itself upon itself, so that the movedness of itself is itself moved - an intensification of the caring-movedness.",
+      "status": "presupposed",
+      "quote": "In concern, the full movedness of caring throws itself as it were upon itself — the movedness of itself is itself moved."
+    }
+  ],
+  "absences": [
+    {
+      "locator": "heidegger-ga-61-phenomenological-interpretations-of-aristotle-commentary#h5-b-the-principled-definition-of-philosophy",
+      "expected_because": "Philosophy is defined in principle here, and this course defines it out of factical life, whose relational sense Chapter 1 gives as caring. The definition is carried through without a term of the family.",
+      "note": "The category is built later and is not yet available to the definition that motivates it.",
+      "absent_terms": [
+        "Sorge",
+        "Besorgen",
+        "Fürsorge",
+        "Bekümmerung",
+        "care",
+        "concern",
+        "concernful",
+        "solicitude",
+        "being-out-for",
+        "taking care",
+        "caring"
+      ]
+    },
+    {
+      "locator": "heidegger-ga-61-phenomenological-interpretations-of-aristotle-commentary#h2-part-iii-factical-life",
+      "expected_because": "The part that announces factical life as the theme, whose relational sense is caring a few sections on. No term of the family occurs in the announcement.",
+      "note": "Worth keeping as the baseline for how late the term enters even where the phenomenon is the topic.",
+      "absent_terms": [
+        "Sorge",
+        "Besorgen",
+        "Fürsorge",
+        "Bekümmerung",
+        "care",
+        "concern",
+        "concernful",
+        "solicitude",
+        "being-out-for",
+        "taking care",
+        "caring"
+      ]
+    }
+  ]
+}

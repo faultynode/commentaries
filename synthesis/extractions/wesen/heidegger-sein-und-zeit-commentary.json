@@ -1,0 +1,103 @@
+{
+  "schema_version": 1,
+  "theme": "wesen",
+  "commentary": "heidegger-sein-und-zeit-commentary",
+  "source_sha256": "94b7fcaaa8e87cacbb03c01d9c915e9725572cda2849afa28f9a800cc7c63551",
+  "extracted_at": "2026-09-14",
+  "extractor": {
+    "agent": "claude-code",
+    "prompt": "prompts/synthesis-pipeline/extraction-prompt.md",
+    "note": "Whole file grep-counted for the theme's search terms plus 'essentia', 'Wesen', 'Wesensschau', 'eidos', 'eidetic' and 'free variation': 'Wesensschau' occurs once and 'eidetic' once, both at § 31; 'free variation' nowhere. Closely read § 9 (lines 303-328) and § 31 (909-946); §§ 26, 58, 80 and 44b were keyword-scanned."
+  },
+  "coverage": "partial",
+  "coverage_note": "Covers § 9 (the theme of the analytic of Dasein, where the essentia/existentia pair is suspended for Dasein) and § 31 (Da-sein as understanding, which carries the commentary's single use of Wesensschau). The rest of the commentary - Divisions One and Two outside these sections - was keyword-scanned only; in it 'essential' occurs overwhelmingly as an ordinary adverbial intensifier rather than as a term of art.",
+  "units": [
+    {
+      "id": "wesen/heidegger-sz/001",
+      "locator": "heidegger-sein-und-zeit-commentary#h5-s-9-the-theme-of-the-analytic-of-dasein",
+      "primary_locator": "SZ § 9",
+      "term": "essentia",
+      "status": "revised",
+      "claim": "The essence of Dasein is said to lie in its to-be, so that its what-being (essentia) must be conceived from its being (existentia), if it can be spoken of at all.",
+      "quote": "the \"essence\" of this being lies in its to-be (Zu-sein). Its what-being (essentia), so far as one can speak of it at all, must be conceived from its being (existentia)"
+    },
+    {
+      "id": "wesen/heidegger-sz/002",
+      "locator": "heidegger-sein-und-zeit-commentary#h5-s-9-the-theme-of-the-analytic-of-dasein",
+      "primary_locator": "SZ § 9",
+      "term": "essentia/existentia",
+      "status": "criticized",
+      "claim": "The commentary states that the scholastic pair essentia/existentia is not applied to Dasein but suspended for it, the tradition's word for existence naming the wrong mode of being.",
+      "quote": "the scholastic pair essentia/existentia is not applied to Dasein but suspended for it - Dasein's \"what\" is a \"to-be,\" and the tradition's word for existence names precisely the wrong mode of being"
+    },
+    {
+      "id": "wesen/heidegger-sz/003",
+      "locator": "heidegger-sein-und-zeit-commentary#h5-s-9-the-theme-of-the-analytic-of-dasein",
+      "primary_locator": "SZ § 9",
+      "term": "essence",
+      "status": "revised",
+      "claim": "The formula that the essence of Dasein lies in its existence is read as suspending the essence-question rather than as naming existence as Dasein's essence, the quotation marks doing that work.",
+      "quote": "the sentence is not an essentialist thesis with existence as the essence (the misreading Sartre would canonize) but the suspension of the essence-question in favor of the to-be"
+    },
+    {
+      "id": "wesen/heidegger-sz/004",
+      "locator": "heidegger-sein-und-zeit-commentary#h5-s-9-the-theme-of-the-analytic-of-dasein",
+      "primary_locator": "SZ § 9",
+      "term": "properties",
+      "status": "criticized",
+      "claim": "Because the essence of Dasein lies in its existence, the characters exhibited in it are said to be possible ways for it to be and not present-at-hand properties of a present-at-hand being.",
+      "quote": "The characters exhibitable in this being are therefore not present-at-hand \"properties\" of a present-at-hand being that \"looks\" thus and so, but in each case possible ways for it to be"
+    },
+    {
+      "id": "wesen/heidegger-sz/005",
+      "locator": "heidegger-sein-und-zeit-commentary#h5-s-9-the-theme-of-the-analytic-of-dasein",
+      "primary_locator": "SZ § 9",
+      "term": "according to its essence",
+      "status": "presupposed",
+      "claim": "Dasein can lose or win itself only insofar as it is, according to its essence, possible authentic, and the pair authenticity/inauthenticity is grounded in mineness.",
+      "quote": "only insofar as it is, according to its essence, possible authentic - that is, its own (sich zueigen)"
+    },
+    {
+      "id": "wesen/heidegger-sz/006",
+      "locator": "heidegger-sein-und-zeit-commentary#h6-s-31-da-sein-as-understanding",
+      "primary_locator": "SZ § 31",
+      "term": "essential being-possible",
+      "status": "presupposed",
+      "claim": "Dasein's essential being-possible is said to concern attending to the world, solicitude for others, and always already the potentiality-of-being toward itself.",
+      "quote": "Its essential being-possible concerns the characterized ways of attending to the \"world,\" of solicitude for others, and, in all this and always already, the potentiality-of-being toward itself, for its own sake."
+    },
+    {
+      "id": "wesen/heidegger-sz/007",
+      "locator": "heidegger-sein-und-zeit-commentary#h6-s-31-da-sein-as-understanding",
+      "primary_locator": "SZ § 31",
+      "term": "Wesensschau",
+      "status": "criticized",
+      "claim": "The phenomenological intuition of essences is said to ground in existential understanding, with a decision about that kind of seeing deferred until the concepts of being and being-structure are won.",
+      "quote": "even the phenomenological \"intuition of essences\" (Wesensschau) grounds in existential understanding"
+    },
+    {
+      "id": "wesen/heidegger-sz/008",
+      "locator": "heidegger-sein-und-zeit-commentary#h6-s-31-da-sein-as-understanding",
+      "primary_locator": "SZ § 31",
+      "term": "Wesensschau",
+      "status": "criticized",
+      "claim": "The commentary reads the closing sentence of the section as filing Husserl's Wesensschau as a founded mode subordinate to the existential understanding it presupposes.",
+      "quote": "the last sentence quietly subordinates Husserl's supreme court, the Wesensschau, to the existential understanding it presupposes"
+    }
+  ],
+  "absences": [
+    {
+      "locator": "heidegger-sein-und-zeit-commentary#h5-s-9-the-theme-of-the-analytic-of-dasein",
+      "expected_because": "This is the section that suspends the essentia/existentia pair for Dasein and so states what 'essence' may and may not mean in the book; if the eidetic sense of essence were at issue anywhere in Division One it would be here, where the traditional sense is being refused.",
+      "absent_terms": [
+        "Wesensschau",
+        "eidetic",
+        "eidos",
+        "free variation",
+        "immutable",
+        "innate"
+      ],
+      "note": "The commentary's only eidetic vocabulary sits at § 31, where Wesensschau is named once and subordinated to existential understanding; the essence-question is refused at § 9 without reference to it."
+    }
+  ]
+}

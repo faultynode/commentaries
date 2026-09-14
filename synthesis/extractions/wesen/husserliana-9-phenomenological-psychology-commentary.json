@@ -1,0 +1,94 @@
+{
+  "schema_version": 1,
+  "theme": "wesen",
+  "commentary": "husserliana-9-phenomenological-psychology-commentary",
+  "source_sha256": "668c7a551f240c6b325a909d5e9a3a0b2edff78d29009d73c83a9f11bd08b350",
+  "extracted_at": "2026-09-14",
+  "extractor": {
+    "agent": "claude-code",
+    "prompt": "prompts/synthesis-pipeline/extraction-prompt.md",
+    "note": "Whole file grep-scanned for the theme's search terms plus 'Wesensschau', 'ideation', 'immutable', 'innate', 'residuum' and 'free variation'. Closely read § 4 (lines 233-284) and § 10 (449-488); § 3e (179-210) was read for its eidetic-psychology transition only."
+  },
+  "coverage": "partial",
+  "coverage_note": "Covers § 4 (the summarizing characterization of the new psychology, where apriority and eidetics are listed as its basic characters) and § 10 (intuitive generalization and ideation). §§ 5-9 and §§ 11 onward, including the long eidetic-method sections of the Systematic Part, were keyword-scanned only.",
+  "units": [
+    {
+      "id": "wesen/hua9-psych/001",
+      "locator": "husserliana-9-phenomenological-psychology-commentary#h3-s-4-summarizing-characterization-of-the-new-psychology",
+      "primary_locator": "Hua IX § 4",
+      "stratum": "hua9-1925",
+      "term": "eidetics",
+      "status": "introduced",
+      "claim": "The basic characters of the new psychology are listed as apriority, eidetics, intuition or pure description, intentionality, and remaining in the natural dogmatic attitude.",
+      "quote": "then they were, in catchwords: *apriority*, *eidetics*, *intuition or pure description*, *intentionality*"
+    },
+    {
+      "id": "wesen/hua9-psych/002",
+      "locator": "husserliana-9-phenomenological-psychology-commentary#h3-s-4-summarizing-characterization-of-the-new-psychology",
+      "primary_locator": "Hua IX § 4",
+      "stratum": "hua9-1925",
+      "term": "essential generalities",
+      "status": "introduced",
+      "claim": "Apriority is glossed as aiming in the first place at essential generalities and necessities, at everything without which psychological being and life are unthinkable.",
+      "quote": "this psychology aims *in the first place* at essential generalities and necessities — at everything *without which* psychological being and life are simply unthinkable"
+    },
+    {
+      "id": "wesen/hua9-psych/003",
+      "locator": "husserliana-9-phenomenological-psychology-commentary#h3-s-4-summarizing-characterization-of-the-new-psychology",
+      "primary_locator": "Hua IX § 4",
+      "stratum": "hua9-1925",
+      "term": "essential establishments",
+      "status": "introduced",
+      "claim": "The establishments are said to be gained as essential establishments in which the necessity and unconditional generality of validity itself becomes the intuited, not a surmised necessity.",
+      "quote": "These are *not surmised, supposed essential necessities*, but the necessity and unconditional generality of validity *itself* becomes the *intuited*."
+    },
+    {
+      "id": "wesen/hua9-psych/004",
+      "locator": "husserliana-9-phenomenological-psychology-commentary#h3-s-4-summarizing-characterization-of-the-new-psychology",
+      "primary_locator": "Hua IX § 4",
+      "stratum": "hua9-1925",
+      "term": "Wesensschau",
+      "status": "presupposed",
+      "claim": "The intuitive ascent to general necessities is glossed as a Wesensschau and distinguished from hypothetical inference.",
+      "quote": "The ascent to general necessities is an *intuitive* ascent — a *Wesensschau* — and not a hypothetical inference."
+    },
+    {
+      "id": "wesen/hua9-psych/005",
+      "locator": "husserliana-9-phenomenological-psychology-commentary#h3-s-4-summarizing-characterization-of-the-new-psychology",
+      "primary_locator": "Hua IX § 4",
+      "stratum": "hua9-1925",
+      "term": "most general essential character",
+      "status": "introduced",
+      "claim": "Intentionality is brought out by this procedure as the most general essential character of psychic being and life.",
+      "quote": "the *most general essential character* of psychic being and life is brought out: *intentionality*"
+    },
+    {
+      "id": "wesen/hua9-psych/006",
+      "locator": "husserliana-9-phenomenological-psychology-commentary#h3-s-10-the-method-of-intuitive-generalization-and-ideation-as-instruments-for-gain",
+      "primary_locator": "Hua IX § 10",
+      "stratum": "hua9-1925",
+      "term": "essential world-regions",
+      "status": "introduced",
+      "claim": "The method of ideation is said to have been described as the means to a radical conceptual articulation of the world into the essential world-regions, not merely as an example of analysis.",
+      "quote": "but rather as the *means* by which we can come to a *radical division of the world-sciences*, indeed to a *radical conceptual articulation of the world* into the *essential world-regions*"
+    },
+    {
+      "id": "wesen/hua9-psych/007",
+      "locator": "husserliana-9-phenomenological-psychology-commentary#h3-s-10-the-method-of-intuitive-generalization-and-ideation-as-instruments-for-gain",
+      "primary_locator": "Hua IX § 10",
+      "stratum": "hua9-1925",
+      "term": "ideation",
+      "status": "revised",
+      "claim": "Against the prejudice that an a priori method belongs only to mathematics, ideation is said to be practicable wherever objectivities come to original intuitive givenness.",
+      "quote": "*wherever* and *at whatever stage* objectivities come to original intuitive givenness, the method of ideation can be practiced and essential generalities can be purely intuitively brought to view"
+    }
+  ],
+  "absences": [
+    {
+      "locator": "husserliana-9-phenomenological-psychology-commentary#h3-s-4-summarizing-characterization-of-the-new-psychology",
+      "expected_because": "The section is the commentary's summary statement of what makes the new psychology eidetic, and names Wesensschau explicitly, so it is where essences would be compared to innate or immutable natures, or called a residuum, if this commentary did either.",
+      "absent_terms": ["residuum", "immutable", "true and immutable", "innate", "simple nature", "Descartes", "free variation"],
+      "note": "Bears on gap-007. The a priori is sourced here to inner intuition and intuitive ascent, with no appeal to innateness and no residuum-vocabulary."
+    }
+  ]
+}

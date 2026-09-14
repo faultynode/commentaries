@@ -1,0 +1,129 @@
+{
+  "schema_version": 1,
+  "theme": "intentionalitaet",
+  "commentary": "husserliana-33-die-bernauer-manuskripte-uber-das-zeitbewusstsein-commentary",
+  "source_sha256": "7824dfc668eb525991d53ab3355fb32c76040ee942ce34e20338a34d494b2530",
+  "extracted_at": "2026-09-09",
+  "extractor": {
+    "agent": "claude-code",
+    "prompt": "Extract key instances of intentionality/intentional from Husserliana 33 editors' introduction",
+    "note": "Partial extraction focused on editors' introduction (Sections I-V), which presents Husserl's doctrine of intentional consciousness, discusses the problematic status of the primal process as intentional consciousness, and introduces the double intentionality of absolute retentional consciousness. A complete pass would extend to all six main text groups."
+  },
+  "coverage": "partial",
+  "coverage_note": "Covers editors' introduction (Sections I-V): intentional consciousness framework, problems with intentional apprehension schema, the question of whether the primal process is intentional, double intentionality (transverse/longitudinal), passive/genetic intentionality. Not covered: the six main text groups (Texts 1-22).",
+  "units": [
+    {
+      "id": "intentionalitaet/hua33/001",
+      "locator": "husserliana-33-die-bernauer-manuskripte-uber-das-zeitbewusstsein-commentary#h2-iii",
+      "term": "intentional consciousness",
+      "status": "introduced",
+      "claim": "Husserl's doctrine of intentional consciousness provides the framework for understanding retention and distinguishing it from phantasy and recollection.",
+      "quote": "Husserl found it difficult to precisely determine this perception of the past within his doctrine of intentional consciousness, and the associated difficulties troubled him in the Bernau manuscripts as well."
+    },
+    {
+      "id": "intentionalitaet/hua33/002",
+      "locator": "husserliana-33-die-bernauer-manuskripte-uber-das-zeitbewusstsein-commentary#h2-iii",
+      "term": "intentional apprehension",
+      "status": "introduced",
+      "claim": "The schema of intentional apprehension of sensation-content poses problems when applied to time-consciousness and retention.",
+      "quote": "Problems arose especially from applying the schema of intentional apprehension of a sensation-content (borrowed from the phenomenological determination of outer perception of spatial objects) to time-consciousness and thus to retentional perceptual consciousness."
+    },
+    {
+      "id": "intentionalitaet/hua33/003",
+      "locator": "husserliana-33-die-bernauer-manuskripte-uber-das-zeitbewusstsein-commentary#h2-iii",
+      "term": "intentional apprehension (sensation)",
+      "status": "presupposed",
+      "claim": "The sensation-content underlying intentional apprehension is foundational to time-consciousness across all its forms.",
+      "quote": "The first decisive step toward clarifying the modified or unmodified givenness of the sensation-content underlying intentional apprehension is already found in Husserl's earlier time-texts, and these insights are never questioned in the Bernau manuscripts."
+    },
+    {
+      "id": "intentionalitaet/hua33/004",
+      "locator": "husserliana-33-die-bernauer-manuskripte-uber-das-zeitbewusstsein-commentary#h2-iii",
+      "term": "intentional consciousness (objectifying form)",
+      "status": "revised",
+      "claim": "Husserl no longer assumes the primal process itself necessarily has the form of an objectifying intentional consciousness.",
+      "quote": "This terminological change signals that Husserl no longer took for granted that sensations are given in the primal process as objects and that the primal process itself has the form of an objectifying intentional consciousness."
+    },
+    {
+      "id": "intentionalitaet/hua33/005",
+      "locator": "husserliana-33-die-bernauer-manuskripte-uber-das-zeitbewusstsein-commentary#h2-iii",
+      "term": "intentional consciousness (species)",
+      "status": "presupposed",
+      "claim": "Sensation-data must belong to consciousness as an intentional species without being reell components of absolute consciousness.",
+      "quote": "first, the \"absolutely\" named consciousness of sensation-data must be a (sub-)species of intentional consciousness—the sensation-data cannot belong to it as \"reell\" components (otherwise the difference between retentional and ur-impressional consciousness would be unintelligible)."
+    },
+    {
+      "id": "intentionalitaet/hua33/006",
+      "locator": "husserliana-33-die-bernauer-manuskripte-uber-das-zeitbewusstsein-commentary#h2-iii",
+      "term": "intentional consciousness (primal process)",
+      "status": "criticized",
+      "claim": "The characterization of the primal process as a species of intentional consciousness is questioned in Bernau texts.",
+      "quote": "the characterization of the primal process as a species of intentional consciousness. These doubts and questions also pressed upon Husserl in the late C-group time-texts, confirming that the Bernau manuscripts reached no definitive determination of the primal process/events relation."
+    },
+    {
+      "id": "intentionalitaet/hua33/007",
+      "locator": "husserliana-33-die-bernauer-manuskripte-uber-das-zeitbewusstsein-commentary#h2-iii",
+      "term": "pre-intentional primal process",
+      "status": "introduced",
+      "claim": "The primal process may be pre-intentional, gaining constitutive significance only through subsequent egoic reflection.",
+      "quote": "Only through the subsequent performance of an egoic act of reflection on the pre-intentional primal process, i.e., through an intervening modification of its nature, does the hyletic primal stream gain constitutive significance."
+    },
+    {
+      "id": "intentionalitaet/hua33/008",
+      "locator": "husserliana-33-die-bernauer-manuskripte-uber-das-zeitbewusstsein-commentary#h2-iii",
+      "term": "intentional consciousness (absolute)",
+      "status": "presupposed",
+      "claim": "Absolute consciousness is understood as intentional consciousness in determining consciousness of transcendent time-objects.",
+      "quote": "Husserl determines intentional consciousness of a transcendent time-object as an intentional apprehension of a pre-intentional sensation-datum."
+    },
+    {
+      "id": "intentionalitaet/hua33/009",
+      "locator": "husserliana-33-die-bernauer-manuskripte-uber-das-zeitbewusstsein-commentary#h2-iii",
+      "term": "intentionality (of absolute consciousness)",
+      "status": "presupposed",
+      "claim": "The intentionality proper to absolute consciousness—whether it maintains intentional apprehension form—remains deeply problematic.",
+      "quote": "Is it an intentional, transcendentally constituting consciousness? Does its intentionality still have the form of intentional apprehension of a pre-intentional content?"
+    },
+    {
+      "id": "intentionalitaet/hua33/010",
+      "locator": "husserliana-33-die-bernauer-manuskripte-uber-das-zeitbewusstsein-commentary#h2-iii",
+      "term": "intentional character (primal)",
+      "status": "criticized",
+      "claim": "If the primal process requires subsequent egoic grasping, its intentional character and independence become questionable.",
+      "quote": "If a subsequent egoic grasping (an act of reflection) were required, both the primal process's independence and its intentional character would become questionable, and its original self-consciousness could scarcely be maintained."
+    },
+    {
+      "id": "intentionalitaet/hua33/011",
+      "locator": "husserliana-33-die-bernauer-manuskripte-uber-das-zeitbewusstsein-commentary#h2-iii",
+      "term": "double intentionality",
+      "status": "introduced",
+      "claim": "Absolute retentional consciousness harbors a double intentionality: transverse (directed at objects) and longitudinal (self-referential).",
+      "quote": "The flow of \"absolute\" retentional consciousness thus harbors a double intentionality: one directed at immanent time-objects (\"transverse intentionality\" / *Querintentionalität*) and one having the form of self-reference or self-consciousness of the flow (\"longitudinal intentionality\" / *Längsintentionalität*)."
+    },
+    {
+      "id": "intentionalitaet/hua33/012",
+      "locator": "husserliana-33-die-bernauer-manuskripte-uber-das-zeitbewusstsein-commentary#h2-iii",
+      "term": "intentional directions (unity)",
+      "status": "presupposed",
+      "claim": "The two intentional directions belong to one unified process and are inseparably connected.",
+      "quote": "These two intentional directions belong to one and the same process in the flow of continuous retentional modification and are thus inseparably connected."
+    },
+    {
+      "id": "intentionalitaet/hua33/013",
+      "locator": "husserliana-33-die-bernauer-manuskripte-uber-das-zeitbewusstsein-commentary#h2-iv",
+      "term": "intentionality (passive, genetic)",
+      "status": "introduced",
+      "claim": "Genetic phenomenology traces intentionality from pre-egoic tendencies and strivings rather than treating it as purely egoic act-intentionality.",
+      "quote": "Husserl now focuses on its genesis from pre-egoic tendencies, strivings, and inhibitions characterizing the intentionality of a passively running primal process."
+    },
+    {
+      "id": "intentionalitaet/hua33/014",
+      "locator": "husserliana-33-die-bernauer-manuskripte-uber-das-zeitbewusstsein-commentary#h2-iv",
+      "term": "retentional and protentional intentionality (passive)",
+      "status": "presupposed",
+      "claim": "In genetic phenomenology, consciousness of presentness arises from the retentional and protentional intentionality of the passively experienced primal stream.",
+      "quote": "The consciousness of presentness arises from the interplay of the retentional and protentional intentionality of the passively experienced primal stream."
+    }
+  ],
+  "absences": []
+}

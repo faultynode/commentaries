@@ -1,0 +1,134 @@
+{
+  "schema_version": 1,
+  "theme": "intentionalitaet",
+  "commentary": "husserliana-43-2-studien-zur-struktur-des-bewusstseins-commentary",
+  "source_sha256": "ab2091d0d2406e6ba2b503d9afa17940d2d708456d427e95c9ae4f669de6778c",
+  "extracted_at": "2026-09-09",
+  "extractor": {
+    "agent": "claude-code",
+    "prompt": "prompts/extraction-prompt.md",
+    "note": "source_sha256 is the LF digest (CRLF checkout; local validate reports a false staleness, CI on LF passes). Closely read Part III § 1 (Affection, Apprehension, Turning-Toward, and Creative Act of the Understanding) and Part III § 4 (Feeling-Sensibility and Intentionality, dated early November 1911), the two sections where intentionality is directly analysed. Not read: Parts I and II (the founding of value-acts on thing-acts; sensible feelings and the Gefuehlston) and Part III §§ 2-3. No chronology.json entry yet (P5 pending); these are research manuscripts c. 1909-1914."
+  },
+  "coverage": "partial",
+  "coverage_note": "Covers Part III § 1 and § 4: the being-motivation / value-motivation contrast, the receptivity/spontaneity schema for both the being- and value-sides, the analysis of turning-toward (Zuwendung) as executed apprehension, the division of receptivity into mere affection and function, the doctrine that the deepest-lying intentionality is in inner time-constituting consciousness while the constituted sensation and primary feeling have none, and the generalization of the Repraesentanten-doctrine to feeling (double intentionality on a single immanent material). Not covered: Parts I-II and Part III §§ 2-3.",
+  "units": [
+    {
+      "id": "intentionalitaet/hua43-2/001",
+      "locator": "husserliana-43-2-studien-zur-struktur-des-bewusstseins-commentary#h3-s-1-affection-apprehension-turning-toward-and-creative-act-of-the-understanding",
+      "primary_locator": "Hua XLIII/2, Part III § 1",
+      "term": "being-motivation / value-motivation",
+      "status": "introduced",
+      "claim": "Just as through primary sensations spatio-temporal being constitutes itself, so through the feelings interwoven with and founded in the sensations something constitutes itself, namely values.",
+      "quote": "through the feelings *interwoven with*, *founded in* the sensations, *something* constitutes itself, *namely values*."
+    },
+    {
+      "id": "intentionalitaet/hua43-2/002",
+      "locator": "husserliana-43-2-studien-zur-struktur-des-bewusstseins-commentary#h3-s-1-affection-apprehension-turning-toward-and-creative-act-of-the-understanding",
+      "primary_locator": "Hua XLIII/2, Part III § 1",
+      "term": "receptivity / spontaneity schema",
+      "status": "introduced",
+      "claim": "The affective sphere is articulated by a receptivity/spontaneity schema parallel on the being- and value-sides: receptivity-sensibility (sensations, feeling- and drive-passivities, blind motivations constitutive of objects of love and value-objects) and spontaneity-understanding (the creative functions of thinking, valuing, and willing), with spontaneity presupposing receptivity.",
+      "quote": "*Spontaneity presupposes receptivity*."
+    },
+    {
+      "id": "intentionalitaet/hua43-2/003",
+      "locator": "husserliana-43-2-studien-zur-struktur-des-bewusstseins-commentary#h3-s-1-affection-apprehension-turning-toward-and-creative-act-of-the-understanding",
+      "primary_locator": "Hua XLIII/2, Part III § 1",
+      "term": "turning-toward a fantasy-object",
+      "status": "introduced",
+      "claim": "Turning toward a fantasy-object, if one lives in the fantasy-world rather than executing it as quasi-turning, is an actual turning-toward and thus a positing of the fantasized as such, an objectivating positing.",
+      "quote": "if in doing so I *live in the fantasy-world*, then it is an *actual* turning-toward, and thus a *positing of the fantasized as such* — an objectivating positing."
+    },
+    {
+      "id": "intentionalitaet/hua43-2/004",
+      "locator": "husserliana-43-2-studien-zur-struktur-des-bewusstseins-commentary#h3-s-1-affection-apprehension-turning-toward-and-creative-act-of-the-understanding",
+      "primary_locator": "Hua XLIII/2, Part III § 1",
+      "term": "turning-toward as executed apprehension",
+      "status": "revised",
+      "claim": "Turning-toward is not the sending of an attention-ray into an unchanged appearance: the whole phenomenon, and above all the apprehension itself, has undergone activation and is executed apprehension (vollzogene Auffassung), whereas sensation constitutes itself passively and time-consciousness is not executed.",
+      "quote": "the *whole phenomenon* — and above all, no doubt, the *apprehension itself* — has undergone \"*activation*\"; it is *executed* apprehension (vollzogene Auffassung), whereas, with respect to *sensation*, we must continue to say that it constitutes itself *passively*"
+    },
+    {
+      "id": "intentionalitaet/hua43-2/005",
+      "locator": "husserliana-43-2-studien-zur-struktur-des-bewusstseins-commentary#h3-s-1-affection-apprehension-turning-toward-and-creative-act-of-the-understanding",
+      "primary_locator": "Hua XLIII/2, Part III § 1",
+      "term": "mere affection / function",
+      "status": "introduced",
+      "claim": "Receptivity divides into the layer of mere affections, which contain nothing of function and in which primary contents constitute themselves as immanent temporalities in the a priori form of immanent time (the constituting taking place through intentionality yet not through acts proper), and the functions of sensible apprehension.",
+      "quote": "the layer of *mere affections* (which contain *nothing of function*) — the layer within which the *primary contents* (as immanent temporalities, of course) constitute themselves."
+    },
+    {
+      "id": "intentionalitaet/hua43-2/006",
+      "locator": "husserliana-43-2-studien-zur-struktur-des-bewusstseins-commentary#h3-s-1-affection-apprehension-turning-toward-and-creative-act-of-the-understanding",
+      "primary_locator": "Hua XLIII/2, Part III § 1",
+      "term": "living / petrified function",
+      "status": "introduced",
+      "claim": "Every function admits a twofold experience-mode, executed and enlivened by spontaneity (living function) or non-executed and un-living (petrified function), and in this sense receptivity of un-living functions is divided from spontaneity of executed functions, without mixing receptivity and affectivity.",
+      "quote": "a function can be *executed*, *enlivened by spontaneity*, \"*living*\" function; and it can be *non-executed*, *non-spontaneous*, *un-living* — petrified function."
+    },
+    {
+      "id": "intentionalitaet/hua43-2/007",
+      "locator": "husserliana-43-2-studien-zur-struktur-des-bewusstseins-commentary#h3-s-1-affection-apprehension-turning-toward-and-creative-act-of-the-understanding",
+      "primary_locator": "Hua XLIII/2, Part III § 1",
+      "term": "affection in the framework of time-consciousness",
+      "status": "introduced",
+      "claim": "In the extended sense every immanent-unitary experience affects insofar as it can be object of a possible mere turning-toward and positing apprehension, and the sphere of mere affection is one of experiences that can undergo no other animation than the simple turning-toward of inner perception, that is, simple immanent reflection.",
+      "quote": "every immanent-unitary experience \"*affects*\" insofar as it *can be object of possible mere turning-toward and positing apprehension*."
+    },
+    {
+      "id": "intentionalitaet/hua43-2/008",
+      "locator": "husserliana-43-2-studien-zur-struktur-des-bewusstseins-commentary#h3-s-1-affection-apprehension-turning-toward-and-creative-act-of-the-understanding",
+      "primary_locator": "Hua XLIII/2, Part III § 1",
+      "term": "the outer appearance as unity of function",
+      "status": "introduced",
+      "claim": "Insofar as the outer appearance is a unity of function it has the character of an intentional experience and, when it was un-living functional unity, admits an animating ray of simple positing turning-toward whereby active outer perception arises, and seeing is nothing but the livingness of the apprehension-function as perceptive.",
+      "quote": "insofar as it is a *unity of function*, it has the character of an *intentional experience* and admits — when it was *un-living* functional unity — an *animating ray of simple turning-toward*, a *positing, grasping turning-toward*, whereby *active perception*, *outer perception* arises"
+    },
+    {
+      "id": "intentionalitaet/hua43-2/009",
+      "locator": "husserliana-43-2-studien-zur-struktur-des-bewusstseins-commentary#h3-s-4-feeling-sensibility-and-intentionality",
+      "primary_locator": "Hua XLIII/2, Part III § 4",
+      "term": "the deepest-lying intentionality",
+      "status": "introduced",
+      "claim": "The deepest-lying intentionality lies in the inner consciousness that constitutes the unity in the immanent time-flux, and this inner consciousness has intentionality whereas the sensible sensation as constituted unity does not.",
+      "quote": "*The deepest-lying intentionality* lies in the *inner consciousness* that *constitutes the unity in the immanent time-flux*."
+    },
+    {
+      "id": "intentionalitaet/hua43-2/010",
+      "locator": "husserliana-43-2-studien-zur-struktur-des-bewusstseins-commentary#h3-s-4-feeling-sensibility-and-intentionality",
+      "primary_locator": "Hua XLIII/2, Part III § 4",
+      "term": "primary feeling / feeling-apprehension",
+      "status": "introduced",
+      "claim": "The primary feeling immediately belonging to the primary content likewise has no intentionality; it undergoes a feeling-apprehension, becoming intentional feeling founded in the sensible-theoretical appearance and making possible a higher-stage feeling-appearance.",
+      "quote": "*Likewise the primary feeling undergoes a \"feeling-apprehension,\" it becomes intentional feeling, which is founded in the sensible-theoretical appearance and makes possible a higher-stage appearance: so to speak, the feeling-appearance.*"
+    },
+    {
+      "id": "intentionalitaet/hua43-2/011",
+      "locator": "husserliana-43-2-studien-zur-struktur-des-bewusstseins-commentary#h3-s-4-feeling-sensibility-and-intentionality",
+      "primary_locator": "Hua XLIII/2, Part III § 4",
+      "term": "emotional intentional rays",
+      "status": "introduced",
+      "claim": "Feeling-apprehension consists of emotional intentional rays and ray-complexes founded by the underlying theoretical ray-complexes that form a unity of theoretical appearance, and a part of the theoretical rays may remain uncovered, so that the feeling-apprehension is selective in its founding.",
+      "quote": "*Feeling-apprehension, likewise, consists of emotional \"intentional rays\" and ray-complexes, founded by the underlying ray-complexes that form a unity of theoretical appearance.*"
+    },
+    {
+      "id": "intentionalitaet/hua43-2/012",
+      "locator": "husserliana-43-2-studien-zur-struktur-des-bewusstseins-commentary#h3-s-4-feeling-sensibility-and-intentionality",
+      "primary_locator": "Hua XLIII/2, Part III § 4",
+      "term": "double intentionality / double Repräsentanten",
+      "status": "introduced",
+      "claim": "The parallel between theoretical and feeling-apprehension is grounded at the level of the Repräsentanten: a single immanent material, primary content and primary feeling fused in inner consciousness, bears a double intentionality through double Repräsentanten, the value-intentionality being founded in but not reducible to the theoretical.",
+      "quote": "the *complex of primary contents* bears a *double intentionality* through *double Repräsentanten*."
+    },
+    {
+      "id": "intentionalitaet/hua43-2/013",
+      "locator": "husserliana-43-2-studien-zur-struktur-des-bewusstseins-commentary#h3-s-4-feeling-sensibility-and-intentionality",
+      "primary_locator": "Hua XLIII/2, Part III § 4",
+      "term": "drive-sensibility resists the articulation",
+      "status": "criticized",
+      "claim": "Extending the picture to the drive-sphere, the objection at once arises that this is already intentionality, since the drive directed to the continuation of an agreeable tone already has a directedness-toward and its striving intention fulfills itself, finding satisfaction or dissatisfaction, so that drive seems to admit no layer of primary non-intentional drive-content.",
+      "quote": "*here at once the objection arises that this is already intentionality*: there is *already a directedness-toward*, the *striving intention fulfills itself*, *finds satisfaction or dissatisfaction*."
+    }
+  ],
+  "absences": []
+}

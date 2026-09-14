@@ -1,0 +1,114 @@
+{
+  "schema_version": 1,
+  "theme": "wesen",
+  "commentary": "husserliana-5-ideas-iii-commentary",
+  "source_sha256": "8f2dc2d3128d9af6d69e6ff7f334da6dfba099087d5891eea67fc54fba9b1ffd",
+  "extracted_at": "2026-09-14",
+  "extractor": {
+    "agent": "claude-code",
+    "prompt": "prompts/synthesis-pipeline/extraction-prompt.md",
+    "note": "Whole file grep-counted for the theme's search terms plus 'Wesensschau', 'immutable', 'innate', 'residuum' and 'free variation'. Closely read § 7 (lines 113-156), § 16 (285-292) and the opening of § 8 (157-202)."
+  },
+  "coverage": "partial",
+  "coverage_note": "Covers § 7 (regional concepts and genus-concepts) and § 16 (noema and essence) in full, and the opening paragraphs of § 8 (rational psychology and phenomenology), the densest section in the file. §§ 9-15 and the First Chapter were keyword-scanned only.",
+  "units": [
+    {
+      "id": "wesen/hua5-ideas3/001",
+      "locator": "husserliana-5-ideas-iii-commentary#h3-s7-regional-concepts-and-genus-concepts",
+      "primary_locator": "Ideas III § 7",
+      "stratum": "hua5-undated",
+      "term": "regional concept",
+      "status": "introduced",
+      "claim": "Regional concepts are said to be derivable a priori not by transcendental deduction but by following an apodictically evident transcendental clue, grasped step by step in seeing.",
+      "quote": "and yet it follows an apodictically evident \"transcendental clue,\" which leads us not to deduce but to find and grasp step by step through our own seeing"
+    },
+    {
+      "id": "wesen/hua5-ideas3/002",
+      "locator": "husserliana-5-ideas-iii-commentary#h3-s7-regional-concepts-and-genus-concepts",
+      "primary_locator": "Ideas III § 7",
+      "stratum": "hua5-undated",
+      "term": "region",
+      "status": "presupposed",
+      "claim": "There must be a priori as many ontologies as there are regional concepts, whether those ontologies turn out rich or meager in content.",
+      "quote": "such that a priori there must be as many ontologies as regional concepts"
+    },
+    {
+      "id": "wesen/hua5-ideas3/003",
+      "locator": "husserliana-5-ideas-iii-commentary#h3-s7-regional-concepts-and-genus-concepts",
+      "primary_locator": "Ideas III § 7",
+      "stratum": "hua5-undated",
+      "term": "logical essence",
+      "status": "introduced",
+      "claim": "Word-meanings as logical essences are said to be valid only if a corresponding essence, graspable through intuition as a noema, finds faithful expression in the logical concept.",
+      "quote": "if there is a corresponding essence, graspable through intuition as a corresponding noema, that finds its faithful \"expression\" in the logical concept"
+    },
+    {
+      "id": "wesen/hua5-ideas3/004",
+      "locator": "husserliana-5-ideas-iii-commentary#h3-s7-regional-concepts-and-genus-concepts",
+      "primary_locator": "Ideas III § 7",
+      "stratum": "hua5-undated",
+      "term": "essential intuition",
+      "status": "introduced",
+      "claim": "The essential intuition is said to be able to proceed on the ground of a singular imagination, which suffices to grasp the general essence.",
+      "quote": "The essential intuition can proceed on the ground of a singular imagination. It suffices to grasp the general essence"
+    },
+    {
+      "id": "wesen/hua5-ideas3/005",
+      "locator": "husserliana-5-ideas-iii-commentary#h3-s16-noema-and-essence",
+      "primary_locator": "Ideas III § 16",
+      "stratum": "hua5-undated",
+      "term": "noema and essence",
+      "status": "revised",
+      "claim": "The noema of a thing-intuition is declared not to be and not to contain the essence of the thing, the grasping of the one not being the grasping of the other.",
+      "quote": "is not and does not contain the essence of the thing. The grasping of the one is not the grasping of the other"
+    },
+    {
+      "id": "wesen/hua5-ideas3/006",
+      "locator": "husserliana-5-ideas-iii-commentary#h3-s16-noema-and-essence",
+      "primary_locator": "Ideas III § 16",
+      "stratum": "hua5-undated",
+      "term": "Erschauung",
+      "status": "introduced",
+      "claim": "Essential intuition (Erschauung) is reserved as a term for the intuitive grasping of essences, so that the intuition of the noema needs a different terminus.",
+      "quote": "Speaking of \"essential intuition\" (Erschauung) only for the intuitive grasping of essences, we need a different terminus for the intuition of the noema."
+    },
+    {
+      "id": "wesen/hua5-ideas3/007",
+      "locator": "husserliana-5-ideas-iii-commentary#h3-s16-noema-and-essence",
+      "primary_locator": "Ideas III § 16",
+      "stratum": "hua5-undated",
+      "term": "essence \"round square\"",
+      "status": "presupposed",
+      "claim": "The essence round square is said not to exist, while the presupposition of judging so is that round square is a meaning existing in the unity of the noema.",
+      "quote": "The essence \"round square\" does not exist; but to judge this, the presupposition is that \"round square\" is a meaning existing in this unity."
+    },
+    {
+      "id": "wesen/hua5-ideas3/008",
+      "locator": "husserliana-5-ideas-iii-commentary#h3-s16-noema-and-essence",
+      "primary_locator": "Ideas III § 16",
+      "stratum": "hua5-undated",
+      "term": "essences and essential individualities",
+      "status": "introduced",
+      "claim": "Judging ontologically about essences rather than phenomenologically about the noema is called an essential change of judgment-posture that oversteps phenomenology into ontology.",
+      "quote": "As soon as we perform the required change of judgment-direction, we have overstepped the domain of phenomenology and entered that of ontology."
+    },
+    {
+      "id": "wesen/hua5-ideas3/009",
+      "locator": "husserliana-5-ideas-iii-commentary#h3-s8-rational-psychology-and-phenomenology-experimental-psychology",
+      "primary_locator": "Ideas III § 8",
+      "stratum": "hua5-undated",
+      "term": "essential truths",
+      "status": "presupposed",
+      "claim": "All phenomenological truths are said to belong to rational psychology, first those relating to the reell essential moments of possible experiences.",
+      "quote": "it is certain in advance that all phenomenological truths belong to rational psychology - first and foremost all those relating to the real (reell) essential moments of possible experiences"
+    }
+  ],
+  "absences": [
+    {
+      "locator": "husserliana-5-ideas-iii-commentary#h3-s16-noema-and-essence",
+      "expected_because": "The section separates the grasping of the noema from the grasping of the ontic essence and hands the essence over to ontology, so it is where a claim about essences as a phenomenological residuum, or as innate or immutable natures, would fall.",
+      "absent_terms": ["residuum", "immutable", "innate", "true and immutable nature", "simple nature", "free variation", "Wesensschau"],
+      "note": "Bears on gap-007. The commentary's essence-vocabulary is 'essential intuition (Erschauung)' and 'ontic essence'; none of the Cartesian vocabulary appears anywhere in the file."
+    }
+  ]
+}

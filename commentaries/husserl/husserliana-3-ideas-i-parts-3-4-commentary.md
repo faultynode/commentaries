@@ -6,6 +6,8 @@ wordpress_id: 410
 
 # Third Part: Concerning the Methodology and Problematic of Pure Phenomenology
 
+*A commentary on Parts Three and Four of Husserl's* Ideas*, First Book (Husserliana III/1). The First Book appeared in Husserl's lifetime in three almost entirely identical editions, in 1913, 1922 and 1928; Husserliana III/1 reproduces the text of those editions alone, while Husserl's handwritten additions toward a revision are held separately, among the supplementary texts of III/2. Edited by Karl Schuhmann.*
+
 ## **First Chapter: Methodological Preliminary Considerations**
 
 ### **§ 63\. The Particular Significance of Methodological Considerations for Phenomenology**

@@ -1,0 +1,84 @@
+{
+  "schema_version": 1,
+  "theme": "wesen",
+  "commentary": "husserliana-19-1-fifth-logical-investigation-commentary",
+  "source_sha256": "481ad7323da6ba1f2a4c7dc3e8a9b60a2e5b201db5c01ed34842809e11508c8e",
+  "extracted_at": "2026-09-14",
+  "extractor": {
+    "agent": "claude-code",
+    "prompt": "prompts/synthesis-pipeline/extraction-prompt.md",
+    "note": "Whole file grep-scanned for the theme's search terms plus 'Wesensschau', 'eidetic', 'immutable', 'innate', 'residuum' and 'Descartes'. Closely read § 21 (lines 367-388) and § 23 (425-440); §§ 10, 15 and 35 were keyword-scanned."
+  },
+  "coverage": "partial",
+  "coverage_note": "Covers § 21 (the intentional and the meaning-essence) in full and § 23 (matter as a founding act of mere presenting) for its essential-law statement. The rest of the Investigation - Chapter One, the remainder of Chapters Two to Four, and the Appendix - was keyword-scanned only. Note that this commentary's essence-vocabulary is almost entirely 'intentional essence' and 'meaning-essence' in the Investigations' technical sense, not the eidetic sense of later Husserl.",
+  "units": [
+    {
+      "id": "wesen/lu5/001",
+      "locator": "husserliana-19-1-fifth-logical-investigation-commentary#h3-s21-the-intentional-and-the-meaning-essence",
+      "primary_locator": "LU V § 21",
+      "stratum": "lu5-a-1901",
+      "term": "intentionales Wesen",
+      "status": "introduced",
+      "claim": "The unity of quality and matter, which makes up only a part of the full act, is designated the intentional essence of the act.",
+      "quote": "it would be suitable to designate the *unity of both* — which makes up only a *part* of the full act — as the *intentional essence* (intentionales Wesen) of the act"
+    },
+    {
+      "id": "wesen/lu5/002",
+      "locator": "husserliana-19-1-fifth-logical-investigation-commentary#h3-s21-the-intentional-and-the-meaning-essence",
+      "primary_locator": "LU V § 21",
+      "stratum": "lu5-a-1901",
+      "term": "bedeutungsmäßiges Wesen",
+      "status": "introduced",
+      "claim": "Where acts function as meaning-conferring in expressions, the intentional essence is called the meaning-essence, whose ideating abstraction yields the meaning in the ideal sense.",
+      "quote": "there shall more specifically be talk of the *meaning-essence* (bedeutungsmäßiges Wesen) of the act. Its *ideating abstraction* yields the *meaning* in our ideal sense."
+    },
+    {
+      "id": "wesen/lu5/003",
+      "locator": "husserliana-19-1-fifth-logical-investigation-commentary#h3-s21-the-intentional-and-the-meaning-essence",
+      "primary_locator": "LU V § 21",
+      "stratum": "lu5-a-1901",
+      "term": "essential identity",
+      "status": "introduced",
+      "claim": "Two presentations are said to be in essence the same if, on the basis of each taken analytically, exactly the same and nothing else could be asserted about the presented thing.",
+      "quote": "two presentations are *in essence the same* if, on the basis of *each* of them, taken purely for itself (hence *analytically*), *exactly the same* and nothing else could be asserted about the presented thing"
+    },
+    {
+      "id": "wesen/lu5/004",
+      "locator": "husserliana-19-1-fifth-logical-investigation-commentary#h3-s21-the-intentional-and-the-meaning-essence",
+      "primary_locator": "LU V § 21",
+      "stratum": "lu5-a-1901",
+      "term": "essence",
+      "status": "presupposed",
+      "claim": "Having the same presentation is explained as having presentations on the basis of the same matter, so that in essence the presentation is the same despite other phenomenological differences.",
+      "quote": "In \"essence\" we then have in fact the same presentation despite other phenomenological differences."
+    },
+    {
+      "id": "wesen/lu5/005",
+      "locator": "husserliana-19-1-fifth-logical-investigation-commentary#h3-s21-the-intentional-and-the-meaning-essence",
+      "primary_locator": "LU V § 21",
+      "stratum": "lu5-a-1901",
+      "term": "phenomenological essential differences",
+      "status": "presupposed",
+      "claim": "A footnote states that in the ideative grasping of the phenomenological essential differences everything empirically psychological in the exemplifications drops out.",
+      "quote": "in the ideative grasping of the phenomenological essential differences, everything empirically psychological in the exemplifications becomes irrelevant and drops out"
+    },
+    {
+      "id": "wesen/lu5/006",
+      "locator": "husserliana-19-1-fifth-logical-investigation-commentary#h3-s23-the-conception-of-matter-as-a-founding-act-of-mere-presenting",
+      "primary_locator": "LU V § 23",
+      "stratum": "lu5-a-1901",
+      "term": "essential law",
+      "status": "introduced",
+      "claim": "That a desired object not at the same time presented is simply unthinkable is said to raise a claim to apriority, the general proposition asserting it being an essential law evident with evidence.",
+      "quote": "This is a state of affairs raising claim to *apriority*; the general proposition asserting it is an *essential law* evident with *evidence*."
+    }
+  ],
+  "absences": [
+    {
+      "locator": "husserliana-19-1-fifth-logical-investigation-commentary#h3-s21-the-intentional-and-the-meaning-essence",
+      "expected_because": "This is the section that coins Wesen as a technical term of the Investigations and grounds essential identity in an analytic criterion, so it is where the intuitive grasping of essences would have to be invoked if the Investigations secured essence that way.",
+      "absent_terms": ["Wesensschau", "eidetic", "free variation", "immutable", "innate", "Descartes", "simple nature", "residuum"],
+      "note": "The section's criterion of essential sameness is analytic (what can be asserted on the basis of each presentation), and the only act named is ideating abstraction; the later eidetic vocabulary is not yet in play."
+    }
+  ]
+}

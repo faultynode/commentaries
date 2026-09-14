@@ -1,0 +1,96 @@
+{
+  "schema_version": 1,
+  "commentary": "heidegger-ga-20-prolegomena-zur-geschichte-des-zeitbegriffs-commentary",
+  "source_sha256": "30416fcea761ee439a1e714cce8c61ed361ef1ef9e776b844fe15ad7cf060e0c",
+  "extracted_at": "2026-09-09",
+  "extractor": {
+    "agent": "claude-code",
+    "prompt": "prompts/inheritance-prompt.md",
+    "note": "source_sha256 is the LF digest (CRLF checkout; local validate reports a false staleness, CI on LF passes). The Preparatory Part of GA 20 is an immanent critique of Husserl that runs the engagement through §5 (intentionality, via Brentano), §7 (the apriori, via Descartes, Kant, Plato), and §§12-13 (the double neglect of the question of being, via Husserl, Dilthey, Scheler, and the Greek tradition). One record per commentary covering all predecessors."
+  },
+  "coverage": "partial",
+  "coverage_note": "Covers the immanent critique of the GA 20 Preparatory Part: Husserl (the phenomenological reduction disregards the reality of the intentional and determines the being of the acts in advance, theoretically-dogmatically, as reality; phenomenology is unphenomenological in the basic task of determining its own field, winning the being-distinction consciousness/reality without asking after the being of either or the sense of being), Brentano (recognized intentionality as the criterion dividing psychic from physical, taking himself to renew Aristotle and scholasticism, and taught Husserl to see it, though crude classificatory acquaintance falls short of understanding its ownmost sense), Descartes (the apriori tied to knowing and to the primacy of the knowledge of subjectivity grounded in the cogito sum, res cogitans), Kant (the entanglement of the apriori with subjectivity made especially stubborn by binding it to the epistemological problem of the transcendent validity of synthetic a priori judgments), Plato (the discoverer of the apriori, whose discovery is really identical with the discovery of the concept of being in Parmenides and Plato, so that a Platonism operates within phenomenology), Dilthey (the impulse of a personalistic over against a naturalistic psychology, taken up by Husserl, who does not get beyond Dilthey), Scheler (the person as act-performer whose being determines the being of the acts, with silence on the manner of being of act-performance), and Aristotle (the being-determinations Plato and Aristotle discovered in outline still ruling wherever being is handled without express questioning, the Sophist's question fallen silent since Aristotle). Not covered: the Main Part's analysis of Dasein, care, death, and time.",
+  "engagements": [
+    {
+      "id": "inh/ga20/001",
+      "locator": "heidegger-ga-20-prolegomena-zur-geschichte-des-zeitbegriffs-commentary#h4-s-5-intentionality",
+      "primary_locator": "GA 20 §5",
+      "predecessor": { "author": "Franz Brentano" },
+      "mode": "acknowledged-debt",
+      "claim": "Brentano recognized intentionality as the structure constituting a psychic phenomenon and the criterion dividing the psychic from the physical, taking himself merely to renew Aristotle and scholasticism, and it was through Brentano that Husserl learned to see it — though a gulf separates crude classificatory acquaintance from understanding its ownmost sense.",
+      "quote": "Brentano recognized intentionality as the structure constituting the nature of a psychic phenomenon and made it the criterion dividing the psychic from the physical, taking himself merely to renew what Aristotle and scholasticism knew; through Brentano, Husserl learned to see it."
+    },
+    {
+      "id": "inh/ga20/002",
+      "locator": "heidegger-ga-20-prolegomena-zur-geschichte-des-zeitbegriffs-commentary#h4-s-7-the-original-sense-of-the-apriori",
+      "primary_locator": "GA 20 §7",
+      "predecessor": { "author": "René Descartes" },
+      "mode": "polemical-rejection",
+      "claim": "Since Descartes the apriori is ascribed first to knowing, under the thesis of the primacy of the knowledge of subjectivity grounded in the cogito sum, the res cogitans, so that the apriori is taken as a character specifically belonging to the subjective sphere.",
+      "quote": "Underlying this partition is the thesis of the *primacy of the knowledge of subjectivity*, as Descartes grounded it with the *cogito sum*, the *res cogitans*; hence one still calls the *apriori* a character specifically belonging to the subjective sphere"
+    },
+    {
+      "id": "inh/ga20/003",
+      "locator": "heidegger-ga-20-prolegomena-zur-geschichte-des-zeitbegriffs-commentary#h4-s-7-the-original-sense-of-the-apriori",
+      "primary_locator": "GA 20 §7",
+      "predecessor": { "author": "Immanuel Kant", "text": "Kritik der reinen Vernunft" },
+      "mode": "polemical-rejection",
+      "claim": "The entanglement of the apriori with subjectivity became especially stubborn in Kant, because he bound the question to his specifically epistemological problem, asking of the synthetic a priori judgments whether and how they have transcendent validity.",
+      "quote": "The entanglement of *apriori* with subjectivity became especially stubborn in Kant because he bound the question to his specifically epistemological problem, asking of the synthetic *a priori* judgments whether and how they have *transcendent* validity."
+    },
+    {
+      "id": "inh/ga20/004",
+      "locator": "heidegger-ga-20-prolegomena-zur-geschichte-des-zeitbegriffs-commentary#h4-s-7-the-original-sense-of-the-apriori",
+      "primary_locator": "GA 20 §7",
+      "predecessor": { "author": "Plato", "text": "Sophist" },
+      "mode": "acknowledged-debt",
+      "claim": "Plato is the discoverer of the apriori, whose discovery is really identical with the discovery of the concept of being in Parmenides and Plato, so that owing to the dominance of that concept of being within phenomenology itself the apriori still stands in its horizon — a Platonism within phenomenology.",
+      "quote": "the discovery of the *apriori* hangs together with — is really *identical* with — the discovery of the concept of being in Parmenides and Plato, and that, owing to the dominance of that determinate concept of being *within phenomenology itself*, the *apriori* stands in *its* horizon"
+    },
+    {
+      "id": "inh/ga20/005",
+      "locator": "heidegger-ga-20-prolegomena-zur-geschichte-des-zeitbegriffs-commentary#h4-s-12-exhibiting-the-neglect-of-the-question-of-the-being-of-the-intentional",
+      "primary_locator": "GA 20 §12",
+      "predecessor": { "author": "Edmund Husserl", "text": "Ideen I" },
+      "mode": "polemical-rejection",
+      "claim": "The phenomenological reduction never asks after the specific being of the acts; it determines the being of the acts in advance, theoretically-dogmatically, as being in the sense of reality — the reality of a natural process, an object present-at-hand in the world.",
+      "quote": "The reduction never asks after the specific being of the acts; it determines the being of the acts in advance, *theoretically-dogmatically*, as being in the sense of *reality* — the reality of a natural process, an object present-at-hand in the world."
+    },
+    {
+      "id": "inh/ga20/006",
+      "locator": "heidegger-ga-20-prolegomena-zur-geschichte-des-zeitbegriffs-commentary#h4-s-13-exhibiting-the-neglect-of-the-question-of-the-sense-of-being-itself-and-of",
+      "primary_locator": "GA 20 §13",
+      "predecessor": { "author": "Edmund Husserl" },
+      "mode": "polemical-rejection",
+      "claim": "Phenomenology, whose principle is 'to the things themselves', is unphenomenological in the basic task of determining its own field, winning the most radical being-distinction of consciousness and reality without asking after the being of the beings it distinguishes or after the sense of being.",
+      "quote": "Phenomenology is therefore, in the basic task of determining its ownmost field, *un*phenomenological — while *taking itself* to be phenomenological."
+    },
+    {
+      "id": "inh/ga20/007",
+      "locator": "heidegger-ga-20-prolegomena-zur-geschichte-des-zeitbegriffs-commentary#h4-s-13-exhibiting-the-neglect-of-the-question-of-the-sense-of-being-itself-and-of",
+      "primary_locator": "GA 20 §13",
+      "predecessor": { "author": "Wilhelm Dilthey" },
+      "mode": "acknowledged-debt",
+      "claim": "Husserl took up the impulse of Dilthey's task of a personalistic over against a naturalistic psychology, understanding the psychic not as natural event but as spirit and person, yet Husserl does not get beyond Dilthey, who, lacking the means to pose the question of being, at least harboured the tendency toward it.",
+      "quote": "This critique of naturalism was open to Dilthey's tendencies, and Husserl took up their impulse — to carry out, phenomenologically, Dilthey's task of a *personalistic* over against a naturalistic psychology, understanding the psychic not as natural event but as *spirit and person*."
+    },
+    {
+      "id": "inh/ga20/008",
+      "locator": "heidegger-ga-20-prolegomena-zur-geschichte-des-zeitbegriffs-commentary#h4-s-13-exhibiting-the-neglect-of-the-question-of-the-sense-of-being-itself-and-of",
+      "primary_locator": "GA 20 §13",
+      "predecessor": { "author": "Max Scheler" },
+      "mode": "polemical-rejection",
+      "claim": "Scheler comes closer to the question by holding the person to be the act-performer whose being first determines the being of the acts, so that every psychological objectification is de-personalization, but on the manner of being of act-performance and act-performer there is silence.",
+      "quote": "when Heidegger asks positively *how* the being of the acts and of the person is determined, it stays at: acts are performed, and the person is the act-performer — over the *manner of being* of act-performance and act-performer there is *silence*."
+    },
+    {
+      "id": "inh/ga20/009",
+      "locator": "heidegger-ga-20-prolegomena-zur-geschichte-des-zeitbegriffs-commentary#h4-s-13-exhibiting-the-neglect-of-the-question-of-the-sense-of-being-itself-and-of",
+      "primary_locator": "GA 20 §13",
+      "predecessor": { "author": "Aristotle", "text": "Metaphysics" },
+      "mode": "destructive-appropriation",
+      "claim": "Wherever the being of beings is handled without express questioning, the being-determinations and categories that Plato and Aristotle discovered in outline are in effect and ruling, without the ground from which they were drawn being kept in living research-experience, so that since Aristotle the question of the sense of being has fallen silent.",
+      "quote": "the being-determinations and categories that Plato and Aristotle discovered in outline are *in effect*, ruling, without the ground from which they were drawn being kept in living research-experience."
+    }
+  ]
+}

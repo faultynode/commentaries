@@ -1,0 +1,233 @@
+{
+  "schema_version": 1,
+  "theme": "intentionalitaet",
+  "commentary": "husserliana-19-2-sixth-logical-investigation-commentary",
+  "source_sha256": "b8cda8b8a2a31d263455efa37437b0aefc01c6231f22bb078a8ff640c779cc85",
+  "extracted_at": "2026-09-09",
+  "extractor": {
+    "agent": "claude-code",
+    "prompt": "prompts/extraction-prompt.md",
+    "note": "source_sha256 is the LF digest (CRLF checkout; local validate reports a false staleness, CI on LF passes). Closely read the Introduction, the First Section (Chapters One-Three and Five: the doctrine of meaning-intention and meaning-fulfilment, the objectifying acts, disappointment and conflict, mere identification vs. fulfilment, the doctrine of fullness and of representation/apprehension, intentional vs. cognitive essence, the ideal of ultimate fulfilment, evidence and truth), and the opening of the Second Section on categorial intuition (§§ 43, 46-48). Not read in detail: §§ 1-7, 14-15, 17-20, 24, 29-36 (compatibility/incompatibility), 40-42, 44-45, 49-66 (categorial representation and the laws of genuine/improper thinking), and the whole Third Section (§§ 67-70, non-objectifying acts and the Aristotelian dispute). No chronology.json entry yet (P5 pending; the Sixth Investigation appeared in the A-edition of 1901 and was heavily revised for the B-edition of 1921, printed together with both texts in Husserliana XIX/2, ed. U. Panzer 1984)."
+  },
+  "coverage": "partial",
+  "coverage_note": "Covers the Introduction and the First Section's core doctrine plus the opening of the categorial-intuition analysis: intention/fulfilment as the master contrast, the objectifying acts defined by the identification-character of their fulfilment-syntheses, static vs. dynamic fulfilment and the doubt whether identifying coincidence is already an act of identification, the free/bound modification of the intention, perception as a web of partial intentions, disappointment as a synthesis of distinction, the founding of non-objectifying (e.g. wish-) fulfilment on an identification, fulfilment as intuitivization toward the 'itself', the doctrine of fullness as a third moment beside quality and matter, pure intuition vs. pure signification, the theory of representation (apprehension-matter/sense, apprehension-form, apprehended content), representation as the ultimate substratum of every act, meaningful vs. cognitive essence and the fulfilling sense, the adaequatio rei et intellectus as ideal of ultimate fulfilment, evidence and the fourfold concept of truth, 'is' and 'is not' as matter-differences, 'being is no real predicate', and categorial objectivities as given only in founded acts. Not covered: the compatibility/incompatibility chapter, the detailed theory of categorial representation, the laws of genuine and improper thinking, and the Third Section on non-objectifying acts.",
+  "units": [
+    {
+      "id": "intentionalitaet/lu6/001",
+      "locator": "husserliana-19-2-sixth-logical-investigation-commentary#h2-introduction",
+      "primary_locator": "Logical Investigations VI, Introduction",
+      "term": "meaning-intention / meaning-fulfilment",
+      "status": "introduced",
+      "claim": "The master-theme of the Sixth Investigation is the relation between meaning-intention and meaning-fulfilment, the contrast between an empty meaning-directedness and its intuitive fulfilment.",
+      "quote": "This pair names the master-theme of the whole Investigation: the contrast between an empty meaning-directedness and its intuitive fulfilment."
+    },
+    {
+      "id": "intentionalitaet/lu6/002",
+      "locator": "husserliana-19-2-sixth-logical-investigation-commentary#h2-introduction",
+      "primary_locator": "Logical Investigations VI, Introduction",
+      "term": "objectifying acts",
+      "status": "introduced",
+      "claim": "The objectifying acts are distinguished from all others in that the fulfilment-syntheses belonging to their sphere have the character of knowledge and of identification, the setting-into-one of what agrees.",
+      "quote": "A class of acts — the *objectifying* acts (*die objektivierenden Akte*) — is distinguished from all others in that the fulfilment-syntheses belonging to their sphere have the character of *knowledge* (*Erkenntnis*), of *identification* (*Identifizierung*)"
+    },
+    {
+      "id": "intentionalitaet/lu6/003",
+      "locator": "husserliana-19-2-sixth-logical-investigation-commentary#h3-s-8-the-dynamic-unity-between-expression-and-expressed-intuition-the-fulfilment",
+      "primary_locator": "Logical Investigations VI, § 8",
+      "term": "fulfilment-consciousness",
+      "status": "introduced",
+      "claim": "Knowledge of the object and fulfilment of the meaning-intention express, merely from different standpoints, the same state of affairs, and the talk of fulfilment gives the phenomenological essence of the knowledge-relation its better-characterizing expression.",
+      "quote": "The talk of knowledge of the object and of fulfilment of the meaning-intention thus express, merely from different standpoints, *the same* state of affairs."
+    },
+    {
+      "id": "intentionalitaet/lu6/004",
+      "locator": "husserliana-19-2-sixth-logical-investigation-commentary#h3-s-8-the-dynamic-unity-between-expression-and-expressed-intuition-the-fulfilment",
+      "primary_locator": "Logical Investigations VI, § 8 (Zusatz)",
+      "term": "identifying coincidence vs. act of identification",
+      "status": "revised",
+      "claim": "A doubt (which the later inquiry will find serious) arises that the lived coincidence-unity of meaning-intention and intuition grounds no act of relating identification, no intentional consciousness of identity in which the identity first becomes objective as a meant unity.",
+      "quote": "the lived coincidence-unity grounds no act of *relating* identification, no intentional consciousness of identity in which the identity would first become *objective* to us as a meant unity."
+    },
+    {
+      "id": "intentionalitaet/lu6/005",
+      "locator": "husserliana-19-2-sixth-logical-investigation-commentary#h3-s-10-the-more-comprehensive-class-of-fulfilment-experiences-intuitions-as-intent",
+      "primary_locator": "Logical Investigations VI, § 10",
+      "term": "perception as a web of partial intentions",
+      "status": "introduced",
+      "claim": "Every perception and imagination is a web of partial intentions fused into the unity of a total intention whose correlate is the thing, while the correlates of the partial intentions are thingly parts and moments.",
+      "quote": "*every perception and imagination is a web of partial intentions, fused into the unity of a total intention*. The correlate of this latter is the *thing*, while the correlates of those partial intentions are *thingly parts and moments*."
+    },
+    {
+      "id": "intentionalitaet/lu6/006",
+      "locator": "husserliana-19-2-sixth-logical-investigation-commentary#h3-s-10-the-more-comprehensive-class-of-fulfilment-experiences-intuitions-as-intent",
+      "primary_locator": "Logical Investigations VI, § 10",
+      "term": "intention vs. expectation",
+      "status": "introduced",
+      "claim": "Intention is not expectation: it is not essential to an intention to be directed upon a future occurrence, since the seen piece of an incomplete pattern is beset with intentions toward completion without anything being expected.",
+      "quote": "*Intention is not expectation*; it is not essential to it to be directed upon a future occurrence."
+    },
+    {
+      "id": "intentionalitaet/lu6/007",
+      "locator": "husserliana-19-2-sixth-logical-investigation-commentary#h3-s-11-disappointment-and-conflict-synthesis-of-distinction",
+      "primary_locator": "Logical Investigations VI, § 11",
+      "term": "disappointment / conflict as synthesis of distinction",
+      "status": "introduced",
+      "claim": "An intention disappoints itself in the manner of conflict only by being a part of a more comprehensive intention whose complementary part fulfils itself, so that with simple or isolated acts there can be no talk of conflict.",
+      "quote": "*an intention disappoints itself in the manner of conflict only by being a part of a more comprehensive intention whose complementary part fulfils itself.*"
+    },
+    {
+      "id": "intentionalitaet/lu6/008",
+      "locator": "husserliana-19-2-sixth-logical-investigation-commentary#h3-s-12-total-and-partial-identification-and-distinction-as-the-common-phenomenolog",
+      "primary_locator": "Logical Investigations VI, § 12",
+      "term": "the copula and objective identity",
+      "status": "introduced",
+      "claim": "To the bare 'is' there belongs everywhere objective identity, to the 'is not' non-identity or conflict, while the more special relations of ordering-in and exclusion require further expressive means such as the adjectival and substantival forms.",
+      "quote": "To the bare *is* belongs everywhere *objective identity* überhaupt, to the *is not* *non-identity* (conflict)."
+    },
+    {
+      "id": "intentionalitaet/lu6/009",
+      "locator": "husserliana-19-2-sixth-logical-investigation-commentary#h3-s-13-the-synthesis-of-knowledge-as-the-form-of-fulfilment-characteristic-of-the",
+      "primary_locator": "Logical Investigations VI, § 13",
+      "term": "founded fulfilment of non-objectifying acts",
+      "status": "introduced",
+      "claim": "Wish-fulfilment is founded in an identification, for the wish-intention can find its fulfilling satisfaction only by the bare presentation of the wished transforming itself into the conform for-perception, though this identification does not exhaust but only founds the self-satisfying of the wish-quality.",
+      "quote": "the wish-intention can find its fulfilling satisfaction only by the bare presentation of the wished, underlying it, transforming itself into the conform *for-perception* (*Fürwahrnehmung*)"
+    },
+    {
+      "id": "intentionalitaet/lu6/010",
+      "locator": "husserliana-19-2-sixth-logical-investigation-commentary#h3-s-13-the-synthesis-of-knowledge-as-the-form-of-fulfilment-characteristic-of-the",
+      "primary_locator": "Logical Investigations VI, § 13",
+      "term": "acts of meaning and of intuiting as one class",
+      "status": "introduced",
+      "claim": "The acts of meaning-intention and of meaning-fulfilment, the acts of thinking just as well as those of intuiting, belong to a single class of acts, the objectifying, so that other-kinded acts never function as sense-givers.",
+      "quote": "the acts of meaning-intention, just as well as those of meaning-fulfilment — the acts of \"thinking\" just as well as those of intuiting — belong to a single class of acts, to the objectifying"
+    },
+    {
+      "id": "intentionalitaet/lu6/011",
+      "locator": "husserliana-19-2-sixth-logical-investigation-commentary#h3-s-16-mere-identification-and-fulfilment",
+      "primary_locator": "Logical Investigations VI, § 16",
+      "term": "fulfilment as intuitivization",
+      "status": "introduced",
+      "claim": "In every fulfilment there takes place a more or less perfect intuitivization in which we experience, as it were, a 'that is it itself', the fulfilling act conferring on the intention the fullness of the 'itself' and bringing it more directly to the thing.",
+      "quote": "In fulfilment we experience, as it were, a *that is it itself* (*das ist es selbst*)."
+    },
+    {
+      "id": "intentionalitaet/lu6/012",
+      "locator": "husserliana-19-2-sixth-logical-investigation-commentary#h3-s-21-the-fullness-of-the-presentation",
+      "primary_locator": "Logical Investigations VI, § 21",
+      "term": "fullness",
+      "status": "introduced",
+      "claim": "Fullness is, beside quality and matter, a characteristic moment of presentations: a positive component only with the intuitive presentations and a lack with the signitive, which merely point to the object without anything of it becoming living in them.",
+      "quote": "This *fullness* is therefore, beside *quality* and *matter*, a *characteristic moment* of the presentations — a positive component, to be sure, only with the intuitive presentations, a *lack* with the signitive."
+    },
+    {
+      "id": "intentionalitaet/lu6/013",
+      "locator": "husserliana-19-2-sixth-logical-investigation-commentary#h3-s-23-the-weight-relations-between-intuitive-and-signitive-content-of-one-and-the",
+      "primary_locator": "Logical Investigations VI, § 23",
+      "term": "pure intuition / pure signification",
+      "status": "introduced",
+      "claim": "The limiting case of pure intuition is a presentation that contains no signitive content at all, in which everything meant is also presented; its opposite limiting case, pure signification, is the pure meaning-intention that presents no determinacy of its object.",
+      "quote": "the presentation contains *no* signitive content at all. Everything in it is fullness; no part, no side, no determinacy of its object that is not intuitively presented, none that is merely *indirectly co-meant*."
+    },
+    {
+      "id": "intentionalitaet/lu6/014",
+      "locator": "husserliana-19-2-sixth-logical-investigation-commentary#h3-s-26-continuation-representation-or-apprehension-the-matter-as-the-apprehension",
+      "primary_locator": "Logical Investigations VI, § 26",
+      "term": "representation / apprehension-form",
+      "status": "introduced",
+      "claim": "The phenomenological unity between matter and representant, insofar as it lends the latter its character as representant, is the form of representation, and the whole produced through it is the representation simply (Repräsentation schlechthin).",
+      "quote": "We therefore call the *phenomenological unity between matter and representant*, insofar as it lends the latter the character *as* representant, the *form of representation*, and the whole produced through it the *representation* simply (*Repräsentation schlechthin*)."
+    },
+    {
+      "id": "intentionalitaet/lu6/015",
+      "locator": "husserliana-19-2-sixth-logical-investigation-commentary#h3-s-26-continuation-representation-or-apprehension-the-matter-as-the-apprehension",
+      "primary_locator": "Logical Investigations VI, § 26",
+      "term": "apprehension-matter, apprehension-form, apprehended content",
+      "status": "introduced",
+      "claim": "In every apprehension one must distinguish phenomenologically the apprehension-matter or apprehension-sense (the matter giving the sense in which the content is apprehended), the apprehension-form, and the apprehended content, the last to be distinguished from the object of the apprehension.",
+      "quote": "we would have to distinguish phenomenologically, in every apprehension: *apprehension-matter* or *apprehension-sense*, *apprehension-form*, and *apprehended content* — which last is to be distinguished from the *object of the apprehension*."
+    },
+    {
+      "id": "intentionalitaet/lu6/016",
+      "locator": "husserliana-19-2-sixth-logical-investigation-commentary#h3-s-27-representations-as-necessary-presentational-substrata-in-all-acts-last-clar",
+      "primary_locator": "Logical Investigations VI, § 27",
+      "term": "representation as substratum of all acts",
+      "status": "introduced",
+      "claim": "Every objectifying act includes a representation in itself, and since every act is either objectifying or founded in such an act, the ultimate foundation of all acts are presentations in the sense of representations.",
+      "quote": "Hence the *ultimate foundation of all acts* are \"*presentations*\" in the sense of *representations* (*Repräsentationen*)."
+    },
+    {
+      "id": "intentionalitaet/lu6/017",
+      "locator": "husserliana-19-2-sixth-logical-investigation-commentary#h3-s-28-intentional-essence-and-fulfilling-sense-cognitive-essence-intuitions-in-sp",
+      "primary_locator": "Logical Investigations VI, § 28",
+      "term": "fulfilling sense",
+      "status": "introduced",
+      "claim": "The fulfilling sense, as the intentional essence of the fulfilling intuitive act, coincides with the meaningful essence of the meaning-intention, only the fullness of the intuition falling outside this coincidence.",
+      "quote": "the *fulfilling sense*, as the *intentional essence* of the fulfilling intuitive act, coincides with the meaningful essence (the intentional essence of the meaning-intention)."
+    },
+    {
+      "id": "intentionalitaet/lu6/018",
+      "locator": "husserliana-19-2-sixth-logical-investigation-commentary#h3-s-28-intentional-essence-and-fulfilling-sense-cognitive-essence-intuitions-in-sp",
+      "primary_locator": "Logical Investigations VI, § 28",
+      "term": "cognitive essence",
+      "status": "introduced",
+      "claim": "Beside the merely meaningful essence (quality and matter) one must form the concept of the cognitive essence, the entire content coming into consideration for the knowledge-function, comprising quality, matter, and intuitively representing content, the last falling away with the empty intentions.",
+      "quote": "To it then belong the three components *quality, matter, and fullness* (or intuitive content); or, if we want to avoid the overlapping of the two latter and have disjunct components: *quality, matter, and intuitively representing content*"
+    },
+    {
+      "id": "intentionalitaet/lu6/019",
+      "locator": "husserliana-19-2-sixth-logical-investigation-commentary#h3-s-37-the-fulfilment-function-of-perception-the-ideal-of-the-ultimate-fulfilment",
+      "primary_locator": "Logical Investigations VI, § 37",
+      "term": "ultimate fulfilment / adaequatio rei et intellectus",
+      "status": "introduced",
+      "claim": "Where a presentation-intention procures itself ultimate fulfilment through an ideally perfect perception, the genuine adaequatio rei et intellectus establishes itself: the objective is really present exactly as that as which it is intended, with no partial intention left unfulfilled.",
+      "quote": "there the genuine *adaequatio rei et intellectus* has established itself: *the objective is really \"present\" or \"given\" exactly as that as which it is intended*"
+    },
+    {
+      "id": "intentionalitaet/lu6/020",
+      "locator": "husserliana-19-2-sixth-logical-investigation-commentary#h3-s-39-evidence-and-truth",
+      "primary_locator": "Logical Investigations VI, § 39",
+      "term": "evidence and truth",
+      "status": "introduced",
+      "claim": "Truth, as correlate of an identifying act, is a state of affairs, and as correlate of a coinciding identification an identity, the full agreement between meant and given as such, experienced in evidence as the actual performance of the adequate identification.",
+      "quote": "*truth*, as correlate of an identifying act, is a *state of affairs*, and as correlate of a coinciding identification an *identity* — *the full agreement between meant and given as such*."
+    },
+    {
+      "id": "intentionalitaet/lu6/021",
+      "locator": "husserliana-19-2-sixth-logical-investigation-commentary#h3-s-39-evidence-and-truth",
+      "primary_locator": "Logical Investigations VI, § 39",
+      "term": "is / is not as differences of matter",
+      "status": "revised",
+      "claim": "Being and non-being are not oppositions of judgment-quality: every judgment is positing, and the differences between 'is' and 'is not' are differences of the intentional matter, the 'is' expressing predicative agreement and the 'is not' predicative conflict.",
+      "quote": "The differences between *is* and *is not* are differences of the *intentional matter*. Just as the *is*, in the manner of meaning-intention, expresses the predicative *agreement*, so the *is not* expresses the predicative *conflict*."
+    },
+    {
+      "id": "intentionalitaet/lu6/022",
+      "locator": "husserliana-19-2-sixth-logical-investigation-commentary#h3-s-43-the-objective-correlates-of-the-categorial-forms-are-no-real-moments",
+      "primary_locator": "Logical Investigations VI, § 43",
+      "term": "being is no real predicate",
+      "status": "introduced",
+      "claim": "Appropriating the Kantian proposition that being is no real predicate, Husserl holds that the categorial 'is' fulfils itself in no sensuous perception: colour can be seen but not being-coloured, smoothness felt but not being-smooth, tone heard but not being-sounding.",
+      "quote": "The *colour* I can see, not the *being-coloured*. The *smoothness* I can feel, not the *being-smooth*. The *tone* I can hear, not the *being-sounding*."
+    },
+    {
+      "id": "intentionalitaet/lu6/023",
+      "locator": "husserliana-19-2-sixth-logical-investigation-commentary#h3-s-46-phenomenological-analysis-of-the-distinction-between-sensuous-and-categoria",
+      "primary_locator": "Logical Investigations VI, § 46",
+      "term": "categorial intuition in founded acts",
+      "status": "introduced",
+      "claim": "The categorial of intuiting and knowing lies in founded acts, which constitute new objectivities that appear as real and self-given though they could not be given in the founding acts alone, and in these acts stating thinking finds its fulfilment.",
+      "quote": "In such *founded acts* lies the *categorial* of intuiting and knowing; in them the *stating thinking*, where it functions as expression, finds its fulfilment"
+    },
+    {
+      "id": "intentionalitaet/lu6/024",
+      "locator": "husserliana-19-2-sixth-logical-investigation-commentary#h3-s-48-characterization-of-the-categorial-acts-as-founded-acts",
+      "primary_locator": "Logical Investigations VI, § 48",
+      "term": "categorial form vs. sensuous connection",
+      "status": "introduced",
+      "claim": "The forms of categorial connection are forms belonging to the manner of the act-synthesis, constituting themselves objectively in the synthetic acts built upon sensibility, and must not be mingled with the sensuous connection-forms that are actual moments present in the real object.",
+      "quote": "the forms of *categorial* connection are forms belonging to the *manner of the act-synthesis* — hence forms which constitute themselves objectively in the *synthetic acts built upon sensibility*."
+    }
+  ],
+  "absences": []
+}

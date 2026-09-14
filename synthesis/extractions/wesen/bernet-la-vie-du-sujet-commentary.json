@@ -1,0 +1,105 @@
+{
+  "schema_version": 1,
+  "theme": "wesen",
+  "commentary": "bernet-la-vie-du-sujet-commentary",
+  "source_sha256": "4269d26270bb4f610dfccc053738781719d3fd12980aa525092b4633187232af",
+  "extracted_at": "2026-09-14",
+  "extractor": {
+    "agent": "claude-code",
+    "prompt": "prompts/synthesis-pipeline/extraction-prompt.md",
+    "note": "Whole file grep-scanned for the theme's search terms plus 'Wesensschau', 'immutable', 'innate', 'Descartes', 'residuum', 'free variation' and 'simple nature'. 'immutable' occurs once, of the ideal form of the sign, and is recorded as unit 006. Closely read chapter 4 section I (lines 873-896) and the noema section of chapter 2 (261-294)."
+  },
+  "coverage": "partial",
+  "coverage_note": "Covers chapter 4 section I (His Master's Voice: Derrida on the eidetic and phenomenological reductions) and chapter 2's 'The Noema as Ideal Signification of a Judgment'. Chapters 1, 3 and 5-8, and the rest of chapters 2 and 4, were keyword-scanned only.",
+  "units": [
+    {
+      "id": "wesen/bernet-vie/001",
+      "locator": "bernet-la-vie-du-sujet-commentary#h4-the-noema-as-ideal-signification-of-a-judgment",
+      "stratum": "lvds-1994",
+      "term": "act-essence",
+      "status": "introduced",
+      "claim": "In the Logical Investigations the ideal signification of a judgment is determined as an act-essence individualized in the intentional matter of each act of judging.",
+      "quote": "the ideal signification of a judgment is determined as an act-essence individualized in the intentional matter of each act of judging"
+    },
+    {
+      "id": "wesen/bernet-vie/002",
+      "locator": "bernet-la-vie-du-sujet-commentary#h4-the-noema-as-ideal-signification-of-a-judgment",
+      "stratum": "lvds-1994",
+      "term": "act-essence",
+      "status": "criticized",
+      "claim": "Husserl is said later to criticize that determination on the ground that ideal signification can be neither an identical noetic mode of intending nor, generally, an essence.",
+      "quote": "can be neither an identical noetic mode of intending a state of affairs nor, generally, an essence"
+    },
+    {
+      "id": "wesen/bernet-vie/003",
+      "locator": "bernet-la-vie-du-sujet-commentary#h4-the-noema-as-ideal-signification-of-a-judgment",
+      "stratum": "lvds-1994",
+      "term": "noematic essence",
+      "status": "introduced",
+      "claim": "The noematic essence of the proposition is said to be elaborated for logical purposes and to share hardly any common ground with the said as such of a punctual judgment about an intramundane state of affairs.",
+      "quote": "this noematic essence of the proposition, elaborated for logical purposes"
+    },
+    {
+      "id": "wesen/bernet-vie/004",
+      "locator": "bernet-la-vie-du-sujet-commentary#h4-the-noema-as-ideal-signification-of-a-judgment",
+      "stratum": "lvds-1994",
+      "term": "ideation",
+      "status": "presupposed",
+      "claim": "Every reflective consciousness of a noematic signification is said to imply an act of ideation and thereby to relate to the essence of the signification.",
+      "quote": "reflective consciousness of a noematic signification implies an act of ideation and thereby relates to the essence of the signification."
+    },
+    {
+      "id": "wesen/bernet-vie/005",
+      "locator": "bernet-la-vie-du-sujet-commentary#h4-i-6",
+      "stratum": "lvds-1994",
+      "term": "science of essences",
+      "status": "criticized",
+      "claim": "It is asked whether there is really occasion to choose between phenomenology and a science of essences, since essences are what orient the analysis of phenomena.",
+      "quote": "Is there really occasion to choose between phenomenology and a science of essences when one knows that it is precisely essences that give the analysis of phenomena its orientation and thus prevent the dispersion of the phenomenological gaze?"
+    },
+    {
+      "id": "wesen/bernet-vie/006",
+      "locator": "bernet-la-vie-du-sujet-commentary#h4-i-6",
+      "stratum": "lvds-1994",
+      "term": "immutable form",
+      "status": "presupposed",
+      "claim": "The concrete presence of the sign in empirical reality is called only a particular representation of the ideal and immutable form of the sign.",
+      "quote": "the concrete presence of the sign in empirical reality (token) is only a particular representation of the ideal and immutable form of the sign (type)"
+    },
+    {
+      "id": "wesen/bernet-vie/007",
+      "locator": "bernet-la-vie-du-sujet-commentary#h4-i-6",
+      "stratum": "lvds-1994",
+      "term": "essences",
+      "status": "criticized",
+      "claim": "None of the Husserlian distinctions is said to concern two separate and autonomous essences, or to allow one to be derived from the other.",
+      "quote": "none of these distinctions can be understood as concerning two separate and autonomous essences, or as one derivable from the other"
+    },
+    {
+      "id": "wesen/bernet-vie/008",
+      "locator": "bernet-la-vie-du-sujet-commentary#h4-i-6",
+      "stratum": "lvds-1994",
+      "term": "eidetic reduction",
+      "status": "presupposed",
+      "claim": "A second moment of Derrida's critical interpretation is said to concern no longer the eidetic but the phenomenological reduction.",
+      "quote": "concerning no longer the *eidetic* but the *phenomenological* reduction (pp. 275–276)"
+    }
+  ],
+  "absences": [
+    {
+      "locator": "bernet-la-vie-du-sujet-commentary#h4-i-6",
+      "expected_because": "The section defends a science of essences against Derrida's critique and calls the sign's type an ideal and immutable form - the one place in this commentary where 'immutable' attaches to an ideality, and so the place a connection to Descartes' true and immutable natures would be made if it were made.",
+      "absent_terms": [
+        "Wesensschau",
+        "true and immutable",
+        "innate",
+        "innate idea",
+        "Descartes",
+        "residuum",
+        "free variation",
+        "simple nature"
+      ],
+      "note": "Bears on gap-007. 'Immutable' here qualifies the ideal type of a sign against its empirical token; it is not the Cartesian doctrine, and Descartes is not named in the section."
+    }
+  ]
+}

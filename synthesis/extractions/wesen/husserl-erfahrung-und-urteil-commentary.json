@@ -1,0 +1,120 @@
+{
+  "schema_version": 1,
+  "theme": "wesen",
+  "commentary": "husserl-erfahrung-und-urteil-commentary",
+  "source_sha256": "82c4ca54e212939aeb705d8aa3ecf44065fe852bd013910cfcf8326007d09b15",
+  "extracted_at": "2026-09-14",
+  "extractor": {
+    "agent": "claude-code",
+    "prompt": "prompts/synthesis-pipeline/extraction-prompt.md",
+    "note": "Opened against gap-007, which names this commentary's eidos and free-variation material as the pass it needs. Whole file grep-counted for 'immutable', 'innate', 'Descartes', 'residuum' and 'Wesensschau': all five are zero across the entire commentary. Closely read § 87 a-f (lines 946-969), § 90 (978-981), § 92 (992-995) and § 83 b (918-921)."
+  },
+  "coverage": "partial",
+  "coverage_note": "Covers § 87 (the method of essence-intuition, sub-sections a, c and f read in full and b, d, e scanned), § 90 (pure universality and a priori necessity), § 92 (the level-structure of pure universalities) and § 83 b (essential and non-essential types). Parts I and II, and the rest of Part III, were keyword-scanned only.",
+  "units": [
+    {
+      "id": "wesen/eu/001",
+      "locator": "husserl-erfahrung-und-urteil-commentary#h4-a-free-variation-as-the-basis-of-essence-intuition",
+      "primary_locator": "EU § 87 a",
+      "term": "free variation",
+      "status": "introduced",
+      "claim": "The universal standing out in the empirically given must be freed from its character of contingency by transforming an objectuality into an arbitrary example serving as guiding model for an endless manifold of variants.",
+      "quote": "The universal initially standing out in the empirically given must above all be freed from its character of contingency."
+    },
+    {
+      "id": "wesen/eu/002",
+      "locator": "husserl-erfahrung-und-urteil-commentary#h4-a-free-variation-as-the-basis-of-essence-intuition",
+      "primary_locator": "EU § 87 a",
+      "term": "allgemeines Wesen",
+      "status": "introduced",
+      "claim": "Through the manifold of reshapings an invariant is said to be necessarily maintained as the necessary general form without which an example of the sort would be unthinkable, and this is the general essence.",
+      "quote": "an invariant is necessarily maintained as the necessary general form without which something of this kind as an example of its sort would be entirely unthinkable. This is a general essence (*allgemeines Wesen*)."
+    },
+    {
+      "id": "wesen/eu/003",
+      "locator": "husserl-erfahrung-und-urteil-commentary#h4-a-free-variation-as-the-basis-of-essence-intuition",
+      "primary_locator": "EU § 87 a",
+      "term": "invariant",
+      "status": "introduced",
+      "claim": "The gaze can be directed upon the invariant as what prescribes the limits to all variation exercised in the mode of the arbitrary.",
+      "quote": "We can direct our gaze upon it as the necessarily invariant that prescribes the limits to all variation exercised in the mode of the \"arbitrary.\""
+    },
+    {
+      "id": "wesen/eu/004",
+      "locator": "husserl-erfahrung-und-urteil-commentary#h4-c-the-holding-in-grasp-of-the-whole-variation-manifold-as-the-basis-of-essence-i",
+      "primary_locator": "EU § 87 c",
+      "term": "eidos",
+      "status": "introduced",
+      "claim": "The eidos is gained as ideally identical, which only is as one over many, and only where the variation-manifold as plurality is never entirely released from grasp.",
+      "quote": "Only so do we gain the *eidos* as ideally identical — which only is as *hen epi pollōn* (one over many)."
+    },
+    {
+      "id": "wesen/eu/005",
+      "locator": "husserl-erfahrung-und-urteil-commentary#h4-f-variation-and-alteration",
+      "primary_locator": "EU § 87 f",
+      "term": "variation",
+      "status": "revised",
+      "claim": "Variation is distinguished from alteration: in variation the identity of the individual is let fall and re-imagined into other possible individuals.",
+      "quote": "In variation, by contrast, we let the identity of the individual fall away and re-imagine it into other possible individuals."
+    },
+    {
+      "id": "wesen/eu/006",
+      "locator": "husserl-erfahrung-und-urteil-commentary#h3-s90-pure-universality-and-a-priori-necessity",
+      "primary_locator": "EU § 90",
+      "term": "eidos",
+      "status": "presupposed",
+      "claim": "Pure universalities are said to prescribe rules to every actual thing, so that every actual colour must have the moment of brightness belonging inseparably to the pure eidos colour.",
+      "quote": "Every actual color must have the moment of brightness that belongs inseparably to the pure *eidos* color."
+    },
+    {
+      "id": "wesen/eu/007",
+      "locator": "husserl-erfahrung-und-urteil-commentary#h3-s90-pure-universality-and-a-priori-necessity",
+      "primary_locator": "EU § 90",
+      "term": "essential truths",
+      "status": "introduced",
+      "claim": "Essential truths are called a priori because they precede all factuality and all determinations from experience in their validity.",
+      "quote": "Therefore the essential truths are called a priori — preceding all factuality, all determinations from experience, in their validity."
+    },
+    {
+      "id": "wesen/eu/008",
+      "locator": "husserl-erfahrung-und-urteil-commentary#h3-s92-the-level-structure-of-pure-universalities-and-the-gaining-of-the-highest-co",
+      "primary_locator": "EU § 92",
+      "term": "eidos",
+      "status": "introduced",
+      "claim": "From one and the same example very different pure essences are reached by free variation, from the eidos red to the eidos colour as such by widening what is admitted into the variation.",
+      "quote": "From one and the same example as guiding image, one can arrive at very different pure essences through free variation."
+    },
+    {
+      "id": "wesen/eu/009",
+      "locator": "husserl-erfahrung-und-urteil-commentary#h3-s92-the-level-structure-of-pure-universalities-and-the-gaining-of-the-highest-co",
+      "primary_locator": "EU § 92",
+      "term": "region",
+      "status": "introduced",
+      "claim": "Regions are named the highest concrete genera, setting an insurmountable limit to all variation, since a fundamental concept of a region cannot be transformed into another through variation.",
+      "quote": "the highest concrete genera, which set an insurmountable limit to all variation. A fundamental concept of a region cannot be transformed into another through variation."
+    },
+    {
+      "id": "wesen/eu/010",
+      "locator": "husserl-erfahrung-und-urteil-commentary#h4-b-essential-and-non-essential-types-scientific-experience-leads-to-the-exhibitio",
+      "primary_locator": "EU § 83 b",
+      "term": "essential types",
+      "status": "introduced",
+      "claim": "Non-essential types are those whose conspicuous differences conceal an inner belonging-together, and scientific species-concepts seek through methodical experience to determine the essential types.",
+      "quote": "The scientific species-concepts seek, through systematic and methodical experience, to determine the essential types."
+    }
+  ],
+  "absences": [
+    {
+      "locator": "husserl-erfahrung-und-urteil-commentary#h4-a-free-variation-as-the-basis-of-essence-intuition",
+      "expected_because": "gap-007 asks whether Husserl's eidos is the phenomenological heir of Descartes' true and immutable natures, and whether the invariant of free variation is ever called a phenomenological residuum. This is the commentary's definitional statement of free variation and of the general essence, and so where either claim would be made.",
+      "absent_terms": ["true and immutable", "immutable", "innate", "innate idea", "simple nature", "Descartes", "residuum", "Wesensschau"],
+      "note": "Answers gap-007 negatively for this commentary, and the grep is file-wide: 'immutable', 'innate', 'Descartes', 'residuum' and 'Wesensschau' occur nowhere in it. The invariant is secured by arbitrariness of variation and named a general essence, never a residuum."
+    },
+    {
+      "locator": "husserl-erfahrung-und-urteil-commentary#h3-s90-pure-universality-and-a-priori-necessity",
+      "expected_because": "The section states why essential truths count as a priori and precede all factuality - the anti-empiricist point Descartes secures theologically through the eternal truths - and grounds it in pure possibility alone.",
+      "absent_terms": ["true and immutable", "immutable", "innate", "simple nature", "Descartes", "residuum", "Wesensschau"],
+      "note": "The a priori is grounded here in the realm of pure possibility opened from any concrete actuality, with no theological guarantee and no Cartesian vocabulary."
+    }
+  ]
+}
