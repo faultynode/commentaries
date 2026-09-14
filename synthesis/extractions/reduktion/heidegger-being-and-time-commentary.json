@@ -1,0 +1,80 @@
+{
+  "schema_version": 1,
+  "theme": "reduktion",
+  "commentary": "heidegger-being-and-time-commentary",
+  "source_sha256": "057922646a8715d015516477785fc240249c4a068ff4b49e9969d1e376fd5d39",
+  "extracted_at": "2026-09-14",
+  "extractor": {
+    "agent": "claude-code",
+    "prompt": "https://github.com/faultynode/prompts/blob/main/synthesis-pipeline/extraction-prompt.md",
+    "note": "Partial pass over §§ 6 and 7. As in the Sein und Zeit commentary the theme is present as Destruktion and as the phenomenological maxim, not as the Husserlian reduction; this record is keyed to the English translation's pagination."
+  },
+  "coverage": "partial",
+  "coverage_note": "Covers § 6 (the task of a destruction of the history of ontology) and § 7 (the phenomenological method of the investigation). The rest of the commentary is not covered.",
+  "units": [
+    {
+      "id": "reduktion/bt/001",
+      "locator": "heidegger-being-and-time-commentary#h3-s-6-the-task-of-a-destruction-of-the-history-of-ontology",
+      "primary_locator": "BT § 6",
+      "term": "Destruktion (destruction)",
+      "status": "introduced",
+      "claim": "The task is named as the destruction of the inherited stock of ancient ontology, carried out along the guiding thread of the question of Being, down to the original experiences in which the first determinations of Being were won.",
+      "quote": "This task we understand as the *destruction* (*Destruktion*), carried out along the guiding thread of the question of Being, of the inherited stock of ancient ontology, down to the original experiences in which the first and subsequently guiding determinations of Being were won."
+    },
+    {
+      "id": "reduktion/bt/002",
+      "locator": "heidegger-being-and-time-commentary#h3-s-6-the-task-of-a-destruction-of-the-history-of-ontology",
+      "primary_locator": "BT § 6",
+      "term": "destruction (its sense)",
+      "status": "revised",
+      "claim": "The destruction has no negative sense of shaking off the ontological tradition; it stakes out the tradition in its positive possibilities and within its limits.",
+      "quote": "The destruction equally has no negative sense of a shaking off of the ontological tradition. It is rather to stake out the tradition in its *positive possibilities*"
+    },
+    {
+      "id": "reduktion/bt/003",
+      "locator": "heidegger-being-and-time-commentary#h3-s-6-the-task-of-a-destruction-of-the-history-of-ontology",
+      "primary_locator": "BT § 6",
+      "term": "destruction (positive intention)",
+      "status": "presupposed",
+      "claim": "The destruction does not wish to bury the past in nullity: it has a positive intention and its negative function remains unexpressed and indirect.",
+      "quote": "But the destruction does not wish to bury the past in nullity; it has a *positive* intention; its negative function remains unexpressed and indirect."
+    },
+    {
+      "id": "reduktion/bt/004",
+      "locator": "heidegger-being-and-time-commentary#h3-s-6-the-task-of-a-destruction-of-the-history-of-ontology",
+      "primary_locator": "BT § 6",
+      "term": "destruction (first station)",
+      "status": "presupposed",
+      "claim": "In keeping with its positive tendency the destruction must first ask whether the interpretation of Being has ever been thematically brought together with the phenomenon of time.",
+      "quote": "In keeping with the positive tendency of the destruction, the question must first be asked whether and to what extent in the course of the history of ontology the interpretation of Being has been thematically brought together with the phenomenon of time"
+    },
+    {
+      "id": "reduktion/bt/005",
+      "locator": "heidegger-being-and-time-commentary#h3-s-6-the-task-of-a-destruction-of-the-history-of-ontology",
+      "primary_locator": "BT § 6",
+      "term": "destruction (of ancient ontology)",
+      "status": "presupposed",
+      "claim": "The destruction faces the task of interpreting the ground of ancient ontology in the light of the problematic of Temporality.",
+      "quote": "the destruction faces the task of interpreting the ground of ancient ontology in the light of the problematic of Temporality"
+    },
+    {
+      "id": "reduktion/bt/006",
+      "locator": "heidegger-being-and-time-commentary#h3-s-7-the-phenomenological-method-of-the-investigation",
+      "primary_locator": "BT § 7",
+      "term": "to the things themselves",
+      "status": "introduced",
+      "claim": "The title phenomenology expresses the maxim 'to the things themselves', against free-floating constructions and accidental findings.",
+      "quote": "The title \"phenomenology\" expresses a maxim that can be formulated as: \"to the things themselves!\""
+    },
+    {
+      "id": "reduktion/bt/007",
+      "locator": "heidegger-being-and-time-commentary#h3-s-7-the-phenomenological-method-of-the-investigation",
+      "primary_locator": "BT § 7",
+      "term": "phenomenological method",
+      "status": "presupposed",
+      "claim": "A concept of method is the more primordial the more it is rooted in engagement with the things themselves and the farther it removes itself from a technical device.",
+      "quote": "the more primordially it is rooted in engagement with the things themselves, and the farther it removes itself from what we call a technical device"
+    }
+  ],
+  "absences": []
+}

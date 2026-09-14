@@ -1,0 +1,68 @@
+{
+  "schema_version": 1,
+  "theme": "reduktion",
+  "commentary": "husserliana-39-die-lebenswelt-commentary",
+  "source_sha256": "d62704cb5caf45b6bdf8945916547e1f1c889ace9b84a84347f16fce9c32a105",
+  "extracted_at": "2026-09-14",
+  "extractor": {
+    "agent": "claude-code",
+    "prompt": "https://github.com/faultynode/prompts/blob/main/synthesis-pipeline/extraction-prompt.md",
+    "note": "Partial pass over Supplement II, § 2 and Text Nr. 5, where the reduction and the epoché carry argumentative weight."
+  },
+  "coverage": "partial",
+  "coverage_note": "Covers Supplement II (pre-givenness and affectivity), § 2 (the world pre-given as cultural world pointing back to nature) and Text Nr. 5 (the pure experiential world). The remaining texts of the volume carry hits and are not covered.",
+  "units": [
+    {
+      "id": "reduktion/hua39/001",
+      "locator": "husserliana-39-die-lebenswelt-commentary#h3-supplement-ii-pre-givenness-and-affectivity-the-constant-pre-givenness-of-the-wo",
+      "primary_locator": "Hua XXXIX, p. 25",
+      "term": "phenomenological reduction",
+      "status": "presupposed",
+      "claim": "Only phenomenology, under the title of the phenomenological reduction, has gone beyond the ordinary sporadic bringing-to-prominence of the subjective.",
+      "quote": "But only phenomenology, in its method under the title \"phenomenological reduction,\" has gone beyond the ordinary sporadic bringing-to-prominence of the subjective."
+    },
+    {
+      "id": "reduktion/hua39/002",
+      "locator": "husserliana-39-die-lebenswelt-commentary#h3-supplement-ii-pre-givenness-and-affectivity-the-constant-pre-givenness-of-the-wo",
+      "primary_locator": "Hua XXXIX, p. 25",
+      "term": "transcendental epoché",
+      "status": "criticized",
+      "claim": "Carrying out the phenomenological attitude already presupposes having the world of transcendental questions as horizon, so the epoché rests on a motivational structure of its own.",
+      "quote": "carrying out the phenomenological attitude already presupposes that we have the \"world\" of transcendental questions as horizon"
+    },
+    {
+      "id": "reduktion/hua39/003",
+      "locator": "husserliana-39-die-lebenswelt-commentary#h3-supplement-ii-pre-givenness-and-affectivity-the-constant-pre-givenness-of-the-wo",
+      "term": "phenomenological reduction (what it opens)",
+      "status": "presupposed",
+      "claim": "Through the reduction the previously anonymous subjectivity is opened as a total field of investigation and the object-world is re-situated as what appears within subjective life.",
+      "quote": "Through the phenomenological reduction, the previously anonymous subjectivity is opened up as a total field of investigation, and the object-world is re-situated as that which appears within subjective life."
+    },
+    {
+      "id": "reduktion/hua39/004",
+      "locator": "husserliana-39-die-lebenswelt-commentary#h4-s-2-the-world-pre-given-as-cultural-world-pointing-back-to-nature-die-als-kultur",
+      "term": "reduction to the primordial sphere",
+      "status": "presupposed",
+      "claim": "The constitution of intersubjectivity begins from a reduction to the primordial sphere of what is immediately-originally given to me alone.",
+      "quote": "(1) reduction to the primordial sphere of what is immediately-originally given to me alone"
+    },
+    {
+      "id": "reduktion/hua39/005",
+      "locator": "husserliana-39-die-lebenswelt-commentary#h3-text-nr-5-the-pure-experiential-world-the-perceivable-in-the-widest-sense-pre-gi",
+      "term": "reduction to pure nature",
+      "status": "introduced",
+      "claim": "A reduction to mere, pure nature can be carried out within the experiential world, so that a structure 'nature' runs unitarily through it.",
+      "quote": "One can carry out a reduction to mere, pure nature. Thus a structure \"nature\" runs unitarily through the experiential world."
+    },
+    {
+      "id": "reduktion/hua39/006",
+      "locator": "husserliana-39-die-lebenswelt-commentary#h3-text-nr-5-the-pure-experiential-world-the-perceivable-in-the-widest-sense-pre-gi",
+      "primary_locator": "Hua XXXIX, p. 46",
+      "term": "epoché on the general thesis",
+      "status": "criticized",
+      "claim": "It is asked what the method of subjecting the general thesis of the world to an epoché means, given that the world with all subjects is found as a constituted unity.",
+      "quote": "What does the method mean — to subject the \"general thesis\" of the world to an epoché?"
+    }
+  ],
+  "absences": []
+}

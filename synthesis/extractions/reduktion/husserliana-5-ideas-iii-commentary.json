@@ -1,0 +1,71 @@
+{
+  "schema_version": 1,
+  "theme": "reduktion",
+  "commentary": "husserliana-5-ideas-iii-commentary",
+  "source_sha256": "8f2dc2d3128d9af6d69e6ff7f334da6dfba099087d5891eea67fc54fba9b1ffd",
+  "extracted_at": "2026-09-14",
+  "extractor": {
+    "agent": "claude-code",
+    "prompt": "https://github.com/faultynode/prompts/blob/main/synthesis-pipeline/extraction-prompt.md",
+    "note": "Partial pass over §§ 8, 12, 17 of the main text and Sections 1 and 3 of the Nachwort."
+  },
+  "coverage": "partial",
+  "coverage_note": "Covers §§ 8, 12 and 17 (rational psychology and phenomenology, and the significance of ontological concepts for psychology) together with Sections 1 and 3 of the Nachwort. The remaining sections carrying hits are not covered.",
+  "units": [
+    {
+      "id": "reduktion/hua5/001",
+      "locator": "husserliana-5-ideas-iii-commentary#h3-s8-rational-psychology-and-phenomenology-experimental-psychology",
+      "primary_locator": "Hua V § 8",
+      "term": "eidetic reduction",
+      "status": "introduced",
+      "claim": "An eidetic reduction can be performed that excludes all questions of real existence and turns research to the eidos, for instance the essence perception.",
+      "quote": "we can also perform an “eidetic reduction” — exclude all questions of real existence and carry out purely eidetic research"
+    },
+    {
+      "id": "reduktion/hua5/002",
+      "locator": "husserliana-5-ideas-iii-commentary#h3-s12-further-clarification-of-the-relation-of-rational-psychology-and-phenomenolo",
+      "primary_locator": "Hua V § 12",
+      "term": "phenomenological reductions",
+      "status": "presupposed",
+      "claim": "Whoever cannot carry out the phenomenological reductions and grasp pure consciousness as idea is barred from entry into transcendental phenomenology and into philosophy in general.",
+      "quote": "who cannot carry out the phenomenological reductions and grasp the pure, absolutely posited experience, the pure consciousness as idea — for him, entry into transcendental phenomenology and into philosophy in general is barred"
+    },
+    {
+      "id": "reduktion/hua5/003",
+      "locator": "husserliana-5-ideas-iii-commentary#h3-s12-further-clarification-of-the-relation-of-rational-psychology-and-phenomenolo",
+      "primary_locator": "Hua V § 12",
+      "term": "reduction (and the absolute)",
+      "status": "presupposed",
+      "claim": "Only through reduction to pure consciousness is the absolute to be won, the absolute relatum for all realities, whose being is throughout relative.",
+      "quote": "only through reduction to this is the “absolute” to be won, the absolute relatum for all realities, whose being is throughout relative being"
+    },
+    {
+      "id": "reduktion/hua5/004",
+      "locator": "husserliana-5-ideas-iii-commentary#h3-s17-the-significance-of-ontological-concepts-for-psychology",
+      "primary_locator": "Hua V § 17",
+      "term": "reduction (eidetic and purifying from realization)",
+      "status": "revised",
+      "claim": "Every description of psychic experiences passes into a purely phenomenological one through an ideally possible reduction that is both eidetic and purifying from realization.",
+      "quote": "every description of psychic experiences passes, through the ideally possible reduction (eidetic and purifying from realization), into a purely phenomenological one"
+    },
+    {
+      "id": "reduktion/hua5/005",
+      "locator": "husserliana-5-ideas-iii-commentary#h3-section-1",
+      "primary_locator": "Nachwort to the Ideas, Section 1",
+      "term": "phenomenological reduction",
+      "status": "introduced",
+      "claim": "Transcendental experience becomes possible only through a radical change of the attitude in which natural worldly experience runs its course, a change called phenomenological reduction.",
+      "quote": "Transcendental experience becomes possible only through a radical change of the attitude in which natural, worldly experience runs its course — a change called “phenomenological reduction.”"
+    },
+    {
+      "id": "reduktion/hua5/006",
+      "locator": "husserliana-5-ideas-iii-commentary#h3-section-3",
+      "primary_locator": "Nachwort to the Ideas, Section 3",
+      "term": "phenomenological reduction (as attitude-change)",
+      "status": "presupposed",
+      "claim": "The attitude-change called the reduction is performed by the philosophizing person from the natural attitude in which one experiences oneself as a human person living among others in the world.",
+      "quote": "The attitude-change called phenomenological reduction is performed by the philosophizing person from the natural attitude in which one experiences oneself as a human person living among others in the world."
+    }
+  ],
+  "absences": []
+}

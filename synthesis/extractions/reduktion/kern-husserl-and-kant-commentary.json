@@ -1,0 +1,81 @@
+{
+  "schema_version": 1,
+  "theme": "reduktion",
+  "commentary": "kern-husserl-and-kant-commentary",
+  "source_sha256": "fef19456ecbae77db47c04a5e88bb6a25b6679cfe10bde97ffce5336ad06bdaa",
+  "extracted_at": "2026-09-14",
+  "extractor": {
+    "agent": "claude-code",
+    "prompt": "https://github.com/faultynode/prompts/blob/main/synthesis-pipeline/extraction-prompt.md",
+    "note": "Partial pass over §§ 4, 8, 18 and 30, where the reduction is dated, its three path-types are set out, and its absence in Natorp is marked."
+  },
+  "coverage": "partial",
+  "coverage_note": "Covers § 4 (the period immediately before the discovery of the reduction), § 8 (Husserl's late works), § 18 (the three path-types of the reduction) and § 30 (natural and phenomenological attitude against Natorp). The remaining sections carrying hits are not covered.",
+  "units": [
+    {
+      "id": "reduktion/kern/001",
+      "locator": "kern-husserl-and-kant-commentary#h4-s-4-the-period-immediately-before-the-discovery-of-the-phenomenological-reductio",
+      "term": "transcendental-phenomenological reduction",
+      "status": "presupposed",
+      "claim": "Husserl's breakthrough to transcendental phenomenology comes by way of the transcendental-phenomenological reduction, dated to between 1905 and 1907.",
+      "quote": "Husserl achieves his breakthrough to transcendental phenomenology via the transcendental-phenomenological reduction"
+    },
+    {
+      "id": "reduktion/kern/002",
+      "locator": "kern-husserl-and-kant-commentary#h4-s-4-the-period-immediately-before-the-discovery-of-the-phenomenological-reductio",
+      "term": "reduction (its 1907 shape)",
+      "status": "revised",
+      "claim": "The shape of the reduction in the 1907 lectures is Cartesian rather than Kantian, formed by the idea of beginning in something absolutely given and the epoché over everything that fails that demand.",
+      "quote": "it is primarily shaped not by a Kantian but by a Cartesian thought — the idea of beginning philosophy in something absolutely given and the epoché regarding everything that does not meet this requirement"
+    },
+    {
+      "id": "reduktion/kern/003",
+      "locator": "kern-husserl-and-kant-commentary#h4-s-8-husserl-s-late-works",
+      "term": "phenomenological reduction (Descartes and Kant as poles)",
+      "status": "presupposed",
+      "claim": "Descartes and Kant are the two diametrically opposed poles in whose field of tension Husserl struggles to grasp the sense of the phenomenological reduction.",
+      "quote": "are the two constant, diametrically opposed poles in whose field of tension Husserl struggles to grasp the sense of his phenomenological reduction"
+    },
+    {
+      "id": "reduktion/kern/004",
+      "locator": "kern-husserl-and-kant-commentary#h4-s-18-the-significance-of-kant-s-return-to-subjectivity-for-husserl-s-idea-of-the",
+      "term": "path-types of the reduction",
+      "status": "introduced",
+      "claim": "Three path-types of the transcendental-phenomenological reduction are identified and examined in detail.",
+      "quote": "Kern identifies three \"path-types\" of Husserl's transcendental-phenomenological reduction and examines each in detail"
+    },
+    {
+      "id": "reduktion/kern/005",
+      "locator": "kern-husserl-and-kant-commentary#h4-s-18-the-significance-of-kant-s-return-to-subjectivity-for-husserl-s-idea-of-the",
+      "term": "Cartesian way",
+      "status": "criticized",
+      "claim": "On the Cartesian way the reduction appears as a loss of the world and a retreat to consciousness as residuum, wins neither intersubjectivity nor full individual subjectivity, and never reaches an absolute beginning.",
+      "quote": "(1) the reduction appears as a *loss* (of the world) and a retreat to a *residuum* (consciousness); (2) neither intersubjectivity nor full individual subjectivity is won"
+    },
+    {
+      "id": "reduktion/kern/006",
+      "locator": "kern-husserl-and-kant-commentary#h4-s-18-the-significance-of-kant-s-return-to-subjectivity-for-husserl-s-idea-of-the",
+      "term": "way via intentional psychology",
+      "status": "criticized",
+      "claim": "On the way via intentional psychology pure consciousness appears as an abstraction, and the way does not as such lead beyond psychology.",
+      "quote": "Its deficiency: pure consciousness appears as an \"abstraction,\" and the way via psychology does not as such lead beyond psychology."
+    },
+    {
+      "id": "reduktion/kern/007",
+      "locator": "kern-husserl-and-kant-commentary#h4-s-18-the-significance-of-kant-s-return-to-subjectivity-for-husserl-s-idea-of-the",
+      "term": "way via ontology",
+      "status": "revised",
+      "claim": "The sense of the transcendental-phenomenological reduction as it emerges on the way via ontology is the one Husserl ultimately intended.",
+      "quote": "the sense of the transcendental-phenomenological reduction as it emerges on the way via ontology is the one ultimately intended by Husserl"
+    },
+    {
+      "id": "reduktion/kern/008",
+      "locator": "kern-husserl-and-kant-commentary#h4-s-30-natural-and-phenomenological-attitude-and-natorp-s-contrast-of-objective-an",
+      "term": "phenomenological reduction (absent in Natorp)",
+      "status": "presupposed",
+      "claim": "The lack of the phenomenological reduction in Natorp is what separates his determination of the subjective dimension of knowledge from Husserl's transcendental conception of it.",
+      "quote": "The lack of the phenomenological reduction in Natorp is highlighted."
+    }
+  ],
+  "absences": []
+}
