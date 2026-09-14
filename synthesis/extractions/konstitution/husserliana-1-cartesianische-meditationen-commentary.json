@@ -1,0 +1,115 @@
+{
+  "schema_version": 1,
+  "theme": "konstitution",
+  "commentary": "husserliana-1-cartesianische-meditationen-commentary",
+  "source_sha256": "e3798169d749d13a00bde43b2e4b4c47b7c3db4944199cfb4eb09148c0824eb6",
+  "extracted_at": "2026-09-14",
+  "extractor": {
+    "agent": "claude-code",
+    "prompt": "synthesis-pipeline/extraction-prompt.md"
+  },
+  "coverage": "partial",
+  "coverage_note": "SS 22, 23, 33, 41, 47 and 49 - the places where the concept is stated, sharpened, identified with phenomenology as a whole, and carried into the constitution of the objective world. No stratum: the commentary states no date for its own text. SS 1-21, 24-32, 34-40, 42-46, 48 and 50-64 have not been extracted; the sections of the First Meditation carry no term of the family and one is recorded as an absence.",
+  "units": [
+    {
+      "id": "konstitution/hua1/001",
+      "locator": "husserliana-1-cartesianische-meditationen-commentary#h3-s-22-the-idea-of-the-universal-unity-of-all-objects-and-the-task-of-their-consti",
+      "primary_locator": "Hua I S 22",
+      "term": "constituting consciousness-manifolds",
+      "claim": "The constituting consciousness-manifolds are not accidental but belong together from essential grounds in view of the possibility of synthesis.",
+      "status": "introduced",
+      "quote": "The constituting consciousness-manifolds are not accidental but belong together from essential grounds in view of the possibility of such synthesis."
+    },
+    {
+      "id": "konstitution/hua1/002",
+      "locator": "husserliana-1-cartesianische-meditationen-commentary#h3-s-22-the-idea-of-the-universal-unity-of-all-objects-and-the-task-of-their-consti",
+      "primary_locator": "Hua I S 22",
+      "term": "universal constitutive synthesis",
+      "claim": "A universal constitutive synthesis is pointed ahead to, in which all syntheses function together and all possible objectivities for the transcendental ego are encompassed.",
+      "status": "introduced",
+      "quote": "This points ahead to a universal constitutive synthesis in which all syntheses function together in a determinately ordered manner and in which all actual and possible objectivities as such for the transcendental ego, and correlatively all their actual and possible modes of consciousness, are encompassed."
+    },
+    {
+      "id": "konstitution/hua1/003",
+      "locator": "husserliana-1-cartesianische-meditationen-commentary#h3-s-23-a-more-precise-concept-of-transcendental-constitution-under-the-titles-reas",
+      "primary_locator": "Hua I S 23",
+      "term": "phenomenological constitution",
+      "claim": "Phenomenological constitution was hitherto the constitution of an intentional object in general; the breadth is now to be differentiated structurally toward a more pregnant concept of constitution.",
+      "status": "revised",
+      "quote": "Phenomenological constitution was for us hitherto the constitution of an intentional object in general. It encompassed the title cogito–cogitatum in its full breadth. We now proceed to differentiate this breadth structurally and to prepare a more pregnant concept of constitution."
+    },
+    {
+      "id": "konstitution/hua1/004",
+      "locator": "husserliana-1-cartesianische-meditationen-commentary#h3-s-33-the-full-concretion-of-the-ego-as-monad-and-the-problem-of-its-self-constit",
+      "primary_locator": "Hua I S 33",
+      "term": "constitution for itself",
+      "claim": "The problem of the phenomenological interpretation of the monadic ego, the problem of its constitution for itself, must encompass all constitutional problems whatsoever.",
+      "status": "introduced",
+      "quote": "the problem of the phenomenological interpretation of this monadic ego (the problem of its constitution for itself) must encompass within itself all constitutional problems whatsoever."
+    },
+    {
+      "id": "konstitution/hua1/005",
+      "locator": "husserliana-1-cartesianische-meditationen-commentary#h3-s-33-the-full-concretion-of-the-ego-as-monad-and-the-problem-of-its-self-constit",
+      "primary_locator": "Hua I S 33",
+      "term": "self-constitution",
+      "claim": "The phenomenology of this self-constitution proves to coincide with phenomenology as a whole.",
+      "status": "introduced",
+      "quote": "the phenomenology of this self-constitution proves to coincide with phenomenology as a whole."
+    },
+    {
+      "id": "konstitution/hua1/006",
+      "locator": "husserliana-1-cartesianische-meditationen-commentary#h3-s-41-the-genuine-phenomenological-self-interpretation-of-the-ego-cogito-as-trans",
+      "primary_locator": "Hua I S 41",
+      "term": "constituting itself",
+      "claim": "Everything existing for the pure ego is something constituting itself in it, and every kind of being has its particular constitution.",
+      "status": "introduced",
+      "quote": "one recognizes that everything existing for it is something constituting itself in it, and further that every kind of being has its particular constitution."
+    },
+    {
+      "id": "konstitution/hua1/007",
+      "locator": "husserliana-1-cartesianische-meditationen-commentary#h3-s-41-the-genuine-phenomenological-self-interpretation-of-the-ego-cogito-as-trans",
+      "primary_locator": "Hua I S 41",
+      "term": "sense- and being-constituting subjectivity",
+      "claim": "Transcendence in every form is an immanent being-character constituting itself within the ego, and every conceivable being falls within the domain of the sense- and being-constituting subjectivity.",
+      "status": "introduced",
+      "quote": "Transcendence in every form is an immanent being-character constituting itself within the ego. Every conceivable sense, every conceivable being, whether called immanent or transcendent, falls within the domain of transcendental subjectivity, as the sense- and being-constituting subjectivity."
+    },
+    {
+      "id": "konstitution/hua1/008",
+      "locator": "husserliana-1-cartesianische-meditationen-commentary#h3-s-47-the-intentional-object-also-belongs-to-the-full-monadic-concretion-of-ownne",
+      "primary_locator": "Hua I S 47",
+      "term": "constituted unities",
+      "claim": "What is essentially my own extends to the constituted unities wherever the constituted unity is concretely inseparable from the original constitution itself.",
+      "status": "revised",
+      "quote": "extends not only to the actualities and potentialities of the stream of experience but also to the constituted unities — wherever the constituted unity is concretely inseparable from the original constitution itself."
+    },
+    {
+      "id": "konstitution/hua1/009",
+      "locator": "husserliana-1-cartesianische-meditationen-commentary#h3-s-49-outline-of-the-course-of-intentional-interpretation-of-the-experience-of-ot",
+      "primary_locator": "Hua I S 49",
+      "term": "constitutes itself",
+      "claim": "The being-sense objective world constitutes itself on the substratum of the primordial world in several levels, the first being the constitutive level of the Other or Others as such.",
+      "status": "introduced",
+      "quote": "The being-sense \"objective world\" constitutes itself on the substratum of my primordial world in several levels. First is the constitutive level of the Other or Others as such."
+    },
+    {
+      "id": "konstitution/hua1/010",
+      "locator": "husserliana-1-cartesianische-meditationen-commentary#h3-s-49-outline-of-the-course-of-intentional-interpretation-of-the-experience-of-ot",
+      "primary_locator": "Hua I S 49",
+      "term": "constitution of the objective world",
+      "claim": "There constitutes itself a community of egos, ultimately of monads, that constitutes the one and same world; to the constitution of the objective world there essentially belongs a harmony of the monads.",
+      "status": "introduced",
+      "quote": "there constitutes itself a community of egos — ultimately a community of monads — and indeed one that constitutes the one and same world. To the constitution of the objective world there essentially belongs a harmony of the monads."
+    }
+  ],
+  "absences": [
+    {
+      "locator": "husserliana-1-cartesianische-meditationen-commentary#h3-s-11-the-psychological-and-the-transcendental-ego-the-transcendence-of-the-world",
+      "expected_because": "The distinction of psychological from transcendental ego and the transcendence of the world is what S 41 restates as transcendence being an immanent being-character constituting itself within the ego. The section draws the distinction with no term of the family."
+    },
+    {
+      "locator": "husserliana-1-cartesianische-meditationen-commentary#h3-s-13-the-necessity-of-initially-excluding-problems-of-the-range-of-transcendenta",
+      "expected_because": "The section postpones the problems of the range of transcendental cognition, which S 22 then takes up as the task of a universal constitutive synthesis. The postponement is stated without naming constitution."
+    }
+  ]
+}

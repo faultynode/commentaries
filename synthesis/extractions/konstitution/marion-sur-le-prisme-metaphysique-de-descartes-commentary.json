@@ -1,0 +1,125 @@
+{
+  "schema_version": 1,
+  "theme": "konstitution",
+  "commentary": "marion-sur-le-prisme-metaphysique-de-descartes-commentary",
+  "source_sha256": "434950859b94d97a942dc407b94e638e9bb92376932a6eaaf73f6738a668b71f",
+  "extracted_at": "2026-09-14",
+  "extractor": {
+    "agent": "claude-code",
+    "prompt": "synthesis-pipeline/extraction-prompt.md"
+  },
+  "coverage": "partial",
+  "coverage_note": "The introduction, S 10, and the conclusion. The pass records a finding that governs the whole file: in this commentary 'constitution' is almost always the onto-theo-logical constitution of metaphysics - a Heideggerian Verfassung, the make-up or set-up of metaphysics - and not Husserlian Konstitution. Nothing in the text marks the difference. SS 1-9 and 11-25 have not been extracted; three of the longest of them carry no term of the family at all and two are recorded as absences.",
+  "units": [
+    {
+      "id": "konstitution/prisme/001",
+      "locator": "marion-sur-le-prisme-metaphysique-de-descartes-commentary#h2-the-closure-of-a-question",
+      "primary_locator": "Sur le prisme metaphysique de Descartes, pp. 6-8",
+      "stratum": "prisme-1986",
+      "term": "onto-theo-logical constitution",
+      "claim": "Seen through the prism of onto-theo-logical constitution, even the ostensibly non-metaphysical texts of the corpus release the constituted and constitutive elements of a metaphysics.",
+      "status": "introduced",
+      "quote": "seen through the prism of onto-theo-logical constitution, even the ostensibly non-metaphysical texts of the corpus release, like primitive colours, the constituted and constitutive elements of a metaphysics."
+    },
+    {
+      "id": "konstitution/prisme/002",
+      "locator": "marion-sur-le-prisme-metaphysique-de-descartes-commentary#h2-the-closure-of-a-question",
+      "primary_locator": "Sur le prisme metaphysique de Descartes, introduction",
+      "stratum": "prisme-1986",
+      "term": "Cartesian constitution of metaphysics",
+      "claim": "If the onto-theo-logical constitution strictly delimits the Cartesian constitution of metaphysics, it fixes that constitution's limits and in closing it opens the possibility of its overcoming.",
+      "status": "introduced",
+      "quote": "if the onto-theo-logical constitution strictly delimits the Cartesian constitution of metaphysics, then it fixes that constitution's limits; and in closing it, it opens the possibility of its overcoming."
+    },
+    {
+      "id": "konstitution/prisme/003",
+      "locator": "marion-sur-le-prisme-metaphysique-de-descartes-commentary#h2-the-closure-of-a-question",
+      "primary_locator": "Sur le prisme metaphysique de Descartes, introduction",
+      "stratum": "prisme-1986",
+      "term": "constitutes himself",
+      "claim": "The onto-theo-logical model is used to test how Descartes constitutes himself according to a figure of onto-theo-logy, and reciprocally to subject the model to a test.",
+      "status": "introduced",
+      "quote": "the point is not to impose it on Descartes but to use it to test how Descartes constitutes himself according to a figure of onto-theo-logy"
+    },
+    {
+      "id": "konstitution/prisme/004",
+      "locator": "marion-sur-le-prisme-metaphysique-de-descartes-commentary#h3-s-10-a-redoubled-onto-theo-logy",
+      "primary_locator": "Sur le prisme metaphysique de Descartes S 10",
+      "stratum": "prisme-1986",
+      "term": "figure of the constitution",
+      "claim": "Not one figure of the onto-theo-logical constitution has been found in Descartes but two, one according to cogitatio and one according to causa.",
+      "status": "revised",
+      "quote": "not one figure of the constitution has been found but two, one according to *cogitatio* and one according to *causa*."
+    },
+    {
+      "id": "konstitution/prisme/005",
+      "locator": "marion-sur-le-prisme-metaphysique-de-descartes-commentary#h3-s-10-a-redoubled-onto-theo-logy",
+      "primary_locator": "Sur le prisme metaphysique de Descartes S 10",
+      "stratum": "prisme-1986",
+      "term": "concept of onto-theo-logical constitution",
+      "claim": "The proliferation of figures is said possibly to cast doubt on the operative rigour of the concept of onto-theo-logical constitution itself.",
+      "status": "criticized",
+      "quote": "should the proliferation not simply cast doubt on the operative rigour of the concept of onto-theo-logical constitution itself, and even on the imprudently univocal notion of *the* metaphysic"
+    },
+    {
+      "id": "konstitution/prisme/006",
+      "locator": "marion-sur-le-prisme-metaphysique-de-descartes-commentary#h3-s-10-a-redoubled-onto-theo-logy",
+      "primary_locator": "Sur le prisme metaphysique de Descartes S 10",
+      "stratum": "prisme-1986",
+      "term": "onto-theo-logical constitution",
+      "claim": "The onto-theo-logical constitution is posited to impose itself on Heidegger's thought from the two figures of metaphysics that put it most massively into evidence, Leibniz and Hegel.",
+      "status": "presupposed",
+      "quote": "Marion posits that the onto-theo-logical constitution imposes itself on Heidegger's thought from the two figures of metaphysics that put it most massively into evidence and into operation, Leibniz and Hegel."
+    },
+    {
+      "id": "konstitution/prisme/007",
+      "locator": "marion-sur-le-prisme-metaphysique-de-descartes-commentary#h2-the-question-of-an-opening",
+      "primary_locator": "Sur le prisme metaphysique de Descartes, pp. 373-374",
+      "stratum": "prisme-1986",
+      "term": "onto-theo-logical constitution",
+      "claim": "Descartes complicates the onto-theo-logical constitution in redoubling it, and that complexification forces a decision between two hypotheses about the essence of the constitution.",
+      "status": "revised",
+      "quote": "Descartes complicates the onto-theo-logical constitution in redoubling it. That complexification imposes deciding between two hypotheses about the essence of the constitution."
+    },
+    {
+      "id": "konstitution/prisme/008",
+      "locator": "marion-sur-le-prisme-metaphysique-de-descartes-commentary#h2-the-question-of-an-opening",
+      "primary_locator": "Sur le prisme metaphysique de Descartes, p. 374",
+      "stratum": "prisme-1986",
+      "term": "essence of the onto-theo-logical constitution",
+      "claim": "On the second hypothesis, the Cartesian redoubling reveals and deepens the essence of the onto-theo-logical constitution, of which Heidegger formulated only an elementary outline.",
+      "status": "revised",
+      "quote": "the Cartesian initiative of redoubling it reveals and deepens the essence of the onto-theo-logical constitution of metaphysics, of which Heidegger would have formulated only an elementary outline"
+    },
+    {
+      "id": "konstitution/prisme/009",
+      "locator": "marion-sur-le-prisme-metaphysique-de-descartes-commentary#h2-the-question-of-an-opening",
+      "primary_locator": "Sur le prisme metaphysique de Descartes, p. 374",
+      "stratum": "prisme-1986",
+      "term": "onto-theo-logical constitution",
+      "claim": "Never has the onto-theo-logical constitution been so visible as in its Cartesian redoubling, precisely because it splits in two there.",
+      "status": "revised",
+      "quote": "never has the onto-theo-logical constitution been so visible as in its Cartesian redoubling, precisely because it splits in two there"
+    },
+    {
+      "id": "konstitution/prisme/010",
+      "locator": "marion-sur-le-prisme-metaphysique-de-descartes-commentary#h2-the-question-of-an-opening",
+      "primary_locator": "Sur le prisme metaphysique de Descartes, pp. 375-376",
+      "stratum": "prisme-1986",
+      "term": "onto-theo-logical constitution",
+      "claim": "Authenticated as a metaphysician by the onto-theo-logical constitution whose essence he discovers better in complicating it, Descartes nonetheless escapes it in part.",
+      "status": "revised",
+      "quote": "Authenticated as a metaphysician by the onto-theo-logical constitution whose essence he discovers better in complicating it, Descartes nonetheless escapes it in part"
+    }
+  ],
+  "absences": [
+    {
+      "locator": "marion-sur-le-prisme-metaphysique-de-descartes-commentary#h3-s-24-the-ego-undone-and-the-decentring-of-the-self",
+      "expected_because": "The undoing of the ego and the decentring of the self is where a constituting subject would have to be met if the commentary read the Cartesian ego as one. Its 4,428 words carry no term of the family, in a commentary whose every other use of 'constitution' is the onto-theo-logical one."
+    },
+    {
+      "locator": "marion-sur-le-prisme-metaphysique-de-descartes-commentary#h3-s-19-the-system-of-contradictions",
+      "expected_because": "The system of contradictions is the longest section of the commentary and works out the tensions of the two figures that S 10 calls two figures of the onto-theo-logical constitution. It carries no term of the family."
+    }
+  ]
+}
