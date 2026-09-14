@@ -1,0 +1,94 @@
+{
+  "schema_version": 1,
+  "theme": "wesen",
+  "commentary": "husserliana-13-basic-problems-of-phenomenology-commentary",
+  "source_sha256": "e644f4bf71525db6c087db314384648602700f12e1fa0cb69cb7541ebf74685e",
+  "extracted_at": "2026-09-14",
+  "extractor": {
+    "agent": "claude-code",
+    "prompt": "prompts/synthesis-pipeline/extraction-prompt.md",
+    "note": "Whole file grep-scanned for the theme's search terms plus 'Wesensschau', 'free variation', 'immutable', 'innate', 'residuum' and 'simple nature'; none of the last six occur in the sections read. Closely read § 9 (lines 89-110) and § 13 (151-160)."
+  },
+  "coverage": "partial",
+  "coverage_note": "Covers § 9 (empirical and a priori attitude; ontology of nature and formal ontology) and § 13 (the resolvability of the connection of res cogitans and res extensa; the distinctio phaenomenologica) in full. §§ 1-8, 10-12 and 14 onward were keyword-scanned only.",
+  "units": [
+    {
+      "id": "wesen/hua13-grund/001",
+      "locator": "husserliana-13-basic-problems-of-phenomenology-commentary#h3-s-9-empirical-or-natural-attitude-and-apriori-attitude-ontology-of-nature-and-fo",
+      "primary_locator": "Hua XIII § 9",
+      "stratum": "hua13-1910",
+      "term": "essence-objectivities",
+      "status": "introduced",
+      "claim": "The empirical and the a priori attitude are distinguished by what comes to givenness in each: existence-objectivities in the one, essence-objectivities in the other.",
+      "quote": "In the one, existence-objectivities come to givenness; in the other, *essence*\\-objectivities — in the one, nature; in the other, ideas."
+    },
+    {
+      "id": "wesen/hua13-grund/002",
+      "locator": "husserliana-13-basic-problems-of-phenomenology-commentary#h3-s-9-empirical-or-natural-attitude-and-apriori-attitude-ontology-of-nature-and-fo",
+      "primary_locator": "Hua XIII § 9",
+      "stratum": "hua13-1910",
+      "term": "eidetic attitude",
+      "status": "introduced",
+      "claim": "A marginal note is reported to label the attitude in which numbers and the like are given, as no things and no facts of nature, the eidetic attitude.",
+      "quote": "(A marginal note labels this the *eidetic attitude*.)"
+    },
+    {
+      "id": "wesen/hua13-grund/003",
+      "locator": "husserliana-13-basic-problems-of-phenomenology-commentary#h3-s-9-empirical-or-natural-attitude-and-apriori-attitude-ontology-of-nature-and-fo",
+      "primary_locator": "Hua XIII § 9",
+      "stratum": "hua13-1910",
+      "term": "ideal essences",
+      "status": "introduced",
+      "claim": "A complete exclusion of every existence-positing is required in order to grasp the a priori, the ideal essences, in their existence-purity.",
+      "quote": "in order to grasp the apriori, the ideal essences, in their existence-purity"
+    },
+    {
+      "id": "wesen/hua13-grund/004",
+      "locator": "husserliana-13-basic-problems-of-phenomenology-commentary#h3-s-13-the-resolvability-of-the-empirical-connection-of-res-cogitans-and-res-exten",
+      "primary_locator": "Hua XIII § 13",
+      "stratum": "hua13-1910",
+      "term": "essence of a thing",
+      "status": "introduced",
+      "claim": "It is said not to belong to the essence of a thing that it is a sensing thing, so that a thing's being a body is a facticity.",
+      "quote": "It does not belong to the essence of a thing that it is, so to speak, a *sensing* thing"
+    },
+    {
+      "id": "wesen/hua13-grund/005",
+      "locator": "husserliana-13-basic-problems-of-phenomenology-commentary#h3-s-13-the-resolvability-of-the-empirical-connection-of-res-cogitans-and-res-exten",
+      "primary_locator": "Hua XIII § 13",
+      "stratum": "hua13-1910",
+      "term": "essence of the cogitatio / essence of the extensio",
+      "status": "introduced",
+      "claim": "The essence of the cogitatio and the essence of the extensio are said to have, in principle and as essences, nothing to do with one another.",
+      "quote": "The essence of the *cogitatio* and the essence of the *extensio* have, in principle, *as essences*, nothing to do with one another."
+    },
+    {
+      "id": "wesen/hua13-grund/006",
+      "locator": "husserliana-13-basic-problems-of-phenomenology-commentary#h3-s-13-the-resolvability-of-the-empirical-connection-of-res-cogitans-and-res-exten",
+      "primary_locator": "Hua XIII § 13",
+      "stratum": "hua13-1910",
+      "term": "eidetic claim",
+      "status": "revised",
+      "claim": "The commentary calls this the phenomenological transformation of Cartesian dualism: not a metaphysical claim that two substances exist but an eidetic claim that the two essences are mutually independent.",
+      "quote": "not a metaphysical claim that two substances exist, but an *eidetic* claim that the essence \"consciousness\" and the essence \"thing\" are mutually independent"
+    },
+    {
+      "id": "wesen/hua13-grund/007",
+      "locator": "husserliana-13-basic-problems-of-phenomenology-commentary#h3-s-13-the-resolvability-of-the-empirical-connection-of-res-cogitans-and-res-exten",
+      "primary_locator": "Hua XIII § 13",
+      "stratum": "hua13-1910",
+      "term": "essence-necessity",
+      "status": "introduced",
+      "claim": "Not all necessity in the realm of experience is essence-necessity, since otherwise all the natural sciences would be a priori sciences.",
+      "quote": "Hence not all necessity in the realm of experience is *essence*\\-necessity — otherwise all the natural sciences would be apriori sciences."
+    }
+  ],
+  "absences": [
+    {
+      "locator": "husserliana-13-basic-problems-of-phenomenology-commentary#h3-s-13-the-resolvability-of-the-empirical-connection-of-res-cogitans-and-res-exten",
+      "expected_because": "This section rewrites Cartesian dualism as a thesis about the mutual independence of two essences, and names res cogitans and res extensa throughout - so if any commentary in the corpus were to connect Husserl's Wesen to Descartes' doctrine of natures, this is the section where the connection would be made.",
+      "absent_terms": ["true and immutable", "immutable", "innate", "innate idea", "simple nature", "residuum", "Wesensschau", "free variation"],
+      "note": "The sharpest negative result for gap-007 in this pass: the Cartesian vocabulary that is taken up here is res cogitans and res extensa, and what is taken from it is a distinction of essences, never the doctrine of vera et immutabilis natura or of innate ideas."
+    }
+  ]
+}

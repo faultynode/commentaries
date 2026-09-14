@@ -1,0 +1,89 @@
+{
+  "schema_version": 1,
+  "theme": "wesen",
+  "commentary": "henry-the-essence-of-manifestation-commentary",
+  "source_sha256": "81321687b3823d9c3244b29758d979f86bd9d4ac28813fa58686aa2e9446ff68",
+  "extracted_at": "2026-09-14",
+  "extractor": {
+    "agent": "claude-code",
+    "prompt": "prompts/synthesis-pipeline/extraction-prompt.md",
+    "note": "Whole file grep-counted for the theme's search terms plus 'Wesensschau', 'free variation', 'immutable' and 'essential intuition' ('free variation', 'essential intuition' and 'immutable' return nothing; 'Wesensschau' occurs once, at § 1). Closely read § 1 (lines 25-56), § 8 (426-529), § 13 (820-891), § 16 (1032-1073), and the opening paragraphs of §§ 37, 45 and 50."
+  },
+  "coverage": "partial",
+  "coverage_note": "Covers § 1 (the Husserlian doctrine of eidetic intuition and regional ontology as Henry reports it), § 8 (phenomenology as science of the essence of the phenomenon), § 13 (the ambiguity of Dasein; essence and ontic determination), § 16 (the autonomy of the essence), and the opening paragraphs of § 37, § 45 and § 50. Sections II (§§ 17-36) and the bulk of Section III (§§ 38-49, 51-70), where the term saturates, were keyword-scanned only and not read paragraph by paragraph.",
+  "units": [
+    {
+      "id": "wesen/henry-essence/001",
+      "locator": "henry-the-essence-of-manifestation-commentary#h2-s-1-the-idea-of-an-apodictic-evidence-as-privileged-pathway-of-access-to-the-bei",
+      "term": "eidetic intuition",
+      "status": "introduced",
+      "claim": "Empiricism's own thesis is said to presuppose an intuition of the essence of sensible experience, and that presupposition is presented as establishing that an eidetic intuition exists.",
+      "quote": "The intuition presupposed by empiricism, of the essence of sensible experience, puts us in presence, at least once, of the existence of an eidetic intuition."
+    },
+    {
+      "id": "wesen/henry-essence/002",
+      "locator": "henry-the-essence-of-manifestation-commentary#h2-s-1-the-idea-of-an-apodictic-evidence-as-privileged-pathway-of-access-to-the-bei",
+      "term": "Wesensschau",
+      "status": "presupposed",
+      "claim": "The commentary glosses the self-refutation of empiricism as a proof of the reality of Wesensschau, the sole occurrence of that term in the commentary.",
+      "quote": "the self-refutation of empiricism is thus a proof of the reality of *Wesensschau*"
+    },
+    {
+      "id": "wesen/henry-essence/003",
+      "locator": "henry-the-essence-of-manifestation-commentary#h2-s-1-the-idea-of-an-apodictic-evidence-as-privileged-pathway-of-access-to-the-bei",
+      "term": "eidetic structure",
+      "status": "introduced",
+      "claim": "Being is said to distribute itself into regions, each with its own eidetic structure, to which correspond rigorously determined types of donative intuition.",
+      "quote": "distributes itself, in conformity with the very manner in which it presents itself, into a plurality of regions to which correspond rigorously determined types of donative intuition"
+    },
+    {
+      "id": "wesen/henry-essence/004",
+      "locator": "henry-the-essence-of-manifestation-commentary#h2-s-8-the-elucidation-of-the-essence-of-the-phenomenon-central-task-of-phenomenolo",
+      "term": "essence of the phenomenon",
+      "status": "introduced",
+      "claim": "Phenomenology is defined as the science of the essence of the phenomenon, and it is because being is understood as that essence that Heidegger can call phenomenology ontology.",
+      "quote": "*Phenomenology is the science of the essence of the phenomenon.* It is because he understands being as the essence of phenomenon that Heidegger can say that phenomenology is the science of being and, as such, ontology."
+    },
+    {
+      "id": "wesen/henry-essence/005",
+      "locator": "henry-the-essence-of-manifestation-commentary#h2-s-13-the-ambiguity-of-dasein-essence-and-ontic-determination",
+      "term": "eidetic character",
+      "status": "revised",
+      "claim": "The inevitability of the fall from the purity of the essence into ontic determination is proposed as inscribed in the essence itself, as an eidetic character rather than a lapse of exposition.",
+      "quote": "as an eidetic character, as a property of the essence itself, that historializes itself in the essence in conformity with its own will"
+    },
+    {
+      "id": "wesen/henry-essence/006",
+      "locator": "henry-the-essence-of-manifestation-commentary#h2-s-13-the-ambiguity-of-dasein-essence-and-ontic-determination",
+      "term": "essence of manifestation",
+      "status": "criticized",
+      "claim": "On the monist structure the essence of manifestation is not manifestation of self: what manifests itself is the existent, not the essence.",
+      "quote": "The essence of manifestation is not the *manifestation of self*. It is not the essence that manifests itself; it is the existent."
+    },
+    {
+      "id": "wesen/henry-essence/007",
+      "locator": "henry-the-essence-of-manifestation-commentary#h2-s-16-the-idea-of-the-formal-structure-of-the-autonomy-of-the-essence-and-the-tas",
+      "term": "Selbständigkeit",
+      "status": "introduced",
+      "claim": "The essence is called autonomous because effective phenomenality arises within it, and that autonomy is named the Selbstandigkeit of ontological knowledge.",
+      "quote": "Effective phenomenality arises in the very bosom of the essence, because the essence objectifies itself under the form of a horizon that *shows itself*."
+    },
+    {
+      "id": "wesen/henry-essence/008",
+      "locator": "henry-the-essence-of-manifestation-commentary#h2-s-45-the-dissimulation-of-the-originary-essence-of-revelation-and-its-forgetting",
+      "term": "essence",
+      "status": "criticized",
+      "claim": "The dissimulation of the essence is referred not to a failing of thought but to the essence itself and to the ontological structure of reality.",
+      "quote": "Thus the dissimulation of the essence was referred, not to an incomprehensible failing of thought, but *to this essence itself*, to the ontological structure of reality."
+    },
+    {
+      "id": "wesen/henry-essence/009",
+      "locator": "henry-the-essence-of-manifestation-commentary#h2-s-50-the-non-face-of-the-essence",
+      "term": "essence",
+      "status": "revised",
+      "claim": "Because it does not manifest itself in the milieu of visibility, the essence is called invisible, and that invisibility is presented as its reality rather than a privation.",
+      "quote": "insofar as it is *neither this nor that*, *the essence is invisible*"
+    }
+  ],
+  "absences": []
+}

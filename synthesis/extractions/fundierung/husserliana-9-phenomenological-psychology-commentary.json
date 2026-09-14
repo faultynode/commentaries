@@ -1,0 +1,134 @@
+{
+  "schema_version": 1,
+  "theme": "fundierung",
+  "commentary": "husserliana-9-phenomenological-psychology-commentary",
+  "source_sha256": "668c7a551f240c6b325a909d5e9a3a0b2edff78d29009d73c83a9f11bd08b350",
+  "extracted_at": "2026-09-13",
+  "extractor": {
+    "agent": "claude-code",
+    "prompt": "Stage 1 extraction, theme fundierung, per docs/synthesis-operations.md P1.",
+    "note": "The 1925 course carries the Logical Investigations doctrine of independent and non-independent parts into a psychology: primal realities against thingly modes, the two-layeredness of the psycho-physical, the Stufenbau of the psychic, hyle as matter for intentional function, and the I as subject of self-founded convictions."
+  },
+  "coverage": "partial",
+  "coverage_note": "Systematic Part §§ 13, 15, 21, 31 and 42, and § 3 b) of the Introduction on the correlation of ideal object and lived experience. Not covered: §§ 1-12, 14, 16-20, 22-30, 32-41 and 43 onward, and the Amsterdam lectures appended at the end of the file.",
+  "units": [
+    {
+      "id": "fundierung/husserliana-9/001",
+      "locator": "husserliana-9-phenomenological-psychology-commentary#h4-b-investigation-of-the-correlation-ideal-object-psychic-lived-experience-sense-f",
+      "primary_locator": "Hua IX, § 3 b)",
+      "term": "ideal objects (double relation)",
+      "status": "introduced",
+      "claim": "Ideal objects have their being-in-themselves and yet come to consciousness only as produced in subjective acts.",
+      "quote": "they have their *being-in-themselves*, and yet they come to consciousness only as *produced* in subjective acts"
+    },
+    {
+      "id": "fundierung/husserliana-9/002",
+      "locator": "husserliana-9-phenomenological-psychology-commentary#h3-s-13-distinction-between-independent-and-non-independent-realities-determination",
+      "primary_locator": "Hua IX, § 13",
+      "term": "Urrealitäten (primal realities)",
+      "status": "introduced",
+      "claim": "Primal realities are characterized by being perceivable and experienceable without their experience presupposing the experience of other real singulars.",
+      "quote": "These are characterized by being, according to their own sense, *perceivable, experienceable* without their experience presupposing the experience of other real singulars."
+    },
+    {
+      "id": "fundierung/husserliana-9/003",
+      "locator": "husserliana-9-phenomenological-psychology-commentary#h3-s-13-distinction-between-independent-and-non-independent-realities-determination",
+      "primary_locator": "Hua IX, § 13",
+      "term": "non-independent (experience of a moment)",
+      "status": "introduced",
+      "claim": "The experiences of a house's color, a mountain's shape or a person's expression are non-independent, and such real singulars presuppose the others for their experience.",
+      "quote": "these experiences are *non-independent*, and indeed *as such* of these objectivities color, shape, etc."
+    },
+    {
+      "id": "fundierung/husserliana-9/004",
+      "locator": "husserliana-9-phenomenological-psychology-commentary#h3-s-13-distinction-between-independent-and-non-independent-realities-determination",
+      "primary_locator": "Hua IX, § 13",
+      "term": "founding singulars",
+      "status": "presupposed",
+      "claim": "Moments of things presuppose a for-itself-grasping of the founding singulars, in the sense of an exclusively directed and not a merely co-directed grasping.",
+      "quote": "those presuppose a *for-itself-grasping* of the founding singulars in the sense of an *exclusively-directed* and not a mere *co-grasping*"
+    },
+    {
+      "id": "fundierung/husserliana-9/005",
+      "locator": "husserliana-9-phenomenological-psychology-commentary#h3-s-15-characterization-of-the-psychophysical-realities-of-the-experiential-world",
+      "primary_locator": "Hua IX, § 15",
+      "term": "two-layered (psycho-physical)",
+      "status": "introduced",
+      "claim": "Realities like humans and animals are two-layered, psycho-physical beings whose Physis and Psyche are abstractively to be considered for themselves at the concrete whole.",
+      "quote": "such realities are *two-layered* — they are *psycho-physical* beings. Their *Physis* and their *Psyche* are abstractively to be considered for themselves at the concrete whole."
+    },
+    {
+      "id": "fundierung/husserliana-9/006",
+      "locator": "husserliana-9-phenomenological-psychology-commentary#h3-s-15-characterization-of-the-psychophysical-realities-of-the-experiential-world",
+      "primary_locator": "Hua IX, § 15",
+      "term": "presupposes a corporeal-embodiment-substrate",
+      "status": "introduced",
+      "claim": "The corporeal can be experienced as unanimated, but where the psychic is experienced an organic embodiment must be the underlay: the animated body presupposes a corporeal-embodiment-substrate.",
+      "quote": "In possible experience, the animated body presupposes a corporeal-embodiment-substrate."
+    },
+    {
+      "id": "fundierung/husserliana-9/007",
+      "locator": "husserliana-9-phenomenological-psychology-commentary#h3-s-15-characterization-of-the-psychophysical-realities-of-the-experiential-world",
+      "primary_locator": "Hua IX, § 15",
+      "term": "apperceptive presupposition (Urleib)",
+      "status": "introduced",
+      "claim": "The own body functions as primal body, the perception of it being the most originary body-experience and the apperceptive presupposition for every possible experience of a foreign body.",
+      "quote": "as the *apperceptive presupposition* for every possible experience of the type *foreign body*"
+    },
+    {
+      "id": "fundierung/husserliana-9/008",
+      "locator": "husserliana-9-phenomenological-psychology-commentary#h3-s-21-stratified-structure-of-the-psychic",
+      "primary_locator": "Hua IX, § 21",
+      "term": "Stufenbau (stratified structure)",
+      "status": "introduced",
+      "claim": "The psychic is articulated into layers of different elementary types and degrees of complexity that build upon one another in a definite order.",
+      "quote": "The psychic is not a homogeneous mass but is articulated into layers — of different elementary types and different degrees of complexity — that build upon one another in a definite order."
+    },
+    {
+      "id": "fundierung/husserliana-9/009",
+      "locator": "husserliana-9-phenomenological-psychology-commentary#h3-s-21-stratified-structure-of-the-psychic",
+      "primary_locator": "Hua IX, § 21",
+      "term": "higher layers presuppose the lower",
+      "status": "introduced",
+      "claim": "It belongs to the eidetic structure of the psyche as such that the higher layers presuppose the lower, valuing and willing presupposing objectivating consciousness.",
+      "quote": "It is part of the eidetic structure of the psyche as such that the higher layers presuppose the lower."
+    },
+    {
+      "id": "fundierung/husserliana-9/010",
+      "locator": "husserliana-9-phenomenological-psychology-commentary#h3-s-31-hyle-hyletic-data-as-matter-for-intentional-functions",
+      "primary_locator": "Hua IX, § 31",
+      "term": "Hyle as matter for intentional function",
+      "status": "introduced",
+      "claim": "Hyle and intentional function are the two structurally distinguished moments of perception, the core-content and the meaning-giving form.",
+      "quote": "*Hyle* and *intentional function* are the two structurally distinguished moments of perception: the *core-content* (sensory matter) and the *meaning-giving form* (consciousness-of-something)."
+    },
+    {
+      "id": "fundierung/husserliana-9/011",
+      "locator": "husserliana-9-phenomenological-psychology-commentary#h3-s-31-hyle-hyletic-data-as-matter-for-intentional-functions",
+      "primary_locator": "Hua IX, § 31",
+      "term": "core-contents free of all consciousness-characters",
+      "status": "presupposed",
+      "claim": "Merely subjective data, in their own essence free of all consciousness-characters, can become core-contents of intentional characters that by means of them make other objectivities conscious.",
+      "quote": "they can in manifold ways become *core-contents* of remarkable functional characters, which all have in common that *by means of these core-contents*, as it were *spiritualizing them*, they make *other* objectivities conscious"
+    },
+    {
+      "id": "fundierung/husserliana-9/012",
+      "locator": "husserliana-9-phenomenological-psychology-commentary#h3-s-42-the-i-of-originary-foundings-and-subsequent-foundings-identity-of-the-i-in",
+      "primary_locator": "Hua IX, § 42",
+      "term": "Urstiftung / self-founded convictions",
+      "status": "introduced",
+      "claim": "The I has no factual properties and has exclusively so-being as subject of self-founded convictions.",
+      "quote": "it has *exclusively so-being as subject of self-founded convictions*"
+    },
+    {
+      "id": "fundierung/husserliana-9/013",
+      "locator": "husserliana-9-phenomenological-psychology-commentary#h3-s-42-the-i-of-originary-foundings-and-subsequent-foundings-identity-of-the-i-in",
+      "primary_locator": "Hua IX, § 42",
+      "term": "Nachstiftung (post-founding)",
+      "status": "introduced",
+      "claim": "Convictions founded in the I by post-founding are not born out of the I itself: it does not found itself in its own I-originariness but orients itself by another.",
+      "quote": "The convictions so founded in the I are *not born out of the I itself*: it does not itself form them; it does not found itself in its own I-originariness."
+    }
+  ],
+  "absences": []
+}

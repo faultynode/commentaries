@@ -1,0 +1,87 @@
+{
+  "schema_version": 1,
+  "theme": "wesen",
+  "commentary": "husserliana-19-2-sixth-logical-investigation-commentary",
+  "source_sha256": "b8cda8b8a2a31d263455efa37437b0aefc01c6231f22bb078a8ff640c779cc85",
+  "extracted_at": "2026-09-14",
+  "extractor": {
+    "agent": "claude-code",
+    "prompt": "prompts/synthesis-pipeline/extraction-prompt.md",
+    "note": "Whole file grep-scanned for the theme's search terms plus 'Wesensschau', 'eidetic', 'eidos', 'immutable', 'innate', 'Descartes' and 'residuum'; none of the last six occur in the sections read. Closely read § 28 (lines 469-482) and the Introduction (11-34); §§ 5 and 25 were keyword-scanned."
+  },
+  "coverage": "partial",
+  "coverage_note": "Covers § 28 (intentional essence and fulfilling sense; cognitive essence; intuitions in specie) in full and the Introduction for its programmatic statement of the two essence-concepts. Chapters One, Two, Four to Eight and the Appendix were keyword-scanned only. As in the Fifth Investigation, the essence-vocabulary here is 'intentional essence' and 'cognitive essence' in the Investigations' technical sense, not the later eidetic sense.",
+  "units": [
+    {
+      "id": "wesen/lu6/001",
+      "locator": "husserliana-19-2-sixth-logical-investigation-commentary#h2-introduction",
+      "primary_locator": "LU VI, Introduction",
+      "term": "intentionales Wesen",
+      "status": "presupposed",
+      "claim": "The insight carried over from the Fifth Investigation is that the meaning of expressions lies in the intentional essence of the acts in question.",
+      "quote": "unmistakably, the meaning of expressions lies in the intentional essence of the acts in question"
+    },
+    {
+      "id": "wesen/lu6/002",
+      "locator": "husserliana-19-2-sixth-logical-investigation-commentary#h2-introduction",
+      "primary_locator": "LU VI, Introduction",
+      "term": "erkenntnismäßiges Wesen",
+      "status": "introduced",
+      "claim": "The Investigation announces that the cognitive essence will be added to the previous concept of the intentional essence.",
+      "quote": "To the previous concept of the intentional essence there will be added the *cognitive essence* (*erkenntnismäßiges Wesen*)"
+    },
+    {
+      "id": "wesen/lu6/003",
+      "locator": "husserliana-19-2-sixth-logical-investigation-commentary#h3-s-28-intentional-essence-and-fulfilling-sense-cognitive-essence-intuitions-in-sp",
+      "primary_locator": "LU VI § 28",
+      "term": "fulfilling sense",
+      "status": "introduced",
+      "claim": "The fulfilling sense, as the intentional essence of the fulfilling intuitive act, is said to coincide with the meaningful essence of the meaning-intention.",
+      "quote": "the *fulfilling sense*, as the *intentional essence* of the fulfilling intuitive act, coincides with the meaningful essence (the intentional essence of the meaning-intention)"
+    },
+    {
+      "id": "wesen/lu6/004",
+      "locator": "husserliana-19-2-sixth-logical-investigation-commentary#h3-s-28-intentional-essence-and-fulfilling-sense-cognitive-essence-intuitions-in-sp",
+      "primary_locator": "LU VI § 28",
+      "term": "species",
+      "status": "introduced",
+      "claim": "The fulfilling sense taken as a species is called the ideal-identical to be grasped through ideating abstraction in the manifold of mutually corresponding intuitions.",
+      "quote": "the *ideal-identical to be grasped through ideating abstraction in the manifold of mutually corresponding intuitions*"
+    },
+    {
+      "id": "wesen/lu6/005",
+      "locator": "husserliana-19-2-sixth-logical-investigation-commentary#h3-s-28-intentional-essence-and-fulfilling-sense-cognitive-essence-intuitions-in-sp",
+      "primary_locator": "LU VI § 28",
+      "term": "essence",
+      "status": "introduced",
+      "claim": "What counts as the essence of an objectifying intention is stated to be that which no such intention can lack, or which is not freely variable without affecting its relation to the objective.",
+      "quote": "there must count as the *essence* of an objectifying intention that which no intention of this kind can lack, or which is not freely variable in any such intention without its being affected, according to ideal necessity, in respect of its relation to the objective"
+    },
+    {
+      "id": "wesen/lu6/006",
+      "locator": "husserliana-19-2-sixth-logical-investigation-commentary#h3-s-28-intentional-essence-and-fulfilling-sense-cognitive-essence-intuitions-in-sp",
+      "primary_locator": "LU VI § 28",
+      "term": "cognitive essence",
+      "status": "introduced",
+      "claim": "The cognitive essence of an objectifying act is defined as the entire content coming into consideration for the knowledge-function, comprising quality, matter and fullness.",
+      "quote": "We define accordingly the *cognitive essence* of an objectifying act (*erkenntnismäßiges Wesen*, as against its merely meaningful essence) as *the entire content coming into consideration for the knowledge-function*."
+    },
+    {
+      "id": "wesen/lu6/007",
+      "locator": "husserliana-19-2-sixth-logical-investigation-commentary#h3-s-28-intentional-essence-and-fulfilling-sense-cognitive-essence-intuitions-in-sp",
+      "primary_locator": "LU VI § 28",
+      "term": "in specie",
+      "status": "introduced",
+      "claim": "All objectifying acts of the same cognitive essence are said to be, for the ideal interest of the critique of knowledge, the same act, which is what talk of acts in specie has in view.",
+      "quote": "*All objectifying acts of the same cognitive essence are, for the ideal interest of the critique of knowledge, \"the same\" act.*"
+    }
+  ],
+  "absences": [
+    {
+      "locator": "husserliana-19-2-sixth-logical-investigation-commentary#h3-s-28-intentional-essence-and-fulfilling-sense-cognitive-essence-intuitions-in-sp",
+      "expected_because": "The section defines essence by what cannot be freely varied without affecting the act's relation to its object - the criterion later phenomenology works out as eidetic variation - and so is the place where that method, or its vocabulary, would be named if the Investigations had it.",
+      "absent_terms": ["Wesensschau", "eidetic", "eidos", "free variation", "immutable", "innate", "Descartes", "residuum"],
+      "note": "The invariance criterion is stated here in the vocabulary of ideating abstraction and species, with no eidetic terminology; this is the same finding as at LU V § 21."
+    }
+  ]
+}

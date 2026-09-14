@@ -1,0 +1,84 @@
+{
+  "schema_version": 1,
+  "theme": "wesen",
+  "commentary": "picht-de-anima-commentary",
+  "source_sha256": "db24b31144e91e5d1cfd8f3d27541388b32c20bc777c00ca5b68d2967e538a95",
+  "extracted_at": "2026-09-14",
+  "extractor": {
+    "agent": "claude-code",
+    "prompt": "prompts/synthesis-pipeline/extraction-prompt.md",
+    "note": "Whole file grep-scanned for the theme's search terms plus 'Wesensschau', 'eidetic', 'immutable', 'innate', 'Descartes', 'residuum' and 'free variation'. Closely read the two eidos sections (lines 57-60 and 481-488) and the opening of First Part II (27-36). This commentary carries the corpus's Aristotelian sense of eidos, which is not the Husserlian one, and the records say so."
+  },
+  "coverage": "partial",
+  "coverage_note": "Covers First Part II c (Eidos) and Fourth Part III (Morphe and Eidos) in full, plus the opening paragraphs of First Part II (the essence of actuality, truth and God). The Second and Third Parts, and the rest of the Fourth, were keyword-scanned only.",
+  "units": [
+    {
+      "id": "wesen/picht-anima/001",
+      "locator": "picht-de-anima-commentary#h5-c-eidos",
+      "term": "eidos",
+      "status": "introduced",
+      "claim": "The totality of characteristics that characterize the book as a book is said to be nothing other than its eidos.",
+      "quote": "The totality of characteristics that characterize the book as a book is nothing other than its *eidos*."
+    },
+    {
+      "id": "wesen/picht-anima/002",
+      "locator": "picht-de-anima-commentary#h5-c-eidos",
+      "term": "eidos",
+      "status": "revised",
+      "claim": "The direction of agreement is reversed for eidos as against the logical concept: the object is supposed to agree with the eidos, not the concept with the object.",
+      "quote": "The logical concept is supposed to agree with the designated object, but with *eidos* the relationship is reversed: the object is supposed to agree with the *eidos*."
+    },
+    {
+      "id": "wesen/picht-anima/003",
+      "locator": "picht-de-anima-commentary#h3-iii-morphe-and-eidos-shape-and-form",
+      "primary_locator": "Metaphysics VII, 8",
+      "term": "eidos",
+      "status": "introduced",
+      "claim": "Following Metaphysics VII 8, the eidos is said not to arise in the sensible and to have no genesis, being rather what comes to appearance in another, the matter.",
+      "quote": "the *eidos* does not arise in the sensible, and there is no genesis of it; rather, it is what comes to appearance in another (the matter), either through art or through nature"
+    },
+    {
+      "id": "wesen/picht-anima/004",
+      "locator": "picht-de-anima-commentary#h3-iii-morphe-and-eidos-shape-and-form",
+      "primary_locator": "Metaphysics VII, 1037a 29f.",
+      "term": "eidos to enon",
+      "status": "revised",
+      "claim": "After Plato ousia is the eidos in itself, while after Aristotle it is the eidos not in itself but indwelling in the hyle, appearing there as morphe.",
+      "quote": "After Plato, *ousia* is the *eidos kath' hauto* — the *eidos* in itself. After Aristotle, it is *to eidos to enon* — the *eidos* not in itself but indwelling in the *hylē*."
+    },
+    {
+      "id": "wesen/picht-anima/005",
+      "locator": "picht-de-anima-commentary#h3-iii-morphe-and-eidos-shape-and-form",
+      "primary_locator": "Metaphysics VII, 8",
+      "term": "morphe / eidos",
+      "status": "introduced",
+      "claim": "The ring is said not to be identical with the mathematical circle, since every ring consists of a material, but identical with it insofar as it is the circle presented in that material.",
+      "quote": "The ring (*morphē*) is not identical with the mathematical circle (*eidos*), for every ring consists of a material; but it is identical with the circle insofar as it is the circle presented in this material."
+    },
+    {
+      "id": "wesen/picht-anima/006",
+      "locator": "picht-de-anima-commentary#h3-ii-perspectives-of-the-comparison-of-hegel-with-aristotle-the-essence-of-actuali",
+      "primary_locator": "De anima III, 8, 431b21",
+      "term": "essence of the soul",
+      "status": "presupposed",
+      "claim": "The essence of the soul is said to appear in its highest form, which Aristotle calls nous and Hegel translates as spirit.",
+      "quote": "The essence of the soul appears in its highest form, which Aristotle calls *nous*."
+    },
+    {
+      "id": "wesen/picht-anima/007",
+      "locator": "picht-de-anima-commentary#h3-ii-perspectives-of-the-comparison-of-hegel-with-aristotle-the-essence-of-actuali",
+      "term": "essence of truth",
+      "status": "introduced",
+      "claim": "In the age of European metaphysics the question of the essence of truth is said to be inseparable from the question of the essence of the soul.",
+      "quote": "Therefore, in the age of European metaphysics, the question of the essence of truth cannot be separated from the question of the essence of the soul."
+    }
+  ],
+  "absences": [
+    {
+      "locator": "picht-de-anima-commentary#h3-iii-morphe-and-eidos-shape-and-form",
+      "expected_because": "This is the corpus's fullest treatment of eidos as a term of art, and it works the mathematical circle as its example - the same geometrical case Descartes calls a true and immutable nature and Husserl treats as an exact essence - so a connection to either would be made here if this commentary made one.",
+      "absent_terms": ["Wesensschau", "eidetic", "immutable", "innate", "Descartes", "residuum", "free variation", "Husserl"],
+      "note": "Bears on gap-007 by ruling this commentary out: its eidos is Aristotelian form indwelling in matter, and neither Husserl nor Descartes is named in the section."
+    }
+  ]
+}

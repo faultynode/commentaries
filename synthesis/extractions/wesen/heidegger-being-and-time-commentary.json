@@ -1,0 +1,92 @@
+{
+  "schema_version": 1,
+  "theme": "wesen",
+  "commentary": "heidegger-being-and-time-commentary",
+  "source_sha256": "057922646a8715d015516477785fc240249c4a068ff4b49e9969d1e376fd5d39",
+  "extracted_at": "2026-09-14",
+  "extractor": {
+    "agent": "claude-code",
+    "prompt": "prompts/synthesis-pipeline/extraction-prompt.md",
+    "note": "Whole file grep-counted for the theme's search terms plus 'Wesensschau', 'eidetic', 'eidos' and 'essentia': 'Wesensschau' and 'eidetic' occur nowhere; 'eidos' occurs once, at § 13, of the pure look in which intraworldly beings are encountered. Closely read § 9 (lines 282-305); §§ 6, 4 and 44 were keyword-scanned. This is the second commentary in the corpus on the same primary text as heidegger-sein-und-zeit-commentary, and the two records should be read together."
+  },
+  "coverage": "partial",
+  "coverage_note": "Covers § 9 (the theme of the analytic of Dasein) in full, and records the single occurrence of eidos at § 13. The rest of the Introduction and both Divisions were keyword-scanned only. Unlike heidegger-sein-und-zeit-commentary, this commentary never names the Wesensschau.",
+  "units": [
+    {
+      "id": "wesen/heidegger-bt/001",
+      "locator": "heidegger-being-and-time-commentary#h3-s-9-the-theme-of-the-analytic-of-dasein",
+      "primary_locator": "SZ § 9",
+      "stratum": "bt-1927",
+      "term": "essentia",
+      "status": "revised",
+      "claim": "The essence of Dasein is said to lie in its having-to-be, its what-being (essentia) being graspable only from its being (existentia), if at all.",
+      "quote": "the \"essence\" of this being lies in its *having-to-be* (*Zu-sein*). The what-being (*essentia*) of this being must, insofar as one can speak of it at all, be grasped from its Being (*existentia*)."
+    },
+    {
+      "id": "wesen/heidegger-bt/002",
+      "locator": "heidegger-being-and-time-commentary#h3-s-9-the-theme-of-the-analytic-of-dasein",
+      "primary_locator": "SZ § 9",
+      "stratum": "bt-1927",
+      "term": "existentia",
+      "status": "criticized",
+      "claim": "The title existence is said not to have the ontological meaning of the traditional existentia, which means presence-at-hand, a mode of being that does not belong to Dasein.",
+      "quote": "*existentia* ontologically means as much as presence-at-hand (*Vorhandenheit*), a mode of Being that essentially does not belong to the being of the character of Dasein"
+    },
+    {
+      "id": "wesen/heidegger-bt/003",
+      "locator": "heidegger-being-and-time-commentary#h3-s-9-the-theme-of-the-analytic-of-dasein",
+      "primary_locator": "SZ § 9",
+      "stratum": "bt-1927",
+      "term": "essence",
+      "status": "revised",
+      "claim": "The commentary glosses the formula as a radical departure from all substance-metaphysics: Dasein has no fixed nature, its what being its how.",
+      "quote": "This is a radical departure from all substance-metaphysics: Dasein has no fixed nature. Its \"what\" just *is* its \"how\" — its manner of existing."
+    },
+    {
+      "id": "wesen/heidegger-bt/004",
+      "locator": "heidegger-being-and-time-commentary#h3-s-9-the-theme-of-the-analytic-of-dasein",
+      "primary_locator": "SZ § 9",
+      "stratum": "bt-1927",
+      "term": "properties",
+      "status": "criticized",
+      "claim": "The characters exhibitable in Dasein are said not to be present-at-hand properties but in each case possible ways for it to be, all its so-being being primarily being.",
+      "quote": "The characters exhibitable in this being are therefore not present-at-hand \"properties\" of a present-at-hand being that \"looks\" thus-and-so, but in each case possible ways for it to be, and only that."
+    },
+    {
+      "id": "wesen/heidegger-bt/005",
+      "locator": "heidegger-being-and-time-commentary#h3-s-9-the-theme-of-the-analytic-of-dasein",
+      "primary_locator": "SZ § 9",
+      "stratum": "bt-1927",
+      "term": "by its essence",
+      "status": "presupposed",
+      "claim": "Dasein can have lost itself or not yet won itself only insofar as it is by its essence possible authentic, that is, belonging to itself.",
+      "quote": "insofar as it is by its essence possible authentic — that is, belonging to itself"
+    },
+    {
+      "id": "wesen/heidegger-bt/006",
+      "locator": "heidegger-being-and-time-commentary#h3-s-13-the-exemplification-of-being-in-through-a-founded-mode-world-cognition",
+      "primary_locator": "SZ § 13",
+      "stratum": "bt-1927",
+      "term": "eidos",
+      "status": "revised",
+      "claim": "A mode of being toward the world is said to let intraworldly beings be encountered only in their pure look, rendered eidos, on the basis of which an explicit looking-at becomes possible.",
+      "quote": "which lets intraworldly beings be encountered only in their pure look (*eidos*)"
+    }
+  ],
+  "absences": [
+    {
+      "locator": "heidegger-being-and-time-commentary#h3-s-9-the-theme-of-the-analytic-of-dasein",
+      "expected_because": "The section suspends the essentia/existentia pair for Dasein and so settles what 'essence' may mean in this commentary; the parallel commentary on the same text, heidegger-sein-und-zeit-commentary, reaches the Wesensschau at its § 31, so the question is whether this one does anywhere.",
+      "absent_terms": [
+        "Wesensschau",
+        "eidetic",
+        "eidos",
+        "free variation",
+        "immutable",
+        "innate",
+        "Husserl"
+      ],
+      "note": "It does not: 'Wesensschau' and 'eidetic' occur nowhere in this commentary, and its single 'eidos' is the pure look of § 13, not Husserl's. Recorded so the two commentaries on Sein und Zeit can be told apart on this theme."
+    }
+  ]
+}

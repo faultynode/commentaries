@@ -6,6 +6,8 @@ wordpress_id: 192
 
 # Commentary on Edmund Husserl, *Ideen zu einer reinen Phänomenologie und phänomenologischen Philosophie*, Erstes Buch (Husserliana III/1), §§111–153
 
+*The First Book of the* Ideas *appeared in Husserl's lifetime in three almost entirely identical editions, in 1913, 1922 and 1928. Husserliana III/1, from which this commentary works, reproduces the text of those editions alone; Husserl's handwritten additions toward a revision are held separately, among the supplementary texts of III/2. Edited by Karl Schuhmann.*
+
 -----
 
 ## § 111. Neutrality Modification and Phantasy

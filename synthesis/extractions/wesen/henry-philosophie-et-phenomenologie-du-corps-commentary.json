@@ -1,0 +1,88 @@
+{
+  "schema_version": 1,
+  "theme": "wesen",
+  "commentary": "henry-philosophie-et-phenomenologie-du-corps-commentary",
+  "source_sha256": "7873678cba294a842ebb78cf1590f2f4f3c732a826b6741035ba102fe8b1f802",
+  "extracted_at": "2026-09-14",
+  "extractor": {
+    "agent": "claude-code",
+    "prompt": "prompts/synthesis-pipeline/extraction-prompt.md",
+    "note": "Whole file grep-scanned for the theme's search terms plus 'simple nature', 'innate', 'immutable', 'Wesensschau', 'free variation' and 'residuum'. 'simple nature' occurs in Chapter V, in Henry's report of the Cartesian doctrine of primitive natures - the only place in the corpus so far, outside the Marion record, where that vocabulary is in play. Closely read Chapter V (lines 699-772); the Conclusion (905-1049) was read for its essence-of-the-body statements only."
+  },
+  "coverage": "partial",
+  "coverage_note": "Covers Chapter V (Cartesian dualism) in full and the Conclusion (the ontological theory of the body) for its essence-vocabulary. Chapters I-IV and Chapter VI, where the theme's hits are sparser, were keyword-scanned only.",
+  "units": [
+    {
+      "id": "wesen/henry-corps/001",
+      "locator": "henry-philosophie-et-phenomenologie-du-corps-commentary#h2-chapter-v-cartesian-dualism",
+      "term": "essence of body",
+      "status": "introduced",
+      "claim": "The Cartesian analysis of the body is called an essential analysis issuing in extension as the essence of body.",
+      "quote": "It is an essential analysis, issuing in extension as the essence of body."
+    },
+    {
+      "id": "wesen/henry-corps/002",
+      "locator": "henry-philosophie-et-phenomenologie-du-corps-commentary#h2-chapter-v-cartesian-dualism",
+      "term": "essence of body as extension",
+      "status": "presupposed",
+      "claim": "The ontological determination of the essence of body as extension is said to have an absolutely general signification in Cartesianism, holding for the living body as for inert nature.",
+      "quote": "The ontological determination of the essence of body as extension has in Cartesianism an absolutely general signification"
+    },
+    {
+      "id": "wesen/henry-corps/003",
+      "locator": "henry-philosophie-et-phenomenologie-du-corps-commentary#h2-chapter-v-cartesian-dualism",
+      "term": "simple nature",
+      "status": "introduced",
+      "claim": "Descartes is said to account for the phenomenological body of man only by recognizing a new simple nature, no less fundamental than the primitive natures of extension and thought.",
+      "quote": "only by recognizing a new simple nature, no less fundamental than the two primitive natures of extension and thought on which the whole Cartesian edifice seems in many respects to rest."
+    },
+    {
+      "id": "wesen/henry-corps/004",
+      "locator": "henry-philosophie-et-phenomenologie-du-corps-commentary#h2-chapter-v-cartesian-dualism",
+      "term": "simple nature",
+      "status": "introduced",
+      "claim": "The new fundamental simple nature is identified as the union of soul and body, so that Cartesianism is no longer a dualism but three primitive simple natures equal in dignity.",
+      "quote": "This new fundamental simple nature is the union of soul and body."
+    },
+    {
+      "id": "wesen/henry-corps/005",
+      "locator": "henry-philosophie-et-phenomenologie-du-corps-commentary#h2-chapter-v-cartesian-dualism",
+      "term": "simple nature of the union",
+      "status": "criticized",
+      "claim": "It is asked whether a philosophical interpretation of the Cartesian simple nature of the union has ever been furnished, or its conditions of possibility even posed.",
+      "quote": "But has a philosophical interpretation of the Cartesian simple nature of the union ever been furnished?"
+    },
+    {
+      "id": "wesen/henry-corps/006",
+      "locator": "henry-philosophie-et-phenomenologie-du-corps-commentary#h2-chapter-v-cartesian-dualism",
+      "term": "essences of thought and extension",
+      "status": "presupposed",
+      "claim": "Cartesianism is said to have elaborated the essences of thought and extension within a phenomenological ontology, and the third primitive nature is required to be determined in the same manner.",
+      "quote": "It is indeed within a phenomenological ontology that Cartesianism itself elaborated the essences of thought and extension, and it is evidently in the same manner that one should proceed to determine the essence of the third primitive nature."
+    },
+    {
+      "id": "wesen/henry-corps/007",
+      "locator": "henry-philosophie-et-phenomenologie-du-corps-commentary#h2-chapter-v-cartesian-dualism",
+      "term": "eidetic determination",
+      "status": "revised",
+      "claim": "Affectivity is said not to result from a contribution exterior to thought but to be an eidetic determination of it.",
+      "quote": "affectivity, far from resulting from a contribution exterior to thought, is on the contrary an *eidetic determination* of it"
+    },
+    {
+      "id": "wesen/henry-corps/008",
+      "locator": "henry-philosophie-et-phenomenologie-du-corps-commentary#h2-conclusion-the-ontological-theory-of-the-body-and-the-problem-of-incarnation-fle",
+      "term": "subjective essence",
+      "status": "introduced",
+      "claim": "The theory is said to show on the ontological plane the subjective essence of all the original determinations of corporeal life, not only of sexual ones.",
+      "quote": "it shows on the ontological plane the subjective essence of all the original determinations of corporeal life"
+    }
+  ],
+  "absences": [
+    {
+      "locator": "henry-philosophie-et-phenomenologie-du-corps-commentary#h2-chapter-v-cartesian-dualism",
+      "expected_because": "The chapter works through the Cartesian doctrine of primitive simple natures at length and asks how the essence of the third of them could be determined phenomenologically - so if the corpus anywhere connected Descartes' natures to the vocabulary of true and immutable natures or innate ideas, it would be here.",
+      "absent_terms": ["true and immutable", "true and immutable nature", "immutable", "innate", "innate idea", "Wesensschau", "free variation", "residuum"],
+      "note": "Bears on gap-007. The chapter carries 'simple nature' - the one piece of Cartesian essence-vocabulary in the theme's search terms that occurs here - but never the Meditation V doctrine of vera et immutabilis natura, and never Husserl's Wesensschau alongside it."
+    }
+  ]
+}
