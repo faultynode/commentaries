@@ -110,6 +110,77 @@
 
 *Partial pass: Fourth Chapter §§ 24-25 (retention as a transcendence within the phenomenological attitude) and Sixth Chapter § 37 (the temporal principle of the unity of the stream). The 20 other sections with term hits, among them §§ 2 and 8 on the spatio-temporal environment, are not extracted.*
 
+### 1913-1928 - Husserl, Hua 3 — Ideas I, Parts 3–4
+
+`husserliana-3-ideas-i-parts-3-4-commentary`
+
+- **introduced** · `zeitlichkeit/hua3-34/001` · *phenomenological time*
+  The transcendental absolute won by the reductions is admitted not to be the last thing: it constitutes itself and has its primal source in a last and truly absolute.
+  `husserliana-3-ideas-i-parts-3-4-commentary#h3-s-81-phenomenological-time-and-time-consciousness` · Ideas I § 81 · [§ 81\. Phenomenological Time and Time-Consciousness](https://faultynode.github.io/commentaries/commentaries/husserl/husserliana-3-ideas-i-parts-3-4-commentary.html#phenomenological-time-and-time-consciousness)
+  > The transcendental "Absolute" that we have prepared out for ourselves through the reductions is in truth not the last thing; it is something that constitutes itself in a certain deep-lying and wholly peculiar sense, and has its primal source in a last and truly Absolute.
+
+- **presupposed** · `zeitlichkeit/hua3-34/002` · *time-consciousness*
+  The riddles of time-consciousness are set aside for the preparatory analyses, with a footnote reported as dating the completion of the relevant efforts to 1905 and the Göttingen lectures.
+  `husserliana-3-ideas-i-parts-3-4-commentary#h3-s-81-phenomenological-time-and-time-consciousness` · Ideas I § 81 · [§ 81\. Phenomenological Time and Time-Consciousness](https://faultynode.github.io/commentaries/commentaries/husserl/husserliana-3-ideas-i-parts-3-4-commentary.html#phenomenological-time-and-time-consciousness)
+  > (A footnote notes that his long and long-vain efforts on this were essentially completed in 1905 and communicated in Göttingen university lectures, the time-consciousness lectures.)
+
+- **introduced** · `zeitlichkeit/hua3-34/003` · *Zeitlichkeit*
+  Temporality is said to designate not only something belonging to each single experience but a necessary form binding experiences with experiences into one infinite stream.
+  `husserliana-3-ideas-i-parts-3-4-commentary#h3-s-81-phenomenological-time-and-time-consciousness` · Ideas I § 81 · [§ 81\. Phenomenological Time and Time-Consciousness](https://faultynode.github.io/commentaries/commentaries/husserl/husserliana-3-ideas-i-parts-3-4-commentary.html#phenomenological-time-and-time-consciousness)
+  > The essential property that the title temporality expresses for experiences in general designates not only something generally belonging to every single experience, but a necessary form binding experiences with experiences.
+
+- **presupposed** · `zeitlichkeit/hua3-34/004` · *experience-stream*
+  Single experiences can begin and end while the experience-stream cannot, and every experience as temporal being is the pure ego's, open to its reflective glance as enduring in phenomenological time.
+  `husserliana-3-ideas-i-parts-3-4-commentary#h3-s-81-phenomenological-time-and-time-consciousness` · Ideas I § 81 · [§ 81\. Phenomenological Time and Time-Consciousness](https://faultynode.github.io/commentaries/commentaries/husserl/husserliana-3-ideas-i-parts-3-4-commentary.html#phenomenological-time-and-time-consciousness)
+  > But the experience-stream cannot begin and end. Every experience, as a temporal being, is experience of its pure ego.
+
+- **introduced** · `zeitlichkeit/hua3-34/005` · *modes of givenness*
+  No enduring experience is possible unless it constitutes itself in a continuous flux of givenness-modes, and that mode of givenness is itself an experience of a new kind and dimension.
+  `husserliana-3-ideas-i-parts-3-4-commentary#h3-s-81-phenomenological-time-and-time-consciousness` · Ideas I § 81 · [§ 81\. Phenomenological Time and Time-Consciousness](https://faultynode.github.io/commentaries/commentaries/husserl/husserliana-3-ideas-i-parts-3-4-commentary.html#phenomenological-time-and-time-consciousness)
+  > no enduring experience is possible unless it constitutes itself in a continuous flux of givenness-modes as the unitary thing of the process, or of the duration; further, that this mode of givenness of the temporal experience is itself again an experience, though of a new kind and dimension
+
+- **introduced** · `zeitlichkeit/hua3-34/006` · *now*
+  The actual now is a punctual abiding form for ever new matter, and the just-nows are a continuity of forms of ever new content.
+  `husserliana-3-ideas-i-parts-3-4-commentary#h3-s-81-phenomenological-time-and-time-consciousness` · Ideas I § 81 · [§ 81\. Phenomenological Time and Time-Consciousness](https://faultynode.github.io/commentaries/commentaries/husserl/husserliana-3-ideas-i-parts-3-4-commentary.html#phenomenological-time-and-time-consciousness)
+  > The actual now is necessarily, and remains, a punctual thing, an abiding form for ever new matter. Likewise with the continuity of the "just-nows"; it is a continuity of forms of ever new content.
+
+- **introduced** · `zeitlichkeit/hua3-34/007` · *retention*
+  The retentions are said not to be co-ordinate but nested, a continuous one-within-another of retentions of retentions, with impression continuously changing into retention.
+  `husserliana-3-ideas-i-parts-3-4-commentary#h3-s-81-phenomenological-time-and-time-consciousness` · Ideas I § 81 · [§ 81\. Phenomenological Time and Time-Consciousness](https://faultynode.github.io/commentaries/commentaries/husserl/husserliana-3-ideas-i-parts-3-4-commentary.html#phenomenological-time-and-time-consciousness)
+  > one phase, impression, as limit-phase of a continuity of retentions, which are, however, not co-ordinate, but continuously-intentionally to be referred to one another, a continuous one-within-another of retentions of retentions
+
+- **introduced** · `zeitlichkeit/hua3-34/008` · *protention*
+  The structure is completed by the counter-direction: to the continuum of retentions corresponds one of protentions.
+  `husserliana-3-ideas-i-parts-3-4-commentary#h3-s-81-phenomenological-time-and-time-consciousness` · Ideas I § 81 · [§ 81\. Phenomenological Time and Time-Consciousness](https://faultynode.github.io/commentaries/commentaries/husserl/husserliana-3-ideas-i-parts-3-4-commentary.html#phenomenological-time-and-time-consciousness)
+  > To this comes, however, the counter-direction of the continuous changes: to the before corresponds the after, to the continuum of retentions one of protentions.
+
+- **introduced** · `zeitlichkeit/hua3-34/009` · *horizon*
+  Every experience-now has a necessarily filled horizon of the before and of the after, so that even the onset-phase of a new experience has experiences preceding it.
+  `husserliana-3-ideas-i-parts-3-4-commentary#h3-s-82-continuation-the-threefold-experience-horizon-at-the-same-time-as-the-horiz` · Ideas I § 82 · [§ 82\. Continuation. The Threefold Experience-Horizon, at the Same Time as the Horizon of Experience-Reflection](https://faultynode.github.io/commentaries/commentaries/husserl/husserliana-3-ideas-i-parts-3-4-commentary.html#continuation-the-threefold-experience-horizon-at-the-same-time-as-the-horizon-of-experience-reflection)
+  > Every experience-now, even that of the onset-phase of a newly appearing experience, has necessarily its horizon of the before. But this can in principle be no empty before, an empty form without content, a nonsense.
+
+- **introduced** · `zeitlichkeit/hua3-34/010` · *just-past*
+  No experience can cease without a consciousness of the ceasing and the having-ceased, which is itself a new filled now, so the stream is an infinite unity.
+  `husserliana-3-ideas-i-parts-3-4-commentary#h3-s-82-continuation-the-threefold-experience-horizon-at-the-same-time-as-the-horiz` · Ideas I § 82 · [§ 82\. Continuation. The Threefold Experience-Horizon, at the Same Time as the Horizon of Experience-Reflection](https://faultynode.github.io/commentaries/commentaries/husserl/husserliana-3-ideas-i-parts-3-4-commentary.html#continuation-the-threefold-experience-horizon-at-the-same-time-as-the-horizon-of-experience-reflection)
+  > No experience can cease without consciousness of the ceasing and the having-ceased, and that is a new filled now. The experience-stream is an infinite unity
+
+- **introduced** · `zeitlichkeit/hua3-34/011` · *simultaneity*
+  Every experience stands in an experience-connection under the point of view of simultaneity as well as of succession, the simultaneous experiences making up the pure ego's whole originary consciousness-now.
+  `husserliana-3-ideas-i-parts-3-4-commentary#h3-s-82-continuation-the-threefold-experience-horizon-at-the-same-time-as-the-horiz` · Ideas I § 82 · [§ 82\. Continuation. The Threefold Experience-Horizon, at the Same Time as the Horizon of Experience-Reflection](https://faultynode.github.io/commentaries/commentaries/husserl/husserliana-3-ideas-i-parts-3-4-commentary.html#continuation-the-threefold-experience-horizon-at-the-same-time-as-the-horizon-of-experience-reflection)
+  > every experience stands in an essentially self-contained experience-connection not only under the point of view of temporal succession, but also under the point of view of simultaneity
+
+- **introduced** · `zeitlichkeit/hua3-34/012` · *simultaneously having-been*
+  The simultaneity-horizon enters as a unity into the past-modes, so that every before carries its horizon of the simultaneously having-been.
+  `husserliana-3-ideas-i-parts-3-4-commentary#h3-s-82-continuation-the-threefold-experience-horizon-at-the-same-time-as-the-horiz` · Ideas I § 82 · [§ 82\. Continuation. The Threefold Experience-Horizon, at the Same Time as the Horizon of Experience-Reflection](https://faultynode.github.io/commentaries/commentaries/husserl/husserliana-3-ideas-i-parts-3-4-commentary.html#continuation-the-threefold-experience-horizon-at-the-same-time-as-the-horizon-of-experience-reflection)
+  > Every before, as a modified now, implies, for every experience in view whose before it is, an endless horizon, encompassing all that belongs to the same modified now, in short its horizon of the "simultaneously having-been."
+
+- **introduced** · `zeitlichkeit/hua3-34/013` · *phenomenological time-field*
+  One pure ego and one experience-stream filled in the three dimensions of before, after and simultaneous are declared necessary correlates.
+  `husserliana-3-ideas-i-parts-3-4-commentary#h3-s-82-continuation-the-threefold-experience-horizon-at-the-same-time-as-the-horiz` · Ideas I § 82 · [§ 82\. Continuation. The Threefold Experience-Horizon, at the Same Time as the Horizon of Experience-Reflection](https://faultynode.github.io/commentaries/commentaries/husserl/husserliana-3-ideas-i-parts-3-4-commentary.html#continuation-the-threefold-experience-horizon-at-the-same-time-as-the-horizon-of-experience-reflection)
+  > One pure ego, one experience-stream filled in all three dimensions, essentially connected in this filling, demanding itself in its content-continuity: these are necessary correlates.
+
+*Partial pass: §§ 81-82, where phenomenological time is thematic. §§ 77-78, § 113 and § 149, which carry the remaining term hits, are not extracted.*
+
 ### 1917 to 1918 - Husserl, Hua 33 — Die Bernauer Manuskripte über das Zeitbewußtsein
 
 `husserliana-33-die-bernauer-manuskripte-uber-das-zeitbewusstsein-commentary`
@@ -259,6 +330,115 @@
   > The original core of judgment's being is a being in the form of temporality—but not the being of an *individuum*. The difference between individual and ideal temporal being is fundamental.
 
 *Partial pass: The sections where time-consciousness carries the argument: Part 2 §§ 18 and 30, Part 3 § 56, and Supplementary Texts Section 1 (the 1920/21 first version). The remaining 38 sections with term hits, including the affection and association analyses of Part 2, are not extracted.*
+
+### 1920 to 1934 - Husserl Die Lebenswelt Commentary
+
+`husserliana-39-die-lebenswelt-commentary`
+
+- **introduced** · `zeitlichkeit/hua39/001` · *all-temporal universe*
+  The world is characterised as an all-temporal universe extending through all its past and its entire open future rather than as an unchangeable present-universe of pre-givennesses.
+  `husserliana-39-die-lebenswelt-commentary#h3-text-nr-6-universe-of-pre-givenness-and-world-constitution-of-the-universe-of-pr` · Text Nr. 6, pp. 50-51 · [Text Nr. 6. Universe of Pre-Givenness and World. Constitution of the Universe of Pre-Givenness through Habituality (Universum der Vorgegebenheit und Welt. Konstitution des Universums der Vorgegebenheit durch Habitualität)](https://faultynode.github.io/commentaries/commentaries/husserl/husserliana-39-die-lebenswelt-commentary.html#text-nr-6-universe-of-pre-givenness-and-world-constitution-of-the-universe-of-pre-givenness-through-habituality-universum-der-vorgegebenheit-und-welt-konstitution-des-universums-der-vorgegebenheit-durch-habitualitat)
+  > changeable present-universe of pre-givennesses, but an *all-temporal universe* extending through all its past and into its entire open future — passing through all universes of pre-givennesses.
+
+- **introduced** · `zeitlichkeit/hua39/002` · *temporal form*
+  Space is subordinated to the temporal form as the temporally omnivalid form of real simultaneity, both being the enduring form of the one universe.
+  `husserliana-39-die-lebenswelt-commentary#h3-text-nr-6-universe-of-pre-givenness-and-world-constitution-of-the-universe-of-pr` · Text Nr. 6, pp. 50-51 · [Text Nr. 6. Universe of Pre-Givenness and World. Constitution of the Universe of Pre-Givenness through Habituality (Universum der Vorgegebenheit und Welt. Konstitution des Universums der Vorgegebenheit durch Habitualität)](https://faultynode.github.io/commentaries/commentaries/husserl/husserliana-39-die-lebenswelt-commentary.html#text-nr-6-universe-of-pre-givenness-and-world-constitution-of-the-universe-of-pre-givenness-through-habituality-universum-der-vorgegebenheit-und-welt-konstitution-des-universums-der-vorgegebenheit-durch-habitualitat)
+  > The enduring form of this one universe is not only time but also space (where space is actually a form subordinate to the temporal form — the temporally omnivalid form of real simultaneity)
+
+- **introduced** · `zeitlichkeit/hua39/003` · *Zeitform der Welt*
+  The temporal form of the world is the form in which realities preserve themselves, and world-time is not merely experienced in time but constituted through the streaming temporality of consciousness.
+  `husserliana-39-die-lebenswelt-commentary#h3-text-nr-50-the-temporal-form-of-the-world-as-form-of-self-preservation-of-realit` · Text Nr. 50, pp. 554ff. · [Text Nr. 50. The Temporal Form of the World as Form of Self-Preservation of Realities and Its Subjective Constitution (Die Zeitform der Welt als Form der Selbsterhaltung von Realitäten und ihre subjektive Konstitution)](https://faultynode.github.io/commentaries/commentaries/husserl/husserliana-39-die-lebenswelt-commentary.html#text-nr-50-the-temporal-form-of-the-world-as-form-of-self-preservation-of-realities-and-its-subjective-constitution-die-zeitform-der-welt-als-form-der-selbsterhaltung-von-realitaten-und-ihre-subjektive-konstitution)
+  > The time of the world is not merely experienced *in* time but *constituted through* the streaming temporality of consciousness.
+
+- **presupposed** · `zeitlichkeit/hua39/004` · *living present*
+  The subjective constitution of the world's temporal form is said to involve retention, primal impression and protention, the living present being the absolute source of all temporal constitution.
+  `husserliana-39-die-lebenswelt-commentary#h3-text-nr-50-the-temporal-form-of-the-world-as-form-of-self-preservation-of-realit` · Text Nr. 50, pp. 554ff. · [Text Nr. 50. The Temporal Form of the World as Form of Self-Preservation of Realities and Its Subjective Constitution (Die Zeitform der Welt als Form der Selbsterhaltung von Realitäten und ihre subjektive Konstitution)](https://faultynode.github.io/commentaries/commentaries/husserl/husserliana-39-die-lebenswelt-commentary.html#text-nr-50-the-temporal-form-of-the-world-as-form-of-self-preservation-of-realities-and-its-subjective-constitution-die-zeitform-der-welt-als-form-der-selbsterhaltung-von-realitaten-und-ihre-subjektive-konstitution)
+  > The subjective constitution of this temporal form involves the interplay of retention, primal impression, and protention — the living present as the absolute source of all temporal constitution.
+
+- **introduced** · `zeitlichkeit/hua39/005` · *absolute Zeitigung*
+  Universal temporality as the form of the world's self-preservation is grounded in an absolute streaming that is not in time and temporalizes itself while temporalizing everything else.
+  `husserliana-39-die-lebenswelt-commentary#h3-text-nr-51-universal-temporality-as-self-preservation-and-the-problem-of-absolut` · Text Nr. 51, pp. 580ff. · [Text Nr. 51. Universal Temporality as Self-Preservation and the Problem of Absolute Temporalization (Universale Zeitlichkeit als Selbsterhaltung und das Problem der absoluten Zeitigung)](https://faultynode.github.io/commentaries/commentaries/husserl/husserliana-39-die-lebenswelt-commentary.html#text-nr-51-universal-temporality-as-self-preservation-and-the-problem-of-absolute-temporalization-universale-zeitlichkeit-als-selbsterhaltung-und-das-problem-der-absoluten-zeitigung)
+  > The absolute flow has a unique self-constitution: it temporalizes itself while temporalizing everything else.
+
+- **introduced** · `zeitlichkeit/hua39/006` · *standing-streaming living present*
+  The life-world's character as life-world is said to be constituted through retention, protention, recollection and expectation, the standing-streaming living present giving it its distinctive mode of being.
+  `husserliana-39-die-lebenswelt-commentary#h3-text-nr-52-constitutive-temporal-problems-and-their-significance-for-the-underst` · Text Nr. 52, pp. 586ff. · [Text Nr. 52. Constitutive Temporal Problems and Their Significance for the Understanding of the World as Life-World (Konstitutive Zeitprobleme und ihre Bedeutung für das Verständnis der Welt als Lebenswelt)](https://faultynode.github.io/commentaries/commentaries/husserl/husserliana-39-die-lebenswelt-commentary.html#text-nr-52-constitutive-temporal-problems-and-their-significance-for-the-understanding-of-the-world-as-life-world-konstitutive-zeitprobleme-und-ihre-bedeutung-fur-das-verstandnis-der-welt-als-lebenswelt)
+  > The standing-streaming character of the living present gives the life-world its distinctive mode of being: always the same and always changing, always familiar and always new.
+
+*Partial pass: Section VIII (Texts Nr. 50-52, the general aspects of the temporal constitution of the life-world) and Text Nr. 6. The other 18 sections carrying term hits are not extracted; the section VIII entries are themselves short summaries of the German texts rather than full unit-by-unit commentary.*
+
+### 1921-1922 - Heidegger, GA 61 — Phenomenological Interpretations of Aristotle
+
+`heidegger-ga-61-phenomenological-interpretations-of-aristotle-commentary`
+
+- **introduced** · `zeitlichkeit/ga61/001` · *Zeitigungssinn*
+  Comportment is determined in several respects, among them the temporalizing sense: the way the enactment becomes and is in and for its situation.
+  `heidegger-ga-61-phenomenological-interpretations-of-aristotle-commentary#h4-b-comportment` · [B. Comportment](https://faultynode.github.io/commentaries/commentaries/heidegger/heidegger-ga-61-phenomenological-interpretations-of-aristotle-commentary.html#b-comportment)
+  > as the way the enactment becomes and is in and for its situation — temporalizing sense (*Zeitigungssinn*)
+
+- **presupposed** · `zeitlichkeit/ga61/002` · *temporalizing*
+  Of the two senses of comportment, the enactment sense together with the relational sense is called temporalizing, existence, while the relation detached from enactment becomes objectified intentionality.
+  `heidegger-ga-61-phenomenological-interpretations-of-aristotle-commentary#h4-b-comportment` · [B. Comportment](https://faultynode.github.io/commentaries/commentaries/heidegger/heidegger-ga-61-phenomenological-interpretations-of-aristotle-commentary.html#b-comportment)
+  > The first equals enactment (*Vollzug*) in the broader sense, and "together" with the second, temporalizing, existence. The second is relation (*Bezug*), and detached from the first, it becomes objectified intentionality.
+
+- **introduced** · `zeitlichkeit/ga61/003` · *co-temporalizes*
+  The nothing toward which factical life falls is said to co-temporalize the fall, the fall being formed from a whither that temporalizes itself in concern.
+  `heidegger-ga-61-phenomenological-interpretations-of-aristotle-commentary#h5-b-the-whither-of-ruinance-the-nothing` · [b) The Whither of Ruinance: The Nothing](https://faultynode.github.io/commentaries/commentaries/heidegger/heidegger-ga-61-phenomenological-interpretations-of-aristotle-commentary.html#b-the-whither-of-ruinance-the-nothing)
+  > This nothing is a possibility that precisely does not give standing, accommodation, does not catch the fall and end it, but is something that factically co-temporalizes the fall. The fall is in a peculiar way formed from its whither, which for its part temporalizes itself in concern.
+
+- **introduced** · `zeitlichkeit/ga61/004` · *the still*
+  The still of the still-being-there of environmental life is called a characteristic determination of the temporality at work in ruinance.
+  `heidegger-ga-61-phenomenological-interpretations-of-aristotle-commentary#h5-b-the-whither-of-ruinance-the-nothing` · [b) The Whither of Ruinance: The Nothing](https://faultynode.github.io/commentaries/commentaries/heidegger/heidegger-ga-61-phenomenological-interpretations-of-aristotle-commentary.html#b-the-whither-of-ruinance-the-nothing)
+  > It is factically "still" there so; the "still" is again a characteristic determination of the temporality at work here.
+
+- **introduced** · `zeitlichkeit/ga61/005` · *temporalizing-succession*
+  The before of presupposition is distinguished as logical and as temporal, the latter belonging to an enactment- and temporalizing-succession of factical life rather than a theoretical grounding-connection.
+  `heidegger-ga-61-phenomenological-interpretations-of-aristotle-commentary#h2-appendix-i-presupposition` · [Appendix I: Presupposition](https://faultynode.github.io/commentaries/commentaries/heidegger/heidegger-ga-61-phenomenological-interpretations-of-aristotle-commentary.html#appendix-i-presupposition)
+  > (2) the "before" as temporally in the sense of "previously," "first," at the same time as in advance — in the series of positings connected in a non-logical succession, an enactment- and temporalizing-succession of factical life
+
+#### Recorded absences
+
+- **absent** · `heidegger-ga-61-phenomenological-interpretations-of-aristotle-commentary#h5-b-the-whither-of-ruinance-the-nothing`
+  Expected because: The section interprets factical life as movedness and fall, the analysis Sein und Zeit will ground in ecstatic temporality; the vocabulary of temporality proper is nonetheless absent, and the section works with Zeitigung, direction and the still instead.
+  [b) The Whither of Ruinance: The Nothing](https://faultynode.github.io/commentaries/commentaries/heidegger/heidegger-ga-61-phenomenological-interpretations-of-aristotle-commentary.html#b-the-whither-of-ruinance-the-nothing)
+
+*Partial pass: The sections where temporalizing is a term of art: Chapter 2 B (Comportment), the ruinance chapter B b, and Appendix I. The 20 other sections with term hits, most of them incidental uses of 'temporal' or 'moment', are not extracted.*
+
+### 1923-1924 - Husserl, Hua 7 — Erste Philosophie I
+
+`husserliana-7-erste-philosophie-i-commentary`
+
+- **introduced** · `zeitlichkeit/hua7/001` · *immanent time-stream*
+  The real piece of an experience is every itself-immanent temporal component of the experience-process, while memories and expectations of the same are separated experiences in immanent temporality with no piece in common.
+  `husserliana-7-erste-philosophie-i-commentary#h3-fifteenth-lecture-the-problem-of-immanence-and-of-the-synthetic-unity-in-conscio` · Fifteenth Lecture · [Fifteenth Lecture: The problem of immanence and of the synthetic unity in consciousness](https://faultynode.github.io/commentaries/commentaries/husserl/husserliana-7-erste-philosophie-i-commentary.html#fifteenth-lecture-the-problem-of-immanence-and-of-the-synthetic-unity-in-consciousness)
+  > Real piece of the experience, as datum of the immanent time-stream, is every itself-immanent temporal component of the experience-process; but the manifold memories or expectations in which we re-remember the same or pre-expect the same are, in the immanent temporality, *separated* experiences and can have no piece in common.
+
+- **presupposed** · `zeitlichkeit/hua7/002` · *remembered past*
+  The past of which we are mindful is remembered past and the future expected is foreseen future, neither being a real component of the present experiencing.
+  `husserliana-7-erste-philosophie-i-commentary#h3-fifteenth-lecture-the-problem-of-immanence-and-of-the-synthetic-unity-in-conscio` · Fifteenth Lecture · [Fifteenth Lecture: The problem of immanence and of the synthetic unity in consciousness](https://faultynode.github.io/commentaries/commentaries/husserl/husserliana-7-erste-philosophie-i-commentary.html#fifteenth-lecture-the-problem-of-immanence-and-of-the-synthetic-unity-in-consciousness)
+  > The past of which we are mindful is, in the remembering itself, *remembered* past; the future we expect, in the expected itself, *foreseen* future; but as little as the actual past or future is the "meant as such," the "immanent intentional" one, a *real component* in the present experiencing.
+
+- **presupposed** · `zeitlichkeit/hua7/003` · *inner temporal processes*
+  Consciousness can also be described according to its real pieces, a predicative judgment having its steps and pieces as inner temporal processes.
+  `husserliana-7-erste-philosophie-i-commentary#h3-fifteenth-lecture-the-problem-of-immanence-and-of-the-synthetic-unity-in-conscio` · Fifteenth Lecture · [Fifteenth Lecture: The problem of immanence and of the synthetic unity in consciousness](https://faultynode.github.io/commentaries/commentaries/husserl/husserliana-7-erste-philosophie-i-commentary.html#fifteenth-lecture-the-problem-of-immanence-and-of-the-synthetic-unity-in-consciousness)
+  > evidently a predicative judgment has its set-off steps and pieces, as inner temporal processes — its subject-positing, its predicate-positing referred to it
+
+- **revised** · `zeitlichkeit/hua7/004` · *immanent time*
+  Experiences considered exclusively as events running in the universal form of immanent time admit a kind of material description, to which belongs the fleetingness of ideas against impressions.
+  `husserliana-7-erste-philosophie-i-commentary#h3-twenty-third-lecture-hume-s-nominalistic-reduction-of-all-ideas-to-impressions-a` · Twenty-third Lecture · [Twenty-third Lecture: Hume's nominalistic reduction of all ideas to impressions and the countersense in this principle](https://faultynode.github.io/commentaries/commentaries/husserl/husserliana-7-erste-philosophie-i-commentary.html#twenty-third-lecture-humes-nominalistic-reduction-of-all-ideas-to-impressions-and-the-countersense-in-this-principle)
+  > immanent experiences, insofar as they are considered *exclusively* as events running in the universal form of immanent time, stretching through an immanent time-stretch, have also a kind of construction out of real parts and peculiarities that makes possible a kind of *material description*
+
+- **criticized** · `zeitlichkeit/hua7/005` · *individual quasi-being*
+  Hume's grading of liveliness is challenged as possibly confusing a mode of intentional intuitiveness with a mode of individual quasi-being in immanent temporality.
+  `husserliana-7-erste-philosophie-i-commentary#h3-twenty-third-lecture-hume-s-nominalistic-reduction-of-all-ideas-to-impressions-a` · Twenty-third Lecture · [Twenty-third Lecture: Hume's nominalistic reduction of all ideas to impressions and the countersense in this principle](https://faultynode.github.io/commentaries/commentaries/husserl/husserliana-7-erste-philosophie-i-commentary.html#twenty-third-lecture-humes-nominalistic-reduction-of-all-ideas-to-impressions-and-the-countersense-in-this-principle)
+  > whether one may seriously also reckon here intensity-like differences of liveliness, and whether already here a mode of *intentional intuitiveness* is not confused with a mode of *individual quasi-being* in the immanent temporality, would still be seriously to weigh
+
+- **criticized** · `zeitlichkeit/hua7/006` · *presentification*
+  The material description is charged with failing on its own terms, since the word perception already carries the intentional reference to something as present, past or fictive.
+  `husserliana-7-erste-philosophie-i-commentary#h3-twenty-third-lecture-hume-s-nominalistic-reduction-of-all-ideas-to-impressions-a` · Twenty-third Lecture · [Twenty-third Lecture: Hume's nominalistic reduction of all ideas to impressions and the countersense in this principle](https://faultynode.github.io/commentaries/commentaries/husserl/husserliana-7-erste-philosophie-i-commentary.html#twenty-third-lecture-humes-nominalistic-reduction-of-all-ideas-to-impressions-and-the-countersense-in-this-principle)
+  > the single word "perception" already carries the intentional reference (of something, as present, as past, as fictive) that Hume's material description cannot account for, so the description fails on its own terms
+
+*Partial pass: The Fifteenth Lecture (immanent temporality and the non-real immanence of the intentional object) and the Twenty-third Lecture (the critique of Hume's material description). The nine other sections with term hits are not extracted.*
 
 ### 1924-1925 - Sophistes Commentary
 
@@ -454,6 +634,47 @@
 
 *Partial pass: Second Division §§ 65, 66, 69 and 83. §§ 5 and 6 of the Introduction, which carry the densest term hits in this file, and the remaining 22 sections with hits are not extracted.*
 
+### 1927 - Heidegger, GA 24 — Die Grundprobleme der Phänomenologie
+
+`heidegger-ga-24-die-grundprobleme-der-phanomenologie-commentary`
+
+- **introduced** · `zeitlichkeit/ga24/001` · *Zeitlichkeit*
+  The ontological analytic of Dasein discloses temporality as the originary constitution of its being, and the traditional philosophical concept of time is called only an offshoot of it.
+  `heidegger-ga-24-die-grundprobleme-der-phanomenologie-commentary#h2-s-4-the-four-theses-about-being-and-the-basic-problems-of-phenomenology` · GA 24 § 4 · [§ 4\. The Four Theses about Being and the Basic Problems of Phenomenology](https://faultynode.github.io/commentaries/commentaries/heidegger/heidegger-ga-24-die-grundprobleme-der-phanomenologie-commentary.html#the-four-theses-about-being-and-the-basic-problems-of-phenomenology)
+  > As the originary constitution of the being of Dasein, the ontological analytic of Dasein discloses *Zeitlichkeit* — temporality. The interpretation of temporality leads to a more radical understanding and conceiving of time than was possible in previous philosophy.
+
+- **introduced** · `zeitlichkeit/ga24/002` · *horizon*
+  The thesis to be verified is that the horizon out of which being in general becomes intelligible is time, so that the interpretation of being is temporal.
+  `heidegger-ga-24-die-grundprobleme-der-phanomenologie-commentary#h2-s-4-the-four-theses-about-being-and-the-basic-problems-of-phenomenology` · GA 24 § 4 · [§ 4\. The Four Theses about Being and the Basic Problems of Phenomenology](https://faultynode.github.io/commentaries/commentaries/heidegger/heidegger-ga-24-die-grundprobleme-der-phanomenologie-commentary.html#the-four-theses-about-being-and-the-basic-problems-of-phenomenology)
+  > From this grows the prospect of a possible verification of the thesis: *the horizon out of which something like being in general becomes intelligible is time*. We interpret being out of time (tempus). The interpretation is *temporal*.
+
+- **introduced** · `zeitlichkeit/ga24/003` · *Temporalität*
+  Zeitlichkeit is terminologically distinguished from Temporalität, the temporality of being itself and the temporal horizon out of which being is understood.
+  `heidegger-ga-24-die-grundprobleme-der-phanomenologie-commentary#h2-s-4-the-four-theses-about-being-and-the-basic-problems-of-phenomenology` · GA 24 § 4 · [§ 4\. The Four Theses about Being and the Basic Problems of Phenomenology](https://faultynode.github.io/commentaries/commentaries/heidegger/heidegger-ga-24-die-grundprobleme-der-phanomenologie-commentary.html#the-four-theses-about-being-and-the-basic-problems-of-phenomenology)
+  > Heidegger here distinguishes terminologically between *Zeitlichkeit* (the temporality of Dasein) and *Temporalität* (the temporality of being itself, the temporal horizon out of which being is understood)
+
+- **presupposed** · `zeitlichkeit/ga24/004` · *ontological difference*
+  The ontological difference can be enacted for ontological investigation only if it is shown how temporality makes possible the distinguishability of being and beings.
+  `heidegger-ga-24-die-grundprobleme-der-phanomenologie-commentary#h2-s-4-the-four-theses-about-being-and-the-basic-problems-of-phenomenology` · GA 24 § 4 · [§ 4\. The Four Theses about Being and the Basic Problems of Phenomenology](https://faultynode.github.io/commentaries/commentaries/heidegger/heidegger-ga-24-die-grundprobleme-der-phanomenologie-commentary.html#the-four-theses-about-being-and-the-basic-problems-of-phenomenology)
+  > the ontological difference is to be clarified and unambiguously enacted for ontological investigation only if the meaning of being as such has been explicitly brought to light, that is, only if it is shown how temporality makes possible the distinguishability of being and beings
+
+- **revised** · `zeitlichkeit/ga24/005` · *a priori*
+  The a priori is read as a time-determination outside clock-time, an earlier that the vulgar understanding grasps as the later and that only the interpretation of being out of temporality can make intelligible.
+  `heidegger-ga-24-die-grundprobleme-der-phanomenologie-commentary#h2-s-5-the-methodical-character-of-ontology-the-three-basic-pieces-of-the-phenomeno` · GA 24 § 5 · [§ 5\. The Methodical Character of Ontology. The Three Basic Pieces of the Phenomenological Method](https://faultynode.github.io/commentaries/commentaries/heidegger/heidegger-ga-24-die-grundprobleme-der-phanomenologie-commentary.html#the-methodical-character-of-ontology-the-three-basic-pieces-of-the-phenomenological-method)
+  > The "earlier" is a time-determination, but one which does not lie in the temporal order of the time we measure with the clock — but rather an "earlier" that belongs to the *verkehrte Welt*, the inverted world.
+
+- **revised** · `zeitlichkeit/ga24/006` · *Apriorität*
+  The priority of being before beings is said to be not the logical priority of categories but the temporal priority of being-determinations, understandable only out of Temporalität.
+  `heidegger-ga-24-die-grundprobleme-der-phanomenologie-commentary#h2-s-5-the-methodical-character-of-ontology-the-three-basic-pieces-of-the-phenomeno` · GA 24 § 5 · [§ 5\. The Methodical Character of Ontology. The Three Basic Pieces of the Phenomenological Method](https://faultynode.github.io/commentaries/commentaries/heidegger/heidegger-ga-24-die-grundprobleme-der-phanomenologie-commentary.html#the-methodical-character-of-ontology-the-three-basic-pieces-of-the-phenomenological-method)
+  > it is not the *logical* priority of categories but the *temporal* priority of being-determinations, which can be understood only out of *Temporalität*
+
+- **presupposed** · `zeitlichkeit/ga24/007` · *temporality and historicality*
+  Ontology is said to have an ontic foundation in Dasein, so that its own possibility is bound to Dasein's existence, its temporality and historicality, more originarily than any other science.
+  `heidegger-ga-24-die-grundprobleme-der-phanomenologie-commentary#h2-s-5-the-methodical-character-of-ontology-the-three-basic-pieces-of-the-phenomeno` · GA 24 § 5 · [§ 5\. The Methodical Character of Ontology. The Three Basic Pieces of the Phenomenological Method](https://faultynode.github.io/commentaries/commentaries/heidegger/heidegger-ga-24-die-grundprobleme-der-phanomenologie-commentary.html#the-methodical-character-of-ontology-the-three-basic-pieces-of-the-phenomenological-method)
+  > are bound to Dasein's existence — that is, to its temporality and historicality — and indeed in a more originary sense than is any other science
+
+*Partial pass: Introduction §§ 4-5, which carry 20 of the file's 24 term hits. §§ 1 and 3 and the one further section with a hit are not extracted.*
+
 ### 1927 to 1953 - Sein und Zeit — Commentary
 
 `heidegger-sein-und-zeit-commentary`
@@ -570,6 +791,119 @@
 
 *Partial pass: SZ Division Two: § 65 (the definition of temporality), § 66 (the tasks of the repetition), § 68 a (temporality of understanding) and § 81 (within-time-ness and the vulgar concept). The remaining 59 sections carrying term hits - § 61, §§ 67-71, §§ 72-77 on historicity, §§ 78-80 on world-time - are not extracted.*
 
+### 1929 - Heidegger, GA 3 — Kant und das Problem der Metaphysik
+
+`heidegger-ga-3-kant-und-das-problem-der-metaphysik-commentary`
+
+- **introduced** · `zeitlichkeit/ga3/001` · *pure self-affection*
+  Time is said to be by its essence pure affection of itself, forming the from-itself-out-toward in such a way that the toward-which looks back into it.
+  `heidegger-ga-3-kant-und-das-problem-der-metaphysik-commentary#h4-s-34-time-as-pure-self-affection-and-the-time-character-of-the-self` · § 34 · [§ 34. Time as Pure Self-Affection and the Time-Character of the Self](https://faultynode.github.io/commentaries/commentaries/heidegger/heidegger-ga-3-kant-und-das-problem-der-metaphysik-commentary.html#time-as-pure-self-affection-and-the-time-character-of-the-self)
+  > Time is by its essence pure affection of itself. Indeed more: it is precisely what forms anything like a "from-itself-out-toward...," in such a way that the toward-which so forming itself looks back and into the aforementioned toward.
+
+- **revised** · `zeitlichkeit/ga3/002` · *self-affection*
+  Self-affection is not one species of affection but the origin of the structure of affection as such, the affecting and the affected being the same movement.
+  `heidegger-ga-3-kant-und-das-problem-der-metaphysik-commentary#h4-s-34-time-as-pure-self-affection-and-the-time-character-of-the-self` · § 34 · [§ 34. Time as Pure Self-Affection and the Time-Character of the Self](https://faultynode.github.io/commentaries/commentaries/heidegger/heidegger-ga-3-kant-und-das-problem-der-metaphysik-commentary.html#time-as-pure-self-affection-and-the-time-character-of-the-self)
+  > The paradox of an affection with nothing outside to do the affecting is resolved by making the affecting and the affected the same movement — which is why "self-affection" is not one species of affection but the origin of the structure of affection as such.
+
+- **introduced** · `zeitlichkeit/ga3/003` · *Selbstheit*
+  Time as pure self-affection forms the essential structure of subjectivity, being what makes anything like being-concerned-with-oneself possible rather than striking a self already at hand.
+  `heidegger-ga-3-kant-und-das-problem-der-metaphysik-commentary#h4-s-34-time-as-pure-self-affection-and-the-time-character-of-the-self` · § 34 · [§ 34. Time as Pure Self-Affection and the Time-Character of the Self](https://faultynode.github.io/commentaries/commentaries/heidegger/heidegger-ga-3-kant-und-das-problem-der-metaphysik-commentary.html#time-as-pure-self-affection-and-the-time-character-of-the-self)
+  > Time as pure self-affection is not an effecting affection that strikes a self already at hand; as pure it forms the essence of anything like being-concerned-with-oneself.
+
+- **introduced** · `zeitlichkeit/ga3/004` · *time-character of the self*
+  Time as pure self-affection is said to lie already within pure apperception as the ground of the possibility of selfhood, so that the pure finite self has time-character in itself.
+  `heidegger-ga-3-kant-und-das-problem-der-metaphysik-commentary#h4-s-34-time-as-pure-self-affection-and-the-time-character-of-the-self` · § 34 · [§ 34. Time as Pure Self-Affection and the Time-Character of the Self](https://faultynode.github.io/commentaries/commentaries/heidegger/heidegger-ga-3-kant-und-das-problem-der-metaphysik-commentary.html#time-as-pure-self-affection-and-the-time-character-of-the-self)
+  > With that it is manifest at a stroke that time as pure self-affection does not occur "alongside" pure apperception "in the mind," but as the ground of the possibility of selfhood already lies within pure apperception, and so first makes the mind a mind.
+
+- **introduced** · `zeitlichkeit/ga3/005` · *time and the I think*
+  Time and the I think are said to be the same, an original sameness Kant produced in his transcendental interpretations without expressly seeing it.
+  `heidegger-ga-3-kant-und-das-problem-der-metaphysik-commentary#h4-s-34-time-as-pure-self-affection-and-the-time-character-of-the-self` · § 34 · [§ 34. Time as Pure Self-Affection and the Time-Character of the Self](https://faultynode.github.io/commentaries/commentaries/heidegger/heidegger-ga-3-kant-und-das-problem-der-metaphysik-commentary.html#time-as-pure-self-affection-and-the-time-character-of-the-self)
+  > Time and the "I think" no longer stand over against each other as incompatible and unhomogeneous: they are the same.
+
+- **presupposed** · `zeitlichkeit/ga3/006` · *Zeitlichkeit*
+  The decisive step of the existential analytic is called the concrete illumination of care as temporality.
+  `heidegger-ga-3-kant-und-das-problem-der-metaphysik-commentary#h4-s-44-the-goal-of-fundamental-ontology` · § 44 · [§ 44. The Goal of Fundamental Ontology](https://faultynode.github.io/commentaries/commentaries/heidegger/heidegger-ga-3-kant-und-das-problem-der-metaphysik-commentary.html#the-goal-of-fundamental-ontology)
+  > xistential analytic is the concrete illumination of care as temporality.
+
+- **criticized** · `zeitlichkeit/ga3/007` · *constant presence*
+  Aristotle's analysis of time is said to be guided by an understanding of being as constant presence, determining the being of time from the now.
+  `heidegger-ga-3-kant-und-das-problem-der-metaphysik-commentary#h4-s-44-the-goal-of-fundamental-ontology` · § 44 · [§ 44. The Goal of Fundamental Ontology](https://faultynode.github.io/commentaries/commentaries/heidegger/heidegger-ga-3-kant-und-das-problem-der-metaphysik-commentary.html#the-goal-of-fundamental-ontology)
+  > it can be shown that precisely this analysis of time is guided by an understanding of being which — concealed from itself in its doing — understands being as constant presence and accordingly determines the "being" of time from the "now," that is, from that character of time which in it is always and constantly present
+
+*Partial pass: §§ 33-34 (the time-character of the transcendental imagination and time as pure self-affection) and § 44 (the goal of fundamental ontology). The other nine sections with term hits, § 35 among them, are not extracted.*
+
+### 1929 to 1937 - Husserl formal and transcendental logic
+
+`husserl-formal-and-transcendental-logic-commentary`
+
+- **introduced** · `zeitlichkeit/ftl/001` · *immanent temporality*
+  Genetic intentional analysis is directed at the whole concrete context, bringing into question the immanent unity of the temporality of life in which life has its history.
+  `husserl-formal-and-transcendental-logic-commentary#h4-b-intentional-explication-of-genesis-genetic-as-well-as-static-originality-of-th` · Appendix II, § 2 b · [b) Intentional Explication of Genesis. Genetic as Well as Static Originality of the Experiencing Givenness-Mode. "Original Institution" of the "Apperception" for Every Object-Category](https://faultynode.github.io/commentaries/commentaries/husserl/husserl-formal-and-transcendental-logic-commentary.html#b-intentional-explication-of-genesis-genetic-as-well-as-static-originality-of-the-experiencing-givenness-mode-original-institution-of-the-apperception-for-every-object-category)
+  > The immanent unity of the temporality of life comes into question, in which life has its "history."
+
+- **introduced** · `zeitlichkeit/ftl/002` · *original institution*
+  No non-original consciousness-mode is essentially possible unless the corresponding original mode has previously occurred in the synthetic unity of immanent temporality as the originally instituting one.
+  `husserl-formal-and-transcendental-logic-commentary#h4-b-intentional-explication-of-genesis-genetic-as-well-as-static-originality-of-th` · Appendix II, § 2 b · [b) Intentional Explication of Genesis. Genetic as Well as Static Originality of the Experiencing Givenness-Mode. "Original Institution" of the "Apperception" for Every Object-Category](https://faultynode.github.io/commentaries/commentaries/husserl/husserl-formal-and-transcendental-logic-commentary.html#b-intentional-explication-of-genesis-genetic-as-well-as-static-originality-of-the-experiencing-givenness-mode-original-institution-of-the-apperception-for-every-object-category)
+  > For every fundamental kind of objectualities, no non-original consciousness-mode is essentially possible unless the corresponding original consciousness-mode has previously occurred in the synthetic unity of immanent temporality as the genetically "originally instituting" one.
+
+- **introduced** · `zeitlichkeit/ftl/003` · *time-form*
+  The universal essential form of intentional genesis is the constitution of immanent temporality, in which every experience receives its identical time-position and enduringly retains it.
+  `husserl-formal-and-transcendental-logic-commentary#h4-c-the-time-form-of-intentional-genesis-and-its-constitution-retentional-modifica` · Appendix II, § 2 c · [c) The Time-Form of Intentional Genesis and Its Constitution. Retentional Modification. Sedimentation in the Background of Non-Prominence (Unconsciousness)](https://faultynode.github.io/commentaries/commentaries/husserl/husserl-formal-and-transcendental-logic-commentary.html#c-the-time-form-of-intentional-genesis-and-its-constitution-retentional-modification-sedimentation-in-the-background-of-non-prominence-unconsciousness)
+  > The universal essential form of intentional genesis is the constitution of immanent temporality: every consciousness-experience, in the streaming change of typically modified givenness-modes within a living present, receives its identical time-position and then enduringly retains it.
+
+- **presupposed** · `zeitlichkeit/ftl/004` · *retentional modification*
+  Retentional consciousness attaches in unalterable necessity to every experience in the primal mode, each modification functioning as a relative primal mode for a new one and pointing back to its absolute primal mode.
+  `husserl-formal-and-transcendental-logic-commentary#h4-c-the-time-form-of-intentional-genesis-and-its-constitution-retentional-modifica` · Appendix II, § 2 c · [c) The Time-Form of Intentional Genesis and Its Constitution. Retentional Modification. Sedimentation in the Background of Non-Prominence (Unconsciousness)](https://faultynode.github.io/commentaries/commentaries/husserl/husserl-formal-and-transcendental-logic-commentary.html#c-the-time-form-of-intentional-genesis-and-its-constitution-retentional-modification-sedimentation-in-the-background-of-non-prominence-unconsciousness)
+  > Each modification functions according to the same lawfulness as a relative primal mode for a new modification, and so continuously onward. Each modification points back to its absolute primal mode.
+
+- **introduced** · `zeitlichkeit/ftl/005` · *sedimentation*
+  The retentional self-modification runs to an essential limit where the prominent flows into the background, the so-called unconscious, called a limit-mode of consciousness and not a phenomenological nothing.
+  `husserl-formal-and-transcendental-logic-commentary#h4-c-the-time-form-of-intentional-genesis-and-its-constitution-retentional-modifica` · Appendix II, § 2 c · [c) The Time-Form of Intentional Genesis and Its Constitution. Retentional Modification. Sedimentation in the Background of Non-Prominence (Unconsciousness)](https://faultynode.github.io/commentaries/commentaries/husserl/husserl-formal-and-transcendental-logic-commentary.html#c-the-time-form-of-intentional-genesis-and-its-constitution-retentional-modification-sedimentation-in-the-background-of-non-prominence-unconsciousness)
+  > this has its limit where the previously prominent flows into the general background — the so-called "unconscious," which is nothing less than a phenomenological nothing but itself a limit-mode of consciousness
+
+- **introduced** · `zeitlichkeit/ftl/006` · *secondary sensibility*
+  The retentional is the first-in-itself non-original givenness-mode of the judgment, the original action transforming in retentional continuity into a passive form of secondary sensibility.
+  `husserl-formal-and-transcendental-logic-commentary#h4-a-the-retentional-as-the-first-in-itself-form-of-secondary-sensibility-the-livin` · Appendix II, § 3 a · [a) The Retentional, as the First-in-Itself Form of "Secondary Sensibility." The Livingly Self-Transforming Constitution of a Many-Membered Judgment](https://faultynode.github.io/commentaries/commentaries/husserl/husserl-formal-and-transcendental-logic-commentary.html#a-the-retentional-as-the-first-in-itself-form-of-secondary-sensibility-the-livingly-self-transforming-constitution-of-a-many-membered-judgment)
+  > The original action transforms in retentional continuity into a secondary form that is no longer activity, a passive form — a form of "secondary sensibility."
+
+- **presupposed** · `zeitlichkeit/ftl/007` · *retention*
+  This retention alone is said to make possible progressive judgment-processes as the living further-formation of categorial meanings into higher-level judgments.
+  `husserl-formal-and-transcendental-logic-commentary#h4-a-the-retentional-as-the-first-in-itself-form-of-secondary-sensibility-the-livin` · Appendix II, § 3 a · [a) The Retentional, as the First-in-Itself Form of "Secondary Sensibility." The Livingly Self-Transforming Constitution of a Many-Membered Judgment](https://faultynode.github.io/commentaries/commentaries/husserl/husserl-formal-and-transcendental-logic-commentary.html#a-the-retentional-as-the-first-in-itself-form-of-secondary-sensibility-the-livingly-self-transforming-constitution-of-a-many-membered-judgment)
+  > This kind of retention alone makes possible progressive judgment-processes as living further-formation and connection of categorial meanings to the unity of ever-new and higher-level judgments.
+
+*Partial pass: Appendix II §§ 2 b-c and § 3 a, where the time-form of intentional genesis and the retentional modification are set out. The nine other sections with term hits are not extracted.*
+
+### 1929 to 1931 - Husserl Cartesian Meditations Analysis
+
+`husserliana-1-cartesianische-meditationen-commentary`
+
+- **introduced** · `zeitlichkeit/hua1/001` · *inner time-consciousness*
+  Identification is met first as an all-pervasive passively proceeding synthesis in the form of continuous inner time-consciousness, every experience having its experience-temporality.
+  `husserliana-1-cartesianische-meditationen-commentary#h3-s-18-identification-as-a-fundamental-form-of-synthesis-universal-synthesis-of-tr` · § 18 · [§ 18. Identification as a Fundamental Form of Synthesis. Universal Synthesis of Transcendental Time](https://faultynode.github.io/commentaries/commentaries/husserl/husserliana-1-cartesianische-meditationen-commentary.html#identification-as-a-fundamental-form-of-synthesis-universal-synthesis-of-transcendental-time)
+  > It confronts us first as an all-pervasive, passively proceeding synthesis in the form of the continuous inner time-consciousness. Every experience has its experience-temporality.
+
+- **introduced** · `zeitlichkeit/hua1/002` · *objective and inner temporality*
+  The objective temporality that appears is to be distinguished from the inner temporality of the appearing, which streams along in phases that are changing appearances of the same object.
+  `husserliana-1-cartesianische-meditationen-commentary#h3-s-18-identification-as-a-fundamental-form-of-synthesis-universal-synthesis-of-tr` · § 18 · [§ 18. Identification as a Fundamental Form of Synthesis. Universal Synthesis of Transcendental Time](https://faultynode.github.io/commentaries/commentaries/husserl/husserliana-1-cartesianische-meditationen-commentary.html#identification-as-a-fundamental-form-of-synthesis-universal-synthesis-of-transcendental-time)
+  > we must distinguish the objective temporality that appears — e.g., that of this cube — from the inner temporality of the appearing (e.g., of the cube-perceiving)
+
+- **introduced** · `zeitlichkeit/hua1/003` · *immanent temporality*
+  All-encompassing inner time-consciousness is called the fundamental form of the universal synthesis that makes all other syntheses possible, its correlate being immanent temporality itself.
+  `husserliana-1-cartesianische-meditationen-commentary#h3-s-18-identification-as-a-fundamental-form-of-synthesis-universal-synthesis-of-tr` · § 18 · [§ 18. Identification as a Fundamental Form of Synthesis. Universal Synthesis of Transcendental Time](https://faultynode.github.io/commentaries/commentaries/husserl/husserliana-1-cartesianische-meditationen-commentary.html#identification-as-a-fundamental-form-of-synthesis-universal-synthesis-of-transcendental-time)
+  > The fundamental form of this universal synthesis, which makes all other syntheses of consciousness possible, is the all-encompassing inner time-consciousness. Its correlate is immanent temporality itself
+
+- **presupposed** · `zeitlichkeit/hua1/004` · *horizon of immanent time*
+  All experiences of the ego found in reflection must present themselves as temporally ordered within the constant infinite horizon of immanent time.
+  `husserliana-1-cartesianische-meditationen-commentary#h3-s-18-identification-as-a-fundamental-form-of-synthesis-universal-synthesis-of-tr` · § 18 · [§ 18. Identification as a Fundamental Form of Synthesis. Universal Synthesis of Transcendental Time](https://faultynode.github.io/commentaries/commentaries/husserl/husserliana-1-cartesianische-meditationen-commentary.html#identification-as-a-fundamental-form-of-synthesis-universal-synthesis-of-transcendental-time)
+  > according to which all experiences of the ego, reflectively found, must present themselves as temporally ordered — as temporally beginning and ending, as simultaneous and successive — within the constant infinite horizon of immanent time
+
+- **introduced** · `zeitlichkeit/hua1/005` · *universal temporality*
+  Essential laws of egological-temporal coexistence and succession are said to govern compossibility, everything emerging in the ego having its temporality and partaking in the form-system of universal temporality.
+  `husserliana-1-cartesianische-meditationen-commentary#h3-s-36-the-transcendental-ego-as-the-universe-of-possible-forms-of-experience-esse` · § 36 · [§ 36. The Transcendental Ego as the Universe of Possible Forms of Experience. Essential-Lawful Regulation of the Compossibility of Experiences in Coexistence and Succession](https://faultynode.github.io/commentaries/commentaries/husserl/husserliana-1-cartesianische-meditationen-commentary.html#the-transcendental-ego-as-the-universe-of-possible-forms-of-experience-essential-lawful-regulation-of-the-compossibility-of-experiences-in-coexistence-and-succession)
+  > Essential laws of egological-temporal coexistence and succession govern. Whatever emerges in my ego — in intentional experiences, in constituted unities, in ego-habitualities — has its temporality and partakes in the form-system of universal temporality.
+
+*Partial pass: § 18 (the universal synthesis of transcendental time) and § 36 (egological-temporal coexistence and succession). §§ 12 and 15 and the four other sections with term hits are not extracted.*
+
 ## Reception layer
 
 *Read alongside the spine, not on it. A commentator's date orders the reception, not the doctrine.*
@@ -635,6 +969,62 @@
 
 *Partial pass: Sections VI and XI, where omnitemporality and the Living Present carry the argument. Sections III, V, VII and X, which also carry term hits, are not extracted.*
 
+### 1963 - Michel Henry, L'essence de la manifestation
+
+`henry-the-essence-of-manifestation-commentary`
+
+- **introduced** · `zeitlichkeit/henry-essence/001` · *temporality*
+  Temporality is defined as the act of returning, from the future Dasein projects, onto the being-been of that act, and fear and anxiety are said to be grasped by Heidegger as modes of it.
+  `henry-the-essence-of-manifestation-commentary#h2-s-43-situation-and-temporality-the-ontological-heterogeneity-of-their-originary` · § 43 · [§ 43\. Situation and temporality. The ontological heterogeneity of their originary structures and its interpretation in the philosophy of transcendence: the idea of contingency and the fall of Dasein](https://faultynode.github.io/commentaries/commentaries/henry/henry-the-essence-of-manifestation-commentary.html#situation-and-temporality-the-ontological-heterogeneity-of-their-originary-structures-and-its-interpretation-in-the-philosophy-of-transcendence-the-idea-of-contingency-and-the-fall-of-dasein)
+  > The act of returning (from the future Dasein projects) onto the being-been of this act (that is, of Dasein itself) is *temporality*.
+
+- **presupposed** · `zeitlichkeit/henry-essence/002` · *ekstases*
+  The accomplishment of temporality is to be understood not as the simple return of the future onto the past but from the finite horizon of death and from what is delivered to it from birth.
+  `henry-the-essence-of-manifestation-commentary#h2-s-43-situation-and-temporality-the-ontological-heterogeneity-of-their-originary` · § 43 · [§ 43\. Situation and temporality. The ontological heterogeneity of their originary structures and its interpretation in the philosophy of transcendence: the idea of contingency and the fall of Dasein](https://faultynode.github.io/commentaries/commentaries/henry/henry-the-essence-of-manifestation-commentary.html#situation-and-temporality-the-ontological-heterogeneity-of-their-originary-structures-and-its-interpretation-in-the-philosophy-of-transcendence-the-idea-of-contingency-and-the-fall-of-dasein)
+  > The accomplishment of temporality rather must be understood not as the simple return of the future onto the past, but from *the most originary determination* of these ekstases — from the finite horizon of death and from what (relating itself to death) is already (from its birth consequently) delivered to it.
+
+- **revised** · `zeitlichkeit/henry-essence/003` · *situation*
+  Situation is said not to coincide with temporality but to take birth in it, arising in the ecstasis of the past because thrownness discovers itself inside that horizon.
+  `henry-the-essence-of-manifestation-commentary#h2-s-43-situation-and-temporality-the-ontological-heterogeneity-of-their-originary` · § 43 · [§ 43\. Situation and temporality. The ontological heterogeneity of their originary structures and its interpretation in the philosophy of transcendence: the idea of contingency and the fall of Dasein](https://faultynode.github.io/commentaries/commentaries/henry/henry-the-essence-of-manifestation-commentary.html#situation-and-temporality-the-ontological-heterogeneity-of-their-originary-structures-and-its-interpretation-in-the-philosophy-of-transcendence-the-idea-of-contingency-and-the-fall-of-dasein)
+  > The situation of Dasein, however, does not confuse itself with temporality; *it takes birth in temporality*.
+
+- **revised** · `zeitlichkeit/henry-essence/004` · *Gewesenheit*
+  Having-been is distinguished from the past: it discovers itself in the past, and within that ecstatic horizon it manifests itself as anterior to the opening of the horizon.
+  `henry-the-essence-of-manifestation-commentary#h2-s-43-situation-and-temporality-the-ontological-heterogeneity-of-their-originary` · § 43 · [§ 43\. Situation and temporality. The ontological heterogeneity of their originary structures and its interpretation in the philosophy of transcendence: the idea of contingency and the fall of Dasein](https://faultynode.github.io/commentaries/commentaries/henry/henry-the-essence-of-manifestation-commentary.html#situation-and-temporality-the-ontological-heterogeneity-of-their-originary-structures-and-its-interpretation-in-the-philosophy-of-transcendence-the-idea-of-contingency-and-the-fall-of-dasein)
+  > *Gewesenheit* (having-been) however is not to be confused with the past (*Vergangenheit*); it *discovers itself in the past*.
+
+- **criticized** · `zeitlichkeit/henry-essence/005` · *Gewesenheit*
+  What the ecstasis of the past reveals is said to be anterior to the ecstatic opening, so that thrownness is revealed by temporalization rather than produced by it.
+  `henry-the-essence-of-manifestation-commentary#h2-s-43-situation-and-temporality-the-ontological-heterogeneity-of-their-originary` · § 43 · [§ 43\. Situation and temporality. The ontological heterogeneity of their originary structures and its interpretation in the philosophy of transcendence: the idea of contingency and the fall of Dasein](https://faultynode.github.io/commentaries/commentaries/henry/henry-the-essence-of-manifestation-commentary.html#situation-and-temporality-the-ontological-heterogeneity-of-their-originary-structures-and-its-interpretation-in-the-philosophy-of-transcendence-the-idea-of-contingency-and-the-fall-of-dasein)
+  > The *Gewesenheit* (having-been) is *given to* the temporal ekstasis of the past; it is not *produced by* the temporalizing activity.
+
+- **criticized** · `zeitlichkeit/henry-essence/006` · *the already*
+  The anteriority discovered in the ecstasis of the past is read as independence, and that independence as immanence, so the 'already' of being-situated marks immanence rather than a temporal mode.
+  `henry-the-essence-of-manifestation-commentary#h2-s-43-situation-and-temporality-the-ontological-heterogeneity-of-their-originary` · § 43 · [§ 43\. Situation and temporality. The ontological heterogeneity of their originary structures and its interpretation in the philosophy of transcendence: the idea of contingency and the fall of Dasein](https://faultynode.github.io/commentaries/commentaries/henry/henry-the-essence-of-manifestation-commentary.html#situation-and-temporality-the-ontological-heterogeneity-of-their-originary-structures-and-its-interpretation-in-the-philosophy-of-transcendence-the-idea-of-contingency-and-the-fall-of-dasein)
+  > The independence of what discovers itself in the ekstasis of the past (relatively to this discovery as it accomplishes itself in the originary temporalization of temporality — that is, as well, in transcendence itself) is *that of immanence*.
+
+- **revised** · `zeitlichkeit/henry-essence/007` · *Vergangenheit*
+  The past's inability to reduce to itself the having-been in which what is foreign to time manifests itself is called its depth, in which the origin of being is hidden.
+  `henry-the-essence-of-manifestation-commentary#h2-s-43-situation-and-temporality-the-ontological-heterogeneity-of-their-originary` · § 43 · [§ 43\. Situation and temporality. The ontological heterogeneity of their originary structures and its interpretation in the philosophy of transcendence: the idea of contingency and the fall of Dasein](https://faultynode.github.io/commentaries/commentaries/henry/henry-the-essence-of-manifestation-commentary.html#situation-and-temporality-the-ontological-heterogeneity-of-their-originary-structures-and-its-interpretation-in-the-philosophy-of-transcendence-the-idea-of-contingency-and-the-fall-of-dasein)
+  > In the incapacity of past properly speaking to reduce to itself what escapes it (the being-having-been where there manifests itself in time what is foreign to time) *resides its "depth." In the depth of the past is hidden the origin of being.*
+
+- **criticized** · `zeitlichkeit/henry-essence/008` · *Nichtigkeit*
+  Heidegger's ecstatically temporal relation of Dasein to its thrown foundation is rejected as unintelligible, on the ground of an eidetic incompatibility between the temporal ecstasis and its nichtig foundation.
+  `henry-the-essence-of-manifestation-commentary#h2-s-43-situation-and-temporality-the-ontological-heterogeneity-of-their-originary` · § 43 · [§ 43\. Situation and temporality. The ontological heterogeneity of their originary structures and its interpretation in the philosophy of transcendence: the idea of contingency and the fall of Dasein](https://faultynode.github.io/commentaries/commentaries/henry/henry-the-essence-of-manifestation-commentary.html#situation-and-temporality-the-ontological-heterogeneity-of-their-originary-structures-and-its-interpretation-in-the-philosophy-of-transcendence-the-idea-of-contingency-and-the-fall-of-dasein)
+  > The *eidetic incompatibility* of the temporal ekstasis and of the proper "*nichtig*" foundation of the ekstasis (of what finds itself determined as "*Nichtigkeit*" by this incompatibility itself) also renders *unintelligible* (incapable in any case of exhibiting in itself the originary essence of the *Geworfenheit*) the idea given however by Heidegger as decisive
+
+- **criticized** · `zeitlichkeit/henry-essence/009` · *temporality*
+  The originary ontological concept of being-in-situation is said to be not founded on temporality but broken by it.
+  `henry-the-essence-of-manifestation-commentary#h2-s-43-situation-and-temporality-the-ontological-heterogeneity-of-their-originary` · § 43 · [§ 43\. Situation and temporality. The ontological heterogeneity of their originary structures and its interpretation in the philosophy of transcendence: the idea of contingency and the fall of Dasein](https://faultynode.github.io/commentaries/commentaries/henry/henry-the-essence-of-manifestation-commentary.html#situation-and-temporality-the-ontological-heterogeneity-of-their-originary-structures-and-its-interpretation-in-the-philosophy-of-transcendence-the-idea-of-contingency-and-the-fall-of-dasein)
+  > *Far from being able to found itself on temporality, the originary ontological concept of being-in-situation finds itself on the contrary broken by temporality.*
+
+- **criticized** · `zeitlichkeit/henry-essence/010` · *immanence*
+  Temporality is allowed to reveal situation but denied the power to ground it, situation being grounded in immanence and temporality itself being the form of transcendence.
+  `henry-the-essence-of-manifestation-commentary#h2-s-43-situation-and-temporality-the-ontological-heterogeneity-of-their-originary` · § 43 · [§ 43\. Situation and temporality. The ontological heterogeneity of their originary structures and its interpretation in the philosophy of transcendence: the idea of contingency and the fall of Dasein](https://faultynode.github.io/commentaries/commentaries/henry/henry-the-essence-of-manifestation-commentary.html#situation-and-temporality-the-ontological-heterogeneity-of-their-originary-structures-and-its-interpretation-in-the-philosophy-of-transcendence-the-idea-of-contingency-and-the-fall-of-dasein)
+  > Henry contests: temporality is itself the form of transcendence; situation is rather the structural being of the immanent ground that *transcends* temporality (in the sense of being structurally prior to it). The situation is not temporal; the situation is the immanent ground of temporality.
+
+*Partial pass: § 43 only, which carries 102 of the commentary's term hits - the section where situation is set against ecstatic temporality. §§ 6, 11, 13, 44 and 47, which carry the remaining hits, are not extracted.*
+
 ### 1967 - La voix et le phénomène
 
 `derrida-la-voix-et-le-phenomene-commentary`
@@ -670,6 +1060,88 @@
   > Their common root — “the possibility of re-petition in its most general form, the *trace* in its most universal sense” — must not only *inhabit* the pure actuality of the now but *constitute it*.
 
 *Partial pass: The Introduction section on temporalization and the Chapter V section on the time-consciousness lectures, which carry 16 of the file's 30 term hits. The summary and key-terms sections and the four remaining sections with hits are not extracted.*
+
+### 1981 - Franck, Chair et corps
+
+`franck-chair-et-corps-commentary`
+
+- **presupposed** · `zeitlichkeit/franck-chair/001` · *immanent temporality*
+  Experiences are said to be ordered by an essential genetic lawfulness in immanent temporality, everything occurring in any ego having its temporality and participating in an all-inclusive system of forms.
+  `franck-chair-et-corps-commentary#h2-chapter-six-phenomenological-idealism` · [Chapter Six: Phenomenological Idealism](https://faultynode.github.io/commentaries/commentaries/fanck/franck-chair-et-corps-commentary.html#chapter-six-phenomenological-idealism)
+  > whatever occurs in my ego, and eidetically in any ego whatsoever — in the form of intentional processes, constituted unities, Ego habitualities — has its temporality, and in this respect participates in the system of forms belonging to the all-inclusive temporality with which every imaginable ego, every possibility-variant of my ego, constitutes itself as itself
+
+- **introduced** · `zeitlichkeit/franck-chair/002` · *original temporality*
+  The temporal form of acts cannot be actively constituted, being the condition of possibility of every act, so original temporality points back to an absolutely passive constitution connected with hyle.
+  `franck-chair-et-corps-commentary#h2-chapter-six-phenomenological-idealism` · [Chapter Six: Phenomenological Idealism](https://faultynode.github.io/commentaries/commentaries/fanck/franck-chair-et-corps-commentary.html#chapter-six-phenomenological-idealism)
+  > This temporal form is itself constituted (the lectures on time-consciousness analyze this constitution from an essentially noematic point of view), but it cannot be *actively* constituted, since it is the very condition of possibility and presupposition of every act. Original temporality therefore points back to an *absolutely passive* constitution.
+
+- **revised** · `zeitlichkeit/franck-chair/003` · *passivity*
+  Two passivities are distinguished: the merely preconstitutive passivity of the originally constitutive temporal flux, and an objectivating passivity erected on it that belongs to the act as act.
+  `franck-chair-et-corps-commentary#h2-chapter-six-phenomenological-idealism` · [Chapter Six: Phenomenological Idealism](https://faultynode.github.io/commentaries/commentaries/fanck/franck-chair-et-corps-commentary.html#chapter-six-phenomenological-idealism)
+  > there is not only a passivity *prior to* the activity — as the passivity of the originally constitutive temporal flux, which is only preconstitutive — but also a passivity *erected on* this, a passivity which is truly objectivating
+
+- **presupposed** · `zeitlichkeit/franck-chair/004` · *temporality*
+  Temporality is called the universal persisting form into which all levels of the ego's performances fit, itself built up in a continual, passive and completely universal genesis.
+  `franck-chair-et-corps-commentary#h2-chapter-six-phenomenological-idealism` · [Chapter Six: Phenomenological Idealism](https://faultynode.github.io/commentaries/commentaries/fanck/franck-chair-et-corps-commentary.html#chapter-six-phenomenological-idealism)
+  > as an infinite nexus of synthetically congruous performances — at levels, all of which fit the universal persisting form, temporality, because the latter itself is built up in a continual, passive and completely universal genesis, which, as a matter of essential necessity, embraces everything new.
+
+- **criticized** · `zeitlichkeit/franck-chair/005` · *pure temporality*
+  If the strangeness at work in association derives from the alter ego, this is said perhaps to imply a definition of pure temporality as the relation to the other.
+  `franck-chair-et-corps-commentary#h2-chapter-six-phenomenological-idealism` · [Chapter Six: Phenomenological Idealism](https://faultynode.github.io/commentaries/commentaries/fanck/franck-chair-et-corps-commentary.html#chapter-six-phenomenological-idealism)
+  > More profoundly still, this perhaps implies a definition of pure temporality as the *relation to the other*. For if the other ego is what is originally foreign to me, then the other ego is what originally affects me.
+
+- **criticized** · `zeitlichkeit/franck-chair/006` · *living present*
+  Defining ownness by apodictic self-perception is said to define it temporally, since such perception can occur only in the incarnate living present, which raises the question whether past and future fall outside ownness.
+  `franck-chair-et-corps-commentary#h2-chapter-ten-the-alteration-of-ownness` · [Chapter Ten: The Alteration of Ownness](https://faultynode.github.io/commentaries/commentaries/fanck/franck-chair-et-corps-commentary.html#chapter-ten-the-alteration-of-ownness)
+  > does this not amount to defining ownness *temporally*, since an apodictic perception of oneself can occur only in the *incarnate living present*?
+
+- **presupposed** · `zeitlichkeit/franck-chair/007` · *retentional modification*
+  Phenomenological perception is called temporal, only the present now being given absolutely and subject to a law of retentional modification, so that the past transcends the present now.
+  `franck-chair-et-corps-commentary#h2-chapter-ten-the-alteration-of-ownness` · [Chapter Ten: The Alteration of Ownness](https://faultynode.github.io/commentaries/commentaries/fanck/franck-chair-et-corps-commentary.html#chapter-ten-the-alteration-of-ownness)
+  > Phenomenological perception is temporal, and only the present *now* is given absolutely; this now is subject to a law of retentional modification. The past *transcends* the present now.
+
+- **introduced** · `zeitlichkeit/franck-chair/008` · *transcendence in immanence*
+  What is received phenomenologically includes not only retention but what is retained, each now of a retention being a retention of a not-now, and this transcendence in immanence is called irreducible.
+  `franck-chair-et-corps-commentary#h2-chapter-ten-the-alteration-of-ownness` · [Chapter Ten: The Alteration of Ownness](https://faultynode.github.io/commentaries/commentaries/fanck/franck-chair-et-corps-commentary.html#chapter-ten-the-alteration-of-ownness)
+  > for what is received phenomenologically is not only the *retention* as such but also *that which is retained*: each now of a retention is a retention of a *not-now*. This "transcendence in immanence" is irreducible; any attempt to reduce it presupposes it.
+
+*Partial pass: Chapter Six (phenomenological idealism, where original temporality is tied to passive constitution) and Chapter Ten (the alteration of ownness, where the living present bounds the sphere of ownness). Chapters One, Two, Three and Five, which also carry term hits, are not extracted.*
+
+### 1986 - Franck, Heidegger and the Problem of Space
+
+`franck-heidegger-and-the-problem-of-space-commentary`
+
+- **presupposed** · `zeitlichkeit/franck-espace/001` · *presence*
+  Metaphysics is said to have implicitly understood the being of beings as presence, and presence to be a temporal determination, so the fracture in the Heideggerian project bears on metaphysics as a whole.
+  `franck-heidegger-and-the-problem-of-space-commentary#h2-introduction` · [Introduction](https://faultynode.github.io/commentaries/commentaries/fanck/franck-heidegger-and-the-problem-of-space-commentary.html#introduction)
+  > citly understood the being of beings as presence, and "presence" is a temporal determination. Therefore the fracture that immobilized the Heideggerian project carries a significance that bears on metaphysics as a whole
+
+- **introduced** · `zeitlichkeit/franck-espace/002` · *Zeitlichkeit / Temporalität*
+  The two words are to be heard as distinct: Zeitlichkeit is the temporality Dasein is, Temporalität the temporal determination of being as such, and the unwritten division was the passage from the first to the second.
+  `franck-heidegger-and-the-problem-of-space-commentary#h2-introduction` · [Introduction](https://faultynode.github.io/commentaries/commentaries/fanck/franck-heidegger-and-the-problem-of-space-commentary.html#introduction)
+  > The two words must be heard as distinct: *Zeitlichkeit* is the temporality that *Dasein* is; *Temporalität* would be the temporal determination of *being as such*. The unwritten division was to be the passage from the first to the second.
+
+- **introduced** · `zeitlichkeit/franck-espace/003` · *Temporalität*
+  Temporalität is defined, on the 1927 course's authority, as temporality thematized as the condition of possibility of the understanding of being and of ontology as such.
+  `franck-heidegger-and-the-problem-of-space-commentary#h2-introduction` · Die Grundprobleme der Phänomenologie (1927) · [Introduction](https://faultynode.github.io/commentaries/commentaries/fanck/franck-heidegger-and-the-problem-of-space-commentary.html#introduction)
+  > *Temporalität* designates temporality *insofar as it is thematized as the condition of possibility of the understanding of being and of ontology as such*. The term is meant to indicate that, within the existential analytic, temporality presents the *horizon* from which we understand being.
+
+- **presupposed** · `zeitlichkeit/franck-espace/004` · *ontological difference*
+  Seeing being in its temporal determinateness is said to be what would let the distinction between being and beings be grasped and the ground of the ontological difference fixed.
+  `franck-heidegger-and-the-problem-of-space-commentary#h2-introduction` · [Introduction](https://faultynode.github.io/commentaries/commentaries/fanck/franck-heidegger-and-the-problem-of-space-commentary.html#introduction)
+  > only when being offers itself to the phenomenological gaze in its temporal determinateness will we be in a position to grasp more clearly the *distinction between being and beings* and to fix the ground of the **ontological difference**
+
+- **criticized** · `zeitlichkeit/franck-espace/005` · *Temporalität*
+  The incompletion of Sein und Zeit is said to bear the imprint of an aporia as originary as the question itself, not of a contingent failure to reach the Temporalität of being.
+  `franck-heidegger-and-the-problem-of-space-commentary#h2-introduction` · [Introduction](https://faultynode.github.io/commentaries/commentaries/fanck/franck-heidegger-and-the-problem-of-space-commentary.html#introduction)
+  > Rather, the incompletion bears the imprint of an *aporia* — an impasse — that is doubtless as originary as the question itself, indeed perhaps originary *of* the question, lying at its very source.
+
+- **presupposed** · `zeitlichkeit/franck-espace/006` · *originary time*
+  The closing questions of Sein und Zeit are read as marking in advance the theme of the missing division: whether a path leads from originary time to the meaning of being.
+  `franck-heidegger-and-the-problem-of-space-commentary#h2-introduction` · Sein und Zeit, closing words · [Introduction](https://faultynode.github.io/commentaries/commentaries/fanck/franck-heidegger-and-the-problem-of-space-commentary.html#introduction)
+  > Does a path lead from originary time to the *meaning of being*? Does time itself manifest itself as the *horizon of being*?
+
+*Partial pass: The Introduction, which carries 47 of the file's 64 term hits and states the Zeitlichkeit/Temporalität distinction the book turns on. Chapters I and II, which carry the rest, are not extracted.*
 
 ### 1986 - Jean-Luc Marion, Sur le prisme métaphysique de Descartes — Commentary
 
@@ -837,103 +1309,6 @@
 
 *These commentaries do not state a date for their text. They are held out of the sequence rather than placed on a guess; see `synthesis/chronology.json`.*
 
-### undated - Heidegger, GA 24 — Die Grundprobleme der Phänomenologie
-
-`heidegger-ga-24-die-grundprobleme-der-phanomenologie-commentary`
-
-- **introduced** · `zeitlichkeit/ga24/001` · *Zeitlichkeit*
-  The ontological analytic of Dasein discloses temporality as the originary constitution of its being, and the traditional philosophical concept of time is called only an offshoot of it.
-  `heidegger-ga-24-die-grundprobleme-der-phanomenologie-commentary#h2-s-4-the-four-theses-about-being-and-the-basic-problems-of-phenomenology` · GA 24 § 4 · [§ 4\. The Four Theses about Being and the Basic Problems of Phenomenology](https://faultynode.github.io/commentaries/commentaries/heidegger/heidegger-ga-24-die-grundprobleme-der-phanomenologie-commentary.html#the-four-theses-about-being-and-the-basic-problems-of-phenomenology)
-  > As the originary constitution of the being of Dasein, the ontological analytic of Dasein discloses *Zeitlichkeit* — temporality. The interpretation of temporality leads to a more radical understanding and conceiving of time than was possible in previous philosophy.
-
-- **introduced** · `zeitlichkeit/ga24/002` · *horizon*
-  The thesis to be verified is that the horizon out of which being in general becomes intelligible is time, so that the interpretation of being is temporal.
-  `heidegger-ga-24-die-grundprobleme-der-phanomenologie-commentary#h2-s-4-the-four-theses-about-being-and-the-basic-problems-of-phenomenology` · GA 24 § 4 · [§ 4\. The Four Theses about Being and the Basic Problems of Phenomenology](https://faultynode.github.io/commentaries/commentaries/heidegger/heidegger-ga-24-die-grundprobleme-der-phanomenologie-commentary.html#the-four-theses-about-being-and-the-basic-problems-of-phenomenology)
-  > From this grows the prospect of a possible verification of the thesis: *the horizon out of which something like being in general becomes intelligible is time*. We interpret being out of time (tempus). The interpretation is *temporal*.
-
-- **introduced** · `zeitlichkeit/ga24/003` · *Temporalität*
-  Zeitlichkeit is terminologically distinguished from Temporalität, the temporality of being itself and the temporal horizon out of which being is understood.
-  `heidegger-ga-24-die-grundprobleme-der-phanomenologie-commentary#h2-s-4-the-four-theses-about-being-and-the-basic-problems-of-phenomenology` · GA 24 § 4 · [§ 4\. The Four Theses about Being and the Basic Problems of Phenomenology](https://faultynode.github.io/commentaries/commentaries/heidegger/heidegger-ga-24-die-grundprobleme-der-phanomenologie-commentary.html#the-four-theses-about-being-and-the-basic-problems-of-phenomenology)
-  > Heidegger here distinguishes terminologically between *Zeitlichkeit* (the temporality of Dasein) and *Temporalität* (the temporality of being itself, the temporal horizon out of which being is understood)
-
-- **presupposed** · `zeitlichkeit/ga24/004` · *ontological difference*
-  The ontological difference can be enacted for ontological investigation only if it is shown how temporality makes possible the distinguishability of being and beings.
-  `heidegger-ga-24-die-grundprobleme-der-phanomenologie-commentary#h2-s-4-the-four-theses-about-being-and-the-basic-problems-of-phenomenology` · GA 24 § 4 · [§ 4\. The Four Theses about Being and the Basic Problems of Phenomenology](https://faultynode.github.io/commentaries/commentaries/heidegger/heidegger-ga-24-die-grundprobleme-der-phanomenologie-commentary.html#the-four-theses-about-being-and-the-basic-problems-of-phenomenology)
-  > the ontological difference is to be clarified and unambiguously enacted for ontological investigation only if the meaning of being as such has been explicitly brought to light, that is, only if it is shown how temporality makes possible the distinguishability of being and beings
-
-- **revised** · `zeitlichkeit/ga24/005` · *a priori*
-  The a priori is read as a time-determination outside clock-time, an earlier that the vulgar understanding grasps as the later and that only the interpretation of being out of temporality can make intelligible.
-  `heidegger-ga-24-die-grundprobleme-der-phanomenologie-commentary#h2-s-5-the-methodical-character-of-ontology-the-three-basic-pieces-of-the-phenomeno` · GA 24 § 5 · [§ 5\. The Methodical Character of Ontology. The Three Basic Pieces of the Phenomenological Method](https://faultynode.github.io/commentaries/commentaries/heidegger/heidegger-ga-24-die-grundprobleme-der-phanomenologie-commentary.html#the-methodical-character-of-ontology-the-three-basic-pieces-of-the-phenomenological-method)
-  > The "earlier" is a time-determination, but one which does not lie in the temporal order of the time we measure with the clock — but rather an "earlier" that belongs to the *verkehrte Welt*, the inverted world.
-
-- **revised** · `zeitlichkeit/ga24/006` · *Apriorität*
-  The priority of being before beings is said to be not the logical priority of categories but the temporal priority of being-determinations, understandable only out of Temporalität.
-  `heidegger-ga-24-die-grundprobleme-der-phanomenologie-commentary#h2-s-5-the-methodical-character-of-ontology-the-three-basic-pieces-of-the-phenomeno` · GA 24 § 5 · [§ 5\. The Methodical Character of Ontology. The Three Basic Pieces of the Phenomenological Method](https://faultynode.github.io/commentaries/commentaries/heidegger/heidegger-ga-24-die-grundprobleme-der-phanomenologie-commentary.html#the-methodical-character-of-ontology-the-three-basic-pieces-of-the-phenomenological-method)
-  > it is not the *logical* priority of categories but the *temporal* priority of being-determinations, which can be understood only out of *Temporalität*
-
-- **presupposed** · `zeitlichkeit/ga24/007` · *temporality and historicality*
-  Ontology is said to have an ontic foundation in Dasein, so that its own possibility is bound to Dasein's existence, its temporality and historicality, more originarily than any other science.
-  `heidegger-ga-24-die-grundprobleme-der-phanomenologie-commentary#h2-s-5-the-methodical-character-of-ontology-the-three-basic-pieces-of-the-phenomeno` · GA 24 § 5 · [§ 5\. The Methodical Character of Ontology. The Three Basic Pieces of the Phenomenological Method](https://faultynode.github.io/commentaries/commentaries/heidegger/heidegger-ga-24-die-grundprobleme-der-phanomenologie-commentary.html#the-methodical-character-of-ontology-the-three-basic-pieces-of-the-phenomenological-method)
-  > are bound to Dasein's existence — that is, to its temporality and historicality — and indeed in a more originary sense than is any other science
-
-*Partial pass: Introduction §§ 4-5, which carry 20 of the file's 24 term hits. §§ 1 and 3 and the one further section with a hit are not extracted.*
-
-### undated - Michel Henry, L'essence de la manifestation
-
-`henry-the-essence-of-manifestation-commentary`
-
-- **introduced** · `zeitlichkeit/henry-essence/001` · *temporality*
-  Temporality is defined as the act of returning, from the future Dasein projects, onto the being-been of that act, and fear and anxiety are said to be grasped by Heidegger as modes of it.
-  `henry-the-essence-of-manifestation-commentary#h2-s-43-situation-and-temporality-the-ontological-heterogeneity-of-their-originary` · § 43 · [§ 43\. Situation and temporality. The ontological heterogeneity of their originary structures and its interpretation in the philosophy of transcendence: the idea of contingency and the fall of Dasein](https://faultynode.github.io/commentaries/commentaries/henry/henry-the-essence-of-manifestation-commentary.html#situation-and-temporality-the-ontological-heterogeneity-of-their-originary-structures-and-its-interpretation-in-the-philosophy-of-transcendence-the-idea-of-contingency-and-the-fall-of-dasein)
-  > The act of returning (from the future Dasein projects) onto the being-been of this act (that is, of Dasein itself) is *temporality*.
-
-- **presupposed** · `zeitlichkeit/henry-essence/002` · *ekstases*
-  The accomplishment of temporality is to be understood not as the simple return of the future onto the past but from the finite horizon of death and from what is delivered to it from birth.
-  `henry-the-essence-of-manifestation-commentary#h2-s-43-situation-and-temporality-the-ontological-heterogeneity-of-their-originary` · § 43 · [§ 43\. Situation and temporality. The ontological heterogeneity of their originary structures and its interpretation in the philosophy of transcendence: the idea of contingency and the fall of Dasein](https://faultynode.github.io/commentaries/commentaries/henry/henry-the-essence-of-manifestation-commentary.html#situation-and-temporality-the-ontological-heterogeneity-of-their-originary-structures-and-its-interpretation-in-the-philosophy-of-transcendence-the-idea-of-contingency-and-the-fall-of-dasein)
-  > The accomplishment of temporality rather must be understood not as the simple return of the future onto the past, but from *the most originary determination* of these ekstases — from the finite horizon of death and from what (relating itself to death) is already (from its birth consequently) delivered to it.
-
-- **revised** · `zeitlichkeit/henry-essence/003` · *situation*
-  Situation is said not to coincide with temporality but to take birth in it, arising in the ecstasis of the past because thrownness discovers itself inside that horizon.
-  `henry-the-essence-of-manifestation-commentary#h2-s-43-situation-and-temporality-the-ontological-heterogeneity-of-their-originary` · § 43 · [§ 43\. Situation and temporality. The ontological heterogeneity of their originary structures and its interpretation in the philosophy of transcendence: the idea of contingency and the fall of Dasein](https://faultynode.github.io/commentaries/commentaries/henry/henry-the-essence-of-manifestation-commentary.html#situation-and-temporality-the-ontological-heterogeneity-of-their-originary-structures-and-its-interpretation-in-the-philosophy-of-transcendence-the-idea-of-contingency-and-the-fall-of-dasein)
-  > The situation of Dasein, however, does not confuse itself with temporality; *it takes birth in temporality*.
-
-- **revised** · `zeitlichkeit/henry-essence/004` · *Gewesenheit*
-  Having-been is distinguished from the past: it discovers itself in the past, and within that ecstatic horizon it manifests itself as anterior to the opening of the horizon.
-  `henry-the-essence-of-manifestation-commentary#h2-s-43-situation-and-temporality-the-ontological-heterogeneity-of-their-originary` · § 43 · [§ 43\. Situation and temporality. The ontological heterogeneity of their originary structures and its interpretation in the philosophy of transcendence: the idea of contingency and the fall of Dasein](https://faultynode.github.io/commentaries/commentaries/henry/henry-the-essence-of-manifestation-commentary.html#situation-and-temporality-the-ontological-heterogeneity-of-their-originary-structures-and-its-interpretation-in-the-philosophy-of-transcendence-the-idea-of-contingency-and-the-fall-of-dasein)
-  > *Gewesenheit* (having-been) however is not to be confused with the past (*Vergangenheit*); it *discovers itself in the past*.
-
-- **criticized** · `zeitlichkeit/henry-essence/005` · *Gewesenheit*
-  What the ecstasis of the past reveals is said to be anterior to the ecstatic opening, so that thrownness is revealed by temporalization rather than produced by it.
-  `henry-the-essence-of-manifestation-commentary#h2-s-43-situation-and-temporality-the-ontological-heterogeneity-of-their-originary` · § 43 · [§ 43\. Situation and temporality. The ontological heterogeneity of their originary structures and its interpretation in the philosophy of transcendence: the idea of contingency and the fall of Dasein](https://faultynode.github.io/commentaries/commentaries/henry/henry-the-essence-of-manifestation-commentary.html#situation-and-temporality-the-ontological-heterogeneity-of-their-originary-structures-and-its-interpretation-in-the-philosophy-of-transcendence-the-idea-of-contingency-and-the-fall-of-dasein)
-  > The *Gewesenheit* (having-been) is *given to* the temporal ekstasis of the past; it is not *produced by* the temporalizing activity.
-
-- **criticized** · `zeitlichkeit/henry-essence/006` · *the already*
-  The anteriority discovered in the ecstasis of the past is read as independence, and that independence as immanence, so the 'already' of being-situated marks immanence rather than a temporal mode.
-  `henry-the-essence-of-manifestation-commentary#h2-s-43-situation-and-temporality-the-ontological-heterogeneity-of-their-originary` · § 43 · [§ 43\. Situation and temporality. The ontological heterogeneity of their originary structures and its interpretation in the philosophy of transcendence: the idea of contingency and the fall of Dasein](https://faultynode.github.io/commentaries/commentaries/henry/henry-the-essence-of-manifestation-commentary.html#situation-and-temporality-the-ontological-heterogeneity-of-their-originary-structures-and-its-interpretation-in-the-philosophy-of-transcendence-the-idea-of-contingency-and-the-fall-of-dasein)
-  > The independence of what discovers itself in the ekstasis of the past (relatively to this discovery as it accomplishes itself in the originary temporalization of temporality — that is, as well, in transcendence itself) is *that of immanence*.
-
-- **revised** · `zeitlichkeit/henry-essence/007` · *Vergangenheit*
-  The past's inability to reduce to itself the having-been in which what is foreign to time manifests itself is called its depth, in which the origin of being is hidden.
-  `henry-the-essence-of-manifestation-commentary#h2-s-43-situation-and-temporality-the-ontological-heterogeneity-of-their-originary` · § 43 · [§ 43\. Situation and temporality. The ontological heterogeneity of their originary structures and its interpretation in the philosophy of transcendence: the idea of contingency and the fall of Dasein](https://faultynode.github.io/commentaries/commentaries/henry/henry-the-essence-of-manifestation-commentary.html#situation-and-temporality-the-ontological-heterogeneity-of-their-originary-structures-and-its-interpretation-in-the-philosophy-of-transcendence-the-idea-of-contingency-and-the-fall-of-dasein)
-  > In the incapacity of past properly speaking to reduce to itself what escapes it (the being-having-been where there manifests itself in time what is foreign to time) *resides its "depth." In the depth of the past is hidden the origin of being.*
-
-- **criticized** · `zeitlichkeit/henry-essence/008` · *Nichtigkeit*
-  Heidegger's ecstatically temporal relation of Dasein to its thrown foundation is rejected as unintelligible, on the ground of an eidetic incompatibility between the temporal ecstasis and its nichtig foundation.
-  `henry-the-essence-of-manifestation-commentary#h2-s-43-situation-and-temporality-the-ontological-heterogeneity-of-their-originary` · § 43 · [§ 43\. Situation and temporality. The ontological heterogeneity of their originary structures and its interpretation in the philosophy of transcendence: the idea of contingency and the fall of Dasein](https://faultynode.github.io/commentaries/commentaries/henry/henry-the-essence-of-manifestation-commentary.html#situation-and-temporality-the-ontological-heterogeneity-of-their-originary-structures-and-its-interpretation-in-the-philosophy-of-transcendence-the-idea-of-contingency-and-the-fall-of-dasein)
-  > The *eidetic incompatibility* of the temporal ekstasis and of the proper "*nichtig*" foundation of the ekstasis (of what finds itself determined as "*Nichtigkeit*" by this incompatibility itself) also renders *unintelligible* (incapable in any case of exhibiting in itself the originary essence of the *Geworfenheit*) the idea given however by Heidegger as decisive
-
-- **criticized** · `zeitlichkeit/henry-essence/009` · *temporality*
-  The originary ontological concept of being-in-situation is said to be not founded on temporality but broken by it.
-  `henry-the-essence-of-manifestation-commentary#h2-s-43-situation-and-temporality-the-ontological-heterogeneity-of-their-originary` · § 43 · [§ 43\. Situation and temporality. The ontological heterogeneity of their originary structures and its interpretation in the philosophy of transcendence: the idea of contingency and the fall of Dasein](https://faultynode.github.io/commentaries/commentaries/henry/henry-the-essence-of-manifestation-commentary.html#situation-and-temporality-the-ontological-heterogeneity-of-their-originary-structures-and-its-interpretation-in-the-philosophy-of-transcendence-the-idea-of-contingency-and-the-fall-of-dasein)
-  > *Far from being able to found itself on temporality, the originary ontological concept of being-in-situation finds itself on the contrary broken by temporality.*
-
-- **criticized** · `zeitlichkeit/henry-essence/010` · *immanence*
-  Temporality is allowed to reveal situation but denied the power to ground it, situation being grounded in immanence and temporality itself being the form of transcendence.
-  `henry-the-essence-of-manifestation-commentary#h2-s-43-situation-and-temporality-the-ontological-heterogeneity-of-their-originary` · § 43 · [§ 43\. Situation and temporality. The ontological heterogeneity of their originary structures and its interpretation in the philosophy of transcendence: the idea of contingency and the fall of Dasein](https://faultynode.github.io/commentaries/commentaries/henry/henry-the-essence-of-manifestation-commentary.html#situation-and-temporality-the-ontological-heterogeneity-of-their-originary-structures-and-its-interpretation-in-the-philosophy-of-transcendence-the-idea-of-contingency-and-the-fall-of-dasein)
-  > Henry contests: temporality is itself the form of transcendence; situation is rather the structural being of the immanent ground that *transcends* temporality (in the sense of being structurally prior to it). The situation is not temporal; the situation is the immanent ground of temporality.
-
-*Partial pass: § 43 only, which carries 102 of the commentary's term hits - the section where situation is set against ecstatic temporality. §§ 6, 11, 13, 44 and 47, which carry the remaining hits, are not extracted.*
-
 ### undated - Husserl Erfahrung und Urteil Commentary
 
 `husserl-erfahrung-und-urteil-commentary`
@@ -989,185 +1364,6 @@
   > But the remembered is past and even "far removed" from the perceived (a character that is not an immediately intuitive time-character but points to an unfolding in chains of intuitions), while the memory as experience is simultaneous with the perceptual experience.
 
 *Partial pass: § 23 a, § 38 and § 42 a, where time is the form of sensibility and the unity of the stream. The other 27 sections with term hits, among them § 39 and § 42 b, are not extracted; the free-variation chapters named in gap-007 are outside this pass.*
-
-### undated - Husserl formal and transcendental logic
-
-`husserl-formal-and-transcendental-logic-commentary`
-
-- **introduced** · `zeitlichkeit/ftl/001` · *immanent temporality*
-  Genetic intentional analysis is directed at the whole concrete context, bringing into question the immanent unity of the temporality of life in which life has its history.
-  `husserl-formal-and-transcendental-logic-commentary#h4-b-intentional-explication-of-genesis-genetic-as-well-as-static-originality-of-th` · Appendix II, § 2 b · [b) Intentional Explication of Genesis. Genetic as Well as Static Originality of the Experiencing Givenness-Mode. "Original Institution" of the "Apperception" for Every Object-Category](https://faultynode.github.io/commentaries/commentaries/husserl/husserl-formal-and-transcendental-logic-commentary.html#b-intentional-explication-of-genesis-genetic-as-well-as-static-originality-of-the-experiencing-givenness-mode-original-institution-of-the-apperception-for-every-object-category)
-  > The immanent unity of the temporality of life comes into question, in which life has its "history."
-
-- **introduced** · `zeitlichkeit/ftl/002` · *original institution*
-  No non-original consciousness-mode is essentially possible unless the corresponding original mode has previously occurred in the synthetic unity of immanent temporality as the originally instituting one.
-  `husserl-formal-and-transcendental-logic-commentary#h4-b-intentional-explication-of-genesis-genetic-as-well-as-static-originality-of-th` · Appendix II, § 2 b · [b) Intentional Explication of Genesis. Genetic as Well as Static Originality of the Experiencing Givenness-Mode. "Original Institution" of the "Apperception" for Every Object-Category](https://faultynode.github.io/commentaries/commentaries/husserl/husserl-formal-and-transcendental-logic-commentary.html#b-intentional-explication-of-genesis-genetic-as-well-as-static-originality-of-the-experiencing-givenness-mode-original-institution-of-the-apperception-for-every-object-category)
-  > For every fundamental kind of objectualities, no non-original consciousness-mode is essentially possible unless the corresponding original consciousness-mode has previously occurred in the synthetic unity of immanent temporality as the genetically "originally instituting" one.
-
-- **introduced** · `zeitlichkeit/ftl/003` · *time-form*
-  The universal essential form of intentional genesis is the constitution of immanent temporality, in which every experience receives its identical time-position and enduringly retains it.
-  `husserl-formal-and-transcendental-logic-commentary#h4-c-the-time-form-of-intentional-genesis-and-its-constitution-retentional-modifica` · Appendix II, § 2 c · [c) The Time-Form of Intentional Genesis and Its Constitution. Retentional Modification. Sedimentation in the Background of Non-Prominence (Unconsciousness)](https://faultynode.github.io/commentaries/commentaries/husserl/husserl-formal-and-transcendental-logic-commentary.html#c-the-time-form-of-intentional-genesis-and-its-constitution-retentional-modification-sedimentation-in-the-background-of-non-prominence-unconsciousness)
-  > The universal essential form of intentional genesis is the constitution of immanent temporality: every consciousness-experience, in the streaming change of typically modified givenness-modes within a living present, receives its identical time-position and then enduringly retains it.
-
-- **presupposed** · `zeitlichkeit/ftl/004` · *retentional modification*
-  Retentional consciousness attaches in unalterable necessity to every experience in the primal mode, each modification functioning as a relative primal mode for a new one and pointing back to its absolute primal mode.
-  `husserl-formal-and-transcendental-logic-commentary#h4-c-the-time-form-of-intentional-genesis-and-its-constitution-retentional-modifica` · Appendix II, § 2 c · [c) The Time-Form of Intentional Genesis and Its Constitution. Retentional Modification. Sedimentation in the Background of Non-Prominence (Unconsciousness)](https://faultynode.github.io/commentaries/commentaries/husserl/husserl-formal-and-transcendental-logic-commentary.html#c-the-time-form-of-intentional-genesis-and-its-constitution-retentional-modification-sedimentation-in-the-background-of-non-prominence-unconsciousness)
-  > Each modification functions according to the same lawfulness as a relative primal mode for a new modification, and so continuously onward. Each modification points back to its absolute primal mode.
-
-- **introduced** · `zeitlichkeit/ftl/005` · *sedimentation*
-  The retentional self-modification runs to an essential limit where the prominent flows into the background, the so-called unconscious, called a limit-mode of consciousness and not a phenomenological nothing.
-  `husserl-formal-and-transcendental-logic-commentary#h4-c-the-time-form-of-intentional-genesis-and-its-constitution-retentional-modifica` · Appendix II, § 2 c · [c) The Time-Form of Intentional Genesis and Its Constitution. Retentional Modification. Sedimentation in the Background of Non-Prominence (Unconsciousness)](https://faultynode.github.io/commentaries/commentaries/husserl/husserl-formal-and-transcendental-logic-commentary.html#c-the-time-form-of-intentional-genesis-and-its-constitution-retentional-modification-sedimentation-in-the-background-of-non-prominence-unconsciousness)
-  > this has its limit where the previously prominent flows into the general background — the so-called "unconscious," which is nothing less than a phenomenological nothing but itself a limit-mode of consciousness
-
-- **introduced** · `zeitlichkeit/ftl/006` · *secondary sensibility*
-  The retentional is the first-in-itself non-original givenness-mode of the judgment, the original action transforming in retentional continuity into a passive form of secondary sensibility.
-  `husserl-formal-and-transcendental-logic-commentary#h4-a-the-retentional-as-the-first-in-itself-form-of-secondary-sensibility-the-livin` · Appendix II, § 3 a · [a) The Retentional, as the First-in-Itself Form of "Secondary Sensibility." The Livingly Self-Transforming Constitution of a Many-Membered Judgment](https://faultynode.github.io/commentaries/commentaries/husserl/husserl-formal-and-transcendental-logic-commentary.html#a-the-retentional-as-the-first-in-itself-form-of-secondary-sensibility-the-livingly-self-transforming-constitution-of-a-many-membered-judgment)
-  > The original action transforms in retentional continuity into a secondary form that is no longer activity, a passive form — a form of "secondary sensibility."
-
-- **presupposed** · `zeitlichkeit/ftl/007` · *retention*
-  This retention alone is said to make possible progressive judgment-processes as the living further-formation of categorial meanings into higher-level judgments.
-  `husserl-formal-and-transcendental-logic-commentary#h4-a-the-retentional-as-the-first-in-itself-form-of-secondary-sensibility-the-livin` · Appendix II, § 3 a · [a) The Retentional, as the First-in-Itself Form of "Secondary Sensibility." The Livingly Self-Transforming Constitution of a Many-Membered Judgment](https://faultynode.github.io/commentaries/commentaries/husserl/husserl-formal-and-transcendental-logic-commentary.html#a-the-retentional-as-the-first-in-itself-form-of-secondary-sensibility-the-livingly-self-transforming-constitution-of-a-many-membered-judgment)
-  > This kind of retention alone makes possible progressive judgment-processes as living further-formation and connection of categorial meanings to the unity of ever-new and higher-level judgments.
-
-*Partial pass: Appendix II §§ 2 b-c and § 3 a, where the time-form of intentional genesis and the retentional modification are set out. The nine other sections with term hits are not extracted.*
-
-### undated - Husserl Cartesian Meditations Analysis
-
-`husserliana-1-cartesianische-meditationen-commentary`
-
-- **introduced** · `zeitlichkeit/hua1/001` · *inner time-consciousness*
-  Identification is met first as an all-pervasive passively proceeding synthesis in the form of continuous inner time-consciousness, every experience having its experience-temporality.
-  `husserliana-1-cartesianische-meditationen-commentary#h3-s-18-identification-as-a-fundamental-form-of-synthesis-universal-synthesis-of-tr` · § 18 · [§ 18. Identification as a Fundamental Form of Synthesis. Universal Synthesis of Transcendental Time](https://faultynode.github.io/commentaries/commentaries/husserl/husserliana-1-cartesianische-meditationen-commentary.html#identification-as-a-fundamental-form-of-synthesis-universal-synthesis-of-transcendental-time)
-  > It confronts us first as an all-pervasive, passively proceeding synthesis in the form of the continuous inner time-consciousness. Every experience has its experience-temporality.
-
-- **introduced** · `zeitlichkeit/hua1/002` · *objective and inner temporality*
-  The objective temporality that appears is to be distinguished from the inner temporality of the appearing, which streams along in phases that are changing appearances of the same object.
-  `husserliana-1-cartesianische-meditationen-commentary#h3-s-18-identification-as-a-fundamental-form-of-synthesis-universal-synthesis-of-tr` · § 18 · [§ 18. Identification as a Fundamental Form of Synthesis. Universal Synthesis of Transcendental Time](https://faultynode.github.io/commentaries/commentaries/husserl/husserliana-1-cartesianische-meditationen-commentary.html#identification-as-a-fundamental-form-of-synthesis-universal-synthesis-of-transcendental-time)
-  > we must distinguish the objective temporality that appears — e.g., that of this cube — from the inner temporality of the appearing (e.g., of the cube-perceiving)
-
-- **introduced** · `zeitlichkeit/hua1/003` · *immanent temporality*
-  All-encompassing inner time-consciousness is called the fundamental form of the universal synthesis that makes all other syntheses possible, its correlate being immanent temporality itself.
-  `husserliana-1-cartesianische-meditationen-commentary#h3-s-18-identification-as-a-fundamental-form-of-synthesis-universal-synthesis-of-tr` · § 18 · [§ 18. Identification as a Fundamental Form of Synthesis. Universal Synthesis of Transcendental Time](https://faultynode.github.io/commentaries/commentaries/husserl/husserliana-1-cartesianische-meditationen-commentary.html#identification-as-a-fundamental-form-of-synthesis-universal-synthesis-of-transcendental-time)
-  > The fundamental form of this universal synthesis, which makes all other syntheses of consciousness possible, is the all-encompassing inner time-consciousness. Its correlate is immanent temporality itself
-
-- **presupposed** · `zeitlichkeit/hua1/004` · *horizon of immanent time*
-  All experiences of the ego found in reflection must present themselves as temporally ordered within the constant infinite horizon of immanent time.
-  `husserliana-1-cartesianische-meditationen-commentary#h3-s-18-identification-as-a-fundamental-form-of-synthesis-universal-synthesis-of-tr` · § 18 · [§ 18. Identification as a Fundamental Form of Synthesis. Universal Synthesis of Transcendental Time](https://faultynode.github.io/commentaries/commentaries/husserl/husserliana-1-cartesianische-meditationen-commentary.html#identification-as-a-fundamental-form-of-synthesis-universal-synthesis-of-transcendental-time)
-  > according to which all experiences of the ego, reflectively found, must present themselves as temporally ordered — as temporally beginning and ending, as simultaneous and successive — within the constant infinite horizon of immanent time
-
-- **introduced** · `zeitlichkeit/hua1/005` · *universal temporality*
-  Essential laws of egological-temporal coexistence and succession are said to govern compossibility, everything emerging in the ego having its temporality and partaking in the form-system of universal temporality.
-  `husserliana-1-cartesianische-meditationen-commentary#h3-s-36-the-transcendental-ego-as-the-universe-of-possible-forms-of-experience-esse` · § 36 · [§ 36. The Transcendental Ego as the Universe of Possible Forms of Experience. Essential-Lawful Regulation of the Compossibility of Experiences in Coexistence and Succession](https://faultynode.github.io/commentaries/commentaries/husserl/husserliana-1-cartesianische-meditationen-commentary.html#the-transcendental-ego-as-the-universe-of-possible-forms-of-experience-essential-lawful-regulation-of-the-compossibility-of-experiences-in-coexistence-and-succession)
-  > Essential laws of egological-temporal coexistence and succession govern. Whatever emerges in my ego — in intentional experiences, in constituted unities, in ego-habitualities — has its temporality and partakes in the form-system of universal temporality.
-
-*Partial pass: § 18 (the universal synthesis of transcendental time) and § 36 (egological-temporal coexistence and succession). §§ 12 and 15 and the four other sections with term hits are not extracted.*
-
-### undated - Husserl, Hua 3 — Ideas I, Parts 3–4
-
-`husserliana-3-ideas-i-parts-3-4-commentary`
-
-- **introduced** · `zeitlichkeit/hua3-34/001` · *phenomenological time*
-  The transcendental absolute won by the reductions is admitted not to be the last thing: it constitutes itself and has its primal source in a last and truly absolute.
-  `husserliana-3-ideas-i-parts-3-4-commentary#h3-s-81-phenomenological-time-and-time-consciousness` · Ideas I § 81 · [§ 81\. Phenomenological Time and Time-Consciousness](https://faultynode.github.io/commentaries/commentaries/husserl/husserliana-3-ideas-i-parts-3-4-commentary.html#phenomenological-time-and-time-consciousness)
-  > The transcendental "Absolute" that we have prepared out for ourselves through the reductions is in truth not the last thing; it is something that constitutes itself in a certain deep-lying and wholly peculiar sense, and has its primal source in a last and truly Absolute.
-
-- **presupposed** · `zeitlichkeit/hua3-34/002` · *time-consciousness*
-  The riddles of time-consciousness are set aside for the preparatory analyses, with a footnote reported as dating the completion of the relevant efforts to 1905 and the Göttingen lectures.
-  `husserliana-3-ideas-i-parts-3-4-commentary#h3-s-81-phenomenological-time-and-time-consciousness` · Ideas I § 81 · [§ 81\. Phenomenological Time and Time-Consciousness](https://faultynode.github.io/commentaries/commentaries/husserl/husserliana-3-ideas-i-parts-3-4-commentary.html#phenomenological-time-and-time-consciousness)
-  > (A footnote notes that his long and long-vain efforts on this were essentially completed in 1905 and communicated in Göttingen university lectures, the time-consciousness lectures.)
-
-- **introduced** · `zeitlichkeit/hua3-34/003` · *Zeitlichkeit*
-  Temporality is said to designate not only something belonging to each single experience but a necessary form binding experiences with experiences into one infinite stream.
-  `husserliana-3-ideas-i-parts-3-4-commentary#h3-s-81-phenomenological-time-and-time-consciousness` · Ideas I § 81 · [§ 81\. Phenomenological Time and Time-Consciousness](https://faultynode.github.io/commentaries/commentaries/husserl/husserliana-3-ideas-i-parts-3-4-commentary.html#phenomenological-time-and-time-consciousness)
-  > The essential property that the title temporality expresses for experiences in general designates not only something generally belonging to every single experience, but a necessary form binding experiences with experiences.
-
-- **presupposed** · `zeitlichkeit/hua3-34/004` · *experience-stream*
-  Single experiences can begin and end while the experience-stream cannot, and every experience as temporal being is the pure ego's, open to its reflective glance as enduring in phenomenological time.
-  `husserliana-3-ideas-i-parts-3-4-commentary#h3-s-81-phenomenological-time-and-time-consciousness` · Ideas I § 81 · [§ 81\. Phenomenological Time and Time-Consciousness](https://faultynode.github.io/commentaries/commentaries/husserl/husserliana-3-ideas-i-parts-3-4-commentary.html#phenomenological-time-and-time-consciousness)
-  > But the experience-stream cannot begin and end. Every experience, as a temporal being, is experience of its pure ego.
-
-- **introduced** · `zeitlichkeit/hua3-34/005` · *modes of givenness*
-  No enduring experience is possible unless it constitutes itself in a continuous flux of givenness-modes, and that mode of givenness is itself an experience of a new kind and dimension.
-  `husserliana-3-ideas-i-parts-3-4-commentary#h3-s-81-phenomenological-time-and-time-consciousness` · Ideas I § 81 · [§ 81\. Phenomenological Time and Time-Consciousness](https://faultynode.github.io/commentaries/commentaries/husserl/husserliana-3-ideas-i-parts-3-4-commentary.html#phenomenological-time-and-time-consciousness)
-  > no enduring experience is possible unless it constitutes itself in a continuous flux of givenness-modes as the unitary thing of the process, or of the duration; further, that this mode of givenness of the temporal experience is itself again an experience, though of a new kind and dimension
-
-- **introduced** · `zeitlichkeit/hua3-34/006` · *now*
-  The actual now is a punctual abiding form for ever new matter, and the just-nows are a continuity of forms of ever new content.
-  `husserliana-3-ideas-i-parts-3-4-commentary#h3-s-81-phenomenological-time-and-time-consciousness` · Ideas I § 81 · [§ 81\. Phenomenological Time and Time-Consciousness](https://faultynode.github.io/commentaries/commentaries/husserl/husserliana-3-ideas-i-parts-3-4-commentary.html#phenomenological-time-and-time-consciousness)
-  > The actual now is necessarily, and remains, a punctual thing, an abiding form for ever new matter. Likewise with the continuity of the "just-nows"; it is a continuity of forms of ever new content.
-
-- **introduced** · `zeitlichkeit/hua3-34/007` · *retention*
-  The retentions are said not to be co-ordinate but nested, a continuous one-within-another of retentions of retentions, with impression continuously changing into retention.
-  `husserliana-3-ideas-i-parts-3-4-commentary#h3-s-81-phenomenological-time-and-time-consciousness` · Ideas I § 81 · [§ 81\. Phenomenological Time and Time-Consciousness](https://faultynode.github.io/commentaries/commentaries/husserl/husserliana-3-ideas-i-parts-3-4-commentary.html#phenomenological-time-and-time-consciousness)
-  > one phase, impression, as limit-phase of a continuity of retentions, which are, however, not co-ordinate, but continuously-intentionally to be referred to one another, a continuous one-within-another of retentions of retentions
-
-- **introduced** · `zeitlichkeit/hua3-34/008` · *protention*
-  The structure is completed by the counter-direction: to the continuum of retentions corresponds one of protentions.
-  `husserliana-3-ideas-i-parts-3-4-commentary#h3-s-81-phenomenological-time-and-time-consciousness` · Ideas I § 81 · [§ 81\. Phenomenological Time and Time-Consciousness](https://faultynode.github.io/commentaries/commentaries/husserl/husserliana-3-ideas-i-parts-3-4-commentary.html#phenomenological-time-and-time-consciousness)
-  > To this comes, however, the counter-direction of the continuous changes: to the before corresponds the after, to the continuum of retentions one of protentions.
-
-- **introduced** · `zeitlichkeit/hua3-34/009` · *horizon*
-  Every experience-now has a necessarily filled horizon of the before and of the after, so that even the onset-phase of a new experience has experiences preceding it.
-  `husserliana-3-ideas-i-parts-3-4-commentary#h3-s-82-continuation-the-threefold-experience-horizon-at-the-same-time-as-the-horiz` · Ideas I § 82 · [§ 82\. Continuation. The Threefold Experience-Horizon, at the Same Time as the Horizon of Experience-Reflection](https://faultynode.github.io/commentaries/commentaries/husserl/husserliana-3-ideas-i-parts-3-4-commentary.html#continuation-the-threefold-experience-horizon-at-the-same-time-as-the-horizon-of-experience-reflection)
-  > Every experience-now, even that of the onset-phase of a newly appearing experience, has necessarily its horizon of the before. But this can in principle be no empty before, an empty form without content, a nonsense.
-
-- **introduced** · `zeitlichkeit/hua3-34/010` · *just-past*
-  No experience can cease without a consciousness of the ceasing and the having-ceased, which is itself a new filled now, so the stream is an infinite unity.
-  `husserliana-3-ideas-i-parts-3-4-commentary#h3-s-82-continuation-the-threefold-experience-horizon-at-the-same-time-as-the-horiz` · Ideas I § 82 · [§ 82\. Continuation. The Threefold Experience-Horizon, at the Same Time as the Horizon of Experience-Reflection](https://faultynode.github.io/commentaries/commentaries/husserl/husserliana-3-ideas-i-parts-3-4-commentary.html#continuation-the-threefold-experience-horizon-at-the-same-time-as-the-horizon-of-experience-reflection)
-  > No experience can cease without consciousness of the ceasing and the having-ceased, and that is a new filled now. The experience-stream is an infinite unity
-
-- **introduced** · `zeitlichkeit/hua3-34/011` · *simultaneity*
-  Every experience stands in an experience-connection under the point of view of simultaneity as well as of succession, the simultaneous experiences making up the pure ego's whole originary consciousness-now.
-  `husserliana-3-ideas-i-parts-3-4-commentary#h3-s-82-continuation-the-threefold-experience-horizon-at-the-same-time-as-the-horiz` · Ideas I § 82 · [§ 82\. Continuation. The Threefold Experience-Horizon, at the Same Time as the Horizon of Experience-Reflection](https://faultynode.github.io/commentaries/commentaries/husserl/husserliana-3-ideas-i-parts-3-4-commentary.html#continuation-the-threefold-experience-horizon-at-the-same-time-as-the-horizon-of-experience-reflection)
-  > every experience stands in an essentially self-contained experience-connection not only under the point of view of temporal succession, but also under the point of view of simultaneity
-
-- **introduced** · `zeitlichkeit/hua3-34/012` · *simultaneously having-been*
-  The simultaneity-horizon enters as a unity into the past-modes, so that every before carries its horizon of the simultaneously having-been.
-  `husserliana-3-ideas-i-parts-3-4-commentary#h3-s-82-continuation-the-threefold-experience-horizon-at-the-same-time-as-the-horiz` · Ideas I § 82 · [§ 82\. Continuation. The Threefold Experience-Horizon, at the Same Time as the Horizon of Experience-Reflection](https://faultynode.github.io/commentaries/commentaries/husserl/husserliana-3-ideas-i-parts-3-4-commentary.html#continuation-the-threefold-experience-horizon-at-the-same-time-as-the-horizon-of-experience-reflection)
-  > Every before, as a modified now, implies, for every experience in view whose before it is, an endless horizon, encompassing all that belongs to the same modified now, in short its horizon of the "simultaneously having-been."
-
-- **introduced** · `zeitlichkeit/hua3-34/013` · *phenomenological time-field*
-  One pure ego and one experience-stream filled in the three dimensions of before, after and simultaneous are declared necessary correlates.
-  `husserliana-3-ideas-i-parts-3-4-commentary#h3-s-82-continuation-the-threefold-experience-horizon-at-the-same-time-as-the-horiz` · Ideas I § 82 · [§ 82\. Continuation. The Threefold Experience-Horizon, at the Same Time as the Horizon of Experience-Reflection](https://faultynode.github.io/commentaries/commentaries/husserl/husserliana-3-ideas-i-parts-3-4-commentary.html#continuation-the-threefold-experience-horizon-at-the-same-time-as-the-horizon-of-experience-reflection)
-  > One pure ego, one experience-stream filled in all three dimensions, essentially connected in this filling, demanding itself in its content-continuity: these are necessary correlates.
-
-*Partial pass: §§ 81-82, where phenomenological time is thematic. §§ 77-78, § 113 and § 149, which carry the remaining term hits, are not extracted.*
-
-### undated - Husserl Die Lebenswelt Commentary
-
-`husserliana-39-die-lebenswelt-commentary`
-
-- **introduced** · `zeitlichkeit/hua39/001` · *all-temporal universe*
-  The world is characterised as an all-temporal universe extending through all its past and its entire open future rather than as an unchangeable present-universe of pre-givennesses.
-  `husserliana-39-die-lebenswelt-commentary#h3-text-nr-6-universe-of-pre-givenness-and-world-constitution-of-the-universe-of-pr` · Text Nr. 6, pp. 50-51 · [Text Nr. 6. Universe of Pre-Givenness and World. Constitution of the Universe of Pre-Givenness through Habituality (Universum der Vorgegebenheit und Welt. Konstitution des Universums der Vorgegebenheit durch Habitualität)](https://faultynode.github.io/commentaries/commentaries/husserl/husserliana-39-die-lebenswelt-commentary.html#text-nr-6-universe-of-pre-givenness-and-world-constitution-of-the-universe-of-pre-givenness-through-habituality-universum-der-vorgegebenheit-und-welt-konstitution-des-universums-der-vorgegebenheit-durch-habitualitat)
-  > changeable present-universe of pre-givennesses, but an *all-temporal universe* extending through all its past and into its entire open future — passing through all universes of pre-givennesses.
-
-- **introduced** · `zeitlichkeit/hua39/002` · *temporal form*
-  Space is subordinated to the temporal form as the temporally omnivalid form of real simultaneity, both being the enduring form of the one universe.
-  `husserliana-39-die-lebenswelt-commentary#h3-text-nr-6-universe-of-pre-givenness-and-world-constitution-of-the-universe-of-pr` · Text Nr. 6, pp. 50-51 · [Text Nr. 6. Universe of Pre-Givenness and World. Constitution of the Universe of Pre-Givenness through Habituality (Universum der Vorgegebenheit und Welt. Konstitution des Universums der Vorgegebenheit durch Habitualität)](https://faultynode.github.io/commentaries/commentaries/husserl/husserliana-39-die-lebenswelt-commentary.html#text-nr-6-universe-of-pre-givenness-and-world-constitution-of-the-universe-of-pre-givenness-through-habituality-universum-der-vorgegebenheit-und-welt-konstitution-des-universums-der-vorgegebenheit-durch-habitualitat)
-  > The enduring form of this one universe is not only time but also space (where space is actually a form subordinate to the temporal form — the temporally omnivalid form of real simultaneity)
-
-- **introduced** · `zeitlichkeit/hua39/003` · *Zeitform der Welt*
-  The temporal form of the world is the form in which realities preserve themselves, and world-time is not merely experienced in time but constituted through the streaming temporality of consciousness.
-  `husserliana-39-die-lebenswelt-commentary#h3-text-nr-50-the-temporal-form-of-the-world-as-form-of-self-preservation-of-realit` · Text Nr. 50, pp. 554ff. · [Text Nr. 50. The Temporal Form of the World as Form of Self-Preservation of Realities and Its Subjective Constitution (Die Zeitform der Welt als Form der Selbsterhaltung von Realitäten und ihre subjektive Konstitution)](https://faultynode.github.io/commentaries/commentaries/husserl/husserliana-39-die-lebenswelt-commentary.html#text-nr-50-the-temporal-form-of-the-world-as-form-of-self-preservation-of-realities-and-its-subjective-constitution-die-zeitform-der-welt-als-form-der-selbsterhaltung-von-realitaten-und-ihre-subjektive-konstitution)
-  > The time of the world is not merely experienced *in* time but *constituted through* the streaming temporality of consciousness.
-
-- **presupposed** · `zeitlichkeit/hua39/004` · *living present*
-  The subjective constitution of the world's temporal form is said to involve retention, primal impression and protention, the living present being the absolute source of all temporal constitution.
-  `husserliana-39-die-lebenswelt-commentary#h3-text-nr-50-the-temporal-form-of-the-world-as-form-of-self-preservation-of-realit` · Text Nr. 50, pp. 554ff. · [Text Nr. 50. The Temporal Form of the World as Form of Self-Preservation of Realities and Its Subjective Constitution (Die Zeitform der Welt als Form der Selbsterhaltung von Realitäten und ihre subjektive Konstitution)](https://faultynode.github.io/commentaries/commentaries/husserl/husserliana-39-die-lebenswelt-commentary.html#text-nr-50-the-temporal-form-of-the-world-as-form-of-self-preservation-of-realities-and-its-subjective-constitution-die-zeitform-der-welt-als-form-der-selbsterhaltung-von-realitaten-und-ihre-subjektive-konstitution)
-  > The subjective constitution of this temporal form involves the interplay of retention, primal impression, and protention — the living present as the absolute source of all temporal constitution.
-
-- **introduced** · `zeitlichkeit/hua39/005` · *absolute Zeitigung*
-  Universal temporality as the form of the world's self-preservation is grounded in an absolute streaming that is not in time and temporalizes itself while temporalizing everything else.
-  `husserliana-39-die-lebenswelt-commentary#h3-text-nr-51-universal-temporality-as-self-preservation-and-the-problem-of-absolut` · Text Nr. 51, pp. 580ff. · [Text Nr. 51. Universal Temporality as Self-Preservation and the Problem of Absolute Temporalization (Universale Zeitlichkeit als Selbsterhaltung und das Problem der absoluten Zeitigung)](https://faultynode.github.io/commentaries/commentaries/husserl/husserliana-39-die-lebenswelt-commentary.html#text-nr-51-universal-temporality-as-self-preservation-and-the-problem-of-absolute-temporalization-universale-zeitlichkeit-als-selbsterhaltung-und-das-problem-der-absoluten-zeitigung)
-  > The absolute flow has a unique self-constitution: it temporalizes itself while temporalizing everything else.
-
-- **introduced** · `zeitlichkeit/hua39/006` · *standing-streaming living present*
-  The life-world's character as life-world is said to be constituted through retention, protention, recollection and expectation, the standing-streaming living present giving it its distinctive mode of being.
-  `husserliana-39-die-lebenswelt-commentary#h3-text-nr-52-constitutive-temporal-problems-and-their-significance-for-the-underst` · Text Nr. 52, pp. 586ff. · [Text Nr. 52. Constitutive Temporal Problems and Their Significance for the Understanding of the World as Life-World (Konstitutive Zeitprobleme und ihre Bedeutung für das Verständnis der Welt als Lebenswelt)](https://faultynode.github.io/commentaries/commentaries/husserl/husserliana-39-die-lebenswelt-commentary.html#text-nr-52-constitutive-temporal-problems-and-their-significance-for-the-understanding-of-the-world-as-life-world-konstitutive-zeitprobleme-und-ihre-bedeutung-fur-das-verstandnis-der-welt-als-lebenswelt)
-  > The standing-streaming character of the living present gives the life-world its distinctive mode of being: always the same and always changing, always familiar and always new.
-
-*Partial pass: Section VIII (Texts Nr. 50-52, the general aspects of the temporal constitution of the life-world) and Text Nr. 6. The other 18 sections carrying term hits are not extracted; the section VIII entries are themselves short summaries of the German texts rather than full unit-by-unit commentary.*
 
 ## Not covered by this ledger
 

@@ -2,7 +2,7 @@
   "schema_version": 1,
   "theme": "fundierung",
   "commentary": "henry-the-essence-of-manifestation-commentary",
-  "source_sha256": "81321687b3823d9c3244b29758d979f86bd9d4ac28813fa58686aa2e9446ff68",
+  "source_sha256": "5843b5fd3a549950c075c0c3a42acfaf096c14d00192dc3094d2fd85baa463f0",
   "extracted_at": "2026-09-12",
   "extractor": {
     "agent": "claude-code",

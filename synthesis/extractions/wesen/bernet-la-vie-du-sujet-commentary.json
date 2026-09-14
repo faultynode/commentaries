@@ -15,7 +15,7 @@
     {
       "id": "wesen/bernet-vie/001",
       "locator": "bernet-la-vie-du-sujet-commentary#h4-the-noema-as-ideal-signification-of-a-judgment",
-      "stratum": "lvds-1994",
+      "stratum": "bernet-vie-1994",
       "term": "act-essence",
       "status": "introduced",
       "claim": "In the Logical Investigations the ideal signification of a judgment is determined as an act-essence individualized in the intentional matter of each act of judging.",
@@ -24,7 +24,7 @@
     {
       "id": "wesen/bernet-vie/002",
       "locator": "bernet-la-vie-du-sujet-commentary#h4-the-noema-as-ideal-signification-of-a-judgment",
-      "stratum": "lvds-1994",
+      "stratum": "bernet-vie-1994",
       "term": "act-essence",
       "status": "criticized",
       "claim": "Husserl is said later to criticize that determination on the ground that ideal signification can be neither an identical noetic mode of intending nor, generally, an essence.",
@@ -33,7 +33,7 @@
     {
       "id": "wesen/bernet-vie/003",
       "locator": "bernet-la-vie-du-sujet-commentary#h4-the-noema-as-ideal-signification-of-a-judgment",
-      "stratum": "lvds-1994",
+      "stratum": "bernet-vie-1994",
       "term": "noematic essence",
       "status": "introduced",
       "claim": "The noematic essence of the proposition is said to be elaborated for logical purposes and to share hardly any common ground with the said as such of a punctual judgment about an intramundane state of affairs.",
@@ -42,7 +42,7 @@
     {
       "id": "wesen/bernet-vie/004",
       "locator": "bernet-la-vie-du-sujet-commentary#h4-the-noema-as-ideal-signification-of-a-judgment",
-      "stratum": "lvds-1994",
+      "stratum": "bernet-vie-1994",
       "term": "ideation",
       "status": "presupposed",
       "claim": "Every reflective consciousness of a noematic signification is said to imply an act of ideation and thereby to relate to the essence of the signification.",
@@ -51,7 +51,7 @@
     {
       "id": "wesen/bernet-vie/005",
       "locator": "bernet-la-vie-du-sujet-commentary#h4-i-6",
-      "stratum": "lvds-1994",
+      "stratum": "bernet-vie-1994",
       "term": "science of essences",
       "status": "criticized",
       "claim": "It is asked whether there is really occasion to choose between phenomenology and a science of essences, since essences are what orient the analysis of phenomena.",
@@ -60,7 +60,7 @@
     {
       "id": "wesen/bernet-vie/006",
       "locator": "bernet-la-vie-du-sujet-commentary#h4-i-6",
-      "stratum": "lvds-1994",
+      "stratum": "bernet-vie-1994",
       "term": "immutable form",
       "status": "presupposed",
       "claim": "The concrete presence of the sign in empirical reality is called only a particular representation of the ideal and immutable form of the sign.",
@@ -69,7 +69,7 @@
     {
       "id": "wesen/bernet-vie/007",
       "locator": "bernet-la-vie-du-sujet-commentary#h4-i-6",
-      "stratum": "lvds-1994",
+      "stratum": "bernet-vie-1994",
       "term": "essences",
       "status": "criticized",
       "claim": "None of the Husserlian distinctions is said to concern two separate and autonomous essences, or to allow one to be derived from the other.",
@@ -78,7 +78,7 @@
     {
       "id": "wesen/bernet-vie/008",
       "locator": "bernet-la-vie-du-sujet-commentary#h4-i-6",
-      "stratum": "lvds-1994",
+      "stratum": "bernet-vie-1994",
       "term": "eidetic reduction",
       "status": "presupposed",
       "claim": "A second moment of Derrida's critical interpretation is said to concern no longer the eidetic but the phenomenological reduction.",
