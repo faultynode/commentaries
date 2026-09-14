@@ -8,7 +8,8 @@
       "theme": "sorge",
       "question": "GA 18 sits between GA 19 and the rest of the Marburg courses on any account of the development of care, but its commentary states no semester, so it cannot be placed on the ledger spine at all.",
       "needs": "The semester, from the commentary itself - i.e. from the volume the commentary works from, written into the commentary's opening note. Then chronology.json can move it from unresolved.",
-      "status": "open"
+      "status": "closed",
+      "resolution": "Summer Semester 1924, taken from GA 18 itself - the title page gives \"Marburger Vorlesung Sommersemester 1924\" [Marburg lecture course, summer semester 1924] and Michalski's afterword records a four-hour course at the Philipps University - and written into the commentary's opening note. chronology.json now carries stratum ga18-1924, and the sorge ledger orders GA 18 (1924) immediately before GA 19 (1924-25) and GA 20 (1925), which is the sequence the periodization turns on."
     },
     {
       "id": "gap-002",
@@ -31,9 +32,9 @@
       "opened": "2026-08-04",
       "theme": "sorge",
       "question": "GA 19's commentary contains one occurrence of Sorge, in its own glossary, and three checked absences at the phronesis and eudaimonia sections - where the argument runs in the vocabulary of aletheuein and praxis. Whether that near-absence belongs to the course or to the commentary's rendering cannot be told from the ledger: the extraction checked German terms, and an English-language commentary may render a German term of art into ordinary English without flagging it.",
-      "needs": "A second extraction pass over GA 19 keyed to the structure rather than the word - places where a being is said to be one for which its own being is at issue - so that a structural presence can be distinguished from a terminological absence.",
+      "needs": "A second extraction pass over GA 19 keyed to the structure rather than the word - places where a being is said to be one for which its own being is at issue - so that a structural presence can be distinguished from a terminological absence. Partly answered from the side of GA 18: the SS 1924 pass records the same near-absence at that course's phronesis material (the hexis of aletheuein, GA 18 § 22), where the argument again runs in aletheuein and hexis, while the structural claim - Dasein as concern is care about itself - is made openly at § 17. So the absence is not an artifact peculiar to GA 19's commentary. The structural pass over GA 19 is still wanted.",
       "raised_by": "synthesis/outputs/sorge-concept-trace.md",
-      "status": "open"
+      "status": "reading"
     },
     {
       "id": "gap-005",

@@ -78,17 +78,17 @@ Next candidates, by term density:
 
 ### sorge - care
 
-2 commentaries extracted · 11 units · 5 absences · 1 partial
+5 commentaries extracted · 39 units · 12 absences · 4 partial
 
 Next candidates, by term density:
 
 - [ ] `heidegger-sein-und-zeit-commentary` (1927) - 915 hits
 - [ ] `heidegger-being-and-time-commentary` (1927) - 253 hits
 - [ ] `henry-the-essence-of-manifestation-commentary` (undated) - 226 hits
-- [ ] `heidegger-ga-17-einfuhrung-in-die-phanomenologische-forschung-commentary` (1923) - 167 hits
-- [ ] `heidegger-ga-18-grundbegriffe-der-aristotelischen-philosophie-commentary` (1924) - 156 hits
 - [ ] `bernet-la-vie-du-sujet-commentary` (1994) - 138 hits
-- ... 44 more; see `synthesis_query.py --theme sorge`
+- [ ] `marion-sur-le-prisme-metaphysique-de-descartes-commentary` (1986) - 83 hits
+- [ ] `kant-kritik-der-reinen-vernunft-commentary` (undated) - 75 hits
+- ... 41 more; see `synthesis_query.py --theme sorge`
 
 ### vorhandenheit - presence-at-hand
 
@@ -179,14 +179,12 @@ These commentaries do not date their own text, so they sit off the ledger spine.
 
 Flagged by a synthesis pass as unsupported by the ledgers. This is the reading queue.
 
-- [ ] **gap-001** (open, sorge) GA 18 sits between GA 19 and the rest of the Marburg courses on any account of the development of care, but its commentary states no semester, so it cannot be placed on the ledger spine at all.
-      *Needs:* The semester, from the commentary itself - i.e. from the volume the commentary works from, written into the commentary's opening note. Then chronology.json can move it from unresolved.
 - [ ] **gap-002** (open, sorge) GA 20 § 31 dates the first striking on the phenomenon of care to seven years before the course, in work on the ontological foundations of Augustinian anthropology. Nothing in the corpus covers that work, so the earliest stratum of care is asserted in the corpus and evidenced nowhere in it.
       *Needs:* A commentary on the Augustine course the passage refers to. Until then the claim stands as a report of GA 20, not as a dated stratum.
 - [ ] **gap-003** (open, sorge) GA 20 § 31 gives care a two-moment formal structure - being-ahead-of-itself in already-being-alongside. Whether the structure gains, loses or reorders a moment two years later cannot be checked from this ledger.
       *Needs:* An extraction pass for sorge over heidegger-sein-und-zeit-commentary (the densest file in the corpus for these terms, no record) and heidegger-being-and-time-commentary.
-- [ ] **gap-004** (open, sorge) GA 19's commentary contains one occurrence of Sorge, in its own glossary, and three checked absences at the phronesis and eudaimonia sections - where the argument runs in the vocabulary of aletheuein and praxis. Whether that near-absence belongs to the course or to the commentary's rendering cannot be told from the ledger: the extraction checked German terms, and an English-language commentary may render a German term of art into ordinary English without flagging it.
-      *Needs:* A second extraction pass over GA 19 keyed to the structure rather than the word - places where a being is said to be one for which its own being is at issue - so that a structural presence can be distinguished from a terminological absence.
+- [ ] **gap-004** (reading, sorge) GA 19's commentary contains one occurrence of Sorge, in its own glossary, and three checked absences at the phronesis and eudaimonia sections - where the argument runs in the vocabulary of aletheuein and praxis. Whether that near-absence belongs to the course or to the commentary's rendering cannot be told from the ledger: the extraction checked German terms, and an English-language commentary may render a German term of art into ordinary English without flagging it.
+      *Needs:* A second extraction pass over GA 19 keyed to the structure rather than the word - places where a being is said to be one for which its own being is at issue - so that a structural presence can be distinguished from a terminological absence. Partly answered from the side of GA 18: the SS 1924 pass records the same near-absence at that course's phronesis material (the hexis of aletheuein, GA 18 § 22), where the argument again runs in aletheuein and hexis, while the structural claim - Dasein as concern is care about itself - is made openly at § 17. So the absence is not an artifact peculiar to GA 19's commentary. The structural pass over GA 19 is still wanted.
 - [ ] **gap-005** (open, sorge) sorge/ga20/005 is recorded as 'revised': concern is subordinated to care, having carried the earlier analysis of everyday commerce with the world. The ledger holds no unit for that earlier use, because the GA 20 pass covered Chapter Four only. A revision with no baseline in the ledger is an unsupported claim about a development.
       *Needs:* Extraction of GA 20 §§ 19-26, where the earlier use of Besorgen would be recorded. Until then the 'revised' status rests on the commentary's own retrospective phrasing rather than on two dated units.
 - [ ] **gap-006** (open, sorge) The GA 20 § 35 absence - conscience and being-guilty treated without the vocabulary of care, next to a death analysis in § 34 that uses it - is either a fact about the course or an artifact of a commentary section that runs to 358 words. The extraction record flags the ambiguity and cannot resolve it.
