@@ -1,0 +1,120 @@
+{
+  "schema_version": 1,
+  "theme": "konstitution",
+  "commentary": "franck-chair-et-corps-commentary",
+  "source_sha256": "0757213bac9658321459643d6202563f502dbbf2f877f1e30d07dd34c897d9d5",
+  "extracted_at": "2026-09-14",
+  "extractor": {
+    "agent": "claude-code",
+    "prompt": "synthesis-pipeline/extraction-prompt.md"
+  },
+  "coverage": "partial",
+  "coverage_note": "Chapters Four, Five, Six, Eight and Twelve. The absence list is empty and that is a claim, not a default: every section of this commentary over 300 words carries at least two terms of the family, so there is nowhere in it where the theme was expected and is missing. No unit carries a stratum - the commentary has no chronology.json entry and states no date of its own.",
+  "units": [
+    {
+      "id": "konstitution/franck/001",
+      "locator": "franck-chair-et-corps-commentary#h2-chapter-four-constitutive-analysis",
+      "term": "constitution",
+      "claim": "Constitution as Leistung brings to light the synthetic unity of the acts of consciousness and concerns all possible types of objects, first of all the possibility of objects in general.",
+      "status": "introduced",
+      "quote": "brings to light the synthetic unity of the various acts of consciousness, delivers the object over to a pure regard, and concerns all possible types of objects, including, first of all, the possibility of objects in general."
+    },
+    {
+      "id": "konstitution/franck/002",
+      "locator": "franck-chair-et-corps-commentary#h2-chapter-four-constitutive-analysis",
+      "term": "self-constitution",
+      "claim": "Constitution extends as far as the self-constitution of the ego, and constitutive syntheses define the field of all transcendental phenomenology.",
+      "status": "introduced",
+      "quote": "Constitution thus extends as far as the self-constitution of the ego, and constitutive syntheses define the field of all transcendental phenomenology."
+    },
+    {
+      "id": "konstitution/franck/003",
+      "locator": "franck-chair-et-corps-commentary#h2-chapter-four-constitutive-analysis",
+      "term": "constitution of the object",
+      "claim": "The constitution of the object as formal ontology is the basis for the hierarchy of a priori levels and so for the material and regional ontologies.",
+      "status": "presupposed",
+      "quote": "The constitution of the object — formal ontology — is the basis for the hierarchy of *a priori* levels and thus for material and regional ontologies"
+    },
+    {
+      "id": "konstitution/franck/004",
+      "locator": "franck-chair-et-corps-commentary#h2-chapter-five-eidetic-reduction-and-archi-facticity",
+      "term": "constitution of the ego",
+      "claim": "The constitution of temporality leads back to the constitution of the ego itself, without which the task of constitution would suffer from lacunae.",
+      "status": "introduced",
+      "quote": "The constitution of temporality leads back to the constitution of the ego itself. Without it, the task of constitution would suffer from lacunae."
+    },
+    {
+      "id": "konstitution/franck/005",
+      "locator": "franck-chair-et-corps-commentary#h2-chapter-five-eidetic-reduction-and-archi-facticity",
+      "term": "absolute ipseity",
+      "claim": "If to constitute is always to unify, the unifying principle cannot itself be constituted: it is presupposed by all constitution and given as absolute ipseity.",
+      "status": "revised",
+      "quote": "If to constitute is always to unify, then the unifying principle cannot itself be constituted. It must therefore appear as something presupposed by all constitution and as something given in every lived experience as absolutely identical: namely, *absolute ipseity*."
+    },
+    {
+      "id": "konstitution/franck/006",
+      "locator": "franck-chair-et-corps-commentary#h2-chapter-five-eidetic-reduction-and-archi-facticity",
+      "term": "constitution in general",
+      "claim": "Withdrawing the ego from the constitution of objects does not withdraw it from constitution in general; the transcendentally absolute itself constitutes itself in a peculiar sense.",
+      "status": "revised",
+      "quote": "To withdraw the ego from one type of constitution — the constitution of objects — is not to withdraw it from constitution in general."
+    },
+    {
+      "id": "konstitution/franck/007",
+      "locator": "franck-chair-et-corps-commentary#h2-chapter-six-phenomenological-idealism",
+      "term": "constitutive system",
+      "claim": "The constitutive system of all objects in general is based on the constitution of the authority for which there are objects, namely transcendental subjectivity.",
+      "status": "introduced",
+      "quote": "the constitutive system of all objects in general is based on the constitution of the authority for which there are objects — namely, transcendental subjectivity."
+    },
+    {
+      "id": "konstitution/franck/008",
+      "locator": "franck-chair-et-corps-commentary#h2-chapter-six-phenomenological-idealism",
+      "term": "pre-constituted",
+      "claim": "The objection is that the ego is always found in a pre-constituted world whose ontological type is known by all, and which supplies the guiding thread for describing transcendental subjectivity.",
+      "status": "criticized",
+      "quote": "one might object that the ego is always found in a *pre-constituted* world — a world whose ontological type, as Husserl curiously says, is \"known by all\" (*allbekannten*). This world supplies a guiding thread for the description of the structures of transcendental subjectivity."
+    },
+    {
+      "id": "konstitution/franck/009",
+      "locator": "franck-chair-et-corps-commentary#h2-chapter-eight-flesh-and-the-sphere-of-ownness",
+      "term": "constitutional effects",
+      "claim": "The new epoche disregards all constitutional effects of intentionality relating to other subjectivity, delimiting the intentionality in which the ego constitutes within himself a peculiar ownness.",
+      "status": "introduced",
+      "quote": "we disregard all constitutional effects of intentionality relating immediately or mediately to other subjectivity, and we delimit first of all the total nexus of that actual and potential intentionality in which the ego constitutes within himself a peculiar ownness (*Eigenheit*)"
+    },
+    {
+      "id": "konstitution/franck/010",
+      "locator": "franck-chair-et-corps-commentary#h2-chapter-eight-flesh-and-the-sphere-of-ownness",
+      "term": "constitution of flesh",
+      "claim": "The constitution of flesh is presupposed by all constitution of things, that is by all constitution of worldly transcendence in general.",
+      "status": "introduced",
+      "quote": "the constitution of flesh is presupposed by all constitution of things — that is, by all constitution of worldly transcendence in general."
+    },
+    {
+      "id": "konstitution/franck/011",
+      "locator": "franck-chair-et-corps-commentary#h2-chapter-eight-flesh-and-the-sphere-of-ownness",
+      "term": "horizons of constitution",
+      "claim": "The objection is put that there is no constitution of a horizon but only horizons of constitution, which marks the finitude of the phenomenological.",
+      "status": "criticized",
+      "quote": "there is no constitution of *a* horizon but only horizons of constitution? Does one not here run up against, in various forms, the limits that mark the *finitude* of the phenomen"
+    },
+    {
+      "id": "konstitution/franck/012",
+      "locator": "franck-chair-et-corps-commentary#h2-chapter-twelve-pairing-and-resemblance",
+      "term": "constitution of the other",
+      "claim": "The constitution of the other is the centrepiece of the constitution of the objective world, so the analysis must determine the origin of the world's permanence.",
+      "status": "introduced",
+      "quote": "The constitution of the other, Franck explains, is the centerpiece of the constitution of the objective world, which is given as a world always there and constantly present."
+    },
+    {
+      "id": "konstitution/franck/013",
+      "locator": "franck-chair-et-corps-commentary#h2-chapter-twelve-pairing-and-resemblance",
+      "term": "egological constitution",
+      "claim": "Since flesh is the zero-object and death belongs to its sense, the egological constitution of the world is affected by contingency.",
+      "status": "criticized",
+      "quote": "the egological constitution of the world is thereby affected by *contingency*, since flesh is the \"zero-object\" (*Nullobjekt*)"
+    }
+  ],
+  "absences": []
+}

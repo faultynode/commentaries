@@ -1,0 +1,124 @@
+{
+  "schema_version": 1,
+  "theme": "konstitution",
+  "commentary": "husserliana-33-die-bernauer-manuskripte-uber-das-zeitbewusstsein-commentary",
+  "source_sha256": "7824dfc668eb525991d53ab3355fb32c76040ee942ce34e20338a34d494b2530",
+  "extracted_at": "2026-09-14",
+  "extractor": {
+    "agent": "claude-code",
+    "prompt": "synthesis-pipeline/extraction-prompt.md"
+  },
+  "coverage": "partial",
+  "coverage_note": "Section III of the editor's introduction and the sections that name constitution in their own headings - the interweaving of retention and protention, the alternative model of the primal process, the grasping-perception question, the unity of the functioning primal process, and the temporal essential determinations of constituting consciousness. No unit carries a stratum: the commentary dates the two Bernau stays but does not assign the individual texts to either, so nothing here can be placed on the 1917/1918 division.",
+  "units": [
+    {
+      "id": "konstitution/hua33/001",
+      "locator": "husserliana-33-die-bernauer-manuskripte-uber-das-zeitbewusstsein-commentary#h2-iii",
+      "primary_locator": "Hua XXXIII, editor's introduction III",
+      "term": "constitutive relation",
+      "claim": "After the transcendental-phenomenological reduction the relation between absolute consciousness and sensation-datum was re-determined as a constitutive relation, sensation constituting itself in absolute consciousness as an immanent time-object.",
+      "status": "revised",
+      "quote": "the relation between \"absolute\" consciousness and sensation-datum was re-determined as a constitutive relation. Just as a transcendent object constitutes itself in the apprehension of a sensation-datum, so sensation itself constitutes itself in \"absolute\" consciousness as a (present, past, or future) immanent time-object."
+    },
+    {
+      "id": "konstitution/hua33/002",
+      "locator": "husserliana-33-die-bernauer-manuskripte-uber-das-zeitbewusstsein-commentary#h2-iii",
+      "primary_locator": "Hua XXXIII, editor's introduction III",
+      "term": "constitutive achievement",
+      "claim": "The C-manuscripts deny all original constitutive achievement to the primal stream running without ego-participation: constitution of temporal objects requires an ego-achievement.",
+      "status": "revised",
+      "quote": "The C-manuscripts ultimately lead Husserl to deny all original constitutive achievement to the primal stream running without any ego-participation. Constitution of temporal objects is possible only when an ego-achievement is present."
+    },
+    {
+      "id": "konstitution/hua33/003",
+      "locator": "husserliana-33-die-bernauer-manuskripte-uber-das-zeitbewusstsein-commentary#h2-iii",
+      "primary_locator": "Hua XXXIII, editor's introduction III",
+      "term": "constitutive significance",
+      "claim": "The hyletic primal stream gains constitutive significance only through a subsequent egoic act of reflection that modifies its nature.",
+      "status": "revised",
+      "quote": "Only through the subsequent performance of an egoic act of reflection on the pre-intentional primal process, i.e., through an intervening modification of its nature, does the hyletic primal stream gain constitutive significance."
+    },
+    {
+      "id": "konstitution/hua33/004",
+      "locator": "husserliana-33-die-bernauer-manuskripte-uber-das-zeitbewusstsein-commentary#h4-s-4-the-interweaving-of-retention-and-protention-in-the-constitution-of-phenomen",
+      "primary_locator": "Hua XXXIII, Text Nr. 1 S 4",
+      "term": "constitutes itself",
+      "claim": "The event constitutes itself with an open event-horizon that is itself a protentional horizon, and every primal process, once primal processes have become constitutive, will be constitutively apperceived.",
+      "status": "introduced",
+      "quote": "Thus the event constitutes itself with an open event-horizon that is itself a protentional horizon. Genetically: even if no concretely determinate expectation precedes the event, every primal process—once primal processes have become constitutive at all—will be constitutively apperceived."
+    },
+    {
+      "id": "konstitution/hua33/005",
+      "locator": "husserliana-33-die-bernauer-manuskripte-uber-das-zeitbewusstsein-commentary#h4-s-4-the-interweaving-of-retention-and-protention-in-the-constitution-of-phenomen",
+      "primary_locator": "Hua XXXIII, Text Nr. 1 S 4",
+      "term": "constitutive process",
+      "claim": "The genetic task is to make comprehensible how a constitutive process can form at all before any constitutive process has been accomplished.",
+      "status": "introduced",
+      "quote": "The genetic task would be to make comprehensible how a constitutive process can form at all before any constitutive process has been accomplished"
+    },
+    {
+      "id": "konstitution/hua33/006",
+      "locator": "husserliana-33-die-bernauer-manuskripte-uber-das-zeitbewusstsein-commentary#h4-s-5-does-the-constitution-of-time-objects-require-a-grasping-perception-is-there",
+      "primary_locator": "Hua XXXIII, S 5",
+      "term": "constituting",
+      "claim": "Two possibilities are put: either the primal process constantly constitutes phenomenological time even without grasping, or reflection brings in a time-constituting that was not already at play.",
+      "status": "introduced",
+      "quote": "The primal process is constantly constituting phenomenological time with its time-filling immanent objects, even without grasping"
+    },
+    {
+      "id": "konstitution/hua33/007",
+      "locator": "husserliana-33-die-bernauer-manuskripte-uber-das-zeitbewusstsein-commentary#h4-s-2-development-of-the-alternative-model-the-primal-process-in-its-arising-and-m",
+      "primary_locator": "Hua XXXIII, S 2",
+      "term": "constitution of a time-event-consciousness",
+      "claim": "The beginning of the constitution of a time-event-consciousness is the moment an ur-datum appears and stimulates the ego to grasping.",
+      "status": "introduced",
+      "quote": "When an ur-datum appears and stimulates the ego to grasping, this is the beginning of the constitution of a time-event-consciousness."
+    },
+    {
+      "id": "konstitution/hua33/008",
+      "locator": "husserliana-33-die-bernauer-manuskripte-uber-das-zeitbewusstsein-commentary#h4-s-2-development-of-the-alternative-model-the-primal-process-in-its-arising-and-m",
+      "primary_locator": "Hua XXXIII, S 2",
+      "term": "constitutive functions",
+      "claim": "Without grasping there would be no time-constituting apprehensions and no constituted temporal event: all objecthood, time itself included, is a product of constitutive functions.",
+      "status": "introduced",
+      "quote": "Without grasping, we would have the mere primal process without any time-constituting apprehensions and thus no really constituted temporal event, no phenomenological time. All objecthood, even time itself, is a product of constitutive functions"
+    },
+    {
+      "id": "konstitution/hua33/009",
+      "locator": "husserliana-33-die-bernauer-manuskripte-uber-das-zeitbewusstsein-commentary#h4-s-4-unity-of-the-functioning-primal-process-of-constituting-consciousness-and-it",
+      "primary_locator": "Hua XXXIII, S 4",
+      "term": "one and the same constitution",
+      "claim": "The constituting event and the constituted event are constituted in one and the same constitution, the constituting sequence being implied in itself.",
+      "status": "introduced",
+      "quote": "The constituting event and the constituted event are constituted in one and the same constitution. The constituting sequence as sequence is peculiarly implied in the constituting sequence itself."
+    },
+    {
+      "id": "konstitution/hua33/010",
+      "locator": "husserliana-33-die-bernauer-manuskripte-uber-das-zeitbewusstsein-commentary#h4-s-3-the-temporal-essential-determinations-of-the-constituting-consciousness-and",
+      "primary_locator": "Hua XXXIII, S 3",
+      "term": "time-constitution",
+      "claim": "Every concrete experience is a unity of becoming constituting itself as object in inner consciousness in the form of time, and the question is what the time-constitution of experiences does to their intentional objects.",
+      "status": "introduced",
+      "quote": "Every concrete experience is a unity of becoming, constituting itself as object in inner consciousness in the form of time. What influence does the necessary time-constitution of experiences have on their intentional objects?"
+    },
+    {
+      "id": "konstitution/hua33/011",
+      "locator": "husserliana-33-die-bernauer-manuskripte-uber-das-zeitbewusstsein-commentary#h4-s-3-the-temporal-essential-determinations-of-the-constituting-consciousness-and",
+      "primary_locator": "Hua XXXIII, S 3",
+      "term": "mediately constituted",
+      "claim": "Directly constituted objects necessarily have a time-form belonging to their being, while for mediately constituted objects immanent time serves as apprehensive representative.",
+      "status": "revised",
+      "quote": "The directly constituted objects (both those of inner consciousness and the ego-foreign hyletic objects) necessarily have a time-form belonging to their being. When objects are mediately constituted (e.g., \"physical\" spatial objects), immanent time serves as apprehensive representative"
+    }
+  ],
+  "absences": [
+    {
+      "locator": "husserliana-33-die-bernauer-manuskripte-uber-das-zeitbewusstsein-commentary#h4-s-2-how-is-a-flowing-consciousness-of-the-elapsing-presence-possible-the-flow-of",
+      "expected_because": "The question how a flowing consciousness of the elapsing presence is possible is the question the neighbouring sections answer with time-constituting apprehension. This section works it through without any term of the family."
+    },
+    {
+      "locator": "husserliana-33-die-bernauer-manuskripte-uber-das-zeitbewusstsein-commentary#h4-s-2-retention-and-re-presentation-unlike-phantasy-and-image-consciousness-retent",
+      "expected_because": "Retention is treated here against phantasy and image-consciousness, and retention is what S 4 makes the interweaving partner of protention in the constitution of phenomenological temporal objectivity. No term of the family occurs."
+    }
+  ]
+}
