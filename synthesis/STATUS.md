@@ -177,6 +177,7 @@ These commentaries do not date their own text, so they sit off the ledger spine.
 - [ ] `husserliana-3-ideas-i-commentary`
 - [ ] `husserliana-3-ideas-i-parts-3-4-commentary`
 - [ ] `husserliana-39-die-lebenswelt-commentary`
+- [ ] `husserliana-43-2-studien-zur-struktur-des-bewusstseins-commentary`
 - [ ] `husserliana-5-ideas-iii-commentary` - Hua V shares the Stein and Landgrebe strata recorded under husserliana-4-ideas-ii-commentary, per that commentary's editor's introduction. Do not copy those strata here until this commentary states them itself.
 - [ ] `mohanty-philosophy-of-edmund-husserl-commentary`
 - [ ] `picht-de-anima-commentary`
