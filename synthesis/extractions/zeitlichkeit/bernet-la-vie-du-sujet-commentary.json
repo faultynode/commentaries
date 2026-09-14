@@ -1,0 +1,187 @@
+{
+  "schema_version": 1,
+  "theme": "zeitlichkeit",
+  "commentary": "bernet-la-vie-du-sujet-commentary",
+  "source_sha256": "4269d26270bb4f610dfccc053738781719d3fd12980aa525092b4633187232af",
+  "extracted_at": "2026-09-14",
+  "extractor": {
+    "agent": "claude-code",
+    "prompt": "prompts/synthesis-pipeline/extraction-prompt.md"
+  },
+  "coverage": "partial",
+  "coverage_note": "Chapter 1, 'Origin of Time and Originary Time (Husserl and Heidegger)', sections I-III, and section II of chapter 2, 'The Presence of the Past (Husserl)'. Chapter 4 ('His Master's Voice'), the rest of chapter 2 and the sections on the self-appearing of the flux carry term hits and are not extracted.",
+  "units": [
+    {
+      "id": "zeitlichkeit/bernet/001",
+      "locator": "bernet-la-vie-du-sujet-commentary#h4-i-4",
+      "primary_locator": "p. 193",
+      "term": "origin of time",
+      "status": "introduced",
+      "claim": "The phenomenological question of the origin of time is said to be oriented toward the primitive formations of time-consciousness and to require a bracketing of objective world-time.",
+      "quote": "the question of the essence of time also leads back to the question of the \"origin\" of time, but this question of origin is oriented toward the primitive formations of time-consciousness (p. 193)"
+    },
+    {
+      "id": "zeitlichkeit/bernet/002",
+      "locator": "bernet-la-vie-du-sujet-commentary#h4-i-4",
+      "primary_locator": "p. 195",
+      "term": "Gegenwärtigung",
+      "status": "introduced",
+      "claim": "Husserl is read as conceding that the present of perception can spill over onto future and past but need not by right, so that presentation founds all time-consciousness and memory and expectation derive from it.",
+      "quote": "The perceptual experience of the present — presentation (*Gegenwärtigung*) — is the foundation of all time-consciousness; memory and expectation derive from it as acts of re-presentation (*Vergegenwärtigung*) putting to work a doubling of the present. This concession marks a precise fault line: Heidegger will deny that any present can be had without the other two ecstases."
+    },
+    {
+      "id": "zeitlichkeit/bernet/003",
+      "locator": "bernet-la-vie-du-sujet-commentary#h4-i-4",
+      "primary_locator": "p. 195",
+      "term": "retention and protention",
+      "status": "presupposed",
+      "claim": "Retention and protention are distinguished from remembering and expectation as non-independent moments of every intentional act accomplished in the present.",
+      "quote": "Retention and protention must not be confused with remembering and expectation; they are not autonomous intentional acts but non-independent moments of every intentional act accomplished in the present."
+    },
+    {
+      "id": "zeitlichkeit/bernet/004",
+      "locator": "bernet-la-vie-du-sujet-commentary#h4-i-4",
+      "primary_locator": "pp. 196-197",
+      "term": "absolute consciousness",
+      "status": "revised",
+      "claim": "Absolute consciousness is said not to be temporal, since temporal predicates apply only to immanent temporal objects, and its non-temporality is glossed as an other-temporality.",
+      "quote": "If temporality is a determination of what is contained in time, then absolute consciousness is not temporal. Husserl clearly assumes the consequence, affirming that temporal predicates such as \"now\", \"before\", \"successively\", \"simultaneously\" no longer apply to absolute consciousness itself but only to immanent temporal objects such as the intentional lived experiences of perception."
+    },
+    {
+      "id": "zeitlichkeit/bernet/005",
+      "locator": "bernet-la-vie-du-sujet-commentary#h4-i-4",
+      "primary_locator": "pp. 196-197",
+      "term": "flux",
+      "status": "criticized",
+      "claim": "The difference between the temporality of intentional acts and the other-temporality of absolute consciousness is paralleled with Heidegger's difference between derived temporality and originary ecstatic temporality.",
+      "quote": "The same difference will be found in Heidegger as the difference between the derived temporality of acts of perception and remembering and originary ecstatic temporality."
+    },
+    {
+      "id": "zeitlichkeit/bernet/006",
+      "locator": "bernet-la-vie-du-sujet-commentary#h4-i-4",
+      "primary_locator": "p. 198",
+      "term": "Querintentionalität / Längsintentionalität",
+      "status": "presupposed",
+      "claim": "The present of absolute consciousness is at once retention of the proto-object's past and retention of the elapsed phases of the flux itself, the two named transverse and longitudinal intentionality.",
+      "quote": "Husserl calls the retention of the proto-object's past duration transverse intentionality (*Querintentionalität*) and the retention of the elapsed flux longitudinal intentionality (*Längsintentionalität*)."
+    },
+    {
+      "id": "zeitlichkeit/bernet/007",
+      "locator": "bernet-la-vie-du-sujet-commentary#h4-i-4",
+      "primary_locator": "pp. 199-200",
+      "term": "absolute consciousness",
+      "status": "criticized",
+      "claim": "The consequence Husserl is said to have refused is drawn: if longitudinal intentionality cannot be had without transverse, the flux cannot be absolute, and the founding relation at the heart of originary time is reversible.",
+      "quote": "As an honest phenomenologist, however, Husserl pays his tribute to the phenomena by installing a reversible founding relation at the very heart of originary time"
+    },
+    {
+      "id": "zeitlichkeit/bernet/008",
+      "locator": "bernet-la-vie-du-sujet-commentary#h4-ii-4",
+      "primary_locator": "p. 201",
+      "term": "time-consciousness",
+      "status": "criticized",
+      "claim": "Heidegger is charged with passing over Husserl's analyses of absolute time-consciousness in silence, mentioning neither the flux, nor its double intentionality, nor retention.",
+      "quote": "Heidegger purely and simply spirits away the searching analyses Husserl devotes to absolute time-consciousness: neither the flux, nor its double intentionality, nor even the phenomenon of retention is mentioned in a single word."
+    },
+    {
+      "id": "zeitlichkeit/bernet/009",
+      "locator": "bernet-la-vie-du-sujet-commentary#h4-ii-4",
+      "primary_locator": "pp. 201-202",
+      "term": "levels of temporalization",
+      "status": "presupposed",
+      "claim": "Heidegger's three levels of temporalization are set out and paralleled with Husserl's, with no Husserlian equivalent found for the third, the temporality of authentic existence.",
+      "quote": "It is not hard to recognize in the first level what Husserl treats as the immanent temporality of intentional acts, nor to parallel the second with the flux of absolute consciousness. It is harder to find in Husserl an equivalent of the third, the temporality of Dasein's authentic existence."
+    },
+    {
+      "id": "zeitlichkeit/bernet/010",
+      "locator": "bernet-la-vie-du-sujet-commentary#h4-ii-4",
+      "primary_locator": "p. 203",
+      "term": "ekstatisch",
+      "status": "introduced",
+      "claim": "Temporality is called ecstatic as an impulse tearing what is out of itself, gathering moments that are each already an exit from self into a unity that is itself a wrenching.",
+      "quote": "Temporality is called *ecstatic* because it is an impulse tearing everything that is out of itself, making it be as a movement without respite or rest."
+    },
+    {
+      "id": "zeitlichkeit/bernet/011",
+      "locator": "bernet-la-vie-du-sujet-commentary#h4-ii-4",
+      "primary_locator": "p. 203",
+      "term": "ecstases",
+      "status": "introduced",
+      "claim": "The three ecstases are ecstatic in a threefold sense: they do not belong to beings, each loses itself in the other two, and their unity is accomplished in view of one horizon.",
+      "quote": "rather than being the determination of a thing as future, past or present, the ecstases open the horizon permitting a thing to appear as future, past or present"
+    },
+    {
+      "id": "zeitlichkeit/bernet/012",
+      "locator": "bernet-la-vie-du-sujet-commentary#h4-ii-4",
+      "primary_locator": "p. 204",
+      "term": "Gewärtigen / Behalten / Gegenwärtigen",
+      "status": "presupposed",
+      "claim": "The tripartite ecstatic structure is doubled by the authentic and inauthentic modes, the authentic unity being anticipation, repetition and the moment of vision, the inauthentic being-tensed-toward, retaining and presentifying.",
+      "quote": "the ecstatic unity put to work by the authentic mode has the form of anticipation, repetition and the moment of vision; in the inauthentic mode, ecstatic temporalization is accomplished in the unity of being-tensed-toward (*Gewärtigen*), retaining (*Behalten*) and presentifying (*Gegenwärtigen*)"
+    },
+    {
+      "id": "zeitlichkeit/bernet/013",
+      "locator": "bernet-la-vie-du-sujet-commentary#h4-ii-4",
+      "primary_locator": "pp. 207-208",
+      "term": "vorlaufende Entschlossenheit",
+      "status": "criticized",
+      "claim": "Making the most originary temporalization depend on anticipatory resoluteness is objected to as resting on a relatively arbitrary and contestable idea of the true sense of human life.",
+      "quote": "It nonetheless seems difficult to deny that in proceeding thus Heidegger makes the understanding of the most originary mode of temporalization depend on a relatively arbitrary and contestable idea he forms of the true sense of human life"
+    },
+    {
+      "id": "zeitlichkeit/bernet/014",
+      "locator": "bernet-la-vie-du-sujet-commentary#h4-ii-4",
+      "primary_locator": "pp. 206-207",
+      "term": "Innerzeitigkeit",
+      "status": "presupposed",
+      "claim": "Vulgar time is derived from intratemporality, which results from the ecstatic unity of presentifying, being-tensed-toward and retaining, which refers in turn to authentic existence.",
+      "quote": "If vulgar time thus derives from intratemporality, the latter results from the ecstatic unity of presentifying, being-tensed-toward and retaining; and that ecstatic unity, from which inauthentic existence receives its temporal sense, refers in turn to the temporal sense of authentic existence."
+    },
+    {
+      "id": "zeitlichkeit/bernet/015",
+      "locator": "bernet-la-vie-du-sujet-commentary#h4-iii-4",
+      "primary_locator": "p. 210",
+      "term": "Urimpression, retention, protention",
+      "status": "revised",
+      "claim": "Primal impression, retention and protention are declared genuine ecstases, temporalizing by going outside themselves and together deploying the horizon in which a temporal object can be given.",
+      "quote": "Primal impression, retention and protention are genuinely ecstases, for they temporalize by going outside themselves, each referring to the others and together deploying the horizon in which a temporal object can be given to be seen as \"now\", \"before\", \"after\"."
+    },
+    {
+      "id": "zeitlichkeit/bernet/016",
+      "locator": "bernet-la-vie-du-sujet-commentary#h4-ii-5",
+      "primary_locator": "pp. 230-231",
+      "term": "retentional modification",
+      "status": "presupposed",
+      "claim": "The iterative structure of retentional modifications is said to account at once for consciousness of the act's duration and for consciousness of the flux, each retention carrying the inheritance of the whole preceding process.",
+      "quote": "It matters above all to understand that retention is a moment of absolute consciousness, that each new retention modifies all preceding retentions, and that in virtue of the structure of this modification each retention carries in itself the inheritance of the whole preceding process."
+    },
+    {
+      "id": "zeitlichkeit/bernet/017",
+      "locator": "bernet-la-vie-du-sujet-commentary#h4-ii-5",
+      "primary_locator": "p. 232",
+      "term": "becoming-past",
+      "status": "criticized",
+      "claim": "Becoming-past is denied to be accumulation or linear pushing-back: the past is continually remodified from the present of retention, and only this permits the experience of duration.",
+      "quote": "The past is continually remodified from the present of retention, and it is only this present modification of the past that permits the experience of temporal duration."
+    },
+    {
+      "id": "zeitlichkeit/bernet/018",
+      "locator": "bernet-la-vie-du-sujet-commentary#h4-ii-5",
+      "primary_locator": "p. 233",
+      "term": "flux",
+      "status": "revised",
+      "claim": "Absolute consciousness is said not to have retention but to be retention or primal impression, so that the name flux is only metaphorical and the constitutive regress is arrested there.",
+      "quote": "And inversely, nothing is found in this absolute consciousness: it does not *have* retention, it *is* retention or primal impression."
+    },
+    {
+      "id": "zeitlichkeit/bernet/019",
+      "locator": "bernet-la-vie-du-sujet-commentary#h4-ii-5",
+      "primary_locator": "pp. 235-236",
+      "term": "Urgegenwart",
+      "status": "introduced",
+      "claim": "The chapter's positive result is that consciousness gives itself only belatedly, so that the originary present is a present-becoming-past and presence to self stands against a ground of absence.",
+      "quote": "If the time of this self-givenness of absolute consciousness can still be called \"present\", then it must be said that the \"present\" is an encounter or difference between \"present\" and \"past\" (pp. 235–236). This originary present (*Urgegenwart*) is a \"present\"-becoming-\"past\"."
+    }
+  ],
+  "absences": []
+}

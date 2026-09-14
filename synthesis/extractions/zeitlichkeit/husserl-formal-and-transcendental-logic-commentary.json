@@ -1,0 +1,79 @@
+{
+  "schema_version": 1,
+  "theme": "zeitlichkeit",
+  "commentary": "husserl-formal-and-transcendental-logic-commentary",
+  "source_sha256": "04e5753e083caeb49e03ab9548070ef879b6571320ae58ffdca2c89992f8f95b",
+  "extracted_at": "2026-09-14",
+  "extractor": {
+    "agent": "claude-code",
+    "prompt": "prompts/synthesis-pipeline/extraction-prompt.md"
+  },
+  "coverage": "partial",
+  "coverage_note": "Appendix II §§ 2 b-c and § 3 a, where the time-form of intentional genesis and the retentional modification are set out. The nine other sections with term hits are not extracted.",
+  "units": [
+    {
+      "id": "zeitlichkeit/ftl/001",
+      "locator": "husserl-formal-and-transcendental-logic-commentary#h4-b-intentional-explication-of-genesis-genetic-as-well-as-static-originality-of-th",
+      "primary_locator": "Appendix II, § 2 b",
+      "term": "immanent temporality",
+      "status": "introduced",
+      "claim": "Genetic intentional analysis is directed at the whole concrete context, bringing into question the immanent unity of the temporality of life in which life has its history.",
+      "quote": "The immanent unity of the temporality of life comes into question, in which life has its \"history.\""
+    },
+    {
+      "id": "zeitlichkeit/ftl/002",
+      "locator": "husserl-formal-and-transcendental-logic-commentary#h4-b-intentional-explication-of-genesis-genetic-as-well-as-static-originality-of-th",
+      "primary_locator": "Appendix II, § 2 b",
+      "term": "original institution",
+      "status": "introduced",
+      "claim": "No non-original consciousness-mode is essentially possible unless the corresponding original mode has previously occurred in the synthetic unity of immanent temporality as the originally instituting one.",
+      "quote": "For every fundamental kind of objectualities, no non-original consciousness-mode is essentially possible unless the corresponding original consciousness-mode has previously occurred in the synthetic unity of immanent temporality as the genetically \"originally instituting\" one."
+    },
+    {
+      "id": "zeitlichkeit/ftl/003",
+      "locator": "husserl-formal-and-transcendental-logic-commentary#h4-c-the-time-form-of-intentional-genesis-and-its-constitution-retentional-modifica",
+      "primary_locator": "Appendix II, § 2 c",
+      "term": "time-form",
+      "status": "introduced",
+      "claim": "The universal essential form of intentional genesis is the constitution of immanent temporality, in which every experience receives its identical time-position and enduringly retains it.",
+      "quote": "The universal essential form of intentional genesis is the constitution of immanent temporality: every consciousness-experience, in the streaming change of typically modified givenness-modes within a living present, receives its identical time-position and then enduringly retains it."
+    },
+    {
+      "id": "zeitlichkeit/ftl/004",
+      "locator": "husserl-formal-and-transcendental-logic-commentary#h4-c-the-time-form-of-intentional-genesis-and-its-constitution-retentional-modifica",
+      "primary_locator": "Appendix II, § 2 c",
+      "term": "retentional modification",
+      "status": "presupposed",
+      "claim": "Retentional consciousness attaches in unalterable necessity to every experience in the primal mode, each modification functioning as a relative primal mode for a new one and pointing back to its absolute primal mode.",
+      "quote": "Each modification functions according to the same lawfulness as a relative primal mode for a new modification, and so continuously onward. Each modification points back to its absolute primal mode."
+    },
+    {
+      "id": "zeitlichkeit/ftl/005",
+      "locator": "husserl-formal-and-transcendental-logic-commentary#h4-c-the-time-form-of-intentional-genesis-and-its-constitution-retentional-modifica",
+      "primary_locator": "Appendix II, § 2 c",
+      "term": "sedimentation",
+      "status": "introduced",
+      "claim": "The retentional self-modification runs to an essential limit where the prominent flows into the background, the so-called unconscious, called a limit-mode of consciousness and not a phenomenological nothing.",
+      "quote": "this has its limit where the previously prominent flows into the general background — the so-called \"unconscious,\" which is nothing less than a phenomenological nothing but itself a limit-mode of consciousness"
+    },
+    {
+      "id": "zeitlichkeit/ftl/006",
+      "locator": "husserl-formal-and-transcendental-logic-commentary#h4-a-the-retentional-as-the-first-in-itself-form-of-secondary-sensibility-the-livin",
+      "primary_locator": "Appendix II, § 3 a",
+      "term": "secondary sensibility",
+      "status": "introduced",
+      "claim": "The retentional is the first-in-itself non-original givenness-mode of the judgment, the original action transforming in retentional continuity into a passive form of secondary sensibility.",
+      "quote": "The original action transforms in retentional continuity into a secondary form that is no longer activity, a passive form — a form of \"secondary sensibility.\""
+    },
+    {
+      "id": "zeitlichkeit/ftl/007",
+      "locator": "husserl-formal-and-transcendental-logic-commentary#h4-a-the-retentional-as-the-first-in-itself-form-of-secondary-sensibility-the-livin",
+      "primary_locator": "Appendix II, § 3 a",
+      "term": "retention",
+      "status": "presupposed",
+      "claim": "This retention alone is said to make possible progressive judgment-processes as the living further-formation of categorial meanings into higher-level judgments.",
+      "quote": "This kind of retention alone makes possible progressive judgment-processes as living further-formation and connection of categorial meanings to the unity of ever-new and higher-level judgments."
+    }
+  ],
+  "absences": []
+}

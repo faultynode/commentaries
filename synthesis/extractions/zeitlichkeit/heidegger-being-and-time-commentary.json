@@ -1,0 +1,117 @@
+{
+  "schema_version": 1,
+  "theme": "zeitlichkeit",
+  "commentary": "heidegger-being-and-time-commentary",
+  "source_sha256": "057922646a8715d015516477785fc240249c4a068ff4b49e9969d1e376fd5d39",
+  "extracted_at": "2026-09-14",
+  "extractor": {
+    "agent": "claude-code",
+    "prompt": "prompts/synthesis-pipeline/extraction-prompt.md",
+    "note": "This commentary is keyed to the English Being and Time; the German Sein und Zeit has its own commentary and its own record under this theme."
+  },
+  "coverage": "partial",
+  "coverage_note": "Second Division §§ 65, 66, 69 and 83. §§ 5 and 6 of the Introduction, which carry the densest term hits in this file, and the remaining 22 sections with hits are not extracted.",
+  "units": [
+    {
+      "id": "zeitlichkeit/bt/001",
+      "locator": "heidegger-being-and-time-commentary#h3-s-65-temporality-as-the-ontological-meaning-of-care",
+      "primary_locator": "BT § 65",
+      "stratum": "bt-1927",
+      "term": "Zukunft",
+      "status": "introduced",
+      "claim": "The coming-toward-itself of anticipatory resoluteness is the primordial phenomenon of the future, to be read literally as coming-toward and not as the awaiting of a not-yet-present event.",
+      "quote": "This coming-toward-itself is the primordial phenomenon of the *future* (*Zukunft*). The German *Zukunft* is to be understood literally: *Zu-kunft* means coming-toward — Dasein comes toward itself from its ownmost possibility."
+    },
+    {
+      "id": "zeitlichkeit/bt/002",
+      "locator": "heidegger-being-and-time-commentary#h3-s-65-temporality-as-the-ontological-meaning-of-care",
+      "primary_locator": "BT § 65",
+      "stratum": "bt-1927",
+      "term": "Gewesenheit",
+      "status": "introduced",
+      "claim": "Having-been is distinguished from the past as what still determines Dasein's being, and Dasein can come toward itself only by coming back to what it has been.",
+      "quote": "The German *Gewesenheit* does not simply mean the past (*Vergangenheit*) — something gone and no longer present — but rather the *having-been* that still determines Dasein's Being."
+    },
+    {
+      "id": "zeitlichkeit/bt/003",
+      "locator": "heidegger-being-and-time-commentary#h3-s-65-temporality-as-the-ontological-meaning-of-care",
+      "primary_locator": "BT § 65",
+      "stratum": "bt-1927",
+      "term": "Augenblick",
+      "status": "introduced",
+      "claim": "The present is making-present, not the now of a time-sequence, and authentic making-present is the moment of vision as resolute disclosure of the situation.",
+      "quote": "The present is not the \"now\" as a moment in a time-sequence but the existential structure of Dasein's Being-alongside beings — its letting beings be encountered within the disclosed situation. Authentic making-present is the *moment of vision* (*Augenblick*) — the resolute disclosure of the situation."
+    },
+    {
+      "id": "zeitlichkeit/bt/004",
+      "locator": "heidegger-being-and-time-commentary#h3-s-65-temporality-as-the-ontological-meaning-of-care",
+      "primary_locator": "BT § 65",
+      "stratum": "bt-1927",
+      "term": "Zeitlichkeit",
+      "status": "introduced",
+      "claim": "The meaning of care is temporality, with existentiality grounded in the future, facticity in having-been and falling in the present, the three ecstases constituting one unitary phenomenon.",
+      "quote": "These three ecstases — future, having-been, present — constitute the primordial unity of temporality. Temporality is the primordial \"outside-itself\" (*Außer-sich*) in and for itself. The ecstases are not three isolated phases but the unitary phenomenon of a future-that-has-been-and-makes-present."
+    },
+    {
+      "id": "zeitlichkeit/bt/005",
+      "locator": "heidegger-being-and-time-commentary#h3-s-65-temporality-as-the-ontological-meaning-of-care",
+      "primary_locator": "BT § 65",
+      "stratum": "bt-1927",
+      "term": "zeitigt sich",
+      "status": "presupposed",
+      "claim": "Temporality is denied the status of a being that first exists and then flows: it temporalizes itself, with primacy among the ecstases belonging to the future, and it is finite.",
+      "quote": "Temporality *temporalizes* itself (*zeitigt sich*) — it is the primordial self-unifying of the three ecstases. There is no temporality that first exists and then begins to temporalize. Temporality \"is\" temporalizing — it is a verb, not a noun."
+    },
+    {
+      "id": "zeitlichkeit/bt/006",
+      "locator": "heidegger-being-and-time-commentary#h3-s-65-temporality-as-the-ontological-meaning-of-care",
+      "primary_locator": "BT § 65",
+      "stratum": "bt-1927",
+      "term": "Gewärtigen / Vergessen / Gegenwärtigen",
+      "status": "introduced",
+      "claim": "Inauthentic temporality has the same threefold structure in modified forms - awaiting, forgetting, making-present - and is the modification in which the primacy of the future is suppressed and the present dominates.",
+      "quote": "Inauthentic temporality is not without temporality; it is a modification — specifically, the modification in which the primacy of the future is suppressed and the present dominates."
+    },
+    {
+      "id": "zeitlichkeit/bt/007",
+      "locator": "heidegger-being-and-time-commentary#h3-s-69-the-temporality-of-being-in-the-world-and-the-problem-of-the-transcendence",
+      "primary_locator": "BT § 69 c",
+      "stratum": "bt-1927",
+      "term": "horizonal schema",
+      "status": "introduced",
+      "claim": "Each ecstasis is given its horizon - the for-the-sake-of-which, the before-which of thrownness, the in-order-to - and their unity, the horizonal schema, conditions world as such.",
+      "quote": "Each ecstasis has its *horizon*: the future has the horizon of the for-the-sake-of-which; having-been has the horizon of the before-which of thrownness; the present has the horizon of the in-order-to. The unity of these horizons constitutes what Heidegger calls the *horizonal schema* of temporality."
+    },
+    {
+      "id": "zeitlichkeit/bt/008",
+      "locator": "heidegger-being-and-time-commentary#h3-s-69-the-temporality-of-being-in-the-world-and-the-problem-of-the-transcendence",
+      "primary_locator": "BT § 69 b",
+      "stratum": "bt-1927",
+      "term": "making-present",
+      "status": "presupposed",
+      "claim": "The passage from circumspection to theoretical contemplation is described as a modification of temporality, from the making-present guided by retaining-awaiting to that of a pure beholding.",
+      "quote": "The transition from practical circumspection to theoretical contemplation is a modification of temporality: a shift from the making-present guided by the retaining-awaiting of concerned circumspection to the making-present of a \"pure beholding\" (*reines Hinsehen*) that lets the ready-to-hand show itself as merely present-at-hand."
+    },
+    {
+      "id": "zeitlichkeit/bt/009",
+      "locator": "heidegger-being-and-time-commentary#h3-s-83-the-existential-temporal-analytic-of-dasein-and-the-fundamental-ontological",
+      "primary_locator": "BT § 83",
+      "stratum": "bt-1927",
+      "term": "Temporalität",
+      "status": "introduced",
+      "claim": "The unpublished Third Division was to have exhibited the Temporality of being itself as distinct from the temporality of Dasein, leaving the question whether time is the horizon of being open.",
+      "quote": "The projected Third Division (\"Time and Being\") was to have answered them by exhibiting the Temporality (*Temporalität*) of Being itself — not merely the temporality (*Zeitlichkeit*) of Dasein."
+    },
+    {
+      "id": "zeitlichkeit/bt/010",
+      "locator": "heidegger-being-and-time-commentary#h3-s-66-the-temporality-of-dasein-and-the-tasks-arising-from-it-for-a-more-primordi",
+      "primary_locator": "BT § 66",
+      "stratum": "bt-1927",
+      "term": "repetition",
+      "status": "presupposed",
+      "claim": "With temporality as the meaning of care the existential analysis is to be repeated, reinterpreting the structures of Division One in terms of their temporal constitution.",
+      "quote": "This section states that with temporality as the meaning of care, the existential analysis must now be *repeated* — all the structures of Division One are to be reinterpreted in terms of their temporal constitution."
+    }
+  ],
+  "absences": []
+}

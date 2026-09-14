@@ -1,0 +1,106 @@
+{
+  "schema_version": 1,
+  "theme": "zeitlichkeit",
+  "commentary": "husserliana-9-phenomenological-psychology-commentary",
+  "source_sha256": "668c7a551f240c6b325a909d5e9a3a0b2edff78d29009d73c83a9f11bd08b350",
+  "extracted_at": "2026-09-14",
+  "extractor": {
+    "agent": "claude-code",
+    "prompt": "prompts/synthesis-pipeline/extraction-prompt.md"
+  },
+  "coverage": "partial",
+  "coverage_note": "§ 33 (objective and stream temporality), § 40 (the problematic of temporality) and Beilage XXIII. The remaining 19 sections with term hits, including Beilagen XII and XIX, are not extracted.",
+  "units": [
+    {
+      "id": "zeitlichkeit/hua9/001",
+      "locator": "husserliana-9-phenomenological-psychology-commentary#h3-s-33-objective-temporality-and-stream-temporality",
+      "primary_locator": "§ 33",
+      "stratum": "hua9-1925",
+      "term": "double temporality",
+      "status": "introduced",
+      "claim": "Within the unity of perception two perception-spheres are distinguished, that of objective temporality and that of the merely subjective appearances with their own temporality.",
+      "quote": "On the one side, the *sphere of the being object* (or of the perceived spatial field) — the sphere of *objective temporality*. On the other side, the sphere of the *merely subjective appearances* with their temporality — *to be sharply distinguished* from the objective temporality."
+    },
+    {
+      "id": "zeitlichkeit/hua9/002",
+      "locator": "husserliana-9-phenomenological-psychology-commentary#h3-s-33-objective-temporality-and-stream-temporality",
+      "primary_locator": "§ 33",
+      "stratum": "hua9-1925",
+      "term": "subjective time",
+      "status": "introduced",
+      "claim": "Infinite objective time is the form of the objective world and subjective time the form of all subjective being in the manner of streaming, and how the objective form of duration constitutes itself in the latter is set as a special problem.",
+      "quote": "We have the *infinite objective time* as the *form of the objective world* — under which objective space itself stands — and the *subjective time* as the form of *all subjective being in the manner of streaming*, *streaming as lived-experience*."
+    },
+    {
+      "id": "zeitlichkeit/hua9/003",
+      "locator": "husserliana-9-phenomenological-psychology-commentary#h3-s-33-objective-temporality-and-stream-temporality",
+      "primary_locator": "§ 33",
+      "stratum": "hua9-1925",
+      "term": "immanence and transcendence",
+      "status": "presupposed",
+      "claim": "The distinction of the two time-forms is used to fix inner perception as perception of the immanent and outer perception as perception of the transcendent.",
+      "quote": "Now we can also say: inner perception is *perception of the immanent*; outer perception is *perception of the transcendent*."
+    },
+    {
+      "id": "zeitlichkeit/hua9/004",
+      "locator": "husserliana-9-phenomenological-psychology-commentary#h3-s-40-the-problematic-of-temporality-presentation-retention-and-protention-the-po",
+      "primary_locator": "§ 40",
+      "stratum": "hua9-1925",
+      "term": "originary time-consciousness",
+      "status": "introduced",
+      "claim": "The streaming of perception is a process whose form is an immanent time-stretch, and it is here that the difficult problems of originary time-consciousness are met.",
+      "quote": "The streaming is a *process* that has an *immanent time-stretch* as form, a stretch we can think as built up from *part-stretches* and *time-phases*, in a sense *time-points* (though we should not think of mathematical ideal points). Here we encounter the difficult problems of *originary time-consciousness*."
+    },
+    {
+      "id": "zeitlichkeit/hua9/005",
+      "locator": "husserliana-9-phenomenological-psychology-commentary#h3-s-40-the-problematic-of-temporality-presentation-retention-and-protention-the-po",
+      "primary_locator": "§ 40",
+      "stratum": "hua9-1925",
+      "term": "retention",
+      "status": "introduced",
+      "claim": "With every newly emerging tone-phase the phase just given as now is given retentionally, and each past is altered into a more-past in a process that never stands still.",
+      "quote": "Each *past* is altered into a *more-past*, this again into a still-more-past, and so on. The intentional clarification of this process — the clarification of the manner in which *a time-stretch, a streaming process is conscious, can only be conscious* — is one of the most important themes in the doctrine of pure subjectivity."
+    },
+    {
+      "id": "zeitlichkeit/hua9/006",
+      "locator": "husserliana-9-phenomenological-psychology-commentary#h3-s-40-the-problematic-of-temporality-presentation-retention-and-protention-the-po",
+      "primary_locator": "§ 40",
+      "stratum": "hua9-1925",
+      "term": "Urimpression",
+      "status": "presupposed",
+      "claim": "Concrete perception is built up as a streaming system of momentary perceptions, each the core-phase of a continuity of self-grading retentions and a horizon of protention.",
+      "quote": "But every such momentary perception is *core-phase of a continuity*: a continuity of *self-grading momentary retentions* on the one side, and a *horizon of the coming* on the other — a horizon of *protention* — which in unveiling characterizes itself as *continuously coming-graded*."
+    },
+    {
+      "id": "zeitlichkeit/hua9/007",
+      "locator": "husserliana-9-phenomenological-psychology-commentary#h3-s-40-the-problematic-of-temporality-presentation-retention-and-protention-the-po",
+      "primary_locator": "§ 40",
+      "stratum": "hua9-1925",
+      "term": "Vergegenwärtigung",
+      "status": "presupposed",
+      "claim": "Recollection is re-presentation and perception by contrast presentation, and indeed originary presentation, in that it makes a present conscious as originarily running.",
+      "quote": "Recollection is *re-presentation* (Vergegenwärtigung). Perception, by contrast, is *presentation* (Gegenwärtigung), and indeed *originary* presentation — insofar as it makes a *present* conscious as originarily running."
+    },
+    {
+      "id": "zeitlichkeit/hua9/008",
+      "locator": "husserliana-9-phenomenological-psychology-commentary#h3-s-40-the-problematic-of-temporality-presentation-retention-and-protention-the-po",
+      "primary_locator": "§ 40",
+      "stratum": "hua9-1925",
+      "term": "unity of filled time",
+      "status": "introduced",
+      "claim": "Recollection-syntheses together with protentions constitute the unity of filled time, and only through recollection and pre-expectation is a world there as a permanent knowledge-possession.",
+      "quote": "Through *recollection-syntheses* there is constituted a *past* to be pursued in various directions, which — thanks to the at-any-time-producible synthesis with perception and through future-directed protentions — constitutes the *unity of filled time*."
+    },
+    {
+      "id": "zeitlichkeit/hua9/009",
+      "locator": "husserliana-9-phenomenological-psychology-commentary#h4-beilage-xxiii-to-s40-i-and-time",
+      "primary_locator": "Beilage XXIII (to § 40)",
+      "stratum": "hua9-1925",
+      "term": "I and time",
+      "status": "introduced",
+      "claim": "The I is said to be temporal - to have a history, endure and change while remaining identical - its enduring identity given by the structure of time-consciousness.",
+      "quote": "The I, as the bearer of self-founded convictions and habitualities, is *temporal*: it has a *history*, it *endures*, it *changes* while *remaining identical*. The structure of this enduring identity is given by the structure of time-consciousness"
+    }
+  ],
+  "absences": []
+}

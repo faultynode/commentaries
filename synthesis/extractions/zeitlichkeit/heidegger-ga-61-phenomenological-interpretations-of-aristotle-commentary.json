@@ -1,0 +1,63 @@
+{
+  "schema_version": 1,
+  "theme": "zeitlichkeit",
+  "commentary": "heidegger-ga-61-phenomenological-interpretations-of-aristotle-commentary",
+  "source_sha256": "26f53a21e0f990da34472f5ac8a3878c99a06271372ea5caa65f0fab85371fc7",
+  "extracted_at": "2026-09-14",
+  "extractor": {
+    "agent": "claude-code",
+    "prompt": "prompts/synthesis-pipeline/extraction-prompt.md",
+    "note": "The term hits in this file are almost entirely Zeitigung/temporalizing, not Zeitlichkeit. The record says so rather than reading the later doctrine back into the course."
+  },
+  "coverage": "partial",
+  "coverage_note": "The sections where temporalizing is a term of art: Chapter 2 B (Comportment), the ruinance chapter B b, and Appendix I. The 20 other sections with term hits, most of them incidental uses of 'temporal' or 'moment', are not extracted.",
+  "units": [
+    {
+      "id": "zeitlichkeit/ga61/001",
+      "locator": "heidegger-ga-61-phenomenological-interpretations-of-aristotle-commentary#h4-b-comportment",
+      "term": "Zeitigungssinn",
+      "status": "introduced",
+      "claim": "Comportment is determined in several respects, among them the temporalizing sense: the way the enactment becomes and is in and for its situation.",
+      "quote": "as the way the enactment becomes and is in and for its situation — temporalizing sense (*Zeitigungssinn*)"
+    },
+    {
+      "id": "zeitlichkeit/ga61/002",
+      "locator": "heidegger-ga-61-phenomenological-interpretations-of-aristotle-commentary#h4-b-comportment",
+      "term": "temporalizing",
+      "status": "presupposed",
+      "claim": "Of the two senses of comportment, the enactment sense together with the relational sense is called temporalizing, existence, while the relation detached from enactment becomes objectified intentionality.",
+      "quote": "The first equals enactment (*Vollzug*) in the broader sense, and \"together\" with the second, temporalizing, existence. The second is relation (*Bezug*), and detached from the first, it becomes objectified intentionality."
+    },
+    {
+      "id": "zeitlichkeit/ga61/003",
+      "locator": "heidegger-ga-61-phenomenological-interpretations-of-aristotle-commentary#h5-b-the-whither-of-ruinance-the-nothing",
+      "term": "co-temporalizes",
+      "status": "introduced",
+      "claim": "The nothing toward which factical life falls is said to co-temporalize the fall, the fall being formed from a whither that temporalizes itself in concern.",
+      "quote": "This nothing is a possibility that precisely does not give standing, accommodation, does not catch the fall and end it, but is something that factically co-temporalizes the fall. The fall is in a peculiar way formed from its whither, which for its part temporalizes itself in concern."
+    },
+    {
+      "id": "zeitlichkeit/ga61/004",
+      "locator": "heidegger-ga-61-phenomenological-interpretations-of-aristotle-commentary#h5-b-the-whither-of-ruinance-the-nothing",
+      "term": "the still",
+      "status": "introduced",
+      "claim": "The still of the still-being-there of environmental life is called a characteristic determination of the temporality at work in ruinance.",
+      "quote": "It is factically \"still\" there so; the \"still\" is again a characteristic determination of the temporality at work here."
+    },
+    {
+      "id": "zeitlichkeit/ga61/005",
+      "locator": "heidegger-ga-61-phenomenological-interpretations-of-aristotle-commentary#h2-appendix-i-presupposition",
+      "term": "temporalizing-succession",
+      "status": "introduced",
+      "claim": "The before of presupposition is distinguished as logical and as temporal, the latter belonging to an enactment- and temporalizing-succession of factical life rather than a theoretical grounding-connection.",
+      "quote": "(2) the \"before\" as temporally in the sense of \"previously,\" \"first,\" at the same time as in advance — in the series of positings connected in a non-logical succession, an enactment- and temporalizing-succession of factical life"
+    }
+  ],
+  "absences": [
+    {
+      "locator": "heidegger-ga-61-phenomenological-interpretations-of-aristotle-commentary#h5-b-the-whither-of-ruinance-the-nothing",
+      "expected_because": "The section interprets factical life as movedness and fall, the analysis Sein und Zeit will ground in ecstatic temporality; the vocabulary of temporality proper is nonetheless absent, and the section works with Zeitigung, direction and the still instead.",
+      "absent_terms": ["Zeitlichkeit", "Temporalität", "Zeitbewußtsein", "ekstas", "Augenblick", "moment of vision", "retention", "protention", "primal impression", "time-consciousness"]
+    }
+  ]
+}

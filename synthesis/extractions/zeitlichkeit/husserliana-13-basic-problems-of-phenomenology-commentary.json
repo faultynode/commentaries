@@ -1,0 +1,106 @@
+{
+  "schema_version": 1,
+  "theme": "zeitlichkeit",
+  "commentary": "husserliana-13-basic-problems-of-phenomenology-commentary",
+  "source_sha256": "e644f4bf71525db6c087db314384648602700f12e1fa0cb69cb7541ebf74685e",
+  "extracted_at": "2026-09-14",
+  "extractor": {
+    "agent": "claude-code",
+    "prompt": "prompts/synthesis-pipeline/extraction-prompt.md"
+  },
+  "coverage": "partial",
+  "coverage_note": "Fourth Chapter §§ 24-25 (retention as a transcendence within the phenomenological attitude) and Sixth Chapter § 37 (the temporal principle of the unity of the stream). The 20 other sections with term hits, among them §§ 2 and 8 on the spatio-temporal environment, are not extracted.",
+  "units": [
+    {
+      "id": "zeitlichkeit/hua13/001",
+      "locator": "husserliana-13-basic-problems-of-phenomenology-commentary#h3-s-24-the-absolute-givenness-of-the-phenomenologically-perceived-the-senselessnes",
+      "primary_locator": "§ 24",
+      "stratum": "hua13-1910",
+      "term": "now",
+      "status": "criticized",
+      "claim": "The demand for nothing but the instantaneous now is said to annihilate its own object, since the now cannot be caught and registered without already being past.",
+      "quote": "Carried to the limit, the demand for nothing-but-the-instantaneous-now annihilates its own object, since the very now cannot be caught and registered without already being past."
+    },
+    {
+      "id": "zeitlichkeit/hua13/002",
+      "locator": "husserliana-13-basic-problems-of-phenomenology-commentary#h3-s-24-the-absolute-givenness-of-the-phenomenologically-perceived-the-senselessnes",
+      "primary_locator": "§ 24",
+      "stratum": "hua13-1910",
+      "term": "duration",
+      "status": "introduced",
+      "claim": "The reduced perception taken as the enduring lived-experience it is counts as absolutely given, and shrinking it to a durationless instant is called a destruction rather than a heightening of evidence.",
+      "quote": "The reduced perception, taken purely as the enduring lived-experience it is, is the bedrock of indubitable givenness — and the attempt to shrink it to a durationless instant is not a heightening but a *destruction* of evidence."
+    },
+    {
+      "id": "zeitlichkeit/hua13/003",
+      "locator": "husserliana-13-basic-problems-of-phenomenology-commentary#h3-s-24-the-absolute-givenness-of-the-phenomenologically-perceived-the-senselessnes",
+      "primary_locator": "§ 24",
+      "stratum": "hua13-1910",
+      "term": "retention, protention",
+      "status": "presupposed",
+      "claim": "A footnote is reported to set out the presupposed temporal structure: a flowing point of originary self-presence with a retentional horizon of the just-past and a protentional future-horizon.",
+      "quote": "the perception has a *flowing point of originary self-presence* and, beyond it, a *horizon of \"retentional\" givenness* as just-past, and on the other side an *immediate future-horizon of protentional givenness*"
+    },
+    {
+      "id": "zeitlichkeit/hua13/004",
+      "locator": "husserliana-13-basic-problems-of-phenomenology-commentary#h3-s-25-the-retention-implied-in-phenomenological-perception-as-a-transcendence-wit",
+      "primary_locator": "§ 25",
+      "stratum": "hua13-1910",
+      "term": "now",
+      "status": "revised",
+      "claim": "The now is called the eternally fleeing boundary-point between past and future, which could not even be asserted to be such if retention were switched off.",
+      "quote": "The now is the *eternally fleeing boundary-point* between past and future — and even *that* it is this could not be asserted if we wanted to switch off *retention*."
+    },
+    {
+      "id": "zeitlichkeit/hua13/005",
+      "locator": "husserliana-13-basic-problems-of-phenomenology-commentary#h3-s-25-the-retention-implied-in-phenomenological-perception-as-a-transcendence-wit",
+      "primary_locator": "§ 25",
+      "stratum": "hua13-1910",
+      "term": "transcendence",
+      "status": "introduced",
+      "claim": "A transcendence within the phenomenological attitude is admitted: not only retention but what it is retention of, every now of retention being retention of a just-having-been that is given.",
+      "quote": "*Therewith we have admitted a \"transcendence\" within the phenomenological attitude*: insofar as we admit not only the retention *itself* as phenomenological being, but *also that of which it is retention*."
+    },
+    {
+      "id": "zeitlichkeit/hua13/006",
+      "locator": "husserliana-13-basic-problems-of-phenomenology-commentary#h3-s-25-the-retention-implied-in-phenomenological-perception-as-a-transcendence-wit",
+      "primary_locator": "§ 25",
+      "stratum": "hua13-1910",
+      "term": "retentional evidence",
+      "status": "presupposed",
+      "claim": "Mistrusting retentional givenness is said to mean absolute skepticism, since that evidence is presupposed in empirical perception too.",
+      "quote": "to *mistrust* such givenness would mean throwing ourselves into the arms of *absolute skepticism*; for such *retentional evidence* is presupposed *also in empirical perception*"
+    },
+    {
+      "id": "zeitlichkeit/hua13/007",
+      "locator": "husserliana-13-basic-problems-of-phenomenology-commentary#h3-s-37-the-principle-of-the-construction-of-a-unified-stream-of-consciousness",
+      "primary_locator": "§ 37",
+      "stratum": "hua13-1910",
+      "term": "zeitlicher Hof",
+      "status": "introduced",
+      "claim": "Every cogitatio is said to be surrounded by a temporal halo that must always be there and, where indeterminate, is determinable rather than freely variable.",
+      "quote": "But it is *absolutely certain* that such a *temporal halo* (*zeitlicher Hof*) is *always there and must be there*, and that, where it is indeterminate, it is *not arbitrarily and freely variable but determinable*."
+    },
+    {
+      "id": "zeitlichkeit/hua13/008",
+      "locator": "husserliana-13-basic-problems-of-phenomenology-commentary#h3-s-37-the-principle-of-the-construction-of-a-unified-stream-of-consciousness",
+      "primary_locator": "§ 37",
+      "stratum": "hua13-1910",
+      "term": "time-unity",
+      "status": "introduced",
+      "claim": "Two experiences joining into one synthetic consciousness join into one experience, to which belongs a time-unity of the experienced, and this is named the single principle constructing the unity of the stream.",
+      "quote": "Two experiences that join *at all* into the unity of a synthetic consciousness spanning them join therein into the unity of *one experience*; and to the unity of one experience there belongs, again, a *time-unity of the experienced*."
+    },
+    {
+      "id": "zeitlichkeit/hua13/009",
+      "locator": "husserliana-13-basic-problems-of-phenomenology-commentary#h3-s-37-the-principle-of-the-construction-of-a-unified-stream-of-consciousness",
+      "primary_locator": "§ 37",
+      "stratum": "hua13-1910",
+      "term": "unity of the ego",
+      "status": "revised",
+      "claim": "The unity of the ego is said to be nothing but the lawful synthesizability of its cogitationes into one time, not a substantial pole behind them.",
+      "quote": "The unity of the ego, phenomenologically construed, is thus *nothing but* the lawful synthesizability of its *cogitationes* into one time — not a substantial pole behind them, but the form of their possible temporal interconnection."
+    }
+  ],
+  "absences": []
+}

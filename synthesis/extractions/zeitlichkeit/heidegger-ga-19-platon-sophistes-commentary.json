@@ -1,0 +1,97 @@
+{
+  "schema_version": 1,
+  "theme": "zeitlichkeit",
+  "commentary": "heidegger-ga-19-platon-sophistes-commentary",
+  "source_sha256": "28b074d10428ca6c33ab4bc6507cd441ca0426552c4f82a72fd85d29117cfb75",
+  "extracted_at": "2026-09-14",
+  "extractor": {
+    "agent": "claude-code",
+    "prompt": "prompts/synthesis-pipeline/extraction-prompt.md",
+    "note": "A sorge record already exists for this commentary. Under this theme the course's terms are Greek - aidion, aei, aion, kairos read as Augenblick - not Zeitlichkeit."
+  },
+  "coverage": "partial",
+  "coverage_note": "§ 6 a (the always-being as the object of episteme), § 11 b (the temporal character of the as-soon-as/then nexus) and § 23 c (the moment of vision against the aei). The eight other sections with term hits are not extracted.",
+  "units": [
+    {
+      "id": "zeitlichkeit/ga19/001",
+      "locator": "heidegger-ga-19-platon-sophistes-commentary#h5-a-the-object-of-episteme-the-always-being-aidion-episteme-as-a-exis-of-aletheyei",
+      "primary_locator": "GA 19 § 6 a",
+      "stratum": "ga19-1924",
+      "term": "ἀίδιον",
+      "status": "introduced",
+      "claim": "The object of knowing is determined in its being by a moment of time: the always-enduring characterizes it, and being means for the Greeks being-present, being-in-the-now.",
+      "quote": "Now the striking result: this being is determined *in its being* by a moment of *time*. The always-enduring characterizes it."
+    },
+    {
+      "id": "zeitlichkeit/ga19/002",
+      "locator": "heidegger-ga-19-platon-sophistes-commentary#h5-a-the-object-of-episteme-the-always-being-aidion-episteme-as-a-exis-of-aletheyei",
+      "primary_locator": "GA 19 § 6 a",
+      "stratum": "ga19-1924",
+      "term": "αἰών",
+      "status": "introduced",
+      "claim": "Aion is glossed as lifetime understood as full being-present, the allotted span of presence a living thing disposes over, and in a wider sense the duration of the world.",
+      "quote": "αἰών means lifetime understood as full being-present — τὸν ἅπαντα αἰῶνα (*De Caelo* A, 9; 279b22); every living thing has its αἰών, its allotted span of being-present, the measure of presence it disposes over"
+    },
+    {
+      "id": "zeitlichkeit/ga19/003",
+      "locator": "heidegger-ga-19-platon-sophistes-commentary#h5-a-the-object-of-episteme-the-always-being-aidion-episteme-as-a-exis-of-aletheyei",
+      "primary_locator": "GA 19 § 6 a",
+      "stratum": "ga19-1924",
+      "term": "ἐν χρόνῳ",
+      "status": "revised",
+      "claim": "What is not in time is for Aristotle still temporal, determined out of time, the always-being being not in time because its infinite nows are not measurable.",
+      "quote": "It is therefore *not* \"supra-temporal\" in our sense: what is not \"in time\" is, for Aristotle, still *temporal*, i.e. determined *out of* time — the ἀίδιον not-in-time being determined precisely by the ἄπειρον of its nows."
+    },
+    {
+      "id": "zeitlichkeit/ga19/004",
+      "locator": "heidegger-ga-19-platon-sophistes-commentary#h5-a-the-object-of-episteme-the-always-being-aidion-episteme-as-a-exis-of-aletheyei",
+      "primary_locator": "GA 19 § 6 a",
+      "stratum": "ga19-1924",
+      "term": "time",
+      "status": "introduced",
+      "claim": "The point said to govern the whole course is that beings are interpreted in their being out of time, the object of episteme being the always-being.",
+      "quote": "The point to hold fast, and it governs the entire course: beings are interpreted *in their being out of time*."
+    },
+    {
+      "id": "zeitlichkeit/ga19/005",
+      "locator": "heidegger-ga-19-platon-sophistes-commentary#h5-b-empeiria-the-referential-nexus-as-soon-as-then-its-temporal-character",
+      "primary_locator": "GA 19 § 11 b",
+      "stratum": "ga19-1924",
+      "term": "as-soon-as, then",
+      "status": "introduced",
+      "claim": "The nexus of experience is called a purely temporal one, a peculiar nexus of the temporal being of Dasein in which making-present expresses itself as an as-soon-as.",
+      "quote": "This nexus is manifestly a *temporal* one, and at first a *purely* temporal one: as-soon-as… then… — a peculiar nexus of the *temporal being* of Dasein. Dasein's *making-present*, which expresses itself in the \"now,\" appears here as an \"as-soon-as\""
+    },
+    {
+      "id": "zeitlichkeit/ga19/006",
+      "locator": "heidegger-ga-19-platon-sophistes-commentary#h5-b-empeiria-the-referential-nexus-as-soon-as-then-its-temporal-character",
+      "primary_locator": "GA 19 § 11 b",
+      "stratum": "ga19-1924",
+      "term": "Zusammenhang des Gegenwärtigens",
+      "status": "introduced",
+      "claim": "The temporal structure of experience is named the nexus of making-present: as soon as this is present, then that must be made present too.",
+      "quote": "Heidegger names this temporal structure the *nexus of making-present* (*Zusammenhang des Gegenwärtigens*): as soon as this is present, then that must be procured, made present too."
+    },
+    {
+      "id": "zeitlichkeit/ga19/007",
+      "locator": "heidegger-ga-19-platon-sophistes-commentary#h5-c-phronesis-and-sophia-as-mutually-opposed-highest-modes-of-aletheyein-noys-aei",
+      "primary_locator": "GA 19 § 23 c",
+      "stratum": "ga19-1924",
+      "term": "Augenblick",
+      "status": "introduced",
+      "claim": "Phronesis is the catching-sight of the this-time of the momentary situation, the moment of vision, against the regarding of what is always present in selfsameness.",
+      "quote": "As αἴσθησις it is the *glance of the eye* — the *Augenblick*, the moment-of-vision — upon the respective concrete, which as such *can always be otherwise*. Whereas the νοεῖν in σοφία is the regarding of what is *ἀεί*, what is always present *in selfsameness*."
+    },
+    {
+      "id": "zeitlichkeit/ga19/008",
+      "locator": "heidegger-ga-19-platon-sophistes-commentary#h5-c-phronesis-and-sophia-as-mutually-opposed-highest-modes-of-aletheyein-noys-aei",
+      "primary_locator": "GA 19 § 23 c",
+      "stratum": "ga19-1924",
+      "term": "discrimen",
+      "status": "introduced",
+      "claim": "Time - the moment of vision and the always-being - is said to function as the discrimen between the perceiving in phronesis and in sophia.",
+      "quote": "**Time — the moment-of-vision and the always-being — functions here as the *discrimen* of the νοεῖν in φρόνησις and σοφία.**"
+    }
+  ],
+  "absences": []
+}

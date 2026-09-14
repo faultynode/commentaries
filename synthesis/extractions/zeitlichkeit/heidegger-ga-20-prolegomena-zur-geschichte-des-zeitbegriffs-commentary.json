@@ -1,0 +1,87 @@
+{
+  "schema_version": 1,
+  "theme": "zeitlichkeit",
+  "commentary": "heidegger-ga-20-prolegomena-zur-geschichte-des-zeitbegriffs-commentary",
+  "source_sha256": "30416fcea761ee439a1e714cce8c61ed361ef1ef9e776b844fe15ad7cf060e0c",
+  "extracted_at": "2026-09-14",
+  "extractor": {
+    "agent": "claude-code",
+    "prompt": "prompts/synthesis-pipeline/extraction-prompt.md",
+    "note": "A sorge record already covers Chapter Four of this commentary; this pass reads the course's opening and closing sections on time."
+  },
+  "coverage": "partial",
+  "coverage_note": "§ 2 (the concept of time as guiding thread) and § 36 (time as the being in which Dasein can be its wholeness), the section on which the course breaks off. §§ 14 and 20 and the five other sections with term hits are not extracted.",
+  "units": [
+    {
+      "id": "zeitlichkeit/ga20/001",
+      "locator": "heidegger-ga-20-prolegomena-zur-geschichte-des-zeitbegriffs-commentary#h3-s-2-prolegomena-to-a-phenomenology-of-history-and-nature-guided-by-the-history-o",
+      "primary_locator": "GA 20 § 2",
+      "stratum": "ga20-1925",
+      "term": "concept of time",
+      "status": "introduced",
+      "claim": "Time is said to serve as an index for the division and demarcation of the domains of being, the concept of time standing in connection with the question of the being of beings.",
+      "quote": "So — schematically — time is an *index* for the division and demarcation of the domains of being as such."
+    },
+    {
+      "id": "zeitlichkeit/ga20/002",
+      "locator": "heidegger-ga-20-prolegomena-zur-geschichte-des-zeitbegriffs-commentary#h3-s-2-prolegomena-to-a-phenomenology-of-history-and-nature-guided-by-the-history-o",
+      "primary_locator": "GA 20 § 2",
+      "stratum": "ga20-1925",
+      "term": "history of the concept of time",
+      "status": "introduced",
+      "claim": "The history of the concept of time is identified with the history of the question of the being of beings, and read to its end as a history of decline.",
+      "quote": "Read to its end, this history is the history of a *decline*, a mutilation of the ground-question of research into the being of beings: a history of the incapacity to pose the question of being radically anew — an incapacity grounded in the being of Dasein itself."
+    },
+    {
+      "id": "zeitlichkeit/ga20/003",
+      "locator": "heidegger-ga-20-prolegomena-zur-geschichte-des-zeitbegriffs-commentary#h3-s-2-prolegomena-to-a-phenomenology-of-history-and-nature-guided-by-the-history-o",
+      "primary_locator": "GA 20 § 2",
+      "stratum": "ga20-1925",
+      "term": "phenomenon of time",
+      "status": "presupposed",
+      "claim": "The understanding of time is denied to be winnable from the history of the concept: only a prior worked-out understanding of the phenomenon lets earlier concepts of time be understood.",
+      "quote": "One will never win the understanding of time itself out of the history of the concept of time; on the contrary, only a prior worked-out understanding of the phenomenon of time lets the earlier concepts of time be understood at all."
+    },
+    {
+      "id": "zeitlichkeit/ga20/004",
+      "locator": "heidegger-ga-20-prolegomena-zur-geschichte-des-zeitbegriffs-commentary#h4-s-36-time-as-the-being-in-which-dasein-can-be-its-wholeness",
+      "primary_locator": "GA 20 § 36",
+      "stratum": "ga20-1925",
+      "term": "future",
+      "status": "introduced",
+      "claim": "Running-ahead into the ownmost being-possibility is called the being of my ownmost becoming-of-being, the future, with being-guilty as the being of the ownmost having-been-ness.",
+      "quote": "Running-ahead into the ownmost being-possibility is nothing other than the *being of my ownmost becoming-of-being* — the *future*. The being-guilty co-posited in it is the being of the *ownmost having-been-ness* (Gewesensein)"
+    },
+    {
+      "id": "zeitlichkeit/ga20/005",
+      "locator": "heidegger-ga-20-prolegomena-zur-geschichte-des-zeitbegriffs-commentary#h4-s-36-time-as-the-being-in-which-dasein-can-be-its-wholeness",
+      "primary_locator": "GA 20 § 36",
+      "stratum": "ga20-1925",
+      "term": "time",
+      "status": "introduced",
+      "claim": "Time is named as the being in which Dasein can authentically be its wholeness, with the correction that time is not, but that Dasein temporalizes its being as time.",
+      "quote": "**The being in which Dasein can authentically be its wholeness, as being-ahead-of-itself, is *time*.** Not: *time is*; rather, *Dasein temporalizes qua time its being*."
+    },
+    {
+      "id": "zeitlichkeit/ga20/006",
+      "locator": "heidegger-ga-20-prolegomena-zur-geschichte-des-zeitbegriffs-commentary#h4-s-36-time-as-the-being-in-which-dasein-can-be-its-wholeness",
+      "primary_locator": "GA 20 § 36",
+      "stratum": "ga20-1925",
+      "term": "time",
+      "status": "revised",
+      "claim": "Time is denied to be an outer frame for world-events or an inner reeling-off in consciousness, and is made what makes possible the being of care.",
+      "quote": "Time is nothing that occurs somewhere *outside* as a frame for world-events, and just as little something that reels off somewhere *inside* in consciousness; it is *what makes possible the being-ahead-of-itself-in-already-being-alongside — the being of care*."
+    },
+    {
+      "id": "zeitlichkeit/ga20/007",
+      "locator": "heidegger-ga-20-prolegomena-zur-geschichte-des-zeitbegriffs-commentary#h4-s-36-time-as-the-being-in-which-dasein-can-be-its-wholeness",
+      "primary_locator": "GA 20 § 36",
+      "stratum": "ga20-1925",
+      "term": "everyday time",
+      "status": "introduced",
+      "claim": "The time everydayly known and reckoned with is identified with das Man, and the movements of nature are called time-free, encountering only into the time that we ourselves are.",
+      "quote": "The movements of nature, which we determine spatio-temporally, do *not* run off \"*in* time\" as \"in\" a hinge; as such they are wholly *time-free*; they encounter only \"*into*\" time, insofar as their being is uncovered as pure nature. *They encounter into the time that we ourselves are.*"
+    }
+  ],
+  "absences": []
+}

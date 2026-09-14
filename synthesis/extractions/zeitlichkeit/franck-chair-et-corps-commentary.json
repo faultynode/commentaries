@@ -1,0 +1,80 @@
+{
+  "schema_version": 1,
+  "theme": "zeitlichkeit",
+  "commentary": "franck-chair-et-corps-commentary",
+  "source_sha256": "0757213bac9658321459643d6202563f502dbbf2f877f1e30d07dd34c897d9d5",
+  "extracted_at": "2026-09-14",
+  "extractor": {
+    "agent": "claude-code",
+    "prompt": "prompts/synthesis-pipeline/extraction-prompt.md"
+  },
+  "coverage": "partial",
+  "coverage_note": "Chapter Six (phenomenological idealism, where original temporality is tied to passive constitution) and Chapter Ten (the alteration of ownness, where the living present bounds the sphere of ownness). Chapters One, Two, Three and Five, which also carry term hits, are not extracted.",
+  "units": [
+    {
+      "id": "zeitlichkeit/franck-chair/001",
+      "locator": "franck-chair-et-corps-commentary#h2-chapter-six-phenomenological-idealism",
+      "term": "immanent temporality",
+      "status": "presupposed",
+      "claim": "Experiences are said to be ordered by an essential genetic lawfulness in immanent temporality, everything occurring in any ego having its temporality and participating in an all-inclusive system of forms.",
+      "quote": "whatever occurs in my ego, and eidetically in any ego whatsoever — in the form of intentional processes, constituted unities, Ego habitualities — has its temporality, and in this respect participates in the system of forms belonging to the all-inclusive temporality with which every imaginable ego, every possibility-variant of my ego, constitutes itself as itself"
+    },
+    {
+      "id": "zeitlichkeit/franck-chair/002",
+      "locator": "franck-chair-et-corps-commentary#h2-chapter-six-phenomenological-idealism",
+      "term": "original temporality",
+      "status": "introduced",
+      "claim": "The temporal form of acts cannot be actively constituted, being the condition of possibility of every act, so original temporality points back to an absolutely passive constitution connected with hyle.",
+      "quote": "This temporal form is itself constituted (the lectures on time-consciousness analyze this constitution from an essentially noematic point of view), but it cannot be *actively* constituted, since it is the very condition of possibility and presupposition of every act. Original temporality therefore points back to an *absolutely passive* constitution."
+    },
+    {
+      "id": "zeitlichkeit/franck-chair/003",
+      "locator": "franck-chair-et-corps-commentary#h2-chapter-six-phenomenological-idealism",
+      "term": "passivity",
+      "status": "revised",
+      "claim": "Two passivities are distinguished: the merely preconstitutive passivity of the originally constitutive temporal flux, and an objectivating passivity erected on it that belongs to the act as act.",
+      "quote": "there is not only a passivity *prior to* the activity — as the passivity of the originally constitutive temporal flux, which is only preconstitutive — but also a passivity *erected on* this, a passivity which is truly objectivating"
+    },
+    {
+      "id": "zeitlichkeit/franck-chair/004",
+      "locator": "franck-chair-et-corps-commentary#h2-chapter-six-phenomenological-idealism",
+      "term": "temporality",
+      "status": "presupposed",
+      "claim": "Temporality is called the universal persisting form into which all levels of the ego's performances fit, itself built up in a continual, passive and completely universal genesis.",
+      "quote": "as an infinite nexus of synthetically congruous performances — at levels, all of which fit the universal persisting form, temporality, because the latter itself is built up in a continual, passive and completely universal genesis, which, as a matter of essential necessity, embraces everything new."
+    },
+    {
+      "id": "zeitlichkeit/franck-chair/005",
+      "locator": "franck-chair-et-corps-commentary#h2-chapter-six-phenomenological-idealism",
+      "term": "pure temporality",
+      "status": "criticized",
+      "claim": "If the strangeness at work in association derives from the alter ego, this is said perhaps to imply a definition of pure temporality as the relation to the other.",
+      "quote": "More profoundly still, this perhaps implies a definition of pure temporality as the *relation to the other*. For if the other ego is what is originally foreign to me, then the other ego is what originally affects me."
+    },
+    {
+      "id": "zeitlichkeit/franck-chair/006",
+      "locator": "franck-chair-et-corps-commentary#h2-chapter-ten-the-alteration-of-ownness",
+      "term": "living present",
+      "status": "criticized",
+      "claim": "Defining ownness by apodictic self-perception is said to define it temporally, since such perception can occur only in the incarnate living present, which raises the question whether past and future fall outside ownness.",
+      "quote": "does this not amount to defining ownness *temporally*, since an apodictic perception of oneself can occur only in the *incarnate living present*?"
+    },
+    {
+      "id": "zeitlichkeit/franck-chair/007",
+      "locator": "franck-chair-et-corps-commentary#h2-chapter-ten-the-alteration-of-ownness",
+      "term": "retentional modification",
+      "status": "presupposed",
+      "claim": "Phenomenological perception is called temporal, only the present now being given absolutely and subject to a law of retentional modification, so that the past transcends the present now.",
+      "quote": "Phenomenological perception is temporal, and only the present *now* is given absolutely; this now is subject to a law of retentional modification. The past *transcends* the present now."
+    },
+    {
+      "id": "zeitlichkeit/franck-chair/008",
+      "locator": "franck-chair-et-corps-commentary#h2-chapter-ten-the-alteration-of-ownness",
+      "term": "transcendence in immanence",
+      "status": "introduced",
+      "claim": "What is received phenomenologically includes not only retention but what is retained, each now of a retention being a retention of a not-now, and this transcendence in immanence is called irreducible.",
+      "quote": "for what is received phenomenologically is not only the *retention* as such but also *that which is retained*: each now of a retention is a retention of a *not-now*. This \"transcendence in immanence\" is irreducible; any attempt to reduce it presupposes it."
+    }
+  ],
+  "absences": []
+}

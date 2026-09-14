@@ -1,0 +1,80 @@
+{
+  "schema_version": 1,
+  "theme": "zeitlichkeit",
+  "commentary": "heidegger-ga-24-die-grundprobleme-der-phanomenologie-commentary",
+  "source_sha256": "224be004aedc25744d4193201465722e6efe4c8c99c0b1c2a05764b01b51efad",
+  "extracted_at": "2026-09-14",
+  "extractor": {
+    "agent": "claude-code",
+    "prompt": "prompts/synthesis-pipeline/extraction-prompt.md",
+    "note": "An intentionalitaet record already exists for this commentary. The commentary covers the course's Introduction; the Temporalität chapters the Introduction announces are not in the file."
+  },
+  "coverage": "partial",
+  "coverage_note": "Introduction §§ 4-5, which carry 20 of the file's 24 term hits. §§ 1 and 3 and the one further section with a hit are not extracted.",
+  "units": [
+    {
+      "id": "zeitlichkeit/ga24/001",
+      "locator": "heidegger-ga-24-die-grundprobleme-der-phanomenologie-commentary#h2-s-4-the-four-theses-about-being-and-the-basic-problems-of-phenomenology",
+      "primary_locator": "GA 24 § 4",
+      "term": "Zeitlichkeit",
+      "status": "introduced",
+      "claim": "The ontological analytic of Dasein discloses temporality as the originary constitution of its being, and the traditional philosophical concept of time is called only an offshoot of it.",
+      "quote": "As the originary constitution of the being of Dasein, the ontological analytic of Dasein discloses *Zeitlichkeit* — temporality. The interpretation of temporality leads to a more radical understanding and conceiving of time than was possible in previous philosophy."
+    },
+    {
+      "id": "zeitlichkeit/ga24/002",
+      "locator": "heidegger-ga-24-die-grundprobleme-der-phanomenologie-commentary#h2-s-4-the-four-theses-about-being-and-the-basic-problems-of-phenomenology",
+      "primary_locator": "GA 24 § 4",
+      "term": "horizon",
+      "status": "introduced",
+      "claim": "The thesis to be verified is that the horizon out of which being in general becomes intelligible is time, so that the interpretation of being is temporal.",
+      "quote": "From this grows the prospect of a possible verification of the thesis: *the horizon out of which something like being in general becomes intelligible is time*. We interpret being out of time (tempus). The interpretation is *temporal*."
+    },
+    {
+      "id": "zeitlichkeit/ga24/003",
+      "locator": "heidegger-ga-24-die-grundprobleme-der-phanomenologie-commentary#h2-s-4-the-four-theses-about-being-and-the-basic-problems-of-phenomenology",
+      "primary_locator": "GA 24 § 4",
+      "term": "Temporalität",
+      "status": "introduced",
+      "claim": "Zeitlichkeit is terminologically distinguished from Temporalität, the temporality of being itself and the temporal horizon out of which being is understood.",
+      "quote": "Heidegger here distinguishes terminologically between *Zeitlichkeit* (the temporality of Dasein) and *Temporalität* (the temporality of being itself, the temporal horizon out of which being is understood)"
+    },
+    {
+      "id": "zeitlichkeit/ga24/004",
+      "locator": "heidegger-ga-24-die-grundprobleme-der-phanomenologie-commentary#h2-s-4-the-four-theses-about-being-and-the-basic-problems-of-phenomenology",
+      "primary_locator": "GA 24 § 4",
+      "term": "ontological difference",
+      "status": "presupposed",
+      "claim": "The ontological difference can be enacted for ontological investigation only if it is shown how temporality makes possible the distinguishability of being and beings.",
+      "quote": "the ontological difference is to be clarified and unambiguously enacted for ontological investigation only if the meaning of being as such has been explicitly brought to light, that is, only if it is shown how temporality makes possible the distinguishability of being and beings"
+    },
+    {
+      "id": "zeitlichkeit/ga24/005",
+      "locator": "heidegger-ga-24-die-grundprobleme-der-phanomenologie-commentary#h2-s-5-the-methodical-character-of-ontology-the-three-basic-pieces-of-the-phenomeno",
+      "primary_locator": "GA 24 § 5",
+      "term": "a priori",
+      "status": "revised",
+      "claim": "The a priori is read as a time-determination outside clock-time, an earlier that the vulgar understanding grasps as the later and that only the interpretation of being out of temporality can make intelligible.",
+      "quote": "The \"earlier\" is a time-determination, but one which does not lie in the temporal order of the time we measure with the clock — but rather an \"earlier\" that belongs to the *verkehrte Welt*, the inverted world."
+    },
+    {
+      "id": "zeitlichkeit/ga24/006",
+      "locator": "heidegger-ga-24-die-grundprobleme-der-phanomenologie-commentary#h2-s-5-the-methodical-character-of-ontology-the-three-basic-pieces-of-the-phenomeno",
+      "primary_locator": "GA 24 § 5",
+      "term": "Apriorität",
+      "status": "revised",
+      "claim": "The priority of being before beings is said to be not the logical priority of categories but the temporal priority of being-determinations, understandable only out of Temporalität.",
+      "quote": "it is not the *logical* priority of categories but the *temporal* priority of being-determinations, which can be understood only out of *Temporalität*"
+    },
+    {
+      "id": "zeitlichkeit/ga24/007",
+      "locator": "heidegger-ga-24-die-grundprobleme-der-phanomenologie-commentary#h2-s-5-the-methodical-character-of-ontology-the-three-basic-pieces-of-the-phenomeno",
+      "primary_locator": "GA 24 § 5",
+      "term": "temporality and historicality",
+      "status": "presupposed",
+      "claim": "Ontology is said to have an ontic foundation in Dasein, so that its own possibility is bound to Dasein's existence, its temporality and historicality, more originarily than any other science.",
+      "quote": "are bound to Dasein's existence — that is, to its temporality and historicality — and indeed in a more originary sense than is any other science"
+    }
+  ],
+  "absences": []
+}
