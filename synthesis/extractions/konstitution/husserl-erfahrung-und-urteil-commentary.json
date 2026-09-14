@@ -1,0 +1,145 @@
+{
+  "schema_version": 1,
+  "theme": "konstitution",
+  "commentary": "husserl-erfahrung-und-urteil-commentary",
+  "source_sha256": "82c4ca54e212939aeb705d8aa3ecf44065fe852bd013910cfcf8326007d09b15",
+  "extracted_at": "2026-09-14",
+  "extractor": {
+    "agent": "claude-code",
+    "prompt": "synthesis-pipeline/extraction-prompt.md"
+  },
+  "coverage": "partial",
+  "coverage_note": "SS 11, 14, 38 and 80 - the places where the investigation locates itself in the constitutive systematics, and where the constitution of general objectualities is announced. The bulk of the analyses of receptivity, predication and generalization has not been extracted; S 10 and S 17 carry no term of the family and are recorded as absences.",
+  "units": [
+    {
+      "id": "konstitution/eu/001",
+      "locator": "husserl-erfahrung-und-urteil-commentary#h3-s11-the-origin-clarification-of-judgment-and-genealogy-of-logic-in-the-overall-h",
+      "primary_locator": "Erfahrung und Urteil S 11",
+      "stratum": "eu-undated",
+      "term": "constituting",
+      "claim": "The regress to the transcendental subjectivity constituting the pregiven world proceeds in two stages: from the pregiven world to the life-world, and from the life-world to the subjective achievements it arises from.",
+      "status": "introduced",
+      "quote": "the regress to the transcendental subjectivity constituting this pregiven world proceeds in two stages: (1) the regress from the pregiven world with all its sense-precipitates, with its science and scientific determination, to the original life-world; (2) the inquiry back from the life-world to the subjective achievements from which it itself arises."
+    },
+    {
+      "id": "konstitution/eu/002",
+      "locator": "husserl-erfahrung-und-urteil-commentary#h3-s11-the-origin-clarification-of-judgment-and-genealogy-of-logic-in-the-overall-h",
+      "primary_locator": "Erfahrung und Urteil S 11",
+      "stratum": "eu-undated",
+      "term": "constitutive formation",
+      "claim": "The life-world too is nothing simply pregiven: it is a formation that can be questioned as to the manners of its constitutive formation.",
+      "status": "introduced",
+      "quote": "For the life-world too is nothing simply pregiven; it too is a formation that can be questioned as to the manners of its constitutive formation."
+    },
+    {
+      "id": "konstitution/eu/003",
+      "locator": "husserl-erfahrung-und-urteil-commentary#h3-s11-the-origin-clarification-of-judgment-and-genealogy-of-logic-in-the-overall-h",
+      "primary_locator": "Erfahrung und Urteil S 11",
+      "stratum": "eu-undated",
+      "term": "constitution of our experiential world",
+      "claim": "Logical sense-achievements are only one part of what contributes to the constitution of the experiential world; practical, emotional and sensory experience belong to it too.",
+      "status": "revised",
+      "quote": "the logical sense-achievements are only one part of what contributes to the constitution of our experiential world."
+    },
+    {
+      "id": "konstitution/eu/004",
+      "locator": "husserl-erfahrung-und-urteil-commentary#h3-s14-the-necessity-of-starting-the-analyses-from-outer-perception-and-the-percept",
+      "primary_locator": "Erfahrung und Urteil S 14",
+      "stratum": "eu-undated",
+      "term": "constitution of predicative judging",
+      "claim": "In the domain of merely contemplative perceiving, the constitution of predicative judging upon pre-predicative perceptual experiencing is most easily demonstrated.",
+      "status": "introduced",
+      "quote": "the constitution of predicative judging upon pre-predicative perceptual experiencing is most easily demonstrated"
+    },
+    {
+      "id": "konstitution/eu/005",
+      "locator": "husserl-erfahrung-und-urteil-commentary#h3-s14-the-necessity-of-starting-the-analyses-from-outer-perception-and-the-percept",
+      "primary_locator": "Erfahrung und Urteil S 14",
+      "stratum": "eu-undated",
+      "term": "constitution of the perceptual thing",
+      "claim": "The theme of these investigations is not the constitution of the perceptual thing and of a spatial-thingly external world; the structures of perceiving are drawn on only as far as needed.",
+      "status": "revised",
+      "quote": "their theme is not the constitution of the perceptual thing and further of a spatial-thingly external world; rather, the structures of perceiving are drawn upon only so far as is necessary"
+    },
+    {
+      "id": "konstitution/eu/006",
+      "locator": "husserl-erfahrung-und-urteil-commentary#h3-s14-the-necessity-of-starting-the-analyses-from-outer-perception-and-the-percept",
+      "primary_locator": "Erfahrung und Urteil S 14",
+      "stratum": "eu-undated",
+      "term": "constitutive strata",
+      "claim": "Manifold constitutive strata and achievements are already presupposed where the analyses set in, among them that a field of spatial-thingly pregivennesses is already constituted.",
+      "status": "presupposed",
+      "quote": "Already presupposed at the point where our analyses set in are manifold constitutive strata and achievements: it is presupposed that a field of spatial-thingly pregivennesses is already constituted"
+    },
+    {
+      "id": "konstitution/eu/007",
+      "locator": "husserl-erfahrung-und-urteil-commentary#h3-s14-the-necessity-of-starting-the-analyses-from-outer-perception-and-the-percept",
+      "primary_locator": "Erfahrung und Urteil S 14",
+      "stratum": "eu-undated",
+      "term": "overall constitutive systematics",
+      "claim": "The presupposed constitutive investigations lie deeper than those carried out here, and must be referred to so that the place of these investigations in the overall constitutive systematics is clear.",
+      "status": "presupposed",
+      "quote": "All these are dimensions of constitutive investigations that lie still deeper than those carried out here, and to which reference must be made so that clarity obtains about the place our investigations occupy in the overall constitutive systematics."
+    },
+    {
+      "id": "konstitution/eu/008",
+      "locator": "husserl-erfahrung-und-urteil-commentary#h3-s38-the-necessary-connection-of-the-intentional-objects-of-all-perceptions-and-p",
+      "primary_locator": "Erfahrung und Urteil S 38",
+      "stratum": "eu-undated",
+      "term": "sensuously constituted",
+      "claim": "The sensuously constituted time-series is under all circumstances a single one, into which everything intentional that is sensuously constituted is ordered.",
+      "status": "introduced",
+      "quote": "the sensuously constituted time-series is under all circumstances a single one, into which — apart from otherwise constituted or to-be-constituted unity-characters and independence-characters — everything intentional as such is ordered that is sensuously constituted"
+    },
+    {
+      "id": "konstitution/eu/009",
+      "locator": "husserl-erfahrung-und-urteil-commentary#h3-s38-the-necessary-connection-of-the-intentional-objects-of-all-perceptions-and-p",
+      "primary_locator": "Erfahrung und Urteil S 38",
+      "stratum": "eu-undated",
+      "term": "constituting itself",
+      "claim": "The perceptions of all mutually understanding ego-subjects stand in the connection of an objective time constituting itself in all their subjective times, and of an objective world constituting itself in it.",
+      "status": "introduced",
+      "quote": "in the connection of an objective time constituting itself in all their subjective times, and of an objective world constituting itself in it."
+    },
+    {
+      "id": "konstitution/eu/010",
+      "locator": "husserl-erfahrung-und-urteil-commentary#h3-s80-the-course-of-the-investigations",
+      "primary_locator": "Erfahrung und Urteil S 80",
+      "stratum": "eu-undated",
+      "term": "constitution of general objectualities",
+      "claim": "Part III turns to the highest level of logical activity, the constitution of general objectualities and the judgment-forms that employ them.",
+      "status": "introduced",
+      "quote": "Part III turns to the highest level of logical activity: the constitution of general objectualities (universals, types, species, genera) and the judgment-forms that employ them."
+    },
+    {
+      "id": "konstitution/eu/011",
+      "locator": "husserl-erfahrung-und-urteil-commentary#h3-s80-the-course-of-the-investigations",
+      "primary_locator": "Erfahrung und Urteil S 80",
+      "stratum": "eu-undated",
+      "term": "preconstituted",
+      "claim": "Universalities can be constituted not only on what is already passively preconstituted in experience as a known but unapprehended type, but also freely produced in spontaneity.",
+      "status": "introduced",
+      "quote": "Universalities can be constituted not only on the basis of what is already passively preconstituted in experience as a known but not yet apprehended type, but also freely produced in spontaneity."
+    },
+    {
+      "id": "konstitution/eu/012",
+      "locator": "husserl-erfahrung-und-urteil-commentary#h3-s80-the-course-of-the-investigations",
+      "primary_locator": "Erfahrung und Urteil S 80",
+      "stratum": "eu-undated",
+      "term": "constitutively most original",
+      "claim": "The order of investigation ascends from the constitutively simplest universalities to the pure universalities, whose constitution is independent of the preconstitution of empirical types.",
+      "status": "revised",
+      "quote": "We ascend from the lowest, constitutively simplest universalities to the highest, seeking all these forms in the originality of their production. The constitutively most original is not the nearest"
+    }
+  ],
+  "absences": [
+    {
+      "locator": "husserl-erfahrung-und-urteil-commentary#h3-s10-the-regress-to-the-evidence-of-experience-as-regress-to-the-life-world-disma",
+      "expected_because": "S 10 carries out the regress to the life-world that S 11 restates immediately afterwards as the regress to the transcendental subjectivity constituting the pregiven world. The section performs it in 1,828 words with no term of the family."
+    },
+    {
+      "locator": "husserl-erfahrung-und-urteil-commentary#h3-s17-affection-and-ego-turning-receptivity-as-the-lowest-level-of-egoic-activity",
+      "expected_because": "Affection and ego-turning are the lowest level of egoic activity, the stratum S 14 lists among the constitutive achievements presupposed by the analyses. The section states it without the vocabulary of constitution."
+    }
+  ]
+}
