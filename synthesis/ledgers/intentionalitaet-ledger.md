@@ -245,6 +245,132 @@
 
 *Partial pass: Covers intentionality as essential determination of perception (§4), real/intentional content distinction (§6), intentional relation through identity-consciousness framework (§11), and intention/fulfillment in perceptual process (§32). Not covered: intentionality through kinaesthetic motivation (§§44-57), intentionality in spatial constitution (§§58ff).*
 
+### 1908-1909 to 1914 - Husserl, Hua 28 — Vorlesungen über Ethik und Wertlehre
+
+`husserliana-28-vorlesungen-uber-ethik-und-wertlehre-commentary`
+
+- **introduced** · `intentionalitaet/hua28/001` · *judging as meaning / Urmodus of belief*
+  Judging is meaning, believing meaning, and the primal mode (Urmodus) of belief is certainty or being-certain, of which the modes of being-uncertain, solicitation-as-probable, doubt, and rejection are modalizations.
+  `husserliana-28-vorlesungen-uber-ethik-und-wertlehre-commentary#h3-s-8-the-distinctions-underlying-the-logical-and-noetic-disciplines-between-act-a` · Hua XXVIII, Einleitung § 8 · [§ 8\. The Distinctions Underlying the Logical and Noetic Disciplines: between Act as Meaning and as Meaning-Content, between Proposition-Matter and Proposition-Quality, between the Primal Mode of Belief and Its Modalizations](https://faultynode.github.io/commentaries/commentaries/husserl/husserliana-28-vorlesungen-uber-ethik-und-wertlehre-commentary.html#the-distinctions-underlying-the-logical-and-noetic-disciplines-between-act-as-meaning-and-as-meaning-content-between-proposition-matter-and-proposition-quality-between-the-primal-mode-of-belief-and-its-modalizations)
+  > *Judging is meaning, believing meaning*; we highlight the *Urmodus* (primal mode) of belief, namely certainty, or rather being-certain.
+
+- **introduced** · `intentionalitaet/hua28/002` · *proposition-matter / proposition-quality*
+  The proposition has two components that can vary independently: the identical proposition-content or sense (the matter) and the proposition-quality, the thetic qualification that runs parallel to the modal differences of the meaning.
+  `husserliana-28-vorlesungen-uber-ethik-und-wertlehre-commentary#h3-s-8-the-distinctions-underlying-the-logical-and-noetic-disciplines-between-act-a` · Hua XXVIII, Einleitung § 8 · [§ 8\. The Distinctions Underlying the Logical and Noetic Disciplines: between Act as Meaning and as Meaning-Content, between Proposition-Matter and Proposition-Quality, between the Primal Mode of Belief and Its Modalizations](https://faultynode.github.io/commentaries/commentaries/husserl/husserliana-28-vorlesungen-uber-ethik-und-wertlehre-commentary.html#the-distinctions-underlying-the-logical-and-noetic-disciplines-between-act-as-meaning-and-as-meaning-content-between-proposition-matter-and-proposition-quality-between-the-primal-mode-of-belief-and-its-modalizations)
+  > the proposition can vary in two directions, or that it has two components: the identical proposition-content (the *matter*) and the proposition-*quality*; more distinctly, the *sense* of the proposition and the proposition-quality, the thetic qualification.
+
+- **introduced** · `intentionalitaet/hua28/003` · *willing as meaning*
+  Willing and wishing are meaning just as belief is, with a will-meaning and a wish-meaning as their correlates, only that the meaning here is not a being-meaning (a meaning that something is) but a meaning that something shall be.
+  `husserliana-28-vorlesungen-uber-ethik-und-wertlehre-commentary#h3-s-8-the-distinctions-underlying-the-logical-and-noetic-disciplines-between-act-a` · Hua XXVIII, Einleitung § 8 · [§ 8\. The Distinctions Underlying the Logical and Noetic Disciplines: between Act as Meaning and as Meaning-Content, between Proposition-Matter and Proposition-Quality, between the Primal Mode of Belief and Its Modalizations](https://faultynode.github.io/commentaries/commentaries/husserl/husserliana-28-vorlesungen-uber-ethik-und-wertlehre-commentary.html#the-distinctions-underlying-the-logical-and-noetic-disciplines-between-act-as-meaning-and-as-meaning-content-between-proposition-matter-and-proposition-quality-between-the-primal-mode-of-belief-and-its-modalizations)
+  > Willing too is meaning, wishing too is meaning, and correlatively the will-meaning, the wish-meaning corresponds to them; only the meaning here is not a being-meaning, a meaning that something is, but a meaning that something shall be.
+
+- **introduced** · `intentionalitaet/hua28/004` · *founding of valuing on objectivating acts*
+  To every valuing act there necessarily underlie intellective, objectivating acts (presenting, judging, or surmising) in which the valued objectivities become presented and stand as being or non-being, and this founding is not merely psychological but belongs to the essence of the valuing act insofar as it constitutes the value-appearance.
+  `husserliana-28-vorlesungen-uber-ethik-und-wertlehre-commentary#h3-s-9-apriori-motivation-laws-as-laws-of-rational-consequence-motivational-connect` · Hua XXVIII, Part II § 9 · [§ 9\. Apriori Motivation-Laws as Laws of Rational Consequence. Motivational Connections between the Logical and the Axiological Sphere](https://faultynode.github.io/commentaries/commentaries/husserl/husserliana-28-vorlesungen-uber-ethik-und-wertlehre-commentary.html#apriori-motivation-laws-as-laws-of-rational-consequence-motivational-connections-between-the-logical-and-the-axiological-sphere)
+  > to every valuing act there necessarily underlie intellective, "objectivating" acts — presenting, judging, or surmising acts — in which the valued objectivities become presented and possibly stand as being or non-being, in certainty or probability.
+
+- **introduced** · `intentionalitaet/hua28/005` · *valuing acts directed upon values*
+  In the proper sense only objectivating acts are directed upon the objective, the being or non-being, whereas valuing acts are directed upon values, more closely upon positive and negative values, so that value-directedness is its own intentionality and not a special case of object-directedness.
+  `husserliana-28-vorlesungen-uber-ethik-und-wertlehre-commentary#h3-s-9-apriori-motivation-laws-as-laws-of-rational-consequence-motivational-connect` · Hua XXVIII, Part II § 9 · [§ 9\. Apriori Motivation-Laws as Laws of Rational Consequence. Motivational Connections between the Logical and the Axiological Sphere](https://faultynode.github.io/commentaries/commentaries/husserl/husserliana-28-vorlesungen-uber-ethik-und-wertlehre-commentary.html#apriori-motivation-laws-as-laws-of-rational-consequence-motivational-connections-between-the-logical-and-the-axiological-sphere)
+  > in the proper sense only objectivating acts are directed upon the objective, the being or non-being, whereas valuing acts are directed upon *values*, and more closely upon positive and negative values.
+
+- **introduced** · `intentionalitaet/hua28/006` · *object-side / value-side*
+  Values have their object-side and at once their specific value-side, the former founding the latter, and when values themselves become objects of judging cognition the value-side itself is objectivated.
+  `husserliana-28-vorlesungen-uber-ethik-und-wertlehre-commentary#h3-s-9-apriori-motivation-laws-as-laws-of-rational-consequence-motivational-connect` · Hua XXVIII, Part II § 9 · [§ 9\. Apriori Motivation-Laws as Laws of Rational Consequence. Motivational Connections between the Logical and the Axiological Sphere](https://faultynode.github.io/commentaries/commentaries/husserl/husserliana-28-vorlesungen-uber-ethik-und-wertlehre-commentary.html#apriori-motivation-laws-as-laws-of-rational-consequence-motivational-connections-between-the-logical-and-the-axiological-sphere)
+  > values have their object-side and at once their specific value-side, the former founding the latter, and when values themselves become objects of judging cognition the value-side itself is objectivated.
+
+- **introduced** · `intentionalitaet/hua28/007` · *wish is not a practical act*
+  Mere wishing contains nothing of willing and nothing of practical modalities and is not itself a practical act, since the wished need not be conscious as practically realizable and what can be wished is anything possible, not merely anything practically possible.
+  `husserliana-28-vorlesungen-uber-ethik-und-wertlehre-commentary#h3-s-13-the-will-sphere-in-the-narrower-and-wider-sense` · Hua XXVIII, Part III § 13 · [§ 13\. The Will-Sphere in the Narrower and Wider Sense](https://faultynode.github.io/commentaries/commentaries/husserl/husserliana-28-vorlesungen-uber-ethik-und-wertlehre-commentary.html#the-will-sphere-in-the-narrower-and-wider-sense)
+  > Mere wishing contains nothing of willing, contains nothing of practical modalities, and is not itself a practical act, a will-act in the widest sense.
+
+- **introduced** · `intentionalitaet/hua28/008` · *wishing and willing as distinct genera*
+  That one can wish a goal and at the same time will the same goal proves that wishing and willing are not coordinate differences of one genus, since such differences exclude one another essentially as two colour-species covering the same surface-patch, so that wishing and willing are distinct genera of act.
+  `husserliana-28-vorlesungen-uber-ethik-und-wertlehre-commentary#h3-s-14-wish-and-will` · Hua XXVIII, Part III § 14 · [§ 14\. Wish and Will](https://faultynode.github.io/commentaries/commentaries/husserl/husserliana-28-vorlesungen-uber-ethik-und-wertlehre-commentary.html#wish-and-will)
+  > the qualitative peculiarities of the act-characters wishing and willing are *not* coordinate differences of one and the same genus — for such differences exclude one another essentially, as two color-species exclude each other as covering the same patch of surface in the same duration.
+
+- **introduced** · `intentionalitaet/hua28/009` · *will as being-modalization*
+  All acts go in a certain way upon being: belief is the meaning of being, and the emotive acts are to be grasped as being-modalizations of a new dimension, the wishing meaning an 'it may be' and the willing an 'it shall be'.
+  `husserliana-28-vorlesungen-uber-ethik-und-wertlehre-commentary#h3-s-14-wish-and-will` · Hua XXVIII, Part III § 14 · [§ 14\. Wish and Will](https://faultynode.github.io/commentaries/commentaries/husserl/husserliana-28-vorlesungen-uber-ethik-und-wertlehre-commentary.html#wish-and-will)
+  > The Gemütsakte too are to be grasped as being-modalizations, though of a new dimension: the wishing means an "it may be," the willing an "it shall be"
+
+- **introduced** · `intentionalitaet/hua28/010` · *will confined to the real and the future*
+  By a rational essential law the will cannot go upon the ideal but only upon the real, and not upon the past but upon the future, in contrast to joy and to wish, which can also go upon an ideal or past being.
+  `husserliana-28-vorlesungen-uber-ethik-und-wertlehre-commentary#h3-s-14-wish-and-will` · Hua XXVIII, Part III § 14 · [§ 14\. Wish and Will](https://faultynode.github.io/commentaries/commentaries/husserl/husserliana-28-vorlesungen-uber-ethik-und-wertlehre-commentary.html#wish-and-will)
+  > the will, one then says, cannot go upon the ideal but only upon the real, and not upon the past but upon the future — in contrast to joy and to wish.
+
+- **introduced** · `intentionalitaet/hua28/011` · *the will as creative positing*
+  The future willed is not first certain-being and then willed; on the contrary, were it certain in advance it could not be willed at all, so that it is certain only by virtue of the will-certainty, which sets the future in a manner that first confers on it the certainty of being.
+  `husserliana-28-vorlesungen-uber-ethik-und-wertlehre-commentary#h3-s-15-action-will-and-the-resolve-will-directed-at-the-future` · Hua XXVIII, Part III § 15 · [§ 15\. Action-Will and the Resolve-Will Directed at the Future](https://faultynode.github.io/commentaries/commentaries/husserl/husserliana-28-vorlesungen-uber-ethik-und-wertlehre-commentary.html#action-will-and-the-resolve-will-directed-at-the-future)
+  > Instead of being certain in advance, it is certain only by virtue of the will-certainty: the will as will-certainty sets the future in a manner that first confers on it, for consciousness, the certainty of being.
+
+- **revised** · `intentionalitaet/hua28/012` · *reversal of the founding relation (will / belief)*
+  On the act-side the founding relation is reversed: instead of the willing being founded upon the belief of the future being, it is rather the belief of the future that springs forth from the willing.
+  `husserliana-28-vorlesungen-uber-ethik-und-wertlehre-commentary#h3-s-15-action-will-and-the-resolve-will-directed-at-the-future` · Hua XXVIII, Part III § 15 · [§ 15\. Action-Will and the Resolve-Will Directed at the Future](https://faultynode.github.io/commentaries/commentaries/husserl/husserliana-28-vorlesungen-uber-ethik-und-wertlehre-commentary.html#action-will-and-the-resolve-will-directed-at-the-future)
+  > Instead of the willing being founded upon the belief of the future being, it is rather the belief of the future that springs forth from the willing
+
+- **introduced** · `intentionalitaet/hua28/013` · *creative intention / will-fulfilment*
+  The will directed upon the future is, in a certain sense, a creative intention, and this intention fulfils itself in the executing action.
+  `husserliana-28-vorlesungen-uber-ethik-und-wertlehre-commentary#h3-s-15-action-will-and-the-resolve-will-directed-at-the-future` · Hua XXVIII, Part III § 15 · [§ 15\. Action-Will and the Resolve-Will Directed at the Future](https://faultynode.github.io/commentaries/commentaries/husserl/husserliana-28-vorlesungen-uber-ethik-und-wertlehre-commentary.html#action-will-and-the-resolve-will-directed-at-the-future)
+  > the will directed upon the future is, in a certain sense, a creative intention, and this "fulfills" itself in the executing action.
+
+- **introduced** · `intentionalitaet/hua28/014` · *intentional direction of the action-will*
+  The willings do not direct themselves upon the further willings; rather each will directs itself upon the things, creatively fulfilled upon the respective now-phase of the process and intending the whole rest of the process as to be realized.
+  `husserliana-28-vorlesungen-uber-ethik-und-wertlehre-commentary#h3-s-16-the-structure-of-the-action-will` · Hua XXVIII, Part III § 16 · [§ 16\. The Structure of the Action-Will](https://faultynode.github.io/commentaries/commentaries/husserl/husserliana-28-vorlesungen-uber-ethik-und-wertlehre-commentary.html#the-structure-of-the-action-will)
+  > The willings do not direct themselves upon the further willings; rather each will directs itself upon the things — creatively fulfilled upon the respective now-phase of the process and "intending" the whole rest of the process as to be realized.
+
+- **introduced** · `intentionalitaet/hua28/015` · *will-continuity / welling-up*
+  In the will-continuities belonging to each time-point the willing-moments do not lie side by side but stand in continuous relations of welling-up-out-of-one-another, so that the action-will has a temporal structure analogous to that of inner time-consciousness.
+  `husserliana-28-vorlesungen-uber-ethik-und-wertlehre-commentary#h3-s-16-the-structure-of-the-action-will` · Hua XXVIII, Part III § 16 · [§ 16\. The Structure of the Action-Will](https://faultynode.github.io/commentaries/commentaries/husserl/husserliana-28-vorlesungen-uber-ethik-und-wertlehre-commentary.html#the-structure-of-the-action-will)
+  > in the will-continuities belonging to each time-point, the willing-moments do not lie side by side but stand in continuous relations of welling-up-out-of-one-another
+
+- **introduced** · `intentionalitaet/hua28/016` · *Formenlehre of will-modalities*
+  Parallel to the pure Formenlehre of judgments in which the modifications of certain belief (holding-for-possible, holding-for-probable, doubting, questioning, deciding) also count as judging, there is in the will-sphere a pure Formenlehre of will-formations with respect to the will-acts and, parallel, to their correlates, the will-propositions and will-contents.
+  `husserliana-28-vorlesungen-uber-ethik-und-wertlehre-commentary#h4-a-willing-in-the-original-sense-as-analogue-of-certain-belief-the-problematic-hy` · Hua XXVIII, Part III § 17 (a) · [(a) Willing in the Original Sense as Analogue of Certain Belief. The Problematic, Hypothetical, and Disjunctive Modification of Willing](https://faultynode.github.io/commentaries/commentaries/husserl/husserliana-28-vorlesungen-uber-ethik-und-wertlehre-commentary.html#a-willing-in-the-original-sense-as-analogue-of-certain-belief-the-problematic-hypothetical-and-disjunctive-modification-of-willing)
+  > for these we have parallels in the will-sphere, where too there is a pure *Formenlehre* of will-formations taken in a wider sense, with respect to the will-acts and, parallel, to their correlates, the will-propositions and will-contents.
+
+- **introduced** · `intentionalitaet/hua28/017` · *problematic willing*
+  Instead of willing in the normal sense one can perform a practical consciousness akin to willing and characterized as a modification of a willing, in which the will-matter solicits itself as practically ought-to-be without a full will-certainty, the analogue of the problematic (possibility-)modalization of belief.
+  `husserliana-28-vorlesungen-uber-ethik-und-wertlehre-commentary#h4-a-willing-in-the-original-sense-as-analogue-of-certain-belief-the-problematic-hy` · Hua XXVIII, Part III § 17 (a) · [(a) Willing in the Original Sense as Analogue of Certain Belief. The Problematic, Hypothetical, and Disjunctive Modification of Willing](https://faultynode.github.io/commentaries/commentaries/husserl/husserliana-28-vorlesungen-uber-ethik-und-wertlehre-commentary.html#a-willing-in-the-original-sense-as-analogue-of-certain-belief-the-problematic-hypothetical-and-disjunctive-modification-of-willing)
+  > instead of willing in the normal sense, I can perform a practical consciousness akin to willing and essentially characterized as a modification of a willing — the will-matter solicits itself as practically ought-to-be
+
+- **introduced** · `intentionalitaet/hua28/018` · *will-question / being-question*
+  As the analogue of the being-question there is the practical will-question, and to the essence of the question belongs the aiming at an answer that fulfils itself in the actual answer, so that the will-question harbours in itself the intention upon a corresponding will-answer.
+  `husserliana-28-vorlesungen-uber-ethik-und-wertlehre-commentary#h4-b-the-will-question-as-analogue-of-the-being-question-toward-the-form-theory-of` · Hua XXVIII, Part III § 17 (b) · [(b) The Will-Question as Analogue of the Being-Question. Toward the Form-Theory of Questions](https://faultynode.github.io/commentaries/commentaries/husserl/husserliana-28-vorlesungen-uber-ethik-und-wertlehre-commentary.html#b-the-will-question-as-analogue-of-the-being-question-toward-the-form-theory-of-questions)
+  > To the essence of the question belongs the aiming at an answer, and this aiming fulfills itself in the actual answer; so the will-question harbors in itself the intention upon a corresponding will-answer.
+
+- **introduced** · `intentionalitaet/hua28/019` · *pre-predicative will-acts*
+  The decisive point is that before all assertions, in the emotive and specifically the will-sphere, analogues of the specifically doxic occurrences (doubt, question, deliberation, decision) already appear, and what their performance presupposes and newly brings in is a theme for difficult analyses of its own.
+  `husserliana-28-vorlesungen-uber-ethik-und-wertlehre-commentary#h4-b-the-will-question-as-analogue-of-the-being-question-toward-the-form-theory-of` · Hua XXVIII, Part III § 17 (b) · [(b) The Will-Question as Analogue of the Being-Question. Toward the Form-Theory of Questions](https://faultynode.github.io/commentaries/commentaries/husserl/husserliana-28-vorlesungen-uber-ethik-und-wertlehre-commentary.html#b-the-will-question-as-analogue-of-the-being-question-toward-the-form-theory-of-questions)
+  > *before* all assertions, in the Gemüt- and specifically the will-sphere, analogues of the specifically doxic occurrences appear
+
+- **introduced** · `intentionalitaet/hua28/020` · *choice as performance of a will-question*
+  A practical deliberation is nothing other than the performance of a will-question together with the modifications and supplementations of the questioning acts that lie on the way to deciding it, and the concluding will-answer to a disjunctive practical question is what we call the choice.
+  `husserliana-28-vorlesungen-uber-ethik-und-wertlehre-commentary#h4-c-the-analogies-between-theoretical-and-practical-deliberating-deciding-and-surm` · Hua XXVIII, Part III § 17 (c) · [(c) The Analogies between Theoretical and Practical Deliberating, Deciding, and Surmising](https://faultynode.github.io/commentaries/commentaries/husserl/husserliana-28-vorlesungen-uber-ethik-und-wertlehre-commentary.html#c-the-analogies-between-theoretical-and-practical-deliberating-deciding-and-surmising)
+  > A practical deliberation is nothing other than the performance of a will-question, and not only that but, following upon it, the performance of those modifications and supplementations of the questioning acts that lie on the way to the deciding of the question
+
+- **revised** · `intentionalitaet/hua28/021` · *affirmation and negation as modalizations*
+  Against older logic, which conflates position with affirmation, the consciousness 'it is not' expresses phenomenologically a rejection that points back in itself to an 'it is', a not-actually-performed position whose own structure contains no such back-pointing, so that negation and affirmation are modalizations set over against the primal belief.
+  `husserliana-28-vorlesungen-uber-ethik-und-wertlehre-commentary#h4-d-affirmation-and-negation-in-the-belief-domain-and-in-the-will-domain` · Hua XXVIII, Part III § 17 (d) · [(d) Affirmation and Negation in the Belief-Domain and in the Will-Domain](https://faultynode.github.io/commentaries/commentaries/husserl/husserliana-28-vorlesungen-uber-ethik-und-wertlehre-commentary.html#d-affirmation-and-negation-in-the-belief-domain-and-in-the-will-domain)
+  > the consciousness "It is not" expresses, not only linguistically but phenomenologically, a rejection that points back in itself to an "It is," to a position — not actually performed — whose structure does not in turn contain a back-pointing
+
+- **introduced** · `intentionalitaet/hua28/022` · *will-negation / omission*
+  The willing rejection of the 'I will not' implies a positive will-solicitation and is a willful crossing-out of a not-performed but soliciting 'I will', and a special case of such will-rejection is omission (Unterlassung), which is not the mere privative performing of no will at all.
+  `husserliana-28-vorlesungen-uber-ethik-und-wertlehre-commentary#h4-d-affirmation-and-negation-in-the-belief-domain-and-in-the-will-domain` · Hua XXVIII, Part III § 17 (d) · [(d) Affirmation and Negation in the Belief-Domain and in the Will-Domain](https://faultynode.github.io/commentaries/commentaries/husserl/husserliana-28-vorlesungen-uber-ethik-und-wertlehre-commentary.html#d-affirmation-and-negation-in-the-belief-domain-and-in-the-will-domain)
+  > the willing rejection of the "I will not" implies a positive will-solicitation; it is a willful crossing-out of a not-performed but soliciting "I will."
+
+- **introduced** · `intentionalitaet/hua28/023` · *subject-relativity of practical possibilities*
+  Unlike an objective truth, which is truth in itself and relative to no judging subject, what is a practical possibility for one subject need not be one for another: practical possibilities are essentially referred to the will-capable subject and its momentary field of efficacy.
+  `husserliana-28-vorlesungen-uber-ethik-und-wertlehre-commentary#h3-s-21-the-objectivity-of-the-practical-possibilities-and-their-relativity-to-the` · Hua XXVIII, Part IV § 21 · [§ 21\. The Objectivity of the Practical Possibilities and Their Relativity to the Subject. The Convenience or Inconvenience Grounded in the Essence of the Will-Act. The Components of Perfect Will-Rightness](https://faultynode.github.io/commentaries/commentaries/husserl/husserliana-28-vorlesungen-uber-ethik-und-wertlehre-commentary.html#the-objectivity-of-the-practical-possibilities-and-their-relativity-to-the-subject-the-convenience-or-inconvenience-grounded-in-the-essence-of-the-will-act-the-components-of-perfect-will-rightness)
+  > what is a practical possibility for me need not be one for everyone else: practical possibilities are essentially referred to the will-capable subject.
+
+- **introduced** · `intentionalitaet/hua28/024` · *insight as saturation of the intention*
+  The originary consciousness of rightness that lies in the reason-judgment itself and that an external spectator recomputing the judgment does not perform represents a peculiar saturation of the judgment-intention, a saturation by the goal itself, an inner fulfilledness of the adequation of the meaning in the givenness of the meant, and it stands so in every act-domain including the will.
+  `husserliana-28-vorlesungen-uber-ethik-und-wertlehre-commentary#h3-s-21-the-objectivity-of-the-practical-possibilities-and-their-relativity-to-the` · Hua XXVIII, Part IV § 21 · [§ 21\. The Objectivity of the Practical Possibilities and Their Relativity to the Subject. The Convenience or Inconvenience Grounded in the Essence of the Will-Act. The Components of Perfect Will-Rightness](https://faultynode.github.io/commentaries/commentaries/husserl/husserliana-28-vorlesungen-uber-ethik-und-wertlehre-commentary.html#the-objectivity-of-the-practical-possibilities-and-their-relativity-to-the-subject-the-convenience-or-inconvenience-grounded-in-the-essence-of-the-will-act-the-components-of-perfect-will-rightness)
+  > a peculiar saturation of the judgment-intention, a saturation by the goal itself, an inner fulfilledness of the adequation of the meaning in the givenness of the meant.
+
+*Partial pass: Covers the act-theoretic and intentionality-relevant core: judging as meaning and the primal mode of belief, proposition-matter and proposition-quality, the transposition of the whole apophantic apparatus (act/meaning, matter/quality, Urthesis/modalization) to the will and the emotive acts; the doctrine that valuing acts are founded in objectivating acts yet are directed upon values rather than upon objects; the wish/will distinction (distinct genera, not species of one genus), the will as a being-modalization confined to the real and the future, the will as creative positing that first confers certainty of being and reverses the founding relation to belief, the will directed on the future as a creative intention fulfilling itself in action, the temporal structure of the action-will modeled on time-consciousness, the parallel Formenlehre of will-modalities, the will-question and its intention upon a will-answer, practical deliberation and choice as the performance of a will-question, affirmation and negation as modalizations pointing back to an unperformed position, will-negation and omission, the subject-relativity of practical possibilities, and insight as a saturation of the intention. Not covered: formal axiology and formal Praktik proper (motivation-laws, value-comparison, the will-laws of choice and the absorption-law), the parallelism-of-logic-and-ethics argument, and the 1911 course on the idea of philosophy.*
+
 ### 1912 to 1924-1928 - Hua 4 - Ideas II
 
 `husserliana-4-ideas-ii-commentary`
@@ -815,6 +941,97 @@
 
 *Partial pass: Covers the Introduction and the First Section's core doctrine plus the opening of the categorial-intuition analysis: intention/fulfilment as the master contrast, the objectifying acts defined by the identification-character of their fulfilment-syntheses, static vs. dynamic fulfilment and the doubt whether identifying coincidence is already an act of identification, the free/bound modification of the intention, perception as a web of partial intentions, disappointment as a synthesis of distinction, the founding of non-objectifying (e.g. wish-) fulfilment on an identification, fulfilment as intuitivization toward the 'itself', the doctrine of fullness as a third moment beside quality and matter, pure intuition vs. pure signification, the theory of representation (apprehension-matter/sense, apprehension-form, apprehended content), representation as the ultimate substratum of every act, meaningful vs. cognitive essence and the fulfilling sense, the adaequatio rei et intellectus as ideal of ultimate fulfilment, evidence and the fourfold concept of truth, 'is' and 'is not' as matter-differences, 'being is no real predicate', and categorial objectivities as given only in founded acts. Not covered: the compatibility/incompatibility chapter, the detailed theory of categorial representation, the laws of genuine and improper thinking, and the Third Section on non-objectifying acts.*
 
+### 1923-1924 - Husserl, Hua 7 — Erste Philosophie I
+
+`husserliana-7-erste-philosophie-i-commentary`
+
+- **introduced** · `intentionalitaet/hua7-i/001` · *the pure I as subject-pole*
+  The pure I belongs to all conceivable experiences one can call one's own as an unlosable and numerically identical subject-pole, given with the strongest evidence, yet not as a real part of any experience.
+  `husserliana-7-erste-philosophie-i-commentary#h3-fifteenth-lecture-the-problem-of-immanence-and-of-the-synthetic-unity-in-conscio` · Hua VII, Fifteenth Lecture · [Fifteenth Lecture: The problem of immanence and of the synthetic unity in consciousness](https://faultynode.github.io/commentaries/commentaries/husserl/husserliana-7-erste-philosophie-i-commentary.html#fifteenth-lecture-the-problem-of-immanence-and-of-the-synthetic-unity-in-consciousness)
+  > it belongs to all conceivable experiences I am to be able to call mine, as an *unlosable and numerically identical subject-pole*. But indeed *not as a part*
+
+- **introduced** · `intentionalitaet/hua7-i/002` · *consciousness as consciousness of something*
+  As consciousness is not thinkable without I, it is also not thinkable without some objectivity that is conscious in it, so no description of consciousness is possible that does not co-describe the in-it-conscious as conscious of this consciousness.
+  `husserliana-7-erste-philosophie-i-commentary#h3-fifteenth-lecture-the-problem-of-immanence-and-of-the-synthetic-unity-in-conscio` · Hua VII, Fifteenth Lecture · [Fifteenth Lecture: The problem of immanence and of the synthetic unity in consciousness](https://faultynode.github.io/commentaries/commentaries/husserl/husserliana-7-erste-philosophie-i-commentary.html#fifteenth-lecture-the-problem-of-immanence-and-of-the-synthetic-unity-in-consciousness)
+  > As consciousness is not thinkable without I, it is also not thinkable without *something*, without some "objectivity" that is conscious in it.
+
+- **introduced** · `intentionalitaet/hua7-i/003` · *the mere intentional object*
+  The intentional relation, designated after Brentano, has an essentially other sense than other relations, and its object is the mere intentional object, the immanent one, meant purely as meant without decision as to whether it in truth be.
+  `husserliana-7-erste-philosophie-i-commentary#h3-fifteenth-lecture-the-problem-of-immanence-and-of-the-synthetic-unity-in-conscio` · Hua VII, Fifteenth Lecture · [Fifteenth Lecture: The problem of immanence and of the synthetic unity in consciousness](https://faultynode.github.io/commentaries/commentaries/husserl/husserliana-7-erste-philosophie-i-commentary.html#fifteenth-lecture-the-problem-of-immanence-and-of-the-synthetic-unity-in-consciousness)
+  > The *object of the intentional relation* — as that which is enclosed purely in the act, in the intentional experiencing itself — is the *mere intentional object*, the *immanent* one, as Brentano too, in connection with Scholasticism, introduces it.
+
+- **introduced** · `intentionalitaet/hua7-i/004` · *the tree by the brook*
+  Putting the existence of the perceived tree in question changes nothing in the fact that the perception-experience is in itself perception of "this tree," in itself related to its immanent object, even if it subsequently turned out to be illusion.
+  `husserliana-7-erste-philosophie-i-commentary#h3-fifteenth-lecture-the-problem-of-immanence-and-of-the-synthetic-unity-in-conscio` · Hua VII, Fifteenth Lecture · [Fifteenth Lecture: The problem of immanence and of the synthetic unity in consciousness](https://faultynode.github.io/commentaries/commentaries/husserl/husserliana-7-erste-philosophie-i-commentary.html#fifteenth-lecture-the-problem-of-immanence-and-of-the-synthetic-unity-in-consciousness)
+  > that changes nothing in the fact that the perception-experience is in itself perception of "this tree," and it remains what it is, perception of the same, in itself related to its immanent object, even if it subsequently turned out that this perception is to be valued as illusion.
+
+- **introduced** · `intentionalitaet/hua7-i/005` · *change of attitude / sense-modification*
+  It needs a change of attitude, the enactment of a sense-modification, to make recognizable the meant object as such in the pure immanence of the experience, under abstention from every position-taking toward its existence.
+  `husserliana-7-erste-philosophie-i-commentary#h3-fifteenth-lecture-the-problem-of-immanence-and-of-the-synthetic-unity-in-conscio` · Hua VII, Fifteenth Lecture · [Fifteenth Lecture: The problem of immanence and of the synthetic unity in consciousness](https://faultynode.github.io/commentaries/commentaries/husserl/husserliana-7-erste-philosophie-i-commentary.html#fifteenth-lecture-the-problem-of-immanence-and-of-the-synthetic-unity-in-consciousness)
+  > It therefore needs a *change of attitude*, the enactment of a *sense-modification*, to make recognizable the in the pure immanence of the experience itself "meant object as such"
+
+- **introduced** · `intentionalitaet/hua7-i/006` · *irreal immanence*
+  The bearing-in-itself of the immanent object cannot have the sense of a real (reell) immanence, as though the immanent intentional object dwelt in its consciousness as a real piece, moment or part; to regard it so would be evident countersense.
+  `husserliana-7-erste-philosophie-i-commentary#h3-fifteenth-lecture-the-problem-of-immanence-and-of-the-synthetic-unity-in-conscio` · Hua VII, Fifteenth Lecture · [Fifteenth Lecture: The problem of immanence and of the synthetic unity in consciousness](https://faultynode.github.io/commentaries/commentaries/husserl/husserliana-7-erste-philosophie-i-commentary.html#fifteenth-lecture-the-problem-of-immanence-and-of-the-synthetic-unity-in-consciousness)
+  > this bearing-in-itself *cannot* have the sense of a *real (reell) immanence* — as though the immanent intentional object dwelt in its consciousness as a real piece, a real moment, a part. To regard it so would be evident countersense.
+
+- **introduced** · `intentionalitaet/hua7-i/007` · *synthesis as production of a unitary intentional objectivity*
+  Binding of consciousness with consciousness produces, as synthesis, a unitary intentional objectivity that is, for the bound consciousness as one consciousness, its own; to treat synthesis as a real conjunction (Gestalt-qualities) is to be blind to the peculiarity of consciousness.
+  `husserliana-7-erste-philosophie-i-commentary#h3-fifteenth-lecture-the-problem-of-immanence-and-of-the-synthetic-unity-in-conscio` · Hua VII, Fifteenth Lecture · [Fifteenth Lecture: The problem of immanence and of the synthetic unity in consciousness](https://faultynode.github.io/commentaries/commentaries/husserl/husserliana-7-erste-philosophie-i-commentary.html#fifteenth-lecture-the-problem-of-immanence-and-of-the-synthetic-unity-in-consciousness)
+  > that it, as *synthesis*, produces a *unitary intentional objectivity* that is, for the bound consciousness as *one* consciousness, its own
+
+- **introduced** · `intentionalitaet/hua7-i/008` · *the I as index of a universal synthesis*
+  Parallel to the synthesis that makes conscious the identity of an object, the I itself is the index of a universal synthesis through which all the manifold consciousness that is mine has an I-ly unity, so that the standing and abiding I is continually constituted.
+  `husserliana-7-erste-philosophie-i-commentary#h3-fifteenth-lecture-the-problem-of-immanence-and-of-the-synthetic-unity-in-conscio` · Hua VII, Fifteenth Lecture · [Fifteenth Lecture: The problem of immanence and of the synthetic unity in consciousness](https://faultynode.github.io/commentaries/commentaries/husserl/husserliana-7-erste-philosophie-i-commentary.html#fifteenth-lecture-the-problem-of-immanence-and-of-the-synthetic-unity-in-consciousness)
+  > the *I* itself is the index of a *universal synthesis*, through which all the infinitely manifold consciousness that is mine has a universal unity — not the objective but the *I-ly* (*ichliche*) one
+
+- **introduced** · `intentionalitaet/hua7-i/009` · *irreal immanent contents / infinities of description*
+  Consciousness-synthesis has, in the form of the I and object poles, immanent contents that are irreal, and once one begins to see that these irrealities must be co-described as inseparable enclosures of consciousness, true infinities of descriptive work open.
+  `husserliana-7-erste-philosophie-i-commentary#h3-sixteenth-lecture-the-irreality-of-the-immanent-contents-of-the-consciousness-sy` · Hua VII, Sixteenth Lecture · [Sixteenth Lecture: The irreality of the immanent contents of the consciousness-synthesis in their I–object polarization, and the problem of intersubjectivity. Remarks on Berkeley's critique of Locke](https://faultynode.github.io/commentaries/commentaries/husserl/husserliana-7-erste-philosophie-i-commentary.html#sixteenth-lecture-the-irreality-of-the-immanent-contents-of-the-consciousness-synthesis-in-their-iobject-polarization-and-the-problem-of-intersubjectivity-remarks-on-berkeleys-critique-of-locke)
+  > consciousness-synthesis has, in the form of these poles, immanent contents that are *irreal* (*irreal*)
+
+- **introduced** · `intentionalitaet/hua7-i/010` · *the pocket-image*
+  Consciousness, even the seemingly simplest perceiving, is never an empty having of something as though the subject had its intentional objects merely lying in it as in a pocket; they are highly complicated consciousness-manners accomplishing ever-new intentional accomplishments.
+  `husserliana-7-erste-philosophie-i-commentary#h3-sixteenth-lecture-the-irreality-of-the-immanent-contents-of-the-consciousness-sy` · Hua VII, Sixteenth Lecture · [Sixteenth Lecture: The irreality of the immanent contents of the consciousness-synthesis in their I–object polarization, and the problem of intersubjectivity. Remarks on Berkeley's critique of Locke](https://faultynode.github.io/commentaries/commentaries/husserl/husserliana-7-erste-philosophie-i-commentary.html#sixteenth-lecture-the-irreality-of-the-immanent-contents-of-the-consciousness-synthesis-in-their-iobject-polarization-and-the-problem-of-intersubjectivity-remarks-on-berkeleys-critique-of-locke)
+  > *Never* is consciousness, even the seemingly simplest perceiving or without-any-attending having-conscious, an *empty having* of something, as though the subject therein had its intentional objects merely lying in it as in a pocket.
+
+- **criticized** · `intentionalitaet/hua7-i/011` · *Berkeley's blindness to intentionality*
+  Berkeley recognized the countersense of the image-theory and of the causal inference into the transcendent, but a real clarification and a theory of the intentional constitution of externality in inwardness he could not give, since he was for intentionality just as blind as Locke.
+  `husserliana-7-erste-philosophie-i-commentary#h3-sixteenth-lecture-the-irreality-of-the-immanent-contents-of-the-consciousness-sy` · Hua VII, Sixteenth Lecture · [Sixteenth Lecture: The irreality of the immanent contents of the consciousness-synthesis in their I–object polarization, and the problem of intersubjectivity. Remarks on Berkeley's critique of Locke](https://faultynode.github.io/commentaries/commentaries/husserl/husserliana-7-erste-philosophie-i-commentary.html#sixteenth-lecture-the-irreality-of-the-immanent-contents-of-the-consciousness-synthesis-in-their-iobject-polarization-and-the-problem-of-intersubjectivity-remarks-on-berkeleys-critique-of-locke)
+  > a *real clarification* and a *theory of the intentional constitution of externality in inwardness* he could not give, since he himself was for *intentionality* just as blind as Locke and therefore could not disclose an intentional problem-situation either.
+
+- **introduced** · `intentionalitaet/hua7-i/012` · *empathy as route beyond one's own nature*
+  The only way to transcend one's own subjectivity and self-experienced nature is empathy into another subjectivity, and Locke's image-theory both raises and conceals the genuine problem of how the one common nature, the same for all, is constituted across the plurality of subjects.
+  `husserliana-7-erste-philosophie-i-commentary#h3-sixteenth-lecture-the-irreality-of-the-immanent-contents-of-the-consciousness-sy` · Hua VII, Sixteenth Lecture · [Sixteenth Lecture: The irreality of the immanent contents of the consciousness-synthesis in their I–object polarization, and the problem of intersubjectivity. Remarks on Berkeley's critique of Locke](https://faultynode.github.io/commentaries/commentaries/husserl/husserliana-7-erste-philosophie-i-commentary.html#sixteenth-lecture-the-irreality-of-the-immanent-contents-of-the-consciousness-synthesis-in-their-iobject-polarization-and-the-problem-of-intersubjectivity-remarks-on-berkeleys-critique-of-locke)
+  > is *empathy* (*Einfühlung*) into another subjectivity, the inwardly motivated positing of analogous spirituality and analogous sensuous "images" like the self-experienced.
+
+- **criticized** · `intentionalitaet/hua7-i/013` · *seeing the table itself*
+  The inner images and signs on the tabula rasa are inventions of a misled reflection: it is absolutely evident that when I see a table I do not see sensation-complexes or inner images or signs but the table itself.
+  `husserliana-7-erste-philosophie-i-commentary#h3-seventeenth-lecture-on-the-question-of-the-constitution-of-externality-the-carte` · Hua VII, Seventeenth Lecture · [Seventeenth Lecture: On the question of the constitution of "externality": the Cartesian evidence of the self-givenness of things in perception](https://faultynode.github.io/commentaries/commentaries/husserl/husserliana-7-erste-philosophie-i-commentary.html#seventeenth-lecture-on-the-question-of-the-constitution-of-externality-the-cartesian-evidence-of-the-self-givenness-of-things-in-perception)
+  > is it not then *absolutely evident* that when I see, e.g., a table, a house, a tree, I do not see something like subjective sensation-complexes, or something like inner images of… or signs for a table or a house, but precisely *see the table itself, the house itself*?
+
+- **introduced** · `intentionalitaet/hua7-i/014` · *true being as unbroken confirmation*
+  By the true being of a thing one can understand nothing other than the idea, grown out of the constancy of confirmation, of a confirmation in the course of future experience never and nowhere to be broken through, and if the thing is actual it is no other than the perceived.
+  `husserliana-7-erste-philosophie-i-commentary#h3-seventeenth-lecture-on-the-question-of-the-constitution-of-externality-the-carte` · Hua VII, Seventeenth Lecture · [Seventeenth Lecture: On the question of the constitution of "externality": the Cartesian evidence of the self-givenness of things in perception](https://faultynode.github.io/commentaries/commentaries/husserl/husserliana-7-erste-philosophie-i-commentary.html#seventeenth-lecture-on-the-question-of-the-constitution-of-externality-the-cartesian-evidence-of-the-self-givenness-of-things-in-perception)
+  > I could understand by its *true being* nothing other than the *idea*, grown out of the constancy of confirmation, of a confirmation in the course of future experience never and nowhere to be broken through
+
+- **criticized** · `intentionalitaet/hua7-i/015` · *image- and sign-consciousness presuppose perception*
+  Image-consciousness and sign-consciousness are founded complex intentionalities whose sense-giving consciousness points back, according to origin and kind of its fulfilling confirmation, to possible perception of the transcendent, so the image-theory inverts the order of foundation.
+  `husserliana-7-erste-philosophie-i-commentary#h3-seventeenth-lecture-on-the-question-of-the-constitution-of-externality-the-carte` · Hua VII, Seventeenth Lecture · [Seventeenth Lecture: On the question of the constitution of "externality": the Cartesian evidence of the self-givenness of things in perception](https://faultynode.github.io/commentaries/commentaries/husserl/husserliana-7-erste-philosophie-i-commentary.html#seventeenth-lecture-on-the-question-of-the-constitution-of-externality-the-cartesian-evidence-of-the-self-givenness-of-things-in-perception)
+  > The consciousness giving them sense points itself, according to origin and kind of its fulfilling confirmation, back to *possible perception*, and to a perception of *transcendent*, if it is to be able to indicate transcendent.
+
+- **introduced** · `intentionalitaet/hua7-i/016` · *sense-giving consciousness*
+  Objects have their sense, constituting them as and as so-determined objects, out of the sense-giving consciousness, and for every basic kind of objectivity the correlative basic kinds of consciousness and consciousness-syntheses must be studied as the accomplishment in which a so-constituted objectivity constitutes itself as unity of validity.
+  `husserliana-7-erste-philosophie-i-commentary#h3-seventeenth-lecture-on-the-question-of-the-constitution-of-externality-the-carte` · Hua VII, Seventeenth Lecture · [Seventeenth Lecture: On the question of the constitution of "externality": the Cartesian evidence of the self-givenness of things in perception](https://faultynode.github.io/commentaries/commentaries/husserl/husserliana-7-erste-philosophie-i-commentary.html#seventeenth-lecture-on-the-question-of-the-constitution-of-externality-the-cartesian-evidence-of-the-self-givenness-of-things-in-perception)
+  > objects simply, in every respect and every conceivable subjective and objective sense purely materially, objectively taken, have their sense — constituting them *as*, and as so-determined, objects — out of the *sense-giving consciousness*
+
+- **introduced** · `intentionalitaet/hua7-i/017` · *curable psychologism / incurable sensualism*
+  A merely psychologistic misclassification of genuine intentional analyses is curable by the reduction, since through bracketing of all objectivity the immanent analyses survive with their essence-kernel intact, whereas a sensualistic psychologism that never even attains the elements of understanding intentionality is incurable.
+  `husserliana-7-erste-philosophie-i-commentary#h3-seventeenth-lecture-on-the-question-of-the-constitution-of-externality-the-carte` · Hua VII, Seventeenth Lecture · [Seventeenth Lecture: On the question of the constitution of "externality": the Cartesian evidence of the self-givenness of things in perception](https://faultynode.github.io/commentaries/commentaries/husserl/husserliana-7-erste-philosophie-i-commentary.html#seventeenth-lecture-on-the-question-of-the-constitution-of-externality-the-cartesian-evidence-of-the-self-givenness-of-things-in-perception)
+  > a *psychologism on the ground of such a phenomenological psychology* (and even one that had mistaken its a priori character) is *curable*.
+
+*Partial pass: Covers the Fifteenth to Seventeenth Lectures of the Second Chapter (critical disclosure of the problematic hidden in Locke): the pure I as identical non-real subject-pole, the intentional relation and the mere immanent object, the change of attitude that isolates the meant-as-meant, irreal (non-reell) immanence, synthesis as production of a unitary intentional objectivity, the double I/object polarization, the critique of the image- and sign-theory and of Berkeley's residual blindness to intentionality, empathy as the only route beyond one's own nature, true being as the idea of unbroken confirmation, sense-giving consciousness as source of all objective sense, and the curable psychologism / incurable sensualism distinction. Not covered: the First Chapter, the abstraction/intuition material of the Third Chapter, and the Hume, Berkeley, Leibniz and Kant lectures.*
+
 ### 1925 - Commentary on Heidegger, Prolegomena zur Geschichte des Zeitbegriffs (GA 20)
 
 `heidegger-ga-20-prolegomena-zur-geschichte-des-zeitbegriffs-commentary`
@@ -1309,6 +1526,102 @@
 
 *Partial pass: Covers Sections V, VII (opening) and XI: the non-reell noema as root of all repeatability, the immediate eidetics practised by speech, intentional content / noematic Kernschicht and translatability, bound vs. free idealities and omnitemporality, the geometrical object's de jure bond to transcendental subjectivity, writing as an autonomous transcendental field, virtual intentionality haunting the text, the graphic body as Leib, writing as the highest possibility of constitution, crisis as degradation of expression into indication, the Absolute of intentional historicity and the undecidable genitive, the Living Present as dialectic-of-the-dialectic-with-the-non-dialectic, and 'intentionality is traditionality / the root of historicity'. Not covered: Sections I-IV, VI, VIII-X.*
 
+### 1964 - Kern, Husserl and Kant
+
+`kern-husserl-and-kant-commentary`
+
+- **introduced** · `intentionalitaet/kern-hk/001` · *psychologism as confusion of objective and experience*
+  In the eighth chapter of the Prolegomena Husserl identifies the fundamental error of psychologism as the confusion of the objective and the experiences directed toward it, and he raises this charge against Kant as well, both where he combats Kant's psychologism and where he discusses Kantian transcendental arguments.
+  `kern-husserl-and-kant-commentary#h4-s-9-critique-of-some-false-prejudices-of-kant` · Kern, Husserl und Kant, § 9(c) · [§ 9\. Critique of Some False Prejudices of Kant](https://faultynode.github.io/commentaries/commentaries/kern/kern-husserl-and-kant-commentary.html#critique-of-some-false-prejudices-of-kant)
+  > Husserl identifies the fundamental error of psychologism as the confusion of the objective and the experiences directed toward it. He raises this charge against Kant as well
+
+- **introduced** · `intentionalitaet/kern-hk/002` · *intentional experience / objective sense*
+  For Husserl the distinction between intentional experience and objective sense constitutes the fundamental structure of phenomenological research.
+  `kern-husserl-and-kant-commentary#h4-s-9-critique-of-some-false-prejudices-of-kant` · Kern, Husserl und Kant, § 9(c) · [§ 9\. Critique of Some False Prejudices of Kant](https://faultynode.github.io/commentaries/commentaries/kern/kern-husserl-and-kant-commentary.html#critique-of-some-false-prejudices-of-kant)
+  > For Husserl, the distinction between intentional experience and objective sense constitutes the fundamental structure of phenomenological research.
+
+- **criticized** · `intentionalitaet/kern-hk/003` · *confusion of intuiting and intuited*
+  Under the title 'pure intuition' Kant does not distinguish pure intuiting (the giving consciousness of ideation) from the idea of space itself, and there is a constant confusion between the experience of appearing and the appearing-as-such.
+  `kern-husserl-and-kant-commentary#h4-s-9-critique-of-some-false-prejudices-of-kant` · Kern, Husserl und Kant, § 9(c) · [§ 9\. Critique of Some False Prejudices of Kant](https://faultynode.github.io/commentaries/commentaries/kern/kern-husserl-and-kant-commentary.html#critique-of-some-false-prejudices-of-kant)
+  > under the title "pure intuition" Kant does not distinguish pure intuiting (the giving consciousness of ideation) from the idea of space itself.
+
+- **criticized** · `intentionalitaet/kern-hk/004` · *noesis-noema confusion in Kant*
+  Husserl notes in the Transcendental Analytic the lack of a clear distinction between intuitions and what is intuited, between forms of appearances as modes of consciousness and forms of the appearing objectivity, and holds that this is why the transcendental deduction becomes so confused and the transcendental apperception harbours so many mysteries.
+  `kern-husserl-and-kant-commentary#h4-s-9-critique-of-some-false-prejudices-of-kant` · Kern, Husserl und Kant, § 9(c) · [§ 9\. Critique of Some False Prejudices of Kant](https://faultynode.github.io/commentaries/commentaries/kern/kern-husserl-and-kant-commentary.html#critique-of-some-false-prejudices-of-kant)
+  > the lack of a clear distinction between intuitions and what is intuited, between forms of appearances as modes of consciousness and forms of the appearing objectivity — and that this is why the transcendental deduction becomes so confused and the transcendental apperception harbors so many mysteries.
+
+- **introduced** · `intentionalitaet/kern-hk/005` · *transcendental logic requires transcendental noetics*
+  Because Kant's one-sided orientation toward the noematic left the accomplishing subjectivity and its consciousness-functions unstudied, a transcendental logic is possible only within a transcendental noetics, whose radically scientific execution requires the full concrete consciousness-life to be subjected to study.
+  `kern-husserl-and-kant-commentary#h4-s-9-critique-of-some-false-prejudices-of-kant` · Kern, Husserl und Kant, § 9(c) · [§ 9\. Critique of Some False Prejudices of Kant](https://faultynode.github.io/commentaries/commentaries/kern/kern-husserl-and-kant-commentary.html#critique-of-some-false-prejudices-of-kant)
+  > A transcendental logic is possible only within a transcendental noetics.
+
+- **revised** · `intentionalitaet/kern-hk/006` · *sensibility and understanding as a unity*
+  For Husserl sensibility and understanding/reason are not strictly separated but flow into one another; indeed they are not two different domains but two aspects of a deeper unity.
+  `kern-husserl-and-kant-commentary#h4-s-9-critique-of-some-false-prejudices-of-kant` · Kern, Husserl und Kant, § 9(b) · [§ 9\. Critique of Some False Prejudices of Kant](https://faultynode.github.io/commentaries/commentaries/kern/kern-husserl-and-kant-commentary.html#critique-of-some-false-prejudices-of-kant)
+  > For Husserl, sensibility and understanding/reason are not strictly separated but flow into one another; indeed, they are not two different domains but two aspects of a deeper unity.
+
+- **introduced** · `intentionalitaet/kern-hk/007` · *experiencing reason*
+  From about 1909 Husserl uses 'reason' and 'understanding' also for simple thing-experience, which he always already thought of as sense-apprehension rather than as empiricist succession of sensations, and speaks of an 'experiencing reason' in which the objects of all regions constitute themselves.
+  `kern-husserl-and-kant-commentary#h4-s-9-critique-of-some-false-prejudices-of-kant` · Kern, Husserl und Kant, § 9(b) · [§ 9\. Critique of Some False Prejudices of Kant](https://faultynode.github.io/commentaries/commentaries/kern/kern-husserl-and-kant-commentary.html#critique-of-some-false-prejudices-of-kant)
+  > which he always already thought of as sense-apprehension rather than as empiricist succession of sensations. He now speaks of "experiencing reason" in which the objects of all regions constitute themselves.
+
+- **introduced** · `intentionalitaet/kern-hk/008` · *spontaneity interwoven with receptivity*
+  For Husserl the distinction of activity and passivity is only relative: spontaneity is always interwoven with receptivity, receptivity is itself the lowest level of spontaneity, and in the receptivity in which real things constitute themselves the spontaneity of sensuous apprehension already functions.
+  `kern-husserl-and-kant-commentary#h4-s-9-critique-of-some-false-prejudices-of-kant` · Kern, Husserl und Kant, § 9(b) · [§ 9\. Critique of Some False Prejudices of Kant](https://faultynode.github.io/commentaries/commentaries/kern/kern-husserl-and-kant-commentary.html#critique-of-some-false-prejudices-of-kant)
+  > Spontaneity is always interwoven with receptivity; receptivity is itself the lowest level of spontaneity. The real things of simple experience constitute themselves in receptivity, in sensibility; but in this receptivity the spontaneity of sensuous apprehension already functions.
+
+- **introduced** · `intentionalitaet/kern-hk/009` · *secondary sensibility / primal hyle as limiting concept*
+  Conversely, higher acts of reason produce a possession toward which the subject then behaves passively ('reason that has sunk down into sensibility', 'secondary sensibility'), while 'absolute' sensibility is only primal sensibility, the primal hyle, ultimately a mere limiting concept.
+  `kern-husserl-and-kant-commentary#h4-s-9-critique-of-some-false-prejudices-of-kant` · Kern, Husserl und Kant, § 9(b) · [§ 9\. Critique of Some False Prejudices of Kant](https://faultynode.github.io/commentaries/commentaries/kern/kern-husserl-and-kant-commentary.html#critique-of-some-false-prejudices-of-kant)
+  > Husserl speaks of "reason that has sunk down into sensibility" or "secondary sensibility." "Absolute" sensibility is for him only primal sensibility, the primal hyle, ultimately a mere limiting concept.
+
+- **introduced** · `intentionalitaet/kern-hk/010` · *the a priori of sensibility*
+  Husserl can formulate the sentence paradoxical for Kantian ears that for every sensibility there are a priori laws, and that every sort of sensibility is a sphere of genuine rationality, of pure reason in the proper sense.
+  `kern-husserl-and-kant-commentary#h4-s-9-critique-of-some-false-prejudices-of-kant` · Kern, Husserl und Kant, § 9(b) · [§ 9\. Critique of Some False Prejudices of Kant](https://faultynode.github.io/commentaries/commentaries/kern/kern-husserl-and-kant-commentary.html#critique-of-some-false-prejudices-of-kant)
+  > For every sensibility there are a priori laws; every sort of sensibility is a sphere of genuine rationality, of pure reason in the proper sense.
+
+- **introduced** · `intentionalitaet/kern-hk/011` · *Kant's de facto phenomenological attitude*
+  Kant's thinking de facto moves within the framework of the phenomenological attitude, and the force of his genuinely transcendental theories rests on pure intuitions drawn from original sources, but it makes an essential difference whether one naively theorizes in that attitude or achieves principled clarity about its essence.
+  `kern-husserl-and-kant-commentary#h4-s-11-husserl-s-kant-critique-from-the-standpoint-of-transcendental-philosophical` · Kern, Husserl und Kant, § 11(a) · [§ 11\. Husserl's Kant-Critique from the Standpoint of Transcendental-Philosophical Method](https://faultynode.github.io/commentaries/commentaries/kern/kern-husserl-and-kant-commentary.html#husserls-kant-critique-from-the-standpoint-of-transcendental-philosophical-method)
+  > Kant's thinking *de facto* moves within the framework of phenomenological attitude, and the force of his genuinely transcendental theories rests on pure intuitions drawn from original sources. But it makes an essential difference whether one naively theorizes in phenomenological attitude or achieves principled clarity about its essence.
+
+- **introduced** · `intentionalitaet/kern-hk/012` · *the principle of all principles*
+  Husserl's 'principle of all principles' demands that everything that presents itself in intuition be accepted as it gives itself, and his 'positivism' means accepting only what is originally given and refusing to go behind or beyond what intuition delivers.
+  `kern-husserl-and-kant-commentary#h4-s-11-husserl-s-kant-critique-from-the-standpoint-of-transcendental-philosophical` · Kern, Husserl und Kant, § 11(b) · [§ 11\. Husserl's Kant-Critique from the Standpoint of Transcendental-Philosophical Method](https://faultynode.github.io/commentaries/commentaries/kern/kern-husserl-and-kant-commentary.html#husserls-kant-critique-from-the-standpoint-of-transcendental-philosophical-method)
+  > Husserl's "principle of all principles" demands that everything that presents itself in intuition be accepted as it gives itself. Husserl's "positivism" means accepting only what is originally given and refusing to go behind or beyond what intuition delivers.
+
+- **criticized** · `intentionalitaet/kern-hk/013` · *Kant's constructive method / lack of intentional analysis*
+  Kant's transcendental philosophy constructs hypothetical explanatory principles rather than demonstrating them in intuitive evidence, and the lack of the phenomenological reduction is the deepest reason for his overlooking the possibility of a transcendental experience.
+  `kern-husserl-and-kant-commentary#h4-s-11-husserl-s-kant-critique-from-the-standpoint-of-transcendental-philosophical` · Kern, Husserl und Kant, § 11(b) · [§ 11\. Husserl's Kant-Critique from the Standpoint of Transcendental-Philosophical Method](https://faultynode.github.io/commentaries/commentaries/kern/kern-husserl-and-kant-commentary.html#husserls-kant-critique-from-the-standpoint-of-transcendental-philosophical-method)
+  > Kant's transcendental philosophy constructs hypothetical explanatory principles rather than demonstrating them in intuitive evidence.
+
+- **introduced** · `intentionalitaet/kern-hk/014` · *way from above / way from below*
+  Kern distinguishes two paths of the transcendental deduction: the way 'from above' (from the idea of objectivity to its subjective conditions, the Kantian regressive path) and the way 'from below' (from concrete experience up to the constitutive conditions), Husserl holding that eidetic variation offers a more direct path.
+  `kern-husserl-and-kant-commentary#h4-s-15-husserl-and-kant-s-thought-of-the-transcendental-deduction-of-the-a-priori` · Kern, Husserl und Kant, § 15 · [§ 15\. Husserl and Kant's Thought of the Transcendental Deduction of the A Priori](https://faultynode.github.io/commentaries/commentaries/kern/kern-husserl-and-kant-commentary.html#husserl-and-kants-thought-of-the-transcendental-deduction-of-the-a-priori)
+  > the way "from above" (starting from the idea of objectivity and asking what subjective conditions make it possible — the Kantian regressive path) and the way "from below" (starting from the analysis of concrete experience and working up to the constitutive conditions).
+
+- **introduced** · `intentionalitaet/kern-hk/015` · *the way via ontology*
+  The way via ontology starts from the positive sciences or ontology, recognizes the necessary reference of all objective a priori to constituting subjectivity, and thereby achieves the transcendental turn, yielding the sense of the reduction ultimately intended by Husserl.
+  `kern-husserl-and-kant-commentary#h4-s-18-the-significance-of-kant-s-return-to-subjectivity-for-husserl-s-idea-of-the` · Kern, Husserl und Kant, § 18(c) · [§ 18\. The Significance of Kant's Return to Subjectivity for Husserl's Idea of the Transcendental-Phenomenological Reduction](https://faultynode.github.io/commentaries/commentaries/kern/kern-husserl-and-kant-commentary.html#the-significance-of-kants-return-to-subjectivity-for-husserls-idea-of-the-transcendental-phenomenological-reduction)
+  > recognizing the necessary reference of all objective a priori to constituting subjectivity, and thereby achieving the transcendental turn.
+
+- **criticized** · `intentionalitaet/kern-hk/016` · *Natorp's collapse of act and content*
+  Natorp rejected the distinction between content of consciousness and act of consciousness, conceiving the sole graspable expression of consciousness as the connection of consciousness-contents, and Husserl found lacking in Natorp a distinction between noema, noesis, and sensation and any special noetics.
+  `kern-husserl-and-kant-commentary#h4-s-32-critique-of-natorp-s-concept-of-subjectivity` · Kern, Husserl und Kant, § 32 · [§ 32\. Critique of Natorp's Concept of Subjectivity](https://faultynode.github.io/commentaries/commentaries/kern/kern-husserl-and-kant-commentary.html#critique-of-natorps-concept-of-subjectivity)
+  > Natorp rejected the distinction between content of consciousness and act of consciousness. He conceived the sole graspable expression of consciousness as the connection of consciousness-contents.
+
+- **introduced** · `intentionalitaet/kern-hk/017` · *the constructive character of Husserl's noetics*
+  Kern observes that Husserl's actually practiced consciousness-research corresponds to a large extent to Natorp's position, the constructive character of Husserl's own noetics being acknowledged, along with Natorp's influence on Husserl's inclusion of the noema within phenomenology and on his doctrine of the ego-pole.
+  `kern-husserl-and-kant-commentary#h4-s-32-critique-of-natorp-s-concept-of-subjectivity` · Kern, Husserl und Kant, § 32 · [§ 32\. Critique of Natorp's Concept of Subjectivity](https://faultynode.github.io/commentaries/commentaries/kern/kern-husserl-and-kant-commentary.html#critique-of-natorps-concept-of-subjectivity)
+  > Husserl's actually practiced consciousness-research corresponds to a large extent to Natorp's position — the constructive character of Husserl's own noetics is acknowledged.
+
+- **introduced** · `intentionalitaet/kern-hk/018` · *real vs. intentional immanence*
+  Against Rickert's rejection of the pure immanence-standpoint, Husserl demands a purely immanent epistemology while himself rejecting the 'real' immanence-standpoint as opposed to 'intentional' immanence.
+  `kern-husserl-and-kant-commentary#h4-s-34-critique-of-rickert-s-presuppositions-in-posing-the-problem-of-the-object-o` · Kern, Husserl und Kant, § 34 · [§ 34\. Critique of Rickert's Presuppositions in Posing the Problem of the Object of Knowledge](https://faultynode.github.io/commentaries/commentaries/kern/kern-husserl-and-kant-commentary.html#critique-of-rickerts-presuppositions-in-posing-the-problem-of-the-object-of-knowledge)
+  > Husserl's rejection of the "real" immanence-standpoint (as opposed to "intentional" immanence) is noted
+
+*Partial pass: Covers the intentionality-relevant strands of Kern's reconstruction: psychologism as the confusion of the objective with the experiences directed toward it, and the distinction of intentional experience and objective sense as the fundamental structure of phenomenological research; the charge that Kant confuses pure intuiting with the idea intuited and lacks a clear noesis/noema distinction, so that a transcendental logic is possible only within a transcendental noetics; Husserl's treatment of sensibility and understanding as two aspects of a deeper unity, 'experiencing reason', spontaneity as always interwoven with receptivity, secondary sensibility and the primal hyle as a limiting concept, and the a priori of every sensibility; the principle of all principles and the critique of Kant's constructive method for lacking intentional analysis, alongside the concession that Kant de facto moves in the phenomenological attitude; the way from above and the way from below in the transcendental deduction, and the way via ontology that recognizes the reference of all objective a priori to constituting subjectivity; the critique of Natorp's collapse of act and content and the acknowledged constructive character of Husserl's own noetics; and the distinction of real from intentional immanence. Not covered: the historical overview, the analytic/synthetic and natura-formaliter-spectata chapters, and the detailed Natorp/Rickert critique.*
+
 ### 1965 - Philosophie et phénoménologie du corps — Commentary
 
 `henry-philosophie-et-phenomenologie-du-corps-commentary`
@@ -1394,6 +1707,112 @@
   > intentionality can be said finite insofar as it relates to a *world*. So understood, finitude is an essential qualification belonging to the being of human reality as such. Every intentionality obeys, by reason of its principled transcendence, this concept.
 
 *Partial pass: Covers Chapter I § 1 and about two-thirds of the Conclusion: Henry's concept of non-intentional 'reflection' and transcendental inner experience, the polemic against 'ontological monism', the thesis that the subjective body is a structure of immanent (non-objectivating) intentionalities that is not constituted, the organic body as non-represented correlate, 'I am my body', action as intentional-but-immanent, and the fourfold sense of finitude. Not covered: the Introduction, Chapter I § 2 (transcendental deduction of the categories), and Chapters II-VI (the subjective body, movement and sensing, the double use of signs, the critique of Maine de Biran on passivity).*
+
+### 1981 - Franck, Chair et corps
+
+`franck-chair-et-corps-commentary`
+
+- **introduced** · `intentionalitaet/franck-cc/001` · *intentionality / the thing as intended*
+  Franck reads intentionality as Husserl's answer to whether the thing's relation to lived experience can be understood as irreal: the thing has meaning only as something intended, a relation to transcendence given in the flesh within lived experience itself.
+  `franck-chair-et-corps-commentary#h2-chapter-one-self-givenness-and-incarnate-givenness` · Chair et corps, ch. One · [Chapter One: Self-Givenness and Incarnate Givenness](https://faultynode.github.io/commentaries/commentaries/fanck/franck-chair-et-corps-commentary.html#chapter-one-self-givenness-and-incarnate-givenness)
+  > the thing has meaning only as something intended, as a relation to transcendence that is given in the flesh within lived experience itself. If this relation is identical with lived experience, and if its objective term (the noema) is intentionally contained within it, then this new sense of immanence makes incarnate perception phenomenologically intelligible.
+
+- **introduced** · `intentionalitaet/franck-cc/002` · *intentional immanence / noema contained irreally*
+  The move to idealism is commonly said to be made possible by Husserl's discovery of a new sense of immanence, intentional immanence, and that the noema is contained irreally within the noesis, which made the objective term of the intentional relation phenomenologically accessible.
+  `franck-chair-et-corps-commentary#h2-chapter-one-self-givenness-and-incarnate-givenness` · Chair et corps, ch. One · [Chapter One: Self-Givenness and Incarnate Givenness](https://faultynode.github.io/commentaries/commentaries/fanck/franck-chair-et-corps-commentary.html#chapter-one-self-givenness-and-incarnate-givenness)
+  > what made the move possible was Husserl's discovery of a new sense of immanence — namely, intentional immanence — and his discovery that the noema is contained "irreally" within the noesis (i.e., contained as a structural moment of intentional sense, not as a real psychological part). This new sense of immanence made the objective term of the intentional relation phenomenologically accessible
+
+- **criticized** · `intentionalitaet/franck-cc/003` · *intentionality founded on ecstatic temporality*
+  Franck draws from Heidegger's note in Being and Time §69 that the relation between intentional consciousness and Dasein is one of founding: intentionality is to be founded on the ecstatic temporality of Dasein.
+  `franck-chair-et-corps-commentary#h2-chapter-one-self-givenness-and-incarnate-givenness` · Being and Time § 69 · [Chapter One: Self-Givenness and Incarnate Givenness](https://faultynode.github.io/commentaries/commentaries/fanck/franck-chair-et-corps-commentary.html#chapter-one-self-givenness-and-incarnate-givenness)
+  > The relation between intentional consciousness and *Dasein* is a relation of *founding*: intentionality is to be founded on the ecstatic temporality of Dasein.
+
+- **revised** · `intentionalitaet/franck-cc/004` · *intentionality and flesh*
+  Franck's guiding thesis is that the meaning of intentionality is worked out in an analysis of perception and that its full depth cannot be reached without a thematic treatment of flesh.
+  `franck-chair-et-corps-commentary#h2-chapter-one-self-givenness-and-incarnate-givenness` · Chair et corps, ch. One · [Chapter One: Self-Givenness and Incarnate Givenness](https://faultynode.github.io/commentaries/commentaries/fanck/franck-chair-et-corps-commentary.html#chapter-one-self-givenness-and-incarnate-givenness)
+  > the meaning of intentionality is itself worked out in an analysis of perception, and the full depth of this meaning, Franck contends, cannot be reached without a thematic treatment of flesh.
+
+- **presupposed** · `intentionalitaet/franck-cc/005` · *intentional analysis*
+  Intentional analysis is the analysis of the transcendental ego insofar as the ego includes and constitutes all possible objectivity, with the correlative noema and noesis as its dual orientation.
+  `franck-chair-et-corps-commentary#h2-chapter-three-flesh-and-body-in-perception` · Cartesian Meditations, Second Meditation · [Chapter Three: Flesh and Body in Perception](https://faultynode.github.io/commentaries/commentaries/fanck/franck-chair-et-corps-commentary.html#chapter-three-flesh-and-body-in-perception)
+  > Intentional analysis is thus the analysis of the transcendental ego insofar as the ego includes and constitutes all possible objectivity.
+
+- **introduced** · `intentionalitaet/franck-cc/006` · *phenomenology of perception*
+  Phenomenology is always a phenomenology of perception for essential and historical reasons: overcoming transcendental psychologism requires a new analysis of perception faithful to original intuitive givenness.
+  `franck-chair-et-corps-commentary#h2-chapter-three-flesh-and-body-in-perception` · Cartesian Meditations, Second Meditation · [Chapter Three: Flesh and Body in Perception](https://faultynode.github.io/commentaries/commentaries/fanck/franck-chair-et-corps-commentary.html#chapter-three-flesh-and-body-in-perception)
+  > If phenomenology is always a phenomenology of perception, this is for essential and profoundly historical reasons.
+
+- **introduced** · `intentionalitaet/franck-cc/007` · *the die (Würfel) example*
+  One and the same die is intended as appearing through a multiform changing multiplicity of manners of appearing that flow in the unity of a synthesis, against an always co-intended absolute Here that is my co-appearing flesh-body.
+  `franck-chair-et-corps-commentary#h2-chapter-three-flesh-and-body-in-perception` · Cartesian Meditations § 17 · [Chapter Three: Flesh and Body in Perception](https://faultynode.github.io/commentaries/commentaries/fanck/franck-chair-et-corps-commentary.html#chapter-three-flesh-and-body-in-perception)
+  > in them one and the same die is intended as appearing. The same die appears now in "near appearances," now in "far appearances," in changing modes of Here and There, against an always co-intended though perhaps unheeded absolute Here — namely, my co-appearing flesh-body (*Leib*).
+
+- **introduced** · `intentionalitaet/franck-cc/008` · *synthesis of identification / adumbration*
+  The unity of the thing is grounded in the harmonious convergence of the adumbrations, resting on a synthesis of identification whose fundamental form is internal time-consciousness, and the adequate givenness of a transcendent thing is an Idea in the Kantian sense.
+  `franck-chair-et-corps-commentary#h2-chapter-three-flesh-and-body-in-perception` · Chair et corps, ch. Three · [Chapter Three: Flesh and Body in Perception](https://faultynode.github.io/commentaries/commentaries/fanck/franck-chair-et-corps-commentary.html#chapter-three-flesh-and-body-in-perception)
+  > it rests on a *synthesis of identification* whose fundamental form is internal time-consciousness. And — just like the temporal flow itself — the adequate givenness of a transcendent thing is an Idea in the Kantian sense
+
+- **introduced** · `intentionalitaet/franck-cc/009` · *intentional analysis (not real analysis) / Mehrmeinung*
+  Intentional analysis is not a real psychological analysis and involves no empiricist sensualism of intentionality; each cogito intends more than what is actually there, and without this meaning-more intentional analysis could not proceed.
+  `franck-chair-et-corps-commentary#h2-chapter-three-flesh-and-body-in-perception` · Cartesian Meditations § 20 · [Chapter Three: Flesh and Body in Perception](https://faultynode.github.io/commentaries/commentaries/fanck/franck-chair-et-corps-commentary.html#chapter-three-flesh-and-body-in-perception)
+  > It is not a real (psychological) analysis — there is no empiricist sensualism of intentionality; rather, it unfolds, distinguishes, and clarifies the richness of horizons and infinite potentialities harboured and concealed in each actuality.
+
+- **introduced** · `intentionalitaet/franck-cc/010` · *transcendental clue*
+  The circularity by which intentional analysis reveals intentionality as its own basis is accepted on the condition that the intentional object serve as a transcendental clue for displaying the constitutive noetic structures.
+  `franck-chair-et-corps-commentary#h2-chapter-three-flesh-and-body-in-perception` · Cartesian Meditations § 21 · [Chapter Three: Flesh and Body in Perception](https://faultynode.github.io/commentaries/commentaries/fanck/franck-chair-et-corps-commentary.html#chapter-three-flesh-and-body-in-perception)
+  > the intentional object must serve as a *transcendental clue* for displaying the constitutive noetic structures. This affirms a relative and methodological privilege of the constituted
+
+- **introduced** · `intentionalitaet/franck-cc/011` · *noema / perceptual sense*
+  The noema is an intentional component of lived experience, given in its immanence, so that sense is indifferent to the reality or non-reality of the object; the noema is neither a real component of perception nor a mental copy of a real object.
+  `franck-chair-et-corps-commentary#h2-chapter-four-constitutive-analysis` · Ideas I §§ 88-90 · [Chapter Four: Constitutive Analysis](https://faultynode.github.io/commentaries/commentaries/fanck/franck-chair-et-corps-commentary.html#chapter-four-constitutive-analysis)
+  > The noema is an intentional component of lived experience — for example, perception has its noema, most basically the *perceptual sense*, the perceived as perceived — given in the immanence of lived experience. As a result, sense is *indifferent* to the reality or non-reality of the object.
+
+- **introduced** · `intentionalitaet/franck-cc/012` · *noematic core / being-characteristics*
+  The noema is broken into a core and the characteristics of its being; the being-characteristics are the noematic correlates of the doxic characteristics, so that reality is the noematic correlate of certainty.
+  `franck-chair-et-corps-commentary#h2-chapter-four-constitutive-analysis` · Ideas I §§ 99-104 · [Chapter Four: Constitutive Analysis](https://faultynode.github.io/commentaries/commentaries/fanck/franck-chair-et-corps-commentary.html#chapter-four-constitutive-analysis)
+  > The being-characteristics are the noematic correlates of the doxic characteristics (the modalities of belief: certainty, doubt, supposition, etc.). Reality is thus the noematic correlate of *certainty*.
+
+- **introduced** · `intentionalitaet/franck-cc/013` · *the determinable X*
+  The object pure and simple, the point of identity, must be distinguished from the object in the how of its determinations; Husserl reserves "sense" for the latter, and it is by means of the bare X that all sense has its object.
+  `franck-chair-et-corps-commentary#h2-chapter-four-constitutive-analysis` · Ideas I § 131 · [Chapter Four: Constitutive Analysis](https://faultynode.github.io/commentaries/commentaries/fanck/franck-chair-et-corps-commentary.html#chapter-four-constitutive-analysis)
+  > The object pure and simple — the point of identity — must be distinguished from the object in the *how* of its determinations. Husserl reserves the word "sense" for the second of these concepts of the object; it is by means of this X — the bare pole — that all sense has its object
+
+- **introduced** · `intentionalitaet/franck-cc/014` · *evidence as archi-phenomenon of intentional life*
+  As original givenness, evidence is the archi-phenomenon of intentional life and the a priori structural form of consciousness, so that to constitute is to provide evidence of incarnate givenness.
+  `franck-chair-et-corps-commentary#h2-chapter-four-constitutive-analysis` · Ideas I § 136 · [Chapter Four: Constitutive Analysis](https://faultynode.github.io/commentaries/commentaries/fanck/franck-chair-et-corps-commentary.html#chapter-four-constitutive-analysis)
+  > As original givenness, evidence is the archi-phenomenon of intentional life — the *a priori* structural form of consciousness.
+
+- **revised** · `intentionalitaet/franck-cc/015` · *pure ego / regard-to-the-Object*
+  The pure ego is the source of the regard directed at the object that runs through every actual cogito, a transcendency that is not constituted, a transcendency within immanency that must not be excluded.
+  `franck-chair-et-corps-commentary#h2-chapter-five-eidetic-reduction-and-archi-facticity` · Ideas I § 80 · [Chapter Five: Eidetic Reduction and Archi-Facticity](https://faultynode.github.io/commentaries/commentaries/fanck/franck-chair-et-corps-commentary.html#chapter-five-eidetic-reduction-and-archi-facticity)
+  > in that process the subject is "directing" himself to the intentional Object. To the cogito itself belongs, as immanent within it, a "regard-to-the-Object," which on the other side wells forth from the "Ego," which therefore can never be lacking.
+
+- **revised** · `intentionalitaet/franck-cc/016` · *unification of the flow / no-ego reversal*
+  With the discovery of the irreal inclusion of the noema it is no longer possible to unify the flow of lived experiences on the basis of their contents, since what unifies the flow cannot itself be unified by the flow, which is why a unifying egological principle becomes necessary.
+  `franck-chair-et-corps-commentary#h2-chapter-five-eidetic-reduction-and-archi-facticity` · Chair et corps, ch. Five · [Chapter Five: Eidetic Reduction and Archi-Facticity](https://faultynode.github.io/commentaries/commentaries/fanck/franck-chair-et-corps-commentary.html#chapter-five-eidetic-reduction-and-archi-facticity)
+  > with the discovery of the irreal inclusion of the noema — the discovery necessary to explain the incarnate givenness of transcendent things in perception — it is no longer possible to unify the flow of lived experiences on the basis of their contents
+
+- **introduced** · `intentionalitaet/franck-cc/017` · *active act / passive intentionality*
+  Each act is actively born from the ego, which presupposes that the ego has already been affected: a passive intentionality, not under the control of the actual ego, has already delivered an object capable of affecting the ego and prompting it to act.
+  `franck-chair-et-corps-commentary#h2-chapter-five-eidetic-reduction-and-archi-facticity` · Cartesian Meditations §§ 38-39 · [Chapter Five: Eidetic Reduction and Archi-Facticity](https://faultynode.github.io/commentaries/commentaries/fanck/franck-chair-et-corps-commentary.html#chapter-five-eidetic-reduction-and-archi-facticity)
+  > Each act is *actively born* from the ego. This presupposes that the ego has *already* been affected — that a passive intentionality, not under the control of the actual ego, has already delivered an object capable of affecting the ego and prompting it to act.
+
+- **introduced** · `intentionalitaet/franck-cc/018` · *association / passive genesis*
+  The universal principle of passive genesis bears the title association (distinct from Hume's concept), and associative genesis is an essential law of intentionality operative in all passive constitution, an a priori for the constitution of any ego.
+  `franck-chair-et-corps-commentary#h2-chapter-six-phenomenological-idealism` · Cartesian Meditations § 39 · [Chapter Six: Phenomenological Idealism](https://faultynode.github.io/commentaries/commentaries/fanck/franck-chair-et-corps-commentary.html#chapter-six-phenomenological-idealism)
+  > Associative genesis, as an essential law of intentionality, is operative in all passive constitution — including the constitution of immanent temporal objects (lived experiences). Consequently it is an *a priori* for all constitution of any ego.
+
+- **revised** · `intentionalitaet/franck-cc/019` · *phenomenological idealism*
+  Phenomenological idealism is not a psychological idealism in Berkeley's sense, since intentionality prevents this, and its attention to the horizonal aspect of all sense excludes the sense of an in-itself, distancing it from Kantian idealism.
+  `franck-chair-et-corps-commentary#h2-chapter-six-phenomenological-idealism` · Cartesian Meditations § 41 · [Chapter Six: Phenomenological Idealism](https://faultynode.github.io/commentaries/commentaries/fanck/franck-chair-et-corps-commentary.html#chapter-six-phenomenological-idealism)
+  > Phenomenological idealism is not a psychological idealism in Berkeley's sense; intentionality prevents this. And, since it is continually attentive to the *horizonal* aspect of all sense, intentionality also excludes the possibility — and so the *sense* — of an in-itself, and thereby distances itself from Kantian idealism.
+
+- **introduced** · `intentionalitaet/franck-cc/020` · *transcendence in immanence*
+  It is necessary to admit a transcendence within phenomenological immanence, since what is received phenomenologically is not only the retention as such but also that which is retained, each now of a retention being a retention of a not-now, and any attempt to reduce this transcendence presupposes it.
+  `franck-chair-et-corps-commentary#h2-chapter-ten-the-alteration-of-ownness` · Basic Problems of Phenomenology (WS 1910-11) · [Chapter Ten: The Alteration of Ownness](https://faultynode.github.io/commentaries/commentaries/fanck/franck-chair-et-corps-commentary.html#chapter-ten-the-alteration-of-ownness)
+  > what is received phenomenologically is not only the *retention* as such but also *that which is retained*: each now of a retention is a retention of a *not-now*.
+
+*Partial pass: Covers Chapters One, Three, Four, Five, Six and Ten of Franck's twelve-chapter book: the derivation of incarnate givenness from evidence and intentionality, perception and the die-analysis, the noema and the determinable X, the pure ego as source of the intentional regard, active and passive genesis and association, phenomenological idealism, and 'transcendence in immanence'. Not covered: the Preface, Chapter Two, and Chapters Seven through Nine and Eleven through Twelve (the intersubjectivity half of the book).*
 
 ### 1994 - Rudolf Bernet, La vie du sujet: Recherches sur l'interprétation de Husserl dans la phénoménologie — Commentary
 

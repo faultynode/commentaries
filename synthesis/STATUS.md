@@ -13,7 +13,7 @@ Corpus: **53 commentaries**, 2,934,474 words, 3902 sections indexed in `synthesi
 Next candidates, by term density:
 
 - [ ] `kant-kritik-der-reinen-vernunft-commentary` (undated) - 332 hits
-- [ ] `husserliana-28-vorlesungen-uber-ethik-und-wertlehre-commentary` (undated) - 316 hits
+- [ ] `husserliana-28-vorlesungen-uber-ethik-und-wertlehre-commentary` (1908) - 316 hits
 - [ ] `lacan-seminar-1-freuds-papers-on-technique-commentary` (undated) - 308 hits
 - [ ] `husserliana-33-die-bernauer-manuskripte-uber-das-zeitbewusstsein-commentary` (1917) - 238 hits
 - [ ] `husserl-erfahrung-und-urteil-commentary` (undated) - 234 hits
@@ -72,7 +72,7 @@ Next candidates, by term density:
 - [ ] `derrida-introduction-a-lorigine-de-la-geometrie-commentary` (1961) - 164 hits
 - [ ] `husserliana-13-basic-problems-of-phenomenology-commentary` (1910) - 135 hits
 - [ ] `husserliana-3-ideas-i-parts-3-4-commentary` (undated) - 127 hits
-- [ ] `franck-chair-et-corps-commentary` (undated) - 124 hits
+- [ ] `franck-chair-et-corps-commentary` (1981) - 124 hits
 - [ ] `Reduction et donation Commentary` (undated) - 123 hits
 - ... 44 more; see `synthesis_query.py --theme reduktion`
 
