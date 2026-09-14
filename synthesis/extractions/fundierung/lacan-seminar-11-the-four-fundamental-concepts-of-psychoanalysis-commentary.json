@@ -1,0 +1,128 @@
+{
+  "schema_version": 1,
+  "theme": "fundierung",
+  "commentary": "lacan-seminar-11-the-four-fundamental-concepts-of-psychoanalysis-commentary",
+  "source_sha256": "a565fb19ee233465943bfb2d662d66955dfab2bc8e9ee82d31b7e2bfe3d19ac8",
+  "extracted_at": "2026-09-13",
+  "extractor": {
+    "agent": "claude-code",
+    "prompt": "Stage 1 extraction, theme fundierung, per docs/synthesis-operations.md P1.",
+    "note": "This commentary ranks high on the fundierung candidate list largely on the theme's generic English search terms (function, content, foundation, ground), which are ordinary words here. Fundierung, fundiert, Sachverhalt and 'state of affairs' occur nowhere in the file. What the pass records is the narrower set of places where the commentary states that one thing is founded on another in a structural sense: the subject on the signifier, the certainty on the impossible, consciousness on the gaze, transference on the subject supposed to know."
+  },
+  "coverage": "partial",
+  "coverage_note": "Lessons III, IV, VII, X, XIV, XVI, XVIII and XIX - the sections where the commentary states a founding relation in so many words - plus checked absences at VIII and IX. Not covered: Lessons I-II, V-VI, XI-XIII, XV, XVII and XX.",
+  "units": [
+    {
+      "id": "fundierung/lacan-seminar-11/001",
+      "locator": "lacan-seminar-11-the-four-fundamental-concepts-of-psychoanalysis-commentary#h3-iii-on-the-subject-of-certainty",
+      "primary_locator": "Seminar XI, Lesson III",
+      "term": "founds (certainty / split subject)",
+      "status": "introduced",
+      "claim": "The Cartesian certainty that Freud's procedure sets out from founds not the transparent ego but the split subject.",
+      "quote": "The certainty founds not the transparent ego but the split subject."
+    },
+    {
+      "id": "fundierung/lacan-seminar-11/002",
+      "locator": "lacan-seminar-11-the-four-fundamental-concepts-of-psychoanalysis-commentary#h3-vii-anamorphosis",
+      "primary_locator": "Seminar XI, Lesson VII",
+      "term": "finds its foundation in",
+      "status": "introduced",
+      "claim": "Consciousness, in its illusion of seeing itself see itself, finds its foundation in the turned-inside-out structure of the gaze.",
+      "quote": "consciousness, in its illusion of *seeing itself see itself*, finds its foundation in *the turned-inside-out structure of the gaze*"
+    },
+    {
+      "id": "fundierung/lacan-seminar-11/003",
+      "locator": "lacan-seminar-11-the-four-fundamental-concepts-of-psychoanalysis-commentary#h3-x-presence-of-the-analyst",
+      "primary_locator": "Seminar XI, Lesson X",
+      "term": "on which a certainty is founded",
+      "status": "presupposed",
+      "claim": "The me on of the interdiction is a function of the impossible on which a certainty is founded.",
+      "quote": "it is a function of the impossible on which a certainty is founded"
+    },
+    {
+      "id": "fundierung/lacan-seminar-11/004",
+      "locator": "lacan-seminar-11-the-four-fundamental-concepts-of-psychoanalysis-commentary#h3-x-presence-of-the-analyst",
+      "primary_locator": "Seminar XI, Lesson X",
+      "term": "Truth is founded only on",
+      "status": "introduced",
+      "claim": "Truth is founded only on the fact that speech, even lying speech, appeals to it and gives rise to it.",
+      "quote": "Truth is founded only on the fact that speech, even lying speech, appeals to it and gives rise to it."
+    },
+    {
+      "id": "fundierung/lacan-seminar-11/005",
+      "locator": "lacan-seminar-11-the-four-fundamental-concepts-of-psychoanalysis-commentary#h3-xiv-the-partial-drive-and-its-circuit",
+      "primary_locator": "Seminar XI, Lesson XIV",
+      "term": "foundation of an identification",
+      "status": "presupposed",
+      "claim": "The objet a is never in the position of the aim of desire but is either pre-subjective or the foundation of an identification of the subject, or of one the subject denies.",
+      "quote": "it is either pre-subjective, or the foundation of an identification of the subject, or the foundation of an identification denied by the subject"
+    },
+    {
+      "id": "fundierung/lacan-seminar-11/006",
+      "locator": "lacan-seminar-11-the-four-fundamental-concepts-of-psychoanalysis-commentary#h3-xvi-the-subject-and-the-other-alienation",
+      "primary_locator": "Seminar XI, Lesson XVI",
+      "term": "founded on the substructure of union / intersection",
+      "status": "introduced",
+      "claim": "The two operations of the subject's relation to the Other are founded on different set-theoretic substructures, the first on union and the second on intersection.",
+      "quote": "Where the first time is founded on the substructure of *union*, the second is founded on *intersection*"
+    },
+    {
+      "id": "fundierung/lacan-seminar-11/007",
+      "locator": "lacan-seminar-11-the-four-fundamental-concepts-of-psychoanalysis-commentary#h3-xviii-of-the-subject-supposed-to-know-of-the-first-dyad-and-of-the-good",
+      "primary_locator": "Seminar XI, Lesson XVIII",
+      "term": "transference is thenceforth founded",
+      "status": "introduced",
+      "claim": "Wherever the function of the subject supposed to know can be incarnated for the subject in anyone, it follows from the definition that transference is thenceforth founded.",
+      "quote": "it results from the definition that *transference is thenceforth founded*"
+    },
+    {
+      "id": "fundierung/lacan-seminar-11/008",
+      "locator": "lacan-seminar-11-the-four-fundamental-concepts-of-psychoanalysis-commentary#h3-xviii-of-the-subject-supposed-to-know-of-the-first-dyad-and-of-the-good",
+      "primary_locator": "Seminar XI, Lesson XVIII",
+      "term": "foundation of the non-ego",
+      "status": "presupposed",
+      "claim": "When the Ich attends to what disturbs it the Lust-Ich distinguishes itself and the Unlust, foundation of the non-ego, falls.",
+      "quote": "the Lust-Ich distinguishes itself, and by the same stroke the Unlust, foundation of the non-ego, falls"
+    },
+    {
+      "id": "fundierung/lacan-seminar-11/009",
+      "locator": "lacan-seminar-11-the-four-fundamental-concepts-of-psychoanalysis-commentary#h3-xix-from-interpretation-to-transference",
+      "primary_locator": "Seminar XI, Lesson XIX",
+      "term": "what founds ... the function of freedom",
+      "status": "introduced",
+      "claim": "What founds, in the sense and radical non-sense of the subject, the function of freedom is the signifier that kills all senses.",
+      "quote": "what founds, in the sense and radical non-sense of the subject, the function of freedom, is properly this signifier that kills all senses"
+    },
+    {
+      "id": "fundierung/lacan-seminar-11/010",
+      "locator": "lacan-seminar-11-the-four-fundamental-concepts-of-psychoanalysis-commentary#h3-xix-from-interpretation-to-transference",
+      "primary_locator": "Seminar XI, Lesson XIX",
+      "term": "the foundation, the kernel of the ego-ideal",
+      "status": "presupposed",
+      "claim": "The einziger Zug, the unary trait detached in the second form of identification, is the foundation, the kernel of the ego-ideal.",
+      "quote": "the *einziger Zug*, the unary trait — *the foundation, the kernel of the ego-ideal*"
+    },
+    {
+      "id": "fundierung/lacan-seminar-11/011",
+      "locator": "lacan-seminar-11-the-four-fundamental-concepts-of-psychoanalysis-commentary#h3-xix-from-interpretation-to-transference",
+      "primary_locator": "Seminar XI, Lesson XIX",
+      "term": "founds (the subject on the residue)",
+      "status": "revised",
+      "claim": "Against a philosophy that purified the percipiens, analysis founds the subject on his encounter with the residue - the voice, the filth, the a.",
+      "quote": "analysis *founds* the subject on his encounter with the residue — the voice, the filth, the *a*"
+    }
+  ],
+  "absences": [
+    {
+      "locator": "lacan-seminar-11-the-four-fundamental-concepts-of-psychoanalysis-commentary#h3-viii-the-line-and-light",
+      "expected_because": "Lesson VII had just stated that consciousness finds its foundation in the turned-inside-out structure of the gaze (unit fundierung/lacan-seminar-11/002); Lesson VIII carries that structure through the optics of the two triangles and the screen, which is where the founding relation would have to be worked out.",
+      "note": "The relation is carried instead by the vocabulary of the cut, the screen and the stain. Ranking this commentary high for fundierung is an artifact of the theme's generic English search terms.",
+      "absent_terms": ["Fundierung", "fundiert", "founded", "founds", "foundation", "foundational", "Sachverhalt", "state of affairs", "higher objectivity", "higher-order object"]
+    },
+    {
+      "locator": "lacan-seminar-11-the-four-fundamental-concepts-of-psychoanalysis-commentary#h3-ix-what-is-a-picture",
+      "expected_because": "The lesson asks what a picture is and settles the relation between the gaze as objet a and the seen - an asymmetric dependence of the visible on the gaze, which is the place a founding claim would be made.",
+      "absent_terms": ["Fundierung", "fundiert", "founded", "founds", "foundation", "foundational", "Sachverhalt", "state of affairs", "higher objectivity", "higher-order object"]
+    }
+  ]
+}

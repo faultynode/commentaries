@@ -8,17 +8,17 @@ Corpus: **53 commentaries**, 2,934,474 words, 3902 sections indexed in `synthesi
 
 ### fundierung - founding of higher-order objectivities
 
-4 commentaries extracted · 16 units · 0 absences · 4 partial
+13 commentaries extracted · 110 units · 2 absences · 13 partial
 
 Next candidates, by term density:
 
-- [ ] `husserliana-3-ideas-i-parts-3-4-commentary` (undated) - 779 hits
-- [ ] `husserliana-19-2-sixth-logical-investigation-commentary` (undated) - 728 hits
-- [ ] `heidegger-sein-und-zeit-commentary` (1927) - 624 hits
-- [ ] `husserliana-19-1-fifth-logical-investigation-commentary` (1901) - 578 hits
-- [ ] `husserliana-43-2-studien-zur-struktur-des-bewusstseins-commentary` (undated) - 377 hits
-- [ ] `lacan-seminar-11-the-four-fundamental-concepts-of-psychoanalysis-commentary` (undated) - 370 hits
-- ... 43 more; see `synthesis_query.py --theme fundierung`
+- [ ] `kant-kritik-der-reinen-vernunft-commentary` (undated) - 332 hits
+- [ ] `husserliana-28-vorlesungen-uber-ethik-und-wertlehre-commentary` (1908) - 316 hits
+- [ ] `lacan-seminar-1-freuds-papers-on-technique-commentary` (undated) - 308 hits
+- [ ] `husserliana-33-die-bernauer-manuskripte-uber-das-zeitbewusstsein-commentary` (1917) - 238 hits
+- [ ] `husserl-erfahrung-und-urteil-commentary` (undated) - 234 hits
+- [ ] `Heidegger GA 3 - Kant und das Problem der Metaphysik Commentary` (undated) - 226 hits
+- ... 34 more; see `synthesis_query.py --theme fundierung`
 
 ### intentionalitaet - intentionality
 
@@ -72,7 +72,7 @@ Next candidates, by term density:
 - [ ] `derrida-introduction-a-lorigine-de-la-geometrie-commentary` (1961) - 164 hits
 - [ ] `husserliana-13-basic-problems-of-phenomenology-commentary` (1910) - 135 hits
 - [ ] `husserliana-3-ideas-i-parts-3-4-commentary` (undated) - 127 hits
-- [ ] `franck-chair-et-corps-commentary` (undated) - 124 hits
+- [ ] `franck-chair-et-corps-commentary` (1981) - 124 hits
 - [ ] `Reduction et donation Commentary` (undated) - 123 hits
 - ... 44 more; see `synthesis_query.py --theme reduktion`
 
@@ -175,7 +175,9 @@ These commentaries do not date their own text, so they sit off the ledger spine.
 - [ ] `husserl-formal-and-transcendental-logic-commentary`
 - [ ] `husserliana-1-cartesianische-meditationen-commentary`
 - [ ] `husserliana-3-ideas-i-commentary`
+- [ ] `husserliana-3-ideas-i-parts-3-4-commentary`
 - [ ] `husserliana-39-die-lebenswelt-commentary`
+- [ ] `husserliana-43-2-studien-zur-struktur-des-bewusstseins-commentary`
 - [ ] `husserliana-5-ideas-iii-commentary` - Hua V shares the Stein and Landgrebe strata recorded under husserliana-4-ideas-ii-commentary, per that commentary's editor's introduction. Do not copy those strata here until this commentary states them itself.
 - [ ] `mohanty-philosophy-of-edmund-husserl-commentary`
 - [ ] `picht-de-anima-commentary`

@@ -122,7 +122,7 @@
       "status": "unresolved",
       "strata": [
         {
-          "id": "hua3-undated",
+          "id": "hua3-parts-3-4-undated",
           "label": "Date not stated in the commentary",
           "year_start": null,
           "year_end": null,
@@ -441,6 +441,21 @@
       ]
     },
     {
+      "commentary": "husserliana-43-2-studien-zur-struktur-des-bewusstseins-commentary",
+      "role": "primary",
+      "status": "unresolved",
+      "strata": [
+        {
+          "id": "hua43-2-undated",
+          "label": "Date not stated in the commentary",
+          "year_start": null,
+          "year_end": null,
+          "stated_in_commentary": false,
+          "evidence": "Frontmatter gives title and volume only; the commentary opens at Part I § 1 without dating the manuscripts or the volume. The 1908/09 ethics lectures are named in § 5 only as the place Husserl had earlier spoken of beauty-values, not as the date of this text."
+        }
+      ]
+    },
+    {
       "commentary": "husserliana-5-ideas-iii-commentary",
       "role": "primary",
       "status": "unresolved",
@@ -642,6 +657,90 @@
           "year_end": 1994,
           "stated_in_commentary": true,
           "evidence": "\"References are to the pagination of the Presses Universitaires de France edition (Épiméthée, 1994)\""
+        }
+      ]
+    },
+    {
+      "commentary": "lacan-seminar-11-the-four-fundamental-concepts-of-psychoanalysis-commentary",
+      "role": "primary",
+      "status": "resolved",
+      "strata": [
+        {
+          "id": "sem11-1964",
+          "label": "Seminar XI, delivered 1964 (first lesson 15 January 1964)",
+          "year_start": 1964,
+          "year_end": 1964,
+          "stated_in_commentary": true,
+          "evidence": "Title line: \"Commentary on Lacan, The Four Fundamental Concepts of Psychoanalysis (Seminar XI, 1964)\"; Lesson I is dated \"15 January 1964\" in the commentary's own text."
+        }
+      ]
+    },
+    {
+      "commentary": "husserliana-28-vorlesungen-uber-ethik-und-wertlehre-commentary",
+      "role": "primary",
+      "status": "resolved",
+      "note": "Two layers, stated by the commentary's own opening: the 1914 course is the latest and fullest redaction of a core course of 1908/09. The commentary covers Part A, i.e. the 1914 redaction; the 1908/09 stratum is recorded because the commentary names it as what that redaction redacts, not because any unit has been assigned to it.",
+      "strata": [
+        {
+          "id": "hua28-1908-09",
+          "label": "Core ethics course, 1908/09, which the 1914 course redacts",
+          "year_start": 1908,
+          "year_end": 1909,
+          "stated_in_commentary": true,
+          "evidence": "opening note: \"the latest and fullest redaction of the core 1908/09 ethics course\""
+        },
+        {
+          "id": "hua28-1914",
+          "label": "Vorlesungen über Grundfragen zur Ethik und Wertlehre, 1914 (Part A, the range covered)",
+          "year_start": 1914,
+          "year_end": 1914,
+          "stated_in_commentary": true,
+          "evidence": "opening note: \"the lecture course *Vorlesungen über Grundfragen zur Ethik und Wertlehre* of 1914, which Ullrich Melle places first in the volume\""
+        }
+      ]
+    },
+    {
+      "commentary": "husserliana-7-erste-philosophie-i-commentary",
+      "role": "primary",
+      "status": "resolved",
+      "strata": [
+        {
+          "id": "hua7-1923-24",
+          "label": "Erste Philosophie lecture course, WS 1923/24 (First Part, Kritische Ideengeschichte)",
+          "year_start": 1923,
+          "year_end": 1924,
+          "stated_in_commentary": true,
+          "evidence": "title line: \"Commentary: *Erste Philosophie I* (1923/24): *Kritische Ideengeschichte*\""
+        }
+      ]
+    },
+    {
+      "commentary": "kern-husserl-and-kant-commentary",
+      "role": "reception",
+      "status": "resolved",
+      "strata": [
+        {
+          "id": "kern-1964",
+          "label": "Husserl und Kant, published 1964",
+          "year_start": 1964,
+          "year_end": 1964,
+          "stated_in_commentary": true,
+          "evidence": "title line: \"Iso Kern, *Husserl and Kant: An Investigation of Husserl's Relationship to Kant and to Neo-Kantianism* (1964)\""
+        }
+      ]
+    },
+    {
+      "commentary": "franck-chair-et-corps-commentary",
+      "role": "reception",
+      "status": "resolved",
+      "strata": [
+        {
+          "id": "franck-cc-1981",
+          "label": "Chair et corps: Sur la phénoménologie de Husserl, 1981",
+          "year_start": 1981,
+          "year_end": 1981,
+          "stated_in_commentary": true,
+          "evidence": "title line: \"***Chair et corps: Sur la phénoménologie de Husserl*** **(1981)**\""
         }
       ]
     }
