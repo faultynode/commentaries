@@ -1,0 +1,71 @@
+{
+  "schema_version": 1,
+  "theme": "zeitlichkeit",
+  "commentary": "husserliana-7-erste-philosophie-i-commentary",
+  "source_sha256": "caeb8c837e2fc6f2afe18b07a39cebcd9f50a3476698bd72417fd9cebd8c9703",
+  "extracted_at": "2026-09-14",
+  "extractor": {
+    "agent": "claude-code",
+    "prompt": "prompts/synthesis-pipeline/extraction-prompt.md",
+    "note": "Extracted in place of the duplicate copy of the GA 3 commentary, which stands at rank 18 of the STATUS.md list under a filename that is not a slug and so cannot carry a record."
+  },
+  "coverage": "partial",
+  "coverage_note": "The Fifteenth Lecture (immanent temporality and the non-real immanence of the intentional object) and the Twenty-third Lecture (the critique of Hume's material description). The nine other sections with term hits are not extracted.",
+  "units": [
+    {
+      "id": "zeitlichkeit/hua7/001",
+      "locator": "husserliana-7-erste-philosophie-i-commentary#h3-fifteenth-lecture-the-problem-of-immanence-and-of-the-synthetic-unity-in-conscio",
+      "primary_locator": "Fifteenth Lecture",
+      "term": "immanent time-stream",
+      "status": "introduced",
+      "claim": "The real piece of an experience is every itself-immanent temporal component of the experience-process, while memories and expectations of the same are separated experiences in immanent temporality with no piece in common.",
+      "quote": "Real piece of the experience, as datum of the immanent time-stream, is every itself-immanent temporal component of the experience-process; but the manifold memories or expectations in which we re-remember the same or pre-expect the same are, in the immanent temporality, *separated* experiences and can have no piece in common."
+    },
+    {
+      "id": "zeitlichkeit/hua7/002",
+      "locator": "husserliana-7-erste-philosophie-i-commentary#h3-fifteenth-lecture-the-problem-of-immanence-and-of-the-synthetic-unity-in-conscio",
+      "primary_locator": "Fifteenth Lecture",
+      "term": "remembered past",
+      "status": "presupposed",
+      "claim": "The past of which we are mindful is remembered past and the future expected is foreseen future, neither being a real component of the present experiencing.",
+      "quote": "The past of which we are mindful is, in the remembering itself, *remembered* past; the future we expect, in the expected itself, *foreseen* future; but as little as the actual past or future is the \"meant as such,\" the \"immanent intentional\" one, a *real component* in the present experiencing."
+    },
+    {
+      "id": "zeitlichkeit/hua7/003",
+      "locator": "husserliana-7-erste-philosophie-i-commentary#h3-fifteenth-lecture-the-problem-of-immanence-and-of-the-synthetic-unity-in-conscio",
+      "primary_locator": "Fifteenth Lecture",
+      "term": "inner temporal processes",
+      "status": "presupposed",
+      "claim": "Consciousness can also be described according to its real pieces, a predicative judgment having its steps and pieces as inner temporal processes.",
+      "quote": "evidently a predicative judgment has its set-off steps and pieces, as inner temporal processes — its subject-positing, its predicate-positing referred to it"
+    },
+    {
+      "id": "zeitlichkeit/hua7/004",
+      "locator": "husserliana-7-erste-philosophie-i-commentary#h3-twenty-third-lecture-hume-s-nominalistic-reduction-of-all-ideas-to-impressions-a",
+      "primary_locator": "Twenty-third Lecture",
+      "term": "immanent time",
+      "status": "revised",
+      "claim": "Experiences considered exclusively as events running in the universal form of immanent time admit a kind of material description, to which belongs the fleetingness of ideas against impressions.",
+      "quote": "immanent experiences, insofar as they are considered *exclusively* as events running in the universal form of immanent time, stretching through an immanent time-stretch, have also a kind of construction out of real parts and peculiarities that makes possible a kind of *material description*"
+    },
+    {
+      "id": "zeitlichkeit/hua7/005",
+      "locator": "husserliana-7-erste-philosophie-i-commentary#h3-twenty-third-lecture-hume-s-nominalistic-reduction-of-all-ideas-to-impressions-a",
+      "primary_locator": "Twenty-third Lecture",
+      "term": "individual quasi-being",
+      "status": "criticized",
+      "claim": "Hume's grading of liveliness is challenged as possibly confusing a mode of intentional intuitiveness with a mode of individual quasi-being in immanent temporality.",
+      "quote": "whether one may seriously also reckon here intensity-like differences of liveliness, and whether already here a mode of *intentional intuitiveness* is not confused with a mode of *individual quasi-being* in the immanent temporality, would still be seriously to weigh"
+    },
+    {
+      "id": "zeitlichkeit/hua7/006",
+      "locator": "husserliana-7-erste-philosophie-i-commentary#h3-twenty-third-lecture-hume-s-nominalistic-reduction-of-all-ideas-to-impressions-a",
+      "primary_locator": "Twenty-third Lecture",
+      "term": "presentification",
+      "status": "criticized",
+      "claim": "The material description is charged with failing on its own terms, since the word perception already carries the intentional reference to something as present, past or fictive.",
+      "quote": "the single word \"perception\" already carries the intentional reference (of something, as present, as past, as fictive) that Hume's material description cannot account for, so the description fails on its own terms"
+    }
+  ],
+  "absences": []
+}

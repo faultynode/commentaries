@@ -1,0 +1,80 @@
+{
+  "schema_version": 1,
+  "theme": "zeitlichkeit",
+  "commentary": "heidegger-ga-3-kant-und-das-problem-der-metaphysik-commentary",
+  "source_sha256": "dad53870fbf591408c5ecd64e89dc4c2080e037044d6ac19d426ddc14bb99f28",
+  "extracted_at": "2026-09-14",
+  "extractor": {
+    "agent": "claude-code",
+    "prompt": "prompts/synthesis-pipeline/extraction-prompt.md",
+    "note": "The corpus holds a second, un-normalized copy of this commentary under the filename 'Heidegger GA 3 - Kant und das Problem der Metaphysik Commentary.md', with the same term counts. Only this slug can carry a record; the duplicate is a filename problem, not an extraction target."
+  },
+  "coverage": "partial",
+  "coverage_note": "§§ 33-34 (the time-character of the transcendental imagination and time as pure self-affection) and § 44 (the goal of fundamental ontology). The other nine sections with term hits, § 35 among them, are not extracted.",
+  "units": [
+    {
+      "id": "zeitlichkeit/ga3/001",
+      "locator": "heidegger-ga-3-kant-und-das-problem-der-metaphysik-commentary#h4-s-34-time-as-pure-self-affection-and-the-time-character-of-the-self",
+      "primary_locator": "§ 34",
+      "term": "pure self-affection",
+      "status": "introduced",
+      "claim": "Time is said to be by its essence pure affection of itself, forming the from-itself-out-toward in such a way that the toward-which looks back into it.",
+      "quote": "Time is by its essence pure affection of itself. Indeed more: it is precisely what forms anything like a \"from-itself-out-toward...,\" in such a way that the toward-which so forming itself looks back and into the aforementioned toward."
+    },
+    {
+      "id": "zeitlichkeit/ga3/002",
+      "locator": "heidegger-ga-3-kant-und-das-problem-der-metaphysik-commentary#h4-s-34-time-as-pure-self-affection-and-the-time-character-of-the-self",
+      "primary_locator": "§ 34",
+      "term": "self-affection",
+      "status": "revised",
+      "claim": "Self-affection is not one species of affection but the origin of the structure of affection as such, the affecting and the affected being the same movement.",
+      "quote": "The paradox of an affection with nothing outside to do the affecting is resolved by making the affecting and the affected the same movement — which is why \"self-affection\" is not one species of affection but the origin of the structure of affection as such."
+    },
+    {
+      "id": "zeitlichkeit/ga3/003",
+      "locator": "heidegger-ga-3-kant-und-das-problem-der-metaphysik-commentary#h4-s-34-time-as-pure-self-affection-and-the-time-character-of-the-self",
+      "primary_locator": "§ 34",
+      "term": "Selbstheit",
+      "status": "introduced",
+      "claim": "Time as pure self-affection forms the essential structure of subjectivity, being what makes anything like being-concerned-with-oneself possible rather than striking a self already at hand.",
+      "quote": "Time as pure self-affection is not an effecting affection that strikes a self already at hand; as pure it forms the essence of anything like being-concerned-with-oneself."
+    },
+    {
+      "id": "zeitlichkeit/ga3/004",
+      "locator": "heidegger-ga-3-kant-und-das-problem-der-metaphysik-commentary#h4-s-34-time-as-pure-self-affection-and-the-time-character-of-the-self",
+      "primary_locator": "§ 34",
+      "term": "time-character of the self",
+      "status": "introduced",
+      "claim": "Time as pure self-affection is said to lie already within pure apperception as the ground of the possibility of selfhood, so that the pure finite self has time-character in itself.",
+      "quote": "With that it is manifest at a stroke that time as pure self-affection does not occur \"alongside\" pure apperception \"in the mind,\" but as the ground of the possibility of selfhood already lies within pure apperception, and so first makes the mind a mind."
+    },
+    {
+      "id": "zeitlichkeit/ga3/005",
+      "locator": "heidegger-ga-3-kant-und-das-problem-der-metaphysik-commentary#h4-s-34-time-as-pure-self-affection-and-the-time-character-of-the-self",
+      "primary_locator": "§ 34",
+      "term": "time and the I think",
+      "status": "introduced",
+      "claim": "Time and the I think are said to be the same, an original sameness Kant produced in his transcendental interpretations without expressly seeing it.",
+      "quote": "Time and the \"I think\" no longer stand over against each other as incompatible and unhomogeneous: they are the same."
+    },
+    {
+      "id": "zeitlichkeit/ga3/006",
+      "locator": "heidegger-ga-3-kant-und-das-problem-der-metaphysik-commentary#h4-s-44-the-goal-of-fundamental-ontology",
+      "primary_locator": "§ 44",
+      "term": "Zeitlichkeit",
+      "status": "presupposed",
+      "claim": "The decisive step of the existential analytic is called the concrete illumination of care as temporality.",
+      "quote": "xistential analytic is the concrete illumination of care as temporality."
+    },
+    {
+      "id": "zeitlichkeit/ga3/007",
+      "locator": "heidegger-ga-3-kant-und-das-problem-der-metaphysik-commentary#h4-s-44-the-goal-of-fundamental-ontology",
+      "primary_locator": "§ 44",
+      "term": "constant presence",
+      "status": "criticized",
+      "claim": "Aristotle's analysis of time is said to be guided by an understanding of being as constant presence, determining the being of time from the now.",
+      "quote": "it can be shown that precisely this analysis of time is guided by an understanding of being which — concealed from itself in its doing — understands being as constant presence and accordingly determines the \"being\" of time from the \"now,\" that is, from that character of time which in it is always and constantly present"
+    }
+  ],
+  "absences": []
+}

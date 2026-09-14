@@ -1,0 +1,75 @@
+{
+  "schema_version": 1,
+  "theme": "zeitlichkeit",
+  "commentary": "derrida-la-voix-et-le-phenomene-commentary",
+  "source_sha256": "4827e7d85b4a7071fe9fbf83dd055116407098d0eed75e1a3b0a32f970ca0961",
+  "extracted_at": "2026-09-14",
+  "extractor": {
+    "agent": "claude-code",
+    "prompt": "prompts/synthesis-pipeline/extraction-prompt.md",
+    "note": "This file is a reader's guide rather than a unit-by-unit commentary; its sections are short and summarizing, and the record is bounded accordingly."
+  },
+  "coverage": "partial",
+  "coverage_note": "The Introduction section on temporalization and the Chapter V section on the time-consciousness lectures, which carry 16 of the file's 30 term hits. The summary and key-terms sections and the four remaining sections with hits are not extracted.",
+  "units": [
+    {
+      "id": "zeitlichkeit/vp/001",
+      "locator": "derrida-la-voix-et-le-phenomene-commentary#h3-temporalization-intersubjectivity-and-non-presence",
+      "stratum": "vp-1967",
+      "term": "temporalization",
+      "status": "introduced",
+      "claim": "The analysis of temporalization is named as one of two places where Husserl's own descriptions resist the privilege of presence, since constituting a temporal object's presence requires the passage from retention to re-presentation.",
+      "quote": "(1) the analysis of *temporalization*, in which the constitution of the presence of a temporal object requires the passage from *retention* to *re-presentation* (*Vergegenwärtigung*)"
+    },
+    {
+      "id": "zeitlichkeit/vp/002",
+      "locator": "derrida-la-voix-et-le-phenomene-commentary#h3-temporalization-intersubjectivity-and-non-presence",
+      "stratum": "vp-1967",
+      "term": "modification of presentation",
+      "status": "criticized",
+      "claim": "What Husserl calls a modification of presentation is said not to happen to presentation but to condition it from the start, fissuring it a priori.",
+      "quote": "In both cases, what Husserl calls a “modification of presentation” (re-presentation, appresentation) does not merely *happen to* presentation but *conditions it from the start*, “fissuring it a priori.”"
+    },
+    {
+      "id": "zeitlichkeit/vp/003",
+      "locator": "derrida-la-voix-et-le-phenomene-commentary#h3-husserl-s-lectures-on-time-consciousness",
+      "primary_locator": "Chapter V (pp. 67-77)",
+      "stratum": "vp-1967",
+      "term": "Quellpunkt",
+      "status": "criticized",
+      "claim": "Husserl is charged with persisting punctuality: despite denying that any phase can be isolated as a punctual instant, he describes the flow from the point-source and keeps the actual now as something punctual.",
+      "quote": "Despite acknowledging that “no phase can be isolated as a punctual instant,” Husserl still describes temporal flow from the *point-source* (*Quellpunkt*)"
+    },
+    {
+      "id": "zeitlichkeit/vp/004",
+      "locator": "derrida-la-voix-et-le-phenomene-commentary#h3-husserl-s-lectures-on-time-consciousness",
+      "primary_locator": "Chapter V (pp. 67-77)",
+      "stratum": "vp-1967",
+      "term": "retention and protention",
+      "status": "revised",
+      "claim": "Retention and protention are said to be no accidents added to the now but to participate indispensably and essentially in its possibility, perception and non-perception passing continuously into one another.",
+      "quote": "These are not accidents added to the now; they participate “indispensably and essentially” in its possibility."
+    },
+    {
+      "id": "zeitlichkeit/vp/005",
+      "locator": "derrida-la-voix-et-le-phenomene-commentary#h3-husserl-s-lectures-on-time-consciousness",
+      "primary_locator": "Chapter V (pp. 67-77)",
+      "stratum": "vp-1967",
+      "term": "Augenblick",
+      "status": "criticized",
+      "claim": "Admitting the continuity of now and non-now is said to welcome the other into the self-identity of the blink of an eye, so that the difference between retention and reproduction is one between two modifications of non-perception.",
+      "quote": "one *welcomes the other into the self-identity of the Augenblick*: non-presence and inevidence in the blink of the eye."
+    },
+    {
+      "id": "zeitlichkeit/vp/006",
+      "locator": "derrida-la-voix-et-le-phenomene-commentary#h3-husserl-s-lectures-on-time-consciousness",
+      "primary_locator": "Chapter V (pp. 67-77)",
+      "stratum": "vp-1967",
+      "term": "trace",
+      "status": "introduced",
+      "claim": "The trace as the possibility of repetition in its most general form is said not only to inhabit but to constitute the pure actuality of the now, and to be more originary than phenomenological originarity.",
+      "quote": "Their common root — “the possibility of re-petition in its most general form, the *trace* in its most universal sense” — must not only *inhabit* the pure actuality of the now but *constitute it*."
+    }
+  ],
+  "absences": []
+}

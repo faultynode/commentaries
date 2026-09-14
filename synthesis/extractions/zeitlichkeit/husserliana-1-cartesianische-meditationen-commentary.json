@@ -1,0 +1,61 @@
+{
+  "schema_version": 1,
+  "theme": "zeitlichkeit",
+  "commentary": "husserliana-1-cartesianische-meditationen-commentary",
+  "source_sha256": "e3798169d749d13a00bde43b2e4b4c47b7c3db4944199cfb4eb09148c0824eb6",
+  "extracted_at": "2026-09-14",
+  "extractor": {
+    "agent": "claude-code",
+    "prompt": "prompts/synthesis-pipeline/extraction-prompt.md"
+  },
+  "coverage": "partial",
+  "coverage_note": "§ 18 (the universal synthesis of transcendental time) and § 36 (egological-temporal coexistence and succession). §§ 12 and 15 and the four other sections with term hits are not extracted.",
+  "units": [
+    {
+      "id": "zeitlichkeit/hua1/001",
+      "locator": "husserliana-1-cartesianische-meditationen-commentary#h3-s-18-identification-as-a-fundamental-form-of-synthesis-universal-synthesis-of-tr",
+      "primary_locator": "§ 18",
+      "term": "inner time-consciousness",
+      "status": "introduced",
+      "claim": "Identification is met first as an all-pervasive passively proceeding synthesis in the form of continuous inner time-consciousness, every experience having its experience-temporality.",
+      "quote": "It confronts us first as an all-pervasive, passively proceeding synthesis in the form of the continuous inner time-consciousness. Every experience has its experience-temporality."
+    },
+    {
+      "id": "zeitlichkeit/hua1/002",
+      "locator": "husserliana-1-cartesianische-meditationen-commentary#h3-s-18-identification-as-a-fundamental-form-of-synthesis-universal-synthesis-of-tr",
+      "primary_locator": "§ 18",
+      "term": "objective and inner temporality",
+      "status": "introduced",
+      "claim": "The objective temporality that appears is to be distinguished from the inner temporality of the appearing, which streams along in phases that are changing appearances of the same object.",
+      "quote": "we must distinguish the objective temporality that appears — e.g., that of this cube — from the inner temporality of the appearing (e.g., of the cube-perceiving)"
+    },
+    {
+      "id": "zeitlichkeit/hua1/003",
+      "locator": "husserliana-1-cartesianische-meditationen-commentary#h3-s-18-identification-as-a-fundamental-form-of-synthesis-universal-synthesis-of-tr",
+      "primary_locator": "§ 18",
+      "term": "immanent temporality",
+      "status": "introduced",
+      "claim": "All-encompassing inner time-consciousness is called the fundamental form of the universal synthesis that makes all other syntheses possible, its correlate being immanent temporality itself.",
+      "quote": "The fundamental form of this universal synthesis, which makes all other syntheses of consciousness possible, is the all-encompassing inner time-consciousness. Its correlate is immanent temporality itself"
+    },
+    {
+      "id": "zeitlichkeit/hua1/004",
+      "locator": "husserliana-1-cartesianische-meditationen-commentary#h3-s-18-identification-as-a-fundamental-form-of-synthesis-universal-synthesis-of-tr",
+      "primary_locator": "§ 18",
+      "term": "horizon of immanent time",
+      "status": "presupposed",
+      "claim": "All experiences of the ego found in reflection must present themselves as temporally ordered within the constant infinite horizon of immanent time.",
+      "quote": "according to which all experiences of the ego, reflectively found, must present themselves as temporally ordered — as temporally beginning and ending, as simultaneous and successive — within the constant infinite horizon of immanent time"
+    },
+    {
+      "id": "zeitlichkeit/hua1/005",
+      "locator": "husserliana-1-cartesianische-meditationen-commentary#h3-s-36-the-transcendental-ego-as-the-universe-of-possible-forms-of-experience-esse",
+      "primary_locator": "§ 36",
+      "term": "universal temporality",
+      "status": "introduced",
+      "claim": "Essential laws of egological-temporal coexistence and succession are said to govern compossibility, everything emerging in the ego having its temporality and partaking in the form-system of universal temporality.",
+      "quote": "Essential laws of egological-temporal coexistence and succession govern. Whatever emerges in my ego — in intentional experiences, in constituted unities, in ego-habitualities — has its temporality and partakes in the form-system of universal temporality."
+    }
+  ],
+  "absences": []
+}
