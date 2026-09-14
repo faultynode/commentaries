@@ -4,11 +4,884 @@
 
 *Descartes' vera et immutabilis natura (Meditation V) and Husserl's Wesen/eidos both do the same anti-nominalist work — an essence's necessary properties hold independently of any existing instance — but Descartes secures it theologically (the eternal truths as God's creation) where Husserl secures it by eidetic intuition alone. Opened from a cross-corpus question about whether Husserl treats 'true and immutable natures' as a phenomenological residuum; no commentary in the corpus yet states the connection explicitly, see gap-007.*
 
-4 units and 1 recorded absences from 1 commentaries.
+188 units and 28 recorded absences from 26 commentaries.
+
+## Primary corpus, by composition or delivery date
+
+### 1901 to 1913 - Husserl, Hua 19/1 — Fifth Logical Investigation
+
+`husserliana-19-1-fifth-logical-investigation-commentary`
+
+#### First edition (Logische Untersuchungen II, Halle 1901)
+
+- **introduced** · `wesen/lu5/001` · *intentionales Wesen*
+  The unity of quality and matter, which makes up only a part of the full act, is designated the intentional essence of the act.
+  `husserliana-19-1-fifth-logical-investigation-commentary#h3-s21-the-intentional-and-the-meaning-essence` · LU V § 21 · [§21. The intentional and the meaning-essence](https://faultynode.github.io/commentaries/commentaries/husserl/husserliana-19-1-fifth-logical-investigation-commentary.html#the-intentional-and-the-meaning-essence)
+  > it would be suitable to designate the *unity of both* — which makes up only a *part* of the full act — as the *intentional essence* (intentionales Wesen) of the act
+
+- **introduced** · `wesen/lu5/002` · *bedeutungsmäßiges Wesen*
+  Where acts function as meaning-conferring in expressions, the intentional essence is called the meaning-essence, whose ideating abstraction yields the meaning in the ideal sense.
+  `husserliana-19-1-fifth-logical-investigation-commentary#h3-s21-the-intentional-and-the-meaning-essence` · LU V § 21 · [§21. The intentional and the meaning-essence](https://faultynode.github.io/commentaries/commentaries/husserl/husserliana-19-1-fifth-logical-investigation-commentary.html#the-intentional-and-the-meaning-essence)
+  > there shall more specifically be talk of the *meaning-essence* (bedeutungsmäßiges Wesen) of the act. Its *ideating abstraction* yields the *meaning* in our ideal sense.
+
+- **introduced** · `wesen/lu5/003` · *essential identity*
+  Two presentations are said to be in essence the same if, on the basis of each taken analytically, exactly the same and nothing else could be asserted about the presented thing.
+  `husserliana-19-1-fifth-logical-investigation-commentary#h3-s21-the-intentional-and-the-meaning-essence` · LU V § 21 · [§21. The intentional and the meaning-essence](https://faultynode.github.io/commentaries/commentaries/husserl/husserliana-19-1-fifth-logical-investigation-commentary.html#the-intentional-and-the-meaning-essence)
+  > two presentations are *in essence the same* if, on the basis of *each* of them, taken purely for itself (hence *analytically*), *exactly the same* and nothing else could be asserted about the presented thing
+
+- **presupposed** · `wesen/lu5/004` · *essence*
+  Having the same presentation is explained as having presentations on the basis of the same matter, so that in essence the presentation is the same despite other phenomenological differences.
+  `husserliana-19-1-fifth-logical-investigation-commentary#h3-s21-the-intentional-and-the-meaning-essence` · LU V § 21 · [§21. The intentional and the meaning-essence](https://faultynode.github.io/commentaries/commentaries/husserl/husserliana-19-1-fifth-logical-investigation-commentary.html#the-intentional-and-the-meaning-essence)
+  > In "essence" we then have in fact the same presentation despite other phenomenological differences.
+
+- **presupposed** · `wesen/lu5/005` · *phenomenological essential differences*
+  A footnote states that in the ideative grasping of the phenomenological essential differences everything empirically psychological in the exemplifications drops out.
+  `husserliana-19-1-fifth-logical-investigation-commentary#h3-s21-the-intentional-and-the-meaning-essence` · LU V § 21 · [§21. The intentional and the meaning-essence](https://faultynode.github.io/commentaries/commentaries/husserl/husserliana-19-1-fifth-logical-investigation-commentary.html#the-intentional-and-the-meaning-essence)
+  > in the ideative grasping of the phenomenological essential differences, everything empirically psychological in the exemplifications becomes irrelevant and drops out
+
+- **introduced** · `wesen/lu5/006` · *essential law*
+  That a desired object not at the same time presented is simply unthinkable is said to raise a claim to apriority, the general proposition asserting it being an essential law evident with evidence.
+  `husserliana-19-1-fifth-logical-investigation-commentary#h3-s23-the-conception-of-matter-as-a-founding-act-of-mere-presenting` · LU V § 23 · [§23. The conception of matter as a founding act of "mere presenting"](https://faultynode.github.io/commentaries/commentaries/husserl/husserliana-19-1-fifth-logical-investigation-commentary.html#the-conception-of-matter-as-a-founding-act-of-mere-presenting)
+  > This is a state of affairs raising claim to *apriority*; the general proposition asserting it is an *essential law* evident with *evidence*.
+
+#### Recorded absences
+
+- **absent** · `husserliana-19-1-fifth-logical-investigation-commentary#h3-s21-the-intentional-and-the-meaning-essence`
+  Expected because: This is the section that coins Wesen as a technical term of the Investigations and grounds essential identity in an analytic criterion, so it is where the intuitive grasping of essences would have to be invoked if the Investigations secured essence that way.
+  The section's criterion of essential sameness is analytic (what can be asserted on the basis of each presentation), and the only act named is ideating abstraction; the later eidetic vocabulary is not yet in play.
+  [§21. The intentional and the meaning-essence](https://faultynode.github.io/commentaries/commentaries/husserl/husserliana-19-1-fifth-logical-investigation-commentary.html#the-intentional-and-the-meaning-essence)
+
+*Partial pass: Covers § 21 (the intentional and the meaning-essence) in full and § 23 (matter as a founding act of mere presenting) for its essential-law statement. The rest of the Investigation - Chapter One, the remainder of Chapters Two to Four, and the Appendix - was keyword-scanned only. Note that this commentary's essence-vocabulary is almost entirely 'intentional essence' and 'meaning-essence' in the Investigations' technical sense, not the eidetic sense of later Husserl.*
+
+### 1907 - Husserl's Thing and Space (1907)
+
+`husserl-thing-and-space-commentary`
+
+- **introduced** · `wesen/ding-raum/001` · *essence*
+  The question at issue is stated to be the essence of the perception as given in the consciousness that intuits and holds fast to the essence as identical, not the phenomenological singularity of the this-here.
+  `husserl-thing-and-space-commentary#h3-s3-essential-cognition-of-perception-on-the-basis-of-phantasized-perceptions` · Ding und Raum § 3 · [§3. Essential cognition of perception on the basis of phantasized perceptions](https://faultynode.github.io/commentaries/commentaries/husserl/husserl-thing-and-space-commentary.html#essential-cognition-of-perception-on-the-basis-of-phantasized-perceptions)
+  > The question at issue is the **essence** of this perception, just as it is given in the consciousness that is intuiting and holding fast to the essence as identical.
+
+- **introduced** · `wesen/ding-raum/002` · *grasping of essence*
+  It is denied to be a condition of phenomenological analysis that the grasping of essence be carried out on the basis of individual instances of actually existing lived experiences.
+  `husserl-thing-and-space-commentary#h3-s3-essential-cognition-of-perception-on-the-basis-of-phantasized-perceptions` · Ding und Raum § 3 · [§3. Essential cognition of perception on the basis of phantasized perceptions](https://faultynode.github.io/commentaries/commentaries/husserl/husserl-thing-and-space-commentary.html#essential-cognition-of-perception-on-the-basis-of-phantasized-perceptions)
+  > It is not a condition of phenomenological analysis that the grasping of essence must be carried out on the basis of individual instances of actually existing lived experiences.
+
+- **introduced** · `wesen/ding-raum/003` · *free variation in phantasy*
+  The commentary names the thesis that phantasized perceptions serve as well as actual ones as what later phenomenology calls free variation in phantasy, the varying of examples to identify the invariant.
+  `husserl-thing-and-space-commentary#h3-s3-essential-cognition-of-perception-on-the-basis-of-phantasized-perceptions` · Ding und Raum § 3 · [§3. Essential cognition of perception on the basis of phantasized perceptions](https://faultynode.github.io/commentaries/commentaries/husserl/husserl-thing-and-space-commentary.html#essential-cognition-of-perception-on-the-basis-of-phantasized-perceptions)
+  > This is what later phenomenology calls the method of **free variation in phantasy** (*freie Variation in der Phantasie*) — the technique of varying examples imaginatively in order to identify what remains invariant as the essence.
+
+- **introduced** · `wesen/ding-raum/004` · *singular essence*
+  With existence set out of play, what is given in the absolute sense is said not to be something existent and yet to be a being, namely a singular essence in each case.
+  `husserl-thing-and-space-commentary#h3-s3-essential-cognition-of-perception-on-the-basis-of-phantasized-perceptions` · Ding und Raum § 3 · [§3. Essential cognition of perception on the basis of phantasized perceptions](https://faultynode.github.io/commentaries/commentaries/husserl/husserl-thing-and-space-commentary.html#essential-cognition-of-perception-on-the-basis-of-phantasized-perceptions)
+  > then what is given in the absolute sense is not something *existent* and yet is a *being*: namely, a **singular essence** in each case
+
+- **introduced** · `wesen/ding-raum/005` · *universal essence*
+  Evident essential generalizations of a higher level are said to relate to the singular essences, drawing from them the universal essence perception in general.
+  `husserl-thing-and-space-commentary#h3-s3-essential-cognition-of-perception-on-the-basis-of-phantasized-perceptions` · Ding und Raum § 3 · [§3. Essential cognition of perception on the basis of phantasized perceptions](https://faultynode.github.io/commentaries/commentaries/husserl/husserl-thing-and-space-commentary.html#essential-cognition-of-perception-on-the-basis-of-phantasized-perceptions)
+  > from them we draw out the universal essence "perception in general," which is singularized in them as such and such
+
+- **introduced** · `wesen/ding-raum/006` · *essential character*
+  Within the sphere of pure evidence the relation to the object is said to constitute an essential character of perception, belonging indissociably to its essence.
+  `husserl-thing-and-space-commentary#h3-s4-intentionality-as-the-essential-determination-of-perception` · Ding und Raum § 4 · [§4. Intentionality as the essential determination of perception](https://faultynode.github.io/commentaries/commentaries/husserl/husserl-thing-and-space-commentary.html#intentionality-as-the-essential-determination-of-perception)
+  > Within the sphere of pure evidence, the relation to the object constitutes an essential character of perception.
+
+- **presupposed** · `wesen/ding-raum/007` · *eidetic finding*
+  That a perception is a perception of a bench is called not an empirical observation about particular perceptions but an essential, eidetic finding about what perception is.
+  `husserl-thing-and-space-commentary#h3-s4-intentionality-as-the-essential-determination-of-perception` · Ding und Raum § 4 · [§4. Intentionality as the essential determination of perception](https://faultynode.github.io/commentaries/commentaries/husserl/husserl-thing-and-space-commentary.html#intentionality-as-the-essential-determination-of-perception)
+  > This is not an empirical observation about particular perceptions but an essential, eidetic finding about what perception *is*.
+
+#### Recorded absences
+
+- **absent** · `husserl-thing-and-space-commentary#h3-s3-essential-cognition-of-perception-on-the-basis-of-phantasized-perceptions`
+  Expected because: This is the commentary's methodological statement of how essences are secured - phantasized exemplars, free variation, singular and universal essence - and therefore the place where an essence would be called a residuum, or compared with innate or immutable natures, if this commentary did either.
+  Bears on gap-007: the invariant here is secured by variation in phantasy alone, and is never named a residuum.
+  [§3. Essential cognition of perception on the basis of phantasized perceptions](https://faultynode.github.io/commentaries/commentaries/husserl/husserl-thing-and-space-commentary.html#essential-cognition-of-perception-on-the-basis-of-phantasized-perceptions)
+
+*Partial pass: Covers § 3 (essential cognition on the basis of phantasized perceptions) and § 4 (intentionality as the essential determination of perception) in full, and the opening of § 40. Chapters 2-6 (§§ 9-39) and the kinaesthetic chapters (§§ 41-57), where 'essential' recurs adverbially, were keyword-scanned only.*
+
+### 1908 - Hua 26 - Theory of Meaning
+
+`husserliana-26-theory-of-meaning-commentary`
+
+- **introduced** · `wesen/hua26-bedeutung/001` · *categorial essence*
+  The essence of the categorial object is distinguished from the categorial object itself, the distinction lapsing only where the object is from the outset an essence.
+  `husserliana-26-theory-of-meaning-commentary#h3-s-31-categorial-object-and-categorial-essence` · Hua XXVI § 31 · [§ 31. Categorial Object and Categorial Essence](https://faultynode.github.io/commentaries/commentaries/husserl/husserliana-26-theory-of-meaning-commentary.html#categorial-object-and-categorial-essence)
+  > From the categorial object we distinguish the essence of the categorial object — the categorial essence.
+
+- **presupposed** · `wesen/hua26-bedeutung/002` · *essence of an essence*
+  Where the categorial object is itself an essence, the essence of an essence is said to be identical with the essence.
+  `husserliana-26-theory-of-meaning-commentary#h3-s-31-categorial-object-and-categorial-essence` · Hua XXVI § 31 · [§ 31. Categorial Object and Categorial Essence](https://faultynode.github.io/commentaries/commentaries/husserl/husserliana-26-theory-of-meaning-commentary.html#categorial-object-and-categorial-essence)
+  > the essence of an essence is itself identical with the essence
+
+- **introduced** · `wesen/hua26-bedeutung/003` · *ideation / essence-seeing*
+  A new seeing act founded on either perceiving or phantasizing intuition, in which something identical is grasped as a new objectual something, is named categorial ideation or essence-seeing.
+  `husserliana-26-theory-of-meaning-commentary#h3-s-31-categorial-object-and-categorial-essence` · Hua XXVI § 31 · [§ 31. Categorial Object and Categorial Essence](https://faultynode.github.io/commentaries/commentaries/husserl/husserliana-26-theory-of-meaning-commentary.html#categorial-object-and-categorial-essence)
+  > we call this act ideation (here categorial ideation) or essence-seeing. In it we grasp something identical as a new objectual something, whether we perceive or phantasize.
+
+- **introduced** · `wesen/hua26-bedeutung/004` · *intuitive essence*
+  One and the same intuitive essence is said to be extractable from the perceiving and the merely phantasizing intuition alike.
+  `husserliana-26-theory-of-meaning-commentary#h3-s-31-categorial-object-and-categorial-essence` · Hua XXVI § 31 · [§ 31. Categorial Object and Categorial Essence](https://faultynode.github.io/commentaries/commentaries/husserl/husserliana-26-theory-of-meaning-commentary.html#categorial-object-and-categorial-essence)
+  > from the perceiving and the merely phantasizing intuition one and the same, namely the intuitive essence
+
+- **introduced** · `wesen/hua26-bedeutung/005` · *essence*
+  Every object is said to have its essence while not being the essence, and the propositional essence or possibility yields a further sense of meaning.
+  `husserliana-26-theory-of-meaning-commentary#h3-s-32-meaning-as-propositional-essence-or-possibility` · Hua XXVI § 32 · [§ 32. Meaning as Propositional Essence or Possibility](https://faultynode.github.io/commentaries/commentaries/husserl/husserliana-26-theory-of-meaning-commentary.html#meaning-as-propositional-essence-or-possibility)
+  > Every object has its essence. But the object is not the essence. The propositional essence or possibility yields yet another sense of meaning.
+
+- **introduced** · `wesen/hua26-bedeutung/006` · *essentia / existentia*
+  The essence is also called the ideal possibility, and it is stated that not every essentia has an existentia while every existentia has an essentia.
+  `husserliana-26-theory-of-meaning-commentary#h3-s-32-meaning-as-propositional-essence-or-possibility` · Hua XXVI § 32 · [§ 32. Meaning as Propositional Essence or Possibility](https://faultynode.github.io/commentaries/commentaries/husserl/husserliana-26-theory-of-meaning-commentary.html#meaning-as-propositional-essence-or-possibility)
+  > The essence is also called the ideal possibility. What is ideally possible is not also actual. Not every essentia has an existentia, but conversely every existentia has an essentia.
+
+- **introduced** · `wesen/hua26-bedeutung/007` · *Wesensurteile*
+  Essential judgments are characterized as a priori judgments stating what belongs to something by virtue of its essence regardless of whether anything of the kind exists.
+  `husserliana-26-theory-of-meaning-commentary#h4-a-first-characterization-of-the-distinction-2` · Hua XXVI § 36 · [a) First Characterization of the Distinction](https://faultynode.github.io/commentaries/commentaries/husserl/husserliana-26-theory-of-meaning-commentary.html#a-first-characterization-of-the-distinction-1)
+  > They state what belongs to something by virtue of its essence, regardless of whether anything of the relevant kind actually exists.
+
+- **introduced** · `wesen/hua26-bedeutung/008` · *Wesensschau*
+  Essential states of affairs are said to be given in essential insight, in Wesensschau, from which the necessary relations belonging to the essence are grasped.
+  `husserliana-26-theory-of-meaning-commentary#h4-b-further-elaboration-the-givenness-of-existential-state-of-affairs-and-essentia` · Hua XXVI § 36 · [b) Further Elaboration. The Givenness of Existential State of Affairs and Essential State of Affairs](https://faultynode.github.io/commentaries/commentaries/husserl/husserliana-26-theory-of-meaning-commentary.html#b-further-elaboration-the-givenness-of-existential-state-of-affairs-and-essential-state-of-affairs)
+  > Essential states of affairs are given in essential insight — in *Wesensschau*, the intuition of essences.
+
+#### Recorded absences
+
+- **absent** · `husserliana-26-theory-of-meaning-commentary#h4-b-further-elaboration-the-givenness-of-existential-state-of-affairs-and-essentia`
+  Expected because: The section grounds essential judgments about the triangle in Wesensschau and distinguishes their evidence from that of existence-claims - the same example and the same anti-empiricist point Descartes makes with the true and immutable nature of the triangle in Meditation V.
+  Bears on gap-007. The commentary keeps essentia/existentia as a scholastic pair (§ 32) and never connects it to Descartes' doctrine of true and immutable natures; 'Descartes' occurs nowhere in the file.
+  [b) Further Elaboration. The Givenness of Existential State of Affairs and Essential State of Affairs](https://faultynode.github.io/commentaries/commentaries/husserl/husserliana-26-theory-of-meaning-commentary.html#b-further-elaboration-the-givenness-of-existential-state-of-affairs-and-essential-state-of-affairs)
+
+*Partial pass: Covers § 31 (categorial object and categorial essence), § 32 (meaning as propositional essence or possibility) and § 36 a-b (existential and essential judgments) in full - the four sections where the essence-vocabulary is doing technical work. The rest of the lectures, where 'essence' occurs largely inside 'meaning-essence' and 'intuitive essence' in passing, was keyword-scanned only.*
+
+### 1910-1911 - Husserl, Hua 13 — Basic Problems of Phenomenology
+
+`husserliana-13-basic-problems-of-phenomenology-commentary`
+
+- **introduced** · `wesen/hua13-grund/001` · *essence-objectivities*
+  The empirical and the a priori attitude are distinguished by what comes to givenness in each: existence-objectivities in the one, essence-objectivities in the other.
+  `husserliana-13-basic-problems-of-phenomenology-commentary#h3-s-9-empirical-or-natural-attitude-and-apriori-attitude-ontology-of-nature-and-fo` · Hua XIII § 9 · [§ 9\. Empirical or Natural Attitude and Apriori Attitude. Ontology of Nature and Formal Ontology](https://faultynode.github.io/commentaries/commentaries/husserl/husserliana-13-basic-problems-of-phenomenology-commentary.html#empirical-or-natural-attitude-and-apriori-attitude-ontology-of-nature-and-formal-ontology)
+  > In the one, existence-objectivities come to givenness; in the other, *essence*\-objectivities — in the one, nature; in the other, ideas.
+
+- **introduced** · `wesen/hua13-grund/002` · *eidetic attitude*
+  A marginal note is reported to label the attitude in which numbers and the like are given, as no things and no facts of nature, the eidetic attitude.
+  `husserliana-13-basic-problems-of-phenomenology-commentary#h3-s-9-empirical-or-natural-attitude-and-apriori-attitude-ontology-of-nature-and-fo` · Hua XIII § 9 · [§ 9\. Empirical or Natural Attitude and Apriori Attitude. Ontology of Nature and Formal Ontology](https://faultynode.github.io/commentaries/commentaries/husserl/husserliana-13-basic-problems-of-phenomenology-commentary.html#empirical-or-natural-attitude-and-apriori-attitude-ontology-of-nature-and-formal-ontology)
+  > (A marginal note labels this the *eidetic attitude*.)
+
+- **introduced** · `wesen/hua13-grund/003` · *ideal essences*
+  A complete exclusion of every existence-positing is required in order to grasp the a priori, the ideal essences, in their existence-purity.
+  `husserliana-13-basic-problems-of-phenomenology-commentary#h3-s-9-empirical-or-natural-attitude-and-apriori-attitude-ontology-of-nature-and-fo` · Hua XIII § 9 · [§ 9\. Empirical or Natural Attitude and Apriori Attitude. Ontology of Nature and Formal Ontology](https://faultynode.github.io/commentaries/commentaries/husserl/husserliana-13-basic-problems-of-phenomenology-commentary.html#empirical-or-natural-attitude-and-apriori-attitude-ontology-of-nature-and-formal-ontology)
+  > in order to grasp the apriori, the ideal essences, in their existence-purity
+
+- **introduced** · `wesen/hua13-grund/004` · *essence of a thing*
+  It is said not to belong to the essence of a thing that it is a sensing thing, so that a thing's being a body is a facticity.
+  `husserliana-13-basic-problems-of-phenomenology-commentary#h3-s-13-the-resolvability-of-the-empirical-connection-of-res-cogitans-and-res-exten` · Hua XIII § 13 · [§ 13\. The Resolvability of the Empirical Connection of "res cogitans" and "res extensa." The "distinctio phaenomenologica"](https://faultynode.github.io/commentaries/commentaries/husserl/husserliana-13-basic-problems-of-phenomenology-commentary.html#the-resolvability-of-the-empirical-connection-of-res-cogitans-and-res-extensa-the-distinctio-phaenomenologica)
+  > It does not belong to the essence of a thing that it is, so to speak, a *sensing* thing
+
+- **introduced** · `wesen/hua13-grund/005` · *essence of the cogitatio / essence of the extensio*
+  The essence of the cogitatio and the essence of the extensio are said to have, in principle and as essences, nothing to do with one another.
+  `husserliana-13-basic-problems-of-phenomenology-commentary#h3-s-13-the-resolvability-of-the-empirical-connection-of-res-cogitans-and-res-exten` · Hua XIII § 13 · [§ 13\. The Resolvability of the Empirical Connection of "res cogitans" and "res extensa." The "distinctio phaenomenologica"](https://faultynode.github.io/commentaries/commentaries/husserl/husserliana-13-basic-problems-of-phenomenology-commentary.html#the-resolvability-of-the-empirical-connection-of-res-cogitans-and-res-extensa-the-distinctio-phaenomenologica)
+  > The essence of the *cogitatio* and the essence of the *extensio* have, in principle, *as essences*, nothing to do with one another.
+
+- **revised** · `wesen/hua13-grund/006` · *eidetic claim*
+  The commentary calls this the phenomenological transformation of Cartesian dualism: not a metaphysical claim that two substances exist but an eidetic claim that the two essences are mutually independent.
+  `husserliana-13-basic-problems-of-phenomenology-commentary#h3-s-13-the-resolvability-of-the-empirical-connection-of-res-cogitans-and-res-exten` · Hua XIII § 13 · [§ 13\. The Resolvability of the Empirical Connection of "res cogitans" and "res extensa." The "distinctio phaenomenologica"](https://faultynode.github.io/commentaries/commentaries/husserl/husserliana-13-basic-problems-of-phenomenology-commentary.html#the-resolvability-of-the-empirical-connection-of-res-cogitans-and-res-extensa-the-distinctio-phaenomenologica)
+  > not a metaphysical claim that two substances exist, but an *eidetic* claim that the essence "consciousness" and the essence "thing" are mutually independent
+
+- **introduced** · `wesen/hua13-grund/007` · *essence-necessity*
+  Not all necessity in the realm of experience is essence-necessity, since otherwise all the natural sciences would be a priori sciences.
+  `husserliana-13-basic-problems-of-phenomenology-commentary#h3-s-13-the-resolvability-of-the-empirical-connection-of-res-cogitans-and-res-exten` · Hua XIII § 13 · [§ 13\. The Resolvability of the Empirical Connection of "res cogitans" and "res extensa." The "distinctio phaenomenologica"](https://faultynode.github.io/commentaries/commentaries/husserl/husserliana-13-basic-problems-of-phenomenology-commentary.html#the-resolvability-of-the-empirical-connection-of-res-cogitans-and-res-extensa-the-distinctio-phaenomenologica)
+  > Hence not all necessity in the realm of experience is *essence*\-necessity — otherwise all the natural sciences would be apriori sciences.
+
+#### Recorded absences
+
+- **absent** · `husserliana-13-basic-problems-of-phenomenology-commentary#h3-s-13-the-resolvability-of-the-empirical-connection-of-res-cogitans-and-res-exten`
+  Expected because: This section rewrites Cartesian dualism as a thesis about the mutual independence of two essences, and names res cogitans and res extensa throughout - so if any commentary in the corpus were to connect Husserl's Wesen to Descartes' doctrine of natures, this is the section where the connection would be made.
+  The sharpest negative result for gap-007 in this pass: the Cartesian vocabulary that is taken up here is res cogitans and res extensa, and what is taken from it is a distinction of essences, never the doctrine of vera et immutabilis natura or of innate ideas.
+  [§ 13\. The Resolvability of the Empirical Connection of "res cogitans" and "res extensa." The "distinctio phaenomenologica"](https://faultynode.github.io/commentaries/commentaries/husserl/husserliana-13-basic-problems-of-phenomenology-commentary.html#the-resolvability-of-the-empirical-connection-of-res-cogitans-and-res-extensa-the-distinctio-phaenomenologica)
+
+*Partial pass: Covers § 9 (empirical and a priori attitude; ontology of nature and formal ontology) and § 13 (the resolvability of the connection of res cogitans and res extensa; the distinctio phaenomenologica) in full. §§ 1-8, 10-12 and 14 onward were keyword-scanned only.*
+
+### 1912 to 1924-1928 - Hua 4 - Ideas II
+
+`husserliana-4-ideas-ii-commentary`
+
+- **presupposed** · `wesen/hua4-ideas2/001` · *essential grounds*
+  Nature is said to encompass in its forms of space and time all factual realities and, out of essential grounds, equally all a priori possible realities.
+  `husserliana-4-ideas-ii-commentary#h3-s12-material-and-animal-nature` · Ideas II § 12 · [§12. Material and Animal Nature](https://faultynode.github.io/commentaries/commentaries/husserl/husserliana-4-ideas-ii-commentary.html#material-and-animal-nature)
+  > which in its forms of space and time encompasses all factual realities and, out of essential grounds, equally all a priori possible realities
+
+- **introduced** · `wesen/hua4-ideas2/002` · *distinction grounded in essence*
+  The distinction between material nature and ensouled, animal nature is called a distinction grounded in essence that stands out at first glance.
+  `husserliana-4-ideas-ii-commentary#h3-s12-material-and-animal-nature` · Ideas II § 12 · [§12. Material and Animal Nature](https://faultynode.github.io/commentaries/commentaries/husserl/husserliana-4-ideas-ii-commentary.html#material-and-animal-nature)
+  > Already at first glance a distinction grounded in essence stands out: the distinction between nature in the narrower, lowest, and primary sense
+
+- **presupposed** · `wesen/hua4-ideas2/003` · *essential determination*
+  Everything else the thing is, according to every other essential determination belonging to it, it is in its duration with the closer determination of a when.
+  `husserliana-4-ideas-ii-commentary#h3-s12-material-and-animal-nature` · Ideas II § 12 · [§12. Material and Animal Nature](https://faultynode.github.io/commentaries/commentaries/husserl/husserliana-4-ideas-ii-commentary.html#material-and-animal-nature)
+  > Everything else the thing "is," according to every other essential determination belonging to it, it is in its duration, with the closer determination of a "when."
+
+- **introduced** · `wesen/hua4-ideas2/004` · *essence "thing"*
+  To grasp and conceptually determine the essence thing one must not hold to inherited philosophical prejudices but draw from clear givenness itself.
+  `husserliana-4-ideas-ii-commentary#h4-a-the-phenomenological-analysis-of-thing-givenness-as-the-path-to-determining-th` · Ideas II § 15 · [a) The Phenomenological Analysis of Thing-Givenness as the Path to Determining the Essence “Material Thing”](https://faultynode.github.io/commentaries/commentaries/husserl/husserliana-4-ideas-ii-commentary.html#a-the-phenomenological-analysis-of-thing-givenness-as-the-path-to-determining-the-essence-material-thing)
+  > If we want to grasp and conceptually determine the essence "thing," we must not hold to vague talk and inherited philosophical prejudices, but draw from clear givenness itself.
+
+- **introduced** · `wesen/hua4-ideas2/005` · *universal essential form*
+  One must go back exemplarily to the consciousness in which things are so completely given that nothing is lacking for grasping the universal essential form prescribing the a priori rule for such objects.
+  `husserliana-4-ideas-ii-commentary#h4-a-the-phenomenological-analysis-of-thing-givenness-as-the-path-to-determining-th` · Ideas II § 15 · [a) The Phenomenological Analysis of Thing-Givenness as the Path to Determining the Essence “Material Thing”](https://faultynode.github.io/commentaries/commentaries/husserl/husserliana-4-ideas-ii-commentary.html#a-the-phenomenological-analysis-of-thing-givenness-as-the-path-to-determining-the-essence-material-thing)
+  > nothing can be lacking for the grasping of the universal essential form that prescribes the a priori rule for such objects
+
+- **introduced** · `wesen/hua4-ideas2/006` · *essential interweavings*
+  Only by questioning the thing-noema and carrying out its directives does one gain the essential components of thinghood and the necessary essential interweavings without which a thing cannot be thought.
+  `husserliana-4-ideas-ii-commentary#h4-a-the-phenomenological-analysis-of-thing-givenness-as-the-path-to-determining-th` · Ideas II § 15 · [a) The Phenomenological Analysis of Thing-Givenness as the Path to Determining the Essence “Material Thing”](https://faultynode.github.io/commentaries/commentaries/husserl/husserliana-4-ideas-ii-commentary.html#a-the-phenomenological-analysis-of-thing-givenness-as-the-path-to-determining-the-essence-material-thing)
+  > does one actually gain the essential components of thinghood and the necessary essential interweavings without which something meant as a thing cannot be thought at all
+
+#### Recorded absences
+
+- **absent** · `husserliana-4-ideas-ii-commentary#h4-a-the-phenomenological-analysis-of-thing-givenness-as-the-path-to-determining-th`
+  Expected because: This section states the method for determining the essence material thing - exemplary givenness, perceptual series actual or feigned, the unfolding of the noema's directives - and so is where the vocabulary of eidetic seeing or free variation would appear if this commentary used it, and where a comparison with Descartes' account of extended things would fall.
+  Bears on gap-007. The essence of the material thing is secured here by following the noema's directives through connected perceptual series, with no eidetic terminology and no Cartesian reference anywhere in the file.
+  [a) The Phenomenological Analysis of Thing-Givenness as the Path to Determining the Essence “Material Thing”](https://faultynode.github.io/commentaries/commentaries/husserl/husserliana-4-ideas-ii-commentary.html#a-the-phenomenological-analysis-of-thing-givenness-as-the-path-to-determining-the-essence-material-thing)
+
+*Partial pass: Covers the Second Chapter's §§ 12-13 and § 15 a-b, where the essence of materiality is at issue. The First and Third Chapters, Section Two (the constitution of animal nature) and Section Three (the spiritual world) were keyword-scanned only.*
+
+### 1914 - Husserl, Hua 28 — Vorlesungen über Ethik und Wertlehre
+
+`husserliana-28-vorlesungen-uber-ethik-und-wertlehre-commentary`
+
+- **introduced** · `wesen/hua28-ethik/001` · *essence-doctrine*
+  A priori philosophy is characterized as an a priori doctrine of principles, the pure essence-doctrine and norm-doctrine of absolute being thought in formal generality.
+  `husserliana-28-vorlesungen-uber-ethik-und-wertlehre-commentary#h4-a-the-science-theoretical-character-of-the-logical-and-noetic-disciplines` · Hua XXVIII § 4 · [(a) The Science-Theoretical Character of the Logical and Noetic Disciplines](https://faultynode.github.io/commentaries/commentaries/husserl/husserliana-28-vorlesungen-uber-ethik-und-wertlehre-commentary.html#a-the-science-theoretical-character-of-the-logical-and-noetic-disciplines)
+  > an apriori philosophical doctrine of principles, the pure essence-doctrine and norm-doctrine of absolute being thought in formal generality
+
+- **introduced** · `wesen/hua28-ethik/002` · *essence-laws*
+  No facts are in principle derivable from essence-laws, which prescribe to the facts only possibilities, in the manner of ideal norms.
+  `husserliana-28-vorlesungen-uber-ethik-und-wertlehre-commentary#h4-a-the-science-theoretical-character-of-the-logical-and-noetic-disciplines` · Hua XXVIII § 4 · [(a) The Science-Theoretical Character of the Logical and Noetic Disciplines](https://faultynode.github.io/commentaries/commentaries/husserl/husserliana-28-vorlesungen-uber-ethik-und-wertlehre-commentary.html#a-the-science-theoretical-character-of-the-logical-and-noetic-disciplines)
+  > for from essence-laws no facts are in principle to be derived, the essence-laws prescribing to the facts only possibilities, in the manner of ideal norms.
+
+- **introduced** · `wesen/hua28-ethik/003` · *material apriori*
+  A material a priori, the essence-laws of colour and tone and the like, is said to fall outside the formal ontologies, so that the formal a priori does not exhaust the a priori.
+  `husserliana-28-vorlesungen-uber-ethik-und-wertlehre-commentary#h4-a-the-science-theoretical-character-of-the-logical-and-noetic-disciplines` · Hua XXVIII § 4 · [(a) The Science-Theoretical Character of the Logical and Noetic Disciplines](https://faultynode.github.io/commentaries/commentaries/husserl/husserliana-28-vorlesungen-uber-ethik-und-wertlehre-commentary.html#a-the-science-theoretical-character-of-the-logical-and-noetic-disciplines)
+  > there is a *material* apriori (the essence-laws of color, tone, and the like) that falls outside the formal ontologies
+
+- **presupposed** · `wesen/hua28-ethik/004` · *essence-relations*
+  The phenomenological-reason-critical dimension is said to concern the puzzling essence-relations between being and consciousness.
+  `husserliana-28-vorlesungen-uber-ethik-und-wertlehre-commentary#h4-a-the-principle-doctrines-offer-the-clues-for-the-phenomenological-epistemologic` · Hua XXVIII § 6 · [(a) The Principle-Doctrines Offer the Clues for the Phenomenological-Epistemological Investigations](https://faultynode.github.io/commentaries/commentaries/husserl/husserliana-28-vorlesungen-uber-ethik-und-wertlehre-commentary.html#a-the-principle-doctrines-offer-the-clues-for-the-phenomenological-epistemological-investigations)
+  > it concerns the puzzling essence-relations between being and consciousness
+
+- **introduced** · `wesen/hua28-ethik/005` · *essence of the will-act*
+  Whether a will-act is convenient or not is said to be wholly determined by the own essence of the respective will-act.
+  `husserliana-28-vorlesungen-uber-ethik-und-wertlehre-commentary#h3-s-21-the-objectivity-of-the-practical-possibilities-and-their-relativity-to-the` · Hua XXVIII § 21 · [§ 21\. The Objectivity of the Practical Possibilities and Their Relativity to the Subject. The Convenience or Inconvenience Grounded in the Essence of the Will-Act. The Components of Perfect Will-Rightness](https://faultynode.github.io/commentaries/commentaries/husserl/husserliana-28-vorlesungen-uber-ethik-und-wertlehre-commentary.html#the-objectivity-of-the-practical-possibilities-and-their-relativity-to-the-subject-the-convenience-or-inconvenience-grounded-in-the-essence-of-the-will-act-the-components-of-perfect-will-rightness)
+  > it is clear that by the own essence of the respective will-act it is wholly determined whether it is convenient or not
+
+- **introduced** · `wesen/hua28-ethik/006` · *essence-analysis*
+  Judging insightfully about will-rightness in the objective attitude is described as performing an essence-analysis of the components that make up full rightness in the highest sense.
+  `husserliana-28-vorlesungen-uber-ethik-und-wertlehre-commentary#h3-s-21-the-objectivity-of-the-practical-possibilities-and-their-relativity-to-the` · Hua XXVIII § 21 · [§ 21\. The Objectivity of the Practical Possibilities and Their Relativity to the Subject. The Convenience or Inconvenience Grounded in the Essence of the Will-Act. The Components of Perfect Will-Rightness](https://faultynode.github.io/commentaries/commentaries/husserl/husserliana-28-vorlesungen-uber-ethik-und-wertlehre-commentary.html#the-objectivity-of-the-practical-possibilities-and-their-relativity-to-the-subject-the-convenience-or-inconvenience-grounded-in-the-essence-of-the-will-act-the-components-of-perfect-will-rightness)
+  > performing an essence-analysis of the components that make up full rightness in the highest sense
+
+#### Recorded absences
+
+- **absent** · `husserliana-28-vorlesungen-uber-ethik-und-wertlehre-commentary#h4-a-the-science-theoretical-character-of-the-logical-and-noetic-disciplines`
+  Expected because: This section lays out what an a priori essence-doctrine is and distinguishes formal from material essence-laws, so it is where the method by which essences are seen - and any comparison with a rationalist doctrine of innate or immutable natures - would be stated if the lectures stated it.
+  The lectures secure essence-laws by insight and the parallel with pure logic, without any eidetic terminology and without naming Descartes anywhere in the file.
+  [(a) The Science-Theoretical Character of the Logical and Noetic Disciplines](https://faultynode.github.io/commentaries/commentaries/husserl/husserliana-28-vorlesungen-uber-ethik-und-wertlehre-commentary.html#a-the-science-theoretical-character-of-the-logical-and-noetic-disciplines)
+
+*Partial pass: Covers § 4(a) (the science-theoretical character of the logical and noetic disciplines), § 6(a) (the principle-doctrines as clues for epistemological investigation) and § 21 (the convenience grounded in the essence of the will-act). Sections I-III and the remainder of the Formal Praktik were keyword-scanned only. The vocabulary here is 'essence-doctrine', 'essence-law' and 'essence-analysis' throughout; the eidetic terminology proper is absent from the file.*
+
+### 1917 to 1918 - Husserl, Hua 33 — Die Bernauer Manuskripte über das Zeitbewußtsein
+
+`husserliana-33-die-bernauer-manuskripte-uber-das-zeitbewusstsein-commentary`
+
+- **introduced** · `wesen/hua33-bernau/001` · *general essence*
+  The section is said to characterize the general essence without which a unified interiority is unthinkable.
+  `husserliana-33-die-bernauer-manuskripte-uber-das-zeitbewusstsein-commentary#h4-s-1-the-eidetic-shape-of-psychic-interiority-temporal-ur-genesis-ego-and-hyle` · [§ 1\. The Eidetic Shape of Psychic Interiority. Temporal Ur-Genesis, Ego, and Hyle](https://faultynode.github.io/commentaries/commentaries/husserl/husserliana-33-die-bernauer-manuskripte-uber-das-zeitbewusstsein-commentary.html#the-eidetic-shape-of-psychic-interiority-temporal-ur-genesis-ego-and-hyle)
+  > Husserl characterizes the general essence without which a unified interiority is unthinkable.
+
+- **introduced** · `wesen/hua33-bernau/002` · *essential lawfulness*
+  The essential lawfulness of time-constituting consciousness is called the primordially first and deepest lawfulness of a consciousness-genesis and of the primal constitution of objectivities.
+  `husserliana-33-die-bernauer-manuskripte-uber-das-zeitbewusstsein-commentary#h4-s-1-the-eidetic-shape-of-psychic-interiority-temporal-ur-genesis-ego-and-hyle` · [§ 1\. The Eidetic Shape of Psychic Interiority. Temporal Ur-Genesis, Ego, and Hyle](https://faultynode.github.io/commentaries/commentaries/husserl/husserliana-33-die-bernauer-manuskripte-uber-das-zeitbewusstsein-commentary.html#the-eidetic-shape-of-psychic-interiority-temporal-ur-genesis-ego-and-hyle)
+  > The essential lawfulness of this time-constituting consciousness is the primordially first and deepest lawfulness of a consciousness-genesis
+
+- **introduced** · `wesen/hua33-bernau/003` · *eidetic form*
+  Ur-genesis as eidetic form, the form of the constitution of immanent hyletic objects, is said to underlie every further genesis.
+  `husserliana-33-die-bernauer-manuskripte-uber-das-zeitbewusstsein-commentary#h4-s-1-the-eidetic-shape-of-psychic-interiority-temporal-ur-genesis-ego-and-hyle` · [§ 1\. The Eidetic Shape of Psychic Interiority. Temporal Ur-Genesis, Ego, and Hyle](https://faultynode.github.io/commentaries/commentaries/husserl/husserliana-33-die-bernauer-manuskripte-uber-das-zeitbewusstsein-commentary.html#the-eidetic-shape-of-psychic-interiority-temporal-ur-genesis-ego-and-hyle)
+  > Ur-genesis (as eidetic form) — the form of the constitution of immanent hyletic objects — underlies every further genesis.
+
+- **introduced** · `wesen/hua33-bernau/004` · *individuelles Wesen*
+  The full sense identical across experience and phantasy is called the individual essence of the object, encompassing its time-duration and the distribution of its temporal filling.
+  `husserliana-33-die-bernauer-manuskripte-uber-das-zeitbewusstsein-commentary#h4-s-1-individuality-and-identity-of-time-objects-fact-and-essence-ur-presentation` · [§ 1\. Individuality and Identity of Time-Objects (Fact and Essence): Ur-Presentation and the Individuality of Present Givenness, the Continuous Pastness-Modification and the Identical Time-Position](https://faultynode.github.io/commentaries/commentaries/husserl/husserliana-33-die-bernauer-manuskripte-uber-das-zeitbewusstsein-commentary.html#individuality-and-identity-of-time-objects-fact-and-essence-ur-presentation-and-the-individuality-of-present-givenness-the-continuous-pastness-modification-and-the-identical-time-position)
+  > This full sense is the individual essence (*individuelles Wesen*) of the object, encompassing its identical time-duration and the distribution of its temporal filling over this duration.
+
+- **revised** · `wesen/hua33-bernau/005` · *individual essence*
+  The individual essence is said to be a universal in that it is an identical general particularizing itself here and there, as individual actuality or individual possibility.
+  `husserliana-33-die-bernauer-manuskripte-uber-das-zeitbewusstsein-commentary#h4-s-1-individuality-and-identity-of-time-objects-fact-and-essence-ur-presentation` · [§ 1\. Individuality and Identity of Time-Objects (Fact and Essence): Ur-Presentation and the Individuality of Present Givenness, the Continuous Pastness-Modification and the Identical Time-Position](https://faultynode.github.io/commentaries/commentaries/husserl/husserliana-33-die-bernauer-manuskripte-uber-das-zeitbewusstsein-commentary.html#individuality-and-identity-of-time-objects-fact-and-essence-ur-presentation-and-the-individuality-of-present-givenness-the-continuous-pastness-modification-and-the-identical-time-position)
+  > It is one in that it is an identical general that particularizes itself here and there, as individual actuality or individual possibility.
+
+- **presupposed** · `wesen/hua33-bernau/006` · *concrete essence*
+  Returning to the Ideas I distinction of sachhaltig essence and tode ti, concrete essence is said to contain abstract essences, every essence being individualized through the tode ti.
+  `husserliana-33-die-bernauer-manuskripte-uber-das-zeitbewusstsein-commentary#h4-s-2-the-tode-ti-the-concrete-temporally-individuated-essence-and-its-temporal-ex` · Ideas I · [§ 2\. The τόδε τι. The Concrete, Temporally Individuated Essence and Its Temporal Extension. Division and Extension of Temporal Extension in Formal Consideration (Time-Axioms)](https://faultynode.github.io/commentaries/commentaries/husserl/husserliana-33-die-bernauer-manuskripte-uber-das-zeitbewusstsein-commentary.html#the---the-concrete-temporally-individuated-essence-and-its-temporal-extension-division-and-extension-of-temporal-extension-in-formal-consideration-time-axioms)
+  > Concrete essence contains abstract (non-independent) essences; every essence is individualized through the τόδε τι.
+
+- **introduced** · `wesen/hua33-bernau/007` · *logical essence of essence*
+  To the logical essence of essence is said to belong being an identical universal in relation to an open pure possibility of an infinite range of particulars, each an absolute once-only this-here.
+  `husserliana-33-die-bernauer-manuskripte-uber-das-zeitbewusstsein-commentary#h4-s-2-the-tode-ti-the-concrete-temporally-individuated-essence-and-its-temporal-ex` · [§ 2\. The τόδε τι. The Concrete, Temporally Individuated Essence and Its Temporal Extension. Division and Extension of Temporal Extension in Formal Consideration (Time-Axioms)](https://faultynode.github.io/commentaries/commentaries/husserl/husserliana-33-die-bernauer-manuskripte-uber-das-zeitbewusstsein-commentary.html#the---the-concrete-temporally-individuated-essence-and-its-temporal-extension-division-and-extension-of-temporal-extension-in-formal-consideration-time-axioms)
+  > to the logical essence of essence belongs being an identical universal in relation to an open pure possibility of an infinite range of particulars — each an absolute once-only this-here
+
+- **introduced** · `wesen/hua33-bernau/008` · *formal essence*
+  Temporal extension is said to belong to the formal essence of the concretum and, as a moment of an essence, to be itself an abstract essence in a distinguished position.
+  `husserliana-33-die-bernauer-manuskripte-uber-das-zeitbewusstsein-commentary#h4-s-2-the-tode-ti-the-concrete-temporally-individuated-essence-and-its-temporal-ex` · [§ 2\. The τόδε τι. The Concrete, Temporally Individuated Essence and Its Temporal Extension. Division and Extension of Temporal Extension in Formal Consideration (Time-Axioms)](https://faultynode.github.io/commentaries/commentaries/husserl/husserliana-33-die-bernauer-manuskripte-uber-das-zeitbewusstsein-commentary.html#the---the-concrete-temporally-individuated-essence-and-its-temporal-extension-division-and-extension-of-temporal-extension-in-formal-consideration-time-axioms)
+  > temporal extension, as moment of an essence, is itself an abstract essence occupying a distinguished position
+
+#### Recorded absences
+
+- **absent** · `husserliana-33-die-bernauer-manuskripte-uber-das-zeitbewusstsein-commentary#h4-s-2-the-tode-ti-the-concrete-temporally-individuated-essence-and-its-temporal-ex`
+  Expected because: This section states what the logical essence of essence is - an identical universal over an infinite range of once-only particulars - which is the anti-nominalist thesis the theme was opened to trace, and states it without the method by which such an essence is seen or any rival account of its standing.
+  Bears on gap-007. The universality of essence is grounded here in the tode ti and in temporal individuation, not in variation, innateness or immutability.
+  [§ 2\. The τόδε τι. The Concrete, Temporally Individuated Essence and Its Temporal Extension. Division and Extension of Temporal Extension in Formal Consideration (Time-Axioms)](https://faultynode.github.io/commentaries/commentaries/husserl/husserliana-33-die-bernauer-manuskripte-uber-das-zeitbewusstsein-commentary.html#the---the-concrete-temporally-individuated-essence-and-its-temporal-extension-division-and-extension-of-temporal-extension-in-formal-consideration-time-axioms)
+
+*Partial pass: Covers three short sections of the appended texts - 'The Time-Relation of the Pure Ego' § 1, 'Temporal Streaming and the Constitution of Individual Objectual Being' § 1, and 'On the Phenomenology of Individuation' § 2. The main body of the Bernau manuscripts on protention and retention, which carries most of the file's 'essential' hits adverbially, was keyword-scanned only.*
+
+### 1921 - Husserl, Hua 19/2 — Sixth Logical Investigation
+
+`husserliana-19-2-sixth-logical-investigation-commentary`
+
+- **presupposed** · `wesen/lu6/001` · *intentionales Wesen*
+  The insight carried over from the Fifth Investigation is that the meaning of expressions lies in the intentional essence of the acts in question.
+  `husserliana-19-2-sixth-logical-investigation-commentary#h2-introduction` · LU VI, Introduction · [Introduction](https://faultynode.github.io/commentaries/commentaries/husserl/husserliana-19-2-sixth-logical-investigation-commentary.html#introduction)
+  > unmistakably, the meaning of expressions lies in the intentional essence of the acts in question
+
+- **introduced** · `wesen/lu6/002` · *erkenntnismäßiges Wesen*
+  The Investigation announces that the cognitive essence will be added to the previous concept of the intentional essence.
+  `husserliana-19-2-sixth-logical-investigation-commentary#h2-introduction` · LU VI, Introduction · [Introduction](https://faultynode.github.io/commentaries/commentaries/husserl/husserliana-19-2-sixth-logical-investigation-commentary.html#introduction)
+  > To the previous concept of the intentional essence there will be added the *cognitive essence* (*erkenntnismäßiges Wesen*)
+
+- **introduced** · `wesen/lu6/003` · *fulfilling sense*
+  The fulfilling sense, as the intentional essence of the fulfilling intuitive act, is said to coincide with the meaningful essence of the meaning-intention.
+  `husserliana-19-2-sixth-logical-investigation-commentary#h3-s-28-intentional-essence-and-fulfilling-sense-cognitive-essence-intuitions-in-sp` · LU VI § 28 · [§ 28\. Intentional essence and fulfilling sense. Cognitive essence. Intuitions in specie](https://faultynode.github.io/commentaries/commentaries/husserl/husserliana-19-2-sixth-logical-investigation-commentary.html#intentional-essence-and-fulfilling-sense-cognitive-essence-intuitions-in-specie)
+  > the *fulfilling sense*, as the *intentional essence* of the fulfilling intuitive act, coincides with the meaningful essence (the intentional essence of the meaning-intention)
+
+- **introduced** · `wesen/lu6/004` · *species*
+  The fulfilling sense taken as a species is called the ideal-identical to be grasped through ideating abstraction in the manifold of mutually corresponding intuitions.
+  `husserliana-19-2-sixth-logical-investigation-commentary#h3-s-28-intentional-essence-and-fulfilling-sense-cognitive-essence-intuitions-in-sp` · LU VI § 28 · [§ 28\. Intentional essence and fulfilling sense. Cognitive essence. Intuitions in specie](https://faultynode.github.io/commentaries/commentaries/husserl/husserliana-19-2-sixth-logical-investigation-commentary.html#intentional-essence-and-fulfilling-sense-cognitive-essence-intuitions-in-specie)
+  > the *ideal-identical to be grasped through ideating abstraction in the manifold of mutually corresponding intuitions*
+
+- **introduced** · `wesen/lu6/005` · *essence*
+  What counts as the essence of an objectifying intention is stated to be that which no such intention can lack, or which is not freely variable without affecting its relation to the objective.
+  `husserliana-19-2-sixth-logical-investigation-commentary#h3-s-28-intentional-essence-and-fulfilling-sense-cognitive-essence-intuitions-in-sp` · LU VI § 28 · [§ 28\. Intentional essence and fulfilling sense. Cognitive essence. Intuitions in specie](https://faultynode.github.io/commentaries/commentaries/husserl/husserliana-19-2-sixth-logical-investigation-commentary.html#intentional-essence-and-fulfilling-sense-cognitive-essence-intuitions-in-specie)
+  > there must count as the *essence* of an objectifying intention that which no intention of this kind can lack, or which is not freely variable in any such intention without its being affected, according to ideal necessity, in respect of its relation to the objective
+
+- **introduced** · `wesen/lu6/006` · *cognitive essence*
+  The cognitive essence of an objectifying act is defined as the entire content coming into consideration for the knowledge-function, comprising quality, matter and fullness.
+  `husserliana-19-2-sixth-logical-investigation-commentary#h3-s-28-intentional-essence-and-fulfilling-sense-cognitive-essence-intuitions-in-sp` · LU VI § 28 · [§ 28\. Intentional essence and fulfilling sense. Cognitive essence. Intuitions in specie](https://faultynode.github.io/commentaries/commentaries/husserl/husserliana-19-2-sixth-logical-investigation-commentary.html#intentional-essence-and-fulfilling-sense-cognitive-essence-intuitions-in-specie)
+  > We define accordingly the *cognitive essence* of an objectifying act (*erkenntnismäßiges Wesen*, as against its merely meaningful essence) as *the entire content coming into consideration for the knowledge-function*.
+
+- **introduced** · `wesen/lu6/007` · *in specie*
+  All objectifying acts of the same cognitive essence are said to be, for the ideal interest of the critique of knowledge, the same act, which is what talk of acts in specie has in view.
+  `husserliana-19-2-sixth-logical-investigation-commentary#h3-s-28-intentional-essence-and-fulfilling-sense-cognitive-essence-intuitions-in-sp` · LU VI § 28 · [§ 28\. Intentional essence and fulfilling sense. Cognitive essence. Intuitions in specie](https://faultynode.github.io/commentaries/commentaries/husserl/husserliana-19-2-sixth-logical-investigation-commentary.html#intentional-essence-and-fulfilling-sense-cognitive-essence-intuitions-in-specie)
+  > *All objectifying acts of the same cognitive essence are, for the ideal interest of the critique of knowledge, "the same" act.*
+
+#### Recorded absences
+
+- **absent** · `husserliana-19-2-sixth-logical-investigation-commentary#h3-s-28-intentional-essence-and-fulfilling-sense-cognitive-essence-intuitions-in-sp`
+  Expected because: The section defines essence by what cannot be freely varied without affecting the act's relation to its object - the criterion later phenomenology works out as eidetic variation - and so is the place where that method, or its vocabulary, would be named if the Investigations had it.
+  The invariance criterion is stated here in the vocabulary of ideating abstraction and species, with no eidetic terminology; this is the same finding as at LU V § 21.
+  [§ 28\. Intentional essence and fulfilling sense. Cognitive essence. Intuitions in specie](https://faultynode.github.io/commentaries/commentaries/husserl/husserliana-19-2-sixth-logical-investigation-commentary.html#intentional-essence-and-fulfilling-sense-cognitive-essence-intuitions-in-specie)
+
+*Partial pass: Covers § 28 (intentional essence and fulfilling sense; cognitive essence; intuitions in specie) in full and the Introduction for its programmatic statement of the two essence-concepts. Chapters One, Two, Four to Eight and the Appendix were keyword-scanned only. As in the Fifth Investigation, the essence-vocabulary here is 'intentional essence' and 'cognitive essence' in the Investigations' technical sense, not the later eidetic sense.*
+
+### 1923-1924 - Husserl, Hua 7 — Erste Philosophie I
+
+`husserliana-7-erste-philosophie-i-commentary`
+
+- **introduced** · `wesen/hua7-ersteph/001` · *essence-concepts*
+  An originally insightful and perfect production of pure essence-concepts is affirmed, in which essence-laws of apodictic universality and necessity are grounded.
+  `husserliana-7-erste-philosophie-i-commentary#h3-fifth-lecture-the-discovery-of-the-cognition-of-ideas-and-the-greek-beginnings-o` · Hua VII, Fifth Lecture · [Fifth Lecture: The discovery of the cognition of ideas and the Greek beginnings of philosophical, rational sciences](https://faultynode.github.io/commentaries/commentaries/husserl/husserliana-7-erste-philosophie-i-commentary.html#fifth-lecture-the-discovery-of-the-cognition-of-ideas-and-the-greek-beginnings-of-philosophical-rational-sciences)
+  > There is an originally insightful production — and also a perfect one — of pure essence-concepts, and in them are grounded essence-laws, laws of insightful apodictic universality and necessity.
+
+- **introduced** · `wesen/hua7-ersteph/002` · *Ideenerkenntnis*
+  The discovery made in the Socratic-Platonic reflection is named Ideenerkenntnis, eidetic cognition yielding apodictic essence-laws, whose first effect was the transformation of mathematics into a pure eidetic science.
+  `husserliana-7-erste-philosophie-i-commentary#h3-fifth-lecture-the-discovery-of-the-cognition-of-ideas-and-the-greek-beginnings-o` · Hua VII, Fifth Lecture · [Fifth Lecture: The discovery of the cognition of ideas and the Greek beginnings of philosophical, rational sciences](https://faultynode.github.io/commentaries/commentaries/husserl/husserliana-7-erste-philosophie-i-commentary.html#fifth-lecture-the-discovery-of-the-cognition-of-ideas-and-the-greek-beginnings-of-philosophical-rational-sciences)
+  > the discovery of *Ideenerkenntnis* — eidetic cognition — yielding apodictic essence-laws.
+
+- **introduced** · `wesen/hua7-ersteph/003` · *exact and morphological essences*
+  Exact, ideal-geometric essences are distinguished from morphological, descriptive type-essences, both intuitable but in different manners.
+  `husserliana-7-erste-philosophie-i-commentary#h3-nineteenth-lecture-the-necessity-of-the-extension-of-the-idea-of-intuition` · Hua VII, Nineteenth Lecture · [Nineteenth Lecture: The necessity of the extension of the idea of intuition](https://faultynode.github.io/commentaries/commentaries/husserl/husserliana-7-erste-philosophie-i-commentary.html#nineteenth-lecture-the-necessity-of-the-extension-of-the-idea-of-intuition)
+  > the distinction between the *exact* (ideal-geometric) essences and the *morphological* (descriptive, type-) essences — both intuitable, but in different manners
+
+- **criticized** · `wesen/hua7-ersteph/004` · *general essences*
+  Empiricism is charged with being the least empirical of doctrines because it refuses to let the general essences and relations given in insight count as what they are.
+  `husserliana-7-erste-philosophie-i-commentary#h3-nineteenth-lecture-the-necessity-of-the-extension-of-the-idea-of-intuition` · Hua VII, Nineteenth Lecture · [Nineteenth Lecture: The necessity of the extension of the idea of intuition](https://faultynode.github.io/commentaries/commentaries/husserl/husserliana-7-erste-philosophie-i-commentary.html#nineteenth-lecture-the-necessity-of-the-extension-of-the-idea-of-intuition)
+  > since it refuses to let the most evident self-givennesses — the general essences and relations given in insight — count as what they are.
+
+- **introduced** · `wesen/hua7-ersteph/005` · *Wesensintuition*
+  Consciousness in its basic shapings and transcendental accomplishments is said to be considerable in the method of essence-intuition, called the purely grasped Platonic method.
+  `husserliana-7-erste-philosophie-i-commentary#h3-nineteenth-lecture-the-necessity-of-the-extension-of-the-idea-of-intuition` · Hua VII, Nineteenth Lecture · [Nineteenth Lecture: The necessity of the extension of the idea of intuition](https://faultynode.github.io/commentaries/commentaries/husserl/husserliana-7-erste-philosophie-i-commentary.html#nineteenth-lecture-the-necessity-of-the-extension-of-the-idea-of-intuition)
+  > *can and must be considered in the method of essence-intuition* (*Wesensintuition*) — hence, as we can say, in the purely grasped *Platonic method*
+
+- **introduced** · `wesen/hua7-ersteph/006` · *essence-shapes*
+  The science of consciousness is required to be not merely descriptive of facts but eidetic, an a priori science of the essence-shapes of consciousness.
+  `husserliana-7-erste-philosophie-i-commentary#h3-nineteenth-lecture-the-necessity-of-the-extension-of-the-idea-of-intuition` · Hua VII, Nineteenth Lecture · [Nineteenth Lecture: The necessity of the extension of the idea of intuition](https://faultynode.github.io/commentaries/commentaries/husserl/husserliana-7-erste-philosophie-i-commentary.html#nineteenth-lecture-the-necessity-of-the-extension-of-the-idea-of-intuition)
+  > the science of consciousness must be not merely descriptive of facts but *eidetic*, an a priori science of the essence-shapes of consciousness
+
+- **presupposed** · `wesen/hua7-ersteph/007` · *essence-lawfulnesses*
+  Grounding would be an empty delusion if there were no possibility of indubitably grounding general essence-peculiarities and essence-lawfulnesses as principles of all further clarifications.
+  `husserliana-7-erste-philosophie-i-commentary#h3-twenty-fourth-lecture-the-necessary-eidetics-of-the-science-of-consciousness-and` · Hua VII, Twenty-fourth Lecture · [Twenty-fourth Lecture: The necessary eidetics of the science of consciousness and the inductive-empirical objectivism in Hume](https://faultynode.github.io/commentaries/commentaries/husserl/husserliana-7-erste-philosophie-i-commentary.html#twenty-fourth-lecture-the-necessary-eidetics-of-the-science-of-consciousness-and-the-inductive-empirical-objectivism-in-hume)
+  > if there failed possibilities of grounding, in indubitable manner, *general essence-peculiarities, essence-lawfulnesses* as principles of all further-to-be-accomplished clarifications.
+
+#### Recorded absences
+
+- **absent** · `husserliana-7-erste-philosophie-i-commentary#h3-nineteenth-lecture-the-necessity-of-the-extension-of-the-idea-of-intuition`
+  Expected because: The lecture defends exact geometric essences against empiricism and names the method of essence-intuition the Platonic method, so it is the natural place for the rival rationalist account - Descartes' true and immutable natures as innate ideas - to be named and either claimed or refused.
+  Bears on gap-007. The commentary traces essence-cognition to Plato, not to Descartes; the Cartesian vocabulary is absent from this lecture.
+  [Nineteenth Lecture: The necessity of the extension of the idea of intuition](https://faultynode.github.io/commentaries/commentaries/husserl/husserliana-7-erste-philosophie-i-commentary.html#nineteenth-lecture-the-necessity-of-the-extension-of-the-idea-of-intuition)
+
+*Partial pass: Covers the Fifth Lecture (the Greek discovery of Ideenerkenntnis), the Nineteenth Lecture (the extension of the idea of intuition and the demand for a method of essence-intuition) and the Twenty-fourth Lecture (the necessary eidetics of the science of consciousness). The remaining lectures, including the Twenty-seventh on Leibniz and Kant, were keyword-scanned only.*
+
+### 1925 - Husserl, Hua 9 — Phenomenological Psychology
+
+`husserliana-9-phenomenological-psychology-commentary`
+
+- **introduced** · `wesen/hua9-psych/001` · *eidetics*
+  The basic characters of the new psychology are listed as apriority, eidetics, intuition or pure description, intentionality, and remaining in the natural dogmatic attitude.
+  `husserliana-9-phenomenological-psychology-commentary#h3-s-4-summarizing-characterization-of-the-new-psychology` · Hua IX § 4 · [§ 4\. Summarizing Characterization of the New Psychology](https://faultynode.github.io/commentaries/commentaries/husserl/husserliana-9-phenomenological-psychology-commentary.html#summarizing-characterization-of-the-new-psychology)
+  > then they were, in catchwords: *apriority*, *eidetics*, *intuition or pure description*, *intentionality*
+
+- **introduced** · `wesen/hua9-psych/002` · *essential generalities*
+  Apriority is glossed as aiming in the first place at essential generalities and necessities, at everything without which psychological being and life are unthinkable.
+  `husserliana-9-phenomenological-psychology-commentary#h3-s-4-summarizing-characterization-of-the-new-psychology` · Hua IX § 4 · [§ 4\. Summarizing Characterization of the New Psychology](https://faultynode.github.io/commentaries/commentaries/husserl/husserliana-9-phenomenological-psychology-commentary.html#summarizing-characterization-of-the-new-psychology)
+  > this psychology aims *in the first place* at essential generalities and necessities — at everything *without which* psychological being and life are simply unthinkable
+
+- **introduced** · `wesen/hua9-psych/003` · *essential establishments*
+  The establishments are said to be gained as essential establishments in which the necessity and unconditional generality of validity itself becomes the intuited, not a surmised necessity.
+  `husserliana-9-phenomenological-psychology-commentary#h3-s-4-summarizing-characterization-of-the-new-psychology` · Hua IX § 4 · [§ 4\. Summarizing Characterization of the New Psychology](https://faultynode.github.io/commentaries/commentaries/husserl/husserliana-9-phenomenological-psychology-commentary.html#summarizing-characterization-of-the-new-psychology)
+  > These are *not surmised, supposed essential necessities*, but the necessity and unconditional generality of validity *itself* becomes the *intuited*.
+
+- **presupposed** · `wesen/hua9-psych/004` · *Wesensschau*
+  The intuitive ascent to general necessities is glossed as a Wesensschau and distinguished from hypothetical inference.
+  `husserliana-9-phenomenological-psychology-commentary#h3-s-4-summarizing-characterization-of-the-new-psychology` · Hua IX § 4 · [§ 4\. Summarizing Characterization of the New Psychology](https://faultynode.github.io/commentaries/commentaries/husserl/husserliana-9-phenomenological-psychology-commentary.html#summarizing-characterization-of-the-new-psychology)
+  > The ascent to general necessities is an *intuitive* ascent — a *Wesensschau* — and not a hypothetical inference.
+
+- **introduced** · `wesen/hua9-psych/005` · *most general essential character*
+  Intentionality is brought out by this procedure as the most general essential character of psychic being and life.
+  `husserliana-9-phenomenological-psychology-commentary#h3-s-4-summarizing-characterization-of-the-new-psychology` · Hua IX § 4 · [§ 4\. Summarizing Characterization of the New Psychology](https://faultynode.github.io/commentaries/commentaries/husserl/husserliana-9-phenomenological-psychology-commentary.html#summarizing-characterization-of-the-new-psychology)
+  > the *most general essential character* of psychic being and life is brought out: *intentionality*
+
+- **introduced** · `wesen/hua9-psych/006` · *essential world-regions*
+  The method of ideation is said to have been described as the means to a radical conceptual articulation of the world into the essential world-regions, not merely as an example of analysis.
+  `husserliana-9-phenomenological-psychology-commentary#h3-s-10-the-method-of-intuitive-generalization-and-ideation-as-instruments-for-gain` · Hua IX § 10 · [§ 10\. The Method of Intuitive Generalization and Ideation as Instruments for Gaining the General Structural Concepts of a World as Such, Starting from the Experiential World ("Natural World-Concept"). Possibility of an Articulation of the World-Sciences and Bringing Out the Significance of the Science of Spirit](https://faultynode.github.io/commentaries/commentaries/husserl/husserliana-9-phenomenological-psychology-commentary.html#the-method-of-intuitive-generalization-and-ideation-as-instruments-for-gaining-the-general-structural-concepts-of-a-world-as-such-starting-from-the-experiential-world-natural-world-concept-possibility-of-an-articulation-of-the-world-sciences-and-bringing-out-the-significance-of-the-science-of-spirit)
+  > but rather as the *means* by which we can come to a *radical division of the world-sciences*, indeed to a *radical conceptual articulation of the world* into the *essential world-regions*
+
+- **revised** · `wesen/hua9-psych/007` · *ideation*
+  Against the prejudice that an a priori method belongs only to mathematics, ideation is said to be practicable wherever objectivities come to original intuitive givenness.
+  `husserliana-9-phenomenological-psychology-commentary#h3-s-10-the-method-of-intuitive-generalization-and-ideation-as-instruments-for-gain` · Hua IX § 10 · [§ 10\. The Method of Intuitive Generalization and Ideation as Instruments for Gaining the General Structural Concepts of a World as Such, Starting from the Experiential World ("Natural World-Concept"). Possibility of an Articulation of the World-Sciences and Bringing Out the Significance of the Science of Spirit](https://faultynode.github.io/commentaries/commentaries/husserl/husserliana-9-phenomenological-psychology-commentary.html#the-method-of-intuitive-generalization-and-ideation-as-instruments-for-gaining-the-general-structural-concepts-of-a-world-as-such-starting-from-the-experiential-world-natural-world-concept-possibility-of-an-articulation-of-the-world-sciences-and-bringing-out-the-significance-of-the-science-of-spirit)
+  > *wherever* and *at whatever stage* objectivities come to original intuitive givenness, the method of ideation can be practiced and essential generalities can be purely intuitively brought to view
+
+#### Recorded absences
+
+- **absent** · `husserliana-9-phenomenological-psychology-commentary#h3-s-4-summarizing-characterization-of-the-new-psychology`
+  Expected because: The section is the commentary's summary statement of what makes the new psychology eidetic, and names Wesensschau explicitly, so it is where essences would be compared to innate or immutable natures, or called a residuum, if this commentary did either.
+  Bears on gap-007. The a priori is sourced here to inner intuition and intuitive ascent, with no appeal to innateness and no residuum-vocabulary.
+  [§ 4\. Summarizing Characterization of the New Psychology](https://faultynode.github.io/commentaries/commentaries/husserl/husserliana-9-phenomenological-psychology-commentary.html#summarizing-characterization-of-the-new-psychology)
+
+*Partial pass: Covers § 4 (the summarizing characterization of the new psychology, where apriority and eidetics are listed as its basic characters) and § 10 (intuitive generalization and ideation). §§ 5-9 and §§ 11 onward, including the long eidetic-method sections of the Systematic Part, were keyword-scanned only.*
+
+### 1927 - Being and Time Commentary
+
+`heidegger-being-and-time-commentary`
+
+- **revised** · `wesen/heidegger-bt/001` · *essentia*
+  The essence of Dasein is said to lie in its having-to-be, its what-being (essentia) being graspable only from its being (existentia), if at all.
+  `heidegger-being-and-time-commentary#h3-s-9-the-theme-of-the-analytic-of-dasein` · SZ § 9 · [§ 9. The Theme of the Analytic of Dasein](https://faultynode.github.io/commentaries/commentaries/heidegger/heidegger-being-and-time-commentary.html#the-theme-of-the-analytic-of-dasein)
+  > the "essence" of this being lies in its *having-to-be* (*Zu-sein*). The what-being (*essentia*) of this being must, insofar as one can speak of it at all, be grasped from its Being (*existentia*).
+
+- **criticized** · `wesen/heidegger-bt/002` · *existentia*
+  The title existence is said not to have the ontological meaning of the traditional existentia, which means presence-at-hand, a mode of being that does not belong to Dasein.
+  `heidegger-being-and-time-commentary#h3-s-9-the-theme-of-the-analytic-of-dasein` · SZ § 9 · [§ 9. The Theme of the Analytic of Dasein](https://faultynode.github.io/commentaries/commentaries/heidegger/heidegger-being-and-time-commentary.html#the-theme-of-the-analytic-of-dasein)
+  > *existentia* ontologically means as much as presence-at-hand (*Vorhandenheit*), a mode of Being that essentially does not belong to the being of the character of Dasein
+
+- **revised** · `wesen/heidegger-bt/003` · *essence*
+  The commentary glosses the formula as a radical departure from all substance-metaphysics: Dasein has no fixed nature, its what being its how.
+  `heidegger-being-and-time-commentary#h3-s-9-the-theme-of-the-analytic-of-dasein` · SZ § 9 · [§ 9. The Theme of the Analytic of Dasein](https://faultynode.github.io/commentaries/commentaries/heidegger/heidegger-being-and-time-commentary.html#the-theme-of-the-analytic-of-dasein)
+  > This is a radical departure from all substance-metaphysics: Dasein has no fixed nature. Its "what" just *is* its "how" — its manner of existing.
+
+- **criticized** · `wesen/heidegger-bt/004` · *properties*
+  The characters exhibitable in Dasein are said not to be present-at-hand properties but in each case possible ways for it to be, all its so-being being primarily being.
+  `heidegger-being-and-time-commentary#h3-s-9-the-theme-of-the-analytic-of-dasein` · SZ § 9 · [§ 9. The Theme of the Analytic of Dasein](https://faultynode.github.io/commentaries/commentaries/heidegger/heidegger-being-and-time-commentary.html#the-theme-of-the-analytic-of-dasein)
+  > The characters exhibitable in this being are therefore not present-at-hand "properties" of a present-at-hand being that "looks" thus-and-so, but in each case possible ways for it to be, and only that.
+
+- **presupposed** · `wesen/heidegger-bt/005` · *by its essence*
+  Dasein can have lost itself or not yet won itself only insofar as it is by its essence possible authentic, that is, belonging to itself.
+  `heidegger-being-and-time-commentary#h3-s-9-the-theme-of-the-analytic-of-dasein` · SZ § 9 · [§ 9. The Theme of the Analytic of Dasein](https://faultynode.github.io/commentaries/commentaries/heidegger/heidegger-being-and-time-commentary.html#the-theme-of-the-analytic-of-dasein)
+  > insofar as it is by its essence possible authentic — that is, belonging to itself
+
+- **revised** · `wesen/heidegger-bt/006` · *eidos*
+  A mode of being toward the world is said to let intraworldly beings be encountered only in their pure look, rendered eidos, on the basis of which an explicit looking-at becomes possible.
+  `heidegger-being-and-time-commentary#h3-s-13-the-exemplification-of-being-in-through-a-founded-mode-world-cognition` · SZ § 13 · [§ 13. The Exemplification of Being-in through a Founded Mode: World-Cognition](https://faultynode.github.io/commentaries/commentaries/heidegger/heidegger-being-and-time-commentary.html#the-exemplification-of-being-in-through-a-founded-mode-world-cognition)
+  > which lets intraworldly beings be encountered only in their pure look (*eidos*)
+
+#### Recorded absences
+
+- **absent** · `heidegger-being-and-time-commentary#h3-s-9-the-theme-of-the-analytic-of-dasein`
+  Expected because: The section suspends the essentia/existentia pair for Dasein and so settles what 'essence' may mean in this commentary; the parallel commentary on the same text, heidegger-sein-und-zeit-commentary, reaches the Wesensschau at its § 31, so the question is whether this one does anywhere.
+  It does not: 'Wesensschau' and 'eidetic' occur nowhere in this commentary, and its single 'eidos' is the pure look of § 13, not Husserl's. Recorded so the two commentaries on Sein und Zeit can be told apart on this theme.
+  [§ 9. The Theme of the Analytic of Dasein](https://faultynode.github.io/commentaries/commentaries/heidegger/heidegger-being-and-time-commentary.html#the-theme-of-the-analytic-of-dasein)
+
+*Partial pass: Covers § 9 (the theme of the analytic of Dasein) in full, and records the single occurrence of eidos at § 13. The rest of the Introduction and both Divisions were keyword-scanned only. Unlike heidegger-sein-und-zeit-commentary, this commentary never names the Wesensschau.*
+
+### 1927 to 1953 - Sein und Zeit — Commentary
+
+`heidegger-sein-und-zeit-commentary`
+
+- **revised** · `wesen/heidegger-sz/001` · *essentia*
+  The essence of Dasein is said to lie in its to-be, so that its what-being (essentia) must be conceived from its being (existentia), if it can be spoken of at all.
+  `heidegger-sein-und-zeit-commentary#h5-s-9-the-theme-of-the-analytic-of-dasein` · SZ § 9 · [§ 9. The Theme of the Analytic of Dasein](https://faultynode.github.io/commentaries/commentaries/heidegger/heidegger-sein-und-zeit-commentary.html#the-theme-of-the-analytic-of-dasein)
+  > the "essence" of this being lies in its to-be (Zu-sein). Its what-being (essentia), so far as one can speak of it at all, must be conceived from its being (existentia)
+
+- **criticized** · `wesen/heidegger-sz/002` · *essentia/existentia*
+  The commentary states that the scholastic pair essentia/existentia is not applied to Dasein but suspended for it, the tradition's word for existence naming the wrong mode of being.
+  `heidegger-sein-und-zeit-commentary#h5-s-9-the-theme-of-the-analytic-of-dasein` · SZ § 9 · [§ 9. The Theme of the Analytic of Dasein](https://faultynode.github.io/commentaries/commentaries/heidegger/heidegger-sein-und-zeit-commentary.html#the-theme-of-the-analytic-of-dasein)
+  > the scholastic pair essentia/existentia is not applied to Dasein but suspended for it - Dasein's "what" is a "to-be," and the tradition's word for existence names precisely the wrong mode of being
+
+- **revised** · `wesen/heidegger-sz/003` · *essence*
+  The formula that the essence of Dasein lies in its existence is read as suspending the essence-question rather than as naming existence as Dasein's essence, the quotation marks doing that work.
+  `heidegger-sein-und-zeit-commentary#h5-s-9-the-theme-of-the-analytic-of-dasein` · SZ § 9 · [§ 9. The Theme of the Analytic of Dasein](https://faultynode.github.io/commentaries/commentaries/heidegger/heidegger-sein-und-zeit-commentary.html#the-theme-of-the-analytic-of-dasein)
+  > the sentence is not an essentialist thesis with existence as the essence (the misreading Sartre would canonize) but the suspension of the essence-question in favor of the to-be
+
+- **criticized** · `wesen/heidegger-sz/004` · *properties*
+  Because the essence of Dasein lies in its existence, the characters exhibited in it are said to be possible ways for it to be and not present-at-hand properties of a present-at-hand being.
+  `heidegger-sein-und-zeit-commentary#h5-s-9-the-theme-of-the-analytic-of-dasein` · SZ § 9 · [§ 9. The Theme of the Analytic of Dasein](https://faultynode.github.io/commentaries/commentaries/heidegger/heidegger-sein-und-zeit-commentary.html#the-theme-of-the-analytic-of-dasein)
+  > The characters exhibitable in this being are therefore not present-at-hand "properties" of a present-at-hand being that "looks" thus and so, but in each case possible ways for it to be
+
+- **presupposed** · `wesen/heidegger-sz/005` · *according to its essence*
+  Dasein can lose or win itself only insofar as it is, according to its essence, possible authentic, and the pair authenticity/inauthenticity is grounded in mineness.
+  `heidegger-sein-und-zeit-commentary#h5-s-9-the-theme-of-the-analytic-of-dasein` · SZ § 9 · [§ 9. The Theme of the Analytic of Dasein](https://faultynode.github.io/commentaries/commentaries/heidegger/heidegger-sein-und-zeit-commentary.html#the-theme-of-the-analytic-of-dasein)
+  > only insofar as it is, according to its essence, possible authentic - that is, its own (sich zueigen)
+
+- **presupposed** · `wesen/heidegger-sz/006` · *essential being-possible*
+  Dasein's essential being-possible is said to concern attending to the world, solicitude for others, and always already the potentiality-of-being toward itself.
+  `heidegger-sein-und-zeit-commentary#h6-s-31-da-sein-as-understanding` · SZ § 31 · [§ 31. Da-sein as Understanding](https://faultynode.github.io/commentaries/commentaries/heidegger/heidegger-sein-und-zeit-commentary.html#da-sein-as-understanding)
+  > Its essential being-possible concerns the characterized ways of attending to the "world," of solicitude for others, and, in all this and always already, the potentiality-of-being toward itself, for its own sake.
+
+- **criticized** · `wesen/heidegger-sz/007` · *Wesensschau*
+  The phenomenological intuition of essences is said to ground in existential understanding, with a decision about that kind of seeing deferred until the concepts of being and being-structure are won.
+  `heidegger-sein-und-zeit-commentary#h6-s-31-da-sein-as-understanding` · SZ § 31 · [§ 31. Da-sein as Understanding](https://faultynode.github.io/commentaries/commentaries/heidegger/heidegger-sein-und-zeit-commentary.html#da-sein-as-understanding)
+  > even the phenomenological "intuition of essences" (Wesensschau) grounds in existential understanding
+
+- **criticized** · `wesen/heidegger-sz/008` · *Wesensschau*
+  The commentary reads the closing sentence of the section as filing Husserl's Wesensschau as a founded mode subordinate to the existential understanding it presupposes.
+  `heidegger-sein-und-zeit-commentary#h6-s-31-da-sein-as-understanding` · SZ § 31 · [§ 31. Da-sein as Understanding](https://faultynode.github.io/commentaries/commentaries/heidegger/heidegger-sein-und-zeit-commentary.html#da-sein-as-understanding)
+  > the last sentence quietly subordinates Husserl's supreme court, the Wesensschau, to the existential understanding it presupposes
+
+#### Recorded absences
+
+- **absent** · `heidegger-sein-und-zeit-commentary#h5-s-9-the-theme-of-the-analytic-of-dasein`
+  Expected because: This is the section that suspends the essentia/existentia pair for Dasein and so states what 'essence' may and may not mean in the book; if the eidetic sense of essence were at issue anywhere in Division One it would be here, where the traditional sense is being refused.
+  The commentary's only eidetic vocabulary sits at § 31, where Wesensschau is named once and subordinated to existential understanding; the essence-question is refused at § 9 without reference to it.
+  [§ 9. The Theme of the Analytic of Dasein](https://faultynode.github.io/commentaries/commentaries/heidegger/heidegger-sein-und-zeit-commentary.html#the-theme-of-the-analytic-of-dasein)
+
+*Partial pass: Covers § 9 (the theme of the analytic of Dasein, where the essentia/existentia pair is suspended for Dasein) and § 31 (Da-sein as understanding, which carries the commentary's single use of Wesensschau). The rest of the commentary - Divisions One and Two outside these sections - was keyword-scanned only; in it 'essential' occurs overwhelmingly as an ordinary adverbial intensifier rather than as a term of art.*
+
+### 1929 - Heidegger, GA 3 — Kant und das Problem der Metaphysik
+
+`heidegger-ga-3-kant-und-das-problem-der-metaphysik-commentary`
+
+- **introduced** · `wesen/ga3-kant/001` · *essence*
+  The finitude of human knowledge is located in the essential structure of knowledge itself rather than in defects of knowing, whose factical limitedness is called a consequence of that essence.
+  `heidegger-ga-3-kant-und-das-problem-der-metaphysik-commentary#h5-s-4-the-essence-of-knowledge-in-general` · GA 3 § 4 · [§ 4. The Essence of Knowledge in General](https://faultynode.github.io/commentaries/commentaries/heidegger/heidegger-ga-3-kant-und-das-problem-der-metaphysik-commentary.html#the-essence-of-knowledge-in-general)
+  > it lies in the essential structure of knowledge itself. The factical limitedness of knowing is only a consequence of that essence.
+
+- **presupposed** · `wesen/ga3-kant/002` · *essence of knowing*
+  Exhibiting the essence of finitude is said to require a general characterization of the essence of knowing, whose first sentence in the Critique makes intuition primary.
+  `heidegger-ga-3-kant-und-das-problem-der-metaphysik-commentary#h5-s-4-the-essence-of-knowledge-in-general` · GA 3 § 4 · [§ 4. The Essence of Knowledge in General](https://faultynode.github.io/commentaries/commentaries/heidegger/heidegger-ga-3-kant-und-das-problem-der-metaphysik-commentary.html#the-essence-of-knowledge-in-general)
+  > Exhibiting the essence of finitude requires a general characterization of the essence of knowing
+
+- **revised** · `wesen/ga3-kant/003` · *essence of sensibility*
+  The essence of sensibility is made to consist in the finitude of intuition rather than in sense-organs, which yields an ontological, non-sensualist concept of sensibility.
+  `heidegger-ga-3-kant-und-das-problem-der-metaphysik-commentary#h5-s-5-the-essence-of-the-finitude-of-knowledge` · GA 3 § 5 · [§ 5. The Essence of the Finitude of Knowledge](https://faultynode.github.io/commentaries/commentaries/heidegger/heidegger-ga-3-kant-und-das-problem-der-metaphysik-commentary.html#the-essence-of-the-finitude-of-knowledge)
+  > The essence of sensibility consists in the finitude of intuition; the organs serving affection are *sense*-organs because they belong to finite intuition.
+
+- **presupposed** · `wesen/ga3-kant/004` · *essence*
+  Finite intuition is said to be approached and affected by the intuitable by its essence, so that affection is deduced from receptivity rather than presupposed as a physical fact.
+  `heidegger-ga-3-kant-und-das-problem-der-metaphysik-commentary#h5-s-5-the-essence-of-the-finitude-of-knowledge` · GA 3 § 5 · [§ 5. The Essence of the Finitude of Knowledge](https://faultynode.github.io/commentaries/commentaries/heidegger/heidegger-ga-3-kant-und-das-problem-der-metaphysik-commentary.html#the-essence-of-the-finitude-of-knowledge)
+  > by its essence it must be approached, affected, by what is intuitable in it. Affection is thus deduced from receptivity rather than presupposed as a physical fact
+
+- **criticized** · `wesen/ga3-kant/005` · *essentially sensible*
+  The objection that the imagination is essentially sensible and so cannot be the origin of the understanding is stated and then refused as resting on a rank-order of faculties that the grounding-consideration does not use.
+  `heidegger-ga-3-kant-und-das-problem-der-metaphysik-commentary#h4-s-29-the-transcendental-imagination-and-theoretical-reason` · GA 3 § 29 · [§ 29. The Transcendental Imagination and Theoretical Reason](https://faultynode.github.io/commentaries/commentaries/heidegger/heidegger-ga-3-kant-und-das-problem-der-metaphysik-commentary.html#the-transcendental-imagination-and-theoretical-reason)
+  > How is it, as an essentially sensible, that is, lower faculty, to form the origin for the higher and "upper" one?
+
+- **introduced** · `wesen/ga3-kant/006` · *human essence*
+  The highest principle is said to speak of the essential constitution of the human essence as such, insofar as that essence is determined as finite pure reason.
+  `heidegger-ga-3-kant-und-das-problem-der-metaphysik-commentary#h4-s-31-the-originality-of-the-laid-ground-and-kant-s-shrinking-back-before-the-tra` · GA 3 § 31 · [§ 31. The Originality of the Laid Ground and Kant's Shrinking Back before the Transcendental Imagination](https://faultynode.github.io/commentaries/commentaries/heidegger/heidegger-ga-3-kant-und-das-problem-der-metaphysik-commentary.html#the-originality-of-the-laid-ground-and-kants-shrinking-back-before-the-transcendental-imagination)
+  > it speaks of the essential constitution of the human essence as such, insofar as that essence is determined as finite pure reason
+
+- **presupposed** · `wesen/ga3-kant/007` · *original essential constitution*
+  The original essential constitution of the human being rooted in the transcendental imagination is identified with the root Kant called unknown to us.
+  `heidegger-ga-3-kant-und-das-problem-der-metaphysik-commentary#h4-s-31-the-originality-of-the-laid-ground-and-kant-s-shrinking-back-before-the-tra` · GA 3 § 31 · [§ 31. The Originality of the Laid Ground and Kant's Shrinking Back before the Transcendental Imagination](https://faultynode.github.io/commentaries/commentaries/heidegger/heidegger-ga-3-kant-und-das-problem-der-metaphysik-commentary.html#the-originality-of-the-laid-ground-and-kants-shrinking-back-before-the-transcendental-imagination)
+  > This original essential constitution of the human being, "rooted" in the transcendental imagination, is the "unknown" into which Kant must have looked
+
+- **presupposed** · `wesen/ga3-kant/008` · *essential unity*
+  The thesis that space and time must always affect the concept of the representations of objects is placed where Kant first circumscribes the essential unity of pure knowledge.
+  `heidegger-ga-3-kant-und-das-problem-der-metaphysik-commentary#h4-s-34-time-as-pure-self-affection-and-the-time-character-of-the-self` · GA 3 § 34 · [§ 34. Time as Pure Self-Affection and the Time-Character of the Self](https://faultynode.github.io/commentaries/commentaries/heidegger/heidegger-ga-3-kant-und-das-problem-der-metaphysik-commentary.html#time-as-pure-self-affection-and-the-time-character-of-the-self)
+  > At the place where he first circumscribes the essential unity of pure knowledge, in the second stage of the laying of the ground, Kant remarks that space and time "must always affect" the concept of the representations of objects.
+
+#### Recorded absences
+
+- **absent** · `heidegger-ga-3-kant-und-das-problem-der-metaphysik-commentary#h5-s-5-the-essence-of-the-finitude-of-knowledge`
+  Expected because: The section states what the essence of finite knowledge and of sensibility is, and so is where an eidetic sense of essence - an essence seen or intuited as such - would appear if this commentary used one; it uses 'essence' only as the ontological constitution of a structure.
+  'Wesensschau', 'eidetic', 'free variation' and 'immutable' occur nowhere in the commentary; the theme's hits here are all 'essence'/'essential' in the ontological sense.
+  [§ 5. The Essence of the Finitude of Knowledge](https://faultynode.github.io/commentaries/commentaries/heidegger/heidegger-ga-3-kant-und-das-problem-der-metaphysik-commentary.html#the-essence-of-the-finitude-of-knowledge)
+
+*Partial pass: Covers § 4 (the essence of knowledge in general), § 5 (the essence of the finitude of knowledge), § 29 (transcendental imagination and theoretical reason), § 31 (Kant's shrinking back) and § 34 (time as pure self-affection). The Second and Fourth Sections outside those sections, and §§ 33 and 16, were keyword-scanned only.*
+
+### 1953-1954 - Lacan, Seminar I — Freud's Papers on Technique
+
+`lacan-seminar-1-freuds-papers-on-technique-commentary`
+
+- **introduced** · `wesen/lacan-sem1/001` · *essence*
+  The efficacious transference at stake is said to be, in its essence, simply the act of speech.
+  `lacan-seminar-1-freuds-papers-on-technique-commentary#h2-session-of-17-march-1954` · [Session of 17 March 1954](https://faultynode.github.io/commentaries/commentaries/lacan/lacan-seminar-1-freuds-papers-on-technique-commentary.html#session-of-17-march-1954)
+  > We have understood that in its essence the efficacious transference at stake is simply *the act of speech*.
+
+- **presupposed** · `wesen/lacan-sem1/002` · *by essence*
+  The sun is called, by essence and phenomenologically, the centre of what runs across the world of appearances and the unity of light.
+  `lacan-seminar-1-freuds-papers-on-technique-commentary#h2-session-of-16-june-1954` · [Session of 16 June 1954](https://faultynode.github.io/commentaries/commentaries/lacan/lacan-seminar-1-freuds-papers-on-technique-commentary.html#session-of-16-june-1954)
+  > *The sun, by essence and phenomenologically center of what runs across the world of appearances, the unity of light*
+
+- **introduced** · `wesen/lacan-sem1/003` · *essence*
+  What surges up as the essence of the thing is identified with what is called the concept, the evocation of something that is the thing itself present there.
+  `lacan-seminar-1-freuds-papers-on-technique-commentary#h2-session-of-23-june-1954` · [Session of 23 June 1954](https://faultynode.github.io/commentaries/commentaries/lacan/lacan-seminar-1-freuds-papers-on-technique-commentary.html#session-of-23-june-1954)
+  > it makes surge something which is *its essence* — *what is called the concept*
+
+- **presupposed** · `wesen/lacan-sem1/004` · *by essence*
+  Speech is called the action by essence that demonstrates itself by signs, the only sign whose signification can be demonstrated equivalently by itself.
+  `lacan-seminar-1-freuds-papers-on-technique-commentary#h3-ii-speech-is-necessary-to-show-the-signification-of-speech` · [II. SPEECH IS NECESSARY TO SHOW THE SIGNIFICATION OF SPEECH.](https://faultynode.github.io/commentaries/commentaries/lacan/lacan-seminar-1-freuds-papers-on-technique-commentary.html#ii-speech-is-necessary-to-show-the-signification-of-speech)
+  > *It is the action by essence that demonstrates itself by signs*.
+
+- **presupposed** · `wesen/lacan-sem1/005` · *by essence*
+  The paths of truth are said to be paths of error by essence, error being the common and habitual incarnation of truth.
+  `lacan-seminar-1-freuds-papers-on-technique-commentary#h3-xiii-speech-does-not-even-manifest-the-interior-feelings` · [XIII. SPEECH DOES NOT EVEN MANIFEST THE INTERIOR FEELINGS.](https://faultynode.github.io/commentaries/commentaries/lacan/lacan-seminar-1-freuds-papers-on-technique-commentary.html#xiii-speech-does-not-even-manifest-the-interior-feelings)
+  > *The paths of truth are paths of error by essence*.
+
+- **criticized** · `wesen/lacan-sem1/006` · *innate predisposition*
+  Freud's discovery is said to require no invocation of any innate predisposition, though he admits one occasionally as a general framework.
+  `lacan-seminar-1-freuds-papers-on-technique-commentary#h2-session-of-3-february-1954` · [Session of 3 February 1954](https://faultynode.github.io/commentaries/commentaries/lacan/lacan-seminar-1-freuds-papers-on-technique-commentary.html#session-of-3-february-1954)
+  > in the end there is no need to invoke any innate predisposition
+
+#### Recorded absences
+
+- **absent** · `lacan-seminar-1-freuds-papers-on-technique-commentary#h2-session-of-16-june-1954`
+  Expected because: This session runs an explicitly phenomenological argument about the sun as the centre of the world of appearances and about the concept as what makes the thing present in its absence - the nearest this seminar comes to a doctrine of essence - and it does so with no phenomenological vocabulary of essence at all.
+  Recorded to settle the ranking: this commentary places high on the wesen density list only because 'essential' and 'essentially' are ordinary words in it. Neither Husserl nor any eidetic term occurs anywhere in the file.
+  [Session of 16 June 1954](https://faultynode.github.io/commentaries/commentaries/lacan/lacan-seminar-1-freuds-papers-on-technique-commentary.html#session-of-16-june-1954)
+
+*Partial pass: Not a section-by-section pass. It reads the twelve occurrences of the noun 'essence' across the whole seminar in context and records the four that are more than an intensifier, plus the transference formula of 17 March. The 150 occurrences of 'essential' and 'essentially' were scanned and judged adverbial; no session was read paragraph by paragraph.*
+
+### 1964 - Lacan, Seminar XI — The Four Fundamental Concepts of Psychoanalysis
+
+`lacan-seminar-11-the-four-fundamental-concepts-of-psychoanalysis-commentary`
+
+- **introduced** · `wesen/lacan-sem11/001` · *by essence*
+  The unconscious is characterized not by what consciousness can draw up but by what is by essence refused to consciousness.
+  `lacan-seminar-11-the-four-fundamental-concepts-of-psychoanalysis-commentary#h3-iv-on-the-network-of-signifiers` · [IV. On the Network of Signifiers](https://faultynode.github.io/commentaries/commentaries/lacan/lacan-seminar-11-the-four-fundamental-concepts-of-psychoanalysis-commentary.html#iv-on-the-network-of-signifiers)
+  > but by what is *by essence refused* to consciousness
+
+- **criticized** · `wesen/lacan-sem11/002` · *eidos*
+  Analytic remembering is said not to be Platonic reminiscence, not the return of a form or eidos of the beautiful and the good descending from a supreme beyond.
+  `lacan-seminar-11-the-four-fundamental-concepts-of-psychoanalysis-commentary#h3-iv-on-the-network-of-signifiers` · [IV. On the Network of Signifiers](https://faultynode.github.io/commentaries/commentaries/lacan/lacan-seminar-11-the-four-fundamental-concepts-of-psychoanalysis-commentary.html#iv-on-the-network-of-signifiers)
+  > not the return of a form, an imprint, an *eidos* of the beautiful and the good descending from a supreme true beyond
+
+- **criticized** · `wesen/lacan-sem11/003` · *eidos*
+  Philosophy is said to have been governed by the visual from eidos, a seeing-word, to the sovereign good.
+  `lacan-seminar-11-the-four-fundamental-concepts-of-psychoanalysis-commentary#h3-vi-the-split-between-the-eye-and-the-gaze` · [VI. The Split between the Eye and the Gaze](https://faultynode.github.io/commentaries/commentaries/lacan/lacan-seminar-11-the-four-fundamental-concepts-of-psychoanalysis-commentary.html#vi-the-split-between-the-eye-and-the-gaze)
+  > from *eidos* (a seeing-word) to the sovereign good, philosophy has been governed by the visual
+
+- **introduced** · `wesen/lacan-sem11/004` · *essence of man*
+  The human subject is called the subject of desire that is the essence of man, not entirely caught, unlike the animal, by imaginary capture.
+  `lacan-seminar-11-the-four-fundamental-concepts-of-psychoanalysis-commentary#h3-ix-what-is-a-picture` · [IX. What Is a Picture?](https://faultynode.github.io/commentaries/commentaries/lacan/lacan-seminar-11-the-four-fundamental-concepts-of-psychoanalysis-commentary.html#ix-what-is-a-picture)
+  > *the subject of desire that is the essence of man*
+
+- **presupposed** · `wesen/lacan-sem11/005` · *essence*
+  The drive's essence is said to be articulated like a grammar, a sentence to be conjugated through its voices.
+  `lacan-seminar-11-the-four-fundamental-concepts-of-psychoanalysis-commentary#h3-xiii-the-deconstruction-of-the-drive` · [XIII. The Deconstruction of the Drive](https://faultynode.github.io/commentaries/commentaries/lacan/lacan-seminar-11-the-four-fundamental-concepts-of-psychoanalysis-commentary.html#xiii-the-deconstruction-of-the-drive)
+  > for the drive's essence *is* articulated like a grammar
+
+#### Recorded absences
+
+- **absent** · `lacan-seminar-11-the-four-fundamental-concepts-of-psychoanalysis-commentary#h3-iv-on-the-network-of-signifiers`
+  Expected because: This section refuses Platonic reminiscence and the eidos by name, and works through Descartes' Gedanken as the fulcrum of the unconscious - the one place where a phenomenological doctrine of essence could be taken up against the Platonic one.
+  Recorded to settle the ranking, as for Seminar I: the eidos refused here is Plato's, Husserl is named nowhere in the commentary, and the file's high term-density comes from the ordinary adverb 'essential'.
+  [IV. On the Network of Signifiers](https://faultynode.github.io/commentaries/commentaries/lacan/lacan-seminar-11-the-four-fundamental-concepts-of-psychoanalysis-commentary.html#iv-on-the-network-of-signifiers)
+
+*Partial pass: Not a section-by-section pass. It reads every occurrence of the noun 'essence' and of 'eidos' across the whole seminar in context and records those that are more than an intensifier. No session was read paragraph by paragraph.*
 
 ## Reception layer
 
 *Read alongside the spine, not on it. A commentator's date orders the reception, not the doctrine.*
+
+### 1961 - Derrida, Introduction à L'Origine de la géométrie
+
+`derrida-introduction-a-lorigine-de-la-geometrie-commentary`
+
+- **criticized** · `wesen/derrida-geom/001` · *eidetic reduction*
+  The spontaneous eidetic reduction that frees the geometrical essence from all empirical reality is said to be, for Kant, always already effected - everywhere presupposed and nowhere performed.
+  `derrida-introduction-a-lorigine-de-la-geometrie-commentary#h2-ii` · [II](https://faultynode.github.io/commentaries/commentaries/derrida/derrida-introduction-a-lorigine-de-la-geometrie-commentary.html#ii)
+  > Likewise the *spontaneous eidetic reduction* that frees the geometrical essence from all empirical reality — from sensible figuration as much as from the geometer's psychological *vécu* — is for Kant *always already effected*
+
+- **presupposed** · `wesen/derrida-geom/002` · *pure eidetic sciences*
+  Ideas I is read as situating geometry exemplarily among the pure eidetic sciences, freed from facticity because no existence-thesis is necessary or permitted in them.
+  `derrida-introduction-a-lorigine-de-la-geometrie-commentary#h2-ii` · [II](https://faultynode.github.io/commentaries/commentaries/derrida/derrida-introduction-a-lorigine-de-la-geometrie-commentary.html#ii)
+  > in *Ideas I*, to situate geometry *exemplarily* among the *pure eidetic sciences*, which were immediately freed from all facticity because no *existence-thesis* (*Daseinsthesis*) was either necessary or permitted in them.
+
+- **criticized** · `wesen/derrida-geom/003` · *eidetic invariance*
+  In a history of origins the singular fact, what can never be repeated, would take over by right the relay of eidetic invariance, what can be repeated at will and indefinitely.
+  `derrida-introduction-a-lorigine-de-la-geometrie-commentary#h2-ii` · [II](https://faultynode.github.io/commentaries/commentaries/derrida/derrida-introduction-a-lorigine-de-la-geometrie-commentary.html#ii)
+  > would take over, by right, in a history of origins, the *relay* of eidetic invariance — that is, of what can be repeated *at will and indefinitely*.
+
+- **criticized** · `wesen/derrida-geom/004` · *eidetics of the origin*
+  Because eidetic method lives on the substitutability of examples and the founding event is defined by non-substitutability, an eidetics of the origin is called a contradiction in terms.
+  `derrida-introduction-a-lorigine-de-la-geometrie-commentary#h2-ii` · [II](https://faultynode.github.io/commentaries/commentaries/derrida/derrida-introduction-a-lorigine-de-la-geometrie-commentary.html#ii)
+  > eidetic method lives on the substitutability of examples; the founding event is defined by non-substitutability; an eidetics of the origin therefore seems to be a contradiction in terms.
+
+- **introduced** · `wesen/derrida-geom/005` · *vague essences*
+  The rigour of the eidetic assertion and of the determination of vague essences is said to be in no way impaired by the necessary anexactitude of the perceived object.
+  `derrida-introduction-a-lorigine-de-la-geometrie-commentary#h2-x` · [X](https://faultynode.github.io/commentaries/commentaries/derrida/derrida-introduction-a-lorigine-de-la-geometrie-commentary.html#x)
+  > the rigor of the eidetic assertion, like that of the determination of the *vague* essences, is in no way impaired by the necessary anexactitude of the perceived object
+
+- **introduced** · `wesen/derrida-geom/006` · *inexact by essence*
+  The morphological concepts are called inexact by essence and not by chance, and non-mathematical for that very reason.
+  `derrida-introduction-a-lorigine-de-la-geometrie-commentary#h2-x` · [X](https://faultynode.github.io/commentaries/commentaries/derrida/derrida-introduction-a-lorigine-de-la-geometrie-commentary.html#x)
+  > these simple concepts are *inexact by essence and not by chance*; for this reason also they are *non-mathematical*.
+
+- **introduced** · `wesen/derrida-geom/007` · *eidetic fixation*
+  The anexactitude of perceived shapes is said not to forbid a rigorous and univocal eidetic fixation of the vague morphological types.
+  `derrida-introduction-a-lorigine-de-la-geometrie-commentary#h2-x` · [X](https://faultynode.github.io/commentaries/commentaries/derrida/derrida-introduction-a-lorigine-de-la-geometrie-commentary.html#x)
+  > a rigorous and univocal eidetic fixation of the vague morphological types
+
+- **revised** · `wesen/derrida-geom/008` · *Wesensschau*
+  Idealization as ideation is distinguished from ideation as essence-intuition (Wesensschau): one constitutes an object in a creation, the other determines it in an intuition.
+  `derrida-introduction-a-lorigine-de-la-geometrie-commentary#h2-x` · [X](https://faultynode.github.io/commentaries/commentaries/derrida/derrida-introduction-a-lorigine-de-la-geometrie-commentary.html#x)
+  > which must be distinguished from ideation as *essence-intuition* (*Wesensschau*)
+
+- **revised** · `wesen/derrida-geom/009` · *essence*
+  The originary geometrical ideation is said to make an essence arise that did not exist before it, and to be for that reason more historical.
+  `derrida-introduction-a-lorigine-de-la-geometrie-commentary#h2-x` · [X](https://faultynode.github.io/commentaries/commentaries/derrida/derrida-introduction-a-lorigine-de-la-geometrie-commentary.html#x)
+  > The originary geometrical ideation, for example, *makes an essence arise that did not exist before it*. It is therefore *more historical*.
+
+- **presupposed** · `wesen/derrida-geom/010` · *Wesensschau*
+  Within constituted geometry the Wesensschau is said to resume its rights and only to repeat the productive idealization that first made the object.
+  `derrida-introduction-a-lorigine-de-la-geometrie-commentary#h2-x` · [X](https://faultynode.github.io/commentaries/commentaries/derrida/derrida-introduction-a-lorigine-de-la-geometrie-commentary.html#x)
+  > the *Wesensschau* "only *repeats* the productive idealization."
+
+#### Recorded absences
+
+- **absent** · `derrida-introduction-a-lorigine-de-la-geometrie-commentary#h2-x`
+  Expected because: The section is the commentary's sustained treatment of geometrical essences and their relation to perceived shapes - the Husserlian counterpart of the Cartesian doctrine that the figures of geometry are true and immutable natures - and it settles the question of their rigour without any recourse to that doctrine.
+  Bears on gap-007: geometrical essence is secured here by idealizing ideation and eidetic fixation of morphological types, never by innateness or by a divinely guaranteed immutability. Wesensschau is present in this section and is recorded as units 008 and 010, not as an absence.
+  [X](https://faultynode.github.io/commentaries/commentaries/derrida/derrida-introduction-a-lorigine-de-la-geometrie-commentary.html#x)
+
+*Partial pass: Covers the eidetic material of section II (the Kantian 'always already effected' reduction, geometry among the pure eidetic sciences, and the aporia of an eidetics of the origin) and of section X (the vague morphological essences, their rigour, and the distinction of idealizing ideation from Wesensschau). Sections I, III-IX and XI were keyword-scanned only; section XI's essence-hits in particular were not read closely.*
+
+### 1965 - Philosophie et phénoménologie du corps — Commentary
+
+`henry-philosophie-et-phenomenologie-du-corps-commentary`
+
+- **introduced** · `wesen/henry-corps/001` · *essence of body*
+  The Cartesian analysis of the body is called an essential analysis issuing in extension as the essence of body.
+  `henry-philosophie-et-phenomenologie-du-corps-commentary#h2-chapter-v-cartesian-dualism` · [Chapter V. Cartesian Dualism](https://faultynode.github.io/commentaries/commentaries/henry/henry-philosophie-et-phenomenologie-du-corps-commentary.html#chapter-v-cartesian-dualism)
+  > It is an essential analysis, issuing in extension as the essence of body.
+
+- **presupposed** · `wesen/henry-corps/002` · *essence of body as extension*
+  The ontological determination of the essence of body as extension is said to have an absolutely general signification in Cartesianism, holding for the living body as for inert nature.
+  `henry-philosophie-et-phenomenologie-du-corps-commentary#h2-chapter-v-cartesian-dualism` · [Chapter V. Cartesian Dualism](https://faultynode.github.io/commentaries/commentaries/henry/henry-philosophie-et-phenomenologie-du-corps-commentary.html#chapter-v-cartesian-dualism)
+  > The ontological determination of the essence of body as extension has in Cartesianism an absolutely general signification
+
+- **introduced** · `wesen/henry-corps/003` · *simple nature*
+  Descartes is said to account for the phenomenological body of man only by recognizing a new simple nature, no less fundamental than the primitive natures of extension and thought.
+  `henry-philosophie-et-phenomenologie-du-corps-commentary#h2-chapter-v-cartesian-dualism` · [Chapter V. Cartesian Dualism](https://faultynode.github.io/commentaries/commentaries/henry/henry-philosophie-et-phenomenologie-du-corps-commentary.html#chapter-v-cartesian-dualism)
+  > only by recognizing a new simple nature, no less fundamental than the two primitive natures of extension and thought on which the whole Cartesian edifice seems in many respects to rest.
+
+- **introduced** · `wesen/henry-corps/004` · *simple nature*
+  The new fundamental simple nature is identified as the union of soul and body, so that Cartesianism is no longer a dualism but three primitive simple natures equal in dignity.
+  `henry-philosophie-et-phenomenologie-du-corps-commentary#h2-chapter-v-cartesian-dualism` · [Chapter V. Cartesian Dualism](https://faultynode.github.io/commentaries/commentaries/henry/henry-philosophie-et-phenomenologie-du-corps-commentary.html#chapter-v-cartesian-dualism)
+  > This new fundamental simple nature is the union of soul and body.
+
+- **criticized** · `wesen/henry-corps/005` · *simple nature of the union*
+  It is asked whether a philosophical interpretation of the Cartesian simple nature of the union has ever been furnished, or its conditions of possibility even posed.
+  `henry-philosophie-et-phenomenologie-du-corps-commentary#h2-chapter-v-cartesian-dualism` · [Chapter V. Cartesian Dualism](https://faultynode.github.io/commentaries/commentaries/henry/henry-philosophie-et-phenomenologie-du-corps-commentary.html#chapter-v-cartesian-dualism)
+  > But has a philosophical interpretation of the Cartesian simple nature of the union ever been furnished?
+
+- **presupposed** · `wesen/henry-corps/006` · *essences of thought and extension*
+  Cartesianism is said to have elaborated the essences of thought and extension within a phenomenological ontology, and the third primitive nature is required to be determined in the same manner.
+  `henry-philosophie-et-phenomenologie-du-corps-commentary#h2-chapter-v-cartesian-dualism` · [Chapter V. Cartesian Dualism](https://faultynode.github.io/commentaries/commentaries/henry/henry-philosophie-et-phenomenologie-du-corps-commentary.html#chapter-v-cartesian-dualism)
+  > It is indeed within a phenomenological ontology that Cartesianism itself elaborated the essences of thought and extension, and it is evidently in the same manner that one should proceed to determine the essence of the third primitive nature.
+
+- **revised** · `wesen/henry-corps/007` · *eidetic determination*
+  Affectivity is said not to result from a contribution exterior to thought but to be an eidetic determination of it.
+  `henry-philosophie-et-phenomenologie-du-corps-commentary#h2-chapter-v-cartesian-dualism` · [Chapter V. Cartesian Dualism](https://faultynode.github.io/commentaries/commentaries/henry/henry-philosophie-et-phenomenologie-du-corps-commentary.html#chapter-v-cartesian-dualism)
+  > affectivity, far from resulting from a contribution exterior to thought, is on the contrary an *eidetic determination* of it
+
+- **introduced** · `wesen/henry-corps/008` · *subjective essence*
+  The theory is said to show on the ontological plane the subjective essence of all the original determinations of corporeal life, not only of sexual ones.
+  `henry-philosophie-et-phenomenologie-du-corps-commentary#h2-conclusion-the-ontological-theory-of-the-body-and-the-problem-of-incarnation-fle` · [Conclusion. The Ontological Theory of the Body and the Problem of Incarnation: Flesh and Spirit](https://faultynode.github.io/commentaries/commentaries/henry/henry-philosophie-et-phenomenologie-du-corps-commentary.html#conclusion-the-ontological-theory-of-the-body-and-the-problem-of-incarnation-flesh-and-spirit)
+  > it shows on the ontological plane the subjective essence of all the original determinations of corporeal life
+
+#### Recorded absences
+
+- **absent** · `henry-philosophie-et-phenomenologie-du-corps-commentary#h2-chapter-v-cartesian-dualism`
+  Expected because: The chapter works through the Cartesian doctrine of primitive simple natures at length and asks how the essence of the third of them could be determined phenomenologically - so if the corpus anywhere connected Descartes' natures to the vocabulary of true and immutable natures or innate ideas, it would be here.
+  Bears on gap-007. The chapter carries 'simple nature' - the one piece of Cartesian essence-vocabulary in the theme's search terms that occurs here - but never the Meditation V doctrine of vera et immutabilis natura, and never Husserl's Wesensschau alongside it.
+  [Chapter V. Cartesian Dualism](https://faultynode.github.io/commentaries/commentaries/henry/henry-philosophie-et-phenomenologie-du-corps-commentary.html#chapter-v-cartesian-dualism)
+
+*Partial pass: Covers Chapter V (Cartesian dualism) in full and the Conclusion (the ontological theory of the body) for its essence-vocabulary. Chapters I-IV and Chapter VI, where the theme's hits are sparser, were keyword-scanned only.*
+
+### 1981 - Franck, Chair et corps
+
+`franck-chair-et-corps-commentary`
+
+- **introduced** · `wesen/franck-chair/001` · *eidetic analysis*
+  The charge that the analysis falls back into an ego-metaphysic is answered by the transcendental analysis becoming an eidetic analysis.
+  `franck-chair-et-corps-commentary#h2-chapter-five-eidetic-reduction-and-archi-facticity` · [Chapter Five: Eidetic Reduction and Archi-Facticity](https://faultynode.github.io/commentaries/commentaries/fanck/franck-chair-et-corps-commentary.html#chapter-five-eidetic-reduction-and-archi-facticity)
+  > this would be the case if the transcendental analysis did not become an *eidetic* analysis.
+
+- **presupposed** · `wesen/franck-chair/002` · *eidetic ego*
+  After the passage from the de facto ego to the eidetic ego, all constitutive investigations are said to acquire eidetic generality.
+  `franck-chair-et-corps-commentary#h2-chapter-five-eidetic-reduction-and-archi-facticity` · [Chapter Five: Eidetic Reduction and Archi-Facticity](https://faultynode.github.io/commentaries/commentaries/fanck/franck-chair-et-corps-commentary.html#chapter-five-eidetic-reduction-and-archi-facticity)
+  > after the passage from the de facto ego to the eidetic ego, all constitutive investigations acquire eidetic generality
+
+- **introduced** · `wesen/franck-chair/003` · *eidos*
+  Through the multiplicity of free variations of a factum an invariant appears, a general essence, an eidos.
+  `franck-chair-et-corps-commentary#h2-chapter-five-eidetic-reduction-and-archi-facticity` · [Chapter Five: Eidetic Reduction and Archi-Facticity](https://faultynode.github.io/commentaries/commentaries/fanck/franck-chair-et-corps-commentary.html#chapter-five-eidetic-reduction-and-archi-facticity)
+  > Through this multiplicity, an invariant — a general essence, an *eidos* — appears.
+
+- **introduced** · `wesen/franck-chair/004` · *eidos*
+  The eidos is defined as that without which the object in the free play of variation can neither be thought nor intuitively given.
+  `franck-chair-et-corps-commentary#h2-chapter-five-eidetic-reduction-and-archi-facticity` · [Chapter Five: Eidetic Reduction and Archi-Facticity](https://faultynode.github.io/commentaries/commentaries/fanck/franck-chair-et-corps-commentary.html#chapter-five-eidetic-reduction-and-archi-facticity)
+  > The eidos is that without which the object in the free play of variation can neither be thought nor intuitively given.
+
+- **revised** · `wesen/franck-chair/005` · *eidetic reduction*
+  Because variation rests on a passively operating connecting unity, the eidetic reduction is said to presuppose immanent temporality.
+  `franck-chair-et-corps-commentary#h2-chapter-five-eidetic-reduction-and-archi-facticity` · [Chapter Five: Eidetic Reduction and Archi-Facticity](https://faultynode.github.io/commentaries/commentaries/fanck/franck-chair-et-corps-commentary.html#chapter-five-eidetic-reduction-and-archi-facticity)
+  > the eidetic reduction presupposes *immanent temporality*
+
+- **criticized** · `wesen/franck-chair/006` · *eidos ego*
+  The variation leading to the intuition of the eidos ego is said to presuppose that other egos can be given, which is the difficulty of reducing to it within an egology.
+  `franck-chair-et-corps-commentary#h2-chapter-five-eidetic-reduction-and-archi-facticity` · [Chapter Five: Eidetic Reduction and Archi-Facticity](https://faultynode.github.io/commentaries/commentaries/fanck/franck-chair-et-corps-commentary.html#chapter-five-eidetic-reduction-and-archi-facticity)
+  > The variation leading to the intuition of the eidos ego would presuppose that other egos can be given.
+
+- **presupposed** · `wesen/franck-chair/007` · *residuum*
+  The pure Ego is described, in a citation from Husserl, as a residuum retained after the phenomenological exclusion of the world and the empirical subjectivity included in it.
+  `franck-chair-et-corps-commentary#h2-chapter-five-eidetic-reduction-and-archi-facticity` · [Chapter Five: Eidetic Reduction and Archi-Facticity](https://faultynode.github.io/commentaries/commentaries/fanck/franck-chair-et-corps-commentary.html#chapter-five-eidetic-reduction-and-archi-facticity)
+  > if we retain a pure Ego as a residuum after the phenomenological exclusion of the world
+
+#### Recorded absences
+
+- **absent** · `franck-chair-et-corps-commentary#h2-chapter-five-eidetic-reduction-and-archi-facticity`
+  Expected because: The chapter defines the eidos by free variation and, separately, uses 'residuum' of the pure Ego - so it is precisely the section where gap-007's two questions, whether an essence is ever called a residuum and whether the eidos is read as the heir of Descartes' true and immutable natures, would be answered if this commentary answered them.
+  Bears on gap-007. 'Residuum' occurs in this section, but of the pure Ego and never of an essence - the same split Ideas I Parts 3-4 shows.
+  [Chapter Five: Eidetic Reduction and Archi-Facticity](https://faultynode.github.io/commentaries/commentaries/fanck/franck-chair-et-corps-commentary.html#chapter-five-eidetic-reduction-and-archi-facticity)
+
+*Partial pass: Covers Chapter Five (eidetic reduction and archi-facticity) in full. Chapters One, Four and Six, which carry the remaining hits, were keyword-scanned only.*
 
 ### 1986 - Jean-Luc Marion, Sur le prisme métaphysique de Descartes — Commentary
 
@@ -43,36 +916,359 @@
 
 *Partial pass: Covers chapter II §6 (p. 80-82, the Rule XIV figuratum passage) and chapter IV §20 (pp. 276-281, the fifth-Meditation 'true and immutable natures' passage) in full. Chapter I (§§1-5, pp. 1-72), the ego/substance material of chapter III not already read (roughly pp. 160-176), and chapter V (Pascal, pp. 296-324) were only keyword-scanned for the theme's search terms, not read paragraph by paragraph.*
 
+### 1994 - Rudolf Bernet, La vie du sujet: Recherches sur l'interprétation de Husserl dans la phénoménologie — Commentary
+
+`bernet-la-vie-du-sujet-commentary`
+
+#### Recorded absences
+
+- **absent** · `bernet-la-vie-du-sujet-commentary#h4-i-6`
+  Expected because: The section defends a science of essences against Derrida's critique and calls the sign's type an ideal and immutable form - the one place in this commentary where 'immutable' attaches to an ideality, and so the place a connection to Descartes' true and immutable natures would be made if it were made.
+  Bears on gap-007. 'Immutable' here qualifies the ideal type of a sign against its empirical token; it is not the Cartesian doctrine, and Descartes is not named in the section.
+  [I](https://faultynode.github.io/commentaries/commentaries/bernet/bernet-la-vie-du-sujet-commentary.html#i-5)
+
+*Partial pass: Covers chapter 4 section I (His Master's Voice: Derrida on the eidetic and phenomenological reductions) and chapter 2's 'The Noema as Ideal Signification of a Judgment'. Chapters 1, 3 and 5-8, and the rest of chapters 2 and 4, were keyword-scanned only.*
+
+## Undated - chronology unresolved
+
+*These commentaries do not state a date for their text. They are held out of the sequence rather than placed on a guess; see `synthesis/chronology.json`.*
+
+### undated - Michel Henry, L'essence de la manifestation
+
+`henry-the-essence-of-manifestation-commentary`
+
+- **introduced** · `wesen/henry-essence/001` · *eidetic intuition*
+  Empiricism's own thesis is said to presuppose an intuition of the essence of sensible experience, and that presupposition is presented as establishing that an eidetic intuition exists.
+  `henry-the-essence-of-manifestation-commentary#h2-s-1-the-idea-of-an-apodictic-evidence-as-privileged-pathway-of-access-to-the-bei` · [§ 1\. The idea of an apodictic evidence as privileged pathway of access to the being of the ego](https://faultynode.github.io/commentaries/commentaries/henry/henry-the-essence-of-manifestation-commentary.html#the-idea-of-an-apodictic-evidence-as-privileged-pathway-of-access-to-the-being-of-the-ego)
+  > The intuition presupposed by empiricism, of the essence of sensible experience, puts us in presence, at least once, of the existence of an eidetic intuition.
+
+- **presupposed** · `wesen/henry-essence/002` · *Wesensschau*
+  The commentary glosses the self-refutation of empiricism as a proof of the reality of Wesensschau, the sole occurrence of that term in the commentary.
+  `henry-the-essence-of-manifestation-commentary#h2-s-1-the-idea-of-an-apodictic-evidence-as-privileged-pathway-of-access-to-the-bei` · [§ 1\. The idea of an apodictic evidence as privileged pathway of access to the being of the ego](https://faultynode.github.io/commentaries/commentaries/henry/henry-the-essence-of-manifestation-commentary.html#the-idea-of-an-apodictic-evidence-as-privileged-pathway-of-access-to-the-being-of-the-ego)
+  > the self-refutation of empiricism is thus a proof of the reality of *Wesensschau*
+
+- **introduced** · `wesen/henry-essence/003` · *eidetic structure*
+  Being is said to distribute itself into regions, each with its own eidetic structure, to which correspond rigorously determined types of donative intuition.
+  `henry-the-essence-of-manifestation-commentary#h2-s-1-the-idea-of-an-apodictic-evidence-as-privileged-pathway-of-access-to-the-bei` · [§ 1\. The idea of an apodictic evidence as privileged pathway of access to the being of the ego](https://faultynode.github.io/commentaries/commentaries/henry/henry-the-essence-of-manifestation-commentary.html#the-idea-of-an-apodictic-evidence-as-privileged-pathway-of-access-to-the-being-of-the-ego)
+  > distributes itself, in conformity with the very manner in which it presents itself, into a plurality of regions to which correspond rigorously determined types of donative intuition
+
+- **introduced** · `wesen/henry-essence/004` · *essence of the phenomenon*
+  Phenomenology is defined as the science of the essence of the phenomenon, and it is because being is understood as that essence that Heidegger can call phenomenology ontology.
+  `henry-the-essence-of-manifestation-commentary#h2-s-8-the-elucidation-of-the-essence-of-the-phenomenon-central-task-of-phenomenolo` · [§ 8\. The elucidation of the essence of the phenomenon, central task of phenomenology](https://faultynode.github.io/commentaries/commentaries/henry/henry-the-essence-of-manifestation-commentary.html#the-elucidation-of-the-essence-of-the-phenomenon-central-task-of-phenomenology)
+  > *Phenomenology is the science of the essence of the phenomenon.* It is because he understands being as the essence of phenomenon that Heidegger can say that phenomenology is the science of being and, as such, ontology.
+
+- **revised** · `wesen/henry-essence/005` · *eidetic character*
+  The inevitability of the fall from the purity of the essence into ontic determination is proposed as inscribed in the essence itself, as an eidetic character rather than a lapse of exposition.
+  `henry-the-essence-of-manifestation-commentary#h2-s-13-the-ambiguity-of-dasein-essence-and-ontic-determination` · [§ 13\. The ambiguity of "Dasein": essence and ontic determination](https://faultynode.github.io/commentaries/commentaries/henry/henry-the-essence-of-manifestation-commentary.html#the-ambiguity-of-dasein-essence-and-ontic-determination)
+  > as an eidetic character, as a property of the essence itself, that historializes itself in the essence in conformity with its own will
+
+- **criticized** · `wesen/henry-essence/006` · *essence of manifestation*
+  On the monist structure the essence of manifestation is not manifestation of self: what manifests itself is the existent, not the essence.
+  `henry-the-essence-of-manifestation-commentary#h2-s-13-the-ambiguity-of-dasein-essence-and-ontic-determination` · [§ 13\. The ambiguity of "Dasein": essence and ontic determination](https://faultynode.github.io/commentaries/commentaries/henry/henry-the-essence-of-manifestation-commentary.html#the-ambiguity-of-dasein-essence-and-ontic-determination)
+  > The essence of manifestation is not the *manifestation of self*. It is not the essence that manifests itself; it is the existent.
+
+- **introduced** · `wesen/henry-essence/007` · *Selbständigkeit*
+  The essence is called autonomous because effective phenomenality arises within it, and that autonomy is named the Selbstandigkeit of ontological knowledge.
+  `henry-the-essence-of-manifestation-commentary#h2-s-16-the-idea-of-the-formal-structure-of-the-autonomy-of-the-essence-and-the-tas` · [§ 16\. The idea of the formal structure of the autonomy of the essence and the task of a repetition of the ontological elucidation of the concept of phenomenon](https://faultynode.github.io/commentaries/commentaries/henry/henry-the-essence-of-manifestation-commentary.html#the-idea-of-the-formal-structure-of-the-autonomy-of-the-essence-and-the-task-of-a-repetition-of-the-ontological-elucidation-of-the-concept-of-phenomenon)
+  > Effective phenomenality arises in the very bosom of the essence, because the essence objectifies itself under the form of a horizon that *shows itself*.
+
+- **criticized** · `wesen/henry-essence/008` · *essence*
+  The dissimulation of the essence is referred not to a failing of thought but to the essence itself and to the ontological structure of reality.
+  `henry-the-essence-of-manifestation-commentary#h2-s-45-the-dissimulation-of-the-originary-essence-of-revelation-and-its-forgetting` · [§ 45\. The dissimulation of the originary essence of revelation and its forgetting](https://faultynode.github.io/commentaries/commentaries/henry/henry-the-essence-of-manifestation-commentary.html#the-dissimulation-of-the-originary-essence-of-revelation-and-its-forgetting)
+  > Thus the dissimulation of the essence was referred, not to an incomprehensible failing of thought, but *to this essence itself*, to the ontological structure of reality.
+
+- **revised** · `wesen/henry-essence/009` · *essence*
+  Because it does not manifest itself in the milieu of visibility, the essence is called invisible, and that invisibility is presented as its reality rather than a privation.
+  `henry-the-essence-of-manifestation-commentary#h2-s-50-the-non-face-of-the-essence` · [§ 50\. The non-face of the essence](https://faultynode.github.io/commentaries/commentaries/henry/henry-the-essence-of-manifestation-commentary.html#the-non-face-of-the-essence)
+  > insofar as it is *neither this nor that*, *the essence is invisible*
+
+*Partial pass: Covers § 1 (the Husserlian doctrine of eidetic intuition and regional ontology as Henry reports it), § 8 (phenomenology as science of the essence of the phenomenon), § 13 (the ambiguity of Dasein; essence and ontic determination), § 16 (the autonomy of the essence), and the opening paragraphs of § 37, § 45 and § 50. Sections II (§§ 17-36) and the bulk of Section III (§§ 38-49, 51-70), where the term saturates, were keyword-scanned only and not read paragraph by paragraph.*
+
+### undated - Husserl Erfahrung und Urteil Commentary
+
+`husserl-erfahrung-und-urteil-commentary`
+
+- **introduced** · `wesen/eu/001` · *free variation*
+  The universal standing out in the empirically given must be freed from its character of contingency by transforming an objectuality into an arbitrary example serving as guiding model for an endless manifold of variants.
+  `husserl-erfahrung-und-urteil-commentary#h4-a-free-variation-as-the-basis-of-essence-intuition` · EU § 87 a · [a) Free Variation as the Basis of Essence-Intuition](https://faultynode.github.io/commentaries/commentaries/husserl/husserl-erfahrung-und-urteil-commentary.html#a-free-variation-as-the-basis-of-essence-intuition)
+  > The universal initially standing out in the empirically given must above all be freed from its character of contingency.
+
+- **introduced** · `wesen/eu/002` · *allgemeines Wesen*
+  Through the manifold of reshapings an invariant is said to be necessarily maintained as the necessary general form without which an example of the sort would be unthinkable, and this is the general essence.
+  `husserl-erfahrung-und-urteil-commentary#h4-a-free-variation-as-the-basis-of-essence-intuition` · EU § 87 a · [a) Free Variation as the Basis of Essence-Intuition](https://faultynode.github.io/commentaries/commentaries/husserl/husserl-erfahrung-und-urteil-commentary.html#a-free-variation-as-the-basis-of-essence-intuition)
+  > an invariant is necessarily maintained as the necessary general form without which something of this kind as an example of its sort would be entirely unthinkable. This is a general essence (*allgemeines Wesen*).
+
+- **introduced** · `wesen/eu/003` · *invariant*
+  The gaze can be directed upon the invariant as what prescribes the limits to all variation exercised in the mode of the arbitrary.
+  `husserl-erfahrung-und-urteil-commentary#h4-a-free-variation-as-the-basis-of-essence-intuition` · EU § 87 a · [a) Free Variation as the Basis of Essence-Intuition](https://faultynode.github.io/commentaries/commentaries/husserl/husserl-erfahrung-und-urteil-commentary.html#a-free-variation-as-the-basis-of-essence-intuition)
+  > We can direct our gaze upon it as the necessarily invariant that prescribes the limits to all variation exercised in the mode of the "arbitrary."
+
+- **introduced** · `wesen/eu/004` · *eidos*
+  The eidos is gained as ideally identical, which only is as one over many, and only where the variation-manifold as plurality is never entirely released from grasp.
+  `husserl-erfahrung-und-urteil-commentary#h4-c-the-holding-in-grasp-of-the-whole-variation-manifold-as-the-basis-of-essence-i` · EU § 87 c · [c) The Holding-in-Grasp of the Whole Variation-Manifold as the Basis of Essence-Intuition](https://faultynode.github.io/commentaries/commentaries/husserl/husserl-erfahrung-und-urteil-commentary.html#c-the-holding-in-grasp-of-the-whole-variation-manifold-as-the-basis-of-essence-intuition)
+  > Only so do we gain the *eidos* as ideally identical — which only is as *hen epi pollōn* (one over many).
+
+- **revised** · `wesen/eu/005` · *variation*
+  Variation is distinguished from alteration: in variation the identity of the individual is let fall and re-imagined into other possible individuals.
+  `husserl-erfahrung-und-urteil-commentary#h4-f-variation-and-alteration` · EU § 87 f · [f) Variation and Alteration](https://faultynode.github.io/commentaries/commentaries/husserl/husserl-erfahrung-und-urteil-commentary.html#f-variation-and-alteration)
+  > In variation, by contrast, we let the identity of the individual fall away and re-imagine it into other possible individuals.
+
+- **presupposed** · `wesen/eu/006` · *eidos*
+  Pure universalities are said to prescribe rules to every actual thing, so that every actual colour must have the moment of brightness belonging inseparably to the pure eidos colour.
+  `husserl-erfahrung-und-urteil-commentary#h3-s90-pure-universality-and-a-priori-necessity` · EU § 90 · [§90. Pure Universality and A Priori Necessity](https://faultynode.github.io/commentaries/commentaries/husserl/husserl-erfahrung-und-urteil-commentary.html#pure-universality-and-a-priori-necessity)
+  > Every actual color must have the moment of brightness that belongs inseparably to the pure *eidos* color.
+
+- **introduced** · `wesen/eu/007` · *essential truths*
+  Essential truths are called a priori because they precede all factuality and all determinations from experience in their validity.
+  `husserl-erfahrung-und-urteil-commentary#h3-s90-pure-universality-and-a-priori-necessity` · EU § 90 · [§90. Pure Universality and A Priori Necessity](https://faultynode.github.io/commentaries/commentaries/husserl/husserl-erfahrung-und-urteil-commentary.html#pure-universality-and-a-priori-necessity)
+  > Therefore the essential truths are called a priori — preceding all factuality, all determinations from experience, in their validity.
+
+- **introduced** · `wesen/eu/008` · *eidos*
+  From one and the same example very different pure essences are reached by free variation, from the eidos red to the eidos colour as such by widening what is admitted into the variation.
+  `husserl-erfahrung-und-urteil-commentary#h3-s92-the-level-structure-of-pure-universalities-and-the-gaining-of-the-highest-co` · EU § 92 · [§92. The Level-Structure of Pure Universalities and the Gaining of the Highest Concrete Genera (Regions) through Variation of Ideas](https://faultynode.github.io/commentaries/commentaries/husserl/husserl-erfahrung-und-urteil-commentary.html#the-level-structure-of-pure-universalities-and-the-gaining-of-the-highest-concrete-genera-regions-through-variation-of-ideas)
+  > From one and the same example as guiding image, one can arrive at very different pure essences through free variation.
+
+- **introduced** · `wesen/eu/009` · *region*
+  Regions are named the highest concrete genera, setting an insurmountable limit to all variation, since a fundamental concept of a region cannot be transformed into another through variation.
+  `husserl-erfahrung-und-urteil-commentary#h3-s92-the-level-structure-of-pure-universalities-and-the-gaining-of-the-highest-co` · EU § 92 · [§92. The Level-Structure of Pure Universalities and the Gaining of the Highest Concrete Genera (Regions) through Variation of Ideas](https://faultynode.github.io/commentaries/commentaries/husserl/husserl-erfahrung-und-urteil-commentary.html#the-level-structure-of-pure-universalities-and-the-gaining-of-the-highest-concrete-genera-regions-through-variation-of-ideas)
+  > the highest concrete genera, which set an insurmountable limit to all variation. A fundamental concept of a region cannot be transformed into another through variation.
+
+- **introduced** · `wesen/eu/010` · *essential types*
+  Non-essential types are those whose conspicuous differences conceal an inner belonging-together, and scientific species-concepts seek through methodical experience to determine the essential types.
+  `husserl-erfahrung-und-urteil-commentary#h4-b-essential-and-non-essential-types-scientific-experience-leads-to-the-exhibitio` · EU § 83 b · [b) Essential and Non-Essential Types. Scientific Experience Leads to the Exhibition of the Essential Types](https://faultynode.github.io/commentaries/commentaries/husserl/husserl-erfahrung-und-urteil-commentary.html#b-essential-and-non-essential-types-scientific-experience-leads-to-the-exhibition-of-the-essential-types)
+  > The scientific species-concepts seek, through systematic and methodical experience, to determine the essential types.
+
+#### Recorded absences
+
+- **absent** · `husserl-erfahrung-und-urteil-commentary#h4-a-free-variation-as-the-basis-of-essence-intuition`
+  Expected because: gap-007 asks whether Husserl's eidos is the phenomenological heir of Descartes' true and immutable natures, and whether the invariant of free variation is ever called a phenomenological residuum. This is the commentary's definitional statement of free variation and of the general essence, and so where either claim would be made.
+  Answers gap-007 negatively for this commentary, and the grep is file-wide: 'immutable', 'innate', 'Descartes', 'residuum' and 'Wesensschau' occur nowhere in it. The invariant is secured by arbitrariness of variation and named a general essence, never a residuum.
+  [a) Free Variation as the Basis of Essence-Intuition](https://faultynode.github.io/commentaries/commentaries/husserl/husserl-erfahrung-und-urteil-commentary.html#a-free-variation-as-the-basis-of-essence-intuition)
+
+- **absent** · `husserl-erfahrung-und-urteil-commentary#h3-s90-pure-universality-and-a-priori-necessity`
+  Expected because: The section states why essential truths count as a priori and precede all factuality - the anti-empiricist point Descartes secures theologically through the eternal truths - and grounds it in pure possibility alone.
+  The a priori is grounded here in the realm of pure possibility opened from any concrete actuality, with no theological guarantee and no Cartesian vocabulary.
+  [§90. Pure Universality and A Priori Necessity](https://faultynode.github.io/commentaries/commentaries/husserl/husserl-erfahrung-und-urteil-commentary.html#pure-universality-and-a-priori-necessity)
+
+*Partial pass: Covers § 87 (the method of essence-intuition, sub-sections a, c and f read in full and b, d, e scanned), § 90 (pure universality and a priori necessity), § 92 (the level-structure of pure universalities) and § 83 b (essential and non-essential types). Parts I and II, and the rest of Part III, were keyword-scanned only.*
+
+### undated - Husserl formal and transcendental logic
+
+`husserl-formal-and-transcendental-logic-commentary`
+
+- **presupposed** · `wesen/ftl/001` · *essential requirements*
+  Logic in the genuine sense is traced to the Platonic founding, as a site for investigating the essential requirements of genuine knowing and genuine science.
+  `husserl-formal-and-transcendental-logic-commentary#h2-introduction` · FTL, Introduction · [INTRODUCTION](https://faultynode.github.io/commentaries/commentaries/husserl/husserl-formal-and-transcendental-logic-commentary.html#introduction)
+  > logic conceived as a site for investigating the essential requirements of "genuine" knowing and "genuine" science
+
+- **introduced** · `wesen/ftl/002` · *essence of genuine science*
+  Logic's great function is said to be investigating in essential generality the paths to ultimate principles, and so unfolding the essence of genuine science as such, its pure possibility.
+  `husserl-formal-and-transcendental-logic-commentary#h2-introduction` · FTL, Introduction · [INTRODUCTION](https://faultynode.github.io/commentaries/commentaries/husserl/husserl-formal-and-transcendental-logic-commentary.html#introduction)
+  > through unfolding the essence of genuine science as such (its pure possibility), to give actual science norm and guidance
+
+- **criticized** · `wesen/ftl/003` · *essential norms*
+  Logic is charged with going astray from its own sense by failing to pursue the pure essential norms of science according to all its essential formations.
+  `husserl-formal-and-transcendental-logic-commentary#h2-introduction` · FTL, Introduction · [INTRODUCTION](https://faultynode.github.io/commentaries/commentaries/husserl/husserl-formal-and-transcendental-logic-commentary.html#introduction)
+  > Instead of pursuing the pure essential norms of science according to all its essential formations
+
+- **presupposed** · `wesen/ftl/004` · *essential conditions*
+  Formal logic is called the first historical attempt at a universal science-theory, a theory related to the essential conditions of possible science as such.
+  `husserl-formal-and-transcendental-logic-commentary#h2-introduction` · FTL, Introduction · [INTRODUCTION](https://faultynode.github.io/commentaries/commentaries/husserl/husserl-formal-and-transcendental-logic-commentary.html#introduction)
+  > a theory related to the essential conditions of possible science as such
+
+- **introduced** · `wesen/ftl/005` · *eidetic variation*
+  A purely possible world in general is said to arise as eidos concretely through the method of eidetic variation from the factually given world.
+  `husserl-formal-and-transcendental-logic-commentary#h2-concluding-word` · FTL, Concluding Word · [Concluding Word](https://faultynode.github.io/commentaries/commentaries/husserl/husserl-formal-and-transcendental-logic-commentary.html#concluding-word)
+  > which as eidos must concretely arise through the method of eidetic variation from the factually given world
+
+- **introduced** · `wesen/ftl/006` · *eidetic description*
+  A transcendental aesthetic in a new sense is projected as the eidetic description of the universal a priori without which objects could not unitarily appear before the categorial actions.
+  `husserl-formal-and-transcendental-logic-commentary#h2-concluding-word` · FTL, Concluding Word · [Concluding Word](https://faultynode.github.io/commentaries/commentaries/husserl/husserl-formal-and-transcendental-logic-commentary.html#concluding-word)
+  > the eidetic description of the universal a priori without which in mere experience and before the categorial actions, objects could not unitarily appear
+
+#### Recorded absences
+
+- **absent** · `husserl-formal-and-transcendental-logic-commentary#h2-introduction`
+  Expected because: The Introduction runs the whole Cartesian theme - the Discourse on Method, the Meditations as first philosophy, the failure of Descartes' own radical grounding - and so is where Descartes' doctrine of essences would be taken up if this commentary took it up; it engages only his method.
+  Bears on gap-007. Descartes is named repeatedly in this section, which is why the absence is informative: the engagement is with the Meditations as a programme of radical grounding, never with vera et immutabilis natura.
+  [INTRODUCTION](https://faultynode.github.io/commentaries/commentaries/husserl/husserl-formal-and-transcendental-logic-commentary.html#introduction)
+
+- **absent** · `husserl-formal-and-transcendental-logic-commentary#h2-concluding-word`
+  Expected because: This is the only place in the commentary where eidos and eidetic variation appear, and it projects a transcendental aesthetic as eidetic description of the world-a-priori - the natural place to say what an essence so obtained is, in residuum or immutability terms.
+  The eidos here is obtained by variation from the factually given world; nothing is said of innateness, immutability, or a residuum.
+  [Concluding Word](https://faultynode.github.io/commentaries/commentaries/husserl/husserl-formal-and-transcendental-logic-commentary.html#concluding-word)
+
+*Partial pass: Covers the Introduction and the Concluding Word. Parts I and II, the Appendices, and § 93 (whose heading names Descartes but whose body is empty in this commentary) were keyword-scanned only. The theme's 61 sections of hits in this file are overwhelmingly 'essential' used adverbially or in the phrases 'essential necessity' and 'essential generality'; the eidetic vocabulary proper appears only at the very end.*
+
+### undated - Husserl, Hua 3 — Ideas I, Parts 3–4
+
+`husserliana-3-ideas-i-parts-3-4-commentary`
+
+- **presupposed** · `wesen/hua3-parts34/001` · *essence-grasping*
+  Immediately intuitive essence-grasping is said to be carriable out on the basis of either perception or mere phantasy, a point the commentary refers back to Ideas I § 4.
+  `husserliana-3-ideas-i-parts-3-4-commentary#h3-s-70-the-role-of-perception-in-the-method-of-essence-clarification-the-privilege` · Ideas I § 70 · [§ 70\. The Role of Perception in the Method of Essence-Clarification. The Privileged Position of Free Phantasy](https://faultynode.github.io/commentaries/commentaries/husserl/husserliana-3-ideas-i-parts-3-4-commentary.html#the-role-of-perception-in-the-method-of-essence-clarification-the-privileged-position-of-free-phantasy)
+  > It belongs to the general nature of immediately intuitive essence-grasping that it can be carried out on the basis of either perception or mere phantasy (re-presentation).
+
+- **introduced** · `wesen/hua3-parts34/002` · *eidetic sciences*
+  Free phantasies are said to win a privileged position over perceptions in phenomenology as in all eidetic sciences, with the hyletic sensation-data excluded from the privilege.
+  `husserliana-3-ideas-i-parts-3-4-commentary#h3-s-70-the-role-of-perception-in-the-method-of-essence-clarification-the-privilege` · Ideas I § 70 · [§ 70\. The Role of Perception in the Method of Essence-Clarification. The Privileged Position of Free Phantasy](https://faultynode.github.io/commentaries/commentaries/husserl/husserliana-3-ideas-i-parts-3-4-commentary.html#the-role-of-perception-in-the-method-of-essence-clarification-the-privileged-position-of-free-phantasy)
+  > There are reasons why, in phenomenology as in all eidetic sciences, re-presentations, and more precisely free phantasies, win a privileged position over perceptions.
+
+- **introduced** · `wesen/hua3-parts34/003` · *essential possibilities*
+  The geometer's freedom to reshape invented figures in phantasy is said to be what first opens access to the reaches of essential possibilities and their horizons of essential knowledge.
+  `husserliana-3-ideas-i-parts-3-4-commentary#h3-s-70-the-role-of-perception-in-the-method-of-essence-clarification-the-privilege` · Ideas I § 70 · [§ 70\. The Role of Perception in the Method of Essence-Clarification. The Privileged Position of Free Phantasy](https://faultynode.github.io/commentaries/commentaries/husserl/husserliana-3-ideas-i-parts-3-4-commentary.html#the-role-of-perception-in-the-method-of-essence-clarification-the-privileged-position-of-free-phantasy)
+  > This freedom first opens up access to the vast reaches of essential possibilities, with their infinite horizons of essential knowledge.
+
+- **introduced** · `wesen/hua3-parts34/004` · *eternal truths*
+  Fiction is called the vital element of phenomenology and of all eidetic science, and the source from which knowledge of eternal truths draws its nourishment.
+  `husserliana-3-ideas-i-parts-3-4-commentary#h3-s-70-the-role-of-perception-in-the-method-of-essence-clarification-the-privilege` · Ideas I § 70 · [§ 70\. The Role of Perception in the Method of Essence-Clarification. The Privileged Position of Free Phantasy](https://faultynode.github.io/commentaries/commentaries/husserl/husserliana-3-ideas-i-parts-3-4-commentary.html#the-role-of-perception-in-the-method-of-essence-clarification-the-privileged-position-of-free-phantasy)
+  > that "fiction" makes up the vital element of phenomenology as of all eidetic science, that fiction is the source from which the knowledge of "eternal truths" draws its nourishment
+
+- **introduced** · `wesen/hua3-parts34/005` · *descriptive eidetic doctrine*
+  Phenomenology is characterized as a descriptive - not mathematical or idealizing - eidetic doctrine of the transcendentally pure experiences.
+  `husserliana-3-ideas-i-parts-3-4-commentary#h3-s-75-phenomenology-as-a-descriptive-eidetic-doctrine-of-the-pure-experiences` · Ideas I § 75 · [§ 75\. Phenomenology as a Descriptive Eidetic Doctrine of the Pure Experiences](https://faultynode.github.io/commentaries/commentaries/husserl/husserliana-3-ideas-i-parts-3-4-commentary.html#phenomenology-as-a-descriptive-eidetic-doctrine-of-the-pure-experiences)
+  > it wants to be a descriptive eidetic doctrine of the transcendentally pure experiences in the phenomenological attitude, and like every descriptive, non-substructing and non-idealizing discipline, it has its right in itself
+
+- **introduced** · `wesen/hua3-parts34/006` · *ideal-identical essence*
+  Phenomenology is said to let only the individuation fall and to raise the whole essential content into eidetic consciousness as an ideal-identical essence singularizable in countless instances.
+  `husserliana-3-ideas-i-parts-3-4-commentary#h3-s-75-phenomenology-as-a-descriptive-eidetic-doctrine-of-the-pure-experiences` · Ideas I § 75 · [§ 75\. Phenomenology as a Descriptive Eidetic Doctrine of the Pure Experiences](https://faultynode.github.io/commentaries/commentaries/husserl/husserliana-3-ideas-i-parts-3-4-commentary.html#phenomenology-as-a-descriptive-eidetic-doctrine-of-the-pure-experiences)
+  > Only the individuation does phenomenology let fall; the whole essential content, in the fullness of its concretion, it raises into eidetic consciousness and takes as an ideal-identical essence
+
+- **revised** · `wesen/hua3-parts34/007` · *eidetic singularity*
+  Eidetic singularities are declared unfixable in exact concepts, while essences of a higher level of speciality are said to admit firm distinction and strict conceptual grasp.
+  `husserliana-3-ideas-i-parts-3-4-commentary#h3-s-75-phenomenology-as-a-descriptive-eidetic-doctrine-of-the-pure-experiences` · Ideas I § 75 · [§ 75\. Phenomenology as a Descriptive Eidetic Doctrine of the Pure Experiences](https://faultynode.github.io/commentaries/commentaries/husserl/husserliana-3-ideas-i-parts-3-4-commentary.html#phenomenology-as-a-descriptive-eidetic-doctrine-of-the-pure-experiences)
+  > it stands quite otherwise with the essences of a higher level of speciality. These are accessible to firm distinction, identifying maintenance, and strict conceptual grasp
+
+- **presupposed** · `wesen/hua3-parts34/008` · *regional and categorial essence*
+  The transition from formal to material ontologies is made by taking the material generality of the regional and categorial essence in view, each region guiding its own investigation-group.
+  `husserliana-3-ideas-i-parts-3-4-commentary#h3-s-149-the-reason-theoretical-problems-of-the-regional-ontologies-the-problem-of` · Ideas I § 149 · [§ 149\. The Reason-Theoretical Problems of the Regional Ontologies. The Problem of Phenomenological Constitution](https://faultynode.github.io/commentaries/commentaries/husserl/husserliana-3-ideas-i-parts-3-4-commentary.html#the-reason-theoretical-problems-of-the-regional-ontologies-the-problem-of-phenomenological-constitution)
+  > since we have the material generality of the regional and categorial essence in view, to propositions whose determination-content is taken in its regional determinateness
+
+#### Recorded absences
+
+- **absent** · `husserliana-3-ideas-i-parts-3-4-commentary#h3-s-70-the-role-of-perception-in-the-method-of-essence-clarification-the-privilege`
+  Expected because: This is the commentary's fullest treatment of how essences are secured - free variation in phantasy, the geometer's triangle, and the knowledge of 'eternal truths' - and so the place where a comparison with Descartes' geometrical figures as true and immutable natures would fall if the commentary made one.
+  Bears directly on gap-007: the section grounds eternal truths in freely varied fiction and never in innateness or divine immutability, and never calls essences a residuum.
+  [§ 70\. The Role of Perception in the Method of Essence-Clarification. The Privileged Position of Free Phantasy](https://faultynode.github.io/commentaries/commentaries/husserl/husserliana-3-ideas-i-parts-3-4-commentary.html#the-role-of-perception-in-the-method-of-essence-clarification-the-privileged-position-of-free-phantasy)
+
+- **absent** · `husserliana-3-ideas-i-parts-3-4-commentary#h3-s-75-phenomenology-as-a-descriptive-eidetic-doctrine-of-the-pure-experiences`
+  Expected because: The section defines phenomenology as a descriptive eidetic doctrine and distinguishes eidetic singularities from higher essences, so if 'phenomenological residuum' were ever used of essences rather than of transcendental consciousness, it would be used here.
+  The three occurrences of 'residuum' in this commentary are all of the hyletic or transcendental residuum of the reduction, none of an essence.
+  [§ 75\. Phenomenology as a Descriptive Eidetic Doctrine of the Pure Experiences](https://faultynode.github.io/commentaries/commentaries/husserl/husserliana-3-ideas-i-parts-3-4-commentary.html#phenomenology-as-a-descriptive-eidetic-doctrine-of-the-pure-experiences)
+
+*Partial pass: Covers § 70 (the method of essence-clarification and the privilege of free phantasy) and § 75 (phenomenology as descriptive eidetic doctrine) in full, and § 149 (regional ontologies) for its essence vocabulary. The remaining high-density sections - § 67 (nearness and farness from givenness), § 78 (experience-reflections), §§ 65-66, § 94 and § 145 - were keyword-scanned only. Note for gap-007: this commentary covers Ideas I §§ 63-153, so Ideas I §§ 2-3 and 22-23, which gap-007 names, are not in this file and are not in the corpus at all.*
+
+### undated - Hua 5 - Ideas III
+
+`husserliana-5-ideas-iii-commentary`
+
+- **introduced** · `wesen/hua5-ideas3/001` · *regional concept*
+  Regional concepts are said to be derivable a priori not by transcendental deduction but by following an apodictically evident transcendental clue, grasped step by step in seeing.
+  `husserliana-5-ideas-iii-commentary#h3-s7-regional-concepts-and-genus-concepts` · Ideas III § 7 · [§7. Regional Concepts and “Genus”-Concepts](https://faultynode.github.io/commentaries/commentaries/husserl/husserliana-5-ideas-iii-commentary.html#regional-concepts-and-genus-concepts)
+  > and yet it follows an apodictically evident "transcendental clue," which leads us not to deduce but to find and grasp step by step through our own seeing
+
+- **presupposed** · `wesen/hua5-ideas3/002` · *region*
+  There must be a priori as many ontologies as there are regional concepts, whether those ontologies turn out rich or meager in content.
+  `husserliana-5-ideas-iii-commentary#h3-s7-regional-concepts-and-genus-concepts` · Ideas III § 7 · [§7. Regional Concepts and “Genus”-Concepts](https://faultynode.github.io/commentaries/commentaries/husserl/husserliana-5-ideas-iii-commentary.html#regional-concepts-and-genus-concepts)
+  > such that a priori there must be as many ontologies as regional concepts
+
+- **introduced** · `wesen/hua5-ideas3/003` · *logical essence*
+  Word-meanings as logical essences are said to be valid only if a corresponding essence, graspable through intuition as a noema, finds faithful expression in the logical concept.
+  `husserliana-5-ideas-iii-commentary#h3-s7-regional-concepts-and-genus-concepts` · Ideas III § 7 · [§7. Regional Concepts and “Genus”-Concepts](https://faultynode.github.io/commentaries/commentaries/husserl/husserliana-5-ideas-iii-commentary.html#regional-concepts-and-genus-concepts)
+  > if there is a corresponding essence, graspable through intuition as a corresponding noema, that finds its faithful "expression" in the logical concept
+
+- **introduced** · `wesen/hua5-ideas3/004` · *essential intuition*
+  The essential intuition is said to be able to proceed on the ground of a singular imagination, which suffices to grasp the general essence.
+  `husserliana-5-ideas-iii-commentary#h3-s7-regional-concepts-and-genus-concepts` · Ideas III § 7 · [§7. Regional Concepts and “Genus”-Concepts](https://faultynode.github.io/commentaries/commentaries/husserl/husserliana-5-ideas-iii-commentary.html#regional-concepts-and-genus-concepts)
+  > The essential intuition can proceed on the ground of a singular imagination. It suffices to grasp the general essence
+
+- **revised** · `wesen/hua5-ideas3/005` · *noema and essence*
+  The noema of a thing-intuition is declared not to be and not to contain the essence of the thing, the grasping of the one not being the grasping of the other.
+  `husserliana-5-ideas-iii-commentary#h3-s16-noema-and-essence` · Ideas III § 16 · [§16. Noema and Essence](https://faultynode.github.io/commentaries/commentaries/husserl/husserliana-5-ideas-iii-commentary.html#noema-and-essence)
+  > is not and does not contain the essence of the thing. The grasping of the one is not the grasping of the other
+
+- **introduced** · `wesen/hua5-ideas3/006` · *Erschauung*
+  Essential intuition (Erschauung) is reserved as a term for the intuitive grasping of essences, so that the intuition of the noema needs a different terminus.
+  `husserliana-5-ideas-iii-commentary#h3-s16-noema-and-essence` · Ideas III § 16 · [§16. Noema and Essence](https://faultynode.github.io/commentaries/commentaries/husserl/husserliana-5-ideas-iii-commentary.html#noema-and-essence)
+  > Speaking of "essential intuition" (Erschauung) only for the intuitive grasping of essences, we need a different terminus for the intuition of the noema.
+
+- **presupposed** · `wesen/hua5-ideas3/007` · *essence "round square"*
+  The essence round square is said not to exist, while the presupposition of judging so is that round square is a meaning existing in the unity of the noema.
+  `husserliana-5-ideas-iii-commentary#h3-s16-noema-and-essence` · Ideas III § 16 · [§16. Noema and Essence](https://faultynode.github.io/commentaries/commentaries/husserl/husserliana-5-ideas-iii-commentary.html#noema-and-essence)
+  > The essence "round square" does not exist; but to judge this, the presupposition is that "round square" is a meaning existing in this unity.
+
+- **introduced** · `wesen/hua5-ideas3/008` · *essences and essential individualities*
+  Judging ontologically about essences rather than phenomenologically about the noema is called an essential change of judgment-posture that oversteps phenomenology into ontology.
+  `husserliana-5-ideas-iii-commentary#h3-s16-noema-and-essence` · Ideas III § 16 · [§16. Noema and Essence](https://faultynode.github.io/commentaries/commentaries/husserl/husserliana-5-ideas-iii-commentary.html#noema-and-essence)
+  > As soon as we perform the required change of judgment-direction, we have overstepped the domain of phenomenology and entered that of ontology.
+
+- **presupposed** · `wesen/hua5-ideas3/009` · *essential truths*
+  All phenomenological truths are said to belong to rational psychology, first those relating to the reell essential moments of possible experiences.
+  `husserliana-5-ideas-iii-commentary#h3-s8-rational-psychology-and-phenomenology-experimental-psychology` · Ideas III § 8 · [§8. Rational Psychology and Phenomenology — Experimental Psychology](https://faultynode.github.io/commentaries/commentaries/husserl/husserliana-5-ideas-iii-commentary.html#rational-psychology-and-phenomenology--experimental-psychology)
+  > it is certain in advance that all phenomenological truths belong to rational psychology - first and foremost all those relating to the real (reell) essential moments of possible experiences
+
+#### Recorded absences
+
+- **absent** · `husserliana-5-ideas-iii-commentary#h3-s16-noema-and-essence`
+  Expected because: The section separates the grasping of the noema from the grasping of the ontic essence and hands the essence over to ontology, so it is where a claim about essences as a phenomenological residuum, or as innate or immutable natures, would fall.
+  Bears on gap-007. The commentary's essence-vocabulary is 'essential intuition (Erschauung)' and 'ontic essence'; none of the Cartesian vocabulary appears anywhere in the file.
+  [§16. Noema and Essence](https://faultynode.github.io/commentaries/commentaries/husserl/husserliana-5-ideas-iii-commentary.html#noema-and-essence)
+
+*Partial pass: Covers § 7 (regional concepts and genus-concepts) and § 16 (noema and essence) in full, and the opening paragraphs of § 8 (rational psychology and phenomenology), the densest section in the file. §§ 9-15 and the First Chapter were keyword-scanned only.*
+
+### undated - Picht De Anima Commentary
+
+`picht-de-anima-commentary`
+
+- **introduced** · `wesen/picht-anima/001` · *eidos*
+  The totality of characteristics that characterize the book as a book is said to be nothing other than its eidos.
+  `picht-de-anima-commentary#h5-c-eidos` · [c. Eidos](https://faultynode.github.io/commentaries/commentaries/picht/picht-de-anima-commentary.html#c-eidos)
+  > The totality of characteristics that characterize the book as a book is nothing other than its *eidos*.
+
+- **revised** · `wesen/picht-anima/002` · *eidos*
+  The direction of agreement is reversed for eidos as against the logical concept: the object is supposed to agree with the eidos, not the concept with the object.
+  `picht-de-anima-commentary#h5-c-eidos` · [c. Eidos](https://faultynode.github.io/commentaries/commentaries/picht/picht-de-anima-commentary.html#c-eidos)
+  > The logical concept is supposed to agree with the designated object, but with *eidos* the relationship is reversed: the object is supposed to agree with the *eidos*.
+
+- **introduced** · `wesen/picht-anima/003` · *eidos*
+  Following Metaphysics VII 8, the eidos is said not to arise in the sensible and to have no genesis, being rather what comes to appearance in another, the matter.
+  `picht-de-anima-commentary#h3-iii-morphe-and-eidos-shape-and-form` · Metaphysics VII, 8 · [III. Morphē and Eidos — Shape and Form](https://faultynode.github.io/commentaries/commentaries/picht/picht-de-anima-commentary.html#iii-morphe-and-eidos--shape-and-form)
+  > the *eidos* does not arise in the sensible, and there is no genesis of it; rather, it is what comes to appearance in another (the matter), either through art or through nature
+
+- **revised** · `wesen/picht-anima/004` · *eidos to enon*
+  After Plato ousia is the eidos in itself, while after Aristotle it is the eidos not in itself but indwelling in the hyle, appearing there as morphe.
+  `picht-de-anima-commentary#h3-iii-morphe-and-eidos-shape-and-form` · Metaphysics VII, 1037a 29f. · [III. Morphē and Eidos — Shape and Form](https://faultynode.github.io/commentaries/commentaries/picht/picht-de-anima-commentary.html#iii-morphe-and-eidos--shape-and-form)
+  > After Plato, *ousia* is the *eidos kath' hauto* — the *eidos* in itself. After Aristotle, it is *to eidos to enon* — the *eidos* not in itself but indwelling in the *hylē*.
+
+- **introduced** · `wesen/picht-anima/005` · *morphe / eidos*
+  The ring is said not to be identical with the mathematical circle, since every ring consists of a material, but identical with it insofar as it is the circle presented in that material.
+  `picht-de-anima-commentary#h3-iii-morphe-and-eidos-shape-and-form` · Metaphysics VII, 8 · [III. Morphē and Eidos — Shape and Form](https://faultynode.github.io/commentaries/commentaries/picht/picht-de-anima-commentary.html#iii-morphe-and-eidos--shape-and-form)
+  > The ring (*morphē*) is not identical with the mathematical circle (*eidos*), for every ring consists of a material; but it is identical with the circle insofar as it is the circle presented in this material.
+
+- **presupposed** · `wesen/picht-anima/006` · *essence of the soul*
+  The essence of the soul is said to appear in its highest form, which Aristotle calls nous and Hegel translates as spirit.
+  `picht-de-anima-commentary#h3-ii-perspectives-of-the-comparison-of-hegel-with-aristotle-the-essence-of-actuali` · De anima III, 8, 431b21 · [II. Perspectives of the Comparison of Hegel with Aristotle: The Essence of Actuality — The Essence of Truth — The Essence of God](https://faultynode.github.io/commentaries/commentaries/picht/picht-de-anima-commentary.html#ii-perspectives-of-the-comparison-of-hegel-with-aristotle-the-essence-of-actuality--the-essence-of-truth--the-essence-of-god)
+  > The essence of the soul appears in its highest form, which Aristotle calls *nous*.
+
+- **introduced** · `wesen/picht-anima/007` · *essence of truth*
+  In the age of European metaphysics the question of the essence of truth is said to be inseparable from the question of the essence of the soul.
+  `picht-de-anima-commentary#h3-ii-perspectives-of-the-comparison-of-hegel-with-aristotle-the-essence-of-actuali` · [II. Perspectives of the Comparison of Hegel with Aristotle: The Essence of Actuality — The Essence of Truth — The Essence of God](https://faultynode.github.io/commentaries/commentaries/picht/picht-de-anima-commentary.html#ii-perspectives-of-the-comparison-of-hegel-with-aristotle-the-essence-of-actuality--the-essence-of-truth--the-essence-of-god)
+  > Therefore, in the age of European metaphysics, the question of the essence of truth cannot be separated from the question of the essence of the soul.
+
+#### Recorded absences
+
+- **absent** · `picht-de-anima-commentary#h3-iii-morphe-and-eidos-shape-and-form`
+  Expected because: This is the corpus's fullest treatment of eidos as a term of art, and it works the mathematical circle as its example - the same geometrical case Descartes calls a true and immutable nature and Husserl treats as an exact essence - so a connection to either would be made here if this commentary made one.
+  Bears on gap-007 by ruling this commentary out: its eidos is Aristotelian form indwelling in matter, and neither Husserl nor Descartes is named in the section.
+  [III. Morphē and Eidos — Shape and Form](https://faultynode.github.io/commentaries/commentaries/picht/picht-de-anima-commentary.html#iii-morphe-and-eidos--shape-and-form)
+
+*Partial pass: Covers First Part II c (Eidos) and Fourth Part III (Morphe and Eidos) in full, plus the opening paragraphs of First Part II (the essence of actuality, truth and God). The Second and Third Parts, and the rest of the Fourth, were keyword-scanned only.*
+
 ## Not covered by this ledger
 
 *Where the theme's terms occur but no extraction pass has run. Silence in the sections above is silence about these files, not evidence of absence in them.*
 
-- `henry-the-essence-of-manifestation-commentary` - 3585 term hits, no record
-- `husserliana-3-ideas-i-parts-3-4-commentary` - 1038 term hits, no record
 - `Heidegger GA 3 - Kant und das Problem der Metaphysik Commentary` - 508 term hits, no record
-- `heidegger-ga-3-kant-und-das-problem-der-metaphysik-commentary` - 508 term hits, no record
-- `heidegger-sein-und-zeit-commentary` - 394 term hits, no record
-- `husserliana-5-ideas-iii-commentary` - 356 term hits, no record
-- `derrida-introduction-a-lorigine-de-la-geometrie-commentary` - 328 term hits, no record
-- `husserl-thing-and-space-commentary` - 311 term hits, no record
-- `husserliana-9-phenomenological-psychology-commentary` - 309 term hits, no record
-- `husserliana-26-theory-of-meaning-commentary` - 261 term hits, no record
-- `husserliana-19-1-fifth-logical-investigation-commentary` - 249 term hits, no record
-- `husserliana-7-erste-philosophie-i-commentary` - 232 term hits, no record
-- `henry-philosophie-et-phenomenologie-du-corps-commentary` - 203 term hits, no record
-- `husserliana-19-2-sixth-logical-investigation-commentary` - 162 term hits, no record
-- `husserliana-28-vorlesungen-uber-ethik-und-wertlehre-commentary` - 160 term hits, no record
-- `picht-de-anima-commentary` - 139 term hits, no record
-- `bernet-la-vie-du-sujet-commentary` - 133 term hits, no record
-- `husserl-erfahrung-und-urteil-commentary` - 129 term hits, no record
-- `franck-chair-et-corps-commentary` - 128 term hits, no record
-- `husserl-formal-and-transcendental-logic-commentary` - 127 term hits, no record
-- `lacan-seminar-1-freuds-papers-on-technique-commentary` - 125 term hits, no record
-- `husserliana-33-die-bernauer-manuskripte-uber-das-zeitbewusstsein-commentary` - 120 term hits, no record
-- `heidegger-being-and-time-commentary` - 111 term hits, no record
-- `lacan-seminar-11-the-four-fundamental-concepts-of-psychoanalysis-commentary` - 111 term hits, no record
-- `husserliana-4-ideas-ii-commentary` - 104 term hits, no record
-- `husserliana-13-basic-problems-of-phenomenology-commentary` - 103 term hits, no record
 - `husserl-natur-und-geist-commentary` - 102 term hits, no record
 - `Reduction et donation Commentary` - 100 term hits, no record
 - `husserliana-3-ideas-i-commentary` - 100 term hits, no record

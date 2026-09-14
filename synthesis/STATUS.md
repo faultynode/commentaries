@@ -8,17 +8,17 @@ Corpus: **53 commentaries**, 2,934,474 words, 3902 sections indexed in `synthesi
 
 ### fundierung - founding of higher-order objectivities
 
-13 commentaries extracted · 110 units · 2 absences · 13 partial
+8 commentaries extracted · 48 units · 0 absences · 8 partial
 
 Next candidates, by term density:
 
+- [ ] `husserliana-43-2-studien-zur-struktur-des-bewusstseins-commentary` (undated) - 377 hits
+- [ ] `lacan-seminar-11-the-four-fundamental-concepts-of-psychoanalysis-commentary` (1964) - 370 hits
+- [ ] `henry-philosophie-et-phenomenologie-du-corps-commentary` (1965) - 340 hits
+- [ ] `husserliana-9-phenomenological-psychology-commentary` (1925) - 335 hits
+- [ ] `husserliana-26-theory-of-meaning-commentary` (1908) - 333 hits
 - [ ] `kant-kritik-der-reinen-vernunft-commentary` (undated) - 332 hits
-- [ ] `husserliana-28-vorlesungen-uber-ethik-und-wertlehre-commentary` (1908) - 316 hits
-- [ ] `lacan-seminar-1-freuds-papers-on-technique-commentary` (undated) - 308 hits
-- [ ] `husserliana-33-die-bernauer-manuskripte-uber-das-zeitbewusstsein-commentary` (1917) - 238 hits
-- [ ] `husserl-erfahrung-und-urteil-commentary` (undated) - 234 hits
-- [ ] `Heidegger GA 3 - Kant und das Problem der Metaphysik Commentary` (undated) - 226 hits
-- ... 34 more; see `synthesis_query.py --theme fundierung`
+- ... 39 more; see `synthesis_query.py --theme fundierung`
 
 ### intentionalitaet - intentionality
 
@@ -106,17 +106,17 @@ Next candidates, by term density:
 
 ### wesen - essence
 
-1 commentary extracted · 4 units · 1 absences · 1 partial
+26 commentaries extracted · 188 units · 28 absences · 26 partial
 
 Next candidates, by term density:
 
-- [ ] `henry-the-essence-of-manifestation-commentary` (undated) - 3585 hits
-- [ ] `husserliana-3-ideas-i-parts-3-4-commentary` (undated) - 1038 hits
 - [ ] `Heidegger GA 3 - Kant und das Problem der Metaphysik Commentary` (undated) - 508 hits
-- [ ] `heidegger-ga-3-kant-und-das-problem-der-metaphysik-commentary` (undated) - 508 hits
-- [ ] `heidegger-sein-und-zeit-commentary` (1927) - 394 hits
-- [ ] `husserliana-5-ideas-iii-commentary` (undated) - 356 hits
-- ... 46 more; see `synthesis_query.py --theme wesen`
+- [ ] `husserl-natur-und-geist-commentary` (1919) - 102 hits
+- [ ] `husserliana-3-ideas-i-commentary` (undated) - 100 hits
+- [ ] `Reduction et donation Commentary` (undated) - 100 hits
+- [ ] `husserliana-11-analyses-concerning-passive-and-active-synthesis-commentary` (1920) - 97 hits
+- [ ] `heidegger-ga-24-die-grundprobleme-der-phanomenologie-commentary` (undated) - 73 hits
+- ... 21 more; see `synthesis_query.py --theme wesen`
 
 ### zeitlichkeit - temporality
 

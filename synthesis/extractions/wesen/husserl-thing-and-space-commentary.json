@@ -1,0 +1,94 @@
+{
+  "schema_version": 1,
+  "theme": "wesen",
+  "commentary": "husserl-thing-and-space-commentary",
+  "source_sha256": "e0d0451d72ec96da3d81ae5556439940774ed1e7a51cb3d8a40eb1cf5affde23",
+  "extracted_at": "2026-09-14",
+  "extractor": {
+    "agent": "claude-code",
+    "prompt": "prompts/synthesis-pipeline/extraction-prompt.md",
+    "note": "Whole file grep-scanned for the theme's search terms plus 'Wesensschau', 'immutable', 'innate', 'residuum' and 'Descartes'. Closely read § 3 (lines 79-106) and § 4 (107-132); § 40 (1127-1158) read for its recapitulation of the eidetic stance only."
+  },
+  "coverage": "partial",
+  "coverage_note": "Covers § 3 (essential cognition on the basis of phantasized perceptions) and § 4 (intentionality as the essential determination of perception) in full, and the opening of § 40. Chapters 2-6 (§§ 9-39) and the kinaesthetic chapters (§§ 41-57), where 'essential' recurs adverbially, were keyword-scanned only.",
+  "units": [
+    {
+      "id": "wesen/ding-raum/001",
+      "locator": "husserl-thing-and-space-commentary#h3-s3-essential-cognition-of-perception-on-the-basis-of-phantasized-perceptions",
+      "primary_locator": "Ding und Raum § 3",
+      "stratum": "ding-1907",
+      "term": "essence",
+      "status": "introduced",
+      "claim": "The question at issue is stated to be the essence of the perception as given in the consciousness that intuits and holds fast to the essence as identical, not the phenomenological singularity of the this-here.",
+      "quote": "The question at issue is the **essence** of this perception, just as it is given in the consciousness that is intuiting and holding fast to the essence as identical."
+    },
+    {
+      "id": "wesen/ding-raum/002",
+      "locator": "husserl-thing-and-space-commentary#h3-s3-essential-cognition-of-perception-on-the-basis-of-phantasized-perceptions",
+      "primary_locator": "Ding und Raum § 3",
+      "stratum": "ding-1907",
+      "term": "grasping of essence",
+      "status": "introduced",
+      "claim": "It is denied to be a condition of phenomenological analysis that the grasping of essence be carried out on the basis of individual instances of actually existing lived experiences.",
+      "quote": "It is not a condition of phenomenological analysis that the grasping of essence must be carried out on the basis of individual instances of actually existing lived experiences."
+    },
+    {
+      "id": "wesen/ding-raum/003",
+      "locator": "husserl-thing-and-space-commentary#h3-s3-essential-cognition-of-perception-on-the-basis-of-phantasized-perceptions",
+      "primary_locator": "Ding und Raum § 3",
+      "stratum": "ding-1907",
+      "term": "free variation in phantasy",
+      "status": "introduced",
+      "claim": "The commentary names the thesis that phantasized perceptions serve as well as actual ones as what later phenomenology calls free variation in phantasy, the varying of examples to identify the invariant.",
+      "quote": "This is what later phenomenology calls the method of **free variation in phantasy** (*freie Variation in der Phantasie*) — the technique of varying examples imaginatively in order to identify what remains invariant as the essence."
+    },
+    {
+      "id": "wesen/ding-raum/004",
+      "locator": "husserl-thing-and-space-commentary#h3-s3-essential-cognition-of-perception-on-the-basis-of-phantasized-perceptions",
+      "primary_locator": "Ding und Raum § 3",
+      "stratum": "ding-1907",
+      "term": "singular essence",
+      "status": "introduced",
+      "claim": "With existence set out of play, what is given in the absolute sense is said not to be something existent and yet to be a being, namely a singular essence in each case.",
+      "quote": "then what is given in the absolute sense is not something *existent* and yet is a *being*: namely, a **singular essence** in each case"
+    },
+    {
+      "id": "wesen/ding-raum/005",
+      "locator": "husserl-thing-and-space-commentary#h3-s3-essential-cognition-of-perception-on-the-basis-of-phantasized-perceptions",
+      "primary_locator": "Ding und Raum § 3",
+      "stratum": "ding-1907",
+      "term": "universal essence",
+      "status": "introduced",
+      "claim": "Evident essential generalizations of a higher level are said to relate to the singular essences, drawing from them the universal essence perception in general.",
+      "quote": "from them we draw out the universal essence \"perception in general,\" which is singularized in them as such and such"
+    },
+    {
+      "id": "wesen/ding-raum/006",
+      "locator": "husserl-thing-and-space-commentary#h3-s4-intentionality-as-the-essential-determination-of-perception",
+      "primary_locator": "Ding und Raum § 4",
+      "stratum": "ding-1907",
+      "term": "essential character",
+      "status": "introduced",
+      "claim": "Within the sphere of pure evidence the relation to the object is said to constitute an essential character of perception, belonging indissociably to its essence.",
+      "quote": "Within the sphere of pure evidence, the relation to the object constitutes an essential character of perception."
+    },
+    {
+      "id": "wesen/ding-raum/007",
+      "locator": "husserl-thing-and-space-commentary#h3-s4-intentionality-as-the-essential-determination-of-perception",
+      "primary_locator": "Ding und Raum § 4",
+      "stratum": "ding-1907",
+      "term": "eidetic finding",
+      "status": "presupposed",
+      "claim": "That a perception is a perception of a bench is called not an empirical observation about particular perceptions but an essential, eidetic finding about what perception is.",
+      "quote": "This is not an empirical observation about particular perceptions but an essential, eidetic finding about what perception *is*."
+    }
+  ],
+  "absences": [
+    {
+      "locator": "husserl-thing-and-space-commentary#h3-s3-essential-cognition-of-perception-on-the-basis-of-phantasized-perceptions",
+      "expected_because": "This is the commentary's methodological statement of how essences are secured - phantasized exemplars, free variation, singular and universal essence - and therefore the place where an essence would be called a residuum, or compared with innate or immutable natures, if this commentary did either.",
+      "absent_terms": ["residuum", "immutable", "true and immutable", "innate", "simple nature", "Descartes", "Wesensschau", "eidos"],
+      "note": "Bears on gap-007: the invariant here is secured by variation in phantasy alone, and is never named a residuum."
+    }
+  ]
+}

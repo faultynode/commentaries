@@ -1,0 +1,123 @@
+{
+  "schema_version": 1,
+  "theme": "wesen",
+  "commentary": "derrida-introduction-a-lorigine-de-la-geometrie-commentary",
+  "source_sha256": "d88dc07ec83bdabc771b2e7ffa2f60764136bc0f531626ed13e58223d20ca693",
+  "extracted_at": "2026-09-14",
+  "extractor": {
+    "agent": "claude-code",
+    "prompt": "prompts/synthesis-pipeline/extraction-prompt.md",
+    "note": "Whole file grep-scanned for the theme's search terms plus 'Wesensschau', 'immutable', 'innate' and 'free variation'; none of the last four occur. Closely read the eidetic passages of section II (lines 57-140) and section X (443-512), the two densest sections."
+  },
+  "coverage": "partial",
+  "coverage_note": "Covers the eidetic material of section II (the Kantian 'always already effected' reduction, geometry among the pure eidetic sciences, and the aporia of an eidetics of the origin) and of section X (the vague morphological essences, their rigour, and the distinction of idealizing ideation from Wesensschau). Sections I, III-IX and XI were keyword-scanned only; section XI's essence-hits in particular were not read closely.",
+  "units": [
+    {
+      "id": "wesen/derrida-geom/001",
+      "locator": "derrida-introduction-a-lorigine-de-la-geometrie-commentary#h2-ii",
+      "stratum": "derrida-intro-1961",
+      "term": "eidetic reduction",
+      "status": "criticized",
+      "claim": "The spontaneous eidetic reduction that frees the geometrical essence from all empirical reality is said to be, for Kant, always already effected - everywhere presupposed and nowhere performed.",
+      "quote": "Likewise the *spontaneous eidetic reduction* that frees the geometrical essence from all empirical reality — from sensible figuration as much as from the geometer's psychological *vécu* — is for Kant *always already effected*"
+    },
+    {
+      "id": "wesen/derrida-geom/002",
+      "locator": "derrida-introduction-a-lorigine-de-la-geometrie-commentary#h2-ii",
+      "stratum": "derrida-intro-1961",
+      "term": "pure eidetic sciences",
+      "status": "presupposed",
+      "claim": "Ideas I is read as situating geometry exemplarily among the pure eidetic sciences, freed from facticity because no existence-thesis is necessary or permitted in them.",
+      "quote": "in *Ideas I*, to situate geometry *exemplarily* among the *pure eidetic sciences*, which were immediately freed from all facticity because no *existence-thesis* (*Daseinsthesis*) was either necessary or permitted in them."
+    },
+    {
+      "id": "wesen/derrida-geom/003",
+      "locator": "derrida-introduction-a-lorigine-de-la-geometrie-commentary#h2-ii",
+      "stratum": "derrida-intro-1961",
+      "term": "eidetic invariance",
+      "status": "criticized",
+      "claim": "In a history of origins the singular fact, what can never be repeated, would take over by right the relay of eidetic invariance, what can be repeated at will and indefinitely.",
+      "quote": "would take over, by right, in a history of origins, the *relay* of eidetic invariance — that is, of what can be repeated *at will and indefinitely*."
+    },
+    {
+      "id": "wesen/derrida-geom/004",
+      "locator": "derrida-introduction-a-lorigine-de-la-geometrie-commentary#h2-ii",
+      "stratum": "derrida-intro-1961",
+      "term": "eidetics of the origin",
+      "status": "criticized",
+      "claim": "Because eidetic method lives on the substitutability of examples and the founding event is defined by non-substitutability, an eidetics of the origin is called a contradiction in terms.",
+      "quote": "eidetic method lives on the substitutability of examples; the founding event is defined by non-substitutability; an eidetics of the origin therefore seems to be a contradiction in terms."
+    },
+    {
+      "id": "wesen/derrida-geom/005",
+      "locator": "derrida-introduction-a-lorigine-de-la-geometrie-commentary#h2-x",
+      "stratum": "derrida-intro-1961",
+      "term": "vague essences",
+      "status": "introduced",
+      "claim": "The rigour of the eidetic assertion and of the determination of vague essences is said to be in no way impaired by the necessary anexactitude of the perceived object.",
+      "quote": "the rigor of the eidetic assertion, like that of the determination of the *vague* essences, is in no way impaired by the necessary anexactitude of the perceived object"
+    },
+    {
+      "id": "wesen/derrida-geom/006",
+      "locator": "derrida-introduction-a-lorigine-de-la-geometrie-commentary#h2-x",
+      "stratum": "derrida-intro-1961",
+      "term": "inexact by essence",
+      "status": "introduced",
+      "claim": "The morphological concepts are called inexact by essence and not by chance, and non-mathematical for that very reason.",
+      "quote": "these simple concepts are *inexact by essence and not by chance*; for this reason also they are *non-mathematical*."
+    },
+    {
+      "id": "wesen/derrida-geom/007",
+      "locator": "derrida-introduction-a-lorigine-de-la-geometrie-commentary#h2-x",
+      "stratum": "derrida-intro-1961",
+      "term": "eidetic fixation",
+      "status": "introduced",
+      "claim": "The anexactitude of perceived shapes is said not to forbid a rigorous and univocal eidetic fixation of the vague morphological types.",
+      "quote": "a rigorous and univocal eidetic fixation of the vague morphological types"
+    },
+    {
+      "id": "wesen/derrida-geom/008",
+      "locator": "derrida-introduction-a-lorigine-de-la-geometrie-commentary#h2-x",
+      "stratum": "derrida-intro-1961",
+      "term": "Wesensschau",
+      "status": "revised",
+      "claim": "Idealization as ideation is distinguished from ideation as essence-intuition (Wesensschau): one constitutes an object in a creation, the other determines it in an intuition.",
+      "quote": "which must be distinguished from ideation as *essence-intuition* (*Wesensschau*)"
+    },
+    {
+      "id": "wesen/derrida-geom/009",
+      "locator": "derrida-introduction-a-lorigine-de-la-geometrie-commentary#h2-x",
+      "stratum": "derrida-intro-1961",
+      "term": "essence",
+      "status": "revised",
+      "claim": "The originary geometrical ideation is said to make an essence arise that did not exist before it, and to be for that reason more historical.",
+      "quote": "The originary geometrical ideation, for example, *makes an essence arise that did not exist before it*. It is therefore *more historical*."
+    },
+    {
+      "id": "wesen/derrida-geom/010",
+      "locator": "derrida-introduction-a-lorigine-de-la-geometrie-commentary#h2-x",
+      "stratum": "derrida-intro-1961",
+      "term": "Wesensschau",
+      "status": "presupposed",
+      "claim": "Within constituted geometry the Wesensschau is said to resume its rights and only to repeat the productive idealization that first made the object.",
+      "quote": "the *Wesensschau* \"only *repeats* the productive idealization.\""
+    }
+  ],
+  "absences": [
+    {
+      "locator": "derrida-introduction-a-lorigine-de-la-geometrie-commentary#h2-x",
+      "expected_because": "The section is the commentary's sustained treatment of geometrical essences and their relation to perceived shapes - the Husserlian counterpart of the Cartesian doctrine that the figures of geometry are true and immutable natures - and it settles the question of their rigour without any recourse to that doctrine.",
+      "absent_terms": [
+        "true and immutable nature",
+        "true and immutable natures",
+        "immutable",
+        "innate idea",
+        "innate",
+        "simple nature",
+        "Descartes",
+        "free variation"
+      ],
+      "note": "Bears on gap-007: geometrical essence is secured here by idealizing ideation and eidetic fixation of morphological types, never by innateness or by a divinely guaranteed immutability. Wesensschau is present in this section and is recorded as units 008 and 010, not as an absence."
+    }
+  ]
+}
