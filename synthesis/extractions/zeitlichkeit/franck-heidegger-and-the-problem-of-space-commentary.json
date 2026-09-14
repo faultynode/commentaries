@@ -1,0 +1,66 @@
+{
+  "schema_version": 1,
+  "theme": "zeitlichkeit",
+  "commentary": "franck-heidegger-and-the-problem-of-space-commentary",
+  "source_sha256": "d848e42de14b4751394aaff4dcb3a4bfab8fc83ce54b6f03d6bcd91746441123",
+  "extracted_at": "2026-09-14",
+  "extractor": {
+    "agent": "claude-code",
+    "prompt": "prompts/synthesis-pipeline/extraction-prompt.md"
+  },
+  "coverage": "partial",
+  "coverage_note": "The Introduction, which carries 47 of the file's 64 term hits and states the Zeitlichkeit/Temporalität distinction the book turns on. Chapters I and II, which carry the rest, are not extracted.",
+  "units": [
+    {
+      "id": "zeitlichkeit/franck-espace/001",
+      "locator": "franck-heidegger-and-the-problem-of-space-commentary#h2-introduction",
+      "term": "presence",
+      "status": "presupposed",
+      "claim": "Metaphysics is said to have implicitly understood the being of beings as presence, and presence to be a temporal determination, so the fracture in the Heideggerian project bears on metaphysics as a whole.",
+      "quote": "citly understood the being of beings as presence, and \"presence\" is a temporal determination. Therefore the fracture that immobilized the Heideggerian project carries a significance that bears on metaphysics as a whole"
+    },
+    {
+      "id": "zeitlichkeit/franck-espace/002",
+      "locator": "franck-heidegger-and-the-problem-of-space-commentary#h2-introduction",
+      "term": "Zeitlichkeit / Temporalität",
+      "status": "introduced",
+      "claim": "The two words are to be heard as distinct: Zeitlichkeit is the temporality Dasein is, Temporalität the temporal determination of being as such, and the unwritten division was the passage from the first to the second.",
+      "quote": "The two words must be heard as distinct: *Zeitlichkeit* is the temporality that *Dasein* is; *Temporalität* would be the temporal determination of *being as such*. The unwritten division was to be the passage from the first to the second."
+    },
+    {
+      "id": "zeitlichkeit/franck-espace/003",
+      "locator": "franck-heidegger-and-the-problem-of-space-commentary#h2-introduction",
+      "primary_locator": "Die Grundprobleme der Phänomenologie (1927)",
+      "term": "Temporalität",
+      "status": "introduced",
+      "claim": "Temporalität is defined, on the 1927 course's authority, as temporality thematized as the condition of possibility of the understanding of being and of ontology as such.",
+      "quote": "*Temporalität* designates temporality *insofar as it is thematized as the condition of possibility of the understanding of being and of ontology as such*. The term is meant to indicate that, within the existential analytic, temporality presents the *horizon* from which we understand being."
+    },
+    {
+      "id": "zeitlichkeit/franck-espace/004",
+      "locator": "franck-heidegger-and-the-problem-of-space-commentary#h2-introduction",
+      "term": "ontological difference",
+      "status": "presupposed",
+      "claim": "Seeing being in its temporal determinateness is said to be what would let the distinction between being and beings be grasped and the ground of the ontological difference fixed.",
+      "quote": "only when being offers itself to the phenomenological gaze in its temporal determinateness will we be in a position to grasp more clearly the *distinction between being and beings* and to fix the ground of the **ontological difference**"
+    },
+    {
+      "id": "zeitlichkeit/franck-espace/005",
+      "locator": "franck-heidegger-and-the-problem-of-space-commentary#h2-introduction",
+      "term": "Temporalität",
+      "status": "criticized",
+      "claim": "The incompletion of Sein und Zeit is said to bear the imprint of an aporia as originary as the question itself, not of a contingent failure to reach the Temporalität of being.",
+      "quote": "Rather, the incompletion bears the imprint of an *aporia* — an impasse — that is doubtless as originary as the question itself, indeed perhaps originary *of* the question, lying at its very source."
+    },
+    {
+      "id": "zeitlichkeit/franck-espace/006",
+      "locator": "franck-heidegger-and-the-problem-of-space-commentary#h2-introduction",
+      "primary_locator": "Sein und Zeit, closing words",
+      "term": "originary time",
+      "status": "presupposed",
+      "claim": "The closing questions of Sein und Zeit are read as marking in advance the theme of the missing division: whether a path leads from originary time to the meaning of being.",
+      "quote": "Does a path lead from originary time to the *meaning of being*? Does time itself manifest itself as the *horizon of being*?"
+    }
+  ],
+  "absences": []
+}

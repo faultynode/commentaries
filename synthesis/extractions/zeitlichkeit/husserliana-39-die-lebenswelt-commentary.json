@@ -1,0 +1,71 @@
+{
+  "schema_version": 1,
+  "theme": "zeitlichkeit",
+  "commentary": "husserliana-39-die-lebenswelt-commentary",
+  "source_sha256": "d62704cb5caf45b6bdf8945916547e1f1c889ace9b84a84347f16fce9c32a105",
+  "extracted_at": "2026-09-14",
+  "extractor": {
+    "agent": "claude-code",
+    "prompt": "prompts/synthesis-pipeline/extraction-prompt.md",
+    "note": "Texts Nr. 50-52 carry composition dates in the commentary (ca. 1932, ca. 1931, ca. 1934); chronology.json has only the undated stratum hua39-undated, so no unit here claims a stratum. See P5."
+  },
+  "coverage": "partial",
+  "coverage_note": "Section VIII (Texts Nr. 50-52, the general aspects of the temporal constitution of the life-world) and Text Nr. 6. The other 18 sections carrying term hits are not extracted; the section VIII entries are themselves short summaries of the German texts rather than full unit-by-unit commentary.",
+  "units": [
+    {
+      "id": "zeitlichkeit/hua39/001",
+      "locator": "husserliana-39-die-lebenswelt-commentary#h3-text-nr-6-universe-of-pre-givenness-and-world-constitution-of-the-universe-of-pr",
+      "primary_locator": "Text Nr. 6, pp. 50-51",
+      "term": "all-temporal universe",
+      "status": "introduced",
+      "claim": "The world is characterised as an all-temporal universe extending through all its past and its entire open future rather than as an unchangeable present-universe of pre-givennesses.",
+      "quote": "changeable present-universe of pre-givennesses, but an *all-temporal universe* extending through all its past and into its entire open future — passing through all universes of pre-givennesses."
+    },
+    {
+      "id": "zeitlichkeit/hua39/002",
+      "locator": "husserliana-39-die-lebenswelt-commentary#h3-text-nr-6-universe-of-pre-givenness-and-world-constitution-of-the-universe-of-pr",
+      "primary_locator": "Text Nr. 6, pp. 50-51",
+      "term": "temporal form",
+      "status": "introduced",
+      "claim": "Space is subordinated to the temporal form as the temporally omnivalid form of real simultaneity, both being the enduring form of the one universe.",
+      "quote": "The enduring form of this one universe is not only time but also space (where space is actually a form subordinate to the temporal form — the temporally omnivalid form of real simultaneity)"
+    },
+    {
+      "id": "zeitlichkeit/hua39/003",
+      "locator": "husserliana-39-die-lebenswelt-commentary#h3-text-nr-50-the-temporal-form-of-the-world-as-form-of-self-preservation-of-realit",
+      "primary_locator": "Text Nr. 50, pp. 554ff.",
+      "term": "Zeitform der Welt",
+      "status": "introduced",
+      "claim": "The temporal form of the world is the form in which realities preserve themselves, and world-time is not merely experienced in time but constituted through the streaming temporality of consciousness.",
+      "quote": "The time of the world is not merely experienced *in* time but *constituted through* the streaming temporality of consciousness."
+    },
+    {
+      "id": "zeitlichkeit/hua39/004",
+      "locator": "husserliana-39-die-lebenswelt-commentary#h3-text-nr-50-the-temporal-form-of-the-world-as-form-of-self-preservation-of-realit",
+      "primary_locator": "Text Nr. 50, pp. 554ff.",
+      "term": "living present",
+      "status": "presupposed",
+      "claim": "The subjective constitution of the world's temporal form is said to involve retention, primal impression and protention, the living present being the absolute source of all temporal constitution.",
+      "quote": "The subjective constitution of this temporal form involves the interplay of retention, primal impression, and protention — the living present as the absolute source of all temporal constitution."
+    },
+    {
+      "id": "zeitlichkeit/hua39/005",
+      "locator": "husserliana-39-die-lebenswelt-commentary#h3-text-nr-51-universal-temporality-as-self-preservation-and-the-problem-of-absolut",
+      "primary_locator": "Text Nr. 51, pp. 580ff.",
+      "term": "absolute Zeitigung",
+      "status": "introduced",
+      "claim": "Universal temporality as the form of the world's self-preservation is grounded in an absolute streaming that is not in time and temporalizes itself while temporalizing everything else.",
+      "quote": "The absolute flow has a unique self-constitution: it temporalizes itself while temporalizing everything else."
+    },
+    {
+      "id": "zeitlichkeit/hua39/006",
+      "locator": "husserliana-39-die-lebenswelt-commentary#h3-text-nr-52-constitutive-temporal-problems-and-their-significance-for-the-underst",
+      "primary_locator": "Text Nr. 52, pp. 586ff.",
+      "term": "standing-streaming living present",
+      "status": "introduced",
+      "claim": "The life-world's character as life-world is said to be constituted through retention, protention, recollection and expectation, the standing-streaming living present giving it its distinctive mode of being.",
+      "quote": "The standing-streaming character of the living present gives the life-world its distinctive mode of being: always the same and always changing, always familiar and always new."
+    }
+  ],
+  "absences": []
+}

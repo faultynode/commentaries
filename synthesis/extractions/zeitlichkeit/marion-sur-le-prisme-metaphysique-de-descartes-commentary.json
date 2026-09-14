@@ -1,0 +1,127 @@
+{
+  "schema_version": 1,
+  "theme": "zeitlichkeit",
+  "commentary": "marion-sur-le-prisme-metaphysique-de-descartes-commentary",
+  "source_sha256": "434950859b94d97a942dc407b94e638e9bb92376932a6eaaf73f6738a668b71f",
+  "extracted_at": "2026-09-14",
+  "extractor": {
+    "agent": "claude-code",
+    "prompt": "prompts/synthesis-pipeline/extraction-prompt.md",
+    "note": "A wesen record already exists for this commentary; this one covers the temporality sections of III. Ego."
+  },
+  "coverage": "partial",
+  "coverage_note": "§§ 14-15 of III. Ego, which carry 47 of the file's 50 term hits. §§ 12 and 20, with one and two hits, are not extracted.",
+  "units": [
+    {
+      "id": "zeitlichkeit/prisme/001",
+      "locator": "marion-sur-le-prisme-metaphysique-de-descartes-commentary#h3-s-14-the-subsistent-temporality-of-the-ego",
+      "primary_locator": "pp. 188-197",
+      "stratum": "prisme-1986",
+      "term": "temporalization",
+      "status": "introduced",
+      "claim": "Cogitatio is said to temporalize itself in the present from the Regulae onward, because the evidence it wants requires presence - of object, attention, evidence and ideas in a perfect synchrony.",
+      "quote": "from the outset *cogitatio* temporalizes itself in the present, because the evidence it wants requires presence"
+    },
+    {
+      "id": "zeitlichkeit/prisme/002",
+      "locator": "marion-sur-le-prisme-metaphysique-de-descartes-commentary#h3-s-14-the-subsistent-temporality-of-the-ego",
+      "primary_locator": "pp. 188-197",
+      "stratum": "prisme-1986",
+      "term": "motus cogitationis",
+      "status": "introduced",
+      "claim": "The movement of thought is said to fold back onto the present instant wide margins of past discursivity, so that the horizon of presence overflows the present.",
+      "quote": "the *motus cogitationis* folds back onto the present instant, the elective temporality of evidence present to the regard, wide margins of past discursivity, so that the horizon of presence overflows the present"
+    },
+    {
+      "id": "zeitlichkeit/prisme/003",
+      "locator": "marion-sur-le-prisme-metaphysique-de-descartes-commentary#h3-s-14-the-subsistent-temporality-of-the-ego",
+      "primary_locator": "pp. 188-197",
+      "stratum": "prisme-1986",
+      "term": "duration",
+      "status": "introduced",
+      "claim": "Duration is given an egological deduction: it is engendered by the consciousness of the succession of cogitationes, which also yields the origin of number.",
+      "quote": "The genesis of duration from the present being of the ego is accomplished by the consciousness of the succession of *cogitationes*; and that conscious succession also offers the origin of number, which measures and orders them."
+    },
+    {
+      "id": "zeitlichkeit/prisme/004",
+      "locator": "marion-sur-le-prisme-metaphysique-de-descartes-commentary#h3-s-14-the-subsistent-temporality-of-the-ego",
+      "primary_locator": "pp. 188-197",
+      "stratum": "prisme-1986",
+      "term": "retention",
+      "status": "presupposed",
+      "claim": "The ego's consciousness of its cogitationes as already past is read as anticipating Kant's synthesis of reproduction in imagination and Husserl's retention.",
+      "quote": "Descartes thus anticipates Kant, with the synthesis of reproduction in imagination, as much as Husserl, with retention."
+    },
+    {
+      "id": "zeitlichkeit/prisme/005",
+      "locator": "marion-sur-le-prisme-metaphysique-de-descartes-commentary#h3-s-14-the-subsistent-temporality-of-the-ego",
+      "primary_locator": "pp. 188-197",
+      "stratum": "prisme-1986",
+      "term": "arithmos kineseos",
+      "status": "criticized",
+      "claim": "Descartes is said to recover the Aristotelian definition of time as the number of motion without criticizing it, but to number the motus cogitationis rather than a movement in things.",
+      "quote": "The initial movement that time, or the duration producing it, determines and measures does not unroll in the thing passing from one of its states to another by the entelechy of a potency, but in thought, more exactly among the *cogitationes*: the *motus cogitationis*."
+    },
+    {
+      "id": "zeitlichkeit/prisme/006",
+      "locator": "marion-sur-le-prisme-metaphysique-de-descartes-commentary#h3-s-14-the-subsistent-temporality-of-the-ego",
+      "primary_locator": "pp. 188-197",
+      "stratum": "prisme-1986",
+      "term": "vulgar concept of time",
+      "status": "criticized",
+      "claim": "Descartes is inscribed in the vulgar concept of time as a sequence of nows persisting in subsistence, thinking time from presence in the present, which makes being interpretable as insisting persistence.",
+      "quote": "Descartes too thinks time from presence in the present, which dominates every other temporalization because it makes possible the interpretation of the being of beings as insisting persistence."
+    },
+    {
+      "id": "zeitlichkeit/prisme/007",
+      "locator": "marion-sur-le-prisme-metaphysique-de-descartes-commentary#h3-s-14-the-subsistent-temporality-of-the-ego",
+      "primary_locator": "pp. 188-197",
+      "stratum": "prisme-1986",
+      "term": "presence to self",
+      "status": "revised",
+      "claim": "Cartesian time is said to privilege not only presence in the present, as Aristotelian time did, but the presence to self of the present.",
+      "quote": "Cartesian time therefore privileges not only presence in the present, as Aristotelian time already did, but the *presence to self* of the present — time becomes presence to self of the ego."
+    },
+    {
+      "id": "zeitlichkeit/prisme/008",
+      "locator": "marion-sur-le-prisme-metaphysique-de-descartes-commentary#h3-s-14-the-subsistent-temporality-of-the-ego",
+      "primary_locator": "pp. 197-202",
+      "stratum": "prisme-1986",
+      "term": "subsistence",
+      "status": "introduced",
+      "claim": "The temporality of every being is said to be understood from the presence to self of the ego persisting in the present, being and time converging in a single subsistence.",
+      "quote": "For Descartes, being and time converge in a single subsistence."
+    },
+    {
+      "id": "zeitlichkeit/prisme/009",
+      "locator": "marion-sur-le-prisme-metaphysique-de-descartes-commentary#h3-s-15-the-ego-outside-subsistence",
+      "primary_locator": "pp. 203-207",
+      "stratum": "prisme-1986",
+      "term": "the past",
+      "status": "introduced",
+      "claim": "Because time is defined from the motus cogitationis and present evidence necessarily determines it, the difficulty lies not in reaching present evidence but in acceding to the past.",
+      "quote": "if time is defined first according to *cogitatio*, and if present evidence necessarily determines *cogitatio*, then the greatest difficulty consists not in reaching present evidence but in acceding to the *past*"
+    },
+    {
+      "id": "zeitlichkeit/prisme/010",
+      "locator": "marion-sur-le-prisme-metaphysique-de-descartes-commentary#h3-s-15-the-ego-outside-subsistence",
+      "primary_locator": "pp. 203-207",
+      "stratum": "prisme-1986",
+      "term": "memory",
+      "status": "revised",
+      "claim": "It is not the past that makes memory possible but memory that opens the past, by dissolving the present evidence inattention has torn from its effectivity.",
+      "quote": "it is not the past that requires and makes possible memory, but memory that, as the dissolution of the present evidence inattention has just torn from its effectivity, *opens* the past"
+    },
+    {
+      "id": "zeitlichkeit/prisme/011",
+      "locator": "marion-sur-le-prisme-metaphysique-de-descartes-commentary#h3-s-15-the-ego-outside-subsistence",
+      "primary_locator": "pp. 203-207",
+      "stratum": "prisme-1986",
+      "term": "modality",
+      "status": "introduced",
+      "claim": "Temporality is verified as the temporality of the being of beings: the present puts effectivity in play as the central category of modality and the past puts possibility in play.",
+      "quote": "Temporality is thereby verified as the temporality of the being of beings, since just as the present put effectivity in play as the central category of modality, so the past puts possibility in play and reveals that the present, as presence persevering in subsistence, overflowed from effectivity into necessity."
+    }
+  ],
+  "absences": []
+}

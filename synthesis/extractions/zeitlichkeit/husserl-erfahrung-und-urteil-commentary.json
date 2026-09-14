@@ -1,0 +1,106 @@
+{
+  "schema_version": 1,
+  "theme": "zeitlichkeit",
+  "commentary": "husserl-erfahrung-und-urteil-commentary",
+  "source_sha256": "82c4ca54e212939aeb705d8aa3ecf44065fe852bd013910cfcf8326007d09b15",
+  "extracted_at": "2026-09-14",
+  "extractor": {
+    "agent": "claude-code",
+    "prompt": "prompts/synthesis-pipeline/extraction-prompt.md"
+  },
+  "coverage": "partial",
+  "coverage_note": "§ 23 a, § 38 and § 42 a, where time is the form of sensibility and the unity of the stream. The other 27 sections with term hits, among them § 39 and § 42 b, are not extracted; the free-variation chapters named in gap-007 are outside this pass.",
+  "units": [
+    {
+      "id": "zeitlichkeit/eu/001",
+      "locator": "husserl-erfahrung-und-urteil-commentary#h4-a-perception-as-immanent-temporal-unity-the-still-holding-in-grasp-as-passivity",
+      "primary_locator": "§ 23 a",
+      "term": "immanent time",
+      "status": "presupposed",
+      "claim": "Simple apprehension is an egoic activity living within the passive flow of time-consciousness, its object a unity in immanent time enduring through the streaming phases of perception.",
+      "quote": "But it is an activity that lives within the passive flow of time-consciousness. The object, as perceived, is a unity in immanent time: it endures through the streaming phases of perception, continuously identified as the same."
+    },
+    {
+      "id": "zeitlichkeit/eu/002",
+      "locator": "husserl-erfahrung-und-urteil-commentary#h4-a-perception-as-immanent-temporal-unity-the-still-holding-in-grasp-as-passivity",
+      "primary_locator": "§ 23 a",
+      "term": "noch im Griff",
+      "status": "introduced",
+      "claim": "The still-holding-in-grasp of what was just given is called a form of passivity within the activity of apprehending, a retentional consciousness that is not an active achievement.",
+      "quote": "This still-holding-in-grasp is a form of passivity within the activity of apprehending. The object does not simply vanish when a new phase appears; it is retained in a modified manner, still belonging to the ongoing perception as a just-past phase of the same object."
+    },
+    {
+      "id": "zeitlichkeit/eu/003",
+      "locator": "husserl-erfahrung-und-urteil-commentary#h3-s38-the-necessary-connection-of-the-intentional-objects-of-all-perceptions-and-p",
+      "primary_locator": "§ 38",
+      "term": "horizon of the before and after",
+      "status": "presupposed",
+      "claim": "Every perception is said to have its horizon of the before and after, pointing back to what was previously perceived and presentifiable in memories.",
+      "quote": "Every perception, as consciousness meaning actual objectuality, has its horizon of the before and after."
+    },
+    {
+      "id": "zeitlichkeit/eu/004",
+      "locator": "husserl-erfahrung-und-urteil-commentary#h3-s38-the-necessary-connection-of-the-intentional-objects-of-all-perceptions-and-p",
+      "primary_locator": "§ 38",
+      "term": "time-position",
+      "status": "introduced",
+      "claim": "Everything originally appearing, even in conflict, has its determinate time-position - an immanent phenomenal time and a fixed position in the one objective time.",
+      "quote": "Hence everything originally appearing, even if it appears in conflict, has its determinate time-position — not only an immanent phenomenal time in the intentional objectuality as such, but also its fixed position in the one objective time."
+    },
+    {
+      "id": "zeitlichkeit/eu/005",
+      "locator": "husserl-erfahrung-und-urteil-commentary#h3-s38-the-necessary-connection-of-the-intentional-objects-of-all-perceptions-and-p",
+      "primary_locator": "§ 38",
+      "term": "form of sensibility",
+      "status": "revised",
+      "claim": "The Kantian thesis that time is the form of sensibility is endorsed as the inner truth: time is the first and fundamental form, the form of all forms and presupposition of all other unity-founding connections.",
+      "quote": "We now understand the inner truth of the Kantian thesis: time is the form of sensibility, and therefore it is the form of every possible world of objective experience."
+    },
+    {
+      "id": "zeitlichkeit/eu/006",
+      "locator": "husserl-erfahrung-und-urteil-commentary#h3-s38-the-necessary-connection-of-the-intentional-objects-of-all-perceptions-and-p",
+      "primary_locator": "§ 38",
+      "term": "form of intuition",
+      "status": "introduced",
+      "claim": "Temporality as duration, coexistence and succession is the necessary form of all unitarily intuitable objects, and form of intuition carries a second sense of temporal orientation in a presence.",
+      "quote": "Temporality as duration, coexistence, and succession is the necessary form of all unitarily intuitable objects and, insofar, their form of intuition."
+    },
+    {
+      "id": "zeitlichkeit/eu/007",
+      "locator": "husserl-erfahrung-und-urteil-commentary#h3-s38-the-necessary-connection-of-the-intentional-objects-of-all-perceptions-and-p",
+      "primary_locator": "§ 38",
+      "term": "objective time",
+      "status": "introduced",
+      "claim": "In empathy an intersubjectively common objective time is constituted, into which everything individual in experiences and intentional objectualities must be orderable.",
+      "quote": "In it, an intersubjectively common objective time is constituted, into which everything individual — in experiences and in intentional objectualities — must be able to be ordered."
+    },
+    {
+      "id": "zeitlichkeit/eu/008",
+      "locator": "husserl-erfahrung-und-urteil-commentary#h3-s38-the-necessary-connection-of-the-intentional-objects-of-all-perceptions-and-p",
+      "primary_locator": "§ 38",
+      "term": "time-connection",
+      "status": "presupposed",
+      "claim": "The time-connection is named as the connection that makes possible the unity of all perceptions and positional presentifications of an ego, established in the sphere of passivity.",
+      "quote": "the time-connection has been brought out as this connection. It is established in the sphere of passivity — that is, in sensibility."
+    },
+    {
+      "id": "zeitlichkeit/eu/009",
+      "locator": "husserl-erfahrung-und-urteil-commentary#h4-a-the-temporal-unity-of-all-experiences-of-an-ego",
+      "primary_locator": "§ 42 a",
+      "term": "absolute flow of inner time-consciousness",
+      "status": "presupposed",
+      "claim": "All experiences of an ego are constituted in the absolute flow of inner time-consciousness, with their absolute position and unique occurrence in the absolute now, whence they retentionally sink.",
+      "quote": "All experiences of an ego have their temporal unity; they are constituted in the absolute flow of inner time-consciousness and have in it their absolute position and uniqueness, their unique occurrence in the absolute now, whereupon they retentionally fade and sink into the past."
+    },
+    {
+      "id": "zeitlichkeit/eu/010",
+      "locator": "husserl-erfahrung-und-urteil-commentary#h4-a-the-temporal-unity-of-all-experiences-of-an-ego",
+      "primary_locator": "§ 42 a",
+      "term": "time of the experiences",
+      "status": "revised",
+      "claim": "The time of the experiences is distinguished from the time of the intentional objectualities: the remembered is past and far removed while the remembering is simultaneous with the perceiving.",
+      "quote": "But the remembered is past and even \"far removed\" from the perceived (a character that is not an immediately intuitive time-character but points to an unfolding in chains of intuitions), while the memory as experience is simultaneous with the perceptual experience."
+    }
+  ],
+  "absences": []
+}
