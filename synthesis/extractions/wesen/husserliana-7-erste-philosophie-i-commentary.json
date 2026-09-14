@@ -1,0 +1,87 @@
+{
+  "schema_version": 1,
+  "theme": "wesen",
+  "commentary": "husserliana-7-erste-philosophie-i-commentary",
+  "source_sha256": "caeb8c837e2fc6f2afe18b07a39cebcd9f50a3476698bd72417fd9cebd8c9703",
+  "extracted_at": "2026-09-14",
+  "extractor": {
+    "agent": "claude-code",
+    "prompt": "prompts/synthesis-pipeline/extraction-prompt.md",
+    "note": "Whole file grep-scanned for the theme's search terms plus 'Wesensintuition', 'Wesensschau', 'Ideenerkenntnis', 'immutable', 'innate', 'residuum', 'Descartes' and 'free variation'. Closely read the Nineteenth Lecture (lines 679-714), the Fifth Lecture (233-278) and the Twenty-fourth Lecture (827-850)."
+  },
+  "coverage": "partial",
+  "coverage_note": "Covers the Fifth Lecture (the Greek discovery of Ideenerkenntnis), the Nineteenth Lecture (the extension of the idea of intuition and the demand for a method of essence-intuition) and the Twenty-fourth Lecture (the necessary eidetics of the science of consciousness). The remaining lectures, including the Twenty-seventh on Leibniz and Kant, were keyword-scanned only.",
+  "units": [
+    {
+      "id": "wesen/hua7-ersteph/001",
+      "locator": "husserliana-7-erste-philosophie-i-commentary#h3-fifth-lecture-the-discovery-of-the-cognition-of-ideas-and-the-greek-beginnings-o",
+      "primary_locator": "Hua VII, Fifth Lecture",
+      "term": "essence-concepts",
+      "status": "introduced",
+      "claim": "An originally insightful and perfect production of pure essence-concepts is affirmed, in which essence-laws of apodictic universality and necessity are grounded.",
+      "quote": "There is an originally insightful production — and also a perfect one — of pure essence-concepts, and in them are grounded essence-laws, laws of insightful apodictic universality and necessity."
+    },
+    {
+      "id": "wesen/hua7-ersteph/002",
+      "locator": "husserliana-7-erste-philosophie-i-commentary#h3-fifth-lecture-the-discovery-of-the-cognition-of-ideas-and-the-greek-beginnings-o",
+      "primary_locator": "Hua VII, Fifth Lecture",
+      "term": "Ideenerkenntnis",
+      "status": "introduced",
+      "claim": "The discovery made in the Socratic-Platonic reflection is named Ideenerkenntnis, eidetic cognition yielding apodictic essence-laws, whose first effect was the transformation of mathematics into a pure eidetic science.",
+      "quote": "the discovery of *Ideenerkenntnis* — eidetic cognition — yielding apodictic essence-laws."
+    },
+    {
+      "id": "wesen/hua7-ersteph/003",
+      "locator": "husserliana-7-erste-philosophie-i-commentary#h3-nineteenth-lecture-the-necessity-of-the-extension-of-the-idea-of-intuition",
+      "primary_locator": "Hua VII, Nineteenth Lecture",
+      "term": "exact and morphological essences",
+      "status": "introduced",
+      "claim": "Exact, ideal-geometric essences are distinguished from morphological, descriptive type-essences, both intuitable but in different manners.",
+      "quote": "the distinction between the *exact* (ideal-geometric) essences and the *morphological* (descriptive, type-) essences — both intuitable, but in different manners"
+    },
+    {
+      "id": "wesen/hua7-ersteph/004",
+      "locator": "husserliana-7-erste-philosophie-i-commentary#h3-nineteenth-lecture-the-necessity-of-the-extension-of-the-idea-of-intuition",
+      "primary_locator": "Hua VII, Nineteenth Lecture",
+      "term": "general essences",
+      "status": "criticized",
+      "claim": "Empiricism is charged with being the least empirical of doctrines because it refuses to let the general essences and relations given in insight count as what they are.",
+      "quote": "since it refuses to let the most evident self-givennesses — the general essences and relations given in insight — count as what they are."
+    },
+    {
+      "id": "wesen/hua7-ersteph/005",
+      "locator": "husserliana-7-erste-philosophie-i-commentary#h3-nineteenth-lecture-the-necessity-of-the-extension-of-the-idea-of-intuition",
+      "primary_locator": "Hua VII, Nineteenth Lecture",
+      "term": "Wesensintuition",
+      "status": "introduced",
+      "claim": "Consciousness in its basic shapings and transcendental accomplishments is said to be considerable in the method of essence-intuition, called the purely grasped Platonic method.",
+      "quote": "*can and must be considered in the method of essence-intuition* (*Wesensintuition*) — hence, as we can say, in the purely grasped *Platonic method*"
+    },
+    {
+      "id": "wesen/hua7-ersteph/006",
+      "locator": "husserliana-7-erste-philosophie-i-commentary#h3-nineteenth-lecture-the-necessity-of-the-extension-of-the-idea-of-intuition",
+      "primary_locator": "Hua VII, Nineteenth Lecture",
+      "term": "essence-shapes",
+      "status": "introduced",
+      "claim": "The science of consciousness is required to be not merely descriptive of facts but eidetic, an a priori science of the essence-shapes of consciousness.",
+      "quote": "the science of consciousness must be not merely descriptive of facts but *eidetic*, an a priori science of the essence-shapes of consciousness"
+    },
+    {
+      "id": "wesen/hua7-ersteph/007",
+      "locator": "husserliana-7-erste-philosophie-i-commentary#h3-twenty-fourth-lecture-the-necessary-eidetics-of-the-science-of-consciousness-and",
+      "primary_locator": "Hua VII, Twenty-fourth Lecture",
+      "term": "essence-lawfulnesses",
+      "status": "presupposed",
+      "claim": "Grounding would be an empty delusion if there were no possibility of indubitably grounding general essence-peculiarities and essence-lawfulnesses as principles of all further clarifications.",
+      "quote": "if there failed possibilities of grounding, in indubitable manner, *general essence-peculiarities, essence-lawfulnesses* as principles of all further-to-be-accomplished clarifications."
+    }
+  ],
+  "absences": [
+    {
+      "locator": "husserliana-7-erste-philosophie-i-commentary#h3-nineteenth-lecture-the-necessity-of-the-extension-of-the-idea-of-intuition",
+      "expected_because": "The lecture defends exact geometric essences against empiricism and names the method of essence-intuition the Platonic method, so it is the natural place for the rival rationalist account - Descartes' true and immutable natures as innate ideas - to be named and either claimed or refused.",
+      "absent_terms": ["immutable", "true and immutable", "innate", "innate idea", "simple nature", "Descartes", "residuum", "free variation"],
+      "note": "Bears on gap-007. The commentary traces essence-cognition to Plato, not to Descartes; the Cartesian vocabulary is absent from this lecture."
+    }
+  ]
+}
