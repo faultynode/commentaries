@@ -1,0 +1,104 @@
+{
+  "schema_version": 1,
+  "theme": "wesen",
+  "commentary": "husserliana-26-theory-of-meaning-commentary",
+  "source_sha256": "be89af071eb14c6af66b0de498d4736c037acec4ae3afee187caa971ee4cef1a",
+  "extracted_at": "2026-09-14",
+  "extractor": {
+    "agent": "claude-code",
+    "prompt": "prompts/synthesis-pipeline/extraction-prompt.md",
+    "note": "Whole file grep-scanned for the theme's search terms plus 'Wesensschau', 'essentia', 'immutable', 'innate', 'residuum' and 'Descartes'; the last four occur nowhere. Closely read § 31, § 32 and § 36 a-b."
+  },
+  "coverage": "partial",
+  "coverage_note": "Covers § 31 (categorial object and categorial essence), § 32 (meaning as propositional essence or possibility) and § 36 a-b (existential and essential judgments) in full - the four sections where the essence-vocabulary is doing technical work. The rest of the lectures, where 'essence' occurs largely inside 'meaning-essence' and 'intuitive essence' in passing, was keyword-scanned only.",
+  "units": [
+    {
+      "id": "wesen/hua26-bedeutung/001",
+      "locator": "husserliana-26-theory-of-meaning-commentary#h3-s-31-categorial-object-and-categorial-essence",
+      "primary_locator": "Hua XXVI § 31",
+      "stratum": "hua26-1908",
+      "term": "categorial essence",
+      "status": "introduced",
+      "claim": "The essence of the categorial object is distinguished from the categorial object itself, the distinction lapsing only where the object is from the outset an essence.",
+      "quote": "From the categorial object we distinguish the essence of the categorial object — the categorial essence."
+    },
+    {
+      "id": "wesen/hua26-bedeutung/002",
+      "locator": "husserliana-26-theory-of-meaning-commentary#h3-s-31-categorial-object-and-categorial-essence",
+      "primary_locator": "Hua XXVI § 31",
+      "stratum": "hua26-1908",
+      "term": "essence of an essence",
+      "status": "presupposed",
+      "claim": "Where the categorial object is itself an essence, the essence of an essence is said to be identical with the essence.",
+      "quote": "the essence of an essence is itself identical with the essence"
+    },
+    {
+      "id": "wesen/hua26-bedeutung/003",
+      "locator": "husserliana-26-theory-of-meaning-commentary#h3-s-31-categorial-object-and-categorial-essence",
+      "primary_locator": "Hua XXVI § 31",
+      "stratum": "hua26-1908",
+      "term": "ideation / essence-seeing",
+      "status": "introduced",
+      "claim": "A new seeing act founded on either perceiving or phantasizing intuition, in which something identical is grasped as a new objectual something, is named categorial ideation or essence-seeing.",
+      "quote": "we call this act ideation (here categorial ideation) or essence-seeing. In it we grasp something identical as a new objectual something, whether we perceive or phantasize."
+    },
+    {
+      "id": "wesen/hua26-bedeutung/004",
+      "locator": "husserliana-26-theory-of-meaning-commentary#h3-s-31-categorial-object-and-categorial-essence",
+      "primary_locator": "Hua XXVI § 31",
+      "stratum": "hua26-1908",
+      "term": "intuitive essence",
+      "status": "introduced",
+      "claim": "One and the same intuitive essence is said to be extractable from the perceiving and the merely phantasizing intuition alike.",
+      "quote": "from the perceiving and the merely phantasizing intuition one and the same, namely the intuitive essence"
+    },
+    {
+      "id": "wesen/hua26-bedeutung/005",
+      "locator": "husserliana-26-theory-of-meaning-commentary#h3-s-32-meaning-as-propositional-essence-or-possibility",
+      "primary_locator": "Hua XXVI § 32",
+      "stratum": "hua26-1908",
+      "term": "essence",
+      "status": "introduced",
+      "claim": "Every object is said to have its essence while not being the essence, and the propositional essence or possibility yields a further sense of meaning.",
+      "quote": "Every object has its essence. But the object is not the essence. The propositional essence or possibility yields yet another sense of meaning."
+    },
+    {
+      "id": "wesen/hua26-bedeutung/006",
+      "locator": "husserliana-26-theory-of-meaning-commentary#h3-s-32-meaning-as-propositional-essence-or-possibility",
+      "primary_locator": "Hua XXVI § 32",
+      "stratum": "hua26-1908",
+      "term": "essentia / existentia",
+      "status": "introduced",
+      "claim": "The essence is also called the ideal possibility, and it is stated that not every essentia has an existentia while every existentia has an essentia.",
+      "quote": "The essence is also called the ideal possibility. What is ideally possible is not also actual. Not every essentia has an existentia, but conversely every existentia has an essentia."
+    },
+    {
+      "id": "wesen/hua26-bedeutung/007",
+      "locator": "husserliana-26-theory-of-meaning-commentary#h4-a-first-characterization-of-the-distinction-2",
+      "primary_locator": "Hua XXVI § 36",
+      "stratum": "hua26-1908",
+      "term": "Wesensurteile",
+      "status": "introduced",
+      "claim": "Essential judgments are characterized as a priori judgments stating what belongs to something by virtue of its essence regardless of whether anything of the kind exists.",
+      "quote": "They state what belongs to something by virtue of its essence, regardless of whether anything of the relevant kind actually exists."
+    },
+    {
+      "id": "wesen/hua26-bedeutung/008",
+      "locator": "husserliana-26-theory-of-meaning-commentary#h4-b-further-elaboration-the-givenness-of-existential-state-of-affairs-and-essentia",
+      "primary_locator": "Hua XXVI § 36",
+      "stratum": "hua26-1908",
+      "term": "Wesensschau",
+      "status": "introduced",
+      "claim": "Essential states of affairs are said to be given in essential insight, in Wesensschau, from which the necessary relations belonging to the essence are grasped.",
+      "quote": "Essential states of affairs are given in essential insight — in *Wesensschau*, the intuition of essences."
+    }
+  ],
+  "absences": [
+    {
+      "locator": "husserliana-26-theory-of-meaning-commentary#h4-b-further-elaboration-the-givenness-of-existential-state-of-affairs-and-essentia",
+      "expected_because": "The section grounds essential judgments about the triangle in Wesensschau and distinguishes their evidence from that of existence-claims - the same example and the same anti-empiricist point Descartes makes with the true and immutable nature of the triangle in Meditation V.",
+      "absent_terms": ["true and immutable", "immutable", "innate", "simple nature", "Descartes", "residuum"],
+      "note": "Bears on gap-007. The commentary keeps essentia/existentia as a scholastic pair (§ 32) and never connects it to Descartes' doctrine of true and immutable natures; 'Descartes' occurs nowhere in the file."
+    }
+  ]
+}

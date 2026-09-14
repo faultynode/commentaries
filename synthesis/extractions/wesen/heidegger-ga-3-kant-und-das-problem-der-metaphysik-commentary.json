@@ -1,0 +1,96 @@
+{
+  "schema_version": 1,
+  "theme": "wesen",
+  "commentary": "heidegger-ga-3-kant-und-das-problem-der-metaphysik-commentary",
+  "source_sha256": "dad53870fbf591408c5ecd64e89dc4c2080e037044d6ac19d426ddc14bb99f28",
+  "extracted_at": "2026-09-14",
+  "extractor": {
+    "agent": "claude-code",
+    "prompt": "prompts/synthesis-pipeline/extraction-prompt.md",
+    "note": "Whole file grep-counted for the theme's search terms plus 'Wesen', 'quidditas', 'Wesensschau' and 'eidetic'; 'quidditas', 'Wesensschau' and 'eidetic' return nothing. The theme's vocabulary in this commentary is almost entirely 'essence' and 'essential', used ontologically (the essence of finitude, of knowledge, of the human being), never eidetically. Closely read §§ 4, 5, 29, 31 and 34."
+  },
+  "coverage": "partial",
+  "coverage_note": "Covers § 4 (the essence of knowledge in general), § 5 (the essence of the finitude of knowledge), § 29 (transcendental imagination and theoretical reason), § 31 (Kant's shrinking back) and § 34 (time as pure self-affection). The Second and Fourth Sections outside those sections, and §§ 33 and 16, were keyword-scanned only.",
+  "units": [
+    {
+      "id": "wesen/ga3-kant/001",
+      "locator": "heidegger-ga-3-kant-und-das-problem-der-metaphysik-commentary#h5-s-4-the-essence-of-knowledge-in-general",
+      "primary_locator": "GA 3 § 4",
+      "term": "essence",
+      "status": "introduced",
+      "claim": "The finitude of human knowledge is located in the essential structure of knowledge itself rather than in defects of knowing, whose factical limitedness is called a consequence of that essence.",
+      "quote": "it lies in the essential structure of knowledge itself. The factical limitedness of knowing is only a consequence of that essence."
+    },
+    {
+      "id": "wesen/ga3-kant/002",
+      "locator": "heidegger-ga-3-kant-und-das-problem-der-metaphysik-commentary#h5-s-4-the-essence-of-knowledge-in-general",
+      "primary_locator": "GA 3 § 4",
+      "term": "essence of knowing",
+      "status": "presupposed",
+      "claim": "Exhibiting the essence of finitude is said to require a general characterization of the essence of knowing, whose first sentence in the Critique makes intuition primary.",
+      "quote": "Exhibiting the essence of finitude requires a general characterization of the essence of knowing"
+    },
+    {
+      "id": "wesen/ga3-kant/003",
+      "locator": "heidegger-ga-3-kant-und-das-problem-der-metaphysik-commentary#h5-s-5-the-essence-of-the-finitude-of-knowledge",
+      "primary_locator": "GA 3 § 5",
+      "term": "essence of sensibility",
+      "status": "revised",
+      "claim": "The essence of sensibility is made to consist in the finitude of intuition rather than in sense-organs, which yields an ontological, non-sensualist concept of sensibility.",
+      "quote": "The essence of sensibility consists in the finitude of intuition; the organs serving affection are *sense*-organs because they belong to finite intuition."
+    },
+    {
+      "id": "wesen/ga3-kant/004",
+      "locator": "heidegger-ga-3-kant-und-das-problem-der-metaphysik-commentary#h5-s-5-the-essence-of-the-finitude-of-knowledge",
+      "primary_locator": "GA 3 § 5",
+      "term": "essence",
+      "status": "presupposed",
+      "claim": "Finite intuition is said to be approached and affected by the intuitable by its essence, so that affection is deduced from receptivity rather than presupposed as a physical fact.",
+      "quote": "by its essence it must be approached, affected, by what is intuitable in it. Affection is thus deduced from receptivity rather than presupposed as a physical fact"
+    },
+    {
+      "id": "wesen/ga3-kant/005",
+      "locator": "heidegger-ga-3-kant-und-das-problem-der-metaphysik-commentary#h4-s-29-the-transcendental-imagination-and-theoretical-reason",
+      "primary_locator": "GA 3 § 29",
+      "term": "essentially sensible",
+      "status": "criticized",
+      "claim": "The objection that the imagination is essentially sensible and so cannot be the origin of the understanding is stated and then refused as resting on a rank-order of faculties that the grounding-consideration does not use.",
+      "quote": "How is it, as an essentially sensible, that is, lower faculty, to form the origin for the higher and \"upper\" one?"
+    },
+    {
+      "id": "wesen/ga3-kant/006",
+      "locator": "heidegger-ga-3-kant-und-das-problem-der-metaphysik-commentary#h4-s-31-the-originality-of-the-laid-ground-and-kant-s-shrinking-back-before-the-tra",
+      "primary_locator": "GA 3 § 31",
+      "term": "human essence",
+      "status": "introduced",
+      "claim": "The highest principle is said to speak of the essential constitution of the human essence as such, insofar as that essence is determined as finite pure reason.",
+      "quote": "it speaks of the essential constitution of the human essence as such, insofar as that essence is determined as finite pure reason"
+    },
+    {
+      "id": "wesen/ga3-kant/007",
+      "locator": "heidegger-ga-3-kant-und-das-problem-der-metaphysik-commentary#h4-s-31-the-originality-of-the-laid-ground-and-kant-s-shrinking-back-before-the-tra",
+      "primary_locator": "GA 3 § 31",
+      "term": "original essential constitution",
+      "status": "presupposed",
+      "claim": "The original essential constitution of the human being rooted in the transcendental imagination is identified with the root Kant called unknown to us.",
+      "quote": "This original essential constitution of the human being, \"rooted\" in the transcendental imagination, is the \"unknown\" into which Kant must have looked"
+    },
+    {
+      "id": "wesen/ga3-kant/008",
+      "locator": "heidegger-ga-3-kant-und-das-problem-der-metaphysik-commentary#h4-s-34-time-as-pure-self-affection-and-the-time-character-of-the-self",
+      "primary_locator": "GA 3 § 34",
+      "term": "essential unity",
+      "status": "presupposed",
+      "claim": "The thesis that space and time must always affect the concept of the representations of objects is placed where Kant first circumscribes the essential unity of pure knowledge.",
+      "quote": "At the place where he first circumscribes the essential unity of pure knowledge, in the second stage of the laying of the ground, Kant remarks that space and time \"must always affect\" the concept of the representations of objects."
+    }
+  ],
+  "absences": [
+    {
+      "locator": "heidegger-ga-3-kant-und-das-problem-der-metaphysik-commentary#h5-s-5-the-essence-of-the-finitude-of-knowledge",
+      "expected_because": "The section states what the essence of finite knowledge and of sensibility is, and so is where an eidetic sense of essence - an essence seen or intuited as such - would appear if this commentary used one; it uses 'essence' only as the ontological constitution of a structure.",
+      "absent_terms": ["Wesensschau", "eidetic", "eidos", "essence-intuition", "essential intuition", "free variation", "immutable"],
+      "note": "'Wesensschau', 'eidetic', 'free variation' and 'immutable' occur nowhere in the commentary; the theme's hits here are all 'essence'/'essential' in the ontological sense."
+    }
+  ]
+}
