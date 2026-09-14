@@ -1,0 +1,98 @@
+{
+  "schema_version": 1,
+  "theme": "reduktion",
+  "commentary": "husserliana-9-phenomenological-psychology-commentary",
+  "source_sha256": "668c7a551f240c6b325a909d5e9a3a0b2edff78d29009d73c83a9f11bd08b350",
+  "extracted_at": "2026-09-14",
+  "extractor": {
+    "agent": "claude-code",
+    "prompt": "https://github.com/faultynode/prompts/blob/main/synthesis-pipeline/extraction-prompt.md",
+    "note": "Partial pass over § 37, its Beilage XXI, and § 1 of the Amsterdam Lectures, where the psychological and transcendental reductions are distinguished."
+  },
+  "coverage": "partial",
+  "coverage_note": "Covers § 37 of the Systematic Part, Beilage XXI to § 37, and § 1 of 'Transcendental Phenomenology Over Against Psychological Phenomenology'. § 3f, § 4, § 45 and the remaining sections carrying hits are not covered.",
+  "units": [
+    {
+      "id": "reduktion/hua9/001",
+      "locator": "husserliana-9-phenomenological-psychology-commentary#h3-s-37-the-phenomenological-reduction-as-method-of-unveiling-the-immanent",
+      "primary_locator": "Hua IX § 37",
+      "term": "method of phenomenological reduction",
+      "status": "introduced",
+      "claim": "The reduction is formulated as the method by which the immanent, pure subjectivity, is unveiled as a field of scientific investigation.",
+      "quote": "Husserl now formulates the *method of phenomenological reduction* as the method by which the *immanent* — pure subjectivity — is unveiled as a field of scientific investigation."
+    },
+    {
+      "id": "reduktion/hua9/002",
+      "locator": "husserliana-9-phenomenological-psychology-commentary#h3-s-37-the-phenomenological-reduction-as-method-of-unveiling-the-immanent",
+      "primary_locator": "Hua IX § 37",
+      "term": "phenomenological-psychological reduction",
+      "status": "introduced",
+      "claim": "The phenomenological-psychological reduction remains within the natural attitude and brackets world-positing only in order to attend to the intentional structures of psychic life.",
+      "quote": "The phenomenological-psychological reduction, by contrast, *remains within the natural attitude* — it remains a science of *psychic* subjectivity within the world — but *brackets the world-positing* in order to attend purely to the *intentional structures* of psychic life."
+    },
+    {
+      "id": "reduktion/hua9/003",
+      "locator": "husserliana-9-phenomenological-psychology-commentary#h3-s-37-the-phenomenological-reduction-as-method-of-unveiling-the-immanent",
+      "primary_locator": "Hua IX § 37",
+      "term": "bracketing (suspension of world-positing)",
+      "status": "presupposed",
+      "claim": "The bracketing suspends rather than denies or doubts the natural positing, shifting the interest from the being of the perceived to the structure of perceiving and the perceived as meant.",
+      "quote": "This bracketing is methodological — a *change of theoretical interest*, not a metaphysical conversion."
+    },
+    {
+      "id": "reduktion/hua9/004",
+      "locator": "husserliana-9-phenomenological-psychology-commentary#h4-beilage-xxi-to-s37-psychological-and-transcendental-reduction",
+      "primary_locator": "Hua IX, Beilage XXI",
+      "term": "psychological and transcendental reduction",
+      "status": "revised",
+      "claim": "Both reductions are bracketings, but the psychological one brackets world-positing while remaining in the natural attitude and the transcendental one brackets the being of the world altogether.",
+      "quote": "The *transcendental* reduction brackets the *being of the world altogether* and turns to *transcendental subjectivity* as the *absolute ground* of all positing."
+    },
+    {
+      "id": "reduktion/hua9/005",
+      "locator": "husserliana-9-phenomenological-psychology-commentary#h4-beilage-xxi-to-s37-psychological-and-transcendental-reduction",
+      "primary_locator": "Hua IX, Beilage XXI",
+      "term": "psychological reduction (as propaedeutic)",
+      "status": "presupposed",
+      "claim": "The psychological reduction is easier to motivate and opens the field of intentional life, after which the transcendental reduction can be carried out as a further radicalization.",
+      "quote": "Once this field is clear, the *transcendental* reduction can be carried out as a *further radicalization* of the bracketing."
+    },
+    {
+      "id": "reduktion/hua9/006",
+      "locator": "husserliana-9-phenomenological-psychology-commentary#h4-s1-the-historical-origin-of-phenomenology-as-transcendental",
+      "primary_locator": "Amsterdam Lectures § 1",
+      "term": "alteration of attitude",
+      "status": "presupposed",
+      "claim": "Transcendental and psychological phenomenology pass into one another through a mere alteration of attitude, the same phenomena appearing with different signs that fundamentally alter their sense.",
+      "quote": "so that on both sides \"the same\" phenomena and essential insights appear, but, so to speak, with *different signs* that *fundamentally alter their sense*"
+    },
+    {
+      "id": "reduktion/hua9/007",
+      "locator": "husserliana-9-phenomenological-psychology-commentary#h4-s1-the-historical-origin-of-phenomenology-as-transcendental",
+      "primary_locator": "Amsterdam Lectures § 1",
+      "term": "psychological-phenomenological reduction",
+      "status": "criticized",
+      "claim": "Even the pure psychology delimited by the psychological-phenomenological reduction remains positive science with the world as pre-given ground, and is itself transcendentally problematic.",
+      "quote": "Even the phenomenologically pure psychology — thematically delimited by the *psychological-phenomenological reduction* — is still *positive science*; it has the world as *pre-given ground*."
+    },
+    {
+      "id": "reduktion/hua9/008",
+      "locator": "husserliana-9-phenomenological-psychology-commentary#h4-s1-the-historical-origin-of-phenomenology-as-transcendental",
+      "primary_locator": "Amsterdam Lectures § 1",
+      "term": "transcendental phenomenological reduction, epoche",
+      "status": "introduced",
+      "claim": "Transcendental philosophy requires a fully universal phenomenological reduction exercising epoche over the entire experiential world and all positive sciences, transforming them into transcendental phenomena.",
+      "quote": "an *extended and fully universal phenomenological reduction* is required — the *transcendental* one — which does justice to the *universality of the problem* and exercises *epoche* with regard to the *entire experiential world*"
+    },
+    {
+      "id": "reduktion/hua9/009",
+      "locator": "husserliana-9-phenomenological-psychology-commentary#h4-s1-the-historical-origin-of-phenomenology-as-transcendental",
+      "primary_locator": "Amsterdam Lectures § 1; Descartes, Meditations",
+      "term": "epoche (Descartes')",
+      "status": "presupposed",
+      "claim": "Descartes already touched on this reduction by setting the being of the whole experiential world out of play and recognizing that the ego cogito as universum of pure subjectivity remains.",
+      "quote": "Already Descartes had touched on this reduction, insofar as he set out of play (by his methodical principle of *epoche* with regard to all that could possibly be doubted) the *being of the whole experiential world*."
+    }
+  ],
+  "absences": []
+}

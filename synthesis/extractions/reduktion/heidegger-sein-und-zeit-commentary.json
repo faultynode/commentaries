@@ -1,0 +1,89 @@
+{
+  "schema_version": 1,
+  "theme": "reduktion",
+  "commentary": "heidegger-sein-und-zeit-commentary",
+  "source_sha256": "94b7fcaaa8e87cacbb03c01d9c915e9725572cda2849afa28f9a800cc7c63551",
+  "extracted_at": "2026-09-14",
+  "extractor": {
+    "agent": "claude-code",
+    "prompt": "https://github.com/faultynode/prompts/blob/main/synthesis-pipeline/extraction-prompt.md",
+    "note": "Partial pass over §§ 6 and 7, where the theme is present as Destruktion and as the phenomenological maxim rather than as the Husserlian reduction."
+  },
+  "coverage": "partial",
+  "coverage_note": "Covers § 6 (the task of a destruction of the history of ontology) and § 7 (the phenomenological method of the investigation). §§ 21, 40, 69 and 75 and the other sections carrying hits are not covered.",
+  "units": [
+    {
+      "id": "reduktion/sz/001",
+      "locator": "heidegger-sein-und-zeit-commentary#h4-s-6-the-task-of-a-destruction-of-the-history-of-ontology",
+      "primary_locator": "SZ § 6",
+      "term": "Destruktion (destruction)",
+      "status": "introduced",
+      "claim": "The task is named as the destruction of the transmitted stock of ancient ontology, carried out along the guiding thread of the question of being, back to the original experiences in which the determinations of being were won.",
+      "quote": "This task is understood as the destruction (Destruktion), carried out along the guiding thread of the question of being, of the transmitted stock of ancient ontology — down to the original experiences in which the first and thenceforth leading determinations of being were won."
+    },
+    {
+      "id": "reduktion/sz/002",
+      "locator": "heidegger-sein-und-zeit-commentary#h4-s-6-the-task-of-a-destruction-of-the-history-of-ontology",
+      "primary_locator": "SZ § 6",
+      "term": "tradition (as what the destruction loosens)",
+      "status": "presupposed",
+      "claim": "The dominating tradition covers up what it hands down, consigning it to self-evidence and blocking access to the original sources of the traditional categories.",
+      "quote": "The tradition that thereby comes to dominance makes what it \"hands over\" proximally and for the most part so little accessible that it rather covers it up"
+    },
+    {
+      "id": "reduktion/sz/003",
+      "locator": "heidegger-sein-und-zeit-commentary#h4-s-6-the-task-of-a-destruction-of-the-history-of-ontology",
+      "primary_locator": "SZ § 6",
+      "term": "destruction (its positive tendency)",
+      "status": "presupposed",
+      "claim": "The destruction is derived from the historicity of the questioning itself and its point is positive appropriation, not a survey of past opinions.",
+      "quote": "The point of the history is expressly positive — appropriation of possibilities, self-possession of the question — which is why the destruction belongs to the working-out of the question and not to a survey of opinions."
+    },
+    {
+      "id": "reduktion/sz/004",
+      "locator": "heidegger-sein-und-zeit-commentary#h4-s-6-the-task-of-a-destruction-of-the-history-of-ontology",
+      "primary_locator": "SZ § 6",
+      "term": "destruction (its scope)",
+      "status": "presupposed",
+      "claim": "The destruction belongs essentially to the posing of the question of being and is possible only within it, so it can be carried out only at decisive stations of the history.",
+      "quote": "the destruction — which belongs essentially to the posing of the question and is possible only within it — can be carried out only at fundamentally decisive stations of that history"
+    },
+    {
+      "id": "reduktion/sz/005",
+      "locator": "heidegger-sein-und-zeit-commentary#h4-s-6-the-task-of-a-destruction-of-the-history-of-ontology",
+      "primary_locator": "SZ § 6",
+      "term": "destruction (of ancient ontology)",
+      "status": "presupposed",
+      "claim": "The destruction must interpret the soil of ancient ontology in the light of the Temporality-problematic, where being shows itself to have been understood as presence.",
+      "quote": "the destruction faces the task of interpreting the soil of ancient ontology in the light of the Temporality-problematic"
+    },
+    {
+      "id": "reduktion/sz/006",
+      "locator": "heidegger-sein-und-zeit-commentary#h4-s-6-the-task-of-a-destruction-of-the-history-of-ontology",
+      "primary_locator": "SZ § 6",
+      "term": "destruction (what it yields)",
+      "status": "presupposed",
+      "claim": "Only in carrying out the destruction of the ontological tradition does the question of being win its true concretion.",
+      "quote": "only in carrying out the destruction of the ontological tradition does the question of being win its true concretion"
+    },
+    {
+      "id": "reduktion/sz/007",
+      "locator": "heidegger-sein-und-zeit-commentary#h4-s-7-the-phenomenological-method-of-the-investigation",
+      "primary_locator": "SZ § 7",
+      "term": "phenomenology as method, not standpoint",
+      "status": "criticized",
+      "claim": "Phenomenology is taken up as a concept of method and detached from doctrinal content, so that transcendental idealism, the reduction and the primacy of consciousness count as mere standpoint.",
+      "quote": "it adopts the phenomenological banner while detaching it from any doctrinal content — including, tacitly, Husserl's own (transcendental idealism, the reduction, the primacy of consciousness are all \"standpoint\" on this accounting)"
+    },
+    {
+      "id": "reduktion/sz/008",
+      "locator": "heidegger-sein-und-zeit-commentary#h4-s-7-the-phenomenological-method-of-the-investigation",
+      "primary_locator": "SZ § 7",
+      "term": "to the things themselves",
+      "status": "introduced",
+      "claim": "The title phenomenology expresses the maxim 'to the things themselves', directed against free-floating constructions, merely apparent demonstrations and inherited pseudo-questions.",
+      "quote": "The title \"phenomenology\" expresses a maxim that can be formulated: \"to the things themselves!\""
+    }
+  ],
+  "absences": []
+}

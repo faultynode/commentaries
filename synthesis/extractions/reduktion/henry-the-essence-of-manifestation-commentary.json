@@ -1,0 +1,91 @@
+{
+  "schema_version": 1,
+  "theme": "reduktion",
+  "commentary": "henry-the-essence-of-manifestation-commentary",
+  "source_sha256": "81321687b3823d9c3244b29758d979f86bd9d4ac28813fa58686aa2e9446ff68",
+  "extracted_at": "2026-09-14",
+  "extractor": {
+    "agent": "claude-code",
+    "prompt": "https://github.com/faultynode/prompts/blob/main/synthesis-pipeline/extraction-prompt.md",
+    "note": "Partial pass over §§ 5, 8 and 45, the sections in which the reduction and the epochê carry argumentative weight."
+  },
+  "coverage": "partial",
+  "coverage_note": "Covers § 5 (the insertion of the ego cogito in the universal phenomenological horizon), § 8 (the essence of the phenomenon as the task of phenomenology) and § 45 (the dissimulation and forgetting of the originary essence of revelation). §§ 3 and 7 and the remaining sections carrying hits are not covered.",
+  "units": [
+    {
+      "id": "reduktion/henry-essence/001",
+      "locator": "henry-the-essence-of-manifestation-commentary#h2-s-5-the-problem-of-the-insertion-of-the-ego-cogito-inside-the-universal-phenomen",
+      "term": "phenomenological reduction",
+      "status": "introduced",
+      "claim": "The reduction necessarily precedes the systematic exploration of the transcendental field and makes possible the understanding of absolute consciousness in its ontological signification.",
+      "quote": "The phenomenological reduction necessarily precedes the systematic exploration of the transcendental field. It anticipates, by rendering it possible, the understanding of absolute consciousness in its ontological signification."
+    },
+    {
+      "id": "reduktion/henry-essence/002",
+      "locator": "henry-the-essence-of-manifestation-commentary#h2-s-5-the-problem-of-the-insertion-of-the-ego-cogito-inside-the-universal-phenomen",
+      "primary_locator": "Cartesian Meditations § 15; Epilogue to Ideen I",
+      "term": "epochê (ἐποχή)",
+      "status": "criticized",
+      "claim": "The transcendental experience the epochê leads to remains subordinated to the conditions of evidence and intuitive realization, hence to the horizon of being in general.",
+      "quote": "The internal \"transcendental\" and phenomenological experience to which the *epochê* leads thus remains subordinated to the conditions of evidence and of intuitive realization — that is, in fact, to the transcendental horizon of being in general."
+    },
+    {
+      "id": "reduktion/henry-essence/003",
+      "locator": "henry-the-essence-of-manifestation-commentary#h2-s-5-the-problem-of-the-insertion-of-the-ego-cogito-inside-the-universal-phenomen",
+      "term": "transcendentally-reduced pure ego",
+      "status": "criticized",
+      "claim": "The transcendentally-reduced pure ego, like empirical consciousness, requires a horizon of presence as the condition of possibility of its own manifestation.",
+      "quote": "the transcendentally-reduced pure ego implies, as condition of possibility of its manifestation — and consequently of every systematic elucidation of its own life — a horizon of presence"
+    },
+    {
+      "id": "reduktion/henry-essence/004",
+      "locator": "henry-the-essence-of-manifestation-commentary#h2-s-8-the-elucidation-of-the-essence-of-the-phenomenon-central-task-of-phenomenolo",
+      "term": "reduction",
+      "status": "presupposed",
+      "claim": "Appearance is what cannot be refused and what escapes reduction, and a truly positive science is possible only by constant reference to it.",
+      "quote": "What appears is what one cannot refuse, what escapes reduction."
+    },
+    {
+      "id": "reduktion/henry-essence/005",
+      "locator": "henry-the-essence-of-manifestation-commentary#h2-s-8-the-elucidation-of-the-essence-of-the-phenomenon-central-task-of-phenomenolo",
+      "term": "phenomenological reduction",
+      "status": "revised",
+      "claim": "The reduction does not sort contents into the certain and the suspended; what it releases as irreducible foundation is the universal essence of every phenomenon as such.",
+      "quote": "The phenomenological reduction does not seek to save certain contents considered as \"certain\" while others would be struck or suspended."
+    },
+    {
+      "id": "reduktion/henry-essence/006",
+      "locator": "henry-the-essence-of-manifestation-commentary#h2-s-8-the-elucidation-of-the-essence-of-the-phenomenon-central-task-of-phenomenolo",
+      "term": "eidetic reduction",
+      "status": "revised",
+      "claim": "Taken in an ultimate sense the phenomenological reduction and the eidetic reduction are one and the same.",
+      "quote": "For this reason, the phenomenological reduction is one with the eidetic reduction understood in an ultimate sense."
+    },
+    {
+      "id": "reduktion/henry-essence/007",
+      "locator": "henry-the-essence-of-manifestation-commentary#h2-s-8-the-elucidation-of-the-essence-of-the-phenomenon-central-task-of-phenomenolo",
+      "term": "reduction",
+      "status": "revised",
+      "claim": "The reduction liberates the essence that could not be reduced and alone subsists as condition, and thereby introduces into the sphere of the absolute.",
+      "quote": "The reduction is the liberation of the essence which could not be reduced and which alone subsists, as condition. The reduction then introduces us into the sphere of the absolute."
+    },
+    {
+      "id": "reduktion/henry-essence/008",
+      "locator": "henry-the-essence-of-manifestation-commentary#h2-s-45-the-dissimulation-of-the-originary-essence-of-revelation-and-its-forgetting",
+      "term": "ἐποχή (bracketing, mise hors circuit)",
+      "status": "revised",
+      "claim": "The epochê is the epochê of the world as such, bracketing exteriority itself and the movement of intentionality toward it, rather than obeying the teleology of thought.",
+      "quote": "the ἐποχή is the ἐποχή *of the world*, its bracketing (*mise hors circuit*) — and that with the radical signification of concerning *this world as such*, exteriority itself and the movement toward it of intentionality"
+    },
+    {
+      "id": "reduktion/henry-essence/009",
+      "locator": "henry-the-essence-of-manifestation-commentary#h2-s-45-the-dissimulation-of-the-originary-essence-of-revelation-and-its-forgetting",
+      "primary_locator": "Fink",
+      "term": "reduction (its motivation)",
+      "status": "criticized",
+      "claim": "Because the reduction does not let its origin appear in thought as a motive, it appears to the phenomenologist without foundation and is called unmotivated.",
+      "quote": "the reduction — because it does not let appear its origin in thought and as a *\"motive\"* — appears henceforth without foundation; it is, according to the famous word of Fink, *\"unmotivated.\"*"
+    }
+  ],
+  "absences": []
+}
