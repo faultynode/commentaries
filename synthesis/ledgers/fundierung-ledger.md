@@ -4,45 +4,153 @@
 
 *Husserl's account of how complex objectivities (states of affairs, values, meanings) are founded on and constituted through more basic entities—a foundational doctrine running through Logical Investigations (especially the Sixth Investigation), Ideas I Part 3, and Thing and Space. The doctrine holds that some objects depend asymmetrically on others for their existence (dependent parts cannot exist alone; independent parts can), and that higher-order objectivities emerge through founding relations between strata of objects. Henry's phenomenology of manifestation and Marion's donation all work substantially with founding structures, making this theme particularly dense in French phenomenology. Watch for ambiguous 'function' in mathematical contexts or psychological functions; the philosophical sense concerns the structural role of an object in constituting a higher-order whole.*
 
-64 units and 1 recorded absences from 4 commentaries.
+158 units and 3 recorded absences from 13 commentaries.
 
 ## Primary corpus, by composition or delivery date
+
+### 1901 to 1913 - Husserl, Hua 19/1 — Fifth Logical Investigation
+
+`husserliana-19-1-fifth-logical-investigation-commentary`
+
+- **presupposed** · `fundierung/husserliana-19-1/001` · *Judgment as founding act for emotional acts*
+  Joy and other emotional acts are founded on and determined by an underlying judgment-act; the judgment realizes the abstract possibility of the emotion, and without such founding the emotional act cannot exist at all.
+  `husserliana-19-1-fifth-logical-investigation-commentary#h3-s18-simple-and-composite-founding-and-founded-acts` · [§18. Simple and composite, founding and founded acts](https://faultynode.github.io/commentaries/commentaries/husserl/husserliana-19-1-fifth-logical-investigation-commentary.html#simple-and-composite-founding-and-founded-acts)
+  > the judgment is the *founding* act for the joy, it determines its content, *realizes its abstract possibility* — for *without* such founding, joy cannot be at all
+
+- **presupposed** · `fundierung/husserliana-19-1/002` · *Non-objectivating acts founded in presentations*
+  Feeling, desiring, and other non-objectivating act-characters are not full self-sufficient acts but are founded in objectivating presentation-acts; they cannot unfold intentional relation to an objective without intimate interweaving with a presentation.
+  `husserliana-19-1-fifth-logical-investigation-commentary#h3-s23-the-conception-of-matter-as-a-founding-act-of-mere-presenting` · [§23. The conception of matter as a founding act of "mere presenting"](https://faultynode.github.io/commentaries/commentaries/husserl/husserliana-19-1-fifth-logical-investigation-commentary.html#the-conception-of-matter-as-a-founding-act-of-mere-presenting)
+  > These new intentional characters are evidently *not* to be grasped as *full and self-sufficient acts*. They are not thinkable without the objectivating presentation-act, hence *founded* in it.
+
+- **presupposed** · `fundierung/husserliana-19-1/003` · *Desired object unthinkable without underlying presentation*
+  A desired object cannot exist or be thought without being at the same time presented in an act of presenting; this foundational relation is an a priori essential law evident with apodictic evidence.
+  `husserliana-19-1-fifth-logical-investigation-commentary#h3-s23-the-conception-of-matter-as-a-founding-act-of-mere-presenting` · [§23. The conception of matter as a founding act of "mere presenting"](https://faultynode.github.io/commentaries/commentaries/husserl/husserliana-19-1-fifth-logical-investigation-commentary.html#the-conception-of-matter-as-a-founding-act-of-mere-presenting)
+  > A *desired* object (or state of affairs) that were not, in and with the desiring, at the same time *presented*, not only does not actually occur but is *simply unthinkable*.
+
+- **presupposed** · `fundierung/husserliana-19-1/004` · *Presentation in two senses: act and matter*
+  The proposition that every act has a presentation as basis gains clarity through distinguishing two senses of presentation: act-quality (a specific kind of intentional experience) and act-matter (the content-moment that determines objective relation).
+  `husserliana-19-1-fifth-logical-investigation-commentary#h3-s32-a-double-sense-of-the-word-presentation-and-the-supposed-evidence-of-the-pro` · [§32. A double sense of the word presentation and the supposed evidence of the proposition of the foundation of every act by a presentation-act](https://faultynode.github.io/commentaries/commentaries/husserl/husserliana-19-1-fifth-logical-investigation-commentary.html#a-double-sense-of-the-word-presentation-and-the-supposed-evidence-of-the-proposition-of-the-foundation-of-every-act-by-a-presentation-act)
+  > The deception is grounded in the discussed *double sense* of presentation. In its first part the proposition speaks, rightly understood, of presentation in the sense of a certain *act-kind*; in the second, of presentation in the sense of the mere *act-matter*
+
+- **presupposed** · `fundierung/husserliana-19-1/005` · *Nominal acts as modifications of predicative judgments*
+  Nominal acts and complete predicative judgments possess different intentional essences and cannot be identified; the nominal meaning is a phenomenological modification of the judgment, not the judgment itself.
+  `husserliana-19-1-fifth-logical-investigation-commentary#h3-s35-nominal-positing-and-judgment-whether-judgments-can-become-parts-of-nominal` · [§35. Nominal positing and judgment. Whether judgments can become parts of nominal acts at all](https://faultynode.github.io/commentaries/commentaries/husserl/husserliana-19-1-fifth-logical-investigation-commentary.html#nominal-positing-and-judgment-whether-judgments-can-become-parts-of-nominal-acts-at-all)
+  > The difference is so sharply marked that we may not push it aside for theoretical prejudices or for the greater simplicity hoped for in the doctrine of presenting and judging. The *prior judging* is *not yet* the nominal meaning, which only *grows* out of it.
+
+- **presupposed** · `fundierung/husserliana-19-1/006` · *Objectivating acts as genus grounding all acts*
+  All nominally and propositionally functioning acts belong to a comprehensive genus of objectivating acts unified by quality; despite their matter-differences (nominal vs. propositional), they share the same qualitative essence of objectification.
+  `husserliana-19-1-fifth-logical-investigation-commentary#h3-s37-the-aim-of-the-following-investigation-the-concept-of-the-objectivating-act` · [§37. The aim of the following investigation. The concept of the objectivating act](https://faultynode.github.io/commentaries/commentaries/husserl/husserliana-19-1-fifth-logical-investigation-commentary.html#the-aim-of-the-following-investigation-the-concept-of-the-objectivating-act)
+  > the distinction of "basic classes" of acts refers, as is at once clear, *only to the act-qualities*. We must further consider that from our expositions it does *not even* follow that nominal and propositional acts must be *of different quality at all*, let alone of different *quality-genus*.
+
+- **presupposed** · `fundierung/husserliana-19-1/007` · *Qualitative modification: positing into non-positing*
+  Every positing act (perception, memory, assertion) has a qualitative counterpart in a corresponding non-positing act that makes the same objectivity present in identical matter but withholds the being-positing; this modification is non-iterable and creates a unique connection.
+  `husserliana-19-1-fifth-logical-investigation-commentary#h3-s39-presentation-in-the-sense-of-the-objectivating-act-and-its-qualitative-modif` · [§39. Presentation in the sense of the objectivating act and its qualitative modification](https://faultynode.github.io/commentaries/commentaries/husserl/husserliana-19-1-fifth-logical-investigation-commentary.html#presentation-in-the-sense-of-the-objectivating-act-and-its-qualitative-modification)
+  > To every act of *belief* there corresponds, as counterpart, a "mere" presentation, which makes the *same* objectivity present in exactly the same way (on the basis of an *identical matter*) as that act of belief
+
+- **presupposed** · `fundierung/husserliana-19-1/008` · *Objectivating acts as sole bearers of intentional matter*
+  Every intentional experience either is an objectivating act or has one as necessary basis; no act-quality can appropriate its matter except through an objectivating act interwoven into the unified whole, which thereby makes present the objectivity for all other acts.
+  `husserliana-19-1-fifth-logical-investigation-commentary#h3-s41-new-interpretation-of-the-proposition-of-presentation-as-basis-of-all-acts-t` · [§41. New interpretation of the proposition of presentation as basis of all acts. The objectivating act as primary bearer of the matter](https://faultynode.github.io/commentaries/commentaries/husserl/husserliana-19-1-fifth-logical-investigation-commentary.html#new-interpretation-of-the-proposition-of-presentation-as-basis-of-all-acts-the-objectivating-act-as-primary-bearer-of-the-matter)
+  > no *act* — or rather no *act-quality* not itself of the objectivating kind — can *appropriate its matter* except by means of an objectivating act interwoven with it into *one* unified act
+
+*Partial pass: Extracts from central sections on the foundational doctrine of acts (§18 on simple/composite acts, §23 on matter as founding presentation, §32 on double sense of presentation, §35 on nominal-propositional distinction, §37-39 on objectivating acts and modifications, §41-42 on presentation-basis and composite act laws). Focuses on the asymmetric founding relations where higher-order intentional acts (emotions, judgments, nominalizations) depend necessarily on lower acts (perceptions, presentations, objectivations).*
 
 ### 1907 - Husserl's Thing and Space (1907)
 
 `husserl-thing-and-space-commentary`
 
-- **presupposed** · `fundierung/husserl-thing-space/001` · *Foundation of higher constitutive problems*
-  Phenomenology of straightforward perceptual experience provides the necessary foundation for higher constitutive problems of scientific reality, not merely a preliminary exercise.
-  `husserl-thing-and-space-commentary#h3-s1-the-world-of-natural-experience-and-the-world-of-scientific-theory` · [§1. The world of natural experience and the world of scientific theory](https://faultynode.github.io/commentaries/commentaries/husserl/husserl-thing-and-space-commentary.html#the-world-of-natural-experience-and-the-world-of-scientific-theory)
-  > the foundation without which the higher constitutive problems cannot even be posed
+- **introduced** · `fundierung/husserl-thing-space/001` · *lowest stratum of experiential givenness*
+  The lectures restrict themselves to the lowest stratum of experiential givenness because the higher constitutive strata presuppose and build upon it.
+  `husserl-thing-and-space-commentary#h3-s1-the-world-of-natural-experience-and-the-world-of-scientific-theory` · Thing and Space, §1 · [§1. The world of natural experience and the world of scientific theory](https://faultynode.github.io/commentaries/commentaries/husserl/husserl-thing-and-space-commentary.html#the-world-of-natural-experience-and-the-world-of-scientific-theory)
+  > higher constitutive strata presuppose and build upon the lower, so that clarity about perception is a necessary condition for any future phenomenology of scientific cognition.
 
-- **presupposed** · `fundierung/husserl-thing-space/002` · *Layered constitution (higher strata building on lower)*
-  Higher constitutive strata of perceptual and scientific experience asymmetrically presuppose and are built upon lower strata of immediate sensory experience.
-  `husserl-thing-and-space-commentary#h3-s1-the-world-of-natural-experience-and-the-world-of-scientific-theory` · [§1. The world of natural experience and the world of scientific theory](https://faultynode.github.io/commentaries/commentaries/husserl/husserl-thing-and-space-commentary.html#the-world-of-natural-experience-and-the-world-of-scientific-theory)
-  > the higher constitutive strata presuppose and build upon the lower, so that clarity about perception is a necessary condition for any future phenomenology of scientific cognition
+- **introduced** · `fundierung/husserl-thing-space/002` · *foundation of the higher constitutive problems*
+  The phenomenology of straightforward perceptual experience is not preparatory but the foundation without which the higher constitutive problems cannot be posed at all.
+  `husserl-thing-and-space-commentary#h3-s1-the-world-of-natural-experience-and-the-world-of-scientific-theory` · Thing and Space, §1 · [§1. The world of natural experience and the world of scientific theory](https://faultynode.github.io/commentaries/commentaries/husserl/husserl-thing-and-space-commentary.html#the-world-of-natural-experience-and-the-world-of-scientific-theory)
+  > phenomenology of straightforward perceptual experience is not a detour or a preliminary exercise; it is the foundation without which the higher constitutive problems cannot even be posed.
 
-- **presupposed** · `fundierung/husserl-thing-space/003` · *Restricted lowest stratum of experience*
-  Investigation proceeds from the lowest stratum of perceptual constitution, which provides the foundation upon which all higher theoretically mediated cognition must build.
-  `husserl-thing-and-space-commentary#h3-s1-the-world-of-natural-experience-and-the-world-of-scientific-theory` · [§1. The world of natural experience and the world of scientific theory](https://faultynode.github.io/commentaries/commentaries/husserl/husserl-thing-and-space-commentary.html#the-world-of-natural-experience-and-the-world-of-scientific-theory)
-  > The lectures will address only the lowest stratum of experiential givenness — perceptual constitution prior to all deduction, induction, and higher theoretical cognition
+- **introduced** · `fundierung/husserl-thing-space/003` · *reell content (parts, moments, determinations)*
+  The reell content of perception is delimited as the parts, moments and determinations that can be established with evidence as genuinely belonging to the perception as a phenomenon.
+  `husserl-thing-and-space-commentary#h3-s6-assertions-about-perceptions-and-assertions-about-perceived-objects-real-reel` · Thing and Space, §6 · [§6. Assertions about perceptions and assertions about perceived objects. Real \[reell\] and intentional components of perception](https://faultynode.github.io/commentaries/commentaries/husserl/husserl-thing-and-space-commentary.html#assertions-about-perceptions-and-assertions-about-perceived-objects-real-reell-and-intentional-components-of-perception)
+  > The real (*reell*) content of the perception consists of what can be established phenomenologically with evidence as genuinely belonging to the perception as a phenomenon — its parts, moments, and determinations.
 
-- **presupposed** · `fundierung/husserl-thing-space/004` · *Presence in the flesh (foundational concept)*
-  Presence in the flesh is the foundational phenomenological characteristic that distinguishes perception from all other modes of consciousness and grounds all subsequent constitutional analysis.
-  `husserl-thing-and-space-commentary#h3-s4-intentionality-as-the-essential-determination-of-perception` · [§4. Intentionality as the essential determination of perception](https://faultynode.github.io/commentaries/commentaries/husserl/husserl-thing-and-space-commentary.html#intentionality-as-the-essential-determination-of-perception)
-  > §4 provides the foundational concept of the entire lectures: presence in the flesh
+- **introduced** · `fundierung/husserl-thing-space/004` · *Auffassung (apprehension) animating the contents of sensation*
+  Contents of sensation are in themselves dead matter and acquire animating significance only through the apprehension, by which they become able to present an object.
+  `husserl-thing-and-space-commentary#h3-s15-presentational-contents-and-apprehension-perception` · Thing and Space, §15 · [§15. Presentational contents and apprehension (perception)](https://faultynode.github.io/commentaries/commentaries/husserl/husserl-thing-and-space-commentary.html#presentational-contents-and-apprehension-perception)
+  > would in themselves be, as it were, dead matter, but through the apprehension they acquire animating significance in such a way that they are able to present an object.
 
-- **presupposed** · `fundierung/husserl-thing-space/005` · *Appearance-stratum as foundation of doxic stratum*
-  The appearance-stratum (pure presence-in-the-flesh) is the constant, foundational element underlying all doxic variations (belief, doubt, disbelief), which form a higher stratum built upon it.
-  `husserl-thing-and-space-commentary#h3-s5-presence-in-the-flesh-and-belief-perception-perzeption-and-position-taking` · [§5. Presence in the flesh and belief. Perception \[Perzeption\] and position-taking](https://faultynode.github.io/commentaries/commentaries/husserl/husserl-thing-and-space-commentary.html#presence-in-the-flesh-and-belief-perception-perzeption-and-position-taking)
-  > presence in the flesh is the *constant* element across all the doxic variations
+- **criticized** · `fundierung/husserl-thing-space/005` · *apprehension built upon content as a further stratum*
+  Husserl raises but declines to settle whether the apprehension is immediately one with the physical content or is built upon a prior immanent consciousness of it as a further stratum.
+  `husserl-thing-and-space-commentary#h3-s15-presentational-contents-and-apprehension-perception` · Thing and Space, §15 · [§15. Presentational contents and apprehension (perception)](https://faultynode.github.io/commentaries/commentaries/husserl/husserl-thing-and-space-commentary.html#presentational-contents-and-apprehension-perception)
+  > is the interpretive apprehension "immediately one with" the physical content, or does the content first have its own immanent consciousness, upon which the apprehending is then built as a further stratum?
 
-- **presupposed** · `fundierung/husserl-thing-space/006` · *Real vs. intentional content (foundational distinction)*
-  The distinction between real content genuinely belonging to perception and intentional content belonging to the object as presented grounds the entire analysis of thing-constitution.
-  `husserl-thing-and-space-commentary#h3-s6-assertions-about-perceptions-and-assertions-about-perceived-objects-real-reel` · [§6. Assertions about perceptions and assertions about perceived objects. Real \[reell\] and intentional components of perception](https://faultynode.github.io/commentaries/commentaries/husserl/husserl-thing-and-space-commentary.html#assertions-about-perceptions-and-assertions-about-perceived-objects-real-reell-and-intentional-components-of-perception)
-  > the conceptual axis around which the entire subsequent analysis of thing-constitution will turn
+- **criticized** · `fundierung/husserl-thing-space/006` · *Perzeption / Apperzeption layering*
+  Against the traditional layering of apperception upon mere perception, Husserl objects that reflection does not show a self-posing of the physical content inside the normal perception of a thing.
+  `husserl-thing-and-space-commentary#h3-s15-presentational-contents-and-apprehension-perception` · Thing and Space, §15 · [§15. Presentational contents and apprehension (perception)](https://faultynode.github.io/commentaries/commentaries/husserl/husserl-thing-and-space-commentary.html#presentational-contents-and-apprehension-perception)
+  > Husserl objects: reflection does not show that a self-posing of the physical content is contained within the normal perception of a thing.
 
-*Partial pass: Covers Introduction (¶¶1-48) establishing foundational program, and foundational sections (¶¶49-190) on how perception as appearance-stratum grounds doxic position-takings and how perceptual manifolds are constituted through kinaesthetic motivation. Focused on the doctrine of layered constitution where each stratum presupposes and is built upon lower strata.*
+- **introduced** · `fundierung/husserl-thing-space/007` · *physische Data and consciousness as non-interchangeable functions*
+  Physical data and consciousness are two classes of reell ingredient whose functions cannot be exchanged: a datum cannot function as apprehension nor apprehension as content of sensation.
+  `husserl-thing-and-space-commentary#h3-s15-presentational-contents-and-apprehension-perception` · Thing and Space, §15 · [§15. Presentational contents and apprehension (perception)](https://faultynode.github.io/commentaries/commentaries/husserl/husserl-thing-and-space-commentary.html#presentational-contents-and-apprehension-perception)
+  > a physical datum cannot function as apprehension, and apprehension cannot function as content of sensation (at least in outer perception).
+
+- **introduced** · `fundierung/husserl-thing-space/008` · *insufficiency of visual contents*
+  Visual contents are not sufficient by themselves to serve as apprehensional contents for visual spatiality or for a thing in general.
+  `husserl-thing-and-space-commentary#h3-s46-presentational-and-kinaesthetic-sensations` · Thing and Space, §46 · [§46. Presentational and kinaesthetic sensations](https://faultynode.github.io/commentaries/commentaries/husserl/husserl-thing-and-space-commentary.html#presentational-and-kinaesthetic-sensations)
+  > **visual contents are not sufficient by themselves** to serve as apprehensional contents for visual spatiality and for a thing in general.
+
+- **introduced** · `fundierung/husserl-thing-space/009` · *secondary (appended) determinations*
+  Fieldless classes of sensation can supply only secondary appended determinations of a thing already constituted from another quarter, and cannot present projectively.
+  `husserl-thing-and-space-commentary#h3-s46-presentational-and-kinaesthetic-sensations` · Thing and Space, §46 · [§46. Presentational and kinaesthetic sensations](https://faultynode.github.io/commentaries/commentaries/husserl/husserl-thing-and-space-commentary.html#presentational-and-kinaesthetic-sensations)
+  > They can serve only for a secondary filling of space, for secondary (appended) determinations of a thing that is already constituted from another quarter.
+
+- **introduced** · `fundierung/husserl-thing-space/010` · *kinästhetische Empfindung as non-presentational condition*
+  Kinaesthetic sensations make presentation possible without themselves being presentational.
+  `husserl-thing-and-space-commentary#h3-s46-presentational-and-kinaesthetic-sensations` · Thing and Space, §46 · [§46. Presentational and kinaesthetic sensations](https://faultynode.github.io/commentaries/commentaries/husserl/husserl-thing-and-space-commentary.html#presentational-and-kinaesthetic-sensations)
+  > **They make possible a presentation without being presentational themselves.**
+
+- **introduced** · `fundierung/husserl-thing-space/011` · *interweaving without exchange of function*
+  Kinaesthetic and presentational sensations are bound together and interwoven but cannot blend in the sense of exchanging functions.
+  `husserl-thing-and-space-commentary#h3-s46-presentational-and-kinaesthetic-sensations` · Thing and Space, §46 · [§46. Presentational and kinaesthetic sensations](https://faultynode.github.io/commentaries/commentaries/husserl/husserl-thing-and-space-commentary.html#presentational-and-kinaesthetic-sensations)
+  > They are specifically bound together with presentational sensations and interwoven with them, but they **cannot blend with them in the sense of exchanging functions**.
+
+- **presupposed** · `fundierung/husserl-thing-space/012` · *subjectivating apprehension as presupposing a prior constitution*
+  The subjectivating apprehension of kinaesthetic sensations presupposes both the Body as already constituted from another quarter and the prior functioning of those sensations in another manner.
+  `husserl-thing-and-space-commentary#h3-s47-insertion-of-the-kinaesthetic-sensations-into-the-body` · Thing and Space, §47 · [§47. Insertion of the kinaesthetic sensations into the Body](https://faultynode.github.io/commentaries/commentaries/husserl/husserl-thing-and-space-commentary.html#insertion-of-the-kinaesthetic-sensations-into-the-body)
+  > They allow only a subjectivating apprehension — one that transforms them into appended determinations of the Body, presupposing the Body as already constituted from another quarter and presupposing that the kinaesthetic sensations have already functioned in another manner.
+
+- **introduced** · `fundierung/husserl-thing-space/013` · *Doppelauffassung (double apprehension)*
+  In the subjectivating apprehension the same sensations that objectivate are grasped as something the Body has, as subjective occurrences inserted and localized in it.
+  `husserl-thing-and-space-commentary#h3-s47-insertion-of-the-kinaesthetic-sensations-into-the-body` · Thing and Space, §47 · [§47. Insertion of the kinaesthetic sensations into the Body](https://faultynode.github.io/commentaries/commentaries/husserl/husserl-thing-and-space-commentary.html#insertion-of-the-kinaesthetic-sensations-into-the-body)
+  > In the subjectivating apprehension, these same sensations are grasped as something the Body *has* — as subjective occurrences inserted and localized in it.
+
+- **introduced** · `fundierung/husserl-thing-space/014` · *in Wesen fundierte Zugehörigkeiten (appurtenances founded in essence)*
+  Quality and extension, and the moments within each, belong together as appurtenances founded in essence that produce inseparable unities.
+  `husserl-thing-and-space-commentary#h3-s49-functional-connection-between-visual-data-and-kinaesthetic-sequences-monocul` · Thing and Space, §49 · [§49. Functional connection between visual data and kinaesthetic sequences. Monocularity and binocularity](https://faultynode.github.io/commentaries/commentaries/husserl/husserl-thing-and-space-commentary.html#functional-connection-between-visual-data-and-kinaesthetic-sequences-monocularity-and-binocularity)
+  > Everywhere there are appurtenances founded in essence that produce inseparable unities.
+
+- **revised** · `fundierung/husserl-thing-space/015` · *functional unity distinguished from mutual founding*
+  The kinaesthetic-visual bond is a functional unity, a bond of what is separable, and is not the inner unity of what is mutually founded.
+  `husserl-thing-and-space-commentary#h3-s49-functional-connection-between-visual-data-and-kinaesthetic-sequences-monocul` · Thing and Space, §49 · [§49. Functional connection between visual data and kinaesthetic sequences. Monocularity and binocularity](https://faultynode.github.io/commentaries/commentaries/husserl/husserl-thing-and-space-commentary.html#functional-connection-between-visual-data-and-kinaesthetic-sequences-monocularity-and-binocularity)
+  > The bond in the case of functional unity is a bond of what is *separable*; it is not the inner unity of what is mutually founded.
+
+- **revised** · `fundierung/husserl-thing-space/016` · *absence of a founded connection between kinaesthetic and visual contents*
+  Kinaesthetic sensations stand outside the visual field and have no more of an intrinsic founded connection with visual contents than visual contents have with tactile ones.
+  `husserl-thing-and-space-commentary#h3-s49-functional-connection-between-visual-data-and-kinaesthetic-sequences-monocul` · Thing and Space, §49 · [§49. Functional connection between visual data and kinaesthetic sequences. Monocularity and binocularity](https://faultynode.github.io/commentaries/commentaries/husserl/husserl-thing-and-space-commentary.html#functional-connection-between-visual-data-and-kinaesthetic-sequences-monocularity-and-binocularity)
+  > stand *outside* the visual field and have no more of an intrinsic, founded connection with visual contents than visual contents have with tactile contents.
+
+- **introduced** · `fundierung/husserl-thing-space/017` · *depth-moment founded in extension*
+  The binocular depth-moment is founded in the moment of extension, so that the coloration acquires extension with depth rather than extension alone.
+  `husserl-thing-and-space-commentary#h3-s49-functional-connection-between-visual-data-and-kinaesthetic-sequences-monocul` · Thing and Space, §49 · [§49. Functional connection between visual data and kinaesthetic sequences. Monocularity and binocularity](https://faultynode.github.io/commentaries/commentaries/husserl/husserl-thing-and-space-commentary.html#functional-connection-between-visual-data-and-kinaesthetic-sequences-monocularity-and-binocularity)
+  > This depth-moment is founded in the moment of extension, and through it the coloration acquires not merely extension but extension *with depth*, possibly with changing relief.
+
+#### Recorded absences
+
+- **absent** · `husserl-thing-and-space-commentary#h3-s4-intentionality-as-the-essential-determination-of-perception`
+  Expected because: S4 introduces presence in the flesh as the concept on which the lectures turn, and the section is described throughout as foundational, so a founding relation in the technical sense would be expected here.
+  The word 'foundational' here is the ordinary English adjective describing the section's importance to the lectures, not Fundierung. The technical vocabulary of founding enters only at S15 and S46.
+  [§4. Intentionality as the essential determination of perception](https://faultynode.github.io/commentaries/commentaries/husserl/husserl-thing-and-space-commentary.html#intentionality-as-the-essential-determination-of-perception)
+
+*Partial pass: Scanned Chapter 1 (SS1-7, lines 9-222), Chapter 3 (SS14-15, lines 433-506), Chapter 8 (SS45-47, lines 1255-1352) and Chapter 9 S49 (lines 1383-1418). Chapters 2, 4-7 and 10-14 (including the constitution of three-dimensional space, SS58-84) are not covered.*
 
 ### 1908 - Hua 26 - Theory of Meaning
 
@@ -185,6 +293,52 @@
   > it becomes intentional feeling, which is founded in the sensible-theoretical appearance and makes possible a higher-stage appearance
 
 *Partial pass: Part I SS 1, 5, 7 and Appendix I, and Part III SS 1, 3, 4 - the sections where the commentary states a founding relation in so many words. Not covered: Part I SS 2-4 and 6, Appendices II-IV, the whole of Part II (the arousal of feelings, the Gefuehlston, the intensity analyses), and Part III S 2.*
+
+### 1913-1928 - Husserl, Hua 3 — Ideas I, Parts 3–4
+
+`husserliana-3-ideas-i-parts-3-4-commentary`
+
+- **presupposed** · `fundierung/husserliana-3/001` · *Valuing founded on presenting*
+  A valuing act is founded on a presenting act; the valuing-layer is a non-self-sufficient layer that can be added to or removed from the underlying presentation without ceasing to be concretely complete.
+  `husserliana-3-ideas-i-parts-3-4-commentary#h3-s-95-the-analogous-distinctions-in-the-emotional-and-volitional-sphere` · [§ 95\. The Analogous Distinctions in the Emotional and Volitional Sphere](https://faultynode.github.io/commentaries/commentaries/husserl/husserliana-3-ideas-i-parts-3-4-commentary.html#the-analogous-distinctions-in-the-emotional-and-volitional-sphere)
+  > A valuing is founded on a presenting (one values what one presents); the valuing-layer can be added to or removed from the underlying presentation
+
+- **presupposed** · `fundierung/husserliana-3/002` · *Multi-layered intentional structure of feeling*
+  Emotional and volitional acts possess multiple intentional layers: a founding presentation-layer plus a founded valuing- or willing-layer, where the higher layer is non-self-sufficient.
+  `husserliana-3-ideas-i-parts-3-4-commentary#h3-s-95-the-analogous-distinctions-in-the-emotional-and-volitional-sphere` · [§ 95\. The Analogous Distinctions in the Emotional and Volitional Sphere](https://faultynode.github.io/commentaries/commentaries/husserl/husserliana-3-ideas-i-parts-3-4-commentary.html#the-analogous-distinctions-in-the-emotional-and-volitional-sphere)
+  > So these acts are multi-layered: a founding presentation-layer plus a founded valuing- or willing-layer
+
+- **presupposed** · `fundierung/husserliana-3/003` · *Value-objectity implies the mere thing*
+  The value-objectity includes and implies the mere thing as its substrate, constituting a new objective layer by adding value-character to the thing-substrate.
+  `husserliana-3-ideas-i-parts-3-4-commentary#h3-s-95-the-analogous-distinctions-in-the-emotional-and-volitional-sphere` · [§ 95\. The Analogous Distinctions in the Emotional and Volitional Sphere](https://faultynode.github.io/commentaries/commentaries/husserl/husserliana-3-ideas-i-parts-3-4-commentary.html#the-analogous-distinctions-in-the-emotional-and-volitional-sphere)
+  > The value-objectity implies its thing; it brings in, as a new objective layer, the Wertheit
+
+- **presupposed** · `fundierung/husserliana-3/004` · *Analysis restricted to lower stratum of presentations*
+  Initial phenomenological analysis studies only the lower stratum of experience—the simple sensuous presentations—as the necessary foundation before extending to founded (higher) acts of feeling and willing.
+  `husserliana-3-ideas-i-parts-3-4-commentary#h3-s-116-transition-to-new-analyses-the-founded-noeses-and-their-noematic-correlate` · [§ 116\. Transition to New Analyses. The Founded Noeses and their Noematic Correlates](https://faultynode.github.io/commentaries/commentaries/husserl/husserliana-3-ideas-i-parts-3-4-commentary.html#transition-to-new-analyses-the-founded-noeses-and-their-noematic-correlates)
+  > So the analyses so far treated only the lower stratum (the simple sensuous presentations). The task now is to extend to the founded (higher) acts (feeling, willing)
+
+- **presupposed** · `fundierung/husserliana-3/005` · *New sense founded in underlying noesis*
+  Founded acts constitute a new sense-dimension that is founded in and encloses the sense of the underlying noesis, bringing entirely new value-characters and value-objectities to appearance.
+  `husserliana-3-ideas-i-parts-3-4-commentary#h3-s-116-transition-to-new-analyses-the-founded-noeses-and-their-noematic-correlate` · [§ 116\. Transition to New Analyses. The Founded Noeses and their Noematic Correlates](https://faultynode.github.io/commentaries/commentaries/husserl/husserliana-3-ideas-i-parts-3-4-commentary.html#transition-to-new-analyses-the-founded-noeses-and-their-noematic-correlates)
+  > there constitutes itself a new sense, which is founded in that of the underlying noesis, at the same time enclosing it
+
+- **presupposed** · `fundierung/husserliana-3/006` · *Value-objectity as founded on mere thing*
+  The value-object (the artwork, the beautiful thing) is a new founded objectity constituted by founded valuing acts on top of and dependent upon the mere thing.
+  `husserliana-3-ideas-i-parts-3-4-commentary#h3-s-116-transition-to-new-analyses-the-founded-noeses-and-their-noematic-correlate` · [§ 116\. Transition to New Analyses. The Founded Noeses and their Noematic Correlates](https://faultynode.github.io/commentaries/commentaries/husserl/husserliana-3-ideas-i-parts-3-4-commentary.html#transition-to-new-analyses-the-founded-noeses-and-their-noematic-correlates)
+  > with it constitute themselves no new determination-pieces of the mere "things," but values of the things, value-characters (Wertheiten), or concrete value-objectities
+
+- **presupposed** · `fundierung/husserliana-3/007` · *Thing-constitution through strata and stages*
+  The constitution of a transcendental thing is determined by different stages and strata, each constituting its own partial unity that serves as a necessary middle-member for the full constitution of the thing.
+  `husserliana-3-ideas-i-parts-3-4-commentary#h3-s-151-strata-of-the-transcendental-constitution-of-the-thing-supplements` · [§ 151\. Strata of the Transcendental Constitution of the Thing. Supplements](https://faultynode.github.io/commentaries/commentaries/husserl/husserliana-3-ideas-i-parts-3-4-commentary.html#strata-of-the-transcendental-constitution-of-the-thing-supplements)
+  > Every stage and every stratum in the stage is characterized thereby, that it constitutes an own unity, which on its side is necessary middle-member for the full constitution of the thing
+
+- **presupposed** · `fundierung/husserliana-3/008` · *Intersubjective constitution of the objective thing*
+  The intersubjectively-identical thing is a higher-order constitutive unity founded on and constituted through empathy—the experience of other subjects—which unifies the separate perception-manifolds of a plurality of experiencing egos.
+  `husserliana-3-ideas-i-parts-3-4-commentary#h3-s-151-strata-of-the-transcendental-constitution-of-the-thing-supplements` · [§ 151\. Strata of the Transcendental Constitution of the Thing. Supplements](https://faultynode.github.io/commentaries/commentaries/husserl/husserliana-3-ideas-i-parts-3-4-commentary.html#strata-of-the-transcendental-constitution-of-the-thing-supplements)
+  > The intersubjectively-identical thing (the "objective" thing) is a higher-order constitutive unity, constituted through **empathy** (Einfühlung) — the experience of other subjects
+
+*Partial pass: Extracts from sections 95, 96, 116, 117, and 151-152 which contain explicit treatment of founded acts, layered constitution, and the dependence of higher objectivities on lower strata. Focuses on emotional/volitional founding on perception, value-constitution, and transcendental stratification.*
 
 ### 1921 - Husserl, Hua 19/2 — Sixth Logical Investigation
 
@@ -410,12 +564,16 @@
 
 #### Recorded absences
 
-- **absent** · `husserl-thing-and-space-commentary#h3-s4-intentionality-as-the-essential-determination-of-perception`
-  Expected because: S4 introduces presence in the flesh as the concept on which the lectures turn, and the section is described throughout as foundational, so a founding relation in the technical sense would be expected here.
-  The word 'foundational' here is the ordinary English adjective describing the section's importance to the lectures, not Fundierung. The technical vocabulary of founding enters only at S15 and S46.
-  [§4. Intentionality as the essential determination of perception](https://faultynode.github.io/commentaries/commentaries/husserl/husserl-thing-and-space-commentary.html#intentionality-as-the-essential-determination-of-perception)
+- **absent** · `lacan-seminar-11-the-four-fundamental-concepts-of-psychoanalysis-commentary#h3-viii-the-line-and-light`
+  Expected because: Lesson VII had just stated that consciousness finds its foundation in the turned-inside-out structure of the gaze (unit fundierung/lacan-seminar-11/002); Lesson VIII carries that structure through the optics of the two triangles and the screen, which is where the founding relation would have to be worked out.
+  The relation is carried instead by the vocabulary of the cut, the screen and the stain. Ranking this commentary high for fundierung is an artifact of the theme's generic English search terms.
+  [VIII. The Line and Light](https://faultynode.github.io/commentaries/commentaries/lacan/lacan-seminar-11-the-four-fundamental-concepts-of-psychoanalysis-commentary.html#viii-the-line-and-light)
 
-*Partial pass: Scanned Chapter 1 (SS1-7, lines 9-222), Chapter 3 (SS14-15, lines 433-506), Chapter 8 (SS45-47, lines 1255-1352) and Chapter 9 S49 (lines 1383-1418). Chapters 2, 4-7 and 10-14 (including the constitution of three-dimensional space, SS58-84) are not covered.*
+- **absent** · `lacan-seminar-11-the-four-fundamental-concepts-of-psychoanalysis-commentary#h3-ix-what-is-a-picture`
+  Expected because: The lesson asks what a picture is and settles the relation between the gaze as objet a and the seen - an asymmetric dependence of the visible on the gaze, which is the place a founding claim would be made.
+  [IX. What Is a Picture?](https://faultynode.github.io/commentaries/commentaries/lacan/lacan-seminar-11-the-four-fundamental-concepts-of-psychoanalysis-commentary.html#ix-what-is-a-picture)
+
+*Partial pass: Lessons III, IV, VII, X, XIV, XVI, XVIII and XIX - the sections where the commentary states a founding relation in so many words - plus checked absences at VIII and IX. Not covered: Lessons I-II, V-VI, XI-XIII, XV, XVII and XX.*
 
 ## Reception layer
 
@@ -425,53 +583,178 @@
 
 `derrida-introduction-a-lorigine-de-la-geometrie-commentary`
 
-- **presupposed** · `fundierung/derrida/001` · *Proto-idealization (founded on perceptual substrate)*
-  Ideal geometric formations arise constitutively through proto-idealizations founded on the substrate of real, effectively perceived sensory experience.
-  `derrida-introduction-a-lorigine-de-la-geometrie-commentary#h2-ii` · [II](https://faultynode.github.io/commentaries/commentaries/derrida/derrida-introduction-a-lorigine-de-la-geometrie-commentary.html#ii)
-  > proto-idealizations on the substrate of a real, effectively perceived world
+- **criticized** · `fundierung/derrida/001` · *Abbau of the sedimentations of mathematized nature*
+  The radicalist exigency demands that the sedimentations on which the infinite mathematization of nature was founded be themselves undone.
+  `derrida-introduction-a-lorigine-de-la-geometrie-commentary#h2-ii` · Introduction à L'Origine de la géométrie, § II · [II](https://faultynode.github.io/commentaries/commentaries/derrida/derrida-introduction-a-lorigine-de-la-geometrie-commentary.html#ii)
+  > the *sedimentations on which the enterprise of an infinite mathematization of nature was founded* be themselves *undone* (*défaites*)
 
-- **presupposed** · `fundierung/derrida/002` · *Pre-geometrical ground (founding stratum)*
-  The originary constitution of geometry necessarily presupposes and is founded upon a pre-geometrical stratum of sensory experience and practical measurement.
-  `derrida-introduction-a-lorigine-de-la-geometrie-commentary#h2-ii` · [II](https://faultynode.github.io/commentaries/commentaries/derrida/derrida-introduction-a-lorigine-de-la-geometrie-commentary.html#ii)
-  > *ground* (*sol*) of *pre-geometrical experience*
+- **introduced** · `fundierung/derrida/002` · *archi-sol / Urboden*
+  The question in return moves back to the originally sense-bestowing production which operates as idealization on the archi-ground of all theoretical and practical life.
+  `derrida-introduction-a-lorigine-de-la-geometrie-commentary#h2-ii` · Introduction à L'Origine de la géométrie, § II · [II](https://faultynode.github.io/commentaries/commentaries/derrida/derrida-introduction-a-lorigine-de-la-geometrie-commentary.html#ii)
+  > *originally sense-bestowing production* which operates, as *idealization*, on the *archi-ground* (*archi-sol*, *Urboden*) of all theoretical and practical life — the ground of the immediately intuitive world (here, specifically, of the empirically intuitive world of bodies) — and furnishes the ideal formations of geometry.
 
-- **presupposed** · `fundierung/derrida/003` · *Founding acts (instituting ideal signification)*
-  The singular founding acts that institute the sense of ideal objectivities are irreplaceable and foundational to all higher-order ideal signification.
-  `derrida-introduction-a-lorigine-de-la-geometrie-commentary#h2-ii` · [II](https://faultynode.github.io/commentaries/commentaries/derrida/derrida-introduction-a-lorigine-de-la-geometrie-commentary.html#ii)
-  > the singularities of origins are those of the founding acts of all ideal signification
+- **introduced** · `fundierung/derrida/003` · *sedimentation, étages, couches, soubassements*
+  A geological metaphor of sedimentation, deposits, levels, strata and substructures of sense runs through the text.
+  `derrida-introduction-a-lorigine-de-la-geometrie-commentary#h2-ii` · Introduction à L'Origine de la géométrie, § II · [II](https://faultynode.github.io/commentaries/commentaries/derrida/derrida-introduction-a-lorigine-de-la-geometrie-commentary.html#ii)
+  > *geological metaphor* that runs through the text, with its multiplied allusions to *sedimentation*, deposits, levels (*étages*), strata (*couches*), and substructures (*soubassements*) of sense.
 
-- **presupposed** · `fundierung/derrida/004` · *Tradition (founding medium of sense)*
-  Tradition functions as the necessary constitutive medium through which founding acts are reactivated and ideal sense endures and circulates across time.
-  `derrida-introduction-a-lorigine-de-la-geometrie-commentary#h2-ii` · [II](https://faultynode.github.io/commentaries/commentaries/derrida/derrida-introduction-a-lorigine-de-la-geometrie-commentary.html#ii)
-  > tradition, as the ether of historical perception, then becomes necessary
+- **criticized** · `fundierung/derrida/004` · *géométrie en train de se fonder*
+  Kant's account instructs us about the sense of ready-made geometry but not about geometry in the process of founding itself.
+  `derrida-introduction-a-lorigine-de-la-geometrie-commentary#h2-ii` · Introduction à L'Origine de la géométrie, § II · [II](https://faultynode.github.io/commentaries/commentaries/derrida/derrida-introduction-a-lorigine-de-la-geometrie-commentary.html#ii)
+  > it instructs us about the sense of *ready-made geometry as such*, but not about *geometry in the process of founding itself* (*la géométrie en train de se fonder*).
 
-- **presupposed** · `fundierung/derrida/005` · *Ideal validity (founded yet normatively independent)*
-  Higher-order objectivities possess normative validity independent of empirical historical transmission yet depend constitutively on founding intentional-historical acts.
-  `derrida-introduction-a-lorigine-de-la-geometrie-commentary#h2-ii` · [II](https://faultynode.github.io/commentaries/commentaries/derrida/derrida-introduction-a-lorigine-de-la-geometrie-commentary.html#ii)
-  > ideal validity is independent of factual transmission
+- **criticized** · `fundierung/derrida/005` · *opération distinguished from fondation*
+  The Kantian construction yields the history of an operation and not of a founding, deploying explicitation within a space of possibility already opened.
+  `derrida-introduction-a-lorigine-de-la-geometrie-commentary#h2-ii` · Introduction à L'Origine de la géométrie, § II · [II](https://faultynode.github.io/commentaries/commentaries/derrida/derrida-introduction-a-lorigine-de-la-geometrie-commentary.html#ii)
+  > But it is the history of an *operation*, not of a *founding* (*l'histoire d'une opération et non d'une fondation*): it deploys gestures of explicitation within the space of a possibility *already opened* to the geometer.
 
-*Partial pass: Covers section II on methodological precautions and the doctrine of intentional history, particularly ¶¶27-28 (founded sense vs. factual rootedness), ¶¶40-48 (proto-idealizations and founding on perceptual substrate), ¶¶50-56 (founding acts and eidetic singularities), ¶57 (tradition as founding medium), and ¶63 (independence and dependence structure of ideal validity).*
+- **presupposed** · `fundierung/derrida/006` · *founding sense withheld from psychological experience*
+  At the stage of the Logical Investigations no psychological experience and no event-content had, as such, a founding sense.
+  `derrida-introduction-a-lorigine-de-la-geometrie-commentary#h2-ii` · Introduction à L'Origine de la géométrie, § II · [II](https://faultynode.github.io/commentaries/commentaries/derrida/derrida-introduction-a-lorigine-de-la-geometrie-commentary.html#ii)
+  > no psychological experience, no event-content had, *as such*, a founding sense
+
+- **revised** · `fundierung/derrida/007` · *non-dependence without positive foundation*
+  The early relation of ideality to perception is described only negatively, as non-dependence; the positive foundation of truth is not itself sought.
+  `derrida-introduction-a-lorigine-de-la-geometrie-commentary#h2-ii` · Introduction à L'Origine de la géométrie, § II · [II](https://faultynode.github.io/commentaries/commentaries/derrida/derrida-introduction-a-lorigine-de-la-geometrie-commentary.html#ii)
+  > it is the *non-dependence* that is underlined; the *positive foundation* of the truth is not sought for itself — one simply reduces, within the mathematical "phenomenon," what cannot presently be retained as foundation.
+
+- **introduced** · `fundierung/derrida/008` · *Urstiftung as the foundation Descartes delegated to God*
+  Where Descartes delegates the foundation of evidence to a veracious God, Husserl seeks that foundation in historical acts of originary founding.
+  `derrida-introduction-a-lorigine-de-la-geometrie-commentary#h2-ii` · Introduction à L'Origine de la géométrie, § II · [II](https://faultynode.github.io/commentaries/commentaries/derrida/derrida-introduction-a-lorigine-de-la-geometrie-commentary.html#ii)
+  > Husserl, after an analogous descriptive stage, will seek that foundation *in historical acts of originary founding* (*Urstiftung*).
+
+- **introduced** · `fundierung/derrida/009` · *proto-idealizations on the substrate of a perceived world*
+  If idealities neither pre-exist every subjective act nor lack a history, they must relate as to their originary foundation to proto-idealizations on the substrate of a real, effectively perceived world.
+  `derrida-introduction-a-lorigine-de-la-geometrie-commentary#h2-ii` · Introduction à L'Origine de la géométrie, § II · [II](https://faultynode.github.io/commentaries/commentaries/derrida/derrida-introduction-a-lorigine-de-la-geometrie-commentary.html#ii)
+  > they must relate, as to their originary foundation, to *proto-idealizations on the substrate of a real, effectively perceived world* (*sur le substrat d'un monde réal effectivement perçu*).
+
+- **introduced** · `fundierung/derrida/010` · *reference back to a real founding act*
+  What distinguishes a tradition of truth from an arbitrary phantasm is the reference back to a real founding act, not a present percept.
+  `derrida-introduction-a-lorigine-de-la-geometrie-commentary#h2-ii` · Introduction à L'Origine de la géométrie, § II · [II](https://faultynode.github.io/commentaries/commentaries/derrida/derrida-introduction-a-lorigine-de-la-geometrie-commentary.html#ii)
+  > only the reference back to a real founding act distinguishes a tradition of truth from an arbitrary phantasm
+
+- **revised** · `fundierung/derrida/011` · *worldly history presupposes the having-currency it cannot found*
+  As the history of its transmission does not found the value of gold, no worldly history can deliver the sense of ideal having-currency, which that history on the contrary presupposes.
+  `derrida-introduction-a-lorigine-de-la-geometrie-commentary#h2-ii` · Introduction à L'Origine de la géométrie, § II · [II](https://faultynode.github.io/commentaries/commentaries/derrida/derrida-introduction-a-lorigine-de-la-geometrie-commentary.html#ii)
+  > no more than the history of its transmission founds the value of gold" can any *worldly* history deliver the sense of this having-currency, since worldly history on the contrary *presupposes* it.
+
+- **introduced** · `fundierung/derrida/012` · *irreplaceability of the founding fact*
+  Taken as singular historical origin, the founding fact would be irreplaceable and hence invariable.
+  `derrida-introduction-a-lorigine-de-la-geometrie-commentary#h2-ii` · Introduction à L'Origine de la géométrie, § II · [II](https://faultynode.github.io/commentaries/commentaries/derrida/derrida-introduction-a-lorigine-de-la-geometrie-commentary.html#ii)
+  > as singular historical origin, the founding fact would be irreplaceable, hence invariable*
+
+- **introduced** · `fundierung/derrida/013` · *Founding history as indissociability of fact and right*
+  Founding history would be the deep place of the indissociability of sense and being, of fact and right.
+  `derrida-introduction-a-lorigine-de-la-geometrie-commentary#h2-ii` · Introduction à L'Origine de la géométrie, § II · [II](https://faultynode.github.io/commentaries/commentaries/derrida/derrida-introduction-a-lorigine-de-la-geometrie-commentary.html#ii)
+  > Founding history would be the deep place of the *indissociability of sense and being, of fact and right*;
+
+- **introduced** · `fundierung/derrida/014` · *insufficiency of the speaking subject*
+  The speaking subject taken by itself is incapable of absolutely founding the ideal objectivity of sense.
+  `derrida-introduction-a-lorigine-de-la-geometrie-commentary#h2-vii` · Introduction à L'Origine de la géométrie, § VII · [VII](https://faultynode.github.io/commentaries/commentaries/derrida/derrida-introduction-a-lorigine-de-la-geometrie-commentary.html#vii)
+  > the *speaking* subject, in the narrow sense of the term, is *incapable of absolutely founding the ideal objectivity of sense*
+
+- **introduced** · `fundierung/derrida/015` · *irreal as founded in a real yet identical across realities*
+  The irreal is defined as what is founded in a specific real by its spatio-temporal apparition yet can appear in different realities as identical and not merely similar.
+  `derrida-introduction-a-lorigine-de-la-geometrie-commentary#h2-vii` · Introduction à L'Origine de la géométrie, § VII · [VII](https://faultynode.github.io/commentaries/commentaries/derrida/derrida-introduction-a-lorigine-de-la-geometrie-commentary.html#vii)
+  > and *irreal* "every determination that is doubtless *founded* in a specific real by virtue of its spatio-temporal apparition, but can appear in *different* realities *as identical* — and not merely as similar"
+
+- **introduced** · `fundierung/derrida/016` · *ideality of the signifier's form as an unthematized stratum*
+  The note discovers a stratum Husserl never thematized, the ideality of the signifier's form.
+  `derrida-introduction-a-lorigine-de-la-geometrie-commentary#h2-vii` · Introduction à L'Origine de la géométrie, § VII · [VII](https://faultynode.github.io/commentaries/commentaries/derrida/derrida-introduction-a-lorigine-de-la-geometrie-commentary.html#vii)
+  > it discovers a stratum Husserl never thematized (the ideality of the signifier's form — in later terms, the iterability of the mark)
+
+- **revised** · `fundierung/derrida/017` · *writing as condition of tradition and of forgetting*
+  Writing is at once the condition of the infinite tradition of truth and the condition of its forgetting, the remedy and the source of crisis being one possibility.
+  `derrida-introduction-a-lorigine-de-la-geometrie-commentary#h2-vii` · Introduction à L'Origine de la géométrie, § VII · [VII](https://faultynode.github.io/commentaries/commentaries/derrida/derrida-introduction-a-lorigine-de-la-geometrie-commentary.html#vii)
+  > Writing is at once the condition of the infinite tradition of truth *and* the condition of its forgetting; the pharmakon-structure that Derrida will analyze a decade later in Plato is here read off from Husserl's own text, where the remedy for finitude and the source of crisis are demonstrably one and the same possibility.
+
+*Partial pass: Scanned § II (lines 57-140) and § VII (lines 289-368), the two densest sections for this theme. §§ I, III-VI and VIII-XI are not covered.*
 
 ### 1963 - Michel Henry, L'essence de la manifestation
 
 `henry-the-essence-of-manifestation-commentary`
 
-- **presupposed** · `fundierung/henry/001` · *Fundierung (dédoublement of situation)*
-  Situation bifurcates: transcendence founds particular pragmatic situations but not the structural fact of being-situated, which is imposed on transcendence from a non-transcendent ground.
-  `henry-the-essence-of-manifestation-commentary#h2-s-42-the-ontological-determination-of-the-essence-of-situation-as-immanence-and` · [§ 42\. The ontological determination of the essence of situation as immanence and the fundamental ambiguity of "Nichtigkeit"](https://faultynode.github.io/commentaries/commentaries/henry/henry-the-essence-of-manifestation-commentary.html#the-ontological-determination-of-the-essence-of-situation-as-immanence-and-the-fundamental-ambiguity-of-nichtigkeit)
-  > *to be situated means, for transcendence, not to be the foundation of its situation*
+- **introduced** · `fundierung/henry/001` · *immanent content as constitutive element of the essence*
+  To belong to the essence is to enter as a constitutive element into its internal structure, and how a pure ontological content does so depends on the nature of that structure.
+  `henry-the-essence-of-manifestation-commentary#h2-s-30-the-ontological-determination-of-the-original-essence-of-revelation-as-imma` · The Essence of Manifestation, § 30 · [§ 30\. The ontological determination of the original essence of revelation as immanence. Immanent content and transcendent content](https://faultynode.github.io/commentaries/commentaries/henry/henry-the-essence-of-manifestation-commentary.html#the-ontological-determination-of-the-original-essence-of-revelation-as-immanence-immanent-content-and-transcendent-content)
+  > To belong to the essence means to enter as a constitutive element into its internal structure — and how a pure ontological content does so depends on the nature of that structure.
 
-- **presupposed** · `fundierung/henry/002` · *Immanence (structural exclusion founding)*
-  The internal structure of immanence excludes transcendence ontologically: no opposition, representation, distance, or division exists in the essence itself.
-  `henry-the-essence-of-manifestation-commentary#h2-s-37-the-internal-structure-of-immanence` · [§ 37\. The internal structure of immanence](https://faultynode.github.io/commentaries/commentaries/henry/henry-the-essence-of-manifestation-commentary.html#the-internal-structure-of-immanence)
-  > *It is in the essence itself that there is nothing transcendent*
+- **introduced** · `fundierung/henry/002` · *content constituted by the essence that receives it*
+  Henry concludes that the pure ontological content of the essence of immanence is constituted by that essence.
+  `henry-the-essence-of-manifestation-commentary#h2-s-30-the-ontological-determination-of-the-original-essence-of-revelation-as-imma` · The Essence of Manifestation, § 30 · [§ 30\. The ontological determination of the original essence of revelation as immanence. Immanent content and transcendent content](https://faultynode.github.io/commentaries/commentaries/henry/henry-the-essence-of-manifestation-commentary.html#the-ontological-determination-of-the-original-essence-of-revelation-as-immanence-immanent-content-and-transcendent-content)
+  > Henry's conclusion is that the pure ontological content of the essence of immanence is constituted by that essence.
 
-- **presupposed** · `fundierung/henry/003` · *Life (founded self-constitution)*
-  Life constitutes itself through a founding structure of self-reception where the receiver and received are identical: to be oneself what one receives.
-  `henry-the-essence-of-manifestation-commentary#h2-s-37-the-internal-structure-of-immanence` · [§ 37\. The internal structure of immanence](https://faultynode.github.io/commentaries/commentaries/henry/henry-the-essence-of-manifestation-commentary.html#the-internal-structure-of-immanence)
-  > *To be oneself what one receives*
+- **criticized** · `fundierung/henry/003` · *presuppositions blocking a rigorous grasp of immanent content*
+  Where the indeterminacy is lifted, the determination proceeds under presuppositions that forbid any rigorous ontological grasp of a content's immanence.
+  `henry-the-essence-of-manifestation-commentary#h2-s-30-the-ontological-determination-of-the-original-essence-of-revelation-as-imma` · The Essence of Manifestation, § 30 · [§ 30\. The ontological determination of the original essence of revelation as immanence. Immanent content and transcendent content](https://faultynode.github.io/commentaries/commentaries/henry/henry-the-essence-of-manifestation-commentary.html#the-ontological-determination-of-the-original-essence-of-revelation-as-immanence-immanent-content-and-transcendent-content)
+  > the determination is not free: it proceeds under presuppositions that forbid any rigorous ontological grasp of a content's immanence.
 
-*Partial pass: Covers §37 on the internal structure of immanence (what excludes transcendence from the essence) and §42 on the ontological determination of situation (the structural dédoublement). Focused on founding relations between transcendence and immanence, freedom and thrownness.*
+- **introduced** · `fundierung/henry/004` · *link between essence and the content it constitutes*
+  Understanding the internal structure of auto-affection depends on the link between the essence and a content that the essence itself constitutes.
+  `henry-the-essence-of-manifestation-commentary#h2-s-31-the-fundamental-ambiguity-in-the-concept-of-auto-affection-auto-affection-a` · The Essence of Manifestation, § 31 · [§ 31\. The fundamental ambiguity in the concept of auto-affection. Auto-affection and affection by itself](https://faultynode.github.io/commentaries/commentaries/henry/henry-the-essence-of-manifestation-commentary.html#the-fundamental-ambiguity-in-the-concept-of-auto-affection-auto-affection-and-affection-by-itself)
+  > Understanding that structure therefore depends on the link between the essence and its content when the content is constituted by the essence — and the nature of that link, the manner in which the essence receives a content constituted by it, is precisely what the problematic of receptivity has clarified.
+
+- **criticized** · `fundierung/henry/005` · *horizon as content the essence constitutes and receives*
+  Where the ontological content is the pure element letting beings appear, it is the essence that constitutes the content it receives, so the content cannot rightly be called exterior to it.
+  `henry-the-essence-of-manifestation-commentary#h2-s-31-the-fundamental-ambiguity-in-the-concept-of-auto-affection-auto-affection-a` · The Essence of Manifestation, § 31 · [§ 31\. The fundamental ambiguity in the concept of auto-affection. Auto-affection and affection by itself](https://faultynode.github.io/commentaries/commentaries/henry/henry-the-essence-of-manifestation-commentary.html#the-fundamental-ambiguity-in-the-concept-of-auto-affection-auto-affection-and-affection-by-itself)
+  > it is manifestly the essence that constitutes the content it receives.
+
+- **introduced** · `fundierung/henry/006` · *exclusion of transcendence from the internal nature of the essence*
+  The thought of exclusion penetrates into the essence itself, in its internal nature: it is in the essence that there is nothing transcendent.
+  `henry-the-essence-of-manifestation-commentary#h2-s-37-the-internal-structure-of-immanence` · The Essence of Manifestation, § 37 · [§ 37\. The internal structure of immanence](https://faultynode.github.io/commentaries/commentaries/henry/henry-the-essence-of-manifestation-commentary.html#the-internal-structure-of-immanence)
+  > It is in the essence itself that there is nothing transcendent; it is in the essence — in its internal nature — that the thought of exclusion penetrates.
+
+- **revised** · `fundierung/henry/007` · *passivity with regard to self, not to alterity*
+  The passivity that fundamentally determines the ontological power is a passivity of being with regard to itself rather than to something other, and so a passivity in unity.
+  `henry-the-essence-of-manifestation-commentary#h2-s-37-the-internal-structure-of-immanence` · The Essence of Manifestation, § 37 · [§ 37\. The internal structure of immanence](https://faultynode.github.io/commentaries/commentaries/henry/henry-the-essence-of-manifestation-commentary.html#the-internal-structure-of-immanence)
+  > *The passivity that fundamentally determines the ontological power is, as passivity of being with regard to itself (not of something other), a passivity in unity.*
+
+- **introduced** · `fundierung/henry/008` · *to be oneself what one receives*
+  To be oneself what one receives, and as such to be essentially passive with regard to oneself, is the essence of life.
+  `henry-the-essence-of-manifestation-commentary#h2-s-37-the-internal-structure-of-immanence` · The Essence of Manifestation, § 37 · [§ 37\. The internal structure of immanence](https://faultynode.github.io/commentaries/commentaries/henry/henry-the-essence-of-manifestation-commentary.html#the-internal-structure-of-immanence)
+  > To be oneself what one receives — and as such essentially *passive with regard to oneself* — such is however the essence of *life*
+
+- **criticized** · `fundierung/henry/009` · *life not becoming but being what it receives*
+  Against Hegel's formula, life and spirit do not become what they receive; they are it, and since always, insofar as they are themselves what they receive.
+  `henry-the-essence-of-manifestation-commentary#h2-s-37-the-internal-structure-of-immanence` · The Essence of Manifestation, § 37 · [§ 37\. The internal structure of immanence](https://faultynode.github.io/commentaries/commentaries/henry/henry-the-essence-of-manifestation-commentary.html#the-internal-structure-of-immanence)
+  > This is why, in truth, they do not *become* it; *they are it* — and that since always, because, since always, this is what they are — what they receive insofar precisely as *they are themselves what they receive*.
+
+- **presupposed** · `fundierung/henry/010` · *the experience of acquiescence as presupposing the structure*
+  Far from revealing the internal structure of revelation, the experience of acquiescence presupposes that structure as what reveals the experience originarily to itself.
+  `henry-the-essence-of-manifestation-commentary#h2-s-37-the-internal-structure-of-immanence` · The Essence of Manifestation, § 37 · [§ 37\. The internal structure of immanence](https://faultynode.github.io/commentaries/commentaries/henry/henry-the-essence-of-manifestation-commentary.html#the-internal-structure-of-immanence)
+  > far from revealing this structure, the experience of acquiescence *presupposes* this structure on the contrary — as *what reveals it (the experience of acquiescence) originarily to itself*, insofar as this structure (the internal structure of revelation) reveals itself originarily to itself.
+
+- **introduced** · `fundierung/henry/011` · *founding its own situation as the hidden aim of the philosophy of transcendence*
+  The task of founding its proper situation from transcendence itself is one of the ultimate, most often hidden, aims of the philosophy of transcendence.
+  `henry-the-essence-of-manifestation-commentary#h2-s-42-the-ontological-determination-of-the-essence-of-situation-as-immanence-and` · The Essence of Manifestation, § 42 · [§ 42\. The ontological determination of the essence of situation as immanence and the fundamental ambiguity of "Nichtigkeit"](https://faultynode.github.io/commentaries/commentaries/henry/henry-the-essence-of-manifestation-commentary.html#the-ontological-determination-of-the-essence-of-situation-as-immanence-and-the-fundamental-ambiguity-of-nichtigkeit)
+  > *The task of founding, from transcendence itself, its proper situation* constitutes in fact one of its ultimate aims, even if most often hidden.
+
+- **introduced** · `fundierung/henry/012` · *to found is for transcendence to found itself*
+  For transcendence, to found and to be a foundation is to found itself.
+  `henry-the-essence-of-manifestation-commentary#h2-s-42-the-ontological-determination-of-the-essence-of-situation-as-immanence-and` · The Essence of Manifestation, § 42 · [§ 42\. The ontological determination of the essence of situation as immanence and the fundamental ambiguity of "Nichtigkeit"](https://faultynode.github.io/commentaries/commentaries/henry/henry-the-essence-of-manifestation-commentary.html#the-ontological-determination-of-the-essence-of-situation-as-immanence-and-the-fundamental-ambiguity-of-nichtigkeit)
+  > To found, to be a foundation, is therefore for transcendence *to found itself*.
+
+- **introduced** · `fundierung/henry/013` · *reciprocity of founding and being founded*
+  Project and investment together constitute transcendence as foundation: it founds by projecting and is itself founded, in another sense, by being invested in the world it projects.
+  `henry-the-essence-of-manifestation-commentary#h2-s-42-the-ontological-determination-of-the-essence-of-situation-as-immanence-and` · The Essence of Manifestation, § 42 · [§ 42\. The ontological determination of the essence of situation as immanence and the fundamental ambiguity of "Nichtigkeit"](https://faultynode.github.io/commentaries/commentaries/henry/henry-the-essence-of-manifestation-commentary.html#the-ontological-determination-of-the-essence-of-situation-as-immanence-and-the-fundamental-ambiguity-of-nichtigkeit)
+  > These two moments together constitute transcendence as *foundation*: it founds by projecting, but it itself is also founded (in another sense) by being invested in the world it projects.
+
+- **presupposed** · `fundierung/henry/014` · *Dasein as foundation of its power-to-be*
+  Deciding each time itself what it is and can be, Dasein is in its existence the foundation of its power-to-be.
+  `henry-the-essence-of-manifestation-commentary#h2-s-42-the-ontological-determination-of-the-essence-of-situation-as-immanence-and` · The Essence of Manifestation, § 42 · [§ 42\. The ontological determination of the essence of situation as immanence and the fundamental ambiguity of "Nichtigkeit"](https://faultynode.github.io/commentaries/commentaries/henry/henry-the-essence-of-manifestation-commentary.html#the-ontological-determination-of-the-essence-of-situation-as-immanence-and-the-fundamental-ambiguity-of-nichtigkeit)
+  > *Dasein is, in its existence, the foundation of its power-to-be*
+
+- **criticized** · `fundierung/henry/015` · *Geworfenheit as a coming not founded in transcendence*
+  The coming of transcendence into the Dasein does not depend on transcendence but is imposed on it as what does not find its foundation in it.
+  `henry-the-essence-of-manifestation-commentary#h2-s-42-the-ontological-determination-of-the-essence-of-situation-as-immanence-and` · The Essence of Manifestation, § 42 · [§ 42\. The ontological determination of the essence of situation as immanence and the fundamental ambiguity of "Nichtigkeit"](https://faultynode.github.io/commentaries/commentaries/henry/henry-the-essence-of-manifestation-commentary.html#the-ontological-determination-of-the-essence-of-situation-as-immanence-and-the-fundamental-ambiguity-of-nichtigkeit)
+  > this coming does not depend on transcendence but is on the contrary imposed on it as what finds not in it its foundation
+
+- **criticized** · `fundierung/henry/016` · *dédoublement of situation*
+  The evidence that condemns the problematic of transcendence is that to be situated means, for transcendence, not to be the foundation of its situation.
+  `henry-the-essence-of-manifestation-commentary#h2-s-42-the-ontological-determination-of-the-essence-of-situation-as-immanence-and` · The Essence of Manifestation, § 42 · [§ 42\. The ontological determination of the essence of situation as immanence and the fundamental ambiguity of "Nichtigkeit"](https://faultynode.github.io/commentaries/commentaries/henry/henry-the-essence-of-manifestation-commentary.html#the-ontological-determination-of-the-essence-of-situation-as-immanence-and-the-fundamental-ambiguity-of-nichtigkeit)
+  > to be situated means, for transcendence, not to be the foundation of its situation*
+
+*Partial pass: Scanned § 30 (lines 1573-1600), § 31 (lines 1601-1636), § 37 (lines 1727-1895) and § 42 (lines 2285-2389). The Introduction, §§ 1-29, 32-36, 38-41 and 43-70 — including the Eckhart sections and Section IV on affectivity — are not covered.*
 
 ### 1965 - Philosophie et phénoménologie du corps — Commentary
 
@@ -615,69 +898,10 @@
 
 *Partial pass: Scanned 'The Intentionality of Sensible and Categorial Acts' (lines 143-168) and 'The Noema as Ideal Signification of a Judgment' (lines 261-294). The remaining 58 sections, including the chapters on time, hermeneutics and Derrida, are not covered.*
 
-## Undated - chronology unresolved
-
-*These commentaries do not state a date for their text. They are held out of the sequence rather than placed on a guess; see `synthesis/chronology.json`.*
-
-### undated - Husserl, Hua 3 — Ideas I, Parts 3–4
-
-`husserliana-3-ideas-i-parts-3-4-commentary`
-
-- **presupposed** · `fundierung/husserliana-3/001` · *Valuing founded on presenting*
-  A valuing act is founded on a presenting act; the valuing-layer is a non-self-sufficient layer that can be added to or removed from the underlying presentation without ceasing to be concretely complete.
-  `husserliana-3-ideas-i-parts-3-4-commentary#h3-s-95-the-analogous-distinctions-in-the-emotional-and-volitional-sphere` · [§ 95\. The Analogous Distinctions in the Emotional and Volitional Sphere](https://faultynode.github.io/commentaries/commentaries/husserl/husserliana-3-ideas-i-parts-3-4-commentary.html#the-analogous-distinctions-in-the-emotional-and-volitional-sphere)
-  > A valuing is founded on a presenting (one values what one presents); the valuing-layer can be added to or removed from the underlying presentation
-
-- **presupposed** · `fundierung/husserliana-3/002` · *Multi-layered intentional structure of feeling*
-  Emotional and volitional acts possess multiple intentional layers: a founding presentation-layer plus a founded valuing- or willing-layer, where the higher layer is non-self-sufficient.
-  `husserliana-3-ideas-i-parts-3-4-commentary#h3-s-95-the-analogous-distinctions-in-the-emotional-and-volitional-sphere` · [§ 95\. The Analogous Distinctions in the Emotional and Volitional Sphere](https://faultynode.github.io/commentaries/commentaries/husserl/husserliana-3-ideas-i-parts-3-4-commentary.html#the-analogous-distinctions-in-the-emotional-and-volitional-sphere)
-  > So these acts are multi-layered: a founding presentation-layer plus a founded valuing- or willing-layer
-
-- **presupposed** · `fundierung/husserliana-3/003` · *Value-objectity implies the mere thing*
-  The value-objectity includes and implies the mere thing as its substrate, constituting a new objective layer by adding value-character to the thing-substrate.
-  `husserliana-3-ideas-i-parts-3-4-commentary#h3-s-95-the-analogous-distinctions-in-the-emotional-and-volitional-sphere` · [§ 95\. The Analogous Distinctions in the Emotional and Volitional Sphere](https://faultynode.github.io/commentaries/commentaries/husserl/husserliana-3-ideas-i-parts-3-4-commentary.html#the-analogous-distinctions-in-the-emotional-and-volitional-sphere)
-  > The value-objectity implies its thing; it brings in, as a new objective layer, the Wertheit
-
-- **presupposed** · `fundierung/husserliana-3/004` · *Analysis restricted to lower stratum of presentations*
-  Initial phenomenological analysis studies only the lower stratum of experience—the simple sensuous presentations—as the necessary foundation before extending to founded (higher) acts of feeling and willing.
-  `husserliana-3-ideas-i-parts-3-4-commentary#h3-s-116-transition-to-new-analyses-the-founded-noeses-and-their-noematic-correlate` · [§ 116\. Transition to New Analyses. The Founded Noeses and their Noematic Correlates](https://faultynode.github.io/commentaries/commentaries/husserl/husserliana-3-ideas-i-parts-3-4-commentary.html#transition-to-new-analyses-the-founded-noeses-and-their-noematic-correlates)
-  > So the analyses so far treated only the lower stratum (the simple sensuous presentations). The task now is to extend to the founded (higher) acts (feeling, willing)
-
-- **presupposed** · `fundierung/husserliana-3/005` · *New sense founded in underlying noesis*
-  Founded acts constitute a new sense-dimension that is founded in and encloses the sense of the underlying noesis, bringing entirely new value-characters and value-objectities to appearance.
-  `husserliana-3-ideas-i-parts-3-4-commentary#h3-s-116-transition-to-new-analyses-the-founded-noeses-and-their-noematic-correlate` · [§ 116\. Transition to New Analyses. The Founded Noeses and their Noematic Correlates](https://faultynode.github.io/commentaries/commentaries/husserl/husserliana-3-ideas-i-parts-3-4-commentary.html#transition-to-new-analyses-the-founded-noeses-and-their-noematic-correlates)
-  > there constitutes itself a new sense, which is founded in that of the underlying noesis, at the same time enclosing it
-
-- **presupposed** · `fundierung/husserliana-3/006` · *Value-objectity as founded on mere thing*
-  The value-object (the artwork, the beautiful thing) is a new founded objectity constituted by founded valuing acts on top of and dependent upon the mere thing.
-  `husserliana-3-ideas-i-parts-3-4-commentary#h3-s-116-transition-to-new-analyses-the-founded-noeses-and-their-noematic-correlate` · [§ 116\. Transition to New Analyses. The Founded Noeses and their Noematic Correlates](https://faultynode.github.io/commentaries/commentaries/husserl/husserliana-3-ideas-i-parts-3-4-commentary.html#transition-to-new-analyses-the-founded-noeses-and-their-noematic-correlates)
-  > with it constitute themselves no new determination-pieces of the mere "things," but values of the things, value-characters (Wertheiten), or concrete value-objectities
-
-- **presupposed** · `fundierung/husserliana-3/007` · *Thing-constitution through strata and stages*
-  The constitution of a transcendental thing is determined by different stages and strata, each constituting its own partial unity that serves as a necessary middle-member for the full constitution of the thing.
-  `husserliana-3-ideas-i-parts-3-4-commentary#h3-s-151-strata-of-the-transcendental-constitution-of-the-thing-supplements` · [§ 151\. Strata of the Transcendental Constitution of the Thing. Supplements](https://faultynode.github.io/commentaries/commentaries/husserl/husserliana-3-ideas-i-parts-3-4-commentary.html#strata-of-the-transcendental-constitution-of-the-thing-supplements)
-  > Every stage and every stratum in the stage is characterized thereby, that it constitutes an own unity, which on its side is necessary middle-member for the full constitution of the thing
-
-- **presupposed** · `fundierung/husserliana-3/008` · *Intersubjective constitution of the objective thing*
-  The intersubjectively-identical thing is a higher-order constitutive unity founded on and constituted through empathy—the experience of other subjects—which unifies the separate perception-manifolds of a plurality of experiencing egos.
-  `husserliana-3-ideas-i-parts-3-4-commentary#h3-s-151-strata-of-the-transcendental-constitution-of-the-thing-supplements` · [§ 151\. Strata of the Transcendental Constitution of the Thing. Supplements](https://faultynode.github.io/commentaries/commentaries/husserl/husserliana-3-ideas-i-parts-3-4-commentary.html#strata-of-the-transcendental-constitution-of-the-thing-supplements)
-  > The intersubjectively-identical thing (the "objective" thing) is a higher-order constitutive unity, constituted through **empathy** (Einfühlung) — the experience of other subjects
-
-*Partial pass: Extracts from sections 95, 96, 116, 117, and 151-152 which contain explicit treatment of founded acts, layered constitution, and the dependence of higher objectivities on lower strata. Focuses on emotional/volitional founding on perception, value-constitution, and transcendental stratification.*
-
 ## Not covered by this ledger
 
 *Where the theme's terms occur but no extraction pass has run. Silence in the sections above is silence about these files, not evidence of absence in them.*
 
-- `husserliana-3-ideas-i-parts-3-4-commentary` - 779 term hits, no record
-- `husserliana-19-2-sixth-logical-investigation-commentary` - 728 term hits, no record
-- `heidegger-sein-und-zeit-commentary` - 624 term hits, no record
-- `husserliana-19-1-fifth-logical-investigation-commentary` - 578 term hits, no record
-- `husserliana-43-2-studien-zur-struktur-des-bewusstseins-commentary` - 377 term hits, no record
-- `lacan-seminar-11-the-four-fundamental-concepts-of-psychoanalysis-commentary` - 370 term hits, no record
-- `henry-philosophie-et-phenomenologie-du-corps-commentary` - 340 term hits, no record
-- `husserliana-9-phenomenological-psychology-commentary` - 335 term hits, no record
-- `husserliana-26-theory-of-meaning-commentary` - 333 term hits, no record
 - `kant-kritik-der-reinen-vernunft-commentary` - 332 term hits, no record
 - `husserliana-28-vorlesungen-uber-ethik-und-wertlehre-commentary` - 316 term hits, no record
 - `lacan-seminar-1-freuds-papers-on-technique-commentary` - 308 term hits, no record
