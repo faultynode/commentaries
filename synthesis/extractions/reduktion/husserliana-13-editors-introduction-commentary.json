@@ -1,0 +1,85 @@
+{
+  "schema_version": 1,
+  "theme": "reduktion",
+  "commentary": "husserliana-13-editors-introduction-commentary",
+  "source_sha256": "977937c46151d7bf4ad90837b73a5916a68580d269068d4929a5658fe69c8ec6",
+  "extracted_at": "2026-09-14",
+  "extractor": {
+    "agent": "claude-code",
+    "prompt": "https://github.com/faultynode/prompts/blob/main/synthesis-pipeline/extraction-prompt.md",
+    "note": "Partial pass over the editor's introduction, where Kern dates the reduction and traces its extension to intersubjectivity."
+  },
+  "coverage": "partial",
+  "coverage_note": "Covers the paragraphs of the Editor's Introduction (Iso Kern) that date the working-out of the reduction and describe its intersubjective extension and the double reduction of re-presentation. The remainder of the introduction is not covered.",
+  "units": [
+    {
+      "id": "reduktion/hua13-intro/001",
+      "locator": "husserliana-13-editors-introduction-commentary#h2-editor-s-introduction-iso-kern",
+      "primary_locator": "Hua XIII, Einleitung des Herausgebers, XXIV-XXV",
+      "term": "phenomenological reduction",
+      "status": "presupposed",
+      "claim": "Kern dates the working-out of the idea of the phenomenological reduction as the most fundamental of all methods to the years 1905 to 1909.",
+      "quote": "1905 to 1909, the years in which he worked out the idea of phenomenological reduction as the most fundamental of all methods"
+    },
+    {
+      "id": "reduktion/hua13-intro/002",
+      "locator": "husserliana-13-editors-introduction-commentary#h2-editor-s-introduction-iso-kern",
+      "term": "phenomenological reduction (first occurrence)",
+      "status": "presupposed",
+      "claim": "By Husserl's own judgement the concept and correct use of the phenomenological reduction are first found in the manuscript complex of summer 1905, and the method was developed in the courses of 1906/07 and 1907.",
+      "quote": "By Husserl's own judgement the concept and the correct use of \"phenomenological reduction\" are first found in the manuscript complex"
+    },
+    {
+      "id": "reduktion/hua13-intro/003",
+      "locator": "husserliana-13-editors-introduction-commentary#h2-editor-s-introduction-iso-kern",
+      "term": "reduction (and intersubjectivity)",
+      "status": "revised",
+      "claim": "The position of the reduction forced Husserl into the problem of how a plurality of mutually separate absolute consciousnesses can be reached on a method that goes back to pure and absolute consciousness.",
+      "quote": "how, on a method that goes back to pure and absolute consciousness, can a plurality and mutual separateness of absolute consciousnesses be reached and grounded?"
+    },
+    {
+      "id": "reduktion/hua13-intro/004",
+      "locator": "husserliana-13-editors-introduction-commentary#h2-editor-s-introduction-iso-kern",
+      "term": "reduction (its solipsistic reading)",
+      "status": "criticized",
+      "claim": "The picture on which the reduction first isolates a solipsistic sphere that intersubjectivity is later called in to repair is inverted by the documents.",
+      "quote": "The point deserves emphasis because it inverts a common picture: the reduction did not first isolate a solipsistic sphere that intersubjectivity was later called in to repair"
+    },
+    {
+      "id": "reduktion/hua13-intro/005",
+      "locator": "husserliana-13-editors-introduction-commentary#h2-editor-s-introduction-iso-kern",
+      "primary_locator": "Hua XIII, Einleitung des Herausgebers, XXXV-XXXVI",
+      "term": "universal intersubjective reduction",
+      "status": "revised",
+      "claim": "Husserl refers to the 1910/11 course by working titles naming the extension of the reduction to empathy and to a universal intersubjective reduction.",
+      "quote": "\"lecture on empathy and extended reduction,\" \"lecture on phenomenological reduction as universal intersubjective reduction,\""
+    },
+    {
+      "id": "reduktion/hua13-intro/006",
+      "locator": "husserliana-13-editors-introduction-commentary#h2-editor-s-introduction-iso-kern",
+      "primary_locator": "Erste Philosophie, 1923/24",
+      "term": "phenomenological reduction (Husserl's retrospect)",
+      "status": "criticized",
+      "claim": "Husserl confesses that his first cognition of the phenomenological reduction was restricted and that for years he saw no possibility of shaping it intersubjectively.",
+      "quote": "for Husserl himself, as he confesses, the first cognition of phenomenological reduction was a restricted one; for years he saw no possibility of shaping it intersubjectively"
+    },
+    {
+      "id": "reduktion/hua13-intro/007",
+      "locator": "husserliana-13-editors-introduction-commentary#h2-editor-s-introduction-iso-kern",
+      "term": "double reduction of re-presentation",
+      "status": "introduced",
+      "claim": "The achievement consists above all in the double reduction of re-presentation, in which the re-presented experiences contained in a re-presenting act are also grasped as phenomenologically pure consciousness.",
+      "quote": "in re-presenting, not only the re-presenting (actual) experience but also the re-presented experiences intentionally contained in it are reflectively grasped as phenomenologically pure consciousness"
+    },
+    {
+      "id": "reduktion/hua13-intro/008",
+      "locator": "husserliana-13-editors-introduction-commentary#h2-editor-s-introduction-iso-kern",
+      "primary_locator": "Hua XIII, Text No. 5 ('Preparation', October 1910)",
+      "term": "reduction to intersubjectivity",
+      "status": "revised",
+      "claim": "Although the 'Preparation' projects the reduction to intersubjectivity under the idea of a pure psychology, in the lectures it is grasped as a transcendental method excluding all apperceptions of the natural attitude.",
+      "quote": "in the lectures Husserl grasps it as a transcendental method excluding all apperceptions of the natural attitude or experience"
+    }
+  ],
+  "absences": []
+}

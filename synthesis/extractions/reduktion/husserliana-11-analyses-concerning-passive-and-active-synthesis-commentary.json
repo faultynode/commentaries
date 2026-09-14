@@ -1,0 +1,62 @@
+{
+  "schema_version": 1,
+  "theme": "reduktion",
+  "commentary": "husserliana-11-analyses-concerning-passive-and-active-synthesis-commentary",
+  "source_sha256": "bd22bb3a9bd7ac059dd0537fbae0892179ea2f75e9464040ab2e95600cf82570",
+  "extracted_at": "2026-09-14",
+  "extractor": {
+    "agent": "claude-code",
+    "prompt": "https://github.com/faultynode/prompts/blob/main/synthesis-pipeline/extraction-prompt.md",
+    "note": "Partial pass over § 10, § 26, the Appendices section and Section 4, where the reduction is operative rather than thematic."
+  },
+  "coverage": "partial",
+  "coverage_note": "Covers § 10 (perception and perceptual sense), § 26 (the delimitation of themes for a phenomenological doctrine of association), Section 2 (Appendices) and Section 4 (on static and genetic phenomenological method). The remainder of the volume is not covered.",
+  "units": [
+    {
+      "id": "reduktion/hua11/001",
+      "locator": "husserliana-11-analyses-concerning-passive-and-active-synthesis-commentary#h3-10-perception-and-perceptual-sense",
+      "primary_locator": "Hua XI, § 10",
+      "term": "phenomenological reduction",
+      "status": "presupposed",
+      "claim": "Under the reduction every act has its meant object containing all modalities of being, from which a schism between intentional content and intentional modal-character arises.",
+      "quote": "When we carry out the phenomenological reduction, every \"act\" has its meant object containing all modalities of being."
+    },
+    {
+      "id": "reduktion/hua11/002",
+      "locator": "husserliana-11-analyses-concerning-passive-and-active-synthesis-commentary#h3-s26-the-position-and-the-delimitation-of-themes-concerning-a-phenomenological-do",
+      "primary_locator": "Hua XI § 26",
+      "term": "phenomenological reduction (as against psychophysical causality)",
+      "status": "presupposed",
+      "claim": "Within the reduction what is there is not the world as reality with its causalities but only phenomena in their intentionality, which excludes an objective psychophysical account of association.",
+      "quote": "Within the phenomenological reduction, what is there is not the world as reality with its causalities, but only phenomena in their intentionality."
+    },
+    {
+      "id": "reduktion/hua11/003",
+      "locator": "husserliana-11-analyses-concerning-passive-and-active-synthesis-commentary#h3-section-2-appendices",
+      "primary_locator": "Hua XI, Appendix 8 (to §§ 24-25), pp. 451-472",
+      "term": "two types of transcendental reduction",
+      "status": "introduced",
+      "claim": "Appendix 8 distinguishes two types of transcendental reduction with respect to remembering, in the course of treating the apodicticity of memory.",
+      "quote": "two types of transcendental reduction with respect to remembering"
+    },
+    {
+      "id": "reduktion/hua11/004",
+      "locator": "husserliana-11-analyses-concerning-passive-and-active-synthesis-commentary#h3-section-4-on-static-and-genetic-phenomenological-method",
+      "primary_locator": "Hua XI, pp. 646-648",
+      "term": "egological reduction",
+      "status": "criticized",
+      "claim": "It is asked whether phenomenological truths gained through the egological reduction can claim intersubjective validity, since truths adopted by the phenomenological ego do not straightforwardly have that sense.",
+      "quote": "Husserl addresses the question whether phenomenological truths, gained through the egological reduction, can claim intersubjective validity."
+    },
+    {
+      "id": "reduktion/hua11/005",
+      "locator": "husserliana-11-analyses-concerning-passive-and-active-synthesis-commentary#h3-section-4-on-static-and-genetic-phenomenological-method",
+      "primary_locator": "Hua XI, pp. 646-648",
+      "term": "phenomenological reduction (and Cartesian evidence)",
+      "status": "presupposed",
+      "claim": "After the phenomenological reduction the ego can say ego cogito, ego sum in absolute Cartesian evidence.",
+      "quote": "After the phenomenological reduction, the ego can say *ego cogito, ego sum* in absolute Cartesian evidence."
+    }
+  ],
+  "absences": []
+}

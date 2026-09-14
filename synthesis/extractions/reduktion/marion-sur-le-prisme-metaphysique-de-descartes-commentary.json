@@ -1,0 +1,87 @@
+{
+  "schema_version": 1,
+  "theme": "reduktion",
+  "commentary": "marion-sur-le-prisme-metaphysique-de-descartes-commentary",
+  "source_sha256": "434950859b94d97a942dc407b94e638e9bb92376932a6eaaf73f6738a668b71f",
+  "extracted_at": "2026-09-14",
+  "extractor": {
+    "agent": "claude-code",
+    "prompt": "https://github.com/faultynode/prompts/blob/main/synthesis-pipeline/extraction-prompt.md",
+    "note": "Partial pass over §§ 6, 8, 9 and 25. The commentary's uses of 'reduction' are Cartesian and Pascalian rather than Husserlian, and § 25 states the relation between them explicitly."
+  },
+  "coverage": "partial",
+  "coverage_note": "Covers § 6 (a nothing of ontology), § 8 (cogitatio as the first word on the being of beings), § 9 (causa as the second word) and § 25 (the destitution of metaphysics). The remaining sections of Parts I, III and IV carry hits and are not covered.",
+  "units": [
+    {
+      "id": "reduktion/marion-prisme/001",
+      "locator": "marion-sur-le-prisme-metaphysique-de-descartes-commentary#h3-s-6-a-nothing-of-ontology",
+      "term": "reduction (of esse to certainty)",
+      "status": "presupposed",
+      "claim": "The Cartesian reduction is allowed to be justified from its own standpoint, since for the order of knowledge a single certainty suffices to extinguish an interrogation.",
+      "quote": "Marion allows that the reduction is perfectly justified from the Cartesian standpoint: for the order of knowledge a single certainty suffices to extinguish an interrogation"
+    },
+    {
+      "id": "reduktion/marion-prisme/002",
+      "locator": "marion-sur-le-prisme-metaphysique-de-descartes-commentary#h3-s-8-the-first-word-on-the-being-of-beings-cogitatio",
+      "primary_locator": "Regulae, first title",
+      "term": "epistemic reduction",
+      "status": "introduced",
+      "claim": "The epistemic reduction of everything that occurs to what can in the end be known of it repeats, while displacing, the reduction Aristotle's certain science operates.",
+      "quote": "For the epistemic reduction of every occurrence — *ea omnia quae occurrunt*, in the first title of the *Regulae* — to what can in the end be known of it repeats, while displacing it, the reduction that Aristotle's certain science operates"
+    },
+    {
+      "id": "reduktion/marion-prisme/003",
+      "locator": "marion-sur-le-prisme-metaphysique-de-descartes-commentary#h3-s-8-the-first-word-on-the-being-of-beings-cogitatio",
+      "primary_locator": "Meditation II",
+      "term": "reduction to objectum and cogitatum",
+      "status": "introduced",
+      "claim": "The reversal of the wax analysis comes from the reduction of the wax and of every thing first to the status of objectum and then to that of cogitatum.",
+      "quote": "The reversal comes from the reduction, as if by degrees, of the wax and so of every thing, first to the status of *objectum* and then indissolubly to the status of *cogitatum*"
+    },
+    {
+      "id": "reduktion/marion-prisme/004",
+      "locator": "marion-sur-le-prisme-metaphysique-de-descartes-commentary#h3-s-8-the-first-word-on-the-being-of-beings-cogitatio",
+      "primary_locator": "Meditation II",
+      "term": "reduction of the cogitatum to cogitatio",
+      "status": "presupposed",
+      "claim": "The sense of the cogitatum decides nothing; what decides is the reduction of an arbitrary cogitatum to cogitatio in living operation.",
+      "quote": "the reduction of an indifferent and arbitrary *cogitatum* to *cogitatio* in living operation decides everything"
+    },
+    {
+      "id": "reduktion/marion-prisme/005",
+      "locator": "marion-sur-le-prisme-metaphysique-de-descartes-commentary#h3-s-9-the-second-word-on-the-being-of-beings-causa",
+      "term": "reduction (of the ego to a thinking thing)",
+      "status": "presupposed",
+      "claim": "The ego's avowal that it is nothing other than a thinking thing marks its renunciation of the excellence of the being at the second stage.",
+      "quote": "it observes of itself that it is nothing other than a thinking thing, and the avowal of that reduction marks the ego's renunciation, at this second stage, of the accomplishment of the excellence of the being"
+    },
+    {
+      "id": "reduktion/marion-prisme/006",
+      "locator": "marion-sur-le-prisme-metaphysique-de-descartes-commentary#h3-s-25-the-destitution-of-metaphysics",
+      "primary_locator": "Sur le prisme métaphysique de Descartes, pp. 356-360",
+      "term": "reduction (phenomenological, Cartesian, Heideggerian, Pascalian)",
+      "status": "revised",
+      "claim": "Phenomenology's reduction to consciousness, Descartes' to evidence and the ego, and Heidegger's of beings to the being of beings are set alongside Pascal's reduction of everything to charity.",
+      "quote": "Just as phenomenology operates reductions, but to consciousness; just as Descartes operates reductions to evidence and then to the ego; just as Heidegger operates a reduction of beings to the being of beings; so Pascal accomplishes a reduction of everything that happens to charity."
+    },
+    {
+      "id": "reduktion/marion-prisme/007",
+      "locator": "marion-sur-le-prisme-metaphysique-de-descartes-commentary#h3-s-25-the-destitution-of-metaphysics",
+      "primary_locator": "Sur le prisme métaphysique de Descartes, pp. 356-360",
+      "term": "destitution (unconditioned reduction to charity)",
+      "status": "introduced",
+      "claim": "Destitution is defined as the unconditioned reduction to charity, which disqualifies metaphysics not in its own order but as to its unconditioned character.",
+      "quote": "The unconditioned reduction to charity is named destitution."
+    },
+    {
+      "id": "reduktion/marion-prisme/008",
+      "locator": "marion-sur-le-prisme-metaphysique-de-descartes-commentary#h3-s-25-the-destitution-of-metaphysics",
+      "primary_locator": "Sur le prisme métaphysique de Descartes, pp. 360-363",
+      "term": "reductions (their mode of accomplishment)",
+      "status": "presupposed",
+      "claim": "The destitution of metaphysics cannot in principle be proved but, like all the other reductions, must be accomplished step by step by each for himself.",
+      "quote": "like all the other reductions it must be accomplished step by step, each for himself, in an experimentation the more rigorous in that charity leaves less place for approximation and solipsism"
+    }
+  ],
+  "absences": []
+}

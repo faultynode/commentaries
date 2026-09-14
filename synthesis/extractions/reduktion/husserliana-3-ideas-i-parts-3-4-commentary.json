@@ -1,0 +1,98 @@
+{
+  "schema_version": 1,
+  "theme": "reduktion",
+  "commentary": "husserliana-3-ideas-i-parts-3-4-commentary",
+  "source_sha256": "cca8c38ab34388e5a559649f69b70591451b461759746ee131fb0656b0e0b361",
+  "extracted_at": "2026-09-14",
+  "extractor": {
+    "agent": "claude-code",
+    "prompt": "https://github.com/faultynode/prompts/blob/main/synthesis-pipeline/extraction-prompt.md",
+    "note": "Partial pass over the methodological sections of the Third Part (§§ 63-64) and the opening of the Second Chapter (§ 76)."
+  },
+  "coverage": "partial",
+  "coverage_note": "Covers §§ 63, 64 and 76 — the standing of methodological reflection in phenomenology, the self-switching-off of the phenomenologist, and the revaluing change of sign by which what is bracketed re-enters as theme. §§ 77, 78, 88 and the remaining sections of the Third and Fourth Parts carry hits and are not covered.",
+  "units": [
+    {
+      "id": "reduktion/hua3-p34/001",
+      "locator": "husserliana-3-ideas-i-parts-3-4-commentary#h3-s-63-the-particular-significance-of-methodological-considerations-for-phenomenol",
+      "primary_locator": "Ideas I § 63",
+      "term": "phenomenological reductions",
+      "status": "presupposed",
+      "claim": "Observing the norms the reductions prescribe and switching off all transcendencies opens an all-sidedly infinite field of eidetic cognitions.",
+      "quote": "If we observe the norms that the phenomenological reductions prescribe to us, switch off all transcendencies exactly as they demand, take the experiences thus purely according to their own essence, then there opens to us"
+    },
+    {
+      "id": "reduktion/hua3-p34/002",
+      "locator": "husserliana-3-ideas-i-parts-3-4-commentary#h3-s-63-the-particular-significance-of-methodological-considerations-for-phenomenol",
+      "primary_locator": "Ideas I § 63",
+      "term": "reduction as method-before-method",
+      "status": "presupposed",
+      "claim": "Phenomenology needs a method before any matter-determining method, one required merely to bring transcendentally-pure consciousness into the grasping gaze.",
+      "quote": "the reduction is a *method-before-method*, required just to bring pure consciousness into view"
+    },
+    {
+      "id": "reduktion/hua3-p34/003",
+      "locator": "husserliana-3-ideas-i-parts-3-4-commentary#h3-s-64-the-self-switching-off-of-the-phenomenologist",
+      "primary_locator": "Ideas I § 64",
+      "term": "switching-off (Ausschaltung)",
+      "status": "criticized",
+      "claim": "A self-referential objection is raised: if the reduction brackets the whole natural world, the phenomenologist as a member of that world appears to be bracketed along with it.",
+      "quote": "But did we not just say \"we\" switch off — can we phenomenologists set ourselves out of play, we who are after all also members of the natural world?"
+    },
+    {
+      "id": "reduktion/hua3-p34/004",
+      "locator": "husserliana-3-ideas-i-parts-3-4-commentary#h3-s-64-the-self-switching-off-of-the-phenomenologist",
+      "primary_locator": "Ideas I § 64",
+      "term": "norm of phenomenological reduction",
+      "status": "revised",
+      "claim": "The reduction is a methodical norm on what may be entered into phenomenology's results, forbidding any proposition containing natural positings.",
+      "quote": "forbids us to enter any proposition that explicitly or implicitly contains such natural positings"
+    },
+    {
+      "id": "reduktion/hua3-p34/005",
+      "locator": "husserliana-3-ideas-i-parts-3-4-commentary#h3-s-64-the-self-switching-off-of-the-phenomenologist",
+      "primary_locator": "Ideas I § 64",
+      "term": "self-switching-off",
+      "status": "revised",
+      "claim": "Self-switching-off excludes the phenomenologist's empirical existence from the eidetic content of his results rather than annihilating the performer of the reduction.",
+      "quote": "The \"self-switching-off\" is thus the *exclusion of the phenomenologist's empirical existence from the eidetic content* of his results, *not* a paradoxical self-annihilation."
+    },
+    {
+      "id": "reduktion/hua3-p34/006",
+      "locator": "husserliana-3-ideas-i-parts-3-4-commentary#h3-s-76-the-theme-of-the-following-investigations",
+      "primary_locator": "Ideas I § 76",
+      "term": "phenomenological reduction",
+      "status": "presupposed",
+      "claim": "Through the reduction transcendental consciousness results as the realm of absolute being, the primal region in which all other regions are rooted.",
+      "quote": "Through the phenomenological reduction, the realm of transcendental consciousness had resulted for us as the realm of \"absolute\" being in a determinate sense."
+    },
+    {
+      "id": "reduktion/hua3-p34/007",
+      "locator": "husserliana-3-ideas-i-parts-3-4-commentary#h3-s-76-the-theme-of-the-following-investigations",
+      "primary_locator": "Ideas I § 76",
+      "term": "method of the phenomenological reduction",
+      "status": "presupposed",
+      "claim": "The distinction between being as consciousness and transcendent being can be won in its purity only through the method of the reduction.",
+      "quote": "And this distinction, Husserl notes, can be won and appreciated in its purity only through the method of the phenomenological reduction."
+    },
+    {
+      "id": "reduktion/hua3-p34/008",
+      "locator": "husserliana-3-ideas-i-parts-3-4-commentary#h3-s-76-the-theme-of-the-following-investigations",
+      "primary_locator": "Ideas I § 76",
+      "term": "switching-off as revaluing change of sign",
+      "status": "revised",
+      "claim": "Switching-off carries the character of a revaluing change of sign, so that what is bracketed re-enters the phenomenological sphere carrying an index.",
+      "quote": "The switching-off has at the same time the character of a revaluing change of sign, and with this the revalued thing orders itself again into the phenomenological sphere."
+    },
+    {
+      "id": "reduktion/hua3-p34/009",
+      "locator": "husserliana-3-ideas-i-parts-3-4-commentary#h3-s-76-the-theme-of-the-following-investigations",
+      "primary_locator": "Ideas I § 76",
+      "term": "bracketing (Einklammerung)",
+      "status": "presupposed",
+      "claim": "In the modification of bracketing the whole world, including psychic individuals and their experiences, belongs in phenomenology as correlate of absolute consciousness.",
+      "quote": "in the modification of bracketing, the whole world, with its psychic individuals and their psychic experiences, belongs in phenomenology, all of it as correlate of absolute consciousness"
+    }
+  ],
+  "absences": []
+}

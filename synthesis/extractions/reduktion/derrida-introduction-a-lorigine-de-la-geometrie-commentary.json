@@ -1,0 +1,84 @@
+{
+  "schema_version": 1,
+  "theme": "reduktion",
+  "commentary": "derrida-introduction-a-lorigine-de-la-geometrie-commentary",
+  "source_sha256": "d88dc07ec83bdabc771b2e7ffa2f60764136bc0f531626ed13e58223d20ca693",
+  "extracted_at": "2026-09-14",
+  "extractor": {
+    "agent": "claude-code",
+    "prompt": "https://github.com/faultynode/prompts/blob/main/synthesis-pipeline/extraction-prompt.md",
+    "note": "Partial pass over section II, the densest treatment of the reduction of factual history and its relation to the Kantian regress."
+  },
+  "coverage": "partial",
+  "coverage_note": "Covers section II (lines 57-140), which carries the commentary's sustained treatment of the reduction of empirical history, the Kant comparison, and the Tran-Duc-Thao dispute. Sections V, VII, IX, X and XI, which also carry hits, are not covered.",
+  "units": [
+    {
+      "id": "reduktion/derrida-geometrie/001",
+      "locator": "derrida-introduction-a-lorigine-de-la-geometrie-commentary#h2-ii",
+      "term": "reduction of all facticity",
+      "status": "presupposed",
+      "claim": "Husserl's Proto-, Arche- and Ur- prefixes mark phenomenological originarity, which is reached only after the reduction of all facticity, as against the merely chronological 'first'.",
+      "quote": "whereas *Proto-*, *Arche-*, *Ur-* refer to *phenomenological originarity* — that of sense, of foundation, of right, *after the reduction of all facticity*"
+    },
+    {
+      "id": "reduktion/derrida-geometrie/002",
+      "locator": "derrida-introduction-a-lorigine-de-la-geometrie-commentary#h2-ii",
+      "term": "reduction (of ready-made geometry)",
+      "status": "criticized",
+      "claim": "The reduction of constituted geometry requires as its point of departure the very constituted result it neutralizes, so a factual history of geometry must already have taken place.",
+      "quote": "There must always *already have been in fact* a history of geometry for the reduction to be able to operate; I must already have a naïve knowledge of geometry and *must not begin at the origin*."
+    },
+    {
+      "id": "reduktion/derrida-geometrie/003",
+      "locator": "derrida-introduction-a-lorigine-de-la-geometrie-commentary#h2-ii",
+      "term": "reduction of empirical history",
+      "status": "presupposed",
+      "claim": "Kant and Husserl perform the reduction of empirical history identically, so their fundamental difference cannot be located in it.",
+      "quote": "If the difference between Kant and Husserl is fundamental, it cannot lie in the *reduction of empirical history* — both perform it identically."
+    },
+    {
+      "id": "reduktion/derrida-geometrie/004",
+      "locator": "derrida-introduction-a-lorigine-de-la-geometrie-commentary#h2-ii",
+      "term": "eidetic reduction",
+      "status": "criticized",
+      "claim": "In Kant the eidetic reduction freeing geometrical essence from empirical reality is always already effected rather than performed by a subject.",
+      "quote": "the *spontaneous eidetic reduction* that frees the geometrical essence from all empirical reality — from sensible figuration as much as from the geometer's psychological *vécu* — is for Kant *always already effected*"
+    },
+    {
+      "id": "reduktion/derrida-geometrie/005",
+      "locator": "derrida-introduction-a-lorigine-de-la-geometrie-commentary#h2-ii",
+      "primary_locator": "Ideas I §1, §56",
+      "term": "Ausschaltung (switching-off)",
+      "status": "presupposed",
+      "claim": "In Ideas I historical data fall under the exclusion as facts and not as norms, the sciences being bracketed as cultural fact rather than as standard of validity.",
+      "quote": "historical \"data\" are bracketed *as facts and not as norms*: in suspending the natural world one excludes all individual objectivities constituted by the axiological and practical functions of consciousness"
+    },
+    {
+      "id": "reduktion/derrida-geometrie/006",
+      "locator": "derrida-introduction-a-lorigine-de-la-geometrie-commentary#h2-ii",
+      "term": "first reductions of factual history",
+      "status": "presupposed",
+      "claim": "The reduction of factual history must precede any thematizing of the ideal object's own historicity, and those first reductions are never lifted.",
+      "quote": "That is why these first reductions of factual history will *never be lifted*"
+    },
+    {
+      "id": "reduktion/derrida-geometrie/007",
+      "locator": "derrida-introduction-a-lorigine-de-la-geometrie-commentary#h2-ii",
+      "primary_locator": "O., 175-7",
+      "term": "eidetic and transcendental reductions",
+      "status": "criticized",
+      "claim": "The account of geometry's genesis raises the expectation that the eidetic and transcendental reductions will simply be lifted in favour of a constituting history in which the founding fact is irreplaceable.",
+      "quote": "one might expect him *purely and simply to lift* the eidetic and transcendental reductions and to return to a *constituting history* in which taking the fact into consideration *as such* would become indispensable"
+    },
+    {
+      "id": "reduktion/derrida-geometrie/008",
+      "locator": "derrida-introduction-a-lorigine-de-la-geometrie-commentary#h2-ii",
+      "primary_locator": "Tran-Duc-Thao, Phénoménologie et matérialisme dialectique, 1951",
+      "term": "Husserlian reduction",
+      "status": "criticized",
+      "claim": "Against Tran-Duc-Thao, the reduction never meant a negation or forgetting that quits the real conditions of sense and facticity, since sense is nothing other than the sense of reality or facticity.",
+      "quote": "although the reduction never had the sense — quite the contrary — of a negation, an ignorance, or a forgetting that \"quits\" the real conditions of sense and facticity in general"
+    }
+  ],
+  "absences": []
+}

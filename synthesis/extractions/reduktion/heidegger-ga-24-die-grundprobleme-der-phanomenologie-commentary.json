@@ -1,0 +1,71 @@
+{
+  "schema_version": 1,
+  "theme": "reduktion",
+  "commentary": "heidegger-ga-24-die-grundprobleme-der-phanomenologie-commentary",
+  "source_sha256": "224be004aedc25744d4193201465722e6efe4c8c99c0b1c2a05764b01b51efad",
+  "extracted_at": "2026-09-14",
+  "extractor": {
+    "agent": "claude-code",
+    "prompt": "https://github.com/faultynode/prompts/blob/main/synthesis-pipeline/extraction-prompt.md",
+    "note": "Partial pass over § 5, where the three basic pieces of the phenomenological method are stated and Heidegger's reduction is expressly distinguished from Husserl's."
+  },
+  "coverage": "partial",
+  "coverage_note": "Covers § 5, 'The Methodical Character of Ontology. The Three Basic Pieces of the Phenomenological Method'. The rest of the course is not covered.",
+  "units": [
+    {
+      "id": "reduktion/ga24/001",
+      "locator": "heidegger-ga-24-die-grundprobleme-der-phanomenologie-commentary#h2-s-5-the-methodical-character-of-ontology-the-three-basic-pieces-of-the-phenomeno",
+      "primary_locator": "GA 24 § 5",
+      "term": "phenomenological reduction",
+      "status": "introduced",
+      "claim": "The first basic piece of the method is named the phenomenological reduction, the leading-back of the investigating gaze from the naively grasped being to being.",
+      "quote": "We name this basic piece of the phenomenological method — in the sense of the leading-back of the investigating gaze from the naively grasped being to being — the *phenomenological reduction*."
+    },
+    {
+      "id": "reduktion/ga24/002",
+      "locator": "heidegger-ga-24-die-grundprobleme-der-phanomenologie-commentary#h2-s-5-the-methodical-character-of-ontology-the-three-basic-pieces-of-the-phenomeno",
+      "primary_locator": "GA 24 § 5; Ideen I (1913)",
+      "term": "phenomenological reduction (Husserl's)",
+      "status": "revised",
+      "claim": "The term is taken over from Husserl in wording but not in the matter: his reduction leads back from the natural attitude to the transcendental life of consciousness.",
+      "quote": "In so doing we link up — in wording, but not in the matter — with a central term of Husserl's phenomenology."
+    },
+    {
+      "id": "reduktion/ga24/003",
+      "locator": "heidegger-ga-24-die-grundprobleme-der-phanomenologie-commentary#h2-s-5-the-methodical-character-of-ontology-the-three-basic-pieces-of-the-phenomeno",
+      "primary_locator": "GA 24 § 5",
+      "term": "phenomenological reduction (Heidegger's sense)",
+      "status": "revised",
+      "claim": "Here the reduction leads the gaze back from any determinate grasping of a being to the understanding of the being of that being, projected upon its unconcealedness.",
+      "quote": "the phenomenological reduction means the leading-back of the phenomenological gaze from whatever determinate grasping of a being to the *understanding of the being* (the projection upon the manner of the being's unconcealedness) of this being"
+    },
+    {
+      "id": "reduktion/ga24/004",
+      "locator": "heidegger-ga-24-die-grundprobleme-der-phanomenologie-commentary#h2-s-5-the-methodical-character-of-ontology-the-three-basic-pieces-of-the-phenomeno",
+      "primary_locator": "GA 24 § 5",
+      "term": "phenomenological construction",
+      "status": "introduced",
+      "claim": "The reduction is not the central piece, since the turning-away from beings needs the positive projecting of the pre-given being onto its being, which is called phenomenological construction.",
+      "quote": "This projecting of the pre-given being onto its being and its structures we designate as the *phenomenological construction* (phänomenologische Konstruktion)."
+    },
+    {
+      "id": "reduktion/ga24/005",
+      "locator": "heidegger-ga-24-die-grundprobleme-der-phanomenologie-commentary#h2-s-5-the-methodical-character-of-ontology-the-three-basic-pieces-of-the-phenomeno",
+      "primary_locator": "GA 24 § 5",
+      "term": "Destruktion (critical dismantling)",
+      "status": "introduced",
+      "claim": "To the reductive construction of being there necessarily belongs a Destruktion, a critical dismantling of the inherited concepts back to the sources from which they were drawn.",
+      "quote": "a *Destruktion*, that is, a *critical dismantling* (kritischer Abbau) of the inherited and initially necessarily-to-be-used concepts back to the sources from which they have been drawn"
+    },
+    {
+      "id": "reduktion/ga24/006",
+      "locator": "heidegger-ga-24-die-grundprobleme-der-phanomenologie-commentary#h2-s-5-the-methodical-character-of-ontology-the-three-basic-pieces-of-the-phenomeno",
+      "primary_locator": "GA 24 § 5",
+      "term": "phenomenological method (not technique)",
+      "status": "presupposed",
+      "claim": "The phenomenological method grows and changes with the advance to the matters, and ceases to be itself as soon as it becomes a technique.",
+      "quote": "*Scientific method is never a technique.* As soon as it becomes that, it has fallen away from its own essence."
+    }
+  ],
+  "absences": []
+}

@@ -1,0 +1,116 @@
+{
+  "schema_version": 1,
+  "theme": "reduktion",
+  "commentary": "husserl-krisis-commentary",
+  "source_sha256": "2b88ec8e52006ce7c22903c868cc8d32c8b5f43eb0dccec8e1c9e78f0a55c845",
+  "extracted_at": "2026-09-14",
+  "extractor": {
+    "agent": "claude-code",
+    "prompt": "https://github.com/faultynode/prompts/blob/main/synthesis-pipeline/extraction-prompt.md",
+    "note": "Partial pass over the sections that carry the epoché and the transcendental reduction: §§ 17, 18, 35, 40, 41, 43."
+  },
+  "coverage": "partial",
+  "coverage_note": "Covers §§ 17 and 18 (the Cartesian epoché and Descartes' self-misinterpretation) and §§ 35, 40, 41 and 43 (the analytic of the transcendental epoché, the total epoché, the transcendental reduction it makes possible, and the new way as against the Cartesian way). Other sections of Parts II and III carry hits and are not covered.",
+  "units": [
+    {
+      "id": "reduktion/krisis/001",
+      "locator": "husserl-krisis-commentary#h3-s-17-descartes-return-to-the-ego-cogito-interpretation-of-the-cartesian-epoche",
+      "primary_locator": "Krisis § 17",
+      "term": "Cartesian epoché",
+      "status": "introduced",
+      "claim": "The Cartesian epoché begins as a radical skeptical suspension that questions the universe of previous convictions and bars all judgmental use of them.",
+      "quote": "it is unavoidable to begin with a radical skeptical epoché that questions the universe of all previous convictions, barring in advance all judgmental use of them"
+    },
+    {
+      "id": "reduktion/krisis/002",
+      "locator": "husserl-krisis-commentary#h3-s-17-descartes-return-to-the-ego-cogito-interpretation-of-the-cartesian-epoche",
+      "primary_locator": "Krisis § 17",
+      "term": "epoché (its extent)",
+      "status": "presupposed",
+      "claim": "The Cartesian epoché reaches not only the sciences including mathematics but the pre- and extra-scientific life-world of sensory experience.",
+      "quote": "This Cartesian epoché is of an unprecedented radicalism: it encompasses not only all previous sciences (including mathematics), but even the pre- and extra-scientific life-world"
+    },
+    {
+      "id": "reduktion/krisis/003",
+      "locator": "husserl-krisis-commentary#h3-s-17-descartes-return-to-the-ego-cogito-interpretation-of-the-cartesian-epoche",
+      "primary_locator": "Krisis § 17",
+      "term": "performer of the epoché",
+      "status": "presupposed",
+      "claim": "The ego performing the epoché is in principle excluded from the domain the epoché suspends, and this is where the apodictic ground lies.",
+      "quote": "the ego performing the epoché is not enclosed within the objective domain of the epoché but is in principle excluded from it"
+    },
+    {
+      "id": "reduktion/krisis/004",
+      "locator": "husserl-krisis-commentary#h3-s-18-descartes-self-misinterpretation-the-psychologistic-falsification-of-the-pu",
+      "primary_locator": "Krisis § 18",
+      "term": "ego won through the epoché",
+      "status": "revised",
+      "claim": "The ego is not a residuum of the world but an absolutely apodictic positing that only the epoché makes possible.",
+      "quote": "The ego is not a residuum of the world but the absolutely apodictic positing enabled solely by the epoché."
+    },
+    {
+      "id": "reduktion/krisis/005",
+      "locator": "husserl-krisis-commentary#h3-s-18-descartes-self-misinterpretation-the-psychologistic-falsification-of-the-pu",
+      "primary_locator": "Krisis § 18",
+      "term": "epoché (Descartes' falsification of)",
+      "status": "criticized",
+      "claim": "Descartes' identification of the ego of the epoché with the pure soul breaks the consistency of his own procedure and devalues the discovery.",
+      "quote": "A breach of consistency has entered through the identification of the ego of the epoché with the pure soul."
+    },
+    {
+      "id": "reduktion/krisis/006",
+      "locator": "husserl-krisis-commentary#h3-s-35-analytic-of-the-transcendental-epoche-the-first-step-the-epoche-from-object",
+      "primary_locator": "Krisis § 35",
+      "term": "epoché from objective science",
+      "status": "introduced",
+      "claim": "The first methodical step is an epoché with respect to all objective sciences, abstaining from every co-performance of their cognitions and every position-taking on their truth.",
+      "quote": "What is required above all is the epoché with respect to all objective sciences."
+    },
+    {
+      "id": "reduktion/krisis/007",
+      "locator": "husserl-krisis-commentary#h3-s-35-analytic-of-the-transcendental-epoche-the-first-step-the-epoche-from-object",
+      "primary_locator": "Krisis § 35",
+      "term": "total phenomenological attitude and its epoché",
+      "status": "revised",
+      "claim": "The phenomenological attitude and its epoché are said to be called upon to effect a complete personal transformation, initially comparable with a religious conversion.",
+      "quote": "the total phenomenological attitude and its epoché are in their essence called upon to bring about a complete personal transformation, comparable initially with a religious conversion"
+    },
+    {
+      "id": "reduktion/krisis/008",
+      "locator": "husserl-krisis-commentary#h3-s-40-the-difficulties-of-the-genuine-sense-of-performance-of-the-total-epoche-th",
+      "primary_locator": "Krisis § 40",
+      "term": "total epoché",
+      "status": "criticized",
+      "claim": "The total epoché cannot be reached by suspending validities piece by piece, since each suspension already presupposes the rest of the world in its validity.",
+      "quote": "The total epoché cannot be achieved as a result of a progressive stripping-away; it must be accomplished as a single total shift."
+    },
+    {
+      "id": "reduktion/krisis/009",
+      "locator": "husserl-krisis-commentary#h3-s-41-the-genuine-transcendental-epoche-makes-possible-the-transcendental-reducti",
+      "primary_locator": "Krisis § 41",
+      "term": "transcendental reduction",
+      "status": "introduced",
+      "claim": "The genuine performance of the epoché enables the transcendental reduction, the discovery and exploration of the universal correlation between world and world-consciousness.",
+      "quote": "The genuine performance of the epoché enables the transcendental reduction: the systematic discovery and exploration of the universal correlation between the world and consciousness-of-the-world."
+    },
+    {
+      "id": "reduktion/krisis/010",
+      "locator": "husserl-krisis-commentary#h3-s-41-the-genuine-transcendental-epoche-makes-possible-the-transcendental-reducti",
+      "primary_locator": "Krisis § 41",
+      "term": "transcendental reduction",
+      "status": "presupposed",
+      "claim": "The reduction does not annihilate the world but transforms it from a naively presupposed ground into a theme, retained as cogitatum of cogitationes.",
+      "quote": "Husserl emphasizes that the transcendental reduction does not annihilate the world or declare it unreal."
+    },
+    {
+      "id": "reduktion/krisis/011",
+      "locator": "husserl-krisis-commentary#h3-s-43-characterization-of-a-new-way-to-the-reduction-in-distinction-from-the-cart",
+      "primary_locator": "Krisis § 43",
+      "term": "Cartesian way to the reduction",
+      "status": "criticized",
+      "claim": "The Cartesian way reaches the transcendental ego in one leap and so presents it as empty, which the way through the life-world is designed to avoid.",
+      "quote": "The Cartesian way has the advantage of brevity but the disadvantage that it reaches the transcendental ego \"in one leap\" without revealing the full richness of the constitutive problematic."
+    }
+  ],
+  "absences": []
+}
