@@ -8,17 +8,17 @@ Corpus: **53 commentaries**, 2,934,474 words, 3902 sections indexed in `synthesi
 
 ### fundierung - founding of higher-order objectivities
 
-4 commentaries extracted · 16 units · 0 absences · 4 partial
+8 commentaries extracted · 48 units · 0 absences · 8 partial
 
 Next candidates, by term density:
 
-- [ ] `husserliana-3-ideas-i-parts-3-4-commentary` (undated) - 779 hits
-- [ ] `husserliana-19-2-sixth-logical-investigation-commentary` (undated) - 728 hits
-- [ ] `heidegger-sein-und-zeit-commentary` (1927) - 624 hits
-- [ ] `husserliana-19-1-fifth-logical-investigation-commentary` (1901) - 578 hits
 - [ ] `husserliana-43-2-studien-zur-struktur-des-bewusstseins-commentary` (undated) - 377 hits
-- [ ] `lacan-seminar-11-the-four-fundamental-concepts-of-psychoanalysis-commentary` (undated) - 370 hits
-- ... 43 more; see `synthesis_query.py --theme fundierung`
+- [ ] `lacan-seminar-11-the-four-fundamental-concepts-of-psychoanalysis-commentary` (1964) - 370 hits
+- [ ] `henry-philosophie-et-phenomenologie-du-corps-commentary` (1965) - 340 hits
+- [ ] `husserliana-9-phenomenological-psychology-commentary` (1925) - 335 hits
+- [ ] `husserliana-26-theory-of-meaning-commentary` (1908) - 333 hits
+- [ ] `kant-kritik-der-reinen-vernunft-commentary` (undated) - 332 hits
+- ... 39 more; see `synthesis_query.py --theme fundierung`
 
 ### intentionalitaet - intentionality
 
@@ -72,7 +72,7 @@ Next candidates, by term density:
 - [ ] `derrida-introduction-a-lorigine-de-la-geometrie-commentary` (1961) - 164 hits
 - [ ] `husserliana-13-basic-problems-of-phenomenology-commentary` (1910) - 135 hits
 - [ ] `husserliana-3-ideas-i-parts-3-4-commentary` (undated) - 127 hits
-- [ ] `franck-chair-et-corps-commentary` (undated) - 124 hits
+- [ ] `franck-chair-et-corps-commentary` (1981) - 124 hits
 - [ ] `Reduction et donation Commentary` (undated) - 123 hits
 - ... 44 more; see `synthesis_query.py --theme reduktion`
 
@@ -106,17 +106,17 @@ Next candidates, by term density:
 
 ### wesen - essence
 
-1 commentary extracted · 4 units · 1 absences · 1 partial
+26 commentaries extracted · 188 units · 28 absences · 26 partial
 
 Next candidates, by term density:
 
-- [ ] `henry-the-essence-of-manifestation-commentary` (undated) - 3585 hits
-- [ ] `husserliana-3-ideas-i-parts-3-4-commentary` (undated) - 1038 hits
 - [ ] `Heidegger GA 3 - Kant und das Problem der Metaphysik Commentary` (undated) - 508 hits
-- [ ] `heidegger-ga-3-kant-und-das-problem-der-metaphysik-commentary` (undated) - 508 hits
-- [ ] `heidegger-sein-und-zeit-commentary` (1927) - 394 hits
-- [ ] `husserliana-5-ideas-iii-commentary` (undated) - 356 hits
-- ... 46 more; see `synthesis_query.py --theme wesen`
+- [ ] `husserl-natur-und-geist-commentary` (1919) - 102 hits
+- [ ] `husserliana-3-ideas-i-commentary` (undated) - 100 hits
+- [ ] `Reduction et donation Commentary` (undated) - 100 hits
+- [ ] `husserliana-11-analyses-concerning-passive-and-active-synthesis-commentary` (1920) - 97 hits
+- [ ] `heidegger-ga-24-die-grundprobleme-der-phanomenologie-commentary` (undated) - 73 hits
+- ... 21 more; see `synthesis_query.py --theme wesen`
 
 ### zeitlichkeit - temporality
 
@@ -175,6 +175,7 @@ These commentaries do not date their own text, so they sit off the ledger spine.
 - [ ] `husserl-formal-and-transcendental-logic-commentary`
 - [ ] `husserliana-1-cartesianische-meditationen-commentary`
 - [ ] `husserliana-3-ideas-i-commentary`
+- [ ] `husserliana-3-ideas-i-parts-3-4-commentary`
 - [ ] `husserliana-39-die-lebenswelt-commentary`
 - [ ] `husserliana-5-ideas-iii-commentary` - Hua V shares the Stein and Landgrebe strata recorded under husserliana-4-ideas-ii-commentary, per that commentary's editor's introduction. Do not copy those strata here until this commentary states them itself.
 - [ ] `mohanty-philosophy-of-edmund-husserl-commentary`

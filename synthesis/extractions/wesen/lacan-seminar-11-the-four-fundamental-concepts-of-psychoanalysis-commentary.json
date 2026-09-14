@@ -1,0 +1,64 @@
+{
+  "schema_version": 1,
+  "theme": "wesen",
+  "commentary": "lacan-seminar-11-the-four-fundamental-concepts-of-psychoanalysis-commentary",
+  "source_sha256": "a565fb19ee233465943bfb2d662d66955dfab2bc8e9ee82d31b7e2bfe3d19ac8",
+  "extracted_at": "2026-09-14",
+  "extractor": {
+    "agent": "claude-code",
+    "prompt": "prompts/synthesis-pipeline/extraction-prompt.md",
+    "note": "Whole file grep-counted: 'essential' 83 times, 'essentially' 18, the noun 'essence' 25, 'eidos' 2; 'eidetic', 'Wesensschau', 'Husserl' and 'innate' occur nowhere. As with Seminar I, the density ranking is carried by the ordinary adverb. All 25 occurrences of the noun and both of 'eidos' were read in context; the five that are doing recognizable work are recorded."
+  },
+  "coverage": "partial",
+  "coverage_note": "Not a section-by-section pass. It reads every occurrence of the noun 'essence' and of 'eidos' across the whole seminar in context and records those that are more than an intensifier. No session was read paragraph by paragraph.",
+  "units": [
+    {
+      "id": "wesen/lacan-sem11/001",
+      "locator": "lacan-seminar-11-the-four-fundamental-concepts-of-psychoanalysis-commentary#h3-iv-on-the-network-of-signifiers",
+      "term": "by essence",
+      "status": "introduced",
+      "claim": "The unconscious is characterized not by what consciousness can draw up but by what is by essence refused to consciousness.",
+      "quote": "but by what is *by essence refused* to consciousness"
+    },
+    {
+      "id": "wesen/lacan-sem11/002",
+      "locator": "lacan-seminar-11-the-four-fundamental-concepts-of-psychoanalysis-commentary#h3-iv-on-the-network-of-signifiers",
+      "term": "eidos",
+      "status": "criticized",
+      "claim": "Analytic remembering is said not to be Platonic reminiscence, not the return of a form or eidos of the beautiful and the good descending from a supreme beyond.",
+      "quote": "not the return of a form, an imprint, an *eidos* of the beautiful and the good descending from a supreme true beyond"
+    },
+    {
+      "id": "wesen/lacan-sem11/003",
+      "locator": "lacan-seminar-11-the-four-fundamental-concepts-of-psychoanalysis-commentary#h3-vi-the-split-between-the-eye-and-the-gaze",
+      "term": "eidos",
+      "status": "criticized",
+      "claim": "Philosophy is said to have been governed by the visual from eidos, a seeing-word, to the sovereign good.",
+      "quote": "from *eidos* (a seeing-word) to the sovereign good, philosophy has been governed by the visual"
+    },
+    {
+      "id": "wesen/lacan-sem11/004",
+      "locator": "lacan-seminar-11-the-four-fundamental-concepts-of-psychoanalysis-commentary#h3-ix-what-is-a-picture",
+      "term": "essence of man",
+      "status": "introduced",
+      "claim": "The human subject is called the subject of desire that is the essence of man, not entirely caught, unlike the animal, by imaginary capture.",
+      "quote": "*the subject of desire that is the essence of man*"
+    },
+    {
+      "id": "wesen/lacan-sem11/005",
+      "locator": "lacan-seminar-11-the-four-fundamental-concepts-of-psychoanalysis-commentary#h3-xiii-the-deconstruction-of-the-drive",
+      "term": "essence",
+      "status": "presupposed",
+      "claim": "The drive's essence is said to be articulated like a grammar, a sentence to be conjugated through its voices.",
+      "quote": "for the drive's essence *is* articulated like a grammar"
+    }
+  ],
+  "absences": [
+    {
+      "locator": "lacan-seminar-11-the-four-fundamental-concepts-of-psychoanalysis-commentary#h3-iv-on-the-network-of-signifiers",
+      "expected_because": "This section refuses Platonic reminiscence and the eidos by name, and works through Descartes' Gedanken as the fulcrum of the unconscious - the one place where a phenomenological doctrine of essence could be taken up against the Platonic one.",
+      "absent_terms": ["Wesensschau", "eidetic", "Husserl", "immutable", "innate", "simple nature", "Wesen"],
+      "note": "Recorded to settle the ranking, as for Seminar I: the eidos refused here is Plato's, Husserl is named nowhere in the commentary, and the file's high term-density comes from the ordinary adverb 'essential'."
+    }
+  ]
+}
