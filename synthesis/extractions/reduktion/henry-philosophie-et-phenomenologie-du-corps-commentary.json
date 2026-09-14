@@ -1,0 +1,81 @@
+{
+  "schema_version": 1,
+  "theme": "reduktion",
+  "commentary": "henry-philosophie-et-phenomenologie-du-corps-commentary",
+  "source_sha256": "7873678cba294a842ebb78cf1590f2f4f3c732a826b6741035ba102fe8b1f802",
+  "extracted_at": "2026-09-14",
+  "extractor": {
+    "agent": "claude-code",
+    "prompt": "https://github.com/faultynode/prompts/blob/main/synthesis-pipeline/extraction-prompt.md",
+    "note": "Partial pass over Chapter I, §§ 1-2, where the reduction is read into Biran's method."
+  },
+  "coverage": "partial",
+  "coverage_note": "Covers Chapter I, § 1 (the phenomenological presuppositions of Biranian ontology) and § 2 (the transcendental deduction of the categories). Chapters II and V also carry hits and are not covered.",
+  "units": [
+    {
+      "id": "reduktion/henry-corps/001",
+      "locator": "henry-philosophie-et-phenomenologie-du-corps-commentary#h3-s-1-the-phenomenological-presuppositions-of-biranian-ontology",
+      "term": "phenomenological reduction",
+      "status": "introduced",
+      "claim": "Biran's discovery of a second kind of observation is said to coincide with the phenomenological reduction and to be one with it.",
+      "quote": "the moment of the discovery coincides with the phenomenological reduction, with which it is one"
+    },
+    {
+      "id": "reduktion/henry-corps/002",
+      "locator": "henry-philosophie-et-phenomenologie-du-corps-commentary#h3-s-1-the-phenomenological-presuppositions-of-biranian-ontology",
+      "term": "reduction",
+      "status": "presupposed",
+      "claim": "The idea of the reduction is read in the movement by which Biranian thought opposes construction, theory, hypothesis and probability.",
+      "quote": "The idea of such a reduction can also be read in the constant movement by which Biranian thought opposes everything that is construction, theory, hypothesis, probability"
+    },
+    {
+      "id": "reduktion/henry-corps/003",
+      "locator": "henry-philosophie-et-phenomenologie-du-corps-commentary#h3-s-1-the-phenomenological-presuppositions-of-biranian-ontology",
+      "term": "reduction (what it leads back to)",
+      "status": "presupposed",
+      "claim": "The foundation of psychology is the sphere of absolute certainty in which transcendental inner experiences are accomplished, the sphere the reduction leads back to.",
+      "quote": "that foundation is furnished by the sphere of existence where transcendental inner experiences are accomplished, the sphere of absolute certainty to which the reduction has led us back"
+    },
+    {
+      "id": "reduktion/henry-corps/004",
+      "locator": "henry-philosophie-et-phenomenologie-du-corps-commentary#h3-s-2-the-transcendental-deduction-of-the-categories",
+      "term": "phenomenological reduction",
+      "status": "criticized",
+      "claim": "Theories of knowledge erected outside the sphere of certainty that is subjectivity have a content that can only fall under the phenomenological reduction.",
+      "quote": "one has left the sphere of certainty that is subjectivity, one erects theories of knowledge whose content can only fall under the phenomenological reduction"
+    },
+    {
+      "id": "reduktion/henry-corps/005",
+      "locator": "henry-philosophie-et-phenomenologie-du-corps-commentary#h3-s-2-the-transcendental-deduction-of-the-categories",
+      "term": "reduction (applied to innateness)",
+      "status": "presupposed",
+      "claim": "Biran subjects innateness to the reduction and recovers it within immanence, in the phenomenological transcendental ego.",
+      "quote": "Biran subjects innateness to the reduction and recovers it in the sphere of immanence, endowed with its true sense"
+    },
+    {
+      "id": "reduktion/henry-corps/006",
+      "locator": "henry-philosophie-et-phenomenologie-du-corps-commentary#h3-s-2-the-transcendental-deduction-of-the-categories",
+      "term": "deduction as reduction",
+      "status": "revised",
+      "claim": "The transcendental deduction of the categories is in reality a reduction, since to deduce a category is to reduce its being to what it originally and irreducibly is.",
+      "quote": "The deduction is in reality a reduction: to deduce a category is to reduce its being to what it originally is, this time irreducibly."
+    },
+    {
+      "id": "reduktion/henry-corps/007",
+      "locator": "henry-philosophie-et-phenomenologie-du-corps-commentary#h3-s-2-the-transcendental-deduction-of-the-categories",
+      "term": "phenomenological reduction of empiricism and positivism",
+      "status": "criticized",
+      "claim": "The reduction performed by empiricism and positivism holds only on the plane of transcendent being, where it shows there is no room for the idea of causality.",
+      "quote": "The phenomenological reduction performed by empiricism and positivism is true on its own plane, that of transcendent being"
+    },
+    {
+      "id": "reduktion/henry-corps/008",
+      "locator": "henry-philosophie-et-phenomenologie-du-corps-commentary#h3-s-2-the-transcendental-deduction-of-the-categories",
+      "term": "phenomenological reduction in Biranism",
+      "status": "revised",
+      "claim": "The Biranian reduction does not put the being of the world in question but circumscribes what in that being is original and genuinely certain.",
+      "quote": "There is indeed a phenomenological reduction in Biranism, but unlike what some commentators on Husserl suppose, it does not put the being of the world in question; it seeks rather to circumscribe what in such being is original and enjoys genuine certainty."
+    }
+  ],
+  "absences": []
+}

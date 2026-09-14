@@ -1,0 +1,73 @@
+{
+  "schema_version": 1,
+  "theme": "reduktion",
+  "commentary": "husserl-natur-und-geist-commentary",
+  "source_sha256": "14f1f234e659bbc695dd081170fbca7b835617d38f83eeeefe19f99944528172",
+  "extracted_at": "2026-09-14",
+  "extractor": {
+    "agent": "claude-code",
+    "prompt": "https://github.com/faultynode/prompts/blob/main/synthesis-pipeline/extraction-prompt.md",
+    "note": "Partial pass over the section that states the method, plus the section on the pure ego-attitude."
+  },
+  "coverage": "partial",
+  "coverage_note": "Covers 'The Method of Phenomenological Reduction. Transcendental Phenomenology as A Priori Science of Pure Consciousness' and 'The Pure Ego-Attitude and the Idea of a Transcendental Phenomenology' in Part I. The remaining sections of Part I and all of Part II are not covered.",
+  "units": [
+    {
+      "id": "reduktion/natur-geist/001",
+      "locator": "husserl-natur-und-geist-commentary#h3-the-method-of-phenomenological-reduction-transcendental-phenomenology-as-a-prior",
+      "term": "phenomenological reduction, phenomenological epoché",
+      "status": "introduced",
+      "claim": "The first and most important piece of the reduction is the phenomenological epoché suspending the totality of outer realities, hence the whole universe.",
+      "quote": "The first and most important piece of this reduction is the suspension, the phenomenological epoché regarding the totality of outer realities, hence of the whole universe."
+    },
+    {
+      "id": "reduktion/natur-geist/002",
+      "locator": "husserl-natur-und-geist-commentary#h3-the-method-of-phenomenological-reduction-transcendental-phenomenology-as-a-prior",
+      "term": "epoché (its two components)",
+      "status": "presupposed",
+      "claim": "The reduction has two components: suspension of all position-taking on the existence of external realities, and the recognition that the being of consciousness survives that suspension.",
+      "quote": "It has two components: (1) the epoché — the suspension of all position-taking regarding the existence of external realities; and (2) the recognition that this suspension leaves the being of consciousness itself intact."
+    },
+    {
+      "id": "reduktion/natur-geist/003",
+      "locator": "husserl-natur-und-geist-commentary#h3-the-method-of-phenomenological-reduction-transcendental-phenomenology-as-a-prior",
+      "term": "phenomenological reduction (as against Cartesian doubt)",
+      "status": "revised",
+      "claim": "The reduction is not a repetition of Cartesian doubt: indubitability is a characteristic of the domain it discloses rather than the aim of the procedure.",
+      "quote": "The phenomenological reduction is not a repetition of Cartesian doubt but an essentially new methodological achievement."
+    },
+    {
+      "id": "reduktion/natur-geist/004",
+      "locator": "husserl-natur-und-geist-commentary#h3-the-method-of-phenomenological-reduction-transcendental-phenomenology-as-a-prior",
+      "term": "bracketing of all objective existences",
+      "status": "criticized",
+      "claim": "The bracketing harbours no skepticism about objective existences and relinquishes no conviction about the world; it is a methodological principle of abstaining from judging about the objective.",
+      "quote": "the bracketing of all objective existences, does not harbor any skepticism regarding them or indeed a devaluation of what we call \"objective existence.\""
+    },
+    {
+      "id": "reduktion/natur-geist/005",
+      "locator": "husserl-natur-und-geist-commentary#h3-the-method-of-phenomenological-reduction-transcendental-phenomenology-as-a-prior",
+      "term": "reduction (and the world as correlate)",
+      "status": "revised",
+      "claim": "The world is not simply excluded by the reduction but rediscovered within consciousness as its intentional correlate, which opens constitutional phenomenology as a field.",
+      "quote": "the world is not simply excluded by the reduction but rediscovered within consciousness as its intentional correlate"
+    },
+    {
+      "id": "reduktion/natur-geist/006",
+      "locator": "husserl-natur-und-geist-commentary#h3-the-method-of-phenomenological-reduction-transcendental-phenomenology-as-a-prior",
+      "term": "comprehensive reduction",
+      "status": "presupposed",
+      "claim": "What remains after the comprehensive reduction is transcendental phenomenology as an a priori science of the essential structures of pure consciousness.",
+      "quote": "What remains after this comprehensive reduction is transcendental phenomenology: an a priori science of the essential structures of pure consciousness."
+    },
+    {
+      "id": "reduktion/natur-geist/007",
+      "locator": "husserl-natur-und-geist-commentary#h3-the-pure-ego-attitude-and-the-idea-of-a-transcendental-phenomenology",
+      "term": "theoretical reduction",
+      "status": "introduced",
+      "claim": "A theoretical reduction is described as the exclusion of all theoretical and other opinions gained through justifying thinking, leaving what is found in perceptual givennesses.",
+      "quote": "in theoretical reduction, i.e., under exclusion of all theoretical and in general all opinions gained through justifying thinking"
+    }
+  ],
+  "absences": []
+}
