@@ -1,0 +1,73 @@
+{
+  "schema_version": 1,
+  "theme": "reduktion",
+  "commentary": "franck-heidegger-and-the-problem-of-space-commentary",
+  "source_sha256": "d848e42de14b4751394aaff4dcb3a4bfab8fc83ce54b6f03d6bcd91746441123",
+  "extracted_at": "2026-09-14",
+  "extractor": {
+    "agent": "claude-code",
+    "prompt": "https://github.com/faultynode/prompts/blob/main/synthesis-pipeline/extraction-prompt.md",
+    "note": "Partial pass over the Introduction and Chapter I, where the three components of the phenomenological method — reduction, construction, destruction — are set out."
+  },
+  "coverage": "partial",
+  "coverage_note": "Covers the Introduction and Chapter I, 'The Question of Being'. The later chapters on space are not covered.",
+  "units": [
+    {
+      "id": "reduktion/franck-space/001",
+      "locator": "franck-heidegger-and-the-problem-of-space-commentary#h2-introduction",
+      "term": "phenomenological destruction of the tradition",
+      "status": "presupposed",
+      "claim": "The incompletion of Sein und Zeit is not explained by obstacles in the phenomenological destruction of the tradition, much of which Heidegger had already accomplished.",
+      "quote": "Does the incompletion mean that the *phenomenological destruction of the tradition* presented insurmountable obstacles that forbade its execution?"
+    },
+    {
+      "id": "reduktion/franck-space/002",
+      "locator": "franck-heidegger-and-the-problem-of-space-commentary#h1-chapter-i-the-question-of-being",
+      "term": "reduction of consciousness",
+      "status": "presupposed",
+      "claim": "The relation of being to the essence of the human being is inaccessible without a displacement and reduction of consciousness, since from consciousness things cannot be reached in their worldliness.",
+      "quote": "inaccessible without the *displacement and reduction of consciousness* (because from consciousness it is impossible to reach things in their very being, i.e. in their *worldliness*)"
+    },
+    {
+      "id": "reduktion/franck-space/003",
+      "locator": "franck-heidegger-and-the-problem-of-space-commentary#h1-chapter-i-the-question-of-being",
+      "term": "reduction (Husserlian parallel)",
+      "status": "presupposed",
+      "claim": "As transcendental subjectivity covered over by the psyche surges forth in its own being thanks to the reduction, so Dasein initially understands itself from out of the world of things.",
+      "quote": "Just as, according to Husserl, *transcendental subjectivity* — covered over by the *psyche* (ψυχή) — surges forth in its own being *thanks to the reduction* (the psyche being only its *mundanization*)"
+    },
+    {
+      "id": "reduktion/franck-space/004",
+      "locator": "franck-heidegger-and-the-problem-of-space-commentary#h1-chapter-i-the-question-of-being",
+      "term": "phenomenological reduction",
+      "status": "introduced",
+      "claim": "The phenomenological reduction is defined as the leading-back of the inquiring gaze from naively grasped beings toward being.",
+      "quote": "the fundamental component of the phenomenological method, in the sense of the *leading-back of the inquiring gaze from naively grasped beings toward being*, is what is designated *phenomenological reduction*"
+    },
+    {
+      "id": "reduktion/franck-space/005",
+      "locator": "franck-heidegger-and-the-problem-of-space-commentary#h1-chapter-i-the-question-of-being",
+      "term": "transcendental reduction (contrast)",
+      "status": "revised",
+      "claim": "This reduction shares with Husserl's transcendental reduction only the purely formal trait of a conversion of the gaze, and nothing of its content.",
+      "quote": "this reduction shares with Husserl's *transcendental* reduction *only the purely formal trait* of a *conversion of the gaze* — and nothing of its content"
+    },
+    {
+      "id": "reduktion/franck-space/006",
+      "locator": "franck-heidegger-and-the-problem-of-space-commentary#h1-chapter-i-the-question-of-being",
+      "term": "phenomenological construction",
+      "status": "introduced",
+      "claim": "The second component is phenomenological construction, the projection of the pre-given being with regard to its being and ontological structures.",
+      "quote": "The *projection of the pre-given being*, with regard to its being and its ontological structures, is what is called *phenomenological construction*."
+    },
+    {
+      "id": "reduktion/franck-space/007",
+      "locator": "franck-heidegger-and-the-problem-of-space-commentary#h1-chapter-i-the-question-of-being",
+      "term": "destruction",
+      "status": "introduced",
+      "claim": "The third component is destruction, required because the history of ontology covers over the possibility of fundamental-ontological construction as a forgetting of the first experiences of being.",
+      "quote": "The history of ontology *covers over* the possibility of fundamental-ontological construction; it constitutes a *forgetting of the first experiences of being* that lie at the origin of metaphysics."
+    }
+  ],
+  "absences": []
+}

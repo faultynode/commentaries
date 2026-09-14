@@ -1,0 +1,71 @@
+{
+  "schema_version": 1,
+  "theme": "reduktion",
+  "commentary": "husserl-thing-and-space-commentary",
+  "source_sha256": "e0d0451d72ec96da3d81ae5556439940774ed1e7a51cb3d8a40eb1cf5affde23",
+  "extracted_at": "2026-09-14",
+  "extractor": {
+    "agent": "claude-code",
+    "prompt": "https://github.com/faultynode/prompts/blob/main/synthesis-pipeline/extraction-prompt.md",
+    "note": "Partial pass over the opening sections, where the reduction is stated as the standing condition of the whole course."
+  },
+  "coverage": "partial",
+  "coverage_note": "Covers §§ 1, 2, 3, 4, 6 and 8 — the situating of the lectures after the Five Lectures, the restriction of the field, the reduction in operation, intentionality, the asymmetry of immanent and transcendent givenness, and the broadened concept of perception. Later sections of the lectures carry hits and are not covered.",
+  "units": [
+    {
+      "id": "reduktion/thing-space/001",
+      "locator": "husserl-thing-and-space-commentary#h3-s1-the-world-of-natural-experience-and-the-world-of-scientific-theory",
+      "primary_locator": "Hua XVI § 1; The Idea of Phenomenology",
+      "term": "phenomenological reduction",
+      "status": "presupposed",
+      "claim": "The course begins from an already completed general introduction in which the concepts of phenomenological reduction and pure phenomenon were provisionally clarified.",
+      "quote": "The concepts of phenomenological reduction, pure phenomenon, and the constitution of the object of cognition within cognition have been clarified, at least provisionally."
+    },
+    {
+      "id": "reduktion/thing-space/002",
+      "locator": "husserl-thing-and-space-commentary#h3-s2-restriction-of-the-field-of-research-the-preliminary-concept-of-outer-percept",
+      "primary_locator": "Hua XVI § 2",
+      "term": "principle of the phenomenological reduction",
+      "status": "presupposed",
+      "claim": "The determinations of psychologists and philosophers cannot be taken over, because the goal of purely phenomenological analysis and the principle of the reduction are alien to them.",
+      "quote": "The goal of purely phenomenological analysis and the principle of the phenomenological reduction are alien to them"
+    },
+    {
+      "id": "reduktion/thing-space/003",
+      "locator": "husserl-thing-and-space-commentary#h3-s3-essential-cognition-of-perception-on-the-basis-of-phantasized-perceptions",
+      "primary_locator": "Hua XVI § 3",
+      "term": "phenomenological reduction (in operation)",
+      "status": "presupposed",
+      "claim": "The preliminary consideration already employs the reduction: physical existence has no validity as existence and such questions are left entirely out of play.",
+      "quote": "Physical existence does not have validity as existence; such questions are completely left out of play."
+    },
+    {
+      "id": "reduktion/thing-space/004",
+      "locator": "husserl-thing-and-space-commentary#h3-s4-intentionality-as-the-essential-determination-of-perception",
+      "primary_locator": "Hua XVI § 4",
+      "term": "phenomenological reduction applied to perception",
+      "status": "revised",
+      "claim": "Applied to perception, the reduction separates the perceptual character of presence-in-the-flesh from the question of the existence of the perceived, which illusion and veridical perception share.",
+      "quote": "It is the phenomenological reduction applied specifically to perception: we study the *essence* of perceptual givenness (the character of bodily presence) without presupposing or denying the existence of what is so given."
+    },
+    {
+      "id": "reduktion/thing-space/005",
+      "locator": "husserl-thing-and-space-commentary#h3-s6-assertions-about-perceptions-and-assertions-about-perceived-objects-real-reel",
+      "primary_locator": "Hua XVI § 6",
+      "term": "phenomenological reduction (and immanence)",
+      "status": "presupposed",
+      "claim": "The perception subjected to the reduction is an absolute, immanent givenness, while its intentional object remains transcendent.",
+      "quote": "The perception, subjected to phenomenological reduction, is an **absolute givenness** — I possess it, as it were, for itself, with all that essentially makes it up."
+    },
+    {
+      "id": "reduktion/thing-space/006",
+      "locator": "husserl-thing-and-space-commentary#h3-s8-the-absolute-givenness-of-perception-in-phenomenological-reflection-broadenin",
+      "primary_locator": "Hua XVI § 8",
+      "term": "phenomenological reduction (and reflection)",
+      "status": "revised",
+      "claim": "Any lived experience to which the regard is directed under the reduction is given indubitably, absolutely and really, which broadens the concept of perception beyond the givenness of things.",
+      "quote": "Any lived experience, insofar as the regard is directed to it under the phenomenological reduction, is indubitably given — given absolutely and really."
+    }
+  ],
+  "absences": []
+}
