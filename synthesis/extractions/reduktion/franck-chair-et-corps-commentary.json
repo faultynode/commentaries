@@ -1,0 +1,84 @@
+{
+  "schema_version": 1,
+  "theme": "reduktion",
+  "commentary": "franck-chair-et-corps-commentary",
+  "source_sha256": "0757213bac9658321459643d6202563f502dbbf2f877f1e30d07dd34c897d9d5",
+  "extracted_at": "2026-09-14",
+  "extractor": {
+    "agent": "claude-code",
+    "prompt": "https://github.com/faultynode/prompts/blob/main/synthesis-pipeline/extraction-prompt.md",
+    "note": "Partial pass over Chapter Two and Chapter Five, where the reduction and the eidetic reduction are thematic."
+  },
+  "coverage": "partial",
+  "coverage_note": "Covers Chapter Two, 'Science as Egology', and Chapter Five, 'Eidetic Reduction and Archi-Facticity'. Chapters Six, Eight and Nine also carry hits and are not covered.",
+  "units": [
+    {
+      "id": "reduktion/franck-chair/001",
+      "locator": "franck-chair-et-corps-commentary#h2-chapter-two-science-as-egology",
+      "primary_locator": "Cartesian Meditations, First Meditation",
+      "term": "phenomenological reduction",
+      "status": "revised",
+      "claim": "The reduction is distinguished from Cartesian doubt: it neither negates nor doubts, it is definitive and universal, and it encompasses the psyche that Descartes leaves intact.",
+      "quote": "the phenomenological reduction does not operate through doubt: it never involves negation. It is definitive and universal, and it also encompasses the psyche (whereas Descartes leaves the psyche intact as the foundation)"
+    },
+    {
+      "id": "reduktion/franck-chair/002",
+      "locator": "franck-chair-et-corps-commentary#h2-chapter-two-science-as-egology",
+      "term": "the reduction",
+      "status": "introduced",
+      "claim": "The reduction is the pivot and permanent theme of Husserl's enterprise, the pure origin of all meaning and what opens the phenomenological domain.",
+      "quote": "The reduction is the pivot and the permanent theme of Husserl's entire enterprise. It is the pure origin of all meaning and what opens the phenomenological \"domain.\""
+    },
+    {
+      "id": "reduktion/franck-chair/003",
+      "locator": "franck-chair-et-corps-commentary#h2-chapter-two-science-as-egology",
+      "primary_locator": "Cartesian Meditations",
+      "term": "reduction (its introduction in the Meditations)",
+      "status": "criticized",
+      "claim": "The reduction is introduced under pressure from a demand for apodicticity that can only be formulated if the field of transcendental experience is already pre-given.",
+      "quote": "This is done under the pressure of the demand for apodicticity, a demand that itself can only be formulated on the presupposition that the field of transcendental experience is already pre-given."
+    },
+    {
+      "id": "reduktion/franck-chair/004",
+      "locator": "franck-chair-et-corps-commentary#h2-chapter-two-science-as-egology",
+      "term": "putting out of play",
+      "status": "presupposed",
+      "claim": "What the reduction puts out of play is the thesis of the natural attitude, that the world is a reality in itself.",
+      "quote": "What is \"put out of play\" by the reduction is the thesis of the natural attitude — the thesis that the world is a reality in itself, the root of all naturalism."
+    },
+    {
+      "id": "reduktion/franck-chair/005",
+      "locator": "franck-chair-et-corps-commentary#h2-chapter-two-science-as-egology",
+      "term": "reduction (historical sense)",
+      "status": "revised",
+      "claim": "Beyond its methodological function the reduction has a historical sense, putting out of play the modern ontology of mathematical-physical nature.",
+      "quote": "The reduction therefore has, beyond its methodological function, a historical sense: it puts out of play the traditional, modern ontology — the ontology of mathematical-physical nature."
+    },
+    {
+      "id": "reduktion/franck-chair/006",
+      "locator": "franck-chair-et-corps-commentary#h2-chapter-five-eidetic-reduction-and-archi-facticity",
+      "term": "reduction (and the pure I)",
+      "status": "presupposed",
+      "claim": "Running through the flux of lived experiences under the reduction never yields the pure I as itself a lived or original experience.",
+      "quote": "If, under the reduction, we run through the flux of lived experiences, we will never grasp the pure I as a lived or original experience itself."
+    },
+    {
+      "id": "reduktion/franck-chair/007",
+      "locator": "franck-chair-et-corps-commentary#h2-chapter-five-eidetic-reduction-and-archi-facticity",
+      "primary_locator": "Ideas I",
+      "term": "the transcendentally absolute produced by the reductions",
+      "status": "criticized",
+      "claim": "Husserl warns that what the reductions produce as transcendentally absolute is not what is ultimate, but constitutes itself from a primal source that is truly absolute.",
+      "quote": "the transcendentally \"absolute\" that the reductions have produced is not really what is ultimate; it is something that constitutes itself in a profound and completely peculiar sense of its own, with its primal source in what is ultimately and truly absolute"
+    },
+    {
+      "id": "reduktion/franck-chair/008",
+      "locator": "franck-chair-et-corps-commentary#h2-chapter-five-eidetic-reduction-and-archi-facticity",
+      "term": "eidetic analysis",
+      "status": "introduced",
+      "claim": "The charge that transcendental analysis merely transfers the empirical de facto ego onto the transcendental is met only by the transcendental analysis becoming eidetic.",
+      "quote": "Indeed — this would be the case if the transcendental analysis did not become an *eidetic* analysis."
+    }
+  ],
+  "absences": []
+}

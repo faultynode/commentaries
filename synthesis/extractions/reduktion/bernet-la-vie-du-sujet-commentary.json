@@ -1,0 +1,125 @@
+{
+  "schema_version": 1,
+  "theme": "reduktion",
+  "commentary": "bernet-la-vie-du-sujet-commentary",
+  "source_sha256": "4269d26270bb4f610dfccc053738781719d3fd12980aa525092b4633187232af",
+  "extracted_at": "2026-09-14",
+  "extractor": {
+    "agent": "claude-code",
+    "prompt": "https://github.com/faultynode/prompts/blob/main/synthesis-pipeline/extraction-prompt.md",
+    "note": "Partial pass over the Introduction, where the reduction is the commentary's explicit subject."
+  },
+  "coverage": "partial",
+  "coverage_note": "Covers the Introduction, 'The Phenomenological Reduction and the Subject's Double Life', through its Husserl half and the 'Heidegger' section (lines 23-88): the framing of the reduction, the Fink Sixth Cartesian Meditation material, and the comparison with Heidegger. The two Heidegger subsections that follow and the later chapters are not covered.",
+  "units": [
+    {
+      "id": "reduktion/bernet/001",
+      "locator": "bernet-la-vie-du-sujet-commentary#h2-introduction-the-phenomenological-reduction-and-the-subject-s-double-life",
+      "primary_locator": "La vie du sujet, pp. 5-6",
+      "term": "reduction (Rückführung)",
+      "status": "introduced",
+      "claim": "The reduction is agreed across the current French debate to be a leading-back of philosophical thought to phenomena that the reduction itself first makes appear.",
+      "quote": "Everyone treats the reduction as a leading-back (*Rückführung*) of philosophical thought to phenomena; but the phenomena in question are those whose appearing requires the reduction itself"
+    },
+    {
+      "id": "reduktion/bernet/002",
+      "locator": "bernet-la-vie-du-sujet-commentary#h2-introduction-the-phenomenological-reduction-and-the-subject-s-double-life",
+      "primary_locator": "La vie du sujet, pp. 7-8",
+      "term": "reduction",
+      "status": "revised",
+      "claim": "Bernet places the scission the reduction opens inside the phenomenological phenomenon itself rather than between phenomenological and ordinary phenomena.",
+      "quote": "The scission the reduction introduces thus falls not between rational phenomenological phenomena and irrational ordinary ones but within the phenomenological phenomenon itself"
+    },
+    {
+      "id": "reduktion/bernet/003",
+      "locator": "bernet-la-vie-du-sujet-commentary#h2-introduction-the-phenomenological-reduction-and-the-subject-s-double-life",
+      "primary_locator": "La vie du sujet, pp. 8-9",
+      "term": "impartial spectator",
+      "status": "introduced",
+      "claim": "Husserl distinguishes the world-constituting subject, which the reduction exhibits, from the impartial spectator, which performs the reduction.",
+      "quote": "the first is what the reduction gives to be seen, the second is the agent who performs it"
+    },
+    {
+      "id": "reduktion/bernet/004",
+      "locator": "bernet-la-vie-du-sujet-commentary#h3-husserl",
+      "primary_locator": "La vie du sujet, p. 10; Fink, Sixth Cartesian Meditation",
+      "term": "Husserlian reduction",
+      "status": "introduced",
+      "claim": "Fink's text presents the ontological import of the Husserlian reduction as making the difference between the being of the world and the pre-being of transcendental consciousness appear.",
+      "quote": "which is meant to make appear the difference between the \"being\" of the world and the \"pre-being\" (*Vor-Sein*) of transcendental consciousness"
+    },
+    {
+      "id": "reduktion/bernet/005",
+      "locator": "bernet-la-vie-du-sujet-commentary#h4-the-being-of-the-world-and-the-being-of-constituting-consciousness",
+      "primary_locator": "La vie du sujet, pp. 11-12",
+      "term": "reduction (motivation of)",
+      "status": "presupposed",
+      "claim": "The Sixth Meditation finds no motive within natural life capable of compelling the change of life the reduction requires.",
+      "quote": "No difficulty met with in natural life, no desire for clarification, no will to do scientific work has the power to extract a human being from immersion in the natural life accomplished within the world."
+    },
+    {
+      "id": "reduktion/bernet/006",
+      "locator": "bernet-la-vie-du-sujet-commentary#h4-the-being-of-the-world-and-the-being-of-constituting-consciousness",
+      "primary_locator": "La vie du sujet, pp. 12-13",
+      "term": "reduction as reflection",
+      "status": "criticized",
+      "claim": "The passage from the natural to the phenomenological phenomenon is not a reflective doubling of consciousness but a scission, and neither the subject-object nor the higher-order-consciousness model of reflection applies.",
+      "quote": "It neither sets the constituting subject before the gaze by separating it from the constituted object, nor makes constituting consciousness the object of a second constituting consciousness."
+    },
+    {
+      "id": "reduktion/bernet/007",
+      "locator": "bernet-la-vie-du-sujet-commentary#h4-the-being-of-the-world-and-the-being-of-constituting-consciousness",
+      "primary_locator": "La vie du sujet, p. 13",
+      "term": "reduction (ontological aim)",
+      "status": "revised",
+      "claim": "What the spectator first makes appear is the ontological difference between constituting consciousness and constituted world, so the reduction's aim is ontological.",
+      "quote": "What appears for the first time thanks to the spectator is the ontological difference between constituting consciousness and constituted world"
+    },
+    {
+      "id": "reduktion/bernet/008",
+      "locator": "bernet-la-vie-du-sujet-commentary#h4-the-being-of-constituting-consciousness-and-the-being-of-the-phenomenological-sp",
+      "primary_locator": "La vie du sujet, pp. 14-15",
+      "term": "Spaltung (split), universal epoché",
+      "status": "introduced",
+      "claim": "The split of the transcendental subject follows directly from the reduction: in the universal epoché the spectator produces itself by separating from constituting consciousness.",
+      "quote": "The split (*Spaltung*) of the transcendental subject follows directly from the reduction: in the universal epoché the phenomenological spectator produces itself, separating itself from constituting consciousness in order to make the latter appear as its counterpart."
+    },
+    {
+      "id": "reduktion/bernet/009",
+      "locator": "bernet-la-vie-du-sujet-commentary#h4-the-being-of-constituting-consciousness-and-the-being-of-the-phenomenological-sp",
+      "primary_locator": "La vie du sujet, pp. 14-15",
+      "term": "phenomenological spectator",
+      "status": "presupposed",
+      "claim": "The spectator, unlike constituting consciousness, has no anonymous pre-reductive existence in natural life.",
+      "quote": "There is, by contrast, no phenomenological spectator that would be ignorant of itself while working anonymously in natural life — the spectator does not exist before the reduction."
+    },
+    {
+      "id": "reduktion/bernet/010",
+      "locator": "bernet-la-vie-du-sujet-commentary#h4-the-being-of-constituting-consciousness-and-the-being-of-the-phenomenological-sp",
+      "primary_locator": "La vie du sujet, p. 16",
+      "term": "Unbeteiligtheit (non-participation) of the spectator",
+      "status": "criticized",
+      "claim": "Husserl corrects Fink's account of the spectator's worldlessness by redescribing its disinterest as a different interest, in the world's origin in transcendental consciousness.",
+      "quote": "Husserl's correction is the more accurate formulation: the spectator is interested in the origin of the world in transcendental consciousness, rather than uninterested in the world."
+    },
+    {
+      "id": "reduktion/bernet/011",
+      "locator": "bernet-la-vie-du-sujet-commentary#h3-heidegger",
+      "primary_locator": "La vie du sujet, pp. 18-19; Heidegger 1927 course",
+      "term": "phenomenological reduction (Heidegger's formulation)",
+      "status": "revised",
+      "claim": "Heidegger keeps the reduction as a fundamental piece of phenomenological method while redirecting it from transcendental consciousness to the understanding of the being of a being.",
+      "quote": "For Heidegger, it leads the gaze back from any grasp whatever of a being to the understanding of the being of that being, projected upon the mode of its unconcealment (*Unverborgenheit*)."
+    },
+    {
+      "id": "reduktion/bernet/012",
+      "locator": "bernet-la-vie-du-sujet-commentary#h3-heidegger",
+      "primary_locator": "La vie du sujet, pp. 20-21",
+      "term": "second reduction (anxiety, call of conscience)",
+      "status": "revised",
+      "claim": "Anxiety performs in Heidegger what the reduction performs in Husserl and Fink, bringing Dasein before a new self and before the phenomenon of its own being.",
+      "quote": "Like the reduction in Husserl and Fink, anxiety brings it about that Dasein, finding itself face to face and alone with itself, encounters for the first time not only a new self but the phenomenon of its own being."
+    }
+  ],
+  "absences": []
+}
