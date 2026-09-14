@@ -4,9 +4,208 @@
 
 *The shape of care across GA 17 → GA 18 → GA 19 → GA 20 → SZ is visible mainly in what is not yet there. Absences carry the periodization.*
 
-11 units and 5 recorded absences from 2 commentaries.
+39 units and 12 recorded absences from 5 commentaries.
 
 ## Primary corpus, by composition or delivery date
+
+### 1921-1922 - Heidegger, GA 61 — Phenomenological Interpretations of Aristotle
+
+`heidegger-ga-61-phenomenological-interpretations-of-aristotle-commentary`
+
+- **introduced** · `sorge/ga61/001` · *Sorgen*
+  Life in its verbal sense is interpreted according to its relational sense as caring, and caring is said to characterise living in every mode, revelry and indifference included.
+  `heidegger-ga-61-phenomenological-interpretations-of-aristotle-commentary#h4-b-relational-sense-of-life-caring` · [B. Relational Sense of Life: Caring](https://faultynode.github.io/commentaries/commentaries/heidegger/heidegger-ga-61-phenomenological-interpretations-of-aristotle-commentary.html#b-relational-sense-of-life-caring)
+  > Life, taken in the verbal sense, is to be interpreted according to its relational sense as caring (*Sorgen*): caring for and about something, caringly living from and out of the world.
+
+- **introduced** · `sorge/ga61/002` · *Bedeutsamkeit*
+  What caring is directed at and holds to is significance, a categorial determination of world, so that the objects of a world are lived in the character of significance.
+  `heidegger-ga-61-phenomenological-interpretations-of-aristotle-commentary#h4-b-relational-sense-of-life-caring` · [B. Relational Sense of Life: Caring](https://faultynode.github.io/commentaries/commentaries/heidegger/heidegger-ga-61-phenomenological-interpretations-of-aristotle-commentary.html#b-relational-sense-of-life-caring)
+  > What caring is directed at and holds to is to be determined as significance (*Bedeutsamkeit*). Significance is a categorial determination of world; the objects of a world are lived in the character of significance.
+
+- **presupposed** · `sorge/ga61/003` · *caring*
+  The broadest relational sense of life is caring about daily bread, and privation is named the fundamental how of the sense of being of life.
+  `heidegger-ga-61-phenomenological-interpretations-of-aristotle-commentary#h4-b-relational-sense-of-life-caring` · [B. Relational Sense of Life: Caring](https://faultynode.github.io/commentaries/commentaries/heidegger/heidegger-ga-61-phenomenological-interpretations-of-aristotle-commentary.html#b-relational-sense-of-life-caring)
+  > Life in its most broadly grasped relational sense is: caring about "daily bread" — understood in the broadest, formally indicative sense.
+
+- **presupposed** · `sorge/ga61/004` · *caring*
+  Caring always proceeds in a directive, determinate or indeterminate, secure or fluttering.
+  `heidegger-ga-61-phenomenological-interpretations-of-aristotle-commentary#h5-b-directives-of-caring` · [b) Directives of Caring](https://faultynode.github.io/commentaries/commentaries/heidegger/heidegger-ga-61-phenomenological-interpretations-of-aristotle-commentary.html#b-directives-of-caring)
+  > Caring always proceeds in a determinate or indeterminate, secure or fluttering directive (*Weisung*).
+
+- **introduced** · `sorge/ga61/005` · *Abriegelung*
+  Barricading is the third character of the relational sense of caring: because caring factically consolidates itself in being-inclined, the appropriation of what stands before it fails to occur.
+  `heidegger-ga-61-phenomenological-interpretations-of-aristotle-commentary#h5-c-barricading` · [c) Barricading](https://faultynode.github.io/commentaries/commentaries/heidegger/heidegger-ga-61-phenomenological-interpretations-of-aristotle-commentary.html#c-barricading)
+  > insofar as caring in the fundamental how of its enactment — the being-inclined — factically lives and consolidates itself, the appropriation of the "before" fails to occur
+
+- **introduced** · `sorge/ga61/006` · *Besorgnis*
+  Caring has it in for itself in its enactment, and where caring takes itself into care it is itself overtaken by caring; this being-concerned is determined as concern.
+  `heidegger-ga-61-phenomenological-interpretations-of-aristotle-commentary#h5-a-intensification-of-care-concern-besorgnis` · [a) Intensification of Care: Concern (Besorgnis)](https://faultynode.github.io/commentaries/commentaries/heidegger/heidegger-ga-61-phenomenological-interpretations-of-aristotle-commentary.html#a-intensification-of-care-concern-besorgnis)
+  > The caring is "concerned" (*be-sorgt*), itself overtaken by caring, overloaded. This caring as being-concerned is determined as concern (*Besorgnis*).
+
+- **presupposed** · `sorge/ga61/007` · *Besorgnis*
+  In concern the full movedness of caring throws itself upon itself, so that the movedness of itself is itself moved - an intensification of the caring-movedness.
+  `heidegger-ga-61-phenomenological-interpretations-of-aristotle-commentary#h5-a-intensification-of-care-concern-besorgnis` · [a) Intensification of Care: Concern (Besorgnis)](https://faultynode.github.io/commentaries/commentaries/heidegger/heidegger-ga-61-phenomenological-interpretations-of-aristotle-commentary.html#a-intensification-of-care-concern-besorgnis)
+  > In concern, the full movedness of caring throws itself as it were upon itself — the movedness of itself is itself moved.
+
+#### Recorded absences
+
+- **absent** · `heidegger-ga-61-phenomenological-interpretations-of-aristotle-commentary#h5-b-the-principled-definition-of-philosophy`
+  Expected because: Philosophy is defined in principle here, and this course defines it out of factical life, whose relational sense Chapter 1 gives as caring. The definition is carried through without a term of the family.
+  The category is built later and is not yet available to the definition that motivates it.
+  [b) The Principled Definition of Philosophy](https://faultynode.github.io/commentaries/commentaries/heidegger/heidegger-ga-61-phenomenological-interpretations-of-aristotle-commentary.html#b-the-principled-definition-of-philosophy)
+
+- **absent** · `heidegger-ga-61-phenomenological-interpretations-of-aristotle-commentary#h2-part-iii-factical-life`
+  Expected because: The part that announces factical life as the theme, whose relational sense is caring a few sections on. No term of the family occurs in the announcement.
+  Worth keeping as the baseline for how late the term enters even where the phenomenon is the topic.
+  [Part III: Factical Life](https://faultynode.github.io/commentaries/commentaries/heidegger/heidegger-ga-61-phenomenological-interpretations-of-aristotle-commentary.html#part-iii-factical-life)
+
+*Partial pass: Chapter 1 of Part III (the basic categories of life: caring, its directives, barricading) and the intensification of caring into concern in the returning interpretation, with two checked absences earlier in the course. The movement categories and the Aristotle interpretation carry term hits and have not been extracted.*
+
+### 1923-1924 - Heidegger, GA 17 — Einführung in die phänomenologische Forschung
+
+`heidegger-ga-17-einfuhrung-in-die-phanomenologische-forschung-commentary`
+
+- **introduced** · `sorge/ga17/001` · *Sorge um erkannte Erkenntnis*
+  The care for known knowledge is named as what is alive in Husserl's demand for rigorous science: knowing is to be brought to a knowing of knowing, attestable from an ultimately secured ground.
+  `heidegger-ga-17-einfuhrung-in-die-phanomenologische-forschung-commentary#h4-s-7-husserl-s-confrontation-with-contemporary-philosophy-in-philosophy-as-rigoro` · GA 17 § 7 · [§ 7\. Husserl's confrontation with contemporary philosophy in "Philosophy as Rigorous Science," and the care for known knowledge alive in it. The general aim of the essay](https://faultynode.github.io/commentaries/commentaries/heidegger/heidegger-ga-17-einfuhrung-in-die-phanomenologische-forschung-commentary.html#husserls-confrontation-with-contemporary-philosophy-in-philosophy-as-rigorous-science-and-the-care-for-known-knowledge-alive-in-it-the-general-aim-of-the-essay)
+  > care for known knowledge*, such that the knowing of knowing becomes attestable from an ultimately secured ground.
+
+- **introduced** · `sorge/ga17/002` · *Rückschein*
+  Back-shine is the first structural moment of the care: what stands in the care determines everything that enters its field, and it is a moment of the care precisely insofar as the care knows nothing of itself.
+  `heidegger-ga-17-einfuhrung-in-die-phanomenologische-forschung-commentary#h4-s-12-characteristic-moments-of-the-care-for-known-knowledge-in-husserl-s-critiqu` · GA 17 § 12 · [§ 12\. Characteristic moments of the care for known knowledge in Husserl's critique of naturalism: back-shine, falling, building-ahead, ensnarement, omission](https://faultynode.github.io/commentaries/commentaries/heidegger/heidegger-ga-17-einfuhrung-in-die-phanomenologische-forschung-commentary.html#characteristic-moments-of-the-care-for-known-knowledge-in-husserls-critique-of-naturalism-back-shine-falling-building-ahead-ensnarement-omission)
+  > The back-shine is a moment of the care *insofar as the care knows nothing of itself*.
+
+- **introduced** · `sorge/ga17/003` · *Verfallen*
+  Falling is given as a moment of the care of knowing: the care has no time to reflect on whether what it deals with is determined by itself, and falls to what it cares for.
+  `heidegger-ga-17-einfuhrung-in-die-phanomenologische-forschung-commentary#h4-s-12-characteristic-moments-of-the-care-for-known-knowledge-in-husserl-s-critiqu` · GA 17 § 12 · [§ 12\. Characteristic moments of the care for known knowledge in Husserl's critique of naturalism: back-shine, falling, building-ahead, ensnarement, omission](https://faultynode.github.io/commentaries/commentaries/heidegger/heidegger-ga-17-einfuhrung-in-die-phanomenologische-forschung-commentary.html#characteristic-moments-of-the-care-for-known-knowledge-in-husserls-critique-of-naturalism-back-shine-falling-building-ahead-ensnarement-omission)
+  > the care has no time for reflection on whether what it deals with is in the end determined by itself; it falls to what it cares for, drawn by it inexpressly
+
+- **introduced** · `sorge/ga17/004` · *Verfängnis*
+  Ensnarement is the more originary moment: the care is what it is by ensnaring itself in itself, and this is said to belong more intimately to the being-character of Dasein.
+  `heidegger-ga-17-einfuhrung-in-die-phanomenologische-forschung-commentary#h4-s-12-characteristic-moments-of-the-care-for-known-knowledge-in-husserl-s-critiqu` · GA 17 § 12 · [§ 12\. Characteristic moments of the care for known knowledge in Husserl's critique of naturalism: back-shine, falling, building-ahead, ensnarement, omission](https://faultynode.github.io/commentaries/commentaries/heidegger/heidegger-ga-17-einfuhrung-in-die-phanomenologische-forschung-commentary.html#characteristic-moments-of-the-care-for-known-knowledge-in-husserls-critique-of-naturalism-back-shine-falling-building-ahead-ensnarement-omission)
+  > the care, absorbing itself in the cared-for, *is what it is by ensnaring itself in itself* — a ground-phenomenon Heidegger says belongs more intimately to the being-character of Dasein
+
+- **introduced** · `sorge/ga17/005` · *Umsicht*
+  Every care is seeing: a sightedness belongs to being-within-a-world, and each care has a directed regard alive in the enactment as circumspection, led by the care's intent.
+  `heidegger-ga-17-einfuhrung-in-die-phanomenologische-forschung-commentary#h4-s-16-the-disclosing-of-the-thematic-field-consciousness-by-the-care-for-known-kn` · GA 17 § 16 · [§ 16\. The disclosing of the thematic field "consciousness" by the care for known knowledge. Regress to the historical concretion of the care](https://faultynode.github.io/commentaries/commentaries/heidegger/heidegger-ga-17-einfuhrung-in-die-phanomenologische-forschung-commentary.html#the-disclosing-of-the-thematic-field-consciousness-by-the-care-for-known-knowledge-regress-to-the-historical-concretion-of-the-care)
+  > Every care has its *Hinblick*, a directed regard alive in the enactment as *Umsicht*, circumspection, led by what Heidegger calls the care's *Absicht*, its intent.
+
+- **presupposed** · `sorge/ga17/006` · *Sorge*
+  Care is declared a way of Dasein: facticity belongs to the what-being of the care itself, so that every care is in its being factical care.
+  `heidegger-ga-17-einfuhrung-in-die-phanomenologische-forschung-commentary#h4-s-16-the-disclosing-of-the-thematic-field-consciousness-by-the-care-for-known-kn` · GA 17 § 16 · [§ 16\. The disclosing of the thematic field "consciousness" by the care for known knowledge. Regress to the historical concretion of the care](https://faultynode.github.io/commentaries/commentaries/heidegger/heidegger-ga-17-einfuhrung-in-die-phanomenologische-forschung-commentary.html#the-disclosing-of-the-thematic-field-consciousness-by-the-care-for-known-knowledge-regress-to-the-historical-concretion-of-the-care)
+  > every care is in its being *factical* care — facticity belongs to the what-being of the care itself, which is to say the care *is a way of Dasein*
+
+- **presupposed** · `sorge/ga17/007` · *caring*
+  Being-in-a-world is glossed as having the world in the mode of caring for it, rather than as a relation between two objects.
+  `heidegger-ga-17-einfuhrung-in-die-phanomenologische-forschung-commentary#h4-s-16-the-disclosing-of-the-thematic-field-consciousness-by-the-care-for-known-kn` · GA 17 § 16 · [§ 16\. The disclosing of the thematic field "consciousness" by the care for known knowledge. Regress to the historical concretion of the care](https://faultynode.github.io/commentaries/commentaries/heidegger/heidegger-ga-17-einfuhrung-in-die-phanomenologische-forschung-commentary.html#the-disclosing-of-the-thematic-field-consciousness-by-the-care-for-known-knowledge-regress-to-the-historical-concretion-of-the-care)
+  > "in a world" names not two objects related but that the specific being of the living thing is grounded in *having* the world in the mode of caring for it
+
+- **introduced** · `sorge/ga17/008` · *care of knowing*
+  The care for known knowledge is only one possibility of the care of knowing, which has three: curiosity, security and bindingness.
+  `heidegger-ga-17-einfuhrung-in-die-phanomenologische-forschung-commentary#h4-s-22-three-possibilities-of-the-care-of-knowing-curiosity-security-bindingness` · GA 17 § 22 · [§ 22\. Three possibilities of the care of knowing: curiosity, security, bindingness](https://faultynode.github.io/commentaries/commentaries/heidegger/heidegger-ga-17-einfuhrung-in-die-phanomenologische-forschung-commentary.html#three-possibilities-of-the-care-of-knowing-curiosity-security-bindingness)
+  > The care of knowing has three: *curiosity* (Neugier), *security* (Sicherheit), and *bindingness* (Verbindlichkeit).
+
+- **introduced** · `sorge/ga17/009` · *Neugier*
+  Curiosity is a care that wants only ever-new possibilities of knowing, no longer caring what it knows or the being of what it knows.
+  `heidegger-ga-17-einfuhrung-in-die-phanomenologische-forschung-commentary#h4-s-22-three-possibilities-of-the-care-of-knowing-curiosity-security-bindingness` · GA 17 § 22 · [§ 22\. Three possibilities of the care of knowing: curiosity, security, bindingness](https://faultynode.github.io/commentaries/commentaries/heidegger/heidegger-ga-17-einfuhrung-in-die-phanomenologische-forschung-commentary.html#three-possibilities-of-the-care-of-knowing-curiosity-security-bindingness)
+  > it wants only the possibility of pressing ever further, no longer caring *what* it knows, still less the *being* of what it knows
+
+- **revised** · `sorge/ga17/010` · *care of certainty*
+  The care of knowing is determined more sharply as the care of certainty: it does not tarry with a being as being but goes upon beings in the how of their graspability, seen upon assent.
+  `heidegger-ga-17-einfuhrung-in-die-phanomenologische-forschung-commentary#h4-s-37-the-care-of-knowing-as-care-of-certainty-as-sichvergreifen` · GA 17 § 37 · [§ 37\. The care of knowing as care of certainty, as Sichvergreifen](https://faultynode.github.io/commentaries/commentaries/heidegger/heidegger-ga-17-einfuhrung-in-die-phanomenologische-forschung-commentary.html#the-care-of-knowing-as-care-of-certainty-as-sichvergreifen)
+  > the care of knowing does not tarry with a being *qua* being, does not regard objects as to their content, but goes upon them *in the how of their graspability*, and that graspability seen upon *assent*
+
+- **presupposed** · `sorge/ga17/011` · *care*
+  Tradition befalls the care without becoming express, so that the care is not transparent to its own being-possibilities; only a being that sees itself in its situation can make the tradition express.
+  `heidegger-ga-17-einfuhrung-in-die-phanomenologische-forschung-commentary#h4-s-50-repetition-of-the-traversed-characters-of-the-care-of-knowing-and-the-exhib` · GA 17 § 50 · [§ 50\. Repetition of the traversed characters of the care of knowing, and the exhibition of Dasein itself](https://faultynode.github.io/commentaries/commentaries/heidegger/heidegger-ga-17-einfuhrung-in-die-phanomenologische-forschung-commentary.html#repetition-of-the-traversed-characters-of-the-care-of-knowing-and-the-exhibition-of-dasein-itself)
+  > tradition *befalls* it without becoming express, which means the care is *not transparent to its own being-possibilities*
+
+#### Recorded absences
+
+- **absent** · `heidegger-ga-17-einfuhrung-in-die-phanomenologische-forschung-commentary#h4-s-24-the-cogito-sum-the-clara-et-distincta-perceptio-and-the-task-of-an-ontologi`
+  Expected because: The cogito sum is where the course's Descartes reading has its centre, and § 37 will name the care of certainty as what performs the substitution of certum for ens. The section states the ontological task and carries no term of the family.
+  The care-vocabulary carries the diagnosis, not the exposition: where the commentary sets out what Descartes says, it drops away, and returns when the course says what the saying is a care of.
+  [§ 24\. The cogito sum, the clara et distincta perceptio, and the task of an ontological securing of the truth-criterion](https://faultynode.github.io/commentaries/commentaries/heidegger/heidegger-ga-17-einfuhrung-in-die-phanomenologische-forschung-commentary.html#the-cogito-sum-the-clara-et-distincta-perceptio-and-the-task-of-an-ontological-securing-of-the-truth-criterion)
+
+- **absent** · `heidegger-ga-17-einfuhrung-in-die-phanomenologische-forschung-commentary#h4-ss-29-30-the-connection-of-verum-and-ens-being-true-as-a-mode-of-being-the-prope`
+  Expected because: Being-true as a mode of being is exactly the connection § 37 puts into the care - esse as verum and verum as certum primarily set into the care. Here the connection is drawn without the term.
+  Read with § 37, this marks where the course's own analysis is ontological rather than care-analytic.
+  [§§ 29–30. The connection of verum and ens: being-true as a mode of being; the proper being of the verum as convenientia in the intellectus](https://faultynode.github.io/commentaries/commentaries/heidegger/heidegger-ga-17-einfuhrung-in-die-phanomenologische-forschung-commentary.html#the-connection-of-verum-and-ens-being-true-as-a-mode-of-being-the-proper-being-of-the-verum-as-convenientia-in-the-intellectus)
+
+*Partial pass: The care of knowing where the course builds it: SS 7, 12, 16 and 22 in Chapter Two, S 37 in the Descartes chapters and S 50 at the close, with two checked absences in the Descartes material. The remaining SS carry term hits and have not been extracted.*
+
+### 1924 - Commentary on Heidegger, Grundbegriffe der aristotelischen Philosophie (GA 18), pp. 1–268 (Einleitung and Erster Teil)
+
+`heidegger-ga-18-grundbegriffe-der-aristotelischen-philosophie-commentary`
+
+- **introduced** · `sorge/ga18/001` · *Begegnen*
+  The world's coming-to-meet a living being is characterised as being-concerned: the way world is there for life at all is that it bears on it.
+  `heidegger-ga-18-grundbegriffe-der-aristotelischen-philosophie-commentary#h4-b-the-logos-of-the-human-and-the-phone-of-the-animal-as-peculiar-modes-of-being` · GA 18 § 9 · [b) The logos of the Human and the phōnē of the Animal as Peculiar Modes of Being-in-the-World and Being-With-One-Another](https://faultynode.github.io/commentaries/commentaries/heidegger/heidegger-ga-18-grundbegriffe-der-aristotelischen-philosophie-commentary.html#b-the-logos-of-the-human-and-the-phone-of-the-animal-as-peculiar-modes-of-being-in-the-world-and-being-with-one-another)
+  > This bearing-on, this being-concerned by the world one is in, Heidegger calls a definite mode of the world's *coming-to-meet* (*Begegnen*) in life.
+
+- **introduced** · `sorge/ga18/002` · *Belanglosigkeit*
+  Inconsequentiality is a mode of the concerning-character and not its absence, which makes the concerning-character the more original determination of the surrounding world.
+  `heidegger-ga-18-grundbegriffe-der-aristotelischen-philosophie-commentary#h4-b-the-logos-of-the-human-and-the-phone-of-the-animal-as-peculiar-modes-of-being` · GA 18 § 9 · [b) The logos of the Human and the phōnē of the Animal as Peculiar Modes of Being-in-the-World and Being-With-One-Another](https://faultynode.github.io/commentaries/commentaries/heidegger/heidegger-ga-18-grundbegriffe-der-aristotelischen-philosophie-commentary.html#b-the-logos-of-the-human-and-the-phone-of-the-animal-as-peculiar-modes-of-being-in-the-world-and-being-with-one-another)
+  > Precisely in declaring something inconsequential, *Dasein* interprets the world as something that *could* concern it — so the concerning-character is the more original.
+
+- **introduced** · `sorge/ga18/003` · *concern*
+  Concern is glossed as a knowing-one's-way-about: taking care of something already says that one knows one's way within the circle of what one sets oneself.
+  `heidegger-ga-18-grundbegriffe-der-aristotelischen-philosophie-commentary#h4-b-the-ground-determinations-of-the-agathon` · GA 18 § 10 · [b) The Ground-Determinations of the agathon](https://faultynode.github.io/commentaries/commentaries/heidegger/heidegger-ga-18-grundbegriffe-der-aristotelischen-philosophie-commentary.html#b-the-ground-determinations-of-the-agathon)
+  > "I take care of something" already says that I know my way within the circle of what I set myself
+
+- **presupposed** · `sorge/ga18/004` · *concern*
+  Concern is said to have the character of peras: its enactment is possible only because what is taken care of is there, and on this the determination Dasein is being-limited rests.
+  `heidegger-ga-18-grundbegriffe-der-aristotelischen-philosophie-commentary#h4-b-the-ground-determinations-of-the-agathon` · GA 18 § 10 · [b) The Ground-Determinations of the agathon](https://faultynode.github.io/commentaries/commentaries/heidegger/heidegger-ga-18-grundbegriffe-der-aristotelischen-philosophie-commentary.html#b-the-ground-determinations-of-the-agathon)
+  > the enactment of concern is possible only because what is taken care of is there, because concern does not grasp into the void, because concern has the character of *peras*
+
+- **presupposed** · `sorge/ga18/005` · *concerns*
+  The concerns of a Dasein form not a heap but a nexus determined by being-with-one-another, so that the manifold of concerns is structured in advance by the with.
+  `heidegger-ga-18-grundbegriffe-der-aristotelischen-philosophie-commentary#h4-b-the-ground-determinations-of-the-agathon` · GA 18 § 10 · [b) The Ground-Determinations of the agathon](https://faultynode.github.io/commentaries/commentaries/heidegger/heidegger-ga-18-grundbegriffe-der-aristotelischen-philosophie-commentary.html#b-the-ground-determinations-of-the-agathon)
+  > a manifold of concerns is given — not a heap but a *multiplicity with a nexus* determined by the character of being-with-one-another
+
+- **presupposed** · `sorge/ga18/006` · *concern*
+  Being-in-the-world is determined as a mode of being that can take care of something in the world, and the concern is specified as the concern of a being that speaks.
+  `heidegger-ga-18-grundbegriffe-der-aristotelischen-philosophie-commentary#h4-b-the-psyches-energeia-kat-areten-as-the-being-possibility-of-the-human-that-sat` · GA 18 § 12 · [b) The psychēs energeia kat' aretēn as the Being-Possibility of the Human that Satisfies the Sense of the anthrōpinon agathon](https://faultynode.github.io/commentaries/commentaries/heidegger/heidegger-ga-18-grundbegriffe-der-aristotelischen-philosophie-commentary.html#b-the-psyches-energeia-kat-areten-as-the-being-possibility-of-the-human-that-satisfies-the-sense-of-the-anthropinon-agathon)
+  > one mode of being-in-the-world such that it can *take care* of something in it, a concern of a being that *speaks*
+
+- **presupposed** · `sorge/ga18/007` · *concernful life*
+  Concernful life is tied to hearing: the life in which speaking is co-present speaks in such a way that it hears itself.
+  `heidegger-ga-18-grundbegriffe-der-aristotelischen-philosophie-commentary#h3-s-13-being-speaking-as-being-able-to-hear-and-as-the-possibility-of-falling-the` · GA 18 § 13 · [§ 13. Being-Speaking as Being-Able-to-Hear and as the Possibility of Falling. The Double Sense of alogon (Eth. Nic. A 13, De an. B 4)](https://faultynode.github.io/commentaries/commentaries/heidegger/heidegger-ga-18-grundbegriffe-der-aristotelischen-philosophie-commentary.html#being-speaking-as-being-able-to-hear-and-as-the-possibility-of-falling-the-double-sense-of-alogon-eth-nic-a-13-de-an-b-4)
+  > So the concernful life in which speaking is co-present speaks such that it *hears itself*.
+
+- **introduced** · `sorge/ga18/008` · *concern*
+  Concern is given a threefold temporal structure: it takes care of the not-yet-present, speaks of the already-happened and contemplates the now-there.
+  `heidegger-ga-18-grundbegriffe-der-aristotelischen-philosophie-commentary#h4-c-logos-itself-as-pistis` · GA 18 § 14 · [c) logos Itself as pistis](https://faultynode.github.io/commentaries/commentaries/heidegger/heidegger-ga-18-grundbegriffe-der-aristotelischen-philosophie-commentary.html#c-logos-itself-as-pistis)
+  > Being as concern and concernful speaking is temporal: it takes care of the not-yet-present, speaks about the already-happened, contemplates the now-there.
+
+- **presupposed** · `sorge/ga18/009` · *concern*
+  The being-in-the-world whose character is concern is one in which its own being is at issue: in taking care of what life deals with, it takes care of its own being.
+  `heidegger-ga-18-grundbegriffe-der-aristotelischen-philosophie-commentary#h4-b-recalling-the-nexus-of-the-treatment-of-doxa` · GA 18 § 15 · [b) Recalling the Nexus of the Treatment of doxa](https://faultynode.github.io/commentaries/commentaries/heidegger/heidegger-ga-18-grundbegriffe-der-aristotelischen-philosophie-commentary.html#b-recalling-the-nexus-of-the-treatment-of-doxa)
+  > in this being-in-the-world *the being itself is at issue*: *eudaimonia* is taken care of — in taking care of what life deals with, it takes care of its own being
+
+- **introduced** · `sorge/ga18/010` · *care*
+  The first of four ground-moments of Dasein drawn from hexis and arete states that Dasein as concern is care about itself, and that this self-concern is mostly inexplicit.
+  `heidegger-ga-18-grundbegriffe-der-aristotelischen-philosophie-commentary#h4-c-the-hexis-and-the-arete` · GA 18 § 17 · [c) The hexis and the aretē](https://faultynode.github.io/commentaries/commentaries/heidegger/heidegger-ga-18-grundbegriffe-der-aristotelischen-philosophie-commentary.html#c-the-hexis-and-the-arete)
+  > in dealing about in the world, in dealing with other humans, the so-dealing *Dasein* takes care of itself, its being — *Dasein* as concern is care about itself, mostly inexplicit
+
+#### Recorded absences
+
+- **absent** · `heidegger-ga-18-grundbegriffe-der-aristotelischen-philosophie-commentary#h4-a-the-hexis-of-aletheuein-eth-nic-d-12-13`
+  Expected because: The hexis of aletheuein is where phronesis is set out, and § 17 has just made Dasein as concern care about itself by way of hexis. The argument runs here in aletheuein and hexis instead, with no term of the family.
+  This is the GA 19 pattern one semester earlier: the same near-absence at the phronesis material, in the same vocabulary. gap-004 asks whether that absence belongs to the course or to the commentary's rendering; GA 18 shows it is not peculiar to GA 19.
+  [a) The hexis of alētheuein (Eth. Nic. Δ 12–13)](https://faultynode.github.io/commentaries/commentaries/heidegger/heidegger-ga-18-grundbegriffe-der-aristotelischen-philosophie-commentary.html#a-the-hexis-of-aletheuein-eth-nic--1213)
+
+- **absent** · `heidegger-ga-18-grundbegriffe-der-aristotelischen-philosophie-commentary#h4-c-repetition-and-continuation-of-the-delimitation-of-doxa-doxa-and-being-resolve`
+  Expected because: Being-resolved (proairesis) is treated here, and resoluteness is a mode of care wherever care is a formal structure. The section carries no term of the family, so the two are not yet joined.
+  An absence that periodizes: in SS 1924 being-resolved is delimited against doxa, not referred to care.
+  [c) Repetition and Continuation of the Delimitation of doxa: doxa and Being-Resolved (proairesis)](https://faultynode.github.io/commentaries/commentaries/heidegger/heidegger-ga-18-grundbegriffe-der-aristotelischen-philosophie-commentary.html#c-repetition-and-continuation-of-the-delimitation-of-doxa-doxa-and-being-resolved-proairesis)
+
+- **absent** · `heidegger-ga-18-grundbegriffe-der-aristotelischen-philosophie-commentary#h4-g-fear-as-pistis-courage-as-the-possibility-of-composure-toward-it-the-pathe-as`
+  Expected because: Fear and courage are treated as pisteis and as pathe. Where care is a formal structure of Dasein, fear is a mode of disposedness grounded in it, as GA 20 § 30 has it; here the analysis is carried by pistis and composure instead.
+  The neighbouring section f) on the disposedness in being-afraid does carry the vocabulary, so this is an absence within a treatment of fear, not a gap in the course's attention to it.
+  [g) Fear as pistis. Courage as the Possibility of Composure Toward It. The pathē as Ground for the logos](https://faultynode.github.io/commentaries/commentaries/heidegger/heidegger-ga-18-grundbegriffe-der-aristotelischen-philosophie-commentary.html#g-fear-as-pistis-courage-as-the-possibility-of-composure-toward-it-the-pathe-as-ground-for-the-logos)
+
+*Partial pass: The Introduction and Chapters 1-3 of the First Part (SS 9-17), where the concerning-character of world, the structure of concern and the self-concern of Dasein are set out, together with three checked absences later in the First Part. SS 18-26 carry term hits and have not been extracted.*
 
 ### 1924-1925 - Sophistes Commentary
 
@@ -108,10 +307,7 @@
 - `heidegger-sein-und-zeit-commentary` - 915 term hits, no record
 - `heidegger-being-and-time-commentary` - 253 term hits, no record
 - `henry-the-essence-of-manifestation-commentary` - 226 term hits, no record
-- `heidegger-ga-17-einfuhrung-in-die-phanomenologische-forschung-commentary` - 167 term hits, no record
-- `heidegger-ga-18-grundbegriffe-der-aristotelischen-philosophie-commentary` - 156 term hits, no record
 - `bernet-la-vie-du-sujet-commentary` - 138 term hits, no record
-- `heidegger-ga-61-phenomenological-interpretations-of-aristotle-commentary` - 133 term hits, no record
 - `marion-sur-le-prisme-metaphysique-de-descartes-commentary` - 83 term hits, no record
 - `kant-kritik-der-reinen-vernunft-commentary` - 75 term hits, no record
 - `husserl-thing-and-space-commentary` - 66 term hits, no record

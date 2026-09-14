@@ -8,6 +8,8 @@ wordpress_id: 195
 
 ## A Paragraph-by-Paragraph Analysis of Edmund Husserl's *Cartesianische Meditationen*
 
+*Composed in 1929. The Paris lectures — two double lectures given at the Sorbonne on 23 and 25 February 1929 under the title "Introduction to Transcendental Phenomenology" (Einleitung in die transzendentale Phänomenologie) — are the preliminary stage of this text; Husserl drafted the Meditations themselves from 15 March to 6 April and again from about 15 April to 16 May 1929, then revised the typescript at least three further times, rewriting the Fifth Meditation entirely. The French translation appeared as* Méditations Cartésiennes *(A. Colin, Paris, 1931). Edited by S. Strasser (Husserliana I).*
+
 ---
 
 ## Introduction

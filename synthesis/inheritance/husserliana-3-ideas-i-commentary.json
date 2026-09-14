@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "commentary": "husserliana-3-ideas-i-commentary",
-  "source_sha256": "87eabf5946b56577dd1e29d808c5bcae6aa90710640fa66a7f7655362c0ce63c",
+  "source_sha256": "0f40bb506a3cb3ce3ab197b64c92a50782bb9d16455890379fd490b14e6d691b",
   "extracted_at": "2026-09-09",
   "extractor": {
     "agent": "claude-code",
@@ -15,7 +15,10 @@
       "id": "inh/hua3-i/001",
       "locator": "husserliana-3-ideas-i-commentary#h2-s-143-adequate-thing-givenness-as-idea-in-the-kantian-sense",
       "primary_locator": "Ideas I §143",
-      "predecessor": { "author": "Immanuel Kant", "text": "Kritik der reinen Vernunft" },
+      "predecessor": {
+        "author": "Immanuel Kant",
+        "text": "Kritik der reinen Vernunft"
+      },
       "mode": "terminological-borrowing",
       "claim": "Since a thing cannot be given in a closed, completed appearance, Husserl designates its perfect givenness as an 'Idea' in the Kantian sense: an absolutely determinate system of endless continuous appearing, prefigured and lying insightfully before us as the idea of an essentially motivated infinity.",
       "quote": "as an \"Idea\" (in the Kantian sense), perfect givenness is nonetheless **prefigured**—as an absolutely determinate system of endless processes of continuous appearing"
@@ -24,7 +27,9 @@
       "id": "inh/hua3-i/002",
       "locator": "husserliana-3-ideas-i-commentary#h2-s-145-critical-remarks-on-the-phenomenology-of-evidence",
       "primary_locator": "Ideas I §145",
-      "predecessor": { "author": "René Descartes" },
+      "predecessor": {
+        "author": "René Descartes"
+      },
       "mode": "polemical-rejection",
       "claim": "Husserl rejects the index- and feeling-theories of evidence, which treat evidence as a mystical voice from a better world, together with the skeptical worries such as the Cartesian demon fiction that those theories cannot overcome.",
       "quote": "Husserl rejects the index- and feeling-theories of evidence, as well as the skeptical worries (the Cartesian demon fiction) they cannot overcome."
@@ -33,7 +38,10 @@
       "id": "inh/hua3-i/003",
       "locator": "husserliana-3-ideas-i-commentary#h2-s-129-content-and-object-content-as-sense",
       "primary_locator": "Ideas I §129",
-      "predecessor": { "author": "Kasimir Twardowski", "text": "Zur Lehre vom Inhalt und Gegenstand der Vorstellungen" },
+      "predecessor": {
+        "author": "Kasimir Twardowski",
+        "text": "Zur Lehre vom Inhalt und Gegenstand der Vorstellungen"
+      },
       "mode": "acknowledged-debt",
       "claim": "Husserl acknowledges Twardowski's merit in the distinction of act, content, and object, praised as a great advance since his treatise, while holding that a radical advance was impossible before a systematic phenomenology of consciousness.",
       "quote": "Husserl reflects on the recent habit of praising the distinction between act, content, and object as a great advance (especially since Twardowski's treatise). While acknowledging Twardowski's merit, he notes that a radical advance was impossible before a systematic phenomenology of consciousness."

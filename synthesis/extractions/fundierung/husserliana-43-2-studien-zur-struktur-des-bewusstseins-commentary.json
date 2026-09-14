@@ -1,0 +1,152 @@
+{
+  "schema_version": 1,
+  "theme": "fundierung",
+  "commentary": "husserliana-43-2-studien-zur-struktur-des-bewusstseins-commentary",
+  "source_sha256": "de3e5a483e12df5f193371e25a8ec4031915b2b37114f7b2f7f5a0e241c6dbd6",
+  "extracted_at": "2026-09-13",
+  "extractor": {
+    "agent": "claude-code",
+    "prompt": "Stage 1 extraction, theme fundierung, per docs/synthesis-operations.md P1.",
+    "note": "Founding in Hua XLIII/2 is the layering of the Gemuet on the Verstand: value-acts founded in objectivating acts, will founded in wish, feeling-apprehension founded in theoretical apprehension, and function founded in affection."
+  },
+  "coverage": "partial",
+  "coverage_note": "Part I SS 1, 5, 7 and Appendix I, and Part III SS 1, 3, 4 - the sections where the commentary states a founding relation in so many words. Not covered: Part I SS 2-4 and 6, Appendices II-IV, the whole of Part II (the arousal of feelings, the Gefuehlston, the intensity analyses), and Part III S 2.",
+  "units": [
+    {
+      "id": "fundierung/husserliana-43-2/001",
+      "locator": "husserliana-43-2-studien-zur-struktur-des-bewusstseins-commentary#h3-s-1-determinations-of-the-thing-and-determinations-of-value",
+      "primary_locator": "Hua XLIII/2, Part I § 1",
+      "term": "founded (valuing on objectifying act)",
+      "status": "introduced",
+      "claim": "Valuing presupposes the object it bears on and is founded in a presentation, in another, objectifying act.",
+      "quote": "valuing presupposes the object on which it bears: it is *founded* in a presentation, in another, \"objectifying\" act"
+    },
+    {
+      "id": "fundierung/husserliana-43-2/002",
+      "locator": "husserliana-43-2-studien-zur-struktur-des-bewusstseins-commentary#h3-s-1-determinations-of-the-thing-and-determinations-of-value",
+      "primary_locator": "Hua XLIII/2, Part I § 1",
+      "term": "Sein / Wertsein",
+      "status": "introduced",
+      "claim": "Objects constitute themselves as what they are through the understanding, before all value-being, and constitute themselves in their value-determinations through feeling.",
+      "quote": "objects constitute themselves as what they are, and \"before\" all value-being, *through the understanding* (*durch den Verstand*); they constitute themselves with respect to their value-determinations *through feeling*"
+    },
+    {
+      "id": "fundierung/husserliana-43-2/003",
+      "locator": "husserliana-43-2-studien-zur-struktur-des-bewusstseins-commentary#h3-s-5-valuing-as-an-act-founded-in-perceiving-fulfillment-of-the-value-meaning-imm",
+      "primary_locator": "Hua XLIII/2, Part I § 5",
+      "term": "new act founded in perceiving",
+      "status": "presupposed",
+      "claim": "Valuing the cigar as perceived is a new act founded in perceiving, in which the cigar stands there as a value.",
+      "quote": "This valuing is a *new act founded in perceiving* (an act-impression), in which this cigar \"stands there\" as a value"
+    },
+    {
+      "id": "fundierung/husserliana-43-2/004",
+      "locator": "husserliana-43-2-studien-zur-struktur-des-bewusstseins-commentary#h3-s-5-valuing-as-an-act-founded-in-perceiving-fulfillment-of-the-value-meaning-imm",
+      "primary_locator": "Hua XLIII/2, Part I § 5",
+      "term": "perception of the higher objectivity",
+      "status": "introduced",
+      "claim": "Thing-perception with its levels is to be distinguished from the perception of the higher objectivity - thing-value, good, use-object.",
+      "quote": "one must distinguish *thing-perception* (matter-perception) with its various levels and *the perception of the higher objectivity*: thing-value, good, use-object, etc."
+    },
+    {
+      "id": "fundierung/husserliana-43-2/005",
+      "locator": "husserliana-43-2-studien-zur-struktur-des-bewusstseins-commentary#h3-s-5-valuing-as-an-act-founded-in-perceiving-fulfillment-of-the-value-meaning-imm",
+      "primary_locator": "Hua XLIII/2, Part I § 5",
+      "term": "immanent and unity-values as foundational",
+      "status": "introduced",
+      "claim": "The value-grounding determinates of a thing lead back, where demonstrable, to immanent and unity-values, which are foundational for all mediacy in value-holding.",
+      "quote": "These latter, in case of demonstrability, are again led back to immanent and unity-values, which are foundational for all *mediacy* in the value-holding."
+    },
+    {
+      "id": "fundierung/husserliana-43-2/006",
+      "locator": "husserliana-43-2-studien-zur-struktur-des-bewusstseins-commentary#h3-s-5-valuing-as-an-act-founded-in-perceiving-fulfillment-of-the-value-meaning-imm",
+      "primary_locator": "Hua XLIII/2, Part I § 5",
+      "term": "found (preference on value-meanings)",
+      "status": "presupposed",
+      "claim": "Two value-meanings found a preference, whose correlate is the relative priority of one valued object over the other.",
+      "quote": "The two value-meanings *found* a preference, whose correlate is the relative priority of A over B."
+    },
+    {
+      "id": "fundierung/husserliana-43-2/007",
+      "locator": "husserliana-43-2-studien-zur-struktur-des-bewusstseins-commentary#h3-s-7-the-relation-of-joy-wish-and-will-to-valuing-the-foundation-of-willing-in-wi",
+      "primary_locator": "Hua XLIII/2, Part I § 7",
+      "term": "founded in the wish",
+      "status": "introduced",
+      "claim": "The will is founded in the wish and through this is directed at a held-for-good, in the manner of making.",
+      "quote": "the will, then, is founded in the wish, and through this it is directed at a held-for-good"
+    },
+    {
+      "id": "fundierung/husserliana-43-2/008",
+      "locator": "husserliana-43-2-studien-zur-struktur-des-bewusstseins-commentary#h3-s-7-the-relation-of-joy-wish-and-will-to-valuing-the-foundation-of-willing-in-wi",
+      "primary_locator": "Hua XLIII/2, Part I § 7",
+      "term": "non-self-sufficient (fiat)",
+      "status": "presupposed",
+      "claim": "The pure will-moment of the fiat is non-self-sufficient and founded in the wish-underlay described.",
+      "quote": "namely insofar as it (the pure will-moment of the fiat) is *non-self-sufficient*, founded in the described underlay"
+    },
+    {
+      "id": "fundierung/husserliana-43-2/009",
+      "locator": "husserliana-43-2-studien-zur-struktur-des-bewusstseins-commentary#h3-appendix-i-the-foundation-of-the-acts-of-feeling-as-apperception-of-feeling-and",
+      "primary_locator": "Hua XLIII/2, Part I, Beilage I",
+      "term": "Fundierung (apperception vs. meaning)",
+      "status": "revised",
+      "claim": "Given that every Gemuetsakt is founded, it is asked whether the foundation is of apperception by apperception or also of act by act with respect to meaning.",
+      "quote": "the question is whether the foundation takes place as foundation of *apperception* by apperception, or also (since the first foundation is unavoidable) of *act* by act *with respect to meaning*"
+    },
+    {
+      "id": "fundierung/husserliana-43-2/010",
+      "locator": "husserliana-43-2-studien-zur-struktur-des-bewusstseins-commentary#h3-s-1-affection-apprehension-turning-toward-and-creative-act-of-the-understanding",
+      "primary_locator": "Hua XLIII/2, Part III § 1",
+      "term": "founded in the sensations",
+      "status": "presupposed",
+      "claim": "Through the feelings interwoven with and founded in the sensations, something constitutes itself, namely values.",
+      "quote": "through the feelings *interwoven with*, *founded in* the sensations, *something* constitutes itself, *namely values*"
+    },
+    {
+      "id": "fundierung/husserliana-43-2/011",
+      "locator": "husserliana-43-2-studien-zur-struktur-des-bewusstseins-commentary#h3-s-1-affection-apprehension-turning-toward-and-creative-act-of-the-understanding",
+      "primary_locator": "Hua XLIII/2, Part III § 1",
+      "term": "objectivities of higher level",
+      "status": "introduced",
+      "claim": "The blind motivations of the original feeling- and drive-passivities are constitutive for objectivities of higher level, for which the text has no comprehensive name.",
+      "quote": "which are constitutive for *objectivities of higher level* — for which we have no comprehensive names: *objects of love*, *value-objects*, *deeds*, *creations*"
+    },
+    {
+      "id": "fundierung/husserliana-43-2/012",
+      "locator": "husserliana-43-2-studien-zur-struktur-des-bewusstseins-commentary#h3-s-1-affection-apprehension-turning-toward-and-creative-act-of-the-understanding",
+      "primary_locator": "Hua XLIII/2, Part III § 1",
+      "term": "essentially founded in affection",
+      "status": "presupposed",
+      "claim": "Every function is essentially founded in affection and forms with it the unity of a functional concrete whole of the experience.",
+      "quote": "every function is *essentially founded in affection* and forms with it the *unity of a functional concrete whole of the experience*"
+    },
+    {
+      "id": "fundierung/husserliana-43-2/013",
+      "locator": "husserliana-43-2-studien-zur-struktur-des-bewusstseins-commentary#h3-s-1-affection-apprehension-turning-toward-and-creative-act-of-the-understanding",
+      "primary_locator": "Hua XLIII/2, Part III § 1",
+      "term": "foundations of these acts",
+      "status": "introduced",
+      "claim": "We are receptive with respect to the foundations of the acts of understanding and active with respect to the constitution of the understanding-objects.",
+      "quote": "We are receptive with respect to the foundations of these acts*, but *active with respect to the constitution of the understanding-objects*"
+    },
+    {
+      "id": "fundierung/husserliana-43-2/014",
+      "locator": "husserliana-43-2-studien-zur-struktur-des-bewusstseins-commentary#h3-s-3-turning-toward-as-mode-of-liveliness-grasping-and-thought-positing-the-const",
+      "primary_locator": "Hua XLIII/2, Part III § 3",
+      "term": "founded in simple sensible apprehensions",
+      "status": "presupposed",
+      "claim": "Simple axiological apprehensions and their unities stand in connection with, and founded in, simple sensible thingly apprehensions.",
+      "quote": "Here too we find relatively \"simple\" axiological apprehensions and unities of such apprehensions in connection with, and founded in, simple sensible (thingly) apprehensions."
+    },
+    {
+      "id": "fundierung/husserliana-43-2/015",
+      "locator": "husserliana-43-2-studien-zur-struktur-des-bewusstseins-commentary#h3-s-4-feeling-sensibility-and-intentionality",
+      "primary_locator": "Hua XLIII/2, Part III § 4",
+      "term": "founded in the sensible-theoretical appearance",
+      "status": "presupposed",
+      "claim": "The primary feeling undergoes a feeling-apprehension and becomes an intentional feeling founded in the sensible-theoretical appearance, making a higher-stage appearance possible.",
+      "quote": "it becomes intentional feeling, which is founded in the sensible-theoretical appearance and makes possible a higher-stage appearance"
+    }
+  ],
+  "absences": []
+}

@@ -2,7 +2,7 @@
   "schema_version": 1,
   "theme": "intentionalitaet",
   "commentary": "husserliana-5-ideas-iii-commentary",
-  "source_sha256": "8f2dc2d3128d9af6d69e6ff7f334da6dfba099087d5891eea67fc54fba9b1ffd",
+  "source_sha256": "fc1336d5a02814d3ff5de8b153115b167e325dcb848194cc4d520fa960ed1c83",
   "extracted_at": "2026-09-09",
   "extractor": {
     "agent": "claude-code",
