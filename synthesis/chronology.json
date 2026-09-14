@@ -3,17 +3,208 @@
   "_comment": "Dates are taken from what the commentaries themselves state. Where a commentary does not date its text, the entry is 'unresolved' and stays undated - the ledger prints those in a separate bucket rather than ordering them on a guess. Resolving one means finding the date in the commentary (or writing it into the commentary from the source), not recalling it. Volume order is never a proxy for composition order.",
   "entries": [
     {
-      "commentary": "husserliana-23-phantasie-bildbewusstsein-erinnerung-commentary",
+      "commentary": "fichte-science-of-knowing-commentary",
       "role": "primary",
       "status": "resolved",
       "strata": [
         {
-          "id": "hua23-1904",
-          "label": "Lectures, WS 1904/05 (third main section)",
-          "year_start": 1904,
-          "year_end": 1905,
+          "id": "wl-1804",
+          "label": "1804 lectures on the Wissenschaftslehre",
+          "year_start": 1804,
+          "year_end": 1804,
           "stated_in_commentary": true,
-          "evidence": "\"(Third Main Section of the Lectures from the Winter Semester 1904/05 ...)\""
+          "evidence": "\"Fichte's *The Science of Knowing* (1804 Lectures on the *Wissenschaftslehre*)\""
+        }
+      ]
+    },
+    {
+      "commentary": "heidegger-being-and-time-commentary",
+      "role": "primary",
+      "status": "resolved",
+      "note": "Same treatise as heidegger-sein-und-zeit-commentary, keyed to the English translation and its pagination. Keep the two separate on the ledger: they are two commentaries, not one, and a claim drawn from the translation is a claim about the translation's vocabulary.",
+      "strata": [
+        {
+          "id": "bt-1927",
+          "label": "Being and Time (English translation of the 1927 treatise)",
+          "year_start": 1927,
+          "year_end": 1927,
+          "stated_in_commentary": true,
+          "evidence": "The commentary dates the treatise 1927 and works from the English translation."
+        }
+      ]
+    },
+    {
+      "commentary": "heidegger-ga-18-grundbegriffe-der-aristotelischen-philosophie-commentary",
+      "role": "primary",
+      "status": "unresolved",
+      "note": "The commentary names the volume and the page range covered but no semester. Resolving this matters more than most: GA 18 sits immediately before GA 19 on the Sorge ledger, and the two courses are what the periodization turns on.",
+      "strata": [
+        {
+          "id": "ga18-undated",
+          "label": "Marburg lecture course, semester not stated in the commentary",
+          "year_start": null,
+          "year_end": null,
+          "stated_in_commentary": false,
+          "evidence": "Opening line gives only \"(GA 18), pp. 1-268 (Einleitung and Erster Teil)\"."
+        }
+      ]
+    },
+    {
+      "commentary": "heidegger-ga-19-platon-sophistes-commentary",
+      "role": "primary",
+      "status": "resolved",
+      "strata": [
+        {
+          "id": "ga19-1924",
+          "label": "Marburg lecture course, WS 1924/25",
+          "year_start": 1924,
+          "year_end": 1925,
+          "stated_in_commentary": true,
+          "evidence": "\"Marburg lecture course, Winter Semester 1924/25.\""
+        }
+      ]
+    },
+    {
+      "commentary": "heidegger-ga-20-prolegomena-zur-geschichte-des-zeitbegriffs-commentary",
+      "role": "primary",
+      "status": "resolved",
+      "strata": [
+        {
+          "id": "ga20-1925",
+          "label": "Marburg lecture course, SS 1925",
+          "year_start": 1925,
+          "year_end": 1925,
+          "stated_in_commentary": true,
+          "evidence": "\"Marburg lecture course, Summer Semester 1925.\""
+        }
+      ]
+    },
+    {
+      "commentary": "heidegger-ga-24-die-grundprobleme-der-phanomenologie-commentary",
+      "role": "primary",
+      "status": "unresolved",
+      "strata": [
+        {
+          "id": "ga24-undated",
+          "label": "Marburg lecture course, semester not stated in the commentary",
+          "year_start": null,
+          "year_end": null,
+          "stated_in_commentary": false,
+          "evidence": "The commentary references *Sein und Zeit* being published 'only months earlier' but gives no explicit semester or year for the course. Two prior lecture courses are mentioned (GA 22 and GA 23) as being from 'the two previous semesters' but without stating when those semesters occurred."
+        }
+      ]
+    },
+    {
+      "commentary": "heidegger-ga-3-kant-und-das-problem-der-metaphysik-commentary",
+      "role": "primary",
+      "status": "resolved",
+      "strata": [
+        {
+          "id": "ga3-1929",
+          "label": "Kant und das Problem der Metaphysik, 1929",
+          "year_start": 1929,
+          "year_end": 1929,
+          "stated_in_commentary": true,
+          "evidence": "\"A paragraph-by-paragraph commentary on the *Kantbuch* of 1929\""
+        }
+      ]
+    },
+    {
+      "commentary": "heidegger-sein-und-zeit-commentary",
+      "role": "primary",
+      "status": "resolved",
+      "strata": [
+        {
+          "id": "sz-1927",
+          "label": "Sein und Zeit, first edition",
+          "year_start": 1927,
+          "year_end": 1927,
+          "stated_in_commentary": true,
+          "evidence": "The commentary's dating of the treatise; the 1953 preliminary remark is a separate stratum below."
+        },
+        {
+          "id": "sz-1953",
+          "label": "Preliminary Remark to the seventh edition",
+          "year_start": 1953,
+          "year_end": 1953,
+          "stated_in_commentary": true,
+          "evidence": "\"## Preliminary Remark (1953)\""
+        }
+      ]
+    },
+    {
+      "commentary": "husserl-erfahrung-und-urteil-commentary",
+      "role": "primary",
+      "status": "unresolved",
+      "strata": [
+        {
+          "id": "eu-undated",
+          "label": "Date not stated in the commentary",
+          "year_start": null,
+          "year_end": null,
+          "stated_in_commentary": false,
+          "evidence": "Opening gives title and unit scheme only. The Landgrebe compilation strata are not identified anywhere in the file."
+        }
+      ]
+    },
+    {
+      "commentary": "husserl-formal-and-transcendental-logic-commentary",
+      "role": "primary",
+      "status": "unresolved",
+      "strata": [
+        {
+          "id": "ftl-undated",
+          "label": "Date not stated in the commentary",
+          "year_start": null,
+          "year_end": null,
+          "stated_in_commentary": false,
+          "evidence": "Opening gives title and covered range (Introduction and Part I) only."
+        }
+      ]
+    },
+    {
+      "commentary": "husserl-krisis-commentary",
+      "role": "primary",
+      "status": "resolved",
+      "note": "The Prague lectures are dated in the commentary; the later parts of the Crisis are not. Treat this as one stratum only until the commentary itself dates the rest.",
+      "strata": [
+        {
+          "id": "krisis-1935",
+          "label": "Prague lecture cycle, November 1935",
+          "year_start": 1935,
+          "year_end": 1935,
+          "stated_in_commentary": true,
+          "evidence": "\"a lecture cycle delivered in November 1935, at the invitation of the *Cercle Philosophique de Prague*\""
+        }
+      ]
+    },
+    {
+      "commentary": "husserl-natur-und-geist-commentary",
+      "role": "primary",
+      "status": "resolved",
+      "strata": [
+        {
+          "id": "nug-1919",
+          "label": "Lectures, SS 1919",
+          "year_start": 1919,
+          "year_end": 1919,
+          "stated_in_commentary": true,
+          "evidence": "\"Nature and Spirit: Lectures, Summer Semester 1919\""
+        }
+      ]
+    },
+    {
+      "commentary": "husserl-prolegomena-commentary",
+      "role": "primary",
+      "status": "resolved",
+      "strata": [
+        {
+          "id": "prolegomena-1900",
+          "label": "Prolegomena to Pure Logic",
+          "year_start": 1900,
+          "year_end": 1900,
+          "stated_in_commentary": true,
+          "evidence": "\"*Logical Investigations*, Volume I: Prolegomena to Pure Logic (1900)\""
         }
       ]
     },
@@ -33,17 +224,49 @@
       ]
     },
     {
-      "commentary": "husserliana-26-theory-of-meaning-commentary",
+      "commentary": "husserliana-1-cartesianische-meditationen-commentary",
       "role": "primary",
-      "status": "resolved",
+      "status": "unresolved",
       "strata": [
         {
-          "id": "hua26-1908",
-          "label": "Lectures, SS 1908",
-          "year_start": 1908,
-          "year_end": 1908,
+          "id": "hua1-undated",
+          "label": "Date not stated in the commentary",
+          "year_start": null,
+          "year_end": null,
+          "stated_in_commentary": false,
+          "evidence": "Opening gives title and unit scheme only; neither the Paris lectures nor the Strasser edition is dated in the file."
+        }
+      ]
+    },
+    {
+      "commentary": "husserliana-11-analyses-concerning-passive-and-active-synthesis-commentary",
+      "role": "primary",
+      "status": "resolved",
+      "note": "Three deliveries, six years apart at the extremes. Where the commentary does not say which delivery a passage belongs to, leave the unit's stratum unset rather than assigning one.",
+      "strata": [
+        {
+          "id": "hua11-1920",
+          "label": "First delivery, WS 1920/21",
+          "year_start": 1920,
+          "year_end": 1921,
           "stated_in_commentary": true,
-          "evidence": "\"Lectures on the Theory of Meaning, Summer Semester 1908 (Husserliana XXVI)\""
+          "evidence": "\"The lectures were offered three times: Winter Semester 1920/21, Summer Semester 1923, and Winter Semester 1925/26.\""
+        },
+        {
+          "id": "hua11-1923",
+          "label": "Second delivery, SS 1923",
+          "year_start": 1923,
+          "year_end": 1923,
+          "stated_in_commentary": true,
+          "evidence": "same sentence as hua11-1920"
+        },
+        {
+          "id": "hua11-1925",
+          "label": "Third delivery, WS 1925/26",
+          "year_start": 1925,
+          "year_end": 1926,
+          "stated_in_commentary": true,
+          "evidence": "same sentence as hua11-1920"
         }
       ]
     },
@@ -59,21 +282,6 @@
           "year_end": 1911,
           "stated_in_commentary": true,
           "evidence": "\"Lectures from the Winter Semester 1910/11\""
-        }
-      ]
-    },
-    {
-      "commentary": "husserl-prolegomena-commentary",
-      "role": "primary",
-      "status": "resolved",
-      "strata": [
-        {
-          "id": "prolegomena-1900",
-          "label": "Prolegomena to Pure Logic",
-          "year_start": 1900,
-          "year_end": 1900,
-          "stated_in_commentary": true,
-          "evidence": "\"*Logical Investigations*, Volume I: Prolegomena to Pure Logic (1900)\""
         }
       ]
     },
@@ -117,7 +325,53 @@
       ]
     },
     {
-      "commentary": "husserliana-3-ideas-i-parts-3-4-commentary",
+      "commentary": "husserliana-23-phantasie-bildbewusstsein-erinnerung-commentary",
+      "role": "primary",
+      "status": "resolved",
+      "strata": [
+        {
+          "id": "hua23-1904",
+          "label": "Lectures, WS 1904/05 (third main section)",
+          "year_start": 1904,
+          "year_end": 1905,
+          "stated_in_commentary": true,
+          "evidence": "\"(Third Main Section of the Lectures from the Winter Semester 1904/05 ...)\""
+        }
+      ]
+    },
+    {
+      "commentary": "husserliana-26-theory-of-meaning-commentary",
+      "role": "primary",
+      "status": "resolved",
+      "strata": [
+        {
+          "id": "hua26-1908",
+          "label": "Lectures, SS 1908",
+          "year_start": 1908,
+          "year_end": 1908,
+          "stated_in_commentary": true,
+          "evidence": "\"Lectures on the Theory of Meaning, Summer Semester 1908 (Husserliana XXVI)\""
+        }
+      ]
+    },
+    {
+      "commentary": "husserliana-28-vorlesungen-uber-ethik-und-wertlehre-commentary",
+      "role": "primary",
+      "status": "resolved",
+      "note": "The volume title spans 1908-1914; the commentary covers Part A only, which it identifies as the 1914 course and as the latest and fullest redaction of the core material. Only that layer is recorded here.",
+      "strata": [
+        {
+          "id": "hua28a-1914",
+          "label": "Vorlesungen ueber Grundfragen zur Ethik und Wertlehre, 1914 (Hua XXVIII Part A)",
+          "year_start": 1914,
+          "year_end": 1914,
+          "stated_in_commentary": true,
+          "evidence": "\"the lecture course *Vorlesungen über Grundfragen zur Ethik und Wertlehre* of 1914\""
+        }
+      ]
+    },
+    {
+      "commentary": "husserliana-3-ideas-i-commentary",
       "role": "primary",
       "status": "resolved",
       "note": "Same text and same stratum as husserliana-3-ideas-i-commentary, which covers a different range of the same book; the ids are kept distinct because stratum ids are one global namespace.",
@@ -129,6 +383,44 @@
           "year_end": 1928,
           "stated_in_commentary": true,
           "evidence": "\"The First Book appeared in Husserl's lifetime in three almost entirely identical editions, in 1913, 1922 and 1928\""
+        }
+      ]
+    },
+    {
+      "commentary": "husserliana-33-die-bernauer-manuskripte-uber-das-zeitbewusstsein-commentary",
+      "role": "primary",
+      "status": "resolved",
+      "strata": [
+        {
+          "id": "hua33-1917",
+          "label": "Bernau manuscripts, first stay, July-October 1917",
+          "year_start": 1917,
+          "year_end": 1917,
+          "stated_in_commentary": true,
+          "evidence": "\"During two stays in Bernau (July 30–October 1, 1917 and February 1–April 27, 1918), the writings on time grew to a considerable volume.\""
+        },
+        {
+          "id": "hua33-1918",
+          "label": "Bernau manuscripts, second stay, February-April 1918",
+          "year_start": 1918,
+          "year_end": 1918,
+          "stated_in_commentary": true,
+          "evidence": "same sentence as hua33-1917"
+        }
+      ]
+    },
+    {
+      "commentary": "husserliana-39-die-lebenswelt-commentary",
+      "role": "primary",
+      "status": "unresolved",
+      "strata": [
+        {
+          "id": "hua39-undated",
+          "label": "Date not stated in the commentary",
+          "year_start": null,
+          "year_end": null,
+          "stated_in_commentary": false,
+          "evidence": "Opening names the volume only. Hua XXXIX collects manuscripts of several dates, so a single date would be wrong even if one were stated."
         }
       ]
     },
@@ -189,79 +481,33 @@
       ]
     },
     {
-      "commentary": "husserl-natur-und-geist-commentary",
+      "commentary": "husserliana-5-ideas-iii-commentary",
       "role": "primary",
-      "status": "resolved",
+      "status": "unresolved",
+      "note": "Hua V shares the Stein and Landgrebe strata recorded under husserliana-4-ideas-ii-commentary, per that commentary's editor's introduction. Do not copy those strata here until this commentary states them itself.",
       "strata": [
         {
-          "id": "nug-1919",
-          "label": "Lectures, SS 1919",
-          "year_start": 1919,
-          "year_end": 1919,
-          "stated_in_commentary": true,
-          "evidence": "\"Nature and Spirit: Lectures, Summer Semester 1919\""
+          "id": "hua5-undated",
+          "label": "Date not stated in the commentary",
+          "year_start": null,
+          "year_end": null,
+          "stated_in_commentary": false,
+          "evidence": "Opening gives the title and chapter structure only."
         }
       ]
     },
     {
-      "commentary": "husserliana-11-analyses-concerning-passive-and-active-synthesis-commentary",
+      "commentary": "husserliana-7-erste-philosophie-i-commentary",
       "role": "primary",
       "status": "resolved",
-      "note": "Three deliveries, six years apart at the extremes. Where the commentary does not say which delivery a passage belongs to, leave the unit's stratum unset rather than assigning one.",
       "strata": [
         {
-          "id": "hua11-1920",
-          "label": "First delivery, WS 1920/21",
-          "year_start": 1920,
-          "year_end": 1921,
-          "stated_in_commentary": true,
-          "evidence": "\"The lectures were offered three times: Winter Semester 1920/21, Summer Semester 1923, and Winter Semester 1925/26.\""
-        },
-        {
-          "id": "hua11-1923",
-          "label": "Second delivery, SS 1923",
+          "id": "hua7-1923",
+          "label": "Erste Philosophie I lecture course, 1923/24",
           "year_start": 1923,
-          "year_end": 1923,
+          "year_end": 1924,
           "stated_in_commentary": true,
-          "evidence": "same sentence as hua11-1920"
-        },
-        {
-          "id": "hua11-1925",
-          "label": "Third delivery, WS 1925/26",
-          "year_start": 1925,
-          "year_end": 1926,
-          "stated_in_commentary": true,
-          "evidence": "same sentence as hua11-1920"
-        }
-      ]
-    },
-    {
-      "commentary": "heidegger-ga-19-platon-sophistes-commentary",
-      "role": "primary",
-      "status": "resolved",
-      "strata": [
-        {
-          "id": "ga19-1924",
-          "label": "Marburg lecture course, WS 1924/25",
-          "year_start": 1924,
-          "year_end": 1925,
-          "stated_in_commentary": true,
-          "evidence": "\"Marburg lecture course, Winter Semester 1924/25.\""
-        }
-      ]
-    },
-    {
-      "commentary": "heidegger-ga-20-prolegomena-zur-geschichte-des-zeitbegriffs-commentary",
-      "role": "primary",
-      "status": "resolved",
-      "strata": [
-        {
-          "id": "ga20-1925",
-          "label": "Marburg lecture course, SS 1925",
-          "year_start": 1925,
-          "year_end": 1925,
-          "stated_in_commentary": true,
-          "evidence": "\"Marburg lecture course, Summer Semester 1925.\""
+          "evidence": "\"Commentary: *Erste Philosophie I* (1923/24): *Kritische Ideengeschichte*\""
         }
       ]
     },
@@ -281,57 +527,33 @@
       ]
     },
     {
-      "commentary": "heidegger-sein-und-zeit-commentary",
+      "commentary": "lacan-seminar-1-freuds-papers-on-technique-commentary",
       "role": "primary",
       "status": "resolved",
       "strata": [
         {
-          "id": "sz-1927",
-          "label": "Sein und Zeit, first edition",
-          "year_start": 1927,
-          "year_end": 1927,
-          "stated_in_commentary": true,
-          "evidence": "The commentary's dating of the treatise; the 1953 preliminary remark is a separate stratum below."
-        },
-        {
-          "id": "sz-1953",
-          "label": "Preliminary Remark to the seventh edition",
+          "id": "lacan-sem1-1953",
+          "label": "Seminar I, delivered 1953-1954",
           "year_start": 1953,
-          "year_end": 1953,
+          "year_end": 1954,
           "stated_in_commentary": true,
-          "evidence": "\"## Preliminary Remark (1953)\""
+          "evidence": "\"*The Seminar, Book I: Freud's Papers on Technique* (1953–1954)\""
         }
       ]
     },
     {
-      "commentary": "heidegger-being-and-time-commentary",
+      "commentary": "lacan-seminar-11-the-four-fundamental-concepts-of-psychoanalysis-commentary",
       "role": "primary",
       "status": "resolved",
-      "note": "Same treatise as heidegger-sein-und-zeit-commentary, keyed to the English translation and its pagination. Keep the two separate on the ledger: they are two commentaries, not one, and a claim drawn from the translation is a claim about the translation's vocabulary.",
+      "note": "The commentary also states that the text was established by Jacques-Alain Miller and published by Seuil in 1973; that is the edition it cites, not a layer of the seminar's delivery, so it is not given a stratum.",
       "strata": [
         {
-          "id": "bt-1927",
-          "label": "Being and Time (English translation of the 1927 treatise)",
-          "year_start": 1927,
-          "year_end": 1927,
+          "id": "lacan-sem11-1964",
+          "label": "Seminar XI, delivered 1964",
+          "year_start": 1964,
+          "year_end": 1964,
           "stated_in_commentary": true,
-          "evidence": "The commentary dates the treatise 1927 and works from the English translation."
-        }
-      ]
-    },
-    {
-      "commentary": "husserl-krisis-commentary",
-      "role": "primary",
-      "status": "resolved",
-      "note": "The Prague lectures are dated in the commentary; the later parts of the Crisis are not. Treat this as one stratum only until the commentary itself dates the rest.",
-      "strata": [
-        {
-          "id": "krisis-1935",
-          "label": "Prague lecture cycle, November 1935",
-          "year_start": 1935,
-          "year_end": 1935,
-          "stated_in_commentary": true,
-          "evidence": "\"a lecture cycle delivered in November 1935, at the invitation of the *Cercle Philosophique de Prague*\""
+          "evidence": "\"Commentary on Lacan, *The Four Fundamental Concepts of Psychoanalysis* (Seminar XI, 1964\""
         }
       ]
     },
@@ -351,15 +573,16 @@
       ]
     },
     {
-      "commentary": "fichte-science-of-knowing-commentary",
-      "role": "primary",
+      "commentary": "bernet-la-vie-du-sujet-commentary",
+      "role": "reception",
       "status": "resolved",
+      "note": "The 1994 date is the collection's edition, not the composition of its essays, which the commentary does not date individually. Cite it as the edition on the reception layer and nothing more.",
       "strata": [
         {
-          "id": "wl-1804",
-          "label": "1804 lectures on the Wissenschaftslehre",
-          "year_start": 1804,
-          "year_end": 1804,
+          "id": "lvds-1994",
+          "label": "PUF Épiméthée edition",
+          "year_start": 1994,
+          "year_end": 1994,
           "stated_in_commentary": true,
           "evidence": "\"Fichte's *The Science of Knowing* (1804 Lectures on the *Wissenschaftslehre*)\""
         }
@@ -485,17 +708,17 @@
       ]
     },
     {
-      "commentary": "husserliana-39-die-lebenswelt-commentary",
-      "role": "primary",
-      "status": "unresolved",
+      "commentary": "derrida-introduction-a-lorigine-de-la-geometrie-commentary",
+      "role": "reception",
+      "status": "resolved",
       "strata": [
         {
-          "id": "hua39-undated",
-          "label": "Date not stated in the commentary",
-          "year_start": null,
-          "year_end": null,
-          "stated_in_commentary": false,
-          "evidence": "Opening names the volume only. Hua XXXIX collects manuscripts of several dates, so a single date would be wrong even if one were stated."
+          "id": "derrida-intro-1961",
+          "label": "Introduction à *L'Origine de la géométrie*, July 1961",
+          "year_start": 1961,
+          "year_end": 1961,
+          "stated_in_commentary": true,
+          "evidence": "\"The Introduction is dated 'Juillet 1961.'\""
         }
       ],
       "note": "Stays unresolved for want of the volume: Hua XXXIX is not in faultynode/sources. The volume collects manuscripts of several dates, so what is wanted from it is a set of strata, not a date - a single date would be wrong even if one were stated."
@@ -516,6 +739,21 @@
       ]
     },
     {
+      "commentary": "franck-chair-et-corps-commentary",
+      "role": "reception",
+      "status": "resolved",
+      "strata": [
+        {
+          "id": "franck-chair-1981",
+          "label": "Chair et corps: Sur la phenomenologie de Husserl, 1981",
+          "year_start": 1981,
+          "year_end": 1981,
+          "stated_in_commentary": true,
+          "evidence": "\"***Chair et corps: Sur la phénoménologie de Husserl*** **(1981)**\""
+        }
+      ]
+    },
+    {
       "commentary": "henry-philosophie-et-phenomenologie-du-corps-commentary",
       "role": "reception",
       "status": "resolved",
@@ -531,18 +769,17 @@
       ]
     },
     {
-      "commentary": "bernet-la-vie-du-sujet-commentary",
+      "commentary": "henry-the-essence-of-manifestation-commentary",
       "role": "reception",
-      "status": "resolved",
-      "note": "The 1994 date is the collection's edition, not the composition of its essays, which the commentary does not date individually. Cite it as the edition on the reception layer and nothing more.",
+      "status": "unresolved",
       "strata": [
         {
-          "id": "lvds-1994",
-          "label": "PUF Épiméthée edition",
-          "year_start": 1994,
-          "year_end": 1994,
-          "stated_in_commentary": true,
-          "evidence": "\"References are to the pagination of the Presses Universitaires de France edition (Épiméthée, 1994)\""
+          "id": "henry-essence-undated",
+          "label": "Commentary on *L'essence de la manifestation* (1963)",
+          "year_start": null,
+          "year_end": null,
+          "stated_in_commentary": false,
+          "evidence": "The commentary does not explicitly state the publication date of Henry's work; it refers only to Henry's engagement with Heidegger and Husserl. Henry's *L'essence de la manifestation* was published in 1963, but this date is not stated in the commentary itself."
         }
       ]
     },
@@ -592,30 +829,22 @@
       ]
     },
     {
-      "commentary": "husserliana-33-die-bernauer-manuskripte-uber-das-zeitbewusstsein-commentary",
+      "commentary": "lacan-seminar-11-the-four-fundamental-concepts-of-psychoanalysis-commentary",
       "role": "primary",
       "status": "resolved",
       "strata": [
         {
-          "id": "hua33-1917",
-          "label": "Bernau manuscripts, first stay, July-October 1917",
-          "year_start": 1917,
-          "year_end": 1917,
+          "id": "sem11-1964",
+          "label": "Seminar XI, delivered 1964 (first lesson 15 January 1964)",
+          "year_start": 1964,
+          "year_end": 1964,
           "stated_in_commentary": true,
-          "evidence": "\"During two stays in Bernau (July 30–October 1, 1917 and February 1–April 27, 1918), the writings on time grew to a considerable volume.\""
-        },
-        {
-          "id": "hua33-1918",
-          "label": "Bernau manuscripts, second stay, February-April 1918",
-          "year_start": 1918,
-          "year_end": 1918,
-          "stated_in_commentary": true,
-          "evidence": "same sentence as hua33-1917"
+          "evidence": "Title line: \"Commentary on Lacan, The Four Fundamental Concepts of Psychoanalysis (Seminar XI, 1964)\"; Lesson I is dated \"15 January 1964\" in the commentary's own text."
         }
       ]
     },
     {
-      "commentary": "heidegger-ga-24-die-grundprobleme-der-phanomenologie-commentary",
+      "commentary": "husserliana-28-vorlesungen-uber-ethik-und-wertlehre-commentary",
       "role": "primary",
       "status": "resolved",
       "note": "The printed text is a composite: Heidegger's lecture manuscript joined with Simon Moser's transcript of the delivered course, assembled on Heidegger's instructions. One delivery, but not a single authorial document.",
@@ -631,47 +860,47 @@
       ]
     },
     {
-      "commentary": "derrida-introduction-a-lorigine-de-la-geometrie-commentary",
-      "role": "reception",
+      "commentary": "husserliana-7-erste-philosophie-i-commentary",
+      "role": "primary",
       "status": "resolved",
       "strata": [
         {
-          "id": "derrida-intro-1961",
-          "label": "Introduction à *L'Origine de la géométrie*, July 1961",
-          "year_start": 1961,
-          "year_end": 1961,
+          "id": "hua7-1923-24",
+          "label": "Erste Philosophie lecture course, WS 1923/24 (First Part, Kritische Ideengeschichte)",
+          "year_start": 1923,
+          "year_end": 1924,
           "stated_in_commentary": true,
-          "evidence": "\"The Introduction is dated 'Juillet 1961.'\""
+          "evidence": "title line: \"Commentary: *Erste Philosophie I* (1923/24): *Kritische Ideengeschichte*\""
         }
       ]
     },
     {
-      "commentary": "henry-the-essence-of-manifestation-commentary",
-      "role": "reception",
-      "status": "unresolved",
-      "strata": [
-        {
-          "id": "henry-essence-undated",
-          "label": "Commentary on *L'essence de la manifestation* (1963)",
-          "year_start": null,
-          "year_end": null,
-          "stated_in_commentary": false,
-          "evidence": "The commentary does not explicitly state the publication date of Henry's work; it refers only to Henry's engagement with Heidegger and Husserl. Henry's *L'essence de la manifestation* was published in 1963, but this date is not stated in the commentary itself."
-        }
-      ]
-    },
-    {
-      "commentary": "bernet-la-vie-du-sujet-commentary",
+      "commentary": "kern-husserl-and-kant-commentary",
       "role": "reception",
       "status": "resolved",
       "strata": [
         {
-          "id": "bernet-vie-1994",
-          "label": "*La vie du sujet: Recherches sur l'interprétation de Husserl dans la phénoménologie*, 1994",
-          "year_start": 1994,
-          "year_end": 1994,
+          "id": "kern-1964",
+          "label": "Husserl und Kant, published 1964",
+          "year_start": 1964,
+          "year_end": 1964,
           "stated_in_commentary": true,
-          "evidence": "\"References are to the pagination of the Presses Universitaires de France edition (Épiméthée, 1994)\""
+          "evidence": "title line: \"Iso Kern, *Husserl and Kant: An Investigation of Husserl's Relationship to Kant and to Neo-Kantianism* (1964)\""
+        }
+      ]
+    },
+    {
+      "commentary": "franck-chair-et-corps-commentary",
+      "role": "reception",
+      "status": "resolved",
+      "strata": [
+        {
+          "id": "franck-cc-1981",
+          "label": "Chair et corps: Sur la phénoménologie de Husserl, 1981",
+          "year_start": 1981,
+          "year_end": 1981,
+          "stated_in_commentary": true,
+          "evidence": "title line: \"***Chair et corps: Sur la phénoménologie de Husserl*** **(1981)**\""
         }
       ]
     },

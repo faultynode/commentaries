@@ -1,0 +1,78 @@
+{
+  "schema_version": 1,
+  "theme": "wesen",
+  "commentary": "husserliana-4-ideas-ii-commentary",
+  "source_sha256": "5edb5103ea6db8e048cd4823f8d833ebe634ec0cd959e5c2b9321ab2b5f727be",
+  "extracted_at": "2026-09-14",
+  "extractor": {
+    "agent": "claude-code",
+    "prompt": "prompts/synthesis-pipeline/extraction-prompt.md",
+    "note": "Whole file grep-scanned for the theme's search terms plus 'Wesensschau', 'eidetic', 'eidos', 'free variation', 'immutable', 'innate', 'Descartes', 'residuum' and 'simple nature'. Closely read § 12 (lines 181-190), § 13 (191-202) and § 15 a-b (217-234). No stratum is assigned to any unit: chronology.json carries six strata for this volume (1912 draft, 1915 rework, two Stein copies, the Landgrebe typescript, and Husserl's insertions to 1928), and the commentary's editor's introduction reports those layers without assigning these sections to any one of them."
+  },
+  "coverage": "partial",
+  "coverage_note": "Covers the Second Chapter's §§ 12-13 and § 15 a-b, where the essence of materiality is at issue. The First and Third Chapters, Section Two (the constitution of animal nature) and Section Three (the spiritual world) were keyword-scanned only.",
+  "units": [
+    {
+      "id": "wesen/hua4-ideas2/001",
+      "locator": "husserliana-4-ideas-ii-commentary#h3-s12-material-and-animal-nature",
+      "primary_locator": "Ideas II § 12",
+      "term": "essential grounds",
+      "status": "presupposed",
+      "claim": "Nature is said to encompass in its forms of space and time all factual realities and, out of essential grounds, equally all a priori possible realities.",
+      "quote": "which in its forms of space and time encompasses all factual realities and, out of essential grounds, equally all a priori possible realities"
+    },
+    {
+      "id": "wesen/hua4-ideas2/002",
+      "locator": "husserliana-4-ideas-ii-commentary#h3-s12-material-and-animal-nature",
+      "primary_locator": "Ideas II § 12",
+      "term": "distinction grounded in essence",
+      "status": "introduced",
+      "claim": "The distinction between material nature and ensouled, animal nature is called a distinction grounded in essence that stands out at first glance.",
+      "quote": "Already at first glance a distinction grounded in essence stands out: the distinction between nature in the narrower, lowest, and primary sense"
+    },
+    {
+      "id": "wesen/hua4-ideas2/003",
+      "locator": "husserliana-4-ideas-ii-commentary#h3-s12-material-and-animal-nature",
+      "primary_locator": "Ideas II § 12",
+      "term": "essential determination",
+      "status": "presupposed",
+      "claim": "Everything else the thing is, according to every other essential determination belonging to it, it is in its duration with the closer determination of a when.",
+      "quote": "Everything else the thing \"is,\" according to every other essential determination belonging to it, it is in its duration, with the closer determination of a \"when.\""
+    },
+    {
+      "id": "wesen/hua4-ideas2/004",
+      "locator": "husserliana-4-ideas-ii-commentary#h4-a-the-phenomenological-analysis-of-thing-givenness-as-the-path-to-determining-th",
+      "primary_locator": "Ideas II § 15",
+      "term": "essence \"thing\"",
+      "status": "introduced",
+      "claim": "To grasp and conceptually determine the essence thing one must not hold to inherited philosophical prejudices but draw from clear givenness itself.",
+      "quote": "If we want to grasp and conceptually determine the essence \"thing,\" we must not hold to vague talk and inherited philosophical prejudices, but draw from clear givenness itself."
+    },
+    {
+      "id": "wesen/hua4-ideas2/005",
+      "locator": "husserliana-4-ideas-ii-commentary#h4-a-the-phenomenological-analysis-of-thing-givenness-as-the-path-to-determining-th",
+      "primary_locator": "Ideas II § 15",
+      "term": "universal essential form",
+      "status": "introduced",
+      "claim": "One must go back exemplarily to the consciousness in which things are so completely given that nothing is lacking for grasping the universal essential form prescribing the a priori rule for such objects.",
+      "quote": "nothing can be lacking for the grasping of the universal essential form that prescribes the a priori rule for such objects"
+    },
+    {
+      "id": "wesen/hua4-ideas2/006",
+      "locator": "husserliana-4-ideas-ii-commentary#h4-a-the-phenomenological-analysis-of-thing-givenness-as-the-path-to-determining-th",
+      "primary_locator": "Ideas II § 15",
+      "term": "essential interweavings",
+      "status": "introduced",
+      "claim": "Only by questioning the thing-noema and carrying out its directives does one gain the essential components of thinghood and the necessary essential interweavings without which a thing cannot be thought.",
+      "quote": "does one actually gain the essential components of thinghood and the necessary essential interweavings without which something meant as a thing cannot be thought at all"
+    }
+  ],
+  "absences": [
+    {
+      "locator": "husserliana-4-ideas-ii-commentary#h4-a-the-phenomenological-analysis-of-thing-givenness-as-the-path-to-determining-th",
+      "expected_because": "This section states the method for determining the essence material thing - exemplary givenness, perceptual series actual or feigned, the unfolding of the noema's directives - and so is where the vocabulary of eidetic seeing or free variation would appear if this commentary used it, and where a comparison with Descartes' account of extended things would fall.",
+      "absent_terms": ["Wesensschau", "eidetic", "eidos", "free variation", "immutable", "innate", "Descartes", "residuum", "simple nature"],
+      "note": "Bears on gap-007. The essence of the material thing is secured here by following the noema's directives through connected perceptual series, with no eidetic terminology and no Cartesian reference anywhere in the file."
+    }
+  ]
+}

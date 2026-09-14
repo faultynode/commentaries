@@ -4,7 +4,7 @@
 
 *Husserl's account of how complex objectivities (states of affairs, values, meanings) are founded on and constituted through more basic entities—a foundational doctrine running through Logical Investigations (especially the Sixth Investigation), Ideas I Part 3, and Thing and Space. The doctrine holds that some objects depend asymmetrically on others for their existence (dependent parts cannot exist alone; independent parts can), and that higher-order objectivities emerge through founding relations between strata of objects. Henry's phenomenology of manifestation and Marion's donation all work substantially with founding structures, making this theme particularly dense in French phenomenology. Watch for ambiguous 'function' in mathematical contexts or psychological functions; the philosophical sense concerns the structural role of an object in constituting a higher-order whole.*
 
-48 units and 0 recorded absences from 8 commentaries.
+110 units and 2 recorded absences from 13 commentaries.
 
 ## Primary corpus, by composition or delivery date
 
@@ -182,6 +182,77 @@
 
 *Partial pass: Focuses on sections 13-14, 47, 56, and 58 which contain explicit discussions of founding relations. Extracts key passages on: the foundational status of wish-fulfilment in identification, distinction between founded vs. non-founded perception, grounding of categorial forms in foundation-acts, and relationship between sensuous and categorial consciousness.*
 
+### 1925 - Husserl, Hua 9 — Phenomenological Psychology
+
+`husserliana-9-phenomenological-psychology-commentary`
+
+- **introduced** · `fundierung/husserliana-9/001` · *ideal objects (double relation)*
+  Ideal objects have their being-in-themselves and yet come to consciousness only as produced in subjective acts.
+  `husserliana-9-phenomenological-psychology-commentary#h4-b-investigation-of-the-correlation-ideal-object-psychic-lived-experience-sense-f` · Hua IX, § 3 b) · [b) Investigation of the Correlation: Ideal Object – Psychic Lived-Experience (Sense-Forming) by Means of Essential Description in the Reflective Attitude](https://faultynode.github.io/commentaries/commentaries/husserl/husserliana-9-phenomenological-psychology-commentary.html#b-investigation-of-the-correlation-ideal-object--psychic-lived-experience-sense-forming-by-means-of-essential-description-in-the-reflective-attitude)
+  > they have their *being-in-themselves*, and yet they come to consciousness only as *produced* in subjective acts
+
+- **introduced** · `fundierung/husserliana-9/002` · *Urrealitäten (primal realities)*
+  Primal realities are characterized by being perceivable and experienceable without their experience presupposing the experience of other real singulars.
+  `husserliana-9-phenomenological-psychology-commentary#h3-s-13-distinction-between-independent-and-non-independent-realities-determination` · Hua IX, § 13 · [§ 13\. Distinction between Independent and Non-Independent Realities. Determination of Real Unity by Means of Causality](https://faultynode.github.io/commentaries/commentaries/husserl/husserliana-9-phenomenological-psychology-commentary.html#distinction-between-independent-and-non-independent-realities-determination-of-real-unity-by-means-of-causality)
+  > These are characterized by being, according to their own sense, *perceivable, experienceable* without their experience presupposing the experience of other real singulars.
+
+- **introduced** · `fundierung/husserliana-9/003` · *non-independent (experience of a moment)*
+  The experiences of a house's color, a mountain's shape or a person's expression are non-independent, and such real singulars presuppose the others for their experience.
+  `husserliana-9-phenomenological-psychology-commentary#h3-s-13-distinction-between-independent-and-non-independent-realities-determination` · Hua IX, § 13 · [§ 13\. Distinction between Independent and Non-Independent Realities. Determination of Real Unity by Means of Causality](https://faultynode.github.io/commentaries/commentaries/husserl/husserliana-9-phenomenological-psychology-commentary.html#distinction-between-independent-and-non-independent-realities-determination-of-real-unity-by-means-of-causality)
+  > these experiences are *non-independent*, and indeed *as such* of these objectivities color, shape, etc.
+
+- **presupposed** · `fundierung/husserliana-9/004` · *founding singulars*
+  Moments of things presuppose a for-itself-grasping of the founding singulars, in the sense of an exclusively directed and not a merely co-directed grasping.
+  `husserliana-9-phenomenological-psychology-commentary#h3-s-13-distinction-between-independent-and-non-independent-realities-determination` · Hua IX, § 13 · [§ 13\. Distinction between Independent and Non-Independent Realities. Determination of Real Unity by Means of Causality](https://faultynode.github.io/commentaries/commentaries/husserl/husserliana-9-phenomenological-psychology-commentary.html#distinction-between-independent-and-non-independent-realities-determination-of-real-unity-by-means-of-causality)
+  > those presuppose a *for-itself-grasping* of the founding singulars in the sense of an *exclusively-directed* and not a mere *co-grasping*
+
+- **introduced** · `fundierung/husserliana-9/005` · *two-layered (psycho-physical)*
+  Realities like humans and animals are two-layered, psycho-physical beings whose Physis and Psyche are abstractively to be considered for themselves at the concrete whole.
+  `husserliana-9-phenomenological-psychology-commentary#h3-s-15-characterization-of-the-psychophysical-realities-of-the-experiential-world` · Hua IX, § 15 · [§ 15\. Characterization of the Psychophysical Realities of the Experiential World. Higher Independence of Corporeality Over Against Soul](https://faultynode.github.io/commentaries/commentaries/husserl/husserliana-9-phenomenological-psychology-commentary.html#characterization-of-the-psychophysical-realities-of-the-experiential-world-higher-independence-of-corporeality-over-against-soul)
+  > such realities are *two-layered* — they are *psycho-physical* beings. Their *Physis* and their *Psyche* are abstractively to be considered for themselves at the concrete whole.
+
+- **introduced** · `fundierung/husserliana-9/006` · *presupposes a corporeal-embodiment-substrate*
+  The corporeal can be experienced as unanimated, but where the psychic is experienced an organic embodiment must be the underlay: the animated body presupposes a corporeal-embodiment-substrate.
+  `husserliana-9-phenomenological-psychology-commentary#h3-s-15-characterization-of-the-psychophysical-realities-of-the-experiential-world` · Hua IX, § 15 · [§ 15\. Characterization of the Psychophysical Realities of the Experiential World. Higher Independence of Corporeality Over Against Soul](https://faultynode.github.io/commentaries/commentaries/husserl/husserliana-9-phenomenological-psychology-commentary.html#characterization-of-the-psychophysical-realities-of-the-experiential-world-higher-independence-of-corporeality-over-against-soul)
+  > In possible experience, the animated body presupposes a corporeal-embodiment-substrate.
+
+- **introduced** · `fundierung/husserliana-9/007` · *apperceptive presupposition (Urleib)*
+  The own body functions as primal body, the perception of it being the most originary body-experience and the apperceptive presupposition for every possible experience of a foreign body.
+  `husserliana-9-phenomenological-psychology-commentary#h3-s-15-characterization-of-the-psychophysical-realities-of-the-experiential-world` · Hua IX, § 15 · [§ 15\. Characterization of the Psychophysical Realities of the Experiential World. Higher Independence of Corporeality Over Against Soul](https://faultynode.github.io/commentaries/commentaries/husserl/husserliana-9-phenomenological-psychology-commentary.html#characterization-of-the-psychophysical-realities-of-the-experiential-world-higher-independence-of-corporeality-over-against-soul)
+  > as the *apperceptive presupposition* for every possible experience of the type *foreign body*
+
+- **introduced** · `fundierung/husserliana-9/008` · *Stufenbau (stratified structure)*
+  The psychic is articulated into layers of different elementary types and degrees of complexity that build upon one another in a definite order.
+  `husserliana-9-phenomenological-psychology-commentary#h3-s-21-stratified-structure-of-the-psychic` · Hua IX, § 21 · [§ 21\. Stratified Structure of the Psychic](https://faultynode.github.io/commentaries/commentaries/husserl/husserliana-9-phenomenological-psychology-commentary.html#stratified-structure-of-the-psychic)
+  > The psychic is not a homogeneous mass but is articulated into layers — of different elementary types and different degrees of complexity — that build upon one another in a definite order.
+
+- **introduced** · `fundierung/husserliana-9/009` · *higher layers presuppose the lower*
+  It belongs to the eidetic structure of the psyche as such that the higher layers presuppose the lower, valuing and willing presupposing objectivating consciousness.
+  `husserliana-9-phenomenological-psychology-commentary#h3-s-21-stratified-structure-of-the-psychic` · Hua IX, § 21 · [§ 21\. Stratified Structure of the Psychic](https://faultynode.github.io/commentaries/commentaries/husserl/husserliana-9-phenomenological-psychology-commentary.html#stratified-structure-of-the-psychic)
+  > It is part of the eidetic structure of the psyche as such that the higher layers presuppose the lower.
+
+- **introduced** · `fundierung/husserliana-9/010` · *Hyle as matter for intentional function*
+  Hyle and intentional function are the two structurally distinguished moments of perception, the core-content and the meaning-giving form.
+  `husserliana-9-phenomenological-psychology-commentary#h3-s-31-hyle-hyletic-data-as-matter-for-intentional-functions` · Hua IX, § 31 · [§ 31\. Hyle — Hyletic Data as Matter for Intentional Functions](https://faultynode.github.io/commentaries/commentaries/husserl/husserliana-9-phenomenological-psychology-commentary.html#hyle--hyletic-data-as-matter-for-intentional-functions)
+  > *Hyle* and *intentional function* are the two structurally distinguished moments of perception: the *core-content* (sensory matter) and the *meaning-giving form* (consciousness-of-something).
+
+- **presupposed** · `fundierung/husserliana-9/011` · *core-contents free of all consciousness-characters*
+  Merely subjective data, in their own essence free of all consciousness-characters, can become core-contents of intentional characters that by means of them make other objectivities conscious.
+  `husserliana-9-phenomenological-psychology-commentary#h3-s-31-hyle-hyletic-data-as-matter-for-intentional-functions` · Hua IX, § 31 · [§ 31\. Hyle — Hyletic Data as Matter for Intentional Functions](https://faultynode.github.io/commentaries/commentaries/husserl/husserliana-9-phenomenological-psychology-commentary.html#hyle--hyletic-data-as-matter-for-intentional-functions)
+  > they can in manifold ways become *core-contents* of remarkable functional characters, which all have in common that *by means of these core-contents*, as it were *spiritualizing them*, they make *other* objectivities conscious
+
+- **introduced** · `fundierung/husserliana-9/012` · *Urstiftung / self-founded convictions*
+  The I has no factual properties and has exclusively so-being as subject of self-founded convictions.
+  `husserliana-9-phenomenological-psychology-commentary#h3-s-42-the-i-of-originary-foundings-and-subsequent-foundings-identity-of-the-i-in` · Hua IX, § 42 · [§ 42\. The I of Originary Foundings and Subsequent Foundings. Identity of the I in the Holding-On of Convictions. The Individuality of the I Manifests Itself in Its Decisions, Which Are Grounded in the Convictions](https://faultynode.github.io/commentaries/commentaries/husserl/husserliana-9-phenomenological-psychology-commentary.html#the-i-of-originary-foundings-and-subsequent-foundings-identity-of-the-i-in-the-holding-on-of-convictions-the-individuality-of-the-i-manifests-itself-in-its-decisions-which-are-grounded-in-the-convictions)
+  > it has *exclusively so-being as subject of self-founded convictions*
+
+- **introduced** · `fundierung/husserliana-9/013` · *Nachstiftung (post-founding)*
+  Convictions founded in the I by post-founding are not born out of the I itself: it does not found itself in its own I-originariness but orients itself by another.
+  `husserliana-9-phenomenological-psychology-commentary#h3-s-42-the-i-of-originary-foundings-and-subsequent-foundings-identity-of-the-i-in` · Hua IX, § 42 · [§ 42\. The I of Originary Foundings and Subsequent Foundings. Identity of the I in the Holding-On of Convictions. The Individuality of the I Manifests Itself in Its Decisions, Which Are Grounded in the Convictions](https://faultynode.github.io/commentaries/commentaries/husserl/husserliana-9-phenomenological-psychology-commentary.html#the-i-of-originary-foundings-and-subsequent-foundings-identity-of-the-i-in-the-holding-on-of-convictions-the-individuality-of-the-i-manifests-itself-in-its-decisions-which-are-grounded-in-the-convictions)
+  > The convictions so founded in the I are *not born out of the I itself*: it does not itself form them; it does not found itself in its own I-originariness.
+
+*Partial pass: Systematic Part §§ 13, 15, 21, 31 and 42, and § 3 b) of the Introduction on the correlation of ideal object and lived experience. Not covered: §§ 1-12, 14, 16-20, 22-30, 32-41 and 43 onward, and the Amsterdam lectures appended at the end of the file.*
+
 ### 1927 to 1953 - Sein und Zeit — Commentary
 
 `heidegger-sein-und-zeit-commentary`
@@ -228,6 +299,78 @@
 
 *Partial pass: Extracts from sections 13, 15, 18, and 41 which contain explicit treatment of founded structures: knowing founded in being-in, equipment founded in totality, involvement founded in worldhood, and all being founded in care. Focuses on the asymmetric dependence relationships constitutive of Dasein's being-in-the-world.*
 
+### 1964 - Lacan, Seminar XI — The Four Fundamental Concepts of Psychoanalysis
+
+`lacan-seminar-11-the-four-fundamental-concepts-of-psychoanalysis-commentary`
+
+- **introduced** · `fundierung/lacan-seminar-11/001` · *founds (certainty / split subject)*
+  The Cartesian certainty that Freud's procedure sets out from founds not the transparent ego but the split subject.
+  `lacan-seminar-11-the-four-fundamental-concepts-of-psychoanalysis-commentary#h3-iii-on-the-subject-of-certainty` · Seminar XI, Lesson III · [III. On the Subject of Certainty](https://faultynode.github.io/commentaries/commentaries/lacan/lacan-seminar-11-the-four-fundamental-concepts-of-psychoanalysis-commentary.html#iii-on-the-subject-of-certainty)
+  > The certainty founds not the transparent ego but the split subject.
+
+- **introduced** · `fundierung/lacan-seminar-11/002` · *finds its foundation in*
+  Consciousness, in its illusion of seeing itself see itself, finds its foundation in the turned-inside-out structure of the gaze.
+  `lacan-seminar-11-the-four-fundamental-concepts-of-psychoanalysis-commentary#h3-vii-anamorphosis` · Seminar XI, Lesson VII · [VII. Anamorphosis](https://faultynode.github.io/commentaries/commentaries/lacan/lacan-seminar-11-the-four-fundamental-concepts-of-psychoanalysis-commentary.html#vii-anamorphosis)
+  > consciousness, in its illusion of *seeing itself see itself*, finds its foundation in *the turned-inside-out structure of the gaze*
+
+- **presupposed** · `fundierung/lacan-seminar-11/003` · *on which a certainty is founded*
+  The me on of the interdiction is a function of the impossible on which a certainty is founded.
+  `lacan-seminar-11-the-four-fundamental-concepts-of-psychoanalysis-commentary#h3-x-presence-of-the-analyst` · Seminar XI, Lesson X · [X. Presence of the Analyst](https://faultynode.github.io/commentaries/commentaries/lacan/lacan-seminar-11-the-four-fundamental-concepts-of-psychoanalysis-commentary.html#x-presence-of-the-analyst)
+  > it is a function of the impossible on which a certainty is founded
+
+- **introduced** · `fundierung/lacan-seminar-11/004` · *Truth is founded only on*
+  Truth is founded only on the fact that speech, even lying speech, appeals to it and gives rise to it.
+  `lacan-seminar-11-the-four-fundamental-concepts-of-psychoanalysis-commentary#h3-x-presence-of-the-analyst` · Seminar XI, Lesson X · [X. Presence of the Analyst](https://faultynode.github.io/commentaries/commentaries/lacan/lacan-seminar-11-the-four-fundamental-concepts-of-psychoanalysis-commentary.html#x-presence-of-the-analyst)
+  > Truth is founded only on the fact that speech, even lying speech, appeals to it and gives rise to it.
+
+- **presupposed** · `fundierung/lacan-seminar-11/005` · *foundation of an identification*
+  The objet a is never in the position of the aim of desire but is either pre-subjective or the foundation of an identification of the subject, or of one the subject denies.
+  `lacan-seminar-11-the-four-fundamental-concepts-of-psychoanalysis-commentary#h3-xiv-the-partial-drive-and-its-circuit` · Seminar XI, Lesson XIV · [XIV. The Partial Drive and Its Circuit](https://faultynode.github.io/commentaries/commentaries/lacan/lacan-seminar-11-the-four-fundamental-concepts-of-psychoanalysis-commentary.html#xiv-the-partial-drive-and-its-circuit)
+  > it is either pre-subjective, or the foundation of an identification of the subject, or the foundation of an identification denied by the subject
+
+- **introduced** · `fundierung/lacan-seminar-11/006` · *founded on the substructure of union / intersection*
+  The two operations of the subject's relation to the Other are founded on different set-theoretic substructures, the first on union and the second on intersection.
+  `lacan-seminar-11-the-four-fundamental-concepts-of-psychoanalysis-commentary#h3-xvi-the-subject-and-the-other-alienation` · Seminar XI, Lesson XVI · [XVI. The Subject and the Other: Alienation](https://faultynode.github.io/commentaries/commentaries/lacan/lacan-seminar-11-the-four-fundamental-concepts-of-psychoanalysis-commentary.html#xvi-the-subject-and-the-other-alienation)
+  > Where the first time is founded on the substructure of *union*, the second is founded on *intersection*
+
+- **introduced** · `fundierung/lacan-seminar-11/007` · *transference is thenceforth founded*
+  Wherever the function of the subject supposed to know can be incarnated for the subject in anyone, it follows from the definition that transference is thenceforth founded.
+  `lacan-seminar-11-the-four-fundamental-concepts-of-psychoanalysis-commentary#h3-xviii-of-the-subject-supposed-to-know-of-the-first-dyad-and-of-the-good` · Seminar XI, Lesson XVIII · [XVIII. Of the Subject Supposed to Know, of the First Dyad, and of the Good](https://faultynode.github.io/commentaries/commentaries/lacan/lacan-seminar-11-the-four-fundamental-concepts-of-psychoanalysis-commentary.html#xviii-of-the-subject-supposed-to-know-of-the-first-dyad-and-of-the-good)
+  > it results from the definition that *transference is thenceforth founded*
+
+- **presupposed** · `fundierung/lacan-seminar-11/008` · *foundation of the non-ego*
+  When the Ich attends to what disturbs it the Lust-Ich distinguishes itself and the Unlust, foundation of the non-ego, falls.
+  `lacan-seminar-11-the-four-fundamental-concepts-of-psychoanalysis-commentary#h3-xviii-of-the-subject-supposed-to-know-of-the-first-dyad-and-of-the-good` · Seminar XI, Lesson XVIII · [XVIII. Of the Subject Supposed to Know, of the First Dyad, and of the Good](https://faultynode.github.io/commentaries/commentaries/lacan/lacan-seminar-11-the-four-fundamental-concepts-of-psychoanalysis-commentary.html#xviii-of-the-subject-supposed-to-know-of-the-first-dyad-and-of-the-good)
+  > the Lust-Ich distinguishes itself, and by the same stroke the Unlust, foundation of the non-ego, falls
+
+- **introduced** · `fundierung/lacan-seminar-11/009` · *what founds ... the function of freedom*
+  What founds, in the sense and radical non-sense of the subject, the function of freedom is the signifier that kills all senses.
+  `lacan-seminar-11-the-four-fundamental-concepts-of-psychoanalysis-commentary#h3-xix-from-interpretation-to-transference` · Seminar XI, Lesson XIX · [XIX. From Interpretation to Transference](https://faultynode.github.io/commentaries/commentaries/lacan/lacan-seminar-11-the-four-fundamental-concepts-of-psychoanalysis-commentary.html#xix-from-interpretation-to-transference)
+  > what founds, in the sense and radical non-sense of the subject, the function of freedom, is properly this signifier that kills all senses
+
+- **presupposed** · `fundierung/lacan-seminar-11/010` · *the foundation, the kernel of the ego-ideal*
+  The einziger Zug, the unary trait detached in the second form of identification, is the foundation, the kernel of the ego-ideal.
+  `lacan-seminar-11-the-four-fundamental-concepts-of-psychoanalysis-commentary#h3-xix-from-interpretation-to-transference` · Seminar XI, Lesson XIX · [XIX. From Interpretation to Transference](https://faultynode.github.io/commentaries/commentaries/lacan/lacan-seminar-11-the-four-fundamental-concepts-of-psychoanalysis-commentary.html#xix-from-interpretation-to-transference)
+  > the *einziger Zug*, the unary trait — *the foundation, the kernel of the ego-ideal*
+
+- **revised** · `fundierung/lacan-seminar-11/011` · *founds (the subject on the residue)*
+  Against a philosophy that purified the percipiens, analysis founds the subject on his encounter with the residue - the voice, the filth, the a.
+  `lacan-seminar-11-the-four-fundamental-concepts-of-psychoanalysis-commentary#h3-xix-from-interpretation-to-transference` · Seminar XI, Lesson XIX · [XIX. From Interpretation to Transference](https://faultynode.github.io/commentaries/commentaries/lacan/lacan-seminar-11-the-four-fundamental-concepts-of-psychoanalysis-commentary.html#xix-from-interpretation-to-transference)
+  > analysis *founds* the subject on his encounter with the residue — the voice, the filth, the *a*
+
+#### Recorded absences
+
+- **absent** · `lacan-seminar-11-the-four-fundamental-concepts-of-psychoanalysis-commentary#h3-viii-the-line-and-light`
+  Expected because: Lesson VII had just stated that consciousness finds its foundation in the turned-inside-out structure of the gaze (unit fundierung/lacan-seminar-11/002); Lesson VIII carries that structure through the optics of the two triangles and the screen, which is where the founding relation would have to be worked out.
+  The relation is carried instead by the vocabulary of the cut, the screen and the stain. Ranking this commentary high for fundierung is an artifact of the theme's generic English search terms.
+  [VIII. The Line and Light](https://faultynode.github.io/commentaries/commentaries/lacan/lacan-seminar-11-the-four-fundamental-concepts-of-psychoanalysis-commentary.html#viii-the-line-and-light)
+
+- **absent** · `lacan-seminar-11-the-four-fundamental-concepts-of-psychoanalysis-commentary#h3-ix-what-is-a-picture`
+  Expected because: The lesson asks what a picture is and settles the relation between the gaze as objet a and the seen - an asymmetric dependence of the visible on the gaze, which is the place a founding claim would be made.
+  [IX. What Is a Picture?](https://faultynode.github.io/commentaries/commentaries/lacan/lacan-seminar-11-the-four-fundamental-concepts-of-psychoanalysis-commentary.html#ix-what-is-a-picture)
+
+*Partial pass: Lessons III, IV, VII, X, XIV, XVI, XVIII and XIX - the sections where the commentary states a founding relation in so many words - plus checked absences at VIII and IX. Not covered: Lessons I-II, V-VI, XI-XIII, XV, XVII and XX.*
+
 ## Reception layer
 
 *Read alongside the spine, not on it. A commentator's date orders the reception, not the doctrine.*
@@ -262,6 +405,72 @@
   > ideal validity is independent of factual transmission
 
 *Partial pass: Covers section II on methodological precautions and the doctrine of intentional history, particularly ¶¶27-28 (founded sense vs. factual rootedness), ¶¶40-48 (proto-idealizations and founding on perceptual substrate), ¶¶50-56 (founding acts and eidetic singularities), ¶57 (tradition as founding medium), and ¶63 (independence and dependence structure of ideal validity).*
+
+### 1965 - Philosophie et phénoménologie du corps — Commentary
+
+`henry-philosophie-et-phenomenologie-du-corps-commentary`
+
+- **introduced** · `fundierung/henry-corps/001` · *knowledges founded on originary knowledge*
+  Henry's reduction is specified so as to mark the boundaries between originary knowledge and the various knowledges founded on it.
+  `henry-philosophie-et-phenomenologie-du-corps-commentary#h2-introduction-the-apparent-contingency-of-the-question-concerning-the-body-and-th` · [Introduction. The Apparent Contingency of the Question Concerning the Body and the Necessity of an Ontological Analysis of the Body](https://faultynode.github.io/commentaries/commentaries/henry/henry-philosophie-et-phenomenologie-du-corps-commentary.html#introduction-the-apparent-contingency-of-the-question-concerning-the-body-and-the-necessity-of-an-ontological-analysis-of-the-body)
+  > the boundaries between originary knowledge and the various knowledges founded on it
+
+- **introduced** · `fundierung/henry-corps/002` · *founded judgments*
+  The judgments of psychology are founded judgments, or intuitive judgments, an expression marking that the judgment rests on something anterior and more primitive.
+  `henry-philosophie-et-phenomenologie-du-corps-commentary#h3-s-1-the-phenomenological-presuppositions-of-biranian-ontology` · [§ 1. The Phenomenological Presuppositions of Biranian Ontology](https://faultynode.github.io/commentaries/commentaries/henry/henry-philosophie-et-phenomenologie-du-corps-commentary.html#the-phenomenological-presuppositions-of-biranian-ontology)
+  > the judgments of psychology are founded judgments, or as he says intuitive judgments — an expression marking that the judgment rests on something anterior and more primitive
+
+- **presupposed** · `fundierung/henry-corps/003` · *founded on other relations*
+  The presence of a world to the ego is founded on a transcendental relation, and scientific relations are founded on other relations.
+  `henry-philosophie-et-phenomenologie-du-corps-commentary#h3-s-2-the-transcendental-deduction-of-the-categories` · [§ 2. The Transcendental Deduction of the Categories](https://faultynode.github.io/commentaries/commentaries/henry/henry-philosophie-et-phenomenologie-du-corps-commentary.html#the-transcendental-deduction-of-the-categories)
+  > That presence is founded on a transcendental relation, and the world it delivers is not first a scientific structure. Scientific relations are founded on other relations
+
+- **introduced** · `fundierung/henry-corps/004` · *excludes while founding*
+  The ego's most original structure does not coincide with the manifestation of exteriority but excludes it from itself while founding it.
+  `henry-philosophie-et-phenomenologie-du-corps-commentary#h3-s-3-the-theory-of-the-ego-and-the-problem-of-the-soul` · [§ 3. The Theory of the Ego and the Problem of the Soul](https://faultynode.github.io/commentaries/commentaries/henry/henry-philosophie-et-phenomenologie-du-corps-commentary.html#the-theory-of-the-ego-and-the-problem-of-the-soul)
+  > as not coinciding with the manifestation of exteriority but rather excluding it from itself while founding it
+
+- **introduced** · `fundierung/henry-corps/005` · *Ontological dualism is the foundation*
+  The duality that splits the unity of the being of my body finds its foundation in the ontological structure of truth, and ontological dualism is the foundation of the double use of signs.
+  `henry-philosophie-et-phenomenologie-du-corps-commentary#h2-chapter-iv-the-double-use-of-signs-and-the-problem-of-the-constitution-of-one-s` · [Chapter IV. The Double Use of Signs and the Problem of the Constitution of One's Own Body](https://faultynode.github.io/commentaries/commentaries/henry/henry-philosophie-et-phenomenologie-du-corps-commentary.html#chapter-iv-the-double-use-of-signs-and-the-problem-of-the-constitution-of-ones-own-body)
+  > *Ontological dualism is the foundation of the double use of signs.*
+
+- **presupposed** · `fundierung/henry-corps/006` · *finds its foundation in absolute subjectivity*
+  The unity of experience, of life and transcendent being, finds its foundation in the existence of an absolute subjectivity that transcends toward a world.
+  `henry-philosophie-et-phenomenologie-du-corps-commentary#h2-chapter-iv-the-double-use-of-signs-and-the-problem-of-the-constitution-of-one-s` · [Chapter IV. The Double Use of Signs and the Problem of the Constitution of One's Own Body](https://faultynode.github.io/commentaries/commentaries/henry/henry-philosophie-et-phenomenologie-du-corps-commentary.html#chapter-iv-the-double-use-of-signs-and-the-problem-of-the-constitution-of-ones-own-body)
+  > the unity of life and transcendent being, finds its foundation in the existence of an absolute subjectivity transcending toward a world
+
+- **introduced** · `fundierung/henry-corps/007` · *constituted on the foundation of the original being of the subjective body*
+  The unity and the belonging to the ego of the transcendent body are constituted on the foundation of the original being of the subjective body, of its unity and its belonging to the ego.
+  `henry-philosophie-et-phenomenologie-du-corps-commentary#h2-chapter-iv-the-double-use-of-signs-and-the-problem-of-the-constitution-of-one-s` · [Chapter IV. The Double Use of Signs and the Problem of the Constitution of One's Own Body](https://faultynode.github.io/commentaries/commentaries/henry/henry-philosophie-et-phenomenologie-du-corps-commentary.html#chapter-iv-the-double-use-of-signs-and-the-problem-of-the-constitution-of-ones-own-body)
+  > the unity and belonging to the ego of the transcendent body are constituted on the foundation of the original being of the subjective body*, on the foundation of its unity and its belonging to the ego
+
+- **presupposed** · `fundierung/henry-corps/008` · *foundation of the organic body's belonging to the ego*
+  The unity of the two bodies is affirmed at the same time as the foundation of the organic body's belonging to the ego appears, a foundation residing in the unity of absolute subjectivity.
+  `henry-philosophie-et-phenomenologie-du-corps-commentary#h2-chapter-iv-the-double-use-of-signs-and-the-problem-of-the-constitution-of-one-s` · [Chapter IV. The Double Use of Signs and the Problem of the Constitution of One's Own Body](https://faultynode.github.io/commentaries/commentaries/henry/henry-philosophie-et-phenomenologie-du-corps-commentary.html#chapter-iv-the-double-use-of-signs-and-the-problem-of-the-constitution-of-ones-own-body)
+  > a foundation residing precisely in its unity, which is the unity of absolute subjectivity, of the life of the ego itself
+
+- **presupposed** · `fundierung/henry-corps/009` · *image founded on the organic body*
+  An image founded on the organic body gives a representation of our body richer than one relating only to the being of the objective body, and so is not lacunary.
+  `henry-philosophie-et-phenomenologie-du-corps-commentary#h2-chapter-iv-the-double-use-of-signs-and-the-problem-of-the-constitution-of-one-s` · [Chapter IV. The Double Use of Signs and the Problem of the Constitution of One's Own Body](https://faultynode.github.io/commentaries/commentaries/henry/henry-philosophie-et-phenomenologie-du-corps-commentary.html#chapter-iv-the-double-use-of-signs-and-the-problem-of-the-constitution-of-ones-own-body)
+  > so an image founded on the organic body offers a representation of our body infinitely richer and more complete than one relating only to the being of our objective body
+
+- **introduced** · `fundierung/henry-corps/010` · *a deeper power founding both*
+  The common root of acting and sensing is a deeper power founding both, namely habit, on which rests the unity of our corporeal life.
+  `henry-philosophie-et-phenomenologie-du-corps-commentary#h2-chapter-vi-critique-of-maine-de-biran-s-thought-the-problem-of-passivity` · [Chapter VI. Critique of Maine de Biran's Thought: The Problem of Passivity](https://faultynode.github.io/commentaries/commentaries/henry/henry-philosophie-et-phenomenologie-du-corps-commentary.html#chapter-vi-critique-of-maine-de-birans-thought-the-problem-of-passivity)
+  > The common root of our acting and our sensing is a deeper power founding both: it is *habit*, on which rests the unity of our corporeal life
+
+- **criticized** · `fundierung/henry-corps/011` · *the only possible foundation of their distinction*
+  The ontological homogeneity of activity and passivity is the only possible foundation of their distinction, and Biranism, not recognizing it, cannot assign that difference a foundation.
+  `henry-philosophie-et-phenomenologie-du-corps-commentary#h2-chapter-vi-critique-of-maine-de-biran-s-thought-the-problem-of-passivity` · [Chapter VI. Critique of Maine de Biran's Thought: The Problem of Passivity](https://faultynode.github.io/commentaries/commentaries/henry/henry-philosophie-et-phenomenologie-du-corps-commentary.html#chapter-vi-critique-of-maine-de-birans-thought-the-problem-of-passivity)
+  > *the ontological homogeneity of activity and passivity is the only possible foundation of their distinction*
+
+- **revised** · `fundierung/henry-corps/012` · *ontological possibility understood as foundation*
+  The analysis of the body shows the connection between ontological possibility understood as foundation and original reality - not the reality rendered possible by the foundation but the reality of the foundation itself.
+  `henry-philosophie-et-phenomenologie-du-corps-commentary#h2-conclusion-the-ontological-theory-of-the-body-and-the-problem-of-incarnation-fle` · [Conclusion. The Ontological Theory of the Body and the Problem of Incarnation: Flesh and Spirit](https://faultynode.github.io/commentaries/commentaries/henry/henry-philosophie-et-phenomenologie-du-corps-commentary.html#conclusion-the-ontological-theory-of-the-body-and-the-problem-of-incarnation-flesh-and-spirit)
+  > not the reality rendered possible by the foundation but the reality *of the foundation itself*
+
+*Partial pass: The Introduction, Chapter I §§ 1-3, Chapter IV, Chapter VI and the Conclusion, at the places where the commentary states an ontological founding relation. Not covered: Chapter II (The Subjective Body), Chapter III (Movement and Sensing) in its three sections, and Chapter V (Cartesian Dualism).*
 
 ### 1994 - Rudolf Bernet, La vie du sujet: Recherches sur l'interprétation de Husserl dans la phénoménologie — Commentary
 
@@ -308,11 +517,6 @@
 
 *Where the theme's terms occur but no extraction pass has run. Silence in the sections above is silence about these files, not evidence of absence in them.*
 
-- `husserliana-43-2-studien-zur-struktur-des-bewusstseins-commentary` - 377 term hits, no record
-- `lacan-seminar-11-the-four-fundamental-concepts-of-psychoanalysis-commentary` - 370 term hits, no record
-- `henry-philosophie-et-phenomenologie-du-corps-commentary` - 340 term hits, no record
-- `husserliana-9-phenomenological-psychology-commentary` - 335 term hits, no record
-- `husserliana-26-theory-of-meaning-commentary` - 333 term hits, no record
 - `kant-kritik-der-reinen-vernunft-commentary` - 332 term hits, no record
 - `husserliana-28-vorlesungen-uber-ethik-und-wertlehre-commentary` - 316 term hits, no record
 - `lacan-seminar-1-freuds-papers-on-technique-commentary` - 308 term hits, no record

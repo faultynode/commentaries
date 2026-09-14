@@ -106,7 +106,7 @@ Next candidates, by term density:
 
 ### wesen - essence
 
-1 commentary extracted · 4 units · 1 absences · 1 partial
+26 commentaries extracted · 188 units · 28 absences · 26 partial
 
 Next candidates, by term density:
 

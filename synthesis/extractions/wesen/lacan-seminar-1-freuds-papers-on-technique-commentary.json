@@ -1,0 +1,72 @@
+{
+  "schema_version": 1,
+  "theme": "wesen",
+  "commentary": "lacan-seminar-1-freuds-papers-on-technique-commentary",
+  "source_sha256": "86f48ef8bc6693ceaa0497c33cf28ba98049f33ede95d0ab8bfab29031b3c4a3",
+  "extracted_at": "2026-09-14",
+  "extractor": {
+    "agent": "claude-code",
+    "prompt": "prompts/synthesis-pipeline/extraction-prompt.md",
+    "note": "Whole file grep-counted: 'essential' 112 times, 'essentially' 38, 'essence' 12, 'essences' 0; 'Wesen', 'eidos', 'eidetic', 'Wesensschau' and 'Husserl' occur nowhere in the file. The theme's 125-hit ranking for this commentary is therefore almost entirely the ordinary adverb, exactly the trap CLAUDE.md rule 5 and the operations note about ordinary English words describe. Every one of the twelve occurrences of the noun 'essence' was read in context; the four where it is doing recognizable work are recorded here."
+  },
+  "coverage": "partial",
+  "coverage_note": "Not a section-by-section pass. It reads the twelve occurrences of the noun 'essence' across the whole seminar in context and records the four that are more than an intensifier, plus the transference formula of 17 March. The 150 occurrences of 'essential' and 'essentially' were scanned and judged adverbial; no session was read paragraph by paragraph.",
+  "units": [
+    {
+      "id": "wesen/lacan-sem1/001",
+      "locator": "lacan-seminar-1-freuds-papers-on-technique-commentary#h2-session-of-17-march-1954",
+      "term": "essence",
+      "status": "introduced",
+      "claim": "The efficacious transference at stake is said to be, in its essence, simply the act of speech.",
+      "quote": "We have understood that in its essence the efficacious transference at stake is simply *the act of speech*."
+    },
+    {
+      "id": "wesen/lacan-sem1/002",
+      "locator": "lacan-seminar-1-freuds-papers-on-technique-commentary#h2-session-of-16-june-1954",
+      "term": "by essence",
+      "status": "presupposed",
+      "claim": "The sun is called, by essence and phenomenologically, the centre of what runs across the world of appearances and the unity of light.",
+      "quote": "*The sun, by essence and phenomenologically center of what runs across the world of appearances, the unity of light*"
+    },
+    {
+      "id": "wesen/lacan-sem1/003",
+      "locator": "lacan-seminar-1-freuds-papers-on-technique-commentary#h2-session-of-23-june-1954",
+      "term": "essence",
+      "status": "introduced",
+      "claim": "What surges up as the essence of the thing is identified with what is called the concept, the evocation of something that is the thing itself present there.",
+      "quote": "it makes surge something which is *its essence* — *what is called the concept*"
+    },
+    {
+      "id": "wesen/lacan-sem1/004",
+      "locator": "lacan-seminar-1-freuds-papers-on-technique-commentary#h3-ii-speech-is-necessary-to-show-the-signification-of-speech",
+      "term": "by essence",
+      "status": "presupposed",
+      "claim": "Speech is called the action by essence that demonstrates itself by signs, the only sign whose signification can be demonstrated equivalently by itself.",
+      "quote": "*It is the action by essence that demonstrates itself by signs*."
+    },
+    {
+      "id": "wesen/lacan-sem1/005",
+      "locator": "lacan-seminar-1-freuds-papers-on-technique-commentary#h3-xiii-speech-does-not-even-manifest-the-interior-feelings",
+      "term": "by essence",
+      "status": "presupposed",
+      "claim": "The paths of truth are said to be paths of error by essence, error being the common and habitual incarnation of truth.",
+      "quote": "*The paths of truth are paths of error by essence*."
+    },
+    {
+      "id": "wesen/lacan-sem1/006",
+      "locator": "lacan-seminar-1-freuds-papers-on-technique-commentary#h2-session-of-3-february-1954",
+      "term": "innate predisposition",
+      "status": "criticized",
+      "claim": "Freud's discovery is said to require no invocation of any innate predisposition, though he admits one occasionally as a general framework.",
+      "quote": "in the end there is no need to invoke any innate predisposition"
+    }
+  ],
+  "absences": [
+    {
+      "locator": "lacan-seminar-1-freuds-papers-on-technique-commentary#h2-session-of-16-june-1954",
+      "expected_because": "This session runs an explicitly phenomenological argument about the sun as the centre of the world of appearances and about the concept as what makes the thing present in its absence - the nearest this seminar comes to a doctrine of essence - and it does so with no phenomenological vocabulary of essence at all.",
+      "absent_terms": ["Wesen", "eidos", "eidetic", "Wesensschau", "Husserl", "immutable", "simple nature"],
+      "note": "Recorded to settle the ranking: this commentary places high on the wesen density list only because 'essential' and 'essentially' are ordinary words in it. Neither Husserl nor any eidetic term occurs anywhere in the file."
+    }
+  ]
+}
