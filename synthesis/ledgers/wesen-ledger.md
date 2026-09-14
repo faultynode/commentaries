@@ -154,6 +154,49 @@
 
 *Partial pass: Covers § 31 (categorial object and categorial essence), § 32 (meaning as propositional essence or possibility) and § 36 a-b (existential and essential judgments) in full - the four sections where the essence-vocabulary is doing technical work. The rest of the lectures, where 'essence' occurs largely inside 'meaning-essence' and 'intuitive essence' in passing, was keyword-scanned only.*
 
+### 1908-1909 to 1914 - Husserl, Hua 28 — Vorlesungen über Ethik und Wertlehre
+
+`husserliana-28-vorlesungen-uber-ethik-und-wertlehre-commentary`
+
+- **introduced** · `wesen/hua28-ethik/001` · *essence-doctrine*
+  A priori philosophy is characterized as an a priori doctrine of principles, the pure essence-doctrine and norm-doctrine of absolute being thought in formal generality.
+  `husserliana-28-vorlesungen-uber-ethik-und-wertlehre-commentary#h4-a-the-science-theoretical-character-of-the-logical-and-noetic-disciplines` · Hua XXVIII § 4 · [(a) The Science-Theoretical Character of the Logical and Noetic Disciplines](https://faultynode.github.io/commentaries/commentaries/husserl/husserliana-28-vorlesungen-uber-ethik-und-wertlehre-commentary.html#a-the-science-theoretical-character-of-the-logical-and-noetic-disciplines)
+  > an apriori philosophical doctrine of principles, the pure essence-doctrine and norm-doctrine of absolute being thought in formal generality
+
+- **introduced** · `wesen/hua28-ethik/002` · *essence-laws*
+  No facts are in principle derivable from essence-laws, which prescribe to the facts only possibilities, in the manner of ideal norms.
+  `husserliana-28-vorlesungen-uber-ethik-und-wertlehre-commentary#h4-a-the-science-theoretical-character-of-the-logical-and-noetic-disciplines` · Hua XXVIII § 4 · [(a) The Science-Theoretical Character of the Logical and Noetic Disciplines](https://faultynode.github.io/commentaries/commentaries/husserl/husserliana-28-vorlesungen-uber-ethik-und-wertlehre-commentary.html#a-the-science-theoretical-character-of-the-logical-and-noetic-disciplines)
+  > for from essence-laws no facts are in principle to be derived, the essence-laws prescribing to the facts only possibilities, in the manner of ideal norms.
+
+- **introduced** · `wesen/hua28-ethik/003` · *material apriori*
+  A material a priori, the essence-laws of colour and tone and the like, is said to fall outside the formal ontologies, so that the formal a priori does not exhaust the a priori.
+  `husserliana-28-vorlesungen-uber-ethik-und-wertlehre-commentary#h4-a-the-science-theoretical-character-of-the-logical-and-noetic-disciplines` · Hua XXVIII § 4 · [(a) The Science-Theoretical Character of the Logical and Noetic Disciplines](https://faultynode.github.io/commentaries/commentaries/husserl/husserliana-28-vorlesungen-uber-ethik-und-wertlehre-commentary.html#a-the-science-theoretical-character-of-the-logical-and-noetic-disciplines)
+  > there is a *material* apriori (the essence-laws of color, tone, and the like) that falls outside the formal ontologies
+
+- **presupposed** · `wesen/hua28-ethik/004` · *essence-relations*
+  The phenomenological-reason-critical dimension is said to concern the puzzling essence-relations between being and consciousness.
+  `husserliana-28-vorlesungen-uber-ethik-und-wertlehre-commentary#h4-a-the-principle-doctrines-offer-the-clues-for-the-phenomenological-epistemologic` · Hua XXVIII § 6 · [(a) The Principle-Doctrines Offer the Clues for the Phenomenological-Epistemological Investigations](https://faultynode.github.io/commentaries/commentaries/husserl/husserliana-28-vorlesungen-uber-ethik-und-wertlehre-commentary.html#a-the-principle-doctrines-offer-the-clues-for-the-phenomenological-epistemological-investigations)
+  > it concerns the puzzling essence-relations between being and consciousness
+
+- **introduced** · `wesen/hua28-ethik/005` · *essence of the will-act*
+  Whether a will-act is convenient or not is said to be wholly determined by the own essence of the respective will-act.
+  `husserliana-28-vorlesungen-uber-ethik-und-wertlehre-commentary#h3-s-21-the-objectivity-of-the-practical-possibilities-and-their-relativity-to-the` · Hua XXVIII § 21 · [§ 21\. The Objectivity of the Practical Possibilities and Their Relativity to the Subject. The Convenience or Inconvenience Grounded in the Essence of the Will-Act. The Components of Perfect Will-Rightness](https://faultynode.github.io/commentaries/commentaries/husserl/husserliana-28-vorlesungen-uber-ethik-und-wertlehre-commentary.html#the-objectivity-of-the-practical-possibilities-and-their-relativity-to-the-subject-the-convenience-or-inconvenience-grounded-in-the-essence-of-the-will-act-the-components-of-perfect-will-rightness)
+  > it is clear that by the own essence of the respective will-act it is wholly determined whether it is convenient or not
+
+- **introduced** · `wesen/hua28-ethik/006` · *essence-analysis*
+  Judging insightfully about will-rightness in the objective attitude is described as performing an essence-analysis of the components that make up full rightness in the highest sense.
+  `husserliana-28-vorlesungen-uber-ethik-und-wertlehre-commentary#h3-s-21-the-objectivity-of-the-practical-possibilities-and-their-relativity-to-the` · Hua XXVIII § 21 · [§ 21\. The Objectivity of the Practical Possibilities and Their Relativity to the Subject. The Convenience or Inconvenience Grounded in the Essence of the Will-Act. The Components of Perfect Will-Rightness](https://faultynode.github.io/commentaries/commentaries/husserl/husserliana-28-vorlesungen-uber-ethik-und-wertlehre-commentary.html#the-objectivity-of-the-practical-possibilities-and-their-relativity-to-the-subject-the-convenience-or-inconvenience-grounded-in-the-essence-of-the-will-act-the-components-of-perfect-will-rightness)
+  > performing an essence-analysis of the components that make up full rightness in the highest sense
+
+#### Recorded absences
+
+- **absent** · `husserliana-28-vorlesungen-uber-ethik-und-wertlehre-commentary#h4-a-the-science-theoretical-character-of-the-logical-and-noetic-disciplines`
+  Expected because: This section lays out what an a priori essence-doctrine is and distinguishes formal from material essence-laws, so it is where the method by which essences are seen - and any comparison with a rationalist doctrine of innate or immutable natures - would be stated if the lectures stated it.
+  The lectures secure essence-laws by insight and the parallel with pure logic, without any eidetic terminology and without naming Descartes anywhere in the file.
+  [(a) The Science-Theoretical Character of the Logical and Noetic Disciplines](https://faultynode.github.io/commentaries/commentaries/husserl/husserliana-28-vorlesungen-uber-ethik-und-wertlehre-commentary.html#a-the-science-theoretical-character-of-the-logical-and-noetic-disciplines)
+
+*Partial pass: Covers § 4(a) (the science-theoretical character of the logical and noetic disciplines), § 6(a) (the principle-doctrines as clues for epistemological investigation) and § 21 (the convenience grounded in the essence of the will-act). Sections I-III and the remainder of the Formal Praktik were keyword-scanned only. The vocabulary here is 'essence-doctrine', 'essence-law' and 'essence-analysis' throughout; the eidetic terminology proper is absent from the file.*
+
 ### 1910-1911 - Husserl, Hua 13 — Basic Problems of Phenomenology
 
 `husserliana-13-basic-problems-of-phenomenology-commentary`
@@ -244,49 +287,6 @@
   [a) The Phenomenological Analysis of Thing-Givenness as the Path to Determining the Essence “Material Thing”](https://faultynode.github.io/commentaries/commentaries/husserl/husserliana-4-ideas-ii-commentary.html#a-the-phenomenological-analysis-of-thing-givenness-as-the-path-to-determining-the-essence-material-thing)
 
 *Partial pass: Covers the Second Chapter's §§ 12-13 and § 15 a-b, where the essence of materiality is at issue. The First and Third Chapters, Section Two (the constitution of animal nature) and Section Three (the spiritual world) were keyword-scanned only.*
-
-### 1914 - Husserl, Hua 28 — Vorlesungen über Ethik und Wertlehre
-
-`husserliana-28-vorlesungen-uber-ethik-und-wertlehre-commentary`
-
-- **introduced** · `wesen/hua28-ethik/001` · *essence-doctrine*
-  A priori philosophy is characterized as an a priori doctrine of principles, the pure essence-doctrine and norm-doctrine of absolute being thought in formal generality.
-  `husserliana-28-vorlesungen-uber-ethik-und-wertlehre-commentary#h4-a-the-science-theoretical-character-of-the-logical-and-noetic-disciplines` · Hua XXVIII § 4 · [(a) The Science-Theoretical Character of the Logical and Noetic Disciplines](https://faultynode.github.io/commentaries/commentaries/husserl/husserliana-28-vorlesungen-uber-ethik-und-wertlehre-commentary.html#a-the-science-theoretical-character-of-the-logical-and-noetic-disciplines)
-  > an apriori philosophical doctrine of principles, the pure essence-doctrine and norm-doctrine of absolute being thought in formal generality
-
-- **introduced** · `wesen/hua28-ethik/002` · *essence-laws*
-  No facts are in principle derivable from essence-laws, which prescribe to the facts only possibilities, in the manner of ideal norms.
-  `husserliana-28-vorlesungen-uber-ethik-und-wertlehre-commentary#h4-a-the-science-theoretical-character-of-the-logical-and-noetic-disciplines` · Hua XXVIII § 4 · [(a) The Science-Theoretical Character of the Logical and Noetic Disciplines](https://faultynode.github.io/commentaries/commentaries/husserl/husserliana-28-vorlesungen-uber-ethik-und-wertlehre-commentary.html#a-the-science-theoretical-character-of-the-logical-and-noetic-disciplines)
-  > for from essence-laws no facts are in principle to be derived, the essence-laws prescribing to the facts only possibilities, in the manner of ideal norms.
-
-- **introduced** · `wesen/hua28-ethik/003` · *material apriori*
-  A material a priori, the essence-laws of colour and tone and the like, is said to fall outside the formal ontologies, so that the formal a priori does not exhaust the a priori.
-  `husserliana-28-vorlesungen-uber-ethik-und-wertlehre-commentary#h4-a-the-science-theoretical-character-of-the-logical-and-noetic-disciplines` · Hua XXVIII § 4 · [(a) The Science-Theoretical Character of the Logical and Noetic Disciplines](https://faultynode.github.io/commentaries/commentaries/husserl/husserliana-28-vorlesungen-uber-ethik-und-wertlehre-commentary.html#a-the-science-theoretical-character-of-the-logical-and-noetic-disciplines)
-  > there is a *material* apriori (the essence-laws of color, tone, and the like) that falls outside the formal ontologies
-
-- **presupposed** · `wesen/hua28-ethik/004` · *essence-relations*
-  The phenomenological-reason-critical dimension is said to concern the puzzling essence-relations between being and consciousness.
-  `husserliana-28-vorlesungen-uber-ethik-und-wertlehre-commentary#h4-a-the-principle-doctrines-offer-the-clues-for-the-phenomenological-epistemologic` · Hua XXVIII § 6 · [(a) The Principle-Doctrines Offer the Clues for the Phenomenological-Epistemological Investigations](https://faultynode.github.io/commentaries/commentaries/husserl/husserliana-28-vorlesungen-uber-ethik-und-wertlehre-commentary.html#a-the-principle-doctrines-offer-the-clues-for-the-phenomenological-epistemological-investigations)
-  > it concerns the puzzling essence-relations between being and consciousness
-
-- **introduced** · `wesen/hua28-ethik/005` · *essence of the will-act*
-  Whether a will-act is convenient or not is said to be wholly determined by the own essence of the respective will-act.
-  `husserliana-28-vorlesungen-uber-ethik-und-wertlehre-commentary#h3-s-21-the-objectivity-of-the-practical-possibilities-and-their-relativity-to-the` · Hua XXVIII § 21 · [§ 21\. The Objectivity of the Practical Possibilities and Their Relativity to the Subject. The Convenience or Inconvenience Grounded in the Essence of the Will-Act. The Components of Perfect Will-Rightness](https://faultynode.github.io/commentaries/commentaries/husserl/husserliana-28-vorlesungen-uber-ethik-und-wertlehre-commentary.html#the-objectivity-of-the-practical-possibilities-and-their-relativity-to-the-subject-the-convenience-or-inconvenience-grounded-in-the-essence-of-the-will-act-the-components-of-perfect-will-rightness)
-  > it is clear that by the own essence of the respective will-act it is wholly determined whether it is convenient or not
-
-- **introduced** · `wesen/hua28-ethik/006` · *essence-analysis*
-  Judging insightfully about will-rightness in the objective attitude is described as performing an essence-analysis of the components that make up full rightness in the highest sense.
-  `husserliana-28-vorlesungen-uber-ethik-und-wertlehre-commentary#h3-s-21-the-objectivity-of-the-practical-possibilities-and-their-relativity-to-the` · Hua XXVIII § 21 · [§ 21\. The Objectivity of the Practical Possibilities and Their Relativity to the Subject. The Convenience or Inconvenience Grounded in the Essence of the Will-Act. The Components of Perfect Will-Rightness](https://faultynode.github.io/commentaries/commentaries/husserl/husserliana-28-vorlesungen-uber-ethik-und-wertlehre-commentary.html#the-objectivity-of-the-practical-possibilities-and-their-relativity-to-the-subject-the-convenience-or-inconvenience-grounded-in-the-essence-of-the-will-act-the-components-of-perfect-will-rightness)
-  > performing an essence-analysis of the components that make up full rightness in the highest sense
-
-#### Recorded absences
-
-- **absent** · `husserliana-28-vorlesungen-uber-ethik-und-wertlehre-commentary#h4-a-the-science-theoretical-character-of-the-logical-and-noetic-disciplines`
-  Expected because: This section lays out what an a priori essence-doctrine is and distinguishes formal from material essence-laws, so it is where the method by which essences are seen - and any comparison with a rationalist doctrine of innate or immutable natures - would be stated if the lectures stated it.
-  The lectures secure essence-laws by insight and the parallel with pure logic, without any eidetic terminology and without naming Descartes anywhere in the file.
-  [(a) The Science-Theoretical Character of the Logical and Noetic Disciplines](https://faultynode.github.io/commentaries/commentaries/husserl/husserliana-28-vorlesungen-uber-ethik-und-wertlehre-commentary.html#a-the-science-theoretical-character-of-the-logical-and-noetic-disciplines)
-
-*Partial pass: Covers § 4(a) (the science-theoretical character of the logical and noetic disciplines), § 6(a) (the principle-doctrines as clues for epistemological investigation) and § 21 (the convenience grounded in the essence of the will-act). Sections I-III and the remainder of the Formal Praktik were keyword-scanned only. The vocabulary here is 'essence-doctrine', 'essence-law' and 'essence-analysis' throughout; the eidetic terminology proper is absent from the file.*
 
 ### 1917 to 1918 - Husserl, Hua 33 — Die Bernauer Manuskripte über das Zeitbewußtsein
 

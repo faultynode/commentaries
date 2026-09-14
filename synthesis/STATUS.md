@@ -8,17 +8,17 @@ Corpus: **53 commentaries**, 2,934,474 words, 3902 sections indexed in `synthesi
 
 ### fundierung - founding of higher-order objectivities
 
-8 commentaries extracted · 48 units · 0 absences · 8 partial
+13 commentaries extracted · 110 units · 2 absences · 13 partial
 
 Next candidates, by term density:
 
-- [ ] `husserliana-43-2-studien-zur-struktur-des-bewusstseins-commentary` (undated) - 377 hits
-- [ ] `lacan-seminar-11-the-four-fundamental-concepts-of-psychoanalysis-commentary` (1964) - 370 hits
-- [ ] `henry-philosophie-et-phenomenologie-du-corps-commentary` (1965) - 340 hits
-- [ ] `husserliana-9-phenomenological-psychology-commentary` (1925) - 335 hits
-- [ ] `husserliana-26-theory-of-meaning-commentary` (1908) - 333 hits
 - [ ] `kant-kritik-der-reinen-vernunft-commentary` (undated) - 332 hits
-- ... 39 more; see `synthesis_query.py --theme fundierung`
+- [ ] `husserliana-28-vorlesungen-uber-ethik-und-wertlehre-commentary` (1908) - 316 hits
+- [ ] `lacan-seminar-1-freuds-papers-on-technique-commentary` (1953) - 308 hits
+- [ ] `husserliana-33-die-bernauer-manuskripte-uber-das-zeitbewusstsein-commentary` (1917) - 238 hits
+- [ ] `husserl-erfahrung-und-urteil-commentary` (undated) - 234 hits
+- [ ] `Heidegger GA 3 - Kant und das Problem der Metaphysik Commentary` (undated) - 226 hits
+- ... 34 more; see `synthesis_query.py --theme fundierung`
 
 ### intentionalitaet - intentionality
 
@@ -177,7 +177,6 @@ These commentaries do not date their own text, so they sit off the ledger spine.
 - [ ] `husserliana-3-ideas-i-commentary`
 - [ ] `husserliana-3-ideas-i-parts-3-4-commentary`
 - [ ] `husserliana-39-die-lebenswelt-commentary`
-- [ ] `husserliana-43-2-studien-zur-struktur-des-bewusstseins-commentary`
 - [ ] `husserliana-5-ideas-iii-commentary` - Hua V shares the Stein and Landgrebe strata recorded under husserliana-4-ideas-ii-commentary, per that commentary's editor's introduction. Do not copy those strata here until this commentary states them itself.
 - [ ] `mohanty-philosophy-of-edmund-husserl-commentary`
 - [ ] `picht-de-anima-commentary`
