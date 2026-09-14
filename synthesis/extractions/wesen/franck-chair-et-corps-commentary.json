@@ -1,0 +1,80 @@
+{
+  "schema_version": 1,
+  "theme": "wesen",
+  "commentary": "franck-chair-et-corps-commentary",
+  "source_sha256": "0757213bac9658321459643d6202563f502dbbf2f877f1e30d07dd34c897d9d5",
+  "extracted_at": "2026-09-14",
+  "extractor": {
+    "agent": "claude-code",
+    "prompt": "prompts/synthesis-pipeline/extraction-prompt.md",
+    "note": "Whole file grep-scanned for the theme's search terms plus 'Wesensschau', 'immutable', 'innate', 'Descartes', 'residuum' and 'simple nature'. 'residuum' occurs in Chapter Five, of the pure Ego left after the exclusion of the world, and is recorded as unit 007. Closely read Chapter Five (lines 205-240)."
+  },
+  "coverage": "partial",
+  "coverage_note": "Covers Chapter Five (eidetic reduction and archi-facticity) in full. Chapters One, Four and Six, which carry the remaining hits, were keyword-scanned only.",
+  "units": [
+    {
+      "id": "wesen/franck-chair/001",
+      "locator": "franck-chair-et-corps-commentary#h2-chapter-five-eidetic-reduction-and-archi-facticity",
+      "term": "eidetic analysis",
+      "status": "introduced",
+      "claim": "The charge that the analysis falls back into an ego-metaphysic is answered by the transcendental analysis becoming an eidetic analysis.",
+      "quote": "this would be the case if the transcendental analysis did not become an *eidetic* analysis."
+    },
+    {
+      "id": "wesen/franck-chair/002",
+      "locator": "franck-chair-et-corps-commentary#h2-chapter-five-eidetic-reduction-and-archi-facticity",
+      "term": "eidetic ego",
+      "status": "presupposed",
+      "claim": "After the passage from the de facto ego to the eidetic ego, all constitutive investigations are said to acquire eidetic generality.",
+      "quote": "after the passage from the de facto ego to the eidetic ego, all constitutive investigations acquire eidetic generality"
+    },
+    {
+      "id": "wesen/franck-chair/003",
+      "locator": "franck-chair-et-corps-commentary#h2-chapter-five-eidetic-reduction-and-archi-facticity",
+      "term": "eidos",
+      "status": "introduced",
+      "claim": "Through the multiplicity of free variations of a factum an invariant appears, a general essence, an eidos.",
+      "quote": "Through this multiplicity, an invariant — a general essence, an *eidos* — appears."
+    },
+    {
+      "id": "wesen/franck-chair/004",
+      "locator": "franck-chair-et-corps-commentary#h2-chapter-five-eidetic-reduction-and-archi-facticity",
+      "term": "eidos",
+      "status": "introduced",
+      "claim": "The eidos is defined as that without which the object in the free play of variation can neither be thought nor intuitively given.",
+      "quote": "The eidos is that without which the object in the free play of variation can neither be thought nor intuitively given."
+    },
+    {
+      "id": "wesen/franck-chair/005",
+      "locator": "franck-chair-et-corps-commentary#h2-chapter-five-eidetic-reduction-and-archi-facticity",
+      "term": "eidetic reduction",
+      "status": "revised",
+      "claim": "Because variation rests on a passively operating connecting unity, the eidetic reduction is said to presuppose immanent temporality.",
+      "quote": "the eidetic reduction presupposes *immanent temporality*"
+    },
+    {
+      "id": "wesen/franck-chair/006",
+      "locator": "franck-chair-et-corps-commentary#h2-chapter-five-eidetic-reduction-and-archi-facticity",
+      "term": "eidos ego",
+      "status": "criticized",
+      "claim": "The variation leading to the intuition of the eidos ego is said to presuppose that other egos can be given, which is the difficulty of reducing to it within an egology.",
+      "quote": "The variation leading to the intuition of the eidos ego would presuppose that other egos can be given."
+    },
+    {
+      "id": "wesen/franck-chair/007",
+      "locator": "franck-chair-et-corps-commentary#h2-chapter-five-eidetic-reduction-and-archi-facticity",
+      "term": "residuum",
+      "status": "presupposed",
+      "claim": "The pure Ego is described, in a citation from Husserl, as a residuum retained after the phenomenological exclusion of the world and the empirical subjectivity included in it.",
+      "quote": "if we retain a pure Ego as a residuum after the phenomenological exclusion of the world"
+    }
+  ],
+  "absences": [
+    {
+      "locator": "franck-chair-et-corps-commentary#h2-chapter-five-eidetic-reduction-and-archi-facticity",
+      "expected_because": "The chapter defines the eidos by free variation and, separately, uses 'residuum' of the pure Ego - so it is precisely the section where gap-007's two questions, whether an essence is ever called a residuum and whether the eidos is read as the heir of Descartes' true and immutable natures, would be answered if this commentary answered them.",
+      "absent_terms": ["true and immutable", "immutable", "innate", "innate idea", "simple nature", "Descartes", "Wesensschau"],
+      "note": "Bears on gap-007. 'Residuum' occurs in this section, but of the pure Ego and never of an essence - the same split Ideas I Parts 3-4 shows."
+    }
+  ]
+}

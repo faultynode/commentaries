@@ -1,0 +1,84 @@
+{
+  "schema_version": 1,
+  "theme": "wesen",
+  "commentary": "husserl-formal-and-transcendental-logic-commentary",
+  "source_sha256": "04e5753e083caeb49e03ab9548070ef879b6571320ae58ffdca2c89992f8f95b",
+  "extracted_at": "2026-09-14",
+  "extractor": {
+    "agent": "claude-code",
+    "prompt": "prompts/synthesis-pipeline/extraction-prompt.md",
+    "note": "Whole file grep-counted for the theme's search terms plus 'eidetic', 'eidos', 'Wesensschau', 'free variation', 'immutable', 'innate', 'residuum' and 'Descartes'. 'eidetic' and 'eidos' occur once each, both in the Concluding Word; 'Wesensschau', 'free variation', 'immutable', 'innate' and 'residuum' occur nowhere; 'Descartes' occurs six times, all about the Meditations as a method of radical grounding. Closely read the Introduction (lines 11-78) and the Concluding Word (855-859)."
+  },
+  "coverage": "partial",
+  "coverage_note": "Covers the Introduction and the Concluding Word. Parts I and II, the Appendices, and § 93 (whose heading names Descartes but whose body is empty in this commentary) were keyword-scanned only. The theme's 61 sections of hits in this file are overwhelmingly 'essential' used adverbially or in the phrases 'essential necessity' and 'essential generality'; the eidetic vocabulary proper appears only at the very end.",
+  "units": [
+    {
+      "id": "wesen/ftl/001",
+      "locator": "husserl-formal-and-transcendental-logic-commentary#h2-introduction",
+      "primary_locator": "FTL, Introduction",
+      "term": "essential requirements",
+      "status": "presupposed",
+      "claim": "Logic in the genuine sense is traced to the Platonic founding, as a site for investigating the essential requirements of genuine knowing and genuine science.",
+      "quote": "logic conceived as a site for investigating the essential requirements of \"genuine\" knowing and \"genuine\" science"
+    },
+    {
+      "id": "wesen/ftl/002",
+      "locator": "husserl-formal-and-transcendental-logic-commentary#h2-introduction",
+      "primary_locator": "FTL, Introduction",
+      "term": "essence of genuine science",
+      "status": "introduced",
+      "claim": "Logic's great function is said to be investigating in essential generality the paths to ultimate principles, and so unfolding the essence of genuine science as such, its pure possibility.",
+      "quote": "through unfolding the essence of genuine science as such (its pure possibility), to give actual science norm and guidance"
+    },
+    {
+      "id": "wesen/ftl/003",
+      "locator": "husserl-formal-and-transcendental-logic-commentary#h2-introduction",
+      "primary_locator": "FTL, Introduction",
+      "term": "essential norms",
+      "status": "criticized",
+      "claim": "Logic is charged with going astray from its own sense by failing to pursue the pure essential norms of science according to all its essential formations.",
+      "quote": "Instead of pursuing the pure essential norms of science according to all its essential formations"
+    },
+    {
+      "id": "wesen/ftl/004",
+      "locator": "husserl-formal-and-transcendental-logic-commentary#h2-introduction",
+      "primary_locator": "FTL, Introduction",
+      "term": "essential conditions",
+      "status": "presupposed",
+      "claim": "Formal logic is called the first historical attempt at a universal science-theory, a theory related to the essential conditions of possible science as such.",
+      "quote": "a theory related to the essential conditions of possible science as such"
+    },
+    {
+      "id": "wesen/ftl/005",
+      "locator": "husserl-formal-and-transcendental-logic-commentary#h2-concluding-word",
+      "primary_locator": "FTL, Concluding Word",
+      "term": "eidetic variation",
+      "status": "introduced",
+      "claim": "A purely possible world in general is said to arise as eidos concretely through the method of eidetic variation from the factually given world.",
+      "quote": "which as eidos must concretely arise through the method of eidetic variation from the factually given world"
+    },
+    {
+      "id": "wesen/ftl/006",
+      "locator": "husserl-formal-and-transcendental-logic-commentary#h2-concluding-word",
+      "primary_locator": "FTL, Concluding Word",
+      "term": "eidetic description",
+      "status": "introduced",
+      "claim": "A transcendental aesthetic in a new sense is projected as the eidetic description of the universal a priori without which objects could not unitarily appear before the categorial actions.",
+      "quote": "the eidetic description of the universal a priori without which in mere experience and before the categorial actions, objects could not unitarily appear"
+    }
+  ],
+  "absences": [
+    {
+      "locator": "husserl-formal-and-transcendental-logic-commentary#h2-introduction",
+      "expected_because": "The Introduction runs the whole Cartesian theme - the Discourse on Method, the Meditations as first philosophy, the failure of Descartes' own radical grounding - and so is where Descartes' doctrine of essences would be taken up if this commentary took it up; it engages only his method.",
+      "absent_terms": ["true and immutable", "immutable", "innate", "innate idea", "simple nature", "residuum", "Wesensschau", "eidetic", "eidos"],
+      "note": "Bears on gap-007. Descartes is named repeatedly in this section, which is why the absence is informative: the engagement is with the Meditations as a programme of radical grounding, never with vera et immutabilis natura."
+    },
+    {
+      "locator": "husserl-formal-and-transcendental-logic-commentary#h2-concluding-word",
+      "expected_because": "This is the only place in the commentary where eidos and eidetic variation appear, and it projects a transcendental aesthetic as eidetic description of the world-a-priori - the natural place to say what an essence so obtained is, in residuum or immutability terms.",
+      "absent_terms": ["true and immutable", "immutable", "innate", "simple nature", "residuum", "Wesensschau"],
+      "note": "The eidos here is obtained by variation from the factually given world; nothing is said of innateness, immutability, or a residuum."
+    }
+  ]
+}
