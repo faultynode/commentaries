@@ -47,7 +47,7 @@
 
 *Where the theme's terms occur but no extraction pass has run. Silence in the sections above is silence about these files, not evidence of absence in them.*
 
-- `henry-the-essence-of-manifestation-commentary` - 3585 term hits, no record
+- `henry-the-essence-of-manifestation-commentary` - 3586 term hits, no record
 - `husserliana-3-ideas-i-parts-3-4-commentary` - 1038 term hits, no record
 - `Heidegger GA 3 - Kant und das Problem der Metaphysik Commentary` - 508 term hits, no record
 - `heidegger-ga-3-kant-und-das-problem-der-metaphysik-commentary` - 508 term hits, no record

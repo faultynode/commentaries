@@ -151,6 +151,87 @@
 
 *Partial pass: Chapter 2 § 7 and Chapter 4 § 6 in the first run of the text, and §§ 19, 23, 24, 31, 34 b) and 36 b) plus § 8 b) in the second. Not covered: the Introduction, Chapter 1, §§ 5-6 and 8-18, 20-22, 25-30, 32-33, 35, 37-39, and the supplementary texts. Note that Chapters 2-4 appear twice in this file; locators here name the occurrence read.*
 
+### 1911 - Husserl, Hua 43/2 — Studien zur Struktur des Bewusstseins
+
+`husserliana-43-2-studien-zur-struktur-des-bewusstseins-commentary`
+
+- **introduced** · `fundierung/husserliana-43-2/001` · *founded (valuing on objectifying act)*
+  Valuing presupposes the object it bears on and is founded in a presentation, in another, objectifying act.
+  `husserliana-43-2-studien-zur-struktur-des-bewusstseins-commentary#h3-s-1-determinations-of-the-thing-and-determinations-of-value` · Hua XLIII/2, Part I § 1 · [§ 1\. Determinations of the Thing and Determinations of Value](https://faultynode.github.io/commentaries/commentaries/husserl/husserliana-43-2-studien-zur-struktur-des-bewusstseins-commentary.html#determinations-of-the-thing-and-determinations-of-value)
+  > valuing presupposes the object on which it bears: it is *founded* in a presentation, in another, "objectifying" act
+
+- **introduced** · `fundierung/husserliana-43-2/002` · *Sein / Wertsein*
+  Objects constitute themselves as what they are through the understanding, before all value-being, and constitute themselves in their value-determinations through feeling.
+  `husserliana-43-2-studien-zur-struktur-des-bewusstseins-commentary#h3-s-1-determinations-of-the-thing-and-determinations-of-value` · Hua XLIII/2, Part I § 1 · [§ 1\. Determinations of the Thing and Determinations of Value](https://faultynode.github.io/commentaries/commentaries/husserl/husserliana-43-2-studien-zur-struktur-des-bewusstseins-commentary.html#determinations-of-the-thing-and-determinations-of-value)
+  > objects constitute themselves as what they are, and "before" all value-being, *through the understanding* (*durch den Verstand*); they constitute themselves with respect to their value-determinations *through feeling*
+
+- **presupposed** · `fundierung/husserliana-43-2/003` · *new act founded in perceiving*
+  Valuing the cigar as perceived is a new act founded in perceiving, in which the cigar stands there as a value.
+  `husserliana-43-2-studien-zur-struktur-des-bewusstseins-commentary#h3-s-5-valuing-as-an-act-founded-in-perceiving-fulfillment-of-the-value-meaning-imm` · Hua XLIII/2, Part I § 5 · [§ 5\. Valuing as an Act Founded in Perceiving. Fulfillment of the Value-Meaning. Immediate and Mediate Values](https://faultynode.github.io/commentaries/commentaries/husserl/husserliana-43-2-studien-zur-struktur-des-bewusstseins-commentary.html#valuing-as-an-act-founded-in-perceiving-fulfillment-of-the-value-meaning-immediate-and-mediate-values)
+  > This valuing is a *new act founded in perceiving* (an act-impression), in which this cigar "stands there" as a value
+
+- **introduced** · `fundierung/husserliana-43-2/004` · *perception of the higher objectivity*
+  Thing-perception with its levels is to be distinguished from the perception of the higher objectivity - thing-value, good, use-object.
+  `husserliana-43-2-studien-zur-struktur-des-bewusstseins-commentary#h3-s-5-valuing-as-an-act-founded-in-perceiving-fulfillment-of-the-value-meaning-imm` · Hua XLIII/2, Part I § 5 · [§ 5\. Valuing as an Act Founded in Perceiving. Fulfillment of the Value-Meaning. Immediate and Mediate Values](https://faultynode.github.io/commentaries/commentaries/husserl/husserliana-43-2-studien-zur-struktur-des-bewusstseins-commentary.html#valuing-as-an-act-founded-in-perceiving-fulfillment-of-the-value-meaning-immediate-and-mediate-values)
+  > one must distinguish *thing-perception* (matter-perception) with its various levels and *the perception of the higher objectivity*: thing-value, good, use-object, etc.
+
+- **introduced** · `fundierung/husserliana-43-2/005` · *immanent and unity-values as foundational*
+  The value-grounding determinates of a thing lead back, where demonstrable, to immanent and unity-values, which are foundational for all mediacy in value-holding.
+  `husserliana-43-2-studien-zur-struktur-des-bewusstseins-commentary#h3-s-5-valuing-as-an-act-founded-in-perceiving-fulfillment-of-the-value-meaning-imm` · Hua XLIII/2, Part I § 5 · [§ 5\. Valuing as an Act Founded in Perceiving. Fulfillment of the Value-Meaning. Immediate and Mediate Values](https://faultynode.github.io/commentaries/commentaries/husserl/husserliana-43-2-studien-zur-struktur-des-bewusstseins-commentary.html#valuing-as-an-act-founded-in-perceiving-fulfillment-of-the-value-meaning-immediate-and-mediate-values)
+  > These latter, in case of demonstrability, are again led back to immanent and unity-values, which are foundational for all *mediacy* in the value-holding.
+
+- **presupposed** · `fundierung/husserliana-43-2/006` · *found (preference on value-meanings)*
+  Two value-meanings found a preference, whose correlate is the relative priority of one valued object over the other.
+  `husserliana-43-2-studien-zur-struktur-des-bewusstseins-commentary#h3-s-5-valuing-as-an-act-founded-in-perceiving-fulfillment-of-the-value-meaning-imm` · Hua XLIII/2, Part I § 5 · [§ 5\. Valuing as an Act Founded in Perceiving. Fulfillment of the Value-Meaning. Immediate and Mediate Values](https://faultynode.github.io/commentaries/commentaries/husserl/husserliana-43-2-studien-zur-struktur-des-bewusstseins-commentary.html#valuing-as-an-act-founded-in-perceiving-fulfillment-of-the-value-meaning-immediate-and-mediate-values)
+  > The two value-meanings *found* a preference, whose correlate is the relative priority of A over B.
+
+- **introduced** · `fundierung/husserliana-43-2/007` · *founded in the wish*
+  The will is founded in the wish and through this is directed at a held-for-good, in the manner of making.
+  `husserliana-43-2-studien-zur-struktur-des-bewusstseins-commentary#h3-s-7-the-relation-of-joy-wish-and-will-to-valuing-the-foundation-of-willing-in-wi` · Hua XLIII/2, Part I § 7 · [§ 7\. The Relation of Joy, Wish, and Will to Valuing. The Foundation of Willing in Wishing](https://faultynode.github.io/commentaries/commentaries/husserl/husserliana-43-2-studien-zur-struktur-des-bewusstseins-commentary.html#the-relation-of-joy-wish-and-will-to-valuing-the-foundation-of-willing-in-wishing)
+  > the will, then, is founded in the wish, and through this it is directed at a held-for-good
+
+- **presupposed** · `fundierung/husserliana-43-2/008` · *non-self-sufficient (fiat)*
+  The pure will-moment of the fiat is non-self-sufficient and founded in the wish-underlay described.
+  `husserliana-43-2-studien-zur-struktur-des-bewusstseins-commentary#h3-s-7-the-relation-of-joy-wish-and-will-to-valuing-the-foundation-of-willing-in-wi` · Hua XLIII/2, Part I § 7 · [§ 7\. The Relation of Joy, Wish, and Will to Valuing. The Foundation of Willing in Wishing](https://faultynode.github.io/commentaries/commentaries/husserl/husserliana-43-2-studien-zur-struktur-des-bewusstseins-commentary.html#the-relation-of-joy-wish-and-will-to-valuing-the-foundation-of-willing-in-wishing)
+  > namely insofar as it (the pure will-moment of the fiat) is *non-self-sufficient*, founded in the described underlay
+
+- **revised** · `fundierung/husserliana-43-2/009` · *Fundierung (apperception vs. meaning)*
+  Given that every Gemuetsakt is founded, it is asked whether the foundation is of apperception by apperception or also of act by act with respect to meaning.
+  `husserliana-43-2-studien-zur-struktur-des-bewusstseins-commentary#h3-appendix-i-the-foundation-of-the-acts-of-feeling-as-apperception-of-feeling-and` · Hua XLIII/2, Part I, Beilage I · [Appendix I. The Foundation of the Acts of Feeling as Apperception of Feeling and as Meaning of Feeling](https://faultynode.github.io/commentaries/commentaries/husserl/husserliana-43-2-studien-zur-struktur-des-bewusstseins-commentary.html#appendix-i-the-foundation-of-the-acts-of-feeling-as-apperception-of-feeling-and-as-meaning-of-feeling)
+  > the question is whether the foundation takes place as foundation of *apperception* by apperception, or also (since the first foundation is unavoidable) of *act* by act *with respect to meaning*
+
+- **presupposed** · `fundierung/husserliana-43-2/010` · *founded in the sensations*
+  Through the feelings interwoven with and founded in the sensations, something constitutes itself, namely values.
+  `husserliana-43-2-studien-zur-struktur-des-bewusstseins-commentary#h3-s-1-affection-apprehension-turning-toward-and-creative-act-of-the-understanding` · Hua XLIII/2, Part III § 1 · [§ 1\. Affection, Apprehension, Turning-Toward, and Creative Act of the Understanding](https://faultynode.github.io/commentaries/commentaries/husserl/husserliana-43-2-studien-zur-struktur-des-bewusstseins-commentary.html#affection-apprehension-turning-toward-and-creative-act-of-the-understanding)
+  > through the feelings *interwoven with*, *founded in* the sensations, *something* constitutes itself, *namely values*
+
+- **introduced** · `fundierung/husserliana-43-2/011` · *objectivities of higher level*
+  The blind motivations of the original feeling- and drive-passivities are constitutive for objectivities of higher level, for which the text has no comprehensive name.
+  `husserliana-43-2-studien-zur-struktur-des-bewusstseins-commentary#h3-s-1-affection-apprehension-turning-toward-and-creative-act-of-the-understanding` · Hua XLIII/2, Part III § 1 · [§ 1\. Affection, Apprehension, Turning-Toward, and Creative Act of the Understanding](https://faultynode.github.io/commentaries/commentaries/husserl/husserliana-43-2-studien-zur-struktur-des-bewusstseins-commentary.html#affection-apprehension-turning-toward-and-creative-act-of-the-understanding)
+  > which are constitutive for *objectivities of higher level* — for which we have no comprehensive names: *objects of love*, *value-objects*, *deeds*, *creations*
+
+- **presupposed** · `fundierung/husserliana-43-2/012` · *essentially founded in affection*
+  Every function is essentially founded in affection and forms with it the unity of a functional concrete whole of the experience.
+  `husserliana-43-2-studien-zur-struktur-des-bewusstseins-commentary#h3-s-1-affection-apprehension-turning-toward-and-creative-act-of-the-understanding` · Hua XLIII/2, Part III § 1 · [§ 1\. Affection, Apprehension, Turning-Toward, and Creative Act of the Understanding](https://faultynode.github.io/commentaries/commentaries/husserl/husserliana-43-2-studien-zur-struktur-des-bewusstseins-commentary.html#affection-apprehension-turning-toward-and-creative-act-of-the-understanding)
+  > every function is *essentially founded in affection* and forms with it the *unity of a functional concrete whole of the experience*
+
+- **introduced** · `fundierung/husserliana-43-2/013` · *foundations of these acts*
+  We are receptive with respect to the foundations of the acts of understanding and active with respect to the constitution of the understanding-objects.
+  `husserliana-43-2-studien-zur-struktur-des-bewusstseins-commentary#h3-s-1-affection-apprehension-turning-toward-and-creative-act-of-the-understanding` · Hua XLIII/2, Part III § 1 · [§ 1\. Affection, Apprehension, Turning-Toward, and Creative Act of the Understanding](https://faultynode.github.io/commentaries/commentaries/husserl/husserliana-43-2-studien-zur-struktur-des-bewusstseins-commentary.html#affection-apprehension-turning-toward-and-creative-act-of-the-understanding)
+  > We are receptive with respect to the foundations of these acts*, but *active with respect to the constitution of the understanding-objects*
+
+- **presupposed** · `fundierung/husserliana-43-2/014` · *founded in simple sensible apprehensions*
+  Simple axiological apprehensions and their unities stand in connection with, and founded in, simple sensible thingly apprehensions.
+  `husserliana-43-2-studien-zur-struktur-des-bewusstseins-commentary#h3-s-3-turning-toward-as-mode-of-liveliness-grasping-and-thought-positing-the-const` · Hua XLIII/2, Part III § 3 · [§ 3\. Turning-Toward as Mode of Liveliness, Grasping, and Thought-Positing. The Constitution of Empirical and Axiological Dependencies](https://faultynode.github.io/commentaries/commentaries/husserl/husserliana-43-2-studien-zur-struktur-des-bewusstseins-commentary.html#turning-toward-as-mode-of-liveliness-grasping-and-thought-positing-the-constitution-of-empirical-and-axiological-dependencies)
+  > Here too we find relatively "simple" axiological apprehensions and unities of such apprehensions in connection with, and founded in, simple sensible (thingly) apprehensions.
+
+- **presupposed** · `fundierung/husserliana-43-2/015` · *founded in the sensible-theoretical appearance*
+  The primary feeling undergoes a feeling-apprehension and becomes an intentional feeling founded in the sensible-theoretical appearance, making a higher-stage appearance possible.
+  `husserliana-43-2-studien-zur-struktur-des-bewusstseins-commentary#h3-s-4-feeling-sensibility-and-intentionality` · Hua XLIII/2, Part III § 4 · [§ 4\. Feeling-Sensibility and Intentionality](https://faultynode.github.io/commentaries/commentaries/husserl/husserliana-43-2-studien-zur-struktur-des-bewusstseins-commentary.html#feeling-sensibility-and-intentionality)
+  > it becomes intentional feeling, which is founded in the sensible-theoretical appearance and makes possible a higher-stage appearance
+
+*Partial pass: Part I SS 1, 5, 7 and Appendix I, and Part III SS 1, 3, 4 - the sections where the commentary states a founding relation in so many words. Not covered: Part I SS 2-4 and 6, Appendices II-IV, the whole of Part II (the arousal of feelings, the Gefuehlston, the intensity analyses), and Part III S 2.*
+
 ### 1921 - Husserl, Hua 19/2 — Sixth Logical Investigation
 
 `husserliana-19-2-sixth-logical-investigation-commentary`
@@ -421,6 +502,27 @@
 
 *Partial pass: Covers section II on methodological precautions and the doctrine of intentional history, particularly ¶¶27-28 (founded sense vs. factual rootedness), ¶¶40-48 (proto-idealizations and founding on perceptual substrate), ¶¶50-56 (founding acts and eidetic singularities), ¶57 (tradition as founding medium), and ¶63 (independence and dependence structure of ideal validity).*
 
+### 1963 - Michel Henry, L'essence de la manifestation
+
+`henry-the-essence-of-manifestation-commentary`
+
+- **presupposed** · `fundierung/henry/001` · *Fundierung (dédoublement of situation)*
+  Situation bifurcates: transcendence founds particular pragmatic situations but not the structural fact of being-situated, which is imposed on transcendence from a non-transcendent ground.
+  `henry-the-essence-of-manifestation-commentary#h2-s-42-the-ontological-determination-of-the-essence-of-situation-as-immanence-and` · [§ 42\. The ontological determination of the essence of situation as immanence and the fundamental ambiguity of "Nichtigkeit"](https://faultynode.github.io/commentaries/commentaries/henry/henry-the-essence-of-manifestation-commentary.html#the-ontological-determination-of-the-essence-of-situation-as-immanence-and-the-fundamental-ambiguity-of-nichtigkeit)
+  > *to be situated means, for transcendence, not to be the foundation of its situation*
+
+- **presupposed** · `fundierung/henry/002` · *Immanence (structural exclusion founding)*
+  The internal structure of immanence excludes transcendence ontologically: no opposition, representation, distance, or division exists in the essence itself.
+  `henry-the-essence-of-manifestation-commentary#h2-s-37-the-internal-structure-of-immanence` · [§ 37\. The internal structure of immanence](https://faultynode.github.io/commentaries/commentaries/henry/henry-the-essence-of-manifestation-commentary.html#the-internal-structure-of-immanence)
+  > *It is in the essence itself that there is nothing transcendent*
+
+- **presupposed** · `fundierung/henry/003` · *Life (founded self-constitution)*
+  Life constitutes itself through a founding structure of self-reception where the receiver and received are identical: to be oneself what one receives.
+  `henry-the-essence-of-manifestation-commentary#h2-s-37-the-internal-structure-of-immanence` · [§ 37\. The internal structure of immanence](https://faultynode.github.io/commentaries/commentaries/henry/henry-the-essence-of-manifestation-commentary.html#the-internal-structure-of-immanence)
+  > *To be oneself what one receives*
+
+*Partial pass: Covers §37 on the internal structure of immanence (what excludes transcendence from the essence) and §42 on the ontological determination of situation (the structural dédoublement). Focused on founding relations between transcendence and immanence, freedom and thrownness.*
+
 ### 1965 - Philosophie et phénoménologie du corps — Commentary
 
 `henry-philosophie-et-phenomenologie-du-corps-commentary`
@@ -507,27 +609,6 @@
 
 *These commentaries do not state a date for their text. They are held out of the sequence rather than placed on a guess; see `synthesis/chronology.json`.*
 
-### undated - Michel Henry, L'essence de la manifestation
-
-`henry-the-essence-of-manifestation-commentary`
-
-- **presupposed** · `fundierung/henry/001` · *Fundierung (dédoublement of situation)*
-  Situation bifurcates: transcendence founds particular pragmatic situations but not the structural fact of being-situated, which is imposed on transcendence from a non-transcendent ground.
-  `henry-the-essence-of-manifestation-commentary#h2-s-42-the-ontological-determination-of-the-essence-of-situation-as-immanence-and` · [§ 42\. The ontological determination of the essence of situation as immanence and the fundamental ambiguity of "Nichtigkeit"](https://faultynode.github.io/commentaries/commentaries/henry/henry-the-essence-of-manifestation-commentary.html#the-ontological-determination-of-the-essence-of-situation-as-immanence-and-the-fundamental-ambiguity-of-nichtigkeit)
-  > *to be situated means, for transcendence, not to be the foundation of its situation*
-
-- **presupposed** · `fundierung/henry/002` · *Immanence (structural exclusion founding)*
-  The internal structure of immanence excludes transcendence ontologically: no opposition, representation, distance, or division exists in the essence itself.
-  `henry-the-essence-of-manifestation-commentary#h2-s-37-the-internal-structure-of-immanence` · [§ 37\. The internal structure of immanence](https://faultynode.github.io/commentaries/commentaries/henry/henry-the-essence-of-manifestation-commentary.html#the-internal-structure-of-immanence)
-  > *It is in the essence itself that there is nothing transcendent*
-
-- **presupposed** · `fundierung/henry/003` · *Life (founded self-constitution)*
-  Life constitutes itself through a founding structure of self-reception where the receiver and received are identical: to be oneself what one receives.
-  `henry-the-essence-of-manifestation-commentary#h2-s-37-the-internal-structure-of-immanence` · [§ 37\. The internal structure of immanence](https://faultynode.github.io/commentaries/commentaries/henry/henry-the-essence-of-manifestation-commentary.html#the-internal-structure-of-immanence)
-  > *To be oneself what one receives*
-
-*Partial pass: Covers §37 on the internal structure of immanence (what excludes transcendence from the essence) and §42 on the ontological determination of situation (the structural dédoublement). Focused on founding relations between transcendence and immanence, freedom and thrownness.*
-
 ### undated - Husserl, Hua 3 — Ideas I, Parts 3–4
 
 `husserliana-3-ideas-i-parts-3-4-commentary`
@@ -573,87 +654,6 @@
   > The intersubjectively-identical thing (the "objective" thing) is a higher-order constitutive unity, constituted through **empathy** (Einfühlung) — the experience of other subjects
 
 *Partial pass: Extracts from sections 95, 96, 116, 117, and 151-152 which contain explicit treatment of founded acts, layered constitution, and the dependence of higher objectivities on lower strata. Focuses on emotional/volitional founding on perception, value-constitution, and transcendental stratification.*
-
-### undated - Husserl, Hua 43/2 — Studien zur Struktur des Bewusstseins
-
-`husserliana-43-2-studien-zur-struktur-des-bewusstseins-commentary`
-
-- **introduced** · `fundierung/husserliana-43-2/001` · *founded (valuing on objectifying act)*
-  Valuing presupposes the object it bears on and is founded in a presentation, in another, objectifying act.
-  `husserliana-43-2-studien-zur-struktur-des-bewusstseins-commentary#h3-s-1-determinations-of-the-thing-and-determinations-of-value` · Hua XLIII/2, Part I § 1 · [§ 1\. Determinations of the Thing and Determinations of Value](https://faultynode.github.io/commentaries/commentaries/husserl/husserliana-43-2-studien-zur-struktur-des-bewusstseins-commentary.html#determinations-of-the-thing-and-determinations-of-value)
-  > valuing presupposes the object on which it bears: it is *founded* in a presentation, in another, "objectifying" act
-
-- **introduced** · `fundierung/husserliana-43-2/002` · *Sein / Wertsein*
-  Objects constitute themselves as what they are through the understanding, before all value-being, and constitute themselves in their value-determinations through feeling.
-  `husserliana-43-2-studien-zur-struktur-des-bewusstseins-commentary#h3-s-1-determinations-of-the-thing-and-determinations-of-value` · Hua XLIII/2, Part I § 1 · [§ 1\. Determinations of the Thing and Determinations of Value](https://faultynode.github.io/commentaries/commentaries/husserl/husserliana-43-2-studien-zur-struktur-des-bewusstseins-commentary.html#determinations-of-the-thing-and-determinations-of-value)
-  > objects constitute themselves as what they are, and "before" all value-being, *through the understanding* (*durch den Verstand*); they constitute themselves with respect to their value-determinations *through feeling*
-
-- **presupposed** · `fundierung/husserliana-43-2/003` · *new act founded in perceiving*
-  Valuing the cigar as perceived is a new act founded in perceiving, in which the cigar stands there as a value.
-  `husserliana-43-2-studien-zur-struktur-des-bewusstseins-commentary#h3-s-5-valuing-as-an-act-founded-in-perceiving-fulfillment-of-the-value-meaning-imm` · Hua XLIII/2, Part I § 5 · [§ 5\. Valuing as an Act Founded in Perceiving. Fulfillment of the Value-Meaning. Immediate and Mediate Values](https://faultynode.github.io/commentaries/commentaries/husserl/husserliana-43-2-studien-zur-struktur-des-bewusstseins-commentary.html#valuing-as-an-act-founded-in-perceiving-fulfillment-of-the-value-meaning-immediate-and-mediate-values)
-  > This valuing is a *new act founded in perceiving* (an act-impression), in which this cigar "stands there" as a value
-
-- **introduced** · `fundierung/husserliana-43-2/004` · *perception of the higher objectivity*
-  Thing-perception with its levels is to be distinguished from the perception of the higher objectivity - thing-value, good, use-object.
-  `husserliana-43-2-studien-zur-struktur-des-bewusstseins-commentary#h3-s-5-valuing-as-an-act-founded-in-perceiving-fulfillment-of-the-value-meaning-imm` · Hua XLIII/2, Part I § 5 · [§ 5\. Valuing as an Act Founded in Perceiving. Fulfillment of the Value-Meaning. Immediate and Mediate Values](https://faultynode.github.io/commentaries/commentaries/husserl/husserliana-43-2-studien-zur-struktur-des-bewusstseins-commentary.html#valuing-as-an-act-founded-in-perceiving-fulfillment-of-the-value-meaning-immediate-and-mediate-values)
-  > one must distinguish *thing-perception* (matter-perception) with its various levels and *the perception of the higher objectivity*: thing-value, good, use-object, etc.
-
-- **introduced** · `fundierung/husserliana-43-2/005` · *immanent and unity-values as foundational*
-  The value-grounding determinates of a thing lead back, where demonstrable, to immanent and unity-values, which are foundational for all mediacy in value-holding.
-  `husserliana-43-2-studien-zur-struktur-des-bewusstseins-commentary#h3-s-5-valuing-as-an-act-founded-in-perceiving-fulfillment-of-the-value-meaning-imm` · Hua XLIII/2, Part I § 5 · [§ 5\. Valuing as an Act Founded in Perceiving. Fulfillment of the Value-Meaning. Immediate and Mediate Values](https://faultynode.github.io/commentaries/commentaries/husserl/husserliana-43-2-studien-zur-struktur-des-bewusstseins-commentary.html#valuing-as-an-act-founded-in-perceiving-fulfillment-of-the-value-meaning-immediate-and-mediate-values)
-  > These latter, in case of demonstrability, are again led back to immanent and unity-values, which are foundational for all *mediacy* in the value-holding.
-
-- **presupposed** · `fundierung/husserliana-43-2/006` · *found (preference on value-meanings)*
-  Two value-meanings found a preference, whose correlate is the relative priority of one valued object over the other.
-  `husserliana-43-2-studien-zur-struktur-des-bewusstseins-commentary#h3-s-5-valuing-as-an-act-founded-in-perceiving-fulfillment-of-the-value-meaning-imm` · Hua XLIII/2, Part I § 5 · [§ 5\. Valuing as an Act Founded in Perceiving. Fulfillment of the Value-Meaning. Immediate and Mediate Values](https://faultynode.github.io/commentaries/commentaries/husserl/husserliana-43-2-studien-zur-struktur-des-bewusstseins-commentary.html#valuing-as-an-act-founded-in-perceiving-fulfillment-of-the-value-meaning-immediate-and-mediate-values)
-  > The two value-meanings *found* a preference, whose correlate is the relative priority of A over B.
-
-- **introduced** · `fundierung/husserliana-43-2/007` · *founded in the wish*
-  The will is founded in the wish and through this is directed at a held-for-good, in the manner of making.
-  `husserliana-43-2-studien-zur-struktur-des-bewusstseins-commentary#h3-s-7-the-relation-of-joy-wish-and-will-to-valuing-the-foundation-of-willing-in-wi` · Hua XLIII/2, Part I § 7 · [§ 7\. The Relation of Joy, Wish, and Will to Valuing. The Foundation of Willing in Wishing](https://faultynode.github.io/commentaries/commentaries/husserl/husserliana-43-2-studien-zur-struktur-des-bewusstseins-commentary.html#the-relation-of-joy-wish-and-will-to-valuing-the-foundation-of-willing-in-wishing)
-  > the will, then, is founded in the wish, and through this it is directed at a held-for-good
-
-- **presupposed** · `fundierung/husserliana-43-2/008` · *non-self-sufficient (fiat)*
-  The pure will-moment of the fiat is non-self-sufficient and founded in the wish-underlay described.
-  `husserliana-43-2-studien-zur-struktur-des-bewusstseins-commentary#h3-s-7-the-relation-of-joy-wish-and-will-to-valuing-the-foundation-of-willing-in-wi` · Hua XLIII/2, Part I § 7 · [§ 7\. The Relation of Joy, Wish, and Will to Valuing. The Foundation of Willing in Wishing](https://faultynode.github.io/commentaries/commentaries/husserl/husserliana-43-2-studien-zur-struktur-des-bewusstseins-commentary.html#the-relation-of-joy-wish-and-will-to-valuing-the-foundation-of-willing-in-wishing)
-  > namely insofar as it (the pure will-moment of the fiat) is *non-self-sufficient*, founded in the described underlay
-
-- **revised** · `fundierung/husserliana-43-2/009` · *Fundierung (apperception vs. meaning)*
-  Given that every Gemuetsakt is founded, it is asked whether the foundation is of apperception by apperception or also of act by act with respect to meaning.
-  `husserliana-43-2-studien-zur-struktur-des-bewusstseins-commentary#h3-appendix-i-the-foundation-of-the-acts-of-feeling-as-apperception-of-feeling-and` · Hua XLIII/2, Part I, Beilage I · [Appendix I. The Foundation of the Acts of Feeling as Apperception of Feeling and as Meaning of Feeling](https://faultynode.github.io/commentaries/commentaries/husserl/husserliana-43-2-studien-zur-struktur-des-bewusstseins-commentary.html#appendix-i-the-foundation-of-the-acts-of-feeling-as-apperception-of-feeling-and-as-meaning-of-feeling)
-  > the question is whether the foundation takes place as foundation of *apperception* by apperception, or also (since the first foundation is unavoidable) of *act* by act *with respect to meaning*
-
-- **presupposed** · `fundierung/husserliana-43-2/010` · *founded in the sensations*
-  Through the feelings interwoven with and founded in the sensations, something constitutes itself, namely values.
-  `husserliana-43-2-studien-zur-struktur-des-bewusstseins-commentary#h3-s-1-affection-apprehension-turning-toward-and-creative-act-of-the-understanding` · Hua XLIII/2, Part III § 1 · [§ 1\. Affection, Apprehension, Turning-Toward, and Creative Act of the Understanding](https://faultynode.github.io/commentaries/commentaries/husserl/husserliana-43-2-studien-zur-struktur-des-bewusstseins-commentary.html#affection-apprehension-turning-toward-and-creative-act-of-the-understanding)
-  > through the feelings *interwoven with*, *founded in* the sensations, *something* constitutes itself, *namely values*
-
-- **introduced** · `fundierung/husserliana-43-2/011` · *objectivities of higher level*
-  The blind motivations of the original feeling- and drive-passivities are constitutive for objectivities of higher level, for which the text has no comprehensive name.
-  `husserliana-43-2-studien-zur-struktur-des-bewusstseins-commentary#h3-s-1-affection-apprehension-turning-toward-and-creative-act-of-the-understanding` · Hua XLIII/2, Part III § 1 · [§ 1\. Affection, Apprehension, Turning-Toward, and Creative Act of the Understanding](https://faultynode.github.io/commentaries/commentaries/husserl/husserliana-43-2-studien-zur-struktur-des-bewusstseins-commentary.html#affection-apprehension-turning-toward-and-creative-act-of-the-understanding)
-  > which are constitutive for *objectivities of higher level* — for which we have no comprehensive names: *objects of love*, *value-objects*, *deeds*, *creations*
-
-- **presupposed** · `fundierung/husserliana-43-2/012` · *essentially founded in affection*
-  Every function is essentially founded in affection and forms with it the unity of a functional concrete whole of the experience.
-  `husserliana-43-2-studien-zur-struktur-des-bewusstseins-commentary#h3-s-1-affection-apprehension-turning-toward-and-creative-act-of-the-understanding` · Hua XLIII/2, Part III § 1 · [§ 1\. Affection, Apprehension, Turning-Toward, and Creative Act of the Understanding](https://faultynode.github.io/commentaries/commentaries/husserl/husserliana-43-2-studien-zur-struktur-des-bewusstseins-commentary.html#affection-apprehension-turning-toward-and-creative-act-of-the-understanding)
-  > every function is *essentially founded in affection* and forms with it the *unity of a functional concrete whole of the experience*
-
-- **introduced** · `fundierung/husserliana-43-2/013` · *foundations of these acts*
-  We are receptive with respect to the foundations of the acts of understanding and active with respect to the constitution of the understanding-objects.
-  `husserliana-43-2-studien-zur-struktur-des-bewusstseins-commentary#h3-s-1-affection-apprehension-turning-toward-and-creative-act-of-the-understanding` · Hua XLIII/2, Part III § 1 · [§ 1\. Affection, Apprehension, Turning-Toward, and Creative Act of the Understanding](https://faultynode.github.io/commentaries/commentaries/husserl/husserliana-43-2-studien-zur-struktur-des-bewusstseins-commentary.html#affection-apprehension-turning-toward-and-creative-act-of-the-understanding)
-  > We are receptive with respect to the foundations of these acts*, but *active with respect to the constitution of the understanding-objects*
-
-- **presupposed** · `fundierung/husserliana-43-2/014` · *founded in simple sensible apprehensions*
-  Simple axiological apprehensions and their unities stand in connection with, and founded in, simple sensible thingly apprehensions.
-  `husserliana-43-2-studien-zur-struktur-des-bewusstseins-commentary#h3-s-3-turning-toward-as-mode-of-liveliness-grasping-and-thought-positing-the-const` · Hua XLIII/2, Part III § 3 · [§ 3\. Turning-Toward as Mode of Liveliness, Grasping, and Thought-Positing. The Constitution of Empirical and Axiological Dependencies](https://faultynode.github.io/commentaries/commentaries/husserl/husserliana-43-2-studien-zur-struktur-des-bewusstseins-commentary.html#turning-toward-as-mode-of-liveliness-grasping-and-thought-positing-the-constitution-of-empirical-and-axiological-dependencies)
-  > Here too we find relatively "simple" axiological apprehensions and unities of such apprehensions in connection with, and founded in, simple sensible (thingly) apprehensions.
-
-- **presupposed** · `fundierung/husserliana-43-2/015` · *founded in the sensible-theoretical appearance*
-  The primary feeling undergoes a feeling-apprehension and becomes an intentional feeling founded in the sensible-theoretical appearance, making a higher-stage appearance possible.
-  `husserliana-43-2-studien-zur-struktur-des-bewusstseins-commentary#h3-s-4-feeling-sensibility-and-intentionality` · Hua XLIII/2, Part III § 4 · [§ 4\. Feeling-Sensibility and Intentionality](https://faultynode.github.io/commentaries/commentaries/husserl/husserliana-43-2-studien-zur-struktur-des-bewusstseins-commentary.html#feeling-sensibility-and-intentionality)
-  > it becomes intentional feeling, which is founded in the sensible-theoretical appearance and makes possible a higher-stage appearance
-
-*Partial pass: Part I SS 1, 5, 7 and Appendix I, and Part III SS 1, 3, 4 - the sections where the commentary states a founding relation in so many words. Not covered: Part I SS 2-4 and 6, Appendices II-IV, the whole of Part II (the arousal of feelings, the Gefuehlston, the intensity analyses), and Part III S 2.*
 
 ## Not covered by this ledger
 

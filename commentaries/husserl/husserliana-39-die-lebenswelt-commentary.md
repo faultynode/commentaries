@@ -8,6 +8,8 @@ wordpress_id: 196
 
 ## Paragraph-by-Paragraph Commentary
 
+This volume is not a work of one date. Every text and supplement carries its own date, printed in brackets beneath its heading, and these run from *ca.* 1920 to 1937 — the earliest being Text Nr. 1 ("Early 1920s") and Text Nr. 2 and Supplement I ("*ca.* 1920"). Any claim drawn from a passage here should carry the date of the text it comes from, not a date for the volume.
+
 ---
 
 ## I. The Pre-Givenness of the World and Pre-Given World-Components (*Die Vorgegebenheit der Welt und vorgegebener Weltbestände*)
