@@ -1,0 +1,133 @@
+{
+  "schema_version": 1,
+  "theme": "zeitlichkeit",
+  "commentary": "husserliana-3-ideas-i-parts-3-4-commentary",
+  "source_sha256": "cca8c38ab34388e5a559649f69b70591451b461759746ee131fb0656b0e0b361",
+  "extracted_at": "2026-09-14",
+  "extractor": {
+    "agent": "claude-code",
+    "prompt": "prompts/synthesis-pipeline/extraction-prompt.md"
+  },
+  "coverage": "partial",
+  "coverage_note": "§§ 81-82, where phenomenological time is thematic. §§ 77-78, § 113 and § 149, which carry the remaining term hits, are not extracted.",
+  "units": [
+    {
+      "id": "zeitlichkeit/hua3-34/001",
+      "locator": "husserliana-3-ideas-i-parts-3-4-commentary#h3-s-81-phenomenological-time-and-time-consciousness",
+      "primary_locator": "Ideas I § 81",
+      "term": "phenomenological time",
+      "status": "introduced",
+      "claim": "The transcendental absolute won by the reductions is admitted not to be the last thing: it constitutes itself and has its primal source in a last and truly absolute.",
+      "quote": "The transcendental \"Absolute\" that we have prepared out for ourselves through the reductions is in truth not the last thing; it is something that constitutes itself in a certain deep-lying and wholly peculiar sense, and has its primal source in a last and truly Absolute."
+    },
+    {
+      "id": "zeitlichkeit/hua3-34/002",
+      "locator": "husserliana-3-ideas-i-parts-3-4-commentary#h3-s-81-phenomenological-time-and-time-consciousness",
+      "primary_locator": "Ideas I § 81",
+      "term": "time-consciousness",
+      "status": "presupposed",
+      "claim": "The riddles of time-consciousness are set aside for the preparatory analyses, with a footnote reported as dating the completion of the relevant efforts to 1905 and the Göttingen lectures.",
+      "quote": "(A footnote notes that his long and long-vain efforts on this were essentially completed in 1905 and communicated in Göttingen university lectures, the time-consciousness lectures.)"
+    },
+    {
+      "id": "zeitlichkeit/hua3-34/003",
+      "locator": "husserliana-3-ideas-i-parts-3-4-commentary#h3-s-81-phenomenological-time-and-time-consciousness",
+      "primary_locator": "Ideas I § 81",
+      "term": "Zeitlichkeit",
+      "status": "introduced",
+      "claim": "Temporality is said to designate not only something belonging to each single experience but a necessary form binding experiences with experiences into one infinite stream.",
+      "quote": "The essential property that the title temporality expresses for experiences in general designates not only something generally belonging to every single experience, but a necessary form binding experiences with experiences."
+    },
+    {
+      "id": "zeitlichkeit/hua3-34/004",
+      "locator": "husserliana-3-ideas-i-parts-3-4-commentary#h3-s-81-phenomenological-time-and-time-consciousness",
+      "primary_locator": "Ideas I § 81",
+      "term": "experience-stream",
+      "status": "presupposed",
+      "claim": "Single experiences can begin and end while the experience-stream cannot, and every experience as temporal being is the pure ego's, open to its reflective glance as enduring in phenomenological time.",
+      "quote": "But the experience-stream cannot begin and end. Every experience, as a temporal being, is experience of its pure ego."
+    },
+    {
+      "id": "zeitlichkeit/hua3-34/005",
+      "locator": "husserliana-3-ideas-i-parts-3-4-commentary#h3-s-81-phenomenological-time-and-time-consciousness",
+      "primary_locator": "Ideas I § 81",
+      "term": "modes of givenness",
+      "status": "introduced",
+      "claim": "No enduring experience is possible unless it constitutes itself in a continuous flux of givenness-modes, and that mode of givenness is itself an experience of a new kind and dimension.",
+      "quote": "no enduring experience is possible unless it constitutes itself in a continuous flux of givenness-modes as the unitary thing of the process, or of the duration; further, that this mode of givenness of the temporal experience is itself again an experience, though of a new kind and dimension"
+    },
+    {
+      "id": "zeitlichkeit/hua3-34/006",
+      "locator": "husserliana-3-ideas-i-parts-3-4-commentary#h3-s-81-phenomenological-time-and-time-consciousness",
+      "primary_locator": "Ideas I § 81",
+      "term": "now",
+      "status": "introduced",
+      "claim": "The actual now is a punctual abiding form for ever new matter, and the just-nows are a continuity of forms of ever new content.",
+      "quote": "The actual now is necessarily, and remains, a punctual thing, an abiding form for ever new matter. Likewise with the continuity of the \"just-nows\"; it is a continuity of forms of ever new content."
+    },
+    {
+      "id": "zeitlichkeit/hua3-34/007",
+      "locator": "husserliana-3-ideas-i-parts-3-4-commentary#h3-s-81-phenomenological-time-and-time-consciousness",
+      "primary_locator": "Ideas I § 81",
+      "term": "retention",
+      "status": "introduced",
+      "claim": "The retentions are said not to be co-ordinate but nested, a continuous one-within-another of retentions of retentions, with impression continuously changing into retention.",
+      "quote": "one phase, impression, as limit-phase of a continuity of retentions, which are, however, not co-ordinate, but continuously-intentionally to be referred to one another, a continuous one-within-another of retentions of retentions"
+    },
+    {
+      "id": "zeitlichkeit/hua3-34/008",
+      "locator": "husserliana-3-ideas-i-parts-3-4-commentary#h3-s-81-phenomenological-time-and-time-consciousness",
+      "primary_locator": "Ideas I § 81",
+      "term": "protention",
+      "status": "introduced",
+      "claim": "The structure is completed by the counter-direction: to the continuum of retentions corresponds one of protentions.",
+      "quote": "To this comes, however, the counter-direction of the continuous changes: to the before corresponds the after, to the continuum of retentions one of protentions."
+    },
+    {
+      "id": "zeitlichkeit/hua3-34/009",
+      "locator": "husserliana-3-ideas-i-parts-3-4-commentary#h3-s-82-continuation-the-threefold-experience-horizon-at-the-same-time-as-the-horiz",
+      "primary_locator": "Ideas I § 82",
+      "term": "horizon",
+      "status": "introduced",
+      "claim": "Every experience-now has a necessarily filled horizon of the before and of the after, so that even the onset-phase of a new experience has experiences preceding it.",
+      "quote": "Every experience-now, even that of the onset-phase of a newly appearing experience, has necessarily its horizon of the before. But this can in principle be no empty before, an empty form without content, a nonsense."
+    },
+    {
+      "id": "zeitlichkeit/hua3-34/010",
+      "locator": "husserliana-3-ideas-i-parts-3-4-commentary#h3-s-82-continuation-the-threefold-experience-horizon-at-the-same-time-as-the-horiz",
+      "primary_locator": "Ideas I § 82",
+      "term": "just-past",
+      "status": "introduced",
+      "claim": "No experience can cease without a consciousness of the ceasing and the having-ceased, which is itself a new filled now, so the stream is an infinite unity.",
+      "quote": "No experience can cease without consciousness of the ceasing and the having-ceased, and that is a new filled now. The experience-stream is an infinite unity"
+    },
+    {
+      "id": "zeitlichkeit/hua3-34/011",
+      "locator": "husserliana-3-ideas-i-parts-3-4-commentary#h3-s-82-continuation-the-threefold-experience-horizon-at-the-same-time-as-the-horiz",
+      "primary_locator": "Ideas I § 82",
+      "term": "simultaneity",
+      "status": "introduced",
+      "claim": "Every experience stands in an experience-connection under the point of view of simultaneity as well as of succession, the simultaneous experiences making up the pure ego's whole originary consciousness-now.",
+      "quote": "every experience stands in an essentially self-contained experience-connection not only under the point of view of temporal succession, but also under the point of view of simultaneity"
+    },
+    {
+      "id": "zeitlichkeit/hua3-34/012",
+      "locator": "husserliana-3-ideas-i-parts-3-4-commentary#h3-s-82-continuation-the-threefold-experience-horizon-at-the-same-time-as-the-horiz",
+      "primary_locator": "Ideas I § 82",
+      "term": "simultaneously having-been",
+      "status": "introduced",
+      "claim": "The simultaneity-horizon enters as a unity into the past-modes, so that every before carries its horizon of the simultaneously having-been.",
+      "quote": "Every before, as a modified now, implies, for every experience in view whose before it is, an endless horizon, encompassing all that belongs to the same modified now, in short its horizon of the \"simultaneously having-been.\""
+    },
+    {
+      "id": "zeitlichkeit/hua3-34/013",
+      "locator": "husserliana-3-ideas-i-parts-3-4-commentary#h3-s-82-continuation-the-threefold-experience-horizon-at-the-same-time-as-the-horiz",
+      "primary_locator": "Ideas I § 82",
+      "term": "phenomenological time-field",
+      "status": "introduced",
+      "claim": "One pure ego and one experience-stream filled in the three dimensions of before, after and simultaneous are declared necessary correlates.",
+      "quote": "One pure ego, one experience-stream filled in all three dimensions, essentially connected in this filling, demanding itself in its content-continuity: these are necessary correlates."
+    }
+  ],
+  "absences": []
+}

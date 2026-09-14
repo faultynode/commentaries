@@ -1,0 +1,106 @@
+{
+  "schema_version": 1,
+  "theme": "zeitlichkeit",
+  "commentary": "husserl-thing-and-space-commentary",
+  "source_sha256": "e0d0451d72ec96da3d81ae5556439940774ed1e7a51cb3d8a40eb1cf5affde23",
+  "extracted_at": "2026-09-14",
+  "extractor": {
+    "agent": "claude-code",
+    "prompt": "prompts/synthesis-pipeline/extraction-prompt.md"
+  },
+  "coverage": "partial",
+  "coverage_note": "§ 19 (pre-phenomenal temporality) and § 56 (the temporal structure of the kinaesthetic sequences), the two sections where temporality is thematic. The remaining 30 sections with term hits - among them §§ 20, 25, 26 and 62 - are not extracted.",
+  "units": [
+    {
+      "id": "zeitlichkeit/ding/001",
+      "locator": "husserl-thing-and-space-commentary#h3-s19-the-temporal-extension-of-the-appearance-pre-empirical-pre-phenomenal-tempor",
+      "primary_locator": "§ 19",
+      "stratum": "ding-1907",
+      "term": "pre-phenomenal temporality",
+      "status": "introduced",
+      "claim": "The immanent extension and divisibility of perception that survives the reduction is named pre-phenomenal or transcendental temporality and sharply distinguished from the phenomenal temporality attributed to objects.",
+      "quote": "This immanent extension is what Husserl calls **pre-phenomenal** or **transcendental temporality**, and he sharply distinguishes it from **phenomenal temporality**, which is the time attributed to objects — the time of things as constituted through the apprehension."
+    },
+    {
+      "id": "zeitlichkeit/ding/002",
+      "locator": "husserl-thing-and-space-commentary#h3-s19-the-temporal-extension-of-the-appearance-pre-empirical-pre-phenomenal-tempor",
+      "primary_locator": "§ 19",
+      "stratum": "ding-1907",
+      "term": "form of intuition",
+      "status": "introduced",
+      "claim": "Two temporal forms are distinguished in every perception, one reell and one intentional, with the warning that the form of intuition is not the form of the intuited.",
+      "quote": "Husserl warns against confusing them: the \"form of intuition\" (the immanent temporal form of the perceptual appearance) is not the same as the \"form of the intuited\" (the temporal form of the appearing thing)."
+    },
+    {
+      "id": "zeitlichkeit/ding/003",
+      "locator": "husserl-thing-and-space-commentary#h3-s19-the-temporal-extension-of-the-appearance-pre-empirical-pre-phenomenal-tempor",
+      "primary_locator": "§ 19",
+      "stratum": "ding-1907",
+      "term": "continuous unity",
+      "status": "presupposed",
+      "claim": "The temporal unity of perception is declared primary: phases are dependent moments of an already continuous whole rather than independent pieces later joined by synthesis.",
+      "quote": "It is not that discrete perceptual phases first exist independently and are then joined by a subsequent synthesis. Rather, perception is always already a continuous, unbroken unity."
+    },
+    {
+      "id": "zeitlichkeit/ding/004",
+      "locator": "husserl-thing-and-space-commentary#h3-s19-the-temporal-extension-of-the-appearance-pre-empirical-pre-phenomenal-tempor",
+      "primary_locator": "§ 19",
+      "stratum": "ding-1907",
+      "term": "Now",
+      "status": "presupposed",
+      "claim": "The constitution of temporal position - what distinguishes now from just past, and the perpetual sinking of the Now - is posed as an immense difficulty the lectures defer.",
+      "quote": "What accounts for the distinction between \"now\" and \"just past\"? What explains the perpetual self-generation of the Now and its perpetual sinking back into the past — the \"eternal drama\" as Husserl puts it — in which every past itself becomes a *further* past?"
+    },
+    {
+      "id": "zeitlichkeit/ding/005",
+      "locator": "husserl-thing-and-space-commentary#h3-s56-the-temporal-structure-of-the-kinaesthetic-sequences",
+      "primary_locator": "§ 56",
+      "stratum": "ding-1907",
+      "term": "phenomenological temporality",
+      "status": "presupposed",
+      "claim": "Givenness is said to be carried out as a process in phenomenological temporality, the total phenomenon with its kinaesthetic and image components being temporally extended and having a changeable temporal form.",
+      "quote": "But givenness is carried out as a **process in phenomenological temporality**: the total phenomenon, with its K-component and its i-component, is temporally extended."
+    },
+    {
+      "id": "zeitlichkeit/ding/006",
+      "locator": "husserl-thing-and-space-commentary#h3-s56-the-temporal-structure-of-the-kinaesthetic-sequences",
+      "primary_locator": "§ 56",
+      "stratum": "ding-1907",
+      "term": "temporal form",
+      "status": "introduced",
+      "claim": "The temporal form of the kinaesthetic-image stream is held irrelevant for the appearing object: the same thing stands there whatever the speed or direction of exploration.",
+      "quote": "Whether I explore the thing quickly or slowly, whether I pause longer at one phase or another, whether I reverse and retrace my steps — the same stationary thing continually stands there with unchanged content, extending the fullness of its content in a temporal form that is one and the same: a density homogeneous throughout."
+    },
+    {
+      "id": "zeitlichkeit/ding/007",
+      "locator": "husserl-thing-and-space-commentary#h3-s56-the-temporal-structure-of-the-kinaesthetic-sequences",
+      "primary_locator": "§ 56",
+      "stratum": "ding-1907",
+      "term": "duration",
+      "status": "revised",
+      "claim": "The irrelevance is qualified: temporality does enter the objectivation as the duration of the unchanged thing, which finds its presentational foothold in the phenomenological temporality of the appearance.",
+      "quote": "In the present case, the temporality has the form of the **duration of the unchanged, stationary thing**. The thing endures; its duration is constituted in the temporal stream of perception."
+    },
+    {
+      "id": "zeitlichkeit/ding/008",
+      "locator": "husserl-thing-and-space-commentary#h3-s56-the-temporal-structure-of-the-kinaesthetic-sequences",
+      "primary_locator": "§ 56",
+      "stratum": "ding-1907",
+      "term": "temporal object",
+      "status": "presupposed",
+      "claim": "Spatial things are contrasted with temporal objects such as melodies, whose constitution depends essentially on the temporal form of their presentation.",
+      "quote": "the spatial thing is constituted in an appearance-manifold that can be traversed in any direction and at any rate, unlike temporal objects (melodies) whose constitution depends essentially on the temporal form of their presentation"
+    },
+    {
+      "id": "zeitlichkeit/ding/009",
+      "locator": "husserl-thing-and-space-commentary#h3-s56-the-temporal-structure-of-the-kinaesthetic-sequences",
+      "primary_locator": "§ 56",
+      "stratum": "ding-1907",
+      "term": "temporality",
+      "status": "presupposed",
+      "claim": "An editorial note is reported to record that this passage was published within the time-consciousness lectures, marking the intersection of the spatial and temporal constitutive analyses.",
+      "quote": "A significant editorial note records that this passage (through the end of §56) was published within the time-consciousness lectures (Husserliana X)."
+    }
+  ],
+  "absences": []
+}

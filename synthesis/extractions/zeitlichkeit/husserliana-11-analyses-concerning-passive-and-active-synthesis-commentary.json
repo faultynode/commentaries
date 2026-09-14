@@ -1,0 +1,99 @@
+{
+  "schema_version": 1,
+  "theme": "zeitlichkeit",
+  "commentary": "husserliana-11-analyses-concerning-passive-and-active-synthesis-commentary",
+  "source_sha256": "bd22bb3a9bd7ac059dd0537fbae0892179ea2f75e9464040ab2e95600cf82570",
+  "extracted_at": "2026-09-14",
+  "extractor": {
+    "agent": "claude-code",
+    "prompt": "prompts/synthesis-pipeline/extraction-prompt.md"
+  },
+  "coverage": "partial",
+  "coverage_note": "The sections where time-consciousness carries the argument: Part 2 §§ 18 and 30, Part 3 § 56, and Supplementary Texts Section 1 (the 1920/21 first version). The remaining 38 sections with term hits, including the affection and association analyses of Part 2, are not extracted.",
+  "units": [
+    {
+      "id": "zeitlichkeit/hua11/001",
+      "locator": "husserliana-11-analyses-concerning-passive-and-active-synthesis-commentary#h3-s18-description-of-the-possible-types-of-empty-presentation",
+      "primary_locator": "§ 18",
+      "term": "retention",
+      "status": "presupposed",
+      "claim": "Every intuition leaves an empty presentation that is a retention, and the continual retentional modification of each primordially impressional Now-phase is called the first aspect of the fundamental lawfulness of original time-consciousness.",
+      "quote": "every such empty presentation is a retention, and its necessary connection to past intentions characterizes a fundamental law of passive genesis. This extends into every intuition itself: every Now-phase arising primordially-impressionally is continually modified in retention—the first aspect of fundamental lawfulness of original time-consciousness."
+    },
+    {
+      "id": "zeitlichkeit/hua11/002",
+      "locator": "husserliana-11-analyses-concerning-passive-and-active-synthesis-commentary#h3-s18-description-of-the-possible-types-of-empty-presentation",
+      "primary_locator": "§ 18",
+      "term": "protention",
+      "status": "introduced",
+      "claim": "Protention is the second aspect of genetic primordial lawfulness, and the protentional and retentional continuities are distinguished by the direction the egoic regard must take in each.",
+      "quote": "Alongside retentions, there are protentions: the second aspect of genetic primordial lawfulness. Just as a retentional horizon is invariably connected to each impressional present, so is a protentional horizon."
+    },
+    {
+      "id": "zeitlichkeit/hua11/003",
+      "locator": "husserliana-11-analyses-concerning-passive-and-active-synthesis-commentary#h3-s18-description-of-the-possible-types-of-empty-presentation",
+      "primary_locator": "§ 18",
+      "term": "original association",
+      "status": "criticized",
+      "claim": "Brentano is said to be phenomenologically incorrect in calling the connection of retentions to impressions original association, since the synthesis proper to original time-consciousness is not associative.",
+      "quote": "Therefore Brentano was phenomenologically incorrect to characterize the connection of retentions to impressions as \"original association.\" Association is only at work in the protentional path of time-constitution, alongside the continual retentional path."
+    },
+    {
+      "id": "zeitlichkeit/hua11/004",
+      "locator": "husserliana-11-analyses-concerning-passive-and-active-synthesis-commentary#h3-s18-description-of-the-possible-types-of-empty-presentation",
+      "primary_locator": "§ 18",
+      "term": "retention",
+      "status": "revised",
+      "claim": "Retentions can take on intentional character only later, through subsequent association, so that the distinction between mere retentions prior to association and their intentional shape is fundamental.",
+      "quote": "The distinction between mere retentions prior to association and their intentional shape is fundamental."
+    },
+    {
+      "id": "zeitlichkeit/hua11/005",
+      "locator": "husserliana-11-analyses-concerning-passive-and-active-synthesis-commentary#h3-s30-individuation-in-succession-and-coexistence",
+      "primary_locator": "§ 30",
+      "term": "principium individuationis",
+      "status": "introduced",
+      "claim": "Time and space are made principles of individuation: objects uniform in all material respects are individuated by their unique temporal locus, temporal shape being distinguished from temporal identity.",
+      "quote": "Even objects uniform in all material respects are individuated by their different temporal positions. Time and space (for the visual field) are *principia individuationis*—the forms of possible individuality of objects given in the living present."
+    },
+    {
+      "id": "zeitlichkeit/hua11/006",
+      "locator": "husserliana-11-analyses-concerning-passive-and-active-synthesis-commentary#h3-s56-the-ideality-of-the-judicative-proposition-in-the-sense-of-omni-temporality",
+      "primary_locator": "§ 56",
+      "term": "Allzeitlichkeit",
+      "status": "introduced",
+      "claim": "The a-temporality of the judicative proposition is itself declared a distinctive shape of temporality, omni-temporality, so that supra-temporality is a supra-temporal unity found in the temporal manifold.",
+      "quote": "The a-temporality of judgments is itself a distinctive shape of temporality: *omni-temporality*."
+    },
+    {
+      "id": "zeitlichkeit/hua11/007",
+      "locator": "husserliana-11-analyses-concerning-passive-and-active-synthesis-commentary#h3-s56-the-ideality-of-the-judicative-proposition-in-the-sense-of-omni-temporality",
+      "primary_locator": "§ 56",
+      "term": "temporal being",
+      "status": "presupposed",
+      "claim": "The original core of the judgment's being is a being in the form of temporality but not the being of an individuum, and the difference between individual and ideal temporal being is called fundamental.",
+      "quote": "The original core of judgment's being is a being in the form of temporality—but not the being of an *individuum*. The difference between individual and ideal temporal being is fundamental."
+    },
+    {
+      "id": "zeitlichkeit/hua11/008",
+      "locator": "husserliana-11-analyses-concerning-passive-and-active-synthesis-commentary#h3-section-1-first-version-of-main-text-part-2-1920-21",
+      "primary_locator": "Supplementary Texts, § 10 (pp. 375-379)",
+      "stratum": "hua11-1920",
+      "term": "retention, protention",
+      "status": "presupposed",
+      "claim": "The 1920/21 first version already lays out the typology of presentations - perception, retention, protention, remembering, expectation, co-presentification - each with its temporal orientation.",
+      "quote": "Husserl lays out the basic typology of presentations: perception, retention, protention, remembering, expectation, co-presentification—each with its distinctive temporal orientation and mode of giving its object."
+    },
+    {
+      "id": "zeitlichkeit/hua11/009",
+      "locator": "husserliana-11-analyses-concerning-passive-and-active-synthesis-commentary#h3-section-1-first-version-of-main-text-part-2-1920-21",
+      "primary_locator": "Supplementary Texts, §§ 5-9 (pp. 367-374)",
+      "stratum": "hua11-1920",
+      "term": "Vergegenwärtigung",
+      "status": "presupposed",
+      "claim": "The 1920/21 version analyses retention, empty expectation and presentifications of what is temporally present as necessary components of perceptual lived-experience.",
+      "quote": "Husserl analyzes the various forms of presentification (Vergegenwärtigung) as necessary components of perceptual lived-experience: concrete retention and its modalization, empty concrete expectation and its modalization, and concrete empty presentifications of what is temporally present."
+    }
+  ],
+  "absences": []
+}

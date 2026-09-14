@@ -1,0 +1,106 @@
+{
+  "schema_version": 1,
+  "theme": "zeitlichkeit",
+  "commentary": "henry-the-essence-of-manifestation-commentary",
+  "source_sha256": "81321687b3823d9c3244b29758d979f86bd9d4ac28813fa58686aa2e9446ff68",
+  "extracted_at": "2026-09-14",
+  "extractor": {
+    "agent": "claude-code",
+    "prompt": "prompts/synthesis-pipeline/extraction-prompt.md"
+  },
+  "coverage": "partial",
+  "coverage_note": "§ 43 only, which carries 102 of the commentary's term hits - the section where situation is set against ecstatic temporality. §§ 6, 11, 13, 44 and 47, which carry the remaining hits, are not extracted.",
+  "units": [
+    {
+      "id": "zeitlichkeit/henry-essence/001",
+      "locator": "henry-the-essence-of-manifestation-commentary#h2-s-43-situation-and-temporality-the-ontological-heterogeneity-of-their-originary",
+      "primary_locator": "§ 43",
+      "term": "temporality",
+      "status": "introduced",
+      "claim": "Temporality is defined as the act of returning, from the future Dasein projects, onto the being-been of that act, and fear and anxiety are said to be grasped by Heidegger as modes of it.",
+      "quote": "The act of returning (from the future Dasein projects) onto the being-been of this act (that is, of Dasein itself) is *temporality*."
+    },
+    {
+      "id": "zeitlichkeit/henry-essence/002",
+      "locator": "henry-the-essence-of-manifestation-commentary#h2-s-43-situation-and-temporality-the-ontological-heterogeneity-of-their-originary",
+      "primary_locator": "§ 43",
+      "term": "ekstases",
+      "status": "presupposed",
+      "claim": "The accomplishment of temporality is to be understood not as the simple return of the future onto the past but from the finite horizon of death and from what is delivered to it from birth.",
+      "quote": "The accomplishment of temporality rather must be understood not as the simple return of the future onto the past, but from *the most originary determination* of these ekstases — from the finite horizon of death and from what (relating itself to death) is already (from its birth consequently) delivered to it."
+    },
+    {
+      "id": "zeitlichkeit/henry-essence/003",
+      "locator": "henry-the-essence-of-manifestation-commentary#h2-s-43-situation-and-temporality-the-ontological-heterogeneity-of-their-originary",
+      "primary_locator": "§ 43",
+      "term": "situation",
+      "status": "revised",
+      "claim": "Situation is said not to coincide with temporality but to take birth in it, arising in the ecstasis of the past because thrownness discovers itself inside that horizon.",
+      "quote": "The situation of Dasein, however, does not confuse itself with temporality; *it takes birth in temporality*."
+    },
+    {
+      "id": "zeitlichkeit/henry-essence/004",
+      "locator": "henry-the-essence-of-manifestation-commentary#h2-s-43-situation-and-temporality-the-ontological-heterogeneity-of-their-originary",
+      "primary_locator": "§ 43",
+      "term": "Gewesenheit",
+      "status": "revised",
+      "claim": "Having-been is distinguished from the past: it discovers itself in the past, and within that ecstatic horizon it manifests itself as anterior to the opening of the horizon.",
+      "quote": "*Gewesenheit* (having-been) however is not to be confused with the past (*Vergangenheit*); it *discovers itself in the past*."
+    },
+    {
+      "id": "zeitlichkeit/henry-essence/005",
+      "locator": "henry-the-essence-of-manifestation-commentary#h2-s-43-situation-and-temporality-the-ontological-heterogeneity-of-their-originary",
+      "primary_locator": "§ 43",
+      "term": "Gewesenheit",
+      "status": "criticized",
+      "claim": "What the ecstasis of the past reveals is said to be anterior to the ecstatic opening, so that thrownness is revealed by temporalization rather than produced by it.",
+      "quote": "The *Gewesenheit* (having-been) is *given to* the temporal ekstasis of the past; it is not *produced by* the temporalizing activity."
+    },
+    {
+      "id": "zeitlichkeit/henry-essence/006",
+      "locator": "henry-the-essence-of-manifestation-commentary#h2-s-43-situation-and-temporality-the-ontological-heterogeneity-of-their-originary",
+      "primary_locator": "§ 43",
+      "term": "the already",
+      "status": "criticized",
+      "claim": "The anteriority discovered in the ecstasis of the past is read as independence, and that independence as immanence, so the 'already' of being-situated marks immanence rather than a temporal mode.",
+      "quote": "The independence of what discovers itself in the ekstasis of the past (relatively to this discovery as it accomplishes itself in the originary temporalization of temporality — that is, as well, in transcendence itself) is *that of immanence*."
+    },
+    {
+      "id": "zeitlichkeit/henry-essence/007",
+      "locator": "henry-the-essence-of-manifestation-commentary#h2-s-43-situation-and-temporality-the-ontological-heterogeneity-of-their-originary",
+      "primary_locator": "§ 43",
+      "term": "Vergangenheit",
+      "status": "revised",
+      "claim": "The past's inability to reduce to itself the having-been in which what is foreign to time manifests itself is called its depth, in which the origin of being is hidden.",
+      "quote": "In the incapacity of past properly speaking to reduce to itself what escapes it (the being-having-been where there manifests itself in time what is foreign to time) *resides its \"depth.\" In the depth of the past is hidden the origin of being.*"
+    },
+    {
+      "id": "zeitlichkeit/henry-essence/008",
+      "locator": "henry-the-essence-of-manifestation-commentary#h2-s-43-situation-and-temporality-the-ontological-heterogeneity-of-their-originary",
+      "primary_locator": "§ 43",
+      "term": "Nichtigkeit",
+      "status": "criticized",
+      "claim": "Heidegger's ecstatically temporal relation of Dasein to its thrown foundation is rejected as unintelligible, on the ground of an eidetic incompatibility between the temporal ecstasis and its nichtig foundation.",
+      "quote": "The *eidetic incompatibility* of the temporal ekstasis and of the proper \"*nichtig*\" foundation of the ekstasis (of what finds itself determined as \"*Nichtigkeit*\" by this incompatibility itself) also renders *unintelligible* (incapable in any case of exhibiting in itself the originary essence of the *Geworfenheit*) the idea given however by Heidegger as decisive"
+    },
+    {
+      "id": "zeitlichkeit/henry-essence/009",
+      "locator": "henry-the-essence-of-manifestation-commentary#h2-s-43-situation-and-temporality-the-ontological-heterogeneity-of-their-originary",
+      "primary_locator": "§ 43",
+      "term": "temporality",
+      "status": "criticized",
+      "claim": "The originary ontological concept of being-in-situation is said to be not founded on temporality but broken by it.",
+      "quote": "*Far from being able to found itself on temporality, the originary ontological concept of being-in-situation finds itself on the contrary broken by temporality.*"
+    },
+    {
+      "id": "zeitlichkeit/henry-essence/010",
+      "locator": "henry-the-essence-of-manifestation-commentary#h2-s-43-situation-and-temporality-the-ontological-heterogeneity-of-their-originary",
+      "primary_locator": "§ 43",
+      "term": "immanence",
+      "status": "criticized",
+      "claim": "Temporality is allowed to reveal situation but denied the power to ground it, situation being grounded in immanence and temporality itself being the form of transcendence.",
+      "quote": "Henry contests: temporality is itself the form of transcendence; situation is rather the structural being of the immanent ground that *transcends* temporality (in the sense of being structurally prior to it). The situation is not temporal; the situation is the immanent ground of temporality."
+    }
+  ],
+  "absences": []
+}

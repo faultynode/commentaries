@@ -1,0 +1,161 @@
+{
+  "schema_version": 1,
+  "theme": "zeitlichkeit",
+  "commentary": "husserliana-33-die-bernauer-manuskripte-uber-das-zeitbewusstsein-commentary",
+  "source_sha256": "7824dfc668eb525991d53ab3355fb32c76040ee942ce34e20338a34d494b2530",
+  "extracted_at": "2026-09-14",
+  "extractor": {
+    "agent": "claude-code",
+    "prompt": "prompts/synthesis-pipeline/extraction-prompt.md"
+  },
+  "coverage": "partial",
+  "coverage_note": "Editors' Introduction § III (the development from Hua X to the Bernau doctrine) and Text Nr. 1 §§ 2-4 with Supplement I. The remaining Bernau texts (Nr. 2 onward) and Introduction §§ I-II, IV-V carry term hits and are not extracted.",
+  "units": [
+    {
+      "id": "zeitlichkeit/hua33/001",
+      "locator": "husserliana-33-die-bernauer-manuskripte-uber-das-zeitbewusstsein-commentary#h2-iii",
+      "term": "retention",
+      "status": "presupposed",
+      "claim": "Retention is reported as Husserl's neologism for the present grasping of an objective past, understood as a modality of perceiving rather than as re-presentation or subsequent synthesis.",
+      "quote": "He differed substantively from Brentano and Meinong in that he understood retention neither as an act of (phantasy-like) re-presentation nor as a categorical act of subsequent synthesis, but rather as a modality of perceiving itself."
+    },
+    {
+      "id": "zeitlichkeit/hua33/002",
+      "locator": "husserliana-33-die-bernauer-manuskripte-uber-das-zeitbewusstsein-commentary#h2-iii",
+      "term": "protention",
+      "status": "revised",
+      "claim": "Research into protention is said to have remained secondary in the earlier time-texts and to receive due attention, especially in its interweaving with retention, only in the Bernau manuscripts.",
+      "quote": "Research into the \"protention\"—the present grasping of, say, a future tone—remained secondary. Only in the Bernau manuscripts does protention and especially its interweaving with retention receive due attention."
+    },
+    {
+      "id": "zeitlichkeit/hua33/003",
+      "locator": "husserliana-33-die-bernauer-manuskripte-uber-das-zeitbewusstsein-commentary#h2-iii",
+      "term": "Urimpression / Urpräsentation",
+      "status": "revised",
+      "claim": "The terminology for the originally present sensation shifts from primal impression in the earlier texts to primal presentation in the Bernau manuscripts.",
+      "quote": "Husserl calls the givenness of such an unmodified, originally present sensation an \"Urimpression\" in the earlier texts and an \"Urpräsentation\" (primal presentation) in the Bernau manuscripts."
+    },
+    {
+      "id": "zeitlichkeit/hua33/004",
+      "locator": "husserliana-33-die-bernauer-manuskripte-uber-das-zeitbewusstsein-commentary#h2-iii",
+      "term": "Urprozeß / Urstrom",
+      "status": "revised",
+      "claim": "Absolute consciousness of the earlier texts is renamed primal process or primal stream, and immanent time-objects become temporal events, a change said to signal that the objectifying form of that consciousness is no longer taken for granted.",
+      "quote": "Husserl calls this inner consciousness of sensation \"absolute consciousness\" in the earlier texts and \"Urprozeß\" (primal process) or \"Urstrom\" (primal stream) in the Bernau manuscripts."
+    },
+    {
+      "id": "zeitlichkeit/hua33/005",
+      "locator": "husserliana-33-die-bernauer-manuskripte-uber-das-zeitbewusstsein-commentary#h2-iii",
+      "term": "Querintentionalität / Längsintentionalität",
+      "status": "presupposed",
+      "claim": "The earlier solution to the regress is reported as the double intentionality of the retentional flow: transverse intentionality toward immanent time-objects and longitudinal intentionality as the flow's self-consciousness.",
+      "quote": "The flow of \"absolute\" retentional consciousness thus harbors a double intentionality: one directed at immanent time-objects (\"transverse intentionality\" / *Querintentionalität*) and one having the form of self-reference or self-consciousness of the flow (\"longitudinal intentionality\" / *Längsintentionalität*)."
+    },
+    {
+      "id": "zeitlichkeit/hua33/006",
+      "locator": "husserliana-33-die-bernauer-manuskripte-uber-das-zeitbewusstsein-commentary#h2-iii",
+      "stratum": "hua33-1918",
+      "term": "Abklang",
+      "status": "introduced",
+      "claim": "The 1918 Bernau manuscripts are said to investigate fading, distinguished from retention, in which retentions of the remote past die off without egoic attention and their steady modification may cease.",
+      "quote": "The 1918 Bernau manuscripts devote detailed investigations to this phenomenon of \"fading\" (*Abklang*), distinguished from retention. Without active egoic attention, retentions of the remote past soon die off, and the process of their steady modification may cease."
+    },
+    {
+      "id": "zeitlichkeit/hua33/007",
+      "locator": "husserliana-33-die-bernauer-manuskripte-uber-das-zeitbewusstsein-commentary#h2-iii",
+      "term": "Urpräsentation",
+      "status": "revised",
+      "claim": "In the Bernau doctrine the primal presentation ceases to be the original core of time-consciousness and becomes a limit-point where the retentional and protentional modification-continua intersect.",
+      "quote": "The ur-presentation is now no longer the original core of time-consciousness but a mere limit-point where retentional and protentional modification-continua intersect."
+    },
+    {
+      "id": "zeitlichkeit/hua33/008",
+      "locator": "husserliana-33-die-bernauer-manuskripte-uber-das-zeitbewusstsein-commentary#h2-iii",
+      "term": "Selbstbewußtsein des Urprozesses",
+      "status": "revised",
+      "claim": "According to the new Bernau doctrine, self-consciousness of the primal stream is no longer a retentional achievement but arises from the experience of present intuitive fulfillment and is anchored in the flowing present.",
+      "quote": "According to the new Bernau doctrine, self-consciousness arises from the experience of present intuitive fulfillment—the consciousness of the continuous transition from retentional protentions to their intuitive realization."
+    },
+    {
+      "id": "zeitlichkeit/hua33/009",
+      "locator": "husserliana-33-die-bernauer-manuskripte-uber-das-zeitbewusstsein-commentary#h2-iii",
+      "term": "infinite regress",
+      "status": "criticized",
+      "claim": "The difficulty of infinite regress is said possibly to affect Husserl's whole systematic approach, since no determination of the origin of time may be available that does not already presuppose time.",
+      "quote": "Perhaps there simply can be no determination of the origin of time that does not already presuppose time."
+    },
+    {
+      "id": "zeitlichkeit/hua33/010",
+      "locator": "husserliana-33-die-bernauer-manuskripte-uber-das-zeitbewusstsein-commentary#h4-s-2-the-interweaving-of-retentional-and-protentional-intentionality-in-the-cours",
+      "primary_locator": "Text Nr. 1, § 2",
+      "term": "Ur-Präsentation",
+      "status": "introduced",
+      "claim": "Every primal presence is held to be apprehended content and not merely content, so that primal presentation is fulfilled expectation.",
+      "quote": "Every ur-presence is thus not merely content but \"apprehended\" content. Ur-presentation is fulfilled expectation."
+    },
+    {
+      "id": "zeitlichkeit/hua33/011",
+      "locator": "husserliana-33-die-bernauer-manuskripte-uber-das-zeitbewusstsein-commentary#h4-s-2-the-interweaving-of-retentional-and-protentional-intentionality-in-the-cours",
+      "primary_locator": "Text Nr. 1, § 2",
+      "term": "retention",
+      "status": "revised",
+      "claim": "Every middle phase of the process is given a triple face: retention of the elapsed ur-data, retention of the elapsed apprehensions, and fulfilled expectation from which an empty horizon radiates.",
+      "quote": "Every middle phase (excluding onset and end phases) thus has a triple face: it is retention with respect to the elapsed system of ur-data, retention with respect to the elapsed consciousness-apprehensions, and therefore fulfilled expectation—from which unfulfilled expectation radiates"
+    },
+    {
+      "id": "zeitlichkeit/hua33/012",
+      "locator": "husserliana-33-die-bernauer-manuskripte-uber-das-zeitbewusstsein-commentary#h4-s-3-the-role-of-expectations-protentions-in-the-constitution-of-phenomenological",
+      "primary_locator": "Text Nr. 1, § 3",
+      "term": "protention",
+      "status": "introduced",
+      "claim": "Protention is not a point-to-point aiming that flashes up anew at each phase but one continuously mediate intention directed at the coming event as a flowing horizon.",
+      "quote": "The expectation targets the coming event, a flowing event-horizon, a variable stretch. Its intentionality is continuously mediately directed at everything ideally distinguishable in what is coming."
+    },
+    {
+      "id": "zeitlichkeit/hua33/013",
+      "locator": "husserliana-33-die-bernauer-manuskripte-uber-das-zeitbewusstsein-commentary#h4-s-3-the-role-of-expectations-protentions-in-the-constitution-of-phenomenological",
+      "primary_locator": "Text Nr. 1, § 3",
+      "term": "Entfüllung",
+      "status": "introduced",
+      "claim": "The protentional and retentional series are made symmetrical in implication and asymmetrical in fullness: the empty protentions come first and fill, the full retentions come first and de-fulfill.",
+      "quote": "since in the flow of the primal process the empty (relatively empty) protentions come first and the full ones follow, while the full (relatively full) retentions come first and the relatively empty ones follow"
+    },
+    {
+      "id": "zeitlichkeit/hua33/014",
+      "locator": "husserliana-33-die-bernauer-manuskripte-uber-das-zeitbewusstsein-commentary#h4-s-4-the-interweaving-of-retention-and-protention-in-the-constitution-of-phenomen",
+      "primary_locator": "Text Nr. 1, § 4",
+      "term": "Now",
+      "status": "revised",
+      "claim": "The Now is constituted through the form of protentional fulfillment and the past through retentional modification of that fulfillment, raising the question whether retention has an identifiable point only because protention created a Now.",
+      "quote": "The Now is constituted through the form of protentional fulfillment; the past through retentional modification of this fulfillment."
+    },
+    {
+      "id": "zeitlichkeit/hua33/015",
+      "locator": "husserliana-33-die-bernauer-manuskripte-uber-das-zeitbewusstsein-commentary#h4-s-4-the-interweaving-of-retention-and-protention-in-the-constitution-of-phenomen",
+      "primary_locator": "Text Nr. 1, § 4",
+      "term": "Urgesetz der Genesis",
+      "status": "introduced",
+      "claim": "A primal law of genesis is invoked: once a stretch of hyletic data has elapsed a retentional connection must form, and a protention directs itself at continuation in the same style, modified by each differential of the retentional course.",
+      "quote": "Consciousness remains in its course and anticipates the further: a protention \"directs\" itself at continuation in the same style, and this protention is modified by each differential of the retentional course."
+    },
+    {
+      "id": "zeitlichkeit/hua33/016",
+      "locator": "husserliana-33-die-bernauer-manuskripte-uber-das-zeitbewusstsein-commentary#h4-s-4-the-interweaving-of-retention-and-protention-in-the-constitution-of-phenomen",
+      "primary_locator": "Text Nr. 1, § 4",
+      "term": "Phase des Prozesses",
+      "status": "introduced",
+      "claim": "Every process-phase is given a three-part structure: a stretch of retention, a point of primal presentation as fulfilled protention, and a stretch of unfulfilled protention.",
+      "quote": "Now every process-phase is: a stretch of retention, a point of ur-presentation as fulfilled protention, and a stretch of unfulfilled protention."
+    },
+    {
+      "id": "zeitlichkeit/hua33/017",
+      "locator": "husserliana-33-die-bernauer-manuskripte-uber-das-zeitbewusstsein-commentary#h3-supplement-i-to-s-4-of-text-nr-1-some-attempts-to-represent-the-interweaving-of",
+      "primary_locator": "Text Nr. 1, Supplement I",
+      "term": "Anfangsphase",
+      "status": "introduced",
+      "claim": "The onset-phase alone is called pure impression, with core-data otherwise never given except as fulfillment of protentions, and the onset-point said to come to consciousness only mediately through retention.",
+      "quote": "The onset-phase alone is the pure impression: the Now-thing comes as new, not as impoverishment of an old, not as retention."
+    }
+  ],
+  "absences": []
+}

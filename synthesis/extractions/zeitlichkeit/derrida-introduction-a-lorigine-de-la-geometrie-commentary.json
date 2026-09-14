@@ -1,0 +1,123 @@
+{
+  "schema_version": 1,
+  "theme": "zeitlichkeit",
+  "commentary": "derrida-introduction-a-lorigine-de-la-geometrie-commentary",
+  "source_sha256": "d88dc07ec83bdabc771b2e7ffa2f60764136bc0f531626ed13e58223d20ca693",
+  "extracted_at": "2026-09-14",
+  "extractor": {
+    "agent": "claude-code",
+    "prompt": "prompts/synthesis-pipeline/extraction-prompt.md"
+  },
+  "coverage": "partial",
+  "coverage_note": "Sections VI and XI, where omnitemporality and the Living Present carry the argument. Sections III, V, VII and X, which also carry term hits, are not extracted.",
+  "units": [
+    {
+      "id": "zeitlichkeit/derrida-intro/001",
+      "locator": "derrida-introduction-a-lorigine-de-la-geometrie-commentary#h2-vi",
+      "primary_locator": "¶ 112",
+      "stratum": "derrida-intro-1961",
+      "term": "Allzeitlichkeit",
+      "status": "introduced",
+      "claim": "Supratemporality and timelessness are said to be defined negatively only relative to mundane temporality; once that is reduced they appear as omnitemporality, a concrete mode of temporality in general.",
+      "quote": "*Überzeitlichkeit* and *Zeitlosigkeit* are defined in their transcendence or negativity *only relative to mundane temporality*; once the latter is reduced, they appear as *Allzeitlichkeit* — omnitemporality, \"*a concrete mode of temporality in general*.\""
+    },
+    {
+      "id": "zeitlichkeit/derrida-intro/002",
+      "locator": "derrida-introduction-a-lorigine-de-la-geometrie-commentary#h2-vi",
+      "primary_locator": "¶ 112",
+      "stratum": "derrida-intro-1961",
+      "term": "supratemporality",
+      "status": "revised",
+      "claim": "Supratemporality is denied to be an escape from time and called time's own universal mode, on the same reversal by which linguistic embodiment delivers rather than imprisons ideality.",
+      "quote": "Supratemporality is thus not an escape from time but time's own universal mode — just as linguistic embodiment is not ideality's prison but its deliverance."
+    },
+    {
+      "id": "zeitlichkeit/derrida-intro/003",
+      "locator": "derrida-introduction-a-lorigine-de-la-geometrie-commentary#h2-xi",
+      "primary_locator": "¶ 51",
+      "stratum": "derrida-intro-1961",
+      "term": "omnitemporality",
+      "status": "revised",
+      "claim": "The eternity of the Idea and of Reason is redefined as a historicity, its supra-temporality with regard to empirical temporality being nothing but an omnitemporality.",
+      "quote": "But this eternity *is nothing but a historicity*. It is the possibility of history itself. Its *supra-temporality* — with regard to empirical temporality — *is nothing but an omnitemporality*."
+    },
+    {
+      "id": "zeitlichkeit/derrida-intro/004",
+      "locator": "derrida-introduction-a-lorigine-de-la-geometrie-commentary#h2-xi",
+      "primary_locator": "¶ 235",
+      "stratum": "derrida-intro-1961",
+      "term": "protention and retention",
+      "status": "presupposed",
+      "claim": "Primordial temporalization is called dialectical through and through, as the dialectic of the mutual implication of protentions and retentions with the non-dialectic identity of the Living Present.",
+      "quote": "it was only the *dialectic of the dialectic* — the indefinite, mutual and irreducible implication of protentions and retentions — *with the non-dialectic*: the absolute and concrete identity of the Living Present, universal form of all consciousness."
+    },
+    {
+      "id": "zeitlichkeit/derrida-intro/005",
+      "locator": "derrida-introduction-a-lorigine-de-la-geometrie-commentary#h2-xi",
+      "primary_locator": "¶ 235",
+      "stratum": "derrida-intro-1961",
+      "term": "Living Present",
+      "status": "revised",
+      "claim": "The coincidence of constituting and constituted moment is reread as a unity of non-coincidence and indefinite co-implication in a Living Present that projects and maintains itself dialectically.",
+      "quote": "the unity of the *non-coincidence* and the *indefinite co-implication* of the constituted moment and the constituting moment, in the absolute identity of a Living Present that *projects and maintains itself dialectically*."
+    },
+    {
+      "id": "zeitlichkeit/derrida-intro/006",
+      "locator": "derrida-introduction-a-lorigine-de-la-geometrie-commentary#h2-xi",
+      "primary_locator": "¶ 257",
+      "stratum": "derrida-intro-1961",
+      "term": "Zeitlichkeit",
+      "status": "revised",
+      "claim": "Supra-temporality and omni-temporality are asked to be characters of Time itself, of the Living Present as the absolute concrete form of phenomenological temporality.",
+      "quote": "Are not supra-temporality and omni-temporality *also the characters of Time itself*? — of the *Living Present*, which is the absolute concrete *Form* of phenomenological temporality and the primordial Absolute of all transcendental life?"
+    },
+    {
+      "id": "zeitlichkeit/derrida-intro/007",
+      "locator": "derrida-introduction-a-lorigine-de-la-geometrie-commentary#h2-xi",
+      "primary_locator": "¶ 257",
+      "stratum": "derrida-intro-1961",
+      "term": "historicity",
+      "status": "introduced",
+      "claim": "The hidden temporal unity of supra-temporality and omni-temporality is declared the unitary foundation of all the instances the reductions dissociated, and that unity is historicity itself.",
+      "quote": "This unity — \"as *temporal* unity of temporality, for every *Geschehen*, for all *history* as the *gathering of what comes to pass in general*\" — \"*is historicity itself*.\""
+    },
+    {
+      "id": "zeitlichkeit/derrida-intro/008",
+      "locator": "derrida-introduction-a-lorigine-de-la-geometrie-commentary#h2-xi",
+      "primary_locator": "¶ 261",
+      "stratum": "derrida-intro-1961",
+      "term": "temporalization",
+      "status": "presupposed",
+      "claim": "Intentionality, traditionality, temporalization and historicity are said to be four names for one absolute movement, temporalization being the self-othering of the Living Present.",
+      "quote": "traditionality (the transmission of sense), temporalization (the self-othering of the Living Present), and historicity are four names for one absolute movement"
+    },
+    {
+      "id": "zeitlichkeit/derrida-intro/009",
+      "locator": "derrida-introduction-a-lorigine-de-la-geometrie-commentary#h2-xi",
+      "stratum": "derrida-intro-1961",
+      "term": "auto-temporalization",
+      "status": "presupposed",
+      "claim": "The radical reduction is said to reach absolute transcendental subjectivity as pure passive-active temporality, the pure auto-temporalization of the Living Present, already intersubjective.",
+      "quote": "*absolute transcendental subjectivity as pure passive-active temporality*, as the *pure auto-temporalization of the Living Present*"
+    },
+    {
+      "id": "zeitlichkeit/derrida-intro/010",
+      "locator": "derrida-introduction-a-lorigine-de-la-geometrie-commentary#h2-xi",
+      "stratum": "derrida-intro-1961",
+      "term": "Difference",
+      "status": "criticized",
+      "claim": "The Living Present is disclosed as non-self-identical at its core, present only in deferring itself without respite, and this is named as the source of the structural delay of reflection.",
+      "quote": "the *impotence to enclose oneself in the innocent indivision of the originary Absolute, because it is Present only in deferring itself without respite* (*en se différant sans relâche*)"
+    },
+    {
+      "id": "zeitlichkeit/derrida-intro/011",
+      "locator": "derrida-introduction-a-lorigine-de-la-geometrie-commentary#h2-xi",
+      "stratum": "derrida-intro-1961",
+      "term": "différance",
+      "status": "introduced",
+      "claim": "The self-differing of the Living Present through retention and protention is identified as différance in all but the later spelling, and Difference is called the opening through which presence is possible.",
+      "quote": "it is \"present\" only by *differing from itself* — retention and protention (¶235), the going-out-from-self-into-self (¶261), now named as *différance* in all but the later spelling."
+    }
+  ],
+  "absences": []
+}

@@ -1,0 +1,215 @@
+{
+  "schema_version": 1,
+  "theme": "zeitlichkeit",
+  "commentary": "heidegger-sein-und-zeit-commentary",
+  "source_sha256": "94b7fcaaa8e87cacbb03c01d9c915e9725572cda2849afa28f9a800cc7c63551",
+  "extracted_at": "2026-09-14",
+  "extractor": {
+    "agent": "claude-code",
+    "prompt": "prompts/synthesis-pipeline/extraction-prompt.md",
+    "note": "First zeitlichkeit pass over the densest file in the corpus; the spine sections only."
+  },
+  "coverage": "partial",
+  "coverage_note": "SZ Division Two: § 65 (the definition of temporality), § 66 (the tasks of the repetition), § 68 a (temporality of understanding) and § 81 (within-time-ness and the vulgar concept). The remaining 59 sections carrying term hits - § 61, §§ 67-71, §§ 72-77 on historicity, §§ 78-80 on world-time - are not extracted.",
+  "units": [
+    {
+      "id": "zeitlichkeit/sz/001",
+      "locator": "heidegger-sein-und-zeit-commentary#h5-s-65-temporality-as-the-ontological-sense-of-care",
+      "primary_locator": "SZ § 65",
+      "term": "future (Zu-kunft)",
+      "status": "introduced",
+      "claim": "The future is derived from anticipatory resoluteness as the letting-itself-come-toward-itself that endures the distinguished possibility, not as a now that is not yet actual.",
+      "quote": "The letting-itself-come-toward-itself that endures the distinguished possibility is the original phenomenon of the future (Zu-kunft)."
+    },
+    {
+      "id": "zeitlichkeit/sz/002",
+      "locator": "heidegger-sein-und-zeit-commentary#h5-s-65-temporality-as-the-ontological-sense-of-care",
+      "primary_locator": "SZ § 65",
+      "term": "Gewesenheit",
+      "status": "introduced",
+      "claim": "Beenness is derived from the future: Dasein can be authentically been only insofar as it is futural, so the past-dimension springs from the future.",
+      "quote": "Authentically futural, Dasein is authentically been. Anticipation into the uttermost and ownmost possibility is the understanding coming-back upon the ownmost been: Dasein can be authentically been only insofar as it is futural. Beenness springs, in a certain manner, from the future."
+    },
+    {
+      "id": "zeitlichkeit/sz/003",
+      "locator": "heidegger-sein-und-zeit-commentary#h5-s-65-temporality-as-the-ontological-sense-of-care",
+      "primary_locator": "SZ § 65",
+      "term": "Gegenwärtigen",
+      "status": "introduced",
+      "claim": "The present is derived as making-present: resoluteness can be the acting letting-encounter of what it seizes only as present in this sense.",
+      "quote": "Only as the present, in the sense of making-present, can resoluteness be what it is: the undisguised letting-encounter of what it seizes, acting."
+    },
+    {
+      "id": "zeitlichkeit/sz/004",
+      "locator": "heidegger-sein-und-zeit-commentary#h5-s-65-temporality-as-the-ontological-sense-of-care",
+      "primary_locator": "SZ § 65",
+      "term": "Zeitlichkeit",
+      "status": "introduced",
+      "claim": "Temporality is defined as the unitary phenomenon of the been-making-present future, and is announced as the sense of authentic care.",
+      "quote": "This phenomenon, unitary as been-making-present future (gewesend-gegenwärtigende Zukunft), we call temporality (Zeitlichkeit). Only insofar as Dasein is determined as temporality does it make possible for itself the characterized authentic potentiality-of-being-whole of anticipatory resoluteness. Temporality unveils itself as the sense of authentic care."
+    },
+    {
+      "id": "zeitlichkeit/sz/005",
+      "locator": "heidegger-sein-und-zeit-commentary#h5-s-65-temporality-as-the-ontological-sense-of-care",
+      "primary_locator": "SZ § 65",
+      "term": "Zeitlichkeit",
+      "status": "revised",
+      "claim": "The terminological use of temporality is quarantined against the vulgar significations of future, past and present, and against subjective/objective and immanent/transcendent time.",
+      "quote": "The terminological use of this expression must at first keep at bay all the significations of \"future,\" \"past,\" and \"present\" that press in from the vulgar concept of time; this holds also of the concepts of a \"subjective\" and \"objective,\" an \"immanent\" and \"transcendent\" \"time.\""
+    },
+    {
+      "id": "zeitlichkeit/sz/006",
+      "locator": "heidegger-sein-und-zeit-commentary#h5-s-65-temporality-as-the-ontological-sense-of-care",
+      "primary_locator": "SZ § 65",
+      "term": "Zeitlichkeit",
+      "status": "presupposed",
+      "claim": "The care-structure's own members are mapped onto the three ecstases: the ahead-of-itself grounds in the future, the already-being-in in beenness, being-alongside in making-present.",
+      "quote": "The ahead-of-itself grounds in the future. The already-being-in... makes known in itself beenness. Being-alongside... becomes possible in making-present."
+    },
+    {
+      "id": "zeitlichkeit/sz/007",
+      "locator": "heidegger-sein-und-zeit-commentary#h5-s-65-temporality-as-the-ontological-sense-of-care",
+      "primary_locator": "SZ § 65",
+      "term": "zeitigen",
+      "status": "introduced",
+      "claim": "Temporality is exempted from being a being at all: it does not exist but temporalizes itself, and the unavoidable 'is' of sentences about it is flagged as a debt.",
+      "quote": "Temporality \"is\" no being at all: it is not — it temporalizes itself (sie zeitigt sich)."
+    },
+    {
+      "id": "zeitlichkeit/sz/008",
+      "locator": "heidegger-sein-und-zeit-commentary#h5-s-65-temporality-as-the-ontological-sense-of-care",
+      "primary_locator": "SZ § 65",
+      "term": "Ekstasen",
+      "status": "introduced",
+      "claim": "Future, beenness and present are named the ecstases of temporality, which is the original outside-itself and does not first step out of itself.",
+      "quote": "We therefore call the characterized phenomena future, beenness, present the ecstases of temporality. Temporality is not, prior to this, a being that first steps out of itself; its essence is temporalizing in the unity of the ecstases."
+    },
+    {
+      "id": "zeitlichkeit/sz/009",
+      "locator": "heidegger-sein-und-zeit-commentary#h5-s-65-temporality-as-the-ontological-sense-of-care",
+      "primary_locator": "SZ § 65",
+      "term": "Zukunft",
+      "status": "introduced",
+      "claim": "Within the equiprimordiality of the ecstases the future has priority: original and authentic temporality temporalizes itself from the authentic future.",
+      "quote": "Original and authentic temporality temporalizes itself from the authentic future — in such a way that, futurally been, it first awakens the present. The primary phenomenon of original and authentic temporality is the future."
+    },
+    {
+      "id": "zeitlichkeit/sz/010",
+      "locator": "heidegger-sein-und-zeit-commentary#h5-s-65-temporality-as-the-ontological-sense-of-care",
+      "primary_locator": "SZ § 65",
+      "term": "Endlichkeit der Zeit",
+      "status": "introduced",
+      "claim": "The finitude of original time is a character of temporalizing rather than a ceasing, and the endless time of the vulgar understanding is derived from it.",
+      "quote": "Only because original time is finite can the \"derived\" temporalize itself as in-finite."
+    },
+    {
+      "id": "zeitlichkeit/sz/011",
+      "locator": "heidegger-sein-und-zeit-commentary#h5-s-65-temporality-as-the-ontological-sense-of-care",
+      "primary_locator": "SZ § 65",
+      "term": "Zeitlichkeit",
+      "status": "presupposed",
+      "claim": "The section's yield is condensed into four theses on original time: enabling of the care-structure, essentially ecstatic, temporalizing from the future, and finite.",
+      "quote": "time is original as the temporalizing of temporality, as which it makes possible the constitution of the care-structure; temporality is essentially ecstatic; temporality temporalizes itself originally from the future; original time is finite"
+    },
+    {
+      "id": "zeitlichkeit/sz/012",
+      "locator": "heidegger-sein-und-zeit-commentary#h5-s-66-dasein-s-temporality-and-the-tasks-springing-from-it-of-a-more-original-rep",
+      "primary_locator": "SZ § 66",
+      "term": "Innerzeitigkeit",
+      "status": "introduced",
+      "claim": "Within-time-ness is introduced as the time-determinateness of innerworldly beings, reached by way of concern's reckoning with time, and named the basis of the vulgar concept.",
+      "quote": "This time-determinateness of innerworldly beings we call within-time-ness (Innerzeitigkeit). The \"time\" found at first ontically in it becomes the basis of the formation of the vulgar and traditional concept of time."
+    },
+    {
+      "id": "zeitlichkeit/sz/013",
+      "locator": "heidegger-sein-und-zeit-commentary#h5-s-66-dasein-s-temporality-and-the-tasks-springing-from-it-of-a-more-original-rep",
+      "primary_locator": "SZ § 66",
+      "term": "Innerzeitigkeit",
+      "status": "criticized",
+      "claim": "Within-time-ness is defended as a genuine time-phenomenon against Bergson's reading of it as an externalization of a qualitative time into space.",
+      "quote": "this origin says that the time \"in which\" the present-at-hand arises and passes away is a genuine time-phenomenon — no externalization of a \"qualitative time\" into space, as Bergson's ontologically wholly indeterminate and insufficient interpretation of time would have one believe"
+    },
+    {
+      "id": "zeitlichkeit/sz/014",
+      "locator": "heidegger-sein-und-zeit-commentary#h6-a-the-temporality-of-understanding",
+      "primary_locator": "SZ § 68 a",
+      "term": "Gewärtigen",
+      "status": "introduced",
+      "claim": "The inauthentic future is named awaiting: Dasein comes toward itself from what the attended yields or refuses, and expecting is founded in it.",
+      "quote": "Dasein comes toward itself from the attended. The inauthentic future has the character of awaiting (Gewärtigen)."
+    },
+    {
+      "id": "zeitlichkeit/sz/015",
+      "locator": "heidegger-sein-und-zeit-commentary#h6-a-the-temporality-of-understanding",
+      "primary_locator": "SZ § 68 a",
+      "term": "Augenblick",
+      "status": "introduced",
+      "claim": "The authentic present, held in future and beenness, is named the moment of vision, understood actively as an ecstasis and not clarifiable from the now.",
+      "quote": "The present held in authentic temporality — hence authentic present — we call the moment of vision (der Augenblick). This term must be understood in the active sense, as ecstasis"
+    },
+    {
+      "id": "zeitlichkeit/sz/016",
+      "locator": "heidegger-sein-und-zeit-commentary#h6-a-the-temporality-of-understanding",
+      "primary_locator": "SZ § 68 a",
+      "term": "Augenblick",
+      "status": "criticized",
+      "claim": "Kierkegaard is credited with the most penetrating grasp of the existentiell moment of vision and charged with determining it from the now and eternity, hence within the vulgar concept of time.",
+      "quote": "he saw the existentiell phenomenon of the Augenblick most penetratingly of all — which does not already mean that the existential interpretation correspondingly succeeded for him; he remains stuck to the vulgar concept of time and determines the moment with the help of the now and eternity"
+    },
+    {
+      "id": "zeitlichkeit/sz/017",
+      "locator": "heidegger-sein-und-zeit-commentary#h6-a-the-temporality-of-understanding",
+      "primary_locator": "SZ § 68 a",
+      "term": "Wiederholung",
+      "status": "introduced",
+      "claim": "Authentic having-been is named retrieval or repetition, and its inauthentic counterpart, forgetting, is an own positive ecstatic mode of beenness rather than a lack of memory.",
+      "quote": "Authentic having-been we call retrieval — repetition (die Wiederholung)."
+    },
+    {
+      "id": "zeitlichkeit/sz/018",
+      "locator": "heidegger-sein-und-zeit-commentary#h6-a-the-temporality-of-understanding",
+      "primary_locator": "SZ § 68 a",
+      "term": "Vergessenheit",
+      "status": "introduced",
+      "claim": "Forgetting is an ecstatic backing-away before the ownmost been that closes off both what it backs away from and itself, and it is the ground of retaining and of ordinary forgetting.",
+      "quote": "This forgetting is not nothing, nor merely the lack of memory: it is an own, \"positive\" ecstatic mode of beenness."
+    },
+    {
+      "id": "zeitlichkeit/sz/019",
+      "locator": "heidegger-sein-und-zeit-commentary#h5-s-81-within-time-ness-and-the-genesis-of-the-vulgar-concept-of-time",
+      "primary_locator": "SZ § 81",
+      "term": "Gegenwärtigen",
+      "status": "presupposed",
+      "claim": "Clock-use is given the existential-temporal sense of a making-present of the wandering pointer, temporalizing in the ecstatic unity of an awaiting retaining.",
+      "quote": "Its existential-temporal sense proves to be a making-present of the wandering pointer: the presenting following of the pointer-positions counts. This making-present temporalizes itself in the ecstatic unity of an awaiting retaining"
+    },
+    {
+      "id": "zeitlichkeit/sz/020",
+      "locator": "heidegger-sein-und-zeit-commentary#h5-s-81-within-time-ness-and-the-genesis-of-the-vulgar-concept-of-time",
+      "primary_locator": "SZ § 81",
+      "term": "chronos",
+      "status": "criticized",
+      "claim": "Aristotle's definition of time is read as the existential-ontological exegesis of clock-sighted time, genuine but with its origin left unasked.",
+      "quote": "But this is nothing other than the existential-ontological exegesis of Aristotle's definition of time: touto gar estin ho chronos, arithmos kinēseōs kata to proteron kai hysteron — \"for this is time: the counted at the motion encountering in the horizon of the earlier and later.\""
+    },
+    {
+      "id": "zeitlichkeit/sz/021",
+      "locator": "heidegger-sein-und-zeit-commentary#h5-s-81-within-time-ness-and-the-genesis-of-the-vulgar-concept-of-time",
+      "primary_locator": "SZ § 81",
+      "term": "Jetzt-Zeit",
+      "status": "introduced",
+      "claim": "World-time as it is sighted in clock-use is named the now-time, the time of which all discussion since Aristotle has held itself to the counted nows.",
+      "quote": "The world-time thus \"sighted\" in clock-use we call the now-time (die Jetzt-Zeit)."
+    },
+    {
+      "id": "zeitlichkeit/sz/022",
+      "locator": "heidegger-sein-und-zeit-commentary#h5-s-81-within-time-ness-and-the-genesis-of-the-vulgar-concept-of-time",
+      "primary_locator": "SZ § 81",
+      "term": "Jetzt-Zeit",
+      "status": "criticized",
+      "claim": "The vulgar interpretation of time as pure now-sequence is charged with covering datability and significance, and so with levelling the ecstatic-horizonal constitution in which they ground.",
+      "quote": "In the vulgar interpretation of time as now-sequence, both datability and significance are lacking: the characterization of time as pure succession does not let these two structures \"come to appearance\" — the vulgar interpretation covers them."
+    }
+  ],
+  "absences": []
+}
