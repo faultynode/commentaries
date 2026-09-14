@@ -66,6 +66,12 @@ Everything below is downstream of keeping that check meaningful.
 10. **Flag gaps; do not fill them.** A Stage 4 pass that cannot support a
    claim appends to `gaps.json`. That register is the reading queue, and
    it is the output that makes the next iteration possible.
+11. **Name the model in `extractor.model`.** Records differ in quality by
+   the model that wrote them, and the difference is not visible in a
+   record that passes the validator: coverage overstated by a sentence,
+   a `status` that is the same value throughout, quotes trimmed to the
+   schema minimum. Leave the field out where you do not know — never
+   guess which model wrote an older record, same rule as 6.
 
 ## Authored vs. generated
 

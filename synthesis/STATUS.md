@@ -8,17 +8,17 @@ Corpus: **53 commentaries**, 2,934,868 words, 3902 sections indexed in `synthesi
 
 ### fundierung - founding of higher-order objectivities
 
-8 commentaries extracted · 48 units · 0 absences · 8 partial
+4 commentaries extracted · 64 units · 1 absences · 4 partial
 
 Next candidates, by term density:
 
-- [ ] `husserliana-43-2-studien-zur-struktur-des-bewusstseins-commentary` (1911) - 377 hits
+- [ ] `husserliana-3-ideas-i-parts-3-4-commentary` (undated) - 779 hits
+- [ ] `husserliana-19-2-sixth-logical-investigation-commentary` (undated) - 728 hits
+- [ ] `heidegger-sein-und-zeit-commentary` (1927) - 624 hits
+- [ ] `husserliana-19-1-fifth-logical-investigation-commentary` (1901) - 578 hits
+- [ ] `husserliana-43-2-studien-zur-struktur-des-bewusstseins-commentary` (undated) - 377 hits
 - [ ] `lacan-seminar-11-the-four-fundamental-concepts-of-psychoanalysis-commentary` (undated) - 370 hits
-- [ ] `henry-philosophie-et-phenomenologie-du-corps-commentary` (1965) - 340 hits
-- [ ] `husserliana-9-phenomenological-psychology-commentary` (1925) - 335 hits
-- [ ] `husserliana-26-theory-of-meaning-commentary` (1908) - 333 hits
-- [ ] `kant-kritik-der-reinen-vernunft-commentary` (undated) - 332 hits
-- ... 39 more; see `synthesis_query.py --theme fundierung`
+- ... 43 more; see `synthesis_query.py --theme fundierung`
 
 ### intentionalitaet - intentionality
 
@@ -168,10 +168,15 @@ Next candidates, by term density:
 
 These commentaries do not date their own text, so they sit off the ledger spine. Each is a reading task, not a lookup: the date belongs in the commentary first.
 
+- [ ] `heidegger-ga-18-grundbegriffe-der-aristotelischen-philosophie-commentary` - The commentary names the volume and the page range covered but no semester. Resolving this matters more than most: GA 18 sits immediately before GA 19 on the Sorge ledger, and the two courses are what the periodization turns on.
+- [ ] `heidegger-ga-24-die-grundprobleme-der-phanomenologie-commentary`
 - [ ] `henry-the-essence-of-manifestation-commentary`
-- [ ] `husserl-erfahrung-und-urteil-commentary` - Stays unresolved for want of the volume, not for want of a pass: no edition of Erfahrung und Urteil is in faultynode/sources, so the Landgrebe compilation strata cannot be taken from the source the way GA 18 and Hua XVII were. Resolving it means bringing the volume into the sources repo first.
-- [ ] `husserliana-13-editors-introduction-commentary`
-- [ ] `husserliana-39-die-lebenswelt-commentary` - Stays unresolved for want of the volume: Hua XXXIX is not in faultynode/sources. The volume collects manuscripts of several dates, so what is wanted from it is a set of strata, not a date - a single date would be wrong even if one were stated.
+- [ ] `husserl-erfahrung-und-urteil-commentary`
+- [ ] `husserl-formal-and-transcendental-logic-commentary`
+- [ ] `husserliana-1-cartesianische-meditationen-commentary`
+- [ ] `husserliana-3-ideas-i-commentary`
+- [ ] `husserliana-39-die-lebenswelt-commentary`
+- [ ] `husserliana-5-ideas-iii-commentary` - Hua V shares the Stein and Landgrebe strata recorded under husserliana-4-ideas-ii-commentary, per that commentary's editor's introduction. Do not copy those strata here until this commentary states them itself.
 - [ ] `mohanty-philosophy-of-edmund-husserl-commentary`
 - [ ] `picht-de-anima-commentary`
 

@@ -24,6 +24,10 @@
       "required": ["agent", "prompt"],
       "properties": {
         "agent": { "type": "string" },
+        "model": {
+          "type": "string",
+          "description": "Model identifier for the pass, as the provider names it (e.g. claude-opus-5). Optional, and never supplied from memory: a record written before this field existed omits it rather than guessing which model wrote it."
+        },
         "prompt": { "type": "string" },
         "note": { "type": "string" }
       }
