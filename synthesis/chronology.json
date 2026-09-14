@@ -679,17 +679,25 @@
       "commentary": "husserliana-3-ideas-i-commentary",
       "role": "primary",
       "status": "resolved",
-      "note": "Husserliana III/1 prints only the text published in Husserl's lifetime; his handwritten additions toward a revision are in III/2 and are not in what this commentary reads. The three editions are almost entirely identical, so the stratum spans them rather than splitting.",
       "strata": [
         {
-          "id": "hua3-1913",
-          "label": "First Book, text of the first to third editions (1913, 1922, 1928)",
-          "year_start": 1913,
-          "year_end": 1928,
+          "id": "hua43-2-1911-09",
+          "label": "Appendix IV to Part II, September 1911",
+          "year_start": 1911,
+          "year_end": 1911,
           "stated_in_commentary": true,
-          "evidence": "\"appeared in Husserl's lifetime in three almost entirely identical editions, in 1913, 1922 and 1928\""
+          "evidence": "\"The Beilage (likely September 1911, the editors note) crystallizes a distinction that has emerged in §§ 3-4\""
+        },
+        {
+          "id": "hua43-2-1911-11",
+          "label": "Part III § 4 manuscript, early November 1911",
+          "year_start": 1911,
+          "year_end": 1911,
+          "stated_in_commentary": true,
+          "evidence": "\"The footnote to the section heading dates the manuscript: \\\"*Anfang November 1911*\\\" - early November 1911\""
         }
-      ]
+      ],
+      "note": "Only two manuscripts in the covered range are dated in the commentary, both to 1911. Part I and the body of Part II carry no date, so no unit from them should be given a stratum; § 5 places the 1908/09 ethics lectures (Hua XXVIII) already in the past, which bounds them from below but is not a date. An earlier pass recorded this entry as unresolved on the strength of the opening alone; the dates are further into the text."
     },
     {
       "commentary": "husserliana-5-ideas-iii-commentary",
@@ -708,20 +716,52 @@
       ]
     },
     {
-      "commentary": "derrida-introduction-a-lorigine-de-la-geometrie-commentary",
-      "role": "reception",
+      "commentary": "husserliana-39-die-lebenswelt-commentary",
+      "role": "primary",
       "status": "resolved",
       "strata": [
         {
-          "id": "derrida-intro-1961",
-          "label": "Introduction à *L'Origine de la géométrie*, July 1961",
-          "year_start": 1961,
-          "year_end": 1961,
+          "id": "hua39-ca-1920",
+          "label": "Text Nr. 2 and Supplement I, ca. 1920",
+          "year_start": 1920,
+          "year_end": 1920,
           "stated_in_commentary": true,
-          "evidence": "\"The Introduction is dated 'Juillet 1961.'\""
+          "evidence": "date line under each heading: \"*[ca. 1920]*\""
+        },
+        {
+          "id": "hua39-early-1920s",
+          "label": "Text Nr. 1, early 1920s",
+          "year_start": 1920,
+          "year_end": 1924,
+          "stated_in_commentary": true,
+          "evidence": "date line under the heading of Text Nr. 1: \"*[Early 1920s]*\""
+        },
+        {
+          "id": "hua39-1928",
+          "label": "Text Nr. 4, supplement to the 1928 lecture \"Intentional Psychology\"",
+          "year_start": 1928,
+          "year_end": 1928,
+          "stated_in_commentary": true,
+          "evidence": "date line under Text Nr. 4: \"*[Supplement to the 1928 lecture \\\"Intentional Psychology\\\"]*\""
+        },
+        {
+          "id": "hua39-ca-1933",
+          "label": "Text Nr. 10, ca. 1933",
+          "year_start": 1933,
+          "year_end": 1933,
+          "stated_in_commentary": true,
+          "evidence": "date line under Text Nr. 10: \"*[ca. 1933]*\""
+        },
+        {
+          "id": "hua39-1934",
+          "label": "Text Nr. 15, end of May or beginning of June 1934",
+          "year_start": 1934,
+          "year_end": 1934,
+          "stated_in_commentary": true,
+          "evidence": "date line under Text Nr. 15: \"*[End of May or beginning of June 1934]*\""
         }
       ],
-      "note": "Stays unresolved for want of the volume: Hua XXXIX is not in faultynode/sources. The volume collects manuscripts of several dates, so what is wanted from it is a set of strata, not a date - a single date would be wrong even if one were stated."
+      "note": "Not a work of one date. Every text and supplement in the volume carries its own date in the commentary, printed under its heading; 87 dated blocks running from ca. 1920 to 1937. The strata below are the texts the current records cite, so a unit can carry the layer it belongs to; add a stratum as a pass reaches a further text rather than dating the volume as a whole. This is the Hua IV rule applied to a manuscript collection."
     },
     {
       "commentary": "derrida-la-voix-et-le-phenomene-commentary",
@@ -895,14 +935,15 @@
       "status": "resolved",
       "strata": [
         {
-          "id": "franck-cc-1981",
-          "label": "Chair et corps: Sur la phénoménologie de Husserl, 1981",
-          "year_start": 1981,
-          "year_end": 1981,
+          "id": "essence-1963",
+          "label": "L'essence de la manifestation, 1963",
+          "year_start": 1963,
+          "year_end": 1963,
           "stated_in_commentary": true,
-          "evidence": "title line: \"***Chair et corps: Sur la phénoménologie de Husserl*** **(1981)**\""
+          "evidence": "\"The seeds of that late project are already here in 1963\""
         }
-      ]
+      ],
+      "note": "The date is stated only in passing, in the commentary's reading of the Christianity passages, not in a bibliographical note. It is the commentary's own statement and so is recorded as stated_in_commentary, but it is thinner evidence than the other entries here."
     },
     {
       "commentary": "franck-chair-et-corps-commentary",

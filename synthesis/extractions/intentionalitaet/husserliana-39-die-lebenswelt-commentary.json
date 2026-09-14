@@ -2,7 +2,7 @@
   "schema_version": 1,
   "theme": "intentionalitaet",
   "commentary": "husserliana-39-die-lebenswelt-commentary",
-  "source_sha256": "d62704cb5caf45b6bdf8945916547e1f1c889ace9b84a84347f16fce9c32a105",
+  "source_sha256": "6b1e894a20852eb6bab8717705a8643df666eb07892dc46e152d195ae0107d0b",
   "extracted_at": "2026-09-09",
   "extractor": {
     "agent": "claude-code",

@@ -14433,9 +14433,9 @@
       "author": "henry",
       "title": "Michel Henry, L'essence de la manifestation",
       "wordpress_id": "442",
-      "sha256": "81321687b3823d9c3244b29758d979f86bd9d4ac28813fa58686aa2e9446ff68",
-      "lines": 3063,
-      "words": 280036,
+      "sha256": "5843b5fd3a549950c075c0c3a42acfaf096c14d00192dc3094d2fd85baa463f0",
+      "lines": 3065,
+      "words": 280058,
       "url": "https://faultynode.github.io/commentaries/commentaries/henry/henry-the-essence-of-manifestation-commentary.html",
       "sections": [
         {
@@ -14447,8 +14447,8 @@
           ],
           "anchor": "michel-henry-lessence-de-la-manifestation",
           "line_start": 5,
-          "line_end": 6,
-          "words": 0
+          "line_end": 8,
+          "words": 22
         },
         {
           "id": "h1-introduction-the-problem-of-the-being-of-the-ego-and-the-fundamental-presupposit",
@@ -14458,8 +14458,8 @@
             "Introduction. The problem of the being of the ego and the fundamental presuppositions of ontology"
           ],
           "anchor": "introduction-the-problem-of-the-being-of-the-ego-and-the-fundamental-presuppositions-of-ontology",
-          "line_start": 7,
-          "line_end": 24,
+          "line_start": 9,
+          "line_end": 26,
           "words": 1932
         },
         {
@@ -14471,8 +14471,8 @@
             "§ 1\\. The idea of an apodictic evidence as privileged pathway of access to the being of the ego"
           ],
           "anchor": "the-idea-of-an-apodictic-evidence-as-privileged-pathway-of-access-to-the-being-of-the-ego",
-          "line_start": 25,
-          "line_end": 56,
+          "line_start": 27,
+          "line_end": 58,
           "words": 3918
         },
         {
@@ -14484,8 +14484,8 @@
             "§ 2\\. The necessity of the prior edification of a universal phenomenological ontology"
           ],
           "anchor": "the-necessity-of-the-prior-edification-of-a-universal-phenomenological-ontology",
-          "line_start": 57,
-          "line_end": 94,
+          "line_start": 59,
+          "line_end": 96,
           "words": 4059
         },
         {
@@ -14497,8 +14497,8 @@
             "§ 3\\. The overcoming of intuitionism and the liberation of the universal phenomenological horizon"
           ],
           "anchor": "the-overcoming-of-intuitionism-and-the-liberation-of-the-universal-phenomenological-horizon",
-          "line_start": 95,
-          "line_end": 146,
+          "line_start": 97,
+          "line_end": 148,
           "words": 4612
         },
         {
@@ -14510,8 +14510,8 @@
             "§ 4\\. The insertion of the ego cogito and of its problematic inside the horizon liberated by universal phenomenological ontology"
           ],
           "anchor": "the-insertion-of-the-ego-cogito-and-of-its-problematic-inside-the-horizon-liberated-by-universal-phenomenological-ontology",
-          "line_start": 147,
-          "line_end": 190,
+          "line_start": 149,
+          "line_end": 192,
           "words": 3925
         },
         {
@@ -14523,8 +14523,8 @@
             "§ 5\\. The problem of the insertion of the ego cogito inside the universal phenomenological horizon: the \"being\" of the absolute ego"
           ],
           "anchor": "the-problem-of-the-insertion-of-the-ego-cogito-inside-the-universal-phenomenological-horizon-the-being-of-the-absolute-ego",
-          "line_start": 191,
-          "line_end": 248,
+          "line_start": 193,
+          "line_end": 250,
           "words": 4306
         },
         {
@@ -14536,8 +14536,8 @@
             "§ 6\\. The difficulties relative to the edification of universal phenomenological ontology"
           ],
           "anchor": "the-difficulties-relative-to-the-edification-of-universal-phenomenological-ontology",
-          "line_start": 249,
-          "line_end": 306,
+          "line_start": 251,
+          "line_end": 308,
           "words": 4306
         },
         {
@@ -14549,8 +14549,8 @@
             "§ 7\\. The problematic concerning the being of the ego interpreted as an originary and fundamental problematic"
           ],
           "anchor": "the-problematic-concerning-the-being-of-the-ego-interpreted-as-an-originary-and-fundamental-problematic",
-          "line_start": 307,
-          "line_end": 406,
+          "line_start": 309,
+          "line_end": 408,
           "words": 8672
         },
         {
@@ -14562,8 +14562,8 @@
             "Closing synoptic observations"
           ],
           "anchor": "closing-synoptic-observations",
-          "line_start": 407,
-          "line_end": 423,
+          "line_start": 409,
+          "line_end": 425,
           "words": 622
         },
         {
@@ -14574,8 +14574,8 @@
             "Section I. Elucidation of the concept of phenomenon: ontological monism"
           ],
           "anchor": "section-i-elucidation-of-the-concept-of-phenomenon-ontological-monism",
-          "line_start": 424,
-          "line_end": 425,
+          "line_start": 426,
+          "line_end": 427,
           "words": 0
         },
         {
@@ -14587,8 +14587,8 @@
             "§ 8\\. The elucidation of the essence of the phenomenon, central task of phenomenology"
           ],
           "anchor": "the-elucidation-of-the-essence-of-the-phenomenon-central-task-of-phenomenology",
-          "line_start": 426,
-          "line_end": 529,
+          "line_start": 428,
+          "line_end": 531,
           "words": 7509
         },
         {
@@ -14600,8 +14600,8 @@
             "§ 9\\. The unilateral determination of the essence of phenomenon and the concept of \"phenomenological distance\""
           ],
           "anchor": "the-unilateral-determination-of-the-essence-of-phenomenon-and-the-concept-of-phenomenological-distance",
-          "line_start": 530,
-          "line_end": 579,
+          "line_start": 532,
+          "line_end": 581,
           "words": 4145
         },
         {
@@ -14613,8 +14613,8 @@
             "§ 10\\. Phenomenological distance and the doubling of being: presence and alienation"
           ],
           "anchor": "phenomenological-distance-and-the-doubling-of-being-presence-and-alienation",
-          "line_start": 580,
-          "line_end": 649,
+          "line_start": 582,
+          "line_end": 651,
           "words": 5229
         },
         {
@@ -14626,8 +14626,8 @@
             "§ 11\\. Ontological monism and the problem of its overcoming: philosophy of consciousness and philosophy of being"
           ],
           "anchor": "ontological-monism-and-the-problem-of-its-overcoming-philosophy-of-consciousness-and-philosophy-of-being",
-          "line_start": 650,
-          "line_end": 769,
+          "line_start": 652,
+          "line_end": 771,
           "words": 10015
         },
         {
@@ -14639,8 +14639,8 @@
             "§ 12\\. The critique of the philosophy of consciousness"
           ],
           "anchor": "the-critique-of-the-philosophy-of-consciousness",
-          "line_start": 770,
-          "line_end": 819,
+          "line_start": 772,
+          "line_end": 821,
           "words": 3897
         },
         {
@@ -14652,8 +14652,8 @@
             "§ 13\\. The ambiguity of \"Dasein\": essence and ontic determination"
           ],
           "anchor": "the-ambiguity-of-dasein-essence-and-ontic-determination",
-          "line_start": 820,
-          "line_end": 891,
+          "line_start": 822,
+          "line_end": 893,
           "words": 5707
         },
         {
@@ -14665,8 +14665,8 @@
             "§ 14\\. The relation of essence and ontic determination in the philosophy of consciousness"
           ],
           "anchor": "the-relation-of-essence-and-ontic-determination-in-the-philosophy-of-consciousness",
-          "line_start": 892,
-          "line_end": 957,
+          "line_start": 894,
+          "line_end": 959,
           "words": 5730
         },
         {
@@ -14678,8 +14678,8 @@
             "§ 15\\. The ontological signification of the problematic that aims at the essence and the originary concept of finitude"
           ],
           "anchor": "the-ontological-signification-of-the-problematic-that-aims-at-the-essence-and-the-originary-concept-of-finitude",
-          "line_start": 958,
-          "line_end": 1031,
+          "line_start": 960,
+          "line_end": 1033,
           "words": 5945
         },
         {
@@ -14691,8 +14691,8 @@
             "§ 16\\. The idea of the formal structure of the autonomy of the essence and the task of a repetition of the ontological elucidation of the concept of phenomenon"
           ],
           "anchor": "the-idea-of-the-formal-structure-of-the-autonomy-of-the-essence-and-the-task-of-a-repetition-of-the-ontological-elucidation-of-the-concept-of-phenomenon",
-          "line_start": 1032,
-          "line_end": 1073,
+          "line_start": 1034,
+          "line_end": 1075,
           "words": 2872
         },
         {
@@ -14703,8 +14703,8 @@
             "Section II. Repetition of the elucidation of the concept of phenomenon: transcendence and immanence"
           ],
           "anchor": "section-ii-repetition-of-the-elucidation-of-the-concept-of-phenomenon-transcendence-and-immanence",
-          "line_start": 1074,
-          "line_end": 1075,
+          "line_start": 1076,
+          "line_end": 1077,
           "words": 0
         },
         {
@@ -14716,8 +14716,8 @@
             "§ 17\\. The originary character of the manifestation of being and the problem of natural consciousness"
           ],
           "anchor": "the-originary-character-of-the-manifestation-of-being-and-the-problem-of-natural-consciousness",
-          "line_start": 1076,
-          "line_end": 1145,
+          "line_start": 1078,
+          "line_end": 1147,
           "words": 4904
         },
         {
@@ -14729,8 +14729,8 @@
             "§ 18\\. The concept of representation: ontological structure and existential understanding"
           ],
           "anchor": "the-concept-of-representation-ontological-structure-and-existential-understanding",
-          "line_start": 1146,
-          "line_end": 1223,
+          "line_start": 1148,
+          "line_end": 1225,
           "words": 6125
         },
         {
@@ -14742,8 +14742,8 @@
             "§ 19\\. Being-for-itself from the ontological point of view and from the existential point of view: consciousness and truth"
           ],
           "anchor": "being-for-itself-from-the-ontological-point-of-view-and-from-the-existential-point-of-view-consciousness-and-truth",
-          "line_start": 1224,
-          "line_end": 1271,
+          "line_start": 1226,
+          "line_end": 1273,
           "words": 3725
         },
         {
@@ -14755,8 +14755,8 @@
             "§ 20\\. Critique of the Hegelian concept of experience"
           ],
           "anchor": "critique-of-the-hegelian-concept-of-experience",
-          "line_start": 1272,
-          "line_end": 1324,
+          "line_start": 1274,
+          "line_end": 1326,
           "words": 3841
         },
         {
@@ -14768,8 +14768,8 @@
             "§ 21\\. The reaffirmation of the originary character of the manifestation of being in the bringing-into-light of its non-historical character"
           ],
           "anchor": "the-reaffirmation-of-the-originary-character-of-the-manifestation-of-being-in-the-bringing-into-light-of-its-non-historical-character",
-          "line_start": 1325,
-          "line_end": 1378,
+          "line_start": 1327,
+          "line_end": 1380,
           "words": 3651
         },
         {
@@ -14781,8 +14781,8 @@
             "§ 22\\. The interpretation of the essence of phenomenality within the fundamental presuppositions of monism and the problem of receptivity. Ontological signification of this problem"
           ],
           "anchor": "the-interpretation-of-the-essence-of-phenomenality-within-the-fundamental-presuppositions-of-monism-and-the-problem-of-receptivity-ontological-signification-of-this-problem",
-          "line_start": 1379,
-          "line_end": 1428,
+          "line_start": 1381,
+          "line_end": 1430,
           "words": 3974
         },
         {
@@ -14794,8 +14794,8 @@
             "§ 23\\. The internal possibility of the receptivity of being and the problem of schematism"
           ],
           "anchor": "the-internal-possibility-of-the-receptivity-of-being-and-the-problem-of-schematism",
-          "line_start": 1429,
-          "line_end": 1458,
+          "line_start": 1431,
+          "line_end": 1460,
           "words": 2550
         },
         {
@@ -14807,8 +14807,8 @@
             "§ 24\\. Reaffirming the central place of the problem of receptivity, and the ontological interpretation of time as auto-affection"
           ],
           "anchor": "reaffirming-the-central-place-of-the-problem-of-receptivity-and-the-ontological-interpretation-of-time-as-auto-affection",
-          "line_start": 1459,
-          "line_end": 1486,
+          "line_start": 1461,
+          "line_end": 1488,
           "words": 2738
         },
         {
@@ -14820,8 +14820,8 @@
             "§ 25\\. Clarifying the essence of receptivity and the problem of determining phenomenologically the original reality of transcendence"
           ],
           "anchor": "clarifying-the-essence-of-receptivity-and-the-problem-of-determining-phenomenologically-the-original-reality-of-transcendence",
-          "line_start": 1487,
-          "line_end": 1502,
+          "line_start": 1489,
+          "line_end": 1504,
           "words": 2213
         },
         {
@@ -14833,8 +14833,8 @@
             "§ 26\\. The intrusion of man into the problematic of receptivity, and the fact that the original conditions of truth do not belong to the absolute milieu of exteriority"
           ],
           "anchor": "the-intrusion-of-man-into-the-problematic-of-receptivity-and-the-fact-that-the-original-conditions-of-truth-do-not-belong-to-the-absolute-milieu-of-exteriority",
-          "line_start": 1503,
-          "line_end": 1520,
+          "line_start": 1505,
+          "line_end": 1522,
           "words": 1609
         },
         {
@@ -14846,8 +14846,8 @@
             "§ 27\\. Grasping the central place of the problematic of receptivity and putting in question the ultimate ontological presuppositions of monism"
           ],
           "anchor": "grasping-the-central-place-of-the-problematic-of-receptivity-and-putting-in-question-the-ultimate-ontological-presuppositions-of-monism",
-          "line_start": 1521,
-          "line_end": 1530,
+          "line_start": 1523,
+          "line_end": 1532,
           "words": 742
         },
         {
@@ -14859,8 +14859,8 @@
             "§ 28\\. The abstractness of the essence of manifestation within monism's ontological presuppositions, and the problem of constructing a phenomenology of the ground"
           ],
           "anchor": "the-abstractness-of-the-essence-of-manifestation-within-monisms-ontological-presuppositions-and-the-problem-of-constructing-a-phenomenology-of-the-ground",
-          "line_start": 1531,
-          "line_end": 1550,
+          "line_start": 1533,
+          "line_end": 1552,
           "words": 2042
         },
         {
@@ -14872,8 +14872,8 @@
             "§ 29\\. Exhibiting the ontological motive behind the problematic's inability to construct a phenomenology of the ground and to give content to the idea of the formal structure of autonomy"
           ],
           "anchor": "exhibiting-the-ontological-motive-behind-the-problematics-inability-to-construct-a-phenomenology-of-the-ground-and-to-give-content-to-the-idea-of-the-formal-structure-of-autonomy",
-          "line_start": 1551,
-          "line_end": 1572,
+          "line_start": 1553,
+          "line_end": 1574,
           "words": 2255
         },
         {
@@ -14885,8 +14885,8 @@
             "§ 30\\. The ontological determination of the original essence of revelation as immanence. Immanent content and transcendent content"
           ],
           "anchor": "the-ontological-determination-of-the-original-essence-of-revelation-as-immanence-immanent-content-and-transcendent-content",
-          "line_start": 1573,
-          "line_end": 1600,
+          "line_start": 1575,
+          "line_end": 1602,
           "words": 2357
         },
         {
@@ -14898,8 +14898,8 @@
             "§ 31\\. The fundamental ambiguity in the concept of auto-affection. Auto-affection and affection by itself"
           ],
           "anchor": "the-fundamental-ambiguity-in-the-concept-of-auto-affection-auto-affection-and-affection-by-itself",
-          "line_start": 1601,
-          "line_end": 1636,
+          "line_start": 1603,
+          "line_end": 1638,
           "words": 4111
         },
         {
@@ -14911,8 +14911,8 @@
             "§ 32\\. Immanence and transcendence"
           ],
           "anchor": "immanence-and-transcendence",
-          "line_start": 1637,
-          "line_end": 1650,
+          "line_start": 1639,
+          "line_end": 1652,
           "words": 1851
         },
         {
@@ -14924,8 +14924,8 @@
             "§ 33\\. The ontological interpretation of the essence of transcendence as immanence and the internal possibility of surpassing"
           ],
           "anchor": "the-ontological-interpretation-of-the-essence-of-transcendence-as-immanence-and-the-internal-possibility-of-surpassing",
-          "line_start": 1651,
-          "line_end": 1674,
+          "line_start": 1653,
+          "line_end": 1676,
           "words": 2687
         },
         {
@@ -14937,8 +14937,8 @@
             "§ 34\\. Consciousness of the world and consciousness without world"
           ],
           "anchor": "consciousness-of-the-world-and-consciousness-without-world",
-          "line_start": 1675,
-          "line_end": 1688,
+          "line_start": 1677,
+          "line_end": 1690,
           "words": 1651
         },
         {
@@ -14950,8 +14950,8 @@
             "§ 35\\. The coherence of the internal structure of the essence"
           ],
           "anchor": "the-coherence-of-the-internal-structure-of-the-essence",
-          "line_start": 1689,
-          "line_end": 1702,
+          "line_start": 1691,
+          "line_end": 1704,
           "words": 1848
         },
         {
@@ -14963,8 +14963,8 @@
             "§ 36\\. The essential ontological signification of the concept of immanence: the immediate"
           ],
           "anchor": "the-essential-ontological-signification-of-the-concept-of-immanence-the-immediate",
-          "line_start": 1703,
-          "line_end": 1724,
+          "line_start": 1705,
+          "line_end": 1726,
           "words": 2179
         },
         {
@@ -14975,8 +14975,8 @@
             "Section III. The internal structure of immanence and the problem of its phenomenological determination: the invisible"
           ],
           "anchor": "section-iii-the-internal-structure-of-immanence-and-the-problem-of-its-phenomenological-determination-the-invisible",
-          "line_start": 1725,
-          "line_end": 1726,
+          "line_start": 1727,
+          "line_end": 1728,
           "words": 0
         },
         {
@@ -14988,8 +14988,8 @@
             "§ 37\\. The internal structure of immanence"
           ],
           "anchor": "the-internal-structure-of-immanence",
-          "line_start": 1727,
-          "line_end": 1895,
+          "line_start": 1729,
+          "line_end": 1897,
           "words": 12163
         },
         {
@@ -15001,8 +15001,8 @@
             "§ 38\\. The internal structure of immanence and the problem of its understanding as revelation: Fichte"
           ],
           "anchor": "the-internal-structure-of-immanence-and-the-problem-of-its-understanding-as-revelation-fichte",
-          "line_start": 1896,
-          "line_end": 1995,
+          "line_start": 1898,
+          "line_end": 1997,
           "words": 6618
         },
         {
@@ -15014,8 +15014,8 @@
             "§ 39\\. Eckhart"
           ],
           "anchor": "eckhart",
-          "line_start": 1996,
-          "line_end": 2105,
+          "line_start": 1998,
+          "line_end": 2107,
           "words": 10151
         },
         {
@@ -15027,8 +15027,8 @@
             "§ 40\\. The fundamental ontological presupposition of Eckhart's thought and the originary essence of the logos"
           ],
           "anchor": "the-fundamental-ontological-presupposition-of-eckharts-thought-and-the-originary-essence-of-the-logos",
-          "line_start": 2106,
-          "line_end": 2191,
+          "line_start": 2108,
+          "line_end": 2193,
           "words": 6540
         },
         {
@@ -15040,8 +15040,8 @@
             "§ 41\\. Immanence and absolute situation"
           ],
           "anchor": "immanence-and-absolute-situation",
-          "line_start": 2192,
-          "line_end": 2284,
+          "line_start": 2194,
+          "line_end": 2286,
           "words": 6813
         },
         {
@@ -15053,8 +15053,8 @@
             "§ 42\\. The ontological determination of the essence of situation as immanence and the fundamental ambiguity of \"Nichtigkeit\""
           ],
           "anchor": "the-ontological-determination-of-the-essence-of-situation-as-immanence-and-the-fundamental-ambiguity-of-nichtigkeit",
-          "line_start": 2285,
-          "line_end": 2389,
+          "line_start": 2287,
+          "line_end": 2391,
           "words": 7153
         },
         {
@@ -15066,8 +15066,8 @@
             "§ 43\\. Situation and temporality. The ontological heterogeneity of their originary structures and its interpretation in the philosophy of transcendence: the idea of contingency and the fall of Dasein"
           ],
           "anchor": "situation-and-temporality-the-ontological-heterogeneity-of-their-originary-structures-and-its-interpretation-in-the-philosophy-of-transcendence-the-idea-of-contingency-and-the-fall-of-dasein",
-          "line_start": 2390,
-          "line_end": 2468,
+          "line_start": 2392,
+          "line_end": 2470,
           "words": 7194
         },
         {
@@ -15079,8 +15079,8 @@
             "§ 44\\. The concept of situation in existentialism. The failure of ontology and realism: \"nature and freedom\""
           ],
           "anchor": "the-concept-of-situation-in-existentialism-the-failure-of-ontology-and-realism-nature-and-freedom",
-          "line_start": 2469,
-          "line_end": 2500,
+          "line_start": 2471,
+          "line_end": 2502,
           "words": 3229
         },
         {
@@ -15092,8 +15092,8 @@
             "§ 45\\. The dissimulation of the originary essence of revelation and its forgetting"
           ],
           "anchor": "the-dissimulation-of-the-originary-essence-of-revelation-and-its-forgetting",
-          "line_start": 2501,
-          "line_end": 2584,
+          "line_start": 2503,
+          "line_end": 2586,
           "words": 12104
         },
         {
@@ -15105,8 +15105,8 @@
             "§ 46\\. The critique of knowledge. The essence of religion"
           ],
           "anchor": "the-critique-of-knowledge-the-essence-of-religion",
-          "line_start": 2585,
-          "line_end": 2632,
+          "line_start": 2587,
+          "line_end": 2634,
           "words": 6539
         },
         {
@@ -15118,8 +15118,8 @@
             "§ 47\\. The critique of knowledge within rationalism"
           ],
           "anchor": "the-critique-of-knowledge-within-rationalism",
-          "line_start": 2633,
-          "line_end": 2672,
+          "line_start": 2635,
+          "line_end": 2674,
           "words": 4765
         },
         {
@@ -15131,8 +15131,8 @@
             "§ 48\\. The ontological signification of the critique of rationalism"
           ],
           "anchor": "the-ontological-signification-of-the-critique-of-rationalism",
-          "line_start": 2673,
-          "line_end": 2704,
+          "line_start": 2675,
+          "line_end": 2706,
           "words": 4023
         },
         {
@@ -15144,8 +15144,8 @@
             "§ 49\\. Ontological signification of the critique of knowledge in Eckhart"
           ],
           "anchor": "ontological-signification-of-the-critique-of-knowledge-in-eckhart",
-          "line_start": 2705,
-          "line_end": 2776,
+          "line_start": 2707,
+          "line_end": 2778,
           "words": 11483
         },
         {
@@ -15157,8 +15157,8 @@
             "§ 50\\. The non-face of the essence"
           ],
           "anchor": "the-non-face-of-the-essence",
-          "line_start": 2777,
-          "line_end": 2814,
+          "line_start": 2779,
+          "line_end": 2816,
           "words": 4899
         },
         {
@@ -15170,8 +15170,8 @@
             "§ 51\\. Visible and invisible"
           ],
           "anchor": "visible-and-invisible",
-          "line_start": 2815,
-          "line_end": 2872,
+          "line_start": 2817,
+          "line_end": 2874,
           "words": 9097
         },
         {
@@ -15183,8 +15183,8 @@
             ""
           ],
           "anchor": "section",
-          "line_start": 2873,
-          "line_end": 2874,
+          "line_start": 2875,
+          "line_end": 2876,
           "words": 0
         },
         {
@@ -15195,8 +15195,8 @@
             "Section IV. Fundamental ontological interpretation of the original essence of revelation as affectivity"
           ],
           "anchor": "section-iv-fundamental-ontological-interpretation-of-the-original-essence-of-revelation-as-affectivity",
-          "line_start": 2875,
-          "line_end": 2876,
+          "line_start": 2877,
+          "line_end": 2878,
           "words": 0
         },
         {
@@ -15208,8 +15208,8 @@
             "§ 52 — Fundamental ontological interpretation of the original essence of revelation as affectivity: affectivity and ipseity"
           ],
           "anchor": "fundamental-ontological-interpretation-of-the-original-essence-of-revelation-as-affectivity-affectivity-and-ipseity",
-          "line_start": 2877,
-          "line_end": 2906,
+          "line_start": 2879,
+          "line_end": 2908,
           "words": 3026
         },
         {
@@ -15221,8 +15221,8 @@
             "§ 53 — Affectivity as original ontological passivity and the effectivity of its essence in \"suffering\""
           ],
           "anchor": "affectivity-as-original-ontological-passivity-and-the-effectivity-of-its-essence-in-suffering",
-          "line_start": 2907,
-          "line_end": 2938,
+          "line_start": 2909,
+          "line_end": 2940,
           "words": 4098
         },
         {
@@ -15234,8 +15234,8 @@
             "§ 54 — Ontological interpretation of affectivity as the foundation of affection: the problem of \"intentional affectivity\""
           ],
           "anchor": "ontological-interpretation-of-affectivity-as-the-foundation-of-affection-the-problem-of-intentional-affectivity",
-          "line_start": 2939,
-          "line_end": 2968,
+          "line_start": 2941,
+          "line_end": 2970,
           "words": 3384
         },
         {
@@ -15247,8 +15247,8 @@
             "§ 55 — Ontological determination of affection by affectivity"
           ],
           "anchor": "ontological-determination-of-affection-by-affectivity",
-          "line_start": 2969,
-          "line_end": 2994,
+          "line_start": 2971,
+          "line_end": 2996,
           "words": 3541
         },
         {
@@ -15260,8 +15260,8 @@
             "§ 56 — Affectivity and sensations"
           ],
           "anchor": "affectivity-and-sensations",
-          "line_start": 2995,
-          "line_end": 3020,
+          "line_start": 2997,
+          "line_end": 3022,
           "words": 2658
         },
         {
@@ -15273,8 +15273,8 @@
             "§ 57 — Affectivity as the universal form of all possible experience in general and as the form of that form. The pure concept of affectivity"
           ],
           "anchor": "affectivity-as-the-universal-form-of-all-possible-experience-in-general-and-as-the-form-of-that-form-the-pure-concept-of-affectivity",
-          "line_start": 3021,
-          "line_end": 3063,
+          "line_start": 3023,
+          "line_end": 3065,
           "words": 5089
         }
       ]
@@ -41957,9 +41957,9 @@
       "author": "husserl",
       "title": "Husserl Die Lebenswelt Commentary",
       "wordpress_id": "196",
-      "sha256": "d62704cb5caf45b6bdf8945916547e1f1c889ace9b84a84347f16fce9c32a105",
-      "lines": 1461,
-      "words": 41733,
+      "sha256": "6b1e894a20852eb6bab8717705a8643df666eb07892dc46e152d195ae0107d0b",
+      "lines": 1463,
+      "words": 41805,
       "url": "https://faultynode.github.io/commentaries/commentaries/husserl/husserliana-39-die-lebenswelt-commentary.html",
       "sections": [
         {
@@ -41984,8 +41984,8 @@
           ],
           "anchor": "paragraph-by-paragraph-commentary",
           "line_start": 9,
-          "line_end": 12,
-          "words": 1
+          "line_end": 14,
+          "words": 73
         },
         {
           "id": "h2-i-the-pre-givenness-of-the-world-and-pre-given-world-components-die-vorgegebenhe",
@@ -41996,8 +41996,8 @@
             "I. The Pre-Givenness of the World and Pre-Given World-Components (Die Vorgegebenheit der Welt und vorgegebener Weltbestände)"
           ],
           "anchor": "i-the-pre-givenness-of-the-world-and-pre-given-world-components-die-vorgegebenheit-der-welt-und-vorgegebener-weltbestande",
-          "line_start": 13,
-          "line_end": 16,
+          "line_start": 15,
+          "line_end": 18,
           "words": 1
         },
         {
@@ -42010,8 +42010,8 @@
             "Text Nr. 1. Primal Institution of the Sense of Being of Pre-Given Individual Beings and of the Pre-Given Existing World (Urstiftung des Seinssinnes von vorgegebenem Einzelseienden und von vorgegebener seiender Welt)"
           ],
           "anchor": "text-nr-1-primal-institution-of-the-sense-of-being-of-pre-given-individual-beings-and-of-the-pre-given-existing-world-urstiftung-des-seinssinnes-von-vorgegebenem-einzelseienden-und-von-vorgegebener-seiender-welt",
-          "line_start": 17,
-          "line_end": 72,
+          "line_start": 19,
+          "line_end": 74,
           "words": 2668
         },
         {
@@ -42024,8 +42024,8 @@
             "Text Nr. 2. Background and Pre-Givenness. Differences of Pre-Givenness. Prominence and the Pregnant Concept of Pre-Givenness. The Constitutive Function of Apperceptions (Hintergrund und Vorgegebenheit. Unterschiede der Vorgegebenheit. Abgehobenheit und prägnanter Begriff von Vorgegebenheit. Die konstitutive Funktion der Apperzeptionen)"
           ],
           "anchor": "text-nr-2-background-and-pre-givenness-differences-of-pre-givenness-prominence-and-the-pregnant-concept-of-pre-givenness-the-constitutive-function-of-apperceptions-hintergrund-und-vorgegebenheit-unterschiede-der-vorgegebenheit-abgehobenheit-und-pragnanter-begriff-von-vorgegebenheit-die-konstitutive-funktion-der-apperzeptionen",
-          "line_start": 73,
-          "line_end": 132,
+          "line_start": 75,
+          "line_end": 134,
           "words": 2613
         },
         {
@@ -42038,8 +42038,8 @@
             "Supplement I. Background — Pre-Given Objectuality. End-Object and Transitional Unities (Hintergrund – vorgegebene Gegenständlichkeit. Endgegenstand und Durchgangseinheiten)"
           ],
           "anchor": "supplement-i-background--pre-given-objectuality-end-object-and-transitional-unities-hintergrund--vorgegebene-gegenstandlichkeit-endgegenstand-und-durchgangseinheiten",
-          "line_start": 133,
-          "line_end": 174,
+          "line_start": 135,
+          "line_end": 176,
           "words": 1588
         },
         {
@@ -42052,8 +42052,8 @@
             "Text Nr. 3. The World Pre-Given from Original Acquisition — Not So Consciousness, the Realm of Immanence (Die Welt vorgegeben aus ursprünglicher Erwerbung – nicht so das Bewusstsein, das Reich der Immanenz)"
           ],
           "anchor": "text-nr-3-the-world-pre-given-from-original-acquisition--not-so-consciousness-the-realm-of-immanence-die-welt-vorgegeben-aus-ursprunglicher-erwerbung--nicht-so-das-bewusstsein-das-reich-der-immanenz",
-          "line_start": 175,
-          "line_end": 208,
+          "line_start": 177,
+          "line_end": 210,
           "words": 1546
         },
         {
@@ -42066,8 +42066,8 @@
             "Supplement II. Pre-Givenness and Affectivity. The Constant Pre-Givenness of the World, the Anonymity of the Constituting Subjective (Vorgegebenheit und Affektivität. Die beständige Vorgegebenheit der Welt, die Anonymität des konstituierenden Subjektiven)"
           ],
           "anchor": "supplement-ii-pre-givenness-and-affectivity-the-constant-pre-givenness-of-the-world-the-anonymity-of-the-constituting-subjective-vorgegebenheit-und-affektivitat-die-bestandige-vorgegebenheit-der-welt-die-anonymitat-des-konstituierenden-subjektiven",
-          "line_start": 209,
-          "line_end": 232,
+          "line_start": 211,
+          "line_end": 234,
           "words": 1054
         },
         {
@@ -42080,8 +42080,8 @@
             "Text Nr. 4. The Pre-Given World. General Aspects of Its Static and Genetic Structure (Die vorgegebene Welt. Allgemeine Aspekte ihres statischen und genetischen Aufbaus)"
           ],
           "anchor": "text-nr-4-the-pre-given-world-general-aspects-of-its-static-and-genetic-structure-die-vorgegebene-welt-allgemeine-aspekte-ihres-statischen-und-genetischen-aufbaus",
-          "line_start": 233,
-          "line_end": 236,
+          "line_start": 235,
+          "line_end": 238,
           "words": 7
         },
         {
@@ -42095,8 +42095,8 @@
             "§ 1. The Field of Effectively Conscious Objects and the Ineffective Horizon of the Unconscious (Das Feld effektiv bewusster Objekte und der ineffektive Horizont des Unbewussten)"
           ],
           "anchor": "the-field-of-effectively-conscious-objects-and-the-ineffective-horizon-of-the-unconscious-das-feld-effektiv-bewusster-objekte-und-der-ineffektive-horizont-des-unbewussten",
-          "line_start": 237,
-          "line_end": 264,
+          "line_start": 239,
+          "line_end": 266,
           "words": 1607
         },
         {
@@ -42110,8 +42110,8 @@
             "§ 2. The World Pre-Given as Cultural World Pointing Back to Nature (Die als Kulturwelt vorgegebene Welt zurückweisend auf Natur)"
           ],
           "anchor": "the-world-pre-given-as-cultural-world-pointing-back-to-nature-die-als-kulturwelt-vorgegebene-welt-zuruckweisend-auf-natur",
-          "line_start": 265,
-          "line_end": 282,
+          "line_start": 267,
+          "line_end": 284,
           "words": 867
         },
         {
@@ -42124,8 +42124,8 @@
             "Supplement III. The Separation of Passive and Active Intellect Together with the Deepened Distinction between \"Sensuous\" Objectuality and Categorial. The Constitution of Objects in the Pregnant Sense (and Thus of a World of Pre-Given Objects) in Acts of Activity (Die Scheidung von passivem und aktivem Intellekt in eins mit der vertieften Unterscheidung zwischen „sinnlicher\" Gegenständlichkeit und kategorialer. Die Konstitution von Gegenständen im prägnanten Sinn (und somit einer Welt vorgegebener Gegenstände) in Akten der Aktivität)"
           ],
           "anchor": "supplement-iii-the-separation-of-passive-and-active-intellect-together-with-the-deepened-distinction-between-sensuous-objectuality-and-categorial-the-constitution-of-objects-in-the-pregnant-sense-and-thus-of-a-world-of-pre-given-objects-in-acts-of-activity-die-scheidung-von-passivem-und-aktivem-intellekt-in-eins-mit-der-vertieften-unterscheidung-zwischen-sinnlicher-gegenstandlichkeit-und-kategorialer-die-konstitution-von-gegenstanden-im-pragnanten-sinn-und-somit-einer-welt-vorgegebener-gegenstande-in-akten-der-aktivitat",
-          "line_start": 283,
-          "line_end": 302,
+          "line_start": 285,
+          "line_end": 304,
           "words": 767
         },
         {
@@ -42138,8 +42138,8 @@
             "Supplement IV. Pre-Givenness of Sensuous and Synthetic (Categorial) Objectualities (Vorgegebenheit sinnlicher und synthetischer (kategorialer) Gegenständlichkeiten)"
           ],
           "anchor": "supplement-iv-pre-givenness-of-sensuous-and-synthetic-categorial-objectualities-vorgegebenheit-sinnlicher-und-synthetischer-kategorialer-gegenstandlichkeiten",
-          "line_start": 303,
-          "line_end": 318,
+          "line_start": 305,
+          "line_end": 320,
           "words": 433
         },
         {
@@ -42152,8 +42152,8 @@
             "Text Nr. 5. The Pure Experiential World, the Perceivable in the Widest Sense. Pre-Given. Co-Pre-Given Therein: Worldly Subjectivity (Reine Erfahrungswelt, die wahrnehmbare im weitesten Sinn. Vorgegeben. Darin mitvorgegeben: die weltliche Subjektivität)"
           ],
           "anchor": "text-nr-5-the-pure-experiential-world-the-perceivable-in-the-widest-sense-pre-given-co-pre-given-therein-worldly-subjectivity-reine-erfahrungswelt-die-wahrnehmbare-im-weitesten-sinn-vorgegeben-darin-mitvorgegeben-die-weltliche-subjektivitat",
-          "line_start": 319,
-          "line_end": 364,
+          "line_start": 321,
+          "line_end": 366,
           "words": 2002
         },
         {
@@ -42166,8 +42166,8 @@
             "Text Nr. 6. Universe of Pre-Givenness and World. Constitution of the Universe of Pre-Givenness through Habituality (Universum der Vorgegebenheit und Welt. Konstitution des Universums der Vorgegebenheit durch Habitualität)"
           ],
           "anchor": "text-nr-6-universe-of-pre-givenness-and-world-constitution-of-the-universe-of-pre-givenness-through-habituality-universum-der-vorgegebenheit-und-welt-konstitution-des-universums-der-vorgegebenheit-durch-habitualitat",
-          "line_start": 365,
-          "line_end": 394,
+          "line_start": 367,
+          "line_end": 396,
           "words": 1495
         },
         {
@@ -42180,8 +42180,8 @@
             "Text Nr. 7. Primal Historicity of the Pre-Given World. First and Second Horizontality: Horizon as Familiar Pre-Givenness Style and as Open Horizon of Possible New Pre-Givenness Styles. Relativity of All Familiar Pre-Givenness Styles (Urhistorizität der vorgegebenen Welt. Erste und zweite Horizontalität)"
           ],
           "anchor": "text-nr-7-primal-historicity-of-the-pre-given-world-first-and-second-horizontality-horizon-as-familiar-pre-givenness-style-and-as-open-horizon-of-possible-new-pre-givenness-styles-relativity-of-all-familiar-pre-givenness-styles-urhistorizitat-der-vorgegebenen-welt-erste-und-zweite-horizontalitat",
-          "line_start": 395,
-          "line_end": 424,
+          "line_start": 397,
+          "line_end": 426,
           "words": 1301
         },
         {
@@ -42194,8 +42194,8 @@
             "Text Nr. 8. The Life-World Pre-Given in Familiar Individual and Species Types (Die in vertrauten Individual- und Arttypen vorgegebene Lebenswelt)"
           ],
           "anchor": "text-nr-8-the-life-world-pre-given-in-familiar-individual-and-species-types-die-in-vertrauten-individual--und-arttypen-vorgegebene-lebenswelt",
-          "line_start": 425,
-          "line_end": 458,
+          "line_start": 427,
+          "line_end": 460,
           "words": 1317
         },
         {
@@ -42207,8 +42207,8 @@
             "II. The Horizon-Structure of World-Experience and of the Experience of Realities in the World (Die Horizontstruktur der Welterfahrung und der Erfahrung von Realem in der Welt)"
           ],
           "anchor": "ii-the-horizon-structure-of-world-experience-and-of-the-experience-of-realities-in-the-world-die-horizontstruktur-der-welterfahrung-und-der-erfahrung-von-realem-in-der-welt",
-          "line_start": 459,
-          "line_end": 462,
+          "line_start": 461,
+          "line_end": 464,
           "words": 1
         },
         {
@@ -42221,8 +42221,8 @@
             "Text Nr. 9. Explication of the Logical Ideas \"Reality of the World\" and \"World Itself.\" World as Experiential Horizon and World as Logical Idea. Logical Horizon and World-Concept. Total Concept of the Real and Total Concept of the World (Auslegung der logischen Ideen „Reales der Welt\" und „Welt selbst\")"
           ],
           "anchor": "text-nr-9-explication-of-the-logical-ideas-reality-of-the-world-and-world-itself-world-as-experiential-horizon-and-world-as-logical-idea-logical-horizon-and-world-concept-total-concept-of-the-real-and-total-concept-of-the-world-auslegung-der-logischen-ideen-reales-der-welt-und-welt-selbst",
-          "line_start": 463,
-          "line_end": 484,
+          "line_start": 465,
+          "line_end": 486,
           "words": 1056
         },
         {
@@ -42235,8 +42235,8 @@
             "Supplement V. Horizon-Consciousness of the World and Thematic World-Representation. Thing-Representation versus World-Representation: World-Experience and World-Certainty (Horizontbewusstsein von der Welt und thematische Weltvorstellung)"
           ],
           "anchor": "supplement-v-horizon-consciousness-of-the-world-and-thematic-world-representation-thing-representation-versus-world-representation-world-experience-and-world-certainty-horizontbewusstsein-von-der-welt-und-thematische-weltvorstellung",
-          "line_start": 485,
-          "line_end": 504,
+          "line_start": 487,
+          "line_end": 506,
           "words": 969
         },
         {
@@ -42249,8 +42249,8 @@
             "Supplement VI. Experience as Method of Individual-Thingly Cognizance. World-Experience — Individual Experience. World-Consciousness as Horizon versus \"World-Experience\" (Erfahrung als Methode einzeldinglicher Kenntnisnahme)"
           ],
           "anchor": "supplement-vi-experience-as-method-of-individual-thingly-cognizance-world-experience--individual-experience-world-consciousness-as-horizon-versus-world-experience-erfahrung-als-methode-einzeldinglicher-kenntnisnahme",
-          "line_start": 505,
-          "line_end": 516,
+          "line_start": 507,
+          "line_end": 518,
           "words": 362
         },
         {
@@ -42263,8 +42263,8 @@
             "Text Nr. 10. The Streaming, Self-Maintaining-through-Modalizations World-Consciousness with Its Empathy-Horizon and Its Time-Horizons (Das strömende, sich durch Modalisierungen in Einstimmigkeit erhaltende Weltbewusstsein mit seinem Einfühlungshorizont und seinen Zeithorizonten)"
           ],
           "anchor": "text-nr-10-the-streaming-self-maintaining-through-modalizations-world-consciousness-with-its-empathy-horizon-and-its-time-horizons-das-stromende-sich-durch-modalisierungen-in-einstimmigkeit-erhaltende-weltbewusstsein-mit-seinem-einfuhlungshorizont-und-seinen-zeithorizonten",
-          "line_start": 517,
-          "line_end": 520,
+          "line_start": 519,
+          "line_end": 522,
           "words": 2
         },
         {
@@ -42278,8 +42278,8 @@
             "§ 1. The Reduction to the World Purely as World of Experience"
           ],
           "anchor": "the-reduction-to-the-world-purely-as-world-of-experience",
-          "line_start": 521,
-          "line_end": 528,
+          "line_start": 523,
+          "line_end": 530,
           "words": 346
         },
         {
@@ -42293,8 +42293,8 @@
             "§ 2. The Streaming World-Perception and Its Empathy-Horizon"
           ],
           "anchor": "the-streaming-world-perception-and-its-empathy-horizon",
-          "line_start": 529,
-          "line_end": 534,
+          "line_start": 531,
+          "line_end": 536,
           "words": 235
         },
         {
@@ -42308,8 +42308,8 @@
             "§ 3. Modalizations of Recollection and Empathy"
           ],
           "anchor": "modalizations-of-recollection-and-empathy",
-          "line_start": 535,
-          "line_end": 540,
+          "line_start": 537,
+          "line_end": 542,
           "words": 172
         },
         {
@@ -42323,8 +42323,8 @@
             "§ 4. The Empathy-Horizon as Validity-Horizon"
           ],
           "anchor": "the-empathy-horizon-as-validity-horizon",
-          "line_start": 541,
-          "line_end": 548,
+          "line_start": 543,
+          "line_end": 550,
           "words": 243
         },
         {
@@ -42337,8 +42337,8 @@
             "Supplement VII. A Fundamental Piece of the Theory of the Horizon-Structure of World-Experience: Intuitive Core-Sphere and Outer Horizon with Its Standing-Streaming Near-Far Structure (Ein Grundstück der Lehre von der Horizontstruktur der Welterfahrung)"
           ],
           "anchor": "supplement-vii-a-fundamental-piece-of-the-theory-of-the-horizon-structure-of-world-experience-intuitive-core-sphere-and-outer-horizon-with-its-standing-streaming-near-far-structure-ein-grundstuck-der-lehre-von-der-horizontstruktur-der-welterfahrung",
-          "line_start": 549,
-          "line_end": 558,
+          "line_start": 551,
+          "line_end": 560,
           "words": 276
         },
         {
@@ -42351,8 +42351,8 @@
             "Text Nr. 11. Pre-Givenness and Horizon. Horizon-Pre-Givenness of Pre-Given Realities. Various Modes of Foreground and Background. Milieu of the Unconscious. Inner Horizon and Outer Horizon (Vorgegebenheit und Horizont)"
           ],
           "anchor": "text-nr-11-pre-givenness-and-horizon-horizon-pre-givenness-of-pre-given-realities-various-modes-of-foreground-and-background-milieu-of-the-unconscious-inner-horizon-and-outer-horizon-vorgegebenheit-und-horizont",
-          "line_start": 559,
-          "line_end": 574,
+          "line_start": 561,
+          "line_end": 576,
           "words": 376
         },
         {
@@ -42365,8 +42365,8 @@
             "Text Nr. 12. Experience of Realities. Systematics for the Disclosure of Horizons: The Structure of the Total \"Memory\"-Horizon (Erfahrung von Realem. Systematisches zur Erschließung der Horizonte)"
           ],
           "anchor": "text-nr-12-experience-of-realities-systematics-for-the-disclosure-of-horizons-the-structure-of-the-total-memory-horizon-erfahrung-von-realem-systematisches-zur-erschlieung-der-horizonte",
-          "line_start": 575,
-          "line_end": 578,
+          "line_start": 577,
+          "line_end": 580,
           "words": 2
         },
         {
@@ -42380,8 +42380,8 @@
             "§ 1. Thing-Experience as Concordant Substrate-Experience. \"Smooth Identification\" and First Identity of the Substrate"
           ],
           "anchor": "thing-experience-as-concordant-substrate-experience-smooth-identification-and-first-identity-of-the-substrate",
-          "line_start": 579,
-          "line_end": 584,
+          "line_start": 581,
+          "line_end": 586,
           "words": 230
         },
         {
@@ -42395,8 +42395,8 @@
             "§ 2. The Multi-Dimensional Horizon-Structure of Thing-Experience"
           ],
           "anchor": "the-multi-dimensional-horizon-structure-of-thing-experience",
-          "line_start": 585,
-          "line_end": 594,
+          "line_start": 587,
+          "line_end": 596,
           "words": 335
         },
         {
@@ -42409,8 +42409,8 @@
             "Text Nr. 13. The Spatiotemporal Total-Horizon of the World and Its Invariant Form (Der raumzeitliche Totalhorizont der Welt und seine invariante Form)"
           ],
           "anchor": "text-nr-13-the-spatiotemporal-total-horizon-of-the-world-and-its-invariant-form-der-raumzeitliche-totalhorizont-der-welt-und-seine-invariante-form",
-          "line_start": 595,
-          "line_end": 606,
+          "line_start": 597,
+          "line_end": 608,
           "words": 263
         },
         {
@@ -42423,8 +42423,8 @@
             "Supplement VIII. Systematically Explicating the Constitution of the Pre-Given World — That Is Systematically Explicating Its Horizon-Structure. The Intertwining of Horizons. Important Points on the Theory of Horizons (Die Konstitution der vorgegebenen Welt systematisch auslegen)"
           ],
           "anchor": "supplement-viii-systematically-explicating-the-constitution-of-the-pre-given-world--that-is-systematically-explicating-its-horizon-structure-the-intertwining-of-horizons-important-points-on-the-theory-of-horizons-die-konstitution-der-vorgegebenen-welt-systematisch-auslegen",
-          "line_start": 607,
-          "line_end": 618,
+          "line_start": 609,
+          "line_end": 620,
           "words": 230
         },
         {
@@ -42437,8 +42437,8 @@
             "Text Nr. 14. Universal World-Consciousness as World-Perception. The Universal Synthesis of Horizons Implicated in World-Appearing. The Worldlicizing Apperception of All Appearing and the Worldlicizing Horizon of Possible Reflection (Das universale Weltbewusstsein als Weltwahrnehmung)"
           ],
           "anchor": "text-nr-14-universal-world-consciousness-as-world-perception-the-universal-synthesis-of-horizons-implicated-in-world-appearing-the-worldlicizing-apperception-of-all-appearing-and-the-worldlicizing-horizon-of-possible-reflection-das-universale-weltbewusstsein-als-weltwahrnehmung",
-          "line_start": 619,
-          "line_end": 630,
+          "line_start": 621,
+          "line_end": 632,
           "words": 280
         },
         {
@@ -42451,8 +42451,8 @@
             "Text Nr. 15. Horizon-Meaning and Original Induction. The World-Horizon as Structured Empty Horizon (Horizontmeinung und ursprüngliche Induktion. Der Welthorizont als strukturierter Leerhorizont)"
           ],
           "anchor": "text-nr-15-horizon-meaning-and-original-induction-the-world-horizon-as-structured-empty-horizon-horizontmeinung-und-ursprungliche-induktion-der-welthorizont-als-strukturierter-leerhorizont",
-          "line_start": 631,
-          "line_end": 642,
+          "line_start": 633,
+          "line_end": 644,
           "words": 335
         },
         {
@@ -42465,8 +42465,8 @@
             "Supplement IX. Appresentation and Presentation with Regard to Individual Things and with Regard to the Whole World. World Constituted in Empty Intentions (Appräsentation und Präsentation)"
           ],
           "anchor": "supplement-ix-appresentation-and-presentation-with-regard-to-individual-things-and-with-regard-to-the-whole-world-world-constituted-in-empty-intentions-apprasentation-und-prasentation",
-          "line_start": 643,
-          "line_end": 656,
+          "line_start": 645,
+          "line_end": 658,
           "words": 218
         },
         {
@@ -42478,8 +42478,8 @@
             "III. Orientation-Structures of the Life-World and the Fundamental Structures of Life-Worldly Situativity (Orientierungsstrukturen der Lebenswelt und die Grundstrukturen lebensweltlicher Situativität)"
           ],
           "anchor": "iii-orientation-structures-of-the-life-world-and-the-fundamental-structures-of-life-worldly-situativity-orientierungsstrukturen-der-lebenswelt-und-die-grundstrukturen-lebensweltlicher-situativitat",
-          "line_start": 657,
-          "line_end": 660,
+          "line_start": 659,
+          "line_end": 662,
           "words": 1
         },
         {
@@ -42492,8 +42492,8 @@
             "Text Nr. 16. Orientation and Access-Praxis. A Universal System of Possible Spatial and Temporal Orientations as Presupposition of Intersubjective Praxis and an Intersubjective Surrounding World (Orientierung und Zugangspraxis)"
           ],
           "anchor": "text-nr-16-orientation-and-access-praxis-a-universal-system-of-possible-spatial-and-temporal-orientations-as-presupposition-of-intersubjective-praxis-and-an-intersubjective-surrounding-world-orientierung-und-zugangspraxis",
-          "line_start": 661,
-          "line_end": 676,
+          "line_start": 663,
+          "line_end": 678,
           "words": 469
         },
         {
@@ -42506,8 +42506,8 @@
             "Supplement X. The Oriented Surrounding World. \"Oriented\" Space, i.e. Perceptual Surrounding World, World in General (Die orientierte Umwelt)"
           ],
           "anchor": "supplement-x-the-oriented-surrounding-world-oriented-space-ie-perceptual-surrounding-world-world-in-general-die-orientierte-umwelt",
-          "line_start": 677,
-          "line_end": 684,
+          "line_start": 679,
+          "line_end": 686,
           "words": 132
         },
         {
@@ -42520,8 +42520,8 @@
             "Supplement XI. Sequence of Levels of Surrounding Worlds or Homeworlds. Homeworld and Territory (Stufenfolge der Umwelten oder Heimwelten)"
           ],
           "anchor": "supplement-xi-sequence-of-levels-of-surrounding-worlds-or-homeworlds-homeworld-and-territory-stufenfolge-der-umwelten-oder-heimwelten",
-          "line_start": 685,
-          "line_end": 696,
+          "line_start": 687,
+          "line_end": 698,
           "words": 297
         },
         {
@@ -42534,8 +42534,8 @@
             "Text Nr. 17. On the Orientedness of Understanding: Homeworld and Foreign World. Understanding of Strangers and of Foreign Homeworlds. Religion and Science as Universal World-Intentions. The Foreign-Mythical. Objection of the Relativity of Scientific World-Interpretation. Intersubjective Critique as Path to Universal World-Cognition. Descriptive Science (Zur Orientiertheit des Verstehens: Heimwelt und Fremdwelt)"
           ],
           "anchor": "text-nr-17-on-the-orientedness-of-understanding-homeworld-and-foreign-world-understanding-of-strangers-and-of-foreign-homeworlds-religion-and-science-as-universal-world-intentions-the-foreign-mythical-objection-of-the-relativity-of-scientific-world-interpretation-intersubjective-critique-as-path-to-universal-world-cognition-descriptive-science-zur-orientiertheit-des-verstehens-heimwelt-und-fremdwelt",
-          "line_start": 697,
-          "line_end": 700,
+          "line_start": 699,
+          "line_end": 702,
           "words": 2
         },
         {
@@ -42549,8 +42549,8 @@
             "§ 1. The Human Being as Theme. Comportment of the Human Being. Human in the Cultural Surrounding World"
           ],
           "anchor": "the-human-being-as-theme-comportment-of-the-human-being-human-in-the-cultural-surrounding-world",
-          "line_start": 701,
-          "line_end": 706,
+          "line_start": 703,
+          "line_end": 708,
           "words": 200
         },
         {
@@ -42564,8 +42564,8 @@
             "§ 2. Excursus: Universal Worldly Intentions: Religion and Science"
           ],
           "anchor": "excursus-universal-worldly-intentions-religion-and-science",
-          "line_start": 707,
-          "line_end": 710,
+          "line_start": 709,
+          "line_end": 712,
           "words": 107
         },
         {
@@ -42579,8 +42579,8 @@
             "§ 3. The Understandable Apperceptive Core of Foreign Life-World and the Incomprehensible Foreign. The Foreign-Mythical"
           ],
           "anchor": "the-understandable-apperceptive-core-of-foreign-life-world-and-the-incomprehensible-foreign-the-foreign-mythical",
-          "line_start": 711,
-          "line_end": 716,
+          "line_start": 713,
+          "line_end": 718,
           "words": 126
         },
         {
@@ -42594,8 +42594,8 @@
             "§ 4. Objection of Historical Relativity: All Our Interpretation Is European, Etc."
           ],
           "anchor": "objection-of-historical-relativity-all-our-interpretation-is-european-etc",
-          "line_start": 717,
-          "line_end": 722,
+          "line_start": 719,
+          "line_end": 724,
           "words": 140
         },
         {
@@ -42608,8 +42608,8 @@
             "Supplement XII. On the Plurality and Situation-Dependent Actualizability of Homeworld We-Horizons (Zur Pluralität und situationsabhängigen Aktualisierbarkeit heimweltlicher Wir-Horizonte)"
           ],
           "anchor": "supplement-xii-on-the-plurality-and-situation-dependent-actualizability-of-homeworld-we-horizons-zur-pluralitat-und-situationsabhangigen-aktualisierbarkeit-heimweltlicher-wir-horizonte",
-          "line_start": 723,
-          "line_end": 730,
+          "line_start": 725,
+          "line_end": 732,
           "words": 53
         },
         {
@@ -42622,8 +42622,8 @@
             "Text Nr. 18. Near-World — Far-World. The Disclosedness of the Nearest Surrounding World (Nahwelt – Fernwelt)"
           ],
           "anchor": "text-nr-18-near-world--far-world-the-disclosedness-of-the-nearest-surrounding-world-nahwelt--fernwelt",
-          "line_start": 731,
-          "line_end": 738,
+          "line_start": 733,
+          "line_end": 740,
           "words": 121
         },
         {
@@ -42636,8 +42636,8 @@
             "Text Nr. 19. My (Our) World-Horizon in Its Spatiotemporality. Spatiotemporal Orientation: Time-Modalities and Spatial Modalities (Mein (unser) Welthorizont in seiner Zeiträumlichkeit)"
           ],
           "anchor": "text-nr-19-my-our-world-horizon-in-its-spatiotemporality-spatiotemporal-orientation-time-modalities-and-spatial-modalities-mein-unser-welthorizont-in-seiner-zeitraumlichkeit",
-          "line_start": 739,
-          "line_end": 750,
+          "line_start": 741,
+          "line_end": 752,
           "words": 231
         },
         {
@@ -42650,8 +42650,8 @@
             "Supplement XIII. Induction in World-Experience and the Constitution of the Oriented Experiential World as World with Earth and Heaven (Induktion in der Welterfahrung)"
           ],
           "anchor": "supplement-xiii-induction-in-world-experience-and-the-constitution-of-the-oriented-experiential-world-as-world-with-earth-and-heaven-induktion-in-der-welterfahrung",
-          "line_start": 751,
-          "line_end": 760,
+          "line_start": 753,
+          "line_end": 762,
           "words": 236
         },
         {
@@ -42664,8 +42664,8 @@
             "Text Nr. 20. Structures of Life-Worldly Situativity: Momentary Situation — Special Situation — Situation-Totality — All-Situation. Individual-Subjective and Communal Situation. The Bourgeois Normal World (Strukturen lebensweltlicher Situativität)"
           ],
           "anchor": "text-nr-20-structures-of-life-worldly-situativity-momentary-situation--special-situation--situation-totality--all-situation-individual-subjective-and-communal-situation-the-bourgeois-normal-world-strukturen-lebensweltlicher-situativitat",
-          "line_start": 761,
-          "line_end": 764,
+          "line_start": 763,
+          "line_end": 766,
           "words": 3
         },
         {
@@ -42679,8 +42679,8 @@
             "§ 1. The Intertwining of More or Less Awakened Situations and Situation-Totalities"
           ],
           "anchor": "the-intertwining-of-more-or-less-awakened-situations-and-situation-totalities",
-          "line_start": 765,
-          "line_end": 770,
+          "line_start": 767,
+          "line_end": 772,
           "words": 192
         },
         {
@@ -42694,8 +42694,8 @@
             "§ 2. Our Situation-Horizon in the Horizon of the Bourgeois Normal World. The World as Total-Horizon of All Life-Worlds"
           ],
           "anchor": "our-situation-horizon-in-the-horizon-of-the-bourgeois-normal-world-the-world-as-total-horizon-of-all-life-worlds",
-          "line_start": 771,
-          "line_end": 776,
+          "line_start": 773,
+          "line_end": 778,
           "words": 154
         },
         {
@@ -42708,8 +42708,8 @@
             "Text Nr. 21. Special Situation and the World as All-Situation of All Special Situations. Life-World and True World. Pre-Scientific, Situation-Relative Judging and the Situation-Transcending Judging in Science (Sondersituation und die Welt als Allsituation)"
           ],
           "anchor": "text-nr-21-special-situation-and-the-world-as-all-situation-of-all-special-situations-life-world-and-true-world-pre-scientific-situation-relative-judging-and-the-situation-transcending-judging-in-science-sondersituation-und-die-welt-als-allsituation",
-          "line_start": 777,
-          "line_end": 786,
+          "line_start": 779,
+          "line_end": 788,
           "words": 215
         },
         {
@@ -42722,8 +42722,8 @@
             "Supplement XIV. Practically Understood Situation and Perceptual Appearance. Situation-Relative Optima and the Being Simply as the Absolute Optimum (Praktisch verstandene Situation und Wahrnehmungserscheinung)"
           ],
           "anchor": "supplement-xiv-practically-understood-situation-and-perceptual-appearance-situation-relative-optima-and-the-being-simply-as-the-absolute-optimum-praktisch-verstandene-situation-und-wahrnehmungserscheinung",
-          "line_start": 787,
-          "line_end": 798,
+          "line_start": 789,
+          "line_end": 800,
           "words": 203
         },
         {
@@ -42735,8 +42735,8 @@
             "IV. The Apodicticity of the World and the Apodictic World-Components \"My Body\" and \"I This Human Being\" (Die Apodiktizität der Welt und die apodiktischen Weltbestände „mein Leib\" und „ich dieser Mensch\")"
           ],
           "anchor": "iv-the-apodicticity-of-the-world-and-the-apodictic-world-components-my-body-and-i-this-human-being-die-apodiktizitat-der-welt-und-die-apodiktischen-weltbestande-mein-leib-und-ich-dieser-mensch",
-          "line_start": 799,
-          "line_end": 802,
+          "line_start": 801,
+          "line_end": 804,
           "words": 1
         },
         {
@@ -42749,8 +42749,8 @@
             "Text Nr. 22. Validity-Style of the Experiential World. Its Apodicticity during Concordant Experience. Experience as Apodictic Access-Method to the Worldly and to the World Itself. Its Being Confirming Itself in Empirical Indubitability (Geltungsstil der Erfahrungswelt. Ihre Apodiktizität während der einstimmigen Erfahrung)"
           ],
           "anchor": "text-nr-22-validity-style-of-the-experiential-world-its-apodicticity-during-concordant-experience-experience-as-apodictic-access-method-to-the-worldly-and-to-the-world-itself-its-being-confirming-itself-in-empirical-indubitability-geltungsstil-der-erfahrungswelt-ihre-apodiktizitat-wahrend-der-einstimmigen-erfahrung",
-          "line_start": 803,
-          "line_end": 816,
+          "line_start": 805,
+          "line_end": 818,
           "words": 422
         },
         {
@@ -42763,8 +42763,8 @@
             "Supplement XV. Apodictic Anticipation of the Being of the World in the Course of Experience. Possibility of the Non-Being of the World. The Historical Apodicticity of World-Certainty (Apodiktische Antizipation des Seins der Welt im Lauf der Erfahrung)"
           ],
           "anchor": "supplement-xv-apodictic-anticipation-of-the-being-of-the-world-in-the-course-of-experience-possibility-of-the-non-being-of-the-world-the-historical-apodicticity-of-world-certainty-apodiktische-antizipation-des-seins-der-welt-im-lauf-der-erfahrung",
-          "line_start": 817,
-          "line_end": 826,
+          "line_start": 819,
+          "line_end": 828,
           "words": 198
         },
         {
@@ -42777,8 +42777,8 @@
             "Supplement XVI. Normal, Being-Confirming World-Experience as Presupposition of the Anomality of Illusion. Constitution of a Unified Object-World through Retroactive Correction (Normale, seinsbewährende Welterfahrung als Voraussetzung der Anomalität des Scheins)"
           ],
           "anchor": "supplement-xvi-normal-being-confirming-world-experience-as-presupposition-of-the-anomality-of-illusion-constitution-of-a-unified-object-world-through-retroactive-correction-normale-seinsbewahrende-welterfahrung-als-voraussetzung-der-anomalitat-des-scheins",
-          "line_start": 827,
-          "line_end": 836,
+          "line_start": 829,
+          "line_end": 838,
           "words": 221
         },
         {
@@ -42791,8 +42791,8 @@
             "Supplement XVII. Two Worlds for One Ego. Thought-Experiment of Two Periodically Alternating Concordance-Systems with Alternating Bodily Personalities (Zwei Welten für ein Ich)"
           ],
           "anchor": "supplement-xvii-two-worlds-for-one-ego-thought-experiment-of-two-periodically-alternating-concordance-systems-with-alternating-bodily-personalities-zwei-welten-fur-ein-ich",
-          "line_start": 837,
-          "line_end": 848,
+          "line_start": 839,
+          "line_end": 850,
           "words": 282
         },
         {
@@ -42805,8 +42805,8 @@
             "Supplement XVIII. Possible Non-Being of the World (Mögliches Nichtsein der Welt)"
           ],
           "anchor": "supplement-xviii-possible-non-being-of-the-world-mogliches-nichtsein-der-welt",
-          "line_start": 849,
-          "line_end": 860,
+          "line_start": 851,
+          "line_end": 862,
           "words": 253
         },
         {
@@ -42819,8 +42819,8 @@
             "Text Nr. 23. Necessity of the Presumptive Being-Positing of the World in the Self-Confirming Self-Givenness of Concordant World-Experience. The Primal Right of World-Belief (Notwendigkeit der präsumtiven Seinssetzung der Welt)"
           ],
           "anchor": "text-nr-23-necessity-of-the-presumptive-being-positing-of-the-world-in-the-self-confirming-self-givenness-of-concordant-world-experience-the-primal-right-of-world-belief-notwendigkeit-der-prasumtiven-seinssetzung-der-welt",
-          "line_start": 861,
-          "line_end": 870,
+          "line_start": 863,
+          "line_end": 872,
           "words": 238
         },
         {
@@ -42833,8 +42833,8 @@
             "Supplement XIX. On the Apodictic Evidence of the Presumption of a World (Zur apodiktischen Evidenz der Präsumtion einer Welt)"
           ],
           "anchor": "supplement-xix-on-the-apodictic-evidence-of-the-presumption-of-a-world-zur-apodiktischen-evidenz-der-prasumtion-einer-welt",
-          "line_start": 871,
-          "line_end": 878,
+          "line_start": 873,
+          "line_end": 880,
           "words": 148
         },
         {
@@ -42847,8 +42847,8 @@
             "Supplement XX. Idea of Apodictic Evidence as Simply Repeatable Evidence and Question of the Apodicticity of World-Experience (Idee der apodiktischen Evidenz als schlechthin wiederholbare Evidenz)"
           ],
           "anchor": "supplement-xx-idea-of-apodictic-evidence-as-simply-repeatable-evidence-and-question-of-the-apodicticity-of-world-experience-idee-der-apodiktischen-evidenz-als-schlechthin-wiederholbare-evidenz",
-          "line_start": 879,
-          "line_end": 886,
+          "line_start": 881,
+          "line_end": 888,
           "words": 97
         },
         {
@@ -42861,8 +42861,8 @@
             "Supplement XXI. The Conviction Belonging to the Experiential Sense of the World That the Experienced World, Although the Being of Every Individual Reality Is Being Subject to Cancellation, Nonetheless Carries a Being Within Itself (Die zum Erfahrungssinn der Welt gehörige Überzeugung)"
           ],
           "anchor": "supplement-xxi-the-conviction-belonging-to-the-experiential-sense-of-the-world-that-the-experienced-world-although-the-being-of-every-individual-reality-is-being-subject-to-cancellation-nonetheless-carries-a-being-within-itself-die-zum-erfahrungssinn-der-welt-gehorige-uberzeugung",
-          "line_start": 887,
-          "line_end": 894,
+          "line_start": 889,
+          "line_end": 896,
           "words": 198
         },
         {
@@ -42875,8 +42875,8 @@
             "Text Nr. 24. Meditation on the Apodicticity of the I-Am and in What Regard It Harbours World-Having as Apodictic (Meditation über die Apodiktizität des Ich-bin)"
           ],
           "anchor": "text-nr-24-meditation-on-the-apodicticity-of-the-i-am-and-in-what-regard-it-harbours-world-having-as-apodictic-meditation-uber-die-apodiktizitat-des-ich-bin",
-          "line_start": 895,
-          "line_end": 906,
+          "line_start": 897,
+          "line_end": 908,
           "words": 293
         },
         {
@@ -42889,8 +42889,8 @@
             "Text Nr. 25. The Apodictic Certainty of My Human-Bodily Being as Part of the Apodictic Certainty of the Being-Ground \"World.\" Rejection of the Cartesian Doubt-Attempt (Die apodiktische Gewissheit meines menschlich-leiblichen Seins als Teil der apodiktischen Gewissheit des Seinsbodens „Welt\". Zurückweisung des cartesischen Zweifelsversuchs)"
           ],
           "anchor": "text-nr-25-the-apodictic-certainty-of-my-human-bodily-being-as-part-of-the-apodictic-certainty-of-the-being-ground-world-rejection-of-the-cartesian-doubt-attempt-die-apodiktische-gewissheit-meines-menschlich-leiblichen-seins-als-teil-der-apodiktischen-gewissheit-des-seinsbodens-welt-zuruckweisung-des-cartesischen-zweifelsversuchs",
-          "line_start": 907,
-          "line_end": 922,
+          "line_start": 909,
+          "line_end": 924,
           "words": 346
         },
         {
@@ -42902,8 +42902,8 @@
             "V. The Reality-Structure of the Life-World — Nature as Abstract Core-Stratum of the World (Die Realitätenstruktur der Lebenswelt – Natur als abstrakte Kernschicht der Welt)"
           ],
           "anchor": "v-the-reality-structure-of-the-life-world--nature-as-abstract-core-stratum-of-the-world-die-realitatenstruktur-der-lebenswelt--natur-als-abstrakte-kernschicht-der-welt",
-          "line_start": 923,
-          "line_end": 926,
+          "line_start": 925,
+          "line_end": 928,
           "words": 1
         },
         {
@@ -42916,8 +42916,8 @@
             "Text Nr. 26. The Natural World-Concept. Systematic Dismantling of the Concrete Experiential World to the Abstract Core-Stratum \"Nature,\" Starting from the Concrete Experiential World (Der natürliche Weltbegriff)"
           ],
           "anchor": "text-nr-26-the-natural-world-concept-systematic-dismantling-of-the-concrete-experiential-world-to-the-abstract-core-stratum-nature-starting-from-the-concrete-experiential-world-der-naturliche-weltbegriff",
-          "line_start": 927,
-          "line_end": 930,
+          "line_start": 929,
+          "line_end": 932,
           "words": 2
         },
         {
@@ -42931,8 +42931,8 @@
             "§ 1. The Task of Displaying the A Priori of the Concrete Experiential World and the Idea of an Abstractive Procedure for Reconstructing Its Full Concretion"
           ],
           "anchor": "the-task-of-displaying-the-a-priori-of-the-concrete-experiential-world-and-the-idea-of-an-abstractive-procedure-for-reconstructing-its-full-concretion",
-          "line_start": 931,
-          "line_end": 940,
+          "line_start": 933,
+          "line_end": 942,
           "words": 362
         },
         {
@@ -42946,8 +42946,8 @@
             "§ 2. The Ordered Abstractive Dismantling of Everything Subjective from the Concrete Experiential World for the Purpose of Gaining Mere Nature"
           ],
           "anchor": "the-ordered-abstractive-dismantling-of-everything-subjective-from-the-concrete-experiential-world-for-the-purpose-of-gaining-mere-nature",
-          "line_start": 941,
-          "line_end": 958,
+          "line_start": 943,
+          "line_end": 960,
           "words": 346
         },
         {
@@ -42961,8 +42961,8 @@
             "§ 3. All-Nature and All-Spirit. The Absence of a Closed Experiential Unity of Everything Subjective"
           ],
           "anchor": "all-nature-and-all-spirit-the-absence-of-a-closed-experiential-unity-of-everything-subjective",
-          "line_start": 959,
-          "line_end": 966,
+          "line_start": 961,
+          "line_end": 968,
           "words": 233
         },
         {
@@ -42975,8 +42975,8 @@
             "Text Nr. 27. The Natural Core of the World in Its Respective Experiential Sense Is a Product of Experiencing Doing. Equating Natural Appearance-Modes and Cultural Formations. Appearance-Modes as Objects of Praxis (Der naturale Kern der Welt in seinem jeweiligen Erfahrungssinn ist ein Erzeugnis erfahrenden Tuns)"
           ],
           "anchor": "text-nr-27-the-natural-core-of-the-world-in-its-respective-experiential-sense-is-a-product-of-experiencing-doing-equating-natural-appearance-modes-and-cultural-formations-appearance-modes-as-objects-of-praxis-der-naturale-kern-der-welt-in-seinem-jeweiligen-erfahrungssinn-ist-ein-erzeugnis-erfahrenden-tuns",
-          "line_start": 967,
-          "line_end": 978,
+          "line_start": 969,
+          "line_end": 980,
           "words": 275
         },
         {
@@ -42989,8 +42989,8 @@
             "Text Nr. 28. The General Reality-Structure of the World of Experience and Its Founding Structure \"Nature.\" Regional Kinds of Self-Preservation and of Change of Concrete Realities (Die allgemeine Realitätenstruktur der Welt der Erfahrung und ihre fundierende Struktur „Natur\")"
           ],
           "anchor": "text-nr-28-the-general-reality-structure-of-the-world-of-experience-and-its-founding-structure-nature-regional-kinds-of-self-preservation-and-of-change-of-concrete-realities-die-allgemeine-realitatenstruktur-der-welt-der-erfahrung-und-ihre-fundierende-struktur-natur",
-          "line_start": 979,
-          "line_end": 982,
+          "line_start": 981,
+          "line_end": 984,
           "words": 1
         },
         {
@@ -43004,8 +43004,8 @@
             "§ 1. Method of Conceiving the Invariant Essential Form of a Possible Experiential World in General"
           ],
           "anchor": "method-of-conceiving-the-invariant-essential-form-of-a-possible-experiential-world-in-general",
-          "line_start": 983,
-          "line_end": 986,
+          "line_start": 985,
+          "line_end": 988,
           "words": 120
         },
         {
@@ -43019,8 +43019,8 @@
             "§ 2. Kinds of Change of Realities"
           ],
           "anchor": "kinds-of-change-of-realities",
-          "line_start": 987,
-          "line_end": 996,
+          "line_start": 989,
+          "line_end": 998,
           "words": 262
         },
         {
@@ -43034,8 +43034,8 @@
             "§ 3. Region-Specific Kinds of Self-Preservation of Concrete Realities and Region-Specific Kinds of Transition from Preservation to Destruction"
           ],
           "anchor": "region-specific-kinds-of-self-preservation-of-concrete-realities-and-region-specific-kinds-of-transition-from-preservation-to-destruction",
-          "line_start": 997,
-          "line_end": 1002,
+          "line_start": 999,
+          "line_end": 1004,
           "words": 71
         },
         {
@@ -43048,8 +43048,8 @@
             "Supplement XXII. Natural Kinds of Change of Realities: Joining and Division, Mixing and Unmixing. Natural Causality and the Possibility of Personal Intervention in Natural Happening (Naturale Veränderungsarten von Realem)"
           ],
           "anchor": "supplement-xxii-natural-kinds-of-change-of-realities-joining-and-division-mixing-and-unmixing-natural-causality-and-the-possibility-of-personal-intervention-in-natural-happening-naturale-veranderungsarten-von-realem",
-          "line_start": 1003,
-          "line_end": 1012,
+          "line_start": 1005,
+          "line_end": 1014,
           "words": 145
         },
         {
@@ -43062,8 +43062,8 @@
             "Text Nr. 29. World — Real and Ideal Objects. The Natural Core of the Appearing Reality-World and the Worldliness of Ideal Objectualities (Welt – reale und ideale Gegenstände)"
           ],
           "anchor": "text-nr-29-world--real-and-ideal-objects-the-natural-core-of-the-appearing-reality-world-and-the-worldliness-of-ideal-objectualities-welt--reale-und-ideale-gegenstande",
-          "line_start": 1013,
-          "line_end": 1016,
+          "line_start": 1015,
+          "line_end": 1018,
           "words": 2
         },
         {
@@ -43077,8 +43077,8 @@
             "§ 1. The Identity-Structure of the Pre-Given Intersubjectively Experienceable World and Its Two Strata of Essential Forms"
           ],
           "anchor": "the-identity-structure-of-the-pre-given-intersubjectively-experienceable-world-and-its-two-strata-of-essential-forms",
-          "line_start": 1017,
-          "line_end": 1022,
+          "line_start": 1019,
+          "line_end": 1024,
           "words": 161
         },
         {
@@ -43092,8 +43092,8 @@
             "§ 2. Ideal and Real Objectualities. Persons and Personal Communities. Free and Bound Idealities"
           ],
           "anchor": "ideal-and-real-objectualities-persons-and-personal-communities-free-and-bound-idealities",
-          "line_start": 1023,
-          "line_end": 1030,
+          "line_start": 1025,
+          "line_end": 1032,
           "words": 170
         },
         {
@@ -43106,8 +43106,8 @@
             "Text Nr. 30. Nature in Surrounding-Worldliness and Nature in Itself. Habitual Style of the Surrounding World as Causal Style. Over against This Surrounding-Worldly \"Causality,\" Exact Causality. Homogenization of Earthly Surrounding World and Heavenly World (Natur in der Umweltlichkeit und Natur an sich)"
           ],
           "anchor": "text-nr-30-nature-in-surrounding-worldliness-and-nature-in-itself-habitual-style-of-the-surrounding-world-as-causal-style-over-against-this-surrounding-worldly-causality-exact-causality-homogenization-of-earthly-surrounding-world-and-heavenly-world-natur-in-der-umweltlichkeit-und-natur-an-sich",
-          "line_start": 1031,
-          "line_end": 1048,
+          "line_start": 1033,
+          "line_end": 1050,
           "words": 380
         },
         {
@@ -43119,8 +43119,8 @@
             "VI. The Life-World as Personal World of Praxis and World of Finite Cognition-Interests Bounded by Practical Goals (Die Lebenswelt als personale Welt der Praxis und Welt der von praktischen Zielen begrenzten endlichen Erkenntnisinteressen)"
           ],
           "anchor": "vi-the-life-world-as-personal-world-of-praxis-and-world-of-finite-cognition-interests-bounded-by-practical-goals-die-lebenswelt-als-personale-welt-der-praxis-und-welt-der-von-praktischen-zielen-begrenzten-endlichen-erkenntnisinteressen",
-          "line_start": 1049,
-          "line_end": 1052,
+          "line_start": 1051,
+          "line_end": 1054,
           "words": 1
         },
         {
@@ -43133,8 +43133,8 @@
             "Text Nr. 31. Finitude of Praxis. Finite Surrounding World as Practical. The Practical Surrounding World as Horizon of Actual and Possible Interests (Endlichkeit der Praxis. Endliche Umwelt als praktische)"
           ],
           "anchor": "text-nr-31-finitude-of-praxis-finite-surrounding-world-as-practical-the-practical-surrounding-world-as-horizon-of-actual-and-possible-interests-endlichkeit-der-praxis-endliche-umwelt-als-praktische",
-          "line_start": 1053,
-          "line_end": 1064,
+          "line_start": 1055,
+          "line_end": 1066,
           "words": 285
         },
         {
@@ -43147,8 +43147,8 @@
             "Text Nr. 32. The Acting Human Beings, Actions, and Action-Results with Their Teleological Face Belonging to the Life-Surrounding-World as Practical World (Die zur Lebensumwelt als praktischer Welt gehörigen handelnden Menschen, Handlungen und Handlungsergebnisse mit ihrem teleologischen Gesicht)"
           ],
           "anchor": "text-nr-32-the-acting-human-beings-actions-and-action-results-with-their-teleological-face-belonging-to-the-life-surrounding-world-as-practical-world-die-zur-lebensumwelt-als-praktischer-welt-gehorigen-handelnden-menschen-handlungen-und-handlungsergebnisse-mit-ihrem-teleologischen-gesicht",
-          "line_start": 1065,
-          "line_end": 1076,
+          "line_start": 1067,
+          "line_end": 1078,
           "words": 193
         },
         {
@@ -43161,8 +43161,8 @@
             "Text Nr. 33. Levels of Surrounding Worlds and Their Constitution (Stufen der Umwelten und ihre Konstitution)"
           ],
           "anchor": "text-nr-33-levels-of-surrounding-worlds-and-their-constitution-stufen-der-umwelten-und-ihre-konstitution",
-          "line_start": 1077,
-          "line_end": 1084,
+          "line_start": 1079,
+          "line_end": 1086,
           "words": 72
         },
         {
@@ -43175,8 +43175,8 @@
             "Text Nr. 34. The World as Practical Surrounding World and the Finitude of Practical Cognition-Interest (Die Welt als praktische Umwelt und die Endlichkeit des praktischen Erkenntnisinteresses)"
           ],
           "anchor": "text-nr-34-the-world-as-practical-surrounding-world-and-the-finitude-of-practical-cognition-interest-die-welt-als-praktische-umwelt-und-die-endlichkeit-des-praktischen-erkenntnisinteresses",
-          "line_start": 1085,
-          "line_end": 1092,
+          "line_start": 1087,
+          "line_end": 1094,
           "words": 89
         },
         {
@@ -43189,8 +43189,8 @@
             "Text Nr. 35. The Surrounding World as World of Practice and the Question of the Constitution of Its Pre-Givenness (Die Umwelt als Welt der Praxis und die Frage der Konstitution ihrer Vorgegebenheit)"
           ],
           "anchor": "text-nr-35-the-surrounding-world-as-world-of-practice-and-the-question-of-the-constitution-of-its-pre-givenness-die-umwelt-als-welt-der-praxis-und-die-frage-der-konstitution-ihrer-vorgegebenheit",
-          "line_start": 1093,
-          "line_end": 1100,
+          "line_start": 1095,
+          "line_end": 1102,
           "words": 79
         },
         {
@@ -43203,8 +43203,8 @@
             "Text Nr. 36. The Surrounding World as Experiential World for the Human Being (Die Umwelt als Erfahrungswelt für den Menschen)"
           ],
           "anchor": "text-nr-36-the-surrounding-world-as-experiential-world-for-the-human-being-die-umwelt-als-erfahrungswelt-fur-den-menschen",
-          "line_start": 1101,
-          "line_end": 1108,
+          "line_start": 1103,
+          "line_end": 1110,
           "words": 62
         },
         {
@@ -43217,8 +43217,8 @@
             "Text Nr. 37. Person and Surrounding World. The Personal World as World of Practice (Person und Umwelt. Die personale Welt als Welt der Praxis)"
           ],
           "anchor": "text-nr-37-person-and-surrounding-world-the-personal-world-as-world-of-practice-person-und-umwelt-die-personale-welt-als-welt-der-praxis",
-          "line_start": 1109,
-          "line_end": 1116,
+          "line_start": 1111,
+          "line_end": 1118,
           "words": 82
         },
         {
@@ -43231,8 +43231,8 @@
             "Text Nr. 38. Communal Life and the Constitution of the Common Surrounding World. Higher-Order Personalities (Gemeinschaftsleben und die Konstitution der gemeinsamen Umwelt. Personalitäten höherer Ordnung)"
           ],
           "anchor": "text-nr-38-communal-life-and-the-constitution-of-the-common-surrounding-world-higher-order-personalities-gemeinschaftsleben-und-die-konstitution-der-gemeinsamen-umwelt-personalitaten-hoherer-ordnung",
-          "line_start": 1117,
-          "line_end": 1126,
+          "line_start": 1119,
+          "line_end": 1128,
           "words": 147
         },
         {
@@ -43245,8 +43245,8 @@
             "Supplement XXVII. Professions in the Normal People and Their Historicity. On the Phenomenology of Professions (Berufe im normalen Volk und ihre Geschichtlichkeit)"
           ],
           "anchor": "supplement-xxvii-professions-in-the-normal-people-and-their-historicity-on-the-phenomenology-of-professions-berufe-im-normalen-volk-und-ihre-geschichtlichkeit",
-          "line_start": 1127,
-          "line_end": 1136,
+          "line_start": 1129,
+          "line_end": 1138,
           "words": 135
         },
         {
@@ -43259,8 +43259,8 @@
             "Supplement XXVIII. Territory. Personal Spatiotemporality in Its Personal Levels (Territorium. Personale Raumzeitlichkeit in ihren Personalstufen)"
           ],
           "anchor": "supplement-xxviii-territory-personal-spatiotemporality-in-its-personal-levels-territorium-personale-raumzeitlichkeit-in-ihren-personalstufen",
-          "line_start": 1137,
-          "line_end": 1144,
+          "line_start": 1139,
+          "line_end": 1146,
           "words": 141
         },
         {
@@ -43273,8 +43273,8 @@
             "Supplement XXIX. Property. The Object-Field in the Horizon of Appropriation and Disposal, of Concordance and Conflict (Eigentum)"
           ],
           "anchor": "supplement-xxix-property-the-object-field-in-the-horizon-of-appropriation-and-disposal-of-concordance-and-conflict-eigentum",
-          "line_start": 1145,
-          "line_end": 1152,
+          "line_start": 1147,
+          "line_end": 1154,
           "words": 88
         },
         {
@@ -43287,8 +43287,8 @@
             "Supplement XXX. On the Haptical Constitution of the Practical World. The Priority of Tactile Perceptions over Visual Perceptions (Zur haptischen Konstitution der praktischen Welt)"
           ],
           "anchor": "supplement-xxx-on-the-haptical-constitution-of-the-practical-world-the-priority-of-tactile-perceptions-over-visual-perceptions-zur-haptischen-konstitution-der-praktischen-welt",
-          "line_start": 1153,
-          "line_end": 1162,
+          "line_start": 1155,
+          "line_end": 1164,
           "words": 184
         },
         {
@@ -43301,8 +43301,8 @@
             "Text Nr. 39. The True Life-World to Be Corrected Out as Foundation of Life-Worldly Praxis. World and Surrounding World. Constitution of the World in Its Infinite Temporally Self-Presenting in Relatively \"Stable\" Surrounding Worlds. Carried Out for Nature (Die herauszukorrigierende wahre Lebenswelt als Grundlage lebensweltlicher Praxis)"
           ],
           "anchor": "text-nr-39-the-true-life-world-to-be-corrected-out-as-foundation-of-life-worldly-praxis-world-and-surrounding-world-constitution-of-the-world-in-its-infinite-temporally-self-presenting-in-relatively-stable-surrounding-worlds-carried-out-for-nature-die-herauszukorrigierende-wahre-lebenswelt-als-grundlage-lebensweltlicher-praxis",
-          "line_start": 1163,
-          "line_end": 1180,
+          "line_start": 1165,
+          "line_end": 1182,
           "words": 399
         },
         {
@@ -43314,8 +43314,8 @@
             "VII. The World as Acquisition — Structure and Genesis of the World-Apperception and of the Apperceptions of Worldly Beings (Die Welt als Erwerb. Struktur und Genesis der Weltapperzeption und der Apperzeptionen von weltlich Seiendem)"
           ],
           "anchor": "vii-the-world-as-acquisition--structure-and-genesis-of-the-world-apperception-and-of-the-apperceptions-of-worldly-beings-die-welt-als-erwerb-struktur-und-genesis-der-weltapperzeption-und-der-apperzeptionen-von-weltlich-seiendem",
-          "line_start": 1181,
-          "line_end": 1184,
+          "line_start": 1183,
+          "line_end": 1186,
           "words": 1
         },
         {
@@ -43328,8 +43328,8 @@
             "Text Nr. 40. On the Theory of Apperception: Perception and Apperception. Various Kinds of Apperception (Zur Theorie der Apperzeption: Perzeption und Apperzeption. Verschiedene Arten der Apperzeption)"
           ],
           "anchor": "text-nr-40-on-the-theory-of-apperception-perception-and-apperception-various-kinds-of-apperception-zur-theorie-der-apperzeption-perzeption-und-apperzeption-verschiedene-arten-der-apperzeption",
-          "line_start": 1185,
-          "line_end": 1188,
+          "line_start": 1187,
+          "line_end": 1190,
           "words": 4
         },
         {
@@ -43343,8 +43343,8 @@
             "§ 1. Dismantling My World-Phenomenon to the World Purely Given from Perception and Apperception. The Pregnant Concept of Perception and Apperception"
           ],
           "anchor": "dismantling-my-world-phenomenon-to-the-world-purely-given-from-perception-and-apperception-the-pregnant-concept-of-perception-and-apperception",
-          "line_start": 1189,
-          "line_end": 1194,
+          "line_start": 1191,
+          "line_end": 1196,
           "words": 155
         },
         {
@@ -43358,8 +43358,8 @@
             "§ 2. Indicating (Back-Referring and Forward-Referring) and Analogizing Apperception. Image-Apperception and Epoché"
           ],
           "anchor": "indicating-back-referring-and-forward-referring-and-analogizing-apperception-image-apperception-and-epoche",
-          "line_start": 1195,
-          "line_end": 1204,
+          "line_start": 1197,
+          "line_end": 1206,
           "words": 187
         },
         {
@@ -43372,8 +43372,8 @@
             "Supplement XXXI. Apperception as Transcendent Self-Givenness, Creating an Intuitive Existing World. Analogizing and Practical Apperception (Apperzeption als transzendente Selbstgebung)"
           ],
           "anchor": "supplement-xxxi-apperception-as-transcendent-self-givenness-creating-an-intuitive-existing-world-analogizing-and-practical-apperception-apperzeption-als-transzendente-selbstgebung",
-          "line_start": 1205,
-          "line_end": 1212,
+          "line_start": 1207,
+          "line_end": 1214,
           "words": 86
         },
         {
@@ -43386,8 +43386,8 @@
             "Supplements XXXII–XXXVI"
           ],
           "anchor": "supplements-xxxiixxxvi",
-          "line_start": 1213,
-          "line_end": 1218,
+          "line_start": 1215,
+          "line_end": 1220,
           "words": 97
         },
         {
@@ -43400,8 +43400,8 @@
             "Text Nr. 41. Pre-Given World as Correlate of Acquisition-Processes. Apperceptive Constitution of Beings as Unity of Passive Self-Covering and Active Identification. The Constitution of Pluralities Therein Founded. Apperception of Pluralities of Likes or Similars. Universe — Open Plurality-Horizon (Vorgegebene Welt als Korrelat von Erwerbsprozessen)"
           ],
           "anchor": "text-nr-41-pre-given-world-as-correlate-of-acquisition-processes-apperceptive-constitution-of-beings-as-unity-of-passive-self-covering-and-active-identification-the-constitution-of-pluralities-therein-founded-apperception-of-pluralities-of-likes-or-similars-universe--open-plurality-horizon-vorgegebene-welt-als-korrelat-von-erwerbsprozessen",
-          "line_start": 1219,
-          "line_end": 1222,
+          "line_start": 1221,
+          "line_end": 1224,
           "words": 2
         },
         {
@@ -43415,8 +43415,8 @@
             "§ 1. Apperceptive Constitution of Beings as Unity of Passive Self-Covering and Active Identification"
           ],
           "anchor": "apperceptive-constitution-of-beings-as-unity-of-passive-self-covering-and-active-identification",
-          "line_start": 1223,
-          "line_end": 1226,
+          "line_start": 1225,
+          "line_end": 1228,
           "words": 73
         },
         {
@@ -43430,8 +43430,8 @@
             "§ 2. Apperception of Pluralities of Likes or Similars"
           ],
           "anchor": "apperception-of-pluralities-of-likes-or-similars",
-          "line_start": 1227,
-          "line_end": 1232,
+          "line_start": 1229,
+          "line_end": 1234,
           "words": 53
         },
         {
@@ -43444,8 +43444,8 @@
             "Supplement XXXVII. Apperzeptive Acquisition of Being-Sense (Apperzeptiver Erwerb von Seinssinn)"
           ],
           "anchor": "supplement-xxxvii-apperzeptive-acquisition-of-being-sense-apperzeptiver-erwerb-von-seinssinn",
-          "line_start": 1233,
-          "line_end": 1240,
+          "line_start": 1235,
+          "line_end": 1242,
           "words": 76
         },
         {
@@ -43458,8 +43458,8 @@
             "Text Nr. 42. The Mute and the Spoken World. Problem of the Genesis of the Style of World-Experience (Stumme und ausgesprochene Welt. Problem der Genesis des Stils der Welterfahrung)"
           ],
           "anchor": "text-nr-42-the-mute-and-the-spoken-world-problem-of-the-genesis-of-the-style-of-world-experience-stumme-und-ausgesprochene-welt-problem-der-genesis-des-stils-der-welterfahrung",
-          "line_start": 1241,
-          "line_end": 1248,
+          "line_start": 1243,
+          "line_end": 1250,
           "words": 105
         },
         {
@@ -43472,8 +43472,8 @@
             "Text Nr. 43. Birth and Death as Limit-Problems of Transcendental-Aesthetic Explication (Geburt und Tod als Randprobleme transzendentalästhetischer Auslegung)"
           ],
           "anchor": "text-nr-43-birth-and-death-as-limit-problems-of-transcendental-aesthetic-explication-geburt-und-tod-als-randprobleme-transzendentalasthetischer-auslegung",
-          "line_start": 1249,
-          "line_end": 1252,
+          "line_start": 1251,
+          "line_end": 1254,
           "words": 2
         },
         {
@@ -43487,8 +43487,8 @@
             "§ 1. On the Reconstruction of Earliest Childhood: Primal Affection and Beginning of Streaming Temporalization"
           ],
           "anchor": "on-the-reconstruction-of-earliest-childhood-primal-affection-and-beginning-of-streaming-temporalization",
-          "line_start": 1253,
-          "line_end": 1256,
+          "line_start": 1255,
+          "line_end": 1258,
           "words": 90
         },
         {
@@ -43502,8 +43502,8 @@
             "§ 2. The Ego of the Constitutive Beginning: An Ego of Directed Instincts"
           ],
           "anchor": "the-ego-of-the-constitutive-beginning-an-ego-of-directed-instincts",
-          "line_start": 1257,
-          "line_end": 1262,
+          "line_start": 1259,
+          "line_end": 1264,
           "words": 38
         },
         {
@@ -43516,8 +43516,8 @@
             "Supplements XXXIX–XLI"
           ],
           "anchor": "supplements-xxxixxli",
-          "line_start": 1263,
-          "line_end": 1268,
+          "line_start": 1265,
+          "line_end": 1270,
           "words": 57
         },
         {
@@ -43530,8 +43530,8 @@
             "Text Nr. 44. The Primordial Time-World and Its Apperceptive Extensions to the Full Intersubjective Time-World. Historical Apperceptions. Primordial and Intersubjective Historicity of the World (Die primordiale Zeitwelt und ihre apperzeptiven Erweiterungen zur vollen intersubjektiven Zeitwelt)"
           ],
           "anchor": "text-nr-44-the-primordial-time-world-and-its-apperceptive-extensions-to-the-full-intersubjective-time-world-historical-apperceptions-primordial-and-intersubjective-historicity-of-the-world-die-primordiale-zeitwelt-und-ihre-apperzeptiven-erweiterungen-zur-vollen-intersubjektiven-zeitwelt",
-          "line_start": 1269,
-          "line_end": 1276,
+          "line_start": 1271,
+          "line_end": 1278,
           "words": 81
         },
         {
@@ -43544,8 +43544,8 @@
             "Text Nr. 45. The Pre-Given Life-World — an Apperceptive Sense- and Validity-Formation That Continually Takes Up Ever New Apperceptive Sense-Overlays as Validities-For (Die vorgegebene Lebenswelt – ein apperzeptives Sinn- und Geltungsgebilde)"
           ],
           "anchor": "text-nr-45-the-pre-given-life-world--an-apperceptive-sense--and-validity-formation-that-continually-takes-up-ever-new-apperceptive-sense-overlays-as-validities-for-die-vorgegebene-lebenswelt--ein-apperzeptives-sinn--und-geltungsgebilde",
-          "line_start": 1277,
-          "line_end": 1284,
+          "line_start": 1279,
+          "line_end": 1286,
           "words": 75
         },
         {
@@ -43558,8 +43558,8 @@
             "Text Nr. 46. The Life-World as Validity-World in Traditional Change and in Traditional Self-Preservation. Extensions of Our Generative Validity-World and Their Tendency toward a Supranational Terrestrial Culture (Die Lebenswelt als Geltungswelt in traditionalem Wandel und in traditionaler Selbsterhaltung)"
           ],
           "anchor": "text-nr-46-the-life-world-as-validity-world-in-traditional-change-and-in-traditional-self-preservation-extensions-of-our-generative-validity-world-and-their-tendency-toward-a-supranational-terrestrial-culture-die-lebenswelt-als-geltungswelt-in-traditionalem-wandel-und-in-traditionaler-selbsterhaltung",
-          "line_start": 1285,
-          "line_end": 1292,
+          "line_start": 1287,
+          "line_end": 1294,
           "words": 113
         },
         {
@@ -43572,8 +43572,8 @@
             "Text Nr. 47. The Streaming Constitution of the World as Correlate of Streaming Apperceptions. The Problem of the Constitution of the World-Form \"Spatiotemporality\" (Die strömende Konstitution der Welt als Korrelat strömender Apperzeptionen)"
           ],
           "anchor": "text-nr-47-the-streaming-constitution-of-the-world-as-correlate-of-streaming-apperceptions-the-problem-of-the-constitution-of-the-world-form-spatiotemporality-die-stromende-konstitution-der-welt-als-korrelat-stromender-apperzeptionen",
-          "line_start": 1293,
-          "line_end": 1300,
+          "line_start": 1295,
+          "line_end": 1302,
           "words": 76
         },
         {
@@ -43586,8 +43586,8 @@
             "Text Nr. 48. World-Apperception and Its Habitual and Traditional Character (Weltapperzeption und ihr habitueller und traditionaler Charakter)"
           ],
           "anchor": "text-nr-48-world-apperception-and-its-habitual-and-traditional-character-weltapperzeption-und-ihr-habitueller-und-traditionaler-charakter",
-          "line_start": 1301,
-          "line_end": 1312,
+          "line_start": 1303,
+          "line_end": 1314,
           "words": 119
         },
         {
@@ -43599,8 +43599,8 @@
             "VIII. General Aspects of the Temporal Constitution of the Life-World (Allgemeine Aspekte der zeitlichen Konstitution der Lebenswelt)"
           ],
           "anchor": "viii-general-aspects-of-the-temporal-constitution-of-the-life-world-allgemeine-aspekte-der-zeitlichen-konstitution-der-lebenswelt",
-          "line_start": 1313,
-          "line_end": 1316,
+          "line_start": 1315,
+          "line_end": 1318,
           "words": 1
         },
         {
@@ -43613,8 +43613,8 @@
             "Text Nr. 49. The Standing-Streaming Life as World-Constituting. The Ontic and the Subjective in the Streaming World-Consciousness (Das stehend-strömende Leben als weltkonstituierendes)"
           ],
           "anchor": "text-nr-49-the-standing-streaming-life-as-world-constituting-the-ontic-and-the-subjective-in-the-streaming-world-consciousness-das-stehend-stromende-leben-als-weltkonstituierendes",
-          "line_start": 1317,
-          "line_end": 1326,
+          "line_start": 1319,
+          "line_end": 1328,
           "words": 163
         },
         {
@@ -43627,8 +43627,8 @@
             "Text Nr. 50. The Temporal Form of the World as Form of Self-Preservation of Realities and Its Subjective Constitution (Die Zeitform der Welt als Form der Selbsterhaltung von Realitäten und ihre subjektive Konstitution)"
           ],
           "anchor": "text-nr-50-the-temporal-form-of-the-world-as-form-of-self-preservation-of-realities-and-its-subjective-constitution-die-zeitform-der-welt-als-form-der-selbsterhaltung-von-realitaten-und-ihre-subjektive-konstitution",
-          "line_start": 1327,
-          "line_end": 1334,
+          "line_start": 1329,
+          "line_end": 1336,
           "words": 83
         },
         {
@@ -43641,8 +43641,8 @@
             "Supplements XLVI–XLVII"
           ],
           "anchor": "supplements-xlvixlvii",
-          "line_start": 1335,
-          "line_end": 1340,
+          "line_start": 1337,
+          "line_end": 1342,
           "words": 36
         },
         {
@@ -43655,8 +43655,8 @@
             "Text Nr. 51. Universal Temporality as Self-Preservation and the Problem of Absolute Temporalization (Universale Zeitlichkeit als Selbsterhaltung und das Problem der absoluten Zeitigung)"
           ],
           "anchor": "text-nr-51-universal-temporality-as-self-preservation-and-the-problem-of-absolute-temporalization-universale-zeitlichkeit-als-selbsterhaltung-und-das-problem-der-absoluten-zeitigung",
-          "line_start": 1341,
-          "line_end": 1348,
+          "line_start": 1343,
+          "line_end": 1350,
           "words": 65
         },
         {
@@ -43669,8 +43669,8 @@
             "Text Nr. 52. Constitutive Temporal Problems and Their Significance for the Understanding of the World as Life-World (Konstitutive Zeitprobleme und ihre Bedeutung für das Verständnis der Welt als Lebenswelt)"
           ],
           "anchor": "text-nr-52-constitutive-temporal-problems-and-their-significance-for-the-understanding-of-the-world-as-life-world-konstitutive-zeitprobleme-und-ihre-bedeutung-fur-das-verstandnis-der-welt-als-lebenswelt",
-          "line_start": 1349,
-          "line_end": 1356,
+          "line_start": 1351,
+          "line_end": 1358,
           "words": 85
         },
         {
@@ -43682,8 +43682,8 @@
             "IX. Bodily Experience as Necessary Moment of World-Experience — Normality (Leiberfahrung als notwendiges Moment der Welterfahrung – Normalität)"
           ],
           "anchor": "ix-bodily-experience-as-necessary-moment-of-world-experience--normality-leiberfahrung-als-notwendiges-moment-der-welterfahrung--normalitat",
-          "line_start": 1357,
-          "line_end": 1360,
+          "line_start": 1359,
+          "line_end": 1362,
           "words": 1
         },
         {
@@ -43696,8 +43696,8 @@
             "Text Nr. 53. Bodily Experience in Its Founding Function for Objective World-Experience (Leiberfahrung in ihrer Fundierungsfunktion für objektive Welterfahrung)"
           ],
           "anchor": "text-nr-53-bodily-experience-in-its-founding-function-for-objective-world-experience-leiberfahrung-in-ihrer-fundierungsfunktion-fur-objektive-welterfahrung",
-          "line_start": 1361,
-          "line_end": 1364,
+          "line_start": 1363,
+          "line_end": 1366,
           "words": 2
         },
         {
@@ -43711,8 +43711,8 @@
             "§ 1. The Concrete Life-Worldly Reality \"Human Being\" in Its Body-Soul Double-Layeredness. The Double-Layeredness of the Body"
           ],
           "anchor": "the-concrete-life-worldly-reality-human-being-in-its-body-soul-double-layeredness-the-double-layeredness-of-the-body",
-          "line_start": 1365,
-          "line_end": 1370,
+          "line_start": 1367,
+          "line_end": 1372,
           "words": 111
         },
         {
@@ -43725,8 +43725,8 @@
             "Text Nr. 54. The Possibility of Intersubjectively Grasping Empirical Truth in Descriptions. Normal Sensibility and the Experience of the Anomalous (Die Möglichkeit, intersubjektiv die empirische Wahrheit in Deskriptionen zu erfassen. Normale Sinnlichkeit und Erfahren des Anomalen)"
           ],
           "anchor": "text-nr-54-the-possibility-of-intersubjectively-grasping-empirical-truth-in-descriptions-normal-sensibility-and-the-experience-of-the-anomalous-die-moglichkeit-intersubjektiv-die-empirische-wahrheit-in-deskriptionen-zu-erfassen-normale-sinnlichkeit-und-erfahren-des-anomalen",
-          "line_start": 1371,
-          "line_end": 1378,
+          "line_start": 1373,
+          "line_end": 1380,
           "words": 114
         },
         {
@@ -43739,8 +43739,8 @@
             "Text Nr. 55. Nature and Normal Bodiliness. Idea of Normality (Natur und normale Leiblichkeit. Idee der Normalität)"
           ],
           "anchor": "text-nr-55-nature-and-normal-bodiliness-idea-of-normality-natur-und-normale-leiblichkeit-idee-der-normalitat",
-          "line_start": 1379,
-          "line_end": 1382,
+          "line_start": 1381,
+          "line_end": 1384,
           "words": 2
         },
         {
@@ -43754,8 +43754,8 @@
             "§ 1. The Reference of the Appearing World to Normal Bodiliness"
           ],
           "anchor": "the-reference-of-the-appearing-world-to-normal-bodiliness",
-          "line_start": 1383,
-          "line_end": 1388,
+          "line_start": 1385,
+          "line_end": 1390,
           "words": 88
         },
         {
@@ -43768,8 +43768,8 @@
             "Text Nr. 56. Levels of Constitution of the Life-World and the Role of the Body (Stufen der Konstitution der Lebenswelt und die Rolle des Leibes)"
           ],
           "anchor": "text-nr-56-levels-of-constitution-of-the-life-world-and-the-role-of-the-body-stufen-der-konstitution-der-lebenswelt-und-die-rolle-des-leibes",
-          "line_start": 1389,
-          "line_end": 1396,
+          "line_start": 1391,
+          "line_end": 1398,
           "words": 60
         },
         {
@@ -43782,8 +43782,8 @@
             "Texts Nr. 57–58 and Supplements L–LII"
           ],
           "anchor": "texts-nr-5758-and-supplements-llii",
-          "line_start": 1397,
-          "line_end": 1402,
+          "line_start": 1399,
+          "line_end": 1404,
           "words": 95
         },
         {
@@ -43795,8 +43795,8 @@
             "X. Many Surrounding Worlds and the One True World — Relativity of Life-Worldly Truth (Viele Umwelten und die eine wahre Welt – Relativität lebensweltlicher Wahrheit)"
           ],
           "anchor": "x-many-surrounding-worlds-and-the-one-true-world--relativity-of-life-worldly-truth-viele-umwelten-und-die-eine-wahre-welt--relativitat-lebensweltlicher-wahrheit",
-          "line_start": 1403,
-          "line_end": 1406,
+          "line_start": 1405,
+          "line_end": 1408,
           "words": 1
         },
         {
@@ -43809,8 +43809,8 @@
             "Text Nr. 59. The \"In-Itself\" of the World Given Only Surrounding-Worldly. Communication of Individual Surrounding Worlds to the Intersubjective \"Surrounding World.\" Intentional Causality (Die Welt „an sich\" nur umweltlich gegeben)"
           ],
           "anchor": "text-nr-59-the-in-itself-of-the-world-given-only-surrounding-worldly-communication-of-individual-surrounding-worlds-to-the-intersubjective-surrounding-world-intentional-causality-die-welt-an-sich-nur-umweltlich-gegeben",
-          "line_start": 1407,
-          "line_end": 1410,
+          "line_start": 1409,
+          "line_end": 1412,
           "words": 2
         },
         {
@@ -43824,8 +43824,8 @@
             "§ 1. The Reference to Existing World in the Form of Reference to a Respective Surrounding World"
           ],
           "anchor": "the-reference-to-existing-world-in-the-form-of-reference-to-a-respective-surrounding-world",
-          "line_start": 1411,
-          "line_end": 1416,
+          "line_start": 1413,
+          "line_end": 1418,
           "words": 114
         },
         {
@@ -43838,8 +43838,8 @@
             "Text Nr. 60. Ontology or Phenomenology of the Aesthetic World. Transcendental Aesthetics as Transcendental Ontology and Phenomenology of the World (Ontologie bzw. Phänomenologie der ästhetischen Welt)"
           ],
           "anchor": "text-nr-60-ontology-or-phenomenology-of-the-aesthetic-world-transcendental-aesthetics-as-transcendental-ontology-and-phenomenology-of-the-world-ontologie-bzw-phanomenologie-der-asthetischen-welt",
-          "line_start": 1417,
-          "line_end": 1424,
+          "line_start": 1419,
+          "line_end": 1426,
           "words": 107
         },
         {
@@ -43852,8 +43852,8 @@
             "Text Nr. 61. The Final Factual Truth as Practical Idea. From the Relative to the Absolute Relativism (Die endgültige Sachwahrheit als praktische Idee. Vom relativen zum absoluten Relativismus)"
           ],
           "anchor": "text-nr-61-the-final-factual-truth-as-practical-idea-from-the-relative-to-the-absolute-relativism-die-endgultige-sachwahrheit-als-praktische-idee-vom-relativen-zum-absoluten-relativismus",
-          "line_start": 1425,
-          "line_end": 1428,
+          "line_start": 1427,
+          "line_end": 1430,
           "words": 3
         },
         {
@@ -43867,8 +43867,8 @@
             "§ 1"
           ],
           "anchor": "section",
-          "line_start": 1429,
-          "line_end": 1432,
+          "line_start": 1431,
+          "line_end": 1434,
           "words": 78
         },
         {
@@ -43882,8 +43882,8 @@
             "§ 2. Normality and Anomality"
           ],
           "anchor": "normality-and-anomality",
-          "line_start": 1433,
-          "line_end": 1438,
+          "line_start": 1435,
+          "line_end": 1440,
           "words": 73
         },
         {
@@ -43896,8 +43896,8 @@
             "Texts Nr. 62–64 and Supplements LIII–LV"
           ],
           "anchor": "texts-nr-6264-and-supplements-liiilv",
-          "line_start": 1439,
-          "line_end": 1446,
+          "line_start": 1441,
+          "line_end": 1448,
           "words": 186
         },
         {
@@ -43910,8 +43910,8 @@
             "Text Nr. 65. The Life-World as Perceptual World. Perception as \"Method\" of Life Itself (Die Lebenswelt als Wahrnehmungswelt. Wahrnehmung als „Methode\" des Lebens selbst)"
           ],
           "anchor": "text-nr-65-the-life-world-as-perceptual-world-perception-as-method-of-life-itself-die-lebenswelt-als-wahrnehmungswelt-wahrnehmung-als-methode-des-lebens-selbst",
-          "line_start": 1447,
-          "line_end": 1454,
+          "line_start": 1449,
+          "line_end": 1456,
           "words": 96
         },
         {
@@ -43924,8 +43924,8 @@
             "Supplement LVI"
           ],
           "anchor": "supplement-lvi",
-          "line_start": 1455,
-          "line_end": 1461,
+          "line_start": 1457,
+          "line_end": 1463,
           "words": 53
         }
       ]
@@ -45634,9 +45634,9 @@
       "author": "husserl",
       "title": "Husserl, Hua 43/2 — Studien zur Struktur des Bewusstseins",
       "wordpress_id": "412",
-      "sha256": "ab2091d0d2406e6ba2b503d9afa17940d2d708456d427e95c9ae4f669de6778c",
-      "lines": 519,
-      "words": 33567,
+      "sha256": "de3e5a483e12df5f193371e25a8ec4031915b2b37114f7b2f7f5a0e241c6dbd6",
+      "lines": 521,
+      "words": 33641,
       "url": "https://faultynode.github.io/commentaries/commentaries/husserl/husserliana-43-2-studien-zur-struktur-des-bewusstseins-commentary.html",
       "sections": [
         {
@@ -45661,8 +45661,8 @@
           ],
           "anchor": "hua-xliii2",
           "line_start": 9,
-          "line_end": 10,
-          "words": 0
+          "line_end": 12,
+          "words": 74
         },
         {
           "id": "h2-i-valuing-and-value-toward-a-theory-of-value",
@@ -45673,8 +45673,8 @@
             "I. Valuing and Value. Toward a Theory of Value"
           ],
           "anchor": "i-valuing-and-value-toward-a-theory-of-value",
-          "line_start": 11,
-          "line_end": 12,
+          "line_start": 13,
+          "line_end": 14,
           "words": 0
         },
         {
@@ -45687,8 +45687,8 @@
             "§ 1\\. Determinations of the Thing and Determinations of Value"
           ],
           "anchor": "determinations-of-the-thing-and-determinations-of-value",
-          "line_start": 13,
-          "line_end": 24,
+          "line_start": 15,
+          "line_end": 26,
           "words": 980
         },
         {
@@ -45701,8 +45701,8 @@
             "§ 2\\. Empirical Apperception and Apperception of Feeling. Do Belief and Pleasure Stand on the Same Level?"
           ],
           "anchor": "empirical-apperception-and-apperception-of-feeling-do-belief-and-pleasure-stand-on-the-same-level",
-          "line_start": 25,
-          "line_end": 58,
+          "line_start": 27,
+          "line_end": 60,
           "words": 2482
         },
         {
@@ -45715,8 +45715,8 @@
             "§ 3\\. Willing Is Not Value-Apperception. The Evaluability of Willing"
           ],
           "anchor": "willing-is-not-value-apperception-the-evaluability-of-willing",
-          "line_start": 59,
-          "line_end": 74,
+          "line_start": 61,
+          "line_end": 76,
           "words": 971
         },
         {
@@ -45729,8 +45729,8 @@
             "§ 4\\. Feeling-Motivation in Distinction from Empirical-Associative Motivation"
           ],
           "anchor": "feeling-motivation-in-distinction-from-empirical-associative-motivation",
-          "line_start": 75,
-          "line_end": 108,
+          "line_start": 77,
+          "line_end": 110,
           "words": 2961
         },
         {
@@ -45743,8 +45743,8 @@
             "§ 5\\. Valuing as an Act Founded in Perceiving. Fulfillment of the Value-Meaning. Immediate and Mediate Values"
           ],
           "anchor": "valuing-as-an-act-founded-in-perceiving-fulfillment-of-the-value-meaning-immediate-and-mediate-values",
-          "line_start": 109,
-          "line_end": 152,
+          "line_start": 111,
+          "line_end": 154,
           "words": 3421
         },
         {
@@ -45757,8 +45757,8 @@
             "§ 6\\. Sensing and Apperceptive Objectivation in Acts of Perceiving and Pleasing"
           ],
           "anchor": "sensing-and-apperceptive-objectivation-in-acts-of-perceiving-and-pleasing",
-          "line_start": 153,
-          "line_end": 192,
+          "line_start": 155,
+          "line_end": 194,
           "words": 2668
         },
         {
@@ -45771,8 +45771,8 @@
             "§ 7\\. The Relation of Joy, Wish, and Will to Valuing. The Foundation of Willing in Wishing"
           ],
           "anchor": "the-relation-of-joy-wish-and-will-to-valuing-the-foundation-of-willing-in-wishing",
-          "line_start": 193,
-          "line_end": 228,
+          "line_start": 195,
+          "line_end": 230,
           "words": 2480
         },
         {
@@ -45785,8 +45785,8 @@
             "Appendix I. The Foundation of the Acts of Feeling as Apperception of Feeling and as Meaning of Feeling"
           ],
           "anchor": "appendix-i-the-foundation-of-the-acts-of-feeling-as-apperception-of-feeling-and-as-meaning-of-feeling",
-          "line_start": 229,
-          "line_end": 238,
+          "line_start": 231,
+          "line_end": 240,
           "words": 513
         },
         {
@@ -45799,8 +45799,8 @@
             "Appendix II. Are There Spontaneous Gemütsakte as a Class of Reason-Acts Distinct from Theoretically Determining Thought-Acts?"
           ],
           "anchor": "appendix-ii-are-there-spontaneous-gemutsakte-as-a-class-of-reason-acts-distinct-from-theoretically-determining-thought-acts",
-          "line_start": 239,
-          "line_end": 250,
+          "line_start": 241,
+          "line_end": 252,
           "words": 533
         },
         {
@@ -45813,8 +45813,8 @@
             "Appendix III. Sensible Feeling as Immanent Time-Unity Is Not an Act Referred to the Sensation-Content"
           ],
           "anchor": "appendix-iii-sensible-feeling-as-immanent-time-unity-is-not-an-act-referred-to-the-sensation-content",
-          "line_start": 251,
-          "line_end": 264,
+          "line_start": 253,
+          "line_end": 266,
           "words": 591
         },
         {
@@ -45826,8 +45826,8 @@
             "II. The Arousal of Feelings Issuing from Objects, in Contrast to Valuation Aiming at Objects. The Question of the Feeling-Character of Valuing"
           ],
           "anchor": "ii-the-arousal-of-feelings-issuing-from-objects-in-contrast-to-valuation-aiming-at-objects-the-question-of-the-feeling-character-of-valuing",
-          "line_start": 265,
-          "line_end": 266,
+          "line_start": 267,
+          "line_end": 268,
           "words": 0
         },
         {
@@ -45840,8 +45840,8 @@
             "§ 1\\. The Differences of Intensity in the Aroused Feeling and in the Feeling-Light, in Contrast to the Differences of Value. The Arousal of Feeling-Acts by Value-Characterized Objects"
           ],
           "anchor": "the-differences-of-intensity-in-the-aroused-feeling-and-in-the-feeling-light-in-contrast-to-the-differences-of-value-the-arousal-of-feeling-acts-by-value-characterized-objects",
-          "line_start": 267,
-          "line_end": 284,
+          "line_start": 269,
+          "line_end": 286,
           "words": 1273
         },
         {
@@ -45854,8 +45854,8 @@
             "§ 2\\. Sensible Feelings as Feelings Whose Arousal Has No Valuing of the Object Underlying It. Is Valuing an Aroused Feeling?"
           ],
           "anchor": "sensible-feelings-as-feelings-whose-arousal-has-no-valuing-of-the-object-underlying-it-is-valuing-an-aroused-feeling",
-          "line_start": 285,
-          "line_end": 296,
+          "line_start": 287,
+          "line_end": 298,
           "words": 626
         },
         {
@@ -45868,8 +45868,8 @@
             "§ 3\\. The Fusion of the Sensation-Feeling with the Sensation-Content. The Feeling-Tone. The Distinction between the Taste-Pleasure and the Joy It Motivates over the Having of the Taste-Pleasure. The Transition of Joy into the Joyful Mood"
           ],
           "anchor": "the-fusion-of-the-sensation-feeling-with-the-sensation-content-the-feeling-tone-the-distinction-between-the-taste-pleasure-and-the-joy-it-motivates-over-the-having-of-the-taste-pleasure-the-transition-of-joy-into-the-joyful-mood",
-          "line_start": 297,
-          "line_end": 336,
+          "line_start": 299,
+          "line_end": 338,
           "words": 2374
         },
         {
@@ -45882,8 +45882,8 @@
             "§ 4\\. Wallowing in Fantasy — the Joy at Scientific Research: Experience-Pleasure as Presupposition of Joy as Valuing Pleasing. The Valuing Pleasing as Feeling-Apprehension"
           ],
           "anchor": "wallowing-in-fantasy--the-joy-at-scientific-research-experience-pleasure-as-presupposition-of-joy-as-valuing-pleasing-the-valuing-pleasing-as-feeling-apprehension",
-          "line_start": 337,
-          "line_end": 360,
+          "line_start": 339,
+          "line_end": 362,
           "words": 1259
         },
         {
@@ -45896,8 +45896,8 @@
             "Appendix IV. Sensation-Feeling and Object-Feeling"
           ],
           "anchor": "appendix-iv-sensation-feeling-and-object-feeling",
-          "line_start": 361,
-          "line_end": 372,
+          "line_start": 363,
+          "line_end": 374,
           "words": 639
         },
         {
@@ -45909,8 +45909,8 @@
             "Part III. The Analogy between Thought-Acts and Axiological Acts. Receptivity and Spontaneity in the Constitution of Being- and Value-Objectivities"
           ],
           "anchor": "part-iii-the-analogy-between-thought-acts-and-axiological-acts-receptivity-and-spontaneity-in-the-constitution-of-being--and-value-objectivities",
-          "line_start": 373,
-          "line_end": 374,
+          "line_start": 375,
+          "line_end": 376,
           "words": 0
         },
         {
@@ -45923,8 +45923,8 @@
             "§ 1\\. Affection, Apprehension, Turning-Toward, and Creative Act of the Understanding"
           ],
           "anchor": "affection-apprehension-turning-toward-and-creative-act-of-the-understanding",
-          "line_start": 375,
-          "line_end": 444,
+          "line_start": 377,
+          "line_end": 446,
           "words": 4275
         },
         {
@@ -45937,8 +45937,8 @@
             "§ 2\\. Theoretical Turning-Toward and Feeling-Turning-Toward"
           ],
           "anchor": "theoretical-turning-toward-and-feeling-turning-toward",
-          "line_start": 445,
-          "line_end": 462,
+          "line_start": 447,
+          "line_end": 464,
           "words": 893
         },
         {
@@ -45951,8 +45951,8 @@
             "§ 3\\. Turning-Toward as Mode of Liveliness, Grasping, and Thought-Positing. The Constitution of Empirical and Axiological Dependencies"
           ],
           "anchor": "turning-toward-as-mode-of-liveliness-grasping-and-thought-positing-the-constitution-of-empirical-and-axiological-dependencies",
-          "line_start": 463,
-          "line_end": 494,
+          "line_start": 465,
+          "line_end": 496,
           "words": 2322
         },
         {
@@ -45965,8 +45965,8 @@
             "§ 4\\. Feeling-Sensibility and Intentionality"
           ],
           "anchor": "feeling-sensibility-and-intentionality",
-          "line_start": 495,
-          "line_end": 519,
+          "line_start": 497,
+          "line_end": 521,
           "words": 1911
         }
       ]

@@ -2,7 +2,7 @@
   "schema_version": 1,
   "theme": "intentionalitaet",
   "commentary": "husserliana-43-2-studien-zur-struktur-des-bewusstseins-commentary",
-  "source_sha256": "ab2091d0d2406e6ba2b503d9afa17940d2d708456d427e95c9ae4f669de6778c",
+  "source_sha256": "de3e5a483e12df5f193371e25a8ec4031915b2b37114f7b2f7f5a0e241c6dbd6",
   "extracted_at": "2026-09-09",
   "extractor": {
     "agent": "claude-code",

@@ -8,6 +8,8 @@ wordpress_id: 412
 
 ## Hua XLIII/2
 
+The manuscripts gathered here are dated only where the editors date them, and this commentary reports those dates as it reaches them: Appendix IV to Part II is placed in September 1911, and the manuscript of Part III § 4 is headed *Anfang November 1911*. Part I and the body of Part II carry no date in the volume, though § 5 refers back to the 1908/09 ethics lectures (Hua XXVIII) as already past.
+
 ## **I. Valuing and Value. Toward a Theory of Value**
 
 ### **§ 1\. Determinations of the Thing and Determinations of Value**
