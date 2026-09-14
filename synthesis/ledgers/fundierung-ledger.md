@@ -90,6 +90,52 @@
 
 *Partial pass: Covers Introduction (¶¶1-48) establishing foundational program, and foundational sections (¶¶49-190) on how perception as appearance-stratum grounds doxic position-takings and how perceptual manifolds are constituted through kinaesthetic motivation. Focused on the doctrine of layered constitution where each stratum presupposes and is built upon lower strata.*
 
+### 1913-1928 - Husserl, Hua 3 — Ideas I, Parts 3–4
+
+`husserliana-3-ideas-i-parts-3-4-commentary`
+
+- **presupposed** · `fundierung/husserliana-3/001` · *Valuing founded on presenting*
+  A valuing act is founded on a presenting act; the valuing-layer is a non-self-sufficient layer that can be added to or removed from the underlying presentation without ceasing to be concretely complete.
+  `husserliana-3-ideas-i-parts-3-4-commentary#h3-s-95-the-analogous-distinctions-in-the-emotional-and-volitional-sphere` · [§ 95\. The Analogous Distinctions in the Emotional and Volitional Sphere](https://faultynode.github.io/commentaries/commentaries/husserl/husserliana-3-ideas-i-parts-3-4-commentary.html#the-analogous-distinctions-in-the-emotional-and-volitional-sphere)
+  > A valuing is founded on a presenting (one values what one presents); the valuing-layer can be added to or removed from the underlying presentation
+
+- **presupposed** · `fundierung/husserliana-3/002` · *Multi-layered intentional structure of feeling*
+  Emotional and volitional acts possess multiple intentional layers: a founding presentation-layer plus a founded valuing- or willing-layer, where the higher layer is non-self-sufficient.
+  `husserliana-3-ideas-i-parts-3-4-commentary#h3-s-95-the-analogous-distinctions-in-the-emotional-and-volitional-sphere` · [§ 95\. The Analogous Distinctions in the Emotional and Volitional Sphere](https://faultynode.github.io/commentaries/commentaries/husserl/husserliana-3-ideas-i-parts-3-4-commentary.html#the-analogous-distinctions-in-the-emotional-and-volitional-sphere)
+  > So these acts are multi-layered: a founding presentation-layer plus a founded valuing- or willing-layer
+
+- **presupposed** · `fundierung/husserliana-3/003` · *Value-objectity implies the mere thing*
+  The value-objectity includes and implies the mere thing as its substrate, constituting a new objective layer by adding value-character to the thing-substrate.
+  `husserliana-3-ideas-i-parts-3-4-commentary#h3-s-95-the-analogous-distinctions-in-the-emotional-and-volitional-sphere` · [§ 95\. The Analogous Distinctions in the Emotional and Volitional Sphere](https://faultynode.github.io/commentaries/commentaries/husserl/husserliana-3-ideas-i-parts-3-4-commentary.html#the-analogous-distinctions-in-the-emotional-and-volitional-sphere)
+  > The value-objectity implies its thing; it brings in, as a new objective layer, the Wertheit
+
+- **presupposed** · `fundierung/husserliana-3/004` · *Analysis restricted to lower stratum of presentations*
+  Initial phenomenological analysis studies only the lower stratum of experience—the simple sensuous presentations—as the necessary foundation before extending to founded (higher) acts of feeling and willing.
+  `husserliana-3-ideas-i-parts-3-4-commentary#h3-s-116-transition-to-new-analyses-the-founded-noeses-and-their-noematic-correlate` · [§ 116\. Transition to New Analyses. The Founded Noeses and their Noematic Correlates](https://faultynode.github.io/commentaries/commentaries/husserl/husserliana-3-ideas-i-parts-3-4-commentary.html#transition-to-new-analyses-the-founded-noeses-and-their-noematic-correlates)
+  > So the analyses so far treated only the lower stratum (the simple sensuous presentations). The task now is to extend to the founded (higher) acts (feeling, willing)
+
+- **presupposed** · `fundierung/husserliana-3/005` · *New sense founded in underlying noesis*
+  Founded acts constitute a new sense-dimension that is founded in and encloses the sense of the underlying noesis, bringing entirely new value-characters and value-objectities to appearance.
+  `husserliana-3-ideas-i-parts-3-4-commentary#h3-s-116-transition-to-new-analyses-the-founded-noeses-and-their-noematic-correlate` · [§ 116\. Transition to New Analyses. The Founded Noeses and their Noematic Correlates](https://faultynode.github.io/commentaries/commentaries/husserl/husserliana-3-ideas-i-parts-3-4-commentary.html#transition-to-new-analyses-the-founded-noeses-and-their-noematic-correlates)
+  > there constitutes itself a new sense, which is founded in that of the underlying noesis, at the same time enclosing it
+
+- **presupposed** · `fundierung/husserliana-3/006` · *Value-objectity as founded on mere thing*
+  The value-object (the artwork, the beautiful thing) is a new founded objectity constituted by founded valuing acts on top of and dependent upon the mere thing.
+  `husserliana-3-ideas-i-parts-3-4-commentary#h3-s-116-transition-to-new-analyses-the-founded-noeses-and-their-noematic-correlate` · [§ 116\. Transition to New Analyses. The Founded Noeses and their Noematic Correlates](https://faultynode.github.io/commentaries/commentaries/husserl/husserliana-3-ideas-i-parts-3-4-commentary.html#transition-to-new-analyses-the-founded-noeses-and-their-noematic-correlates)
+  > with it constitute themselves no new determination-pieces of the mere "things," but values of the things, value-characters (Wertheiten), or concrete value-objectities
+
+- **presupposed** · `fundierung/husserliana-3/007` · *Thing-constitution through strata and stages*
+  The constitution of a transcendental thing is determined by different stages and strata, each constituting its own partial unity that serves as a necessary middle-member for the full constitution of the thing.
+  `husserliana-3-ideas-i-parts-3-4-commentary#h3-s-151-strata-of-the-transcendental-constitution-of-the-thing-supplements` · [§ 151\. Strata of the Transcendental Constitution of the Thing. Supplements](https://faultynode.github.io/commentaries/commentaries/husserl/husserliana-3-ideas-i-parts-3-4-commentary.html#strata-of-the-transcendental-constitution-of-the-thing-supplements)
+  > Every stage and every stratum in the stage is characterized thereby, that it constitutes an own unity, which on its side is necessary middle-member for the full constitution of the thing
+
+- **presupposed** · `fundierung/husserliana-3/008` · *Intersubjective constitution of the objective thing*
+  The intersubjectively-identical thing is a higher-order constitutive unity founded on and constituted through empathy—the experience of other subjects—which unifies the separate perception-manifolds of a plurality of experiencing egos.
+  `husserliana-3-ideas-i-parts-3-4-commentary#h3-s-151-strata-of-the-transcendental-constitution-of-the-thing-supplements` · [§ 151\. Strata of the Transcendental Constitution of the Thing. Supplements](https://faultynode.github.io/commentaries/commentaries/husserl/husserliana-3-ideas-i-parts-3-4-commentary.html#strata-of-the-transcendental-constitution-of-the-thing-supplements)
+  > The intersubjectively-identical thing (the "objective" thing) is a higher-order constitutive unity, constituted through **empathy** (Einfühlung) — the experience of other subjects
+
+*Partial pass: Extracts from sections 95, 96, 116, 117, and 151-152 which contain explicit treatment of founded acts, layered constitution, and the dependence of higher objectivities on lower strata. Focuses on emotional/volitional founding on perception, value-constitution, and transcendental stratification.*
+
 ### 1921 - Husserl, Hua 19/2 — Sixth Logical Investigation
 
 `husserliana-19-2-sixth-logical-investigation-commentary`
@@ -257,52 +303,6 @@
   > *To be oneself what one receives*
 
 *Partial pass: Covers §37 on the internal structure of immanence (what excludes transcendence from the essence) and §42 on the ontological determination of situation (the structural dédoublement). Focused on founding relations between transcendence and immanence, freedom and thrownness.*
-
-### undated - Husserl, Hua 3 — Ideas I, Parts 3–4
-
-`husserliana-3-ideas-i-parts-3-4-commentary`
-
-- **presupposed** · `fundierung/husserliana-3/001` · *Valuing founded on presenting*
-  A valuing act is founded on a presenting act; the valuing-layer is a non-self-sufficient layer that can be added to or removed from the underlying presentation without ceasing to be concretely complete.
-  `husserliana-3-ideas-i-parts-3-4-commentary#h3-s-95-the-analogous-distinctions-in-the-emotional-and-volitional-sphere` · [§ 95\. The Analogous Distinctions in the Emotional and Volitional Sphere](https://faultynode.github.io/commentaries/commentaries/husserl/husserliana-3-ideas-i-parts-3-4-commentary.html#the-analogous-distinctions-in-the-emotional-and-volitional-sphere)
-  > A valuing is founded on a presenting (one values what one presents); the valuing-layer can be added to or removed from the underlying presentation
-
-- **presupposed** · `fundierung/husserliana-3/002` · *Multi-layered intentional structure of feeling*
-  Emotional and volitional acts possess multiple intentional layers: a founding presentation-layer plus a founded valuing- or willing-layer, where the higher layer is non-self-sufficient.
-  `husserliana-3-ideas-i-parts-3-4-commentary#h3-s-95-the-analogous-distinctions-in-the-emotional-and-volitional-sphere` · [§ 95\. The Analogous Distinctions in the Emotional and Volitional Sphere](https://faultynode.github.io/commentaries/commentaries/husserl/husserliana-3-ideas-i-parts-3-4-commentary.html#the-analogous-distinctions-in-the-emotional-and-volitional-sphere)
-  > So these acts are multi-layered: a founding presentation-layer plus a founded valuing- or willing-layer
-
-- **presupposed** · `fundierung/husserliana-3/003` · *Value-objectity implies the mere thing*
-  The value-objectity includes and implies the mere thing as its substrate, constituting a new objective layer by adding value-character to the thing-substrate.
-  `husserliana-3-ideas-i-parts-3-4-commentary#h3-s-95-the-analogous-distinctions-in-the-emotional-and-volitional-sphere` · [§ 95\. The Analogous Distinctions in the Emotional and Volitional Sphere](https://faultynode.github.io/commentaries/commentaries/husserl/husserliana-3-ideas-i-parts-3-4-commentary.html#the-analogous-distinctions-in-the-emotional-and-volitional-sphere)
-  > The value-objectity implies its thing; it brings in, as a new objective layer, the Wertheit
-
-- **presupposed** · `fundierung/husserliana-3/004` · *Analysis restricted to lower stratum of presentations*
-  Initial phenomenological analysis studies only the lower stratum of experience—the simple sensuous presentations—as the necessary foundation before extending to founded (higher) acts of feeling and willing.
-  `husserliana-3-ideas-i-parts-3-4-commentary#h3-s-116-transition-to-new-analyses-the-founded-noeses-and-their-noematic-correlate` · [§ 116\. Transition to New Analyses. The Founded Noeses and their Noematic Correlates](https://faultynode.github.io/commentaries/commentaries/husserl/husserliana-3-ideas-i-parts-3-4-commentary.html#transition-to-new-analyses-the-founded-noeses-and-their-noematic-correlates)
-  > So the analyses so far treated only the lower stratum (the simple sensuous presentations). The task now is to extend to the founded (higher) acts (feeling, willing)
-
-- **presupposed** · `fundierung/husserliana-3/005` · *New sense founded in underlying noesis*
-  Founded acts constitute a new sense-dimension that is founded in and encloses the sense of the underlying noesis, bringing entirely new value-characters and value-objectities to appearance.
-  `husserliana-3-ideas-i-parts-3-4-commentary#h3-s-116-transition-to-new-analyses-the-founded-noeses-and-their-noematic-correlate` · [§ 116\. Transition to New Analyses. The Founded Noeses and their Noematic Correlates](https://faultynode.github.io/commentaries/commentaries/husserl/husserliana-3-ideas-i-parts-3-4-commentary.html#transition-to-new-analyses-the-founded-noeses-and-their-noematic-correlates)
-  > there constitutes itself a new sense, which is founded in that of the underlying noesis, at the same time enclosing it
-
-- **presupposed** · `fundierung/husserliana-3/006` · *Value-objectity as founded on mere thing*
-  The value-object (the artwork, the beautiful thing) is a new founded objectity constituted by founded valuing acts on top of and dependent upon the mere thing.
-  `husserliana-3-ideas-i-parts-3-4-commentary#h3-s-116-transition-to-new-analyses-the-founded-noeses-and-their-noematic-correlate` · [§ 116\. Transition to New Analyses. The Founded Noeses and their Noematic Correlates](https://faultynode.github.io/commentaries/commentaries/husserl/husserliana-3-ideas-i-parts-3-4-commentary.html#transition-to-new-analyses-the-founded-noeses-and-their-noematic-correlates)
-  > with it constitute themselves no new determination-pieces of the mere "things," but values of the things, value-characters (Wertheiten), or concrete value-objectities
-
-- **presupposed** · `fundierung/husserliana-3/007` · *Thing-constitution through strata and stages*
-  The constitution of a transcendental thing is determined by different stages and strata, each constituting its own partial unity that serves as a necessary middle-member for the full constitution of the thing.
-  `husserliana-3-ideas-i-parts-3-4-commentary#h3-s-151-strata-of-the-transcendental-constitution-of-the-thing-supplements` · [§ 151\. Strata of the Transcendental Constitution of the Thing. Supplements](https://faultynode.github.io/commentaries/commentaries/husserl/husserliana-3-ideas-i-parts-3-4-commentary.html#strata-of-the-transcendental-constitution-of-the-thing-supplements)
-  > Every stage and every stratum in the stage is characterized thereby, that it constitutes an own unity, which on its side is necessary middle-member for the full constitution of the thing
-
-- **presupposed** · `fundierung/husserliana-3/008` · *Intersubjective constitution of the objective thing*
-  The intersubjectively-identical thing is a higher-order constitutive unity founded on and constituted through empathy—the experience of other subjects—which unifies the separate perception-manifolds of a plurality of experiencing egos.
-  `husserliana-3-ideas-i-parts-3-4-commentary#h3-s-151-strata-of-the-transcendental-constitution-of-the-thing-supplements` · [§ 151\. Strata of the Transcendental Constitution of the Thing. Supplements](https://faultynode.github.io/commentaries/commentaries/husserl/husserliana-3-ideas-i-parts-3-4-commentary.html#strata-of-the-transcendental-constitution-of-the-thing-supplements)
-  > The intersubjectively-identical thing (the "objective" thing) is a higher-order constitutive unity, constituted through **empathy** (Einfühlung) — the experience of other subjects
-
-*Partial pass: Extracts from sections 95, 96, 116, 117, and 151-152 which contain explicit treatment of founded acts, layered constitution, and the dependence of higher objectivities on lower strata. Focuses on emotional/volitional founding on perception, value-constitution, and transcendental stratification.*
 
 ## Not covered by this ledger
 

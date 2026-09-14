@@ -6,6 +6,8 @@ wordpress_id: 201
 
 # Husserl, *Formal and Transcendental Logic* — Introduction and Part I: Paragraph-by-Paragraph Analysis
 
+*The text is the original, unaltered version of the work as it appeared in 1929 in the* Jahrbuch für Philosophie und phänomenologische Forschung *(Yearbook for Philosophy and Phenomenological Research) and in an offprint from Niemeyer (Halle/Saale). The pencil annotations Husserl entered in his own copy in 1937, on returning to the work, are printed in an apparatus below the text rather than within it. Edited by Paul Janssen (Husserliana XVII).*
+
 ---
 
 ## INTRODUCTION

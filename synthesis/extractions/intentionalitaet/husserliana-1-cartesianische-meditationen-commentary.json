@@ -2,7 +2,7 @@
   "schema_version": 1,
   "theme": "intentionalitaet",
   "commentary": "husserliana-1-cartesianische-meditationen-commentary",
-  "source_sha256": "e3798169d749d13a00bde43b2e4b4c47b7c3db4944199cfb4eb09148c0824eb6",
+  "source_sha256": "bee73d77d43cf9c95a172aad18ba131f7a2b40d7825e1243ed23956751395140",
   "extracted_at": "2026-09-09",
   "extractor": {
     "agent": "claude-code",
