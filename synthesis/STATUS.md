@@ -22,6 +22,17 @@ Next candidates, by term density:
 
 ### intentionalitaet - intentionality
 
+4 commentaries extracted · 50 units · 2 absences · 4 partial
+
+Next candidates, by term density:
+
+- [ ] `bernet-la-vie-du-sujet-commentary` (1994) - 630 hits
+- [ ] `husserliana-19-1-fifth-logical-investigation-commentary` (undated) - 281 hits
+- [ ] `husserliana-33-die-bernauer-manuskripte-uber-das-zeitbewusstsein-commentary` (undated) - 182 hits
+- [ ] `husserliana-9-phenomenological-psychology-commentary` (1925) - 166 hits
+- [ ] `heidegger-ga-24-die-grundprobleme-der-phanomenologie-commentary` (undated) - 133 hits
+- [ ] `henry-philosophie-et-phenomenologie-du-corps-commentary` (1965) - 127 hits
+- ... 37 more; see `synthesis_query.py --theme intentionalitaet`
 29 commentaries extracted · 600 units · 3 absences · 29 partial
 
 Next candidates, by term density:
@@ -134,6 +145,12 @@ Next candidates, by term density:
 
 ## Inheritance index
 
+4 commentaries · 17 engagements
+
+- `franck-chair-et-corps-commentary` - 12 engagements (partial)
+- `heidegger-ga-19-platon-sophistes-commentary` - 4 engagements (partial)
+- `husserl-thing-and-space-commentary` - 0 engagements (partial)
+- `husserliana-11-analyses-concerning-passive-and-active-synthesis-commentary` - 1 engagements (partial)
 27 commentaries · 204 engagements
 
 - `derrida-introduction-a-lorigine-de-la-geometrie-commentary` - 10 engagements (partial)
