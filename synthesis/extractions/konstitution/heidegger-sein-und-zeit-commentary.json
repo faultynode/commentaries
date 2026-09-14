@@ -1,0 +1,125 @@
+{
+  "schema_version": 1,
+  "theme": "konstitution",
+  "commentary": "heidegger-sein-und-zeit-commentary",
+  "source_sha256": "94b7fcaaa8e87cacbb03c01d9c915e9725572cda2849afa28f9a800cc7c63551",
+  "extracted_at": "2026-09-14",
+  "extractor": {
+    "agent": "claude-code",
+    "prompt": "synthesis-pipeline/extraction-prompt.md"
+  },
+  "coverage": "partial",
+  "coverage_note": "SS 4, 6, 10, 12, 14, 38 and 65, the places where the term carries weight. The pass records a finding that governs the whole file: in this commentary 'constitution' almost always renders Seinsverfassung / Grundverfassung - Dasein's constitution of being, a make-up or state - and not Husserlian Konstitution. The German Verfassung occurs nowhere in the file, so nothing in the text marks the difference. The two places where the Husserlian sense is in view (SS 10 and 14) are both reports of Husserl's position. Sections not listed above have not been extracted.",
+  "units": [
+    {
+      "id": "konstitution/sz/001",
+      "locator": "heidegger-sein-und-zeit-commentary#h4-s-4-the-ontic-priority-of-the-question-of-being",
+      "primary_locator": "SZ S 4",
+      "stratum": "sz-1927",
+      "term": "constitution of being",
+      "claim": "Existentiality is the constitution of being of the being that exists, and the idea of being in general already lies in the idea of such a constitution of being.",
+      "status": "introduced",
+      "quote": "existentiality is the constitution of being of the being that exists, and in the idea of such a constitution of being already lies the idea of being in general"
+    },
+    {
+      "id": "konstitution/sz/002",
+      "locator": "heidegger-sein-und-zeit-commentary#h4-s-6-the-task-of-a-destruction-of-the-history-of-ontology",
+      "primary_locator": "SZ S 6",
+      "stratum": "sz-1927",
+      "term": "constitution of being",
+      "claim": "Historicity means the constitution of being of the happening of Dasein as such, on whose ground alone world-historical happening is possible.",
+      "status": "presupposed",
+      "quote": "Historicity means the constitution of being of the \"happening\" (Geschehen) of Dasein as such"
+    },
+    {
+      "id": "konstitution/sz/003",
+      "locator": "heidegger-sein-und-zeit-commentary#h5-s-10-the-demarcation-of-the-analytic-of-dasein-against-anthropology-psychology-a",
+      "primary_locator": "SZ S 10",
+      "stratum": "sz-1927",
+      "term": "constitution",
+      "claim": "Husserl is reported as demanding for the unity of the person an essentially different constitution than for natural things.",
+      "status": "presupposed",
+      "quote": "the same is emphasized that Husserl intimates when he demands for the unity of the person an essentially different constitution than for natural things."
+    },
+    {
+      "id": "konstitution/sz/004",
+      "locator": "heidegger-sein-und-zeit-commentary#h5-s-12-the-predelineation-of-being-in-the-world-from-the-orientation-toward-being",
+      "primary_locator": "SZ S 12",
+      "stratum": "sz-1927",
+      "term": "constitution of being",
+      "claim": "Existence and mineness must be understood a priori on the ground of the constitution of being called being-in-the-world, and the analytic proceeds by interpreting that constitution.",
+      "status": "introduced",
+      "quote": "these determinations of Dasein's being must be seen and understood a priori on the ground of that constitution of being which we call being-in-the-world (In-der-Welt-sein) — and the right approach of the analytic consists in the interpretation of this constitution."
+    },
+    {
+      "id": "konstitution/sz/005",
+      "locator": "heidegger-sein-und-zeit-commentary#h5-s-12-the-predelineation-of-being-in-the-world-from-the-orientation-toward-being",
+      "primary_locator": "SZ S 12",
+      "stratum": "sz-1927",
+      "term": "a priori necessary constitution",
+      "claim": "Being-in-the-world is an a priori necessary constitution of Dasein but far from sufficient to determine its being fully.",
+      "status": "revised",
+      "quote": "Being-in-the-world is an a priori necessary constitution of Dasein, but far from sufficient to determine its being fully."
+    },
+    {
+      "id": "konstitution/sz/006",
+      "locator": "heidegger-sein-und-zeit-commentary#h5-s-14-the-idea-of-the-worldhood-of-the-world-in-general",
+      "primary_locator": "SZ S 14",
+      "stratum": "sz-1927",
+      "term": "stratified constitution",
+      "claim": "The reconstructed program in which natural thinghood founds value-predicates and these the cultural object is identified as Husserl's stratified constitution, and its cogency is called the trap.",
+      "status": "criticized",
+      "quote": "Husserl's stratified constitution (nature founding value-predicates founding the cultural object) is recognizably the model — and its very cogency is the trap: the direction is unambiguous and, the next unit will say, unambiguously wrong."
+    },
+    {
+      "id": "konstitution/sz/007",
+      "locator": "heidegger-sein-und-zeit-commentary#h6-s-38-falling-and-thrownness",
+      "primary_locator": "SZ S 38",
+      "stratum": "sz-1927",
+      "term": "basic constitution",
+      "claim": "The mode of being of the basic constitution had remained phenomenally unattended behind the analysis of the constitution itself, and falling shows that the supposed framework co-constitutes Dasein's mode of being.",
+      "status": "revised",
+      "quote": "the mode of being of this constitution remained phenomenally unattended behind the analysis of the constitution itself."
+    },
+    {
+      "id": "konstitution/sz/008",
+      "locator": "heidegger-sein-und-zeit-commentary#h6-s-38-falling-and-thrownness",
+      "primary_locator": "SZ S 38",
+      "stratum": "sz-1927",
+      "term": "co-constitutes",
+      "claim": "The framework within which Dasein's comportments were thought to run co-constitutes Dasein's mode of being, so that being-in-the-world is not a stage but itself happens.",
+      "status": "revised",
+      "quote": "But this supposed framework itself co-constitutes the mode of being of Dasein: an existential mode of being-in-the-world documents itself in the phenomenon of falling."
+    },
+    {
+      "id": "konstitution/sz/009",
+      "locator": "heidegger-sein-und-zeit-commentary#h5-s-65-temporality-as-the-ontological-sense-of-care",
+      "primary_locator": "SZ S 65",
+      "stratum": "sz-1927",
+      "term": "constitution of being",
+      "claim": "The whereupon of the projected, so constituted being, is what makes possible this constitution of being as care.",
+      "status": "presupposed",
+      "quote": "the whereupon of this projected — of the disclosed, so constituted being — is what makes possible this constitution of being as care."
+    },
+    {
+      "id": "konstitution/sz/010",
+      "locator": "heidegger-sein-und-zeit-commentary#h5-s-65-temporality-as-the-ontological-sense-of-care",
+      "primary_locator": "SZ S 65",
+      "stratum": "sz-1927",
+      "term": "constitutes",
+      "claim": "Temporality makes possible the unity of existence, facticity and falling, and so constitutes originally the totality of the care-structure, which is not pieced together by accumulation.",
+      "status": "introduced",
+      "quote": "Temporality makes possible the unity of existence, facticity, and falling, and thus constitutes originally the totality of the care-structure. The moments of care are not pieced together by accumulation"
+    }
+  ],
+  "absences": [
+    {
+      "locator": "heidegger-sein-und-zeit-commentary#h6-c-reality-and-care",
+      "expected_because": "Reality and care is where the being of the real world is settled against the epistemological problem of the external world - the Husserlian constitution of the real would have to be met here if anywhere. No term of the family occurs in the section."
+    },
+    {
+      "locator": "heidegger-sein-und-zeit-commentary#h4-s-1-the-necessity-of-an-explicit-retrieval-of-the-question-of-being",
+      "expected_because": "The section sets out the necessity of retrieving the question of being against the tradition's presuppositions, the point at which a transcendental constitution of the sense of being would be the obvious rival account. The term does not appear."
+    }
+  ]
+}

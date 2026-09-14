@@ -1,0 +1,135 @@
+{
+  "schema_version": 1,
+  "theme": "konstitution",
+  "commentary": "husserl-thing-and-space-commentary",
+  "source_sha256": "e0d0451d72ec96da3d81ae5556439940774ed1e7a51cb3d8a40eb1cf5affde23",
+  "extracted_at": "2026-09-14",
+  "extractor": {
+    "agent": "claude-code",
+    "prompt": "synthesis-pipeline/extraction-prompt.md"
+  },
+  "coverage": "partial",
+  "coverage_note": "The sections where constitution is named as the problem or as a result: SS 1 and 7 (the task), S 44 (the turn to constitutive analysis), SS 56, 61 and 68 (the constitution of space out of kinaesthetic motivation) and S 83 (the limit at the Body). The commentary runs to 93 sections and carries the term family throughout; the chapters of detailed kinaesthetic analysis (SS 45-60, 62-82, 84-93) have not been extracted.",
+  "units": [
+    {
+      "id": "konstitution/ding/001",
+      "locator": "husserl-thing-and-space-commentary#h3-s1-the-world-of-natural-experience-and-the-world-of-scientific-theory",
+      "primary_locator": "Thing and Space S 1",
+      "stratum": "ding-1907",
+      "term": "constitution",
+      "claim": "Beginning from lower and common experience is justified because the phenomenology of straightforward perceptual experience is the foundation without which the higher constitutive problems cannot be posed.",
+      "status": "presupposed",
+      "quote": "without fear that this starting point is irrelevant to the highest problems of the constitution of scientific reality. The phenomenology of straightforward perceptual experience is not a detour or a preliminary exercise; it is the foundation without which the higher constitutive problems cannot even be posed."
+    },
+    {
+      "id": "konstitution/ding/002",
+      "locator": "husserl-thing-and-space-commentary#h3-s7-preliminary-indication-of-the-method-of-the-further-investigation",
+      "primary_locator": "Thing and Space S 7",
+      "stratum": "ding-1907",
+      "term": "constitution of the object in the phenomenon",
+      "claim": "The fundamental difficulty is named as the constitution of the object in the phenomenon: how evident assertions are possible about an objectivity not actually given in the phenomenon.",
+      "status": "introduced",
+      "quote": "The fundamental difficulty of the **constitution of the object in the phenomenon** comes to the fore: how are evident assertions possible about an objectivity that is not actually given in the phenomenon?"
+    },
+    {
+      "id": "konstitution/ding/003",
+      "locator": "husserl-thing-and-space-commentary#h3-s44-preliminary-indication-of-the-further-themes-of-the-investigation",
+      "primary_locator": "Thing and Space S 44",
+      "stratum": "ding-1907",
+      "term": "constitution",
+      "claim": "The task is the constitution of the identical corporeal thing in the manifold of its appearances, and all spatiality is constituted in movement of the Object and of the Ego.",
+      "status": "introduced",
+      "quote": "the constitution of the identical corporeal thing in the manifold of its appearances. These appearances are **appearances of movement**: all spatiality is constituted — comes to givenness — in movement, both the movement of the Object and the movement of the Ego"
+    },
+    {
+      "id": "konstitution/ding/004",
+      "locator": "husserl-thing-and-space-commentary#h3-s44-preliminary-indication-of-the-further-themes-of-the-investigation",
+      "primary_locator": "Thing and Space S 44",
+      "stratum": "ding-1907",
+      "term": "constitutive questions",
+      "claim": "The guiding questions for the rest of the lectures are put as questions of what constitutes three-dimensional spatiality, the corporeal thing in its identity, and its movement and position relative to the Ego-centre.",
+      "status": "introduced",
+      "quote": "What constitutes three-dimensional spatiality in the manifold of appearances? What constitutes the corporeal thing in its identity? What constitutes its manifoldly possible movement and its position in relation to the Ego-center?"
+    },
+    {
+      "id": "konstitution/ding/005",
+      "locator": "husserl-thing-and-space-commentary#h3-s44-preliminary-indication-of-the-further-themes-of-the-investigation",
+      "primary_locator": "Thing and Space S 44",
+      "stratum": "ding-1907",
+      "term": "doubly constituted",
+      "claim": "Spatiality is doubly constituted, once visually and once tactually, so the question divides into visual space, tactile space, and the identity of the space materialized in both.",
+      "status": "introduced",
+      "quote": "Since spatiality is **doubly constituted** — once with visual and once with tactile determinations (as §22 established) — the questions can be separated: how is visual space constituted, and how is tactile space constituted, insofar as they are constituted independently of one another?"
+    },
+    {
+      "id": "konstitution/ding/006",
+      "locator": "husserl-thing-and-space-commentary#h3-s56-the-temporal-structure-of-the-kinaesthetic-sequences",
+      "primary_locator": "Thing and Space S 56",
+      "stratum": "ding-1907",
+      "term": "constituted",
+      "claim": "The spatial thing is constituted in an appearance-manifold traversable in any direction and at any rate, unlike temporal objects whose constitution depends on the temporal form of their presentation.",
+      "status": "revised",
+      "quote": "the spatial thing is constituted in an appearance-manifold that can be traversed in any direction and at any rate, unlike temporal objects (melodies) whose constitution depends essentially on the temporal form of their presentation."
+    },
+    {
+      "id": "konstitution/ding/007",
+      "locator": "husserl-thing-and-space-commentary#h3-s61-preliminary-indication-of-the-constitution-of-space-space-as-the-ordered-con",
+      "primary_locator": "Thing and Space S 61",
+      "stratum": "ding-1907",
+      "term": "constituted",
+      "claim": "In the progression of the perceptual continuity there is constituted the appearance of infinite space and of the infinite world.",
+      "status": "introduced",
+      "quote": "in the progression of the perceptual continuity, which always has the character of a unitary perception, there is constituted the appearance of infinite space and of the infinite world."
+    },
+    {
+      "id": "konstitution/ding/008",
+      "locator": "husserl-thing-and-space-commentary#h3-s61-preliminary-indication-of-the-constitution-of-space-space-as-the-ordered-con",
+      "primary_locator": "Thing and Space S 61",
+      "stratum": "ding-1907",
+      "term": "constituted",
+      "claim": "The order of space is constituted in the consciousness of unity that runs through the modifications of the ordered contexts of images.",
+      "status": "introduced",
+      "quote": "In the consciousness of unity that penetrates these modifications of the ordered contexts, the order of space is constituted."
+    },
+    {
+      "id": "konstitution/ding/009",
+      "locator": "husserl-thing-and-space-commentary#h3-s68-the-special-significance-of-expansion-for-the-constitution-of-space",
+      "primary_locator": "Thing and Space S 68",
+      "stratum": "ding-1907",
+      "term": "constituted",
+      "claim": "Space is constituted primarily with absolutely identical objectivities, which serve as the norm for the subsequent constitution of changing objectivities.",
+      "status": "revised",
+      "quote": "Space is constituted *primarily* with absolutely identical objectivities — things that are stationary and qualitatively unchanged. These serve as the \"norm or basic standard\" for the subsequent constitution of changing objectivities."
+    },
+    {
+      "id": "konstitution/ding/010",
+      "locator": "husserl-thing-and-space-commentary#h3-s68-the-special-significance-of-expansion-for-the-constitution-of-space",
+      "primary_locator": "Thing and Space S 68",
+      "stratum": "ding-1907",
+      "term": "constitutive significance",
+      "claim": "Not every arbitrary expansion has constitutive significance for the constitution of an absolutely identical objectivity and thereby of an absolutely fixed spatiality.",
+      "status": "revised",
+      "quote": "not every arbitrary expansion can have constitutive significance for the constitution of an absolutely identical objectivity, and thereby for the constitution of an absolutely fixed spatiality."
+    },
+    {
+      "id": "konstitution/ding/011",
+      "locator": "husserl-thing-and-space-commentary#h3-s83-the-self-movement-and-the-being-moved-of-the-body-limits-of-the-kinaesthetic",
+      "primary_locator": "Thing and Space S 83",
+      "stratum": "ding-1907",
+      "term": "constitution of the Leib",
+      "claim": "Once the kinaesthetic frame of reference itself moves, the analysis must take up the constitution of the lived Body and the anomalies that distinguish it from every other thing.",
+      "status": "revised",
+      "quote": "This forces Husserl to confront the constitution of the *Leib* (the lived, corporeal Body) and the fundamental anomalies that distinguish it from every other thing."
+    }
+  ],
+  "absences": [
+    {
+      "locator": "husserl-thing-and-space-commentary#h3-s28-change-in-the-presentational-contents-and-change-in-the-apprehension",
+      "expected_because": "The section separates change in the presentational contents from change in the apprehension, which is the apprehension-content schema the constitutive analyses of SS 44-68 run on. No term of the family occurs in it."
+    },
+    {
+      "locator": "husserl-thing-and-space-commentary#h3-s32-intention-and-fulfillment-in-the-perceptual-process-increase-and-decrease-of",
+      "expected_because": "Intention and fulfilment in the perceptual process, and the increase and decrease of the fullness of givenness, are what the later sections describe as constituting the identical thing. The section states the doctrine without the vocabulary of constitution."
+    }
+  ]
+}
