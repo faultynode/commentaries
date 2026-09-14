@@ -1,0 +1,116 @@
+{
+  "schema_version": 1,
+  "theme": "fundierung",
+  "commentary": "husserliana-26-theory-of-meaning-commentary",
+  "source_sha256": "be89af071eb14c6af66b0de498d4736c037acec4ae3afee187caa971ee4cef1a",
+  "extracted_at": "2026-09-13",
+  "extractor": {
+    "agent": "claude-code",
+    "prompt": "Stage 1 extraction, theme fundierung, per docs/synthesis-operations.md P1.",
+    "note": "The 1908 lectures work the founding doctrine on the side of the Kategorialien: the Sachverhalt as the objectuality correlated to the whole assertion, the Sachlage lying at the basis of two states of affairs, non-independent expression-parts with their own non-independent objectual moments, nominalization needing new levels of predication, and categorial ideation founding itself on intuition."
+  },
+  "coverage": "partial",
+  "coverage_note": "Chapter 2 § 7 and Chapter 4 § 6 in the first run of the text, and §§ 19, 23, 24, 31, 34 b) and 36 b) plus § 8 b) in the second. Not covered: the Introduction, Chapter 1, §§ 5-6 and 8-18, 20-22, 25-30, 32-33, 35, 37-39, and the supplementary texts. Note that Chapters 2-4 appear twice in this file; locators here name the occurrence read.",
+  "units": [
+    {
+      "id": "fundierung/husserliana-26/001",
+      "locator": "husserliana-26-theory-of-meaning-commentary#h3-s-7-propositional-meaning-state-of-affairs-and-situation-of-affairs",
+      "primary_locator": "Hua XXVI, § 7",
+      "term": "Sachverhalt",
+      "status": "introduced",
+      "claim": "What a categorical proposition says - that the subject-object has such and such a property - is itself an objectuality, the state of affairs.",
+      "quote": "This is an objectuality — precisely this state of affairs (*Sachverhalt*): that that object has such and such a property."
+    },
+    {
+      "id": "fundierung/husserliana-26/002",
+      "locator": "husserliana-26-theory-of-meaning-commentary#h3-s-7-propositional-meaning-state-of-affairs-and-situation-of-affairs",
+      "primary_locator": "Hua XXVI, § 7",
+      "term": "Sachlage (situation of affairs)",
+      "status": "introduced",
+      "claim": "Two states of affairs that immediately condition one another have the same situation of affairs at their basis, categorially grasped in different ways.",
+      "quote": "The two states of affairs, immediately conditioning one another, have the same situation of affairs at their basis, which is merely categorially grasped in different ways."
+    },
+    {
+      "id": "fundierung/husserliana-26/003",
+      "locator": "husserliana-26-theory-of-meaning-commentary#h3-s-6-the-meant-objectuality-and-the-said-as-such",
+      "primary_locator": "Hua XXVI, § 6",
+      "term": "non-independent expressions",
+      "status": "introduced",
+      "claim": "The total meaning of an independent expression encompasses the meanings of its non-independent parts, and to every non-independent expression-part there corresponds in a certain way a meant objectual something.",
+      "quote": "The total meaning of an independent expression encompasses the meanings of its non-independent parts; and just as to it as a whole there corresponds a meant objectuality, so too to every non-independent expression-part there corresponds in a certain way a meant objectual something"
+    },
+    {
+      "id": "fundierung/husserliana-26/004",
+      "locator": "husserliana-26-theory-of-meaning-commentary#h4-b-meaning-as-the-categorial-objectuality-distinguished-from-the-meant-objectuali-2",
+      "primary_locator": "Hua XXVI, § 8 b)",
+      "term": "non-independent objectual moment",
+      "status": "presupposed",
+      "claim": "To every meaningful word and word-part there corresponds something objectual, possibly a categorial and non-independent objectual moment.",
+      "quote": "to every meaningful word and word-part there corresponds something objectual — possibly a categorial and non-independent objectual moment"
+    },
+    {
+      "id": "fundierung/husserliana-26/005",
+      "locator": "husserliana-26-theory-of-meaning-commentary#h3-s-19-the-nominal-presentation-is-a-basic-function-within-the-full-assertion",
+      "primary_locator": "Hua XXVI, § 19",
+      "term": "new levels of predications",
+      "status": "introduced",
+      "claim": "Making something objectual where no nominal presentation is present requires new levels of predications with new nominal presentations referred back to and made possible by the lower levels.",
+      "quote": "Every extracting or making-objectual where no nominal presentation is present requires new levels of predications with new nominal presentations referred back to and made possible by the lower levels."
+    },
+    {
+      "id": "fundierung/husserliana-26/006",
+      "locator": "husserliana-26-theory-of-meaning-commentary#h3-s-19-the-nominal-presentation-is-a-basic-function-within-the-full-assertion",
+      "primary_locator": "Hua XXVI, § 19",
+      "term": "basic function within the full assertion",
+      "status": "introduced",
+      "claim": "No thinking is merely nominal presentation: nominal presentation designates a basic function within the full assertion.",
+      "quote": "On the other hand, no thinking is merely nominal presentation. Nominal presentation designates a basic function within the full assertion."
+    },
+    {
+      "id": "fundierung/husserliana-26/007",
+      "locator": "husserliana-26-theory-of-meaning-commentary#h3-s-23-the-distinction-of-object-about-and-categorial-object-nominalization-and-ca",
+      "primary_locator": "Hua XXVI, § 23",
+      "term": "total categorial object",
+      "status": "introduced",
+      "claim": "The total categorial object, the state of affairs extractable from the judgment, contains as a component the categorial object extractable from the nominal presentation.",
+      "quote": "The total categorial object, the state of affairs extractable from the respective judgment, contains as a component the categorial object extractable from the nominal presentation."
+    },
+    {
+      "id": "fundierung/husserliana-26/008",
+      "locator": "husserliana-26-theory-of-meaning-commentary#h3-s-24-categorial-reflection-is-a-giving-act-when-the-underlying-judging-is-eviden",
+      "primary_locator": "Hua XXVI, § 24",
+      "term": "builds itself upon intuition",
+      "status": "presupposed",
+      "claim": "Categorial consciousness can build itself upon intuition so that not only the underlying simple acts but the entire consciousness has the character of a giving, perceiving consciousness.",
+      "quote": "categorial consciousness can build itself upon intuition so that not only the underlying simple acts but the entire consciousness has the character of a giving, “perceiving” consciousness"
+    },
+    {
+      "id": "fundierung/husserliana-26/009",
+      "locator": "husserliana-26-theory-of-meaning-commentary#h3-s-31-categorial-object-and-categorial-essence",
+      "primary_locator": "Hua XXVI, § 31",
+      "term": "founds itself upon",
+      "status": "introduced",
+      "claim": "A new seeing act founds itself upon the intuition to grasp the essence of the propositionale and every categorial object; this act is categorial ideation or essence-seeing.",
+      "quote": "This means a new gaze — a new seeing act — founds itself upon the one and other intuition, and we call this act ideation (here categorial ideation) or essence-seeing."
+    },
+    {
+      "id": "fundierung/husserliana-26/010",
+      "locator": "husserliana-26-theory-of-meaning-commentary#h4-b-exposition-of-the-covering-relations-in-the-lower-and-higher-layers",
+      "primary_locator": "Hua XXVI, § 34 b)",
+      "term": "higher layer presupposes the lower",
+      "status": "introduced",
+      "claim": "The covering of categorial apprehensions in the higher layer presupposes the covering of perceptions in the lower layer but goes beyond it.",
+      "quote": "The covering in the higher layer presupposes covering in the lower layer but goes beyond it, since it also involves the identity of categorial forms and conceptual content."
+    },
+    {
+      "id": "fundierung/husserliana-26/011",
+      "locator": "husserliana-26-theory-of-meaning-commentary#h4-b-further-elaboration-the-givenness-of-existential-state-of-affairs-and-essentia",
+      "primary_locator": "Hua XXVI, § 36 b)",
+      "term": "cognition founded on perception",
+      "status": "presupposed",
+      "claim": "Existential states of affairs are given in experience, in perception and the cognition founded on perception.",
+      "quote": "Existential states of affairs are given in experience — in perception and the cognition founded on perception."
+    }
+  ],
+  "absences": []
+}

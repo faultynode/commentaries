@@ -1,0 +1,81 @@
+{
+  "schema_version": 1,
+  "theme": "fundierung",
+  "commentary": "husserliana-19-2-sixth-logical-investigation-commentary",
+  "source_sha256": "b8cda8b8a2a31d263455efa37437b0aefc01c6231f22bb078a8ff640c779cc85",
+  "extracted_at": "2026-09-12",
+  "extractor": {
+    "agent": "claude-code",
+    "prompt": "Extract founding relations in Husserl's Sixth Logical Investigation, focusing on how categorial acts are founded in sensuous acts, how objective unity depends on foundational acts, and the structure of layered constitution.",
+    "note": "Partial extraction covering Chapters One-Two and sections on categorial perception. Focuses on: (1) wish-fulfilment founded in identification; (2) sensuous perception as non-founded; (3) phenomenological form grounded in founding acts; (4) categorial forms constituted through sensuous moments. Not covered: detailed treatment of signification and meaning-intending (§§1-12), inner sensibility (§§15-30), adequate intuition (§§40-50), full categorial analysis (§§59-65)."
+  },
+  "coverage": "partial",
+  "coverage_note": "Focuses on sections 13-14, 47, 56, and 58 which contain explicit discussions of founding relations. Extracts key passages on: the foundational status of wish-fulfilment in identification, distinction between founded vs. non-founded perception, grounding of categorial forms in foundation-acts, and relationship between sensuous and categorial consciousness.",
+  "units": [
+    {
+      "id": "fundierung/husserliana-19-2/001",
+      "locator": "husserliana-19-2-sixth-logical-investigation-commentary#h3-s-13-the-synthesis-of-knowledge-as-the-form-of-fulfilment-characteristic-of-the",
+      "term": "Wish-fulfilment as founded in identification",
+      "status": "presupposed",
+      "claim": "Wish-fulfilment is founded in an act of identification; this foundational act does not exhaust but only grounds the satisfaction of the wish-quality itself.",
+      "quote": "this act does not exhaust the wish-fulfilment but precisely only founds it"
+    },
+    {
+      "id": "fundierung/husserliana-19-2/002",
+      "locator": "husserliana-19-2-sixth-logical-investigation-commentary#h3-s-13-the-synthesis-of-knowledge-as-the-form-of-fulfilment-characteristic-of-the",
+      "term": "Wish-quality as higher stratum",
+      "status": "presupposed",
+      "claim": "Wish-quality is a distinct act-character proper to feeling-intentions that constitutes itself only through founded acts of identification, never through those foundational acts alone.",
+      "quote": "The self-satisfying of the specific wish-quality is a proper and other-kinded act-character"
+    },
+    {
+      "id": "fundierung/husserliana-19-2/003",
+      "locator": "husserliana-19-2-sixth-logical-investigation-commentary#h3-s-47-continuation-characterization-of-sensuous-perception-as-simple-perception",
+      "term": "Sensuous perception as non-founded simple unity",
+      "status": "presupposed",
+      "claim": "Sensuous perception is a simple, non-founded unity that appears to objects in one stroke without the apparatus of founded or founding acts, even in continuous perception-courses.",
+      "quote": "Its manner of letting the thing appear as present is a simple one; it does not need the apparatus of founding or founded acts"
+    },
+    {
+      "id": "fundierung/husserliana-19-2/004",
+      "locator": "husserliana-19-2-sixth-logical-investigation-commentary#h3-s-47-continuation-characterization-of-sensuous-perception-as-simple-perception",
+      "term": "Continuous perception as fusion, not founded act",
+      "status": "presupposed",
+      "claim": "Continuous perception-course constitutes itself as a phenomenological fusion of partial acts into one unified act, not as a proper founded act built upon those partial perceptions.",
+      "quote": "a fusion of partial acts into one act, not a proper act founded in the partial acts"
+    },
+    {
+      "id": "fundierung/husserliana-19-2/005",
+      "locator": "husserliana-19-2-sixth-logical-investigation-commentary#h3-s-57-the-representants-of-the-founding-intuitions-not-immediately-connected-thro",
+      "term": "Categorical form grounded in founding acts themselves",
+      "status": "presupposed",
+      "claim": "The phenomenological form of acts like identification grounds essentially in the founding acts as such—in what these acts are and contain beyond their sensuous representational contents.",
+      "quote": "the phenomenological form of the identification grounds essentially in the founding acts as such — hence grounds in what these are and contain beyond their representing contents"
+    },
+    {
+      "id": "fundierung/husserliana-19-2/006",
+      "locator": "husserliana-19-2-sixth-logical-investigation-commentary#h3-s-57-the-representants-of-the-founding-intuitions-not-immediately-connected-thro",
+      "term": "Synthesis connects intentional essences, not representational contents",
+      "status": "presupposed",
+      "claim": "Categorial synthesis connects intentional matters and essences of founding acts, not their sensuous representational contents, which remain extra-essential elements.",
+      "quote": "it connects under all circumstances their intentional matters and is in them, in the true sense, founded"
+    },
+    {
+      "id": "fundierung/husserliana-19-2/007",
+      "locator": "husserliana-19-2-sixth-logical-investigation-commentary#h3-s-58-the-relation-of-the-two-distinctions-outer-and-inner-sense-as-well-as-sense",
+      "term": "Founded act grounded in its generic nature",
+      "status": "presupposed",
+      "claim": "The being-founded of an act means that the founded act is by its nature possible only as one that builds itself upon acts of the founding genus, with an objective form appearing intuitively only in such founded acts.",
+      "quote": "the founded act is, by its nature (i.e. its genus), possible only as one that builds itself upon acts of the genus of the founding ones"
+    },
+    {
+      "id": "fundierung/husserliana-19-2/008",
+      "locator": "husserliana-19-2-sixth-logical-investigation-commentary#h3-s-58-the-relation-of-the-two-distinctions-outer-and-inner-sense-as-well-as-sense",
+      "term": "Sensuous moments constituting categorial forms",
+      "status": "presupposed",
+      "claim": "The same sensuous psychic moments that appear as representants in inner perception can, in a founded categorial act, constitute an entirely different categorial representation.",
+      "quote": "the same psychic moments which are sensuously given in inner perception (functioning in it thus as sensuous representants) can, in a founded act of the character of categorial perception (or imagination), constitute a categorial form"
+    }
+  ],
+  "absences": []
+}

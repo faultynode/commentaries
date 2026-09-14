@@ -307,8 +307,8 @@ rank in `--candidates` on hits from the commentaries that discuss him, and
 that ranking is the coverage map for the commentary nobody has written.
 
 Three things a bulk import always needs, learned from the first one
-(Dahlstrom, 255 headwords — see
-[lexicon-design.md](lexicon-design.md) §6):
+(Dahlstrom's Heidegger and Moran and Cohen's Husserl, 535 headwords
+between them — see [lexicon-design.md](lexicon-design.md) §6):
 
 - **Translator divergences are data.** Where the reference work marks a
   rendering as some translator's rather than its own, put it in
@@ -316,11 +316,28 @@ Three things a bulk import always needs, learned from the first one
 - **Collisions come in bulk and must be recorded, not resolved.**
   `--check` warns for every English word two entries share; the fix is
   `contrast_with` on both, never deleting a rendering.
-- **Decide `ordinary_english` by looking, not by counting.** Run
-  `--attest` over the new entries. A form flagged "fires mostly inside
-  longer words" is contaminated by English (`Natur` inside *nature*) or
-  compounded in German (`Wissen` inside *Wissenschaft*), and only the
-  words themselves say which. Flag the first, leave the second.
+- **Count the lines your heading pattern rejects.** Reading them is how
+  you find entries a layout assumption loses — seven Husserl terms were
+  missing until that check was run, all of them entries whose body text
+  runs on to the heading line. Read them twice: a headword with no
+  original-language parenthetical may be one the export's markup broke,
+  one whose headword is Latin or Greek, an English concept for
+  `language: "en"`, or a pure redirect that belongs on another entry as a
+  rendering.
+- **Grep the result for stray brackets.** A heading with two
+  parentheticals defeats a pattern that reads from the first `(` to the
+  last `)`, and the wreckage shows up as a form containing `(` or `)`.
+  Finding none is the check that says the extraction is clean.
+- **Check any form you derive rather than read.** Stripping the article
+  off `das Man` produced `Man`, which is 87% noise; the same rule on
+  `die natürliche Einstellung` is exactly right. A derived form gets the
+  same `--attest` reading as a printed one.
+- **Decide `unsearchable` by looking, not by counting.** Run `--attest`
+  over the new entries. A form flagged "fires mostly inside longer
+  words" is swamped by something else (`Natur` inside *nature*, `Leib`
+  inside *Leibniz*) or compounded in German (`Wissen` inside
+  *Wissenschaft*), and only the words themselves say which. Flag the
+  first, leave the second.
 
 ## CI reference
 

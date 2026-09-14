@@ -2914,10 +2914,10 @@
           "source": "dahlstrom-2013"
         }
       ],
-      "ordinary_english": [
+      "note": "Fires inside fugitive; the bare word never occurs. Recorded so --expand cannot propose it as a search term.",
+      "unsearchable": [
         "Fug"
-      ],
-      "note": "Fires inside fugitive; the bare word never occurs. Recorded so --expand cannot propose it as a search term."
+      ]
     },
     {
       "id": "fuge",
@@ -4343,13 +4343,13 @@
           "source": "moran-cohen-2012"
         }
       ],
-      "ordinary_english": [
-        "Interpretation"
-      ],
       "contrast_with": [
         "auslegung"
       ],
-      "note": "Spelled as the English word; 1,797 whole-word hits, none of them Heidegger's term. Recorded so --expand cannot propose it as a search term."
+      "note": "Spelled as the English word; 1,797 whole-word hits, none of them Heidegger's term. Recorded so --expand cannot propose it as a search term.",
+      "unsearchable": [
+        "Interpretation"
+      ]
     },
     {
       "id": "intersubjektivitaet",
@@ -4401,10 +4401,10 @@
           "source": "dahlstrom-2013"
         }
       ],
-      "ordinary_english": [
+      "note": "Fires inside irreducible, irreal, irrelevant; 2 hits are the German. Recorded so --expand cannot propose it as a search term.",
+      "unsearchable": [
         "Irre"
-      ],
-      "note": "Fires inside irreducible, irreal, irrelevant; 2 hits are the German. Recorded so --expand cannot propose it as a search term."
+      ]
     },
     {
       "id": "jemeinigkeit",
@@ -5262,7 +5262,7 @@
           "source": "moran-cohen-2012"
         }
       ],
-      "ordinary_english": [
+      "unsearchable": [
         "Moment"
       ]
     },
@@ -5464,10 +5464,10 @@
           "source": "moran-cohen-2012"
         }
       ],
-      "ordinary_english": [
+      "note": "Fires inside nature (2,252) and natural (2,071); 13 hits are the German. Recorded so --expand cannot propose it as a search term.",
+      "unsearchable": [
         "Natur"
-      ],
-      "note": "Fires inside nature (2,252) and natural (2,071); 13 hits are the German. Recorded so --expand cannot propose it as a search term."
+      ]
     },
     {
       "id": "naturalismus",
@@ -5502,10 +5502,10 @@
           "source": "dahlstrom-2013"
         }
       ],
-      "ordinary_english": [
+      "note": "Spelled as the English word; 335 whole-word hits. Recorded so --expand cannot propose it as a search term.",
+      "unsearchable": [
         "Negation"
-      ],
-      "note": "Spelled as the English word; 335 whole-word hits. Recorded so --expand cannot propose it as a search term."
+      ]
     },
     {
       "id": "neugier",
@@ -5756,10 +5756,10 @@
           "source": "dahlstrom-2013"
         }
       ],
-      "ordinary_english": [
+      "note": "Whole-word 26,852 times as English 'not', and inside nothing, note, notion. Recorded so --expand cannot propose it as a search term.",
+      "unsearchable": [
         "Not"
-      ],
-      "note": "Whole-word 26,852 times as English 'not', and inside nothing, note, notion. Recorded so --expand cannot propose it as a search term."
+      ]
     },
     {
       "id": "nuance",
@@ -5978,10 +5978,10 @@
           "source": "dahlstrom-2013"
         }
       ],
-      "ordinary_english": [
+      "note": "Fires inside the English plural ontologies (166); 9 hits are the German. Recorded so --expand cannot propose it as a search term.",
+      "unsearchable": [
         "Ontologie"
-      ],
-      "note": "Fires inside the English plural ontologies (166); 9 hits are the German. Recorded so --expand cannot propose it as a search term."
+      ]
     },
     {
       "id": "optimale",
@@ -6085,7 +6085,7 @@
           "source": "moran-cohen-2012"
         }
       ],
-      "ordinary_english": [
+      "unsearchable": [
         "Person"
       ]
     },
@@ -6486,11 +6486,11 @@
           "source": "moran-cohen-2012"
         }
       ],
-      "ordinary_english": [
-        "real"
-      ],
       "contrast_with": [
         "reell"
+      ],
+      "unsearchable": [
+        "real"
       ]
     },
     {
@@ -6554,10 +6554,10 @@
           "source": "dahlstrom-2013"
         }
       ],
-      "ordinary_english": [
+      "note": "Fires inside redeem, redefined; 20 hits are the German. Recorded so --expand cannot propose it as a search term.",
+      "unsearchable": [
         "Rede"
-      ],
-      "note": "Fires inside redeem, redefined; 20 hits are the German. Recorded so --expand cannot propose it as a search term."
+      ]
     },
     {
       "id": "reduktion",
@@ -6657,7 +6657,7 @@
           "source": "moran-cohen-2012"
         }
       ],
-      "ordinary_english": [
+      "unsearchable": [
         "Region"
       ]
     },
@@ -7389,12 +7389,12 @@
           "source": "dahlstrom-2013"
         }
       ],
-      "ordinary_english": [
-        "Situation"
-      ],
       "note": "Spelled as the English word; 1,090 whole-word hits. Recorded so --expand cannot propose it as a search term.",
       "contrast_with": [
         "sachlage"
+      ],
+      "unsearchable": [
+        "Situation"
       ]
     },
     {
@@ -7641,7 +7641,7 @@
           "source": "moran-cohen-2012"
         }
       ],
-      "ordinary_english": [
+      "unsearchable": [
         "Stil"
       ]
     },
@@ -7910,7 +7910,7 @@
           "source": "moran-cohen-2012"
         }
       ],
-      "ordinary_english": [
+      "unsearchable": [
         "Thesis"
       ]
     },
@@ -7947,10 +7947,10 @@
           "source": "dahlstrom-2013"
         }
       ],
-      "ordinary_english": [
+      "note": "Fires inside today (251); 4 hits are the German. Recorded so --expand cannot propose it as a search term.",
+      "unsearchable": [
         "Tod"
-      ],
-      "note": "Fires inside today (251); 4 hits are the German. Recorded so --expand cannot propose it as a search term."
+      ]
     },
     {
       "id": "topologie",
@@ -7985,13 +7985,13 @@
           "source": "dahlstrom-2013"
         }
       ],
-      "ordinary_english": [
-        "Tradition"
-      ],
       "contrast_with": [
         "ueberlieferung"
       ],
-      "note": "Spelled as the English word, and inside traditional, traditionally. Recorded so --expand cannot propose it as a search term."
+      "note": "Spelled as the English word, and inside traditional, traditionally. Recorded so --expand cannot propose it as a search term.",
+      "unsearchable": [
+        "Tradition"
+      ]
     },
     {
       "id": "transzendental",
@@ -8155,7 +8155,7 @@
           "source": "moran-cohen-2012"
         }
       ],
-      "ordinary_english": [
+      "unsearchable": [
         "Typ"
       ]
     },
@@ -9624,13 +9624,13 @@
           "source": "moran-cohen-2012"
         }
       ],
-      "ordinary_english": [
-        "Wille"
-      ],
       "contrast_with": [
         "wollen"
       ],
-      "note": "Fires inside willed, willer; 2 hits are the German. Recorded so --expand cannot propose it as a search term."
+      "note": "Fires inside willed, willer; 2 hits are the German. Recorded so --expand cannot propose it as a search term.",
+      "unsearchable": [
+        "Wille"
+      ]
     },
     {
       "id": "wissen",
@@ -9727,10 +9727,10 @@
           "source": "dahlstrom-2013"
         }
       ],
-      "ordinary_english": [
+      "note": "Fires inside worth, worthy; the bare word never occurs. Recorded so --expand cannot propose it as a search term.",
+      "unsearchable": [
         "Wort"
-      ],
-      "note": "Fires inside worth, worthy; the bare word never occurs. Recorded so --expand cannot propose it as a search term."
+      ]
     },
     {
       "id": "zahl",
