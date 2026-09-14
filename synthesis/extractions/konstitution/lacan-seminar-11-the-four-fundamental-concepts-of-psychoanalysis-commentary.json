@@ -1,0 +1,133 @@
+{
+  "schema_version": 1,
+  "theme": "konstitution",
+  "commentary": "lacan-seminar-11-the-four-fundamental-concepts-of-psychoanalysis-commentary",
+  "source_sha256": "a565fb19ee233465943bfb2d662d66955dfab2bc8e9ee82d31b7e2bfe3d19ac8",
+  "extracted_at": "2026-09-14",
+  "extractor": {
+    "agent": "claude-code",
+    "prompt": "synthesis-pipeline/extraction-prompt.md"
+  },
+  "coverage": "partial",
+  "coverage_note": "Lessons IV, XI, XVI and XIX, where 'the constitution of the subject' is a term of art and not the ordinary sense: the subject constituted in the field of the Other, constituted second with respect to the signifier, constituted around the fallen first signifier. Lessons I-III, V-X, XII-XV, XVII-XVIII and XX have not been extracted; II and VII carry no term of the family and one is recorded as an absence. No stratum: the commentary has no chronology.json entry, although it dates each lesson in its own text.",
+  "units": [
+    {
+      "id": "konstitution/lacan-s11/001",
+      "locator": "lacan-seminar-11-the-four-fundamental-concepts-of-psychoanalysis-commentary#h3-iv-on-the-network-of-signifiers",
+      "primary_locator": "Seminar XI, lesson IV",
+      "term": "constituting relation",
+      "claim": "The cut was bound to the function of the subject in its constituting relation to the signifier.",
+      "status": "introduced",
+      "quote": "the cut was bound to the function of the subject in its constituting relation to the signifier. That it seems new to invoke *the subject* apropos the unconscious is granted"
+    },
+    {
+      "id": "konstitution/lacan-s11/002",
+      "locator": "lacan-seminar-11-the-four-fundamental-concepts-of-psychoanalysis-commentary#h3-iv-on-the-network-of-signifiers",
+      "primary_locator": "Seminar XI, lesson IV",
+      "term": "Constituted",
+      "claim": "The unconscious is said to be constituted essentially not by what consciousness can draw up from the subliminal but by what is by essence refused to consciousness.",
+      "status": "introduced",
+      "quote": "Constituted essentially not by what consciousness can evoke, extend, repair, draw up from the subliminal, but by what is *by essence refused* to consciousness."
+    },
+    {
+      "id": "konstitution/lacan-s11/003",
+      "locator": "lacan-seminar-11-the-four-fundamental-concepts-of-psychoanalysis-commentary#h3-iv-on-the-network-of-signifiers",
+      "primary_locator": "Seminar XI, lesson IV",
+      "term": "constituted",
+      "claim": "In the interval separating the systems lies the place of the Other, where the subject is constituted.",
+      "status": "introduced",
+      "quote": "for in that interval is *the place of the Other, where the subject is constituted*. The reading converts neurology into topology: the essential datum of Freud's scheme is the *between*"
+    },
+    {
+      "id": "konstitution/lacan-s11/004",
+      "locator": "lacan-seminar-11-the-four-fundamental-concepts-of-psychoanalysis-commentary#h3-iv-on-the-network-of-signifiers",
+      "primary_locator": "Seminar XI, lesson IV",
+      "term": "constituted in simultaneity",
+      "claim": "Freud designates a stage where the perception-signs are constituted in simultaneity, which is read as signifying synchrony.",
+      "status": "introduced",
+      "quote": "he designates a stage where these perception-signs are constituted *in simultaneity*. What is that, if not *signifying synchrony*?"
+    },
+    {
+      "id": "konstitution/lacan-s11/005",
+      "locator": "lacan-seminar-11-the-four-fundamental-concepts-of-psychoanalysis-commentary#h3-xi-analysis-and-truth-or-the-closure-of-the-unconscious",
+      "primary_locator": "Seminar XI, lesson XI",
+      "term": "signifying constitution",
+      "claim": "Thought extracted from an opposition to extension has a fragile status but one sufficient in the order of signifying constitution, its certainty coming from its place at the level of the enunciation.",
+      "status": "introduced",
+      "quote": "a fragile status, but sufficient in the order of signifying constitution; its certainty comes from *taking its place at the level of the enunciation*"
+    },
+    {
+      "id": "konstitution/lacan-s11/006",
+      "locator": "lacan-seminar-11-the-four-fundamental-concepts-of-psychoanalysis-commentary#h3-xi-analysis-and-truth-or-the-closure-of-the-unconscious",
+      "primary_locator": "Seminar XI, lesson XI",
+      "term": "constituted second",
+      "claim": "Against the unifying subject the symbol is the barred S: the subject as constituted second with respect to the signifier.",
+      "status": "introduced",
+      "quote": "Against it, our symbol: *$, the barred S — the subject as constituted second with respect to the signifier.*"
+    },
+    {
+      "id": "konstitution/lacan-s11/007",
+      "locator": "lacan-seminar-11-the-four-fundamental-concepts-of-psychoanalysis-commentary#h3-xi-analysis-and-truth-or-the-closure-of-the-unconscious",
+      "primary_locator": "Seminar XI, lesson XI",
+      "term": "constituted",
+      "claim": "The function of the barred subject must not be confounded with the image of the objet a, in which the subject sees himself redoubled, constituted by the reflected and precarious image of mastery.",
+      "status": "revised",
+      "quote": "the way the subject sees himself *redoubled*, constituted by the reflected, momentary, precarious image of mastery"
+    },
+    {
+      "id": "konstitution/lacan-s11/008",
+      "locator": "lacan-seminar-11-the-four-fundamental-concepts-of-psychoanalysis-commentary#h3-xvi-the-subject-and-the-other-alienation",
+      "primary_locator": "Seminar XI, lesson XVI",
+      "term": "constituted in the field of the Other",
+      "claim": "Part Four opens with the first of the two logical operations by which the subject is constituted in the field of the Other, alienation.",
+      "status": "introduced",
+      "quote": "Part Four opens with the first of the two logical operations by which the subject is constituted in the field of the Other — alienation, formalized on the set-theoretic operation of union"
+    },
+    {
+      "id": "konstitution/lacan-s11/009",
+      "locator": "lacan-seminar-11-the-four-fundamental-concepts-of-psychoanalysis-commentary#h3-xvi-the-subject-and-the-other-alienation",
+      "primary_locator": "Seminar XI, lesson XVI",
+      "term": "constitution of the subject",
+      "claim": "From the unconscious structured like a language Lacan deduced a topology whose end is to account for the constitution of the subject.",
+      "status": "introduced",
+      "quote": "Lacan deduced a topology whose end is to account for *the constitution of the subject*. It was objected, \"in a time I hope surpassed,\" that giving structure the dominant role neglects the *dynamic*"
+    },
+    {
+      "id": "konstitution/lacan-s11/010",
+      "locator": "lacan-seminar-11-the-four-fundamental-concepts-of-psychoanalysis-commentary#h3-xvi-the-subject-and-the-other-alienation",
+      "primary_locator": "Seminar XI, lesson XVI",
+      "term": "constitution of the subject in the Other's field",
+      "claim": "The subject of the unconscious, seized at birth in the Other's field, is characterized as being at an indeterminate place beneath the signifier.",
+      "status": "introduced",
+      "quote": "Whence the constitution of the subject in the Other's field, as the little arrow on the board designates: seized at his birth in that field, *the characteristic of the subject of the unconscious is to be, beneath the signifier that develops its networks, its chains and its history, at an indeterminate place*"
+    },
+    {
+      "id": "konstitution/lacan-s11/011",
+      "locator": "lacan-seminar-11-the-four-fundamental-concepts-of-psychoanalysis-commentary#h3-xix-from-interpretation-to-transference",
+      "primary_locator": "Seminar XI, lesson XIX",
+      "term": "constituting moment",
+      "claim": "The subject as x constitutes himself only from the Urverdrangung, the fall of the first signifier, constituted around it and unable to substitute for it.",
+      "status": "introduced",
+      "quote": "the subject as *x* constitutes himself only from the *Urverdrängung*, the necessary fall of this first signifier — constituted *around* it, unable to substitute for it as such"
+    },
+    {
+      "id": "konstitution/lacan-s11/012",
+      "locator": "lacan-seminar-11-the-four-fundamental-concepts-of-psychoanalysis-commentary#h3-xix-from-interpretation-to-transference",
+      "primary_locator": "Seminar XI, lesson XIX",
+      "term": "times of the constitution of the subject",
+      "claim": "Insofar as the primordial signifier is pure non-sense it becomes the bearer of the infinitization of the value of the subject, and this is one of the times of the constitution of the subject.",
+      "status": "introduced",
+      "quote": "In a certain way, this is one of the times of the constitution of the subject. Insofar as the primordial signifier is pure non-sense, it becomes the bearer of the infinitization of the value of the subject"
+    }
+  ],
+  "absences": [
+    {
+      "locator": "lacan-seminar-11-the-four-fundamental-concepts-of-psychoanalysis-commentary#h3-ii-the-freudian-unconscious-and-ours",
+      "expected_because": "Lesson II sets out what the Freudian unconscious is, which lesson IV then states as the unconscious constituted by what is by essence refused to consciousness, and whose place is where the subject is constituted. Its 3,200 words carry no term of the family."
+    },
+    {
+      "locator": "lacan-seminar-11-the-four-fundamental-concepts-of-psychoanalysis-commentary#h3-vii-anamorphosis",
+      "expected_because": "Anamorphosis is the centre of the gaze-doctrine, where the subject's place in the picture is at issue - the same question lesson XI answers with the subject constituted second with respect to the signifier. The lesson carries no term of the family."
+    }
+  ]
+}

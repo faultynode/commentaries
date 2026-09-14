@@ -1,0 +1,140 @@
+{
+  "schema_version": 1,
+  "theme": "konstitution",
+  "commentary": "derrida-introduction-a-lorigine-de-la-geometrie-commentary",
+  "source_sha256": "d88dc07ec83bdabc771b2e7ffa2f60764136bc0f531626ed13e58223d20ca693",
+  "extracted_at": "2026-09-14",
+  "extractor": {
+    "agent": "claude-code",
+    "prompt": "synthesis-pipeline/extraction-prompt.md"
+  },
+  "coverage": "partial",
+  "coverage_note": "Sections II, VI, VII and XI, where the theme carries the argument: the reduction of constituted geometry, constituted against constituting language, writing as the highest possibility of all constitution, and the non-coincidence of the constituting and constituted moments against Cavailles. Sections I, III, IV, V, VIII, IX and X have not been extracted.",
+  "units": [
+    {
+      "id": "konstitution/derrida-geom/001",
+      "locator": "derrida-introduction-a-lorigine-de-la-geometrie-commentary#h2-ii",
+      "primary_locator": "Introduction a L'origine de la geometrie II",
+      "stratum": "derrida-intro-1961",
+      "term": "constitution",
+      "claim": "Sedimentation is an eidetic necessity prescribed to all constitution and all traditionalization of sense, hence to all history.",
+      "status": "introduced",
+      "quote": "the necessity of *sedimentation* prescribed to all constitution and all traditionalization of sense, hence to all history"
+    },
+    {
+      "id": "konstitution/derrida-geom/002",
+      "locator": "derrida-introduction-a-lorigine-de-la-geometrie-commentary#h2-ii",
+      "primary_locator": "Introduction a L'origine de la geometrie II",
+      "stratum": "derrida-intro-1961",
+      "term": "constituted geometry",
+      "claim": "The dismissed inquiries installed themselves in the element of a constituted geometry, which had to be reduced in order to attain a consciousness of origin.",
+      "status": "introduced",
+      "quote": "For all the inquiries just dismissed installed themselves in the element of a *constituted* geometry; their object presupposed or merged with the results of *ready-made* geometry — which we had to *reduce* in order to attain a consciousness of origin that would at the same time be an *intuition of essence*."
+    },
+    {
+      "id": "konstitution/derrida-geom/003",
+      "locator": "derrida-introduction-a-lorigine-de-la-geometrie-commentary#h2-vi",
+      "primary_locator": "Introduction a L'origine de la geometrie VI",
+      "stratum": "derrida-intro-1961",
+      "term": "constituted",
+      "claim": "The objectivity of the truth could not be constituted without the pure possibility of an information in a pure language in general.",
+      "status": "introduced",
+      "quote": "the *objectivity* of this truth *could not be constituted without the pure possibility of an information* — an in-forming, a giving-of-form — *in a pure language in general*"
+    },
+    {
+      "id": "konstitution/derrida-geom/004",
+      "locator": "derrida-introduction-a-lorigine-de-la-geometrie-commentary#h2-vi",
+      "primary_locator": "Introduction a L'origine de la geometrie VI",
+      "stratum": "derrida-intro-1961",
+      "term": "constitutes the object",
+      "claim": "Speech is no longer the expression of what without it would already be an object: recaptured in its originary purity it constitutes the object, a concrete juridical condition of truth.",
+      "status": "revised",
+      "quote": "Speech (*la parole*) is no longer simply the expression (*\\-Äusserung*) of what, without it, would already be an object: \"recaptured in its originary purity, *it constitutes the object*\"; it is a *concrete juridical condition of truth*"
+    },
+    {
+      "id": "konstitution/derrida-geom/005",
+      "locator": "derrida-introduction-a-lorigine-de-la-geometrie-commentary#h2-vi",
+      "primary_locator": "Introduction a L'origine de la geometrie VI",
+      "stratum": "derrida-intro-1961",
+      "term": "constituting language",
+      "claim": "Bracketing constituted language is what lets the originality of constituting language be discovered later.",
+      "status": "introduced",
+      "quote": "It is simply a matter of *bracketing constituted language* — which Husserl continues to do in the *Logic* and in the *Origin* — in order to let the originality of *constituting language* be discovered later."
+    },
+    {
+      "id": "konstitution/derrida-geom/006",
+      "locator": "derrida-introduction-a-lorigine-de-la-geometrie-commentary#h2-vii",
+      "primary_locator": "Introduction a L'origine de la geometrie VII",
+      "stratum": "derrida-intro-1961",
+      "term": "constituted on the basis of",
+      "claim": "The question is put of a transcendental field without subject, in which the subject would be constituted on the basis of the transcendental field.",
+      "status": "criticized",
+      "quote": "in which \"the conditions of subjectivity would appear, and where the subject would be *constituted on the basis of* the transcendental field"
+    },
+    {
+      "id": "konstitution/derrida-geom/007",
+      "locator": "derrida-introduction-a-lorigine-de-la-geometrie-commentary#h2-vii",
+      "primary_locator": "Introduction a L'origine de la geometrie VII",
+      "stratum": "derrida-intro-1961",
+      "term": "constitution",
+      "claim": "Ideal objectivity is not fully constituted until it can lend itself to incarnation, and the act of writing is therefore the highest possibility of all constitution.",
+      "status": "revised",
+      "quote": "ideal objectivity is *not fully constituted*. Whence the sentence that crowns the whole analysis: \"*The act of writing is therefore the highest possibility of all 'constitution.'*\""
+    },
+    {
+      "id": "konstitution/derrida-geom/008",
+      "locator": "derrida-introduction-a-lorigine-de-la-geometrie-commentary#h2-vii",
+      "primary_locator": "Introduction a L'origine de la geometrie VII",
+      "stratum": "derrida-intro-1961",
+      "term": "fully constituted",
+      "claim": "The objection is raised that the ideal objectity would be fully constituted as such before and independently of its incorporation.",
+      "status": "criticized",
+      "quote": "Does it not give one to think that the ideal objectity is *fully constituted as such before and independently of its incorporation"
+    },
+    {
+      "id": "konstitution/derrida-geom/009",
+      "locator": "derrida-introduction-a-lorigine-de-la-geometrie-commentary#h2-xi",
+      "primary_locator": "Introduction a L'origine de la geometrie XI",
+      "stratum": "derrida-intro-1961",
+      "term": "constitutive",
+      "claim": "Against the descent-model, the acts of subjectivity are constitutive of the Idea's very being, not the occasion of its appearing.",
+      "status": "introduced",
+      "quote": "the acts of subjectivity are *constitutive* of the Idea's very being, not the occasion of its appearing."
+    },
+    {
+      "id": "konstitution/derrida-geom/010",
+      "locator": "derrida-introduction-a-lorigine-de-la-geometrie-commentary#h2-xi",
+      "primary_locator": "Introduction a L'origine de la geometrie XI",
+      "stratum": "derrida-intro-1961",
+      "term": "constituting correlation",
+      "claim": "The indeterminacy of the genitive names a relation prior to its terms: neither idealism nor realism but the constituting correlation as such, in which neither pole precedes the other.",
+      "status": "introduced",
+      "quote": "neither idealism nor realism, but the constituting correlation as such — the \"intentional\" of intentionality raised to an absolute, in which neither pole precedes the other."
+    },
+    {
+      "id": "konstitution/derrida-geom/011",
+      "locator": "derrida-introduction-a-lorigine-de-la-geometrie-commentary#h2-xi",
+      "primary_locator": "Introduction a L'origine de la geometrie XI",
+      "stratum": "derrida-intro-1961",
+      "term": "constituting moment and constituted moment",
+      "claim": "Husserl asserts not a static coincidence of constituting and constituted but the unity of their non-coincidence and indefinite co-implication in the absolute identity of a Living Present.",
+      "status": "revised",
+      "quote": "the unity of the *non-coincidence* and the *indefinite co-implication* of the constituted moment and the constituting moment, in the absolute identity of a Living Present that *projects and maintains itself dialectically*"
+    }
+  ],
+  "absences": [
+    {
+      "locator": "derrida-introduction-a-lorigine-de-la-geometrie-commentary#h2-viii",
+      "expected_because": "Section VIII is the longest in the commentary, 5,561 words, and follows directly on the claim of Section VII that the act of writing is the highest possibility of all constitution. It carries one 'constitutes' and one 'constituted' and none of the technical forms.",
+      "absent_terms": [
+        "Konstitution",
+        "konstituiert",
+        "Konstituierung",
+        "constitution",
+        "constituting",
+        "constitutive",
+        "self-constitution"
+      ]
+    }
+  ]
+}

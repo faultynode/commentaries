@@ -1,0 +1,126 @@
+{
+  "schema_version": 1,
+  "theme": "konstitution",
+  "commentary": "henry-philosophie-et-phenomenologie-du-corps-commentary",
+  "source_sha256": "7873678cba294a842ebb78cf1590f2f4f3c732a826b6741035ba102fe8b1f802",
+  "extracted_at": "2026-09-14",
+  "extractor": {
+    "agent": "claude-code",
+    "prompt": "synthesis-pipeline/extraction-prompt.md"
+  },
+  "coverage": "partial",
+  "coverage_note": "Chapter II, Chapter III S 1, and Chapter IV, which carries the problem of the constitution of one's own body in its title. The absence list is empty and that is a claim: no section of this commentary over 400 words is free of the term family, the lowest count being three, so there is nowhere the theme was expected and is missing. Chapters I, V, VI and VII have not been extracted.",
+  "units": [
+    {
+      "id": "konstitution/ppc/001",
+      "locator": "henry-philosophie-et-phenomenologie-du-corps-commentary#h2-chapter-ii-the-subjective-body",
+      "primary_locator": "Philosophie et phenomenologie du corps, ch. II",
+      "stratum": "ppc-1965",
+      "term": "not constituted",
+      "claim": "The original being of movement is not constituted: it belongs to the sphere of absolute immanence and is known in transcendental inner experience.",
+      "status": "introduced",
+      "quote": "The original being of movement is not constituted. Among the many consequences of this thesis, Henry cites one immediately: it lets us understand why children and human beings generally accomplish their movements without thinking about them, yet not without knowing them."
+    },
+    {
+      "id": "konstitution/ppc/002",
+      "locator": "henry-philosophie-et-phenomenologie-du-corps-commentary#h2-chapter-ii-the-subjective-body",
+      "primary_locator": "Philosophie et phenomenologie du corps, ch. II",
+      "stratum": "ppc-1965",
+      "term": "constitution",
+      "claim": "The hand's movement is not known in the sense of being constituted, but in a primordial knowledge in which no phenomenological distance intervenes and no constitution occurs.",
+      "status": "introduced",
+      "quote": "The hand's movement is doubtless not known in the sense of being constituted; but if we can direct it, is that not because we are informed of it, because we possess about it a primordial knowledge — precisely the kind in which no phenomenological distance intervenes and no constitution occurs?"
+    },
+    {
+      "id": "konstitution/ppc/003",
+      "locator": "henry-philosophie-et-phenomenologie-du-corps-commentary#h2-chapter-ii-the-subjective-body",
+      "primary_locator": "Philosophie et phenomenologie du corps, ch. II",
+      "stratum": "ppc-1965",
+      "term": "power of constitution",
+      "claim": "The original body's being must escape all constitution in order to be identified with the power of constitution itself, the milieu in which constitution occurs.",
+      "status": "revised",
+      "quote": "the constituted body — of which Henry will speak again — is not our original body, and that the latter's being must escape all constitution in order to be identified with the power of constitution itself, with the milieu in which constitution occurs."
+    },
+    {
+      "id": "konstitution/ppc/004",
+      "locator": "henry-philosophie-et-phenomenologie-du-corps-commentary#h2-chapter-ii-the-subjective-body",
+      "primary_locator": "Philosophie et phenomenologie du corps, ch. II",
+      "stratum": "ppc-1965",
+      "term": "constituted",
+      "claim": "A transcendent movement constituted as emanating from the self requires a foundation in the original being of subjective movement.",
+      "status": "presupposed",
+      "quote": "And if there exists a transcendent movement nonetheless constituted as emanating from the self, as an \"effect\" of its action, such constitution requires a foundation found precisely in the original being of subjective movement."
+    },
+    {
+      "id": "konstitution/ppc/005",
+      "locator": "henry-philosophie-et-phenomenologie-du-corps-commentary#h3-s-1-the-unity-of-the-senses-and-the-problem-of-the-relation-between-our-images-a",
+      "primary_locator": "Philosophie et phenomenologie du corps, ch. III S 1",
+      "stratum": "ppc-1965",
+      "term": "constituted",
+      "claim": "Sensations are always constituted by a power to which subjective movement is immanent, and what that power constitutes is the real itself reached as resisting term.",
+      "status": "introduced",
+      "quote": "they are always constituted by a power to which subjective movement is immanent. This is to say that this power is our body's and that what it constitutes is the real itself, reached in its being as resisting term."
+    },
+    {
+      "id": "konstitution/ppc/006",
+      "locator": "henry-philosophie-et-phenomenologie-du-corps-commentary#h3-s-1-the-unity-of-the-senses-and-the-problem-of-the-relation-between-our-images-a",
+      "primary_locator": "Philosophie et phenomenologie du corps, ch. III S 1",
+      "stratum": "ppc-1965",
+      "term": "constituted unity",
+      "claim": "Outside the original ontological sphere there exists only a constituted unity, and the philosophical illusion is to build the unity of the world on a unity that itself demands a foundation.",
+      "status": "criticized",
+      "quote": "Outside this original ontological sphere there exists only a constituted unity, and the commonest philosophical illusion consists in building the unity of the world on a unity that, not being original, cannot play the role expected of it but itself demands a foundation."
+    },
+    {
+      "id": "konstitution/ppc/007",
+      "locator": "henry-philosophie-et-phenomenologie-du-corps-commentary#h3-s-1-the-unity-of-the-senses-and-the-problem-of-the-relation-between-our-images-a",
+      "primary_locator": "Philosophie et phenomenologie du corps, ch. III S 1",
+      "stratum": "ppc-1965",
+      "term": "power of constitution",
+      "claim": "Only by thinking the subjective sphere to which the power of constitution belongs can its unity and the origin of the transcendent unities it grounds be understood.",
+      "status": "introduced",
+      "quote": "Only by thinking of the subjective sphere to which this power of constitution belongs can we understand its unity along with the origin of the transcendent unities it grounds."
+    },
+    {
+      "id": "konstitution/ppc/008",
+      "locator": "henry-philosophie-et-phenomenologie-du-corps-commentary#h3-s-1-the-unity-of-the-senses-and-the-problem-of-the-relation-between-our-images-a",
+      "primary_locator": "Philosophie et phenomenologie du corps, ch. III S 1",
+      "stratum": "ppc-1965",
+      "term": "mode of constitution",
+      "claim": "Sensible data are rigorously heterogeneous: each sensible content refers to a specific mode of constitution and cannot signify anything other than what it is.",
+      "status": "criticized",
+      "quote": "The sensible data are rigorously heterogeneous; each sensible content refers to a specific mode of constitution and cannot receive the signification of being anything other than what it is."
+    },
+    {
+      "id": "konstitution/ppc/009",
+      "locator": "henry-philosophie-et-phenomenologie-du-corps-commentary#h2-chapter-iv-the-double-use-of-signs-and-the-problem-of-the-constitution-of-one-s",
+      "primary_locator": "Philosophie et phenomenologie du corps, ch. IV",
+      "stratum": "ppc-1965",
+      "term": "constitution of the body",
+      "claim": "The problem of the constitution of the body falls outside the inquiry, since it is not the theme of a reflection concentrating on the being of absolute subjectivity and the original ego.",
+      "status": "criticized",
+      "quote": "The problem of the constitution of the body falls outside the field of Henry's inquiry, since it is not the theme of a reflection concentrating on the being of absolute subjectivity and the original ego."
+    },
+    {
+      "id": "konstitution/ppc/010",
+      "locator": "henry-philosophie-et-phenomenologie-du-corps-commentary#h2-chapter-iv-the-double-use-of-signs-and-the-problem-of-the-constitution-of-one-s",
+      "primary_locator": "Philosophie et phenomenologie du corps, ch. IV",
+      "stratum": "ppc-1965",
+      "term": "constituted reality",
+      "claim": "Only as a constituted reality is the body capable of sustaining with the other beings of nature the relations the sciences make us conceive.",
+      "status": "presupposed",
+      "quote": "Only as a constituted reality is the body capable of sustaining with the other beings of nature the relations the sciences make us conceive"
+    },
+    {
+      "id": "konstitution/ppc/011",
+      "locator": "henry-philosophie-et-phenomenologie-du-corps-commentary#h2-chapter-iv-the-double-use-of-signs-and-the-problem-of-the-constitution-of-one-s",
+      "primary_locator": "Philosophie et phenomenologie du corps, ch. IV",
+      "stratum": "ppc-1965",
+      "term": "constituted being",
+      "claim": "In the absorption diagnosed here the whole being of our body reduces to its constituted being, and immanence becomes the essence of the transcendent.",
+      "status": "criticized",
+      "quote": "the whole being of our body reduces to its constituted being, and outside this transcendent phenomenon there is nothing but the consciousness thinking it, the mind or soul surveying it."
+    }
+  ],
+  "absences": []
+}

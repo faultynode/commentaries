@@ -1,0 +1,171 @@
+{
+  "schema_version": 1,
+  "theme": "konstitution",
+  "commentary": "heidegger-ga-20-prolegomena-zur-geschichte-des-zeitbegriffs-commentary",
+  "source_sha256": "30416fcea761ee439a1e714cce8c61ed361ef1ef9e776b844fe15ad7cf060e0c",
+  "extracted_at": "2026-09-14",
+  "extractor": {
+    "agent": "claude-code",
+    "prompt": "synthesis-pipeline/extraction-prompt.md"
+  },
+  "coverage": "partial",
+  "coverage_note": "SS 5, 11, 12, 13, 19 and 26. This commentary is the one place in the extracted corpus where both senses of the word stand side by side and can be told apart from the text itself: Husserlian Konstitution in SS 11 and 13, where consciousness is absolute in the order of constitution and Ideen II is read for the constitution of the spiritual world, and Seinsverfassung in SS 19 and 26, where being-in-the-world is the basic constitution of Dasein. The units below are marked accordingly in their term field. SS 1-4, 6-10, 12, 14-18, 20-25 and 27-36 have not been extracted; a pass for the theme sorge over Chapter Four already exists.",
+  "units": [
+    {
+      "id": "konstitution/ga20k/001",
+      "locator": "heidegger-ga-20-prolegomena-zur-geschichte-des-zeitbegriffs-commentary#h4-s-5-intentionality",
+      "primary_locator": "GA 20 S 5",
+      "stratum": "ga20-1925",
+      "term": "constituting",
+      "claim": "Brentano is credited with recognizing intentionality as the structure constituting the nature of a psychic phenomenon and making it the criterion dividing psychic from physical.",
+      "status": "presupposed",
+      "quote": "Brentano recognized intentionality as the structure constituting the nature of a psychic phenomenon and made it the criterion dividing the psychic from the physical"
+    },
+    {
+      "id": "konstitution/ga20k/002",
+      "locator": "heidegger-ga-20-prolegomena-zur-geschichte-des-zeitbegriffs-commentary#h4-s-5-intentionality",
+      "primary_locator": "GA 20 S 5b",
+      "stratum": "ga20-1925",
+      "term": "basic constitution of intentionality",
+      "claim": "Only with the how of being-intended belonging to every intentio does the basic constitution of intentionality come provisionally into view.",
+      "status": "introduced",
+      "quote": "Only with the *how* of being-intended belonging to every *intentio* does the basic constitution of intentionality come, provisionally, into view"
+    },
+    {
+      "id": "konstitution/ga20k/003",
+      "locator": "heidegger-ga-20-prolegomena-zur-geschichte-des-zeitbegriffs-commentary#h4-s-11-immanent-critique-the-four-determinations-of-pure-consciousness",
+      "primary_locator": "GA 20 S 11",
+      "stratum": "ga20-1925",
+      "term": "constitutes itself",
+      "claim": "Consciousness is that in which every possible other being constitutes itself; the constituting being is absolute, every other being only in relation to it.",
+      "status": "presupposed",
+      "quote": "Consciousness is that in which every possible other being *constitutes* itself, in which it properly \"is\" what it is; the *constituting* being is absolute, every other being only in relation to it."
+    },
+    {
+      "id": "konstitution/ga20k/004",
+      "locator": "heidegger-ga-20-prolegomena-zur-geschichte-des-zeitbegriffs-commentary#h4-s-11-immanent-critique-the-four-determinations-of-pure-consciousness",
+      "primary_locator": "GA 20 S 11",
+      "stratum": "ga20-1925",
+      "term": "order of constitution",
+      "claim": "Absolute being here means not being dependent on another with respect to constitution: a determination that grasps the consciousness-region within the order of constitution, not the being at itself.",
+      "status": "criticized",
+      "quote": "Absolute being here means: not being dependent on another, with respect to *constitution*; consciousness is the earlier, the *apriori* in the Cartesian and Kantian sense — the primacy of subjectivity over all objectivity."
+    },
+    {
+      "id": "konstitution/ga20k/005",
+      "locator": "heidegger-ga-20-prolegomena-zur-geschichte-des-zeitbegriffs-commentary#h4-s-11-immanent-critique-the-four-determinations-of-pure-consciousness",
+      "primary_locator": "GA 20 S 11",
+      "stratum": "ga20-1925",
+      "term": "absolute-in-constitution",
+      "claim": "All four being-determinations, absolute-in-constitution among them, are drawn not from the being itself but are suited to bar the way to the question after the being of this being.",
+      "status": "criticized",
+      "quote": "All four being-determinations — immanent, absolutely-given, absolute-in-constitution, pure — are in no way drawn from the being itself; insofar as they are set up *as being-determinations of consciousness*, they are precisely suited to *bar* the way to a question after the being of this being."
+    },
+    {
+      "id": "konstitution/ga20k/015",
+      "locator": "heidegger-ga-20-prolegomena-zur-geschichte-des-zeitbegriffs-commentary#h4-s-12-exhibiting-the-neglect-of-the-question-of-the-being-of-the-intentional",
+      "primary_locator": "GA 20 S 12",
+      "stratum": "ga20-1925",
+      "term": "constitution-research",
+      "claim": "Constitution-research is to lay the basis for determining the reality of a real, the real announcing itself in consciousness as possible object of a directing-toward.",
+      "status": "presupposed",
+      "quote": "the real announces itself in consciousness as possible object of a directing-toward, and constitution-research is to lay the basis for determining the reality of a real"
+    },
+    {
+      "id": "konstitution/ga20k/014",
+      "locator": "heidegger-ga-20-prolegomena-zur-geschichte-des-zeitbegriffs-commentary#h4-s-12-exhibiting-the-neglect-of-the-question-of-the-being-of-the-intentional",
+      "primary_locator": "GA 20 S 12",
+      "stratum": "ga20-1925",
+      "term": "constitution-analysis",
+      "claim": "What all constitution-analysis presupposes is that the sense of being at issue is being as objectivity for a theoretical, scientific knowing.",
+      "status": "criticized",
+      "quote": "What all constitution-analysis presupposes is that the sense of being at issue is being *as objectivity for a theoretical"
+    },
+    {
+      "id": "konstitution/ga20k/006",
+      "locator": "heidegger-ga-20-prolegomena-zur-geschichte-des-zeitbegriffs-commentary#h4-s-13-exhibiting-the-neglect-of-the-question-of-the-sense-of-being-itself-and-of",
+      "primary_locator": "GA 20 S 13",
+      "stratum": "ga20-1925",
+      "term": "constitution of the spiritual world",
+      "claim": "Ideen II's third part, the constitution of the spiritual world, opposes the personalistic to the naturalistic attitude and subordinates the latter to the former.",
+      "status": "criticized",
+      "quote": "its third part, \"the constitution of the spiritual world,\" expressly opposes the personalistic to the naturalistic attitude and even subordinates the latter to the former"
+    },
+    {
+      "id": "konstitution/ga20k/007",
+      "locator": "heidegger-ga-20-prolegomena-zur-geschichte-des-zeitbegriffs-commentary#h4-s-13-exhibiting-the-neglect-of-the-question-of-the-sense-of-being-itself-and-of",
+      "primary_locator": "GA 20 S 13",
+      "stratum": "ga20-1925",
+      "term": "constitution of reality and objectivity",
+      "claim": "The consideration stays within the question of the constitution of reality and objectivity, so that the question of the genuine being of the acts is barred.",
+      "status": "criticized",
+      "quote": "The consideration stays within the question of the *constitution of reality and objectivity*. The mode of *access* to the person is nothing other than the already-determined immanent reflection (*inspectio sui*), from which all theses of absolute givenness derive."
+    },
+    {
+      "id": "konstitution/ga20k/008",
+      "locator": "heidegger-ga-20-prolegomena-zur-geschichte-des-zeitbegriffs-commentary#h4-s-13-exhibiting-the-neglect-of-the-question-of-the-sense-of-being-itself-and-of",
+      "primary_locator": "GA 20 S 13",
+      "stratum": "ga20-1925",
+      "term": "constitution of the spiritual world",
+      "claim": "Because the founding stratum remains nature-actuality, the question runs after the constitution of the spiritual world while the executing analysis gives priority to nature.",
+      "status": "criticized",
+      "quote": "The founding stratum remains nature-actuality, on it the psychic, on that the spiritual; so the question runs after the *constitution of the spiritual world* — the personalistic attitude's genuine naturalness is thematically stressed, but the executing analysis gives priority to the investigation of *nature*"
+    },
+    {
+      "id": "konstitution/ga20k/009",
+      "locator": "heidegger-ga-20-prolegomena-zur-geschichte-des-zeitbegriffs-commentary#h4-s-13-exhibiting-the-neglect-of-the-question-of-the-sense-of-being-itself-and-of",
+      "primary_locator": "GA 20 S 13",
+      "stratum": "ga20-1925",
+      "term": "constituting itself as transcendence",
+      "claim": "The human is taken not as nature-reality but still as world-reality, constituting itself as transcendence in absolute consciousness.",
+      "status": "criticized",
+      "quote": "The human is taken not as nature-reality but still as *world-reality*, constituting itself as transcendence in absolute consciousness."
+    },
+    {
+      "id": "konstitution/ga20k/010",
+      "locator": "heidegger-ga-20-prolegomena-zur-geschichte-des-zeitbegriffs-commentary#h5-s-19-the-basic-constitution-of-dasein-as-being-in-the-world-the-in-being-of-dase",
+      "primary_locator": "GA 20 S 19",
+      "stratum": "ga20-1925",
+      "term": "basic constitution (Seinsverfassung)",
+      "claim": "A basic constitution is laid free: Dasein shows itself as being-in-the-world, a unitary and original determination, necessary though not sufficient.",
+      "status": "introduced",
+      "quote": "Heidegger lays free a *basic constitution*: Dasein shows itself as *being-in-the-world* (In-der-Welt-sein). This is a *unitary and original* determination; it is a *necessary* Dasein-structure, though far from a sufficient one."
+    },
+    {
+      "id": "konstitution/ga20k/011",
+      "locator": "heidegger-ga-20-prolegomena-zur-geschichte-des-zeitbegriffs-commentary#h5-s-19-the-basic-constitution-of-dasein-as-being-in-the-world-the-in-being-of-dase",
+      "primary_locator": "GA 20 S 19",
+      "stratum": "ga20-1925",
+      "term": "being-constitution (Seinsverfassung)",
+      "claim": "In-being is the being-constitution of Dasein in which every manner of being of this being is grounded, not an addition to a being that would be Dasein without it.",
+      "status": "introduced",
+      "quote": "In-being is rather the *being-constitution* of Dasein in which every manner of being of this being is grounded. It is no mere addition to a being that would be Dasein even without this constitution, as though the world in which each Dasein always already is came to it only occasionally"
+    },
+    {
+      "id": "konstitution/ga20k/012",
+      "locator": "heidegger-ga-20-prolegomena-zur-geschichte-des-zeitbegriffs-commentary#h4-s-26-the-who-of-being-in-the-world-being-with-and-das-man",
+      "primary_locator": "GA 20 S 26",
+      "stratum": "ga20-1925",
+      "term": "basic constitution (Seinsverfassung)",
+      "claim": "Only because Dasein has the basic constitution of being-with is there for-, against- and without-one-another, down to indifferent going-alongside-one-another.",
+      "status": "presupposed",
+      "quote": "only because Dasein has the basic constitution of being-with is there for-, against-, and without-one-another, down to indifferent going-alongside-one-another."
+    },
+    {
+      "id": "konstitution/ga20k/013",
+      "locator": "heidegger-ga-20-prolegomena-zur-geschichte-des-zeitbegriffs-commentary#h4-s-26-the-who-of-being-in-the-world-being-with-and-das-man",
+      "primary_locator": "GA 20 S 26",
+      "stratum": "ga20-1925",
+      "term": "constitutive of being-in-the-world",
+      "claim": "The worldly encounterability of Dasein and co-Dasein is constitutive of being-in-the-world, but they never thereby become something worldly.",
+      "status": "introduced",
+      "quote": "the worldly *encounterability* of Dasein and co-Dasein is constitutive of being-in-the-world, but they never thereby become something *worldly*."
+    }
+  ],
+  "absences": [
+    {
+      "locator": "heidegger-ga-20-prolegomena-zur-geschichte-des-zeitbegriffs-commentary#h4-s-9-the-clarification-of-the-name-phenomenology",
+      "expected_because": "The section clarifies the name 'phenomenology' and so fixes what the three discoveries of SS 5-7 amount to as a method, two sections before S 11 finds constitution among the four determinations of pure consciousness and S 12 makes constitution-analysis the object of the central objection. Its 1,819 words carry no term of the family."
+    }
+  ]
+}

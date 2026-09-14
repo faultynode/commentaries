@@ -1,0 +1,133 @@
+{
+  "schema_version": 1,
+  "theme": "konstitution",
+  "commentary": "husserliana-5-ideas-iii-commentary",
+  "source_sha256": "8f2dc2d3128d9af6d69e6ff7f334da6dfba099087d5891eea67fc54fba9b1ffd",
+  "extracted_at": "2026-09-14",
+  "extractor": {
+    "agent": "claude-code",
+    "prompt": "synthesis-pipeline/extraction-prompt.md"
+  },
+  "coverage": "partial",
+  "coverage_note": "Supplement I SS 1 and 6, and Supplement II section f) on the constitutive role of movement-sensations. The main text SS 1-20 has been read for candidates but only S 1 of the main text carries the theme at any density and it has not been extracted here. Stratum: none, since the commentary states no date for its own text.",
+  "units": [
+    {
+      "id": "konstitution/hua5/001",
+      "locator": "husserliana-5-ideas-iii-commentary#h4-s1-the-constitution-of-the-soul-empathy",
+      "primary_locator": "Hua V, Supplement I S 1",
+      "term": "constitutive unities",
+      "claim": "Animals and human beings are seen as ensouled by things being apprehended as bodies, that is by having courses of consciousness and the constitutive unities belonging to them interpreted into them.",
+      "status": "introduced",
+      "quote": "which happens by certain things being apprehended as bodies — i.e. by having courses of consciousness and the constitutive unities belonging to them interpreted into them."
+    },
+    {
+      "id": "konstitution/hua5/002",
+      "locator": "husserliana-5-ideas-iii-commentary#h4-s1-the-constitution-of-the-soul-empathy",
+      "primary_locator": "Hua V, Supplement I S 1",
+      "term": "intersubjective constitution",
+      "claim": "The body must be apprehended as a real unity, not yet as an objective material thing through intersubjective constitution, which itself presupposes a reference to a plurality of human beings.",
+      "status": "presupposed",
+      "quote": "The body must be apprehended as a real unity (though not yet as an “objective” material thing through intersubjective constitution, which itself presupposes a reference to a plurality of human beings"
+    },
+    {
+      "id": "konstitution/hua5/003",
+      "locator": "husserliana-5-ideas-iii-commentary#h4-s1-the-constitution-of-the-soul-empathy",
+      "primary_locator": "Hua V, Supplement I S 1",
+      "term": "constitutes itself",
+      "claim": "The appearance-manifolds constituting a real thing for two subjects are different, and through interpretation they are coordinated so that the objective thing constitutes itself as the same.",
+      "status": "introduced",
+      "quote": "the appearance-manifold constituting a real thing for one subject and the appearance-manifold constituting “the same” thing for the other are different; through interpretation, these two manifolds are coordinated"
+    },
+    {
+      "id": "konstitution/hua5/004",
+      "locator": "husserliana-5-ideas-iii-commentary#h4-s1-the-constitution-of-the-soul-empathy",
+      "primary_locator": "Hua V, Supplement I S 1",
+      "term": "constitutive manifestation",
+      "claim": "As the material body is objectified through its appearances to different subjects, so the soul constitutes itself in corresponding manifolds, through a process of constitutive manifestation and not schematization.",
+      "status": "introduced",
+      "quote": "Just as the material body is objectified through the manifold of its appearances to different subjects, so the soul (Sk) constitutes itself in corresponding manifolds."
+    },
+    {
+      "id": "konstitution/hua5/005",
+      "locator": "husserliana-5-ideas-iii-commentary#h4-s6-significance-of-the-problem-of-constitution-phenomenology-and-ontology",
+      "primary_locator": "Hua V, Supplement I S 6",
+      "term": "constitution of the lower experiential levels",
+      "claim": "Kant's problems presuppose a phenomenology and an insight into the constitution of the lower experiential levels, a task he neither grasped nor suspected in its magnitude.",
+      "status": "criticized",
+      "quote": "they presuppose a phenomenology and an insight into the constitution of the lower experiential levels — a task Kant neither grasped nor, where he brushed against it, suspected in its magnitude."
+    },
+    {
+      "id": "konstitution/hua5/006",
+      "locator": "husserliana-5-ideas-iii-commentary#h4-s6-significance-of-the-problem-of-constitution-phenomenology-and-ontology",
+      "primary_locator": "Hua V, Supplement I S 6",
+      "term": "problem of constitution in general",
+      "claim": "The problem of constitution in general, in its levels, with systematic descriptions at all levels and the exhibiting of essential connections, is foreign to Kant.",
+      "status": "introduced",
+      "quote": "The problem of constitution in general, in its levels, the necessity of carrying out the associated systematic descriptions at all levels, of exhibiting the essential connections, of considering the various a priori possibilities — all this is foreign to Kant"
+    },
+    {
+      "id": "konstitution/hua5/007",
+      "locator": "husserliana-5-ideas-iii-commentary#h4-s6-significance-of-the-problem-of-constitution-phenomenology-and-ontology",
+      "primary_locator": "Hua V, Supplement I S 6",
+      "term": "constituting flux",
+      "claim": "The ontological mode of consideration takes unities as fixed; the phenomenological-constitutive consideration takes the unity in flux, as unity of a constituting flux.",
+      "status": "introduced",
+      "quote": "The ontological mode of consideration is, so to speak, katastematic. It takes the unities in their identity and for the sake of their identity as something fixed. The phenomenological-constitutive consideration takes the unity in flux — namely as unity of a constituting flux"
+    },
+    {
+      "id": "konstitution/hua5/008",
+      "locator": "husserliana-5-ideas-iii-commentary#h4-s6-significance-of-the-problem-of-constitution-phenomenology-and-ontology",
+      "primary_locator": "Hua V, Supplement I S 6",
+      "term": "constitution of realities",
+      "claim": "What phenomenology seeks is not an essential doctrine of realities but of the constitution of realities and of the pure I and I-consciousness in general.",
+      "status": "presupposed",
+      "quote": "what it seeks is not an essential doctrine of realities but of the constitution of realities and of the pure I and I-consciousness in general"
+    },
+    {
+      "id": "konstitution/hua5/009",
+      "locator": "husserliana-5-ideas-iii-commentary#h5-f-the-constitutive-role-of-movement-sensations-in-comparison-with-other-sensatio",
+      "primary_locator": "Hua V, Supplement II f)",
+      "term": "thing-constitution",
+      "claim": "The kinesthetic sensation-courses have a special distinction predestining them for an exceptional role in thing-constitution.",
+      "status": "introduced",
+      "quote": "The kinesthetic sensation-courses have a special distinction predestining them for an exceptional role in thing-constitution."
+    },
+    {
+      "id": "konstitution/hua5/010",
+      "locator": "husserliana-5-ideas-iii-commentary#h5-f-the-constitutive-role-of-movement-sensations-in-comparison-with-other-sensatio",
+      "primary_locator": "Hua V, Supplement II f)",
+      "term": "originally constitutive",
+      "claim": "Originally constitutive are merely the free courses of kinesthetic sensations in their motivation-relation to the series of motivated thing-apprehensions.",
+      "status": "revised",
+      "quote": "Originally constitutive are merely the free courses of kinesthetic sensations in their motivation-relation to the series of motivated thing-apprehensions with the orders of materials implied in them"
+    },
+    {
+      "id": "konstitution/hua5/011",
+      "locator": "husserliana-5-ideas-iii-commentary#h5-f-the-constitutive-role-of-movement-sensations-in-comparison-with-other-sensatio",
+      "primary_locator": "Hua V, Supplement II f)",
+      "term": "body-constitution",
+      "claim": "Tactile and parallel sensations function simultaneously as thing-constituting and body-constituting, while all other sensations contribute to thing-constitution but cannot primarily contribute to body-constitution.",
+      "status": "introduced",
+      "quote": "They function simultaneously as thing-constituting and body-constituting — constituting the body both as thing and as localization-field, as bearer of sensations. All other sensations contribute to thing-constitution through interweaving of apprehensions, but cannot primarily contribute to body-constitution."
+    },
+    {
+      "id": "konstitution/hua5/012",
+      "locator": "husserliana-5-ideas-iii-commentary#h5-f-the-constitutive-role-of-movement-sensations-in-comparison-with-other-sensatio",
+      "primary_locator": "Hua V, Supplement II f)",
+      "term": "constitutive orders",
+      "claim": "Tactile and visual sensations belong to quite different constitutive orders and play quite different roles for bodily constitution.",
+      "status": "introduced",
+      "quote": "They belong to quite different constitutive orders and play quite different roles."
+    }
+  ],
+  "absences": [
+    {
+      "locator": "husserliana-5-ideas-iii-commentary#h4-b-the-science-of-the-body-somatology",
+      "expected_because": "Somatology as the science of the body is the discipline whose object Supplement II f) describes as constituted by kinesthetic and tactile sensations, and Supplement I S 1 as the bearer for the constitution of the soul. The section carries no term of the family."
+    },
+    {
+      "locator": "husserliana-5-ideas-iii-commentary#h3-supplement-iv-to-ss7-9-type-empirical-classification",
+      "expected_because": "Empirical type and classification is where a regional ontology gets its object, and S 6 makes the constitution-problem the condition of every regional ontology. The supplement states the doctrine of type without the vocabulary of constitution."
+    }
+  ]
+}

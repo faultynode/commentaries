@@ -1,0 +1,172 @@
+{
+  "schema_version": 1,
+  "theme": "konstitution",
+  "commentary": "henry-the-essence-of-manifestation-commentary",
+  "source_sha256": "81321687b3823d9c3244b29758d979f86bd9d4ac28813fa58686aa2e9446ff68",
+  "extracted_at": "2026-09-14",
+  "extractor": {
+    "agent": "claude-code",
+    "prompt": "synthesis-pipeline/extraction-prompt.md"
+  },
+  "coverage": "partial",
+  "coverage_note": "Introduction SS 3-7, where the Husserlian doctrine of transcendental constitution is stated and then criticized, plus the one technical occurrence in Section III S 37. The raw term ranking is misleading here: SS 11, 37, 41, 45, 49, 52 and 57 carry most of the commentary's hits, but almost all of them are 'constitutes' in the ordinary sense of 'makes up'. SS 41, 49, 52 and 57 were checked for the technical vocabulary and contain none; two are recorded as absences.",
+  "units": [
+    {
+      "id": "konstitution/henry-em/001",
+      "locator": "henry-the-essence-of-manifestation-commentary#h2-s-3-the-overcoming-of-intuitionism-and-the-liberation-of-the-universal-phenomeno",
+      "primary_locator": "L'essence de la manifestation S 3",
+      "stratum": "henry-essence-undated",
+      "term": "co-constitution",
+      "claim": "Husserl is credited with a doctrine of regional horizons, among them the horizon of intersubjective co-constitution, each of them a determinate eidetic structure.",
+      "status": "presupposed",
+      "quote": "Husserl does have a doctrine of different types of horizons corresponding to different regions (the horizon of spatial perception, the horizon of temporal experience, the horizon of intersubjective co-constitution, etc.)"
+    },
+    {
+      "id": "konstitution/henry-em/002",
+      "locator": "henry-the-essence-of-manifestation-commentary#h2-s-5-the-problem-of-the-insertion-of-the-ego-cogito-inside-the-universal-phenomen",
+      "primary_locator": "L'essence de la manifestation S 5",
+      "stratum": "henry-essence-undated",
+      "term": "constitutive",
+      "claim": "Consciousness is constitutive of the sense of being in general, prescribing to every object and every type of object the sense of being that is its own.",
+      "status": "introduced",
+      "quote": "Consciousness is constitutive of the sense of being in general; it is consciousness that prescribes to every object and every type of object the sense of being that is its own."
+    },
+    {
+      "id": "konstitution/henry-em/003",
+      "locator": "henry-the-essence-of-manifestation-commentary#h2-s-5-the-problem-of-the-insertion-of-the-ego-cogito-inside-the-universal-phenomen",
+      "primary_locator": "L'essence de la manifestation S 5",
+      "stratum": "henry-essence-undated",
+      "term": "transcendental constitution",
+      "claim": "The preceding paragraph is identified as a statement of the Husserlian doctrine of transcendental constitution, located in Ideen I and the Cartesian Meditations.",
+      "status": "introduced",
+      "quote": "This is a compressed but precise statement of the Husserlian doctrine of transcendental constitution, as developed especially in *Ideen I* §§35–55 and §§76ff., and in the *Cartesian Meditations*"
+    },
+    {
+      "id": "konstitution/henry-em/004",
+      "locator": "henry-the-essence-of-manifestation-commentary#h2-s-5-the-problem-of-the-insertion-of-the-ego-cogito-inside-the-universal-phenomen",
+      "primary_locator": "L'essence de la manifestation S 5",
+      "stratum": "henry-essence-undated",
+      "term": "constitution",
+      "claim": "To every object of a possible experience there corresponds in the transcendental I a rule of structure presiding over the constitution of that object.",
+      "status": "presupposed",
+      "quote": "To every object of a possible experience corresponds in the transcendental I a rule of structure, which presides over the constitution of this object."
+    },
+    {
+      "id": "konstitution/henry-em/005",
+      "locator": "henry-the-essence-of-manifestation-commentary#h2-s-5-the-problem-of-the-insertion-of-the-ego-cogito-inside-the-universal-phenomen",
+      "primary_locator": "L'essence de la manifestation S 5",
+      "stratum": "henry-essence-undated",
+      "term": "constituted reality",
+      "claim": "The ego as constituted reality is a transcendent being whose origin lies in an eidetically defined configuration of transcendental life.",
+      "status": "presupposed",
+      "quote": "That the ego exists, as a constituted reality, as a transcendent being provided with its own sense, which finds its origin in an eidetically defined configuration of transcendental life"
+    },
+    {
+      "id": "konstitution/henry-em/006",
+      "locator": "henry-the-essence-of-manifestation-commentary#h2-s-5-the-problem-of-the-insertion-of-the-ego-cogito-inside-the-universal-phenomen",
+      "primary_locator": "L'essence de la manifestation S 5",
+      "stratum": "henry-essence-undated",
+      "term": "naturant",
+      "claim": "The absolute ego as constituting is set against the constituted reality of the psychological or mundane ego, and the commentary reads the pair as Husserl's pure/empirical ego distinction.",
+      "status": "presupposed",
+      "quote": "Henry uses it to designate the absolute ego as *constituting* rather than *constituted* — the pure productive source of sense, as opposed to the constituted reality of the psychological or mundane ego."
+    },
+    {
+      "id": "konstitution/henry-em/007",
+      "locator": "henry-the-essence-of-manifestation-commentary#h2-s-5-the-problem-of-the-insertion-of-the-ego-cogito-inside-the-universal-phenomen",
+      "primary_locator": "L'essence de la manifestation S 5",
+      "stratum": "henry-essence-undated",
+      "term": "power of constitution",
+      "claim": "Showing that the regions of being refer to a fundamental power of constitution does not resolve the problem of that origin but poses it more urgently.",
+      "status": "criticized",
+      "quote": "Once one has shown, indeed, how the different regions of being refer necessarily to a fundamental power of constitution that is the origin whence the objects they rule draw their being and their sense, one has not for all that resolved the problem of this origin."
+    },
+    {
+      "id": "konstitution/henry-em/008",
+      "locator": "henry-the-essence-of-manifestation-commentary#h2-s-5-the-problem-of-the-insertion-of-the-ego-cogito-inside-the-universal-phenomen",
+      "primary_locator": "L'essence de la manifestation S 5",
+      "stratum": "henry-essence-undated",
+      "term": "constituting and donative consciousness",
+      "claim": "The overcoming of intuitionism toward a transcendental philosophy of constituting and donative consciousness is said to be only apparent.",
+      "status": "criticized",
+      "quote": "The overcoming of intuitionism toward a transcendental philosophy of constituting and donative consciousness is only apparent."
+    },
+    {
+      "id": "konstitution/henry-em/009",
+      "locator": "henry-the-essence-of-manifestation-commentary#h2-s-6-the-difficulties-relative-to-the-edification-of-universal-phenomenological-o",
+      "primary_locator": "L'essence de la manifestation S 6",
+      "stratum": "henry-essence-undated",
+      "term": "constituting role",
+      "claim": "The transcendental relation as read here keeps the primacy of being and does not raise the human to a constituting role, which is what Husserlian subjectivism does.",
+      "status": "criticized",
+      "quote": "the transcendental relation does not elevate the human to a constituting role (as Husserlian subjectivism does); it maintains the primacy of being"
+    },
+    {
+      "id": "konstitution/henry-em/010",
+      "locator": "henry-the-essence-of-manifestation-commentary#h2-s-7-the-problematic-concerning-the-being-of-the-ego-interpreted-as-an-originary",
+      "primary_locator": "L'essence de la manifestation S 7",
+      "stratum": "henry-essence-undated",
+      "term": "constituting source",
+      "claim": "Henry's absolute ego is absolute because it is self-revealing, and not, as Husserl's is, because it is the constituting source of objective sense.",
+      "status": "criticized",
+      "quote": "The ego is the absolute, but in a sense different from Husserl's \"absolute ego\": it is absolute because it is self-revealing, not because it is the constituting source of objective sense."
+    },
+    {
+      "id": "konstitution/henry-em/011",
+      "locator": "henry-the-essence-of-manifestation-commentary#h2-s-7-the-problematic-concerning-the-being-of-the-ego-interpreted-as-an-originary",
+      "primary_locator": "L'essence de la manifestation S 7",
+      "stratum": "henry-essence-undated",
+      "term": "transcendental philosophy of constitution",
+      "claim": "Integrating a philosophy of intuition into a transcendental philosophy of constitution does not effect the overcoming of intuitionism, because it stays inside a problematic of the object.",
+      "status": "criticized",
+      "quote": "It is no more so when it consists in the integration of a philosophy of intuition into a transcendental philosophy of constitution. In both cases, and however different the paths on which philosophical reflection engages, this reflection remains in fact exclusively conditioned by the preoccupations of a problematic of the object."
+    },
+    {
+      "id": "konstitution/henry-em/012",
+      "locator": "henry-the-essence-of-manifestation-commentary#h2-s-37-the-internal-structure-of-immanence",
+      "primary_locator": "L'essence de la manifestation S 37",
+      "stratum": "henry-essence-undated",
+      "term": "transcendental constitution",
+      "claim": "Transcendental constitution is listed among the structures of freedom the tradition analysed while missing a prior passivity in the relation to oneself.",
+      "status": "criticized",
+      "quote": "It has analyzed all the structures that pertain to freedom (creative imagination, transcendental constitution, projective Care, decision, etc.) without ever recognizing that beneath these structures lies a more fundamental structure of *passivity in the relation to oneself*."
+    }
+  ],
+  "absences": [
+    {
+      "locator": "henry-the-essence-of-manifestation-commentary#h2-s-49-ontological-signification-of-the-critique-of-knowledge-in-eckhart",
+      "expected_because": "The section is the ontological reckoning with the critique of knowledge, the point at which the Husserlian doctrine criticized in the Introduction would have to be answered in Henry's own terms. It is the second-densest section in the commentary on the theme's search terms.",
+      "note": "All 38 hits are 'constitutes'/'constitutive' in the ordinary sense of making something up. No technical form occurs.",
+      "absent_terms": [
+        "Konstitution",
+        "konstituiert",
+        "Konstituierung",
+        "transcendental constitution",
+        "constituting consciousness",
+        "constituting subject",
+        "constituting source",
+        "philosophy of constitution",
+        "power of constitution",
+        "co-constitution",
+        "self-constitution"
+      ]
+    },
+    {
+      "locator": "henry-the-essence-of-manifestation-commentary#h2-s-57-affectivity-as-the-universal-form-of-all-possible-experience-in-general-and",
+      "expected_because": "Affectivity is put forward here as the universal form of all possible experience, the place Husserl gives to constituting consciousness. The positive doctrine is stated without any of the vocabulary of constitution.",
+      "absent_terms": [
+        "Konstitution",
+        "konstituiert",
+        "Konstituierung",
+        "transcendental constitution",
+        "constituting consciousness",
+        "constituting subject",
+        "constituting source",
+        "philosophy of constitution",
+        "power of constitution",
+        "co-constitution",
+        "self-constitution"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,142 @@
+{
+  "schema_version": 1,
+  "theme": "konstitution",
+  "commentary": "husserliana-11-analyses-concerning-passive-and-active-synthesis-commentary",
+  "source_sha256": "bd22bb3a9bd7ac059dd0537fbae0892179ea2f75e9464040ab2e95600cf82570",
+  "extracted_at": "2026-09-14",
+  "extractor": {
+    "agent": "claude-code",
+    "prompt": "synthesis-pipeline/extraction-prompt.md"
+  },
+  "coverage": "partial",
+  "coverage_note": "Steinbock's introduction (Sections 2 and 4 on genetic method, and B on affection and association) and SS 4, 47 and 48 of the lectures. No unit carries a stratum: the commentary records that the lectures were delivered three times but does not assign any passage to a delivery. The bulk of the lectures - SS 1-3, 5-46 and the appendices - has not been extracted.",
+  "units": [
+    {
+      "id": "konstitution/hua11/001",
+      "locator": "husserliana-11-analyses-concerning-passive-and-active-synthesis-commentary#h3-section-2-genesis-and-genetic-phenomenological-method",
+      "primary_locator": "Steinbock, translator's introduction S 2",
+      "term": "static constitution",
+      "claim": "Husserl had described genetic matters exceeding the scope of static constitution under the title of primordial constitution, and was provoked by the matters themselves to catch up with his own description.",
+      "status": "revised",
+      "quote": "because he had described genetic matters exceeding the scope of static constitution (apperception, normality/abnormality, kinaesthesis, association—all under the title of \"primordial constitution\""
+    },
+    {
+      "id": "konstitution/hua11/002",
+      "locator": "husserliana-11-analyses-concerning-passive-and-active-synthesis-commentary#h3-section-2-genesis-and-genetic-phenomenological-method",
+      "primary_locator": "Steinbock, translator's introduction S 2",
+      "term": "constitutional problems",
+      "claim": "Husserl granted methodological priority to constitutional problems that did not broach temporal genesis, a two-fold methodological prejudice of beginning at rest and with the simple.",
+      "status": "presupposed",
+      "quote": "Husserl thus granted methodological priority to constitutional problems that did not broach temporal genesis."
+    },
+    {
+      "id": "konstitution/hua11/003",
+      "locator": "husserliana-11-analyses-concerning-passive-and-active-synthesis-commentary#h3-b-affection-and-association",
+      "primary_locator": "Steinbock, translator's introduction B",
+      "term": "constitution of sense",
+      "claim": "The analyses of affection describe the regularities in the constitution of sense through passive syntheses of association.",
+      "status": "introduced",
+      "quote": "Husserl's analyses of affection attempt to describe the fundamental regularities in the constitution of sense through passive syntheses of association"
+    },
+    {
+      "id": "konstitution/hua11/004",
+      "locator": "husserliana-11-analyses-concerning-passive-and-active-synthesis-commentary#h3-b-affection-and-association",
+      "primary_locator": "Steinbock, translator's introduction B",
+      "term": "original constitution",
+      "claim": "The unconscious is a nothing of affective force that has arisen from original constitution, and its objectlike formations can be reawakened through association.",
+      "status": "introduced",
+      "quote": "not a nothing, but a nothing of affective force that has arisen from original constitution. Objectlike formations in the unconscious are no longer affective but can be reawakened through ass"
+    },
+    {
+      "id": "konstitution/hua11/005",
+      "locator": "husserliana-11-analyses-concerning-passive-and-active-synthesis-commentary#h3-s4-the-relation-of-esse-and-percipi-in-immanent-and-transcendent-perception",
+      "primary_locator": "Hua XI S 4",
+      "term": "constituted",
+      "claim": "A transcendent object can only be constituted when an immanent content is constituted as substratum, that content taking over the function of adumbration.",
+      "status": "introduced",
+      "quote": "a transcendent object like a thing can only be constituted when an immanent content is constituted as substratum—this immanent content is substituted for the function of \"adumbration,\" of exhibiting appearance."
+    },
+    {
+      "id": "konstitution/hua11/006",
+      "locator": "husserliana-11-analyses-concerning-passive-and-active-synthesis-commentary#h3-s4-the-relation-of-esse-and-percipi-in-immanent-and-transcendent-perception",
+      "primary_locator": "Hua XI S 4",
+      "term": "constituted",
+      "claim": "All noematic moments contained in the object are constituted by means of immanent data of sensation, by virtue of the consciousness that animates them.",
+      "status": "presupposed",
+      "quote": "All noematic moments contained in the object are constituted by means of immanent data of sensation, by virtue of the consciousness that \"animates\" them."
+    },
+    {
+      "id": "konstitution/hua11/007",
+      "locator": "husserliana-11-analyses-concerning-passive-and-active-synthesis-commentary#h3-s4-the-relation-of-esse-and-percipi-in-immanent-and-transcendent-perception",
+      "primary_locator": "Hua XI S 4",
+      "term": "constitution of an object as sense",
+      "claim": "The constitution of an object as sense is in principle unique for every basic type of object, each requiring a different intentional structure.",
+      "status": "introduced",
+      "quote": "But the constitution of an object as sense is in principle unique for every basic type of object. Perception is not staring blankly at something lodged in consciousness; for every imaginable ego-subject, every objectlike existence with specific content is an accomplishment of consciousness. Every basic type of object requires a different intentional structure."
+    },
+    {
+      "id": "konstitution/hua11/008",
+      "locator": "husserliana-11-analyses-concerning-passive-and-active-synthesis-commentary#h3-s4-the-relation-of-esse-and-percipi-in-immanent-and-transcendent-perception",
+      "primary_locator": "Hua XI S 4",
+      "term": "constituted",
+      "claim": "Immanent objects are not constituted by constant sense-modification in the sense of approximation: perception constitutes them in their absoluteness.",
+      "status": "revised",
+      "quote": "For immanent objects the situation is entirely different: perception constitutes them in their absoluteness; they are not constituted by constant sense-modification in the sense of approximation."
+    },
+    {
+      "id": "konstitution/hua11/009",
+      "locator": "husserliana-11-analyses-concerning-passive-and-active-synthesis-commentary#h3-s47-the-constitution-of-the-objective-world-in-its-significance-for-the-determin",
+      "primary_locator": "Hua XI S 47",
+      "term": "constitutes",
+      "claim": "The immanent stream of consciousness determines the future by constituting within itself an objective world in a transcendent intentionality.",
+      "status": "introduced",
+      "quote": "Through the fact that it constitutes within itself an objective world in a transcendent intentionality."
+    },
+    {
+      "id": "konstitution/hua11/010",
+      "locator": "husserliana-11-analyses-concerning-passive-and-active-synthesis-commentary#h3-s47-the-constitution-of-the-objective-world-in-its-significance-for-the-determin",
+      "primary_locator": "Hua XI S 47",
+      "term": "constituted",
+      "claim": "Things are constituted in immanent lived-experiences but not as lived-experiences: they are constituted as intentional unities of actual and possible perception.",
+      "status": "introduced",
+      "quote": "Things are constituted in immanent lived-experiences but not as lived-experiences—they are essentially constituted as intentional unities of actual and possible perception, extending beyond current perceptions as unities appearing in them."
+    },
+    {
+      "id": "konstitution/hua11/011",
+      "locator": "husserliana-11-analyses-concerning-passive-and-active-synthesis-commentary#h3-s48-consciousness-as-a-storied-structure-of-constitutive-accomplishments-the-dis",
+      "primary_locator": "Hua XI S 48",
+      "term": "Stufenbau",
+      "claim": "Consciousness in general is a storied structure of constitutive accomplishments in which ever new objectivities of ever new types are constituted at ever new levels.",
+      "status": "introduced",
+      "quote": "consciousness in general as a \"storied structure\" (*Stufenbau*) of constitutive accomplishments in which ever new objectivities of ever new types are constituted at ever new levels."
+    },
+    {
+      "id": "konstitution/hua11/012",
+      "locator": "husserliana-11-analyses-concerning-passive-and-active-synthesis-commentary#h3-s48-consciousness-as-a-storied-structure-of-constitutive-accomplishments-the-dis",
+      "primary_locator": "Hua XI S 48",
+      "term": "constituting",
+      "claim": "Consciousness is an incessant constituting of objectivities in graduated levels, a never ending history of constituting higher formations of sense through which an immanent teleology prevails.",
+      "status": "introduced",
+      "quote": "an incessant constituting of objectivities in graduated levels. \"It is a never ending history. And history is a graduating process of constituting higher and higher formations of sense through which prevails an immanent teleology."
+    },
+    {
+      "id": "konstitution/hua11/013",
+      "locator": "husserliana-11-analyses-concerning-passive-and-active-synthesis-commentary#h3-s48-consciousness-as-a-storied-structure-of-constitutive-accomplishments-the-dis",
+      "primary_locator": "Hua XI S 48",
+      "term": "constitution of nature",
+      "claim": "What was accomplished for the self-objectivation of consciousness with respect to its past must now be accomplished for the constitution of nature.",
+      "status": "introduced",
+      "quote": "What was accomplished for the self-objectivation of consciousness with respect to its past must now be accomplished for the constitution of nature"
+    }
+  ],
+  "absences": [
+    {
+      "locator": "husserliana-11-analyses-concerning-passive-and-active-synthesis-commentary#h3-s1-original-consciousness-and-the-perspectival-adumbration-of-spatial-objects",
+      "expected_because": "The opening section treats original consciousness and the perspectival adumbration of the spatial thing, which is exactly what S 4 states as the constitution of a transcendent object on an immanent content serving as substratum for adumbration. No term of the family occurs in it."
+    },
+    {
+      "locator": "husserliana-11-analyses-concerning-passive-and-active-synthesis-commentary#h3-s14-position-taking-of-the-ego-as-the-active-response-to-the-modal-modifications",
+      "expected_because": "Position-taking of the ego as active response is the hinge between passivity and activity that the introduction describes as tracing the origins of activity in passivity, a matter of primordial constitution. The section states it without the term."
+    }
+  ]
+}

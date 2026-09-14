@@ -1,0 +1,135 @@
+{
+  "schema_version": 1,
+  "theme": "konstitution",
+  "commentary": "bernet-la-vie-du-sujet-commentary",
+  "source_sha256": "4269d26270bb4f610dfccc053738781719d3fd12980aa525092b4633187232af",
+  "extracted_at": "2026-09-14",
+  "extractor": {
+    "agent": "claude-code",
+    "prompt": "synthesis-pipeline/extraction-prompt.md"
+  },
+  "coverage": "partial",
+  "coverage_note": "The three densest sections - 'The Being of the World and the Being of Constituting Consciousness', 'The Being of Constituting Consciousness and the Being of the Phenomenological Spectator' and 'The Noema as Phenomenologically Reduced Object' - plus the chapter sections I and III on world-constitution and pregivenness. The book's chapters on time, memory, Proust and Barthes and on Derrida have not been extracted.",
+  "units": [
+    {
+      "id": "konstitution/bernet/001",
+      "locator": "bernet-la-vie-du-sujet-commentary#h4-the-being-of-the-world-and-the-being-of-constituting-consciousness",
+      "primary_locator": "La vie du sujet, p. 11",
+      "stratum": "bernet-vie-1994",
+      "term": "constituting consciousness",
+      "claim": "The reduction makes constituting consciousness appear outside the world and equally makes the world appear as constituted, the being of the world from its origin in the transcendental subject.",
+      "status": "introduced",
+      "quote": "The reduction makes constituting consciousness appear outside the world, but it equally makes the world appear as constituted — the being of the world from its origin in the transcendental subject."
+    },
+    {
+      "id": "konstitution/bernet/002",
+      "locator": "bernet-la-vie-du-sujet-commentary#h4-the-being-of-the-world-and-the-being-of-constituting-consciousness",
+      "primary_locator": "La vie du sujet, p. 12",
+      "stratum": "bernet-vie-1994",
+      "term": "world-constitution",
+      "claim": "In the leap of the reduction the transcendental subject splits into constituting subject and spectator subject, the latter observing constitution without taking part.",
+      "status": "introduced",
+      "quote": "the subject splits into constituting subject and spectator subject. Leaping out of world-constitution, the subject installs itself in the position of the onlooker who observes constitution without taking part (*unbeteiligter Zuschauer*)"
+    },
+    {
+      "id": "konstitution/bernet/003",
+      "locator": "bernet-la-vie-du-sujet-commentary#h4-the-being-of-the-world-and-the-being-of-constituting-consciousness",
+      "primary_locator": "La vie du sujet, p. 13",
+      "stratum": "bernet-vie-1994",
+      "term": "constituting consciousness",
+      "claim": "What the spectator makes appear for the first time is the ontological difference between constituting consciousness and constituted world, which the subject-world correlation covers over from within the labour of constitution.",
+      "status": "introduced",
+      "quote": "What appears for the first time thanks to the spectator is the ontological difference between constituting consciousness and constituted world — the difference natural life misrecognizes and which the subject-world correlation covers over from within the labour of constitution."
+    },
+    {
+      "id": "konstitution/bernet/004",
+      "locator": "bernet-la-vie-du-sujet-commentary#h4-the-being-of-constituting-consciousness-and-the-being-of-the-phenomenological-sp",
+      "primary_locator": "La vie du sujet, pp. 14-15",
+      "stratum": "bernet-vie-1994",
+      "term": "constituting consciousness",
+      "claim": "The spectator does not produce the constituting consciousness it brings to light: transcendental consciousness constitutes the world long before and independently of any reduction.",
+      "status": "presupposed",
+      "quote": "the spectator, self-produced, does not produce the constituting consciousness it brings to light: transcendental consciousness constitutes the world long before and independently of any reduction."
+    },
+    {
+      "id": "konstitution/bernet/005",
+      "locator": "bernet-la-vie-du-sujet-commentary#h4-the-being-of-constituting-consciousness-and-the-being-of-the-phenomenological-sp",
+      "primary_locator": "La vie du sujet, pp. 14-15",
+      "stratum": "bernet-vie-1994",
+      "term": "constitutive activity",
+      "claim": "Before the reduction constituting consciousness is too buried in the world for its own constitutive activity to reveal itself to it, and lives in ignorance of itself.",
+      "status": "introduced",
+      "quote": "Before the reduction it is too deeply buried in the world and too riveted to worldly things for its own constitutive activity to reveal itself to it; in natural life it lives in ignorance of itself"
+    },
+    {
+      "id": "konstitution/bernet/006",
+      "locator": "bernet-la-vie-du-sujet-commentary#h4-the-being-of-constituting-consciousness-and-the-being-of-the-phenomenological-sp",
+      "primary_locator": "La vie du sujet, pp. 15-16",
+      "stratum": "bernet-vie-1994",
+      "term": "Selbstbezug",
+      "claim": "The self-relation of constituting consciousness is marked by heterogeneity: it needs the spectator in order to appear to itself, while the spectator depends on nothing but itself.",
+      "status": "introduced",
+      "quote": "Constituting consciousness needs the spectator in order to appear to itself; the spectator depends on nothing but itself to reflect on its own activity as spectator."
+    },
+    {
+      "id": "konstitution/bernet/007",
+      "locator": "bernet-la-vie-du-sujet-commentary#h4-the-noema-as-phenomenologically-reduced-object",
+      "primary_locator": "La vie du sujet, p. 70",
+      "stratum": "bernet-vie-1994",
+      "term": "constituting phenomenon",
+      "claim": "The noema as phenomenologically reduced object is amphibolous: it names on one side a pure constituting phenomenon and on the other an object constituted unitarily in the regulated chaining of such phenomena.",
+      "status": "introduced",
+      "quote": "The noema as phenomenologically reduced object can therefore designate on one side a pure constituting phenomenon and on the other an object-in-quotation-marks constituted unitarily in the regulated chaining of such phenomena."
+    },
+    {
+      "id": "konstitution/bernet/008",
+      "locator": "bernet-la-vie-du-sujet-commentary#h4-the-noema-as-phenomenologically-reduced-object",
+      "primary_locator": "La vie du sujet, pp. 75-77",
+      "stratum": "bernet-vie-1994",
+      "term": "constituted",
+      "claim": "The thing as constituted is essentially dependent on constituting consciousness both in its mode of givenness and in its mode of being.",
+      "status": "presupposed",
+      "quote": "the thing as constituted is essentially dependent on constituting consciousness both in its mode of givenness and in its mode of being."
+    },
+    {
+      "id": "konstitution/bernet/009",
+      "locator": "bernet-la-vie-du-sujet-commentary#h4-the-noema-as-phenomenologically-reduced-object",
+      "primary_locator": "La vie du sujet, p. 77",
+      "stratum": "bernet-vie-1994",
+      "term": "qua constituta",
+      "claim": "If the being of the object is identified with its being-given and that with constituting consciousness, nothing seems to justify calling the constituted thing a real spatial being transcendent to consciousness.",
+      "status": "criticized",
+      "quote": "if, as is constant in Husserl, the being of the object is identified with its being-given and the latter with constituting consciousness, then nothing apparently justifies speaking any longer of the being of the constituted thing as a real (*real*), spatial being transcendent to consciousness."
+    },
+    {
+      "id": "konstitution/bernet/010",
+      "locator": "bernet-la-vie-du-sujet-commentary#h4-i",
+      "primary_locator": "La vie du sujet, pp. 97-98",
+      "stratum": "bernet-vie-1994",
+      "term": "transcendental constitution",
+      "claim": "Cartesian dualism obstructs any understanding of what transcendental constitution of the world by the subject means; the constituted world is neither purely interior nor purely exterior to the constituting subject.",
+      "status": "criticized",
+      "quote": "a dualism that at bottom obstructs any understanding of what transcendental constitution of the world by the subject means. The constituted world is neither purely interior nor purely exterior to the constituting subject"
+    },
+    {
+      "id": "konstitution/bernet/011",
+      "locator": "bernet-la-vie-du-sujet-commentary#h4-iii",
+      "primary_locator": "La vie du sujet, pp. 115-116",
+      "stratum": "bernet-vie-1994",
+      "term": "acts of constitution",
+      "claim": "The pregiven world is not the pregiven hyle: the hyle is a formless datum preceding all acts of constitution, while the pregiven world is the sedimentation of earlier acts of formation and constitution.",
+      "status": "criticized",
+      "quote": "the latter is a formless sensible datum preceding all acts of constitution, whereas the former is the sedimentation of earlier acts of formation and constitution."
+    }
+  ],
+  "absences": [
+    {
+      "locator": "bernet-la-vie-du-sujet-commentary#h4-intentionality-and-transcendence",
+      "expected_because": "Intentionality and transcendence are the pair whose working-out elsewhere in the book is stated as constitution - the object's transcendence is precisely what constituting consciousness is said to achieve. The section treats them without any term of the family."
+    },
+    {
+      "locator": "bernet-la-vie-du-sujet-commentary#h3-3-the-world-husserl",
+      "expected_because": "A section on the world in Husserl, where the chapter sections I and III both put the question as one of world-constitution by the subject. No term of the family occurs here."
+    }
+  ]
+}

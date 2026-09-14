@@ -1,0 +1,141 @@
+{
+  "schema_version": 1,
+  "theme": "konstitution",
+  "commentary": "husserliana-39-die-lebenswelt-commentary",
+  "source_sha256": "d62704cb5caf45b6bdf8945916547e1f1c889ace9b84a84347f16fce9c32a105",
+  "extracted_at": "2026-09-14",
+  "extractor": {
+    "agent": "claude-code",
+    "prompt": "synthesis-pipeline/extraction-prompt.md"
+  },
+  "coverage": "partial",
+  "coverage_note": "Text Nr. 1, Text Nr. 2, Text Nr. 3, Text Nr. 6 and S 1 of the editor's division - the texts that carry the theme's weight in this commentary, including the stratified architecture of constitution (Nr. 2) and the constitutive priority of the world over the immanent sphere (Nr. 3). The supplements and Texts Nr. 4, 5, 7 and following have not been extracted.",
+  "units": [
+    {
+      "id": "konstitution/hua39/001",
+      "locator": "husserliana-39-die-lebenswelt-commentary#h3-text-nr-1-primal-institution-of-the-sense-of-being-of-pre-given-individual-being",
+      "primary_locator": "Hua XXXIX, Text Nr. 1",
+      "stratum": "hua39-undated",
+      "term": "Urstiftung",
+      "claim": "Primordial and secondary Urstiftung are distinguished, the primordial being the absolutely first constitution of an object of a given type in the genesis of a subject.",
+      "status": "introduced",
+      "quote": "the primordial, which is the absolutely first constitution of an object of a given type in the genesis of a subject, and the secondary, which is the first encounter with a new individual of an already familiar type."
+    },
+    {
+      "id": "konstitution/hua39/002",
+      "locator": "husserliana-39-die-lebenswelt-commentary#h3-text-nr-1-primal-institution-of-the-sense-of-being-of-pre-given-individual-being",
+      "primary_locator": "Hua XXXIX, Text Nr. 1",
+      "stratum": "hua39-undated",
+      "term": "pre-constituted",
+      "claim": "What is merely passively pre-constituted does not count as being in the full sense until active ego-engagement has occurred somewhere in the genetic history.",
+      "status": "revised",
+      "quote": "Even what is merely passively pre-constituted does not count as \"being\" in the full sense until active ego-engagement has occurred at some point in the genetic history."
+    },
+    {
+      "id": "konstitution/hua39/003",
+      "locator": "husserliana-39-die-lebenswelt-commentary#h3-text-nr-2-background-and-pre-givenness-differences-of-pre-givenness-prominence-a",
+      "primary_locator": "Hua XXXIX, Text Nr. 2",
+      "stratum": "hua39-undated",
+      "term": "constituted",
+      "claim": "Even a sensation-datum shows itself to be constituted as a temporally enduring unity in a synthesis, an originally constituted immanent intentional objectuality.",
+      "status": "introduced",
+      "quote": "shows that it is constituted as a temporally enduring unity in a synthesis, that it is itself an \"objectuality,\" something representational. It is an \"intentional objectuality,\" an immanent one, originally constituted, here functioning in a certain way for a \"transcendent apperception,\" an apperception in the pregnant sense."
+    },
+    {
+      "id": "konstitution/hua39/004",
+      "locator": "husserliana-39-die-lebenswelt-commentary#h3-text-nr-2-background-and-pre-givenness-differences-of-pre-givenness-prominence-a",
+      "primary_locator": "Hua XXXIX, Text Nr. 2",
+      "stratum": "hua39-undated",
+      "term": "constitution",
+      "claim": "Constitution is stratified: every level of objectuality serves as relative hyle for a higher level, sensation-data for appearances and appearances for things.",
+      "status": "introduced",
+      "quote": "Every level of objectuality serves as \"relative hyle\" — relative material — for a higher level. Sensation-data are hyle for the constitution of appearances; appearances are hyle for the constitution of things"
+    },
+    {
+      "id": "konstitution/hua39/005",
+      "locator": "husserliana-39-die-lebenswelt-commentary#h3-text-nr-3-the-world-pre-given-from-original-acquisition-not-so-consciousness-the",
+      "primary_locator": "Hua XXXIX, Text Nr. 3",
+      "stratum": "hua39-undated",
+      "term": "constitutive priority",
+      "claim": "The world has a constitutive priority over the inner life, not because it is more real but because it is constitutively more available.",
+      "status": "introduced",
+      "quote": "the world has a constitutive priority over the inner life, not because it is more \"real\" in some metaphysical sense, but because it is constitutively more \"available.\""
+    },
+    {
+      "id": "konstitution/hua39/006",
+      "locator": "husserliana-39-die-lebenswelt-commentary#h3-text-nr-3-the-world-pre-given-from-original-acquisition-not-so-consciousness-the",
+      "primary_locator": "Hua XXXIX, Text Nr. 3",
+      "stratum": "hua39-undated",
+      "term": "constituted in passive unity",
+      "claim": "The immanent, as the milieu of all constitution, is constituted in passive unity, and that passive unity is only potentiality for an actual active constitution of objectualities as identity-unities.",
+      "status": "introduced",
+      "quote": "the immanent, the milieu of all constitution and in a certain way containing all its material, is constituted in passive unity, as mere unity of self-coincidence in the concrete present."
+    },
+    {
+      "id": "konstitution/hua39/007",
+      "locator": "husserliana-39-die-lebenswelt-commentary#h3-text-nr-3-the-world-pre-given-from-original-acquisition-not-so-consciousness-the",
+      "primary_locator": "Hua XXXIX, Text Nr. 3",
+      "stratum": "hua39-undated",
+      "term": "constitutive order",
+      "claim": "In the constitutive order the world of nature precedes the immanent sphere: the stream of experience is constituted only subsequently, from the standpoint of the already constituted objective world.",
+      "status": "revised",
+      "quote": "The world of nature \"precedes\" the immanent sphere in the constitutive order: we first have the world, and only then, through special reflective effort, can we constitute the immanent sphere as a field of objects."
+    },
+    {
+      "id": "konstitution/hua39/008",
+      "locator": "husserliana-39-die-lebenswelt-commentary#h3-text-nr-6-universe-of-pre-givenness-and-world-constitution-of-the-universe-of-pr",
+      "primary_locator": "Hua XXXIX, Text Nr. 6",
+      "stratum": "hua39-undated",
+      "term": "habituelle Geltung",
+      "claim": "Habitual validity is the foundational law governing the whole constitution of the pre-given world: later acts reactivate the same validity originally instituted.",
+      "status": "introduced",
+      "quote": "the foundational law governing the entire constitution of the pre-given world: *habitual validity* (*habituelle Geltung*"
+    },
+    {
+      "id": "konstitution/hua39/009",
+      "locator": "husserliana-39-die-lebenswelt-commentary#h3-text-nr-6-universe-of-pre-givenness-and-world-constitution-of-the-universe-of-pr",
+      "primary_locator": "Hua XXXIX, Text Nr. 6",
+      "stratum": "hua39-undated",
+      "term": "constitutes itself",
+      "claim": "On the basis of positional habituality there constitutes itself, in every unified course of life and for every immanent present, a time-horizon of beings into which new institutions insert themselves.",
+      "status": "presupposed",
+      "quote": "there constitutes itself in every unified course of life, for every immanent present, a *time-horizon of beings* — a horizon of what holds and continues to hold from earlier — into which the new institutions of this present insert themselves"
+    },
+    {
+      "id": "konstitution/hua39/010",
+      "locator": "husserliana-39-die-lebenswelt-commentary#h3-text-nr-6-universe-of-pre-givenness-and-world-constitution-of-the-universe-of-pr",
+      "primary_locator": "Hua XXXIX, Text Nr. 6",
+      "stratum": "hua39-undated",
+      "term": "constituted",
+      "claim": "The same world that passes through negation and correction is constituted precisely through the interplay of confirmation and correction, the world-form surviving the change of contents.",
+      "status": "revised",
+      "quote": "The \"same world\" that passes through all these changes is constituted precisely through the interplay of confirmation and correction."
+    },
+    {
+      "id": "konstitution/hua39/011",
+      "locator": "husserliana-39-die-lebenswelt-commentary#h4-s-1-the-field-of-effectively-conscious-objects-and-the-ineffective-horizon-of-th",
+      "primary_locator": "Hua XXXIX, S 1",
+      "stratum": "hua39-undated",
+      "term": "already constituted world",
+      "claim": "All praxis presupposes as its unified field an already constituted world, and relatedness to such a world is the formal precondition of any unified communal life.",
+      "status": "presupposed",
+      "quote": "all praxis has its practical horizon and presupposes as unified field of praxis a unified, already constituted world. The relatedness to an already constituted world is the formal precondition of any unified communal life."
+    },
+    {
+      "id": "konstitution/hua39/012",
+      "locator": "husserliana-39-die-lebenswelt-commentary#h4-s-1-the-field-of-effectively-conscious-objects-and-the-ineffective-horizon-of-th",
+      "primary_locator": "Hua XXXIX, S 1",
+      "stratum": "hua39-undated",
+      "term": "intersubjective genesis",
+      "claim": "The communal world into which each child grows must first be constituted in individual-subjective and then, through empathy, progressively intersubjective genesis.",
+      "status": "introduced",
+      "quote": "a world that must first be constituted in initially individual-subjective and then, through empathy, progressively intersubjective genesis."
+    }
+  ],
+  "absences": [
+    {
+      "locator": "husserliana-39-die-lebenswelt-commentary#h3-text-nr-8-the-life-world-pre-given-in-familiar-individual-and-species-types-die",
+      "expected_because": "The text works out the typification through which the life-world is pre-given, which Text Nr. 1 treats as the genetic-constitutive achievement of primal institution. Typification is stated here without any term of the family."
+    }
+  ]
+}

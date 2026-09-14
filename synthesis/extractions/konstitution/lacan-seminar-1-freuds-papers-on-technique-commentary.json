@@ -1,0 +1,120 @@
+{
+  "schema_version": 1,
+  "theme": "konstitution",
+  "commentary": "lacan-seminar-1-freuds-papers-on-technique-commentary",
+  "source_sha256": "86f48ef8bc6693ceaa0497c33cf28ba98049f33ede95d0ab8bfab29031b3c4a3",
+  "extracted_at": "2026-09-14",
+  "extractor": {
+    "agent": "claude-code",
+    "prompt": "synthesis-pipeline/extraction-prompt.md"
+  },
+  "coverage": "partial",
+  "coverage_note": "The sessions of 13 January, 17 March and 5 May 1954 and the Gelinier presentation of the Klein paper - the places where the term family carries weight. The pass records a finding about the whole file: nothing here is Husserlian Konstitution. The register is psychoanalytic and largely ordinary - a group constitutes itself, prejudices constitute a community, Klein's 'constitutional capacity' is the hereditary sense - with the technical uses being the constitution of the Idealich, of good and bad objects, and of ignorance as a polar term. No unit carries a stratum: the commentary has no chronology.json entry, although it dates each session in its own headings.",
+  "units": [
+    {
+      "id": "konstitution/lacan-s1/001",
+      "locator": "lacan-seminar-1-freuds-papers-on-technique-commentary#h2-session-of-13-january-1954",
+      "primary_locator": "Seminar I, session of 13 January 1954",
+      "term": "constituted",
+      "claim": "It is elsewhere than within a single body that everything elaborated in analytic expression is constituted, namely in a certain determinate relation.",
+      "status": "introduced",
+      "quote": "it is *elsewhere* than within a single body that everything we will elaborate in analytic expression is constituted — namely, in a certain determinate relation."
+    },
+    {
+      "id": "konstitution/lacan-s1/002",
+      "locator": "lacan-seminar-1-freuds-papers-on-technique-commentary#h2-session-of-13-january-1954",
+      "primary_locator": "Seminar I, session of 13 January 1954",
+      "term": "constitutive",
+      "claim": "The complete reconstitution of the history of the subject is the essential, constitutive, structural element of analytic progress.",
+      "status": "presupposed",
+      "quote": "the complete reconstitution of the history of the subject* is the essential, constitutive, structural element of analytic progress."
+    },
+    {
+      "id": "konstitution/lacan-s1/003",
+      "locator": "lacan-seminar-1-freuds-papers-on-technique-commentary#h3-marie-cecile-gelinier-presents-the-klein-paper",
+      "primary_locator": "Seminar I, Gelinier on Klein",
+      "term": "constitutional capacity",
+      "claim": "Klein is reported, without justification, to ascribe to Dick a constitutional capacity of his ego to tolerate anxiety.",
+      "status": "criticized",
+      "quote": "She thinks (without justification) Dick has a *constitutional capacity of his ego to tolerate anxiety*. She thinks his *genital drives* were particularly *premature*"
+    },
+    {
+      "id": "konstitution/lacan-s1/004",
+      "locator": "lacan-seminar-1-freuds-papers-on-technique-commentary#h3-marie-cecile-gelinier-presents-the-klein-paper",
+      "primary_locator": "Seminar I, Gelinier on Klein",
+      "term": "unconstituted",
+      "claim": "What limits the young subject is that he is wholly in reality in a pure state, unconstituted, what is not differentiated.",
+      "status": "introduced",
+      "quote": "he is wholly in *reality in a pure state, unconstituted* — what is *not differentiated*."
+    },
+    {
+      "id": "konstitution/lacan-s1/005",
+      "locator": "lacan-seminar-1-freuds-papers-on-technique-commentary#h3-marie-cecile-gelinier-presents-the-klein-paper",
+      "primary_locator": "Seminar I, Gelinier on Klein",
+      "term": "constitutes",
+      "claim": "The development of the infinite world of equivalent objects of human interest is what constitutes a human world.",
+      "status": "introduced",
+      "quote": "the development of that infinite world of objects which constitutes a *human world*. And her text is precious because she is, so to speak, an experienced therapist"
+    },
+    {
+      "id": "konstitution/lacan-s1/006",
+      "locator": "lacan-seminar-1-freuds-papers-on-technique-commentary#h2-session-of-17-march-1954",
+      "primary_locator": "Seminar I, session of 17 March 1954",
+      "term": "constituting",
+      "claim": "Into the object-system are integrated the whole sum of prejudices constituting a cultural community, psychological prejudices included.",
+      "status": "introduced",
+      "quote": "are integrated the whole sum of *prejudices* constituting a *cultural community*, up to and including psychological prejudices, from those most elaborated by scientific work to the most naïve and spontaneous"
+    },
+    {
+      "id": "konstitution/lacan-s1/007",
+      "locator": "lacan-seminar-1-freuds-papers-on-technique-commentary#h2-session-of-17-march-1954",
+      "primary_locator": "Seminar I, session of 17 March 1954",
+      "term": "mechanisms of constitution",
+      "claim": "Exchanges of introjections and projections between analysand and analyst carry to the level of the mechanisms of constitution of good and bad objects.",
+      "status": "introduced",
+      "quote": "carrying us especially to the level of the mechanisms of constitution of *good and bad objects*, broached in the practice of the English school by Melanie Klein"
+    },
+    {
+      "id": "konstitution/lacan-s1/008",
+      "locator": "lacan-seminar-1-freuds-papers-on-technique-commentary#h2-session-of-17-march-1954",
+      "primary_locator": "Seminar I, session of 17 March 1954",
+      "term": "constitutive of objects of interest",
+      "claim": "The libido, as constitutive of objects of interest, distributes itself, constituted by a certain emission by the subject of his libidinal cathexes.",
+      "status": "introduced",
+      "quote": "this libido, as constitutive of objects of interest, *distributes itself*, constituted by a certain *emission by the subject of his libidinal cathexes*"
+    },
+    {
+      "id": "konstitution/lacan-s1/009",
+      "locator": "lacan-seminar-1-freuds-papers-on-technique-commentary#h2-session-of-5-may-1954",
+      "primary_locator": "Seminar I, session of 5 May 1954",
+      "term": "constitution of the Idealich",
+      "claim": "What is at issue is the constitution of the Idealich and not of the Ichideal, the essentially imaginary, specular form of the genesis of the ego.",
+      "status": "introduced",
+      "quote": "It is fundamentally a question of what concerns the constitution of the *Idealich*, not of the *Ichideal*. The essentially imaginary, specular form of the genesis, of the fundamentally imaginary origin of the ego."
+    },
+    {
+      "id": "konstitution/lacan-s1/010",
+      "locator": "lacan-seminar-1-freuds-papers-on-technique-commentary#h2-session-of-5-may-1954",
+      "primary_locator": "Seminar I, session of 5 May 1954",
+      "term": "constituted",
+      "claim": "Ignorance is constituted in a polar way relative to the virtual position of a truth to be attained; it is a state of the subject insofar as he speaks.",
+      "status": "introduced",
+      "quote": "*Ignorance is constituted in a polar way relative to the virtual position of a truth to be attained*: it is a state of the subject *insofar as he speaks*"
+    },
+    {
+      "id": "konstitution/lacan-s1/011",
+      "locator": "lacan-seminar-1-freuds-papers-on-technique-commentary#h2-session-of-5-may-1954",
+      "primary_locator": "Seminar I, session of 5 May 1954",
+      "term": "constituting images",
+      "claim": "The frequent failure of the synthesis shows a quite particular fact of man in his relation to the constituting images of his world.",
+      "status": "introduced",
+      "quote": "showing that there is a *quite particular fact of man in his relation to the constituting images of his world*. What in man responds to the *innate knowledge* that is the *guide of life* in the balance of the living?"
+    }
+  ],
+  "absences": [
+    {
+      "locator": "lacan-seminar-1-freuds-papers-on-technique-commentary#h3-jean-hyppolite-die-verneinung",
+      "expected_because": "Hyppolite's commentary on Freud's Verneinung is the one sustained piece of philosophical exposition in the seminar, on the genesis of judgment and of the object out of negation - the place where a philosophical vocabulary of constitution would be at home. Its 3,010 words carry no term of the family."
+    }
+  ]
+}

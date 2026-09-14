@@ -1,0 +1,129 @@
+{
+  "schema_version": 1,
+  "theme": "konstitution",
+  "commentary": "husserliana-43-2-studien-zur-struktur-des-bewusstseins-commentary",
+  "source_sha256": "ab2091d0d2406e6ba2b503d9afa17940d2d708456d427e95c9ae4f669de6778c",
+  "extracted_at": "2026-09-14",
+  "extractor": {
+    "agent": "claude-code",
+    "prompt": "synthesis-pipeline/extraction-prompt.md"
+  },
+  "coverage": "partial",
+  "coverage_note": "S 6 of the earlier group, and SS 1 and 4 of the later, where the analogy 'feelings constitute values as sensations constitute being' is set up, corrected and grounded in inner time-consciousness. No unit carries a stratum: the commentary has no chronology.json entry and dates none of the studies. The remaining studies and appendices have not been extracted.",
+  "units": [
+    {
+      "id": "konstitution/hua43-2/001",
+      "locator": "husserliana-43-2-studien-zur-struktur-des-bewusstseins-commentary#h3-s-6-sensing-and-apperceptive-objectivation-in-acts-of-perceiving-and-pleasing",
+      "primary_locator": "Hua XLIII/2, S 6",
+      "term": "constitutes itself",
+      "claim": "Every object constitutes itself in presentations and, according to its category, in presentations of the corresponding presentation-category.",
+      "status": "introduced",
+      "quote": "every object constitutes itself in presentations and, according to its category, in presentations of corresponding presentation-c"
+    },
+    {
+      "id": "konstitution/hua43-2/002",
+      "locator": "husserliana-43-2-studien-zur-struktur-des-bewusstseins-commentary#h3-s-6-sensing-and-apperceptive-objectivation-in-acts-of-perceiving-and-pleasing",
+      "primary_locator": "Hua XLIII/2, S 6",
+      "term": "self-constitution of new objectivities",
+      "claim": "The question is put whether in grasping and thinking there is the self-constitution of new objectivities that can in turn be meant out.",
+      "status": "introduced",
+      "quote": "is there not the *self-constitution of new objectivities* that can in turn be meant out? Mere meaning-out is no apperceiving."
+    },
+    {
+      "id": "konstitution/hua43-2/003",
+      "locator": "husserliana-43-2-studien-zur-struktur-des-bewusstseins-commentary#h3-s-6-sensing-and-apperceptive-objectivation-in-acts-of-perceiving-and-pleasing",
+      "primary_locator": "Hua XLIII/2, S 6",
+      "term": "constitutes",
+      "claim": "Presenting constitutes objects with respect to non-axiological predicates, and valuing constitutes the axiological predicates on the basis of presenting.",
+      "status": "introduced",
+      "quote": "presenting constitutes objects with respect to non-axiological predicates as *source*. Valuing constitutes, on the basis of presenting, the *axiological predicates*."
+    },
+    {
+      "id": "konstitution/hua43-2/004",
+      "locator": "husserliana-43-2-studien-zur-struktur-des-bewusstseins-commentary#h3-s-1-affection-apprehension-turning-toward-and-creative-act-of-the-understanding",
+      "primary_locator": "Hua XLIII/2, S 1",
+      "term": "constitutes itself",
+      "claim": "As spatio-temporal being constitutes itself through primary sensations, so through the feelings founded in the sensations something constitutes itself, namely values.",
+      "status": "introduced",
+      "quote": "analogously to the way in which, through (primary) sensations, *spatio-temporal* being constitutes itself, together with the apprehension-modes connected with such being — that through the feelings *interwoven with*, *founded in* the sensations, *something* constitutes itself, *namely values*."
+    },
+    {
+      "id": "konstitution/hua43-2/005",
+      "locator": "husserliana-43-2-studien-zur-struktur-des-bewusstseins-commentary#h3-s-1-affection-apprehension-turning-toward-and-creative-act-of-the-understanding",
+      "primary_locator": "Hua XLIII/2, S 1",
+      "term": "constitutive",
+      "claim": "The schema does not embrace thinking, which is constitutive as creative consciousness for whole classes of objectivities.",
+      "status": "revised",
+      "quote": "It does not embrace *thinking*, which is constitutive *as \"creative\" consciousness* for whole *classes of objectivities*"
+    },
+    {
+      "id": "konstitution/hua43-2/006",
+      "locator": "husserliana-43-2-studien-zur-struktur-des-bewusstseins-commentary#h3-s-1-affection-apprehension-turning-toward-and-creative-act-of-the-understanding",
+      "primary_locator": "Hua XLIII/2, S 1",
+      "term": "constituting",
+      "claim": "The picture of feelings constituting values just as sensations constitute being is too narrow: it covers only the receptive level on the value-side.",
+      "status": "criticized",
+      "quote": "The picture of \"feelings constituting values just as sensations constitute being\" is too narrow: it covers only the *receptive* level on the value-side, leaving aside the whole spontaneous side"
+    },
+    {
+      "id": "konstitution/hua43-2/007",
+      "locator": "husserliana-43-2-studien-zur-struktur-des-bewusstseins-commentary#h3-s-1-affection-apprehension-turning-toward-and-creative-act-of-the-understanding",
+      "primary_locator": "Hua XLIII/2, S 1",
+      "term": "constitutive",
+      "claim": "The field of sensations, associations and blind motivation is constitutive for nature, and the blind motivations of the feeling- and drive-passivities are constitutive for objectivities of higher level.",
+      "status": "introduced",
+      "quote": "the *field of sensations* (which already hints at a function), of associations, of *blind motivation*, which is \"*constitutive*\" for *nature*, physical and psychophysical; **b)** the *field of original feeling- and drive-passivities*; and **c)** the *blind motivations belonging to them*, which are constitutive for *objectivities of higher level*"
+    },
+    {
+      "id": "konstitution/hua43-2/008",
+      "locator": "husserliana-43-2-studien-zur-struktur-des-bewusstseins-commentary#h3-s-1-affection-apprehension-turning-toward-and-creative-act-of-the-understanding",
+      "primary_locator": "Hua XLIII/2, S 1",
+      "term": "constitutes itself passively",
+      "claim": "With respect to sensation it must be said that it constitutes itself passively: time-consciousness is not executed.",
+      "status": "revised",
+      "quote": "with respect to *sensation*, we must continue to say that it constitutes itself *passively*: time-consciousness is not \"executed.\""
+    },
+    {
+      "id": "konstitution/hua43-2/009",
+      "locator": "husserliana-43-2-studien-zur-struktur-des-bewusstseins-commentary#h3-s-4-feeling-sensibility-and-intentionality",
+      "primary_locator": "Hua XLIII/2, S 4",
+      "term": "constitutes the unity in the immanent time-flux",
+      "claim": "The deepest-lying intentionality lies in the inner consciousness that constitutes the unity in the immanent time-flux, in which the enduring lived experience constitutes itself.",
+      "status": "introduced",
+      "quote": "*The deepest-lying intentionality* lies in the *inner consciousness* that *constitutes the unity in the immanent time-flux*. In it constitutes itself *the unitary, enduring, arising and passing-away lived experience*"
+    },
+    {
+      "id": "konstitution/hua43-2/010",
+      "locator": "husserliana-43-2-studien-zur-struktur-des-bewusstseins-commentary#h3-s-4-feeling-sensibility-and-intentionality",
+      "primary_locator": "Hua XLIII/2, S 4",
+      "term": "Urbewusstsein",
+      "claim": "Ur-consciousness in its constitutive function is not yet an act, but the condition under which any act-content can be one enduring content at all.",
+      "status": "introduced",
+      "quote": "This is the layer of *Urbewusstsein* in its constitutive function — *not yet* an \"act\" in the act-theoretic sense, but the *condition* under which any act-content can be *one* enduring content at all."
+    },
+    {
+      "id": "konstitution/hua43-2/011",
+      "locator": "husserliana-43-2-studien-zur-struktur-des-bewusstseins-commentary#h3-s-4-feeling-sensibility-and-intentionality",
+      "primary_locator": "Hua XLIII/2, S 4",
+      "term": "constitutes itself",
+      "claim": "Feeling and primary content form the unity of an immanent lived experience which constitutes itself in inner consciousness through the steady unity of the constituents on both sides.",
+      "status": "introduced",
+      "quote": "together they form the unity of an immanent lived experience*, which constitutes itself in inner consciousness *in such a way* that the *inner constituents* of the primary content and of the feeling *cover* (*decken sich*) in inner time-consciousness — namely, that the experience-unity constitutes itself through the *steady unity of the constituents on both sides*"
+    },
+    {
+      "id": "konstitution/hua43-2/012",
+      "locator": "husserliana-43-2-studien-zur-struktur-des-bewusstseins-commentary#h3-s-4-feeling-sensibility-and-intentionality",
+      "primary_locator": "Hua XLIII/2, S 4",
+      "term": "constituted unity",
+      "claim": "The unity in inner consciousness has intentionality; the sensible sensation as constituted unity does not.",
+      "status": "revised",
+      "quote": "has *unity in inner consciousness*, and this latter has *intentionality*; *the sensible sensation as constituted unity does not"
+    }
+  ],
+  "absences": [
+    {
+      "locator": "husserliana-43-2-studien-zur-struktur-des-bewusstseins-commentary#h3-s-1-the-differences-of-intensity-in-the-aroused-feeling-and-in-the-feeling-light",
+      "expected_because": "The study of intensity-differences in the aroused feeling works on the feeling-side of the very analogy S 1 states as feelings constituting values as sensations constitute being. Its 1,273 words carry no term of the family."
+    }
+  ]
+}

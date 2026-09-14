@@ -1,0 +1,133 @@
+{
+  "schema_version": 1,
+  "theme": "konstitution",
+  "commentary": "husserliana-7-erste-philosophie-i-commentary",
+  "source_sha256": "caeb8c837e2fc6f2afe18b07a39cebcd9f50a3476698bd72417fd9cebd8c9703",
+  "extracted_at": "2026-09-14",
+  "extractor": {
+    "agent": "claude-code",
+    "prompt": "synthesis-pipeline/extraction-prompt.md"
+  },
+  "coverage": "partial",
+  "coverage_note": "The Sixth, Seventeenth, Twenty-fifth and Twenty-seventh Lectures. No unit carries a stratum: the commentary has no chronology.json entry and dates nothing in its own text. The remaining lectures of the critical history have not been extracted; four of the longest of them carry no term of the family at all, and one is recorded as an absence.",
+  "units": [
+    {
+      "id": "konstitution/hua7/001",
+      "locator": "husserliana-7-erste-philosophie-i-commentary#h3-sixth-lecture-the-demand-for-a-theory-of-cognition-implied-in-the-platonic-idea",
+      "primary_locator": "Hua VII, Sixth Lecture",
+      "term": "constituting processes",
+      "claim": "In the natural cognizing attitude one lives in the constituting processes and sees only their results; the processes themselves remain unseen.",
+      "status": "introduced",
+      "quote": "in the natural cognizing attitude one *lives in* the constituting processes and sees only their *results* — the identical thing, the identical proposition, the identical correctness. The processes themselves remain unseen."
+    },
+    {
+      "id": "konstitution/hua7/002",
+      "locator": "husserliana-7-erste-philosophie-i-commentary#h3-sixth-lecture-the-demand-for-a-theory-of-cognition-implied-in-the-platonic-idea",
+      "primary_locator": "Hua VII, Sixth Lecture",
+      "term": "constitutive thesis",
+      "claim": "Every identity the cognizer has - object, proposition, truth - is a had of a having, something that makes itself in subjective life.",
+      "status": "introduced",
+      "quote": "every identity the cognizer \"has\" — object, proposition, truth — is a *had* of a having, an *experienced* of an experiencing, something that *makes itself* in subjective life."
+    },
+    {
+      "id": "konstitution/hua7/003",
+      "locator": "husserliana-7-erste-philosophie-i-commentary#h3-sixth-lecture-the-demand-for-a-theory-of-cognition-implied-in-the-platonic-idea",
+      "primary_locator": "Hua VII, Sixth Lecture",
+      "term": "constituted unity and constituting life",
+      "claim": "The correlation of constituted unity and constituting life is called the core of transcendental phenomenology, and the guard is entered that makes-itself does not mean the mind invents the object.",
+      "status": "introduced",
+      "quote": "This is the correlation of constituted unity and constituting life, the core of transcendental phenomenology, here derived by reflection on scientific work. The guard against the fabrication-reading: \"makes itself\" does not mean the mind invents the object, but that the object is constituted as the identical pole of a having."
+    },
+    {
+      "id": "konstitution/hua7/004",
+      "locator": "husserliana-7-erste-philosophie-i-commentary#h3-seventeenth-lecture-on-the-question-of-the-constitution-of-externality-the-carte",
+      "primary_locator": "Hua VII, Seventeenth Lecture",
+      "term": "constitutes itself",
+      "claim": "It is no simple matter to understand how externality constitutes itself in the experiencing consciousness-stream and its synthetic connections.",
+      "status": "introduced",
+      "quote": "it is nothing less than a simple matter to understand how externality constitutes itself in the experiencing consciousness-stream itself and its synthetic connections"
+    },
+    {
+      "id": "konstitution/hua7/005",
+      "locator": "husserliana-7-erste-philosophie-i-commentary#h3-seventeenth-lecture-on-the-question-of-the-constitution-of-externality-the-carte",
+      "primary_locator": "Hua VII, Seventeenth Lecture",
+      "term": "sense-giving consciousness",
+      "claim": "Objects of every conceivable sense have their sense, constituting them as so-determined objects, out of the sense-giving consciousness.",
+      "status": "introduced",
+      "quote": "have their sense — constituting them *as*, and as so-determined, objects — out of the *sense-giving consciousness*, through which they m"
+    },
+    {
+      "id": "konstitution/hua7/006",
+      "locator": "husserliana-7-erste-philosophie-i-commentary#h3-seventeenth-lecture-on-the-question-of-the-constitution-of-externality-the-carte",
+      "primary_locator": "Hua VII, Seventeenth Lecture",
+      "term": "so-constituted objectivity",
+      "claim": "For every basic kind of objectivity the correlative basic kinds of consciousness and consciousness-syntheses must be studied as the construction in which a so-constituted objectivity constitutes itself as unity of validity.",
+      "status": "introduced",
+      "quote": "the correlative basic kinds of consciousness and consciousness-syntheses must be studied according to their construction, in which, as consciousness-accomplishment, precisely a so-constituted objectivity constitutes itself as unity of validity."
+    },
+    {
+      "id": "konstitution/hua7/007",
+      "locator": "husserliana-7-erste-philosophie-i-commentary#h3-twenty-fifth-lecture-the-constitution-problem-in-hume-but-its-ending-in-complete",
+      "primary_locator": "Hua VII, Twenty-fifth Lecture",
+      "term": "constitutive problems",
+      "claim": "Hume's theories are skeptically worthless in result, yet the problems they raise are the first transcendental formulations of phenomenology's constitutive problems.",
+      "status": "introduced",
+      "quote": "Hume's theories are skeptically worthless in result, yet the *problems* they raise — above all the synthetic unity of thing and of self — are the first transcendental formulations of phenomenology's constitutive problems."
+    },
+    {
+      "id": "konstitution/hua7/008",
+      "locator": "husserliana-7-erste-philosophie-i-commentary#h3-twenty-fifth-lecture-the-constitution-problem-in-hume-but-its-ending-in-complete",
+      "primary_locator": "Hua VII, Twenty-fifth Lecture",
+      "term": "analysis of constitution",
+      "claim": "The identical thing given across the changing data forces itself on Hume as the problem of synthetic unity, which phenomenology will solve through the analysis of constitution.",
+      "status": "introduced",
+      "quote": "the very phenomenon sensualism cannot accommodate — the identical thing given across the changing data — is what forces itself on Hume as a problem, the problem of synthetic unity that phenomenology will solve through the analysis of constitution."
+    },
+    {
+      "id": "konstitution/hua7/009",
+      "locator": "husserliana-7-erste-philosophie-i-commentary#h3-twenty-fifth-lecture-the-constitution-problem-in-hume-but-its-ending-in-complete",
+      "primary_locator": "Hua VII, Twenty-fifth Lecture",
+      "term": "constitutive question",
+      "claim": "Thing-identity and self-identity both pose the constitutive question of how an identical, in-itself-existing unity is given across a manifold of separated experiences.",
+      "status": "introduced",
+      "quote": "thing-identity and self-identity are the two great unities that sensualism dissolves and yet cannot do without, and both pose the constitutive question of how an identical, in-itself-existing unity is given across a manifold of separated experiences."
+    },
+    {
+      "id": "konstitution/hua7/010",
+      "locator": "husserliana-7-erste-philosophie-i-commentary#h3-twenty-seventh-lecture-on-metaphysics-and-theory-of-cognition-the-significance-o",
+      "primary_locator": "Hua VII, Twenty-seventh Lecture",
+      "term": "science of constitution",
+      "claim": "Descartes discovered the ground but did not grasp it as the field of a descriptive, eidetic science of constitution.",
+      "status": "criticized",
+      "quote": "he discovered the ground but did not grasp it as the field of a descriptive, eidetic science of constitution."
+    },
+    {
+      "id": "konstitution/hua7/011",
+      "locator": "husserliana-7-erste-philosophie-i-commentary#h3-twenty-seventh-lecture-on-metaphysics-and-theory-of-cognition-the-significance-o",
+      "primary_locator": "Hua VII, Twenty-seventh Lecture",
+      "term": "intentional analysis of constitution",
+      "claim": "Kant's transcendental deductions are regressive construction rather than the progressive, intuitively ascending intentional analysis of constitution that phenomenology requires.",
+      "status": "criticized",
+      "quote": "his transcendental deductions are *regressive construction* (arguing back from the fact of valid cognition to its presupposed conditions), with intuition only following after, rather than the *progressive*, intuitively ascending intentional analysis of constitution that phenomenology requires."
+    },
+    {
+      "id": "konstitution/hua7/012",
+      "locator": "husserliana-7-erste-philosophie-i-commentary#h3-twenty-seventh-lecture-on-metaphysics-and-theory-of-cognition-the-significance-o",
+      "primary_locator": "Hua VII, Twenty-seventh Lecture",
+      "term": "constituting consciousness",
+      "claim": "The innermost sides of the constituting consciousness are scarcely touched in Kant: the sensuous phenomena he works with are already constituted unities never systematically analysed.",
+      "status": "criticized",
+      "quote": "The so-to-speak *innermost sides of the constituting consciousness*, Husserl says, are in Kant überhaupt scarcely touched; the sensuous phenomena with which he occupies himself are already *constituted unities*, of an over-rich intentional structure that is never subjected to a systematic analysis."
+    }
+  ],
+  "absences": [
+    {
+      "locator": "husserliana-7-erste-philosophie-i-commentary#h3-ninth-lecture-skepticism-the-fundamental-significance-of-its-immortality-in-the",
+      "expected_because": "The Ninth Lecture treats skepticism and the fundamental significance of its immortality, and the Twenty-fifth makes exactly this - skepticism's problems - the pre-form of phenomenology's constitutive problems. No term of the family occurs in its 2,260 words."
+    },
+    {
+      "locator": "husserliana-7-erste-philosophie-i-commentary#h3-fourteenth-lecture-the-exemplariness-of-modern-natural-science-as-a-hindering-mo",
+      "expected_because": "Modern natural science as a historical model is where the Sixth Lecture locates the constituting accomplishment running anonymously beneath the scientist's gaze. The lecture is the second longest in the commentary and carries no term of the family."
+    }
+  ]
+}

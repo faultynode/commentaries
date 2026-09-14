@@ -1,0 +1,144 @@
+{
+  "schema_version": 1,
+  "theme": "konstitution",
+  "commentary": "husserliana-4-ideas-ii-commentary",
+  "source_sha256": "5edb5103ea6db8e048cd4823f8d833ebe634ec0cd959e5c2b9321ab2b5f727be",
+  "extracted_at": "2026-09-14",
+  "extractor": {
+    "agent": "claude-code",
+    "prompt": "synthesis-pipeline/extraction-prompt.md"
+  },
+  "coverage": "partial",
+  "coverage_note": "The editor's account of the reworkings, SS 4, 10, 11 and 16, and section a) of the chapter on the dependencies of the material thing on the experiencing subject-body. Strata: only the two units from the editor's account carry one, because only there does the commentary date what it is describing; the units drawn from Husserl's own text are not assigned to any of the six strata this commentary records, since the commentary does not say which reworking each passage belongs to. SS 17-61 have not been extracted.",
+  "units": [
+    {
+      "id": "konstitution/hua4/001",
+      "locator": "husserliana-4-ideas-ii-commentary#h3-later-changes-to-this-plan",
+      "primary_locator": "Hua IV, editor's introduction",
+      "stratum": "hua4-insertions",
+      "term": "constitution of objectualities",
+      "claim": "Over the fifteen years of reworking, the question of the constitution of objectualities in consciousness became a central problem of Husserlian philosophy and the actual task of phenomenology became the clarification of the constitution of every reality.",
+      "status": "introduced",
+      "quote": "The question of the constitution of objectualities in consciousness became during these fifteen years a central problem of Husserlian philosophy and gained a singular significance for phenomenology. It was no longer a matter of drafting “phenomenological sketches”; rather, the actual task of phenomenology now became the clarification of the constitution of every reality."
+    },
+    {
+      "id": "konstitution/hua4/002",
+      "locator": "husserliana-4-ideas-ii-commentary#h3-later-changes-to-this-plan",
+      "primary_locator": "Hua IV, editor's introduction",
+      "stratum": "hua4-1912",
+      "term": "constitution",
+      "claim": "The 1912 manuscript treated the constitution of sense-intuitive nature and, in direct continuation, the constitution of body and soul.",
+      "status": "presupposed",
+      "quote": "The very compact presentation of the 1912 manuscript treated the constitution of sense-intuitive nature and, in direct continuation, the constitution of body and soul."
+    },
+    {
+      "id": "konstitution/hua4/003",
+      "locator": "husserliana-4-ideas-ii-commentary#h3-s4-theoretical-acts-and-pre-giving-intentional-experiences",
+      "primary_locator": "Hua IV S 4",
+      "term": "constituted",
+      "claim": "The objectuality is already constituted in consciousness before the theoretical acts, through certain intentional experiences and not through all experiences related to it.",
+      "status": "introduced",
+      "quote": "the relevant objectuality is already constituted in consciousness before these theoretical acts, through certain intentional experiences — and not through all experiences that can be designated as related to this objectuality."
+    },
+    {
+      "id": "konstitution/hua4/004",
+      "locator": "husserliana-4-ideas-ii-commentary#h3-s4-theoretical-acts-and-pre-giving-intentional-experiences",
+      "primary_locator": "Hua IV S 4",
+      "term": "pre-theoretical constitution",
+      "claim": "Feeling-experiences are themselves constitutive, constituting new object-strata, and only a turn of the theoretical glance moves them from pre-theoretical to theoretical constitution.",
+      "status": "introduced",
+      "quote": "as intentional experiences they are also constitutive — they constitute new object-strata for the relevant object."
+    },
+    {
+      "id": "konstitution/hua4/005",
+      "locator": "husserliana-4-ideas-ii-commentary#h3-s4-theoretical-acts-and-pre-giving-intentional-experiences",
+      "primary_locator": "Hua IV S 4",
+      "term": "constitutive performance",
+      "claim": "Theoretical acts themselves exercise a constitutive performance: categorical objectualities constitute themselves, and become theoretical objects only when the subject turns toward them.",
+      "status": "introduced",
+      "quote": "also exercise a constitutive performance: “categorical” objectualities constitute themselves (in a quite determinate sense: thought-objectualities), which in turn become theoretical objects only when the theoretical subject directs itself"
+    },
+    {
+      "id": "konstitution/hua4/006",
+      "locator": "husserliana-4-ideas-ii-commentary#h3-s10-things-spatial-phantoms-and-sensation-data",
+      "primary_locator": "Hua IV S 10",
+      "term": "constitutive synthesis",
+      "claim": "Already in the constitution of a sensory-spatial entity there is a hidden and analytically demonstrable constitutive synthesis, since the appearance points back to kinaesthetic circumstances.",
+      "status": "introduced",
+      "quote": "we have a formation of a hidden and analytically demonstrable constitutive synthesis; for it is an “appearance” that points back to kinaesthetic “circumstances”"
+    },
+    {
+      "id": "konstitution/hua4/007",
+      "locator": "husserliana-4-ideas-ii-commentary#h3-s10-things-spatial-phantoms-and-sensation-data",
+      "primary_locator": "Hua IV S 10",
+      "term": "pre-givenness",
+      "claim": "With the pure sensation datum we encounter a pre-givenness that lies even before the constitution of the object as an object.",
+      "status": "introduced",
+      "quote": "Here, with the pure sensation datum, we encounter a pre-givenness that lies even before the constitution of the object as an object."
+    },
+    {
+      "id": "konstitution/hua4/008",
+      "locator": "husserliana-4-ideas-ii-commentary#h3-s11-nature-as-sphere-of-mere-things",
+      "primary_locator": "Hua IV S 11",
+      "term": "constituting consciousness",
+      "claim": "Nature as the sphere of mere things separates itself from all other objectual spheres through a demarcation prescribed a priori in the essence of constituting consciousness.",
+      "status": "presupposed",
+      "quote": "through a demarcation a priori prescribed in the essence of constituting consciousness, separates itself from all other objectual spheres to be treated theoretically."
+    },
+    {
+      "id": "konstitution/hua4/009",
+      "locator": "husserliana-4-ideas-ii-commentary#h3-s11-nature-as-sphere-of-mere-things",
+      "primary_locator": "Hua IV S 11",
+      "term": "constitutive",
+      "claim": "For natural objectualities a valuing consciousness has contributed nothing as constitutive to their sense-content.",
+      "status": "introduced",
+      "quote": "for these objects a valuing consciousness has contributed nothing as “constitutive,” that is, to their sense-content."
+    },
+    {
+      "id": "konstitution/hua4/010",
+      "locator": "husserliana-4-ideas-ii-commentary#h3-s16-constitution-of-thing-properties-in-manifolds-of-dependency-relations",
+      "primary_locator": "Hua IV S 16",
+      "term": "constitution of real properties",
+      "claim": "The constitution of real properties can also take place in higher levels, so that level-formations are possible in which higher unities attest within unities of attestation.",
+      "status": "introduced",
+      "quote": "the constitution of real properties can also take place in higher levels, so that level-formations are possible whereby in unities of attestation there in turn attest higher unities, possibly determined from them with the help of thinking grounded in experience."
+    },
+    {
+      "id": "konstitution/hua4/011",
+      "locator": "husserliana-4-ideas-ii-commentary#h3-s16-constitution-of-thing-properties-in-manifolds-of-dependency-relations",
+      "primary_locator": "Hua IV S 16",
+      "term": "constitution of material nature",
+      "claim": "The analyses confine themselves to the solid body, which constitutes itself as a thing with a rigid spatial shape, and this is said to be the basic piece of the constitution of material nature.",
+      "status": "revised",
+      "quote": "the solid body, which constitutes itself as a thing with a rigid spatial shape that transports itself in movement. This restriction is not arbitrary; it can be shown that we have here the basic piece of the constitution of material nature."
+    },
+    {
+      "id": "konstitution/hua4/012",
+      "locator": "husserliana-4-ideas-ii-commentary#h4-a-dependencies-of-the-intuitive-characteristics-of-the-material-thing-on-the-exp",
+      "primary_locator": "Hua IV, ch. 3 a)",
+      "term": "constitutive functions",
+      "claim": "In all constitution of spatial thinghood two kinds of sensations with different constitutive functions are necessarily involved if presentations of spatial things are to be possible.",
+      "status": "introduced",
+      "quote": "In all constitution of spatial thinghood, two kinds of sensations with quite different constitutive functions are involved and necessarily involved if presentations of spatial things are to be possible."
+    },
+    {
+      "id": "konstitution/hua4/013",
+      "locator": "husserliana-4-ideas-ii-commentary#h4-a-dependencies-of-the-intuitive-characteristics-of-the-material-thing-on-the-exp",
+      "primary_locator": "Hua IV, ch. 3 a)",
+      "term": "constituting apprehension",
+      "claim": "In all constitution and at all levels there are necessarily mutually related circumstances and what belongs to them, the if-then or because-so.",
+      "status": "introduced",
+      "quote": "In all constitution and at all levels we necessarily have mutually related “circumstances” and what “belongs” to all circumstances: everywhere we find the “if-then” or “because-so.”"
+    }
+  ],
+  "absences": [
+    {
+      "locator": "husserliana-4-ideas-ii-commentary#h4-b-movability-and-changeability-as-constituents-of-the-material-thing-the-thing-s",
+      "expected_because": "The section's own title calls movability and changeability constituents of the material thing, and the section immediately before it states that in all constitution and at all levels there are mutually related circumstances. No term of the family occurs in it."
+    },
+    {
+      "locator": "husserliana-4-ideas-ii-commentary#h3-s12-material-and-animal-nature",
+      "expected_because": "The step from material to animal nature is the step S 11 has just prepared by demarcating nature in the essence of constituting consciousness, and the one the editor's introduction names as the constitution of body and soul. The section makes it without the vocabulary of constitution."
+    }
+  ]
+}

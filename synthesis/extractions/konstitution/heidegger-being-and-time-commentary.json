@@ -1,0 +1,131 @@
+{
+  "schema_version": 1,
+  "theme": "konstitution",
+  "commentary": "heidegger-being-and-time-commentary",
+  "source_sha256": "057922646a8715d015516477785fc240249c4a068ff4b49e9969d1e376fd5d39",
+  "extracted_at": "2026-09-14",
+  "extractor": {
+    "agent": "claude-code",
+    "prompt": "synthesis-pipeline/extraction-prompt.md"
+  },
+  "coverage": "partial",
+  "coverage_note": "SS 4, 12, 18, 21 and 28. As in the other Sein und Zeit commentary in this corpus, 'constitution' here renders Seinsverfassung - Dasein's constitution of Being - and not Husserlian Konstitution; the German Verfassung occurs nowhere in the file, so nothing in the text marks the difference, and no place in the extracted sections uses the term in the Husserlian sense. SS 1-3, 5-11, 13-17, 19-20, 22-27 and 29 onward have not been extracted.",
+  "units": [
+    {
+      "id": "konstitution/bt/001",
+      "locator": "heidegger-being-and-time-commentary#h3-s-12-the-preliminary-sketch-of-being-in-the-world-from-the-orientation-toward-be",
+      "primary_locator": "SZ S 12",
+      "stratum": "bt-1927",
+      "term": "constitution of Being",
+      "claim": "The determinations of Dasein's Being must be understood a priori on the ground of the constitution of Being called Being-in-the-world, and the analytic consists in interpreting that constitution.",
+      "status": "introduced",
+      "quote": "these determinations of Being of Dasein must now be seen and understood a priori on the ground of the constitution of Being that we call *Being-in-the-world* (*In-der-Welt-sein*). The right approach of the analytic of Dasein consists in the interpretation of this constitution."
+    },
+    {
+      "id": "konstitution/bt/002",
+      "locator": "heidegger-being-and-time-commentary#h3-s-12-the-preliminary-sketch-of-being-in-the-world-from-the-orientation-toward-be",
+      "primary_locator": "SZ S 12",
+      "stratum": "bt-1927",
+      "term": "constitutive structural moments",
+      "claim": "The indissolubility of Being-in-the-world into assemblable components does not exclude a manifoldness of constitutive structural moments.",
+      "status": "introduced",
+      "quote": "Its indissolubility into assemblable components does not exclude a manifoldness of constitutive structural moments. The phenomenal finding indicated by this expression"
+    },
+    {
+      "id": "konstitution/bt/003",
+      "locator": "heidegger-being-and-time-commentary#h3-s-12-the-preliminary-sketch-of-being-in-the-world-from-the-orientation-toward-be",
+      "primary_locator": "SZ S 12",
+      "stratum": "bt-1927",
+      "term": "constitution of Being",
+      "claim": "Being-in designates a constitution of Being of Dasein and is an existential, not the presence-at-hand of a bodily thing in another.",
+      "status": "revised",
+      "quote": "Being-in, by contrast, designates a constitution of Being of Dasein and is an *existential*. One cannot think here of the presence-at-hand of a bodi"
+    },
+    {
+      "id": "konstitution/bt/004",
+      "locator": "heidegger-being-and-time-commentary#h3-s-18-involvement-and-significance-the-worldhood-of-the-world",
+      "primary_locator": "SZ S 18",
+      "stratum": "bt-1927",
+      "term": "constitution of Being",
+      "claim": "The primary for-which is a being whose Being is determined as Being-in-the-world and to whose constitution of Being worldhood itself belongs.",
+      "status": "introduced",
+      "quote": "a being whose Being is determined as Being-in-the-world and to whose constitution of Being worldhood itself belongs."
+    },
+    {
+      "id": "konstitution/bt/005",
+      "locator": "heidegger-being-and-time-commentary#h3-s-18-involvement-and-significance-the-worldhood-of-the-world",
+      "primary_locator": "SZ S 18",
+      "stratum": "bt-1927",
+      "term": "constitutes",
+      "claim": "The structure of that toward which Dasein refers itself is what constitutes the worldhood of the world.",
+      "status": "introduced",
+      "quote": "The structure of that toward which Dasein refers itself is what constitutes the *worldhood of the world*."
+    },
+    {
+      "id": "konstitution/bt/006",
+      "locator": "heidegger-being-and-time-commentary#h3-s-18-involvement-and-significance-the-worldhood-of-the-world",
+      "primary_locator": "SZ S 18",
+      "stratum": "bt-1927",
+      "term": "co-constitutes",
+      "claim": "The ontological-existential interpretation of these relations is grounded in the world-familiarity constitutive of Dasein, which for its part co-constitutes Dasein's understanding of Being.",
+      "status": "introduced",
+      "quote": "is grounded in the world-familiarity constitutive of Dasein, which for its part co-constitutes Dasein's understanding of Being."
+    },
+    {
+      "id": "konstitution/bt/007",
+      "locator": "heidegger-being-and-time-commentary#h3-s-18-involvement-and-significance-the-worldhood-of-the-world",
+      "primary_locator": "SZ S 18",
+      "stratum": "bt-1927",
+      "term": "constitutes the structure of world",
+      "claim": "Significance, the relational totality of signifying, is what constitutes the structure of world, that wherein Dasein as such already always is.",
+      "status": "introduced",
+      "quote": "The relational totality of this signifying we call *significance* (*Bedeutsamkeit*). It is what constitutes the structure of world — of that wherein Dasein as such already always is."
+    },
+    {
+      "id": "konstitution/bt/008",
+      "locator": "heidegger-being-and-time-commentary#h3-s-21-the-hermeneutical-discussion-of-the-cartesian-ontology-of-the-world",
+      "primary_locator": "SZ S 21",
+      "stratum": "bt-1927",
+      "term": "constitutes its Being",
+      "claim": "In the Cartesian approach what is accessible through mathematics about a being constitutes its Being, so that the world has its Being dictated to it from a determinate idea of Being.",
+      "status": "criticized",
+      "quote": "What is accessible through mathematics about a being constitutes its Being. Thus, from a determinate idea of Being enclosed in the concept of substantiality, and from the idea of a cognition that cognizes beings so constituted, the \"world\" has its Being, as it were, dictated to it."
+    },
+    {
+      "id": "konstitution/bt/009",
+      "locator": "heidegger-being-and-time-commentary#h3-s-21-the-hermeneutical-discussion-of-the-cartesian-ontology-of-the-world",
+      "primary_locator": "SZ S 21",
+      "stratum": "bt-1927",
+      "term": "fundamental constitution",
+      "claim": "Descartes grasps the Being of Dasein, to whose fundamental constitution Being-in-the-world belongs, in the same way as the Being of the res extensa: as substance.",
+      "status": "criticized",
+      "quote": "The Being of \"Dasein,\" to whose fundamental constitution Being-in-the-world belongs, Descartes grasps in the same way as the Being of the *res extensa*: as substance."
+    },
+    {
+      "id": "konstitution/bt/010",
+      "locator": "heidegger-being-and-time-commentary#h3-s-28-the-task-of-a-thematic-analysis-of-being-in",
+      "primary_locator": "SZ S 28",
+      "stratum": "bt-1927",
+      "term": "constitutive characters of Being",
+      "claim": "The non-derivability of a primordial phenomenon does not exclude a manifoldness of constitutive characters of Being, which if they show themselves are existentially equiprimordial.",
+      "status": "introduced",
+      "quote": "the non-derivability of a primordial phenomenon does not exclude a manifoldness of constitutive characters of Being. If such show themselves, they are existentially *equiprimordial*"
+    },
+    {
+      "id": "konstitution/bt/011",
+      "locator": "heidegger-being-and-time-commentary#h3-s-28-the-task-of-a-thematic-analysis-of-being-in",
+      "primary_locator": "SZ S 28",
+      "stratum": "bt-1927",
+      "term": "constituted",
+      "claim": "The being that is essentially constituted through Being-in-the-world is itself in each case its there.",
+      "status": "presupposed",
+      "quote": "The being that is essentially constituted through Being-in-the-world is itself in each case its \"there.\""
+    }
+  ],
+  "absences": [
+    {
+      "locator": "heidegger-being-and-time-commentary#h3-s-10-the-delimitation-of-the-analytic-of-dasein-against-anthropology-psychology",
+      "expected_because": "The section delimits the analytic of Dasein against anthropology, psychology and biology, where the mode of being of the person and of acts is precisely what is at issue, and where the personalistic accounts being measured would have to be met on the question of what makes up the person's unity. No term of the family occurs in its 1,317 words."
+    }
+  ]
+}
