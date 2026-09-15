@@ -61,6 +61,96 @@
       "question": "marion-sur-le-prisme-metaphysique-de-descartes-commentary#h3-s-20-the-name-out-of-play records Marion reading Descartes' geometrical figures and God's essence alike as 'true and immutable natures', innate ideas drawn from thought rather than from sense-perception or imagination. Whether Husserl's eidos/Wesen is this doctrine's phenomenological heir, and whether he would count it as a 'phenomenological residuum' in his own technical sense (Ideas I) or only as the invariant residue of eidetic/free variation (Experience and Judgment), cannot be answered from the corpus: a keyword search of husserl-krisis-commentary, husserliana-3-ideas-i-parts-3-4-commentary, husserliana-9-phenomenological-psychology-commentary, husserliana-39-die-lebenswelt-commentary and husserl-thing-and-space-commentary for 'immutable' and 'residuum' turns up only an unrelated sense of residuum (the hyletic/transcendental residuum of the reduction, not essences), and no commentary discusses vera et immutabilis natura or cites Descartes' Meditation V by name.",
       "needs": "An extraction pass for theme 'wesen' over the Wesen/Wesensschau sections of husserliana-3-ideas-i-parts-3-4-commentary (the doctrine of essences, Ideas I §§ 2-3 and 22-23) and, if a commentary on Erfahrung und Urteil's free-variation chapters exists or is written, over its eidos/invariant material - to find or confirm the absence of any place where Husserl's own commentary explicitly compares eidetic essences to Descartes' true and immutable natures, and to settle whether 'phenomenological residuum' is ever used there of essences rather than only of transcendental consciousness.",
       "status": "open"
+    },
+    {
+      "id": "gap-008",
+      "opened": "2026-09-15",
+      "theme": "intentionalitaet",
+      "question": "husserliana-5-ideas-iii-commentary sits on the ledger spine at 1912 on a single stratum, but three of its intentionality units (intentionalitaet/hua5/020-022: the description of the intentional object as such, the intentional object as ideal index of consciousness-manifolds, the constitutive analysis of object-categories) carry the primary citation 'Ideas III, Afterword Section 6'. The ledger dates the Afterword only by the volume. Whether those three units precede or follow Ideas I's noema doctrine (1913-1928), Hua 7's sense-giving consciousness (1923-24) or FTL's correlation of object-category and evidence-category (1929) cannot be told, and the narrative has had to cite them without a place in the sequence.",
+      "needs": "The Ideas III commentary to state, from the volume it works from, the date of the Afterword it comments on; then a second stratum in chronology.json for that text, and the three units re-tagged to it. Never a date supplied from memory.",
+      "raised_by": "synthesis/outputs/intentionalitaet-development-narrative.md",
+      "status": "open"
+    },
+    {
+      "id": "gap-009",
+      "opened": "2026-09-15",
+      "theme": "intentionalitaet",
+      "question": "The Sixth Logical Investigation enters the ledger at 1921 because its commentary reads the second-edition (B2) text and chronology.json carries only that stratum, whereas the Fifth Investigation spans 1901 to 1913 on two strata. The doctrine of intention and fulfilment, fullness as a third moment beside quality and matter, 'intention is not expectation', and categorial intuition in founded acts (intentionalitaet/lu6/001-024) therefore sit on the spine after the 1919 Natur und Geist lectures and beside the passive-synthesis lectures. At the same time none of the 41 Fifth Investigation units carries a stratum tag, although the commentary is recorded (chronology note) as marking first-edition-only passages and second-edition footnotes throughout; only hua19-1/022 states its edition in its own claim. Every ordering claim in the narrative that runs from the Investigations forward is exposed to this.",
+      "needs": "For LU VI: the commentary to record which passages the B2 text carries over unchanged from the first edition and which it adds or reworks, a first-edition stratum in chronology.json, and units tagged where the commentary assigns a layer. For LU V: a re-tagging pass over the existing record assigning lu5-a-1901 or lu5-b-1913 wherever the commentary marks the layer, and leaving the rest untagged.",
+      "raised_by": "synthesis/outputs/intentionalitaet-development-narrative.md",
+      "status": "open"
+    },
+    {
+      "id": "gap-010",
+      "opened": "2026-09-15",
+      "theme": "intentionalitaet",
+      "question": "Three recorded statements of the objectivating thesis cannot be ordered. Hua XXVIII Part II s 9 (intentionalitaet/hua28/005): in the proper sense only objectivating acts are directed upon the objective, valuing acts upon values. Ideas II s 7 (hua4/010): every non-objectivating act is itself objectivating in what it newly contributes. Ideas I s 117 (hua3-i/005): all acts whatsoever, including sentiment and will, are objectivating. The ledger dates them 1908-09 to 1914, 1912 to 1928, and 1913 to 1928; the ranges overlap and no unit carries a stratum. Whether Ideas I s 117 revises Hua XXVIII s 9 or restates it under the widened sense of 'objectivating' that LU V s 37 (hua19-1/038) had already introduced is the hinge of the reception critiques (Bernet bernet-vds/029-030, Henry henry-em/012-013), and the ledger cannot turn it.",
+      "needs": "Stratum tags on the Hua XXVIII record (which course the ss 8-9, 13-17 and 21 material belongs to, as the commentary states it) and on the Ideas II ss 4-7 units (which of the six Hua IV strata the commentary assigns them to). If the commentaries do not assign a layer, record that they do not, so the non-ordering becomes a checked fact rather than a gap in tagging.",
+      "raised_by": "synthesis/outputs/intentionalitaet-development-narrative.md",
+      "status": "open"
+    },
+    {
+      "id": "gap-011",
+      "opened": "2026-09-15",
+      "theme": "intentionalitaet",
+      "question": "The status of the lowest layer reverses direction across three records and the ledger cannot say whether Husserl decided it. Hua XLIII/2 Part III s 4 (1911; intentionalitaet/hua43-2/009, 005) places the deepest-lying intentionality in the inner consciousness that constitutes the immanent time-flux, constituting through intentionality yet not through acts. Ideas I ss 82-83 (1913-28) carry two recorded absences: the time-structure of the stream is analysed without the theme, which the absence notes read as deferral. The Hua XXXIII record (1917-18; hua33/002, 004, 006, 007, 010) reports the editors as saying Husserl no longer took for granted that the primal process is an objectifying intentional consciousness, that it may be pre-intentional, and that the manuscripts reached no definitive determination. Every one of the fourteen Hua XXXIII units comes from the editors' introduction; the six main text groups (Texts 1-22) are unextracted. Bernet (bernet-vds/049, 053) then reads absolute consciousness as no longer intentional and not absolute.",
+      "needs": "An extraction pass over the Hua XXXIII text groups themselves (Texts 1-22), keyed to primal process / Urprozess, pre-intentional, Laengsintentionalitaet / Querintentionalitaet, and to the apprehension-schema, recording where the texts decide, waver, or drop the question, and recording absences where a text treats the primal stream without the vocabulary. The same pass should settle whether the Ideas I ss 82-83 absence is the deferral the absence notes call it or a doctrinal separation.",
+      "raised_by": "synthesis/outputs/intentionalitaet-development-narrative.md",
+      "status": "open"
+    },
+    {
+      "id": "gap-012",
+      "opened": "2026-09-15",
+      "theme": "intentionalitaet",
+      "question": "The founding of intentionality in transcendence, the thesis on which the Heidegger side of the narrative turns, reaches the ledger only through a reception record. Bernet (bernet-vds/004, 008, 009) reports Heidegger's formula that intentionality is the ratio cognoscendi of transcendence and transcendence the ratio essendi of intentionality, intentionality as ontic transcendence grounded in the Urtranszendenz of being-in-the-world; the Bernet pass note assigns those chapters to the 1925 course. On the primary side the GA 20 record covers ss 5-6 and 11-13 and holds no such unit; the GA 24 record has three units and its pass note names the intentio/intentum analysis, the misinterpretations and the transcendence relation as not covered; Sein und Zeit contributes only the s 69(b) note (sz/021, 023). So the narrative can say that Heidegger keeps the word and moves the question, and cannot cite from the primary side where he grounds it.",
+      "needs": "Extraction for intentionalitaet over the GA 24 commentary's uncovered material on perception (intentio/intentum, misinterpretations, intentionality and transcendence), and over GA 20 ss 4 and 7-10, which the GA 20 pass note lists as not covered. Then the Bernet units can be checked against dated primary units instead of standing in for them.",
+      "raised_by": "synthesis/outputs/intentionalitaet-development-narrative.md",
+      "status": "open"
+    },
+    {
+      "id": "gap-013",
+      "opened": "2026-09-15",
+      "theme": "intentionalitaet",
+      "question": "In the Sein und Zeit record (23 units) the recorded quotes carry the word 'intentionality' or 'intentional' in three units only: sz/022 and sz/023, both reporting the s 69(b) note, and sz/008, where the phrase 'intentionality is here out-radicalized' is the commentator's own. The pass note says the record covers the points where the treatise engages and displaces intentionality, but no absence is recorded for any Sein und Zeit section. The narrative therefore cannot say whether the word is absent from ss 12-13 and ss 43-44 in the treatise as the commentary renders it, or only absent from the quotes the extraction chose. The second commentary on the treatise (heidegger-being-and-time-commentary) has one term hit and no record.",
+      "needs": "Absence records with absent_terms keyed to Intentionalitaet / intentional (not to 'directedness' or 'of', which are ordinary English) for Sein und Zeit ss 12-13, 43(a), 44(b) and 69(b) in heidegger-sein-und-zeit-commentary, and an intentionalitaet pass over heidegger-being-and-time-commentary, so that the near-disappearance of the word becomes a checked negative rather than an impression from the extracted quotes.",
+      "raised_by": "synthesis/outputs/intentionalitaet-development-narrative.md",
+      "status": "open"
+    },
+    {
+      "id": "gap-014",
+      "opened": "2026-09-15",
+      "theme": "intentionalitaet",
+      "question": "The Krisis commentary (intentionalitaet/krisis/009, Crisis s 46) records Husserl dating the first breakthrough of the universal correlation-a priori to about 1898, during the working-out of the Logical Investigations. The ledger's earliest dated unit is 1901, and its earliest recorded statement of the correlation as a principle is Ideas III s 7 (1912; hua5/003) and Ideas I s 86 (hua3-p34/007). LU V s 20 (hua19-1/029) says the opposite in emphasis: for the really phenomenological consideration the objectivity itself is nothing. The earliest stratum of the correlation is thus asserted in the corpus, as Husserl's retrospection, and evidenced nowhere in it. This is the same shape as gap-002 on care.",
+      "needs": "No commentary in the corpus reaches 1898. The nearest unread candidates are husserl-prolegomena-commentary (2 term hits, no record) and husserliana-26-theory-of-meaning-commentary (7 hits, no record); an extraction pass over each, keyed to correlation / Korrelation and to the a priori of the object-consciousness relation, would show whether the doctrine is stated before Ideas III. Until then the 1898 date stands as a report of the Krisis, not as a dated stratum.",
+      "raised_by": "synthesis/outputs/intentionalitaet-development-narrative.md",
+      "status": "open"
+    },
+    {
+      "id": "gap-015",
+      "opened": "2026-09-15",
+      "theme": "intentionalitaet",
+      "question": "intentionalitaet/eu/003 (Erfahrung und Urteil s 8: the original induction or anticipation proves to be a modification-mode of originally instituting cognitive activities, a mode of intentionality that intends beyond a core of givenness) and intentionalitaet/hua39/023 (Hua XXXIX Text Nr. 15, dated 1934 in chronology.json: the original induction or anticipation proves to be a modification-mode of originally instituting activity, a mode of intentionality, the anticipating meaning beyond a kernel of givenness) record the same sentence in nearly the same words. Erfahrung und Urteil is chronology-unresolved, for want of the volume in the sources repository (STATUS.md), so the ledger holds it out of the sequence. The parallel is dating evidence the pipeline cannot yet register, and it must not be used to place the undated record.",
+      "needs": "Per STATUS.md, the volume in faultynode/sources first, then the Landgrebe compilation strata written into the commentary's opening note and into chronology.json. Once a stratum exists, record the relation between eu/003 and hua39/023 as a unit with the appropriate status (presupposed or revised) rather than as a coincidence noted in prose.",
+      "raised_by": "synthesis/outputs/intentionalitaet-development-narrative.md",
+      "status": "open"
+    },
+    {
+      "id": "gap-016",
+      "opened": "2026-09-15",
+      "theme": "intentionalitaet",
+      "question": "Hua XLIII/2 Part III s 4 (1911; intentionalitaet/hua43-2/013, status criticized) records an objection Husserl raises against his own layering of primary content, feeling-apprehension and value-intentionality: extended to the drive-sphere it fails, because the drive toward the continuation of an agreeable tone already has a directedness-toward whose striving intention fulfils itself, so drive admits no layer of non-intentional primary content. The ledger records the objection as raised and not as answered. Henry (1963; henry-em/012-013) and Bernet (1994; bernet-vds/029-030) later treat the intentionality of affectivity as Husserl's settled thesis and criticize it as such. Whether Husserl answered the 1911 objection, and where, is not in the corpus as extracted: the Hua XLIII/2 pass covered Part III ss 1 and 4 only, and the passive-synthesis record has four units.",
+      "needs": "Extraction for intentionalitaet over Hua XLIII/2 Parts I-II and Part III ss 2-3, and over the affection and association material of husserliana-11-analyses-concerning-passive-and-active-synthesis-commentary, keyed to Trieb / drive, Streben / striving, Tendenz, and affection, recording whether a non-intentional drive-layer is asserted, denied, or left open.",
+      "raised_by": "synthesis/outputs/intentionalitaet-development-narrative.md",
+      "status": "open"
+    },
+    {
+      "id": "gap-017",
+      "opened": "2026-09-15",
+      "theme": "intentionalitaet",
+      "question": "LU V s 11 (intentionalitaet/hua19-1/009) says the so-called immanent object is in truth not immanent or mental at all. Ideas I s 90 (hua3-p34/012) rejects the immanent object as inner image by a regress. Hua VII, Fifteenth Lecture (1923-24; hua7-i/003, 006) then calls the object of the intentional relation the mere intentional object, the immanent one, as Brentano too introduces it, and denies only that this immanence is real (reell). Kern (kern-hk/018) reports a distinction of real from intentional immanence. The ledger has the two ends and a reception gloss; it has no dated unit between 1913 and 1923 in which Husserl reappropriates the word for the intentional object or marks that he is doing so, and the narrative cannot say whether this is a terminological reversal or a continuity under a changed sense of 'immanent'.",
+      "needs": "Extraction for intentionalitaet over husserliana-13-basic-problems-of-phenomenology-commentary (1910; 14 term hits, no record) and over the First Chapter of the Hua VII commentary, keyed to immanent / Immanenz, reell, and irreal, recording where the word is applied to the intentional object and with what qualification.",
+      "raised_by": "synthesis/outputs/intentionalitaet-development-narrative.md",
+      "status": "open"
     }
   ]
 }
