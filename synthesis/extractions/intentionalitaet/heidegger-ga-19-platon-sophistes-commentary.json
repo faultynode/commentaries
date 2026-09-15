@@ -1,0 +1,56 @@
+{
+  "schema_version": 1,
+  "theme": "intentionalitaet",
+  "commentary": "heidegger-ga-19-platon-sophistes-commentary",
+  "source_sha256": "28b074d10428ca6c33ab4bc6507cd441ca0426552c4f82a72fd85d29117cfb75",
+  "extracted_at": "2026-09-15",
+  "extractor": {
+    "agent": "claude-code",
+    "model": "claude-opus-5",
+    "prompt": "https://github.com/faultynode/prompts/blob/main/synthesis-pipeline/extraction-prompt.md",
+    "note": "Whole file scanned for the theme's terms. 'Intentionalitaet', 'intentionality', 'intentional', 'noesis' and 'noema' do not occur anywhere in the commentary; all 15 hits that put this file on the theme's candidate list are the word 'directedness', which here renders Sachlichkeit / Unsachlichkeit in the sophistry analysis and the Greek being-directed-toward, not Intentionalitaet. The record therefore carries no units and four checked absences. This is the same shape as gap-004 on the sorge theme in this same commentary: a term-density ranking driven by a shared English rendering."
+  },
+  "coverage": "partial",
+  "coverage_note": "No units: the theme's technical terms do not occur in this commentary at all. Four absences are recorded at the sections where the theme was expected and where the term-density ranking pointed - the five modes of aletheuein, the recapitulation on matter-directedness and sophistry, the delimitation of dialectic and sophistry against First Philosophy, and the orthotes of euboulia. Not covered in the sense of a reading pass: the commentary was read only for this theme's terms and for the four sections named, so nothing here is a claim about the course's doctrine beyond the recorded absences. A structural pass - looking for the work intentionality does rather than for the word - is a separate task, as gap-004 says for sorge.",
+  "units": [],
+  "absences": [
+    {
+      "locator": "heidegger-ga-19-platon-sophistes-commentary#h5-a-the-five-modes-of-aletheyein-nic-eth-vi-3-aletheyein-as-the-ground-of-ontology",
+      "absent_terms": [
+        "Intentionalität",
+        "intentionality",
+        "intentional"
+      ],
+      "expected_because": "This is where the modes in which the soul discloses beings are enumerated and aletheuein is made the ground of ontology, with aletheia a determination of the being of Dasein. A reader of the Logical Investigations would expect that disclosive comportment toward beings to be put as intentional act-structure; the analysis runs in aletheuein, techne, episteme, phronesis, sophia and nous instead.",
+      "note": "One occurrence of 'directedness' here, rendering the Greek, not Intentionalitaet."
+    },
+    {
+      "locator": "heidegger-ga-19-platon-sophistes-commentary#h4-s34-recapitulation-first-characterization-of-sophistry-delimitation-against-dial",
+      "absent_terms": [
+        "Intentionalität",
+        "intentionality",
+        "intentional"
+      ],
+      "expected_because": "The densest 'directedness' passage in the commentary: matter-directedness and un-matter-directedness carry the delimitation of sophistry from dialectic and philosophy. Directedness is one of this theme's search terms, so the section ranks high on term density while containing nothing of the theme.",
+      "note": "Seven occurrences of 'directedness' and none of the theme's technical terms. The word renders Sachlichkeit / Unsachlichkeit - being directed to the matter at issue - not Intentionalitaet, and this section is why the commentary's term-density ranking for this theme is a false positive."
+    },
+    {
+      "locator": "heidegger-ga-19-platon-sophistes-commentary#h5-b-delimitation-of-dialectic-and-sophistry-against-first-philosophy-the-commonali",
+      "absent_terms": [
+        "Intentionalität",
+        "intentionality",
+        "intentional"
+      ],
+      "expected_because": "Philosophy, dialectic and sophistry are delimited here by their comportment toward a common object, the whole - gnoristike, peirastike and phainomene sophia. The differentiation of comportments by what they are directed at is the work intentionality does in the Husserl records on this ledger, and it is done here without the term."
+    },
+    {
+      "locator": "heidegger-ga-19-platon-sophistes-commentary#h5-c-the-orthotes-of-eyboylia-the-thoroughgoing-directedness-toward-the-agathon",
+      "absent_terms": [
+        "Intentionalität",
+        "intentionality",
+        "intentional"
+      ],
+      "expected_because": "The section's own title names a thoroughgoing directedness toward the agathon, and the correctness of deliberation is analysed as an aiming that reaches its end. Intention and fulfilment is the Husserlian apparatus for exactly this, and it is not invoked."
+    }
+  ]
+}

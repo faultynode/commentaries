@@ -1,0 +1,90 @@
+{
+  "schema_version": 1,
+  "theme": "intentionalitaet",
+  "commentary": "heidegger-ga-17-einfuhrung-in-die-phanomenologische-forschung-commentary",
+  "source_sha256": "ed66742cbd4dd82f4df2239b2d0d2f8268b4295f940c4395d683c46c070894f3",
+  "extracted_at": "2026-09-15",
+  "extractor": {
+    "agent": "claude-code",
+    "model": "claude-opus-5",
+    "prompt": "https://github.com/faultynode/prompts/blob/main/synthesis-pipeline/extraction-prompt.md",
+    "note": "Whole file scanned for the theme's terms: 'intentionality' occurs 4 times and 'intentional' 10; 'Intentionalitaet', 'noesis', 'noema' and 'directedness' do not occur. Read closely: § 5, § 24, §§ 48-49 and § 50. § 37's 'species intentionales' is a Thomistic doctrine of mediating species, not this theme's term, and is not recorded as a unit."
+  },
+  "coverage": "partial",
+  "coverage_note": "Covers the four sections where intentionality does argumentative work: § 5 on acts as intentional lived experiences and the post-Investigations narrowing of 'act' to the express ego-cogito; § 24 on Descartes' cogitatio as intentio; §§ 48-49 on the first of the three disfigurements, intentionality grasped as a specific theoretical comporting rendered Meinen and the founding of every willing, loving and hating on a representing; and § 50 on the cutting back of intentionality to the limits of its interpretive function, on joy, terror, grief and anxiety as phenomena missed when construed as intentionality, and on consciousness as not 'something relating to something'. Not covered: the Descartes interpretation as a whole, the care of knowing and the care of certainty except where they bear on intentionality, and the evidence and eidetic-reduction limbs of the §§ 48-49 critique, keyword-scanned only for this theme.",
+  "units": [
+    {
+      "id": "intentionalitaet/ga17/001",
+      "locator": "heidegger-ga-17-einfuhrung-in-die-phanomenologische-forschung-commentary#h4-s-5-the-theme-consciousness-in-the-logical-investigations",
+      "primary_locator": "GA 17 § 5",
+      "term": "act / intentional lived experience",
+      "status": "introduced",
+      "claim": "Acts are identical with intentional lived experience, and 'act' bounds a genus within the whole sphere of lived experiences called consciousness.",
+      "quote": "Acts are identical with *intentional lived experience*, and \"act\" bounds a genus within the whole sphere of Erlebnisse called consciousness."
+    },
+    {
+      "id": "intentionalitaet/ga17/002",
+      "locator": "heidegger-ga-17-einfuhrung-in-die-phanomenologische-forschung-commentary#h4-s-5-the-theme-consciousness-in-the-logical-investigations",
+      "primary_locator": "GA 17 § 5",
+      "term": "act (narrowed after the Investigations)",
+      "status": "revised",
+      "claim": "After the Logical Investigations Husserl narrowed 'act' to those intentional experiences marked by the express ego-cogito, distinguishing them from non-act intentional experiences such as background-experiences.",
+      "quote": "after the *Investigations* Husserl narrowed \"act\" to those intentional experiences marked by the express *ego-cogito*, distinguishing them from non-act intentional experiences like background-experiences"
+    },
+    {
+      "id": "intentionalitaet/ga17/003",
+      "locator": "heidegger-ga-17-einfuhrung-in-die-phanomenologische-forschung-commentary#h4-s-24-the-cogito-sum-the-clara-et-distincta-perceptio-and-the-task-of-an-ontologi",
+      "primary_locator": "GA 17 § 24",
+      "term": "cogitatio / intentio",
+      "status": "introduced",
+      "claim": "Descartes' cogitatio is equated with intentio - everything happening in us of which we are conscious - and is called nearly the phenomenological concept of intentional lived experience.",
+      "quote": "*Cogitatio* equals *intentio*: everything that happens in us of which we are conscious, so far as there is consciousness of it in us — nearly the phenomenological concept of intentional lived experience."
+    },
+    {
+      "id": "intentionalitaet/ga17/004",
+      "locator": "heidegger-ga-17-einfuhrung-in-die-phanomenologische-forschung-commentary#h4-ss-48-49-husserl-s-disfiguring-verunstaltung-of-the-phenomenological-findings-th",
+      "primary_locator": "GA 17 §§ 48-49",
+      "term": "intentionality as theoretical comporting (Meinen)",
+      "status": "criticized",
+      "claim": "The first of three disfigurements is that intentionality is grasped as a specific theoretical comporting, rendered Meinen, with theoretical meaning claimed as the foundation of every complex intentional nexus.",
+      "quote": "First, *intentionality* is grasped — less expressly than inexpressly — as a *specific theoretical comporting*: intentionality gets rendered \"meaning\" (Meinen), and it is claimed that for every complex intentional nexus *theoretical meaning* forms the foundation"
+    },
+    {
+      "id": "intentionalitaet/ga17/005",
+      "locator": "heidegger-ga-17-einfuhrung-in-die-phanomenologische-forschung-commentary#h4-ss-48-49-husserl-s-disfiguring-verunstaltung-of-the-phenomenological-findings-th",
+      "primary_locator": "GA 17 §§ 48-49",
+      "term": "founding of willing and loving on representing",
+      "status": "criticized",
+      "claim": "The claim that every willing, loving and hating is founded on a representing that first gives the will-able and the love-able is called a methodological mistake that analogizes emotional experience to knowing.",
+      "quote": "that every willing, loving, hating is founded on a *representing* that first gives the will-able, the hate- and love-able. This is a methodological mistake — analogizing the study of emotional experiences to knowing"
+    },
+    {
+      "id": "intentionalitaet/ga17/006",
+      "locator": "heidegger-ga-17-einfuhrung-in-die-phanomenologische-forschung-commentary#h4-s-50-repetition-of-the-traversed-characters-of-the-care-of-knowing-and-the-exhib",
+      "primary_locator": "GA 17 § 50",
+      "term": "intentionality cut back to its limits",
+      "status": "criticized",
+      "claim": "From the ground-phenomenon of Verdrehung, intentionality as consciousness's ground-character is cut back to its limits, the limits of its interpretive function.",
+      "quote": "from it, intentionality — consciousness's ground-character — is *cut back to its limits*, the limits of its interpretive function"
+    },
+    {
+      "id": "intentionalitaet/ga17/007",
+      "locator": "heidegger-ga-17-einfuhrung-in-die-phanomenologische-forschung-commentary#h4-s-50-repetition-of-the-traversed-characters-of-the-care-of-knowing-and-the-exhib",
+      "primary_locator": "GA 17 § 50",
+      "term": "anxiety (not a being-related-to-something)",
+      "status": "criticized",
+      "claim": "Joy, terror, grief and anxiety are phenomena missed when construed as intentionality, and anxiety cannot be grasped as a being-related-to-something but is a phenomenon of Dasein itself.",
+      "quote": "it is the structural ground on which *joy, terror, grief, anxiety* become explicable, phenomena missed when construed as intentionality. *Anxiety* cannot be grasped as a being-related-to-something; it is a phenomenon of *Dasein itself*."
+    },
+    {
+      "id": "intentionalitaet/ga17/008",
+      "locator": "heidegger-ga-17-einfuhrung-in-die-phanomenologische-forschung-commentary#h4-s-50-repetition-of-the-traversed-characters-of-the-care-of-knowing-and-the-exhib",
+      "primary_locator": "GA 17 § 50",
+      "term": "consciousness as 'something relating to something'",
+      "status": "criticized",
+      "claim": "The being called consciousness is not something relating to something, a subject before an object, but a being that in its being-placed-toward the world co-cares for its own Dasein.",
+      "quote": "The being one calls \"consciousness\" is not \"something relating to something,\" a subject before an object; it is a being that, *in its being-placed-toward the world, co-cares for its own Dasein*"
+    }
+  ],
+  "absences": []
+}

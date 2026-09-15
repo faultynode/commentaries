@@ -4,7 +4,7 @@
 
 *Partly worked already: commentaries/heidegger/heidegger-husserl-intentionality-article.md is a Stage 4 output written before this pipeline existed. Extract the commentaries, not that article.*
 
-614 units and 12 recorded absences from 30 commentaries.
+627 units and 16 recorded absences from 33 commentaries.
 
 ## Primary corpus, by composition or delivery date
 
@@ -1268,6 +1268,37 @@
 
 *Partial pass: Covers the intentionality-relevant core of Hua XXXIX's analysis of the pre-given world: the actual-validity structure of the thematic act and the primal institution (Urstiftung) of a horizon of continuing validity; typification and the overlay of a sedimented sense-schema on every new experience, primal institution according to type, horizons as motivated act-possibilities, and 'being' as a title that has sense only from primal-instituting acts; intentional analysis as evident, right-bestowing interpretation; the sensation-datum as an already-constituted intentional objectuality, the stratified architecture of relative hyle, primary vs. secondary (implicit) objectualities, the privilege of the worldly and the worldlicization of the subjective, the order-bound character of constitutive reflection, and the character of familiarity; the Durchgang/Ende distinction between a gaze that passes through transitional unities and one that terminates at the thing, the objective background as a positively constituted apperceptive field, functioning intentionality with sensation-data as mere transit, and the infinite openness of the end-object; the pre-givenness of the world, the ineffective horizon of the 'unconscious' as a genuinely intentional horizon, horizon-meaning as indeterminate determinability through objects, founded intentionalities as the medium of world-transformation, intersubjectivity as an intra-egoic constitutive achievement, and the empathy-horizon as validity-horizon; and the horizon as original induction / perception through apperception. Not covered: the detailed world-constitution, orientation, apodicticity, reality-structure, praxis, and temporal-constitution analyses of the rest of the volume.*
 
+### 1921-1922 - Heidegger, GA 61 — Phenomenological Interpretations of Aristotle
+
+`heidegger-ga-61-phenomenological-interpretations-of-aristotle-commentary`
+
+- **criticized** · `intentionalitaet/ga61/001` · *objectified intentionality*
+  Comportment's second sense, relation (Bezug), becomes objectified intentionality when it is detached from the first sense, enactment (Vollzug).
+  `heidegger-ga-61-phenomenological-interpretations-of-aristotle-commentary#h4-b-comportment` · [B. Comportment](https://faultynode.github.io/commentaries/commentaries/heidegger/heidegger-ga-61-phenomenological-interpretations-of-aristotle-commentary.html#b-comportment)
+  > The second is relation (*Bezug*), and detached from the first, it becomes objectified intentionality.
+
+- **introduced** · `intentionalitaet/ga61/002` · *intentionality as formal primal structure of facticity*
+  Praestruktion and relucence are said to be the expression of intentionality, the formal primal structure of facticity, that is, of the sense of being of life.
+  `heidegger-ga-61-phenomenological-interpretations-of-aristotle-commentary#h3-chapter-2-ruinance` · [Chapter 2: Ruinance](https://faultynode.github.io/commentaries/commentaries/heidegger/heidegger-ga-61-phenomenological-interpretations-of-aristotle-commentary.html#chapter-2-ruinance)
+  > praestruktion and relucence are the expression of intentionality — the formal primal structure of facticity (of the sense of being of life)
+
+- **criticized** · `intentionalitaet/ga61/003` · *intentionality (its ultimacy in question)*
+  The course asks whether intentionality is fallen from heaven and in what ultimacy it is to be accepted if it is something ultimate, and says it is not secured in a specific theoretical discoverability and experienceability.
+  `heidegger-ga-61-phenomenological-interpretations-of-aristotle-commentary#h3-chapter-2-ruinance` · [Chapter 2: Ruinance](https://faultynode.github.io/commentaries/commentaries/heidegger/heidegger-ga-61-phenomenological-interpretations-of-aristotle-commentary.html#chapter-2-ruinance)
+  > Is intentionality fallen from heaven? If it is something ultimate, in what ultimacy is it to be accepted? Not secured in a specific theoretical discoverability and experienceability.
+
+- **introduced** · `intentionalitaet/ga61/004` · *intentionality as fundamental sense of phenomenology*
+  Intentionality is the formal fundamental structure of all categorial structures of facticity, and this is called the fundamental sense of phenomenology.
+  `heidegger-ga-61-phenomenological-interpretations-of-aristotle-commentary#h3-chapter-2-ruinance` · [Chapter 2: Ruinance](https://faultynode.github.io/commentaries/commentaries/heidegger/heidegger-ga-61-phenomenological-interpretations-of-aristotle-commentary.html#chapter-2-ruinance)
+  > Correspondingly for all categorial structures of facticity — intentionality is their formal fundamental structure. This is the fundamental sense of phenomenology.
+
+- **introduced** · `intentionalitaet/ga61/005` · *intentionality (destructive-historical task)*
+  The destructive and leading intellectual-historical task is how far intentionality has been seen, in what direction and with what means it has been reinterpreted, what hindered its appropriation, and how far it became graspable through Husserl via consciousness.
+  `heidegger-ga-61-phenomenological-interpretations-of-aristotle-commentary#h3-chapter-2-ruinance` · [Chapter 2: Ruinance](https://faultynode.github.io/commentaries/commentaries/heidegger/heidegger-ga-61-phenomenological-interpretations-of-aristotle-commentary.html#chapter-2-ruinance)
+  > how far intentionality has been seen, in what direction and with what means it has been reinterpreted, what has hindered its appropriation. How and how far it became graspable through Husserl via consciousness.
+
+*Partial pass: Covers the two places in this course where intentionality does argumentative work: the Comportment section of Part II, where relation detached from enactment is called objectified intentionality, and the bracketed reflection on ruinance and intentionality in Part III Chapter 2, where intentionality is the formal primal structure of facticity and the formal fundamental structure of all categorial structures of facticity, where its ultimacy is put in question ('Is intentionality fallen from heaven?'), and where the destructive-historical task of asking how far it has been seen and how it became graspable through Husserl via consciousness is set. Not covered: the Aristotle interpretation and the account of philosophical definition, the categories of factical life beyond their tie to intentionality, and the whole of Part I, all keyword-scanned only for this theme.*
+
 ### 1921 - Husserl, Hua 19/2 — Sixth Logical Investigation
 
 `husserliana-19-2-sixth-logical-investigation-commentary`
@@ -1394,6 +1425,52 @@
 
 *Partial pass: Covers the Introduction and the First Section's core doctrine plus the opening of the categorial-intuition analysis: intention/fulfilment as the master contrast, the objectifying acts defined by the identification-character of their fulfilment-syntheses, static vs. dynamic fulfilment and the doubt whether identifying coincidence is already an act of identification, the free/bound modification of the intention, perception as a web of partial intentions, disappointment as a synthesis of distinction, the founding of non-objectifying (e.g. wish-) fulfilment on an identification, fulfilment as intuitivization toward the 'itself', the doctrine of fullness as a third moment beside quality and matter, pure intuition vs. pure signification, the theory of representation (apprehension-matter/sense, apprehension-form, apprehended content), representation as the ultimate substratum of every act, meaningful vs. cognitive essence and the fulfilling sense, the adaequatio rei et intellectus as ideal of ultimate fulfilment, evidence and the fourfold concept of truth, 'is' and 'is not' as matter-differences, 'being is no real predicate', and categorial objectivities as given only in founded acts. Not covered: the compatibility/incompatibility chapter, the detailed theory of categorial representation, the laws of genuine and improper thinking, and the Third Section on non-objectifying acts.*
 
+### 1923-1924 - Heidegger, GA 17 — Einführung in die phänomenologische Forschung
+
+`heidegger-ga-17-einfuhrung-in-die-phanomenologische-forschung-commentary`
+
+- **introduced** · `intentionalitaet/ga17/001` · *act / intentional lived experience*
+  Acts are identical with intentional lived experience, and 'act' bounds a genus within the whole sphere of lived experiences called consciousness.
+  `heidegger-ga-17-einfuhrung-in-die-phanomenologische-forschung-commentary#h4-s-5-the-theme-consciousness-in-the-logical-investigations` · GA 17 § 5 · [§ 5\. The theme "consciousness" in the Logical Investigations](https://faultynode.github.io/commentaries/commentaries/heidegger/heidegger-ga-17-einfuhrung-in-die-phanomenologische-forschung-commentary.html#the-theme-consciousness-in-the-logical-investigations)
+  > Acts are identical with *intentional lived experience*, and "act" bounds a genus within the whole sphere of Erlebnisse called consciousness.
+
+- **revised** · `intentionalitaet/ga17/002` · *act (narrowed after the Investigations)*
+  After the Logical Investigations Husserl narrowed 'act' to those intentional experiences marked by the express ego-cogito, distinguishing them from non-act intentional experiences such as background-experiences.
+  `heidegger-ga-17-einfuhrung-in-die-phanomenologische-forschung-commentary#h4-s-5-the-theme-consciousness-in-the-logical-investigations` · GA 17 § 5 · [§ 5\. The theme "consciousness" in the Logical Investigations](https://faultynode.github.io/commentaries/commentaries/heidegger/heidegger-ga-17-einfuhrung-in-die-phanomenologische-forschung-commentary.html#the-theme-consciousness-in-the-logical-investigations)
+  > after the *Investigations* Husserl narrowed "act" to those intentional experiences marked by the express *ego-cogito*, distinguishing them from non-act intentional experiences like background-experiences
+
+- **introduced** · `intentionalitaet/ga17/003` · *cogitatio / intentio*
+  Descartes' cogitatio is equated with intentio - everything happening in us of which we are conscious - and is called nearly the phenomenological concept of intentional lived experience.
+  `heidegger-ga-17-einfuhrung-in-die-phanomenologische-forschung-commentary#h4-s-24-the-cogito-sum-the-clara-et-distincta-perceptio-and-the-task-of-an-ontologi` · GA 17 § 24 · [§ 24\. The cogito sum, the clara et distincta perceptio, and the task of an ontological securing of the truth-criterion](https://faultynode.github.io/commentaries/commentaries/heidegger/heidegger-ga-17-einfuhrung-in-die-phanomenologische-forschung-commentary.html#the-cogito-sum-the-clara-et-distincta-perceptio-and-the-task-of-an-ontological-securing-of-the-truth-criterion)
+  > *Cogitatio* equals *intentio*: everything that happens in us of which we are conscious, so far as there is consciousness of it in us — nearly the phenomenological concept of intentional lived experience.
+
+- **criticized** · `intentionalitaet/ga17/004` · *intentionality as theoretical comporting (Meinen)*
+  The first of three disfigurements is that intentionality is grasped as a specific theoretical comporting, rendered Meinen, with theoretical meaning claimed as the foundation of every complex intentional nexus.
+  `heidegger-ga-17-einfuhrung-in-die-phanomenologische-forschung-commentary#h4-ss-48-49-husserl-s-disfiguring-verunstaltung-of-the-phenomenological-findings-th` · GA 17 §§ 48-49 · [§§ 48–49. Husserl's disfiguring (Verunstaltung) of the phenomenological findings through the care of certainty inherited from Descartes; the research into the origin-history of the categories](https://faultynode.github.io/commentaries/commentaries/heidegger/heidegger-ga-17-einfuhrung-in-die-phanomenologische-forschung-commentary.html#husserls-disfiguring-verunstaltung-of-the-phenomenological-findings-through-the-care-of-certainty-inherited-from-descartes-the-research-into-the-origin-history-of-the-categories)
+  > First, *intentionality* is grasped — less expressly than inexpressly — as a *specific theoretical comporting*: intentionality gets rendered "meaning" (Meinen), and it is claimed that for every complex intentional nexus *theoretical meaning* forms the foundation
+
+- **criticized** · `intentionalitaet/ga17/005` · *founding of willing and loving on representing*
+  The claim that every willing, loving and hating is founded on a representing that first gives the will-able and the love-able is called a methodological mistake that analogizes emotional experience to knowing.
+  `heidegger-ga-17-einfuhrung-in-die-phanomenologische-forschung-commentary#h4-ss-48-49-husserl-s-disfiguring-verunstaltung-of-the-phenomenological-findings-th` · GA 17 §§ 48-49 · [§§ 48–49. Husserl's disfiguring (Verunstaltung) of the phenomenological findings through the care of certainty inherited from Descartes; the research into the origin-history of the categories](https://faultynode.github.io/commentaries/commentaries/heidegger/heidegger-ga-17-einfuhrung-in-die-phanomenologische-forschung-commentary.html#husserls-disfiguring-verunstaltung-of-the-phenomenological-findings-through-the-care-of-certainty-inherited-from-descartes-the-research-into-the-origin-history-of-the-categories)
+  > that every willing, loving, hating is founded on a *representing* that first gives the will-able, the hate- and love-able. This is a methodological mistake — analogizing the study of emotional experiences to knowing
+
+- **criticized** · `intentionalitaet/ga17/006` · *intentionality cut back to its limits*
+  From the ground-phenomenon of Verdrehung, intentionality as consciousness's ground-character is cut back to its limits, the limits of its interpretive function.
+  `heidegger-ga-17-einfuhrung-in-die-phanomenologische-forschung-commentary#h4-s-50-repetition-of-the-traversed-characters-of-the-care-of-knowing-and-the-exhib` · GA 17 § 50 · [§ 50\. Repetition of the traversed characters of the care of knowing, and the exhibition of Dasein itself](https://faultynode.github.io/commentaries/commentaries/heidegger/heidegger-ga-17-einfuhrung-in-die-phanomenologische-forschung-commentary.html#repetition-of-the-traversed-characters-of-the-care-of-knowing-and-the-exhibition-of-dasein-itself)
+  > from it, intentionality — consciousness's ground-character — is *cut back to its limits*, the limits of its interpretive function
+
+- **criticized** · `intentionalitaet/ga17/007` · *anxiety (not a being-related-to-something)*
+  Joy, terror, grief and anxiety are phenomena missed when construed as intentionality, and anxiety cannot be grasped as a being-related-to-something but is a phenomenon of Dasein itself.
+  `heidegger-ga-17-einfuhrung-in-die-phanomenologische-forschung-commentary#h4-s-50-repetition-of-the-traversed-characters-of-the-care-of-knowing-and-the-exhib` · GA 17 § 50 · [§ 50\. Repetition of the traversed characters of the care of knowing, and the exhibition of Dasein itself](https://faultynode.github.io/commentaries/commentaries/heidegger/heidegger-ga-17-einfuhrung-in-die-phanomenologische-forschung-commentary.html#repetition-of-the-traversed-characters-of-the-care-of-knowing-and-the-exhibition-of-dasein-itself)
+  > it is the structural ground on which *joy, terror, grief, anxiety* become explicable, phenomena missed when construed as intentionality. *Anxiety* cannot be grasped as a being-related-to-something; it is a phenomenon of *Dasein itself*.
+
+- **criticized** · `intentionalitaet/ga17/008` · *consciousness as 'something relating to something'*
+  The being called consciousness is not something relating to something, a subject before an object, but a being that in its being-placed-toward the world co-cares for its own Dasein.
+  `heidegger-ga-17-einfuhrung-in-die-phanomenologische-forschung-commentary#h4-s-50-repetition-of-the-traversed-characters-of-the-care-of-knowing-and-the-exhib` · GA 17 § 50 · [§ 50\. Repetition of the traversed characters of the care of knowing, and the exhibition of Dasein itself](https://faultynode.github.io/commentaries/commentaries/heidegger/heidegger-ga-17-einfuhrung-in-die-phanomenologische-forschung-commentary.html#repetition-of-the-traversed-characters-of-the-care-of-knowing-and-the-exhibition-of-dasein-itself)
+  > The being one calls "consciousness" is not "something relating to something," a subject before an object; it is a being that, *in its being-placed-toward the world, co-cares for its own Dasein*
+
+*Partial pass: Covers the four sections where intentionality does argumentative work: § 5 on acts as intentional lived experiences and the post-Investigations narrowing of 'act' to the express ego-cogito; § 24 on Descartes' cogitatio as intentio; §§ 48-49 on the first of the three disfigurements, intentionality grasped as a specific theoretical comporting rendered Meinen and the founding of every willing, loving and hating on a representing; and § 50 on the cutting back of intentionality to the limits of its interpretive function, on joy, terror, grief and anxiety as phenomena missed when construed as intentionality, and on consciousness as not 'something relating to something'. Not covered: the Descartes interpretation as a whole, the care of knowing and the care of certainty except where they bear on intentionality, and the evidence and eidetic-reduction limbs of the §§ 48-49 critique, keyword-scanned only for this theme.*
+
 ### 1923-1924 - Husserl, Hua 7 — Erste Philosophie I
 
 `husserliana-7-erste-philosophie-i-commentary`
@@ -1484,6 +1561,32 @@
   > a *psychologism on the ground of such a phenomenological psychology* (and even one that had mistaken its a priori character) is *curable*.
 
 *Partial pass: Covers the Fifteenth to Seventeenth Lectures of the Second Chapter (critical disclosure of the problematic hidden in Locke): the pure I as identical non-real subject-pole, the intentional relation and the mere immanent object, the change of attitude that isolates the meant-as-meant, irreal (non-reell) immanence, synthesis as production of a unitary intentional objectivity, the double I/object polarization, the critique of the image- and sign-theory and of Berkeley's residual blindness to intentionality, empathy as the only route beyond one's own nature, true being as the idea of unbroken confirmation, sense-giving consciousness as source of all objective sense, and the curable psychologism / incurable sensualism distinction. Not covered: the First Chapter, the abstraction/intuition material of the Third Chapter, and the Hume, Berkeley, Leibniz and Kant lectures.*
+
+### 1924-1925 - Sophistes Commentary
+
+`heidegger-ga-19-platon-sophistes-commentary`
+
+#### Recorded absences
+
+- **absent** · `heidegger-ga-19-platon-sophistes-commentary#h5-a-the-five-modes-of-aletheyein-nic-eth-vi-3-aletheyein-as-the-ground-of-ontology`
+  Expected because: This is where the modes in which the soul discloses beings are enumerated and aletheuein is made the ground of ontology, with aletheia a determination of the being of Dasein. A reader of the Logical Investigations would expect that disclosive comportment toward beings to be put as intentional act-structure; the analysis runs in aletheuein, techne, episteme, phronesis, sophia and nous instead.
+  One occurrence of 'directedness' here, rendering the Greek, not Intentionalitaet.
+  [a) The five modes of ἀληθεύειν (Nic. Eth. VI, 3). ἀληθεύειν as the ground of ontology. ἀλήθεια as a determination of the being of Dasein (ἀληθεύει ἡ ψυχή)](https://faultynode.github.io/commentaries/commentaries/heidegger/heidegger-ga-19-platon-sophistes-commentary.html#a-the-five-modes-of--nic-eth-vi-3--as-the-ground-of-ontology--as-a-determination-of-the-being-of-dasein)
+
+- **absent** · `heidegger-ga-19-platon-sophistes-commentary#h4-s34-recapitulation-first-characterization-of-sophistry-delimitation-against-dial`
+  Expected because: The densest 'directedness' passage in the commentary: matter-directedness and un-matter-directedness carry the delimitation of sophistry from dialectic and philosophy. Directedness is one of this theme's search terms, so the section ranks high on term density while containing nothing of the theme.
+  Seven occurrences of 'directedness' and none of the theme's technical terms. The word renders Sachlichkeit / Unsachlichkeit - being directed to the matter at issue - not Intentionalitaet, and this section is why the commentary's term-density ranking for this theme is a false positive.
+  [§34. Recapitulation: First characterization of sophistry. Delimitation against dialectic and philosophy. The esteem of εὖ λέγειν: un-matter-directedness — matter-directedness](https://faultynode.github.io/commentaries/commentaries/heidegger/heidegger-ga-19-platon-sophistes-commentary.html#recapitulation-first-characterization-of-sophistry-delimitation-against-dialectic-and-philosophy-the-esteem-of---un-matter-directedness--matter-directedness)
+
+- **absent** · `heidegger-ga-19-platon-sophistes-commentary#h5-b-delimitation-of-dialectic-and-sophistry-against-first-philosophy-the-commonali`
+  Expected because: Philosophy, dialectic and sophistry are delimited here by their comportment toward a common object, the whole - gnoristike, peirastike and phainomene sophia. The differentiation of comportments by what they are directed at is the work intentionality does in the Husserl records on this ledger, and it is done here without the term.
+  [b) Delimitation of dialectic and sophistry against First Philosophy. The commonality of object: the "whole." The difference: philosophy = γνωριστική; dialectic = πειραστική; sophistry = φαινομένη σοφία (εὖ λέγειν)](https://faultynode.github.io/commentaries/commentaries/heidegger/heidegger-ga-19-platon-sophistes-commentary.html#b-delimitation-of-dialectic-and-sophistry-against-first-philosophy-the-commonality-of-object-the-whole-the-difference-philosophy---dialectic---sophistry)
+
+- **absent** · `heidegger-ga-19-platon-sophistes-commentary#h5-c-the-orthotes-of-eyboylia-the-thoroughgoing-directedness-toward-the-agathon`
+  Expected because: The section's own title names a thoroughgoing directedness toward the agathon, and the correctness of deliberation is analysed as an aiming that reaches its end. Intention and fulfilment is the Husserlian apparatus for exactly this, and it is not invoked.
+  [c) The ὀρθότης of εὐβουλία. The thoroughgoing directedness toward the ἀγαθόν](https://faultynode.github.io/commentaries/commentaries/heidegger/heidegger-ga-19-platon-sophistes-commentary.html#c-the--of--the-thoroughgoing-directedness-toward-the)
+
+*Partial pass: No units: the theme's technical terms do not occur in this commentary at all. Four absences are recorded at the sections where the theme was expected and where the term-density ranking pointed - the five modes of aletheuein, the recapitulation on matter-directedness and sophistry, the delimitation of dialectic and sophistry against First Philosophy, and the orthotes of euboulia. Not covered in the sense of a reading pass: the commentary was read only for this theme's terms and for the four sections named, so nothing here is a claim about the course's doctrine beyond the recorded absences. A structural pass - looking for the work intentionality does rather than for the word - is a separate task, as gap-004 says for sorge.*
 
 ### 1925 - Commentary on Heidegger, Prolegomena zur Geschichte des Zeitbegriffs (GA 20)
 
@@ -3343,13 +3446,10 @@
 *Where the theme's terms occur but no extraction pass has run. Silence in the sections above is silence about these files, not evidence of absence in them.*
 
 - `Reduction et donation Commentary` - 43 term hits, no record
-- `heidegger-ga-19-platon-sophistes-commentary` - 16 term hits, no record
 - `husserliana-23-phantasie-bildbewusstsein-erinnerung-commentary` - 15 term hits, no record
 - `derrida-la-voix-et-le-phenomene-commentary` - 14 term hits, no record
 - `husserliana-13-basic-problems-of-phenomenology-commentary` - 14 term hits, no record
-- `heidegger-ga-17-einfuhrung-in-die-phanomenologische-forschung-commentary` - 10 term hits, no record
 - `lacan-seminar-1-freuds-papers-on-technique-commentary` - 10 term hits, no record
-- `heidegger-ga-61-phenomenological-interpretations-of-aristotle-commentary` - 8 term hits, no record
 - `husserliana-26-theory-of-meaning-commentary` - 7 term hits, no record
 - `lacan-seminar-11-the-four-fundamental-concepts-of-psychoanalysis-commentary` - 5 term hits, no record
 - `franck-heidegger-and-the-problem-of-space-commentary` - 2 term hits, no record

@@ -22,17 +22,17 @@ Next candidates, by term density:
 
 ### intentionalitaet - intentionality
 
-30 commentaries extracted · 614 units · 12 absences · 30 partial
+33 commentaries extracted · 627 units · 16 absences · 33 partial
 
 Next candidates, by term density:
 
 - [ ] `Reduction et donation Commentary` (undated) - 43 hits
-- [ ] `heidegger-ga-19-platon-sophistes-commentary` (1924) - 16 hits
 - [ ] `husserliana-23-phantasie-bildbewusstsein-erinnerung-commentary` (1904) - 15 hits
 - [ ] `derrida-la-voix-et-le-phenomene-commentary` (1967) - 14 hits
 - [ ] `husserliana-13-basic-problems-of-phenomenology-commentary` (1910) - 14 hits
-- [ ] `heidegger-ga-17-einfuhrung-in-die-phanomenologische-forschung-commentary` (1923) - 10 hits
-- ... 11 more; see `synthesis_query.py --theme intentionalitaet`
+- [ ] `lacan-seminar-1-freuds-papers-on-technique-commentary` (1953) - 10 hits
+- [ ] `husserliana-26-theory-of-meaning-commentary` (1908) - 7 hits
+- ... 8 more; see `synthesis_query.py --theme intentionalitaet`
 
 ### konstitution - constitution
 
@@ -210,7 +210,7 @@ Flagged by a synthesis pass as unsupported by the ledgers. This is the reading q
 - [ ] **gap-003** (open, sorge) GA 20 § 31 gives care a two-moment formal structure - being-ahead-of-itself in already-being-alongside. Whether the structure gains, loses or reorders a moment two years later cannot be checked from this ledger.
       *Needs:* An extraction pass for sorge over heidegger-sein-und-zeit-commentary (the densest file in the corpus for these terms, no record) and heidegger-being-and-time-commentary.
 - [ ] **gap-004** (reading, sorge) GA 19's commentary contains one occurrence of Sorge, in its own glossary, and three checked absences at the phronesis and eudaimonia sections - where the argument runs in the vocabulary of aletheuein and praxis. Whether that near-absence belongs to the course or to the commentary's rendering cannot be told from the ledger: the extraction checked German terms, and an English-language commentary may render a German term of art into ordinary English without flagging it.
-      *Needs:* A second extraction pass over GA 19 keyed to the structure rather than the word - places where a being is said to be one for which its own being is at issue - so that a structural presence can be distinguished from a terminological absence. Partly answered from the side of GA 18: the SS 1924 pass records the same near-absence at that course's phronesis material (the hexis of aletheuein, GA 18 § 22), where the argument again runs in aletheuein and hexis, while the structural claim - Dasein as concern is care about itself - is made openly at § 17. So the absence is not an artifact peculiar to GA 19's commentary. The structural pass over GA 19 is still wanted.
+      *Needs:* A second extraction pass over GA 19 keyed to the structure rather than the word - places where a being is said to be one for which its own being is at issue - so that a structural presence can be distinguished from a terminological absence. Partly answered from the side of GA 18: the SS 1924 pass records the same near-absence at that course's phronesis material (the hexis of aletheuein, GA 18 § 22), where the argument again runs in aletheuein and hexis, while the structural claim - Dasein as concern is care about itself - is made openly at § 17. So the absence is not an artifact peculiar to GA 19's commentary. The structural pass over GA 19 is still wanted. Corroborated from a second theme, 2026-09-15: an intentionalitaet pass over the same commentary found that 'Intentionalitaet', 'intentionality', 'intentional', 'noesis' and 'noema' do not occur in it at all, and that every one of the 15 hits putting it on that theme's candidate list is the word 'directedness', which here renders Sachlichkeit / Unsachlichkeit and the Greek being-directed-toward. That record carries no units and four checked absences, among them the five modes of aletheuein, where the soul's disclosive comportment toward beings is set out entirely in aletheuein, techne, episteme, phronesis, sophia and nous. So the same shape now holds for two themes in this commentary - a term-density ranking driven by a shared English rendering, with the argument running in the Greek vocabulary - which strengthens the case that the structural pass wanted here should be run once for the commentary rather than separately per theme.
 - [ ] **gap-005** (open, sorge) sorge/ga20/005 is recorded as 'revised': concern is subordinated to care, having carried the earlier analysis of everyday commerce with the world. The ledger holds no unit for that earlier use, because the GA 20 pass covered Chapter Four only. A revision with no baseline in the ledger is an unsupported claim about a development.
       *Needs:* Extraction of GA 20 §§ 19-26, where the earlier use of Besorgen would be recorded. Until then the 'revised' status rests on the commentary's own retrospective phrasing rather than on two dated units.
 - [ ] **gap-006** (open, sorge) The GA 20 § 35 absence - conscience and being-guilty treated without the vocabulary of care, next to a death analysis in § 34 that uses it - is either a fact about the course or an artifact of a commentary section that runs to 358 words. The extraction record flags the ambiguity and cannot resolve it.
