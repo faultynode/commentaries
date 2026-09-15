@@ -47,6 +47,13 @@ jobs:
       - name: Check the term lexicon
         run: python3 scripts/synthesis_lexicon.py --check
 
+      # Stage 4 outputs are prose written from the ledgers, and nothing
+      # above re-checks that prose against the records it claims to be
+      # written from. Same grain as the extraction/inheritance validation:
+      # resolve every locator, look up every quote.
+      - name: Check Stage 4 outputs against the ledgers
+        run: python3 scripts/synthesis_check_outputs.py
+
   rebuild:
     if: github.event_name != 'pull_request'
     needs: validate
