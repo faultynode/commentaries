@@ -3,14 +3,15 @@
   "theme": "intentionalitaet",
   "commentary": "heidegger-ga-24-die-grundprobleme-der-phanomenologie-commentary",
   "source_sha256": "003514567d0b73dd235330743a361742f936d47ce3162363bd51c132df0c98a8",
-  "extracted_at": "2026-09-09",
+  "extracted_at": "2026-09-15",
   "extractor": {
     "agent": "claude-code",
     "prompt": "Extract key instances of intentionality/intentional from Heidegger GA 24 Die Grundprobleme der Phänomenologie",
-    "note": "Partial extraction focused on section §8c on the being-constitution of perception and intentionality. Documents Heidegger's engagement with Husserl's phenomenological doctrine of intentionality and its role in correcting misinterpretations."
+    "note": "Partial extraction focused on section §8c on the being-constitution of perception and intentionality. Documents Heidegger's engagement with Husserl's phenomenological doctrine of intentionality and its role in correcting misinterpretations.",
+    "model": "claude-opus-5"
   },
   "coverage": "partial",
-  "coverage_note": "Covers section b of the commentary: phenomenology's designation of intentionality, historical roles of Brentano and especially Husserl's philosophical clarification in the Logical Investigations and Ideas, and intentionality as essential to comportment. Not covered: detailed analysis of intentio/intentum distinction, misinterpretations, transcendence relation, or treatment in other sections.",
+  "coverage_note": "Covers § 9(b), The Being-Constitution of Perception. Intentionality and Transcendence, in full: phenomenology's designation of the structure of comportments as intentionality after a Scholastic term, the historical roles of Brentano and of Husserl's clarification in the Logical Investigations and the Ideas, intentionality as essential to comportment; the intentio/intentum distinction; the first misinterpretation, which takes the intentional relation for an on-hand relation between two on-hand things, with the hallucination argument and the two senses of 'relation of perception' against it; the second misinterpretation, the false subjectivization arising at the intentum, with the appeal to natural perception and the tree-for-a-person illusion against it; the thesis that intentionality is that in which transcendence consists, the ratio cognoscendi / ratio essendi formula, the determination of the subject from intentionality rather than the reverse, the replacement of 'subject' by Dasein, intentionality as neither objective nor subjective, the denial of an inside and an outside for Dasein, and the grounding of the misinterpretations in Dasein's tendency to understand all beings as on-hand. Also covers § 9(c), Intentionality and Understanding of Being, for its intentionality-bearing core: perceivedness as falling into the intentum and as neither subjective nor objective, transcending as discovering, the understanding of the mode of being of the intended as a third moment beside intentio and intentum, the Entdecktheit/Erschlossenheit distinction, and the tie between intentionality and the ontological difference. Not covered: § 9(c)'s Kant-exegetical and innate-ideas material and the closing recapitulation of the four theses, and the rest of the lecture course, where the theme was keyword-scanned only (§ 5 carries the only other hits).",
   "units": [
     {
       "id": "intentionalitaet/hga24/001",
@@ -35,6 +36,222 @@
       "status": "presupposed",
       "claim": "Intentionality belongs essentially to comportments such that talking of 'intentional comportment' is redundant, like saying 'a spatial triangle.'",
       "quote": "It belongs to the *essence* of comportments, so that the talk of \"intentional comportment\" is already a pleonasm and amounts to my saying \"a spatial triangle.\""
+    },
+    {
+      "id": "intentionalitaet/hga24/004",
+      "locator": "heidegger-ga-24-die-grundprobleme-der-phanomenologie-commentary#h3-b-the-being-constitution-of-perception-intentionality-and-transcendence",
+      "primary_locator": "GA 24 § 9(b)",
+      "term": "intentio / intentum",
+      "status": "introduced",
+      "claim": "The comporting-toward of every comportment is designated in the narrower sense as the intendere or intentio, and every being-directed-toward has its specific Wozu of comportment and Worauf of being-directed.",
+      "quote": "This comporting-toward we designate in the narrower sense as the *intendere* or the *intentio*. Every comporting-toward and every being-directed-toward has its specific *Wozu* of the comportment and *Worauf* of the being-directed."
+    },
+    {
+      "id": "intentionalitaet/hga24/005",
+      "locator": "heidegger-ga-24-die-grundprobleme-der-phanomenologie-commentary#h3-b-the-being-constitution-of-perception-intentionality-and-transcendence",
+      "primary_locator": "GA 24 § 9(b)",
+      "term": "intentionality (unity of intentio and intentum)",
+      "status": "introduced",
+      "claim": "Intentionality embraces the intentio and the intentum in their unity, and the difference of the one or the other constitutes the difference of the modes of comportment.",
+      "quote": "Intentionality embraces both moments — the *intentio* and the *intentum* — in their unity, which is still dark. Both moments are different in every comportment; the difference of the *intentio* or of the *intentum* constitutes precisely the difference of the modes of comportment."
+    },
+    {
+      "id": "intentionalitaet/hga24/006",
+      "locator": "heidegger-ga-24-die-grundprobleme-der-phanomenologie-commentary#h3-b-the-being-constitution-of-perception-intentionality-and-transcendence",
+      "primary_locator": "GA 24 § 9(b)",
+      "term": "intentional relation as on-hand relation (first misinterpretation)",
+      "status": "criticized",
+      "claim": "The first misinterpretation takes the intentional relation to be an on-hand relation between two on-hand things, a psychic subject and a physical object, lasting only so long as both relata are on hand.",
+      "quote": "The relation of perception is an *on-hand relation between two on-hand things*."
+    },
+    {
+      "id": "intentionalitaet/hga24/007",
+      "locator": "heidegger-ga-24-die-grundprobleme-der-phanomenologie-commentary#h3-b-the-being-constitution-of-perception-intentionality-and-transcendence",
+      "primary_locator": "GA 24 § 9(b)",
+      "term": "the subject as intentionally structured in itself",
+      "status": "introduced",
+      "claim": "Against the first misinterpretation, the intentional relation does not fall to the subject through the on-handness of an object; the subject is intentionally structured in itself.",
+      "quote": "The intentional relation to the object does not first fall to the subject with and through the on-handness of the object; rather, *the subject is intentionally structured in itself*."
+    },
+    {
+      "id": "intentionalitaet/hga24/008",
+      "locator": "heidegger-ga-24-die-grundprobleme-der-phanomenologie-commentary#h3-b-the-being-constitution-of-perception-intentionality-and-transcendence",
+      "primary_locator": "GA 24 § 9(b)",
+      "term": "hallucination",
+      "status": "introduced",
+      "claim": "The hallucinator can putatively mean something only because hallucinating perceiving has in itself the character of being-directed-toward, so directedness does not arise from the actual on-handness of objects.",
+      "quote": "*Only because hallucinating perceiving as perception has in itself the character of being-directed-toward can the hallucinator putatively mean something.*"
+    },
+    {
+      "id": "intentionalitaet/hga24/009",
+      "locator": "heidegger-ga-24-die-grundprobleme-der-phanomenologie-commentary#h3-b-the-being-constitution-of-perception-intentionality-and-transcendence",
+      "primary_locator": "GA 24 § 9(b)",
+      "term": "relation of perception (two-sensed)",
+      "status": "criticized",
+      "claim": "Talk of the relation of perceiving to an object is two-sensed, and the expression does not name a relation perception first enters but a relation that perceiving as such itself is.",
+      "quote": "The expression \"relation of perception\" does not mean a relation into which perception, as the one relatum-point, *first enters* — a relation that falls to the in-itself relation-free perception; rather it means a relation *that perceiving as such itself is*."
+    },
+    {
+      "id": "intentionalitaet/hga24/010",
+      "locator": "heidegger-ga-24-die-grundprobleme-der-phanomenologie-commentary#h3-b-the-being-constitution-of-perception-intentionality-and-transcendence",
+      "primary_locator": "GA 24 § 9(b)",
+      "term": "false subjectivization (second misinterpretation)",
+      "status": "criticized",
+      "claim": "The source of the second misinterpretation lies not in the character of the intentio but in that of the intentum, and consists in a false subjectivization of intentionality.",
+      "quote": "Not, as in the first, in the character of the *intentio*, but in the character of the *intentum* — of that toward which the comportment (in our case perception) is directed."
+    },
+    {
+      "id": "intentionalitaet/hga24/011",
+      "locator": "heidegger-ga-24-die-grundprobleme-der-phanomenologie-commentary#h3-b-the-being-constitution-of-perception-intentionality-and-transcendence",
+      "primary_locator": "GA 24 § 9(b)",
+      "term": "the perceived itself (against sensations)",
+      "status": "introduced",
+      "claim": "Perception is directed according to its own directional sense at the on-hand being itself and knows nothing of sensations it apprehends; that it is first directed at sensations is pure theory.",
+      "quote": "It is pure theory to say I am initially directed at sensations. Perception is directed *according to its own directional sense at the on-hand being itself*."
+    },
+    {
+      "id": "intentionalitaet/hga24/012",
+      "locator": "heidegger-ga-24-die-grundprobleme-der-phanomenologie-commentary#h3-b-the-being-constitution-of-perception-intentionality-and-transcendence",
+      "primary_locator": "GA 24 § 9(b)",
+      "term": "perceptual illusion",
+      "status": "introduced",
+      "claim": "In taking a tree for a person the person himself is given, not a representation of the person, so deception does not show perception to be directed at representations.",
+      "quote": "In this perceptual illusion the person *himself* is given to me, and not, say, a representation of the person."
+    },
+    {
+      "id": "intentionalitaet/hga24/013",
+      "locator": "heidegger-ga-24-die-grundprobleme-der-phanomenologie-commentary#h3-b-the-being-constitution-of-perception-intentionality-and-transcendence",
+      "primary_locator": "GA 24 § 9(b)",
+      "term": "transcendence",
+      "status": "introduced",
+      "claim": "The question how the immanent intentional lived-experience acquires transcendent validity may not be asked, because it is precisely intentionality and nothing else in which transcendence consists.",
+      "quote": "I do not first need to ask how the immanent intentional lived-experience acquires *transcendent validity*, but rather *it is precisely intentionality and nothing else in which transcendence consists*."
+    },
+    {
+      "id": "intentionalitaet/hga24/014",
+      "locator": "heidegger-ga-24-die-grundprobleme-der-phanomenologie-commentary#h3-b-the-being-constitution-of-perception-intentionality-and-transcendence",
+      "primary_locator": "GA 24 § 9(b)",
+      "term": "subject determined from intentionality",
+      "status": "revised",
+      "claim": "Intentionality may not be interpreted from an arbitrary concept of subject; conversely the subject is first to be determined in its essence from the unprejudicedly seen character of intentionality and its transcendence.",
+      "quote": "rather, conversely, *on the basis of the unprejudicedly seen character of intentionality and its transcendence, the subject is first to be determined in its essence*"
+    },
+    {
+      "id": "intentionalitaet/hga24/015",
+      "locator": "heidegger-ga-24-die-grundprobleme-der-phanomenologie-commentary#h3-b-the-being-constitution-of-perception-intentionality-and-transcendence",
+      "primary_locator": "GA 24 § 9(b)",
+      "term": "Dasein (in place of subject)",
+      "status": "revised",
+      "claim": "Because the separation of an immanent subject from a transcendent object is constructive, the course stops speaking of a subject and understands the being to which intentional comportments belong as Dasein.",
+      "quote": "*we henceforth no longer speak of a subject, of a subjective sphere*, but understand the being to which intentional comportments belong as *Dasein*"
+    },
+    {
+      "id": "intentionalitaet/hga24/016",
+      "locator": "heidegger-ga-24-die-grundprobleme-der-phanomenologie-commentary#h3-b-the-being-constitution-of-perception-intentionality-and-transcendence",
+      "primary_locator": "GA 24 § 9(b)",
+      "term": "ratio cognoscendi / ratio essendi",
+      "status": "introduced",
+      "claim": "Intentionality is the ratio cognoscendi of transcendence and transcendence the ratio essendi of intentionality in its various modes.",
+      "quote": "Intentionality is the *ratio cognoscendi* of transcendence; transcendence is the *ratio essendi* of intentionality in its various modes."
+    },
+    {
+      "id": "intentionalitaet/hga24/017",
+      "locator": "heidegger-ga-24-die-grundprobleme-der-phanomenologie-commentary#h3-b-the-being-constitution-of-perception-intentionality-and-transcendence",
+      "primary_locator": "GA 24 § 9(b)",
+      "term": "intentional constitution as condition of transcendence",
+      "status": "introduced",
+      "claim": "The intentional constitution of Dasein's comportments is not something immanent needing transcendence but the ontological condition of the possibility of any transcendence at all.",
+      "quote": "the intentional constitution of Dasein's comportments is precisely *the ontological condition of the possibility of any transcendence at all*"
+    },
+    {
+      "id": "intentionalitaet/hga24/018",
+      "locator": "heidegger-ga-24-die-grundprobleme-der-phanomenologie-commentary#h3-b-the-being-constitution-of-perception-intentionality-and-transcendence",
+      "primary_locator": "GA 24 § 9(b)",
+      "term": "neither objective nor subjective",
+      "status": "introduced",
+      "claim": "Intentionality is neither objective nor subjective in the customary sense but both at once in a more originary sense, insofar as it makes possible that Dasein comports itself existing toward the on hand.",
+      "quote": "Intentionality is neither objective nor subjective in the customary sense, but *both at once in a much more originary sense*"
+    },
+    {
+      "id": "intentionalitaet/hga24/019",
+      "locator": "heidegger-ga-24-die-grundprobleme-der-phanomenologie-commentary#h3-b-the-being-constitution-of-perception-intentionality-and-transcendence",
+      "primary_locator": "GA 24 § 9(b)",
+      "term": "intentionality as structure of the subject",
+      "status": "introduced",
+      "claim": "Nothing about intentionality can be decided from a concept of subject, because intentionality is the essential though not the most originary structure of the subject itself.",
+      "quote": "because *intentionality is the essential, even if not the most originary, structure of the subject itself*"
+    },
+    {
+      "id": "intentionalitaet/hga24/020",
+      "locator": "heidegger-ga-24-die-grundprobleme-der-phanomenologie-commentary#h3-b-the-being-constitution-of-perception-intentionality-and-transcendence",
+      "primary_locator": "GA 24 § 9(b)",
+      "term": "no inside / no outside",
+      "status": "introduced",
+      "claim": "The cognitive faculty is not a terminal point of a relation between an outside thing and an inside subject; the self-relating intentional Dasein already holds itself alongside the things, and for Dasein there is no outside.",
+      "quote": "*For Dasein there is no \"outside\"*, wherefore it is also absurd to speak of an \"inside.\""
+    },
+    {
+      "id": "intentionalitaet/hga24/021",
+      "locator": "heidegger-ga-24-die-grundprobleme-der-phanomenologie-commentary#h3-b-the-being-constitution-of-perception-intentionality-and-transcendence",
+      "primary_locator": "GA 24 § 9(b)",
+      "term": "source of the misinterpretations",
+      "status": "introduced",
+      "claim": "The misinterpretations are not accidental but grounded in Dasein's tendency to apprehend all beings in the sense of on-handness, so that intentionality is taken as subjective once it is not found among on-hand things.",
+      "quote": "Insofar as in this conception of all the given as on-hand, intentionality as a relation *within* on-hand things is not to be found, one must apparently assign it to the subject; if it is nothing objective, then it is something subjective."
+    },
+    {
+      "id": "intentionalitaet/hga24/022",
+      "locator": "heidegger-ga-24-die-grundprobleme-der-phanomenologie-commentary#h3-c-intentionality-and-understanding-of-being-discoveredness-perceivedness-of-bein",
+      "primary_locator": "GA 24 § 9(c)",
+      "term": "perceivedness (Wahrgenommenheit)",
+      "status": "introduced",
+      "claim": "The perceivedness belonging to a perceived falls into the intentum, that at which perception directs itself.",
+      "quote": "the perceivedness belonging to a perceived evidently falls into the *intentum*, into that at which perception directs itself"
+    },
+    {
+      "id": "intentionalitaet/hga24/023",
+      "locator": "heidegger-ga-24-die-grundprobleme-der-phanomenologie-commentary#h3-c-intentionality-and-understanding-of-being-discoveredness-perceivedness-of-bein",
+      "primary_locator": "GA 24 § 9(c)",
+      "term": "perceivedness as neither subjective nor objective",
+      "status": "introduced",
+      "claim": "Perceivedness belongs to the intentional comportment of Dasein and is neither subjective nor objective, belonging in a sense to the perceived and yet nothing objective.",
+      "quote": "Perceivedness belongs perhaps to the *intentional comportment of Dasein* — that is, it is *neither subjective nor objective*."
+    },
+    {
+      "id": "intentionalitaet/hga24/024",
+      "locator": "heidegger-ga-24-die-grundprobleme-der-phanomenologie-commentary#h3-c-intentionality-and-understanding-of-being-discoveredness-perceivedness-of-bein",
+      "primary_locator": "GA 24 § 9(c)",
+      "term": "transcending as discovering",
+      "status": "introduced",
+      "claim": "Perceiving is a releasing letting-be-encountered of the on-hand, transcending is a discovering, and Dasein exists as discovering.",
+      "quote": "Transcending is a *discovering* (Entdecken). *Dasein exists as discovering.*"
+    },
+    {
+      "id": "intentionalitaet/hga24/025",
+      "locator": "heidegger-ga-24-die-grundprobleme-der-phanomenologie-commentary#h3-c-intentionality-and-understanding-of-being-discoveredness-perceivedness-of-bein",
+      "primary_locator": "GA 24 § 9(c)",
+      "term": "understanding of being as third moment",
+      "status": "revised",
+      "claim": "To the intentionality of perception belong not only intentio and intentum but furthermore the understanding of the mode of being of what is intended in the intentum.",
+      "quote": "To the intentionality of perception belong not only *intentio* and *intentum* but, furthermore, the *understanding of the mode of being of what is intended in the intentum*."
+    },
+    {
+      "id": "intentionalitaet/hga24/026",
+      "locator": "heidegger-ga-24-die-grundprobleme-der-phanomenologie-commentary#h3-c-intentionality-and-understanding-of-being-discoveredness-perceivedness-of-bein",
+      "primary_locator": "GA 24 § 9(c)",
+      "term": "Entdecktheit / Erschlossenheit",
+      "status": "introduced",
+      "claim": "Beings can be discovered only if the being of beings is already disclosed, so discoveredness of beings and disclosedness of their being are distinguished for substantive and not merely terminological reasons.",
+      "quote": "*Beings can only be discovered* — be it on the path of perception or some other mode of access — *if the being of beings is already disclosed*, if I *understand* it."
+    },
+    {
+      "id": "intentionalitaet/hga24/027",
+      "locator": "heidegger-ga-24-die-grundprobleme-der-phanomenologie-commentary#h3-c-intentionality-and-understanding-of-being-discoveredness-perceivedness-of-bein",
+      "primary_locator": "GA 24 § 9(c)",
+      "term": "intentionality and the ontological difference",
+      "status": "introduced",
+      "claim": "The possibility of bringing out the ontological difference hangs together with the necessity of investigating intentionality as the mode of access to beings.",
+      "quote": "the possibility of bringing out the ontological difference evidently *hangs together with the necessity of investigating intentionality*"
     }
   ],
   "absences": []
