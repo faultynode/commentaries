@@ -16,6 +16,9 @@ their sources in CI.
   `synthesis/`
 - [synthesis/prompts/](synthesis/prompts) — the extraction (Stage 1),
   inheritance (Stage 3) and synthesis (Stage 4) prompts
+- [prompts/](prompts) — the commentary and article generation prompts
+  (moved from [faultynode/prompts](https://github.com/faultynode/prompts),
+  which still holds the cross-repo `filename-prompt.md`)
 
 ## External services
 

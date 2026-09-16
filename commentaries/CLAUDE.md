@@ -22,9 +22,8 @@ responses discussing these files, and for commit messages.
 **Ordering differs by context, and the difference is deliberate:**
 
 - **In commentary body text, English leads.**
-  [commentary-prompt](https://github.com/faultynode/prompts/blob/main/content-generation/commentary-prompt.md)
-  (in the separate [faultynode/prompts](https://github.com/faultynode/prompts)
-  repo) §"Original-language terms and quotations" governs and is stricter than a bare
+  [commentary-prompt](../prompts/commentary-prompt.md)
+  §"Original-language terms and quotations" governs and is stricter than a bare
   translate-everything rule: cite the source word *in parentheses after*
   its English equivalent, never as the inline subject; retain the
   original only for a short fixed glossary of genuinely untranslatable

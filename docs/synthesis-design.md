@@ -9,7 +9,7 @@ working in `synthesis/`, [synthesis/CLAUDE.md](../synthesis/CLAUDE.md).
 ## 1. The problem
 
 The commentaries are exhaustive and locally focused by construction: the
-[commentary prompt](https://github.com/faultynode/prompts/blob/main/content-generation/commentary-prompt.md) requires every native
+[commentary prompt](../prompts/commentary-prompt.md) requires every native
 unit of a text to get its own block at equal depth, in order. That
 produces the best possible material for reading *one* work and no
 apparatus at all for reading *across* works. Nothing in a commentary

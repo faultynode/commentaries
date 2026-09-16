@@ -71,7 +71,7 @@ Roughly increasing in ambition. Pick one; do not blend them.
 5. **Genealogical map** — one inherited concept through the inheritance
    records, mode by mode.
 6. **Article draft** — hand off to
-   [article-prompt](https://github.com/faultynode/prompts/blob/main/content-generation/article-prompt.md), which
+   [article-prompt](../../prompts/article-prompt.md), which
    takes the ledgers as its notes. Its Research Register and this
    prompt's gap rule are the same instrument; keep one list, in
    `gaps.json`.
@@ -96,7 +96,7 @@ cites by and why, which is what the locator scheme now does mechanically.
 Continuous prose except where the output type is a table. No "in this
 essay I will", no closing recapitulation, no bullet lists inside the
 argument. House style follows
-[commentary-prompt](https://github.com/faultynode/prompts/blob/main/content-generation/commentary-prompt.md)
+[commentary-prompt](../../prompts/commentary-prompt.md)
 §"House style": state the insight, one pass per point, finite verbs
 over nominalizations.
 
