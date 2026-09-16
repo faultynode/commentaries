@@ -5,7 +5,7 @@
   "extracted_at": "2026-09-09",
   "extractor": {
     "agent": "claude-code",
-    "prompt": "prompts/inheritance-prompt.md",
+    "prompt": "synthesis/prompts/inheritance-prompt.md",
     "note": "source_sha256 is the LF digest (CRLF checkout; local validate reports a false staleness, CI on LF passes). Henry's Philosophie et phenomenologie du corps is a study of Maine de Biran's ontology of the subjective body; predecessor engagement runs through the Introduction (Biran, Descartes, Husserl, Kierkegaard), Chapter I §2 (Kant and Hume on the deduction of the categories), and Chapter V (the critique of Cartesian dualism). One record per commentary covering all predecessors."
   },
   "coverage": "partial",

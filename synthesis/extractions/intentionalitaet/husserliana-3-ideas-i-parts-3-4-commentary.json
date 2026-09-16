@@ -6,7 +6,7 @@
   "extracted_at": "2026-09-08",
   "extractor": {
     "agent": "claude-code",
-    "prompt": "prompts/extraction-prompt.md",
+    "prompt": "synthesis/prompts/extraction-prompt.md",
     "note": "source_sha256 is the LF digest as recorded in corpus.json (this pass was done on a CRLF checkout; local validate reports a false staleness, CI on LF passes). Closely read the intentionality spine: the Second Chapter (SS 84-86), the Third Chapter in full (SS 87-96), the Fourth Chapter SS 97-99, and Part Four's First Chapter SS 128-131 plus SS 134-136. Read SS 76, 77 (opening only) and SS 81-83 for the absence check. Not read: the methodological First Chapter (SS 63-75), SS 78-80, SS 100-127 (level-formations, doxic modalities, neutrality-modification, syntheses, Logos/Bedeutung), SS 132-133, and SS 137-153 (the phenomenology of reason after S 136, and the reason-theoretical problematic and constitution chapters)."
   },
   "coverage": "partial",

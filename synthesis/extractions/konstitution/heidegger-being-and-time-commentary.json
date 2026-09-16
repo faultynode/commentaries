@@ -6,7 +6,7 @@
   "extracted_at": "2026-09-14",
   "extractor": {
     "agent": "claude-code",
-    "prompt": "synthesis-pipeline/extraction-prompt.md"
+    "prompt": "synthesis/prompts/extraction-prompt.md"
   },
   "coverage": "partial",
   "coverage_note": "SS 4, 12, 18, 21 and 28. As in the other Sein und Zeit commentary in this corpus, 'constitution' here renders Seinsverfassung - Dasein's constitution of Being - and not Husserlian Konstitution; the German Verfassung occurs nowhere in the file, so nothing in the text marks the difference, and no place in the extracted sections uses the term in the Husserlian sense. SS 1-3, 5-11, 13-17, 19-20, 22-27 and 29 onward have not been extracted.",

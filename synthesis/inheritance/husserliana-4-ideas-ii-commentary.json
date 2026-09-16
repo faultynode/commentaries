@@ -5,7 +5,7 @@
   "extracted_at": "2026-09-09",
   "extractor": {
     "agent": "claude-code",
-    "prompt": "prompts/inheritance-prompt.md",
+    "prompt": "synthesis/prompts/inheritance-prompt.md",
     "note": "source_sha256 is the LF digest (CRLF checkout; local validate reports a false staleness, CI on LF passes). Ideas II is a constitutive-analysis text and names predecessors sparingly: Descartes on extensio (§12), Kant and Leibniz on the pure ego / monad (§26), Dilthey on the human sciences (§48). The pervasive Cartesian idiom ('sum cogitans', 'cogito', §22) and Leibnizian 'monad' talk (§§28-29, 33) is Husserl's own and not marked as engagement. One record per commentary covering all predecessors."
   },
   "coverage": "partial",

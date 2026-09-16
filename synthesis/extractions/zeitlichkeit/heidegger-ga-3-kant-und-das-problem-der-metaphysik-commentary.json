@@ -6,7 +6,7 @@
   "extracted_at": "2026-09-14",
   "extractor": {
     "agent": "claude-code",
-    "prompt": "prompts/synthesis-pipeline/extraction-prompt.md",
+    "prompt": "synthesis/prompts/extraction-prompt.md",
     "note": "The corpus holds a second, un-normalized copy of this commentary under the filename 'Heidegger GA 3 - Kant und das Problem der Metaphysik Commentary.md', with the same term counts. Only this slug can carry a record; the duplicate is a filename problem, not an extraction target."
   },
   "coverage": "partial",

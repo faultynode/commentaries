@@ -5,7 +5,7 @@
   "extracted_at": "2026-09-09",
   "extractor": {
     "agent": "claude-code",
-    "prompt": "prompts/inheritance-prompt.md",
+    "prompt": "synthesis/prompts/inheritance-prompt.md",
     "note": "source_sha256 is the LF digest (CRLF checkout; local validate reports a false staleness, CI on LF passes). Picht's lecture course on De anima is a reception text that runs the engagement in both directions: it reads Aristotle's inheritance from and polemic against his Greek predecessors (Plato, Parmenides, Anaxagoras) and it traces the modern reception of Aristotle's hypokeimenon/ousia through Wolff, Descartes, Kant, and Hegel. Engagements are keyed on the predecessor whose thought is at stake in each passage. One record per commentary covering all predecessors."
   },
   "coverage": "partial",

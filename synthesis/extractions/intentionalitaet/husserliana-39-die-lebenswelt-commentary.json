@@ -6,7 +6,7 @@
   "extracted_at": "2026-09-09",
   "extractor": {
     "agent": "claude-code",
-    "prompt": "prompts/extraction-prompt.md",
+    "prompt": "synthesis/prompts/extraction-prompt.md",
     "note": "source_sha256 is the LF digest (CRLF checkout; local validate reports a false staleness, CI on LF passes). Hua XXXIX collects late Husserl manuscripts of several dates; the commentary marks the date of each text/supplement in brackets. Closely read Text Nr. 1 (primal institution of the sense of being, dated early 1920s), Text Nr. 2 (background and pre-givenness, the constitutive function of apperceptions, c. 1920), Supplement I (background, transitional unities and end-objects, c. 1920), Text Nr. 4 § 1 (the effective field and the ineffective horizon of the 'unconscious'), Text Nr. 10 § 4 (the empathy-horizon as validity-horizon), and Text Nr. 15 (horizon-meaning and original induction, dated May/June 1934). Not read in detail: the bulk of the volume (Texts Nr. 3, 5-9, 11-14, 16-65 and Supplements II-LVI on world-constitution, horizon-systematics, orientation and situativity, apodicticity of the world, the reality-structure of the life-world, praxis, the world as acquisition, temporal constitution, bodiliness, and the plurality of surrounding worlds). chronology.json entry is unresolved and undated at the ledger level (P5 pending); the per-text manuscript dates given above are recorded in this note rather than as per-unit strata, since chronology.json carries only a single hua39-undated stratum."
   },
   "coverage": "partial",

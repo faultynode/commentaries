@@ -4,7 +4,7 @@
   "source_sha256": "caeb8c837e2fc6f2afe18b07a39cebcd9f50a3476698bd72417fd9cebd8c9703",
   "extractor": {
     "agent": "claude-code",
-    "prompt": "prompts/inheritance-prompt.md",
+    "prompt": "synthesis/prompts/inheritance-prompt.md",
     "note": "source_sha256 is the LF digest (CRLF checkout; local validate reports a false staleness, CI on LF passes). Erste Philosophie I is Husserl's 'critical history of ideas', so almost the whole text is predecessor engagement; this record covers the principal figures of the lecture cycle — Socrates, Plato, Aristotle, Descartes, Locke, Berkeley, Leibniz, Hume, and the rationalist line to Kant. One record per commentary covering all predecessors."
   },
   "extracted_at": "2026-09-09",

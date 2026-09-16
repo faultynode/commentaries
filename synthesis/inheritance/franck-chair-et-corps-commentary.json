@@ -5,7 +5,7 @@
   "extracted_at": "2026-09-09",
   "extractor": {
     "agent": "claude-code",
-    "prompt": "prompts/synthesis-pipeline/inheritance-prompt.md",
+    "prompt": "synthesis/prompts/inheritance-prompt.md",
     "note": "Stage 3 inheritance pass tracing Husserl's phenomenology relative to its philosophical predecessors. Focus on Preface and Chapter One establishing genealogy of phenomenology through Descartes, Heidegger, and German Idealism."
   },
   "coverage": "partial",

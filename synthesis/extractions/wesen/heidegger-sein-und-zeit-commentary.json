@@ -6,7 +6,7 @@
   "extracted_at": "2026-09-14",
   "extractor": {
     "agent": "claude-code",
-    "prompt": "prompts/synthesis-pipeline/extraction-prompt.md",
+    "prompt": "synthesis/prompts/extraction-prompt.md",
     "note": "Whole file grep-counted for the theme's search terms plus 'essentia', 'Wesen', 'Wesensschau', 'eidos', 'eidetic' and 'free variation': 'Wesensschau' occurs once and 'eidetic' once, both at § 31; 'free variation' nowhere. Closely read § 9 (lines 303-328) and § 31 (909-946); §§ 26, 58, 80 and 44b were keyword-scanned."
   },
   "coverage": "partial",

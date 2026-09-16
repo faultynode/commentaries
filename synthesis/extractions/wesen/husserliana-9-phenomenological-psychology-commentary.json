@@ -6,7 +6,7 @@
   "extracted_at": "2026-09-14",
   "extractor": {
     "agent": "claude-code",
-    "prompt": "prompts/synthesis-pipeline/extraction-prompt.md",
+    "prompt": "synthesis/prompts/extraction-prompt.md",
     "note": "Whole file grep-scanned for the theme's search terms plus 'Wesensschau', 'ideation', 'immutable', 'innate', 'residuum' and 'free variation'. Closely read § 4 (lines 233-284) and § 10 (449-488); § 3e (179-210) was read for its eidetic-psychology transition only."
   },
   "coverage": "partial",

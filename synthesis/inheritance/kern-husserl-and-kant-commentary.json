@@ -5,7 +5,7 @@
   "extracted_at": "2026-09-09",
   "extractor": {
     "agent": "claude-code",
-    "prompt": "prompts/inheritance-prompt.md",
+    "prompt": "synthesis/prompts/inheritance-prompt.md",
     "note": "source_sha256 is the LF digest (CRLF checkout; local validate reports a false staleness, CI on LF passes). The monograph's whole subject is Husserl's engagement with predecessors, so the engagements recorded here are Husserl's, as Kern documents them. Closely read §§ 1-3 (the Brentano inheritance and the shift on Kant and Natorp), § 9 (the Kant-critique), §§ 13-15 (the borrowings of the analytic/synthetic distinction, the natura formaliter spectata, and the transcendental deduction), and §§ 29, 32, 37 (Natorp and Rickert). Not read for this pass: §§ 4-8, 10-12, 16-28, 30-31, 33-36 in detail. One record per commentary covering all predecessors."
   },
   "coverage": "partial",

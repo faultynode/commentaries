@@ -5,7 +5,7 @@
   "extracted_at": "2026-09-09",
   "extractor": {
     "agent": "claude-code",
-    "prompt": "prompts/synthesis-pipeline/inheritance-prompt.md",
+    "prompt": "synthesis/prompts/inheritance-prompt.md",
     "note": "Inheritance pass queried Thing and Space commentary for philosophical precedents influencing intentionality doctrine. Commentary focuses on developing and analyzing Husserl's intentionality theory rather than tracing its philosophical genealogy. Engagements identified with Kant (critical/anti-Kantian), Locke (adumbration example), and Brentano (physical phenomena concept), but these address other aspects of perception theory rather than intentionality's methodological precedents."
   },
   "coverage": "partial",

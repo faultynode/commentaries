@@ -6,7 +6,7 @@
   "extracted_at": "2026-09-08",
   "extractor": {
     "agent": "claude-code",
-    "prompt": "prompts/extraction-prompt.md",
+    "prompt": "synthesis/prompts/extraction-prompt.md",
     "note": "source_sha256 is the LF digest (CRLF checkout; local validate reports a false staleness, CI on LF passes). The commentary is ~280,000 words; this is a targeted pass on the two sections where intentionality is directly at stake: § 18 (the two senses of 'representation'; the horizon that cannot be thematized) and § 54 (the critique of 'intentional affectivity'). Not read: the Introduction, Sections I-II otherwise, and Sections III-V otherwise (ontological monism, immanence, the invisible, Eckhart, affectivity). In this book intentionality is the structure Henry names 'ontological monism' and rejects in favour of a non-intentional immanent auto-affection. No chronology.json entry yet (P5 pending; French original 1963)."
   },
   "coverage": "partial",

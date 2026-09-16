@@ -6,7 +6,7 @@
   "extracted_at": "2026-09-14",
   "extractor": {
     "agent": "claude-code",
-    "prompt": "synthesis-pipeline/extraction-prompt.md"
+    "prompt": "synthesis/prompts/extraction-prompt.md"
   },
   "coverage": "partial",
   "coverage_note": "SS 22, 23, 33, 41, 47 and 49 - the places where the concept is stated, sharpened, identified with phenomenology as a whole, and carried into the constitution of the objective world. No stratum: the commentary states no date for its own text. SS 1-21, 24-32, 34-40, 42-46, 48 and 50-64 have not been extracted; the sections of the First Meditation carry no term of the family and one is recorded as an absence.",

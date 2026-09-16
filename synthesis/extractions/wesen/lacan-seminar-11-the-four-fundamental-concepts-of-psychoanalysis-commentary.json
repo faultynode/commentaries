@@ -6,7 +6,7 @@
   "extracted_at": "2026-09-14",
   "extractor": {
     "agent": "claude-code",
-    "prompt": "prompts/synthesis-pipeline/extraction-prompt.md",
+    "prompt": "synthesis/prompts/extraction-prompt.md",
     "note": "Whole file grep-counted: 'essential' 83 times, 'essentially' 18, the noun 'essence' 25, 'eidos' 2; 'eidetic', 'Wesensschau', 'Husserl' and 'innate' occur nowhere. As with Seminar I, the density ranking is carried by the ordinary adverb. All 25 occurrences of the noun and both of 'eidos' were read in context; the five that are doing recognizable work are recorded."
   },
   "coverage": "partial",

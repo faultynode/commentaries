@@ -6,7 +6,7 @@
   "extracted_at": "2026-09-14",
   "extractor": {
     "agent": "claude-code",
-    "prompt": "synthesis-pipeline/extraction-prompt.md"
+    "prompt": "synthesis/prompts/extraction-prompt.md"
   },
   "coverage": "partial",
   "coverage_note": "S 6 of the earlier group, and SS 1 and 4 of the later, where the analogy 'feelings constitute values as sensations constitute being' is set up, corrected and grounded in inner time-consciousness. No unit carries a stratum: the commentary has no chronology.json entry and dates none of the studies. The remaining studies and appendices have not been extracted.",

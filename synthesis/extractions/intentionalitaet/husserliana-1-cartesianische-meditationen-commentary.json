@@ -6,7 +6,7 @@
   "extracted_at": "2026-09-09",
   "extractor": {
     "agent": "claude-code",
-    "prompt": "prompts/extraction-prompt.md",
+    "prompt": "synthesis/prompts/extraction-prompt.md",
     "note": "source_sha256 is the LF digest (CRLF checkout; local validate reports a false staleness, CI on LF passes). Closely read the Second Meditation §§ 14-22 (cogito/cogitatum, natural vs. transcendental reflection, the disinterested spectator, noesis/noema, synthesis as the primal form, identification and transcendental time, actuality/potentiality and horizon, the distinctive character of intentional analysis, the intentional object as transcendental clue), the Fourth Meditation §§ 30, 37-39 (the ego inseparable from intentional objectualities, motivation as the form of egological genesis, active and passive genesis, association), and the Fifth Meditation §§ 50-51 (the mediate intentionality of the experience of others as appresentation, pairing). Not read in detail: the Introduction and First Meditation (the Cartesian way, evidence, the epoche), Third Meditation §§ 23-29 (reason and actuality, verification), Fourth Meditation §§ 31-36, 40-41 (the ego as pole and monad, eidetic method, transcendental idealism), and Fifth Meditation §§ 42-49, 52-64. chronology.json entry exists but status 'unresolved' (P5 pending; the Paris lectures were given 1929 and the Strasser edition of the German text is 1950, neither dated in the commentary file)."
   },
   "coverage": "partial",

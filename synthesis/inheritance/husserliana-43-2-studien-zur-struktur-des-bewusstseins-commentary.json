@@ -5,7 +5,7 @@
   "extracted_at": "2026-09-09",
   "extractor": {
     "agent": "claude-code",
-    "prompt": "prompts/inheritance-prompt.md",
+    "prompt": "synthesis/prompts/inheritance-prompt.md",
     "note": "source_sha256 is the LF digest (CRLF checkout; local validate reports a false staleness, CI on LF passes). This is a manuscript volume on the fine structure of feeling-consciousness and is largely non-historical; the explicit predecessor engagement is with Brentano (preferring as a Gemuetsakt, §5), Kant (synthesis of the imagination vs. analytic unity, Part III §1), and the old (Aristotelian) faculty-division nous/orexis (§7). The whole Gemuetsakt / value-apperception framework is Brentanian in inspiration but not everywhere marked as such. One record per commentary covering all predecessors."
   },
   "coverage": "partial",

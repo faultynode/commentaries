@@ -6,7 +6,7 @@
   "extracted_at": "2026-09-14",
   "extractor": {
     "agent": "claude-code",
-    "prompt": "prompts/synthesis-pipeline/extraction-prompt.md",
+    "prompt": "synthesis/prompts/extraction-prompt.md",
     "note": "Whole file grep-counted for the theme's search terms plus 'eidetic', 'eidos', 'Wesensschau', 'free variation', 'immutable', 'innate', 'residuum' and 'Descartes'. 'eidetic' and 'eidos' occur once each, both in the Concluding Word; 'Wesensschau', 'free variation', 'immutable', 'innate' and 'residuum' occur nowhere; 'Descartes' occurs six times, all about the Meditations as a method of radical grounding. Closely read the Introduction (lines 11-78) and the Concluding Word (855-859)."
   },
   "coverage": "partial",

@@ -6,7 +6,7 @@
   "extracted_at": "2026-09-14",
   "extractor": {
     "agent": "claude-code",
-    "prompt": "prompts/synthesis-pipeline/extraction-prompt.md",
+    "prompt": "synthesis/prompts/extraction-prompt.md",
     "note": "Whole file grep-scanned for the theme's search terms plus 'Wesensschau', 'eidetic', 'immutable', 'innate', 'residuum' and 'Descartes'. Closely read § 21 (lines 367-388) and § 23 (425-440); §§ 10, 15 and 35 were keyword-scanned. Correction 2026-09-15, by the strata re-tagging pass run for gap-009: six units at SS 21 and 23 carried stratum lu5-a-1901, but the commentary assigns neither section to an edition. It works from the B-text and marks its layers explicitly where they fall - S 6, S 7 (struck in B, printed in smaller type), S 8 and its second-edition Addendum, the S 16 footnote - and SS 21 and 23 carry no such mark, so a first-edition tag there dated the doctrine to 1901 on no evidence in the commentary. The tags are removed; the units are unchanged. Per chronology.json's note on this entry, a unit carries the A- or B-stratum only where the commentary assigns the passage to one."
   },
   "coverage": "partial",

@@ -6,7 +6,7 @@
   "extracted_at": "2026-09-14",
   "extractor": {
     "agent": "claude-code",
-    "prompt": "synthesis-pipeline/extraction-prompt.md"
+    "prompt": "synthesis/prompts/extraction-prompt.md"
   },
   "coverage": "partial",
   "coverage_note": "SS 11, 14, 38 and 80 - the places where the investigation locates itself in the constitutive systematics, and where the constitution of general objectualities is announced. The bulk of the analyses of receptivity, predication and generalization has not been extracted; S 10 and S 17 carry no term of the family and are recorded as absences.",

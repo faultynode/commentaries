@@ -6,7 +6,7 @@
   "extracted_at": "2026-09-14",
   "extractor": {
     "agent": "claude-code",
-    "prompt": "https://github.com/faultynode/prompts/blob/main/synthesis-pipeline/extraction-prompt.md",
+    "prompt": "synthesis/prompts/extraction-prompt.md",
     "note": "Partial pass over §§ 6 and 7, where the theme is present as Destruktion and as the phenomenological maxim rather than as the Husserlian reduction."
   },
   "coverage": "partial",

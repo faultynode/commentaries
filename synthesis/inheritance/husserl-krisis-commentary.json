@@ -5,7 +5,7 @@
   "extracted_at": "2026-09-09",
   "extractor": {
     "agent": "claude-code",
-    "prompt": "prompts/inheritance-prompt.md",
+    "prompt": "synthesis/prompts/inheritance-prompt.md",
     "note": "source_sha256 is the LF digest (CRLF checkout; local validate reports a false staleness, CI on LF passes). Part II of the Crisis is a history of modern philosophy; retrieval keyed on predecessor names, closely read § 9 (Galileo), §§ 16-25 (Descartes, Locke, Berkeley, Hume, Leibniz/Wolff, Kant), and §§ 27-31 (Kant's presuppositions and the regressive method). Not read for this pass: §§ 1-8, 10-15, 26, 32-73 in detail. One record per commentary covering all predecessors."
   },
   "coverage": "partial",

@@ -6,7 +6,7 @@
   "extracted_at": "2026-09-14",
   "extractor": {
     "agent": "claude-code",
-    "prompt": "prompts/synthesis-pipeline/extraction-prompt.md",
+    "prompt": "synthesis/prompts/extraction-prompt.md",
     "note": "Opened against gap-007, which names this commentary's eidos and free-variation material as the pass it needs. Whole file grep-counted for 'immutable', 'innate', 'Descartes', 'residuum' and 'Wesensschau': all five are zero across the entire commentary. Closely read § 87 a-f (lines 946-969), § 90 (978-981), § 92 (992-995) and § 83 b (918-921)."
   },
   "coverage": "partial",

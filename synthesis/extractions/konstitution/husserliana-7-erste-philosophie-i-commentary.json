@@ -6,7 +6,7 @@
   "extracted_at": "2026-09-14",
   "extractor": {
     "agent": "claude-code",
-    "prompt": "synthesis-pipeline/extraction-prompt.md"
+    "prompt": "synthesis/prompts/extraction-prompt.md"
   },
   "coverage": "partial",
   "coverage_note": "The Sixth, Seventeenth, Twenty-fifth and Twenty-seventh Lectures. No unit carries a stratum: the commentary has no chronology.json entry and dates nothing in its own text. The remaining lectures of the critical history have not been extracted; four of the longest of them carry no term of the family at all, and one is recorded as an absence.",

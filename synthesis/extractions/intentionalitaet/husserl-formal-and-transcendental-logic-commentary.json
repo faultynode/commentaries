@@ -6,7 +6,7 @@
   "extracted_at": "2026-09-09",
   "extractor": {
     "agent": "claude-code",
-    "prompt": "prompts/extraction-prompt.md",
+    "prompt": "synthesis/prompts/extraction-prompt.md",
     "note": "source_sha256 is the LF digest (CRLF checkout; local validate reports a false staleness, CI on LF passes). This commentary is a paragraph-by-paragraph analysis whose sections are mostly compact summary; closely read the Introduction (Besinnung and intentional explication as method, the anonymity of constituting intentionality, the constitutive insight), Preparatory Considerations § 8 (the two-sidedness of logic), Part I Chapter 4 § 42 (a/c/g: judging directed at the objectuality, categorial forms as positional correlates, constitutive idealism illustrated by nature), Part II Chapter 1 §§ 59-63 (evidence as self-giving, the fundamental lawfulness of intentionality, evidence in the function of all objects, the ideality/transcendence of intentional unities, producing activity as self-giving), § 70a (shifting of intentional aimings), Chapter 4 §§ 85-86 (sense-genesis and the intentionality of pre-predicative experience), and Appendix II § 2 (a/b/c: static and genetic intentional explication, original institution of apperception, retentional modification and sedimentation). Not read in detail: §§ 1-58, 64-84, 87-105, the Concluding Word, and Appendices I and III. chronology.json entry exists but status 'unresolved' (P5 pending; FTL was published 1929, but the commentary opening does not state a date)."
   },
   "coverage": "partial",

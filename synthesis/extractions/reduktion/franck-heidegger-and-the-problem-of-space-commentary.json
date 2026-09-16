@@ -6,7 +6,7 @@
   "extracted_at": "2026-09-14",
   "extractor": {
     "agent": "claude-code",
-    "prompt": "https://github.com/faultynode/prompts/blob/main/synthesis-pipeline/extraction-prompt.md",
+    "prompt": "synthesis/prompts/extraction-prompt.md",
     "note": "Partial pass over the Introduction and Chapter I, where the three components of the phenomenological method — reduction, construction, destruction — are set out."
   },
   "coverage": "partial",

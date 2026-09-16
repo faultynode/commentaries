@@ -6,7 +6,7 @@
   "extracted_at": "2026-09-14",
   "extractor": {
     "agent": "claude-code",
-    "prompt": "prompts/synthesis-pipeline/extraction-prompt.md",
+    "prompt": "synthesis/prompts/extraction-prompt.md",
     "note": "Whole file grep-counted for the theme's search terms plus 'immutable', 'innate', 'residuum', 'Wesensschau', 'vera et' and 'Descartes'. 'immutable', 'innate', 'Wesensschau' and 'vera et' return nothing anywhere in the file; 'residuum' occurs three times and never of essences; 'Descartes' once. Closely read § 70 (lines 103-126), § 75 (195-216) and § 149 (1393-1412). Opened partly against gap-007, which names this commentary's doctrine-of-essences material as the pass it needs."
   },
   "coverage": "partial",

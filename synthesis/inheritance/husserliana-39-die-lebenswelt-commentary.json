@@ -5,7 +5,7 @@
   "extracted_at": "2026-09-09",
   "extractor": {
     "agent": "claude-code",
-    "prompt": "prompts/inheritance-prompt.md",
+    "prompt": "synthesis/prompts/inheritance-prompt.md",
     "note": "source_sha256 is the LF digest (CRLF checkout; local validate reports a false staleness, CI on LF passes). Die Lebenswelt is a volume of research manuscripts and names predecessors sparingly: the explicit engagement is with Descartes (the ego cogito and the doubt-attempt, in Text Nr. 1, Text Nr. 25, and Supplement XV) and with the Kantian title 'transcendental aesthetics' (Text Nr. 60, Text Nr. 43). The pervasive Leibnizian talk of souls as monads is Husserl's own idiom and not marked as engagement. One record per commentary covering all predecessors."
   },
   "coverage": "partial",

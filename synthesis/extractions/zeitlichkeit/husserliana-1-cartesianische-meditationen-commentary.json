@@ -6,7 +6,7 @@
   "extracted_at": "2026-09-14",
   "extractor": {
     "agent": "claude-code",
-    "prompt": "prompts/synthesis-pipeline/extraction-prompt.md"
+    "prompt": "synthesis/prompts/extraction-prompt.md"
   },
   "coverage": "partial",
   "coverage_note": "§ 18 (the universal synthesis of transcendental time) and § 36 (egological-temporal coexistence and succession). §§ 12 and 15 and the four other sections with term hits are not extracted.",

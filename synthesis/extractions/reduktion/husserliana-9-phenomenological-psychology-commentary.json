@@ -6,7 +6,7 @@
   "extracted_at": "2026-09-14",
   "extractor": {
     "agent": "claude-code",
-    "prompt": "https://github.com/faultynode/prompts/blob/main/synthesis-pipeline/extraction-prompt.md",
+    "prompt": "synthesis/prompts/extraction-prompt.md",
     "note": "Partial pass over § 37, its Beilage XXI, and § 1 of the Amsterdam Lectures, where the psychological and transcendental reductions are distinguished."
   },
   "coverage": "partial",

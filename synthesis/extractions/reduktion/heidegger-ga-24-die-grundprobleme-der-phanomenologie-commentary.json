@@ -6,7 +6,7 @@
   "extracted_at": "2026-09-14",
   "extractor": {
     "agent": "claude-code",
-    "prompt": "https://github.com/faultynode/prompts/blob/main/synthesis-pipeline/extraction-prompt.md",
+    "prompt": "synthesis/prompts/extraction-prompt.md",
     "note": "Partial pass over § 5, where the three basic pieces of the phenomenological method are stated and Heidegger's reduction is expressly distinguished from Husserl's."
   },
   "coverage": "partial",

@@ -6,7 +6,7 @@
   "extracted_at": "2026-09-14",
   "extractor": {
     "agent": "claude-code",
-    "prompt": "prompts/synthesis-pipeline/extraction-prompt.md",
+    "prompt": "synthesis/prompts/extraction-prompt.md",
     "note": "Whole file grep-scanned for the theme's search terms plus 'Wesensschau', 'eidetic', 'immutable', 'innate', 'Descartes', 'residuum' and 'free variation'. Closely read the two eidos sections (lines 57-60 and 481-488) and the opening of First Part II (27-36). This commentary carries the corpus's Aristotelian sense of eidos, which is not the Husserlian one, and the records say so."
   },
   "coverage": "partial",

@@ -6,7 +6,7 @@
   "extracted_at": "2026-09-14",
   "extractor": {
     "agent": "claude-code",
-    "prompt": "prompts/synthesis-pipeline/extraction-prompt.md",
+    "prompt": "synthesis/prompts/extraction-prompt.md",
     "note": "Whole file grep-counted: 'essential' 112 times, 'essentially' 38, 'essence' 12, 'essences' 0; 'Wesen', 'eidos', 'eidetic', 'Wesensschau' and 'Husserl' occur nowhere in the file. The theme's 125-hit ranking for this commentary is therefore almost entirely the ordinary adverb, exactly the trap CLAUDE.md rule 5 and the operations note about ordinary English words describe. Every one of the twelve occurrences of the noun 'essence' was read in context; the four where it is doing recognizable work are recorded here."
   },
   "coverage": "partial",

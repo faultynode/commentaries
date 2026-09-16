@@ -5,7 +5,7 @@
   "extracted_at": "2026-09-09",
   "extractor": {
     "agent": "claude-code",
-    "prompt": "prompts/inheritance-prompt.md",
+    "prompt": "synthesis/prompts/inheritance-prompt.md",
     "note": "source_sha256 is the LF digest (CRLF checkout; local validate reports a false staleness, CI on LF passes). Predecessor engagement is thin and concentrated in the Second Section (§§ 43-44 on the origin of the categories) and the Third Section (§§ 68-70 on the Aristotelian conception of non-objectifying sentences). Not read for this pass: §§ 1-42, 45-67 in detail beyond the extraction pass. One record per commentary covering all predecessors."
   },
   "coverage": "partial",

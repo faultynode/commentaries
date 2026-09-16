@@ -6,7 +6,7 @@
   "extracted_at": "2026-09-14",
   "extractor": {
     "agent": "claude-code",
-    "prompt": "prompts/synthesis-pipeline/extraction-prompt.md",
+    "prompt": "synthesis/prompts/extraction-prompt.md",
     "note": "Whole file grep-scanned for the theme's search terms plus 'Wesensschau', 'immutable', 'innate' and 'free variation'; none of the last four occur. Closely read the eidetic passages of section II (lines 57-140) and section X (443-512), the two densest sections."
   },
   "coverage": "partial",

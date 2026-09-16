@@ -6,7 +6,7 @@
   "extracted_at": "2026-09-14",
   "extractor": {
     "agent": "claude-code",
-    "prompt": "prompts/synthesis-pipeline/extraction-prompt.md",
+    "prompt": "synthesis/prompts/extraction-prompt.md",
     "note": "Whole file grep-scanned for the theme's search terms plus 'Wesensschau', 'immutable', 'innate', 'Descartes', 'residuum' and 'simple nature'. 'residuum' occurs in Chapter Five, of the pure Ego left after the exclusion of the world, and is recorded as unit 007. Closely read Chapter Five (lines 205-240)."
   },
   "coverage": "partial",

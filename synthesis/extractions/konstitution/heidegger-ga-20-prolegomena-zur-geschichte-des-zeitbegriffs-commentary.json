@@ -6,7 +6,7 @@
   "extracted_at": "2026-09-14",
   "extractor": {
     "agent": "claude-code",
-    "prompt": "synthesis-pipeline/extraction-prompt.md"
+    "prompt": "synthesis/prompts/extraction-prompt.md"
   },
   "coverage": "partial",
   "coverage_note": "SS 5, 11, 12, 13, 19 and 26. This commentary is the one place in the extracted corpus where both senses of the word stand side by side and can be told apart from the text itself: Husserlian Konstitution in SS 11 and 13, where consciousness is absolute in the order of constitution and Ideen II is read for the constitution of the spiritual world, and Seinsverfassung in SS 19 and 26, where being-in-the-world is the basic constitution of Dasein. The units below are marked accordingly in their term field. SS 1-4, 6-10, 12, 14-18, 20-25 and 27-36 have not been extracted; a pass for the theme sorge over Chapter Four already exists.",

@@ -6,7 +6,7 @@
   "extracted_at": "2026-09-14",
   "extractor": {
     "agent": "claude-code",
-    "prompt": "https://github.com/faultynode/prompts/blob/main/synthesis-pipeline/extraction-prompt.md",
+    "prompt": "synthesis/prompts/extraction-prompt.md",
     "note": "Partial pass over the sections where the epoché and the transcendental reduction do argumentative work: §§ 8, 9, 13, 14, 15, 34, 42, 62."
   },
   "coverage": "partial",

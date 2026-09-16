@@ -6,7 +6,7 @@
   "extracted_at": "2026-09-14",
   "extractor": {
     "agent": "claude-code",
-    "prompt": "synthesis-pipeline/extraction-prompt.md"
+    "prompt": "synthesis/prompts/extraction-prompt.md"
   },
   "coverage": "partial",
   "coverage_note": "The Introduction, S 66, and the sections a), b) and f) of the appended analyses - the places where the theme carries argument. The term family is thin in this commentary relative to its length: no section reaches six hits, and several run to 450-500 words with none at all; one is recorded as an absence. No stratum: the commentary states no date for its own text.",

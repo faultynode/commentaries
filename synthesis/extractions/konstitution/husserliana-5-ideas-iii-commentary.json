@@ -6,7 +6,7 @@
   "extracted_at": "2026-09-14",
   "extractor": {
     "agent": "claude-code",
-    "prompt": "synthesis-pipeline/extraction-prompt.md"
+    "prompt": "synthesis/prompts/extraction-prompt.md"
   },
   "coverage": "partial",
   "coverage_note": "Supplement I SS 1 and 6, and Supplement II section f) on the constitutive role of movement-sensations. The main text SS 1-20 has been read for candidates but only S 1 of the main text carries the theme at any density and it has not been extracted here. Stratum: none, since the commentary states no date for its own text.",

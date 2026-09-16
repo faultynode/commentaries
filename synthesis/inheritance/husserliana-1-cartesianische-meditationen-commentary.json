@@ -5,7 +5,7 @@
   "extracted_at": "2026-09-09",
   "extractor": {
     "agent": "claude-code",
-    "prompt": "prompts/inheritance-prompt.md",
+    "prompt": "synthesis/prompts/inheritance-prompt.md",
     "note": "source_sha256 is the LF digest (CRLF checkout; local validate reports a false staleness, CI on LF passes). The whole framing of the Cartesian Meditations is an engagement with Descartes; retrieval keyed on predecessor names, closely read §§ 1-2 and § 10 (Descartes), § 33 and § 60 (Leibniz's monad), and § 61 (the Kantian 'transcendental aesthetic'). One record per commentary covering all predecessors."
   },
   "coverage": "partial",

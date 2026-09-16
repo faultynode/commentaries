@@ -7,7 +7,7 @@
   "extractor": {
     "agent": "claude-code",
     "model": "claude-opus-5",
-    "prompt": "https://github.com/faultynode/prompts/blob/main/synthesis-pipeline/extraction-prompt.md",
+    "prompt": "synthesis/prompts/extraction-prompt.md",
     "note": "Pass for gap-013, which asked for this commentary so that the near-disappearance of the word from the treatise becomes a checked negative rather than an impression from the other commentary's extracted quotes. The whole file was scanned for the theme's terms: 'intentional' occurs exactly once in 55,770 words, at § 10, in the report of Scheler on personality, and 'Intentionalitaet' and 'intentionality' do not occur at all. absent_terms is keyed to Intentionalitaet / intentionality / intentional and deliberately not to the stem intentio, which fires inside the ordinary English 'intention'. § 69 was not recorded as an absence although the term is missing there: the section runs to 180 words, and a checked absence in a section that compressed is the ambiguity gap-006 already flags."
   },
   "coverage": "partial",

@@ -6,7 +6,7 @@
   "extracted_at": "2026-09-14",
   "extractor": {
     "agent": "claude-code",
-    "prompt": "prompts/synthesis-pipeline/extraction-prompt.md"
+    "prompt": "synthesis/prompts/extraction-prompt.md"
   },
   "coverage": "partial",
   "coverage_note": "The Introduction, which carries 47 of the file's 64 term hits and states the Zeitlichkeit/Temporalität distinction the book turns on. Chapters I and II, which carry the rest, are not extracted.",

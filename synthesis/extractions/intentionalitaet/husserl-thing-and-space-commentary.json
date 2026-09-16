@@ -6,7 +6,7 @@
   "extracted_at": "2026-09-09",
   "extractor": {
     "agent": "claude-code",
-    "prompt": "prompts/synthesis-pipeline/extraction-prompt.md",
+    "prompt": "synthesis/prompts/extraction-prompt.md",
     "note": "Extraction focused on intentionality as essential determination of perception in Husserl's analysis of perception and spatial constitution. Key sections: §4 (intentionality as essential), §6 (real/intentional distinction), §11 (intentional relation), §32 (intention/fulfillment). Covers foundational aspects of perceptual intentionality in Thing and Space lectures."
   },
   "coverage": "partial",

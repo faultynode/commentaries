@@ -6,7 +6,7 @@
   "extracted_at": "2026-09-14",
   "extractor": {
     "agent": "claude-code",
-    "prompt": "prompts/synthesis-pipeline/extraction-prompt.md",
+    "prompt": "synthesis/prompts/extraction-prompt.md",
     "note": "Whole file grep-counted for the theme's search terms plus 'Wesensschau', 'immutable', 'innate', 'residuum' and 'free variation'. Closely read § 7 (lines 113-156), § 16 (285-292) and the opening of § 8 (157-202)."
   },
   "coverage": "partial",

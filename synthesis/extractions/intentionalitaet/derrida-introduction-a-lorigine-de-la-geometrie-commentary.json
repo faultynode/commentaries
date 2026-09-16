@@ -6,7 +6,7 @@
   "extracted_at": "2026-09-08",
   "extractor": {
     "agent": "claude-code",
-    "prompt": "prompts/extraction-prompt.md",
+    "prompt": "synthesis/prompts/extraction-prompt.md",
     "note": "source_sha256 is the LF digest (CRLF checkout; local validate reports a false staleness, CI on LF passes). Closely read Section V (the degrees of linguistic ideality, bound and free idealities), the first half of Section VII (writing as autonomous transcendental field, virtual intentionality, the graphic Leib, crisis as sickness of language), and Section XI (the Absolute of intentional historicity, the genitive, the Living Present, 'intentionality is traditionality'). Not read: Sections I-IV, VI, VIII-X and the closing of VII. Intentionality here is refracted through Derrida's reading of Husserl's Origin of Geometry. No chronology.json entry yet (P5 pending; the Introduction is 1962)."
   },
   "coverage": "partial",

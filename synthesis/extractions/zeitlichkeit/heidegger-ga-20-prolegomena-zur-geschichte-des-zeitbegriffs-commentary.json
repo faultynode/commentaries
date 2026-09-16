@@ -6,7 +6,7 @@
   "extracted_at": "2026-09-14",
   "extractor": {
     "agent": "claude-code",
-    "prompt": "prompts/synthesis-pipeline/extraction-prompt.md",
+    "prompt": "synthesis/prompts/extraction-prompt.md",
     "note": "A sorge record already covers Chapter Four of this commentary; this pass reads the course's opening and closing sections on time."
   },
   "coverage": "partial",

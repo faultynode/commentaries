@@ -6,7 +6,7 @@
   "extracted_at": "2026-09-14",
   "extractor": {
     "agent": "claude-code",
-    "prompt": "prompts/synthesis-pipeline/extraction-prompt.md",
+    "prompt": "synthesis/prompts/extraction-prompt.md",
     "note": "Whole file grep-scanned for the theme's search terms plus 'Wesensschau', 'immutable', 'innate', 'residuum' and 'Descartes'. Closely read § 3 (lines 79-106) and § 4 (107-132); § 40 (1127-1158) read for its recapitulation of the eidetic stance only."
   },
   "coverage": "partial",

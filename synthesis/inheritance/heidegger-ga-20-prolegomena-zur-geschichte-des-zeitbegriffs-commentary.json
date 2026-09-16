@@ -5,7 +5,7 @@
   "extracted_at": "2026-09-09",
   "extractor": {
     "agent": "claude-code",
-    "prompt": "prompts/inheritance-prompt.md",
+    "prompt": "synthesis/prompts/inheritance-prompt.md",
     "note": "source_sha256 is the LF digest (CRLF checkout; local validate reports a false staleness, CI on LF passes). The Preparatory Part of GA 20 is an immanent critique of Husserl that runs the engagement through §5 (intentionality, via Brentano), §7 (the apriori, via Descartes, Kant, Plato), and §§12-13 (the double neglect of the question of being, via Husserl, Dilthey, Scheler, and the Greek tradition). One record per commentary covering all predecessors."
   },
   "coverage": "partial",

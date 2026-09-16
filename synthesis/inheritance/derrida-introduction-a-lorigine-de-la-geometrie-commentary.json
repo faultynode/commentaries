@@ -5,7 +5,7 @@
   "extracted_at": "2026-09-09",
   "extractor": {
     "agent": "claude-code",
-    "prompt": "prompts/inheritance-prompt.md",
+    "prompt": "synthesis/prompts/inheritance-prompt.md",
     "note": "source_sha256 is the LF digest (CRLF checkout; local validate reports a false staleness, CI on LF passes). Derrida's Introduction is a book-length reading of Husserl's Origin of Geometry; predecessor engagement is concentrated in section II (the extended Kant comparison, plus Descartes and Fink), section VII (Joyce, Hegel, Heidegger on the equivocity/univocity of language), and section XI (Cavailles and Platonism on the historicity of the Idea). One record per commentary covering all predecessors."
   },
   "coverage": "partial",

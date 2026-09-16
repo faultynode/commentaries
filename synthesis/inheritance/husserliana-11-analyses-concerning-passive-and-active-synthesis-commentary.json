@@ -5,7 +5,7 @@
   "extracted_at": "2026-09-09",
   "extractor": {
     "agent": "claude-code",
-    "prompt": "prompts/synthesis-pipeline/inheritance-prompt.md",
+    "prompt": "synthesis/prompts/inheritance-prompt.md",
     "note": "Inheritance pass tracing Husserl's development of genetic phenomenology in relation to key predecessors. Covers references in Translator's Introduction where methodological precedents are discussed."
   },
   "coverage": "partial",

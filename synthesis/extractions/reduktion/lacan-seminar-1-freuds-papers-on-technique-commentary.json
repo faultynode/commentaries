@@ -6,7 +6,7 @@
   "extracted_at": "2026-09-14",
   "extractor": {
     "agent": "claude-code",
-    "prompt": "https://github.com/faultynode/prompts/blob/main/synthesis-pipeline/extraction-prompt.md",
+    "prompt": "synthesis/prompts/extraction-prompt.md",
     "note": "A recorded absence. The commentary ranks high on term density only through ordinary-English renderings: every hit resolves to 'suspension' in a non-technical sense or to Freud's Destruktionstrieb (destruction drive), not to the phenomenological reduction."
   },
   "coverage": "partial",

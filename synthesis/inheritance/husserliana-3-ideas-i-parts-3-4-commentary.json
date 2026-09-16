@@ -5,7 +5,7 @@
   "extracted_at": "2026-09-09",
   "extractor": {
     "agent": "claude-code",
-    "prompt": "prompts/inheritance-prompt.md",
+    "prompt": "synthesis/prompts/inheritance-prompt.md",
     "note": "source_sha256 is the LF digest (CRLF checkout; local validate reports a false staleness, CI on LF passes). This commentary covers Ideas I Parts 3 and 4 (§§63-153). Explicit predecessor engagement: Kant (the 'Idea in the Kantian sense' for exact essences at §74 and for adequate thing-givenness at §143), Aristotle (the borrowed hyle/morphe pair, §85), Brentano (the distinction of psychic and physical phenomena, §85), and Descartes (the demon fiction, §145). One record per commentary covering all predecessors."
   },
   "coverage": "partial",

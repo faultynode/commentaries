@@ -6,7 +6,7 @@
   "extracted_at": "2026-09-08",
   "extractor": {
     "agent": "claude-code",
-    "prompt": "prompts/extraction-prompt.md",
+    "prompt": "synthesis/prompts/extraction-prompt.md",
     "note": "source_sha256 is the LF digest (CRLF checkout; local validate reports a false staleness, CI on LF passes). This is a compact section-by-section commentary on Ideas I SS 111-153; each section is a short paragraph. Closely read SS 114-135 (the neutrality/positionality doctrine, founded noeses and value-noemata, the archontic thesis, syntheses and nominalization, the Logos layer, the noematic sense and the determinable X, the noematic proposition, the transition to the phenomenology of reason) and SS 148-153 (formal ontology, the problem of phenomenological constitution, the regional guiding thread, transfer to other regions). Not read: SS 111-113, 126-127, 136-147 (the phenomenology of reason and evidence chapter). Chronology entry exists but is unresolved (the commentary's opening names the volume and SS 111-153 but no date)."
   },
   "coverage": "partial",

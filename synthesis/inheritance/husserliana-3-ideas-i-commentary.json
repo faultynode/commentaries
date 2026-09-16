@@ -5,7 +5,7 @@
   "extracted_at": "2026-09-09",
   "extractor": {
     "agent": "claude-code",
-    "prompt": "prompts/inheritance-prompt.md",
+    "prompt": "synthesis/prompts/inheritance-prompt.md",
     "note": "source_sha256 is the LF digest (CRLF checkout; local validate reports a false staleness, CI on LF passes). This commentary covers only Ideas I §§111-153 (the close of the third section and the fourth section, Reason and Reality); these are technical noetic-noematic analyses with sparse historical reference. The explicit predecessor engagement is with Kant (the 'Idea in the Kantian sense', §143), Descartes (the demon fiction as a skeptical worry, §145), and Twardowski (the act/content/object distinction, §129). One record per commentary covering all predecessors."
   },
   "coverage": "partial",

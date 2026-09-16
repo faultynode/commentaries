@@ -5,7 +5,7 @@
   "extracted_at": "2026-08-04",
   "extractor": {
     "agent": "claude-code",
-    "prompt": "prompts/inheritance-prompt.md",
+    "prompt": "synthesis/prompts/inheritance-prompt.md",
     "note": "Seed record written while building the pipeline."
   },
   "coverage": "partial",

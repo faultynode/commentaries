@@ -6,7 +6,7 @@
   "extracted_at": "2026-09-08",
   "extractor": {
     "agent": "claude-code",
-    "prompt": "prompts/extraction-prompt.md",
+    "prompt": "synthesis/prompts/extraction-prompt.md",
     "note": "source_sha256 is the LF digest (CRLF checkout; local validate reports a false staleness, CI on LF passes). Closely read the Fifteenth, Sixteenth and Seventeenth Lectures (the critical disclosure of the genuine problematic hidden in Locke: the pure I, intentionality, irreal immanence, constitutive synthesis, the critique of the image-theory, true being as confirmation, and the curable/incurable distinction). Not read: the First Chapter (Locke's horizon), the rest of the Third Chapter (abstraction-theory and the extension of intuition), and the Hume, Berkeley, Leibniz and Kant lectures. No chronology.json entry yet (P5 pending); the course is the 1923/24 Erste Philosophie lectures."
   },
   "coverage": "partial",

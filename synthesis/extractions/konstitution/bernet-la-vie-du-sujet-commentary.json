@@ -6,7 +6,7 @@
   "extracted_at": "2026-09-14",
   "extractor": {
     "agent": "claude-code",
-    "prompt": "synthesis-pipeline/extraction-prompt.md"
+    "prompt": "synthesis/prompts/extraction-prompt.md"
   },
   "coverage": "partial",
   "coverage_note": "The three densest sections - 'The Being of the World and the Being of Constituting Consciousness', 'The Being of Constituting Consciousness and the Being of the Phenomenological Spectator' and 'The Noema as Phenomenologically Reduced Object' - plus the chapter sections I and III on world-constitution and pregivenness. The book's chapters on time, memory, Proust and Barthes and on Derrida have not been extracted.",

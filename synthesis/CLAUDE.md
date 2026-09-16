@@ -84,6 +84,7 @@ Everything below is downstream of keeping that check meaningful.
 | `extractions/<theme>/<slug>.json` | |
 | `inheritance/<slug>.json` | |
 | `schema/*.json` | |
+| `prompts/*.md` | |
 | `outputs/` | |
 
 Generated files are pure functions of the authored ones — no timestamps —
@@ -108,17 +109,20 @@ holds the data.
     gaps.json            The reading queue. Written by Stage 4.
     corpus.json          Generated. Heading tree, line spans, digests.
     schema/              JSON Schema for all of the above.
+    prompts/             The stage prompts. See below.
     extractions/<theme>/<commentary-slug>.json
     inheritance/<commentary-slug>.json
     ledgers/             Generated. One markdown ledger per theme.
     outputs/             Stage 4 drafts. Not published.
     STATUS.md            Generated. The queue for the next pass.
 
-Prompts live in the separate
-[faultynode/prompts](https://github.com/faultynode/prompts) repo, under
-`synthesis-pipeline/`: extraction (Stage 1), inheritance (Stage 3),
-synthesis (Stage 4). Stage 2 is a script and has no prompt, because it
-needs no judgement.
+Prompts live in [`prompts/`](prompts):
+[extraction](prompts/extraction-prompt.md) (Stage 1),
+[inheritance](prompts/inheritance-prompt.md) (Stage 3),
+[synthesis](prompts/synthesis-prompt.md) (Stage 4). Stage 2 is a script
+and has no prompt, because it needs no judgement. A record's
+`extractor.prompt` is the repo-relative path of the prompt it ran,
+e.g. `synthesis/prompts/extraction-prompt.md`.
 
 ## Gotchas
 

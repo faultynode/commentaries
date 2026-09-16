@@ -6,7 +6,7 @@
   "extracted_at": "2026-09-14",
   "extractor": {
     "agent": "claude-code",
-    "prompt": "synthesis-pipeline/extraction-prompt.md"
+    "prompt": "synthesis/prompts/extraction-prompt.md"
   },
   "coverage": "partial",
   "coverage_note": "Introduction SS 3-7, where the Husserlian doctrine of transcendental constitution is stated and then criticized, plus the one technical occurrence in Section III S 37. The raw term ranking is misleading here: SS 11, 37, 41, 45, 49, 52 and 57 carry most of the commentary's hits, but almost all of them are 'constitutes' in the ordinary sense of 'makes up'. SS 41, 49, 52 and 57 were checked for the technical vocabulary and contain none; two are recorded as absences.",

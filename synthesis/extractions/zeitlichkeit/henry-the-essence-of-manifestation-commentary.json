@@ -6,7 +6,7 @@
   "extracted_at": "2026-09-14",
   "extractor": {
     "agent": "claude-code",
-    "prompt": "prompts/synthesis-pipeline/extraction-prompt.md"
+    "prompt": "synthesis/prompts/extraction-prompt.md"
   },
   "coverage": "partial",
   "coverage_note": "§ 43 only, which carries 102 of the commentary's term hits - the section where situation is set against ecstatic temporality. §§ 6, 11, 13, 44 and 47, which carry the remaining hits, are not extracted.",

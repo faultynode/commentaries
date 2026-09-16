@@ -6,7 +6,7 @@
   "extracted_at": "2026-09-14",
   "extractor": {
     "agent": "claude-code",
-    "prompt": "prompts/synthesis-pipeline/extraction-prompt.md",
+    "prompt": "synthesis/prompts/extraction-prompt.md",
     "note": "Whole file grep-scanned for the theme's search terms plus 'Wesensschau', 'immutable', 'innate', 'Descartes', 'residuum', 'free variation' and 'simple nature'. Closely read the three sections where the theme is a term of art: the eidetic shape of psychic interiority (lines 739-744), individuality and identity of time-objects (773-776) and the tode ti (797-802). No stratum is assigned: chronology.json distinguishes a 1917 and a 1918 layer for this volume, and the appended texts read here do not state which they belong to."
   },
   "coverage": "partial",

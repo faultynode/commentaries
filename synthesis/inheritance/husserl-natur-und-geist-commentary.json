@@ -5,7 +5,7 @@
   "extracted_at": "2026-09-09",
   "extractor": {
     "agent": "claude-code",
-    "prompt": "prompts/inheritance-prompt.md",
+    "prompt": "synthesis/prompts/inheritance-prompt.md",
     "note": "source_sha256 is the LF digest (CRLF checkout; local validate reports a false staleness, CI on LF passes). Predecessor engagement runs through the Introduction (Plato and Bacon on the ideal of a rational humanity founded on rigorous science) and the Part I methodological sections (Leibniz on perception/apperception, Hume on 'impression', Berkeley on esse=percipi, Descartes on the ego cogito and the transformation of the Cartesian meditation, Kant on time). One record per commentary covering all predecessors."
   },
   "coverage": "partial",

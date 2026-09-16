@@ -5,7 +5,7 @@
   "extracted_at": "2026-09-09",
   "extractor": {
     "agent": "claude-code",
-    "prompt": "prompts/inheritance-prompt.md",
+    "prompt": "synthesis/prompts/inheritance-prompt.md",
     "note": "source_sha256 is the LF digest (CRLF checkout; local validate reports a false staleness, CI on LF passes). Predecessor engagement is spread across the parallelism sections (§2 on ethical empiricism vs. absolutism, §5b on Kant's categorical imperative, §7 on axiological reason), the Schluesstueck's formal theory of rational choice (correction of Brentano), and the Einleitung's §5 on the hidden countersense of natural epistemology (Descartes, Berkeley, Hume). One record per commentary covering all predecessors."
   },
   "coverage": "partial",

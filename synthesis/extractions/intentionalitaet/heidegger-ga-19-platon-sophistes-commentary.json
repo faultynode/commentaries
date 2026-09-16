@@ -7,7 +7,7 @@
   "extractor": {
     "agent": "claude-code",
     "model": "claude-opus-5",
-    "prompt": "https://github.com/faultynode/prompts/blob/main/synthesis-pipeline/extraction-prompt.md",
+    "prompt": "synthesis/prompts/extraction-prompt.md",
     "note": "Whole file scanned for the theme's terms. 'Intentionalitaet', 'intentionality', 'intentional', 'noesis' and 'noema' do not occur anywhere in the commentary; all 15 hits that put this file on the theme's candidate list are the word 'directedness', which here renders Sachlichkeit / Unsachlichkeit in the sophistry analysis and the Greek being-directed-toward, not Intentionalitaet. The record therefore carries no units and four checked absences. This is the same shape as gap-004 on the sorge theme in this same commentary: a term-density ranking driven by a shared English rendering."
   },
   "coverage": "partial",
