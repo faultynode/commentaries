@@ -1,0 +1,182 @@
+# Task: aporia register for intentionality (Stage 4)
+
+Write a Stage 4 **aporia register** (output type 3) for the theme
+`intentionalitaet`: problems the corpus raises about intentionality and does
+not resolve. Work in the `commentaries` repo root.
+
+## Read first; these bind you
+
+1. `synthesis/prompts/synthesis-prompt.md`: the Stage 4 prompt. Its source
+   discipline and gap rule override anything below; this task only narrows it.
+2. `synthesis/CLAUDE.md`: the conventions for working in `synthesis/`.
+
+## What you may read, and what you may not
+
+Your closed corpus:
+
+- `synthesis/ledgers/intentionalitaet-ledger.md`. Rebuild it first with
+  `python3 scripts/synthesis_ledger.py --theme intentionalitaet`. It is
+  about 650 KB and 3,450 lines. Read all of it, in consecutive line ranges.
+  You find an aporia by what does *not* come later, so a grep sample misses
+  it. Use grep only to follow a candidate forward once you have one.
+- `synthesis/inheritance/*.json`: the predecessor engagements.
+- `synthesis/chronology.json`: for dates only.
+- `synthesis/gaps.json`: to see what is already open, and to append to.
+
+Do not open `commentaries/`, `articles/`,
+`synthesis/outputs/intentionalitaet-development-narrative.md`,
+`synthesis/lexicon.json`, or the extraction JSON (the ledger already
+carries it). Do not use what you know about Husserl or Heidegger. If a
+claim needs any of those, it is a gap, not a sentence.
+
+## What counts as an aporia here
+
+The extraction schema has no "dropped" status, so you build each entry from
+three things, and the third needs the most care.
+
+**1. Raised.** At least one unit whose own claim or quote poses a problem:
+an objection, a difficulty named as such, a rejection with nothing put in
+its place, or a thesis the unit itself marks as unsettled. Units marked
+`criticized` or `revised` are the usual candidates. So is an inheritance
+engagement that rejects a predecessor with no replacement. The problem has
+to be visible in the ledger text; do not supply it yourself.
+
+**2. Not resolved in the ledger.** Follow the problem's terms forward along
+the spine. Name the last unit that touches it. If a later unit records an
+answer, it is not an aporia; it is development. Leave it out.
+
+**3. What the ledger shows about the drop.** Grade every entry, and say
+which grade it has:
+
+- **Recorded drop.** A unit records the problem being left, or a recorded
+  absence sits in a later work exactly where the problem was expected.
+- **Not taken up in the ledger.** The ledger is simply silent. Every pass
+  in this ledger is partial. Before you use this grade, read the italic
+  *Partial pass* note that closes each later record: if its "Not covered"
+  list names the place where the problem would come back, say so. This
+  grade is a fact about the register, not about the author. Never write
+  "Husserl abandoned" on silence. Every entry with this grade gets a gap.
+
+Keep these apart:
+
+- **Author, commentator, reception.** A problem Husserl raises, a problem
+  the commentator raises about Husserl, and an objection from the reception
+  layer (Derrida, Henry, Kern, Franck, Bernet) are three different kinds.
+  Put reception-layer aporiai in their own section, and do not project
+  them back onto the spine.
+- **Across authors.** A problem Husserl raises is not resolved because a
+  unit in Heidegger's works addresses something similar. Link the two only
+  if a unit or an inheritance record links them. Otherwise the
+  correspondence is your own argument, marked as such (no locator), and
+  the entry stays open.
+- **Undated records.** Do not place *Erfahrung und Urteil* or Picht on the
+  spine to close or open an arc. Their aporiai go in a separate held-out
+  section.
+
+These are **not** aporiai: a revision the ledger records as made; an
+uncertainty about how the register is dated (gap-008 to gap-010 already
+cover those); a puzzle that belongs to your reading and not to the text.
+
+Three open gaps already pose aporia-shaped questions: gap-011 (the lowest
+layer changing direction), gap-016 (the 1911 drive objection) and gap-017
+(the return of "immanent"). If the ledger supports them, include them as
+entries and cite the gap id. Do not open duplicates, and do not change an
+existing gap's status. If the current ledger seems to settle one, say so
+in the entry and leave the status to the reviewer.
+
+There is no target count. Two well-anchored entries are worth more than
+ten that read silence as abandonment.
+
+## Output
+
+Write `synthesis/outputs/intentionalitaet-aporia-register.md`. The filename
+has to start with the theme id, because the checker uses it to pick the
+ledger. Sections, in this order:
+
+1. `# Intentionality: an aporia register`, then one paragraph: Stage 4
+   output type 3 over which ledger; what you read and what you did not
+   open; the unit, absence and record counts copied from the ledger's
+   header line; today's date.
+2. **How to read the citations.** Brief: what the unit ids, `inh/` ids and
+   backticked absence locators mean. The three tiers (primary text as
+   mediated by the commentary, the commentary's claim, your argument).
+   Every ledger quote is a quotation *of the commentary*, in English.
+3. **Scope.** Every pass is partial. List the unscanned commentaries from
+   "Not covered by this ledger" that bear on your entries, with their hit
+   counts.
+4. **Index.** One table: entry (A1, A2 …), the problem in a few words,
+   first raised at (unit id and date), last touched at (unit id), grade,
+   gap id.
+5. **Entries on the dated spine**, in the order they are first raised. For
+   each: `## A<n> · <problem in your words>`, then continuous prose, in
+   this order:
+   - the problem as raised, anchored;
+   - where the ledger follows it and the last unit that touches it;
+   - the evidence for the drop, and its grade, including any coverage note
+     that bounds it;
+   - at most two sentences, with no locator, on why this is where an
+     article could start.
+6. **Reception-layer aporiai**, same form.
+7. **Held out: undated records**, same form, not placed in time.
+8. **What this register does not support.** Prose naming each gap you
+   raised or cited, by id, and what each would take to close.
+
+### Citation mechanics (enforced by `scripts/synthesis_check_outputs.py`)
+
+- Cite units in backticks: `intentionalitaet/<record>/<NNN>` or the short
+  form `<record>/<NNN>`. Cite inheritance engagements as
+  `inh/<record>/<NNN>`.
+- Put a `slug#section-id` locator in backticks **only** for a recorded
+  absence. The checker treats every backticked commentary locator as a
+  claimed absence. Cite anything else by its unit id.
+- Use straight double quotes (`"`) **only** around text copied from the
+  ledger or the inheritance records; the checker looks up every such span
+  of 10 or more characters. You may join fragments with `...` as long as
+  they stay in order. No scare quotes, no double-quoted titles or glosses
+  of your own, and no curly quotes, which the checker cannot see.
+- Primary-text citations (LU V § 9, GA 20 § 5) only as a unit gives them.
+  Any date the unit does not carry must say where it came from
+  (`chronology.json` or the ledger heading).
+
+## Gaps
+
+Append to `synthesis/gaps.json`, starting from the next free id after the
+highest one in the file (gap-018 at the time of writing). Match the format
+of the existing entries exactly, including how they write § as `s`:
+
+```json
+{
+  "id": "gap-0NN",
+  "opened": "<today, YYYY-MM-DD>",
+  "theme": "intentionalitaet",
+  "question": "<the aporia, citing unit ids, and what the ledger cannot say>",
+  "needs": "<a concrete pass: which commentary, which sections, which terms; extraction or absence>",
+  "raised_by": "synthesis/outputs/intentionalitaet-aporia-register.md",
+  "status": "open"
+}
+```
+
+A good `needs` names a commentary slug and a range of sections, not "more
+reading".
+
+## Verify, then stop
+
+1. `python3 scripts/synthesis_check_outputs.py synthesis/outputs/intentionalitaet-aporia-register.md`
+   must report the file clean. Fix every issue by changing your text. Never
+   touch the ledger or the records to make a citation resolve.
+2. `python3 scripts/synthesis_validate.py` must pass. The existing
+   staleness warnings are expected; any new error in `gaps.json` is yours.
+3. `python3 scripts/synthesis_status.py`: confirm your gaps are in the queue.
+4. Review each entry against what the checker cannot catch:
+   - a claim about a text with no unit behind it;
+   - silence presented as a recorded drop;
+   - a problem Heidegger's work "resolves" for Husserl;
+   - an undated record used to date something.
+
+Change only those two files. Do not hand-edit the generated files, do not
+touch the extraction or inheritance records, and do not move anything into
+`commentaries/` or `articles/`. Do not commit to `main`. If you have to
+commit to hand the work back, use a new branch.
+
+Finish with a short report: each entry with its grade, the gap ids you
+raised or cited, and the checker's final output.
