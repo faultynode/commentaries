@@ -3,14 +3,15 @@
   "theme": "intentionalitaet",
   "commentary": "heidegger-ga-20-prolegomena-zur-geschichte-des-zeitbegriffs-commentary",
   "source_sha256": "30416fcea761ee439a1e714cce8c61ed361ef1ef9e776b844fe15ad7cf060e0c",
-  "extracted_at": "2026-09-08",
+  "extracted_at": "2026-09-15",
   "extractor": {
     "agent": "claude-code",
     "prompt": "prompts/extraction-prompt.md",
-    "note": "source_sha256 is the LF digest (CRLF checkout; local validate reports a false staleness, CI on LF passes). Closely read SS 5-6 (Intentionality; Categorial intuition) and SS 11-13 (the immanent critique: the four determinations of pure consciousness, the neglect of the being of the intentional, the neglect of the sense of being). Not read: SS 4, 7-10 (the situation of philosophy, evidence/apriori, the principle of phenomenology, the clarification of the name) and the whole Main Part on time. Chronology already resolved (1925). There is also a sorge extraction and an inheritance record for this commentary."
+    "note": "source_sha256 is the LF digest (CRLF checkout; local validate reports a false staleness, CI on LF passes). Closely read SS 5-6 (Intentionality; Categorial intuition) and SS 11-13 (the immanent critique: the four determinations of pure consciousness, the neglect of the being of the intentional, the neglect of the sense of being). Not read: SS 4, 7-10 (the situation of philosophy, evidence/apriori, the principle of phenomenology, the clarification of the name) and the whole Main Part on time. Chronology already resolved (1925). There is also a sorge extraction and an inheritance record for this commentary.",
+    "model": "claude-opus-5"
   },
   "coverage": "partial",
-  "coverage_note": "Covers SS 5-6 and SS 11-13 of the Preparatory Part: intentionality as a structure of lived experience, the critics' mislocation of the phenomenon, the perceived in its how and bodily presence, the critique of the image-theory, intentio/intentum mutual belonging and fulfillment, the critique of Brentano, categorial intuition and the objectivity of the ideal, synthesis and ideation as object-giving, 'constituting is letting-be-seen', the identity of scientific ontology and phenomenology, the four barred being-determinations of pure consciousness, and the double neglect (being of the acts / sense of being) grounded in Dasein's falling. Not covered: SS 4, 7-10 and the Main Part on the time-phenomenon.",
+  "coverage_note": "Covers §§ 5-6 and §§ 11-13 of the Preparatory Part: intentionality as a structure of lived experience, the critics' mislocation of the phenomenon, the perceived in its how and bodily presence, the critique of the image-theory, intentio/intentum mutual belonging and fulfillment, the critique of Brentano, categorial intuition and the objectivity of the ideal, synthesis and ideation as object-giving, 'constituting is letting-be-seen', the identity of scientific ontology and phenomenology, the four barred being-determinations of pure consciousness, and the double neglect (being of the acts / sense of being) grounded in Dasein's falling. Extended 2026-09-15 to the sections gap-012 named: § 4 for Brentano's intentional in-existence and the Scholastic sense of intentio; § 8 for intentionality as the basic field, the field of research as intentionality in its apriori taken in both directions, logic as only a narrow sphere within it, the formula 'phenomenology is analytic description of intentionality in its apriori', and the rejection of descriptive psychology; § 9 for the structures of intentionality in its apriori as the phenomena, the sense of 'phenomenal', and the separation of phenomenon from appearance; § 10 for intentionality as determining the experience-region and directing-oneself-toward as wider than grasping; and § 7 as a recorded absence. Not covered: the Main Part on the time-phenomenon, and §§ 1-3 and the remainder of § 4's account of nineteenth-century philosophy and the sciences, keyword-scanned only.",
   "units": [
     {
       "id": "intentionalitaet/ga20/001",
@@ -191,7 +192,118 @@
       "status": "criticized",
       "claim": "Phenomenology is, in the basic task of determining its ownmost field, unphenomenological while taking itself to be phenomenological, because behind all its titles for the intentional stands the traditional definition animal rationale, and this neglect is not a chance negligence but an event of Dasein's own falling.",
       "quote": "Phenomenology is therefore, in the basic task of determining its ownmost field, *un*phenomenological — while *taking itself* to be phenomenological."
+    },
+    {
+      "id": "intentionalitaet/ga20/021",
+      "locator": "heidegger-ga-20-prolegomena-zur-geschichte-des-zeitbegriffs-commentary#h4-s-4-the-situation-of-philosophy-in-the-second-half-of-the-nineteenth-century-phi",
+      "primary_locator": "GA 20 § 4",
+      "term": "intentional in-existence",
+      "status": "introduced",
+      "claim": "Brentano calls the basic structure by which psychic phenomena are distinguished from physical ones - that something objective dwells in every experience - intentional in-existence.",
+      "quote": "This basic structure, that something objective dwells in every experience, Brentano calls *intentional in-existence*."
+    },
+    {
+      "id": "intentionalitaet/ga20/022",
+      "locator": "heidegger-ga-20-prolegomena-zur-geschichte-des-zeitbegriffs-commentary#h4-s-4-the-situation-of-philosophy-in-the-second-half-of-the-nineteenth-century-phi",
+      "primary_locator": "GA 20 § 4",
+      "term": "intentio (scholastic expression)",
+      "status": "introduced",
+      "claim": "Intentio is recorded as a scholastic expression meaning directedness-toward, with Brentano stressing that Aristotle already laid this point of view at the basis of his treatment of the psychic and that scholasticism took up the phenomenon.",
+      "quote": "\"Intentio\" is a scholastic expression meaning directedness-toward; Brentano speaks of the intentional in-existence of the object, and stresses that Aristotle already laid this point of view at the basis of his treatment of the psychic and that scholasticism took up the phenomenon."
+    },
+    {
+      "id": "intentionalitaet/ga20/023",
+      "locator": "heidegger-ga-20-prolegomena-zur-geschichte-des-zeitbegriffs-commentary#h4-s-8-the-principle-of-phenomenology",
+      "primary_locator": "GA 20 § 8",
+      "term": "intentionality as basic field",
+      "status": "introduced",
+      "claim": "Intentionality is the basic field in which the objects of logic are findable, the totality of comportments and the totality of beings in their being.",
+      "quote": "Intentionality is the basic field in which the objects of logic (meaning, concept, assertion, proposition, judgment, state-of-affairs, objectivity, fact, law, being) are findable — the totality of comportments and the totality of beings in their being."
+    },
+    {
+      "id": "intentionalitaet/ga20/024",
+      "locator": "heidegger-ga-20-prolegomena-zur-geschichte-des-zeitbegriffs-commentary#h4-s-8-the-principle-of-phenomenology",
+      "primary_locator": "GA 20 § 8",
+      "term": "intentionality in its apriori",
+      "status": "introduced",
+      "claim": "The field of phenomenological research is intentionality in its apriori, taken in both directions, intentio and intentum.",
+      "quote": "So the field of phenomenological research is *intentionality in its apriori*, taken in both directions."
+    },
+    {
+      "id": "intentionalitaet/ga20/025",
+      "locator": "heidegger-ga-20-prolegomena-zur-geschichte-des-zeitbegriffs-commentary#h4-s-8-the-principle-of-phenomenology",
+      "primary_locator": "GA 20 § 8",
+      "term": "logical comportments as a narrow sphere",
+      "status": "introduced",
+      "claim": "The so-called logical comportments of thinking and of objectifying theoretical knowing make up only a narrow sphere within intentionality, and the task-circle of logic in no way exhausts the region.",
+      "quote": "From which it follows that the so-called logical comportments of thinking, of objectifying theoretical knowing, make up only a *narrow* sphere within intentionality; the task-circle of logic in no way exhausts the region."
+    },
+    {
+      "id": "intentionalitaet/ga20/026",
+      "locator": "heidegger-ga-20-prolegomena-zur-geschichte-des-zeitbegriffs-commentary#h4-s-8-the-principle-of-phenomenology",
+      "primary_locator": "GA 20 § 8",
+      "term": "analytic description of intentionality in its apriori",
+      "status": "introduced",
+      "claim": "The clarification of the principle yields the formula that phenomenology is analytic description of intentionality in its apriori.",
+      "quote": "The clarification thus yields the formula: **phenomenology is analytic description of intentionality in its apriori."
+    },
+    {
+      "id": "intentionalitaet/ga20/027",
+      "locator": "heidegger-ga-20-prolegomena-zur-geschichte-des-zeitbegriffs-commentary#h4-s-8-the-principle-of-phenomenology",
+      "primary_locator": "GA 20 § 8",
+      "term": "descriptive psychology (rejected)",
+      "status": "criticized",
+      "claim": "Hearing in intentionality what the tradition binds to it, the psychic, makes phenomenology a descriptive psychology and a mere pre-science for the traditional disciplines, a self-misunderstanding the course rejects.",
+      "quote": "If one hears in \"intentionality\" what the tradition binds to it — intentionality and the *psychic* — then phenomenology becomes description of the psychic, \"descriptive psychology,\""
+    },
+    {
+      "id": "intentionalitaet/ga20/028",
+      "locator": "heidegger-ga-20-prolegomena-zur-geschichte-des-zeitbegriffs-commentary#h4-s-9-the-clarification-of-the-name-phenomenology",
+      "primary_locator": "GA 20 § 9",
+      "term": "phenomenon",
+      "status": "introduced",
+      "claim": "Because phenomenology treats intentionality in its apriori, the structures of intentionality in its apriori are the phenomena, delimiting the objects to be made present at themselves.",
+      "quote": "Since phenomenology treats intentionality in its *apriori*, the structures of intentionality in its *apriori* *are* the phenomena: they delimit the objects to be made present at themselves and explicated in that presence."
+    },
+    {
+      "id": "intentionalitaet/ga20/029",
+      "locator": "heidegger-ga-20-prolegomena-zur-geschichte-des-zeitbegriffs-commentary#h4-s-9-the-clarification-of-the-name-phenomenology",
+      "primary_locator": "GA 20 § 9",
+      "term": "phenomenal",
+      "status": "introduced",
+      "claim": "Phenomenon says nothing about the being of these objects but only their mode of encounter, and phenomenal is whatever becomes visible in this mode and belongs to the structural nexus of intentionality.",
+      "quote": "\"Phenomenon\" says nothing about the *being* of these objects, only their *mode of encounter*; \"phenomenal\" is whatever becomes visible in this mode and belongs to the structural nexus of intentionality;"
+    },
+    {
+      "id": "intentionalitaet/ga20/030",
+      "locator": "heidegger-ga-20-prolegomena-zur-geschichte-des-zeitbegriffs-commentary#h4-s-9-the-clarification-of-the-name-phenomenology",
+      "primary_locator": "GA 20 § 9",
+      "term": "appearance (distinguished)",
+      "status": "introduced",
+      "claim": "Phenomenology, as science of the apriori phenomena of intentionality, has never to do with appearances, let alone mere appearances.",
+      "quote": "Phenomenology, as science of the apriori phenomena of intentionality, therefore has *never* to do with appearances, let alone mere appearances."
+    },
+    {
+      "id": "intentionalitaet/ga20/031",
+      "locator": "heidegger-ga-20-prolegomena-zur-geschichte-des-zeitbegriffs-commentary#h4-s-10-the-working-out-of-the-thematic-field",
+      "primary_locator": "GA 20 § 10",
+      "term": "directing-oneself-toward wider than grasping",
+      "status": "introduced",
+      "claim": "Intentionality determines the experience-region, but the being-objective of the world in experience is not the same as being-grasped, and directing-oneself-toward is wider than grasping.",
+      "quote": "Intentionality was already seen to determine the experience-region: in experiences the transcendent world is in a certain way *there*, but — a guard against narrowing — this being-objective of the world is not the same as being-*grasped*."
     }
   ],
-  "absences": []
+  "absences": [
+    {
+      "locator": "heidegger-ga-20-prolegomena-zur-geschichte-des-zeitbegriffs-commentary#h4-s-7-the-original-sense-of-the-apriori",
+      "expected_because": "The apriori is expounded here as the third of phenomenology's fundamental discoveries, and the very next section names the field of phenomenological research 'intentionality in its apriori' and defines phenomenology as its analytic description. The exposition of the apriori itself runs without the term.",
+      "absent_terms": [
+        "Intentionalität",
+        "intentionality",
+        "intentional",
+        "intentio"
+      ],
+      "note": "The section argues the apriori is no title of comportment but a title of being, indifferent to subjectivity, and reaches that result through ideation and categorial intuition rather than through intentionality. So the tie between the apriori and intentionality is made at § 8, not here."
+    }
+  ]
 }

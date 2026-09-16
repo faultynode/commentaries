@@ -4,13 +4,22 @@
 
 *Partly worked already: commentaries/heidegger/heidegger-husserl-intentionality-article.md is a Stage 4 output written before this pipeline existed. Extract the commentaries, not that article.*
 
-578 units and 3 recorded absences from 29 commentaries.
+627 units and 16 recorded absences from 33 commentaries.
 
 ## Primary corpus, by composition or delivery date
 
 ### 1901 to 1913 - Husserl, Hua 19/1 — Fifth Logical Investigation
 
 `husserliana-19-1-fifth-logical-investigation-commentary`
+
+#### Second, revised edition (Logische Untersuchungen II/1, 1913)
+
+- **introduced** · `intentionalitaet/hua19-1/022` · *real (reell) content / intentional content*
+  A second-edition footnote records that the description of the intentional objectivity as such represents another direction of purely intuitive, adequate description that must also be called phenomenological.
+  `husserliana-19-1-fifth-logical-investigation-commentary#h3-s16-distinction-between-descriptive-and-intentional-content` · LU V § 16 · [§16. Distinction between descriptive and intentional content](https://faultynode.github.io/commentaries/commentaries/husserl/husserliana-19-1-fifth-logical-investigation-commentary.html#distinction-between-descriptive-and-intentional-content)
+  > the description of the *intentional objectivity as such* (taken as it is conscious in the concrete act-experience) represents *another direction* of purely intuitive, adequate description, which must *also* be called phenomenological.
+
+#### Stratum not assigned by the commentary
 
 - **introduced** · `intentionalitaet/hua19-1/001` · *psychic phenomenon / act*
   The value of Brentano's concept is independent of his classificatory ends: a sharply delimited class of experiences here confronts us, embracing everything that in a pregnant sense characterizes psychic conscious existence.
@@ -116,11 +125,6 @@
   The mere word "feeling" spans two essentially different genera, the pain- and pleasure-sensations and the acts of liking and disliking, between which there is no generic community but only equivocation.
   `husserliana-19-1-fifth-logical-investigation-commentary#h3-s15-whether-experiences-of-one-and-the-same-phenomenological-genus-and-especiall` · LU V § 15 · [§15. Whether experiences of one and the same phenomenological genus (and especially the genus feeling) can be partly acts and partly non-acts](https://faultynode.github.io/commentaries/commentaries/husserl/husserliana-19-1-fifth-logical-investigation-commentary.html#whether-experiences-of-one-and-the-same-phenomenological-genus-and-especially-the-genus-feeling-can-be-partly-acts-and-partly-non-acts)
   > The mere word "feeling" spans two essentially different genera.
-
-- **introduced** · `intentionalitaet/hua19-1/022` · *real (reell) content / intentional content*
-  A second-edition footnote records that the description of the intentional objectivity as such represents another direction of purely intuitive, adequate description that must also be called phenomenological.
-  `husserliana-19-1-fifth-logical-investigation-commentary#h3-s16-distinction-between-descriptive-and-intentional-content` · LU V § 16 · [§16. Distinction between descriptive and intentional content](https://faultynode.github.io/commentaries/commentaries/husserl/husserliana-19-1-fifth-logical-investigation-commentary.html#distinction-between-descriptive-and-intentional-content)
-  > the description of the *intentional objectivity as such* (taken as it is conscious in the concrete act-experience) represents *another direction* of purely intuitive, adequate description, which must *also* be called phenomenological.
 
 - **introduced** · `intentionalitaet/hua19-1/023` · *three concepts of intentional content*
   Three concepts of intentional content are to be distinguished: the intentional object of the act, its intentional matter in contrast to its intentional quality, and its intentional essence.
@@ -249,6 +253,8 @@
 
 `husserliana-28-vorlesungen-uber-ethik-und-wertlehre-commentary`
 
+#### Grundprobleme der Ethik und Wertlehre, 1911 (Part B: Einleitung and Schlußstück)
+
 - **introduced** · `intentionalitaet/hua28/001` · *judging as meaning / Urmodus of belief*
   Judging is meaning, believing meaning, and the primal mode (Urmodus) of belief is certainty or being-certain, of which the modes of being-uncertain, solicitation-as-probable, doubt, and rejection are modalizations.
   `husserliana-28-vorlesungen-uber-ethik-und-wertlehre-commentary#h3-s-8-the-distinctions-underlying-the-logical-and-noetic-disciplines-between-act-a` · Hua XXVIII, Einleitung § 8 · [§ 8\. The Distinctions Underlying the Logical and Noetic Disciplines: between Act as Meaning and as Meaning-Content, between Proposition-Matter and Proposition-Quality, between the Primal Mode of Belief and Its Modalizations](https://faultynode.github.io/commentaries/commentaries/husserl/husserliana-28-vorlesungen-uber-ethik-und-wertlehre-commentary.html#the-distinctions-underlying-the-logical-and-noetic-disciplines-between-act-as-meaning-and-as-meaning-content-between-proposition-matter-and-proposition-quality-between-the-primal-mode-of-belief-and-its-modalizations)
@@ -263,6 +269,8 @@
   Willing and wishing are meaning just as belief is, with a will-meaning and a wish-meaning as their correlates, only that the meaning here is not a being-meaning (a meaning that something is) but a meaning that something shall be.
   `husserliana-28-vorlesungen-uber-ethik-und-wertlehre-commentary#h3-s-8-the-distinctions-underlying-the-logical-and-noetic-disciplines-between-act-a` · Hua XXVIII, Einleitung § 8 · [§ 8\. The Distinctions Underlying the Logical and Noetic Disciplines: between Act as Meaning and as Meaning-Content, between Proposition-Matter and Proposition-Quality, between the Primal Mode of Belief and Its Modalizations](https://faultynode.github.io/commentaries/commentaries/husserl/husserliana-28-vorlesungen-uber-ethik-und-wertlehre-commentary.html#the-distinctions-underlying-the-logical-and-noetic-disciplines-between-act-as-meaning-and-as-meaning-content-between-proposition-matter-and-proposition-quality-between-the-primal-mode-of-belief-and-its-modalizations)
   > Willing too is meaning, wishing too is meaning, and correlatively the will-meaning, the wish-meaning corresponds to them; only the meaning here is not a being-meaning, a meaning that something is, but a meaning that something shall be.
+
+#### Vorlesungen über Grundfragen zur Ethik und Wertlehre, 1914 (Part A)
 
 - **introduced** · `intentionalitaet/hua28/004` · *founding of valuing on objectivating acts*
   To every valuing act there necessarily underlie intellective, objectivating acts (presenting, judging, or surmising) in which the valued objectivities become presented and stand as being or non-being, and this founding is not merely psychological but belongs to the essence of the valuing act insofar as it constitutes the value-appearance.
@@ -369,7 +377,7 @@
   `husserliana-28-vorlesungen-uber-ethik-und-wertlehre-commentary#h3-s-21-the-objectivity-of-the-practical-possibilities-and-their-relativity-to-the` · Hua XXVIII, Part IV § 21 · [§ 21\. The Objectivity of the Practical Possibilities and Their Relativity to the Subject. The Convenience or Inconvenience Grounded in the Essence of the Will-Act. The Components of Perfect Will-Rightness](https://faultynode.github.io/commentaries/commentaries/husserl/husserliana-28-vorlesungen-uber-ethik-und-wertlehre-commentary.html#the-objectivity-of-the-practical-possibilities-and-their-relativity-to-the-subject-the-convenience-or-inconvenience-grounded-in-the-essence-of-the-will-act-the-components-of-perfect-will-rightness)
   > a peculiar saturation of the judgment-intention, a saturation by the goal itself, an inner fulfilledness of the adequation of the meaning in the givenness of the meant.
 
-*Partial pass: Covers the act-theoretic and intentionality-relevant core: judging as meaning and the primal mode of belief, proposition-matter and proposition-quality, the transposition of the whole apophantic apparatus (act/meaning, matter/quality, Urthesis/modalization) to the will and the emotive acts; the doctrine that valuing acts are founded in objectivating acts yet are directed upon values rather than upon objects; the wish/will distinction (distinct genera, not species of one genus), the will as a being-modalization confined to the real and the future, the will as creative positing that first confers certainty of being and reverses the founding relation to belief, the will directed on the future as a creative intention fulfilling itself in action, the temporal structure of the action-will modeled on time-consciousness, the parallel Formenlehre of will-modalities, the will-question and its intention upon a will-answer, practical deliberation and choice as the performance of a will-question, affirmation and negation as modalizations pointing back to an unperformed position, will-negation and omission, the subject-relativity of practical possibilities, and insight as a saturation of the intention. Not covered: formal axiology and formal Praktik proper (motivation-laws, value-comparison, the will-laws of choice and the absorption-law), the parallelism-of-logic-and-ethics argument, and the 1911 course on the idea of philosophy.*
+*Partial pass: Covers the act-theoretic and intentionality-relevant core: judging as meaning and the primal mode of belief, proposition-matter and proposition-quality, the transposition of the whole apophantic apparatus (act/meaning, matter/quality, Urthesis/modalization) to the will and the emotive acts; the doctrine that valuing acts are founded in objectivating acts yet are directed upon values rather than upon objects; the wish/will distinction (distinct genera, not species of one genus), the will as a being-modalization confined to the real and the future, the will as creative positing that first confers certainty of being and reverses the founding relation to belief, the will directed on the future as a creative intention fulfilling itself in action, the temporal structure of the action-will modeled on time-consciousness, the parallel Formenlehre of will-modalities, the will-question and its intention upon a will-answer, practical deliberation and choice as the performance of a will-question, affirmation and negation as modalizations pointing back to an unperformed position, will-negation and omission, the subject-relativity of practical possibilities, and insight as a saturation of the intention. Not covered: formal axiology and formal Praktik proper (motivation-laws, value-comparison, the will-laws of choice and the absorption-law), the parallelism-of-logic-and-ethics argument, and, of the 1911 course of Part B, everything but Einleitung § 8 - that is, Einleitung §§ 1-7, the Schlußstück and Beilagen III-VII. The record spans two courses: units 001-003 come from Einleitung § 8 of the 1911 course (Part B), the remaining 21 from the 1914 course (Part A), and each unit now carries the stratum of the course its section falls in.*
 
 ### 1911 - Husserl, Hua 43/2 — Studien zur Struktur des Bewusstseins
 
@@ -1260,6 +1268,37 @@
 
 *Partial pass: Covers the intentionality-relevant core of Hua XXXIX's analysis of the pre-given world: the actual-validity structure of the thematic act and the primal institution (Urstiftung) of a horizon of continuing validity; typification and the overlay of a sedimented sense-schema on every new experience, primal institution according to type, horizons as motivated act-possibilities, and 'being' as a title that has sense only from primal-instituting acts; intentional analysis as evident, right-bestowing interpretation; the sensation-datum as an already-constituted intentional objectuality, the stratified architecture of relative hyle, primary vs. secondary (implicit) objectualities, the privilege of the worldly and the worldlicization of the subjective, the order-bound character of constitutive reflection, and the character of familiarity; the Durchgang/Ende distinction between a gaze that passes through transitional unities and one that terminates at the thing, the objective background as a positively constituted apperceptive field, functioning intentionality with sensation-data as mere transit, and the infinite openness of the end-object; the pre-givenness of the world, the ineffective horizon of the 'unconscious' as a genuinely intentional horizon, horizon-meaning as indeterminate determinability through objects, founded intentionalities as the medium of world-transformation, intersubjectivity as an intra-egoic constitutive achievement, and the empathy-horizon as validity-horizon; and the horizon as original induction / perception through apperception. Not covered: the detailed world-constitution, orientation, apodicticity, reality-structure, praxis, and temporal-constitution analyses of the rest of the volume.*
 
+### 1921-1922 - Heidegger, GA 61 — Phenomenological Interpretations of Aristotle
+
+`heidegger-ga-61-phenomenological-interpretations-of-aristotle-commentary`
+
+- **criticized** · `intentionalitaet/ga61/001` · *objectified intentionality*
+  Comportment's second sense, relation (Bezug), becomes objectified intentionality when it is detached from the first sense, enactment (Vollzug).
+  `heidegger-ga-61-phenomenological-interpretations-of-aristotle-commentary#h4-b-comportment` · [B. Comportment](https://faultynode.github.io/commentaries/commentaries/heidegger/heidegger-ga-61-phenomenological-interpretations-of-aristotle-commentary.html#b-comportment)
+  > The second is relation (*Bezug*), and detached from the first, it becomes objectified intentionality.
+
+- **introduced** · `intentionalitaet/ga61/002` · *intentionality as formal primal structure of facticity*
+  Praestruktion and relucence are said to be the expression of intentionality, the formal primal structure of facticity, that is, of the sense of being of life.
+  `heidegger-ga-61-phenomenological-interpretations-of-aristotle-commentary#h3-chapter-2-ruinance` · [Chapter 2: Ruinance](https://faultynode.github.io/commentaries/commentaries/heidegger/heidegger-ga-61-phenomenological-interpretations-of-aristotle-commentary.html#chapter-2-ruinance)
+  > praestruktion and relucence are the expression of intentionality — the formal primal structure of facticity (of the sense of being of life)
+
+- **criticized** · `intentionalitaet/ga61/003` · *intentionality (its ultimacy in question)*
+  The course asks whether intentionality is fallen from heaven and in what ultimacy it is to be accepted if it is something ultimate, and says it is not secured in a specific theoretical discoverability and experienceability.
+  `heidegger-ga-61-phenomenological-interpretations-of-aristotle-commentary#h3-chapter-2-ruinance` · [Chapter 2: Ruinance](https://faultynode.github.io/commentaries/commentaries/heidegger/heidegger-ga-61-phenomenological-interpretations-of-aristotle-commentary.html#chapter-2-ruinance)
+  > Is intentionality fallen from heaven? If it is something ultimate, in what ultimacy is it to be accepted? Not secured in a specific theoretical discoverability and experienceability.
+
+- **introduced** · `intentionalitaet/ga61/004` · *intentionality as fundamental sense of phenomenology*
+  Intentionality is the formal fundamental structure of all categorial structures of facticity, and this is called the fundamental sense of phenomenology.
+  `heidegger-ga-61-phenomenological-interpretations-of-aristotle-commentary#h3-chapter-2-ruinance` · [Chapter 2: Ruinance](https://faultynode.github.io/commentaries/commentaries/heidegger/heidegger-ga-61-phenomenological-interpretations-of-aristotle-commentary.html#chapter-2-ruinance)
+  > Correspondingly for all categorial structures of facticity — intentionality is their formal fundamental structure. This is the fundamental sense of phenomenology.
+
+- **introduced** · `intentionalitaet/ga61/005` · *intentionality (destructive-historical task)*
+  The destructive and leading intellectual-historical task is how far intentionality has been seen, in what direction and with what means it has been reinterpreted, what hindered its appropriation, and how far it became graspable through Husserl via consciousness.
+  `heidegger-ga-61-phenomenological-interpretations-of-aristotle-commentary#h3-chapter-2-ruinance` · [Chapter 2: Ruinance](https://faultynode.github.io/commentaries/commentaries/heidegger/heidegger-ga-61-phenomenological-interpretations-of-aristotle-commentary.html#chapter-2-ruinance)
+  > how far intentionality has been seen, in what direction and with what means it has been reinterpreted, what has hindered its appropriation. How and how far it became graspable through Husserl via consciousness.
+
+*Partial pass: Covers the two places in this course where intentionality does argumentative work: the Comportment section of Part II, where relation detached from enactment is called objectified intentionality, and the bracketed reflection on ruinance and intentionality in Part III Chapter 2, where intentionality is the formal primal structure of facticity and the formal fundamental structure of all categorial structures of facticity, where its ultimacy is put in question ('Is intentionality fallen from heaven?'), and where the destructive-historical task of asking how far it has been seen and how it became graspable through Husserl via consciousness is set. Not covered: the Aristotle interpretation and the account of philosophical definition, the categories of factical life beyond their tie to intentionality, and the whole of Part I, all keyword-scanned only for this theme.*
+
 ### 1921 - Husserl, Hua 19/2 — Sixth Logical Investigation
 
 `husserliana-19-2-sixth-logical-investigation-commentary`
@@ -1386,6 +1425,52 @@
 
 *Partial pass: Covers the Introduction and the First Section's core doctrine plus the opening of the categorial-intuition analysis: intention/fulfilment as the master contrast, the objectifying acts defined by the identification-character of their fulfilment-syntheses, static vs. dynamic fulfilment and the doubt whether identifying coincidence is already an act of identification, the free/bound modification of the intention, perception as a web of partial intentions, disappointment as a synthesis of distinction, the founding of non-objectifying (e.g. wish-) fulfilment on an identification, fulfilment as intuitivization toward the 'itself', the doctrine of fullness as a third moment beside quality and matter, pure intuition vs. pure signification, the theory of representation (apprehension-matter/sense, apprehension-form, apprehended content), representation as the ultimate substratum of every act, meaningful vs. cognitive essence and the fulfilling sense, the adaequatio rei et intellectus as ideal of ultimate fulfilment, evidence and the fourfold concept of truth, 'is' and 'is not' as matter-differences, 'being is no real predicate', and categorial objectivities as given only in founded acts. Not covered: the compatibility/incompatibility chapter, the detailed theory of categorial representation, the laws of genuine and improper thinking, and the Third Section on non-objectifying acts.*
 
+### 1923-1924 - Heidegger, GA 17 — Einführung in die phänomenologische Forschung
+
+`heidegger-ga-17-einfuhrung-in-die-phanomenologische-forschung-commentary`
+
+- **introduced** · `intentionalitaet/ga17/001` · *act / intentional lived experience*
+  Acts are identical with intentional lived experience, and 'act' bounds a genus within the whole sphere of lived experiences called consciousness.
+  `heidegger-ga-17-einfuhrung-in-die-phanomenologische-forschung-commentary#h4-s-5-the-theme-consciousness-in-the-logical-investigations` · GA 17 § 5 · [§ 5\. The theme "consciousness" in the Logical Investigations](https://faultynode.github.io/commentaries/commentaries/heidegger/heidegger-ga-17-einfuhrung-in-die-phanomenologische-forschung-commentary.html#the-theme-consciousness-in-the-logical-investigations)
+  > Acts are identical with *intentional lived experience*, and "act" bounds a genus within the whole sphere of Erlebnisse called consciousness.
+
+- **revised** · `intentionalitaet/ga17/002` · *act (narrowed after the Investigations)*
+  After the Logical Investigations Husserl narrowed 'act' to those intentional experiences marked by the express ego-cogito, distinguishing them from non-act intentional experiences such as background-experiences.
+  `heidegger-ga-17-einfuhrung-in-die-phanomenologische-forschung-commentary#h4-s-5-the-theme-consciousness-in-the-logical-investigations` · GA 17 § 5 · [§ 5\. The theme "consciousness" in the Logical Investigations](https://faultynode.github.io/commentaries/commentaries/heidegger/heidegger-ga-17-einfuhrung-in-die-phanomenologische-forschung-commentary.html#the-theme-consciousness-in-the-logical-investigations)
+  > after the *Investigations* Husserl narrowed "act" to those intentional experiences marked by the express *ego-cogito*, distinguishing them from non-act intentional experiences like background-experiences
+
+- **introduced** · `intentionalitaet/ga17/003` · *cogitatio / intentio*
+  Descartes' cogitatio is equated with intentio - everything happening in us of which we are conscious - and is called nearly the phenomenological concept of intentional lived experience.
+  `heidegger-ga-17-einfuhrung-in-die-phanomenologische-forschung-commentary#h4-s-24-the-cogito-sum-the-clara-et-distincta-perceptio-and-the-task-of-an-ontologi` · GA 17 § 24 · [§ 24\. The cogito sum, the clara et distincta perceptio, and the task of an ontological securing of the truth-criterion](https://faultynode.github.io/commentaries/commentaries/heidegger/heidegger-ga-17-einfuhrung-in-die-phanomenologische-forschung-commentary.html#the-cogito-sum-the-clara-et-distincta-perceptio-and-the-task-of-an-ontological-securing-of-the-truth-criterion)
+  > *Cogitatio* equals *intentio*: everything that happens in us of which we are conscious, so far as there is consciousness of it in us — nearly the phenomenological concept of intentional lived experience.
+
+- **criticized** · `intentionalitaet/ga17/004` · *intentionality as theoretical comporting (Meinen)*
+  The first of three disfigurements is that intentionality is grasped as a specific theoretical comporting, rendered Meinen, with theoretical meaning claimed as the foundation of every complex intentional nexus.
+  `heidegger-ga-17-einfuhrung-in-die-phanomenologische-forschung-commentary#h4-ss-48-49-husserl-s-disfiguring-verunstaltung-of-the-phenomenological-findings-th` · GA 17 §§ 48-49 · [§§ 48–49. Husserl's disfiguring (Verunstaltung) of the phenomenological findings through the care of certainty inherited from Descartes; the research into the origin-history of the categories](https://faultynode.github.io/commentaries/commentaries/heidegger/heidegger-ga-17-einfuhrung-in-die-phanomenologische-forschung-commentary.html#husserls-disfiguring-verunstaltung-of-the-phenomenological-findings-through-the-care-of-certainty-inherited-from-descartes-the-research-into-the-origin-history-of-the-categories)
+  > First, *intentionality* is grasped — less expressly than inexpressly — as a *specific theoretical comporting*: intentionality gets rendered "meaning" (Meinen), and it is claimed that for every complex intentional nexus *theoretical meaning* forms the foundation
+
+- **criticized** · `intentionalitaet/ga17/005` · *founding of willing and loving on representing*
+  The claim that every willing, loving and hating is founded on a representing that first gives the will-able and the love-able is called a methodological mistake that analogizes emotional experience to knowing.
+  `heidegger-ga-17-einfuhrung-in-die-phanomenologische-forschung-commentary#h4-ss-48-49-husserl-s-disfiguring-verunstaltung-of-the-phenomenological-findings-th` · GA 17 §§ 48-49 · [§§ 48–49. Husserl's disfiguring (Verunstaltung) of the phenomenological findings through the care of certainty inherited from Descartes; the research into the origin-history of the categories](https://faultynode.github.io/commentaries/commentaries/heidegger/heidegger-ga-17-einfuhrung-in-die-phanomenologische-forschung-commentary.html#husserls-disfiguring-verunstaltung-of-the-phenomenological-findings-through-the-care-of-certainty-inherited-from-descartes-the-research-into-the-origin-history-of-the-categories)
+  > that every willing, loving, hating is founded on a *representing* that first gives the will-able, the hate- and love-able. This is a methodological mistake — analogizing the study of emotional experiences to knowing
+
+- **criticized** · `intentionalitaet/ga17/006` · *intentionality cut back to its limits*
+  From the ground-phenomenon of Verdrehung, intentionality as consciousness's ground-character is cut back to its limits, the limits of its interpretive function.
+  `heidegger-ga-17-einfuhrung-in-die-phanomenologische-forschung-commentary#h4-s-50-repetition-of-the-traversed-characters-of-the-care-of-knowing-and-the-exhib` · GA 17 § 50 · [§ 50\. Repetition of the traversed characters of the care of knowing, and the exhibition of Dasein itself](https://faultynode.github.io/commentaries/commentaries/heidegger/heidegger-ga-17-einfuhrung-in-die-phanomenologische-forschung-commentary.html#repetition-of-the-traversed-characters-of-the-care-of-knowing-and-the-exhibition-of-dasein-itself)
+  > from it, intentionality — consciousness's ground-character — is *cut back to its limits*, the limits of its interpretive function
+
+- **criticized** · `intentionalitaet/ga17/007` · *anxiety (not a being-related-to-something)*
+  Joy, terror, grief and anxiety are phenomena missed when construed as intentionality, and anxiety cannot be grasped as a being-related-to-something but is a phenomenon of Dasein itself.
+  `heidegger-ga-17-einfuhrung-in-die-phanomenologische-forschung-commentary#h4-s-50-repetition-of-the-traversed-characters-of-the-care-of-knowing-and-the-exhib` · GA 17 § 50 · [§ 50\. Repetition of the traversed characters of the care of knowing, and the exhibition of Dasein itself](https://faultynode.github.io/commentaries/commentaries/heidegger/heidegger-ga-17-einfuhrung-in-die-phanomenologische-forschung-commentary.html#repetition-of-the-traversed-characters-of-the-care-of-knowing-and-the-exhibition-of-dasein-itself)
+  > it is the structural ground on which *joy, terror, grief, anxiety* become explicable, phenomena missed when construed as intentionality. *Anxiety* cannot be grasped as a being-related-to-something; it is a phenomenon of *Dasein itself*.
+
+- **criticized** · `intentionalitaet/ga17/008` · *consciousness as 'something relating to something'*
+  The being called consciousness is not something relating to something, a subject before an object, but a being that in its being-placed-toward the world co-cares for its own Dasein.
+  `heidegger-ga-17-einfuhrung-in-die-phanomenologische-forschung-commentary#h4-s-50-repetition-of-the-traversed-characters-of-the-care-of-knowing-and-the-exhib` · GA 17 § 50 · [§ 50\. Repetition of the traversed characters of the care of knowing, and the exhibition of Dasein itself](https://faultynode.github.io/commentaries/commentaries/heidegger/heidegger-ga-17-einfuhrung-in-die-phanomenologische-forschung-commentary.html#repetition-of-the-traversed-characters-of-the-care-of-knowing-and-the-exhibition-of-dasein-itself)
+  > The being one calls "consciousness" is not "something relating to something," a subject before an object; it is a being that, *in its being-placed-toward the world, co-cares for its own Dasein*
+
+*Partial pass: Covers the four sections where intentionality does argumentative work: § 5 on acts as intentional lived experiences and the post-Investigations narrowing of 'act' to the express ego-cogito; § 24 on Descartes' cogitatio as intentio; §§ 48-49 on the first of the three disfigurements, intentionality grasped as a specific theoretical comporting rendered Meinen and the founding of every willing, loving and hating on a representing; and § 50 on the cutting back of intentionality to the limits of its interpretive function, on joy, terror, grief and anxiety as phenomena missed when construed as intentionality, and on consciousness as not 'something relating to something'. Not covered: the Descartes interpretation as a whole, the care of knowing and the care of certainty except where they bear on intentionality, and the evidence and eidetic-reduction limbs of the §§ 48-49 critique, keyword-scanned only for this theme.*
+
 ### 1923-1924 - Husserl, Hua 7 — Erste Philosophie I
 
 `husserliana-7-erste-philosophie-i-commentary`
@@ -1476,6 +1561,32 @@
   > a *psychologism on the ground of such a phenomenological psychology* (and even one that had mistaken its a priori character) is *curable*.
 
 *Partial pass: Covers the Fifteenth to Seventeenth Lectures of the Second Chapter (critical disclosure of the problematic hidden in Locke): the pure I as identical non-real subject-pole, the intentional relation and the mere immanent object, the change of attitude that isolates the meant-as-meant, irreal (non-reell) immanence, synthesis as production of a unitary intentional objectivity, the double I/object polarization, the critique of the image- and sign-theory and of Berkeley's residual blindness to intentionality, empathy as the only route beyond one's own nature, true being as the idea of unbroken confirmation, sense-giving consciousness as source of all objective sense, and the curable psychologism / incurable sensualism distinction. Not covered: the First Chapter, the abstraction/intuition material of the Third Chapter, and the Hume, Berkeley, Leibniz and Kant lectures.*
+
+### 1924-1925 - Sophistes Commentary
+
+`heidegger-ga-19-platon-sophistes-commentary`
+
+#### Recorded absences
+
+- **absent** · `heidegger-ga-19-platon-sophistes-commentary#h5-a-the-five-modes-of-aletheyein-nic-eth-vi-3-aletheyein-as-the-ground-of-ontology`
+  Expected because: This is where the modes in which the soul discloses beings are enumerated and aletheuein is made the ground of ontology, with aletheia a determination of the being of Dasein. A reader of the Logical Investigations would expect that disclosive comportment toward beings to be put as intentional act-structure; the analysis runs in aletheuein, techne, episteme, phronesis, sophia and nous instead.
+  One occurrence of 'directedness' here, rendering the Greek, not Intentionalitaet.
+  [a) The five modes of ἀληθεύειν (Nic. Eth. VI, 3). ἀληθεύειν as the ground of ontology. ἀλήθεια as a determination of the being of Dasein (ἀληθεύει ἡ ψυχή)](https://faultynode.github.io/commentaries/commentaries/heidegger/heidegger-ga-19-platon-sophistes-commentary.html#a-the-five-modes-of--nic-eth-vi-3--as-the-ground-of-ontology--as-a-determination-of-the-being-of-dasein)
+
+- **absent** · `heidegger-ga-19-platon-sophistes-commentary#h4-s34-recapitulation-first-characterization-of-sophistry-delimitation-against-dial`
+  Expected because: The densest 'directedness' passage in the commentary: matter-directedness and un-matter-directedness carry the delimitation of sophistry from dialectic and philosophy. Directedness is one of this theme's search terms, so the section ranks high on term density while containing nothing of the theme.
+  Seven occurrences of 'directedness' and none of the theme's technical terms. The word renders Sachlichkeit / Unsachlichkeit - being directed to the matter at issue - not Intentionalitaet, and this section is why the commentary's term-density ranking for this theme is a false positive.
+  [§34. Recapitulation: First characterization of sophistry. Delimitation against dialectic and philosophy. The esteem of εὖ λέγειν: un-matter-directedness — matter-directedness](https://faultynode.github.io/commentaries/commentaries/heidegger/heidegger-ga-19-platon-sophistes-commentary.html#recapitulation-first-characterization-of-sophistry-delimitation-against-dialectic-and-philosophy-the-esteem-of---un-matter-directedness--matter-directedness)
+
+- **absent** · `heidegger-ga-19-platon-sophistes-commentary#h5-b-delimitation-of-dialectic-and-sophistry-against-first-philosophy-the-commonali`
+  Expected because: Philosophy, dialectic and sophistry are delimited here by their comportment toward a common object, the whole - gnoristike, peirastike and phainomene sophia. The differentiation of comportments by what they are directed at is the work intentionality does in the Husserl records on this ledger, and it is done here without the term.
+  [b) Delimitation of dialectic and sophistry against First Philosophy. The commonality of object: the "whole." The difference: philosophy = γνωριστική; dialectic = πειραστική; sophistry = φαινομένη σοφία (εὖ λέγειν)](https://faultynode.github.io/commentaries/commentaries/heidegger/heidegger-ga-19-platon-sophistes-commentary.html#b-delimitation-of-dialectic-and-sophistry-against-first-philosophy-the-commonality-of-object-the-whole-the-difference-philosophy---dialectic---sophistry)
+
+- **absent** · `heidegger-ga-19-platon-sophistes-commentary#h5-c-the-orthotes-of-eyboylia-the-thoroughgoing-directedness-toward-the-agathon`
+  Expected because: The section's own title names a thoroughgoing directedness toward the agathon, and the correctness of deliberation is analysed as an aiming that reaches its end. Intention and fulfilment is the Husserlian apparatus for exactly this, and it is not invoked.
+  [c) The ὀρθότης of εὐβουλία. The thoroughgoing directedness toward the ἀγαθόν](https://faultynode.github.io/commentaries/commentaries/heidegger/heidegger-ga-19-platon-sophistes-commentary.html#c-the--of--the-thoroughgoing-directedness-toward-the)
+
+*Partial pass: No units: the theme's technical terms do not occur in this commentary at all. Four absences are recorded at the sections where the theme was expected and where the term-density ranking pointed - the five modes of aletheuein, the recapitulation on matter-directedness and sophistry, the delimitation of dialectic and sophistry against First Philosophy, and the orthotes of euboulia. Not covered in the sense of a reading pass: the commentary was read only for this theme's terms and for the four sections named, so nothing here is a claim about the course's doctrine beyond the recorded absences. A structural pass - looking for the work intentionality does rather than for the word - is a separate task, as gap-004 says for sorge.*
 
 ### 1925 - Commentary on Heidegger, Prolegomena zur Geschichte des Zeitbegriffs (GA 20)
 
@@ -1581,7 +1692,69 @@
   `heidegger-ga-20-prolegomena-zur-geschichte-des-zeitbegriffs-commentary#h4-s-13-exhibiting-the-neglect-of-the-question-of-the-sense-of-being-itself-and-of` · GA 20 § 13 · [§ 13. Exhibiting the neglect of the question of the sense of being itself and of the being of the human](https://faultynode.github.io/commentaries/commentaries/heidegger/heidegger-ga-20-prolegomena-zur-geschichte-des-zeitbegriffs-commentary.html#exhibiting-the-neglect-of-the-question-of-the-sense-of-being-itself-and-of-the-being-of-the-human)
   > Phenomenology is therefore, in the basic task of determining its ownmost field, *un*phenomenological — while *taking itself* to be phenomenological.
 
-*Partial pass: Covers SS 5-6 and SS 11-13 of the Preparatory Part: intentionality as a structure of lived experience, the critics' mislocation of the phenomenon, the perceived in its how and bodily presence, the critique of the image-theory, intentio/intentum mutual belonging and fulfillment, the critique of Brentano, categorial intuition and the objectivity of the ideal, synthesis and ideation as object-giving, 'constituting is letting-be-seen', the identity of scientific ontology and phenomenology, the four barred being-determinations of pure consciousness, and the double neglect (being of the acts / sense of being) grounded in Dasein's falling. Not covered: SS 4, 7-10 and the Main Part on the time-phenomenon.*
+- **introduced** · `intentionalitaet/ga20/021` · *intentional in-existence*
+  Brentano calls the basic structure by which psychic phenomena are distinguished from physical ones - that something objective dwells in every experience - intentional in-existence.
+  `heidegger-ga-20-prolegomena-zur-geschichte-des-zeitbegriffs-commentary#h4-s-4-the-situation-of-philosophy-in-the-second-half-of-the-nineteenth-century-phi` · GA 20 § 4 · [§ 4. The situation of philosophy in the second half of the nineteenth century. Philosophy and the sciences](https://faultynode.github.io/commentaries/commentaries/heidegger/heidegger-ga-20-prolegomena-zur-geschichte-des-zeitbegriffs-commentary.html#the-situation-of-philosophy-in-the-second-half-of-the-nineteenth-century-philosophy-and-the-sciences)
+  > This basic structure, that something objective dwells in every experience, Brentano calls *intentional in-existence*.
+
+- **introduced** · `intentionalitaet/ga20/022` · *intentio (scholastic expression)*
+  Intentio is recorded as a scholastic expression meaning directedness-toward, with Brentano stressing that Aristotle already laid this point of view at the basis of his treatment of the psychic and that scholasticism took up the phenomenon.
+  `heidegger-ga-20-prolegomena-zur-geschichte-des-zeitbegriffs-commentary#h4-s-4-the-situation-of-philosophy-in-the-second-half-of-the-nineteenth-century-phi` · GA 20 § 4 · [§ 4. The situation of philosophy in the second half of the nineteenth century. Philosophy and the sciences](https://faultynode.github.io/commentaries/commentaries/heidegger/heidegger-ga-20-prolegomena-zur-geschichte-des-zeitbegriffs-commentary.html#the-situation-of-philosophy-in-the-second-half-of-the-nineteenth-century-philosophy-and-the-sciences)
+  > "Intentio" is a scholastic expression meaning directedness-toward; Brentano speaks of the intentional in-existence of the object, and stresses that Aristotle already laid this point of view at the basis of his treatment of the psychic and that scholasticism took up the phenomenon.
+
+- **introduced** · `intentionalitaet/ga20/023` · *intentionality as basic field*
+  Intentionality is the basic field in which the objects of logic are findable, the totality of comportments and the totality of beings in their being.
+  `heidegger-ga-20-prolegomena-zur-geschichte-des-zeitbegriffs-commentary#h4-s-8-the-principle-of-phenomenology` · GA 20 § 8 · [§ 8. The principle of phenomenology](https://faultynode.github.io/commentaries/commentaries/heidegger/heidegger-ga-20-prolegomena-zur-geschichte-des-zeitbegriffs-commentary.html#the-principle-of-phenomenology)
+  > Intentionality is the basic field in which the objects of logic (meaning, concept, assertion, proposition, judgment, state-of-affairs, objectivity, fact, law, being) are findable — the totality of comportments and the totality of beings in their being.
+
+- **introduced** · `intentionalitaet/ga20/024` · *intentionality in its apriori*
+  The field of phenomenological research is intentionality in its apriori, taken in both directions, intentio and intentum.
+  `heidegger-ga-20-prolegomena-zur-geschichte-des-zeitbegriffs-commentary#h4-s-8-the-principle-of-phenomenology` · GA 20 § 8 · [§ 8. The principle of phenomenology](https://faultynode.github.io/commentaries/commentaries/heidegger/heidegger-ga-20-prolegomena-zur-geschichte-des-zeitbegriffs-commentary.html#the-principle-of-phenomenology)
+  > So the field of phenomenological research is *intentionality in its apriori*, taken in both directions.
+
+- **introduced** · `intentionalitaet/ga20/025` · *logical comportments as a narrow sphere*
+  The so-called logical comportments of thinking and of objectifying theoretical knowing make up only a narrow sphere within intentionality, and the task-circle of logic in no way exhausts the region.
+  `heidegger-ga-20-prolegomena-zur-geschichte-des-zeitbegriffs-commentary#h4-s-8-the-principle-of-phenomenology` · GA 20 § 8 · [§ 8. The principle of phenomenology](https://faultynode.github.io/commentaries/commentaries/heidegger/heidegger-ga-20-prolegomena-zur-geschichte-des-zeitbegriffs-commentary.html#the-principle-of-phenomenology)
+  > From which it follows that the so-called logical comportments of thinking, of objectifying theoretical knowing, make up only a *narrow* sphere within intentionality; the task-circle of logic in no way exhausts the region.
+
+- **introduced** · `intentionalitaet/ga20/026` · *analytic description of intentionality in its apriori*
+  The clarification of the principle yields the formula that phenomenology is analytic description of intentionality in its apriori.
+  `heidegger-ga-20-prolegomena-zur-geschichte-des-zeitbegriffs-commentary#h4-s-8-the-principle-of-phenomenology` · GA 20 § 8 · [§ 8. The principle of phenomenology](https://faultynode.github.io/commentaries/commentaries/heidegger/heidegger-ga-20-prolegomena-zur-geschichte-des-zeitbegriffs-commentary.html#the-principle-of-phenomenology)
+  > The clarification thus yields the formula: **phenomenology is analytic description of intentionality in its apriori.
+
+- **criticized** · `intentionalitaet/ga20/027` · *descriptive psychology (rejected)*
+  Hearing in intentionality what the tradition binds to it, the psychic, makes phenomenology a descriptive psychology and a mere pre-science for the traditional disciplines, a self-misunderstanding the course rejects.
+  `heidegger-ga-20-prolegomena-zur-geschichte-des-zeitbegriffs-commentary#h4-s-8-the-principle-of-phenomenology` · GA 20 § 8 · [§ 8. The principle of phenomenology](https://faultynode.github.io/commentaries/commentaries/heidegger/heidegger-ga-20-prolegomena-zur-geschichte-des-zeitbegriffs-commentary.html#the-principle-of-phenomenology)
+  > If one hears in "intentionality" what the tradition binds to it — intentionality and the *psychic* — then phenomenology becomes description of the psychic, "descriptive psychology,"
+
+- **introduced** · `intentionalitaet/ga20/028` · *phenomenon*
+  Because phenomenology treats intentionality in its apriori, the structures of intentionality in its apriori are the phenomena, delimiting the objects to be made present at themselves.
+  `heidegger-ga-20-prolegomena-zur-geschichte-des-zeitbegriffs-commentary#h4-s-9-the-clarification-of-the-name-phenomenology` · GA 20 § 9 · [§ 9. The clarification of the name "phenomenology"](https://faultynode.github.io/commentaries/commentaries/heidegger/heidegger-ga-20-prolegomena-zur-geschichte-des-zeitbegriffs-commentary.html#the-clarification-of-the-name-phenomenology)
+  > Since phenomenology treats intentionality in its *apriori*, the structures of intentionality in its *apriori* *are* the phenomena: they delimit the objects to be made present at themselves and explicated in that presence.
+
+- **introduced** · `intentionalitaet/ga20/029` · *phenomenal*
+  Phenomenon says nothing about the being of these objects but only their mode of encounter, and phenomenal is whatever becomes visible in this mode and belongs to the structural nexus of intentionality.
+  `heidegger-ga-20-prolegomena-zur-geschichte-des-zeitbegriffs-commentary#h4-s-9-the-clarification-of-the-name-phenomenology` · GA 20 § 9 · [§ 9. The clarification of the name "phenomenology"](https://faultynode.github.io/commentaries/commentaries/heidegger/heidegger-ga-20-prolegomena-zur-geschichte-des-zeitbegriffs-commentary.html#the-clarification-of-the-name-phenomenology)
+  > "Phenomenon" says nothing about the *being* of these objects, only their *mode of encounter*; "phenomenal" is whatever becomes visible in this mode and belongs to the structural nexus of intentionality;
+
+- **introduced** · `intentionalitaet/ga20/030` · *appearance (distinguished)*
+  Phenomenology, as science of the apriori phenomena of intentionality, has never to do with appearances, let alone mere appearances.
+  `heidegger-ga-20-prolegomena-zur-geschichte-des-zeitbegriffs-commentary#h4-s-9-the-clarification-of-the-name-phenomenology` · GA 20 § 9 · [§ 9. The clarification of the name "phenomenology"](https://faultynode.github.io/commentaries/commentaries/heidegger/heidegger-ga-20-prolegomena-zur-geschichte-des-zeitbegriffs-commentary.html#the-clarification-of-the-name-phenomenology)
+  > Phenomenology, as science of the apriori phenomena of intentionality, therefore has *never* to do with appearances, let alone mere appearances.
+
+- **introduced** · `intentionalitaet/ga20/031` · *directing-oneself-toward wider than grasping*
+  Intentionality determines the experience-region, but the being-objective of the world in experience is not the same as being-grasped, and directing-oneself-toward is wider than grasping.
+  `heidegger-ga-20-prolegomena-zur-geschichte-des-zeitbegriffs-commentary#h4-s-10-the-working-out-of-the-thematic-field` · GA 20 § 10 · [§ 10. The working-out of the thematic field](https://faultynode.github.io/commentaries/commentaries/heidegger/heidegger-ga-20-prolegomena-zur-geschichte-des-zeitbegriffs-commentary.html#the-working-out-of-the-thematic-field)
+  > Intentionality was already seen to determine the experience-region: in experiences the transcendent world is in a certain way *there*, but — a guard against narrowing — this being-objective of the world is not the same as being-*grasped*.
+
+#### Recorded absences
+
+- **absent** · `heidegger-ga-20-prolegomena-zur-geschichte-des-zeitbegriffs-commentary#h4-s-7-the-original-sense-of-the-apriori`
+  Expected because: The apriori is expounded here as the third of phenomenology's fundamental discoveries, and the very next section names the field of phenomenological research 'intentionality in its apriori' and defines phenomenology as its analytic description. The exposition of the apriori itself runs without the term.
+  The section argues the apriori is no title of comportment but a title of being, indifferent to subjectivity, and reaches that result through ideation and categorial intuition rather than through intentionality. So the tie between the apriori and intentionality is made at § 8, not here.
+  [§ 7. The original sense of the apriori](https://faultynode.github.io/commentaries/commentaries/heidegger/heidegger-ga-20-prolegomena-zur-geschichte-des-zeitbegriffs-commentary.html#the-original-sense-of-the-apriori)
+
+*Partial pass: Covers §§ 5-6 and §§ 11-13 of the Preparatory Part: intentionality as a structure of lived experience, the critics' mislocation of the phenomenon, the perceived in its how and bodily presence, the critique of the image-theory, intentio/intentum mutual belonging and fulfillment, the critique of Brentano, categorial intuition and the objectivity of the ideal, synthesis and ideation as object-giving, 'constituting is letting-be-seen', the identity of scientific ontology and phenomenology, the four barred being-determinations of pure consciousness, and the double neglect (being of the acts / sense of being) grounded in Dasein's falling. Extended 2026-09-15 to the sections gap-012 named: § 4 for Brentano's intentional in-existence and the Scholastic sense of intentio; § 8 for intentionality as the basic field, the field of research as intentionality in its apriori taken in both directions, logic as only a narrow sphere within it, the formula 'phenomenology is analytic description of intentionality in its apriori', and the rejection of descriptive psychology; § 9 for the structures of intentionality in its apriori as the phenomena, the sense of 'phenomenal', and the separation of phenomenon from appearance; § 10 for intentionality as determining the experience-region and directing-oneself-toward as wider than grasping; and § 7 as a recorded absence. Not covered: the Main Part on the time-phenomenon, and §§ 1-3 and the remainder of § 4's account of nineteenth-century philosophy and the sciences, keyword-scanned only.*
 
 ### 1925 - Husserl, Hua 9 — Phenomenological Psychology
 
@@ -1644,6 +1817,37 @@
 
 *Partial pass: Covers sections d-e: Brentano's discovery of intentionality, the fundamental character of consciousness, intentional object-relations, intentional acts, descriptive psychology, intentional analysis, Logical Investigations' development of intentional implication and analysis, intentional correlation-research, and the performance-character of consciousness.*
 
+### 1927 - Being and Time Commentary
+
+`heidegger-being-and-time-commentary`
+
+- **presupposed** · `intentionalitaet/bt/001` · *intentional acts*
+  In the report of Scheler's interpretation of personality the person is said to exist only in the execution of intentional acts and therefore to be essentially no object.
+  `heidegger-being-and-time-commentary#h3-s-10-the-delimitation-of-the-analytic-of-dasein-against-anthropology-psychology` · SZ § 10 · [§ 10. The Delimitation of the Analytic of Dasein against Anthropology, Psychology, and Biology](https://faultynode.github.io/commentaries/commentaries/heidegger/heidegger-being-and-time-commentary.html#the-delimitation-of-the-analytic-of-dasein-against-anthropology-psychology-and-biology)
+  > Person exists only in the execution of intentional acts and is therefore essentially no object.
+
+#### Recorded absences
+
+- **absent** · `heidegger-being-and-time-commentary#h3-s-12-the-preliminary-sketch-of-being-in-the-world-from-the-orientation-toward-be`
+  Expected because: Being-in-the-world is sketched here against the worldless subject, the section a reader of Husserl would expect to be conducted in or against the vocabulary of intentionality. It is also the section where the other commentary on the treatise records the displacement (sz/001-003).
+  Read beside heidegger-sein-und-zeit-commentary, which is also without the term at its § 12, the absence is not peculiar to one commentator.
+  [§ 12. The Preliminary Sketch of Being-in-the-World from the Orientation toward Being-in as Such](https://faultynode.github.io/commentaries/commentaries/heidegger/heidegger-being-and-time-commentary.html#the-preliminary-sketch-of-being-in-the-world-from-the-orientation-toward-being-in-as-such)
+
+- **absent** · `heidegger-being-and-time-commentary#h3-s-13-the-exemplification-of-being-in-through-a-founded-mode-world-cognition`
+  Expected because: Knowing the world as a founded mode of being-in is the point at which the other commentary on the treatise makes its one explicit engagement, glossing the section as intentionality out-radicalized (sz/008). Here the same section is expounded without the word.
+  This is the sharpest of the four: the engagement the first commentary records at § 13 is the commentator's own gloss, not the treatise's word, and the second commentary on the same section supplies no such gloss.
+  [§ 13. The Exemplification of Being-in through a Founded Mode: World-Cognition](https://faultynode.github.io/commentaries/commentaries/heidegger/heidegger-being-and-time-commentary.html#the-exemplification-of-being-in-through-a-founded-mode-world-cognition)
+
+- **absent** · `heidegger-being-and-time-commentary#h3-s-43-dasein-worldhood-and-reality`
+  Expected because: Reality and the provability of the external world are treated here, the problem intentionality was devised to solve, and the other commentary's units 010-012 sit at this section of the treatise.
+  [§ 43. Dasein, Worldhood, and Reality](https://faultynode.github.io/commentaries/commentaries/heidegger/heidegger-being-and-time-commentary.html#dasein-worldhood-and-reality)
+
+- **absent** · `heidegger-being-and-time-commentary#h3-s-44-dasein-disclosedness-and-truth`
+  Expected because: Truth is grounded in Dasein's disclosedness here, the ground Husserl covers with intentional fulfilment and evidence, and the other commentary's units 013-017 sit at this section of the treatise.
+  [§ 44. Dasein, Disclosedness, and Truth](https://faultynode.github.io/commentaries/commentaries/heidegger/heidegger-being-and-time-commentary.html#dasein-disclosedness-and-truth)
+
+*Partial pass: Whole file scanned for the theme's terms; the single occurrence is recorded as the one unit. Four absences are recorded at the sections where the other commentary on the treatise places its intentionality-bearing units, so the two records can be set side by side: § 12 (being-in-the-world), § 13 (knowing as a founded mode), § 43 (reality and the external world) and § 44 (truth). Not covered: the rest of the commentary was read only for the theme's terms, so nothing here is a claim about what it says on any other theme; and § 69, where the term is also missing, is left unrecorded because its 180 words are too compressed for the absence to mean anything.*
+
 ### 1927 - Heidegger, GA 24 — Die Grundprobleme der Phänomenologie
 
 `heidegger-ga-24-die-grundprobleme-der-phanomenologie-commentary`
@@ -1663,7 +1867,127 @@
   `heidegger-ga-24-die-grundprobleme-der-phanomenologie-commentary#h3-b-the-being-constitution-of-perception-intentionality-and-transcendence` · [b) The Being-Constitution of Perception. Intentionality and Transcendence](https://faultynode.github.io/commentaries/commentaries/heidegger/heidegger-ga-24-die-grundprobleme-der-phanomenologie-commentary.html#b-the-being-constitution-of-perception-intentionality-and-transcendence)
   > It belongs to the *essence* of comportments, so that the talk of "intentional comportment" is already a pleonasm and amounts to my saying "a spatial triangle."
 
-*Partial pass: Covers section b of the commentary: phenomenology's designation of intentionality, historical roles of Brentano and especially Husserl's philosophical clarification in the Logical Investigations and Ideas, and intentionality as essential to comportment. Not covered: detailed analysis of intentio/intentum distinction, misinterpretations, transcendence relation, or treatment in other sections.*
+- **introduced** · `intentionalitaet/hga24/004` · *intentio / intentum*
+  The comporting-toward of every comportment is designated in the narrower sense as the intendere or intentio, and every being-directed-toward has its specific Wozu of comportment and Worauf of being-directed.
+  `heidegger-ga-24-die-grundprobleme-der-phanomenologie-commentary#h3-b-the-being-constitution-of-perception-intentionality-and-transcendence` · GA 24 § 9(b) · [b) The Being-Constitution of Perception. Intentionality and Transcendence](https://faultynode.github.io/commentaries/commentaries/heidegger/heidegger-ga-24-die-grundprobleme-der-phanomenologie-commentary.html#b-the-being-constitution-of-perception-intentionality-and-transcendence)
+  > This comporting-toward we designate in the narrower sense as the *intendere* or the *intentio*. Every comporting-toward and every being-directed-toward has its specific *Wozu* of the comportment and *Worauf* of the being-directed.
+
+- **introduced** · `intentionalitaet/hga24/005` · *intentionality (unity of intentio and intentum)*
+  Intentionality embraces the intentio and the intentum in their unity, and the difference of the one or the other constitutes the difference of the modes of comportment.
+  `heidegger-ga-24-die-grundprobleme-der-phanomenologie-commentary#h3-b-the-being-constitution-of-perception-intentionality-and-transcendence` · GA 24 § 9(b) · [b) The Being-Constitution of Perception. Intentionality and Transcendence](https://faultynode.github.io/commentaries/commentaries/heidegger/heidegger-ga-24-die-grundprobleme-der-phanomenologie-commentary.html#b-the-being-constitution-of-perception-intentionality-and-transcendence)
+  > Intentionality embraces both moments — the *intentio* and the *intentum* — in their unity, which is still dark. Both moments are different in every comportment; the difference of the *intentio* or of the *intentum* constitutes precisely the difference of the modes of comportment.
+
+- **criticized** · `intentionalitaet/hga24/006` · *intentional relation as on-hand relation (first misinterpretation)*
+  The first misinterpretation takes the intentional relation to be an on-hand relation between two on-hand things, a psychic subject and a physical object, lasting only so long as both relata are on hand.
+  `heidegger-ga-24-die-grundprobleme-der-phanomenologie-commentary#h3-b-the-being-constitution-of-perception-intentionality-and-transcendence` · GA 24 § 9(b) · [b) The Being-Constitution of Perception. Intentionality and Transcendence](https://faultynode.github.io/commentaries/commentaries/heidegger/heidegger-ga-24-die-grundprobleme-der-phanomenologie-commentary.html#b-the-being-constitution-of-perception-intentionality-and-transcendence)
+  > The relation of perception is an *on-hand relation between two on-hand things*.
+
+- **introduced** · `intentionalitaet/hga24/007` · *the subject as intentionally structured in itself*
+  Against the first misinterpretation, the intentional relation does not fall to the subject through the on-handness of an object; the subject is intentionally structured in itself.
+  `heidegger-ga-24-die-grundprobleme-der-phanomenologie-commentary#h3-b-the-being-constitution-of-perception-intentionality-and-transcendence` · GA 24 § 9(b) · [b) The Being-Constitution of Perception. Intentionality and Transcendence](https://faultynode.github.io/commentaries/commentaries/heidegger/heidegger-ga-24-die-grundprobleme-der-phanomenologie-commentary.html#b-the-being-constitution-of-perception-intentionality-and-transcendence)
+  > The intentional relation to the object does not first fall to the subject with and through the on-handness of the object; rather, *the subject is intentionally structured in itself*.
+
+- **introduced** · `intentionalitaet/hga24/008` · *hallucination*
+  The hallucinator can putatively mean something only because hallucinating perceiving has in itself the character of being-directed-toward, so directedness does not arise from the actual on-handness of objects.
+  `heidegger-ga-24-die-grundprobleme-der-phanomenologie-commentary#h3-b-the-being-constitution-of-perception-intentionality-and-transcendence` · GA 24 § 9(b) · [b) The Being-Constitution of Perception. Intentionality and Transcendence](https://faultynode.github.io/commentaries/commentaries/heidegger/heidegger-ga-24-die-grundprobleme-der-phanomenologie-commentary.html#b-the-being-constitution-of-perception-intentionality-and-transcendence)
+  > *Only because hallucinating perceiving as perception has in itself the character of being-directed-toward can the hallucinator putatively mean something.*
+
+- **criticized** · `intentionalitaet/hga24/009` · *relation of perception (two-sensed)*
+  Talk of the relation of perceiving to an object is two-sensed, and the expression does not name a relation perception first enters but a relation that perceiving as such itself is.
+  `heidegger-ga-24-die-grundprobleme-der-phanomenologie-commentary#h3-b-the-being-constitution-of-perception-intentionality-and-transcendence` · GA 24 § 9(b) · [b) The Being-Constitution of Perception. Intentionality and Transcendence](https://faultynode.github.io/commentaries/commentaries/heidegger/heidegger-ga-24-die-grundprobleme-der-phanomenologie-commentary.html#b-the-being-constitution-of-perception-intentionality-and-transcendence)
+  > The expression "relation of perception" does not mean a relation into which perception, as the one relatum-point, *first enters* — a relation that falls to the in-itself relation-free perception; rather it means a relation *that perceiving as such itself is*.
+
+- **criticized** · `intentionalitaet/hga24/010` · *false subjectivization (second misinterpretation)*
+  The source of the second misinterpretation lies not in the character of the intentio but in that of the intentum, and consists in a false subjectivization of intentionality.
+  `heidegger-ga-24-die-grundprobleme-der-phanomenologie-commentary#h3-b-the-being-constitution-of-perception-intentionality-and-transcendence` · GA 24 § 9(b) · [b) The Being-Constitution of Perception. Intentionality and Transcendence](https://faultynode.github.io/commentaries/commentaries/heidegger/heidegger-ga-24-die-grundprobleme-der-phanomenologie-commentary.html#b-the-being-constitution-of-perception-intentionality-and-transcendence)
+  > Not, as in the first, in the character of the *intentio*, but in the character of the *intentum* — of that toward which the comportment (in our case perception) is directed.
+
+- **introduced** · `intentionalitaet/hga24/011` · *the perceived itself (against sensations)*
+  Perception is directed according to its own directional sense at the on-hand being itself and knows nothing of sensations it apprehends; that it is first directed at sensations is pure theory.
+  `heidegger-ga-24-die-grundprobleme-der-phanomenologie-commentary#h3-b-the-being-constitution-of-perception-intentionality-and-transcendence` · GA 24 § 9(b) · [b) The Being-Constitution of Perception. Intentionality and Transcendence](https://faultynode.github.io/commentaries/commentaries/heidegger/heidegger-ga-24-die-grundprobleme-der-phanomenologie-commentary.html#b-the-being-constitution-of-perception-intentionality-and-transcendence)
+  > It is pure theory to say I am initially directed at sensations. Perception is directed *according to its own directional sense at the on-hand being itself*.
+
+- **introduced** · `intentionalitaet/hga24/012` · *perceptual illusion*
+  In taking a tree for a person the person himself is given, not a representation of the person, so deception does not show perception to be directed at representations.
+  `heidegger-ga-24-die-grundprobleme-der-phanomenologie-commentary#h3-b-the-being-constitution-of-perception-intentionality-and-transcendence` · GA 24 § 9(b) · [b) The Being-Constitution of Perception. Intentionality and Transcendence](https://faultynode.github.io/commentaries/commentaries/heidegger/heidegger-ga-24-die-grundprobleme-der-phanomenologie-commentary.html#b-the-being-constitution-of-perception-intentionality-and-transcendence)
+  > In this perceptual illusion the person *himself* is given to me, and not, say, a representation of the person.
+
+- **introduced** · `intentionalitaet/hga24/013` · *transcendence*
+  The question how the immanent intentional lived-experience acquires transcendent validity may not be asked, because it is precisely intentionality and nothing else in which transcendence consists.
+  `heidegger-ga-24-die-grundprobleme-der-phanomenologie-commentary#h3-b-the-being-constitution-of-perception-intentionality-and-transcendence` · GA 24 § 9(b) · [b) The Being-Constitution of Perception. Intentionality and Transcendence](https://faultynode.github.io/commentaries/commentaries/heidegger/heidegger-ga-24-die-grundprobleme-der-phanomenologie-commentary.html#b-the-being-constitution-of-perception-intentionality-and-transcendence)
+  > I do not first need to ask how the immanent intentional lived-experience acquires *transcendent validity*, but rather *it is precisely intentionality and nothing else in which transcendence consists*.
+
+- **revised** · `intentionalitaet/hga24/014` · *subject determined from intentionality*
+  Intentionality may not be interpreted from an arbitrary concept of subject; conversely the subject is first to be determined in its essence from the unprejudicedly seen character of intentionality and its transcendence.
+  `heidegger-ga-24-die-grundprobleme-der-phanomenologie-commentary#h3-b-the-being-constitution-of-perception-intentionality-and-transcendence` · GA 24 § 9(b) · [b) The Being-Constitution of Perception. Intentionality and Transcendence](https://faultynode.github.io/commentaries/commentaries/heidegger/heidegger-ga-24-die-grundprobleme-der-phanomenologie-commentary.html#b-the-being-constitution-of-perception-intentionality-and-transcendence)
+  > rather, conversely, *on the basis of the unprejudicedly seen character of intentionality and its transcendence, the subject is first to be determined in its essence*
+
+- **revised** · `intentionalitaet/hga24/015` · *Dasein (in place of subject)*
+  Because the separation of an immanent subject from a transcendent object is constructive, the course stops speaking of a subject and understands the being to which intentional comportments belong as Dasein.
+  `heidegger-ga-24-die-grundprobleme-der-phanomenologie-commentary#h3-b-the-being-constitution-of-perception-intentionality-and-transcendence` · GA 24 § 9(b) · [b) The Being-Constitution of Perception. Intentionality and Transcendence](https://faultynode.github.io/commentaries/commentaries/heidegger/heidegger-ga-24-die-grundprobleme-der-phanomenologie-commentary.html#b-the-being-constitution-of-perception-intentionality-and-transcendence)
+  > *we henceforth no longer speak of a subject, of a subjective sphere*, but understand the being to which intentional comportments belong as *Dasein*
+
+- **introduced** · `intentionalitaet/hga24/016` · *ratio cognoscendi / ratio essendi*
+  Intentionality is the ratio cognoscendi of transcendence and transcendence the ratio essendi of intentionality in its various modes.
+  `heidegger-ga-24-die-grundprobleme-der-phanomenologie-commentary#h3-b-the-being-constitution-of-perception-intentionality-and-transcendence` · GA 24 § 9(b) · [b) The Being-Constitution of Perception. Intentionality and Transcendence](https://faultynode.github.io/commentaries/commentaries/heidegger/heidegger-ga-24-die-grundprobleme-der-phanomenologie-commentary.html#b-the-being-constitution-of-perception-intentionality-and-transcendence)
+  > Intentionality is the *ratio cognoscendi* of transcendence; transcendence is the *ratio essendi* of intentionality in its various modes.
+
+- **introduced** · `intentionalitaet/hga24/017` · *intentional constitution as condition of transcendence*
+  The intentional constitution of Dasein's comportments is not something immanent needing transcendence but the ontological condition of the possibility of any transcendence at all.
+  `heidegger-ga-24-die-grundprobleme-der-phanomenologie-commentary#h3-b-the-being-constitution-of-perception-intentionality-and-transcendence` · GA 24 § 9(b) · [b) The Being-Constitution of Perception. Intentionality and Transcendence](https://faultynode.github.io/commentaries/commentaries/heidegger/heidegger-ga-24-die-grundprobleme-der-phanomenologie-commentary.html#b-the-being-constitution-of-perception-intentionality-and-transcendence)
+  > the intentional constitution of Dasein's comportments is precisely *the ontological condition of the possibility of any transcendence at all*
+
+- **introduced** · `intentionalitaet/hga24/018` · *neither objective nor subjective*
+  Intentionality is neither objective nor subjective in the customary sense but both at once in a more originary sense, insofar as it makes possible that Dasein comports itself existing toward the on hand.
+  `heidegger-ga-24-die-grundprobleme-der-phanomenologie-commentary#h3-b-the-being-constitution-of-perception-intentionality-and-transcendence` · GA 24 § 9(b) · [b) The Being-Constitution of Perception. Intentionality and Transcendence](https://faultynode.github.io/commentaries/commentaries/heidegger/heidegger-ga-24-die-grundprobleme-der-phanomenologie-commentary.html#b-the-being-constitution-of-perception-intentionality-and-transcendence)
+  > Intentionality is neither objective nor subjective in the customary sense, but *both at once in a much more originary sense*
+
+- **introduced** · `intentionalitaet/hga24/019` · *intentionality as structure of the subject*
+  Nothing about intentionality can be decided from a concept of subject, because intentionality is the essential though not the most originary structure of the subject itself.
+  `heidegger-ga-24-die-grundprobleme-der-phanomenologie-commentary#h3-b-the-being-constitution-of-perception-intentionality-and-transcendence` · GA 24 § 9(b) · [b) The Being-Constitution of Perception. Intentionality and Transcendence](https://faultynode.github.io/commentaries/commentaries/heidegger/heidegger-ga-24-die-grundprobleme-der-phanomenologie-commentary.html#b-the-being-constitution-of-perception-intentionality-and-transcendence)
+  > because *intentionality is the essential, even if not the most originary, structure of the subject itself*
+
+- **introduced** · `intentionalitaet/hga24/020` · *no inside / no outside*
+  The cognitive faculty is not a terminal point of a relation between an outside thing and an inside subject; the self-relating intentional Dasein already holds itself alongside the things, and for Dasein there is no outside.
+  `heidegger-ga-24-die-grundprobleme-der-phanomenologie-commentary#h3-b-the-being-constitution-of-perception-intentionality-and-transcendence` · GA 24 § 9(b) · [b) The Being-Constitution of Perception. Intentionality and Transcendence](https://faultynode.github.io/commentaries/commentaries/heidegger/heidegger-ga-24-die-grundprobleme-der-phanomenologie-commentary.html#b-the-being-constitution-of-perception-intentionality-and-transcendence)
+  > *For Dasein there is no "outside"*, wherefore it is also absurd to speak of an "inside."
+
+- **introduced** · `intentionalitaet/hga24/021` · *source of the misinterpretations*
+  The misinterpretations are not accidental but grounded in Dasein's tendency to apprehend all beings in the sense of on-handness, so that intentionality is taken as subjective once it is not found among on-hand things.
+  `heidegger-ga-24-die-grundprobleme-der-phanomenologie-commentary#h3-b-the-being-constitution-of-perception-intentionality-and-transcendence` · GA 24 § 9(b) · [b) The Being-Constitution of Perception. Intentionality and Transcendence](https://faultynode.github.io/commentaries/commentaries/heidegger/heidegger-ga-24-die-grundprobleme-der-phanomenologie-commentary.html#b-the-being-constitution-of-perception-intentionality-and-transcendence)
+  > Insofar as in this conception of all the given as on-hand, intentionality as a relation *within* on-hand things is not to be found, one must apparently assign it to the subject; if it is nothing objective, then it is something subjective.
+
+- **introduced** · `intentionalitaet/hga24/022` · *perceivedness (Wahrgenommenheit)*
+  The perceivedness belonging to a perceived falls into the intentum, that at which perception directs itself.
+  `heidegger-ga-24-die-grundprobleme-der-phanomenologie-commentary#h3-c-intentionality-and-understanding-of-being-discoveredness-perceivedness-of-bein` · GA 24 § 9(c) · [c) Intentionality and Understanding of Being. Discoveredness (Perceivedness) of Beings and Disclosedness of Being](https://faultynode.github.io/commentaries/commentaries/heidegger/heidegger-ga-24-die-grundprobleme-der-phanomenologie-commentary.html#c-intentionality-and-understanding-of-being-discoveredness-perceivedness-of-beings-and-disclosedness-of-being)
+  > the perceivedness belonging to a perceived evidently falls into the *intentum*, into that at which perception directs itself
+
+- **introduced** · `intentionalitaet/hga24/023` · *perceivedness as neither subjective nor objective*
+  Perceivedness belongs to the intentional comportment of Dasein and is neither subjective nor objective, belonging in a sense to the perceived and yet nothing objective.
+  `heidegger-ga-24-die-grundprobleme-der-phanomenologie-commentary#h3-c-intentionality-and-understanding-of-being-discoveredness-perceivedness-of-bein` · GA 24 § 9(c) · [c) Intentionality and Understanding of Being. Discoveredness (Perceivedness) of Beings and Disclosedness of Being](https://faultynode.github.io/commentaries/commentaries/heidegger/heidegger-ga-24-die-grundprobleme-der-phanomenologie-commentary.html#c-intentionality-and-understanding-of-being-discoveredness-perceivedness-of-beings-and-disclosedness-of-being)
+  > Perceivedness belongs perhaps to the *intentional comportment of Dasein* — that is, it is *neither subjective nor objective*.
+
+- **introduced** · `intentionalitaet/hga24/024` · *transcending as discovering*
+  Perceiving is a releasing letting-be-encountered of the on-hand, transcending is a discovering, and Dasein exists as discovering.
+  `heidegger-ga-24-die-grundprobleme-der-phanomenologie-commentary#h3-c-intentionality-and-understanding-of-being-discoveredness-perceivedness-of-bein` · GA 24 § 9(c) · [c) Intentionality and Understanding of Being. Discoveredness (Perceivedness) of Beings and Disclosedness of Being](https://faultynode.github.io/commentaries/commentaries/heidegger/heidegger-ga-24-die-grundprobleme-der-phanomenologie-commentary.html#c-intentionality-and-understanding-of-being-discoveredness-perceivedness-of-beings-and-disclosedness-of-being)
+  > Transcending is a *discovering* (Entdecken). *Dasein exists as discovering.*
+
+- **revised** · `intentionalitaet/hga24/025` · *understanding of being as third moment*
+  To the intentionality of perception belong not only intentio and intentum but furthermore the understanding of the mode of being of what is intended in the intentum.
+  `heidegger-ga-24-die-grundprobleme-der-phanomenologie-commentary#h3-c-intentionality-and-understanding-of-being-discoveredness-perceivedness-of-bein` · GA 24 § 9(c) · [c) Intentionality and Understanding of Being. Discoveredness (Perceivedness) of Beings and Disclosedness of Being](https://faultynode.github.io/commentaries/commentaries/heidegger/heidegger-ga-24-die-grundprobleme-der-phanomenologie-commentary.html#c-intentionality-and-understanding-of-being-discoveredness-perceivedness-of-beings-and-disclosedness-of-being)
+  > To the intentionality of perception belong not only *intentio* and *intentum* but, furthermore, the *understanding of the mode of being of what is intended in the intentum*.
+
+- **introduced** · `intentionalitaet/hga24/026` · *Entdecktheit / Erschlossenheit*
+  Beings can be discovered only if the being of beings is already disclosed, so discoveredness of beings and disclosedness of their being are distinguished for substantive and not merely terminological reasons.
+  `heidegger-ga-24-die-grundprobleme-der-phanomenologie-commentary#h3-c-intentionality-and-understanding-of-being-discoveredness-perceivedness-of-bein` · GA 24 § 9(c) · [c) Intentionality and Understanding of Being. Discoveredness (Perceivedness) of Beings and Disclosedness of Being](https://faultynode.github.io/commentaries/commentaries/heidegger/heidegger-ga-24-die-grundprobleme-der-phanomenologie-commentary.html#c-intentionality-and-understanding-of-being-discoveredness-perceivedness-of-beings-and-disclosedness-of-being)
+  > *Beings can only be discovered* — be it on the path of perception or some other mode of access — *if the being of beings is already disclosed*, if I *understand* it.
+
+- **introduced** · `intentionalitaet/hga24/027` · *intentionality and the ontological difference*
+  The possibility of bringing out the ontological difference hangs together with the necessity of investigating intentionality as the mode of access to beings.
+  `heidegger-ga-24-die-grundprobleme-der-phanomenologie-commentary#h3-c-intentionality-and-understanding-of-being-discoveredness-perceivedness-of-bein` · GA 24 § 9(c) · [c) Intentionality and Understanding of Being. Discoveredness (Perceivedness) of Beings and Disclosedness of Being](https://faultynode.github.io/commentaries/commentaries/heidegger/heidegger-ga-24-die-grundprobleme-der-phanomenologie-commentary.html#c-intentionality-and-understanding-of-being-discoveredness-perceivedness-of-beings-and-disclosedness-of-being)
+  > the possibility of bringing out the ontological difference evidently *hangs together with the necessity of investigating intentionality*
+
+*Partial pass: Covers § 9(b), The Being-Constitution of Perception. Intentionality and Transcendence, in full: phenomenology's designation of the structure of comportments as intentionality after a Scholastic term, the historical roles of Brentano and of Husserl's clarification in the Logical Investigations and the Ideas, intentionality as essential to comportment; the intentio/intentum distinction; the first misinterpretation, which takes the intentional relation for an on-hand relation between two on-hand things, with the hallucination argument and the two senses of 'relation of perception' against it; the second misinterpretation, the false subjectivization arising at the intentum, with the appeal to natural perception and the tree-for-a-person illusion against it; the thesis that intentionality is that in which transcendence consists, the ratio cognoscendi / ratio essendi formula, the determination of the subject from intentionality rather than the reverse, the replacement of 'subject' by Dasein, intentionality as neither objective nor subjective, the denial of an inside and an outside for Dasein, and the grounding of the misinterpretations in Dasein's tendency to understand all beings as on-hand. Also covers § 9(c), Intentionality and Understanding of Being, for its intentionality-bearing core: perceivedness as falling into the intentum and as neither subjective nor objective, transcending as discovering, the understanding of the mode of being of the intended as a third moment beside intentio and intentum, the Entdecktheit/Erschlossenheit distinction, and the tie between intentionality and the ontological difference. Not covered: § 9(c)'s Kant-exegetical and innate-ideas material and the closing recapitulation of the four theses, and the rest of the lecture course, where the theme was keyword-scanned only (§ 5 carries the only other hits).*
 
 ### 1927 to 1953 - Sein und Zeit — Commentary
 
@@ -1783,6 +2107,27 @@
   Heidegger's note attaches the enormous promissory theorem that and how the intentionality of 'consciousness' grounds in Dasein's ecstatic temporality, which the following (never published) division was to show.
   `heidegger-sein-und-zeit-commentary#h6-b-the-temporal-sense-of-the-modification-of-circumspect-concern-into-the-theoret` · Sein und Zeit § 69(b) · [b) The Temporal Sense of the Modification of Circumspect Concern into the Theoretical Discovery of the Innerworldly Present-at-Hand](https://faultynode.github.io/commentaries/commentaries/heidegger/heidegger-sein-und-zeit-commentary.html#b-the-temporal-sense-of-the-modification-of-circumspect-concern-into-the-theoretical-discovery-of-the-innerworldly-present-at-hand)
   > that and how the intentionality of "consciousness" grounds in Dasein's ecstatic temporality, the following division will show.
+
+#### Recorded absences
+
+- **absent** · `heidegger-sein-und-zeit-commentary#h5-s-12-the-predelineation-of-being-in-the-world-from-the-orientation-toward-being`
+  Expected because: This is where being-in-the-world is minted against the worldless subject that would have to be bridged to a world, and where the record's units 001-003 record that 'ich bin' says I dwell alongside the world and that two worldless things can never touch. It is the section a reader of Husserl would expect to be conducted in, or against, the vocabulary of intentionality.
+  The displacement is carried out entirely in Heidegger's own terms. The word arrives only at § 13, where the commentary's own gloss (unit 008) says intentionality is here out-radicalized; so the absence at § 12 and the presence at § 13 together locate where the engagement is made explicit.
+  [§ 12. The Predelineation of Being-in-the-World from the Orientation toward Being-in as Such](https://faultynode.github.io/commentaries/commentaries/heidegger/heidegger-sein-und-zeit-commentary.html#the-predelineation-of-being-in-the-world-from-the-orientation-toward-being-in-as-such)
+
+- **absent** · `heidegger-sein-und-zeit-commentary#h6-a-reality-as-a-problem-of-being-and-of-the-provability-of-the-external-world`
+  Expected because: The Cartesian problem of the external world is taken up and dismantled here, with units 010-012 recording cognition as a founded mode of access to the real and the demand for a proof as the Cartesian confession. The problem this section rejects is the one intentionality was devised to solve, so the term was expected.
+  The section contains 'intentions' and 'intention' in the ordinary English sense, which is why absent_terms is keyed to Intentionalitaet / intentionality / intentional and not to the stem intentio.
+  [a) Reality as a Problem of Being and of the Provability of the "External World"](https://faultynode.github.io/commentaries/commentaries/heidegger/heidegger-sein-und-zeit-commentary.html#a-reality-as-a-problem-of-being-and-of-the-provability-of-the-external-world)
+
+- **absent** · `heidegger-sein-und-zeit-commentary#h6-b-the-original-phenomenon-of-truth-and-the-derivativeness-of-the-traditional-tru`
+  Expected because: Truth is grounded here in Dasein's discovering, with discoveredness derivative (units 013-017). This is the ground Husserl covers with intentional fulfilment, evidence and the adaequatio of the Sixth Investigation, so the vocabulary was expected at the point where the traditional truth-concept is ontologically founded.
+  [b) The Original Phenomenon of Truth and the Derivativeness of the Traditional Truth-Concept](https://faultynode.github.io/commentaries/commentaries/heidegger/heidegger-sein-und-zeit-commentary.html#b-the-original-phenomenon-of-truth-and-the-derivativeness-of-the-traditional-truth-concept)
+
+- **absent** · `heidegger-sein-und-zeit-commentary#h6-c-the-temporal-problem-of-the-transcendence-of-the-world`
+  Expected because: The immediately preceding subsection carries the § 69(b) note (unit 023) promising that the following division will show how the intentionality of consciousness grounds in Dasein's ecstatic temporality. This subsection is where the transcendence of the world is put as a temporal problem, and is the nearest place in the treatise where that promise could be redeemed.
+  The word does not occur. GA 24 § 9(b) states the founding the note promises - intentionality as the ratio cognoscendi of transcendence, transcendence as its ratio essendi - so on the ledger's evidence the founding is made in the 1927 lecture course and not in the treatise.
+  [c) The Temporal Problem of the Transcendence of the World](https://faultynode.github.io/commentaries/commentaries/heidegger/heidegger-sein-und-zeit-commentary.html#c-the-temporal-problem-of-the-transcendence-of-the-world)
 
 *Partial pass: Covers the points where Sein und Zeit engages and displaces intentionality: being-in-the-world as a unitary phenomenon that leaves no worldless subject to be bridged to a world; being-in as dwelling rather than categorial containment, and the chair-and-wall argument that touching presupposes a disclosed world; knowing as a founded mode of being-in-the-world in which subject and object do not coincide with Dasein and world, the manufactured transcendence-problem, knowing as grounded in an already-being-alongside-the-world, Dasein as always already 'outside' so that even thought, memory, forgetting, and error are modifications of being-in ('intentionality out-radicalized'), and knowing as creating no commercium; the senselessness of the external-world problem, cognition as a founded mode of access to the real, and the demand for proof as itself the Cartesian confession; truth as the disclosedness of Dasein, being-true as being-discovering with discoveredness derivative, 'Dasein is in the truth' as a constitutional statement, truth as a wresting from concealment, and the apophantic 'as' founded in the hermeneutic 'as'; and the change-over from circumspect concern to theoretical discovery as a modification of the understanding of being, the mathematical projection of nature, thematization as freeing beings into objecthood, transcendence as prior to objectification, and Heidegger's note that the intentionality of consciousness grounds in Dasein's ecstatic temporality. Not covered: the temporality, death, conscience, and historicity analyses.*
 
@@ -3101,19 +3446,15 @@
 *Where the theme's terms occur but no extraction pass has run. Silence in the sections above is silence about these files, not evidence of absence in them.*
 
 - `Reduction et donation Commentary` - 43 term hits, no record
-- `heidegger-ga-19-platon-sophistes-commentary` - 16 term hits, no record
 - `husserliana-23-phantasie-bildbewusstsein-erinnerung-commentary` - 15 term hits, no record
 - `derrida-la-voix-et-le-phenomene-commentary` - 14 term hits, no record
 - `husserliana-13-basic-problems-of-phenomenology-commentary` - 14 term hits, no record
-- `heidegger-ga-17-einfuhrung-in-die-phanomenologische-forschung-commentary` - 10 term hits, no record
 - `lacan-seminar-1-freuds-papers-on-technique-commentary` - 10 term hits, no record
-- `heidegger-ga-61-phenomenological-interpretations-of-aristotle-commentary` - 8 term hits, no record
 - `husserliana-26-theory-of-meaning-commentary` - 7 term hits, no record
 - `lacan-seminar-11-the-four-fundamental-concepts-of-psychoanalysis-commentary` - 5 term hits, no record
 - `franck-heidegger-and-the-problem-of-space-commentary` - 2 term hits, no record
 - `husserl-prolegomena-commentary` - 2 term hits, no record
 - `Heidegger GA 3 - Kant und das Problem der Metaphysik Commentary` - 1 term hit, no record
-- `heidegger-being-and-time-commentary` - 1 term hit, no record
 - `heidegger-ga-18-grundbegriffe-der-aristotelischen-philosophie-commentary` - 1 term hit, no record
 - `heidegger-ga-3-kant-und-das-problem-der-metaphysik-commentary` - 1 term hit, no record
 - `husserliana-13-editors-introduction-commentary` - 1 term hit, no record

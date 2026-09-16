@@ -1,0 +1,58 @@
+{
+  "schema_version": 1,
+  "theme": "intentionalitaet",
+  "commentary": "heidegger-ga-61-phenomenological-interpretations-of-aristotle-commentary",
+  "source_sha256": "26f53a21e0f990da34472f5ac8a3878c99a06271372ea5caa65f0fab85371fc7",
+  "extracted_at": "2026-09-15",
+  "extractor": {
+    "agent": "claude-code",
+    "model": "claude-opus-5",
+    "prompt": "https://github.com/faultynode/prompts/blob/main/synthesis-pipeline/extraction-prompt.md",
+    "note": "Whole file scanned for the theme's terms: 'intentionality' occurs 6 times and 'intentional' 7, all in Part III Chapter 2 (Ruinance) and in the Comportment section of Part II; 'Intentionalitaet', 'noesis' and 'noema' do not occur. Read closely: the bracketed reflection on ruinance and intentionality, and the double sense of Verhalten."
+  },
+  "coverage": "partial",
+  "coverage_note": "Covers the two places in this course where intentionality does argumentative work: the Comportment section of Part II, where relation detached from enactment is called objectified intentionality, and the bracketed reflection on ruinance and intentionality in Part III Chapter 2, where intentionality is the formal primal structure of facticity and the formal fundamental structure of all categorial structures of facticity, where its ultimacy is put in question ('Is intentionality fallen from heaven?'), and where the destructive-historical task of asking how far it has been seen and how it became graspable through Husserl via consciousness is set. Not covered: the Aristotle interpretation and the account of philosophical definition, the categories of factical life beyond their tie to intentionality, and the whole of Part I, all keyword-scanned only for this theme.",
+  "units": [
+    {
+      "id": "intentionalitaet/ga61/001",
+      "locator": "heidegger-ga-61-phenomenological-interpretations-of-aristotle-commentary#h4-b-comportment",
+      "term": "objectified intentionality",
+      "status": "criticized",
+      "claim": "Comportment's second sense, relation (Bezug), becomes objectified intentionality when it is detached from the first sense, enactment (Vollzug).",
+      "quote": "The second is relation (*Bezug*), and detached from the first, it becomes objectified intentionality."
+    },
+    {
+      "id": "intentionalitaet/ga61/002",
+      "locator": "heidegger-ga-61-phenomenological-interpretations-of-aristotle-commentary#h3-chapter-2-ruinance",
+      "term": "intentionality as formal primal structure of facticity",
+      "status": "introduced",
+      "claim": "Praestruktion and relucence are said to be the expression of intentionality, the formal primal structure of facticity, that is, of the sense of being of life.",
+      "quote": "praestruktion and relucence are the expression of intentionality — the formal primal structure of facticity (of the sense of being of life)"
+    },
+    {
+      "id": "intentionalitaet/ga61/003",
+      "locator": "heidegger-ga-61-phenomenological-interpretations-of-aristotle-commentary#h3-chapter-2-ruinance",
+      "term": "intentionality (its ultimacy in question)",
+      "status": "criticized",
+      "claim": "The course asks whether intentionality is fallen from heaven and in what ultimacy it is to be accepted if it is something ultimate, and says it is not secured in a specific theoretical discoverability and experienceability.",
+      "quote": "Is intentionality fallen from heaven? If it is something ultimate, in what ultimacy is it to be accepted? Not secured in a specific theoretical discoverability and experienceability."
+    },
+    {
+      "id": "intentionalitaet/ga61/004",
+      "locator": "heidegger-ga-61-phenomenological-interpretations-of-aristotle-commentary#h3-chapter-2-ruinance",
+      "term": "intentionality as fundamental sense of phenomenology",
+      "status": "introduced",
+      "claim": "Intentionality is the formal fundamental structure of all categorial structures of facticity, and this is called the fundamental sense of phenomenology.",
+      "quote": "Correspondingly for all categorial structures of facticity — intentionality is their formal fundamental structure. This is the fundamental sense of phenomenology."
+    },
+    {
+      "id": "intentionalitaet/ga61/005",
+      "locator": "heidegger-ga-61-phenomenological-interpretations-of-aristotle-commentary#h3-chapter-2-ruinance",
+      "term": "intentionality (destructive-historical task)",
+      "status": "introduced",
+      "claim": "The destructive and leading intellectual-historical task is how far intentionality has been seen, in what direction and with what means it has been reinterpreted, what hindered its appropriation, and how far it became graspable through Husserl via consciousness.",
+      "quote": "how far intentionality has been seen, in what direction and with what means it has been reinterpreted, what has hindered its appropriation. How and how far it became graspable through Husserl via consciousness."
+    }
+  ],
+  "absences": []
+}

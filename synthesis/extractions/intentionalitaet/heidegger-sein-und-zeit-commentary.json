@@ -3,11 +3,12 @@
   "theme": "intentionalitaet",
   "commentary": "heidegger-sein-und-zeit-commentary",
   "source_sha256": "94b7fcaaa8e87cacbb03c01d9c915e9725572cda2849afa28f9a800cc7c63551",
-  "extracted_at": "2026-09-09",
+  "extracted_at": "2026-09-15",
   "extractor": {
     "agent": "claude-code",
     "prompt": "prompts/extraction-prompt.md",
-    "note": "source_sha256 is the LF digest (CRLF checkout; local validate reports a false staleness, CI on LF passes). This is a very large commentary (~248k words); intentionality figures only where Sein und Zeit deconstructs the Husserlian subject-object / consciousness-of model. Closely read § 12 (being-in-the-world as a unitary phenomenon, being-in as dwelling, the chair-and-wall argument), § 13 (knowing as a founded mode, the manufactured transcendence-problem, always-already-outside), § 43(a) (the senselessness of the external-world problem, cognition as founded access to the real), § 44(b) (truth as disclosedness, being-true as being-discovering, the apophantic as founded in the hermeneutic as), and § 69(b) (the change-over from circumspect concern to theoretical discovery, the mathematical projection of nature, thematization, and the note that the intentionality of consciousness grounds in ecstatic temporality). Not read in detail: the vast majority of the commentary (the death/conscience/temporality/historicity divisions and the worldhood analysis beyond §§ 12-13). chronology.json entry is resolved with two strata (Sein und Zeit 1927; Preliminary Remark to the seventh edition 1953); no per-unit stratum field exists in the extraction schema. All quotes verified as contiguous substrings of the located sections."
+    "note": "source_sha256 is the LF digest (CRLF checkout; local validate reports a false staleness, CI on LF passes). This is a very large commentary (~248k words); intentionality figures only where Sein und Zeit deconstructs the Husserlian subject-object / consciousness-of model. Closely read § 12 (being-in-the-world as a unitary phenomenon, being-in as dwelling, the chair-and-wall argument), § 13 (knowing as a founded mode, the manufactured transcendence-problem, always-already-outside), § 43(a) (the senselessness of the external-world problem, cognition as founded access to the real), § 44(b) (truth as disclosedness, being-true as being-discovering, the apophantic as founded in the hermeneutic as), and § 69(b) (the change-over from circumspect concern to theoretical discovery, the mathematical projection of nature, thematization, and the note that the intentionality of consciousness grounds in ecstatic temporality). Not read in detail: the vast majority of the commentary (the death/conscience/temporality/historicity divisions and the worldhood analysis beyond §§ 12-13). chronology.json entry is resolved with two strata (Sein und Zeit 1927; Preliminary Remark to the seventh edition 1953); no per-unit stratum field exists in the extraction schema. All quotes verified as contiguous substrings of the located sections. Absence pass 2026-09-15 for gap-013, adding four checked negatives and changing no unit: §§ 12, 43(a), 44(b) and 69(c). Two sections gap-013 listed are not absences and were not recorded as such - § 13 carries the commentary's own 'intentionality is here out-radicalized' gloss (unit 008), and § 69(b) carries the two units reporting the note on intentionality and ecstatic temporality (022, 023). absent_terms is keyed to Intentionalitaet / intentionality / intentional and deliberately not to the stem intentio, which fires inside the ordinary English 'intention' and 'intentions' at § 43(a) and § 69(a).",
+    "model": "claude-opus-5"
   },
   "coverage": "partial",
   "coverage_note": "Covers the points where Sein und Zeit engages and displaces intentionality: being-in-the-world as a unitary phenomenon that leaves no worldless subject to be bridged to a world; being-in as dwelling rather than categorial containment, and the chair-and-wall argument that touching presupposes a disclosed world; knowing as a founded mode of being-in-the-world in which subject and object do not coincide with Dasein and world, the manufactured transcendence-problem, knowing as grounded in an already-being-alongside-the-world, Dasein as always already 'outside' so that even thought, memory, forgetting, and error are modifications of being-in ('intentionality out-radicalized'), and knowing as creating no commercium; the senselessness of the external-world problem, cognition as a founded mode of access to the real, and the demand for proof as itself the Cartesian confession; truth as the disclosedness of Dasein, being-true as being-discovering with discoveredness derivative, 'Dasein is in the truth' as a constitutional statement, truth as a wresting from concealment, and the apophantic 'as' founded in the hermeneutic 'as'; and the change-over from circumspect concern to theoretical discovery as a modification of the understanding of being, the mathematical projection of nature, thematization as freeing beings into objecthood, transcendence as prior to objectification, and Heidegger's note that the intentionality of consciousness grounds in Dasein's ecstatic temporality. Not covered: the temporality, death, conscience, and historicity analyses.",
@@ -220,5 +221,45 @@
       "quote": "that and how the intentionality of \"consciousness\" grounds in Dasein's ecstatic temporality, the following division will show."
     }
   ],
-  "absences": []
+  "absences": [
+    {
+      "locator": "heidegger-sein-und-zeit-commentary#h5-s-12-the-predelineation-of-being-in-the-world-from-the-orientation-toward-being",
+      "absent_terms": [
+        "Intentionalität",
+        "intentionality",
+        "intentional"
+      ],
+      "expected_because": "This is where being-in-the-world is minted against the worldless subject that would have to be bridged to a world, and where the record's units 001-003 record that 'ich bin' says I dwell alongside the world and that two worldless things can never touch. It is the section a reader of Husserl would expect to be conducted in, or against, the vocabulary of intentionality.",
+      "note": "The displacement is carried out entirely in Heidegger's own terms. The word arrives only at § 13, where the commentary's own gloss (unit 008) says intentionality is here out-radicalized; so the absence at § 12 and the presence at § 13 together locate where the engagement is made explicit."
+    },
+    {
+      "locator": "heidegger-sein-und-zeit-commentary#h6-a-reality-as-a-problem-of-being-and-of-the-provability-of-the-external-world",
+      "absent_terms": [
+        "Intentionalität",
+        "intentionality",
+        "intentional"
+      ],
+      "expected_because": "The Cartesian problem of the external world is taken up and dismantled here, with units 010-012 recording cognition as a founded mode of access to the real and the demand for a proof as the Cartesian confession. The problem this section rejects is the one intentionality was devised to solve, so the term was expected.",
+      "note": "The section contains 'intentions' and 'intention' in the ordinary English sense, which is why absent_terms is keyed to Intentionalitaet / intentionality / intentional and not to the stem intentio."
+    },
+    {
+      "locator": "heidegger-sein-und-zeit-commentary#h6-b-the-original-phenomenon-of-truth-and-the-derivativeness-of-the-traditional-tru",
+      "absent_terms": [
+        "Intentionalität",
+        "intentionality",
+        "intentional"
+      ],
+      "expected_because": "Truth is grounded here in Dasein's discovering, with discoveredness derivative (units 013-017). This is the ground Husserl covers with intentional fulfilment, evidence and the adaequatio of the Sixth Investigation, so the vocabulary was expected at the point where the traditional truth-concept is ontologically founded."
+    },
+    {
+      "locator": "heidegger-sein-und-zeit-commentary#h6-c-the-temporal-problem-of-the-transcendence-of-the-world",
+      "absent_terms": [
+        "Intentionalität",
+        "intentionality",
+        "intentional"
+      ],
+      "expected_because": "The immediately preceding subsection carries the § 69(b) note (unit 023) promising that the following division will show how the intentionality of consciousness grounds in Dasein's ecstatic temporality. This subsection is where the transcendence of the world is put as a temporal problem, and is the nearest place in the treatise where that promise could be redeemed.",
+      "note": "The word does not occur. GA 24 § 9(b) states the founding the note promises - intentionality as the ratio cognoscendi of transcendence, transcendence as its ratio essendi - so on the ledger's evidence the founding is made in the 1927 lecture course and not in the treatise."
+    }
+  ]
 }

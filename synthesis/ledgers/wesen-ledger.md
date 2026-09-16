@@ -12,8 +12,6 @@
 
 `husserliana-19-1-fifth-logical-investigation-commentary`
 
-#### First edition (Logische Untersuchungen II, Halle 1901)
-
 - **introduced** · `wesen/lu5/001` · *intentionales Wesen*
   The unity of quality and matter, which makes up only a part of the full act, is designated the intentional essence of the act.
   `husserliana-19-1-fifth-logical-investigation-commentary#h3-s21-the-intentional-and-the-meaning-essence` · LU V § 21 · [§21. The intentional and the meaning-essence](https://faultynode.github.io/commentaries/commentaries/husserl/husserliana-19-1-fifth-logical-investigation-commentary.html#the-intentional-and-the-meaning-essence)

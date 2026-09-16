@@ -501,7 +501,8 @@
           "year_end": 1921,
           "year_start": 1921
         }
-      ]
+      ],
+      "note": "One stratum only, and deliberately. The commentary works from the B² text of 1921 and says it notes \"Significant A/B divergences ... only where they bear on the philosophical content\" - but it nowhere dates the A-text and, re-checked 2026-09-15, nowhere marks a single A/B divergence in its body. So the Sixth Investigation cannot be given a first-edition stratum from the commentary, and no unit can be assigned to one. It enters the spine at 1921 for that reason, later than the Fifth Investigation, and that is a fact about the register: see gap-009. Supplying 1901 from outside the commentary is exactly what CLAUDE.md rule 6 forbids."
     },
     {
       "commentary": "husserliana-23-phantasie-bildbewusstsein-erinnerung-commentary",
@@ -537,7 +538,7 @@
       "commentary": "husserliana-28-vorlesungen-uber-ethik-und-wertlehre-commentary",
       "role": "primary",
       "status": "resolved",
-      "note": "Two layers, stated by the commentary's own opening: the 1914 course is the latest and fullest redaction of a core course of 1908/09. The commentary covers Part A, i.e. the 1914 redaction; the 1908/09 stratum is recorded because the commentary names it as what that redaction redacts, not because any unit has been assigned to it.",
+      "note": "Three layers, all stated by the commentary's own openings. Part A is the 1914 course, the latest and fullest redaction of a core course of 1908/09; Part B is the 1911 course Grundprobleme der Ethik und Wertlehre, whose Einleitung and Schlußstück the commentary calls \"the redaction between the 1908/09 original and the 1914 course of Part A\". The commentary covers both parts, so a unit must be placed by which part its section falls in: Einleitung §§ 1-8 and the Schlußstück are 1911, §§ 1-21 and Beilagen I-II are 1914. The 1908/09 stratum is recorded because the commentary names it as what the later redactions redact, not because any unit has been assigned to it.",
       "strata": [
         {
           "id": "hua28-1908-09",
@@ -548,8 +549,16 @@
           "evidence": "opening note: \"the latest and fullest redaction of the core 1908/09 ethics course\""
         },
         {
+          "id": "hua28-1911",
+          "label": "Grundprobleme der Ethik und Wertlehre, 1911 (Part B: Einleitung and Schlußstück)",
+          "year_start": 1911,
+          "year_end": 1911,
+          "stated_in_commentary": true,
+          "evidence": "Part B opening: \"the Einleitung and Schlußstück of the 1911 lecture course Grundprobleme der Ethik und Wertlehre\""
+        },
+        {
           "id": "hua28-1914",
-          "label": "Vorlesungen über Grundfragen zur Ethik und Wertlehre, 1914 (Part A, the range covered)",
+          "label": "Vorlesungen über Grundfragen zur Ethik und Wertlehre, 1914 (Part A)",
           "year_start": 1914,
           "year_end": 1914,
           "stated_in_commentary": true,
@@ -678,7 +687,7 @@
     },
     {
       "commentary": "husserliana-4-ideas-ii-commentary",
-      "note": "The stratified entry that makes the rest of this file worth maintaining. Hua IV is not one date: a 1912 draft, Husserl's 1915 rework, two Stein copies, a Landgrebe typescript, and four years of Husserl's insertions into it. A unit extracted from Ideas II should carry the stratum it belongs to whenever the commentary assigns it one; dating the whole volume 1912 - or 1952, its publication - flattens exactly the development the ledger exists to show.",
+      "note": "The stratified entry that makes the rest of this file worth maintaining. Hua IV is not one date: a 1912 draft, a 1913 manuscript for the third section, Husserl's 1915 rework, two Stein copies, a Landgrebe typescript, and four years of Husserl's insertions into it. Dating the whole volume 1912 - or 1952, its publication - flattens exactly the development the ledger exists to show. But the commentary dates the volume's layers without assigning individual passages to them, and says in so many words why a section number will not stand in for a layer: \"Even within the first 33 paragraphs, which are relatively unified manuscript-wise, parts of the 1912 draft were incorporated in a criss-cross fashion that is surprising at first glance.\" Section ranges give only bounds, not layers: the first Stein copy \"contained §§1-17 of the present text ... then corresponded again to §§19-33\", and \"At §33 the text of the 1915 version breaks off\", while §§18, 25 and 33 were expanded again in 1918. So no intentionalitaet unit carries a stratum, and that is a checked fact about the commentary rather than an untagged record: re-checked 2026-09-15 over the sections the intentionalitaet pass covers (§§4-8, 22, 25, 29, 39, 55, 56 and the Beilage to §56). Assigning one would need the commentary to mark the layer at the passage, not the volume.",
       "role": "primary",
       "status": "resolved",
       "strata": [
@@ -689,6 +698,14 @@
           "stated_in_commentary": true,
           "year_end": 1912,
           "year_start": 1912
+        },
+        {
+          "id": "hua4-1913",
+          "label": "Third-section main manuscript, written 1913, taken up only in the second Stein working-out",
+          "year_start": 1913,
+          "year_end": 1913,
+          "stated_in_commentary": true,
+          "evidence": "For the third section (“The Constitution of the Spiritual World”), there is again a large main Husserl manuscript, though Edith Stein once more drew on other analyses for expansion. Although written already in 1913, this manuscript was taken into account only in the second Stein working-out"
         },
         {
           "evidence": "\"In 1915 Husserl produced a new working-out of the second book\"",

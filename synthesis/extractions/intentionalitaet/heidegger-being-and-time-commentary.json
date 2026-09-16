@@ -1,0 +1,66 @@
+{
+  "schema_version": 1,
+  "theme": "intentionalitaet",
+  "commentary": "heidegger-being-and-time-commentary",
+  "source_sha256": "057922646a8715d015516477785fc240249c4a068ff4b49e9969d1e376fd5d39",
+  "extracted_at": "2026-09-15",
+  "extractor": {
+    "agent": "claude-code",
+    "model": "claude-opus-5",
+    "prompt": "https://github.com/faultynode/prompts/blob/main/synthesis-pipeline/extraction-prompt.md",
+    "note": "Pass for gap-013, which asked for this commentary so that the near-disappearance of the word from the treatise becomes a checked negative rather than an impression from the other commentary's extracted quotes. The whole file was scanned for the theme's terms: 'intentional' occurs exactly once in 55,770 words, at § 10, in the report of Scheler on personality, and 'Intentionalitaet' and 'intentionality' do not occur at all. absent_terms is keyed to Intentionalitaet / intentionality / intentional and deliberately not to the stem intentio, which fires inside the ordinary English 'intention'. § 69 was not recorded as an absence although the term is missing there: the section runs to 180 words, and a checked absence in a section that compressed is the ambiguity gap-006 already flags."
+  },
+  "coverage": "partial",
+  "coverage_note": "Whole file scanned for the theme's terms; the single occurrence is recorded as the one unit. Four absences are recorded at the sections where the other commentary on the treatise places its intentionality-bearing units, so the two records can be set side by side: § 12 (being-in-the-world), § 13 (knowing as a founded mode), § 43 (reality and the external world) and § 44 (truth). Not covered: the rest of the commentary was read only for the theme's terms, so nothing here is a claim about what it says on any other theme; and § 69, where the term is also missing, is left unrecorded because its 180 words are too compressed for the absence to mean anything.",
+  "units": [
+    {
+      "id": "intentionalitaet/bt/001",
+      "locator": "heidegger-being-and-time-commentary#h3-s-10-the-delimitation-of-the-analytic-of-dasein-against-anthropology-psychology",
+      "primary_locator": "SZ § 10",
+      "term": "intentional acts",
+      "status": "presupposed",
+      "claim": "In the report of Scheler's interpretation of personality the person is said to exist only in the execution of intentional acts and therefore to be essentially no object.",
+      "quote": "Person exists only in the execution of intentional acts and is therefore essentially no object."
+    }
+  ],
+  "absences": [
+    {
+      "locator": "heidegger-being-and-time-commentary#h3-s-12-the-preliminary-sketch-of-being-in-the-world-from-the-orientation-toward-be",
+      "expected_because": "Being-in-the-world is sketched here against the worldless subject, the section a reader of Husserl would expect to be conducted in or against the vocabulary of intentionality. It is also the section where the other commentary on the treatise records the displacement (sz/001-003).",
+      "absent_terms": [
+        "Intentionalität",
+        "intentionality",
+        "intentional"
+      ],
+      "note": "Read beside heidegger-sein-und-zeit-commentary, which is also without the term at its § 12, the absence is not peculiar to one commentator."
+    },
+    {
+      "locator": "heidegger-being-and-time-commentary#h3-s-13-the-exemplification-of-being-in-through-a-founded-mode-world-cognition",
+      "expected_because": "Knowing the world as a founded mode of being-in is the point at which the other commentary on the treatise makes its one explicit engagement, glossing the section as intentionality out-radicalized (sz/008). Here the same section is expounded without the word.",
+      "absent_terms": [
+        "Intentionalität",
+        "intentionality",
+        "intentional"
+      ],
+      "note": "This is the sharpest of the four: the engagement the first commentary records at § 13 is the commentator's own gloss, not the treatise's word, and the second commentary on the same section supplies no such gloss."
+    },
+    {
+      "locator": "heidegger-being-and-time-commentary#h3-s-43-dasein-worldhood-and-reality",
+      "expected_because": "Reality and the provability of the external world are treated here, the problem intentionality was devised to solve, and the other commentary's units 010-012 sit at this section of the treatise.",
+      "absent_terms": [
+        "Intentionalität",
+        "intentionality",
+        "intentional"
+      ]
+    },
+    {
+      "locator": "heidegger-being-and-time-commentary#h3-s-44-dasein-disclosedness-and-truth",
+      "expected_because": "Truth is grounded in Dasein's disclosedness here, the ground Husserl covers with intentional fulfilment and evidence, and the other commentary's units 013-017 sit at this section of the treatise.",
+      "absent_terms": [
+        "Intentionalität",
+        "intentionality",
+        "intentional"
+      ]
+    }
+  ]
+}
