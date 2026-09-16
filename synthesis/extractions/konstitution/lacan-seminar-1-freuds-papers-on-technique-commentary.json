@@ -6,7 +6,7 @@
   "extracted_at": "2026-09-14",
   "extractor": {
     "agent": "claude-code",
-    "prompt": "synthesis-pipeline/extraction-prompt.md"
+    "prompt": "synthesis/prompts/extraction-prompt.md"
   },
   "coverage": "partial",
   "coverage_note": "The sessions of 13 January, 17 March and 5 May 1954 and the Gelinier presentation of the Klein paper - the places where the term family carries weight. The pass records a finding about the whole file: nothing here is Husserlian Konstitution. The register is psychoanalytic and largely ordinary - a group constitutes itself, prejudices constitute a community, Klein's 'constitutional capacity' is the hereditary sense - with the technical uses being the constitution of the Idealich, of good and bad objects, and of ignorance as a polar term. No unit carries a stratum: the commentary has no chronology.json entry, although it dates each session in its own headings.",

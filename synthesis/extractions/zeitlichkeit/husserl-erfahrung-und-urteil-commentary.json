@@ -6,7 +6,7 @@
   "extracted_at": "2026-09-14",
   "extractor": {
     "agent": "claude-code",
-    "prompt": "prompts/synthesis-pipeline/extraction-prompt.md"
+    "prompt": "synthesis/prompts/extraction-prompt.md"
   },
   "coverage": "partial",
   "coverage_note": "§ 23 a, § 38 and § 42 a, where time is the form of sensibility and the unity of the stream. The other 27 sections with term hits, among them § 39 and § 42 b, are not extracted; the free-variation chapters named in gap-007 are outside this pass.",

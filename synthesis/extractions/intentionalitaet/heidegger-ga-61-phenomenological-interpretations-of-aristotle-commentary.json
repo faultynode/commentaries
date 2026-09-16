@@ -7,7 +7,7 @@
   "extractor": {
     "agent": "claude-code",
     "model": "claude-opus-5",
-    "prompt": "https://github.com/faultynode/prompts/blob/main/synthesis-pipeline/extraction-prompt.md",
+    "prompt": "synthesis/prompts/extraction-prompt.md",
     "note": "Whole file scanned for the theme's terms: 'intentionality' occurs 6 times and 'intentional' 7, all in Part III Chapter 2 (Ruinance) and in the Comportment section of Part II; 'Intentionalitaet', 'noesis' and 'noema' do not occur. Read closely: the bracketed reflection on ruinance and intentionality, and the double sense of Verhalten."
   },
   "coverage": "partial",

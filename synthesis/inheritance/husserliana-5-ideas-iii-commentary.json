@@ -5,7 +5,7 @@
   "extracted_at": "2026-09-09",
   "extractor": {
     "agent": "claude-code",
-    "prompt": "prompts/inheritance-prompt.md",
+    "prompt": "synthesis/prompts/inheritance-prompt.md",
     "note": "source_sha256 is the LF digest (CRLF checkout; local validate reports a false staleness, CI on LF passes). Predecessor engagement is thin and concentrated in § 10 (Bolzano, Lotze, Brentano), with scattered references in § 7 (the anti-Kantian contrast on 'transcendental deduction') and the Afterword (Kant's 'will be able to present itself as a science'; Plato's founding of the idea of philosophy). One record per commentary covering all predecessors."
   },
   "coverage": "partial",

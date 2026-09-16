@@ -6,7 +6,7 @@
   "extracted_at": "2026-09-14",
   "extractor": {
     "agent": "claude-code",
-    "prompt": "prompts/synthesis-pipeline/extraction-prompt.md"
+    "prompt": "synthesis/prompts/extraction-prompt.md"
   },
   "coverage": "partial",
   "coverage_note": "The sections where time-consciousness carries the argument: Part 2 §§ 18 and 30, Part 3 § 56, and Supplementary Texts Section 1 (the 1920/21 first version). The remaining 38 sections with term hits, including the affection and association analyses of Part 2, are not extracted.",

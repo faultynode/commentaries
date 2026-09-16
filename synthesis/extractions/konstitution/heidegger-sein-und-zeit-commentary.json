@@ -6,7 +6,7 @@
   "extracted_at": "2026-09-14",
   "extractor": {
     "agent": "claude-code",
-    "prompt": "synthesis-pipeline/extraction-prompt.md"
+    "prompt": "synthesis/prompts/extraction-prompt.md"
   },
   "coverage": "partial",
   "coverage_note": "SS 4, 6, 10, 12, 14, 38 and 65, the places where the term carries weight. The pass records a finding that governs the whole file: in this commentary 'constitution' almost always renders Seinsverfassung / Grundverfassung - Dasein's constitution of being, a make-up or state - and not Husserlian Konstitution. The German Verfassung occurs nowhere in the file, so nothing in the text marks the difference. The two places where the Husserlian sense is in view (SS 10 and 14) are both reports of Husserl's position. Sections not listed above have not been extracted.",

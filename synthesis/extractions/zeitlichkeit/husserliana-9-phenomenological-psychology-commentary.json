@@ -6,7 +6,7 @@
   "extracted_at": "2026-09-14",
   "extractor": {
     "agent": "claude-code",
-    "prompt": "prompts/synthesis-pipeline/extraction-prompt.md"
+    "prompt": "synthesis/prompts/extraction-prompt.md"
   },
   "coverage": "partial",
   "coverage_note": "§ 33 (objective and stream temporality), § 40 (the problematic of temporality) and Beilage XXIII. The remaining 19 sections with term hits, including Beilagen XII and XIX, are not extracted.",

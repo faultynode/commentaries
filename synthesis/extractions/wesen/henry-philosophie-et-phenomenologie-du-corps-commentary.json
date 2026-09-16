@@ -6,7 +6,7 @@
   "extracted_at": "2026-09-14",
   "extractor": {
     "agent": "claude-code",
-    "prompt": "prompts/synthesis-pipeline/extraction-prompt.md",
+    "prompt": "synthesis/prompts/extraction-prompt.md",
     "note": "Whole file grep-scanned for the theme's search terms plus 'simple nature', 'innate', 'immutable', 'Wesensschau', 'free variation' and 'residuum'. 'simple nature' occurs in Chapter V, in Henry's report of the Cartesian doctrine of primitive natures - the only place in the corpus so far, outside the Marion record, where that vocabulary is in play. Closely read Chapter V (lines 699-772); the Conclusion (905-1049) was read for its essence-of-the-body statements only."
   },
   "coverage": "partial",

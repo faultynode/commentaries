@@ -6,7 +6,7 @@
   "extracted_at": "2026-09-14",
   "extractor": {
     "agent": "claude-code",
-    "prompt": "prompts/synthesis-pipeline/extraction-prompt.md"
+    "prompt": "synthesis/prompts/extraction-prompt.md"
   },
   "coverage": "partial",
   "coverage_note": "Chapter 1, 'Origin of Time and Originary Time (Husserl and Heidegger)', sections I-III, and section II of chapter 2, 'The Presence of the Past (Husserl)'. Chapter 4 ('His Master's Voice'), the rest of chapter 2 and the sections on the self-appearing of the flux carry term hits and are not extracted.",

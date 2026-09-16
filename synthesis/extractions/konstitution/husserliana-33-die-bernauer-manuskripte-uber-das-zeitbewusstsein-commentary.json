@@ -6,7 +6,7 @@
   "extracted_at": "2026-09-14",
   "extractor": {
     "agent": "claude-code",
-    "prompt": "synthesis-pipeline/extraction-prompt.md"
+    "prompt": "synthesis/prompts/extraction-prompt.md"
   },
   "coverage": "partial",
   "coverage_note": "Section III of the editor's introduction and the sections that name constitution in their own headings - the interweaving of retention and protention, the alternative model of the primal process, the grasping-perception question, the unity of the functioning primal process, and the temporal essential determinations of constituting consciousness. No unit carries a stratum: the commentary dates the two Bernau stays but does not assign the individual texts to either, so nothing here can be placed on the 1917/1918 division.",

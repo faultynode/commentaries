@@ -6,7 +6,7 @@
   "extracted_at": "2026-09-14",
   "extractor": {
     "agent": "claude-code",
-    "prompt": "prompts/synthesis-pipeline/extraction-prompt.md",
+    "prompt": "synthesis/prompts/extraction-prompt.md",
     "note": "Whole file grep-scanned for the theme's search terms plus 'Wesensschau', 'immutable', 'innate', 'Descartes', 'residuum', 'free variation' and 'simple nature'. 'immutable' occurs once, of the ideal form of the sign, and is recorded as unit 006. Closely read chapter 4 section I (lines 873-896) and the noema section of chapter 2 (261-294)."
   },
   "coverage": "partial",

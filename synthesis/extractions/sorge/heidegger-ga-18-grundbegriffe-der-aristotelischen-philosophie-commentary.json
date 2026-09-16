@@ -6,7 +6,7 @@
   "extracted_at": "2026-09-14",
   "extractor": {
     "agent": "claude-code",
-    "prompt": "prompts/extraction-prompt.md",
+    "prompt": "synthesis/prompts/extraction-prompt.md",
     "note": "Run after the chronology pass dated the course to Summer Semester 1924, which is what let it go on the ledger spine at all (gap-001)."
   },
   "coverage": "partial",

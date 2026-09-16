@@ -6,7 +6,7 @@
   "extracted_at": "2026-09-09",
   "extractor": {
     "agent": "claude-code",
-    "prompt": "prompts/extraction-prompt.md",
+    "prompt": "synthesis/prompts/extraction-prompt.md",
     "note": "source_sha256 is the LF digest (CRLF checkout; local validate reports a false staleness, CI on LF passes). Ideas III is a short methodological volume on the relations of phenomenology to psychology and ontology and on the method of clarification; intentionality appears indirectly. Closely read Second Chapter §§ 5, 7, 10 (the eidetic analysis of apprehensions, the correlation of object-category and originarily giving intuition, regional concepts and the sense-form of giving intuition, the relation to Brentano's idea of intentionality), Third Chapter §§ 13, 16-17 (the phenomenological residuum as noesis and noema, noema vs. essence, the parallel of psychology and phenomenology), Fourth Chapter § 20 (clarification as noematic coincidence, phenomenology as the mother-soil of ontology), Supplement I § 1 (the constitution of the soul through empathy/interpretation, the soul as noematic representation), and Afterword Section 6 (the description of the intentional object as such, the intentional object as an index of consciousness-manifolds). Not read in detail: §§ 1-4 (material thing, body, somatology), §§ 6, 8-9, 11-12 (regional/genus concepts and rational vs. experimental psychology in detail), §§ 18-19, and Supplements II-IV. chronology.json entry is unresolved and undated (P5 pending; Hua V shares Stein/Landgrebe strata with Ideas II per that volume's editor's introduction, but the commentary text does not state them)."
   },
   "coverage": "partial",

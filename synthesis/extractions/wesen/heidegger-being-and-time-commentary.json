@@ -6,7 +6,7 @@
   "extracted_at": "2026-09-14",
   "extractor": {
     "agent": "claude-code",
-    "prompt": "prompts/synthesis-pipeline/extraction-prompt.md",
+    "prompt": "synthesis/prompts/extraction-prompt.md",
     "note": "Whole file grep-counted for the theme's search terms plus 'Wesensschau', 'eidetic', 'eidos' and 'essentia': 'Wesensschau' and 'eidetic' occur nowhere; 'eidos' occurs once, at § 13, of the pure look in which intraworldly beings are encountered. Closely read § 9 (lines 282-305); §§ 6, 4 and 44 were keyword-scanned. This is the second commentary in the corpus on the same primary text as heidegger-sein-und-zeit-commentary, and the two records should be read together."
   },
   "coverage": "partial",

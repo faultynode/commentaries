@@ -6,7 +6,7 @@
   "extracted_at": "2026-09-08",
   "extractor": {
     "agent": "claude-code",
-    "prompt": "prompts/extraction-prompt.md",
+    "prompt": "synthesis/prompts/extraction-prompt.md",
     "note": "Grep-searched the whole file for 'immutable', 'vera et immutabilis', 'true and immutable', 'geometry/geometric/geometrical', 'essence of the triangle', 'eidos', 'innate' and 'residuum'; closely read lines 90-149 and 190-319 (chapters II-IV) paragraph by paragraph. Lines 1-89, 150-189 and 320-371 (chapter I's mathesis universalis material and chapter V's Pascal material) were keyword-scanned but not closely read, hence coverage is declared partial."
   },
   "coverage": "partial",

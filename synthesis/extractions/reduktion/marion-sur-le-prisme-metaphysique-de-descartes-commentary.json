@@ -6,7 +6,7 @@
   "extracted_at": "2026-09-14",
   "extractor": {
     "agent": "claude-code",
-    "prompt": "https://github.com/faultynode/prompts/blob/main/synthesis-pipeline/extraction-prompt.md",
+    "prompt": "synthesis/prompts/extraction-prompt.md",
     "note": "Partial pass over §§ 6, 8, 9 and 25. The commentary's uses of 'reduction' are Cartesian and Pascalian rather than Husserlian, and § 25 states the relation between them explicitly."
   },
   "coverage": "partial",

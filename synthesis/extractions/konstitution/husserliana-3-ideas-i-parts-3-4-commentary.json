@@ -6,7 +6,7 @@
   "extracted_at": "2026-09-14",
   "extractor": {
     "agent": "claude-code",
-    "prompt": "synthesis-pipeline/extraction-prompt.md"
+    "prompt": "synthesis/prompts/extraction-prompt.md"
   },
   "coverage": "partial",
   "coverage_note": "S 86, where the functional problems are identified with the problems of constitution, and SS 150-153, the closing chapter in which constitution is stratified, transferred to all regions and finally extended to the whole of phenomenology. The intervening noetic-noematic analyses (SS 87-148) carry the term hardly at all - many of the longest sections in the commentary contain no term of the family - and two of them are recorded as absences. No unit carries a stratum: the only stratum chronology.json offers for this commentary is 'hua3-undated', which is undated and which that file also assigns to husserliana-3-ideas-i-commentary, so the reference would be ambiguous and would date nothing.",

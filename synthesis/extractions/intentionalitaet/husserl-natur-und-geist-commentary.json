@@ -6,7 +6,7 @@
   "extracted_at": "2026-09-09",
   "extractor": {
     "agent": "claude-code",
-    "prompt": "prompts/extraction-prompt.md",
+    "prompt": "synthesis/prompts/extraction-prompt.md",
     "note": "source_sha256 is the LF digest (CRLF checkout; local validate reports a false staleness, CI on LF passes). The commentary has only a handful of large section anchors; closely read 'Ego-Life as Constant Perceiving: Impression and Reproduction', 'Inner and Outer Perception. Object and Appearance', 'The Method of Phenomenological Reduction', and 'The Articulation into Things and Subjects'. Several units necessarily share a section locator because the anchors span thousands of words each. Not read in detail: the long Introduction and the Part II material beyond the things/subjects articulation. chronology.json entry is resolved with a single stratum (Lectures, SS 1919); no per-unit stratum field exists in the extraction schema."
   },
   "coverage": "partial",

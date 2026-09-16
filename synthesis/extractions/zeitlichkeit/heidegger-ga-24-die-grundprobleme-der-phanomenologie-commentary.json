@@ -6,7 +6,7 @@
   "extracted_at": "2026-09-14",
   "extractor": {
     "agent": "claude-code",
-    "prompt": "prompts/synthesis-pipeline/extraction-prompt.md",
+    "prompt": "synthesis/prompts/extraction-prompt.md",
     "note": "An intentionalitaet record already exists for this commentary. The commentary covers the course's Introduction; the Temporalität chapters the Introduction announces are not in the file."
   },
   "coverage": "partial",

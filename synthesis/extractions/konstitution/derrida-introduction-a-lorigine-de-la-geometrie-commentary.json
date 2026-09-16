@@ -6,7 +6,7 @@
   "extracted_at": "2026-09-14",
   "extractor": {
     "agent": "claude-code",
-    "prompt": "synthesis-pipeline/extraction-prompt.md"
+    "prompt": "synthesis/prompts/extraction-prompt.md"
   },
   "coverage": "partial",
   "coverage_note": "Sections II, VI, VII and XI, where the theme carries the argument: the reduction of constituted geometry, constituted against constituting language, writing as the highest possibility of all constitution, and the non-coincidence of the constituting and constituted moments against Cavailles. Sections I, III, IV, V, VIII, IX and X have not been extracted.",

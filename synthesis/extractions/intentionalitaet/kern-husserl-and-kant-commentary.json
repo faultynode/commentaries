@@ -6,7 +6,7 @@
   "extracted_at": "2026-09-09",
   "extractor": {
     "agent": "claude-code",
-    "prompt": "prompts/extraction-prompt.md",
+    "prompt": "synthesis/prompts/extraction-prompt.md",
     "note": "source_sha256 is the LF digest (CRLF checkout; local validate reports a false staleness, CI on LF passes). This is a scholarly monograph (Iso Kern, Husserl und Kant); intentionality appears in the reconstruction of Husserl's critique of Kant and the neo-Kantians. Closely read § 9 (b/c: the sensibility/understanding division, the noesis/noema confusion charged against Kant), § 11 (the principle of all principles, Kant's constructive method vs. intentional analysis, Kant's de facto phenomenological attitude), § 15 (the way from above / from below in the transcendental deduction), § 18 (the way via ontology and the reference of the objective a priori to subjectivity), § 32 (critique of Natorp's collapse of act and content), and § 34 (real vs. intentional immanence). Not read in detail: the historical Part 1, §§ 10, 12-14, 16-17, 19-31, 33, 35-37. No chronology.json entry (P5 pending; Kern's monograph appeared 1964, not dated in the commentary file)."
   },
   "coverage": "partial",

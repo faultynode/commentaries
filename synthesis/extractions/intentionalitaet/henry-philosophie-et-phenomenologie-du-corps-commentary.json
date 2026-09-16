@@ -6,7 +6,7 @@
   "extracted_at": "2026-09-08",
   "extractor": {
     "agent": "claude-code",
-    "prompt": "prompts/extraction-prompt.md",
+    "prompt": "synthesis/prompts/extraction-prompt.md",
     "note": "source_sha256 is the LF digest (CRLF checkout; local validate reports a false staleness, CI on LF passes). Closely read Chapter I § 1 (The Phenomenological Presuppositions of Biranian Ontology) and roughly the first two-thirds of the Conclusion (The Ontological Theory of the Body and the Problem of Incarnation). Not read: the Introduction, Chapter I § 2, and Chapters II-VI. In this book intentionality is mostly a foil: Henry argues that the subjective body is known non-intentionally, in immanent auto-affection, and coins 'ontological monism' for the thesis (Kant/Husserl/Heidegger) that anything real is given only through the transcendental horizon of being. Chronology already resolved (reception layer, 1965)."
   },
   "coverage": "partial",

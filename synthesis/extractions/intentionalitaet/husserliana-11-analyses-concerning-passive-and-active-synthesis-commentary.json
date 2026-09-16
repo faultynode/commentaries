@@ -6,7 +6,7 @@
   "extracted_at": "2026-09-09",
   "extractor": {
     "agent": "claude-code",
-    "prompt": "prompts/synthesis-pipeline/extraction-prompt.md",
+    "prompt": "synthesis/prompts/extraction-prompt.md",
     "note": "Extraction focused on intentionality as fundamental structure of consciousness in Husserl's genetic phenomenology. Key sections: Part 1 (section 6 on intentional lived-experience, sections 8-10), Part 2 (§14, §20-21). Partial coverage of introductory discussion of the Analyses."
   },
   "coverage": "partial",

@@ -6,7 +6,7 @@
   "extracted_at": "2026-09-14",
   "extractor": {
     "agent": "claude-code",
-    "prompt": "prompts/synthesis-pipeline/extraction-prompt.md",
+    "prompt": "synthesis/prompts/extraction-prompt.md",
     "note": "Whole file grep-counted for the theme's search terms plus 'Wesen', 'quidditas', 'Wesensschau' and 'eidetic'; 'quidditas', 'Wesensschau' and 'eidetic' return nothing. The theme's vocabulary in this commentary is almost entirely 'essence' and 'essential', used ontologically (the essence of finitude, of knowledge, of the human being), never eidetically. Closely read §§ 4, 5, 29, 31 and 34."
   },
   "coverage": "partial",

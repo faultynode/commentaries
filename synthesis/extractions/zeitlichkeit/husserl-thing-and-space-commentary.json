@@ -6,7 +6,7 @@
   "extracted_at": "2026-09-14",
   "extractor": {
     "agent": "claude-code",
-    "prompt": "prompts/synthesis-pipeline/extraction-prompt.md"
+    "prompt": "synthesis/prompts/extraction-prompt.md"
   },
   "coverage": "partial",
   "coverage_note": "§ 19 (pre-phenomenal temporality) and § 56 (the temporal structure of the kinaesthetic sequences), the two sections where temporality is thematic. The remaining 30 sections with term hits - among them §§ 20, 25, 26 and 62 - are not extracted.",

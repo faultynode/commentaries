@@ -6,7 +6,7 @@
   "extracted_at": "2026-09-14",
   "extractor": {
     "agent": "claude-code",
-    "prompt": "prompts/synthesis-pipeline/extraction-prompt.md"
+    "prompt": "synthesis/prompts/extraction-prompt.md"
   },
   "coverage": "partial",
   "coverage_note": "Appendix II §§ 2 b-c and § 3 a, where the time-form of intentional genesis and the retentional modification are set out. The nine other sections with term hits are not extracted.",

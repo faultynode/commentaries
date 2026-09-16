@@ -5,7 +5,7 @@
   "extracted_at": "2026-09-09",
   "extractor": {
     "agent": "claude-code",
-    "prompt": "prompts/inheritance-prompt.md",
+    "prompt": "synthesis/prompts/inheritance-prompt.md",
     "note": "source_sha256 is the LF digest (CRLF checkout; local validate reports a false staleness, CI on LF passes). Predecessor engagement is concentrated in the Introduction (Aristotle on the two-membered judgment, §2; the Cartesian motif of the transcendental, §11; Hume and Brentano on judgment as passive datum, §13), in Part I §16 (the transformation of the traditional concept of association) and §38 (the Kantian thesis that time is the form of sensibility), and in Appendix II (critique of the Humean conception of probability). One record per commentary covering all predecessors."
   },
   "coverage": "partial",

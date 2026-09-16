@@ -6,7 +6,7 @@
   "extracted_at": "2026-09-14",
   "extractor": {
     "agent": "claude-code",
-    "prompt": "synthesis-pipeline/extraction-prompt.md"
+    "prompt": "synthesis/prompts/extraction-prompt.md"
   },
   "coverage": "partial",
   "coverage_note": "The introduction, S 10, and the conclusion. The pass records a finding that governs the whole file: in this commentary 'constitution' is almost always the onto-theo-logical constitution of metaphysics - a Heideggerian Verfassung, the make-up or set-up of metaphysics - and not Husserlian Konstitution. Nothing in the text marks the difference. SS 1-9 and 11-25 have not been extracted; three of the longest of them carry no term of the family at all and two are recorded as absences.",

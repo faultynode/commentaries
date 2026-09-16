@@ -14,6 +14,8 @@ their sources in CI.
 - [docs/synthesis-operations.md](docs/synthesis-operations.md) — runbook, CI, troubleshooting
 - [synthesis/CLAUDE.md](synthesis/CLAUDE.md) — conventions for working in
   `synthesis/`
+- [synthesis/prompts/](synthesis/prompts) — the extraction (Stage 1),
+  inheritance (Stage 3) and synthesis (Stage 4) prompts
 
 ## External services
 

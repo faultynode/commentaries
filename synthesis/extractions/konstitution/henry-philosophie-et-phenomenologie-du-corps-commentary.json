@@ -6,7 +6,7 @@
   "extracted_at": "2026-09-14",
   "extractor": {
     "agent": "claude-code",
-    "prompt": "synthesis-pipeline/extraction-prompt.md"
+    "prompt": "synthesis/prompts/extraction-prompt.md"
   },
   "coverage": "partial",
   "coverage_note": "Chapter II, Chapter III S 1, and Chapter IV, which carries the problem of the constitution of one's own body in its title. The absence list is empty and that is a claim: no section of this commentary over 400 words is free of the term family, the lowest count being three, so there is nowhere the theme was expected and is missing. Chapters I, V, VI and VII have not been extracted.",

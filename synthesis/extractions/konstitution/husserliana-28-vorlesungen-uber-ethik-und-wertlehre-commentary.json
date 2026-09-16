@@ -6,7 +6,7 @@
   "extracted_at": "2026-09-14",
   "extractor": {
     "agent": "claude-code",
-    "prompt": "synthesis-pipeline/extraction-prompt.md"
+    "prompt": "synthesis/prompts/extraction-prompt.md"
   },
   "coverage": "partial",
   "coverage_note": "SS 3 and 8 and the sections (b) on the knowledge-problems and (b) on the stages to absolute knowledge - that is, the epistemological framing of the lectures. The pass records a distribution: the term family sits almost entirely in that framing, and the axiological and practical parts of the lectures carry none of it, three of them being recorded as absences. No stratum: the commentary has no chronology.json entry and states no date of its own.",

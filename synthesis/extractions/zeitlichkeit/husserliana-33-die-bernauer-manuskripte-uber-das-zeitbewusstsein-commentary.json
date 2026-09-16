@@ -6,7 +6,7 @@
   "extracted_at": "2026-09-14",
   "extractor": {
     "agent": "claude-code",
-    "prompt": "prompts/synthesis-pipeline/extraction-prompt.md"
+    "prompt": "synthesis/prompts/extraction-prompt.md"
   },
   "coverage": "partial",
   "coverage_note": "Editors' Introduction § III (the development from Hua X to the Bernau doctrine) and Text Nr. 1 §§ 2-4 with Supplement I. The remaining Bernau texts (Nr. 2 onward) and Introduction §§ I-II, IV-V carry term hits and are not extracted.",

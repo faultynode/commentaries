@@ -6,7 +6,7 @@
   "extracted_at": "2026-09-14",
   "extractor": {
     "agent": "claude-code",
-    "prompt": "prompts/synthesis-pipeline/extraction-prompt.md",
+    "prompt": "synthesis/prompts/extraction-prompt.md",
     "note": "The term hits in this file are almost entirely Zeitigung/temporalizing, not Zeitlichkeit. The record says so rather than reading the later doctrine back into the course."
   },
   "coverage": "partial",

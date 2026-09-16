@@ -6,7 +6,7 @@
   "extracted_at": "2026-09-09",
   "extractor": {
     "agent": "claude-code",
-    "prompt": "prompts/synthesis-pipeline/extraction-prompt.md",
+    "prompt": "synthesis/prompts/extraction-prompt.md",
     "note": "Extraction focused on core doctrine and application of intentionality across the commentary. Chapter Two introduces intentionality as the first structural feature of transcendental consciousness; Chapter Three applies intentional analysis to perception and flesh; Chapter Four examines constitution through intentional life. Partial coverage of remaining chapters (Five-Twelve) for thematic richness and development."
   },
   "coverage": "partial",

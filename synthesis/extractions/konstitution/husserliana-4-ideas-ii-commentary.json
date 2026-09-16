@@ -6,7 +6,7 @@
   "extracted_at": "2026-09-14",
   "extractor": {
     "agent": "claude-code",
-    "prompt": "synthesis-pipeline/extraction-prompt.md"
+    "prompt": "synthesis/prompts/extraction-prompt.md"
   },
   "coverage": "partial",
   "coverage_note": "The editor's account of the reworkings, SS 4, 10, 11 and 16, and section a) of the chapter on the dependencies of the material thing on the experiencing subject-body. Strata: only the two units from the editor's account carry one, because only there does the commentary date what it is describing; the units drawn from Husserl's own text are not assigned to any of the six strata this commentary records, since the commentary does not say which reworking each passage belongs to. SS 17-61 have not been extracted.",

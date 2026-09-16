@@ -6,7 +6,7 @@
   "extracted_at": "2026-09-14",
   "extractor": {
     "agent": "claude-code",
-    "prompt": "synthesis-pipeline/extraction-prompt.md"
+    "prompt": "synthesis/prompts/extraction-prompt.md"
   },
   "coverage": "partial",
   "coverage_note": "Text Nr. 1, Text Nr. 2, Text Nr. 3, Text Nr. 6 and S 1 of the editor's division - the texts that carry the theme's weight in this commentary, including the stratified architecture of constitution (Nr. 2) and the constitutive priority of the world over the immanent sphere (Nr. 3). The supplements and Texts Nr. 4, 5, 7 and following have not been extracted.",

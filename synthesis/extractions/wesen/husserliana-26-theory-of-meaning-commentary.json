@@ -6,7 +6,7 @@
   "extracted_at": "2026-09-14",
   "extractor": {
     "agent": "claude-code",
-    "prompt": "prompts/synthesis-pipeline/extraction-prompt.md",
+    "prompt": "synthesis/prompts/extraction-prompt.md",
     "note": "Whole file grep-scanned for the theme's search terms plus 'Wesensschau', 'essentia', 'immutable', 'innate', 'residuum' and 'Descartes'; the last four occur nowhere. Closely read § 31, § 32 and § 36 a-b."
   },
   "coverage": "partial",

@@ -6,7 +6,7 @@
   "extracted_at": "2026-09-09",
   "extractor": {
     "agent": "claude-code",
-    "prompt": "prompts/extraction-prompt.md",
+    "prompt": "synthesis/prompts/extraction-prompt.md",
     "note": "source_sha256 is the LF digest (CRLF checkout; local validate reports a false staleness, CI on LF passes). Closely read the Introduction §§ 5a, 8, 11 (mere judging as intentional modification and intentional implication, the horizon-structure of experience, the regress to a concealed constituting subjectivity) and Part I §§ 16-19, 38-39, 42b (the field of passive pregivennesses and association, affection and ego-turning, receptivity as the lowest level of activity, attention as ego-tendency, interest and kinaesthesis, the necessary time-connection of all intentional objects, the disconnectedness of phantasy, the double function of association). Not read in detail: §§ 1-4, 6-7, 9-10, 12-15, 20-37, 40-98 and the Appendices (the theory of pre-predicative evidence in detail, the origin of the modalities, simple apprehension and explication, relations, predication, the objectualities of the understanding, general objectualities and eidetic variation). chronology.json entry exists but status 'unresolved' (P5 pending; Erfahrung und Urteil was compiled by Ludwig Landgrebe from Husserl manuscripts and published 1939, and the strata are not identified in the commentary file)."
   },
   "coverage": "partial",

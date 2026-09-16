@@ -6,7 +6,7 @@
   "extracted_at": "2026-09-08",
   "extractor": {
     "agent": "claude-code",
-    "prompt": "prompts/extraction-prompt.md",
+    "prompt": "synthesis/prompts/extraction-prompt.md",
     "note": "source_sha256 is the LF digest as recorded in corpus.json (CRLF checkout; local validate reports a false staleness, CI on LF passes). Done in two sessions on 2026-09-08. Session 1 (units 001-035): Part One chapters 1-2 and chapter 3 subsection I, plus the Conclusion. Session 2 (units 036-059, absence 001): chapter 3 subsections II-III, and Parts Two and Three closely read through chapter III.2 (Presence of the Past); the Proust/Barthes memory chapter (III.3) and most of the Derrida chapter (III.4) were scanned but not extracted. The Introduction remains unread."
   },
   "coverage": "partial",

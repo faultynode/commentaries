@@ -6,7 +6,7 @@
   "extracted_at": "2026-09-14",
   "extractor": {
     "agent": "claude-code",
-    "prompt": "prompts/synthesis-pipeline/extraction-prompt.md",
+    "prompt": "synthesis/prompts/extraction-prompt.md",
     "note": "Whole file grep-scanned for the theme's search terms plus 'Wesensschau', 'eidetic', 'eidos', 'immutable', 'innate', 'Descartes' and 'residuum'; none of the last six occur in the sections read. Closely read § 28 (lines 469-482) and the Introduction (11-34); §§ 5 and 25 were keyword-scanned."
   },
   "coverage": "partial",

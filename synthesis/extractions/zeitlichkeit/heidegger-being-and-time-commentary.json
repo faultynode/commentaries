@@ -6,7 +6,7 @@
   "extracted_at": "2026-09-14",
   "extractor": {
     "agent": "claude-code",
-    "prompt": "prompts/synthesis-pipeline/extraction-prompt.md",
+    "prompt": "synthesis/prompts/extraction-prompt.md",
     "note": "This commentary is keyed to the English Being and Time; the German Sein und Zeit has its own commentary and its own record under this theme."
   },
   "coverage": "partial",

@@ -6,7 +6,7 @@
   "extracted_at": "2026-09-09",
   "extractor": {
     "agent": "claude-code",
-    "prompt": "prompts/extraction-prompt.md",
+    "prompt": "synthesis/prompts/extraction-prompt.md",
     "note": "source_sha256 is the LF digest (CRLF checkout; local validate reports a false staleness, CI on LF passes). Closely read Part III § 1 (Affection, Apprehension, Turning-Toward, and Creative Act of the Understanding) and Part III § 4 (Feeling-Sensibility and Intentionality, dated early November 1911), the two sections where intentionality is directly analysed. Not read: Parts I and II (the founding of value-acts on thing-acts; sensible feelings and the Gefuehlston) and Part III §§ 2-3. No chronology.json entry yet (P5 pending); these are research manuscripts c. 1909-1914."
   },
   "coverage": "partial",

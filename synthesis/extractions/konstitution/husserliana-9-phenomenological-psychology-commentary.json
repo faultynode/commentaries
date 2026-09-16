@@ -6,7 +6,7 @@
   "extracted_at": "2026-09-14",
   "extractor": {
     "agent": "claude-code",
-    "prompt": "synthesis-pipeline/extraction-prompt.md"
+    "prompt": "synthesis/prompts/extraction-prompt.md"
   },
   "coverage": "partial",
   "coverage_note": "Beilage XVII, SS 27, 40 and 45 of the lectures, and S 2 of the appended Amsterdam material. The term family is sparse across this commentary for its length - the longest sections, including S 4 and the Brentano section, carry none of it at all, and two are recorded as absences.",

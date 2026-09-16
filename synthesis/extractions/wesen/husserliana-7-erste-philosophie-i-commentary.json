@@ -6,7 +6,7 @@
   "extracted_at": "2026-09-14",
   "extractor": {
     "agent": "claude-code",
-    "prompt": "prompts/synthesis-pipeline/extraction-prompt.md",
+    "prompt": "synthesis/prompts/extraction-prompt.md",
     "note": "Whole file grep-scanned for the theme's search terms plus 'Wesensintuition', 'Wesensschau', 'Ideenerkenntnis', 'immutable', 'innate', 'residuum', 'Descartes' and 'free variation'. Closely read the Nineteenth Lecture (lines 679-714), the Fifth Lecture (233-278) and the Twenty-fourth Lecture (827-850)."
   },
   "coverage": "partial",

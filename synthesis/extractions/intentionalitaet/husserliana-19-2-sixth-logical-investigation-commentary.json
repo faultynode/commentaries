@@ -6,7 +6,7 @@
   "extracted_at": "2026-09-09",
   "extractor": {
     "agent": "claude-code",
-    "prompt": "prompts/extraction-prompt.md",
+    "prompt": "synthesis/prompts/extraction-prompt.md",
     "note": "source_sha256 is the LF digest (CRLF checkout; local validate reports a false staleness, CI on LF passes). Closely read the Introduction, the First Section (Chapters One-Three and Five: the doctrine of meaning-intention and meaning-fulfilment, the objectifying acts, disappointment and conflict, mere identification vs. fulfilment, the doctrine of fullness and of representation/apprehension, intentional vs. cognitive essence, the ideal of ultimate fulfilment, evidence and truth), and the opening of the Second Section on categorial intuition (§§ 43, 46-48). Not read in detail: §§ 1-7, 14-15, 17-20, 24, 29-36 (compatibility/incompatibility), 40-42, 44-45, 49-66 (categorial representation and the laws of genuine/improper thinking), and the whole Third Section (§§ 67-70, non-objectifying acts and the Aristotelian dispute). No chronology.json entry yet (P5 pending; the Sixth Investigation appeared in the A-edition of 1901 and was heavily revised for the B-edition of 1921, printed together with both texts in Husserliana XIX/2, ed. U. Panzer 1984)."
   },
   "coverage": "partial",

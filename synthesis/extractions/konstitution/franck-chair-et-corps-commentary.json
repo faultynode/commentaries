@@ -6,7 +6,7 @@
   "extracted_at": "2026-09-14",
   "extractor": {
     "agent": "claude-code",
-    "prompt": "synthesis-pipeline/extraction-prompt.md"
+    "prompt": "synthesis/prompts/extraction-prompt.md"
   },
   "coverage": "partial",
   "coverage_note": "Chapters Four, Five, Six, Eight and Twelve. The absence list is empty and that is a claim, not a default: every section of this commentary over 300 words carries at least two terms of the family, so there is nowhere in it where the theme was expected and is missing. No unit carries a stratum - the commentary has no chronology.json entry and states no date of its own.",

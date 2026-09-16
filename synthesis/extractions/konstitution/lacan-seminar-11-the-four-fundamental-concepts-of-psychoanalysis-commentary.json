@@ -6,7 +6,7 @@
   "extracted_at": "2026-09-14",
   "extractor": {
     "agent": "claude-code",
-    "prompt": "synthesis-pipeline/extraction-prompt.md"
+    "prompt": "synthesis/prompts/extraction-prompt.md"
   },
   "coverage": "partial",
   "coverage_note": "Lessons IV, XI, XVI and XIX, where 'the constitution of the subject' is a term of art and not the ordinary sense: the subject constituted in the field of the Other, constituted second with respect to the signifier, constituted around the fallen first signifier. Lessons I-III, V-X, XII-XV, XVII-XVIII and XX have not been extracted; II and VII carry no term of the family and one is recorded as an absence. No stratum: the commentary has no chronology.json entry, although it dates each lesson in its own text.",

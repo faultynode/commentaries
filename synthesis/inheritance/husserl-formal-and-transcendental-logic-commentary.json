@@ -5,7 +5,7 @@
   "extracted_at": "2026-09-09",
   "extractor": {
     "agent": "claude-code",
-    "prompt": "prompts/inheritance-prompt.md",
+    "prompt": "synthesis/prompts/inheritance-prompt.md",
     "note": "source_sha256 is the LF digest (CRLF checkout; local validate reports a false staleness, CI on LF passes). Predecessor engagement is concentrated in the Introduction (Plato, Descartes, Kant, Locke, Lotze) and in short sections of Part I and Part II (Leibniz § 23b, Bolzano § 26d, Riemann § 30, Descartes § 93b, Hume/Kant § 100). Not read for this pass: the technical apophantic-analytics chapters and the transcendental-phenomenology conclusion in detail. One record per commentary covering all predecessors."
   },
   "coverage": "partial",

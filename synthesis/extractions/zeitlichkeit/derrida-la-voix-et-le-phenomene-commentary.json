@@ -6,7 +6,7 @@
   "extracted_at": "2026-09-14",
   "extractor": {
     "agent": "claude-code",
-    "prompt": "prompts/synthesis-pipeline/extraction-prompt.md",
+    "prompt": "synthesis/prompts/extraction-prompt.md",
     "note": "This file is a reader's guide rather than a unit-by-unit commentary; its sections are short and summarizing, and the record is bounded accordingly."
   },
   "coverage": "partial",

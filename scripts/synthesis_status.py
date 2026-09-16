@@ -116,8 +116,8 @@ def main(argv):
         out.append("")
     else:
         out += ["No inheritance records yet. Stage 3 is a separate pass over the "
-                "same commentaries; see inheritance-prompt.md in the "
-                "faultynode/prompts repo (synthesis-pipeline/).", ""]
+                "same commentaries; see "
+                "synthesis/prompts/inheritance-prompt.md.", ""]
 
     if all_stale:
         out += ["## Stale records", "",

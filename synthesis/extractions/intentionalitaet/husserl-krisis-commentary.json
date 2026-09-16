@@ -5,7 +5,7 @@
   "source_sha256": "2b88ec8e52006ce7c22903c868cc8d32c8b5f43eb0dccec8e1c9e78f0a55c845",
   "extractor": {
     "agent": "claude-code",
-    "prompt": "prompts/extraction-prompt.md",
+    "prompt": "synthesis/prompts/extraction-prompt.md",
     "note": "source_sha256 is the LF digest (CRLF checkout; local validate reports a false staleness, CI on LF passes). This commentary's sections are compact; closely read § 20 (intentionality in Descartes), § 29 (the anonymous constituting subjectivity), § 45 (concrete explication of sensory intuition), §§ 46-50 (the universal correlation-a priori, kinaestheses and validity-change, all beings as indices of correlative systems, constitution as original formation of meaning, the ego-cogito-cogitatum ordering), §§ 54-55 (the resolution of the paradox of subjectivity, the life-world as guiding thread), and §§ 68-72 (consciousness as intentional accomplishment, the phenomenological-psychological reduction, the paradoxes of the intentional object, the psychology/transcendental parallelism). Not read in detail: Parts I-II on the crisis and the Galileo analysis (§§ 1-19, 21-27), and §§ 28, 30-44, 51-53, 56-67, 73. chronology.json entry is resolved with a single stratum (Prague lecture cycle, November 1935); the commentary text does not date the later Part III material from which most of these units are drawn, so no per-unit stratum is assigned."
   },
   "extracted_at": "2026-09-09",

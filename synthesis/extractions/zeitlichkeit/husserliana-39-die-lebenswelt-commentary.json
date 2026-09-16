@@ -6,7 +6,7 @@
   "extracted_at": "2026-09-14",
   "extractor": {
     "agent": "claude-code",
-    "prompt": "prompts/synthesis-pipeline/extraction-prompt.md",
+    "prompt": "synthesis/prompts/extraction-prompt.md",
     "note": "Texts Nr. 50-52 carry composition dates in the commentary (ca. 1932, ca. 1931, ca. 1934); chronology.json has only the undated stratum hua39-undated, so no unit here claims a stratum. See P5."
   },
   "coverage": "partial",

@@ -5,7 +5,7 @@
   "extracted_at": "2026-09-09",
   "extractor": {
     "agent": "claude-code",
-    "prompt": "prompts/inheritance-prompt.md",
+    "prompt": "synthesis/prompts/inheritance-prompt.md",
     "note": "source_sha256 is the LF digest (CRLF checkout; local validate reports a false staleness, CI on LF passes). Retrieval keyed on predecessor names; closely read § 6 (the Destruktion programme: Kant, Descartes, Aristotle, Parmenides, Suárez, Dilthey), § 7 C (the Greek definition of phenomenology, the debt to Husserl, veritas transcendentalis), § 13 and § 69(b) (Husserl on intentionality), § 21 (the Cartesian ontology of the world), § 43(a) (Kant's Refutation of Idealism), and § 44(b) (alētheia in Aristotle and Parmenides). Not read for this pass: §§ 72-83 (Dilthey/Yorck at § 77, Hegel at § 82) in detail, and the remainder of the treatise. One record per commentary covering all predecessors."
   },
   "coverage": "partial",

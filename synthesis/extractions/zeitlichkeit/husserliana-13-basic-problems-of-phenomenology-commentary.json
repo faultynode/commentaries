@@ -6,7 +6,7 @@
   "extracted_at": "2026-09-14",
   "extractor": {
     "agent": "claude-code",
-    "prompt": "prompts/synthesis-pipeline/extraction-prompt.md"
+    "prompt": "synthesis/prompts/extraction-prompt.md"
   },
   "coverage": "partial",
   "coverage_note": "Fourth Chapter §§ 24-25 (retention as a transcendence within the phenomenological attitude) and Sixth Chapter § 37 (the temporal principle of the unity of the stream). The 20 other sections with term hits, among them §§ 2 and 8 on the spatio-temporal environment, are not extracted.",

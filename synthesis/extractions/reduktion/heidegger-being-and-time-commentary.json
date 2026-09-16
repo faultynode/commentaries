@@ -6,7 +6,7 @@
   "extracted_at": "2026-09-14",
   "extractor": {
     "agent": "claude-code",
-    "prompt": "https://github.com/faultynode/prompts/blob/main/synthesis-pipeline/extraction-prompt.md",
+    "prompt": "synthesis/prompts/extraction-prompt.md",
     "note": "Partial pass over §§ 6 and 7. As in the Sein und Zeit commentary the theme is present as Destruktion and as the phenomenological maxim, not as the Husserlian reduction; this record is keyed to the English translation's pagination."
   },
   "coverage": "partial",
