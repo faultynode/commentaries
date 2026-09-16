@@ -15,7 +15,7 @@ not resolve. Work in the `commentaries` repo root.
 Your closed corpus:
 
 - `synthesis/ledgers/intentionalitaet-ledger.md`. Rebuild it first with
-  `python3 scripts/synthesis_ledger.py --theme intentionalitaet`. It is
+  `python scripts/synthesis_ledger.py --theme intentionalitaet`. It is
   about 650 KB and 3,450 lines. Read all of it, in consecutive line ranges.
   You find an aporia by what does *not* come later, so a grep sample misses
   it. Use grep only to follow a candidate forward once you have one.
@@ -161,12 +161,12 @@ reading".
 
 ## Verify, then stop
 
-1. `python3 scripts/synthesis_check_outputs.py synthesis/outputs/intentionalitaet-aporia-register.md`
+1. `python scripts/synthesis_check_outputs.py synthesis/outputs/intentionalitaet-aporia-register.md`
    must report the file clean. Fix every issue by changing your text. Never
    touch the ledger or the records to make a citation resolve.
-2. `python3 scripts/synthesis_validate.py` must pass. The existing
+2. `python scripts/synthesis_validate.py` must pass. The existing
    staleness warnings are expected; any new error in `gaps.json` is yours.
-3. `python3 scripts/synthesis_status.py`: confirm your gaps are in the queue.
+3. `python scripts/synthesis_status.py`: confirm your gaps are in the queue.
 4. Review each entry against what the checker cannot catch:
    - a claim about a text with no unit behind it;
    - silence presented as a recorded drop;
