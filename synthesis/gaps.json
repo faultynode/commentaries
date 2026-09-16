@@ -153,6 +153,69 @@
       "needs": "Extraction for intentionalitaet over husserliana-13-basic-problems-of-phenomenology-commentary (1910; 14 term hits, no record) and over the First Chapter of the Hua VII commentary, keyed to immanent / Immanenz, reell, and irreal, recording where the word is applied to the intentional object and with what qualification.",
       "raised_by": "synthesis/outputs/intentionalitaet-development-narrative.md",
       "status": "open"
+    },
+    {
+      "id": "gap-018",
+      "opened": "2026-09-16",
+      "theme": "intentionalitaet",
+      "question": "Hua XXVIII (1914) records both a founding thesis and its reversal in one course and no unit reconciles them. Part II s 9 (intentionalitaet/hua28/004) has every valuing act founded on objectivating acts; Part III s 15 (hua28/011, hua28/012, status revised) has the will as will-certainty first conferring the certainty of being, so that belief of the future springs from willing rather than founding it; Part III s 17(b) (hua28/019) marks what the pre-predicative will-acts presuppose as a theme for difficult analyses of its own. Forward on the spine only the founding thesis recurs: Ideas II s 7 (hua4/010), Ideas I s 117 (hua3-i/005), LU VI s 13 (lu6/009). Whether Husserl kept, generalized or withdrew the will-founded belief of 1914 is not in the corpus as extracted. Distinct from gap-010, which asks how the three statements of the objectivating thesis are ordered, not which way founding runs between will and belief.",
+      "needs": "Extraction for intentionalitaet over the uncovered parts of husserliana-28-vorlesungen-uber-ethik-und-wertlehre-commentary: Part IV beyond s 21, the Part B Schlussstueck and Beilagen III-VII, and the formal-Praktik sections on the will-laws of choice and the absorption-law, keyed to founding / Fundierung, will-certainty / Willensgewissheit, belief / Glaube, and creative intention; and over the phenomenology-of-reason chapter of husserliana-3-ideas-i-parts-3-4-commentary (ss 136-147), which both Ideas I passes leave out, keyed to the rational justification of founded (axiological, practical) theses.",
+      "raised_by": "synthesis/outputs/intentionalitaet-aporia-register.md",
+      "status": "open"
+    },
+    {
+      "id": "gap-019",
+      "opened": "2026-09-16",
+      "theme": "intentionalitaet",
+      "question": "Sein und Zeit s 69(b) (intentionalitaet/sz/023) records the note that the intentionality of consciousness grounds in Dasein's ecstatic temporality, which a never-published division was to show; the recorded absence at s 69(c) of heidegger-sein-und-zeit-commentary finds the word missing at the nearest place the promise could be kept. GA 24 s 9(b) (hga24/016, hga24/017, hga24/019) grounds intentionality in transcendence, but no extracted unit says that transcendence is ecstatic temporality, and the GA 24 pass note says the rest of the course was keyword-scanned only with s 5 carrying the only other hits. So the corpus shows the grounding in transcendence and records the grounding in temporality as promised and undelivered, and cannot say whether the temporal grounding is made anywhere.",
+      "needs": "Absence records keyed to Intentionalitaet / intentionality / intentional over the Main Part of heidegger-ga-20-prolegomena-zur-geschichte-des-zeitbegriffs-commentary on the time-phenomenon, which its pass note lists as not covered, and over the sections of heidegger-ga-24-die-grundprobleme-der-phanomenologie-commentary that treat Temporalitaet and the ecstatic-horizonal structure, recording where transcendence is itself grounded in temporality and whether the word intentionality is present there; plus a decision on s 69 of heidegger-being-and-time-commentary, which the intentionalitaet pass left unrecorded as too compressed (the gap-006 ambiguity).",
+      "raised_by": "synthesis/outputs/intentionalitaet-aporia-register.md",
+      "status": "open"
+    },
+    {
+      "id": "gap-020",
+      "opened": "2026-09-16",
+      "theme": "intentionalitaet",
+      "question": "GA 17 s 50 (1923-24; intentionalitaet/ga17/007, status criticized) records that anxiety cannot be grasped as a being-related-to-something and that joy, terror, grief and anxiety are phenomena missed when construed as intentionality; ga17/008 names the ground (a being that co-cares for its own Dasein) without analysing the phenomenon. Nothing later on the Heidegger spine touches mood or anxiety: the GA 20 record leaves out the Main Part, the GA 24 record treats perception, and the two Sein und Zeit records place their units and absences at ss 12-13, 43-44 and 69 and neither covers nor lists the analysis of attunement. The reception layer (henry-em/009) knows a Sein und Zeit treatment of Befindlichkeit the spine does not show. Whether anxiety is later given a Worauf of its own, or kept outside intentionality, is not in the corpus as extracted.",
+      "needs": "Extraction or absence records for intentionalitaet over the sections of heidegger-sein-und-zeit-commentary and heidegger-being-and-time-commentary on Befindlichkeit, mood and anxiety (Division One's chapter on being-in as such, and the anxiety analysis that grounds care), keyed to Angst / anxiety, Stimmung / mood, Befindlichkeit / attunement, Wovor and Worum, recording whether the analysis is conducted in, against, or without the vocabulary of directedness; and over the Main Part of heidegger-ga-20-prolegomena-zur-geschichte-des-zeitbegriffs-commentary for the same terms.",
+      "raised_by": "synthesis/outputs/intentionalitaet-aporia-register.md",
+      "status": "open"
+    },
+    {
+      "id": "gap-021",
+      "opened": "2026-09-16",
+      "theme": "intentionalitaet",
+      "question": "GA 24 s 9(b) (1927; intentionalitaet/hga24/005) has intentionality embrace intentio and intentum in their unity, which is still dark, and the inheritance engagement inh/hga24/004 has the phenomenon far from adequately grasped. s 9(c) adds the understanding of being as a third moment (hga24/025) and ties intentionality to the ontological difference (hga24/027) without returning to the unity. The GA 24 pass note says the rest of the course was keyword-scanned only, with s 5 carrying the only other hits, so the word does not return; whether the unity is named under another word (transcendence, being-in-the-world, temporality) is unchecked. The Sein und Zeit absences at s 12 (both commentaries) sit at a record dated 1927 to 1953 and cannot be read as later. Bernet (bernet-vds/002) calls the same point the enigma.",
+      "needs": "An absence pass over heidegger-ga-24-die-grundprobleme-der-phanomenologie-commentary beyond s 9(b) and the extracted core of s 9(c): the Kant-exegetical remainder of s 9(c), the closing recapitulation of the four theses, and the sections on transcendence and temporality, keyed to intentio / intentum, Zusammengehoerigkeit / belonging-together / co-belonging, and unity, recording where the unity of the two moments is given a name; and the same over the Main Part of heidegger-ga-20-prolegomena-zur-geschichte-des-zeitbegriffs-commentary.",
+      "raised_by": "synthesis/outputs/intentionalitaet-aporia-register.md",
+      "status": "open"
+    },
+    {
+      "id": "gap-022",
+      "opened": "2026-09-16",
+      "theme": "intentionalitaet",
+      "question": "Bernet (1994; intentionalitaet/bernet-vds/018, bernet-vds/022, both status criticized) holds that three concepts of the noema cross and merge in Ideas I and that X names both the identity-pole of the noematic sense and the actual state of affairs, an amphiboly he says gravely compromises the intelligibility of the book, and he leaves it standing (bernet-vds/023 turns to hermeneutics). The spine shows one shift he predicts, the mid-book redefinition of sense at Ideas I s 133 (hua3-i/013, status revised), and records the determinable X (hua3-i/012, hua3-p34/023) and the regional idea's X posited as being (hua3-i/016, s 149) without setting the two against each other. Both Ideas I passes leave out s 132 and the phenomenology of reason (ss 136-147), where the X as actual object would be handled. Whether Husserl distinguishes the two senses of X is not in the corpus as extracted.",
+      "needs": "Extraction for intentionalitaet over husserliana-3-ideas-i-parts-3-4-commentary ss 132-133 and ss 136-147, and over husserliana-3-ideas-i-commentary ss 136-147 if it reaches them, keyed to X / determinable X, object simpliciter, actual object / wirklicher Gegenstand, state of affairs / Sachverhalt, and Vernunftthesis, recording whether the identity-pole of sense and the actual object are distinguished or identified; a further candidate is husserliana-26-theory-of-meaning-commentary (7 term hits, no record), the only unread Husserl commentary on meaning, for the noematic concept of signification bernet-vds/019 reports.",
+      "raised_by": "synthesis/outputs/intentionalitaet-aporia-register.md",
+      "status": "open"
+    },
+    {
+      "id": "gap-023",
+      "opened": "2026-09-16",
+      "theme": "intentionalitaet",
+      "question": "Kern (1964) charges Kant with constructing hypothetical explanatory principles rather than demonstrating them in intuitive evidence (intentionalitaet/kern-hk/013), gives the principle of all principles as the standard (kern-hk/012), and then acknowledges the constructive character of Husserl's own noetics and its large correspondence with Natorp's position, including Natorp's influence on the noema and the ego-pole (kern-hk/017). His record does not say how a constructive noetics meets the standard by which Kant was found wanting; the last unit (kern-hk/018) is on another matter. On the spine no unit says of the noetic form-doctrine of Ideas I s 98 (hua3-p34/018, hua3-p34/019) whether it is seen or built.",
+      "needs": "Extraction for intentionalitaet over kern-husserl-and-kant-commentary ss 32-34 (the Natorp and Rickert critiques, which the pass note lists as not covered in detail), keyed to construction / constructive / Konstruktion, noetics / Noetik, ego-pole, and intentional analysis, recording whether Kern resolves or only notes the admission; and, on the spine, over husserliana-3-ideas-i-parts-3-4-commentary ss 100-127 (not covered) keyed to the form-doctrine of the noeses and to construction, to see whether Husserl himself marks any noetic structure as constructed.",
+      "raised_by": "synthesis/outputs/intentionalitaet-aporia-register.md",
+      "status": "open"
+    },
+    {
+      "id": "gap-024",
+      "opened": "2026-09-16",
+      "theme": "intentionalitaet",
+      "question": "Franck (1981; intentionalitaet/franck-bodies/015) has the Fifth Meditation pose the question of the being of intentionality, the question the spine records only on the Heidegger side (hga24/016-019, and bernet-vds/003 reporting Heidegger), with the unthought problem of flesh as what the reading of Husserl exposes (inh/franck/009) and perception's privilege of physical bodies as the starting point (franck-bodies/007). The Franck record follows it no further than franck-bodies/014; its pass note leaves out Chapters Eight-Twelve and the full development through alterity and pairing. The Cartesian Meditations record covers ss 50-51 of the Fifth Meditation only. Whether Franck gives the flesh as the answer, and whether any Husserl unit asks the question, is not in the corpus as extracted.",
+      "needs": "Extraction for intentionalitaet over franck-chair-et-corps-commentary Chapters Eight-Twelve, keyed to being of intentionality / etre de l'intentionnalite, flesh / chair, Leib / Koerper, and pairing / Paarung, recording where the question of franck-bodies/015 is answered; and over the remainder of the Fifth Meditation in husserliana-1-cartesianische-meditationen-commentary beyond ss 50-51, keyed to the same terms and to the body as organ of perception, recording whether Husserl there asks after the being of intentionality or only after the constitution of the other.",
+      "raised_by": "synthesis/outputs/intentionalitaet-aporia-register.md",
+      "status": "open"
     }
   ]
 }
