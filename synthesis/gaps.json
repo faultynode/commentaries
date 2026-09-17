@@ -216,6 +216,24 @@
       "needs": "Extraction for intentionalitaet over franck-chair-et-corps-commentary Chapters Eight-Twelve, keyed to being of intentionality / etre de l'intentionnalite, flesh / chair, Leib / Koerper, and pairing / Paarung, recording where the question of franck-bodies/015 is answered; and over the remainder of the Fifth Meditation in husserliana-1-cartesianische-meditationen-commentary beyond ss 50-51, keyed to the same terms and to the body as organ of perception, recording whether Husserl there asks after the being of intentionality or only after the constitution of the other.",
       "raised_by": "synthesis/outputs/intentionalitaet-aporia-register.md",
       "status": "open"
+    },
+    {
+      "id": "gap-025",
+      "opened": "2026-09-16",
+      "theme": "intentionalitaet",
+      "question": "GA 17 ss 48-50 (1923-24; intentionalitaet/ga17/004-008) rejects the founding of willing and loving on a representing as a methodological mistake and expels joy, terror, grief and anxiety from intentionality's competence outright. GA 20 s 5 and GA 24 s 9(b)-(c) (1925, 1927) do not repeat this rejection: they affirm intentio/intentum, fulfilment and categorial intuition as genuine findings (ga20/007-012) and subordinate intentionality to transcendence instead of rejecting it (ga20/010, hga24/013-016). Neither record engages the other: nothing in the GA 20 or GA 24 units revisits the founding-on-representation charge or the expulsion of mood and anxiety, and nothing in GA 17 anticipates the ratio cognoscendi / ratio essendi formula. Whether the 1923-24 rejection was superseded, softened, or left standing beside the 1925-27 subordination is not in the corpus as extracted.",
+      "needs": "An intentionalitaet pass over the parts of heidegger-ga-20-prolegomena-zur-geschichte-des-zeitbegriffs-commentary and heidegger-ga-24-die-grundprobleme-der-phanomenologie-commentary not yet covered (GA 20's Main Part; GA 24's Kant-exegetical remainder of s 9(c), the closing recapitulation of the four theses, and the sections on transcendence and temporality already asked for by gap-021), keyed additionally to Gemuet / emotional life, Stimmung / mood, and to any explicit backward reference to the Marburg-period critique of Husserl, to see whether Heidegger himself ever states the relation between the two stances.",
+      "raised_by": "synthesis/outputs/intentionalitaet-article-draft.md",
+      "status": "open"
+    },
+    {
+      "id": "gap-026",
+      "opened": "2026-09-16",
+      "theme": "intentionalitaet",
+      "question": "Henry (1963; intentionalitaet/henry-em/012) names Brentano, Husserl, Scheler and Sartre as holding that affectivity is intentional, and (henry-em/009) explicitly breaks with Sein und Zeit's equiprimordiality of Befindlichkeit and Verstehen. Nothing in the Henry record cites Hua XLIII/2 s 4 (1911; hua43-2/013), where Husserl's own analysis already raises the drive-objection Henry's argument generalizes, and nothing in it engages GA 24 s 9(b)'s grounding of intentionality in transcendence (hga24/013-017), as against the narrower Sein und Zeit target Henry actually names. Whether Henry's affectivity-thesis is compatible with, subordinate to, or simply does not address Heidegger's transcendence-thesis, and whether it engages Husserl's own 1911 statement of its central objection, is not in the corpus as extracted.",
+      "needs": "Extraction or an inheritance pass over the parts of henry-the-essence-of-manifestation-commentary not yet covered (the Introduction and the rest of Sections I-V), keyed to citations of Husserl's Hua XLIII/2 or the Trieb / drive and Streben / striving material specifically, as against generic references to Husserl, and to any citation of Heidegger's Grundprobleme der Phaenomenologie or the ratio cognoscendi / ratio essendi formula, to determine what Henry's argument actually engages as against what this article's comparison merely juxtaposes.",
+      "raised_by": "synthesis/outputs/intentionalitaet-article-draft.md",
+      "status": "open"
     }
   ]
 }

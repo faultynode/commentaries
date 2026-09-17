@@ -12,12 +12,12 @@ Corpus: **53 commentaries**, 2,935,036 words, 3902 sections indexed in `synthesi
 
 Next candidates, by term density:
 
+- [ ] `husserliana-4-ideas-ii-commentary` (1912) - 373 hits
 - [ ] `kant-kritik-der-reinen-vernunft-commentary` (undated) - 332 hits
 - [ ] `husserliana-28-vorlesungen-uber-ethik-und-wertlehre-commentary` (1908) - 316 hits
 - [ ] `lacan-seminar-1-freuds-papers-on-technique-commentary` (1953) - 308 hits
 - [ ] `husserliana-33-die-bernauer-manuskripte-uber-das-zeitbewusstsein-commentary` (1917) - 238 hits
 - [ ] `husserl-erfahrung-und-urteil-commentary` (undated) - 234 hits
-- [ ] `Heidegger GA 3 - Kant und das Problem der Metaphysik Commentary` (undated) - 226 hits
 - ... 34 more; see `synthesis_query.py --theme fundierung`
 
 ### intentionalitaet - intentionality
@@ -56,8 +56,8 @@ Next candidates, by term density:
 
 - [ ] `husserl-thing-and-space-commentary` (1907) - 508 hits
 - [ ] `henry-philosophie-et-phenomenologie-du-corps-commentary` (1965) - 406 hits
+- [ ] `husserliana-4-ideas-ii-commentary` (1912) - 276 hits
 - [ ] `husserliana-5-ideas-iii-commentary` (1912) - 144 hits
-- [ ] `husserliana-4-ideas-ii-commentary` (1912) - 127 hits
 - [ ] `leibniz-monadology-commentary` (1714) - 124 hits
 - [ ] `husserliana-9-phenomenological-psychology-commentary` (1925) - 108 hits
 - ... 43 more; see `synthesis_query.py --theme leib`
@@ -69,11 +69,11 @@ Next candidates, by term density:
 Next candidates, by term density:
 
 - [ ] `Reduction et donation Commentary` (undated) - 123 hits
+- [ ] `husserliana-4-ideas-ii-commentary` (1912) - 21 hits
 - [ ] `heidegger-ga-17-einfuhrung-in-die-phanomenologische-forschung-commentary` (1923) - 18 hits
 - [ ] `husserl-formal-and-transcendental-logic-commentary` (1929) - 17 hits
 - [ ] `lacan-seminar-11-the-four-fundamental-concepts-of-psychoanalysis-commentary` (1964) - 17 hits
 - [ ] `derrida-la-voix-et-le-phenomene-commentary` (1967) - 16 hits
-- [ ] `heidegger-ga-20-prolegomena-zur-geschichte-des-zeitbegriffs-commentary` (1925) - 15 hits
 - ... 20 more; see `synthesis_query.py --theme reduktion`
 
 ### sorge - care
@@ -102,7 +102,7 @@ Next candidates, by term density:
 - [ ] `bernet-la-vie-du-sujet-commentary` (1994) - 60 hits
 - [ ] `heidegger-ga-24-die-grundprobleme-der-phanomenologie-commentary` (1927) - 49 hits
 - [ ] `Reduction et donation Commentary` (undated) - 45 hits
-- ... 25 more; see `synthesis_query.py --theme vorhandenheit`
+- ... 24 more; see `synthesis_query.py --theme vorhandenheit`
 
 ### wesen - essence
 
@@ -124,9 +124,9 @@ Next candidates, by term density:
 
 Next candidates, by term density:
 
+- [ ] `husserliana-4-ideas-ii-commentary` (1912) - 50 hits
 - [ ] `Heidegger GA 3 - Kant und das Problem der Metaphysik Commentary` (undated) - 42 hits
 - [ ] `henry-philosophie-et-phenomenologie-du-corps-commentary` (1965) - 19 hits
-- [ ] `husserliana-4-ideas-ii-commentary` (1912) - 19 hits
 - [ ] `husserliana-43-2-studien-zur-struktur-des-bewusstseins-commentary` (1911) - 17 hits
 - [ ] `Reduction et donation Commentary` (undated) - 16 hits
 - [ ] `lacan-seminar-11-the-four-fundamental-concepts-of-psychoanalysis-commentary` (1964) - 15 hits
@@ -247,3 +247,7 @@ Flagged by a synthesis pass as unsupported by the ledgers. This is the reading q
       *Needs:* Extraction for intentionalitaet over kern-husserl-and-kant-commentary ss 32-34 (the Natorp and Rickert critiques, which the pass note lists as not covered in detail), keyed to construction / constructive / Konstruktion, noetics / Noetik, ego-pole, and intentional analysis, recording whether Kern resolves or only notes the admission; and, on the spine, over husserliana-3-ideas-i-parts-3-4-commentary ss 100-127 (not covered) keyed to the form-doctrine of the noeses and to construction, to see whether Husserl himself marks any noetic structure as constructed.
 - [ ] **gap-024** (open, intentionalitaet) Franck (1981; intentionalitaet/franck-bodies/015) has the Fifth Meditation pose the question of the being of intentionality, the question the spine records only on the Heidegger side (hga24/016-019, and bernet-vds/003 reporting Heidegger), with the unthought problem of flesh as what the reading of Husserl exposes (inh/franck/009) and perception's privilege of physical bodies as the starting point (franck-bodies/007). The Franck record follows it no further than franck-bodies/014; its pass note leaves out Chapters Eight-Twelve and the full development through alterity and pairing. The Cartesian Meditations record covers ss 50-51 of the Fifth Meditation only. Whether Franck gives the flesh as the answer, and whether any Husserl unit asks the question, is not in the corpus as extracted.
       *Needs:* Extraction for intentionalitaet over franck-chair-et-corps-commentary Chapters Eight-Twelve, keyed to being of intentionality / etre de l'intentionnalite, flesh / chair, Leib / Koerper, and pairing / Paarung, recording where the question of franck-bodies/015 is answered; and over the remainder of the Fifth Meditation in husserliana-1-cartesianische-meditationen-commentary beyond ss 50-51, keyed to the same terms and to the body as organ of perception, recording whether Husserl there asks after the being of intentionality or only after the constitution of the other.
+- [ ] **gap-025** (open, intentionalitaet) GA 17 ss 48-50 (1923-24; intentionalitaet/ga17/004-008) rejects the founding of willing and loving on a representing as a methodological mistake and expels joy, terror, grief and anxiety from intentionality's competence outright. GA 20 s 5 and GA 24 s 9(b)-(c) (1925, 1927) do not repeat this rejection: they affirm intentio/intentum, fulfilment and categorial intuition as genuine findings (ga20/007-012) and subordinate intentionality to transcendence instead of rejecting it (ga20/010, hga24/013-016). Neither record engages the other: nothing in the GA 20 or GA 24 units revisits the founding-on-representation charge or the expulsion of mood and anxiety, and nothing in GA 17 anticipates the ratio cognoscendi / ratio essendi formula. Whether the 1923-24 rejection was superseded, softened, or left standing beside the 1925-27 subordination is not in the corpus as extracted.
+      *Needs:* An intentionalitaet pass over the parts of heidegger-ga-20-prolegomena-zur-geschichte-des-zeitbegriffs-commentary and heidegger-ga-24-die-grundprobleme-der-phanomenologie-commentary not yet covered (GA 20's Main Part; GA 24's Kant-exegetical remainder of s 9(c), the closing recapitulation of the four theses, and the sections on transcendence and temporality already asked for by gap-021), keyed additionally to Gemuet / emotional life, Stimmung / mood, and to any explicit backward reference to the Marburg-period critique of Husserl, to see whether Heidegger himself ever states the relation between the two stances.
+- [ ] **gap-026** (open, intentionalitaet) Henry (1963; intentionalitaet/henry-em/012) names Brentano, Husserl, Scheler and Sartre as holding that affectivity is intentional, and (henry-em/009) explicitly breaks with Sein und Zeit's equiprimordiality of Befindlichkeit and Verstehen. Nothing in the Henry record cites Hua XLIII/2 s 4 (1911; hua43-2/013), where Husserl's own analysis already raises the drive-objection Henry's argument generalizes, and nothing in it engages GA 24 s 9(b)'s grounding of intentionality in transcendence (hga24/013-017), as against the narrower Sein und Zeit target Henry actually names. Whether Henry's affectivity-thesis is compatible with, subordinate to, or simply does not address Heidegger's transcendence-thesis, and whether it engages Husserl's own 1911 statement of its central objection, is not in the corpus as extracted.
+      *Needs:* Extraction or an inheritance pass over the parts of henry-the-essence-of-manifestation-commentary not yet covered (the Introduction and the rest of Sections I-V), keyed to citations of Husserl's Hua XLIII/2 or the Trieb / drive and Streben / striving material specifically, as against generic references to Husserl, and to any citation of Heidegger's Grundprobleme der Phaenomenologie or the ratio cognoscendi / ratio essendi formula, to determine what Henry's argument actually engages as against what this article's comparison merely juxtaposes.
