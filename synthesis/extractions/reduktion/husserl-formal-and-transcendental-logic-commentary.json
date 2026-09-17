@@ -1,0 +1,115 @@
+{
+  "schema_version": 1,
+  "theme": "reduktion",
+  "commentary": "husserl-formal-and-transcendental-logic-commentary",
+  "source_sha256": "420fa4fc5a2515a86e1abd413a8003659f5fe4e917f7e6fb57088970b2866590",
+  "extracted_at": "2026-09-17",
+  "extractor": {
+    "agent": "claude-code",
+    "model": "claude-opus-5",
+    "prompt": "synthesis/prompts/extraction-prompt.md",
+    "note": "Most occurrences of \"reduction\" in this commentary are the formalizing or logical sense (§§ 29, 52, 53, 82, 83, Appendix I § 14) and are not units of this theme. The theme does its work in the Introduction's Cartesian path, in §§ 93, 95 and 99, and in the Concluding Word."
+  },
+  "coverage": "partial",
+  "coverage_note": "Covers the Introduction, §§ 66-68, and Part II chapters 5-7 (§§ 92-106) together with the Concluding Word, read in full. Part I (§§ 1-54) and Part II chapters 1-4 (§§ 55-91) were checked for the theme's terms and read only where they occur; the appendices were not read in full.",
+  "units": [
+    {
+      "id": "reduktion/ftl/001",
+      "locator": "husserl-formal-and-transcendental-logic-commentary#h2-introduction",
+      "primary_locator": "FTL Introduction",
+      "term": "Cartesian Meditations",
+      "status": "presupposed",
+      "claim": "Because the scientific situation has become similar to the one Descartes found, a universal reflection can attempt the bold path of the Cartesian Meditations.",
+      "quote": "A universal reflection can, since the scientific situation has in fact become similar to what Descartes found in his youth, attempt the bold path of the Cartesian Meditations."
+    },
+    {
+      "id": "reduktion/ftl/002",
+      "locator": "husserl-formal-and-transcendental-logic-commentary#h2-introduction",
+      "primary_locator": "FTL Introduction",
+      "term": "Cartesian Meditations",
+      "status": "criticized",
+      "claim": "Unnoticed prejudices direct Descartes' meditations, so that as a whole they already lacked the power of conviction for his contemporaries.",
+      "quote": "Unnoticed prejudices direct his meditations, so that, taken as a whole, they already lacked the power of conviction for his contemporaries."
+    },
+    {
+      "id": "reduktion/ftl/003",
+      "locator": "husserl-formal-and-transcendental-logic-commentary#h2-introduction",
+      "primary_locator": "FTL Introduction",
+      "term": "the style of these meditations",
+      "status": "presupposed",
+      "claim": "The style of grounding the sciences from the absolute knowing subjectivity was never taken up again down to transcendental phenomenology.",
+      "quote": "the style of these meditations — from the absolute knowing subjectivity to undertake an absolute grounding of the sciences in their totality, or what for him was the same, an absolute grounding of philosophy — has never again been taken up, down to transcendental phenomenology."
+    },
+    {
+      "id": "reduktion/ftl/004",
+      "locator": "husserl-formal-and-transcendental-logic-commentary#h2-introduction",
+      "primary_locator": "FTL Introduction",
+      "term": "paths of radically directed reflections",
+      "status": "revised",
+      "claim": "The present work blazes another path of radically directed reflection than the Cartesian one, suggested by the reference of the idea of genuine science back to logic as its norm.",
+      "quote": "Other paths of radically directed reflections are possible, and the present work attempts to blaze one — a path suggested precisely by the historical reference of the idea of genuine science back to logic as its norm"
+    },
+    {
+      "id": "reduktion/ftl/005",
+      "locator": "husserl-formal-and-transcendental-logic-commentary#h5-a-the-naive-presupposition-of-the-validity-of-objective-logic",
+      "primary_locator": "FTL § 93 a",
+      "term": "suspension of the naive presupposition of the world",
+      "status": "introduced",
+      "claim": "The naive presupposition of the world is to be suspended and all objective cognition grounded on the sole apodictic givenness of the ego cogito.",
+      "quote": "The naive presupposition of the world is to be suspended and all objective cognition grounded on the sole apodictic givenness: the ego cogito."
+    },
+    {
+      "id": "reduktion/ftl/006",
+      "locator": "husserl-formal-and-transcendental-logic-commentary#h5-b-the-missing-of-the-transcendental-sense-of-the-cartesian-reduction-to-the-ego",
+      "primary_locator": "FTL § 93 b",
+      "term": "Cartesian reduction to the Ego",
+      "status": "criticized",
+      "claim": "Descartes treats the transcendental thematic with a naive a priori heritage of ontological and logical evidences and misses the properly transcendental sense of the Ego he discovered.",
+      "quote": "Descartes operates with a naive a priori heritage, with the naive presupposition of ontological and logical evidences for the treatment of the transcendental thematic. He misses the properly transcendental sense of the Ego he discovered."
+    },
+    {
+      "id": "reduktion/ftl/007",
+      "locator": "husserl-formal-and-transcendental-logic-commentary#h4-s95-necessity-of-beginning-from-one-s-own-subjectivity",
+      "primary_locator": "FTL § 95",
+      "term": "transcendental reflection",
+      "status": "presupposed",
+      "claim": "The beginning must be made from one's own subjectivity, the ego taking itself as the starting-point of transcendental reflection.",
+      "quote": "The beginning must be from one's own subjectivity: the ego must take itself as the starting-point of transcendental reflection."
+    },
+    {
+      "id": "reduktion/ftl/008",
+      "locator": "husserl-formal-and-transcendental-logic-commentary#h4-s99-psychological-and-transcendental-subjectivity-the-problem-of-transcendental",
+      "primary_locator": "FTL § 99",
+      "term": "suspension of the world-thesis",
+      "status": "introduced",
+      "claim": "Pure psychology of intentionality and transcendental phenomenology are parallel in content but differ in sense, the one taking the human being as part of the world and the other suspending the world-thesis.",
+      "quote": "A pure psychology of intentionality and a transcendental phenomenology are parallel in content but fundamentally different in sense: the one takes the human being as part of the world, the other suspends the world-thesis."
+    },
+    {
+      "id": "reduktion/ftl/009",
+      "locator": "husserl-formal-and-transcendental-logic-commentary#h2-concluding-word",
+      "primary_locator": "FTL Concluding Word",
+      "term": "phenomenological method",
+      "status": "presupposed",
+      "claim": "Transcendental logic is not a second logic but the radical and concrete logic itself, growing in phenomenological method.",
+      "quote": "to the transcendental, which is not a second logic but only the radical and concrete logic itself, growing in phenomenological method"
+    }
+  ],
+  "absences": [
+    {
+      "locator": "husserl-formal-and-transcendental-logic-commentary#h5-b-the-naive-presupposition-of-a-world-ranks-logic-among-the-positive-sciences",
+      "expected_because": "The section states that formal logic ranks among the positive sciences because for all of them the world is an in-advance unquestioned fact - the presupposition § 93 a says is to be suspended - and names nothing that would suspend it.",
+      "absent_terms": ["Reduktion", "reduction", "phenomenological reduction", "transcendental reduction", "eidetic reduction", "Epoché", "epoché", "bracketing", "suspension", "putting out of play"]
+    },
+    {
+      "locator": "husserl-formal-and-transcendental-logic-commentary#h4-s66-psychologistic-and-phenomenological-idealism-analytic-and-transcendental-cri",
+      "expected_because": "This is where phenomenological idealism is marked off from psychologism and the transcendental critique of cognition is distinguished from the analytic, the point at which the reduction would separate the constituting subjectivity from the psychological one.",
+      "absent_terms": ["Reduktion", "reduction", "phenomenological reduction", "transcendental reduction", "eidetic reduction", "Epoché", "epoché", "bracketing", "suspension", "transcendental attitude", "transcendental reflection"]
+    },
+    {
+      "locator": "husserl-formal-and-transcendental-logic-commentary#h4-s104-transcendental-phenomenology-as-the-self-explication-of-transcendental-subj",
+      "expected_because": "The section defines transcendental phenomenology as the self-explication of transcendental subjectivity, which is where the method giving access to that subjectivity would be named.",
+      "absent_terms": ["Reduktion", "reduction", "phenomenological reduction", "transcendental reduction", "eidetic reduction", "Epoché", "epoché", "bracketing", "suspension", "phenomenological method", "transcendental attitude"]
+    }
+  ]
+}

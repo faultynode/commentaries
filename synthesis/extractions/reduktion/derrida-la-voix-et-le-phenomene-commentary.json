@@ -1,0 +1,132 @@
+{
+  "schema_version": 1,
+  "theme": "reduktion",
+  "commentary": "derrida-la-voix-et-le-phenomene-commentary",
+  "source_sha256": "4827e7d85b4a7071fe9fbf83dd055116407098d0eed75e1a3b0a32f970ca0961",
+  "extracted_at": "2026-09-17",
+  "extractor": {
+    "agent": "claude-code",
+    "model": "claude-opus-5",
+    "prompt": "synthesis/prompts/extraction-prompt.md"
+  },
+  "coverage": "complete",
+  "coverage_note": "Whole commentary read, Preliminary Note through Key Terms. The theme carries two senses here that the commentary keeps apart: Husserl's eidetic and transcendental reductions, and the reduction of indication that is Chapter II's title.",
+  "units": [
+    {
+      "id": "reduktion/vp/001",
+      "locator": "derrida-la-voix-et-le-phenomene-commentary#h3-the-continuity-of-the-logical-investigations-in-husserl-s-corpus",
+      "primary_locator": "VP pp. 1-16",
+      "term": "the reductions (eidetic and phenomenological)",
+      "status": "presupposed",
+      "claim": "The eidetic and phenomenological reductions are already at work in the Logical Investigations, implicitly if not yet thematically.",
+      "quote": "Even the reductions (eidetic and phenomenological) are already at work in the *Investigations*, implicitly if not yet thematically."
+    },
+    {
+      "id": "reduktion/vp/002",
+      "locator": "derrida-la-voix-et-le-phenomene-commentary#h3-derrida-s-guiding-question",
+      "primary_locator": "VP pp. 1-16",
+      "term": "bracketing of metaphysics",
+      "status": "criticized",
+      "claim": "The guiding question is whether the phenomenological rigor of the analysis, including its bracketing of metaphysics, psychology and the natural sciences, conceals a metaphysical presupposition that constitutes phenomenology from within.",
+      "quote": "does the phenomenological rigor of Husserl's analysis — his insistence on the absence of presuppositions (*Voraussetzungslosigkeit*), his bracketing of metaphysics, psychology, and the natural sciences — nevertheless conceal a *metaphysical presupposition*?"
+    },
+    {
+      "id": "reduktion/vp/003",
+      "locator": "derrida-la-voix-et-le-phenomene-commentary#h3-the-project-phenomenological-critique-as-a-moment-within-metaphysics",
+      "primary_locator": "VP pp. 1-16",
+      "term": "phenomenological critique",
+      "status": "criticized",
+      "claim": "The phenomenological critique of metaphysics is itself a moment inside metaphysical assurance, its resource being the metaphysical project itself.",
+      "quote": "the phenomenological critique of metaphysics is itself a moment *inside* metaphysical assurance. More precisely: the *resource* of phenomenological critique is the metaphysical project itself"
+    },
+    {
+      "id": "reduktion/vp/004",
+      "locator": "derrida-la-voix-et-le-phenomene-commentary#h3-phenomenology-as-a-philosophy-of-life-and-the-voice",
+      "primary_locator": "VP pp. 1-16",
+      "term": "transcendental reduction",
+      "status": "criticized",
+      "claim": "The unity of \"life\" escapes the transcendental reduction and paves the way for it, since what is discovered when empirical life is bracketed is still a transcendental life.",
+      "quote": "The unity of \"life\" — which diffuses its light through all the fundamental concepts (*Leben, Erlebnis, lebendige Gegenwart, Geistigkeit*) — *escapes* the transcendental reduction and even *paves the way* for it. When empirical life is bracketed, it is still a *transcendental life*, a *living present*, that is discovered."
+    },
+    {
+      "id": "reduktion/vp/005",
+      "locator": "derrida-la-voix-et-le-phenomene-commentary#h3-the-parallels-phenomenological-psychology-and-transcendental-phenomenology",
+      "primary_locator": "VP pp. 1-16",
+      "term": "parallelism (Parallelität)",
+      "status": "presupposed",
+      "claim": "A radical difference that distinguishes nothing in fact separates phenomenological psychology from transcendental phenomenology, and in it alone resides the possibility of a transcendental question.",
+      "quote": "And yet a \"radical difference\" remains — one that \"distinguishes nothing in fact,\" separates no being, no lived experience, no determinate signification; a difference that nevertheless \"changes all the signs\" and in which alone the possibility of a transcendental question resides."
+    },
+    {
+      "id": "reduktion/vp/006",
+      "locator": "derrida-la-voix-et-le-phenomene-commentary#h3-indication-as-extrinsic-and-empirical",
+      "primary_locator": "VP pp. 28-33",
+      "term": "reduction of indication",
+      "status": "introduced",
+      "claim": "Indication is to be excluded as an extrinsic and empirical phenomenon, but this reduction is difficult because indicative adherences keep reappearing and their effacement is an infinite task.",
+      "quote": "Indication is to be excluded as an extrinsic and empirical phenomenon, even though it is tightly interwoven with expression in fact. But this reduction is difficult: indicative adherences keep reappearing, and their effacement is an \"infinite task.\""
+    },
+    {
+      "id": "reduktion/vp/007",
+      "locator": "derrida-la-voix-et-le-phenomene-commentary#h3-indication-existence-and-the-foundations-of-reduction",
+      "primary_locator": "VP pp. 28-33",
+      "term": "phenomenological reductions",
+      "status": "revised",
+      "claim": "Everything that will later fall under the phenomenological reductions is already associated with indication, so that the entire problematic of reduction unfolds within the gap between two types of signs.",
+      "quote": "everything that will later fall under the phenomenological reductions (factuality, worldly existence, non-essential necessity) is already associated with indication. The entire problematic of reduction — and all the conceptual distinctions in which it operates (fact/essence, transcendentality/worldliness) — \"unfolds within the gap between two types of signs.\""
+    },
+    {
+      "id": "reduktion/vp/008",
+      "locator": "derrida-la-voix-et-le-phenomene-commentary#h3-indication-existence-and-the-foundations-of-reduction",
+      "primary_locator": "VP pp. 28-33",
+      "term": "reduction",
+      "status": "revised",
+      "claim": "If the parallelism between pure psychic and pure transcendental is announced as a relation between two modes of signification, then the reduction, before becoming a method, would coincide with the simple practice of speech.",
+      "quote": "If so, the \"reduction,\" before becoming a method, would coincide with the most spontaneous act of spoken discourse — the simple practice of speech."
+    },
+    {
+      "id": "reduktion/vp/009",
+      "locator": "derrida-la-voix-et-le-phenomene-commentary#h3-the-double-exclusion",
+      "primary_locator": "VP pp. 78-97",
+      "term": "double reduction",
+      "status": "introduced",
+      "claim": "Phenomenological silence requires a double reduction: the exclusion of the relation to the other in indicative communication, and the exclusion of expression as a layer added to a pre-expressive sense.",
+      "quote": "Phenomenological \"silence\" requires a double reduction: (1) the exclusion of the relation to the other in indicative communication, and (2) the exclusion of expression itself as a layer *added to* a pre-expressive sense."
+    },
+    {
+      "id": "reduktion/vp/010",
+      "locator": "derrida-la-voix-et-le-phenomene-commentary#h3-auto-affection-and-differance",
+      "primary_locator": "VP pp. 78-97",
+      "term": "transcendental reduction",
+      "status": "criticized",
+      "claim": "Once auto-affection is admitted as the condition of self-presence, no pure transcendental reduction is possible.",
+      "quote": "\"Once one admits that auto-affection is the condition of self-presence, no pure transcendental reduction is possible.\""
+    },
+    {
+      "id": "reduktion/vp/011",
+      "locator": "derrida-la-voix-et-le-phenomene-commentary#h3-the-husserlian-separation-of-intention-and-intuition",
+      "primary_locator": "VP pp. 98-117",
+      "term": "reduction",
+      "status": "presupposed",
+      "claim": "The last and most audacious reduction in the First Investigation excludes from expression, as inessential components, the acts of cognitive intuition that fulfil the vouloir-dire.",
+      "quote": "Derrida now turns to the last and most audacious \"reduction\" in the First Investigation: the exclusion from expression, as \"inessential components,\" of the acts of cognitive intuition that \"fulfill\" the *vouloir-dire*."
+    }
+  ],
+  "absences": [
+    {
+      "locator": "derrida-la-voix-et-le-phenomene-commentary#h3-husserl-s-lectures-on-time-consciousness",
+      "expected_because": "The section undoes the punctual now on which the whole distinction rests, using Husserl's own descriptions of retention and protention, and names no reduction as the method by which those descriptions were obtained.",
+      "absent_terms": ["Reduktion", "reduction", "phenomenological reduction", "transcendental reduction", "eidetic reduction", "Epoché", "epoché", "bracketing", "bracketed", "suspension"]
+    },
+    {
+      "locator": "derrida-la-voix-et-le-phenomene-commentary#h3-closure",
+      "expected_because": "The closing section states the verdict on the whole phenomenological discourse as caught in the schema of a metaphysics of presence, the place where the reduction, named as the method of that discourse in the Introduction, would be expected to fall with it.",
+      "absent_terms": ["Reduktion", "reduction", "phenomenological reduction", "transcendental reduction", "eidetic reduction", "Epoché", "epoché", "bracketing", "bracketed", "suspension"]
+    },
+    {
+      "locator": "derrida-la-voix-et-le-phenomene-commentary#h2-key-terms",
+      "expected_because": "The glossary registers the book's operative vocabulary, including terms taken from Husserl, and carries no entry for the reduction although a chapter of the book is titled with one.",
+      "absent_terms": ["Reduktion", "reduction", "phenomenological reduction", "transcendental reduction", "eidetic reduction", "Epoché", "epoché", "bracketing", "bracketed", "suspension"]
+    }
+  ]
+}
