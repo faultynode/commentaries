@@ -1091,13 +1091,13 @@
 *Where the theme's terms occur but no extraction pass has run. Silence in the sections above is silence about these files, not evidence of absence in them.*
 
 - `Reduction et donation Commentary` - 123 term hits, no record
+- `husserliana-4-ideas-ii-commentary` - 21 term hits, no record
 - `heidegger-ga-17-einfuhrung-in-die-phanomenologische-forschung-commentary` - 18 term hits, no record
 - `husserl-formal-and-transcendental-logic-commentary` - 17 term hits, no record
 - `lacan-seminar-11-the-four-fundamental-concepts-of-psychoanalysis-commentary` - 17 term hits, no record
 - `derrida-la-voix-et-le-phenomene-commentary` - 16 term hits, no record
 - `heidegger-ga-20-prolegomena-zur-geschichte-des-zeitbegriffs-commentary` - 15 term hits, no record
 - `husserliana-33-die-bernauer-manuskripte-uber-das-zeitbewusstsein-commentary` - 14 term hits, no record
-- `husserliana-4-ideas-ii-commentary` - 11 term hits, no record
 - `leibniz-monadology-commentary` - 9 term hits, no record
 - `husserliana-28-vorlesungen-uber-ethik-und-wertlehre-commentary` - 8 term hits, no record
 - `Heidegger GA 3 - Kant und das Problem der Metaphysik Commentary` - 6 term hits, no record

@@ -328,6 +328,7 @@
 - `husserl-formal-and-transcendental-logic-commentary` - 34 term hits, no record
 - `aristotle-de-anima-commentary` - 26 term hits, no record
 - `husserliana-9-phenomenological-psychology-commentary` - 25 term hits, no record
+- `husserliana-4-ideas-ii-commentary` - 21 term hits, no record
 - `husserliana-13-basic-problems-of-phenomenology-commentary` - 20 term hits, no record
 - `husserl-krisis-commentary` - 19 term hits, no record
 - `husserliana-39-die-lebenswelt-commentary` - 17 term hits, no record
@@ -346,7 +347,6 @@
 - `husserliana-23-phantasie-bildbewusstsein-erinnerung-commentary` - 9 term hits, no record
 - `fichte-science-of-knowing-commentary` - 8 term hits, no record
 - `husserl-natur-und-geist-commentary` - 8 term hits, no record
-- `husserliana-4-ideas-ii-commentary` - 7 term hits, no record
 - `kern-husserl-and-kant-commentary` - 6 term hits, no record
 - `leibniz-monadology-commentary` - 2 term hits, no record
 - `husserliana-13-editors-introduction-commentary` - 1 term hit, no record

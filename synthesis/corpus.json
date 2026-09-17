@@ -43936,9 +43936,9 @@
       "author": "husserl",
       "title": "Hua 4 - Ideas II",
       "wordpress_id": "193",
-      "sha256": "5edb5103ea6db8e048cd4823f8d833ebe634ec0cd959e5c2b9321ab2b5f727be",
-      "lines": 823,
-      "words": 35086,
+      "sha256": "a97925ac88907450688fc8f864e75ad4829d2163e36c93ac39689417154fe1af",
+      "lines": 1213,
+      "words": 80093,
       "url": "https://faultynode.github.io/commentaries/commentaries/husserl/husserliana-4-ideas-ii-commentary.html",
       "sections": [
         {
@@ -45031,8 +45031,8 @@
           ],
           "anchor": "third-section-the-constitution-of-the-spiritual-world",
           "line_start": 591,
-          "line_end": 592,
-          "words": 0
+          "line_end": 594,
+          "words": 186
         },
         {
           "id": "h3-s48-introduction",
@@ -45044,9 +45044,9 @@
             "§48. Introduction"
           ],
           "anchor": "introduction-1",
-          "line_start": 593,
+          "line_start": 595,
           "line_end": 598,
-          "words": 127
+          "words": 333
         },
         {
           "id": "h2-first-chapter-contrast-between-the-naturalistic-and-personalistic-world",
@@ -45072,8 +45072,8 @@
           ],
           "anchor": "the-personalistic-attitude-in-contrast-to-the-naturalistic",
           "line_start": 601,
-          "line_end": 604,
-          "words": 134
+          "line_end": 608,
+          "words": 482
         },
         {
           "id": "h4-a-introjection-of-the-soul-as-presupposition-also-for-the-naturalistic-attitude",
@@ -45086,9 +45086,9 @@
             "a) Introjection of the Soul as Presupposition Also for the Naturalistic Attitude"
           ],
           "anchor": "a-introjection-of-the-soul-as-presupposition-also-for-the-naturalistic-attitude",
-          "line_start": 605,
-          "line_end": 610,
-          "words": 246
+          "line_start": 609,
+          "line_end": 616,
+          "words": 691
         },
         {
           "id": "h4-b-localization-of-the-psychical",
@@ -45101,9 +45101,9 @@
             "b) Localization of the Psychical"
           ],
           "anchor": "b-localization-of-the-psychical",
-          "line_start": 611,
-          "line_end": 614,
-          "words": 109
+          "line_start": 617,
+          "line_end": 620,
+          "words": 337
         },
         {
           "id": "h4-c-temporalization-of-the-psychical-immanent-time-and-space-time",
@@ -45116,9 +45116,9 @@
             "c) Temporalization of the Psychical (Immanent Time and Space-Time)"
           ],
           "anchor": "c-temporalization-of-the-psychical-immanent-time-and-space-time",
-          "line_start": 615,
-          "line_end": 618,
-          "words": 66
+          "line_start": 621,
+          "line_end": 624,
+          "words": 292
         },
         {
           "id": "h4-d-methodical-reflection",
@@ -45131,9 +45131,9 @@
             "d) Methodical Reflection"
           ],
           "anchor": "d-methodical-reflection",
-          "line_start": 619,
-          "line_end": 622,
-          "words": 104
+          "line_start": 625,
+          "line_end": 630,
+          "words": 532
         },
         {
           "id": "h4-e-naturalistic-and-natural-attitude",
@@ -45146,9 +45146,9 @@
             "e) Naturalistic and Natural Attitude"
           ],
           "anchor": "e-naturalistic-and-natural-attitude",
-          "line_start": 623,
-          "line_end": 634,
-          "words": 408
+          "line_start": 631,
+          "line_end": 646,
+          "words": 1570
         },
         {
           "id": "h3-s50-the-person-as-center-of-a-surrounding-world",
@@ -45160,9 +45160,9 @@
             "§50. The Person as Center of a Surrounding World"
           ],
           "anchor": "the-person-as-center-of-a-surrounding-world",
-          "line_start": 635,
-          "line_end": 642,
-          "words": 362
+          "line_start": 647,
+          "line_end": 666,
+          "words": 2120
         },
         {
           "id": "h3-s51-the-person-in-the-personal-association",
@@ -45174,9 +45174,9 @@
             "§51. The Person in the Personal Association"
           ],
           "anchor": "the-person-in-the-personal-association",
-          "line_start": 643,
-          "line_end": 650,
-          "words": 280
+          "line_start": 667,
+          "line_end": 702,
+          "words": 4414
         },
         {
           "id": "h3-s52-subjective-appearance-manifolds-and-objective-things",
@@ -45188,9 +45188,9 @@
             "§52. Subjective Appearance-Manifolds and Objective Things"
           ],
           "anchor": "subjective-appearance-manifolds-and-objective-things",
-          "line_start": 651,
-          "line_end": 660,
-          "words": 341
+          "line_start": 703,
+          "line_end": 740,
+          "words": 3086
         },
         {
           "id": "h3-s53-the-relation-of-nature-consideration-and-spirit-consideration-to-one-another",
@@ -45202,9 +45202,9 @@
             "§53. The Relation of Nature-Consideration and Spirit-Consideration to One Another"
           ],
           "anchor": "the-relation-of-nature-consideration-and-spirit-consideration-to-one-another",
-          "line_start": 661,
-          "line_end": 664,
-          "words": 180
+          "line_start": 741,
+          "line_end": 752,
+          "words": 1266
         },
         {
           "id": "h2-second-chapter-motivation-as-fundamental-law-of-the-spiritual-world",
@@ -45215,8 +45215,8 @@
             "Second Chapter: Motivation as Fundamental Law of the Spiritual World"
           ],
           "anchor": "second-chapter-motivation-as-fundamental-law-of-the-spiritual-world",
-          "line_start": 665,
-          "line_end": 666,
+          "line_start": 753,
+          "line_end": 754,
           "words": 0
         },
         {
@@ -45229,9 +45229,9 @@
             "§54. The Ego in the Inspectio Sui"
           ],
           "anchor": "the-ego-in-the-inspectio-sui",
-          "line_start": 667,
-          "line_end": 672,
-          "words": 251
+          "line_start": 755,
+          "line_end": 768,
+          "words": 1461
         },
         {
           "id": "h3-s55-the-spiritual-ego-in-its-behavior-toward-its-surrounding-world",
@@ -45243,9 +45243,9 @@
             "§55. The Spiritual Ego in Its Behavior Toward Its Surrounding World"
           ],
           "anchor": "the-spiritual-ego-in-its-behavior-toward-its-surrounding-world",
-          "line_start": 673,
-          "line_end": 678,
-          "words": 196
+          "line_start": 769,
+          "line_end": 786,
+          "words": 2090
         },
         {
           "id": "h3-s56-motivation-as-fundamental-lawfulness-of-spiritual-life",
@@ -45257,9 +45257,9 @@
             "§56. Motivation as Fundamental Lawfulness of Spiritual Life"
           ],
           "anchor": "motivation-as-fundamental-lawfulness-of-spiritual-life",
-          "line_start": 679,
-          "line_end": 682,
-          "words": 26
+          "line_start": 787,
+          "line_end": 790,
+          "words": 34
         },
         {
           "id": "h4-a-reason-motivation",
@@ -45272,9 +45272,9 @@
             "a) Reason-Motivation"
           ],
           "anchor": "a-reason-motivation",
-          "line_start": 683,
-          "line_end": 686,
-          "words": 103
+          "line_start": 791,
+          "line_end": 802,
+          "words": 853
         },
         {
           "id": "h4-b-association-as-motivation",
@@ -45287,24 +45287,99 @@
             "b) Association as Motivation"
           ],
           "anchor": "b-association-as-motivation",
-          "line_start": 687,
-          "line_end": 690,
-          "words": 86
+          "line_start": 803,
+          "line_end": 812,
+          "words": 876
         },
         {
-          "id": "h4-c-f-further-dimensions-of-motivation",
+          "id": "h4-c-association-and-experiential-motivations",
           "level": 4,
-          "title": "c–f) Further Dimensions of Motivation",
+          "title": "c) Association and Experiential Motivations",
           "path": [
             "Commentary on Edmund Husserl, Ideen zu einer reinen Phänomenologie und phänomenologischen Philosophie, Zweites Buch: Phänomenologische Untersuchungen zur Konstitution (Husserliana IV)",
             "Second Chapter: Motivation as Fundamental Law of the Spiritual World",
             "§56. Motivation as Fundamental Lawfulness of Spiritual Life",
-            "c–f) Further Dimensions of Motivation"
+            "c) Association and Experiential Motivations"
           ],
-          "anchor": "cf-further-dimensions-of-motivation",
-          "line_start": 691,
-          "line_end": 694,
-          "words": 57
+          "anchor": "c-association-and-experiential-motivations",
+          "line_start": 813,
+          "line_end": 826,
+          "words": 1056
+        },
+        {
+          "id": "h4-d-motivation-on-the-noetic-and-noematic-side",
+          "level": 4,
+          "title": "d) Motivation on the Noetic and Noematic Side",
+          "path": [
+            "Commentary on Edmund Husserl, Ideen zu einer reinen Phänomenologie und phänomenologischen Philosophie, Zweites Buch: Phänomenologische Untersuchungen zur Konstitution (Husserliana IV)",
+            "Second Chapter: Motivation as Fundamental Law of the Spiritual World",
+            "§56. Motivation as Fundamental Lawfulness of Spiritual Life",
+            "d) Motivation on the Noetic and Noematic Side"
+          ],
+          "anchor": "d-motivation-on-the-noetic-and-noematic-side",
+          "line_start": 827,
+          "line_end": 832,
+          "words": 581
+        },
+        {
+          "id": "h4-e-empathy-into-other-persons-as-understanding-their-motivations",
+          "level": 4,
+          "title": "e) Empathy into Other Persons as Understanding Their Motivations",
+          "path": [
+            "Commentary on Edmund Husserl, Ideen zu einer reinen Phänomenologie und phänomenologischen Philosophie, Zweites Buch: Phänomenologische Untersuchungen zur Konstitution (Husserliana IV)",
+            "Second Chapter: Motivation as Fundamental Law of the Spiritual World",
+            "§56. Motivation as Fundamental Lawfulness of Spiritual Life",
+            "e) Empathy into Other Persons as Understanding Their Motivations"
+          ],
+          "anchor": "e-empathy-into-other-persons-as-understanding-their-motivations",
+          "line_start": 833,
+          "line_end": 838,
+          "words": 447
+        },
+        {
+          "id": "h4-f-nature-causality-and-motivation",
+          "level": 4,
+          "title": "f) Nature-Causality and Motivation",
+          "path": [
+            "Commentary on Edmund Husserl, Ideen zu einer reinen Phänomenologie und phänomenologischen Philosophie, Zweites Buch: Phänomenologische Untersuchungen zur Konstitution (Husserliana IV)",
+            "Second Chapter: Motivation as Fundamental Law of the Spiritual World",
+            "§56. Motivation as Fundamental Lawfulness of Spiritual Life",
+            "f) Nature-Causality and Motivation"
+          ],
+          "anchor": "f-nature-causality-and-motivation",
+          "line_start": 839,
+          "line_end": 846,
+          "words": 1005
+        },
+        {
+          "id": "h4-g-relations-between-subjects-and-things-under-the-viewpoints-of-causality-and-mo",
+          "level": 4,
+          "title": "g) Relations Between Subjects and Things Under the Viewpoints of Causality and Motivation",
+          "path": [
+            "Commentary on Edmund Husserl, Ideen zu einer reinen Phänomenologie und phänomenologischen Philosophie, Zweites Buch: Phänomenologische Untersuchungen zur Konstitution (Husserliana IV)",
+            "Second Chapter: Motivation as Fundamental Law of the Spiritual World",
+            "§56. Motivation as Fundamental Lawfulness of Spiritual Life",
+            "g) Relations Between Subjects and Things Under the Viewpoints of Causality and Motivation"
+          ],
+          "anchor": "g-relations-between-subjects-and-things-under-the-viewpoints-of-causality-and-motivation",
+          "line_start": 847,
+          "line_end": 862,
+          "words": 1893
+        },
+        {
+          "id": "h4-h-body-and-spirit-as-comprehensive-unity-bespirited-objects",
+          "level": 4,
+          "title": "h) Body and Spirit as Comprehensive Unity; “Bespirited” Objects",
+          "path": [
+            "Commentary on Edmund Husserl, Ideen zu einer reinen Phänomenologie und phänomenologischen Philosophie, Zweites Buch: Phänomenologische Untersuchungen zur Konstitution (Husserliana IV)",
+            "Second Chapter: Motivation as Fundamental Law of the Spiritual World",
+            "§56. Motivation as Fundamental Lawfulness of Spiritual Life",
+            "h) Body and Spirit as Comprehensive Unity; “Bespirited” Objects"
+          ],
+          "anchor": "h-body-and-spirit-as-comprehensive-unity-bespirited-objects",
+          "line_start": 863,
+          "line_end": 910,
+          "words": 4783
         },
         {
           "id": "h3-s57-pure-ego-and-personal-ego-as-object-of-reflexive-self-apperception",
@@ -45316,9 +45391,9 @@
             "§57. Pure Ego and Personal Ego as Object of Reflexive Self-Apperception"
           ],
           "anchor": "pure-ego-and-personal-ego-as-object-of-reflexive-self-apperception",
-          "line_start": 695,
-          "line_end": 698,
-          "words": 102
+          "line_start": 911,
+          "line_end": 922,
+          "words": 1421
         },
         {
           "id": "h3-s58-constitution-of-the-personal-ego-before-reflection",
@@ -45330,9 +45405,9 @@
             "§58. Constitution of the Personal Ego Before Reflection"
           ],
           "anchor": "constitution-of-the-personal-ego-before-reflection",
-          "line_start": 699,
-          "line_end": 702,
-          "words": 81
+          "line_start": 923,
+          "line_end": 934,
+          "words": 999
         },
         {
           "id": "h3-s59-the-ego-as-subject-of-capacities",
@@ -45344,9 +45419,9 @@
             "§59. The Ego as Subject of Capacities"
           ],
           "anchor": "the-ego-as-subject-of-capacities",
-          "line_start": 703,
-          "line_end": 706,
-          "words": 105
+          "line_start": 935,
+          "line_end": 950,
+          "words": 1282
         },
         {
           "id": "h3-s60-person-as-subject-of-reason-acts-as-free-ego",
@@ -45358,9 +45433,69 @@
             "§60. Person as Subject of Reason-Acts, as “Free Ego”"
           ],
           "anchor": "person-as-subject-of-reason-acts-as-free-ego",
-          "line_start": 707,
-          "line_end": 710,
-          "words": 57
+          "line_start": 951,
+          "line_end": 954,
+          "words": 300
+        },
+        {
+          "id": "h4-a-i-can-as-logical-possibility-as-practical-possibility-and-impossibility-as-neu",
+          "level": 4,
+          "title": "a) “I Can” as Logical Possibility, as Practical Possibility and Impossibility, as Neutrality-Modification of Practical Acts, and as Original Consciousness of Ability (Subjective Force, Capacity, Resistance)",
+          "path": [
+            "Commentary on Edmund Husserl, Ideen zu einer reinen Phänomenologie und phänomenologischen Philosophie, Zweites Buch: Phänomenologische Untersuchungen zur Konstitution (Husserliana IV)",
+            "Second Chapter: Motivation as Fundamental Law of the Spiritual World",
+            "§60. Person as Subject of Reason-Acts, as “Free Ego”",
+            "a) “I Can” as Logical Possibility, as Practical Possibility and Impossibility, as Neutrality-Modification of Practical Acts, and as Original Consciousness of Ability (Subjective Force, Capacity, Resistance)"
+          ],
+          "anchor": "a-i-can-as-logical-possibility-as-practical-possibility-and-impossibility-as-neutrality-modification-of-practical-acts-and-as-original-consciousness-of-ability-subjective-force-capacity-resistance",
+          "line_start": 955,
+          "line_end": 996,
+          "words": 3110
+        },
+        {
+          "id": "h4-b-the-i-can-motivated-in-knowledge-of-one-s-own-person-self-apperception-and-sel",
+          "level": 4,
+          "title": "b) The “I Can” Motivated in Knowledge of One’s Own Person. Self-Apperception and Self-Understanding",
+          "path": [
+            "Commentary on Edmund Husserl, Ideen zu einer reinen Phänomenologie und phänomenologischen Philosophie, Zweites Buch: Phänomenologische Untersuchungen zur Konstitution (Husserliana IV)",
+            "Second Chapter: Motivation as Fundamental Law of the Spiritual World",
+            "§60. Person as Subject of Reason-Acts, as “Free Ego”",
+            "b) The “I Can” Motivated in Knowledge of One’s Own Person. Self-Apperception and Self-Understanding"
+          ],
+          "anchor": "b-the-i-can-motivated-in-knowledge-of-ones-own-person-self-apperception-and-self-understanding",
+          "line_start": 997,
+          "line_end": 1006,
+          "words": 1247
+        },
+        {
+          "id": "h4-c-foreign-influences-and-freedom-of-the-person",
+          "level": 4,
+          "title": "c) Foreign Influences and Freedom of the Person",
+          "path": [
+            "Commentary on Edmund Husserl, Ideen zu einer reinen Phänomenologie und phänomenologischen Philosophie, Zweites Buch: Phänomenologische Untersuchungen zur Konstitution (Husserliana IV)",
+            "Second Chapter: Motivation as Fundamental Law of the Spiritual World",
+            "§60. Person as Subject of Reason-Acts, as “Free Ego”",
+            "c) Foreign Influences and Freedom of the Person"
+          ],
+          "anchor": "c-foreign-influences-and-freedom-of-the-person",
+          "line_start": 1007,
+          "line_end": 1014,
+          "words": 586
+        },
+        {
+          "id": "h4-d-general-typical-and-individual-typical-in-the-understanding-of-persons",
+          "level": 4,
+          "title": "d) General-Typical and Individual-Typical in the Understanding of Persons",
+          "path": [
+            "Commentary on Edmund Husserl, Ideen zu einer reinen Phänomenologie und phänomenologischen Philosophie, Zweites Buch: Phänomenologische Untersuchungen zur Konstitution (Husserliana IV)",
+            "Second Chapter: Motivation as Fundamental Law of the Spiritual World",
+            "§60. Person as Subject of Reason-Acts, as “Free Ego”",
+            "d) General-Typical and Individual-Typical in the Understanding of Persons"
+          ],
+          "anchor": "d-general-typical-and-individual-typical-in-the-understanding-of-persons",
+          "line_start": 1015,
+          "line_end": 1048,
+          "words": 2386
         },
         {
           "id": "h3-s61-the-spiritual-ego-and-its-foundation",
@@ -45372,9 +45507,9 @@
             "§61. The Spiritual Ego and Its Foundation"
           ],
           "anchor": "the-spiritual-ego-and-its-foundation",
-          "line_start": 711,
-          "line_end": 714,
-          "words": 135
+          "line_start": 1049,
+          "line_end": 1080,
+          "words": 2076
         },
         {
           "id": "h2-third-chapter-the-ontological-priority-of-the-spiritual-world-over-the-naturalis",
@@ -45385,8 +45520,8 @@
             "Third Chapter: The Ontological Priority of the Spiritual World Over the Naturalistic"
           ],
           "anchor": "third-chapter-the-ontological-priority-of-the-spiritual-world-over-the-naturalistic",
-          "line_start": 715,
-          "line_end": 716,
+          "line_start": 1081,
+          "line_end": 1082,
           "words": 0
         },
         {
@@ -45399,9 +45534,9 @@
             "§62. Interpenetration of Personalistic and Naturalistic Attitude"
           ],
           "anchor": "interpenetration-of-personalistic-and-naturalistic-attitude",
-          "line_start": 717,
-          "line_end": 720,
-          "words": 156
+          "line_start": 1083,
+          "line_end": 1120,
+          "words": 3334
         },
         {
           "id": "h3-s63-psychophysical-parallelism-and-interaction",
@@ -45413,9 +45548,9 @@
             "§63. Psychophysical Parallelism and Interaction"
           ],
           "anchor": "psychophysical-parallelism-and-interaction",
-          "line_start": 721,
-          "line_end": 724,
-          "words": 81
+          "line_start": 1121,
+          "line_end": 1162,
+          "words": 3177
         },
         {
           "id": "h3-s64-relativity-of-nature-absoluteness-of-spirit",
@@ -45427,9 +45562,9 @@
             "§64. Relativity of Nature, Absoluteness of Spirit"
           ],
           "anchor": "relativity-of-nature-absoluteness-of-spirit",
-          "line_start": 725,
-          "line_end": 734,
-          "words": 328
+          "line_start": 1163,
+          "line_end": 1206,
+          "words": 2198
         },
         {
           "id": "h2-supplements-beilagen",
@@ -45440,191 +45575,9 @@
             "Supplements (Beilagen)"
           ],
           "anchor": "supplements-beilagen",
-          "line_start": 735,
-          "line_end": 742,
-          "words": 463
-        },
-        {
-          "id": "h4-d-motivation-on-the-noetic-and-noematic-side",
-          "level": 4,
-          "title": "d) Motivation on the Noetic and Noematic Side",
-          "path": [
-            "Commentary on Edmund Husserl, Ideen zu einer reinen Phänomenologie und phänomenologischen Philosophie, Zweites Buch: Phänomenologische Untersuchungen zur Konstitution (Husserliana IV)",
-            "Supplements (Beilagen)",
-            "d) Motivation on the Noetic and Noematic Side"
-          ],
-          "anchor": "d-motivation-on-the-noetic-and-noematic-side",
-          "line_start": 743,
-          "line_end": 746,
-          "words": 80
-        },
-        {
-          "id": "h4-e-empathy-into-other-persons-as-understanding-their-motivations",
-          "level": 4,
-          "title": "e) Empathy into Other Persons as Understanding Their Motivations",
-          "path": [
-            "Commentary on Edmund Husserl, Ideen zu einer reinen Phänomenologie und phänomenologischen Philosophie, Zweites Buch: Phänomenologische Untersuchungen zur Konstitution (Husserliana IV)",
-            "Supplements (Beilagen)",
-            "e) Empathy into Other Persons as Understanding Their Motivations"
-          ],
-          "anchor": "e-empathy-into-other-persons-as-understanding-their-motivations",
-          "line_start": 747,
-          "line_end": 750,
-          "words": 97
-        },
-        {
-          "id": "h4-f-nature-causality-and-motivation",
-          "level": 4,
-          "title": "f) Nature-Causality and Motivation",
-          "path": [
-            "Commentary on Edmund Husserl, Ideen zu einer reinen Phänomenologie und phänomenologischen Philosophie, Zweites Buch: Phänomenologische Untersuchungen zur Konstitution (Husserliana IV)",
-            "Supplements (Beilagen)",
-            "f) Nature-Causality and Motivation"
-          ],
-          "anchor": "f-nature-causality-and-motivation",
-          "line_start": 751,
-          "line_end": 758,
-          "words": 243
-        },
-        {
-          "id": "h4-g-relations-between-subjects-and-things-under-the-viewpoints-of-causality-and-mo",
-          "level": 4,
-          "title": "g) Relations Between Subjects and Things Under the Viewpoints of Causality and Motivation",
-          "path": [
-            "Commentary on Edmund Husserl, Ideen zu einer reinen Phänomenologie und phänomenologischen Philosophie, Zweites Buch: Phänomenologische Untersuchungen zur Konstitution (Husserliana IV)",
-            "Supplements (Beilagen)",
-            "g) Relations Between Subjects and Things Under the Viewpoints of Causality and Motivation"
-          ],
-          "anchor": "g-relations-between-subjects-and-things-under-the-viewpoints-of-causality-and-motivation",
-          "line_start": 759,
-          "line_end": 764,
-          "words": 311
-        },
-        {
-          "id": "h4-h-body-and-spirit-as-comprehensive-unity-bespirited-objects",
-          "level": 4,
-          "title": "h) Body and Spirit as Comprehensive Unity; “Bespirited” Objects",
-          "path": [
-            "Commentary on Edmund Husserl, Ideen zu einer reinen Phänomenologie und phänomenologischen Philosophie, Zweites Buch: Phänomenologische Untersuchungen zur Konstitution (Husserliana IV)",
-            "Supplements (Beilagen)",
-            "h) Body and Spirit as Comprehensive Unity; “Bespirited” Objects"
-          ],
-          "anchor": "h-body-and-spirit-as-comprehensive-unity-bespirited-objects",
-          "line_start": 765,
-          "line_end": 770,
-          "words": 283
-        },
-        {
-          "id": "h3-s57-expanded-pure-ego-and-personal-ego-as-object-of-reflexive-self-apperception",
-          "level": 3,
-          "title": "§57 (expanded). Pure Ego and Personal Ego as Object of Reflexive Self-Apperception",
-          "path": [
-            "Commentary on Edmund Husserl, Ideen zu einer reinen Phänomenologie und phänomenologischen Philosophie, Zweites Buch: Phänomenologische Untersuchungen zur Konstitution (Husserliana IV)",
-            "Supplements (Beilagen)",
-            "§57 (expanded). Pure Ego and Personal Ego as Object of Reflexive Self-Apperception"
-          ],
-          "anchor": "expanded-pure-ego-and-personal-ego-as-object-of-reflexive-self-apperception",
-          "line_start": 771,
-          "line_end": 778,
-          "words": 277
-        },
-        {
-          "id": "h3-s58-expanded-constitution-of-the-personal-ego-before-reflection",
-          "level": 3,
-          "title": "§58 (expanded). Constitution of the Personal Ego Before Reflection",
-          "path": [
-            "Commentary on Edmund Husserl, Ideen zu einer reinen Phänomenologie und phänomenologischen Philosophie, Zweites Buch: Phänomenologische Untersuchungen zur Konstitution (Husserliana IV)",
-            "Supplements (Beilagen)",
-            "§58 (expanded). Constitution of the Personal Ego Before Reflection"
-          ],
-          "anchor": "expanded-constitution-of-the-personal-ego-before-reflection",
-          "line_start": 779,
-          "line_end": 782,
-          "words": 180
-        },
-        {
-          "id": "h3-s59-expanded-the-ego-as-subject-of-capacities",
-          "level": 3,
-          "title": "§59 (expanded). The Ego as Subject of Capacities",
-          "path": [
-            "Commentary on Edmund Husserl, Ideen zu einer reinen Phänomenologie und phänomenologischen Philosophie, Zweites Buch: Phänomenologische Untersuchungen zur Konstitution (Husserliana IV)",
-            "Supplements (Beilagen)",
-            "§59 (expanded). The Ego as Subject of Capacities"
-          ],
-          "anchor": "expanded-the-ego-as-subject-of-capacities",
-          "line_start": 783,
-          "line_end": 788,
-          "words": 269
-        },
-        {
-          "id": "h3-s60-expanded-person-as-subject-of-reason-acts-as-free-ego",
-          "level": 3,
-          "title": "§60 (expanded). Person as Subject of Reason-Acts, as “Free Ego”",
-          "path": [
-            "Commentary on Edmund Husserl, Ideen zu einer reinen Phänomenologie und phänomenologischen Philosophie, Zweites Buch: Phänomenologische Untersuchungen zur Konstitution (Husserliana IV)",
-            "Supplements (Beilagen)",
-            "§60 (expanded). Person as Subject of Reason-Acts, as “Free Ego”"
-          ],
-          "anchor": "expanded-person-as-subject-of-reason-acts-as-free-ego",
-          "line_start": 789,
-          "line_end": 792,
-          "words": 235
-        },
-        {
-          "id": "h3-s61-expanded-the-spiritual-ego-and-its-foundation",
-          "level": 3,
-          "title": "§61 (expanded). The Spiritual Ego and Its Foundation",
-          "path": [
-            "Commentary on Edmund Husserl, Ideen zu einer reinen Phänomenologie und phänomenologischen Philosophie, Zweites Buch: Phänomenologische Untersuchungen zur Konstitution (Husserliana IV)",
-            "Supplements (Beilagen)",
-            "§61 (expanded). The Spiritual Ego and Its Foundation"
-          ],
-          "anchor": "expanded-the-spiritual-ego-and-its-foundation",
-          "line_start": 793,
-          "line_end": 804,
-          "words": 452
-        },
-        {
-          "id": "h3-s62-expanded-interpenetration-of-personalistic-and-naturalistic-attitude",
-          "level": 3,
-          "title": "§62 (expanded). Interpenetration of Personalistic and Naturalistic Attitude",
-          "path": [
-            "Commentary on Edmund Husserl, Ideen zu einer reinen Phänomenologie und phänomenologischen Philosophie, Zweites Buch: Phänomenologische Untersuchungen zur Konstitution (Husserliana IV)",
-            "Supplements (Beilagen)",
-            "§62 (expanded). Interpenetration of Personalistic and Naturalistic Attitude"
-          ],
-          "anchor": "expanded-interpenetration-of-personalistic-and-naturalistic-attitude",
-          "line_start": 805,
-          "line_end": 810,
-          "words": 187
-        },
-        {
-          "id": "h3-s63-expanded-psychophysical-parallelism-and-interaction",
-          "level": 3,
-          "title": "§63 (expanded). Psychophysical Parallelism and Interaction",
-          "path": [
-            "Commentary on Edmund Husserl, Ideen zu einer reinen Phänomenologie und phänomenologischen Philosophie, Zweites Buch: Phänomenologische Untersuchungen zur Konstitution (Husserliana IV)",
-            "Supplements (Beilagen)",
-            "§63 (expanded). Psychophysical Parallelism and Interaction"
-          ],
-          "anchor": "expanded-psychophysical-parallelism-and-interaction",
-          "line_start": 811,
-          "line_end": 814,
-          "words": 200
-        },
-        {
-          "id": "h3-s64-expanded-relativity-of-nature-absoluteness-of-spirit",
-          "level": 3,
-          "title": "§64 (expanded). Relativity of Nature, Absoluteness of Spirit",
-          "path": [
-            "Commentary on Edmund Husserl, Ideen zu einer reinen Phänomenologie und phänomenologischen Philosophie, Zweites Buch: Phänomenologische Untersuchungen zur Konstitution (Husserliana IV)",
-            "Supplements (Beilagen)",
-            "§64 (expanded). Relativity of Nature, Absoluteness of Spirit"
-          ],
-          "anchor": "expanded-relativity-of-nature-absoluteness-of-spirit",
-          "line_start": 815,
-          "line_end": 823,
-          "words": 387
+          "line_start": 1207,
+          "line_end": 1213,
+          "words": 304
         }
       ]
     },

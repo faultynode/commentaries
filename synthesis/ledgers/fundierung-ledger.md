@@ -902,6 +902,7 @@
 
 *Where the theme's terms occur but no extraction pass has run. Silence in the sections above is silence about these files, not evidence of absence in them.*
 
+- `husserliana-4-ideas-ii-commentary` - 373 term hits, no record
 - `kant-kritik-der-reinen-vernunft-commentary` - 332 term hits, no record
 - `husserliana-28-vorlesungen-uber-ethik-und-wertlehre-commentary` - 316 term hits, no record
 - `lacan-seminar-1-freuds-papers-on-technique-commentary` - 308 term hits, no record
@@ -911,7 +912,6 @@
 - `heidegger-ga-3-kant-und-das-problem-der-metaphysik-commentary` - 226 term hits, no record
 - `husserliana-7-erste-philosophie-i-commentary` - 213 term hits, no record
 - `husserliana-39-die-lebenswelt-commentary` - 209 term hits, no record
-- `husserliana-4-ideas-ii-commentary` - 205 term hits, no record
 - `husserliana-23-phantasie-bildbewusstsein-erinnerung-commentary` - 203 term hits, no record
 - `husserliana-11-analyses-concerning-passive-and-active-synthesis-commentary` - 196 term hits, no record
 - `husserl-formal-and-transcendental-logic-commentary` - 194 term hits, no record
