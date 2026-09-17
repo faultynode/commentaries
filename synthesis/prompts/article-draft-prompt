@@ -1,0 +1,169 @@
+# Task: article draft for intentionality (Stage 4, type 6)
+
+Write a Stage 4 **article draft** (output type 6) for the theme
+`intentionalitaet`, following `synthesis/prompts/synthesis-prompt.md`'s
+hand-off: "Article draft — hand off to
+[article-prompt](../../prompts/article-prompt.md), which takes the
+ledgers as its notes." Work in the `commentaries` repo root.
+
+This is the third Stage 4 pass over this theme's ledger, after the
+development narrative and the aporia register. It is a calibration run
+in the same sense those were: `articles/heidegger-husserl-intentionality-article.md`
+covers adjacent ground and was written by hand before this pipeline
+existed. This pass finds out what the ledger alone — read fresh,
+without that article and without the two later Stage 4 outputs —
+supports as a finished argument.
+
+## Read first; these bind you
+
+1. `synthesis/prompts/synthesis-prompt.md`: the Stage 4 prompt. Its
+   source discipline and gap rule override anything below.
+2. `prompts/article-prompt.md`: the content prompt for this output
+   type. Its ROLE, SOURCE DISCIPLINE, ARGUMENT and RESEARCH REGISTER
+   sections govern the writing. Its OUTPUT FILE section does **not**
+   apply as written — see "Output" below, which overrides it.
+3. `synthesis/CLAUDE.md`: the conventions for working in `synthesis/`.
+
+## What you may read, and what you may not
+
+Your closed corpus — the "attached notes" article-prompt.md refers to:
+
+- `synthesis/ledgers/intentionalitaet-ledger.md`. Rebuild it first with
+  `python scripts/synthesis_ledger.py --theme intentionalitaet`. It is
+  about 3,500 lines. Read all of it, in consecutive line ranges, before
+  drafting. The thesis has to come from what is actually on the spine,
+  not from a keyword sample.
+- `synthesis/inheritance/*.json`: the predecessor engagements.
+- `synthesis/chronology.json`: for dates only.
+- `synthesis/gaps.json`: to see what is already open (gap-001 through
+  gap-024; gap-012 and gap-013 are closed) and to append to.
+
+Do not open `commentaries/`, `articles/` (including
+`heidegger-husserl-intentionality-article.md`),
+`synthesis/outputs/intentionalitaet-development-narrative.md`,
+`synthesis/outputs/intentionalitaet-aporia-register.md`,
+`synthesis/lexicon.json`, or the extraction JSON (the ledger already
+carries it). Do not use what you know about Husserl, Heidegger, or
+their reception from outside the ledger. The two earlier outputs cover
+adjacent ground on purpose — reading them would anchor your thesis to
+their framing instead of the ledger's, which defeats the point of the
+run. If a claim needs any of those, it is a gap, not a sentence.
+
+## Filling in article-prompt.md
+
+- **[TOPIC]**: not fixed in advance. Read the ledger, then choose the
+  thesis yourself, per article-prompt.md's ARGUMENT section — something
+  the units make possible but do not themselves state. Nine of the
+  fifteen open intentionalitaet gaps (gap-011, 016, 017, 019, 020, 021,
+  022, 023, 024) are aporia-shaped and already anchored to specific
+  units; a thesis that turns one of them, or the relation between
+  several, into an argument is a reasonable place to look, but is not
+  the only option and not a requirement — decide from what the ledger
+  actually supports once you have read it.
+- **Citation convention**: the mechanics `scripts/synthesis_check_outputs.py`
+  enforces, same as the ledger's own units:
+  - Cite units in backticks: `intentionalitaet/<record>/<NNN>` or the
+    short form `<record>/<NNN>`. Cite inheritance engagements as
+    `inh/<record>/<NNN>`.
+  - Put a `slug#section-id` locator in backticks **only** for a
+    recorded absence — the checker treats every backticked commentary
+    locator as a claimed absence.
+  - Use straight double quotes (`"`) **only** around text copied
+    verbatim from the ledger or the inheritance records; the checker
+    looks up every such span of 10+ characters against the ledger. No
+    scare quotes, no curly quotes, no double-quoted glosses of your
+    own.
+  - A primary-text citation (LU V § 9, GA 20 § 5) only as the unit
+    gives it; a date not carried by the unit must say where it came
+    from (`chronology.json` or the ledger heading).
+- **Length**: 4,000–6,000 words for the article proper (not counting
+  the Research Register). Adjust downward if the ledger only supports
+  a narrower thesis well — a shorter, fully-anchored article beats a
+  longer one padded past what the units carry.
+
+## Output
+
+article-prompt.md's own OUTPUT FILE section says to save to
+`articles/<slug>-article.md` with Jekyll frontmatter. That is where a
+*finished, publishable* article goes — moving a file into `articles/`
+or `commentaries/<author>/` is the act of publishing it, which is the
+repo owner's decision, never a step in a synthesis pass (see
+`synthesis/CLAUDE.md` "Publication seam"). This run is a Stage 4 draft
+like the other two, so instead:
+
+Write `synthesis/outputs/intentionalitaet-article-draft.md`. No Jekyll
+frontmatter. Open with:
+
+1. `# Intentionality: an article draft` (or your own title, if you
+   have a sharper one for the thesis you chose), then one paragraph
+   naming: Stage 4 output type 6 over which ledger; that this pass did
+   not open the hand-written article or the two earlier Stage 4
+   outputs, and why; the unit, absence and record counts copied from
+   the ledger's header line; today's date.
+2. **How to read the citations** — the same short explanation the
+   development narrative and aporia register both give: what the unit
+   ids, `inh/` ids and backticked absence locators resolve to, and the
+   three tiers (primary text as mediated by the commentary, the
+   commentary's claim, your own argument) staying apart.
+
+Then the article itself, per article-prompt.md's FORM: continuous
+prose, section breaks only where the argument turns, no "in this
+article I will", no closing recapitulation, no bullet lists.
+
+Close with the RESEARCH REGISTER article-prompt.md specifies (works
+and passages used, desiderata, load-bearing commentary-only points,
+directions opened but not taken, places the ledger appears wrong or in
+tension). Its desiderata and this prompt's gap rule are the same
+instrument — do not keep a separate informal list; every desideratum
+that names a concrete missing pass belongs in `gaps.json` too (below),
+and the Register entry may just point to the gap id.
+
+## Gaps
+
+Append to `synthesis/gaps.json`, starting at **gap-025**. Match the
+existing entries' format exactly, including how they write § as `s`:
+
+```json
+{
+  "id": "gap-0NN",
+  "opened": "<today, YYYY-MM-DD>",
+  "theme": "intentionalitaet",
+  "question": "<what the article needed and the ledger could not give, citing unit ids>",
+  "needs": "<a concrete pass: which commentary, which sections, which terms; extraction or absence>",
+  "raised_by": "synthesis/outputs/intentionalitaet-article-draft.md",
+  "status": "open"
+}
+```
+
+Before opening a new gap, check it is not already one of gap-001
+through gap-024 under different words. Where your argument runs into
+an existing open gap, cite its id in the Research Register instead of
+duplicating it. A good `needs` names a commentary slug and a range of
+sections, not "more reading".
+
+## Verify, then stop
+
+1. `python scripts/synthesis_check_outputs.py synthesis/outputs/intentionalitaet-article-draft.md`
+   must report the file clean. Fix every issue by changing your text.
+   Never touch the ledger or the records to make a citation resolve.
+2. `python scripts/synthesis_validate.py` must pass. The existing
+   staleness warnings are expected; any new error is yours.
+3. `python scripts/synthesis_status.py`: confirm your new gaps are in
+   the queue.
+4. Reread the SOURCE DISCIPLINE block of `prompts/article-prompt.md`
+   against your own draft: every textual claim traceable to a ledger
+   unit; every claim resting only on the commentary's say-so, not the
+   primary text, marked as such; every argumentative step you could
+   not support marked `[UNSUPPORTED — needs X]` rather than smoothed
+   over.
+
+Change only `synthesis/outputs/intentionalitaet-article-draft.md` and
+`synthesis/gaps.json`. Do not hand-edit the generated ledger, do not
+touch the extraction or inheritance records, and do not move anything
+into `commentaries/` or `articles/` — publishing this draft, if it's
+good enough to publish, is a separate decision for afterward. Do not
+commit to `main`. If you have to commit to hand the work back, use a
+new branch.
+
+Finish with a short report: the thesis you argued, the gap ids you
+raised or cited, and the checker's final output.
