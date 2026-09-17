@@ -1,0 +1,109 @@
+{
+  "schema_version": 1,
+  "theme": "reduktion",
+  "commentary": "husserliana-33-die-bernauer-manuskripte-uber-das-zeitbewusstsein-commentary",
+  "source_sha256": "7824dfc668eb525991d53ab3355fb32c76040ee942ce34e20338a34d494b2530",
+  "extracted_at": "2026-09-17",
+  "extractor": {
+    "agent": "claude-code",
+    "model": "claude-opus-5",
+    "prompt": "synthesis/prompts/extraction-prompt.md",
+    "note": "The reduction is here a presupposed starting point rather than a topic: the editors' introduction dates its arrival between the early time-texts and Bernau, and the manuscripts begin from it. The one place it is itself at work is the reduction to primal sensuality in Text Nr. 14."
+  },
+  "coverage": "partial",
+  "coverage_note": "Covers the sections in which the theme's terms occur - editors' introduction III and IV, Text Nr. 7 § 4, Text Nr. 12 § 1, Text Nr. 13 § 3, Text Nr. 14 § 1 and Text Nr. 15 § 1 - read in full, together with Text Nr. 1 § 1, Text Nr. 14 § 2 and editors' introduction V as context for the absences. Parts I to III and the supplements were not read in full.",
+  "units": [
+    {
+      "id": "reduktion/hua33/001",
+      "locator": "husserliana-33-die-bernauer-manuskripte-uber-das-zeitbewusstsein-commentary#h2-iii",
+      "term": "transcendental-phenomenological reduction",
+      "status": "presupposed",
+      "claim": "Following the introduction of the transcendental-phenomenological reduction, the relation between absolute consciousness and the sensation-datum was re-determined as a constitutive relation.",
+      "quote": "Second, following the introduction of the transcendental-phenomenological reduction, the relation between \"absolute\" consciousness and sensation-datum was re-determined as a constitutive relation."
+    },
+    {
+      "id": "reduktion/hua33/002",
+      "locator": "husserliana-33-die-bernauer-manuskripte-uber-das-zeitbewusstsein-commentary#h2-iv",
+      "term": "phenomenological reduction",
+      "status": "presupposed",
+      "claim": "The publication of Ideas I, with its systematic account of the phenomenological reduction, falls between the last early time-texts and the first Bernau manuscripts, and its findings entered them.",
+      "quote": "Between the last early time-texts and the first Bernau manuscripts (1911–1917) falls the publication of *Ideas I*, with its systematic account of the phenomenological reduction, transcendental idealism, the noetic-noematic correlation, and the introduction of the pure ego. These new findings entered the Bernau time-manuscripts."
+    },
+    {
+      "id": "reduktion/hua33/003",
+      "locator": "husserliana-33-die-bernauer-manuskripte-uber-das-zeitbewusstsein-commentary#h2-iv",
+      "term": "phenomenological reduction",
+      "status": "presupposed",
+      "claim": "Husserl often reflects on the phenomenological reduction and transcendental idealism in treating the constitutive function of time-consciousness.",
+      "quote": "Husserl often reflects on the phenomenological reduction and transcendental idealism in treating the constitutive function of time-consciousness"
+    },
+    {
+      "id": "reduktion/hua33/004",
+      "locator": "husserliana-33-die-bernauer-manuskripte-uber-das-zeitbewusstsein-commentary#h4-s-4-the-multiple-times-and-the-one-time-subjective-and-intersubjective-time",
+      "term": "phenomenological reduction",
+      "status": "presupposed",
+      "claim": "In the pure immanence after the phenomenological reduction no \"we\" and no plurality of subjects is first given, only the stream of experiences and the pure ego of this stream.",
+      "quote": "In the pure immanence (after phenomenological reduction), no \"we,\" no plurality of subjects is first given—only the stream of experiences and the pure ego of this stream."
+    },
+    {
+      "id": "reduktion/hua33/005",
+      "locator": "husserliana-33-die-bernauer-manuskripte-uber-das-zeitbewusstsein-commentary#h4-s-1-outline-of-the-analysis-of-the-flow-of-ur-impressional-givennesses-and-reten",
+      "term": "transcendental reflection",
+      "status": "presupposed",
+      "claim": "In transcendental reflection the ur-impressional data, the fading-modifications and the apprehension-functions are found.",
+      "quote": "In transcendental reflection we find ur-impressional data, the fading-modifications, and also the apprehension-functions."
+    },
+    {
+      "id": "reduktion/hua33/006",
+      "locator": "husserliana-33-die-bernauer-manuskripte-uber-das-zeitbewusstsein-commentary#h4-s-3-two-directions-of-transcendental-reflection-on-the-stream-of-the-constitutin",
+      "term": "transcendental reflection",
+      "status": "introduced",
+      "claim": "In the deeper, second-level transcendental reflection the gaze turns to the transverse rows of givenness-modes and holds them through their modifications.",
+      "quote": "In the deeper transcendental reflection (second level), the gaze turns to the transverse rows (the continua of givenness-modes) and holds them through their modifications."
+    },
+    {
+      "id": "reduktion/hua33/007",
+      "locator": "husserliana-33-die-bernauer-manuskripte-uber-das-zeitbewusstsein-commentary#h4-s-1-the-reduction-to-the-temporality-of-the-primal-egoless-sensuality",
+      "term": "phenomenological reduction",
+      "status": "presupposed",
+      "claim": "Husserl begins from the phenomenological reduction, considering the stream of experiences as a living, necessarily mobile present with its structure of ur-presence and horizon.",
+      "quote": "Husserl begins from the phenomenological reduction, considering the stream of experiences: a \"living,\" necessarily mobile \"present\" with its structure of ur-presence and \"horizon\" of just-having-been and a future."
+    },
+    {
+      "id": "reduktion/hua33/008",
+      "locator": "husserliana-33-die-bernauer-manuskripte-uber-das-zeitbewusstsein-commentary#h4-s-1-the-reduction-to-the-temporality-of-the-primal-egoless-sensuality",
+      "term": "reduction to primal sensuality",
+      "status": "introduced",
+      "claim": "A further methodological reduction within the phenomenological reduction, the reduction to primal sensuality, abstracts from the ego and everything egoic.",
+      "quote": "Husserl introduces a crucial methodological reduction within the phenomenological reduction: the reduction to \"primal sensuality\" (*ursprüngliche Sensualität*). This is an abstraction from the ego and everything egoic — though only an abstraction, an important one."
+    },
+    {
+      "id": "reduktion/hua33/009",
+      "locator": "husserliana-33-die-bernauer-manuskripte-uber-das-zeitbewusstsein-commentary#h4-s-1-the-reduction-to-the-temporality-of-the-primal-egoless-sensuality",
+      "term": "reduction to primal sensuality",
+      "status": "presupposed",
+      "claim": "Sensory drives are excluded as well because they bring the ego into play, leaving the completely egoless sensory tendencies of association and reproduction.",
+      "quote": "Sensory drives are affections toward the ego, passive reactions — but we now also exclude these, since they bring the ego into play. We distinguish the \"completely egoless\" sensory tendencies: sensory tendencies of association and reproduction, and the horizon-formations they determine."
+    },
+    {
+      "id": "reduktion/hua33/010",
+      "locator": "husserliana-33-die-bernauer-manuskripte-uber-das-zeitbewusstsein-commentary#h4-s-1-the-eidetic-shape-of-psychic-interiority-temporal-ur-genesis-ego-and-hyle",
+      "term": "phenomenological reduction",
+      "status": "presupposed",
+      "claim": "The phenomenological reduction is the return to the stream of pure experiences and the pure ego, followed by a further return to the primal consciousness constituting immanent temporal objectivities.",
+      "quote": "Through phenomenological reduction: the return to the stream of pure experiences and the pure ego, to immanent being whose necessary form is \"phenomenological time\" — and then the further return to the primal consciousness constituting immanent temporal objectivities."
+    }
+  ],
+  "absences": [
+    {
+      "locator": "husserliana-33-die-bernauer-manuskripte-uber-das-zeitbewusstsein-commentary#h4-s-1-the-intentionality-of-ur-presentation-the-attentive-turning-toward-a-present",
+      "expected_because": "This is the opening analysis of the published manuscripts, where the field of ur-presentation and attentional turning is entered, and it names nothing that would have secured that field.",
+      "absent_terms": ["Reduktion", "reduction", "phenomenological reduction", "transcendental reduction", "eidetic reduction", "Epoché", "epoché", "bracketing", "bracketed", "suspension", "transcendental reflection"]
+    },
+    {
+      "locator": "husserliana-33-die-bernauer-manuskripte-uber-das-zeitbewusstsein-commentary#h4-s-2-the-identical-non-objectual-and-non-temporal-ego-as-functioning-pole-primal",
+      "expected_because": "The section immediately follows the reduction to primal sensuality, which was expressly an abstraction from the ego, and restores the ego as non-temporal functioning pole without naming the reduction it reverses.",
+      "absent_terms": ["Reduktion", "reduction", "phenomenological reduction", "transcendental reduction", "eidetic reduction", "Epoché", "epoché", "bracketing", "bracketed", "suspension", "transcendental reflection"]
+    }
+  ]
+}

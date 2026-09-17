@@ -1,0 +1,160 @@
+{
+  "schema_version": 1,
+  "theme": "reduktion",
+  "commentary": "heidegger-ga-17-einfuhrung-in-die-phanomenologische-forschung-commentary",
+  "source_sha256": "ed66742cbd4dd82f4df2239b2d0d2f8268b4295f940c4395d683c46c070894f3",
+  "extracted_at": "2026-09-17",
+  "extractor": {
+    "agent": "claude-code",
+    "model": "claude-opus-5",
+    "prompt": "synthesis/prompts/extraction-prompt.md",
+    "note": "Pass over the sections carrying the theme's terms: the Destruktion as method (§§ 16, 18, 20) and its enactment on Descartes (§§ 21, 31-33, 37), the maxim zu den Sachen selbst (§§ 6, 15), and Husserl's eidetic and transcendental reduction (§§ 48-49)."
+  },
+  "coverage": "partial",
+  "coverage_note": "Covers every section in which the theme's terms occur - §§ 4, 6, 15, 16, 18, 20, 21, 31-33, 37, 48-49 - read in full together with §§ 5, 17, 19, 24, 25-26, 39-41, 42-43, 46-47 and 50 as context for the absences. The Aristotle chapters of Part One (§§ 1-3) and §§ 7-14, 22-23, 27-30, 34-36, 38 and 44-45 were not read in full.",
+  "units": [
+    {
+      "id": "reduktion/ga17/001",
+      "locator": "heidegger-ga-17-einfuhrung-in-die-phanomenologische-forschung-commentary#h4-s-4-consciousness-as-the-theme-of-present-day-phenomenology",
+      "primary_locator": "GA 17 § 4",
+      "term": "transcendentally pure consciousness",
+      "status": "presupposed",
+      "claim": "Husserl's furthest-driven position defines phenomenology as the descriptive-eidetic science of transcendentally pure consciousness.",
+      "quote": "Heidegger takes Husserl's furthest-driven position in *Ideen I*, where phenomenology is defined as the *descriptive-eidetic science of transcendentally pure consciousness*."
+    },
+    {
+      "id": "reduktion/ga17/002",
+      "locator": "heidegger-ga-17-einfuhrung-in-die-phanomenologische-forschung-commentary#h4-s-6-the-care-for-known-knowledge-in-which-consciousness-stands",
+      "primary_locator": "GA 17 § 6",
+      "term": "zu den Sachen selbst",
+      "status": "criticized",
+      "claim": "Phenomenology's own maxim runs in a definite tendency, and the most hidebound dogmatism can conceal itself behind it.",
+      "quote": "behind the maxim *\"zu den Sachen selbst\"* the most hidebound dogmatism can conceal itself"
+    },
+    {
+      "id": "reduktion/ga17/003",
+      "locator": "heidegger-ga-17-einfuhrung-in-die-phanomenologische-forschung-commentary#h4-s-15-sharper-specification-of-the-care-for-known-knowledge",
+      "primary_locator": "GA 17 § 15",
+      "term": "zu den Sachen selbst",
+      "status": "revised",
+      "claim": "Under the care for all-bindingness the maxim no longer means making the matters present freely from themselves, but letting the asked-about be encountered within an already-prescribed problematic.",
+      "quote": "can here no longer mean making the matters present freely *from themselves*, prior to a definite way of asking; it means letting the asked-about be encountered *within this already-prescribed problematic*"
+    },
+    {
+      "id": "reduktion/ga17/004",
+      "locator": "heidegger-ga-17-einfuhrung-in-die-phanomenologische-forschung-commentary#h4-s-16-the-disclosing-of-the-thematic-field-consciousness-by-the-care-for-known-kn",
+      "primary_locator": "GA 17 § 16",
+      "term": "Destruktion",
+      "status": "introduced",
+      "claim": "The care for certainty discloses the field \"consciousness\" factically-historically in Descartes, and the course turns back to that source by way of the Destruktion.",
+      "quote": "it is in Descartes that the care for certainty factically-historically discloses the field \"consciousness.\" With this the course leaves Husserl and turns back, by way of the *Destruktion*, to the source."
+    },
+    {
+      "id": "reduktion/ga17/005",
+      "locator": "heidegger-ga-17-einfuhrung-in-die-phanomenologische-forschung-commentary#h4-s-18-becoming-free-from-the-discipline-and-the-handed-down-possibilities-as-beco",
+      "primary_locator": "GA 17 § 18",
+      "term": "becoming-free from handed-down possibilities",
+      "status": "introduced",
+      "claim": "Both investigations led out of the pre-given discipline to Dasein, and that becoming-free from the discipline is at once a freeing from the handed-down possibilities of determining this being.",
+      "quote": "a *becoming-free from the discipline for Dasein itself*, seizing the possibility of making Dasein the theme of a research determined by Dasein itself. This freeing is at once a freeing *from handed-down possibilities* of determining this being."
+    },
+    {
+      "id": "reduktion/ga17/006",
+      "locator": "heidegger-ga-17-einfuhrung-in-die-phanomenologische-forschung-commentary#h4-s-20-destruktion-as-the-way-of-interpreting-dasein-three-tasks-the-question-of-t",
+      "primary_locator": "GA 17 § 20",
+      "term": "Destruktion",
+      "status": "introduced",
+      "claim": "Destruktion is the freeing by dismantling that leads the concepts back to their proper origin and thereby exposes their inadequacy to Dasein.",
+      "quote": "The freeing by way of dismantling, *Destruktion*, leads the concepts back to their proper origin and thereby exposes their inadequacy to Dasein."
+    },
+    {
+      "id": "reduktion/ga17/007",
+      "locator": "heidegger-ga-17-einfuhrung-in-die-phanomenologische-forschung-commentary#h4-s-20-destruktion-as-the-way-of-interpreting-dasein-three-tasks-the-question-of-t",
+      "primary_locator": "GA 17 § 20",
+      "term": "Destruktion",
+      "status": "presupposed",
+      "claim": "Destruktion is no universal historical method but a concrete way arising from the needs of categorial Dasein-research, and it seeks in what it takes up the positive rather than the weaknesses.",
+      "quote": "First, Destruktion is *no universal historical method* but a concrete way arising from the needs of categorial Dasein-research and limited to it; it *seems* purely negative, but it seeks in what it takes up not the weaknesses but *the positive, the productive*"
+    },
+    {
+      "id": "reduktion/ga17/008",
+      "locator": "heidegger-ga-17-einfuhrung-in-die-phanomenologische-forschung-commentary#h4-s-20-destruktion-as-the-way-of-interpreting-dasein-three-tasks-the-question-of-t",
+      "primary_locator": "GA 17 § 20",
+      "term": "Destruktion",
+      "status": "presupposed",
+      "claim": "What Destruktion criticizes is not the past it discloses but the present, our Dasein insofar as it is covered by a past gone inauthentic.",
+      "quote": "Second, Destruktion is *critical*, but what it criticizes is not the past it discloses; the critique falls on *the present*, our Dasein insofar as it is covered by a past gone inauthentic"
+    },
+    {
+      "id": "reduktion/ga17/009",
+      "locator": "heidegger-ga-17-einfuhrung-in-die-phanomenologische-forschung-commentary#h4-s-20-destruktion-as-the-way-of-interpreting-dasein-three-tasks-the-question-of-t",
+      "primary_locator": "GA 17 § 20",
+      "term": "Destruktion",
+      "status": "presupposed",
+      "claim": "Destruktion can never be refuting and has sense only as matter-disclosing research into Dasein's being-characters.",
+      "quote": "Fourth, it can never be *refuting*, protecting one's own position by refutation; it has sense only as matter-disclosing research into Dasein's being-characters."
+    },
+    {
+      "id": "reduktion/ga17/010",
+      "locator": "heidegger-ga-17-einfuhrung-in-die-phanomenologische-forschung-commentary#h4-s-21-determinacies-of-truth",
+      "primary_locator": "GA 17 § 21",
+      "term": "Destruktion",
+      "status": "presupposed",
+      "claim": "The path of removal that ends in truth as value is not contrived for the Destruktion's sake but the path history actually made.",
+      "quote": "This path of removal is not contrived for Destruktion's sake — it is the path *history actually made*, the movement in which the interpretation of the being-as-true runs"
+    },
+    {
+      "id": "reduktion/ga17/011",
+      "locator": "heidegger-ga-17-einfuhrung-in-die-phanomenologische-forschung-commentary#h4-ss-31-33-in-what-sense-the-verum-is-in-the-intellectus-its-grounding-in-the-orig",
+      "primary_locator": "GA 17 §§ 31-33",
+      "term": "Destruktion",
+      "status": "presupposed",
+      "claim": "The correspondence-truth Descartes presupposes and Husserl inherits rests on a formalized ontology of createdness, and that ground is what the Destruktion was after.",
+      "quote": "rests on this formalized ontology of createdness — and this is the ground the *Destruktion* was after."
+    },
+    {
+      "id": "reduktion/ga17/012",
+      "locator": "heidegger-ga-17-einfuhrung-in-die-phanomenologische-forschung-commentary#h4-s-37-the-care-of-knowing-as-care-of-certainty-as-sichvergreifen",
+      "primary_locator": "GA 17 § 37",
+      "term": "Destruktion",
+      "status": "presupposed",
+      "claim": "Truth grasped primarily as certainty is the substitution the whole Destruktion was driving at, and Descartes is the one who performs it.",
+      "quote": "Truth grasped primarily as *certainty*: this is the substitution the whole *Destruktion* was driving at, and it is Descartes who performs it."
+    },
+    {
+      "id": "reduktion/ga17/013",
+      "locator": "heidegger-ga-17-einfuhrung-in-die-phanomenologische-forschung-commentary#h4-ss-48-49-husserl-s-disfiguring-verunstaltung-of-the-phenomenological-findings-th",
+      "primary_locator": "GA 17 §§ 48-49",
+      "term": "eidetic reduction",
+      "status": "criticized",
+      "claim": "The eidetic reduction of pure consciousness proceeds under the leadership of ontological determinations foreign to consciousness, those of traditional ontology and formal logic.",
+      "quote": "Third, the *eidetic reduction* of pure consciousness proceeds under the leadership of *ontological determinations foreign to consciousness* — the determinations of traditional ontology and formal logic"
+    },
+    {
+      "id": "reduktion/ga17/014",
+      "locator": "heidegger-ga-17-einfuhrung-in-die-phanomenologische-forschung-commentary#h4-ss-48-49-husserl-s-disfiguring-verunstaltung-of-the-phenomenological-findings-th",
+      "primary_locator": "GA 17 §§ 48-49",
+      "term": "transcendental reduction",
+      "status": "criticized",
+      "claim": "Pure consciousness once won through the transcendental reduction is made a possible domain of a science by importing categories that owe their origin to no analysis of that being's own being-characters.",
+      "quote": "so that pure consciousness, once won through the transcendental reduction, is made a *possible domain of a science* by importing categories that owe their origin *not* to any analysis of *this* being's specific being-characters"
+    }
+  ],
+  "absences": [
+    {
+      "locator": "heidegger-ga-17-einfuhrung-in-die-phanomenologische-forschung-commentary#h4-s-5-the-theme-consciousness-in-the-logical-investigations",
+      "expected_because": "The section derives the field \"consciousness\" as the region phenomenology secures for itself, which is the work the reduction is elsewhere said to do; here the region is reached through inner perception and the act-class alone.",
+      "absent_terms": ["Reduktion", "reduction", "phenomenological reduction", "transcendental reduction", "eidetic reduction", "Epoché", "epoché", "bracketing", "Destruktion", "destruction"]
+    },
+    {
+      "locator": "heidegger-ga-17-einfuhrung-in-die-phanomenologische-forschung-commentary#h4-ss-46-47-descartes-and-husserl-fundamental-differences-connection-and-unitary-gr",
+      "expected_because": "This is where the fundamental difference between Husserl's and Descartes' grasp of consciousness is fixed, and the reduction is what would mark that difference; the section fixes it on the disposal of the question of being and the sense of esse certum instead.",
+      "absent_terms": ["Reduktion", "reduction", "phenomenological reduction", "transcendental reduction", "eidetic reduction", "Epoché", "epoché", "bracketing", "Destruktion", "destruction"]
+    },
+    {
+      "locator": "heidegger-ga-17-einfuhrung-in-die-phanomenologische-forschung-commentary#h4-s-50-repetition-of-the-traversed-characters-of-the-care-of-knowing-and-the-exhib",
+      "expected_because": "The closing section turns the whole indictment into a positive exhibition of Dasein, the point at which the method replacing the criticized reduction would have to be named; it names Verdrehung and the flight of Dasein before itself instead.",
+      "absent_terms": ["Reduktion", "reduction", "phenomenological reduction", "transcendental reduction", "eidetic reduction", "Epoché", "epoché", "bracketing", "Destruktion", "destruction"]
+    }
+  ]
+}

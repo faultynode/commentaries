@@ -1,0 +1,151 @@
+{
+  "schema_version": 1,
+  "theme": "reduktion",
+  "commentary": "heidegger-ga-20-prolegomena-zur-geschichte-des-zeitbegriffs-commentary",
+  "source_sha256": "30416fcea761ee439a1e714cce8c61ed361ef1ef9e776b844fe15ad7cf060e0c",
+  "extracted_at": "2026-09-17",
+  "extractor": {
+    "agent": "claude-code",
+    "model": "claude-opus-5",
+    "prompt": "synthesis/prompts/extraction-prompt.md",
+    "note": "The theme is concentrated in Chapter Three of the Preparatory Part: § 10 expounds the epoché and the two reductions, §§ 12-13 turn them into the charge that the reduction gives away the ground on which the being of consciousness could be asked after."
+  },
+  "coverage": "partial",
+  "coverage_note": "Covers Chapter Three of the Preparatory Part (§§ 10-13), read in full, which is where the epoché and the reductions are expounded and criticized. The rest of the commentary was checked for the theme's terms and the only further occurrence is \"uprooted state of suspension\" in § 29, which is not the epoché; §§ 1-9 and the whole Main Part were not read in full.",
+  "units": [
+    {
+      "id": "reduktion/ga20/001",
+      "locator": "heidegger-ga-20-prolegomena-zur-geschichte-des-zeitbegriffs-commentary#h4-s-10-the-working-out-of-the-thematic-field",
+      "primary_locator": "GA 20 § 10",
+      "term": "epochē",
+      "status": "introduced",
+      "claim": "The not-going-along-with the thesis of the material world is the epoché, the holding-back.",
+      "quote": "This not-going-along-with the thesis of the material world is the *epochē*, the holding-back."
+    },
+    {
+      "id": "reduktion/ga20/002",
+      "locator": "heidegger-ga-20-prolegomena-zur-geschichte-des-zeitbegriffs-commentary#h4-s-10-the-working-out-of-the-thematic-field",
+      "primary_locator": "GA 20 § 10",
+      "term": "bracketing (Einklammerung)",
+      "status": "introduced",
+      "claim": "The modification by which the perceived is meant not as such but in the how of its being is bracketing.",
+      "quote": "The perceived is meant not as such but in the how of its being. This modification is *bracketing* (Einklammerung)."
+    },
+    {
+      "id": "reduktion/ga20/003",
+      "locator": "heidegger-ga-20-prolegomena-zur-geschichte-des-zeitbegriffs-commentary#h4-s-10-the-working-out-of-the-thematic-field",
+      "primary_locator": "GA 20 § 10",
+      "term": "bracketing (Einklammerung)",
+      "status": "presupposed",
+      "claim": "Bracketing takes nothing away from the being and does not assume it is not; the switch of the gaze serves to make the being-character of the being present.",
+      "quote": "bracketing takes nothing away from the being, does not assume the being is not; the switch of the gaze serves precisely to make the *being-character* of the being present"
+    },
+    {
+      "id": "reduktion/ga20/004",
+      "locator": "heidegger-ga-20-prolegomena-zur-geschichte-des-zeitbegriffs-commentary#h4-s-10-the-working-out-of-the-thematic-field",
+      "primary_locator": "GA 20 § 10",
+      "term": "switching-off",
+      "status": "criticized",
+      "claim": "Taking the switching-off of the existence-thesis to mean that phenomenological consideration has given up dealing with the being is always misleading, since it is there solely a matter of determining the being of the being itself.",
+      "quote": "\"Switching-off\" is always misleading if one thinks that in switching off the existence-thesis phenomenological consideration has *given up* dealing with the being — the reverse: now, extremely and solely, it is a matter of determining the *being* of the being itself."
+    },
+    {
+      "id": "reduktion/ga20/005",
+      "locator": "heidegger-ga-20-prolegomena-zur-geschichte-des-zeitbegriffs-commentary#h4-s-10-the-working-out-of-the-thematic-field",
+      "primary_locator": "GA 20 § 10",
+      "term": "reduction",
+      "status": "introduced",
+      "claim": "The epoché can be carried out for all conscious comportments, and winning the act-sphere and its objects in the unity of a determinate sphere is reduction.",
+      "quote": "The *epochē* can be carried out for all conscious comportments; winning the act-sphere and its objects in the unity of a determinate sphere is *reduction*."
+    },
+    {
+      "id": "reduktion/ga20/006",
+      "locator": "heidegger-ga-20-prolegomena-zur-geschichte-des-zeitbegriffs-commentary#h4-s-10-the-working-out-of-the-thematic-field",
+      "primary_locator": "GA 20 § 10",
+      "term": "transcendental reduction",
+      "status": "introduced",
+      "claim": "The first reduction, the not going along with any transcendent thesis, is the transcendental one, and its reduced field is still the singularity of my own stream of consciousness.",
+      "quote": "This first reduction (not going along with any transcendent thesis) is the \"transcendental\" reduction; its reduced field is still the field of a *unique* singularity, my own stream of consciousness."
+    },
+    {
+      "id": "reduktion/ga20/007",
+      "locator": "heidegger-ga-20-prolegomena-zur-geschichte-des-zeitbegriffs-commentary#h4-s-10-the-working-out-of-the-thematic-field",
+      "primary_locator": "GA 20 § 10",
+      "term": "eidetic reduction",
+      "status": "introduced",
+      "claim": "The second, eidetic reduction studies acts and act-objects ideatively rather than as individuations of my stream, switching off every moment that determines the stream as individual.",
+      "quote": "A second reduction, the *eidetic*, then studies acts and act-objects not as concrete individuations of *my* stream but ideatively, switching off every moment that determines this stream as individual, seeing only the structure belonging to a perception, representation, judgment *as such*."
+    },
+    {
+      "id": "reduktion/ga20/008",
+      "locator": "heidegger-ga-20-prolegomena-zur-geschichte-des-zeitbegriffs-commentary#h4-s-10-the-working-out-of-the-thematic-field",
+      "primary_locator": "GA 20 § 10",
+      "term": "double reduction",
+      "status": "presupposed",
+      "claim": "Through the double reduction the pure field of consciousness is lifted from the individual stream.",
+      "quote": "Through this double reduction the *pure* field of consciousness is lifted from the individual stream."
+    },
+    {
+      "id": "reduktion/ga20/009",
+      "locator": "heidegger-ga-20-prolegomena-zur-geschichte-des-zeitbegriffs-commentary#h4-s-10-the-working-out-of-the-thematic-field",
+      "primary_locator": "GA 20 § 10",
+      "term": "reduction",
+      "status": "presupposed",
+      "claim": "The section ends on the aporia driving the reduction, how a sphere of absolute position separated from all transcendence can at the same time unite with reality in one real human being in the world.",
+      "quote": "He ends with the aporia that drives the reduction: how can this sphere of absolute position, separated from all transcendence by an absolute gulf, at the same time unite with reality in one real human being who occurs *as* a real object in the world?"
+    },
+    {
+      "id": "reduktion/ga20/010",
+      "locator": "heidegger-ga-20-prolegomena-zur-geschichte-des-zeitbegriffs-commentary#h4-s-12-exhibiting-the-neglect-of-the-question-of-the-being-of-the-intentional",
+      "primary_locator": "GA 20 § 12",
+      "term": "reduction",
+      "status": "criticized",
+      "claim": "The reduction disregards the reality of the intentional, switching off the real experience as real to win the pure and absolute.",
+      "quote": "The reduction, Heidegger observes, precisely *disregards* the reality of the intentional: it switches off the real experience as real to win the pure, absolute (*epochē*), disregarding the reality of consciousness given in the natural attitude at the factual human being."
+    },
+    {
+      "id": "reduktion/ga20/011",
+      "locator": "heidegger-ga-20-prolegomena-zur-geschichte-des-zeitbegriffs-commentary#h4-s-12-exhibiting-the-neglect-of-the-question-of-the-being-of-the-intentional",
+      "primary_locator": "GA 20 § 12",
+      "term": "reduction",
+      "status": "criticized",
+      "claim": "By its methodical sense the reduction gives out of hand the very ground on which alone the being of consciousness could be asked after.",
+      "quote": "So by its methodical sense the reduction *gives out of hand* the very ground on which alone one could ask after the being of consciousness"
+    },
+    {
+      "id": "reduktion/ga20/012",
+      "locator": "heidegger-ga-20-prolegomena-zur-geschichte-des-zeitbegriffs-commentary#h4-s-12-exhibiting-the-neglect-of-the-question-of-the-being-of-the-intentional",
+      "primary_locator": "GA 20 § 12",
+      "term": "reduction",
+      "status": "criticized",
+      "claim": "The reduction never asks after the specific being of the acts but determines it in advance, theoretically-dogmatically, as being in the sense of reality.",
+      "quote": "The reduction never asks after the specific being of the acts; it determines the being of the acts in advance, *theoretically-dogmatically*, as being in the sense of *reality* — the reality of a natural process, an object present-at-hand in the world."
+    },
+    {
+      "id": "reduktion/ga20/013",
+      "locator": "heidegger-ga-20-prolegomena-zur-geschichte-des-zeitbegriffs-commentary#h4-s-13-exhibiting-the-neglect-of-the-question-of-the-sense-of-being-itself-and-of",
+      "primary_locator": "GA 20 § 13",
+      "term": "phenomenological reduction",
+      "status": "presupposed",
+      "claim": "Husserl is quoted as holding that the doctrine of categories must start from the most radical of all being-distinctions, won in its purity only by the phenomenological reduction.",
+      "quote": "He quotes Husserl: the doctrine of categories must start from this most radical of all being-distinctions, won in its purity only by the phenomenological reduction."
+    }
+  ],
+  "absences": [
+    {
+      "locator": "heidegger-ga-20-prolegomena-zur-geschichte-des-zeitbegriffs-commentary#h4-s-11-immanent-critique-the-four-determinations-of-pure-consciousness",
+      "expected_because": "The section examines the four being-determinations of the pure consciousness that § 10 says the two reductions win, and works through them without naming the reduction or the epoché again.",
+      "absent_terms": ["Reduktion", "reduction", "phenomenological reduction", "transcendental reduction", "eidetic reduction", "Epoché", "epoché", "bracketing", "bracketed", "suspension", "putting out of play"]
+    },
+    {
+      "locator": "heidegger-ga-20-prolegomena-zur-geschichte-des-zeitbegriffs-commentary#h4-s-31-care-as-the-being-of-dasein",
+      "expected_because": "This is where the being of Dasein is positively determined as care, the very determination §§ 12-13 say the reduction made impossible, and it is reached without any reduction or epoché being invoked.",
+      "absent_terms": ["Reduktion", "reduction", "phenomenological reduction", "transcendental reduction", "eidetic reduction", "Epoché", "epoché", "bracketing", "bracketed", "suspension", "putting out of play"]
+    },
+    {
+      "locator": "heidegger-ga-20-prolegomena-zur-geschichte-des-zeitbegriffs-commentary#h4-s-33-the-necessity-of-thematically-positing-the-phenomenological-interpretation",
+      "expected_because": "The section poses the phenomenological interpretation thematically, the place where the method taking over from the criticized reduction would be named.",
+      "absent_terms": ["Reduktion", "reduction", "phenomenological reduction", "transcendental reduction", "eidetic reduction", "Epoché", "epoché", "bracketing", "bracketed", "suspension", "putting out of play"]
+    }
+  ]
+}
