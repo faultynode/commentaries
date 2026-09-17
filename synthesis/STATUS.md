@@ -64,17 +64,17 @@ Next candidates, by term density:
 
 ### reduktion - phenomenological reduction
 
-24 commentaries extracted · 183 units · 2 absences · 6 stale · 24 partial
+29 commentaries extracted · 240 units · 16 absences · 6 stale · 28 partial
 
 Next candidates, by term density:
 
 - [ ] `Reduction et donation Commentary` (undated) - 123 hits
 - [ ] `husserliana-4-ideas-ii-commentary` (1912) - 21 hits
-- [ ] `heidegger-ga-17-einfuhrung-in-die-phanomenologische-forschung-commentary` (1923) - 18 hits
-- [ ] `husserl-formal-and-transcendental-logic-commentary` (1929) - 17 hits
 - [ ] `lacan-seminar-11-the-four-fundamental-concepts-of-psychoanalysis-commentary` (1964) - 17 hits
-- [ ] `derrida-la-voix-et-le-phenomene-commentary` (1967) - 16 hits
-- ... 20 more; see `synthesis_query.py --theme reduktion`
+- [ ] `leibniz-monadology-commentary` (1714) - 9 hits
+- [ ] `husserliana-28-vorlesungen-uber-ethik-und-wertlehre-commentary` (1908) - 8 hits
+- [ ] `Heidegger GA 3 - Kant und das Problem der Metaphysik Commentary` (undated) - 6 hits
+- ... 15 more; see `synthesis_query.py --theme reduktion`
 
 ### sorge - care
 

@@ -4,7 +4,7 @@
 
 *Core distinction: Husserl's phenomenological reduction as method (epoché, transcendental-methodical standpoint) versus Heidegger's destruction (Destruktion) as dismantling of philosophical tradition—both critical for phenomenological inquiry but different aims and procedures. Translation variants matter: 'epoché' vs 'bracketing' both appear in English commentaries. Watch for ambiguous uses of 'reduction' in mathematical or logical contexts; term carries significant density in Ideas I commentary and Cartesian Meditations. Bernet and Derrida commentaries are key secondary sources.*
 
-183 units and 2 recorded absences from 24 commentaries.
+240 units and 16 recorded absences from 29 commentaries.
 
 ## Primary corpus, by composition or delivery date
 
@@ -192,6 +192,72 @@
 
 *Partial pass: Covers §§ 63, 64 and 76 — the standing of methodological reflection in phenomenology, the self-switching-off of the phenomenologist, and the revaluing change of sign by which what is bracketed re-enters as theme. §§ 77, 78, 88 and the remaining sections of the Third and Fourth Parts carry hits and are not covered.*
 
+### 1917 to 1918 - Husserl, Hua 33 — Die Bernauer Manuskripte über das Zeitbewußtsein
+
+`husserliana-33-die-bernauer-manuskripte-uber-das-zeitbewusstsein-commentary`
+
+- **presupposed** · `reduktion/hua33/001` · *transcendental-phenomenological reduction*
+  Following the introduction of the transcendental-phenomenological reduction, the relation between absolute consciousness and the sensation-datum was re-determined as a constitutive relation.
+  `husserliana-33-die-bernauer-manuskripte-uber-das-zeitbewusstsein-commentary#h2-iii` · [III](https://faultynode.github.io/commentaries/commentaries/husserl/husserliana-33-die-bernauer-manuskripte-uber-das-zeitbewusstsein-commentary.html#iii)
+  > Second, following the introduction of the transcendental-phenomenological reduction, the relation between "absolute" consciousness and sensation-datum was re-determined as a constitutive relation.
+
+- **presupposed** · `reduktion/hua33/002` · *phenomenological reduction*
+  The publication of Ideas I, with its systematic account of the phenomenological reduction, falls between the last early time-texts and the first Bernau manuscripts, and its findings entered them.
+  `husserliana-33-die-bernauer-manuskripte-uber-das-zeitbewusstsein-commentary#h2-iv` · [IV](https://faultynode.github.io/commentaries/commentaries/husserl/husserliana-33-die-bernauer-manuskripte-uber-das-zeitbewusstsein-commentary.html#iv)
+  > Between the last early time-texts and the first Bernau manuscripts (1911–1917) falls the publication of *Ideas I*, with its systematic account of the phenomenological reduction, transcendental idealism, the noetic-noematic correlation, and the introduction of the pure ego. These new findings entered the Bernau time-manuscripts.
+
+- **presupposed** · `reduktion/hua33/003` · *phenomenological reduction*
+  Husserl often reflects on the phenomenological reduction and transcendental idealism in treating the constitutive function of time-consciousness.
+  `husserliana-33-die-bernauer-manuskripte-uber-das-zeitbewusstsein-commentary#h2-iv` · [IV](https://faultynode.github.io/commentaries/commentaries/husserl/husserliana-33-die-bernauer-manuskripte-uber-das-zeitbewusstsein-commentary.html#iv)
+  > Husserl often reflects on the phenomenological reduction and transcendental idealism in treating the constitutive function of time-consciousness
+
+- **presupposed** · `reduktion/hua33/004` · *phenomenological reduction*
+  In the pure immanence after the phenomenological reduction no "we" and no plurality of subjects is first given, only the stream of experiences and the pure ego of this stream.
+  `husserliana-33-die-bernauer-manuskripte-uber-das-zeitbewusstsein-commentary#h4-s-4-the-multiple-times-and-the-one-time-subjective-and-intersubjective-time` · [§ 4\. The Multiple Times and the One Time. Subjective and Intersubjective Time](https://faultynode.github.io/commentaries/commentaries/husserl/husserliana-33-die-bernauer-manuskripte-uber-das-zeitbewusstsein-commentary.html#the-multiple-times-and-the-one-time-subjective-and-intersubjective-time)
+  > In the pure immanence (after phenomenological reduction), no "we," no plurality of subjects is first given—only the stream of experiences and the pure ego of this stream.
+
+- **presupposed** · `reduktion/hua33/005` · *transcendental reflection*
+  In transcendental reflection the ur-impressional data, the fading-modifications and the apprehension-functions are found.
+  `husserliana-33-die-bernauer-manuskripte-uber-das-zeitbewusstsein-commentary#h4-s-1-outline-of-the-analysis-of-the-flow-of-ur-impressional-givennesses-and-reten` · [§ 1\. Outline of the Analysis of the Flow of Ur-Impressional Givennesses and Retentional Fading-Modifications Using the Model of Apprehension and Apprehended Content. The Objection of the Infinite Regress](https://faultynode.github.io/commentaries/commentaries/husserl/husserliana-33-die-bernauer-manuskripte-uber-das-zeitbewusstsein-commentary.html#outline-of-the-analysis-of-the-flow-of-ur-impressional-givennesses-and-retentional-fading-modifications-using-the-model-of-apprehension-and-apprehended-content-the-objection-of-the-infinite-regress)
+  > In transcendental reflection we find ur-impressional data, the fading-modifications, and also the apprehension-functions.
+
+- **introduced** · `reduktion/hua33/006` · *transcendental reflection*
+  In the deeper, second-level transcendental reflection the gaze turns to the transverse rows of givenness-modes and holds them through their modifications.
+  `husserliana-33-die-bernauer-manuskripte-uber-das-zeitbewusstsein-commentary#h4-s-3-two-directions-of-transcendental-reflection-on-the-stream-of-the-constitutin` · [§ 3\. Two Directions of Transcendental Reflection: On the Stream of the Constituting Flow and on the Sequence of Constituted Events](https://faultynode.github.io/commentaries/commentaries/husserl/husserliana-33-die-bernauer-manuskripte-uber-das-zeitbewusstsein-commentary.html#two-directions-of-transcendental-reflection-on-the-stream-of-the-constituting-flow-and-on-the-sequence-of-constituted-events)
+  > In the deeper transcendental reflection (second level), the gaze turns to the transverse rows (the continua of givenness-modes) and holds them through their modifications.
+
+- **presupposed** · `reduktion/hua33/007` · *phenomenological reduction*
+  Husserl begins from the phenomenological reduction, considering the stream of experiences as a living, necessarily mobile present with its structure of ur-presence and horizon.
+  `husserliana-33-die-bernauer-manuskripte-uber-das-zeitbewusstsein-commentary#h4-s-1-the-reduction-to-the-temporality-of-the-primal-egoless-sensuality` · [§ 1\. The Reduction to the Temporality of the Primal, Egoless Sensuality](https://faultynode.github.io/commentaries/commentaries/husserl/husserliana-33-die-bernauer-manuskripte-uber-das-zeitbewusstsein-commentary.html#the-reduction-to-the-temporality-of-the-primal-egoless-sensuality)
+  > Husserl begins from the phenomenological reduction, considering the stream of experiences: a "living," necessarily mobile "present" with its structure of ur-presence and "horizon" of just-having-been and a future.
+
+- **introduced** · `reduktion/hua33/008` · *reduction to primal sensuality*
+  A further methodological reduction within the phenomenological reduction, the reduction to primal sensuality, abstracts from the ego and everything egoic.
+  `husserliana-33-die-bernauer-manuskripte-uber-das-zeitbewusstsein-commentary#h4-s-1-the-reduction-to-the-temporality-of-the-primal-egoless-sensuality` · [§ 1\. The Reduction to the Temporality of the Primal, Egoless Sensuality](https://faultynode.github.io/commentaries/commentaries/husserl/husserliana-33-die-bernauer-manuskripte-uber-das-zeitbewusstsein-commentary.html#the-reduction-to-the-temporality-of-the-primal-egoless-sensuality)
+  > Husserl introduces a crucial methodological reduction within the phenomenological reduction: the reduction to "primal sensuality" (*ursprüngliche Sensualität*). This is an abstraction from the ego and everything egoic — though only an abstraction, an important one.
+
+- **presupposed** · `reduktion/hua33/009` · *reduction to primal sensuality*
+  Sensory drives are excluded as well because they bring the ego into play, leaving the completely egoless sensory tendencies of association and reproduction.
+  `husserliana-33-die-bernauer-manuskripte-uber-das-zeitbewusstsein-commentary#h4-s-1-the-reduction-to-the-temporality-of-the-primal-egoless-sensuality` · [§ 1\. The Reduction to the Temporality of the Primal, Egoless Sensuality](https://faultynode.github.io/commentaries/commentaries/husserl/husserliana-33-die-bernauer-manuskripte-uber-das-zeitbewusstsein-commentary.html#the-reduction-to-the-temporality-of-the-primal-egoless-sensuality)
+  > Sensory drives are affections toward the ego, passive reactions — but we now also exclude these, since they bring the ego into play. We distinguish the "completely egoless" sensory tendencies: sensory tendencies of association and reproduction, and the horizon-formations they determine.
+
+- **presupposed** · `reduktion/hua33/010` · *phenomenological reduction*
+  The phenomenological reduction is the return to the stream of pure experiences and the pure ego, followed by a further return to the primal consciousness constituting immanent temporal objectivities.
+  `husserliana-33-die-bernauer-manuskripte-uber-das-zeitbewusstsein-commentary#h4-s-1-the-eidetic-shape-of-psychic-interiority-temporal-ur-genesis-ego-and-hyle` · [§ 1\. The Eidetic Shape of Psychic Interiority. Temporal Ur-Genesis, Ego, and Hyle](https://faultynode.github.io/commentaries/commentaries/husserl/husserliana-33-die-bernauer-manuskripte-uber-das-zeitbewusstsein-commentary.html#the-eidetic-shape-of-psychic-interiority-temporal-ur-genesis-ego-and-hyle)
+  > Through phenomenological reduction: the return to the stream of pure experiences and the pure ego, to immanent being whose necessary form is "phenomenological time" — and then the further return to the primal consciousness constituting immanent temporal objectivities.
+
+#### Recorded absences
+
+- **absent** · `husserliana-33-die-bernauer-manuskripte-uber-das-zeitbewusstsein-commentary#h4-s-1-the-intentionality-of-ur-presentation-the-attentive-turning-toward-a-present`
+  Expected because: This is the opening analysis of the published manuscripts, where the field of ur-presentation and attentional turning is entered, and it names nothing that would have secured that field.
+  [§ 1\. The Intentionality of Ur-Presentation. The Attentive Turning toward a Present-New, Past, or Future](https://faultynode.github.io/commentaries/commentaries/husserl/husserliana-33-die-bernauer-manuskripte-uber-das-zeitbewusstsein-commentary.html#the-intentionality-of-ur-presentation-the-attentive-turning-toward-a-present-new-past-or-future)
+
+- **absent** · `husserliana-33-die-bernauer-manuskripte-uber-das-zeitbewusstsein-commentary#h4-s-2-the-identical-non-objectual-and-non-temporal-ego-as-functioning-pole-primal`
+  Expected because: The section immediately follows the reduction to primal sensuality, which was expressly an abstraction from the ego, and restores the ego as non-temporal functioning pole without naming the reduction it reverses.
+  [§ 2\. The Identical, Non-Objectual and Non-Temporal Ego as Functioning Pole (Primal-Stand) of the Stream of Experience](https://faultynode.github.io/commentaries/commentaries/husserl/husserliana-33-die-bernauer-manuskripte-uber-das-zeitbewusstsein-commentary.html#the-identical-non-objectual-and-non-temporal-ego-as-functioning-pole-primal-stand-of-the-stream-of-experience)
+
+*Partial pass: Covers the sections in which the theme's terms occur - editors' introduction III and IV, Text Nr. 7 § 4, Text Nr. 12 § 1, Text Nr. 13 § 3, Text Nr. 14 § 1 and Text Nr. 15 § 1 - read in full, together with Text Nr. 1 § 1, Text Nr. 14 § 2 and editors' introduction V as context for the absences. Parts I to III and the supplements were not read in full.*
+
 ### 1919 - Husserl Natur und Geist 1919 Commentary
 
 `husserl-natur-und-geist-commentary`
@@ -300,6 +366,96 @@
 
 *Partial pass: Covers Supplement II (pre-givenness and affectivity), § 2 (the world pre-given as cultural world pointing back to nature) and Text Nr. 5 (the pure experiential world). The remaining texts of the volume carry hits and are not covered.*
 
+### 1923-1924 - Heidegger, GA 17 — Einführung in die phänomenologische Forschung
+
+`heidegger-ga-17-einfuhrung-in-die-phanomenologische-forschung-commentary`
+
+- **presupposed** · `reduktion/ga17/001` · *transcendentally pure consciousness*
+  Husserl's furthest-driven position defines phenomenology as the descriptive-eidetic science of transcendentally pure consciousness.
+  `heidegger-ga-17-einfuhrung-in-die-phanomenologische-forschung-commentary#h4-s-4-consciousness-as-the-theme-of-present-day-phenomenology` · GA 17 § 4 · [§ 4\. Consciousness as the theme of present-day phenomenology](https://faultynode.github.io/commentaries/commentaries/heidegger/heidegger-ga-17-einfuhrung-in-die-phanomenologische-forschung-commentary.html#consciousness-as-the-theme-of-present-day-phenomenology)
+  > Heidegger takes Husserl's furthest-driven position in *Ideen I*, where phenomenology is defined as the *descriptive-eidetic science of transcendentally pure consciousness*.
+
+- **criticized** · `reduktion/ga17/002` · *zu den Sachen selbst*
+  Phenomenology's own maxim runs in a definite tendency, and the most hidebound dogmatism can conceal itself behind it.
+  `heidegger-ga-17-einfuhrung-in-die-phanomenologische-forschung-commentary#h4-s-6-the-care-for-known-knowledge-in-which-consciousness-stands` · GA 17 § 6 · [§ 6\. The care for known knowledge in which consciousness stands](https://faultynode.github.io/commentaries/commentaries/heidegger/heidegger-ga-17-einfuhrung-in-die-phanomenologische-forschung-commentary.html#the-care-for-known-knowledge-in-which-consciousness-stands)
+  > behind the maxim *"zu den Sachen selbst"* the most hidebound dogmatism can conceal itself
+
+- **revised** · `reduktion/ga17/003` · *zu den Sachen selbst*
+  Under the care for all-bindingness the maxim no longer means making the matters present freely from themselves, but letting the asked-about be encountered within an already-prescribed problematic.
+  `heidegger-ga-17-einfuhrung-in-die-phanomenologische-forschung-commentary#h4-s-15-sharper-specification-of-the-care-for-known-knowledge` · GA 17 § 15 · [§ 15\. Sharper specification of the care for known knowledge](https://faultynode.github.io/commentaries/commentaries/heidegger/heidegger-ga-17-einfuhrung-in-die-phanomenologische-forschung-commentary.html#sharper-specification-of-the-care-for-known-knowledge)
+  > can here no longer mean making the matters present freely *from themselves*, prior to a definite way of asking; it means letting the asked-about be encountered *within this already-prescribed problematic*
+
+- **introduced** · `reduktion/ga17/004` · *Destruktion*
+  The care for certainty discloses the field "consciousness" factically-historically in Descartes, and the course turns back to that source by way of the Destruktion.
+  `heidegger-ga-17-einfuhrung-in-die-phanomenologische-forschung-commentary#h4-s-16-the-disclosing-of-the-thematic-field-consciousness-by-the-care-for-known-kn` · GA 17 § 16 · [§ 16\. The disclosing of the thematic field "consciousness" by the care for known knowledge. Regress to the historical concretion of the care](https://faultynode.github.io/commentaries/commentaries/heidegger/heidegger-ga-17-einfuhrung-in-die-phanomenologische-forschung-commentary.html#the-disclosing-of-the-thematic-field-consciousness-by-the-care-for-known-knowledge-regress-to-the-historical-concretion-of-the-care)
+  > it is in Descartes that the care for certainty factically-historically discloses the field "consciousness." With this the course leaves Husserl and turns back, by way of the *Destruktion*, to the source.
+
+- **introduced** · `reduktion/ga17/005` · *becoming-free from handed-down possibilities*
+  Both investigations led out of the pre-given discipline to Dasein, and that becoming-free from the discipline is at once a freeing from the handed-down possibilities of determining this being.
+  `heidegger-ga-17-einfuhrung-in-die-phanomenologische-forschung-commentary#h4-s-18-becoming-free-from-the-discipline-and-the-handed-down-possibilities-as-beco` · GA 17 § 18 · [§ 18\. Becoming-free from the discipline and the handed-down possibilities as becoming-free for Dasein. Ontological investigation of Dasein as Destruktion](https://faultynode.github.io/commentaries/commentaries/heidegger/heidegger-ga-17-einfuhrung-in-die-phanomenologische-forschung-commentary.html#becoming-free-from-the-discipline-and-the-handed-down-possibilities-as-becoming-free-for-dasein-ontological-investigation-of-dasein-as-destruktion)
+  > a *becoming-free from the discipline for Dasein itself*, seizing the possibility of making Dasein the theme of a research determined by Dasein itself. This freeing is at once a freeing *from handed-down possibilities* of determining this being.
+
+- **introduced** · `reduktion/ga17/006` · *Destruktion*
+  Destruktion is the freeing by dismantling that leads the concepts back to their proper origin and thereby exposes their inadequacy to Dasein.
+  `heidegger-ga-17-einfuhrung-in-die-phanomenologische-forschung-commentary#h4-s-20-destruktion-as-the-way-of-interpreting-dasein-three-tasks-the-question-of-t` · GA 17 § 20 · [§ 20\. Destruktion as the way of interpreting Dasein. Three tasks; the question of the sense of the truth of knowledge in Descartes](https://faultynode.github.io/commentaries/commentaries/heidegger/heidegger-ga-17-einfuhrung-in-die-phanomenologische-forschung-commentary.html#destruktion-as-the-way-of-interpreting-dasein-three-tasks-the-question-of-the-sense-of-the-truth-of-knowledge-in-descartes)
+  > The freeing by way of dismantling, *Destruktion*, leads the concepts back to their proper origin and thereby exposes their inadequacy to Dasein.
+
+- **presupposed** · `reduktion/ga17/007` · *Destruktion*
+  Destruktion is no universal historical method but a concrete way arising from the needs of categorial Dasein-research, and it seeks in what it takes up the positive rather than the weaknesses.
+  `heidegger-ga-17-einfuhrung-in-die-phanomenologische-forschung-commentary#h4-s-20-destruktion-as-the-way-of-interpreting-dasein-three-tasks-the-question-of-t` · GA 17 § 20 · [§ 20\. Destruktion as the way of interpreting Dasein. Three tasks; the question of the sense of the truth of knowledge in Descartes](https://faultynode.github.io/commentaries/commentaries/heidegger/heidegger-ga-17-einfuhrung-in-die-phanomenologische-forschung-commentary.html#destruktion-as-the-way-of-interpreting-dasein-three-tasks-the-question-of-the-sense-of-the-truth-of-knowledge-in-descartes)
+  > First, Destruktion is *no universal historical method* but a concrete way arising from the needs of categorial Dasein-research and limited to it; it *seems* purely negative, but it seeks in what it takes up not the weaknesses but *the positive, the productive*
+
+- **presupposed** · `reduktion/ga17/008` · *Destruktion*
+  What Destruktion criticizes is not the past it discloses but the present, our Dasein insofar as it is covered by a past gone inauthentic.
+  `heidegger-ga-17-einfuhrung-in-die-phanomenologische-forschung-commentary#h4-s-20-destruktion-as-the-way-of-interpreting-dasein-three-tasks-the-question-of-t` · GA 17 § 20 · [§ 20\. Destruktion as the way of interpreting Dasein. Three tasks; the question of the sense of the truth of knowledge in Descartes](https://faultynode.github.io/commentaries/commentaries/heidegger/heidegger-ga-17-einfuhrung-in-die-phanomenologische-forschung-commentary.html#destruktion-as-the-way-of-interpreting-dasein-three-tasks-the-question-of-the-sense-of-the-truth-of-knowledge-in-descartes)
+  > Second, Destruktion is *critical*, but what it criticizes is not the past it discloses; the critique falls on *the present*, our Dasein insofar as it is covered by a past gone inauthentic
+
+- **presupposed** · `reduktion/ga17/009` · *Destruktion*
+  Destruktion can never be refuting and has sense only as matter-disclosing research into Dasein's being-characters.
+  `heidegger-ga-17-einfuhrung-in-die-phanomenologische-forschung-commentary#h4-s-20-destruktion-as-the-way-of-interpreting-dasein-three-tasks-the-question-of-t` · GA 17 § 20 · [§ 20\. Destruktion as the way of interpreting Dasein. Three tasks; the question of the sense of the truth of knowledge in Descartes](https://faultynode.github.io/commentaries/commentaries/heidegger/heidegger-ga-17-einfuhrung-in-die-phanomenologische-forschung-commentary.html#destruktion-as-the-way-of-interpreting-dasein-three-tasks-the-question-of-the-sense-of-the-truth-of-knowledge-in-descartes)
+  > Fourth, it can never be *refuting*, protecting one's own position by refutation; it has sense only as matter-disclosing research into Dasein's being-characters.
+
+- **presupposed** · `reduktion/ga17/010` · *Destruktion*
+  The path of removal that ends in truth as value is not contrived for the Destruktion's sake but the path history actually made.
+  `heidegger-ga-17-einfuhrung-in-die-phanomenologische-forschung-commentary#h4-s-21-determinacies-of-truth` · GA 17 § 21 · [§ 21\. Determinacies of "truth"](https://faultynode.github.io/commentaries/commentaries/heidegger/heidegger-ga-17-einfuhrung-in-die-phanomenologische-forschung-commentary.html#determinacies-of-truth)
+  > This path of removal is not contrived for Destruktion's sake — it is the path *history actually made*, the movement in which the interpretation of the being-as-true runs
+
+- **presupposed** · `reduktion/ga17/011` · *Destruktion*
+  The correspondence-truth Descartes presupposes and Husserl inherits rests on a formalized ontology of createdness, and that ground is what the Destruktion was after.
+  `heidegger-ga-17-einfuhrung-in-die-phanomenologische-forschung-commentary#h4-ss-31-33-in-what-sense-the-verum-is-in-the-intellectus-its-grounding-in-the-orig` · GA 17 §§ 31-33 · [§§ 31–33. In what sense the verum is in the intellectus; its grounding in the originary truth of God; the determinability of God's being](https://faultynode.github.io/commentaries/commentaries/heidegger/heidegger-ga-17-einfuhrung-in-die-phanomenologische-forschung-commentary.html#in-what-sense-the-verum-is-in-the-intellectus-its-grounding-in-the-originary-truth-of-god-the-determinability-of-gods-being)
+  > rests on this formalized ontology of createdness — and this is the ground the *Destruktion* was after.
+
+- **presupposed** · `reduktion/ga17/012` · *Destruktion*
+  Truth grasped primarily as certainty is the substitution the whole Destruktion was driving at, and Descartes is the one who performs it.
+  `heidegger-ga-17-einfuhrung-in-die-phanomenologische-forschung-commentary#h4-s-37-the-care-of-knowing-as-care-of-certainty-as-sichvergreifen` · GA 17 § 37 · [§ 37\. The care of knowing as care of certainty, as Sichvergreifen](https://faultynode.github.io/commentaries/commentaries/heidegger/heidegger-ga-17-einfuhrung-in-die-phanomenologische-forschung-commentary.html#the-care-of-knowing-as-care-of-certainty-as-sichvergreifen)
+  > Truth grasped primarily as *certainty*: this is the substitution the whole *Destruktion* was driving at, and it is Descartes who performs it.
+
+- **criticized** · `reduktion/ga17/013` · *eidetic reduction*
+  The eidetic reduction of pure consciousness proceeds under the leadership of ontological determinations foreign to consciousness, those of traditional ontology and formal logic.
+  `heidegger-ga-17-einfuhrung-in-die-phanomenologische-forschung-commentary#h4-ss-48-49-husserl-s-disfiguring-verunstaltung-of-the-phenomenological-findings-th` · GA 17 §§ 48-49 · [§§ 48–49. Husserl's disfiguring (Verunstaltung) of the phenomenological findings through the care of certainty inherited from Descartes; the research into the origin-history of the categories](https://faultynode.github.io/commentaries/commentaries/heidegger/heidegger-ga-17-einfuhrung-in-die-phanomenologische-forschung-commentary.html#husserls-disfiguring-verunstaltung-of-the-phenomenological-findings-through-the-care-of-certainty-inherited-from-descartes-the-research-into-the-origin-history-of-the-categories)
+  > Third, the *eidetic reduction* of pure consciousness proceeds under the leadership of *ontological determinations foreign to consciousness* — the determinations of traditional ontology and formal logic
+
+- **criticized** · `reduktion/ga17/014` · *transcendental reduction*
+  Pure consciousness once won through the transcendental reduction is made a possible domain of a science by importing categories that owe their origin to no analysis of that being's own being-characters.
+  `heidegger-ga-17-einfuhrung-in-die-phanomenologische-forschung-commentary#h4-ss-48-49-husserl-s-disfiguring-verunstaltung-of-the-phenomenological-findings-th` · GA 17 §§ 48-49 · [§§ 48–49. Husserl's disfiguring (Verunstaltung) of the phenomenological findings through the care of certainty inherited from Descartes; the research into the origin-history of the categories](https://faultynode.github.io/commentaries/commentaries/heidegger/heidegger-ga-17-einfuhrung-in-die-phanomenologische-forschung-commentary.html#husserls-disfiguring-verunstaltung-of-the-phenomenological-findings-through-the-care-of-certainty-inherited-from-descartes-the-research-into-the-origin-history-of-the-categories)
+  > so that pure consciousness, once won through the transcendental reduction, is made a *possible domain of a science* by importing categories that owe their origin *not* to any analysis of *this* being's specific being-characters
+
+#### Recorded absences
+
+- **absent** · `heidegger-ga-17-einfuhrung-in-die-phanomenologische-forschung-commentary#h4-s-5-the-theme-consciousness-in-the-logical-investigations`
+  Expected because: The section derives the field "consciousness" as the region phenomenology secures for itself, which is the work the reduction is elsewhere said to do; here the region is reached through inner perception and the act-class alone.
+  [§ 5\. The theme "consciousness" in the Logical Investigations](https://faultynode.github.io/commentaries/commentaries/heidegger/heidegger-ga-17-einfuhrung-in-die-phanomenologische-forschung-commentary.html#the-theme-consciousness-in-the-logical-investigations)
+
+- **absent** · `heidegger-ga-17-einfuhrung-in-die-phanomenologische-forschung-commentary#h4-ss-46-47-descartes-and-husserl-fundamental-differences-connection-and-unitary-gr`
+  Expected because: This is where the fundamental difference between Husserl's and Descartes' grasp of consciousness is fixed, and the reduction is what would mark that difference; the section fixes it on the disposal of the question of being and the sense of esse certum instead.
+  [§§ 46–47. Descartes and Husserl: fundamental differences; connection and unitary ground-tendency in the care of certainty](https://faultynode.github.io/commentaries/commentaries/heidegger/heidegger-ga-17-einfuhrung-in-die-phanomenologische-forschung-commentary.html#descartes-and-husserl-fundamental-differences-connection-and-unitary-ground-tendency-in-the-care-of-certainty)
+
+- **absent** · `heidegger-ga-17-einfuhrung-in-die-phanomenologische-forschung-commentary#h4-s-50-repetition-of-the-traversed-characters-of-the-care-of-knowing-and-the-exhib`
+  Expected because: The closing section turns the whole indictment into a positive exhibition of Dasein, the point at which the method replacing the criticized reduction would have to be named; it names Verdrehung and the flight of Dasein before itself instead.
+  [§ 50\. Repetition of the traversed characters of the care of knowing, and the exhibition of Dasein itself](https://faultynode.github.io/commentaries/commentaries/heidegger/heidegger-ga-17-einfuhrung-in-die-phanomenologische-forschung-commentary.html#repetition-of-the-traversed-characters-of-the-care-of-knowing-and-the-exhibition-of-dasein-itself)
+
+*Partial pass: Covers every section in which the theme's terms occur - §§ 4, 6, 15, 16, 18, 20, 21, 31-33, 37, 48-49 - read in full together with §§ 5, 17, 19, 24, 25-26, 39-41, 42-43, 46-47 and 50 as context for the absences. The Aristotle chapters of Part One (§§ 1-3) and §§ 7-14, 22-23, 27-30, 34-36, 38 and 44-45 were not read in full.*
+
 ### 1923-1924 - Husserl, Hua 7 — Erste Philosophie I
 
 `husserliana-7-erste-philosophie-i-commentary`
@@ -340,6 +496,91 @@
   > everything pre-given however self-evidently — the sense-world and the science determining it — may *only* be posited as *experienced of the experiencing*
 
 *Partial pass: Covers the Tenth Lecture (the Cartesian Meditations), the Thirteenth (empiricist prejudices), the Fourteenth (the exemplariness of natural science), the Twenty-sixth (the positively constructing line) and the Twenty-seventh (metaphysics and theory of cognition). The Ninth, Eleventh and Seventeenth Lectures and the remaining lectures carrying hits are not covered.*
+
+### 1925 - Commentary on Heidegger, Prolegomena zur Geschichte des Zeitbegriffs (GA 20)
+
+`heidegger-ga-20-prolegomena-zur-geschichte-des-zeitbegriffs-commentary`
+
+- **introduced** · `reduktion/ga20/001` · *epochē*
+  The not-going-along-with the thesis of the material world is the epoché, the holding-back.
+  `heidegger-ga-20-prolegomena-zur-geschichte-des-zeitbegriffs-commentary#h4-s-10-the-working-out-of-the-thematic-field` · GA 20 § 10 · [§ 10. The working-out of the thematic field](https://faultynode.github.io/commentaries/commentaries/heidegger/heidegger-ga-20-prolegomena-zur-geschichte-des-zeitbegriffs-commentary.html#the-working-out-of-the-thematic-field)
+  > This not-going-along-with the thesis of the material world is the *epochē*, the holding-back.
+
+- **introduced** · `reduktion/ga20/002` · *bracketing (Einklammerung)*
+  The modification by which the perceived is meant not as such but in the how of its being is bracketing.
+  `heidegger-ga-20-prolegomena-zur-geschichte-des-zeitbegriffs-commentary#h4-s-10-the-working-out-of-the-thematic-field` · GA 20 § 10 · [§ 10. The working-out of the thematic field](https://faultynode.github.io/commentaries/commentaries/heidegger/heidegger-ga-20-prolegomena-zur-geschichte-des-zeitbegriffs-commentary.html#the-working-out-of-the-thematic-field)
+  > The perceived is meant not as such but in the how of its being. This modification is *bracketing* (Einklammerung).
+
+- **presupposed** · `reduktion/ga20/003` · *bracketing (Einklammerung)*
+  Bracketing takes nothing away from the being and does not assume it is not; the switch of the gaze serves to make the being-character of the being present.
+  `heidegger-ga-20-prolegomena-zur-geschichte-des-zeitbegriffs-commentary#h4-s-10-the-working-out-of-the-thematic-field` · GA 20 § 10 · [§ 10. The working-out of the thematic field](https://faultynode.github.io/commentaries/commentaries/heidegger/heidegger-ga-20-prolegomena-zur-geschichte-des-zeitbegriffs-commentary.html#the-working-out-of-the-thematic-field)
+  > bracketing takes nothing away from the being, does not assume the being is not; the switch of the gaze serves precisely to make the *being-character* of the being present
+
+- **criticized** · `reduktion/ga20/004` · *switching-off*
+  Taking the switching-off of the existence-thesis to mean that phenomenological consideration has given up dealing with the being is always misleading, since it is there solely a matter of determining the being of the being itself.
+  `heidegger-ga-20-prolegomena-zur-geschichte-des-zeitbegriffs-commentary#h4-s-10-the-working-out-of-the-thematic-field` · GA 20 § 10 · [§ 10. The working-out of the thematic field](https://faultynode.github.io/commentaries/commentaries/heidegger/heidegger-ga-20-prolegomena-zur-geschichte-des-zeitbegriffs-commentary.html#the-working-out-of-the-thematic-field)
+  > "Switching-off" is always misleading if one thinks that in switching off the existence-thesis phenomenological consideration has *given up* dealing with the being — the reverse: now, extremely and solely, it is a matter of determining the *being* of the being itself.
+
+- **introduced** · `reduktion/ga20/005` · *reduction*
+  The epoché can be carried out for all conscious comportments, and winning the act-sphere and its objects in the unity of a determinate sphere is reduction.
+  `heidegger-ga-20-prolegomena-zur-geschichte-des-zeitbegriffs-commentary#h4-s-10-the-working-out-of-the-thematic-field` · GA 20 § 10 · [§ 10. The working-out of the thematic field](https://faultynode.github.io/commentaries/commentaries/heidegger/heidegger-ga-20-prolegomena-zur-geschichte-des-zeitbegriffs-commentary.html#the-working-out-of-the-thematic-field)
+  > The *epochē* can be carried out for all conscious comportments; winning the act-sphere and its objects in the unity of a determinate sphere is *reduction*.
+
+- **introduced** · `reduktion/ga20/006` · *transcendental reduction*
+  The first reduction, the not going along with any transcendent thesis, is the transcendental one, and its reduced field is still the singularity of my own stream of consciousness.
+  `heidegger-ga-20-prolegomena-zur-geschichte-des-zeitbegriffs-commentary#h4-s-10-the-working-out-of-the-thematic-field` · GA 20 § 10 · [§ 10. The working-out of the thematic field](https://faultynode.github.io/commentaries/commentaries/heidegger/heidegger-ga-20-prolegomena-zur-geschichte-des-zeitbegriffs-commentary.html#the-working-out-of-the-thematic-field)
+  > This first reduction (not going along with any transcendent thesis) is the "transcendental" reduction; its reduced field is still the field of a *unique* singularity, my own stream of consciousness.
+
+- **introduced** · `reduktion/ga20/007` · *eidetic reduction*
+  The second, eidetic reduction studies acts and act-objects ideatively rather than as individuations of my stream, switching off every moment that determines the stream as individual.
+  `heidegger-ga-20-prolegomena-zur-geschichte-des-zeitbegriffs-commentary#h4-s-10-the-working-out-of-the-thematic-field` · GA 20 § 10 · [§ 10. The working-out of the thematic field](https://faultynode.github.io/commentaries/commentaries/heidegger/heidegger-ga-20-prolegomena-zur-geschichte-des-zeitbegriffs-commentary.html#the-working-out-of-the-thematic-field)
+  > A second reduction, the *eidetic*, then studies acts and act-objects not as concrete individuations of *my* stream but ideatively, switching off every moment that determines this stream as individual, seeing only the structure belonging to a perception, representation, judgment *as such*.
+
+- **presupposed** · `reduktion/ga20/008` · *double reduction*
+  Through the double reduction the pure field of consciousness is lifted from the individual stream.
+  `heidegger-ga-20-prolegomena-zur-geschichte-des-zeitbegriffs-commentary#h4-s-10-the-working-out-of-the-thematic-field` · GA 20 § 10 · [§ 10. The working-out of the thematic field](https://faultynode.github.io/commentaries/commentaries/heidegger/heidegger-ga-20-prolegomena-zur-geschichte-des-zeitbegriffs-commentary.html#the-working-out-of-the-thematic-field)
+  > Through this double reduction the *pure* field of consciousness is lifted from the individual stream.
+
+- **presupposed** · `reduktion/ga20/009` · *reduction*
+  The section ends on the aporia driving the reduction, how a sphere of absolute position separated from all transcendence can at the same time unite with reality in one real human being in the world.
+  `heidegger-ga-20-prolegomena-zur-geschichte-des-zeitbegriffs-commentary#h4-s-10-the-working-out-of-the-thematic-field` · GA 20 § 10 · [§ 10. The working-out of the thematic field](https://faultynode.github.io/commentaries/commentaries/heidegger/heidegger-ga-20-prolegomena-zur-geschichte-des-zeitbegriffs-commentary.html#the-working-out-of-the-thematic-field)
+  > He ends with the aporia that drives the reduction: how can this sphere of absolute position, separated from all transcendence by an absolute gulf, at the same time unite with reality in one real human being who occurs *as* a real object in the world?
+
+- **criticized** · `reduktion/ga20/010` · *reduction*
+  The reduction disregards the reality of the intentional, switching off the real experience as real to win the pure and absolute.
+  `heidegger-ga-20-prolegomena-zur-geschichte-des-zeitbegriffs-commentary#h4-s-12-exhibiting-the-neglect-of-the-question-of-the-being-of-the-intentional` · GA 20 § 12 · [§ 12. Exhibiting the neglect of the question of the being of the intentional](https://faultynode.github.io/commentaries/commentaries/heidegger/heidegger-ga-20-prolegomena-zur-geschichte-des-zeitbegriffs-commentary.html#exhibiting-the-neglect-of-the-question-of-the-being-of-the-intentional)
+  > The reduction, Heidegger observes, precisely *disregards* the reality of the intentional: it switches off the real experience as real to win the pure, absolute (*epochē*), disregarding the reality of consciousness given in the natural attitude at the factual human being.
+
+- **criticized** · `reduktion/ga20/011` · *reduction*
+  By its methodical sense the reduction gives out of hand the very ground on which alone the being of consciousness could be asked after.
+  `heidegger-ga-20-prolegomena-zur-geschichte-des-zeitbegriffs-commentary#h4-s-12-exhibiting-the-neglect-of-the-question-of-the-being-of-the-intentional` · GA 20 § 12 · [§ 12. Exhibiting the neglect of the question of the being of the intentional](https://faultynode.github.io/commentaries/commentaries/heidegger/heidegger-ga-20-prolegomena-zur-geschichte-des-zeitbegriffs-commentary.html#exhibiting-the-neglect-of-the-question-of-the-being-of-the-intentional)
+  > So by its methodical sense the reduction *gives out of hand* the very ground on which alone one could ask after the being of consciousness
+
+- **criticized** · `reduktion/ga20/012` · *reduction*
+  The reduction never asks after the specific being of the acts but determines it in advance, theoretically-dogmatically, as being in the sense of reality.
+  `heidegger-ga-20-prolegomena-zur-geschichte-des-zeitbegriffs-commentary#h4-s-12-exhibiting-the-neglect-of-the-question-of-the-being-of-the-intentional` · GA 20 § 12 · [§ 12. Exhibiting the neglect of the question of the being of the intentional](https://faultynode.github.io/commentaries/commentaries/heidegger/heidegger-ga-20-prolegomena-zur-geschichte-des-zeitbegriffs-commentary.html#exhibiting-the-neglect-of-the-question-of-the-being-of-the-intentional)
+  > The reduction never asks after the specific being of the acts; it determines the being of the acts in advance, *theoretically-dogmatically*, as being in the sense of *reality* — the reality of a natural process, an object present-at-hand in the world.
+
+- **presupposed** · `reduktion/ga20/013` · *phenomenological reduction*
+  Husserl is quoted as holding that the doctrine of categories must start from the most radical of all being-distinctions, won in its purity only by the phenomenological reduction.
+  `heidegger-ga-20-prolegomena-zur-geschichte-des-zeitbegriffs-commentary#h4-s-13-exhibiting-the-neglect-of-the-question-of-the-sense-of-being-itself-and-of` · GA 20 § 13 · [§ 13. Exhibiting the neglect of the question of the sense of being itself and of the being of the human](https://faultynode.github.io/commentaries/commentaries/heidegger/heidegger-ga-20-prolegomena-zur-geschichte-des-zeitbegriffs-commentary.html#exhibiting-the-neglect-of-the-question-of-the-sense-of-being-itself-and-of-the-being-of-the-human)
+  > He quotes Husserl: the doctrine of categories must start from this most radical of all being-distinctions, won in its purity only by the phenomenological reduction.
+
+#### Recorded absences
+
+- **absent** · `heidegger-ga-20-prolegomena-zur-geschichte-des-zeitbegriffs-commentary#h4-s-11-immanent-critique-the-four-determinations-of-pure-consciousness`
+  Expected because: The section examines the four being-determinations of the pure consciousness that § 10 says the two reductions win, and works through them without naming the reduction or the epoché again.
+  [§ 11. Immanent critique: the four determinations of pure consciousness](https://faultynode.github.io/commentaries/commentaries/heidegger/heidegger-ga-20-prolegomena-zur-geschichte-des-zeitbegriffs-commentary.html#immanent-critique-the-four-determinations-of-pure-consciousness)
+
+- **absent** · `heidegger-ga-20-prolegomena-zur-geschichte-des-zeitbegriffs-commentary#h4-s-31-care-as-the-being-of-dasein`
+  Expected because: This is where the being of Dasein is positively determined as care, the very determination §§ 12-13 say the reduction made impossible, and it is reached without any reduction or epoché being invoked.
+  [§ 31. Care as the being of Dasein](https://faultynode.github.io/commentaries/commentaries/heidegger/heidegger-ga-20-prolegomena-zur-geschichte-des-zeitbegriffs-commentary.html#care-as-the-being-of-dasein)
+
+- **absent** · `heidegger-ga-20-prolegomena-zur-geschichte-des-zeitbegriffs-commentary#h4-s-33-the-necessity-of-thematically-positing-the-phenomenological-interpretation`
+  Expected because: The section poses the phenomenological interpretation thematically, the place where the method taking over from the criticized reduction would be named.
+  [§ 33. The necessity of thematically positing the phenomenological interpretation of Dasein as a whole. The phenomenon of death](https://faultynode.github.io/commentaries/commentaries/heidegger/heidegger-ga-20-prolegomena-zur-geschichte-des-zeitbegriffs-commentary.html#the-necessity-of-thematically-positing-the-phenomenological-interpretation-of-dasein-as-a-whole-the-phenomenon-of-death)
+
+*Partial pass: Covers Chapter Three of the Preparatory Part (§§ 10-13), read in full, which is where the epoché and the reductions are expounded and criticized. The rest of the commentary was checked for the theme's terms and the only further occurrence is "uprooted state of suspension" in § 29, which is not the epoché; §§ 1-9 and the whole Main Part were not read in full.*
 
 ### 1925 - Husserl, Hua 9 — Phenomenological Psychology
 
@@ -514,6 +755,71 @@
   > The title "phenomenology" expresses a maxim that can be formulated: "to the things themselves!"
 
 *Partial pass: Covers § 6 (the task of a destruction of the history of ontology) and § 7 (the phenomenological method of the investigation). §§ 21, 40, 69 and 75 and the other sections carrying hits are not covered.*
+
+### 1929 to 1937 - Husserl formal and transcendental logic
+
+`husserl-formal-and-transcendental-logic-commentary`
+
+- **presupposed** · `reduktion/ftl/001` · *Cartesian Meditations*
+  Because the scientific situation has become similar to the one Descartes found, a universal reflection can attempt the bold path of the Cartesian Meditations.
+  `husserl-formal-and-transcendental-logic-commentary#h2-introduction` · FTL Introduction · [INTRODUCTION](https://faultynode.github.io/commentaries/commentaries/husserl/husserl-formal-and-transcendental-logic-commentary.html#introduction)
+  > A universal reflection can, since the scientific situation has in fact become similar to what Descartes found in his youth, attempt the bold path of the Cartesian Meditations.
+
+- **criticized** · `reduktion/ftl/002` · *Cartesian Meditations*
+  Unnoticed prejudices direct Descartes' meditations, so that as a whole they already lacked the power of conviction for his contemporaries.
+  `husserl-formal-and-transcendental-logic-commentary#h2-introduction` · FTL Introduction · [INTRODUCTION](https://faultynode.github.io/commentaries/commentaries/husserl/husserl-formal-and-transcendental-logic-commentary.html#introduction)
+  > Unnoticed prejudices direct his meditations, so that, taken as a whole, they already lacked the power of conviction for his contemporaries.
+
+- **presupposed** · `reduktion/ftl/003` · *the style of these meditations*
+  The style of grounding the sciences from the absolute knowing subjectivity was never taken up again down to transcendental phenomenology.
+  `husserl-formal-and-transcendental-logic-commentary#h2-introduction` · FTL Introduction · [INTRODUCTION](https://faultynode.github.io/commentaries/commentaries/husserl/husserl-formal-and-transcendental-logic-commentary.html#introduction)
+  > the style of these meditations — from the absolute knowing subjectivity to undertake an absolute grounding of the sciences in their totality, or what for him was the same, an absolute grounding of philosophy — has never again been taken up, down to transcendental phenomenology.
+
+- **revised** · `reduktion/ftl/004` · *paths of radically directed reflections*
+  The present work blazes another path of radically directed reflection than the Cartesian one, suggested by the reference of the idea of genuine science back to logic as its norm.
+  `husserl-formal-and-transcendental-logic-commentary#h2-introduction` · FTL Introduction · [INTRODUCTION](https://faultynode.github.io/commentaries/commentaries/husserl/husserl-formal-and-transcendental-logic-commentary.html#introduction)
+  > Other paths of radically directed reflections are possible, and the present work attempts to blaze one — a path suggested precisely by the historical reference of the idea of genuine science back to logic as its norm
+
+- **introduced** · `reduktion/ftl/005` · *suspension of the naive presupposition of the world*
+  The naive presupposition of the world is to be suspended and all objective cognition grounded on the sole apodictic givenness of the ego cogito.
+  `husserl-formal-and-transcendental-logic-commentary#h5-a-the-naive-presupposition-of-the-validity-of-objective-logic` · FTL § 93 a · [a) The Naive Presupposition of the Validity of Objective Logic](https://faultynode.github.io/commentaries/commentaries/husserl/husserl-formal-and-transcendental-logic-commentary.html#a-the-naive-presupposition-of-the-validity-of-objective-logic)
+  > The naive presupposition of the world is to be suspended and all objective cognition grounded on the sole apodictic givenness: the ego cogito.
+
+- **criticized** · `reduktion/ftl/006` · *Cartesian reduction to the Ego*
+  Descartes treats the transcendental thematic with a naive a priori heritage of ontological and logical evidences and misses the properly transcendental sense of the Ego he discovered.
+  `husserl-formal-and-transcendental-logic-commentary#h5-b-the-missing-of-the-transcendental-sense-of-the-cartesian-reduction-to-the-ego` · FTL § 93 b · [b) The Missing of the Transcendental Sense of the Cartesian Reduction to the Ego](https://faultynode.github.io/commentaries/commentaries/husserl/husserl-formal-and-transcendental-logic-commentary.html#b-the-missing-of-the-transcendental-sense-of-the-cartesian-reduction-to-the-ego)
+  > Descartes operates with a naive a priori heritage, with the naive presupposition of ontological and logical evidences for the treatment of the transcendental thematic. He misses the properly transcendental sense of the Ego he discovered.
+
+- **presupposed** · `reduktion/ftl/007` · *transcendental reflection*
+  The beginning must be made from one's own subjectivity, the ego taking itself as the starting-point of transcendental reflection.
+  `husserl-formal-and-transcendental-logic-commentary#h4-s95-necessity-of-beginning-from-one-s-own-subjectivity` · FTL § 95 · [§95. Necessity of Beginning from One's Own Subjectivity](https://faultynode.github.io/commentaries/commentaries/husserl/husserl-formal-and-transcendental-logic-commentary.html#necessity-of-beginning-from-ones-own-subjectivity)
+  > The beginning must be from one's own subjectivity: the ego must take itself as the starting-point of transcendental reflection.
+
+- **introduced** · `reduktion/ftl/008` · *suspension of the world-thesis*
+  Pure psychology of intentionality and transcendental phenomenology are parallel in content but differ in sense, the one taking the human being as part of the world and the other suspending the world-thesis.
+  `husserl-formal-and-transcendental-logic-commentary#h4-s99-psychological-and-transcendental-subjectivity-the-problem-of-transcendental` · FTL § 99 · [§99. Psychological and Transcendental Subjectivity. The Problem of Transcendental Psychologism](https://faultynode.github.io/commentaries/commentaries/husserl/husserl-formal-and-transcendental-logic-commentary.html#psychological-and-transcendental-subjectivity-the-problem-of-transcendental-psychologism)
+  > A pure psychology of intentionality and a transcendental phenomenology are parallel in content but fundamentally different in sense: the one takes the human being as part of the world, the other suspends the world-thesis.
+
+- **presupposed** · `reduktion/ftl/009` · *phenomenological method*
+  Transcendental logic is not a second logic but the radical and concrete logic itself, growing in phenomenological method.
+  `husserl-formal-and-transcendental-logic-commentary#h2-concluding-word` · FTL Concluding Word · [Concluding Word](https://faultynode.github.io/commentaries/commentaries/husserl/husserl-formal-and-transcendental-logic-commentary.html#concluding-word)
+  > to the transcendental, which is not a second logic but only the radical and concrete logic itself, growing in phenomenological method
+
+#### Recorded absences
+
+- **absent** · `husserl-formal-and-transcendental-logic-commentary#h5-b-the-naive-presupposition-of-a-world-ranks-logic-among-the-positive-sciences`
+  Expected because: The section states that formal logic ranks among the positive sciences because for all of them the world is an in-advance unquestioned fact - the presupposition § 93 a says is to be suspended - and names nothing that would suspend it.
+  [b) The Naive Presupposition of a World Ranks Logic Among the Positive Sciences](https://faultynode.github.io/commentaries/commentaries/husserl/husserl-formal-and-transcendental-logic-commentary.html#b-the-naive-presupposition-of-a-world-ranks-logic-among-the-positive-sciences)
+
+- **absent** · `husserl-formal-and-transcendental-logic-commentary#h4-s66-psychologistic-and-phenomenological-idealism-analytic-and-transcendental-cri`
+  Expected because: This is where phenomenological idealism is marked off from psychologism and the transcendental critique of cognition is distinguished from the analytic, the point at which the reduction would separate the constituting subjectivity from the psychological one.
+  [§66. Psychologistic and Phenomenological Idealism. Analytic and Transcendental Critique of Cognition](https://faultynode.github.io/commentaries/commentaries/husserl/husserl-formal-and-transcendental-logic-commentary.html#psychologistic-and-phenomenological-idealism-analytic-and-transcendental-critique-of-cognition)
+
+- **absent** · `husserl-formal-and-transcendental-logic-commentary#h4-s104-transcendental-phenomenology-as-the-self-explication-of-transcendental-subj`
+  Expected because: The section defines transcendental phenomenology as the self-explication of transcendental subjectivity, which is where the method giving access to that subjectivity would be named.
+  [§104. Transcendental Phenomenology as the Self-Explication of Transcendental Subjectivity](https://faultynode.github.io/commentaries/commentaries/husserl/husserl-formal-and-transcendental-logic-commentary.html#transcendental-phenomenology-as-the-self-explication-of-transcendental-subjectivity)
+
+*Partial pass: Covers the Introduction, §§ 66-68, and Part II chapters 5-7 (§§ 92-106) together with the Concluding Word, read in full. Part I (§§ 1-54) and Part II chapters 1-4 (§§ 55-91) were checked for the theme's terms and read only where they occur; the appendices were not read in full.*
 
 ### 1929 to 1931 - Husserl Cartesian Meditations Analysis
 
@@ -837,6 +1143,79 @@
 
 *Partial pass: Covers Chapter I, § 1 (the phenomenological presuppositions of Biranian ontology) and § 2 (the transcendental deduction of the categories). Chapters II and V also carry hits and are not covered.*
 
+### 1967 - La voix et le phénomène
+
+`derrida-la-voix-et-le-phenomene-commentary`
+
+- **presupposed** · `reduktion/vp/001` · *the reductions (eidetic and phenomenological)*
+  The eidetic and phenomenological reductions are already at work in the Logical Investigations, implicitly if not yet thematically.
+  `derrida-la-voix-et-le-phenomene-commentary#h3-the-continuity-of-the-logical-investigations-in-husserl-s-corpus` · VP pp. 1-16 · [The Continuity of the Logical Investigations in Husserl’s Corpus](https://faultynode.github.io/commentaries/commentaries/derrida/derrida-la-voix-et-le-phenomene-commentary.html#the-continuity-of-the-logical-investigations-in-husserls-corpus)
+  > Even the reductions (eidetic and phenomenological) are already at work in the *Investigations*, implicitly if not yet thematically.
+
+- **criticized** · `reduktion/vp/002` · *bracketing of metaphysics*
+  The guiding question is whether the phenomenological rigor of the analysis, including its bracketing of metaphysics, psychology and the natural sciences, conceals a metaphysical presupposition that constitutes phenomenology from within.
+  `derrida-la-voix-et-le-phenomene-commentary#h3-derrida-s-guiding-question` · VP pp. 1-16 · [Derrida’s Guiding Question](https://faultynode.github.io/commentaries/commentaries/derrida/derrida-la-voix-et-le-phenomene-commentary.html#derridas-guiding-question)
+  > does the phenomenological rigor of Husserl's analysis — his insistence on the absence of presuppositions (*Voraussetzungslosigkeit*), his bracketing of metaphysics, psychology, and the natural sciences — nevertheless conceal a *metaphysical presupposition*?
+
+- **criticized** · `reduktion/vp/003` · *phenomenological critique*
+  The phenomenological critique of metaphysics is itself a moment inside metaphysical assurance, its resource being the metaphysical project itself.
+  `derrida-la-voix-et-le-phenomene-commentary#h3-the-project-phenomenological-critique-as-a-moment-within-metaphysics` · VP pp. 1-16 · [The Project: Phenomenological Critique as a “Moment Within” Metaphysics](https://faultynode.github.io/commentaries/commentaries/derrida/derrida-la-voix-et-le-phenomene-commentary.html#the-project-phenomenological-critique-as-a-moment-within-metaphysics)
+  > the phenomenological critique of metaphysics is itself a moment *inside* metaphysical assurance. More precisely: the *resource* of phenomenological critique is the metaphysical project itself
+
+- **criticized** · `reduktion/vp/004` · *transcendental reduction*
+  The unity of "life" escapes the transcendental reduction and paves the way for it, since what is discovered when empirical life is bracketed is still a transcendental life.
+  `derrida-la-voix-et-le-phenomene-commentary#h3-phenomenology-as-a-philosophy-of-life-and-the-voice` · VP pp. 1-16 · [Phenomenology as a Philosophy of Life and the Voice](https://faultynode.github.io/commentaries/commentaries/derrida/derrida-la-voix-et-le-phenomene-commentary.html#phenomenology-as-a-philosophy-of-life-and-the-voice)
+  > The unity of "life" — which diffuses its light through all the fundamental concepts (*Leben, Erlebnis, lebendige Gegenwart, Geistigkeit*) — *escapes* the transcendental reduction and even *paves the way* for it. When empirical life is bracketed, it is still a *transcendental life*, a *living present*, that is discovered.
+
+- **presupposed** · `reduktion/vp/005` · *parallelism (Parallelität)*
+  A radical difference that distinguishes nothing in fact separates phenomenological psychology from transcendental phenomenology, and in it alone resides the possibility of a transcendental question.
+  `derrida-la-voix-et-le-phenomene-commentary#h3-the-parallels-phenomenological-psychology-and-transcendental-phenomenology` · VP pp. 1-16 · [The Parallels: Phenomenological Psychology and Transcendental Phenomenology](https://faultynode.github.io/commentaries/commentaries/derrida/derrida-la-voix-et-le-phenomene-commentary.html#the-parallels-phenomenological-psychology-and-transcendental-phenomenology)
+  > And yet a "radical difference" remains — one that "distinguishes nothing in fact," separates no being, no lived experience, no determinate signification; a difference that nevertheless "changes all the signs" and in which alone the possibility of a transcendental question resides.
+
+- **introduced** · `reduktion/vp/006` · *reduction of indication*
+  Indication is to be excluded as an extrinsic and empirical phenomenon, but this reduction is difficult because indicative adherences keep reappearing and their effacement is an infinite task.
+  `derrida-la-voix-et-le-phenomene-commentary#h3-indication-as-extrinsic-and-empirical` · VP pp. 28-33 · [Indication as Extrinsic and Empirical](https://faultynode.github.io/commentaries/commentaries/derrida/derrida-la-voix-et-le-phenomene-commentary.html#indication-as-extrinsic-and-empirical)
+  > Indication is to be excluded as an extrinsic and empirical phenomenon, even though it is tightly interwoven with expression in fact. But this reduction is difficult: indicative adherences keep reappearing, and their effacement is an "infinite task."
+
+- **revised** · `reduktion/vp/007` · *phenomenological reductions*
+  Everything that will later fall under the phenomenological reductions is already associated with indication, so that the entire problematic of reduction unfolds within the gap between two types of signs.
+  `derrida-la-voix-et-le-phenomene-commentary#h3-indication-existence-and-the-foundations-of-reduction` · VP pp. 28-33 · [Indication, Existence, and the Foundations of Reduction](https://faultynode.github.io/commentaries/commentaries/derrida/derrida-la-voix-et-le-phenomene-commentary.html#indication-existence-and-the-foundations-of-reduction)
+  > everything that will later fall under the phenomenological reductions (factuality, worldly existence, non-essential necessity) is already associated with indication. The entire problematic of reduction — and all the conceptual distinctions in which it operates (fact/essence, transcendentality/worldliness) — "unfolds within the gap between two types of signs."
+
+- **revised** · `reduktion/vp/008` · *reduction*
+  If the parallelism between pure psychic and pure transcendental is announced as a relation between two modes of signification, then the reduction, before becoming a method, would coincide with the simple practice of speech.
+  `derrida-la-voix-et-le-phenomene-commentary#h3-indication-existence-and-the-foundations-of-reduction` · VP pp. 28-33 · [Indication, Existence, and the Foundations of Reduction](https://faultynode.github.io/commentaries/commentaries/derrida/derrida-la-voix-et-le-phenomene-commentary.html#indication-existence-and-the-foundations-of-reduction)
+  > If so, the "reduction," before becoming a method, would coincide with the most spontaneous act of spoken discourse — the simple practice of speech.
+
+- **introduced** · `reduktion/vp/009` · *double reduction*
+  Phenomenological silence requires a double reduction: the exclusion of the relation to the other in indicative communication, and the exclusion of expression as a layer added to a pre-expressive sense.
+  `derrida-la-voix-et-le-phenomene-commentary#h3-the-double-exclusion` · VP pp. 78-97 · [The Double Exclusion](https://faultynode.github.io/commentaries/commentaries/derrida/derrida-la-voix-et-le-phenomene-commentary.html#the-double-exclusion)
+  > Phenomenological "silence" requires a double reduction: (1) the exclusion of the relation to the other in indicative communication, and (2) the exclusion of expression itself as a layer *added to* a pre-expressive sense.
+
+- **criticized** · `reduktion/vp/010` · *transcendental reduction*
+  Once auto-affection is admitted as the condition of self-presence, no pure transcendental reduction is possible.
+  `derrida-la-voix-et-le-phenomene-commentary#h3-auto-affection-and-differance` · VP pp. 78-97 · [Auto-Affection and Différance](https://faultynode.github.io/commentaries/commentaries/derrida/derrida-la-voix-et-le-phenomene-commentary.html#auto-affection-and-differance)
+  > "Once one admits that auto-affection is the condition of self-presence, no pure transcendental reduction is possible."
+
+- **presupposed** · `reduktion/vp/011` · *reduction*
+  The last and most audacious reduction in the First Investigation excludes from expression, as inessential components, the acts of cognitive intuition that fulfil the vouloir-dire.
+  `derrida-la-voix-et-le-phenomene-commentary#h3-the-husserlian-separation-of-intention-and-intuition` · VP pp. 98-117 · [The Husserlian Separation of Intention and Intuition](https://faultynode.github.io/commentaries/commentaries/derrida/derrida-la-voix-et-le-phenomene-commentary.html#the-husserlian-separation-of-intention-and-intuition)
+  > Derrida now turns to the last and most audacious "reduction" in the First Investigation: the exclusion from expression, as "inessential components," of the acts of cognitive intuition that "fulfill" the *vouloir-dire*.
+
+#### Recorded absences
+
+- **absent** · `derrida-la-voix-et-le-phenomene-commentary#h3-husserl-s-lectures-on-time-consciousness`
+  Expected because: The section undoes the punctual now on which the whole distinction rests, using Husserl's own descriptions of retention and protention, and names no reduction as the method by which those descriptions were obtained.
+  [Husserl’s Lectures on Time-Consciousness](https://faultynode.github.io/commentaries/commentaries/derrida/derrida-la-voix-et-le-phenomene-commentary.html#husserls-lectures-on-time-consciousness)
+
+- **absent** · `derrida-la-voix-et-le-phenomene-commentary#h3-closure`
+  Expected because: The closing section states the verdict on the whole phenomenological discourse as caught in the schema of a metaphysics of presence, the place where the reduction, named as the method of that discourse in the Introduction, would be expected to fall with it.
+  [Closure](https://faultynode.github.io/commentaries/commentaries/derrida/derrida-la-voix-et-le-phenomene-commentary.html#closure)
+
+- **absent** · `derrida-la-voix-et-le-phenomene-commentary#h2-key-terms`
+  Expected because: The glossary registers the book's operative vocabulary, including terms taken from Husserl, and carries no entry for the reduction although a chapter of the book is titled with one.
+  [Key Terms](https://faultynode.github.io/commentaries/commentaries/derrida/derrida-la-voix-et-le-phenomene-commentary.html#key-terms)
+
 ### 1981 - Franck, Chair et corps
 
 `franck-chair-et-corps-commentary`
@@ -1092,12 +1471,7 @@
 
 - `Reduction et donation Commentary` - 123 term hits, no record
 - `husserliana-4-ideas-ii-commentary` - 21 term hits, no record
-- `heidegger-ga-17-einfuhrung-in-die-phanomenologische-forschung-commentary` - 18 term hits, no record
-- `husserl-formal-and-transcendental-logic-commentary` - 17 term hits, no record
 - `lacan-seminar-11-the-four-fundamental-concepts-of-psychoanalysis-commentary` - 17 term hits, no record
-- `derrida-la-voix-et-le-phenomene-commentary` - 16 term hits, no record
-- `heidegger-ga-20-prolegomena-zur-geschichte-des-zeitbegriffs-commentary` - 15 term hits, no record
-- `husserliana-33-die-bernauer-manuskripte-uber-das-zeitbewusstsein-commentary` - 14 term hits, no record
 - `leibniz-monadology-commentary` - 9 term hits, no record
 - `husserliana-28-vorlesungen-uber-ethik-und-wertlehre-commentary` - 8 term hits, no record
 - `Heidegger GA 3 - Kant und das Problem der Metaphysik Commentary` - 6 term hits, no record
