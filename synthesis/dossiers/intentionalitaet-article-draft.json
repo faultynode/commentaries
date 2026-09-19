@@ -1,0 +1,983 @@
+{
+  "schema_version": 1,
+  "theme": "intentionalitaet",
+  "output": "synthesis/outputs/intentionalitaet-article-draft.md",
+  "output_sha256": "ae3bb4b6a98c286993e0eda2a27c561c596dd06354920b7f153812d987e892cd",
+  "entries": [
+    {
+      "id": "intentionalitaet/hua19-1/040",
+      "commentary": "husserliana-19-1-fifth-logical-investigation-commentary",
+      "locator": "husserliana-19-1-fifth-logical-investigation-commentary#h3-s38-qualitative-and-material-differentiation-of-the-objectivating-acts",
+      "primary_locator": "LU V § 38",
+      "term": "thetic / synthetic (single-rayed / multi-rayed)",
+      "status": "introduced",
+      "claim": "The really pervasive opposition among objectivating acts is between synthetic multi-rayed acts and single-rayed thetic acts, with all syntheses admitting the fundamental operation of nominalization into a nominal single-rayedness with a back-pointing matter.",
+      "commentary_quote": "the fundamental *operation of nominalization* is possible — the transformation of the *synthetic multi-rayedness* into a \"*nominal*\" *single-rayedness* with the corresponding *back-pointing matter*.",
+      "primary": {
+        "state": "unfilled",
+        "note": "",
+        "original": null,
+        "translation": null
+      }
+    },
+    {
+      "id": "intentionalitaet/lu6/010",
+      "commentary": "husserliana-19-2-sixth-logical-investigation-commentary",
+      "locator": "husserliana-19-2-sixth-logical-investigation-commentary#h3-s-13-the-synthesis-of-knowledge-as-the-form-of-fulfilment-characteristic-of-the",
+      "primary_locator": "Logical Investigations VI, § 13",
+      "term": "acts of meaning and of intuiting as one class",
+      "status": "introduced",
+      "claim": "The acts of meaning-intention and of meaning-fulfilment, the acts of thinking just as well as those of intuiting, belong to a single class of acts, the objectifying, so that other-kinded acts never function as sense-givers.",
+      "commentary_quote": "the acts of meaning-intention, just as well as those of meaning-fulfilment — the acts of \"thinking\" just as well as those of intuiting — belong to a single class of acts, to the objectifying",
+      "primary": {
+        "state": "unfilled",
+        "note": "",
+        "original": null,
+        "translation": null
+      }
+    },
+    {
+      "id": "intentionalitaet/lu6/009",
+      "commentary": "husserliana-19-2-sixth-logical-investigation-commentary",
+      "locator": "husserliana-19-2-sixth-logical-investigation-commentary#h3-s-13-the-synthesis-of-knowledge-as-the-form-of-fulfilment-characteristic-of-the",
+      "primary_locator": "Logical Investigations VI, § 13",
+      "term": "founded fulfilment of non-objectifying acts",
+      "status": "introduced",
+      "claim": "Wish-fulfilment is founded in an identification, for the wish-intention can find its fulfilling satisfaction only by the bare presentation of the wished transforming itself into the conform for-perception, though this identification does not exhaust but only founds the self-satisfying of the wish-quality.",
+      "commentary_quote": "the wish-intention can find its fulfilling satisfaction only by the bare presentation of the wished, underlying it, transforming itself into the conform *for-perception* (*Fürwahrnehmung*)",
+      "primary": {
+        "state": "unfilled",
+        "note": "",
+        "original": null,
+        "translation": null
+      }
+    },
+    {
+      "id": "intentionalitaet/hua4/010",
+      "commentary": "husserliana-4-ideas-ii-commentary",
+      "locator": "husserliana-4-ideas-ii-commentary#h3-s7-objectivating-and-non-objectivating-acts-and-their-correlates",
+      "primary_locator": "Ideas II § 7",
+      "term": "non-objectivating acts as implicitly objectivating",
+      "status": "introduced",
+      "claim": "Every non-objectivating act allows objectualities to be drawn from it through a change of attitude, so that every such act by its essence is implicitly also objectivating, not only built upon objectivating acts but itself objectivating in what it newly contributes.",
+      "commentary_quote": "every such act, by its essence, is implicitly also objectivating — it is essentially not only built in a higher stratum upon objectivating acts, but is itself objectivating in what it newly contributes.",
+      "primary": {
+        "state": "unfilled",
+        "note": "",
+        "original": null,
+        "translation": null
+      }
+    },
+    {
+      "id": "intentionalitaet/hua3-i/004",
+      "commentary": "husserliana-3-ideas-i-commentary",
+      "locator": "husserliana-3-ideas-i-commentary#h2-s-117-the-founded-theses-and-the-conclusion-of-the-doctrine-of-the-neutralizatio",
+      "primary_locator": "Ideas I § 117",
+      "term": "archontic thesis",
+      "status": "introduced",
+      "claim": "Every intentional experience has at least one and normally several positing characters or theses connected in the manner of founding, and in this plurality one is necessarily the archontic thesis uniting and governing all others.",
+      "commentary_quote": "In this plurality, one is necessarily the **archontic** thesis, uniting and governing all others.",
+      "primary": {
+        "state": "unfilled",
+        "note": "",
+        "original": null,
+        "translation": null
+      }
+    },
+    {
+      "id": "intentionalitaet/hua3-i/005",
+      "commentary": "husserliana-3-ideas-i-commentary",
+      "locator": "husserliana-3-ideas-i-commentary#h2-s-117-the-founded-theses-and-the-conclusion-of-the-doctrine-of-the-neutralizatio",
+      "primary_locator": "Ideas I § 117",
+      "term": "all acts as objectivating",
+      "status": "introduced",
+      "claim": "Because every thesis can be converted into an actual doxic positing, all acts whatsoever, including the acts of sentiment and will, are objectivating, originally constituting objects and necessary sources of different regions of being.",
+      "commentary_quote": "all acts whatsoever—including the acts of sentiment and will—are \"objectivating,\" originally \"constituting\" objects, necessary sources of different regions of being",
+      "primary": {
+        "state": "unfilled",
+        "note": "",
+        "original": null,
+        "translation": null
+      }
+    },
+    {
+      "id": "intentionalitaet/hua43-2/009",
+      "commentary": "husserliana-43-2-studien-zur-struktur-des-bewusstseins-commentary",
+      "locator": "husserliana-43-2-studien-zur-struktur-des-bewusstseins-commentary#h3-s-4-feeling-sensibility-and-intentionality",
+      "primary_locator": "Hua XLIII/2, Part III § 4",
+      "term": "the deepest-lying intentionality",
+      "status": "introduced",
+      "claim": "The deepest-lying intentionality lies in the inner consciousness that constitutes the unity in the immanent time-flux, and this inner consciousness has intentionality whereas the sensible sensation as constituted unity does not.",
+      "commentary_quote": "*The deepest-lying intentionality* lies in the *inner consciousness* that *constitutes the unity in the immanent time-flux*.",
+      "primary": {
+        "state": "unfilled",
+        "note": "",
+        "original": null,
+        "translation": null
+      }
+    },
+    {
+      "id": "intentionalitaet/hua43-2/010",
+      "commentary": "husserliana-43-2-studien-zur-struktur-des-bewusstseins-commentary",
+      "locator": "husserliana-43-2-studien-zur-struktur-des-bewusstseins-commentary#h3-s-4-feeling-sensibility-and-intentionality",
+      "primary_locator": "Hua XLIII/2, Part III § 4",
+      "term": "primary feeling / feeling-apprehension",
+      "status": "introduced",
+      "claim": "The primary feeling immediately belonging to the primary content likewise has no intentionality; it undergoes a feeling-apprehension, becoming intentional feeling founded in the sensible-theoretical appearance and making possible a higher-stage feeling-appearance.",
+      "commentary_quote": "*Likewise the primary feeling undergoes a \"feeling-apprehension,\" it becomes intentional feeling, which is founded in the sensible-theoretical appearance and makes possible a higher-stage appearance: so to speak, the feeling-appearance.*",
+      "primary": {
+        "state": "unfilled",
+        "note": "",
+        "original": null,
+        "translation": null
+      }
+    },
+    {
+      "id": "intentionalitaet/hua43-2/013",
+      "commentary": "husserliana-43-2-studien-zur-struktur-des-bewusstseins-commentary",
+      "locator": "husserliana-43-2-studien-zur-struktur-des-bewusstseins-commentary#h3-s-4-feeling-sensibility-and-intentionality",
+      "primary_locator": "Hua XLIII/2, Part III § 4",
+      "term": "drive-sensibility resists the articulation",
+      "status": "criticized",
+      "claim": "Extending the picture to the drive-sphere, the objection at once arises that this is already intentionality, since the drive directed to the continuation of an agreeable tone already has a directedness-toward and its striving intention fulfills itself, finding satisfaction or dissatisfaction, so that drive seems to admit no layer of primary non-intentional drive-content.",
+      "commentary_quote": "*here at once the objection arises that this is already intentionality*: there is *already a directedness-toward*, the *striving intention fulfills itself*, *finds satisfaction or dissatisfaction*.",
+      "primary": {
+        "state": "unfilled",
+        "note": "",
+        "original": null,
+        "translation": null
+      }
+    },
+    {
+      "id": "intentionalitaet/hua28/004",
+      "commentary": "husserliana-28-vorlesungen-uber-ethik-und-wertlehre-commentary",
+      "locator": "husserliana-28-vorlesungen-uber-ethik-und-wertlehre-commentary#h3-s-9-apriori-motivation-laws-as-laws-of-rational-consequence-motivational-connect",
+      "primary_locator": "Hua XXVIII, Part II § 9",
+      "term": "founding of valuing on objectivating acts",
+      "status": "introduced",
+      "claim": "To every valuing act there necessarily underlie intellective, objectivating acts (presenting, judging, or surmising) in which the valued objectivities become presented and stand as being or non-being, and this founding is not merely psychological but belongs to the essence of the valuing act insofar as it constitutes the value-appearance.",
+      "commentary_quote": "to every valuing act there necessarily underlie intellective, \"objectivating\" acts — presenting, judging, or surmising acts — in which the valued objectivities become presented and possibly stand as being or non-being, in certainty or probability.",
+      "primary": {
+        "state": "unfilled",
+        "note": "",
+        "original": null,
+        "translation": null
+      }
+    },
+    {
+      "id": "intentionalitaet/hua28/005",
+      "commentary": "husserliana-28-vorlesungen-uber-ethik-und-wertlehre-commentary",
+      "locator": "husserliana-28-vorlesungen-uber-ethik-und-wertlehre-commentary#h3-s-9-apriori-motivation-laws-as-laws-of-rational-consequence-motivational-connect",
+      "primary_locator": "Hua XXVIII, Part II § 9",
+      "term": "valuing acts directed upon values",
+      "status": "introduced",
+      "claim": "In the proper sense only objectivating acts are directed upon the objective, the being or non-being, whereas valuing acts are directed upon values, more closely upon positive and negative values, so that value-directedness is its own intentionality and not a special case of object-directedness.",
+      "commentary_quote": "in the proper sense only objectivating acts are directed upon the objective, the being or non-being, whereas valuing acts are directed upon *values*, and more closely upon positive and negative values.",
+      "primary": {
+        "state": "unfilled",
+        "note": "",
+        "original": null,
+        "translation": null
+      }
+    },
+    {
+      "id": "intentionalitaet/hua28/012",
+      "commentary": "husserliana-28-vorlesungen-uber-ethik-und-wertlehre-commentary",
+      "locator": "husserliana-28-vorlesungen-uber-ethik-und-wertlehre-commentary#h3-s-15-action-will-and-the-resolve-will-directed-at-the-future",
+      "primary_locator": "Hua XXVIII, Part III § 15",
+      "term": "reversal of the founding relation (will / belief)",
+      "status": "revised",
+      "claim": "On the act-side the founding relation is reversed: instead of the willing being founded upon the belief of the future being, it is rather the belief of the future that springs forth from the willing.",
+      "commentary_quote": "Instead of the willing being founded upon the belief of the future being, it is rather the belief of the future that springs forth from the willing",
+      "primary": {
+        "state": "unfilled",
+        "note": "",
+        "original": null,
+        "translation": null
+      }
+    },
+    {
+      "id": "intentionalitaet/hua28/011",
+      "commentary": "husserliana-28-vorlesungen-uber-ethik-und-wertlehre-commentary",
+      "locator": "husserliana-28-vorlesungen-uber-ethik-und-wertlehre-commentary#h3-s-15-action-will-and-the-resolve-will-directed-at-the-future",
+      "primary_locator": "Hua XXVIII, Part III § 15",
+      "term": "the will as creative positing",
+      "status": "introduced",
+      "claim": "The future willed is not first certain-being and then willed; on the contrary, were it certain in advance it could not be willed at all, so that it is certain only by virtue of the will-certainty, which sets the future in a manner that first confers on it the certainty of being.",
+      "commentary_quote": "Instead of being certain in advance, it is certain only by virtue of the will-certainty: the will as will-certainty sets the future in a manner that first confers on it, for consciousness, the certainty of being.",
+      "primary": {
+        "state": "unfilled",
+        "note": "",
+        "original": null,
+        "translation": null
+      }
+    },
+    {
+      "id": "intentionalitaet/hua33/004",
+      "commentary": "husserliana-33-die-bernauer-manuskripte-uber-das-zeitbewusstsein-commentary",
+      "locator": "husserliana-33-die-bernauer-manuskripte-uber-das-zeitbewusstsein-commentary#h2-iii",
+      "primary_locator": "",
+      "term": "intentional consciousness (objectifying form)",
+      "status": "revised",
+      "claim": "Husserl no longer assumes the primal process itself necessarily has the form of an objectifying intentional consciousness.",
+      "commentary_quote": "This terminological change signals that Husserl no longer took for granted that sensations are given in the primal process as objects and that the primal process itself has the form of an objectifying intentional consciousness.",
+      "primary": {
+        "state": "unfilled",
+        "note": "",
+        "original": null,
+        "translation": null
+      }
+    },
+    {
+      "id": "intentionalitaet/hua33/007",
+      "commentary": "husserliana-33-die-bernauer-manuskripte-uber-das-zeitbewusstsein-commentary",
+      "locator": "husserliana-33-die-bernauer-manuskripte-uber-das-zeitbewusstsein-commentary#h2-iii",
+      "primary_locator": "",
+      "term": "pre-intentional primal process",
+      "status": "introduced",
+      "claim": "The primal process may be pre-intentional, gaining constitutive significance only through subsequent egoic reflection.",
+      "commentary_quote": "Only through the subsequent performance of an egoic act of reflection on the pre-intentional primal process, i.e., through an intervening modification of its nature, does the hyletic primal stream gain constitutive significance.",
+      "primary": {
+        "state": "unfilled",
+        "note": "",
+        "original": null,
+        "translation": null
+      }
+    },
+    {
+      "id": "intentionalitaet/hua33/006",
+      "commentary": "husserliana-33-die-bernauer-manuskripte-uber-das-zeitbewusstsein-commentary",
+      "locator": "husserliana-33-die-bernauer-manuskripte-uber-das-zeitbewusstsein-commentary#h2-iii",
+      "primary_locator": "",
+      "term": "intentional consciousness (primal process)",
+      "status": "criticized",
+      "claim": "The characterization of the primal process as a species of intentional consciousness is questioned in Bernau texts.",
+      "commentary_quote": "the characterization of the primal process as a species of intentional consciousness. These doubts and questions also pressed upon Husserl in the late C-group time-texts, confirming that the Bernau manuscripts reached no definitive determination of the primal process/events relation.",
+      "primary": {
+        "state": "unfilled",
+        "note": "",
+        "original": null,
+        "translation": null
+      }
+    },
+    {
+      "id": "intentionalitaet/bernet-vds/053",
+      "commentary": "bernet-la-vie-du-sujet-commentary",
+      "locator": "bernet-la-vie-du-sujet-commentary#h4-i-4",
+      "primary_locator": "La vie du sujet, p. 199",
+      "term": "absolute consciousness is not absolute",
+      "status": "criticized",
+      "claim": "Because within absolute consciousness there is no longitudinal without transverse intentionality, Bernet draws the consequence Husserl refused to face, that absolute consciousness is not absolute and a reversible founding relation lies at the heart of originary time.",
+      "commentary_quote": "Among the many consequences of this description there is at least one Husserl refused to envisage seriously: that absolute consciousness is not absolute",
+      "primary": {
+        "state": "unfilled",
+        "note": "",
+        "original": null,
+        "translation": null
+      }
+    },
+    {
+      "id": "intentionalitaet/bernet-vds/050",
+      "commentary": "bernet-la-vie-du-sujet-commentary",
+      "locator": "bernet-la-vie-du-sujet-commentary#h4-i-4",
+      "primary_locator": "La vie du sujet, p. 198",
+      "term": "intentionality of a singular kind",
+      "status": "introduced",
+      "claim": "Bernet holds that Husserl's phenomenology of time, in its retentional analysis of absolute consciousness, innovates most radically and runs up against that intentionality of a singular kind which Heidegger will call transcendence.",
+      "commentary_quote": "and it is here that his phenomenology of time innovates most radically and runs up against that intentionality of a singular kind which Heidegger will call transcendence",
+      "primary": {
+        "state": "unfilled",
+        "note": "",
+        "original": null,
+        "translation": null
+      }
+    },
+    {
+      "id": "intentionalitaet/ga17/004",
+      "commentary": "heidegger-ga-17-einfuhrung-in-die-phanomenologische-forschung-commentary",
+      "locator": "heidegger-ga-17-einfuhrung-in-die-phanomenologische-forschung-commentary#h4-ss-48-49-husserl-s-disfiguring-verunstaltung-of-the-phenomenological-findings-th",
+      "primary_locator": "GA 17 §§ 48-49",
+      "term": "intentionality as theoretical comporting (Meinen)",
+      "status": "criticized",
+      "claim": "The first of three disfigurements is that intentionality is grasped as a specific theoretical comporting, rendered Meinen, with theoretical meaning claimed as the foundation of every complex intentional nexus.",
+      "commentary_quote": "First, *intentionality* is grasped — less expressly than inexpressly — as a *specific theoretical comporting*: intentionality gets rendered \"meaning\" (Meinen), and it is claimed that for every complex intentional nexus *theoretical meaning* forms the foundation",
+      "primary": {
+        "state": "found",
+        "note": "",
+        "original": {
+          "file": "heidegger/heidegger-ga-17-einfuhrung-in-die-phanomenologische-forschung.md",
+          "line": 3047,
+          "language": "de",
+          "quote": "hinsichtlich der *Intentionalität*, sofern diese weniger ausdrücklich als unausdrücklich immer als *spezifisches theoretisches Sichverhalten* gefaßt wird. Charakteristisch ist, daß Intentionalität in der Übersetzung meist mit Meinen wiedergegeben wird, daß man vom willentlichen, liebenden, hassenden Meinen usf. spricht."
+        },
+        "translation": {
+          "file": "heidegger/heidegger-ga-17-introduction-to-phenomenological-research.md",
+          "line": 4091,
+          "language": "en",
+          "quote": "with respect to intentionality insofar as this is always construed (less explicitly than implicitly) as specific theoretical behavior. Characteristically, intentionality is translated for the most part as meaning, intending something [Meinen]; one speaks of willing, loving, hating, and so forth as meaning something."
+        }
+      }
+    },
+    {
+      "id": "intentionalitaet/ga17/005",
+      "commentary": "heidegger-ga-17-einfuhrung-in-die-phanomenologische-forschung-commentary",
+      "locator": "heidegger-ga-17-einfuhrung-in-die-phanomenologische-forschung-commentary#h4-ss-48-49-husserl-s-disfiguring-verunstaltung-of-the-phenomenological-findings-th",
+      "primary_locator": "GA 17 §§ 48-49",
+      "term": "founding of willing and loving on representing",
+      "status": "criticized",
+      "claim": "The claim that every willing, loving and hating is founded on a representing that first gives the will-able and the love-able is called a methodological mistake that analogizes emotional experience to knowing.",
+      "commentary_quote": "that every willing, loving, hating is founded on a *representing* that first gives the will-able, the hate- and love-able. This is a methodological mistake — analogizing the study of emotional experiences to knowing",
+      "primary": {
+        "state": "found",
+        "note": "The German founds judgment on representing too - jedes Urteil, jedes Wollen, jedes Lieben - where the commentary's rendering has only willing, loving and hating.",
+        "original": {
+          "file": "heidegger/heidegger-ga-17-einfuhrung-in-die-phanomenologische-forschung.md",
+          "line": 3053,
+          "language": "de",
+          "quote": "daß in der Tat bewußt behauptet wird, daß für jeden intentionalen Zusammenhang gewickelter Art das *theoretische Meinen* das *Fundament* bildet, daß jedes Urteil, jedes Wollen, jedes Lieben auf ein *Vorstellen* fundiert ist, das überhaupt das Wollbare, das Haß- und Liebbare vorgibt. Diese Umbildung liegt darin, daß das vorherrschende Studium der Intentionalität am *Intentionalen im Erkennen* selbst orientiert ist. Es ist ein methodisches Mißverständnis, die Untersuchung der emotionalen Erlebnisse einfach mit dem Erkennen zu analogisieren."
+        },
+        "translation": {
+          "file": "heidegger/heidegger-ga-17-introduction-to-phenomenological-research.md",
+          "line": 4091,
+          "language": "en",
+          "quote": "it is expressly claimed that for every intentional context of a complicated sort, theoretically meaning something forms the foundation, that each judgment, each instance of wanting, each instance of loving is founded upon a presenting [Vorstellen] that provides in advance what can be wanted, what is detestable and loveable. This transformation lies in the fact that the prevailing study of intentionality is itself oriented to the intentional in knowing. It is a methodical misunderstanding to make the investigation of emotional experiences simply analogous to knowing."
+        }
+      }
+    },
+    {
+      "id": "intentionalitaet/ga17/007",
+      "commentary": "heidegger-ga-17-einfuhrung-in-die-phanomenologische-forschung-commentary",
+      "locator": "heidegger-ga-17-einfuhrung-in-die-phanomenologische-forschung-commentary#h4-s-50-repetition-of-the-traversed-characters-of-the-care-of-knowing-and-the-exhib",
+      "primary_locator": "GA 17 § 50",
+      "term": "anxiety (not a being-related-to-something)",
+      "status": "criticized",
+      "claim": "Joy, terror, grief and anxiety are phenomena missed when construed as intentionality, and anxiety cannot be grasped as a being-related-to-something but is a phenomenon of Dasein itself.",
+      "commentary_quote": "it is the structural ground on which *joy, terror, grief, anxiety* become explicable, phenomena missed when construed as intentionality. *Anxiety* cannot be grasped as a being-related-to-something; it is a phenomenon of *Dasein itself*.",
+      "primary": {
+        "state": "found",
+        "note": "",
+        "original": {
+          "file": "heidegger/heidegger-ga-17-einfuhrung-in-die-phanomenologische-forschung.md",
+          "line": 3195,
+          "language": "de",
+          "quote": "Zugleich ist dieses Phänomen der strukturmäßige Boden, auf dem solche Phänomene wie Freude, Schrecken, Trauer, Angst explizierbar werden – Phänomene, die übersehen werden, wenn sie als Intentionalität bestimmt sind. Das Phänomen der Angst kann ich nicht fassen als ein Bezogensein-auf-etwas, sondern es ist ein Phänomen des Daseins selbst."
+        },
+        "translation": {
+          "file": "heidegger/heidegger-ga-17-introduction-to-phenomenological-research.md",
+          "line": 4173,
+          "language": "en",
+          "quote": "At the same time this phenomenon is the structural ground on which such phenomena as joy, terror, sadness, anxiety can be explicated—phenomena that are overlooked if they are determined as intentionality. I cannot grasp the phenomenon of anxiety as a manner of being-related-to-something; it is instead a phenomenon of existence itself."
+        }
+      }
+    },
+    {
+      "id": "intentionalitaet/ga17/008",
+      "commentary": "heidegger-ga-17-einfuhrung-in-die-phanomenologische-forschung-commentary",
+      "locator": "heidegger-ga-17-einfuhrung-in-die-phanomenologische-forschung-commentary#h4-s-50-repetition-of-the-traversed-characters-of-the-care-of-knowing-and-the-exhib",
+      "primary_locator": "GA 17 § 50",
+      "term": "consciousness as 'something relating to something'",
+      "status": "criticized",
+      "claim": "The being called consciousness is not something relating to something, a subject before an object, but a being that in its being-placed-toward the world co-cares for its own Dasein.",
+      "commentary_quote": "The being one calls \"consciousness\" is not \"something relating to something,\" a subject before an object; it is a being that, *in its being-placed-toward the world, co-cares for its own Dasein*",
+      "primary": {
+        "state": "found",
+        "note": "",
+        "original": {
+          "file": "heidegger/heidegger-ga-17-einfuhrung-in-die-phanomenologische-forschung.md",
+          "line": 3193,
+          "language": "de",
+          "quote": "Darin liegt, daß das Sein im Sinne des Daseins nicht charakterisiert wird durch ein »etwas verhält sich zu etwas«, ich verhalte mich zu einem Gegenstande. Dieses Phänomen besagt vielmehr, daß das Seiende, das man mit »Bewußtsein« treffen will, ein solches ist, das im Gestelltsein zur Welt sein eigenes Dasein mitbesorgt."
+        },
+        "translation": {
+          "file": "heidegger/heidegger-ga-17-introduction-to-phenomenological-research.md",
+          "line": 4171,
+          "language": "en",
+          "quote": "Inherent in this phenomenon is the fact that being in the sense of existence is not characterized by a [structure like] “something relates to something” [or] I behave towards [or relate to: mich verhalte] an object. Rather, this phenomenon says that the entity that one intends to capture with “consciousness” is the sort of thing that, in being positioned towards the world, is also concerned with its own existence."
+        }
+      }
+    },
+    {
+      "id": "intentionalitaet/ga20/007",
+      "commentary": "heidegger-ga-20-prolegomena-zur-geschichte-des-zeitbegriffs-commentary",
+      "locator": "heidegger-ga-20-prolegomena-zur-geschichte-des-zeitbegriffs-commentary#h4-s-5-intentionality",
+      "primary_locator": "GA 20 § 5",
+      "term": "intentio / intentum mutual belonging",
+      "status": "introduced",
+      "claim": "The basic constitution of intentionality is the mutual belonging-together of the how of being-intended (the intentio) and the intentum, where intentum means not the perceived as a being but the being in the how of its being-perceived.",
+      "commentary_quote": "a peculiar belonging-together of the *how* of being-intended, the *intentio*, and the *intentum* — where *intentum* means, in the sense worked out, not the perceived *as a being* but the being in the *how* of its being-perceived.",
+      "primary": {
+        "state": "found",
+        "note": "Body says Zugehörigkeit; the section heading at line 1048 says Zusammengehörigkeit.",
+        "original": {
+          "file": "heidegger/heidegger-ga-20-prolegomena-zur-geschichte-des-zeitbegriffs.md",
+          "line": 1086,
+          "language": "de",
+          "quote": "Wir haben so eine eigentümliche Zugehörigkeit zwischen der Weise des Intendiertseins, der *Intentio*, und dem *Intentum*, wobei *Intentum*, das Intendierte, zu verstehen ist in dem herausgestellten Sinne, nicht das Wahrgenommene als Seiendes, sondern das Seiende im Wie seines Wahrgenommen seins, das *Intentum* im Wie seines Intendiertseins. Erst mit dem zu jeder *Intentio* als solcher gehörigen Wie des Intendiertseins ist überhaupt, obzwar nur vorläufig, die Grundverfassung der *Intentionalität* in den Blick gekommen."
+        },
+        "translation": {
+          "file": "heidegger/heidegger-ga-20-history-of-the-concept-of-time.md",
+          "line": 768,
+          "language": "en",
+          "quote": "We thus have an inherent affinity between the way something is intended, the *intentio*, and the *intentum*, whereby *intentum*, the intended, is to be understood in the sense just developed, not the perceived as an entity, but the entity in the how of its being-perceived, the *intentum* in the how of its being-intended. Only with the how of the being-intended belonging to every *intentio* as such does the basic constitution of intentionality come into view at all, even though only provisionally."
+        }
+      }
+    },
+    {
+      "id": "intentionalitaet/ga20/008",
+      "commentary": "heidegger-ga-20-prolegomena-zur-geschichte-des-zeitbegriffs-commentary",
+      "locator": "heidegger-ga-20-prolegomena-zur-geschichte-des-zeitbegriffs-commentary#h4-s-5-intentionality",
+      "primary_locator": "GA 20 § 5",
+      "term": "intentional fulfillment",
+      "status": "introduced",
+      "claim": "Perception is a distinguished case of intentional fulfillment: every intention bears in itself a tendency to fulfillment, and each has its own determinate mode of possible fulfillment (perception only through perception, memory only through remembering presentification).",
+      "commentary_quote": "every intention bears in itself a tendency to fulfillment, and each has its own determinate mode of possible fulfillment (perception only through perception, memory never through expectation but through remembering presentification).",
+      "primary": {
+        "state": "found",
+        "note": "",
+        "original": {
+          "file": "heidegger/heidegger-ga-20-prolegomena-zur-geschichte-des-zeitbegriffs.md",
+          "line": 1069,
+          "language": "de",
+          "quote": "Jede Intention hat in sich eine Tendenz zur Erfüllung, und jede hat je ihre bestimmt eigene Weise der Erfüllungsmöglichkeit, Wahrnehmung überhaupt nur durch Wahrnehmung; Erinnerung nie durch Erwartung, sondern durch erinnernde Vergegenwärtigung, bzw. durch Wahrnehmung."
+        },
+        "translation": {
+          "file": "heidegger/heidegger-ga-20-history-of-the-concept-of-time.md",
+          "line": 764,
+          "language": "en",
+          "quote": "Every intention has within it a tendency toward fulfillment and its specifically proper way of possible fulfillment: perception in general only through perception; remembrance never through expectation but through an envisaging that remembers or through perception."
+        }
+      }
+    },
+    {
+      "id": "intentionalitaet/ga20/012",
+      "commentary": "heidegger-ga-20-prolegomena-zur-geschichte-des-zeitbegriffs-commentary",
+      "locator": "heidegger-ga-20-prolegomena-zur-geschichte-des-zeitbegriffs-commentary#h4-s-6-categorial-intuition",
+      "primary_locator": "GA 20 § 6",
+      "term": "categorial correction and intentionality are one",
+      "status": "introduced",
+      "claim": "The correction of the old prejudice that the non-sensory and non-real is the immanent and subjective hangs together with the discovery of intentionality itself, so that one cannot decide for the correct grasp of the categorial while dismissing intentionality as a mythical concept: the two are one and the same.",
+      "commentary_quote": "one does not know what one does if one decides for the correct grasp of the categorial while thinking one can dismiss intentionality as a mythical concept; the two are one and the same.",
+      "primary": {
+        "state": "found",
+        "note": "",
+        "original": {
+          "file": "heidegger/heidegger-ga-20-prolegomena-zur-geschichte-des-zeitbegriffs.md",
+          "line": 1296,
+          "language": "de",
+          "quote": "Man weiß nicht, was man tut, wenn man sich für diese richtige Auffassung des Kategorialen entscheidet und zugleich die Intentionalität als mythischen Begriff glaubt abweisen zu können; beides ist ein und dasselbe."
+        },
+        "translation": {
+          "file": "heidegger/heidegger-ga-20-history-of-the-concept-of-time.md",
+          "line": 864,
+          "language": "en",
+          "quote": "We do not know what we are doing when we opt for the correct conception of the categorial and at the same time think we can dismiss intentionality as a mythical concept. The two are one and the same."
+        }
+      }
+    },
+    {
+      "id": "intentionalitaet/ga20/006",
+      "commentary": "heidegger-ga-20-prolegomena-zur-geschichte-des-zeitbegriffs-commentary",
+      "locator": "heidegger-ga-20-prolegomena-zur-geschichte-des-zeitbegriffs-commentary#h4-s-5-intentionality",
+      "primary_locator": "GA 20 § 5",
+      "term": "critique of the image-theory of perception",
+      "status": "criticized",
+      "claim": "The image-theory that explains object-perception by an inner image explains nothing, courts an infinite regress, and above all contradicts the plain phenomenological finding, being theory without phenomenology, since image-consciousness is itself only possible as a perceiving in which the image-thing is grasped and only in it the depicted.",
+      "commentary_quote": "the decisive objection is that it contradicts the plain phenomenological finding, being theory without phenomenology.",
+      "primary": {
+        "state": "found",
+        "note": "",
+        "original": {
+          "file": "heidegger/heidegger-ga-20-prolegomena-zur-geschichte-des-zeitbegriffs.md",
+          "line": 1039,
+          "language": "de",
+          "quote": "muß man sich das eigentliche Motiv gegenwärtig halten, aus dem heraus sie abgelehnt werden muß: sie entspricht nicht dem schlichten phänomenologischen Befund."
+        },
+        "translation": {
+          "file": "heidegger/heidegger-ga-20-history-of-the-concept-of-time.md",
+          "line": 754,
+          "language": "en",
+          "quote": "we must keep in mind the real reason for rejecting this transposition: it does not correspond to the simple phenomenological findings."
+        }
+      }
+    },
+    {
+      "id": "intentionalitaet/ga20/016",
+      "commentary": "heidegger-ga-20-prolegomena-zur-geschichte-des-zeitbegriffs-commentary",
+      "locator": "heidegger-ga-20-prolegomena-zur-geschichte-des-zeitbegriffs-commentary#h4-s-11-immanent-critique-the-four-determinations-of-pure-consciousness",
+      "primary_locator": "GA 20 § 11",
+      "term": "the four barred being-determinations of pure consciousness",
+      "status": "criticized",
+      "claim": "The four being-determinations of pure consciousness (immanent, absolutely given, absolute-in-constitution, pure) are in no way drawn from the being itself and, set up as being-determinations of consciousness, are precisely suited to bar the way to a question after the being of this being.",
+      "commentary_quote": "All four being-determinations — immanent, absolutely-given, absolute-in-constitution, pure — are in no way drawn from the being itself; insofar as they are set up *as being-determinations of consciousness*, they are precisely suited to *bar* the way to a question after the being of this being.",
+      "primary": {
+        "state": "found",
+        "note": "",
+        "original": {
+          "file": "heidegger/heidegger-ga-20-prolegomena-zur-geschichte-des-zeitbegriffs.md",
+          "line": 2224,
+          "language": "de",
+          "quote": "Alle vier Seinsbestimmungen der phänomenologischen Region: immanentes Sein, absolutes Sein im Sinne absoluter Gegebenheit, absolutes Sein im Sinne des Apriori in der Konstitution und reines Sein sind in keiner Weise aus dem Seienden selbst geschöpft, sondern, sofern sie als Seinsbestimmungen des Bewußtseins herausgestellt sind, sind sie geradezu geeignet, den Weg zu einer Frage nach dem Sein dieses Seienden, d. h. zugleich nach der klareren Herausarbeitung dieses Seienden selbst, zu verlegen."
+        },
+        "translation": {
+          "file": "heidegger/heidegger-ga-20-history-of-the-concept-of-time.md",
+          "line": 1236,
+          "language": "en",
+          "quote": "All four determinations of the being of the phenomenological region: immanent being, absolute being in the sense of absolute givenness, absolute being in the sense of the apriori in constitution, and pure being, are in no way drawn from the entity itself. Rather, to the extent that they are brought out as determinations of the being of consciousness, they immediately qualify as obstacles in the path of asking about the being of this entity and so also about the clearer elaboration of this entity itself."
+        }
+      }
+    },
+    {
+      "id": "intentionalitaet/ga20/010",
+      "commentary": "heidegger-ga-20-prolegomena-zur-geschichte-des-zeitbegriffs-commentary",
+      "locator": "heidegger-ga-20-prolegomena-zur-geschichte-des-zeitbegriffs-commentary#h4-s-5-intentionality",
+      "primary_locator": "GA 20 § 5",
+      "term": "what intentionality is the structure of",
+      "status": "criticized",
+      "claim": "Not intentionality as such is metaphysically dogmatic, but what is built under the structure or left unquestioned beneath it through the traditional failure to ask what it is the structure of; taking intentionality as structure of reason (Husserl) or of spirit/person (Scheler) does not overcome that starting-point.",
+      "commentary_quote": "Not intentionality as such is metaphysically dogmatic, but what is built under the structure, or left unquestioned beneath it, through the traditional failure to ask what it is the structure *of*.",
+      "primary": {
+        "state": "found",
+        "note": "",
+        "original": {
+          "file": "heidegger/heidegger-ga-20-prolegomena-zur-geschichte-des-zeitbegriffs.md",
+          "line": 1103,
+          "language": "de",
+          "quote": "Nicht die Intentionalität als solche ist metaphysisch dogmatisch, sondern was der Struktur unterbaut ist, bzw. unterbaut bleibt aufgrund traditionellen Nichtbefragens dessen, wovon sie angeblich Struktur ist, das, was dieser Struktursinn selbst besagt."
+        },
+        "translation": {
+          "file": "heidegger/heidegger-ga-20-history-of-the-concept-of-time.md",
+          "line": 774,
+          "language": "en",
+          "quote": "It is not intentionality as such that is metaphysically dogmatic but what is built under its structure, or is left at this level because of a traditional tendency not to question that of which it is presumably the structure, and what this sense of structure itself means."
+        }
+      }
+    },
+    {
+      "id": "intentionalitaet/hga24/006",
+      "commentary": "heidegger-ga-24-die-grundprobleme-der-phanomenologie-commentary",
+      "locator": "heidegger-ga-24-die-grundprobleme-der-phanomenologie-commentary#h3-b-the-being-constitution-of-perception-intentionality-and-transcendence",
+      "primary_locator": "GA 24 § 9(b)",
+      "term": "intentional relation as on-hand relation (first misinterpretation)",
+      "status": "criticized",
+      "claim": "The first misinterpretation takes the intentional relation to be an on-hand relation between two on-hand things, a psychic subject and a physical object, lasting only so long as both relata are on hand.",
+      "commentary_quote": "The relation of perception is an *on-hand relation between two on-hand things*.",
+      "primary": {
+        "state": "found",
+        "note": "",
+        "original": {
+          "file": "heidegger/heidegger-ga-24-die-grundprobleme-der-phanomenologie.md",
+          "line": 809,
+          "language": "de",
+          "quote": "Die Beziehung der Wahrnehmung ist eine vorhandene Beziehung zwischen zwei Vorhandenen."
+        },
+        "translation": {
+          "file": "heidegger/heidegger-ga-24-the-basic-problems-of-phenomenology-revised-edition.md",
+          "line": 883,
+          "language": "en",
+          "quote": "Nevertheless, in this characterization of intentionality as an extant relation between two things extant, a psychical subject and a physical object, the nature as well as the mode of being of intentionality is completely missed."
+        }
+      }
+    },
+    {
+      "id": "intentionalitaet/hga24/010",
+      "commentary": "heidegger-ga-24-die-grundprobleme-der-phanomenologie-commentary",
+      "locator": "heidegger-ga-24-die-grundprobleme-der-phanomenologie-commentary#h3-b-the-being-constitution-of-perception-intentionality-and-transcendence",
+      "primary_locator": "GA 24 § 9(b)",
+      "term": "false subjectivization (second misinterpretation)",
+      "status": "criticized",
+      "claim": "The source of the second misinterpretation lies not in the character of the intentio but in that of the intentum, and consists in a false subjectivization of intentionality.",
+      "commentary_quote": "Not, as in the first, in the character of the *intentio*, but in the character of the *intentum* — of that toward which the comportment (in our case perception) is directed.",
+      "primary": {
+        "state": "found",
+        "note": "",
+        "original": {
+          "file": "heidegger/heidegger-ga-24-die-grundprobleme-der-phanomenologie.md",
+          "line": 912,
+          "language": "de",
+          "quote": "Wo liegt der Herd der jetzt zu klärenden zweiten Mißdeutung der Intentionalität? Dieses Mal nicht wie bei der erstgenannten im Charakter der *intentio*, sondern als der *intentum*, dessen, worauf sich die Verhaltung, in unserem Falle die Wahrnehmung, richtet."
+        },
+        "translation": {
+          "file": "heidegger/heidegger-ga-24-the-basic-problems-of-phenomenology-revised-edition.md",
+          "line": 895,
+          "language": "en",
+          "quote": "What is the central source of this second misinterpretation of intentionality that now has to be clarified? This time it does not lie in the character of the intentio, as with the first misinterpretation, but in that of the intentum, that toward which the comportment—in our case perception—directs itself."
+        }
+      }
+    },
+    {
+      "id": "intentionalitaet/hga24/013",
+      "commentary": "heidegger-ga-24-die-grundprobleme-der-phanomenologie-commentary",
+      "locator": "heidegger-ga-24-die-grundprobleme-der-phanomenologie-commentary#h3-b-the-being-constitution-of-perception-intentionality-and-transcendence",
+      "primary_locator": "GA 24 § 9(b)",
+      "term": "transcendence",
+      "status": "introduced",
+      "claim": "The question how the immanent intentional lived-experience acquires transcendent validity may not be asked, because it is precisely intentionality and nothing else in which transcendence consists.",
+      "commentary_quote": "I do not first need to ask how the immanent intentional lived-experience acquires *transcendent validity*, but rather *it is precisely intentionality and nothing else in which transcendence consists*.",
+      "primary": {
+        "state": "found",
+        "note": "",
+        "original": {
+          "file": "heidegger/heidegger-ga-24-die-grundprobleme-der-phanomenologie.md",
+          "line": 935,
+          "language": "de",
+          "quote": "Ich brauche nicht erst zu fragen, wie das immanente intentionale Erlebnis transzendente Geltung bekommt, sondern es gilt zu sehen, daß die Intentionalität es gerade ist und nichts anderes, worin die Transzendenz besteht."
+        },
+        "translation": {
+          "file": "heidegger/heidegger-ga-24-the-basic-problems-of-phenomenology-revised-edition.md",
+          "line": 901,
+          "language": "en",
+          "quote": "I do not first need to ask how the immanent intentional experience acquires transcendent validity; rather, what has to be seen is that it is precisely intentionality and nothing else in which *transcendence* consists."
+        }
+      }
+    },
+    {
+      "id": "intentionalitaet/hga24/014",
+      "commentary": "heidegger-ga-24-die-grundprobleme-der-phanomenologie-commentary",
+      "locator": "heidegger-ga-24-die-grundprobleme-der-phanomenologie-commentary#h3-b-the-being-constitution-of-perception-intentionality-and-transcendence",
+      "primary_locator": "GA 24 § 9(b)",
+      "term": "subject determined from intentionality",
+      "status": "revised",
+      "claim": "Intentionality may not be interpreted from an arbitrary concept of subject; conversely the subject is first to be determined in its essence from the unprejudicedly seen character of intentionality and its transcendence.",
+      "commentary_quote": "rather, conversely, *on the basis of the unprejudicedly seen character of intentionality and its transcendence, the subject is first to be determined in its essence*",
+      "primary": {
+        "state": "found",
+        "note": "",
+        "original": {
+          "file": "heidegger/heidegger-ga-24-die-grundprobleme-der-phanomenologie.md",
+          "line": 940,
+          "language": "de",
+          "quote": "grund des unvoreingenommen gesehenen Charakters der Intentionalität und ihrer Transzendenz allererst das Subjekt in seinem Wesen bestimmt."
+        },
+        "translation": {
+          "file": "heidegger/heidegger-ga-24-the-basic-problems-of-phenomenology-revised-edition.md",
+          "line": 901,
+          "language": "en",
+          "quote": "rather, just the reverse, the subject is first of all determined in its essential nature only on the basis of an unbiased view of the character of intentionality and its transcendence."
+        }
+      }
+    },
+    {
+      "id": "intentionalitaet/hga24/015",
+      "commentary": "heidegger-ga-24-die-grundprobleme-der-phanomenologie-commentary",
+      "locator": "heidegger-ga-24-die-grundprobleme-der-phanomenologie-commentary#h3-b-the-being-constitution-of-perception-intentionality-and-transcendence",
+      "primary_locator": "GA 24 § 9(b)",
+      "term": "Dasein (in place of subject)",
+      "status": "revised",
+      "claim": "Because the separation of an immanent subject from a transcendent object is constructive, the course stops speaking of a subject and understands the being to which intentional comportments belong as Dasein.",
+      "commentary_quote": "*we henceforth no longer speak of a subject, of a subjective sphere*, but understand the being to which intentional comportments belong as *Dasein*",
+      "primary": {
+        "state": "found",
+        "note": "",
+        "original": {
+          "file": "heidegger/heidegger-ga-24-die-grundprobleme-der-phanomenologie.md",
+          "line": 940,
+          "language": "de",
+          "quote": "sprechen wir künftig nicht mehr von einem Subjekt, von einer subjektiven Sphäre, sondern wir verstehen das Seiende, dem die intentionalen Verhaltungen angehören, als Dasein"
+        },
+        "translation": {
+          "file": "heidegger/heidegger-ga-24-the-basic-problems-of-phenomenology-revised-edition.md",
+          "line": 901,
+          "language": "en",
+          "quote": "we shall in the future no longer speak of a subject, of a subjective sphere, but shall understand the being to whom intentional comportments belong as *Dasein*"
+        }
+      }
+    },
+    {
+      "id": "intentionalitaet/hga24/016",
+      "commentary": "heidegger-ga-24-die-grundprobleme-der-phanomenologie-commentary",
+      "locator": "heidegger-ga-24-die-grundprobleme-der-phanomenologie-commentary#h3-b-the-being-constitution-of-perception-intentionality-and-transcendence",
+      "primary_locator": "GA 24 § 9(b)",
+      "term": "ratio cognoscendi / ratio essendi",
+      "status": "introduced",
+      "claim": "Intentionality is the ratio cognoscendi of transcendence and transcendence the ratio essendi of intentionality in its various modes.",
+      "commentary_quote": "Intentionality is the *ratio cognoscendi* of transcendence; transcendence is the *ratio essendi* of intentionality in its various modes.",
+      "primary": {
+        "state": "found",
+        "note": "",
+        "original": {
+          "file": "heidegger/heidegger-ga-24-die-grundprobleme-der-phanomenologie.md",
+          "line": 950,
+          "language": "de",
+          "quote": "Die Intentionalität ist die ratio cognoscendi der Transzendenz. Diese ist die ratio essendi der Intentionalität in ihren verschiedenen Weisen."
+        },
+        "translation": {
+          "file": "heidegger/heidegger-ga-24-the-basic-problems-of-phenomenology-revised-edition.md",
+          "line": 905,
+          "language": "en",
+          "quote": "Intentionality is the ratio cognoscendi of transcendence. Transcendence is the ratio essendi of intentionality in its diverse modes."
+        }
+      }
+    },
+    {
+      "id": "intentionalitaet/bernet-vds/009",
+      "commentary": "bernet-la-vie-du-sujet-commentary",
+      "locator": "bernet-la-vie-du-sujet-commentary#h4-intentionality-and-transcendence",
+      "primary_locator": "La vie du sujet, pp. 62-63",
+      "term": "ratio cognoscendi / ratio essendi",
+      "status": "revised",
+      "claim": "Heidegger's scholastic formula for the relation is that intentionality is the ratio cognoscendi of transcendence and transcendence the ratio essendi of intentionality in its various modes.",
+      "commentary_quote": "Hence Heidegger's slightly scholastic formula for their mutual relation: intentionality is the *ratio cognoscendi* of transcendence, and transcendence the *ratio essendi* of intentionality in its various modes.",
+      "primary": {
+        "state": "unfilled",
+        "note": "",
+        "original": null,
+        "translation": null
+      }
+    },
+    {
+      "id": "intentionalitaet/bernet-vds/004",
+      "commentary": "bernet-la-vie-du-sujet-commentary",
+      "locator": "bernet-la-vie-du-sujet-commentary#h4-the-being-of-intentional-consciousness",
+      "primary_locator": "La vie du sujet, pp. 52-53",
+      "term": "transcendence as ground of intentionality",
+      "status": "revised",
+      "claim": "Heidegger's circle is ordered, not vicious: the phenomenological investigation of intentionality issues in Dasein's transcendence, which then proves to be the ontological foundation of intentionality.",
+      "commentary_quote": "In sum: the phenomenological investigation of intentionality issues in the discovery of Dasein's transcendence, which in turn proves to be the ontological foundation of intentionality. The circle is not vicious but ordered: intentionality gives the access, transcendence gives the ground.",
+      "primary": {
+        "state": "unfilled",
+        "note": "",
+        "original": null,
+        "translation": null
+      }
+    },
+    {
+      "id": "intentionalitaet/sz/006",
+      "commentary": "heidegger-sein-und-zeit-commentary",
+      "locator": "heidegger-sein-und-zeit-commentary#h5-s-13-the-exemplification-of-being-in-in-a-founded-mode-knowing-the-world",
+      "primary_locator": "Sein und Zeit § 13",
+      "term": "knowing founded in being-alongside",
+      "status": "introduced",
+      "claim": "Knowing is antecedently grounded in an already-being-alongside-the-world (Schon-sein-bei-der-Welt) that essentially constitutes Dasein's being, and contemplative determining of the present-at-hand becomes possible only through a deficiency of concernful having-to-do that lets beings be encountered in their pure look.",
+      "commentary_quote": "knowing is antecedently grounded in an already-being-alongside-the-world (Schon-sein-bei-der-Welt), which essentially constitutes Dasein's being.",
+      "primary": {
+        "state": "found",
+        "note": "This translation renders Schon-sein-bei-der-Welt as already-being-near-the-world; the commentary says already-being-alongside-the-world.",
+        "original": {
+          "file": "heidegger/heidegger-sein-und-zeit.md",
+          "line": 1040,
+          "language": "de",
+          "quote": "daß das Erkennen selbst vorgängig gründet in einem Schon-sein-bei-der-Welt, welches das Sein von Dasein wesenhaft konstituiert."
+        },
+        "translation": {
+          "file": "heidegger/heidegger-being-and-time.md",
+          "line": 1049,
+          "language": "en",
+          "quote": "cognition is itself already functionally grounded in an already-being-near-the-world, and the being of being-there is essentially constituted *as* this being-near."
+        }
+      }
+    },
+    {
+      "id": "intentionalitaet/sz/007",
+      "commentary": "heidegger-sein-und-zeit-commentary",
+      "locator": "heidegger-sein-und-zeit-commentary#h5-s-13-the-exemplification-of-being-in-in-a-founded-mode-knowing-the-world",
+      "primary_locator": "Sein und Zeit § 13",
+      "term": "always already outside",
+      "status": "introduced",
+      "claim": "In directing itself toward and grasping, Dasein does not first go outside an inner sphere in which it is at first encapsulated; rather, by its primary mode of being, it is always already 'outside', alongside beings encountered in the world already discovered.",
+      "commentary_quote": "In directing itself toward... and grasping, Dasein does not first go outside of an inner sphere in which it is at first encapsulated; rather, by its primary mode of being, it is always already \"outside,\" alongside beings encountered in the world already discovered.",
+      "primary": {
+        "state": "found",
+        "note": "",
+        "original": {
+          "file": "heidegger/heidegger-sein-und-zeit.md",
+          "line": 1042,
+          "language": "de",
+          "quote": "Im Sichrichten auf... und Erfassen geht das Dasein nicht etwa erst aus seiner Innensphäre hinaus, in die es zunächst verkapselt ist"
+        },
+        "translation": {
+          "file": "heidegger/heidegger-being-and-time.md",
+          "line": 1051,
+          "language": "en",
+          "quote": "In directing itself toward something and getting hold of it, being-there does not first move out of its inner sphere, one initially encapsulating it; rather, in keeping with its primary manner of being, it is always already “outside,” near something arising for encounter within some world already uncovered."
+        }
+      }
+    },
+    {
+      "id": "intentionalitaet/sz/008",
+      "commentary": "heidegger-sein-und-zeit-commentary",
+      "locator": "heidegger-sein-und-zeit-commentary#h5-s-13-the-exemplification-of-being-in-in-a-founded-mode-knowing-the-world",
+      "primary_locator": "Sein und Zeit § 13",
+      "term": "intentionality out-radicalized",
+      "status": "revised",
+      "claim": "Even mere thinking, memory, forgetting, and every error are modifications of original being-in, never lapses into a worldless interior, so that intentionality is out-radicalized: the 'of' was never a bridge from an inside, because there never was an inside to leave.",
+      "commentary_quote": "Intentionality, one may say, is here out-radicalized: where Husserl taught that consciousness is of its object, Heidegger replies that the \"of\" was never a bridge from an inside, because there never was an inside to leave.",
+      "primary": {
+        "state": "no-source",
+        "reason": "no-primary",
+        "note": "Nothing to find: the ledger's own resolution of gap-013 records this as the commentator's gloss on § 13, not a sentence the treatise contains, and a second commentary on the same section offers no equivalent. Quotable as a reading of Heidegger, never as Heidegger.",
+        "original": null,
+        "translation": null
+      }
+    },
+    {
+      "id": "intentionalitaet/sz/023",
+      "commentary": "heidegger-sein-und-zeit-commentary",
+      "locator": "heidegger-sein-und-zeit-commentary#h6-b-the-temporal-sense-of-the-modification-of-circumspect-concern-into-the-theoret",
+      "primary_locator": "Sein und Zeit § 69(b)",
+      "term": "intentionality grounded in ecstatic temporality",
+      "status": "introduced",
+      "claim": "Heidegger's note attaches the enormous promissory theorem that and how the intentionality of 'consciousness' grounds in Dasein's ecstatic temporality, which the following (never published) division was to show.",
+      "commentary_quote": "that and how the intentionality of \"consciousness\" grounds in Dasein's ecstatic temporality, the following division will show.",
+      "primary": {
+        "state": "found",
+        "note": "A footnote, not body text - it sits in the note apparatus to § 69(b), beside a reference to Logische Untersuchungen II.",
+        "original": {
+          "file": "heidegger/heidegger-sein-und-zeit.md",
+          "line": 5496,
+          "language": "de",
+          "quote": "Daß und wie die Intentionalität des »Bewußtseins« in der ekstatischen Zeitlichkeit des Daseins *gründet*, wird der folgende Abschnitt zeigen."
+        },
+        "translation": {
+          "file": "heidegger/heidegger-being-and-time.md",
+          "line": 5334,
+          "language": "en",
+          "quote": "How the intentionality of “consciousness” is *grounded* in the ecstatic temporality of being-there will be shown in the following Division."
+        }
+      }
+    },
+    {
+      "id": "intentionalitaet/henry-em/007",
+      "commentary": "henry-the-essence-of-manifestation-commentary",
+      "locator": "henry-the-essence-of-manifestation-commentary#h2-s-54-ontological-interpretation-of-affectivity-as-the-foundation-of-affection-th",
+      "primary_locator": "The Essence of Manifestation, § 54",
+      "term": "the asymmetry of affectivity and sensibility",
+      "status": "introduced",
+      "claim": "The eidetic law governing the ultimate domain of the ground reads in two clauses that must not be run together: affectivity is never sensible; sensibility is constantly affective.",
+      "commentary_quote": "The eidetic law governing the ultimate domain of the ground reads in two clauses that must not be run together: affectivity is never sensible; sensibility is constantly affective.",
+      "primary": {
+        "state": "unfilled",
+        "note": "",
+        "original": null,
+        "translation": null
+      }
+    },
+    {
+      "id": "intentionalitaet/henry-em/013",
+      "commentary": "henry-the-essence-of-manifestation-commentary",
+      "locator": "henry-the-essence-of-manifestation-commentary#h2-s-54-ontological-interpretation-of-affectivity-as-the-foundation-of-affection-th",
+      "primary_locator": "The Essence of Manifestation, § 54",
+      "term": "affectivity as foundation, not grasping",
+      "status": "criticized",
+      "claim": "Against the intentionalist claim, affectivity is the universal foundation of all phenomena and determines them all originally as affective; it is not the grasping of the horizon but the reality of the act that grasps, the affectivity of phenomena residing in the auto-affection of the transcendence that deploys the horizon.",
+      "commentary_quote": "affectivity is the universal foundation of all phenomena and determines them all originally as affective. The affectivity of phenomena resides in the auto-affection of the transcendence that deploys the horizon. Affectivity is not the grasping of the horizon but the reality of the act that grasps",
+      "primary": {
+        "state": "unfilled",
+        "note": "",
+        "original": null,
+        "translation": null
+      }
+    },
+    {
+      "id": "intentionalitaet/henry-em/012",
+      "commentary": "henry-the-essence-of-manifestation-commentary",
+      "locator": "henry-the-essence-of-manifestation-commentary#h2-s-54-ontological-interpretation-of-affectivity-as-the-foundation-of-affection-th",
+      "primary_locator": "The Essence of Manifestation, § 54",
+      "term": "the thesis that affectivity is intentional",
+      "status": "criticized",
+      "claim": "Modern philosophy (Brentano, Husserl, Scheler, Sartre) gives out as a discovery the thesis that affectivity is intentional, consciousness of something (love has an object, hatred is of Peter or Paul); Henry dismantles it by asking how affectivity can be understanding if nothing is more repugnant to its essence than transcendence.",
+      "commentary_quote": "how can affectivity be understanding, capable of grasping and living transcendent significations, if nothing is more repugnant to its essence than transcendence, if the deployment of a horizon of understanding is what is most foreign to it?",
+      "primary": {
+        "state": "unfilled",
+        "note": "",
+        "original": null,
+        "translation": null
+      }
+    },
+    {
+      "id": "intentionalitaet/henry-em/009",
+      "commentary": "henry-the-essence-of-manifestation-commentary",
+      "locator": "henry-the-essence-of-manifestation-commentary#h2-s-54-ontological-interpretation-of-affectivity-as-the-foundation-of-affection-th",
+      "primary_locator": "The Essence of Manifestation, § 54",
+      "term": "break with Gleichursprünglichkeit",
+      "status": "criticized",
+      "claim": "Henry explicitly breaks with Sein und Zeit by denying the equiprimordiality of Befindlichkeit and Verstehen, since their bond is one of foundation: affectivity has already done its work when the world rises.",
+      "commentary_quote": "This is the explicit break with *Sein und Zeit*: Heidegger's equiprimordiality of *Befindlichkeit* and *Verstehen* is exactly the thesis Henry denies, because their bond is one of foundation.",
+      "primary": {
+        "state": "unfilled",
+        "note": "",
+        "original": null,
+        "translation": null
+      }
+    },
+    {
+      "id": "intentionalitaet/henry-ppc/007",
+      "commentary": "henry-philosophie-et-phenomenologie-du-corps-commentary",
+      "locator": "henry-philosophie-et-phenomenologie-du-corps-commentary#h2-conclusion-the-ontological-theory-of-the-body-and-the-problem-of-incarnation-fle",
+      "primary_locator": "Philosophie et phénoménologie du corps, Conclusion",
+      "term": "the subjective body as structure of intentionalities",
+      "status": "introduced",
+      "claim": "In its original being our body is a structure made of virtually compossible intentionalities, conformably to their eidetic types, an organic totality of transcendental determinations accomplished in a sphere of absolute immanence.",
+      "commentary_quote": "In its original being our body is rather a structure made of virtually compossible intentionalities, conformably to their eidetic types — an organic totality of transcendental determinations accomplished in a sphere of absolute immanence.",
+      "primary": {
+        "state": "unfilled",
+        "note": "",
+        "original": null,
+        "translation": null
+      }
+    },
+    {
+      "id": "intentionalitaet/henry-ppc/003",
+      "commentary": "henry-philosophie-et-phenomenologie-du-corps-commentary",
+      "locator": "henry-philosophie-et-phenomenologie-du-corps-commentary#h3-s-1-the-phenomenological-presuppositions-of-biranian-ontology",
+      "primary_locator": "Philosophie et phénoménologie du corps, ch. I § 1",
+      "term": "intentionalities knowing themselves in immanence",
+      "status": "introduced",
+      "claim": "All intentionalities in general know themselves originally in the immanence of their own being and in their immediate accomplishment, without seeing themselves or applying themselves to themselves as object.",
+      "commentary_quote": "Because all intentionalities in general, and hence the essential intentionalities of consciousness, know themselves originally in the immanence of their own being and in their immediate accomplishment, we are able to name them and acquire their idea.",
+      "primary": {
+        "state": "unfilled",
+        "note": "",
+        "original": null,
+        "translation": null
+      }
+    },
+    {
+      "id": "intentionalitaet/kern-hk/013",
+      "commentary": "kern-husserl-and-kant-commentary",
+      "locator": "kern-husserl-and-kant-commentary#h4-s-11-husserl-s-kant-critique-from-the-standpoint-of-transcendental-philosophical",
+      "primary_locator": "Kern, Husserl und Kant, § 11(b)",
+      "term": "Kant's constructive method / lack of intentional analysis",
+      "status": "criticized",
+      "claim": "Kant's transcendental philosophy constructs hypothetical explanatory principles rather than demonstrating them in intuitive evidence, and the lack of the phenomenological reduction is the deepest reason for his overlooking the possibility of a transcendental experience.",
+      "commentary_quote": "Kant's transcendental philosophy constructs hypothetical explanatory principles rather than demonstrating them in intuitive evidence.",
+      "primary": {
+        "state": "unfilled",
+        "note": "",
+        "original": null,
+        "translation": null
+      }
+    },
+    {
+      "id": "intentionalitaet/kern-hk/012",
+      "commentary": "kern-husserl-and-kant-commentary",
+      "locator": "kern-husserl-and-kant-commentary#h4-s-11-husserl-s-kant-critique-from-the-standpoint-of-transcendental-philosophical",
+      "primary_locator": "Kern, Husserl und Kant, § 11(b)",
+      "term": "the principle of all principles",
+      "status": "introduced",
+      "claim": "Husserl's 'principle of all principles' demands that everything that presents itself in intuition be accepted as it gives itself, and his 'positivism' means accepting only what is originally given and refusing to go behind or beyond what intuition delivers.",
+      "commentary_quote": "Husserl's \"principle of all principles\" demands that everything that presents itself in intuition be accepted as it gives itself. Husserl's \"positivism\" means accepting only what is originally given and refusing to go behind or beyond what intuition delivers.",
+      "primary": {
+        "state": "unfilled",
+        "note": "",
+        "original": null,
+        "translation": null
+      }
+    },
+    {
+      "id": "intentionalitaet/kern-hk/017",
+      "commentary": "kern-husserl-and-kant-commentary",
+      "locator": "kern-husserl-and-kant-commentary#h4-s-32-critique-of-natorp-s-concept-of-subjectivity",
+      "primary_locator": "Kern, Husserl und Kant, § 32",
+      "term": "the constructive character of Husserl's noetics",
+      "status": "introduced",
+      "claim": "Kern observes that Husserl's actually practiced consciousness-research corresponds to a large extent to Natorp's position, the constructive character of Husserl's own noetics being acknowledged, along with Natorp's influence on Husserl's inclusion of the noema within phenomenology and on his doctrine of the ego-pole.",
+      "commentary_quote": "Husserl's actually practiced consciousness-research corresponds to a large extent to Natorp's position — the constructive character of Husserl's own noetics is acknowledged.",
+      "primary": {
+        "state": "unfilled",
+        "note": "",
+        "original": null,
+        "translation": null
+      }
+    }
+  ]
+}
