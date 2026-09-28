@@ -88,8 +88,8 @@ tr.:4091). The charge is about a translation habit, and Heidegger treats
 the habit as load-bearing: once directedness is rendered *Meinen*, the
 whole field has been tilted toward knowing before any analysis starts.
 
-> **Context.** *Meinen* is the everyday German verb for "to mean" or "to
-> have in mind". Husserl uses it, in the *Logical Investigations*, for the
+> **Context.** *Meinen* is the everyday German verb for "to mean", to
+> have in mind. Husserl uses it, in the *Logical Investigations*, for the
 > act of meaning-intending, and so it carries the sense of an act aimed at
 > an object to be known. *Sichverhalten* is "comporting oneself"; Dahlstrom
 > renders it "behavior". The "translation" in question is the rendering
