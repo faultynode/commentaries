@@ -1,0 +1,278 @@
+{
+  "schema_version": 1,
+  "theme": "fundierung",
+  "commentary": "husserliana-33-die-bernauer-manuskripte-uber-das-zeitbewusstsein-commentary",
+  "source_sha256": "7824dfc668eb525991d53ab3355fb32c76040ee942ce34e20338a34d494b2530",
+  "extracted_at": "2026-09-24",
+  "extractor": {
+    "agent": "claude-code",
+    "model": "claude-opus-5",
+    "prompt": "synthesis/prompts/extraction-prompt.md",
+    "note": "source_sha256 is the LF digest from synthesis/corpus.json (CRLF checkout, so a local validate reports a false staleness; CI on LF passes). Unlike the intentionalitaet record for this commentary, which draws all its units from the editors' introduction, this pass reads the text groups themselves: Text Nr. 8 § 3 and its Supplement IV, Text Nr. 9 §§ 1-3, Text Nr. 10 §§ 3 and 5, Text Nr. 15 §§ 1-2, Text Nr. 17 § 2, Text Nr. 18 §§ 1-3 and its Supplements XIII-XV, Text Nr. 3 § 2 and Text Nr. 14 § 2 were read for the two absences, and section III of the editors' introduction for the schema and the regress. That partly answers the pass gap-011 asks for, though gap-011 asks it for intentionalitaet and keyed to the primal process; what this pass settles is the narrower question of whether the texts treat retention as founded in reell present data, and the answer they record is that they raise the founding construction in Text Nr. 10 §§ 3-4 and set a counter-view against it in § 5 without deciding. No unit carries a stratum: chronology.json holds two strata for this commentary, the 1917 and the 1918 Bernau stay, and the commentary dates the stays but does not assign any individual text or supplement to one of them - a checked fact, not an omission."
+  },
+  "coverage": "partial",
+  "coverage_note": "Covers the founding doctrine where the Bernau texts put it to work. (1) The apprehension / apprehension-content schema as a founding construction: the editors' account of applying it to the primal process itself and the regress that threatens (Introduction III), the question whether the schema abstracted from spatial objects carries through for time-constitution (Text 8 § 3, Supplement IV), and the founding of outer perception in the time-objects of immanent perception, expressly distinguished from the synthetic founding of spontaneous acts on spontaneous acts (Text 9 § 1). (2) The status of retention: whether ur-retentions are founded apprehensions of reell-contained data (Text 10 § 3), the denial that any self-modifying consciousness is an apprehending of its modificate (Text 9 § 3), and the counter-view that retention is not founded in reell given present data (Text 10 § 5). (3) The ordering of strata in psychic interiority: hyle as unconditionally first, ur-genesis as underlying every further genesis, and the series of comportments founded upon the basic series of contingent objects (Text 15 §§ 1-2). (4) Ideal and general objectivities: abstract non-independent essences within the concretum (Text 17 § 2), the distinction of givenness-time from essence-time, higher-level intentionalities for which the lower-level constituted times have no representing significance, supra-temporality, and the temporal realization of the ideally identical state of affairs (Text 18 §§ 1-3, Supplements XIII-XV). Not covered: Parts I and II apart from Text 8 § 3, its Supplement IV and Text 3 § 2, Texts 11-14 apart from Text 14 § 2, Text 16, Texts 19-22 and their supplements, and sections I, II and IV of the editors' introduction.",
+  "units": [
+    {
+      "id": "fundierung/husserliana-33/001",
+      "locator": "husserliana-33-die-bernauer-manuskripte-uber-das-zeitbewusstsein-commentary#h2-iii",
+      "primary_locator": "Hua XXXIII, Editors' Introduction III",
+      "term": "apprehension / apprehension-content schema",
+      "status": "introduced",
+      "claim": "A second path consists in returning to the schema apprehension / apprehension-content and applying it not only to the constitution-relation between primal process and immanent time-objects but to the primal process itself and the ur-presentations, retentions and protentions animating its flow.",
+      "quote": "A second path consists in returning to the schema “apprehension – apprehension-content,” applying it not only to the constitution-relation between primal process and immanent time-objects but also to the primal process itself and the ur-presentations, retentions, and protentions animating its flow."
+    },
+    {
+      "id": "fundierung/husserliana-33/002",
+      "locator": "husserliana-33-die-bernauer-manuskripte-uber-das-zeitbewusstsein-commentary#h2-iii",
+      "primary_locator": "Hua XXXIII, Editors' Introduction III",
+      "term": "presupposition of time in the determination of its origin",
+      "status": "criticized",
+      "claim": "A more fundamental problem may affect the whole systematic approach: perhaps there can be no determination of the origin of time that does not already presuppose time.",
+      "quote": "Perhaps there simply can be no determination of the origin of time that does not already presuppose time."
+    },
+    {
+      "id": "fundierung/husserliana-33/003",
+      "locator": "husserliana-33-die-bernauer-manuskripte-uber-das-zeitbewusstsein-commentary#h4-s-3-closer-investigation-of-the-noematic-and-noetic-structure-of-temporal-object",
+      "primary_locator": "Hua XXXIII, Text Nr. 8 § 3",
+      "term": "being-in-the-original and being a real component",
+      "status": "criticized",
+      "claim": "Being-in-the-original must not be identified with being a real component of consciousness, since otherwise every outer perception would contain its object as a real datum.",
+      "quote": "But Husserl warns against simply identifying being-in-the-original with being-a-real-component-of-consciousness—otherwise every outer perception would contain its object as a real datum."
+    },
+    {
+      "id": "fundierung/husserliana-33/004",
+      "locator": "husserliana-33-die-bernauer-manuskripte-uber-das-zeitbewusstsein-commentary#h4-s-3-closer-investigation-of-the-noematic-and-noetic-structure-of-temporal-object",
+      "primary_locator": "Hua XXXIII, Text Nr. 8 § 3",
+      "term": "darstellende moments as functioning hyletic data",
+      "status": "presupposed",
+      "claim": "The presenting moments are in consciousness as functioning hyletic data and not as noematic data, and only an ideal transformation of them enters the noema.",
+      "quote": "The darstellende moments are in consciousness as functioning hyletic data, not as noematic data—an ideal transformation of them enters the noema."
+    },
+    {
+      "id": "fundierung/husserliana-33/005",
+      "locator": "husserliana-33-die-bernauer-manuskripte-uber-das-zeitbewusstsein-commentary#h3-supplement-iv-to-s-3-of-text-nr-8-is-the-presently-originally-given-tone-point-a",
+      "primary_locator": "Hua XXXIII, Supplement IV to Text Nr. 8 § 3",
+      "term": "non-independent consciousness-core",
+      "status": "revised",
+      "claim": "The apprehension-content schema cannot be applied as in outer-object consciousness, where the apprehension-content is itself a constituted object; the hyletic moment is instead a non-independent consciousness-core clothed with functions.",
+      "quote": "Not as in outer-object consciousness (where the apprehension-content is itself a constituted object), but the hyletic moment is a non-independent consciousness-core clothed with functions."
+    },
+    {
+      "id": "fundierung/husserliana-33/006",
+      "locator": "husserliana-33-die-bernauer-manuskripte-uber-das-zeitbewusstsein-commentary#h3-supplement-iv-to-s-3-of-text-nr-8-is-the-presently-originally-given-tone-point-a",
+      "primary_locator": "Hua XXXIII, Supplement IV to Text Nr. 8 § 3",
+      "term": "constituted unity never a piece of the constituting consciousness",
+      "status": "presupposed",
+      "claim": "Even for immanent objects the constituted unity of consciousness can never be a consciousness-piece in the constituting consciousness, so that everything noematic falls outside the reell stream.",
+      "quote": "Even for immanent objects, the constituted unity of consciousness can never be a consciousness-piece in the constituting consciousness."
+    },
+    {
+      "id": "fundierung/husserliana-33/007",
+      "locator": "husserliana-33-die-bernauer-manuskripte-uber-das-zeitbewusstsein-commentary#h4-s-1-outer-perception-is-founded-in-the-time-objects-of-immanent-perception",
+      "primary_locator": "Hua XXXIII, Text Nr. 9 § 1",
+      "term": "founding of outer perception in immanent experiences",
+      "status": "introduced",
+      "claim": "Every outer perception is founded in immanent experiences, and this means something quite different from the synthetic founding of spontaneous acts in spontaneous acts: the immanent givennesses need not first be grasped and the founded ones built upon them.",
+      "quote": "Every “outer perception” is thus founded in immanent experiences. This means something quite different from the synthetic founding of spontaneous acts in spontaneous acts: it does not mean immanent givennesses must first be grasped, then the founded ones built upon them."
+    },
+    {
+      "id": "fundierung/husserliana-33/008",
+      "locator": "husserliana-33-die-bernauer-manuskripte-uber-das-zeitbewusstsein-commentary#h4-s-1-outer-perception-is-founded-in-the-time-objects-of-immanent-perception",
+      "primary_locator": "Hua XXXIII, Text Nr. 9 § 1",
+      "term": "interweaving of a double objectivation",
+      "status": "introduced",
+      "claim": "Every outer perception is an interweaving of a double objectivation: it is in its essence a continuous course of inner perceptions of immanent temporalities, through which a second intentionality runs that constitutes the outer object in its transcendence and objective time through representation.",
+      "quote": "Every outer perception is an interweaving of a double objectivation: outer perception is in its essence a continuous course of “inner” perceptions (perceptions of immanent temporalities), through which a second intentionality runs, constituting the outer object in its transcendence and objective time through “representation.”"
+    },
+    {
+      "id": "fundierung/husserliana-33/009",
+      "locator": "husserliana-33-die-bernauer-manuskripte-uber-das-zeitbewusstsein-commentary#h4-s-3-various-concepts-of-apprehension-in-outer-and-immanent-perception-the-intent",
+      "primary_locator": "Hua XXXIII, Text Nr. 9 § 3",
+      "term": "founded acts of recognition",
+      "status": "presupposed",
+      "claim": "Among the senses of apprehension distinguished are the cases of recognizing a signal, a tool or a remembered object, all of which involve founded acts, as against immanent perceiving, which can no longer be called apprehending in the same sense.",
+      "quote": "(b) in cases like recognizing a signal, a tool, or a remembered object—all of which involve founded acts"
+    },
+    {
+      "id": "fundierung/husserliana-33/010",
+      "locator": "husserliana-33-die-bernauer-manuskripte-uber-das-zeitbewusstsein-commentary#h4-s-3-various-concepts-of-apprehension-in-outer-and-immanent-perception-the-intent",
+      "primary_locator": "Hua XXXIII, Text Nr. 9 § 3",
+      "term": "modification is not apprehension",
+      "status": "criticized",
+      "claim": "No consciousness that in itself modifies by its own intentional nature is an apprehending with regard to its modificate, so that retention, recollection and anticipation are not apprehendings but at best modifications of one.",
+      "quote": "no consciousness that in itself modifies (by its own intentional nature) is an apprehending regarding its modificate"
+    },
+    {
+      "id": "fundierung/husserliana-33/011",
+      "locator": "husserliana-33-die-bernauer-manuskripte-uber-das-zeitbewusstsein-commentary#h4-s-3-ur-presentation-and-retention-as-apprehensions-of-reell-contained-data",
+      "primary_locator": "Hua XXXIII, Text Nr. 10 § 3",
+      "term": "ur-retentions are not founded",
+      "status": "criticized",
+      "claim": "If the concrete retention is founded then so is each of its phases, but the ur-retentions are certainly not founded: there are no apprehension-data and no founded apprehending in the rejected sense.",
+      "quote": "If the concrete consciousness is founded, then so is each phase; but the ur-retentions are certainly not founded—we have no apprehension-data and no founded apprehending in the rejected sense."
+    },
+    {
+      "id": "fundierung/husserliana-33/012",
+      "locator": "husserliana-33-die-bernauer-manuskripte-uber-das-zeitbewusstsein-commentary#h4-s-5-counter-view-retention-is-not-founded-in-reell-given-present-data",
+      "primary_locator": "Hua XXXIII, Text Nr. 10 § 5",
+      "term": "retention not founded in reell given present data",
+      "status": "criticized",
+      "claim": "The counter-view denies that retentional consciousness involves founding by a present consciousness and inserts no sensation-present as momentary-present: ur-presence is a non-independent consciousness of a content that cannot be without extension.",
+      "quote": "The counter-view denies that retentional consciousness involves founding by a present consciousness and does not insert a sensation-present as momentary-present."
+    },
+    {
+      "id": "fundierung/husserliana-33/013",
+      "locator": "husserliana-33-die-bernauer-manuskripte-uber-das-zeitbewusstsein-commentary#h4-s-1-the-eidetic-shape-of-psychic-interiority-temporal-ur-genesis-ego-and-hyle",
+      "primary_locator": "Hua XXXIII, Text Nr. 15 § 1",
+      "term": "hyle as unconditionally first necessity",
+      "status": "introduced",
+      "claim": "To a non-reflexive environment there necessarily belongs a hyle, a hyletic environment as an unconditionally first necessity, so that in oriented immanent time there is no Now without a hyletic ur-impression.",
+      "quote": "To it necessarily belongs a hyle — a “hyletic environment” as an unconditionally first necessity. No point of immanent time without this first objective content: in oriented immanent time, no Now without a hyletic ur-impression."
+    },
+    {
+      "id": "fundierung/husserliana-33/014",
+      "locator": "husserliana-33-die-bernauer-manuskripte-uber-das-zeitbewusstsein-commentary#h4-s-1-the-eidetic-shape-of-psychic-interiority-temporal-ur-genesis-ego-and-hyle",
+      "primary_locator": "Hua XXXIII, Text Nr. 15 § 1",
+      "term": "Ur-genesis underlying every further genesis",
+      "status": "introduced",
+      "claim": "Ur-genesis as eidetic form, the form of the constitution of immanent hyletic objects, underlies every further genesis, and all genesis takes place in the ur-form of time-constituting consciousness.",
+      "quote": "Ur-genesis (as eidetic form) — the form of the constitution of immanent hyletic objects — underlies every further genesis. All genesis takes place in the ur-form of time-constituting consciousness."
+    },
+    {
+      "id": "fundierung/husserliana-33/015",
+      "locator": "husserliana-33-die-bernauer-manuskripte-uber-das-zeitbewusstsein-commentary#h4-s-2-the-pure-ego-and-time-the-ego-as-all-temporal-individual-and-as-secondary-ti",
+      "primary_locator": "Hua XXXIII, Text Nr. 15 § 2",
+      "term": "second series founded upon the basic series",
+      "status": "introduced",
+      "claim": "A basic series of contingent objects fills immanent time, and upon it another series of temporally enduring objects - affections, turnings, comportments - is founded, having its necessary unity in the eternal ego.",
+      "quote": "a basic series of contingent “objects” fills this time, and upon it another series of temporally enduring objects (affections, turnings, comportments) is founded, having their necessary unity in the “eternal” ego"
+    },
+    {
+      "id": "fundierung/husserliana-33/016",
+      "locator": "husserliana-33-die-bernauer-manuskripte-uber-das-zeitbewusstsein-commentary#h4-s-2-the-tode-ti-the-concrete-temporally-individuated-essence-and-its-temporal-ex",
+      "primary_locator": "Hua XXXIII, Text Nr. 17 § 2",
+      "term": "abstract (non-independent) essences",
+      "status": "introduced",
+      "claim": "We are led back to individuals whose essence is concrete: concrete essence contains abstract, non-independent essences, and every essence is individualized through the tode ti.",
+      "quote": "Concrete essence contains abstract (non-independent) essences; every essence is individualized through the τόδε τι."
+    },
+    {
+      "id": "fundierung/husserliana-33/017",
+      "locator": "husserliana-33-die-bernauer-manuskripte-uber-das-zeitbewusstsein-commentary#h4-s-2-the-tode-ti-the-concrete-temporally-individuated-essence-and-its-temporal-ex",
+      "primary_locator": "Hua XXXIII, Text Nr. 17 § 2",
+      "term": "temporal extension as a distinguished abstractum",
+      "status": "presupposed",
+      "claim": "Temporal extension belongs to the formal essence of the concretum and, as a moment of an essence, is itself an abstract essence occupying a distinguished position, since every other abstractum is temporally extended.",
+      "quote": "temporal extension, as moment of an essence, is itself an abstract essence occupying a distinguished position: every other abstractum is temporally extended (spreads over the temporal extension)"
+    },
+    {
+      "id": "fundierung/husserliana-33/018",
+      "locator": "husserliana-33-die-bernauer-manuskripte-uber-das-zeitbewusstsein-commentary#h4-s-1-the-difference-between-the-temporal-extension-of-individual-and-general-obje",
+      "primary_locator": "Hua XXXIII, Text Nr. 18 § 1",
+      "term": "Allgegenwart of the general object",
+      "status": "introduced",
+      "claim": "The general does not spread into time in the proper sense and does not integrate through phases of ever-new content; immanent time is the givenness-form of all objects, but general objects have their omnipresence in time.",
+      "quote": "The general does not spread into time in the proper sense; it does not grow, develop, integrate through phases of ever-new content. Immanent time is the givenness-form of all objects, but general objects have their omnipresence (*Allgegenwart*) in time"
+    },
+    {
+      "id": "fundierung/husserliana-33/019",
+      "locator": "husserliana-33-die-bernauer-manuskripte-uber-das-zeitbewusstsein-commentary#h4-s-2-the-one-time-and-the-many-times-in-sensation-objects-natural-objects-and-gen",
+      "primary_locator": "Hua XXXIII, Text Nr. 18 § 2",
+      "term": "givenness-time and Wesenszeit",
+      "status": "introduced",
+      "claim": "For sensation-objects the givenness-time is at the same time essence-time, a constitutional being-form and not merely a givenness-form, whereas for essence-objects time is a givenness-form only and no constitutive moment of theirs is a duration.",
+      "quote": "for sensation-objects, givenness-time is simultaneously essence-time (*Wesenszeit*) — they are in the givenness-time, have in it not merely a givenness-form but a constitutional being-form"
+    },
+    {
+      "id": "fundierung/husserliana-33/020",
+      "locator": "husserliana-33-die-bernauer-manuskripte-uber-das-zeitbewusstsein-commentary#h4-s-3-the-temporal-essential-determinations-of-the-constituting-consciousness-and",
+      "primary_locator": "Hua XXXIII, Text Nr. 18 § 3",
+      "term": "higher-level intentionalities",
+      "status": "introduced",
+      "claim": "There are higher-level intentionalities, such as essence-intuition, for which the times constituted in the lower-level objects have no representing significance for the higher objects.",
+      "quote": "But there are also higher-level intentionalities (like essence-intuition) where the times constituted in the lower-level objects have no representing significance for the higher objects."
+    },
+    {
+      "id": "fundierung/husserliana-33/021",
+      "locator": "husserliana-33-die-bernauer-manuskripte-uber-das-zeitbewusstsein-commentary#h4-s-3-the-temporal-essential-determinations-of-the-constituting-consciousness-and",
+      "primary_locator": "Hua XXXIII, Text Nr. 18 § 3",
+      "term": "immanent time as apprehensive representative",
+      "status": "presupposed",
+      "claim": "Where objects are mediately constituted, as physical spatial objects are, immanent time serves as apprehensive representative, and through this representation an objective apprehended time accrues to them.",
+      "quote": "When objects are mediately constituted (e.g., “physical” spatial objects), immanent time serves as apprehensive representative — and through this representation, an “objective” apprehended time accrues."
+    },
+    {
+      "id": "fundierung/husserliana-33/022",
+      "locator": "husserliana-33-die-bernauer-manuskripte-uber-das-zeitbewusstsein-commentary#h4-s-3-the-temporal-essential-determinations-of-the-constituting-consciousness-and",
+      "primary_locator": "Hua XXXIII, Text Nr. 18 § 3",
+      "term": "essence of a duration intuited on the basis of given durations",
+      "status": "presupposed",
+      "claim": "In essence-intuiting acts the essence of a duration is intuited on the basis of given durations, while the constituted object is itself no duration and contains no duration as a part.",
+      "quote": "In essence-intuiting acts, the essence of a duration is intuited on the basis of given durations — but the constituted object is itself no duration and contains no duration as part."
+    },
+    {
+      "id": "fundierung/husserliana-33/023",
+      "locator": "husserliana-33-die-bernauer-manuskripte-uber-das-zeitbewusstsein-commentary#h3-supplement-xiii-to-s-1-of-text-nr-18-acts-as-events-in-phenomenological-time-ide",
+      "primary_locator": "Hua XXXIII, Supplement XIII to Text Nr. 18 § 1",
+      "term": "Überzeitlichkeit / supra-temporality",
+      "status": "introduced",
+      "claim": "The supra-temporality of eidetic objects and states of affairs does not mean a lack of relation to time: it belongs to their essence that they can be originally constituted at any time, and an identifying consciousness can span repeated constitutions.",
+      "quote": "But their supra-temporality (*Überzeitlichkeit*) does not mean lack of relation to time; rather, it belongs to their essence that they can be originally constituted at any time, and an identifying consciousness can span repeated constitutions, so that what is constituted at different time-positions is identically the same."
+    },
+    {
+      "id": "fundierung/husserliana-33/024",
+      "locator": "husserliana-33-die-bernauer-manuskripte-uber-das-zeitbewusstsein-commentary#h3-supplement-xiv-to-s-1-of-text-nr-18-problems-various-forms-of-temporal-unity-the",
+      "primary_locator": "Hua XXXIII, Supplement XIV to Text Nr. 18 § 1",
+      "term": "the state of affairs constitutes itself in steps",
+      "status": "introduced",
+      "claim": "The state of affairs constitutes itself in steps and lies in time in a certain way, but its temporality is not the temporality of its object, and an individual state of affairs has merely temporal validity where an eidetic one has supra-individual validity.",
+      "quote": "The state of affairs constitutes itself in steps and lies in time in a certain way, but its temporality is not the temporality of its object."
+    },
+    {
+      "id": "fundierung/husserliana-33/025",
+      "locator": "husserliana-33-die-bernauer-manuskripte-uber-das-zeitbewusstsein-commentary#h3-supplement-xv-to-text-nr-18-the-time-relation-of-states-of-affairs-the-non-tempo",
+      "primary_locator": "Hua XXXIII, Supplement XV to Text Nr. 18",
+      "term": "Verwirklichung / temporal realization",
+      "status": "presupposed",
+      "claim": "The thought state of affairs receives orientation-givenness but has no real being in time, only a temporal realization that does not prevent the identity of what is variously realized.",
+      "quote": "the thought state-of-affairs, though receiving orientation-givenness (Now, just-past), does not have a “real being in time” but a temporal “realization” (*Verwirklichung*) that does not prevent the identity of what is variously realized"
+    }
+  ],
+  "absences": [
+    {
+      "locator": "husserliana-33-die-bernauer-manuskripte-uber-das-zeitbewusstsein-commentary#h4-s-2-retention-and-re-presentation-unlike-phantasy-and-image-consciousness-retent",
+      "expected_because": "The section decides the status of retention by comparing it with image-consciousness and asking whether the fading tone is an image for the earlier tone, and image-consciousness is the case in which a depicting act is built on a perceptual one.",
+      "note": "The comparison is settled by continuity against discreteness - perception-consciousness and image-consciousness are said to be discretely different while the retentional modification is continuous - and not by asking what is built on what.",
+      "absent_terms": [
+        "Fundierung",
+        "fundiert",
+        "founded",
+        "founding",
+        "foundation",
+        "stratum",
+        "strata",
+        "higher level",
+        "higher-order",
+        "non-independent"
+      ]
+    },
+    {
+      "locator": "husserliana-33-die-bernauer-manuskripte-uber-das-zeitbewusstsein-commentary#h4-s-2-the-identical-non-objectual-and-non-temporal-ego-as-functioning-pole-primal",
+      "expected_because": "The ego is set out here as non-temporal primal-stand for all objecthood which nevertheless acquires a temporal stock through its functioning, and § 2 of Text Nr. 15 states that same relation as one series founded upon another.",
+      "note": "Here the relation is put as functioning, accruing and reflection - a temporal stock accrues from ego-function and directs reflection toward the functioning ego - so the asymmetry is described without being named a founding.",
+      "absent_terms": [
+        "Fundierung",
+        "fundiert",
+        "founded",
+        "founding",
+        "foundation",
+        "stratum",
+        "strata",
+        "higher level",
+        "higher-order",
+        "non-independent"
+      ]
+    }
+  ]
+}

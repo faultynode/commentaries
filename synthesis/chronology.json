@@ -820,6 +820,30 @@
       ]
     },
     {
+      "commentary": "kant-kritik-der-reinen-vernunft-commentary",
+      "role": "primary",
+      "status": "resolved",
+      "strata": [
+        {
+          "id": "kant-kdrv-a-1781",
+          "label": "*Kritik der reinen Vernunft*, first edition (A), 1781",
+          "year_start": 1781,
+          "year_end": 1781,
+          "stated_in_commentary": true,
+          "evidence": "\"the original 1781 dedication of the A edition had a different wording (more elaborately metaphysical: about the “speculative life” being content under modest wishes with the approval of an enlightened judge), which Kant replaced in 1787 with the present more compact formula\" (Dedication)"
+        },
+        {
+          "id": "kant-kdrv-b-1787",
+          "label": "*Kritik der reinen Vernunft*, second edition (B), 1787",
+          "year_start": 1787,
+          "year_end": 1787,
+          "stated_in_commentary": true,
+          "evidence": "\"Königsberg, den 23sten April 1787\" (Dedication); \"*Königsberg, in the month of April 1787\\.*\" closing the Preface to the Second Edition"
+        }
+      ],
+      "note": "The commentary marks its editorial layers by heading rather than by passage: it prints both Introductions (Edition A and Edition B) and heads the Transcendental Deduction it reads 'Second Section [B-edition]', so §§ 15-24 are B-only and can be tagged kant-kdrv-b-1787, while the Aesthetic and the Analytic of Concepts §§ 9-14 run in both editions and the commentary notes the B additions (§§ 11-12) as such. Individual units are left untagged where the commentary does not assign the passage to an edition. The file covers only pp. 1-190 of the Meiner edition, stopping at about B153."
+    },
+    {
       "commentary": "kern-husserl-and-kant-commentary",
       "role": "reception",
       "status": "resolved",

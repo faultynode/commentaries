@@ -1,0 +1,316 @@
+{
+  "schema_version": 1,
+  "theme": "fundierung",
+  "commentary": "husserl-erfahrung-und-urteil-commentary",
+  "source_sha256": "82c4ca54e212939aeb705d8aa3ecf44065fe852bd013910cfcf8326007d09b15",
+  "extracted_at": "2026-09-24",
+  "extractor": {
+    "agent": "claude-code",
+    "model": "claude-opus-5",
+    "prompt": "synthesis/prompts/extraction-prompt.md",
+    "note": "source_sha256 is the LF digest from synthesis/corpus.json (CRLF checkout, so a local validate reports a false staleness; CI on LF passes). Of the six commentaries in this run this is the one that carries the theme in its own vocabulary throughout: the founding of predicative on pre-predicative evidence is the book's argument, and the record follows it from the statement of the levels of the evidence-problem to the eidos. No unit carries a stratum, and none can: chronology.json holds this commentary as status 'unresolved' on a single eu-undated stratum with stated_in_commentary false, because the file nowhere identifies the Landgrebe compilation layers - the standing gap STATUS.md records and gap-015 turns on. Nothing here should be read as dating any of these claims. Read in full: the Introduction §§ 1, 2, 4, 6, 9-14; Part I §§ 19, 27, 33, 35, 36, 39, 40 and 43; Part II §§ 58, 59, 62 and 69; Part III § 84(a-b), § 87(c) and § 92."
+  },
+  "coverage": "partial",
+  "coverage_note": "Covers the founding doctrine along the book's own line of argument. (1) The Introduction's programme: origin as the uncovering of founding relations, the question which judgment-form is lowest and founds all others, the levels of the evidence-problem with judgment-evidence essentially founded in objectual evidence, logical achievement already present in strata the tradition did not see, the sense-foundation of every scientific result in the life-world, the distinction of plain from founded experiences with nature as the lowest all-other-things-founding stratum, receptivity as a lower level of egoic activity against the higher level of predicative spontaneity, and the manifold constitutive strata the analyses presuppose without treating. (2) Part I on receptive experience: non-original explication as founded upon original explication, the relation-founding unity and the passive temporal unity of perception as the most universal foundation of all relating, and comparison as founded upon explication. (3) Part II on the objectualities of the understanding: the preconstitution of the state of affairs and its extraction through substantivization, the distinction of Sachlage from Sachverhalt with plainly givable objects as the sources of states of affairs, the iterability by which the products of one level become substrates for the next, and the state of affairs as a sense-objectuality. (4) Part III on universalities: the concretum as the lowest universality founded in no other, the higher-level universalities on the basis of mere similarity, the eidos grounding itself as a higher level upon the variation-manifold, and the level-structure of pure universalities up to the regions. Not covered: §§ 3, 5, 7, 8, 15-18, 20-26, 28-32, 34, 37, 38, 41, 42, 44-57, 60, 61, 63-68, 70-83, 85, 86, 88-91, 93-100 and the Appendices.",
+  "units": [
+    {
+      "id": "fundierung/husserl-eu/001",
+      "locator": "husserl-erfahrung-und-urteil-commentary#h3-s1-the-predicative-judgment-as-the-central-theme-in-the-genealogy-of-logic",
+      "primary_locator": "Erfahrung und Urteil § 1",
+      "term": "Ursprung as uncovering of founding relations",
+      "status": "introduced",
+      "claim": "The word Ursprung does not mean temporal or causal genesis but the uncovering of the essential structures and founding relations that make the predicative judgment possible.",
+      "quote": "The word *Ursprung* here does not mean temporal or causal genesis but rather the uncovering of the essential structures and founding relations that make the predicative judgment possible"
+    },
+    {
+      "id": "fundierung/husserl-eu/002",
+      "locator": "husserl-erfahrung-und-urteil-commentary#h3-s1-the-predicative-judgment-as-the-central-theme-in-the-genealogy-of-logic",
+      "primary_locator": "Erfahrung und Urteil § 1",
+      "term": "hidden presuppositions in the lower strata",
+      "status": "introduced",
+      "claim": "Logical achievement is already present in strata where the tradition did not see it, the traditional problematic begins only at a relatively high level, and in those lower strata lie the hidden presuppositions on the basis of which the logician's higher-level evidences can be made intelligible.",
+      "quote": "that the traditional logical problematic only begins at a relatively high level, but moreover that precisely in those lower strata lie the hidden presuppositions on the basis of which alone the sense and right of the logician's higher-level evidences can ultimately be made intelligible"
+    },
+    {
+      "id": "fundierung/husserl-eu/003",
+      "locator": "husserl-erfahrung-und-urteil-commentary#h3-s2-the-traditional-determination-and-privileged-position-of-the-predicative-judg",
+      "primary_locator": "Erfahrung und Urteil § 2",
+      "term": "the lowest form founding all others",
+      "status": "introduced",
+      "claim": "Among the traditionally distinguished judgment-forms it is asked which is the most original, the one that as lowest and founding all others must be presupposed and thought of as already given for other, higher-level forms to be built upon it.",
+      "quote": "which of the manifold traditionally distinguished judgment-forms is the most original — the one that, as lowest and founding all others, must be presupposed and thought of as already given in order for other, “higher-level” forms to be built upon it?"
+    },
+    {
+      "id": "fundierung/husserl-eu/004",
+      "locator": "husserl-erfahrung-und-urteil-commentary#h3-s4-the-levels-of-the-evidence-problem-objectual-evidence-as-a-precondition-for-p",
+      "primary_locator": "Erfahrung und Urteil § 4",
+      "term": "gegenständliche Evidenz / objectual evidence",
+      "status": "introduced",
+      "claim": "The evidence of judgment presupposes the evidence of the objects about which it judges: the objectual evidence is the lower level and the judgment-evidence the higher level that presupposes it.",
+      "quote": "The objectual evidence is the lower level; the judgment-evidence is the higher level that presupposes it."
+    },
+    {
+      "id": "fundierung/husserl-eu/005",
+      "locator": "husserl-erfahrung-und-urteil-commentary#h3-s4-the-levels-of-the-evidence-problem-objectual-evidence-as-a-precondition-for-p",
+      "primary_locator": "Erfahrung und Urteil § 4",
+      "term": "fundiert in",
+      "status": "introduced",
+      "claim": "The relation is not a psychological observation about temporal precedence but a claim about essential founding relations: the evidence of the predicative judgment is essentially founded upon the evidence of the objects serving as its substrates.",
+      "quote": "The evidence of the predicative judgment is essentially founded upon (*fundiert in*) the evidence of the objects that serve as its substrates. This founding relation is a structural, essential one"
+    },
+    {
+      "id": "fundierung/husserl-eu/006",
+      "locator": "husserl-erfahrung-und-urteil-commentary#h3-s6-experience-as-evidence-of-individual-objects-theory-of-pre-predicative-experi",
+      "primary_locator": "Erfahrung und Urteil § 6",
+      "term": "founding of predicative evidences in experiential evidences",
+      "status": "presupposed",
+      "claim": "The origin-clarification seeks the founding of predicative evidences in experiential evidences, and the investigation must begin with pre-predicative experience-consciousness and proceed upward, following the genesis of the higher-level evidences.",
+      "quote": "The investigation must begin with pre-predicative experience-consciousness and proceed upward from there, following the genesis of the higher-level evidences."
+    },
+    {
+      "id": "fundierung/husserl-eu/007",
+      "locator": "husserl-erfahrung-und-urteil-commentary#h3-s10-the-regress-to-the-evidence-of-experience-as-regress-to-the-life-world-disma",
+      "primary_locator": "Erfahrung und Urteil § 10",
+      "term": "Sinnesfundament / sense-foundation",
+      "status": "presupposed",
+      "claim": "Science is a garment of ideas thrown over the world of immediate intuition and experience, so that every result of science has its sense-foundation in that immediate experience and world of experience and is referred back to it.",
+      "quote": "so that every result of science has its sense-foundation in this immediate experience and world of experience and is referred back to it"
+    },
+    {
+      "id": "fundierung/husserl-eu/008",
+      "locator": "husserl-erfahrung-und-urteil-commentary#h3-s12-the-approach-of-the-individual-analyses-the-distinction-between-plain-and-fo",
+      "primary_locator": "Erfahrung und Urteil § 12",
+      "term": "schlichte und fundierte Erfahrungen",
+      "status": "introduced",
+      "claim": "We must distinguish between plain and founded experiences: the world as passively pregiven in belief-certainty is pregiven in plain experience, and every experience with the sense of being of a plain substrate is sensory experience.",
+      "quote": "We must therefore distinguish between plain (*schlichte*) and founded (*fundierte*) experiences. The world, as passively pregiven in belief-certainty and providing the ground of belief for all individual judging, is pregiven in plain experience, as a world of plainly, sensuously apprehensible substrates."
+    },
+    {
+      "id": "fundierung/husserl-eu/009",
+      "locator": "husserl-erfahrung-und-urteil-commentary#h3-s12-the-approach-of-the-individual-analyses-the-distinction-between-plain-and-fo",
+      "primary_locator": "Erfahrung und Urteil § 12",
+      "term": "nature as the lowest all-other-things-founding stratum",
+      "status": "introduced",
+      "claim": "Nature in the world of our experience is the lowest, all-other-things-founding stratum: beings in their plainly experienceable properties are what underlies all other ways of experiencing as substrate and lies at the base as invariant through all changing relativity of valuations.",
+      "quote": "Nature in the world of our experience is the lowest, all-other-things-founding stratum; beings in their plainly experienceable properties as nature are what underlies all other ways of experiencing as substrate, what our valuing and practical doing operates on"
+    },
+    {
+      "id": "fundierung/husserl-eu/010",
+      "locator": "husserl-erfahrung-und-urteil-commentary#h3-s12-the-approach-of-the-individual-analyses-the-distinction-between-plain-and-fo",
+      "primary_locator": "Erfahrung und Urteil § 12",
+      "term": "expression-founding corporeal",
+      "status": "introduced",
+      "claim": "The perception of what is perceivable only through understanding of expression presupposes a sensory perception of the expression-founding corporeal and a transition into a reflection that brings a co-being of personal or animal subjectivity to certainty in this founded manner.",
+      "quote": "Both presuppose a sensory perception of the expression-founding corporeal and from there the transition into a reflection that mediately or immediately brings a co-being of human-personal (egoic) or animal subjectivity to final certainty"
+    },
+    {
+      "id": "fundierung/husserl-eu/011",
+      "locator": "husserl-erfahrung-und-urteil-commentary#h3-s12-the-approach-of-the-individual-analyses-the-distinction-between-plain-and-fo",
+      "primary_locator": "Erfahrung und Urteil § 12",
+      "term": "regress from founded to plainest experiences",
+      "status": "presupposed",
+      "claim": "To reach the ultimate and original evidences of pre-predicative experience we must regress from the founded experiences to the plainest and for this purpose put all expression out of function, since every experience finding beings determined otherwise than by their natural properties refers back to an understanding of expression.",
+      "quote": "In order to reach the truly ultimate and original evidences of pre-predicative experience, we must regress from these founded experiences to the plainest, and for this purpose put all expression out of function."
+    },
+    {
+      "id": "fundierung/husserl-eu/012",
+      "locator": "husserl-erfahrung-und-urteil-commentary#h3-s13-the-general-concept-of-judgment-and-of-the-object-judgment-as-determination",
+      "primary_locator": "Erfahrung und Urteil § 13",
+      "term": "ultimate substrates for all further determinations",
+      "status": "presupposed",
+      "claim": "All concrete experience rests at bottom on the original doxa that gives plain ultimate substrates, and the natural bodies pregiven in it are ultimate substrates for all further determinations, cognitive, practical and evaluative alike.",
+      "quote": "The natural bodies pregiven in it are ultimate substrates for all further determinations — cognitive, practical, and evaluative alike. These all attach to these plainly apprehensible substrates."
+    },
+    {
+      "id": "fundierung/husserl-eu/013",
+      "locator": "husserl-erfahrung-und-urteil-commentary#h3-s13-the-general-concept-of-judgment-and-of-the-object-judgment-as-determination",
+      "primary_locator": "Erfahrung und Urteil § 13",
+      "term": "receptivity as lower level of egoic activity",
+      "status": "introduced",
+      "claim": "Receptivity, the level of perceptual contemplating and explicating, is a lower level of egoic activity distinguished from the higher level, the spontaneity of predicative judging.",
+      "quote": "as a lower level of egoic activity (the level of receptivity) — of perceptual contemplating, explicating, and so on — is distinguished from the higher level, the spontaneity of predicative judging"
+    },
+    {
+      "id": "fundierung/husserl-eu/014",
+      "locator": "husserl-erfahrung-und-urteil-commentary#h3-s14-the-necessity-of-starting-the-analyses-from-outer-perception-and-the-percept",
+      "primary_locator": "Erfahrung und Urteil § 14",
+      "term": "fundamental stratum underlying all experiencing",
+      "status": "presupposed",
+      "claim": "The contemplatively-perceptually lived-out interest is the activation of the fundamental aisthesis, the passive original doxa, that fundamental stratum which underlies all experiencing in the concrete sense.",
+      "quote": "The contemplatively-perceptually lived-out interest is the activation of the fundamental *aisthēsis*, the passive original doxa — that fundamental stratum that underlies all experiencing in the concrete sense."
+    },
+    {
+      "id": "fundierung/husserl-eu/015",
+      "locator": "husserl-erfahrung-und-urteil-commentary#h3-s14-the-necessity-of-starting-the-analyses-from-outer-perception-and-the-percept",
+      "primary_locator": "Erfahrung und Urteil § 14",
+      "term": "evidence founded in no other evidence",
+      "status": "introduced",
+      "claim": "In merely contemplative perceiving the constitution of predicative judging upon pre-predicative perceptual experiencing is most easily demonstrated, since here there are objectual evidences that can be made visible as pre-predicative, the evidence of contemplative perceiving and explicating being founded in no other evidence.",
+      "quote": "here there are objectual evidences that can straightforwardly be made visible as pre-predicative — the evidence of contemplative perceiving and explicating that is founded in no other evidence"
+    },
+    {
+      "id": "fundierung/husserl-eu/016",
+      "locator": "husserl-erfahrung-und-urteil-commentary#h3-s14-the-necessity-of-starting-the-analyses-from-outer-perception-and-the-percept",
+      "primary_locator": "Erfahrung und Urteil § 14",
+      "term": "presupposed constitutive strata",
+      "status": "presupposed",
+      "claim": "Already presupposed where these analyses set in are manifold constitutive strata and achievements, among them the whole constitution of thing-perception in all its levels and the constitution of the acts in inner time-consciousness, which lie still deeper than the investigations carried out here.",
+      "quote": "Already presupposed at the point where our analyses set in are manifold constitutive strata and achievements: it is presupposed that a field of spatial-thingly pregivennesses is already constituted, and with it the entire stratum of constitutive investigations concerning the constitution of thing-perception in all its levels"
+    },
+    {
+      "id": "fundierung/husserl-eu/017",
+      "locator": "husserl-erfahrung-und-urteil-commentary#h3-s27-original-and-non-original-modes-of-explication-explication-in-anticipation-a",
+      "primary_locator": "Erfahrung und Urteil § 27",
+      "term": "non-original explication founded upon original",
+      "status": "introduced",
+      "claim": "Anticipatory and reproductive explication are non-original modes founded upon original explication, anticipatory explication being possible only because the typical determinations of the object are already available from previous experience.",
+      "quote": "These non-original modes of explication are founded upon original explication. Anticipatory explication operates within the horizon of what has been previously experienced"
+    },
+    {
+      "id": "fundierung/husserl-eu/018",
+      "locator": "husserl-erfahrung-und-urteil-commentary#h3-s33-horizon-consciousness-and-relating-contemplation",
+      "primary_locator": "Erfahrung und Urteil § 33",
+      "term": "relating contemplation as a founded level",
+      "status": "introduced",
+      "claim": "Relating contemplation, which brings different objects into relation, is a new level of pre-predicative achievement founded upon the previous levels, and its foundation lies in the horizon-structure of experience.",
+      "quote": "This is a new level of pre-predicative achievement, founded upon the previous levels."
+    },
+    {
+      "id": "fundierung/husserl-eu/019",
+      "locator": "husserl-erfahrung-und-urteil-commentary#h3-s35-the-question-of-the-essence-of-the-relation-founding-unity",
+      "primary_locator": "Erfahrung und Urteil § 35",
+      "term": "relation-founding unity",
+      "status": "introduced",
+      "claim": "Objects brought into relation must be given within the unity of one consciousness and one temporal stream of experience, and this temporal unity is the most universal foundation for all relating, beyond which there are more specific ones.",
+      "quote": "This temporal unity is the most universal foundation for all relating; it makes possible the bringing-together of any two objects whatsoever. But beyond this universal foundation, there are more specific ones"
+    },
+    {
+      "id": "fundierung/husserl-eu/020",
+      "locator": "husserl-erfahrung-und-urteil-commentary#h3-s36-the-passive-temporal-unity-of-perception",
+      "primary_locator": "Erfahrung und Urteil § 36",
+      "term": "passive co-givenness as foundation of the simplest relating",
+      "status": "presupposed",
+      "claim": "The most basic relation-founding unity is the passive temporal unity of perception, in which the togetherness of the objects of the perceptual field is not an active achievement of the ego but a passive pregivenness that provides the foundation for the simplest relating.",
+      "quote": "This passive co-givenness provides the foundation for the simplest kind of relating: the relating of objects that are perceptually co-present."
+    },
+    {
+      "id": "fundierung/husserl-eu/021",
+      "locator": "husserl-erfahrung-und-urteil-commentary#h3-s43-connection-relations-and-comparison-relations",
+      "primary_locator": "Erfahrung und Urteil § 43",
+      "term": "comparing founded upon explicating",
+      "status": "introduced",
+      "claim": "Comparing is founded upon explicating: the relevant properties of each object must have been brought to givenness before they can be compared.",
+      "quote": "Comparing is thus founded upon explicating: one must have brought to givenness the relevant properties of each object before one can compare them."
+    },
+    {
+      "id": "fundierung/husserl-eu/022",
+      "locator": "husserl-erfahrung-und-urteil-commentary#h3-s58-transition-to-a-new-level-of-predicative-achievements-the-preconstitution-of",
+      "primary_locator": "Erfahrung und Urteil § 58",
+      "term": "Sachverhalt preconstituted in the judgment",
+      "status": "introduced",
+      "claim": "In the predicative judgment a new kind of objectuality is preconstituted that is identical with neither the substrate nor the determination: the state of affairs, the correlate of the judgment as a whole.",
+      "quote": "In the predicative judgment “S is p,” a new kind of objectuality is preconstituted that is not identical with either the substrate S or the determination p: the state of affairs (*Sachverhalt*) — “that S is p.”"
+    },
+    {
+      "id": "fundierung/husserl-eu/023",
+      "locator": "husserl-erfahrung-und-urteil-commentary#h3-s59-plainly-givable-objects-as-sources-of-states-of-affairs-sachlagen-sachlage-a",
+      "primary_locator": "Erfahrung und Urteil § 59",
+      "term": "Sachlage and Sachverhalt",
+      "status": "introduced",
+      "claim": "The plainly givable objects of receptive experience are the sources of states-of-affairs, so that the Sachverhalt is no free creation of the understanding but an articulation in categorial form of what is already pre-predicatively given in the Sachlage.",
+      "quote": "The *Sachverhalt* is thus not a free creation of the understanding but an articulation — in categorial form — of what is already pre-predicatively given in the *Sachlage*."
+    },
+    {
+      "id": "fundierung/husserl-eu/024",
+      "locator": "husserl-erfahrung-und-urteil-commentary#h3-s62-objectualities-of-the-understanding-as-sources-of-sachlagen-and-sachverhalte",
+      "primary_locator": "Erfahrung und Urteil § 62",
+      "term": "iterability of the categorial",
+      "status": "introduced",
+      "claim": "Categorial objectualities can themselves become substrates of further predications and so sources of new states of affairs: the products of one level of predicative activity become the substrates for the next, and the understanding can build up ever higher levels of categorial complexity.",
+      "quote": "This iterability is essential to the life of the understanding: the products of one level of predicative activity become the substrates for the next."
+    },
+    {
+      "id": "fundierung/husserl-eu/025",
+      "locator": "husserl-erfahrung-und-urteil-commentary#h3-s69-what-is-meant-in-the-judgment-as-such-and-true-state-of-affairs-in-what-sens",
+      "primary_locator": "Erfahrung und Urteil § 69",
+      "term": "Sinngegenständlichkeit / sense-objectuality",
+      "status": "introduced",
+      "claim": "The state of affairs, whether as meant or as truly obtaining, is a sense-objectuality: not a thing in the world but a correlate of meaning constituted in and through the activity of the understanding, and an objectuality of a different kind from the things of perceptual experience.",
+      "quote": "It is not a thing in the world but a correlate of meaning — an objectuality constituted in and through the activity of the understanding."
+    },
+    {
+      "id": "fundierung/husserl-eu/026",
+      "locator": "husserl-erfahrung-und-urteil-commentary#h4-a-the-concrete-universality-as-the-universal-of-the-repetition-of-completely-equ",
+      "primary_locator": "Erfahrung und Urteil § 84",
+      "term": "concretum as lowest universality",
+      "status": "introduced",
+      "claim": "The universal of the repetition of self-standing objects, the concretum, is the lowest universality and as a universality the most self-standing, founded in no other universalities.",
+      "quote": "This universal of repetition of self-standing objects is the lowest universality, as a universality the most self-standing — not founded in other universalities."
+    },
+    {
+      "id": "fundierung/husserl-eu/027",
+      "locator": "husserl-erfahrung-und-urteil-commentary#h4-b-the-higher-level-universalities-as-universalities-on-the-basis-of-mere-similar",
+      "primary_locator": "Erfahrung und Urteil § 84",
+      "term": "higher-level universalities on the basis of similarity",
+      "status": "introduced",
+      "claim": "Where the equality of the extension-members of a universality is no longer complete equality, higher-level universalities arise, complete equality having been grasped as the limit of similarity.",
+      "quote": "When the equality of the extension-members of a universality is no longer complete equality, higher-level universalities arise. Complete equality was grasped as the limit of similarity."
+    },
+    {
+      "id": "fundierung/husserl-eu/028",
+      "locator": "husserl-erfahrung-und-urteil-commentary#h4-c-the-holding-in-grasp-of-the-whole-variation-manifold-as-the-basis-of-essence-i",
+      "primary_locator": "Erfahrung und Urteil § 87",
+      "term": "eidos grounding itself as a higher level",
+      "status": "introduced",
+      "claim": "Upon the manifold of the constituting open process of variation, with the variants actually entering into intuition, the proper intuiting of the universal as eidos grounds itself as a higher level.",
+      "quote": "Upon this manifold — upon the foundation of the constituting open process of variation with the variants actually entering into intuition — there grounds itself as a higher level the proper intuiting of the universal as *eidos*."
+    },
+    {
+      "id": "fundierung/husserl-eu/029",
+      "locator": "husserl-erfahrung-und-urteil-commentary#h3-s92-the-level-structure-of-pure-universalities-and-the-gaining-of-the-highest-co",
+      "primary_locator": "Erfahrung und Urteil § 92",
+      "term": "idea from ideas",
+      "status": "introduced",
+      "claim": "Pure universalities can themselves function as variants, from which in a higher level a universal is to be discerned, an idea from ideas, leading ultimately to the regions as highest concrete genera.",
+      "quote": "Ideas, pure universalities, can themselves function as variants; from them, in a higher level, a universal is to be discerned — an idea from ideas or of ideas."
+    }
+  ],
+  "absences": [
+    {
+      "locator": "husserl-erfahrung-und-urteil-commentary#h3-s19-the-experiencing-ego-tendency-as-interest-in-what-is-experienced-and-its-wor",
+      "expected_because": "This is where the first egoic activity is analysed, the turning-toward and the awakening of interest that § 13 places as the lower level of egoic activity on which predicative spontaneity is built.",
+      "note": "The analysis is conducted throughout in the vocabulary of tendency, striving, doing and interest, so the level on which everything later rests is described here without being called a level or a foundation.",
+      "absent_terms": [
+        "Fundierung",
+        "fundiert",
+        "founded",
+        "founding",
+        "foundation",
+        "stratum",
+        "strata",
+        "higher level",
+        "higher-level",
+        "higher-order",
+        "non-independent"
+      ]
+    },
+    {
+      "locator": "husserl-erfahrung-und-urteil-commentary#h3-s39-transition-to-quasi-positionality-the-disconnectedness-of-phantasy-intuition",
+      "expected_because": "§ 35 makes the unity of one temporal stream the most universal foundation of all relating, and this section asks what intuitive unity obtains among phantasy-objectualities and between them and perceptual ones.",
+      "note": "The answer is given as connection and disconnection with the unity of one world, without asking whether a quasi-positional objectuality is founded on a positional one.",
+      "absent_terms": [
+        "Fundierung",
+        "fundiert",
+        "founded",
+        "founding",
+        "foundation",
+        "stratum",
+        "strata",
+        "higher level",
+        "higher-level",
+        "higher-order",
+        "non-independent"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,276 @@
+{
+  "schema_version": 1,
+  "theme": "fundierung",
+  "commentary": "kant-kritik-der-reinen-vernunft-commentary",
+  "source_sha256": "124f944814c0cf32840e1e96981f50eba97b112519850cb1eb19077e31cb724e",
+  "extracted_at": "2026-09-24",
+  "extractor": {
+    "agent": "claude-code",
+    "model": "claude-opus-5",
+    "prompt": "synthesis/prompts/extraction-prompt.md",
+    "note": "source_sha256 is the LF digest from synthesis/corpus.json (CRLF checkout, so a local validate reports a false staleness; CI on LF passes). First record of any theme for this commentary. A checked fact about the term ranking that put this file on the fundierung queue: the words 'founded', 'founding', 'Fundierung', 'fundiert', 'higher-order' and 'state of affairs' do not occur in this commentary at all, and its 332 term hits are almost entirely 'manifold' (122, Kant's Mannigfaltiges), 'content' (80), 'function' (29, the logical function of the understanding) and 'foundation' (8). The founding doctrine is nevertheless present and central, conducted throughout in the vocabulary of ground, condition, presupposition and 'highest point' - which is why the units below quote those words and not the theme's own. This is the same shape gap-004 diagnoses for GA 19 on sorge, reached from the opposite direction: there a shared English rendering inflated the count over an argument run in Greek, here over an argument run in Kant's German. Read in full: the Second and Third Sections of the Analytic of Concepts (the tables of judgments and of categories, §§ 9–12) and the B-edition Transcendental Deduction §§ 15–17, 20–24; plus the Conclusions from the Concepts of Space in the Aesthetic. This pass also added the commentary's chronology entry, on two strata the commentary dates in its own text: the A edition at 1781 and the B edition at 1787, from the Dedication and the closing of the Preface to the Second Edition. Units are tagged kant-kdrv-b-1787 where the commentary assigns the passage to an edition by heading or parenthesis - §§ 11-12, marked '(B-edition addition.)', and §§ 15-24, headed 'Second Section [B-edition]'. §§ 9-10 run in both editions and their units are left untagged as a checked fact."
+  },
+  "coverage": "partial",
+  "coverage_note": "Covers the founding doctrine of the Analytic of Concepts as this commentary presents it: the derivation of the categories from the logical functions of judgment (§§ 9–10), the triadic structure by which each third category arises from the connection of the first two while still requiring a special act of the understanding (§ 11), the reduction of the scholastic unum-verum-bonum to the categories of quantity taken formally (§ 12), and the B-Deduction's chain from combination to the synthetic unity of apperception to the categories (§§ 15–17, 20–24): analysis as presupposing synthesis, the unity sought higher than the category of unity, the analytic unity of apperception as possible only under a presupposed synthetic unity, the object as that in whose concept a manifold is united, and the transcendental synthesis of the imagination as the first application of the understanding and the ground of all others. Not covered: the Dedication and both Prefaces, the Introductions, the whole Transcendental Aesthetic except the Conclusions from the Concepts of Space, the Introduction to the Transcendental Logic, the First Section on the logical use of the understanding, § 14, and §§ 18–19. The commentary itself stops at approximately B153 (p. 190 of the Meiner edition), so §§ 25–27 and the Analytic of Principles are not in the file at all.",
+  "units": [
+    {
+      "id": "fundierung/kant-kdrv/001",
+      "locator": "kant-kritik-der-reinen-vernunft-commentary#h6-second-section-on-the-logical-function-of-the-understanding-in-judgments",
+      "primary_locator": "KrV § 9",
+      "term": "community of cognitions",
+      "status": "introduced",
+      "claim": "In a disjunctive judgment the members reciprocally exclude one another and yet, taken together, constitute the whole content of a single given cognition, which is called a community of cognitions.",
+      "quote": "There is therefore in a disjunctive judgment a certain *community of cognitions*, which consists in this: that they reciprocally exclude one another, but yet thereby determine the true cognition *in the whole*, in that taken together they constitute the whole content of a single given cognition."
+    },
+    {
+      "id": "fundierung/kant-kdrv/002",
+      "locator": "kant-kritik-der-reinen-vernunft-commentary#h6-third-section-on-the-pure-concepts-of-the-understanding-or-categories",
+      "primary_locator": "KrV § 10",
+      "term": "Synthesis",
+      "status": "introduced",
+      "claim": "Synthesis is what collects the elements for cognitions and unites them in a certain content, and is therefore the first thing to attend to in judging of the original origin of cognition.",
+      "quote": "synthesis is yet what properly *collects* the elements for cognitions and *unites* them in a certain content. It is therefore the first thing to which we must pay attention if we wish to judge of the original origin of our cognition."
+    },
+    {
+      "id": "fundierung/kant-kdrv/003",
+      "locator": "kant-kritik-der-reinen-vernunft-commentary#h6-third-section-on-the-pure-concepts-of-the-understanding-or-categories",
+      "primary_locator": "KrV § 10",
+      "term": "ground of synthetic unity a priori",
+      "status": "introduced",
+      "claim": "Pure synthesis is the synthesis that rests on a ground of synthetic unity a priori, and under the concept supplying that common ground of unity the unity in the synthesis of the manifold becomes necessary.",
+      "quote": "I understand, however, by this synthesis that one which rests on a ground of synthetic unity a priori: so our *counting* (this is more noticeable especially in larger numbers) is a synthesis according to concepts, because it occurs according to a *common ground of unity*"
+    },
+    {
+      "id": "fundierung/kant-kdrv/004",
+      "locator": "kant-kritik-der-reinen-vernunft-commentary#h6-third-section-on-the-pure-concepts-of-the-understanding-or-categories",
+      "primary_locator": "KrV § 10",
+      "term": "the three moments toward cognition of an object",
+      "status": "introduced",
+      "claim": "The manifold of pure intuition is the first thing given a priori for cognition of objects, the synthesis of that manifold by the imagination is the second and still gives no cognition, and the concepts that give unity to the synthesis are the third.",
+      "quote": "The first thing that must be given to us a priori for the cognition of all objects is the *manifold of pure intuition*; the *synthesis* of this manifold through the *imagination* is the second, but it still gives no cognition."
+    },
+    {
+      "id": "fundierung/kant-kdrv/005",
+      "locator": "kant-kritik-der-reinen-vernunft-commentary#h6-third-section-on-the-pure-concepts-of-the-understanding-or-categories",
+      "primary_locator": "KrV § 10",
+      "term": "Funktion / the same function",
+      "status": "introduced",
+      "claim": "The same function that gives unity to different representations in a judgment also gives unity to the mere synthesis of different representations in an intuition, and that, generally expressed, is the pure concept of the understanding.",
+      "quote": "*The same function* which gives unity to different representations *in a judgment* gives also unity to the mere synthesis of different representations *in an intuition*, which, expressed generally, is called the *pure concept of the understanding*."
+    },
+    {
+      "id": "fundierung/kant-kdrv/006",
+      "locator": "kant-kritik-der-reinen-vernunft-commentary#h6-third-section-on-the-pure-concepts-of-the-understanding-or-categories",
+      "primary_locator": "KrV § 11",
+      "stratum": "kant-kdrv-b-1787",
+      "term": "third category as connection of the first two",
+      "status": "introduced",
+      "claim": "The third category in each class arises from the connection of the second with the first, yet is no merely derived concept, because that connection requires a special act of the understanding not exercised in the first two.",
+      "quote": "For the *connection* of the first and second to produce the third concept requires a *special act of the understanding* which is not the same as that exercised in the first and second."
+    },
+    {
+      "id": "fundierung/kant-kdrv/007",
+      "locator": "kant-kritik-der-reinen-vernunft-commentary#h6-third-section-on-the-pure-concepts-of-the-understanding-or-categories",
+      "primary_locator": "KrV § 11",
+      "stratum": "kant-kdrv-b-1787",
+      "term": "parts connected in one whole",
+      "status": "presupposed",
+      "claim": "The understanding uses the same procedure in representing the sphere of a divided concept and in thinking a thing as divisible: the parts exclude one another in their existence as substances and are yet connected in one whole.",
+      "quote": "so it represents to itself the parts of the latter as such whose existence (as substances) belongs to each exclusively from the others, but yet as connected in *one whole*"
+    },
+    {
+      "id": "fundierung/kant-kdrv/008",
+      "locator": "kant-kritik-der-reinen-vernunft-commentary#h6-third-section-on-the-pure-concepts-of-the-understanding-or-categories",
+      "primary_locator": "KrV § 12",
+      "stratum": "kant-kdrv-b-1787",
+      "term": "logical requirements and criteria of all cognition",
+      "status": "criticized",
+      "claim": "The scholastic transcendental predicates of things, unum, verum and bonum, are nothing other than logical requirements and criteria of all cognition of things in general, and put the categories of quantity at the ground while taking them only formally.",
+      "quote": "These supposedly transcendental predicates of *things* are nothing other than *logical requirements and criteria of all cognition of things in general*, and put the categories of *quantity* — namely *unity, plurality, allness* — at the ground"
+    },
+    {
+      "id": "fundierung/kant-kdrv/009",
+      "locator": "kant-kritik-der-reinen-vernunft-commentary#h5-s-15-on-the-possibility-of-a-combination-in-general",
+      "primary_locator": "KrV § 15",
+      "stratum": "kant-kdrv-b-1787",
+      "term": "Verbindung / combination",
+      "status": "introduced",
+      "claim": "All combination is an act of the understanding and not given through objects, and analysis, which seems its opposite, always presupposes it, since the understanding can dissolve nothing it has not previously combined.",
+      "quote": "the *dissolution* (analysis), which seems to be its opposite, yet always presupposes it; for where the understanding has not previously combined nothing, there it can also dissolve nothing"
+    },
+    {
+      "id": "fundierung/kant-kdrv/010",
+      "locator": "kant-kritik-der-reinen-vernunft-commentary#h5-s-15-on-the-possibility-of-a-combination-in-general",
+      "primary_locator": "KrV § 15",
+      "stratum": "kant-kdrv-b-1787",
+      "term": "ground of the unity of different concepts in judgments",
+      "status": "revised",
+      "claim": "The unity that makes the concept of combination first possible is not the category of unity, since all categories are grounded on logical functions in judgments in which combination is already thought, so that unity must be sought higher, in what contains the ground of the unity of concepts in judgments.",
+      "quote": "The category therefore already presupposes combination. We must therefore seek this unity (as qualitative, §12) yet *higher* — namely, in that which itself contains the *ground of the unity* of different concepts in judgments, hence of the possibility of the understanding even in its logical use."
+    },
+    {
+      "id": "fundierung/kant-kdrv/011",
+      "locator": "kant-kritik-der-reinen-vernunft-commentary#h5-s-16-on-the-originally-synthetic-unity-of-apperception",
+      "primary_locator": "KrV § 16",
+      "stratum": "kant-kdrv-b-1787",
+      "term": "analytic unity of apperception",
+      "status": "introduced",
+      "claim": "The analytic unity of apperception is only possible under the presupposition of some synthetic unity, because the identity of consciousness in a manifold is represented only through my combining that manifold in one consciousness.",
+      "quote": "i.e., the *analytic unity of apperception* is only possible under the presupposition of some *synthetic unity*"
+    },
+    {
+      "id": "fundierung/kant-kdrv/012",
+      "locator": "kant-kritik-der-reinen-vernunft-commentary#h5-s-16-on-the-originally-synthetic-unity-of-apperception",
+      "primary_locator": "KrV § 16",
+      "stratum": "kant-kdrv-b-1787",
+      "term": "highest point",
+      "status": "introduced",
+      "claim": "The synthetic unity of apperception is the highest point on which all use of the understanding, the whole of logic and transcendental philosophy after it must be attached, and this faculty is the understanding itself.",
+      "quote": "And thus the *synthetic unity of apperception* is the highest point on which one must attach all use of the understanding — indeed the whole of logic, and after it transcendental philosophy. Indeed this faculty *is* the understanding itself."
+    },
+    {
+      "id": "fundierung/kant-kdrv/013",
+      "locator": "kant-kritik-der-reinen-vernunft-commentary#h5-s-16-on-the-originally-synthetic-unity-of-apperception",
+      "primary_locator": "KrV § 16",
+      "stratum": "kant-kdrv-b-1787",
+      "term": "ground of the identity of apperception",
+      "status": "presupposed",
+      "claim": "Synthetic unity of the manifold of intuitions, as given a priori, is the ground of the identity of apperception itself, which precedes all determinate thinking a priori.",
+      "quote": "*Synthetic unity of the manifold of intuitions*, as given a priori, is therefore the ground of the *identity* of apperception itself, which precedes all my determinate thinking a priori."
+    },
+    {
+      "id": "fundierung/kant-kdrv/014",
+      "locator": "kant-kritik-der-reinen-vernunft-commentary#h5-s-17-the-principle-of-the-synthetic-unity-of-apperception-is-the-supreme-princip",
+      "primary_locator": "KrV § 17",
+      "stratum": "kant-kdrv-b-1787",
+      "term": "Gegenstand / object as unity of the manifold in a concept",
+      "status": "introduced",
+      "claim": "An object is that in whose concept the manifold of a given intuition is united, and since all unification of representations requires unity of consciousness in their synthesis, the unity of consciousness alone makes up the reference of representations to an object and the possibility of the understanding rests on it.",
+      "quote": "Consequently, the unity of consciousness is alone what makes up the reference of representations to an object, hence their *objective validity* — consequently their becoming *cognitions* — and on it therefore the very possibility of the understanding rests."
+    },
+    {
+      "id": "fundierung/kant-kdrv/015",
+      "locator": "kant-kritik-der-reinen-vernunft-commentary#h5-s-17-the-principle-of-the-synthetic-unity-of-apperception-is-the-supreme-princip",
+      "primary_locator": "KrV § 17",
+      "stratum": "kant-kdrv-b-1787",
+      "term": "first pure cognition of the understanding",
+      "status": "presupposed",
+      "claim": "The principle of the originally synthetic unity of apperception is the first pure cognition of the understanding, on which all its other use is grounded and which is wholly independent of all conditions of sensible intuition.",
+      "quote": "The first pure cognition of the understanding therefore — on which all its other use is grounded, and which is at the same time wholly independent of all conditions of sensible intuition — is the principle of the *originally synthetic unity of apperception*."
+    },
+    {
+      "id": "fundierung/kant-kdrv/016",
+      "locator": "kant-kritik-der-reinen-vernunft-commentary#h5-s-17-the-principle-of-the-synthetic-unity-of-apperception-is-the-supreme-princip",
+      "primary_locator": "KrV § 17",
+      "stratum": "kant-kdrv-b-1787",
+      "term": "drawing a line",
+      "status": "presupposed",
+      "claim": "To cognize a line I must draw it, synthetically bringing about a determinate combination of the given manifold such that the unity of the action is at the same time the unity of consciousness in the concept of a line, and only thereby is the object first cognized.",
+      "quote": "But to cognize anything in space — e.g., a *line* — I must *draw* it, and hence synthetically bring about a determinate combination of the given manifold, so that the unity of this action is at the same time the unity of consciousness (in the concept of a line); and only thereby is an object (a determinate space) first cognized."
+    },
+    {
+      "id": "fundierung/kant-kdrv/017",
+      "locator": "kant-kritik-der-reinen-vernunft-commentary#h5-s-20-all-sensible-intuitions-stand-under-the-categories-as-conditions-under-whic",
+      "primary_locator": "KrV § 20",
+      "stratum": "kant-kdrv-b-1787",
+      "term": "categories as functions of judgment determining a manifold",
+      "status": "presupposed",
+      "claim": "The categories are nothing other than the logical functions of judgment insofar as the manifold of a given intuition is determined in respect of them, and therefore the manifold in a given intuition necessarily stands under categories.",
+      "quote": "But the *categories* are nothing other than these *functions of judgment* insofar as the manifold of a given intuition is determined in respect of them"
+    },
+    {
+      "id": "fundierung/kant-kdrv/018",
+      "locator": "kant-kritik-der-reinen-vernunft-commentary#h5-s-21-remark",
+      "primary_locator": "KrV § 21",
+      "stratum": "kant-kdrv-b-1787",
+      "term": "the manifold given before the synthesis",
+      "status": "presupposed",
+      "claim": "One point the proof cannot abstract from is that the manifold for the intuition must be given even before the synthesis of the understanding and independently of it, though how remains undetermined.",
+      "quote": "the manifold for the intuition must be *given* even before the synthesis of the understanding and independently of it — though how, remains here undetermined"
+    },
+    {
+      "id": "fundierung/kant-kdrv/019",
+      "locator": "kant-kritik-der-reinen-vernunft-commentary#h5-s-21-remark",
+      "primary_locator": "KrV § 21",
+      "stratum": "kant-kdrv-b-1787",
+      "term": "no further ground",
+      "status": "criticized",
+      "claim": "No further ground can be given for the peculiarity of our understanding, that it brings about the unity of apperception a priori only by means of the categories and by precisely this kind and number of them.",
+      "quote": "But of the peculiarity of our understanding — that only by means of the categories and only by precisely this kind and number of them it brings about the unity of apperception a priori — no further ground can be given,"
+    },
+    {
+      "id": "fundierung/kant-kdrv/020",
+      "locator": "kant-kritik-der-reinen-vernunft-commentary#h5-s-22-the-category-has-no-other-use-for-the-cognition-of-things-than-its-applicat",
+      "primary_locator": "KrV § 22",
+      "stratum": "kant-kdrv-b-1787",
+      "term": "two pieces belong to cognition",
+      "status": "presupposed",
+      "claim": "Two pieces belong to cognition, the concept through which an object is thought in general and the intuition through which it is given, so that a concept to which no intuition can be given is a thought according to form but without any object.",
+      "quote": "Two pieces belong to cognition: first, the *concept* through which an object is thought in general (the category); and second, the *intuition* through which it is given."
+    },
+    {
+      "id": "fundierung/kant-kdrv/021",
+      "locator": "kant-kritik-der-reinen-vernunft-commentary#h5-s-24-on-the-application-of-the-categories-to-objects-of-the-senses-in-general",
+      "primary_locator": "KrV § 24",
+      "stratum": "kant-kdrv-b-1787",
+      "term": "synthesis speciosa / synthesis intellectualis",
+      "status": "introduced",
+      "claim": "The figurative synthesis and the merely intellectual combination are both transcendental, not only because they proceed a priori but because they ground the possibility of other a priori cognition.",
+      "quote": "Both are *transcendental*, not only because they themselves proceed a priori but also because they ground the possibility of other a priori cognition."
+    },
+    {
+      "id": "fundierung/kant-kdrv/022",
+      "locator": "kant-kritik-der-reinen-vernunft-commentary#h5-s-24-on-the-application-of-the-categories-to-objects-of-the-senses-in-general",
+      "primary_locator": "KrV § 24",
+      "stratum": "kant-kdrv-b-1787",
+      "term": "transcendental synthesis of the imagination",
+      "status": "introduced",
+      "claim": "The transcendental synthesis of the imagination is an effect of the understanding on sensibility and is the first application of the understanding to objects of intuition possible for us, and at the same time the ground of all others.",
+      "quote": "This is an *effect of the understanding on sensibility* and is the first application of the understanding (and at the same time the ground of all others) to objects of intuition possible for us."
+    },
+    {
+      "id": "fundierung/kant-kdrv/023",
+      "locator": "kant-kritik-der-reinen-vernunft-commentary#h5-s-24-on-the-application-of-the-categories-to-objects-of-the-senses-in-general",
+      "primary_locator": "KrV § 24",
+      "stratum": "kant-kdrv-b-1787",
+      "term": "source of all combination",
+      "status": "presupposed",
+      "claim": "Apperception and its synthetic unity, as the source of all combination, goes to the manifold of intuitions in general under the name of the categories before all sensible intuition, whereas inner sense contains the mere form of intuition without combination and so no determinate intuition at all.",
+      "quote": "the former, rather, as the source of all combination, goes to the manifold of *intuitions in general* under the name of the *categories* before all sensible intuition to objects in general"
+    }
+  ],
+  "absences": [
+    {
+      "locator": "kant-kritik-der-reinen-vernunft-commentary#h4-conclusions-from-the-above-concepts",
+      "expected_because": "Space is established here as the form of all appearances of outer sense, the subjective condition that necessarily precedes all intuition of objects, which is the lower stratum on which §§ 15-24 will build the whole synthesis-doctrine.",
+      "note": "The relation is stated throughout as one of form, condition and precedence — receptivity precedes affection, space is the permanent form of receptivity — and never as founding or as a relation of strata or levels.",
+      "absent_terms": [
+        "Fundierung",
+        "fundiert",
+        "founded",
+        "founding",
+        "foundation",
+        "stratum",
+        "strata",
+        "higher level",
+        "higher-order"
+      ]
+    },
+    {
+      "locator": "kant-kritik-der-reinen-vernunft-commentary#h6-first-section-on-the-principles-of-a-transcendental-deduction-in-general",
+      "expected_because": "This is the section that states what it is to justify a priori concepts by tracing them to their sources, the place where a doctrine of founding would be announced if the commentary had one.",
+      "note": "The question is put throughout in the juridical vocabulary Kant borrows — quid iuris against quid facti, deduction, entitlement, legal ground, birth-certificate — and in that of ground and condition, so that a priori concepts are said to be grounded in the understanding and never to found or to be founded.",
+      "absent_terms": [
+        "Fundierung",
+        "fundiert",
+        "founded",
+        "founding",
+        "foundation",
+        "stratum",
+        "strata",
+        "higher level",
+        "higher-order"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,291 @@
+{
+  "schema_version": 1,
+  "theme": "fundierung",
+  "commentary": "husserliana-28-vorlesungen-uber-ethik-und-wertlehre-commentary",
+  "source_sha256": "fd9165d1171e8a6ec659a655447727e831a2aecb868d315e15f209b69ec5f379",
+  "extracted_at": "2026-09-24",
+  "extractor": {
+    "agent": "claude-code",
+    "model": "claude-opus-5",
+    "prompt": "synthesis/prompts/extraction-prompt.md",
+    "note": "source_sha256 is the LF digest from synthesis/corpus.json (CRLF checkout, so a local validate reports a false staleness; CI on LF passes). Sections were located by searching the file for the theme's own vocabulary rather than by term-density rank alone, which is what brought §§ 12(b), 15, 17(b), 18(a), 18(b) and 19 into view. Units are tagged by part, as chronology.json requires: Part A sections (§§ 1-21 and Beilagen I-II) are hua28-1914, Part B (Einleitung §§ 1-8 and the Schlußstück) is hua28-1911. This pass answers part of gap-018's request for a fundierung-keyed reading of the uncovered parts of this commentary: § 15 and § 18(a) are recorded here, and § 15's reversal of the founding-relation (belief springing from willing rather than founding it) is the unit that gap asks for. Read in full: Part A §§ 1, 9, 10, 12(a), 12(b), 15, 17(b), 18(a), 18(b), 19 and Beilage I; Part B Einleitung § 7 and the Schlußstück (b)."
+  },
+  "coverage": "partial",
+  "coverage_note": "Covers the founding doctrine across both courses in the volume. From Part A (1914): the level-structure of formal apophantics (§ 1), the distinction of value-grounds from value-consequences and the essential founding of every valuing act in an objectivating act (§ 9), the theory of whole and part in the axiological sphere with axiological components, mere precondition-value, and the distinction of value-summation from value-production in which a new unity is founded in the elements without being built up from them (§ 12b), the reversal of the founding-relation between will and belief of the future (§ 15), the founding of the will on the presentation- and judgment-sphere and the founding of questioning in doubting (§ 17b), the reason-laws for founded theses and the will's double founding in doxic and axiological presuppositions (§ 18a), the transfer of preferability from founding to founded position-takings (§ 18b), perfect will-rightness as an idea built on founding ideas and the higher spiritual unity of sociality (§ 19), and the self-critical revision of the act-classification in Beilage I. From Part B (1911): the two-sided distinction of the valuing act from the objectivations that are its substrates and from those that ground themselves upon it, and formal axiology as foundational for axiological philosophy (Einleitung § 7), and the axioms as foundation for the highest practical good (Schlußstück b). Not covered: Part A §§ 2-8, 11, 13, 14, 16, 17(a), 17(c), 17(d), 20, 21 and Beilage II; Part B Einleitung §§ 1-6 and 8, Schlußstück (a), and Beilagen III-VII.",
+  "units": [
+    {
+      "id": "fundierung/husserliana-28/001",
+      "locator": "husserliana-28-vorlesungen-uber-ethik-und-wertlehre-commentary#h3-s-1-logic-as-art-of-method-and-pure-logic",
+      "primary_locator": "Hua XXVIII § 1",
+      "stratum": "hua28-1914",
+      "term": "higher level: Geltungslehre",
+      "status": "introduced",
+      "claim": "Upon the pure form-theory of propositions there builds, as a higher level, a theory of validity investigating the validity-laws grounded apriori in the apriori-possible propositional forms.",
+      "quote": "Upon this builds, as a higher level, a *Geltungslehre* (theory of validity), which investigates the validity-laws grounded apriori in the apriori-possible propositional forms."
+    },
+    {
+      "id": "fundierung/husserliana-28/002",
+      "locator": "husserliana-28-vorlesungen-uber-ethik-und-wertlehre-commentary#h3-s-9-apriori-motivation-laws-as-laws-of-rational-consequence-motivational-connect",
+      "primary_locator": "Hua XXVIII § 9",
+      "stratum": "hua28-1914",
+      "term": "value-grounds and value-consequences",
+      "status": "introduced",
+      "claim": "As far as value can be spoken of at all, so far reaches the distinction between value-grounds and value-consequences, between presupposed premiss- or basic-values and the values posited or derived upon them.",
+      "quote": "So far as values and value can in any way be spoken of, so far reaches the distinction between value-grounds and value-consequences, between presupposed values and values posited or derived upon them."
+    },
+    {
+      "id": "fundierung/husserliana-28/003",
+      "locator": "husserliana-28-vorlesungen-uber-ethik-und-wertlehre-commentary#h3-s-9-apriori-motivation-laws-as-laws-of-rational-consequence-motivational-connect",
+      "primary_locator": "Hua XXVIII § 9",
+      "stratum": "hua28-1914",
+      "term": "objectivating acts underlying every valuing act",
+      "status": "introduced",
+      "claim": "To every valuing act there necessarily underlie intellective, objectivating acts in which the valued objectivities become presented and possibly stand as being or non-being, in certainty or probability.",
+      "quote": "to every valuing act there necessarily underlie intellective, “objectivating” acts — presenting, judging, or surmising acts — in which the valued objectivities become presented and possibly stand as being or non-being, in certainty or probability"
+    },
+    {
+      "id": "fundierung/husserliana-28/004",
+      "locator": "husserliana-28-vorlesungen-uber-ethik-und-wertlehre-commentary#h3-s-9-apriori-motivation-laws-as-laws-of-rational-consequence-motivational-connect",
+      "primary_locator": "Hua XXVIII § 9",
+      "stratum": "hua28-1914",
+      "term": "Fundierung",
+      "status": "introduced",
+      "claim": "The being-founded of the valuing act in the intellective act is not merely psychological: the valuing act is founded in the intellective act in its very essence, precisely insofar as that act constitutes the value-appearance.",
+      "quote": "And this being-founded is not merely psychological: rather the valuing act is, in its very essence, founded in the intellective act precisely insofar as it constitutes the value-appearance."
+    },
+    {
+      "id": "fundierung/husserliana-28/005",
+      "locator": "husserliana-28-vorlesungen-uber-ethik-und-wertlehre-commentary#h3-s-9-apriori-motivation-laws-as-laws-of-rational-consequence-motivational-connect",
+      "primary_locator": "Hua XXVIII § 9",
+      "stratum": "hua28-1914",
+      "term": "object-side founding the value-side",
+      "status": "presupposed",
+      "claim": "Values have their object-side and at once their specific value-side, the former founding the latter, and when values themselves become objects of judging cognition the value-side itself is objectivated.",
+      "quote": "values have their object-side and at once their specific value-side, the former founding the latter, and when values themselves become objects of judging cognition the value-side itself is objectivated"
+    },
+    {
+      "id": "fundierung/husserliana-28/006",
+      "locator": "husserliana-28-vorlesungen-uber-ethik-und-wertlehre-commentary#h4-b-the-different-relations-between-the-value-whole-and-the-value-components-value",
+      "primary_locator": "Hua XXVIII § 12",
+      "stratum": "hua28-1914",
+      "term": "mere precondition-value",
+      "status": "introduced",
+      "claim": "A value-whole will in general have parts that have no value of their own but are preconditioning for its constitution or for the constitution of own-valued parts; these have a consequence-value but are no value-components, having mere precondition-value.",
+      "quote": "the whole can, and in general will, have parts that do not themselves have value but are preconditioning for its constitution or for the constitution of own-valued parts; so far as they are preconditioning for values they have a value too, a consequence-value, but they are no value-components — they have “mere precondition-value.”"
+    },
+    {
+      "id": "fundierung/husserliana-28/007",
+      "locator": "husserliana-28-vorlesungen-uber-ethik-und-wertlehre-commentary#h4-b-the-different-relations-between-the-value-whole-and-the-value-components-value",
+      "primary_locator": "Hua XXVIII § 12",
+      "stratum": "hua28-1914",
+      "term": "pure value-components",
+      "status": "presupposed",
+      "claim": "Value-components can themselves be wholes whose value depends on value-components, and in the sphere of in-itself-values the regress comes down to pure value-components, properly and purely value-grounding properties.",
+      "quote": "and in the sphere of in-itself-values we evidently come down to *pure* value-components, to properly and purely value-grounding properties"
+    },
+    {
+      "id": "fundierung/husserliana-28/008",
+      "locator": "husserliana-28-vorlesungen-uber-ethik-und-wertlehre-commentary#h4-b-the-different-relations-between-the-value-whole-and-the-value-components-value",
+      "primary_locator": "Hua XXVIII § 12",
+      "stratum": "hua28-1914",
+      "term": "Wertproduktion / value-production",
+      "status": "introduced",
+      "claim": "In value-production the values of the elements contribute to the total value without composing it: they found it as something essentially new over against them, so that every combination grounds an axiological unity-character founded in the elements yet not built up summatorily from them.",
+      "quote": "the sensible and feeling-values of the single elements contribute to the total value in a certain sense, but they do not compose it; they only found it as something essentially new over against them"
+    },
+    {
+      "id": "fundierung/husserliana-28/009",
+      "locator": "husserliana-28-vorlesungen-uber-ethik-und-wertlehre-commentary#h4-b-the-different-relations-between-the-value-whole-and-the-value-components-value",
+      "primary_locator": "Hua XXVIII § 12",
+      "stratum": "hua28-1914",
+      "term": "axiological whole founded in the elements",
+      "status": "revised",
+      "claim": "Because the produced value-unity is founded in the elements without being built up summatorily from them, the summation laws hold only for summatory value-wholes, and Brentano's laws must be restricted accordingly.",
+      "quote": "But over against this, every combination grounds an axiological whole with an axiological unity-character founded in the elements yet by no means built up summatorily from them"
+    },
+    {
+      "id": "fundierung/husserliana-28/010",
+      "locator": "husserliana-28-vorlesungen-uber-ethik-und-wertlehre-commentary#h3-s-15-action-will-and-the-resolve-will-directed-at-the-future",
+      "primary_locator": "Hua XXVIII § 15",
+      "stratum": "hua28-1914",
+      "term": "belief as underlying substrate of joy",
+      "status": "presupposed",
+      "claim": "Joy over a future presupposes the belief in the future being as its underlying substrate, and the joy-valuation goes upon what is already set as future-actual in that belief.",
+      "quote": "Joy over a future presupposes the belief in the future being, the expectation of the future underlying it as substrate, and the joy-valuation goes upon what is already set as future-actual in the underlying belief."
+    },
+    {
+      "id": "fundierung/husserliana-28/011",
+      "locator": "husserliana-28-vorlesungen-uber-ethik-und-wertlehre-commentary#h3-s-15-action-will-and-the-resolve-will-directed-at-the-future",
+      "primary_locator": "Hua XXVIII § 15",
+      "stratum": "hua28-1914",
+      "term": "the founding-relation reversed",
+      "status": "revised",
+      "claim": "On the act-side the founding-relation is reversed for the will: instead of the willing being founded upon the belief of the future being, the belief of the future springs forth from the willing.",
+      "quote": "On the act-side, accordingly, the founding-relation is reversed. Instead of the willing being founded upon the belief of the future being, it is rather the belief of the future that springs forth from the willing"
+    },
+    {
+      "id": "fundierung/husserliana-28/012",
+      "locator": "husserliana-28-vorlesungen-uber-ethik-und-wertlehre-commentary#h4-b-the-will-question-as-analogue-of-the-being-question-toward-the-form-theory-of",
+      "primary_locator": "Hua XXVIII § 17",
+      "stratum": "hua28-1914",
+      "term": "founding of the will upon the presentation- and judgment-sphere",
+      "status": "presupposed",
+      "claim": "Practical doubting, questioning, deliberating and deciding are purely the affair of the will, however much a doxic questioning and deliberating may play its role in the lower level through the founding of the will upon occurrences of the presentation- and judgment-sphere.",
+      "quote": "however much, in the founding of the will upon occurrences of the presentation- and judgment-sphere, a doxic questioning and deliberating may also play its role in the lower level"
+    },
+    {
+      "id": "fundierung/husserliana-28/013",
+      "locator": "husserliana-28-vorlesungen-uber-ethik-und-wertlehre-commentary#h4-b-the-will-question-as-analogue-of-the-being-question-toward-the-form-theory-of",
+      "primary_locator": "Hua XXVIII § 17",
+      "stratum": "hua28-1914",
+      "term": "founding of questioning in doubting",
+      "status": "revised",
+      "claim": "The founding of questioning in doubting, explicitly and properly understood, obtains only where the questioning is explicitly performed: there the doubting must first be performed and then the new questioning intention appears.",
+      "quote": "Closely seen, the founding of questioning in doubting, explicitly and properly understood, obtains only in the case of explicitly performed questioning: there the doubting must first be performed, and then the new questioning intention appears"
+    },
+    {
+      "id": "fundierung/husserliana-28/014",
+      "locator": "husserliana-28-vorlesungen-uber-ethik-und-wertlehre-commentary#h4-a-the-laws-bearing-on-the-founding-and-iteration-of-acts",
+      "primary_locator": "Hua XXVIII § 18",
+      "stratum": "hua28-1914",
+      "term": "law for the founded theses",
+      "status": "introduced",
+      "claim": "A law of general kind holds for the founded theses: as surmises tend to be founded by certainties and valuings by certainties or probabilities, so willings are founded by doxic theses and at the same time by theses of the sphere of valuings.",
+      "quote": "Of general kind too is a law for the *founded* theses: as surmises tend to be founded by certainties, or valuings can be founded by certainties or probabilities, so willings are in turn founded by doxic theses and at the same time by theses of the sphere of valuings."
+    },
+    {
+      "id": "fundierung/husserliana-28/015",
+      "locator": "husserliana-28-vorlesungen-uber-ethik-und-wertlehre-commentary#h4-a-the-laws-bearing-on-the-founding-and-iteration-of-acts",
+      "primary_locator": "Hua XXVIII § 18",
+      "stratum": "hua28-1914",
+      "term": "foundation-theses",
+      "status": "introduced",
+      "claim": "Founded theses have not only their own doxic, axiological or practical rightness but also direct themselves after their foundation-theses, so that the total act is false if the substrate is false.",
+      "quote": "Founded theses have not only rightness in general — in the sense that they have their doxic, axiological, practical truth or untruth — but they also “direct” themselves after their foundation-theses."
+    },
+    {
+      "id": "fundierung/husserliana-28/016",
+      "locator": "husserliana-28-vorlesungen-uber-ethik-und-wertlehre-commentary#h4-a-the-laws-bearing-on-the-founding-and-iteration-of-acts",
+      "primary_locator": "Hua XXVIII § 18",
+      "stratum": "hua28-1914",
+      "term": "double founding of the resolve",
+      "status": "presupposed",
+      "claim": "The resolve has its founding in and directing after doxic presuppositions on one side and, in a still narrower and more distinguished measure, after axiological presuppositions on the other, so that the rightness of the will is prefigured by the rightness of the valuing presupposed in it.",
+      "quote": "the willing — the will-proposition, the *Vorsatz* (resolve) — has on the one hand its founding in and a directing after doxic presuppositions, and on the other, in a still narrower and more distinguished measure, after axiological presuppositions"
+    },
+    {
+      "id": "fundierung/husserliana-28/017",
+      "locator": "husserliana-28-vorlesungen-uber-ethik-und-wertlehre-commentary#h4-b-the-will-laws-of-choice-the-absorption-law-the-idea-of-the-practical-realm-and",
+      "primary_locator": "Hua XXVIII § 18",
+      "stratum": "hua28-1914",
+      "term": "preferability on the side of the founding",
+      "status": "introduced",
+      "claim": "Preferability on the side of the founding draws after it a preferability within the position-takings that direct themselves after it, so that the will upon the better good-value is itself better.",
+      "quote": "considering the differences of preferability, preferability on the side of the founding draws after it a preferability within the position-takings that “direct” themselves after it"
+    },
+    {
+      "id": "fundierung/husserliana-28/018",
+      "locator": "husserliana-28-vorlesungen-uber-ethik-und-wertlehre-commentary#h3-s-19-the-idea-of-perfect-will-rightness-the-order-of-the-ethical-disciplines",
+      "primary_locator": "Hua XXVIII § 19",
+      "stratum": "hua28-1914",
+      "term": "founding ideas and the founded one",
+      "status": "presupposed",
+      "claim": "Perfect will-rightness is an idea that builds itself upon the idea of the practical realm and the idea of the best in that realm, and all these founding ideas, and with them the founded one, stand under ideal laws.",
+      "quote": "perfect will-rightness is an idea that builds itself upon the idea of the practical realm and the idea of the best in this realm, and that all these founding ideas, and with them the founded one, stand under ideal laws"
+    },
+    {
+      "id": "fundierung/husserliana-28/019",
+      "locator": "husserliana-28-vorlesungen-uber-ethik-und-wertlehre-commentary#h3-s-19-the-idea-of-perfect-will-rightness-the-order-of-the-ethical-disciplines",
+      "primary_locator": "Hua XXVIII § 19",
+      "stratum": "hua28-1914",
+      "term": "higher spiritual unity",
+      "status": "introduced",
+      "claim": "Among the material tasks left to a later stage is how far a higher spiritual unity - of a family, an association, a state, a people - can constitute itself through sociality and be itself ideally valuable, graspable as a kind of subject for achievements that can be good and bad.",
+      "quote": "how far can a higher spiritual unity — the unity of a family, an association, a state, a people — constitute itself through sociality, and this higher unity itself again be ideally valuable, graspable as a kind of subject for achievements that can be good and bad?"
+    },
+    {
+      "id": "fundierung/husserliana-28/020",
+      "locator": "husserliana-28-vorlesungen-uber-ethik-und-wertlehre-commentary#h3-beilage-i-to-pp-47-f-60-ff-75-ss-13-15-obliquities-in-my-doctrine-of-valuing-in",
+      "primary_locator": "Hua XXVIII, Beilage I",
+      "stratum": "hua28-1914",
+      "term": "a valuing that grounds the wishing",
+      "status": "presupposed",
+      "claim": "Wishing has intensity-differences, but it directs itself after a valuing that grounds it, and that valuing has no intensity-differences but only differences of value-height and preference.",
+      "quote": "the wishing “directs” itself after a valuing that “grounds” it, and this has no intensity-differences but value-differences, differences of value-height and preference"
+    },
+    {
+      "id": "fundierung/husserliana-28/021",
+      "locator": "husserliana-28-vorlesungen-uber-ethik-und-wertlehre-commentary#h3-beilage-i-to-pp-47-f-60-ff-75-ss-13-15-obliquities-in-my-doctrine-of-valuing-in",
+      "primary_locator": "Hua XXVIII, Beilage I",
+      "stratum": "hua28-1914",
+      "term": "feelings founded in the position-takings",
+      "status": "revised",
+      "claim": "Against the three thetic genera of judging, valuing and willing stand the receptive intentional experiences and the receptive feelings, and then the feelings produced by the position-takings and founded in them, the desires with the joys, which are themselves no theses.",
+      "quote": "over against which stand the receptive intentional experiences of the presentations, perception and memory but without position-taking, and the receptive feelings, and then the feelings produced by the position-takings, founded in them — the desires with the joys"
+    },
+    {
+      "id": "fundierung/husserliana-28/022",
+      "locator": "husserliana-28-vorlesungen-uber-ethik-und-wertlehre-commentary#h3-s-7-the-theoretical-objectivating-reason-sphere-as-analogical-clue-for-the-inves",
+      "primary_locator": "Hua XXVIII, Einleitung § 7",
+      "stratum": "hua28-1911",
+      "term": "objectivating acts underlying valuing acts",
+      "status": "introduced",
+      "claim": "Likings, dislikings, joy and sorrow do not belong among the objectivating acts: objectivating acts may underlie them, but they are not themselves such, and they stand under a reason-question of their own.",
+      "quote": "objectivating acts may underlie these, but they are not themselves such — they are *valuing* acts, and they likewise stand under a reason-question"
+    },
+    {
+      "id": "fundierung/husserliana-28/023",
+      "locator": "husserliana-28-vorlesungen-uber-ethik-und-wertlehre-commentary#h3-s-7-the-theoretical-objectivating-reason-sphere-as-analogical-clue-for-the-inves",
+      "primary_locator": "Hua XXVIII, Einleitung § 7",
+      "stratum": "hua28-1911",
+      "term": "objectivations as substrates and as grounded upon the valuing",
+      "status": "introduced",
+      "claim": "Value-holdings must be distinguished both from the objectivations that go into them as substrates and from those that ground themselves upon them in such a way that values or value-predicates become objectivities.",
+      "quote": "these acts themselves must remain distinguished not only from the objectivations that go into them as substrates, but also from those that ground themselves upon them in such a way that now values, or value-predicates, become objectivities"
+    },
+    {
+      "id": "fundierung/husserliana-28/024",
+      "locator": "husserliana-28-vorlesungen-uber-ethik-und-wertlehre-commentary#h3-s-7-the-theoretical-objectivating-reason-sphere-as-analogical-clue-for-the-inves",
+      "primary_locator": "Hua XXVIII, Einleitung § 7",
+      "stratum": "hua28-1911",
+      "term": "non-objectivating act as substrate of an objectivation",
+      "status": "presupposed",
+      "claim": "Every non-objectivating act can become the substrate of an objectivation that takes from it a value-object or an ought-to-be-object, which is why the field of theoretical reason is all-encompassing.",
+      "quote": "every non-objectivating act can become the substrate of an objectivation that takes from it a value-object or an ought-to-be-object"
+    },
+    {
+      "id": "fundierung/husserliana-28/025",
+      "locator": "husserliana-28-vorlesungen-uber-ethik-und-wertlehre-commentary#h3-s-7-the-theoretical-objectivating-reason-sphere-as-analogical-clue-for-the-inves",
+      "primary_locator": "Hua XXVIII, Einleitung § 7",
+      "stratum": "hua28-1911",
+      "term": "formal axiology as foundational",
+      "status": "presupposed",
+      "claim": "As the constitution of pure logic is fundamental for theoretical philosophy and for a noetics of objectivating reason, so the constitution of a formal axiology is foundational for an axiological and practical philosophy and for a critique of emotive consciousness.",
+      "quote": "so the constitution of a formal axiology is foundational for an axiological and practical philosophy and for the carrying-through of a phenomenology and critique of the emotive consciousness"
+    },
+    {
+      "id": "fundierung/husserliana-28/026",
+      "locator": "husserliana-28-vorlesungen-uber-ethik-und-wertlehre-commentary#h3-b-the-formal-laws-of-rational-choice-and-the-formal-determination-of-the-highest",
+      "primary_locator": "Hua XXVIII, Schlußstück",
+      "stratum": "hua28-1911",
+      "term": "the axioms as foundation for the highest practical good",
+      "status": "presupposed",
+      "claim": "The axioms say nothing yet of the highest practical good, but they are the foundation for its determination in the formal sense, so that formal praxis concludes in a summum bonum formaliter spectatum.",
+      "quote": "In the axioms nothing is yet said of the highest practical good, but they are the foundation for the determination of the highest practical good, namely in the *formal* sense."
+    }
+  ],
+  "absences": [
+    {
+      "locator": "husserliana-28-vorlesungen-uber-ethik-und-wertlehre-commentary#h3-s-10-value-laws-as-the-objective-expression-of-the-motivation-laws-the-formal-ax",
+      "expected_because": "This section converts § 9's subjective motivation-laws, which include the founding of every valuing act in an objectivating act, into their objective expression, so the founding relation should reappear on the object-side.",
+      "note": "On the objective side the relation is stated instead as value-transfer and value-inference, the Wertschluss, with the emotive Erwägung doing the uniting; the vocabulary of founding does not return.",
+      "absent_terms": ["Fundierung", "fundiert", "founded", "founding", "foundation", "stratum", "strata", "higher level", "higher-order"]
+    },
+    {
+      "locator": "husserliana-28-vorlesungen-uber-ethik-und-wertlehre-commentary#h4-a-laws-for-value-increase-relations-and-for-value-collections",
+      "expected_because": "The summation laws for value-collections and for value-consequences are set out here, that is the part-whole doctrine of the axiological sphere, which § 12(b) then recasts in the vocabulary of founding for the case of value-production.",
+      "note": "Here the composition is handled entirely as summation, value-grounding moments and gradation-relations. The words founding and founded first enter at § 12(b), with the value-whole that is founded in its elements without being built up from them.",
+      "absent_terms": ["Fundierung", "fundiert", "founded", "founding", "foundation", "stratum", "strata", "higher level", "higher-order"]
+    }
+  ]
+}
