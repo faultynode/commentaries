@@ -1470,7 +1470,8 @@
           "english": "Coincidence",
           "source": "moran-cohen-2012"
         }
-      ]
+      ],
+      "theme": "erfuellung"
     },
     {
       "id": "denken",
@@ -2164,7 +2165,8 @@
           "source": "corpus",
           "locator": "husserl-erfahrung-und-urteil-commentary#h4-a-the-origin-of-negation"
         }
-      ]
+      ],
+      "theme": "erfuellung"
     },
     {
       "id": "epoche",
@@ -2301,7 +2303,8 @@
           "english": "Fulfilment",
           "source": "moran-cohen-2012"
         }
-      ]
+      ],
+      "theme": "erfuellung"
     },
     {
       "id": "erinnerung",
@@ -4456,7 +4459,8 @@
           "english": "Categorial intuition",
           "source": "moran-cohen-2012"
         }
-      ]
+      ],
+      "theme": "erfuellung"
     },
     {
       "id": "kausalitaet",
@@ -4800,7 +4804,8 @@
           "english": "Empty intention",
           "source": "moran-cohen-2012"
         }
-      ]
+      ],
+      "theme": "erfuellung"
     },
     {
       "id": "leib",
