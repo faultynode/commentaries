@@ -1,0 +1,256 @@
+{
+  "schema_version": 1,
+  "theme": "fundierung",
+  "commentary": "husserliana-4-ideas-ii-commentary",
+  "source_sha256": "a97925ac88907450688fc8f864e75ad4829d2163e36c93ac39689417154fe1af",
+  "extracted_at": "2026-09-24",
+  "extractor": {
+    "agent": "claude-code",
+    "model": "claude-opus-5",
+    "prompt": "synthesis/prompts/extraction-prompt.md",
+    "note": "source_sha256 is the LF digest taken from synthesis/corpus.json (the checkout here is CRLF, so a local validate reports a false staleness; CI on LF passes). Same convention as the intentionalitaet record for this commentary. Read in full: First Section Chapter One §§ 4, 7, 8, 9, 10; Second Chapter §§ 14, 15 (b–d); Third Chapter § 18 (a–d); Second Section §§ 30, 32, 39; Third Section §§ 52, 56 (b, c), 61, 63, 64. No unit carries a stratum: the commentary dates the volume's layers in its editor's introduction but does not assign individual paragraphs to one, and the chronology note for this commentary records why (the 1912 draft was incorporated into §§ 1–33 'in a criss-cross fashion', the text from p. 143 onward was reassembled without the commentary saying which § that is)."
+  },
+  "coverage": "partial",
+  "coverage_note": "Covers the founding doctrine as Ideas II carries it in three places. (1) First Section Chapter One §§ 4–10: the regress from categorial and axiological formations through founding objectualities to the sense-objects, the higher level of value-objects constituted by valuing acts, the higher stratum of non-objectivating acts over objectivating ones, and the distinction of categorial from aesthetic synthesis. (2) The constitution of material and animal nature, §§ 14–18 and §§ 30–39: animalia as founded realities over a material lower stratum, the sensory schema and the one-sided detachability of materiality, the level-structure of thing-constitution and the founding of the higher apperceptive stratum by psychophysical conditionality, the soul as spiritual capacities built on lower sensory ones, and the hyletic foundation of consciousness in the body. (3) The personalistic Third Section §§ 52, 61–64: the other human being as founded being with spatiality through the founding body, the psychic underground as the person's founding underground, noetic consciousness as co-dependent on the brain only insofar as founded by the hyletic, and the dependence of all natural existence on absolute spirits. Not covered: §§ 1–3, 5–6, 11–13, 16–17, 19–29, 31, 33–38, 40–51, 53–60, 62, § 56 (a, d–h), the Editor's Introduction, and the Supplements (Beilagen).",
+  "units": [
+    {
+      "id": "fundierung/husserliana-4/001",
+      "locator": "husserliana-4-ideas-ii-commentary#h3-s4-theoretical-acts-and-pre-giving-intentional-experiences",
+      "primary_locator": "Ideas II § 4",
+      "term": "founded objectualities of a higher level",
+      "status": "introduced",
+      "claim": "The objectualities constituted by valuing acts are founded objectualities and in that sense objectualities of a higher level, and as spontaneous products they originally constitute themselves.",
+      "quote": "They are not only founded objectualities in general and in this sense objectualities of a higher level, but precisely as spontaneous products, objectualities that originally constitute themselves"
+    },
+    {
+      "id": "fundierung/husserliana-4/002",
+      "locator": "husserliana-4-ideas-ii-commentary#h3-s4-theoretical-acts-and-pre-giving-intentional-experiences",
+      "primary_locator": "Ideas II § 4",
+      "term": "categorical objectualities as pre-givennesses",
+      "status": "introduced",
+      "claim": "Theoretical acts themselves exercise a constitutive performance in which categorical objectualities — above all states of affairs and collections — constitute themselves, and these become theoretical objects only in new acts of a higher level directed upon them.",
+      "quote": "“categorical” objectualities constitute themselves (in a quite determinate sense: thought-objectualities), which in turn become theoretical objects only when the theoretical subject directs itself toward these new objectualities (above all, states of affairs, collections, etc.) in a meaning-setting manner"
+    },
+    {
+      "id": "fundierung/husserliana-4/003",
+      "locator": "husserliana-4-ideas-ii-commentary#h3-s4-theoretical-acts-and-pre-giving-intentional-experiences",
+      "primary_locator": "Ideas II § 4",
+      "term": "value-object as object of a higher level",
+      "status": "introduced",
+      "claim": "The value-object, which includes the so-being character of worth in its objective sense, is the correlate of theoretical value-grasping and is thereby an object of a higher level than the mere thing.",
+      "quote": "This value-object, which in its objective sense includes the so-being character of worth, is the correlate of theoretical value-grasping. It is thus an object of a higher level."
+    },
+    {
+      "id": "fundierung/husserliana-4/004",
+      "locator": "husserliana-4-ideas-ii-commentary#h3-s4-theoretical-acts-and-pre-giving-intentional-experiences",
+      "primary_locator": "Ideas II § 4",
+      "term": "acts with a founded structure",
+      "status": "presupposed",
+      "claim": "The possibility of a change of attitude by which what is objective in an act becomes a theoretical object is said to belong to general essential peculiarities of all acts with a founded structure.",
+      "quote": "What is at issue here is in fact a matter of general essential peculiarities belonging to all acts with a founded structure."
+    },
+    {
+      "id": "fundierung/husserliana-4/005",
+      "locator": "husserliana-4-ideas-ii-commentary#h3-s7-objectivating-and-non-objectivating-acts-and-their-correlates",
+      "primary_locator": "Ideas II § 7",
+      "term": "höhere Schicht / higher stratum",
+      "status": "introduced",
+      "claim": "Every non-objectivating act is not only built in a higher stratum upon objectivating acts but is itself objectivating in what it newly contributes.",
+      "quote": "it is essentially not only built in a higher stratum upon objectivating acts, but is itself objectivating in what it newly contributes"
+    },
+    {
+      "id": "fundierung/husserliana-4/006",
+      "locator": "husserliana-4-ideas-ii-commentary#h3-s7-objectivating-and-non-objectivating-acts-and-their-correlates",
+      "primary_locator": "Ideas II § 7",
+      "term": "pleasure founded upon objectivating perceiving",
+      "status": "presupposed",
+      "claim": "Where pleasure is founded upon a simply objectivating perceiving, what the pleasure newly objectivates can itself be grasped theoretically, for instance beauty as a predicate of the perceived.",
+      "quote": "If the pleasure is founded upon a simply objectivating perceiving, then I can grasp theoretically not only the perceived but also what is newly objectivated through the pleasure"
+    },
+    {
+      "id": "fundierung/husserliana-4/007",
+      "locator": "husserliana-4-ideas-ii-commentary#h3-s8-the-sense-objects-as-constitutive-primordial-objects",
+      "primary_locator": "Ideas II § 8",
+      "term": "founding objectualities / sense-objects",
+      "status": "introduced",
+      "claim": "Following the intentional structure of any given objects backwards leads, possibly in a series of steps, to founding objectualities or noemata that carry no further retrospective indications and are graspable in the simplest theses; these primordial objects are the sense-objects.",
+      "quote": "we arrive — possibly in a series of steps — at founding objectualities or noemata that contain nothing more of such retrospective indications, that are grasped or graspable in the simplest theses"
+    },
+    {
+      "id": "fundierung/husserliana-4/008",
+      "locator": "husserliana-4-ideas-ii-commentary#h3-s9-categorical-and-aesthetic-sensory-synthesis",
+      "primary_locator": "Ideas II § 9",
+      "term": "categorical formations of objects of a higher level",
+      "status": "presupposed",
+      "claim": "Objects of arbitrary regions can be substrates for categorical syntheses and enter as constitutive elements into categorical formations of objects of a higher level, among them collectiva, disjunctiva and states of affairs of every kind.",
+      "quote": "can be substrates for certain categorical syntheses, can enter as constitutive elements into “categorical” formations of objects of a higher level"
+    },
+    {
+      "id": "fundierung/husserliana-4/009",
+      "locator": "husserliana-4-ideas-ii-commentary#h3-s9-categorical-and-aesthetic-sensory-synthesis",
+      "primary_locator": "Ideas II § 9",
+      "term": "aesthetische Synthesis / aesthetic synthesis",
+      "status": "introduced",
+      "claim": "The unity of an object need not everywhere presuppose a categorical synthesis; the unity of the manifold individual theses of a thing-perception is given by a synthesis of an entirely different kind, called the aesthetic synthesis.",
+      "quote": "What gives these individual theses their unity is a synthesis of an entirely different kind: we will call it the aesthetic synthesis."
+    },
+    {
+      "id": "fundierung/husserliana-4/010",
+      "locator": "husserliana-4-ideas-ii-commentary#h3-s10-things-spatial-phantoms-and-sensation-data",
+      "primary_locator": "Ideas II § 10",
+      "term": "sense-objects underlying all spatial objects",
+      "status": "presupposed",
+      "claim": "The analytic regress arrives finally at sense-objects in another sense, which underlie all spatial objects and all thing-objects of material reality and lead back to ultimate syntheses lying before all thesis.",
+      "quote": "arrive finally at sense-objects in another sense, which underlie all spatial objects and thus also all thing-objects of material reality (understood constitutively) and which lead us back to certain ultimate syntheses — but to syntheses that lie before all thesis"
+    },
+    {
+      "id": "fundierung/husserliana-4/011",
+      "locator": "husserliana-4-ideas-ii-commentary#h3-s14-the-significance-of-extension-for-the-structure-of-animalia",
+      "primary_locator": "Ideas II § 14",
+      "term": "fundierte Realitäten / founded realities",
+      "status": "introduced",
+      "claim": "Animal realities, ensouled bodies, are founded realities that presuppose within themselves a material reality as a lower stratum.",
+      "quote": "They are founded realities that presuppose within themselves, as a lower stratum, material realities — so-called material bodies."
+    },
+    {
+      "id": "fundierung/husserliana-4/012",
+      "locator": "husserliana-4-ideas-ii-commentary#h3-s14-the-significance-of-extension-for-the-structure-of-animalia",
+      "primary_locator": "Ideas II § 14",
+      "term": "essential foundedness in the bodily",
+      "status": "presupposed",
+      "claim": "The psychical side of human beings and animals has spatial ordering at least by virtue of its essential foundedness in the bodily, although nothing on that side is extended in the proper sense.",
+      "quote": "their psychical aspect too has spatial ordering at least by virtue of its essential foundedness in the bodily"
+    },
+    {
+      "id": "fundierung/husserliana-4/013",
+      "locator": "husserliana-4-ideas-ii-commentary#h4-b-movability-and-changeability-as-constituents-of-the-material-thing-the-thing-s",
+      "primary_locator": "Ideas II § 15",
+      "term": "non-self-sufficient (one-sided detachability)",
+      "status": "introduced",
+      "claim": "The phantom is originally given and conceivable without the components of materiality, whereas materiality is non-self-sufficient, so that the dependence between the sensory schema and the material stratum is one-sided.",
+      "quote": "the phantom is originally given and thus also conceivable without the components of materiality, while materiality for its part is non-self-sufficient (one-sided detachability)"
+    },
+    {
+      "id": "fundierung/husserliana-4/014",
+      "locator": "husserliana-4-ideas-ii-commentary#h4-c-the-significance-of-psychophysical-conditionality-at-the-various-constitutive",
+      "primary_locator": "Ideas II § 18",
+      "term": "lower stratum of sense-things",
+      "status": "presupposed",
+      "claim": "The real world originally constitutes itself in levels, such that the manifold of sense-things builds itself up as a lower stratum in the unity of the spatial form and the realization completes itself as sense-things become states of real things.",
+      "quote": "The real world originally constitutes itself in levels such that, as a lower stratum, the manifold of sense-things (full schemata) builds itself up in the unity of the spatial form."
+    },
+    {
+      "id": "fundierung/husserliana-4/015",
+      "locator": "husserliana-4-ideas-ii-commentary#h4-c-the-significance-of-psychophysical-conditionality-at-the-various-constitutive",
+      "primary_locator": "Ideas II § 18",
+      "term": "foundation of the higher apperceptive stratum",
+      "status": "introduced",
+      "claim": "The system of conditionality that makes the sense-thing dependent on bodiliness is the foundation of the higher apperceptive stratum and becomes the psychophysical conditionality between body and subjective sensation-courses.",
+      "quote": "This entire system of conditionality is the foundation of the higher apperceptive stratum and becomes the psychophysical conditionality between my body and its causal interweavings in extra-bodily nature on one side and subjective sensation-courses, aspect-courses, and so on, on the other."
+    },
+    {
+      "id": "fundierung/husserliana-4/016",
+      "locator": "husserliana-4-ideas-ii-commentary#h3-s30-the-real-psychic-subject",
+      "primary_locator": "Ideas II § 30",
+      "term": "spiritual capacities built upon the lower sensory ones",
+      "status": "presupposed",
+      "claim": "The soul is nothing more than the unity of the spiritual capacities built upon the lower sensory ones, and each of its properties is a mere ray of its being.",
+      "quote": "the soul is the unity of the “spiritual capacities” built upon the lower sensory ones, and it is nothing more"
+    },
+    {
+      "id": "fundierung/husserliana-4/017",
+      "locator": "husserliana-4-ideas-ii-commentary#h3-s32-fundamental-differences-of-material-and-psychic-reality",
+      "primary_locator": "Ideas II § 32",
+      "term": "attestation through adumbrations vs. through states",
+      "status": "revised",
+      "claim": "Because the soul does not schematize itself while the material thing constitutes itself as a unity of schemata, attestation through adumbrations is principally different from the attestation of real properties through states.",
+      "quote": "All this implies that the attestation through adumbrations is something principally different from the attestation of real properties through states."
+    },
+    {
+      "id": "fundierung/husserliana-4/018",
+      "locator": "husserliana-4-ideas-ii-commentary#h3-s39-significance-of-the-body-for-the-constitution-of-higher-objectualities",
+      "primary_locator": "Ideas II § 39",
+      "term": "material foundations of the desiring and willing life",
+      "status": "introduced",
+      "claim": "Sensation-groups outside the primary sensations play for the intentional experiences of the feeling-sphere and for the constitution of values the role that primary sensations play for spatial-thingly objects, and further sensations form the material foundations of the desiring and willing life.",
+      "quote": "Further belong here various hard-to-analyze sensations forming the material foundations of the desiring and willing life: sensations of energetic tension and relaxation, of inner inhibition, paralysis, liberation, and so on."
+    },
+    {
+      "id": "fundierung/husserliana-4/019",
+      "locator": "husserliana-4-ideas-ii-commentary#h3-s39-significance-of-the-body-for-the-constitution-of-higher-objectualities",
+      "primary_locator": "Ideas II § 39",
+      "term": "hyletische Fundierung / hyletic foundation",
+      "status": "introduced",
+      "claim": "The entire consciousness of a human being is connected with its body through its hyletic foundation, while the intentional experiences themselves are no longer directly localized and form no stratum at the body.",
+      "quote": "In this way the entire consciousness of a human being is in a certain way connected with its body through its hyletic foundation. But the intentional experiences themselves are no longer directly and properly localized; they no longer form a stratum at the body."
+    },
+    {
+      "id": "fundierung/husserliana-4/020",
+      "locator": "husserliana-4-ideas-ii-commentary#h3-s52-subjective-appearance-manifolds-and-objective-things",
+      "primary_locator": "Ideas II § 52",
+      "term": "founded being / founding body",
+      "status": "introduced",
+      "claim": "In the natural-scientific attitude the other human being is constituted as founded being, which has its spatiality and temporality through the founding body.",
+      "quote": "In this attitude the other human being is constituted as founded being, which has its spatiality and temporality through the founding body."
+    },
+    {
+      "id": "fundierung/husserliana-4/021",
+      "locator": "husserliana-4-ideas-ii-commentary#h3-s52-subjective-appearance-manifolds-and-objective-things",
+      "primary_locator": "Ideas II § 52",
+      "term": "spirit not founded in the physical body",
+      "status": "criticized",
+      "claim": "In the human-scientific attitude the other spirit is posited as spirit and not as founded in the physical body, and the body-thing then counts as a surrounding thing that serves the person as expression or organ.",
+      "quote": "in which the other spirit is thematically posited as spirit and not as founded in the physical body — not as the founding reality of the total reality “natural-historical human being,” zoological creature"
+    },
+    {
+      "id": "fundierung/husserliana-4/022",
+      "locator": "husserliana-4-ideas-ii-commentary#h3-s61-the-spiritual-ego-and-its-foundation",
+      "primary_locator": "Ideas II § 61",
+      "term": "lower level of all spiritual existence",
+      "status": "presupposed",
+      "claim": "The objective thing-world, as an intersubjectively obtaining rule of possible appearances and of possible sensation-complexes of the single spirits, points back to a lower level of all spiritual existence, so that every spirit has a nature-side.",
+      "quote": "it points back to a lower level of all spiritual existence. Every spirit has a “nature-side.”"
+    },
+    {
+      "id": "fundierung/husserliana-4/023",
+      "locator": "husserliana-4-ideas-ii-commentary#h3-s61-the-spiritual-ego-and-its-foundation",
+      "primary_locator": "Ideas II § 61",
+      "term": "founding underground",
+      "status": "introduced",
+      "claim": "The sensuous lower soul, inseparably one with the position-taking ego-subject, is said to belong to the person as a founding underground.",
+      "quote": "One will have to say that it belongs to the person as a founding underground."
+    },
+    {
+      "id": "fundierung/husserliana-4/024",
+      "locator": "husserliana-4-ideas-ii-commentary#h3-s63-psychophysical-parallelism-and-interaction",
+      "primary_locator": "Ideas II § 63",
+      "term": "founded by the hyletic",
+      "status": "presupposed",
+      "claim": "The dependence of consciousness on the brain reaches as far as the sensuous substrate, and the higher, properly noetic consciousness becomes co-dependent on the central organ only insofar as it is founded by the hyletic.",
+      "quote": "Certainly the higher, properly noetic consciousness becomes co-dependent on C insofar as it is founded by the hyletic."
+    },
+    {
+      "id": "fundierung/husserliana-4/025",
+      "locator": "husserliana-4-ideas-ii-commentary#h3-s64-relativity-of-nature-absoluteness-of-spirit",
+      "primary_locator": "Ideas II § 64",
+      "term": "all natural existence on the existence of absolute spirits",
+      "status": "presupposed",
+      "claim": "The absolute being of persons and their experiences precedes the relative being of appearances, so that all individuation of appearances hangs on the absolute individuation of spirits and all natural existence on the existence of absolute spirits.",
+      "quote": "All individuation of the latter hangs on the absolute individuation of the former, all natural existence on the existence of absolute spirits."
+    }
+  ],
+  "absences": [
+    {
+      "locator": "husserliana-4-ideas-ii-commentary#h4-b-association-as-motivation",
+      "expected_because": "This is where the relation of the dark underground of association and habit to the life of reason built over it is first analysed, and § 61 later calls that same underground the person's founding underground.",
+      "note": "The relation is set out throughout as motivation — passive against reason-motivation, hidden motives, the interweaving of the two causalities — and at no point as founding or as a relation of strata.",
+      "absent_terms": ["Fundierung", "fundiert", "founded", "founding", "foundation", "stratum", "higher level", "higher-order"]
+    },
+    {
+      "locator": "husserliana-4-ideas-ii-commentary#h4-c-association-and-experiential-motivations",
+      "expected_because": "Thing-apprehensions are here called webs of motivation built through and through from intentional rays, which is the constitutive layering §§ 9–10 describe in the vocabulary of founding and of higher and lower level.",
+      "note": "The section weighs whether all thingly apperception rests on associative motivations and whether there is an original togetherness before all motivation, without once putting the question as one of founding.",
+      "absent_terms": ["Fundierung", "fundiert", "founded", "founding", "foundation", "stratum", "higher level", "higher-order"]
+    }
+  ]
+}

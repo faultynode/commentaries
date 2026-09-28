@@ -1,0 +1,357 @@
+[
+  {
+    "id": "intentionalitaet/ga17/004",
+    "side": "original",
+    "language": "de",
+    "file": "heidegger/heidegger-ga-17-einfuhrung-in-die-phanomenologische-forschung.md",
+    "line": 3047,
+    "from": "hinsichtlich der *Intentionalität*, sofern diese",
+    "to": "hassenden Meinen usf. spricht."
+  },
+  {
+    "id": "intentionalitaet/ga17/004",
+    "side": "translation",
+    "language": "en",
+    "file": "heidegger/heidegger-ga-17-introduction-to-phenomenological-research.md",
+    "line": 4091,
+    "from": "with respect to intentionality insofar as",
+    "to": "and so forth as meaning something."
+  },
+  {
+    "id": "intentionalitaet/ga17/005",
+    "side": "original",
+    "language": "de",
+    "file": "heidegger/heidegger-ga-17-einfuhrung-in-die-phanomenologische-forschung.md",
+    "line": 3053,
+    "from": "daß in der Tat bewußt behauptet wird",
+    "to": "einfach mit dem Erkennen zu analogisieren.",
+    "note": "The German founds judgment on representing too - jedes Urteil, jedes Wollen, jedes Lieben - where the commentary's rendering has only willing, loving and hating."
+  },
+  {
+    "id": "intentionalitaet/ga17/005",
+    "side": "translation",
+    "language": "en",
+    "file": "heidegger/heidegger-ga-17-introduction-to-phenomenological-research.md",
+    "line": 4091,
+    "from": "it is expressly claimed that",
+    "to": "simply analogous to knowing."
+  },
+  {
+    "id": "intentionalitaet/ga17/007",
+    "side": "original",
+    "language": "de",
+    "file": "heidegger/heidegger-ga-17-einfuhrung-in-die-phanomenologische-forschung.md",
+    "line": 3195,
+    "from": "Zugleich ist dieses Phänomen der strukturmäßige Boden",
+    "to": "ein Phänomen des Daseins selbst."
+  },
+  {
+    "id": "intentionalitaet/ga17/007",
+    "side": "translation",
+    "language": "en",
+    "file": "heidegger/heidegger-ga-17-introduction-to-phenomenological-research.md",
+    "line": 4173,
+    "from": "At the same time this phenomenon is the structural ground",
+    "to": "a phenomenon of existence itself."
+  },
+  {
+    "id": "intentionalitaet/ga17/008",
+    "side": "original",
+    "language": "de",
+    "file": "heidegger/heidegger-ga-17-einfuhrung-in-die-phanomenologische-forschung.md",
+    "line": 3193,
+    "from": "Darin liegt, daß das Sein im Sinne des Daseins",
+    "to": "sein eigenes Dasein mitbesorgt."
+  },
+  {
+    "id": "intentionalitaet/ga17/008",
+    "side": "translation",
+    "language": "en",
+    "file": "heidegger/heidegger-ga-17-introduction-to-phenomenological-research.md",
+    "line": 4171,
+    "from": "Inherent in this phenomenon is the fact that",
+    "to": "is also concerned with its own existence."
+  },
+
+  {
+    "id": "intentionalitaet/ga20/006",
+    "side": "original",
+    "language": "de",
+    "file": "heidegger/heidegger-ga-20-prolegomena-zur-geschichte-des-zeitbegriffs.md",
+    "line": 1039,
+    "from": "muß man sich das eigentliche Motiv",
+    "to": "dem schlichten phänomenologischen Befund."
+  },
+  {
+    "id": "intentionalitaet/ga20/006",
+    "side": "translation",
+    "language": "en",
+    "file": "heidegger/heidegger-ga-20-history-of-the-concept-of-time.md",
+    "line": 754,
+    "from": "we must keep in mind the real reason",
+    "to": "the simple phenomenological findings."
+  },
+  {
+    "id": "intentionalitaet/ga20/007",
+    "side": "original",
+    "language": "de",
+    "file": "heidegger/heidegger-ga-20-prolegomena-zur-geschichte-des-zeitbegriffs.md",
+    "line": 1086,
+    "from": "Wir haben so eine eigentümliche Zugehörigkeit",
+    "to": "in den Blick gekommen.",
+    "note": "Body says Zugehörigkeit; the section heading at line 1048 says Zusammengehörigkeit."
+  },
+  {
+    "id": "intentionalitaet/ga20/007",
+    "side": "translation",
+    "language": "en",
+    "file": "heidegger/heidegger-ga-20-history-of-the-concept-of-time.md",
+    "line": 768,
+    "from": "We thus have an inherent affinity",
+    "to": "even though only provisionally."
+  },
+  {
+    "id": "intentionalitaet/ga20/008",
+    "side": "original",
+    "language": "de",
+    "file": "heidegger/heidegger-ga-20-prolegomena-zur-geschichte-des-zeitbegriffs.md",
+    "line": 1069,
+    "from": "Jede",
+    "to": "durch erinnernde Vergegenwärtigung, bzw. durch Wahrnehmung."
+  },
+  {
+    "id": "intentionalitaet/ga20/008",
+    "side": "translation",
+    "language": "en",
+    "file": "heidegger/heidegger-ga-20-history-of-the-concept-of-time.md",
+    "line": 764,
+    "from": "Every intention has within it a tendency",
+    "to": "an envisaging that remembers or through perception."
+  },
+  {
+    "id": "intentionalitaet/ga20/010",
+    "side": "original",
+    "language": "de",
+    "file": "heidegger/heidegger-ga-20-prolegomena-zur-geschichte-des-zeitbegriffs.md",
+    "line": 1103,
+    "from": "Nicht die Intentionalität als solche ist metaphysisch dogmatisch",
+    "to": "was dieser Struktursinn selbst besagt."
+  },
+  {
+    "id": "intentionalitaet/ga20/010",
+    "side": "translation",
+    "language": "en",
+    "file": "heidegger/heidegger-ga-20-history-of-the-concept-of-time.md",
+    "line": 774,
+    "from": "It is not intentionality as such that is metaphysically dogmatic",
+    "to": "what this sense of structure itself means."
+  },
+  {
+    "id": "intentionalitaet/ga20/012",
+    "side": "original",
+    "language": "de",
+    "file": "heidegger/heidegger-ga-20-prolegomena-zur-geschichte-des-zeitbegriffs.md",
+    "line": 1296,
+    "from": "Man weiß nicht, was man tut",
+    "to": "beides ist ein und dasselbe."
+  },
+  {
+    "id": "intentionalitaet/ga20/012",
+    "side": "translation",
+    "language": "en",
+    "file": "heidegger/heidegger-ga-20-history-of-the-concept-of-time.md",
+    "line": 864,
+    "from": "We do not know what we are doing",
+    "to": "The two are one and the same."
+  },
+  {
+    "id": "intentionalitaet/ga20/016",
+    "side": "original",
+    "language": "de",
+    "file": "heidegger/heidegger-ga-20-prolegomena-zur-geschichte-des-zeitbegriffs.md",
+    "line": 2224,
+    "from": "Alle vier Seinsbestimmungen der phänomenologischen Region",
+    "to": "selbst, zu verlegen."
+  },
+  {
+    "id": "intentionalitaet/ga20/016",
+    "side": "translation",
+    "language": "en",
+    "file": "heidegger/heidegger-ga-20-history-of-the-concept-of-time.md",
+    "line": 1236,
+    "from": "All four determinations of the being",
+    "to": "the clearer elaboration of this entity itself."
+  },
+
+  {
+    "id": "intentionalitaet/hga24/006",
+    "side": "original",
+    "language": "de",
+    "file": "heidegger/heidegger-ga-24-die-grundprobleme-der-phanomenologie.md",
+    "line": 809,
+    "from": "Die Beziehung der Wahrnehmung ist eine",
+    "to": "zwischen zwei Vorhandenen."
+  },
+  {
+    "id": "intentionalitaet/hga24/006",
+    "side": "translation",
+    "language": "en",
+    "file": "heidegger/heidegger-ga-24-the-basic-problems-of-phenomenology-revised-edition.md",
+    "line": 883,
+    "from": "Nevertheless, in this characterization of intentionality",
+    "to": "of intentionality is completely missed."
+  },
+  {
+    "id": "intentionalitaet/hga24/010",
+    "side": "original",
+    "language": "de",
+    "file": "heidegger/heidegger-ga-24-die-grundprobleme-der-phanomenologie.md",
+    "line": 912,
+    "from": "Wo liegt der Herd der jetzt zu klärenden",
+    "to": "die Wahr-\nnehmung, richtet."
+  },
+  {
+    "id": "intentionalitaet/hga24/010",
+    "side": "translation",
+    "language": "en",
+    "file": "heidegger/heidegger-ga-24-the-basic-problems-of-phenomenology-revised-edition.md",
+    "line": 895,
+    "from": "What is the central source of this second misinterpretation",
+    "to": "in our case perception—directs itself."
+  },
+  {
+    "id": "intentionalitaet/hga24/013",
+    "side": "original",
+    "language": "de",
+    "file": "heidegger/heidegger-ga-24-die-grundprobleme-der-phanomenologie.md",
+    "line": 935,
+    "from": "Ich brauche nicht erst zu fragen",
+    "to": "worin die Transzendenz besteht."
+  },
+  {
+    "id": "intentionalitaet/hga24/013",
+    "side": "translation",
+    "language": "en",
+    "file": "heidegger/heidegger-ga-24-the-basic-problems-of-phenomenology-revised-edition.md",
+    "line": 901,
+    "from": "I do not first need to ask",
+    "to": "in which *transcendence* consists."
+  },
+  {
+    "id": "intentionalitaet/hga24/014",
+    "side": "original",
+    "language": "de",
+    "file": "heidegger/heidegger-ga-24-die-grundprobleme-der-phanomenologie.md",
+    "line": 940,
+    "from": "grund des unvoreingenommen gesehenen Charakters",
+    "to": "das Subjekt in seinem Wesen bestimmt."
+  },
+  {
+    "id": "intentionalitaet/hga24/014",
+    "side": "translation",
+    "language": "en",
+    "file": "heidegger/heidegger-ga-24-the-basic-problems-of-phenomenology-revised-edition.md",
+    "line": 901,
+    "from": "rather, just the reverse, the subject",
+    "to": "intentionality and its transcendence."
+  },
+  {
+    "id": "intentionalitaet/hga24/015",
+    "side": "original",
+    "language": "de",
+    "file": "heidegger/heidegger-ga-24-die-grundprobleme-der-phanomenologie.md",
+    "line": 940,
+    "from": "sprechen wir künftig nicht mehr von einem Subjekt",
+    "to": "angehören, als Dasein"
+  },
+  {
+    "id": "intentionalitaet/hga24/015",
+    "side": "translation",
+    "language": "en",
+    "file": "heidegger/heidegger-ga-24-the-basic-problems-of-phenomenology-revised-edition.md",
+    "line": 901,
+    "from": "we shall in the future no longer speak of a subject",
+    "to": "intentional comportments belong as *Dasein*"
+  },
+  {
+    "id": "intentionalitaet/hga24/016",
+    "side": "original",
+    "language": "de",
+    "file": "heidegger/heidegger-ga-24-die-grundprobleme-der-phanomenologie.md",
+    "line": 950,
+    "from": "Die Intentionalität ist die ratio cognoscendi",
+    "to": "in ihren verschiedenen Weisen."
+  },
+  {
+    "id": "intentionalitaet/hga24/016",
+    "side": "translation",
+    "language": "en",
+    "file": "heidegger/heidegger-ga-24-the-basic-problems-of-phenomenology-revised-edition.md",
+    "line": 905,
+    "from": "Intentionality is the ratio cognoscendi",
+    "to": "of intentionality in its diverse modes."
+  },
+
+  {
+    "id": "intentionalitaet/sz/006",
+    "side": "original",
+    "language": "de",
+    "file": "heidegger/heidegger-sein-und-zeit.md",
+    "line": 1040,
+    "from": "daß das Erkennen selbst",
+    "to": "das Sein von Dasein wesenhaft konstituiert."
+  },
+  {
+    "id": "intentionalitaet/sz/006",
+    "side": "translation",
+    "language": "en",
+    "file": "heidegger/heidegger-being-and-time.md",
+    "line": 1049,
+    "from": "cognition is itself already functionally grounded",
+    "to": "constituted *as* this being-near.",
+    "note": "This translation renders Schon-sein-bei-der-Welt as already-being-near-the-world; the commentary says already-being-alongside-the-world."
+  },
+  {
+    "id": "intentionalitaet/sz/007",
+    "side": "original",
+    "language": "de",
+    "file": "heidegger/heidegger-sein-und-zeit.md",
+    "line": 1042,
+    "from": "Im Sichrichten auf... und Erfassen",
+    "to": "in die es zunächst verkapselt ist"
+  },
+  {
+    "id": "intentionalitaet/sz/007",
+    "side": "translation",
+    "language": "en",
+    "file": "heidegger/heidegger-being-and-time.md",
+    "line": 1051,
+    "from": "In directing itself toward something and getting hold of it",
+    "to": "within some world already uncovered."
+  },
+  {
+    "id": "intentionalitaet/sz/008",
+    "state": "no-source",
+    "reason": "no-primary",
+    "note": "Nothing to find: the ledger's own resolution of gap-013 records this as the commentator's gloss on § 13, not a sentence the treatise contains, and a second commentary on the same section offers no equivalent. Quotable as a reading of Heidegger, never as Heidegger."
+  },
+  {
+    "id": "intentionalitaet/sz/023",
+    "side": "original",
+    "language": "de",
+    "file": "heidegger/heidegger-sein-und-zeit.md",
+    "line": 5496,
+    "from": "Daß und wie die",
+    "to": "wird der folgende Abschnitt zeigen.",
+    "note": "A footnote, not body text - it sits in the note apparatus to § 69(b), beside a reference to Logische Untersuchungen II."
+  },
+  {
+    "id": "intentionalitaet/sz/023",
+    "side": "translation",
+    "language": "en",
+    "file": "heidegger/heidegger-being-and-time.md",
+    "line": 5334,
+    "from": "How the intentionality of",
+    "to": "in the following Division."
+  }
+]

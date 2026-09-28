@@ -6,19 +6,33 @@ Corpus: **53 commentaries**, 2,980,043 words, 3898 sections indexed in `synthesi
 
 ## Themes
 
-### fundierung - founding of higher-order objectivities
+### erfuellung - intuitive fulfillment
 
-13 commentaries extracted · 158 units · 3 absences · 13 partial
+0 commentaries extracted · 0 units · 0 absences
 
 Next candidates, by term density:
 
-- [ ] `husserliana-4-ideas-ii-commentary` (1912) - 373 hits
-- [ ] `kant-kritik-der-reinen-vernunft-commentary` (undated) - 332 hits
-- [ ] `husserliana-28-vorlesungen-uber-ethik-und-wertlehre-commentary` (1908) - 316 hits
-- [ ] `lacan-seminar-1-freuds-papers-on-technique-commentary` (1953) - 308 hits
-- [ ] `husserliana-33-die-bernauer-manuskripte-uber-das-zeitbewusstsein-commentary` (1917) - 238 hits
-- [ ] `husserl-erfahrung-und-urteil-commentary` (undated) - 234 hits
-- ... 34 more; see `synthesis_query.py --theme fundierung`
+- [ ] `husserliana-19-2-sixth-logical-investigation-commentary` (1921) - 1033 hits
+- [ ] `husserl-thing-and-space-commentary` (1907) - 273 hits
+- [ ] `husserliana-11-analyses-concerning-passive-and-active-synthesis-commentary` (1920) - 253 hits
+- [ ] `husserliana-3-ideas-i-parts-3-4-commentary` (1913) - 209 hits
+- [ ] `husserliana-33-die-bernauer-manuskripte-uber-das-zeitbewusstsein-commentary` (1917) - 145 hits
+- [ ] `husserl-erfahrung-und-urteil-commentary` (undated) - 132 hits
+- ... 45 more; see `synthesis_query.py --theme erfuellung`
+
+### fundierung - founding of higher-order objectivities
+
+19 commentaries extracted · 300 units · 15 absences · 19 partial
+
+Next candidates, by term density:
+
+- [ ] `Heidegger GA 3 - Kant und das Problem der Metaphysik Commentary` (undated) - 226 hits
+- [ ] `heidegger-ga-3-kant-und-das-problem-der-metaphysik-commentary` (1929) - 226 hits
+- [ ] `husserliana-7-erste-philosophie-i-commentary` (1923) - 213 hits
+- [ ] `husserliana-39-die-lebenswelt-commentary` (1920) - 209 hits
+- [ ] `husserliana-23-phantasie-bildbewusstsein-erinnerung-commentary` (1904) - 203 hits
+- [ ] `husserliana-11-analyses-concerning-passive-and-active-synthesis-commentary` (1920) - 196 hits
+- ... 28 more; see `synthesis_query.py --theme fundierung`
 
 ### intentionalitaet - intentionality
 
@@ -41,7 +55,7 @@ Next candidates, by term density:
 Next candidates, by term density:
 
 - [ ] `husserliana-19-2-sixth-logical-investigation-commentary` (1921) - 59 hits
-- [ ] `kant-kritik-der-reinen-vernunft-commentary` (undated) - 51 hits
+- [ ] `kant-kritik-der-reinen-vernunft-commentary` (1781) - 51 hits
 - [ ] `kern-husserl-and-kant-commentary` (1964) - 51 hits
 - [ ] `husserliana-3-ideas-i-commentary` (1913) - 50 hits
 - [ ] `husserl-krisis-commentary` (1935) - 47 hits
@@ -87,7 +101,7 @@ Next candidates, by term density:
 - [ ] `henry-the-essence-of-manifestation-commentary` (1963) - 226 hits
 - [ ] `bernet-la-vie-du-sujet-commentary` (1994) - 138 hits
 - [ ] `marion-sur-le-prisme-metaphysique-de-descartes-commentary` (1986) - 83 hits
-- [ ] `kant-kritik-der-reinen-vernunft-commentary` (undated) - 75 hits
+- [ ] `kant-kritik-der-reinen-vernunft-commentary` (1781) - 75 hits
 - ... 41 more; see `synthesis_query.py --theme sorge`
 
 ### vorhandenheit - presence-at-hand

@@ -1,0 +1,171 @@
+{
+  "schema_version": 1,
+  "theme": "fundierung",
+  "commentary": "lacan-seminar-1-freuds-papers-on-technique-commentary",
+  "source_sha256": "86f48ef8bc6693ceaa0497c33cf28ba98049f33ede95d0ab8bfab29031b3c4a3",
+  "extracted_at": "2026-09-24",
+  "extractor": {
+    "agent": "claude-code",
+    "model": "claude-opus-5",
+    "prompt": "synthesis/prompts/extraction-prompt.md",
+    "note": "source_sha256 is the LF digest from synthesis/corpus.json (CRLF checkout, so a local validate reports a false staleness; CI on LF passes). A checked fact about the term ranking: of the 308 hits that put this file on the fundierung queue, 155 are 'function' (Lacan's fonction de la parole, the symbolic function, the function of the imaginary) and 37 are 'content'; 'founded' occurs 16 times and 'founding' twice, and most occurrences of 'founded' are the ordinary English participle - 'founded on total confidence', 'founded on a certain limited field' - not a technical Fundierung. Only the occurrences recorded below do argumentative work. The record is correspondingly lean for a file this large: the theme is present here as the founding of reality-relations on the bodily image and of the imaginary situation on the symbolic register, which is Lacan's own way of putting an asymmetric dependence, and not as a doctrine of founding. Read in full: the session of 13 January, the Gélinier presentation of the Klein paper, Lacan's development and resumption of the optical schema in the sessions of 31 March and 7 April, the sessions of 26 May and 16 June, the Hyppolite exposition of Die Verneinung, and the closing note."
+  },
+  "coverage": "partial",
+  "coverage_note": "Covers the places where a founding relation carries an argument: the triadic foundation laid down as the premise of the whole account of the analytic relation (13 January); Klein's symbolism as the foundation of sublimation and of the reality-relations of the external world, as Gélinier reports it and Lacan takes it up; the optical schema, where the real image confers unity on what it surrounds, where the constitution of reality is tied to the form of the body, where the bodily image is called the imaginary source of symbolism, and where narcissistic fixation on the image is called the very foundation of species-specific sexual behaviour; the ego's fall from its absolute position in the subject (26 May); and the master-slave analysis of 16 June, where what founds the pact is the risk run for pure prestige, where the founding of the situation on biological panic before death is rejected, and where the imaginary situation is said to be conceivable only as absolutely encircled by the symbolic register. Not covered: the sessions of 20 January, 3, 10 and 17 February, 10 and 17 March, 21 and 28 April, 5, 12 and 19 May, 9, 23 and 30 June, and 7 July, and the presentations by Anzieu, Lefort, Granoff and Perrier, except as noted above.",
+  "units": [
+    {
+      "id": "fundierung/lacan-seminar-1/001",
+      "locator": "lacan-seminar-1-freuds-papers-on-technique-commentary#h2-session-of-13-january-1954",
+      "primary_locator": "Seminar I, session of 13 January 1954",
+      "stratum": "lacan-sem1-1953",
+      "term": "triadic foundation",
+      "status": "introduced",
+      "claim": "What is laid down as the premise of the whole account is a triadic foundation, from which the difficulties of the different formulations of inter-analytic relations can begin to be grasped.",
+      "quote": "But what he wants to lay down as a premise is precisely this: a triadic foundation. From this triadic foundation one can begin to grasp the difficulties of the different formulations of inter-analytic relations."
+    },
+    {
+      "id": "fundierung/lacan-seminar-1/002",
+      "locator": "lacan-seminar-1-freuds-papers-on-technique-commentary#h3-marie-cecile-gelinier-presents-the-klein-paper",
+      "primary_locator": "Seminar I, session of 17 February 1954",
+      "stratum": "lacan-sem1-1953",
+      "term": "symbolism as foundation of sublimation",
+      "status": "introduced",
+      "claim": "Klein introduces symbolism, referring to Ferenczi and Jones, for whom symbolism is the foundation of all sublimation and of all action on the external world.",
+      "quote": "Here Klein introduces the notion of *symbolism*, referring to Ferenczi and Jones, for whom symbolism is the foundation of all *sublimation* and all action on the external world."
+    },
+    {
+      "id": "fundierung/lacan-seminar-1/003",
+      "locator": "lacan-seminar-1-freuds-papers-on-technique-commentary#h3-marie-cecile-gelinier-presents-the-klein-paper",
+      "primary_locator": "Seminar I, session of 17 February 1954",
+      "stratum": "lacan-sem1-1953",
+      "term": "equations as foundations of reality-relations",
+      "status": "presupposed",
+      "claim": "The multiple symbolic equations are reported as the foundations of reality-relations and of the external world, upon which the ego will later be able to make a true reality emerge.",
+      "quote": "Klein says these multiple equations are the foundations of reality-relations and of the external world."
+    },
+    {
+      "id": "fundierung/lacan-seminar-1/004",
+      "locator": "lacan-seminar-1-freuds-papers-on-technique-commentary#h3-lacan-develops-the-optical-schema-further",
+      "primary_locator": "Seminar I, session of 31 March 1954",
+      "stratum": "lacan-sem1-1953",
+      "term": "unification by the real image",
+      "status": "introduced",
+      "claim": "In the optical schema the real image of the vase surrounds the flowers and gives them their unity, a unification that is a reflection of the unity of the body itself.",
+      "quote": "if the eye accommodates exactly at the level of the flowers, the real image of the vase will surround them, give them this style, this *unity, this unification*, a *reflection of the unity of the body itself*"
+    },
+    {
+      "id": "fundierung/lacan-seminar-1/005",
+      "locator": "lacan-seminar-1-freuds-papers-on-technique-commentary#h3-lacan-develops-the-optical-schema-further",
+      "primary_locator": "Seminar I, session of 31 March 1954",
+      "stratum": "lacan-sem1-1953",
+      "term": "constitution of reality and the form of the body",
+      "status": "introduced",
+      "claim": "What is at stake in the question of the two narcissisms is the relation between the constitution of reality and a certain relation, called ontological, with the form of the body.",
+      "quote": "the relation between the *constitution of reality* and a certain relation (which Mannoni, more or less appropriately, called *ontological*) with the *form of the body*"
+    },
+    {
+      "id": "fundierung/lacan-seminar-1/006",
+      "locator": "lacan-seminar-1-freuds-papers-on-technique-commentary#h3-lacan-develops-the-optical-schema-further",
+      "primary_locator": "Seminar I, session of 31 March 1954",
+      "stratum": "lacan-sem1-1953",
+      "term": "imaginary source of symbolism",
+      "status": "introduced",
+      "claim": "The bodily image makes the unity of the subject and is projected in a thousand ways, among them the source and origin of what may be called the imaginary source of symbolism, by which symbolism relates to the human being's Selbstgefühl of his own body.",
+      "quote": "This image makes the *unity* of the subject — projected in a thousand ways, including in the source and origin of what may be called the *imaginary source of symbolism*, by which symbolism relates to the *Selbstgefühl* the human being, *the Mensch*, has of his own body."
+    },
+    {
+      "id": "fundierung/lacan-seminar-1/007",
+      "locator": "lacan-seminar-1-freuds-papers-on-technique-commentary#h3-lacan-develops-the-optical-schema-further",
+      "primary_locator": "Seminar I, session of 31 March 1954",
+      "stratum": "lacan-sem1-1953",
+      "term": "narcissism at the level of the real image",
+      "status": "presupposed",
+      "claim": "A certain narcissism is situated at the level of the real image of the schema, insofar as it permits the ensemble of reality to be organized in a number of preformed frames.",
+      "quote": "There is a certain narcissism situated, if you like, *at the level of the real image* of the schema, insofar as it permits to organize the *ensemble of reality* in a number of preformed frames."
+    },
+    {
+      "id": "fundierung/lacan-seminar-1/008",
+      "locator": "lacan-seminar-1-freuds-papers-on-technique-commentary#h3-lacan-resumes-the-optical-schema-developed",
+      "primary_locator": "Seminar I, session of 7 April 1954",
+      "stratum": "lacan-sem1-1953",
+      "term": "narcissistic fixation as foundation",
+      "status": "presupposed",
+      "claim": "The narcissistic fixation on the image is called the very foundation of the fact that among living beings only the partner of the same species can trigger the special form of behaviour called sexual.",
+      "quote": "For it is this image and it alone that he awaited — the very foundation of the fact that in the order of living beings, only the partner of the *same species* can trigger that special form called *sexual behavior*."
+    },
+    {
+      "id": "fundierung/lacan-seminar-1/009",
+      "locator": "lacan-seminar-1-freuds-papers-on-technique-commentary#h2-session-of-26-may-1954",
+      "primary_locator": "Seminar I, session of 26 May 1954",
+      "stratum": "lacan-sem1-1953",
+      "term": "the ego as mirage",
+      "status": "criticized",
+      "claim": "The dimension of the subject is no longer confused with the ego: the ego is fallen from its absolute position in the subject and is a mirage like the rest, an element of the objectal relations of the subject.",
+      "quote": "The ego is *fallen from its absolute position in the subject*: the ego is a *mirage, like the rest*, an element of *the objectal relations of the subject*."
+    },
+    {
+      "id": "fundierung/lacan-seminar-1/010",
+      "locator": "lacan-seminar-1-freuds-papers-on-technique-commentary#h2-session-of-16-june-1954",
+      "primary_locator": "Seminar I, session of 16 June 1954",
+      "stratum": "lacan-sem1-1953",
+      "term": "what founds the master-slave relation",
+      "status": "introduced",
+      "claim": "Fear of death does not found the master-slave relation; what founds it is that the master engaged in the struggle for reasons of pure prestige and risked his life, and it is in the name of this that the slave recognizes him.",
+      "quote": "What founds is *that the master has engaged in this struggle for reasons of pure prestige* — *that he has opted for reasons of pure prestige*, *risked his life*."
+    },
+    {
+      "id": "fundierung/lacan-seminar-1/011",
+      "locator": "lacan-seminar-1-freuds-papers-on-technique-commentary#h2-session-of-16-june-1954",
+      "primary_locator": "Seminar I, session of 16 June 1954",
+      "stratum": "lacan-sem1-1953",
+      "term": "founding on biological panic rejected",
+      "status": "criticized",
+      "claim": "The master-slave situation cannot be founded on biological panic at the approach of death, since death is never experienced and never real, and the death at stake in the risk of death is an imaginary death.",
+      "quote": "The situation cannot be founded on biological panic at the approach of death — death *never experienced, never real*."
+    },
+    {
+      "id": "fundierung/lacan-seminar-1/012",
+      "locator": "lacan-seminar-1-freuds-papers-on-technique-commentary#h2-session-of-16-june-1954",
+      "primary_locator": "Seminar I, session of 16 June 1954",
+      "stratum": "lacan-sem1-1953",
+      "term": "encircled by the symbolic register",
+      "status": "revised",
+      "claim": "The symbolic does not stand in a simple relation of succession to the imaginary pivot of the situation constituted by the mortal relation: the myth is conceivable only as absolutely encircled by the symbolic register.",
+      "quote": "This symbolic is not in simple relation of succession to the *imaginary pivot* of the situation constituted by the *mortal relation*. We do not pass by a leap from anterior to posterior, following pact and symbol. Deepening the myth: it is conceivable only as *absolutely encircled by the symbolic register*."
+    },
+    {
+      "id": "fundierung/lacan-seminar-1/013",
+      "locator": "lacan-seminar-1-freuds-papers-on-technique-commentary#h2-session-of-16-june-1954",
+      "primary_locator": "Seminar I, session of 16 June 1954",
+      "stratum": "lacan-sem1-1953",
+      "term": "the symbolic plane introduced",
+      "status": "introduced",
+      "claim": "The imaginary face of the master-slave beginning ends in an impasse, and it is the other face that permits the dialectic of history to constitute itself by something else, introducing the symbolic plane.",
+      "quote": "*The other face permits the dialectic of history to constitute itself by something else, introducing the symbolic plane*"
+    },
+    {
+      "id": "fundierung/lacan-seminar-1/014",
+      "locator": "lacan-seminar-1-freuds-papers-on-technique-commentary#h2-closing-note",
+      "primary_locator": "Seminar I, closing note",
+      "stratum": "lacan-sem1-1953",
+      "term": "foundational thesis",
+      "status": "presupposed",
+      "claim": "The Freudian texts read across the year are said to converge on the foundational thesis that the unconscious is structured like a language and that the discourse of the unconscious is the discourse of the Other.",
+      "quote": "all converging on the foundational thesis that *the unconscious is structured like a language*, that *the discourse of the unconscious is the discourse of the Other*"
+    }
+  ],
+  "absences": [
+    {
+      "locator": "lacan-seminar-1-freuds-papers-on-technique-commentary#h3-jean-hyppolite-die-verneinung",
+      "expected_because": "Hyppolite reads Freud's Verneinung as posing negation as the very origin of intelligence, and distinguishes the negation internal to a judgment from the attitude of negation, so a higher-order achievement is here derived from a lower one.",
+      "note": "The derivation is conducted in the vocabulary of origin, genesis, Bejahung and Aufhebung and never in that of founding or of strata, although this is the one exposition in the volume that asks after what judgment arises out of.",
+      "absent_terms": ["Fundierung", "fundiert", "founded", "founding", "foundation", "stratum", "strata", "higher level", "higher-order"]
+    },
+    {
+      "locator": "lacan-seminar-1-freuds-papers-on-technique-commentary#h2-session-of-7-april-1954",
+      "expected_because": "This is the session that sets out the relations of real, imaginary and symbolic through the optical schema, the place where the dependence of one register on another is worked out at length.",
+      "note": "The relations between the registers are stated throughout as positions of the eye in the schema, as domination and as impression, so that the layering of the registers is described without once being called a founding.",
+      "absent_terms": ["Fundierung", "fundiert", "founded", "founding", "foundation", "stratum", "strata", "higher level", "higher-order"]
+    }
+  ]
+}

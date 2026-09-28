@@ -37,7 +37,10 @@ Everything below is downstream of keeping that check meaningful.
 3. **Stay inside the commentary.** Stage 1 and 3 read one commentary and
    nothing else — not the primary text, not another commentary, not what
    you know. `primary_locator` records the citation *the commentary
-   gives*; where it gives none, omit the field.
+   gives*; where it gives none, omit the field. Stage 5 is the single
+   exception and a narrow one: it opens `sources/` to *substantiate* a
+   claim the ledger already carries, never to add one. A passage that
+   says something the ledger does not is a Stage 1 task.
 4. **Extraction does not interpret; synthesis does not make new textual
    claims.** Connective prose in a `claim` is a rule violation, not a
    stylistic lapse. A `claim` over 400 characters is almost always
@@ -82,6 +85,7 @@ Everything below is downstream of keeping that check meaningful.
 | `chronology.json` | `ledgers/*.md` |
 | `gaps.json` | `STATUS.md` |
 | `extractions/<theme>/<slug>.json` | |
+| `dossiers/specs/*.json` | `dossiers/<slug>.json` |
 | `inheritance/<slug>.json` | |
 | `schema/*.json` | |
 | `prompts/*.md` | |
@@ -114,13 +118,20 @@ holds the data.
     inheritance/<commentary-slug>.json
     ledgers/             Generated. One markdown ledger per theme.
     outputs/             Stage 4 drafts. Not published.
+    dossiers/specs/      Stage 5 anchor specs: which lines of which
+                         source file stand behind each cited unit id.
+    dossiers/<slug>.json Generated from a Stage 4 output, the extraction
+                         records and the specs - `build` then `fill`
+                         reproduce it from scratch. Holds the quotes
+                         themselves, sliced off disk, never typed.
     STATUS.md            Generated. The queue for the next pass.
 
 Prompts live in [`prompts/`](prompts):
 [extraction](prompts/extraction-prompt.md) (Stage 1),
 [inheritance](prompts/inheritance-prompt.md) (Stage 3),
-[synthesis](prompts/synthesis-prompt.md) (Stage 4). Stage 2 is a script
-and has no prompt, because it needs no judgement. A record's
+[synthesis](prompts/synthesis-prompt.md) (Stage 4),
+[article-final](prompts/article-final-prompt.md) (Stage 5). Stage 2 is a
+script and has no prompt, because it needs no judgement. A record's
 `extractor.prompt` is the repo-relative path of the prompt it ran,
 e.g. `synthesis/prompts/extraction-prompt.md`.
 

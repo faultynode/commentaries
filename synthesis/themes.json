@@ -116,6 +116,25 @@
         "manifold", "Mannigfaltigkeit"
       ],
       "note": "Husserl's account of how complex objectivities (states of affairs, values, meanings) are founded on and constituted through more basic entities—a foundational doctrine running through Logical Investigations (especially the Sixth Investigation), Ideas I Part 3, and Thing and Space. The doctrine holds that some objects depend asymmetrically on others for their existence (dependent parts cannot exist alone; independent parts can), and that higher-order objectivities emerge through founding relations between strata of objects. Henry's phenomenology of manifestation and Marion's donation all work substantially with founding structures, making this theme particularly dense in French phenomenology. Watch for ambiguous 'function' in mathematical contexts or psychological functions; the philosophical sense concerns the structural role of an object in constituting a higher-order whole."
+    },
+    {
+      "id": "erfuellung",
+      "english": "intuitive fulfillment",
+      "glossary_terms": ["Erfüllung", "Leerintention", "kategoriale Anschauung", "Deckung", "Enttäuschung"],
+      "search_terms": [
+        "erfüll", "signitiv", "Anschauung", "anschaulich", "Deckung",
+        "Enttäuschung", "Widerstreit", "Evidenz", "Selbstgegebenheit",
+        "selbstgegeben", "leibhaft", "Fülle", "Bedeutungsintention", "Bewährung",
+        "fulfil", "unfulfil",
+        "empty intention", "empty presentation", "empty meaning", "emptily",
+        "meaning-intention", "signifying intention", "significative",
+        "intuitive content", "intuitive presentation", "categorial intuition",
+        "synthesis of identification", "synthesis of coincidence", "coincidence",
+        "self-evidence", "adequation", "verification",
+        "self-given", "bodily presence", "in the flesh", "in person",
+        "disappoint", "disillusion", "frustrat", "fullness"
+      ],
+      "note": "The Sixth Investigation's dynamic — an empty or signitive intention brought to coincidence (Deckung) with intuition, the series of fulfilments running toward adequation, and disappointment (Enttäuschung) as the negative case — and then what becomes of it: Ideas I's grades of evidence, Hua XI on fulfilled and frustrated protention, Erfahrung und Urteil deriving negation from disappointment, Heidegger's categorial intuition in GA 20. Two traps. First, the matcher anchors at a word start only, so a stem carries its family: 'fulfil' finds fulfilment, fulfillment, fulfilled and fulfilling (1,321 hits in 48 of the 53 documents, and it is what bridges the British/American spelling split between translations), while 'unfulfil' has to be listed separately. Second, the obvious English words are withheld on purpose: 'intuition' (3,427 hits, 49 documents), 'evidence' (2,005 in 52), 'empty', 'intuitive' and 'identification' are ordinary words at this scale, and would both swamp the ranking and make any recorded absence meaningless — 'Evidenz' is the reliable handle, as that lexicon entry already says. 'coincidence', 'fullness', 'in person' and 'verification' are kept, and are the ones to set absent_terms against by hand."
     }
   ]
 }
