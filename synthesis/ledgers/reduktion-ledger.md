@@ -1469,7 +1469,9 @@
 
 *Where the theme's terms occur but no extraction pass has run. Silence in the sections above is silence about these files, not evidence of absence in them.*
 
+- `husserliana-8-erste-philosophie-ii-commentary` - 393 term hits, no record
 - `Reduction et donation Commentary` - 123 term hits, no record
+- `heidegger-ga-26-metaphysische-anfangsgruende-der-logik-commentary` - 36 term hits, no record
 - `husserliana-4-ideas-ii-commentary` - 21 term hits, no record
 - `lacan-seminar-11-the-four-fundamental-concepts-of-psychoanalysis-commentary` - 17 term hits, no record
 - `leibniz-monadology-commentary` - 9 term hits, no record
@@ -1483,6 +1485,7 @@
 - `heidegger-ga-61-phenomenological-interpretations-of-aristotle-commentary` - 3 term hits, no record
 - `husserl-erfahrung-und-urteil-commentary` - 3 term hits, no record
 - `lacan-seminar-2-the-ego-in-freuds-theory-and-in-the-technique-of-psychoanalysis-commentary` - 3 term hits, no record
+- `Heidegger GA 9 - Vom Wesen des Grundes Commentary` - 2 term hits, no record
 - `aristotle-de-anima-commentary` - 2 term hits, no record
 - `husserliana-19-2-sixth-logical-investigation-commentary` - 2 term hits, no record
 - `husserliana-3-ideas-i-commentary` - 2 term hits, no record

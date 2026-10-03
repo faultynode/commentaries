@@ -1734,6 +1734,8 @@
 
 - `Heidegger GA 3 - Kant und das Problem der Metaphysik Commentary` - 226 term hits, no record
 - `heidegger-ga-3-kant-und-das-problem-der-metaphysik-commentary` - 226 term hits, no record
+- `husserliana-8-erste-philosophie-ii-commentary` - 219 term hits, no record
+- `heidegger-ga-26-metaphysische-anfangsgruende-der-logik-commentary` - 213 term hits, no record
 - `husserliana-7-erste-philosophie-i-commentary` - 213 term hits, no record
 - `husserliana-39-die-lebenswelt-commentary` - 209 term hits, no record
 - `husserliana-23-phantasie-bildbewusstsein-erinnerung-commentary` - 203 term hits, no record
@@ -1763,6 +1765,7 @@
 - `kern-husserl-and-kant-commentary` - 40 term hits, no record
 - `derrida-la-voix-et-le-phenomene-commentary` - 29 term hits, no record
 - `franck-heidegger-and-the-problem-of-space-commentary` - 28 term hits, no record
+- `Heidegger GA 9 - Vom Wesen des Grundes Commentary` - 27 term hits, no record
 - `leibniz-monadology-commentary` - 22 term hits, no record
 - `husserliana-13-editors-introduction-commentary` - 18 term hits, no record
 - `aristotle-de-anima-commentary` - 16 term hits, no record

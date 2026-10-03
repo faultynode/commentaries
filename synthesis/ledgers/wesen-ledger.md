@@ -1307,6 +1307,8 @@
 *Where the theme's terms occur but no extraction pass has run. Silence in the sections above is silence about these files, not evidence of absence in them.*
 
 - `Heidegger GA 3 - Kant und das Problem der Metaphysik Commentary` - 508 term hits, no record
+- `heidegger-ga-26-metaphysische-anfangsgruende-der-logik-commentary` - 494 term hits, no record
+- `Heidegger GA 9 - Vom Wesen des Grundes Commentary` - 112 term hits, no record
 - `husserl-natur-und-geist-commentary` - 102 term hits, no record
 - `Reduction et donation Commentary` - 100 term hits, no record
 - `husserliana-3-ideas-i-commentary` - 100 term hits, no record
@@ -1314,6 +1316,7 @@
 - `heidegger-ga-24-die-grundprobleme-der-phanomenologie-commentary` - 73 term hits, no record
 - `husserliana-23-phantasie-bildbewusstsein-erinnerung-commentary` - 65 term hits, no record
 - `husserliana-39-die-lebenswelt-commentary` - 63 term hits, no record
+- `husserliana-8-erste-philosophie-ii-commentary` - 60 term hits, no record
 - `heidegger-ga-18-grundbegriffe-der-aristotelischen-philosophie-commentary` - 58 term hits, no record
 - `heidegger-ga-20-prolegomena-zur-geschichte-des-zeitbegriffs-commentary` - 52 term hits, no record
 - `kern-husserl-and-kant-commentary` - 50 term hits, no record

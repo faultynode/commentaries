@@ -3838,6 +3838,99 @@
       ]
     },
     {
+      "slug": "Heidegger GA 9 - Vom Wesen des Grundes Commentary",
+      "path": "commentaries/heidegger/Heidegger GA 9 - Vom Wesen des Grundes Commentary.md",
+      "author": "heidegger",
+      "title": "Commentary on Heidegger, \"On the Essence of Ground\" (GA 9: 123–175)",
+      "wordpress_id": null,
+      "sha256": "c733cb6d61fe7f2ed9a90bcf1a06380b58c9ae4bc5e03796460a230aa2c07e56",
+      "lines": 222,
+      "words": 17089,
+      "url": "https://faultynode.github.io/commentaries/commentaries/heidegger/Heidegger GA 9 - Vom Wesen des Grundes Commentary.html",
+      "sections": [
+        {
+          "id": "h1-commentary-on-heidegger-on-the-essence-of-ground-ga-9-123-175",
+          "level": 1,
+          "title": "Commentary on Heidegger, \"On the Essence of Ground\" (GA 9: 123–175)",
+          "path": [
+            "Commentary on Heidegger, \"On the Essence of Ground\" (GA 9: 123–175)"
+          ],
+          "anchor": "commentary-on-heidegger-on-the-essence-of-ground-ga-9-123175",
+          "line_start": 1,
+          "line_end": 6,
+          "words": 290
+        },
+        {
+          "id": "h2-preface-to-the-third-edition-1949",
+          "level": 2,
+          "title": "Preface to the Third Edition (1949)",
+          "path": [
+            "Commentary on Heidegger, \"On the Essence of Ground\" (GA 9: 123–175)",
+            "Preface to the Third Edition (1949)"
+          ],
+          "anchor": "preface-to-the-third-edition-1949",
+          "line_start": 7,
+          "line_end": 16,
+          "words": 375
+        },
+        {
+          "id": "h2-on-the-essence-of-ground",
+          "level": 2,
+          "title": "On the Essence of Ground",
+          "path": [
+            "Commentary on Heidegger, \"On the Essence of Ground\" (GA 9: 123–175)",
+            "On the Essence of Ground"
+          ],
+          "anchor": "on-the-essence-of-ground",
+          "line_start": 17,
+          "line_end": 24,
+          "words": 544
+        },
+        {
+          "id": "h3-i-the-problem-of-ground",
+          "level": 3,
+          "title": "I. The Problem of Ground",
+          "path": [
+            "Commentary on Heidegger, \"On the Essence of Ground\" (GA 9: 123–175)",
+            "On the Essence of Ground",
+            "I. The Problem of Ground"
+          ],
+          "anchor": "i-the-problem-of-ground",
+          "line_start": 25,
+          "line_end": 56,
+          "words": 2714
+        },
+        {
+          "id": "h3-ii-transcendence-as-the-domain-of-the-question-concerning-the-essence-of-ground",
+          "level": 3,
+          "title": "II. Transcendence as the Domain of the Question concerning the Essence of Ground",
+          "path": [
+            "Commentary on Heidegger, \"On the Essence of Ground\" (GA 9: 123–175)",
+            "On the Essence of Ground",
+            "II. Transcendence as the Domain of the Question concerning the Essence of Ground"
+          ],
+          "anchor": "ii-transcendence-as-the-domain-of-the-question-concerning-the-essence-of-ground",
+          "line_start": 57,
+          "line_end": 166,
+          "words": 8198
+        },
+        {
+          "id": "h3-iii-on-the-essence-of-ground",
+          "level": 3,
+          "title": "III. On the Essence of Ground",
+          "path": [
+            "Commentary on Heidegger, \"On the Essence of Ground\" (GA 9: 123–175)",
+            "On the Essence of Ground",
+            "III. On the Essence of Ground"
+          ],
+          "anchor": "iii-on-the-essence-of-ground",
+          "line_start": 167,
+          "line_end": 222,
+          "words": 4916
+        }
+      ]
+    },
+    {
       "slug": "heidegger-being-and-time-commentary",
       "path": "commentaries/heidegger/heidegger-being-and-time-commentary.md",
       "author": "heidegger",
@@ -10122,6 +10215,514 @@
           "line_start": 327,
           "line_end": 371,
           "words": 4559
+        }
+      ]
+    },
+    {
+      "slug": "heidegger-ga-26-metaphysische-anfangsgruende-der-logik-commentary",
+      "path": "commentaries/heidegger/heidegger-ga-26-metaphysische-anfangsgruende-der-logik-commentary.md",
+      "author": "heidegger",
+      "title": "Heidegger, Metaphysische Anfangsgründe der Logik im Ausgang von Leibniz (GA 26): A Commentary",
+      "wordpress_id": null,
+      "sha256": "5e19fd1e79c89e9f869ca484270345e7d65e3ee11f7948f5abadc97e3b56ea4f",
+      "lines": 1338,
+      "words": 91593,
+      "url": "https://faultynode.github.io/commentaries/commentaries/heidegger/heidegger-ga-26-metaphysische-anfangsgruende-der-logik-commentary.html",
+      "sections": [
+        {
+          "id": "h1-heidegger-metaphysische-anfangsgrunde-der-logik-im-ausgang-von-leibniz-ga-26-a-c",
+          "level": 1,
+          "title": "Heidegger, Metaphysische Anfangsgründe der Logik im Ausgang von Leibniz (GA 26): A Commentary",
+          "path": [
+            "Heidegger, Metaphysische Anfangsgründe der Logik im Ausgang von Leibniz (GA 26): A Commentary"
+          ],
+          "anchor": "heidegger-metaphysische-anfangsgrunde-der-logik-im-ausgang-von-leibniz-ga-26-a-commentary",
+          "line_start": 1,
+          "line_end": 8,
+          "words": 455
+        },
+        {
+          "id": "h2-metaphysical-foundations-of-logic",
+          "level": 2,
+          "title": "Metaphysical Foundations of Logic",
+          "path": [
+            "Heidegger, Metaphysische Anfangsgründe der Logik im Ausgang von Leibniz (GA 26): A Commentary",
+            "Metaphysical Foundations of Logic"
+          ],
+          "anchor": "metaphysical-foundations-of-logic",
+          "line_start": 9,
+          "line_end": 10,
+          "words": 0
+        },
+        {
+          "id": "h3-preliminary-remark",
+          "level": 3,
+          "title": "Preliminary Remark",
+          "path": [
+            "Heidegger, Metaphysische Anfangsgründe der Logik im Ausgang von Leibniz (GA 26): A Commentary",
+            "Metaphysical Foundations of Logic",
+            "Preliminary Remark"
+          ],
+          "anchor": "preliminary-remark",
+          "line_start": 11,
+          "line_end": 14,
+          "words": 160
+        },
+        {
+          "id": "h3-first-main-part-destruction-of-leibniz-s-doctrine-of-judgment-with-respect-to-th",
+          "level": 3,
+          "title": "First Main Part: Destruction of Leibniz's Doctrine of Judgment with Respect to the Metaphysical Basic Problems",
+          "path": [
+            "Heidegger, Metaphysische Anfangsgründe der Logik im Ausgang von Leibniz (GA 26): A Commentary",
+            "Metaphysical Foundations of Logic",
+            "First Main Part: Destruction of Leibniz's Doctrine of Judgment with Respect to the Metaphysical Basic Problems"
+          ],
+          "anchor": "first-main-part-destruction-of-leibnizs-doctrine-of-judgment-with-respect-to-the-metaphysical-basic-problems",
+          "line_start": 15,
+          "line_end": 28,
+          "words": 862
+        },
+        {
+          "id": "h4-s1-characterization-of-the-general-structure-of-judgment",
+          "level": 4,
+          "title": "§1. Characterization of the General Structure of Judgment",
+          "path": [
+            "Heidegger, Metaphysische Anfangsgründe der Logik im Ausgang von Leibniz (GA 26): A Commentary",
+            "Metaphysical Foundations of Logic",
+            "First Main Part: Destruction of Leibniz's Doctrine of Judgment with Respect to the Metaphysical Basic Problems",
+            "§1. Characterization of the General Structure of Judgment"
+          ],
+          "anchor": "characterization-of-the-general-structure-of-judgment",
+          "line_start": 29,
+          "line_end": 78,
+          "words": 3089
+        },
+        {
+          "id": "h4-s2-judgment-and-the-idea-of-truth-the-basic-forms-of-truth",
+          "level": 4,
+          "title": "§2. Judgment and the Idea of Truth. The Basic Forms of Truth",
+          "path": [
+            "Heidegger, Metaphysische Anfangsgründe der Logik im Ausgang von Leibniz (GA 26): A Commentary",
+            "Metaphysical Foundations of Logic",
+            "First Main Part: Destruction of Leibniz's Doctrine of Judgment with Respect to the Metaphysical Basic Problems",
+            "§2. Judgment and the Idea of Truth. The Basic Forms of Truth"
+          ],
+          "anchor": "judgment-and-the-idea-of-truth-the-basic-forms-of-truth",
+          "line_start": 79,
+          "line_end": 164,
+          "words": 5768
+        },
+        {
+          "id": "h5-in-memoriam-max-scheler",
+          "level": 5,
+          "title": "In memoriam Max Scheler",
+          "path": [
+            "Heidegger, Metaphysische Anfangsgründe der Logik im Ausgang von Leibniz (GA 26): A Commentary",
+            "Metaphysical Foundations of Logic",
+            "First Main Part: Destruction of Leibniz's Doctrine of Judgment with Respect to the Metaphysical Basic Problems",
+            "§2. Judgment and the Idea of Truth. The Basic Forms of Truth",
+            "In memoriam Max Scheler"
+          ],
+          "anchor": "in-memoriam-max-scheler",
+          "line_start": 165,
+          "line_end": 186,
+          "words": 985
+        },
+        {
+          "id": "h4-s3-the-idea-of-truth-and-the-principles-of-knowledge",
+          "level": 4,
+          "title": "§3. The Idea of Truth and the Principles of Knowledge",
+          "path": [
+            "Heidegger, Metaphysische Anfangsgründe der Logik im Ausgang von Leibniz (GA 26): A Commentary",
+            "Metaphysical Foundations of Logic",
+            "First Main Part: Destruction of Leibniz's Doctrine of Judgment with Respect to the Metaphysical Basic Problems",
+            "§3. The Idea of Truth and the Principles of Knowledge"
+          ],
+          "anchor": "the-idea-of-truth-and-the-principles-of-knowledge",
+          "line_start": 187,
+          "line_end": 214,
+          "words": 2090
+        },
+        {
+          "id": "h5-summarizing-recapitulation",
+          "level": 5,
+          "title": "Summarizing Recapitulation",
+          "path": [
+            "Heidegger, Metaphysische Anfangsgründe der Logik im Ausgang von Leibniz (GA 26): A Commentary",
+            "Metaphysical Foundations of Logic",
+            "First Main Part: Destruction of Leibniz's Doctrine of Judgment with Respect to the Metaphysical Basic Problems",
+            "§3. The Idea of Truth and the Principles of Knowledge",
+            "Summarizing Recapitulation"
+          ],
+          "anchor": "summarizing-recapitulation",
+          "line_start": 215,
+          "line_end": 224,
+          "words": 526
+        },
+        {
+          "id": "h4-s4-the-idea-of-knowledge-as-such",
+          "level": 4,
+          "title": "§4. The Idea of Knowledge as Such",
+          "path": [
+            "Heidegger, Metaphysische Anfangsgründe der Logik im Ausgang von Leibniz (GA 26): A Commentary",
+            "Metaphysical Foundations of Logic",
+            "First Main Part: Destruction of Leibniz's Doctrine of Judgment with Respect to the Metaphysical Basic Problems",
+            "§4. The Idea of Knowledge as Such"
+          ],
+          "anchor": "the-idea-of-knowledge-as-such",
+          "line_start": 225,
+          "line_end": 306,
+          "words": 5361
+        },
+        {
+          "id": "h4-s5-the-essential-determination-of-the-being-of-genuine-beings",
+          "level": 4,
+          "title": "§5. The Essential Determination of the Being of Genuine Beings",
+          "path": [
+            "Heidegger, Metaphysische Anfangsgründe der Logik im Ausgang von Leibniz (GA 26): A Commentary",
+            "Metaphysical Foundations of Logic",
+            "First Main Part: Destruction of Leibniz's Doctrine of Judgment with Respect to the Metaphysical Basic Problems",
+            "§5. The Essential Determination of the Being of Genuine Beings"
+          ],
+          "anchor": "the-essential-determination-of-the-being-of-genuine-beings",
+          "line_start": 307,
+          "line_end": 308,
+          "words": 0
+        },
+        {
+          "id": "h5-a-the-monad-as-drive",
+          "level": 5,
+          "title": "a) The Monad as Drive",
+          "path": [
+            "Heidegger, Metaphysische Anfangsgründe der Logik im Ausgang von Leibniz (GA 26): A Commentary",
+            "Metaphysical Foundations of Logic",
+            "First Main Part: Destruction of Leibniz's Doctrine of Judgment with Respect to the Metaphysical Basic Problems",
+            "§5. The Essential Determination of the Being of Genuine Beings",
+            "a) The Monad as Drive"
+          ],
+          "anchor": "a-the-monad-as-drive",
+          "line_start": 309,
+          "line_end": 412,
+          "words": 7209
+        },
+        {
+          "id": "h5-b-interim-reflection-on-the-guiding-thread-of-the-interpretation-of-being",
+          "level": 5,
+          "title": "b) Interim Reflection on the Guiding Thread of the Interpretation of Being",
+          "path": [
+            "Heidegger, Metaphysische Anfangsgründe der Logik im Ausgang von Leibniz (GA 26): A Commentary",
+            "Metaphysical Foundations of Logic",
+            "First Main Part: Destruction of Leibniz's Doctrine of Judgment with Respect to the Metaphysical Basic Problems",
+            "§5. The Essential Determination of the Being of Genuine Beings",
+            "b) Interim Reflection on the Guiding Thread of the Interpretation of Being"
+          ],
+          "anchor": "b-interim-reflection-on-the-guiding-thread-of-the-interpretation-of-being",
+          "line_start": 413,
+          "line_end": 448,
+          "words": 2196
+        },
+        {
+          "id": "h5-c-the-structure-of-drive",
+          "level": 5,
+          "title": "c) The Structure of Drive",
+          "path": [
+            "Heidegger, Metaphysische Anfangsgründe der Logik im Ausgang von Leibniz (GA 26): A Commentary",
+            "Metaphysical Foundations of Logic",
+            "First Main Part: Destruction of Leibniz's Doctrine of Judgment with Respect to the Metaphysical Basic Problems",
+            "§5. The Essential Determination of the Being of Genuine Beings",
+            "c) The Structure of Drive"
+          ],
+          "anchor": "c-the-structure-of-drive",
+          "line_start": 449,
+          "line_end": 518,
+          "words": 4938
+        },
+        {
+          "id": "h4-s7-theory-of-judgment-and-conception-of-being-logic-and-ontology",
+          "level": 4,
+          "title": "§7. Theory of Judgment and Conception of Being. Logic and Ontology",
+          "path": [
+            "Heidegger, Metaphysische Anfangsgründe der Logik im Ausgang von Leibniz (GA 26): A Commentary",
+            "Metaphysical Foundations of Logic",
+            "First Main Part: Destruction of Leibniz's Doctrine of Judgment with Respect to the Metaphysical Basic Problems",
+            "§7. Theory of Judgment and Conception of Being. Logic and Ontology"
+          ],
+          "anchor": "theory-of-judgment-and-conception-of-being-logic-and-ontology",
+          "line_start": 519,
+          "line_end": 564,
+          "words": 3528
+        },
+        {
+          "id": "h3-second-main-part-the-metaphysics-of-the-principle-of-reason-as-the-basic-problem",
+          "level": 3,
+          "title": "Second Main Part: The Metaphysics of the Principle of Reason as the Basic Problem of Logic",
+          "path": [
+            "Heidegger, Metaphysische Anfangsgründe der Logik im Ausgang von Leibniz (GA 26): A Commentary",
+            "Metaphysical Foundations of Logic",
+            "Second Main Part: The Metaphysics of the Principle of Reason as the Basic Problem of Logic"
+          ],
+          "anchor": "second-main-part-the-metaphysics-of-the-principle-of-reason-as-the-basic-problem-of-logic",
+          "line_start": 565,
+          "line_end": 606,
+          "words": 3655
+        },
+        {
+          "id": "h4-first-section-laying-free-the-dimension-of-the-problem",
+          "level": 4,
+          "title": "First Section: Laying Free the Dimension of the Problem",
+          "path": [
+            "Heidegger, Metaphysische Anfangsgründe der Logik im Ausgang von Leibniz (GA 26): A Commentary",
+            "Metaphysical Foundations of Logic",
+            "Second Main Part: The Metaphysics of the Principle of Reason as the Basic Problem of Logic",
+            "First Section: Laying Free the Dimension of the Problem"
+          ],
+          "anchor": "first-section-laying-free-the-dimension-of-the-problem",
+          "line_start": 607,
+          "line_end": 616,
+          "words": 584
+        },
+        {
+          "id": "h5-s8-the-principle-of-reason-as-a-rule-of-thought",
+          "level": 5,
+          "title": "§8. The Principle of Reason as a Rule of Thought",
+          "path": [
+            "Heidegger, Metaphysische Anfangsgründe der Logik im Ausgang von Leibniz (GA 26): A Commentary",
+            "Metaphysical Foundations of Logic",
+            "Second Main Part: The Metaphysics of the Principle of Reason as the Basic Problem of Logic",
+            "First Section: Laying Free the Dimension of the Problem",
+            "§8. The Principle of Reason as a Rule of Thought"
+          ],
+          "anchor": "the-principle-of-reason-as-a-rule-of-thought",
+          "line_start": 617,
+          "line_end": 646,
+          "words": 1739
+        },
+        {
+          "id": "h5-s9-the-essence-of-truth-and-its-essential-relation-to-ground",
+          "level": 5,
+          "title": "§9. The Essence of Truth and Its Essential Relation to \"Ground\"",
+          "path": [
+            "Heidegger, Metaphysische Anfangsgründe der Logik im Ausgang von Leibniz (GA 26): A Commentary",
+            "Metaphysical Foundations of Logic",
+            "Second Main Part: The Metaphysics of the Principle of Reason as the Basic Problem of Logic",
+            "First Section: Laying Free the Dimension of the Problem",
+            "§9. The Essence of Truth and Its Essential Relation to \"Ground\""
+          ],
+          "anchor": "the-essence-of-truth-and-its-essential-relation-to-ground",
+          "line_start": 647,
+          "line_end": 648,
+          "words": 0
+        },
+        {
+          "id": "h6-a-the-essence-of-propositional-truth",
+          "level": 6,
+          "title": "a) The Essence of Propositional Truth",
+          "path": [
+            "Heidegger, Metaphysische Anfangsgründe der Logik im Ausgang von Leibniz (GA 26): A Commentary",
+            "Metaphysical Foundations of Logic",
+            "Second Main Part: The Metaphysics of the Principle of Reason as the Basic Problem of Logic",
+            "First Section: Laying Free the Dimension of the Problem",
+            "§9. The Essence of Truth and Its Essential Relation to \"Ground\"",
+            "a) The Essence of Propositional Truth"
+          ],
+          "anchor": "a-the-essence-of-propositional-truth",
+          "line_start": 649,
+          "line_end": 692,
+          "words": 2659
+        },
+        {
+          "id": "h6-b-intentionality-and-transcendence",
+          "level": 6,
+          "title": "b) Intentionality and Transcendence",
+          "path": [
+            "Heidegger, Metaphysische Anfangsgründe der Logik im Ausgang von Leibniz (GA 26): A Commentary",
+            "Metaphysical Foundations of Logic",
+            "Second Main Part: The Metaphysics of the Principle of Reason as the Basic Problem of Logic",
+            "First Section: Laying Free the Dimension of the Problem",
+            "§9. The Essence of Truth and Its Essential Relation to \"Ground\"",
+            "b) Intentionality and Transcendence"
+          ],
+          "anchor": "b-intentionality-and-transcendence",
+          "line_start": 693,
+          "line_end": 744,
+          "words": 3562
+        },
+        {
+          "id": "h5-s10-the-problem-of-transcendence-and-the-problem-of-being-and-time",
+          "level": 5,
+          "title": "§10. The Problem of Transcendence and the Problem of Being and Time",
+          "path": [
+            "Heidegger, Metaphysische Anfangsgründe der Logik im Ausgang von Leibniz (GA 26): A Commentary",
+            "Metaphysical Foundations of Logic",
+            "Second Main Part: The Metaphysics of the Principle of Reason as the Basic Problem of Logic",
+            "First Section: Laying Free the Dimension of the Problem",
+            "§10. The Problem of Transcendence and the Problem of Being and Time"
+          ],
+          "anchor": "the-problem-of-transcendence-and-the-problem-of-being-and-time",
+          "line_start": 745,
+          "line_end": 870,
+          "words": 9090
+        },
+        {
+          "id": "h6-appendix-characterization-of-the-idea-and-function-of-a-fundamental-ontology",
+          "level": 6,
+          "title": "Appendix: Characterization of the Idea and Function of a Fundamental Ontology",
+          "path": [
+            "Heidegger, Metaphysische Anfangsgründe der Logik im Ausgang von Leibniz (GA 26): A Commentary",
+            "Metaphysical Foundations of Logic",
+            "Second Main Part: The Metaphysics of the Principle of Reason as the Basic Problem of Logic",
+            "First Section: Laying Free the Dimension of the Problem",
+            "§10. The Problem of Transcendence and the Problem of Being and Time",
+            "Appendix: Characterization of the Idea and Function of a Fundamental Ontology"
+          ],
+          "anchor": "appendix-characterization-of-the-idea-and-function-of-a-fundamental-ontology",
+          "line_start": 871,
+          "line_end": 910,
+          "words": 2635
+        },
+        {
+          "id": "h4-second-section-the-problem-of-ground",
+          "level": 4,
+          "title": "Second Section: The Problem of Ground",
+          "path": [
+            "Heidegger, Metaphysische Anfangsgründe der Logik im Ausgang von Leibniz (GA 26): A Commentary",
+            "Metaphysical Foundations of Logic",
+            "Second Main Part: The Metaphysics of the Principle of Reason as the Basic Problem of Logic",
+            "Second Section: The Problem of Ground"
+          ],
+          "anchor": "second-section-the-problem-of-ground",
+          "line_start": 911,
+          "line_end": 912,
+          "words": 0
+        },
+        {
+          "id": "h5-s11-the-transcendence-of-dasein",
+          "level": 5,
+          "title": "§11. The Transcendence of Dasein",
+          "path": [
+            "Heidegger, Metaphysische Anfangsgründe der Logik im Ausgang von Leibniz (GA 26): A Commentary",
+            "Metaphysical Foundations of Logic",
+            "Second Main Part: The Metaphysics of the Principle of Reason as the Basic Problem of Logic",
+            "Second Section: The Problem of Ground",
+            "§11. The Transcendence of Dasein"
+          ],
+          "anchor": "the-transcendence-of-dasein",
+          "line_start": 913,
+          "line_end": 914,
+          "words": 0
+        },
+        {
+          "id": "h6-a-on-the-concept-of-transcendence",
+          "level": 6,
+          "title": "a) On the Concept of Transcendence",
+          "path": [
+            "Heidegger, Metaphysische Anfangsgründe der Logik im Ausgang von Leibniz (GA 26): A Commentary",
+            "Metaphysical Foundations of Logic",
+            "Second Main Part: The Metaphysics of the Principle of Reason as the Basic Problem of Logic",
+            "Second Section: The Problem of Ground",
+            "§11. The Transcendence of Dasein",
+            "a) On the Concept of Transcendence"
+          ],
+          "anchor": "a-on-the-concept-of-transcendence",
+          "line_start": 915,
+          "line_end": 1000,
+          "words": 5845
+        },
+        {
+          "id": "h6-b-the-phenomenon-of-world",
+          "level": 6,
+          "title": "b) The Phenomenon of World",
+          "path": [
+            "Heidegger, Metaphysische Anfangsgründe der Logik im Ausgang von Leibniz (GA 26): A Commentary",
+            "Metaphysical Foundations of Logic",
+            "Second Main Part: The Metaphysics of the Principle of Reason as the Basic Problem of Logic",
+            "Second Section: The Problem of Ground",
+            "§11. The Transcendence of Dasein",
+            "b) The Phenomenon of World"
+          ],
+          "anchor": "b-the-phenomenon-of-world",
+          "line_start": 1001,
+          "line_end": 1096,
+          "words": 6906
+        },
+        {
+          "id": "h6-c-freedom-and-world",
+          "level": 6,
+          "title": "c) Freedom and World",
+          "path": [
+            "Heidegger, Metaphysische Anfangsgründe der Logik im Ausgang von Leibniz (GA 26): A Commentary",
+            "Metaphysical Foundations of Logic",
+            "Second Main Part: The Metaphysics of the Principle of Reason as the Basic Problem of Logic",
+            "Second Section: The Problem of Ground",
+            "§11. The Transcendence of Dasein",
+            "c) Freedom and World"
+          ],
+          "anchor": "c-freedom-and-world",
+          "line_start": 1097,
+          "line_end": 1170,
+          "words": 5348
+        },
+        {
+          "id": "h5-s12-transcendence-and-temporality-nihil-originarium",
+          "level": 5,
+          "title": "§12. Transcendence and Temporality (nihil originarium)",
+          "path": [
+            "Heidegger, Metaphysische Anfangsgründe der Logik im Ausgang von Leibniz (GA 26): A Commentary",
+            "Metaphysical Foundations of Logic",
+            "Second Main Part: The Metaphysics of the Principle of Reason as the Basic Problem of Logic",
+            "Second Section: The Problem of Ground",
+            "§12. Transcendence and Temporality (nihil originarium)"
+          ],
+          "anchor": "transcendence-and-temporality-nihil-originarium",
+          "line_start": 1171,
+          "line_end": 1268,
+          "words": 7300
+        },
+        {
+          "id": "h5-s13-transcendence-temporalizing-itself-in-temporality-and-the-essence-of-ground",
+          "level": 5,
+          "title": "§13. Transcendence Temporalizing Itself in Temporality and the Essence of Ground",
+          "path": [
+            "Heidegger, Metaphysische Anfangsgründe der Logik im Ausgang von Leibniz (GA 26): A Commentary",
+            "Metaphysical Foundations of Logic",
+            "Second Main Part: The Metaphysics of the Principle of Reason as the Basic Problem of Logic",
+            "Second Section: The Problem of Ground",
+            "§13. Transcendence Temporalizing Itself in Temporality and the Essence of Ground"
+          ],
+          "anchor": "transcendence-temporalizing-itself-in-temporality-and-the-essence-of-ground",
+          "line_start": 1269,
+          "line_end": 1304,
+          "words": 2691
+        },
+        {
+          "id": "h5-s14-the-essence-of-ground-and-the-idea-of-logic",
+          "level": 5,
+          "title": "§14. The Essence of Ground and the Idea of Logic",
+          "path": [
+            "Heidegger, Metaphysische Anfangsgründe der Logik im Ausgang von Leibniz (GA 26): A Commentary",
+            "Metaphysical Foundations of Logic",
+            "Second Main Part: The Metaphysics of the Principle of Reason as the Basic Problem of Logic",
+            "Second Section: The Problem of Ground",
+            "§14. The Essence of Ground and the Idea of Logic"
+          ],
+          "anchor": "the-essence-of-ground-and-the-idea-of-logic",
+          "line_start": 1305,
+          "line_end": 1330,
+          "words": 1712
+        },
+        {
+          "id": "h3-appendix-distance-and-nearness",
+          "level": 3,
+          "title": "Appendix: Distance and Nearness",
+          "path": [
+            "Heidegger, Metaphysische Anfangsgründe der Logik im Ausgang von Leibniz (GA 26): A Commentary",
+            "Metaphysical Foundations of Logic",
+            "Appendix: Distance and Nearness"
+          ],
+          "anchor": "appendix-distance-and-nearness",
+          "line_start": 1331,
+          "line_end": 1338,
+          "words": 411
         }
       ]
     },
@@ -47280,6 +47881,674 @@
           "line_start": 935,
           "line_end": 971,
           "words": 3809
+        }
+      ]
+    },
+    {
+      "slug": "husserliana-8-erste-philosophie-ii-commentary",
+      "path": "commentaries/husserl/husserliana-8-erste-philosophie-ii-commentary.md",
+      "author": "husserl",
+      "title": "Husserl, Erste Philosophie (1923/24), Second Part: Theory of the Phenomenological Reduction",
+      "wordpress_id": null,
+      "sha256": "fcae3bd13ed8c30fb61819f9bdcbbbbfe315c3c6da726c021250ec99a4f80b50",
+      "lines": 674,
+      "words": 59449,
+      "url": "https://faultynode.github.io/commentaries/commentaries/husserl/husserliana-8-erste-philosophie-ii-commentary.html",
+      "sections": [
+        {
+          "id": "h1-husserl-erste-philosophie-1923-24-second-part-theory-of-the-phenomenological-red",
+          "level": 1,
+          "title": "Husserl, Erste Philosophie (1923/24), Second Part: Theory of the Phenomenological Reduction",
+          "path": [
+            "Husserl, Erste Philosophie (1923/24), Second Part: Theory of the Phenomenological Reduction"
+          ],
+          "anchor": "husserl-erste-philosophie-192324-second-part-theory-of-the-phenomenological-reduction",
+          "line_start": 1,
+          "line_end": 6,
+          "words": 240
+        },
+        {
+          "id": "h2-section-one-preliminary-meditations-on-the-apodictic-beginning-of-philosophy",
+          "level": 2,
+          "title": "Section One: Preliminary Meditations on the Apodictic Beginning of Philosophy",
+          "path": [
+            "Husserl, Erste Philosophie (1923/24), Second Part: Theory of the Phenomenological Reduction",
+            "Section One: Preliminary Meditations on the Apodictic Beginning of Philosophy"
+          ],
+          "anchor": "section-one-preliminary-meditations-on-the-apodictic-beginning-of-philosophy",
+          "line_start": 7,
+          "line_end": 8,
+          "words": 0
+        },
+        {
+          "id": "h3-chapter-one-introduction-the-motivation-of-the-beginning-philosopher-in-the-abso",
+          "level": 3,
+          "title": "Chapter One: Introduction. The Motivation of the Beginning Philosopher in the Absolute Situation",
+          "path": [
+            "Husserl, Erste Philosophie (1923/24), Second Part: Theory of the Phenomenological Reduction",
+            "Section One: Preliminary Meditations on the Apodictic Beginning of Philosophy",
+            "Chapter One: Introduction. The Motivation of the Beginning Philosopher in the Absolute Situation"
+          ],
+          "anchor": "chapter-one-introduction-the-motivation-of-the-beginning-philosopher-in-the-absolute-situation",
+          "line_start": 9,
+          "line_end": 10,
+          "words": 0
+        },
+        {
+          "id": "h4-lecture-28-the-idea-of-philosophy-in-history-and-the-motivational-situation-of-t",
+          "level": 4,
+          "title": "Lecture 28: The Idea of Philosophy in History and the Motivational Situation of the Subject Beginning to Philosophize",
+          "path": [
+            "Husserl, Erste Philosophie (1923/24), Second Part: Theory of the Phenomenological Reduction",
+            "Section One: Preliminary Meditations on the Apodictic Beginning of Philosophy",
+            "Chapter One: Introduction. The Motivation of the Beginning Philosopher in the Absolute Situation",
+            "Lecture 28: The Idea of Philosophy in History and the Motivational Situation of the Subject Beginning to Philosophize"
+          ],
+          "anchor": "lecture-28-the-idea-of-philosophy-in-history-and-the-motivational-situation-of-the-subject-beginning-to-philosophize",
+          "line_start": 11,
+          "line_end": 36,
+          "words": 1705
+        },
+        {
+          "id": "h4-lecture-29-on-the-founding-of-the-habitual-form-of-life-of-the-philosopher-in-th",
+          "level": 4,
+          "title": "Lecture 29: On the Founding of the Habitual Form of Life of the Philosopher in the Making",
+          "path": [
+            "Husserl, Erste Philosophie (1923/24), Second Part: Theory of the Phenomenological Reduction",
+            "Section One: Preliminary Meditations on the Apodictic Beginning of Philosophy",
+            "Chapter One: Introduction. The Motivation of the Beginning Philosopher in the Absolute Situation",
+            "Lecture 29: On the Founding of the Habitual Form of Life of the Philosopher in the Making"
+          ],
+          "anchor": "lecture-29-on-the-founding-of-the-habitual-form-of-life-of-the-philosopher-in-the-making",
+          "line_start": 37,
+          "line_end": 62,
+          "words": 2220
+        },
+        {
+          "id": "h4-lecture-30-pure-cultural-disposition-in-general-and-the-primal-founding-of-a-phi",
+          "level": 4,
+          "title": "Lecture 30: Pure Cultural Disposition in General and the Primal Founding of a Philosophical Radicalism",
+          "path": [
+            "Husserl, Erste Philosophie (1923/24), Second Part: Theory of the Phenomenological Reduction",
+            "Section One: Preliminary Meditations on the Apodictic Beginning of Philosophy",
+            "Chapter One: Introduction. The Motivation of the Beginning Philosopher in the Absolute Situation",
+            "Lecture 30: Pure Cultural Disposition in General and the Primal Founding of a Philosophical Radicalism"
+          ],
+          "anchor": "lecture-30-pure-cultural-disposition-in-general-and-the-primal-founding-of-a-philosophical-radicalism",
+          "line_start": 63,
+          "line_end": 90,
+          "words": 2709
+        },
+        {
+          "id": "h3-chapter-two-the-idea-of-apodictic-evidence-and-the-problem-of-the-beginning",
+          "level": 3,
+          "title": "Chapter Two: The Idea of Apodictic Evidence and the Problem of the Beginning",
+          "path": [
+            "Husserl, Erste Philosophie (1923/24), Second Part: Theory of the Phenomenological Reduction",
+            "Section One: Preliminary Meditations on the Apodictic Beginning of Philosophy",
+            "Chapter Two: The Idea of Apodictic Evidence and the Problem of the Beginning"
+          ],
+          "anchor": "chapter-two-the-idea-of-apodictic-evidence-and-the-problem-of-the-beginning",
+          "line_start": 91,
+          "line_end": 92,
+          "words": 0
+        },
+        {
+          "id": "h4-lecture-31-natural-and-transcendental-apodictic-and-adequate-evidence",
+          "level": 4,
+          "title": "Lecture 31: Natural and Transcendental, Apodictic and Adequate Evidence",
+          "path": [
+            "Husserl, Erste Philosophie (1923/24), Second Part: Theory of the Phenomenological Reduction",
+            "Section One: Preliminary Meditations on the Apodictic Beginning of Philosophy",
+            "Chapter Two: The Idea of Apodictic Evidence and the Problem of the Beginning",
+            "Lecture 31: Natural and Transcendental, Apodictic and Adequate Evidence"
+          ],
+          "anchor": "lecture-31-natural-and-transcendental-apodictic-and-adequate-evidence",
+          "line_start": 93,
+          "line_end": 130,
+          "words": 2912
+        },
+        {
+          "id": "h4-lecture-32-the-possible-starting-points-i-am-and-i-as-beginning-philosopher-i-am",
+          "level": 4,
+          "title": "Lecture 32: The Possible Starting Points: \"I Am\" and \"I as Beginning Philosopher\"; \"I Am\" and \"This World Is\"",
+          "path": [
+            "Husserl, Erste Philosophie (1923/24), Second Part: Theory of the Phenomenological Reduction",
+            "Section One: Preliminary Meditations on the Apodictic Beginning of Philosophy",
+            "Chapter Two: The Idea of Apodictic Evidence and the Problem of the Beginning",
+            "Lecture 32: The Possible Starting Points: \"I Am\" and \"I as Beginning Philosopher\"; \"I Am\" and \"This World Is\""
+          ],
+          "anchor": "lecture-32-the-possible-starting-points-i-am-and-i-as-beginning-philosopher-i-am-and-this-world-is",
+          "line_start": 131,
+          "line_end": 162,
+          "words": 2280
+        },
+        {
+          "id": "h2-section-two-critique-of-mundane-experience-first-way-to-the-transcendental-reduc",
+          "level": 2,
+          "title": "Section Two: Critique of Mundane Experience. First Way to the Transcendental Reduction",
+          "path": [
+            "Husserl, Erste Philosophie (1923/24), Second Part: Theory of the Phenomenological Reduction",
+            "Section Two: Critique of Mundane Experience. First Way to the Transcendental Reduction"
+          ],
+          "anchor": "section-two-critique-of-mundane-experience-first-way-to-the-transcendental-reduction",
+          "line_start": 163,
+          "line_end": 164,
+          "words": 0
+        },
+        {
+          "id": "h3-chapter-one-world-perception-and-world-belief",
+          "level": 3,
+          "title": "Chapter One: World-Perception and World-Belief",
+          "path": [
+            "Husserl, Erste Philosophie (1923/24), Second Part: Theory of the Phenomenological Reduction",
+            "Section Two: Critique of Mundane Experience. First Way to the Transcendental Reduction",
+            "Chapter One: World-Perception and World-Belief"
+          ],
+          "anchor": "chapter-one-world-perception-and-world-belief",
+          "line_start": 165,
+          "line_end": 166,
+          "words": 0
+        },
+        {
+          "id": "h4-lecture-33-the-irremovable-contingency-of-the-proposition-the-world-is",
+          "level": 4,
+          "title": "Lecture 33: The Irremovable Contingency of the Proposition \"The World Is\"",
+          "path": [
+            "Husserl, Erste Philosophie (1923/24), Second Part: Theory of the Phenomenological Reduction",
+            "Section Two: Critique of Mundane Experience. First Way to the Transcendental Reduction",
+            "Chapter One: World-Perception and World-Belief",
+            "Lecture 33: The Irremovable Contingency of the Proposition \"The World Is\""
+          ],
+          "anchor": "lecture-33-the-irremovable-contingency-of-the-proposition-the-world-is",
+          "line_start": 167,
+          "line_end": 186,
+          "words": 2095
+        },
+        {
+          "id": "h4-lecture-34-transcendental-and-empirical-illusion-on-the-objection-from-madness",
+          "level": 4,
+          "title": "Lecture 34: Transcendental and Empirical Illusion. On the \"Objection from Madness\"",
+          "path": [
+            "Husserl, Erste Philosophie (1923/24), Second Part: Theory of the Phenomenological Reduction",
+            "Section Two: Critique of Mundane Experience. First Way to the Transcendental Reduction",
+            "Chapter One: World-Perception and World-Belief",
+            "Lecture 34: Transcendental and Empirical Illusion. On the \"Objection from Madness\""
+          ],
+          "anchor": "lecture-34-transcendental-and-empirical-illusion-on-the-objection-from-madness",
+          "line_start": 187,
+          "line_end": 214,
+          "words": 2462
+        },
+        {
+          "id": "h3-chapter-two-supplements-and-clarifications-following-the-objection-from-madness",
+          "level": 3,
+          "title": "Chapter Two: Supplements and Clarifications following the \"Objection from Madness\"",
+          "path": [
+            "Husserl, Erste Philosophie (1923/24), Second Part: Theory of the Phenomenological Reduction",
+            "Section Two: Critique of Mundane Experience. First Way to the Transcendental Reduction",
+            "Chapter Two: Supplements and Clarifications following the \"Objection from Madness\""
+          ],
+          "anchor": "chapter-two-supplements-and-clarifications-following-the-objection-from-madness",
+          "line_start": 215,
+          "line_end": 216,
+          "words": 0
+        },
+        {
+          "id": "h4-lecture-35-on-the-doctrine-of-empathy",
+          "level": 4,
+          "title": "Lecture 35: On the Doctrine of \"Empathy\"",
+          "path": [
+            "Husserl, Erste Philosophie (1923/24), Second Part: Theory of the Phenomenological Reduction",
+            "Section Two: Critique of Mundane Experience. First Way to the Transcendental Reduction",
+            "Chapter Two: Supplements and Clarifications following the \"Objection from Madness\"",
+            "Lecture 35: On the Doctrine of \"Empathy\""
+          ],
+          "anchor": "lecture-35-on-the-doctrine-of-empathy",
+          "line_start": 217,
+          "line_end": 230,
+          "words": 1588
+        },
+        {
+          "id": "h4-lecture-36-transcendental-solipsism-the-negative-result-of-the-critique-of-munda",
+          "level": 4,
+          "title": "Lecture 36: Transcendental Solipsism. The Negative Result of the Critique of Mundane Experience",
+          "path": [
+            "Husserl, Erste Philosophie (1923/24), Second Part: Theory of the Phenomenological Reduction",
+            "Section Two: Critique of Mundane Experience. First Way to the Transcendental Reduction",
+            "Chapter Two: Supplements and Clarifications following the \"Objection from Madness\"",
+            "Lecture 36: Transcendental Solipsism. The Negative Result of the Critique of Mundane Experience"
+          ],
+          "anchor": "lecture-36-transcendental-solipsism-the-negative-result-of-the-critique-of-mundane-experience",
+          "line_start": 231,
+          "line_end": 244,
+          "words": 1578
+        },
+        {
+          "id": "h3-chapter-three-opening-a-field-of-transcendental-experience-transcendental-phenom",
+          "level": 3,
+          "title": "Chapter Three: Opening a Field of Transcendental Experience. Transcendental, Phenomenological, and Apodictic Reduction",
+          "path": [
+            "Husserl, Erste Philosophie (1923/24), Second Part: Theory of the Phenomenological Reduction",
+            "Section Two: Critique of Mundane Experience. First Way to the Transcendental Reduction",
+            "Chapter Three: Opening a Field of Transcendental Experience. Transcendental, Phenomenological, and Apodictic Reduction"
+          ],
+          "anchor": "chapter-three-opening-a-field-of-transcendental-experience-transcendental-phenomenological-and-apodictic-reduction",
+          "line_start": 245,
+          "line_end": 246,
+          "words": 0
+        },
+        {
+          "id": "h4-lecture-37-the-apodictic-certainty-of-the-world-s-possible-non-existence-and-the",
+          "level": 4,
+          "title": "Lecture 37: The Apodictic Certainty of the World's Possible Non-Existence and the Setting-Off of the Transcendental Life of Subjectivity",
+          "path": [
+            "Husserl, Erste Philosophie (1923/24), Second Part: Theory of the Phenomenological Reduction",
+            "Section Two: Critique of Mundane Experience. First Way to the Transcendental Reduction",
+            "Chapter Three: Opening a Field of Transcendental Experience. Transcendental, Phenomenological, and Apodictic Reduction",
+            "Lecture 37: The Apodictic Certainty of the World's Possible Non-Existence and the Setting-Off of the Transcendental Life of Subjectivity"
+          ],
+          "anchor": "lecture-37-the-apodictic-certainty-of-the-worlds-possible-non-existence-and-the-setting-off-of-the-transcendental-life-of-subjectivity",
+          "line_start": 247,
+          "line_end": 264,
+          "words": 1877
+        },
+        {
+          "id": "h4-lecture-38-the-field-of-transcendental-experience-as-theme-of-a-transcendental-c",
+          "level": 4,
+          "title": "Lecture 38: The Field of Transcendental Experience as Theme of a Transcendental Critique",
+          "path": [
+            "Husserl, Erste Philosophie (1923/24), Second Part: Theory of the Phenomenological Reduction",
+            "Section Two: Critique of Mundane Experience. First Way to the Transcendental Reduction",
+            "Chapter Three: Opening a Field of Transcendental Experience. Transcendental, Phenomenological, and Apodictic Reduction",
+            "Lecture 38: The Field of Transcendental Experience as Theme of a Transcendental Critique"
+          ],
+          "anchor": "lecture-38-the-field-of-transcendental-experience-as-theme-of-a-transcendental-critique",
+          "line_start": 265,
+          "line_end": 292,
+          "words": 2323
+        },
+        {
+          "id": "h2-section-three-on-the-phenomenology-of-the-phenomenological-reduction-opening-a-s",
+          "level": 2,
+          "title": "Section Three: On the Phenomenology of the Phenomenological Reduction. Opening a Second Way to the Transcendental Reduction",
+          "path": [
+            "Husserl, Erste Philosophie (1923/24), Second Part: Theory of the Phenomenological Reduction",
+            "Section Three: On the Phenomenology of the Phenomenological Reduction. Opening a Second Way to the Transcendental Reduction"
+          ],
+          "anchor": "section-three-on-the-phenomenology-of-the-phenomenological-reduction-opening-a-second-way-to-the-transcendental-reduction",
+          "line_start": 293,
+          "line_end": 294,
+          "words": 0
+        },
+        {
+          "id": "h3-chapter-one-the-transcendental-time-form-of-the-transcendental-life-stream-of-su",
+          "level": 3,
+          "title": "Chapter One: The Transcendental Time-Form of the Transcendental Life-Stream of Subjectivity",
+          "path": [
+            "Husserl, Erste Philosophie (1923/24), Second Part: Theory of the Phenomenological Reduction",
+            "Section Three: On the Phenomenology of the Phenomenological Reduction. Opening a Second Way to the Transcendental Reduction",
+            "Chapter One: The Transcendental Time-Form of the Transcendental Life-Stream of Subjectivity"
+          ],
+          "anchor": "chapter-one-the-transcendental-time-form-of-the-transcendental-life-stream-of-subjectivity",
+          "line_start": 295,
+          "line_end": 296,
+          "words": 0
+        },
+        {
+          "id": "h4-lecture-39-the-full-content-of-universal-transcendental-self-experience-transcen",
+          "level": 4,
+          "title": "Lecture 39: The Full Content of Universal Transcendental Self-Experience: Transcendental Present, Past, and Future",
+          "path": [
+            "Husserl, Erste Philosophie (1923/24), Second Part: Theory of the Phenomenological Reduction",
+            "Section Three: On the Phenomenology of the Phenomenological Reduction. Opening a Second Way to the Transcendental Reduction",
+            "Chapter One: The Transcendental Time-Form of the Transcendental Life-Stream of Subjectivity",
+            "Lecture 39: The Full Content of Universal Transcendental Self-Experience: Transcendental Present, Past, and Future"
+          ],
+          "anchor": "lecture-39-the-full-content-of-universal-transcendental-self-experience-transcendental-present-past-and-future",
+          "line_start": 297,
+          "line_end": 308,
+          "words": 1347
+        },
+        {
+          "id": "h4-lecture-40-reflection-as-splitting-of-the-ego-and-the-identity-of-the-ego-in-the",
+          "level": 4,
+          "title": "Lecture 40: Reflection as Splitting of the Ego and the Identity of the Ego in the Streaming Living Present",
+          "path": [
+            "Husserl, Erste Philosophie (1923/24), Second Part: Theory of the Phenomenological Reduction",
+            "Section Three: On the Phenomenology of the Phenomenological Reduction. Opening a Second Way to the Transcendental Reduction",
+            "Chapter One: The Transcendental Time-Form of the Transcendental Life-Stream of Subjectivity",
+            "Lecture 40: Reflection as Splitting of the Ego and the Identity of the Ego in the Streaming Living Present"
+          ],
+          "anchor": "lecture-40-reflection-as-splitting-of-the-ego-and-the-identity-of-the-ego-in-the-streaming-living-present",
+          "line_start": 309,
+          "line_end": 330,
+          "words": 1921
+        },
+        {
+          "id": "h3-chapter-two-on-the-theory-of-the-phenomenologist-s-theoretical-attitude-sense-an",
+          "level": 3,
+          "title": "Chapter Two: On the Theory of the Phenomenologist's Theoretical Attitude: Sense and Achievement of the Epoché",
+          "path": [
+            "Husserl, Erste Philosophie (1923/24), Second Part: Theory of the Phenomenological Reduction",
+            "Section Three: On the Phenomenology of the Phenomenological Reduction. Opening a Second Way to the Transcendental Reduction",
+            "Chapter Two: On the Theory of the Phenomenologist's Theoretical Attitude: Sense and Achievement of the Epoché"
+          ],
+          "anchor": "chapter-two-on-the-theory-of-the-phenomenologists-theoretical-attitude-sense-and-achievement-of-the-epoche",
+          "line_start": 331,
+          "line_end": 332,
+          "words": 0
+        },
+        {
+          "id": "h4-lecture-41-reflection-and-theoretical-interest-splitting-of-the-ego-s-position-t",
+          "level": 4,
+          "title": "Lecture 41: Reflection and Theoretical Interest; Splitting of the Ego's Position-Takings",
+          "path": [
+            "Husserl, Erste Philosophie (1923/24), Second Part: Theory of the Phenomenological Reduction",
+            "Section Three: On the Phenomenology of the Phenomenological Reduction. Opening a Second Way to the Transcendental Reduction",
+            "Chapter Two: On the Theory of the Phenomenologist's Theoretical Attitude: Sense and Achievement of the Epoché",
+            "Lecture 41: Reflection and Theoretical Interest; Splitting of the Ego's Position-Takings"
+          ],
+          "anchor": "lecture-41-reflection-and-theoretical-interest-splitting-of-the-egos-position-takings",
+          "line_start": 333,
+          "line_end": 348,
+          "words": 1730
+        },
+        {
+          "id": "h4-lecture-42-the-most-general-concept-of-interest-of-attitude-of-theme",
+          "level": 4,
+          "title": "Lecture 42: The Most General Concept of Interest, of \"Attitude\", of \"Theme\"",
+          "path": [
+            "Husserl, Erste Philosophie (1923/24), Second Part: Theory of the Phenomenological Reduction",
+            "Section Three: On the Phenomenology of the Phenomenological Reduction. Opening a Second Way to the Transcendental Reduction",
+            "Chapter Two: On the Theory of the Phenomenologist's Theoretical Attitude: Sense and Achievement of the Epoché",
+            "Lecture 42: The Most General Concept of Interest, of \"Attitude\", of \"Theme\""
+          ],
+          "anchor": "lecture-42-the-most-general-concept-of-interest-of-attitude-of-theme",
+          "line_start": 349,
+          "line_end": 376,
+          "words": 2505
+        },
+        {
+          "id": "h4-lecture-43-the-possibility-of-a-pure-interest-in-subjective-being-in-phenomenolo",
+          "level": 4,
+          "title": "Lecture 43: The Possibility of a Pure Interest in Subjective Being in Phenomenological Epoché and Reflection",
+          "path": [
+            "Husserl, Erste Philosophie (1923/24), Second Part: Theory of the Phenomenological Reduction",
+            "Section Three: On the Phenomenology of the Phenomenological Reduction. Opening a Second Way to the Transcendental Reduction",
+            "Chapter Two: On the Theory of the Phenomenologist's Theoretical Attitude: Sense and Achievement of the Epoché",
+            "Lecture 43: The Possibility of a Pure Interest in Subjective Being in Phenomenological Epoché and Reflection"
+          ],
+          "anchor": "lecture-43-the-possibility-of-a-pure-interest-in-subjective-being-in-phenomenological-epoche-and-reflection",
+          "line_start": 377,
+          "line_end": 396,
+          "words": 2130
+        },
+        {
+          "id": "h3-chapter-three-the-conscious-activity-of-natural-ego-life-and-the-reduction-to-pu",
+          "level": 3,
+          "title": "Chapter Three: The Conscious Activity of Natural Ego-Life and the Reduction to Pure Subjectivity",
+          "path": [
+            "Husserl, Erste Philosophie (1923/24), Second Part: Theory of the Phenomenological Reduction",
+            "Section Three: On the Phenomenology of the Phenomenological Reduction. Opening a Second Way to the Transcendental Reduction",
+            "Chapter Three: The Conscious Activity of Natural Ego-Life and the Reduction to Pure Subjectivity"
+          ],
+          "anchor": "chapter-three-the-conscious-activity-of-natural-ego-life-and-the-reduction-to-pure-subjectivity",
+          "line_start": 397,
+          "line_end": 398,
+          "words": 0
+        },
+        {
+          "id": "h4-lecture-44-positional-and-quasi-positional-acts-and-their-reduction-epoche-and-q",
+          "level": 4,
+          "title": "Lecture 44: Positional and Quasi-Positional Acts and Their Reduction; Epoché and Quasi-Epoché",
+          "path": [
+            "Husserl, Erste Philosophie (1923/24), Second Part: Theory of the Phenomenological Reduction",
+            "Section Three: On the Phenomenology of the Phenomenological Reduction. Opening a Second Way to the Transcendental Reduction",
+            "Chapter Three: The Conscious Activity of Natural Ego-Life and the Reduction to Pure Subjectivity",
+            "Lecture 44: Positional and Quasi-Positional Acts and Their Reduction; Epoché and Quasi-Epoché"
+          ],
+          "anchor": "lecture-44-positional-and-quasi-positional-acts-and-their-reduction-epoche-and-quasi-epoche",
+          "line_start": 399,
+          "line_end": 414,
+          "words": 2316
+        },
+        {
+          "id": "h4-lecture-45-the-natural-world-life-of-the-ego-as-act-subject-and-the-unnaturalnes",
+          "level": 4,
+          "title": "Lecture 45: The Natural World-Life of the Ego as Act-Subject and the Unnaturalness of Phenomenologically Pure Self-Reflection. On the Course of Thought",
+          "path": [
+            "Husserl, Erste Philosophie (1923/24), Second Part: Theory of the Phenomenological Reduction",
+            "Section Three: On the Phenomenology of the Phenomenological Reduction. Opening a Second Way to the Transcendental Reduction",
+            "Chapter Three: The Conscious Activity of Natural Ego-Life and the Reduction to Pure Subjectivity",
+            "Lecture 45: The Natural World-Life of the Ego as Act-Subject and the Unnaturalness of Phenomenologically Pure Self-Reflection. On the Course of Thought"
+          ],
+          "anchor": "lecture-45-the-natural-world-life-of-the-ego-as-act-subject-and-the-unnaturalness-of-phenomenologically-pure-self-reflection-on-the-course-of-thought",
+          "line_start": 415,
+          "line_end": 434,
+          "words": 2026
+        },
+        {
+          "id": "h4-lecture-46-reshaping-and-deepening-of-the-phenomenological-method-the-cartesian",
+          "level": 4,
+          "title": "Lecture 46: Reshaping and Deepening of the Phenomenological Method: The Cartesian Way and the Psychologist's Way to the Transcendental Reduction",
+          "path": [
+            "Husserl, Erste Philosophie (1923/24), Second Part: Theory of the Phenomenological Reduction",
+            "Section Three: On the Phenomenology of the Phenomenological Reduction. Opening a Second Way to the Transcendental Reduction",
+            "Chapter Three: The Conscious Activity of Natural Ego-Life and the Reduction to Pure Subjectivity",
+            "Lecture 46: Reshaping and Deepening of the Phenomenological Method: The Cartesian Way and the Psychologist's Way to the Transcendental Reduction"
+          ],
+          "anchor": "lecture-46-reshaping-and-deepening-of-the-phenomenological-method-the-cartesian-way-and-the-psychologists-way-to-the-transcendental-reduction",
+          "line_start": 435,
+          "line_end": 458,
+          "words": 1673
+        },
+        {
+          "id": "h2-section-four-phenomenological-psychology-transcendental-phenomenology-and-phenom",
+          "level": 2,
+          "title": "Section Four: Phenomenological Psychology, Transcendental Phenomenology, and Phenomenological Philosophy",
+          "path": [
+            "Husserl, Erste Philosophie (1923/24), Second Part: Theory of the Phenomenological Reduction",
+            "Section Four: Phenomenological Psychology, Transcendental Phenomenology, and Phenomenological Philosophy"
+          ],
+          "anchor": "section-four-phenomenological-psychology-transcendental-phenomenology-and-phenomenological-philosophy",
+          "line_start": 459,
+          "line_end": 460,
+          "words": 0
+        },
+        {
+          "id": "h3-chapter-one-achievement-and-problems-of-a-phenomenological-psychological-reducti",
+          "level": 3,
+          "title": "Chapter One: Achievement and Problems of a Phenomenological-Psychological Reduction",
+          "path": [
+            "Husserl, Erste Philosophie (1923/24), Second Part: Theory of the Phenomenological Reduction",
+            "Section Four: Phenomenological Psychology, Transcendental Phenomenology, and Phenomenological Philosophy",
+            "Chapter One: Achievement and Problems of a Phenomenological-Psychological Reduction"
+          ],
+          "anchor": "chapter-one-achievement-and-problems-of-a-phenomenological-psychological-reduction",
+          "line_start": 461,
+          "line_end": 462,
+          "words": 0
+        },
+        {
+          "id": "h4-lecture-47-intentional-implications-and-iterations",
+          "level": 4,
+          "title": "Lecture 47: Intentional Implications and Iterations",
+          "path": [
+            "Husserl, Erste Philosophie (1923/24), Second Part: Theory of the Phenomenological Reduction",
+            "Section Four: Phenomenological Psychology, Transcendental Phenomenology, and Phenomenological Philosophy",
+            "Chapter One: Achievement and Problems of a Phenomenological-Psychological Reduction",
+            "Lecture 47: Intentional Implications and Iterations"
+          ],
+          "anchor": "lecture-47-intentional-implications-and-iterations",
+          "line_start": 463,
+          "line_end": 484,
+          "words": 2002
+        },
+        {
+          "id": "h4-lecture-48-the-problem-of-the-transition-from-the-psychological-reduction-of-sin",
+          "level": 4,
+          "title": "Lecture 48: The Problem of the Transition from the Psychological Reduction of Single Acts to the Universal Phenomenological Epoché and Reduction",
+          "path": [
+            "Husserl, Erste Philosophie (1923/24), Second Part: Theory of the Phenomenological Reduction",
+            "Section Four: Phenomenological Psychology, Transcendental Phenomenology, and Phenomenological Philosophy",
+            "Chapter One: Achievement and Problems of a Phenomenological-Psychological Reduction",
+            "Lecture 48: The Problem of the Transition from the Psychological Reduction of Single Acts to the Universal Phenomenological Epoché and Reduction"
+          ],
+          "anchor": "lecture-48-the-problem-of-the-transition-from-the-psychological-reduction-of-single-acts-to-the-universal-phenomenological-epoche-and-reduction",
+          "line_start": 485,
+          "line_end": 508,
+          "words": 2158
+        },
+        {
+          "id": "h3-chapter-two-opening-the-realm-of-transcendental-experience-on-the-second-way",
+          "level": 3,
+          "title": "Chapter Two: Opening the Realm of Transcendental Experience on the Second Way",
+          "path": [
+            "Husserl, Erste Philosophie (1923/24), Second Part: Theory of the Phenomenological Reduction",
+            "Section Four: Phenomenological Psychology, Transcendental Phenomenology, and Phenomenological Philosophy",
+            "Chapter Two: Opening the Realm of Transcendental Experience on the Second Way"
+          ],
+          "anchor": "chapter-two-opening-the-realm-of-transcendental-experience-on-the-second-way",
+          "line_start": 509,
+          "line_end": 510,
+          "words": 0
+        },
+        {
+          "id": "h4-lecture-49-the-horizons-of-the-living-streaming-present",
+          "level": 4,
+          "title": "Lecture 49: The Horizons of the Living Streaming Present",
+          "path": [
+            "Husserl, Erste Philosophie (1923/24), Second Part: Theory of the Phenomenological Reduction",
+            "Section Four: Phenomenological Psychology, Transcendental Phenomenology, and Phenomenological Philosophy",
+            "Chapter Two: Opening the Realm of Transcendental Experience on the Second Way",
+            "Lecture 49: The Horizons of the Living Streaming Present"
+          ],
+          "anchor": "lecture-49-the-horizons-of-the-living-streaming-present",
+          "line_start": 511,
+          "line_end": 528,
+          "words": 1951
+        },
+        {
+          "id": "h4-lecture-50-the-endless-time-stream-of-life-and-the-possibility-of-a-universal-re",
+          "level": 4,
+          "title": "Lecture 50: The Endless Time-Stream of Life and the Possibility of a Universal Reflection and Epoché",
+          "path": [
+            "Husserl, Erste Philosophie (1923/24), Second Part: Theory of the Phenomenological Reduction",
+            "Section Four: Phenomenological Psychology, Transcendental Phenomenology, and Phenomenological Philosophy",
+            "Chapter Two: Opening the Realm of Transcendental Experience on the Second Way",
+            "Lecture 50: The Endless Time-Stream of Life and the Possibility of a Universal Reflection and Epoché"
+          ],
+          "anchor": "lecture-50-the-endless-time-stream-of-life-and-the-possibility-of-a-universal-reflection-and-epoche",
+          "line_start": 529,
+          "line_end": 546,
+          "words": 1594
+        },
+        {
+          "id": "h4-lecture-51-transition-to-the-universal-epoche-and-reduction-the-pure-universal-l",
+          "level": 4,
+          "title": "Lecture 51: Transition to the Universal Epoché and Reduction. The Pure Universal Life and Its World of Experience",
+          "path": [
+            "Husserl, Erste Philosophie (1923/24), Second Part: Theory of the Phenomenological Reduction",
+            "Section Four: Phenomenological Psychology, Transcendental Phenomenology, and Phenomenological Philosophy",
+            "Chapter Two: Opening the Realm of Transcendental Experience on the Second Way",
+            "Lecture 51: Transition to the Universal Epoché and Reduction. The Pure Universal Life and Its World of Experience"
+          ],
+          "anchor": "lecture-51-transition-to-the-universal-epoche-and-reduction-the-pure-universal-life-and-its-world-of-experience",
+          "line_start": 547,
+          "line_end": 570,
+          "words": 2277
+        },
+        {
+          "id": "h3-chapter-three-the-philosophical-sense-of-the-transcendental-phenomenological-red",
+          "level": 3,
+          "title": "Chapter Three: The Philosophical Sense of the Transcendental Phenomenological Reduction",
+          "path": [
+            "Husserl, Erste Philosophie (1923/24), Second Part: Theory of the Phenomenological Reduction",
+            "Section Four: Phenomenological Psychology, Transcendental Phenomenology, and Phenomenological Philosophy",
+            "Chapter Three: The Philosophical Sense of the Transcendental Phenomenological Reduction"
+          ],
+          "anchor": "chapter-three-the-philosophical-sense-of-the-transcendental-phenomenological-reduction",
+          "line_start": 571,
+          "line_end": 572,
+          "words": 0
+        },
+        {
+          "id": "h4-lecture-52-philosophy-as-the-systematic-self-unfolding-of-transcendental-subject",
+          "level": 4,
+          "title": "Lecture 52: Philosophy as the Systematic Self-Unfolding of Transcendental Subjectivity in the Form of Systematic Transcendental Self-Theorizing on the Ground of Transcendental Self-Experience",
+          "path": [
+            "Husserl, Erste Philosophie (1923/24), Second Part: Theory of the Phenomenological Reduction",
+            "Section Four: Phenomenological Psychology, Transcendental Phenomenology, and Phenomenological Philosophy",
+            "Chapter Three: The Philosophical Sense of the Transcendental Phenomenological Reduction",
+            "Lecture 52: Philosophy as the Systematic Self-Unfolding of Transcendental Subjectivity in the Form of Systematic Transcendental Self-Theorizing on the Ground of Transcendental Self-Experience"
+          ],
+          "anchor": "lecture-52-philosophy-as-the-systematic-self-unfolding-of-transcendental-subjectivity-in-the-form-of-systematic-transcendental-self-theorizing-on-the-ground-of-transcendental-self-experience",
+          "line_start": 573,
+          "line_end": 588,
+          "words": 1792
+        },
+        {
+          "id": "h4-lecture-53-the-problem-of-intersubjectivity",
+          "level": 4,
+          "title": "Lecture 53: The Problem of Intersubjectivity",
+          "path": [
+            "Husserl, Erste Philosophie (1923/24), Second Part: Theory of the Phenomenological Reduction",
+            "Section Four: Phenomenological Psychology, Transcendental Phenomenology, and Phenomenological Philosophy",
+            "Chapter Three: The Philosophical Sense of the Transcendental Phenomenological Reduction",
+            "Lecture 53: The Problem of Intersubjectivity"
+          ],
+          "anchor": "lecture-53-the-problem-of-intersubjectivity",
+          "line_start": 589,
+          "line_end": 590,
+          "words": 0
+        },
+        {
+          "id": "h5-a-the-possibility-of-a-transcendental-naivety-of-a-pure-phenomenology-and-the-ph",
+          "level": 5,
+          "title": "a) The Possibility of a Transcendental Naivety of a Pure Phenomenology and the Philosophical Task of an Apodictic Critique of Transcendental Experience",
+          "path": [
+            "Husserl, Erste Philosophie (1923/24), Second Part: Theory of the Phenomenological Reduction",
+            "Section Four: Phenomenological Psychology, Transcendental Phenomenology, and Phenomenological Philosophy",
+            "Chapter Three: The Philosophical Sense of the Transcendental Phenomenological Reduction",
+            "Lecture 53: The Problem of Intersubjectivity",
+            "a) The Possibility of a Transcendental Naivety of a Pure Phenomenology and the Philosophical Task of an Apodictic Critique of Transcendental Experience"
+          ],
+          "anchor": "a-the-possibility-of-a-transcendental-naivety-of-a-pure-phenomenology-and-the-philosophical-task-of-an-apodictic-critique-of-transcendental-experience",
+          "line_start": 591,
+          "line_end": 602,
+          "words": 1231
+        },
+        {
+          "id": "h5-b-transcendental-egology-solipsistic-phenomenology-and-the-transition-to-the-int",
+          "level": 5,
+          "title": "b) Transcendental Egology (\"Solipsistic Phenomenology\") and the Transition to the Intersubjective Reduction",
+          "path": [
+            "Husserl, Erste Philosophie (1923/24), Second Part: Theory of the Phenomenological Reduction",
+            "Section Four: Phenomenological Psychology, Transcendental Phenomenology, and Phenomenological Philosophy",
+            "Chapter Three: The Philosophical Sense of the Transcendental Phenomenological Reduction",
+            "Lecture 53: The Problem of Intersubjectivity",
+            "b) Transcendental Egology (\"Solipsistic Phenomenology\") and the Transition to the Intersubjective Reduction"
+          ],
+          "anchor": "b-transcendental-egology-solipsistic-phenomenology-and-the-transition-to-the-intersubjective-reduction",
+          "line_start": 603,
+          "line_end": 638,
+          "words": 2837
+        },
+        {
+          "id": "h4-lecture-54-the-way-of-the-phenomenological-reduction-to-transcendental-idealism",
+          "level": 4,
+          "title": "Lecture 54: The Way of the Phenomenological Reduction to Transcendental Idealism and Its Phenomenological Sense as Transcendental Monadology",
+          "path": [
+            "Husserl, Erste Philosophie (1923/24), Second Part: Theory of the Phenomenological Reduction",
+            "Section Four: Phenomenological Psychology, Transcendental Phenomenology, and Phenomenological Philosophy",
+            "Chapter Three: The Philosophical Sense of the Transcendental Phenomenological Reduction",
+            "Lecture 54: The Way of the Phenomenological Reduction to Transcendental Idealism and Its Phenomenological Sense as Transcendental Monadology"
+          ],
+          "anchor": "lecture-54-the-way-of-the-phenomenological-reduction-to-transcendental-idealism-and-its-phenomenological-sense-as-transcendental-monadology",
+          "line_start": 639,
+          "line_end": 674,
+          "words": 3311
         }
       ]
     },

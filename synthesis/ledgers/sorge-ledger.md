@@ -314,6 +314,7 @@
 - `husserliana-3-ideas-i-parts-3-4-commentary` - 65 term hits, no record
 - `Reduction et donation Commentary` - 60 term hits, no record
 - `husserliana-7-erste-philosophie-i-commentary` - 60 term hits, no record
+- `heidegger-ga-26-metaphysische-anfangsgruende-der-logik-commentary` - 59 term hits, no record
 - `lacan-seminar-11-the-four-fundamental-concepts-of-psychoanalysis-commentary` - 51 term hits, no record
 - `lacan-seminar-1-freuds-papers-on-technique-commentary` - 50 term hits, no record
 - `henry-philosophie-et-phenomenologie-du-corps-commentary` - 47 term hits, no record
@@ -321,6 +322,7 @@
 - `husserliana-28-vorlesungen-uber-ethik-und-wertlehre-commentary` - 44 term hits, no record
 - `Heidegger GA 3 - Kant und das Problem der Metaphysik Commentary` - 41 term hits, no record
 - `heidegger-ga-3-kant-und-das-problem-der-metaphysik-commentary` - 41 term hits, no record
+- `husserliana-8-erste-philosophie-ii-commentary` - 41 term hits, no record
 - `derrida-introduction-a-lorigine-de-la-geometrie-commentary` - 39 term hits, no record
 - `husserliana-26-theory-of-meaning-commentary` - 37 term hits, no record
 - `husserliana-19-1-fifth-logical-investigation-commentary` - 36 term hits, no record
@@ -331,6 +333,7 @@
 - `husserliana-4-ideas-ii-commentary` - 21 term hits, no record
 - `husserliana-13-basic-problems-of-phenomenology-commentary` - 20 term hits, no record
 - `husserl-krisis-commentary` - 19 term hits, no record
+- `Heidegger GA 9 - Vom Wesen des Grundes Commentary` - 17 term hits, no record
 - `husserliana-39-die-lebenswelt-commentary` - 17 term hits, no record
 - `franck-chair-et-corps-commentary` - 16 term hits, no record
 - `husserl-prolegomena-commentary` - 16 term hits, no record
