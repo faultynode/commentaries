@@ -53,4 +53,4 @@ Output: outputs/henry-on-hga3-comparative-commentary.md
 - Confirmed: K 84 = §4, 23 · K 92 = §5, 31 · K 97-98 = §6, 37 · K 98 = §7, 38 · K 99 = §7, 39 · K 141 = §17, 82 · K 148 = §19, 90 · K 149 = §19, 91 · K 156 = §21, 98 · K 157 = §21, 99 · K 159 = §21, 101 (n. 55) and §22, 101 (n. 60) · K 160 = §22, 102 · K 161 = §22, 103 · K 166 = §22, 108 · K 176 = §24, 119 · K 178-179 = §25, 121-122 · K 180 = §25, 123 · K 187 = §26, 128 · K 188 = §26, 129 · K 190 = §26, 132 · K 199 = §28, 141 · K 204 = §29, 146 · K 205 = §29, 147-148 · K 210 = §29, 153 · K 229 = §32, 173 · K 230 = §32, 174 · K 242 = §33, 187 · K 244 = §34, 189-190 · K 245 = §34, 190 · K 246 = §34, 191 · K 248 = §34, 193 · K 253 = §35, 198 · K 254 = §35, 200 · K 279 = §40, 223.
 
 ## Progress
-Last completed unit: Section II, §24 ¶14 (end of §24; edition has no page numbers)
+Last completed unit: Section II, §29 ¶12 (end of §29; edition has no page numbers)
