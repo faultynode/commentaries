@@ -4112,6 +4112,10 @@
           "english": "Immanence",
           "source": "moran-cohen-2012"
         }
+      ],
+      "theme": "transzendenz",
+      "contrast_with": [
+        "transzendenz"
       ]
     },
     {
@@ -8120,6 +8124,11 @@
           "english": "Transcendence",
           "source": "moran-cohen-2012"
         }
+      ],
+      "theme": "transzendenz",
+      "contrast_with": [
+        "immanenz",
+        "transzendental"
       ]
     },
     {
@@ -8234,6 +8243,44 @@
           "source": "moran-cohen-2012"
         }
       ]
+    },
+    {
+      "id": "ueberschritt",
+      "headword": "Überschritt",
+      "language": "de",
+      "authors": [
+        "heidegger"
+      ],
+      "forms": [
+        "Überschritt"
+      ],
+      "renderings": [
+        {
+          "english": "crossing-over",
+          "source": "corpus",
+          "locator": "heidegger-ga-3-kant-und-das-problem-der-metaphysik-commentary#h3-s-2-the-starting-point-of-the-laying-of-the-ground-of-traditional-metaphysics"
+        }
+      ],
+      "theme": "transzendenz"
+    },
+    {
+      "id": "ueberschwung",
+      "headword": "Überschwung",
+      "language": "de",
+      "authors": [
+        "heidegger"
+      ],
+      "forms": [
+        "Überschwung"
+      ],
+      "renderings": [
+        {
+          "english": "swinging over",
+          "source": "corpus",
+          "locator": "heidegger-ga-26-metaphysische-anfangsgruende-der-logik-commentary#h6-c-freedom-and-world"
+        }
+      ],
+      "theme": "transzendenz"
     },
     {
       "id": "uebersetzung",

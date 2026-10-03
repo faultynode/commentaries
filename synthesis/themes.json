@@ -135,6 +135,21 @@
         "disappoint", "disillusion", "frustrat", "fullness"
       ],
       "note": "The Sixth Investigation's dynamic — an empty or signitive intention brought to coincidence (Deckung) with intuition, the series of fulfilments running toward adequation, and disappointment (Enttäuschung) as the negative case — and then what becomes of it: Ideas I's grades of evidence, Hua XI on fulfilled and frustrated protention, Erfahrung und Urteil deriving negation from disappointment, Heidegger's categorial intuition in GA 20. Two traps. First, the matcher anchors at a word start only, so a stem carries its family: 'fulfil' finds fulfilment, fulfillment, fulfilled and fulfilling (1,321 hits in 48 of the 53 documents, and it is what bridges the British/American spelling split between translations), while 'unfulfil' has to be listed separately. Second, the obvious English words are withheld on purpose: 'intuition' (3,427 hits, 49 documents), 'evidence' (2,005 in 52), 'empty', 'intuitive' and 'identification' are ordinary words at this scale, and would both swamp the ranking and make any recorded absence meaningless — 'Evidenz' is the reliable handle, as that lexicon entry already says. 'coincidence', 'fullness', 'in person' and 'verification' are kept, and are the ones to set absent_terms against by hand."
+    },
+    {
+      "id": "transzendenz",
+      "english": "transcendence",
+      "glossary_terms": ["Transzendenz", "Überstieg", "Überschritt", "Überschwung", "Welteingang", "Immanenz", "transcendens", "epekeina tēs ousias"],
+      "search_terms": [
+        "Transzendenz", "Überstieg", "übersteig", "Überschritt", "Überschwung", "Welteingang", "Immanenz",
+        "transcendence", "transcends", "transcending", "transcended",
+        "transcendens", "transcendentia",
+        "transcendent object", "transcendent thing", "transcendent being", "transcendent world", "transcendent perception",
+        "immanence", "immanent perception", "immanent object",
+        "surpass", "overstep", "going beyond", "crossing-over", "swinging over",
+        "beyond being", "epekeina", "world-entry", "self-transcendence"
+      ],
+      "note": "Transcendence as the stepping-beyond, not the transcendental: Husserl's transcendent/immanent split (immanent versus transcendent perception, transcendence of the thing and of the world, the ego's self-transcendence, 'transcendence within immanence' in Hua XIII and Thing and Space), Heidegger's transcendence of Dasein (GA 24 §20, GA 26 §11, GA 3, GA 9 'Vom Wesen des Grundes', where Überstieg, world-entry, the epekeina and freedom carry it), and Henry's L'essence de la manifestation, which turns the whole tradition into a single thesis - that manifestation is transcendence - and argues against it from immanence. The one trap dominates everything: the matcher is left-anchored, so 'transcend' (6,963 hits) and even 'transcendent' (4,745) fire inside 'transcendental' 3,800 times and would rank Hua VIII and GA 3 for the wrong word. Neither is listed; the -ence/-s/-ing/-ed forms and the compounds ('transcendent object', 'transcendent perception') stand in, which means a bare adjectival 'transcendent' is not searched and an absence claim never covers it. 'surpass' and 'overstep' are prefix stems and carry their families (surpassing is the standing rendering of Überstieg; overstepping is Marion's). Bare 'immanent' (1,670 hits in 42 documents) is withheld the same way; 'immanence' is kept and is the term to set absent_terms against by hand. Bare 'transcendental' belongs to reduktion, not here. Ranking puts Henry's Essence of Manifestation far ahead (1,622 hits, nearly four times GA 26), then GA 26, Henry's Philosophie et phénoménologie du corps, GA 9, Bernet and GA 3; Hua VIII, which the bare stem would have ranked near the top, drops out once 'transcendental' stops counting. The GA 9 commentary's filename is unslugged, so no locator can reach it until it is renamed."
     }
   ]
 }
