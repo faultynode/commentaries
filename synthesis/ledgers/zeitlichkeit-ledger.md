@@ -1369,8 +1369,11 @@
 
 *Where the theme's terms occur but no extraction pass has run. Silence in the sections above is silence about these files, not evidence of absence in them.*
 
+- `heidegger-ga-26-metaphysische-anfangsgruende-der-logik-commentary` - 223 term hits, no record
 - `husserliana-4-ideas-ii-commentary` - 50 term hits, no record
 - `Heidegger GA 3 - Kant und das Problem der Metaphysik Commentary` - 42 term hits, no record
+- `husserliana-8-erste-philosophie-ii-commentary` - 24 term hits, no record
+- `Heidegger GA 9 - Vom Wesen des Grundes Commentary` - 20 term hits, no record
 - `henry-philosophie-et-phenomenologie-du-corps-commentary` - 19 term hits, no record
 - `husserliana-43-2-studien-zur-struktur-des-bewusstseins-commentary` - 17 term hits, no record
 - `Reduction et donation Commentary` - 16 term hits, no record

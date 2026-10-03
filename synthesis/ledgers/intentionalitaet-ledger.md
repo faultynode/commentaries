@@ -3445,11 +3445,14 @@
 
 *Where the theme's terms occur but no extraction pass has run. Silence in the sections above is silence about these files, not evidence of absence in them.*
 
+- `husserliana-8-erste-philosophie-ii-commentary` - 116 term hits, no record
+- `heidegger-ga-26-metaphysische-anfangsgruende-der-logik-commentary` - 81 term hits, no record
 - `Reduction et donation Commentary` - 43 term hits, no record
 - `husserliana-23-phantasie-bildbewusstsein-erinnerung-commentary` - 15 term hits, no record
 - `derrida-la-voix-et-le-phenomene-commentary` - 14 term hits, no record
 - `husserliana-13-basic-problems-of-phenomenology-commentary` - 14 term hits, no record
 - `lacan-seminar-1-freuds-papers-on-technique-commentary` - 10 term hits, no record
+- `Heidegger GA 9 - Vom Wesen des Grundes Commentary` - 9 term hits, no record
 - `husserliana-26-theory-of-meaning-commentary` - 7 term hits, no record
 - `lacan-seminar-11-the-four-fundamental-concepts-of-psychoanalysis-commentary` - 5 term hits, no record
 - `franck-heidegger-and-the-problem-of-space-commentary` - 2 term hits, no record
