@@ -1,5 +1,7 @@
 # Henry on Heidegger GA 3
 
+Skill: paragraph-by-paragraph-comparative-commentary
+
 Commentary R (reading text): commentaries/henry/henry-the-essence-of-manifestation-commentary.md
 Commentary P (read text):    commentaries/heidegger/heidegger-ga-3-kant-und-das-problem-der-metaphysik-commentary.md
 Source R: sources/henry/henry-lessence-de-la-manifestation.md  (cite by chapter and section)
