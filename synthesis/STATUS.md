@@ -104,6 +104,20 @@ Next candidates, by term density:
 - [ ] `kant-kritik-der-reinen-vernunft-commentary` (1781) - 75 hits
 - ... 43 more; see `synthesis_query.py --theme sorge`
 
+### transzendenz - transcendence
+
+0 commentaries extracted · 0 units · 0 absences
+
+Next candidates, by term density:
+
+- [ ] `henry-the-essence-of-manifestation-commentary` (1963) - 1622 hits
+- [ ] `heidegger-ga-26-metaphysische-anfangsgruende-der-logik-commentary` (undated) - 429 hits
+- [ ] `henry-philosophie-et-phenomenologie-du-corps-commentary` (1965) - 289 hits
+- [ ] `Heidegger GA 9 - Vom Wesen des Grundes Commentary` (undated) - 183 hits
+- [ ] `bernet-la-vie-du-sujet-commentary` (1994) - 152 hits
+- [ ] `heidegger-ga-3-kant-und-das-problem-der-metaphysik-commentary` (1929) - 152 hits
+- ... 45 more; see `synthesis_query.py --theme transzendenz`
+
 ### vorhandenheit - presence-at-hand
 
 0 commentaries extracted · 0 units · 0 absences
