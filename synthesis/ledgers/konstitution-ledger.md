@@ -1852,7 +1852,6 @@
 - `husserliana-23-phantasie-bildbewusstsein-erinnerung-commentary` - 47 term hits, no record
 - `husserliana-26-theory-of-meaning-commentary` - 45 term hits, no record
 - `heidegger-ga-18-grundbegriffe-der-aristotelischen-philosophie-commentary` - 42 term hits, no record
-- `Heidegger GA 3 - Kant und das Problem der Metaphysik Commentary` - 40 term hits, no record
 - `heidegger-ga-3-kant-und-das-problem-der-metaphysik-commentary` - 40 term hits, no record
 - `husserliana-19-1-fifth-logical-investigation-commentary` - 40 term hits, no record
 - `heidegger-ga-24-die-grundprobleme-der-phanomenologie-commentary` - 37 term hits, no record

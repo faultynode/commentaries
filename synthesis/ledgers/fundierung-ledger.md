@@ -1732,7 +1732,6 @@
 
 *Where the theme's terms occur but no extraction pass has run. Silence in the sections above is silence about these files, not evidence of absence in them.*
 
-- `Heidegger GA 3 - Kant und das Problem der Metaphysik Commentary` - 226 term hits, no record
 - `heidegger-ga-3-kant-und-das-problem-der-metaphysik-commentary` - 226 term hits, no record
 - `husserliana-8-erste-philosophie-ii-commentary` - 219 term hits, no record
 - `heidegger-ga-26-metaphysische-anfangsgruende-der-logik-commentary` - 213 term hits, no record
