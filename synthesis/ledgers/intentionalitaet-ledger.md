@@ -3457,7 +3457,6 @@
 - `lacan-seminar-11-the-four-fundamental-concepts-of-psychoanalysis-commentary` - 5 term hits, no record
 - `franck-heidegger-and-the-problem-of-space-commentary` - 2 term hits, no record
 - `husserl-prolegomena-commentary` - 2 term hits, no record
-- `Heidegger GA 3 - Kant und das Problem der Metaphysik Commentary` - 1 term hit, no record
 - `heidegger-ga-18-grundbegriffe-der-aristotelischen-philosophie-commentary` - 1 term hit, no record
 - `heidegger-ga-3-kant-und-das-problem-der-metaphysik-commentary` - 1 term hit, no record
 - `husserliana-13-editors-introduction-commentary` - 1 term hit, no record

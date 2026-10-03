@@ -1306,7 +1306,6 @@
 
 *Where the theme's terms occur but no extraction pass has run. Silence in the sections above is silence about these files, not evidence of absence in them.*
 
-- `Heidegger GA 3 - Kant und das Problem der Metaphysik Commentary` - 508 term hits, no record
 - `heidegger-ga-26-metaphysische-anfangsgruende-der-logik-commentary` - 494 term hits, no record
 - `Heidegger GA 9 - Vom Wesen des Grundes Commentary` - 112 term hits, no record
 - `husserl-natur-und-geist-commentary` - 102 term hits, no record
