@@ -1,0 +1,767 @@
+{
+  "schema_version": 1,
+  "theme": "transzendenz",
+  "commentary": "henry-the-essence-of-manifestation-commentary",
+  "source_sha256": "a2a90bd7e215000feb637e46e5db70ffcc8032e3c242f450bb72616e3e95db25",
+  "extracted_at": "2026-10-05",
+  "extractor": {
+    "agent": "claude-code",
+    "model": "claude-opus-5-5",
+    "prompt": "synthesis/prompts/extraction-prompt.md"
+  },
+  "coverage": "partial",
+  "coverage_note": "Read in full: § 12 and § 13 (lines 772-893), §§ 27-36, the close of Section II on transcendence and immanence (lines 1529-1734), and § 41 on absolute situation (lines 2202-2294). Every other section was read only at the sentences containing a theme term, up to ten per section. §§ 42-45, which are dense with the theme, were not read in full, nor were the Introduction, §§ 1-11, 14-26, 37-40 and 46-57. No absences are claimed.",
+  "units": [
+    {
+      "id": "transzendenz/em/001",
+      "locator": "henry-the-essence-of-manifestation-commentary#h2-s-4-the-insertion-of-the-ego-cogito-and-of-its-problematic-inside-the-horizon-li",
+      "primary_locator": "The Essence of Manifestation, § 4",
+      "stratum": "essence-1963",
+      "term": "transcendence",
+      "status": "criticized",
+      "claim": "Transcendence is not safeguarded in its proper signification if it is assimilated to a character of consciousness.",
+      "quote": "Transcendence is not safeguarded in its proper signification if one assimilates it to a character of consciousness."
+    },
+    {
+      "id": "transzendenz/em/002",
+      "locator": "henry-the-essence-of-manifestation-commentary#h2-s-4-the-insertion-of-the-ego-cogito-and-of-its-problematic-inside-the-horizon-li",
+      "primary_locator": "The Essence of Manifestation, § 4",
+      "stratum": "essence-1963",
+      "term": "transcendence",
+      "status": "criticized",
+      "claim": "Even granted that transcendence is the very substance of the subject, the question remains whence the subject draws that substantiality, if not from being itself.",
+      "quote": "Henry is conceding all of this — and then asking: even granted that transcendence is the very substance of the subject, from where does the subject draw this substantiality, if not from being itself?"
+    },
+    {
+      "id": "transzendenz/em/003",
+      "locator": "henry-the-essence-of-manifestation-commentary#h2-s-5-the-problem-of-the-insertion-of-the-ego-cogito-inside-the-universal-phenomen",
+      "primary_locator": "The Essence of Manifestation, § 5",
+      "stratum": "essence-1963",
+      "term": "horizon of transcendence",
+      "status": "criticized",
+      "claim": "On Husserl's approach the absolute ego, in order to be phenomenologically investigated, must itself submit to the horizon of transcendence.",
+      "quote": "So the absolute ego, in order to be phenomenologically investigated, must itself submit to the horizon of transcendence."
+    },
+    {
+      "id": "transzendenz/em/004",
+      "locator": "henry-the-essence-of-manifestation-commentary#h2-s-6-the-difficulties-relative-to-the-edification-of-universal-phenomenological-o",
+      "primary_locator": "The Essence of Manifestation, § 6",
+      "stratum": "essence-1963",
+      "term": "transcendence",
+      "status": "presupposed",
+      "claim": "Ontology's reference to a singular existent is the methodological transposition of the original link between transcendence and finitude.",
+      "quote": "The reference of ontology to the reality of a singular existent is only the methodological transposition of the link that unites, in the origin, transcendence and finitude."
+    },
+    {
+      "id": "transzendenz/em/005",
+      "locator": "henry-the-essence-of-manifestation-commentary#h2-s-7-the-problematic-concerning-the-being-of-the-ego-interpreted-as-an-originary",
+      "primary_locator": "The Essence of Manifestation, § 7",
+      "stratum": "essence-1963",
+      "term": "transcendence",
+      "status": "introduced",
+      "claim": "Henry distinguishes the truth of rational positing, the truth of transcendence, and a more original truth, the ego's self-revelation, which conditions both.",
+      "quote": "Henry distinguishes three levels: (i) the truth of the rational positing (the evidence of particular truths in regions of being); (ii) the truth of transcendence (the disclosure of being in the horizon of *Sein und Zeit*, Heideggerian *aletheia*); (iii) a more originary truth — truth as the self-revelation of the ego — which is the condition of possibility of both of the preceding."
+    },
+    {
+      "id": "transzendenz/em/006",
+      "locator": "henry-the-essence-of-manifestation-commentary#h2-s-7-the-problematic-concerning-the-being-of-the-ego-interpreted-as-an-originary",
+      "primary_locator": "The Essence of Manifestation, § 7",
+      "stratum": "essence-1963",
+      "term": "transcendence",
+      "status": "introduced",
+      "claim": "Ecstatic manifestation in a horizon rests on self-revelation in radical interiority: transcendence rests on immanence.",
+      "quote": "Transcendence (ek-static manifestation in a horizon) rests on immanence (self-revelation in radical interiority)."
+    },
+    {
+      "id": "transzendenz/em/007",
+      "locator": "henry-the-essence-of-manifestation-commentary#h2-s-9-the-unilateral-determination-of-the-essence-of-phenomenon-and-the-concept-of",
+      "primary_locator": "The Essence of Manifestation, § 9",
+      "stratum": "essence-1963",
+      "term": "transcendent being",
+      "status": "presupposed",
+      "claim": "Transcendent being masks the work of transcendence each time, yet takes all its ontological characters from transcendence.",
+      "quote": "Transcendent being, if it masks from us each time the work of transcendence, nonetheless takes from transcendence all its ontological characters."
+    },
+    {
+      "id": "transzendenz/em/008",
+      "locator": "henry-the-essence-of-manifestation-commentary#h2-s-11-ontological-monism-and-the-problem-of-its-overcoming-philosophy-of-consciou",
+      "primary_locator": "The Essence of Manifestation, § 11",
+      "stratum": "essence-1963",
+      "term": "transcendence",
+      "status": "introduced",
+      "claim": "In the monist sense transcendence is the essence of manifestation, and the subject, as being-in and relation, is this appearing as such.",
+      "quote": "*Transcendence is the essence of manifestation, the appearing of what appears.* Insofar as it is Being-in and the Relation, the subject is this appearing as such; it is the essence of manifestation in the monist sense."
+    },
+    {
+      "id": "transzendenz/em/009",
+      "locator": "henry-the-essence-of-manifestation-commentary#h2-s-11-ontological-monism-and-the-problem-of-its-overcoming-philosophy-of-consciou",
+      "primary_locator": "The Essence of Manifestation, § 11",
+      "stratum": "essence-1963",
+      "term": "transcendence of the world",
+      "status": "presupposed",
+      "claim": "Human subjectivity is the transcendence of the world.",
+      "quote": "*The human subjectivity is the transcendence of the world.*"
+    },
+    {
+      "id": "transzendenz/em/010",
+      "locator": "henry-the-essence-of-manifestation-commentary#h2-s-11-ontological-monism-and-the-problem-of-its-overcoming-philosophy-of-consciou",
+      "primary_locator": "The Essence of Manifestation, § 11",
+      "stratum": "essence-1963",
+      "term": "intentional transcendence",
+      "status": "presupposed",
+      "claim": "From Descartes through Husserl to Sartre, the philosophy of consciousness culminates in recognizing that consciousness is the structure of intentional transcendence.",
+      "quote": "From Descartes through Husserl to Sartre, the philosophy of consciousness culminates in the recognition that consciousness *just is* the structure of intentional transcendence — the opening of the horizon, the being-in-the-world."
+    },
+    {
+      "id": "transzendenz/em/011",
+      "locator": "henry-the-essence-of-manifestation-commentary#h2-s-12-the-critique-of-the-philosophy-of-consciousness",
+      "primary_locator": "The Essence of Manifestation, § 12",
+      "stratum": "essence-1963",
+      "term": "transcendence",
+      "status": "presupposed",
+      "claim": "For Heidegger it is transcendence, not the subject, that is the essence, though what the philosophy of consciousness aimed at under 'subject' was already the essence of transcendence.",
+      "quote": "It is *transcendence*, it is not *the subject*, that is the essence. The essence that was thought — or at least aimed at — by the philosophy of consciousness under the title of subject was, however, the very essence of *transcendence*."
+    },
+    {
+      "id": "transzendenz/em/012",
+      "locator": "henry-the-essence-of-manifestation-commentary#h2-s-12-the-critique-of-the-philosophy-of-consciousness",
+      "primary_locator": "The Essence of Manifestation, § 12",
+      "stratum": "essence-1963",
+      "term": "transcendence",
+      "status": "criticized",
+      "claim": "Heidegger's critique of the philosophy of consciousness does not question the internal structure of the essence of manifestation, only an improper ontic understanding of it.",
+      "quote": "*It is not the internal structure of the essence of manifestation that is called into question; it is an understanding (improper because of ontic origin) of this one and only essence of manifestation that is rejected.*"
+    },
+    {
+      "id": "transzendenz/em/013",
+      "locator": "henry-the-essence-of-manifestation-commentary#h2-s-12-the-critique-of-the-philosophy-of-consciousness",
+      "primary_locator": "The Essence of Manifestation, § 12",
+      "stratum": "essence-1963",
+      "term": "radical transcendence",
+      "status": "criticized",
+      "claim": "The more rigorously the essence is held in radical transcendence over every existent, the more incomprehensible becomes the claim that Dasein is an existent.",
+      "quote": "the more incomprehensible also is the explicit assimilation of the essence to an ontic reality in the paradoxical but ceaselessly formulated affirmation according to which the \"Dasein\" is an existent."
+    },
+    {
+      "id": "transzendenz/em/014",
+      "locator": "henry-the-essence-of-manifestation-commentary#h2-s-13-the-ambiguity-of-dasein-essence-and-ontic-determination",
+      "primary_locator": "The Essence of Manifestation, § 13",
+      "stratum": "essence-1963",
+      "term": "transcendence",
+      "status": "revised",
+      "claim": "Since overcoming the existent only opens a place for it, transcendence's élan toward the beyond is in reality a return upon the existent.",
+      "quote": "*Is the \"élan toward the beyond\" of transcendence not rather, in reality, a \"return upon\" — if it is true that the overcoming of the existent is only what opens a place for the existent?*"
+    },
+    {
+      "id": "transzendenz/em/015",
+      "locator": "henry-the-essence-of-manifestation-commentary#h2-s-13-the-ambiguity-of-dasein-essence-and-ontic-determination",
+      "primary_locator": "The Essence of Manifestation, § 13",
+      "stratum": "essence-1963",
+      "term": "transcendence",
+      "status": "introduced",
+      "claim": "Every transcendence is essentially receptive, and its most essential finitude lies in that receptivity.",
+      "quote": "*Every transcendence is as such essentially receptive.* In the receptivity of transcendence resides its most essential finitude."
+    },
+    {
+      "id": "transzendenz/em/016",
+      "locator": "henry-the-essence-of-manifestation-commentary#h2-s-13-the-ambiguity-of-dasein-essence-and-ontic-determination",
+      "primary_locator": "The Essence of Manifestation, § 13",
+      "stratum": "essence-1963",
+      "term": "transcendence",
+      "status": "introduced",
+      "claim": "Transcendence is the need of the existent: the essence realizes itself only when the need it bears is satisfied by what it receives.",
+      "quote": "*Transcendence is the need of the existent.* Insofar as it is transcendence, the essence realizes itself only when this need that it bears within itself is satisfied."
+    },
+    {
+      "id": "transzendenz/em/017",
+      "locator": "henry-the-essence-of-manifestation-commentary#h2-s-13-the-ambiguity-of-dasein-essence-and-ontic-determination",
+      "primary_locator": "The Essence of Manifestation, § 13",
+      "stratum": "essence-1963",
+      "term": "transcendence",
+      "status": "presupposed",
+      "claim": "Following Heidegger's Kant book, pure rationality itself is finite, because as transcendence it remains essentially receptive.",
+      "quote": "*it is pure rationality itself, in fact, that is finite*, and that insofar as, as transcendence, it is and remains essentially receptive"
+    },
+    {
+      "id": "transzendenz/em/018",
+      "locator": "henry-the-essence-of-manifestation-commentary#h2-s-13-the-ambiguity-of-dasein-essence-and-ontic-determination",
+      "primary_locator": "The Essence of Manifestation, § 13",
+      "stratum": "essence-1963",
+      "term": "transcendence of the world",
+      "status": "presupposed",
+      "claim": "The world constituted in overcoming the existent is never dissociable from what manifests itself in it, because the transcendence of the world is finitude itself.",
+      "quote": "If the totality is never dissociable from what manifests itself in it, it is because the transcendence of the world is finitude itself."
+    },
+    {
+      "id": "transzendenz/em/019",
+      "locator": "henry-the-essence-of-manifestation-commentary#h2-s-14-the-relation-of-essence-and-ontic-determination-in-the-philosophy-of-consci",
+      "primary_locator": "The Essence of Manifestation, § 14",
+      "stratum": "essence-1963",
+      "term": "transcendence",
+      "status": "presupposed",
+      "claim": "The inevitable reference of transcendence to what it transcends means phenomenologically that it is the existent that appears.",
+      "quote": "The link of being and the existent, the inevitable reference of transcendence to what is by it transcended, has this ultimate phenomenological signification."
+    },
+    {
+      "id": "transzendenz/em/020",
+      "locator": "henry-the-essence-of-manifestation-commentary#h2-s-15-the-ontological-signification-of-the-problematic-that-aims-at-the-essence-a",
+      "primary_locator": "The Essence of Manifestation, § 15",
+      "stratum": "essence-1963",
+      "term": "transcendence",
+      "status": "revised",
+      "claim": "What transcendence holds at a distance is not the existent but the horizon of nothingness: it objects not the existent but the existent's place.",
+      "quote": "*Transcendence does not object the existent to itself; it objects the existent's place.*"
+    },
+    {
+      "id": "transzendenz/em/021",
+      "locator": "henry-the-essence-of-manifestation-commentary#h2-s-15-the-ontological-signification-of-the-problematic-that-aims-at-the-essence-a",
+      "primary_locator": "The Essence of Manifestation, § 15",
+      "stratum": "essence-1963",
+      "term": "transcendence",
+      "status": "revised",
+      "claim": "The finitude of transcendence comes from its being essentially receptive, but what it receives is nothing other than what it itself forms.",
+      "quote": "What transcendence receives, however, is nothing other than what transcendence *itself forms*."
+    },
+    {
+      "id": "transzendenz/em/022",
+      "locator": "henry-the-essence-of-manifestation-commentary#h2-s-16-the-idea-of-the-formal-structure-of-the-autonomy-of-the-essence-and-the-tas",
+      "primary_locator": "The Essence of Manifestation, § 16",
+      "stratum": "essence-1963",
+      "term": "transcendence",
+      "status": "presupposed",
+      "claim": "Dasein as such is ontological: it is the very work of the essence, the structure of transcendence, not any particular being.",
+      "quote": "*The Dasein as such is ontological*: it is the very work of the essence, the structure of transcendence, not any particular being."
+    },
+    {
+      "id": "transzendenz/em/023",
+      "locator": "henry-the-essence-of-manifestation-commentary#h2-s-22-the-interpretation-of-the-essence-of-phenomenality-within-the-fundamental-p",
+      "primary_locator": "The Essence of Manifestation, § 22",
+      "stratum": "essence-1963",
+      "term": "transcendence",
+      "status": "presupposed",
+      "claim": "So long as the essence of manifestation is interpreted as transcendence, the pure phenomenality it promotes must be finite.",
+      "quote": "As long as this essence is interpreted as that of *transcendence*, the effective pure phenomenality it promotes must — as such — be *finite*."
+    },
+    {
+      "id": "transzendenz/em/024",
+      "locator": "henry-the-essence-of-manifestation-commentary#h2-s-23-the-internal-possibility-of-the-receptivity-of-being-and-the-problem-of-sch",
+      "primary_locator": "The Essence of Manifestation, § 23",
+      "stratum": "essence-1963",
+      "term": "transcendence",
+      "status": "presupposed",
+      "claim": "In Heidegger's Kant book, imagination is transcendence itself, forming and receiving the pure horizon of being in one act.",
+      "quote": "Imagination is transcendence itself: it forms the pure horizon of being and secures its reception in one act, and that is why it is the uncompounded unity of receptivity and spontaneity."
+    },
+    {
+      "id": "transzendenz/em/025",
+      "locator": "henry-the-essence-of-manifestation-commentary#h2-s-23-the-internal-possibility-of-the-receptivity-of-being-and-the-problem-of-sch",
+      "primary_locator": "The Essence of Manifestation, § 23",
+      "stratum": "essence-1963",
+      "term": "transcendental philosophy of being",
+      "status": "criticized",
+      "claim": "The transcendental philosophy of being has not surpassed intuitionism: it absolutizes intuition's conditions and then falls back on intuition to ground them.",
+      "quote": "The transcendental philosophy of being has therefore not surpassed intuitionism: it has raised intuition's conditions to the absolute, and then resolved the ultimate questions about those conditions by falling back on intuition."
+    },
+    {
+      "id": "transzendenz/em/026",
+      "locator": "henry-the-essence-of-manifestation-commentary#h2-s-24-reaffirming-the-central-place-of-the-problem-of-receptivity-and-the-ontolog",
+      "primary_locator": "The Essence of Manifestation, § 24",
+      "stratum": "essence-1963",
+      "term": "transcendence",
+      "status": "presupposed",
+      "claim": "Time is not only what transcendence sets over against itself but, as pure affection of itself, what makes transcendence possible.",
+      "quote": "Time is thus not only what transcendence sets over against itself but what makes transcendence possible."
+    },
+    {
+      "id": "transzendenz/em/027",
+      "locator": "henry-the-essence-of-manifestation-commentary#h2-s-25-clarifying-the-essence-of-receptivity-and-the-problem-of-determining-phenom",
+      "primary_locator": "The Essence of Manifestation, § 25",
+      "stratum": "essence-1963",
+      "term": "transcendence",
+      "status": "presupposed",
+      "claim": "Transcendence hurls itself forward, creating with the outside the foreground of light that is the actual dimension of phenomenality.",
+      "quote": "Transcendence hurls itself forward because in going out toward the outside it creates, along with that outside, the foreground of light that constitutes the actual dimension of phenomenality."
+    },
+    {
+      "id": "transzendenz/em/028",
+      "locator": "henry-the-essence-of-manifestation-commentary#h2-s-27-grasping-the-central-place-of-the-problematic-of-receptivity-and-putting-in",
+      "primary_locator": "The Essence of Manifestation, § 27",
+      "stratum": "essence-1963",
+      "term": "transcendence",
+      "status": "introduced",
+      "claim": "Radically understood, the problem of receptivity concerns the receptivity of the act of transcendence itself, and so manifestation in its ultimate ground.",
+      "quote": "Receptivity is central because, understood radically, the problem of receptivity concerns the act of transcendence itself, and so manifestation in its ultimate ground."
+    },
+    {
+      "id": "transzendenz/em/029",
+      "locator": "henry-the-essence-of-manifestation-commentary#h2-s-27-grasping-the-central-place-of-the-problematic-of-receptivity-and-putting-in",
+      "primary_locator": "The Essence of Manifestation, § 27",
+      "stratum": "essence-1963",
+      "term": "transcendence",
+      "status": "introduced",
+      "claim": "Transcendence does not secure the possibility of its own receptivity: its original manifestation is not its own work, so it cannot ground itself.",
+      "quote": "Therefore transcendence does not secure the possibility of its own receptivity: the original manifestation of transcendence is not transcendence's own work."
+    },
+    {
+      "id": "transzendenz/em/030",
+      "locator": "henry-the-essence-of-manifestation-commentary#h2-s-28-the-abstractness-of-the-essence-of-manifestation-within-monism-s-ontologica",
+      "primary_locator": "The Essence of Manifestation, § 28",
+      "stratum": "essence-1963",
+      "term": "transcendence",
+      "status": "criticized",
+      "claim": "In Sartre's account consciousness in itself is transcendence, and its alleged abstraction is the abstraction of transcendence.",
+      "quote": "Consciousness in itself is transcendence, and the abstraction of consciousness is the abstraction of transcendence."
+    },
+    {
+      "id": "transzendenz/em/031",
+      "locator": "henry-the-essence-of-manifestation-commentary#h2-s-28-the-abstractness-of-the-essence-of-manifestation-within-monism-s-ontologica",
+      "primary_locator": "The Essence of Manifestation, § 28",
+      "stratum": "essence-1963",
+      "term": "transcendence",
+      "status": "revised",
+      "claim": "The abstraction of transcendence means its non-phenomenality: being is withdrawn from the ground at the moment the ground's being is asked after.",
+      "quote": "The abstraction of transcendence means its non-phenomenality."
+    },
+    {
+      "id": "transzendenz/em/032",
+      "locator": "henry-the-essence-of-manifestation-commentary#h2-s-28-the-abstractness-of-the-essence-of-manifestation-within-monism-s-ontologica",
+      "primary_locator": "The Essence of Manifestation, § 28",
+      "stratum": "essence-1963",
+      "term": "transcendence",
+      "status": "presupposed",
+      "claim": "Understood as ground, transcendence does not show itself in the field it opens and is the ontological essence of untruth, older than that field.",
+      "quote": "transcendence is rather what does *not* show itself in the truth of that field, and so is the ontological essence of untruth, older than the field."
+    },
+    {
+      "id": "transzendenz/em/033",
+      "locator": "henry-the-essence-of-manifestation-commentary#h2-s-29-exhibiting-the-ontological-motive-behind-the-problematic-s-inability-to-con",
+      "primary_locator": "The Essence of Manifestation, § 29",
+      "stratum": "essence-1963",
+      "term": "transcendence",
+      "status": "criticized",
+      "claim": "Ontological monism constantly presupposes the reality of transcendence without that presupposition figuring among those by which monism defines itself.",
+      "quote": "The reality of transcendence is constantly presupposed by ontological monism without that ultimate presupposition figuring among the presuppositions by which monism defines itself."
+    },
+    {
+      "id": "transzendenz/em/034",
+      "locator": "henry-the-essence-of-manifestation-commentary#h2-s-29-exhibiting-the-ontological-motive-behind-the-problematic-s-inability-to-con",
+      "primary_locator": "The Essence of Manifestation, § 29",
+      "stratum": "essence-1963",
+      "term": "transcendence",
+      "status": "revised",
+      "claim": "Transcendence can be a presupposition foreign to the philosophy of transcendence only if its reality is not constituted by transcendence.",
+      "quote": "Only if transcendence presupposes something other than itself — if, paradoxically, transcendence's reality is not constituted by transcendence."
+    },
+    {
+      "id": "transzendenz/em/035",
+      "locator": "henry-the-essence-of-manifestation-commentary#h2-s-30-the-ontological-determination-of-the-original-essence-of-revelation-as-imma",
+      "primary_locator": "The Essence of Manifestation, § 30",
+      "stratum": "essence-1963",
+      "term": "immanence",
+      "status": "introduced",
+      "claim": "Transcendence is revealed in itself without surpassing itself, and this mode, immanence, is the original essence of revelation.",
+      "quote": "Immanence is the original mode in which the revelation of transcendence is accomplished, and as such the original essence of revelation."
+    },
+    {
+      "id": "transzendenz/em/036",
+      "locator": "henry-the-essence-of-manifestation-commentary#h2-s-30-the-ontological-determination-of-the-original-essence-of-revelation-as-imma",
+      "primary_locator": "The Essence of Manifestation, § 30",
+      "stratum": "essence-1963",
+      "term": "immanent and transcendent contents",
+      "status": "criticized",
+      "claim": "Husserl's distinction between immanent and transcendent contents is inessential, since what secures the reception of both is transcendence.",
+      "quote": "Henry's answer is that Husserl's distinction between immanent and transcendent contents of experience is *inessential*, because the essence of those contents is the same: the ontological power ultimately making them possible by securing their reception is in every case transcendence."
+    },
+    {
+      "id": "transzendenz/em/037",
+      "locator": "henry-the-essence-of-manifestation-commentary#h2-s-31-the-fundamental-ambiguity-in-the-concept-of-auto-affection-auto-affection-a",
+      "primary_locator": "The Essence of Manifestation, § 31",
+      "stratum": "essence-1963",
+      "term": "transcendence",
+      "status": "introduced",
+      "claim": "In the original mode of receptivity the act of objectivation receives itself first, so transcendence's affection by itself is more original than its affection by the horizon.",
+      "quote": "Transcendence's affection by itself is more original than its affection by the horizon."
+    },
+    {
+      "id": "transzendenz/em/038",
+      "locator": "henry-the-essence-of-manifestation-commentary#h2-s-31-the-fundamental-ambiguity-in-the-concept-of-auto-affection-auto-affection-a",
+      "primary_locator": "The Essence of Manifestation, § 31",
+      "stratum": "essence-1963",
+      "term": "transcendence",
+      "status": "criticized",
+      "claim": "Against Heidegger, pure affection of itself, understood as auto-affection, does not determine the deep essence of transcendence.",
+      "quote": "It is therefore false to say that pure affection of itself determines the deep essence of transcendence, if by pure affection of itself one means, as Heidegger does, auto-affection."
+    },
+    {
+      "id": "transzendenz/em/039",
+      "locator": "henry-the-essence-of-manifestation-commentary#h2-s-31-the-fundamental-ambiguity-in-the-concept-of-auto-affection-auto-affection-a",
+      "primary_locator": "The Essence of Manifestation, § 31",
+      "stratum": "essence-1963",
+      "term": "Selbstaffektion",
+      "status": "criticized",
+      "claim": "The commentary notes that the French translation's two phrasings render one German word, so Henry's charge that Heidegger confuses two concepts projects his own distinction onto a single term.",
+      "quote": "In German both are one word, *Selbstaffektion*. Heidegger has no second concept to confuse with the first, so the charge of confusion is Henry's distinction projected onto a single term."
+    },
+    {
+      "id": "transzendenz/em/040",
+      "locator": "henry-the-essence-of-manifestation-commentary#h2-s-32-immanence-and-transcendence",
+      "primary_locator": "The Essence of Manifestation, § 32",
+      "stratum": "essence-1963",
+      "term": "immanence",
+      "status": "introduced",
+      "claim": "Because transcendence's power to be what it is depends on a receptivity other than transcendence, immanence is the essence of transcendence.",
+      "quote": "Henry states the thesis: immanence is the essence of transcendence."
+    },
+    {
+      "id": "transzendenz/em/041",
+      "locator": "henry-the-essence-of-manifestation-commentary#h2-s-32-immanence-and-transcendence",
+      "primary_locator": "The Essence of Manifestation, § 32",
+      "stratum": "essence-1963",
+      "term": "transcendence",
+      "status": "revised",
+      "claim": "Immanence is the essence of transcendence because it reveals transcendence in the determinate manner that makes it possible, as a reality that is nothing transcendent.",
+      "quote": "Immanence is the essence of transcendence because it reveals transcendence, and more precisely because it reveals it in the determinate manner that makes transcendence possible in its essence."
+    },
+    {
+      "id": "transzendenz/em/042",
+      "locator": "henry-the-essence-of-manifestation-commentary#h2-s-33-the-ontological-interpretation-of-the-essence-of-transcendence-as-immanence",
+      "primary_locator": "The Essence of Manifestation, § 33",
+      "stratum": "essence-1963",
+      "term": "relating-itself-to",
+      "status": "revised",
+      "claim": "Being-in-the-world is a relating-itself-to, and this relating is not conditioned by transcendence but makes transcendence possible.",
+      "quote": "Understanding being-in-the-world as essentially including a relating-itself-to accomplishes exactly that, and reverses the order of grounding: the relating-itself-to is not conditioned by transcendence but is what makes transcendence possible."
+    },
+    {
+      "id": "transzendenz/em/043",
+      "locator": "henry-the-essence-of-manifestation-commentary#h2-s-33-the-ontological-interpretation-of-the-essence-of-transcendence-as-immanence",
+      "primary_locator": "The Essence of Manifestation, § 33",
+      "stratum": "essence-1963",
+      "term": "surpassing",
+      "status": "revised",
+      "claim": "The surpassing-toward that defines transcendental relation is conditioned by the not-surpassing-itself that qualifies transcendence in its essence.",
+      "quote": "The act of surpassing-toward that defines transcendental relation is thus conditioned by the *not-surpassing-itself* that qualifies transcendence in its essence."
+    },
+    {
+      "id": "transzendenz/em/044",
+      "locator": "henry-the-essence-of-manifestation-commentary#h2-s-33-the-ontological-interpretation-of-the-essence-of-transcendence-as-immanence",
+      "primary_locator": "The Essence of Manifestation, § 33",
+      "stratum": "essence-1963",
+      "term": "transcendence",
+      "status": "criticized",
+      "claim": "Transcendence is neither beings nor world, and reading it as the being-beyond-itself of beings travesties its essence.",
+      "quote": "Transcendence is neither beings nor world. Interpreting it as the being-beyond-itself of beings does not merely omit its essence but travesties it."
+    },
+    {
+      "id": "transzendenz/em/045",
+      "locator": "henry-the-essence-of-manifestation-commentary#h2-s-33-the-ontological-interpretation-of-the-essence-of-transcendence-as-immanence",
+      "primary_locator": "The Essence of Manifestation, § 33",
+      "stratum": "essence-1963",
+      "term": "immanence",
+      "status": "criticized",
+      "claim": "When transcendence is read from beings, immanence becomes an ontic category, beings' staying-in-themselves, and only as such counts as transcendence's antithesis.",
+      "quote": "Immanence thereby becomes an *ontic category* — and it is precisely as an ontic category that it counts as transcendence's antithesis."
+    },
+    {
+      "id": "transzendenz/em/046",
+      "locator": "henry-the-essence-of-manifestation-commentary#h2-s-33-the-ontological-interpretation-of-the-essence-of-transcendence-as-immanence",
+      "primary_locator": "The Essence of Manifestation, § 33",
+      "stratum": "essence-1963",
+      "term": "transcendence and immanence",
+      "status": "revised",
+      "claim": "Freed from their pseudo-ontic origin, transcendence and immanence cease to be opposed and stand in a relation of grounding.",
+      "quote": "Freed from the aberrant significations conferred on them by a pseudo-genesis from an ontic origin they do not have, the concepts of transcendence and immanence cease to be opposed."
+    },
+    {
+      "id": "transzendenz/em/047",
+      "locator": "henry-the-essence-of-manifestation-commentary#h2-s-33-the-ontological-interpretation-of-the-essence-of-transcendence-as-immanence",
+      "primary_locator": "The Essence of Manifestation, § 33",
+      "stratum": "essence-1963",
+      "term": "transcendence and immanence",
+      "status": "introduced",
+      "claim": "The comprehension of the concepts of immanence and transcendence differs, but their extension is identical: immanence is universal as the structure of every manifestation.",
+      "quote": "The *comprehension* of the pure ontological concepts of immanence and transcendence differs; their *extension* is identical."
+    },
+    {
+      "id": "transzendenz/em/048",
+      "locator": "henry-the-essence-of-manifestation-commentary#h2-s-33-the-ontological-interpretation-of-the-essence-of-transcendence-as-immanence",
+      "primary_locator": "The Essence of Manifestation, § 33",
+      "stratum": "essence-1963",
+      "term": "relation",
+      "status": "criticized",
+      "claim": "Unable to show what makes the transcendence-relation possible, the problematic absolutizes it as a groundless ground, the pure Relation of existentialism.",
+      "quote": "So one sees an inability to justify the relation — to grasp what makes it possible — lead the problematic to absolutize it by making groundlessness the character and essence of the ground."
+    },
+    {
+      "id": "transzendenz/em/049",
+      "locator": "henry-the-essence-of-manifestation-commentary#h2-s-34-consciousness-of-the-world-and-consciousness-without-world",
+      "primary_locator": "The Essence of Manifestation, § 34",
+      "stratum": "essence-1963",
+      "term": "transcendence",
+      "status": "revised",
+      "claim": "Transcendence is not in the world: it neither occurs in it as a being nor occurs as that which is the world, and this is the most proper possibility of being-in-the-world.",
+      "quote": "Transcendence is not in the world. This means not merely that it does not occur within the world in the manner of a being, but — more decisive for understanding the nature of the \"being-in\" — that it does not occur *as that which is the world*."
+    },
+    {
+      "id": "transzendenz/em/050",
+      "locator": "henry-the-essence-of-manifestation-commentary#h2-s-34-consciousness-of-the-world-and-consciousness-without-world",
+      "primary_locator": "The Essence of Manifestation, § 34",
+      "stratum": "essence-1963",
+      "term": "transcendence",
+      "status": "presupposed",
+      "claim": "Phenomenality first becomes phenomenal in a sphere without transcendence, and the reality of transcendence lies in the essence that does not transcend itself.",
+      "quote": "The reality of transcendence lies in the essence that does not transcend itself."
+    },
+    {
+      "id": "transzendenz/em/051",
+      "locator": "henry-the-essence-of-manifestation-commentary#h2-s-35-the-coherence-of-the-internal-structure-of-the-essence",
+      "primary_locator": "The Essence of Manifestation, § 35",
+      "stratum": "essence-1963",
+      "term": "transcendence",
+      "status": "introduced",
+      "claim": "The originally coherent unity of the movement of transcendence lies in immanence, and on it rests the coherence of the whole structure of transcendence and horizon.",
+      "quote": "The originally coherent unity of the movement of transcendence, considered in its own structure, resides in immanence."
+    },
+    {
+      "id": "transzendenz/em/052",
+      "locator": "henry-the-essence-of-manifestation-commentary#h2-s-35-the-coherence-of-the-internal-structure-of-the-essence",
+      "primary_locator": "The Essence of Manifestation, § 35",
+      "stratum": "essence-1963",
+      "term": "unified structure of transcendence",
+      "status": "criticized",
+      "claim": "The commentary notes that Henry's quotation cuts 'inner and' from Heidegger's 'inner and unified structure of transcendence'; Heidegger named an innermost unity, which Henry denies is the act's unity with itself.",
+      "quote": "Henry's ellipsis removes \"inner and\" (\"intime et\") and with it the very word for \"inner\"."
+    },
+    {
+      "id": "transzendenz/em/053",
+      "locator": "henry-the-essence-of-manifestation-commentary#h2-s-37-the-internal-structure-of-immanence",
+      "primary_locator": "The Essence of Manifestation, § 37",
+      "stratum": "essence-1963",
+      "term": "transcendence",
+      "status": "presupposed",
+      "claim": "Where there is no transcendence, there is neither horizon nor world.",
+      "quote": "Where there is no transcendence, there is neither horizon nor world."
+    },
+    {
+      "id": "transzendenz/em/054",
+      "locator": "henry-the-essence-of-manifestation-commentary#h2-s-38-the-internal-structure-of-immanence-and-the-problem-of-its-understanding-as",
+      "primary_locator": "The Essence of Manifestation, § 38",
+      "stratum": "essence-1963",
+      "term": "transcendence",
+      "status": "criticized",
+      "claim": "Immanence has been excluded from phenomenality because transcendence, the ecstatic-horizonal structure, was wrongly identified with the essence of phenomenality as such.",
+      "quote": "The immanent has been excluded from phenomenality not because the existent (to which the term is wrongly applied) is non-phenomenal — but because *transcendence* (the ekstatic-horizonal structure) has been wrongly identified with *the essence of phenomenality as such*."
+    },
+    {
+      "id": "transzendenz/em/055",
+      "locator": "henry-the-essence-of-manifestation-commentary#h2-s-39-eckhart",
+      "primary_locator": "The Essence of Manifestation, § 39",
+      "stratum": "essence-1963",
+      "term": "transcendence",
+      "status": "presupposed",
+      "claim": "For Eckhart the Deity alone is ontological reality, precisely because transcendence is not operative in it.",
+      "quote": "This latter alone constitutes the *ontological reality* — and that precisely insofar as transcendence is *not operative* in it, does not operate in it, insofar as there is in it no *\"operation.\"*"
+    },
+    {
+      "id": "transzendenz/em/056",
+      "locator": "henry-the-essence-of-manifestation-commentary#h2-s-40-the-fundamental-ontological-presupposition-of-eckhart-s-thought-and-the-ori",
+      "primary_locator": "The Essence of Manifestation, § 40",
+      "stratum": "essence-1963",
+      "term": "transcendence",
+      "status": "presupposed",
+      "claim": "Transcendence is not originary but a derivative mode made possible by the immanent self-reception.",
+      "quote": "Transcendence is not originary; immanence is originary, and transcendence is a derivative-secondary mode that is made possible by the immanent self-reception."
+    },
+    {
+      "id": "transzendenz/em/057",
+      "locator": "henry-the-essence-of-manifestation-commentary#h2-s-41-immanence-and-absolute-situation",
+      "primary_locator": "The Essence of Manifestation, § 41",
+      "stratum": "essence-1963",
+      "term": "surpassing",
+      "status": "introduced",
+      "claim": "The impossibility that determines being's relation to itself is not the impossibility of surpassing in general but being's impossibility of surpassing itself.",
+      "quote": "The impossibility which determines the originary relation of being with self signifies, from then on, not simply and in general the impossibility of surpassing, but rather, *for being, the impossibility of surpassing itself*."
+    },
+    {
+      "id": "transzendenz/em/058",
+      "locator": "henry-the-essence-of-manifestation-commentary#h2-s-41-immanence-and-absolute-situation",
+      "primary_locator": "The Essence of Manifestation, § 41",
+      "stratum": "essence-1963",
+      "term": "anti-essence",
+      "status": "introduced",
+      "claim": "That freedom has to be what it is comes from its anti-essence, the impossibility of surpassing itself, in which the being-in-situation of transcendence resides.",
+      "quote": "*That freedom has to be what it is comes not from freedom but from its fundamental anti-essence. In the essence of this anti-essence resides (along with the impossibility for freedom of surpassing itself, an impossibility which delivers freedom to itself) what results — the being-in-situation of transcendence and of what it produces.*"
+    },
+    {
+      "id": "transzendenz/em/059",
+      "locator": "henry-the-essence-of-manifestation-commentary#h2-s-41-immanence-and-absolute-situation",
+      "primary_locator": "The Essence of Manifestation, § 41",
+      "stratum": "essence-1963",
+      "term": "transcendence",
+      "status": "introduced",
+      "claim": "Dasein cannot overcome its distancing because it realizes the essence of its distancing in itself: on the ground of its anti-essence, transcendence cannot be transcended.",
+      "quote": "*Dasein realizes in itself the essence of its distancing* — because, on the ground in it of its anti-essence, *transcendence cannot be transcended*."
+    },
+    {
+      "id": "transzendenz/em/060",
+      "locator": "henry-the-essence-of-manifestation-commentary#h2-s-41-immanence-and-absolute-situation",
+      "primary_locator": "The Essence of Manifestation, § 41",
+      "stratum": "essence-1963",
+      "term": "transcendence and immanence",
+      "status": "presupposed",
+      "claim": "The insurmountability of a point of view and the impossibility of taking one are bound together as transcendence and immanence.",
+      "quote": "*insurmountability of point of view and impossibility of taking one are solidary and determined among themselves as transcendence and immanence*."
+    },
+    {
+      "id": "transzendenz/em/061",
+      "locator": "henry-the-essence-of-manifestation-commentary#h2-s-41-immanence-and-absolute-situation",
+      "primary_locator": "The Essence of Manifestation, § 41",
+      "stratum": "essence-1963",
+      "term": "transcendence",
+      "status": "criticized",
+      "claim": "Contemporary philosophy of existence develops the concept of situation only within the field opened by transcendence and is blind to its ultimate possibility, which prepares its failure.",
+      "quote": "That such a philosophy develops exclusively inside the field opened by the idea of transcendence and remains on the contrary blind to what constitutes the ultimate possibility of this idea"
+    },
+    {
+      "id": "transzendenz/em/062",
+      "locator": "henry-the-essence-of-manifestation-commentary#h2-s-42-the-ontological-determination-of-the-essence-of-situation-as-immanence-and",
+      "primary_locator": "The Essence of Manifestation, § 42",
+      "stratum": "essence-1963",
+      "term": "transcendence",
+      "status": "criticized",
+      "claim": "One of the hidden aims of the philosophy of transcendence is to found its own situation from transcendence itself.",
+      "quote": "*The task of founding, from transcendence itself, its proper situation* constitutes in fact one of its ultimate aims, even if most often hidden."
+    },
+    {
+      "id": "transzendenz/em/063",
+      "locator": "henry-the-essence-of-manifestation-commentary#h2-s-43-situation-and-temporality-the-ontological-heterogeneity-of-their-originary",
+      "primary_locator": "The Essence of Manifestation, § 43",
+      "stratum": "essence-1963",
+      "term": "transcendence",
+      "status": "revised",
+      "claim": "What is discovered in the ecstasis of the past is independent of that discovery, and this independence is that of immanence.",
+      "quote": "The independence of what discovers itself in the ekstasis of the past (relatively to this discovery as it accomplishes itself in the originary temporalization of temporality — that is, as well, in transcendence itself) is *that of immanence*."
+    },
+    {
+      "id": "transzendenz/em/064",
+      "locator": "henry-the-essence-of-manifestation-commentary#h2-s-44-the-concept-of-situation-in-existentialism-the-failure-of-ontology-and-real",
+      "primary_locator": "The Essence of Manifestation, § 44",
+      "stratum": "essence-1963",
+      "term": "transcendence",
+      "status": "criticized",
+      "claim": "Since neither transcendence nor the existent contains the internal possibility of being-situated, existentialism's account of situation moves in a circle between them.",
+      "quote": "Because of the two elements at its disposal (transcendence and the existent) neither encloses in itself the internal possibility of being-situated, the problematic finds itself referred from one to the other."
+    },
+    {
+      "id": "transzendenz/em/065",
+      "locator": "henry-the-essence-of-manifestation-commentary#h2-s-45-the-dissimulation-of-the-originary-essence-of-revelation-and-its-forgetting",
+      "primary_locator": "The Essence of Manifestation, § 45",
+      "stratum": "essence-1963",
+      "term": "transcendence",
+      "status": "presupposed",
+      "claim": "The essence of transcendence resides in immanence, and the reason for the dissimulation of the essence must be sought in the positivity of immanence.",
+      "quote": "*The essence of transcendence resides in immanence.* In the *positivity* of immanence (not in the simple fact for transcendence of not itself assuring its own manifestation) must be sought — if there is one — *the reason of dissimulation*"
+    },
+    {
+      "id": "transzendenz/em/066",
+      "locator": "henry-the-essence-of-manifestation-commentary#h2-s-46-the-critique-of-knowledge-the-essence-of-religion",
+      "primary_locator": "The Essence of Manifestation, § 46",
+      "stratum": "essence-1963",
+      "term": "transcendent",
+      "status": "criticized",
+      "claim": "The concept of God as a transcendent absolute in the horizon of objectivity must be rejected if the essence of life is to be preserved as immanence.",
+      "quote": "Because the concept of God, when it is the concept of a *transcendent* absolute residing in the horizon of objectivity, is precisely the concept that must be rejected if the essence of life is to be preserved *as* immanence."
+    },
+    {
+      "id": "transzendenz/em/067",
+      "locator": "henry-the-essence-of-manifestation-commentary#h2-s-47-the-critique-of-knowledge-within-rationalism",
+      "primary_locator": "The Essence of Manifestation, § 47",
+      "stratum": "essence-1963",
+      "term": "transcendence",
+      "status": "criticized",
+      "claim": "In Jaspers what escapes knowing is called transcendence, whereas for Henry reality's retention outside representation is immanence.",
+      "quote": "What escapes knowing (and that necessarily) — what holds itself beyond the ontological milieu where knowing moves, beyond every objectivity and every possible representation — is called *transcendence*."
+    },
+    {
+      "id": "transzendenz/em/068",
+      "locator": "henry-the-essence-of-manifestation-commentary#h2-s-49-ontological-signification-of-the-critique-of-knowledge-in-eckhart",
+      "primary_locator": "The Essence of Manifestation, § 49",
+      "stratum": "essence-1963",
+      "term": "transcendence",
+      "status": "presupposed",
+      "claim": "In the nothingness of its archetype, when every transcendence ceases, the essence finds its unity again.",
+      "quote": "In the nothingness of its archetype — when every transcendence ceases — the essence finds again its unity, accomplishes itself."
+    },
+    {
+      "id": "transzendenz/em/069",
+      "locator": "henry-the-essence-of-manifestation-commentary#h2-s-51-visible-and-invisible",
+      "primary_locator": "The Essence of Manifestation, § 51",
+      "stratum": "essence-1963",
+      "term": "transcendent",
+      "status": "introduced",
+      "claim": "The invisible is not a transcendent beyond the visible but the original essence of life, which never rises in transcendence and cannot show itself in it.",
+      "quote": "For *the invisible is nothing that is beyond the visible, nothing \"transcendent\"* — it is the originary essence of life such that (accomplishing itself in a sphere of radical immanence) *it never rises in transcendence and cannot either show itself in it*."
+    },
+    {
+      "id": "transzendenz/em/070",
+      "locator": "henry-the-essence-of-manifestation-commentary#h2-s-52-fundamental-ontological-interpretation-of-the-original-essence-of-revelatio",
+      "primary_locator": "The Essence of Manifestation, § 52",
+      "stratum": "essence-1963",
+      "term": "transcendence",
+      "status": "presupposed",
+      "claim": "Transcendence's auto-affection, its being already affected before it affects itself as time, conditions all affection by the world and by beings.",
+      "quote": "This auto-affection, transcendence's being-already-affected before it affects itself as time, conditions all ontological affection by the world and all affection by beings, and conditions inner sense."
+    },
+    {
+      "id": "transzendenz/em/071",
+      "locator": "henry-the-essence-of-manifestation-commentary#h2-s-52-fundamental-ontological-interpretation-of-the-original-essence-of-revelatio",
+      "primary_locator": "The Essence of Manifestation, § 52",
+      "stratum": "essence-1963",
+      "term": "transcendence",
+      "status": "introduced",
+      "claim": "Affectivity, as the power of undergoing and being affected, has nothing to do with sense or what founds it, nothing to do with transcendence.",
+      "quote": "affectivity taken as a power of sensing — more exactly, of undergoing something and being affected by it — has nothing to do with sense or with what founds sense, nothing to do with transcendence."
+    },
+    {
+      "id": "transzendenz/em/072",
+      "locator": "henry-the-essence-of-manifestation-commentary#h2-s-53-affectivity-as-original-ontological-passivity-and-the-effectivity-of-its-es",
+      "primary_locator": "The Essence of Manifestation, § 53",
+      "stratum": "essence-1963",
+      "term": "surpassing",
+      "status": "revised",
+      "claim": "Feeling's surpassing takes place within its immanence: surpassing itself toward nothing, it is feeling's being seized by its own reality.",
+      "quote": "Feeling's surpassing thus takes place within its immanence, the surpassing of the feeling toward what it feels — yet in surpassing itself this way, the feeling surpasses itself toward nothing, does not surpass itself at all: it is feeling's being-seized by its own reality."
+    },
+    {
+      "id": "transzendenz/em/073",
+      "locator": "henry-the-essence-of-manifestation-commentary#h2-s-54-ontological-interpretation-of-affectivity-as-the-foundation-of-affection-th",
+      "primary_locator": "The Essence of Manifestation, § 54",
+      "stratum": "essence-1963",
+      "term": "transcendence",
+      "status": "presupposed",
+      "claim": "Because immanence is the condition of transcendence, affectivity is the condition of sensibility, which is transcendence itself as affective in its essence.",
+      "quote": "But immanence is the condition of transcendence, the reality of the act that sets a horizon over against itself; affectivity is therefore the condition of sensibility."
+    },
+    {
+      "id": "transzendenz/em/074",
+      "locator": "henry-the-essence-of-manifestation-commentary#h2-s-56-affectivity-and-sensations",
+      "primary_locator": "The Essence of Manifestation, § 56",
+      "stratum": "essence-1963",
+      "term": "reell immanence",
+      "status": "revised",
+      "claim": "What Husserl counts as reell immanence falls for Henry wholly on the side of transcendence.",
+      "quote": "The redefinition matters: what Husserl counts as *reell* immanence falls, for Henry, wholly on the side of transcendence, and readers who assimilate the two immanences lose the entire argument."
+    },
+    {
+      "id": "transzendenz/em/075",
+      "locator": "henry-the-essence-of-manifestation-commentary#h2-s-57-affectivity-as-the-universal-form-of-all-possible-experience-in-general-and",
+      "primary_locator": "The Essence of Manifestation, § 57",
+      "stratum": "essence-1963",
+      "term": "transcendent content",
+      "status": "criticized",
+      "claim": "In existentialism as in classical philosophy, the affectivity of coenesthesia is a transcendent content whose possibility lies in the exteriority of transcendence.",
+      "quote": "Lived in a project, always in some manner assumed, the affectivity inherent in coenesthesia is, in existentialism as in classical philosophy, a transcendent content that finds outside itself, in the exteriority of transcendence, the ontological condition of its possibility."
+    }
+  ],
+  "absences": []
+}
