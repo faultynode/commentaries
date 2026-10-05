@@ -2,7 +2,7 @@
   "schema_version": 1,
   "theme": "zeitlichkeit",
   "commentary": "henry-the-essence-of-manifestation-commentary",
-  "source_sha256": "81321687b3823d9c3244b29758d979f86bd9d4ac28813fa58686aa2e9446ff68",
+  "source_sha256": "a2a90bd7e215000feb637e46e5db70ffcc8032e3c242f450bb72616e3e95db25",
   "extracted_at": "2026-09-14",
   "extractor": {
     "agent": "claude-code",
