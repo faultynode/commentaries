@@ -1,0 +1,511 @@
+{
+  "schema_version": 1,
+  "theme": "transzendenz",
+  "commentary": "heidegger-ga-3-kant-und-das-problem-der-metaphysik-commentary",
+  "source_sha256": "dad53870fbf591408c5ecd64e89dc4c2080e037044d6ac19d426ddc14bb99f28",
+  "extracted_at": "2026-10-05",
+  "extractor": {
+    "agent": "claude-code",
+    "model": "claude-opus-5-5",
+    "prompt": "synthesis/prompts/extraction-prompt.md"
+  },
+  "coverage": "partial",
+  "coverage_note": "Read in full: the opening note, the Introduction and §§ 1-3 (lines 7-131), § 5 on the finitude of knowledge (lines 157-208), and the third, fourth and fifth stages, §§ 16-25 (lines 435-796). Everywhere else, including §§ 26-45, only the paragraphs containing a theme term were read. §§ 4, 6-15, 20-21 and 37-42 were not read beyond those hits.",
+  "units": [
+    {
+      "id": "transzendenz/ga3/001",
+      "locator": "heidegger-ga-3-kant-und-das-problem-der-metaphysik-commentary#h1-commentary-on-heidegger-kant-und-das-problem-der-metaphysik-ga-3",
+      "term": "transcendence",
+      "status": "criticized",
+      "claim": "The commentary guards against taking transcendence as a passage across to a transcendent object; with ontological knowledge it names the prior projection of the being of beings within which any object can be met.",
+      "quote": "Ontological knowledge is not knowledge of some higher class of beings, and transcendence is not a passage across to a transcendent object; both name the prior projection of the being of beings within which any object can be met."
+    },
+    {
+      "id": "transzendenz/ga3/002",
+      "locator": "heidegger-ga-3-kant-und-das-problem-der-metaphysik-commentary#h3-s-2-the-starting-point-of-the-laying-of-the-ground-of-traditional-metaphysics",
+      "primary_locator": "GA 3 § 2, B xv",
+      "stratum": "ga3-1929",
+      "term": "Überschritt",
+      "status": "introduced",
+      "claim": "Metaphysics performs a crossing-over beyond what experience offers toward the supersensible, and the commentary notes that this word will become transcendence, the book's whole subject.",
+      "quote": "The crossing-over is registered as a fact about metaphysics before it is analysed; that word, *Überschritt*, will shortly become *Transzendenz*, and the whole book is the analysis of it."
+    },
+    {
+      "id": "transzendenz/ga3/003",
+      "locator": "heidegger-ga-3-kant-und-das-problem-der-metaphysik-commentary#h3-s-3-the-laying-of-the-ground-of-metaphysics-as-critique-of-pure-reason",
+      "primary_locator": "GA 3 § 3, B 25",
+      "stratum": "ga3-1929",
+      "term": "transcendence",
+      "status": "introduced",
+      "claim": "Transcendental knowledge concerns the crossing-over of pure reason to beings, which is not a relation to something beyond the world but the passage from the understanding of being to the beings that can then be met.",
+      "quote": "It concerns the crossing-over (transcendence) of pure reason to beings, such that experience can now first conform to them as possible objects. Transcendence is here not a relation to something beyond the world but the passage from the understanding of being to the beings that can consequently be met"
+    },
+    {
+      "id": "transzendenz/ga3/004",
+      "locator": "heidegger-ga-3-kant-und-das-problem-der-metaphysik-commentary#h3-s-3-the-laying-of-the-ground-of-metaphysics-as-critique-of-pure-reason",
+      "primary_locator": "GA 3 § 3",
+      "stratum": "ga3-1929",
+      "term": "transcendence of the understanding of being",
+      "status": "presupposed",
+      "claim": "To make the possibility of ontology a problem is to ask about the essence of the transcendence of the understanding of being, that is, to philosophize transcendentally.",
+      "quote": "To make the possibility of ontology a problem means to ask about the possibility, that is, the essence, of this transcendence of the understanding of being — to philosophize transcendentally."
+    },
+    {
+      "id": "transzendenz/ga3/005",
+      "locator": "heidegger-ga-3-kant-und-das-problem-der-metaphysik-commentary#h3-s-3-the-laying-of-the-ground-of-metaphysics-as-critique-of-pure-reason",
+      "primary_locator": "GA 3 § 3",
+      "stratum": "ga3-1929",
+      "term": "transcendence",
+      "status": "criticized",
+      "claim": "With the problem of transcendence epistemology is not put in place of metaphysics; ontology is questioned as to its inner possibility.",
+      "quote": "With the problem of transcendence, \"epistemology\" is not put in the place of metaphysics; rather ontology is questioned as to its inner possibility."
+    },
+    {
+      "id": "transzendenz/ga3/006",
+      "locator": "heidegger-ga-3-kant-und-das-problem-der-metaphysik-commentary#h3-s-3-the-laying-of-the-ground-of-metaphysics-as-critique-of-pure-reason",
+      "primary_locator": "GA 3 § 3, A 146 / B 185",
+      "stratum": "ga3-1929",
+      "term": "ontological transcendence",
+      "status": "introduced",
+      "claim": "The transcendental problem of synthetic a priori knowledge is the question of the essence of the truth of ontological transcendence, transcendental truth, which precedes and makes possible empirical truth.",
+      "quote": "If truth belongs to the essence of a knowledge, then the transcendental problem of the inner possibility of synthetic a priori knowledge is the question of the essence of the truth of ontological transcendence."
+    },
+    {
+      "id": "transzendenz/ga3/007",
+      "locator": "heidegger-ga-3-kant-und-das-problem-der-metaphysik-commentary#h3-b-the-stages-of-the-execution-of-the-projection-of-the-inner-possibility-of-onto",
+      "primary_locator": "GA 3, Second Section B",
+      "stratum": "ga3-1929",
+      "term": "transcend",
+      "status": "presupposed",
+      "claim": "The problem of the possibility of ontology is the question of how finite human Dasein can in advance transcend beings it has not created and on which it depends.",
+      "quote": "how can finite human Dasein in advance cross over — transcend — beings that it has not only not created itself, but on which it is even dependent in order to be able to exist as Dasein at all? The problem of the possibility of ontology is thus the question of the essence and the essential ground of the transcendence of the prior understanding of being."
+    },
+    {
+      "id": "transzendenz/ga3/008",
+      "locator": "heidegger-ga-3-kant-und-das-problem-der-metaphysik-commentary#h6-s-10-time-as-the-universal-pure-intuition",
+      "primary_locator": "GA 3 § 10, A 34 / B 50",
+      "stratum": "ga3-1929",
+      "term": "transcendence-forming knowledge",
+      "status": "presupposed",
+      "claim": "Because time has primacy over space as the universal pure intuition, it must be the leading element of the pure, transcendence-forming knowledge.",
+      "quote": "Time therefore has a primacy over space, and as the universal pure intuition it must become the leading and bearing essential element of the pure, transcendence-forming knowledge."
+    },
+    {
+      "id": "transzendenz/ga3/009",
+      "locator": "heidegger-ga-3-kant-und-das-problem-der-metaphysik-commentary#h5-s-16-the-illumination-of-the-transcendence-of-finite-reason-as-the-basic-intenti",
+      "primary_locator": "GA 3 § 16",
+      "stratum": "ga3-1929",
+      "term": "transcendence",
+      "status": "introduced",
+      "claim": "A finite being must in advance hold open a play-space in which something can correspond to it, and forming this play-space is the transcendence that marks all finite comportment toward beings.",
+      "quote": "To hold oneself in advance within such a play-space, to form it originally, is nothing other than the transcendence that marks all finite comportment toward beings."
+    },
+    {
+      "id": "transzendenz/ga3/010",
+      "locator": "heidegger-ga-3-kant-und-das-problem-der-metaphysik-commentary#h5-s-16-the-illumination-of-the-transcendence-of-finite-reason-as-the-basic-intenti",
+      "primary_locator": "GA 3 § 16",
+      "stratum": "ga3-1929",
+      "term": "transcendence",
+      "status": "introduced",
+      "claim": "What the letting-stand-over-against lets stand over against is not a being but a nothing, and the commentary reads this with 'What Is Metaphysics?' as transcendence being held out into the nothing.",
+      "quote": "The doctrine is that of *Was ist Metaphysik?*, delivered the same year, and the two texts must be read together on this point: transcendence is being held out into the nothing, and the *Kantbuch* derives it from the structure of finite knowing."
+    },
+    {
+      "id": "transzendenz/ga3/011",
+      "locator": "heidegger-ga-3-kant-und-das-problem-der-metaphysik-commentary#h5-s-16-the-illumination-of-the-transcendence-of-finite-reason-as-the-basic-intenti",
+      "primary_locator": "GA 3 § 16",
+      "stratum": "ga3-1929",
+      "term": "transcendence",
+      "status": "presupposed",
+      "claim": "The structural unity of pure intuition and pure thinking sinks both into their full finitude, which announces itself as transcendence, and illuminating transcendence is the goal of the deduction.",
+      "quote": "Only their essential structural unity sinks pure intuition and pure thinking into their full finitude, which announces itself as transcendence."
+    },
+    {
+      "id": "transzendenz/ga3/012",
+      "locator": "heidegger-ga-3-kant-und-das-problem-der-metaphysik-commentary#h5-s-17-the-two-ways-of-the-transcendental-deduction",
+      "primary_locator": "GA 3 § 17, A 115-128",
+      "stratum": "ga3-1929",
+      "term": "transcendence",
+      "status": "presupposed",
+      "claim": "The heading of Kant's third section of the deduction shows that the problem of the inner possibility of ontological knowledge is nothing other than the unveiling of transcendence.",
+      "quote": "The heading of that section brings clearly to expression that the problem of the inner possibility of ontological knowledge is nothing other than the unveiling of transcendence"
+    },
+    {
+      "id": "transzendenz/ga3/013",
+      "locator": "heidegger-ga-3-kant-und-das-problem-der-metaphysik-commentary#h5-s-18-the-outer-form-of-the-transcendental-deduction",
+      "primary_locator": "GA 3 § 18",
+      "stratum": "ga3-1929",
+      "term": "transcendence",
+      "status": "presupposed",
+      "claim": "The categories, as pure concepts related essentially to time through the pure imagination, make up transcendence itself and co-form the letting-stand-over-against.",
+      "quote": "And insofar as they are of this essence, they make up transcendence itself; they co-form the letting-stand-over-against."
+    },
+    {
+      "id": "transzendenz/ga3/014",
+      "locator": "heidegger-ga-3-kant-und-das-problem-der-metaphysik-commentary#h5-s-18-the-outer-form-of-the-transcendental-deduction",
+      "primary_locator": "GA 3 § 18, A 128",
+      "stratum": "ga3-1929",
+      "term": "analytic of transcendence",
+      "status": "revised",
+      "claim": "The quaestio juris is not a question of validity but the formula for an analytic of transcendence, a pure phenomenology of the finite subject's subjectivity.",
+      "quote": "it is only the formula for the task of an analytic of transcendence, that is, of a pure phenomenology of the subjectivity of the subject — and of the subject as finite."
+    },
+    {
+      "id": "transzendenz/ga3/015",
+      "locator": "heidegger-ga-3-kant-und-das-problem-der-metaphysik-commentary#h5-s-19-transcendence-and-rendering-sensible",
+      "primary_locator": "GA 3 § 19",
+      "stratum": "ga3-1929",
+      "term": "transcendence",
+      "status": "introduced",
+      "claim": "Transcendence is finitude itself, so the offering of a look of its horizon can only be a rendering-sensible, and the horizon of transcendence forms itself only in a rendering-sensible.",
+      "quote": "But transcendence is finitude itself. If it is to make intuitive, in letting-stand-over-against, the horizon that forms itself there, and if finite intuition is what \"sensibility\" means, then the offering of a look can only be a rendering-sensible of the horizon."
+    },
+    {
+      "id": "transzendenz/ga3/016",
+      "locator": "heidegger-ga-3-kant-und-das-problem-der-metaphysik-commentary#h5-s-19-transcendence-and-rendering-sensible",
+      "primary_locator": "GA 3 § 19",
+      "stratum": "ga3-1929",
+      "term": "horizon of transcendence",
+      "status": "presupposed",
+      "claim": "Pure rendering-sensible happens as schematism, in which the pure imagination gives in advance the look of the horizon of transcendence.",
+      "quote": "Pure rendering-sensible happens as a \"schematism\": the pure imagination gives in advance, by forming schemata, the look — the \"image\" — of the horizon of transcendence."
+    },
+    {
+      "id": "transzendenz/ga3/017",
+      "locator": "heidegger-ga-3-kant-und-das-problem-der-metaphysik-commentary#h5-s-22-the-transcendental-schematism",
+      "primary_locator": "GA 3 § 22, A 138 / B 177",
+      "stratum": "ga3-1929",
+      "term": "transcendental schematism",
+      "status": "presupposed",
+      "claim": "The schemata as transcendental time-determinations form transcendence a priori, which is why the schematism is called transcendental.",
+      "quote": "This schematism forms transcendence a priori and is therefore called transcendental schematism."
+    },
+    {
+      "id": "transzendenz/ga3/018",
+      "locator": "heidegger-ga-3-kant-und-das-problem-der-metaphysik-commentary#h5-s-22-the-transcendental-schematism",
+      "primary_locator": "GA 3 § 22",
+      "stratum": "ga3-1929",
+      "term": "horizon of transcendence",
+      "status": "presupposed",
+      "claim": "Time, as what gives a priori, lends the horizon of transcendence the character of a perceivable offer and gives it a prior enclosedness and a halt.",
+      "quote": "It is therefore time that, as what gives a priori, lends the horizon of transcendence from the outset the character of a perceivable offer."
+    },
+    {
+      "id": "transzendenz/ga3/019",
+      "locator": "heidegger-ga-3-kant-und-das-problem-der-metaphysik-commentary#h5-s-24-the-highest-synthetic-principle-as-the-full-essential-determination-of-tran",
+      "primary_locator": "GA 3 § 24, A 156 / B 195",
+      "stratum": "ga3-1929",
+      "term": "transcendence",
+      "status": "introduced",
+      "claim": "'Possibility of experience' means what makes finite knowledge possible in its essence, so it is synonymous with transcendence.",
+      "quote": "Possibility of experience is therefore synonymous with transcendence, and to circumscribe transcendence in its full essential wholeness means to determine \"the conditions of the possibility of experience.\""
+    },
+    {
+      "id": "transzendenz/ga3/020",
+      "locator": "heidegger-ga-3-kant-und-das-problem-der-metaphysik-commentary#h5-s-24-the-highest-synthetic-principle-as-the-full-essential-determination-of-tran",
+      "primary_locator": "GA 3 § 24, A 158 / B 197",
+      "stratum": "ga3-1929",
+      "term": "transcendence",
+      "status": "introduced",
+      "claim": "The 'at the same time' of the highest synthetic principle expresses that transcendence is in itself ecstatic-horizonal: the standing-out toward forms and holds a horizon.",
+      "quote": "Transcendence is in itself ecstatic-horizonal, and it is this articulation of the in-itself single transcendence that the highest principle expresses."
+    },
+    {
+      "id": "transzendenz/ga3/021",
+      "locator": "heidegger-ga-3-kant-und-das-problem-der-metaphysik-commentary#h5-s-24-the-highest-synthetic-principle-as-the-full-essential-determination-of-tran",
+      "primary_locator": "GA 3 § 24",
+      "stratum": "ga3-1929",
+      "term": "transcendence",
+      "status": "presupposed",
+      "claim": "The highest principle says that what makes experiencing possible makes the experienceable possible, that is, transcendence makes beings accessible at themselves to a finite being.",
+      "quote": "Which says: transcendence makes beings accessible at themselves to a finite being."
+    },
+    {
+      "id": "transzendenz/ga3/022",
+      "locator": "heidegger-ga-3-kant-und-das-problem-der-metaphysik-commentary#h5-s-25-transcendence-and-the-laying-of-the-ground-of-metaphysica-generalis",
+      "primary_locator": "GA 3 § 25",
+      "stratum": "ga3-1929",
+      "term": "transcendence",
+      "status": "presupposed",
+      "claim": "The question is raised whether schema-forming ontological knowledge, as creative, bursts the finitude that transcendence constitutes, and it is answered that it creates no beings.",
+      "quote": "And if ontological knowing forms transcendence, while transcendence makes up the essence of finitude, is finitude not burst by this \"creative\" character?"
+    },
+    {
+      "id": "transzendenz/ga3/023",
+      "locator": "heidegger-ga-3-kant-und-das-problem-der-metaphysik-commentary#h5-s-25-transcendence-and-the-laying-of-the-ground-of-metaphysica-generalis",
+      "primary_locator": "GA 3 § 25, A 108 f., A 250",
+      "stratum": "ga3-1929",
+      "term": "transcendental object",
+      "status": "introduced",
+      "claim": "The X that Kant calls the transcendental object is a nothing, not a being, and by its essence pure horizon, the against that becomes visible through transcendence as its horizon.",
+      "quote": "Kant calls this X the \"transcendental object,\" the against that becomes visible in and through transcendence as transcendence's horizon."
+    },
+    {
+      "id": "transzendenz/ga3/024",
+      "locator": "heidegger-ga-3-kant-und-das-problem-der-metaphysik-commentary#h5-s-25-transcendence-and-the-laying-of-the-ground-of-metaphysica-generalis",
+      "primary_locator": "GA 3 § 25",
+      "stratum": "ga3-1929",
+      "term": "transcendence",
+      "status": "introduced",
+      "claim": "If truth means unconcealedness, transcendence is the original truth, which forks into the unveiledness of being and the manifestness of beings.",
+      "quote": "If truth means unconcealedness of..., then transcendence is the original truth. But truth itself must fork into the unveiledness of being and the manifestness of beings."
+    },
+    {
+      "id": "transzendenz/ga3/025",
+      "locator": "heidegger-ga-3-kant-und-das-problem-der-metaphysik-commentary#h5-s-25-transcendence-and-the-laying-of-the-ground-of-metaphysica-generalis",
+      "primary_locator": "GA 3 § 25",
+      "stratum": "ga3-1929",
+      "term": "transcendence",
+      "status": "revised",
+      "claim": "Ontology is the explicit unveiling of the systematic whole of pure knowledge insofar as it forms transcendence.",
+      "quote": "On this essential determination, ontology is nothing other than the explicit unveiling of the systematic whole of pure knowledge insofar as it forms transcendence."
+    },
+    {
+      "id": "transzendenz/ga3/026",
+      "locator": "heidegger-ga-3-kant-und-das-problem-der-metaphysik-commentary#h4-s-26-the-forming-middle-of-ontological-knowledge-as-transcendental-imagination",
+      "primary_locator": "GA 3 § 26",
+      "stratum": "ga3-1929",
+      "term": "transcendental imagination",
+      "status": "presupposed",
+      "claim": "The pure productive imagination relates to the pure look of objectivity, not to the forming of objects, and insofar as it forms transcendence it is rightly called transcendental.",
+      "quote": "And insofar as it forms transcendence it is rightly called the transcendental imagination."
+    },
+    {
+      "id": "transzendenz/ga3/027",
+      "locator": "heidegger-ga-3-kant-und-das-problem-der-metaphysik-commentary#h4-s-26-the-forming-middle-of-ontological-knowledge-as-transcendental-imagination",
+      "primary_locator": "GA 3 § 26",
+      "stratum": "ga3-1929",
+      "term": "transcendence",
+      "status": "criticized",
+      "claim": "Kant's Anthropology does not pose the question of transcendence at all, though the empirical interpretation of the soul's faculties already points to transcendental structures.",
+      "quote": "The Anthropology does not pose the question of transcendence at all."
+    },
+    {
+      "id": "transzendenz/ga3/028",
+      "locator": "heidegger-ga-3-kant-und-das-problem-der-metaphysik-commentary#h4-s-27-the-transcendental-imagination-as-third-basic-faculty",
+      "primary_locator": "GA 3 § 27",
+      "stratum": "ga3-1929",
+      "term": "transcendence",
+      "status": "presupposed",
+      "claim": "The transcendental imagination is homeless in the Critique because aesthetic and logic are oriented toward transcendence, an original unity that is not the sum of pure intuition and pure thinking.",
+      "quote": "because this aesthetic and this logic are from the outset oriented toward transcendence, which is not merely the sum of pure intuition and pure thinking but an original unity of its own within which these function only as elements, the result of both must lead beyond them."
+    },
+    {
+      "id": "transzendenz/ga3/029",
+      "locator": "heidegger-ga-3-kant-und-das-problem-der-metaphysik-commentary#h3-b-the-transcendental-imagination-as-the-root-of-the-two-stems",
+      "primary_locator": "GA 3, Third Section B",
+      "stratum": "ga3-1929",
+      "term": "transcendental untruth",
+      "status": "introduced",
+      "claim": "Finite ontological knowledge has with its truth a transcendental untruth, a central problem of finitude that is not even posed until the essence of finite transcendence is unveiled.",
+      "quote": "the idea of *transcendental untruth* harbours one of the most central problems of finitude — a problem that is not only unsolved but not even posed, because the basis for posing it must first be worked out."
+    },
+    {
+      "id": "transzendenz/ga3/030",
+      "locator": "heidegger-ga-3-kant-und-das-problem-der-metaphysik-commentary#h3-b-the-transcendental-imagination-as-the-root-of-the-two-stems",
+      "primary_locator": "GA 3, Third Section B",
+      "stratum": "ga3-1929",
+      "term": "transcendence",
+      "status": "revised",
+      "claim": "The regress to the transcendental imagination as root means projecting the constitution of transcendence anew onto the ground of its possibility, in which the name imagination becomes inappropriate.",
+      "quote": "The regress to the transcendental imagination as the root of sensibility and understanding means rather this alone: to project the constitution of transcendence anew onto the ground of its possibility"
+    },
+    {
+      "id": "transzendenz/ga3/031",
+      "locator": "heidegger-ga-3-kant-und-das-problem-der-metaphysik-commentary#h4-s-29-the-transcendental-imagination-and-theoretical-reason",
+      "primary_locator": "GA 3 § 29",
+      "stratum": "ga3-1929",
+      "term": "finite transcendence",
+      "status": "presupposed",
+      "claim": "As pure finite intuition and a basic determination of finite transcendence, the transcendental imagination must be sensible.",
+      "quote": "So the transcendental imagination as pure finite intuition not only can but, as a basic determination of finite transcendence, must be \"sensible.\""
+    },
+    {
+      "id": "transzendenz/ga3/032",
+      "locator": "heidegger-ga-3-kant-und-das-problem-der-metaphysik-commentary#h4-s-30-the-transcendental-imagination-and-practical-reason",
+      "primary_locator": "GA 3 § 30",
+      "stratum": "ga3-1929",
+      "term": "transcendence of the moral self",
+      "status": "introduced",
+      "claim": "In the interpretation of respect, feeling as an empirical faculty vanishes and a transcendental basic structure of the transcendence of the moral self takes its place.",
+      "quote": "a transcendental basic structure of the transcendence of the moral self has stepped into its place."
+    },
+    {
+      "id": "transzendenz/ga3/033",
+      "locator": "heidegger-ga-3-kant-und-das-problem-der-metaphysik-commentary#h4-s-31-the-originality-of-the-laid-ground-and-kant-s-shrinking-back-before-the-tra",
+      "primary_locator": "GA 3 § 31, A xvi f.",
+      "stratum": "ga3-1929",
+      "term": "transcending subject",
+      "status": "presupposed",
+      "claim": "The subjective side of the deduction asks about the faculties involved in the turning-toward and their possibility, which is the question of the subjectivity of the transcending subject.",
+      "quote": "The question of the faculties essentially involved in this turning-toward, and of their possibility, is the question of the subjectivity of the transcending subject as such. That is the \"subjective\" side of the deduction."
+    },
+    {
+      "id": "transzendenz/ga3/034",
+      "locator": "heidegger-ga-3-kant-und-das-problem-der-metaphysik-commentary#h3-c-the-transcendental-imagination-and-the-problem-of-human-pure-reason",
+      "primary_locator": "GA 3, Third Section C",
+      "stratum": "ga3-1929",
+      "term": "transcendence",
+      "status": "introduced",
+      "claim": "Pure sensibility is an element of the structure of transcendence, so the human being can have a body in a metaphysical sense only because transcendence as such is a priori sensible.",
+      "quote": "Conversely, the human being as a finite rational being can \"have\" his body in a transcendental, that is, metaphysical sense only because transcendence as such is a priori sensible."
+    },
+    {
+      "id": "transzendenz/ga3/035",
+      "locator": "heidegger-ga-3-kant-und-das-problem-der-metaphysik-commentary#h4-s-33-the-inner-time-character-of-the-transcendental-imagination",
+      "primary_locator": "GA 3 § 33",
+      "stratum": "ga3-1929",
+      "term": "transcendence",
+      "status": "presupposed",
+      "claim": "Kant showed time to be involved in the innermost structure of transcendence, and transcendence determines the selfhood of the finite self, so the subject-character of time must be asked about.",
+      "quote": "Has he not shown in the transcendental deduction and the schematism chapter that time is essentially involved in the innermost essential structure of transcendence? And does transcendence not determine the selfhood of the finite self?"
+    },
+    {
+      "id": "transzendenz/ga3/036",
+      "locator": "heidegger-ga-3-kant-und-das-problem-der-metaphysik-commentary#h4-s-34-time-as-pure-self-affection-and-the-time-character-of-the-self",
+      "primary_locator": "GA 3 § 34",
+      "stratum": "ga3-1929",
+      "term": "transcendence",
+      "status": "presupposed",
+      "claim": "Pure self-affection determines the innermost essence of transcendence and was not first introduced in the second edition.",
+      "quote": "The idea of pure self-affection, which as has now become clear determines the innermost essence of transcendence, was therefore not first introduced by Kant in the second edition."
+    },
+    {
+      "id": "transzendenz/ga3/037",
+      "locator": "heidegger-ga-3-kant-und-das-problem-der-metaphysik-commentary#h4-s-35-the-originality-of-the-laid-ground-and-the-problem-of-metaphysics",
+      "primary_locator": "GA 3 § 35",
+      "stratum": "ga3-1929",
+      "term": "transcendence",
+      "status": "revised",
+      "claim": "The transcendental imagination is original time, and this rooting in time is the sole reason it can be the root of transcendence.",
+      "quote": "This rooting in time is the sole thing by virtue of which the transcendental imagination can be the root of transcendence at all."
+    },
+    {
+      "id": "transzendenz/ga3/038",
+      "locator": "heidegger-ga-3-kant-und-das-problem-der-metaphysik-commentary#h4-s-35-the-originality-of-the-laid-ground-and-the-problem-of-metaphysics",
+      "primary_locator": "GA 3 § 35",
+      "stratum": "ga3-1929",
+      "term": "transcendence",
+      "status": "revised",
+      "claim": "Because transcendence temporalizes itself in original time, ontological cognitions are transcendental time-determinations.",
+      "quote": "Because transcendence temporalizes itself in original time, the ontological cognitions are \"transcendental time-determinations.\""
+    },
+    {
+      "id": "transzendenz/ga3/039",
+      "locator": "heidegger-ga-3-kant-und-das-problem-der-metaphysik-commentary#h4-s-35-the-originality-of-the-laid-ground-and-the-problem-of-metaphysics",
+      "primary_locator": "GA 3 § 35, B 291",
+      "stratum": "ga3-1929",
+      "term": "transcendence",
+      "status": "revised",
+      "claim": "Time is the original ground of transcendence not as the formed now-sequence but as pure self-affection, which also makes the representing of pure space possible.",
+      "quote": "But it is not as this formation that time is the original ground of transcendence; it is so as pure self-affection."
+    },
+    {
+      "id": "transzendenz/ga3/040",
+      "locator": "heidegger-ga-3-kant-und-das-problem-der-metaphysik-commentary#h4-s-35-the-originality-of-the-laid-ground-and-the-problem-of-metaphysics",
+      "primary_locator": "GA 3 § 35",
+      "stratum": "ga3-1929",
+      "term": "transcendence-forming",
+      "status": "criticized",
+      "claim": "What the regress unveils shows its transcendence-forming essence, but Kant does not determine the faculties, or time, from this transcendental function.",
+      "quote": "Precisely what is unveiled in the regress to the source-ground does reveal itself in its transcendence-forming essence; but the faculties of the mind involved, and so the pure intuition time as well, are not expressly and primarily determined from this transcendental function."
+    },
+    {
+      "id": "transzendenz/ga3/041",
+      "locator": "heidegger-ga-3-kant-und-das-problem-der-metaphysik-commentary#h4-s-36-the-laid-ground-and-the-result-of-kant-s-laying-of-the-ground-of-metaphysic",
+      "primary_locator": "GA 3 § 36",
+      "stratum": "ga3-1929",
+      "term": "transcendence",
+      "status": "presupposed",
+      "claim": "What happens in Kant's laying of the ground is that the grounding of ontology accomplishes itself as an unveiling of transcendence, the subjectivity of the human subject.",
+      "quote": "the grounding of the inner possibility of ontology accomplishes itself as an unveiling of transcendence, that is, of the subjectivity of the human subject."
+    },
+    {
+      "id": "transzendenz/ga3/042",
+      "locator": "heidegger-ga-3-kant-und-das-problem-der-metaphysik-commentary#h4-s-43-the-setting-in-and-the-course-of-fundamental-ontology",
+      "primary_locator": "GA 3 § 43",
+      "stratum": "ga3-1929",
+      "term": "transcendence of Dasein",
+      "status": "presupposed",
+      "claim": "The analytic of everydayness shows that all dealing with beings is already grounded in the transcendence of Dasein, in being-in-the-world.",
+      "quote": "It is to show that and how all dealing with beings — for which it looks exactly as though there were only beings — is already grounded in the transcendence of Dasein, in being-in-the-world."
+    },
+    {
+      "id": "transzendenz/ga3/043",
+      "locator": "heidegger-ga-3-kant-und-das-problem-der-metaphysik-commentary#h4-s-43-the-setting-in-and-the-course-of-fundamental-ontology",
+      "primary_locator": "GA 3 § 43",
+      "stratum": "ga3-1929",
+      "term": "transcendence",
+      "status": "presupposed",
+      "claim": "Being-in-the-world is not the subject-object relation but what makes it possible, insofar as transcendence carries out the projection of the being of beings.",
+      "quote": "But being-in-the-world is not first the relation between subject and object; it is what makes such a relation possible beforehand, insofar as transcendence carries out the projection of the being of beings."
+    },
+    {
+      "id": "transzendenz/ga3/044",
+      "locator": "heidegger-ga-3-kant-und-das-problem-der-metaphysik-commentary#h4-s-43-the-setting-in-and-the-course-of-fundamental-ontology",
+      "primary_locator": "GA 3 § 43",
+      "stratum": "ga3-1929",
+      "term": "transcendence",
+      "status": "introduced",
+      "claim": "In transcendence Dasein announces itself as needing the understanding of being, and this transcendental neediness is its innermost finitude.",
+      "quote": "In transcendence Dasein announces itself as needing the understanding of being."
+    },
+    {
+      "id": "transzendenz/ga3/045",
+      "locator": "heidegger-ga-3-kant-und-das-problem-der-metaphysik-commentary#h4-s-43-the-setting-in-and-the-course-of-fundamental-ontology",
+      "primary_locator": "GA 3 § 43",
+      "stratum": "ga3-1929",
+      "term": "care",
+      "status": "revised",
+      "claim": "'Care' names the structural unity of the finite transcendence of Dasein, not a world-view or ethical assessment of human life.",
+      "quote": "instead of as a designation for the structural unity of the in-itself finite transcendence of Dasein, then everything falls into confusion"
+    },
+    {
+      "id": "transzendenz/ga3/046",
+      "locator": "heidegger-ga-3-kant-und-das-problem-der-metaphysik-commentary#h4-s-43-the-setting-in-and-the-course-of-fundamental-ontology",
+      "primary_locator": "GA 3 § 43",
+      "stratum": "ga3-1929",
+      "term": "transcendence",
+      "status": "presupposed",
+      "claim": "The being of beings is understandable only if Dasein holds itself into the nothing, and therein lies the deepest finitude of transcendence.",
+      "quote": "But the being of beings is understandable at all — and therein lies the deepest finitude of transcendence — only if Dasein in the ground of its essence holds itself into the nothing."
+    },
+    {
+      "id": "transzendenz/ga3/047",
+      "locator": "heidegger-ga-3-kant-und-das-problem-der-metaphysik-commentary#h4-s-44-the-goal-of-fundamental-ontology",
+      "primary_locator": "GA 3 § 44",
+      "stratum": "ga3-1929",
+      "term": "transcendence of Dasein",
+      "status": "introduced",
+      "claim": "The metaphysics of Dasein is not a new discipline but the will to awaken the insight that philosophizing happens as the explicit transcendence of Dasein.",
+      "quote": "what announces itself in it is the will to awaken the insight that philosophizing happens as the explicit transcendence of Dasein."
+    },
+    {
+      "id": "transzendenz/ga3/048",
+      "locator": "heidegger-ga-3-kant-und-das-problem-der-metaphysik-commentary#h4-s-45-the-idea-of-fundamental-ontology-and-the-critique-of-pure-reason",
+      "primary_locator": "GA 3 § 45",
+      "stratum": "ga3-1929",
+      "term": "finite transcendence",
+      "status": "presupposed",
+      "claim": "Kant's laying of the ground had to come upon time as the basic determination of finite transcendence.",
+      "quote": "Kant's laying of the ground of metaphysics had to come upon time as the basic determination of finite transcendence"
+    },
+    {
+      "id": "transzendenz/ga3/049",
+      "locator": "heidegger-ga-3-kant-und-das-problem-der-metaphysik-commentary#h4-s-45-the-idea-of-fundamental-ontology-and-the-critique-of-pure-reason",
+      "primary_locator": "GA 3 § 45",
+      "stratum": "ga3-1929",
+      "term": "transcendence",
+      "status": "criticized",
+      "claim": "If transcendence is grounded in the pure imagination, or more originally in temporality, the idea of a transcendental logic is a non-concept.",
+      "quote": "If the essence of transcendence is grounded in the pure imagination, or more originally in temporality, then precisely the idea of a \"transcendental logic\" is a non-concept"
+    }
+  ],
+  "absences": [
+    {
+      "locator": "heidegger-ga-3-kant-und-das-problem-der-metaphysik-commentary#h5-s-5-the-essence-of-the-finitude-of-knowledge",
+      "expected_because": "§ 5 sets out finite knowledge as receptive intuition delivered over to beings it did not create, the object as what stands over against only a finite knower, and Kant's double 'outside us' (A 373), the structure that § 16 names transcendence and that the GA 26 commentary treats under that name.",
+      "note": "The section does all its work with finitude, object and appearance; neither transcendence nor any of its renderings occurs."
+    }
+  ]
+}

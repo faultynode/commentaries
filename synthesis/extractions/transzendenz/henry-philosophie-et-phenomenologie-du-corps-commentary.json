@@ -1,0 +1,525 @@
+{
+  "schema_version": 1,
+  "theme": "transzendenz",
+  "commentary": "henry-philosophie-et-phenomenologie-du-corps-commentary",
+  "source_sha256": "7873678cba294a842ebb78cf1590f2f4f3c732a826b6741035ba102fe8b1f802",
+  "extracted_at": "2026-10-05",
+  "extractor": {
+    "agent": "claude-code",
+    "model": "claude-opus-5-5",
+    "prompt": "synthesis/prompts/extraction-prompt.md"
+  },
+  "coverage": "partial",
+  "coverage_note": "Read in full: the Conclusion (lines 905-1049). In the opening note, the Introduction and Chapters I-VI (lines 7-904) every paragraph containing a theme term was read, which in this commentary is most of the paragraphs that use 'transcendent being'; paragraphs without a hit were not read, so no absences are claimed.",
+  "units": [
+    {
+      "id": "transzendenz/ppc/001",
+      "locator": "henry-philosophie-et-phenomenologie-du-corps-commentary#h1-commentary-on-michel-henry-philosophie-et-phenomenologie-du-corps-essai-sur-l-on",
+      "term": "transcendent being",
+      "status": "introduced",
+      "claim": "The book's terminological centre is the distinction between being given at a phenomenological distance, called transcendent being, and being given without distance, called absolute subjectivity or immanence.",
+      "quote": "Henry uses \"transcendent being\" for whatever is given in the first mode and \"absolute subjectivity\" or \"immanence\" for the second."
+    },
+    {
+      "id": "transzendenz/ppc/002",
+      "locator": "henry-philosophie-et-phenomenologie-du-corps-commentary#h2-introduction-the-apparent-contingency-of-the-question-concerning-the-body-and-th",
+      "primary_locator": "PPC, Introduction",
+      "stratum": "ppc-1965",
+      "term": "transcendent being",
+      "status": "criticized",
+      "claim": "The premise the whole Introduction attacks is that the body is transcendent being, a denizen of the world where subjectivity does not reside.",
+      "quote": "The stakes are set by a single premise the whole Introduction will attack: that the body is transcendent being, a denizen of the world where subjectivity does not reside."
+    },
+    {
+      "id": "transzendenz/ppc/003",
+      "locator": "henry-philosophie-et-phenomenologie-du-corps-commentary#h2-introduction-the-apparent-contingency-of-the-question-concerning-the-body-and-th",
+      "primary_locator": "PPC, Introduction",
+      "stratum": "ppc-1965",
+      "term": "transcendent being",
+      "status": "criticized",
+      "claim": "Whatever region the body is assigned to, biological, living or specifically human, the problem remains contingent, since every such region is a structure of transcendent being in general.",
+      "quote": "Whatever region we finally assign our body to, biological, living, or a *sui generis* human region, in every case we deal only with specifications and structures of transcendent being in general, however great the differences between them."
+    },
+    {
+      "id": "transzendenz/ppc/004",
+      "locator": "henry-philosophie-et-phenomenologie-du-corps-commentary#h3-s-1-the-phenomenological-presuppositions-of-biranian-ontology",
+      "primary_locator": "PPC, ch. I § 1",
+      "stratum": "ppc-1965",
+      "term": "transcendent being",
+      "status": "introduced",
+      "claim": "For Biran being given through a phenomenological distance is transcendent being, known by exterior knowledge, while being given without distance is the self, known by 'reflection'.",
+      "quote": "In the first, being is given through the mediation of a phenomenological distance; this is transcendent being, and Biran calls the corresponding knowledge exterior knowledge."
+    },
+    {
+      "id": "transzendenz/ppc/005",
+      "locator": "henry-philosophie-et-phenomenologie-du-corps-commentary#h3-s-1-the-phenomenological-presuppositions-of-biranian-ontology",
+      "primary_locator": "PPC, ch. I § 1",
+      "stratum": "ppc-1965",
+      "term": "transcendence",
+      "status": "revised",
+      "claim": "Biranian 'reflection' names the self-knowledge included in every intentionality, which does not go toward the world, so it is opposed to the movement of transcendence rather than a case of it.",
+      "quote": "Reflection is thus opposed to the movement of transcendence and cannot designate a particular case of it, namely classical reflection."
+    },
+    {
+      "id": "transzendenz/ppc/006",
+      "locator": "henry-philosophie-et-phenomenologie-du-corps-commentary#h3-s-1-the-phenomenological-presuppositions-of-biranian-ontology",
+      "primary_locator": "PPC, ch. I § 1",
+      "stratum": "ppc-1965",
+      "term": "transcendental inner experience",
+      "status": "introduced",
+      "claim": "Conscious life is not given in a transcendent inner experience such as introspection but in a transcendental inner experience, the revelation of lived experience to itself in immanence.",
+      "quote": "Conscious life cannot be given in a transcendent inner experience; it remains that it is given in a *transcendental* inner experience."
+    },
+    {
+      "id": "transzendenz/ppc/007",
+      "locator": "henry-philosophie-et-phenomenologie-du-corps-commentary#h3-s-2-the-transcendental-deduction-of-the-categories",
+      "primary_locator": "PPC, ch. I § 2",
+      "stratum": "ppc-1965",
+      "term": "transcendence",
+      "status": "revised",
+      "claim": "'Transcendental' had to be given a radically immanent signification, so that the a priori conditions of experience would no longer float in the transcendence of a quasi-Platonic heaven.",
+      "quote": "What was needed was to give \"transcendental\" a radically immanent signification, so that the ensemble of *a priori* conditions of the possibility of experience would no longer float in an indeterminate region and in the transcendence of a quasi-Platonic heaven."
+    },
+    {
+      "id": "transzendenz/ppc/008",
+      "locator": "henry-philosophie-et-phenomenologie-du-corps-commentary#h3-s-2-the-transcendental-deduction-of-the-categories",
+      "primary_locator": "PPC, ch. I § 2",
+      "stratum": "ppc-1965",
+      "term": "transcendent term",
+      "status": "criticized",
+      "claim": "Biran's critique of the a priori is that it cannot be a posited transcendent term = x but must belong to the sphere of absolute immanence and coincide with the being of intentionality.",
+      "quote": "Biran's critique amounts to saying that the *a priori* cannot be a transcendent term, known or unknown, situated before or behind us, but belongs to the sphere of absolute immanence."
+    },
+    {
+      "id": "transzendenz/ppc/009",
+      "locator": "henry-philosophie-et-phenomenologie-du-corps-commentary#h3-s-2-the-transcendental-deduction-of-the-categories",
+      "primary_locator": "PPC, ch. I § 2",
+      "stratum": "ppc-1965",
+      "term": "transcendent",
+      "status": "revised",
+      "claim": "Before its deduction a category appears as a character of transcendent being, and its deduction is a reduction in which it passes from the transcendent sphere to that of immanence.",
+      "quote": "It must be deduced, that is, a reduction must intervene in which its being undergoes a transformation and passes from the sphere of the transcendent to that of immanence and subjectivity."
+    },
+    {
+      "id": "transzendenz/ppc/010",
+      "locator": "henry-philosophie-et-phenomenologie-du-corps-commentary#h3-s-2-the-transcendental-deduction-of-the-categories",
+      "primary_locator": "PPC, ch. I § 2",
+      "stratum": "ppc-1965",
+      "term": "transcendent being",
+      "status": "presupposed",
+      "claim": "Empiricism's reduction is true on the plane of transcendent being, where there is no room for causality; its error is confining the inquiry to that plane.",
+      "quote": "The phenomenological reduction performed by empiricism and positivism is true on its own plane, that of transcendent being: it shows that on such a plane there is no room for the idea of causality"
+    },
+    {
+      "id": "transzendenz/ppc/011",
+      "locator": "henry-philosophie-et-phenomenologie-du-corps-commentary#h3-s-2-the-transcendental-deduction-of-the-categories",
+      "primary_locator": "PPC, ch. I § 2",
+      "stratum": "ppc-1965",
+      "term": "transcendent being",
+      "status": "introduced",
+      "claim": "The deduction of substance reveals in Biranism a kind of ontological proof: the resisting continuum is an element of absolute certainty at the heart of transcendent being.",
+      "quote": "The deduction of substance has the merit of bringing to light one of Biranism's riches, the presence within it of a kind of ontological proof revealing an element of absolute certainty at the heart of transcendent being."
+    },
+    {
+      "id": "transzendenz/ppc/012",
+      "locator": "henry-philosophie-et-phenomenologie-du-corps-commentary#h3-s-3-the-theory-of-the-ego-and-the-problem-of-the-soul",
+      "primary_locator": "PPC, ch. I § 3",
+      "stratum": "ppc-1965",
+      "term": "transcendent being",
+      "status": "presupposed",
+      "claim": "Because the category is identical with the ego's being, the ego cannot be constituted by it and is torn away from transcendent being, which is always the product of constitution.",
+      "quote": "The deduction has the capital consequence of tearing the ego's being away from the sphere of transcendent being in general, which is always the product of a constitution."
+    },
+    {
+      "id": "transzendenz/ppc/013",
+      "locator": "henry-philosophie-et-phenomenologie-du-corps-commentary#h3-s-3-the-theory-of-the-ego-and-the-problem-of-the-soul",
+      "primary_locator": "PPC, ch. I § 3",
+      "stratum": "ppc-1965",
+      "term": "transcendence of the ego",
+      "status": "criticized",
+      "claim": "The assertion of a transcendence of the ego is groundless and frivolous because it destroys the interiority of immediate self-presence that constitutes ipseity.",
+      "quote": "The assertion of a transcendence of the ego thereby appears groundless and, since it destroys the character constituting the very essence of ipseity, frivolous."
+    },
+    {
+      "id": "transzendenz/ppc/014",
+      "locator": "henry-philosophie-et-phenomenologie-du-corps-commentary#h3-s-3-the-theory-of-the-ego-and-the-problem-of-the-soul",
+      "primary_locator": "PPC, ch. I § 3",
+      "stratum": "ppc-1965",
+      "term": "transcendence",
+      "status": "revised",
+      "claim": "The ego's self-manifestation excludes the manifestation of exteriority while founding it, so immanence is not a region alongside transcendence but what makes it possible.",
+      "quote": "The relation \"excludes while founding\" is Henry's formula for the whole architecture: immanence is not one region alongside transcendence but what makes transcendence possible by being categorically unlike it."
+    },
+    {
+      "id": "transzendenz/ppc/015",
+      "locator": "henry-philosophie-et-phenomenologie-du-corps-commentary#h3-s-3-the-theory-of-the-ego-and-the-problem-of-the-soul",
+      "primary_locator": "PPC, ch. I § 3",
+      "stratum": "ppc-1965",
+      "term": "transcendent being",
+      "status": "criticized",
+      "claim": "Biran's critique of Descartes is that he passes from the ego as transcendental inner experience to positing the ego, as soul, as an element of transcendent being.",
+      "quote": "It now runs from the being of the ego, originally and correctly interpreted as that of subjectivity and transcendental inner experience, to positing the ego as an element of *transcendent* being."
+    },
+    {
+      "id": "transzendenz/ppc/016",
+      "locator": "henry-philosophie-et-phenomenologie-du-corps-commentary#h2-chapter-ii-the-subjective-body",
+      "primary_locator": "PPC, ch. II",
+      "stratum": "ppc-1965",
+      "term": "transcendent being",
+      "status": "criticized",
+      "claim": "Replacing mechanism with a dynamic or structural model of movement changes nothing so long as the body is an element of transcendent being.",
+      "quote": "But it is not enough to challenge mechanism: a dynamic or structural interpretation of movement would change nothing essential in this conception so long as the body is an element of transcendent being."
+    },
+    {
+      "id": "transzendenz/ppc/017",
+      "locator": "henry-philosophie-et-phenomenologie-du-corps-commentary#h2-chapter-ii-the-subjective-body",
+      "primary_locator": "PPC, ch. II",
+      "stratum": "ppc-1965",
+      "term": "transcendent",
+      "status": "criticized",
+      "claim": "The absolute immanence of the body implies rejecting every analysis that presupposes the body to be in its original being something transcendent, a thing and part of the world.",
+      "quote": "This affirms the absolute immanence of the body, and implies rejecting all analyses commanded by the presupposition that the body is in its original being something transcendent"
+    },
+    {
+      "id": "transzendenz/ppc/018",
+      "locator": "henry-philosophie-et-phenomenologie-du-corps-commentary#h2-chapter-ii-the-subjective-body",
+      "primary_locator": "PPC, ch. II",
+      "stratum": "ppc-1965",
+      "term": "transcendent experience",
+      "status": "revised",
+      "claim": "Since all consciousness is consciousness of something, transcendental inner experience is always also a transcendent experience in which the world is announced.",
+      "quote": "But all consciousness is consciousness of something; transcendental inner experience is always also a transcendent experience."
+    },
+    {
+      "id": "transzendenz/ppc/019",
+      "locator": "henry-philosophie-et-phenomenologie-du-corps-commentary#h2-chapter-ii-the-subjective-body",
+      "primary_locator": "PPC, ch. II",
+      "stratum": "ppc-1965",
+      "term": "transcendent term",
+      "status": "presupposed",
+      "claim": "The transcendent term met by movement is discovered in the truth of transcendent being only because movement belongs, as real movement, to absolute immanence.",
+      "quote": "If the transcendent term our movement experiences, given without the mediation of any representation, is nevertheless not a mere phenomenological nothing — if it is effectively discovered in the truth of transcendent being — that is for the sole reason that the movement of our body is not an unconscious or physiological process either"
+    },
+    {
+      "id": "transzendenz/ppc/020",
+      "locator": "henry-philosophie-et-phenomenologie-du-corps-commentary#h2-chapter-ii-the-subjective-body",
+      "primary_locator": "PPC, ch. II",
+      "stratum": "ppc-1965",
+      "term": "transcendence of movement",
+      "status": "presupposed",
+      "claim": "The resisting continuum is manifested in transcendent being because the transcendence of movement toward it is a transcendental inner experience, so the given is not a brute fact.",
+      "quote": "that is because the transcendence of movement toward it is a transcendental inner experience, and thus the given from which the categories draw their origin is in no way a brute fact"
+    },
+    {
+      "id": "transzendenz/ppc/021",
+      "locator": "henry-philosophie-et-phenomenologie-du-corps-commentary#h3-s-1-the-unity-of-the-senses-and-the-problem-of-the-relation-between-our-images-a",
+      "primary_locator": "PPC, ch. III § 1",
+      "stratum": "ppc-1965",
+      "term": "transcendent being",
+      "status": "introduced",
+      "claim": "With the marginal constitution of kinaesthetic impressions, constituted movement begins and our body first announces itself in transcendent being as the wake of the subjective body.",
+      "quote": "The marginal phenomenon of the constitution of kinesthetic impressions is nonetheless, in its way, decisive, for with it begins the being of *constituted* movement and our own body announces itself to us in transcendent being, appearing there as the wake of the original being of the subjective body."
+    },
+    {
+      "id": "transzendenz/ppc/022",
+      "locator": "henry-philosophie-et-phenomenologie-du-corps-commentary#h3-s-2-the-unity-of-the-body-interpreted-as-that-of-a-knowing-habit-and-memory",
+      "primary_locator": "PPC, ch. III § 2",
+      "stratum": "ppc-1965",
+      "term": "transcendent being",
+      "status": "introduced",
+      "claim": "Because the body gives itself to itself without appearing in transcendent being, that region remains free for it, so it can know the world without knowing instruments.",
+      "quote": "Because such a being is not constituted, it is a power of constitution; because it gives itself to itself without appearing at any moment, in that act of self-giving, in transcendent being, that region of transcendent being remains free for it, and something can be given to it in that region."
+    },
+    {
+      "id": "transzendenz/ppc/023",
+      "locator": "henry-philosophie-et-phenomenologie-du-corps-commentary#h3-s-2-the-unity-of-the-body-interpreted-as-that-of-a-knowing-habit-and-memory",
+      "primary_locator": "PPC, ch. III § 2",
+      "stratum": "ppc-1965",
+      "term": "transcendent experience",
+      "status": "presupposed",
+      "claim": "Transcendent experience is in itself a transcendental inner experience: the body is present in immanence, the world in transcendent being, within one original experience.",
+      "quote": "Transcendent experience is in itself a transcendental inner experience; original experience is one in which both the being of the world and the being of the body are present to us, though the mode of that presence differs radically"
+    },
+    {
+      "id": "transzendenz/ppc/024",
+      "locator": "henry-philosophie-et-phenomenologie-du-corps-commentary#h2-chapter-iv-the-double-use-of-signs-and-the-problem-of-the-constitution-of-one-s",
+      "primary_locator": "PPC, ch. IV",
+      "stratum": "ppc-1965",
+      "term": "transcendent",
+      "status": "criticized",
+      "claim": "The common view absorbs the subjective body into the body seen among things, so that immanence is relocated as the interior of a transcendent thing.",
+      "quote": "What we call immanence has thus become the very essence of the transcendent."
+    },
+    {
+      "id": "transzendenz/ppc/025",
+      "locator": "henry-philosophie-et-phenomenologie-du-corps-commentary#h2-chapter-iv-the-double-use-of-signs-and-the-problem-of-the-constitution-of-one-s",
+      "primary_locator": "PPC, ch. IV",
+      "stratum": "ppc-1965",
+      "term": "transcends",
+      "status": "presupposed",
+      "claim": "The experience of vision transcends toward a world but is accomplished wholly in a sphere of radical immanence.",
+      "quote": "This experience transcends toward a world, but it is accomplished wholly in a sphere of radical immanence."
+    },
+    {
+      "id": "transzendenz/ppc/026",
+      "locator": "henry-philosophie-et-phenomenologie-du-corps-commentary#h2-chapter-iv-the-double-use-of-signs-and-the-problem-of-the-constitution-of-one-s",
+      "primary_locator": "PPC, ch. IV",
+      "stratum": "ppc-1965",
+      "term": "transcendent being",
+      "status": "introduced",
+      "claim": "Transcendent being can neither leave itself nor know itself, since being present to things requires first being present to self, so a sense organ as a natural thing cannot see.",
+      "quote": "And transcendent being can neither leave itself nor know itself. It could leave itself only if it could first know itself; it could be present to things only if it were first present to self."
+    },
+    {
+      "id": "transzendenz/ppc/027",
+      "locator": "henry-philosophie-et-phenomenologie-du-corps-commentary#h2-chapter-iv-the-double-use-of-signs-and-the-problem-of-the-constitution-of-one-s",
+      "primary_locator": "PPC, ch. IV",
+      "stratum": "ppc-1965",
+      "term": "ontological dualism",
+      "status": "introduced",
+      "claim": "Something manifests itself in transcendent being only on condition of a more original revelation in immanence, and this ontological dualism founds the double use of signs and the two bodies.",
+      "quote": "the structure by which something manifests itself in the truth of transcendent being only under the condition of a more original revelation in a milieu of absolute immanence. *Ontological dualism is the foundation of the double use of signs.*"
+    },
+    {
+      "id": "transzendenz/ppc/028",
+      "locator": "henry-philosophie-et-phenomenologie-du-corps-commentary#h2-chapter-iv-the-double-use-of-signs-and-the-problem-of-the-constitution-of-one-s",
+      "primary_locator": "PPC, ch. IV",
+      "stratum": "ppc-1965",
+      "term": "transcendence",
+      "status": "introduced",
+      "claim": "The being of a sense organ is transcendence, the senses setting themselves in relief outside us, whereas the senses as powers belong to absolute immanence.",
+      "quote": "The ontological character constituting the being of the organ is transcendence, the fact that our senses give themselves by *setting themselves in a kind of relief outside us*."
+    },
+    {
+      "id": "transzendenz/ppc/029",
+      "locator": "henry-philosophie-et-phenomenologie-du-corps-commentary#h2-chapter-iv-the-double-use-of-signs-and-the-problem-of-the-constitution-of-one-s",
+      "primary_locator": "PPC, ch. IV",
+      "stratum": "ppc-1965",
+      "term": "transcendence",
+      "status": "revised",
+      "claim": "What is deprived of all transcendence is not a thing closed on itself but that by which all transcendence becomes possible, the region of absolute immanence.",
+      "quote": "what is deprived of all transcendence is not the thing closed on itself, prisoner of its own thickness, ignorant of itself and the universe — it is on the contrary that by which all transcendence becomes possible"
+    },
+    {
+      "id": "transzendenz/ppc/030",
+      "locator": "henry-philosophie-et-phenomenologie-du-corps-commentary#h2-chapter-iv-the-double-use-of-signs-and-the-problem-of-the-constitution-of-one-s",
+      "primary_locator": "PPC, ch. IV",
+      "stratum": "ppc-1965",
+      "term": "transcending",
+      "status": "presupposed",
+      "claim": "The unity of experience is founded in an absolute subjectivity transcending toward a world because it is the milieu where that act of transcendence reveals itself to itself.",
+      "quote": "The unity of experience, the unity of life and transcendent being, finds its foundation in the existence of an absolute subjectivity transcending toward a world because it is in itself the milieu where the self-revelation of that act of transcendence is originally accomplished."
+    },
+    {
+      "id": "transzendenz/ppc/031",
+      "locator": "henry-philosophie-et-phenomenologie-du-corps-commentary#h2-chapter-iv-the-double-use-of-signs-and-the-problem-of-the-constitution-of-one-s",
+      "primary_locator": "PPC, ch. IV",
+      "stratum": "ppc-1965",
+      "term": "transcendence",
+      "status": "presupposed",
+      "claim": "Each organ's relation to subjective movement is a specification of the general act of transcendence, in which movement surpasses itself toward resisting structures that yield to it.",
+      "quote": "The latter is a modality of the transcendental relation of being-in-the-world, a specification of the general act of transcendence, in which movement surpasses itself each time toward one or another of the resisting structures yielding to its effort"
+    },
+    {
+      "id": "transzendenz/ppc/032",
+      "locator": "henry-philosophie-et-phenomenologie-du-corps-commentary#h2-chapter-iv-the-double-use-of-signs-and-the-problem-of-the-constitution-of-one-s",
+      "primary_locator": "PPC, ch. IV",
+      "stratum": "ppc-1965",
+      "term": "transcendent body",
+      "status": "revised",
+      "claim": "The unity of the organic body is not a transcendent unity but the unity of the single power that moves its parts, the true schema of the body.",
+      "quote": "*The unity of the transcendent body is not a transcendent unity*; it is the unity of the power that moves the different parts of organic space"
+    },
+    {
+      "id": "transzendenz/ppc/033",
+      "locator": "henry-philosophie-et-phenomenologie-du-corps-commentary#h2-chapter-iv-the-double-use-of-signs-and-the-problem-of-the-constitution-of-one-s",
+      "primary_locator": "PPC, ch. IV",
+      "stratum": "ppc-1965",
+      "term": "transcends",
+      "status": "revised",
+      "claim": "Subjectivity is not completed by the organic body it is bound to; it is that body's foundation, and the term toward which it transcends is its limit, a limit still belonging to it.",
+      "quote": "it is on the contrary the *foundation* of that being, which, as the term toward which it transcends, appears as its limit — but a limit still belonging to it."
+    },
+    {
+      "id": "transzendenz/ppc/034",
+      "locator": "henry-philosophie-et-phenomenologie-du-corps-commentary#h2-chapter-iv-the-double-use-of-signs-and-the-problem-of-the-constitution-of-one-s",
+      "primary_locator": "PPC, ch. IV",
+      "stratum": "ppc-1965",
+      "term": "transcendence",
+      "status": "revised",
+      "claim": "Biran holds that anterior to the duality transcendence institutes between subjectivity and world there is a simpler relation, the self-revelation of subjectivity in transcendental inner experience.",
+      "quote": "nonetheless affirms that *there is a simpler relation anterior to that one*. What can such a relation be, the most original of all, if not one instituted within subjectivity itself"
+    },
+    {
+      "id": "transzendenz/ppc/035",
+      "locator": "henry-philosophie-et-phenomenologie-du-corps-commentary#h2-chapter-iv-the-double-use-of-signs-and-the-problem-of-the-constitution-of-one-s",
+      "primary_locator": "PPC, ch. IV",
+      "stratum": "ppc-1965",
+      "term": "transcending",
+      "status": "presupposed",
+      "claim": "An eye or ear, as part of nature, cannot transcend or know, and can be said to see or hear only because the subjective body's inner experience supplies those meanings.",
+      "quote": "That a natural being (the eye or the ear) which, as a determination and part of nature, is evidently deprived of all possibility of transcending and knowing, should nonetheless be said to see or hear, is possible only if we are otherwise in possession of what is signified by these words"
+    },
+    {
+      "id": "transzendenz/ppc/036",
+      "locator": "henry-philosophie-et-phenomenologie-du-corps-commentary#h2-chapter-iv-the-double-use-of-signs-and-the-problem-of-the-constitution-of-one-s",
+      "primary_locator": "PPC, ch. IV",
+      "stratum": "ppc-1965",
+      "term": "transcends",
+      "status": "presupposed",
+      "claim": "The motor knowledge that transcends toward the hand as organic mass is no more mysterious than the gaze reaching a tree, so soul-body dualism is a case of ontological dualism.",
+      "quote": "The act by which subjective movement deploys the hand as an organic mass known interiorly, as the term toward which its not intellectual but motor knowledge transcends, is neither more nor less mysterious than the act by which my gaze aims at and reaches the tree standing over there on the hill."
+    },
+    {
+      "id": "transzendenz/ppc/037",
+      "locator": "henry-philosophie-et-phenomenologie-du-corps-commentary#h2-chapter-v-cartesian-dualism",
+      "primary_locator": "PPC, ch. V",
+      "stratum": "ppc-1965",
+      "term": "transcendent being",
+      "status": "criticized",
+      "claim": "Cartesian dualism degrades ontological dualism by casting both terms of the transcendental relation into the same region of transcendent being, where only causal relations remain.",
+      "quote": "*Cartesian dualism is precisely a degradation of ontological dualism*, and Henry has already given the theory of that degradation. The pseudo-dualism it issues in consists in fact in casting both terms of the transcendental relation into the *same* ontological region, that of transcendent being"
+    },
+    {
+      "id": "transzendenz/ppc/038",
+      "locator": "henry-philosophie-et-phenomenologie-du-corps-commentary#h2-chapter-vi-critique-of-maine-de-biran-s-thought-the-problem-of-passivity",
+      "primary_locator": "PPC, ch. VI",
+      "stratum": "ppc-1965",
+      "term": "transcendent being",
+      "status": "criticized",
+      "claim": "Lacking a theory of passivity, Biran represents attention as absorbed in the elements toward which it surpasses itself, which destroys subjectivity in favour of transcendent being.",
+      "quote": "this disappearance of the element of its own life to the profit of a transcendent being that intentionality can nonetheless aim at and reach only on condition of continuing to be such a subjective aim"
+    },
+    {
+      "id": "transzendenz/ppc/039",
+      "locator": "henry-philosophie-et-phenomenologie-du-corps-commentary#h2-chapter-vi-critique-of-maine-de-biran-s-thought-the-problem-of-passivity",
+      "primary_locator": "PPC, ch. VI",
+      "stratum": "ppc-1965",
+      "term": "ontological monism",
+      "status": "criticized",
+      "claim": "Biran's 1813 turn to noumena and belief is traced to the ontological monism that knows only transcendent phenomena; with a transcendental appearance it becomes a dead piece.",
+      "quote": "But let one reject the ontological monism that knows only transcendent phenomena, let the idea of a transcendental appearance arise"
+    },
+    {
+      "id": "transzendenz/ppc/040",
+      "locator": "henry-philosophie-et-phenomenologie-du-corps-commentary#h2-conclusion-the-ontological-theory-of-the-body-and-the-problem-of-incarnation-fle",
+      "primary_locator": "PPC, Conclusion",
+      "stratum": "ppc-1965",
+      "term": "transcendent",
+      "status": "revised",
+      "claim": "Subjectivity is nothing transcendent but life in a sphere of absolute immanence, and what is abstract is the transcendent, not immanence.",
+      "quote": "What characterizes it eidetically is rather that it is a life in a sphere of absolute immanence, that it is *the* life. *What is abstract is what is transcendent.*"
+    },
+    {
+      "id": "transzendenz/ppc/041",
+      "locator": "henry-philosophie-et-phenomenologie-du-corps-commentary#h2-conclusion-the-ontological-theory-of-the-body-and-the-problem-of-incarnation-fle",
+      "primary_locator": "PPC, Conclusion",
+      "stratum": "ppc-1965",
+      "term": "surpasses",
+      "status": "presupposed",
+      "claim": "Subjectivity always lives in the presence of transcendent being, but it has a content of its own independently of the being toward which it surpasses itself.",
+      "quote": "Even then life is something other than a form; it has by itself, independently of the being toward which it surpasses itself, a content."
+    },
+    {
+      "id": "transzendenz/ppc/042",
+      "locator": "henry-philosophie-et-phenomenologie-du-corps-commentary#h2-conclusion-the-ontological-theory-of-the-body-and-the-problem-of-incarnation-fle",
+      "primary_locator": "PPC, Conclusion",
+      "stratum": "ppc-1965",
+      "term": "ontological monism",
+      "status": "criticized",
+      "claim": "The obstacle to recognizing absolute knowledge and the subjective body is ontological monism, the view that anything real can be given only in transcendent being.",
+      "quote": "The obstacle to recognizing the proper ontological structure of these two original phenomena — the second being only a particular case of the first — and hence to admitting the possibility and existence of an absolute human knowledge, is *ontological monism*: the conception by which something real can be given us in general only in the element of transcendent being."
+    },
+    {
+      "id": "transzendenz/ppc/043",
+      "locator": "henry-philosophie-et-phenomenologie-du-corps-commentary#h2-conclusion-the-ontological-theory-of-the-body-and-the-problem-of-incarnation-fle",
+      "primary_locator": "PPC, Conclusion",
+      "stratum": "ppc-1965",
+      "term": "transcendent being",
+      "status": "introduced",
+      "claim": "Contingency is a category of the region of transcendent being: whatever manifests itself there is contingent because it has a horizon, whereas subjectivity has none.",
+      "quote": "Contingency is a category referring to a determinate ontological region, that of transcendent being. Everything manifesting itself within such a region is contingent *because it has a horizon*."
+    },
+    {
+      "id": "transzendenz/ppc/044",
+      "locator": "henry-philosophie-et-phenomenologie-du-corps-commentary#h2-conclusion-the-ontological-theory-of-the-body-and-the-problem-of-incarnation-fle",
+      "primary_locator": "PPC, Conclusion",
+      "stratum": "ppc-1965",
+      "term": "transcendent being",
+      "status": "revised",
+      "claim": "For the absolute body being-in-situation is a transcendental relation to transcendent being, not belonging to the world, so the body is situated because it is subjective.",
+      "quote": "Being-in-situation signifies for the absolute body being in a certain relation with transcendent being, but this time a *transcendental* relation."
+    },
+    {
+      "id": "transzendenz/ppc/045",
+      "locator": "henry-philosophie-et-phenomenologie-du-corps-commentary#h2-conclusion-the-ontological-theory-of-the-body-and-the-problem-of-incarnation-fle",
+      "primary_locator": "PPC, Conclusion",
+      "stratum": "ppc-1965",
+      "term": "transcendental relation of being-in-the-world",
+      "status": "presupposed",
+      "claim": "A note adds that what situates the original body is subjectivity not as the transcendental relation of being-in-the-world but in its internal structure, as immanence.",
+      "quote": "what situates the original body itself is subjectivity understood not as the transcendental relation of being-in-the-world but in its internal structure, as immanence"
+    },
+    {
+      "id": "transzendenz/ppc/046",
+      "locator": "henry-philosophie-et-phenomenologie-du-corps-commentary#h2-conclusion-the-ontological-theory-of-the-body-and-the-problem-of-incarnation-fle",
+      "primary_locator": "PPC, Conclusion",
+      "stratum": "ppc-1965",
+      "term": "transcended",
+      "status": "criticized",
+      "claim": "Treating life, as Hegel does, as something consciousness must transcend makes it a transcendent thing; a radically immanent life excludes a priori its ever being transcended.",
+      "quote": "To say life is an element that must be transcended amounts to saying it is a transcendent thing, exterior to the deep nature of subjectivity, to the pure negativity of spirit."
+    },
+    {
+      "id": "transzendenz/ppc/047",
+      "locator": "henry-philosophie-et-phenomenologie-du-corps-commentary#h2-conclusion-the-ontological-theory-of-the-body-and-the-problem-of-incarnation-fle",
+      "primary_locator": "PPC, Conclusion",
+      "stratum": "ppc-1965",
+      "term": "transcendent term",
+      "status": "presupposed",
+      "claim": "In bodily action the end is not represented but is the transcendent term toward which subjective movement immediately surpasses itself, so action is a knowing.",
+      "quote": "the end is never something represented but the transcendent term toward which subjective movement (not a theoretical intentionality) immediately surpasses itself."
+    },
+    {
+      "id": "transzendenz/ppc/048",
+      "locator": "henry-philosophie-et-phenomenologie-du-corps-commentary#h2-conclusion-the-ontological-theory-of-the-body-and-the-problem-of-incarnation-fle",
+      "primary_locator": "PPC, Conclusion",
+      "stratum": "ppc-1965",
+      "term": "transcendence of a horizon",
+      "status": "introduced",
+      "claim": "In the first of four senses, finitude means being submitted to being-there, which is rooted in the transcendence of a horizon to which what it liberates cannot equal itself.",
+      "quote": "This signification is rooted in the transcendence of a horizon to which the being it liberates cannot by principle equal itself."
+    },
+    {
+      "id": "transzendenz/ppc/049",
+      "locator": "henry-philosophie-et-phenomenologie-du-corps-commentary#h2-conclusion-the-ontological-theory-of-the-body-and-the-problem-of-incarnation-fle",
+      "primary_locator": "PPC, Conclusion",
+      "stratum": "ppc-1965",
+      "term": "transcendence",
+      "status": "presupposed",
+      "claim": "In the third sense, intentionality is finite insofar as it relates to a world, a finitude every intentionality obeys by reason of its principled transcendence.",
+      "quote": "Third, intentionality can be said finite insofar as it relates to a *world*. So understood, finitude is an essential qualification belonging to the being of human reality as such. Every intentionality obeys, by reason of its principled transcendence, this concept."
+    },
+    {
+      "id": "transzendenz/ppc/050",
+      "locator": "henry-philosophie-et-phenomenologie-du-corps-commentary#h2-conclusion-the-ontological-theory-of-the-body-and-the-problem-of-incarnation-fle",
+      "primary_locator": "PPC, Conclusion",
+      "stratum": "ppc-1965",
+      "term": "transcendence",
+      "status": "criticized",
+      "claim": "Immanence is more original than transcendence and its ultimate condition of possibility, so the thesis binding finitude to transcendence rests on forgetting auto-affection.",
+      "quote": "*More original than the phenomenon of transcendence, anterior to it, is that of immanence, in which transcendence in fact finds its ultimate condition of possibility.*"
+    },
+    {
+      "id": "transzendenz/ppc/051",
+      "locator": "henry-philosophie-et-phenomenologie-du-corps-commentary#h2-conclusion-the-ontological-theory-of-the-body-and-the-problem-of-incarnation-fle",
+      "primary_locator": "PPC, Conclusion",
+      "stratum": "ppc-1965",
+      "term": "transcendence",
+      "status": "criticized",
+      "claim": "Because the act that transcends discovers a world only as present to itself in auto-affection, the thesis that binds finitude and transcendence rests on a forgetting first visible in Kant.",
+      "quote": "If the act that transcends can discover a world only insofar as it is first and constantly present to itself within its *auto-affection* in immanence, then the thesis binding finitude and transcendence rests on the forgetting of this most original ontological phenomenon."
+    }
+  ],
+  "absences": []
+}

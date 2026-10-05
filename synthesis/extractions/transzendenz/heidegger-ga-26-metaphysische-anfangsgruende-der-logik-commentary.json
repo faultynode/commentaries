@@ -1,0 +1,675 @@
+{
+  "schema_version": 1,
+  "theme": "transzendenz",
+  "commentary": "heidegger-ga-26-metaphysische-anfangsgruende-der-logik-commentary",
+  "source_sha256": "5e19fd1e79c89e9f869ca484270345e7d65e3ee11f7948f5abadc97e3b56ea4f",
+  "extracted_at": "2026-10-05",
+  "extractor": {
+    "agent": "claude-code",
+    "model": "claude-opus-5-5",
+    "prompt": "synthesis/prompts/extraction-prompt.md"
+  },
+  "coverage": "partial",
+  "coverage_note": "Read lines 565-1338 in full: the Second Main Part (introduction, §§ 8-14) and the appendix on distance and nearness. Lines 1-564 (the opening note, the Introduction and the First Main Part on Leibniz, §§ 1-7) were checked only at the theme's term hits, which are forward pointers to the Second Main Part except in the opening note and § 5b; those two places are recorded. No absences are claimed for the unread stretch.",
+  "units": [
+    {
+      "id": "transzendenz/ga26/001",
+      "locator": "heidegger-ga-26-metaphysische-anfangsgruende-der-logik-commentary#h1-heidegger-metaphysische-anfangsgrunde-der-logik-im-ausgang-von-leibniz-ga-26-a-c",
+      "term": "transcendence",
+      "status": "criticized",
+      "claim": "The commentary guards against taking transcendence as the epistemological subject-object relation or as a synonym for intentionality; it is Dasein's surpassing of beings toward world and makes intentional comportment possible.",
+      "quote": "Transcendence is not the subject–object relation of epistemology and is not a synonym for intentionality; it is Dasein's surpassing of beings toward world, and it is what makes intentional comportment possible."
+    },
+    {
+      "id": "transzendenz/ga26/002",
+      "locator": "heidegger-ga-26-metaphysische-anfangsgruende-der-logik-commentary#h5-b-interim-reflection-on-the-guiding-thread-of-the-interpretation-of-being",
+      "primary_locator": "GA 26 § 5b",
+      "stratum": "ga26-1928",
+      "term": "Urtranszendenz",
+      "status": "introduced",
+      "claim": "The source of the idea of being is the primal transcendence of Dasein: understanding of being belongs to the subject only insofar as it is transcending.",
+      "quote": "We ourselves are the source of the idea of being, but this source must be understood as the \"primal transcendence\" (*Urtranszendenz*) of Dasein. That is what it means to draw the idea of being from the \"subject\": understanding of being belongs to the subject only insofar as it is transcending."
+    },
+    {
+      "id": "transzendenz/ga26/003",
+      "locator": "heidegger-ga-26-metaphysische-anfangsgruende-der-logik-commentary#h3-second-main-part-the-metaphysics-of-the-principle-of-reason-as-the-basic-problem",
+      "primary_locator": "GA 26, Second Main Part, introduction",
+      "stratum": "ga26-1928",
+      "term": "epekeina tēs ousias",
+      "status": "introduced",
+      "claim": "Among six determinations of Plato's idea of the good, the sixth is that it is still beyond being, which the commentary reads as 'beyond' in the sense of transcending.",
+      "quote": "Heidegger reads the good as the Greek name for what makes being, truth, and order possible, and as \"beyond\" in the sense of transcending."
+    },
+    {
+      "id": "transzendenz/ga26/004",
+      "locator": "heidegger-ga-26-metaphysische-anfangsgruende-der-logik-commentary#h6-b-intentionality-and-transcendence",
+      "primary_locator": "GA 26 § 9b",
+      "stratum": "ga26-1928",
+      "term": "ontic transcendence",
+      "status": "introduced",
+      "claim": "Intentionality is an ontically transcending comportment related to beings themselves, but it does not originally constitute this relation, which is founded in being-with beings and ultimately in existence.",
+      "quote": "It is related to beings themselves and in this sense is an ontically transcending comportment, but it does not originally constitute this relation-to, which is founded in being-with beings."
+    },
+    {
+      "id": "transzendenz/ga26/005",
+      "locator": "heidegger-ga-26-metaphysische-anfangsgruende-der-logik-commentary#h6-b-intentionality-and-transcendence",
+      "primary_locator": "GA 26 § 9b",
+      "stratum": "ga26-1928",
+      "term": "intentionality",
+      "status": "criticized",
+      "claim": "The previous concept of intentionality is only an ontic transcendence, restricted in scope and conceived theoretically as noesis.",
+      "quote": "Heidegger fixes three points about the previous concept of intentionality: it is only an ontic transcendence; it concerns existing comportment toward beings only in a certain restriction; and it comes into view only in a narrowing theoretical conception, as *noēsis*."
+    },
+    {
+      "id": "transzendenz/ga26/006",
+      "locator": "heidegger-ga-26-metaphysische-anfangsgruende-der-logik-commentary#h6-b-intentionality-and-transcendence",
+      "primary_locator": "GA 26 § 9b",
+      "stratum": "ga26-1928",
+      "term": "transcendence (vulgar concept)",
+      "status": "introduced",
+      "claim": "Underlying the subject-object problem is, undiscussed, the problem of transcendence, taken first in its vulgar sense: Dasein passing over to another being, which is thereby disclosed to it.",
+      "quote": "Underlying the whole problem of the \"relation\" of \"subject\" to \"object\" is, undiscussed, the problem of transcendence, the term first taken quite vulgarly: a being (Dasein) passes over to another being (Dasein or something present at hand)"
+    },
+    {
+      "id": "transzendenz/ga26/007",
+      "locator": "heidegger-ga-26-metaphysische-anfangsgruende-der-logik-commentary#h6-b-intentionality-and-transcendence",
+      "primary_locator": "GA 26 § 9b",
+      "stratum": "ga26-1928",
+      "term": "original transcendence",
+      "status": "introduced",
+      "claim": "The original phenomenon of transcendence is not identical with the subject-object relation, is more original in scope and kind, and is immediately connected with the problem of being.",
+      "quote": "For a radical posing of the problem, it is essential to lay free the original phenomenon of transcendence. This problem is not identical with that of the subject–object relation but is more original in scope and kind, and it is immediately connected with the problem of being as such"
+    },
+    {
+      "id": "transzendenz/ga26/008",
+      "locator": "heidegger-ga-26-metaphysische-anfangsgruende-der-logik-commentary#h6-b-intentionality-and-transcendence",
+      "primary_locator": "GA 26 § 9b, p. 170",
+      "stratum": "ga26-1928",
+      "term": "primal transcendence",
+      "status": "revised",
+      "claim": "Intentionality as ontic transcendence is possible only on the basis of original transcendence, being-in-the-world, which makes every intentional relation to beings possible.",
+      "quote": "Intentionality, as ontic transcendence, is itself possible only on the basis of original transcendence, being-in-the-world. This primal transcendence makes possible every intentional relation to beings."
+    },
+    {
+      "id": "transzendenz/ga26/009",
+      "locator": "heidegger-ga-26-metaphysische-anfangsgruende-der-logik-commentary#h6-b-intentionality-and-transcendence",
+      "primary_locator": "GA 26 § 9b, p. 170",
+      "stratum": "ga26-1928",
+      "term": "transcendence",
+      "status": "introduced",
+      "claim": "Original transcendence and the understanding of being stand in an inner kinship and in the end are one and the same.",
+      "quote": "then there must be an inner kinship between original transcendence and understanding of being as such; \"indeed, in the end they are one and the same.\""
+    },
+    {
+      "id": "transzendenz/ga26/010",
+      "locator": "heidegger-ga-26-metaphysische-anfangsgruende-der-logik-commentary#h6-b-intentionality-and-transcendence",
+      "primary_locator": "GA 26 § 9b",
+      "stratum": "ga26-1928",
+      "term": "transcendence",
+      "status": "presupposed",
+      "claim": "Because being-true as being-disclosive belongs to being-with what is present at hand, the essence of truth as a whole can be clarified only as the problem of transcendence.",
+      "quote": "The essence of truth as a whole can therefore be clarified only as the problem of transcendence as such."
+    },
+    {
+      "id": "transzendenz/ga26/011",
+      "locator": "heidegger-ga-26-metaphysische-anfangsgruende-der-logik-commentary#h5-s10-the-problem-of-transcendence-and-the-problem-of-being-and-time",
+      "primary_locator": "GA 26 § 10",
+      "stratum": "ga26-1928",
+      "term": "transcendence",
+      "status": "presupposed",
+      "claim": "The basic aim of the analytic of Dasein is to exhibit the inner possibility of the understanding of being, which is at the same time the inner possibility of transcendence.",
+      "quote": "Its basic aim is to exhibit the inner possibility of the understanding of being, which means at the same time the inner possibility of transcendence."
+    },
+    {
+      "id": "transzendenz/ga26/012",
+      "locator": "heidegger-ga-26-metaphysische-anfangsgruende-der-logik-commentary#h5-s10-the-problem-of-transcendence-and-the-problem-of-being-and-time",
+      "primary_locator": "GA 26 § 10",
+      "stratum": "ga26-1928",
+      "term": "transcendence",
+      "status": "revised",
+      "claim": "The problem of transcendence must be posed as universally and radically as the problem of being, not restricted to the subject's relation to independent things or to a region of beings.",
+      "quote": "The problem of transcendence must be posed as universally and radically as the problem of being. It is not a problem restricted to the relation of the subject to the things independent of it, nor a question about a particular region of beings."
+    },
+    {
+      "id": "transzendenz/ga26/013",
+      "locator": "heidegger-ga-26-metaphysische-anfangsgruende-der-logik-commentary#h5-s10-the-problem-of-transcendence-and-the-problem-of-being-and-time",
+      "primary_locator": "GA 26 § 10",
+      "stratum": "ga26-1928",
+      "term": "transcendence",
+      "status": "introduced",
+      "claim": "In the second of three theses, transcendence lies in the essence of existence as the giving of world before all being toward intraworldly beings.",
+      "quote": "Transcendence lies in the essence of existence, that is, the giving of world before all being toward and with intraworldly beings."
+    },
+    {
+      "id": "transzendenz/ga26/014",
+      "locator": "heidegger-ga-26-metaphysische-anfangsgruende-der-logik-commentary#h6-a-on-the-concept-of-transcendence",
+      "primary_locator": "GA 26 § 11a",
+      "stratum": "ga26-1928",
+      "term": "transcendere",
+      "status": "introduced",
+      "claim": "From transcendere, transcendence means passing over or surpassing; the verbal sense includes an action, a relation from something to something, and something passed over.",
+      "quote": "The word comes from *transcendere*: to climb over, step over, pass over to. Transcendence therefore means the passing over, the surpassing; the transcendent designates that to which the passage is made"
+    },
+    {
+      "id": "transzendenz/ga26/015",
+      "locator": "heidegger-ga-26-metaphysische-anfangsgruende-der-logik-commentary#h6-a-on-the-concept-of-transcendence",
+      "primary_locator": "GA 26 § 11a",
+      "stratum": "ga26-1928",
+      "term": "the transcendent",
+      "status": "introduced",
+      "claim": "The philosophical term has two main meanings: the transcendent as opposed to the immanent, and the transcendent as opposed to the contingent.",
+      "quote": "the term means the transcendent in distinction from the immanent, and the transcendent in distinction from the contingent."
+    },
+    {
+      "id": "transzendenz/ga26/016",
+      "locator": "heidegger-ga-26-metaphysische-anfangsgruende-der-logik-commentary#h6-a-on-the-concept-of-transcendence",
+      "primary_locator": "GA 26 § 11a",
+      "stratum": "ga26-1928",
+      "term": "immanence",
+      "status": "criticized",
+      "claim": "Wherever transcendence is posed against the counterconcept of immanence, the capsule representation of the subject underlies it in principle.",
+      "quote": "But however and wherever the problem of transcendence is posed, in explicit or implicit orientation on the counterconcept of immanence, the capsule representation of the subject, of Dasein, underlies it in principle."
+    },
+    {
+      "id": "transzendenz/ga26/017",
+      "locator": "heidegger-ga-26-metaphysische-anfangsgruende-der-logik-commentary#h6-a-on-the-concept-of-transcendence",
+      "primary_locator": "GA 26 § 11a",
+      "stratum": "ga26-1928",
+      "term": "epistemological concept of transcendence",
+      "status": "criticized",
+      "claim": "Transcendence with immanence as counterconcept first makes epistemology possible, and if that concept falls, epistemology as such falls with it.",
+      "quote": "This concept of transcendence, with immanence as its counterconcept, first makes possible what is called epistemology, so Heidegger calls it the epistemological concept of transcendence."
+    },
+    {
+      "id": "transzendenz/ga26/018",
+      "locator": "heidegger-ga-26-metaphysische-anfangsgruende-der-logik-commentary#h6-a-on-the-concept-of-transcendence",
+      "primary_locator": "GA 26 § 11a",
+      "stratum": "ga26-1928",
+      "term": "theological concept of transcendence",
+      "status": "introduced",
+      "claim": "The transcendent as opposed to the contingent means the unconditioned and inaccessible, predominantly the divine, which yields a theological concept of transcendence.",
+      "quote": "Insofar as the transcendent in this second concept always somehow means the unconditioned, the absolute, and this is predominantly called the divine, one can speak of a theological concept of transcendence."
+    },
+    {
+      "id": "transzendenz/ga26/019",
+      "locator": "heidegger-ga-26-metaphysische-anfangsgruende-der-logik-commentary#h6-a-on-the-concept-of-transcendence",
+      "primary_locator": "GA 26 § 11a",
+      "stratum": "ga26-1928",
+      "term": "the transcendent",
+      "status": "criticized",
+      "claim": "The epistemological and theological concepts are coupled, so that the problem of the external world becomes entwined with the knowledge of God and the proof of his existence.",
+      "quote": "The question of the possible grasping of the transcendent in the epistemological sense becomes entwined with the question of the possibility of knowing the transcendent object in the theological sense."
+    },
+    {
+      "id": "transzendenz/ga26/020",
+      "locator": "heidegger-ga-26-metaphysische-anfangsgruende-der-logik-commentary#h6-a-on-the-concept-of-transcendence",
+      "primary_locator": "GA 26 § 11a, A 373",
+      "stratum": "ga26-1928",
+      "term": "finite ecstatic transcendence",
+      "status": "presupposed",
+      "claim": "Kant's 'outside us' means either what we are not, accessible within the ecstatic transcendence of thrown Dasein, or what lies outside any access by finite ecstatic transcendence, appearances considered in themselves.",
+      "quote": "But \"outside us\" can also mean what we not only are not, but what lies outside accessibility by finite ecstatic transcendence, namely appearances insofar as they are considered in themselves."
+    },
+    {
+      "id": "transzendenz/ga26/021",
+      "locator": "heidegger-ga-26-metaphysische-anfangsgruende-der-logik-commentary#h6-a-on-the-concept-of-transcendence",
+      "primary_locator": "GA 26 § 11a, p. 210",
+      "stratum": "ga26-1928",
+      "term": "transcendence",
+      "status": "revised",
+      "claim": "Kant's Critique as a whole circles around the problem of transcendence, which in the original sense is not epistemological but the problem of freedom.",
+      "quote": "Kant's *Critique of Pure Reason* as a whole circles around the problem of transcendence, \"which in the original sense is precisely not an epistemological problem but the problem of freedom\" (p. 210)"
+    },
+    {
+      "id": "transzendenz/ga26/022",
+      "locator": "heidegger-ga-26-metaphysische-anfangsgruende-der-logik-commentary#h6-a-on-the-concept-of-transcendence",
+      "primary_locator": "GA 26 § 11a",
+      "stratum": "ga26-1928",
+      "term": "transcendence",
+      "status": "criticized",
+      "claim": "Against both concepts, transcendence is neither a relation between inner and outer spheres, nor primarily the knowing relation of subject to object, nor the title for what is inaccessible to finite knowledge.",
+      "quote": "transcendence is neither a relation between an inner and an outer sphere, such that what is surpassed in it would be a barrier belonging to the subject that separated it from the outer sphere, nor primarily the knowing relation of a subject to an object"
+    },
+    {
+      "id": "transzendenz/ga26/023",
+      "locator": "heidegger-ga-26-metaphysische-anfangsgruende-der-logik-commentary#h6-a-on-the-concept-of-transcendence",
+      "primary_locator": "GA 26 § 11a, p. 211",
+      "stratum": "ga26-1928",
+      "term": "transcendence",
+      "status": "revised",
+      "claim": "Transcendence is the original constitution of the subjectivity of a subject: to be a subject means to transcend, and Dasein itself is the passage.",
+      "quote": "\"To be a subject means to transcend\" (p. 211). Dasein does not exist and then occasionally carry out a passage; existing means originally surpassing. \"Dasein itself is the passage.\""
+    },
+    {
+      "id": "transzendenz/ga26/024",
+      "locator": "heidegger-ga-26-metaphysische-anfangsgruende-der-logik-commentary#h6-a-on-the-concept-of-transcendence",
+      "primary_locator": "GA 26 § 11a, note",
+      "stratum": "ga26-1928",
+      "term": "transcendence",
+      "status": "introduced",
+      "claim": "A note holds that the understanding of being as the overpowering, as holiness, must be clarified from Dasein's transcendence rather than by proving the divine ontically.",
+      "quote": "the problem of transcendence must be taken back into the question of temporality and freedom, and only from there can it be shown how far the understanding of being as the overpowering, as holiness, belongs to transcendence itself"
+    },
+    {
+      "id": "transzendenz/ga26/025",
+      "locator": "heidegger-ga-26-metaphysische-anfangsgruende-der-logik-commentary#h6-a-on-the-concept-of-transcendence",
+      "primary_locator": "GA 26 § 11a",
+      "stratum": "ga26-1928",
+      "term": "what is surpassed",
+      "status": "introduced",
+      "claim": "Transcendence is not crossing a barrier around an inner space; what is surpassed is beings themselves, which can become manifest precisely on the basis of transcendence.",
+      "quote": "Second, transcendence does not mean the crossing of a barrier that first shut the subject into an inner space. What is surpassed is beings themselves, which can become manifest to the subject precisely on the basis of its transcendence."
+    },
+    {
+      "id": "transzendenz/ga26/026",
+      "locator": "heidegger-ga-26-metaphysische-anfangsgruende-der-logik-commentary#h6-a-on-the-concept-of-transcendence",
+      "primary_locator": "GA 26 § 11a, p. 212",
+      "stratum": "ga26-1928",
+      "term": "transcending",
+      "status": "introduced",
+      "claim": "As transcending, Dasein is beyond nature though as factical it remains embraced by it, and as transcending, that is as free, it is alien to nature.",
+      "quote": "In other words, as transcending, Dasein is beyond nature, although as factical it remains embraced by it. \"As transcending, that is, as free, Dasein is something alien to nature\" (p. 212)."
+    },
+    {
+      "id": "transzendenz/ga26/027",
+      "locator": "heidegger-ga-26-metaphysische-anfangsgruende-der-logik-commentary#h6-a-on-the-concept-of-transcendence",
+      "primary_locator": "GA 26 § 11a, p. 212",
+      "stratum": "ga26-1928",
+      "term": "world",
+      "status": "introduced",
+      "claim": "What the subject transcends toward is not an object or any being but world.",
+      "quote": "\"What the subject transcends toward is what we call world\" (p. 212)."
+    },
+    {
+      "id": "transzendenz/ga26/028",
+      "locator": "heidegger-ga-26-metaphysische-anfangsgruende-der-logik-commentary#h6-a-on-the-concept-of-transcendence",
+      "primary_locator": "GA 26 § 11a",
+      "stratum": "ga26-1928",
+      "term": "being-in-the-world",
+      "status": "introduced",
+      "claim": "Because transcendence is Dasein's basic constitution and surpasses toward a world, the basic phenomenon of Dasein's transcendence is called being-in-the-world.",
+      "quote": "the basic phenomenon of Dasein's transcendence is called being-in-the-world."
+    },
+    {
+      "id": "transzendenz/ga26/029",
+      "locator": "heidegger-ga-26-metaphysische-anfangsgruende-der-logik-commentary#h6-a-on-the-concept-of-transcendence",
+      "primary_locator": "GA 26 § 11a",
+      "stratum": "ga26-1928",
+      "term": "transcendence",
+      "status": "revised",
+      "claim": "Even saying that Dasein is always already outside with beings is skewed, since it presupposes that Dasein was once inside.",
+      "quote": "Insofar as Dasein, as being-in-the-world, exists, it is always already outside with beings; indeed this way of speaking is still skewed, since \"already outside\" presupposes that it was once inside."
+    },
+    {
+      "id": "transzendenz/ga26/030",
+      "locator": "heidegger-ga-26-metaphysische-anfangsgruende-der-logik-commentary#h6-a-on-the-concept-of-transcendence",
+      "primary_locator": "GA 26 § 11a",
+      "stratum": "ga26-1928",
+      "term": "transcendence",
+      "status": "presupposed",
+      "claim": "In Being and Time the analyses of anxiety, worldhood, conscience and death serve the progressive working out of transcendence until it becomes explicitly a problem in § 69.",
+      "quote": "until it becomes a problem again explicitly in §69: \"The Temporality of Being-in-the-World and the Problem of the Transcendence of the World.\" Transcendence is still, indeed only now, a problem there."
+    },
+    {
+      "id": "transzendenz/ga26/031",
+      "locator": "heidegger-ga-26-metaphysische-anfangsgruende-der-logik-commentary#h6-a-on-the-concept-of-transcendence",
+      "primary_locator": "GA 26 § 11a",
+      "stratum": "ga26-1928",
+      "term": "transcendence",
+      "status": "criticized",
+      "claim": "Transcendence, being-in-the-world, is nowhere identified with intentionality, and whoever does so shows how far they are from understanding the phenomenon.",
+      "quote": "Transcendence, being-in-the-world, is nowhere equated or identified with intentionality; whoever does so, as repeatedly happens, only shows how far they are from understanding the phenomenon"
+    },
+    {
+      "id": "transzendenz/ga26/032",
+      "locator": "heidegger-ga-26-metaphysische-anfangsgruende-der-logik-commentary#h6-a-on-the-concept-of-transcendence",
+      "primary_locator": "GA 26 § 11a, p. 217",
+      "stratum": "ga26-1928",
+      "term": "transcendence",
+      "status": "presupposed",
+      "claim": "The thesis of transcendence is an essential statement about what Dasein is, not a factual statement that it exists.",
+      "quote": "The statement of transcendence about existence is \"an existential (ontological) statement, not an existentiell (ontic) one\" (p. 217)."
+    },
+    {
+      "id": "transzendenz/ga26/033",
+      "locator": "heidegger-ga-26-metaphysische-anfangsgruende-der-logik-commentary#h6-b-the-phenomenon-of-world",
+      "primary_locator": "GA 26 § 11b",
+      "stratum": "ga26-1928",
+      "term": "world",
+      "status": "introduced",
+      "claim": "Because world belongs to transcendence as such, it is a transcendental concept in the strict sense, here equivalent to fundamental-ontological.",
+      "quote": "Because world belongs to transcendence as such, it is a transcendental concept in the strict sense."
+    },
+    {
+      "id": "transzendenz/ga26/034",
+      "locator": "heidegger-ga-26-metaphysische-anfangsgruende-der-logik-commentary#h6-b-the-phenomenon-of-world",
+      "primary_locator": "GA 26 § 11b",
+      "stratum": "ga26-1928",
+      "term": "transcendental concept of world",
+      "status": "introduced",
+      "claim": "Of four concepts of world, the fourth is ontological and means the metaphysical essence of Dasein with regard to its basic constitution, transcendence.",
+      "quote": "fourth, an ontological concept of world that does not mean human society ontically but ontologically the metaphysical essence of Dasein as such, with regard to its basic metaphysical constitution: transcendence."
+    },
+    {
+      "id": "transzendenz/ga26/035",
+      "locator": "heidegger-ga-26-metaphysische-anfangsgruende-der-logik-commentary#h6-b-the-phenomenon-of-world",
+      "primary_locator": "GA 26 § 11b",
+      "stratum": "ga26-1928",
+      "term": "self-transcendence",
+      "status": "introduced",
+      "claim": "In transcendence Dasein leaps over itself as a being, and this leap-over makes selfhood possible and opens the abyss Dasein is for itself.",
+      "quote": "in transcendence Dasein leaps over precisely itself as a being, more precisely, this leap-over makes it possible for Dasein to be something like itself."
+    },
+    {
+      "id": "transzendenz/ga26/036",
+      "locator": "heidegger-ga-26-metaphysische-anfangsgruende-der-logik-commentary#h6-b-the-phenomenon-of-world",
+      "primary_locator": "GA 26 § 11b",
+      "stratum": "ga26-1928",
+      "term": "transcendence",
+      "status": "criticized",
+      "claim": "The doctrine of ideas, motivated by transcendence, could not reach world because it took the relation to the ideas as an intensified intuition of beings.",
+      "quote": "the doctrine of ideas could not reach the concept of world, because the ideas and the comportment toward them counted only as an intensification of a certain grasping of beings, namely intuition."
+    },
+    {
+      "id": "transzendenz/ga26/037",
+      "locator": "heidegger-ga-26-metaphysische-anfangsgruende-der-logik-commentary#h6-b-the-phenomenon-of-world",
+      "primary_locator": "GA 26 § 11b",
+      "stratum": "ga26-1928",
+      "term": "transcendence",
+      "status": "criticized",
+      "claim": "Transcendence cannot be housed in theoretical, aesthetic or practical comportment; it lies before every mode of comportment, before noesis and before orexis.",
+      "quote": "Transcendence lies before every possible mode of comportment, before *noēsis*, but also before *orexis*."
+    },
+    {
+      "id": "transzendenz/ga26/038",
+      "locator": "heidegger-ga-26-metaphysische-anfangsgruende-der-logik-commentary#h6-b-the-phenomenon-of-world",
+      "primary_locator": "GA 26 § 11b",
+      "stratum": "ga26-1928",
+      "term": "epekeina tēs ousias",
+      "status": "introduced",
+      "claim": "In Plato the idea of the good lies beyond the ideas, and since the ideas are already transcendent relative to changing beings, this transcendence must be the most original.",
+      "quote": "Here a transcendence appears which, since the ideas are already transcendent relative to changing beings, must be claimed as the most original."
+    },
+    {
+      "id": "transzendenz/ga26/039",
+      "locator": "heidegger-ga-26-metaphysische-anfangsgruende-der-logik-commentary#h6-b-the-phenomenon-of-world",
+      "primary_locator": "GA 26 § 11b, p. 238",
+      "stratum": "ga26-1928",
+      "term": "for-the-sake-of",
+      "status": "introduced",
+      "claim": "The idea of the good is read as the for-the-sake-of, and the for-the-sake-of is the basic character of world that gives its wholeness transcendental organization.",
+      "quote": "\"the basic character of world, by which the wholeness receives its specifically transcendental form of organization, is the for-the-sake-of\" (p. 238)."
+    },
+    {
+      "id": "transzendenz/ga26/040",
+      "locator": "heidegger-ga-26-metaphysische-anfangsgruende-der-logik-commentary#h6-b-the-phenomenon-of-world",
+      "primary_locator": "GA 26 § 11b, p. 238",
+      "stratum": "ga26-1928",
+      "term": "transcendence",
+      "status": "introduced",
+      "claim": "Since a for-the-sake-of is possible only where there is a will, the transcendence of Dasein and freedom are identical.",
+      "quote": "\"Only where there is freedom is there a for-the-sake-of, and only there is there world. In short: the transcendence of Dasein and freedom are identical!\" (p. 238)."
+    },
+    {
+      "id": "transzendenz/ga26/041",
+      "locator": "heidegger-ga-26-metaphysische-anfangsgruende-der-logik-commentary#h6-c-freedom-and-world",
+      "primary_locator": "GA 26 § 11c",
+      "stratum": "ga26-1928",
+      "term": "transcending",
+      "status": "presupposed",
+      "claim": "In transcending, Dasein transcends every being, itself, co-Dasein and beings not of its character, so that choosing itself is choosing its being-with others and with things.",
+      "quote": "In transcending, Dasein transcends every being: itself, every being of its kind (co-Dasein), and beings not of Dasein's character."
+    },
+    {
+      "id": "transzendenz/ga26/042",
+      "locator": "heidegger-ga-26-metaphysische-anfangsgruende-der-logik-commentary#h6-c-freedom-and-world",
+      "primary_locator": "GA 26 § 11c",
+      "stratum": "ga26-1928",
+      "term": "transcendence",
+      "status": "revised",
+      "claim": "Spontaneity's 'of itself' is undetermined without selfhood, so transcendence must be taken back into freedom and its basic essence sought in freedom itself.",
+      "quote": "But this \"of itself\" remains undetermined without selfhood, which means one must take transcendence back into freedom, indeed seek the basic essence of transcendence in freedom itself."
+    },
+    {
+      "id": "transzendenz/ga26/043",
+      "locator": "heidegger-ga-26-metaphysische-anfangsgruende-der-logik-commentary#h6-c-freedom-and-world",
+      "primary_locator": "GA 26 § 11c, p. 248",
+      "stratum": "ga26-1928",
+      "term": "Widerhalt",
+      "status": "introduced",
+      "claim": "World is the free counter-hold of Dasein's for-the-sake-of, and being-in-the-world is therefore nothing other than freedom.",
+      "quote": "\"World is the free counter-hold (*Widerhalt*) of the for-the-sake-of of Dasein\" (p. 248). Being-in-the-world is therefore nothing other than freedom"
+    },
+    {
+      "id": "transzendenz/ga26/044",
+      "locator": "heidegger-ga-26-metaphysische-anfangsgruende-der-logik-commentary#h6-c-freedom-and-world",
+      "primary_locator": "GA 26 § 11c",
+      "stratum": "ga26-1928",
+      "term": "transcending",
+      "status": "presupposed",
+      "claim": "World, as the whole of Dasein's inner possibilities as transcending, surpasses everything actual, so that actual beings show themselves as a restriction of an excess of possibilities.",
+      "quote": "World, as the whole of the essential inner possibilities of Dasein as transcending, surpasses everything actual."
+    },
+    {
+      "id": "transzendenz/ga26/045",
+      "locator": "heidegger-ga-26-metaphysische-anfangsgruende-der-logik-commentary#h6-c-freedom-and-world",
+      "primary_locator": "GA 26 § 11c",
+      "stratum": "ga26-1928",
+      "term": "transcendence",
+      "status": "presupposed",
+      "claim": "Despair, as complete factical unfreedom, is an elementary testimony to transcendence because the despairing person sees the impossibility of the possible.",
+      "quote": "Even this complete factical unfreedom is an elementary testimony to transcendence, for despair consists precisely in the despairing person's seeing the impossibility of the possible."
+    },
+    {
+      "id": "transzendenz/ga26/046",
+      "locator": "heidegger-ga-26-metaphysische-anfangsgruende-der-logik-commentary#h6-c-freedom-and-world",
+      "primary_locator": "GA 26 § 11c",
+      "stratum": "ga26-1928",
+      "term": "Überschwung",
+      "status": "introduced",
+      "claim": "The surpassing of the factically existent that lies in world, transcendence and freedom corresponds to the epekeina, and Dasein is distinguished by a swinging over.",
+      "quote": "World itself is surpassing (*übertrifftig*); a being of Dasein's character is distinguished by a \"swinging over\" (*Überschwung*); world is the free, surpassing counter-hold of the for-the-sake-of."
+    },
+    {
+      "id": "transzendenz/ga26/047",
+      "locator": "heidegger-ga-26-metaphysische-anfangsgruende-der-logik-commentary#h6-c-freedom-and-world",
+      "primary_locator": "GA 26 § 11c, p. 249",
+      "stratum": "ga26-1928",
+      "term": "world-entry",
+      "status": "introduced",
+      "claim": "Seen from being-in-the-world, factically existing Dasein is the existing possibility of the world-entry of beings.",
+      "quote": "Seen metaphysically from being-in-the-world, Dasein as factically existing is nothing other than \"the existing possibility of the world-entry of beings\" (p. 249)."
+    },
+    {
+      "id": "transzendenz/ga26/048",
+      "locator": "heidegger-ga-26-metaphysische-anfangsgruende-der-logik-commentary#h6-c-freedom-and-world",
+      "primary_locator": "GA 26 § 11c",
+      "stratum": "ga26-1928",
+      "term": "world-entry",
+      "status": "presupposed",
+      "claim": "World-entry is not a process in present things but something that happens with them when transcendence happens, that is, when historical Dasein exists.",
+      "quote": "World-entry happens when transcendence happens, that is, when historical Dasein exists; only then is a being-in-the-world of Dasein existent."
+    },
+    {
+      "id": "transzendenz/ga26/049",
+      "locator": "heidegger-ga-26-metaphysische-anfangsgruende-der-logik-commentary#h6-c-freedom-and-world",
+      "primary_locator": "GA 26 § 11c",
+      "stratum": "ga26-1928",
+      "term": "world-entry",
+      "status": "presupposed",
+      "claim": "World-entry is the presupposition not for a present thing's being present but for its manifesting itself as not needing world-entry for its own being.",
+      "quote": "World-entry and its happening are the presupposition not for the present thing first becoming present and coming into what reveals itself to us as its presence, but only for its manifesting itself precisely in its not needing world-entry for its own being."
+    },
+    {
+      "id": "transzendenz/ga26/050",
+      "locator": "heidegger-ga-26-metaphysische-anfangsgruende-der-logik-commentary#h6-c-freedom-and-world",
+      "primary_locator": "GA 26 § 11c, p. 252",
+      "stratum": "ga26-1928",
+      "term": "transcendence",
+      "status": "introduced",
+      "claim": "The inner possibility of transcendence, being-in-the-world as swinging-over toward the counter-hold, is time as original temporality.",
+      "quote": "\"The inner possibility of transcendence, I assert, is time as original temporality!\" (p. 252)."
+    },
+    {
+      "id": "transzendenz/ga26/051",
+      "locator": "heidegger-ga-26-metaphysische-anfangsgruende-der-logik-commentary#h5-s12-transcendence-and-temporality-nihil-originarium",
+      "primary_locator": "GA 26 § 12",
+      "stratum": "ga26-1928",
+      "term": "transcendence",
+      "status": "revised",
+      "claim": "Freedom itself transcends, and intentional relation is only the factical way of appropriating what has already been leapt over and disclosed on the basis of transcendence.",
+      "quote": "the intentional relation is only the particular factical way of appropriating what has already been leapt over, that is, disclosed, on the basis of transcendence."
+    },
+    {
+      "id": "transzendenz/ga26/052",
+      "locator": "heidegger-ga-26-metaphysische-anfangsgruende-der-logik-commentary#h5-s12-transcendence-and-temporality-nihil-originarium",
+      "primary_locator": "GA 26 § 12",
+      "stratum": "ga26-1928",
+      "term": "transcendence",
+      "status": "introduced",
+      "claim": "The then is found neither in objects nor in subjects but 'underway from subject to object', which is the passage, transcendence.",
+      "quote": "Neither in objects nor in subjects (in the traditional sense), neither here nor there, but, as it were, \"underway from subject to object!\" We already know this underway: as the passage, transcendence."
+    },
+    {
+      "id": "transzendenz/ga26/053",
+      "locator": "heidegger-ga-26-metaphysische-anfangsgruende-der-logik-commentary#h5-s12-transcendence-and-temporality-nihil-originarium",
+      "primary_locator": "GA 26 § 12",
+      "stratum": "ga26-1928",
+      "term": "Entrückung",
+      "status": "introduced",
+      "claim": "Awaiting is the rapture into the then-like that underlies hope, fear and expectation, having leapt ahead beyond all possible beings.",
+      "quote": "What was called awaiting is nothing other than the \"rapture\" (*Entrückung*) into the then-like that underlies those comportments, which has already leapt ahead beyond all possible beings of which we can and must say they are \"then.\""
+    },
+    {
+      "id": "transzendenz/ga26/054",
+      "locator": "heidegger-ga-26-metaphysische-anfangsgruende-der-logik-commentary#h5-s12-transcendence-and-temporality-nihil-originarium",
+      "primary_locator": "GA 26 § 12",
+      "stratum": "ga26-1928",
+      "term": "transcendence",
+      "status": "introduced",
+      "claim": "The ecstematic unity of the horizon of temporality is the temporal condition of the possibility of world, and transcendence has its possibility in the unity of ecstatic oscillation.",
+      "quote": "This ecstematic unity of the horizon of temporality is nothing other than the temporal condition of the possibility of world and its essential belonging to transcendence. Transcendence has its possibility in the unity of ecstatic oscillation."
+    },
+    {
+      "id": "transzendenz/ga26/055",
+      "locator": "heidegger-ga-26-metaphysische-anfangsgruende-der-logik-commentary#h5-s12-transcendence-and-temporality-nihil-originarium",
+      "primary_locator": "GA 26 § 12, p. 271",
+      "stratum": "ga26-1928",
+      "term": "transcendence",
+      "status": "criticized",
+      "claim": "Against Leibniz, monads have no windows not because they contain everything but because there is no inside or outside, temporalizing being the ecstatic happening of world-entry.",
+      "quote": "\"We would say, conversely: they have no windows, not because they have everything inside, but because there is neither an inside nor an outside, because temporalizing (the drive) means in itself the ecstatic happening of world-entry"
+    },
+    {
+      "id": "transzendenz/ga26/056",
+      "locator": "heidegger-ga-26-metaphysische-anfangsgruende-der-logik-commentary#h5-s12-transcendence-and-temporality-nihil-originarium",
+      "primary_locator": "GA 26 § 12",
+      "stratum": "ga26-1928",
+      "term": "transcendence",
+      "status": "presupposed",
+      "claim": "The origin of transcendence is temporality itself, so that with temporalizing, transcendence and world-entry already happen.",
+      "quote": "The origin (*origo*) of transcendence is temporality itself, such that with temporalizing, transcendence, and that is, world-entry, already happens."
+    },
+    {
+      "id": "transzendenz/ga26/057",
+      "locator": "heidegger-ga-26-metaphysische-anfangsgruende-der-logik-commentary#h5-s12-transcendence-and-temporality-nihil-originarium",
+      "primary_locator": "GA 26 § 12",
+      "stratum": "ga26-1928",
+      "term": "swinging-over",
+      "status": "presupposed",
+      "claim": "Heraclitus' self-increasing logos is read as Dasein enriching itself, with the character of being-richer-than, of swinging-over.",
+      "quote": "The original inner possibility of enrichment lies essentially in Dasein; it always has the character of being-richer-than, of swinging-over."
+    },
+    {
+      "id": "transzendenz/ga26/058",
+      "locator": "heidegger-ga-26-metaphysische-anfangsgruende-der-logik-commentary#h5-s13-transcendence-temporalizing-itself-in-temporality-and-the-essence-of-ground",
+      "primary_locator": "GA 26 § 13",
+      "stratum": "ga26-1928",
+      "term": "transcendence",
+      "status": "presupposed",
+      "claim": "The surpassing of beings in all dimensions in transcendence is grounded in the ecstatic constitution of temporality, whose horizon is temporalized primarily from the future, the for-the-sake-of.",
+      "quote": "The surpassing of beings in all dimensions in transcendence is grounded in the ecstatic constitution of temporality."
+    },
+    {
+      "id": "transzendenz/ga26/059",
+      "locator": "heidegger-ga-26-metaphysische-anfangsgruende-der-logik-commentary#h5-s13-transcendence-temporalizing-itself-in-temporality-and-the-essence-of-ground",
+      "primary_locator": "GA 26 § 13, p. 276",
+      "stratum": "ga26-1928",
+      "term": "for-the-sake-of",
+      "status": "introduced",
+      "claim": "We ask why because transcendence temporalizes itself, and the for-the-sake-of, as the primary character of world and of transcendence, is the primal phenomenon of ground.",
+      "quote": "\"The for-the-sake-of, as the primary character of world, that is, of transcendence, is the primal phenomenon of ground as such\" (p. 276)."
+    },
+    {
+      "id": "transzendenz/ga26/060",
+      "locator": "heidegger-ga-26-metaphysische-anfangsgruende-der-logik-commentary#h5-s13-transcendence-temporalizing-itself-in-temporality-and-the-essence-of-ground",
+      "primary_locator": "GA 26 § 13, p. 276",
+      "stratum": "ga26-1928",
+      "term": "transcendental freedom",
+      "status": "introduced",
+      "claim": "The metaphysical essence of transcendingly existing Dasein is freedom, and transcendental freedom is freedom toward ground.",
+      "quote": "\"We can say quite lapidarily: the metaphysical essence of Dasein existing transcendingly is freedom. But freedom, as transcendental freedom, is freedom toward ground\" (p. 276)."
+    },
+    {
+      "id": "transzendenz/ga26/061",
+      "locator": "heidegger-ga-26-metaphysische-anfangsgruende-der-logik-commentary#h5-s13-transcendence-temporalizing-itself-in-temporality-and-the-essence-of-ground",
+      "primary_locator": "GA 26 § 13, p. 279",
+      "stratum": "ga26-1928",
+      "term": "swinging-over",
+      "status": "revised",
+      "claim": "On the basis of its swinging-over Dasein is above beings, but precisely so that it experiences beings in resistance as that against which it is powerless.",
+      "quote": "On the basis of this swinging-over, Dasein is always above beings, as we say, but precisely so that it first experiences beings in resistance as that against which transcending Dasein is powerless."
+    },
+    {
+      "id": "transzendenz/ga26/062",
+      "locator": "heidegger-ga-26-metaphysische-anfangsgruende-der-logik-commentary#h5-s14-the-essence-of-ground-and-the-idea-of-logic",
+      "primary_locator": "GA 26 § 14",
+      "stratum": "ga26-1928",
+      "term": "veritas transcendentalis",
+      "status": "introduced",
+      "claim": "The disclosing that lies in the ecstatic unity of temporality is original being-true, the truth that transcendence itself is, and the condition of every ontic-intentional truth.",
+      "quote": "This disclosing is metaphysically original being-true, the truth that transcendence itself is: *veritas transcendentalis*."
+    },
+    {
+      "id": "transzendenz/ga26/063",
+      "locator": "heidegger-ga-26-metaphysische-anfangsgruende-der-logik-commentary#h5-s14-the-essence-of-ground-and-the-idea-of-logic",
+      "primary_locator": "GA 26 § 14",
+      "stratum": "ga26-1928",
+      "term": "transcendence",
+      "status": "presupposed",
+      "claim": "Truth lies in the essence of transcendence, and logic is metaphysics if transcendence is the fundamental theme of metaphysics.",
+      "quote": "Truth lies in the essence of transcendence; it is originally transcendental truth. If the basic theme of logic is truth, logic itself is metaphysics, if the problem of transcendence is, as Heidegger tried to show, the fundamental theme of metaphysics."
+    },
+    {
+      "id": "transzendenz/ga26/064",
+      "locator": "heidegger-ga-26-metaphysische-anfangsgruende-der-logik-commentary#h5-s14-the-essence-of-ground-and-the-idea-of-logic",
+      "primary_locator": "GA 26 § 14",
+      "stratum": "ga26-1928",
+      "term": "surpassing",
+      "status": "presupposed",
+      "claim": "The 'rather than' in the principle of reason expresses the surpassing character of world, the swinging-over of freedom into possibility.",
+      "quote": "For this \"rather\" is only the expression of the surpassing character of world, of the swinging-over of freedom into possibility."
+    },
+    {
+      "id": "transzendenz/ga26/065",
+      "locator": "heidegger-ga-26-metaphysische-anfangsgruende-der-logik-commentary#h5-s14-the-essence-of-ground-and-the-idea-of-logic",
+      "primary_locator": "GA 26 § 14, p. 284",
+      "stratum": "ga26-1928",
+      "term": "transcendence",
+      "status": "revised",
+      "claim": "Glossing Republic 509b, the for-the-sake-of, transcendence, is not being itself but what surpasses it, swinging over beings in dignity and power.",
+      "quote": "\"The for-the-sake-of, however (transcendence), is not being itself, but what surpasses it, and does so by swinging over beings in dignity and power\" (p. 284)."
+    },
+    {
+      "id": "transzendenz/ga26/066",
+      "locator": "heidegger-ga-26-metaphysische-anfangsgruende-der-logik-commentary#h3-appendix-distance-and-nearness",
+      "primary_locator": "GA 26, appendix",
+      "stratum": "ga26-1928",
+      "term": "transcendence",
+      "status": "presupposed",
+      "claim": "The human being is a being of distance, and only through the original distance formed in transcendence toward all beings does true nearness to things arise.",
+      "quote": "\"The human being is a being of distance!\" And only through genuine, original distance, which he forms in his transcendence toward all beings, does true nearness to things begin to rise in him."
+    }
+  ],
+  "absences": []
+}

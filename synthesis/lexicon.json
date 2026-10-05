@@ -8300,6 +8300,25 @@
       ]
     },
     {
+      "id": "ueberstieg",
+      "headword": "Überstieg",
+      "language": "de",
+      "authors": [
+        "heidegger"
+      ],
+      "forms": [
+        "Überstieg"
+      ],
+      "renderings": [
+        {
+          "english": "surpassing",
+          "source": "corpus",
+          "locator": "heidegger-ga-9-vom-wesen-des-grundes-commentary#h3-ii-transcendence-as-the-domain-of-the-question-concerning-the-essence-of-ground"
+        }
+      ],
+      "theme": "transzendenz"
+    },
+    {
       "id": "uebertragung",
       "headword": "Übertragung",
       "language": "de",

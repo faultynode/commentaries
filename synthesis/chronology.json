@@ -186,6 +186,21 @@
       ]
     },
     {
+      "commentary": "heidegger-ga-26-metaphysische-anfangsgruende-der-logik-commentary",
+      "role": "primary",
+      "status": "resolved",
+      "strata": [
+        {
+          "id": "ga26-1928",
+          "label": "Marburg lecture course, SS 1928",
+          "year_start": 1928,
+          "year_end": 1928,
+          "stated_in_commentary": true,
+          "evidence": "\"Marburg lecture course, summer semester 1928\""
+        }
+      ]
+    },
+    {
       "commentary": "heidegger-ga-3-kant-und-das-problem-der-metaphysik-commentary",
       "role": "primary",
       "status": "resolved",
@@ -212,6 +227,29 @@
           "stated_in_commentary": true,
           "year_end": 1922,
           "year_start": 1921
+        }
+      ]
+    },
+    {
+      "commentary": "heidegger-ga-9-vom-wesen-des-grundes-commentary",
+      "role": "primary",
+      "status": "resolved",
+      "strata": [
+        {
+          "id": "ga9-wdg-1929",
+          "label": "Vom Wesen des Grundes, 1929",
+          "year_start": 1929,
+          "year_end": 1929,
+          "stated_in_commentary": true,
+          "evidence": "\"The treatise appeared in 1929 in the Festschrift for Husserl's seventieth birthday\""
+        },
+        {
+          "id": "ga9-wdg-preface-1949",
+          "label": "Preface to the third edition, 1949",
+          "year_start": 1949,
+          "year_end": 1949,
+          "stated_in_commentary": true,
+          "evidence": "Heading \"Preface to the Third Edition (1949)\""
         }
       ]
     },
