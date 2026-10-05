@@ -306,7 +306,7 @@
 
 - `heidegger-sein-und-zeit-commentary` - 915 term hits, no record
 - `heidegger-being-and-time-commentary` - 253 term hits, no record
-- `henry-the-essence-of-manifestation-commentary` - 226 term hits, no record
+- `henry-the-essence-of-manifestation-commentary` - 227 term hits, no record
 - `bernet-la-vie-du-sujet-commentary` - 138 term hits, no record
 - `marion-sur-le-prisme-metaphysique-de-descartes-commentary` - 83 term hits, no record
 - `kant-kritik-der-reinen-vernunft-commentary` - 75 term hits, no record

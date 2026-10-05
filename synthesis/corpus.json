@@ -13963,9 +13963,9 @@
       "author": "henry",
       "title": "Michel Henry, L'essence de la manifestation",
       "wordpress_id": "442",
-      "sha256": "5843b5fd3a549950c075c0c3a42acfaf096c14d00192dc3094d2fd85baa463f0",
-      "lines": 3065,
-      "words": 280058,
+      "sha256": "a2a90bd7e215000feb637e46e5db70ffcc8032e3c242f450bb72616e3e95db25",
+      "lines": 3073,
+      "words": 284683,
       "url": "https://faultynode.github.io/commentaries/commentaries/henry/henry-the-essence-of-manifestation-commentary.html",
       "sections": [
         {
@@ -14184,7 +14184,7 @@
           "anchor": "the-ambiguity-of-dasein-essence-and-ontic-determination",
           "line_start": 822,
           "line_end": 893,
-          "words": 5707
+          "words": 5806
         },
         {
           "id": "h2-s-14-the-relation-of-essence-and-ontic-determination-in-the-philosophy-of-consci",
@@ -14210,7 +14210,7 @@
           "anchor": "the-ontological-signification-of-the-problematic-that-aims-at-the-essence-and-the-originary-concept-of-finitude",
           "line_start": 960,
           "line_end": 1033,
-          "words": 5945
+          "words": 6011
         },
         {
           "id": "h2-s-16-the-idea-of-the-formal-structure-of-the-autonomy-of-the-essence-and-the-tas",
@@ -14223,7 +14223,7 @@
           "anchor": "the-idea-of-the-formal-structure-of-the-autonomy-of-the-essence-and-the-task-of-a-repetition-of-the-ontological-elucidation-of-the-concept-of-phenomenon",
           "line_start": 1034,
           "line_end": 1075,
-          "words": 2872
+          "words": 2988
         },
         {
           "id": "h1-section-ii-repetition-of-the-elucidation-of-the-concept-of-phenomenon-transcende",
@@ -14234,8 +14234,8 @@
           ],
           "anchor": "section-ii-repetition-of-the-elucidation-of-the-concept-of-phenomenon-transcendence-and-immanence",
           "line_start": 1076,
-          "line_end": 1077,
-          "words": 0
+          "line_end": 1079,
+          "words": 187
         },
         {
           "id": "h2-s-17-the-originary-character-of-the-manifestation-of-being-and-the-problem-of-na",
@@ -14246,9 +14246,9 @@
             "§ 17\\. The originary character of the manifestation of being and the problem of natural consciousness"
           ],
           "anchor": "the-originary-character-of-the-manifestation-of-being-and-the-problem-of-natural-consciousness",
-          "line_start": 1078,
-          "line_end": 1147,
-          "words": 4904
+          "line_start": 1080,
+          "line_end": 1149,
+          "words": 5020
         },
         {
           "id": "h2-s-18-the-concept-of-representation-ontological-structure-and-existential-underst",
@@ -14259,8 +14259,8 @@
             "§ 18\\. The concept of representation: ontological structure and existential understanding"
           ],
           "anchor": "the-concept-of-representation-ontological-structure-and-existential-understanding",
-          "line_start": 1148,
-          "line_end": 1225,
+          "line_start": 1150,
+          "line_end": 1227,
           "words": 6125
         },
         {
@@ -14272,8 +14272,8 @@
             "§ 19\\. Being-for-itself from the ontological point of view and from the existential point of view: consciousness and truth"
           ],
           "anchor": "being-for-itself-from-the-ontological-point-of-view-and-from-the-existential-point-of-view-consciousness-and-truth",
-          "line_start": 1226,
-          "line_end": 1273,
+          "line_start": 1228,
+          "line_end": 1275,
           "words": 3725
         },
         {
@@ -14285,8 +14285,8 @@
             "§ 20\\. Critique of the Hegelian concept of experience"
           ],
           "anchor": "critique-of-the-hegelian-concept-of-experience",
-          "line_start": 1274,
-          "line_end": 1326,
+          "line_start": 1276,
+          "line_end": 1328,
           "words": 3841
         },
         {
@@ -14298,8 +14298,8 @@
             "§ 21\\. The reaffirmation of the originary character of the manifestation of being in the bringing-into-light of its non-historical character"
           ],
           "anchor": "the-reaffirmation-of-the-originary-character-of-the-manifestation-of-being-in-the-bringing-into-light-of-its-non-historical-character",
-          "line_start": 1327,
-          "line_end": 1380,
+          "line_start": 1329,
+          "line_end": 1382,
           "words": 3651
         },
         {
@@ -14311,9 +14311,9 @@
             "§ 22\\. The interpretation of the essence of phenomenality within the fundamental presuppositions of monism and the problem of receptivity. Ontological signification of this problem"
           ],
           "anchor": "the-interpretation-of-the-essence-of-phenomenality-within-the-fundamental-presuppositions-of-monism-and-the-problem-of-receptivity-ontological-signification-of-this-problem",
-          "line_start": 1381,
-          "line_end": 1430,
-          "words": 3974
+          "line_start": 1383,
+          "line_end": 1434,
+          "words": 4554
         },
         {
           "id": "h2-s-23-the-internal-possibility-of-the-receptivity-of-being-and-the-problem-of-sch",
@@ -14324,9 +14324,9 @@
             "§ 23\\. The internal possibility of the receptivity of being and the problem of schematism"
           ],
           "anchor": "the-internal-possibility-of-the-receptivity-of-being-and-the-problem-of-schematism",
-          "line_start": 1431,
-          "line_end": 1460,
-          "words": 2550
+          "line_start": 1435,
+          "line_end": 1464,
+          "words": 3500
         },
         {
           "id": "h2-s-24-reaffirming-the-central-place-of-the-problem-of-receptivity-and-the-ontolog",
@@ -14337,9 +14337,9 @@
             "§ 24\\. Reaffirming the central place of the problem of receptivity, and the ontological interpretation of time as auto-affection"
           ],
           "anchor": "reaffirming-the-central-place-of-the-problem-of-receptivity-and-the-ontological-interpretation-of-time-as-auto-affection",
-          "line_start": 1461,
-          "line_end": 1488,
-          "words": 2738
+          "line_start": 1465,
+          "line_end": 1492,
+          "words": 4182
         },
         {
           "id": "h2-s-25-clarifying-the-essence-of-receptivity-and-the-problem-of-determining-phenom",
@@ -14350,9 +14350,9 @@
             "§ 25\\. Clarifying the essence of receptivity and the problem of determining phenomenologically the original reality of transcendence"
           ],
           "anchor": "clarifying-the-essence-of-receptivity-and-the-problem-of-determining-phenomenologically-the-original-reality-of-transcendence",
-          "line_start": 1489,
-          "line_end": 1504,
-          "words": 2213
+          "line_start": 1493,
+          "line_end": 1510,
+          "words": 2462
         },
         {
           "id": "h2-s-26-the-intrusion-of-man-into-the-problematic-of-receptivity-and-the-fact-that",
@@ -14363,8 +14363,8 @@
             "§ 26\\. The intrusion of man into the problematic of receptivity, and the fact that the original conditions of truth do not belong to the absolute milieu of exteriority"
           ],
           "anchor": "the-intrusion-of-man-into-the-problematic-of-receptivity-and-the-fact-that-the-original-conditions-of-truth-do-not-belong-to-the-absolute-milieu-of-exteriority",
-          "line_start": 1505,
-          "line_end": 1522,
+          "line_start": 1511,
+          "line_end": 1528,
           "words": 1609
         },
         {
@@ -14376,8 +14376,8 @@
             "§ 27\\. Grasping the central place of the problematic of receptivity and putting in question the ultimate ontological presuppositions of monism"
           ],
           "anchor": "grasping-the-central-place-of-the-problematic-of-receptivity-and-putting-in-question-the-ultimate-ontological-presuppositions-of-monism",
-          "line_start": 1523,
-          "line_end": 1532,
+          "line_start": 1529,
+          "line_end": 1538,
           "words": 742
         },
         {
@@ -14389,8 +14389,8 @@
             "§ 28\\. The abstractness of the essence of manifestation within monism's ontological presuppositions, and the problem of constructing a phenomenology of the ground"
           ],
           "anchor": "the-abstractness-of-the-essence-of-manifestation-within-monisms-ontological-presuppositions-and-the-problem-of-constructing-a-phenomenology-of-the-ground",
-          "line_start": 1533,
-          "line_end": 1552,
+          "line_start": 1539,
+          "line_end": 1558,
           "words": 2042
         },
         {
@@ -14402,8 +14402,8 @@
             "§ 29\\. Exhibiting the ontological motive behind the problematic's inability to construct a phenomenology of the ground and to give content to the idea of the formal structure of autonomy"
           ],
           "anchor": "exhibiting-the-ontological-motive-behind-the-problematics-inability-to-construct-a-phenomenology-of-the-ground-and-to-give-content-to-the-idea-of-the-formal-structure-of-autonomy",
-          "line_start": 1553,
-          "line_end": 1574,
+          "line_start": 1559,
+          "line_end": 1580,
           "words": 2255
         },
         {
@@ -14415,8 +14415,8 @@
             "§ 30\\. The ontological determination of the original essence of revelation as immanence. Immanent content and transcendent content"
           ],
           "anchor": "the-ontological-determination-of-the-original-essence-of-revelation-as-immanence-immanent-content-and-transcendent-content",
-          "line_start": 1575,
-          "line_end": 1602,
+          "line_start": 1581,
+          "line_end": 1608,
           "words": 2357
         },
         {
@@ -14428,9 +14428,9 @@
             "§ 31\\. The fundamental ambiguity in the concept of auto-affection. Auto-affection and affection by itself"
           ],
           "anchor": "the-fundamental-ambiguity-in-the-concept-of-auto-affection-auto-affection-and-affection-by-itself",
-          "line_start": 1603,
-          "line_end": 1638,
-          "words": 4111
+          "line_start": 1609,
+          "line_end": 1646,
+          "words": 4340
         },
         {
           "id": "h2-s-32-immanence-and-transcendence",
@@ -14441,8 +14441,8 @@
             "§ 32\\. Immanence and transcendence"
           ],
           "anchor": "immanence-and-transcendence",
-          "line_start": 1639,
-          "line_end": 1652,
+          "line_start": 1647,
+          "line_end": 1660,
           "words": 1851
         },
         {
@@ -14454,8 +14454,8 @@
             "§ 33\\. The ontological interpretation of the essence of transcendence as immanence and the internal possibility of surpassing"
           ],
           "anchor": "the-ontological-interpretation-of-the-essence-of-transcendence-as-immanence-and-the-internal-possibility-of-surpassing",
-          "line_start": 1653,
-          "line_end": 1676,
+          "line_start": 1661,
+          "line_end": 1684,
           "words": 2687
         },
         {
@@ -14467,8 +14467,8 @@
             "§ 34\\. Consciousness of the world and consciousness without world"
           ],
           "anchor": "consciousness-of-the-world-and-consciousness-without-world",
-          "line_start": 1677,
-          "line_end": 1690,
+          "line_start": 1685,
+          "line_end": 1698,
           "words": 1651
         },
         {
@@ -14480,9 +14480,9 @@
             "§ 35\\. The coherence of the internal structure of the essence"
           ],
           "anchor": "the-coherence-of-the-internal-structure-of-the-essence",
-          "line_start": 1691,
-          "line_end": 1704,
-          "words": 1848
+          "line_start": 1699,
+          "line_end": 1712,
+          "words": 2013
         },
         {
           "id": "h2-s-36-the-essential-ontological-signification-of-the-concept-of-immanence-the-imm",
@@ -14493,8 +14493,8 @@
             "§ 36\\. The essential ontological signification of the concept of immanence: the immediate"
           ],
           "anchor": "the-essential-ontological-signification-of-the-concept-of-immanence-the-immediate",
-          "line_start": 1705,
-          "line_end": 1726,
+          "line_start": 1713,
+          "line_end": 1734,
           "words": 2179
         },
         {
@@ -14505,8 +14505,8 @@
             "Section III. The internal structure of immanence and the problem of its phenomenological determination: the invisible"
           ],
           "anchor": "section-iii-the-internal-structure-of-immanence-and-the-problem-of-its-phenomenological-determination-the-invisible",
-          "line_start": 1727,
-          "line_end": 1728,
+          "line_start": 1735,
+          "line_end": 1736,
           "words": 0
         },
         {
@@ -14518,8 +14518,8 @@
             "§ 37\\. The internal structure of immanence"
           ],
           "anchor": "the-internal-structure-of-immanence",
-          "line_start": 1729,
-          "line_end": 1897,
+          "line_start": 1737,
+          "line_end": 1905,
           "words": 12163
         },
         {
@@ -14531,8 +14531,8 @@
             "§ 38\\. The internal structure of immanence and the problem of its understanding as revelation: Fichte"
           ],
           "anchor": "the-internal-structure-of-immanence-and-the-problem-of-its-understanding-as-revelation-fichte",
-          "line_start": 1898,
-          "line_end": 1997,
+          "line_start": 1906,
+          "line_end": 2005,
           "words": 6618
         },
         {
@@ -14544,8 +14544,8 @@
             "§ 39\\. Eckhart"
           ],
           "anchor": "eckhart",
-          "line_start": 1998,
-          "line_end": 2107,
+          "line_start": 2006,
+          "line_end": 2115,
           "words": 10151
         },
         {
@@ -14557,8 +14557,8 @@
             "§ 40\\. The fundamental ontological presupposition of Eckhart's thought and the originary essence of the logos"
           ],
           "anchor": "the-fundamental-ontological-presupposition-of-eckharts-thought-and-the-originary-essence-of-the-logos",
-          "line_start": 2108,
-          "line_end": 2193,
+          "line_start": 2116,
+          "line_end": 2201,
           "words": 6540
         },
         {
@@ -14570,8 +14570,8 @@
             "§ 41\\. Immanence and absolute situation"
           ],
           "anchor": "immanence-and-absolute-situation",
-          "line_start": 2194,
-          "line_end": 2286,
+          "line_start": 2202,
+          "line_end": 2294,
           "words": 6813
         },
         {
@@ -14583,8 +14583,8 @@
             "§ 42\\. The ontological determination of the essence of situation as immanence and the fundamental ambiguity of \"Nichtigkeit\""
           ],
           "anchor": "the-ontological-determination-of-the-essence-of-situation-as-immanence-and-the-fundamental-ambiguity-of-nichtigkeit",
-          "line_start": 2287,
-          "line_end": 2391,
+          "line_start": 2295,
+          "line_end": 2399,
           "words": 7153
         },
         {
@@ -14596,9 +14596,9 @@
             "§ 43\\. Situation and temporality. The ontological heterogeneity of their originary structures and its interpretation in the philosophy of transcendence: the idea of contingency and the fall of Dasein"
           ],
           "anchor": "situation-and-temporality-the-ontological-heterogeneity-of-their-originary-structures-and-its-interpretation-in-the-philosophy-of-transcendence-the-idea-of-contingency-and-the-fall-of-dasein",
-          "line_start": 2392,
-          "line_end": 2470,
-          "words": 7194
+          "line_start": 2400,
+          "line_end": 2478,
+          "words": 7244
         },
         {
           "id": "h2-s-44-the-concept-of-situation-in-existentialism-the-failure-of-ontology-and-real",
@@ -14609,8 +14609,8 @@
             "§ 44\\. The concept of situation in existentialism. The failure of ontology and realism: \"nature and freedom\""
           ],
           "anchor": "the-concept-of-situation-in-existentialism-the-failure-of-ontology-and-realism-nature-and-freedom",
-          "line_start": 2471,
-          "line_end": 2502,
+          "line_start": 2479,
+          "line_end": 2510,
           "words": 3229
         },
         {
@@ -14622,9 +14622,9 @@
             "§ 45\\. The dissimulation of the originary essence of revelation and its forgetting"
           ],
           "anchor": "the-dissimulation-of-the-originary-essence-of-revelation-and-its-forgetting",
-          "line_start": 2503,
-          "line_end": 2586,
-          "words": 12104
+          "line_start": 2511,
+          "line_end": 2594,
+          "words": 12261
         },
         {
           "id": "h2-s-46-the-critique-of-knowledge-the-essence-of-religion",
@@ -14635,8 +14635,8 @@
             "§ 46\\. The critique of knowledge. The essence of religion"
           ],
           "anchor": "the-critique-of-knowledge-the-essence-of-religion",
-          "line_start": 2587,
-          "line_end": 2634,
+          "line_start": 2595,
+          "line_end": 2642,
           "words": 6539
         },
         {
@@ -14648,8 +14648,8 @@
             "§ 47\\. The critique of knowledge within rationalism"
           ],
           "anchor": "the-critique-of-knowledge-within-rationalism",
-          "line_start": 2635,
-          "line_end": 2674,
+          "line_start": 2643,
+          "line_end": 2682,
           "words": 4765
         },
         {
@@ -14661,8 +14661,8 @@
             "§ 48\\. The ontological signification of the critique of rationalism"
           ],
           "anchor": "the-ontological-signification-of-the-critique-of-rationalism",
-          "line_start": 2675,
-          "line_end": 2706,
+          "line_start": 2683,
+          "line_end": 2714,
           "words": 4023
         },
         {
@@ -14674,8 +14674,8 @@
             "§ 49\\. Ontological signification of the critique of knowledge in Eckhart"
           ],
           "anchor": "ontological-signification-of-the-critique-of-knowledge-in-eckhart",
-          "line_start": 2707,
-          "line_end": 2778,
+          "line_start": 2715,
+          "line_end": 2786,
           "words": 11483
         },
         {
@@ -14687,8 +14687,8 @@
             "§ 50\\. The non-face of the essence"
           ],
           "anchor": "the-non-face-of-the-essence",
-          "line_start": 2779,
-          "line_end": 2816,
+          "line_start": 2787,
+          "line_end": 2824,
           "words": 4899
         },
         {
@@ -14700,8 +14700,8 @@
             "§ 51\\. Visible and invisible"
           ],
           "anchor": "visible-and-invisible",
-          "line_start": 2817,
-          "line_end": 2874,
+          "line_start": 2825,
+          "line_end": 2882,
           "words": 9097
         },
         {
@@ -14713,8 +14713,8 @@
             ""
           ],
           "anchor": "section",
-          "line_start": 2875,
-          "line_end": 2876,
+          "line_start": 2883,
+          "line_end": 2884,
           "words": 0
         },
         {
@@ -14725,8 +14725,8 @@
             "Section IV. Fundamental ontological interpretation of the original essence of revelation as affectivity"
           ],
           "anchor": "section-iv-fundamental-ontological-interpretation-of-the-original-essence-of-revelation-as-affectivity",
-          "line_start": 2877,
-          "line_end": 2878,
+          "line_start": 2885,
+          "line_end": 2886,
           "words": 0
         },
         {
@@ -14738,9 +14738,9 @@
             "§ 52 — Fundamental ontological interpretation of the original essence of revelation as affectivity: affectivity and ipseity"
           ],
           "anchor": "fundamental-ontological-interpretation-of-the-original-essence-of-revelation-as-affectivity-affectivity-and-ipseity",
-          "line_start": 2879,
-          "line_end": 2908,
-          "words": 3026
+          "line_start": 2887,
+          "line_end": 2916,
+          "words": 3142
         },
         {
           "id": "h2-s-53-affectivity-as-original-ontological-passivity-and-the-effectivity-of-its-es",
@@ -14751,8 +14751,8 @@
             "§ 53 — Affectivity as original ontological passivity and the effectivity of its essence in \"suffering\""
           ],
           "anchor": "affectivity-as-original-ontological-passivity-and-the-effectivity-of-its-essence-in-suffering",
-          "line_start": 2909,
-          "line_end": 2940,
+          "line_start": 2917,
+          "line_end": 2948,
           "words": 4098
         },
         {
@@ -14764,9 +14764,9 @@
             "§ 54 — Ontological interpretation of affectivity as the foundation of affection: the problem of \"intentional affectivity\""
           ],
           "anchor": "ontological-interpretation-of-affectivity-as-the-foundation-of-affection-the-problem-of-intentional-affectivity",
-          "line_start": 2941,
-          "line_end": 2970,
-          "words": 3384
+          "line_start": 2949,
+          "line_end": 2978,
+          "words": 3485
         },
         {
           "id": "h2-s-55-ontological-determination-of-affection-by-affectivity",
@@ -14777,8 +14777,8 @@
             "§ 55 — Ontological determination of affection by affectivity"
           ],
           "anchor": "ontological-determination-of-affection-by-affectivity",
-          "line_start": 2971,
-          "line_end": 2996,
+          "line_start": 2979,
+          "line_end": 3004,
           "words": 3541
         },
         {
@@ -14790,8 +14790,8 @@
             "§ 56 — Affectivity and sensations"
           ],
           "anchor": "affectivity-and-sensations",
-          "line_start": 2997,
-          "line_end": 3022,
+          "line_start": 3005,
+          "line_end": 3030,
           "words": 2658
         },
         {
@@ -14803,8 +14803,8 @@
             "§ 57 — Affectivity as the universal form of all possible experience in general and as the form of that form. The pure concept of affectivity"
           ],
           "anchor": "affectivity-as-the-universal-form-of-all-possible-experience-in-general-and-as-the-form-of-that-form-the-pure-concept-of-affectivity",
-          "line_start": 3023,
-          "line_end": 3065,
+          "line_start": 3031,
+          "line_end": 3073,
           "words": 5089
         }
       ]
