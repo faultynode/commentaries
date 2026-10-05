@@ -18,8 +18,14 @@ R cites P in: French translation (A. de WAELHENS et W. BIEMEL, 1953), "K" + page
   Check every quotation against the French and the German. Say whether a departure
   from the German is the translators' rendering or Henry's own cut; count a
   translators' rendering against Henry only where his argument rests on it.
-Languages: R French; P German; R quotes P in the 1953 French translation ("K")
-Range of R: Section II. Répétition de l’élucidation du concept de phénomène transcendance et immanence, start to end
+R also quotes Hegel's *Phénoménologie de l'esprit* in Jean Hyppolite's translation (Aubier, 2 vols), "PhE" + volume + page.
+  Scans: sources/pdf-input/hegel-la-phénoménologie-de-lesprit-1-hyppolite.pdf and -2-hyppolite.pdf
+    (not converted; OCR text layer, Adobe ClearScan, usable but noisy: check quotations against page images).
+    Vol I printed page = PDF page minus 6; vol II printed page = PDF page plus 2. Pagination is Henry's.
+  Check every PhE quotation against Hyppolite's page, including his notes, which Henry sometimes follows as Hegel.
+Languages: R French; P German; R quotes P in the 1953 French translation ("K") and Hegel in Hyppolite's French ("PhE")
+Range of R: Section II. Répétition de l’élucidation du concept de phénomène transcendance et immanence, start to end;
+  plus the Appendix (§§71-77, Hegel's concept of manifestation), read by section, not by paragraph, for its bearing on Section II's reading of GA 3 (added 2026-10-05)
 Output: outputs/henry-on-hga3-comparative-commentary.md
 
 ## Pair-specific notes
@@ -40,6 +46,7 @@ Output: outputs/henry-on-hga3-comparative-commentary.md
 
 10. **Henry's French is the translators' before it is his.** Since 2026-10-04 every K quotation has been checked against the 1953 text. Translators' renderings Henry's argument rests on: "se montre" and "comprendre" for *faßbar* and *begreifen* (K 279), with "comprendre" also for *verstehen* (K 283); "caractère intuitif" for *Anblickcharakter* (K 157) and "intuitivité" for *Erblickbarkeit* (K 160); "doit être entendue à la fois comme" for *muß sich gabeln* (K 180); "réceptivité" for *Hinnahme*. Henry's own cuts, with the words present in his French: "(apparemment non fini)" (K 98), "représentée dans sa fonction de règle" (K 157), "intime et" (K 176), the warning against the narrow concept of taking-in (K 229), "originel" (K 248), "mais n'est pas encore connaissance" (K 84), "si donc" (K 149). Translators' insertions that favour Henry: "[l'objet]" (K 244), "[se trouve chez un sujet]" (K 245); "reflue" for *zurückblickt* (K 244) and "rétrospection" for *Zurück-auf-sich* (K 246).
 11. **The translators' introduction is an intermediary.** De Waelhens and Biemel (K 10-41) name the doctrine "auto-affection pure" and gloss time as what "se forme soi-même en sortant de soi pour se diriger vers soi", "le devenir de soi dans l'extériorisation" (K 40-41); they read the Kantbuch's nothing as the "expérience du néant" of *Was ist Metaphysik?* (K 26); they question the *intuitus originarius* as foil (K 19 n. 1); they quote the K 199 sentence as the key to pure intuition (K 33). Henry does not cite the introduction. Treat these as the edition's framing that Henry's reading follows, not as proven influence.
+12. **Henry's Hegel is doubly mediated, and it is the template for his Kantbuch.** (Added 2026-10-05.) R §§17-21 read Hegel through Heidegger's *Holzwege* essay and directly in Hyppolite; "Parousia" is Heidegger's gloss on Hegel's "près de nous" (PhE I 66), and the companion commentary R misassigns H 126 and H 190 to Hegel. Hyppolite's notes are part of Henry's Hegel: the unhappy consciousness "of Judaism" (R §19) is the translator's attribution (PhE I 176 n. 19, 177 n. 20), not Hegel's text. Henry's ellipses in PhE fall where Hegel's next clause tells against his use: I 198 (idealism of Kant and Fichte, Hyppolite n. 11), I 318 (the actual as being-for-another), II 303 ("la science" as subject), II 305 ("pas encore achevé"); at I 77 the omitted "l'être-en-soi ou l'être-pour-nous" would have helped him. The Appendix (R §§71-77) defines monism on Hegel (R §73 ¶2), joins Kant to Hegel (R §73 ¶7), reads Hegel's time as "l'essence même de l'objectivation" (R §75), and argues against Hegel's return-in-alienation (R §76 ¶¶8-9) what Section II asserts against GA 3 §34's "back to itself". GA 3 itself sets Kant's finitude against Hegel (§45, 244). Do not read the Kantbuch's self-affection as Hegel's alienation because Henry does; test the identification each time. GA 3 §29, 150 (K 207, "« soi » ... « extériorisé »") is the one Kantbuch sentence in the Hegelian form; Henry does not quote it.
 
 ### Glossary (fixed for this run)
 
@@ -52,14 +59,18 @@ Output: outputs/henry-on-hga3-comparative-commentary.md
 - *Vorstellen* / *représentation*: "representing", "representation".
 - Henry *phénoménalité*, *manifestation*, *révélation*: "phenomenality", "manifestation", "revelation". Henry *monisme ontologique*: "ontological monism". *Conscience naturelle*: "natural consciousness".
 - Retained untranslated: Dasein (being-there).
+- Hyppolite's Hegel (checked 2026-10-05): *Erscheinung* "manifestation" (PhE I 68 n. 5); *Dasein* "être-là" (I 36 n.), rendered "existence" in English only where Hegel's sense is meant; *Wirklichkeit* "réalité effective", "effectivité" (index), rendered "actuality"; *Entäusserung* "aliénation" (II 279 n. 52), rendered "alienation"; *Entfremdung* "extranéation". Hyppolite's "être-présent" (I 198) is the source of Henry's "presence of presence" (R §17 ¶5). Henry's "près de soi" (R §§22, 33) matches Hyppolite's Hegel "près de soi-même" (bei sich, II 266, 274, 303, 309); "near itself" in English.
 
 ### Edition mappings
 
 - Henry's *K* = *Kant et le problème de la métaphysique*, trad. A. de Waelhens et W. Biemel, Gallimard 1953. Available since 2026-10-04 in the -biemel file named above; K page = PDF page minus 2. Cite as "K n / GA 3 §m, p" at first use of a locus, then the GA form.
 - The French GA 3 in the sources repo is Marc de Launay's 2023 translation. It is not Henry's edition and is not used to check his French.
+- Henry's *PhE* = Hegel, *La Phénoménologie de l'esprit*, trad. J. Hyppolite, Aubier. 47 notes in EM: Section I 5 (I 68, 331, 48; II 311, 267), Section II 11 (I 198; II 271-272; I 318, 74, 74, "7" [= 76], 77, 77, 19; II 303-304; I 25), Sections III-IV 3 (II 274; I 57; I 59), Appendix 28. Cite as "PhE I 198". Verified on page images: I 198, II 271, II 303, II 305, II 309, II 311.
+- K 207 = GA 3 §29, 150 · K 299-300 = GA 3 §45, 244 (Heidegger's Hegel).
 - GA 3 pages are read from the running heads of the German source. Offset drifts: GA page = K page minus 54 to 62.
 - Confirmed: K 84 = §4, 23 · K 92 = §5, 31 · K 97-98 = §6, 37 · K 98 = §7, 38 · K 99 = §7, 39-40 · K 138 = §17, 80 · K 141 = §17, 82 · K 148 = §19, 90 · K 149 = §19, 91 · K 156 = §21, 98 · K 157 = §21, 99 · K 159 = §21, 101 (n. 55) and §22, 101 (n. 60) · K 160 = §22, 102 · K 161 = §22, 103 · K 166 = §22, 108 · K 176 = §24, 119 · K 178-179 = §25, 121-122 · K 180 = §25, 123 · K 187 = §26, 128 · K 188 = §26, 129 · K 190 = §26, 132 · K 199 = §28, 141 · K 204 = §29, 146 · K 205 = §29, 147-148 · K 210 = §29, 153 · K 229 = §32, 173 · K 230 = §32, 174 · K 242 = §33, 187 · K 244 = §34, 189-190 · K 245 = §34, 190 · K 246 = §34, 191 · K 248 = §34, 193 · K 253 = §35, 198 · K 254 = §35, 200 · K 272 = §38, 215 · K 279 = §40, 223 · K 283 = §41, 227 · K 284 = §41, 228 · K 285 = §41, 229. All K pages above verified in the 1953 text on 2026-10-04 (K 180 also covers GA 3 §25, 124). Translators' introduction: K 19 n. 1, 21, 22, 26, 33, 37, 40-41.
 
 ## Progress
-Last completed unit: Section II, §36 ¶10, with closing paragraph (end of Section II; range complete; edition has no page numbers)
+Last completed unit: Appendix, §77, with closing paragraph (Section II complete with its closing paragraph; Appendix read by section; range complete; edition has no page numbers)
 Revision: 2026-10-04, all K quotations rechecked against the 1953 translation and its introduction; units revised where translators' renderings or Henry's own cuts are now settled.
+Revision: 2026-10-05, all PhE quotations in Section II checked against Hyppolite; uncited Hegel added (R §§18-21, 24, 25, 26, 28, 29, 31, 33, 35, 36); Section II closing paragraph revised; Appendix §§71-77 added as a closing division with its own closing paragraph.
