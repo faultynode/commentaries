@@ -54,7 +54,7 @@ Output: outputs/henry-on-hga3-comparative-commentary.md
 
 ### Glossary (fixed for this run)
 
-- Translation rule (user instruction, 2026-10-05): every German or French quotation carries an English rendering, in the citation parenthesis ("German" (English, H 126 / GA 5 137)) or as an apposition ("le fait du philosophe", the philosopher's doing). Single quoted words count. A quotation repeated within one paragraph may rely on its first rendering only if the two are in the same sentence.
+- Translation rule (user instruction, 2026-10-05): every German or French quotation carries an English rendering, in the citation parenthesis ("German" (English, H 126 / GA 5 137)) or as an apposition ("le fait du philosophe", the philosopher's doing). Single quoted words count. A quotation repeated within one paragraph may rely on its first rendering in that paragraph.
 
 - Henry *étant* and Heidegger *Seiendes*: "beings", "a being". (Commentary R's "the existent" is not adopted.)
 - Henry *l'essence*: "the essence" (of manifestation), always Henry's term.
