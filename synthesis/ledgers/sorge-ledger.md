@@ -332,7 +332,7 @@
 - `husserliana-4-ideas-ii-commentary` - 21 term hits, no record
 - `husserliana-13-basic-problems-of-phenomenology-commentary` - 20 term hits, no record
 - `husserl-krisis-commentary` - 19 term hits, no record
-- `Heidegger GA 9 - Vom Wesen des Grundes Commentary` - 17 term hits, no record
+- `heidegger-ga-9-vom-wesen-des-grundes-commentary` - 17 term hits, no record
 - `husserliana-39-die-lebenswelt-commentary` - 17 term hits, no record
 - `franck-chair-et-corps-commentary` - 16 term hits, no record
 - `husserl-prolegomena-commentary` - 16 term hits, no record

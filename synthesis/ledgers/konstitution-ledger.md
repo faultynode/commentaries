@@ -1859,7 +1859,7 @@
 - `Reduction et donation Commentary` - 35 term hits, no record
 - `heidegger-ga-19-platon-sophistes-commentary` - 34 term hits, no record
 - `picht-de-anima-commentary` - 32 term hits, no record
-- `Heidegger GA 9 - Vom Wesen des Grundes Commentary` - 24 term hits, no record
+- `heidegger-ga-9-vom-wesen-des-grundes-commentary` - 24 term hits, no record
 - `lacan-seminar-2-the-ego-in-freuds-theory-and-in-the-technique-of-psychoanalysis-commentary` - 23 term hits, no record
 - `husserl-prolegomena-commentary` - 22 term hits, no record
 - `husserliana-13-basic-problems-of-phenomenology-commentary` - 20 term hits, no record

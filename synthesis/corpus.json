@@ -2767,99 +2767,6 @@
       ]
     },
     {
-      "slug": "Heidegger GA 9 - Vom Wesen des Grundes Commentary",
-      "path": "commentaries/heidegger/Heidegger GA 9 - Vom Wesen des Grundes Commentary.md",
-      "author": "heidegger",
-      "title": "Commentary on Heidegger, \"On the Essence of Ground\" (GA 9: 123–175)",
-      "wordpress_id": null,
-      "sha256": "c733cb6d61fe7f2ed9a90bcf1a06380b58c9ae4bc5e03796460a230aa2c07e56",
-      "lines": 222,
-      "words": 17089,
-      "url": "https://faultynode.github.io/commentaries/commentaries/heidegger/Heidegger GA 9 - Vom Wesen des Grundes Commentary.html",
-      "sections": [
-        {
-          "id": "h1-commentary-on-heidegger-on-the-essence-of-ground-ga-9-123-175",
-          "level": 1,
-          "title": "Commentary on Heidegger, \"On the Essence of Ground\" (GA 9: 123–175)",
-          "path": [
-            "Commentary on Heidegger, \"On the Essence of Ground\" (GA 9: 123–175)"
-          ],
-          "anchor": "commentary-on-heidegger-on-the-essence-of-ground-ga-9-123175",
-          "line_start": 1,
-          "line_end": 6,
-          "words": 290
-        },
-        {
-          "id": "h2-preface-to-the-third-edition-1949",
-          "level": 2,
-          "title": "Preface to the Third Edition (1949)",
-          "path": [
-            "Commentary on Heidegger, \"On the Essence of Ground\" (GA 9: 123–175)",
-            "Preface to the Third Edition (1949)"
-          ],
-          "anchor": "preface-to-the-third-edition-1949",
-          "line_start": 7,
-          "line_end": 16,
-          "words": 375
-        },
-        {
-          "id": "h2-on-the-essence-of-ground",
-          "level": 2,
-          "title": "On the Essence of Ground",
-          "path": [
-            "Commentary on Heidegger, \"On the Essence of Ground\" (GA 9: 123–175)",
-            "On the Essence of Ground"
-          ],
-          "anchor": "on-the-essence-of-ground",
-          "line_start": 17,
-          "line_end": 24,
-          "words": 544
-        },
-        {
-          "id": "h3-i-the-problem-of-ground",
-          "level": 3,
-          "title": "I. The Problem of Ground",
-          "path": [
-            "Commentary on Heidegger, \"On the Essence of Ground\" (GA 9: 123–175)",
-            "On the Essence of Ground",
-            "I. The Problem of Ground"
-          ],
-          "anchor": "i-the-problem-of-ground",
-          "line_start": 25,
-          "line_end": 56,
-          "words": 2714
-        },
-        {
-          "id": "h3-ii-transcendence-as-the-domain-of-the-question-concerning-the-essence-of-ground",
-          "level": 3,
-          "title": "II. Transcendence as the Domain of the Question concerning the Essence of Ground",
-          "path": [
-            "Commentary on Heidegger, \"On the Essence of Ground\" (GA 9: 123–175)",
-            "On the Essence of Ground",
-            "II. Transcendence as the Domain of the Question concerning the Essence of Ground"
-          ],
-          "anchor": "ii-transcendence-as-the-domain-of-the-question-concerning-the-essence-of-ground",
-          "line_start": 57,
-          "line_end": 166,
-          "words": 8198
-        },
-        {
-          "id": "h3-iii-on-the-essence-of-ground",
-          "level": 3,
-          "title": "III. On the Essence of Ground",
-          "path": [
-            "Commentary on Heidegger, \"On the Essence of Ground\" (GA 9: 123–175)",
-            "On the Essence of Ground",
-            "III. On the Essence of Ground"
-          ],
-          "anchor": "iii-on-the-essence-of-ground",
-          "line_start": 167,
-          "line_end": 222,
-          "words": 4916
-        }
-      ]
-    },
-    {
       "slug": "heidegger-being-and-time-commentary",
       "path": "commentaries/heidegger/heidegger-being-and-time-commentary.md",
       "author": "heidegger",
@@ -11706,6 +11613,99 @@
           "line_start": 607,
           "line_end": 613,
           "words": 189
+        }
+      ]
+    },
+    {
+      "slug": "heidegger-ga-9-vom-wesen-des-grundes-commentary",
+      "path": "commentaries/heidegger/heidegger-ga-9-vom-wesen-des-grundes-commentary.md",
+      "author": "heidegger",
+      "title": "Heidegger, GA 9 — Vom Wesen des Grundes",
+      "wordpress_id": null,
+      "sha256": "96ba1470a3d899ce02de81ea9463694e18397622eb1c1dbea381c4d736398d48",
+      "lines": 227,
+      "words": 17102,
+      "url": "https://faultynode.github.io/commentaries/commentaries/heidegger/heidegger-ga-9-vom-wesen-des-grundes-commentary.html",
+      "sections": [
+        {
+          "id": "h1-commentary-on-heidegger-on-the-essence-of-ground-ga-9-123-175",
+          "level": 1,
+          "title": "Commentary on Heidegger, \"On the Essence of Ground\" (GA 9: 123–175)",
+          "path": [
+            "Commentary on Heidegger, \"On the Essence of Ground\" (GA 9: 123–175)"
+          ],
+          "anchor": "commentary-on-heidegger-on-the-essence-of-ground-ga-9-123175",
+          "line_start": 6,
+          "line_end": 11,
+          "words": 290
+        },
+        {
+          "id": "h2-preface-to-the-third-edition-1949",
+          "level": 2,
+          "title": "Preface to the Third Edition (1949)",
+          "path": [
+            "Commentary on Heidegger, \"On the Essence of Ground\" (GA 9: 123–175)",
+            "Preface to the Third Edition (1949)"
+          ],
+          "anchor": "preface-to-the-third-edition-1949",
+          "line_start": 12,
+          "line_end": 21,
+          "words": 375
+        },
+        {
+          "id": "h2-on-the-essence-of-ground",
+          "level": 2,
+          "title": "On the Essence of Ground",
+          "path": [
+            "Commentary on Heidegger, \"On the Essence of Ground\" (GA 9: 123–175)",
+            "On the Essence of Ground"
+          ],
+          "anchor": "on-the-essence-of-ground",
+          "line_start": 22,
+          "line_end": 29,
+          "words": 544
+        },
+        {
+          "id": "h3-i-the-problem-of-ground",
+          "level": 3,
+          "title": "I. The Problem of Ground",
+          "path": [
+            "Commentary on Heidegger, \"On the Essence of Ground\" (GA 9: 123–175)",
+            "On the Essence of Ground",
+            "I. The Problem of Ground"
+          ],
+          "anchor": "i-the-problem-of-ground",
+          "line_start": 30,
+          "line_end": 61,
+          "words": 2714
+        },
+        {
+          "id": "h3-ii-transcendence-as-the-domain-of-the-question-concerning-the-essence-of-ground",
+          "level": 3,
+          "title": "II. Transcendence as the Domain of the Question concerning the Essence of Ground",
+          "path": [
+            "Commentary on Heidegger, \"On the Essence of Ground\" (GA 9: 123–175)",
+            "On the Essence of Ground",
+            "II. Transcendence as the Domain of the Question concerning the Essence of Ground"
+          ],
+          "anchor": "ii-transcendence-as-the-domain-of-the-question-concerning-the-essence-of-ground",
+          "line_start": 62,
+          "line_end": 171,
+          "words": 8198
+        },
+        {
+          "id": "h3-iii-on-the-essence-of-ground",
+          "level": 3,
+          "title": "III. On the Essence of Ground",
+          "path": [
+            "Commentary on Heidegger, \"On the Essence of Ground\" (GA 9: 123–175)",
+            "On the Essence of Ground",
+            "III. On the Essence of Ground"
+          ],
+          "anchor": "iii-on-the-essence-of-ground",
+          "line_start": 172,
+          "line_end": 227,
+          "words": 4916
         }
       ]
     },

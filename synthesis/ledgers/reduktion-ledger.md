@@ -1484,8 +1484,8 @@
 - `heidegger-ga-61-phenomenological-interpretations-of-aristotle-commentary` - 3 term hits, no record
 - `husserl-erfahrung-und-urteil-commentary` - 3 term hits, no record
 - `lacan-seminar-2-the-ego-in-freuds-theory-and-in-the-technique-of-psychoanalysis-commentary` - 3 term hits, no record
-- `Heidegger GA 9 - Vom Wesen des Grundes Commentary` - 2 term hits, no record
 - `aristotle-de-anima-commentary` - 2 term hits, no record
+- `heidegger-ga-9-vom-wesen-des-grundes-commentary` - 2 term hits, no record
 - `husserliana-19-2-sixth-logical-investigation-commentary` - 2 term hits, no record
 - `husserliana-3-ideas-i-commentary` - 2 term hits, no record
 - `husserliana-43-2-studien-zur-struktur-des-bewusstseins-commentary` - 2 term hits, no record

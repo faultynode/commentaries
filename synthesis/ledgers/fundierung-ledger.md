@@ -1764,7 +1764,7 @@
 - `kern-husserl-and-kant-commentary` - 40 term hits, no record
 - `derrida-la-voix-et-le-phenomene-commentary` - 29 term hits, no record
 - `franck-heidegger-and-the-problem-of-space-commentary` - 28 term hits, no record
-- `Heidegger GA 9 - Vom Wesen des Grundes Commentary` - 27 term hits, no record
+- `heidegger-ga-9-vom-wesen-des-grundes-commentary` - 27 term hits, no record
 - `leibniz-monadology-commentary` - 22 term hits, no record
 - `husserliana-13-editors-introduction-commentary` - 18 term hits, no record
 - `aristotle-de-anima-commentary` - 16 term hits, no record

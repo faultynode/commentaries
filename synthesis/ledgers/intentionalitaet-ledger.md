@@ -3452,7 +3452,7 @@
 - `derrida-la-voix-et-le-phenomene-commentary` - 14 term hits, no record
 - `husserliana-13-basic-problems-of-phenomenology-commentary` - 14 term hits, no record
 - `lacan-seminar-1-freuds-papers-on-technique-commentary` - 10 term hits, no record
-- `Heidegger GA 9 - Vom Wesen des Grundes Commentary` - 9 term hits, no record
+- `heidegger-ga-9-vom-wesen-des-grundes-commentary` - 9 term hits, no record
 - `husserliana-26-theory-of-meaning-commentary` - 7 term hits, no record
 - `lacan-seminar-11-the-four-fundamental-concepts-of-psychoanalysis-commentary` - 5 term hits, no record
 - `franck-heidegger-and-the-problem-of-space-commentary` - 2 term hits, no record
