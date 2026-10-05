@@ -1,0 +1,486 @@
+{
+  "schema_version": 1,
+  "theme": "transzendenz",
+  "commentary": "bernet-la-vie-du-sujet-commentary",
+  "source_sha256": "4269d26270bb4f610dfccc053738781719d3fd12980aa525092b4633187232af",
+  "extracted_at": "2026-10-05",
+  "extractor": {
+    "agent": "claude-code",
+    "model": "claude-opus-5-5",
+    "prompt": "synthesis/prompts/extraction-prompt.md"
+  },
+  "coverage": "partial",
+  "coverage_note": "Read in full: the opening note, Foreword, Introduction (Husserl and Heidegger) and chapter I.1 'Intentionality and Transcendence' (lines 5-202). Everywhere else, chapters I.2-III.4 and the Conclusion, only the paragraphs containing a theme term were read. Absences are claimed only inside the fully read stretch.",
+  "units": [
+    {
+      "id": "transzendenz/bernet/001",
+      "locator": "bernet-la-vie-du-sujet-commentary#h1-rudolf-bernet-la-vie-du-sujet-recherches-sur-l-interpretation-de-husserl-dans-la",
+      "term": "transcendence within immanence",
+      "status": "introduced",
+      "claim": "The commentary names 'transcendence within immanence' as the formula Bernet defends against both Henry's pure immanence and Merleau-Ponty's pure transcendence.",
+      "quote": "\"transcendence within immanence\" is the formula Bernet defends against both Henry's pure immanence and Merleau-Ponty's pure transcendence."
+    },
+    {
+      "id": "transzendenz/bernet/002",
+      "locator": "bernet-la-vie-du-sujet-commentary#h2-foreword",
+      "primary_locator": "p. 2",
+      "stratum": "bernet-vie-1994",
+      "term": "transcendence within immanence",
+      "status": "criticized",
+      "claim": "Merleau-Ponty and Henry press transcendence and immanence respectively until they endanger a subjectivity understood as transcendence within immanence.",
+      "quote": "Merleau-Ponty and Henry, closer to Husserl's implicit aspirations, press transcendence and immanence respectively until they endanger what was most original in a subjectivity understood as \"transcendence within immanence\"."
+    },
+    {
+      "id": "transzendenz/bernet/003",
+      "locator": "bernet-la-vie-du-sujet-commentary#h2-introduction-the-phenomenological-reduction-and-the-subject-s-double-life",
+      "primary_locator": "p. 7",
+      "stratum": "bernet-vie-1994",
+      "term": "transcendence",
+      "status": "criticized",
+      "claim": "Henry rejects the presupposition that all appearing is intentionality or ecstatic transcendence, and holds that the appearing of transcendence is a derived form grounded in Life's auto-affection.",
+      "quote": "Against the presupposition that every givenness is an affection of the subject's immanence by something exceeding it, Henry demands room for the duplicity of appearing and the recognition that the appearing of transcendence is a derived form"
+    },
+    {
+      "id": "transzendenz/bernet/004",
+      "locator": "bernet-la-vie-du-sujet-commentary#h4-the-being-of-the-world-and-the-being-of-constituting-consciousness",
+      "primary_locator": "pp. 11-12",
+      "stratum": "bernet-vie-1994",
+      "term": "übersteigen",
+      "status": "introduced",
+      "claim": "In a marginal note to Fink's Sixth Meditation, Husserl says that whoever transcends his natural self and empirical being-human performs a leap into the reduction.",
+      "quote": "As Husserl puts it in a marginal note, whoever tears himself from his fixation on the world, who transcends (*übersteigen*) \"his natural self, his [empirical] being-human\", performs a \"leap\" (*Sprung*)."
+    },
+    {
+      "id": "transzendenz/bernet/005",
+      "locator": "bernet-la-vie-du-sujet-commentary#h3-heidegger",
+      "primary_locator": "pp. 21-22",
+      "stratum": "bernet-vie-1994",
+      "term": "transcendence",
+      "status": "introduced",
+      "claim": "In speaking of the transcendence of Dasein's being-in-the-world Heidegger does more than rename Husserlian intentionality: he opens a new interrogation of the phenomenality of the phenomenon.",
+      "quote": "When Heidegger speaks of the \"transcendence\" characterizing Dasein's \"being-in-the-world\" he does much more than rename Husserlian intentionality: he inaugurates a new interrogation of the phenomenality of the phenomenon."
+    },
+    {
+      "id": "transzendenz/bernet/006",
+      "locator": "bernet-la-vie-du-sujet-commentary#h4-the-being-of-intentional-consciousness",
+      "primary_locator": "pp. 52-53",
+      "stratum": "bernet-vie-1994",
+      "term": "transcendence of Dasein",
+      "status": "introduced",
+      "claim": "For Heidegger the phenomenological investigation of intentionality issues in the discovery of Dasein's transcendence, which proves to be the ontological foundation of intentionality.",
+      "quote": "In sum: the phenomenological investigation of intentionality issues in the discovery of Dasein's transcendence, which in turn proves to be the ontological foundation of intentionality."
+    },
+    {
+      "id": "transzendenz/bernet/007",
+      "locator": "bernet-la-vie-du-sujet-commentary#h4-the-being-of-intentional-consciousness",
+      "primary_locator": "pp. 55-56",
+      "stratum": "bernet-vie-1994",
+      "term": "immanent and transcendent objects",
+      "status": "criticized",
+      "claim": "In Heidegger's reconstruction, Husserl's idealism interprets the being of every being by the distinction between immanent and transcendent objects for a present consciousness.",
+      "quote": "Second, it interprets the sense of being of every being in terms of the distinction between immanent and transcendent objects, so that to be is to be either an immanent or a transcendent object for a present consciousness."
+    },
+    {
+      "id": "transzendenz/bernet/008",
+      "locator": "bernet-la-vie-du-sujet-commentary#h4-the-being-of-intentional-consciousness",
+      "primary_locator": "pp. 55-56",
+      "stratum": "bernet-vie-1994",
+      "term": "transcendent objects",
+      "status": "criticized",
+      "claim": "On that reading, transcendent objects have a relative, presumptive existence and transcendental consciousness an absolute existence that would survive the annihilation of the world.",
+      "quote": "whence the relative, presumptive existence of transcendent objects and the absolute, necessary existence of a transcendental consciousness that would survive an annihilation of the world without difficulty."
+    },
+    {
+      "id": "transzendenz/bernet/009",
+      "locator": "bernet-la-vie-du-sujet-commentary#h4-the-being-of-intentional-consciousness",
+      "primary_locator": "p. 56",
+      "stratum": "bernet-vie-1994",
+      "term": "transcendence",
+      "status": "revised",
+      "claim": "Heidegger contests that intentionality resides in a sphere of immanence: the subject of intentionality is a being whose being is openness, transcendence.",
+      "quote": "far from constituting a self-enclosed and absolute domain of being, as Husserl would have it, the subject of intentionality is a being whose being is openness, transcendence"
+    },
+    {
+      "id": "transzendenz/bernet/010",
+      "locator": "bernet-la-vie-du-sujet-commentary#h4-the-being-of-intentional-consciousness",
+      "primary_locator": "p. 57",
+      "stratum": "bernet-vie-1994",
+      "term": "transcendence of Dasein",
+      "status": "criticized",
+      "claim": "Heidegger's chief reproach is that Husserl did not carry the analysis of intentionality through to its ontological foundation in Dasein's transcendence.",
+      "quote": "Heidegger's chief reproach is that Husserl did not carry his analysis of intentionality through to its ontological foundation in Dasein's transcendence."
+    },
+    {
+      "id": "transzendenz/bernet/011",
+      "locator": "bernet-la-vie-du-sujet-commentary#h4-the-being-of-intentional-consciousness",
+      "primary_locator": "pp. 58-59",
+      "stratum": "bernet-vie-1994",
+      "term": "transcendence",
+      "status": "presupposed",
+      "claim": "The pre-understanding of world presupposed in intentional discovering shows the being of the intentional as openness and transcendence, whose horizon leads to ecstatic-horizonal temporality.",
+      "quote": "that pre-understanding informs us about the being of the intentional as existential openness and transcendence; and transcendence with its horizon introduces us to the ecstatic-horizonal nature of temporality."
+    },
+    {
+      "id": "transzendenz/bernet/012",
+      "locator": "bernet-la-vie-du-sujet-commentary#h4-intentionality-and-transcendence",
+      "primary_locator": "pp. 60-61",
+      "stratum": "bernet-vie-1994",
+      "term": "transcendence",
+      "status": "introduced",
+      "claim": "For Heidegger the understanding of the being of things and of the self are bound together by the intentionality of being-in-the-world, which is more properly called transcendence.",
+      "quote": "For Heidegger the two ontological questions are necessarily bound together, in virtue of the intentionality of being-in-the-world, which permits at once the understanding of the being of things and the understanding of the being of the self (*Selbst*); and that intentionality of being-in-the-world is more properly called transcendence."
+    },
+    {
+      "id": "transzendenz/bernet/013",
+      "locator": "bernet-la-vie-du-sujet-commentary#h4-intentionality-and-transcendence",
+      "primary_locator": "p. 61",
+      "stratum": "bernet-vie-1994",
+      "term": "transcendence",
+      "status": "revised",
+      "claim": "Understanding any being is a matter of transcendence, a form of intentionality preceding the distinction of subject and object, so Husserlian intentionality, if essentially different, contributes nothing to ontology.",
+      "quote": "Understanding being, whatever being is in question, is a matter of transcendence, and transcendence is a form of intentionality preceding the distinction between subject and object, interiority and exteriority."
+    },
+    {
+      "id": "transzendenz/bernet/014",
+      "locator": "bernet-la-vie-du-sujet-commentary#h4-intentionality-and-transcendence",
+      "primary_locator": "pp. 61-62",
+      "stratum": "bernet-vie-1994",
+      "term": "Urtranszendenz",
+      "status": "presupposed",
+      "claim": "Heidegger everywhere treats the relation as founding: intentionality is ontic transcendence grounded in the primal transcendence of being-in-the-world.",
+      "quote": "everywhere he envisages the relation as one of founding: intentionality is an ontic comportment, an \"ontic transcendence\", finding its ontological foundation in the primal transcendence (*Urtranszendenz*) of being-in-the-world."
+    },
+    {
+      "id": "transzendenz/bernet/015",
+      "locator": "bernet-la-vie-du-sujet-commentary#h4-intentionality-and-transcendence",
+      "primary_locator": "pp. 62-63",
+      "stratum": "bernet-vie-1994",
+      "term": "transcendence",
+      "status": "revised",
+      "claim": "There is no pure transcendence; intentionality is one of the ways transcendence is ordinarily accomplished, first in ontic comportment and concern.",
+      "quote": "There is no pure transcendence: intentionality is one of the ways transcendence is ordinarily accomplished."
+    },
+    {
+      "id": "transzendenz/bernet/016",
+      "locator": "bernet-la-vie-du-sujet-commentary#h4-intentionality-and-transcendence",
+      "primary_locator": "pp. 62-63",
+      "stratum": "bernet-vie-1994",
+      "term": "transcendence",
+      "status": "introduced",
+      "claim": "Heidegger's formula is that intentionality is the ratio cognoscendi of transcendence and transcendence the ratio essendi of intentionality.",
+      "quote": "Hence Heidegger's slightly scholastic formula for their mutual relation: intentionality is the *ratio cognoscendi* of transcendence, and transcendence the *ratio essendi* of intentionality in its various modes."
+    },
+    {
+      "id": "transzendenz/bernet/017",
+      "locator": "bernet-la-vie-du-sujet-commentary#h4-intentionality-and-transcendence",
+      "primary_locator": "pp. 62-63",
+      "stratum": "bernet-vie-1994",
+      "term": "transcendence",
+      "status": "presupposed",
+      "claim": "The echo of Kant's freedom and moral law is not fortuitous, since transcendence is a freedom that first imposes itself on Dasein as a constraint.",
+      "quote": "the verbal association is neither wholly fortuitous nor insignificant, since transcendence is a freedom that first imposes itself on Dasein as a constraint"
+    },
+    {
+      "id": "transzendenz/bernet/018",
+      "locator": "bernet-la-vie-du-sujet-commentary#h4-intentionality-and-transcendence",
+      "primary_locator": "pp. 63-64",
+      "stratum": "bernet-vie-1994",
+      "term": "transcendence",
+      "status": "presupposed",
+      "claim": "For Heidegger the subject is a burst, disseminated unity because Dasein's being-in-the-world is intentionality without reserve, that is, transcendence.",
+      "quote": "for Heidegger the subject is a burst, disseminated unity (*Streuung*, *Zerstreuung*), since Dasein's being-in-the-world is an intentionality without reserve, that is, transcendence."
+    },
+    {
+      "id": "transzendenz/bernet/019",
+      "locator": "bernet-la-vie-du-sujet-commentary#h4-intentionality-and-transcendence",
+      "primary_locator": "pp. 63-64",
+      "stratum": "bernet-vie-1994",
+      "term": "intentionality as transcendence",
+      "status": "introduced",
+      "claim": "Husserl came closest to a conception of intentionality as transcendence in his phenomenology of time and temporalization.",
+      "quote": "It is doubtless in his phenomenology of time and temporalization that Husserl came closest to a conception of intentionality as transcendence"
+    },
+    {
+      "id": "transzendenz/bernet/020",
+      "locator": "bernet-la-vie-du-sujet-commentary#h4-the-noema-as-phenomenologically-reduced-object",
+      "primary_locator": "pp. 77-78",
+      "stratum": "bernet-vie-1994",
+      "term": "transcends",
+      "status": "presupposed",
+      "claim": "The real thing, as an Idea in the Kantian sense, transcends both the single appearances and the noematic unity offered in a manifold of them.",
+      "quote": "The real thing therefore transcends not only the conscious appearances taken one by one but also the noematic unity intuitively offered in a manifold of them."
+    },
+    {
+      "id": "transzendenz/bernet/021",
+      "locator": "bernet-la-vie-du-sujet-commentary#h4-the-noema-as-phenomenologically-reduced-object",
+      "primary_locator": "p. 78",
+      "stratum": "bernet-vie-1994",
+      "term": "transcendence",
+      "status": "revised",
+      "claim": "Husserl moves from the natural distinction of immanence and transcendence, through an attempt to reduce transcendence to immanence, to an irreducible difference between the spatial object's transcendence and its immanent modes of givenness.",
+      "quote": "attempts in idealist style to reduce transcendence to immanence, and finds himself forced to extend that immanence to the domain of noematic data, before finally returning to the transcendental-phenomenological finding of an irreducible difference between the transcendence of the spatial object and its immanent noetic-noematic modes of givenness."
+    },
+    {
+      "id": "transzendenz/bernet/022",
+      "locator": "bernet-la-vie-du-sujet-commentary#h3-3-the-world-husserl",
+      "primary_locator": "pp. 93-94",
+      "stratum": "bernet-vie-1994",
+      "term": "transcending",
+      "status": "introduced",
+      "claim": "By transcending the things of the world, the reduction reveals at one stroke the world as world and the subject as subject.",
+      "quote": "By transcending the things of the world the reduction reveals at one stroke the world as world and the subject as subject."
+    },
+    {
+      "id": "transzendenz/bernet/023",
+      "locator": "bernet-la-vie-du-sujet-commentary#h4-i",
+      "primary_locator": "pp. 97-98",
+      "stratum": "bernet-vie-1994",
+      "term": "transcendent world",
+      "status": "criticized",
+      "claim": "The hypothesis of the world's annihilation rests on a Cartesian dualism between immanent consciousness and the transcendent world, which blocks understanding of constitution.",
+      "quote": "It rests on the Cartesian-type ontological dualism between the evident being of immanent consciousness and the dubitable being of the transcendent world, a dualism that at bottom obstructs any understanding of what transcendental constitution of the world by the subject means."
+    },
+    {
+      "id": "transzendenz/bernet/024",
+      "locator": "bernet-la-vie-du-sujet-commentary#h4-i",
+      "primary_locator": "pp. 103-104",
+      "stratum": "bernet-vie-1994",
+      "term": "transcendence",
+      "status": "introduced",
+      "claim": "Intramundane comportments are doubly constituting: their intentionality carries them toward things and persons, and their transcendence reveals and shapes the world.",
+      "quote": "Intramundane comportments are thus doubly constituting: their intentionality carries them toward things and persons, and their transcendence reveals and shapes the world."
+    },
+    {
+      "id": "transzendenz/bernet/025",
+      "locator": "bernet-la-vie-du-sujet-commentary#h4-ii",
+      "primary_locator": "pp. 106-107",
+      "stratum": "bernet-vie-1994",
+      "term": "transcending",
+      "status": "presupposed",
+      "claim": "Because the surrounding world transcends everything in it, it can manifest itself only to a subject capable of transcending its commerce with intramundane beings, as in birth and death.",
+      "quote": "Since the surrounding world transcends everything belonging to it, it can manifest itself only to a subject capable of transcending its commerce with the intramundane beings belonging to it"
+    },
+    {
+      "id": "transzendenz/bernet/026",
+      "locator": "bernet-la-vie-du-sujet-commentary#h4-ii",
+      "primary_locator": "p. 108",
+      "stratum": "bernet-vie-1994",
+      "term": "transcendence",
+      "status": "presupposed",
+      "claim": "For Husserl the surrounding world and the universal world reveal themselves as forms of transcendence exceeding one's being-in-the-world.",
+      "quote": "For Husserl the surrounding world and the universal world reveal themselves as forms of transcendence exceeding one's being-in-the-world, from which one nonetheless receives the full understanding of one's existence-in-the-world"
+    },
+    {
+      "id": "transzendenz/bernet/027",
+      "locator": "bernet-la-vie-du-sujet-commentary#h4-iii",
+      "primary_locator": "pp. 113-114",
+      "stratum": "bernet-vie-1994",
+      "term": "transcending",
+      "status": "presupposed",
+      "claim": "In both Husserl and Sein und Zeit, the revelation of the world depends on a subject transcending its immediate environment and its being-in-the-world.",
+      "quote": "The revelation of the world depends on a subject transcending its immediate environment and its being-in-the-world"
+    },
+    {
+      "id": "transzendenz/bernet/028",
+      "locator": "bernet-la-vie-du-sujet-commentary#h4-iii",
+      "primary_locator": "p. 116",
+      "stratum": "bernet-vie-1994",
+      "term": "transcendence",
+      "status": "criticized",
+      "claim": "Husserl's notion of constitution does not permit the full measure of the world's transcendence to be taken, exaggerating what the subject does for the world's manifestation.",
+      "quote": "Husserl's notion of constitution does not permit the full measure of the world's transcendence to be taken"
+    },
+    {
+      "id": "transzendenz/bernet/029",
+      "locator": "bernet-la-vie-du-sujet-commentary#h4-iii",
+      "primary_locator": "pp. 117-118",
+      "stratum": "bernet-vie-1994",
+      "term": "transcendence",
+      "status": "revised",
+      "claim": "Rather than revealing itself as the work of human beings, the world reveals to them the finitude of their transcendence.",
+      "quote": "Rather than revealing itself as the work of human beings, the world reveals to them the finitude of their transcendence."
+    },
+    {
+      "id": "transzendenz/bernet/030",
+      "locator": "bernet-la-vie-du-sujet-commentary#h4-i-2",
+      "primary_locator": "pp. 124-125",
+      "stratum": "bernet-vie-1994",
+      "term": "transcendence",
+      "status": "presupposed",
+      "claim": "Husserl repeats that the intentional object of perception is the real object, and the reduction takes nothing away from its external transcendence.",
+      "quote": "the reduction — while determining the reality of that object in terms of the intuitive character of the representation or intentional consciousness relating to it — takes nothing away from its external transcendence."
+    },
+    {
+      "id": "transzendenz/bernet/031",
+      "locator": "bernet-la-vie-du-sujet-commentary#h4-ii-2",
+      "primary_locator": "pp. 133-134",
+      "stratum": "bernet-vie-1994",
+      "term": "transcendence within immanence",
+      "status": "introduced",
+      "claim": "Depending on constituting consciousness without coinciding with it, the perceived spatial thing is a transcendence within immanence, an object for consciousness, not in it.",
+      "quote": "Depending on constituting consciousness without coinciding with it, the thing is a transcendence within immanence: the spatial thing is an object *for* perceptual consciousness, not an object *in* consciousness or a moment of consciousness."
+    },
+    {
+      "id": "transzendenz/bernet/032",
+      "locator": "bernet-la-vie-du-sujet-commentary#h4-i-3",
+      "primary_locator": "pp. 173-174",
+      "stratum": "bernet-vie-1994",
+      "term": "transcendence",
+      "status": "introduced",
+      "claim": "In Merleau-Ponty, nature, the pregiven symbolic system of the body, appears as a primordial form of transcendence guiding bodily existence.",
+      "quote": "Nature thus appears as a primordial form of transcendence which from the origin accompanies and guides the movement of bodily existence."
+    },
+    {
+      "id": "transzendenz/bernet/033",
+      "locator": "bernet-la-vie-du-sujet-commentary#h4-i-4",
+      "primary_locator": "p. 198",
+      "stratum": "bernet-vie-1994",
+      "term": "transcendence",
+      "status": "presupposed",
+      "claim": "In retention Husserl's phenomenology of time runs up against an intentionality of a singular kind which Heidegger will call transcendence.",
+      "quote": "it is here that his phenomenology of time innovates most radically and runs up against that intentionality of a singular kind which Heidegger will call transcendence"
+    },
+    {
+      "id": "transzendenz/bernet/034",
+      "locator": "bernet-la-vie-du-sujet-commentary#h4-ii-4",
+      "primary_locator": "p. 202",
+      "stratum": "bernet-vie-1994",
+      "term": "transcendence",
+      "status": "presupposed",
+      "claim": "The double intentionality of the flux and the temporality of the transcendence of being-in-the-world are analogous, but Heidegger turns away from a temporality in the immanence of consciousness.",
+      "quote": "The analyses of the double intentionality of the flux and of the temporality of the transcendence of being-in-the-world thus show important analogies."
+    },
+    {
+      "id": "transzendenz/bernet/035",
+      "locator": "bernet-la-vie-du-sujet-commentary#h4-iii-4",
+      "primary_locator": "pp. 210-211",
+      "stratum": "bernet-vie-1994",
+      "term": "transcendence",
+      "status": "revised",
+      "claim": "The double intentionality of the flux is a non-objectivating ecstatic intentionality and therefore more properly transcendence.",
+      "quote": "Likewise the double intentionality of the flux is singular, being a non-objectivating ecstatic intentionality and therefore more properly transcendence"
+    },
+    {
+      "id": "transzendenz/bernet/036",
+      "locator": "bernet-la-vie-du-sujet-commentary#h4-iii-4",
+      "primary_locator": "pp. 211-212",
+      "stratum": "bernet-vie-1994",
+      "term": "transcendence",
+      "status": "presupposed",
+      "claim": "For Heidegger the originary impulse of temporalization makes Dasein's transcendence come about, whereas Husserl keeps an atemporal pure I this side of the flux.",
+      "quote": "For Heidegger it is temporality, or rather the originary impulse (*Schwung*) of temporalization, that makes Dasein's transcendence come about."
+    },
+    {
+      "id": "transzendenz/bernet/037",
+      "locator": "bernet-la-vie-du-sujet-commentary#h4-iii-4",
+      "primary_locator": "p. 213",
+      "stratum": "bernet-vie-1994",
+      "term": "transcendence",
+      "status": "criticized",
+      "claim": "Husserl exceeds the frame of pure consciousness in discovering the transcendence at work in the flux, but the temporal sense of the being of absolute consciousness and its transcendence remains unexplored.",
+      "quote": "If the ecstases of the flux permit a first approach to the temporal sense of the being of present-at-hand beings, the temporal sense of the being of absolute consciousness itself and of its transcendence remains largely unexplored in Husserl."
+    },
+    {
+      "id": "transzendenz/bernet/038",
+      "locator": "bernet-la-vie-du-sujet-commentary#h4-iii-4",
+      "primary_locator": "pp. 213-214",
+      "stratum": "bernet-vie-1994",
+      "term": "world-time",
+      "status": "presupposed",
+      "claim": "For Heidegger world-time, as the temporal condition of possibility of transcendence, determines the temporal sense of the being of all beings.",
+      "quote": "As the temporal condition of possibility of transcendence, world-time determines the temporal (*temporal*) sense of the being of all beings, whether Dasein, present-at-hand things, or ready-to-hand things."
+    },
+    {
+      "id": "transzendenz/bernet/039",
+      "locator": "bernet-la-vie-du-sujet-commentary#h4-ii-6",
+      "primary_locator": "pp. 286-287",
+      "stratum": "bernet-vie-1994",
+      "term": "transcendence",
+      "status": "introduced",
+      "claim": "Following Merleau-Ponty, the present is not absolute coincidence but difference, the thing as transcendence, always behind, beyond, distant.",
+      "quote": "one must pass from the thing as identity to the thing as difference, that is, as transcendence, as always \"behind\", beyond, distant — even the present is not absolute coincidence without transcendence"
+    },
+    {
+      "id": "transzendenz/bernet/040",
+      "locator": "bernet-la-vie-du-sujet-commentary#h2-conclusion-an-intentional-life-without-subject-or-object",
+      "primary_locator": "pp. 298-299",
+      "stratum": "bernet-vie-1994",
+      "term": "transcendence of being-in-the-world",
+      "status": "presupposed",
+      "claim": "Husserl's non-objectivating originary intentionality is better known as operative intentionality, the transcendence of being-in-the-world, or perceptual faith.",
+      "quote": "This originary intentionality is better known under other names — operative intentionality (Fink), transcendence of being-in-the-world (Heidegger), perceptual faith (Merleau-Ponty)."
+    },
+    {
+      "id": "transzendenz/bernet/041",
+      "locator": "bernet-la-vie-du-sujet-commentary#h4-genesis-of-egological-subjectivism",
+      "primary_locator": "p. 302",
+      "stratum": "bernet-vie-1994",
+      "term": "transcendence of the ego",
+      "status": "introduced",
+      "claim": "For Sartre the pure I is harmful because it gives the subject a retreat outside the world, whereas the transcendence of the ego shows that person and world are cut from the same cloth.",
+      "quote": "For Sartre, by contrast, the pure I is not only useless but harmful: it assures the subject an illusory retreat outside the world, whereas the transcendence of the ego shows that the human person and the world are cut from the same cloth."
+    },
+    {
+      "id": "transzendenz/bernet/042",
+      "locator": "bernet-la-vie-du-sujet-commentary#h4-genesis-of-egological-subjectivism",
+      "primary_locator": "pp. 306-307",
+      "stratum": "bernet-vie-1994",
+      "term": "transcendence within immanence",
+      "status": "revised",
+      "claim": "In Ideen I the pure I, inseparable from yet never coinciding with its lived experiences, is properly a transcendence within immanence.",
+      "quote": "It is therefore properly speaking \"a transcendence within immanence\" — atemporal and yet nothing without the temporality of lived experiences, source of the gaze and yet nothing without what gives itself to be seen for it"
+    },
+    {
+      "id": "transzendenz/bernet/043",
+      "locator": "bernet-la-vie-du-sujet-commentary#h4-genesis-of-egological-subjectivism",
+      "primary_locator": "p. 307",
+      "stratum": "bernet-vie-1994",
+      "term": "transcendence",
+      "status": "criticized",
+      "claim": "Sartre makes the appearing I a transcendent object produced by reflection, while Henry holds that the subject's life can never appear as the transcendence of an intentional object.",
+      "quote": "the first by making the appearing I a transcendent object produced *ex nihilo* by reflection, the second by affirming that the life of the subject can never appear in the form of the transcendence of an intentional object."
+    },
+    {
+      "id": "transzendenz/bernet/044",
+      "locator": "bernet-la-vie-du-sujet-commentary#h3-overcoming-subjectivism-and-objectivism-in-husserl",
+      "primary_locator": "pp. 315-316",
+      "stratum": "bernet-vie-1994",
+      "term": "transcendence",
+      "status": "criticized",
+      "claim": "Henry takes the auto-affection of subjective life to be a purely impressional consciousness without relation to intentionality or transcendence, which risks an ontological dualism of subject and world.",
+      "quote": "he considers this auto-affection of subjective life the business of a purely impressional consciousness without relation to any form of intentionality or transcendence. One may ask whether this does not lead to an ontological dualism opposing subject to world"
+    },
+    {
+      "id": "transzendenz/bernet/045",
+      "locator": "bernet-la-vie-du-sujet-commentary#h3-conclusion",
+      "primary_locator": "p. 326",
+      "stratum": "bernet-vie-1994",
+      "term": "transcending",
+      "status": "presupposed",
+      "claim": "Because the subject is divided by a double intentionality, it appears to itself as transcending itself toward things and so in its difference from them.",
+      "quote": "It follows that the subject appears to itself as transcending itself toward things and therefore also in its difference from the things of the world."
+    },
+    {
+      "id": "transzendenz/bernet/046",
+      "locator": "bernet-la-vie-du-sujet-commentary#h3-conclusion",
+      "primary_locator": "p. 327",
+      "stratum": "bernet-vie-1994",
+      "term": "transcendence within immanence",
+      "status": "revised",
+      "claim": "The subject's relation to the appearing of its own life is a further figure of transcendence within immanence, the key to Husserl's theory of intentionality.",
+      "quote": "The subject's relation to (the appearing of) its life is therefore a supplementary figure of that \"transcendence within immanence\" which does indeed seem to be the key to the Husserlian theory of intentionality."
+    }
+  ],
+  "absences": [
+    {
+      "locator": "bernet-la-vie-du-sujet-commentary#h4-the-being-of-the-ready-to-hand-and-the-being-of-concerned-dasein-inauthentic-exi",
+      "expected_because": "The section presents Heidegger's first reduction as revealing the being of the world and of concerned Dasein's being-in-the-world, the structure the Heidegger part of the Introduction calls transcendence.",
+      "note": "The analysis runs entirely through reference, world, familiarity, absence and atopy; neither transcendence nor surpassing is named."
+    },
+    {
+      "locator": "bernet-la-vie-du-sujet-commentary#h4-the-being-of-the-world-as-world-and-dasein-s-being-in-the-world-authentic-existe",
+      "expected_because": "Anxiety is presented as the second reduction in which 'the world as world' announces itself and Dasein is individualized as being-in-the-world, the place where transcendence would be expected.",
+      "note": "The section speaks of world, being-in-the-world, auto-affection and solitude, not of transcendence."
+    }
+  ]
+}
