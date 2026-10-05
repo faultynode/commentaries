@@ -10,11 +10,11 @@ Sources are in the sources repo; locate its checkout before reading
 R cites P in: French translation (A. de WAELHENS et W. BIEMEL, 1953), "K" + page.
   Translation text: sources/heidegger/heidegger-ga-3-kant-et-le-probleme-de-la-metaphysique-biemel.md
     (re-OCR, PDF pp. 67-304; K page = PDF page minus 2; pagination is Henry's).
-  Translators' introduction (K 9 to about 60): only in
-    sources/heidegger/heidegger-kant-et-le-probleme-de-la-metaphysique.md, an older
-    conversion of the same edition. Its pp. 10-41 are usable; from p. 42 on, and
-    throughout the main text, it has 16 runs of looping invented text and 130 missing
-    page heads. Do not use it for the translation itself.
+  Translators' introduction (K 9 to about 60): since 2026-10-05 in the front matter of
+    the same -biemel file, moved there from an older conversion that had invented text
+    and was then deleted. Its markers are printed page numbers (= K), some pages have
+    none, and an invented passage at K ~41-44 was cut and marked GAP. Nothing
+    cross-checks it.
   Check every quotation against the French and the German. Say whether a departure
   from the German is the translators' rendering or Henry's own cut; count a
   translators' rendering against Henry only where his argument rests on it.
