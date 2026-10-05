@@ -1,0 +1,490 @@
+{
+  "schema_version": 1,
+  "theme": "transzendenz",
+  "commentary": "heidegger-ga-9-vom-wesen-des-grundes-commentary",
+  "source_sha256": "96ba1470a3d899ce02de81ea9463694e18397622eb1c1dbea381c4d736398d48",
+  "extracted_at": "2026-10-05",
+  "extractor": {
+    "agent": "claude-code",
+    "model": "claude-opus-5-5",
+    "prompt": "synthesis/prompts/extraction-prompt.md",
+    "note": "Read the whole commentary, lines 6-226, in order. Marginal notes from Heidegger's later copies are recorded without a stratum, since the commentary dates them separately from the 1929 text."
+  },
+  "coverage": "complete",
+  "units": [
+    {
+      "id": "transzendenz/ga9/001",
+      "locator": "heidegger-ga-9-vom-wesen-des-grundes-commentary#h1-commentary-on-heidegger-on-the-essence-of-ground-ga-9-123-175",
+      "term": "transcendence",
+      "status": "criticized",
+      "claim": "The commentary sets aside the reading of transcendence as an object's transcendence beyond consciousness or God's beyond the world, and fixes it as Dasein's surpassing of beings toward world.",
+      "quote": "Transcendence here is not the transcendence of an object beyond consciousness or of God beyond the world; it is Dasein's surpassing of beings toward world."
+    },
+    {
+      "id": "transzendenz/ga9/002",
+      "locator": "heidegger-ga-9-vom-wesen-des-grundes-commentary#h2-on-the-essence-of-ground",
+      "primary_locator": "GA 9: 124-126",
+      "stratum": "ga9-wdg-1929",
+      "term": "transcendence",
+      "status": "introduced",
+      "claim": "The domain within which the essence of ground can be treated is transcendence, and the problem of ground in turn determines transcendence more originally.",
+      "quote": "That domain is transcendence, and the relation runs both ways: the problem of ground in turn determines transcendence more originally."
+    },
+    {
+      "id": "transzendenz/ga9/003",
+      "locator": "heidegger-ga-9-vom-wesen-des-grundes-commentary#h3-i-the-problem-of-ground",
+      "primary_locator": "GA 9: 133-135",
+      "stratum": "ga9-wdg-1929",
+      "term": "transcendence of Dasein",
+      "status": "introduced",
+      "claim": "The capacity to distinguish being from beings must be rooted in the ground of Dasein's essence, and Heidegger provisionally names this ground of the ontological difference the transcendence of Dasein.",
+      "quote": "Heidegger names this ground of the difference, provisionally, the transcendence of Dasein."
+    },
+    {
+      "id": "transzendenz/ga9/004",
+      "locator": "heidegger-ga-9-vom-wesen-des-grundes-commentary#h3-i-the-problem-of-ground",
+      "primary_locator": "GA 9: 135",
+      "stratum": "ga9-wdg-1929",
+      "term": "transcendence",
+      "status": "presupposed",
+      "claim": "Intentionality, as the name for all comportment toward beings, is possible only on the ground of transcendence and is neither identical with it nor what makes it possible.",
+      "quote": "If all comportment toward beings is called intentional, intentionality is possible only on the ground of transcendence; it is neither identical with transcendence nor what makes transcendence possible."
+    },
+    {
+      "id": "transzendenz/ga9/005",
+      "locator": "heidegger-ga-9-vom-wesen-des-grundes-commentary#h3-i-the-problem-of-ground",
+      "primary_locator": "GA 9: 135",
+      "stratum": "ga9-wdg-1929",
+      "term": "transcendence",
+      "status": "presupposed",
+      "claim": "Because the essence of ground relates internally to the essence of truth, the question of the essence of ground becomes the problem of transcendence.",
+      "quote": "The question of the essence of ground becomes the problem of transcendence."
+    },
+    {
+      "id": "transzendenz/ga9/006",
+      "locator": "heidegger-ga-9-vom-wesen-des-grundes-commentary#h3-ii-transcendence-as-the-domain-of-the-question-concerning-the-essence-of-ground",
+      "primary_locator": "GA 9: 137",
+      "stratum": "ga9-wdg-1929",
+      "term": "Überstieg",
+      "status": "introduced",
+      "claim": "Transcendence means surpassing; what is transcendent is what performs the surpassing and dwells in it, and the surpassing belongs as a happening to some being.",
+      "quote": "Transcendence means surpassing (*Überstieg*). What is transcendent, or transcending, is what performs the surpassing and dwells in it; surpassing belongs as a happening to some being."
+    },
+    {
+      "id": "transzendenz/ga9/007",
+      "locator": "heidegger-ga-9-vom-wesen-des-grundes-commentary#h3-ii-transcendence-as-the-domain-of-the-question-concerning-the-essence-of-ground",
+      "primary_locator": "GA 9: 137",
+      "stratum": "ga9-wdg-1929",
+      "term": "the transcendent",
+      "status": "criticized",
+      "claim": "The adjective 'transcendent' is moved from the object, as Husserl and epistemology use it, to Dasein as the one who surpasses.",
+      "quote": "Heidegger moves the adjective from the object to the one who surpasses. In Husserl and in epistemology generally, the \"transcendent\" is the object lying beyond consciousness; here it is Dasein."
+    },
+    {
+      "id": "transzendenz/ga9/008",
+      "locator": "heidegger-ga-9-vom-wesen-des-grundes-commentary#h3-ii-transcendence-as-the-domain-of-the-question-concerning-the-essence-of-ground",
+      "primary_locator": "GA 9: 137",
+      "stratum": "ga9-wdg-1929",
+      "term": "transcendence",
+      "status": "introduced",
+      "claim": "Transcendence belongs to human Dasein not as one comportment among others but as its basic constitution, happening before all comportment.",
+      "quote": "Transcendence in the terminological sense belongs to human Dasein, not as one possible comportment among others, enacted now and then, but as its basic constitution, happening before all comportment."
+    },
+    {
+      "id": "transzendenz/ga9/009",
+      "locator": "heidegger-ga-9-vom-wesen-des-grundes-commentary#h3-ii-transcendence-as-the-domain-of-the-question-concerning-the-essence-of-ground",
+      "primary_locator": "GA 9: 137",
+      "stratum": "ga9-wdg-1929",
+      "term": "transcendence",
+      "status": "revised",
+      "claim": "The spatial sense of crossing a barrier or gap is not discarded but grounded: it is one of the things transcendence makes possible.",
+      "quote": "The spatial sense is not discarded but grounded: crossing a gap is one of the things transcendence makes possible."
+    },
+    {
+      "id": "transzendenz/ga9/010",
+      "locator": "heidegger-ga-9-vom-wesen-des-grundes-commentary#h3-ii-transcendence-as-the-domain-of-the-question-concerning-the-essence-of-ground",
+      "primary_locator": "GA 9: 137-138",
+      "stratum": "ga9-wdg-1929",
+      "term": "transcendence",
+      "status": "revised",
+      "claim": "Transcendence is the essence of the subject: the subject does not first exist and then transcend, but to be a subject is to be in and as transcendence.",
+      "quote": "The subject never exists first as a subject and then, should objects happen to be present, also transcends; to be a subject means to be a being in and as transcendence."
+    },
+    {
+      "id": "transzendenz/ga9/011",
+      "locator": "heidegger-ga-9-vom-wesen-des-grundes-commentary#h3-ii-transcendence-as-the-domain-of-the-question-concerning-the-essence-of-ground",
+      "primary_locator": "GA 9: 138",
+      "stratum": "ga9-wdg-1929",
+      "term": "transcendence",
+      "status": "criticized",
+      "claim": "Once every concept of the subject is fended off, transcendence can no longer be determined as a subject-object relation, and it surpasses neither a barrier confining the subject to immanence nor a gap separating it from the object.",
+      "quote": "once every explicit or tacit concept of the subject is fended off, transcendence can no longer be determined as a subject-object relation."
+    },
+    {
+      "id": "transzendenz/ga9/012",
+      "locator": "heidegger-ga-9-vom-wesen-des-grundes-commentary#h3-ii-transcendence-as-the-domain-of-the-question-concerning-the-essence-of-ground",
+      "primary_locator": "GA 9: 138",
+      "stratum": "ga9-wdg-1929",
+      "term": "what is surpassed",
+      "status": "introduced",
+      "claim": "What is surpassed is beings themselves, every being that can be unconcealed to Dasein, including the being as which Dasein itself exists.",
+      "quote": "What is surpassed is beings themselves: every being that can be or become unconcealed to Dasein, including precisely the being as which Dasein \"itself\" exists."
+    },
+    {
+      "id": "transzendenz/ga9/013",
+      "locator": "heidegger-ga-9-vom-wesen-des-grundes-commentary#h3-ii-transcendence-as-the-domain-of-the-question-concerning-the-essence-of-ground",
+      "primary_locator": "GA 9: 138-139",
+      "stratum": "ga9-wdg-1929",
+      "term": "transcendence",
+      "status": "introduced",
+      "claim": "In surpassing, Dasein first comes toward itself, so that transcendence constitutes selfhood, and selfhood is its result rather than its precondition.",
+      "quote": "In surpassing, Dasein first comes toward the being that it is, toward itself as \"itself\". Transcendence constitutes selfhood."
+    },
+    {
+      "id": "transzendenz/ga9/014",
+      "locator": "heidegger-ga-9-vom-wesen-des-grundes-commentary#h3-ii-transcendence-as-the-domain-of-the-question-concerning-the-essence-of-ground",
+      "primary_locator": "GA 9: 139",
+      "stratum": "ga9-wdg-1929",
+      "term": "surpassing",
+      "status": "presupposed",
+      "claim": "Beings are surpassed beforehand as a whole, not piece by piece, and surpassing happens as a whole, not first as the theoretical grasping of objects.",
+      "quote": "Beings, however they are determined and articulated in detail, are surpassed beforehand as a whole."
+    },
+    {
+      "id": "transzendenz/ga9/015",
+      "locator": "heidegger-ga-9-vom-wesen-des-grundes-commentary#h3-ii-transcendence-as-the-domain-of-the-question-concerning-the-essence-of-ground",
+      "primary_locator": "GA 9: 139-140",
+      "stratum": "ga9-wdg-1929",
+      "term": "world",
+      "status": "introduced",
+      "claim": "The toward-which of the surpassing is world, transcendence is determined as being-in-the-world, and because world belongs to transcendence its concept is called transcendental.",
+      "quote": "Heidegger calls it world and now determines transcendence as being-in-the-world. World co-constitutes the unified structure of transcendence; because it belongs to transcendence the concept of world is called transcendental."
+    },
+    {
+      "id": "transzendenz/ga9/016",
+      "locator": "heidegger-ga-9-vom-wesen-des-grundes-commentary#h3-ii-transcendence-as-the-domain-of-the-question-concerning-the-essence-of-ground",
+      "primary_locator": "GA 9: 139-140",
+      "stratum": "ga9-wdg-1929",
+      "term": "transcendental",
+      "status": "revised",
+      "claim": "The commentary states that Heidegger rebinds 'transcendental' to 'transcendence', whereas in Kant the transcendental limits knowledge to experience and the transcendent exceeds it.",
+      "quote": "Heidegger rebinds \"transcendental\" to \"transcendence\": in Kant the two words point in opposite directions (the transcendental limits knowledge to experience, the transcendent exceeds it), whereas here the transcendental is whatever belongs to Dasein's surpassing."
+    },
+    {
+      "id": "transzendenz/ga9/017",
+      "locator": "heidegger-ga-9-vom-wesen-des-grundes-commentary#h3-ii-transcendence-as-the-domain-of-the-question-concerning-the-essence-of-ground",
+      "primary_locator": "GA 9: 140",
+      "stratum": "ga9-wdg-1929",
+      "term": "transcendent",
+      "status": "criticized",
+      "claim": "Taken as belonging among other beings, transcendence would apply to every being present-at-hand and could not be the distinctive constitution of Dasein.",
+      "quote": "If \"transcendent\" meant only \"belonging among the other beings\", transcendence obviously could not be the distinctive essential constitution of Dasein."
+    },
+    {
+      "id": "transzendenz/ga9/018",
+      "locator": "heidegger-ga-9-vom-wesen-des-grundes-commentary#h3-ii-transcendence-as-the-domain-of-the-question-concerning-the-essence-of-ground",
+      "primary_locator": "GA 9: 141",
+      "stratum": "ga9-wdg-1929",
+      "term": "being-in-the-world",
+      "status": "presupposed",
+      "claim": "Of three sentences built from the same words, only 'being-in-the-world belongs to the essence of Dasein as such' contains the problem of transcendence; the difference lies in the concept of world.",
+      "quote": "\"Being-in-the-world belongs to the essence of Dasein as such\" contains the problem of transcendence. The difference lies entirely in which concept of world, and so which sense of \"in\", governs the sentence."
+    },
+    {
+      "id": "transzendenz/ga9/019",
+      "locator": "heidegger-ga-9-vom-wesen-des-grundes-commentary#h3-ii-transcendence-as-the-domain-of-the-question-concerning-the-essence-of-ground",
+      "primary_locator": "GA 9: 147-150",
+      "stratum": "ga9-wdg-1929",
+      "term": "transcendent",
+      "status": "presupposed",
+      "claim": "In Kant, the representation of the completed unity of appearances is transcendent yet, being necessary a priori, has transcendental reality; Kant calls such representations Ideas.",
+      "quote": "This representation is \"transcendent\"; since it is nonetheless necessary a priori, it has, though transcendent, transcendental reality. Kant calls such representations Ideas."
+    },
+    {
+      "id": "transzendenz/ga9/020",
+      "locator": "heidegger-ga-9-vom-wesen-des-grundes-commentary#h3-ii-transcendence-as-the-domain-of-the-question-concerning-the-essence-of-ground",
+      "primary_locator": "GA 9: 152",
+      "stratum": "ga9-wdg-1929",
+      "term": "transcendence",
+      "status": "criticized",
+      "claim": "Transcendence in Kant's sense of surpassing experience is ambiguous: it means either surpassing the given within experience, as the world-Idea does, or stepping out of appearance altogether toward the transcendental ideal.",
+      "quote": "Transcendence in Kant's sense of surpassing experience is therefore ambiguous. It can mean surpassing, within experience, what is given in it, the manifold of appearances; this holds of the representation \"world\"."
+    },
+    {
+      "id": "transzendenz/ga9/021",
+      "locator": "heidegger-ga-9-vom-wesen-des-grundes-commentary#h3-ii-transcendence-as-the-domain-of-the-question-concerning-the-essence-of-ground",
+      "primary_locator": "GA 9: 156",
+      "stratum": "ga9-wdg-1929",
+      "term": "surpassing toward world",
+      "status": "presupposed",
+      "claim": "The understanding of the wholeness in which beings are manifest, which reaches ahead and encompasses, is the surpassing toward world.",
+      "quote": "The understanding of this wholeness, which reaches ahead and encompasses, is the surpassing toward world."
+    },
+    {
+      "id": "transzendenz/ga9/022",
+      "locator": "heidegger-ga-9-vom-wesen-des-grundes-commentary#h3-ii-transcendence-as-the-domain-of-the-question-concerning-the-essence-of-ground",
+      "primary_locator": "GA 9: 157",
+      "stratum": "ga9-wdg-1929",
+      "term": "world",
+      "status": "introduced",
+      "claim": "World, as that in surpassing toward which selfhood first temporalizes, is that for the sake of which Dasein exists.",
+      "quote": "If world is that in surpassing toward which selfhood first temporalizes, it proves to be that for the sake of which Dasein exists."
+    },
+    {
+      "id": "transzendenz/ga9/023",
+      "locator": "heidegger-ga-9-vom-wesen-des-grundes-commentary#h3-ii-transcendence-as-the-domain-of-the-question-concerning-the-essence-of-ground",
+      "primary_locator": "GA 9: 158",
+      "stratum": "ga9-wdg-1929",
+      "term": "world-forming",
+      "status": "introduced",
+      "claim": "'Dasein transcends' means that Dasein is world-forming: it lets world happen and gives itself with world an original image that serves as a model for all manifest beings.",
+      "quote": "\"Dasein transcends\" means: it is, in the essence of its being, world-forming, \"forming\" in several senses."
+    },
+    {
+      "id": "transzendenz/ga9/024",
+      "locator": "heidegger-ga-9-vom-wesen-des-grundes-commentary#h3-ii-transcendence-as-the-domain-of-the-question-concerning-the-essence-of-ground",
+      "primary_locator": "GA 9: 159",
+      "stratum": "ga9-wdg-1929",
+      "term": "world-entry",
+      "status": "introduced",
+      "claim": "Beings become manifest only through a world-entry that happens with them when transcendence happens, and world-entry changes nothing in the beings that enter.",
+      "quote": "Only when this primal history, transcendence, happens, when a being with the character of being-in-the-world breaks into beings, is there the possibility that beings reveal themselves."
+    },
+    {
+      "id": "transzendenz/ga9/025",
+      "locator": "heidegger-ga-9-vom-wesen-des-grundes-commentary#h3-ii-transcendence-as-the-domain-of-the-question-concerning-the-essence-of-ground",
+      "primary_locator": "GA 9: 159",
+      "term": "transcendence",
+      "status": "criticized",
+      "claim": "A 1929 marginal note judges the relation between transcendence and the distinction wrongly determined, and says the happening should be thought as a leap and finally as appropriation.",
+      "quote": "A 1929 marginal note judges the relation between transcendence and the \"distinction\" here wrongly determined: transcendence essentially unfolds in the distinction, which carries out the difference"
+    },
+    {
+      "id": "transzendenz/ga9/026",
+      "locator": "heidegger-ga-9-vom-wesen-des-grundes-commentary#h3-ii-transcendence-as-the-domain-of-the-question-concerning-the-essence-of-ground",
+      "primary_locator": "GA 9: 160",
+      "stratum": "ga9-wdg-1929",
+      "term": "epekeina tēs ousias",
+      "status": "introduced",
+      "claim": "Transcendence is explicitly stated in Plato's 'beyond being', and the good is read as the power enabling truth, understanding and being at once.",
+      "quote": "Transcendence is explicitly stated in Plato's \"beyond being\" (*epekeina tēs ousias*, *Republic* VI 509b)."
+    },
+    {
+      "id": "transzendenz/ga9/027",
+      "locator": "heidegger-ga-9-vom-wesen-des-grundes-commentary#h3-ii-transcendence-as-the-domain-of-the-question-concerning-the-essence-of-ground",
+      "primary_locator": "GA 9: 160",
+      "term": "epekeina",
+      "status": "criticized",
+      "claim": "A 1931 marginal note retracts the reading of the epekeina as transcendence and takes the good as cause.",
+      "quote": "A 1931 marginal note retracts the reading: \"No! Da-sein not grasped and not experienced at all. *Epekeina* not transcendence either, but the good as cause.\""
+    },
+    {
+      "id": "transzendenz/ga9/028",
+      "locator": "heidegger-ga-9-vom-wesen-des-grundes-commentary#h3-ii-transcendence-as-the-domain-of-the-question-concerning-the-essence-of-ground",
+      "primary_locator": "GA 9: 161",
+      "stratum": "ga9-wdg-1929",
+      "term": "transcendence",
+      "status": "criticized",
+      "claim": "The history of metaphysics replaces world with a region of beings and transcendence with a cognitive comportment toward that region, swinging between the Ideas as beyond and as innate.",
+      "quote": "The history of metaphysics replaces world with a region of beings, and transcendence with a cognitive comportment toward that region"
+    },
+    {
+      "id": "transzendenz/ga9/029",
+      "locator": "heidegger-ga-9-vom-wesen-des-grundes-commentary#h3-ii-transcendence-as-the-domain-of-the-question-concerning-the-essence-of-ground",
+      "primary_locator": "GA 9: 161-162",
+      "stratum": "ga9-wdg-1929",
+      "term": "transcendence",
+      "status": "presupposed",
+      "claim": "Transcendence cannot be grasped by fleeing into the objective, only by a renewed ontological interpretation of the subjectivity of the subject that refuses both subjectivism and objectivism.",
+      "quote": "transcendence cannot be unveiled and grasped by fleeing into the objective, but only by a constantly renewed ontological interpretation of the subjectivity of the subject, which works against \"subjectivism\" as much as it refuses to follow \"objectivism\"."
+    },
+    {
+      "id": "transzendenz/ga9/030",
+      "locator": "heidegger-ga-9-vom-wesen-des-grundes-commentary#h3-ii-transcendence-as-the-domain-of-the-question-concerning-the-essence-of-ground",
+      "primary_locator": "GA 9: 161-162, note 59",
+      "stratum": "ga9-wdg-1929",
+      "term": "transcendence",
+      "status": "presupposed",
+      "claim": "Note 59 states that the published part of Being and Time has no other task than a concretely unveiling projection of transcendence, to gain the transcendental horizon of the question of being.",
+      "quote": "The published part has no other task than a concretely unveiling projection of transcendence (§§ 12–83, especially § 69), in order to gain, as the title of Part One states, the \"transcendental horizon of the question of being\"."
+    },
+    {
+      "id": "transzendenz/ga9/031",
+      "locator": "heidegger-ga-9-vom-wesen-des-grundes-commentary#h3-iii-on-the-essence-of-ground",
+      "primary_locator": "GA 9: 163-164",
+      "stratum": "ga9-wdg-1929",
+      "term": "freedom",
+      "status": "introduced",
+      "claim": "The surpassing toward world is freedom itself, so that freedom ceases to be a property of a subject and becomes the structure of surpassing.",
+      "quote": "The surpassing toward world is freedom itself."
+    },
+    {
+      "id": "transzendenz/ga9/032",
+      "locator": "heidegger-ga-9-vom-wesen-des-grundes-commentary#h3-iii-on-the-essence-of-ground",
+      "primary_locator": "GA 9: 164-165",
+      "stratum": "ga9-wdg-1929",
+      "term": "freedom",
+      "status": "revised",
+      "claim": "Freedom as transcendence is not one kind of ground but the origin of ground as such, and so cannot be a kind of causality.",
+      "quote": "Freedom as transcendence is not merely one \"kind\" of ground but the origin of ground as such. Freedom is freedom for ground."
+    },
+    {
+      "id": "transzendenz/ga9/033",
+      "locator": "heidegger-ga-9-vom-wesen-des-grundes-commentary#h3-iii-on-the-essence-of-ground",
+      "primary_locator": "GA 9: 165",
+      "stratum": "ga9-wdg-1929",
+      "term": "grounding",
+      "status": "introduced",
+      "claim": "Grounding, rooted in transcendence, is strewn into three ways: instituting, taking up a basis, and justifying.",
+      "quote": "This grounding, rooted in transcendence, is strewn into a manifold of ways, of which there are three: grounding as instituting (*Stiften*), grounding as taking up a basis (*Bodennehmen*), and grounding as justifying (*Begründen*)."
+    },
+    {
+      "id": "transzendenz/ga9/034",
+      "locator": "heidegger-ga-9-vom-wesen-des-grundes-commentary#h3-iii-on-the-essence-of-ground",
+      "primary_locator": "GA 9: 165",
+      "stratum": "ga9-wdg-1929",
+      "term": "transcendence",
+      "status": "revised",
+      "claim": "Part II gave only one of the three ways of grounding, so its account of transcendence and freedom was incomplete.",
+      "quote": "Heidegger concedes that Part II gave only one of the three ways and so an incomplete account of transcendence."
+    },
+    {
+      "id": "transzendenz/ga9/035",
+      "locator": "heidegger-ga-9-vom-wesen-des-grundes-commentary#h3-iii-on-the-essence-of-ground",
+      "primary_locator": "GA 9: 166",
+      "stratum": "ga9-wdg-1929",
+      "term": "transcendence",
+      "status": "revised",
+      "claim": "Transcendence means world-projection in which the one projecting is already pervaded and attuned by the beings it surpasses, and this absorption is a second way of grounding.",
+      "quote": "Transcendence means world-projection, such that the one projecting is already pervaded and attuned by the beings it surpasses."
+    },
+    {
+      "id": "transzendenz/ga9/036",
+      "locator": "heidegger-ga-9-vom-wesen-des-grundes-commentary#h3-iii-on-the-essence-of-ground",
+      "primary_locator": "GA 9: 166, note 60",
+      "stratum": "ga9-wdg-1929",
+      "term": "transcendence",
+      "status": "presupposed",
+      "claim": "The ways of grounding correspond to the temporalizing of time because transcendence is rooted in time's ecstatic-horizonal constitution, though the temporal interpretation is left aside.",
+      "quote": "The correspondence holds because transcendence is rooted in the essence of time, its ecstatic-horizonal constitution; note 60 adds that the temporal interpretation of transcendence is deliberately left aside throughout."
+    },
+    {
+      "id": "transzendenz/ga9/037",
+      "locator": "heidegger-ga-9-vom-wesen-des-grundes-commentary#h3-iii-on-the-essence-of-ground",
+      "primary_locator": "GA 9: 167",
+      "stratum": "ga9-wdg-1929",
+      "term": "Überschwung",
+      "status": "introduced",
+      "claim": "Corresponding to the two ways of grounding, transcendence is at once excess and withdrawal, and that unity documents the finitude of Dasein's freedom.",
+      "quote": "Corresponding to the two ways of grounding, transcendence is at once excess (*Überschwung*) and withdrawal (*Entzug*)."
+    },
+    {
+      "id": "transzendenz/ga9/038",
+      "locator": "heidegger-ga-9-vom-wesen-des-grundes-commentary#h3-iii-on-the-essence-of-ground",
+      "primary_locator": "GA 9: 167-168",
+      "stratum": "ga9-wdg-1929",
+      "term": "transcendence",
+      "status": "criticized",
+      "claim": "Comportment toward beings is usually equated with transcendence, which misjudges transcendence, though the transcendental possibility of intentional comportment must still become a problem.",
+      "quote": "This comportment is usually even equated with transcendence. That misjudges transcendence, but the transcendental possibility of intentional comportment must still become a problem"
+    },
+    {
+      "id": "transzendenz/ga9/039",
+      "locator": "heidegger-ga-9-vom-wesen-des-grundes-commentary#h3-iii-on-the-essence-of-ground",
+      "primary_locator": "GA 9: 168",
+      "stratum": "ga9-wdg-1929",
+      "term": "transcendence",
+      "status": "presupposed",
+      "claim": "In the third way of grounding, justifying, Dasein's transcendence takes over the enabling of the making-manifest of beings in themselves, the possibility of ontic truth.",
+      "quote": "In it Dasein's transcendence takes over the enabling of the making-manifest of beings in themselves, the possibility of ontic truth."
+    },
+    {
+      "id": "transzendenz/ga9/040",
+      "locator": "heidegger-ga-9-vom-wesen-des-grundes-commentary#h3-iii-on-the-essence-of-ground",
+      "primary_locator": "GA 9: 169-170",
+      "stratum": "ga9-wdg-1929",
+      "term": "transcendence",
+      "status": "presupposed",
+      "claim": "Transcendence can remain concealed and be known only through an indirect interpretation, but it unveils itself explicitly as the origin of grounding when grounding springs forth in its threefoldness.",
+      "quote": "Transcendence as such can therefore remain concealed and be known only through an \"indirect\" interpretation."
+    },
+    {
+      "id": "transzendenz/ga9/041",
+      "locator": "heidegger-ga-9-vom-wesen-des-grundes-commentary#h3-iii-on-the-essence-of-ground",
+      "primary_locator": "GA 9: 170",
+      "stratum": "ga9-wdg-1929",
+      "term": "Einbruchspielraum",
+      "status": "introduced",
+      "claim": "The happening of transcendence as grounding forms the room for play of irruption for factual Dasein's self-maintenance amid beings as a whole.",
+      "quote": "The happening of transcendence as grounding is the forming of the room for play of irruption (*Einbruchspielraum*) for the factual self-maintenance of factual Dasein amid beings as a whole."
+    },
+    {
+      "id": "transzendenz/ga9/042",
+      "locator": "heidegger-ga-9-vom-wesen-des-grundes-commentary#h3-iii-on-the-essence-of-ground",
+      "primary_locator": "GA 9: 172",
+      "stratum": "ga9-wdg-1929",
+      "term": "transcendence",
+      "status": "presupposed",
+      "claim": "Ground belongs to the essence of being because there is being only in transcendence, and the birthplace of the principle of reason lies in transcendence itself rather than in propositional truth.",
+      "quote": "ground belongs to the essence of being because there is (*es gibt*) being, not beings, only in transcendence, as world-projecting, attuned grounding."
+    },
+    {
+      "id": "transzendenz/ga9/043",
+      "locator": "heidegger-ga-9-vom-wesen-des-grundes-commentary#h3-iii-on-the-essence-of-ground",
+      "primary_locator": "GA 9: 173-174",
+      "stratum": "ga9-wdg-1929",
+      "term": "freedom as transcendence",
+      "status": "presupposed",
+      "claim": "As the ground of ground, freedom is the abyss of Dasein: in its essence as transcendence it places Dasein into possibilities that gape open before its finite choice.",
+      "quote": "freedom in its essence as transcendence places Dasein, as ability-to-be, into possibilities that gape open before its finite choice, that is, in its destiny."
+    },
+    {
+      "id": "transzendenz/ga9/044",
+      "locator": "heidegger-ga-9-vom-wesen-des-grundes-commentary#h3-iii-on-the-essence-of-ground",
+      "primary_locator": "GA 9: 174-175",
+      "stratum": "ga9-wdg-1929",
+      "term": "transcendence",
+      "status": "revised",
+      "claim": "Understood as abyss, transcendence sharpens Dasein's absorption by beings into thrownness, so that all world-projection is thrown.",
+      "quote": "If transcendence, as freedom for ground, is understood first and last as abyss, the essence of what was called Dasein's absorption in and by beings is sharpened too."
+    },
+    {
+      "id": "transzendenz/ga9/045",
+      "locator": "heidegger-ga-9-vom-wesen-des-grundes-commentary#h3-iii-on-the-essence-of-ground",
+      "primary_locator": "GA 9: 175",
+      "stratum": "ga9-wdg-1929",
+      "term": "transcendence",
+      "status": "presupposed",
+      "claim": "The essence of Dasein's finitude reveals itself in transcendence as freedom for ground.",
+      "quote": "The essence of Dasein's finitude reveals itself in transcendence as freedom for ground."
+    },
+    {
+      "id": "transzendenz/ga9/046",
+      "locator": "heidegger-ga-9-vom-wesen-des-grundes-commentary#h3-iii-on-the-essence-of-ground",
+      "primary_locator": "GA 9: 175",
+      "stratum": "ga9-wdg-1929",
+      "term": "transcendence",
+      "status": "presupposed",
+      "claim": "The human being, as existing transcendence swinging beyond into possibilities, is a creature of distance, and only through original distances does nearness to things arise.",
+      "quote": "And so the human being, as existing transcendence that swings beyond into possibilities, is a creature of distance."
+    }
+  ],
+  "absences": [
+    {
+      "locator": "heidegger-ga-9-vom-wesen-des-grundes-commentary#h2-preface-to-the-third-edition-1949",
+      "expected_because": "The 1949 preface re-reads the 1929 treatise and names its matter, the treatise whose Parts I-III turn on Dasein's transcendence, yet it characterizes that matter as the ontological difference alone.",
+      "note": "The preface pairs the treatise with 'What Is Metaphysics?' as naming the ontological difference; the word transcendence does not occur in it.",
+      "absent_terms": [
+        "Transzendenz",
+        "Überstieg",
+        "transcendence",
+        "transcends",
+        "transcending",
+        "surpass",
+        "beyond being",
+        "epekeina",
+        "world-entry"
+      ]
+    }
+  ]
+}
