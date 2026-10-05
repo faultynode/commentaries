@@ -1,3 +1,8 @@
+---
+layout: default
+title: Heidegger, GA 9 — Vom Wesen des Grundes
+---
+
 # Commentary on Heidegger, "On the Essence of Ground" (GA 9: 123–175)
 
 Page references are to GA 9 (*Wegmarken*). The treatise appeared in 1929 in the Festschrift for Husserl's seventieth birthday; it grows out of the second main part of the Marburg Leibniz course of summer 1928 (GA 26, §§ 10–14), which should be kept in view throughout. Dasein is retained untranslated; everything else is rendered in English, with the German in parentheses where the term carries weight. Ground (*Grund*) covers what English splits into reason, cause, basis and foundation; the principle of reason (*Satz vom Grund*) is Leibniz's *principium rationis sufficientis*. The marginal notes from Heidegger's own copies (1929, 1931, 1949, 1967) are folded in only where they bear on the 1929 sense, and are marked as later self-readings, never read back into the text.
