@@ -1,0 +1,925 @@
+{
+  "schema_version": 1,
+  "commentary": "henry-the-essence-of-manifestation-commentary",
+  "source_sha256": "a2a90bd7e215000feb637e46e5db70ffcc8032e3c242f450bb72616e3e95db25",
+  "extracted_at": "2026-10-06",
+  "extractor": {
+    "agent": "claude-code",
+    "model": "claude-opus-5-5",
+    "prompt": "synthesis/prompts/inheritance-prompt.md",
+    "note": "Retrieval by predecessor name: Husserl, Heidegger, Hegel, Kant, Descartes, Kierkegaard, Sartre, Scheler, Schelling, Merleau-Ponty, Eckhart, Fichte (synthesis_query.py --sections; 57 sections hit). Other predecessors the commentary discusses (Gassendi, Malebranche, Maine de Biran, Marx, Jaspers, Böhme, Nietzsche) were not queried and are not recorded. Modes judge the commentary's report of Henry's engagement, not the philosophical relation."
+  },
+  "coverage": "partial",
+  "coverage_note": "Covers Henry's engagement with the twelve queried predecessors only. Read in full: the Introduction and §§ 1-2. Every other section was read at the sentences that contain a queried name together with a relational word (credit, borrow, reject, against, confuse and similar), plus targeted context in §§ 13, 24 and 31. Heidegger (657 hits) and Eckhart (312) are recorded by their principal moves, not exhaustively; the Kant-book reading of §§ 22-36 is represented only by § 24 and § 31. Kant appears both as Henry's predecessor and through Heidegger's Kant book; engagements with the Kant book are recorded under Heidegger. No absences are claimed.",
+  "engagements": [
+    {
+      "id": "inh/henry-em/001",
+      "locator": "henry-the-essence-of-manifestation-commentary#h1-introduction-the-problem-of-the-being-of-the-ego-and-the-fundamental-presupposit",
+      "primary_locator": "The Essence of Manifestation, Introduction",
+      "stratum": "essence-1963",
+      "predecessor": {
+        "author": "Martin Heidegger",
+        "text": "Sein und Zeit"
+      },
+      "mode": "acknowledged-debt",
+      "claim": "The book's epigraph from Sein und Zeit signals that Henry takes his departure from Heidegger's diagnosis that Descartes left the sense of being of the sum undetermined, a diagnosis Henry will later turn against Heidegger.",
+      "quote": "Henry borrows the Heideggerian diagnosis of the Cartesian deficit — the *sum* is left ontologically indeterminate — but, as the book will make clear, he will turn this diagnosis against Heidegger himself"
+    },
+    {
+      "id": "inh/henry-em/002",
+      "locator": "henry-the-essence-of-manifestation-commentary#h1-introduction-the-problem-of-the-being-of-the-ego-and-the-fundamental-presupposit",
+      "primary_locator": "The Essence of Manifestation, Introduction",
+      "stratum": "essence-1963",
+      "predecessor": {
+        "author": "René Descartes"
+      },
+      "mode": "polemical-rejection",
+      "claim": "Henry holds that the Cartesian beginning is not radical, since it rests on a foundation of being that it has not made explicit and that is more radical than it.",
+      "quote": "Hence the Cartesian commencement is not \"radical,\" because it is possible only on a foundation it has not made explicit, and which is more radical than it."
+    },
+    {
+      "id": "inh/henry-em/003",
+      "locator": "henry-the-essence-of-manifestation-commentary#h2-s-2-the-necessity-of-the-prior-edification-of-a-universal-phenomenological-ontol",
+      "primary_locator": "The Essence of Manifestation, § 2",
+      "stratum": "essence-1963",
+      "predecessor": {
+        "author": "Immanuel Kant"
+      },
+      "mode": "polemical-rejection",
+      "claim": "Against the Kantian conception of reason as the faculty of principles and of the unconditioned, Henry opens the paragraph by denying that reason is a faculty of the universal.",
+      "quote": "Reason is not a faculty of the universal. The opening sentence is a striking anti-Kantian claim."
+    },
+    {
+      "id": "inh/henry-em/004",
+      "locator": "henry-the-essence-of-manifestation-commentary#h2-s-2-the-necessity-of-the-prior-edification-of-a-universal-phenomenological-ontol",
+      "primary_locator": "The Essence of Manifestation, § 2",
+      "stratum": "essence-1963",
+      "predecessor": {
+        "author": "Martin Heidegger",
+        "text": "Was ist Metaphysik?"
+      },
+      "mode": "silent-appropriation",
+      "claim": "The commentary reads Henry's affective tonality accompanying the dissolution of beings as an allusion to Heidegger's analysis of anxiety and the self-disclosure of the nothing, taken up without being named.",
+      "quote": "The reference to the \"affective tonality\" (*tonalité affective*) that accompanies this disappearance is a specific allusion to Heidegger's analysis of *Angst* in *Sein und Zeit* §40 and in *Was ist Metaphysik?*"
+    },
+    {
+      "id": "inh/henry-em/005",
+      "locator": "henry-the-essence-of-manifestation-commentary#h2-s-2-the-necessity-of-the-prior-edification-of-a-universal-phenomenological-ontol",
+      "primary_locator": "The Essence of Manifestation, § 2",
+      "stratum": "essence-1963",
+      "predecessor": {
+        "author": "Martin Heidegger"
+      },
+      "mode": "acknowledged-debt",
+      "claim": "In the Introduction Henry identifies universal phenomenological ontology with Heidegger's fundamental ontology and speaks from inside Heidegger's program, an alignment the commentary says will later fracture.",
+      "quote": "Henry is at this point aligning himself with Heidegger's program: universal phenomenological ontology is fundamental ontology"
+    },
+    {
+      "id": "inh/henry-em/006",
+      "locator": "henry-the-essence-of-manifestation-commentary#h2-s-3-the-overcoming-of-intuitionism-and-the-liberation-of-the-universal-phenomeno",
+      "primary_locator": "The Essence of Manifestation, § 3",
+      "stratum": "essence-1963",
+      "predecessor": {
+        "author": "Edmund Husserl"
+      },
+      "mode": "polemical-rejection",
+      "claim": "Henry criticizes the Husserlian doctrine of the horizon in three numbered points, as unable to reach the universal essence of being through intuition.",
+      "quote": "What follows are three numbered points, and they constitute Henry's systematic critique of the Husserlian horizon-doctrine."
+    },
+    {
+      "id": "inh/henry-em/007",
+      "locator": "henry-the-essence-of-manifestation-commentary#h2-s-4-the-insertion-of-the-ego-cogito-and-of-its-problematic-inside-the-horizon-li",
+      "primary_locator": "The Essence of Manifestation, § 4",
+      "stratum": "essence-1963",
+      "predecessor": {
+        "author": "Søren Kierkegaard",
+        "text": "The Sickness unto Death"
+      },
+      "mode": "acknowledged-debt",
+      "claim": "Henry credits the subjective thinkers, identified by the commentary as the Kierkegaardian tradition, with rightly denouncing the dissolution of the interior life in the constituting subject.",
+      "quote": "Subjective thinkers have rightly denounced the dissolution of the interior life in the foggy existence of the"
+    },
+    {
+      "id": "inh/henry-em/008",
+      "locator": "henry-the-essence-of-manifestation-commentary#h2-s-4-the-insertion-of-the-ego-cogito-and-of-its-problematic-inside-the-horizon-li",
+      "primary_locator": "The Essence of Manifestation, § 4",
+      "stratum": "essence-1963",
+      "predecessor": {
+        "author": "René Descartes",
+        "text": "Meditations"
+      },
+      "mode": "polemical-rejection",
+      "claim": "Henry charges the Meditations with the onto-theological confusion at its greatest, the consideration of the divine displacing the problem of being.",
+      "quote": "Such a confusion asserts itself with an éclat still greater in Descartes' *Meditations*, where the consideration of the divine occupies, to the detriment of the problem of being, a dominant place."
+    },
+    {
+      "id": "inh/henry-em/009",
+      "locator": "henry-the-essence-of-manifestation-commentary#h2-s-5-the-problem-of-the-insertion-of-the-ego-cogito-inside-the-universal-phenomen",
+      "primary_locator": "The Essence of Manifestation, § 5",
+      "stratum": "essence-1963",
+      "predecessor": {
+        "author": "Edmund Husserl"
+      },
+      "mode": "polemical-rejection",
+      "claim": "After conceding the apparent success of the Husserlian program, Henry applies his argument against the intuition of the horizon to the transcendental reduction itself.",
+      "quote": "The structure of the argument is strictly analogous to Henry's argument in §3 paragraph 6 against the intuition of the essence of horizon; but it is now applied specifically to the Husserlian transcendental reduction."
+    },
+    {
+      "id": "inh/henry-em/010",
+      "locator": "henry-the-essence-of-manifestation-commentary#h2-s-6-the-difficulties-relative-to-the-edification-of-universal-phenomenological-o",
+      "primary_locator": "The Essence of Manifestation, § 6",
+      "stratum": "essence-1963",
+      "predecessor": {
+        "author": "Martin Heidegger"
+      },
+      "mode": "polemical-rejection",
+      "claim": "Henry charges that Heidegger never clarified whether Dasein is the transcendental opening of being or one existent among others, and that the two senses cannot be reconciled.",
+      "quote": "Henry's charge is that Heidegger never really clarified which of these two senses is operative, and that the two senses cannot be reconciled"
+    },
+    {
+      "id": "inh/henry-em/011",
+      "locator": "henry-the-essence-of-manifestation-commentary#h2-s-7-the-problematic-concerning-the-being-of-the-ego-interpreted-as-an-originary",
+      "primary_locator": "The Essence of Manifestation, § 7",
+      "stratum": "essence-1963",
+      "predecessor": {
+        "author": "Martin Heidegger"
+      },
+      "mode": "polemical-rejection",
+      "claim": "Against Heidegger's claim that Descartes left the being of the sum undetermined, Henry holds that Descartes determined it as created being, in the lineage of medieval onto-theology.",
+      "quote": "Henry corrects this: the being of the *sum* is in fact determined in Descartes, but it is determined as *ens creatum* (created being, a creature)"
+    },
+    {
+      "id": "inh/henry-em/012",
+      "locator": "henry-the-essence-of-manifestation-commentary#h2-s-7-the-problematic-concerning-the-being-of-the-ego-interpreted-as-an-originary",
+      "primary_locator": "The Essence of Manifestation, § 7",
+      "stratum": "essence-1963",
+      "predecessor": {
+        "author": "Immanuel Kant"
+      },
+      "mode": "polemical-rejection",
+      "claim": "Henry rejects the Kantian manner of leaving the condition of possibility of experience without rigorous definition, and calls the reflective method of approaching it insufficient.",
+      "quote": "One leaves the problematic incorrectly suspended at an entirely undetermined term when, in the manner of Kant, one does not concern oneself with defining in a rigorous way the status of the"
+    },
+    {
+      "id": "inh/henry-em/013",
+      "locator": "henry-the-essence-of-manifestation-commentary#h2-s-7-the-problematic-concerning-the-being-of-the-ego-interpreted-as-an-originary",
+      "primary_locator": "The Essence of Manifestation, § 7",
+      "stratum": "essence-1963",
+      "predecessor": {
+        "author": "René Descartes"
+      },
+      "mode": "acknowledged-debt",
+      "claim": "Henry names the Cartesian cogito, once freed from its onto-theological wrapping, as one manifestation of his own subterranean tradition.",
+      "quote": "Henry names his own lineage — the *cogito* of Descartes (insofar as it can be disentangled from its onto-theological wrapping)"
+    },
+    {
+      "id": "inh/henry-em/014",
+      "locator": "henry-the-essence-of-manifestation-commentary#h2-s-7-the-problematic-concerning-the-being-of-the-ego-interpreted-as-an-originary",
+      "primary_locator": "The Essence of Manifestation, § 7",
+      "stratum": "essence-1963",
+      "predecessor": {
+        "author": "Søren Kierkegaard"
+      },
+      "mode": "acknowledged-debt",
+      "claim": "Henry names Kierkegaard's philosophy of existence alongside the Cartesian cogito as an isolated manifestation of the subterranean tradition he claims.",
+      "quote": "and the philosophy of existence of Kierkegaard — as isolated \"manifestations\" of a subterranean tradition"
+    },
+    {
+      "id": "inh/henry-em/015",
+      "locator": "henry-the-essence-of-manifestation-commentary#h2-s-7-the-problematic-concerning-the-being-of-the-ego-interpreted-as-an-originary",
+      "primary_locator": "The Essence of Manifestation, § 7",
+      "stratum": "essence-1963",
+      "predecessor": {
+        "author": "Jean-Paul Sartre",
+        "text": "La Transcendance de l'ego"
+      },
+      "mode": "polemical-rejection",
+      "claim": "Henry makes the refutation of Sartre's thesis of the transcendent ego, shown instead to be immanent, a demonstration by the absurd for the book's theses.",
+      "quote": "Here Henry announces that the *refutation* of Sartre's thesis — that is, the demonstration that the ego is *not* transcendent but immanent — functions as a \"demonstration by the absurd\" for the rest of the book's theses."
+    },
+    {
+      "id": "inh/henry-em/016",
+      "locator": "henry-the-essence-of-manifestation-commentary#h2-s-7-the-problematic-concerning-the-being-of-the-ego-interpreted-as-an-originary",
+      "primary_locator": "The Essence of Manifestation, § 7",
+      "stratum": "essence-1963",
+      "predecessor": {
+        "author": "Martin Heidegger"
+      },
+      "mode": "terminological-borrowing",
+      "claim": "Henry takes 'human reality', Corbin's French for Dasein, and gives it a non-Heideggerian sense: not a being thrown into a world-horizon but the self-revealing life that is the ultimate foundation.",
+      "quote": "The \"human reality\" of Corbin's French translation of *Dasein* is here reappropriated by Henry in a non-Heideggerian sense"
+    },
+    {
+      "id": "inh/henry-em/017",
+      "locator": "henry-the-essence-of-manifestation-commentary#h2-s-8-the-elucidation-of-the-essence-of-the-phenomenon-central-task-of-phenomenolo",
+      "primary_locator": "The Essence of Manifestation, § 8",
+      "stratum": "essence-1963",
+      "predecessor": {
+        "author": "Edmund Husserl",
+        "text": "Ideen I"
+      },
+      "mode": "acknowledged-debt",
+      "claim": "Henry endorses Husserl's claim that phenomenologists are the true positivists, recognizing every mode of originary giving as a source of right for knowledge.",
+      "quote": "Henry endorses Husserl's reformulation of \"positivism\": the true positivism is not the empiricist restriction of evidence to sensible intuition"
+    },
+    {
+      "id": "inh/henry-em/018",
+      "locator": "henry-the-essence-of-manifestation-commentary#h2-s-8-the-elucidation-of-the-essence-of-the-phenomenon-central-task-of-phenomenolo",
+      "primary_locator": "The Essence of Manifestation, § 8",
+      "stratum": "essence-1963",
+      "predecessor": {
+        "author": "Max Scheler",
+        "text": "Vom Umsturz der Werte"
+      },
+      "mode": "acknowledged-debt",
+      "claim": "Henry cites Scheler in support of phenomenology's programme that absolute being is knowable, evidently and adequately, in every sphere.",
+      "quote": "And elsewhere, Scheler adds: \"A philosophy founded on the phenomenological intuition of the essence must affirm that absolute being is knowable"
+    },
+    {
+      "id": "inh/henry-em/019",
+      "locator": "henry-the-essence-of-manifestation-commentary#h2-s-8-the-elucidation-of-the-essence-of-the-phenomenon-central-task-of-phenomenolo",
+      "primary_locator": "The Essence of Manifestation, § 8",
+      "stratum": "essence-1963",
+      "predecessor": {
+        "author": "G. W. F. Hegel"
+      },
+      "mode": "acknowledged-debt",
+      "claim": "Henry takes up Hegel's phrase 'simple manifestation', said of the religions of light, to name the level of his own analysis: manifestation as such.",
+      "quote": "Henry takes up the Hegelian formulation to indicate the level at which his own analysis operates"
+    },
+    {
+      "id": "inh/henry-em/020",
+      "locator": "henry-the-essence-of-manifestation-commentary#h2-s-8-the-elucidation-of-the-essence-of-the-phenomenon-central-task-of-phenomenolo",
+      "primary_locator": "The Essence of Manifestation, § 8",
+      "stratum": "essence-1963",
+      "predecessor": {
+        "author": "Edmund Husserl"
+      },
+      "mode": "polemical-rejection",
+      "claim": "Henry holds Husserl's thesis of no difference between being and appearing in the psychic sphere empty until appearing has been determined in its essence.",
+      "quote": "(i) Husserl's \"no difference between being and appearing in the psychic sphere\" is empty until \"appearing\" has been determined in its essence."
+    },
+    {
+      "id": "inh/henry-em/021",
+      "locator": "henry-the-essence-of-manifestation-commentary#h2-s-9-the-unilateral-determination-of-the-essence-of-phenomenon-and-the-concept-of",
+      "primary_locator": "The Essence of Manifestation, § 9",
+      "stratum": "essence-1963",
+      "predecessor": {
+        "author": "Martin Heidegger",
+        "text": "Sein und Zeit"
+      },
+      "mode": "acknowledged-debt",
+      "claim": "Henry endorses Heidegger's demonstration that space rests in the world rather than the world in space, and builds his concept of phenomenological distance on it.",
+      "quote": "The world is the transcendental condition of space, for, as Heidegger has shown, far from the world resting in space, it is on the contrary space that rests in the world."
+    },
+    {
+      "id": "inh/henry-em/022",
+      "locator": "henry-the-essence-of-manifestation-commentary#h2-s-9-the-unilateral-determination-of-the-essence-of-phenomenon-and-the-concept-of",
+      "primary_locator": "The Essence of Manifestation, § 9",
+      "stratum": "essence-1963",
+      "predecessor": {
+        "author": "Martin Heidegger",
+        "text": "Sein und Zeit"
+      },
+      "mode": "terminological-borrowing",
+      "claim": "Henry takes Heidegger's de-distancing (Ent-fernung), rendered as éloignement, and intensifies it: no longer a spatial existential of Dasein but the very work of phenomenality, the power that opens the horizon.",
+      "quote": "Henry takes Heidegger's term and intensifies it: *éloignement*, understood actively, is the very work of phenomenality, the *power* that opens the horizon of visibility."
+    },
+    {
+      "id": "inh/henry-em/023",
+      "locator": "henry-the-essence-of-manifestation-commentary#h2-s-9-the-unilateral-determination-of-the-essence-of-phenomenon-and-the-concept-of",
+      "primary_locator": "The Essence of Manifestation, § 9",
+      "stratum": "essence-1963",
+      "predecessor": {
+        "author": "Edmund Husserl"
+      },
+      "mode": "polemical-rejection",
+      "claim": "Henry objects that Husserl's proximity and distance characterize contents given to consciousness, not the structure of phenomenality.",
+      "quote": "Henry's polemic: Husserl's \"proximity\" and \"distance\" are characteristics of *contents* given to consciousness, not characteristics of the structure of phenomenality."
+    },
+    {
+      "id": "inh/henry-em/024",
+      "locator": "henry-the-essence-of-manifestation-commentary#h2-s-10-phenomenological-distance-and-the-doubling-of-being-presence-and-alienation",
+      "primary_locator": "The Essence of Manifestation, § 10",
+      "stratum": "essence-1963",
+      "predecessor": {
+        "author": "Johann Gottlieb Fichte"
+      },
+      "mode": "polemical-rejection",
+      "claim": "Henry displays the late Fichte's formulations as a clear articulation of the monist presupposition that phenomenality requires distance, doubling and exteriority.",
+      "quote": "Henry's purpose in displaying these Fichtean formulations is to show that Fichte, in his late phase, articulated with great clarity the same ontological presupposition that Gassendi expressed in his theory of species"
+    },
+    {
+      "id": "inh/henry-em/025",
+      "locator": "henry-the-essence-of-manifestation-commentary#h2-s-10-phenomenological-distance-and-the-doubling-of-being-presence-and-alienation",
+      "primary_locator": "The Essence of Manifestation, § 10",
+      "stratum": "essence-1963",
+      "predecessor": {
+        "author": "Johann Gottlieb Fichte",
+        "text": "Anweisung zum seligen Leben"
+      },
+      "mode": "destructive-appropriation",
+      "claim": "Henry takes over Fichte's term life (Leben) and transforms it: his concept of life as the self-affection of the absolute both inherits from Fichte and answers Fichte's life-in-duality polemically.",
+      "quote": "Henry's own concept of *life as the self-affection of the absolute* is an inheritor of and a polemical response to Fichte's *Leben*."
+    },
+    {
+      "id": "inh/henry-em/026",
+      "locator": "henry-the-essence-of-manifestation-commentary#h2-s-11-ontological-monism-and-the-problem-of-its-overcoming-philosophy-of-consciou",
+      "primary_locator": "The Essence of Manifestation, § 11",
+      "stratum": "essence-1963",
+      "predecessor": {
+        "author": "Martin Heidegger"
+      },
+      "mode": "acknowledged-debt",
+      "claim": "Henry credits Heidegger's observation that Greek ontology took the existent's being-given for granted, and endorses the distinction between the ontic and the ontological.",
+      "quote": "The philosophy of being finds its origin in Greek ontology, but as Heidegger has noted, the latter remains very often naïve in that it considers the existent such as it offers itself to us"
+    },
+    {
+      "id": "inh/henry-em/027",
+      "locator": "henry-the-essence-of-manifestation-commentary#h2-s-11-ontological-monism-and-the-problem-of-its-overcoming-philosophy-of-consciou",
+      "primary_locator": "The Essence of Manifestation, § 11",
+      "stratum": "essence-1963",
+      "predecessor": {
+        "author": "Martin Heidegger"
+      },
+      "mode": "polemical-rejection",
+      "claim": "Henry turns the critique of representation against Heidegger, whose conception of being as disclosure in the horizon is structured by the same essence.",
+      "quote": "But Henry will then turn this against Heidegger himself: Heidegger's own conception of being-as-disclosure-in-the-horizon is also structured by the same essence"
+    },
+    {
+      "id": "inh/henry-em/028",
+      "locator": "henry-the-essence-of-manifestation-commentary#h2-s-11-ontological-monism-and-the-problem-of-its-overcoming-philosophy-of-consciou",
+      "primary_locator": "The Essence of Manifestation, § 11",
+      "stratum": "essence-1963",
+      "predecessor": {
+        "author": "Jean-Paul Sartre"
+      },
+      "mode": "polemical-rejection",
+      "claim": "Henry charges Sartre with confusing consciousness with the abstract subject and being with the object, which leads him to think consciousness as an abstraction.",
+      "quote": "It is because Sartre confuses consciousness with the abstract subject (as he confuses being with the object) that he is precisely brought to think consciousness as an abstract"
+    },
+    {
+      "id": "inh/henry-em/029",
+      "locator": "henry-the-essence-of-manifestation-commentary#h2-s-12-the-critique-of-the-philosophy-of-consciousness",
+      "primary_locator": "The Essence of Manifestation, § 12",
+      "stratum": "essence-1963",
+      "predecessor": {
+        "author": "Martin Heidegger"
+      },
+      "mode": "acknowledged-debt",
+      "claim": "Henry endorses Heidegger's critique of Cartesian ontology, that Descartes read all being from the mathematical region, in order later to turn it against Heidegger.",
+      "quote": "The critique is Heidegger's; Henry endorses it precisely so that he can, in due course, turn the same critique against Heidegger himself"
+    },
+    {
+      "id": "inh/henry-em/030",
+      "locator": "henry-the-essence-of-manifestation-commentary#h2-s-12-the-critique-of-the-philosophy-of-consciousness",
+      "primary_locator": "The Essence of Manifestation, § 12",
+      "stratum": "essence-1963",
+      "predecessor": {
+        "author": "Jean-Paul Sartre"
+      },
+      "mode": "polemical-rejection",
+      "claim": "Henry rejects Sartre's attempt to house nothingness in human consciousness, since nothingness as the structure of transcendence cannot be located in any existent.",
+      "quote": "Sartre attempts to give nothingness a determinate ontic locus (in human consciousness), but nothingness — as the structure of transcendence — cannot be locally housed in any particular existent."
+    },
+    {
+      "id": "inh/henry-em/031",
+      "locator": "henry-the-essence-of-manifestation-commentary#h2-s-13-the-ambiguity-of-dasein-essence-and-ontic-determination",
+      "primary_locator": "The Essence of Manifestation, § 13",
+      "stratum": "essence-1963",
+      "predecessor": {
+        "author": "Martin Heidegger"
+      },
+      "mode": "acknowledged-debt",
+      "claim": "Henry endorses Heidegger's reading of Kantian finitude as receptivity and uses it to characterize monism: transcendence in every monist conception is essentially receptive.",
+      "quote": "Henry endorses Heidegger's reading and uses it to characterize the structure of monism"
+    },
+    {
+      "id": "inh/henry-em/032",
+      "locator": "henry-the-essence-of-manifestation-commentary#h2-s-14-the-relation-of-essence-and-ontic-determination-in-the-philosophy-of-consci",
+      "primary_locator": "The Essence of Manifestation, § 14",
+      "stratum": "essence-1963",
+      "predecessor": {
+        "author": "F. W. J. Schelling"
+      },
+      "mode": "polemical-rejection",
+      "claim": "Henry charges Schelling with confusing the transcendental with the object of inner sense, so that the phenomenal becoming of the essence is its self-suppression.",
+      "quote": "Unless one confuses the two, as Schelling does, it must be recognized that here again the phenomenal becoming of the essence of phenomenality is the *self-suppression* of this pure essence."
+    },
+    {
+      "id": "inh/henry-em/033",
+      "locator": "henry-the-essence-of-manifestation-commentary#h2-s-17-the-originary-character-of-the-manifestation-of-being-and-the-problem-of-na",
+      "primary_locator": "The Essence of Manifestation, § 17",
+      "stratum": "essence-1963",
+      "predecessor": {
+        "author": "Martin Heidegger"
+      },
+      "mode": "polemical-rejection",
+      "claim": "Henry rereads Heidegger's requirement that the determining element show itself as making being's self-showing depend on philosophical understanding; fundamental ontology misses the priority of being's self-manifestation.",
+      "quote": "even Heidegger's \"fundamental ontology\" — for all its virtues — has misunderstood the radical priority of being's self-manifestation"
+    },
+    {
+      "id": "inh/henry-em/034",
+      "locator": "henry-the-essence-of-manifestation-commentary#h2-s-20-critique-of-the-hegelian-concept-of-experience",
+      "primary_locator": "The Essence of Manifestation, § 20",
+      "stratum": "essence-1963",
+      "predecessor": {
+        "author": "G. W. F. Hegel",
+        "text": "Phenomenology of Spirit"
+      },
+      "mode": "polemical-rejection",
+      "claim": "Henry argues that the dialectic of the Phenomenology of Spirit rests on confusing the ontological with the existential sense of being-for-itself, which dissolves the system's apparent necessity.",
+      "quote": "The closing of §20 articulates the deepest critique of Hegel: the *Phenomenology of Spirit*'s entire dialectical structure rests on a confusion that, once exposed, dissolves the apparent necessity of the system."
+    },
+    {
+      "id": "inh/henry-em/035",
+      "locator": "henry-the-essence-of-manifestation-commentary#h2-s-21-the-reaffirmation-of-the-originary-character-of-the-manifestation-of-being",
+      "primary_locator": "The Essence of Manifestation, § 21",
+      "stratum": "essence-1963",
+      "predecessor": {
+        "author": "Martin Heidegger",
+        "text": "Holzwege"
+      },
+      "mode": "polemical-rejection",
+      "claim": "Henry rejects Heidegger's claim, made in his essay on Hegel's concept of experience, that representation belongs to the essence of experience, since there Heidegger follows Hegel's error.",
+      "quote": "It is therefore false to say (as Heidegger does, following Hegel) that *\"representation belongs to the essence of experience,\"*"
+    },
+    {
+      "id": "inh/henry-em/036",
+      "locator": "henry-the-essence-of-manifestation-commentary#h2-s-21-the-reaffirmation-of-the-originary-character-of-the-manifestation-of-being",
+      "primary_locator": "The Essence of Manifestation, § 21",
+      "stratum": "essence-1963",
+      "predecessor": {
+        "author": "G. W. F. Hegel"
+      },
+      "mode": "polemical-rejection",
+      "claim": "Against Hegel's absolute as essentially result, Henry vindicates the 'pistol shot' with which Hegel mocked Schelling's immediate positing of the absolute, against Hegel's own intent.",
+      "quote": "The Hegelian \"pistol shot\" — Hegel's polemical image (in the Preface to the *Phenomenology*) for Schelling's immediate positing of the absolute — is here vindicated, against Hegel's own intent."
+    },
+    {
+      "id": "inh/henry-em/037",
+      "locator": "henry-the-essence-of-manifestation-commentary#h2-s-24-reaffirming-the-central-place-of-the-problem-of-receptivity-and-the-ontolog",
+      "primary_locator": "The Essence of Manifestation, § 24",
+      "stratum": "essence-1963",
+      "predecessor": {
+        "author": "Martin Heidegger",
+        "text": "Kant und das Problem der Metaphysik"
+      },
+      "mode": "terminological-borrowing",
+      "claim": "Henry conscripts the Kant book's formulations of time as pure self-affection, but reverses their order: time's self-affecting is grounded in its capacity to be affected, not the reverse.",
+      "quote": "Heidegger grounds the self's capacity to be affected in time's self-affecting. Henry grounds time's self-affecting in its capacity to be affected."
+    },
+    {
+      "id": "inh/henry-em/038",
+      "locator": "henry-the-essence-of-manifestation-commentary#h2-s-28-the-abstractness-of-the-essence-of-manifestation-within-monism-s-ontologica",
+      "primary_locator": "The Essence of Manifestation, § 28",
+      "stratum": "essence-1963",
+      "predecessor": {
+        "author": "Jean-Paul Sartre"
+      },
+      "mode": "polemical-rejection",
+      "claim": "Henry calls it absurd to deny the for-itself self-subsistence, and Sartre is his example: the for-itself's alleged insufficiency is construed as a lack of the in-itself.",
+      "quote": "On this reckoning it is absurd to call the for-itself *unselbständig*, to deny that it is a self-subsistent substance — and Sartre's is Henry's example."
+    },
+    {
+      "id": "inh/henry-em/039",
+      "locator": "henry-the-essence-of-manifestation-commentary#h2-s-30-the-ontological-determination-of-the-original-essence-of-revelation-as-imma",
+      "primary_locator": "The Essence of Manifestation, § 30",
+      "stratum": "essence-1963",
+      "predecessor": {
+        "author": "Edmund Husserl"
+      },
+      "mode": "polemical-rejection",
+      "claim": "Henry declares Husserl's distinction between immanent and transcendent contents of experience inessential, since transcendence secures the reception of both.",
+      "quote": "Henry's answer is that Husserl's distinction between immanent and transcendent contents of experience is *inessential*"
+    },
+    {
+      "id": "inh/henry-em/040",
+      "locator": "henry-the-essence-of-manifestation-commentary#h2-s-31-the-fundamental-ambiguity-in-the-concept-of-auto-affection-auto-affection-a",
+      "primary_locator": "The Essence of Manifestation, § 31",
+      "stratum": "essence-1963",
+      "predecessor": {
+        "author": "Martin Heidegger",
+        "text": "Kant und das Problem der Metaphysik"
+      },
+      "mode": "polemical-rejection",
+      "claim": "Henry denies that pure affection of itself determines the essence of transcendence if, as in Heidegger, it is understood as auto-affection.",
+      "quote": "It is therefore false to say that pure affection of itself determines the deep essence of transcendence, if by pure affection of itself one means, as Heidegger does, auto-affection."
+    },
+    {
+      "id": "inh/henry-em/041",
+      "locator": "henry-the-essence-of-manifestation-commentary#h2-s-36-the-essential-ontological-signification-of-the-concept-of-immanence-the-imm",
+      "primary_locator": "The Essence of Manifestation, § 36",
+      "stratum": "essence-1963",
+      "predecessor": {
+        "author": "F. W. J. Schelling"
+      },
+      "mode": "polemical-rejection",
+      "claim": "Henry finds the confusion of immanence with objectivation in Schelling's I-monad, in which no objective opposite could arrive unless posited in the monad's own self-positing.",
+      "quote": "Henry finds the confusion at work in Schelling, who, speaking of the I-monad understood as identically consciousness, that is, the essence of presence as such"
+    },
+    {
+      "id": "inh/henry-em/042",
+      "locator": "henry-the-essence-of-manifestation-commentary#h2-s-37-the-internal-structure-of-immanence",
+      "primary_locator": "The Essence of Manifestation, § 37",
+      "stratum": "essence-1963",
+      "predecessor": {
+        "author": "G. W. F. Hegel",
+        "text": "Theologische Jugendschriften"
+      },
+      "mode": "acknowledged-debt",
+      "claim": "Henry retrieves the young Hegel's account of religious consciousness and baptism because it articulates in religious vocabulary the plenitude of the immanent essence.",
+      "quote": "Henry retrieves these early Hegelian analyses precisely because they articulate, in a religious-experiential vocabulary, what Henry will articulate in a structural-ontological vocabulary"
+    },
+    {
+      "id": "inh/henry-em/043",
+      "locator": "henry-the-essence-of-manifestation-commentary#h2-s-37-the-internal-structure-of-immanence",
+      "primary_locator": "The Essence of Manifestation, § 37",
+      "stratum": "essence-1963",
+      "predecessor": {
+        "author": "Søren Kierkegaard"
+      },
+      "mode": "acknowledged-debt",
+      "claim": "Henry grants that Kierkegaard rightly described the passivity that is a mode of freedom, which he distinguishes from ontological passivity.",
+      "quote": "with the passivity of which Kierkegaard could rightly say that *\"there must always be in passivity enough activity for it to be able to keep its passivity.\"*"
+    },
+    {
+      "id": "inh/henry-em/044",
+      "locator": "henry-the-essence-of-manifestation-commentary#h2-s-37-the-internal-structure-of-immanence",
+      "primary_locator": "The Essence of Manifestation, § 37",
+      "stratum": "essence-1963",
+      "predecessor": {
+        "author": "Martin Heidegger"
+      },
+      "mode": "polemical-rejection",
+      "claim": "Henry reads the powers of Heideggerian Dasein, its projecting, care and possibilities, as signs of its insufficiency and lack of full self-possession.",
+      "quote": "The Heideggerian Dasein's powers (its projecting, its Care, its possibilities) are, on Henry's reading, signs of its *insufficiency*"
+    },
+    {
+      "id": "inh/henry-em/045",
+      "locator": "henry-the-essence-of-manifestation-commentary#h2-s-38-the-internal-structure-of-immanence-and-the-problem-of-its-understanding-as",
+      "primary_locator": "The Essence of Manifestation, § 38",
+      "stratum": "essence-1963",
+      "predecessor": {
+        "author": "Johann Gottlieb Fichte",
+        "text": "Anweisung zum seligen Leben"
+      },
+      "mode": "acknowledged-debt",
+      "claim": "Henry reads Fichte's Anweisung, with its love as the absolute's self-maintenance, as the closest the philosophical tradition came to grasping the immanent essence.",
+      "quote": "The Fichtean *Anweisung* is, on Henry's reading, the closest the philosophical tradition came to grasping the immanent essence"
+    },
+    {
+      "id": "inh/henry-em/046",
+      "locator": "henry-the-essence-of-manifestation-commentary#h2-s-38-the-internal-structure-of-immanence-and-the-problem-of-its-understanding-as",
+      "primary_locator": "The Essence of Manifestation, § 38",
+      "stratum": "essence-1963",
+      "predecessor": {
+        "author": "Johann Gottlieb Fichte"
+      },
+      "mode": "polemical-rejection",
+      "claim": "Henry holds that Fichte's failure is structural: in accounting for manifestation he kept the monist concept of manifestation as representation, image and reflection.",
+      "quote": "Fichte's failure is *structural*: he continued to operate, in his account of *manifestation*, with the monist concept of manifestation (manifestation \\= representation \\= image \\= reflection)."
+    },
+    {
+      "id": "inh/henry-em/047",
+      "locator": "henry-the-essence-of-manifestation-commentary#h2-s-38-the-internal-structure-of-immanence-and-the-problem-of-its-understanding-as",
+      "primary_locator": "The Essence of Manifestation, § 38",
+      "stratum": "essence-1963",
+      "predecessor": {
+        "author": "Meister Eckhart"
+      },
+      "mode": "acknowledged-debt",
+      "claim": "Henry names Eckhart the single great exception to the tradition: his articulation of the divine essence and the soul's relation to it is structurally identical with Henry's immanent phenomenology.",
+      "quote": "The single great exception is *Meister Eckhart* — the medieval Rhineland mystic-philosopher (c. 1260–1328) — whose articulation of the structure of the divine essence and of the soul's relation to it is, on Henry's reading, structurally identical with the immanent phenomenology that Henry himself is articulating."
+    },
+    {
+      "id": "inh/henry-em/048",
+      "locator": "henry-the-essence-of-manifestation-commentary#h2-s-39-eckhart",
+      "primary_locator": "The Essence of Manifestation, § 39",
+      "stratum": "essence-1963",
+      "predecessor": {
+        "author": "Meister Eckhart"
+      },
+      "mode": "acknowledged-debt",
+      "claim": "Henry takes Eckhart's distinction between God and the Deity (Gottheit) as the most consequential conceptual distinction in his reading of the immanent essence.",
+      "quote": "The Eckhartian distinction between *Gott* (God) and *Gottheit* (Deity) is the most consequential conceptual distinction in Henry's reading."
+    },
+    {
+      "id": "inh/henry-em/049",
+      "locator": "henry-the-essence-of-manifestation-commentary#h2-s-39-eckhart",
+      "primary_locator": "The Essence of Manifestation, § 39",
+      "stratum": "essence-1963",
+      "predecessor": {
+        "author": "Meister Eckhart"
+      },
+      "mode": "terminological-borrowing",
+      "claim": "Henry takes Eckhart's eremitic words 'solitude' and 'desert' and reads them structurally, as ontological determinations of the internal structure of the essence.",
+      "quote": "The Eckhartian \"solitude\" and \"desert\" — vocabulary derived from the eremitic tradition (the desert fathers, the contemplative withdrawal from the world) — is here read structurally."
+    },
+    {
+      "id": "inh/henry-em/050",
+      "locator": "henry-the-essence-of-manifestation-commentary#h2-s-40-the-fundamental-ontological-presupposition-of-eckhart-s-thought-and-the-ori",
+      "primary_locator": "The Essence of Manifestation, § 40",
+      "stratum": "essence-1963",
+      "predecessor": {
+        "author": "Meister Eckhart"
+      },
+      "mode": "acknowledged-debt",
+      "claim": "Henry endorses and radicalizes Eckhart's point that the immanent revelation of the essence is not intuitive.",
+      "quote": "The critical point Eckhart makes (which Henry endorses and radicalizes) is that this immanent revelation is *not intuitive*."
+    },
+    {
+      "id": "inh/henry-em/051",
+      "locator": "henry-the-essence-of-manifestation-commentary#h2-s-40-the-fundamental-ontological-presupposition-of-eckhart-s-thought-and-the-ori",
+      "primary_locator": "The Essence of Manifestation, § 40",
+      "stratum": "essence-1963",
+      "predecessor": {
+        "author": "G. W. F. Hegel"
+      },
+      "mode": "polemical-rejection",
+      "claim": "Henry denies that Eckhart's unity of Father and Son has anything to do with the young Hegel's homogeneity of life between Jesus and God.",
+      "quote": "This is why such a unity has, despite the appearance, nothing to do with the unity which, for example, the young Hegel will recognize between Jesus and God"
+    },
+    {
+      "id": "inh/henry-em/052",
+      "locator": "henry-the-essence-of-manifestation-commentary#h2-s-42-the-ontological-determination-of-the-essence-of-situation-as-immanence-and",
+      "primary_locator": "The Essence of Manifestation, § 42",
+      "stratum": "essence-1963",
+      "predecessor": {
+        "author": "Martin Heidegger"
+      },
+      "mode": "polemical-rejection",
+      "claim": "Henry charges Heidegger with confusing, under the one term Nichtigkeit, the finitude of projection and the not-being-foundation of one's own being.",
+      "quote": "These two are fundamentally different structural phenomena, and Heidegger confuses them by using the same term."
+    },
+    {
+      "id": "inh/henry-em/053",
+      "locator": "henry-the-essence-of-manifestation-commentary#h2-s-43-situation-and-temporality-the-ontological-heterogeneity-of-their-originary",
+      "primary_locator": "The Essence of Manifestation, § 43",
+      "stratum": "essence-1963",
+      "predecessor": {
+        "author": "Martin Heidegger"
+      },
+      "mode": "polemical-rejection",
+      "claim": "Henry charges that Heidegger confuses the understanding of situation, which is free and existential, with the reality of situation, which is immanent and not free.",
+      "quote": "So Heidegger has confused the *understanding of situation* (which is modal, existential, free) with the *reality of situation* (which is structural, immanent, non-free)."
+    },
+    {
+      "id": "inh/henry-em/054",
+      "locator": "henry-the-essence-of-manifestation-commentary#h2-s-43-situation-and-temporality-the-ontological-heterogeneity-of-their-originary",
+      "primary_locator": "The Essence of Manifestation, § 43",
+      "stratum": "essence-1963",
+      "predecessor": {
+        "author": "Jean-Paul Sartre",
+        "text": "L'Être et le Néant"
+      },
+      "mode": "polemical-rejection",
+      "claim": "Henry reads Sartre's analysis of the for-itself as not the foundation of its being as the same structural confusion Heidegger commits.",
+      "quote": "Sartre's famous analysis in *L'Être et le Néant* (Part Two, Chapter One) of the *pour-soi* as not-being-foundation *of its being* is here read as the same structural confusion Heidegger commits."
+    },
+    {
+      "id": "inh/henry-em/055",
+      "locator": "henry-the-essence-of-manifestation-commentary#h2-s-44-the-concept-of-situation-in-existentialism-the-failure-of-ontology-and-real",
+      "primary_locator": "The Essence of Manifestation, § 44",
+      "stratum": "essence-1963",
+      "predecessor": {
+        "author": "Maurice Merleau-Ponty",
+        "text": "Phénoménologie de la perception"
+      },
+      "mode": "acknowledged-debt",
+      "claim": "Henry credits Merleau-Ponty with a genuine presentiment of a philosophy of immanence in his critique of reflection and his diagnosis of its dependence on unreflected life.",
+      "quote": "Henry credits Merleau-Ponty with a genuine \"presentiment\" of a philosophy of immanence"
+    },
+    {
+      "id": "inh/henry-em/056",
+      "locator": "henry-the-essence-of-manifestation-commentary#h2-s-44-the-concept-of-situation-in-existentialism-the-failure-of-ontology-and-real",
+      "primary_locator": "The Essence of Manifestation, § 44",
+      "stratum": "essence-1963",
+      "predecessor": {
+        "author": "Maurice Merleau-Ponty"
+      },
+      "mode": "polemical-rejection",
+      "claim": "Henry holds that Merleau-Ponty fails to articulate unreflected life as immanence and so repeats, more subtly, Sartre's confusion of immanence with a brute natural given.",
+      "quote": "But Merleau-Ponty fails to articulate this unreflected life as *immanence* in the proper structural-ontological sense."
+    },
+    {
+      "id": "inh/henry-em/057",
+      "locator": "henry-the-essence-of-manifestation-commentary#h2-s-45-the-dissimulation-of-the-originary-essence-of-revelation-and-its-forgetting",
+      "primary_locator": "The Essence of Manifestation, § 45",
+      "stratum": "essence-1963",
+      "predecessor": {
+        "author": "Martin Heidegger"
+      },
+      "mode": "polemical-rejection",
+      "claim": "Henry grants Heidegger's critique of the Cartesian interior sphere but holds that it rejects the very concept of immanence along with the misrepresentation.",
+      "quote": "But Heidegger's critique *throws out the baby with the bathwater*: in rejecting the Cartesian misrepresentation of interiority, Heidegger also rejects the very *concept* of immanence"
+    },
+    {
+      "id": "inh/henry-em/058",
+      "locator": "henry-the-essence-of-manifestation-commentary#h2-s-45-the-dissimulation-of-the-originary-essence-of-revelation-and-its-forgetting",
+      "primary_locator": "The Essence of Manifestation, § 45",
+      "stratum": "essence-1963",
+      "predecessor": {
+        "author": "Maurice Merleau-Ponty"
+      },
+      "mode": "terminological-borrowing",
+      "claim": "Henry turns Merleau-Ponty's phrase that consciousness forgets its own phenomena, against its author's intention, into a formula for consciousness's structural forgetting of its immanent life.",
+      "quote": "Merleau-Ponty's phrase \"the essence of consciousness is to forget its own phenomena\" thus becomes, against its author's intention, a formula for *exactly what Henry has been arguing*"
+    },
+    {
+      "id": "inh/henry-em/059",
+      "locator": "henry-the-essence-of-manifestation-commentary#h2-s-45-the-dissimulation-of-the-originary-essence-of-revelation-and-its-forgetting",
+      "primary_locator": "The Essence of Manifestation, § 45",
+      "stratum": "essence-1963",
+      "predecessor": {
+        "author": "Edmund Husserl"
+      },
+      "mode": "acknowledged-debt",
+      "claim": "Henry reads with sympathy Husserl's location of the reduction's motivation in a transcendental ego we are without knowing it, as half-recognized testimony to originary immanence.",
+      "quote": "Henry reads this with great interpretive sympathy: Husserl's inability to find a motivation for the reduction *within thought*"
+    },
+    {
+      "id": "inh/henry-em/060",
+      "locator": "henry-the-essence-of-manifestation-commentary#h2-s-46-the-critique-of-knowledge-the-essence-of-religion",
+      "primary_locator": "The Essence of Manifestation, § 46",
+      "stratum": "essence-1963",
+      "predecessor": {
+        "author": "Immanuel Kant"
+      },
+      "mode": "terminological-borrowing",
+      "claim": "Henry keeps the phrase 'critique of knowledge' but not its Kantian sense: not the positive conditions of knowing the object, but the limit of knowledge before the absolute.",
+      "quote": "By *critique of knowledge* one does not understand here (as one does traditionally since Kant) the determination of the *positive* conditions of the knowledge of the object."
+    },
+    {
+      "id": "inh/henry-em/061",
+      "locator": "henry-the-essence-of-manifestation-commentary#h2-s-46-the-critique-of-knowledge-the-essence-of-religion",
+      "primary_locator": "The Essence of Manifestation, § 46",
+      "stratum": "essence-1963",
+      "predecessor": {
+        "author": "Johann Gottlieb Fichte"
+      },
+      "mode": "acknowledged-debt",
+      "claim": "Henry gives philosophical signification to Fichte's distinction, made with respect to the divine, between the historical and the metaphysical element of the phenomenon.",
+      "quote": "gives its philosophical signification to *the distinction instituted by Fichte* (apropos of the divine precisely) between the *\"historical\"* and the *\"metaphysical\"* element of the phenomenon."
+    },
+    {
+      "id": "inh/henry-em/062",
+      "locator": "henry-the-essence-of-manifestation-commentary#h2-s-48-the-ontological-signification-of-the-critique-of-rationalism",
+      "primary_locator": "The Essence of Manifestation, § 48",
+      "stratum": "essence-1963",
+      "predecessor": {
+        "author": "René Descartes"
+      },
+      "mode": "polemical-rejection",
+      "claim": "Henry charges Descartes with carrying the confusion of the two phenomenalities to its extreme by making the 'I think' the first fact and the prototype of knowledge.",
+      "quote": "Not only does Descartes commit such a confusion, but he carries this confusion in a certain way to its extreme point when — not content with assimilating the *je pense* to a knowledge — he claims to see in the *je pense* the first *fact* and, what is more, *the prototype* of knowledge."
+    },
+    {
+      "id": "inh/henry-em/063",
+      "locator": "henry-the-essence-of-manifestation-commentary#h2-s-49-ontological-signification-of-the-critique-of-knowledge-in-eckhart",
+      "primary_locator": "The Essence of Manifestation, § 49",
+      "stratum": "essence-1963",
+      "predecessor": {
+        "author": "Meister Eckhart"
+      },
+      "mode": "acknowledged-debt",
+      "claim": "Henry credits Eckhart with turning the critique of knowledge into an ontological analysis, an analysis of being itself, beyond merely religious or moral formulations.",
+      "quote": "This is the decisive achievement of Eckhart over all merely religious or moral formulations: the critique of knowledge becomes an *ontological* analysis, an analysis of being itself."
+    },
+    {
+      "id": "inh/henry-em/064",
+      "locator": "henry-the-essence-of-manifestation-commentary#h2-s-50-the-non-face-of-the-essence",
+      "primary_locator": "The Essence of Manifestation, § 50",
+      "stratum": "essence-1963",
+      "predecessor": {
+        "author": "Søren Kierkegaard"
+      },
+      "mode": "acknowledged-debt",
+      "claim": "Henry draws on Kierkegaard's saying of the lily of the field, that there is no difference between its garment and its being, to formulate the hiddenness of the essence as its manifestation.",
+      "quote": "for (as Kierkegaard says of the lily of the field) *\"there is no difference between its garment and its being.\"*"
+    },
+    {
+      "id": "inh/henry-em/065",
+      "locator": "henry-the-essence-of-manifestation-commentary#h2-s-50-the-non-face-of-the-essence",
+      "primary_locator": "The Essence of Manifestation, § 50",
+      "stratum": "essence-1963",
+      "predecessor": {
+        "author": "Immanuel Kant",
+        "text": "Critique of Pure Reason"
+      },
+      "mode": "polemical-rejection",
+      "claim": "Once the invisible is seen to be an originary mode of phenomenality, Henry reverses the Kantian restriction of knowledge to the visible.",
+      "quote": "Once it is seen that the \"invisible\" names an alternative mode of phenomenality, the Kantian restriction is *reversed*"
+    },
+    {
+      "id": "inh/henry-em/066",
+      "locator": "henry-the-essence-of-manifestation-commentary#h2-s-51-visible-and-invisible",
+      "primary_locator": "The Essence of Manifestation, § 51",
+      "stratum": "essence-1963",
+      "predecessor": {
+        "author": "G. W. F. Hegel"
+      },
+      "mode": "polemical-rejection",
+      "claim": "Henry calls simply absurd the young Hegel's critique of Christianity, that Jesus, unable to live the Kingdom on earth, transferred it to heaven and so constituted a disappointed life.",
+      "quote": "thus constituted in ideality a disappointed life* — *is simply absurd*"
+    },
+    {
+      "id": "inh/henry-em/067",
+      "locator": "henry-the-essence-of-manifestation-commentary#h2-s-52-fundamental-ontological-interpretation-of-the-original-essence-of-revelatio",
+      "primary_locator": "The Essence of Manifestation, § 52",
+      "stratum": "essence-1963",
+      "predecessor": {
+        "author": "Max Scheler"
+      },
+      "mode": "polemical-rejection",
+      "claim": "Henry refuses Scheler's a priori of feeling, and behind it Kant's respect (Achtung) as a pure feeling produced by reason.",
+      "quote": "The construction Henry is refusing is Scheler's a priori of feeling, and behind it Kant's *Achtung* as a pure feeling produced by reason"
+    },
+    {
+      "id": "inh/henry-em/068",
+      "locator": "henry-the-essence-of-manifestation-commentary#h2-s-53-affectivity-as-original-ontological-passivity-and-the-effectivity-of-its-es",
+      "primary_locator": "The Essence of Manifestation, § 53",
+      "stratum": "essence-1963",
+      "predecessor": {
+        "author": "René Descartes"
+      },
+      "mode": "polemical-rejection",
+      "claim": "Henry holds that Descartes, filing all affects under passion, looks for their essence in passivity without an adequate ontological concept of passivity.",
+      "quote": "Descartes files all the affects under the common rubric of passion, and so looks for their essence in passivity — but he has no adequate, ontological concept of passivity."
+    },
+    {
+      "id": "inh/henry-em/069",
+      "locator": "henry-the-essence-of-manifestation-commentary#h2-s-53-affectivity-as-original-ontological-passivity-and-the-effectivity-of-its-es",
+      "primary_locator": "The Essence of Manifestation, § 53",
+      "stratum": "essence-1963",
+      "predecessor": {
+        "author": "Martin Heidegger"
+      },
+      "mode": "terminological-borrowing",
+      "claim": "Henry borrows Heidegger's gathering (Versammlung) and reassigns it: not the gathering of the logos in the open but the coincidence of being with itself without any opening.",
+      "quote": "The vocabulary of gathering (*Versammlung*) is borrowed from Heidegger and reassigned: it names not the gathering of the *logos* in the open but the coincidence of being with itself in the absence of any opening."
+    },
+    {
+      "id": "inh/henry-em/070",
+      "locator": "henry-the-essence-of-manifestation-commentary#h2-s-54-ontological-interpretation-of-affectivity-as-the-foundation-of-affection-th",
+      "primary_locator": "The Essence of Manifestation, § 54",
+      "stratum": "essence-1963",
+      "predecessor": {
+        "author": "Martin Heidegger",
+        "text": "Sein und Zeit"
+      },
+      "mode": "polemical-rejection",
+      "claim": "Henry denies the equiprimordiality of Befindlichkeit and Verstehen in Sein und Zeit, holding that their bond is one of foundation.",
+      "quote": "This is the explicit break with *Sein und Zeit*: Heidegger's equiprimordiality of *Befindlichkeit* and *Verstehen* is exactly the thesis Henry denies, because their bond is one of foundation."
+    },
+    {
+      "id": "inh/henry-em/071",
+      "locator": "henry-the-essence-of-manifestation-commentary#h2-s-55-ontological-determination-of-affection-by-affectivity",
+      "primary_locator": "The Essence of Manifestation, § 55",
+      "stratum": "essence-1963",
+      "predecessor": {
+        "author": "Max Scheler"
+      },
+      "mode": "acknowledged-debt",
+      "claim": "Henry credits Scheler with seeing forcefully that genuine despair is indifferent to the circumstances in which it arose and cannot be modified through them.",
+      "quote": "Despair, as Scheler saw forcefully, shows itself wherever there is genuine despair as fundamentally indifferent to the circumstances surrounding it"
+    },
+    {
+      "id": "inh/henry-em/072",
+      "locator": "henry-the-essence-of-manifestation-commentary#h2-s-55-ontological-determination-of-affection-by-affectivity",
+      "primary_locator": "The Essence of Manifestation, § 55",
+      "stratum": "essence-1963",
+      "predecessor": {
+        "author": "Max Scheler"
+      },
+      "mode": "polemical-rejection",
+      "claim": "Henry turns Scheler's observation against his restriction of it: beatitude and despair are not the only tonalities independent of the world's affection.",
+      "quote": "Scheler was wrong to call them the only feelings one cannot even conceive as produced or merited by our conduct or by the course of circumstances."
+    },
+    {
+      "id": "inh/henry-em/073",
+      "locator": "henry-the-essence-of-manifestation-commentary#h2-s-56-affectivity-and-sensations",
+      "primary_locator": "The Essence of Manifestation, § 56",
+      "stratum": "essence-1963",
+      "predecessor": {
+        "author": "Jean-Paul Sartre",
+        "text": "L'imaginaire"
+      },
+      "mode": "polemical-rejection",
+      "claim": "Henry takes from Sartre's L'imaginaire the formula that there are no feelings without bodily phenomena, as a pointed witness to the transcendent explanation of affectivity he rejects.",
+      "quote": "a formula Henry takes from Sartre's *L'imaginaire* (177), and the choice of source is pointed"
+    },
+    {
+      "id": "inh/henry-em/074",
+      "locator": "henry-the-essence-of-manifestation-commentary#h2-s-56-affectivity-and-sensations",
+      "primary_locator": "The Essence of Manifestation, § 56",
+      "stratum": "essence-1963",
+      "predecessor": {
+        "author": "Edmund Husserl"
+      },
+      "mode": "terminological-borrowing",
+      "claim": "Henry keeps the word immanence but moves what Husserl counts as real (reell) immanence, adumbrations and data, wholly onto the side of transcendence.",
+      "quote": "The redefinition matters: what Husserl counts as *reell* immanence falls, for Henry, wholly on the side of transcendence"
+    }
+  ]
+}
