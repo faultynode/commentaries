@@ -162,7 +162,7 @@ Next candidates, by term density:
 
 ## Inheritance index
 
-27 commentaries · 205 engagements
+28 commentaries · 279 engagements
 
 - `derrida-introduction-a-lorigine-de-la-geometrie-commentary` - 10 engagements (partial)
 - `franck-chair-et-corps-commentary` - 12 engagements (partial)
@@ -171,6 +171,7 @@ Next candidates, by term density:
 - `heidegger-ga-24-die-grundprobleme-der-phanomenologie-commentary` - 4 engagements (partial)
 - `heidegger-sein-und-zeit-commentary` - 19 engagements (partial)
 - `henry-philosophie-et-phenomenologie-du-corps-commentary` - 7 engagements (partial)
+- `henry-the-essence-of-manifestation-commentary` - 74 engagements (partial)
 - `husserl-erfahrung-und-urteil-commentary` - 8 engagements (partial)
 - `husserl-formal-and-transcendental-logic-commentary` - 12 engagements (partial)
 - `husserl-krisis-commentary` - 14 engagements (partial)
