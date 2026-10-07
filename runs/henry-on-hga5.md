@@ -4,8 +4,16 @@ Skill: paragraph-by-paragraph-comparative-commentary
 
 Commentary R (reading text): commentaries/henry/henry-the-essence-of-manifestation-commentary.md
   (covers the Introduction to §57; it does not cover the Appendix, so R §72 is read from the source alone)
-Commentary P (read text):    none. No commentary on GA 5 or on the Hegel essay exists in commentaries/.
-  P is read directly from the source. Every claim about P rests on GA 5's text, not on a prior reading of it.
+Commentary P (read text):    commentaries/heidegger/heidegger-ga-5-hegels-begriff-der-erfahrung-commentary.md
+  (landed 2026-10-07, commit e6949f9). Every paragraph of GA 5, 115-208 is a unit, headed by its GA page in
+  parentheses, e.g. "(145–46)"; it does not use the 1950 page numbers, so Henry's H must be converted first (mapping below).
+  Hegel's sixteen reprinted sections of the Introduction are units in their own right, kept to Hegel's argument.
+  Its H3 headings are the commentary's own (Heidegger's text has none): cite them as Commentary P's, never as divisions of P.
+  Its fixed vocabulary and its eight misreading guards (opening paragraphs) are a reading too; where it differs from this file,
+  this file governs for the run, and the difference is noted in the glossary.
+  Spot-checked against the source on 2026-10-07: its units at GA 145 ("Representing rules in all modes of consciousness"),
+  145-46 (subjectity as "presence in the manner of re-presentation") and 175-76 ("ontic consciousness") agree with
+  the GA 5 file's pages and wording. Nothing else has been checked; verify P's text at every locus as the skill requires.
   Secondary aid, not a substitute: sources/heidegger/zaborowski-ed-martin-heidegger-holzwege.md, ch. 5
   (Sylvaine Gourdain Castaing on "Hegels Begriff der Erfahrung"; unreviewed ebook conversion, 2024).
   Cite it only as a reading, never as P.
@@ -32,6 +40,18 @@ Output: outputs/henry-on-hga5-comparative-commentary.md
 ## Pair-specific notes
 (misreading guards, glossary decisions, edition mappings, settled once and kept)
 
+### Henry's H loci in Commentary P
+
+Commentary P's units by GA page, with its section heading (headings are the commentary's):
+- H 126 (GA 137-38), H 129 (GA 140-41): "Science's Coming on the Scene: Appearance and Semblance", units (137-38) to (141-42).
+- H 133-134 (GA 144-46), H 136 (GA 147-49), H 140 (GA 152-53): "Natural Consciousness and Real Knowing: The Way of Despair", units (144) to (156); H 133-134 = (144-45), (145-46).
+- H 144 (GA 156-57): straddles the last unit of that section, (156), and "Completeness and Determinate Negation", units (156) to (157).
+- H 161, 163 (GA 175-78): "Consciousness Tests Itself: Ontic and Ontological Consciousness", units (175)-(178).
+- H 167 (GA 181-82), H 169-170 (GA 183-86): "Experience as the Being of Beings: The Dialectical Movement", units (181)-(186).
+- H 173, 175, 176, 178 (GA 188-94): "The Reversal of Consciousness and Our Contribution", units (188)-(194).
+- H 181 (GA 196-97): "Science, Phenomenology, and the Parousia of the Absolute", units (195-96)-(197).
+- H 189-190 (GA 205-07): same heading, units (205)-(207).
+
 ### Relation to the GA 3 run
 
 runs/henry-on-hga3.md and its output already treat every H quotation in Section II, Section I's H 189-190, and
@@ -51,6 +71,9 @@ do not edit the GA 3 output from this run.
 7. **Henry joins this essay to the Kantbuch.** EM reads the 1942-43 Hegel essay and the 1929 Kantbuch as one "philosophy of transcendence"; Section I §13 sets H next to SZ, Section II §28 next to K. Note where the turn between them matters, especially on presence, history (R §21's "non-historical character" is aimed at the essay's history of the absolute's Parousia) and forgetting.
 8. **Henry's French is his own.** Every H rendering in EM is Henry's, so a tilt in it counts as his move unless the 1962 French translation is shown to carry it. Settled in the GA 3 run, to re-verify: *Darstellung* as "représentation" (H 174-181), *Sicherscheinen des Erscheinens* as "s'apparaître de l'apparaître" (H 170, 173), "Schauplatz" turned into "le champ où l'Erscheinen parvient à l'intuition de soi" and "gebildet" into "fait" (H 134), and the cuts at H 126 ("schon"), H 163 ("doch noch", "vorontologisch"), H 167 ("schon zu sein"), H 189-190.
 
+9. **Dasein in the essay is Hegel's existence.** (Added 2026-10-07, from Commentary P's fourth guard, checked at GA 146.) The essay's *Dasein* is Hegel's existence or determinate presence, glossed by Heidegger as presencing (H 134 / GA 5 146), not the being-there of *Being and Time*. R §13 ("The ambiguity of 'Dasein'") sets the reversal passage (H 190) into an argument about world, transcendence and finitude drawn from SZ and *Vom Wesen des Grundes*. Mark where Henry's Dasein and the essay's diverge.
+10. **Heidegger's "being" is not Hegel's "Sein".** (Added 2026-10-07, from Commentary P's third guard.) For Hegel *Sein* names the still-untrue immediacy of objects; Heidegger applies "being" to what Hegel calls actuality, appearing and absoluteness, and says so (GA 5 154-55). When Henry writes "l'être" against an H quotation, fix whose word it is before reading it as monism's "being".
+
 ### Glossary (fixed for this run)
 
 - Translation rule: every German or French quotation carries an English rendering, in the citation parenthesis ("German" (English, H 126 / GA 5 137)) or as an apposition. Single quoted words count. A quotation repeated within one paragraph may rely on its first rendering there. In the output (a commentary file) English leads, per prompts/commentary-prompt.md; in this run file and in chat the original leads.
@@ -58,10 +81,10 @@ do not edit the GA 3 output from this run.
 - Henry *l'essence*: "the essence" (of manifestation), always Henry's term. Henry *monisme ontologique*: "ontological monism". *Distance phénoménologique*: "phenomenological distance".
 - Heidegger *Erscheinen*: "appearing" (Henry keeps "l'Erscheinen"). Hegel *Erscheinung*: "appearance"; Hyppolite's "manifestation" is marked as his. *Sicherscheinen*: "self-appearing". *Schein*: "semblance" (Henry "apparence").
 - *Parusie*: "Parousia". *Anwesen*, *Anwesenheit*: "presencing", "presence". *Präsenz*: "presence" (marked where it stands for Heidegger's Latinate word). *Repräsentation*: "representation" (marked).
-- *Vorstellen*, *Vor-stellen*: "representing" (hyphen kept when Heidegger hyphenates). *Darstellung*: "presentation" (Henry "représentation", marked each time).
+- *Vorstellen*, *Vor-stellen*: "representing" (hyphen kept when Heidegger hyphenates). *Darstellung*: "exposition" (Henry "représentation", marked each time). *Präsentation*: "presentation". (Amended 2026-10-07, before any unit was written, to match Commentary P, which reserves "presentation" for *Präsentation*; the GA 3 run's "presentation" for *Darstellung* is the same word.)
 - *Subjektität*: "subjectity" (Henry "subjectivité", marked). *Subjektivität*: "subjectivity".
 - *natürliches Bewußtsein*: "natural consciousness"; *reales Wissen*: "real knowledge"; *erscheinendes Wissen*: "appearing knowledge"; *ontisches* / *ontologisches Bewußtsein*: "ontic" / "ontological consciousness"; *vorontologisch*: "pre-ontological".
-- *Umkehrung*: "reversal" (Henry "renversement"). *Zutat*: "addition". *Zusehen*: "looking-on". *Stätte*: "site". *Schauplatz*: "stage". *Wesensspielraum*: "essential play-space". *Entäußerung*: "externalization" in Hegel's German, "alienation" when reporting Hyppolite's and Henry's "aliénation".
+- *Umkehrung*: "reversal" (Henry "renversement"). *Zutat*: "our contribution" (amended 2026-10-07 to match Commentary P; the GA 3 run's "addition"). *Zusehen*: "looking-on". *Stätte*: "site". *Schauplatz*: "stage". *Wesensspielraum*: "essential play-space". *Entäußerung*: "externalization" in Hegel's German, "alienation" when reporting Hyppolite's and Henry's "aliénation".
 - Retained untranslated: Dasein (being-there).
 
 ### Edition mappings
@@ -86,3 +109,4 @@ do not edit the GA 3 output from this run.
 
 ## Progress
 Last completed unit: none (run file created 2026-10-07; output file not yet started)
+Revision: 2026-10-07, Commentary P (GA 5 commentary) added; H loci mapped to its units; guards 9-10 added; glossary aligned with it on *Darstellung* and *Zutat*.
