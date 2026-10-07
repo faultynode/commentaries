@@ -1790,6 +1790,7 @@
 - `lacan-seminar-11-the-four-fundamental-concepts-of-psychoanalysis-commentary` - 4 term hits, no record
 - `aristotle-de-anima-commentary` - 3 term hits, no record
 - `heidegger-ga-17-einfuhrung-in-die-phanomenologische-forschung-commentary` - 3 term hits, no record
+- `heidegger-ga-5-hegels-begriff-der-erfahrung-commentary` - 3 term hits, no record
 - `derrida-la-voix-et-le-phenomene-commentary` - 2 term hits, no record
 - `heidegger-ga-19-platon-sophistes-commentary` - 2 term hits, no record
 - `husserl-erfahrung-und-urteil-commentary` - 2 term hits, no record
