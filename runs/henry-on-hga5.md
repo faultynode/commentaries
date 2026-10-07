@@ -73,6 +73,7 @@ do not edit the GA 3 output from this run.
 
 9. **Dasein in the essay is Hegel's existence.** (Added 2026-10-07, from Commentary P's fourth guard, checked at GA 146.) The essay's *Dasein* is Hegel's existence or determinate presence, glossed by Heidegger as presencing (H 134 / GA 5 146), not the being-there of *Being and Time*. R §13 ("The ambiguity of 'Dasein'") sets the reversal passage (H 190) into an argument about world, transcendence and finitude drawn from SZ and *Vom Wesen des Grundes*. Mark where Henry's Dasein and the essay's diverge.
 10. **Heidegger's "being" is not Hegel's "Sein".** (Added 2026-10-07, from Commentary P's third guard.) For Hegel *Sein* names the still-untrue immediacy of objects; Heidegger applies "being" to what Hegel calls actuality, appearing and absoluteness, and says so (GA 5 154-55). When Henry writes "l'être" against an H quotation, fix whose word it is before reading it as monism's "being".
+11. **The essay's history is what Henry cuts, and its vocabulary is what he absorbs.** (Added 2026-10-07, from Section I.) Henry's departures from the German fall in one pattern: he removes the clauses that give a term its history or mark the voice ("das im Verlauf seiner Geschichte keineswegs das gleiche bleibt" [which in the course of its history by no means remains the same], H 161; the "Bei gehöriger Vorsicht" [with due caution] frame of "ontisches Bewußtsein", H 161; "Die Wirklichkeit dieses Wirklichen" [the actuality of this actual], H 134), and he adds "humain" [human] to the subject of H 134. Far more of the essay is present uncited than cited: Parusie, the means (Mittel), reales Wissen, das Formelle (H 173), Vordergrund des Lichtes (H 164), the immanence of absolute knowledge in natural consciousness (H 136, 146). Check every unit, cited or not, for uncited GA 5 vocabulary, and check every quotation for a cut historical or framing clause.
 
 ### Glossary (fixed for this run)
 
@@ -85,6 +86,8 @@ do not edit the GA 3 output from this run.
 - *Subjektität*: "subjectity" (Henry "subjectivité", marked). *Subjektivität*: "subjectivity".
 - *natürliches Bewußtsein*: "natural consciousness"; *reales Wissen*: "real knowledge"; *erscheinendes Wissen*: "appearing knowledge"; *ontisches* / *ontologisches Bewußtsein*: "ontic" / "ontological consciousness"; *vorontologisch*: "pre-ontological".
 - *Umkehrung*: "reversal" (Henry "renversement"). *Zutat*: "our contribution" (amended 2026-10-07 to match Commentary P; the GA 3 run's "addition"). *Zusehen*: "looking-on". *Stätte*: "site". *Schauplatz*: "stage". *Wesensspielraum*: "essential play-space". *Entäußerung*: "externalization" in Hegel's German, "alienation" when reporting Hyppolite's and Henry's "aliénation".
+- *Scheinen*: "shining"; *Anschein*: "seeming"; *Schein*: "semblance" (as above). Henry renders *Scheinen* "l'acte d'apparaître" (H 129) and both *Anschein* and *Schein* "apparence"; mark each time. (Added 2026-10-07.)
+- *Gegenständlichkeit*: "objectness" (Commentary P's word too); *Objektivität*: "objectivity". *Absolvenz*: "absolvence". *Strahl*: "ray". *Meinen*: "opinion". *Hinausriß*: "tearing-out". *Gewalt*: "force" in Commentary P, "violence" where Hegel's "leidet ... diese Gewalt" is quoted. (Added 2026-10-07.)
 - Retained untranslated: Dasein (being-there).
 
 ### Edition mappings
@@ -96,17 +99,24 @@ do not edit the GA 3 output from this run.
 - H→GA 5, from the source's markers (an H page spans the GA range given; fix the exact GA page from the quotation at first use):
   126→137-138 · 129→140-141 · 133→144-145 · 134→145-146 · 136→147-149 · 140→152-153 · 144→156-157 · 161→175-176 · 163→177-178 · 167→181-182 · 169→183-184 · 170→184-186 · 173→188-189 · 175→190-191 · 176→191-192 · 178→193-194 · 181→196-197 · 189→205-206 · 190→206-207.
   Located so far: H 133 "Das Vor-stellen waltet in allen Weisen des Bewußtseins" = GA 5 145; H 134 "Subjektität ... die Präsenz in der Weise der Repräsentation" = GA 5 146; H 161 "ontisches Bewußtsein" = GA 5 175-176.
+  Section I loci, fixed from the quotations (2026-10-07): n. 7 H 129 "jenem Scheinen, dessen sogar der Anschein bedarf" = GA 5 141; n. 32 H 161 "birgt in sich ein eigenes Wesen von Seiendheit" = GA 5 175; n. 46 H 133 = GA 5 145; n. 47 H 134 "Das Vorstellen präsentiert in der Weise der Repräsentation" = GA 5 145; n. 66 H 134 "die Subjektität des Subjekts, ist das Erscheinen selbst" = GA 5 146; n. 80 H 134 = GA 5 146; n. 82 H 161 "das ontische Bewußtsein heißen" = GA 5 175; n. 83 H 172-173 "stellt sein Vorgestelltes und sein Vorstellen unmittelbar vor als Seiendes" = GA 5 188; n. 95 H 190 "Aber in der Umkehrung soll es den Aufenthalt ..." = GA 5 206.
+  Hegel's Introduction in the essay, by the essay's numbering of the sections: 1 = GA 5 115-117, 4 = 118-119 (= PhE I 68, R §8 n. 8), 6 = 119-120, 8 = 121-122, 12 = 123-124, 16 = 127-128.
 - Cite as "R §11 ¶n, n. 66 / H 134 / GA 5 146" at first use of a locus, then "H 134 / GA 5 146".
 - Henry's *PhE* = Hegel, *La Phénoménologie de l'esprit*, trad. J. Hyppolite, Aubier, 2 vols. See runs/henry-on-hga3.md, Edition mappings, for the notes verified there on page images.
 
 ### Corpus flags (raised, not fixed here)
 
 - sources: `heidegger-ga-5-hegels-begriff-der-erfahrung.md` (added 2026-10-05, commit dde75d3) is missing from docs/corpus-map.md, and that commit's message calls it "translated by Michael Inwood", though the file is Heidegger's German.
+- commentaries: Commentary R divides some sections of Henry differently from the text. In §8 it counts 13 units where the source has 16 (its ¶8 covers source ¶¶8-9, its ¶9 covers ¶¶10-11, its ¶13 covers ¶¶15-16). This run follows the source's paragraphs. (Raised 2026-10-07.)
 
 ### Open threads
 
-(none yet)
+- R §13 ¶12 (earth, stone, temple, "la terre est le lieu de la lumière") resembles "Der Ursprung des Kunstwerkes", which opens the same *Holzwege* volume. Not in this run's range; not checked. Flagged in the unit as a resemblance only. (2026-10-07.)
+- R §11 ¶17, n. 67: Henry reads the identity of subjectivity and world through Beaufret (1947) and Birault (1951). Neither is in the corpus; the mediation is noted from Henry's note alone. (2026-10-07.)
+- H 190 (R §13 ¶6): this run reads Henry's gloss as supported by the essay's next paragraph ("anwesend bei ... dem Anwesenden", present alongside what is present, H 190 / GA 5 206), which the GA 3 output does not cite. No contradiction with the GA 3 output, which treats the sentence only as Section II's dropped turn. (2026-10-07.)
+- Section II should test Henry's "s'apparaître de l'apparaître" against the essay's Sicherscheinen formulas collected at R §13 ¶8 (H 164, 171, 175) and §16 ¶1, and his "représentation" for Darstellung against H 168, 171 (exposition belongs to experience), as set up at §14 ¶8 and §16 ¶3. (2026-10-07.)
 
 ## Progress
-Last completed unit: none (run file created 2026-10-07; output file not yet started)
+Last completed unit: Section I, §16 ¶9 (end of Section I; closing paragraph written). 113 units: §8 16, §9 7, §10 11, §11 25, §12 8, §13 15, §14 10, §15 12, §16 9. Next: Section II, §17 ¶1.
 Revision: 2026-10-07, Commentary P (GA 5 commentary) added; H loci mapped to its units; guards 9-10 added; glossary aligned with it on *Darstellung* and *Zutat*.
+Revision: 2026-10-07, Section I written; guard 11 added; glossary extended (*Scheinen*, *Gegenständlichkeit*, *Absolvenz* and others); corpus flag on Commentary R's paragraph division; open threads opened.
