@@ -2767,6 +2767,122 @@
       ]
     },
     {
+      "slug": "freud-das-unbewusste-commentary",
+      "path": "commentaries/freud/freud-das-unbewusste-commentary.md",
+      "author": "freud",
+      "title": "Freud, Das Unbewußte (1915): Commentary",
+      "wordpress_id": null,
+      "sha256": "152eae8406d02e75e735426e1f613ad1920b2c8520aa0d91e7b869cb278f0749",
+      "lines": 170,
+      "words": 14194,
+      "url": "https://faultynode.github.io/commentaries/commentaries/freud/freud-das-unbewusste-commentary.html",
+      "sections": [
+        {
+          "id": "h1-freud-das-unbewu-te-1915-commentary",
+          "level": 1,
+          "title": "Freud, Das Unbewußte (1915): Commentary",
+          "path": [
+            "Freud, Das Unbewußte (1915): Commentary"
+          ],
+          "anchor": "freud-das-unbewute-1915-commentary",
+          "line_start": 1,
+          "line_end": 10,
+          "words": 444
+        },
+        {
+          "id": "h2-i-the-justification-of-the-unconscious",
+          "level": 2,
+          "title": "I. The Justification of the Unconscious",
+          "path": [
+            "Freud, Das Unbewußte (1915): Commentary",
+            "I. The Justification of the Unconscious"
+          ],
+          "anchor": "i-the-justification-of-the-unconscious",
+          "line_start": 11,
+          "line_end": 28,
+          "words": 1731
+        },
+        {
+          "id": "h2-ii-the-ambiguity-of-the-unconscious-and-the-topographical-point-of-view",
+          "level": 2,
+          "title": "II. The Ambiguity of the Unconscious and the Topographical Point of View",
+          "path": [
+            "Freud, Das Unbewußte (1915): Commentary",
+            "II. The Ambiguity of the Unconscious and the Topographical Point of View"
+          ],
+          "anchor": "ii-the-ambiguity-of-the-unconscious-and-the-topographical-point-of-view",
+          "line_start": 29,
+          "line_end": 44,
+          "words": 1309
+        },
+        {
+          "id": "h2-iii-unconscious-feelings",
+          "level": 2,
+          "title": "III. Unconscious Feelings",
+          "path": [
+            "Freud, Das Unbewußte (1915): Commentary",
+            "III. Unconscious Feelings"
+          ],
+          "anchor": "iii-unconscious-feelings",
+          "line_start": 45,
+          "line_end": 58,
+          "words": 1196
+        },
+        {
+          "id": "h2-iv-topography-and-dynamics-of-repression",
+          "level": 2,
+          "title": "IV. Topography and Dynamics of Repression",
+          "path": [
+            "Freud, Das Unbewußte (1915): Commentary",
+            "IV. Topography and Dynamics of Repression"
+          ],
+          "anchor": "iv-topography-and-dynamics-of-repression",
+          "line_start": 59,
+          "line_end": 80,
+          "words": 1935
+        },
+        {
+          "id": "h2-v-the-special-characteristics-of-the-system-ucs",
+          "level": 2,
+          "title": "V. The Special Characteristics of the System Ucs.",
+          "path": [
+            "Freud, Das Unbewußte (1915): Commentary",
+            "V. The Special Characteristics of the System Ucs."
+          ],
+          "anchor": "v-the-special-characteristics-of-the-system-ucs",
+          "line_start": 81,
+          "line_end": 106,
+          "words": 1568
+        },
+        {
+          "id": "h2-vi-communication-between-the-two-systems",
+          "level": 2,
+          "title": "VI. Communication between the Two Systems",
+          "path": [
+            "Freud, Das Unbewußte (1915): Commentary",
+            "VI. Communication between the Two Systems"
+          ],
+          "anchor": "vi-communication-between-the-two-systems",
+          "line_start": 107,
+          "line_end": 132,
+          "words": 2212
+        },
+        {
+          "id": "h2-vii-identifying-the-unconscious",
+          "level": 2,
+          "title": "VII. Identifying the Unconscious",
+          "path": [
+            "Freud, Das Unbewußte (1915): Commentary",
+            "VII. Identifying the Unconscious"
+          ],
+          "anchor": "vii-identifying-the-unconscious",
+          "line_start": 133,
+          "line_end": 170,
+          "words": 3741
+        }
+      ]
+    },
+    {
       "slug": "heidegger-being-and-time-commentary",
       "path": "commentaries/heidegger/heidegger-being-and-time-commentary.md",
       "author": "heidegger",

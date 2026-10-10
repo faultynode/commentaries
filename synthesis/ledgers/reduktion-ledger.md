@@ -1490,5 +1490,6 @@
 - `husserliana-3-ideas-i-commentary` - 2 term hits, no record
 - `husserliana-43-2-studien-zur-struktur-des-bewusstseins-commentary` - 2 term hits, no record
 - `mohanty-philosophy-of-edmund-husserl-commentary` - 2 term hits, no record
+- `freud-das-unbewusste-commentary` - 1 term hit, no record
 - `husserl-prolegomena-commentary` - 1 term hit, no record
 - `picht-de-anima-commentary` - 1 term hit, no record
