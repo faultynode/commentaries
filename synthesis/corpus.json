@@ -2883,6 +2883,109 @@
       ]
     },
     {
+      "slug": "freud-gw-13-massenpsychologie-und-ich-analyse-commentary",
+      "path": "commentaries/freud/freud-gw-13-massenpsychologie-und-ich-analyse-commentary.md",
+      "author": "freud",
+      "title": "Freud, Massenpsychologie und Ich-Analyse (1921): A Commentary",
+      "wordpress_id": null,
+      "sha256": "4618f0e9f013e271647df1a2d8565eb98c25783cde9eb9b60a9fc87c059d680e",
+      "lines": 186,
+      "words": 12530,
+      "url": "https://faultynode.github.io/commentaries/commentaries/freud/freud-gw-13-massenpsychologie-und-ich-analyse-commentary.html",
+      "sections": [
+        {
+          "id": "h1-freud-massenpsychologie-und-ich-analyse-1921-a-commentary",
+          "level": 1,
+          "title": "Freud, Massenpsychologie und Ich-Analyse (1921): A Commentary",
+          "path": [
+            "Freud, Massenpsychologie und Ich-Analyse (1921): A Commentary"
+          ],
+          "anchor": "freud-massenpsychologie-und-ich-analyse-1921-a-commentary",
+          "line_start": 1,
+          "line_end": 6,
+          "words": 271
+        },
+        {
+          "id": "h2-i-introduction",
+          "level": 2,
+          "title": "I. Introduction",
+          "path": [
+            "Freud, Massenpsychologie und Ich-Analyse (1921): A Commentary",
+            "I. Introduction"
+          ],
+          "anchor": "i-introduction",
+          "line_start": 7,
+          "line_end": 16,
+          "words": 629
+        },
+        {
+          "id": "h2-ii-le-bon-s-description-of-the-mass-mind",
+          "level": 2,
+          "title": "II. Le Bon's Description of the Mass Mind",
+          "path": [
+            "Freud, Massenpsychologie und Ich-Analyse (1921): A Commentary",
+            "II. Le Bon's Description of the Mass Mind"
+          ],
+          "anchor": "ii-le-bons-description-of-the-mass-mind",
+          "line_start": 17,
+          "line_end": 80,
+          "words": 3712
+        },
+        {
+          "id": "h2-iii-other-assessments-of-collective-mental-life",
+          "level": 2,
+          "title": "III. Other Assessments of Collective Mental Life",
+          "path": [
+            "Freud, Massenpsychologie und Ich-Analyse (1921): A Commentary",
+            "III. Other Assessments of Collective Mental Life"
+          ],
+          "anchor": "iii-other-assessments-of-collective-mental-life",
+          "line_start": 81,
+          "line_end": 120,
+          "words": 1952
+        },
+        {
+          "id": "h2-iv-suggestion-and-libido",
+          "level": 2,
+          "title": "IV. Suggestion and Libido",
+          "path": [
+            "Freud, Massenpsychologie und Ich-Analyse (1921): A Commentary",
+            "IV. Suggestion and Libido"
+          ],
+          "anchor": "iv-suggestion-and-libido",
+          "line_start": 121,
+          "line_end": 142,
+          "words": 1694
+        },
+        {
+          "id": "h2-v-two-artificial-masses-church-and-army",
+          "level": 2,
+          "title": "V. Two Artificial Masses: Church and Army",
+          "path": [
+            "Freud, Massenpsychologie und Ich-Analyse (1921): A Commentary",
+            "V. Two Artificial Masses: Church and Army"
+          ],
+          "anchor": "v-two-artificial-masses-church-and-army",
+          "line_start": 143,
+          "line_end": 166,
+          "words": 2439
+        },
+        {
+          "id": "h2-vi-further-problems-and-lines-of-work",
+          "level": 2,
+          "title": "VI. Further Problems and Lines of Work",
+          "path": [
+            "Freud, Massenpsychologie und Ich-Analyse (1921): A Commentary",
+            "VI. Further Problems and Lines of Work"
+          ],
+          "anchor": "vi-further-problems-and-lines-of-work",
+          "line_start": 167,
+          "line_end": 186,
+          "words": 1784
+        }
+      ]
+    },
+    {
       "slug": "heidegger-being-and-time-commentary",
       "path": "commentaries/heidegger/heidegger-being-and-time-commentary.md",
       "author": "heidegger",
