@@ -338,6 +338,7 @@
 - `husserliana-39-die-lebenswelt-commentary` - 17 term hits, no record
 - `franck-chair-et-corps-commentary` - 16 term hits, no record
 - `husserl-prolegomena-commentary` - 16 term hits, no record
+- `husserliana-10-inneres-zeitbewusstsein-commentary` - 16 term hits, no record
 - `husserliana-43-2-studien-zur-struktur-des-bewusstseins-commentary` - 15 term hits, no record
 - `heidegger-ga-5-hegels-begriff-der-erfahrung-commentary` - 14 term hits, no record
 - `lacan-seminar-2-the-ego-in-freuds-theory-and-in-the-technique-of-psychoanalysis-commentary` - 14 term hits, no record

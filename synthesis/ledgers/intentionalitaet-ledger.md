@@ -3449,6 +3449,7 @@
 - `husserliana-8-erste-philosophie-ii-commentary` - 116 term hits, no record
 - `henry-phenomenologie-de-la-vie-2-commentary` - 90 term hits, no record
 - `heidegger-ga-26-metaphysische-anfangsgruende-der-logik-commentary` - 81 term hits, no record
+- `husserliana-10-inneres-zeitbewusstsein-commentary` - 49 term hits, no record
 - `Reduction et donation Commentary` - 43 term hits, no record
 - `henry-genealogie-de-la-psychanalyse-commentary` - 30 term hits, no record
 - `husserliana-23-phantasie-bildbewusstsein-erinnerung-commentary` - 15 term hits, no record

@@ -1763,6 +1763,7 @@
 - `husserliana-13-basic-problems-of-phenomenology-commentary` - 57 term hits, no record
 - `henry-phenomenologie-de-la-vie-2-commentary` - 56 term hits, no record
 - `husserliana-7-erste-philosophie-i-commentary` - 52 term hits, no record
+- `husserliana-10-inneres-zeitbewusstsein-commentary` - 50 term hits, no record
 - `derrida-introduction-a-lorigine-de-la-geometrie-commentary` - 46 term hits, no record
 - `husserliana-33-die-bernauer-manuskripte-uber-das-zeitbewusstsein-commentary` - 41 term hits, no record
 - `husserliana-11-analyses-concerning-passive-and-active-synthesis-commentary` - 38 term hits, no record

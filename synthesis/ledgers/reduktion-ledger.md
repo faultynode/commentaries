@@ -1482,6 +1482,7 @@
 - `heidegger-ga-3-kant-und-das-problem-der-metaphysik-commentary` - 6 term hits, no record
 - `kant-kritik-der-reinen-vernunft-commentary` - 6 term hits, no record
 - `fichte-science-of-knowing-commentary` - 5 term hits, no record
+- `husserliana-10-inneres-zeitbewusstsein-commentary` - 5 term hits, no record
 - `heidegger-ga-19-platon-sophistes-commentary` - 4 term hits, no record
 - `husserliana-19-1-fifth-logical-investigation-commentary` - 4 term hits, no record
 - `freud-gw-13-massenpsychologie-und-ich-analyse-commentary` - 3 term hits, no record

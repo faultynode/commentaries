@@ -29137,6 +29137,775 @@
       ]
     },
     {
+      "slug": "husserliana-10-inneres-zeitbewusstsein-commentary",
+      "path": "commentaries/husserl/husserliana-10-inneres-zeitbewusstsein-commentary.md",
+      "author": "husserl",
+      "title": "Commentary on Husserl, Lectures on the Phenomenology of Internal Time-Consciousness (Hua X)",
+      "wordpress_id": null,
+      "sha256": "62b638ad74966a10629699f7c1e22d4001563da66d568731472fa2f7a2f361c4",
+      "lines": 384,
+      "words": 34848,
+      "url": "https://faultynode.github.io/commentaries/commentaries/husserl/husserliana-10-inneres-zeitbewusstsein-commentary.html",
+      "sections": [
+        {
+          "id": "h1-commentary-on-husserl-lectures-on-the-phenomenology-of-internal-time-consciousne",
+          "level": 1,
+          "title": "Commentary on Husserl, Lectures on the Phenomenology of Internal Time-Consciousness (Hua X)",
+          "path": [
+            "Commentary on Husserl, Lectures on the Phenomenology of Internal Time-Consciousness (Hua X)"
+          ],
+          "anchor": "commentary-on-husserl-lectures-on-the-phenomenology-of-internal-time-consciousness-hua-x",
+          "line_start": 1,
+          "line_end": 2,
+          "words": 0
+        },
+        {
+          "id": "h2-part-one-the-lectures-on-internal-time-consciousness-from-the-year-1905",
+          "level": 2,
+          "title": "Part One: The Lectures on Internal Time-Consciousness from the Year 1905",
+          "path": [
+            "Commentary on Husserl, Lectures on the Phenomenology of Internal Time-Consciousness (Hua X)",
+            "Part One: The Lectures on Internal Time-Consciousness from the Year 1905"
+          ],
+          "anchor": "part-one-the-lectures-on-internal-time-consciousness-from-the-year-1905",
+          "line_start": 3,
+          "line_end": 4,
+          "words": 0
+        },
+        {
+          "id": "h3-introduction",
+          "level": 3,
+          "title": "Introduction",
+          "path": [
+            "Commentary on Husserl, Lectures on the Phenomenology of Internal Time-Consciousness (Hua X)",
+            "Part One: The Lectures on Internal Time-Consciousness from the Year 1905",
+            "Introduction"
+          ],
+          "anchor": "introduction",
+          "line_start": 5,
+          "line_end": 12,
+          "words": 438
+        },
+        {
+          "id": "h4-s1-the-exclusion-of-objective-time",
+          "level": 4,
+          "title": "§1. The Exclusion of Objective Time",
+          "path": [
+            "Commentary on Husserl, Lectures on the Phenomenology of Internal Time-Consciousness (Hua X)",
+            "Part One: The Lectures on Internal Time-Consciousness from the Year 1905",
+            "Introduction",
+            "§1. The Exclusion of Objective Time"
+          ],
+          "anchor": "the-exclusion-of-objective-time",
+          "line_start": 13,
+          "line_end": 30,
+          "words": 1595
+        },
+        {
+          "id": "h4-s2-the-question-of-the-origin-of-time",
+          "level": 4,
+          "title": "§2. The Question of the \"Origin of Time\"",
+          "path": [
+            "Commentary on Husserl, Lectures on the Phenomenology of Internal Time-Consciousness (Hua X)",
+            "Part One: The Lectures on Internal Time-Consciousness from the Year 1905",
+            "Introduction",
+            "§2. The Question of the \"Origin of Time\""
+          ],
+          "anchor": "the-question-of-the-origin-of-time",
+          "line_start": 31,
+          "line_end": 36,
+          "words": 528
+        },
+        {
+          "id": "h3-section-one-brentano-s-theory-of-the-origin-of-time",
+          "level": 3,
+          "title": "Section One: Brentano's Theory of the Origin of Time",
+          "path": [
+            "Commentary on Husserl, Lectures on the Phenomenology of Internal Time-Consciousness (Hua X)",
+            "Part One: The Lectures on Internal Time-Consciousness from the Year 1905",
+            "Section One: Brentano's Theory of the Origin of Time"
+          ],
+          "anchor": "section-one-brentanos-theory-of-the-origin-of-time",
+          "line_start": 37,
+          "line_end": 38,
+          "words": 0
+        },
+        {
+          "id": "h4-s3-the-original-associations",
+          "level": 4,
+          "title": "§3. The Original Associations",
+          "path": [
+            "Commentary on Husserl, Lectures on the Phenomenology of Internal Time-Consciousness (Hua X)",
+            "Part One: The Lectures on Internal Time-Consciousness from the Year 1905",
+            "Section One: Brentano's Theory of the Origin of Time",
+            "§3. The Original Associations"
+          ],
+          "anchor": "the-original-associations",
+          "line_start": 39,
+          "line_end": 50,
+          "words": 977
+        },
+        {
+          "id": "h4-s4-the-acquisition-of-the-future-and-infinite-time",
+          "level": 4,
+          "title": "§4. The Acquisition of the Future and Infinite Time",
+          "path": [
+            "Commentary on Husserl, Lectures on the Phenomenology of Internal Time-Consciousness (Hua X)",
+            "Part One: The Lectures on Internal Time-Consciousness from the Year 1905",
+            "Section One: Brentano's Theory of the Origin of Time",
+            "§4. The Acquisition of the Future and Infinite Time"
+          ],
+          "anchor": "the-acquisition-of-the-future-and-infinite-time",
+          "line_start": 51,
+          "line_end": 54,
+          "words": 210
+        },
+        {
+          "id": "h4-s5-the-alteration-of-representations-by-the-temporal-characters",
+          "level": 4,
+          "title": "§5. The Alteration of Representations by the Temporal Characters",
+          "path": [
+            "Commentary on Husserl, Lectures on the Phenomenology of Internal Time-Consciousness (Hua X)",
+            "Part One: The Lectures on Internal Time-Consciousness from the Year 1905",
+            "Section One: Brentano's Theory of the Origin of Time",
+            "§5. The Alteration of Representations by the Temporal Characters"
+          ],
+          "anchor": "the-alteration-of-representations-by-the-temporal-characters",
+          "line_start": 55,
+          "line_end": 58,
+          "words": 322
+        },
+        {
+          "id": "h4-s6-critique",
+          "level": 4,
+          "title": "§6. Critique",
+          "path": [
+            "Commentary on Husserl, Lectures on the Phenomenology of Internal Time-Consciousness (Hua X)",
+            "Part One: The Lectures on Internal Time-Consciousness from the Year 1905",
+            "Section One: Brentano's Theory of the Origin of Time",
+            "§6. Critique"
+          ],
+          "anchor": "critique",
+          "line_start": 59,
+          "line_end": 76,
+          "words": 1693
+        },
+        {
+          "id": "h3-section-two-analysis-of-time-consciousness",
+          "level": 3,
+          "title": "Section Two: Analysis of Time-Consciousness",
+          "path": [
+            "Commentary on Husserl, Lectures on the Phenomenology of Internal Time-Consciousness (Hua X)",
+            "Part One: The Lectures on Internal Time-Consciousness from the Year 1905",
+            "Section Two: Analysis of Time-Consciousness"
+          ],
+          "anchor": "section-two-analysis-of-time-consciousness",
+          "line_start": 77,
+          "line_end": 78,
+          "words": 0
+        },
+        {
+          "id": "h4-s7-interpretation-of-the-grasping-of-temporal-objects-as-momentary-grasping-and",
+          "level": 4,
+          "title": "§7. Interpretation of the Grasping of Temporal Objects as Momentary Grasping and as Enduring Act",
+          "path": [
+            "Commentary on Husserl, Lectures on the Phenomenology of Internal Time-Consciousness (Hua X)",
+            "Part One: The Lectures on Internal Time-Consciousness from the Year 1905",
+            "Section Two: Analysis of Time-Consciousness",
+            "§7. Interpretation of the Grasping of Temporal Objects as Momentary Grasping and as Enduring Act"
+          ],
+          "anchor": "interpretation-of-the-grasping-of-temporal-objects-as-momentary-grasping-and-as-enduring-act",
+          "line_start": 79,
+          "line_end": 84,
+          "words": 956
+        },
+        {
+          "id": "h4-s8-immanent-temporal-objects-and-their-modes-of-appearance",
+          "level": 4,
+          "title": "§8. Immanent Temporal Objects and Their Modes of Appearance",
+          "path": [
+            "Commentary on Husserl, Lectures on the Phenomenology of Internal Time-Consciousness (Hua X)",
+            "Part One: The Lectures on Internal Time-Consciousness from the Year 1905",
+            "Section Two: Analysis of Time-Consciousness",
+            "§8. Immanent Temporal Objects and Their Modes of Appearance"
+          ],
+          "anchor": "immanent-temporal-objects-and-their-modes-of-appearance",
+          "line_start": 85,
+          "line_end": 90,
+          "words": 677
+        },
+        {
+          "id": "h4-s9-the-consciousness-of-the-appearances-of-immanent-objects",
+          "level": 4,
+          "title": "§9. The Consciousness of the Appearances of Immanent Objects",
+          "path": [
+            "Commentary on Husserl, Lectures on the Phenomenology of Internal Time-Consciousness (Hua X)",
+            "Part One: The Lectures on Internal Time-Consciousness from the Year 1905",
+            "Section Two: Analysis of Time-Consciousness",
+            "§9. The Consciousness of the Appearances of Immanent Objects"
+          ],
+          "anchor": "the-consciousness-of-the-appearances-of-immanent-objects",
+          "line_start": 91,
+          "line_end": 98,
+          "words": 723
+        },
+        {
+          "id": "h4-s10-the-continua-of-running-off-phenomena-the-diagram-of-time",
+          "level": 4,
+          "title": "§10. The Continua of Running-Off Phenomena. The Diagram of Time",
+          "path": [
+            "Commentary on Husserl, Lectures on the Phenomenology of Internal Time-Consciousness (Hua X)",
+            "Part One: The Lectures on Internal Time-Consciousness from the Year 1905",
+            "Section Two: Analysis of Time-Consciousness",
+            "§10. The Continua of Running-Off Phenomena. The Diagram of Time"
+          ],
+          "anchor": "the-continua-of-running-off-phenomena-the-diagram-of-time",
+          "line_start": 99,
+          "line_end": 102,
+          "words": 597
+        },
+        {
+          "id": "h4-s11-primal-impression-and-retentional-modification",
+          "level": 4,
+          "title": "§11. Primal Impression and Retentional Modification",
+          "path": [
+            "Commentary on Husserl, Lectures on the Phenomenology of Internal Time-Consciousness (Hua X)",
+            "Part One: The Lectures on Internal Time-Consciousness from the Year 1905",
+            "Section Two: Analysis of Time-Consciousness",
+            "§11. Primal Impression and Retentional Modification"
+          ],
+          "anchor": "primal-impression-and-retentional-modification",
+          "line_start": 103,
+          "line_end": 108,
+          "words": 778
+        },
+        {
+          "id": "h4-s12-retention-as-a-peculiar-intentionality",
+          "level": 4,
+          "title": "§12. Retention as a Peculiar Intentionality",
+          "path": [
+            "Commentary on Husserl, Lectures on the Phenomenology of Internal Time-Consciousness (Hua X)",
+            "Part One: The Lectures on Internal Time-Consciousness from the Year 1905",
+            "Section Two: Analysis of Time-Consciousness",
+            "§12. Retention as a Peculiar Intentionality"
+          ],
+          "anchor": "retention-as-a-peculiar-intentionality",
+          "line_start": 109,
+          "line_end": 116,
+          "words": 643
+        },
+        {
+          "id": "h4-s13-necessity-of-an-impression-preceding-every-retention-the-evidence-of-retenti",
+          "level": 4,
+          "title": "§13. Necessity of an Impression Preceding Every Retention. The Evidence of Retention",
+          "path": [
+            "Commentary on Husserl, Lectures on the Phenomenology of Internal Time-Consciousness (Hua X)",
+            "Part One: The Lectures on Internal Time-Consciousness from the Year 1905",
+            "Section Two: Analysis of Time-Consciousness",
+            "§13. Necessity of an Impression Preceding Every Retention. The Evidence of Retention"
+          ],
+          "anchor": "necessity-of-an-impression-preceding-every-retention-the-evidence-of-retention",
+          "line_start": 117,
+          "line_end": 124,
+          "words": 780
+        },
+        {
+          "id": "h4-s14-reproduction-of-temporal-objects-secondary-memory",
+          "level": 4,
+          "title": "§14. Reproduction of Temporal Objects (Secondary Memory)",
+          "path": [
+            "Commentary on Husserl, Lectures on the Phenomenology of Internal Time-Consciousness (Hua X)",
+            "Part One: The Lectures on Internal Time-Consciousness from the Year 1905",
+            "Section Two: Analysis of Time-Consciousness",
+            "§14. Reproduction of Temporal Objects (Secondary Memory)"
+          ],
+          "anchor": "reproduction-of-temporal-objects-secondary-memory",
+          "line_start": 125,
+          "line_end": 130,
+          "words": 647
+        },
+        {
+          "id": "h4-s15-the-modes-of-accomplishing-reproduction",
+          "level": 4,
+          "title": "§15. The Modes of Accomplishing Reproduction",
+          "path": [
+            "Commentary on Husserl, Lectures on the Phenomenology of Internal Time-Consciousness (Hua X)",
+            "Part One: The Lectures on Internal Time-Consciousness from the Year 1905",
+            "Section Two: Analysis of Time-Consciousness",
+            "§15. The Modes of Accomplishing Reproduction"
+          ],
+          "anchor": "the-modes-of-accomplishing-reproduction",
+          "line_start": 131,
+          "line_end": 140,
+          "words": 419
+        },
+        {
+          "id": "h4-s16-perception-as-presentation-in-contrast-to-retention-and-recollection",
+          "level": 4,
+          "title": "§16. Perception as Presentation in Contrast to Retention and Recollection",
+          "path": [
+            "Commentary on Husserl, Lectures on the Phenomenology of Internal Time-Consciousness (Hua X)",
+            "Part One: The Lectures on Internal Time-Consciousness from the Year 1905",
+            "Section Two: Analysis of Time-Consciousness",
+            "§16. Perception as Presentation in Contrast to Retention and Recollection"
+          ],
+          "anchor": "perception-as-presentation-in-contrast-to-retention-and-recollection",
+          "line_start": 141,
+          "line_end": 152,
+          "words": 1019
+        },
+        {
+          "id": "h4-s17-perception-as-self-giving-act-in-contrast-to-reproduction",
+          "level": 4,
+          "title": "§17. Perception as Self-Giving Act in Contrast to Reproduction",
+          "path": [
+            "Commentary on Husserl, Lectures on the Phenomenology of Internal Time-Consciousness (Hua X)",
+            "Part One: The Lectures on Internal Time-Consciousness from the Year 1905",
+            "Section Two: Analysis of Time-Consciousness",
+            "§17. Perception as Self-Giving Act in Contrast to Reproduction"
+          ],
+          "anchor": "perception-as-self-giving-act-in-contrast-to-reproduction",
+          "line_start": 153,
+          "line_end": 156,
+          "words": 445
+        },
+        {
+          "id": "h4-s18-the-significance-of-recollection-for-the-constitution-of-the-consciousness-o",
+          "level": 4,
+          "title": "§18. The Significance of Recollection for the Constitution of the Consciousness of Duration and Succession",
+          "path": [
+            "Commentary on Husserl, Lectures on the Phenomenology of Internal Time-Consciousness (Hua X)",
+            "Part One: The Lectures on Internal Time-Consciousness from the Year 1905",
+            "Section Two: Analysis of Time-Consciousness",
+            "§18. The Significance of Recollection for the Constitution of the Consciousness of Duration and Succession"
+          ],
+          "anchor": "the-significance-of-recollection-for-the-constitution-of-the-consciousness-of-duration-and-succession",
+          "line_start": 157,
+          "line_end": 168,
+          "words": 1163
+        },
+        {
+          "id": "h4-s19-the-difference-between-retention-and-reproduction-primary-and-secondary-memo",
+          "level": 4,
+          "title": "§19. The Difference between Retention and Reproduction (Primary and Secondary Memory or Phantasy)",
+          "path": [
+            "Commentary on Husserl, Lectures on the Phenomenology of Internal Time-Consciousness (Hua X)",
+            "Part One: The Lectures on Internal Time-Consciousness from the Year 1905",
+            "Section Two: Analysis of Time-Consciousness",
+            "§19. The Difference between Retention and Reproduction (Primary and Secondary Memory or Phantasy)"
+          ],
+          "anchor": "the-difference-between-retention-and-reproduction-primary-and-secondary-memory-or-phantasy",
+          "line_start": 169,
+          "line_end": 178,
+          "words": 951
+        },
+        {
+          "id": "h4-s20-the-freedom-of-reproduction",
+          "level": 4,
+          "title": "§20. The \"Freedom\" of Reproduction",
+          "path": [
+            "Commentary on Husserl, Lectures on the Phenomenology of Internal Time-Consciousness (Hua X)",
+            "Part One: The Lectures on Internal Time-Consciousness from the Year 1905",
+            "Section Two: Analysis of Time-Consciousness",
+            "§20. The \"Freedom\" of Reproduction"
+          ],
+          "anchor": "the-freedom-of-reproduction",
+          "line_start": 179,
+          "line_end": 182,
+          "words": 301
+        },
+        {
+          "id": "h4-s21-levels-of-clarity-of-reproduction",
+          "level": 4,
+          "title": "§21. Levels of Clarity of Reproduction",
+          "path": [
+            "Commentary on Husserl, Lectures on the Phenomenology of Internal Time-Consciousness (Hua X)",
+            "Part One: The Lectures on Internal Time-Consciousness from the Year 1905",
+            "Section Two: Analysis of Time-Consciousness",
+            "§21. Levels of Clarity of Reproduction"
+          ],
+          "anchor": "levels-of-clarity-of-reproduction",
+          "line_start": 183,
+          "line_end": 186,
+          "words": 214
+        },
+        {
+          "id": "h4-s22-the-evidence-of-reproduction",
+          "level": 4,
+          "title": "§22. The Evidence of Reproduction",
+          "path": [
+            "Commentary on Husserl, Lectures on the Phenomenology of Internal Time-Consciousness (Hua X)",
+            "Part One: The Lectures on Internal Time-Consciousness from the Year 1905",
+            "Section Two: Analysis of Time-Consciousness",
+            "§22. The Evidence of Reproduction"
+          ],
+          "anchor": "the-evidence-of-reproduction",
+          "line_start": 187,
+          "line_end": 192,
+          "words": 479
+        },
+        {
+          "id": "h4-s23-coincidence-of-the-reproduced-now-with-a-past-distinction-between-phantasy-a",
+          "level": 4,
+          "title": "§23. Coincidence of the Reproduced Now with a Past. Distinction between Phantasy and Recollection",
+          "path": [
+            "Commentary on Husserl, Lectures on the Phenomenology of Internal Time-Consciousness (Hua X)",
+            "Part One: The Lectures on Internal Time-Consciousness from the Year 1905",
+            "Section Two: Analysis of Time-Consciousness",
+            "§23. Coincidence of the Reproduced Now with a Past. Distinction between Phantasy and Recollection"
+          ],
+          "anchor": "coincidence-of-the-reproduced-now-with-a-past-distinction-between-phantasy-and-recollection",
+          "line_start": 193,
+          "line_end": 200,
+          "words": 692
+        },
+        {
+          "id": "h4-s24-protentions-in-recollection",
+          "level": 4,
+          "title": "§24. Protentions in Recollection",
+          "path": [
+            "Commentary on Husserl, Lectures on the Phenomenology of Internal Time-Consciousness (Hua X)",
+            "Part One: The Lectures on Internal Time-Consciousness from the Year 1905",
+            "Section Two: Analysis of Time-Consciousness",
+            "§24. Protentions in Recollection"
+          ],
+          "anchor": "protentions-in-recollection",
+          "line_start": 201,
+          "line_end": 204,
+          "words": 331
+        },
+        {
+          "id": "h4-s25-the-double-intentionality-of-recollection",
+          "level": 4,
+          "title": "§25. The Double Intentionality of Recollection",
+          "path": [
+            "Commentary on Husserl, Lectures on the Phenomenology of Internal Time-Consciousness (Hua X)",
+            "Part One: The Lectures on Internal Time-Consciousness from the Year 1905",
+            "Section Two: Analysis of Time-Consciousness",
+            "§25. The Double Intentionality of Recollection"
+          ],
+          "anchor": "the-double-intentionality-of-recollection",
+          "line_start": 205,
+          "line_end": 212,
+          "words": 801
+        },
+        {
+          "id": "h4-s26-differences-between-memory-and-expectation",
+          "level": 4,
+          "title": "§26. Differences between Memory and Expectation",
+          "path": [
+            "Commentary on Husserl, Lectures on the Phenomenology of Internal Time-Consciousness (Hua X)",
+            "Part One: The Lectures on Internal Time-Consciousness from the Year 1905",
+            "Section Two: Analysis of Time-Consciousness",
+            "§26. Differences between Memory and Expectation"
+          ],
+          "anchor": "differences-between-memory-and-expectation",
+          "line_start": 213,
+          "line_end": 222,
+          "words": 612
+        },
+        {
+          "id": "h4-s27-memory-as-consciousness-of-having-been-perceived",
+          "level": 4,
+          "title": "§27. Memory as Consciousness of Having-Been-Perceived",
+          "path": [
+            "Commentary on Husserl, Lectures on the Phenomenology of Internal Time-Consciousness (Hua X)",
+            "Part One: The Lectures on Internal Time-Consciousness from the Year 1905",
+            "Section Two: Analysis of Time-Consciousness",
+            "§27. Memory as Consciousness of Having-Been-Perceived"
+          ],
+          "anchor": "memory-as-consciousness-of-having-been-perceived",
+          "line_start": 223,
+          "line_end": 230,
+          "words": 758
+        },
+        {
+          "id": "h4-s28-memory-and-image-consciousness-memory-as-positing-reproduction",
+          "level": 4,
+          "title": "§28. Memory and Image-Consciousness. Memory as Positing Reproduction",
+          "path": [
+            "Commentary on Husserl, Lectures on the Phenomenology of Internal Time-Consciousness (Hua X)",
+            "Part One: The Lectures on Internal Time-Consciousness from the Year 1905",
+            "Section Two: Analysis of Time-Consciousness",
+            "§28. Memory and Image-Consciousness. Memory as Positing Reproduction"
+          ],
+          "anchor": "memory-and-image-consciousness-memory-as-positing-reproduction",
+          "line_start": 231,
+          "line_end": 236,
+          "words": 305
+        },
+        {
+          "id": "h4-s29-memory-of-the-present",
+          "level": 4,
+          "title": "§29. Memory of the Present",
+          "path": [
+            "Commentary on Husserl, Lectures on the Phenomenology of Internal Time-Consciousness (Hua X)",
+            "Part One: The Lectures on Internal Time-Consciousness from the Year 1905",
+            "Section Two: Analysis of Time-Consciousness",
+            "§29. Memory of the Present"
+          ],
+          "anchor": "memory-of-the-present",
+          "line_start": 237,
+          "line_end": 244,
+          "words": 597
+        },
+        {
+          "id": "h4-s30-preservation-of-the-objective-intention-in-retentional-modification",
+          "level": 4,
+          "title": "§30. Preservation of the Objective Intention in Retentional Modification",
+          "path": [
+            "Commentary on Husserl, Lectures on the Phenomenology of Internal Time-Consciousness (Hua X)",
+            "Part One: The Lectures on Internal Time-Consciousness from the Year 1905",
+            "Section Two: Analysis of Time-Consciousness",
+            "§30. Preservation of the Objective Intention in Retentional Modification"
+          ],
+          "anchor": "preservation-of-the-objective-intention-in-retentional-modification",
+          "line_start": 245,
+          "line_end": 250,
+          "words": 695
+        },
+        {
+          "id": "h4-s31-primal-impression-and-the-objective-individual-point-of-time",
+          "level": 4,
+          "title": "§31. Primal Impression and the Objective Individual Point of Time",
+          "path": [
+            "Commentary on Husserl, Lectures on the Phenomenology of Internal Time-Consciousness (Hua X)",
+            "Part One: The Lectures on Internal Time-Consciousness from the Year 1905",
+            "Section Two: Analysis of Time-Consciousness",
+            "§31. Primal Impression and the Objective Individual Point of Time"
+          ],
+          "anchor": "primal-impression-and-the-objective-individual-point-of-time",
+          "line_start": 251,
+          "line_end": 268,
+          "words": 2252
+        },
+        {
+          "id": "h4-s32-the-part-played-by-reproduction-in-the-constitution-of-the-one-objective-tim",
+          "level": 4,
+          "title": "§32. The Part Played by Reproduction in the Constitution of the One Objective Time",
+          "path": [
+            "Commentary on Husserl, Lectures on the Phenomenology of Internal Time-Consciousness (Hua X)",
+            "Part One: The Lectures on Internal Time-Consciousness from the Year 1905",
+            "Section Two: Analysis of Time-Consciousness",
+            "§32. The Part Played by Reproduction in the Constitution of the One Objective Time"
+          ],
+          "anchor": "the-part-played-by-reproduction-in-the-constitution-of-the-one-objective-time",
+          "line_start": 269,
+          "line_end": 272,
+          "words": 516
+        },
+        {
+          "id": "h4-s33-some-a-priori-temporal-laws",
+          "level": 4,
+          "title": "§33. Some A Priori Temporal Laws",
+          "path": [
+            "Commentary on Husserl, Lectures on the Phenomenology of Internal Time-Consciousness (Hua X)",
+            "Part One: The Lectures on Internal Time-Consciousness from the Year 1905",
+            "Section Two: Analysis of Time-Consciousness",
+            "§33. Some A Priori Temporal Laws"
+          ],
+          "anchor": "some-a-priori-temporal-laws",
+          "line_start": 273,
+          "line_end": 280,
+          "words": 629
+        },
+        {
+          "id": "h3-section-three-the-levels-of-constitution-of-time-and-temporal-objects",
+          "level": 3,
+          "title": "Section Three: The Levels of Constitution of Time and Temporal Objects",
+          "path": [
+            "Commentary on Husserl, Lectures on the Phenomenology of Internal Time-Consciousness (Hua X)",
+            "Part One: The Lectures on Internal Time-Consciousness from the Year 1905",
+            "Section Three: The Levels of Constitution of Time and Temporal Objects"
+          ],
+          "anchor": "section-three-the-levels-of-constitution-of-time-and-temporal-objects",
+          "line_start": 281,
+          "line_end": 282,
+          "words": 0
+        },
+        {
+          "id": "h4-s34-distinction-of-the-levels-of-constitution",
+          "level": 4,
+          "title": "§34. Distinction of the Levels of Constitution",
+          "path": [
+            "Commentary on Husserl, Lectures on the Phenomenology of Internal Time-Consciousness (Hua X)",
+            "Part One: The Lectures on Internal Time-Consciousness from the Year 1905",
+            "Section Three: The Levels of Constitution of Time and Temporal Objects",
+            "§34. Distinction of the Levels of Constitution"
+          ],
+          "anchor": "distinction-of-the-levels-of-constitution",
+          "line_start": 283,
+          "line_end": 286,
+          "words": 178
+        },
+        {
+          "id": "h4-s35-differences-between-the-constituted-unities-and-the-constituting-flow",
+          "level": 4,
+          "title": "§35. Differences between the Constituted Unities and the Constituting Flow",
+          "path": [
+            "Commentary on Husserl, Lectures on the Phenomenology of Internal Time-Consciousness (Hua X)",
+            "Part One: The Lectures on Internal Time-Consciousness from the Year 1905",
+            "Section Three: The Levels of Constitution of Time and Temporal Objects",
+            "§35. Differences between the Constituted Unities and the Constituting Flow"
+          ],
+          "anchor": "differences-between-the-constituted-unities-and-the-constituting-flow",
+          "line_start": 287,
+          "line_end": 294,
+          "words": 500
+        },
+        {
+          "id": "h4-s36-the-time-constituting-flow-as-absolute-subjectivity",
+          "level": 4,
+          "title": "§36. The Time-Constituting Flow as Absolute Subjectivity",
+          "path": [
+            "Commentary on Husserl, Lectures on the Phenomenology of Internal Time-Consciousness (Hua X)",
+            "Part One: The Lectures on Internal Time-Consciousness from the Year 1905",
+            "Section Three: The Levels of Constitution of Time and Temporal Objects",
+            "§36. The Time-Constituting Flow as Absolute Subjectivity"
+          ],
+          "anchor": "the-time-constituting-flow-as-absolute-subjectivity",
+          "line_start": 295,
+          "line_end": 298,
+          "words": 349
+        },
+        {
+          "id": "h4-s37-appearances-of-transcendent-objects-as-constituted-unities",
+          "level": 4,
+          "title": "§37. Appearances of Transcendent Objects as Constituted Unities",
+          "path": [
+            "Commentary on Husserl, Lectures on the Phenomenology of Internal Time-Consciousness (Hua X)",
+            "Part One: The Lectures on Internal Time-Consciousness from the Year 1905",
+            "Section Three: The Levels of Constitution of Time and Temporal Objects",
+            "§37. Appearances of Transcendent Objects as Constituted Unities"
+          ],
+          "anchor": "appearances-of-transcendent-objects-as-constituted-unities",
+          "line_start": 299,
+          "line_end": 302,
+          "words": 419
+        },
+        {
+          "id": "h4-s38-unity-of-the-flow-of-consciousness-and-constitution-of-simultaneity-and-succ",
+          "level": 4,
+          "title": "§38. Unity of the Flow of Consciousness and Constitution of Simultaneity and Succession",
+          "path": [
+            "Commentary on Husserl, Lectures on the Phenomenology of Internal Time-Consciousness (Hua X)",
+            "Part One: The Lectures on Internal Time-Consciousness from the Year 1905",
+            "Section Three: The Levels of Constitution of Time and Temporal Objects",
+            "§38. Unity of the Flow of Consciousness and Constitution of Simultaneity and Succession"
+          ],
+          "anchor": "unity-of-the-flow-of-consciousness-and-constitution-of-simultaneity-and-succession",
+          "line_start": 303,
+          "line_end": 312,
+          "words": 1215
+        },
+        {
+          "id": "h4-s39-the-double-intentionality-of-retention-and-the-constitution-of-the-flow-of-c",
+          "level": 4,
+          "title": "§39. The Double Intentionality of Retention and the Constitution of the Flow of Consciousness",
+          "path": [
+            "Commentary on Husserl, Lectures on the Phenomenology of Internal Time-Consciousness (Hua X)",
+            "Part One: The Lectures on Internal Time-Consciousness from the Year 1905",
+            "Section Three: The Levels of Constitution of Time and Temporal Objects",
+            "§39. The Double Intentionality of Retention and the Constitution of the Flow of Consciousness"
+          ],
+          "anchor": "the-double-intentionality-of-retention-and-the-constitution-of-the-flow-of-consciousness",
+          "line_start": 313,
+          "line_end": 324,
+          "words": 1599
+        },
+        {
+          "id": "h4-s40-the-constituted-immanent-contents",
+          "level": 4,
+          "title": "§40. The Constituted Immanent Contents",
+          "path": [
+            "Commentary on Husserl, Lectures on the Phenomenology of Internal Time-Consciousness (Hua X)",
+            "Part One: The Lectures on Internal Time-Consciousness from the Year 1905",
+            "Section Three: The Levels of Constitution of Time and Temporal Objects",
+            "§40. The Constituted Immanent Contents"
+          ],
+          "anchor": "the-constituted-immanent-contents",
+          "line_start": 325,
+          "line_end": 330,
+          "words": 387
+        },
+        {
+          "id": "h4-s41-evidence-of-immanent-contents-change-and-unchange",
+          "level": 4,
+          "title": "§41. Evidence of Immanent Contents. Change and Unchange",
+          "path": [
+            "Commentary on Husserl, Lectures on the Phenomenology of Internal Time-Consciousness (Hua X)",
+            "Part One: The Lectures on Internal Time-Consciousness from the Year 1905",
+            "Section Three: The Levels of Constitution of Time and Temporal Objects",
+            "§41. Evidence of Immanent Contents. Change and Unchange"
+          ],
+          "anchor": "evidence-of-immanent-contents-change-and-unchange",
+          "line_start": 331,
+          "line_end": 340,
+          "words": 1187
+        },
+        {
+          "id": "h4-s42-impression-and-reproduction",
+          "level": 4,
+          "title": "§42. Impression and Reproduction",
+          "path": [
+            "Commentary on Husserl, Lectures on the Phenomenology of Internal Time-Consciousness (Hua X)",
+            "Part One: The Lectures on Internal Time-Consciousness from the Year 1905",
+            "Section Three: The Levels of Constitution of Time and Temporal Objects",
+            "§42. Impression and Reproduction"
+          ],
+          "anchor": "impression-and-reproduction",
+          "line_start": 341,
+          "line_end": 348,
+          "words": 770
+        },
+        {
+          "id": "h4-s43-constitution-of-thing-appearances-and-things-constituted-apprehensions-and-p",
+          "level": 4,
+          "title": "§43. Constitution of Thing-Appearances and Things. Constituted Apprehensions and Primal Apprehensions",
+          "path": [
+            "Commentary on Husserl, Lectures on the Phenomenology of Internal Time-Consciousness (Hua X)",
+            "Part One: The Lectures on Internal Time-Consciousness from the Year 1905",
+            "Section Three: The Levels of Constitution of Time and Temporal Objects",
+            "§43. Constitution of Thing-Appearances and Things. Constituted Apprehensions and Primal Apprehensions"
+          ],
+          "anchor": "constitution-of-thing-appearances-and-things-constituted-apprehensions-and-primal-apprehensions",
+          "line_start": 349,
+          "line_end": 366,
+          "words": 1633
+        },
+        {
+          "id": "h4-s44-inner-and-outer-perception",
+          "level": 4,
+          "title": "§44. Inner and Outer Perception",
+          "path": [
+            "Commentary on Husserl, Lectures on the Phenomenology of Internal Time-Consciousness (Hua X)",
+            "Part One: The Lectures on Internal Time-Consciousness from the Year 1905",
+            "Section Three: The Levels of Constitution of Time and Temporal Objects",
+            "§44. Inner and Outer Perception"
+          ],
+          "anchor": "inner-and-outer-perception",
+          "line_start": 367,
+          "line_end": 376,
+          "words": 641
+        },
+        {
+          "id": "h4-s45-constitution-of-non-temporal-transcendencies",
+          "level": 4,
+          "title": "§45. Constitution of Non-Temporal Transcendencies",
+          "path": [
+            "Commentary on Husserl, Lectures on the Phenomenology of Internal Time-Consciousness (Hua X)",
+            "Part One: The Lectures on Internal Time-Consciousness from the Year 1905",
+            "Section Three: The Levels of Constitution of Time and Temporal Objects",
+            "§45. Constitution of Non-Temporal Transcendencies"
+          ],
+          "anchor": "constitution-of-non-temporal-transcendencies",
+          "line_start": 377,
+          "line_end": 384,
+          "words": 761
+        }
+      ]
+    },
+    {
       "slug": "husserliana-11-analyses-concerning-passive-and-active-synthesis-commentary",
       "path": "commentaries/husserl/husserliana-11-analyses-concerning-passive-and-active-synthesis-commentary.md",
       "author": "husserl",
