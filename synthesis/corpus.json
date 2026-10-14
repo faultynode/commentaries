@@ -14226,6 +14226,525 @@
       ]
     },
     {
+      "slug": "henry-genealogie-de-la-psychanalyse-commentary",
+      "path": "commentaries/henry/henry-genealogie-de-la-psychanalyse-commentary.md",
+      "author": "henry",
+      "title": "Michel Henry, Généalogie de la psychanalyse. Le commencement perdu — Commentary",
+      "wordpress_id": null,
+      "sha256": "c6b665bcce554ef3077b031d10c50140e0bf8504bed35af996a50547d7c33344",
+      "lines": 1234,
+      "words": 128047,
+      "url": "https://faultynode.github.io/commentaries/commentaries/henry/henry-genealogie-de-la-psychanalyse-commentary.html",
+      "sections": [
+        {
+          "id": "h1-michel-henry-genealogie-de-la-psychanalyse-le-commencement-perdu-commentary",
+          "level": 1,
+          "title": "Michel Henry, Généalogie de la psychanalyse. Le commencement perdu — Commentary",
+          "path": [
+            "Michel Henry, Généalogie de la psychanalyse. Le commencement perdu — Commentary"
+          ],
+          "anchor": "michel-henry-genealogie-de-la-psychanalyse-le-commencement-perdu--commentary",
+          "line_start": 1,
+          "line_end": 6,
+          "words": 185
+        },
+        {
+          "id": "h2-a-late-heir",
+          "level": 2,
+          "title": "A Late Heir",
+          "path": [
+            "Michel Henry, Généalogie de la psychanalyse. Le commencement perdu — Commentary",
+            "A Late Heir"
+          ],
+          "anchor": "a-late-heir",
+          "line_start": 7,
+          "line_end": 56,
+          "words": 3607
+        },
+        {
+          "id": "h2-chapter-i-videre-videor",
+          "level": 2,
+          "title": "Chapter I. \"Videre videor\"",
+          "path": [
+            "Michel Henry, Généalogie de la psychanalyse. Le commencement perdu — Commentary",
+            "Chapter I. \"Videre videor\""
+          ],
+          "anchor": "chapter-i-videre-videor",
+          "line_start": 57,
+          "line_end": 152,
+          "words": 9473
+        },
+        {
+          "id": "h2-chapter-ii-the-decline-of-the-phenomenological-absolutes",
+          "level": 2,
+          "title": "Chapter II. The Decline of the Phenomenological Absolutes",
+          "path": [
+            "Michel Henry, Généalogie de la psychanalyse. Le commencement perdu — Commentary",
+            "Chapter II. The Decline of the Phenomenological Absolutes"
+          ],
+          "anchor": "chapter-ii-the-decline-of-the-phenomenological-absolutes",
+          "line_start": 153,
+          "line_end": 248,
+          "words": 10223
+        },
+        {
+          "id": "h2-chapter-iii-the-insertion-of-the-ego-cogito-into-the-history-of-western-metaphys",
+          "level": 2,
+          "title": "Chapter III. The Insertion of the \"Ego Cogito\" into the \"History of Western Metaphysics\"",
+          "path": [
+            "Michel Henry, Généalogie de la psychanalyse. Le commencement perdu — Commentary",
+            "Chapter III. The Insertion of the \"Ego Cogito\" into the \"History of Western Metaphysics\""
+          ],
+          "anchor": "chapter-iii-the-insertion-of-the-ego-cogito-into-the-history-of-western-metaphysics",
+          "line_start": 249,
+          "line_end": 378,
+          "words": 11913
+        },
+        {
+          "id": "h2-chapter-iv-empty-subjectivity-and-lost-life-the-kantian-critique-of-the-soul",
+          "level": 2,
+          "title": "Chapter IV. Empty Subjectivity and Lost Life: The Kantian Critique of the \"Soul\"",
+          "path": [
+            "Michel Henry, Généalogie de la psychanalyse. Le commencement perdu — Commentary",
+            "Chapter IV. Empty Subjectivity and Lost Life: The Kantian Critique of the \"Soul\""
+          ],
+          "anchor": "chapter-iv-empty-subjectivity-and-lost-life-the-kantian-critique-of-the-soul",
+          "line_start": 379,
+          "line_end": 488,
+          "words": 10830
+        },
+        {
+          "id": "h2-chapter-v-life-regained-the-world-as-will",
+          "level": 2,
+          "title": "Chapter V. Life Regained: The World as Will",
+          "path": [
+            "Michel Henry, Généalogie de la psychanalyse. Le commencement perdu — Commentary",
+            "Chapter V. Life Regained: The World as Will"
+          ],
+          "anchor": "chapter-v-life-regained-the-world-as-will",
+          "line_start": 489,
+          "line_end": 610,
+          "words": 12853
+        },
+        {
+          "id": "h2-chapter-vi-life-and-its-properties-repression",
+          "level": 2,
+          "title": "Chapter VI. Life and Its Properties. Repression",
+          "path": [
+            "Michel Henry, Généalogie de la psychanalyse. Le commencement perdu — Commentary",
+            "Chapter VI. Life and Its Properties. Repression"
+          ],
+          "anchor": "chapter-vi-life-and-its-properties-repression",
+          "line_start": 611,
+          "line_end": 744,
+          "words": 16101
+        },
+        {
+          "id": "h2-chapter-vii-life-and-affectivity-according-to-nietzsche",
+          "level": 2,
+          "title": "Chapter VII. Life and Affectivity according to Nietzsche",
+          "path": [
+            "Michel Henry, Généalogie de la psychanalyse. Le commencement perdu — Commentary",
+            "Chapter VII. Life and Affectivity according to Nietzsche"
+          ],
+          "anchor": "chapter-vii-life-and-affectivity-according-to-nietzsche",
+          "line_start": 745,
+          "line_end": 878,
+          "words": 15838
+        },
+        {
+          "id": "h2-chapter-viii-the-gods-are-born-and-die-together",
+          "level": 2,
+          "title": "Chapter VIII. The Gods Are Born and Die Together",
+          "path": [
+            "Michel Henry, Généalogie de la psychanalyse. Le commencement perdu — Commentary",
+            "Chapter VIII. The Gods Are Born and Die Together"
+          ],
+          "anchor": "chapter-viii-the-gods-are-born-and-die-together",
+          "line_start": 879,
+          "line_end": 1032,
+          "words": 16651
+        },
+        {
+          "id": "h2-chapter-ix-man-s-ape-the-unconscious",
+          "level": 2,
+          "title": "Chapter IX. Man's Ape: The Unconscious",
+          "path": [
+            "Michel Henry, Généalogie de la psychanalyse. Le commencement perdu — Commentary",
+            "Chapter IX. Man's Ape: The Unconscious"
+          ],
+          "anchor": "chapter-ix-mans-ape-the-unconscious",
+          "line_start": 1033,
+          "line_end": 1178,
+          "words": 15657
+        },
+        {
+          "id": "h2-potentiality",
+          "level": 2,
+          "title": "Potentiality",
+          "path": [
+            "Michel Henry, Généalogie de la psychanalyse. Le commencement perdu — Commentary",
+            "Potentiality"
+          ],
+          "anchor": "potentiality",
+          "line_start": 1179,
+          "line_end": 1234,
+          "words": 4612
+        }
+      ]
+    },
+    {
+      "slug": "henry-phenomenologie-de-la vie-1-commentary",
+      "path": "commentaries/henry/henry-phenomenologie-de-la vie-1-commentary.md",
+      "author": "henry",
+      "title": "Michel Henry, Phénoménologie de la vie I: De la phénoménologie — Commentary",
+      "wordpress_id": null,
+      "sha256": "276ffb2606d8424e1adcd87b7b6b03583431e41c6801bfe26e70e5a1237d4ff7",
+      "lines": 926,
+      "words": 68913,
+      "url": "https://faultynode.github.io/commentaries/commentaries/henry/henry-phenomenologie-de-la vie-1-commentary.html",
+      "sections": [
+        {
+          "id": "h1-michel-henry-phenomenologie-de-la-vie-i-de-la-phenomenologie-commentary",
+          "level": 1,
+          "title": "Michel Henry, Phénoménologie de la vie I: De la phénoménologie — Commentary",
+          "path": [
+            "Michel Henry, Phénoménologie de la vie I: De la phénoménologie — Commentary"
+          ],
+          "anchor": "michel-henry-phenomenologie-de-la-vie-i-de-la-phenomenologie--commentary",
+          "line_start": 1,
+          "line_end": 4,
+          "words": 172
+        },
+        {
+          "id": "h2-i-does-the-concept-of-the-soul-have-a-meaning",
+          "level": 2,
+          "title": "I. Does the Concept of the Soul Have a Meaning?",
+          "path": [
+            "Michel Henry, Phénoménologie de la vie I: De la phénoménologie — Commentary",
+            "I. Does the Concept of the Soul Have a Meaning?"
+          ],
+          "anchor": "i-does-the-concept-of-the-soul-have-a-meaning",
+          "line_start": 5,
+          "line_end": 6,
+          "words": 0
+        },
+        {
+          "id": "h3-1",
+          "level": 3,
+          "title": "1",
+          "path": [
+            "Michel Henry, Phénoménologie de la vie I: De la phénoménologie — Commentary",
+            "I. Does the Concept of the Soul Have a Meaning?",
+            "1"
+          ],
+          "anchor": "section",
+          "line_start": 7,
+          "line_end": 82,
+          "words": 3777
+        },
+        {
+          "id": "h3-2",
+          "level": 3,
+          "title": "2",
+          "path": [
+            "Michel Henry, Phénoménologie de la vie I: De la phénoménologie — Commentary",
+            "I. Does the Concept of the Soul Have a Meaning?",
+            "2"
+          ],
+          "anchor": "section-1",
+          "line_start": 83,
+          "line_end": 160,
+          "words": 4913
+        },
+        {
+          "id": "h2-ii-what-is-this-that-we-call-life",
+          "level": 2,
+          "title": "II. What Is This That We Call Life?",
+          "path": [
+            "Michel Henry, Phénoménologie de la vie I: De la phénoménologie — Commentary",
+            "II. What Is This That We Call Life?"
+          ],
+          "anchor": "ii-what-is-this-that-we-call-life",
+          "line_start": 161,
+          "line_end": 216,
+          "words": 6880
+        },
+        {
+          "id": "h2-iii-phenomenology-of-life",
+          "level": 2,
+          "title": "III. Phenomenology of Life",
+          "path": [
+            "Michel Henry, Phénoménologie de la vie I: De la phénoménologie — Commentary",
+            "III. Phenomenology of Life"
+          ],
+          "anchor": "iii-phenomenology-of-life",
+          "line_start": 217,
+          "line_end": 284,
+          "words": 6609
+        },
+        {
+          "id": "h2-iv-four-principles-of-phenomenology",
+          "level": 2,
+          "title": "IV. Four Principles of Phenomenology",
+          "path": [
+            "Michel Henry, Phénoménologie de la vie I: De la phénoménologie — Commentary",
+            "IV. Four Principles of Phenomenology"
+          ],
+          "anchor": "iv-four-principles-of-phenomenology",
+          "line_start": 285,
+          "line_end": 448,
+          "words": 10067
+        },
+        {
+          "id": "h2-v-non-intentional-phenomenology-a-task-for-the-phenomenology-of-the-future",
+          "level": 2,
+          "title": "V. Non-Intentional Phenomenology: A Task for the Phenomenology of the Future",
+          "path": [
+            "Michel Henry, Phénoménologie de la vie I: De la phénoménologie — Commentary",
+            "V. Non-Intentional Phenomenology: A Task for the Phenomenology of the Future"
+          ],
+          "anchor": "v-non-intentional-phenomenology-a-task-for-the-phenomenology-of-the-future",
+          "line_start": 449,
+          "line_end": 516,
+          "words": 5541
+        },
+        {
+          "id": "h2-vi-phenomenology-of-birth",
+          "level": 2,
+          "title": "VI. Phenomenology of Birth",
+          "path": [
+            "Michel Henry, Phénoménologie de la vie I: De la phénoménologie — Commentary",
+            "VI. Phenomenology of Birth"
+          ],
+          "anchor": "vi-phenomenology-of-birth",
+          "line_start": 517,
+          "line_end": 600,
+          "words": 7161
+        },
+        {
+          "id": "h2-vii-suffering-and-life",
+          "level": 2,
+          "title": "VII. Suffering and Life",
+          "path": [
+            "Michel Henry, Phénoménologie de la vie I: De la phénoménologie — Commentary",
+            "VII. Suffering and Life"
+          ],
+          "anchor": "vii-suffering-and-life",
+          "line_start": 601,
+          "line_end": 660,
+          "words": 4741
+        },
+        {
+          "id": "h2-viii-the-problem-of-touch",
+          "level": 2,
+          "title": "VIII. The Problem of Touch",
+          "path": [
+            "Michel Henry, Phénoménologie de la vie I: De la phénoménologie — Commentary",
+            "VIII. The Problem of Touch"
+          ],
+          "anchor": "viii-the-problem-of-touch",
+          "line_start": 661,
+          "line_end": 694,
+          "words": 2591
+        },
+        {
+          "id": "h2-ix-incarnation",
+          "level": 2,
+          "title": "IX. Incarnation",
+          "path": [
+            "Michel Henry, Phénoménologie de la vie I: De la phénoménologie — Commentary",
+            "IX. Incarnation"
+          ],
+          "anchor": "ix-incarnation",
+          "line_start": 695,
+          "line_end": 764,
+          "words": 5695
+        },
+        {
+          "id": "h2-x-philosophy-and-phenomenology",
+          "level": 2,
+          "title": "X. Philosophy and Phenomenology",
+          "path": [
+            "Michel Henry, Phénoménologie de la vie I: De la phénoménologie — Commentary",
+            "X. Philosophy and Phenomenology"
+          ],
+          "anchor": "x-philosophy-and-phenomenology",
+          "line_start": 765,
+          "line_end": 860,
+          "words": 6019
+        },
+        {
+          "id": "h2-xi-them-in-me-a-phenomenology",
+          "level": 2,
+          "title": "XI. Them in Me: A Phenomenology",
+          "path": [
+            "Michel Henry, Phénoménologie de la vie I: De la phénoménologie — Commentary",
+            "XI. Them in Me: A Phenomenology"
+          ],
+          "anchor": "xi-them-in-me-a-phenomenology",
+          "line_start": 861,
+          "line_end": 926,
+          "words": 4656
+        }
+      ]
+    },
+    {
+      "slug": "henry-phenomenologie-de-la-vie-2-commentary",
+      "path": "commentaries/henry/henry-phenomenologie-de-la-vie-2-commentary.md",
+      "author": "henry",
+      "title": "Michel Henry, Phénoménologie de la vie II: De la subjectivité — A Commentary",
+      "wordpress_id": null,
+      "sha256": "3741d11e0be634908058591afcc0b596dc6289abc192fe2d7461d05a7f29c1f9",
+      "lines": 754,
+      "words": 50744,
+      "url": "https://faultynode.github.io/commentaries/commentaries/henry/henry-phenomenologie-de-la-vie-2-commentary.html",
+      "sections": [
+        {
+          "id": "h1-michel-henry-phenomenologie-de-la-vie-ii-de-la-subjectivite-a-commentary",
+          "level": 1,
+          "title": "Michel Henry, Phénoménologie de la vie II: De la subjectivité — A Commentary",
+          "path": [
+            "Michel Henry, Phénoménologie de la vie II: De la subjectivité — A Commentary"
+          ],
+          "anchor": "michel-henry-phenomenologie-de-la-vie-ii-de-la-subjectivite--a-commentary",
+          "line_start": 1,
+          "line_end": 6,
+          "words": 179
+        },
+        {
+          "id": "h2-foreword-jean-luc-marion",
+          "level": 2,
+          "title": "Foreword (Jean-Luc Marion)",
+          "path": [
+            "Michel Henry, Phénoménologie de la vie II: De la subjectivité — A Commentary",
+            "Foreword (Jean-Luc Marion)"
+          ],
+          "anchor": "foreword-jean-luc-marion",
+          "line_start": 7,
+          "line_end": 18,
+          "words": 772
+        },
+        {
+          "id": "h2-i-the-critique-of-the-subject",
+          "level": 2,
+          "title": "I. The Critique of the Subject",
+          "path": [
+            "Michel Henry, Phénoménologie de la vie II: De la subjectivité — A Commentary",
+            "I. The Critique of the Subject"
+          ],
+          "anchor": "i-the-critique-of-the-subject",
+          "line_start": 19,
+          "line_end": 108,
+          "words": 4582
+        },
+        {
+          "id": "h2-ii-philosophy-and-subjectivity",
+          "level": 2,
+          "title": "II. Philosophy and Subjectivity",
+          "path": [
+            "Michel Henry, Phénoménologie de la vie II: De la subjectivité — A Commentary",
+            "II. Philosophy and Subjectivity"
+          ],
+          "anchor": "ii-philosophy-and-subjectivity",
+          "line_start": 109,
+          "line_end": 228,
+          "words": 8238
+        },
+        {
+          "id": "h2-iii-the-cogito-and-the-idea-of-phenomenology",
+          "level": 2,
+          "title": "III. The Cogito and the Idea of Phenomenology",
+          "path": [
+            "Michel Henry, Phénoménologie de la vie II: De la subjectivité — A Commentary",
+            "III. The Cogito and the Idea of Phenomenology"
+          ],
+          "anchor": "iii-the-cogito-and-the-idea-of-phenomenology",
+          "line_start": 229,
+          "line_end": 298,
+          "words": 4881
+        },
+        {
+          "id": "h2-iv-on-the-ego-of-the-cogito",
+          "level": 2,
+          "title": "IV. On the Ego of the Cogito",
+          "path": [
+            "Michel Henry, Phénoménologie de la vie II: De la subjectivité — A Commentary",
+            "IV. On the Ego of the Cogito"
+          ],
+          "anchor": "iv-on-the-ego-of-the-cogito",
+          "line_start": 299,
+          "line_end": 354,
+          "words": 4442
+        },
+        {
+          "id": "h2-v-descartes-cogito-and-the-idea-of-an-ideal-phenomenology",
+          "level": 2,
+          "title": "V. Descartes' Cogito and the Idea of an Ideal Phenomenology",
+          "path": [
+            "Michel Henry, Phénoménologie de la vie II: De la subjectivité — A Commentary",
+            "V. Descartes' Cogito and the Idea of an Ideal Phenomenology"
+          ],
+          "anchor": "v-descartes-cogito-and-the-idea-of-an-ideal-phenomenology",
+          "line_start": 355,
+          "line_end": 448,
+          "words": 5738
+        },
+        {
+          "id": "h2-vi-schopenhauer-a-first-philosophy",
+          "level": 2,
+          "title": "VI. Schopenhauer: A First Philosophy",
+          "path": [
+            "Michel Henry, Phénoménologie de la vie II: De la subjectivité — A Commentary",
+            "VI. Schopenhauer: A First Philosophy"
+          ],
+          "anchor": "vi-schopenhauer-a-first-philosophy",
+          "line_start": 449,
+          "line_end": 526,
+          "words": 6441
+        },
+        {
+          "id": "h2-vii-the-question-of-repression-in-schopenhauer",
+          "level": 2,
+          "title": "VII. The Question of Repression in Schopenhauer",
+          "path": [
+            "Michel Henry, Phénoménologie de la vie II: De la subjectivité — A Commentary",
+            "VII. The Question of Repression in Schopenhauer"
+          ],
+          "anchor": "vii-the-question-of-repression-in-schopenhauer",
+          "line_start": 527,
+          "line_end": 604,
+          "words": 4662
+        },
+        {
+          "id": "h2-viii-on-nietzsche-s-saying-we-the-good-the-happy",
+          "level": 2,
+          "title": "VIII. On Nietzsche's Saying: \"We the Good… the Happy\"",
+          "path": [
+            "Michel Henry, Phénoménologie de la vie II: De la subjectivité — A Commentary",
+            "VIII. On Nietzsche's Saying: \"We the Good… the Happy\""
+          ],
+          "anchor": "viii-on-nietzsches-saying-we-the-good-the-happy",
+          "line_start": 605,
+          "line_end": 670,
+          "words": 4607
+        },
+        {
+          "id": "h2-ix-ricoeur-and-freud-between-psychoanalysis-and-phenomenology",
+          "level": 2,
+          "title": "IX. Ricoeur and Freud: Between Psychoanalysis and Phenomenology",
+          "path": [
+            "Michel Henry, Phénoménologie de la vie II: De la subjectivité — A Commentary",
+            "IX. Ricoeur and Freud: Between Psychoanalysis and Phenomenology"
+          ],
+          "anchor": "ix-ricoeur-and-freud-between-psychoanalysis-and-phenomenology",
+          "line_start": 671,
+          "line_end": 754,
+          "words": 6111
+        }
+      ]
+    },
+    {
       "slug": "henry-philosophie-et-phenomenologie-du-corps-commentary",
       "path": "commentaries/henry/henry-philosophie-et-phenomenologie-du-corps-commentary.md",
       "author": "henry",

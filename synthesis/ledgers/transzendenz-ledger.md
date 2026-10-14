@@ -1753,12 +1753,15 @@
 
 *Where the theme's terms occur but no extraction pass has run. Silence in the sections above is silence about these files, not evidence of absence in them.*
 
+- `henry-genealogie-de-la-psychanalyse-commentary` - 123 term hits, no record
 - `franck-chair-et-corps-commentary` - 97 term hits, no record
+- `henry-phenomenologie-de-la vie-1-commentary` - 84 term hits, no record
 - `marion-sur-le-prisme-metaphysique-de-descartes-commentary` - 84 term hits, no record
 - `Reduction et donation Commentary` - 80 term hits, no record
 - `husserl-thing-and-space-commentary` - 71 term hits, no record
 - `heidegger-sein-und-zeit-commentary` - 62 term hits, no record
 - `husserliana-13-basic-problems-of-phenomenology-commentary` - 57 term hits, no record
+- `henry-phenomenologie-de-la-vie-2-commentary` - 56 term hits, no record
 - `husserliana-7-erste-philosophie-i-commentary` - 52 term hits, no record
 - `derrida-introduction-a-lorigine-de-la-geometrie-commentary` - 46 term hits, no record
 - `husserliana-33-die-bernauer-manuskripte-uber-das-zeitbewusstsein-commentary` - 41 term hits, no record

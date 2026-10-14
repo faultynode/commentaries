@@ -1370,7 +1370,10 @@
 *Where the theme's terms occur but no extraction pass has run. Silence in the sections above is silence about these files, not evidence of absence in them.*
 
 - `heidegger-ga-26-metaphysische-anfangsgruende-der-logik-commentary` - 223 term hits, no record
+- `henry-phenomenologie-de-la vie-1-commentary` - 79 term hits, no record
 - `husserliana-4-ideas-ii-commentary` - 50 term hits, no record
+- `henry-phenomenologie-de-la-vie-2-commentary` - 38 term hits, no record
+- `henry-genealogie-de-la-psychanalyse-commentary` - 35 term hits, no record
 - `husserliana-8-erste-philosophie-ii-commentary` - 24 term hits, no record
 - `heidegger-ga-9-vom-wesen-des-grundes-commentary` - 20 term hits, no record
 - `henry-philosophie-et-phenomenologie-du-corps-commentary` - 19 term hits, no record

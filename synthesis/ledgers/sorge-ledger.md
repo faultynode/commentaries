@@ -321,12 +321,14 @@
 - `husserliana-11-analyses-concerning-passive-and-active-synthesis-commentary` - 46 term hits, no record
 - `husserliana-28-vorlesungen-uber-ethik-und-wertlehre-commentary` - 44 term hits, no record
 - `heidegger-ga-3-kant-und-das-problem-der-metaphysik-commentary` - 41 term hits, no record
+- `henry-genealogie-de-la-psychanalyse-commentary` - 41 term hits, no record
 - `husserliana-8-erste-philosophie-ii-commentary` - 41 term hits, no record
 - `derrida-introduction-a-lorigine-de-la-geometrie-commentary` - 39 term hits, no record
 - `husserliana-26-theory-of-meaning-commentary` - 37 term hits, no record
 - `husserliana-19-1-fifth-logical-investigation-commentary` - 36 term hits, no record
 - `husserliana-19-2-sixth-logical-investigation-commentary` - 36 term hits, no record
 - `husserl-formal-and-transcendental-logic-commentary` - 34 term hits, no record
+- `henry-phenomenologie-de-la vie-1-commentary` - 30 term hits, no record
 - `aristotle-de-anima-commentary` - 26 term hits, no record
 - `husserliana-9-phenomenological-psychology-commentary` - 25 term hits, no record
 - `husserliana-4-ideas-ii-commentary` - 21 term hits, no record
@@ -346,6 +348,7 @@
 - `heidegger-ga-24-die-grundprobleme-der-phanomenologie-commentary` - 11 term hits, no record
 - `husserliana-3-ideas-i-commentary` - 11 term hits, no record
 - `husserliana-5-ideas-iii-commentary` - 11 term hits, no record
+- `henry-phenomenologie-de-la-vie-2-commentary` - 10 term hits, no record
 - `husserl-erfahrung-und-urteil-commentary` - 10 term hits, no record
 - `husserliana-23-phantasie-bildbewusstsein-erinnerung-commentary` - 9 term hits, no record
 - `fichte-science-of-knowing-commentary` - 8 term hits, no record
