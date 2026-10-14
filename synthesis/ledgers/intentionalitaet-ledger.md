@@ -3445,9 +3445,12 @@
 
 *Where the theme's terms occur but no extraction pass has run. Silence in the sections above is silence about these files, not evidence of absence in them.*
 
+- `henry-phenomenologie-de-la vie-1-commentary` - 227 term hits, no record
 - `husserliana-8-erste-philosophie-ii-commentary` - 116 term hits, no record
+- `henry-phenomenologie-de-la-vie-2-commentary` - 90 term hits, no record
 - `heidegger-ga-26-metaphysische-anfangsgruende-der-logik-commentary` - 81 term hits, no record
 - `Reduction et donation Commentary` - 43 term hits, no record
+- `henry-genealogie-de-la-psychanalyse-commentary` - 30 term hits, no record
 - `husserliana-23-phantasie-bildbewusstsein-erinnerung-commentary` - 15 term hits, no record
 - `derrida-la-voix-et-le-phenomene-commentary` - 14 term hits, no record
 - `husserliana-13-basic-problems-of-phenomenology-commentary` - 14 term hits, no record

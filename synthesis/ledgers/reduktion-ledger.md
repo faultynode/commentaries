@@ -1470,7 +1470,10 @@
 *Where the theme's terms occur but no extraction pass has run. Silence in the sections above is silence about these files, not evidence of absence in them.*
 
 - `husserliana-8-erste-philosophie-ii-commentary` - 393 term hits, no record
+- `henry-phenomenologie-de-la vie-1-commentary` - 153 term hits, no record
 - `Reduction et donation Commentary` - 123 term hits, no record
+- `henry-phenomenologie-de-la-vie-2-commentary` - 115 term hits, no record
+- `henry-genealogie-de-la-psychanalyse-commentary` - 102 term hits, no record
 - `heidegger-ga-26-metaphysische-anfangsgruende-der-logik-commentary` - 36 term hits, no record
 - `husserliana-4-ideas-ii-commentary` - 21 term hits, no record
 - `lacan-seminar-11-the-four-fundamental-concepts-of-psychoanalysis-commentary` - 17 term hits, no record

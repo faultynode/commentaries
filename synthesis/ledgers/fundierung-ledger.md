@@ -1732,6 +1732,7 @@
 
 *Where the theme's terms occur but no extraction pass has run. Silence in the sections above is silence about these files, not evidence of absence in them.*
 
+- `henry-genealogie-de-la-psychanalyse-commentary` - 263 term hits, no record
 - `heidegger-ga-3-kant-und-das-problem-der-metaphysik-commentary` - 226 term hits, no record
 - `husserliana-8-erste-philosophie-ii-commentary` - 219 term hits, no record
 - `heidegger-ga-26-metaphysische-anfangsgruende-der-logik-commentary` - 213 term hits, no record
@@ -1744,10 +1745,12 @@
 - `marion-sur-le-prisme-metaphysique-de-descartes-commentary` - 174 term hits, no record
 - `husserl-prolegomena-commentary` - 164 term hits, no record
 - `heidegger-being-and-time-commentary` - 159 term hits, no record
+- `henry-phenomenologie-de-la vie-1-commentary` - 154 term hits, no record
 - `heidegger-ga-20-prolegomena-zur-geschichte-des-zeitbegriffs-commentary` - 113 term hits, no record
 - `husserliana-13-basic-problems-of-phenomenology-commentary` - 106 term hits, no record
 - `franck-chair-et-corps-commentary` - 101 term hits, no record
 - `husserl-natur-und-geist-commentary` - 101 term hits, no record
+- `henry-phenomenologie-de-la-vie-2-commentary` - 99 term hits, no record
 - `husserliana-3-ideas-i-commentary` - 99 term hits, no record
 - `lacan-seminar-2-the-ego-in-freuds-theory-and-in-the-technique-of-psychoanalysis-commentary` - 94 term hits, no record
 - `husserl-krisis-commentary` - 87 term hits, no record

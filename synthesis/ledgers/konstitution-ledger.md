@@ -1842,7 +1842,10 @@
 
 *Where the theme's terms occur but no extraction pass has run. Silence in the sections above is silence about these files, not evidence of absence in them.*
 
+- `henry-genealogie-de-la-psychanalyse-commentary` - 135 term hits, no record
+- `henry-phenomenologie-de-la vie-1-commentary` - 96 term hits, no record
 - `heidegger-ga-26-metaphysische-anfangsgruende-der-logik-commentary` - 82 term hits, no record
+- `henry-phenomenologie-de-la-vie-2-commentary` - 76 term hits, no record
 - `husserliana-19-2-sixth-logical-investigation-commentary` - 59 term hits, no record
 - `kant-kritik-der-reinen-vernunft-commentary` - 51 term hits, no record
 - `kern-husserl-and-kant-commentary` - 51 term hits, no record
