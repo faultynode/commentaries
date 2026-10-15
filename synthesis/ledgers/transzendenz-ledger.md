@@ -1753,6 +1753,7 @@
 
 *Where the theme's terms occur but no extraction pass has run. Silence in the sections above is silence about these files, not evidence of absence in them.*
 
+- `kojève-introduction-à-la-lecture-de-hegel-commentary` - 167 term hits, no record
 - `henry-genealogie-de-la-psychanalyse-commentary` - 123 term hits, no record
 - `franck-chair-et-corps-commentary` - 97 term hits, no record
 - `henry-phenomenologie-de-la vie-1-commentary` - 84 term hits, no record

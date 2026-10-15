@@ -1308,6 +1308,7 @@
 
 - `henry-genealogie-de-la-psychanalyse-commentary` - 699 term hits, no record
 - `heidegger-ga-26-metaphysische-anfangsgruende-der-logik-commentary` - 494 term hits, no record
+- `kojève-introduction-à-la-lecture-de-hegel-commentary` - 445 term hits, no record
 - `henry-phenomenologie-de-la-vie-2-commentary` - 196 term hits, no record
 - `henry-phenomenologie-de-la vie-1-commentary` - 172 term hits, no record
 - `heidegger-ga-5-hegels-begriff-der-erfahrung-commentary` - 141 term hits, no record
@@ -1329,6 +1330,7 @@
 - `franck-heidegger-and-the-problem-of-space-commentary` - 42 term hits, no record
 - `husserliana-43-2-studien-zur-struktur-des-bewusstseins-commentary` - 41 term hits, no record
 - `husserl-prolegomena-commentary` - 40 term hits, no record
+- `descartes-regulae-ad-directionem-ingenii-commentary` - 35 term hits, no record
 - `husserl-krisis-commentary` - 31 term hits, no record
 - `kant-kritik-der-reinen-vernunft-commentary` - 24 term hits, no record
 - `derrida-la-voix-et-le-phenomene-commentary` - 19 term hits, no record

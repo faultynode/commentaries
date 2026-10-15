@@ -1848,6 +1848,7 @@
 - `heidegger-ga-26-metaphysische-anfangsgruende-der-logik-commentary` - 82 term hits, no record
 - `henry-phenomenologie-de-la-vie-2-commentary` - 76 term hits, no record
 - `husserliana-19-2-sixth-logical-investigation-commentary` - 59 term hits, no record
+- `kojève-introduction-à-la-lecture-de-hegel-commentary` - 54 term hits, no record
 - `kant-kritik-der-reinen-vernunft-commentary` - 51 term hits, no record
 - `kern-husserl-and-kant-commentary` - 51 term hits, no record
 - `husserliana-3-ideas-i-commentary` - 50 term hits, no record

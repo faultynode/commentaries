@@ -2293,6 +2293,392 @@
       ]
     },
     {
+      "slug": "descartes-regulae-ad-directionem-ingenii-commentary",
+      "path": "commentaries/descartes/descartes-regulae-ad-directionem-ingenii-commentary.md",
+      "author": "descartes",
+      "title": "Descartes, Regulae ad directionem ingenii: A Commentary",
+      "wordpress_id": null,
+      "sha256": "f36e1e90781eb654ae98ab59d10b613e1fabfb638a52f2ac98410b462b0e5fa2",
+      "lines": 418,
+      "words": 30281,
+      "url": "https://faultynode.github.io/commentaries/commentaries/descartes/descartes-regulae-ad-directionem-ingenii-commentary.html",
+      "sections": [
+        {
+          "id": "h1-descartes-regulae-ad-directionem-ingenii-a-commentary",
+          "level": 1,
+          "title": "Descartes, Regulae ad directionem ingenii: A Commentary",
+          "path": [
+            "Descartes, Regulae ad directionem ingenii: A Commentary"
+          ],
+          "anchor": "descartes-regulae-ad-directionem-ingenii-a-commentary",
+          "line_start": 1,
+          "line_end": 6,
+          "words": 214
+        },
+        {
+          "id": "h2-book-one-on-simple-propositions-and-inferences",
+          "level": 2,
+          "title": "Book One: On Simple Propositions and Inferences",
+          "path": [
+            "Descartes, Regulae ad directionem ingenii: A Commentary",
+            "Book One: On Simple Propositions and Inferences"
+          ],
+          "anchor": "book-one-on-simple-propositions-and-inferences",
+          "line_start": 7,
+          "line_end": 8,
+          "words": 0
+        },
+        {
+          "id": "h3-rule-one-on-wisdom-and-science",
+          "level": 3,
+          "title": "Rule One: On Wisdom and Science",
+          "path": [
+            "Descartes, Regulae ad directionem ingenii: A Commentary",
+            "Book One: On Simple Propositions and Inferences",
+            "Rule One: On Wisdom and Science"
+          ],
+          "anchor": "rule-one-on-wisdom-and-science",
+          "line_start": 9,
+          "line_end": 14,
+          "words": 437
+        },
+        {
+          "id": "h3-rule-two-on-science-and-knowledge",
+          "level": 3,
+          "title": "Rule Two: On Science and Knowledge",
+          "path": [
+            "Descartes, Regulae ad directionem ingenii: A Commentary",
+            "Book One: On Simple Propositions and Inferences",
+            "Rule Two: On Science and Knowledge"
+          ],
+          "anchor": "rule-two-on-science-and-knowledge",
+          "line_start": 15,
+          "line_end": 30,
+          "words": 958
+        },
+        {
+          "id": "h3-rule-three-on-intuition-and-deduction",
+          "level": 3,
+          "title": "Rule Three: On Intuition and Deduction",
+          "path": [
+            "Descartes, Regulae ad directionem ingenii: A Commentary",
+            "Book One: On Simple Propositions and Inferences",
+            "Rule Three: On Intuition and Deduction"
+          ],
+          "anchor": "rule-three-on-intuition-and-deduction",
+          "line_start": 31,
+          "line_end": 52,
+          "words": 1244
+        },
+        {
+          "id": "h3-rule-four-on-method-mathematics-and-mathesis-universalis",
+          "level": 3,
+          "title": "Rule Four: On Method, Mathematics, and Mathesis Universalis",
+          "path": [
+            "Descartes, Regulae ad directionem ingenii: A Commentary",
+            "Book One: On Simple Propositions and Inferences",
+            "Rule Four: On Method, Mathematics, and Mathesis Universalis"
+          ],
+          "anchor": "rule-four-on-method-mathematics-and-mathesis-universalis",
+          "line_start": 53,
+          "line_end": 68,
+          "words": 1730
+        },
+        {
+          "id": "h3-rule-five-on-the-order-and-arrangement-of-things",
+          "level": 3,
+          "title": "Rule Five: On the Order and Arrangement of Things",
+          "path": [
+            "Descartes, Regulae ad directionem ingenii: A Commentary",
+            "Book One: On Simple Propositions and Inferences",
+            "Rule Five: On the Order and Arrangement of Things"
+          ],
+          "anchor": "rule-five-on-the-order-and-arrangement-of-things",
+          "line_start": 69,
+          "line_end": 76,
+          "words": 348
+        },
+        {
+          "id": "h3-rule-six-on-simple-natures-and-complex-relations",
+          "level": 3,
+          "title": "Rule Six: On Simple Natures and Complex Relations",
+          "path": [
+            "Descartes, Regulae ad directionem ingenii: A Commentary",
+            "Book One: On Simple Propositions and Inferences",
+            "Rule Six: On Simple Natures and Complex Relations"
+          ],
+          "anchor": "rule-six-on-simple-natures-and-complex-relations",
+          "line_start": 77,
+          "line_end": 98,
+          "words": 1603
+        },
+        {
+          "id": "h3-rule-seven-on-enumeration-or-induction",
+          "level": 3,
+          "title": "Rule Seven: On Enumeration or Induction",
+          "path": [
+            "Descartes, Regulae ad directionem ingenii: A Commentary",
+            "Book One: On Simple Propositions and Inferences",
+            "Rule Seven: On Enumeration or Induction"
+          ],
+          "anchor": "rule-seven-on-enumeration-or-induction",
+          "line_start": 99,
+          "line_end": 122,
+          "words": 1442
+        },
+        {
+          "id": "h3-rule-eight-on-the-limits-of-human-reason",
+          "level": 3,
+          "title": "Rule Eight: On the Limits of Human Reason",
+          "path": [
+            "Descartes, Regulae ad directionem ingenii: A Commentary",
+            "Book One: On Simple Propositions and Inferences",
+            "Rule Eight: On the Limits of Human Reason"
+          ],
+          "anchor": "rule-eight-on-the-limits-of-human-reason",
+          "line_start": 123,
+          "line_end": 148,
+          "words": 2204
+        },
+        {
+          "id": "h3-rule-nine-on-perspicacity-of-intuition",
+          "level": 3,
+          "title": "Rule Nine: On Perspicacity of Intuition",
+          "path": [
+            "Descartes, Regulae ad directionem ingenii: A Commentary",
+            "Book One: On Simple Propositions and Inferences",
+            "Rule Nine: On Perspicacity of Intuition"
+          ],
+          "anchor": "rule-nine-on-perspicacity-of-intuition",
+          "line_start": 149,
+          "line_end": 164,
+          "words": 882
+        },
+        {
+          "id": "h3-rule-ten-on-sagacity-of-deduction",
+          "level": 3,
+          "title": "Rule Ten: On Sagacity of Deduction",
+          "path": [
+            "Descartes, Regulae ad directionem ingenii: A Commentary",
+            "Book One: On Simple Propositions and Inferences",
+            "Rule Ten: On Sagacity of Deduction"
+          ],
+          "anchor": "rule-ten-on-sagacity-of-deduction",
+          "line_start": 165,
+          "line_end": 178,
+          "words": 987
+        },
+        {
+          "id": "h3-rule-eleven-on-capacity-of-inference",
+          "level": 3,
+          "title": "Rule Eleven: On Capacity of Inference",
+          "path": [
+            "Descartes, Regulae ad directionem ingenii: A Commentary",
+            "Book One: On Simple Propositions and Inferences",
+            "Rule Eleven: On Capacity of Inference"
+          ],
+          "anchor": "rule-eleven-on-capacity-of-inference",
+          "line_start": 179,
+          "line_end": 192,
+          "words": 1009
+        },
+        {
+          "id": "h3-rule-twelve-on-the-power-and-operations-of-the-natural-intelligence",
+          "level": 3,
+          "title": "Rule Twelve: On the Power and Operations of the Natural Intelligence",
+          "path": [
+            "Descartes, Regulae ad directionem ingenii: A Commentary",
+            "Book One: On Simple Propositions and Inferences",
+            "Rule Twelve: On the Power and Operations of the Natural Intelligence"
+          ],
+          "anchor": "rule-twelve-on-the-power-and-operations-of-the-natural-intelligence",
+          "line_start": 193,
+          "line_end": 250,
+          "words": 5977
+        },
+        {
+          "id": "h2-book-two-on-perfectly-understood-questions",
+          "level": 2,
+          "title": "Book Two: On Perfectly Understood Questions",
+          "path": [
+            "Descartes, Regulae ad directionem ingenii: A Commentary",
+            "Book Two: On Perfectly Understood Questions"
+          ],
+          "anchor": "book-two-on-perfectly-understood-questions",
+          "line_start": 251,
+          "line_end": 252,
+          "words": 0
+        },
+        {
+          "id": "h3-rule-thirteen-on-the-direct-resolution-of-questions",
+          "level": 3,
+          "title": "Rule Thirteen: On the Direct Resolution of Questions",
+          "path": [
+            "Descartes, Regulae ad directionem ingenii: A Commentary",
+            "Book Two: On Perfectly Understood Questions",
+            "Rule Thirteen: On the Direct Resolution of Questions"
+          ],
+          "anchor": "rule-thirteen-on-the-direct-resolution-of-questions",
+          "line_start": 253,
+          "line_end": 284,
+          "words": 2258
+        },
+        {
+          "id": "h3-rule-fourteen-on-representation-and-the-imagination",
+          "level": 3,
+          "title": "Rule Fourteen: On Representation and the Imagination",
+          "path": [
+            "Descartes, Regulae ad directionem ingenii: A Commentary",
+            "Book Two: On Perfectly Understood Questions",
+            "Rule Fourteen: On Representation and the Imagination"
+          ],
+          "anchor": "rule-fourteen-on-representation-and-the-imagination",
+          "line_start": 285,
+          "line_end": 338,
+          "words": 4377
+        },
+        {
+          "id": "h3-rule-fifteen-on-representation-and-the-senses",
+          "level": 3,
+          "title": "Rule Fifteen: On Representation and the Senses",
+          "path": [
+            "Descartes, Regulae ad directionem ingenii: A Commentary",
+            "Book Two: On Perfectly Understood Questions",
+            "Rule Fifteen: On Representation and the Senses"
+          ],
+          "anchor": "rule-fifteen-on-representation-and-the-senses",
+          "line_start": 339,
+          "line_end": 344,
+          "words": 347
+        },
+        {
+          "id": "h3-rule-sixteen-on-representation-and-the-memory",
+          "level": 3,
+          "title": "Rule Sixteen: On Representation and the Memory",
+          "path": [
+            "Descartes, Regulae ad directionem ingenii: A Commentary",
+            "Book Two: On Perfectly Understood Questions",
+            "Rule Sixteen: On Representation and the Memory"
+          ],
+          "anchor": "rule-sixteen-on-representation-and-the-memory",
+          "line_start": 345,
+          "line_end": 362,
+          "words": 1476
+        },
+        {
+          "id": "h3-rule-seventeen-on-the-indirect-resolution-of-questions",
+          "level": 3,
+          "title": "Rule Seventeen: On the Indirect Resolution of Questions",
+          "path": [
+            "Descartes, Regulae ad directionem ingenii: A Commentary",
+            "Book Two: On Perfectly Understood Questions",
+            "Rule Seventeen: On the Indirect Resolution of Questions"
+          ],
+          "anchor": "rule-seventeen-on-the-indirect-resolution-of-questions",
+          "line_start": 363,
+          "line_end": 370,
+          "words": 663
+        },
+        {
+          "id": "h3-rule-eighteen-on-the-operations-of-geometrical-algebra",
+          "level": 3,
+          "title": "Rule Eighteen: On the Operations of Geometrical Algebra",
+          "path": [
+            "Descartes, Regulae ad directionem ingenii: A Commentary",
+            "Book Two: On Perfectly Understood Questions",
+            "Rule Eighteen: On the Operations of Geometrical Algebra"
+          ],
+          "anchor": "rule-eighteen-on-the-operations-of-geometrical-algebra",
+          "line_start": 371,
+          "line_end": 396,
+          "words": 1535
+        },
+        {
+          "id": "h3-rule-nineteen",
+          "level": 3,
+          "title": "Rule Nineteen",
+          "path": [
+            "Descartes, Regulae ad directionem ingenii: A Commentary",
+            "Book Two: On Perfectly Understood Questions",
+            "Rule Nineteen"
+          ],
+          "anchor": "rule-nineteen",
+          "line_start": 397,
+          "line_end": 400,
+          "words": 96
+        },
+        {
+          "id": "h3-rule-twenty",
+          "level": 3,
+          "title": "Rule Twenty",
+          "path": [
+            "Descartes, Regulae ad directionem ingenii: A Commentary",
+            "Book Two: On Perfectly Understood Questions",
+            "Rule Twenty"
+          ],
+          "anchor": "rule-twenty",
+          "line_start": 401,
+          "line_end": 404,
+          "words": 69
+        },
+        {
+          "id": "h3-rule-twenty-one",
+          "level": 3,
+          "title": "Rule Twenty-One",
+          "path": [
+            "Descartes, Regulae ad directionem ingenii: A Commentary",
+            "Book Two: On Perfectly Understood Questions",
+            "Rule Twenty-One"
+          ],
+          "anchor": "rule-twenty-one",
+          "line_start": 405,
+          "line_end": 408,
+          "words": 126
+        },
+        {
+          "id": "h3-rules-twenty-two-through-twenty-four",
+          "level": 3,
+          "title": "Rules Twenty-Two through Twenty-Four",
+          "path": [
+            "Descartes, Regulae ad directionem ingenii: A Commentary",
+            "Book Two: On Perfectly Understood Questions",
+            "Rules Twenty-Two through Twenty-Four"
+          ],
+          "anchor": "rules-twenty-two-through-twenty-four",
+          "line_start": 409,
+          "line_end": 412,
+          "words": 19
+        },
+        {
+          "id": "h2-book-three-on-imperfectly-understood-questions",
+          "level": 2,
+          "title": "Book Three: On Imperfectly Understood Questions",
+          "path": [
+            "Descartes, Regulae ad directionem ingenii: A Commentary",
+            "Book Three: On Imperfectly Understood Questions"
+          ],
+          "anchor": "book-three-on-imperfectly-understood-questions",
+          "line_start": 413,
+          "line_end": 414,
+          "words": 0
+        },
+        {
+          "id": "h3-rules-twenty-five-through-thirty-six",
+          "level": 3,
+          "title": "Rules Twenty-Five through Thirty-Six",
+          "path": [
+            "Descartes, Regulae ad directionem ingenii: A Commentary",
+            "Book Three: On Imperfectly Understood Questions",
+            "Rules Twenty-Five through Thirty-Six"
+          ],
+          "anchor": "rules-twenty-five-through-thirty-six",
+          "line_start": 415,
+          "line_end": 418,
+          "words": 82
+        }
+      ]
+    },
+    {
       "slug": "franck-chair-et-corps-commentary",
       "path": "commentaries/fanck/franck-chair-et-corps-commentary.md",
       "author": "fanck",
@@ -52664,6 +53050,879 @@
           "line_start": 429,
           "line_end": 441,
           "words": 427
+        }
+      ]
+    },
+    {
+      "slug": "kojève-introduction-à-la-lecture-de-hegel-commentary",
+      "path": "commentaries/kojève/kojève-introduction-à-la-lecture-de-hegel-commentary.md",
+      "author": "kojève",
+      "title": "Commentary on Alexandre Kojève, Introduction à la lecture de Hegel",
+      "wordpress_id": null,
+      "sha256": "5fe6386c426b8d0d5683b8f01680a81c6e48667c278a0a321848c49002b84dc3",
+      "lines": 3238,
+      "words": 237507,
+      "url": "https://faultynode.github.io/commentaries/commentaries/kojève/kojève-introduction-à-la-lecture-de-hegel-commentary.html",
+      "sections": [
+        {
+          "id": "h1-commentary-on-alexandre-kojeve-introduction-a-la-lecture-de-hegel",
+          "level": 1,
+          "title": "Commentary on Alexandre Kojève, Introduction à la lecture de Hegel",
+          "path": [
+            "Commentary on Alexandre Kojève, Introduction à la lecture de Hegel"
+          ],
+          "anchor": "commentary-on-alexandre-kojeve-introduction-a-la-lecture-de-hegel",
+          "line_start": 1,
+          "line_end": 8,
+          "words": 446
+        },
+        {
+          "id": "h2-editor-s-note",
+          "level": 2,
+          "title": "Editor's Note",
+          "path": [
+            "Commentary on Alexandre Kojève, Introduction à la lecture de Hegel",
+            "Editor's Note"
+          ],
+          "anchor": "editors-note",
+          "line_start": 9,
+          "line_end": 12,
+          "words": 219
+        },
+        {
+          "id": "h2-by-way-of-introduction",
+          "level": 2,
+          "title": "By Way of Introduction",
+          "path": [
+            "Commentary on Alexandre Kojève, Introduction à la lecture de Hegel",
+            "By Way of Introduction"
+          ],
+          "anchor": "by-way-of-introduction",
+          "line_start": 13,
+          "line_end": 120,
+          "words": 10075
+        },
+        {
+          "id": "h2-course-of-the-1933-1934-academic-year",
+          "level": 2,
+          "title": "Course of the 1933–1934 Academic Year",
+          "path": [
+            "Commentary on Alexandre Kojève, Introduction à la lecture de Hegel",
+            "Course of the 1933–1934 Academic Year"
+          ],
+          "anchor": "course-of-the-19331934-academic-year",
+          "line_start": 121,
+          "line_end": 122,
+          "words": 0
+        },
+        {
+          "id": "h3-preliminary-remarks",
+          "level": 3,
+          "title": "Preliminary Remarks",
+          "path": [
+            "Commentary on Alexandre Kojève, Introduction à la lecture de Hegel",
+            "Course of the 1933–1934 Academic Year",
+            "Preliminary Remarks"
+          ],
+          "anchor": "preliminary-remarks",
+          "line_start": 123,
+          "line_end": 124,
+          "words": 0
+        },
+        {
+          "id": "h4-the-place-of-the-phenomenology-in-the-system-of-science",
+          "level": 4,
+          "title": "The Place of the Phenomenology in the \"System of Science\"",
+          "path": [
+            "Commentary on Alexandre Kojève, Introduction à la lecture de Hegel",
+            "Course of the 1933–1934 Academic Year",
+            "Preliminary Remarks",
+            "The Place of the Phenomenology in the \"System of Science\""
+          ],
+          "anchor": "the-place-of-the-phenomenology-in-the-system-of-science",
+          "line_start": 125,
+          "line_end": 156,
+          "words": 1568
+        },
+        {
+          "id": "h4-plan-and-structure-of-the-phenomenology",
+          "level": 4,
+          "title": "Plan and Structure of the Phenomenology",
+          "path": [
+            "Commentary on Alexandre Kojève, Introduction à la lecture de Hegel",
+            "Course of the 1933–1934 Academic Year",
+            "Preliminary Remarks",
+            "Plan and Structure of the Phenomenology"
+          ],
+          "anchor": "plan-and-structure-of-the-phenomenology",
+          "line_start": 157,
+          "line_end": 168,
+          "words": 686
+        },
+        {
+          "id": "h3-commentary-on-the-phenomenology",
+          "level": 3,
+          "title": "Commentary on the Phenomenology",
+          "path": [
+            "Commentary on Alexandre Kojève, Introduction à la lecture de Hegel",
+            "Course of the 1933–1934 Academic Year",
+            "Commentary on the Phenomenology"
+          ],
+          "anchor": "commentary-on-the-phenomenology",
+          "line_start": 169,
+          "line_end": 170,
+          "words": 0
+        },
+        {
+          "id": "h4-a-consciousness-section-a-chapters-i-iii",
+          "level": 4,
+          "title": "A. Consciousness (Section A, Chapters I–III)",
+          "path": [
+            "Commentary on Alexandre Kojève, Introduction à la lecture de Hegel",
+            "Course of the 1933–1934 Academic Year",
+            "Commentary on the Phenomenology",
+            "A. Consciousness (Section A, Chapters I–III)"
+          ],
+          "anchor": "a-consciousness-section-a-chapters-iiii",
+          "line_start": 171,
+          "line_end": 174,
+          "words": 61
+        },
+        {
+          "id": "h5-i-sense-certainty-or-the-this-and-meaning",
+          "level": 5,
+          "title": "I. Sense-Certainty; or the This and Meaning",
+          "path": [
+            "Commentary on Alexandre Kojève, Introduction à la lecture de Hegel",
+            "Course of the 1933–1934 Academic Year",
+            "Commentary on the Phenomenology",
+            "A. Consciousness (Section A, Chapters I–III)",
+            "I. Sense-Certainty; or the This and Meaning"
+          ],
+          "anchor": "i-sense-certainty-or-the-this-and-meaning",
+          "line_start": 175,
+          "line_end": 200,
+          "words": 1114
+        },
+        {
+          "id": "h5-ii-perception-or-the-thing-and-illusion",
+          "level": 5,
+          "title": "II. Perception; or the Thing and Illusion",
+          "path": [
+            "Commentary on Alexandre Kojève, Introduction à la lecture de Hegel",
+            "Course of the 1933–1934 Academic Year",
+            "Commentary on the Phenomenology",
+            "A. Consciousness (Section A, Chapters I–III)",
+            "II. Perception; or the Thing and Illusion"
+          ],
+          "anchor": "ii-perception-or-the-thing-and-illusion",
+          "line_start": 201,
+          "line_end": 204,
+          "words": 70
+        },
+        {
+          "id": "h5-iii-force-and-the-understanding-appearance-and-the-supersensible-world",
+          "level": 5,
+          "title": "III. Force and the Understanding; Appearance and the Supersensible World",
+          "path": [
+            "Commentary on Alexandre Kojève, Introduction à la lecture de Hegel",
+            "Course of the 1933–1934 Academic Year",
+            "Commentary on the Phenomenology",
+            "A. Consciousness (Section A, Chapters I–III)",
+            "III. Force and the Understanding; Appearance and the Supersensible World"
+          ],
+          "anchor": "iii-force-and-the-understanding-appearance-and-the-supersensible-world",
+          "line_start": 205,
+          "line_end": 222,
+          "words": 961
+        },
+        {
+          "id": "h4-b-self-consciousness-section-b",
+          "level": 4,
+          "title": "B. Self-Consciousness (Section B)",
+          "path": [
+            "Commentary on Alexandre Kojève, Introduction à la lecture de Hegel",
+            "Course of the 1933–1934 Academic Year",
+            "Commentary on the Phenomenology",
+            "B. Self-Consciousness (Section B)"
+          ],
+          "anchor": "b-self-consciousness-section-b",
+          "line_start": 223,
+          "line_end": 224,
+          "words": 0
+        },
+        {
+          "id": "h5-the-truth-of-self-certainty-section-b-chapter-iv",
+          "level": 5,
+          "title": "The Truth of Self-Certainty (Section B, Chapter IV)",
+          "path": [
+            "Commentary on Alexandre Kojève, Introduction à la lecture de Hegel",
+            "Course of the 1933–1934 Academic Year",
+            "Commentary on the Phenomenology",
+            "B. Self-Consciousness (Section B)",
+            "The Truth of Self-Certainty (Section B, Chapter IV)"
+          ],
+          "anchor": "the-truth-of-self-certainty-section-b-chapter-iv",
+          "line_start": 225,
+          "line_end": 242,
+          "words": 900
+        },
+        {
+          "id": "h6-independence-and-dependence-of-self-consciousness-lordship-and-bondage-chapter-i",
+          "level": 6,
+          "title": "Independence and Dependence of Self-Consciousness; Lordship and Bondage (Chapter IV, subdivision A): Recognition, or the Doubling of Self-Consciousness",
+          "path": [
+            "Commentary on Alexandre Kojève, Introduction à la lecture de Hegel",
+            "Course of the 1933–1934 Academic Year",
+            "Commentary on the Phenomenology",
+            "B. Self-Consciousness (Section B)",
+            "The Truth of Self-Certainty (Section B, Chapter IV)",
+            "Independence and Dependence of Self-Consciousness; Lordship and Bondage (Chapter IV, subdivision A): Recognition, or the Doubling of Self-Consciousness"
+          ],
+          "anchor": "independence-and-dependence-of-self-consciousness-lordship-and-bondage-chapter-iv-subdivision-a-recognition-or-the-doubling-of-self-consciousness",
+          "line_start": 243,
+          "line_end": 298,
+          "words": 2643
+        },
+        {
+          "id": "h3-summary-of-the-1933-1934-course",
+          "level": 3,
+          "title": "Summary of the 1933–1934 Course",
+          "path": [
+            "Commentary on Alexandre Kojève, Introduction à la lecture de Hegel",
+            "Course of the 1933–1934 Academic Year",
+            "Summary of the 1933–1934 Course"
+          ],
+          "anchor": "summary-of-the-19331934-course",
+          "line_start": 299,
+          "line_end": 306,
+          "words": 513
+        },
+        {
+          "id": "h2-course-of-the-1934-1935-academic-year",
+          "level": 2,
+          "title": "Course of the 1934–1935 Academic Year",
+          "path": [
+            "Commentary on Alexandre Kojève, Introduction à la lecture de Hegel",
+            "Course of the 1934–1935 Academic Year"
+          ],
+          "anchor": "course-of-the-19341935-academic-year",
+          "line_start": 307,
+          "line_end": 308,
+          "words": 0
+        },
+        {
+          "id": "h3-freedom-of-self-consciousness-chapter-iv-subdivision-b",
+          "level": 3,
+          "title": "Freedom of Self-Consciousness (Chapter IV, subdivision B)",
+          "path": [
+            "Commentary on Alexandre Kojève, Introduction à la lecture de Hegel",
+            "Course of the 1934–1935 Academic Year",
+            "Freedom of Self-Consciousness (Chapter IV, subdivision B)"
+          ],
+          "anchor": "freedom-of-self-consciousness-chapter-iv-subdivision-b",
+          "line_start": 309,
+          "line_end": 428,
+          "words": 6925
+        },
+        {
+          "id": "h3-summary-of-the-1934-1935-course",
+          "level": 3,
+          "title": "Summary of the 1934–1935 Course",
+          "path": [
+            "Commentary on Alexandre Kojève, Introduction à la lecture de Hegel",
+            "Course of the 1934–1935 Academic Year",
+            "Summary of the 1934–1935 Course"
+          ],
+          "anchor": "summary-of-the-19341935-course",
+          "line_start": 429,
+          "line_end": 444,
+          "words": 983
+        },
+        {
+          "id": "h2-course-of-the-1935-1936-academic-year",
+          "level": 2,
+          "title": "Course of the 1935–1936 Academic Year",
+          "path": [
+            "Commentary on Alexandre Kojève, Introduction à la lecture de Hegel",
+            "Course of the 1935–1936 Academic Year"
+          ],
+          "anchor": "course-of-the-19351936-academic-year",
+          "line_start": 445,
+          "line_end": 446,
+          "words": 0
+        },
+        {
+          "id": "h3-reason-section-c-chapters-v-viii",
+          "level": 3,
+          "title": "Reason (Section C, Chapters V–VIII)",
+          "path": [
+            "Commentary on Alexandre Kojève, Introduction à la lecture de Hegel",
+            "Course of the 1935–1936 Academic Year",
+            "Reason (Section C, Chapters V–VIII)"
+          ],
+          "anchor": "reason-section-c-chapters-vviii",
+          "line_start": 447,
+          "line_end": 448,
+          "words": 0
+        },
+        {
+          "id": "h4-i-certainty-and-truth-of-reason-section-c-chapter-v",
+          "level": 4,
+          "title": "I. Certainty and Truth of Reason (Section C, Chapter V)",
+          "path": [
+            "Commentary on Alexandre Kojève, Introduction à la lecture de Hegel",
+            "Course of the 1935–1936 Academic Year",
+            "Reason (Section C, Chapters V–VIII)",
+            "I. Certainty and Truth of Reason (Section C, Chapter V)"
+          ],
+          "anchor": "i-certainty-and-truth-of-reason-section-c-chapter-v",
+          "line_start": 449,
+          "line_end": 492,
+          "words": 1762
+        },
+        {
+          "id": "h5-a-observing-reason",
+          "level": 5,
+          "title": "A. Observing Reason",
+          "path": [
+            "Commentary on Alexandre Kojève, Introduction à la lecture de Hegel",
+            "Course of the 1935–1936 Academic Year",
+            "Reason (Section C, Chapters V–VIII)",
+            "I. Certainty and Truth of Reason (Section C, Chapter V)",
+            "A. Observing Reason"
+          ],
+          "anchor": "a-observing-reason",
+          "line_start": 493,
+          "line_end": 516,
+          "words": 1162
+        },
+        {
+          "id": "h5-b-the-actualisation-of-rational-self-consciousness-through-itself",
+          "level": 5,
+          "title": "B. The Actualisation of Rational Self-Consciousness through Itself",
+          "path": [
+            "Commentary on Alexandre Kojève, Introduction à la lecture de Hegel",
+            "Course of the 1935–1936 Academic Year",
+            "Reason (Section C, Chapters V–VIII)",
+            "I. Certainty and Truth of Reason (Section C, Chapter V)",
+            "B. The Actualisation of Rational Self-Consciousness through Itself"
+          ],
+          "anchor": "b-the-actualisation-of-rational-self-consciousness-through-itself",
+          "line_start": 517,
+          "line_end": 592,
+          "words": 3312
+        },
+        {
+          "id": "h5-c-individuality-which-takes-itself-to-be-real-in-and-for-itself",
+          "level": 5,
+          "title": "C. Individuality Which Takes Itself to Be Real in and for Itself",
+          "path": [
+            "Commentary on Alexandre Kojève, Introduction à la lecture de Hegel",
+            "Course of the 1935–1936 Academic Year",
+            "Reason (Section C, Chapters V–VIII)",
+            "I. Certainty and Truth of Reason (Section C, Chapter V)",
+            "C. Individuality Which Takes Itself to Be Real in and for Itself"
+          ],
+          "anchor": "c-individuality-which-takes-itself-to-be-real-in-and-for-itself",
+          "line_start": 593,
+          "line_end": 668,
+          "words": 3556
+        },
+        {
+          "id": "h4-introduction-to-chapters-vi-viii",
+          "level": 4,
+          "title": "Introduction to Chapters VI–VIII",
+          "path": [
+            "Commentary on Alexandre Kojève, Introduction à la lecture de Hegel",
+            "Course of the 1935–1936 Academic Year",
+            "Reason (Section C, Chapters V–VIII)",
+            "Introduction to Chapters VI–VIII"
+          ],
+          "anchor": "introduction-to-chapters-viviii",
+          "line_start": 669,
+          "line_end": 674,
+          "words": 304
+        },
+        {
+          "id": "h4-ii-spirit-section-c-chapter-vi",
+          "level": 4,
+          "title": "II. Spirit (Section C, Chapter VI)",
+          "path": [
+            "Commentary on Alexandre Kojève, Introduction à la lecture de Hegel",
+            "Course of the 1935–1936 Academic Year",
+            "Reason (Section C, Chapters V–VIII)",
+            "II. Spirit (Section C, Chapter VI)"
+          ],
+          "anchor": "ii-spirit-section-c-chapter-vi",
+          "line_start": 675,
+          "line_end": 690,
+          "words": 744
+        },
+        {
+          "id": "h5-a-the-true-spirit-ethical-life",
+          "level": 5,
+          "title": "A. The True Spirit; Ethical Life",
+          "path": [
+            "Commentary on Alexandre Kojève, Introduction à la lecture de Hegel",
+            "Course of the 1935–1936 Academic Year",
+            "Reason (Section C, Chapters V–VIII)",
+            "II. Spirit (Section C, Chapter VI)",
+            "A. The True Spirit; Ethical Life"
+          ],
+          "anchor": "a-the-true-spirit-ethical-life",
+          "line_start": 691,
+          "line_end": 782,
+          "words": 3918
+        },
+        {
+          "id": "h3-summary-of-the-1935-1936-course",
+          "level": 3,
+          "title": "Summary of the 1935–1936 Course",
+          "path": [
+            "Commentary on Alexandre Kojève, Introduction à la lecture de Hegel",
+            "Course of the 1935–1936 Academic Year",
+            "Summary of the 1935–1936 Course"
+          ],
+          "anchor": "summary-of-the-19351936-course",
+          "line_start": 783,
+          "line_end": 798,
+          "words": 1026
+        },
+        {
+          "id": "h2-course-of-the-1936-1937-academic-year",
+          "level": 2,
+          "title": "Course of the 1936–1937 Academic Year",
+          "path": [
+            "Commentary on Alexandre Kojève, Introduction à la lecture de Hegel",
+            "Course of the 1936–1937 Academic Year"
+          ],
+          "anchor": "course-of-the-19361937-academic-year",
+          "line_start": 799,
+          "line_end": 800,
+          "words": 0
+        },
+        {
+          "id": "h3-b-self-alienated-spirit-culture-chapter-vi-b",
+          "level": 3,
+          "title": "B. Self-Alienated Spirit; Culture (Chapter VI, B)",
+          "path": [
+            "Commentary on Alexandre Kojève, Introduction à la lecture de Hegel",
+            "Course of the 1936–1937 Academic Year",
+            "B. Self-Alienated Spirit; Culture (Chapter VI, B)"
+          ],
+          "anchor": "b-self-alienated-spirit-culture-chapter-vi-b",
+          "line_start": 801,
+          "line_end": 840,
+          "words": 2604
+        },
+        {
+          "id": "h4-i-the-world-of-self-alienated-spirit",
+          "level": 4,
+          "title": "I. The World of Self-Alienated Spirit",
+          "path": [
+            "Commentary on Alexandre Kojève, Introduction à la lecture de Hegel",
+            "Course of the 1936–1937 Academic Year",
+            "B. Self-Alienated Spirit; Culture (Chapter VI, B)",
+            "I. The World of Self-Alienated Spirit"
+          ],
+          "anchor": "i-the-world-of-self-alienated-spirit",
+          "line_start": 841,
+          "line_end": 1014,
+          "words": 8812
+        },
+        {
+          "id": "h4-ii-the-enlightenment",
+          "level": 4,
+          "title": "II. The Enlightenment",
+          "path": [
+            "Commentary on Alexandre Kojève, Introduction à la lecture de Hegel",
+            "Course of the 1936–1937 Academic Year",
+            "B. Self-Alienated Spirit; Culture (Chapter VI, B)",
+            "II. The Enlightenment"
+          ],
+          "anchor": "ii-the-enlightenment",
+          "line_start": 1015,
+          "line_end": 1068,
+          "words": 3312
+        },
+        {
+          "id": "h4-iii-absolute-freedom-and-terror",
+          "level": 4,
+          "title": "III. Absolute Freedom and Terror",
+          "path": [
+            "Commentary on Alexandre Kojève, Introduction à la lecture de Hegel",
+            "Course of the 1936–1937 Academic Year",
+            "B. Self-Alienated Spirit; Culture (Chapter VI, B)",
+            "III. Absolute Freedom and Terror"
+          ],
+          "anchor": "iii-absolute-freedom-and-terror",
+          "line_start": 1069,
+          "line_end": 1106,
+          "words": 2114
+        },
+        {
+          "id": "h4-c-spirit-certain-of-itself-morality",
+          "level": 4,
+          "title": "C. Spirit Certain of Itself; Morality",
+          "path": [
+            "Commentary on Alexandre Kojève, Introduction à la lecture de Hegel",
+            "Course of the 1936–1937 Academic Year",
+            "B. Self-Alienated Spirit; Culture (Chapter VI, B)",
+            "C. Spirit Certain of Itself; Morality"
+          ],
+          "anchor": "c-spirit-certain-of-itself-morality",
+          "line_start": 1107,
+          "line_end": 1184,
+          "words": 4786
+        },
+        {
+          "id": "h3-summary-of-the-1936-1937-course",
+          "level": 3,
+          "title": "Summary of the 1936–1937 Course",
+          "path": [
+            "Commentary on Alexandre Kojève, Introduction à la lecture de Hegel",
+            "Course of the 1936–1937 Academic Year",
+            "Summary of the 1936–1937 Course"
+          ],
+          "anchor": "summary-of-the-19361937-course",
+          "line_start": 1185,
+          "line_end": 1200,
+          "words": 1114
+        },
+        {
+          "id": "h2-course-of-the-1937-1938-academic-year",
+          "level": 2,
+          "title": "Course of the 1937–1938 Academic Year",
+          "path": [
+            "Commentary on Alexandre Kojève, Introduction à la lecture de Hegel",
+            "Course of the 1937–1938 Academic Year"
+          ],
+          "anchor": "course-of-the-19371938-academic-year",
+          "line_start": 1201,
+          "line_end": 1202,
+          "words": 0
+        },
+        {
+          "id": "h3-summary-of-the-first-six-chapters-of-the-phenomenology-of-spirit",
+          "level": 3,
+          "title": "Summary of the First Six Chapters of the Phenomenology of Spirit",
+          "path": [
+            "Commentary on Alexandre Kojève, Introduction à la lecture de Hegel",
+            "Course of the 1937–1938 Academic Year",
+            "Summary of the First Six Chapters of the Phenomenology of Spirit"
+          ],
+          "anchor": "summary-of-the-first-six-chapters-of-the-phenomenology-of-spirit",
+          "line_start": 1203,
+          "line_end": 1454,
+          "words": 17029
+        },
+        {
+          "id": "h3-interpretation-of-the-general-introduction-to-chapter-vii-hoffmeister-pp-473-480",
+          "level": 3,
+          "title": "Interpretation of the General Introduction to Chapter VII (Hoffmeister pp. 473–480)",
+          "path": [
+            "Commentary on Alexandre Kojève, Introduction à la lecture de Hegel",
+            "Course of the 1937–1938 Academic Year",
+            "Interpretation of the General Introduction to Chapter VII (Hoffmeister pp. 473–480)"
+          ],
+          "anchor": "interpretation-of-the-general-introduction-to-chapter-vii-hoffmeister-pp-473480",
+          "line_start": 1455,
+          "line_end": 1622,
+          "words": 11604
+        },
+        {
+          "id": "h3-a-natural-religion-hoffmeister-pp-481-489",
+          "level": 3,
+          "title": "A. Natural Religion (Hoffmeister pp. 481–489)",
+          "path": [
+            "Commentary on Alexandre Kojève, Introduction à la lecture de Hegel",
+            "Course of the 1937–1938 Academic Year",
+            "A. Natural Religion (Hoffmeister pp. 481–489)"
+          ],
+          "anchor": "a-natural-religion-hoffmeister-pp-481489",
+          "line_start": 1623,
+          "line_end": 1624,
+          "words": 0
+        },
+        {
+          "id": "h4-interpretation-of-the-introduction-to-section-a-of-chapter-vii-hoffmeister-pp-48",
+          "level": 4,
+          "title": "Interpretation of the Introduction to Section A of Chapter VII (Hoffmeister pp. 481–483)",
+          "path": [
+            "Commentary on Alexandre Kojève, Introduction à la lecture de Hegel",
+            "Course of the 1937–1938 Academic Year",
+            "A. Natural Religion (Hoffmeister pp. 481–489)",
+            "Interpretation of the Introduction to Section A of Chapter VII (Hoffmeister pp. 481–483)"
+          ],
+          "anchor": "interpretation-of-the-introduction-to-section-a-of-chapter-vii-hoffmeister-pp-481483",
+          "line_start": 1625,
+          "line_end": 1738,
+          "words": 5763
+        },
+        {
+          "id": "h3-b-the-art-religion-hoffmeister-pp-490-520",
+          "level": 3,
+          "title": "B. The Art-Religion (Hoffmeister pp. 490–520)",
+          "path": [
+            "Commentary on Alexandre Kojève, Introduction à la lecture de Hegel",
+            "Course of the 1937–1938 Academic Year",
+            "B. The Art-Religion (Hoffmeister pp. 490–520)"
+          ],
+          "anchor": "b-the-art-religion-hoffmeister-pp-490520",
+          "line_start": 1739,
+          "line_end": 1828,
+          "words": 5647
+        },
+        {
+          "id": "h3-c-the-revealed-religion-hoffmeister-pp-521-548",
+          "level": 3,
+          "title": "C. The Revealed Religion (Hoffmeister pp. 521–548)",
+          "path": [
+            "Commentary on Alexandre Kojève, Introduction à la lecture de Hegel",
+            "Course of the 1937–1938 Academic Year",
+            "C. The Revealed Religion (Hoffmeister pp. 521–548)"
+          ],
+          "anchor": "c-the-revealed-religion-hoffmeister-pp-521548",
+          "line_start": 1829,
+          "line_end": 1876,
+          "words": 3452
+        },
+        {
+          "id": "h3-summary-of-the-1937-1938-course",
+          "level": 3,
+          "title": "Summary of the 1937–1938 Course",
+          "path": [
+            "Commentary on Alexandre Kojève, Introduction à la lecture de Hegel",
+            "Course of the 1937–1938 Academic Year",
+            "Summary of the 1937–1938 Course"
+          ],
+          "anchor": "summary-of-the-19371938-course",
+          "line_start": 1877,
+          "line_end": 1888,
+          "words": 889
+        },
+        {
+          "id": "h2-course-of-the-1938-1939-academic-year",
+          "level": 2,
+          "title": "Course of the 1938–1939 Academic Year",
+          "path": [
+            "Commentary on Alexandre Kojève, Introduction à la lecture de Hegel",
+            "Course of the 1938–1939 Academic Year"
+          ],
+          "anchor": "course-of-the-19381939-academic-year",
+          "line_start": 1889,
+          "line_end": 1892,
+          "words": 51
+        },
+        {
+          "id": "h3-first-lecture-introduction-philosophy-and-wisdom",
+          "level": 3,
+          "title": "First Lecture: Introduction: Philosophy and Wisdom",
+          "path": [
+            "Commentary on Alexandre Kojève, Introduction à la lecture de Hegel",
+            "Course of the 1938–1939 Academic Year",
+            "First Lecture: Introduction: Philosophy and Wisdom"
+          ],
+          "anchor": "first-lecture-introduction-philosophy-and-wisdom",
+          "line_start": 1893,
+          "line_end": 1962,
+          "words": 4860
+        },
+        {
+          "id": "h3-second-lecture-introduction-philosophy-and-wisdom-continued-and-concluded",
+          "level": 3,
+          "title": "Second Lecture: Introduction: Philosophy and Wisdom (Continued and Concluded)",
+          "path": [
+            "Commentary on Alexandre Kojève, Introduction à la lecture de Hegel",
+            "Course of the 1938–1939 Academic Year",
+            "Second Lecture: Introduction: Philosophy and Wisdom (Continued and Concluded)"
+          ],
+          "anchor": "second-lecture-introduction-philosophy-and-wisdom-continued-and-concluded",
+          "line_start": 1963,
+          "line_end": 2010,
+          "words": 3854
+        },
+        {
+          "id": "h3-third-lecture-interpretation-of-the-introduction-to-chapter-viii-hoffmeister-pp",
+          "level": 3,
+          "title": "Third Lecture: Interpretation of the Introduction to Chapter VIII (Hoffmeister pp. 549–550)",
+          "path": [
+            "Commentary on Alexandre Kojève, Introduction à la lecture de Hegel",
+            "Course of the 1938–1939 Academic Year",
+            "Third Lecture: Interpretation of the Introduction to Chapter VIII (Hoffmeister pp. 549–550)"
+          ],
+          "anchor": "third-lecture-interpretation-of-the-introduction-to-chapter-viii-hoffmeister-pp-549550",
+          "line_start": 2011,
+          "line_end": 2094,
+          "words": 6178
+        },
+        {
+          "id": "h3-fourth-lecture-interpretation-of-the-first-part-of-chapter-viii-hoffmeister-pp-5",
+          "level": 3,
+          "title": "Fourth Lecture: Interpretation of the First Part of Chapter VIII (Hoffmeister pp. 550, l. 11 – 559, l. 9)",
+          "path": [
+            "Commentary on Alexandre Kojève, Introduction à la lecture de Hegel",
+            "Course of the 1938–1939 Academic Year",
+            "Fourth Lecture: Interpretation of the First Part of Chapter VIII (Hoffmeister pp. 550, l. 11 – 559, l. 9)"
+          ],
+          "anchor": "fourth-lecture-interpretation-of-the-first-part-of-chapter-viii-hoffmeister-pp-550-l-11--559-l-9",
+          "line_start": 2095,
+          "line_end": 2170,
+          "words": 5889
+        },
+        {
+          "id": "h3-fifth-lecture-interpretation-of-the-second-part-of-chapter-viii-hoffmeister-pp-5",
+          "level": 3,
+          "title": "Fifth Lecture: Interpretation of the Second Part of Chapter VIII (Hoffmeister pp. 556, l. 10 – 561, l. 27)",
+          "path": [
+            "Commentary on Alexandre Kojève, Introduction à la lecture de Hegel",
+            "Course of the 1938–1939 Academic Year",
+            "Fifth Lecture: Interpretation of the Second Part of Chapter VIII (Hoffmeister pp. 556, l. 10 – 561, l. 27)"
+          ],
+          "anchor": "fifth-lecture-interpretation-of-the-second-part-of-chapter-viii-hoffmeister-pp-556-l-10--561-l-27",
+          "line_start": 2171,
+          "line_end": 2258,
+          "words": 6186
+        },
+        {
+          "id": "h3-sixth-lecture-note-on-eternity-time-and-the-concept-cf-hoffmeister-p-558-ll-3-4",
+          "level": 3,
+          "title": "Sixth Lecture: Note on Eternity, Time, and the Concept (cf. Hoffmeister p. 558, ll. 3–4)",
+          "path": [
+            "Commentary on Alexandre Kojève, Introduction à la lecture de Hegel",
+            "Course of the 1938–1939 Academic Year",
+            "Sixth Lecture: Note on Eternity, Time, and the Concept (cf. Hoffmeister p. 558, ll. 3–4)"
+          ],
+          "anchor": "sixth-lecture-note-on-eternity-time-and-the-concept-cf-hoffmeister-p-558-ll-34",
+          "line_start": 2259,
+          "line_end": 2318,
+          "words": 4789
+        },
+        {
+          "id": "h3-seventh-lecture-note-on-eternity-time-and-the-concept-continued",
+          "level": 3,
+          "title": "Seventh Lecture: Note on Eternity, Time, and the Concept (Continued)",
+          "path": [
+            "Commentary on Alexandre Kojève, Introduction à la lecture de Hegel",
+            "Course of the 1938–1939 Academic Year",
+            "Seventh Lecture: Note on Eternity, Time, and the Concept (Continued)"
+          ],
+          "anchor": "seventh-lecture-note-on-eternity-time-and-the-concept-continued",
+          "line_start": 2319,
+          "line_end": 2398,
+          "words": 6535
+        },
+        {
+          "id": "h3-eighth-lecture-note-on-eternity-time-and-the-concept-continued-and-concluded",
+          "level": 3,
+          "title": "Eighth Lecture: Note on Eternity, Time, and the Concept (Continued and Concluded)",
+          "path": [
+            "Commentary on Alexandre Kojève, Introduction à la lecture de Hegel",
+            "Course of the 1938–1939 Academic Year",
+            "Eighth Lecture: Note on Eternity, Time, and the Concept (Continued and Concluded)"
+          ],
+          "anchor": "eighth-lecture-note-on-eternity-time-and-the-concept-continued-and-concluded",
+          "line_start": 2399,
+          "line_end": 2486,
+          "words": 8975
+        },
+        {
+          "id": "h3-ninth-lecture-interpretation-of-the-second-part-of-chapter-viii-continued",
+          "level": 3,
+          "title": "Ninth Lecture: Interpretation of the Second Part of Chapter VIII (Continued)",
+          "path": [
+            "Commentary on Alexandre Kojève, Introduction à la lecture de Hegel",
+            "Course of the 1938–1939 Academic Year",
+            "Ninth Lecture: Interpretation of the Second Part of Chapter VIII (Continued)"
+          ],
+          "anchor": "ninth-lecture-interpretation-of-the-second-part-of-chapter-viii-continued",
+          "line_start": 2487,
+          "line_end": 2566,
+          "words": 6922
+        },
+        {
+          "id": "h3-tenth-lecture-interpretation-of-the-second-part-of-chapter-viii-continued-and-co",
+          "level": 3,
+          "title": "Tenth Lecture: Interpretation of the Second Part of Chapter VIII (Continued and Concluded)",
+          "path": [
+            "Commentary on Alexandre Kojève, Introduction à la lecture de Hegel",
+            "Course of the 1938–1939 Academic Year",
+            "Tenth Lecture: Interpretation of the Second Part of Chapter VIII (Continued and Concluded)"
+          ],
+          "anchor": "tenth-lecture-interpretation-of-the-second-part-of-chapter-viii-continued-and-concluded",
+          "line_start": 2567,
+          "line_end": 2640,
+          "words": 6746
+        },
+        {
+          "id": "h3-eleventh-lecture-interpretation-of-the-third-part-of-chapter-viii-hoffmeister-pp",
+          "level": 3,
+          "title": "Eleventh Lecture: Interpretation of the Third Part of Chapter VIII (Hoffmeister pp. 561, l. 28 – 564)",
+          "path": [
+            "Commentary on Alexandre Kojève, Introduction à la lecture de Hegel",
+            "Course of the 1938–1939 Academic Year",
+            "Eleventh Lecture: Interpretation of the Third Part of Chapter VIII (Hoffmeister pp. 561, l. 28 – 564)"
+          ],
+          "anchor": "eleventh-lecture-interpretation-of-the-third-part-of-chapter-viii-hoffmeister-pp-561-l-28--564",
+          "line_start": 2641,
+          "line_end": 2708,
+          "words": 6710
+        },
+        {
+          "id": "h3-twelfth-lecture-interpretation-of-the-third-part-of-chapter-viii-continued-and-c",
+          "level": 3,
+          "title": "Twelfth Lecture: Interpretation of the Third Part of Chapter VIII (Continued and Concluded)",
+          "path": [
+            "Commentary on Alexandre Kojève, Introduction à la lecture de Hegel",
+            "Course of the 1938–1939 Academic Year",
+            "Twelfth Lecture: Interpretation of the Third Part of Chapter VIII (Continued and Concluded)"
+          ],
+          "anchor": "twelfth-lecture-interpretation-of-the-third-part-of-chapter-viii-continued-and-concluded",
+          "line_start": 2709,
+          "line_end": 2776,
+          "words": 8070
+        },
+        {
+          "id": "h2-appendices",
+          "level": 2,
+          "title": "Appendices",
+          "path": [
+            "Commentary on Alexandre Kojève, Introduction à la lecture de Hegel",
+            "Appendices"
+          ],
+          "anchor": "appendices",
+          "line_start": 2777,
+          "line_end": 2778,
+          "words": 0
+        },
+        {
+          "id": "h3-appendix-i-the-dialectic-of-the-real-and-the-phenomenological-method-in-hegel",
+          "level": 3,
+          "title": "Appendix I: The Dialectic of the Real and the Phenomenological Method in Hegel",
+          "path": [
+            "Commentary on Alexandre Kojève, Introduction à la lecture de Hegel",
+            "Appendices",
+            "Appendix I: The Dialectic of the Real and the Phenomenological Method in Hegel"
+          ],
+          "anchor": "appendix-i-the-dialectic-of-the-real-and-the-phenomenological-method-in-hegel",
+          "line_start": 2779,
+          "line_end": 3152,
+          "words": 42194
+        },
+        {
+          "id": "h3-appendix-ii-the-idea-of-death-in-the-philosophy-of-hegel",
+          "level": 3,
+          "title": "Appendix II: The Idea of Death in the Philosophy of Hegel",
+          "path": [
+            "Commentary on Alexandre Kojève, Introduction à la lecture de Hegel",
+            "Appendices",
+            "Appendix II: The Idea of Death in the Philosophy of Hegel"
+          ],
+          "anchor": "appendix-ii-the-idea-of-death-in-the-philosophy-of-hegel",
+          "line_start": 3153,
+          "line_end": 3238,
+          "words": 8932
         }
       ]
     },

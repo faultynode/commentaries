@@ -1371,6 +1371,7 @@
 
 - `husserliana-10-inneres-zeitbewusstsein-commentary` - 654 term hits, no record
 - `heidegger-ga-26-metaphysische-anfangsgruende-der-logik-commentary` - 223 term hits, no record
+- `kojève-introduction-à-la-lecture-de-hegel-commentary` - 221 term hits, no record
 - `henry-phenomenologie-de-la vie-1-commentary` - 79 term hits, no record
 - `husserliana-4-ideas-ii-commentary` - 50 term hits, no record
 - `henry-phenomenologie-de-la-vie-2-commentary` - 38 term hits, no record
@@ -1398,6 +1399,7 @@
 - `freud-das-unbewusste-commentary` - 3 term hits, no record
 - `husserliana-26-theory-of-meaning-commentary` - 3 term hits, no record
 - `husserliana-3-ideas-i-commentary` - 3 term hits, no record
+- `descartes-regulae-ad-directionem-ingenii-commentary` - 2 term hits, no record
 - `heidegger-ga-5-hegels-begriff-der-erfahrung-commentary` - 2 term hits, no record
 - `fichte-science-of-knowing-commentary` - 1 term hit, no record
 - `husserl-prolegomena-commentary` - 1 term hit, no record

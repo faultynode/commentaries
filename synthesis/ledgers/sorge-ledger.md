@@ -312,6 +312,7 @@
 - `kant-kritik-der-reinen-vernunft-commentary` - 75 term hits, no record
 - `husserl-thing-and-space-commentary` - 66 term hits, no record
 - `husserliana-3-ideas-i-parts-3-4-commentary` - 65 term hits, no record
+- `kojève-introduction-à-la-lecture-de-hegel-commentary` - 65 term hits, no record
 - `Reduction et donation Commentary` - 60 term hits, no record
 - `husserliana-7-erste-philosophie-i-commentary` - 60 term hits, no record
 - `heidegger-ga-26-metaphysische-anfangsgruende-der-logik-commentary` - 59 term hits, no record
@@ -331,6 +332,7 @@
 - `henry-phenomenologie-de-la vie-1-commentary` - 30 term hits, no record
 - `aristotle-de-anima-commentary` - 26 term hits, no record
 - `husserliana-9-phenomenological-psychology-commentary` - 25 term hits, no record
+- `descartes-regulae-ad-directionem-ingenii-commentary` - 23 term hits, no record
 - `husserliana-4-ideas-ii-commentary` - 21 term hits, no record
 - `husserliana-13-basic-problems-of-phenomenology-commentary` - 20 term hits, no record
 - `husserl-krisis-commentary` - 19 term hits, no record

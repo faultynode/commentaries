@@ -1732,6 +1732,7 @@
 
 *Where the theme's terms occur but no extraction pass has run. Silence in the sections above is silence about these files, not evidence of absence in them.*
 
+- `kojève-introduction-à-la-lecture-de-hegel-commentary` - 418 term hits, no record
 - `henry-genealogie-de-la-psychanalyse-commentary` - 263 term hits, no record
 - `heidegger-ga-3-kant-und-das-problem-der-metaphysik-commentary` - 226 term hits, no record
 - `husserliana-10-inneres-zeitbewusstsein-commentary` - 226 term hits, no record
@@ -1767,6 +1768,7 @@
 - `heidegger-ga-61-phenomenological-interpretations-of-aristotle-commentary` - 45 term hits, no record
 - `freud-das-unbewusste-commentary` - 43 term hits, no record
 - `kern-husserl-and-kant-commentary` - 40 term hits, no record
+- `descartes-regulae-ad-directionem-ingenii-commentary` - 36 term hits, no record
 - `derrida-la-voix-et-le-phenomene-commentary` - 29 term hits, no record
 - `franck-heidegger-and-the-problem-of-space-commentary` - 28 term hits, no record
 - `heidegger-ga-9-vom-wesen-des-grundes-commentary` - 27 term hits, no record
