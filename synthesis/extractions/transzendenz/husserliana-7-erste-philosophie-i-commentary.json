@@ -1,0 +1,178 @@
+{
+  "schema_version": 1,
+  "theme": "transzendenz",
+  "commentary": "husserliana-7-erste-philosophie-i-commentary",
+  "source_sha256": "caeb8c837e2fc6f2afe18b07a39cebcd9f50a3476698bd72417fd9cebd8c9703",
+  "extracted_at": "2026-10-15",
+  "extractor": {
+    "agent": "claude-code",
+    "model": "claude-opus-5-5",
+    "prompt": "synthesis/prompts/extraction-prompt.md",
+    "note": "Read every paragraph carrying transcend- (outside transcendental), immanen-, surpass or overstep, in file order. Uses of \"immanent philosophy\" as the name of the Berkeley-Hume line are recorded only where the transcendent is at issue in the same place."
+  },
+  "coverage": "partial",
+  "coverage_note": "Term-led pass over the whole file (lines 1-971): every paragraph containing the transcendence family, including bare transcendent and immanent, was read; paragraphs without such a word were not read. The First to Fourth and Sixth to Eighth Lectures carry none.",
+  "units": [
+    {
+      "id": "transzendenz/hua7/001",
+      "locator": "husserliana-7-erste-philosophie-i-commentary#h3-fourteenth-lecture-the-exemplariness-of-modern-natural-science-as-a-hindering-mo",
+      "primary_locator": "Hua VII, Fourteenth Lecture",
+      "stratum": "hua7-1923",
+      "term": "pure immanence",
+      "status": "presupposed",
+      "claim": "The thought of pure immanence, in which all transcendence must announce and exhibit itself, remains authoritative for Locke despite his dogmatism.",
+      "quote": "Yet the thought of pure immanence, in which all transcendence must announce and exhibit itself, remains for Locke too, despite all naive inconsequence of the dogmatistic procedure, authoritative."
+    },
+    {
+      "id": "transzendenz/hua7/002",
+      "locator": "husserliana-7-erste-philosophie-i-commentary#h3-fifteenth-lecture-the-problem-of-immanence-and-of-the-synthetic-unity-in-conscio",
+      "primary_locator": "Hua VII, Fifteenth Lecture",
+      "stratum": "hua7-1923",
+      "term": "immanent object",
+      "status": "introduced",
+      "claim": "Husserl distinguishes the immanent intentional object of a consciousness, conscious as such, from the object simply, asserted as being in truth.",
+      "quote": "we will do well to distinguish: the immanent object of the respective consciousness (the immanent intentional one), as the in the immanence of this consciousness conscious as such; and the object simply"
+    },
+    {
+      "id": "transzendenz/hua7/003",
+      "locator": "husserliana-7-erste-philosophie-i-commentary#h3-fifteenth-lecture-the-problem-of-immanence-and-of-the-synthetic-unity-in-conscio",
+      "primary_locator": "Hua VII, Fifteenth Lecture",
+      "stratum": "hua7-1923",
+      "term": "real immanence",
+      "status": "criticized",
+      "claim": "The immanence of the intentional object in its consciousness is not a real immanence or being-contained, and to regard it so would be countersense.",
+      "quote": "This essentially inseparable immanence is therefore no real immanence, no real being-contained; to regard it so would be evident countersense."
+    },
+    {
+      "id": "transzendenz/hua7/004",
+      "locator": "husserliana-7-erste-philosophie-i-commentary#h3-sixteenth-lecture-the-irreality-of-the-immanent-contents-of-the-consciousness-sy",
+      "primary_locator": "Hua VII, Sixteenth Lecture",
+      "stratum": "hua7-1923",
+      "term": "irreal immanence",
+      "status": "introduced",
+      "claim": "Consciousness-synthesis has, in the form of its poles, immanent contents that are irreal, unlike the real components of a real.",
+      "quote": "A real has real components, real parts and moments, real conjunction-forms; but consciousness-synthesis has, in the form of these poles, immanent contents that are irreal (irreal)."
+    },
+    {
+      "id": "transzendenz/hua7/005",
+      "locator": "husserliana-7-erste-philosophie-i-commentary#h3-sixteenth-lecture-the-irreality-of-the-immanent-contents-of-the-consciousness-sy",
+      "primary_locator": "Hua VII, Sixteenth Lecture",
+      "stratum": "hua7-1923",
+      "term": "transcendent cause",
+      "status": "criticized",
+      "claim": "An inference from sense-data to a transcendent cause as a je ne sais quoi is senseless, since in the own immanent sphere every analogue of it fails.",
+      "quote": "But senseless is an inference to a je ne sais quoi, a principially unexperienceable, for which in the own immanent sphere every analogue fails."
+    },
+    {
+      "id": "transzendenz/hua7/006",
+      "locator": "husserliana-7-erste-philosophie-i-commentary#h3-sixteenth-lecture-the-irreality-of-the-immanent-contents-of-the-consciousness-sy",
+      "primary_locator": "Hua VII, Sixteenth Lecture",
+      "stratum": "hua7-1923",
+      "term": "transcend the own subjectivity",
+      "status": "introduced",
+      "claim": "The only way to transcend one's own subjectivity and self-experienced nature is empathy into another subjectivity.",
+      "quote": "The only way to transcend the own subjectivity and self-experienced nature, Husserl states — and here intersubjectivity enters the analysis for the first time — is empathy (Einfühlung) into another subjectivity"
+    },
+    {
+      "id": "transzendenz/hua7/007",
+      "locator": "husserliana-7-erste-philosophie-i-commentary#h3-seventeenth-lecture-on-the-question-of-the-constitution-of-externality-the-carte",
+      "primary_locator": "Hua VII, Seventeenth Lecture",
+      "stratum": "hua7-1923",
+      "term": "transcendent nature",
+      "status": "criticized",
+      "claim": "The inner images and signs on the tabula rasa, taken as images and signs for a transcendent nature, are inventions of a misled reflection.",
+      "quote": "these entire inner images and signs on the tabula rasa — images and signs for a transcendent nature — are inventions of a misled reflection"
+    },
+    {
+      "id": "transzendenz/hua7/008",
+      "locator": "husserliana-7-erste-philosophie-i-commentary#h3-seventeenth-lecture-on-the-question-of-the-constitution-of-externality-the-carte",
+      "primary_locator": "Hua VII, Seventeenth Lecture",
+      "stratum": "hua7-1923",
+      "term": "the transcendent itself",
+      "status": "revised",
+      "claim": "What every confirmation exhibits is the synthetic unity conscious in perception and nothing other than the outer spatial thing itself, which is from the outset the transcendent itself.",
+      "quote": "nothing other than the outer itself, the spatial thing itself; it is from the outset the transcendent itself"
+    },
+    {
+      "id": "transzendenz/hua7/009",
+      "locator": "husserliana-7-erste-philosophie-i-commentary#h3-twenty-first-lecture-berkeley-s-discovery-and-naturalistic-misinterpretation-of",
+      "primary_locator": "Hua VII, Twenty-first Lecture",
+      "stratum": "hua7-1923",
+      "term": "transcendence",
+      "status": "criticized",
+      "claim": "Locke's definition of cognition as perception of agreement among one's own ideas makes cognition of the principially transcendent unthinkable and so conflicts with his doctrine of transcendence.",
+      "quote": "wherein lay that a cognition of principially transcendent is unthinkable — with which Locke's doctrine of transcendence would, to be sure, accord little"
+    },
+    {
+      "id": "transzendenz/hua7/010",
+      "locator": "husserliana-7-erste-philosophie-i-commentary#h3-twenty-first-lecture-berkeley-s-discovery-and-naturalistic-misinterpretation-of",
+      "primary_locator": "Hua VII, Twenty-first Lecture",
+      "stratum": "hua7-1923",
+      "term": "transcendent objectivity",
+      "status": "presupposed",
+      "claim": "A germ-form of the problem lies in Descartes' Meditations, whose first task is to show how the ego comes from its cogitationes to belief in a transcendent objectivity.",
+      "quote": "insofar as their first task is to show how the ego comes, from the immediately evident domain of its cogitationes, to the belief in a transcendent objectivity, in an outer world and God"
+    },
+    {
+      "id": "transzendenz/hua7/011",
+      "locator": "husserliana-7-erste-philosophie-i-commentary#h3-twenty-first-lecture-berkeley-s-discovery-and-naturalistic-misinterpretation-of",
+      "primary_locator": "Hua VII, Twenty-first Lecture",
+      "stratum": "hua7-1923",
+      "term": "transcendent nature",
+      "status": "criticized",
+      "claim": "For Berkeley association permits inference only from immanent data to immanent data, so a transcendent nature in a transcendent space is a fiction reducing to associatively unified sensation-complexes.",
+      "quote": "infer can I so from immanent data to immanent data, never to transcendent, to unperceivable. As a transcendent nature, as a realm of transcendent material existences in a transcendent space, is a fiction"
+    },
+    {
+      "id": "transzendenz/hua7/012",
+      "locator": "husserliana-7-erste-philosophie-i-commentary#h3-twenty-second-lecture-berkeley-s-monadological-approach-comparison-with-leibniz",
+      "primary_locator": "Hua VII, Twenty-second Lecture",
+      "stratum": "hua7-1923",
+      "term": "transcending of the idea-field",
+      "status": "presupposed",
+      "claim": "Berkeley denies a transcending of the idea-field toward transcendent nature while admitting the transcendent in the form of foreign I's, an inference Husserl says has other foundations.",
+      "quote": "Is it not perverse to want to deny the possibility of a transcending of the idea-field in favor of a transcendent nature, and on the other side yet to admit transcendent, namely in the form of foreign I's?"
+    },
+    {
+      "id": "transzendenz/hua7/013",
+      "locator": "husserliana-7-erste-philosophie-i-commentary#h3-twenty-second-lecture-berkeley-s-monadological-approach-comparison-with-leibniz",
+      "primary_locator": "Hua VII, Twenty-second Lecture",
+      "stratum": "hua7-1923",
+      "term": "theory of transcendence on the ground of immanence",
+      "status": "introduced",
+      "claim": "However primitive, Berkeley's theory is the first theory of transcendence on the ground of immanence, determining the sense of the experienced world purely out of the immanently running experiences.",
+      "quote": "it is yet a first theory of transcendence on the ground of immanence"
+    },
+    {
+      "id": "transzendenz/hua7/014",
+      "locator": "husserliana-7-erste-philosophie-i-commentary#h3-twenty-fifth-lecture-the-constitution-problem-in-hume-but-its-ending-in-complete",
+      "primary_locator": "Hua VII, Twenty-fifth Lecture",
+      "stratum": "hua7-1923",
+      "term": "transcendent",
+      "status": "criticized",
+      "claim": "For Hume reason permits neither counting the appearing world as existing nor regarding it as manifestation of a further transcendent behind it.",
+      "quote": "Reason permits here neither to let the appearing world (the imaginative thing-world substructed to the actual sensation-data) count in any sense as existing, nor permits it to regard this world as manifestation of a still-further-behind-lying transcendent."
+    },
+    {
+      "id": "transzendenz/hua7/015",
+      "locator": "husserliana-7-erste-philosophie-i-commentary#h3-twenty-fifth-lecture-the-constitution-problem-in-hume-but-its-ending-in-complete",
+      "primary_locator": "Hua VII, Twenty-fifth Lecture",
+      "stratum": "hua7-1923",
+      "term": "transcendent (natural) reality",
+      "status": "criticized",
+      "claim": "Hume's skepsis does not concern only the science of transcendent natural reality, since its proof is led on the immanent ground and undermines immanent psychology too.",
+      "quote": "One may not say, Husserl insists, that the skepsis concerns only the science of the transcendent (natural) reality."
+    }
+  ],
+  "absences": [
+    {
+      "locator": "husserliana-7-erste-philosophie-i-commentary#h3-sixth-lecture-the-demand-for-a-theory-of-cognition-implied-in-the-platonic-idea",
+      "expected_because": "The demand for a theory of cognition is introduced here, and from the Fifteenth Lecture on the commentary frames that theory as the problem of cognizing the transcendent within immanence.",
+      "absent_terms": [
+        "transcendence",
+        "immanence",
+        "immanent"
+      ]
+    }
+  ]
+}

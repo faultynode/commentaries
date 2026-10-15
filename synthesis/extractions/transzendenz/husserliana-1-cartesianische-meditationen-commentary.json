@@ -1,0 +1,118 @@
+{
+  "schema_version": 1,
+  "theme": "transzendenz",
+  "commentary": "husserliana-1-cartesianische-meditationen-commentary",
+  "source_sha256": "bee73d77d43cf9c95a172aad18ba131f7a2b40d7825e1243ed23956751395140",
+  "extracted_at": "2026-10-15",
+  "extractor": {
+    "agent": "claude-code",
+    "model": "claude-opus-5-5",
+    "prompt": "synthesis/prompts/extraction-prompt.md",
+    "note": "Read every paragraph carrying transcend- (outside transcendental), immanen- or overstep, in file order. No stratum is set: the commentary does not assign its sections to the Paris lectures, the 1929 Meditations or the 1931 French text."
+  },
+  "coverage": "partial",
+  "coverage_note": "Term-led pass over the whole file (lines 1-438): every paragraph containing the transcendence family, including bare transcendent and immanent, was read; paragraphs without such a word were not read.",
+  "units": [
+    {
+      "id": "transzendenz/hua1/001",
+      "locator": "husserliana-1-cartesianische-meditationen-commentary#h3-s-11-the-psychological-and-the-transcendental-ego-the-transcendence-of-the-world",
+      "primary_locator": "CM § 11",
+      "term": "transcendence of the world",
+      "status": "introduced",
+      "claim": "Transcendence, the correlate-concept of the transcendental, belongs to the very sense of everything worldly, though the world draws all its sense and validity from my experiencing.",
+      "quote": "To the very sense of everything worldly belongs this transcendence, although it acquires and can only acquire the entire sense that determines it, together with its being-validity, from my experiencing"
+    },
+    {
+      "id": "transzendenz/hua1/002",
+      "locator": "husserliana-1-cartesianische-meditationen-commentary#h3-s-11-the-psychological-and-the-transcendental-ego-the-transcendence-of-the-world",
+      "primary_locator": "CM § 11",
+      "term": "transcendence of unreal containedness",
+      "status": "introduced",
+      "claim": "If this transcendence of unreal containedness belongs to the sense of the world, the ego that carries the world as valid sense is called transcendental.",
+      "quote": "If this transcendence of unreal containedness belongs to the very sense of the world, then the ego itself, which carries the world as a valid sense and which is itself necessarily presupposed by the world, is called transcendental in the phenomenological sense"
+    },
+    {
+      "id": "transzendenz/hua1/003",
+      "locator": "husserliana-1-cartesianische-meditationen-commentary#h3-s-12-the-idea-of-a-transcendental-grounding-of-knowledge",
+      "primary_locator": "CM § 12",
+      "term": "transcendent subjectivity",
+      "status": "criticized",
+      "claim": "The ego cogito is not to be used as a premise for inferences to a transcendent subjectivity; the epoché instead discloses a novel sphere of transcendental experience.",
+      "quote": "instead of wishing to use the ego cogito as an apodictically evident premise for supposedly necessary inferences to a transcendent subjectivity"
+    },
+    {
+      "id": "transzendenz/hua1/004",
+      "locator": "husserliana-1-cartesianische-meditationen-commentary#h3-s-22-the-idea-of-the-universal-unity-of-all-objects-and-the-task-of-their-consti",
+      "primary_locator": "CM § 22",
+      "term": "immanent",
+      "status": "presupposed",
+      "claim": "Every object whatsoever, including every immanent one, designates a rule-structure of the transcendental ego.",
+      "quote": "Every object, every object whatsoever (including every immanent one), designates a rule-structure of the transcendental ego."
+    },
+    {
+      "id": "transzendenz/hua1/005",
+      "locator": "husserliana-1-cartesianische-meditationen-commentary#h3-s-30-the-transcendental-ego-inseparable-from-its-experiences",
+      "primary_locator": "CM § 30",
+      "term": "immanent time-sphere",
+      "status": "presupposed",
+      "claim": "Existing objects for the ego include both objects in its adequately verifiable immanent time-sphere and world-objects demonstrated in merely presumptive external experience.",
+      "quote": "not only objects in its adequately verifiable immanent time-sphere but also the world-objects demonstrated as existing in the concordance of the course of inadequate, merely presumptive external experience"
+    },
+    {
+      "id": "transzendenz/hua1/006",
+      "locator": "husserliana-1-cartesianische-meditationen-commentary#h3-s-40-transition-to-the-question-of-transcendental-idealism",
+      "primary_locator": "CM § 40",
+      "term": "transcendence",
+      "status": "criticized",
+      "claim": "The problem of the traditional theory of knowledge, as which phenomenology may also characterize itself, is that of transcendence, the clarification of the principled possibility of cognition.",
+      "quote": "The problem of the traditional theory of knowledge is that of transcendence. It wishes to clarify the principled possibility of cognition."
+    },
+    {
+      "id": "transzendenz/hua1/007",
+      "locator": "husserliana-1-cartesianische-meditationen-commentary#h3-s-41-the-genuine-phenomenological-self-interpretation-of-the-ego-cogito-as-trans",
+      "primary_locator": "CM § 41",
+      "term": "transcendence",
+      "status": "revised",
+      "claim": "Transcendence in every form is an immanent being-character constituting itself within the ego, and every sense and being, immanent or transcendent, falls within transcendental subjectivity.",
+      "quote": "Transcendence in every form is an immanent being-character constituting itself within the ego."
+    },
+    {
+      "id": "transzendenz/hua1/008",
+      "locator": "husserliana-1-cartesianische-meditationen-commentary#h3-s-47-the-intentional-object-also-belongs-to-the-full-monadic-concretion-of-ownne",
+      "primary_locator": "CM § 47",
+      "term": "transcendent objects",
+      "status": "presupposed",
+      "claim": "The ego's own extends to transcendent objects of outer sensibility insofar as they are originally constituted through its own sensibility and apperceptions.",
+      "quote": "This includes transcendent objects of outer sensibility, insofar as they are actually originally constituted through my own sensibility, my own apperceptions, as concretely inseparable from them."
+    },
+    {
+      "id": "transzendenz/hua1/009",
+      "locator": "husserliana-1-cartesianische-meditationen-commentary#h3-s-48-the-transcendence-of-the-objective-world-as-higher-level-transcendence",
+      "primary_locator": "CM § 48",
+      "term": "objective transcendence",
+      "status": "introduced",
+      "claim": "What is to be made understandable is how the sense-giving of objective transcendence comes about at a higher founded level, as static analysis rather than genesis.",
+      "quote": "What is now to be made understandable is how, at the higher founded level, the sense-giving of objective transcendence comes about — and this as experience, not as the disclosure of a temporally progressing genesis but as a static analysis."
+    },
+    {
+      "id": "transzendenz/hua1/010",
+      "locator": "husserliana-1-cartesianische-meditationen-commentary#h3-s-52-appresentation-as-a-kind-of-experience-with-its-own-style-of-verification",
+      "primary_locator": "CM § 52",
+      "term": "transcending experience",
+      "status": "presupposed",
+      "claim": "Foreign body and foreign governing ego are given in the manner of a unitary transcending experience.",
+      "quote": "In this interweaving, foreign body and foreign governing ego are given in the manner of a unitary transcending experience."
+    }
+  ],
+  "absences": [
+    {
+      "locator": "husserliana-1-cartesianische-meditationen-commentary#h3-s-13-the-necessity-of-initially-excluding-problems-of-the-range-of-transcendenta",
+      "expected_because": "The section sets aside problems of the range of transcendental cognition, which §40 identifies with the traditional problem of transcendence.",
+      "absent_terms": [
+        "transcendence",
+        "immanence",
+        "immanent"
+      ]
+    }
+  ]
+}

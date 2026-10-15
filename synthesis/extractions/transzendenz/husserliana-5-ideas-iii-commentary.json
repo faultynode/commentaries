@@ -1,0 +1,73 @@
+{
+  "schema_version": 1,
+  "theme": "transzendenz",
+  "commentary": "husserliana-5-ideas-iii-commentary",
+  "source_sha256": "fc1336d5a02814d3ff5de8b153115b167e325dcb848194cc4d520fa960ed1c83",
+  "extracted_at": "2026-10-15",
+  "extractor": {
+    "agent": "claude-code",
+    "model": "claude-opus-5-5",
+    "prompt": "synthesis/prompts/extraction-prompt.md",
+    "note": "Read every paragraph carrying transcend- (outside transcendental), immanen-, surpass or overstep, in file order. Unsurpassable a priori (§§5, 8) and transcend in §20 are not the theme. No stratum is set, since the record does not separate the 1912 main text from the supplements."
+  },
+  "coverage": "partial",
+  "coverage_note": "Term-led pass over the whole file (lines 1-467): every paragraph containing the transcendence family, including bare transcendent and immanent, was read; paragraphs without such a word were not read.",
+  "units": [
+    {
+      "id": "transzendenz/hua5/001",
+      "locator": "husserliana-5-ideas-iii-commentary#h3-s11-differences-in-the-relations-of-physics-and-psychology-to-their-ontological",
+      "primary_locator": "Ideas III § 11",
+      "term": "immanent temporality",
+      "status": "presupposed",
+      "claim": "Soul-states are consciousness-experiences given adequately, without the intermediary of appearance, in the plane of immanent temporality.",
+      "quote": "the soul-states are the “consciousness-experiences” that are adequately given themselves, without the intermediary of appearance, in the plane of immanent temporality"
+    },
+    {
+      "id": "transzendenz/hua5/002",
+      "locator": "husserliana-5-ideas-iii-commentary#h3-s12-further-clarification-of-the-relation-of-rational-psychology-and-phenomenolo",
+      "primary_locator": "Ideas III § 12",
+      "term": "transcendencies",
+      "status": "presupposed",
+      "claim": "Material thing, body and soul are determinate transcendencies constituting themselves in pure consciousness, and the absolute is won only by reduction to it.",
+      "quote": "Material thing, body, soul — these are quite determinate and specific transcendencies, constituting themselves in pure consciousness for the pure I in their own way and fully understandably"
+    },
+    {
+      "id": "transzendenz/hua5/003",
+      "locator": "husserliana-5-ideas-iii-commentary#h3-s13-the-field-of-phenomenological-research",
+      "primary_locator": "Ideas III § 13",
+      "term": "\"transcendent being\"",
+      "status": "presupposed",
+      "claim": "In transcendental experiencing all transcendent being is bracketed, and in its place remains the being-meant of the transcendent, the noemata.",
+      "quote": "In transcendental experiencing, all “transcendent being” — understood in the normal sense as true being — is excluded, “bracketed.”"
+    },
+    {
+      "id": "transzendenz/hua5/004",
+      "locator": "husserliana-5-ideas-iii-commentary#h3-s17-the-significance-of-ontological-concepts-for-psychology",
+      "primary_locator": "Ideas III § 17",
+      "term": "phenomenological immanence",
+      "status": "revised",
+      "claim": "Once phenomenological method is secure, methodologically permissible transgressions emerge that justify themselves within a suitably extended phenomenological immanence.",
+      "quote": "there also emerge methodologically permissible transgressions that from a higher standpoint justify themselves within a suitably extended phenomenological immanence"
+    },
+    {
+      "id": "transzendenz/hua5/005",
+      "locator": "husserliana-5-ideas-iii-commentary#h4-s2-the-realizing-apprehension-of-the-pure-i",
+      "term": "immanent time",
+      "status": "presupposed",
+      "claim": "In the realizing apprehension immanent time becomes a manifestation of objective time, so the world of realities becomes a single world.",
+      "quote": "Immanent time becomes a manifestation of objective time; the immanent “simultaneous” becomes a manifestation of the objective “simultaneous.”"
+    }
+  ],
+  "absences": [
+    {
+      "locator": "husserliana-5-ideas-iii-commentary#h3-s1-material-thing-material-perception-material-natural-science-physics",
+      "expected_because": "Material thing and material perception open the work, and §12 counts the material thing among the transcendencies constituted in pure consciousness.",
+      "absent_terms": [
+        "transcendence",
+        "transcends",
+        "immanence",
+        "immanent"
+      ]
+    }
+  ]
+}

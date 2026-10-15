@@ -1,0 +1,49 @@
+{
+  "schema_version": 1,
+  "theme": "transzendenz",
+  "commentary": "husserliana-26-theory-of-meaning-commentary",
+  "source_sha256": "be89af071eb14c6af66b0de498d4736c037acec4ae3afee187caa971ee4cef1a",
+  "extracted_at": "2026-10-15",
+  "extractor": {
+    "agent": "claude-code",
+    "model": "claude-opus-5-5",
+    "prompt": "synthesis/prompts/extraction-prompt.md",
+    "note": "Read every paragraph carrying transcend- (outside transcendental), immanen- or going beyond, in file order. The commentary carries § 10 and § 25 twice; units cite the first occurrence."
+  },
+  "coverage": "partial",
+  "coverage_note": "Term-led pass over the whole file (lines 1-874): every paragraph containing the transcendence family, including bare transcendent and immanent, was read; paragraphs without such a word were not read.",
+  "units": [
+    {
+      "id": "transzendenz/hua26/001",
+      "locator": "husserliana-26-theory-of-meaning-commentary#h3-s-2-the-relation-of-the-lecture-to-the-logical-investigations",
+      "primary_locator": "Hua XXVI § 2",
+      "stratum": "hua26-1908",
+      "term": "pure immanence",
+      "status": "introduced",
+      "claim": "Cognition must be investigated not as a fact within a pregiven world but in pure immanence, as absolute givenness in which every actual world first constitutes itself.",
+      "quote": "not in relation to a pregiven actual world and not as a fact within that world, but in pure immanence, as absolute givenness in which every actual world first “constitutes” itself"
+    },
+    {
+      "id": "transzendenz/hua26/002",
+      "locator": "husserliana-26-theory-of-meaning-commentary#h3-s-10-closer-working-out-of-the-difficulty-of-how-the-relation-of-meaning-and-obj",
+      "primary_locator": "Hua XXVI § 10",
+      "stratum": "hua26-1908",
+      "term": "immanent form",
+      "status": "criticized",
+      "claim": "The categorial form a house is no immanent phanological or psychological form.",
+      "quote": "The categorial form “a house” is no immanent phanological or psychological form."
+    }
+  ],
+  "absences": [
+    {
+      "locator": "husserliana-26-theory-of-meaning-commentary#h3-s-6-the-meant-objectuality-and-the-stated-as-such",
+      "expected_because": "The meant objectuality is distinguished here, and §2 places the constitution of every objectuality in cognition studied in pure immanence.",
+      "absent_terms": [
+        "transcendence",
+        "transcends",
+        "immanence",
+        "immanent"
+      ]
+    }
+  ]
+}

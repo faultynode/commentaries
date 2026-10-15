@@ -1,0 +1,147 @@
+{
+  "schema_version": 1,
+  "theme": "transzendenz",
+  "commentary": "husserliana-19-1-fifth-logical-investigation-commentary",
+  "source_sha256": "481ad7323da6ba1f2a4c7dc3e8a9b60a2e5b201db5c01ed34842809e11508c8e",
+  "extracted_at": "2026-10-15",
+  "extractor": {
+    "agent": "claude-code",
+    "model": "claude-opus-5-5",
+    "prompt": "synthesis/prompts/extraction-prompt.md",
+    "note": "Read every paragraph carrying transcend- (outside transcendental) or immanen-, in file order. \"Transcendent number\" (§35) is the mathematical term and is not recorded. Only the §6 unit carries a stratum, because the commentary marks it as a second-edition footnote; elsewhere it does not separate A from B text."
+  },
+  "coverage": "partial",
+  "coverage_note": "Term-led pass over the whole file (lines 1-813): every paragraph containing the transcendence family, including bare transcendent and immanent, was read; paragraphs without such a word were not read.",
+  "units": [
+    {
+      "id": "transzendenz/lu5/001",
+      "locator": "husserliana-19-1-fifth-logical-investigation-commentary#h3-s2-first-consciousness-as-the-real-reell-phenomenological-unity-of-the-ego-s-exp",
+      "primary_locator": "LU V § 2",
+      "term": "transcendent property",
+      "status": "introduced",
+      "claim": "The immanent sensation and the transcendent property are not the same item viewed twice: the one is lived through, the other is the correlate of an apprehension of the sensational material.",
+      "quote": "the immanent sensation and the transcendent property are not the same item viewed twice; the one is lived through, the other is the correlate of an apprehension performed on the sensational material"
+    },
+    {
+      "id": "transzendenz/lu5/002",
+      "locator": "husserliana-19-1-fifth-logical-investigation-commentary#h3-s3-the-phenomenological-and-the-popular-concept-of-experience",
+      "primary_locator": "LU V § 3",
+      "term": "transcendent object",
+      "status": "presupposed",
+      "claim": "The equation of experienced content with experience holds only for the really-immanent constituents, and the transcendent object falls outside it.",
+      "quote": "holds only for the really-immanent constituents; the transcendent object falls outside it"
+    },
+    {
+      "id": "transzendenz/lu5/003",
+      "locator": "husserliana-19-1-fifth-logical-investigation-commentary#h3-s6-origin-of-the-first-concept-of-consciousness-from-the-second",
+      "primary_locator": "LU V § 6 (B footnote)",
+      "stratum": "lu5-b-1913",
+      "term": "transcendence",
+      "status": "revised",
+      "claim": "In a second-edition footnote Husserl treats the empirical ego as a transcendence of the same dignity as the physical thing, and concludes that a pure ego cannot be evaded.",
+      "quote": "the empirical ego is a transcendence of the same dignity as the physical thing"
+    },
+    {
+      "id": "transzendenz/lu5/004",
+      "locator": "husserliana-19-1-fifth-logical-investigation-commentary#h3-s11-warding-off-terminologically-suggested-misinterpretations-a-the-mental-or-im",
+      "primary_locator": "LU V § 11",
+      "term": "\"immanent\" object",
+      "status": "criticized",
+      "claim": "The so-called immanent or mental object, such as the presented god Jupiter, does not belong to the real subsistence of the experience and is in truth not immanent at all.",
+      "quote": "The \"immanent,\" \"mental\" object therefore does not belong to the descriptive (real) subsistence of the experience; it is thus in truth not immanent or mental at all."
+    },
+    {
+      "id": "transzendenz/lu5/005",
+      "locator": "husserliana-19-1-fifth-logical-investigation-commentary#h3-s11-warding-off-terminologically-suggested-misinterpretations-a-the-mental-or-im",
+      "primary_locator": "LU V § 11",
+      "term": "truly immanent contents",
+      "status": "revised",
+      "claim": "The relation is reversed: the truly immanent contents, belonging to the real subsistence of acts, are not intentional but are the act's points of support.",
+      "quote": "then on the other side the truly immanent contents — those belonging to the real subsistence of the intentional experiences — are not intentional"
+    },
+    {
+      "id": "transzendenz/lu5/006",
+      "locator": "husserliana-19-1-fifth-logical-investigation-commentary#h3-s11-warding-off-terminologically-suggested-misinterpretations-a-the-mental-or-im",
+      "primary_locator": "LU V § 11",
+      "term": "immanent objects",
+      "status": "criticized",
+      "claim": "Husserl recommends avoiding entirely the idiom of immanent objects in favour of intentional object.",
+      "quote": "it is clear that we do well to avoid entirely this idiom of immanent objects"
+    },
+    {
+      "id": "transzendenz/lu5/007",
+      "locator": "husserliana-19-1-fifth-logical-investigation-commentary#h3-s14-reservations-against-the-assumption-of-acts-as-a-descriptively-founded-class",
+      "primary_locator": "LU V § 14",
+      "term": "immanent and transcendent being",
+      "status": "presupposed",
+      "claim": "For the distinction between intentional and non-intentional experiences it is indifferent in what sense metaphysically immanent and transcendent being may be opposed.",
+      "quote": "likewise in what sense metaphysically immanent and transcendent being may be opposed"
+    },
+    {
+      "id": "transzendenz/lu5/008",
+      "locator": "husserliana-19-1-fifth-logical-investigation-commentary#h3-s16-distinction-between-descriptive-and-intentional-content",
+      "primary_locator": "LU V § 16",
+      "term": "thingly transcendence",
+      "status": "presupposed",
+      "claim": "Husserl prefers intentional to real for the object because real carries the thought of a thingly transcendence that the reduction to experiential immanence was meant to switch off.",
+      "quote": "carries the thought of a thingly transcendence which the reduction to real (reell) experiential immanence was precisely meant to switch off"
+    },
+    {
+      "id": "transzendenz/lu5/009",
+      "locator": "husserliana-19-1-fifth-logical-investigation-commentary#h3-s20-the-difference-of-the-quality-and-the-matter-of-an-act",
+      "primary_locator": "LU V § 20",
+      "term": "transcendent to the act",
+      "status": "presupposed",
+      "claim": "For really phenomenological consideration the objectivity itself is nothing and is transcendent to the act, which is nevertheless directed at it.",
+      "quote": "For the really phenomenological consideration the objectivity itself is nothing; it is, generally speaking, transcendent to the act."
+    },
+    {
+      "id": "transzendenz/lu5/010",
+      "locator": "husserliana-19-1-fifth-logical-investigation-commentary#h2-appendix-to-paragraphs-11-and-20-toward-a-critique-of-the-image-theory-and-of-th",
+      "primary_locator": "LU V, Appendix to §§ 11 and 20",
+      "term": "\"transcendent\" thing",
+      "status": "introduced",
+      "claim": "Against the image-theory, all relation of consciousness to its objectivity is enclosed in the phenomenological essence of consciousness, as relation to a transcendent thing.",
+      "quote": "in the phenomenological essence of consciousness itself all relation to its objectivity is enclosed, and can in principle only be enclosed therein — and indeed as relation to a \"transcendent\" thing"
+    },
+    {
+      "id": "transzendenz/lu5/011",
+      "locator": "husserliana-19-1-fifth-logical-investigation-commentary#h2-appendix-to-paragraphs-11-and-20-toward-a-critique-of-the-image-theory-and-of-th",
+      "primary_locator": "LU V, Appendix to §§ 11 and 20",
+      "term": "immanent and transcendent objects",
+      "status": "criticized",
+      "claim": "It is a grave error to make a real difference between merely immanent or intentional objects and corresponding real and transcendent objects.",
+      "quote": "It is a grave error to make a real (reell) difference at all between the \"merely immanent\" or \"intentional\" objects on the one side and the possibly corresponding \"real\" and \"transcendent\" objects on the other"
+    },
+    {
+      "id": "transzendenz/lu5/012",
+      "locator": "husserliana-19-1-fifth-logical-investigation-commentary#h2-appendix-to-paragraphs-11-and-20-toward-a-critique-of-the-image-theory-and-of-th",
+      "primary_locator": "LU V, Appendix to §§ 11 and 20",
+      "term": "transcendent object",
+      "status": "revised",
+      "claim": "The intentional object of a presentation is the same as its real, outer object; the transcendent object would not be the object of the presentation were it not its intentional object.",
+      "quote": "The transcendent object would not be the object of this presentation at all if it were not its intentional object."
+    },
+    {
+      "id": "transzendenz/lu5/013",
+      "locator": "husserliana-19-1-fifth-logical-investigation-commentary#h3-s27-the-testimony-of-direct-intuition-perceptual-presentation-and-perception",
+      "primary_locator": "LU V § 27",
+      "term": "transcendent to pure consciousness",
+      "status": "presupposed",
+      "claim": "Phenomenological intuition switches off every real existence-positing, including the own empirical ego, and in general everything transcendent to pure consciousness.",
+      "quote": "all positings of psychophysical nature with real things, bodies, human beings, the own empirical ego-subject included, and in general everything transcendent to pure consciousness"
+    }
+  ],
+  "absences": [
+    {
+      "locator": "husserliana-19-1-fifth-logical-investigation-commentary#h3-s8-the-pure-ego-and-consciousness-ness-bewu-theit",
+      "expected_because": "The pure ego is discussed here, and the second-edition footnote reported under §6 makes the empirical ego a transcendence of the same dignity as the thing.",
+      "absent_terms": [
+        "transcendence",
+        "transcendent",
+        "immanence",
+        "immanent"
+      ]
+    }
+  ]
+}

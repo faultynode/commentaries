@@ -1,0 +1,186 @@
+{
+  "schema_version": 1,
+  "theme": "transzendenz",
+  "commentary": "husserliana-9-phenomenological-psychology-commentary",
+  "source_sha256": "668c7a551f240c6b325a909d5e9a3a0b2edff78d29009d73c83a9f11bd08b350",
+  "extracted_at": "2026-10-15",
+  "extractor": {
+    "agent": "claude-code",
+    "model": "claude-opus-5-5",
+    "prompt": "synthesis/prompts/extraction-prompt.md",
+    "note": "Read every paragraph carrying transcend- (outside transcendental), immanen-, surpass, overstep or going beyond, in file order. The 1925 stratum is set only on the numbered lecture sections; the Beilagen and the separately numbered later pieces carry none."
+  },
+  "coverage": "partial",
+  "coverage_note": "Term-led pass over the whole file (lines 1-1703): every paragraph containing the transcendence family, including bare transcendent and immanent, was read; paragraphs without such a word were not read.",
+  "units": [
+    {
+      "id": "transzendenz/hua9/001",
+      "locator": "husserliana-9-phenomenological-psychology-commentary#h3-s-1-the-development-of-modern-psychology-dilthey-s-decisive-critique-and-his-pro",
+      "primary_locator": "Hua IX § 1",
+      "stratum": "hua9-1925",
+      "term": "transcend experiencing intuition",
+      "status": "criticized",
+      "claim": "Explanatory psychology, as reported in Dilthey's critique, proceeds like physics by hypothetical inferences that transcend experiencing intuition.",
+      "quote": "It proceeds, like physics, hypothetically and constructively, by means of inferences that transcend experiencing intuition."
+    },
+    {
+      "id": "transzendenz/hua9/002",
+      "locator": "husserliana-9-phenomenological-psychology-commentary#h3-s-6-necessity-of-return-to-the-pre-scientific-experiential-world-and-to-the-expe",
+      "primary_locator": "Hua IX § 6",
+      "stratum": "hua9-1925",
+      "term": "immanent character",
+      "status": "presupposed",
+      "claim": "The unity of the world is not a posit added to experience but an immanent character of the experiential stream.",
+      "quote": "The point is: the world's unity is not a posit added to experience but an immanent character of the experiential stream itself."
+    },
+    {
+      "id": "transzendenz/hua9/003",
+      "locator": "husserliana-9-phenomenological-psychology-commentary#h3-s-31-hyle-hyletic-data-as-matter-for-intentional-functions",
+      "primary_locator": "Hua IX § 31",
+      "stratum": "hua9-1925",
+      "term": "immanence and transcendence",
+      "status": "introduced",
+      "claim": "Limiting itself to the sphere of perception, the lecture brings to evidence the fundamental distinction between immanence and transcendence documented in pure subjectivity itself.",
+      "quote": "namely, the fundamental distinction between immanence and transcendence documented in pure subjectivity itself"
+    },
+    {
+      "id": "transzendenz/hua9/004",
+      "locator": "husserliana-9-phenomenological-psychology-commentary#h3-s-33-objective-temporality-and-stream-temporality",
+      "primary_locator": "Hua IX § 33",
+      "stratum": "hua9-1925",
+      "term": "perception of the transcendent",
+      "status": "introduced",
+      "claim": "Inner perception is perception of the immanent and outer perception is perception of the transcendent.",
+      "quote": "Now we can also say: inner perception is perception of the immanent; outer perception is perception of the transcendent."
+    },
+    {
+      "id": "transzendenz/hua9/005",
+      "locator": "husserliana-9-phenomenological-psychology-commentary#h3-s-34-distinction-of-immanent-and-transcendent-reell-and-irreell-in-perception-th",
+      "primary_locator": "Hua IX § 34",
+      "stratum": "hua9-1925",
+      "term": "immanent",
+      "status": "introduced",
+      "claim": "What is taken from the immanent time-sphere of the experience-stream as an immanent time-object or its reell parts and moments is immanent.",
+      "quote": "Everything that we take from this immanent time-sphere as singly-immanent time-object — as one such time-object's reell parts or moments — is immanent."
+    },
+    {
+      "id": "transzendenz/hua9/006",
+      "locator": "husserliana-9-phenomenological-psychology-commentary#h3-s-34-distinction-of-immanent-and-transcendent-reell-and-irreell-in-perception-th",
+      "primary_locator": "Hua IX § 34",
+      "stratum": "hua9-1925",
+      "term": "transcendent pole",
+      "status": "introduced",
+      "claim": "The transcendent object is the irreal pole of perception, belonging reell to no lived-experience but meant in all of them as the one they present.",
+      "quote": "The transcendent object is the irreal pole of perception — it does not belong reell to any lived-experience, but is inseparably meant-in-them as the one that they all present."
+    },
+    {
+      "id": "transzendenz/hua9/007",
+      "locator": "husserliana-9-phenomenological-psychology-commentary#h3-s-34-distinction-of-immanent-and-transcendent-reell-and-irreell-in-perception-th",
+      "primary_locator": "Hua IX § 34",
+      "stratum": "hua9-1925",
+      "term": "transcends",
+      "status": "presupposed",
+      "claim": "The object transcends the reell content of the experience-stream, and this concept of the transcendent as object conscious in immanence carries difficulties and ambiguities.",
+      "quote": "Yet this concept of the transcendent — as the object conscious in immanence — carries with it many great difficulties and shimmering ambiguities, and demands further consideration."
+    },
+    {
+      "id": "transzendenz/hua9/008",
+      "locator": "husserliana-9-phenomenological-psychology-commentary#h3-s-34-distinction-of-immanent-and-transcendent-reell-and-irreell-in-perception-th",
+      "primary_locator": "Hua IX § 34",
+      "stratum": "hua9-1925",
+      "term": "object as transcendent",
+      "status": "criticized",
+      "claim": "The ideal pole, the object as transcendent, is not a rigid piece common to all the intentional experiences in which it dwells.",
+      "quote": "The ideal-pole (the object as transcendent) is not something like a rigid piece common to all the intentional experiences in which it ideally dwells."
+    },
+    {
+      "id": "transzendenz/hua9/009",
+      "locator": "husserliana-9-phenomenological-psychology-commentary#h3-s-34-distinction-of-immanent-and-transcendent-reell-and-irreell-in-perception-th",
+      "primary_locator": "Hua IX § 34",
+      "stratum": "hua9-1925",
+      "term": "transcendent (second sense)",
+      "status": "introduced",
+      "claim": "The object is transcendent in another sense than polar irreality: as perceptually given in belief, it cannot be completed by any synthetically extended perception into adequate givenness.",
+      "quote": "It itself is transcendent to perception in yet another sense than that of the polar irreality — namely in that of a perceptually-given"
+    },
+    {
+      "id": "transzendenz/hua9/010",
+      "locator": "husserliana-9-phenomenological-psychology-commentary#h3-s-36-the-intentional-object-of-perception",
+      "primary_locator": "Hua IX § 36",
+      "stratum": "hua9-1925",
+      "term": "transcendent / immanent",
+      "status": "revised",
+      "claim": "The intentional object is transcendent to the lived-experience, not reell in it, yet immanent in the strict sense of belonging inseparably to it as noematic correlate.",
+      "quote": "The intentional object is transcendent to the lived-experience (it is not reell in it) but immanent in the strict sense of belonging inseparably to the lived-experience as its noematic correlate."
+    },
+    {
+      "id": "transzendenz/hua9/011",
+      "locator": "husserliana-9-phenomenological-psychology-commentary#h3-s-37-the-phenomenological-reduction-as-method-of-unveiling-the-immanent",
+      "primary_locator": "Hua IX § 37",
+      "stratum": "hua9-1925",
+      "term": "purely immanent",
+      "status": "presupposed",
+      "claim": "With the distinctions of immanence and transcendence in hand, the reduction is formulated as the change of attitude that unveils the purely immanent domain of consciousness and its correlates.",
+      "quote": "The reduction is a change of attitude whereby the natural positing of the world is bracketed and what remains is the purely immanent domain of consciousness and its correlates."
+    },
+    {
+      "id": "transzendenz/hua9/012",
+      "locator": "husserliana-9-phenomenological-psychology-commentary#h3-s-38-the-access-to-pure-subjectivity-from-outer-perception",
+      "primary_locator": "Hua IX § 38",
+      "stratum": "hua9-1925",
+      "term": "transcendent intentionality",
+      "status": "presupposed",
+      "claim": "In the phenomenological attitude the outer object is thematic only as the transcendent meaning of the perception, and the transcendent intentionality contained in the subjective is co-thematic.",
+      "quote": "and if subjective contains in itself transcendent intentionality as its meaning, then that — and the analysis of this meaning as such — is co-thematic"
+    },
+    {
+      "id": "transzendenz/hua9/013",
+      "locator": "husserliana-9-phenomenological-psychology-commentary#h3-s-38-the-access-to-pure-subjectivity-from-outer-perception",
+      "primary_locator": "Hua IX § 38",
+      "stratum": "hua9-1925",
+      "term": "transcendent world",
+      "status": "presupposed",
+      "claim": "That a perception perceives a transcendent and posits it as being is a type of truth that, grasped phenomenologically, contains no meaning about the transcendent world simpliciter.",
+      "quote": "that a perception perceives a transcendent and that it thereby in its belief-certainty posits its object as being (and posits with a transcendent sense of this or that structure) — this is a type of truths that, phenomenologically purely grasped, contains in itself not the slightest meaning about the transcendent world simpliciter"
+    },
+    {
+      "id": "transzendenz/hua9/014",
+      "locator": "husserliana-9-phenomenological-psychology-commentary#h4-s1-the-historical-origin-of-phenomenology-as-transcendental",
+      "term": "pure immanence",
+      "status": "presupposed",
+      "claim": "The subjective consciousness-life in pure immanence is the site of all sense-giving and being-positing, which calls for a pure self-clarification of the knower.",
+      "quote": "So the subjective consciousness-life in pure immanence is the site of all sense-giving and being-positing, being-corroborating."
+    },
+    {
+      "id": "transzendenz/hua9/015",
+      "locator": "husserliana-9-phenomenological-psychology-commentary#h4-beilage-i-to-s1-toward-the-development-of-modern-psychology",
+      "primary_locator": "Hua IX, Beilage I",
+      "term": "transcendent",
+      "status": "presupposed",
+      "claim": "Empirical psychology did not seek the psychic as a transcendent, indirectly determined object, which is the source of the need for a descriptive psychology.",
+      "quote": "In the long-ruling empirical psychology, the psychic is not sought as a transcendent and indirectly theoretically determined — and this is the source of the need for a descriptive psychology."
+    }
+  ],
+  "absences": [
+    {
+      "locator": "husserliana-9-phenomenological-psychology-commentary#h3-s-35-substrate-pole-and-property-pole-the-positive-meaning-of-the-empty-horizon",
+      "expected_because": "The section continues the pole analysis of §34, where the object as transcendent was defined as the irreal pole of perception.",
+      "absent_terms": [
+        "transcendence",
+        "transcendent",
+        "immanence",
+        "immanent"
+      ]
+    },
+    {
+      "locator": "husserliana-9-phenomenological-psychology-commentary#h3-s-28-carrying-out-the-reflective-turn-of-the-gaze-onto-the-subjective-the-percep",
+      "expected_because": "The reflective turn onto the perception of physical things is the starting point from which §§31-34 draw the distinction of immanent and transcendent perception.",
+      "absent_terms": [
+        "transcendence",
+        "transcendent",
+        "immanence",
+        "immanent"
+      ]
+    }
+  ]
+}

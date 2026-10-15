@@ -1,0 +1,209 @@
+{
+  "schema_version": 1,
+  "theme": "transzendenz",
+  "commentary": "husserl-natur-und-geist-commentary",
+  "source_sha256": "14f1f234e659bbc695dd081170fbca7b835617d38f83eeeefe19f99944528172",
+  "extracted_at": "2026-10-15",
+  "extractor": {
+    "agent": "claude-code",
+    "model": "claude-opus-5-5",
+    "prompt": "synthesis/prompts/extraction-prompt.md",
+    "note": "Read every paragraph carrying transcend- (outside transcendental), immanen-, surpass or overstep, in file order. The Introduction's \"transcendent height\" (überschwängliche Höhe) and \"transcendent expectations\" are not the theme and are not recorded."
+  },
+  "coverage": "partial",
+  "coverage_note": "Term-led pass over the whole file (lines 1-770): every paragraph containing the transcendence family, including bare transcendent and immanent, was read; paragraphs without such a word were not read.",
+  "units": [
+    {
+      "id": "transzendenz/nug/001",
+      "locator": "husserl-natur-und-geist-commentary#h3-ego-life-as-constant-perceiving-impression-and-reproduction",
+      "stratum": "nug-1919",
+      "term": "immanent to consciousness",
+      "status": "introduced",
+      "claim": "What is given as being-for-me includes not only consciousness and its immanent contents but also what is foreign and external to the I.",
+      "quote": "But the givenness extends beyond what is immanent to consciousness: what is \"foreign\" to the I, \"external\" to it, is also given through consciousness."
+    },
+    {
+      "id": "transzendenz/nug/002",
+      "locator": "husserl-natur-und-geist-commentary#h3-inner-and-outer-perception-object-and-appearance",
+      "stratum": "nug-1919",
+      "term": "immanent and transcendent perception",
+      "status": "introduced",
+      "claim": "Husserl draws the fundamental contrast between inner, immanent perception and outer, transcendent perception, with esse = percipi holding for the immanent sphere.",
+      "quote": "Husserl now draws the fundamental contrast between inner (immanent) and outer (transcendent) perception."
+    },
+    {
+      "id": "transzendenz/nug/003",
+      "locator": "husserl-natur-und-geist-commentary#h3-inner-and-outer-perception-object-and-appearance",
+      "stratum": "nug-1919",
+      "term": "transcending the perception",
+      "status": "introduced",
+      "claim": "The outer-perceived gives itself as in-itself, contingent to being perceived, and as transcending the perception and the whole I-ish sphere.",
+      "quote": "It thus gives itself as something for which being-perceived, having-been, and going-to-be are contingent — as in-itself over against the factual perceiving of the perceiving subject, as transcending the perception and with the perception the whole sphere of the I-ish."
+    },
+    {
+      "id": "transzendenz/nug/004",
+      "locator": "husserl-natur-und-geist-commentary#h3-inner-and-outer-perception-object-and-appearance",
+      "stratum": "nug-1919",
+      "term": "transcendence",
+      "status": "presupposed",
+      "claim": "The possibility of error is structurally connected to the transcendence of the outer object, because the object claims to be in itself.",
+      "quote": "The possibility of error (false perception, illusion) is structurally connected to this transcendence: because the object claims to be \"in itself,\" the perception can be wrong about it."
+    },
+    {
+      "id": "transzendenz/nug/005",
+      "locator": "husserl-natur-und-geist-commentary#h3-inner-and-outer-perception-object-and-appearance",
+      "stratum": "nug-1919",
+      "term": "immanent experiences",
+      "status": "criticized",
+      "claim": "That the being of immanent experiences is exhausted in their being-conscious is a phenomenological description, not a metaphysical idealism.",
+      "quote": "The being of immanent experiences is exhausted in their being-conscious (esse = percipi), but this must be understood carefully: it is not a metaphysical idealism but a phenomenological description."
+    },
+    {
+      "id": "transzendenz/nug/006",
+      "locator": "husserl-natur-und-geist-commentary#h3-inner-and-outer-perception-object-and-appearance",
+      "stratum": "nug-1919",
+      "term": "transcendent",
+      "status": "presupposed",
+      "claim": "Immanent perception excludes modal modification while outer perception is susceptible to it, which establishes absolute evidence of the immanent against presumptive evidence of the transcendent.",
+      "quote": "This analysis establishes the fundamental distinction between the absolute evidence of the immanent and the merely presumptive evidence of the transcendent."
+    },
+    {
+      "id": "transzendenz/nug/007",
+      "locator": "husserl-natur-und-geist-commentary#h3-inner-and-outer-perception-object-and-appearance",
+      "stratum": "nug-1919",
+      "term": "\"transcendent\"",
+      "status": "presupposed",
+      "claim": "Objects called I-foreign, transcendent or outer are perceivable only as appearing and are what they are only as something appearing in appearances.",
+      "quote": "We can straightforwardly say: they are what they are only as something appearing in appearances; for were they otherwise, perceptions would have to be thinkable in which they would bodily give themselves in their otherness."
+    },
+    {
+      "id": "transzendenz/nug/008",
+      "locator": "husserl-natur-und-geist-commentary#h3-inner-and-outer-perception-object-and-appearance",
+      "stratum": "nug-1919",
+      "term": "immanent perception",
+      "status": "presupposed",
+      "claim": "The object of immanent perception in principle cannot appear: the distinction between object and appearance is necessarily absent for it.",
+      "quote": "For immanent perception, the distinction between the object itself and the appearance of the object is necessarily absent."
+    },
+    {
+      "id": "transzendenz/nug/009",
+      "locator": "husserl-natur-und-geist-commentary#h3-inner-and-outer-perception-object-and-appearance",
+      "stratum": "nug-1919",
+      "term": "immanent or transcendent",
+      "status": "revised",
+      "claim": "Objects receive their sense as immanent or transcendent exclusively from the perceiving consciousness, so the distinction is constitutive rather than metaphysical.",
+      "quote": "The objects' sense as immanent or transcendent is received from the perceiving consciousness — a key phenomenological thesis: the distinction is not metaphysical but constitutive."
+    },
+    {
+      "id": "transzendenz/nug/010",
+      "locator": "husserl-natur-und-geist-commentary#h3-inner-and-outer-perception-object-and-appearance",
+      "stratum": "nug-1919",
+      "term": "transcendent positing",
+      "status": "presupposed",
+      "claim": "The outer object is essentially transcendent and never finally determined; not even God could perceive it adequately, and the thing remains in suspension between being and non-being.",
+      "quote": "The concluding formulation — the thing remains \"in suspension between being and non-being\" — captures the essential precariousness of all transcendent positing."
+    },
+    {
+      "id": "transzendenz/nug/011",
+      "locator": "husserl-natur-und-geist-commentary#h3-inner-and-outer-perception-object-and-appearance",
+      "stratum": "nug-1919",
+      "term": "immanence",
+      "status": "introduced",
+      "claim": "The distinction is crystallized as externality equals givenness through appearance and presumptive being, immanence equals givenness without appearance and absolute being.",
+      "quote": "This paragraph crystallizes the fundamental ontological distinction in a pair of reversible propositions: externality = givenness through appearance = presumptive being; immanence = givenness without appearance = absolute being."
+    },
+    {
+      "id": "transzendenz/nug/012",
+      "locator": "husserl-natur-und-geist-commentary#h3-inner-and-outer-perception-object-and-appearance",
+      "stratum": "nug-1919",
+      "term": "immanent component",
+      "status": "criticized",
+      "claim": "Against the image-theory, an appearance is not a separate real thing but an immanent component of the perceptual experience, inseparable from the intentional relation.",
+      "quote": "But an appearance is not a separate real thing at all — it is an immanent component of the perceptual experience itself, inseparable from the intentional relation to the appearing object."
+    },
+    {
+      "id": "transzendenz/nug/013",
+      "locator": "husserl-natur-und-geist-commentary#h3-the-pure-ego-attitude-and-the-idea-of-a-transcendental-phenomenology",
+      "stratum": "nug-1919",
+      "term": "immanence",
+      "status": "presupposed",
+      "claim": "Following purely the sense of perception within immanence yields the principled possibility of the non-being of all outer objects, with being and non-being as indices of structures of perceptual courses.",
+      "quote": "Purely following the sense, there resulted in immanence the principled possibility of the non-being of all outer objects, and it resulted that being and non-being are indices for certain structures of perceptual courses"
+    },
+    {
+      "id": "transzendenz/nug/014",
+      "locator": "husserl-natur-und-geist-commentary#h3-the-pure-ego-attitude-and-the-idea-of-a-transcendental-phenomenology",
+      "stratum": "nug-1919",
+      "term": "transcendent positing",
+      "status": "presupposed",
+      "claim": "The apprehension of oneself as I-person is itself a transcendent positing, since the human being is given through appearances.",
+      "quote": "But this \"I-person\" apprehension is itself a transcendent positing: the human being is an object given through appearances (through the body), subject to the presumptive character of all transcendent givenness."
+    },
+    {
+      "id": "transzendenz/nug/015",
+      "locator": "husserl-natur-und-geist-commentary#h3-the-method-of-phenomenological-reduction-transcendental-phenomenology-as-a-prior",
+      "stratum": "nug-1919",
+      "term": "immanent being",
+      "status": "presupposed",
+      "claim": "Even if the world does not exist, the stream of conscious experience continues unaffected in its immanent being.",
+      "quote": "The world may not exist; but even if it does not, the stream of conscious experience continues unaffected in its immanent being."
+    },
+    {
+      "id": "transzendenz/nug/016",
+      "locator": "husserl-natur-und-geist-commentary#h3-the-method-of-phenomenological-reduction-transcendental-phenomenology-as-a-prior",
+      "stratum": "nug-1919",
+      "term": "transcendent positings",
+      "status": "presupposed",
+      "claim": "Even a fantasized centaur is transcendent in the relevant sense, so the exclusion must encompass all transcendent positings of actualities and pure possibilities.",
+      "quote": "The exclusion must therefore encompass all transcendent positings — whether of actualities or of pure possibilities — to secure the purity of the phenomenological field."
+    },
+    {
+      "id": "transzendenz/nug/017",
+      "locator": "husserl-natur-und-geist-commentary#h3-the-method-of-phenomenological-reduction-transcendental-phenomenology-as-a-prior",
+      "stratum": "nug-1919",
+      "term": "transcendence of the a priori",
+      "status": "introduced",
+      "claim": "Husserl addresses the transcendence of the a priori and resolves it by distinguishing the a priori truth from the immanent experience of insight in which it is grasped.",
+      "quote": "Husserl addresses the problem of the transcendence of the a priori itself."
+    },
+    {
+      "id": "transzendenz/nug/018",
+      "locator": "husserl-natur-und-geist-commentary#h3-the-method-of-phenomenological-reduction-transcendental-phenomenology-as-a-prior",
+      "stratum": "nug-1919",
+      "term": "transcendent realities",
+      "status": "presupposed",
+      "claim": "All transcendent realities and possibilities excluded by the reduction remain within the phenomenological field in a modified way.",
+      "quote": "all that has been excluded by the reduction — all transcendent realities and possibilities — nonetheless remains within the phenomenological field in a modified way"
+    },
+    {
+      "id": "transzendenz/nug/019",
+      "locator": "husserl-natur-und-geist-commentary#h3-the-articulation-into-things-and-subjects-according-to-the-distinction-of-nature",
+      "stratum": "nug-1919",
+      "term": "transcendent objectivity",
+      "status": "presupposed",
+      "claim": "The fundamental question posed is how transcendent objectivity, under the titles nature and spirit, is given a priori as correlate of outer intuitions.",
+      "quote": "how is transcendent objectivity (for which we have the still quite unclear titles \"nature\" and \"spirit\") given a priori as the correlate of outer intuitions?"
+    },
+    {
+      "id": "transzendenz/nug/020",
+      "locator": "husserl-natur-und-geist-commentary#h2-supplement-iv",
+      "stratum": "nug-1919",
+      "term": "\"transcendent\"",
+      "status": "presupposed",
+      "claim": "Supplement IV holds that an a priori truth is not a temporal event in the stream and in that sense transcendent, while the act of insight grasping it is immanent.",
+      "quote": "But the conscious act in which the truth is grasped — the evidence, the insight, the judgmental experience — is immanent."
+    }
+  ],
+  "absences": [
+    {
+      "locator": "husserl-natur-und-geist-commentary#h3-the-return-from-science-to-prescientific-consciousness",
+      "expected_because": "The return to prescientific consciousness is where the lectures turn to the pregiven as such, which the following sections divide into immanent I-own and transcendent I-foreign.",
+      "absent_terms": [
+        "transcendence",
+        "transcendent",
+        "immanence",
+        "immanent"
+      ]
+    }
+  ]
+}

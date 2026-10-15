@@ -1,0 +1,240 @@
+{
+  "schema_version": 1,
+  "theme": "transzendenz",
+  "commentary": "husserl-thing-and-space-commentary",
+  "source_sha256": "e0d0451d72ec96da3d81ae5556439940774ed1e7a51cb3d8a40eb1cf5affde23",
+  "extracted_at": "2026-10-15",
+  "extractor": {
+    "agent": "claude-code",
+    "model": "claude-opus-5-5",
+    "prompt": "synthesis/prompts/extraction-prompt.md",
+    "note": "Read every paragraph carrying transcend- (outside transcendental), immanen-, surpass or going beyond, in file order, with its section; quotes copied from those paragraphs."
+  },
+  "coverage": "partial",
+  "coverage_note": "Term-led pass over the whole file (lines 1-2222): every paragraph containing the transcendence family, including bare transcendent and immanent, was read in full; paragraphs without any such word were not read, so a place where the theme works without its vocabulary would be missed.",
+  "units": [
+    {
+      "id": "transzendenz/ding/001",
+      "locator": "husserl-thing-and-space-commentary#h3-s6-assertions-about-perceptions-and-assertions-about-perceived-objects-real-reel",
+      "primary_locator": "Thing and Space §6",
+      "stratum": "ding-1907",
+      "term": "problem of transcendence",
+      "status": "introduced",
+      "claim": "The problem of transcendence is raised as the asymmetry between the absolute givenness of the reduced perception, which is immanent, and the intentional object, which is transcendent yet appears in the flesh.",
+      "quote": "The perception, subjected to phenomenological reduction, is an absolute givenness — I possess it, as it were, for itself, with all that essentially makes it up. It is \"immanent.\" The intentional object, however, is precisely \"transcendent.\""
+    },
+    {
+      "id": "transzendenz/ding/002",
+      "locator": "husserl-thing-and-space-commentary#h3-s7-preliminary-indication-of-the-method-of-the-further-investigation",
+      "primary_locator": "Thing and Space §7",
+      "stratum": "ding-1907",
+      "term": "transcendence within immanence",
+      "status": "introduced",
+      "claim": "The higher stratum of the investigation is to study the possibility of transcendent intention and validity within the sphere of the purest immanence.",
+      "quote": "we must study the possibility of transcendent intention and validity in the sphere of the most pure immanence"
+    },
+    {
+      "id": "transzendenz/ding/003",
+      "locator": "husserl-thing-and-space-commentary#h3-s7-preliminary-indication-of-the-method-of-the-further-investigation",
+      "primary_locator": "Thing and Space §7",
+      "stratum": "ding-1907",
+      "term": "problem of transcendence",
+      "status": "presupposed",
+      "claim": "The problem of transcendence, how an object not really immanent in perception is given with evidence, is identified as the master-problem of the whole investigation.",
+      "quote": "how an object that is not really immanent in perception can nonetheless be given with evidence in perception — as the master-problem of the entire investigation"
+    },
+    {
+      "id": "transzendenz/ding/004",
+      "locator": "husserl-thing-and-space-commentary#h3-s8-the-absolute-givenness-of-perception-in-phenomenological-reflection-broadenin",
+      "primary_locator": "Thing and Space §8",
+      "stratum": "ding-1907",
+      "term": "transcendent object",
+      "status": "presupposed",
+      "claim": "The analysis does not reach through to the transcendent thing but studies it as the intentional correlate of absolutely given lived experiences.",
+      "quote": "The transcendent thing is studied not in itself but as the intentional correlate of these absolutely given lived experiences"
+    },
+    {
+      "id": "transzendenz/ding/005",
+      "locator": "husserl-thing-and-space-commentary#h3-s9-self-posing-perceptions-and-presentational-perceptions-inseparability-of-perc",
+      "primary_locator": "Thing and Space §9",
+      "stratum": "ding-1907",
+      "term": "immanence and transcendence",
+      "status": "introduced",
+      "claim": "Husserl defines the immanent as the self-posed and the transcendent as the presented, whether in the mode of presence in the flesh or as self-presented.",
+      "quote": "The self-posed is called immanent; the presented (whether in the mode of presence in the flesh or as self-presented) is called transcendent."
+    },
+    {
+      "id": "transzendenz/ding/006",
+      "locator": "husserl-thing-and-space-commentary#h3-s9-self-posing-perceptions-and-presentational-perceptions-inseparability-of-perc",
+      "primary_locator": "Thing and Space §9",
+      "stratum": "ding-1907",
+      "term": "transcendent",
+      "status": "introduced",
+      "claim": "If a self-posed perception is itself presentational, the object it presents is not really immanent to the original self-posing but transcendent, a merely intentional Object.",
+      "quote": "If the self-posed perception is itself a presentational perception, then the object it presents is not really immanent to the original self-posing but is transcendent — a \"merely intentional Object.\""
+    },
+    {
+      "id": "transzendenz/ding/007",
+      "locator": "husserl-thing-and-space-commentary#h3-s9-self-posing-perceptions-and-presentational-perceptions-inseparability-of-perc",
+      "primary_locator": "Thing and Space §9",
+      "stratum": "ding-1907",
+      "term": "necessary transcendence of thinghood",
+      "status": "introduced",
+      "claim": "Although the thing presents itself in the flesh in every perception, self-posing is excluded for it; this is called the necessary transcendence of thinghood.",
+      "quote": "there is a necessary transcendence of thinghood: although the thing presents itself in the flesh in every individual perception, self-posing is excluded for it"
+    },
+    {
+      "id": "transzendenz/ding/008",
+      "locator": "husserl-thing-and-space-commentary#h3-s9-self-posing-perceptions-and-presentational-perceptions-inseparability-of-perc",
+      "primary_locator": "Thing and Space §9",
+      "stratum": "ding-1907",
+      "term": "transcendent",
+      "status": "criticized",
+      "claim": "The commentary states that the thing is transcendent not because it is outside consciousness but because its mode of givenness is presentational rather than self-posing.",
+      "quote": "The thing is transcendent not because it is \"outside\" consciousness (a metaphysical claim the lectures eschew) but because its mode of givenness is presentational rather than self-posing"
+    },
+    {
+      "id": "transzendenz/ding/009",
+      "locator": "husserl-thing-and-space-commentary#h3-s11-resolution-of-a-difficulty-even-intentional-components-of-perception-given-i",
+      "primary_locator": "Thing and Space §11",
+      "stratum": "ding-1907",
+      "term": "transcendence of the object",
+      "status": "revised",
+      "claim": "The transcendence of the object is reconceived as a structural fact about identity and difference: the essence of the perception excludes identity-consciousness with the essence of its object.",
+      "quote": "The object transcends the perception in the precise sense that the essence of the one excludes identity-consciousness with the essence of the other."
+    },
+    {
+      "id": "transzendenz/ding/010",
+      "locator": "husserl-thing-and-space-commentary#h3-s13-rejection-of-a-misunderstanding-articulation-of-the-giving-consciousness-not",
+      "primary_locator": "Thing and Space §13",
+      "stratum": "ding-1907",
+      "term": "transcendent objectivity",
+      "status": "presupposed",
+      "claim": "All transcendent objectivity has its primal ground and bearer in consciousness, while consciousness itself is absolute Being and needs no bearer.",
+      "quote": "all transcendent objectivity has its primal ground and bearer in consciousness"
+    },
+    {
+      "id": "transzendenz/ding/011",
+      "locator": "husserl-thing-and-space-commentary#h3-s13-rejection-of-a-misunderstanding-articulation-of-the-giving-consciousness-not",
+      "primary_locator": "Thing and Space §13",
+      "stratum": "ding-1907",
+      "term": "transcendent Ego",
+      "status": "criticized",
+      "claim": "The phenomenological reduction is not solipsistic: the positing of a transcendent Ego is completely excluded in favour of consciousness in the pure sense.",
+      "quote": "we completely exclude the positing of a transcendent Ego and adhere to the absolute: consciousness in the pure sense"
+    },
+    {
+      "id": "transzendenz/ding/012",
+      "locator": "husserl-thing-and-space-commentary#h3-s14-contents-of-sensation-and-the-qualities-of-things",
+      "primary_locator": "Thing and Space §14",
+      "stratum": "ding-1907",
+      "term": "grasped transcendently",
+      "status": "criticized",
+      "claim": "It is countersense to hold that one complex of contents is a thing when grasped transcendently and a sensation-complex when sensed immanently; the thing cannot be given immanently in straightforward perception.",
+      "quote": "It is not something one and the same that is named twice, as though an identical complex of contents could be, when grasped transcendently, a thing, and when sensed immanently, a complex of sensations."
+    },
+    {
+      "id": "transzendenz/ding/013",
+      "locator": "husserl-thing-and-space-commentary#h3-s15-presentational-contents-and-apprehension-perception",
+      "primary_locator": "Thing and Space §15",
+      "stratum": "ding-1907",
+      "term": "psychic transcendences",
+      "status": "introduced",
+      "claim": "Husserl leaves open whether consciousness itself could undergo an apprehension and constitute transcendences of an essentially new group, psychic transcendences.",
+      "quote": "could what falls under the title of \"consciousness\" itself undergo an apprehension and constitute \"transcendences of an essentially new group, psychic transcendences\"?"
+    },
+    {
+      "id": "transzendenz/ding/014",
+      "locator": "husserl-thing-and-space-commentary#h3-s33-the-role-of-improper-appearance-in-the-process-of-more-precise-determination",
+      "primary_locator": "Thing and Space §33",
+      "stratum": "ding-1907",
+      "term": "transcendence",
+      "status": "presupposed",
+      "claim": "An ideal adequate appearance would leave no difference between appearance, what appears and the transcendence determined thereby, which is why Husserl becomes skeptical of the ideal.",
+      "quote": "would there still be a difference between appearance, what appears, and the transcendence determined thereby?"
+    },
+    {
+      "id": "transzendenz/ding/015",
+      "locator": "husserl-thing-and-space-commentary#h3-s34-movement-and-location-in-the-field-objective-movement-and-location",
+      "primary_locator": "Thing and Space §34",
+      "stratum": "ding-1907",
+      "term": "transcendence",
+      "status": "presupposed",
+      "claim": "Movement presupposes the distinction between presenting content and presented object; it requires that the thing be constituted through but not as its presentational appearances.",
+      "quote": "Movement requires transcendence; it requires that the thing be constituted through but not as its presentational appearances."
+    },
+    {
+      "id": "transzendenz/ding/016",
+      "locator": "husserl-thing-and-space-commentary#h3-s39-summary-the-perception-of-the-thing-as-a-process-interminable-in-principle",
+      "primary_locator": "Thing and Space §39",
+      "stratum": "ding-1907",
+      "term": "transcendence",
+      "status": "presupposed",
+      "claim": "The thing is the identical pole of an infinite manifold of appearances, and its transcendence with respect to any finite series of perceptions is the constitutive condition of its being a spatial thing.",
+      "quote": "Its transcendence with respect to any individual perception or any finite series of perceptions is not a deficiency to be overcome but the constitutive condition of its being a spatial thing at all."
+    },
+    {
+      "id": "transzendenz/ding/017",
+      "locator": "husserl-thing-and-space-commentary#h3-s48-the-presentational-means-of-the-visual-field",
+      "primary_locator": "Thing and Space §48",
+      "stratum": "ding-1907",
+      "term": "transcendence given on the pure ground of immanence",
+      "status": "introduced",
+      "claim": "An enduring or changing sound is a unity in its streaming manifold, adequately given yet a transcendence given on the pure ground of immanence.",
+      "quote": "A sound enduring or changing is a unity in its streaming manifold — an adequate givenness in the consciousness of unity, though a transcendence given on the pure ground of immanence."
+    },
+    {
+      "id": "transzendenz/ding/018",
+      "locator": "husserl-thing-and-space-commentary#h3-s54-the-consciousness-of-unity-in-the-sequences-of-images-and-in-the-kinaestheti",
+      "primary_locator": "Thing and Space §54",
+      "stratum": "ding-1907",
+      "term": "transcendence",
+      "status": "presupposed",
+      "claim": "The halo of quasi-intentions accompanying each appearance is the phenomenological correlate of the thing's transcendence, its being more than any actually given appearance.",
+      "quote": "The quasi-intentions are the phenomenological correlate of the thing's transcendence — its being more than any actually given appearance."
+    },
+    {
+      "id": "transzendenz/ding/019",
+      "locator": "husserl-thing-and-space-commentary#h3-s59-amplification-of-the-field-of-objects-positing-of-the-object-beyond-the-sphe",
+      "primary_locator": "Thing and Space §59",
+      "stratum": "ding-1907",
+      "term": "extensional transcendence",
+      "status": "introduced",
+      "claim": "Even a single side of a thing may transcend the visual field, which the commentary calls the extensional transcendence of the perceived world, phenomenologically constituted rather than inferred.",
+      "quote": "§59 addresses what might be called the extensional transcendence of the perceived world — the fact that the world always extends beyond what is actually given"
+    },
+    {
+      "id": "transzendenz/ding/020",
+      "locator": "husserl-thing-and-space-commentary#h3-s62-the-new-entrance-of-images-into-the-field-elucidation-through-the-example-of",
+      "primary_locator": "Thing and Space §62",
+      "stratum": "ding-1907",
+      "term": "objectivity transcending the images",
+      "status": "presupposed",
+      "claim": "A series of images with a directedness toward change does not yet constitute an objectivity transcending the images; an apprehensional character with its surplus is needed.",
+      "quote": "would not yet constitute an apprehension of the yew-alley as an objectivity transcending the images"
+    }
+  ],
+  "absences": [
+    {
+      "locator": "husserl-thing-and-space-commentary#h3-s35-the-field-as-finite-means-of-presentation-the-perception-of-things-as-necess",
+      "expected_because": "The commentary on §34 says §35 will formalize the result that the thing must transcend all its field-presentations, and §9 announced the necessary transcendence of thinghood for demonstration in §§32-39.",
+      "absent_terms": [
+        "transcendence",
+        "transcends",
+        "transcendent",
+        "immanence",
+        "immanent"
+      ]
+    },
+    {
+      "locator": "husserl-thing-and-space-commentary#h3-s84-real-existence-and-real-possibility",
+      "expected_because": "The final consideration on real existence is where the lectures settle the status of the constituted thing, which §13 grounded in the opposition of transcendent objectivity and absolute consciousness.",
+      "absent_terms": [
+        "transcendence",
+        "transcendent",
+        "immanence",
+        "immanent"
+      ]
+    }
+  ]
+}

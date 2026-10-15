@@ -1,0 +1,74 @@
+{
+  "schema_version": 1,
+  "theme": "transzendenz",
+  "commentary": "husserl-krisis-commentary",
+  "source_sha256": "2b88ec8e52006ce7c22903c868cc8d32c8b5f43eb0dccec8e1c9e78f0a55c845",
+  "extracted_at": "2026-10-15",
+  "extractor": {
+    "agent": "claude-code",
+    "model": "claude-opus-5-5",
+    "prompt": "synthesis/prompts/extraction-prompt.md",
+    "note": "Read every paragraph carrying transcend- (outside transcendental) or immanen-, in file order. No stratum is set: the record does not tie §§19-25 to the Prague lecture cycle."
+  },
+  "coverage": "partial",
+  "coverage_note": "Term-led pass over the whole file (lines 1-559): every paragraph containing the transcendence family, including bare transcendent and immanent, was read; paragraphs without such a word were not read.",
+  "units": [
+    {
+      "id": "transzendenz/krisis/001",
+      "locator": "husserl-krisis-commentary#h3-s-19-descartes-overriding-interest-in-objectivism-as-the-ground-of-his-self-misi",
+      "primary_locator": "Krisis § 19",
+      "term": "psychological immanence",
+      "status": "criticized",
+      "claim": "The Meditations substituted the psychic I for the ego and psychological immanence for egological immanence, with historical effect to the present.",
+      "quote": "The Meditations worked themselves out in the fateful form of a substitution of the ego's own psychic I for the ego, psychological immanence for egological immanence"
+    },
+    {
+      "id": "transzendenz/krisis/002",
+      "locator": "husserl-krisis-commentary#h3-s-20-intentionality-in-descartes",
+      "primary_locator": "Krisis § 20",
+      "term": "cognition transcending the ego",
+      "status": "criticized",
+      "claim": "Descartes' founding of philosophy from the ego is an epistemology of how the ego brings about objective cognition, which for him means cognition transcending the ego metaphysically.",
+      "quote": "a theory of how the ego in the intentionality of its reason brings about objective cognition, which for Descartes means: cognition transcending the ego metaphysically"
+    },
+    {
+      "id": "transzendenz/krisis/003",
+      "locator": "husserl-krisis-commentary#h3-s-21-descartes-as-point-of-departure-for-the-two-lines-of-development-rationalis",
+      "primary_locator": "Krisis § 21",
+      "term": "transcendent \"in-itself\"",
+      "status": "presupposed",
+      "claim": "Rationalism held that the method more geometrico can cognize the world thought of as a transcendent in-itself, and English empiricism reacted against this reach into a transcendent.",
+      "quote": "Against this conviction — against such a reach of the new science into a \"transcendent\" — reacts English empiricism, though itself also strongly determined by Descartes."
+    },
+    {
+      "id": "transzendenz/krisis/004",
+      "locator": "husserl-krisis-commentary#h3-s-24-the-genuine-philosophical-motive-of-the-shattering-of-objectivism-hidden-in",
+      "primary_locator": "Krisis § 24",
+      "term": "immanence",
+      "status": "presupposed",
+      "claim": "Cartesian presuppositionlessness demanded subjectively directed considerations, the return to the cognizing I in its immanence.",
+      "quote": "The Cartesian radicalism of presuppositionlessness demanded subjectively directed considerations, the return to the cognizing I in its immanence."
+    },
+    {
+      "id": "transzendenz/krisis/005",
+      "locator": "husserl-krisis-commentary#h3-s-25-the-transcendental-motive-in-rationalism-kant-s-conception-of-a-transcenden",
+      "primary_locator": "Krisis § 25",
+      "term": "transcendent affection",
+      "status": "presupposed",
+      "claim": "For Kant the natural-scientific world is a formation of the intellect, with the proviso that sensory material stems from a transcendent affection by things in themselves.",
+      "quote": "only with the proviso that the material of sensory data stems from a transcendent affection by \"things in themselves\" that are in principle inaccessible to (objective-scientific) cognition"
+    }
+  ],
+  "absences": [
+    {
+      "locator": "husserl-krisis-commentary#h3-s-11-dualism-as-the-ground-for-the-incomprehensibility-of-the-problems-of-reason",
+      "expected_because": "Dualism is treated here as the ground of the problems of reason, and §21 places rationalism's claim on a transcendent in-itself within the same development.",
+      "absent_terms": [
+        "transcendence",
+        "transcends",
+        "immanence",
+        "immanent"
+      ]
+    }
+  ]
+}

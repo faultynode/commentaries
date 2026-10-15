@@ -1,0 +1,61 @@
+{
+  "schema_version": 1,
+  "theme": "transzendenz",
+  "commentary": "husserliana-28-vorlesungen-uber-ethik-und-wertlehre-commentary",
+  "source_sha256": "fd9165d1171e8a6ec659a655447727e831a2aecb868d315e15f209b69ec5f379",
+  "extracted_at": "2026-10-15",
+  "extractor": {
+    "agent": "claude-code",
+    "model": "claude-opus-5-5",
+    "prompt": "synthesis/prompts/extraction-prompt.md",
+    "note": "Read every paragraph carrying transcend- (outside transcendental), immanen-, surpass, overstep or going beyond, in file order. The many uses of surpass and overstep in the ethics (goods surpassing goods, overstepping the will-realm) are not the theme. No stratum is set: the commentary's sections are not tied to the 1908/09, 1911 and 1914 courses at these places."
+  },
+  "coverage": "partial",
+  "coverage_note": "Term-led pass over the whole file (lines 1-777): every paragraph containing the transcendence family, including bare transcendent and immanent, was read; paragraphs without such a word were not read.",
+  "units": [
+    {
+      "id": "transzendenz/hua28/001",
+      "locator": "husserliana-28-vorlesungen-uber-ethik-und-wertlehre-commentary#h4-c-the-interweaving-of-all-kinds-of-reason-and-their-ideals",
+      "term": "immanent essence",
+      "status": "presupposed",
+      "claim": "Reason-appraisal of acts depends exclusively on their immanent essence, not on their being human acts within nature.",
+      "quote": "an appraisal for which it depends exclusively on the immanent essence of the acts, on their immanent kind, and not at all on whether they are human acts"
+    },
+    {
+      "id": "transzendenz/hua28/002",
+      "locator": "husserliana-28-vorlesungen-uber-ethik-und-wertlehre-commentary#h4-a-the-naivety-of-the-natural-sciences",
+      "term": "\"transcendent\"",
+      "status": "presupposed",
+      "claim": "Reflection on perception as subjective and the perceived as transcendent led to doubt whether knowledge could get beyond itself and assure itself of the being of the transcendent.",
+      "quote": "one told oneself that perception and perceived thing are evidently different things, the one \"subjective,\" the other \"transcendent\" to subjectivity; one fell into doubt whether human knowledge could get beyond itself and ever really assure itself of the being of the transcendent"
+    },
+    {
+      "id": "transzendenz/hua28/003",
+      "locator": "husserliana-28-vorlesungen-uber-ethik-und-wertlehre-commentary#h4-b-the-knowledge-problems-the-hidden-countersense-of-every-natural-theory-of-know",
+      "term": "transcendent to my consciousness",
+      "status": "criticized",
+      "claim": "Positing something transcendent to consciousness, distinguishing correct from false knowledge and perception from illusion, are all occurrences within the consciousness-sphere.",
+      "quote": "When, on the contrary, I posit in a consciousness something transcendent to my consciousness, an outer thing for instance, when I gain knowledge with regard to it"
+    },
+    {
+      "id": "transzendenz/hua28/004",
+      "locator": "husserliana-28-vorlesungen-uber-ethik-und-wertlehre-commentary#h4-a-the-principle-doctrines-offer-the-clues-for-the-phenomenological-epistemologic",
+      "term": "transcendent to the knowledge-consciousness",
+      "status": "presupposed",
+      "claim": "The knowledge-problems were first felt as problems of nature-knowledge: how nature, transcendent to the knowledge-consciousness, can be known.",
+      "quote": "how nature, being in itself, as something transcendent to the knowledge-consciousness, is yet to be knowable"
+    }
+  ],
+  "absences": [
+    {
+      "locator": "husserliana-28-vorlesungen-uber-ethik-und-wertlehre-commentary#h4-a-the-cancellation-of-logical-skepticism-through-its-formal-countersense",
+      "expected_because": "The commentary elsewhere locates the skepticism of natural theories of knowledge in doubt about reaching the transcendent, and this section cancels logical skepticism.",
+      "absent_terms": [
+        "transcendence",
+        "transcends",
+        "immanence",
+        "immanent"
+      ]
+    }
+  ]
+}
