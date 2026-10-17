@@ -1,0 +1,54 @@
+{
+  "schema_version": 1,
+  "theme": "transzendenz",
+  "commentary": "husserliana-8-erste-philosophie-ii-commentary",
+  "source_sha256": "fcae3bd13ed8c30fb61819f9bdcbbbbfe315c3c6da726c021250ec99a4f80b50",
+  "extracted_at": "2026-10-15",
+  "extractor": {
+    "agent": "claude-code",
+    "model": "claude-opus-5-5",
+    "prompt": "synthesis/prompts/extraction-prompt.md",
+    "note": "Read every paragraph carrying transcend- (outside transcendental), immanen-, surpass or overstep, in file order. Surpass in Lecture 29 (values surpassing values) and overstep in Lecture 34 are not the theme. No stratum: chronology.json has no entry for this commentary."
+  },
+  "coverage": "partial",
+  "coverage_note": "Term-led pass over the whole file (lines 1-674): every paragraph containing the transcendence family, including bare transcendent and immanent, was read; paragraphs without such a word were not read.",
+  "units": [
+    {
+      "id": "transzendenz/hua8/001",
+      "locator": "husserliana-8-erste-philosophie-ii-commentary#h4-lecture-39-the-full-content-of-universal-transcendental-self-experience-transcen",
+      "primary_locator": "Hua VIII, Lecture 39",
+      "term": "immanent time",
+      "status": "presupposed",
+      "claim": "Applied to the reduced field, immanent time is not a region of objective time but the form in which transcendental life presents itself to itself.",
+      "quote": "immanent time is not a region of objective time but the form in which transcendental life presents itself to itself"
+    },
+    {
+      "id": "transzendenz/hua8/002",
+      "locator": "husserliana-8-erste-philosophie-ii-commentary#h5-b-transcendental-egology-solipsistic-phenomenology-and-the-transition-to-the-int",
+      "term": "transcendence of the world",
+      "status": "revised",
+      "claim": "The transcendence of the world has no metaphysical mystery and is of the same genus as the transcendence of numbers and other irreal objects.",
+      "quote": "The transcendence of the world has no metaphysical mystery: it is of another kind, but most generally of the same genus as the transcendence of numbers and other irreal objects."
+    },
+    {
+      "id": "transzendenz/hua8/003",
+      "locator": "husserliana-8-erste-philosophie-ii-commentary#h5-b-transcendental-egology-solipsistic-phenomenology-and-the-transition-to-the-int",
+      "term": "immanent pole",
+      "status": "introduced",
+      "claim": "Before other egos are known, the real world reduces to a system of external experiences in which things are poles immanent to the system and transcendent to every single experience.",
+      "quote": "The \"immanent pole\" formulation is precise: the thing is immanent to the system as its pole, transcendent to every single experience."
+    }
+  ],
+  "absences": [
+    {
+      "locator": "husserliana-8-erste-philosophie-ii-commentary#h4-lecture-37-the-apodictic-certainty-of-the-world-s-possible-non-existence-and-the",
+      "expected_because": "The possible non-existence of the world is argued here, and the later transition to egology treats the world's transcendence as that of a pole immanent to the system of experience.",
+      "absent_terms": [
+        "transcendence",
+        "transcends",
+        "immanence",
+        "immanent"
+      ]
+    }
+  ]
+}

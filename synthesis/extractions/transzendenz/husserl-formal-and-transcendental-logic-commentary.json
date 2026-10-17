@@ -1,0 +1,98 @@
+{
+  "schema_version": 1,
+  "theme": "transzendenz",
+  "commentary": "husserl-formal-and-transcendental-logic-commentary",
+  "source_sha256": "420fa4fc5a2515a86e1abd413a8003659f5fe4e917f7e6fb57088970b2866590",
+  "extracted_at": "2026-10-15",
+  "extractor": {
+    "agent": "claude-code",
+    "model": "claude-opus-5-5",
+    "prompt": "synthesis/prompts/extraction-prompt.md",
+    "note": "Read every paragraph carrying transcend- (outside transcendental), immanen-, surpass or overstep, in file order. No stratum is set: the commentary does not separate the 1929 text from the 1937 annotations at these places."
+  },
+  "coverage": "partial",
+  "coverage_note": "Term-led pass over the whole file (lines 1-1057): every paragraph containing the transcendence family, including bare transcendent and immanent, was read; paragraphs without such a word were not read.",
+  "units": [
+    {
+      "id": "transzendenz/ftl/001",
+      "locator": "husserl-formal-and-transcendental-logic-commentary#h4-s38-judgment-objects-as-such-and-syntactic-formations",
+      "primary_locator": "FTL § 38",
+      "term": "\"transcendent\" objects",
+      "status": "presupposed",
+      "claim": "The forming in judgment from which mathematical concepts arise takes place not at the transcendent objects but at the objects as presented in the judgment.",
+      "quote": "takes place not at the \"transcendent\" objects but at the objects as presented in the judgment itself"
+    },
+    {
+      "id": "transzendenz/ftl/002",
+      "locator": "husserl-formal-and-transcendental-logic-commentary#h5-f-the-categorial-formations-arising-in-determining-as-habitual-and-intersubjecti",
+      "term": "transcendence",
+      "status": "introduced",
+      "claim": "Categorial formations are not objectualities only while judging takes place; transcendence lies in their own being-sense, as enduring acquisitions.",
+      "quote": "The categorial formations are not merely objectualities during and while the judging action takes place. In their own being-sense lies transcendence."
+    },
+    {
+      "id": "transzendenz/ftl/003",
+      "locator": "husserl-formal-and-transcendental-logic-commentary#h4-s48-judgments-as-mere-meanings-belong-to-the-region-of-senses-phenomenological-c",
+      "primary_locator": "FTL § 48",
+      "term": "\"transcendent\"",
+      "status": "presupposed",
+      "claim": "Senses, as objects, are just as transcendent to their acts and subjects as objects that are not senses.",
+      "quote": "The senses are, as objects, just as \"transcendent\" relative to their acts and subjects as objects that are not senses."
+    },
+    {
+      "id": "transzendenz/ftl/004",
+      "locator": "husserl-formal-and-transcendental-logic-commentary#h4-s61-evidence-in-general-in-the-function-of-all-objects-real-or-irreal-as-synthet",
+      "primary_locator": "FTL § 61",
+      "term": "transcendent object",
+      "status": "introduced",
+      "claim": "The transcendent object consists within synthetic experience as the identity-pole immanent to the individual experiences and transcendent in the identity surpassing them.",
+      "quote": "make understandable how the transcendent object consists within the sight-sphere of synthetic experience itself — as the identity-pole immanent to the individual experiences and yet transcendent in the identity surpassing them"
+    },
+    {
+      "id": "transzendenz/ftl/005",
+      "locator": "husserl-formal-and-transcendental-logic-commentary#h4-s62-the-ideality-of-all-kinds-of-objectualities-vis-a-vis-constituting-conscious",
+      "primary_locator": "FTL § 62",
+      "term": "\"transcendence\"",
+      "status": "revised",
+      "claim": "Every experienceable object, even a physical one, has a general ideality over against its constituting manifolds, and therein consists the transcendence of all objectualities over against consciousness.",
+      "quote": "This is the general ideality of all intentional unities over against the manifolds constituting them. Therein consists the \"transcendence\" of all kinds of objectualities over against the consciousness of them."
+    },
+    {
+      "id": "transzendenz/ftl/006",
+      "locator": "husserl-formal-and-transcendental-logic-commentary#h4-s65-a-more-general-concept-of-psychologism",
+      "primary_locator": "FTL § 65",
+      "term": "immanent temporality",
+      "status": "criticized",
+      "claim": "Objectualities are psychologized when their objectual sense is negated in favour of subjective experiences, data in immanent or psychological temporality.",
+      "quote": "their objectual sense, their sense as a kind of objects of peculiar essence, is negated in favor of the subjective experiences, the data in immanent or psychological temporality"
+    },
+    {
+      "id": "transzendenz/ftl/007",
+      "locator": "husserl-formal-and-transcendental-logic-commentary#h5-b-the-evidence-of-inner-experience",
+      "term": "immanent perception",
+      "status": "criticized",
+      "claim": "Even immanent perception gives only a starting-point; full objectification of a psychic datum requires retention, protention and recollection.",
+      "quote": "Even the so-called immanent perception gives only a starting-point; the full objectification of a psychic datum requires the synthetic accomplishments of retention, protention, and recollection."
+    },
+    {
+      "id": "transzendenz/ftl/008",
+      "locator": "husserl-formal-and-transcendental-logic-commentary#h4-c-the-time-form-of-intentional-genesis-and-its-constitution-retentional-modifica",
+      "term": "immanent temporality",
+      "status": "presupposed",
+      "claim": "The universal essential form of intentional genesis is the constitution of immanent temporality, in which every experience receives and retains its identical time-position.",
+      "quote": "The universal essential form of intentional genesis is the constitution of immanent temporality"
+    }
+  ],
+  "absences": [
+    {
+      "locator": "husserl-formal-and-transcendental-logic-commentary#h4-s59-generalities-on-evidence-as-self-giving",
+      "expected_because": "Evidence as self-giving is introduced here, and §61 states how the transcendent object consists within synthetic experience as an identity-pole.",
+      "absent_terms": [
+        "transcendence",
+        "transcends",
+        "immanence",
+        "immanent"
+      ]
+    }
+  ]
+}

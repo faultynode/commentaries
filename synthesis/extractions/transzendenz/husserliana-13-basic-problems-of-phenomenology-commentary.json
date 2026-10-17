@@ -1,0 +1,189 @@
+{
+  "schema_version": 1,
+  "theme": "transzendenz",
+  "commentary": "husserliana-13-basic-problems-of-phenomenology-commentary",
+  "source_sha256": "e644f4bf71525db6c087db314384648602700f12e1fa0cb69cb7541ebf74685e",
+  "extracted_at": "2026-10-15",
+  "extractor": {
+    "agent": "claude-code",
+    "model": "claude-opus-5-5",
+    "prompt": "synthesis/prompts/extraction-prompt.md",
+    "note": "Read every paragraph carrying transcend- (outside transcendental), immanen-, surpass or going beyond, in file order, with its section. Later marginal revisions the commentary reports are recorded under the 1910/11 stratum because the commentary does not date them."
+  },
+  "coverage": "partial",
+  "coverage_note": "Term-led pass over the whole file (lines 1-419): every paragraph containing the transcendence family, including bare transcendent and immanent, was read in full; paragraphs without any such word were not read.",
+  "units": [
+    {
+      "id": "transzendenz/hua13/001",
+      "locator": "husserliana-13-basic-problems-of-phenomenology-commentary#h3-s-1-the-i-in-the-natural-attitude",
+      "primary_locator": "Hua XIII § 1",
+      "stratum": "hua13-1910",
+      "term": "transcendence within immanence",
+      "status": "introduced",
+      "claim": "The synopsis of the course names among its problems transcendence within immanence, the several concepts of transcendence, and the right of transcendent positing within immanence.",
+      "quote": "transcendence within immanence and the several distinct concepts of transcendence; the right (Recht, the warrant or legitimacy) of transcendent positing within immanence"
+    },
+    {
+      "id": "transzendenz/hua13/002",
+      "locator": "husserliana-13-basic-problems-of-phenomenology-commentary#h3-s-14-the-privilege-of-being-of-the-lived-experience-over-against-the-natural-obj",
+      "primary_locator": "Hua XIII § 14",
+      "stratum": "hua13-1910",
+      "term": "transcendence",
+      "status": "introduced",
+      "claim": "The in-itself being of the experienced thing remains forever pretension, since it is never given absolutely, and this hangs together with experience positing transcendence by its very sense.",
+      "quote": "And this hangs together with the fact that experience, by its very sense, posits transcendence."
+    },
+    {
+      "id": "transzendenz/hua13/003",
+      "locator": "husserliana-13-basic-problems-of-phenomenology-commentary#h3-s-15-the-phenomenological-attitude-delimitation-of-the-phenomenological-beholdin",
+      "primary_locator": "Hua XIII § 15",
+      "stratum": "hua13-1910",
+      "term": "transcendent attitude",
+      "status": "presupposed",
+      "claim": "The new phenomenological attitude switches off every empirical, transcendent attitude and accepts no object posited in it as actuality.",
+      "quote": "We can give ourselves, quite generally, a new kind of attitude that switches off every empirical, transcendent attitude."
+    },
+    {
+      "id": "transzendenz/hua13/004",
+      "locator": "husserliana-13-basic-problems-of-phenomenology-commentary#h3-s-18-the-objection-of-solipsism",
+      "primary_locator": "Hua XIII § 18",
+      "stratum": "hua13-1910",
+      "term": "transcendence",
+      "status": "criticized",
+      "claim": "Solipsism arises from a misunderstanding of the proper sense of transcendence and its switching-off, which mistakes psychological immanence for phenomenological immanence.",
+      "quote": "a misunderstanding of the proper sense of transcendence and of its switching-off leads one to mistake psychological immanence — which is the solipsistic one, the immanence of my mental states within my worldly soul — for phenomenological immanence"
+    },
+    {
+      "id": "transzendenz/hua13/005",
+      "locator": "husserliana-13-basic-problems-of-phenomenology-commentary#h3-s-24-the-absolute-givenness-of-the-phenomenologically-perceived-the-senselessnes",
+      "primary_locator": "Hua XIII § 24",
+      "stratum": "hua13-1910",
+      "term": "transcends",
+      "status": "presupposed",
+      "claim": "The past of the perception transcends the now, so that switching it off by analogy with the empirically transcendent would leave nothing to judge.",
+      "quote": "The past transcends the now, and so, it seems, I must switch it off, analogously to the empirically transcendent."
+    },
+    {
+      "id": "transzendenz/hua13/006",
+      "locator": "husserliana-13-basic-problems-of-phenomenology-commentary#h3-s-25-the-retention-implied-in-phenomenological-perception-as-a-transcendence-wit",
+      "primary_locator": "Hua XIII § 25",
+      "stratum": "hua13-1910",
+      "term": "\"transcendence\" within the phenomenological attitude",
+      "status": "introduced",
+      "claim": "Admitting retention, and not only it but that of which it is retention, admits a transcendence within the phenomenological attitude.",
+      "quote": "Therewith we have admitted a \"transcendence\" within the phenomenological attitude: insofar as we admit not only the retention itself as phenomenological being, but also that of which it is retention."
+    },
+    {
+      "id": "transzendenz/hua13/007",
+      "locator": "husserliana-13-basic-problems-of-phenomenology-commentary#h3-s-26-the-phenomenological-recollection-and-its-possibility-of-deception-transfor",
+      "primary_locator": "Hua XIII § 26",
+      "stratum": "hua13-1910",
+      "term": "transcendences within the phenomenological immanence",
+      "status": "presupposed",
+      "claim": "Admitting that the perception remembered in recollection in fact was yields new transcendences within phenomenological immanence, which are not absolute indubitabilities.",
+      "quote": "With this, Husserl says, we would have new \"transcendences\" within the phenomenological immanence"
+    },
+    {
+      "id": "transzendenz/hua13/008",
+      "locator": "husserliana-13-basic-problems-of-phenomenology-commentary#h3-s-28-the-phenomenological-experience-its-transcendence-in-the-immanence-and-the",
+      "primary_locator": "Hua XIII § 28",
+      "stratum": "hua13-1910",
+      "term": "transcendence in the phenomenological immanence",
+      "status": "presupposed",
+      "claim": "The phenomenological reduction yields an abundance of intuitive connections beheld in other manners than phenomenological perception, so there is throughout transcendence in the phenomenological immanence and the possibility of deception.",
+      "quote": "Throughout, there is \"transcendence in the phenomenological immanence,\" and throughout, the possibility of deception."
+    },
+    {
+      "id": "transzendenz/hua13/009",
+      "locator": "husserliana-13-basic-problems-of-phenomenology-commentary#h3-s-30-immanence-and-transcendence-the-ambiguity-of-these-terms-and-the-sense-of-i",
+      "primary_locator": "Hua XIII § 30",
+      "stratum": "hua13-1910",
+      "term": "transcendence (first sense)",
+      "status": "criticized",
+      "claim": "Transcendence in the general sense that the cognition-object is not itself present in the act belongs to every intentional relation, and in that respect one does not speak of transcendence lest immanence lose its sense.",
+      "quote": "In this respect, however, one does not speak of \"transcendence,\" for then the opposite term \"immanence\" would lose all sense."
+    },
+    {
+      "id": "transzendenz/hua13/010",
+      "locator": "husserliana-13-basic-problems-of-phenomenology-commentary#h3-s-30-immanence-and-transcendence-the-ambiguity-of-these-terms-and-the-sense-of-i",
+      "primary_locator": "Hua XIII § 30",
+      "stratum": "hua13-1910",
+      "term": "transcendence (second sense)",
+      "status": "introduced",
+      "claim": "In the second sense immanence is only what is bodily present to a beholding, and everything non-present stands on the side of transcendence, including what a reduced recollection reproduces.",
+      "quote": "On the side of immanence, in this second sense, stands only the beheld"
+    },
+    {
+      "id": "transzendenz/hua13/011",
+      "locator": "husserliana-13-basic-problems-of-phenomenology-commentary#h3-s-30-immanence-and-transcendence-the-ambiguity-of-these-terms-and-the-sense-of-i",
+      "primary_locator": "Hua XIII § 30",
+      "stratum": "hua13-1910",
+      "term": "transcendence (third sense)",
+      "status": "introduced",
+      "claim": "In the third sense immanence and transcendence divide individual objects into the beholdable and those given only through appearances, and nature belongs on the side of transcendence.",
+      "quote": "On the side of transcendence, in this third sense, belongs precisely nature — for \"nature\" is just the title encompassing the totality of objectivities that present themselves through appearances."
+    },
+    {
+      "id": "transzendenz/hua13/012",
+      "locator": "husserliana-13-basic-problems-of-phenomenology-commentary#h3-s-30-immanence-and-transcendence-the-ambiguity-of-these-terms-and-the-sense-of-i",
+      "primary_locator": "Hua XIII § 30",
+      "stratum": "hua13-1910",
+      "term": "transcendence",
+      "status": "revised",
+      "claim": "Phenomenology does not want to switch off transcendence in every sense, only transcendence in the sense of the appearing, that is, nature.",
+      "quote": "phenomenology does not want to switch off transcendence in every sense. From the very outset it was defined by the switching-off of nature — of transcendence in a determinate sense, transcendence in the sense of the appearing"
+    },
+    {
+      "id": "transzendenz/hua13/013",
+      "locator": "husserliana-13-basic-problems-of-phenomenology-commentary#h3-s-32-repetition-and-new-presentation-the-phenomenological-reduction-to-the-pure",
+      "primary_locator": "Hua XIII § 32",
+      "stratum": "hua13-1910",
+      "term": "transcendence",
+      "status": "presupposed",
+      "claim": "The all-embracing phenomenological reduction switches off all transcendence in the sense of natural existence-positing without doubting it.",
+      "quote": "we switch off all transcendence in the sense of natural existence-positing"
+    },
+    {
+      "id": "transzendenz/hua13/014",
+      "locator": "husserliana-13-basic-problems-of-phenomenology-commentary#h3-s-35-the-transcendent-unities-of-natural-experience-as-indices-of-actual-and-pos",
+      "primary_locator": "Hua XIII § 35",
+      "stratum": "hua13-1910",
+      "term": "transcendent unity",
+      "status": "introduced",
+      "claim": "Wherever natural experience posits a transcendent unity, its existence is bracketed but the positing serves as an index for determinate pure connections of consciousness.",
+      "quote": "wherever natural experience posits a transcendent unity — an existing real thing, a real constellation, an existing process of change, whether in present, past, or future — there this existence is indeed bracketed"
+    },
+    {
+      "id": "transzendenz/hua13/015",
+      "locator": "husserliana-13-basic-problems-of-phenomenology-commentary#h3-s-42-the-equivalence-of-natural-cognition-and-of-cognition-of-the-correlative-co",
+      "primary_locator": "Hua XIII § 42",
+      "stratum": "hua13-1910",
+      "term": "transcendent cognition",
+      "status": "presupposed",
+      "claim": "Psychophysical cognition is natural cognition only through its interweaving with physical natural cognition, called transcendent cognition, and stands as an intermediate member.",
+      "quote": "which is properly natural cognition only through its interweaving with genuine, physical natural cognition (transcendent cognition)"
+    }
+  ],
+  "absences": [
+    {
+      "locator": "husserliana-13-basic-problems-of-phenomenology-commentary#h3-s-39-the-attainment-of-other-phenomenological-i-s-through-double-phenomenologica",
+      "expected_because": "The other I is attained through double reduction and nature becomes an index of coordinated monads, extending the formula of §35 that turns the transcendent unity into an index.",
+      "absent_terms": [
+        "transcendence",
+        "transcendent unity",
+        "transcendent",
+        "immanence",
+        "immanent"
+      ]
+    },
+    {
+      "locator": "husserliana-13-basic-problems-of-phenomenology-commentary#h3-s-40-the-abstention-from-every-judgment-about-the-being-of-nature-in-the-phenome",
+      "expected_because": "The section restates the abstention from every judgment about the being of nature, which §30 defined as the switching-off of transcendence in a determinate sense.",
+      "absent_terms": [
+        "transcendence",
+        "immanence",
+        "immanent"
+      ]
+    }
+  ]
+}

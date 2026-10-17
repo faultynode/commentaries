@@ -1,0 +1,192 @@
+{
+  "schema_version": 1,
+  "theme": "transzendenz",
+  "commentary": "husserliana-10-inneres-zeitbewusstsein-commentary",
+  "source_sha256": "62b638ad74966a10629699f7c1e22d4001563da66d568731472fa2f7a2f361c4",
+  "extracted_at": "2026-10-15",
+  "extractor": {
+    "agent": "claude-code",
+    "model": "claude-opus-5-5",
+    "prompt": "synthesis/prompts/extraction-prompt.md",
+    "note": "Read every paragraph carrying transcend- (outside transcendental) or immanen-, in file order. No stratum is set: chronology.json has no entry for this commentary."
+  },
+  "coverage": "partial",
+  "coverage_note": "Term-led pass over the whole file (lines 1-384): every paragraph containing the transcendence family, including bare transcendent and immanent, was read; paragraphs without such a word were not read.",
+  "units": [
+    {
+      "id": "transzendenz/hua10/001",
+      "locator": "husserliana-10-inneres-zeitbewusstsein-commentary#h4-s1-the-exclusion-of-objective-time",
+      "primary_locator": "Hua X § 1",
+      "term": "transcendent positing",
+      "status": "presupposed",
+      "claim": "The exclusion of objective time is the reduction in its 1905 form, with the sense of suspending transcendent positing in favour of what is given as such.",
+      "quote": "This is the reduction in its 1905 form, two years before the Idea of Phenomenology lectures give it its name, and it already has the sense it will keep: suspension of transcendent positing in favour of what is given as such."
+    },
+    {
+      "id": "transzendenz/hua10/002",
+      "locator": "husserliana-10-inneres-zeitbewusstsein-commentary#h4-s1-the-exclusion-of-objective-time",
+      "primary_locator": "Hua X § 1",
+      "term": "immanent time",
+      "status": "introduced",
+      "claim": "The time accepted as existing is the immanent time of the flow of consciousness, not the time of the world of experience.",
+      "quote": "We do also accept a time that exists, but it is the immanent time of the flow of consciousness, not the time of the world of experience."
+    },
+    {
+      "id": "transzendenz/hua10/003",
+      "locator": "husserliana-10-inneres-zeitbewusstsein-commentary#h4-s1-the-exclusion-of-objective-time",
+      "primary_locator": "Hua X § 1",
+      "term": "transcendencies",
+      "status": "introduced",
+      "claim": "Objective space, objective time and the objective world of actual things and events are all transcendencies.",
+      "quote": "Objective space, objective time and the objective world of actual things and events are all transcendencies."
+    },
+    {
+      "id": "transzendenz/hua10/004",
+      "locator": "husserliana-10-inneres-zeitbewusstsein-commentary#h4-s1-the-exclusion-of-objective-time",
+      "primary_locator": "Hua X § 1",
+      "term": "transcendence",
+      "status": "criticized",
+      "claim": "Transcendent here does not mean a thing in itself behind appearances; it is the transcendence of the appearing object over the experience in which it appears.",
+      "quote": "The transcendence in question is that of the appearing object over the experience in which it appears, not that of a Kantian noumenon over phenomena."
+    },
+    {
+      "id": "transzendenz/hua10/005",
+      "locator": "husserliana-10-inneres-zeitbewusstsein-commentary#h4-s6-critique",
+      "primary_locator": "Hua X § 6",
+      "term": "transcendent presuppositions",
+      "status": "criticized",
+      "claim": "Brentano's theory does not stand on phenomenological ground because it works with transcendent presuppositions, existing temporal objects that cause sensations.",
+      "quote": "It does not stand on the ground required for a phenomenological analysis: it works with transcendent presuppositions, with existing temporal objects that exert \"stimuli\" and \"cause\" sensations in us."
+    },
+    {
+      "id": "transzendenz/hua10/006",
+      "locator": "husserliana-10-inneres-zeitbewusstsein-commentary#h4-s6-critique",
+      "primary_locator": "Hua X § 6",
+      "term": "transcending consciousness",
+      "status": "presupposed",
+      "claim": "An added temporal moment attached to a present content cannot explain the transcending consciousness that A is past.",
+      "quote": "The presence of an A in consciousness, with a new moment attached, even if we call it the moment of pastness, cannot explain the transcending consciousness that A is past."
+    },
+    {
+      "id": "transzendenz/hua10/007",
+      "locator": "husserliana-10-inneres-zeitbewusstsein-commentary#h4-s13-necessity-of-an-impression-preceding-every-retention-the-evidence-of-retenti",
+      "primary_locator": "Hua X § 13",
+      "term": "transcendent objects",
+      "status": "presupposed",
+      "claim": "For transcendent objects retention guarantees only that the object was perceived, not that it existed, whereas for immanent objects the retained succession is absolutely certain.",
+      "quote": "For transcendent objects, retention guarantees only that the object was perceived, not that it existed, since perception itself can deceive."
+    },
+    {
+      "id": "transzendenz/hua10/008",
+      "locator": "husserliana-10-inneres-zeitbewusstsein-commentary#h4-s22-the-evidence-of-reproduction",
+      "primary_locator": "Hua X § 22",
+      "term": "immanent and transcendent evidence",
+      "status": "presupposed",
+      "claim": "The editor dates the core of §22 before 1901, which shows that the distinction between immanent and transcendent evidence in time-consciousness predates the 1905 lectures.",
+      "quote": "The editor dates the core of §22 to a sheet probably written before 1901, which shows that the distinction between immanent and transcendent evidence in time-consciousness predates the 1905 lectures."
+    },
+    {
+      "id": "transzendenz/hua10/009",
+      "locator": "husserliana-10-inneres-zeitbewusstsein-commentary#h4-s31-primal-impression-and-the-objective-individual-point-of-time",
+      "primary_locator": "Hua X § 31",
+      "term": "transcendent processes",
+      "status": "presupposed",
+      "claim": "Every apprehension, however transcendent, is bound by the law that transcendent processes are given only as a past ending in a present limit, because their sensory basis is so given.",
+      "quote": "The law is universal: transcendent processes are given only as a past ending in a present limit, because their sensory basis is so given."
+    },
+    {
+      "id": "transzendenz/hua10/010",
+      "locator": "husserliana-10-inneres-zeitbewusstsein-commentary#h4-s34-distinction-of-the-levels-of-constitution",
+      "primary_locator": "Hua X § 34",
+      "term": "immanent unities",
+      "status": "introduced",
+      "claim": "Three levels of constitution are distinguished: things in objective time, the immanent unities in pre-empirical time, and the absolute time-constituting flow, which is not itself a unity in time.",
+      "quote": "second, the constituting manifolds of appearance of various levels, the immanent unities in pre-empirical time; third, the absolute time-constituting flow of consciousness"
+    },
+    {
+      "id": "transzendenz/hua10/011",
+      "locator": "husserliana-10-inneres-zeitbewusstsein-commentary#h4-s37-appearances-of-transcendent-objects-as-constituted-unities",
+      "primary_locator": "Hua X § 37",
+      "term": "transcendent object",
+      "status": "introduced",
+      "claim": "Husserl requires distinguishing everywhere consciousness as flow, appearance as immanent object, and the transcendent object.",
+      "quote": "We must distinguish everywhere: consciousness, which is flow; appearance, which is immanent object; and transcendent object, unless a primary content is the immanent object."
+    },
+    {
+      "id": "transzendenz/hua10/012",
+      "locator": "husserliana-10-inneres-zeitbewusstsein-commentary#h4-s37-appearances-of-transcendent-objects-as-constituted-unities",
+      "primary_locator": "Hua X § 37",
+      "term": "immanent unity",
+      "status": "revised",
+      "claim": "The act of the Logical Investigations is revised into a constituted immanent unity rather than the ultimate subjective term.",
+      "quote": "Husserl here revises his own earlier doctrine: the \"act\" of the Logical Investigations turns out to be a constituted immanent unity, not the ultimate subjective term."
+    },
+    {
+      "id": "transzendenz/hua10/013",
+      "locator": "husserliana-10-inneres-zeitbewusstsein-commentary#h4-s43-constitution-of-thing-appearances-and-things-constituted-apprehensions-and-p",
+      "primary_locator": "Hua X § 43",
+      "term": "transcendent intentionality",
+      "status": "introduced",
+      "claim": "Acts have transcendent intentionality only through something immanently constituted, the apprehensions, so transcendent intentionality is always mediated by immanent constitution.",
+      "quote": "Transcendent intentionality is always mediated by immanent constitution, and the relation between the two can become the object of a higher act, which is how the phenomenological attitude itself becomes possible."
+    },
+    {
+      "id": "transzendenz/hua10/014",
+      "locator": "husserliana-10-inneres-zeitbewusstsein-commentary#h4-s43-constitution-of-thing-appearances-and-things-constituted-apprehensions-and-p",
+      "primary_locator": "Hua X § 43",
+      "term": "transcendent presenting",
+      "status": "presupposed",
+      "claim": "Immanent impression and perceiving are both presenting, but the immanent unity is given directly in the flow while the transcendent object is given through appearances.",
+      "quote": "Both levels are presentings; but the immanent unity is given directly in the flow, while the transcendent object is given through appearances."
+    },
+    {
+      "id": "transzendenz/hua10/015",
+      "locator": "husserliana-10-inneres-zeitbewusstsein-commentary#h4-s43-constitution-of-thing-appearances-and-things-constituted-apprehensions-and-p",
+      "primary_locator": "Hua X § 43",
+      "term": "immanent time",
+      "status": "presupposed",
+      "claim": "Objective time coincides with phenomenological time because thing-apprehensions ride on temporally constituted sensory data; objective time is immanent time objectified through the apprehension of things.",
+      "quote": "Objective time coincides point for point with phenomenological time because thing-apprehensions ride on sensory data that are themselves temporally constituted; objective time is immanent time objectified through the apprehension of things."
+    },
+    {
+      "id": "transzendenz/hua10/016",
+      "locator": "husserliana-10-inneres-zeitbewusstsein-commentary#h4-s44-inner-and-outer-perception",
+      "primary_locator": "Hua X § 44",
+      "term": "immanent object",
+      "status": "presupposed",
+      "claim": "There is no appearance between inner perception and its object, since the immanent object does not present itself in profiles.",
+      "quote": "There is no appearance between inner perception and its object, since the immanent object does not present itself in profiles."
+    },
+    {
+      "id": "transzendenz/hua10/017",
+      "locator": "husserliana-10-inneres-zeitbewusstsein-commentary#h4-s45-constitution-of-non-temporal-transcendencies",
+      "primary_locator": "Hua X § 45",
+      "term": "non-temporal transcendencies",
+      "status": "introduced",
+      "claim": "Every consciousness is a constituted immanent unity related to its objectivity, but not every consciousness constitutes something temporal: every act is in immanent time, yet not every object is temporal.",
+      "quote": "Every act is in immanent time, but not every object is temporal."
+    }
+  ],
+  "absences": [
+    {
+      "locator": "husserliana-10-inneres-zeitbewusstsein-commentary#h4-s36-the-time-constituting-flow-as-absolute-subjectivity",
+      "expected_because": "§34 and §37 place the absolute flow beneath the immanent unities and the transcendent object, and this section names that flow absolute subjectivity.",
+      "absent_terms": [
+        "transcendence",
+        "transcendent",
+        "immanence",
+        "immanent"
+      ]
+    },
+    {
+      "locator": "husserliana-10-inneres-zeitbewusstsein-commentary#h4-s16-perception-as-presentation-in-contrast-to-retention-and-recollection",
+      "expected_because": "§13 had divided the evidence of retention by immanent and transcendent object, and this section contrasts perception with retention and recollection.",
+      "absent_terms": [
+        "transcendence",
+        "transcendent",
+        "immanence",
+        "immanent"
+      ]
+    }
+  ]
+}

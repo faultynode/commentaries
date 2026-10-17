@@ -1,0 +1,93 @@
+{
+  "schema_version": 1,
+  "theme": "transzendenz",
+  "commentary": "husserliana-43-2-studien-zur-struktur-des-bewusstseins-commentary",
+  "source_sha256": "de3e5a483e12df5f193371e25a8ec4031915b2b37114f7b2f7f5a0e241c6dbd6",
+  "extracted_at": "2026-10-15",
+  "extractor": {
+    "agent": "claude-code",
+    "model": "claude-opus-5-5",
+    "prompt": "synthesis/prompts/extraction-prompt.md",
+    "note": "Read every paragraph carrying transcend- (outside transcendental), immanen- or going beyond, in file order. The commentary renders transient as the counterpart of immanent; units using it are recorded under that term. No stratum is set: the record does not tie these sections to the September or November 1911 manuscripts."
+  },
+  "coverage": "partial",
+  "coverage_note": "Term-led pass over the whole file (lines 1-521): every paragraph containing the transcendence family, including bare transcendent and immanent, was read; paragraphs without such a word were not read, and transient alone was not searched.",
+  "units": [
+    {
+      "id": "transzendenz/hua43-2/001",
+      "locator": "husserliana-43-2-studien-zur-struktur-des-bewusstseins-commentary#h3-s-2-empirical-apperception-and-apperception-of-feeling-do-belief-and-pleasure-st",
+      "term": "immanent and transient intuition",
+      "status": "introduced",
+      "claim": "On both the empirical and the feeling side Husserl distinguishes immanent and transient intuition, immanent perception and memory being directed at primary contents.",
+      "quote": "On both sides we distinguish immanent and transient intuition."
+    },
+    {
+      "id": "transzendenz/hua43-2/002",
+      "locator": "husserliana-43-2-studien-zur-struktur-des-bewusstseins-commentary#h3-s-4-feeling-motivation-in-distinction-from-empirical-associative-motivation",
+      "term": "transcendence",
+      "status": "introduced",
+      "claim": "As perception, so the pleasing has its transcendence, since its united intentions point to possible fulfillments.",
+      "quote": "As perception, so the pleasing too has its transcendence."
+    },
+    {
+      "id": "transzendenz/hua43-2/003",
+      "locator": "husserliana-43-2-studien-zur-struktur-des-bewusstseins-commentary#h3-s-4-feeling-motivation-in-distinction-from-empirical-associative-motivation",
+      "term": "transcendent predicate",
+      "status": "presupposed",
+      "claim": "Value in general is a transcendent predicate referring to empirical thingnesses, though immanent valuation, as of a sequence of tones, is also possible.",
+      "quote": "In general value is a transcendent predicate and as such refers to empirical thingnesses."
+    },
+    {
+      "id": "transzendenz/hua43-2/004",
+      "locator": "husserliana-43-2-studien-zur-struktur-des-bewusstseins-commentary#h3-s-5-valuing-as-an-act-founded-in-perceiving-fulfillment-of-the-value-meaning-imm",
+      "term": "transcendent thing-perception",
+      "status": "presupposed",
+      "claim": "Co-meant-nesses that essentially belong to transcendent thing-perception must be distinguished from other co-meant-nesses that are not thoughts.",
+      "quote": "There presses urgently a need to distinguish sharply between co-meant-nesses that one must essentially count as belonging to transcendent thing-perception"
+    },
+    {
+      "id": "transzendenz/hua43-2/005",
+      "locator": "husserliana-43-2-studien-zur-struktur-des-bewusstseins-commentary#h3-s-5-valuing-as-an-act-founded-in-perceiving-fulfillment-of-the-value-meaning-imm",
+      "term": "transcendent value",
+      "status": "introduced",
+      "claim": "An editorial footnote states that transient values constitute themselves through transient apperceptions, as a new unity in valuing on the ground of the thing-unity.",
+      "quote": "and the constitution of the transcendent value is not such that to every thing-appearance a valuation-moment is correlated in the value-consciousness"
+    },
+    {
+      "id": "transzendenz/hua43-2/006",
+      "locator": "husserliana-43-2-studien-zur-struktur-des-bewusstseins-commentary#h3-s-5-valuing-as-an-act-founded-in-perceiving-fulfillment-of-the-value-meaning-imm",
+      "term": "immanent values",
+      "status": "introduced",
+      "claim": "Valuation of things leads back to immanent valuations of intuitive moments; primary values are immanent values.",
+      "quote": "Primary values are immanent values — values that hang directly on something immanent."
+    },
+    {
+      "id": "transzendenz/hua43-2/007",
+      "locator": "husserliana-43-2-studien-zur-struktur-des-bewusstseins-commentary#h3-appendix-iii-sensible-feeling-as-immanent-time-unity-is-not-an-act-referred-to-t",
+      "term": "immanent time-unity",
+      "status": "presupposed",
+      "claim": "The primary content constitutes itself as immanent time-unity in inner time-consciousness, with sensible feeling presumably a higher layer over it.",
+      "quote": "The primary content as immanent time-unity constitutes itself in inner time-consciousness"
+    },
+    {
+      "id": "transzendenz/hua43-2/008",
+      "locator": "husserliana-43-2-studien-zur-struktur-des-bewusstseins-commentary#h3-s-1-affection-apprehension-turning-toward-and-creative-act-of-the-understanding",
+      "term": "immanent time",
+      "status": "presupposed",
+      "claim": "The layer of mere affections, where primary contents constitute themselves, has the original a priori form of all immanent experiences, immanent time.",
+      "quote": "Here we have an original and a priori form, the form of all immanent experiences: immanent time."
+    }
+  ],
+  "absences": [
+    {
+      "locator": "husserliana-43-2-studien-zur-struktur-des-bewusstseins-commentary#h3-s-1-determinations-of-the-thing-and-determinations-of-value",
+      "expected_because": "Determinations of value are set against determinations of the thing here, and §4 calls value in general a transcendent predicate referring to empirical thingnesses.",
+      "absent_terms": [
+        "transcendence",
+        "transcends",
+        "immanence",
+        "immanent"
+      ]
+    }
+  ]
+}

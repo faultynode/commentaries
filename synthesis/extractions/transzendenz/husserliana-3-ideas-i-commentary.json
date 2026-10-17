@@ -1,0 +1,59 @@
+{
+  "schema_version": 1,
+  "theme": "transzendenz",
+  "commentary": "husserliana-3-ideas-i-commentary",
+  "source_sha256": "0f40bb506a3cb3ce3ab197b64c92a50782bb9d16455890379fd490b14e6d691b",
+  "extracted_at": "2026-10-15",
+  "extractor": {
+    "agent": "claude-code",
+    "model": "claude-opus-5-5",
+    "prompt": "synthesis/prompts/extraction-prompt.md",
+    "note": "Read every paragraph carrying transcend- (outside transcendental) or immanen-, in file order."
+  },
+  "coverage": "partial",
+  "coverage_note": "Term-led pass over the whole file (lines 1-467): every paragraph containing the transcendence family, including bare transcendent and immanent, was read; paragraphs without such a word were not read.",
+  "units": [
+    {
+      "id": "transzendenz/hua3/001",
+      "locator": "husserliana-3-ideas-i-commentary#h2-s-113-actual-and-potential-positings",
+      "primary_locator": "Ideas I § 113",
+      "stratum": "hua3-1913",
+      "term": "transcendently directed perceptions",
+      "status": "presupposed",
+      "claim": "Beside immanent perceptions that actually posit their objects there are transcendently directed positing perceptions, the outer perceptions.",
+      "quote": "Alongside these there are also transcendently directed perceptions of the same being-positing character—the so-called outer perceptions."
+    },
+    {
+      "id": "transzendenz/hua3/002",
+      "locator": "husserliana-3-ideas-i-commentary#h2-s-144-reality-and-originarily-giving-consciousness-concluding-determinations",
+      "primary_locator": "Ideas I § 144",
+      "stratum": "hua3-1913",
+      "term": "transcendence",
+      "status": "introduced",
+      "claim": "Being is either immanent, as closed experience or noematic correlate, or transcendent, whose transcendence lies in the infinity of the noematic correlate required as its matter.",
+      "quote": "In one case, being is “immanent”—being as a closed experience or noematic experience-correlate; in the other, transcendent being, whose “transcendence” lies in the infinity of the noematic correlate required as its being-“matter.”"
+    },
+    {
+      "id": "transzendenz/hua3/003",
+      "locator": "husserliana-3-ideas-i-commentary#h2-s-144-reality-and-originarily-giving-consciousness-concluding-determinations",
+      "primary_locator": "Ideas I § 144",
+      "stratum": "hua3-1913",
+      "term": "transcending intuition",
+      "status": "presupposed",
+      "claim": "Where giving intuition is transcending, adequate givenness is impossible and only the Idea of the objectuality with an a priori rule for inadequate experiences can be given.",
+      "quote": "Where the giving intuition is transcending, adequate givenness is impossible; only the Idea of such an objectuality can be given, together with an a priori rule for the lawful infinities of inadequate experiences."
+    }
+  ],
+  "absences": [
+    {
+      "locator": "husserliana-3-ideas-i-commentary#h2-s-149-the-reason-theoretical-problems-of-the-regional-ontologies-the-problem-of",
+      "expected_because": "The constitution problem of the regions follows §144, which divided being into the immanent and the transcendent given only as an Idea.",
+      "absent_terms": [
+        "transcendence",
+        "transcends",
+        "immanence",
+        "immanent"
+      ]
+    }
+  ]
+}

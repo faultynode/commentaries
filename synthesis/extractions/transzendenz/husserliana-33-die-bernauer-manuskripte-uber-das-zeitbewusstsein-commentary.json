@@ -1,0 +1,157 @@
+{
+  "schema_version": 1,
+  "theme": "transzendenz",
+  "commentary": "husserliana-33-die-bernauer-manuskripte-uber-das-zeitbewusstsein-commentary",
+  "source_sha256": "7824dfc668eb525991d53ab3355fb32c76040ee942ce34e20338a34d494b2530",
+  "extracted_at": "2026-10-15",
+  "extractor": {
+    "agent": "claude-code",
+    "model": "claude-opus-5-5",
+    "prompt": "synthesis/prompts/extraction-prompt.md",
+    "note": "Read every paragraph carrying transcend- (outside transcendental) or immanen-, in file order. No stratum is set: the commentary works text by text and the record does not assign texts to the 1917 and 1918 stays."
+  },
+  "coverage": "partial",
+  "coverage_note": "Term-led pass over the whole file (lines 1-969): every paragraph containing the transcendence family, including bare transcendent and immanent, was read; paragraphs without such a word were not read. Most occurrences are the technical \"immanent time-object\"; only places where immanence or transcendence does work are recorded.",
+  "units": [
+    {
+      "id": "transzendenz/hua33/001",
+      "locator": "husserliana-33-die-bernauer-manuskripte-uber-das-zeitbewusstsein-commentary#h2-iii",
+      "term": "immanent time-objects",
+      "status": "introduced",
+      "claim": "The editors report that the earlier texts call sensations immanent time-objects, distinguished from transcendent objects in objective time.",
+      "quote": "Sensations are called \"immanent time-objects\" in the earlier texts, distinguished from transcendent objects in objective time (e.g., a violin tone)."
+    },
+    {
+      "id": "transzendenz/hua33/002",
+      "locator": "husserliana-33-die-bernauer-manuskripte-uber-das-zeitbewusstsein-commentary#h2-iii",
+      "term": "transcendent object",
+      "status": "presupposed",
+      "claim": "As a transcendent object constitutes itself in the apprehension of a sensation-datum, so sensation constitutes itself in absolute consciousness as an immanent time-object.",
+      "quote": "Just as a transcendent object constitutes itself in the apprehension of a sensation-datum, so sensation itself constitutes itself in \"absolute\" consciousness as a (present, past, or future) immanent time-object."
+    },
+    {
+      "id": "transzendenz/hua33/003",
+      "locator": "husserliana-33-die-bernauer-manuskripte-uber-das-zeitbewusstsein-commentary#h2-iii",
+      "term": "immanent time-objects",
+      "status": "presupposed",
+      "claim": "The flow of absolute retentional consciousness has a double intentionality, one transverse intentionality directed at immanent time-objects and one longitudinal intentionality of self-reference.",
+      "quote": "The flow of \"absolute\" retentional consciousness thus harbors a double intentionality: one directed at immanent time-objects (\"transverse intentionality\" / Querintentionalität) and one having the form of self-reference or self-consciousness of the flow"
+    },
+    {
+      "id": "transzendenz/hua33/004",
+      "locator": "husserliana-33-die-bernauer-manuskripte-uber-das-zeitbewusstsein-commentary#h4-s-1-by-way-of-introduction-the-rigid-time-order-and-the-flow-of-time-modalities",
+      "term": "mutually transcendent egos",
+      "status": "introduced",
+      "claim": "Husserl distinguishes immanent from transcendent time and states that all egos, constituted as mutually transcendent, have the same time-modality and stand in the same Now.",
+      "quote": "All egos (constituted as mutually transcendent) simultaneously have the same modality of time, stand in the same Now."
+    },
+    {
+      "id": "transzendenz/hua33/005",
+      "locator": "husserliana-33-die-bernauer-manuskripte-uber-das-zeitbewusstsein-commentary#h4-s-1-how-does-the-perception-of-immanent-data-differ-from-the-inner-consciousness",
+      "term": "immanent",
+      "status": "revised",
+      "claim": "Where perception is taken as an act-objectivity in immanent time, immanent has the Ideas sense of relation to adequately given objectivities in an adequately given time-form, and the argument against unchanging perception fails.",
+      "quote": "\"Immanent\" here has the Ideas sense: relation to the unity of adequately given objectivities in an adequately given time-form."
+    },
+    {
+      "id": "transzendenz/hua33/006",
+      "locator": "husserliana-33-die-bernauer-manuskripte-uber-das-zeitbewusstsein-commentary#h4-s-5-noetic-and-noematic-temporality",
+      "term": "immanent perception",
+      "status": "presupposed",
+      "claim": "The immanent perception does not properly constitute the perceived but is a correlative unity of immanent time, and immanent temporal objectivity itself points back to the primal process.",
+      "quote": "The immanent perception is not what properly constitutes the perceived but is a correlative, essentially belonging unity of immanent time."
+    },
+    {
+      "id": "transzendenz/hua33/007",
+      "locator": "husserliana-33-die-bernauer-manuskripte-uber-das-zeitbewusstsein-commentary#h4-s-4-the-multiple-times-and-the-one-time-subjective-and-intersubjective-time",
+      "term": "pure immanence",
+      "status": "presupposed",
+      "claim": "In pure immanence no plurality of subjects is first given, so immanent time comes first, then the constitution of an objective non-immanent time, then intersubjective time.",
+      "quote": "So first we have immanent time, then the problem of constituting an \"objective\" non-immanent time, then a time constituting foreign and own consciousness as human, intersubjectively identifiable."
+    },
+    {
+      "id": "transzendenz/hua33/008",
+      "locator": "husserliana-33-die-bernauer-manuskripte-uber-das-zeitbewusstsein-commentary#h3-supplement-iv-to-s-3-of-text-nr-8-is-the-presently-originally-given-tone-point-a",
+      "term": "immanent objects",
+      "status": "criticized",
+      "claim": "Even for immanent objects the constituted unity can never be a piece of the constituting consciousness; the real hyletic datum is a component of consciousness, not of the conscious object.",
+      "quote": "Even for immanent objects, the constituted unity of consciousness can never be a consciousness-piece in the constituting consciousness."
+    },
+    {
+      "id": "transzendenz/hua33/009",
+      "locator": "husserliana-33-die-bernauer-manuskripte-uber-das-zeitbewusstsein-commentary#h4-s-1-outer-perception-is-founded-in-the-time-objects-of-immanent-perception",
+      "term": "transcendence",
+      "status": "introduced",
+      "claim": "Outer perception is a continuous course of inner perceptions of immanent temporalities, through which a second intentionality constitutes the outer object in its transcendence and objective time.",
+      "quote": "outer perception is in its essence a continuous course of \"inner\" perceptions (perceptions of immanent temporalities), through which a second intentionality runs, constituting the outer object in its transcendence and objective time through \"representation.\""
+    },
+    {
+      "id": "transzendenz/hua33/010",
+      "locator": "husserliana-33-die-bernauer-manuskripte-uber-das-zeitbewusstsein-commentary#h4-s-3-various-concepts-of-apprehension-in-outer-and-immanent-perception-the-intent",
+      "term": "immanent perceiving",
+      "status": "criticized",
+      "claim": "Immanent perceiving can no longer be called apprehending in the sense of outer perception, since no deeper constituted object lies beneath the sensation-datum.",
+      "quote": "He considers whether immanent perceiving can itself be called apprehending—but in the same sense, no longer: there is no concrete consciousness with a still-deeper constituted object lying beneath the sensation-datum."
+    },
+    {
+      "id": "transzendenz/hua33/011",
+      "locator": "husserliana-33-die-bernauer-manuskripte-uber-das-zeitbewusstsein-commentary#h4-s-3-the-perceivability-of-temporal-objects-of-various-levels-perception-with-and",
+      "term": "immanent objects",
+      "status": "presupposed",
+      "claim": "The being of immanent objects is inseparable from the being of their constituting process, unless that process is a last primal process conscious of itself.",
+      "quote": "their being is inseparable from the being of their constituting process"
+    },
+    {
+      "id": "transzendenz/hua33/012",
+      "locator": "husserliana-33-die-bernauer-manuskripte-uber-das-zeitbewusstsein-commentary#h4-s-4-phenomenological-idealism-real-and-ideally-possible-subjects-and-the-perceiv",
+      "term": "transcendent objects",
+      "status": "presupposed",
+      "claim": "Within the discussion of phenomenological idealism, the perceivability of transcendent objects does not require that they be immanent, and spatial objects can be without being actually perceived.",
+      "quote": "The perceivability of transcendent objects does not require that they be \"immanent.\" Spatial objects can be without being actually perceived."
+    },
+    {
+      "id": "transzendenz/hua33/013",
+      "locator": "husserliana-33-die-bernauer-manuskripte-uber-das-zeitbewusstsein-commentary#h4-s-2-the-objection-of-the-infinite-regress-are-the-experiences-constituting-the-e",
+      "term": "second transcendence-level",
+      "status": "introduced",
+      "claim": "The diagram shows the constitution both of the time-stretch of the event and of the sequence of constituting experiences of the second transcendence-level.",
+      "quote": "but also the sequence of constituting experiences of the second transcendence-level"
+    },
+    {
+      "id": "transzendenz/hua33/014",
+      "locator": "husserliana-33-die-bernauer-manuskripte-uber-das-zeitbewusstsein-commentary#h4-s-1-the-eidetic-shape-of-psychic-interiority-temporal-ur-genesis-ego-and-hyle",
+      "term": "transcendent objective world",
+      "status": "presupposed",
+      "claim": "A purely hyletic environment as first immanent temporal objectivity co-develops with the lowest-level ego up to the empirical ego that has a transcendent objective world over against it.",
+      "quote": "the latter up to the empirical ego that has a transcendent objective world over against it"
+    },
+    {
+      "id": "transzendenz/hua33/015",
+      "locator": "husserliana-33-die-bernauer-manuskripte-uber-das-zeitbewusstsein-commentary#h4-s-2-the-pure-ego-and-time-the-ego-as-all-temporal-individual-and-as-secondary-ti",
+      "term": "immanent individuality",
+      "status": "introduced",
+      "claim": "Everything in the pure consciousness-stream can change within filled immanent time except the ego, which is the necessary immanent individuality.",
+      "quote": "It is the necessary immanent individuality."
+    },
+    {
+      "id": "transzendenz/hua33/016",
+      "locator": "husserliana-33-die-bernauer-manuskripte-uber-das-zeitbewusstsein-commentary#h4-s-3-the-temporal-essential-determinations-of-the-constituting-consciousness-and",
+      "term": "immanent time",
+      "status": "presupposed",
+      "claim": "For mediately constituted physical spatial objects, immanent time serves as apprehensive representative, and through it an objective apprehended time accrues.",
+      "quote": "When objects are mediately constituted (e.g., \"physical\" spatial objects), immanent time serves as apprehensive representative — and through this representation, an \"objective\" apprehended time accrues."
+    }
+  ],
+  "absences": [
+    {
+      "locator": "husserliana-33-die-bernauer-manuskripte-uber-das-zeitbewusstsein-commentary#h4-s-1-modification-of-clarity-with-identical-objectual-apprehension-in-perception",
+      "expected_because": "The section holds the objectual apprehension identical across perception, retention, recollection and phantasy, the point at which Part III separates the transcendent object from the immanent data that represent it.",
+      "absent_terms": [
+        "transcendence",
+        "transcendent",
+        "immanence",
+        "immanent"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,181 @@
+{
+  "schema_version": 1,
+  "theme": "transzendenz",
+  "commentary": "husserliana-39-die-lebenswelt-commentary",
+  "source_sha256": "6b1e894a20852eb6bab8717705a8643df666eb07892dc46e152d195ae0107d0b",
+  "extracted_at": "2026-10-15",
+  "extractor": {
+    "agent": "claude-code",
+    "model": "claude-opus-5-5",
+    "prompt": "synthesis/prompts/extraction-prompt.md",
+    "note": "Read every paragraph carrying transcend- (outside transcendental), immanen-, surpass or going beyond, in file order. Strata are set only where the section is the dated text itself (Text Nr. 2 and Supplement I ca. 1920, Text Nr. 3 1921); sections whose text number the record cannot tie to a date carry none. Supplement XXXI carries the theme only in its heading and is not recorded."
+  },
+  "coverage": "partial",
+  "coverage_note": "Term-led pass over the whole file (lines 1-1463): every paragraph containing the transcendence family, including bare transcendent and immanent, was read; paragraphs without such a word were not read.",
+  "units": [
+    {
+      "id": "transzendenz/hua39/001",
+      "locator": "husserliana-39-die-lebenswelt-commentary#h3-text-nr-2-background-and-pre-givenness-differences-of-pre-givenness-prominence-a",
+      "primary_locator": "Hua XXXIX, Text Nr. 2",
+      "stratum": "hua39-ca-1920",
+      "term": "transcendent apperception",
+      "status": "introduced",
+      "claim": "The background datum is an immanent, originally constituted intentional objectuality that functions for a transcendent apperception in the pregnant sense.",
+      "quote": "It is an \"intentional objectuality,\" an immanent one, originally constituted, here functioning in a certain way for a \"transcendent apperception,\" an apperception in the pregnant sense."
+    },
+    {
+      "id": "transzendenz/hua39/002",
+      "locator": "husserliana-39-die-lebenswelt-commentary#h3-text-nr-2-background-and-pre-givenness-differences-of-pre-givenness-prominence-a",
+      "primary_locator": "Hua XXXIX, Text Nr. 2, p. 11",
+      "stratum": "hua39-ca-1920",
+      "term": "immanent and transcendent constitutions",
+      "status": "introduced",
+      "claim": "Husserl distinguishes immanent constitutions, which play out in pure passivity under rigid lawfulness, from transcendent constitutions, in which ego-activity plays a genetically constitutive role.",
+      "quote": "There is a difference between immanent and transcendent constitutions — between those that originally and genetically must play out in pure passivity and according to original and rigid lawfulness (like the constitution of immanent data) and transcendent constitutions"
+    },
+    {
+      "id": "transzendenz/hua39/003",
+      "locator": "husserliana-39-die-lebenswelt-commentary#h3-text-nr-2-background-and-pre-givenness-differences-of-pre-givenness-prominence-a",
+      "primary_locator": "Hua XXXIX, Text Nr. 2",
+      "stratum": "hua39-ca-1920",
+      "term": "transcendent things",
+      "status": "presupposed",
+      "claim": "Transcendent objects are always already apperceived and pre-given as background-things, whereas immanent data can in their first genesis be constituted without apperception.",
+      "quote": "Transcendent things are always pre-given in this pregnant sense; immanent data are not."
+    },
+    {
+      "id": "transzendenz/hua39/004",
+      "locator": "husserliana-39-die-lebenswelt-commentary#h3-text-nr-2-background-and-pre-givenness-differences-of-pre-givenness-prominence-a",
+      "primary_locator": "Hua XXXIX, Text Nr. 2",
+      "stratum": "hua39-ca-1920",
+      "term": "immanent sphere",
+      "status": "presupposed",
+      "claim": "In the immanent sphere prominence and association take place but create nothing new, unlike apperception in thing-constitution.",
+      "quote": "In the immanent sphere, prominence and association indeed take place, but they create nothing new."
+    },
+    {
+      "id": "transzendenz/hua39/005",
+      "locator": "husserliana-39-die-lebenswelt-commentary#h3-text-nr-2-background-and-pre-givenness-differences-of-pre-givenness-prominence-a",
+      "primary_locator": "Hua XXXIX, Text Nr. 2",
+      "stratum": "hua39-ca-1920",
+      "term": "transcendent constitution",
+      "status": "presupposed",
+      "claim": "Since transcendent constitution always involves a universe of practical possibilities organized through kinaestheses, every perception is founded on prior apperceptive perception.",
+      "quote": "since transcendent constitution always involves a universe of practical possibilities, every act of perception is itself founded on prior apperceptive perception"
+    },
+    {
+      "id": "transzendenz/hua39/006",
+      "locator": "husserliana-39-die-lebenswelt-commentary#h3-supplement-i-background-pre-given-objectuality-end-object-and-transitional-uniti",
+      "primary_locator": "Hua XXXIX, Supplement I",
+      "stratum": "hua39-ca-1920",
+      "term": "immanently constituted being",
+      "status": "presupposed",
+      "claim": "Consciousness is not only but is conscious, and its being is immanently constituted being, individually and for the whole stream.",
+      "quote": "Consciousness is not only, but it is conscious; its being is immanently constituted being, individually and for the entire \"stream of consciousness.\""
+    },
+    {
+      "id": "transzendenz/hua39/007",
+      "locator": "husserliana-39-die-lebenswelt-commentary#h3-text-nr-3-the-world-pre-given-from-original-acquisition-not-so-consciousness-the",
+      "primary_locator": "Hua XXXIX, Text Nr. 3",
+      "stratum": "hua39-1921",
+      "term": "immanent time-world",
+      "status": "introduced",
+      "claim": "Unlike the world, the immanent time and time-world is not a world for us, not constantly there and at our disposal for immediate access.",
+      "quote": "But the immanent \"time\" and \"time-world\" is not a world for us, not constantly there for us in such a way that we could just look toward it, perceive it"
+    },
+    {
+      "id": "transzendenz/hua39/008",
+      "locator": "husserliana-39-die-lebenswelt-commentary#h3-text-nr-3-the-world-pre-given-from-original-acquisition-not-so-consciousness-the",
+      "primary_locator": "Hua XXXIX, Text Nr. 3",
+      "stratum": "hua39-1921",
+      "term": "immanent time",
+      "status": "revised",
+      "claim": "In the constitutive order the object of nature-time precedes the object of immanent time, and the outer world precedes the stream of experience.",
+      "quote": "In this sense, nature-time, i.e. the object of nature-time, precedes immanent time, i.e. the object of immanent time; the outer world precedes the stream of experience."
+    },
+    {
+      "id": "transzendenz/hua39/009",
+      "locator": "husserliana-39-die-lebenswelt-commentary#h3-text-nr-3-the-world-pre-given-from-original-acquisition-not-so-consciousness-the",
+      "primary_locator": "Hua XXXIX, Text Nr. 3",
+      "stratum": "hua39-1921",
+      "term": "immanent sphere",
+      "status": "presupposed",
+      "claim": "The immanent sphere can be constituted as existing only from the already constituted objective world, and even then remains not pre-given as the experiential world is.",
+      "quote": "Even after this constitutive achievement, the immanent sphere is and remains not pre-given in the way the objective experiential world is."
+    },
+    {
+      "id": "transzendenz/hua39/010",
+      "locator": "husserliana-39-die-lebenswelt-commentary#h3-text-nr-3-the-world-pre-given-from-original-acquisition-not-so-consciousness-the",
+      "primary_locator": "Hua XXXIX, Text Nr. 3, p. 21",
+      "stratum": "hua39-1921",
+      "term": "immanence",
+      "status": "presupposed",
+      "claim": "In immanence there lies no telos for the life of the ego; only the psychologist and epistemologist have an interest in it.",
+      "quote": "In immanence there lies no telos for the life of the ego."
+    },
+    {
+      "id": "transzendenz/hua39/011",
+      "locator": "husserliana-39-die-lebenswelt-commentary#h3-text-nr-3-the-world-pre-given-from-original-acquisition-not-so-consciousness-the",
+      "primary_locator": "Hua XXXIX, Text Nr. 3, p. 22",
+      "stratum": "hua39-1921",
+      "term": "immanence",
+      "status": "presupposed",
+      "claim": "No immanent world is constituted because in the course of genesis all immanent acquisition enters into mundane constitution.",
+      "quote": "In genetic originality, immanent affection and grasping are indeed there, but in the course of genesis all immanent acquisition enters into mundane constitution; immanence is absorbed into the function of mundane constitution."
+    },
+    {
+      "id": "transzendenz/hua39/012",
+      "locator": "husserliana-39-die-lebenswelt-commentary#h4-s-3-modalizations-of-recollection-and-empathy",
+      "term": "transcends",
+      "status": "presupposed",
+      "claim": "Empathy transcends not only the present of consciousness but with it the whole life-past and life-future as co-valid.",
+      "quote": "Empathy transcends not only my consciousness-present but, in one with it, my entire life-past and life-future as co-valid."
+    },
+    {
+      "id": "transzendenz/hua39/013",
+      "locator": "husserliana-39-die-lebenswelt-commentary#h4-s-4-the-empathy-horizon-as-validity-horizon",
+      "term": "self-transcendence",
+      "status": "introduced",
+      "claim": "The intentional analysis of the transcendental own life in its self-transcendence brings to light founding relations among transcending functions, presentification intertwined with the transcendences of mundane perception.",
+      "quote": "The intentional analysis of the transcendental own life in its self-transcendence here brings to light the founding relations of different transcending functions — the functions of presentification intertwined with the transcendences of \"mundane perception.\""
+    },
+    {
+      "id": "transzendenz/hua39/014",
+      "locator": "husserliana-39-die-lebenswelt-commentary#h3-supplement-ix-appresentation-and-presentation-with-regard-to-individual-things-a",
+      "primary_locator": "Hua XXXIX, Supplement IX",
+      "term": "transcendent perception",
+      "status": "presupposed",
+      "claim": "Husserl distinguishes presentations and appresentations: every transcendent perception presents its transcendent object only by means of appresentation.",
+      "quote": "Every transcendent perception can present its transcendent object only through the means of appresentation."
+    },
+    {
+      "id": "transzendenz/hua39/015",
+      "locator": "husserliana-39-die-lebenswelt-commentary#h3-text-nr-21-special-situation-and-the-world-as-all-situation-of-all-special-situa",
+      "primary_locator": "Hua XXXIX, Text Nr. 21",
+      "term": "transcend situational relativity",
+      "status": "introduced",
+      "claim": "The theoretical interest in being and truth can transcend situational relativity and pursue the identical in its so-being.",
+      "quote": "But the interest in being and truth can transcend situational relativity: the theoretical interest can station itself above the respective interests and pursue the identical in its so-being consequentially"
+    },
+    {
+      "id": "transzendenz/hua39/016",
+      "locator": "husserliana-39-die-lebenswelt-commentary#h3-supplement-xviii-possible-non-being-of-the-world-mogliches-nichtsein-der-welt",
+      "primary_locator": "Hua XXXIX, Supplement XVIII",
+      "term": "ego of immanence",
+      "status": "presupposed",
+      "claim": "On the possible non-being of the world, Husserl asks whether transcendental constitution could dissolve while the ego of immanence remains.",
+      "quote": "Could the transcendental constitution dissolve while I yet remain as ego of immanence?"
+    }
+  ],
+  "absences": [
+    {
+      "locator": "husserliana-39-die-lebenswelt-commentary#h3-text-nr-1-primal-institution-of-the-sense-of-being-of-pre-given-individual-being",
+      "expected_because": "The primal institution of the sense of pre-given individual being and world is the genesis that Text Nr. 2 divides into immanent constitution and transcendent constitution of pre-given things.",
+      "absent_terms": [
+        "transcendence",
+        "immanence",
+        "immanent"
+      ]
+    }
+  ]
+}

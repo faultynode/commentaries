@@ -1,0 +1,227 @@
+{
+  "schema_version": 1,
+  "theme": "transzendenz",
+  "commentary": "husserliana-3-ideas-i-parts-3-4-commentary",
+  "source_sha256": "f19201709befc4de8b6bb22946e7a6025dab23288f3e0eedcb69c94689a60ce1",
+  "extracted_at": "2026-10-15",
+  "extractor": {
+    "agent": "claude-code",
+    "model": "claude-opus-5-5",
+    "prompt": "synthesis/prompts/extraction-prompt.md",
+    "note": "Read every paragraph carrying transcend- (outside transcendental), immanen-, surpass or overstep, in file order. The commentary repeats several sentences in paraphrase; quotes are taken from the first wording where both carry the point."
+  },
+  "coverage": "partial",
+  "coverage_note": "Term-led pass over the whole file (lines 1-1499): every paragraph containing the transcendence family, including bare transcendent and immanent, was read; paragraphs without such a word were not read.",
+  "units": [
+    {
+      "id": "transzendenz/hua3-34/001",
+      "locator": "husserliana-3-ideas-i-parts-3-4-commentary#h3-s-63-the-particular-significance-of-methodological-considerations-for-phenomenol",
+      "primary_locator": "Ideas I § 63",
+      "stratum": "hua3-parts-3-4-1913",
+      "term": "transcendencies",
+      "status": "presupposed",
+      "claim": "If the phenomenological reductions are observed and all transcendencies switched off as they require, a field of eidetic cognitions opens.",
+      "quote": "switch off all transcendencies exactly as they demand, take the experiences thus purely according to their own essence, then there opens to us, according to all that has been laid out, a field of eidetic cognitions"
+    },
+    {
+      "id": "transzendenz/hua3-34/002",
+      "locator": "husserliana-3-ideas-i-parts-3-4-commentary#h3-s-64-the-self-switching-off-of-the-phenomenologist",
+      "primary_locator": "Ideas I § 64",
+      "stratum": "hua3-parts-3-4-1913",
+      "term": "transcendent-eidetic spheres",
+      "status": "presupposed",
+      "claim": "The whole natural world and all transcendent-eidetic spheres are switched off to win a pure consciousness, which raises the objection that the phenomenologists are members of the natural world.",
+      "quote": "We switch off the whole natural world and all transcendent-eidetic spheres and are thereby to win a \"pure\" consciousness."
+    },
+    {
+      "id": "transzendenz/hua3-34/003",
+      "locator": "husserliana-3-ideas-i-parts-3-4-commentary#h3-s-67-method-of-clarification-nearness-to-givenness-and-farness-from-givenness",
+      "primary_locator": "Ideas I § 67",
+      "stratum": "hua3-parts-3-4-1913",
+      "term": "immanent",
+      "status": "presupposed",
+      "claim": "A thing can never reach absolute self-givenness because of adumbration, whereas an essence or immanent moment can reach absolute clarity, since neither is adumbrated.",
+      "quote": "an essence or an immanent moment can reach absolute clarity, since the eidetic and the immanent are not adumbrated"
+    },
+    {
+      "id": "transzendenz/hua3-34/004",
+      "locator": "husserliana-3-ideas-i-parts-3-4-commentary#h3-s-76-the-theme-of-the-following-investigations",
+      "primary_locator": "Ideas I § 76",
+      "stratum": "hua3-parts-3-4-1913",
+      "term": "\"transcendent\" being",
+      "status": "introduced",
+      "claim": "The doctrine of categories must start from the most radical distinction of being: being as consciousness, and transcendent being that announces itself in consciousness.",
+      "quote": "being as consciousness, and being as the \"transcendent\" being that \"announces itself\" in consciousness"
+    },
+    {
+      "id": "transzendenz/hua3-34/005",
+      "locator": "husserliana-3-ideas-i-parts-3-4-commentary#h3-s-76-the-theme-of-the-following-investigations",
+      "primary_locator": "Ideas I § 76",
+      "stratum": "hua3-parts-3-4-1913",
+      "term": "everything transcendent",
+      "status": "presupposed",
+      "claim": "Everything transcendent that comes to givenness in consciousness is an object of phenomenological investigation, both on the side of the consciousness of it and as the given.",
+      "quote": "Everything transcendent, insofar as it comes to givenness in consciousness, is an object of phenomenological investigation not only on the side of the consciousness of it"
+    },
+    {
+      "id": "transzendenz/hua3-34/006",
+      "locator": "husserliana-3-ideas-i-parts-3-4-commentary#h3-s-78-the-phenomenological-study-of-experience-reflections",
+      "primary_locator": "Ideas I § 78",
+      "stratum": "hua3-parts-3-4-1913",
+      "term": "immanent perception",
+      "status": "presupposed",
+      "claim": "Immanent perception has absolute right for what it brings to originary givenness, immanent retention absolute right within its reach, immanent recollection only relative right.",
+      "quote": "Immanent perception has absolute right (for what it actually brings to originary givenness)."
+    },
+    {
+      "id": "transzendenz/hua3-34/007",
+      "locator": "husserliana-3-ideas-i-parts-3-4-commentary#h3-s-83-grasping-the-unitary-experience-stream-as-an-idea",
+      "primary_locator": "Ideas I § 83",
+      "stratum": "hua3-parts-3-4-1913",
+      "term": "immanent perception",
+      "status": "presupposed",
+      "claim": "The whole experience-stream is grasped indubitably as an Idea, but from a different source than immanent perception, which gives a single experience itself.",
+      "quote": "Immanent perception gives a single experience itself; the Idea gives the whole stream as the ideal pole of an endless progression."
+    },
+    {
+      "id": "transzendenz/hua3-34/008",
+      "locator": "husserliana-3-ideas-i-parts-3-4-commentary#h3-s-86-the-functional-problems",
+      "primary_locator": "Ideas I § 86",
+      "stratum": "hua3-parts-3-4-1913",
+      "term": "transcendencies",
+      "status": "presupposed",
+      "claim": "Switching off all transcendencies, phenomenology arrives on the ground of pure consciousness at the transcendental problems and so deserves the name transcendental phenomenology.",
+      "quote": "In its purely eidetic attitude, \"switching off\" all transcendencies, phenomenology comes, on its own ground of pure consciousness, necessarily to this whole complex of the transcendental problems in the specific sense"
+    },
+    {
+      "id": "transzendenz/hua3-34/009",
+      "locator": "husserliana-3-ideas-i-parts-3-4-commentary#h3-s-88-reell-and-intentional-experience-components-the-noema",
+      "primary_locator": "Ideas I § 88",
+      "stratum": "hua3-parts-3-4-1913",
+      "term": "transcendent world",
+      "status": "presupposed",
+      "claim": "The transcendent world is bracketed by the epoché, and with it the real relation between perception and perceived is switched off.",
+      "quote": "The transcendent world receives its \"bracket\"; we practice, with respect to its actual being, the epoché."
+    },
+    {
+      "id": "transzendenz/hua3-34/010",
+      "locator": "husserliana-3-ideas-i-parts-3-4-commentary#h3-s-88-reell-and-intentional-experience-components-the-noema",
+      "primary_locator": "Ideas I § 88",
+      "stratum": "hua3-parts-3-4-1913",
+      "term": "pure immanence",
+      "status": "introduced",
+      "claim": "After the epoché a relation between perception and perceived remains, an essential relation given in pure immanence rather than a real relation between two realities.",
+      "quote": "This remaining relation is not a real relation between two realities but an essential relation given in pure immanence, internal to the reduced experience itself."
+    },
+    {
+      "id": "transzendenz/hua3-34/011",
+      "locator": "husserliana-3-ideas-i-parts-3-4-commentary#h3-s-89-noematic-statements-and-reality-statements-the-noema-in-the-psychological-s",
+      "primary_locator": "Ideas I § 89",
+      "stratum": "hua3-parts-3-4-1913",
+      "term": "purely immanent",
+      "status": "presupposed",
+      "claim": "The noematic sense, as a purely immanent component of the reduced experience, is separated by an abyss from everything real.",
+      "quote": "So the noematic sense, as a purely immanent component of the reduced experience, is separated by an abyss from everything real (natural, physical, psychological)."
+    },
+    {
+      "id": "transzendenz/hua3-34/012",
+      "locator": "husserliana-3-ideas-i-parts-3-4-commentary#h3-s-90-the-noematic-sense-and-the-distinction-of-immanent-and-actual-objects",
+      "primary_locator": "Ideas I § 90",
+      "stratum": "hua3-parts-3-4-1913",
+      "term": "\"immanent\" object",
+      "status": "criticized",
+      "claim": "The names immanent and mental object mislead: separating the actual tree from an immanent tree inhering reell in the experience creates two realities where only one is findable.",
+      "quote": "Putting an \"immanent tree\" or \"inner image\" inside the experience creates two trees where there is only one."
+    },
+    {
+      "id": "transzendenz/hua3-34/013",
+      "locator": "husserliana-3-ideas-i-parts-3-4-commentary#h3-s-90-the-noematic-sense-and-the-distinction-of-immanent-and-actual-objects",
+      "primary_locator": "Ideas I § 90",
+      "stratum": "hua3-parts-3-4-1913",
+      "term": "transcendent positing",
+      "status": "presupposed",
+      "claim": "Under the reduction every transcendent positing, above all the one in perception, is bracketed, and no judgment may use the thesis of the whole transcendent nature.",
+      "quote": "If we now carry out the phenomenological reduction, every transcendent positing, above all the one lying in the perception itself, receives its switching-off bracket"
+    },
+    {
+      "id": "transzendenz/hua3-34/014",
+      "locator": "husserliana-3-ideas-i-parts-3-4-commentary#h3-s-101-characters-of-levels-the-different-re-presentations",
+      "primary_locator": "Ideas I § 101",
+      "stratum": "hua3-parts-3-4-1913",
+      "term": "transcendent unities",
+      "status": "presupposed",
+      "claim": "Image and signified, abstracted from their characters, are unities conscious in the experience but transcendent to it, so their characters cannot be reell.",
+      "quote": "The image and the signified, in abstraction from the characterizations belonging to them, \"image for,\" \"imaged,\" \"sign for,\" \"signified,\" are evidently in the experience conscious but to it transcendent unities."
+    },
+    {
+      "id": "transzendenz/hua3-34/015",
+      "locator": "husserliana-3-ideas-i-parts-3-4-commentary#h3-s-113-actual-and-potential-positings",
+      "primary_locator": "Ideas I § 113",
+      "stratum": "hua3-parts-3-4-1913",
+      "term": "transcendently directed perceptions",
+      "status": "presupposed",
+      "claim": "Beside immanent perceptions, which actually posit their objects, there are transcendently directed positing perceptions, the so-called outer ones.",
+      "quote": "Beside them there are among the same also transcendently directed, in the same sense being-positing perceptions, the so-called outer ones."
+    },
+    {
+      "id": "transzendenz/hua3-34/016",
+      "locator": "husserliana-3-ideas-i-parts-3-4-commentary#h3-s-138-adequate-and-inadequate-evidence",
+      "primary_locator": "Ideas I § 138",
+      "stratum": "hua3-parts-3-4-1913",
+      "term": "transcendences in the sense of realities",
+      "status": "presupposed",
+      "claim": "Evidence is adequate in the eidetic and immanent spheres and inadequate, defeasible and graded, in the sphere of things, the transcendences in the sense of realities.",
+      "quote": "The phenomenology of reason in the sphere of the in principle only inadequately to be given being-kinds (the transcendences in the sense of realities) has thus to study the various in this sphere a priori prefigured occurrences."
+    },
+    {
+      "id": "transzendenz/hua3-34/017",
+      "locator": "husserliana-3-ideas-i-parts-3-4-commentary#h3-s-143-adequate-thing-givenness-as-idea-in-the-kantian-sense",
+      "primary_locator": "Ideas I § 143",
+      "stratum": "hua3-parts-3-4-1913",
+      "term": "transcendent objects",
+      "status": "presupposed",
+      "claim": "All transcendent objects, all realities spanned by nature or world, can be given in no closed consciousness in complete determinateness and intuitiveness.",
+      "quote": "There are objects — and all transcendent objects, all \"realities\" that the title nature or world spans, belong here — that in no closed consciousness in complete determinateness and in equally-complete intuitiveness can be given."
+    },
+    {
+      "id": "transzendenz/hua3-34/018",
+      "locator": "husserliana-3-ideas-i-parts-3-4-commentary#h3-s-144-actuality-and-originarily-giving-consciousness-concluding-determinations",
+      "primary_locator": "Ideas I § 144",
+      "stratum": "hua3-parts-3-4-1913",
+      "term": "transcendence",
+      "status": "revised",
+      "claim": "Transcendent being is being whose transcendence lies in the infinity of the noematic correlate it demands, as against immanent being as closed experience or noematic correlate.",
+      "quote": "in the other case transcendent being, that is, being whose \"transcendence\" precisely lies in the infinity of the noematic correlate that it as being-\"matter\" demands"
+    },
+    {
+      "id": "transzendenz/hua3-34/019",
+      "locator": "husserliana-3-ideas-i-parts-3-4-commentary#h3-s-144-actuality-and-originarily-giving-consciousness-concluding-determinations",
+      "primary_locator": "Ideas I § 144",
+      "stratum": "hua3-parts-3-4-1913",
+      "term": "transcending intuition",
+      "status": "presupposed",
+      "claim": "Where giving intuition is transcending, the object cannot be adequately given; only its Idea is given, with an a priori rule for the lawful infinities of inadequate experiences.",
+      "quote": "Where the giving intuition is a transcending one, there the objective cannot come to adequate givenness; given can only be the Idea of such an objective"
+    }
+  ],
+  "absences": [
+    {
+      "locator": "husserliana-3-ideas-i-parts-3-4-commentary#h3-s-142-rational-thesis-and-being",
+      "expected_because": "The section opens the concluding determinations of §§142-144, where §144 divides truly-being into the finitely given immanent and the transcendent given only as an Idea.",
+      "absent_terms": [
+        "transcendence",
+        "immanence",
+        "immanent"
+      ]
+    },
+    {
+      "locator": "husserliana-3-ideas-i-parts-3-4-commentary#h3-s-150-continuation-the-region-thing-as-transcendental-leitfaden",
+      "expected_because": "The region thing taken as clue for constitution is the region that §§138 and 143 assign to transcendent being given only inadequately.",
+      "absent_terms": [
+        "transcendence",
+        "immanence",
+        "immanent"
+      ]
+    }
+  ]
+}

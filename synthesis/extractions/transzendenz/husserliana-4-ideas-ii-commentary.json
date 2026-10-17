@@ -1,0 +1,118 @@
+{
+  "schema_version": 1,
+  "theme": "transzendenz",
+  "commentary": "husserliana-4-ideas-ii-commentary",
+  "source_sha256": "a97925ac88907450688fc8f864e75ad4829d2163e36c93ac39689417154fe1af",
+  "extracted_at": "2026-10-15",
+  "extractor": {
+    "agent": "claude-code",
+    "model": "claude-opus-5-5",
+    "prompt": "synthesis/prompts/extraction-prompt.md",
+    "note": "Read every paragraph carrying transcend- (outside transcendental) or immanen-, in file order. No stratum is set: the commentary does not tie these sections to the 1912, 1915, Stein, Landgrebe or later strata."
+  },
+  "coverage": "partial",
+  "coverage_note": "Term-led pass over the whole file (lines 1-1213): every paragraph containing the transcendence family, including bare transcendent and immanent, was read; paragraphs without such a word were not read.",
+  "units": [
+    {
+      "id": "transzendenz/hua4/001",
+      "locator": "husserliana-4-ideas-ii-commentary#h3-s1-preliminary-delimitation-of-the-concepts-of-nature-and-experience-exclusion-o",
+      "primary_locator": "Ideas II § 1",
+      "term": "transcendent realities",
+      "status": "presupposed",
+      "claim": "Nature is initially determined as the field of transcendent realities, specifically spatiotemporal realities.",
+      "quote": "He recalls the initial determination that nature is the field of transcendent realities, specifically spatiotemporal realities."
+    },
+    {
+      "id": "transzendenz/hua4/002",
+      "locator": "husserliana-4-ideas-ii-commentary#h3-s28-the-real-ego-as-transcendent-object-constituted-the-pure-ego-as-immanently-g",
+      "primary_locator": "Ideas II § 28",
+      "term": "immanent phenomenological time",
+      "status": "introduced",
+      "claim": "Pure egos are given originally and in absolute selfhood in immanent phenomenological time, without constitution through manifolds, whereas real egos and all realities stand in reverse.",
+      "quote": "in the sphere of immanent phenomenological time, neither capable of nor requiring constitution through “manifolds” — with the real egos and all realities things stand in reverse"
+    },
+    {
+      "id": "transzendenz/hua4/003",
+      "locator": "husserliana-4-ideas-ii-commentary#h3-s30-the-real-psychic-subject",
+      "primary_locator": "Ideas II § 30",
+      "term": "transcendent",
+      "status": "presupposed",
+      "claim": "The psychic ego is not the monadic flux nor a real moment of it but a unity essentially referred to it yet in a certain sense transcendent to it.",
+      "quote": "but rather a unity essentially referred to it yet in a certain sense transcendent to it"
+    },
+    {
+      "id": "transzendenz/hua4/004",
+      "locator": "husserliana-4-ideas-ii-commentary#h3-s49-the-personalistic-attitude-in-contrast-to-the-naturalistic",
+      "primary_locator": "Ideas II § 49",
+      "term": "transcending apperceptions",
+      "status": "presupposed",
+      "claim": "Phenomenological reflection and reduction, with eidetic reduction and the purging of all transcending apperceptions, turn the inquiry into a pure one.",
+      "quote": "with eidetic reduction and the purging of all transcending apperceptions, turn the whole inquiry into a pure one"
+    },
+    {
+      "id": "transzendenz/hua4/005",
+      "locator": "husserliana-4-ideas-ii-commentary#h3-s51-the-person-in-the-personal-association",
+      "primary_locator": "Ideas II § 51",
+      "term": "immanent form",
+      "status": "presupposed",
+      "claim": "Each of my experiences, as constituent of the objective spatiotemporal world, is not directly experienceable, since the form of intersubjective objectivity is no immanent form.",
+      "quote": "since the form of reality, that of intersubjective objectivity, is no immanent form"
+    },
+    {
+      "id": "transzendenz/hua4/006",
+      "locator": "husserliana-4-ideas-ii-commentary#h3-s52-subjective-appearance-manifolds-and-objective-things",
+      "primary_locator": "Ideas II § 52",
+      "term": "transcendent to the subject",
+      "status": "presupposed",
+      "claim": "Thing-appearances are not states of the subject, as is clear from their being transcendent to the subject's actual experiences.",
+      "quote": "that they are not states of the subject is clear from their being transcendent to the subject's actual states, its experiences"
+    },
+    {
+      "id": "transzendenz/hua4/007",
+      "locator": "husserliana-4-ideas-ii-commentary#h3-s52-subjective-appearance-manifolds-and-objective-things",
+      "primary_locator": "Ideas II § 52",
+      "term": "immanent time",
+      "status": "presupposed",
+      "claim": "Objective and subjective time, my immanent and my spatio-temporal, are a priori a single temporal order.",
+      "quote": "a priori objective time and subjective time — my immanent and my spatio-temporal — are a single temporal order"
+    },
+    {
+      "id": "transzendenz/hua4/008",
+      "locator": "husserliana-4-ideas-ii-commentary#h3-s55-the-spiritual-ego-in-its-behavior-toward-its-surrounding-world",
+      "primary_locator": "Ideas II § 55",
+      "term": "transcendence-thesis",
+      "status": "introduced",
+      "claim": "Acts such as I push or I dance are also a cogito, but one that includes a transcendence-thesis within it.",
+      "quote": "One can say that the \"I push,\" \"I dance\" and the like is also a cogito, only one that includes a transcendence-thesis in itself and harbors the \"ego sum\" within this mixed form."
+    },
+    {
+      "id": "transzendenz/hua4/009",
+      "locator": "husserliana-4-ideas-ii-commentary#h4-d-motivation-on-the-noetic-and-noematic-side",
+      "term": "immanent motivations",
+      "status": "presupposed",
+      "claim": "In the structure of thing-constituting consciousness all nature with space, time and causality is dissolved into a web of immanent motivations.",
+      "quote": "we see that all nature with space, time, causality and the rest is completely dissolved into a web of immanent motivations"
+    },
+    {
+      "id": "transzendenz/hua4/010",
+      "locator": "husserliana-4-ideas-ii-commentary#h3-s62-interpenetration-of-personalistic-and-naturalistic-attitude",
+      "primary_locator": "Ideas II § 62",
+      "term": "physically determined transcendence",
+      "status": "presupposed",
+      "claim": "Once the physical substrate is physicalized, body and soul too receive a physically determined transcendence.",
+      "quote": "This holds at first only for the physical substrate, but as soon as it becomes physical, body and soul too receive a physically determined transcendence."
+    }
+  ],
+  "absences": [
+    {
+      "locator": "husserliana-4-ideas-ii-commentary#h3-s10-things-spatial-phantoms-and-sensation-data",
+      "expected_because": "The analysis of things, spatial phantoms and sensation data falls within nature, which §1 determined as the field of transcendent realities.",
+      "absent_terms": [
+        "transcendence",
+        "transcends",
+        "immanence",
+        "immanent"
+      ]
+    }
+  ]
+}

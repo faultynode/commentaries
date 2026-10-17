@@ -1,0 +1,39 @@
+{
+  "schema_version": 1,
+  "theme": "transzendenz",
+  "commentary": "husserliana-19-2-sixth-logical-investigation-commentary",
+  "source_sha256": "b8cda8b8a2a31d263455efa37437b0aefc01c6231f22bb078a8ff640c779cc85",
+  "extracted_at": "2026-10-15",
+  "extractor": {
+    "agent": "claude-code",
+    "model": "claude-opus-5-5",
+    "prompt": "synthesis/prompts/extraction-prompt.md",
+    "note": "Read every paragraph carrying transcend- (outside transcendental), immanen-, surpass, overstep or going beyond, in file order. Unsurpassable goal (§§16, 38), overstepping (§37) and transcendent number (§68) are not the theme."
+  },
+  "coverage": "partial",
+  "coverage_note": "Term-led pass over the whole file (lines 1-1133): every paragraph containing the transcendence family, including bare transcendent and immanent, was read; paragraphs without such a word were not read.",
+  "units": [
+    {
+      "id": "transzendenz/lu6/001",
+      "locator": "husserliana-19-2-sixth-logical-investigation-commentary#h3-s-2-the-expressibility-of-all-acts-is-not-decisive-two-meanings-of-talk-about-th",
+      "primary_locator": "LU VI § 2",
+      "stratum": "lu6-b-1921",
+      "term": "transcendent to consciousness",
+      "status": "presupposed",
+      "claim": "Whether the judged objects are transcendent to consciousness or immanent makes no essential difference for the expression of acts.",
+      "quote": "That the judged objects are in one case transcendent to consciousness (or claim to be) and in the other immanent makes here no essential difference."
+    }
+  ],
+  "absences": [
+    {
+      "locator": "husserliana-19-2-sixth-logical-investigation-commentary#h4-b-the-perceptive-and-imaginative-adumbration-of-the-object",
+      "expected_because": "The adumbration of the perceived object is where the distinction between objects transcendent to consciousness and immanent ones, named in §2, would bear on fulfilment.",
+      "absent_terms": [
+        "transcendence",
+        "transcends",
+        "immanence",
+        "immanent"
+      ]
+    }
+  ]
+}

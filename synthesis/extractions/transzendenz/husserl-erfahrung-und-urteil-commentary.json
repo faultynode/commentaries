@@ -1,0 +1,72 @@
+{
+  "schema_version": 1,
+  "theme": "transzendenz",
+  "commentary": "husserl-erfahrung-und-urteil-commentary",
+  "source_sha256": "82c4ca54e212939aeb705d8aa3ecf44065fe852bd013910cfcf8326007d09b15",
+  "extracted_at": "2026-10-15",
+  "extractor": {
+    "agent": "claude-code",
+    "model": "claude-opus-5-5",
+    "prompt": "synthesis/prompts/extraction-prompt.md",
+    "note": "Read every paragraph carrying transcend- (outside transcendental), immanen- or overstep, in file order. No stratum: the commentary does not date its text (chronology entry unresolved)."
+  },
+  "coverage": "partial",
+  "coverage_note": "Term-led pass over the whole file (lines 1-1082): every paragraph containing the transcendence family, including bare transcendent and immanent, was read; paragraphs without such a word were not read.",
+  "units": [
+    {
+      "id": "transzendenz/eu/001",
+      "locator": "husserl-erfahrung-und-urteil-commentary#h3-s8-the-horizon-structure-of-experience-typical-pre-acquaintance-with-every-indiv",
+      "primary_locator": "EU § 8",
+      "term": "sense-transcendence",
+      "status": "introduced",
+      "claim": "To every individual apperception attaches a sense-transcendence, toward new reals to be experienced from the world and, as inner horizon, toward not yet apperceived features.",
+      "quote": "Thus to every individual apperception, to every given total stock of individual apperceptions, there attaches a sense-transcendence (Sinnestranszendenz)"
+    },
+    {
+      "id": "transzendenz/eu/002",
+      "locator": "husserl-erfahrung-und-urteil-commentary#h3-s16-the-field-of-passive-pregivennesses-and-its-associative-structure",
+      "primary_locator": "EU § 16",
+      "term": "immanent genesis",
+      "status": "presupposed",
+      "claim": "Association designates a lawfulness of immanent genesis belonging essentially to consciousness, the purely immanent nexus of something reminding of something.",
+      "quote": "The title \"association\" in this context designates a form of lawfulness of immanent genesis belonging essentially to consciousness as such."
+    },
+    {
+      "id": "transzendenz/eu/003",
+      "locator": "husserl-erfahrung-und-urteil-commentary#h4-a-perception-as-immanent-temporal-unity-the-still-holding-in-grasp-as-passivity",
+      "term": "immanent time",
+      "status": "presupposed",
+      "claim": "The perceived object is a unity in immanent time, enduring through the streaming phases of perception.",
+      "quote": "The object, as perceived, is a unity in immanent time: it endures through the streaming phases of perception, continuously identified as the same."
+    },
+    {
+      "id": "transzendenz/eu/004",
+      "locator": "husserl-erfahrung-und-urteil-commentary#h3-s38-the-necessary-connection-of-the-intentional-objects-of-all-perceptions-and-p",
+      "primary_locator": "EU § 38",
+      "term": "immanent time",
+      "status": "presupposed",
+      "claim": "Everything originally appearing has both an immanent phenomenal time and a fixed position in the one objective time.",
+      "quote": "Hence everything originally appearing, even if it appears in conflict, has its determinate time-position — not only an immanent phenomenal time in the intentional objectuality as such, but also its fixed position in the one objective time."
+    },
+    {
+      "id": "transzendenz/eu/005",
+      "locator": "husserl-erfahrung-und-urteil-commentary#h4-a-immanent-time-as-the-form-of-givenness-of-all-objectualities-whatsoever",
+      "term": "immanent time",
+      "status": "presupposed",
+      "claim": "All objectualities, of receptive experience or of the understanding, are given in immanent time.",
+      "quote": "All objectualities — whether objects of receptive experience or objectualities of the understanding — are given in immanent time."
+    }
+  ],
+  "absences": [
+    {
+      "locator": "husserl-erfahrung-und-urteil-commentary#h3-s7-world-as-universal-ground-of-belief-pregiven-for-every-experience-of-individu",
+      "expected_because": "The world as pregiven ground of belief is set out here, and §8 attaches to every apperception a sense-transcendence toward the world.",
+      "absent_terms": [
+        "transcendence",
+        "transcends",
+        "immanence",
+        "immanent"
+      ]
+    }
+  ]
+}
