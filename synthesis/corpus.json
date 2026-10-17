@@ -2293,6 +2293,392 @@
       ]
     },
     {
+      "slug": "Regulae Commentary",
+      "path": "commentaries/descartes/Regulae Commentary.md",
+      "author": "descartes",
+      "title": "Descartes, Regulae ad directionem ingenii: A Commentary",
+      "wordpress_id": null,
+      "sha256": "f36e1e90781eb654ae98ab59d10b613e1fabfb638a52f2ac98410b462b0e5fa2",
+      "lines": 418,
+      "words": 30281,
+      "url": "https://faultynode.github.io/commentaries/commentaries/descartes/Regulae Commentary.html",
+      "sections": [
+        {
+          "id": "h1-descartes-regulae-ad-directionem-ingenii-a-commentary",
+          "level": 1,
+          "title": "Descartes, Regulae ad directionem ingenii: A Commentary",
+          "path": [
+            "Descartes, Regulae ad directionem ingenii: A Commentary"
+          ],
+          "anchor": "descartes-regulae-ad-directionem-ingenii-a-commentary",
+          "line_start": 1,
+          "line_end": 6,
+          "words": 214
+        },
+        {
+          "id": "h2-book-one-on-simple-propositions-and-inferences",
+          "level": 2,
+          "title": "Book One: On Simple Propositions and Inferences",
+          "path": [
+            "Descartes, Regulae ad directionem ingenii: A Commentary",
+            "Book One: On Simple Propositions and Inferences"
+          ],
+          "anchor": "book-one-on-simple-propositions-and-inferences",
+          "line_start": 7,
+          "line_end": 8,
+          "words": 0
+        },
+        {
+          "id": "h3-rule-one-on-wisdom-and-science",
+          "level": 3,
+          "title": "Rule One: On Wisdom and Science",
+          "path": [
+            "Descartes, Regulae ad directionem ingenii: A Commentary",
+            "Book One: On Simple Propositions and Inferences",
+            "Rule One: On Wisdom and Science"
+          ],
+          "anchor": "rule-one-on-wisdom-and-science",
+          "line_start": 9,
+          "line_end": 14,
+          "words": 437
+        },
+        {
+          "id": "h3-rule-two-on-science-and-knowledge",
+          "level": 3,
+          "title": "Rule Two: On Science and Knowledge",
+          "path": [
+            "Descartes, Regulae ad directionem ingenii: A Commentary",
+            "Book One: On Simple Propositions and Inferences",
+            "Rule Two: On Science and Knowledge"
+          ],
+          "anchor": "rule-two-on-science-and-knowledge",
+          "line_start": 15,
+          "line_end": 30,
+          "words": 958
+        },
+        {
+          "id": "h3-rule-three-on-intuition-and-deduction",
+          "level": 3,
+          "title": "Rule Three: On Intuition and Deduction",
+          "path": [
+            "Descartes, Regulae ad directionem ingenii: A Commentary",
+            "Book One: On Simple Propositions and Inferences",
+            "Rule Three: On Intuition and Deduction"
+          ],
+          "anchor": "rule-three-on-intuition-and-deduction",
+          "line_start": 31,
+          "line_end": 52,
+          "words": 1244
+        },
+        {
+          "id": "h3-rule-four-on-method-mathematics-and-mathesis-universalis",
+          "level": 3,
+          "title": "Rule Four: On Method, Mathematics, and Mathesis Universalis",
+          "path": [
+            "Descartes, Regulae ad directionem ingenii: A Commentary",
+            "Book One: On Simple Propositions and Inferences",
+            "Rule Four: On Method, Mathematics, and Mathesis Universalis"
+          ],
+          "anchor": "rule-four-on-method-mathematics-and-mathesis-universalis",
+          "line_start": 53,
+          "line_end": 68,
+          "words": 1730
+        },
+        {
+          "id": "h3-rule-five-on-the-order-and-arrangement-of-things",
+          "level": 3,
+          "title": "Rule Five: On the Order and Arrangement of Things",
+          "path": [
+            "Descartes, Regulae ad directionem ingenii: A Commentary",
+            "Book One: On Simple Propositions and Inferences",
+            "Rule Five: On the Order and Arrangement of Things"
+          ],
+          "anchor": "rule-five-on-the-order-and-arrangement-of-things",
+          "line_start": 69,
+          "line_end": 76,
+          "words": 348
+        },
+        {
+          "id": "h3-rule-six-on-simple-natures-and-complex-relations",
+          "level": 3,
+          "title": "Rule Six: On Simple Natures and Complex Relations",
+          "path": [
+            "Descartes, Regulae ad directionem ingenii: A Commentary",
+            "Book One: On Simple Propositions and Inferences",
+            "Rule Six: On Simple Natures and Complex Relations"
+          ],
+          "anchor": "rule-six-on-simple-natures-and-complex-relations",
+          "line_start": 77,
+          "line_end": 98,
+          "words": 1603
+        },
+        {
+          "id": "h3-rule-seven-on-enumeration-or-induction",
+          "level": 3,
+          "title": "Rule Seven: On Enumeration or Induction",
+          "path": [
+            "Descartes, Regulae ad directionem ingenii: A Commentary",
+            "Book One: On Simple Propositions and Inferences",
+            "Rule Seven: On Enumeration or Induction"
+          ],
+          "anchor": "rule-seven-on-enumeration-or-induction",
+          "line_start": 99,
+          "line_end": 122,
+          "words": 1442
+        },
+        {
+          "id": "h3-rule-eight-on-the-limits-of-human-reason",
+          "level": 3,
+          "title": "Rule Eight: On the Limits of Human Reason",
+          "path": [
+            "Descartes, Regulae ad directionem ingenii: A Commentary",
+            "Book One: On Simple Propositions and Inferences",
+            "Rule Eight: On the Limits of Human Reason"
+          ],
+          "anchor": "rule-eight-on-the-limits-of-human-reason",
+          "line_start": 123,
+          "line_end": 148,
+          "words": 2204
+        },
+        {
+          "id": "h3-rule-nine-on-perspicacity-of-intuition",
+          "level": 3,
+          "title": "Rule Nine: On Perspicacity of Intuition",
+          "path": [
+            "Descartes, Regulae ad directionem ingenii: A Commentary",
+            "Book One: On Simple Propositions and Inferences",
+            "Rule Nine: On Perspicacity of Intuition"
+          ],
+          "anchor": "rule-nine-on-perspicacity-of-intuition",
+          "line_start": 149,
+          "line_end": 164,
+          "words": 882
+        },
+        {
+          "id": "h3-rule-ten-on-sagacity-of-deduction",
+          "level": 3,
+          "title": "Rule Ten: On Sagacity of Deduction",
+          "path": [
+            "Descartes, Regulae ad directionem ingenii: A Commentary",
+            "Book One: On Simple Propositions and Inferences",
+            "Rule Ten: On Sagacity of Deduction"
+          ],
+          "anchor": "rule-ten-on-sagacity-of-deduction",
+          "line_start": 165,
+          "line_end": 178,
+          "words": 987
+        },
+        {
+          "id": "h3-rule-eleven-on-capacity-of-inference",
+          "level": 3,
+          "title": "Rule Eleven: On Capacity of Inference",
+          "path": [
+            "Descartes, Regulae ad directionem ingenii: A Commentary",
+            "Book One: On Simple Propositions and Inferences",
+            "Rule Eleven: On Capacity of Inference"
+          ],
+          "anchor": "rule-eleven-on-capacity-of-inference",
+          "line_start": 179,
+          "line_end": 192,
+          "words": 1009
+        },
+        {
+          "id": "h3-rule-twelve-on-the-power-and-operations-of-the-natural-intelligence",
+          "level": 3,
+          "title": "Rule Twelve: On the Power and Operations of the Natural Intelligence",
+          "path": [
+            "Descartes, Regulae ad directionem ingenii: A Commentary",
+            "Book One: On Simple Propositions and Inferences",
+            "Rule Twelve: On the Power and Operations of the Natural Intelligence"
+          ],
+          "anchor": "rule-twelve-on-the-power-and-operations-of-the-natural-intelligence",
+          "line_start": 193,
+          "line_end": 250,
+          "words": 5977
+        },
+        {
+          "id": "h2-book-two-on-perfectly-understood-questions",
+          "level": 2,
+          "title": "Book Two: On Perfectly Understood Questions",
+          "path": [
+            "Descartes, Regulae ad directionem ingenii: A Commentary",
+            "Book Two: On Perfectly Understood Questions"
+          ],
+          "anchor": "book-two-on-perfectly-understood-questions",
+          "line_start": 251,
+          "line_end": 252,
+          "words": 0
+        },
+        {
+          "id": "h3-rule-thirteen-on-the-direct-resolution-of-questions",
+          "level": 3,
+          "title": "Rule Thirteen: On the Direct Resolution of Questions",
+          "path": [
+            "Descartes, Regulae ad directionem ingenii: A Commentary",
+            "Book Two: On Perfectly Understood Questions",
+            "Rule Thirteen: On the Direct Resolution of Questions"
+          ],
+          "anchor": "rule-thirteen-on-the-direct-resolution-of-questions",
+          "line_start": 253,
+          "line_end": 284,
+          "words": 2258
+        },
+        {
+          "id": "h3-rule-fourteen-on-representation-and-the-imagination",
+          "level": 3,
+          "title": "Rule Fourteen: On Representation and the Imagination",
+          "path": [
+            "Descartes, Regulae ad directionem ingenii: A Commentary",
+            "Book Two: On Perfectly Understood Questions",
+            "Rule Fourteen: On Representation and the Imagination"
+          ],
+          "anchor": "rule-fourteen-on-representation-and-the-imagination",
+          "line_start": 285,
+          "line_end": 338,
+          "words": 4377
+        },
+        {
+          "id": "h3-rule-fifteen-on-representation-and-the-senses",
+          "level": 3,
+          "title": "Rule Fifteen: On Representation and the Senses",
+          "path": [
+            "Descartes, Regulae ad directionem ingenii: A Commentary",
+            "Book Two: On Perfectly Understood Questions",
+            "Rule Fifteen: On Representation and the Senses"
+          ],
+          "anchor": "rule-fifteen-on-representation-and-the-senses",
+          "line_start": 339,
+          "line_end": 344,
+          "words": 347
+        },
+        {
+          "id": "h3-rule-sixteen-on-representation-and-the-memory",
+          "level": 3,
+          "title": "Rule Sixteen: On Representation and the Memory",
+          "path": [
+            "Descartes, Regulae ad directionem ingenii: A Commentary",
+            "Book Two: On Perfectly Understood Questions",
+            "Rule Sixteen: On Representation and the Memory"
+          ],
+          "anchor": "rule-sixteen-on-representation-and-the-memory",
+          "line_start": 345,
+          "line_end": 362,
+          "words": 1476
+        },
+        {
+          "id": "h3-rule-seventeen-on-the-indirect-resolution-of-questions",
+          "level": 3,
+          "title": "Rule Seventeen: On the Indirect Resolution of Questions",
+          "path": [
+            "Descartes, Regulae ad directionem ingenii: A Commentary",
+            "Book Two: On Perfectly Understood Questions",
+            "Rule Seventeen: On the Indirect Resolution of Questions"
+          ],
+          "anchor": "rule-seventeen-on-the-indirect-resolution-of-questions",
+          "line_start": 363,
+          "line_end": 370,
+          "words": 663
+        },
+        {
+          "id": "h3-rule-eighteen-on-the-operations-of-geometrical-algebra",
+          "level": 3,
+          "title": "Rule Eighteen: On the Operations of Geometrical Algebra",
+          "path": [
+            "Descartes, Regulae ad directionem ingenii: A Commentary",
+            "Book Two: On Perfectly Understood Questions",
+            "Rule Eighteen: On the Operations of Geometrical Algebra"
+          ],
+          "anchor": "rule-eighteen-on-the-operations-of-geometrical-algebra",
+          "line_start": 371,
+          "line_end": 396,
+          "words": 1535
+        },
+        {
+          "id": "h3-rule-nineteen",
+          "level": 3,
+          "title": "Rule Nineteen",
+          "path": [
+            "Descartes, Regulae ad directionem ingenii: A Commentary",
+            "Book Two: On Perfectly Understood Questions",
+            "Rule Nineteen"
+          ],
+          "anchor": "rule-nineteen",
+          "line_start": 397,
+          "line_end": 400,
+          "words": 96
+        },
+        {
+          "id": "h3-rule-twenty",
+          "level": 3,
+          "title": "Rule Twenty",
+          "path": [
+            "Descartes, Regulae ad directionem ingenii: A Commentary",
+            "Book Two: On Perfectly Understood Questions",
+            "Rule Twenty"
+          ],
+          "anchor": "rule-twenty",
+          "line_start": 401,
+          "line_end": 404,
+          "words": 69
+        },
+        {
+          "id": "h3-rule-twenty-one",
+          "level": 3,
+          "title": "Rule Twenty-One",
+          "path": [
+            "Descartes, Regulae ad directionem ingenii: A Commentary",
+            "Book Two: On Perfectly Understood Questions",
+            "Rule Twenty-One"
+          ],
+          "anchor": "rule-twenty-one",
+          "line_start": 405,
+          "line_end": 408,
+          "words": 126
+        },
+        {
+          "id": "h3-rules-twenty-two-through-twenty-four",
+          "level": 3,
+          "title": "Rules Twenty-Two through Twenty-Four",
+          "path": [
+            "Descartes, Regulae ad directionem ingenii: A Commentary",
+            "Book Two: On Perfectly Understood Questions",
+            "Rules Twenty-Two through Twenty-Four"
+          ],
+          "anchor": "rules-twenty-two-through-twenty-four",
+          "line_start": 409,
+          "line_end": 412,
+          "words": 19
+        },
+        {
+          "id": "h2-book-three-on-imperfectly-understood-questions",
+          "level": 2,
+          "title": "Book Three: On Imperfectly Understood Questions",
+          "path": [
+            "Descartes, Regulae ad directionem ingenii: A Commentary",
+            "Book Three: On Imperfectly Understood Questions"
+          ],
+          "anchor": "book-three-on-imperfectly-understood-questions",
+          "line_start": 413,
+          "line_end": 414,
+          "words": 0
+        },
+        {
+          "id": "h3-rules-twenty-five-through-thirty-six",
+          "level": 3,
+          "title": "Rules Twenty-Five through Thirty-Six",
+          "path": [
+            "Descartes, Regulae ad directionem ingenii: A Commentary",
+            "Book Three: On Imperfectly Understood Questions",
+            "Rules Twenty-Five through Thirty-Six"
+          ],
+          "anchor": "rules-twenty-five-through-thirty-six",
+          "line_start": 415,
+          "line_end": 418,
+          "words": 82
+        }
+      ]
+    },
+    {
       "slug": "descartes-regulae-ad-directionem-ingenii-commentary",
       "path": "commentaries/descartes/descartes-regulae-ad-directionem-ingenii-commentary.md",
       "author": "descartes",

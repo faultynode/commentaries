@@ -1478,6 +1478,7 @@
 - `kojève-introduction-à-la-lecture-de-hegel-commentary` - 36 term hits, no record
 - `husserliana-4-ideas-ii-commentary` - 21 term hits, no record
 - `lacan-seminar-11-the-four-fundamental-concepts-of-psychoanalysis-commentary` - 17 term hits, no record
+- `Regulae Commentary` - 12 term hits, no record
 - `descartes-regulae-ad-directionem-ingenii-commentary` - 12 term hits, no record
 - `leibniz-monadology-commentary` - 9 term hits, no record
 - `husserliana-28-vorlesungen-uber-ethik-und-wertlehre-commentary` - 8 term hits, no record

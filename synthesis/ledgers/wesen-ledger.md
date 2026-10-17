@@ -1330,6 +1330,7 @@
 - `franck-heidegger-and-the-problem-of-space-commentary` - 42 term hits, no record
 - `husserliana-43-2-studien-zur-struktur-des-bewusstseins-commentary` - 41 term hits, no record
 - `husserl-prolegomena-commentary` - 40 term hits, no record
+- `Regulae Commentary` - 35 term hits, no record
 - `descartes-regulae-ad-directionem-ingenii-commentary` - 35 term hits, no record
 - `husserl-krisis-commentary` - 31 term hits, no record
 - `kant-kritik-der-reinen-vernunft-commentary` - 24 term hits, no record
