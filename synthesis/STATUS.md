@@ -106,7 +106,7 @@ Next candidates, by term density:
 
 ### transzendenz - transcendence
 
-6 commentaries extracted · 333 units · 4 absences · 5 partial
+30 commentaries extracted · 584 units · 34 absences · 29 partial
 
 Next candidates, by term density:
 
@@ -116,7 +116,7 @@ Next candidates, by term density:
 - [ ] `henry-phenomenologie-de-la vie-1-commentary` (undated) - 84 hits
 - [ ] `marion-sur-le-prisme-metaphysique-de-descartes-commentary` (1986) - 84 hits
 - [ ] `Reduction et donation Commentary` (undated) - 80 hits
-- ... 46 more; see `synthesis_query.py --theme transzendenz`
+- ... 22 more; see `synthesis_query.py --theme transzendenz`
 
 ### vorhandenheit - presence-at-hand
 

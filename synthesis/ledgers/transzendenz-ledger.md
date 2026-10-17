@@ -4,9 +4,1272 @@
 
 *Transcendence as the stepping-beyond, not the transcendental: Husserl's transcendent/immanent split (immanent versus transcendent perception, transcendence of the thing and of the world, the ego's self-transcendence, 'transcendence within immanence' in Hua XIII and Thing and Space), Heidegger's transcendence of Dasein (GA 24 §20, GA 26 §11, GA 3, GA 9 'Vom Wesen des Grundes', where Überstieg, world-entry, the epekeina and freedom carry it), and Henry's L'essence de la manifestation, which turns the whole tradition into a single thesis - that manifestation is transcendence - and argues against it from immanence. The one trap dominates everything: the matcher is left-anchored, so 'transcend' (6,963 hits) and even 'transcendent' (4,745) fire inside 'transcendental' 3,800 times and would rank Hua VIII and GA 3 for the wrong word. Neither is listed; the -ence/-s/-ing/-ed forms and the compounds ('transcendent object', 'transcendent perception') stand in, which means a bare adjectival 'transcendent' is not searched and an absence claim never covers it. 'surpass' and 'overstep' are prefix stems and carry their families (surpassing is the standing rendering of Überstieg; overstepping is Marion's). Bare 'immanent' (1,670 hits in 42 documents) is withheld the same way; 'immanence' is kept and is the term to set absent_terms against by hand. Bare 'transcendental' belongs to reduktion, not here. Ranking puts Henry's Essence of Manifestation far ahead (1,622 hits, nearly four times GA 26), then GA 26, Henry's Philosophie et phénoménologie du corps, GA 9, Bernet and GA 3; Hua VIII, which the bare stem would have ranked near the top, drops out once 'transcendental' stops counting. The GA 9 commentary was renamed to heidegger-ga-9-vom-wesen-des-grundes-commentary so that records can name it.*
 
-333 units and 4 recorded absences from 6 commentaries.
+584 units and 34 recorded absences from 30 commentaries.
 
 ## Primary corpus, by composition or delivery date
+
+### 1901 to 1913 - Husserl, Hua 19/1 — Fifth Logical Investigation
+
+`husserliana-19-1-fifth-logical-investigation-commentary`
+
+#### Second, revised edition (Logische Untersuchungen II/1, 1913)
+
+- **revised** · `transzendenz/lu5/003` · *transcendence*
+  In a second-edition footnote Husserl treats the empirical ego as a transcendence of the same dignity as the physical thing, and concludes that a pure ego cannot be evaded.
+  `husserliana-19-1-fifth-logical-investigation-commentary#h3-s6-origin-of-the-first-concept-of-consciousness-from-the-second` · LU V § 6 (B footnote) · [§6. Origin of the first concept of consciousness from the second](https://faultynode.github.io/commentaries/commentaries/husserl/husserliana-19-1-fifth-logical-investigation-commentary.html#origin-of-the-first-concept-of-consciousness-from-the-second)
+  > the empirical ego is a transcendence of the same dignity as the physical thing
+
+#### Stratum not assigned by the commentary
+
+- **introduced** · `transzendenz/lu5/001` · *transcendent property*
+  The immanent sensation and the transcendent property are not the same item viewed twice: the one is lived through, the other is the correlate of an apprehension of the sensational material.
+  `husserliana-19-1-fifth-logical-investigation-commentary#h3-s2-first-consciousness-as-the-real-reell-phenomenological-unity-of-the-ego-s-exp` · LU V § 2 · [§2. First: Consciousness as the real (reell)-phenomenological unity of the ego's experiences. The concept of experience](https://faultynode.github.io/commentaries/commentaries/husserl/husserliana-19-1-fifth-logical-investigation-commentary.html#first-consciousness-as-the-real-reell-phenomenological-unity-of-the-egos-experiences-the-concept-of-experience)
+  > the immanent sensation and the transcendent property are not the same item viewed twice; the one is lived through, the other is the correlate of an apprehension performed on the sensational material
+
+- **presupposed** · `transzendenz/lu5/002` · *transcendent object*
+  The equation of experienced content with experience holds only for the really-immanent constituents, and the transcendent object falls outside it.
+  `husserliana-19-1-fifth-logical-investigation-commentary#h3-s3-the-phenomenological-and-the-popular-concept-of-experience` · LU V § 3 · [§3. The phenomenological and the popular concept of experience](https://faultynode.github.io/commentaries/commentaries/husserl/husserliana-19-1-fifth-logical-investigation-commentary.html#the-phenomenological-and-the-popular-concept-of-experience)
+  > holds only for the really-immanent constituents; the transcendent object falls outside it
+
+- **criticized** · `transzendenz/lu5/004` · *"immanent" object*
+  The so-called immanent or mental object, such as the presented god Jupiter, does not belong to the real subsistence of the experience and is in truth not immanent at all.
+  `husserliana-19-1-fifth-logical-investigation-commentary#h3-s11-warding-off-terminologically-suggested-misinterpretations-a-the-mental-or-im` · LU V § 11 · [§11. Warding off terminologically suggested misinterpretations: a) The "mental" or "immanent" object](https://faultynode.github.io/commentaries/commentaries/husserl/husserliana-19-1-fifth-logical-investigation-commentary.html#warding-off-terminologically-suggested-misinterpretations-a-the-mental-or-immanent-object)
+  > The "immanent," "mental" object therefore does not belong to the descriptive (real) subsistence of the experience; it is thus in truth not immanent or mental at all.
+
+- **revised** · `transzendenz/lu5/005` · *truly immanent contents*
+  The relation is reversed: the truly immanent contents, belonging to the real subsistence of acts, are not intentional but are the act's points of support.
+  `husserliana-19-1-fifth-logical-investigation-commentary#h3-s11-warding-off-terminologically-suggested-misinterpretations-a-the-mental-or-im` · LU V § 11 · [§11. Warding off terminologically suggested misinterpretations: a) The "mental" or "immanent" object](https://faultynode.github.io/commentaries/commentaries/husserl/husserliana-19-1-fifth-logical-investigation-commentary.html#warding-off-terminologically-suggested-misinterpretations-a-the-mental-or-immanent-object)
+  > then on the other side the truly immanent contents — those belonging to the real subsistence of the intentional experiences — are not intentional
+
+- **criticized** · `transzendenz/lu5/006` · *immanent objects*
+  Husserl recommends avoiding entirely the idiom of immanent objects in favour of intentional object.
+  `husserliana-19-1-fifth-logical-investigation-commentary#h3-s11-warding-off-terminologically-suggested-misinterpretations-a-the-mental-or-im` · LU V § 11 · [§11. Warding off terminologically suggested misinterpretations: a) The "mental" or "immanent" object](https://faultynode.github.io/commentaries/commentaries/husserl/husserliana-19-1-fifth-logical-investigation-commentary.html#warding-off-terminologically-suggested-misinterpretations-a-the-mental-or-immanent-object)
+  > it is clear that we do well to avoid entirely this idiom of immanent objects
+
+- **presupposed** · `transzendenz/lu5/007` · *immanent and transcendent being*
+  For the distinction between intentional and non-intentional experiences it is indifferent in what sense metaphysically immanent and transcendent being may be opposed.
+  `husserliana-19-1-fifth-logical-investigation-commentary#h3-s14-reservations-against-the-assumption-of-acts-as-a-descriptively-founded-class` · LU V § 14 · [§14. Reservations against the assumption of acts as a descriptively founded class of experiences](https://faultynode.github.io/commentaries/commentaries/husserl/husserliana-19-1-fifth-logical-investigation-commentary.html#reservations-against-the-assumption-of-acts-as-a-descriptively-founded-class-of-experiences)
+  > likewise in what sense metaphysically immanent and transcendent being may be opposed
+
+- **presupposed** · `transzendenz/lu5/008` · *thingly transcendence*
+  Husserl prefers intentional to real for the object because real carries the thought of a thingly transcendence that the reduction to experiential immanence was meant to switch off.
+  `husserliana-19-1-fifth-logical-investigation-commentary#h3-s16-distinction-between-descriptive-and-intentional-content` · LU V § 16 · [§16. Distinction between descriptive and intentional content](https://faultynode.github.io/commentaries/commentaries/husserl/husserliana-19-1-fifth-logical-investigation-commentary.html#distinction-between-descriptive-and-intentional-content)
+  > carries the thought of a thingly transcendence which the reduction to real (reell) experiential immanence was precisely meant to switch off
+
+- **presupposed** · `transzendenz/lu5/009` · *transcendent to the act*
+  For really phenomenological consideration the objectivity itself is nothing and is transcendent to the act, which is nevertheless directed at it.
+  `husserliana-19-1-fifth-logical-investigation-commentary#h3-s20-the-difference-of-the-quality-and-the-matter-of-an-act` · LU V § 20 · [§20. The difference of the quality and the matter of an act](https://faultynode.github.io/commentaries/commentaries/husserl/husserliana-19-1-fifth-logical-investigation-commentary.html#the-difference-of-the-quality-and-the-matter-of-an-act)
+  > For the really phenomenological consideration the objectivity itself is nothing; it is, generally speaking, transcendent to the act.
+
+- **introduced** · `transzendenz/lu5/010` · *"transcendent" thing*
+  Against the image-theory, all relation of consciousness to its objectivity is enclosed in the phenomenological essence of consciousness, as relation to a transcendent thing.
+  `husserliana-19-1-fifth-logical-investigation-commentary#h2-appendix-to-paragraphs-11-and-20-toward-a-critique-of-the-image-theory-and-of-th` · LU V, Appendix to §§ 11 and 20 · [Appendix to Paragraphs 11 and 20: Toward a Critique of the "Image-Theory" and of the Doctrine of the "Immanent" Objects of Acts](https://faultynode.github.io/commentaries/commentaries/husserl/husserliana-19-1-fifth-logical-investigation-commentary.html#appendix-to-paragraphs-11-and-20-toward-a-critique-of-the-image-theory-and-of-the-doctrine-of-the-immanent-objects-of-acts)
+  > in the phenomenological essence of consciousness itself all relation to its objectivity is enclosed, and can in principle only be enclosed therein — and indeed as relation to a "transcendent" thing
+
+- **criticized** · `transzendenz/lu5/011` · *immanent and transcendent objects*
+  It is a grave error to make a real difference between merely immanent or intentional objects and corresponding real and transcendent objects.
+  `husserliana-19-1-fifth-logical-investigation-commentary#h2-appendix-to-paragraphs-11-and-20-toward-a-critique-of-the-image-theory-and-of-th` · LU V, Appendix to §§ 11 and 20 · [Appendix to Paragraphs 11 and 20: Toward a Critique of the "Image-Theory" and of the Doctrine of the "Immanent" Objects of Acts](https://faultynode.github.io/commentaries/commentaries/husserl/husserliana-19-1-fifth-logical-investigation-commentary.html#appendix-to-paragraphs-11-and-20-toward-a-critique-of-the-image-theory-and-of-the-doctrine-of-the-immanent-objects-of-acts)
+  > It is a grave error to make a real (reell) difference at all between the "merely immanent" or "intentional" objects on the one side and the possibly corresponding "real" and "transcendent" objects on the other
+
+- **revised** · `transzendenz/lu5/012` · *transcendent object*
+  The intentional object of a presentation is the same as its real, outer object; the transcendent object would not be the object of the presentation were it not its intentional object.
+  `husserliana-19-1-fifth-logical-investigation-commentary#h2-appendix-to-paragraphs-11-and-20-toward-a-critique-of-the-image-theory-and-of-th` · LU V, Appendix to §§ 11 and 20 · [Appendix to Paragraphs 11 and 20: Toward a Critique of the "Image-Theory" and of the Doctrine of the "Immanent" Objects of Acts](https://faultynode.github.io/commentaries/commentaries/husserl/husserliana-19-1-fifth-logical-investigation-commentary.html#appendix-to-paragraphs-11-and-20-toward-a-critique-of-the-image-theory-and-of-the-doctrine-of-the-immanent-objects-of-acts)
+  > The transcendent object would not be the object of this presentation at all if it were not its intentional object.
+
+- **presupposed** · `transzendenz/lu5/013` · *transcendent to pure consciousness*
+  Phenomenological intuition switches off every real existence-positing, including the own empirical ego, and in general everything transcendent to pure consciousness.
+  `husserliana-19-1-fifth-logical-investigation-commentary#h3-s27-the-testimony-of-direct-intuition-perceptual-presentation-and-perception` · LU V § 27 · [§27. The testimony of direct intuition. Perceptual presentation and perception](https://faultynode.github.io/commentaries/commentaries/husserl/husserliana-19-1-fifth-logical-investigation-commentary.html#the-testimony-of-direct-intuition-perceptual-presentation-and-perception)
+  > all positings of psychophysical nature with real things, bodies, human beings, the own empirical ego-subject included, and in general everything transcendent to pure consciousness
+
+#### Recorded absences
+
+- **absent** · `husserliana-19-1-fifth-logical-investigation-commentary#h3-s8-the-pure-ego-and-consciousness-ness-bewu-theit`
+  Expected because: The pure ego is discussed here, and the second-edition footnote reported under §6 makes the empirical ego a transcendence of the same dignity as the thing.
+  [§8. The pure ego and consciousness-ness (Bewußtheit)](https://faultynode.github.io/commentaries/commentaries/husserl/husserliana-19-1-fifth-logical-investigation-commentary.html#the-pure-ego-and-consciousness-ness-bewutheit)
+
+*Partial pass: Term-led pass over the whole file (lines 1-813): every paragraph containing the transcendence family, including bare transcendent and immanent, was read; paragraphs without such a word were not read.*
+
+### 1904-1905 - Husserl Phantasie Bildbewußtsein Erinnerung
+
+`husserliana-23-phantasie-bildbewusstsein-erinnerung-commentary`
+
+- **introduced** · `transzendenz/hua23/001` · *immanent sphere*
+  Disposition objectifyingly reaches beyond the genuine immanent sphere, while phenomenologically only the immanent matters, inner characters grasped in pure adequation.
+  `husserliana-23-phantasie-bildbewusstsein-erinnerung-commentary#h3-s1-ambiguity-of-the-concept-of-phantasy-in-ordinary-discourse-the-phantasy-exper` · Hua XXIII § 1 · [§1. Ambiguity of the Concept of Phantasy in Ordinary Discourse — The Phantasy Experience as Foundation of Phenomenological Essence-Analysis and Concept-Formation](https://faultynode.github.io/commentaries/commentaries/husserl/husserliana-23-phantasie-bildbewusstsein-erinnerung-commentary.html#ambiguity-of-the-concept-of-phantasy-in-ordinary-discourse--the-phantasy-experience-as-foundation-of-phenomenological-essence-analysis-and-concept-formation)
+  > Disposition, by contrast, is a concept that objectifyingly reaches beyond the genuine immanent sphere.
+
+- **criticized** · `transzendenz/hua23/002` · *really immanent*
+  The naive view errs in thinking of the mental image as a thing really immanent in the mind.
+  `husserliana-23-phantasie-bildbewusstsein-erinnerung-commentary#h3-s10-essential-commonality-of-physical-imagination-and-ordinary-phantasy-presenta` · Hua XXIII § 10 · [§10. Essential Commonality of Physical Imagination and Ordinary Phantasy Presentation with Respect to "Mental Images"](https://faultynode.github.io/commentaries/commentaries/husserl/husserliana-23-phantasie-bildbewusstsein-erinnerung-commentary.html#essential-commonality-of-physical-imagination-and-ordinary-phantasy-presentation-with-respect-to-mental-images)
+  > The phenomenological response: the naive view errs in thinking of the mental image as a thing really immanent in the mind.
+
+- **introduced** · `transzendenz/hua23/003` · *immanent imagehood*
+  An image can function representatively inwardly, as immanent imagehood, or outwardly, as symbolic representation.
+  `husserliana-23-phantasie-bildbewusstsein-erinnerung-commentary#h3-s16-introduction-of-the-distinction-between-inner-immanent-and-outer-symbolic-im` · Hua XXIII § 16 · [§16. Introduction of the Distinction between Inner (Immanent) and Outer (Symbolic) Imagehood](https://faultynode.github.io/commentaries/commentaries/husserl/husserliana-23-phantasie-bildbewusstsein-erinnerung-commentary.html#introduction-of-the-distinction-between-inner-immanent-and-outer-symbolic-imagehood)
+  > An image can function representatively inwardly, in the manner of immanent imagehood; or it can function representatively outwardly, in a manner that essentially amounts to the consciousness of symbolic representation.
+
+- **presupposed** · `transzendenz/hua23/004` · *transcendently perceived*
+  Sensations are primarily apprehended as self-present, and on this are built the empirical apprehensions constituting what is transcendently perceived.
+  `husserliana-23-phantasie-bildbewusstsein-erinnerung-commentary#h3-s37-whether-perception-must-not-have-an-original-privilege-since-sensations-alon` · Hua XXIII § 37 · [§37. Whether Perception Must Not Have an Original Privilege, Since Sensations Alone Are Founders of Present-Actuality. The Difficulty Regarding the Irreal Phantasms as Present Sensory Contents. Attempt at an Answer: Imaginative Apprehension of the Phantasms Immediately Constituting a Re-Presentation Consciousness; Possibility of Subsequent Incorporation of the Phantasy Appearance and the Founding Phantasms into the Present](https://faultynode.github.io/commentaries/commentaries/husserl/husserliana-23-phantasie-bildbewusstsein-erinnerung-commentary.html#whether-perception-must-not-have-an-original-privilege-since-sensations-alone-are-founders-of-present-actuality-the-difficulty-regarding-the-irreal-phantasms-as-present-sensory-contents-attempt-at-an-answer-imaginative-apprehension-of-the-phantasms-immediately-constituting-a-re-presentation-consciousness-possibility-of-subsequent-incorporation-of-the-phantasy-appearance-and-the-founding-phantasms-into-the-present)
+  > They are primarily apprehended as self-present, and upon this are built the extending empirical apprehensions constituting what is transcendently perceived.
+
+- **revised** · `transzendenz/hua23/005` · *immanent image-consciousness*
+  The kinship of immanent, inward-turned image-consciousness with phantasy-consciousness is resolved: immanent image-consciousness is phantasy-consciousness.
+  `husserliana-23-phantasie-bildbewusstsein-erinnerung-commentary#h3-s42-circumscription-of-the-concept-of-simple-phantasy-presentation-as-enactment` · Hua XXIII § 42 · [§42. Circumscription of the Concept of Simple Phantasy Presentation as Enactment of Pure Re-Presentation Consciousness; Immanent Image-Consciousness as Phantasy-Consciousness. Terminological Fixing of the Oppositions Perception–Phantasy, or Presentation (Presentation) – Re-Presentation (Representation)](https://faultynode.github.io/commentaries/commentaries/husserl/husserliana-23-phantasie-bildbewusstsein-erinnerung-commentary.html#circumscription-of-the-concept-of-simple-phantasy-presentation-as-enactment-of-pure-re-presentation-consciousness-immanent-image-consciousness-as-phantasy-consciousness-terminological-fixing-of-the-oppositions-perceptionphantasy-or-presentation-presentation--re-presentation-representation)
+  > In fact, the consciousness is in essence the same on both sides: this immanent image-consciousness is phantasy-consciousness.
+
+#### Recorded absences
+
+- **absent** · `husserliana-23-phantasie-bildbewusstsein-erinnerung-commentary#h3-s22-the-appearance-of-the-image-object-and-its-character-of-non-actuality-of-con`
+  Expected because: The non-actuality of the image-object is the ground on which §16 separates immanent from symbolic imagehood.
+  [§22. The Appearance of the Image-Object and Its Character of Non-Actuality, of Conflict with the Perceptual Visual Field Constituting the Present](https://faultynode.github.io/commentaries/commentaries/husserl/husserliana-23-phantasie-bildbewusstsein-erinnerung-commentary.html#the-appearance-of-the-image-object-and-its-character-of-non-actuality-of-conflict-with-the-perceptual-visual-field-constituting-the-present)
+
+*Partial pass: Term-led pass over the whole file (lines 1-399): every paragraph containing the transcendence family, including bare transcendent and immanent, was read; paragraphs without such a word were not read.*
+
+### 1907 - Husserl's Thing and Space (1907)
+
+`husserl-thing-and-space-commentary`
+
+- **introduced** · `transzendenz/ding/001` · *problem of transcendence*
+  The problem of transcendence is raised as the asymmetry between the absolute givenness of the reduced perception, which is immanent, and the intentional object, which is transcendent yet appears in the flesh.
+  `husserl-thing-and-space-commentary#h3-s6-assertions-about-perceptions-and-assertions-about-perceived-objects-real-reel` · Thing and Space §6 · [§6. Assertions about perceptions and assertions about perceived objects. Real \[reell\] and intentional components of perception](https://faultynode.github.io/commentaries/commentaries/husserl/husserl-thing-and-space-commentary.html#assertions-about-perceptions-and-assertions-about-perceived-objects-real-reell-and-intentional-components-of-perception)
+  > The perception, subjected to phenomenological reduction, is an absolute givenness — I possess it, as it were, for itself, with all that essentially makes it up. It is "immanent." The intentional object, however, is precisely "transcendent."
+
+- **introduced** · `transzendenz/ding/002` · *transcendence within immanence*
+  The higher stratum of the investigation is to study the possibility of transcendent intention and validity within the sphere of the purest immanence.
+  `husserl-thing-and-space-commentary#h3-s7-preliminary-indication-of-the-method-of-the-further-investigation` · Thing and Space §7 · [§7. Preliminary indication of the method of the further investigation](https://faultynode.github.io/commentaries/commentaries/husserl/husserl-thing-and-space-commentary.html#preliminary-indication-of-the-method-of-the-further-investigation)
+  > we must study the possibility of transcendent intention and validity in the sphere of the most pure immanence
+
+- **presupposed** · `transzendenz/ding/003` · *problem of transcendence*
+  The problem of transcendence, how an object not really immanent in perception is given with evidence, is identified as the master-problem of the whole investigation.
+  `husserl-thing-and-space-commentary#h3-s7-preliminary-indication-of-the-method-of-the-further-investigation` · Thing and Space §7 · [§7. Preliminary indication of the method of the further investigation](https://faultynode.github.io/commentaries/commentaries/husserl/husserl-thing-and-space-commentary.html#preliminary-indication-of-the-method-of-the-further-investigation)
+  > how an object that is not really immanent in perception can nonetheless be given with evidence in perception — as the master-problem of the entire investigation
+
+- **presupposed** · `transzendenz/ding/004` · *transcendent object*
+  The analysis does not reach through to the transcendent thing but studies it as the intentional correlate of absolutely given lived experiences.
+  `husserl-thing-and-space-commentary#h3-s8-the-absolute-givenness-of-perception-in-phenomenological-reflection-broadenin` · Thing and Space §8 · [§8. The absolute givenness of perception in phenomenological reflection. Broadening of the concept of perception](https://faultynode.github.io/commentaries/commentaries/husserl/husserl-thing-and-space-commentary.html#the-absolute-givenness-of-perception-in-phenomenological-reflection-broadening-of-the-concept-of-perception)
+  > The transcendent thing is studied not in itself but as the intentional correlate of these absolutely given lived experiences
+
+- **introduced** · `transzendenz/ding/005` · *immanence and transcendence*
+  Husserl defines the immanent as the self-posed and the transcendent as the presented, whether in the mode of presence in the flesh or as self-presented.
+  `husserl-thing-and-space-commentary#h3-s9-self-posing-perceptions-and-presentational-perceptions-inseparability-of-perc` · Thing and Space §9 · [§9. Self-posing perceptions and presentational perceptions. Inseparability of perception and belief within self-posing perception](https://faultynode.github.io/commentaries/commentaries/husserl/husserl-thing-and-space-commentary.html#self-posing-perceptions-and-presentational-perceptions-inseparability-of-perception-and-belief-within-self-posing-perception)
+  > The self-posed is called immanent; the presented (whether in the mode of presence in the flesh or as self-presented) is called transcendent.
+
+- **introduced** · `transzendenz/ding/006` · *transcendent*
+  If a self-posed perception is itself presentational, the object it presents is not really immanent to the original self-posing but transcendent, a merely intentional Object.
+  `husserl-thing-and-space-commentary#h3-s9-self-posing-perceptions-and-presentational-perceptions-inseparability-of-perc` · Thing and Space §9 · [§9. Self-posing perceptions and presentational perceptions. Inseparability of perception and belief within self-posing perception](https://faultynode.github.io/commentaries/commentaries/husserl/husserl-thing-and-space-commentary.html#self-posing-perceptions-and-presentational-perceptions-inseparability-of-perception-and-belief-within-self-posing-perception)
+  > If the self-posed perception is itself a presentational perception, then the object it presents is not really immanent to the original self-posing but is transcendent — a "merely intentional Object."
+
+- **introduced** · `transzendenz/ding/007` · *necessary transcendence of thinghood*
+  Although the thing presents itself in the flesh in every perception, self-posing is excluded for it; this is called the necessary transcendence of thinghood.
+  `husserl-thing-and-space-commentary#h3-s9-self-posing-perceptions-and-presentational-perceptions-inseparability-of-perc` · Thing and Space §9 · [§9. Self-posing perceptions and presentational perceptions. Inseparability of perception and belief within self-posing perception](https://faultynode.github.io/commentaries/commentaries/husserl/husserl-thing-and-space-commentary.html#self-posing-perceptions-and-presentational-perceptions-inseparability-of-perception-and-belief-within-self-posing-perception)
+  > there is a necessary transcendence of thinghood: although the thing presents itself in the flesh in every individual perception, self-posing is excluded for it
+
+- **criticized** · `transzendenz/ding/008` · *transcendent*
+  The commentary states that the thing is transcendent not because it is outside consciousness but because its mode of givenness is presentational rather than self-posing.
+  `husserl-thing-and-space-commentary#h3-s9-self-posing-perceptions-and-presentational-perceptions-inseparability-of-perc` · Thing and Space §9 · [§9. Self-posing perceptions and presentational perceptions. Inseparability of perception and belief within self-posing perception](https://faultynode.github.io/commentaries/commentaries/husserl/husserl-thing-and-space-commentary.html#self-posing-perceptions-and-presentational-perceptions-inseparability-of-perception-and-belief-within-self-posing-perception)
+  > The thing is transcendent not because it is "outside" consciousness (a metaphysical claim the lectures eschew) but because its mode of givenness is presentational rather than self-posing
+
+- **revised** · `transzendenz/ding/009` · *transcendence of the object*
+  The transcendence of the object is reconceived as a structural fact about identity and difference: the essence of the perception excludes identity-consciousness with the essence of its object.
+  `husserl-thing-and-space-commentary#h3-s11-resolution-of-a-difficulty-even-intentional-components-of-perception-given-i` · Thing and Space §11 · [§11. Resolution of a difficulty: even intentional components of perception given in the mode of self-posing](https://faultynode.github.io/commentaries/commentaries/husserl/husserl-thing-and-space-commentary.html#resolution-of-a-difficulty-even-intentional-components-of-perception-given-in-the-mode-of-self-posing)
+  > The object transcends the perception in the precise sense that the essence of the one excludes identity-consciousness with the essence of the other.
+
+- **presupposed** · `transzendenz/ding/010` · *transcendent objectivity*
+  All transcendent objectivity has its primal ground and bearer in consciousness, while consciousness itself is absolute Being and needs no bearer.
+  `husserl-thing-and-space-commentary#h3-s13-rejection-of-a-misunderstanding-articulation-of-the-giving-consciousness-not` · Thing and Space §13 · [§13. Rejection of a misunderstanding: articulation of the giving consciousness not an articulation of the object](https://faultynode.github.io/commentaries/commentaries/husserl/husserl-thing-and-space-commentary.html#rejection-of-a-misunderstanding-articulation-of-the-giving-consciousness-not-an-articulation-of-the-object)
+  > all transcendent objectivity has its primal ground and bearer in consciousness
+
+- **criticized** · `transzendenz/ding/011` · *transcendent Ego*
+  The phenomenological reduction is not solipsistic: the positing of a transcendent Ego is completely excluded in favour of consciousness in the pure sense.
+  `husserl-thing-and-space-commentary#h3-s13-rejection-of-a-misunderstanding-articulation-of-the-giving-consciousness-not` · Thing and Space §13 · [§13. Rejection of a misunderstanding: articulation of the giving consciousness not an articulation of the object](https://faultynode.github.io/commentaries/commentaries/husserl/husserl-thing-and-space-commentary.html#rejection-of-a-misunderstanding-articulation-of-the-giving-consciousness-not-an-articulation-of-the-object)
+  > we completely exclude the positing of a transcendent Ego and adhere to the absolute: consciousness in the pure sense
+
+- **criticized** · `transzendenz/ding/012` · *grasped transcendently*
+  It is countersense to hold that one complex of contents is a thing when grasped transcendently and a sensation-complex when sensed immanently; the thing cannot be given immanently in straightforward perception.
+  `husserl-thing-and-space-commentary#h3-s14-contents-of-sensation-and-the-qualities-of-things` · Thing and Space §14 · [§14. Contents of sensation and the qualities of things](https://faultynode.github.io/commentaries/commentaries/husserl/husserl-thing-and-space-commentary.html#contents-of-sensation-and-the-qualities-of-things)
+  > It is not something one and the same that is named twice, as though an identical complex of contents could be, when grasped transcendently, a thing, and when sensed immanently, a complex of sensations.
+
+- **introduced** · `transzendenz/ding/013` · *psychic transcendences*
+  Husserl leaves open whether consciousness itself could undergo an apprehension and constitute transcendences of an essentially new group, psychic transcendences.
+  `husserl-thing-and-space-commentary#h3-s15-presentational-contents-and-apprehension-perception` · Thing and Space §15 · [§15. Presentational contents and apprehension (perception)](https://faultynode.github.io/commentaries/commentaries/husserl/husserl-thing-and-space-commentary.html#presentational-contents-and-apprehension-perception)
+  > could what falls under the title of "consciousness" itself undergo an apprehension and constitute "transcendences of an essentially new group, psychic transcendences"?
+
+- **presupposed** · `transzendenz/ding/014` · *transcendence*
+  An ideal adequate appearance would leave no difference between appearance, what appears and the transcendence determined thereby, which is why Husserl becomes skeptical of the ideal.
+  `husserl-thing-and-space-commentary#h3-s33-the-role-of-improper-appearance-in-the-process-of-more-precise-determination` · Thing and Space §33 · [§33. The role of improper appearance in the process of more precise determination. The ideal of adequate perception](https://faultynode.github.io/commentaries/commentaries/husserl/husserl-thing-and-space-commentary.html#the-role-of-improper-appearance-in-the-process-of-more-precise-determination-the-ideal-of-adequate-perception)
+  > would there still be a difference between appearance, what appears, and the transcendence determined thereby?
+
+- **presupposed** · `transzendenz/ding/015` · *transcendence*
+  Movement presupposes the distinction between presenting content and presented object; it requires that the thing be constituted through but not as its presentational appearances.
+  `husserl-thing-and-space-commentary#h3-s34-movement-and-location-in-the-field-objective-movement-and-location` · Thing and Space §34 · [§34. Movement and location in the field — Objective movement and location](https://faultynode.github.io/commentaries/commentaries/husserl/husserl-thing-and-space-commentary.html#movement-and-location-in-the-field--objective-movement-and-location)
+  > Movement requires transcendence; it requires that the thing be constituted through but not as its presentational appearances.
+
+- **presupposed** · `transzendenz/ding/016` · *transcendence*
+  The thing is the identical pole of an infinite manifold of appearances, and its transcendence with respect to any finite series of perceptions is the constitutive condition of its being a spatial thing.
+  `husserl-thing-and-space-commentary#h3-s39-summary-the-perception-of-the-thing-as-a-process-interminable-in-principle` · Thing and Space §39 · [§39. Summary. The perception of the thing as a process interminable in principle](https://faultynode.github.io/commentaries/commentaries/husserl/husserl-thing-and-space-commentary.html#summary-the-perception-of-the-thing-as-a-process-interminable-in-principle)
+  > Its transcendence with respect to any individual perception or any finite series of perceptions is not a deficiency to be overcome but the constitutive condition of its being a spatial thing at all.
+
+- **introduced** · `transzendenz/ding/017` · *transcendence given on the pure ground of immanence*
+  An enduring or changing sound is a unity in its streaming manifold, adequately given yet a transcendence given on the pure ground of immanence.
+  `husserl-thing-and-space-commentary#h3-s48-the-presentational-means-of-the-visual-field` · Thing and Space §48 · [§48. The presentational means of the visual field](https://faultynode.github.io/commentaries/commentaries/husserl/husserl-thing-and-space-commentary.html#the-presentational-means-of-the-visual-field)
+  > A sound enduring or changing is a unity in its streaming manifold — an adequate givenness in the consciousness of unity, though a transcendence given on the pure ground of immanence.
+
+- **presupposed** · `transzendenz/ding/018` · *transcendence*
+  The halo of quasi-intentions accompanying each appearance is the phenomenological correlate of the thing's transcendence, its being more than any actually given appearance.
+  `husserl-thing-and-space-commentary#h3-s54-the-consciousness-of-unity-in-the-sequences-of-images-and-in-the-kinaestheti` · Thing and Space §54 · [§54. The consciousness of unity in the sequences of images and in the kinaesthetic sequences](https://faultynode.github.io/commentaries/commentaries/husserl/husserl-thing-and-space-commentary.html#the-consciousness-of-unity-in-the-sequences-of-images-and-in-the-kinaesthetic-sequences)
+  > The quasi-intentions are the phenomenological correlate of the thing's transcendence — its being more than any actually given appearance.
+
+- **introduced** · `transzendenz/ding/019` · *extensional transcendence*
+  Even a single side of a thing may transcend the visual field, which the commentary calls the extensional transcendence of the perceived world, phenomenologically constituted rather than inferred.
+  `husserl-thing-and-space-commentary#h3-s59-amplification-of-the-field-of-objects-positing-of-the-object-beyond-the-sphe` · Thing and Space §59 · [§59. Amplification of the field of Objects. Positing of the Object beyond the sphere of actual presentation](https://faultynode.github.io/commentaries/commentaries/husserl/husserl-thing-and-space-commentary.html#amplification-of-the-field-of-objects-positing-of-the-object-beyond-the-sphere-of-actual-presentation)
+  > §59 addresses what might be called the extensional transcendence of the perceived world — the fact that the world always extends beyond what is actually given
+
+- **presupposed** · `transzendenz/ding/020` · *objectivity transcending the images*
+  A series of images with a directedness toward change does not yet constitute an objectivity transcending the images; an apprehensional character with its surplus is needed.
+  `husserl-thing-and-space-commentary#h3-s62-the-new-entrance-of-images-into-the-field-elucidation-through-the-example-of` · Thing and Space §62 · [§62. The new entrance of images into the field. Elucidation through the example of the perception of a yew-alley](https://faultynode.github.io/commentaries/commentaries/husserl/husserl-thing-and-space-commentary.html#the-new-entrance-of-images-into-the-field-elucidation-through-the-example-of-the-perception-of-a-yew-alley)
+  > would not yet constitute an apprehension of the yew-alley as an objectivity transcending the images
+
+#### Recorded absences
+
+- **absent** · `husserl-thing-and-space-commentary#h3-s35-the-field-as-finite-means-of-presentation-the-perception-of-things-as-necess`
+  Expected because: The commentary on §34 says §35 will formalize the result that the thing must transcend all its field-presentations, and §9 announced the necessary transcendence of thinghood for demonstration in §§32-39.
+  [§35. The field as finite means of presentation. The perception of things as necessarily inadequate](https://faultynode.github.io/commentaries/commentaries/husserl/husserl-thing-and-space-commentary.html#the-field-as-finite-means-of-presentation-the-perception-of-things-as-necessarily-inadequate)
+
+- **absent** · `husserl-thing-and-space-commentary#h3-s84-real-existence-and-real-possibility`
+  Expected because: The final consideration on real existence is where the lectures settle the status of the constituted thing, which §13 grounded in the opposition of transcendent objectivity and absolute consciousness.
+  [§84. Real existence and real possibility](https://faultynode.github.io/commentaries/commentaries/husserl/husserl-thing-and-space-commentary.html#real-existence-and-real-possibility)
+
+*Partial pass: Term-led pass over the whole file (lines 1-2222): every paragraph containing the transcendence family, including bare transcendent and immanent, was read in full; paragraphs without any such word were not read, so a place where the theme works without its vocabulary would be missed.*
+
+### 1908 - Hua 26 - Theory of Meaning
+
+`husserliana-26-theory-of-meaning-commentary`
+
+- **introduced** · `transzendenz/hua26/001` · *pure immanence*
+  Cognition must be investigated not as a fact within a pregiven world but in pure immanence, as absolute givenness in which every actual world first constitutes itself.
+  `husserliana-26-theory-of-meaning-commentary#h3-s-2-the-relation-of-the-lecture-to-the-logical-investigations` · Hua XXVI § 2 · [§ 2. The Relation of the Lecture to the Logical Investigations](https://faultynode.github.io/commentaries/commentaries/husserl/husserliana-26-theory-of-meaning-commentary.html#the-relation-of-the-lecture-to-the-logical-investigations)
+  > not in relation to a pregiven actual world and not as a fact within that world, but in pure immanence, as absolute givenness in which every actual world first “constitutes” itself
+
+- **criticized** · `transzendenz/hua26/002` · *immanent form*
+  The categorial form a house is no immanent phanological or psychological form.
+  `husserliana-26-theory-of-meaning-commentary#h3-s-10-closer-working-out-of-the-difficulty-of-how-the-relation-of-meaning-and-obj` · Hua XXVI § 10 · [§ 10. Closer Working-Out of the Difficulty of How the Relation of Meaning and Object Simpliciter Is to Be Understood](https://faultynode.github.io/commentaries/commentaries/husserl/husserliana-26-theory-of-meaning-commentary.html#closer-working-out-of-the-difficulty-of-how-the-relation-of-meaning-and-object-simpliciter-is-to-be-understood)
+  > The categorial form “a house” is no immanent phanological or psychological form.
+
+#### Recorded absences
+
+- **absent** · `husserliana-26-theory-of-meaning-commentary#h3-s-6-the-meant-objectuality-and-the-stated-as-such`
+  Expected because: The meant objectuality is distinguished here, and §2 places the constitution of every objectuality in cognition studied in pure immanence.
+  [§ 6. The Meant Objectuality and the “Stated As Such”](https://faultynode.github.io/commentaries/commentaries/husserl/husserliana-26-theory-of-meaning-commentary.html#the-meant-objectuality-and-the-stated-as-such)
+
+*Partial pass: Term-led pass over the whole file (lines 1-874): every paragraph containing the transcendence family, including bare transcendent and immanent, was read; paragraphs without such a word were not read.*
+
+### 1908-1909 to 1914 - Husserl, Hua 28 — Vorlesungen über Ethik und Wertlehre
+
+`husserliana-28-vorlesungen-uber-ethik-und-wertlehre-commentary`
+
+- **presupposed** · `transzendenz/hua28/001` · *immanent essence*
+  Reason-appraisal of acts depends exclusively on their immanent essence, not on their being human acts within nature.
+  `husserliana-28-vorlesungen-uber-ethik-und-wertlehre-commentary#h4-c-the-interweaving-of-all-kinds-of-reason-and-their-ideals` · [(c) The Interweaving of All Kinds of Reason and Their Ideals](https://faultynode.github.io/commentaries/commentaries/husserl/husserliana-28-vorlesungen-uber-ethik-und-wertlehre-commentary.html#c-the-interweaving-of-all-kinds-of-reason-and-their-ideals)
+  > an appraisal for which it depends exclusively on the immanent essence of the acts, on their immanent kind, and not at all on whether they are human acts
+
+- **presupposed** · `transzendenz/hua28/002` · *"transcendent"*
+  Reflection on perception as subjective and the perceived as transcendent led to doubt whether knowledge could get beyond itself and assure itself of the being of the transcendent.
+  `husserliana-28-vorlesungen-uber-ethik-und-wertlehre-commentary#h4-a-the-naivety-of-the-natural-sciences` · [(a) The Naivety of the Natural Sciences](https://faultynode.github.io/commentaries/commentaries/husserl/husserliana-28-vorlesungen-uber-ethik-und-wertlehre-commentary.html#a-the-naivety-of-the-natural-sciences)
+  > one told oneself that perception and perceived thing are evidently different things, the one "subjective," the other "transcendent" to subjectivity; one fell into doubt whether human knowledge could get beyond itself and ever really assure itself of the being of the transcendent
+
+- **criticized** · `transzendenz/hua28/003` · *transcendent to my consciousness*
+  Positing something transcendent to consciousness, distinguishing correct from false knowledge and perception from illusion, are all occurrences within the consciousness-sphere.
+  `husserliana-28-vorlesungen-uber-ethik-und-wertlehre-commentary#h4-b-the-knowledge-problems-the-hidden-countersense-of-every-natural-theory-of-know` · [(b) The Knowledge-Problems. The Hidden Countersense of Every Natural Theory of Knowledge](https://faultynode.github.io/commentaries/commentaries/husserl/husserliana-28-vorlesungen-uber-ethik-und-wertlehre-commentary.html#b-the-knowledge-problems-the-hidden-countersense-of-every-natural-theory-of-knowledge)
+  > When, on the contrary, I posit in a consciousness something transcendent to my consciousness, an outer thing for instance, when I gain knowledge with regard to it
+
+- **presupposed** · `transzendenz/hua28/004` · *transcendent to the knowledge-consciousness*
+  The knowledge-problems were first felt as problems of nature-knowledge: how nature, transcendent to the knowledge-consciousness, can be known.
+  `husserliana-28-vorlesungen-uber-ethik-und-wertlehre-commentary#h4-a-the-principle-doctrines-offer-the-clues-for-the-phenomenological-epistemologic` · [(a) The Principle-Doctrines Offer the Clues for the Phenomenological-Epistemological Investigations](https://faultynode.github.io/commentaries/commentaries/husserl/husserliana-28-vorlesungen-uber-ethik-und-wertlehre-commentary.html#a-the-principle-doctrines-offer-the-clues-for-the-phenomenological-epistemological-investigations)
+  > how nature, being in itself, as something transcendent to the knowledge-consciousness, is yet to be knowable
+
+#### Recorded absences
+
+- **absent** · `husserliana-28-vorlesungen-uber-ethik-und-wertlehre-commentary#h4-a-the-cancellation-of-logical-skepticism-through-its-formal-countersense`
+  Expected because: The commentary elsewhere locates the skepticism of natural theories of knowledge in doubt about reaching the transcendent, and this section cancels logical skepticism.
+  [(a) The Cancellation of Logical Skepticism through its Formal Countersense](https://faultynode.github.io/commentaries/commentaries/husserl/husserliana-28-vorlesungen-uber-ethik-und-wertlehre-commentary.html#a-the-cancellation-of-logical-skepticism-through-its-formal-countersense)
+
+*Partial pass: Term-led pass over the whole file (lines 1-777): every paragraph containing the transcendence family, including bare transcendent and immanent, was read; paragraphs without such a word were not read.*
+
+### 1910-1911 - Husserl, Hua 13 — Basic Problems of Phenomenology
+
+`husserliana-13-basic-problems-of-phenomenology-commentary`
+
+- **introduced** · `transzendenz/hua13/001` · *transcendence within immanence*
+  The synopsis of the course names among its problems transcendence within immanence, the several concepts of transcendence, and the right of transcendent positing within immanence.
+  `husserliana-13-basic-problems-of-phenomenology-commentary#h3-s-1-the-i-in-the-natural-attitude` · Hua XIII § 1 · [§ 1\. The I in the Natural Attitude](https://faultynode.github.io/commentaries/commentaries/husserl/husserliana-13-basic-problems-of-phenomenology-commentary.html#the-i-in-the-natural-attitude)
+  > transcendence within immanence and the several distinct concepts of transcendence; the right (Recht, the warrant or legitimacy) of transcendent positing within immanence
+
+- **introduced** · `transzendenz/hua13/002` · *transcendence*
+  The in-itself being of the experienced thing remains forever pretension, since it is never given absolutely, and this hangs together with experience positing transcendence by its very sense.
+  `husserliana-13-basic-problems-of-phenomenology-commentary#h3-s-14-the-privilege-of-being-of-the-lived-experience-over-against-the-natural-obj` · Hua XIII § 14 · [§ 14\. The Privilege-of-Being of the Lived-Experience over against the Natural Object. Empirical (Transcendent) Perception and the Perception of the Pure Lived-Experience](https://faultynode.github.io/commentaries/commentaries/husserl/husserliana-13-basic-problems-of-phenomenology-commentary.html#the-privilege-of-being-of-the-lived-experience-over-against-the-natural-object-empirical-transcendent-perception-and-the-perception-of-the-pure-lived-experience)
+  > And this hangs together with the fact that experience, by its very sense, posits transcendence.
+
+- **presupposed** · `transzendenz/hua13/003` · *transcendent attitude*
+  The new phenomenological attitude switches off every empirical, transcendent attitude and accepts no object posited in it as actuality.
+  `husserliana-13-basic-problems-of-phenomenology-commentary#h3-s-15-the-phenomenological-attitude-delimitation-of-the-phenomenological-beholdin` · Hua XIII § 15 · [§ 15\. The Phenomenological Attitude. Delimitation of the Phenomenological Beholding or Perception of the Pure Lived-Experience over against the Inner Perception of the Psychic Lived-Experience](https://faultynode.github.io/commentaries/commentaries/husserl/husserliana-13-basic-problems-of-phenomenology-commentary.html#the-phenomenological-attitude-delimitation-of-the-phenomenological-beholding-or-perception-of-the-pure-lived-experience-over-against-the-inner-perception-of-the-psychic-lived-experience)
+  > We can give ourselves, quite generally, a new kind of attitude that switches off every empirical, transcendent attitude.
+
+- **criticized** · `transzendenz/hua13/004` · *transcendence*
+  Solipsism arises from a misunderstanding of the proper sense of transcendence and its switching-off, which mistakes psychological immanence for phenomenological immanence.
+  `husserliana-13-basic-problems-of-phenomenology-commentary#h3-s-18-the-objection-of-solipsism` · Hua XIII § 18 · [§ 18\. The Objection of Solipsism](https://faultynode.github.io/commentaries/commentaries/husserl/husserliana-13-basic-problems-of-phenomenology-commentary.html#the-objection-of-solipsism)
+  > a misunderstanding of the proper sense of transcendence and of its switching-off leads one to mistake psychological immanence — which is the solipsistic one, the immanence of my mental states within my worldly soul — for phenomenological immanence
+
+- **presupposed** · `transzendenz/hua13/005` · *transcends*
+  The past of the perception transcends the now, so that switching it off by analogy with the empirically transcendent would leave nothing to judge.
+  `husserliana-13-basic-problems-of-phenomenology-commentary#h3-s-24-the-absolute-givenness-of-the-phenomenologically-perceived-the-senselessnes` · Hua XIII § 24 · [§ 24\. The Absolute Givenness of the Phenomenologically Perceived. The Senselessness of a Switching-Off in Phenomenological Perception](https://faultynode.github.io/commentaries/commentaries/husserl/husserliana-13-basic-problems-of-phenomenology-commentary.html#the-absolute-givenness-of-the-phenomenologically-perceived-the-senselessness-of-a-switching-off-in-phenomenological-perception)
+  > The past transcends the now, and so, it seems, I must switch it off, analogously to the empirically transcendent.
+
+- **introduced** · `transzendenz/hua13/006` · *"transcendence" within the phenomenological attitude*
+  Admitting retention, and not only it but that of which it is retention, admits a transcendence within the phenomenological attitude.
+  `husserliana-13-basic-problems-of-phenomenology-commentary#h3-s-25-the-retention-implied-in-phenomenological-perception-as-a-transcendence-wit` · Hua XIII § 25 · [§ 25\. The Retention Implied in Phenomenological Perception as a "Transcendence" within the Phenomenological Attitude](https://faultynode.github.io/commentaries/commentaries/husserl/husserliana-13-basic-problems-of-phenomenology-commentary.html#the-retention-implied-in-phenomenological-perception-as-a-transcendence-within-the-phenomenological-attitude)
+  > Therewith we have admitted a "transcendence" within the phenomenological attitude: insofar as we admit not only the retention itself as phenomenological being, but also that of which it is retention.
+
+- **presupposed** · `transzendenz/hua13/007` · *transcendences within the phenomenological immanence*
+  Admitting that the perception remembered in recollection in fact was yields new transcendences within phenomenological immanence, which are not absolute indubitabilities.
+  `husserliana-13-basic-problems-of-phenomenology-commentary#h3-s-26-the-phenomenological-recollection-and-its-possibility-of-deception-transfor` · Hua XIII § 26 · [§ 26\. The Phenomenological Recollection and Its Possibility of Deception. Transformation of Empirical Memory into Phenomenological Memory](https://faultynode.github.io/commentaries/commentaries/husserl/husserliana-13-basic-problems-of-phenomenology-commentary.html#the-phenomenological-recollection-and-its-possibility-of-deception-transformation-of-empirical-memory-into-phenomenological-memory)
+  > With this, Husserl says, we would have new "transcendences" within the phenomenological immanence
+
+- **presupposed** · `transzendenz/hua13/008` · *transcendence in the phenomenological immanence*
+  The phenomenological reduction yields an abundance of intuitive connections beheld in other manners than phenomenological perception, so there is throughout transcendence in the phenomenological immanence and the possibility of deception.
+  `husserliana-13-basic-problems-of-phenomenology-commentary#h3-s-28-the-phenomenological-experience-its-transcendence-in-the-immanence-and-the` · Hua XIII § 28 · [§ 28\. The Phenomenological Experience. Its "Transcendence in the Immanence" and the Possibility of Deception. Empathy and Self-Experience](https://faultynode.github.io/commentaries/commentaries/husserl/husserliana-13-basic-problems-of-phenomenology-commentary.html#the-phenomenological-experience-its-transcendence-in-the-immanence-and-the-possibility-of-deception-empathy-and-self-experience)
+  > Throughout, there is "transcendence in the phenomenological immanence," and throughout, the possibility of deception.
+
+- **criticized** · `transzendenz/hua13/009` · *transcendence (first sense)*
+  Transcendence in the general sense that the cognition-object is not itself present in the act belongs to every intentional relation, and in that respect one does not speak of transcendence lest immanence lose its sense.
+  `husserliana-13-basic-problems-of-phenomenology-commentary#h3-s-30-immanence-and-transcendence-the-ambiguity-of-these-terms-and-the-sense-of-i` · Hua XIII § 30 · [§ 30\. Immanence and Transcendence. The Ambiguity of these Terms and the Sense of Immanence and Transcendence in the Field of Phenomenology](https://faultynode.github.io/commentaries/commentaries/husserl/husserliana-13-basic-problems-of-phenomenology-commentary.html#immanence-and-transcendence-the-ambiguity-of-these-terms-and-the-sense-of-immanence-and-transcendence-in-the-field-of-phenomenology)
+  > In this respect, however, one does not speak of "transcendence," for then the opposite term "immanence" would lose all sense.
+
+- **introduced** · `transzendenz/hua13/010` · *transcendence (second sense)*
+  In the second sense immanence is only what is bodily present to a beholding, and everything non-present stands on the side of transcendence, including what a reduced recollection reproduces.
+  `husserliana-13-basic-problems-of-phenomenology-commentary#h3-s-30-immanence-and-transcendence-the-ambiguity-of-these-terms-and-the-sense-of-i` · Hua XIII § 30 · [§ 30\. Immanence and Transcendence. The Ambiguity of these Terms and the Sense of Immanence and Transcendence in the Field of Phenomenology](https://faultynode.github.io/commentaries/commentaries/husserl/husserliana-13-basic-problems-of-phenomenology-commentary.html#immanence-and-transcendence-the-ambiguity-of-these-terms-and-the-sense-of-immanence-and-transcendence-in-the-field-of-phenomenology)
+  > On the side of immanence, in this second sense, stands only the beheld
+
+- **introduced** · `transzendenz/hua13/011` · *transcendence (third sense)*
+  In the third sense immanence and transcendence divide individual objects into the beholdable and those given only through appearances, and nature belongs on the side of transcendence.
+  `husserliana-13-basic-problems-of-phenomenology-commentary#h3-s-30-immanence-and-transcendence-the-ambiguity-of-these-terms-and-the-sense-of-i` · Hua XIII § 30 · [§ 30\. Immanence and Transcendence. The Ambiguity of these Terms and the Sense of Immanence and Transcendence in the Field of Phenomenology](https://faultynode.github.io/commentaries/commentaries/husserl/husserliana-13-basic-problems-of-phenomenology-commentary.html#immanence-and-transcendence-the-ambiguity-of-these-terms-and-the-sense-of-immanence-and-transcendence-in-the-field-of-phenomenology)
+  > On the side of transcendence, in this third sense, belongs precisely nature — for "nature" is just the title encompassing the totality of objectivities that present themselves through appearances.
+
+- **revised** · `transzendenz/hua13/012` · *transcendence*
+  Phenomenology does not want to switch off transcendence in every sense, only transcendence in the sense of the appearing, that is, nature.
+  `husserliana-13-basic-problems-of-phenomenology-commentary#h3-s-30-immanence-and-transcendence-the-ambiguity-of-these-terms-and-the-sense-of-i` · Hua XIII § 30 · [§ 30\. Immanence and Transcendence. The Ambiguity of these Terms and the Sense of Immanence and Transcendence in the Field of Phenomenology](https://faultynode.github.io/commentaries/commentaries/husserl/husserliana-13-basic-problems-of-phenomenology-commentary.html#immanence-and-transcendence-the-ambiguity-of-these-terms-and-the-sense-of-immanence-and-transcendence-in-the-field-of-phenomenology)
+  > phenomenology does not want to switch off transcendence in every sense. From the very outset it was defined by the switching-off of nature — of transcendence in a determinate sense, transcendence in the sense of the appearing
+
+- **presupposed** · `transzendenz/hua13/013` · *transcendence*
+  The all-embracing phenomenological reduction switches off all transcendence in the sense of natural existence-positing without doubting it.
+  `husserliana-13-basic-problems-of-phenomenology-commentary#h3-s-32-repetition-and-new-presentation-the-phenomenological-reduction-to-the-pure` · Hua XIII § 32 · [§ 32\. Repetition and New Presentation: The Phenomenological Reduction to the Pure Consciousness as Individual Being and the Problems of the Reach of the Reduced Consciousness-World and of the Possibility of Phenomenological Science](https://faultynode.github.io/commentaries/commentaries/husserl/husserliana-13-basic-problems-of-phenomenology-commentary.html#repetition-and-new-presentation-the-phenomenological-reduction-to-the-pure-consciousness-as-individual-being-and-the-problems-of-the-reach-of-the-reduced-consciousness-world-and-of-the-possibility-of-phenomenological-science)
+  > we switch off all transcendence in the sense of natural existence-positing
+
+- **introduced** · `transzendenz/hua13/014` · *transcendent unity*
+  Wherever natural experience posits a transcendent unity, its existence is bracketed but the positing serves as an index for determinate pure connections of consciousness.
+  `husserliana-13-basic-problems-of-phenomenology-commentary#h3-s-35-the-transcendent-unities-of-natural-experience-as-indices-of-actual-and-pos` · Hua XIII § 35 · [§ 35\. The Transcendent Unities of Natural Experience as Indices of Actual and Possible Pure Connections of Consciousness. Turning of All Natural Experience and All Sciences into the Phenomenological](https://faultynode.github.io/commentaries/commentaries/husserl/husserliana-13-basic-problems-of-phenomenology-commentary.html#the-transcendent-unities-of-natural-experience-as-indices-of-actual-and-possible-pure-connections-of-consciousness-turning-of-all-natural-experience-and-all-sciences-into-the-phenomenological)
+  > wherever natural experience posits a transcendent unity — an existing real thing, a real constellation, an existing process of change, whether in present, past, or future — there this existence is indeed bracketed
+
+- **presupposed** · `transzendenz/hua13/015` · *transcendent cognition*
+  Psychophysical cognition is natural cognition only through its interweaving with physical natural cognition, called transcendent cognition, and stands as an intermediate member.
+  `husserliana-13-basic-problems-of-phenomenology-commentary#h3-s-42-the-equivalence-of-natural-cognition-and-of-cognition-of-the-correlative-co` · Hua XIII § 42 · [§ 42\. The Equivalence of Natural Cognition and of Cognition of the Correlative Consciousness-Connections, and the Application of Apriori Consciousness-Cognition to the Phenomenological Connections of Empirical Natural Cognition. Psychophysics](https://faultynode.github.io/commentaries/commentaries/husserl/husserliana-13-basic-problems-of-phenomenology-commentary.html#the-equivalence-of-natural-cognition-and-of-cognition-of-the-correlative-consciousness-connections-and-the-application-of-apriori-consciousness-cognition-to-the-phenomenological-connections-of-empirical-natural-cognition-psychophysics)
+  > which is properly natural cognition only through its interweaving with genuine, physical natural cognition (transcendent cognition)
+
+#### Recorded absences
+
+- **absent** · `husserliana-13-basic-problems-of-phenomenology-commentary#h3-s-39-the-attainment-of-other-phenomenological-i-s-through-double-phenomenologica`
+  Expected because: The other I is attained through double reduction and nature becomes an index of coordinated monads, extending the formula of §35 that turns the transcendent unity into an index.
+  [§ 39\. The Attainment of Other Phenomenological I's through Double Phenomenological Reduction. Nature as the Index of the Coordination of a Multiplicity of I-Monads](https://faultynode.github.io/commentaries/commentaries/husserl/husserliana-13-basic-problems-of-phenomenology-commentary.html#the-attainment-of-other-phenomenological-is-through-double-phenomenological-reduction-nature-as-the-index-of-the-coordination-of-a-multiplicity-of-i-monads)
+
+- **absent** · `husserliana-13-basic-problems-of-phenomenology-commentary#h3-s-40-the-abstention-from-every-judgment-about-the-being-of-nature-in-the-phenome`
+  Expected because: The section restates the abstention from every judgment about the being of nature, which §30 defined as the switching-off of transcendence in a determinate sense.
+  [§ 40\. The Abstention from Every Judgment about the Being of Nature in the Phenomenological Reduction](https://faultynode.github.io/commentaries/commentaries/husserl/husserliana-13-basic-problems-of-phenomenology-commentary.html#the-abstention-from-every-judgment-about-the-being-of-nature-in-the-phenomenological-reduction)
+
+*Partial pass: Term-led pass over the whole file (lines 1-419): every paragraph containing the transcendence family, including bare transcendent and immanent, was read in full; paragraphs without any such word were not read.*
+
+### 1911 - Husserl, Hua 43/2 — Studien zur Struktur des Bewusstseins
+
+`husserliana-43-2-studien-zur-struktur-des-bewusstseins-commentary`
+
+- **introduced** · `transzendenz/hua43-2/001` · *immanent and transient intuition*
+  On both the empirical and the feeling side Husserl distinguishes immanent and transient intuition, immanent perception and memory being directed at primary contents.
+  `husserliana-43-2-studien-zur-struktur-des-bewusstseins-commentary#h3-s-2-empirical-apperception-and-apperception-of-feeling-do-belief-and-pleasure-st` · [§ 2\. Empirical Apperception and Apperception of Feeling. Do Belief and Pleasure Stand on the Same Level?](https://faultynode.github.io/commentaries/commentaries/husserl/husserliana-43-2-studien-zur-struktur-des-bewusstseins-commentary.html#empirical-apperception-and-apperception-of-feeling-do-belief-and-pleasure-stand-on-the-same-level)
+  > On both sides we distinguish immanent and transient intuition.
+
+- **introduced** · `transzendenz/hua43-2/002` · *transcendence*
+  As perception, so the pleasing has its transcendence, since its united intentions point to possible fulfillments.
+  `husserliana-43-2-studien-zur-struktur-des-bewusstseins-commentary#h3-s-4-feeling-motivation-in-distinction-from-empirical-associative-motivation` · [§ 4\. Feeling-Motivation in Distinction from Empirical-Associative Motivation](https://faultynode.github.io/commentaries/commentaries/husserl/husserliana-43-2-studien-zur-struktur-des-bewusstseins-commentary.html#feeling-motivation-in-distinction-from-empirical-associative-motivation)
+  > As perception, so the pleasing too has its transcendence.
+
+- **presupposed** · `transzendenz/hua43-2/003` · *transcendent predicate*
+  Value in general is a transcendent predicate referring to empirical thingnesses, though immanent valuation, as of a sequence of tones, is also possible.
+  `husserliana-43-2-studien-zur-struktur-des-bewusstseins-commentary#h3-s-4-feeling-motivation-in-distinction-from-empirical-associative-motivation` · [§ 4\. Feeling-Motivation in Distinction from Empirical-Associative Motivation](https://faultynode.github.io/commentaries/commentaries/husserl/husserliana-43-2-studien-zur-struktur-des-bewusstseins-commentary.html#feeling-motivation-in-distinction-from-empirical-associative-motivation)
+  > In general value is a transcendent predicate and as such refers to empirical thingnesses.
+
+- **presupposed** · `transzendenz/hua43-2/004` · *transcendent thing-perception*
+  Co-meant-nesses that essentially belong to transcendent thing-perception must be distinguished from other co-meant-nesses that are not thoughts.
+  `husserliana-43-2-studien-zur-struktur-des-bewusstseins-commentary#h3-s-5-valuing-as-an-act-founded-in-perceiving-fulfillment-of-the-value-meaning-imm` · [§ 5\. Valuing as an Act Founded in Perceiving. Fulfillment of the Value-Meaning. Immediate and Mediate Values](https://faultynode.github.io/commentaries/commentaries/husserl/husserliana-43-2-studien-zur-struktur-des-bewusstseins-commentary.html#valuing-as-an-act-founded-in-perceiving-fulfillment-of-the-value-meaning-immediate-and-mediate-values)
+  > There presses urgently a need to distinguish sharply between co-meant-nesses that one must essentially count as belonging to transcendent thing-perception
+
+- **introduced** · `transzendenz/hua43-2/005` · *transcendent value*
+  An editorial footnote states that transient values constitute themselves through transient apperceptions, as a new unity in valuing on the ground of the thing-unity.
+  `husserliana-43-2-studien-zur-struktur-des-bewusstseins-commentary#h3-s-5-valuing-as-an-act-founded-in-perceiving-fulfillment-of-the-value-meaning-imm` · [§ 5\. Valuing as an Act Founded in Perceiving. Fulfillment of the Value-Meaning. Immediate and Mediate Values](https://faultynode.github.io/commentaries/commentaries/husserl/husserliana-43-2-studien-zur-struktur-des-bewusstseins-commentary.html#valuing-as-an-act-founded-in-perceiving-fulfillment-of-the-value-meaning-immediate-and-mediate-values)
+  > and the constitution of the transcendent value is not such that to every thing-appearance a valuation-moment is correlated in the value-consciousness
+
+- **introduced** · `transzendenz/hua43-2/006` · *immanent values*
+  Valuation of things leads back to immanent valuations of intuitive moments; primary values are immanent values.
+  `husserliana-43-2-studien-zur-struktur-des-bewusstseins-commentary#h3-s-5-valuing-as-an-act-founded-in-perceiving-fulfillment-of-the-value-meaning-imm` · [§ 5\. Valuing as an Act Founded in Perceiving. Fulfillment of the Value-Meaning. Immediate and Mediate Values](https://faultynode.github.io/commentaries/commentaries/husserl/husserliana-43-2-studien-zur-struktur-des-bewusstseins-commentary.html#valuing-as-an-act-founded-in-perceiving-fulfillment-of-the-value-meaning-immediate-and-mediate-values)
+  > Primary values are immanent values — values that hang directly on something immanent.
+
+- **presupposed** · `transzendenz/hua43-2/007` · *immanent time-unity*
+  The primary content constitutes itself as immanent time-unity in inner time-consciousness, with sensible feeling presumably a higher layer over it.
+  `husserliana-43-2-studien-zur-struktur-des-bewusstseins-commentary#h3-appendix-iii-sensible-feeling-as-immanent-time-unity-is-not-an-act-referred-to-t` · [Appendix III. Sensible Feeling as Immanent Time-Unity Is Not an Act Referred to the Sensation-Content](https://faultynode.github.io/commentaries/commentaries/husserl/husserliana-43-2-studien-zur-struktur-des-bewusstseins-commentary.html#appendix-iii-sensible-feeling-as-immanent-time-unity-is-not-an-act-referred-to-the-sensation-content)
+  > The primary content as immanent time-unity constitutes itself in inner time-consciousness
+
+- **presupposed** · `transzendenz/hua43-2/008` · *immanent time*
+  The layer of mere affections, where primary contents constitute themselves, has the original a priori form of all immanent experiences, immanent time.
+  `husserliana-43-2-studien-zur-struktur-des-bewusstseins-commentary#h3-s-1-affection-apprehension-turning-toward-and-creative-act-of-the-understanding` · [§ 1\. Affection, Apprehension, Turning-Toward, and Creative Act of the Understanding](https://faultynode.github.io/commentaries/commentaries/husserl/husserliana-43-2-studien-zur-struktur-des-bewusstseins-commentary.html#affection-apprehension-turning-toward-and-creative-act-of-the-understanding)
+  > Here we have an original and a priori form, the form of all immanent experiences: immanent time.
+
+#### Recorded absences
+
+- **absent** · `husserliana-43-2-studien-zur-struktur-des-bewusstseins-commentary#h3-s-1-determinations-of-the-thing-and-determinations-of-value`
+  Expected because: Determinations of value are set against determinations of the thing here, and §4 calls value in general a transcendent predicate referring to empirical thingnesses.
+  [§ 1\. Determinations of the Thing and Determinations of Value](https://faultynode.github.io/commentaries/commentaries/husserl/husserliana-43-2-studien-zur-struktur-des-bewusstseins-commentary.html#determinations-of-the-thing-and-determinations-of-value)
+
+*Partial pass: Term-led pass over the whole file (lines 1-521): every paragraph containing the transcendence family, including bare transcendent and immanent, was read; paragraphs without such a word were not read, and transient alone was not searched.*
+
+### 1912 to 1924-1928 - Hua 4 - Ideas II
+
+`husserliana-4-ideas-ii-commentary`
+
+- **presupposed** · `transzendenz/hua4/001` · *transcendent realities*
+  Nature is initially determined as the field of transcendent realities, specifically spatiotemporal realities.
+  `husserliana-4-ideas-ii-commentary#h3-s1-preliminary-delimitation-of-the-concepts-of-nature-and-experience-exclusion-o` · Ideas II § 1 · [§1. Preliminary Delimitation of the Concepts of Nature and Experience (Exclusion of Meaning-Predicates)](https://faultynode.github.io/commentaries/commentaries/husserl/husserliana-4-ideas-ii-commentary.html#preliminary-delimitation-of-the-concepts-of-nature-and-experience-exclusion-of-meaning-predicates)
+  > He recalls the initial determination that nature is the field of transcendent realities, specifically spatiotemporal realities.
+
+- **introduced** · `transzendenz/hua4/002` · *immanent phenomenological time*
+  Pure egos are given originally and in absolute selfhood in immanent phenomenological time, without constitution through manifolds, whereas real egos and all realities stand in reverse.
+  `husserliana-4-ideas-ii-commentary#h3-s28-the-real-ego-as-transcendent-object-constituted-the-pure-ego-as-immanently-g` · Ideas II § 28 · [§28. The Real Ego as Transcendent Object Constituted — the Pure Ego as Immanently Given](https://faultynode.github.io/commentaries/commentaries/husserl/husserliana-4-ideas-ii-commentary.html#the-real-ego-as-transcendent-object-constituted--the-pure-ego-as-immanently-given)
+  > in the sphere of immanent phenomenological time, neither capable of nor requiring constitution through “manifolds” — with the real egos and all realities things stand in reverse
+
+- **presupposed** · `transzendenz/hua4/003` · *transcendent*
+  The psychic ego is not the monadic flux nor a real moment of it but a unity essentially referred to it yet in a certain sense transcendent to it.
+  `husserliana-4-ideas-ii-commentary#h3-s30-the-real-psychic-subject` · Ideas II § 30 · [§30. The Real Psychic Subject](https://faultynode.github.io/commentaries/commentaries/husserl/husserliana-4-ideas-ii-commentary.html#the-real-psychic-subject)
+  > but rather a unity essentially referred to it yet in a certain sense transcendent to it
+
+- **presupposed** · `transzendenz/hua4/004` · *transcending apperceptions*
+  Phenomenological reflection and reduction, with eidetic reduction and the purging of all transcending apperceptions, turn the inquiry into a pure one.
+  `husserliana-4-ideas-ii-commentary#h3-s49-the-personalistic-attitude-in-contrast-to-the-naturalistic` · Ideas II § 49 · [§49. The Personalistic Attitude in Contrast to the Naturalistic](https://faultynode.github.io/commentaries/commentaries/husserl/husserliana-4-ideas-ii-commentary.html#the-personalistic-attitude-in-contrast-to-the-naturalistic)
+  > with eidetic reduction and the purging of all transcending apperceptions, turn the whole inquiry into a pure one
+
+- **presupposed** · `transzendenz/hua4/005` · *immanent form*
+  Each of my experiences, as constituent of the objective spatiotemporal world, is not directly experienceable, since the form of intersubjective objectivity is no immanent form.
+  `husserliana-4-ideas-ii-commentary#h3-s51-the-person-in-the-personal-association` · Ideas II § 51 · [§51. The Person in the Personal Association](https://faultynode.github.io/commentaries/commentaries/husserl/husserliana-4-ideas-ii-commentary.html#the-person-in-the-personal-association)
+  > since the form of reality, that of intersubjective objectivity, is no immanent form
+
+- **presupposed** · `transzendenz/hua4/006` · *transcendent to the subject*
+  Thing-appearances are not states of the subject, as is clear from their being transcendent to the subject's actual experiences.
+  `husserliana-4-ideas-ii-commentary#h3-s52-subjective-appearance-manifolds-and-objective-things` · Ideas II § 52 · [§52. Subjective Appearance-Manifolds and Objective Things](https://faultynode.github.io/commentaries/commentaries/husserl/husserliana-4-ideas-ii-commentary.html#subjective-appearance-manifolds-and-objective-things)
+  > that they are not states of the subject is clear from their being transcendent to the subject's actual states, its experiences
+
+- **presupposed** · `transzendenz/hua4/007` · *immanent time*
+  Objective and subjective time, my immanent and my spatio-temporal, are a priori a single temporal order.
+  `husserliana-4-ideas-ii-commentary#h3-s52-subjective-appearance-manifolds-and-objective-things` · Ideas II § 52 · [§52. Subjective Appearance-Manifolds and Objective Things](https://faultynode.github.io/commentaries/commentaries/husserl/husserliana-4-ideas-ii-commentary.html#subjective-appearance-manifolds-and-objective-things)
+  > a priori objective time and subjective time — my immanent and my spatio-temporal — are a single temporal order
+
+- **introduced** · `transzendenz/hua4/008` · *transcendence-thesis*
+  Acts such as I push or I dance are also a cogito, but one that includes a transcendence-thesis within it.
+  `husserliana-4-ideas-ii-commentary#h3-s55-the-spiritual-ego-in-its-behavior-toward-its-surrounding-world` · Ideas II § 55 · [§55. The Spiritual Ego in Its Behavior Toward Its Surrounding World](https://faultynode.github.io/commentaries/commentaries/husserl/husserliana-4-ideas-ii-commentary.html#the-spiritual-ego-in-its-behavior-toward-its-surrounding-world)
+  > One can say that the "I push," "I dance" and the like is also a cogito, only one that includes a transcendence-thesis in itself and harbors the "ego sum" within this mixed form.
+
+- **presupposed** · `transzendenz/hua4/009` · *immanent motivations*
+  In the structure of thing-constituting consciousness all nature with space, time and causality is dissolved into a web of immanent motivations.
+  `husserliana-4-ideas-ii-commentary#h4-d-motivation-on-the-noetic-and-noematic-side` · [d) Motivation on the Noetic and Noematic Side](https://faultynode.github.io/commentaries/commentaries/husserl/husserliana-4-ideas-ii-commentary.html#d-motivation-on-the-noetic-and-noematic-side)
+  > we see that all nature with space, time, causality and the rest is completely dissolved into a web of immanent motivations
+
+- **presupposed** · `transzendenz/hua4/010` · *physically determined transcendence*
+  Once the physical substrate is physicalized, body and soul too receive a physically determined transcendence.
+  `husserliana-4-ideas-ii-commentary#h3-s62-interpenetration-of-personalistic-and-naturalistic-attitude` · Ideas II § 62 · [§62. Interpenetration of Personalistic and Naturalistic Attitude](https://faultynode.github.io/commentaries/commentaries/husserl/husserliana-4-ideas-ii-commentary.html#interpenetration-of-personalistic-and-naturalistic-attitude)
+  > This holds at first only for the physical substrate, but as soon as it becomes physical, body and soul too receive a physically determined transcendence.
+
+#### Recorded absences
+
+- **absent** · `husserliana-4-ideas-ii-commentary#h3-s10-things-spatial-phantoms-and-sensation-data`
+  Expected because: The analysis of things, spatial phantoms and sensation data falls within nature, which §1 determined as the field of transcendent realities.
+  [§10. Things, Spatial Phantoms, and Sensation Data](https://faultynode.github.io/commentaries/commentaries/husserl/husserliana-4-ideas-ii-commentary.html#things-spatial-phantoms-and-sensation-data)
+
+*Partial pass: Term-led pass over the whole file (lines 1-1213): every paragraph containing the transcendence family, including bare transcendent and immanent, was read; paragraphs without such a word were not read.*
+
+### 1912 - Hua 5 - Ideas III
+
+`husserliana-5-ideas-iii-commentary`
+
+- **presupposed** · `transzendenz/hua5/001` · *immanent temporality*
+  Soul-states are consciousness-experiences given adequately, without the intermediary of appearance, in the plane of immanent temporality.
+  `husserliana-5-ideas-iii-commentary#h3-s11-differences-in-the-relations-of-physics-and-psychology-to-their-ontological` · Ideas III § 11 · [§11. Differences in the Relations of Physics and Psychology to Their Ontological Foundations. The Significance of Description in Both Sciences](https://faultynode.github.io/commentaries/commentaries/husserl/husserliana-5-ideas-iii-commentary.html#differences-in-the-relations-of-physics-and-psychology-to-their-ontological-foundations-the-significance-of-description-in-both-sciences)
+  > the soul-states are the “consciousness-experiences” that are adequately given themselves, without the intermediary of appearance, in the plane of immanent temporality
+
+- **presupposed** · `transzendenz/hua5/002` · *transcendencies*
+  Material thing, body and soul are determinate transcendencies constituting themselves in pure consciousness, and the absolute is won only by reduction to it.
+  `husserliana-5-ideas-iii-commentary#h3-s12-further-clarification-of-the-relation-of-rational-psychology-and-phenomenolo` · Ideas III § 12 · [§12. Further Clarification of the Relation of Rational Psychology and Phenomenology](https://faultynode.github.io/commentaries/commentaries/husserl/husserliana-5-ideas-iii-commentary.html#further-clarification-of-the-relation-of-rational-psychology-and-phenomenology)
+  > Material thing, body, soul — these are quite determinate and specific transcendencies, constituting themselves in pure consciousness for the pure I in their own way and fully understandably
+
+- **presupposed** · `transzendenz/hua5/003` · *"transcendent being"*
+  In transcendental experiencing all transcendent being is bracketed, and in its place remains the being-meant of the transcendent, the noemata.
+  `husserliana-5-ideas-iii-commentary#h3-s13-the-field-of-phenomenological-research` · Ideas III § 13 · [§13. The Field of Phenomenological Research](https://faultynode.github.io/commentaries/commentaries/husserl/husserliana-5-ideas-iii-commentary.html#the-field-of-phenomenological-research)
+  > In transcendental experiencing, all “transcendent being” — understood in the normal sense as true being — is excluded, “bracketed.”
+
+- **revised** · `transzendenz/hua5/004` · *phenomenological immanence*
+  Once phenomenological method is secure, methodologically permissible transgressions emerge that justify themselves within a suitably extended phenomenological immanence.
+  `husserliana-5-ideas-iii-commentary#h3-s17-the-significance-of-ontological-concepts-for-psychology` · Ideas III § 17 · [§17. The Significance of Ontological Concepts for Psychology](https://faultynode.github.io/commentaries/commentaries/husserl/husserliana-5-ideas-iii-commentary.html#the-significance-of-ontological-concepts-for-psychology)
+  > there also emerge methodologically permissible transgressions that from a higher standpoint justify themselves within a suitably extended phenomenological immanence
+
+- **presupposed** · `transzendenz/hua5/005` · *immanent time*
+  In the realizing apprehension immanent time becomes a manifestation of objective time, so the world of realities becomes a single world.
+  `husserliana-5-ideas-iii-commentary#h4-s2-the-realizing-apprehension-of-the-pure-i` · [§2. The Realizing Apprehension of the Pure I](https://faultynode.github.io/commentaries/commentaries/husserl/husserliana-5-ideas-iii-commentary.html#the-realizing-apprehension-of-the-pure-i)
+  > Immanent time becomes a manifestation of objective time; the immanent “simultaneous” becomes a manifestation of the objective “simultaneous.”
+
+#### Recorded absences
+
+- **absent** · `husserliana-5-ideas-iii-commentary#h3-s1-material-thing-material-perception-material-natural-science-physics`
+  Expected because: Material thing and material perception open the work, and §12 counts the material thing among the transcendencies constituted in pure consciousness.
+  [§1. Material Thing, Material Perception, Material Natural Science (Physics)](https://faultynode.github.io/commentaries/commentaries/husserl/husserliana-5-ideas-iii-commentary.html#material-thing-material-perception-material-natural-science-physics)
+
+*Partial pass: Term-led pass over the whole file (lines 1-467): every paragraph containing the transcendence family, including bare transcendent and immanent, was read; paragraphs without such a word were not read.*
+
+### 1913-1928 - Hua 3 - Ideas I §111ff
+
+`husserliana-3-ideas-i-commentary`
+
+- **presupposed** · `transzendenz/hua3/001` · *transcendently directed perceptions*
+  Beside immanent perceptions that actually posit their objects there are transcendently directed positing perceptions, the outer perceptions.
+  `husserliana-3-ideas-i-commentary#h2-s-113-actual-and-potential-positings` · Ideas I § 113 · [§ 113. Actual and Potential Positings](https://faultynode.github.io/commentaries/commentaries/husserl/husserliana-3-ideas-i-commentary.html#actual-and-potential-positings)
+  > Alongside these there are also transcendently directed perceptions of the same being-positing character—the so-called outer perceptions.
+
+- **introduced** · `transzendenz/hua3/002` · *transcendence*
+  Being is either immanent, as closed experience or noematic correlate, or transcendent, whose transcendence lies in the infinity of the noematic correlate required as its matter.
+  `husserliana-3-ideas-i-commentary#h2-s-144-reality-and-originarily-giving-consciousness-concluding-determinations` · Ideas I § 144 · [§ 144. Reality and Originarily Giving Consciousness: Concluding Determinations](https://faultynode.github.io/commentaries/commentaries/husserl/husserliana-3-ideas-i-commentary.html#reality-and-originarily-giving-consciousness-concluding-determinations)
+  > In one case, being is “immanent”—being as a closed experience or noematic experience-correlate; in the other, transcendent being, whose “transcendence” lies in the infinity of the noematic correlate required as its being-“matter.”
+
+- **presupposed** · `transzendenz/hua3/003` · *transcending intuition*
+  Where giving intuition is transcending, adequate givenness is impossible and only the Idea of the objectuality with an a priori rule for inadequate experiences can be given.
+  `husserliana-3-ideas-i-commentary#h2-s-144-reality-and-originarily-giving-consciousness-concluding-determinations` · Ideas I § 144 · [§ 144. Reality and Originarily Giving Consciousness: Concluding Determinations](https://faultynode.github.io/commentaries/commentaries/husserl/husserliana-3-ideas-i-commentary.html#reality-and-originarily-giving-consciousness-concluding-determinations)
+  > Where the giving intuition is transcending, adequate givenness is impossible; only the Idea of such an objectuality can be given, together with an a priori rule for the lawful infinities of inadequate experiences.
+
+#### Recorded absences
+
+- **absent** · `husserliana-3-ideas-i-commentary#h2-s-149-the-reason-theoretical-problems-of-the-regional-ontologies-the-problem-of`
+  Expected because: The constitution problem of the regions follows §144, which divided being into the immanent and the transcendent given only as an Idea.
+  [§ 149. The Reason-Theoretical Problems of the Regional Ontologies. The Problem of Phenomenological Constitution](https://faultynode.github.io/commentaries/commentaries/husserl/husserliana-3-ideas-i-commentary.html#the-reason-theoretical-problems-of-the-regional-ontologies-the-problem-of-phenomenological-constitution)
+
+*Partial pass: Term-led pass over the whole file (lines 1-467): every paragraph containing the transcendence family, including bare transcendent and immanent, was read; paragraphs without such a word were not read.*
+
+### 1913-1928 - Husserl, Hua 3 — Ideas I, Parts 3–4
+
+`husserliana-3-ideas-i-parts-3-4-commentary`
+
+- **presupposed** · `transzendenz/hua3-34/001` · *transcendencies*
+  If the phenomenological reductions are observed and all transcendencies switched off as they require, a field of eidetic cognitions opens.
+  `husserliana-3-ideas-i-parts-3-4-commentary#h3-s-63-the-particular-significance-of-methodological-considerations-for-phenomenol` · Ideas I § 63 · [§ 63\. The Particular Significance of Methodological Considerations for Phenomenology](https://faultynode.github.io/commentaries/commentaries/husserl/husserliana-3-ideas-i-parts-3-4-commentary.html#the-particular-significance-of-methodological-considerations-for-phenomenology)
+  > switch off all transcendencies exactly as they demand, take the experiences thus purely according to their own essence, then there opens to us, according to all that has been laid out, a field of eidetic cognitions
+
+- **presupposed** · `transzendenz/hua3-34/002` · *transcendent-eidetic spheres*
+  The whole natural world and all transcendent-eidetic spheres are switched off to win a pure consciousness, which raises the objection that the phenomenologists are members of the natural world.
+  `husserliana-3-ideas-i-parts-3-4-commentary#h3-s-64-the-self-switching-off-of-the-phenomenologist` · Ideas I § 64 · [§ 64\. The Self-Switching-Off of the Phenomenologist](https://faultynode.github.io/commentaries/commentaries/husserl/husserliana-3-ideas-i-parts-3-4-commentary.html#the-self-switching-off-of-the-phenomenologist)
+  > We switch off the whole natural world and all transcendent-eidetic spheres and are thereby to win a "pure" consciousness.
+
+- **presupposed** · `transzendenz/hua3-34/003` · *immanent*
+  A thing can never reach absolute self-givenness because of adumbration, whereas an essence or immanent moment can reach absolute clarity, since neither is adumbrated.
+  `husserliana-3-ideas-i-parts-3-4-commentary#h3-s-67-method-of-clarification-nearness-to-givenness-and-farness-from-givenness` · Ideas I § 67 · [§ 67\. Method of Clarification. "Nearness to Givenness" and "Farness from Givenness"](https://faultynode.github.io/commentaries/commentaries/husserl/husserliana-3-ideas-i-parts-3-4-commentary.html#method-of-clarification-nearness-to-givenness-and-farness-from-givenness)
+  > an essence or an immanent moment can reach absolute clarity, since the eidetic and the immanent are not adumbrated
+
+- **introduced** · `transzendenz/hua3-34/004` · *"transcendent" being*
+  The doctrine of categories must start from the most radical distinction of being: being as consciousness, and transcendent being that announces itself in consciousness.
+  `husserliana-3-ideas-i-parts-3-4-commentary#h3-s-76-the-theme-of-the-following-investigations` · Ideas I § 76 · [§ 76\. The Theme of the Following Investigations](https://faultynode.github.io/commentaries/commentaries/husserl/husserliana-3-ideas-i-parts-3-4-commentary.html#the-theme-of-the-following-investigations)
+  > being as consciousness, and being as the "transcendent" being that "announces itself" in consciousness
+
+- **presupposed** · `transzendenz/hua3-34/005` · *everything transcendent*
+  Everything transcendent that comes to givenness in consciousness is an object of phenomenological investigation, both on the side of the consciousness of it and as the given.
+  `husserliana-3-ideas-i-parts-3-4-commentary#h3-s-76-the-theme-of-the-following-investigations` · Ideas I § 76 · [§ 76\. The Theme of the Following Investigations](https://faultynode.github.io/commentaries/commentaries/husserl/husserliana-3-ideas-i-parts-3-4-commentary.html#the-theme-of-the-following-investigations)
+  > Everything transcendent, insofar as it comes to givenness in consciousness, is an object of phenomenological investigation not only on the side of the consciousness of it
+
+- **presupposed** · `transzendenz/hua3-34/006` · *immanent perception*
+  Immanent perception has absolute right for what it brings to originary givenness, immanent retention absolute right within its reach, immanent recollection only relative right.
+  `husserliana-3-ideas-i-parts-3-4-commentary#h3-s-78-the-phenomenological-study-of-experience-reflections` · Ideas I § 78 · [§ 78\. The Phenomenological Study of Experience-Reflections](https://faultynode.github.io/commentaries/commentaries/husserl/husserliana-3-ideas-i-parts-3-4-commentary.html#the-phenomenological-study-of-experience-reflections)
+  > Immanent perception has absolute right (for what it actually brings to originary givenness).
+
+- **presupposed** · `transzendenz/hua3-34/007` · *immanent perception*
+  The whole experience-stream is grasped indubitably as an Idea, but from a different source than immanent perception, which gives a single experience itself.
+  `husserliana-3-ideas-i-parts-3-4-commentary#h3-s-83-grasping-the-unitary-experience-stream-as-an-idea` · Ideas I § 83 · [§ 83\. Grasping the Unitary Experience-Stream as an "Idea"](https://faultynode.github.io/commentaries/commentaries/husserl/husserliana-3-ideas-i-parts-3-4-commentary.html#grasping-the-unitary-experience-stream-as-an-idea)
+  > Immanent perception gives a single experience itself; the Idea gives the whole stream as the ideal pole of an endless progression.
+
+- **presupposed** · `transzendenz/hua3-34/008` · *transcendencies*
+  Switching off all transcendencies, phenomenology arrives on the ground of pure consciousness at the transcendental problems and so deserves the name transcendental phenomenology.
+  `husserliana-3-ideas-i-parts-3-4-commentary#h3-s-86-the-functional-problems` · Ideas I § 86 · [§ 86\. The Functional Problems](https://faultynode.github.io/commentaries/commentaries/husserl/husserliana-3-ideas-i-parts-3-4-commentary.html#the-functional-problems)
+  > In its purely eidetic attitude, "switching off" all transcendencies, phenomenology comes, on its own ground of pure consciousness, necessarily to this whole complex of the transcendental problems in the specific sense
+
+- **presupposed** · `transzendenz/hua3-34/009` · *transcendent world*
+  The transcendent world is bracketed by the epoché, and with it the real relation between perception and perceived is switched off.
+  `husserliana-3-ideas-i-parts-3-4-commentary#h3-s-88-reell-and-intentional-experience-components-the-noema` · Ideas I § 88 · [§ 88\. Reell and Intentional Experience-Components. The Noema](https://faultynode.github.io/commentaries/commentaries/husserl/husserliana-3-ideas-i-parts-3-4-commentary.html#reell-and-intentional-experience-components-the-noema)
+  > The transcendent world receives its "bracket"; we practice, with respect to its actual being, the epoché.
+
+- **introduced** · `transzendenz/hua3-34/010` · *pure immanence*
+  After the epoché a relation between perception and perceived remains, an essential relation given in pure immanence rather than a real relation between two realities.
+  `husserliana-3-ideas-i-parts-3-4-commentary#h3-s-88-reell-and-intentional-experience-components-the-noema` · Ideas I § 88 · [§ 88\. Reell and Intentional Experience-Components. The Noema](https://faultynode.github.io/commentaries/commentaries/husserl/husserliana-3-ideas-i-parts-3-4-commentary.html#reell-and-intentional-experience-components-the-noema)
+  > This remaining relation is not a real relation between two realities but an essential relation given in pure immanence, internal to the reduced experience itself.
+
+- **presupposed** · `transzendenz/hua3-34/011` · *purely immanent*
+  The noematic sense, as a purely immanent component of the reduced experience, is separated by an abyss from everything real.
+  `husserliana-3-ideas-i-parts-3-4-commentary#h3-s-89-noematic-statements-and-reality-statements-the-noema-in-the-psychological-s` · Ideas I § 89 · [§ 89\. Noematic Statements and Reality-Statements. The Noema in the Psychological Sphere](https://faultynode.github.io/commentaries/commentaries/husserl/husserliana-3-ideas-i-parts-3-4-commentary.html#noematic-statements-and-reality-statements-the-noema-in-the-psychological-sphere)
+  > So the noematic sense, as a purely immanent component of the reduced experience, is separated by an abyss from everything real (natural, physical, psychological).
+
+- **criticized** · `transzendenz/hua3-34/012` · *"immanent" object*
+  The names immanent and mental object mislead: separating the actual tree from an immanent tree inhering reell in the experience creates two realities where only one is findable.
+  `husserliana-3-ideas-i-parts-3-4-commentary#h3-s-90-the-noematic-sense-and-the-distinction-of-immanent-and-actual-objects` · Ideas I § 90 · [§ 90\. The "Noematic Sense" and the Distinction of "Immanent" and "Actual Objects"](https://faultynode.github.io/commentaries/commentaries/husserl/husserliana-3-ideas-i-parts-3-4-commentary.html#the-noematic-sense-and-the-distinction-of-immanent-and-actual-objects)
+  > Putting an "immanent tree" or "inner image" inside the experience creates two trees where there is only one.
+
+- **presupposed** · `transzendenz/hua3-34/013` · *transcendent positing*
+  Under the reduction every transcendent positing, above all the one in perception, is bracketed, and no judgment may use the thesis of the whole transcendent nature.
+  `husserliana-3-ideas-i-parts-3-4-commentary#h3-s-90-the-noematic-sense-and-the-distinction-of-immanent-and-actual-objects` · Ideas I § 90 · [§ 90\. The "Noematic Sense" and the Distinction of "Immanent" and "Actual Objects"](https://faultynode.github.io/commentaries/commentaries/husserl/husserliana-3-ideas-i-parts-3-4-commentary.html#the-noematic-sense-and-the-distinction-of-immanent-and-actual-objects)
+  > If we now carry out the phenomenological reduction, every transcendent positing, above all the one lying in the perception itself, receives its switching-off bracket
+
+- **presupposed** · `transzendenz/hua3-34/014` · *transcendent unities*
+  Image and signified, abstracted from their characters, are unities conscious in the experience but transcendent to it, so their characters cannot be reell.
+  `husserliana-3-ideas-i-parts-3-4-commentary#h3-s-101-characters-of-levels-the-different-re-presentations` · Ideas I § 101 · [§ 101\. Characters of Levels. The Different Re-presentations](https://faultynode.github.io/commentaries/commentaries/husserl/husserliana-3-ideas-i-parts-3-4-commentary.html#characters-of-levels-the-different-re-presentations)
+  > The image and the signified, in abstraction from the characterizations belonging to them, "image for," "imaged," "sign for," "signified," are evidently in the experience conscious but to it transcendent unities.
+
+- **presupposed** · `transzendenz/hua3-34/015` · *transcendently directed perceptions*
+  Beside immanent perceptions, which actually posit their objects, there are transcendently directed positing perceptions, the so-called outer ones.
+  `husserliana-3-ideas-i-parts-3-4-commentary#h3-s-113-actual-and-potential-positings` · Ideas I § 113 · [§ 113\. Actual and Potential Positings](https://faultynode.github.io/commentaries/commentaries/husserl/husserliana-3-ideas-i-parts-3-4-commentary.html#actual-and-potential-positings)
+  > Beside them there are among the same also transcendently directed, in the same sense being-positing perceptions, the so-called outer ones.
+
+- **presupposed** · `transzendenz/hua3-34/016` · *transcendences in the sense of realities*
+  Evidence is adequate in the eidetic and immanent spheres and inadequate, defeasible and graded, in the sphere of things, the transcendences in the sense of realities.
+  `husserliana-3-ideas-i-parts-3-4-commentary#h3-s-138-adequate-and-inadequate-evidence` · Ideas I § 138 · [§ 138\. Adequate and Inadequate Evidence](https://faultynode.github.io/commentaries/commentaries/husserl/husserliana-3-ideas-i-parts-3-4-commentary.html#adequate-and-inadequate-evidence)
+  > The phenomenology of reason in the sphere of the in principle only inadequately to be given being-kinds (the transcendences in the sense of realities) has thus to study the various in this sphere a priori prefigured occurrences.
+
+- **presupposed** · `transzendenz/hua3-34/017` · *transcendent objects*
+  All transcendent objects, all realities spanned by nature or world, can be given in no closed consciousness in complete determinateness and intuitiveness.
+  `husserliana-3-ideas-i-parts-3-4-commentary#h3-s-143-adequate-thing-givenness-as-idea-in-the-kantian-sense` · Ideas I § 143 · [§ 143\. Adequate Thing-Givenness as Idea in the Kantian Sense](https://faultynode.github.io/commentaries/commentaries/husserl/husserliana-3-ideas-i-parts-3-4-commentary.html#adequate-thing-givenness-as-idea-in-the-kantian-sense)
+  > There are objects — and all transcendent objects, all "realities" that the title nature or world spans, belong here — that in no closed consciousness in complete determinateness and in equally-complete intuitiveness can be given.
+
+- **revised** · `transzendenz/hua3-34/018` · *transcendence*
+  Transcendent being is being whose transcendence lies in the infinity of the noematic correlate it demands, as against immanent being as closed experience or noematic correlate.
+  `husserliana-3-ideas-i-parts-3-4-commentary#h3-s-144-actuality-and-originarily-giving-consciousness-concluding-determinations` · Ideas I § 144 · [§ 144\. Actuality and Originarily-Giving Consciousness: Concluding Determinations](https://faultynode.github.io/commentaries/commentaries/husserl/husserliana-3-ideas-i-parts-3-4-commentary.html#actuality-and-originarily-giving-consciousness-concluding-determinations)
+  > in the other case transcendent being, that is, being whose "transcendence" precisely lies in the infinity of the noematic correlate that it as being-"matter" demands
+
+- **presupposed** · `transzendenz/hua3-34/019` · *transcending intuition*
+  Where giving intuition is transcending, the object cannot be adequately given; only its Idea is given, with an a priori rule for the lawful infinities of inadequate experiences.
+  `husserliana-3-ideas-i-parts-3-4-commentary#h3-s-144-actuality-and-originarily-giving-consciousness-concluding-determinations` · Ideas I § 144 · [§ 144\. Actuality and Originarily-Giving Consciousness: Concluding Determinations](https://faultynode.github.io/commentaries/commentaries/husserl/husserliana-3-ideas-i-parts-3-4-commentary.html#actuality-and-originarily-giving-consciousness-concluding-determinations)
+  > Where the giving intuition is a transcending one, there the objective cannot come to adequate givenness; given can only be the Idea of such an objective
+
+#### Recorded absences
+
+- **absent** · `husserliana-3-ideas-i-parts-3-4-commentary#h3-s-142-rational-thesis-and-being`
+  Expected because: The section opens the concluding determinations of §§142-144, where §144 divides truly-being into the finitely given immanent and the transcendent given only as an Idea.
+  [§ 142\. Rational Thesis and Being](https://faultynode.github.io/commentaries/commentaries/husserl/husserliana-3-ideas-i-parts-3-4-commentary.html#rational-thesis-and-being)
+
+- **absent** · `husserliana-3-ideas-i-parts-3-4-commentary#h3-s-150-continuation-the-region-thing-as-transcendental-leitfaden`
+  Expected because: The region thing taken as clue for constitution is the region that §§138 and 143 assign to transcendent being given only inadequately.
+  [§ 150\. Continuation. The Region Thing as Transcendental Leitfaden](https://faultynode.github.io/commentaries/commentaries/husserl/husserliana-3-ideas-i-parts-3-4-commentary.html#continuation-the-region-thing-as-transcendental-leitfaden)
+
+*Partial pass: Term-led pass over the whole file (lines 1-1499): every paragraph containing the transcendence family, including bare transcendent and immanent, was read; paragraphs without such a word were not read.*
+
+### 1917 to 1918 - Husserl, Hua 33 — Die Bernauer Manuskripte über das Zeitbewußtsein
+
+`husserliana-33-die-bernauer-manuskripte-uber-das-zeitbewusstsein-commentary`
+
+- **introduced** · `transzendenz/hua33/001` · *immanent time-objects*
+  The editors report that the earlier texts call sensations immanent time-objects, distinguished from transcendent objects in objective time.
+  `husserliana-33-die-bernauer-manuskripte-uber-das-zeitbewusstsein-commentary#h2-iii` · [III](https://faultynode.github.io/commentaries/commentaries/husserl/husserliana-33-die-bernauer-manuskripte-uber-das-zeitbewusstsein-commentary.html#iii)
+  > Sensations are called "immanent time-objects" in the earlier texts, distinguished from transcendent objects in objective time (e.g., a violin tone).
+
+- **presupposed** · `transzendenz/hua33/002` · *transcendent object*
+  As a transcendent object constitutes itself in the apprehension of a sensation-datum, so sensation constitutes itself in absolute consciousness as an immanent time-object.
+  `husserliana-33-die-bernauer-manuskripte-uber-das-zeitbewusstsein-commentary#h2-iii` · [III](https://faultynode.github.io/commentaries/commentaries/husserl/husserliana-33-die-bernauer-manuskripte-uber-das-zeitbewusstsein-commentary.html#iii)
+  > Just as a transcendent object constitutes itself in the apprehension of a sensation-datum, so sensation itself constitutes itself in "absolute" consciousness as a (present, past, or future) immanent time-object.
+
+- **presupposed** · `transzendenz/hua33/003` · *immanent time-objects*
+  The flow of absolute retentional consciousness has a double intentionality, one transverse intentionality directed at immanent time-objects and one longitudinal intentionality of self-reference.
+  `husserliana-33-die-bernauer-manuskripte-uber-das-zeitbewusstsein-commentary#h2-iii` · [III](https://faultynode.github.io/commentaries/commentaries/husserl/husserliana-33-die-bernauer-manuskripte-uber-das-zeitbewusstsein-commentary.html#iii)
+  > The flow of "absolute" retentional consciousness thus harbors a double intentionality: one directed at immanent time-objects ("transverse intentionality" / Querintentionalität) and one having the form of self-reference or self-consciousness of the flow
+
+- **introduced** · `transzendenz/hua33/004` · *mutually transcendent egos*
+  Husserl distinguishes immanent from transcendent time and states that all egos, constituted as mutually transcendent, have the same time-modality and stand in the same Now.
+  `husserliana-33-die-bernauer-manuskripte-uber-das-zeitbewusstsein-commentary#h4-s-1-by-way-of-introduction-the-rigid-time-order-and-the-flow-of-time-modalities` · [§ 1\. By Way of Introduction: The Rigid Time-Order and the Flow of Time-Modalities. Solipsistic and Intersubjective Time. Constitution of Objective Time. The "Presence-Time." Time and Space](https://faultynode.github.io/commentaries/commentaries/husserl/husserliana-33-die-bernauer-manuskripte-uber-das-zeitbewusstsein-commentary.html#by-way-of-introduction-the-rigid-time-order-and-the-flow-of-time-modalities-solipsistic-and-intersubjective-time-constitution-of-objective-time-the-presence-time-time-and-space)
+  > All egos (constituted as mutually transcendent) simultaneously have the same modality of time, stand in the same Now.
+
+- **revised** · `transzendenz/hua33/005` · *immanent*
+  Where perception is taken as an act-objectivity in immanent time, immanent has the Ideas sense of relation to adequately given objectivities in an adequately given time-form, and the argument against unchanging perception fails.
+  `husserliana-33-die-bernauer-manuskripte-uber-das-zeitbewusstsein-commentary#h4-s-1-how-does-the-perception-of-immanent-data-differ-from-the-inner-consciousness` · [§ 1\. How Does the Perception of Immanent Data Differ from the Inner Consciousness of This Perception?](https://faultynode.github.io/commentaries/commentaries/husserl/husserliana-33-die-bernauer-manuskripte-uber-das-zeitbewusstsein-commentary.html#how-does-the-perception-of-immanent-data-differ-from-the-inner-consciousness-of-this-perception)
+  > "Immanent" here has the Ideas sense: relation to the unity of adequately given objectivities in an adequately given time-form.
+
+- **presupposed** · `transzendenz/hua33/006` · *immanent perception*
+  The immanent perception does not properly constitute the perceived but is a correlative unity of immanent time, and immanent temporal objectivity itself points back to the primal process.
+  `husserliana-33-die-bernauer-manuskripte-uber-das-zeitbewusstsein-commentary#h4-s-5-noetic-and-noematic-temporality` · [§ 5\. Noetic and Noematic Temporality](https://faultynode.github.io/commentaries/commentaries/husserl/husserliana-33-die-bernauer-manuskripte-uber-das-zeitbewusstsein-commentary.html#noetic-and-noematic-temporality)
+  > The immanent perception is not what properly constitutes the perceived but is a correlative, essentially belonging unity of immanent time.
+
+- **presupposed** · `transzendenz/hua33/007` · *pure immanence*
+  In pure immanence no plurality of subjects is first given, so immanent time comes first, then the constitution of an objective non-immanent time, then intersubjective time.
+  `husserliana-33-die-bernauer-manuskripte-uber-das-zeitbewusstsein-commentary#h4-s-4-the-multiple-times-and-the-one-time-subjective-and-intersubjective-time` · [§ 4\. The Multiple Times and the One Time. Subjective and Intersubjective Time](https://faultynode.github.io/commentaries/commentaries/husserl/husserliana-33-die-bernauer-manuskripte-uber-das-zeitbewusstsein-commentary.html#the-multiple-times-and-the-one-time-subjective-and-intersubjective-time)
+  > So first we have immanent time, then the problem of constituting an "objective" non-immanent time, then a time constituting foreign and own consciousness as human, intersubjectively identifiable.
+
+- **criticized** · `transzendenz/hua33/008` · *immanent objects*
+  Even for immanent objects the constituted unity can never be a piece of the constituting consciousness; the real hyletic datum is a component of consciousness, not of the conscious object.
+  `husserliana-33-die-bernauer-manuskripte-uber-das-zeitbewusstsein-commentary#h3-supplement-iv-to-s-3-of-text-nr-8-is-the-presently-originally-given-tone-point-a` · [Supplement IV (to § 3 of Text Nr. 8): Is the Presently Originally Given Tone-Point a Real Content of Consciousness? On the Problematic of Noematic Time-Objects and of Apprehension in Time-Consciousness](https://faultynode.github.io/commentaries/commentaries/husserl/husserliana-33-die-bernauer-manuskripte-uber-das-zeitbewusstsein-commentary.html#supplement-iv-to--3-of-text-nr-8-is-the-presently-originally-given-tone-point-a-real-content-of-consciousness-on-the-problematic-of-noematic-time-objects-and-of-apprehension-in-time-consciousness)
+  > Even for immanent objects, the constituted unity of consciousness can never be a consciousness-piece in the constituting consciousness.
+
+- **introduced** · `transzendenz/hua33/009` · *transcendence*
+  Outer perception is a continuous course of inner perceptions of immanent temporalities, through which a second intentionality constitutes the outer object in its transcendence and objective time.
+  `husserliana-33-die-bernauer-manuskripte-uber-das-zeitbewusstsein-commentary#h4-s-1-outer-perception-is-founded-in-the-time-objects-of-immanent-perception` · [§ 1\. Outer Perception Is Founded in the Time-Objects of Immanent Perception](https://faultynode.github.io/commentaries/commentaries/husserl/husserliana-33-die-bernauer-manuskripte-uber-das-zeitbewusstsein-commentary.html#outer-perception-is-founded-in-the-time-objects-of-immanent-perception)
+  > outer perception is in its essence a continuous course of "inner" perceptions (perceptions of immanent temporalities), through which a second intentionality runs, constituting the outer object in its transcendence and objective time through "representation."
+
+- **criticized** · `transzendenz/hua33/010` · *immanent perceiving*
+  Immanent perceiving can no longer be called apprehending in the sense of outer perception, since no deeper constituted object lies beneath the sensation-datum.
+  `husserliana-33-die-bernauer-manuskripte-uber-das-zeitbewusstsein-commentary#h4-s-3-various-concepts-of-apprehension-in-outer-and-immanent-perception-the-intent` · [§ 3\. Various Concepts of Apprehension in Outer and Immanent Perception. The Intentional Modification of Retention, Phantasy, or Recollection Implies No New Apprehension](https://faultynode.github.io/commentaries/commentaries/husserl/husserliana-33-die-bernauer-manuskripte-uber-das-zeitbewusstsein-commentary.html#various-concepts-of-apprehension-in-outer-and-immanent-perception-the-intentional-modification-of-retention-phantasy-or-recollection-implies-no-new-apprehension)
+  > He considers whether immanent perceiving can itself be called apprehending—but in the same sense, no longer: there is no concrete consciousness with a still-deeper constituted object lying beneath the sensation-datum.
+
+- **presupposed** · `transzendenz/hua33/011` · *immanent objects*
+  The being of immanent objects is inseparable from the being of their constituting process, unless that process is a last primal process conscious of itself.
+  `husserliana-33-die-bernauer-manuskripte-uber-das-zeitbewusstsein-commentary#h4-s-3-the-perceivability-of-temporal-objects-of-various-levels-perception-with-and` · [§ 3\. The Perceivability of Temporal Objects of Various Levels. Perception with and without Grasping](https://faultynode.github.io/commentaries/commentaries/husserl/husserliana-33-die-bernauer-manuskripte-uber-das-zeitbewusstsein-commentary.html#the-perceivability-of-temporal-objects-of-various-levels-perception-with-and-without-grasping)
+  > their being is inseparable from the being of their constituting process
+
+- **presupposed** · `transzendenz/hua33/012` · *transcendent objects*
+  Within the discussion of phenomenological idealism, the perceivability of transcendent objects does not require that they be immanent, and spatial objects can be without being actually perceived.
+  `husserliana-33-die-bernauer-manuskripte-uber-das-zeitbewusstsein-commentary#h4-s-4-phenomenological-idealism-real-and-ideally-possible-subjects-and-the-perceiv` · [§ 4\. Phenomenological Idealism. Real and Ideally Possible Subjects and the Perceivability of Time-Objects](https://faultynode.github.io/commentaries/commentaries/husserl/husserliana-33-die-bernauer-manuskripte-uber-das-zeitbewusstsein-commentary.html#phenomenological-idealism-real-and-ideally-possible-subjects-and-the-perceivability-of-time-objects)
+  > The perceivability of transcendent objects does not require that they be "immanent." Spatial objects can be without being actually perceived.
+
+- **introduced** · `transzendenz/hua33/013` · *second transcendence-level*
+  The diagram shows the constitution both of the time-stretch of the event and of the sequence of constituting experiences of the second transcendence-level.
+  `husserliana-33-die-bernauer-manuskripte-uber-das-zeitbewusstsein-commentary#h4-s-2-the-objection-of-the-infinite-regress-are-the-experiences-constituting-the-e` · [§ 2\. The Objection of the Infinite Regress: Are the Experiences Constituting the Event-Phases Not Themselves Again Constituted?](https://faultynode.github.io/commentaries/commentaries/husserl/husserliana-33-die-bernauer-manuskripte-uber-das-zeitbewusstsein-commentary.html#the-objection-of-the-infinite-regress-are-the-experiences-constituting-the-event-phases-not-themselves-again-constituted)
+  > but also the sequence of constituting experiences of the second transcendence-level
+
+- **presupposed** · `transzendenz/hua33/014` · *transcendent objective world*
+  A purely hyletic environment as first immanent temporal objectivity co-develops with the lowest-level ego up to the empirical ego that has a transcendent objective world over against it.
+  `husserliana-33-die-bernauer-manuskripte-uber-das-zeitbewusstsein-commentary#h4-s-1-the-eidetic-shape-of-psychic-interiority-temporal-ur-genesis-ego-and-hyle` · [§ 1\. The Eidetic Shape of Psychic Interiority. Temporal Ur-Genesis, Ego, and Hyle](https://faultynode.github.io/commentaries/commentaries/husserl/husserliana-33-die-bernauer-manuskripte-uber-das-zeitbewusstsein-commentary.html#the-eidetic-shape-of-psychic-interiority-temporal-ur-genesis-ego-and-hyle)
+  > the latter up to the empirical ego that has a transcendent objective world over against it
+
+- **introduced** · `transzendenz/hua33/015` · *immanent individuality*
+  Everything in the pure consciousness-stream can change within filled immanent time except the ego, which is the necessary immanent individuality.
+  `husserliana-33-die-bernauer-manuskripte-uber-das-zeitbewusstsein-commentary#h4-s-2-the-pure-ego-and-time-the-ego-as-all-temporal-individual-and-as-secondary-ti` · [§ 2\. The Pure Ego and Time. The Ego as All-Temporal Individual and as Secondary Time-Object](https://faultynode.github.io/commentaries/commentaries/husserl/husserliana-33-die-bernauer-manuskripte-uber-das-zeitbewusstsein-commentary.html#the-pure-ego-and-time-the-ego-as-all-temporal-individual-and-as-secondary-time-object)
+  > It is the necessary immanent individuality.
+
+- **presupposed** · `transzendenz/hua33/016` · *immanent time*
+  For mediately constituted physical spatial objects, immanent time serves as apprehensive representative, and through it an objective apprehended time accrues.
+  `husserliana-33-die-bernauer-manuskripte-uber-das-zeitbewusstsein-commentary#h4-s-3-the-temporal-essential-determinations-of-the-constituting-consciousness-and` · [§ 3\. The Temporal Essential Determinations of the Constituting Consciousness and of the (Individual and General) Constituted Objects](https://faultynode.github.io/commentaries/commentaries/husserl/husserliana-33-die-bernauer-manuskripte-uber-das-zeitbewusstsein-commentary.html#the-temporal-essential-determinations-of-the-constituting-consciousness-and-of-the-individual-and-general-constituted-objects)
+  > When objects are mediately constituted (e.g., "physical" spatial objects), immanent time serves as apprehensive representative — and through this representation, an "objective" apprehended time accrues.
+
+#### Recorded absences
+
+- **absent** · `husserliana-33-die-bernauer-manuskripte-uber-das-zeitbewusstsein-commentary#h4-s-1-modification-of-clarity-with-identical-objectual-apprehension-in-perception`
+  Expected because: The section holds the objectual apprehension identical across perception, retention, recollection and phantasy, the point at which Part III separates the transcendent object from the immanent data that represent it.
+  [§ 1\. Modification of Clarity with Identical Objectual Apprehension in Perception, Retention, Recollection, and Phantasy](https://faultynode.github.io/commentaries/commentaries/husserl/husserliana-33-die-bernauer-manuskripte-uber-das-zeitbewusstsein-commentary.html#modification-of-clarity-with-identical-objectual-apprehension-in-perception-retention-recollection-and-phantasy)
+
+*Partial pass: Term-led pass over the whole file (lines 1-969): every paragraph containing the transcendence family, including bare transcendent and immanent, was read; paragraphs without such a word were not read. Most occurrences are the technical "immanent time-object"; only places where immanence or transcendence does work are recorded.*
+
+### 1919 - Husserl Natur und Geist 1919 Commentary
+
+`husserl-natur-und-geist-commentary`
+
+- **introduced** · `transzendenz/nug/001` · *immanent to consciousness*
+  What is given as being-for-me includes not only consciousness and its immanent contents but also what is foreign and external to the I.
+  `husserl-natur-und-geist-commentary#h3-ego-life-as-constant-perceiving-impression-and-reproduction` · [Ego-Life as Constant Perceiving: Impression and Reproduction](https://faultynode.github.io/commentaries/commentaries/husserl/husserl-natur-und-geist-commentary.html#ego-life-as-constant-perceiving-impression-and-reproduction)
+  > But the givenness extends beyond what is immanent to consciousness: what is "foreign" to the I, "external" to it, is also given through consciousness.
+
+- **introduced** · `transzendenz/nug/002` · *immanent and transcendent perception*
+  Husserl draws the fundamental contrast between inner, immanent perception and outer, transcendent perception, with esse = percipi holding for the immanent sphere.
+  `husserl-natur-und-geist-commentary#h3-inner-and-outer-perception-object-and-appearance` · [Inner and Outer Perception. Object and Appearance](https://faultynode.github.io/commentaries/commentaries/husserl/husserl-natur-und-geist-commentary.html#inner-and-outer-perception-object-and-appearance)
+  > Husserl now draws the fundamental contrast between inner (immanent) and outer (transcendent) perception.
+
+- **introduced** · `transzendenz/nug/003` · *transcending the perception*
+  The outer-perceived gives itself as in-itself, contingent to being perceived, and as transcending the perception and the whole I-ish sphere.
+  `husserl-natur-und-geist-commentary#h3-inner-and-outer-perception-object-and-appearance` · [Inner and Outer Perception. Object and Appearance](https://faultynode.github.io/commentaries/commentaries/husserl/husserl-natur-und-geist-commentary.html#inner-and-outer-perception-object-and-appearance)
+  > It thus gives itself as something for which being-perceived, having-been, and going-to-be are contingent — as in-itself over against the factual perceiving of the perceiving subject, as transcending the perception and with the perception the whole sphere of the I-ish.
+
+- **presupposed** · `transzendenz/nug/004` · *transcendence*
+  The possibility of error is structurally connected to the transcendence of the outer object, because the object claims to be in itself.
+  `husserl-natur-und-geist-commentary#h3-inner-and-outer-perception-object-and-appearance` · [Inner and Outer Perception. Object and Appearance](https://faultynode.github.io/commentaries/commentaries/husserl/husserl-natur-und-geist-commentary.html#inner-and-outer-perception-object-and-appearance)
+  > The possibility of error (false perception, illusion) is structurally connected to this transcendence: because the object claims to be "in itself," the perception can be wrong about it.
+
+- **criticized** · `transzendenz/nug/005` · *immanent experiences*
+  That the being of immanent experiences is exhausted in their being-conscious is a phenomenological description, not a metaphysical idealism.
+  `husserl-natur-und-geist-commentary#h3-inner-and-outer-perception-object-and-appearance` · [Inner and Outer Perception. Object and Appearance](https://faultynode.github.io/commentaries/commentaries/husserl/husserl-natur-und-geist-commentary.html#inner-and-outer-perception-object-and-appearance)
+  > The being of immanent experiences is exhausted in their being-conscious (esse = percipi), but this must be understood carefully: it is not a metaphysical idealism but a phenomenological description.
+
+- **presupposed** · `transzendenz/nug/006` · *transcendent*
+  Immanent perception excludes modal modification while outer perception is susceptible to it, which establishes absolute evidence of the immanent against presumptive evidence of the transcendent.
+  `husserl-natur-und-geist-commentary#h3-inner-and-outer-perception-object-and-appearance` · [Inner and Outer Perception. Object and Appearance](https://faultynode.github.io/commentaries/commentaries/husserl/husserl-natur-und-geist-commentary.html#inner-and-outer-perception-object-and-appearance)
+  > This analysis establishes the fundamental distinction between the absolute evidence of the immanent and the merely presumptive evidence of the transcendent.
+
+- **presupposed** · `transzendenz/nug/007` · *"transcendent"*
+  Objects called I-foreign, transcendent or outer are perceivable only as appearing and are what they are only as something appearing in appearances.
+  `husserl-natur-und-geist-commentary#h3-inner-and-outer-perception-object-and-appearance` · [Inner and Outer Perception. Object and Appearance](https://faultynode.github.io/commentaries/commentaries/husserl/husserl-natur-und-geist-commentary.html#inner-and-outer-perception-object-and-appearance)
+  > We can straightforwardly say: they are what they are only as something appearing in appearances; for were they otherwise, perceptions would have to be thinkable in which they would bodily give themselves in their otherness.
+
+- **presupposed** · `transzendenz/nug/008` · *immanent perception*
+  The object of immanent perception in principle cannot appear: the distinction between object and appearance is necessarily absent for it.
+  `husserl-natur-und-geist-commentary#h3-inner-and-outer-perception-object-and-appearance` · [Inner and Outer Perception. Object and Appearance](https://faultynode.github.io/commentaries/commentaries/husserl/husserl-natur-und-geist-commentary.html#inner-and-outer-perception-object-and-appearance)
+  > For immanent perception, the distinction between the object itself and the appearance of the object is necessarily absent.
+
+- **revised** · `transzendenz/nug/009` · *immanent or transcendent*
+  Objects receive their sense as immanent or transcendent exclusively from the perceiving consciousness, so the distinction is constitutive rather than metaphysical.
+  `husserl-natur-und-geist-commentary#h3-inner-and-outer-perception-object-and-appearance` · [Inner and Outer Perception. Object and Appearance](https://faultynode.github.io/commentaries/commentaries/husserl/husserl-natur-und-geist-commentary.html#inner-and-outer-perception-object-and-appearance)
+  > The objects' sense as immanent or transcendent is received from the perceiving consciousness — a key phenomenological thesis: the distinction is not metaphysical but constitutive.
+
+- **presupposed** · `transzendenz/nug/010` · *transcendent positing*
+  The outer object is essentially transcendent and never finally determined; not even God could perceive it adequately, and the thing remains in suspension between being and non-being.
+  `husserl-natur-und-geist-commentary#h3-inner-and-outer-perception-object-and-appearance` · [Inner and Outer Perception. Object and Appearance](https://faultynode.github.io/commentaries/commentaries/husserl/husserl-natur-und-geist-commentary.html#inner-and-outer-perception-object-and-appearance)
+  > The concluding formulation — the thing remains "in suspension between being and non-being" — captures the essential precariousness of all transcendent positing.
+
+- **introduced** · `transzendenz/nug/011` · *immanence*
+  The distinction is crystallized as externality equals givenness through appearance and presumptive being, immanence equals givenness without appearance and absolute being.
+  `husserl-natur-und-geist-commentary#h3-inner-and-outer-perception-object-and-appearance` · [Inner and Outer Perception. Object and Appearance](https://faultynode.github.io/commentaries/commentaries/husserl/husserl-natur-und-geist-commentary.html#inner-and-outer-perception-object-and-appearance)
+  > This paragraph crystallizes the fundamental ontological distinction in a pair of reversible propositions: externality = givenness through appearance = presumptive being; immanence = givenness without appearance = absolute being.
+
+- **criticized** · `transzendenz/nug/012` · *immanent component*
+  Against the image-theory, an appearance is not a separate real thing but an immanent component of the perceptual experience, inseparable from the intentional relation.
+  `husserl-natur-und-geist-commentary#h3-inner-and-outer-perception-object-and-appearance` · [Inner and Outer Perception. Object and Appearance](https://faultynode.github.io/commentaries/commentaries/husserl/husserl-natur-und-geist-commentary.html#inner-and-outer-perception-object-and-appearance)
+  > But an appearance is not a separate real thing at all — it is an immanent component of the perceptual experience itself, inseparable from the intentional relation to the appearing object.
+
+- **presupposed** · `transzendenz/nug/013` · *immanence*
+  Following purely the sense of perception within immanence yields the principled possibility of the non-being of all outer objects, with being and non-being as indices of structures of perceptual courses.
+  `husserl-natur-und-geist-commentary#h3-the-pure-ego-attitude-and-the-idea-of-a-transcendental-phenomenology` · [The Pure Ego-Attitude and the Idea of a Transcendental Phenomenology](https://faultynode.github.io/commentaries/commentaries/husserl/husserl-natur-und-geist-commentary.html#the-pure-ego-attitude-and-the-idea-of-a-transcendental-phenomenology)
+  > Purely following the sense, there resulted in immanence the principled possibility of the non-being of all outer objects, and it resulted that being and non-being are indices for certain structures of perceptual courses
+
+- **presupposed** · `transzendenz/nug/014` · *transcendent positing*
+  The apprehension of oneself as I-person is itself a transcendent positing, since the human being is given through appearances.
+  `husserl-natur-und-geist-commentary#h3-the-pure-ego-attitude-and-the-idea-of-a-transcendental-phenomenology` · [The Pure Ego-Attitude and the Idea of a Transcendental Phenomenology](https://faultynode.github.io/commentaries/commentaries/husserl/husserl-natur-und-geist-commentary.html#the-pure-ego-attitude-and-the-idea-of-a-transcendental-phenomenology)
+  > But this "I-person" apprehension is itself a transcendent positing: the human being is an object given through appearances (through the body), subject to the presumptive character of all transcendent givenness.
+
+- **presupposed** · `transzendenz/nug/015` · *immanent being*
+  Even if the world does not exist, the stream of conscious experience continues unaffected in its immanent being.
+  `husserl-natur-und-geist-commentary#h3-the-method-of-phenomenological-reduction-transcendental-phenomenology-as-a-prior` · [The Method of Phenomenological Reduction. Transcendental Phenomenology as A Priori Science of Pure Consciousness](https://faultynode.github.io/commentaries/commentaries/husserl/husserl-natur-und-geist-commentary.html#the-method-of-phenomenological-reduction-transcendental-phenomenology-as-a-priori-science-of-pure-consciousness)
+  > The world may not exist; but even if it does not, the stream of conscious experience continues unaffected in its immanent being.
+
+- **presupposed** · `transzendenz/nug/016` · *transcendent positings*
+  Even a fantasized centaur is transcendent in the relevant sense, so the exclusion must encompass all transcendent positings of actualities and pure possibilities.
+  `husserl-natur-und-geist-commentary#h3-the-method-of-phenomenological-reduction-transcendental-phenomenology-as-a-prior` · [The Method of Phenomenological Reduction. Transcendental Phenomenology as A Priori Science of Pure Consciousness](https://faultynode.github.io/commentaries/commentaries/husserl/husserl-natur-und-geist-commentary.html#the-method-of-phenomenological-reduction-transcendental-phenomenology-as-a-priori-science-of-pure-consciousness)
+  > The exclusion must therefore encompass all transcendent positings — whether of actualities or of pure possibilities — to secure the purity of the phenomenological field.
+
+- **introduced** · `transzendenz/nug/017` · *transcendence of the a priori*
+  Husserl addresses the transcendence of the a priori and resolves it by distinguishing the a priori truth from the immanent experience of insight in which it is grasped.
+  `husserl-natur-und-geist-commentary#h3-the-method-of-phenomenological-reduction-transcendental-phenomenology-as-a-prior` · [The Method of Phenomenological Reduction. Transcendental Phenomenology as A Priori Science of Pure Consciousness](https://faultynode.github.io/commentaries/commentaries/husserl/husserl-natur-und-geist-commentary.html#the-method-of-phenomenological-reduction-transcendental-phenomenology-as-a-priori-science-of-pure-consciousness)
+  > Husserl addresses the problem of the transcendence of the a priori itself.
+
+- **presupposed** · `transzendenz/nug/018` · *transcendent realities*
+  All transcendent realities and possibilities excluded by the reduction remain within the phenomenological field in a modified way.
+  `husserl-natur-und-geist-commentary#h3-the-method-of-phenomenological-reduction-transcendental-phenomenology-as-a-prior` · [The Method of Phenomenological Reduction. Transcendental Phenomenology as A Priori Science of Pure Consciousness](https://faultynode.github.io/commentaries/commentaries/husserl/husserl-natur-und-geist-commentary.html#the-method-of-phenomenological-reduction-transcendental-phenomenology-as-a-priori-science-of-pure-consciousness)
+  > all that has been excluded by the reduction — all transcendent realities and possibilities — nonetheless remains within the phenomenological field in a modified way
+
+- **presupposed** · `transzendenz/nug/019` · *transcendent objectivity*
+  The fundamental question posed is how transcendent objectivity, under the titles nature and spirit, is given a priori as correlate of outer intuitions.
+  `husserl-natur-und-geist-commentary#h3-the-articulation-into-things-and-subjects-according-to-the-distinction-of-nature` · [The Articulation into Things and Subjects according to the Distinction of Nature and Spirit](https://faultynode.github.io/commentaries/commentaries/husserl/husserl-natur-und-geist-commentary.html#the-articulation-into-things-and-subjects-according-to-the-distinction-of-nature-and-spirit)
+  > how is transcendent objectivity (for which we have the still quite unclear titles "nature" and "spirit") given a priori as the correlate of outer intuitions?
+
+- **presupposed** · `transzendenz/nug/020` · *"transcendent"*
+  Supplement IV holds that an a priori truth is not a temporal event in the stream and in that sense transcendent, while the act of insight grasping it is immanent.
+  `husserl-natur-und-geist-commentary#h2-supplement-iv` · [Supplement IV](https://faultynode.github.io/commentaries/commentaries/husserl/husserl-natur-und-geist-commentary.html#supplement-iv)
+  > But the conscious act in which the truth is grasped — the evidence, the insight, the judgmental experience — is immanent.
+
+#### Recorded absences
+
+- **absent** · `husserl-natur-und-geist-commentary#h3-the-return-from-science-to-prescientific-consciousness`
+  Expected because: The return to prescientific consciousness is where the lectures turn to the pregiven as such, which the following sections divide into immanent I-own and transcendent I-foreign.
+  [The Return from Science to Prescientific Consciousness](https://faultynode.github.io/commentaries/commentaries/husserl/husserl-natur-und-geist-commentary.html#the-return-from-science-to-prescientific-consciousness)
+
+*Partial pass: Term-led pass over the whole file (lines 1-770): every paragraph containing the transcendence family, including bare transcendent and immanent, was read; paragraphs without such a word were not read.*
+
+### 1920-1921 to 1925-1926 - Husserl Passive Synthesis Commentary
+
+`husserliana-11-analyses-concerning-passive-and-active-synthesis-commentary`
+
+- **introduced** · `transzendenz/hua11/001` · *first transcendence*
+  Through remembering, consciousness becomes an object for itself, so that time-consciousness becomes its own first transcendence.
+  `husserliana-11-analyses-concerning-passive-and-active-synthesis-commentary#h3-b-affection-and-association` · [B. Affection and Association](https://faultynode.github.io/commentaries/commentaries/husserl/husserliana-11-analyses-concerning-passive-and-active-synthesis-commentary.html#b-affection-and-association)
+  > First, through remembering, consciousness becomes an object for itself—time-consciousness becomes its own first transcendence.
+
+- **presupposed** · `transzendenz/hua11/002` · *immanent sense*
+  Perception has its intentional object immanently as an inseparable sense, which has immanent being even if the perception is deceptive; the perceived tree as such is a purely immanent object, not a thing in nature.
+  `husserliana-11-analyses-concerning-passive-and-active-synthesis-commentary#h3-10-perception-and-perceptual-sense` · [10. Perception and Perceptual Sense](https://faultynode.github.io/commentaries/commentaries/husserl/husserliana-11-analyses-concerning-passive-and-active-synthesis-commentary.html#perception-and-perceptual-sense)
+  > If we judge this sense, we judge something demonstrable in an evident manner—having immanent being even if the perception turns out to be deceptive.
+
+- **introduced** · `transzendenz/hua11/003` · *transcendent perception*
+  The principle of inadequacy applies to transcendent perception: the given is always a partial self-presentation of a fuller object exceeding any single act.
+  `husserliana-11-analyses-concerning-passive-and-active-synthesis-commentary#h3-s1-original-consciousness-and-the-perspectival-adumbration-of-spatial-objects` · Hua XI § 1 · [§1. Original Consciousness and the Perspectival Adumbration of Spatial Objects](https://faultynode.github.io/commentaries/commentaries/husserl/husserliana-11-analyses-concerning-passive-and-active-synthesis-commentary.html#original-consciousness-and-the-perspectival-adumbration-of-spatial-objects)
+  > This is the Husserlian principle of inadequacy applied to transcendent perception: the given is always a partial self-presentation of a fuller object that exceeds any single perceptual act.
+
+- **presupposed** · `transzendenz/hua11/004` · *transcending the side*
+  A non-intuitive pointing beyond makes the seen side a mere side, so that something transcending the side is intended as perceived.
+  `husserliana-11-analyses-concerning-passive-and-active-synthesis-commentary#h3-s1-original-consciousness-and-the-perspectival-adumbration-of-spatial-objects` · Hua XI § 1 · [§1. Original Consciousness and the Perspectival Adumbration of Spatial Objects](https://faultynode.github.io/commentaries/commentaries/husserl/husserliana-11-analyses-concerning-passive-and-active-synthesis-commentary.html#original-consciousness-and-the-perspectival-adumbration-of-spatial-objects)
+  > What characterizes the actually seen side as a mere side is a non-intuitive pointing beyond or indicating—what provides for the fact that the side is not taken for the thing, but that something transcending the side is intended as perceived.
+
+- **presupposed** · `transzendenz/hua11/005` · *transcendent perception*
+  The possibility of renewed perception of the transcendent is the fundamental trait of transcendent perception, through which alone an abiding world is there for us.
+  `husserliana-11-analyses-concerning-passive-and-active-synthesis-commentary#h3-s3-the-possibility-of-our-acquired-knowledge-being-freely-at-our-disposal` · Hua XI § 3 · [§3. The Possibility of Our Acquired Knowledge Being Freely at Our Disposal](https://faultynode.github.io/commentaries/commentaries/husserl/husserliana-11-analyses-concerning-passive-and-active-synthesis-commentary.html#the-possibility-of-our-acquired-knowledge-being-freely-at-our-disposal)
+  > That a renewed perception is possible for transcendence characterizes the fundamental trait of transcendent perception: through it alone, an abiding world is there for us, a reality that can be pregiven and freely at our disposal.
+
+- **introduced** · `transzendenz/hua11/006` · *transcendent and immanent appearances*
+  An immanent object has only one way of being given in each Now, so the concept of appearance takes on a new and unique sense for the transcendent object.
+  `husserliana-11-analyses-concerning-passive-and-active-synthesis-commentary#h3-s4-the-relation-of-esse-and-percipi-in-immanent-and-transcendent-perception` · Hua XI § 4 · [§4. The Relation of esse and percipi in Immanent and Transcendent Perception](https://faultynode.github.io/commentaries/commentaries/husserl/husserliana-11-analyses-concerning-passive-and-active-synthesis-commentary.html#the-relation-of-esse-and-percipi-in-immanent-and-transcendent-perception)
+  > The concept of appearance thus has a new and unique sense for the transcendent object.
+
+- **presupposed** · `transzendenz/hua11/007` · *transcendent object*
+  A transcendent object can be constituted only when an immanent content is constituted as substratum and takes on the function of adumbration.
+  `husserliana-11-analyses-concerning-passive-and-active-synthesis-commentary#h3-s4-the-relation-of-esse-and-percipi-in-immanent-and-transcendent-perception` · Hua XI § 4 · [§4. The Relation of esse and percipi in Immanent and Transcendent Perception](https://faultynode.github.io/commentaries/commentaries/husserl/husserliana-11-analyses-concerning-passive-and-active-synthesis-commentary.html#the-relation-of-esse-and-percipi-in-immanent-and-transcendent-perception)
+  > a transcendent object like a thing can only be constituted when an immanent content is constituted as substratum—this immanent content is substituted for the function of "adumbration," of exhibiting appearance
+
+- **introduced** · `transzendenz/hua11/008` · *apperception*
+  Husserl calls apperception the accomplishment of bestowing on immanent sensible data the function of exhibiting something transcendent; for transcendent objects esse is in principle distinguished from percipi.
+  `husserliana-11-analyses-concerning-passive-and-active-synthesis-commentary#h3-s4-the-relation-of-esse-and-percipi-in-immanent-and-transcendent-perception` · Hua XI § 4 · [§4. The Relation of esse and percipi in Immanent and Transcendent Perception](https://faultynode.github.io/commentaries/commentaries/husserl/husserliana-11-analyses-concerning-passive-and-active-synthesis-commentary.html#the-relation-of-esse-and-percipi-in-immanent-and-transcendent-perception)
+  > Husserl characterizes consciousness's accomplishment of bestowing on mere immanent sensible data the function of exhibiting something objectively "transcendent" as apperception.
+
+- **criticized** · `transzendenz/hua11/009` · *transcendent perception*
+  Treating inadequation as a haphazard lack that a higher intellect could overcome is called totally preposterous; a spatial object cannot be given through immanent perception.
+  `husserliana-11-analyses-concerning-passive-and-active-synthesis-commentary#h3-s4-the-relation-of-esse-and-percipi-in-immanent-and-transcendent-perception` · Hua XI § 4 · [§4. The Relation of esse and percipi in Immanent and Transcendent Perception](https://faultynode.github.io/commentaries/commentaries/husserl/husserliana-11-analyses-concerning-passive-and-active-synthesis-commentary.html#the-relation-of-esse-and-percipi-in-immanent-and-transcendent-perception)
+  > The talk of inadequation as a haphazard lack that a higher intellect could overcome is "totally preposterous."
+
+- **presupposed** · `transzendenz/hua11/010` · *immanent objects*
+  Perception constitutes immanent objects in their absoluteness, not by constant sense-modification in the sense of approximation.
+  `husserliana-11-analyses-concerning-passive-and-active-synthesis-commentary#h3-s4-the-relation-of-esse-and-percipi-in-immanent-and-transcendent-perception` · Hua XI § 4 · [§4. The Relation of esse and percipi in Immanent and Transcendent Perception](https://faultynode.github.io/commentaries/commentaries/husserl/husserliana-11-analyses-concerning-passive-and-active-synthesis-commentary.html#the-relation-of-esse-and-percipi-in-immanent-and-transcendent-perception)
+  > For immanent objects the situation is entirely different: perception constitutes them in their absoluteness; they are not constituted by constant sense-modification in the sense of approximation.
+
+- **presupposed** · `transzendenz/hua11/011` · *transcendent world*
+  For the transcendent world there are prefigurings and corroborated experiential belief, yet further experience could in principle continue contrary to all expectations.
+  `husserliana-11-analyses-concerning-passive-and-active-synthesis-commentary#h3-s23-the-problematic-character-of-a-verification-that-is-possible-for-all-intenti` · Hua XI § 23 · [§23. The Problematic Character of a Verification that is Possible for All Intentions and Its Consequence for Belief in Experience](https://faultynode.github.io/commentaries/commentaries/husserl/husserliana-11-analyses-concerning-passive-and-active-synthesis-commentary.html#the-problematic-character-of-a-verification-that-is-possible-for-all-intentions-and-its-consequence-for-belief-in-experience)
+  > For the transcendent world: there are prefigurings for further experiences, motivated experiential belief corroborated through innumerable accordances—but in the final analysis, is it not possible for further experience to continue contrary to all expectations?
+
+- **presupposed** · `transzendenz/hua11/012` · *immanent sphere*
+  Immanently constituted being in its living present is self-giving and essentially incapable of being crossed out, though deception in remembering is raised for the immanent sphere.
+  `husserliana-11-analyses-concerning-passive-and-active-synthesis-commentary#h3-s24-development-of-the-problem-of-the-in-itself-for-the-immanent-sphere` · Hua XI § 24 · [§24. Development of the Problem of the In-itself for the Immanent Sphere](https://faultynode.github.io/commentaries/commentaries/husserl/husserliana-11-analyses-concerning-passive-and-active-synthesis-commentary.html#development-of-the-problem-of-the-in-itself-for-the-immanent-sphere)
+  > Immanently constituted being in its living present is not only self-giving but essentially incapable of being crossed out.
+
+- **presupposed** · `transzendenz/hua11/013` · *transcendent objects*
+  Space as a principle of individuation for transcendent objects is transposed to the immanent sphere, where every immanent temporal object has its temporal shape.
+  `husserliana-11-analyses-concerning-passive-and-active-synthesis-commentary#h3-s30-individuation-in-succession-and-coexistence` · Hua XI § 30 · [§30. Individuation in Succession and Coexistence](https://faultynode.github.io/commentaries/commentaries/husserl/husserliana-11-analyses-concerning-passive-and-active-synthesis-commentary.html#individuation-in-succession-and-coexistence)
+  > This connects directly to Husserl's analyses in Thing and Space (Hua XVI) of space as a principle of individuation for transcendent objects, here transposed to the immanent sphere.
+
+- **introduced** · `transzendenz/hua11/014` · *primordial transcendence of the past*
+  Rememberings arise in the immanence of the present, but what they presentify is transcendent to it; the entire past of consciousness is given transcendently.
+  `husserliana-11-analyses-concerning-passive-and-active-synthesis-commentary#h3-s45-the-primordial-transcendence-of-the-past-of-consciousness-and-the-idea-of-it` · Hua XI § 45 · [§45. The Primordial Transcendence of the Past of Consciousness and the Idea of its Complete Self-Giving](https://faultynode.github.io/commentaries/commentaries/husserl/husserliana-11-analyses-concerning-passive-and-active-synthesis-commentary.html#the-primordial-transcendence-of-the-past-of-consciousness-and-the-idea-of-its-complete-self-giving)
+  > Our entire past of consciousness is given transcendently.
+
+- **introduced** · `transzendenz/hua11/015` · *transcendent self*
+  The stream of consciousness is the first transcendent, the transcendent self instituted in the streaming present and coming to incomplete self-giving in rememberings.
+  `husserliana-11-analyses-concerning-passive-and-active-synthesis-commentary#h3-s45-the-primordial-transcendence-of-the-past-of-consciousness-and-the-idea-of-it` · Hua XI § 45 · [§45. The Primordial Transcendence of the Past of Consciousness and the Idea of its Complete Self-Giving](https://faultynode.github.io/commentaries/commentaries/husserl/husserliana-11-analyses-concerning-passive-and-active-synthesis-commentary.html#the-primordial-transcendence-of-the-past-of-consciousness-and-the-idea-of-its-complete-self-giving)
+  > The stream of consciousness is the first transcendent in the manner of a primordial source—the transcendent self primordially instituted in the streaming present, issuing in self-giving and verification through rememberings.
+
+- **presupposed** · `transzendenz/hua11/016` · *transcendent intentionality*
+  The immanent stream determines the future by constituting within itself an objective world in a transcendent intentionality; things are constituted in lived-experiences but not as lived-experiences.
+  `husserliana-11-analyses-concerning-passive-and-active-synthesis-commentary#h3-s47-the-constitution-of-the-objective-world-in-its-significance-for-the-determin` · Hua XI § 47 · [§47. The Constitution of the Objective World in Its Significance for the Determinate Prefiguring of Futural Consciousness](https://faultynode.github.io/commentaries/commentaries/husserl/husserliana-11-analyses-concerning-passive-and-active-synthesis-commentary.html#the-constitution-of-the-objective-world-in-its-significance-for-the-determinate-prefiguring-of-futural-consciousness)
+  > Through the fact that it constitutes within itself an objective world in a transcendent intentionality.
+
+#### Recorded absences
+
+- **absent** · `husserliana-11-analyses-concerning-passive-and-active-synthesis-commentary#h3-s25-rememberings-as-the-source-for-an-in-itself-of-objects`
+  Expected because: Rememberings as source of the in-itself are what §45 describes as the transcendent giving of the past, and §24 had posed the in-itself problem for the immanent sphere.
+  [§25. Rememberings as the Source for an In-Itself of Objects](https://faultynode.github.io/commentaries/commentaries/husserl/husserliana-11-analyses-concerning-passive-and-active-synthesis-commentary.html#rememberings-as-the-source-for-an-in-itself-of-objects)
+
+- **absent** · `husserliana-11-analyses-concerning-passive-and-active-synthesis-commentary#h3-s42-overlapping-fusion-and-conflict-of-rememberings-of-different-pasts`
+  Expected because: Conflict of rememberings bears on the true being of the immanent past that the next chapter treats as primordially transcendent.
+  [§42. Overlapping, Fusion, and Conflict of Rememberings of Different Pasts](https://faultynode.github.io/commentaries/commentaries/husserl/husserliana-11-analyses-concerning-passive-and-active-synthesis-commentary.html#overlapping-fusion-and-conflict-of-rememberings-of-different-pasts)
+
+*Partial pass: Term-led pass over the whole file (lines 1-834): every paragraph containing the transcendence family, including bare transcendent and immanent, was read; paragraphs without such a word were not read.*
+
+### 1920 to 1934 - Husserl Die Lebenswelt Commentary
+
+`husserliana-39-die-lebenswelt-commentary`
+
+#### Text Nr. 2 and Supplement I, ca. 1920
+
+- **introduced** · `transzendenz/hua39/001` · *transcendent apperception*
+  The background datum is an immanent, originally constituted intentional objectuality that functions for a transcendent apperception in the pregnant sense.
+  `husserliana-39-die-lebenswelt-commentary#h3-text-nr-2-background-and-pre-givenness-differences-of-pre-givenness-prominence-a` · Hua XXXIX, Text Nr. 2 · [Text Nr. 2. Background and Pre-Givenness. Differences of Pre-Givenness. Prominence and the Pregnant Concept of Pre-Givenness. The Constitutive Function of Apperceptions (Hintergrund und Vorgegebenheit. Unterschiede der Vorgegebenheit. Abgehobenheit und prägnanter Begriff von Vorgegebenheit. Die konstitutive Funktion der Apperzeptionen)](https://faultynode.github.io/commentaries/commentaries/husserl/husserliana-39-die-lebenswelt-commentary.html#text-nr-2-background-and-pre-givenness-differences-of-pre-givenness-prominence-and-the-pregnant-concept-of-pre-givenness-the-constitutive-function-of-apperceptions-hintergrund-und-vorgegebenheit-unterschiede-der-vorgegebenheit-abgehobenheit-und-pragnanter-begriff-von-vorgegebenheit-die-konstitutive-funktion-der-apperzeptionen)
+  > It is an "intentional objectuality," an immanent one, originally constituted, here functioning in a certain way for a "transcendent apperception," an apperception in the pregnant sense.
+
+- **introduced** · `transzendenz/hua39/002` · *immanent and transcendent constitutions*
+  Husserl distinguishes immanent constitutions, which play out in pure passivity under rigid lawfulness, from transcendent constitutions, in which ego-activity plays a genetically constitutive role.
+  `husserliana-39-die-lebenswelt-commentary#h3-text-nr-2-background-and-pre-givenness-differences-of-pre-givenness-prominence-a` · Hua XXXIX, Text Nr. 2, p. 11 · [Text Nr. 2. Background and Pre-Givenness. Differences of Pre-Givenness. Prominence and the Pregnant Concept of Pre-Givenness. The Constitutive Function of Apperceptions (Hintergrund und Vorgegebenheit. Unterschiede der Vorgegebenheit. Abgehobenheit und prägnanter Begriff von Vorgegebenheit. Die konstitutive Funktion der Apperzeptionen)](https://faultynode.github.io/commentaries/commentaries/husserl/husserliana-39-die-lebenswelt-commentary.html#text-nr-2-background-and-pre-givenness-differences-of-pre-givenness-prominence-and-the-pregnant-concept-of-pre-givenness-the-constitutive-function-of-apperceptions-hintergrund-und-vorgegebenheit-unterschiede-der-vorgegebenheit-abgehobenheit-und-pragnanter-begriff-von-vorgegebenheit-die-konstitutive-funktion-der-apperzeptionen)
+  > There is a difference between immanent and transcendent constitutions — between those that originally and genetically must play out in pure passivity and according to original and rigid lawfulness (like the constitution of immanent data) and transcendent constitutions
+
+- **presupposed** · `transzendenz/hua39/003` · *transcendent things*
+  Transcendent objects are always already apperceived and pre-given as background-things, whereas immanent data can in their first genesis be constituted without apperception.
+  `husserliana-39-die-lebenswelt-commentary#h3-text-nr-2-background-and-pre-givenness-differences-of-pre-givenness-prominence-a` · Hua XXXIX, Text Nr. 2 · [Text Nr. 2. Background and Pre-Givenness. Differences of Pre-Givenness. Prominence and the Pregnant Concept of Pre-Givenness. The Constitutive Function of Apperceptions (Hintergrund und Vorgegebenheit. Unterschiede der Vorgegebenheit. Abgehobenheit und prägnanter Begriff von Vorgegebenheit. Die konstitutive Funktion der Apperzeptionen)](https://faultynode.github.io/commentaries/commentaries/husserl/husserliana-39-die-lebenswelt-commentary.html#text-nr-2-background-and-pre-givenness-differences-of-pre-givenness-prominence-and-the-pregnant-concept-of-pre-givenness-the-constitutive-function-of-apperceptions-hintergrund-und-vorgegebenheit-unterschiede-der-vorgegebenheit-abgehobenheit-und-pragnanter-begriff-von-vorgegebenheit-die-konstitutive-funktion-der-apperzeptionen)
+  > Transcendent things are always pre-given in this pregnant sense; immanent data are not.
+
+- **presupposed** · `transzendenz/hua39/004` · *immanent sphere*
+  In the immanent sphere prominence and association take place but create nothing new, unlike apperception in thing-constitution.
+  `husserliana-39-die-lebenswelt-commentary#h3-text-nr-2-background-and-pre-givenness-differences-of-pre-givenness-prominence-a` · Hua XXXIX, Text Nr. 2 · [Text Nr. 2. Background and Pre-Givenness. Differences of Pre-Givenness. Prominence and the Pregnant Concept of Pre-Givenness. The Constitutive Function of Apperceptions (Hintergrund und Vorgegebenheit. Unterschiede der Vorgegebenheit. Abgehobenheit und prägnanter Begriff von Vorgegebenheit. Die konstitutive Funktion der Apperzeptionen)](https://faultynode.github.io/commentaries/commentaries/husserl/husserliana-39-die-lebenswelt-commentary.html#text-nr-2-background-and-pre-givenness-differences-of-pre-givenness-prominence-and-the-pregnant-concept-of-pre-givenness-the-constitutive-function-of-apperceptions-hintergrund-und-vorgegebenheit-unterschiede-der-vorgegebenheit-abgehobenheit-und-pragnanter-begriff-von-vorgegebenheit-die-konstitutive-funktion-der-apperzeptionen)
+  > In the immanent sphere, prominence and association indeed take place, but they create nothing new.
+
+- **presupposed** · `transzendenz/hua39/005` · *transcendent constitution*
+  Since transcendent constitution always involves a universe of practical possibilities organized through kinaestheses, every perception is founded on prior apperceptive perception.
+  `husserliana-39-die-lebenswelt-commentary#h3-text-nr-2-background-and-pre-givenness-differences-of-pre-givenness-prominence-a` · Hua XXXIX, Text Nr. 2 · [Text Nr. 2. Background and Pre-Givenness. Differences of Pre-Givenness. Prominence and the Pregnant Concept of Pre-Givenness. The Constitutive Function of Apperceptions (Hintergrund und Vorgegebenheit. Unterschiede der Vorgegebenheit. Abgehobenheit und prägnanter Begriff von Vorgegebenheit. Die konstitutive Funktion der Apperzeptionen)](https://faultynode.github.io/commentaries/commentaries/husserl/husserliana-39-die-lebenswelt-commentary.html#text-nr-2-background-and-pre-givenness-differences-of-pre-givenness-prominence-and-the-pregnant-concept-of-pre-givenness-the-constitutive-function-of-apperceptions-hintergrund-und-vorgegebenheit-unterschiede-der-vorgegebenheit-abgehobenheit-und-pragnanter-begriff-von-vorgegebenheit-die-konstitutive-funktion-der-apperzeptionen)
+  > since transcendent constitution always involves a universe of practical possibilities, every act of perception is itself founded on prior apperceptive perception
+
+- **presupposed** · `transzendenz/hua39/006` · *immanently constituted being*
+  Consciousness is not only but is conscious, and its being is immanently constituted being, individually and for the whole stream.
+  `husserliana-39-die-lebenswelt-commentary#h3-supplement-i-background-pre-given-objectuality-end-object-and-transitional-uniti` · Hua XXXIX, Supplement I · [Supplement I. Background — Pre-Given Objectuality. End-Object and Transitional Unities (Hintergrund – vorgegebene Gegenständlichkeit. Endgegenstand und Durchgangseinheiten)](https://faultynode.github.io/commentaries/commentaries/husserl/husserliana-39-die-lebenswelt-commentary.html#supplement-i-background--pre-given-objectuality-end-object-and-transitional-unities-hintergrund--vorgegebene-gegenstandlichkeit-endgegenstand-und-durchgangseinheiten)
+  > Consciousness is not only, but it is conscious; its being is immanently constituted being, individually and for the entire "stream of consciousness."
+
+#### Text Nr. 3, 1921
+
+- **introduced** · `transzendenz/hua39/007` · *immanent time-world*
+  Unlike the world, the immanent time and time-world is not a world for us, not constantly there and at our disposal for immediate access.
+  `husserliana-39-die-lebenswelt-commentary#h3-text-nr-3-the-world-pre-given-from-original-acquisition-not-so-consciousness-the` · Hua XXXIX, Text Nr. 3 · [Text Nr. 3. The World Pre-Given from Original Acquisition — Not So Consciousness, the Realm of Immanence (Die Welt vorgegeben aus ursprünglicher Erwerbung – nicht so das Bewusstsein, das Reich der Immanenz)](https://faultynode.github.io/commentaries/commentaries/husserl/husserliana-39-die-lebenswelt-commentary.html#text-nr-3-the-world-pre-given-from-original-acquisition--not-so-consciousness-the-realm-of-immanence-die-welt-vorgegeben-aus-ursprunglicher-erwerbung--nicht-so-das-bewusstsein-das-reich-der-immanenz)
+  > But the immanent "time" and "time-world" is not a world for us, not constantly there for us in such a way that we could just look toward it, perceive it
+
+- **revised** · `transzendenz/hua39/008` · *immanent time*
+  In the constitutive order the object of nature-time precedes the object of immanent time, and the outer world precedes the stream of experience.
+  `husserliana-39-die-lebenswelt-commentary#h3-text-nr-3-the-world-pre-given-from-original-acquisition-not-so-consciousness-the` · Hua XXXIX, Text Nr. 3 · [Text Nr. 3. The World Pre-Given from Original Acquisition — Not So Consciousness, the Realm of Immanence (Die Welt vorgegeben aus ursprünglicher Erwerbung – nicht so das Bewusstsein, das Reich der Immanenz)](https://faultynode.github.io/commentaries/commentaries/husserl/husserliana-39-die-lebenswelt-commentary.html#text-nr-3-the-world-pre-given-from-original-acquisition--not-so-consciousness-the-realm-of-immanence-die-welt-vorgegeben-aus-ursprunglicher-erwerbung--nicht-so-das-bewusstsein-das-reich-der-immanenz)
+  > In this sense, nature-time, i.e. the object of nature-time, precedes immanent time, i.e. the object of immanent time; the outer world precedes the stream of experience.
+
+- **presupposed** · `transzendenz/hua39/009` · *immanent sphere*
+  The immanent sphere can be constituted as existing only from the already constituted objective world, and even then remains not pre-given as the experiential world is.
+  `husserliana-39-die-lebenswelt-commentary#h3-text-nr-3-the-world-pre-given-from-original-acquisition-not-so-consciousness-the` · Hua XXXIX, Text Nr. 3 · [Text Nr. 3. The World Pre-Given from Original Acquisition — Not So Consciousness, the Realm of Immanence (Die Welt vorgegeben aus ursprünglicher Erwerbung – nicht so das Bewusstsein, das Reich der Immanenz)](https://faultynode.github.io/commentaries/commentaries/husserl/husserliana-39-die-lebenswelt-commentary.html#text-nr-3-the-world-pre-given-from-original-acquisition--not-so-consciousness-the-realm-of-immanence-die-welt-vorgegeben-aus-ursprunglicher-erwerbung--nicht-so-das-bewusstsein-das-reich-der-immanenz)
+  > Even after this constitutive achievement, the immanent sphere is and remains not pre-given in the way the objective experiential world is.
+
+- **presupposed** · `transzendenz/hua39/010` · *immanence*
+  In immanence there lies no telos for the life of the ego; only the psychologist and epistemologist have an interest in it.
+  `husserliana-39-die-lebenswelt-commentary#h3-text-nr-3-the-world-pre-given-from-original-acquisition-not-so-consciousness-the` · Hua XXXIX, Text Nr. 3, p. 21 · [Text Nr. 3. The World Pre-Given from Original Acquisition — Not So Consciousness, the Realm of Immanence (Die Welt vorgegeben aus ursprünglicher Erwerbung – nicht so das Bewusstsein, das Reich der Immanenz)](https://faultynode.github.io/commentaries/commentaries/husserl/husserliana-39-die-lebenswelt-commentary.html#text-nr-3-the-world-pre-given-from-original-acquisition--not-so-consciousness-the-realm-of-immanence-die-welt-vorgegeben-aus-ursprunglicher-erwerbung--nicht-so-das-bewusstsein-das-reich-der-immanenz)
+  > In immanence there lies no telos for the life of the ego.
+
+- **presupposed** · `transzendenz/hua39/011` · *immanence*
+  No immanent world is constituted because in the course of genesis all immanent acquisition enters into mundane constitution.
+  `husserliana-39-die-lebenswelt-commentary#h3-text-nr-3-the-world-pre-given-from-original-acquisition-not-so-consciousness-the` · Hua XXXIX, Text Nr. 3, p. 22 · [Text Nr. 3. The World Pre-Given from Original Acquisition — Not So Consciousness, the Realm of Immanence (Die Welt vorgegeben aus ursprünglicher Erwerbung – nicht so das Bewusstsein, das Reich der Immanenz)](https://faultynode.github.io/commentaries/commentaries/husserl/husserliana-39-die-lebenswelt-commentary.html#text-nr-3-the-world-pre-given-from-original-acquisition--not-so-consciousness-the-realm-of-immanence-die-welt-vorgegeben-aus-ursprunglicher-erwerbung--nicht-so-das-bewusstsein-das-reich-der-immanenz)
+  > In genetic originality, immanent affection and grasping are indeed there, but in the course of genesis all immanent acquisition enters into mundane constitution; immanence is absorbed into the function of mundane constitution.
+
+#### Stratum not assigned by the commentary
+
+- **presupposed** · `transzendenz/hua39/012` · *transcends*
+  Empathy transcends not only the present of consciousness but with it the whole life-past and life-future as co-valid.
+  `husserliana-39-die-lebenswelt-commentary#h4-s-3-modalizations-of-recollection-and-empathy` · [§ 3. Modalizations of Recollection and Empathy](https://faultynode.github.io/commentaries/commentaries/husserl/husserliana-39-die-lebenswelt-commentary.html#modalizations-of-recollection-and-empathy)
+  > Empathy transcends not only my consciousness-present but, in one with it, my entire life-past and life-future as co-valid.
+
+- **introduced** · `transzendenz/hua39/013` · *self-transcendence*
+  The intentional analysis of the transcendental own life in its self-transcendence brings to light founding relations among transcending functions, presentification intertwined with the transcendences of mundane perception.
+  `husserliana-39-die-lebenswelt-commentary#h4-s-4-the-empathy-horizon-as-validity-horizon` · [§ 4. The Empathy-Horizon as Validity-Horizon](https://faultynode.github.io/commentaries/commentaries/husserl/husserliana-39-die-lebenswelt-commentary.html#the-empathy-horizon-as-validity-horizon)
+  > The intentional analysis of the transcendental own life in its self-transcendence here brings to light the founding relations of different transcending functions — the functions of presentification intertwined with the transcendences of "mundane perception."
+
+- **presupposed** · `transzendenz/hua39/014` · *transcendent perception*
+  Husserl distinguishes presentations and appresentations: every transcendent perception presents its transcendent object only by means of appresentation.
+  `husserliana-39-die-lebenswelt-commentary#h3-supplement-ix-appresentation-and-presentation-with-regard-to-individual-things-a` · Hua XXXIX, Supplement IX · [Supplement IX. Appresentation and Presentation with Regard to Individual Things and with Regard to the Whole World. World Constituted in Empty Intentions (Appräsentation und Präsentation)](https://faultynode.github.io/commentaries/commentaries/husserl/husserliana-39-die-lebenswelt-commentary.html#supplement-ix-appresentation-and-presentation-with-regard-to-individual-things-and-with-regard-to-the-whole-world-world-constituted-in-empty-intentions-apprasentation-und-prasentation)
+  > Every transcendent perception can present its transcendent object only through the means of appresentation.
+
+- **introduced** · `transzendenz/hua39/015` · *transcend situational relativity*
+  The theoretical interest in being and truth can transcend situational relativity and pursue the identical in its so-being.
+  `husserliana-39-die-lebenswelt-commentary#h3-text-nr-21-special-situation-and-the-world-as-all-situation-of-all-special-situa` · Hua XXXIX, Text Nr. 21 · [Text Nr. 21. Special Situation and the World as All-Situation of All Special Situations. Life-World and True World. Pre-Scientific, Situation-Relative Judging and the Situation-Transcending Judging in Science (Sondersituation und die Welt als Allsituation)](https://faultynode.github.io/commentaries/commentaries/husserl/husserliana-39-die-lebenswelt-commentary.html#text-nr-21-special-situation-and-the-world-as-all-situation-of-all-special-situations-life-world-and-true-world-pre-scientific-situation-relative-judging-and-the-situation-transcending-judging-in-science-sondersituation-und-die-welt-als-allsituation)
+  > But the interest in being and truth can transcend situational relativity: the theoretical interest can station itself above the respective interests and pursue the identical in its so-being consequentially
+
+- **presupposed** · `transzendenz/hua39/016` · *ego of immanence*
+  On the possible non-being of the world, Husserl asks whether transcendental constitution could dissolve while the ego of immanence remains.
+  `husserliana-39-die-lebenswelt-commentary#h3-supplement-xviii-possible-non-being-of-the-world-mogliches-nichtsein-der-welt` · Hua XXXIX, Supplement XVIII · [Supplement XVIII. Possible Non-Being of the World (Mögliches Nichtsein der Welt)](https://faultynode.github.io/commentaries/commentaries/husserl/husserliana-39-die-lebenswelt-commentary.html#supplement-xviii-possible-non-being-of-the-world-mogliches-nichtsein-der-welt)
+  > Could the transcendental constitution dissolve while I yet remain as ego of immanence?
+
+#### Recorded absences
+
+- **absent** · `husserliana-39-die-lebenswelt-commentary#h3-text-nr-1-primal-institution-of-the-sense-of-being-of-pre-given-individual-being`
+  Expected because: The primal institution of the sense of pre-given individual being and world is the genesis that Text Nr. 2 divides into immanent constitution and transcendent constitution of pre-given things.
+  [Text Nr. 1. Primal Institution of the Sense of Being of Pre-Given Individual Beings and of the Pre-Given Existing World (Urstiftung des Seinssinnes von vorgegebenem Einzelseienden und von vorgegebener seiender Welt)](https://faultynode.github.io/commentaries/commentaries/husserl/husserliana-39-die-lebenswelt-commentary.html#text-nr-1-primal-institution-of-the-sense-of-being-of-pre-given-individual-beings-and-of-the-pre-given-existing-world-urstiftung-des-seinssinnes-von-vorgegebenem-einzelseienden-und-von-vorgegebener-seiender-welt)
+
+*Partial pass: Term-led pass over the whole file (lines 1-1463): every paragraph containing the transcendence family, including bare transcendent and immanent, was read; paragraphs without such a word were not read.*
+
+### 1921 - Husserl, Hua 19/2 — Sixth Logical Investigation
+
+`husserliana-19-2-sixth-logical-investigation-commentary`
+
+- **presupposed** · `transzendenz/lu6/001` · *transcendent to consciousness*
+  Whether the judged objects are transcendent to consciousness or immanent makes no essential difference for the expression of acts.
+  `husserliana-19-2-sixth-logical-investigation-commentary#h3-s-2-the-expressibility-of-all-acts-is-not-decisive-two-meanings-of-talk-about-th` · LU VI § 2 · [§ 2\. The expressibility of all acts is not decisive. Two meanings of talk about the expressing of an act](https://faultynode.github.io/commentaries/commentaries/husserl/husserliana-19-2-sixth-logical-investigation-commentary.html#the-expressibility-of-all-acts-is-not-decisive-two-meanings-of-talk-about-the-expressing-of-an-act)
+  > That the judged objects are in one case transcendent to consciousness (or claim to be) and in the other immanent makes here no essential difference.
+
+#### Recorded absences
+
+- **absent** · `husserliana-19-2-sixth-logical-investigation-commentary#h4-b-the-perceptive-and-imaginative-adumbration-of-the-object`
+  Expected because: The adumbration of the perceived object is where the distinction between objects transcendent to consciousness and immanent ones, named in §2, would bear on fulfilment.
+  [b) The perceptive and imaginative adumbration of the object](https://faultynode.github.io/commentaries/commentaries/husserl/husserliana-19-2-sixth-logical-investigation-commentary.html#b-the-perceptive-and-imaginative-adumbration-of-the-object)
+
+*Partial pass: Term-led pass over the whole file (lines 1-1133): every paragraph containing the transcendence family, including bare transcendent and immanent, was read; paragraphs without such a word were not read.*
+
+### 1923-1924 - Husserl, Hua 7 — Erste Philosophie I
+
+`husserliana-7-erste-philosophie-i-commentary`
+
+- **presupposed** · `transzendenz/hua7/001` · *pure immanence*
+  The thought of pure immanence, in which all transcendence must announce and exhibit itself, remains authoritative for Locke despite his dogmatism.
+  `husserliana-7-erste-philosophie-i-commentary#h3-fourteenth-lecture-the-exemplariness-of-modern-natural-science-as-a-hindering-mo` · Hua VII, Fourteenth Lecture · [Fourteenth Lecture: The exemplariness of modern natural science as a hindering motive for the formation of a genuine intuitionistic science of consciousness](https://faultynode.github.io/commentaries/commentaries/husserl/husserliana-7-erste-philosophie-i-commentary.html#fourteenth-lecture-the-exemplariness-of-modern-natural-science-as-a-hindering-motive-for-the-formation-of-a-genuine-intuitionistic-science-of-consciousness)
+  > Yet the thought of pure immanence, in which all transcendence must announce and exhibit itself, remains for Locke too, despite all naive inconsequence of the dogmatistic procedure, authoritative.
+
+- **introduced** · `transzendenz/hua7/002` · *immanent object*
+  Husserl distinguishes the immanent intentional object of a consciousness, conscious as such, from the object simply, asserted as being in truth.
+  `husserliana-7-erste-philosophie-i-commentary#h3-fifteenth-lecture-the-problem-of-immanence-and-of-the-synthetic-unity-in-conscio` · Hua VII, Fifteenth Lecture · [Fifteenth Lecture: The problem of immanence and of the synthetic unity in consciousness](https://faultynode.github.io/commentaries/commentaries/husserl/husserliana-7-erste-philosophie-i-commentary.html#fifteenth-lecture-the-problem-of-immanence-and-of-the-synthetic-unity-in-consciousness)
+  > we will do well to distinguish: the immanent object of the respective consciousness (the immanent intentional one), as the in the immanence of this consciousness conscious as such; and the object simply
+
+- **criticized** · `transzendenz/hua7/003` · *real immanence*
+  The immanence of the intentional object in its consciousness is not a real immanence or being-contained, and to regard it so would be countersense.
+  `husserliana-7-erste-philosophie-i-commentary#h3-fifteenth-lecture-the-problem-of-immanence-and-of-the-synthetic-unity-in-conscio` · Hua VII, Fifteenth Lecture · [Fifteenth Lecture: The problem of immanence and of the synthetic unity in consciousness](https://faultynode.github.io/commentaries/commentaries/husserl/husserliana-7-erste-philosophie-i-commentary.html#fifteenth-lecture-the-problem-of-immanence-and-of-the-synthetic-unity-in-consciousness)
+  > This essentially inseparable immanence is therefore no real immanence, no real being-contained; to regard it so would be evident countersense.
+
+- **introduced** · `transzendenz/hua7/004` · *irreal immanence*
+  Consciousness-synthesis has, in the form of its poles, immanent contents that are irreal, unlike the real components of a real.
+  `husserliana-7-erste-philosophie-i-commentary#h3-sixteenth-lecture-the-irreality-of-the-immanent-contents-of-the-consciousness-sy` · Hua VII, Sixteenth Lecture · [Sixteenth Lecture: The irreality of the immanent contents of the consciousness-synthesis in their I–object polarization, and the problem of intersubjectivity. Remarks on Berkeley's critique of Locke](https://faultynode.github.io/commentaries/commentaries/husserl/husserliana-7-erste-philosophie-i-commentary.html#sixteenth-lecture-the-irreality-of-the-immanent-contents-of-the-consciousness-synthesis-in-their-iobject-polarization-and-the-problem-of-intersubjectivity-remarks-on-berkeleys-critique-of-locke)
+  > A real has real components, real parts and moments, real conjunction-forms; but consciousness-synthesis has, in the form of these poles, immanent contents that are irreal (irreal).
+
+- **criticized** · `transzendenz/hua7/005` · *transcendent cause*
+  An inference from sense-data to a transcendent cause as a je ne sais quoi is senseless, since in the own immanent sphere every analogue of it fails.
+  `husserliana-7-erste-philosophie-i-commentary#h3-sixteenth-lecture-the-irreality-of-the-immanent-contents-of-the-consciousness-sy` · Hua VII, Sixteenth Lecture · [Sixteenth Lecture: The irreality of the immanent contents of the consciousness-synthesis in their I–object polarization, and the problem of intersubjectivity. Remarks on Berkeley's critique of Locke](https://faultynode.github.io/commentaries/commentaries/husserl/husserliana-7-erste-philosophie-i-commentary.html#sixteenth-lecture-the-irreality-of-the-immanent-contents-of-the-consciousness-synthesis-in-their-iobject-polarization-and-the-problem-of-intersubjectivity-remarks-on-berkeleys-critique-of-locke)
+  > But senseless is an inference to a je ne sais quoi, a principially unexperienceable, for which in the own immanent sphere every analogue fails.
+
+- **introduced** · `transzendenz/hua7/006` · *transcend the own subjectivity*
+  The only way to transcend one's own subjectivity and self-experienced nature is empathy into another subjectivity.
+  `husserliana-7-erste-philosophie-i-commentary#h3-sixteenth-lecture-the-irreality-of-the-immanent-contents-of-the-consciousness-sy` · Hua VII, Sixteenth Lecture · [Sixteenth Lecture: The irreality of the immanent contents of the consciousness-synthesis in their I–object polarization, and the problem of intersubjectivity. Remarks on Berkeley's critique of Locke](https://faultynode.github.io/commentaries/commentaries/husserl/husserliana-7-erste-philosophie-i-commentary.html#sixteenth-lecture-the-irreality-of-the-immanent-contents-of-the-consciousness-synthesis-in-their-iobject-polarization-and-the-problem-of-intersubjectivity-remarks-on-berkeleys-critique-of-locke)
+  > The only way to transcend the own subjectivity and self-experienced nature, Husserl states — and here intersubjectivity enters the analysis for the first time — is empathy (Einfühlung) into another subjectivity
+
+- **criticized** · `transzendenz/hua7/007` · *transcendent nature*
+  The inner images and signs on the tabula rasa, taken as images and signs for a transcendent nature, are inventions of a misled reflection.
+  `husserliana-7-erste-philosophie-i-commentary#h3-seventeenth-lecture-on-the-question-of-the-constitution-of-externality-the-carte` · Hua VII, Seventeenth Lecture · [Seventeenth Lecture: On the question of the constitution of "externality": the Cartesian evidence of the self-givenness of things in perception](https://faultynode.github.io/commentaries/commentaries/husserl/husserliana-7-erste-philosophie-i-commentary.html#seventeenth-lecture-on-the-question-of-the-constitution-of-externality-the-cartesian-evidence-of-the-self-givenness-of-things-in-perception)
+  > these entire inner images and signs on the tabula rasa — images and signs for a transcendent nature — are inventions of a misled reflection
+
+- **revised** · `transzendenz/hua7/008` · *the transcendent itself*
+  What every confirmation exhibits is the synthetic unity conscious in perception and nothing other than the outer spatial thing itself, which is from the outset the transcendent itself.
+  `husserliana-7-erste-philosophie-i-commentary#h3-seventeenth-lecture-on-the-question-of-the-constitution-of-externality-the-carte` · Hua VII, Seventeenth Lecture · [Seventeenth Lecture: On the question of the constitution of "externality": the Cartesian evidence of the self-givenness of things in perception](https://faultynode.github.io/commentaries/commentaries/husserl/husserliana-7-erste-philosophie-i-commentary.html#seventeenth-lecture-on-the-question-of-the-constitution-of-externality-the-cartesian-evidence-of-the-self-givenness-of-things-in-perception)
+  > nothing other than the outer itself, the spatial thing itself; it is from the outset the transcendent itself
+
+- **criticized** · `transzendenz/hua7/009` · *transcendence*
+  Locke's definition of cognition as perception of agreement among one's own ideas makes cognition of the principially transcendent unthinkable and so conflicts with his doctrine of transcendence.
+  `husserliana-7-erste-philosophie-i-commentary#h3-twenty-first-lecture-berkeley-s-discovery-and-naturalistic-misinterpretation-of` · Hua VII, Twenty-first Lecture · [Twenty-first Lecture: Berkeley's discovery and — naturalistic misinterpretation of the problem of the constitution of the real world](https://faultynode.github.io/commentaries/commentaries/husserl/husserliana-7-erste-philosophie-i-commentary.html#twenty-first-lecture-berkeleys-discovery-and--naturalistic-misinterpretation-of-the-problem-of-the-constitution-of-the-real-world)
+  > wherein lay that a cognition of principially transcendent is unthinkable — with which Locke's doctrine of transcendence would, to be sure, accord little
+
+- **presupposed** · `transzendenz/hua7/010` · *transcendent objectivity*
+  A germ-form of the problem lies in Descartes' Meditations, whose first task is to show how the ego comes from its cogitationes to belief in a transcendent objectivity.
+  `husserliana-7-erste-philosophie-i-commentary#h3-twenty-first-lecture-berkeley-s-discovery-and-naturalistic-misinterpretation-of` · Hua VII, Twenty-first Lecture · [Twenty-first Lecture: Berkeley's discovery and — naturalistic misinterpretation of the problem of the constitution of the real world](https://faultynode.github.io/commentaries/commentaries/husserl/husserliana-7-erste-philosophie-i-commentary.html#twenty-first-lecture-berkeleys-discovery-and--naturalistic-misinterpretation-of-the-problem-of-the-constitution-of-the-real-world)
+  > insofar as their first task is to show how the ego comes, from the immediately evident domain of its cogitationes, to the belief in a transcendent objectivity, in an outer world and God
+
+- **criticized** · `transzendenz/hua7/011` · *transcendent nature*
+  For Berkeley association permits inference only from immanent data to immanent data, so a transcendent nature in a transcendent space is a fiction reducing to associatively unified sensation-complexes.
+  `husserliana-7-erste-philosophie-i-commentary#h3-twenty-first-lecture-berkeley-s-discovery-and-naturalistic-misinterpretation-of` · Hua VII, Twenty-first Lecture · [Twenty-first Lecture: Berkeley's discovery and — naturalistic misinterpretation of the problem of the constitution of the real world](https://faultynode.github.io/commentaries/commentaries/husserl/husserliana-7-erste-philosophie-i-commentary.html#twenty-first-lecture-berkeleys-discovery-and--naturalistic-misinterpretation-of-the-problem-of-the-constitution-of-the-real-world)
+  > infer can I so from immanent data to immanent data, never to transcendent, to unperceivable. As a transcendent nature, as a realm of transcendent material existences in a transcendent space, is a fiction
+
+- **presupposed** · `transzendenz/hua7/012` · *transcending of the idea-field*
+  Berkeley denies a transcending of the idea-field toward transcendent nature while admitting the transcendent in the form of foreign I's, an inference Husserl says has other foundations.
+  `husserliana-7-erste-philosophie-i-commentary#h3-twenty-second-lecture-berkeley-s-monadological-approach-comparison-with-leibniz` · Hua VII, Twenty-second Lecture · [Twenty-second Lecture: Berkeley's monadological approach; comparison with Leibniz. Transition to Hume](https://faultynode.github.io/commentaries/commentaries/husserl/husserliana-7-erste-philosophie-i-commentary.html#twenty-second-lecture-berkeleys-monadological-approach-comparison-with-leibniz-transition-to-hume)
+  > Is it not perverse to want to deny the possibility of a transcending of the idea-field in favor of a transcendent nature, and on the other side yet to admit transcendent, namely in the form of foreign I's?
+
+- **introduced** · `transzendenz/hua7/013` · *theory of transcendence on the ground of immanence*
+  However primitive, Berkeley's theory is the first theory of transcendence on the ground of immanence, determining the sense of the experienced world purely out of the immanently running experiences.
+  `husserliana-7-erste-philosophie-i-commentary#h3-twenty-second-lecture-berkeley-s-monadological-approach-comparison-with-leibniz` · Hua VII, Twenty-second Lecture · [Twenty-second Lecture: Berkeley's monadological approach; comparison with Leibniz. Transition to Hume](https://faultynode.github.io/commentaries/commentaries/husserl/husserliana-7-erste-philosophie-i-commentary.html#twenty-second-lecture-berkeleys-monadological-approach-comparison-with-leibniz-transition-to-hume)
+  > it is yet a first theory of transcendence on the ground of immanence
+
+- **criticized** · `transzendenz/hua7/014` · *transcendent*
+  For Hume reason permits neither counting the appearing world as existing nor regarding it as manifestation of a further transcendent behind it.
+  `husserliana-7-erste-philosophie-i-commentary#h3-twenty-fifth-lecture-the-constitution-problem-in-hume-but-its-ending-in-complete` · Hua VII, Twenty-fifth Lecture · [Twenty-fifth Lecture: The constitution-problem in Hume — but its ending in complete skepticism](https://faultynode.github.io/commentaries/commentaries/husserl/husserliana-7-erste-philosophie-i-commentary.html#twenty-fifth-lecture-the-constitution-problem-in-hume--but-its-ending-in-complete-skepticism)
+  > Reason permits here neither to let the appearing world (the imaginative thing-world substructed to the actual sensation-data) count in any sense as existing, nor permits it to regard this world as manifestation of a still-further-behind-lying transcendent.
+
+- **criticized** · `transzendenz/hua7/015` · *transcendent (natural) reality*
+  Hume's skepsis does not concern only the science of transcendent natural reality, since its proof is led on the immanent ground and undermines immanent psychology too.
+  `husserliana-7-erste-philosophie-i-commentary#h3-twenty-fifth-lecture-the-constitution-problem-in-hume-but-its-ending-in-complete` · Hua VII, Twenty-fifth Lecture · [Twenty-fifth Lecture: The constitution-problem in Hume — but its ending in complete skepticism](https://faultynode.github.io/commentaries/commentaries/husserl/husserliana-7-erste-philosophie-i-commentary.html#twenty-fifth-lecture-the-constitution-problem-in-hume--but-its-ending-in-complete-skepticism)
+  > One may not say, Husserl insists, that the skepsis concerns only the science of the transcendent (natural) reality.
+
+#### Recorded absences
+
+- **absent** · `husserliana-7-erste-philosophie-i-commentary#h3-sixth-lecture-the-demand-for-a-theory-of-cognition-implied-in-the-platonic-idea`
+  Expected because: The demand for a theory of cognition is introduced here, and from the Fifteenth Lecture on the commentary frames that theory as the problem of cognizing the transcendent within immanence.
+  [Sixth Lecture: The demand for a theory of cognition implied in the Platonic idea of dialectic](https://faultynode.github.io/commentaries/commentaries/husserl/husserliana-7-erste-philosophie-i-commentary.html#sixth-lecture-the-demand-for-a-theory-of-cognition-implied-in-the-platonic-idea-of-dialectic)
+
+*Partial pass: Term-led pass over the whole file (lines 1-971): every paragraph containing the transcendence family, including bare transcendent and immanent, was read; paragraphs without such a word were not read. The First to Fourth and Sixth to Eighth Lectures carry none.*
+
+### 1925 - Husserl, Hua 9 — Phenomenological Psychology
+
+`husserliana-9-phenomenological-psychology-commentary`
+
+- **criticized** · `transzendenz/hua9/001` · *transcend experiencing intuition*
+  Explanatory psychology, as reported in Dilthey's critique, proceeds like physics by hypothetical inferences that transcend experiencing intuition.
+  `husserliana-9-phenomenological-psychology-commentary#h3-s-1-the-development-of-modern-psychology-dilthey-s-decisive-critique-and-his-pro` · Hua IX § 1 · [§ 1\. The Development of Modern Psychology; Dilthey's Decisive Critique and His Proposals for Reform (Explanatory and Descriptive Psychology)](https://faultynode.github.io/commentaries/commentaries/husserl/husserliana-9-phenomenological-psychology-commentary.html#the-development-of-modern-psychology-diltheys-decisive-critique-and-his-proposals-for-reform-explanatory-and-descriptive-psychology)
+  > It proceeds, like physics, hypothetically and constructively, by means of inferences that transcend experiencing intuition.
+
+- **presupposed** · `transzendenz/hua9/002` · *immanent character*
+  The unity of the world is not a posit added to experience but an immanent character of the experiential stream.
+  `husserliana-9-phenomenological-psychology-commentary#h3-s-6-necessity-of-return-to-the-pre-scientific-experiential-world-and-to-the-expe` · Hua IX § 6 · [§ 6\. Necessity of Return to the Pre-Scientific Experiential World and to the Experiencing in Which It Is Given (Unanimity of Experience)](https://faultynode.github.io/commentaries/commentaries/husserl/husserliana-9-phenomenological-psychology-commentary.html#necessity-of-return-to-the-pre-scientific-experiential-world-and-to-the-experiencing-in-which-it-is-given-unanimity-of-experience)
+  > The point is: the world's unity is not a posit added to experience but an immanent character of the experiential stream itself.
+
+- **introduced** · `transzendenz/hua9/003` · *immanence and transcendence*
+  Limiting itself to the sphere of perception, the lecture brings to evidence the fundamental distinction between immanence and transcendence documented in pure subjectivity itself.
+  `husserliana-9-phenomenological-psychology-commentary#h3-s-31-hyle-hyletic-data-as-matter-for-intentional-functions` · Hua IX § 31 · [§ 31\. Hyle — Hyletic Data as Matter for Intentional Functions](https://faultynode.github.io/commentaries/commentaries/husserl/husserliana-9-phenomenological-psychology-commentary.html#hyle--hyletic-data-as-matter-for-intentional-functions)
+  > namely, the fundamental distinction between immanence and transcendence documented in pure subjectivity itself
+
+- **introduced** · `transzendenz/hua9/004` · *perception of the transcendent*
+  Inner perception is perception of the immanent and outer perception is perception of the transcendent.
+  `husserliana-9-phenomenological-psychology-commentary#h3-s-33-objective-temporality-and-stream-temporality` · Hua IX § 33 · [§ 33\. Objective Temporality and Stream-Temporality](https://faultynode.github.io/commentaries/commentaries/husserl/husserliana-9-phenomenological-psychology-commentary.html#objective-temporality-and-stream-temporality)
+  > Now we can also say: inner perception is perception of the immanent; outer perception is perception of the transcendent.
+
+- **introduced** · `transzendenz/hua9/005` · *immanent*
+  What is taken from the immanent time-sphere of the experience-stream as an immanent time-object or its reell parts and moments is immanent.
+  `husserliana-9-phenomenological-psychology-commentary#h3-s-34-distinction-of-immanent-and-transcendent-reell-and-irreell-in-perception-th` · Hua IX § 34 · [§ 34\. Distinction of Immanent and Transcendent, Reell and Irreell in Perception. The Object as Irreal Pole](https://faultynode.github.io/commentaries/commentaries/husserl/husserliana-9-phenomenological-psychology-commentary.html#distinction-of-immanent-and-transcendent-reell-and-irreell-in-perception-the-object-as-irreal-pole)
+  > Everything that we take from this immanent time-sphere as singly-immanent time-object — as one such time-object's reell parts or moments — is immanent.
+
+- **introduced** · `transzendenz/hua9/006` · *transcendent pole*
+  The transcendent object is the irreal pole of perception, belonging reell to no lived-experience but meant in all of them as the one they present.
+  `husserliana-9-phenomenological-psychology-commentary#h3-s-34-distinction-of-immanent-and-transcendent-reell-and-irreell-in-perception-th` · Hua IX § 34 · [§ 34\. Distinction of Immanent and Transcendent, Reell and Irreell in Perception. The Object as Irreal Pole](https://faultynode.github.io/commentaries/commentaries/husserl/husserliana-9-phenomenological-psychology-commentary.html#distinction-of-immanent-and-transcendent-reell-and-irreell-in-perception-the-object-as-irreal-pole)
+  > The transcendent object is the irreal pole of perception — it does not belong reell to any lived-experience, but is inseparably meant-in-them as the one that they all present.
+
+- **presupposed** · `transzendenz/hua9/007` · *transcends*
+  The object transcends the reell content of the experience-stream, and this concept of the transcendent as object conscious in immanence carries difficulties and ambiguities.
+  `husserliana-9-phenomenological-psychology-commentary#h3-s-34-distinction-of-immanent-and-transcendent-reell-and-irreell-in-perception-th` · Hua IX § 34 · [§ 34\. Distinction of Immanent and Transcendent, Reell and Irreell in Perception. The Object as Irreal Pole](https://faultynode.github.io/commentaries/commentaries/husserl/husserliana-9-phenomenological-psychology-commentary.html#distinction-of-immanent-and-transcendent-reell-and-irreell-in-perception-the-object-as-irreal-pole)
+  > Yet this concept of the transcendent — as the object conscious in immanence — carries with it many great difficulties and shimmering ambiguities, and demands further consideration.
+
+- **criticized** · `transzendenz/hua9/008` · *object as transcendent*
+  The ideal pole, the object as transcendent, is not a rigid piece common to all the intentional experiences in which it dwells.
+  `husserliana-9-phenomenological-psychology-commentary#h3-s-34-distinction-of-immanent-and-transcendent-reell-and-irreell-in-perception-th` · Hua IX § 34 · [§ 34\. Distinction of Immanent and Transcendent, Reell and Irreell in Perception. The Object as Irreal Pole](https://faultynode.github.io/commentaries/commentaries/husserl/husserliana-9-phenomenological-psychology-commentary.html#distinction-of-immanent-and-transcendent-reell-and-irreell-in-perception-the-object-as-irreal-pole)
+  > The ideal-pole (the object as transcendent) is not something like a rigid piece common to all the intentional experiences in which it ideally dwells.
+
+- **introduced** · `transzendenz/hua9/009` · *transcendent (second sense)*
+  The object is transcendent in another sense than polar irreality: as perceptually given in belief, it cannot be completed by any synthetically extended perception into adequate givenness.
+  `husserliana-9-phenomenological-psychology-commentary#h3-s-34-distinction-of-immanent-and-transcendent-reell-and-irreell-in-perception-th` · Hua IX § 34 · [§ 34\. Distinction of Immanent and Transcendent, Reell and Irreell in Perception. The Object as Irreal Pole](https://faultynode.github.io/commentaries/commentaries/husserl/husserliana-9-phenomenological-psychology-commentary.html#distinction-of-immanent-and-transcendent-reell-and-irreell-in-perception-the-object-as-irreal-pole)
+  > It itself is transcendent to perception in yet another sense than that of the polar irreality — namely in that of a perceptually-given
+
+- **revised** · `transzendenz/hua9/010` · *transcendent / immanent*
+  The intentional object is transcendent to the lived-experience, not reell in it, yet immanent in the strict sense of belonging inseparably to it as noematic correlate.
+  `husserliana-9-phenomenological-psychology-commentary#h3-s-36-the-intentional-object-of-perception` · Hua IX § 36 · [§ 36\. The Intentional Object of Perception](https://faultynode.github.io/commentaries/commentaries/husserl/husserliana-9-phenomenological-psychology-commentary.html#the-intentional-object-of-perception)
+  > The intentional object is transcendent to the lived-experience (it is not reell in it) but immanent in the strict sense of belonging inseparably to the lived-experience as its noematic correlate.
+
+- **presupposed** · `transzendenz/hua9/011` · *purely immanent*
+  With the distinctions of immanence and transcendence in hand, the reduction is formulated as the change of attitude that unveils the purely immanent domain of consciousness and its correlates.
+  `husserliana-9-phenomenological-psychology-commentary#h3-s-37-the-phenomenological-reduction-as-method-of-unveiling-the-immanent` · Hua IX § 37 · [§ 37\. The Phenomenological Reduction as Method of Unveiling the Immanent](https://faultynode.github.io/commentaries/commentaries/husserl/husserliana-9-phenomenological-psychology-commentary.html#the-phenomenological-reduction-as-method-of-unveiling-the-immanent)
+  > The reduction is a change of attitude whereby the natural positing of the world is bracketed and what remains is the purely immanent domain of consciousness and its correlates.
+
+- **presupposed** · `transzendenz/hua9/012` · *transcendent intentionality*
+  In the phenomenological attitude the outer object is thematic only as the transcendent meaning of the perception, and the transcendent intentionality contained in the subjective is co-thematic.
+  `husserliana-9-phenomenological-psychology-commentary#h3-s-38-the-access-to-pure-subjectivity-from-outer-perception` · Hua IX § 38 · [§ 38\. The Access to Pure Subjectivity from Outer Perception](https://faultynode.github.io/commentaries/commentaries/husserl/husserliana-9-phenomenological-psychology-commentary.html#the-access-to-pure-subjectivity-from-outer-perception)
+  > and if subjective contains in itself transcendent intentionality as its meaning, then that — and the analysis of this meaning as such — is co-thematic
+
+- **presupposed** · `transzendenz/hua9/013` · *transcendent world*
+  That a perception perceives a transcendent and posits it as being is a type of truth that, grasped phenomenologically, contains no meaning about the transcendent world simpliciter.
+  `husserliana-9-phenomenological-psychology-commentary#h3-s-38-the-access-to-pure-subjectivity-from-outer-perception` · Hua IX § 38 · [§ 38\. The Access to Pure Subjectivity from Outer Perception](https://faultynode.github.io/commentaries/commentaries/husserl/husserliana-9-phenomenological-psychology-commentary.html#the-access-to-pure-subjectivity-from-outer-perception)
+  > that a perception perceives a transcendent and that it thereby in its belief-certainty posits its object as being (and posits with a transcendent sense of this or that structure) — this is a type of truths that, phenomenologically purely grasped, contains in itself not the slightest meaning about the transcendent world simpliciter
+
+#### Stratum not assigned by the commentary
+
+- **presupposed** · `transzendenz/hua9/014` · *pure immanence*
+  The subjective consciousness-life in pure immanence is the site of all sense-giving and being-positing, which calls for a pure self-clarification of the knower.
+  `husserliana-9-phenomenological-psychology-commentary#h4-s1-the-historical-origin-of-phenomenology-as-transcendental` · [§1. The Historical Origin of Phenomenology as Transcendental](https://faultynode.github.io/commentaries/commentaries/husserl/husserliana-9-phenomenological-psychology-commentary.html#the-historical-origin-of-phenomenology-as-transcendental)
+  > So the subjective consciousness-life in pure immanence is the site of all sense-giving and being-positing, being-corroborating.
+
+- **presupposed** · `transzendenz/hua9/015` · *transcendent*
+  Empirical psychology did not seek the psychic as a transcendent, indirectly determined object, which is the source of the need for a descriptive psychology.
+  `husserliana-9-phenomenological-psychology-commentary#h4-beilage-i-to-s1-toward-the-development-of-modern-psychology` · Hua IX, Beilage I · [Beilage I (to §1): Toward the Development of Modern Psychology](https://faultynode.github.io/commentaries/commentaries/husserl/husserliana-9-phenomenological-psychology-commentary.html#beilage-i-to-1-toward-the-development-of-modern-psychology)
+  > In the long-ruling empirical psychology, the psychic is not sought as a transcendent and indirectly theoretically determined — and this is the source of the need for a descriptive psychology.
+
+#### Recorded absences
+
+- **absent** · `husserliana-9-phenomenological-psychology-commentary#h3-s-35-substrate-pole-and-property-pole-the-positive-meaning-of-the-empty-horizon`
+  Expected because: The section continues the pole analysis of §34, where the object as transcendent was defined as the irreal pole of perception.
+  [§ 35\. Substrate-Pole and Property-Pole. The Positive Meaning of the Empty Horizon](https://faultynode.github.io/commentaries/commentaries/husserl/husserliana-9-phenomenological-psychology-commentary.html#substrate-pole-and-property-pole-the-positive-meaning-of-the-empty-horizon)
+
+- **absent** · `husserliana-9-phenomenological-psychology-commentary#h3-s-28-carrying-out-the-reflective-turn-of-the-gaze-onto-the-subjective-the-percep`
+  Expected because: The reflective turn onto the perception of physical things is the starting point from which §§31-34 draw the distinction of immanent and transcendent perception.
+  [§ 28\. Carrying Out the Reflective Turn of the Gaze onto the Subjective. The Perception of Physical Things in the Reflective Attitude](https://faultynode.github.io/commentaries/commentaries/husserl/husserliana-9-phenomenological-psychology-commentary.html#carrying-out-the-reflective-turn-of-the-gaze-onto-the-subjective-the-perception-of-physical-things-in-the-reflective-attitude)
+
+*Partial pass: Term-led pass over the whole file (lines 1-1703): every paragraph containing the transcendence family, including bare transcendent and immanent, was read; paragraphs without such a word were not read.*
 
 ### 1928 - Heidegger, Metaphysische Anfangsgründe der Logik im Ausgang von Leibniz (GA 26): A Commentary
 
@@ -850,6 +2113,157 @@
   Expected because: The 1949 preface re-reads the 1929 treatise and names its matter, the treatise whose Parts I-III turn on Dasein's transcendence, yet it characterizes that matter as the ontological difference alone.
   The preface pairs the treatise with 'What Is Metaphysics?' as naming the ontological difference; the word transcendence does not occur in it.
   [Preface to the Third Edition (1949)](https://faultynode.github.io/commentaries/commentaries/heidegger/heidegger-ga-9-vom-wesen-des-grundes-commentary.html#preface-to-the-third-edition-1949)
+
+### 1929 to 1937 - Husserl formal and transcendental logic
+
+`husserl-formal-and-transcendental-logic-commentary`
+
+- **presupposed** · `transzendenz/ftl/001` · *"transcendent" objects*
+  The forming in judgment from which mathematical concepts arise takes place not at the transcendent objects but at the objects as presented in the judgment.
+  `husserl-formal-and-transcendental-logic-commentary#h4-s38-judgment-objects-as-such-and-syntactic-formations` · FTL § 38 · [§38. Judgment-Objects as Such and Syntactic Formations](https://faultynode.github.io/commentaries/commentaries/husserl/husserl-formal-and-transcendental-logic-commentary.html#judgment-objects-as-such-and-syntactic-formations)
+  > takes place not at the "transcendent" objects but at the objects as presented in the judgment itself
+
+- **introduced** · `transzendenz/ftl/002` · *transcendence*
+  Categorial formations are not objectualities only while judging takes place; transcendence lies in their own being-sense, as enduring acquisitions.
+  `husserl-formal-and-transcendental-logic-commentary#h5-f-the-categorial-formations-arising-in-determining-as-habitual-and-intersubjecti` · [f) The Categorial Formations Arising in Determining as Habitual and Intersubjective Possession](https://faultynode.github.io/commentaries/commentaries/husserl/husserl-formal-and-transcendental-logic-commentary.html#f-the-categorial-formations-arising-in-determining-as-habitual-and-intersubjective-possession)
+  > The categorial formations are not merely objectualities during and while the judging action takes place. In their own being-sense lies transcendence.
+
+- **presupposed** · `transzendenz/ftl/003` · *"transcendent"*
+  Senses, as objects, are just as transcendent to their acts and subjects as objects that are not senses.
+  `husserl-formal-and-transcendental-logic-commentary#h4-s48-judgments-as-mere-meanings-belong-to-the-region-of-senses-phenomenological-c` · FTL § 48 · [§48. Judgments as Mere Meanings Belong to the Region of Senses. Phenomenological Characterization of the Orientation Toward Senses](https://faultynode.github.io/commentaries/commentaries/husserl/husserl-formal-and-transcendental-logic-commentary.html#judgments-as-mere-meanings-belong-to-the-region-of-senses-phenomenological-characterization-of-the-orientation-toward-senses)
+  > The senses are, as objects, just as "transcendent" relative to their acts and subjects as objects that are not senses.
+
+- **introduced** · `transzendenz/ftl/004` · *transcendent object*
+  The transcendent object consists within synthetic experience as the identity-pole immanent to the individual experiences and transcendent in the identity surpassing them.
+  `husserl-formal-and-transcendental-logic-commentary#h4-s61-evidence-in-general-in-the-function-of-all-objects-real-or-irreal-as-synthet` · FTL § 61 · [§61. Evidence in General in the Function of All Objects, Real or Irreal, as Synthetic Unities](https://faultynode.github.io/commentaries/commentaries/husserl/husserl-formal-and-transcendental-logic-commentary.html#evidence-in-general-in-the-function-of-all-objects-real-or-irreal-as-synthetic-unities)
+  > make understandable how the transcendent object consists within the sight-sphere of synthetic experience itself — as the identity-pole immanent to the individual experiences and yet transcendent in the identity surpassing them
+
+- **revised** · `transzendenz/ftl/005` · *"transcendence"*
+  Every experienceable object, even a physical one, has a general ideality over against its constituting manifolds, and therein consists the transcendence of all objectualities over against consciousness.
+  `husserl-formal-and-transcendental-logic-commentary#h4-s62-the-ideality-of-all-kinds-of-objectualities-vis-a-vis-constituting-conscious` · FTL § 62 · [§62. The Ideality of All Kinds of Objectualities vis-à-vis Constituting Consciousness. The Positivistic Misinterpretation of Nature as a Kind of Psychologism](https://faultynode.github.io/commentaries/commentaries/husserl/husserl-formal-and-transcendental-logic-commentary.html#the-ideality-of-all-kinds-of-objectualities-vis-a-vis-constituting-consciousness-the-positivistic-misinterpretation-of-nature-as-a-kind-of-psychologism)
+  > This is the general ideality of all intentional unities over against the manifolds constituting them. Therein consists the "transcendence" of all kinds of objectualities over against the consciousness of them.
+
+- **criticized** · `transzendenz/ftl/006` · *immanent temporality*
+  Objectualities are psychologized when their objectual sense is negated in favour of subjective experiences, data in immanent or psychological temporality.
+  `husserl-formal-and-transcendental-logic-commentary#h4-s65-a-more-general-concept-of-psychologism` · FTL § 65 · [§65. A More General Concept of Psychologism](https://faultynode.github.io/commentaries/commentaries/husserl/husserl-formal-and-transcendental-logic-commentary.html#a-more-general-concept-of-psychologism)
+  > their objectual sense, their sense as a kind of objects of peculiar essence, is negated in favor of the subjective experiences, the data in immanent or psychological temporality
+
+- **criticized** · `transzendenz/ftl/007` · *immanent perception*
+  Even immanent perception gives only a starting-point; full objectification of a psychic datum requires retention, protention and recollection.
+  `husserl-formal-and-transcendental-logic-commentary#h5-b-the-evidence-of-inner-experience` · [b) The Evidence of "Inner" Experience](https://faultynode.github.io/commentaries/commentaries/husserl/husserl-formal-and-transcendental-logic-commentary.html#b-the-evidence-of-inner-experience)
+  > Even the so-called immanent perception gives only a starting-point; the full objectification of a psychic datum requires the synthetic accomplishments of retention, protention, and recollection.
+
+- **presupposed** · `transzendenz/ftl/008` · *immanent temporality*
+  The universal essential form of intentional genesis is the constitution of immanent temporality, in which every experience receives and retains its identical time-position.
+  `husserl-formal-and-transcendental-logic-commentary#h4-c-the-time-form-of-intentional-genesis-and-its-constitution-retentional-modifica` · [c) The Time-Form of Intentional Genesis and Its Constitution. Retentional Modification. Sedimentation in the Background of Non-Prominence (Unconsciousness)](https://faultynode.github.io/commentaries/commentaries/husserl/husserl-formal-and-transcendental-logic-commentary.html#c-the-time-form-of-intentional-genesis-and-its-constitution-retentional-modification-sedimentation-in-the-background-of-non-prominence-unconsciousness)
+  > The universal essential form of intentional genesis is the constitution of immanent temporality
+
+#### Recorded absences
+
+- **absent** · `husserl-formal-and-transcendental-logic-commentary#h4-s59-generalities-on-evidence-as-self-giving`
+  Expected because: Evidence as self-giving is introduced here, and §61 states how the transcendent object consists within synthetic experience as an identity-pole.
+  [§59. Generalities on Evidence as Self-Giving](https://faultynode.github.io/commentaries/commentaries/husserl/husserl-formal-and-transcendental-logic-commentary.html#generalities-on-evidence-as-self-giving)
+
+*Partial pass: Term-led pass over the whole file (lines 1-1057): every paragraph containing the transcendence family, including bare transcendent and immanent, was read; paragraphs without such a word were not read.*
+
+### 1929 to 1931 - Husserl Cartesian Meditations Analysis
+
+`husserliana-1-cartesianische-meditationen-commentary`
+
+- **introduced** · `transzendenz/hua1/001` · *transcendence of the world*
+  Transcendence, the correlate-concept of the transcendental, belongs to the very sense of everything worldly, though the world draws all its sense and validity from my experiencing.
+  `husserliana-1-cartesianische-meditationen-commentary#h3-s-11-the-psychological-and-the-transcendental-ego-the-transcendence-of-the-world` · CM § 11 · [§ 11. The Psychological and the Transcendental Ego. The Transcendence of the World](https://faultynode.github.io/commentaries/commentaries/husserl/husserliana-1-cartesianische-meditationen-commentary.html#the-psychological-and-the-transcendental-ego-the-transcendence-of-the-world)
+  > To the very sense of everything worldly belongs this transcendence, although it acquires and can only acquire the entire sense that determines it, together with its being-validity, from my experiencing
+
+- **introduced** · `transzendenz/hua1/002` · *transcendence of unreal containedness*
+  If this transcendence of unreal containedness belongs to the sense of the world, the ego that carries the world as valid sense is called transcendental.
+  `husserliana-1-cartesianische-meditationen-commentary#h3-s-11-the-psychological-and-the-transcendental-ego-the-transcendence-of-the-world` · CM § 11 · [§ 11. The Psychological and the Transcendental Ego. The Transcendence of the World](https://faultynode.github.io/commentaries/commentaries/husserl/husserliana-1-cartesianische-meditationen-commentary.html#the-psychological-and-the-transcendental-ego-the-transcendence-of-the-world)
+  > If this transcendence of unreal containedness belongs to the very sense of the world, then the ego itself, which carries the world as a valid sense and which is itself necessarily presupposed by the world, is called transcendental in the phenomenological sense
+
+- **criticized** · `transzendenz/hua1/003` · *transcendent subjectivity*
+  The ego cogito is not to be used as a premise for inferences to a transcendent subjectivity; the epoché instead discloses a novel sphere of transcendental experience.
+  `husserliana-1-cartesianische-meditationen-commentary#h3-s-12-the-idea-of-a-transcendental-grounding-of-knowledge` · CM § 12 · [§ 12. The Idea of a Transcendental Grounding of Knowledge](https://faultynode.github.io/commentaries/commentaries/husserl/husserliana-1-cartesianische-meditationen-commentary.html#the-idea-of-a-transcendental-grounding-of-knowledge)
+  > instead of wishing to use the ego cogito as an apodictically evident premise for supposedly necessary inferences to a transcendent subjectivity
+
+- **presupposed** · `transzendenz/hua1/004` · *immanent*
+  Every object whatsoever, including every immanent one, designates a rule-structure of the transcendental ego.
+  `husserliana-1-cartesianische-meditationen-commentary#h3-s-22-the-idea-of-the-universal-unity-of-all-objects-and-the-task-of-their-consti` · CM § 22 · [§ 22. The Idea of the Universal Unity of All Objects and the Task of Their Constitutional Clarification](https://faultynode.github.io/commentaries/commentaries/husserl/husserliana-1-cartesianische-meditationen-commentary.html#the-idea-of-the-universal-unity-of-all-objects-and-the-task-of-their-constitutional-clarification)
+  > Every object, every object whatsoever (including every immanent one), designates a rule-structure of the transcendental ego.
+
+- **presupposed** · `transzendenz/hua1/005` · *immanent time-sphere*
+  Existing objects for the ego include both objects in its adequately verifiable immanent time-sphere and world-objects demonstrated in merely presumptive external experience.
+  `husserliana-1-cartesianische-meditationen-commentary#h3-s-30-the-transcendental-ego-inseparable-from-its-experiences` · CM § 30 · [§ 30. The Transcendental Ego Inseparable from Its Experiences](https://faultynode.github.io/commentaries/commentaries/husserl/husserliana-1-cartesianische-meditationen-commentary.html#the-transcendental-ego-inseparable-from-its-experiences)
+  > not only objects in its adequately verifiable immanent time-sphere but also the world-objects demonstrated as existing in the concordance of the course of inadequate, merely presumptive external experience
+
+- **criticized** · `transzendenz/hua1/006` · *transcendence*
+  The problem of the traditional theory of knowledge, as which phenomenology may also characterize itself, is that of transcendence, the clarification of the principled possibility of cognition.
+  `husserliana-1-cartesianische-meditationen-commentary#h3-s-40-transition-to-the-question-of-transcendental-idealism` · CM § 40 · [§ 40. Transition to the Question of Transcendental Idealism](https://faultynode.github.io/commentaries/commentaries/husserl/husserliana-1-cartesianische-meditationen-commentary.html#transition-to-the-question-of-transcendental-idealism)
+  > The problem of the traditional theory of knowledge is that of transcendence. It wishes to clarify the principled possibility of cognition.
+
+- **revised** · `transzendenz/hua1/007` · *transcendence*
+  Transcendence in every form is an immanent being-character constituting itself within the ego, and every sense and being, immanent or transcendent, falls within transcendental subjectivity.
+  `husserliana-1-cartesianische-meditationen-commentary#h3-s-41-the-genuine-phenomenological-self-interpretation-of-the-ego-cogito-as-trans` · CM § 41 · [§ 41. The Genuine Phenomenological Self-Interpretation of the "Ego Cogito" as "Transcendental Idealism"](https://faultynode.github.io/commentaries/commentaries/husserl/husserliana-1-cartesianische-meditationen-commentary.html#the-genuine-phenomenological-self-interpretation-of-the-ego-cogito-as-transcendental-idealism)
+  > Transcendence in every form is an immanent being-character constituting itself within the ego.
+
+- **presupposed** · `transzendenz/hua1/008` · *transcendent objects*
+  The ego's own extends to transcendent objects of outer sensibility insofar as they are originally constituted through its own sensibility and apperceptions.
+  `husserliana-1-cartesianische-meditationen-commentary#h3-s-47-the-intentional-object-also-belongs-to-the-full-monadic-concretion-of-ownne` · CM § 47 · [§ 47. The Intentional Object Also Belongs to the Full Monadic Concretion of Ownness. Immanent Transcendence and Primordial World](https://faultynode.github.io/commentaries/commentaries/husserl/husserliana-1-cartesianische-meditationen-commentary.html#the-intentional-object-also-belongs-to-the-full-monadic-concretion-of-ownness-immanent-transcendence-and-primordial-world)
+  > This includes transcendent objects of outer sensibility, insofar as they are actually originally constituted through my own sensibility, my own apperceptions, as concretely inseparable from them.
+
+- **introduced** · `transzendenz/hua1/009` · *objective transcendence*
+  What is to be made understandable is how the sense-giving of objective transcendence comes about at a higher founded level, as static analysis rather than genesis.
+  `husserliana-1-cartesianische-meditationen-commentary#h3-s-48-the-transcendence-of-the-objective-world-as-higher-level-transcendence` · CM § 48 · [§ 48. The Transcendence of the Objective World as Higher-Level Transcendence](https://faultynode.github.io/commentaries/commentaries/husserl/husserliana-1-cartesianische-meditationen-commentary.html#the-transcendence-of-the-objective-world-as-higher-level-transcendence)
+  > What is now to be made understandable is how, at the higher founded level, the sense-giving of objective transcendence comes about — and this as experience, not as the disclosure of a temporally progressing genesis but as a static analysis.
+
+- **presupposed** · `transzendenz/hua1/010` · *transcending experience*
+  Foreign body and foreign governing ego are given in the manner of a unitary transcending experience.
+  `husserliana-1-cartesianische-meditationen-commentary#h3-s-52-appresentation-as-a-kind-of-experience-with-its-own-style-of-verification` · CM § 52 · [§ 52. Appresentation as a Kind of Experience with Its Own Style of Verification](https://faultynode.github.io/commentaries/commentaries/husserl/husserliana-1-cartesianische-meditationen-commentary.html#appresentation-as-a-kind-of-experience-with-its-own-style-of-verification)
+  > In this interweaving, foreign body and foreign governing ego are given in the manner of a unitary transcending experience.
+
+#### Recorded absences
+
+- **absent** · `husserliana-1-cartesianische-meditationen-commentary#h3-s-13-the-necessity-of-initially-excluding-problems-of-the-range-of-transcendenta`
+  Expected because: The section sets aside problems of the range of transcendental cognition, which §40 identifies with the traditional problem of transcendence.
+  [§ 13. The Necessity of Initially Excluding Problems of the Range of Transcendental Cognition](https://faultynode.github.io/commentaries/commentaries/husserl/husserliana-1-cartesianische-meditationen-commentary.html#the-necessity-of-initially-excluding-problems-of-the-range-of-transcendental-cognition)
+
+*Partial pass: Term-led pass over the whole file (lines 1-438): every paragraph containing the transcendence family, including bare transcendent and immanent, was read; paragraphs without such a word were not read.*
+
+### 1935 - Krisis Commentary
+
+`husserl-krisis-commentary`
+
+- **criticized** · `transzendenz/krisis/001` · *psychological immanence*
+  The Meditations substituted the psychic I for the ego and psychological immanence for egological immanence, with historical effect to the present.
+  `husserl-krisis-commentary#h3-s-19-descartes-overriding-interest-in-objectivism-as-the-ground-of-his-self-misi` · Krisis § 19 · [§ 19 Descartes' overriding interest in objectivism as the ground of his self-misinterpretation](https://faultynode.github.io/commentaries/commentaries/husserl/husserl-krisis-commentary.html#descartes-overriding-interest-in-objectivism-as-the-ground-of-his-self-misinterpretation)
+  > The Meditations worked themselves out in the fateful form of a substitution of the ego's own psychic I for the ego, psychological immanence for egological immanence
+
+- **criticized** · `transzendenz/krisis/002` · *cognition transcending the ego*
+  Descartes' founding of philosophy from the ego is an epistemology of how the ego brings about objective cognition, which for him means cognition transcending the ego metaphysically.
+  `husserl-krisis-commentary#h3-s-20-intentionality-in-descartes` · Krisis § 20 · [§ 20 "Intentionality" in Descartes](https://faultynode.github.io/commentaries/commentaries/husserl/husserl-krisis-commentary.html#intentionality-in-descartes)
+  > a theory of how the ego in the intentionality of its reason brings about objective cognition, which for Descartes means: cognition transcending the ego metaphysically
+
+- **presupposed** · `transzendenz/krisis/003` · *transcendent "in-itself"*
+  Rationalism held that the method more geometrico can cognize the world thought of as a transcendent in-itself, and English empiricism reacted against this reach into a transcendent.
+  `husserl-krisis-commentary#h3-s-21-descartes-as-point-of-departure-for-the-two-lines-of-development-rationalis` · Krisis § 21 · [§ 21 Descartes as point of departure for the two lines of development: rationalism and empiricism](https://faultynode.github.io/commentaries/commentaries/husserl/husserl-krisis-commentary.html#descartes-as-point-of-departure-for-the-two-lines-of-development-rationalism-and-empiricism)
+  > Against this conviction — against such a reach of the new science into a "transcendent" — reacts English empiricism, though itself also strongly determined by Descartes.
+
+- **presupposed** · `transzendenz/krisis/004` · *immanence*
+  Cartesian presuppositionlessness demanded subjectively directed considerations, the return to the cognizing I in its immanence.
+  `husserl-krisis-commentary#h3-s-24-the-genuine-philosophical-motive-of-the-shattering-of-objectivism-hidden-in` · Krisis § 24 · [§ 24 The genuine philosophical motive of the shattering of objectivism, hidden in the countersense of Humean skepticism](https://faultynode.github.io/commentaries/commentaries/husserl/husserl-krisis-commentary.html#the-genuine-philosophical-motive-of-the-shattering-of-objectivism-hidden-in-the-countersense-of-humean-skepticism)
+  > The Cartesian radicalism of presuppositionlessness demanded subjectively directed considerations, the return to the cognizing I in its immanence.
+
+- **presupposed** · `transzendenz/krisis/005` · *transcendent affection*
+  For Kant the natural-scientific world is a formation of the intellect, with the proviso that sensory material stems from a transcendent affection by things in themselves.
+  `husserl-krisis-commentary#h3-s-25-the-transcendental-motive-in-rationalism-kant-s-conception-of-a-transcenden` · Krisis § 25 · [§ 25 The "transcendental" motive in rationalism: Kant's conception of a transcendental philosophy](https://faultynode.github.io/commentaries/commentaries/husserl/husserl-krisis-commentary.html#the-transcendental-motive-in-rationalism-kants-conception-of-a-transcendental-philosophy)
+  > only with the proviso that the material of sensory data stems from a transcendent affection by "things in themselves" that are in principle inaccessible to (objective-scientific) cognition
+
+#### Recorded absences
+
+- **absent** · `husserl-krisis-commentary#h3-s-11-dualism-as-the-ground-for-the-incomprehensibility-of-the-problems-of-reason`
+  Expected because: Dualism is treated here as the ground of the problems of reason, and §21 places rationalism's claim on a transcendent in-itself within the same development.
+  [§ 11 Dualism as the ground for the incomprehensibility of the problems of reason, as the presupposition of the specialization of the sciences, as the basis of naturalistic psychology](https://faultynode.github.io/commentaries/commentaries/husserl/husserl-krisis-commentary.html#dualism-as-the-ground-for-the-incomprehensibility-of-the-problems-of-reason-as-the-presupposition-of-the-specialization-of-the-sciences-as-the-basis-of-naturalistic-psychology)
+
+*Partial pass: Term-led pass over the whole file (lines 1-559): every paragraph containing the transcendence family, including bare transcendent and immanent, was read; paragraphs without such a word were not read.*
 
 ## Reception layer
 
@@ -1749,6 +3163,47 @@
 
 *Partial pass: Read in full: the opening note, Foreword, Introduction (Husserl and Heidegger) and chapter I.1 'Intentionality and Transcendence' (lines 5-202). Everywhere else, chapters I.2-III.4 and the Conclusion, only the paragraphs containing a theme term were read. Absences are claimed only inside the fully read stretch.*
 
+## Undated - chronology unresolved
+
+*These commentaries do not state a date for their text. They are held out of the sequence rather than placed on a guess; see `synthesis/chronology.json`.*
+
+### undated - Husserl Erfahrung und Urteil Commentary
+
+`husserl-erfahrung-und-urteil-commentary`
+
+- **introduced** · `transzendenz/eu/001` · *sense-transcendence*
+  To every individual apperception attaches a sense-transcendence, toward new reals to be experienced from the world and, as inner horizon, toward not yet apperceived features.
+  `husserl-erfahrung-und-urteil-commentary#h3-s8-the-horizon-structure-of-experience-typical-pre-acquaintance-with-every-indiv` · EU § 8 · [§8. The Horizon-Structure of Experience; Typical Pre-Acquaintance with Every Individual Object of Experience](https://faultynode.github.io/commentaries/commentaries/husserl/husserl-erfahrung-und-urteil-commentary.html#the-horizon-structure-of-experience-typical-pre-acquaintance-with-every-individual-object-of-experience)
+  > Thus to every individual apperception, to every given total stock of individual apperceptions, there attaches a sense-transcendence (Sinnestranszendenz)
+
+- **presupposed** · `transzendenz/eu/002` · *immanent genesis*
+  Association designates a lawfulness of immanent genesis belonging essentially to consciousness, the purely immanent nexus of something reminding of something.
+  `husserl-erfahrung-und-urteil-commentary#h3-s16-the-field-of-passive-pregivennesses-and-its-associative-structure` · EU § 16 · [§16. The Field of Passive Pregivennesses and Its Associative Structure](https://faultynode.github.io/commentaries/commentaries/husserl/husserl-erfahrung-und-urteil-commentary.html#the-field-of-passive-pregivennesses-and-its-associative-structure)
+  > The title "association" in this context designates a form of lawfulness of immanent genesis belonging essentially to consciousness as such.
+
+- **presupposed** · `transzendenz/eu/003` · *immanent time*
+  The perceived object is a unity in immanent time, enduring through the streaming phases of perception.
+  `husserl-erfahrung-und-urteil-commentary#h4-a-perception-as-immanent-temporal-unity-the-still-holding-in-grasp-as-passivity` · [a) Perception as Immanent-Temporal Unity. The Still-Holding-in-Grasp as Passivity in the Activity of Apprehending](https://faultynode.github.io/commentaries/commentaries/husserl/husserl-erfahrung-und-urteil-commentary.html#a-perception-as-immanent-temporal-unity-the-still-holding-in-grasp-as-passivity-in-the-activity-of-apprehending)
+  > The object, as perceived, is a unity in immanent time: it endures through the streaming phases of perception, continuously identified as the same.
+
+- **presupposed** · `transzendenz/eu/004` · *immanent time*
+  Everything originally appearing has both an immanent phenomenal time and a fixed position in the one objective time.
+  `husserl-erfahrung-und-urteil-commentary#h3-s38-the-necessary-connection-of-the-intentional-objects-of-all-perceptions-and-p` · EU § 38 · [§38. The Necessary Connection of the Intentional Objects of All Perceptions and Positional Presentifications of an Ego and an Ego-Community on the Basis of Time as the Form of Sensibility](https://faultynode.github.io/commentaries/commentaries/husserl/husserl-erfahrung-und-urteil-commentary.html#the-necessary-connection-of-the-intentional-objects-of-all-perceptions-and-positional-presentifications-of-an-ego-and-an-ego-community-on-the-basis-of-time-as-the-form-of-sensibility)
+  > Hence everything originally appearing, even if it appears in conflict, has its determinate time-position — not only an immanent phenomenal time in the intentional objectuality as such, but also its fixed position in the one objective time.
+
+- **presupposed** · `transzendenz/eu/005` · *immanent time*
+  All objectualities, of receptive experience or of the understanding, are given in immanent time.
+  `husserl-erfahrung-und-urteil-commentary#h4-a-immanent-time-as-the-form-of-givenness-of-all-objectualities-whatsoever` · [a) Immanent Time as the Form of Givenness of All Objectualities Whatsoever](https://faultynode.github.io/commentaries/commentaries/husserl/husserl-erfahrung-und-urteil-commentary.html#a-immanent-time-as-the-form-of-givenness-of-all-objectualities-whatsoever)
+  > All objectualities — whether objects of receptive experience or objectualities of the understanding — are given in immanent time.
+
+#### Recorded absences
+
+- **absent** · `husserl-erfahrung-und-urteil-commentary#h3-s7-world-as-universal-ground-of-belief-pregiven-for-every-experience-of-individu`
+  Expected because: The world as pregiven ground of belief is set out here, and §8 attaches to every apperception a sense-transcendence toward the world.
+  [§7. World as Universal Ground of Belief Pregiven for Every Experience of Individual Objects](https://faultynode.github.io/commentaries/commentaries/husserl/husserl-erfahrung-und-urteil-commentary.html#world-as-universal-ground-of-belief-pregiven-for-every-experience-of-individual-objects)
+
+*Partial pass: Term-led pass over the whole file (lines 1-1082): every paragraph containing the transcendence family, including bare transcendent and immanent, was read; paragraphs without such a word were not read.*
+
 ## Not covered by this ledger
 
 *Where the theme's terms occur but no extraction pass has run. Silence in the sections above is silence about these files, not evidence of absence in them.*
@@ -1759,38 +3214,18 @@
 - `henry-phenomenologie-de-la vie-1-commentary` - 84 term hits, no record
 - `marion-sur-le-prisme-metaphysique-de-descartes-commentary` - 84 term hits, no record
 - `Reduction et donation Commentary` - 80 term hits, no record
-- `husserl-thing-and-space-commentary` - 71 term hits, no record
 - `heidegger-sein-und-zeit-commentary` - 62 term hits, no record
-- `husserliana-13-basic-problems-of-phenomenology-commentary` - 57 term hits, no record
 - `henry-phenomenologie-de-la-vie-2-commentary` - 56 term hits, no record
-- `husserliana-7-erste-philosophie-i-commentary` - 52 term hits, no record
-- `husserliana-10-inneres-zeitbewusstsein-commentary` - 50 term hits, no record
 - `derrida-introduction-a-lorigine-de-la-geometrie-commentary` - 46 term hits, no record
-- `husserliana-33-die-bernauer-manuskripte-uber-das-zeitbewusstsein-commentary` - 41 term hits, no record
-- `husserliana-11-analyses-concerning-passive-and-active-synthesis-commentary` - 38 term hits, no record
-- `husserliana-3-ideas-i-parts-3-4-commentary` - 35 term hits, no record
-- `husserl-natur-und-geist-commentary` - 34 term hits, no record
-- `husserliana-39-die-lebenswelt-commentary` - 25 term hits, no record
 - `heidegger-ga-24-die-grundprobleme-der-phanomenologie-commentary` - 23 term hits, no record
-- `husserliana-9-phenomenological-psychology-commentary` - 22 term hits, no record
 - `heidegger-ga-20-prolegomena-zur-geschichte-des-zeitbegriffs-commentary` - 20 term hits, no record
-- `husserliana-19-1-fifth-logical-investigation-commentary` - 17 term hits, no record
 - `heidegger-being-and-time-commentary` - 13 term hits, no record
-- `husserliana-1-cartesianische-meditationen-commentary` - 13 term hits, no record
 - `kern-husserl-and-kant-commentary` - 11 term hits, no record
 - `lacan-seminar-2-the-ego-in-freuds-theory-and-in-the-technique-of-psychoanalysis-commentary` - 9 term hits, no record
 - `picht-de-anima-commentary` - 9 term hits, no record
-- `husserliana-8-erste-philosophie-ii-commentary` - 8 term hits, no record
-- `husserl-formal-and-transcendental-logic-commentary` - 7 term hits, no record
-- `husserliana-28-vorlesungen-uber-ethik-und-wertlehre-commentary` - 7 term hits, no record
-- `husserliana-43-2-studien-zur-struktur-des-bewusstseins-commentary` - 7 term hits, no record
 - `kant-kritik-der-reinen-vernunft-commentary` - 6 term hits, no record
 - `fichte-science-of-knowing-commentary` - 5 term hits, no record
-- `husserliana-4-ideas-ii-commentary` - 5 term hits, no record
-- `husserliana-5-ideas-iii-commentary` - 5 term hits, no record
 - `franck-heidegger-and-the-problem-of-space-commentary` - 4 term hits, no record
-- `husserl-krisis-commentary` - 4 term hits, no record
-- `husserliana-3-ideas-i-commentary` - 4 term hits, no record
 - `lacan-seminar-1-freuds-papers-on-technique-commentary` - 4 term hits, no record
 - `lacan-seminar-11-the-four-fundamental-concepts-of-psychoanalysis-commentary` - 4 term hits, no record
 - `aristotle-de-anima-commentary` - 3 term hits, no record
@@ -1798,10 +3233,6 @@
 - `heidegger-ga-5-hegels-begriff-der-erfahrung-commentary` - 3 term hits, no record
 - `derrida-la-voix-et-le-phenomene-commentary` - 2 term hits, no record
 - `heidegger-ga-19-platon-sophistes-commentary` - 2 term hits, no record
-- `husserl-erfahrung-und-urteil-commentary` - 2 term hits, no record
-- `husserliana-19-2-sixth-logical-investigation-commentary` - 2 term hits, no record
-- `husserliana-26-theory-of-meaning-commentary` - 2 term hits, no record
 - `leibniz-monadology-commentary` - 2 term hits, no record
 - `freud-das-unbewusste-commentary` - 1 term hit, no record
 - `husserl-prolegomena-commentary` - 1 term hit, no record
-- `husserliana-23-phantasie-bildbewusstsein-erinnerung-commentary` - 1 term hit, no record
