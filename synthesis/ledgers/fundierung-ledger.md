@@ -1761,6 +1761,7 @@
 - `Reduction et donation Commentary` - 76 term hits, no record
 - `heidegger-ga-24-die-grundprobleme-der-phanomenologie-commentary` - 76 term hits, no record
 - `fichte-science-of-knowing-commentary` - 75 term hits, no record
+- `Discours de la methode Commentary` - 65 term hits, no record
 - `heidegger-ga-19-platon-sophistes-commentary` - 65 term hits, no record
 - `mohanty-philosophy-of-edmund-husserl-commentary` - 64 term hits, no record
 - `picht-de-anima-commentary` - 52 term hits, no record

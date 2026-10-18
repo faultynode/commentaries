@@ -1480,6 +1480,7 @@
 - `lacan-seminar-11-the-four-fundamental-concepts-of-psychoanalysis-commentary` - 17 term hits, no record
 - `Regulae Commentary` - 12 term hits, no record
 - `descartes-regulae-ad-directionem-ingenii-commentary` - 12 term hits, no record
+- `Discours de la methode Commentary` - 9 term hits, no record
 - `leibniz-monadology-commentary` - 9 term hits, no record
 - `husserliana-28-vorlesungen-uber-ethik-und-wertlehre-commentary` - 8 term hits, no record
 - `heidegger-ga-3-kant-und-das-problem-der-metaphysik-commentary` - 6 term hits, no record

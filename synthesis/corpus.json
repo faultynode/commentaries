@@ -2293,6 +2293,489 @@
       ]
     },
     {
+      "slug": "Discours de la methode Commentary",
+      "path": "commentaries/descartes/Discours de la methode Commentary.md",
+      "author": "descartes",
+      "title": "Descartes, Discourse on Method and Essays (AT VI) — Commentary",
+      "wordpress_id": null,
+      "sha256": "f083c759173b3693c2c41712129f46ae59c24a43d442b8319a1b69aefcdc872a",
+      "lines": 836,
+      "words": 90696,
+      "url": "https://faultynode.github.io/commentaries/commentaries/descartes/Discours de la methode Commentary.html",
+      "sections": [
+        {
+          "id": "h1-descartes-discourse-on-method-and-essays-at-vi-commentary",
+          "level": 1,
+          "title": "Descartes, Discourse on Method and Essays (AT VI) — Commentary",
+          "path": [
+            "Descartes, Discourse on Method and Essays (AT VI) — Commentary"
+          ],
+          "anchor": "descartes-discourse-on-method-and-essays-at-vi--commentary",
+          "line_start": 1,
+          "line_end": 4,
+          "words": 131
+        },
+        {
+          "id": "h2-discourse-on-the-method-for-rightly-conducting-one-s-reason-and-seeking-truth-in",
+          "level": 2,
+          "title": "Discourse on the Method for Rightly Conducting One's Reason and Seeking Truth in the Sciences",
+          "path": [
+            "Descartes, Discourse on Method and Essays (AT VI) — Commentary",
+            "Discourse on the Method for Rightly Conducting One's Reason and Seeking Truth in the Sciences"
+          ],
+          "anchor": "discourse-on-the-method-for-rightly-conducting-ones-reason-and-seeking-truth-in-the-sciences",
+          "line_start": 5,
+          "line_end": 8,
+          "words": 188
+        },
+        {
+          "id": "h3-part-one",
+          "level": 3,
+          "title": "Part One",
+          "path": [
+            "Descartes, Discourse on Method and Essays (AT VI) — Commentary",
+            "Discourse on the Method for Rightly Conducting One's Reason and Seeking Truth in the Sciences",
+            "Part One"
+          ],
+          "anchor": "part-one",
+          "line_start": 9,
+          "line_end": 40,
+          "words": 2375
+        },
+        {
+          "id": "h3-part-two",
+          "level": 3,
+          "title": "Part Two",
+          "path": [
+            "Descartes, Discourse on Method and Essays (AT VI) — Commentary",
+            "Discourse on the Method for Rightly Conducting One's Reason and Seeking Truth in the Sciences",
+            "Part Two"
+          ],
+          "anchor": "part-two",
+          "line_start": 41,
+          "line_end": 68,
+          "words": 2641
+        },
+        {
+          "id": "h3-part-three",
+          "level": 3,
+          "title": "Part Three",
+          "path": [
+            "Descartes, Discourse on Method and Essays (AT VI) — Commentary",
+            "Discourse on the Method for Rightly Conducting One's Reason and Seeking Truth in the Sciences",
+            "Part Three"
+          ],
+          "anchor": "part-three",
+          "line_start": 69,
+          "line_end": 84,
+          "words": 2155
+        },
+        {
+          "id": "h3-part-four",
+          "level": 3,
+          "title": "Part Four",
+          "path": [
+            "Descartes, Discourse on Method and Essays (AT VI) — Commentary",
+            "Discourse on the Method for Rightly Conducting One's Reason and Seeking Truth in the Sciences",
+            "Part Four"
+          ],
+          "anchor": "part-four",
+          "line_start": 85,
+          "line_end": 100,
+          "words": 2493
+        },
+        {
+          "id": "h3-part-five",
+          "level": 3,
+          "title": "Part Five",
+          "path": [
+            "Descartes, Discourse on Method and Essays (AT VI) — Commentary",
+            "Discourse on the Method for Rightly Conducting One's Reason and Seeking Truth in the Sciences",
+            "Part Five"
+          ],
+          "anchor": "part-five",
+          "line_start": 101,
+          "line_end": 126,
+          "words": 3776
+        },
+        {
+          "id": "h3-part-six",
+          "level": 3,
+          "title": "Part Six",
+          "path": [
+            "Descartes, Discourse on Method and Essays (AT VI) — Commentary",
+            "Discourse on the Method for Rightly Conducting One's Reason and Seeking Truth in the Sciences",
+            "Part Six"
+          ],
+          "anchor": "part-six",
+          "line_start": 127,
+          "line_end": 152,
+          "words": 3927
+        },
+        {
+          "id": "h2-optics",
+          "level": 2,
+          "title": "Optics",
+          "path": [
+            "Descartes, Discourse on Method and Essays (AT VI) — Commentary",
+            "Optics"
+          ],
+          "anchor": "optics",
+          "line_start": 153,
+          "line_end": 154,
+          "words": 0
+        },
+        {
+          "id": "h3-first-discourse-on-light",
+          "level": 3,
+          "title": "First Discourse: On Light",
+          "path": [
+            "Descartes, Discourse on Method and Essays (AT VI) — Commentary",
+            "Optics",
+            "First Discourse: On Light"
+          ],
+          "anchor": "first-discourse-on-light",
+          "line_start": 155,
+          "line_end": 166,
+          "words": 1564
+        },
+        {
+          "id": "h3-second-discourse-on-refraction",
+          "level": 3,
+          "title": "Second Discourse: On Refraction",
+          "path": [
+            "Descartes, Discourse on Method and Essays (AT VI) — Commentary",
+            "Optics",
+            "Second Discourse: On Refraction"
+          ],
+          "anchor": "second-discourse-on-refraction",
+          "line_start": 167,
+          "line_end": 186,
+          "words": 1700
+        },
+        {
+          "id": "h3-third-discourse-on-the-eye",
+          "level": 3,
+          "title": "Third Discourse: On the Eye",
+          "path": [
+            "Descartes, Discourse on Method and Essays (AT VI) — Commentary",
+            "Optics",
+            "Third Discourse: On the Eye"
+          ],
+          "anchor": "third-discourse-on-the-eye",
+          "line_start": 187,
+          "line_end": 190,
+          "words": 346
+        },
+        {
+          "id": "h3-fourth-discourse-on-the-senses-in-general",
+          "level": 3,
+          "title": "Fourth Discourse: On the Senses in General",
+          "path": [
+            "Descartes, Discourse on Method and Essays (AT VI) — Commentary",
+            "Optics",
+            "Fourth Discourse: On the Senses in General"
+          ],
+          "anchor": "fourth-discourse-on-the-senses-in-general",
+          "line_start": 191,
+          "line_end": 194,
+          "words": 597
+        },
+        {
+          "id": "h3-fifth-discourse-on-the-images-formed-at-the-back-of-the-eye",
+          "level": 3,
+          "title": "Fifth Discourse: On the Images Formed at the Back of the Eye",
+          "path": [
+            "Descartes, Discourse on Method and Essays (AT VI) — Commentary",
+            "Optics",
+            "Fifth Discourse: On the Images Formed at the Back of the Eye"
+          ],
+          "anchor": "fifth-discourse-on-the-images-formed-at-the-back-of-the-eye",
+          "line_start": 195,
+          "line_end": 210,
+          "words": 1541
+        },
+        {
+          "id": "h3-sixth-discourse-on-vision",
+          "level": 3,
+          "title": "Sixth Discourse: On Vision",
+          "path": [
+            "Descartes, Discourse on Method and Essays (AT VI) — Commentary",
+            "Optics",
+            "Sixth Discourse: On Vision"
+          ],
+          "anchor": "sixth-discourse-on-vision",
+          "line_start": 211,
+          "line_end": 224,
+          "words": 2380
+        },
+        {
+          "id": "h3-seventh-discourse-on-the-means-of-perfecting-vision",
+          "level": 3,
+          "title": "Seventh Discourse: On the Means of Perfecting Vision",
+          "path": [
+            "Descartes, Discourse on Method and Essays (AT VI) — Commentary",
+            "Optics",
+            "Seventh Discourse: On the Means of Perfecting Vision"
+          ],
+          "anchor": "seventh-discourse-on-the-means-of-perfecting-vision",
+          "line_start": 225,
+          "line_end": 250,
+          "words": 2979
+        },
+        {
+          "id": "h3-eighth-discourse-on-the-figures-that-transparent-bodies-must-have-to-turn-rays-b",
+          "level": 3,
+          "title": "Eighth Discourse: On the Figures That Transparent Bodies Must Have to Turn Rays by Refraction in All the Ways Useful to Sight",
+          "path": [
+            "Descartes, Discourse on Method and Essays (AT VI) — Commentary",
+            "Optics",
+            "Eighth Discourse: On the Figures That Transparent Bodies Must Have to Turn Rays by Refraction in All the Ways Useful to Sight"
+          ],
+          "anchor": "eighth-discourse-on-the-figures-that-transparent-bodies-must-have-to-turn-rays-by-refraction-in-all-the-ways-useful-to-sight",
+          "line_start": 251,
+          "line_end": 310,
+          "words": 4589
+        },
+        {
+          "id": "h3-ninth-discourse-the-description-of-telescopes",
+          "level": 3,
+          "title": "Ninth Discourse: The Description of Telescopes",
+          "path": [
+            "Descartes, Discourse on Method and Essays (AT VI) — Commentary",
+            "Optics",
+            "Ninth Discourse: The Description of Telescopes"
+          ],
+          "anchor": "ninth-discourse-the-description-of-telescopes",
+          "line_start": 311,
+          "line_end": 328,
+          "words": 2343
+        },
+        {
+          "id": "h3-tenth-discourse-on-the-way-of-cutting-lenses",
+          "level": 3,
+          "title": "Tenth Discourse: On the Way of Cutting Lenses",
+          "path": [
+            "Descartes, Discourse on Method and Essays (AT VI) — Commentary",
+            "Optics",
+            "Tenth Discourse: On the Way of Cutting Lenses"
+          ],
+          "anchor": "tenth-discourse-on-the-way-of-cutting-lenses",
+          "line_start": 329,
+          "line_end": 356,
+          "words": 2791
+        },
+        {
+          "id": "h2-meteorology",
+          "level": 2,
+          "title": "Meteorology",
+          "path": [
+            "Descartes, Discourse on Method and Essays (AT VI) — Commentary",
+            "Meteorology"
+          ],
+          "anchor": "meteorology",
+          "line_start": 357,
+          "line_end": 358,
+          "words": 0
+        },
+        {
+          "id": "h3-first-discourse-on-the-nature-of-terrestrial-bodies",
+          "level": 3,
+          "title": "First Discourse: On the Nature of Terrestrial Bodies",
+          "path": [
+            "Descartes, Discourse on Method and Essays (AT VI) — Commentary",
+            "Meteorology",
+            "First Discourse: On the Nature of Terrestrial Bodies"
+          ],
+          "anchor": "first-discourse-on-the-nature-of-terrestrial-bodies",
+          "line_start": 359,
+          "line_end": 372,
+          "words": 1555
+        },
+        {
+          "id": "h3-second-discourse-on-vapours-and-exhalations",
+          "level": 3,
+          "title": "Second Discourse: On Vapours and Exhalations",
+          "path": [
+            "Descartes, Discourse on Method and Essays (AT VI) — Commentary",
+            "Meteorology",
+            "Second Discourse: On Vapours and Exhalations"
+          ],
+          "anchor": "second-discourse-on-vapours-and-exhalations",
+          "line_start": 373,
+          "line_end": 382,
+          "words": 1257
+        },
+        {
+          "id": "h3-third-discourse-on-salt",
+          "level": 3,
+          "title": "Third Discourse: On Salt",
+          "path": [
+            "Descartes, Discourse on Method and Essays (AT VI) — Commentary",
+            "Meteorology",
+            "Third Discourse: On Salt"
+          ],
+          "anchor": "third-discourse-on-salt",
+          "line_start": 383,
+          "line_end": 388,
+          "words": 1353
+        },
+        {
+          "id": "h3-fourth-discourse-on-winds",
+          "level": 3,
+          "title": "Fourth Discourse: On Winds",
+          "path": [
+            "Descartes, Discourse on Method and Essays (AT VI) — Commentary",
+            "Meteorology",
+            "Fourth Discourse: On Winds"
+          ],
+          "anchor": "fourth-discourse-on-winds",
+          "line_start": 389,
+          "line_end": 396,
+          "words": 1506
+        },
+        {
+          "id": "h3-fifth-discourse-on-clouds",
+          "level": 3,
+          "title": "Fifth Discourse: On Clouds",
+          "path": [
+            "Descartes, Discourse on Method and Essays (AT VI) — Commentary",
+            "Meteorology",
+            "Fifth Discourse: On Clouds"
+          ],
+          "anchor": "fifth-discourse-on-clouds",
+          "line_start": 397,
+          "line_end": 406,
+          "words": 1561
+        },
+        {
+          "id": "h3-sixth-discourse-on-snow-rain-and-hail",
+          "level": 3,
+          "title": "Sixth Discourse: On Snow, Rain and Hail",
+          "path": [
+            "Descartes, Discourse on Method and Essays (AT VI) — Commentary",
+            "Meteorology",
+            "Sixth Discourse: On Snow, Rain and Hail"
+          ],
+          "anchor": "sixth-discourse-on-snow-rain-and-hail",
+          "line_start": 407,
+          "line_end": 424,
+          "words": 2976
+        },
+        {
+          "id": "h3-seventh-discourse-on-storms-lightning-and-all-the-other-fires-that-kindle-in-the",
+          "level": 3,
+          "title": "Seventh Discourse: On Storms, Lightning and All the Other Fires That Kindle in the Air",
+          "path": [
+            "Descartes, Discourse on Method and Essays (AT VI) — Commentary",
+            "Meteorology",
+            "Seventh Discourse: On Storms, Lightning and All the Other Fires That Kindle in the Air"
+          ],
+          "anchor": "seventh-discourse-on-storms-lightning-and-all-the-other-fires-that-kindle-in-the-air",
+          "line_start": 425,
+          "line_end": 436,
+          "words": 2525
+        },
+        {
+          "id": "h3-eighth-discourse-on-the-rainbow",
+          "level": 3,
+          "title": "Eighth Discourse: On the Rainbow",
+          "path": [
+            "Descartes, Discourse on Method and Essays (AT VI) — Commentary",
+            "Meteorology",
+            "Eighth Discourse: On the Rainbow"
+          ],
+          "anchor": "eighth-discourse-on-the-rainbow",
+          "line_start": 437,
+          "line_end": 456,
+          "words": 3709
+        },
+        {
+          "id": "h3-ninth-discourse-on-the-colour-of-clouds-and-the-circles-or-coronas-sometimes-see",
+          "level": 3,
+          "title": "Ninth Discourse: On the Colour of Clouds and the Circles or Coronas Sometimes Seen Around the Stars",
+          "path": [
+            "Descartes, Discourse on Method and Essays (AT VI) — Commentary",
+            "Meteorology",
+            "Ninth Discourse: On the Colour of Clouds and the Circles or Coronas Sometimes Seen Around the Stars"
+          ],
+          "anchor": "ninth-discourse-on-the-colour-of-clouds-and-the-circles-or-coronas-sometimes-seen-around-the-stars",
+          "line_start": 457,
+          "line_end": 466,
+          "words": 1788
+        },
+        {
+          "id": "h3-last-discourse-on-the-appearance-of-several-suns",
+          "level": 3,
+          "title": "Last Discourse: On the Appearance of Several Suns",
+          "path": [
+            "Descartes, Discourse on Method and Essays (AT VI) — Commentary",
+            "Meteorology",
+            "Last Discourse: On the Appearance of Several Suns"
+          ],
+          "anchor": "last-discourse-on-the-appearance-of-several-suns",
+          "line_start": 467,
+          "line_end": 482,
+          "words": 2530
+        },
+        {
+          "id": "h2-geometry",
+          "level": 2,
+          "title": "Geometry",
+          "path": [
+            "Descartes, Discourse on Method and Essays (AT VI) — Commentary",
+            "Geometry"
+          ],
+          "anchor": "geometry",
+          "line_start": 483,
+          "line_end": 486,
+          "words": 170
+        },
+        {
+          "id": "h3-first-book-on-problems-that-can-be-constructed-using-only-circles-and-straight-l",
+          "level": 3,
+          "title": "First Book: On Problems That Can Be Constructed Using Only Circles and Straight Lines",
+          "path": [
+            "Descartes, Discourse on Method and Essays (AT VI) — Commentary",
+            "Geometry",
+            "First Book: On Problems That Can Be Constructed Using Only Circles and Straight Lines"
+          ],
+          "anchor": "first-book-on-problems-that-can-be-constructed-using-only-circles-and-straight-lines",
+          "line_start": 487,
+          "line_end": 552,
+          "words": 5715
+        },
+        {
+          "id": "h3-second-book-on-the-nature-of-curved-lines",
+          "level": 3,
+          "title": "Second Book: On the Nature of Curved Lines",
+          "path": [
+            "Descartes, Discourse on Method and Essays (AT VI) — Commentary",
+            "Geometry",
+            "Second Book: On the Nature of Curved Lines"
+          ],
+          "anchor": "second-book-on-the-nature-of-curved-lines",
+          "line_start": 553,
+          "line_end": 696,
+          "words": 13841
+        },
+        {
+          "id": "h3-third-book-on-the-construction-of-problems-that-are-solid-or-more-than-solid",
+          "level": 3,
+          "title": "Third Book: On the Construction of Problems That Are Solid or More Than Solid",
+          "path": [
+            "Descartes, Discourse on Method and Essays (AT VI) — Commentary",
+            "Geometry",
+            "Third Book: On the Construction of Problems That Are Solid or More Than Solid"
+          ],
+          "anchor": "third-book-on-the-construction-of-problems-that-are-solid-or-more-than-solid",
+          "line_start": 697,
+          "line_end": 836,
+          "words": 11426
+        }
+      ]
+    },
+    {
       "slug": "Regulae Commentary",
       "path": "commentaries/descartes/Regulae Commentary.md",
       "author": "descartes",

@@ -3225,6 +3225,7 @@
 - `picht-de-anima-commentary` - 9 term hits, no record
 - `kant-kritik-der-reinen-vernunft-commentary` - 6 term hits, no record
 - `fichte-science-of-knowing-commentary` - 5 term hits, no record
+- `Discours de la methode Commentary` - 4 term hits, no record
 - `franck-heidegger-and-the-problem-of-space-commentary` - 4 term hits, no record
 - `lacan-seminar-1-freuds-papers-on-technique-commentary` - 4 term hits, no record
 - `lacan-seminar-11-the-four-fundamental-concepts-of-psychoanalysis-commentary` - 4 term hits, no record

@@ -3461,6 +3461,7 @@
 - `lacan-seminar-11-the-four-fundamental-concepts-of-psychoanalysis-commentary` - 5 term hits, no record
 - `franck-heidegger-and-the-problem-of-space-commentary` - 2 term hits, no record
 - `husserl-prolegomena-commentary` - 2 term hits, no record
+- `Discours de la methode Commentary` - 1 term hit, no record
 - `Regulae Commentary` - 1 term hit, no record
 - `descartes-regulae-ad-directionem-ingenii-commentary` - 1 term hit, no record
 - `heidegger-ga-18-grundbegriffe-der-aristotelischen-philosophie-commentary` - 1 term hit, no record
