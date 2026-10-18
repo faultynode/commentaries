@@ -2,7 +2,7 @@
   "schema_version": 1,
   "theme": "zeitlichkeit",
   "commentary": "franck-heidegger-and-the-problem-of-space-commentary",
-  "source_sha256": "d848e42de14b4751394aaff4dcb3a4bfab8fc83ce54b6f03d6bcd91746441123",
+  "source_sha256": "afb3db2b215dfd3dd2dbdff47f7bf81e5ea8387aad56a511d8360c043abae220",
   "extracted_at": "2026-09-14",
   "extractor": {
     "agent": "claude-code",

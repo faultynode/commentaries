@@ -2,6 +2,8 @@
 layout: default
 title: Franck, Chair et corps
 wordpress_id: 400
+redirect_from:
+  - "/commentaries/fanck/franck-chair-et-corps-commentary.html"
 ---
 
 # ***Chair et corps: Sur la phénoménologie de Husserl*** **(1981)**

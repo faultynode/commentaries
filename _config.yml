@@ -7,3 +7,9 @@ exclude:
   - synthesis/
   - scripts/
   - docs/
+
+# scripts/normalize_filenames.py adds a redirect_from entry to a commentary
+# it renames, so the old GitHub Pages URL keeps resolving. The plugin is on
+# GitHub Pages' supported list.
+plugins:
+  - jekyll-redirect-from

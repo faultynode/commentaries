@@ -1,3 +1,8 @@
+---
+redirect_from:
+  - "/commentaries/henry/henry-phenomenologie-de-la vie-1-commentary.html"
+---
+
 # Michel Henry, *Phénoménologie de la vie I: De la phénoménologie* — Commentary
 
 Citations give the page of the PUF "Épiméthée" edition (2003). Quotations are in Henry's French. The volume gathers eleven essays spanning 1965 to the late 1990s; the editor's foreword is not treated. Several confusions recur in the reception of these texts and are guarded against throughout. Auto-affection is not reflexive self-relation, not a turning-back of consciousness upon itself, and not a closed-off "autism": it is the condition of any relation to the world. Immanence is not the psychologist's interior space or Kant's inner sense, both of which Henry places on the side of exteriority. The invisible is not the unconscious in the representational sense, nor a lack of appearing, but a mode of appearing in its own right. Life is not the object of biology. Affectivity is not one psychic region among others (emotion as opposed to cognition) but the phenomenological substance of self-givenness. Finally, Henry's critique of intentionality does not deny that consciousness is directed at objects; it denies that this directedness can be the first or only mode of manifestation.

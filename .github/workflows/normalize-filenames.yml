@@ -1,0 +1,98 @@
+name: Normalize filenames
+
+# Commentaries arrive through the web uploader ("Add files via upload") as
+# often as through git, so the filename convention is enforced here, on the
+# server, rather than in a local hook that an upload never passes through.
+#
+# Only the mechanical part of the convention is applied (case, diacritics,
+# punctuation, spaces, the author prefix, the -commentary suffix, husserliana-).
+# Anything that needs judgement - a misspelt author folder, a re-upload of a
+# commentary that already exists, a missing volume number - is left in place
+# and shown as a warning on the run. See scripts/normalize_filenames.py.
+#
+# A push made with GITHUB_TOKEN starts no other workflow, so this job rebuilds
+# the generated synthesis files itself rather than relying on synthesis.yml to
+# see the rename.
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - "commentaries/**"
+  pull_request:
+    paths:
+      - "commentaries/**"
+  workflow_dispatch: {}
+
+permissions:
+  contents: write
+
+jobs:
+  check:
+    if: github.event_name == 'pull_request'
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.x"
+
+      # Exit 1 = a rename is due, 2 = a human must decide. Either fails the PR,
+      # so a non-conforming name is fixed before it is ever published.
+      - name: Check commentary filenames
+        run: python3 scripts/normalize_filenames.py --check
+
+  normalize:
+    if: github.event_name != 'pull_request'
+    runs-on: ubuntu-latest
+    # Shared with the rebuild job in synthesis.yml: both regenerate corpus.json,
+    # the ledgers and STATUS.md and push to main, and two of them racing would
+    # fail each other's rebase.
+    concurrency:
+      group: main-generated-files
+      cancel-in-progress: false
+    steps:
+      # The tip of main, not the pushed commit: if synthesis.yml's rebuild ran
+      # first, its push is already there, and this job starts from it.
+      - uses: actions/checkout@v4
+        with:
+          ref: main
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.x"
+
+      - name: Rename non-conforming files and rewrite references
+        id: normalize
+        run: |
+          python3 scripts/normalize_filenames.py --apply --touched "$RUNNER_TEMP/touched"
+          if [ -s "$RUNNER_TEMP/touched" ]; then
+            echo "changed=true" >> "$GITHUB_OUTPUT"
+          fi
+
+      # A rename that breaks a synthesis record fails here, before anything is
+      # pushed.
+      - name: Validate records and rebuild generated files
+        if: steps.normalize.outputs.changed == 'true'
+        run: |
+          python3 scripts/synthesis_index.py
+          python3 scripts/synthesis_validate.py
+          python3 scripts/synthesis_ledger.py --all
+          python3 scripts/synthesis_status.py
+
+      - name: Commit and push
+        if: steps.normalize.outputs.changed == 'true'
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add -A -- commentaries
+          git add --pathspec-from-file="$RUNNER_TEMP/touched" --pathspec-file-nul
+          git add -- synthesis/corpus.json synthesis/ledgers synthesis/STATUS.md
+          git commit -m "Normalize commentary filenames [skip ci]"
+          for delay in 0 2 4 8 16; do
+            sleep "$delay"
+            git pull --rebase origin main && git push && exit 0
+          done
+          echo "push failed after retries" >&2
+          exit 1

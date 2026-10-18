@@ -2,6 +2,8 @@
 layout: default
 title: Franck, Heidegger and the Problem of Space
 wordpress_id: 401
+redirect_from:
+  - "/commentaries/fanck/franck-heidegger-and-the-problem-of-space-commentary.html"
 ---
 
 # **Didier Franck, *Heidegger and the Problem of Space* (1986)**

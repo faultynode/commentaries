@@ -93,6 +93,33 @@ original — hence `husserl-thing-and-space-commentary.md` for a
 commentary written against the English *Thing and Space*, even though
 the volume is usually cited as *Ding und Raum*.
 
+**CI enforces the mechanical part.** `.github/workflows/normalize-filenames.yml`
+runs [`scripts/normalize_filenames.py`](../scripts/normalize_filenames.py)
+on every push to `main` that touches `commentaries/`, including web
+uploads. It renames whatever is mechanically wrong: case, diacritics,
+punctuation, spaces, a missing author prefix or `-commentary` suffix, and
+`husserl-hua-<n>-` becoming `husserliana-<n>-`. It also normalizes the
+author folder. Each rename carries every reference to the old path or
+slug with it: synthesis records, `chronology.json`, the lexicon, run
+files, outputs and `index.html`. A file that was already committed gets
+a `redirect_from` entry, so its old Pages URL still resolves. The
+workflow then rebuilds `corpus.json`, the ledgers and `STATUS.md` and
+pushes. On a pull request it only checks.
+
+It never drops a subtitle, supplies a volume number, or identifies a
+file from an uninformative name. It also refuses three cases and shows
+them as warnings on the run, leaving the file as it is:
+
+- an author prefix that looks like a misspelling of its folder (the old
+  `fanck/` holding `franck-…` files);
+- a non-conforming file that duplicates, or shares its H1 with, an
+  existing commentary (a re-upload);
+- a name with no transliteration.
+
+Settle these by hand, a folder with
+`python3 scripts/normalize_filenames.py --apply --rename-folder OLD=NEW`.
+Run the script with no flags for a dry run.
+
 ## Frontmatter
 
 Every file opens with Jekyll frontmatter:

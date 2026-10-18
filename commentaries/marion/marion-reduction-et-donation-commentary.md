@@ -1,3 +1,8 @@
+---
+redirect_from:
+  - "/commentaries/marion/Reduction et donation Commentary.html"
+---
+
 # Commentary on Jean-Luc Marion, *Réduction et donation: Recherches sur Husserl, Heidegger et la phénoménologie*
 
 References are given by Marion's own divisions (chapter numeral and section number), since the source used here carries no critical pagination.

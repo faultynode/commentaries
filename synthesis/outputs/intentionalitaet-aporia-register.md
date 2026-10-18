@@ -17,7 +17,7 @@ Every pass in this ledger is partial, and each record closes with an italic note
 - `husserliana-13-basic-problems-of-phenomenology-commentary`, 14 term hits, no record: the nearest unread Husserl commentary between the Investigations and the Ideas, named by gap-017, and the place A1 and A2 would first be tested.
 - `husserliana-23-phantasie-bildbewusstsein-erinnerung-commentary`, 15 term hits, no record: the unread commentary whose title names phantasy and image-consciousness, where the being of the merely intentional object of A1 would be at issue.
 - `husserliana-26-theory-of-meaning-commentary`, 7 term hits, no record: the only unread Husserl commentary on meaning, which bears on R3.
-- `Reduction et donation Commentary`, 43 term hits, no record: the largest unread file on the reception layer, unassessed here.
+- `marion-reduction-et-donation-commentary`, 43 term hits, no record: the largest unread file on the reception layer, unassessed here.
 - `derrida-la-voix-et-le-phenomene-commentary`, 14 term hits, no record: unread reception, unassessed here.
 - `heidegger-ga-3-kant-und-das-problem-der-metaphysik-commentary` and `heidegger-ga-18-grundbegriffe-der-aristotelischen-philosophie-commentary`, 1 term hit each, no record: too thin to bear on A6 to A8, but named because they are the unread files on Heidegger's own courses.
 - `franck-heidegger-and-the-problem-of-space-commentary`, 2 term hits, no record: the second unread file by the author of R2, too thin at two hits to carry the question that entry raises, but named because R2 and gap-024 turn on what Franck says of the being of intentionality.

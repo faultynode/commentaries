@@ -58,8 +58,16 @@ jobs:
     if: github.event_name != 'pull_request'
     needs: validate
     runs-on: ubuntu-latest
+    # Shared with normalize-filenames.yml, which renames commentaries and
+    # regenerates the same files: run one at a time, each from the tip of
+    # main, so neither rebuilds from a tree the other has already renamed.
+    concurrency:
+      group: main-generated-files
+      cancel-in-progress: false
     steps:
       - uses: actions/checkout@v4
+        with:
+          ref: main
 
       - uses: actions/setup-python@v5
         with:

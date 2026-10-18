@@ -1,3 +1,8 @@
+---
+redirect_from:
+  - "/commentaries/kojève/kojève-introduction-à-la-lecture-de-hegel-commentary.html"
+---
+
 # Commentary on Alexandre Kojève, *Introduction à la lecture de Hegel*
 
 Page references are to the Gallimard pagination of 1947, which the scan reproduces; the scan is of a later printing that includes the "Note of the Second Edition" (pp. 436–437). Hegel's paragraphs in the translated sections are located by the standard paragraph numbers of the *Phenomenology* (¶), for orientation only; Kojève himself cites the fourth Hoffmeister edition by page and line. Quotations from Kojève are given in French, followed by an English rendering. Kojève's French terms are rendered consistently: Désir as Desire, Conscience de soi as self-consciousness, Sentiment de soi as self-feeling, reconnaissance as recognition, Maître and Esclave as Master and Slave, angoisse as anguish, négativité-négatrice as negating negativity, supprimer dialectiquement as to overcome dialectically (Hegel's *aufheben*).

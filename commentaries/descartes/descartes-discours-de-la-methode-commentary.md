@@ -1,3 +1,8 @@
+---
+redirect_from:
+  - "/commentaries/descartes/Discours de la methode Commentary.html"
+---
+
 # Descartes, Discourse on Method and Essays (AT VI) — Commentary
 
 References are to Adam–Tannery vol. VI by page: AT 1–485 for the French text of 1637, AT 540–720 for the Latin version of 1644 (Étienne de Courcelles, revised by Descartes; the Geometry has no Latin text in this volume). The Latin is brought in only where it changes the sense in a way that bears on the argument. Four misreadings are guarded against throughout. The Discourse is the preface to the Essays and presents a method practised in them, not a treatise of logic; the four precepts mean nothing apart from that practice. Its doubt is an instrument for finding something certain, not a sceptical position. "I think, therefore I am" is not a syllogism with a suppressed major premise. The beast-machine denies thought to animals, not life or bodily feeling.

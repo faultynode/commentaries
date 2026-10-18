@@ -2,7 +2,7 @@
   "schema_version": 1,
   "theme": "zeitlichkeit",
   "commentary": "franck-chair-et-corps-commentary",
-  "source_sha256": "0757213bac9658321459643d6202563f502dbbf2f877f1e30d07dd34c897d9d5",
+  "source_sha256": "01a8a50a43fbde8111f0a89284336f94ca80c2c8b1bae73496fcd481859715b9",
   "extracted_at": "2026-09-14",
   "extractor": {
     "agent": "claude-code",
