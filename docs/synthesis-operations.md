@@ -25,7 +25,8 @@ against the repo root.
 | `python3 scripts/synthesis_ledger.py --all` | rebuild every ledger | 0 / 2 unknown theme |
 | `python3 scripts/synthesis_ledger.py --theme <id>` | rebuild one | |
 | `python3 scripts/synthesis_ledger.py --all --check` | are they current? | 0 / 1 stale |
-| `python3 scripts/synthesis_status.py [--check]` | rebuild `STATUS.md` | 0 / 1 |
+| `python3 scripts/synthesis_status.py [--check]` | rebuild `STATUS.md`, including §Comparative readiness | 0 / 1 |
+| `python3 scripts/comparative_candidates.py [--r X] [--ready]` | rank (R, P) pairs for a comparative commentary, with the source check `STATUS.md` cannot run | 0 |
 | `python3 scripts/synthesis_lexicon.py --check` | schema, references, attested renderings | 0 / 1 errors |
 | `python3 scripts/synthesis_lexicon.py --expand --theme <id>` | what `themes.json` is missing, both directions | 0 / 2 unknown theme |
 | `… --expand --theme <id> --json` | the merged `search_terms` array, ready to paste | |

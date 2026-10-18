@@ -229,6 +229,80 @@ These commentaries do not date their own text, so they sit off the ledger spine.
 - [ ] `mohanty-philosophy-of-edmund-husserl-commentary`
 - [ ] `picht-de-anima-commentary`
 
+## Comparative readiness
+
+A comparative pair (the reading text R takes up the read text P) needs an inheritance record for R that names P, a commentary on each side, and a date for each. Whether a commentary is linked to its work (`scripts/link_commentaries.py` in faultynode/indexes) and whether its primary text is in faultynode/sources are not assessed here: both repos are private. `scripts/comparative_candidates.py` adds the source check on a machine that has them.
+
+### Runs
+
+- `runs/henry-on-hga3.md` - `henry-the-essence-of-manifestation-commentary` reads `heidegger-ga-3-kant-und-das-problem-der-metaphysik-commentary`. Last completed unit: Appendix, §77, with closing paragraph (Section II complete with its closing paragraph; Appendix read by section; range complete; edition has no page numbers)
+- `runs/henry-on-hga5.md` - `henry-the-essence-of-manifestation-commentary` reads `heidegger-ga-5-hegels-begriff-der-erfahrung-commentary`. Last completed unit: run complete (2026-10-08). Section I §§8-16 (113 units, closing paragraph); Section II §§17-21 (41 units: §17 13, §18 9, §19 6, §20 6, §21 7) and §28 ¶8, with the Section II clos…
+
+### Reading texts with no inheritance record
+
+Reception commentaries are reading texts by definition. Each needs a Stage 3 pass (`synthesis/prompts/inheritance-prompt.md`) before it can be paired.
+
+- [ ] `bernet-la-vie-du-sujet-commentary` (1994)
+- [ ] `derrida-la-voix-et-le-phenomene-commentary` (1967)
+- [ ] `franck-heidegger-and-the-problem-of-space-commentary` (1986)
+- [ ] `husserliana-13-editors-introduction-commentary` (undated)
+- [ ] `marion-sur-le-prisme-metaphysique-de-descartes-commentary` (1986)
+- [ ] `mohanty-philosophy-of-edmund-husserl-commentary` (undated)
+
+### Not in chronology.json
+
+With no entry, a commentary's role (primary or reception) is unrecorded, so it cannot be told apart as R or P, and a pair with it cannot be dated.
+
+- [ ] `aristotle-de-anima-commentary`
+- [ ] `descartes-discours-de-la-methode-commentary`
+- [ ] `descartes-passions-de-lame-commentary`
+- [ ] `descartes-regulae-ad-directionem-ingenii-commentary`
+- [ ] `freud-das-unbewusste-commentary`
+- [ ] `freud-gw-13-massenpsychologie-und-ich-analyse-commentary`
+- [ ] `heidegger-ga-5-hegels-begriff-der-erfahrung-commentary`
+- [ ] `henry-genealogie-de-la-psychanalyse-commentary`
+- [ ] `henry-phenomenologie-de-la-vie-1-commentary`
+- [ ] `henry-phenomenologie-de-la-vie-2-commentary`
+- [ ] `husserliana-10-inneres-zeitbewusstsein-commentary`
+- [ ] `husserliana-8-erste-philosophie-ii-commentary`
+- [ ] `kojeve-introduction-a-la-lecture-de-hegel-commentary`
+- [ ] `lacan-seminar-2-the-ego-in-freuds-theory-and-in-the-technique-of-psychoanalysis-commentary`
+- [ ] `marion-reduction-et-donation-commentary`
+
+### What the records name
+
+28 records · 279 engagements · 110 (39%) name the predecessor's text. An engagement that names only an author can suggest a pair at author level, never a particular P.
+
+Named texts that no commentary's title matches: the P side of a pair that cannot be run yet, or a title the corpus gives in another language (*Ideen I* against *Ideas I*), which only a work link can resolve.
+
+- Descartes, *Meditationes de prima philosophia* - 7 engagements, in `heidegger-sein-und-zeit-commentary`, `husserl-formal-and-transcendental-logic-commentary`, `husserl-krisis-commentary` and 4 more
+- Locke, *An Essay Concerning Human Understanding* - 4 engagements, in `husserl-erfahrung-und-urteil-commentary`, `husserl-krisis-commentary`, `husserliana-19-2-sixth-logical-investigation-commentary` and 1 more
+- Hume, *A Treatise of Human Nature* - 3 engagements, in `husserl-krisis-commentary`, `husserliana-7-erste-philosophie-i-commentary`, `kern-husserl-and-kant-commentary`
+- Bolzano, *Wissenschaftslehre* - 2 engagements, in `husserl-formal-and-transcendental-logic-commentary`, `husserliana-5-ideas-iii-commentary`
+- Descartes, *Meditations* - 2 engagements, in `franck-chair-et-corps-commentary`, `henry-the-essence-of-manifestation-commentary`
+- Husserl, *Ideen I* - 2 engagements, in `heidegger-ga-20-prolegomena-zur-geschichte-des-zeitbegriffs-commentary`, `henry-the-essence-of-manifestation-commentary`
+- Fichte, *Anweisung zum seligen Leben* - 2 engagements, in `henry-the-essence-of-manifestation-commentary`
+- Aristotle, *De Interpretatione* - 1 engagement, in `husserliana-19-2-sixth-logical-investigation-commentary`
+- Aristotle, *Metaphysics* - 1 engagement, in `heidegger-ga-20-prolegomena-zur-geschichte-des-zeitbegriffs-commentary`
+- Aristotle, *Physics IV 10-14* - 1 engagement, in `heidegger-sein-und-zeit-commentary`
+- ... 53 more
+
+### Candidate pairs
+
+Ranked by `scripts/comparative_candidates.py`: engagements weighted by mode (destructive and silent appropriation 3, polemical rejection 2.5, acknowledged debt 2, terminological borrowing 1), plus 4 for each named text that matches P, discounted where the record names only the author and the corpus holds several of their commentaries. Pairs with a run file are left out. Check the sources before starting one.
+
+- [ ] `henry-the-essence-of-manifestation-commentary` reads `heidegger-sein-und-zeit-commentary` - score 62.5 · 22 engagements (11 polemical-rejection, 6 acknowledged-debt, 4 terminological-borrowing, 1 silent-appropriation) · names *Sein und Zeit*
+- [ ] `franck-chair-et-corps-commentary` reads `heidegger-being-and-time-commentary` - score 27.0 · 5 engagements (3 acknowledged-debt, 2 polemical-rejection) · names *Being and Time*; *Being and Time § 69*; *Time and Being*
+- [ ] `kern-husserl-and-kant-commentary` reads `kant-kritik-der-reinen-vernunft-commentary` - score 18.0 · 7 engagements (2 acknowledged-debt, 2 polemical-rejection, 2 terminological-borrowing, 1 destructive-appropriation) · names *Kritik der reinen Vernunft*
+- [ ] `husserl-krisis-commentary` reads `kant-kritik-der-reinen-vernunft-commentary` - score 14.0 · 4 engagements (2 polemical-rejection, 1 acknowledged-debt, 1 destructive-appropriation) · names *Kritik der reinen Vernunft*
+- [ ] `heidegger-sein-und-zeit-commentary` reads `kant-kritik-der-reinen-vernunft-commentary` - score 13.0 · 4 engagements (2 polemical-rejection, 1 destructive-appropriation, 1 terminological-borrowing) · names *Kritik der reinen Vernunft*
+- [ ] `henry-the-essence-of-manifestation-commentary` reads `fichte-science-of-knowing-commentary` - score 12.0 · 5 engagements (2 acknowledged-debt, 2 polemical-rejection, 1 destructive-appropriation)
+- [ ] `heidegger-sein-und-zeit-commentary` reads `aristotle-de-anima-commentary` - score 10.0 · 4 engagements (3 destructive-appropriation, 1 terminological-borrowing)
+- [ ] `derrida-introduction-a-lorigine-de-la-geometrie-commentary` reads `kant-kritik-der-reinen-vernunft-commentary` - score 9.0 · 2 engagements (2 polemical-rejection) · names *Kritik der reinen Vernunft, Preface to the 2nd edition*
+- [ ] `heidegger-ga-24-die-grundprobleme-der-phanomenologie-commentary` reads `husserliana-8-erste-philosophie-ii-commentary` - score 8.5 · 2 engagements (1 acknowledged-debt, 1 polemical-rejection) · names *Phenomenological doctrine of intentionality as still inadequately grasped*
+- [ ] `heidegger-ga-24-die-grundprobleme-der-phanomenologie-commentary` reads `husserliana-9-phenomenological-psychology-commentary` - score 8.5 · 2 engagements (1 acknowledged-debt, 1 polemical-rejection) · names *Phenomenological doctrine of intentionality as still inadequately grasped*
+- ... 257 more; see `comparative_candidates.py --all`
+
 ## Open gaps
 
 Flagged by a synthesis pass as unsupported by the ledgers. This is the reading queue.

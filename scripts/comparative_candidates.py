@@ -18,6 +18,10 @@ engagement count, the weight of the mode, and a bonus when a named text matches 
     python3 scripts/comparative_candidates.py --r henry    # only R's whose slug contains 'henry'
     python3 scripts/comparative_candidates.py --p heidegger --top 50
     python3 scripts/comparative_candidates.py --all --json
+
+synthesis_status.py imports context(), candidate_rows(check_sources=False),
+unserved_texts() and runs() for the "Comparative readiness" section of STATUS.md. CI
+has no sources checkout, so STATUS.md never shows the source columns.
 """
 import argparse
 import glob
@@ -107,15 +111,129 @@ def source_status(author_folder, slug):
     return "author"
 
 
-def done_pairs():
-    done = {}
-    for f in glob.glob(os.path.join(ROOT, "runs", "*.md")):
-        txt = open(f, encoding="utf-8").read()
+def runs():
+    """Every runs/*.md with its R, P and the first line of its Progress section."""
+    out = []
+    for f in sorted(glob.glob(os.path.join(ROOT, "runs", "*.md"))):
+        with open(f, encoding="utf-8") as fh:
+            txt = fh.read()
         r = re.search(r"Commentary R[^:]*:\s*\S*?([\w.-]+?)\.md", txt)
         p = re.search(r"Commentary P[^:]*:\s*\S*?([\w.-]+?)\.md", txt)
-        if r and p:
-            done[(r.group(1), p.group(1))] = os.path.basename(f)
-    return done
+        progress = re.search(r"(?m)^## Progress[ \t]*\r?\n(.+)", txt)
+        out.append({"file": "runs/" + os.path.basename(f),
+                    "R": r.group(1) if r else None, "P": p.group(1) if p else None,
+                    "progress": progress.group(1).strip() if progress else None})
+    return out
+
+
+def context(corpus=None, chronology=None):
+    """Everything the rankings read. synthesis_status.py passes what it has loaded:
+    the corpus as corpus.json holds it, the chronology as {slug: entry}."""
+    corpus = corpus or load_json("synthesis", "corpus.json")
+    if chronology is None:
+        chronology = {e["commentary"]: e for e in load_json("synthesis", "chronology.json")["entries"]}
+    docs = {d["slug"]: d for d in corpus["documents"]}
+    by_author = defaultdict(list)
+    for slug, d in docs.items():
+        by_author[AUTHOR_ALIAS.get(d["author"], d["author"])].append(slug)
+    records = [load_json("synthesis", "inheritance", os.path.basename(path))
+               for path in sorted(glob.glob(os.path.join(ROOT, "synthesis", "inheritance", "*.json")))]
+    return {"docs": docs, "chron": chronology, "by_author": by_author, "records": records}
+
+
+def years(ctx, slug):
+    strata = ctx["chron"].get(slug, {}).get("strata", [])
+    ys = [s["year_start"] for s in strata if s.get("year_start")]
+    ye = [s.get("year_end") or s["year_start"] for s in strata if s.get("year_start")]
+    return (min(ys), max(ye)) if ys else (None, None)
+
+
+def text_hits(ctx, pred, named, exclude=None):
+    """{P slug: [named texts it matches]} over the predecessor's commentaries."""
+    docs = ctx["docs"]
+    return {p: [t for t in named if tokens(t) & (tokens(p) | tokens(docs[p]["title"])) - {pred}]
+            for p in ctx["by_author"].get(pred, []) if p != exclude}
+
+
+def candidate_rows(ctx, check_sources=True):
+    """Every (R, P) pair the records support, scored and sorted. Without check_sources
+    the rows depend on this repo alone, which is what STATUS.md needs."""
+    docs = ctx["docs"]
+    done = {(r["R"], r["P"]): r["file"] for r in runs()}
+    rows = []
+    for rec in ctx["records"]:
+        r_slug = rec["commentary"]
+        r_author = docs.get(r_slug, {}).get("author", "")
+        groups = defaultdict(list)
+        for e in rec.get("engagements", []):
+            groups[last_name(e["predecessor"]["author"])].append(e)
+        for pred, engs in groups.items():
+            named = [e["predecessor"]["text"] for e in engs if e["predecessor"].get("text")]
+            hits = text_hits(ctx, pred, named, exclude=r_slug)
+            cands = list(hits)
+            # If R names a text that one of this author's commentaries treats, the author's
+            # other commentaries are noise for this group; otherwise keep them, discounted.
+            if any(hits.values()):
+                cands = [p for p in cands if hits[p]]
+            for p_slug in cands:
+                matched = hits[p_slug]
+                modes = Counter(e["mode"] for e in engs)
+                score = sum(MODE_WEIGHT.get(m, 1.0) * n for m, n in modes.items())
+                score += 4 * len(matched)  # a named text that matches P is the strongest signal
+                # Several P's by one author: only the text-matched ones deserve the full score
+                n_p = len(ctx["by_author"][pred])
+                author_level = n_p > 1 and not matched
+                if author_level:
+                    score /= n_p ** 0.5
+                r0, r1 = years(ctx, r_slug)
+                p0, p1 = years(ctx, p_slug)
+                note = []
+                if r1 and p0 and p0 > r1:
+                    note.append("P dated after R")
+                if author_level:
+                    note.append("author-level only")
+                if rec.get("coverage") == "partial":
+                    note.append("partial record")
+                row = {
+                    "score": round(score, 1), "R": r_slug, "P": p_slug,
+                    "engagements": len(engs), "modes": dict(sorted(modes.items())),
+                    "text_match": matched, "R_years": [r0, r1], "P_years": [p0, p1],
+                    "done": done.get((r_slug, p_slug)), "notes": note,
+                }
+                if check_sources:
+                    row["source_P"] = source_status(pred, p_slug)
+                    row["source_R"] = source_status(AUTHOR_ALIAS.get(r_author, r_author),
+                                                    r_slug) if r_author else "no"
+                rows.append(row)
+    rows.sort(key=lambda r: (-r["score"], r["R"], r["P"]))
+    return rows
+
+
+def unserved_texts(ctx):
+    """Predecessor texts the records name that no commentary in the corpus treats: the
+    P side of a pair that cannot be run yet. Variants of one title are merged when one
+    title's words contain the other's ('Kritik der reinen Vernunft, Preface to the 2nd
+    edition' joins 'Kritik der reinen Vernunft')."""
+    groups = []  # [author, label, words, readers, engagements]
+    for rec in ctx["records"]:
+        for e in rec.get("engagements", []):
+            text = e["predecessor"].get("text")
+            pred = last_name(e["predecessor"]["author"])
+            if not text or not tokens(text) or any(text_hits(ctx, pred, [text]).values()):
+                continue
+            words = tokens(text)
+            g = next((g for g in groups if g[0] == pred and (words <= g[2] or g[2] <= words)), None)
+            if g is None:
+                groups.append([pred, text, words, {rec["commentary"]}, 1])
+                continue
+            if len(words) < len(g[2]):
+                g[1], g[2] = text, words
+            g[3].add(rec["commentary"])
+            g[4] += 1
+    out = [{"author": a, "text": t, "readers": sorted(r), "engagements": n}
+           for a, t, _, r, n in groups]
+    out.sort(key=lambda g: (-len(g["readers"]), -g["engagements"], g["author"], g["text"]))
+    return out
 
 
 def main():
@@ -128,76 +246,10 @@ def main():
     ap.add_argument("--ready", action="store_true", help="only pairs whose P has a source file on disk")
     args = ap.parse_args()
 
-    docs = {d["slug"]: d for d in load_json("synthesis", "corpus.json")["documents"]}
-    chron = {e["commentary"]: e for e in load_json("synthesis", "chronology.json")["entries"]}
-    by_author = defaultdict(list)
-    for slug, d in docs.items():
-        by_author[AUTHOR_ALIAS.get(d["author"], d["author"])].append(slug)
-
-    def years(slug):
-        strata = chron.get(slug, {}).get("strata", [])
-        ys = [s["year_start"] for s in strata if s.get("year_start")]
-        ye = [s.get("year_end") or s["year_start"] for s in strata if s.get("year_start")]
-        return (min(ys), max(ye)) if ys else (None, None)
-
-    done = done_pairs()
-    rows = []
-    for path in sorted(glob.glob(os.path.join(ROOT, "synthesis", "inheritance", "*.json"))):
-        rec = load_json("synthesis", "inheritance", os.path.basename(path))
-        r_slug = rec["commentary"]
-        if args.r and args.r not in r_slug:
-            continue
-        r_author = docs.get(r_slug, {}).get("author", "")
-        # group engagements by predecessor author
-        groups = defaultdict(list)
-        for e in rec.get("engagements", []):
-            groups[last_name(e["predecessor"]["author"])].append(e)
-        for pred, engs in groups.items():
-            named = [e["predecessor"]["text"] for e in engs if e["predecessor"].get("text")]
-            cands = [p for p in by_author.get(pred, []) if p != r_slug]
-            hits = {p: [t for t in named if tokens(t) & (tokens(p) | tokens(docs[p]["title"])) - {pred}]
-                    for p in cands}
-            # If R names a text that one of this author's commentaries treats, the author's
-            # other commentaries are noise for this group; otherwise keep them, discounted.
-            if any(hits.values()):
-                cands = [p for p in cands if hits[p]]
-            for p_slug in cands:
-                if args.p and args.p not in p_slug:
-                    continue
-                matched = hits[p_slug]
-                modes = Counter(e["mode"] for e in engs)
-                score = sum(MODE_WEIGHT.get(m, 1.0) * n for m, n in modes.items())
-                score += 4 * len(matched)  # a named text that matches P is the strongest signal
-                # Several P's by one author: only the text-matched ones deserve the full score
-                n_p = len(by_author[pred])
-                if n_p > 1 and not matched:
-                    score /= n_p ** 0.5
-                    note_author = True
-                else:
-                    note_author = False
-                r0, r1 = years(r_slug)
-                p0, p1 = years(p_slug)
-                note = []
-                if r1 and p0 and p0 > r1:
-                    note.append("P dated after R")
-                if note_author:
-                    note.append("author-level only")
-                if rec.get("coverage") == "partial":
-                    note.append("partial record")
-                src_p = source_status(pred, p_slug)
-                src_r = source_status(AUTHOR_ALIAS.get(r_author, r_author), r_slug) if r_author else "no"
-                rows.append({
-                    "score": round(score, 1), "R": r_slug, "P": p_slug,
-                    "engagements": len(engs), "modes": dict(modes),
-                    "text_match": matched, "source_P": src_p, "source_R": src_r,
-                    "R_years": [r0, r1], "P_years": [p0, p1],
-                    "done": done.get((r_slug, p_slug)), "notes": note,
-                })
-
-    rows = [r for r in rows if not r["done"]]
+    rows = [r for r in candidate_rows(context()) if not r["done"]]
+    rows = [r for r in rows if (not args.r or args.r in r["R"]) and (not args.p or args.p in r["P"])]
     if args.ready:
         rows = [r for r in rows if r["source_P"] == "yes"]
-    rows.sort(key=lambda r: (-r["score"], r["R"], r["P"]))
     if not args.all:
         rows = rows[: args.top]
 

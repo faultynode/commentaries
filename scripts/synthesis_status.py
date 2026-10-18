@@ -17,10 +17,13 @@ import argparse
 import os
 import sys
 
+import comparative_candidates as cc
 import synthesislib as lib
 
 STATUS_PATH = os.path.join(lib.SYNTHESIS_DIR, "STATUS.md")
 CANDIDATES = 6
+PAIRS = 10
+UNSERVED = 10
 
 
 def theme_section(theme, meta, corpus, chron, out):
@@ -69,6 +72,108 @@ def theme_section(theme, meta, corpus, chron, out):
         out.append("Every commentary carrying these terms has a record.")
         out.append("")
     return stale
+
+
+def readiness_section(corpus, chron, out):
+    """What the comparative-commentary skill needs, and what is missing. Built from this
+    repo alone so that CI and a laptop write the same file: work links live in
+    faultynode/indexes and primary texts in faultynode/sources, both private."""
+    ctx = cc.context(corpus, chron)
+    out += ["## Comparative readiness", "",
+            "A comparative pair (the reading text R takes up the read text P) needs an "
+            "inheritance record for R that names P, a commentary on each side, and a date "
+            "for each. Whether a commentary is linked to its work "
+            "(`scripts/link_commentaries.py` in faultynode/indexes) and whether its "
+            "primary text is in faultynode/sources are not assessed here: both repos are "
+            "private. `scripts/comparative_candidates.py` adds the source check on a "
+            "machine that has them.", ""]
+
+    out += ["### Runs", ""]
+    run_files = cc.runs()
+    for r in run_files:
+        progress = r["progress"] or "no Progress line"
+        if len(progress) > 200:
+            progress = progress[:199].rstrip() + "…"
+        out.append("- `%s` - `%s` reads `%s`. %s" % (r["file"], r["R"], r["P"], progress))
+    out.append("" if run_files else "No run files in `runs/`.")
+    if not run_files:
+        out.append("")
+
+    with_record = {rec["commentary"] for rec in ctx["records"]}
+    unread = [d["slug"] for d in corpus["documents"]
+              if chron.get(d["slug"], {}).get("role") == "reception" and d["slug"] not in with_record]
+    out += ["### Reading texts with no inheritance record", ""]
+    if unread:
+        out += ["Reception commentaries are reading texts by definition. Each needs a "
+                "Stage 3 pass (`synthesis/prompts/inheritance-prompt.md`) before it can "
+                "be paired.", ""]
+        for slug in sorted(unread):
+            year = lib.entry_year(chron[slug])
+            out.append("- [ ] `%s` (%s)" % (slug, "undated" if year == lib.UNDATED else year))
+    else:
+        out.append("Every reception commentary has an inheritance record.")
+    out.append("")
+
+    missing = sorted(d["slug"] for d in corpus["documents"] if d["slug"] not in chron)
+    out += ["### Not in chronology.json", ""]
+    if missing:
+        out += ["With no entry, a commentary's role (primary or reception) is unrecorded, "
+                "so it cannot be told apart as R or P, and a pair with it cannot be "
+                "dated.", ""]
+        out += ["- [ ] `%s`" % slug for slug in missing]
+    else:
+        out.append("Every commentary has an entry.")
+    out.append("")
+
+    engagements = [e for rec in ctx["records"] for e in rec.get("engagements", [])]
+    named = sum(1 for e in engagements if e["predecessor"].get("text"))
+    out += ["### What the records name", "",
+            "%d records · %d engagements · %d (%d%%) name the predecessor's text. An "
+            "engagement that names only an author can suggest a pair at author level, "
+            "never a particular P."
+            % (len(ctx["records"]), len(engagements), named,
+               round(100 * named / len(engagements)) if engagements else 0), ""]
+    unserved = cc.unserved_texts(ctx)
+    if unserved:
+        out += ["Named texts that no commentary's title matches: the P side of a pair "
+                "that cannot be run yet, or a title the corpus gives in another language "
+                "(*Ideen I* against *Ideas I*), which only a work link can resolve.", ""]
+        for g in unserved[:UNSERVED]:
+            readers = ", ".join("`%s`" % r for r in g["readers"][:3])
+            if len(g["readers"]) > 3:
+                readers += " and %d more" % (len(g["readers"]) - 3)
+            out.append("- %s, *%s* - %d engagement%s, in %s"
+                       % (g["author"].title(), g["text"], g["engagements"],
+                          "" if g["engagements"] == 1 else "s", readers))
+        if len(unserved) > UNSERVED:
+            out.append("- ... %d more" % (len(unserved) - UNSERVED))
+        out.append("")
+
+    rows = [r for r in cc.candidate_rows(ctx, check_sources=False) if not r["done"]]
+    out += ["### Candidate pairs", ""]
+    if rows:
+        out += ["Ranked by `scripts/comparative_candidates.py`: engagements weighted by "
+                "mode (destructive and silent appropriation 3, polemical rejection 2.5, "
+                "acknowledged debt 2, terminological borrowing 1), plus 4 for each named "
+                "text that matches P, discounted where the record names only the author "
+                "and the corpus holds several of their commentaries. Pairs with a run "
+                "file are left out. Check the sources before starting one.", ""]
+        for r in rows[:PAIRS]:
+            modes = ", ".join("%d %s" % (n, m) for m, n in
+                              sorted(r["modes"].items(), key=lambda kv: (-kv[1], kv[0])))
+            texts = list(dict.fromkeys(r["text_match"]))
+            notes = [n for n in r["notes"] if n != "partial record"]
+            if texts:
+                notes.insert(0, "names " + "; ".join("*%s*" % t for t in texts))
+            out.append("- [ ] `%s` reads `%s` - score %s · %d engagement%s (%s)%s"
+                       % (r["R"], r["P"], r["score"], r["engagements"],
+                          "" if r["engagements"] == 1 else "s", modes,
+                          " · " + " · ".join(notes) if notes else ""))
+        if len(rows) > PAIRS:
+            out.append("- ... %d more; see `comparative_candidates.py --all`" % (len(rows) - PAIRS))
+    else:
+        out.append("No inheritance record names a predecessor with a commentary here.")
+    out.append("")
 
 
 def main(argv):
@@ -140,6 +245,8 @@ def main(argv):
         out.append("")
     else:
         out += ["Every commentary states a date for its text.", ""]
+
+    readiness_section(corpus, chron, out)
 
     gaps = (lib.registry("gaps") or {"gaps": []})["gaps"]
     open_gaps = [g for g in gaps if g["status"] != "closed"]
