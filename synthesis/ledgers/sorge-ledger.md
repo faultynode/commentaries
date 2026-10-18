@@ -330,10 +330,10 @@
 - `husserliana-19-2-sixth-logical-investigation-commentary` - 36 term hits, no record
 - `husserl-formal-and-transcendental-logic-commentary` - 34 term hits, no record
 - `henry-phenomenologie-de-la vie-1-commentary` - 30 term hits, no record
+- `Passions de l ame Commentary` - 26 term hits, no record
 - `aristotle-de-anima-commentary` - 26 term hits, no record
 - `Discours de la methode Commentary` - 25 term hits, no record
 - `husserliana-9-phenomenological-psychology-commentary` - 25 term hits, no record
-- `Regulae Commentary` - 23 term hits, no record
 - `descartes-regulae-ad-directionem-ingenii-commentary` - 23 term hits, no record
 - `husserliana-4-ideas-ii-commentary` - 21 term hits, no record
 - `husserliana-13-basic-problems-of-phenomenology-commentary` - 20 term hits, no record

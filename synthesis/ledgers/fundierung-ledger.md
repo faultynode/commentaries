@@ -1764,12 +1764,12 @@
 - `Discours de la methode Commentary` - 65 term hits, no record
 - `heidegger-ga-19-platon-sophistes-commentary` - 65 term hits, no record
 - `mohanty-philosophy-of-edmund-husserl-commentary` - 64 term hits, no record
+- `Passions de l ame Commentary` - 62 term hits, no record
 - `picht-de-anima-commentary` - 52 term hits, no record
 - `heidegger-ga-17-einfuhrung-in-die-phanomenologische-forschung-commentary` - 48 term hits, no record
 - `heidegger-ga-61-phenomenological-interpretations-of-aristotle-commentary` - 45 term hits, no record
 - `freud-das-unbewusste-commentary` - 43 term hits, no record
 - `kern-husserl-and-kant-commentary` - 40 term hits, no record
-- `Regulae Commentary` - 36 term hits, no record
 - `descartes-regulae-ad-directionem-ingenii-commentary` - 36 term hits, no record
 - `derrida-la-voix-et-le-phenomene-commentary` - 29 term hits, no record
 - `franck-heidegger-and-the-problem-of-space-commentary` - 28 term hits, no record

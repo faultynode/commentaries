@@ -3232,6 +3232,7 @@
 - `aristotle-de-anima-commentary` - 3 term hits, no record
 - `heidegger-ga-17-einfuhrung-in-die-phanomenologische-forschung-commentary` - 3 term hits, no record
 - `heidegger-ga-5-hegels-begriff-der-erfahrung-commentary` - 3 term hits, no record
+- `Passions de l ame Commentary` - 2 term hits, no record
 - `derrida-la-voix-et-le-phenomene-commentary` - 2 term hits, no record
 - `heidegger-ga-19-platon-sophistes-commentary` - 2 term hits, no record
 - `leibniz-monadology-commentary` - 2 term hits, no record

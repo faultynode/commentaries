@@ -1478,7 +1478,6 @@
 - `kojève-introduction-à-la-lecture-de-hegel-commentary` - 36 term hits, no record
 - `husserliana-4-ideas-ii-commentary` - 21 term hits, no record
 - `lacan-seminar-11-the-four-fundamental-concepts-of-psychoanalysis-commentary` - 17 term hits, no record
-- `Regulae Commentary` - 12 term hits, no record
 - `descartes-regulae-ad-directionem-ingenii-commentary` - 12 term hits, no record
 - `Discours de la methode Commentary` - 9 term hits, no record
 - `leibniz-monadology-commentary` - 9 term hits, no record
@@ -1489,6 +1488,7 @@
 - `husserliana-10-inneres-zeitbewusstsein-commentary` - 5 term hits, no record
 - `heidegger-ga-19-platon-sophistes-commentary` - 4 term hits, no record
 - `husserliana-19-1-fifth-logical-investigation-commentary` - 4 term hits, no record
+- `Passions de l ame Commentary` - 3 term hits, no record
 - `freud-gw-13-massenpsychologie-und-ich-analyse-commentary` - 3 term hits, no record
 - `heidegger-ga-61-phenomenological-interpretations-of-aristotle-commentary` - 3 term hits, no record
 - `husserl-erfahrung-und-urteil-commentary` - 3 term hits, no record
