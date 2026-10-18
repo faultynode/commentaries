@@ -1054,37 +1054,37 @@
 
 - **introduced** · `wesen/franck-chair/001` · *eidetic analysis*
   The charge that the analysis falls back into an ego-metaphysic is answered by the transcendental analysis becoming an eidetic analysis.
-  `franck-chair-et-corps-commentary#h2-chapter-five-eidetic-reduction-and-archi-facticity` · [Chapter Five: Eidetic Reduction and Archi-Facticity](https://faultynode.github.io/commentaries/commentaries/fanck/franck-chair-et-corps-commentary.html#chapter-five-eidetic-reduction-and-archi-facticity)
+  `franck-chair-et-corps-commentary#h2-chapter-five-eidetic-reduction-and-archi-facticity` · [Chapter Five: Eidetic Reduction and Archi-Facticity](https://faultynode.github.io/commentaries/commentaries/franck/franck-chair-et-corps-commentary.html#chapter-five-eidetic-reduction-and-archi-facticity)
   > this would be the case if the transcendental analysis did not become an *eidetic* analysis.
 
 - **presupposed** · `wesen/franck-chair/002` · *eidetic ego*
   After the passage from the de facto ego to the eidetic ego, all constitutive investigations are said to acquire eidetic generality.
-  `franck-chair-et-corps-commentary#h2-chapter-five-eidetic-reduction-and-archi-facticity` · [Chapter Five: Eidetic Reduction and Archi-Facticity](https://faultynode.github.io/commentaries/commentaries/fanck/franck-chair-et-corps-commentary.html#chapter-five-eidetic-reduction-and-archi-facticity)
+  `franck-chair-et-corps-commentary#h2-chapter-five-eidetic-reduction-and-archi-facticity` · [Chapter Five: Eidetic Reduction and Archi-Facticity](https://faultynode.github.io/commentaries/commentaries/franck/franck-chair-et-corps-commentary.html#chapter-five-eidetic-reduction-and-archi-facticity)
   > after the passage from the de facto ego to the eidetic ego, all constitutive investigations acquire eidetic generality
 
 - **introduced** · `wesen/franck-chair/003` · *eidos*
   Through the multiplicity of free variations of a factum an invariant appears, a general essence, an eidos.
-  `franck-chair-et-corps-commentary#h2-chapter-five-eidetic-reduction-and-archi-facticity` · [Chapter Five: Eidetic Reduction and Archi-Facticity](https://faultynode.github.io/commentaries/commentaries/fanck/franck-chair-et-corps-commentary.html#chapter-five-eidetic-reduction-and-archi-facticity)
+  `franck-chair-et-corps-commentary#h2-chapter-five-eidetic-reduction-and-archi-facticity` · [Chapter Five: Eidetic Reduction and Archi-Facticity](https://faultynode.github.io/commentaries/commentaries/franck/franck-chair-et-corps-commentary.html#chapter-five-eidetic-reduction-and-archi-facticity)
   > Through this multiplicity, an invariant — a general essence, an *eidos* — appears.
 
 - **introduced** · `wesen/franck-chair/004` · *eidos*
   The eidos is defined as that without which the object in the free play of variation can neither be thought nor intuitively given.
-  `franck-chair-et-corps-commentary#h2-chapter-five-eidetic-reduction-and-archi-facticity` · [Chapter Five: Eidetic Reduction and Archi-Facticity](https://faultynode.github.io/commentaries/commentaries/fanck/franck-chair-et-corps-commentary.html#chapter-five-eidetic-reduction-and-archi-facticity)
+  `franck-chair-et-corps-commentary#h2-chapter-five-eidetic-reduction-and-archi-facticity` · [Chapter Five: Eidetic Reduction and Archi-Facticity](https://faultynode.github.io/commentaries/commentaries/franck/franck-chair-et-corps-commentary.html#chapter-five-eidetic-reduction-and-archi-facticity)
   > The eidos is that without which the object in the free play of variation can neither be thought nor intuitively given.
 
 - **revised** · `wesen/franck-chair/005` · *eidetic reduction*
   Because variation rests on a passively operating connecting unity, the eidetic reduction is said to presuppose immanent temporality.
-  `franck-chair-et-corps-commentary#h2-chapter-five-eidetic-reduction-and-archi-facticity` · [Chapter Five: Eidetic Reduction and Archi-Facticity](https://faultynode.github.io/commentaries/commentaries/fanck/franck-chair-et-corps-commentary.html#chapter-five-eidetic-reduction-and-archi-facticity)
+  `franck-chair-et-corps-commentary#h2-chapter-five-eidetic-reduction-and-archi-facticity` · [Chapter Five: Eidetic Reduction and Archi-Facticity](https://faultynode.github.io/commentaries/commentaries/franck/franck-chair-et-corps-commentary.html#chapter-five-eidetic-reduction-and-archi-facticity)
   > the eidetic reduction presupposes *immanent temporality*
 
 - **criticized** · `wesen/franck-chair/006` · *eidos ego*
   The variation leading to the intuition of the eidos ego is said to presuppose that other egos can be given, which is the difficulty of reducing to it within an egology.
-  `franck-chair-et-corps-commentary#h2-chapter-five-eidetic-reduction-and-archi-facticity` · [Chapter Five: Eidetic Reduction and Archi-Facticity](https://faultynode.github.io/commentaries/commentaries/fanck/franck-chair-et-corps-commentary.html#chapter-five-eidetic-reduction-and-archi-facticity)
+  `franck-chair-et-corps-commentary#h2-chapter-five-eidetic-reduction-and-archi-facticity` · [Chapter Five: Eidetic Reduction and Archi-Facticity](https://faultynode.github.io/commentaries/commentaries/franck/franck-chair-et-corps-commentary.html#chapter-five-eidetic-reduction-and-archi-facticity)
   > The variation leading to the intuition of the eidos ego would presuppose that other egos can be given.
 
 - **presupposed** · `wesen/franck-chair/007` · *residuum*
   The pure Ego is described, in a citation from Husserl, as a residuum retained after the phenomenological exclusion of the world and the empirical subjectivity included in it.
-  `franck-chair-et-corps-commentary#h2-chapter-five-eidetic-reduction-and-archi-facticity` · [Chapter Five: Eidetic Reduction and Archi-Facticity](https://faultynode.github.io/commentaries/commentaries/fanck/franck-chair-et-corps-commentary.html#chapter-five-eidetic-reduction-and-archi-facticity)
+  `franck-chair-et-corps-commentary#h2-chapter-five-eidetic-reduction-and-archi-facticity` · [Chapter Five: Eidetic Reduction and Archi-Facticity](https://faultynode.github.io/commentaries/commentaries/franck/franck-chair-et-corps-commentary.html#chapter-five-eidetic-reduction-and-archi-facticity)
   > if we retain a pure Ego as a residuum after the phenomenological exclusion of the world
 
 #### Recorded absences
@@ -1092,7 +1092,7 @@
 - **absent** · `franck-chair-et-corps-commentary#h2-chapter-five-eidetic-reduction-and-archi-facticity`
   Expected because: The chapter defines the eidos by free variation and, separately, uses 'residuum' of the pure Ego - so it is precisely the section where gap-007's two questions, whether an essence is ever called a residuum and whether the eidos is read as the heir of Descartes' true and immutable natures, would be answered if this commentary answered them.
   Bears on gap-007. 'Residuum' occurs in this section, but of the pure Ego and never of an essence - the same split Ideas I Parts 3-4 shows.
-  [Chapter Five: Eidetic Reduction and Archi-Facticity](https://faultynode.github.io/commentaries/commentaries/fanck/franck-chair-et-corps-commentary.html#chapter-five-eidetic-reduction-and-archi-facticity)
+  [Chapter Five: Eidetic Reduction and Archi-Facticity](https://faultynode.github.io/commentaries/commentaries/franck/franck-chair-et-corps-commentary.html#chapter-five-eidetic-reduction-and-archi-facticity)
 
 *Partial pass: Covers Chapter Five (eidetic reduction and archi-facticity) in full. Chapters One, Four and Six, which carry the remaining hits, were keyword-scanned only.*
 
@@ -1308,14 +1308,14 @@
 
 - `henry-genealogie-de-la-psychanalyse-commentary` - 699 term hits, no record
 - `heidegger-ga-26-metaphysische-anfangsgruende-der-logik-commentary` - 494 term hits, no record
-- `kojève-introduction-à-la-lecture-de-hegel-commentary` - 445 term hits, no record
+- `kojeve-introduction-a-la-lecture-de-hegel-commentary` - 445 term hits, no record
 - `henry-phenomenologie-de-la-vie-2-commentary` - 196 term hits, no record
-- `henry-phenomenologie-de-la vie-1-commentary` - 172 term hits, no record
+- `henry-phenomenologie-de-la-vie-1-commentary` - 172 term hits, no record
 - `heidegger-ga-5-hegels-begriff-der-erfahrung-commentary` - 141 term hits, no record
 - `heidegger-ga-9-vom-wesen-des-grundes-commentary` - 113 term hits, no record
 - `husserl-natur-und-geist-commentary` - 102 term hits, no record
-- `Reduction et donation Commentary` - 100 term hits, no record
 - `husserliana-3-ideas-i-commentary` - 100 term hits, no record
+- `marion-reduction-et-donation-commentary` - 100 term hits, no record
 - `husserliana-11-analyses-concerning-passive-and-active-synthesis-commentary` - 97 term hits, no record
 - `heidegger-ga-24-die-grundprobleme-der-phanomenologie-commentary` - 73 term hits, no record
 - `husserliana-23-phantasie-bildbewusstsein-erinnerung-commentary` - 65 term hits, no record
@@ -1336,7 +1336,7 @@
 - `derrida-la-voix-et-le-phenomene-commentary` - 19 term hits, no record
 - `lacan-seminar-2-the-ego-in-freuds-theory-and-in-the-technique-of-psychoanalysis-commentary` - 18 term hits, no record
 - `heidegger-ga-19-platon-sophistes-commentary` - 14 term hits, no record
-- `Discours de la methode Commentary` - 11 term hits, no record
+- `descartes-discours-de-la-methode-commentary` - 11 term hits, no record
 - `heidegger-ga-17-einfuhrung-in-die-phanomenologische-forschung-commentary` - 10 term hits, no record
 - `leibniz-monadology-commentary` - 10 term hits, no record
 - `heidegger-ga-61-phenomenological-interpretations-of-aristotle-commentary` - 9 term hits, no record
@@ -1344,5 +1344,5 @@
 - `aristotle-de-anima-commentary` - 7 term hits, no record
 - `freud-das-unbewusste-commentary` - 7 term hits, no record
 - `freud-gw-13-massenpsychologie-und-ich-analyse-commentary` - 7 term hits, no record
-- `Passions de l ame Commentary` - 2 term hits, no record
+- `descartes-passions-de-lame-commentary` - 2 term hits, no record
 - `mohanty-philosophy-of-edmund-husserl-commentary` - 2 term hits, no record

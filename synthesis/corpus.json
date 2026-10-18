@@ -2293,15 +2293,15 @@
       ]
     },
     {
-      "slug": "Discours de la methode Commentary",
-      "path": "commentaries/descartes/Discours de la methode Commentary.md",
+      "slug": "descartes-discours-de-la-methode-commentary",
+      "path": "commentaries/descartes/descartes-discours-de-la-methode-commentary.md",
       "author": "descartes",
       "title": "Descartes, Discourse on Method and Essays (AT VI) — Commentary",
       "wordpress_id": null,
-      "sha256": "f083c759173b3693c2c41712129f46ae59c24a43d442b8319a1b69aefcdc872a",
-      "lines": 836,
-      "words": 90696,
-      "url": "https://faultynode.github.io/commentaries/commentaries/descartes/Discours de la methode Commentary.html",
+      "sha256": "33e5ce52df0f4faf58315b50f91f06ae80f10c347b3ea89dffafa7c8d50ac868",
+      "lines": 841,
+      "words": 90705,
+      "url": "https://faultynode.github.io/commentaries/commentaries/descartes/descartes-discours-de-la-methode-commentary.html",
       "sections": [
         {
           "id": "h1-descartes-discourse-on-method-and-essays-at-vi-commentary",
@@ -2311,8 +2311,8 @@
             "Descartes, Discourse on Method and Essays (AT VI) — Commentary"
           ],
           "anchor": "descartes-discourse-on-method-and-essays-at-vi--commentary",
-          "line_start": 1,
-          "line_end": 4,
+          "line_start": 6,
+          "line_end": 9,
           "words": 131
         },
         {
@@ -2324,8 +2324,8 @@
             "Discourse on the Method for Rightly Conducting One's Reason and Seeking Truth in the Sciences"
           ],
           "anchor": "discourse-on-the-method-for-rightly-conducting-ones-reason-and-seeking-truth-in-the-sciences",
-          "line_start": 5,
-          "line_end": 8,
+          "line_start": 10,
+          "line_end": 13,
           "words": 188
         },
         {
@@ -2338,8 +2338,8 @@
             "Part One"
           ],
           "anchor": "part-one",
-          "line_start": 9,
-          "line_end": 40,
+          "line_start": 14,
+          "line_end": 45,
           "words": 2375
         },
         {
@@ -2352,8 +2352,8 @@
             "Part Two"
           ],
           "anchor": "part-two",
-          "line_start": 41,
-          "line_end": 68,
+          "line_start": 46,
+          "line_end": 73,
           "words": 2641
         },
         {
@@ -2366,8 +2366,8 @@
             "Part Three"
           ],
           "anchor": "part-three",
-          "line_start": 69,
-          "line_end": 84,
+          "line_start": 74,
+          "line_end": 89,
           "words": 2155
         },
         {
@@ -2380,8 +2380,8 @@
             "Part Four"
           ],
           "anchor": "part-four",
-          "line_start": 85,
-          "line_end": 100,
+          "line_start": 90,
+          "line_end": 105,
           "words": 2493
         },
         {
@@ -2394,8 +2394,8 @@
             "Part Five"
           ],
           "anchor": "part-five",
-          "line_start": 101,
-          "line_end": 126,
+          "line_start": 106,
+          "line_end": 131,
           "words": 3776
         },
         {
@@ -2408,8 +2408,8 @@
             "Part Six"
           ],
           "anchor": "part-six",
-          "line_start": 127,
-          "line_end": 152,
+          "line_start": 132,
+          "line_end": 157,
           "words": 3927
         },
         {
@@ -2421,8 +2421,8 @@
             "Optics"
           ],
           "anchor": "optics",
-          "line_start": 153,
-          "line_end": 154,
+          "line_start": 158,
+          "line_end": 159,
           "words": 0
         },
         {
@@ -2435,8 +2435,8 @@
             "First Discourse: On Light"
           ],
           "anchor": "first-discourse-on-light",
-          "line_start": 155,
-          "line_end": 166,
+          "line_start": 160,
+          "line_end": 171,
           "words": 1564
         },
         {
@@ -2449,8 +2449,8 @@
             "Second Discourse: On Refraction"
           ],
           "anchor": "second-discourse-on-refraction",
-          "line_start": 167,
-          "line_end": 186,
+          "line_start": 172,
+          "line_end": 191,
           "words": 1700
         },
         {
@@ -2463,8 +2463,8 @@
             "Third Discourse: On the Eye"
           ],
           "anchor": "third-discourse-on-the-eye",
-          "line_start": 187,
-          "line_end": 190,
+          "line_start": 192,
+          "line_end": 195,
           "words": 346
         },
         {
@@ -2477,8 +2477,8 @@
             "Fourth Discourse: On the Senses in General"
           ],
           "anchor": "fourth-discourse-on-the-senses-in-general",
-          "line_start": 191,
-          "line_end": 194,
+          "line_start": 196,
+          "line_end": 199,
           "words": 597
         },
         {
@@ -2491,8 +2491,8 @@
             "Fifth Discourse: On the Images Formed at the Back of the Eye"
           ],
           "anchor": "fifth-discourse-on-the-images-formed-at-the-back-of-the-eye",
-          "line_start": 195,
-          "line_end": 210,
+          "line_start": 200,
+          "line_end": 215,
           "words": 1541
         },
         {
@@ -2505,8 +2505,8 @@
             "Sixth Discourse: On Vision"
           ],
           "anchor": "sixth-discourse-on-vision",
-          "line_start": 211,
-          "line_end": 224,
+          "line_start": 216,
+          "line_end": 229,
           "words": 2380
         },
         {
@@ -2519,8 +2519,8 @@
             "Seventh Discourse: On the Means of Perfecting Vision"
           ],
           "anchor": "seventh-discourse-on-the-means-of-perfecting-vision",
-          "line_start": 225,
-          "line_end": 250,
+          "line_start": 230,
+          "line_end": 255,
           "words": 2979
         },
         {
@@ -2533,8 +2533,8 @@
             "Eighth Discourse: On the Figures That Transparent Bodies Must Have to Turn Rays by Refraction in All the Ways Useful to Sight"
           ],
           "anchor": "eighth-discourse-on-the-figures-that-transparent-bodies-must-have-to-turn-rays-by-refraction-in-all-the-ways-useful-to-sight",
-          "line_start": 251,
-          "line_end": 310,
+          "line_start": 256,
+          "line_end": 315,
           "words": 4589
         },
         {
@@ -2547,8 +2547,8 @@
             "Ninth Discourse: The Description of Telescopes"
           ],
           "anchor": "ninth-discourse-the-description-of-telescopes",
-          "line_start": 311,
-          "line_end": 328,
+          "line_start": 316,
+          "line_end": 333,
           "words": 2343
         },
         {
@@ -2561,8 +2561,8 @@
             "Tenth Discourse: On the Way of Cutting Lenses"
           ],
           "anchor": "tenth-discourse-on-the-way-of-cutting-lenses",
-          "line_start": 329,
-          "line_end": 356,
+          "line_start": 334,
+          "line_end": 361,
           "words": 2791
         },
         {
@@ -2574,8 +2574,8 @@
             "Meteorology"
           ],
           "anchor": "meteorology",
-          "line_start": 357,
-          "line_end": 358,
+          "line_start": 362,
+          "line_end": 363,
           "words": 0
         },
         {
@@ -2588,8 +2588,8 @@
             "First Discourse: On the Nature of Terrestrial Bodies"
           ],
           "anchor": "first-discourse-on-the-nature-of-terrestrial-bodies",
-          "line_start": 359,
-          "line_end": 372,
+          "line_start": 364,
+          "line_end": 377,
           "words": 1555
         },
         {
@@ -2602,8 +2602,8 @@
             "Second Discourse: On Vapours and Exhalations"
           ],
           "anchor": "second-discourse-on-vapours-and-exhalations",
-          "line_start": 373,
-          "line_end": 382,
+          "line_start": 378,
+          "line_end": 387,
           "words": 1257
         },
         {
@@ -2616,8 +2616,8 @@
             "Third Discourse: On Salt"
           ],
           "anchor": "third-discourse-on-salt",
-          "line_start": 383,
-          "line_end": 388,
+          "line_start": 388,
+          "line_end": 393,
           "words": 1353
         },
         {
@@ -2630,8 +2630,8 @@
             "Fourth Discourse: On Winds"
           ],
           "anchor": "fourth-discourse-on-winds",
-          "line_start": 389,
-          "line_end": 396,
+          "line_start": 394,
+          "line_end": 401,
           "words": 1506
         },
         {
@@ -2644,8 +2644,8 @@
             "Fifth Discourse: On Clouds"
           ],
           "anchor": "fifth-discourse-on-clouds",
-          "line_start": 397,
-          "line_end": 406,
+          "line_start": 402,
+          "line_end": 411,
           "words": 1561
         },
         {
@@ -2658,8 +2658,8 @@
             "Sixth Discourse: On Snow, Rain and Hail"
           ],
           "anchor": "sixth-discourse-on-snow-rain-and-hail",
-          "line_start": 407,
-          "line_end": 424,
+          "line_start": 412,
+          "line_end": 429,
           "words": 2976
         },
         {
@@ -2672,8 +2672,8 @@
             "Seventh Discourse: On Storms, Lightning and All the Other Fires That Kindle in the Air"
           ],
           "anchor": "seventh-discourse-on-storms-lightning-and-all-the-other-fires-that-kindle-in-the-air",
-          "line_start": 425,
-          "line_end": 436,
+          "line_start": 430,
+          "line_end": 441,
           "words": 2525
         },
         {
@@ -2686,8 +2686,8 @@
             "Eighth Discourse: On the Rainbow"
           ],
           "anchor": "eighth-discourse-on-the-rainbow",
-          "line_start": 437,
-          "line_end": 456,
+          "line_start": 442,
+          "line_end": 461,
           "words": 3709
         },
         {
@@ -2700,8 +2700,8 @@
             "Ninth Discourse: On the Colour of Clouds and the Circles or Coronas Sometimes Seen Around the Stars"
           ],
           "anchor": "ninth-discourse-on-the-colour-of-clouds-and-the-circles-or-coronas-sometimes-seen-around-the-stars",
-          "line_start": 457,
-          "line_end": 466,
+          "line_start": 462,
+          "line_end": 471,
           "words": 1788
         },
         {
@@ -2714,8 +2714,8 @@
             "Last Discourse: On the Appearance of Several Suns"
           ],
           "anchor": "last-discourse-on-the-appearance-of-several-suns",
-          "line_start": 467,
-          "line_end": 482,
+          "line_start": 472,
+          "line_end": 487,
           "words": 2530
         },
         {
@@ -2727,8 +2727,8 @@
             "Geometry"
           ],
           "anchor": "geometry",
-          "line_start": 483,
-          "line_end": 486,
+          "line_start": 488,
+          "line_end": 491,
           "words": 170
         },
         {
@@ -2741,8 +2741,8 @@
             "First Book: On Problems That Can Be Constructed Using Only Circles and Straight Lines"
           ],
           "anchor": "first-book-on-problems-that-can-be-constructed-using-only-circles-and-straight-lines",
-          "line_start": 487,
-          "line_end": 552,
+          "line_start": 492,
+          "line_end": 557,
           "words": 5715
         },
         {
@@ -2755,8 +2755,8 @@
             "Second Book: On the Nature of Curved Lines"
           ],
           "anchor": "second-book-on-the-nature-of-curved-lines",
-          "line_start": 553,
-          "line_end": 696,
+          "line_start": 558,
+          "line_end": 701,
           "words": 13841
         },
         {
@@ -2769,22 +2769,22 @@
             "Third Book: On the Construction of Problems That Are Solid or More Than Solid"
           ],
           "anchor": "third-book-on-the-construction-of-problems-that-are-solid-or-more-than-solid",
-          "line_start": 697,
-          "line_end": 836,
+          "line_start": 702,
+          "line_end": 841,
           "words": 11426
         }
       ]
     },
     {
-      "slug": "Passions de l ame Commentary",
-      "path": "commentaries/descartes/Passions de l ame Commentary.md",
+      "slug": "descartes-passions-de-lame-commentary",
+      "path": "commentaries/descartes/descartes-passions-de-lame-commentary.md",
       "author": "descartes",
       "title": "Descartes, The Passions of the Soul — Commentary",
       "wordpress_id": null,
-      "sha256": "44d82a87087ca128a21538c68d7a69de047b2c3c5036564a41ba88775f2de242",
-      "lines": 476,
-      "words": 47143,
-      "url": "https://faultynode.github.io/commentaries/commentaries/descartes/Passions de l ame Commentary.html",
+      "sha256": "ae3f64301658b6fd4fc4c59e236e4a6a7cbf2c86d6347e89fde46c0dcd66489a",
+      "lines": 481,
+      "words": 47152,
+      "url": "https://faultynode.github.io/commentaries/commentaries/descartes/descartes-passions-de-lame-commentary.html",
       "sections": [
         {
           "id": "h1-descartes-the-passions-of-the-soul-commentary",
@@ -2794,8 +2794,8 @@
             "Descartes, The Passions of the Soul — Commentary"
           ],
           "anchor": "descartes-the-passions-of-the-soul--commentary",
-          "line_start": 1,
-          "line_end": 4,
+          "line_start": 6,
+          "line_end": 9,
           "words": 343
         },
         {
@@ -2807,8 +2807,8 @@
             "Preface"
           ],
           "anchor": "preface",
-          "line_start": 5,
-          "line_end": 6,
+          "line_start": 10,
+          "line_end": 11,
           "words": 0
         },
         {
@@ -2821,8 +2821,8 @@
             "Notice from One of the Author’s Friends"
           ],
           "anchor": "notice-from-one-of-the-authors-friends",
-          "line_start": 7,
-          "line_end": 10,
+          "line_start": 12,
+          "line_end": 15,
           "words": 212
         },
         {
@@ -2835,8 +2835,8 @@
             "First Letter, to Monsieur Descartes"
           ],
           "anchor": "first-letter-to-monsieur-descartes",
-          "line_start": 11,
-          "line_end": 32,
+          "line_start": 16,
+          "line_end": 37,
           "words": 2973
         },
         {
@@ -2849,8 +2849,8 @@
             "Reply to the Preceding Letter"
           ],
           "anchor": "reply-to-the-preceding-letter",
-          "line_start": 33,
-          "line_end": 36,
+          "line_start": 38,
+          "line_end": 41,
           "words": 341
         },
         {
@@ -2863,8 +2863,8 @@
             "Second Letter, to Monsieur Descartes"
           ],
           "anchor": "second-letter-to-monsieur-descartes",
-          "line_start": 37,
-          "line_end": 40,
+          "line_start": 42,
+          "line_end": 45,
           "words": 241
         },
         {
@@ -2877,8 +2877,8 @@
             "Reply to the Second Letter"
           ],
           "anchor": "reply-to-the-second-letter",
-          "line_start": 41,
-          "line_end": 44,
+          "line_start": 46,
+          "line_end": 49,
           "words": 434
         },
         {
@@ -2890,8 +2890,8 @@
             "Part One. On the Passions in General, and Incidentally on the Whole Nature of Man"
           ],
           "anchor": "part-one-on-the-passions-in-general-and-incidentally-on-the-whole-nature-of-man",
-          "line_start": 45,
-          "line_end": 146,
+          "line_start": 50,
+          "line_end": 151,
           "words": 10832
         },
         {
@@ -2903,8 +2903,8 @@
             "Part Two. On the Number and Order of the Passions, and the Explanation of the Six Primitive Ones"
           ],
           "anchor": "part-two-on-the-number-and-order-of-the-passions-and-the-explanation-of-the-six-primitive-ones",
-          "line_start": 147,
-          "line_end": 152,
+          "line_start": 152,
+          "line_end": 157,
           "words": 451
         },
         {
@@ -2917,8 +2917,8 @@
             "The Order and Enumeration of the Passions"
           ],
           "anchor": "the-order-and-enumeration-of-the-passions",
-          "line_start": 153,
-          "line_end": 346,
+          "line_start": 158,
+          "line_end": 351,
           "words": 19013
         },
         {
@@ -2930,8 +2930,8 @@
             "Part Three. On the Particular Passions"
           ],
           "anchor": "part-three-on-the-particular-passions",
-          "line_start": 347,
-          "line_end": 476,
+          "line_start": 352,
+          "line_end": 481,
           "words": 12210
         }
       ]
@@ -3323,286 +3323,6 @@
       ]
     },
     {
-      "slug": "franck-chair-et-corps-commentary",
-      "path": "commentaries/fanck/franck-chair-et-corps-commentary.md",
-      "author": "fanck",
-      "title": "Franck, Chair et corps",
-      "wordpress_id": "400",
-      "sha256": "0757213bac9658321459643d6202563f502dbbf2f877f1e30d07dd34c897d9d5",
-      "lines": 429,
-      "words": 35350,
-      "url": "https://faultynode.github.io/commentaries/commentaries/fanck/franck-chair-et-corps-commentary.html",
-      "sections": [
-        {
-          "id": "h1-chair-et-corps-sur-la-phenomenologie-de-husserl-1981",
-          "level": 1,
-          "title": "Chair et corps: Sur la phénoménologie de Husserl (1981)",
-          "path": [
-            "Chair et corps: Sur la phénoménologie de Husserl (1981)"
-          ],
-          "anchor": "chair-et-corps-sur-la-phenomenologie-de-husserl-1981",
-          "line_start": 7,
-          "line_end": 8,
-          "words": 0
-        },
-        {
-          "id": "h2-preface",
-          "level": 2,
-          "title": "Preface",
-          "path": [
-            "Chair et corps: Sur la phénoménologie de Husserl (1981)",
-            "Preface"
-          ],
-          "anchor": "preface",
-          "line_start": 9,
-          "line_end": 36,
-          "words": 2345
-        },
-        {
-          "id": "h2-chapter-one-self-givenness-and-incarnate-givenness",
-          "level": 2,
-          "title": "Chapter One: Self-Givenness and Incarnate Givenness",
-          "path": [
-            "Chair et corps: Sur la phénoménologie de Husserl (1981)",
-            "Chapter One: Self-Givenness and Incarnate Givenness"
-          ],
-          "anchor": "chapter-one-self-givenness-and-incarnate-givenness",
-          "line_start": 37,
-          "line_end": 90,
-          "words": 3830
-        },
-        {
-          "id": "h2-chapter-two-science-as-egology",
-          "level": 2,
-          "title": "Chapter Two: Science as Egology",
-          "path": [
-            "Chair et corps: Sur la phénoménologie de Husserl (1981)",
-            "Chapter Two: Science as Egology"
-          ],
-          "anchor": "chapter-two-science-as-egology",
-          "line_start": 91,
-          "line_end": 136,
-          "words": 3415
-        },
-        {
-          "id": "h2-chapter-three-flesh-and-body-in-perception",
-          "level": 2,
-          "title": "Chapter Three: Flesh and Body in Perception",
-          "path": [
-            "Chair et corps: Sur la phénoménologie de Husserl (1981)",
-            "Chapter Three: Flesh and Body in Perception"
-          ],
-          "anchor": "chapter-three-flesh-and-body-in-perception",
-          "line_start": 137,
-          "line_end": 166,
-          "words": 2449
-        },
-        {
-          "id": "h2-chapter-four-constitutive-analysis",
-          "level": 2,
-          "title": "Chapter Four: Constitutive Analysis",
-          "path": [
-            "Chair et corps: Sur la phénoménologie de Husserl (1981)",
-            "Chapter Four: Constitutive Analysis"
-          ],
-          "anchor": "chapter-four-constitutive-analysis",
-          "line_start": 167,
-          "line_end": 204,
-          "words": 2957
-        },
-        {
-          "id": "h2-chapter-five-eidetic-reduction-and-archi-facticity",
-          "level": 2,
-          "title": "Chapter Five: Eidetic Reduction and Archi-Facticity",
-          "path": [
-            "Chair et corps: Sur la phénoménologie de Husserl (1981)",
-            "Chapter Five: Eidetic Reduction and Archi-Facticity"
-          ],
-          "anchor": "chapter-five-eidetic-reduction-and-archi-facticity",
-          "line_start": 205,
-          "line_end": 240,
-          "words": 2707
-        },
-        {
-          "id": "h2-chapter-six-phenomenological-idealism",
-          "level": 2,
-          "title": "Chapter Six: Phenomenological Idealism",
-          "path": [
-            "Chair et corps: Sur la phénoménologie de Husserl (1981)",
-            "Chapter Six: Phenomenological Idealism"
-          ],
-          "anchor": "chapter-six-phenomenological-idealism",
-          "line_start": 241,
-          "line_end": 278,
-          "words": 3662
-        },
-        {
-          "id": "h2-chapter-seven-the-objection-of-solipsism",
-          "level": 2,
-          "title": "Chapter Seven: The Objection of Solipsism",
-          "path": [
-            "Chair et corps: Sur la phénoménologie de Husserl (1981)",
-            "Chapter Seven: The Objection of Solipsism"
-          ],
-          "anchor": "chapter-seven-the-objection-of-solipsism",
-          "line_start": 279,
-          "line_end": 302,
-          "words": 2182
-        },
-        {
-          "id": "h2-chapter-eight-flesh-and-the-sphere-of-ownness",
-          "level": 2,
-          "title": "Chapter Eight: Flesh and the Sphere of Ownness",
-          "path": [
-            "Chair et corps: Sur la phénoménologie de Husserl (1981)",
-            "Chapter Eight: Flesh and the Sphere of Ownness"
-          ],
-          "anchor": "chapter-eight-flesh-and-the-sphere-of-ownness",
-          "line_start": 303,
-          "line_end": 334,
-          "words": 3464
-        },
-        {
-          "id": "h2-chapter-nine-flesh-ego-psyche",
-          "level": 2,
-          "title": "Chapter Nine: Flesh, Ego, Psyche",
-          "path": [
-            "Chair et corps: Sur la phénoménologie de Husserl (1981)",
-            "Chapter Nine: Flesh, Ego, Psyche"
-          ],
-          "anchor": "chapter-nine-flesh-ego-psyche",
-          "line_start": 335,
-          "line_end": 352,
-          "words": 1694
-        },
-        {
-          "id": "h2-chapter-ten-the-alteration-of-ownness",
-          "level": 2,
-          "title": "Chapter Ten: The Alteration of Ownness",
-          "path": [
-            "Chair et corps: Sur la phénoménologie de Husserl (1981)",
-            "Chapter Ten: The Alteration of Ownness"
-          ],
-          "anchor": "chapter-ten-the-alteration-of-ownness",
-          "line_start": 353,
-          "line_end": 384,
-          "words": 2740
-        },
-        {
-          "id": "h2-chapter-eleven-the-incarnation-of-another-body",
-          "level": 2,
-          "title": "Chapter Eleven: The Incarnation of Another Body",
-          "path": [
-            "Chair et corps: Sur la phénoménologie de Husserl (1981)",
-            "Chapter Eleven: The Incarnation of Another Body"
-          ],
-          "anchor": "chapter-eleven-the-incarnation-of-another-body",
-          "line_start": 385,
-          "line_end": 406,
-          "words": 1133
-        },
-        {
-          "id": "h2-chapter-twelve-pairing-and-resemblance",
-          "level": 2,
-          "title": "Chapter Twelve: Pairing and Resemblance",
-          "path": [
-            "Chair et corps: Sur la phénoménologie de Husserl (1981)",
-            "Chapter Twelve: Pairing and Resemblance"
-          ],
-          "anchor": "chapter-twelve-pairing-and-resemblance",
-          "line_start": 407,
-          "line_end": 429,
-          "words": 2668
-        }
-      ]
-    },
-    {
-      "slug": "franck-heidegger-and-the-problem-of-space-commentary",
-      "path": "commentaries/fanck/franck-heidegger-and-the-problem-of-space-commentary.md",
-      "author": "fanck",
-      "title": "Franck, Heidegger and the Problem of Space",
-      "wordpress_id": "401",
-      "sha256": "d848e42de14b4751394aaff4dcb3a4bfab8fc83ce54b6f03d6bcd91746441123",
-      "lines": 203,
-      "words": 13662,
-      "url": "https://faultynode.github.io/commentaries/commentaries/fanck/franck-heidegger-and-the-problem-of-space-commentary.html",
-      "sections": [
-        {
-          "id": "h1-didier-franck-heidegger-and-the-problem-of-space-1986",
-          "level": 1,
-          "title": "Didier Franck, Heidegger and the Problem of Space (1986)",
-          "path": [
-            "Didier Franck, Heidegger and the Problem of Space (1986)"
-          ],
-          "anchor": "didier-franck-heidegger-and-the-problem-of-space-1986",
-          "line_start": 7,
-          "line_end": 8,
-          "words": 0
-        },
-        {
-          "id": "h2-introduction",
-          "level": 2,
-          "title": "Introduction",
-          "path": [
-            "Didier Franck, Heidegger and the Problem of Space (1986)",
-            "Introduction"
-          ],
-          "anchor": "introduction",
-          "line_start": 9,
-          "line_end": 60,
-          "words": 3406
-        },
-        {
-          "id": "h1-section",
-          "level": 1,
-          "title": "",
-          "path": [
-            ""
-          ],
-          "anchor": "section",
-          "line_start": 61,
-          "line_end": 62,
-          "words": 0
-        },
-        {
-          "id": "h1-chapter-i-the-question-of-being",
-          "level": 1,
-          "title": "Chapter I — The Question of Being",
-          "path": [
-            "Chapter I — The Question of Being"
-          ],
-          "anchor": "chapter-i--the-question-of-being",
-          "line_start": 63,
-          "line_end": 156,
-          "words": 6246
-        },
-        {
-          "id": "h1-section-2",
-          "level": 1,
-          "title": "",
-          "path": [
-            ""
-          ],
-          "anchor": "section-1",
-          "line_start": 157,
-          "line_end": 158,
-          "words": 0
-        },
-        {
-          "id": "h1-chapter-ii-neutrality-and-incarnation",
-          "level": 1,
-          "title": "Chapter II — Neutrality and Incarnation",
-          "path": [
-            "Chapter II — Neutrality and Incarnation"
-          ],
-          "anchor": "chapter-ii--neutrality-and-incarnation",
-          "line_start": 159,
-          "line_end": 203,
-          "words": 3967
-        }
-      ]
-    },
-    {
       "slug": "fichte-science-of-knowing-commentary",
       "path": "commentaries/fichte/fichte-science-of-knowing-commentary.md",
       "author": "fichte",
@@ -3793,6 +3513,286 @@
           "line_start": 387,
           "line_end": 411,
           "words": 1524
+        }
+      ]
+    },
+    {
+      "slug": "franck-chair-et-corps-commentary",
+      "path": "commentaries/franck/franck-chair-et-corps-commentary.md",
+      "author": "franck",
+      "title": "Franck, Chair et corps",
+      "wordpress_id": "400",
+      "sha256": "01a8a50a43fbde8111f0a89284336f94ca80c2c8b1bae73496fcd481859715b9",
+      "lines": 431,
+      "words": 35353,
+      "url": "https://faultynode.github.io/commentaries/commentaries/franck/franck-chair-et-corps-commentary.html",
+      "sections": [
+        {
+          "id": "h1-chair-et-corps-sur-la-phenomenologie-de-husserl-1981",
+          "level": 1,
+          "title": "Chair et corps: Sur la phénoménologie de Husserl (1981)",
+          "path": [
+            "Chair et corps: Sur la phénoménologie de Husserl (1981)"
+          ],
+          "anchor": "chair-et-corps-sur-la-phenomenologie-de-husserl-1981",
+          "line_start": 9,
+          "line_end": 10,
+          "words": 0
+        },
+        {
+          "id": "h2-preface",
+          "level": 2,
+          "title": "Preface",
+          "path": [
+            "Chair et corps: Sur la phénoménologie de Husserl (1981)",
+            "Preface"
+          ],
+          "anchor": "preface",
+          "line_start": 11,
+          "line_end": 38,
+          "words": 2345
+        },
+        {
+          "id": "h2-chapter-one-self-givenness-and-incarnate-givenness",
+          "level": 2,
+          "title": "Chapter One: Self-Givenness and Incarnate Givenness",
+          "path": [
+            "Chair et corps: Sur la phénoménologie de Husserl (1981)",
+            "Chapter One: Self-Givenness and Incarnate Givenness"
+          ],
+          "anchor": "chapter-one-self-givenness-and-incarnate-givenness",
+          "line_start": 39,
+          "line_end": 92,
+          "words": 3830
+        },
+        {
+          "id": "h2-chapter-two-science-as-egology",
+          "level": 2,
+          "title": "Chapter Two: Science as Egology",
+          "path": [
+            "Chair et corps: Sur la phénoménologie de Husserl (1981)",
+            "Chapter Two: Science as Egology"
+          ],
+          "anchor": "chapter-two-science-as-egology",
+          "line_start": 93,
+          "line_end": 138,
+          "words": 3415
+        },
+        {
+          "id": "h2-chapter-three-flesh-and-body-in-perception",
+          "level": 2,
+          "title": "Chapter Three: Flesh and Body in Perception",
+          "path": [
+            "Chair et corps: Sur la phénoménologie de Husserl (1981)",
+            "Chapter Three: Flesh and Body in Perception"
+          ],
+          "anchor": "chapter-three-flesh-and-body-in-perception",
+          "line_start": 139,
+          "line_end": 168,
+          "words": 2449
+        },
+        {
+          "id": "h2-chapter-four-constitutive-analysis",
+          "level": 2,
+          "title": "Chapter Four: Constitutive Analysis",
+          "path": [
+            "Chair et corps: Sur la phénoménologie de Husserl (1981)",
+            "Chapter Four: Constitutive Analysis"
+          ],
+          "anchor": "chapter-four-constitutive-analysis",
+          "line_start": 169,
+          "line_end": 206,
+          "words": 2957
+        },
+        {
+          "id": "h2-chapter-five-eidetic-reduction-and-archi-facticity",
+          "level": 2,
+          "title": "Chapter Five: Eidetic Reduction and Archi-Facticity",
+          "path": [
+            "Chair et corps: Sur la phénoménologie de Husserl (1981)",
+            "Chapter Five: Eidetic Reduction and Archi-Facticity"
+          ],
+          "anchor": "chapter-five-eidetic-reduction-and-archi-facticity",
+          "line_start": 207,
+          "line_end": 242,
+          "words": 2707
+        },
+        {
+          "id": "h2-chapter-six-phenomenological-idealism",
+          "level": 2,
+          "title": "Chapter Six: Phenomenological Idealism",
+          "path": [
+            "Chair et corps: Sur la phénoménologie de Husserl (1981)",
+            "Chapter Six: Phenomenological Idealism"
+          ],
+          "anchor": "chapter-six-phenomenological-idealism",
+          "line_start": 243,
+          "line_end": 280,
+          "words": 3662
+        },
+        {
+          "id": "h2-chapter-seven-the-objection-of-solipsism",
+          "level": 2,
+          "title": "Chapter Seven: The Objection of Solipsism",
+          "path": [
+            "Chair et corps: Sur la phénoménologie de Husserl (1981)",
+            "Chapter Seven: The Objection of Solipsism"
+          ],
+          "anchor": "chapter-seven-the-objection-of-solipsism",
+          "line_start": 281,
+          "line_end": 304,
+          "words": 2182
+        },
+        {
+          "id": "h2-chapter-eight-flesh-and-the-sphere-of-ownness",
+          "level": 2,
+          "title": "Chapter Eight: Flesh and the Sphere of Ownness",
+          "path": [
+            "Chair et corps: Sur la phénoménologie de Husserl (1981)",
+            "Chapter Eight: Flesh and the Sphere of Ownness"
+          ],
+          "anchor": "chapter-eight-flesh-and-the-sphere-of-ownness",
+          "line_start": 305,
+          "line_end": 336,
+          "words": 3464
+        },
+        {
+          "id": "h2-chapter-nine-flesh-ego-psyche",
+          "level": 2,
+          "title": "Chapter Nine: Flesh, Ego, Psyche",
+          "path": [
+            "Chair et corps: Sur la phénoménologie de Husserl (1981)",
+            "Chapter Nine: Flesh, Ego, Psyche"
+          ],
+          "anchor": "chapter-nine-flesh-ego-psyche",
+          "line_start": 337,
+          "line_end": 354,
+          "words": 1694
+        },
+        {
+          "id": "h2-chapter-ten-the-alteration-of-ownness",
+          "level": 2,
+          "title": "Chapter Ten: The Alteration of Ownness",
+          "path": [
+            "Chair et corps: Sur la phénoménologie de Husserl (1981)",
+            "Chapter Ten: The Alteration of Ownness"
+          ],
+          "anchor": "chapter-ten-the-alteration-of-ownness",
+          "line_start": 355,
+          "line_end": 386,
+          "words": 2740
+        },
+        {
+          "id": "h2-chapter-eleven-the-incarnation-of-another-body",
+          "level": 2,
+          "title": "Chapter Eleven: The Incarnation of Another Body",
+          "path": [
+            "Chair et corps: Sur la phénoménologie de Husserl (1981)",
+            "Chapter Eleven: The Incarnation of Another Body"
+          ],
+          "anchor": "chapter-eleven-the-incarnation-of-another-body",
+          "line_start": 387,
+          "line_end": 408,
+          "words": 1133
+        },
+        {
+          "id": "h2-chapter-twelve-pairing-and-resemblance",
+          "level": 2,
+          "title": "Chapter Twelve: Pairing and Resemblance",
+          "path": [
+            "Chair et corps: Sur la phénoménologie de Husserl (1981)",
+            "Chapter Twelve: Pairing and Resemblance"
+          ],
+          "anchor": "chapter-twelve-pairing-and-resemblance",
+          "line_start": 409,
+          "line_end": 431,
+          "words": 2668
+        }
+      ]
+    },
+    {
+      "slug": "franck-heidegger-and-the-problem-of-space-commentary",
+      "path": "commentaries/franck/franck-heidegger-and-the-problem-of-space-commentary.md",
+      "author": "franck",
+      "title": "Franck, Heidegger and the Problem of Space",
+      "wordpress_id": "401",
+      "sha256": "afb3db2b215dfd3dd2dbdff47f7bf81e5ea8387aad56a511d8360c043abae220",
+      "lines": 205,
+      "words": 13665,
+      "url": "https://faultynode.github.io/commentaries/commentaries/franck/franck-heidegger-and-the-problem-of-space-commentary.html",
+      "sections": [
+        {
+          "id": "h1-didier-franck-heidegger-and-the-problem-of-space-1986",
+          "level": 1,
+          "title": "Didier Franck, Heidegger and the Problem of Space (1986)",
+          "path": [
+            "Didier Franck, Heidegger and the Problem of Space (1986)"
+          ],
+          "anchor": "didier-franck-heidegger-and-the-problem-of-space-1986",
+          "line_start": 9,
+          "line_end": 10,
+          "words": 0
+        },
+        {
+          "id": "h2-introduction",
+          "level": 2,
+          "title": "Introduction",
+          "path": [
+            "Didier Franck, Heidegger and the Problem of Space (1986)",
+            "Introduction"
+          ],
+          "anchor": "introduction",
+          "line_start": 11,
+          "line_end": 62,
+          "words": 3406
+        },
+        {
+          "id": "h1-section",
+          "level": 1,
+          "title": "",
+          "path": [
+            ""
+          ],
+          "anchor": "section",
+          "line_start": 63,
+          "line_end": 64,
+          "words": 0
+        },
+        {
+          "id": "h1-chapter-i-the-question-of-being",
+          "level": 1,
+          "title": "Chapter I — The Question of Being",
+          "path": [
+            "Chapter I — The Question of Being"
+          ],
+          "anchor": "chapter-i--the-question-of-being",
+          "line_start": 65,
+          "line_end": 158,
+          "words": 6246
+        },
+        {
+          "id": "h1-section-2",
+          "level": 1,
+          "title": "",
+          "path": [
+            ""
+          ],
+          "anchor": "section-1",
+          "line_start": 159,
+          "line_end": 160,
+          "words": 0
+        },
+        {
+          "id": "h1-chapter-ii-neutrality-and-incarnation",
+          "level": 1,
+          "title": "Chapter II — Neutrality and Incarnation",
+          "path": [
+            "Chapter II — Neutrality and Incarnation"
+          ],
+          "anchor": "chapter-ii--neutrality-and-incarnation",
+          "line_start": 161,
+          "line_end": 205,
+          "words": 3967
         }
       ]
     },
@@ -15424,15 +15424,15 @@
       ]
     },
     {
-      "slug": "henry-phenomenologie-de-la vie-1-commentary",
-      "path": "commentaries/henry/henry-phenomenologie-de-la vie-1-commentary.md",
+      "slug": "henry-phenomenologie-de-la-vie-1-commentary",
+      "path": "commentaries/henry/henry-phenomenologie-de-la-vie-1-commentary.md",
       "author": "henry",
       "title": "Michel Henry, Phénoménologie de la vie I: De la phénoménologie — Commentary",
       "wordpress_id": null,
-      "sha256": "276ffb2606d8424e1adcd87b7b6b03583431e41c6801bfe26e70e5a1237d4ff7",
-      "lines": 926,
-      "words": 68913,
-      "url": "https://faultynode.github.io/commentaries/commentaries/henry/henry-phenomenologie-de-la vie-1-commentary.html",
+      "sha256": "ec7c80ba338f18b529c1ef7ee80eec4104587166b03e6a86e82ce04ff8b25b11",
+      "lines": 931,
+      "words": 68919,
+      "url": "https://faultynode.github.io/commentaries/commentaries/henry/henry-phenomenologie-de-la-vie-1-commentary.html",
       "sections": [
         {
           "id": "h1-michel-henry-phenomenologie-de-la-vie-i-de-la-phenomenologie-commentary",
@@ -15442,8 +15442,8 @@
             "Michel Henry, Phénoménologie de la vie I: De la phénoménologie — Commentary"
           ],
           "anchor": "michel-henry-phenomenologie-de-la-vie-i-de-la-phenomenologie--commentary",
-          "line_start": 1,
-          "line_end": 4,
+          "line_start": 6,
+          "line_end": 9,
           "words": 172
         },
         {
@@ -15455,8 +15455,8 @@
             "I. Does the Concept of the Soul Have a Meaning?"
           ],
           "anchor": "i-does-the-concept-of-the-soul-have-a-meaning",
-          "line_start": 5,
-          "line_end": 6,
+          "line_start": 10,
+          "line_end": 11,
           "words": 0
         },
         {
@@ -15469,8 +15469,8 @@
             "1"
           ],
           "anchor": "section",
-          "line_start": 7,
-          "line_end": 82,
+          "line_start": 12,
+          "line_end": 87,
           "words": 3777
         },
         {
@@ -15483,8 +15483,8 @@
             "2"
           ],
           "anchor": "section-1",
-          "line_start": 83,
-          "line_end": 160,
+          "line_start": 88,
+          "line_end": 165,
           "words": 4913
         },
         {
@@ -15496,8 +15496,8 @@
             "II. What Is This That We Call Life?"
           ],
           "anchor": "ii-what-is-this-that-we-call-life",
-          "line_start": 161,
-          "line_end": 216,
+          "line_start": 166,
+          "line_end": 221,
           "words": 6880
         },
         {
@@ -15509,8 +15509,8 @@
             "III. Phenomenology of Life"
           ],
           "anchor": "iii-phenomenology-of-life",
-          "line_start": 217,
-          "line_end": 284,
+          "line_start": 222,
+          "line_end": 289,
           "words": 6609
         },
         {
@@ -15522,8 +15522,8 @@
             "IV. Four Principles of Phenomenology"
           ],
           "anchor": "iv-four-principles-of-phenomenology",
-          "line_start": 285,
-          "line_end": 448,
+          "line_start": 290,
+          "line_end": 453,
           "words": 10067
         },
         {
@@ -15535,8 +15535,8 @@
             "V. Non-Intentional Phenomenology: A Task for the Phenomenology of the Future"
           ],
           "anchor": "v-non-intentional-phenomenology-a-task-for-the-phenomenology-of-the-future",
-          "line_start": 449,
-          "line_end": 516,
+          "line_start": 454,
+          "line_end": 521,
           "words": 5541
         },
         {
@@ -15548,8 +15548,8 @@
             "VI. Phenomenology of Birth"
           ],
           "anchor": "vi-phenomenology-of-birth",
-          "line_start": 517,
-          "line_end": 600,
+          "line_start": 522,
+          "line_end": 605,
           "words": 7161
         },
         {
@@ -15561,8 +15561,8 @@
             "VII. Suffering and Life"
           ],
           "anchor": "vii-suffering-and-life",
-          "line_start": 601,
-          "line_end": 660,
+          "line_start": 606,
+          "line_end": 665,
           "words": 4741
         },
         {
@@ -15574,8 +15574,8 @@
             "VIII. The Problem of Touch"
           ],
           "anchor": "viii-the-problem-of-touch",
-          "line_start": 661,
-          "line_end": 694,
+          "line_start": 666,
+          "line_end": 699,
           "words": 2591
         },
         {
@@ -15587,8 +15587,8 @@
             "IX. Incarnation"
           ],
           "anchor": "ix-incarnation",
-          "line_start": 695,
-          "line_end": 764,
+          "line_start": 700,
+          "line_end": 769,
           "words": 5695
         },
         {
@@ -15600,8 +15600,8 @@
             "X. Philosophy and Phenomenology"
           ],
           "anchor": "x-philosophy-and-phenomenology",
-          "line_start": 765,
-          "line_end": 860,
+          "line_start": 770,
+          "line_end": 865,
           "words": 6019
         },
         {
@@ -15613,8 +15613,8 @@
             "XI. Them in Me: A Phenomenology"
           ],
           "anchor": "xi-them-in-me-a-phenomenology",
-          "line_start": 861,
-          "line_end": 926,
+          "line_start": 866,
+          "line_end": 931,
           "words": 4656
         }
       ]
@@ -53698,15 +53698,15 @@
       ]
     },
     {
-      "slug": "kojève-introduction-à-la-lecture-de-hegel-commentary",
-      "path": "commentaries/kojève/kojève-introduction-à-la-lecture-de-hegel-commentary.md",
-      "author": "kojève",
+      "slug": "kojeve-introduction-a-la-lecture-de-hegel-commentary",
+      "path": "commentaries/kojeve/kojeve-introduction-a-la-lecture-de-hegel-commentary.md",
+      "author": "kojeve",
       "title": "Commentary on Alexandre Kojève, Introduction à la lecture de Hegel",
       "wordpress_id": null,
-      "sha256": "5fe6386c426b8d0d5683b8f01680a81c6e48667c278a0a321848c49002b84dc3",
-      "lines": 3238,
-      "words": 237507,
-      "url": "https://faultynode.github.io/commentaries/commentaries/kojève/kojève-introduction-à-la-lecture-de-hegel-commentary.html",
+      "sha256": "79cf0e8be0b22619f763ada2ad14954ed646daaa5b61d52768ed5eca75b5d379",
+      "lines": 3243,
+      "words": 237512,
+      "url": "https://faultynode.github.io/commentaries/commentaries/kojeve/kojeve-introduction-a-la-lecture-de-hegel-commentary.html",
       "sections": [
         {
           "id": "h1-commentary-on-alexandre-kojeve-introduction-a-la-lecture-de-hegel",
@@ -53716,8 +53716,8 @@
             "Commentary on Alexandre Kojève, Introduction à la lecture de Hegel"
           ],
           "anchor": "commentary-on-alexandre-kojeve-introduction-a-la-lecture-de-hegel",
-          "line_start": 1,
-          "line_end": 8,
+          "line_start": 6,
+          "line_end": 13,
           "words": 446
         },
         {
@@ -53729,8 +53729,8 @@
             "Editor's Note"
           ],
           "anchor": "editors-note",
-          "line_start": 9,
-          "line_end": 12,
+          "line_start": 14,
+          "line_end": 17,
           "words": 219
         },
         {
@@ -53742,8 +53742,8 @@
             "By Way of Introduction"
           ],
           "anchor": "by-way-of-introduction",
-          "line_start": 13,
-          "line_end": 120,
+          "line_start": 18,
+          "line_end": 125,
           "words": 10075
         },
         {
@@ -53755,8 +53755,8 @@
             "Course of the 1933–1934 Academic Year"
           ],
           "anchor": "course-of-the-19331934-academic-year",
-          "line_start": 121,
-          "line_end": 122,
+          "line_start": 126,
+          "line_end": 127,
           "words": 0
         },
         {
@@ -53769,8 +53769,8 @@
             "Preliminary Remarks"
           ],
           "anchor": "preliminary-remarks",
-          "line_start": 123,
-          "line_end": 124,
+          "line_start": 128,
+          "line_end": 129,
           "words": 0
         },
         {
@@ -53784,8 +53784,8 @@
             "The Place of the Phenomenology in the \"System of Science\""
           ],
           "anchor": "the-place-of-the-phenomenology-in-the-system-of-science",
-          "line_start": 125,
-          "line_end": 156,
+          "line_start": 130,
+          "line_end": 161,
           "words": 1568
         },
         {
@@ -53799,8 +53799,8 @@
             "Plan and Structure of the Phenomenology"
           ],
           "anchor": "plan-and-structure-of-the-phenomenology",
-          "line_start": 157,
-          "line_end": 168,
+          "line_start": 162,
+          "line_end": 173,
           "words": 686
         },
         {
@@ -53813,8 +53813,8 @@
             "Commentary on the Phenomenology"
           ],
           "anchor": "commentary-on-the-phenomenology",
-          "line_start": 169,
-          "line_end": 170,
+          "line_start": 174,
+          "line_end": 175,
           "words": 0
         },
         {
@@ -53828,8 +53828,8 @@
             "A. Consciousness (Section A, Chapters I–III)"
           ],
           "anchor": "a-consciousness-section-a-chapters-iiii",
-          "line_start": 171,
-          "line_end": 174,
+          "line_start": 176,
+          "line_end": 179,
           "words": 61
         },
         {
@@ -53844,8 +53844,8 @@
             "I. Sense-Certainty; or the This and Meaning"
           ],
           "anchor": "i-sense-certainty-or-the-this-and-meaning",
-          "line_start": 175,
-          "line_end": 200,
+          "line_start": 180,
+          "line_end": 205,
           "words": 1114
         },
         {
@@ -53860,8 +53860,8 @@
             "II. Perception; or the Thing and Illusion"
           ],
           "anchor": "ii-perception-or-the-thing-and-illusion",
-          "line_start": 201,
-          "line_end": 204,
+          "line_start": 206,
+          "line_end": 209,
           "words": 70
         },
         {
@@ -53876,8 +53876,8 @@
             "III. Force and the Understanding; Appearance and the Supersensible World"
           ],
           "anchor": "iii-force-and-the-understanding-appearance-and-the-supersensible-world",
-          "line_start": 205,
-          "line_end": 222,
+          "line_start": 210,
+          "line_end": 227,
           "words": 961
         },
         {
@@ -53891,8 +53891,8 @@
             "B. Self-Consciousness (Section B)"
           ],
           "anchor": "b-self-consciousness-section-b",
-          "line_start": 223,
-          "line_end": 224,
+          "line_start": 228,
+          "line_end": 229,
           "words": 0
         },
         {
@@ -53907,8 +53907,8 @@
             "The Truth of Self-Certainty (Section B, Chapter IV)"
           ],
           "anchor": "the-truth-of-self-certainty-section-b-chapter-iv",
-          "line_start": 225,
-          "line_end": 242,
+          "line_start": 230,
+          "line_end": 247,
           "words": 900
         },
         {
@@ -53924,8 +53924,8 @@
             "Independence and Dependence of Self-Consciousness; Lordship and Bondage (Chapter IV, subdivision A): Recognition, or the Doubling of Self-Consciousness"
           ],
           "anchor": "independence-and-dependence-of-self-consciousness-lordship-and-bondage-chapter-iv-subdivision-a-recognition-or-the-doubling-of-self-consciousness",
-          "line_start": 243,
-          "line_end": 298,
+          "line_start": 248,
+          "line_end": 303,
           "words": 2643
         },
         {
@@ -53938,8 +53938,8 @@
             "Summary of the 1933–1934 Course"
           ],
           "anchor": "summary-of-the-19331934-course",
-          "line_start": 299,
-          "line_end": 306,
+          "line_start": 304,
+          "line_end": 311,
           "words": 513
         },
         {
@@ -53951,8 +53951,8 @@
             "Course of the 1934–1935 Academic Year"
           ],
           "anchor": "course-of-the-19341935-academic-year",
-          "line_start": 307,
-          "line_end": 308,
+          "line_start": 312,
+          "line_end": 313,
           "words": 0
         },
         {
@@ -53965,8 +53965,8 @@
             "Freedom of Self-Consciousness (Chapter IV, subdivision B)"
           ],
           "anchor": "freedom-of-self-consciousness-chapter-iv-subdivision-b",
-          "line_start": 309,
-          "line_end": 428,
+          "line_start": 314,
+          "line_end": 433,
           "words": 6925
         },
         {
@@ -53979,8 +53979,8 @@
             "Summary of the 1934–1935 Course"
           ],
           "anchor": "summary-of-the-19341935-course",
-          "line_start": 429,
-          "line_end": 444,
+          "line_start": 434,
+          "line_end": 449,
           "words": 983
         },
         {
@@ -53992,8 +53992,8 @@
             "Course of the 1935–1936 Academic Year"
           ],
           "anchor": "course-of-the-19351936-academic-year",
-          "line_start": 445,
-          "line_end": 446,
+          "line_start": 450,
+          "line_end": 451,
           "words": 0
         },
         {
@@ -54006,8 +54006,8 @@
             "Reason (Section C, Chapters V–VIII)"
           ],
           "anchor": "reason-section-c-chapters-vviii",
-          "line_start": 447,
-          "line_end": 448,
+          "line_start": 452,
+          "line_end": 453,
           "words": 0
         },
         {
@@ -54021,8 +54021,8 @@
             "I. Certainty and Truth of Reason (Section C, Chapter V)"
           ],
           "anchor": "i-certainty-and-truth-of-reason-section-c-chapter-v",
-          "line_start": 449,
-          "line_end": 492,
+          "line_start": 454,
+          "line_end": 497,
           "words": 1762
         },
         {
@@ -54037,8 +54037,8 @@
             "A. Observing Reason"
           ],
           "anchor": "a-observing-reason",
-          "line_start": 493,
-          "line_end": 516,
+          "line_start": 498,
+          "line_end": 521,
           "words": 1162
         },
         {
@@ -54053,8 +54053,8 @@
             "B. The Actualisation of Rational Self-Consciousness through Itself"
           ],
           "anchor": "b-the-actualisation-of-rational-self-consciousness-through-itself",
-          "line_start": 517,
-          "line_end": 592,
+          "line_start": 522,
+          "line_end": 597,
           "words": 3312
         },
         {
@@ -54069,8 +54069,8 @@
             "C. Individuality Which Takes Itself to Be Real in and for Itself"
           ],
           "anchor": "c-individuality-which-takes-itself-to-be-real-in-and-for-itself",
-          "line_start": 593,
-          "line_end": 668,
+          "line_start": 598,
+          "line_end": 673,
           "words": 3556
         },
         {
@@ -54084,8 +54084,8 @@
             "Introduction to Chapters VI–VIII"
           ],
           "anchor": "introduction-to-chapters-viviii",
-          "line_start": 669,
-          "line_end": 674,
+          "line_start": 674,
+          "line_end": 679,
           "words": 304
         },
         {
@@ -54099,8 +54099,8 @@
             "II. Spirit (Section C, Chapter VI)"
           ],
           "anchor": "ii-spirit-section-c-chapter-vi",
-          "line_start": 675,
-          "line_end": 690,
+          "line_start": 680,
+          "line_end": 695,
           "words": 744
         },
         {
@@ -54115,8 +54115,8 @@
             "A. The True Spirit; Ethical Life"
           ],
           "anchor": "a-the-true-spirit-ethical-life",
-          "line_start": 691,
-          "line_end": 782,
+          "line_start": 696,
+          "line_end": 787,
           "words": 3918
         },
         {
@@ -54129,8 +54129,8 @@
             "Summary of the 1935–1936 Course"
           ],
           "anchor": "summary-of-the-19351936-course",
-          "line_start": 783,
-          "line_end": 798,
+          "line_start": 788,
+          "line_end": 803,
           "words": 1026
         },
         {
@@ -54142,8 +54142,8 @@
             "Course of the 1936–1937 Academic Year"
           ],
           "anchor": "course-of-the-19361937-academic-year",
-          "line_start": 799,
-          "line_end": 800,
+          "line_start": 804,
+          "line_end": 805,
           "words": 0
         },
         {
@@ -54156,8 +54156,8 @@
             "B. Self-Alienated Spirit; Culture (Chapter VI, B)"
           ],
           "anchor": "b-self-alienated-spirit-culture-chapter-vi-b",
-          "line_start": 801,
-          "line_end": 840,
+          "line_start": 806,
+          "line_end": 845,
           "words": 2604
         },
         {
@@ -54171,8 +54171,8 @@
             "I. The World of Self-Alienated Spirit"
           ],
           "anchor": "i-the-world-of-self-alienated-spirit",
-          "line_start": 841,
-          "line_end": 1014,
+          "line_start": 846,
+          "line_end": 1019,
           "words": 8812
         },
         {
@@ -54186,8 +54186,8 @@
             "II. The Enlightenment"
           ],
           "anchor": "ii-the-enlightenment",
-          "line_start": 1015,
-          "line_end": 1068,
+          "line_start": 1020,
+          "line_end": 1073,
           "words": 3312
         },
         {
@@ -54201,8 +54201,8 @@
             "III. Absolute Freedom and Terror"
           ],
           "anchor": "iii-absolute-freedom-and-terror",
-          "line_start": 1069,
-          "line_end": 1106,
+          "line_start": 1074,
+          "line_end": 1111,
           "words": 2114
         },
         {
@@ -54216,8 +54216,8 @@
             "C. Spirit Certain of Itself; Morality"
           ],
           "anchor": "c-spirit-certain-of-itself-morality",
-          "line_start": 1107,
-          "line_end": 1184,
+          "line_start": 1112,
+          "line_end": 1189,
           "words": 4786
         },
         {
@@ -54230,8 +54230,8 @@
             "Summary of the 1936–1937 Course"
           ],
           "anchor": "summary-of-the-19361937-course",
-          "line_start": 1185,
-          "line_end": 1200,
+          "line_start": 1190,
+          "line_end": 1205,
           "words": 1114
         },
         {
@@ -54243,8 +54243,8 @@
             "Course of the 1937–1938 Academic Year"
           ],
           "anchor": "course-of-the-19371938-academic-year",
-          "line_start": 1201,
-          "line_end": 1202,
+          "line_start": 1206,
+          "line_end": 1207,
           "words": 0
         },
         {
@@ -54257,8 +54257,8 @@
             "Summary of the First Six Chapters of the Phenomenology of Spirit"
           ],
           "anchor": "summary-of-the-first-six-chapters-of-the-phenomenology-of-spirit",
-          "line_start": 1203,
-          "line_end": 1454,
+          "line_start": 1208,
+          "line_end": 1459,
           "words": 17029
         },
         {
@@ -54271,8 +54271,8 @@
             "Interpretation of the General Introduction to Chapter VII (Hoffmeister pp. 473–480)"
           ],
           "anchor": "interpretation-of-the-general-introduction-to-chapter-vii-hoffmeister-pp-473480",
-          "line_start": 1455,
-          "line_end": 1622,
+          "line_start": 1460,
+          "line_end": 1627,
           "words": 11604
         },
         {
@@ -54285,8 +54285,8 @@
             "A. Natural Religion (Hoffmeister pp. 481–489)"
           ],
           "anchor": "a-natural-religion-hoffmeister-pp-481489",
-          "line_start": 1623,
-          "line_end": 1624,
+          "line_start": 1628,
+          "line_end": 1629,
           "words": 0
         },
         {
@@ -54300,8 +54300,8 @@
             "Interpretation of the Introduction to Section A of Chapter VII (Hoffmeister pp. 481–483)"
           ],
           "anchor": "interpretation-of-the-introduction-to-section-a-of-chapter-vii-hoffmeister-pp-481483",
-          "line_start": 1625,
-          "line_end": 1738,
+          "line_start": 1630,
+          "line_end": 1743,
           "words": 5763
         },
         {
@@ -54314,8 +54314,8 @@
             "B. The Art-Religion (Hoffmeister pp. 490–520)"
           ],
           "anchor": "b-the-art-religion-hoffmeister-pp-490520",
-          "line_start": 1739,
-          "line_end": 1828,
+          "line_start": 1744,
+          "line_end": 1833,
           "words": 5647
         },
         {
@@ -54328,8 +54328,8 @@
             "C. The Revealed Religion (Hoffmeister pp. 521–548)"
           ],
           "anchor": "c-the-revealed-religion-hoffmeister-pp-521548",
-          "line_start": 1829,
-          "line_end": 1876,
+          "line_start": 1834,
+          "line_end": 1881,
           "words": 3452
         },
         {
@@ -54342,8 +54342,8 @@
             "Summary of the 1937–1938 Course"
           ],
           "anchor": "summary-of-the-19371938-course",
-          "line_start": 1877,
-          "line_end": 1888,
+          "line_start": 1882,
+          "line_end": 1893,
           "words": 889
         },
         {
@@ -54355,8 +54355,8 @@
             "Course of the 1938–1939 Academic Year"
           ],
           "anchor": "course-of-the-19381939-academic-year",
-          "line_start": 1889,
-          "line_end": 1892,
+          "line_start": 1894,
+          "line_end": 1897,
           "words": 51
         },
         {
@@ -54369,8 +54369,8 @@
             "First Lecture: Introduction: Philosophy and Wisdom"
           ],
           "anchor": "first-lecture-introduction-philosophy-and-wisdom",
-          "line_start": 1893,
-          "line_end": 1962,
+          "line_start": 1898,
+          "line_end": 1967,
           "words": 4860
         },
         {
@@ -54383,8 +54383,8 @@
             "Second Lecture: Introduction: Philosophy and Wisdom (Continued and Concluded)"
           ],
           "anchor": "second-lecture-introduction-philosophy-and-wisdom-continued-and-concluded",
-          "line_start": 1963,
-          "line_end": 2010,
+          "line_start": 1968,
+          "line_end": 2015,
           "words": 3854
         },
         {
@@ -54397,8 +54397,8 @@
             "Third Lecture: Interpretation of the Introduction to Chapter VIII (Hoffmeister pp. 549–550)"
           ],
           "anchor": "third-lecture-interpretation-of-the-introduction-to-chapter-viii-hoffmeister-pp-549550",
-          "line_start": 2011,
-          "line_end": 2094,
+          "line_start": 2016,
+          "line_end": 2099,
           "words": 6178
         },
         {
@@ -54411,8 +54411,8 @@
             "Fourth Lecture: Interpretation of the First Part of Chapter VIII (Hoffmeister pp. 550, l. 11 – 559, l. 9)"
           ],
           "anchor": "fourth-lecture-interpretation-of-the-first-part-of-chapter-viii-hoffmeister-pp-550-l-11--559-l-9",
-          "line_start": 2095,
-          "line_end": 2170,
+          "line_start": 2100,
+          "line_end": 2175,
           "words": 5889
         },
         {
@@ -54425,8 +54425,8 @@
             "Fifth Lecture: Interpretation of the Second Part of Chapter VIII (Hoffmeister pp. 556, l. 10 – 561, l. 27)"
           ],
           "anchor": "fifth-lecture-interpretation-of-the-second-part-of-chapter-viii-hoffmeister-pp-556-l-10--561-l-27",
-          "line_start": 2171,
-          "line_end": 2258,
+          "line_start": 2176,
+          "line_end": 2263,
           "words": 6186
         },
         {
@@ -54439,8 +54439,8 @@
             "Sixth Lecture: Note on Eternity, Time, and the Concept (cf. Hoffmeister p. 558, ll. 3–4)"
           ],
           "anchor": "sixth-lecture-note-on-eternity-time-and-the-concept-cf-hoffmeister-p-558-ll-34",
-          "line_start": 2259,
-          "line_end": 2318,
+          "line_start": 2264,
+          "line_end": 2323,
           "words": 4789
         },
         {
@@ -54453,8 +54453,8 @@
             "Seventh Lecture: Note on Eternity, Time, and the Concept (Continued)"
           ],
           "anchor": "seventh-lecture-note-on-eternity-time-and-the-concept-continued",
-          "line_start": 2319,
-          "line_end": 2398,
+          "line_start": 2324,
+          "line_end": 2403,
           "words": 6535
         },
         {
@@ -54467,8 +54467,8 @@
             "Eighth Lecture: Note on Eternity, Time, and the Concept (Continued and Concluded)"
           ],
           "anchor": "eighth-lecture-note-on-eternity-time-and-the-concept-continued-and-concluded",
-          "line_start": 2399,
-          "line_end": 2486,
+          "line_start": 2404,
+          "line_end": 2491,
           "words": 8975
         },
         {
@@ -54481,8 +54481,8 @@
             "Ninth Lecture: Interpretation of the Second Part of Chapter VIII (Continued)"
           ],
           "anchor": "ninth-lecture-interpretation-of-the-second-part-of-chapter-viii-continued",
-          "line_start": 2487,
-          "line_end": 2566,
+          "line_start": 2492,
+          "line_end": 2571,
           "words": 6922
         },
         {
@@ -54495,8 +54495,8 @@
             "Tenth Lecture: Interpretation of the Second Part of Chapter VIII (Continued and Concluded)"
           ],
           "anchor": "tenth-lecture-interpretation-of-the-second-part-of-chapter-viii-continued-and-concluded",
-          "line_start": 2567,
-          "line_end": 2640,
+          "line_start": 2572,
+          "line_end": 2645,
           "words": 6746
         },
         {
@@ -54509,8 +54509,8 @@
             "Eleventh Lecture: Interpretation of the Third Part of Chapter VIII (Hoffmeister pp. 561, l. 28 – 564)"
           ],
           "anchor": "eleventh-lecture-interpretation-of-the-third-part-of-chapter-viii-hoffmeister-pp-561-l-28--564",
-          "line_start": 2641,
-          "line_end": 2708,
+          "line_start": 2646,
+          "line_end": 2713,
           "words": 6710
         },
         {
@@ -54523,8 +54523,8 @@
             "Twelfth Lecture: Interpretation of the Third Part of Chapter VIII (Continued and Concluded)"
           ],
           "anchor": "twelfth-lecture-interpretation-of-the-third-part-of-chapter-viii-continued-and-concluded",
-          "line_start": 2709,
-          "line_end": 2776,
+          "line_start": 2714,
+          "line_end": 2781,
           "words": 8070
         },
         {
@@ -54536,8 +54536,8 @@
             "Appendices"
           ],
           "anchor": "appendices",
-          "line_start": 2777,
-          "line_end": 2778,
+          "line_start": 2782,
+          "line_end": 2783,
           "words": 0
         },
         {
@@ -54550,8 +54550,8 @@
             "Appendix I: The Dialectic of the Real and the Phenomenological Method in Hegel"
           ],
           "anchor": "appendix-i-the-dialectic-of-the-real-and-the-phenomenological-method-in-hegel",
-          "line_start": 2779,
-          "line_end": 3152,
+          "line_start": 2784,
+          "line_end": 3157,
           "words": 42194
         },
         {
@@ -54564,8 +54564,8 @@
             "Appendix II: The Idea of Death in the Philosophy of Hegel"
           ],
           "anchor": "appendix-ii-the-idea-of-death-in-the-philosophy-of-hegel",
-          "line_start": 3153,
-          "line_end": 3238,
+          "line_start": 3158,
+          "line_end": 3243,
           "words": 8932
         }
       ]
@@ -57439,15 +57439,15 @@
       ]
     },
     {
-      "slug": "Reduction et donation Commentary",
-      "path": "commentaries/marion/Reduction et donation Commentary.md",
+      "slug": "marion-reduction-et-donation-commentary",
+      "path": "commentaries/marion/marion-reduction-et-donation-commentary.md",
       "author": "marion",
       "title": "Commentary on Jean-Luc Marion, Réduction et donation: Recherches sur Husserl, Heidegger et la phénoménologie",
       "wordpress_id": null,
-      "sha256": "ff0359d74db4c22aeaa69aeaf5b82a675759dd7561fcefd6af6d5e9d95352ca6",
-      "lines": 296,
-      "words": 49682,
-      "url": "https://faultynode.github.io/commentaries/commentaries/marion/Reduction et donation Commentary.html",
+      "sha256": "c55a5c398571bf454524922566f75b5146259308213de514cc2b1cba053d9b91",
+      "lines": 301,
+      "words": 49690,
+      "url": "https://faultynode.github.io/commentaries/commentaries/marion/marion-reduction-et-donation-commentary.html",
       "sections": [
         {
           "id": "h1-commentary-on-jean-luc-marion-reduction-et-donation-recherches-sur-husserl-heide",
@@ -57457,8 +57457,8 @@
             "Commentary on Jean-Luc Marion, Réduction et donation: Recherches sur Husserl, Heidegger et la phénoménologie"
           ],
           "anchor": "commentary-on-jean-luc-marion-reduction-et-donation-recherches-sur-husserl-heidegger-et-la-phenomenologie",
-          "line_start": 1,
-          "line_end": 6,
+          "line_start": 6,
+          "line_end": 11,
           "words": 197
         },
         {
@@ -57470,8 +57470,8 @@
             "Foreword"
           ],
           "anchor": "foreword",
-          "line_start": 7,
-          "line_end": 12,
+          "line_start": 12,
+          "line_end": 17,
           "words": 323
         },
         {
@@ -57483,8 +57483,8 @@
             "Phenomenology as Such"
           ],
           "anchor": "phenomenology-as-such",
-          "line_start": 13,
-          "line_end": 28,
+          "line_start": 18,
+          "line_end": 33,
           "words": 979
         },
         {
@@ -57496,8 +57496,8 @@
             "I. The Breakthrough and the Enlargement"
           ],
           "anchor": "i-the-breakthrough-and-the-enlargement",
-          "line_start": 29,
-          "line_end": 30,
+          "line_start": 34,
+          "line_end": 35,
           "words": 0
         },
         {
@@ -57510,8 +57510,8 @@
             "1 - Two Interpretations and an Enlargement"
           ],
           "anchor": "two-interpretations-and-an-enlargement",
-          "line_start": 31,
-          "line_end": 42,
+          "line_start": 36,
+          "line_end": 47,
           "words": 1640
         },
         {
@@ -57524,8 +57524,8 @@
             "2 - The Domains of Intuition"
           ],
           "anchor": "the-domains-of-intuition",
-          "line_start": 43,
-          "line_end": 52,
+          "line_start": 48,
+          "line_end": 57,
           "words": 1293
         },
         {
@@ -57538,8 +57538,8 @@
             "3 - The Accomplishment of Presence"
           ],
           "anchor": "the-accomplishment-of-presence",
-          "line_start": 53,
-          "line_end": 60,
+          "line_start": 58,
+          "line_end": 65,
           "words": 1155
         },
         {
@@ -57552,8 +57552,8 @@
             "4 - A Misconstrual of Signification?"
           ],
           "anchor": "a-misconstrual-of-signification",
-          "line_start": 61,
-          "line_end": 66,
+          "line_start": 66,
+          "line_end": 71,
           "words": 1066
         },
         {
@@ -57566,8 +57566,8 @@
             "5 - Presence without Intuition"
           ],
           "anchor": "presence-without-intuition",
-          "line_start": 67,
-          "line_end": 78,
+          "line_start": 72,
+          "line_end": 83,
           "words": 2037
         },
         {
@@ -57580,8 +57580,8 @@
             "6 - The Evidence of Givenness"
           ],
           "anchor": "the-evidence-of-givenness",
-          "line_start": 79,
-          "line_end": 88,
+          "line_start": 84,
+          "line_end": 93,
           "words": 2182
         },
         {
@@ -57594,8 +57594,8 @@
             "7 - Givenness as Question"
           ],
           "anchor": "givenness-as-question",
-          "line_start": 89,
-          "line_end": 98,
+          "line_start": 94,
+          "line_end": 103,
           "words": 1648
         },
         {
@@ -57607,8 +57607,8 @@
             "II. The Entity and the Phenomenon"
           ],
           "anchor": "ii-the-entity-and-the-phenomenon",
-          "line_start": 99,
-          "line_end": 100,
+          "line_start": 104,
+          "line_end": 105,
           "words": 0
         },
         {
@@ -57621,8 +57621,8 @@
             "1 - Putting Ontology Out of Play"
           ],
           "anchor": "putting-ontology-out-of-play",
-          "line_start": 101,
-          "line_end": 106,
+          "line_start": 106,
+          "line_end": 111,
           "words": 960
         },
         {
@@ -57635,8 +57635,8 @@
             "2 - The Method of Ontology"
           ],
           "anchor": "the-method-of-ontology",
-          "line_start": 107,
-          "line_end": 114,
+          "line_start": 112,
+          "line_end": 119,
           "words": 1826
         },
         {
@@ -57649,8 +57649,8 @@
             "3 - The \"Reduced Phenomenon,\" Reduced to Present Objectivity"
           ],
           "anchor": "the-reduced-phenomenon-reduced-to-present-objectivity",
-          "line_start": 115,
-          "line_end": 122,
+          "line_start": 120,
+          "line_end": 127,
           "words": 2612
         },
         {
@@ -57663,8 +57663,8 @@
             "4 - From the Inapparent Phenomenon to the \"Phenomenon of Being\""
           ],
           "anchor": "from-the-inapparent-phenomenon-to-the-phenomenon-of-being",
-          "line_start": 123,
-          "line_end": 132,
+          "line_start": 128,
+          "line_end": 137,
           "words": 1855
         },
         {
@@ -57677,8 +57677,8 @@
             "5 - The Two Senses of the Reduction"
           ],
           "anchor": "the-two-senses-of-the-reduction",
-          "line_start": 133,
-          "line_end": 138,
+          "line_start": 138,
+          "line_end": 143,
           "words": 1867
         },
         {
@@ -57691,8 +57691,8 @@
             "6 - The Redoubled Reduction — Dasein"
           ],
           "anchor": "the-redoubled-reduction--dasein",
-          "line_start": 139,
-          "line_end": 146,
+          "line_start": 144,
+          "line_end": 151,
           "words": 1606
         },
         {
@@ -57705,8 +57705,8 @@
             "7 - The Redoubled Reduction — the Nothing"
           ],
           "anchor": "the-redoubled-reduction--the-nothing",
-          "line_start": 147,
-          "line_end": 154,
+          "line_start": 152,
+          "line_end": 159,
           "words": 2074
         },
         {
@@ -57718,8 +57718,8 @@
             "III. The Ego and Dasein"
           ],
           "anchor": "iii-the-ego-and-dasein",
-          "line_start": 155,
-          "line_end": 156,
+          "line_start": 160,
+          "line_end": 161,
           "words": 0
         },
         {
@@ -57732,8 +57732,8 @@
             "1 - The Figure of Descartes in Heidegger's Itinerary"
           ],
           "anchor": "the-figure-of-descartes-in-heideggers-itinerary",
-          "line_start": 157,
-          "line_end": 166,
+          "line_start": 162,
+          "line_end": 171,
           "words": 963
         },
         {
@@ -57746,8 +57746,8 @@
             "2 - The Phenomenological Motive of the Original Confrontation"
           ],
           "anchor": "the-phenomenological-motive-of-the-original-confrontation",
-          "line_start": 167,
-          "line_end": 178,
+          "line_start": 172,
+          "line_end": 183,
           "words": 1782
         },
         {
@@ -57760,8 +57760,8 @@
             "3 - The First Failure: The Indeterminacy of the \"ego sum\""
           ],
           "anchor": "the-first-failure-the-indeterminacy-of-the-ego-sum",
-          "line_start": 179,
-          "line_end": 186,
+          "line_start": 184,
+          "line_end": 191,
           "words": 1571
         },
         {
@@ -57774,8 +57774,8 @@
             "4 - The Second Failure: The Permanence of the Intraworldly Entity"
           ],
           "anchor": "the-second-failure-the-permanence-of-the-intraworldly-entity",
-          "line_start": 187,
-          "line_end": 194,
+          "line_start": 192,
+          "line_end": 199,
           "words": 1614
         },
         {
@@ -57788,8 +57788,8 @@
             "5 - Dasein as \"Destruction\" of the \"ego\""
           ],
           "anchor": "dasein-as-destruction-of-the-ego",
-          "line_start": 195,
-          "line_end": 202,
+          "line_start": 200,
+          "line_end": 207,
           "words": 1959
         },
         {
@@ -57802,8 +57802,8 @@
             "6 - Dasein as Confirmation of the \"ego\""
           ],
           "anchor": "dasein-as-confirmation-of-the-ego",
-          "line_start": 203,
-          "line_end": 214,
+          "line_start": 208,
+          "line_end": 219,
           "words": 2151
         },
         {
@@ -57816,8 +57816,8 @@
             "7 - The Repetition of the \"ego\""
           ],
           "anchor": "the-repetition-of-the-ego",
-          "line_start": 215,
-          "line_end": 224,
+          "line_start": 220,
+          "line_end": 229,
           "words": 1944
         },
         {
@@ -57829,8 +57829,8 @@
             "IV. The Question of Being or Ontological Difference"
           ],
           "anchor": "iv-the-question-of-being-or-ontological-difference",
-          "line_start": 225,
-          "line_end": 226,
+          "line_start": 230,
+          "line_end": 231,
           "words": 0
         },
         {
@@ -57843,8 +57843,8 @@
             "1 - The Breakthrough and the Difference: Sein und Zeit"
           ],
           "anchor": "the-breakthrough-and-the-difference-sein-und-zeit",
-          "line_start": 227,
-          "line_end": 232,
+          "line_start": 232,
+          "line_end": 237,
           "words": 842
         },
         {
@@ -57857,8 +57857,8 @@
             "2 - Emergence and Delay"
           ],
           "anchor": "emergence-and-delay",
-          "line_start": 233,
-          "line_end": 238,
+          "line_start": 238,
+          "line_end": 243,
           "words": 1539
         },
         {
@@ -57871,8 +57871,8 @@
             "3 - The Occurrences and the Notes"
           ],
           "anchor": "the-occurrences-and-the-notes",
-          "line_start": 239,
-          "line_end": 250,
+          "line_start": 244,
+          "line_end": 255,
           "words": 1911
         },
         {
@@ -57885,8 +57885,8 @@
             "4 - The Most Cardinal Unthought"
           ],
           "anchor": "the-most-cardinal-unthought",
-          "line_start": 251,
-          "line_end": 262,
+          "line_start": 256,
+          "line_end": 267,
           "words": 2029
         },
         {
@@ -57899,8 +57899,8 @@
             "5 - The Irreducibility of the \"Question of Being\" to \"Ontological Difference\""
           ],
           "anchor": "the-irreducibility-of-the-question-of-being-to-ontological-difference",
-          "line_start": 263,
-          "line_end": 274,
+          "line_start": 268,
+          "line_end": 279,
           "words": 2379
         },
         {
@@ -57913,8 +57913,8 @@
             "6 - The Ontic Primacy of the Question of Being as Interrogation"
           ],
           "anchor": "the-ontic-primacy-of-the-question-of-being-as-interrogation",
-          "line_start": 275,
-          "line_end": 284,
+          "line_start": 280,
+          "line_end": 289,
           "words": 1269
         },
         {
@@ -57927,8 +57927,8 @@
             "7 - The Misconstrual of Ontological Difference by \"Ontological Difference\""
           ],
           "anchor": "the-misconstrual-of-ontological-difference-by-ontological-difference",
-          "line_start": 285,
-          "line_end": 296,
+          "line_start": 290,
+          "line_end": 301,
           "words": 2109
         }
       ]

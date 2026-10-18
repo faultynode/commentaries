@@ -3208,12 +3208,12 @@
 
 *Where the theme's terms occur but no extraction pass has run. Silence in the sections above is silence about these files, not evidence of absence in them.*
 
-- `kojève-introduction-à-la-lecture-de-hegel-commentary` - 167 term hits, no record
+- `kojeve-introduction-a-la-lecture-de-hegel-commentary` - 167 term hits, no record
 - `henry-genealogie-de-la-psychanalyse-commentary` - 123 term hits, no record
 - `franck-chair-et-corps-commentary` - 97 term hits, no record
-- `henry-phenomenologie-de-la vie-1-commentary` - 84 term hits, no record
+- `henry-phenomenologie-de-la-vie-1-commentary` - 84 term hits, no record
 - `marion-sur-le-prisme-metaphysique-de-descartes-commentary` - 84 term hits, no record
-- `Reduction et donation Commentary` - 80 term hits, no record
+- `marion-reduction-et-donation-commentary` - 80 term hits, no record
 - `heidegger-sein-und-zeit-commentary` - 62 term hits, no record
 - `henry-phenomenologie-de-la-vie-2-commentary` - 56 term hits, no record
 - `derrida-introduction-a-lorigine-de-la-geometrie-commentary` - 46 term hits, no record
@@ -3225,15 +3225,15 @@
 - `picht-de-anima-commentary` - 9 term hits, no record
 - `kant-kritik-der-reinen-vernunft-commentary` - 6 term hits, no record
 - `fichte-science-of-knowing-commentary` - 5 term hits, no record
-- `Discours de la methode Commentary` - 4 term hits, no record
+- `descartes-discours-de-la-methode-commentary` - 4 term hits, no record
 - `franck-heidegger-and-the-problem-of-space-commentary` - 4 term hits, no record
 - `lacan-seminar-1-freuds-papers-on-technique-commentary` - 4 term hits, no record
 - `lacan-seminar-11-the-four-fundamental-concepts-of-psychoanalysis-commentary` - 4 term hits, no record
 - `aristotle-de-anima-commentary` - 3 term hits, no record
 - `heidegger-ga-17-einfuhrung-in-die-phanomenologische-forschung-commentary` - 3 term hits, no record
 - `heidegger-ga-5-hegels-begriff-der-erfahrung-commentary` - 3 term hits, no record
-- `Passions de l ame Commentary` - 2 term hits, no record
 - `derrida-la-voix-et-le-phenomene-commentary` - 2 term hits, no record
+- `descartes-passions-de-lame-commentary` - 2 term hits, no record
 - `heidegger-ga-19-platon-sophistes-commentary` - 2 term hits, no record
 - `leibniz-monadology-commentary` - 2 term hits, no record
 - `freud-das-unbewusste-commentary` - 1 term hit, no record

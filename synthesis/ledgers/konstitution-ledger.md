@@ -1556,67 +1556,67 @@
 
 - **introduced** · `konstitution/franck/001` · *constitution*
   Constitution as Leistung brings to light the synthetic unity of the acts of consciousness and concerns all possible types of objects, first of all the possibility of objects in general.
-  `franck-chair-et-corps-commentary#h2-chapter-four-constitutive-analysis` · [Chapter Four: Constitutive Analysis](https://faultynode.github.io/commentaries/commentaries/fanck/franck-chair-et-corps-commentary.html#chapter-four-constitutive-analysis)
+  `franck-chair-et-corps-commentary#h2-chapter-four-constitutive-analysis` · [Chapter Four: Constitutive Analysis](https://faultynode.github.io/commentaries/commentaries/franck/franck-chair-et-corps-commentary.html#chapter-four-constitutive-analysis)
   > brings to light the synthetic unity of the various acts of consciousness, delivers the object over to a pure regard, and concerns all possible types of objects, including, first of all, the possibility of objects in general.
 
 - **introduced** · `konstitution/franck/002` · *self-constitution*
   Constitution extends as far as the self-constitution of the ego, and constitutive syntheses define the field of all transcendental phenomenology.
-  `franck-chair-et-corps-commentary#h2-chapter-four-constitutive-analysis` · [Chapter Four: Constitutive Analysis](https://faultynode.github.io/commentaries/commentaries/fanck/franck-chair-et-corps-commentary.html#chapter-four-constitutive-analysis)
+  `franck-chair-et-corps-commentary#h2-chapter-four-constitutive-analysis` · [Chapter Four: Constitutive Analysis](https://faultynode.github.io/commentaries/commentaries/franck/franck-chair-et-corps-commentary.html#chapter-four-constitutive-analysis)
   > Constitution thus extends as far as the self-constitution of the ego, and constitutive syntheses define the field of all transcendental phenomenology.
 
 - **presupposed** · `konstitution/franck/003` · *constitution of the object*
   The constitution of the object as formal ontology is the basis for the hierarchy of a priori levels and so for the material and regional ontologies.
-  `franck-chair-et-corps-commentary#h2-chapter-four-constitutive-analysis` · [Chapter Four: Constitutive Analysis](https://faultynode.github.io/commentaries/commentaries/fanck/franck-chair-et-corps-commentary.html#chapter-four-constitutive-analysis)
+  `franck-chair-et-corps-commentary#h2-chapter-four-constitutive-analysis` · [Chapter Four: Constitutive Analysis](https://faultynode.github.io/commentaries/commentaries/franck/franck-chair-et-corps-commentary.html#chapter-four-constitutive-analysis)
   > The constitution of the object — formal ontology — is the basis for the hierarchy of *a priori* levels and thus for material and regional ontologies
 
 - **introduced** · `konstitution/franck/004` · *constitution of the ego*
   The constitution of temporality leads back to the constitution of the ego itself, without which the task of constitution would suffer from lacunae.
-  `franck-chair-et-corps-commentary#h2-chapter-five-eidetic-reduction-and-archi-facticity` · [Chapter Five: Eidetic Reduction and Archi-Facticity](https://faultynode.github.io/commentaries/commentaries/fanck/franck-chair-et-corps-commentary.html#chapter-five-eidetic-reduction-and-archi-facticity)
+  `franck-chair-et-corps-commentary#h2-chapter-five-eidetic-reduction-and-archi-facticity` · [Chapter Five: Eidetic Reduction and Archi-Facticity](https://faultynode.github.io/commentaries/commentaries/franck/franck-chair-et-corps-commentary.html#chapter-five-eidetic-reduction-and-archi-facticity)
   > The constitution of temporality leads back to the constitution of the ego itself. Without it, the task of constitution would suffer from lacunae.
 
 - **revised** · `konstitution/franck/005` · *absolute ipseity*
   If to constitute is always to unify, the unifying principle cannot itself be constituted: it is presupposed by all constitution and given as absolute ipseity.
-  `franck-chair-et-corps-commentary#h2-chapter-five-eidetic-reduction-and-archi-facticity` · [Chapter Five: Eidetic Reduction and Archi-Facticity](https://faultynode.github.io/commentaries/commentaries/fanck/franck-chair-et-corps-commentary.html#chapter-five-eidetic-reduction-and-archi-facticity)
+  `franck-chair-et-corps-commentary#h2-chapter-five-eidetic-reduction-and-archi-facticity` · [Chapter Five: Eidetic Reduction and Archi-Facticity](https://faultynode.github.io/commentaries/commentaries/franck/franck-chair-et-corps-commentary.html#chapter-five-eidetic-reduction-and-archi-facticity)
   > If to constitute is always to unify, then the unifying principle cannot itself be constituted. It must therefore appear as something presupposed by all constitution and as something given in every lived experience as absolutely identical: namely, *absolute ipseity*.
 
 - **revised** · `konstitution/franck/006` · *constitution in general*
   Withdrawing the ego from the constitution of objects does not withdraw it from constitution in general; the transcendentally absolute itself constitutes itself in a peculiar sense.
-  `franck-chair-et-corps-commentary#h2-chapter-five-eidetic-reduction-and-archi-facticity` · [Chapter Five: Eidetic Reduction and Archi-Facticity](https://faultynode.github.io/commentaries/commentaries/fanck/franck-chair-et-corps-commentary.html#chapter-five-eidetic-reduction-and-archi-facticity)
+  `franck-chair-et-corps-commentary#h2-chapter-five-eidetic-reduction-and-archi-facticity` · [Chapter Five: Eidetic Reduction and Archi-Facticity](https://faultynode.github.io/commentaries/commentaries/franck/franck-chair-et-corps-commentary.html#chapter-five-eidetic-reduction-and-archi-facticity)
   > To withdraw the ego from one type of constitution — the constitution of objects — is not to withdraw it from constitution in general.
 
 - **introduced** · `konstitution/franck/007` · *constitutive system*
   The constitutive system of all objects in general is based on the constitution of the authority for which there are objects, namely transcendental subjectivity.
-  `franck-chair-et-corps-commentary#h2-chapter-six-phenomenological-idealism` · [Chapter Six: Phenomenological Idealism](https://faultynode.github.io/commentaries/commentaries/fanck/franck-chair-et-corps-commentary.html#chapter-six-phenomenological-idealism)
+  `franck-chair-et-corps-commentary#h2-chapter-six-phenomenological-idealism` · [Chapter Six: Phenomenological Idealism](https://faultynode.github.io/commentaries/commentaries/franck/franck-chair-et-corps-commentary.html#chapter-six-phenomenological-idealism)
   > the constitutive system of all objects in general is based on the constitution of the authority for which there are objects — namely, transcendental subjectivity.
 
 - **criticized** · `konstitution/franck/008` · *pre-constituted*
   The objection is that the ego is always found in a pre-constituted world whose ontological type is known by all, and which supplies the guiding thread for describing transcendental subjectivity.
-  `franck-chair-et-corps-commentary#h2-chapter-six-phenomenological-idealism` · [Chapter Six: Phenomenological Idealism](https://faultynode.github.io/commentaries/commentaries/fanck/franck-chair-et-corps-commentary.html#chapter-six-phenomenological-idealism)
+  `franck-chair-et-corps-commentary#h2-chapter-six-phenomenological-idealism` · [Chapter Six: Phenomenological Idealism](https://faultynode.github.io/commentaries/commentaries/franck/franck-chair-et-corps-commentary.html#chapter-six-phenomenological-idealism)
   > one might object that the ego is always found in a *pre-constituted* world — a world whose ontological type, as Husserl curiously says, is "known by all" (*allbekannten*). This world supplies a guiding thread for the description of the structures of transcendental subjectivity.
 
 - **introduced** · `konstitution/franck/009` · *constitutional effects*
   The new epoche disregards all constitutional effects of intentionality relating to other subjectivity, delimiting the intentionality in which the ego constitutes within himself a peculiar ownness.
-  `franck-chair-et-corps-commentary#h2-chapter-eight-flesh-and-the-sphere-of-ownness` · [Chapter Eight: Flesh and the Sphere of Ownness](https://faultynode.github.io/commentaries/commentaries/fanck/franck-chair-et-corps-commentary.html#chapter-eight-flesh-and-the-sphere-of-ownness)
+  `franck-chair-et-corps-commentary#h2-chapter-eight-flesh-and-the-sphere-of-ownness` · [Chapter Eight: Flesh and the Sphere of Ownness](https://faultynode.github.io/commentaries/commentaries/franck/franck-chair-et-corps-commentary.html#chapter-eight-flesh-and-the-sphere-of-ownness)
   > we disregard all constitutional effects of intentionality relating immediately or mediately to other subjectivity, and we delimit first of all the total nexus of that actual and potential intentionality in which the ego constitutes within himself a peculiar ownness (*Eigenheit*)
 
 - **introduced** · `konstitution/franck/010` · *constitution of flesh*
   The constitution of flesh is presupposed by all constitution of things, that is by all constitution of worldly transcendence in general.
-  `franck-chair-et-corps-commentary#h2-chapter-eight-flesh-and-the-sphere-of-ownness` · [Chapter Eight: Flesh and the Sphere of Ownness](https://faultynode.github.io/commentaries/commentaries/fanck/franck-chair-et-corps-commentary.html#chapter-eight-flesh-and-the-sphere-of-ownness)
+  `franck-chair-et-corps-commentary#h2-chapter-eight-flesh-and-the-sphere-of-ownness` · [Chapter Eight: Flesh and the Sphere of Ownness](https://faultynode.github.io/commentaries/commentaries/franck/franck-chair-et-corps-commentary.html#chapter-eight-flesh-and-the-sphere-of-ownness)
   > the constitution of flesh is presupposed by all constitution of things — that is, by all constitution of worldly transcendence in general.
 
 - **criticized** · `konstitution/franck/011` · *horizons of constitution*
   The objection is put that there is no constitution of a horizon but only horizons of constitution, which marks the finitude of the phenomenological.
-  `franck-chair-et-corps-commentary#h2-chapter-eight-flesh-and-the-sphere-of-ownness` · [Chapter Eight: Flesh and the Sphere of Ownness](https://faultynode.github.io/commentaries/commentaries/fanck/franck-chair-et-corps-commentary.html#chapter-eight-flesh-and-the-sphere-of-ownness)
+  `franck-chair-et-corps-commentary#h2-chapter-eight-flesh-and-the-sphere-of-ownness` · [Chapter Eight: Flesh and the Sphere of Ownness](https://faultynode.github.io/commentaries/commentaries/franck/franck-chair-et-corps-commentary.html#chapter-eight-flesh-and-the-sphere-of-ownness)
   > there is no constitution of *a* horizon but only horizons of constitution? Does one not here run up against, in various forms, the limits that mark the *finitude* of the phenomen
 
 - **introduced** · `konstitution/franck/012` · *constitution of the other*
   The constitution of the other is the centrepiece of the constitution of the objective world, so the analysis must determine the origin of the world's permanence.
-  `franck-chair-et-corps-commentary#h2-chapter-twelve-pairing-and-resemblance` · [Chapter Twelve: Pairing and Resemblance](https://faultynode.github.io/commentaries/commentaries/fanck/franck-chair-et-corps-commentary.html#chapter-twelve-pairing-and-resemblance)
+  `franck-chair-et-corps-commentary#h2-chapter-twelve-pairing-and-resemblance` · [Chapter Twelve: Pairing and Resemblance](https://faultynode.github.io/commentaries/commentaries/franck/franck-chair-et-corps-commentary.html#chapter-twelve-pairing-and-resemblance)
   > The constitution of the other, Franck explains, is the centerpiece of the constitution of the objective world, which is given as a world always there and constantly present.
 
 - **criticized** · `konstitution/franck/013` · *egological constitution*
   Since flesh is the zero-object and death belongs to its sense, the egological constitution of the world is affected by contingency.
-  `franck-chair-et-corps-commentary#h2-chapter-twelve-pairing-and-resemblance` · [Chapter Twelve: Pairing and Resemblance](https://faultynode.github.io/commentaries/commentaries/fanck/franck-chair-et-corps-commentary.html#chapter-twelve-pairing-and-resemblance)
+  `franck-chair-et-corps-commentary#h2-chapter-twelve-pairing-and-resemblance` · [Chapter Twelve: Pairing and Resemblance](https://faultynode.github.io/commentaries/commentaries/franck/franck-chair-et-corps-commentary.html#chapter-twelve-pairing-and-resemblance)
   > the egological constitution of the world is thereby affected by *contingency*, since flesh is the "zero-object" (*Nullobjekt*)
 
 *Partial pass: Chapters Four, Five, Six, Eight and Twelve. The absence list is empty and that is a claim, not a default: every section of this commentary over 300 words carries at least two terms of the family, so there is nowhere in it where the theme was expected and is missing. No unit carries a stratum - the commentary has no chronology.json entry and states no date of its own.*
@@ -1844,11 +1844,11 @@
 
 - `husserliana-10-inneres-zeitbewusstsein-commentary` - 265 term hits, no record
 - `henry-genealogie-de-la-psychanalyse-commentary` - 135 term hits, no record
-- `henry-phenomenologie-de-la vie-1-commentary` - 96 term hits, no record
+- `henry-phenomenologie-de-la-vie-1-commentary` - 96 term hits, no record
 - `heidegger-ga-26-metaphysische-anfangsgruende-der-logik-commentary` - 82 term hits, no record
 - `henry-phenomenologie-de-la-vie-2-commentary` - 76 term hits, no record
 - `husserliana-19-2-sixth-logical-investigation-commentary` - 59 term hits, no record
-- `kojève-introduction-à-la-lecture-de-hegel-commentary` - 54 term hits, no record
+- `kojeve-introduction-a-la-lecture-de-hegel-commentary` - 54 term hits, no record
 - `kant-kritik-der-reinen-vernunft-commentary` - 51 term hits, no record
 - `kern-husserl-and-kant-commentary` - 51 term hits, no record
 - `husserliana-3-ideas-i-commentary` - 50 term hits, no record
@@ -1861,7 +1861,7 @@
 - `husserliana-19-1-fifth-logical-investigation-commentary` - 40 term hits, no record
 - `heidegger-ga-24-die-grundprobleme-der-phanomenologie-commentary` - 37 term hits, no record
 - `husserl-natur-und-geist-commentary` - 37 term hits, no record
-- `Reduction et donation Commentary` - 35 term hits, no record
+- `marion-reduction-et-donation-commentary` - 35 term hits, no record
 - `heidegger-ga-19-platon-sophistes-commentary` - 34 term hits, no record
 - `picht-de-anima-commentary` - 32 term hits, no record
 - `heidegger-ga-9-vom-wesen-des-grundes-commentary` - 24 term hits, no record
@@ -1879,6 +1879,6 @@
 - `fichte-science-of-knowing-commentary` - 5 term hits, no record
 - `mohanty-philosophy-of-edmund-husserl-commentary` - 5 term hits, no record
 - `freud-das-unbewusste-commentary` - 2 term hits, no record
-- `Discours de la methode Commentary` - 1 term hit, no record
-- `Passions de l ame Commentary` - 1 term hit, no record
+- `descartes-discours-de-la-methode-commentary` - 1 term hit, no record
+- `descartes-passions-de-lame-commentary` - 1 term hit, no record
 - `freud-gw-13-massenpsychologie-und-ich-analyse-commentary` - 1 term hit, no record

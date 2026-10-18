@@ -312,9 +312,9 @@
 - `kant-kritik-der-reinen-vernunft-commentary` - 75 term hits, no record
 - `husserl-thing-and-space-commentary` - 66 term hits, no record
 - `husserliana-3-ideas-i-parts-3-4-commentary` - 65 term hits, no record
-- `kojève-introduction-à-la-lecture-de-hegel-commentary` - 65 term hits, no record
-- `Reduction et donation Commentary` - 60 term hits, no record
+- `kojeve-introduction-a-la-lecture-de-hegel-commentary` - 65 term hits, no record
 - `husserliana-7-erste-philosophie-i-commentary` - 60 term hits, no record
+- `marion-reduction-et-donation-commentary` - 60 term hits, no record
 - `heidegger-ga-26-metaphysische-anfangsgruende-der-logik-commentary` - 59 term hits, no record
 - `lacan-seminar-11-the-four-fundamental-concepts-of-psychoanalysis-commentary` - 51 term hits, no record
 - `lacan-seminar-1-freuds-papers-on-technique-commentary` - 50 term hits, no record
@@ -329,10 +329,10 @@
 - `husserliana-19-1-fifth-logical-investigation-commentary` - 36 term hits, no record
 - `husserliana-19-2-sixth-logical-investigation-commentary` - 36 term hits, no record
 - `husserl-formal-and-transcendental-logic-commentary` - 34 term hits, no record
-- `henry-phenomenologie-de-la vie-1-commentary` - 30 term hits, no record
-- `Passions de l ame Commentary` - 26 term hits, no record
+- `henry-phenomenologie-de-la-vie-1-commentary` - 30 term hits, no record
 - `aristotle-de-anima-commentary` - 26 term hits, no record
-- `Discours de la methode Commentary` - 25 term hits, no record
+- `descartes-passions-de-lame-commentary` - 26 term hits, no record
+- `descartes-discours-de-la-methode-commentary` - 25 term hits, no record
 - `husserliana-9-phenomenological-psychology-commentary` - 25 term hits, no record
 - `descartes-regulae-ad-directionem-ingenii-commentary` - 23 term hits, no record
 - `husserliana-4-ideas-ii-commentary` - 21 term hits, no record

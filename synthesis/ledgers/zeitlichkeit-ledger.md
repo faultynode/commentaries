@@ -1067,42 +1067,42 @@
 
 - **presupposed** · `zeitlichkeit/franck-chair/001` · *immanent temporality*
   Experiences are said to be ordered by an essential genetic lawfulness in immanent temporality, everything occurring in any ego having its temporality and participating in an all-inclusive system of forms.
-  `franck-chair-et-corps-commentary#h2-chapter-six-phenomenological-idealism` · [Chapter Six: Phenomenological Idealism](https://faultynode.github.io/commentaries/commentaries/fanck/franck-chair-et-corps-commentary.html#chapter-six-phenomenological-idealism)
+  `franck-chair-et-corps-commentary#h2-chapter-six-phenomenological-idealism` · [Chapter Six: Phenomenological Idealism](https://faultynode.github.io/commentaries/commentaries/franck/franck-chair-et-corps-commentary.html#chapter-six-phenomenological-idealism)
   > whatever occurs in my ego, and eidetically in any ego whatsoever — in the form of intentional processes, constituted unities, Ego habitualities — has its temporality, and in this respect participates in the system of forms belonging to the all-inclusive temporality with which every imaginable ego, every possibility-variant of my ego, constitutes itself as itself
 
 - **introduced** · `zeitlichkeit/franck-chair/002` · *original temporality*
   The temporal form of acts cannot be actively constituted, being the condition of possibility of every act, so original temporality points back to an absolutely passive constitution connected with hyle.
-  `franck-chair-et-corps-commentary#h2-chapter-six-phenomenological-idealism` · [Chapter Six: Phenomenological Idealism](https://faultynode.github.io/commentaries/commentaries/fanck/franck-chair-et-corps-commentary.html#chapter-six-phenomenological-idealism)
+  `franck-chair-et-corps-commentary#h2-chapter-six-phenomenological-idealism` · [Chapter Six: Phenomenological Idealism](https://faultynode.github.io/commentaries/commentaries/franck/franck-chair-et-corps-commentary.html#chapter-six-phenomenological-idealism)
   > This temporal form is itself constituted (the lectures on time-consciousness analyze this constitution from an essentially noematic point of view), but it cannot be *actively* constituted, since it is the very condition of possibility and presupposition of every act. Original temporality therefore points back to an *absolutely passive* constitution.
 
 - **revised** · `zeitlichkeit/franck-chair/003` · *passivity*
   Two passivities are distinguished: the merely preconstitutive passivity of the originally constitutive temporal flux, and an objectivating passivity erected on it that belongs to the act as act.
-  `franck-chair-et-corps-commentary#h2-chapter-six-phenomenological-idealism` · [Chapter Six: Phenomenological Idealism](https://faultynode.github.io/commentaries/commentaries/fanck/franck-chair-et-corps-commentary.html#chapter-six-phenomenological-idealism)
+  `franck-chair-et-corps-commentary#h2-chapter-six-phenomenological-idealism` · [Chapter Six: Phenomenological Idealism](https://faultynode.github.io/commentaries/commentaries/franck/franck-chair-et-corps-commentary.html#chapter-six-phenomenological-idealism)
   > there is not only a passivity *prior to* the activity — as the passivity of the originally constitutive temporal flux, which is only preconstitutive — but also a passivity *erected on* this, a passivity which is truly objectivating
 
 - **presupposed** · `zeitlichkeit/franck-chair/004` · *temporality*
   Temporality is called the universal persisting form into which all levels of the ego's performances fit, itself built up in a continual, passive and completely universal genesis.
-  `franck-chair-et-corps-commentary#h2-chapter-six-phenomenological-idealism` · [Chapter Six: Phenomenological Idealism](https://faultynode.github.io/commentaries/commentaries/fanck/franck-chair-et-corps-commentary.html#chapter-six-phenomenological-idealism)
+  `franck-chair-et-corps-commentary#h2-chapter-six-phenomenological-idealism` · [Chapter Six: Phenomenological Idealism](https://faultynode.github.io/commentaries/commentaries/franck/franck-chair-et-corps-commentary.html#chapter-six-phenomenological-idealism)
   > as an infinite nexus of synthetically congruous performances — at levels, all of which fit the universal persisting form, temporality, because the latter itself is built up in a continual, passive and completely universal genesis, which, as a matter of essential necessity, embraces everything new.
 
 - **criticized** · `zeitlichkeit/franck-chair/005` · *pure temporality*
   If the strangeness at work in association derives from the alter ego, this is said perhaps to imply a definition of pure temporality as the relation to the other.
-  `franck-chair-et-corps-commentary#h2-chapter-six-phenomenological-idealism` · [Chapter Six: Phenomenological Idealism](https://faultynode.github.io/commentaries/commentaries/fanck/franck-chair-et-corps-commentary.html#chapter-six-phenomenological-idealism)
+  `franck-chair-et-corps-commentary#h2-chapter-six-phenomenological-idealism` · [Chapter Six: Phenomenological Idealism](https://faultynode.github.io/commentaries/commentaries/franck/franck-chair-et-corps-commentary.html#chapter-six-phenomenological-idealism)
   > More profoundly still, this perhaps implies a definition of pure temporality as the *relation to the other*. For if the other ego is what is originally foreign to me, then the other ego is what originally affects me.
 
 - **criticized** · `zeitlichkeit/franck-chair/006` · *living present*
   Defining ownness by apodictic self-perception is said to define it temporally, since such perception can occur only in the incarnate living present, which raises the question whether past and future fall outside ownness.
-  `franck-chair-et-corps-commentary#h2-chapter-ten-the-alteration-of-ownness` · [Chapter Ten: The Alteration of Ownness](https://faultynode.github.io/commentaries/commentaries/fanck/franck-chair-et-corps-commentary.html#chapter-ten-the-alteration-of-ownness)
+  `franck-chair-et-corps-commentary#h2-chapter-ten-the-alteration-of-ownness` · [Chapter Ten: The Alteration of Ownness](https://faultynode.github.io/commentaries/commentaries/franck/franck-chair-et-corps-commentary.html#chapter-ten-the-alteration-of-ownness)
   > does this not amount to defining ownness *temporally*, since an apodictic perception of oneself can occur only in the *incarnate living present*?
 
 - **presupposed** · `zeitlichkeit/franck-chair/007` · *retentional modification*
   Phenomenological perception is called temporal, only the present now being given absolutely and subject to a law of retentional modification, so that the past transcends the present now.
-  `franck-chair-et-corps-commentary#h2-chapter-ten-the-alteration-of-ownness` · [Chapter Ten: The Alteration of Ownness](https://faultynode.github.io/commentaries/commentaries/fanck/franck-chair-et-corps-commentary.html#chapter-ten-the-alteration-of-ownness)
+  `franck-chair-et-corps-commentary#h2-chapter-ten-the-alteration-of-ownness` · [Chapter Ten: The Alteration of Ownness](https://faultynode.github.io/commentaries/commentaries/franck/franck-chair-et-corps-commentary.html#chapter-ten-the-alteration-of-ownness)
   > Phenomenological perception is temporal, and only the present *now* is given absolutely; this now is subject to a law of retentional modification. The past *transcends* the present now.
 
 - **introduced** · `zeitlichkeit/franck-chair/008` · *transcendence in immanence*
   What is received phenomenologically includes not only retention but what is retained, each now of a retention being a retention of a not-now, and this transcendence in immanence is called irreducible.
-  `franck-chair-et-corps-commentary#h2-chapter-ten-the-alteration-of-ownness` · [Chapter Ten: The Alteration of Ownness](https://faultynode.github.io/commentaries/commentaries/fanck/franck-chair-et-corps-commentary.html#chapter-ten-the-alteration-of-ownness)
+  `franck-chair-et-corps-commentary#h2-chapter-ten-the-alteration-of-ownness` · [Chapter Ten: The Alteration of Ownness](https://faultynode.github.io/commentaries/commentaries/franck/franck-chair-et-corps-commentary.html#chapter-ten-the-alteration-of-ownness)
   > for what is received phenomenologically is not only the *retention* as such but also *that which is retained*: each now of a retention is a retention of a *not-now*. This "transcendence in immanence" is irreducible; any attempt to reduce it presupposes it.
 
 *Partial pass: Chapter Six (phenomenological idealism, where original temporality is tied to passive constitution) and Chapter Ten (the alteration of ownness, where the living present bounds the sphere of ownness). Chapters One, Two, Three and Five, which also carry term hits, are not extracted.*
@@ -1113,32 +1113,32 @@
 
 - **presupposed** · `zeitlichkeit/franck-espace/001` · *presence*
   Metaphysics is said to have implicitly understood the being of beings as presence, and presence to be a temporal determination, so the fracture in the Heideggerian project bears on metaphysics as a whole.
-  `franck-heidegger-and-the-problem-of-space-commentary#h2-introduction` · [Introduction](https://faultynode.github.io/commentaries/commentaries/fanck/franck-heidegger-and-the-problem-of-space-commentary.html#introduction)
+  `franck-heidegger-and-the-problem-of-space-commentary#h2-introduction` · [Introduction](https://faultynode.github.io/commentaries/commentaries/franck/franck-heidegger-and-the-problem-of-space-commentary.html#introduction)
   > citly understood the being of beings as presence, and "presence" is a temporal determination. Therefore the fracture that immobilized the Heideggerian project carries a significance that bears on metaphysics as a whole
 
 - **introduced** · `zeitlichkeit/franck-espace/002` · *Zeitlichkeit / Temporalität*
   The two words are to be heard as distinct: Zeitlichkeit is the temporality Dasein is, Temporalität the temporal determination of being as such, and the unwritten division was the passage from the first to the second.
-  `franck-heidegger-and-the-problem-of-space-commentary#h2-introduction` · [Introduction](https://faultynode.github.io/commentaries/commentaries/fanck/franck-heidegger-and-the-problem-of-space-commentary.html#introduction)
+  `franck-heidegger-and-the-problem-of-space-commentary#h2-introduction` · [Introduction](https://faultynode.github.io/commentaries/commentaries/franck/franck-heidegger-and-the-problem-of-space-commentary.html#introduction)
   > The two words must be heard as distinct: *Zeitlichkeit* is the temporality that *Dasein* is; *Temporalität* would be the temporal determination of *being as such*. The unwritten division was to be the passage from the first to the second.
 
 - **introduced** · `zeitlichkeit/franck-espace/003` · *Temporalität*
   Temporalität is defined, on the 1927 course's authority, as temporality thematized as the condition of possibility of the understanding of being and of ontology as such.
-  `franck-heidegger-and-the-problem-of-space-commentary#h2-introduction` · Die Grundprobleme der Phänomenologie (1927) · [Introduction](https://faultynode.github.io/commentaries/commentaries/fanck/franck-heidegger-and-the-problem-of-space-commentary.html#introduction)
+  `franck-heidegger-and-the-problem-of-space-commentary#h2-introduction` · Die Grundprobleme der Phänomenologie (1927) · [Introduction](https://faultynode.github.io/commentaries/commentaries/franck/franck-heidegger-and-the-problem-of-space-commentary.html#introduction)
   > *Temporalität* designates temporality *insofar as it is thematized as the condition of possibility of the understanding of being and of ontology as such*. The term is meant to indicate that, within the existential analytic, temporality presents the *horizon* from which we understand being.
 
 - **presupposed** · `zeitlichkeit/franck-espace/004` · *ontological difference*
   Seeing being in its temporal determinateness is said to be what would let the distinction between being and beings be grasped and the ground of the ontological difference fixed.
-  `franck-heidegger-and-the-problem-of-space-commentary#h2-introduction` · [Introduction](https://faultynode.github.io/commentaries/commentaries/fanck/franck-heidegger-and-the-problem-of-space-commentary.html#introduction)
+  `franck-heidegger-and-the-problem-of-space-commentary#h2-introduction` · [Introduction](https://faultynode.github.io/commentaries/commentaries/franck/franck-heidegger-and-the-problem-of-space-commentary.html#introduction)
   > only when being offers itself to the phenomenological gaze in its temporal determinateness will we be in a position to grasp more clearly the *distinction between being and beings* and to fix the ground of the **ontological difference**
 
 - **criticized** · `zeitlichkeit/franck-espace/005` · *Temporalität*
   The incompletion of Sein und Zeit is said to bear the imprint of an aporia as originary as the question itself, not of a contingent failure to reach the Temporalität of being.
-  `franck-heidegger-and-the-problem-of-space-commentary#h2-introduction` · [Introduction](https://faultynode.github.io/commentaries/commentaries/fanck/franck-heidegger-and-the-problem-of-space-commentary.html#introduction)
+  `franck-heidegger-and-the-problem-of-space-commentary#h2-introduction` · [Introduction](https://faultynode.github.io/commentaries/commentaries/franck/franck-heidegger-and-the-problem-of-space-commentary.html#introduction)
   > Rather, the incompletion bears the imprint of an *aporia* — an impasse — that is doubtless as originary as the question itself, indeed perhaps originary *of* the question, lying at its very source.
 
 - **presupposed** · `zeitlichkeit/franck-espace/006` · *originary time*
   The closing questions of Sein und Zeit are read as marking in advance the theme of the missing division: whether a path leads from originary time to the meaning of being.
-  `franck-heidegger-and-the-problem-of-space-commentary#h2-introduction` · Sein und Zeit, closing words · [Introduction](https://faultynode.github.io/commentaries/commentaries/fanck/franck-heidegger-and-the-problem-of-space-commentary.html#introduction)
+  `franck-heidegger-and-the-problem-of-space-commentary#h2-introduction` · Sein und Zeit, closing words · [Introduction](https://faultynode.github.io/commentaries/commentaries/franck/franck-heidegger-and-the-problem-of-space-commentary.html#introduction)
   > Does a path lead from originary time to the *meaning of being*? Does time itself manifest itself as the *horizon of being*?
 
 *Partial pass: The Introduction, which carries 47 of the file's 64 term hits and states the Zeitlichkeit/Temporalität distinction the book turns on. Chapters I and II, which carry the rest, are not extracted.*
@@ -1371,8 +1371,8 @@
 
 - `husserliana-10-inneres-zeitbewusstsein-commentary` - 654 term hits, no record
 - `heidegger-ga-26-metaphysische-anfangsgruende-der-logik-commentary` - 223 term hits, no record
-- `kojève-introduction-à-la-lecture-de-hegel-commentary` - 221 term hits, no record
-- `henry-phenomenologie-de-la vie-1-commentary` - 79 term hits, no record
+- `kojeve-introduction-a-la-lecture-de-hegel-commentary` - 221 term hits, no record
+- `henry-phenomenologie-de-la-vie-1-commentary` - 79 term hits, no record
 - `husserliana-4-ideas-ii-commentary` - 50 term hits, no record
 - `henry-phenomenologie-de-la-vie-2-commentary` - 38 term hits, no record
 - `henry-genealogie-de-la-psychanalyse-commentary` - 35 term hits, no record
@@ -1380,7 +1380,7 @@
 - `heidegger-ga-9-vom-wesen-des-grundes-commentary` - 20 term hits, no record
 - `henry-philosophie-et-phenomenologie-du-corps-commentary` - 19 term hits, no record
 - `husserliana-43-2-studien-zur-struktur-des-bewusstseins-commentary` - 17 term hits, no record
-- `Reduction et donation Commentary` - 16 term hits, no record
+- `marion-reduction-et-donation-commentary` - 16 term hits, no record
 - `lacan-seminar-11-the-four-fundamental-concepts-of-psychoanalysis-commentary` - 15 term hits, no record
 - `husserliana-28-vorlesungen-uber-ethik-und-wertlehre-commentary` - 14 term hits, no record
 - `lacan-seminar-1-freuds-papers-on-technique-commentary` - 14 term hits, no record
@@ -1395,14 +1395,14 @@
 - `heidegger-ga-17-einfuhrung-in-die-phanomenologische-forschung-commentary` - 6 term hits, no record
 - `husserliana-23-phantasie-bildbewusstsein-erinnerung-commentary` - 6 term hits, no record
 - `husserl-krisis-commentary` - 5 term hits, no record
-- `Passions de l ame Commentary` - 4 term hits, no record
+- `descartes-passions-de-lame-commentary` - 4 term hits, no record
 - `picht-de-anima-commentary` - 4 term hits, no record
 - `freud-das-unbewusste-commentary` - 3 term hits, no record
 - `husserliana-26-theory-of-meaning-commentary` - 3 term hits, no record
 - `husserliana-3-ideas-i-commentary` - 3 term hits, no record
 - `descartes-regulae-ad-directionem-ingenii-commentary` - 2 term hits, no record
 - `heidegger-ga-5-hegels-begriff-der-erfahrung-commentary` - 2 term hits, no record
-- `Discours de la methode Commentary` - 1 term hit, no record
+- `descartes-discours-de-la-methode-commentary` - 1 term hit, no record
 - `fichte-science-of-knowing-commentary` - 1 term hit, no record
 - `husserl-prolegomena-commentary` - 1 term hit, no record
 - `leibniz-monadology-commentary` - 1 term hit, no record

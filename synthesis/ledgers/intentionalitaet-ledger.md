@@ -2848,87 +2848,87 @@
 
 - **introduced** · `intentionalitaet/franck-bodies/001` · *intentionality / consciousness of something*
   Intentionality is the first fundamental structure of the transcendental field, brought out by shifting focus from singular ego-positing to the multiple acts of consciousness.
-  `franck-chair-et-corps-commentary#h2-chapter-two-science-as-egology` · Cartesian Meditations II · [Chapter Two: Science as Egology](https://faultynode.github.io/commentaries/commentaries/fanck/franck-chair-et-corps-commentary.html#chapter-two-science-as-egology)
+  `franck-chair-et-corps-commentary#h2-chapter-two-science-as-egology` · Cartesian Meditations II · [Chapter Two: Science as Egology](https://faultynode.github.io/commentaries/commentaries/franck/franck-chair-et-corps-commentary.html#chapter-two-science-as-egology)
   > By shifting the center of gravity of transcendental evidence from the *ego cogito* (the singular act of self-positing) to the multiple *cogitationes* (the multiple acts of consciousness), the phenomenologist brings out the first of these structures: intentionality.
 
 - **introduced** · `intentionalitaet/franck-bodies/002` · *intentionality / universal fundamental property*
   Intentionality is defined as the universal fundamental property of consciousness: to be consciousness of something, bearing its cogitatum within itself.
-  `franck-chair-et-corps-commentary#h2-chapter-two-science-as-egology` · Cartesian Meditations II · [Chapter Two: Science as Egology](https://faultynode.github.io/commentaries/commentaries/fanck/franck-chair-et-corps-commentary.html#chapter-two-science-as-egology)
+  `franck-chair-et-corps-commentary#h2-chapter-two-science-as-egology` · Cartesian Meditations II · [Chapter Two: Science as Egology](https://faultynode.github.io/commentaries/commentaries/franck/franck-chair-et-corps-commentary.html#chapter-two-science-as-egology)
   > Franck cites Husserl: the word intentionality means nothing other than this universal fundamental property of consciousness — to be consciousness of something, as a cogito to bear within itself its cogitatum.
 
 - **introduced** · `intentionalitaet/franck-bodies/003` · *intentional correlate / noema*
   The intentional correlate (noema) is the object-as-perceived held within the cogitatio in an irreal sense, distinct from the real object.
-  `franck-chair-et-corps-commentary#h2-chapter-two-science-as-egology` · Cartesian Meditations II · [Chapter Two: Science as Egology](https://faultynode.github.io/commentaries/commentaries/fanck/franck-chair-et-corps-commentary.html#chapter-two-science-as-egology)
+  `franck-chair-et-corps-commentary#h2-chapter-two-science-as-egology` · Cartesian Meditations II · [Chapter Two: Science as Egology](https://faultynode.github.io/commentaries/commentaries/franck/franck-chair-et-corps-commentary.html#chapter-two-science-as-egology)
   > Each lived experience of consciousness is a consciousness of …, regardless of whether its object actually exists. The relation to the perceived, for example, is essential to perception itself; it contains the *cogitatum* (the perceived as perceived) in an irreal sense within the *cogitatio*.
 
 - **introduced** · `intentionalitaet/franck-bodies/004` · *intentional process / reflection*
   Reflection is itself an intentional process that relates back to the original lived experience, making the original available as the correlate of reflective consciousness.
-  `franck-chair-et-corps-commentary#h2-chapter-two-science-as-egology` · Cartesian Meditations II · [Chapter Two: Science as Egology](https://faultynode.github.io/commentaries/commentaries/fanck/franck-chair-et-corps-commentary.html#chapter-two-science-as-egology)
+  `franck-chair-et-corps-commentary#h2-chapter-two-science-as-egology` · Cartesian Meditations II · [Chapter Two: Science as Egology](https://faultynode.github.io/commentaries/commentaries/franck/franck-chair-et-corps-commentary.html#chapter-two-science-as-egology)
   > The reflective attitude yields a new intentional process, one with the peculiarity of "relating back to the earlier process" (*Rückbeziehung auf das frühere Erlebnis*), and this new process is awareness — even, possibly, evidential awareness — of just that earlier process itself, and not of any other.
 
 - **introduced** · `intentionalitaet/franck-bodies/005` · *intentional correlativity / consciousness and objects*
   Consciousness is intentionally correlative with its objects, establishing a dual-oriented analysis examining both the noema and the noeses.
-  `franck-chair-et-corps-commentary#h2-chapter-three-flesh-and-body-in-perception` · Cartesian Meditations V · [Chapter Three: Flesh and Body in Perception](https://faultynode.github.io/commentaries/commentaries/fanck/franck-chair-et-corps-commentary.html#chapter-three-flesh-and-body-in-perception)
+  `franck-chair-et-corps-commentary#h2-chapter-three-flesh-and-body-in-perception` · Cartesian Meditations V · [Chapter Three: Flesh and Body in Perception](https://faultynode.github.io/commentaries/commentaries/franck/franck-chair-et-corps-commentary.html#chapter-three-flesh-and-body-in-perception)
   > The demonstration that consciousness is intentionally correlative with its objects forces a dual orientation onto the analysis of consciousness — a correlative structure.
 
 - **introduced** · `intentionalitaet/franck-bodies/006` · *intentional analysis*
   Intentional analysis is the analysis of transcendental subjectivity insofar as it constitutes all possible objectivity through noetic-noematic correlation.
-  `franck-chair-et-corps-commentary#h2-chapter-three-flesh-and-body-in-perception` · Cartesian Meditations V · [Chapter Three: Flesh and Body in Perception](https://faultynode.github.io/commentaries/commentaries/fanck/franck-chair-et-corps-commentary.html#chapter-three-flesh-and-body-in-perception)
+  `franck-chair-et-corps-commentary#h2-chapter-three-flesh-and-body-in-perception` · Cartesian Meditations V · [Chapter Three: Flesh and Body in Perception](https://faultynode.github.io/commentaries/commentaries/franck/franck-chair-et-corps-commentary.html#chapter-three-flesh-and-body-in-perception)
   > Intentional analysis is thus the analysis of the transcendental ego insofar as the ego includes and constitutes all possible objectivity.
 
 - **introduced** · `intentionalitaet/franck-bodies/007` · *intentional analysis / perception*
   Phenomenology necessarily begins with intentional analysis of perception as its exemplary case, responding to the deep necessity of overcoming transcendental psychologism.
-  `franck-chair-et-corps-commentary#h2-chapter-three-flesh-and-body-in-perception` · Logical Investigations, Ideas I · [Chapter Three: Flesh and Body in Perception](https://faultynode.github.io/commentaries/commentaries/fanck/franck-chair-et-corps-commentary.html#chapter-three-flesh-and-body-in-perception)
+  `franck-chair-et-corps-commentary#h2-chapter-three-flesh-and-body-in-perception` · Logical Investigations, Ideas I · [Chapter Three: Flesh and Body in Perception](https://faultynode.github.io/commentaries/commentaries/franck/franck-chair-et-corps-commentary.html#chapter-three-flesh-and-body-in-perception)
   > If phenomenology is always a phenomenology of perception, this is for essential and profoundly historical reasons. Franck cites Husserl: involuntarily, he says, we began with the intentional analysis of perception — and indeed gave privileged status to intuitively given physical bodies (*Körper*).
 
 - **introduced** · `intentionalitaet/franck-bodies/008` · *intentional object / noetic-noematic synthesis*
   The intentional object is the identical unity of various modes of noetic-noematic consciousness, unified through synthetic relations.
-  `franck-chair-et-corps-commentary#h2-chapter-three-flesh-and-body-in-perception` · Ideas I · [Chapter Three: Flesh and Body in Perception](https://faultynode.github.io/commentaries/commentaries/fanck/franck-chair-et-corps-commentary.html#chapter-three-flesh-and-body-in-perception)
+  `franck-chair-et-corps-commentary#h2-chapter-three-flesh-and-body-in-perception` · Ideas I · [Chapter Three: Flesh and Body in Perception](https://faultynode.github.io/commentaries/commentaries/franck/franck-chair-et-corps-commentary.html#chapter-three-flesh-and-body-in-perception)
   > What was just found — in the exemplary analysis of perception, which holds *mutatis mutandis* for all conscious life — can be condensed thus: the intentional object as such is conscious as the identical unity of various modes of noetic-noematic consciousness; conscious life is essentially synthetic.
 
 - **introduced** · `intentionalitaet/franck-bodies/009` · *intentional correlate / internal time-consciousness*
   Internal time-consciousness is the fundamental form of synthesis underlying intentional relations, joining lived experiences into a continuous flow.
-  `franck-chair-et-corps-commentary#h2-chapter-three-flesh-and-body-in-perception` · Ideas I · [Chapter Three: Flesh and Body in Perception](https://faultynode.github.io/commentaries/commentaries/fanck/franck-chair-et-corps-commentary.html#chapter-three-flesh-and-body-in-perception)
+  `franck-chair-et-corps-commentary#h2-chapter-three-flesh-and-body-in-perception` · Ideas I · [Chapter Three: Flesh and Body in Perception](https://faultynode.github.io/commentaries/commentaries/franck/franck-chair-et-corps-commentary.html#chapter-three-flesh-and-body-in-perception)
   > And in the final analysis, internal time-consciousness is the fundamental form of this synthesis. The phenomenology of perception implies a phenomenology of temporality that joins lived experiences together into a single, unique flow.
 
 - **introduced** · `intentionalitaet/franck-bodies/010` · *intentional relatedness / conscious life*
   Conscious life exhibits a reflexive intentional relatedness to itself, demonstrating intentionality as the being-for-itself characteristic of consciousness.
-  `franck-chair-et-corps-commentary#h2-chapter-three-flesh-and-body-in-perception` · Ideas I · [Chapter Three: Flesh and Body in Perception](https://faultynode.github.io/commentaries/commentaries/fanck/franck-chair-et-corps-commentary.html#chapter-three-flesh-and-body-in-perception)
+  `franck-chair-et-corps-commentary#h2-chapter-three-flesh-and-body-in-perception` · Ideas I · [Chapter Three: Flesh and Body in Perception](https://faultynode.github.io/commentaries/commentaries/franck/franck-chair-et-corps-commentary.html#chapter-three-flesh-and-body-in-perception)
   > The fact is evident — even apodictically evident — and indicates one aspect of the ego's marvellous being-for-himself: above all the being of his conscious life in the form of reflexive intentional relatedness to himself.
 
 - **introduced** · `intentionalitaet/franck-bodies/011` · *intentionality / horizon-structure*
   The horizon-structure is an essential feature of intentionality insofar as intentionality is the positing of objects; every object is given within horizons that generate further horizons.
-  `franck-chair-et-corps-commentary#h2-chapter-three-flesh-and-body-in-perception` · Ideas I · [Chapter Three: Flesh and Body in Perception](https://faultynode.github.io/commentaries/commentaries/fanck/franck-chair-et-corps-commentary.html#chapter-three-flesh-and-body-in-perception)
+  `franck-chair-et-corps-commentary#h2-chapter-three-flesh-and-body-in-perception` · Ideas I · [Chapter Three: Flesh and Body in Perception](https://faultynode.github.io/commentaries/commentaries/franck/franck-chair-et-corps-commentary.html#chapter-three-flesh-and-body-in-perception)
   > The horizon-structure remains an essential feature of intentionality insofar as intentionality is positing of objects. Every cogitatum is given within a horizon that in turn gives rise to new horizons; therefore the sense of the object — the noema — can never be given as something complete.
 
 - **introduced** · `intentionalitaet/franck-bodies/012` · *intentional analysis / constitution*
   Intentional analysis unfolds the constitutive syntheses underlying each actuality, inquiring back to the multiplicities of noetic syntheses that continually constitute objects.
-  `franck-chair-et-corps-commentary#h2-chapter-three-flesh-and-body-in-perception` · Ideas I · [Chapter Three: Flesh and Body in Perception](https://faultynode.github.io/commentaries/commentaries/fanck/franck-chair-et-corps-commentary.html#chapter-three-flesh-and-body-in-perception)
+  `franck-chair-et-corps-commentary#h2-chapter-three-flesh-and-body-in-perception` · Ideas I · [Chapter Three: Flesh and Body in Perception](https://faultynode.github.io/commentaries/commentaries/franck/franck-chair-et-corps-commentary.html#chapter-three-flesh-and-body-in-perception)
   > It is not a real (psychological) analysis — there is no empiricist sensualism of intentionality; rather, it unfolds, distinguishes, and clarifies the richness of horizons and infinite potentialities harboured and concealed in each actuality.
 
 - **introduced** · `intentionalitaet/franck-bodies/013` · *intentional object / transcendental clue*
   The intentional object serves as a transcendental clue for displaying constitutive noetic structures, grounding the method of intentional analysis itself.
-  `franck-chair-et-corps-commentary#h2-chapter-three-flesh-and-body-in-perception` · Ideas I · [Chapter Three: Flesh and Body in Perception](https://faultynode.github.io/commentaries/commentaries/fanck/franck-chair-et-corps-commentary.html#chapter-three-flesh-and-body-in-perception)
+  `franck-chair-et-corps-commentary#h2-chapter-three-flesh-and-body-in-perception` · Ideas I · [Chapter Three: Flesh and Body in Perception](https://faultynode.github.io/commentaries/commentaries/franck/franck-chair-et-corps-commentary.html#chapter-three-flesh-and-body-in-perception)
   > First, the intentional object must serve as a *transcendental clue* for displaying the constitutive noetic structures. This affirms a relative and methodological privilege of the constituted (in phenomenology, the question of method is sovereign).
 
 - **introduced** · `intentionalitaet/franck-bodies/014` · *intentional life / constitution*
   Being and non-being, reality and irreality, are constituted in and through intentional life; the reduction reveals being as wholly reducible to intentional sense.
-  `franck-chair-et-corps-commentary#h2-chapter-four-constitutive-analysis` · Cartesian Meditations III-V · [Chapter Four: Constitutive Analysis](https://faultynode.github.io/commentaries/commentaries/fanck/franck-chair-et-corps-commentary.html#chapter-four-constitutive-analysis)
+  `franck-chair-et-corps-commentary#h2-chapter-four-constitutive-analysis` · Cartesian Meditations III-V · [Chapter Four: Constitutive Analysis](https://faultynode.github.io/commentaries/commentaries/franck/franck-chair-et-corps-commentary.html#chapter-four-constitutive-analysis)
   > It is therefore necessary to show that being and non-being, reality and irreality, are constituted in and through intentional life — such that, as Husserl says, the idea of investigating anything outside the parentheses placed by the reduction "cannot occur to us within the sphere of phenomenological reduction."
 
 - **introduced** · `intentionalitaet/franck-bodies/015` · *intentionality / being of intentionality*
   The fifth Meditation poses the question of the being of intentionality in relation to the constitution of objectivity and intersubjectivity.
-  `franck-chair-et-corps-commentary#h2-preface` · Cartesian Meditations V · [Preface](https://faultynode.github.io/commentaries/commentaries/fanck/franck-chair-et-corps-commentary.html#preface)
+  `franck-chair-et-corps-commentary#h2-preface` · Cartesian Meditations V · [Preface](https://faultynode.github.io/commentaries/commentaries/franck/franck-chair-et-corps-commentary.html#preface)
   > In short, the fifth Meditation treats the *objectivity of the object*, thereby posing the question of *the being of intentionality*.
 
 - **introduced** · `intentionalitaet/franck-bodies/019` · *intentionality / supplementary aim*
   Each cogito intends more than what is actually given (the Mehrmeinung); this supplementary intentional aim is essential to intentional analysis itself.
-  `franck-chair-et-corps-commentary#h2-chapter-three-flesh-and-body-in-perception` · Ideas I · [Chapter Three: Flesh and Body in Perception](https://faultynode.github.io/commentaries/commentaries/fanck/franck-chair-et-corps-commentary.html#chapter-three-flesh-and-body-in-perception)
+  `franck-chair-et-corps-commentary#h2-chapter-three-flesh-and-body-in-perception` · Ideas I · [Chapter Three: Flesh and Body in Perception](https://faultynode.github.io/commentaries/commentaries/franck/franck-chair-et-corps-commentary.html#chapter-three-flesh-and-body-in-perception)
   > This means that each cogito intends *more* than what is actually there (the *Mehrmeinung*, the "meaning-more"), and without this supplementary aim intentional analysis could not even take place — could not inquire back to the multiplicities of noetic syntheses that continually give the object as the same.
 
 - **introduced** · `intentionalitaet/franck-bodies/020` · *intentional synthesis / object-pole*
   The object is a pole of identity constituted by multiple intentional syntheses; it serves as the organizing center for the correlative system of consciousness.
-  `franck-chair-et-corps-commentary#h2-chapter-three-flesh-and-body-in-perception` · Ideas I · [Chapter Three: Flesh and Body in Perception](https://faultynode.github.io/commentaries/commentaries/fanck/franck-chair-et-corps-commentary.html#chapter-three-flesh-and-body-in-perception)
+  `franck-chair-et-corps-commentary#h2-chapter-three-flesh-and-body-in-perception` · Ideas I · [Chapter Three: Flesh and Body in Perception](https://faultynode.github.io/commentaries/commentaries/franck/franck-chair-et-corps-commentary.html#chapter-three-flesh-and-body-in-perception)
   > The object is a pole of identity, an index of noetic constitutive intentionalities. At the same time, intentional analysis acquires a distinctive structure.
 
 *Partial pass: Covers the introduction and core doctrine of intentionality across Chapters One-Four with emphasis on: Ch. Two §§123-125 (intentionality as first structure), Ch. Three §§139-163 (intentional analysis, noematic correlation, horizon-structure), Ch. Four §169 (constitution through intentional life). Also covers selected passages from Chapters Five-Seven establishing intentionality in relation to eidetic analysis, idealism, and solipsism. Not fully covered: later applications in Chapters Eight-Twelve, the full development of intentionality through alterity and pairing.*
@@ -3445,12 +3445,12 @@
 
 *Where the theme's terms occur but no extraction pass has run. Silence in the sections above is silence about these files, not evidence of absence in them.*
 
-- `henry-phenomenologie-de-la vie-1-commentary` - 227 term hits, no record
+- `henry-phenomenologie-de-la-vie-1-commentary` - 227 term hits, no record
 - `husserliana-8-erste-philosophie-ii-commentary` - 116 term hits, no record
 - `henry-phenomenologie-de-la-vie-2-commentary` - 90 term hits, no record
 - `heidegger-ga-26-metaphysische-anfangsgruende-der-logik-commentary` - 81 term hits, no record
 - `husserliana-10-inneres-zeitbewusstsein-commentary` - 49 term hits, no record
-- `Reduction et donation Commentary` - 43 term hits, no record
+- `marion-reduction-et-donation-commentary` - 43 term hits, no record
 - `henry-genealogie-de-la-psychanalyse-commentary` - 30 term hits, no record
 - `husserliana-23-phantasie-bildbewusstsein-erinnerung-commentary` - 15 term hits, no record
 - `derrida-la-voix-et-le-phenomene-commentary` - 14 term hits, no record
@@ -3461,10 +3461,10 @@
 - `lacan-seminar-11-the-four-fundamental-concepts-of-psychoanalysis-commentary` - 5 term hits, no record
 - `franck-heidegger-and-the-problem-of-space-commentary` - 2 term hits, no record
 - `husserl-prolegomena-commentary` - 2 term hits, no record
-- `Discours de la methode Commentary` - 1 term hit, no record
+- `descartes-discours-de-la-methode-commentary` - 1 term hit, no record
 - `descartes-regulae-ad-directionem-ingenii-commentary` - 1 term hit, no record
 - `heidegger-ga-18-grundbegriffe-der-aristotelischen-philosophie-commentary` - 1 term hit, no record
 - `heidegger-ga-3-kant-und-das-problem-der-metaphysik-commentary` - 1 term hit, no record
 - `husserliana-13-editors-introduction-commentary` - 1 term hit, no record
-- `kojève-introduction-à-la-lecture-de-hegel-commentary` - 1 term hit, no record
+- `kojeve-introduction-a-la-lecture-de-hegel-commentary` - 1 term hit, no record
 - `marion-sur-le-prisme-metaphysique-de-descartes-commentary` - 1 term hit, no record

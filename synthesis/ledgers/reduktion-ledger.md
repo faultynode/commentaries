@@ -1222,42 +1222,42 @@
 
 - **revised** · `reduktion/franck-chair/001` · *phenomenological reduction*
   The reduction is distinguished from Cartesian doubt: it neither negates nor doubts, it is definitive and universal, and it encompasses the psyche that Descartes leaves intact.
-  `franck-chair-et-corps-commentary#h2-chapter-two-science-as-egology` · Cartesian Meditations, First Meditation · [Chapter Two: Science as Egology](https://faultynode.github.io/commentaries/commentaries/fanck/franck-chair-et-corps-commentary.html#chapter-two-science-as-egology)
+  `franck-chair-et-corps-commentary#h2-chapter-two-science-as-egology` · Cartesian Meditations, First Meditation · [Chapter Two: Science as Egology](https://faultynode.github.io/commentaries/commentaries/franck/franck-chair-et-corps-commentary.html#chapter-two-science-as-egology)
   > the phenomenological reduction does not operate through doubt: it never involves negation. It is definitive and universal, and it also encompasses the psyche (whereas Descartes leaves the psyche intact as the foundation)
 
 - **introduced** · `reduktion/franck-chair/002` · *the reduction*
   The reduction is the pivot and permanent theme of Husserl's enterprise, the pure origin of all meaning and what opens the phenomenological domain.
-  `franck-chair-et-corps-commentary#h2-chapter-two-science-as-egology` · [Chapter Two: Science as Egology](https://faultynode.github.io/commentaries/commentaries/fanck/franck-chair-et-corps-commentary.html#chapter-two-science-as-egology)
+  `franck-chair-et-corps-commentary#h2-chapter-two-science-as-egology` · [Chapter Two: Science as Egology](https://faultynode.github.io/commentaries/commentaries/franck/franck-chair-et-corps-commentary.html#chapter-two-science-as-egology)
   > The reduction is the pivot and the permanent theme of Husserl's entire enterprise. It is the pure origin of all meaning and what opens the phenomenological "domain."
 
 - **criticized** · `reduktion/franck-chair/003` · *reduction (its introduction in the Meditations)*
   The reduction is introduced under pressure from a demand for apodicticity that can only be formulated if the field of transcendental experience is already pre-given.
-  `franck-chair-et-corps-commentary#h2-chapter-two-science-as-egology` · Cartesian Meditations · [Chapter Two: Science as Egology](https://faultynode.github.io/commentaries/commentaries/fanck/franck-chair-et-corps-commentary.html#chapter-two-science-as-egology)
+  `franck-chair-et-corps-commentary#h2-chapter-two-science-as-egology` · Cartesian Meditations · [Chapter Two: Science as Egology](https://faultynode.github.io/commentaries/commentaries/franck/franck-chair-et-corps-commentary.html#chapter-two-science-as-egology)
   > This is done under the pressure of the demand for apodicticity, a demand that itself can only be formulated on the presupposition that the field of transcendental experience is already pre-given.
 
 - **presupposed** · `reduktion/franck-chair/004` · *putting out of play*
   What the reduction puts out of play is the thesis of the natural attitude, that the world is a reality in itself.
-  `franck-chair-et-corps-commentary#h2-chapter-two-science-as-egology` · [Chapter Two: Science as Egology](https://faultynode.github.io/commentaries/commentaries/fanck/franck-chair-et-corps-commentary.html#chapter-two-science-as-egology)
+  `franck-chair-et-corps-commentary#h2-chapter-two-science-as-egology` · [Chapter Two: Science as Egology](https://faultynode.github.io/commentaries/commentaries/franck/franck-chair-et-corps-commentary.html#chapter-two-science-as-egology)
   > What is "put out of play" by the reduction is the thesis of the natural attitude — the thesis that the world is a reality in itself, the root of all naturalism.
 
 - **revised** · `reduktion/franck-chair/005` · *reduction (historical sense)*
   Beyond its methodological function the reduction has a historical sense, putting out of play the modern ontology of mathematical-physical nature.
-  `franck-chair-et-corps-commentary#h2-chapter-two-science-as-egology` · [Chapter Two: Science as Egology](https://faultynode.github.io/commentaries/commentaries/fanck/franck-chair-et-corps-commentary.html#chapter-two-science-as-egology)
+  `franck-chair-et-corps-commentary#h2-chapter-two-science-as-egology` · [Chapter Two: Science as Egology](https://faultynode.github.io/commentaries/commentaries/franck/franck-chair-et-corps-commentary.html#chapter-two-science-as-egology)
   > The reduction therefore has, beyond its methodological function, a historical sense: it puts out of play the traditional, modern ontology — the ontology of mathematical-physical nature.
 
 - **presupposed** · `reduktion/franck-chair/006` · *reduction (and the pure I)*
   Running through the flux of lived experiences under the reduction never yields the pure I as itself a lived or original experience.
-  `franck-chair-et-corps-commentary#h2-chapter-five-eidetic-reduction-and-archi-facticity` · [Chapter Five: Eidetic Reduction and Archi-Facticity](https://faultynode.github.io/commentaries/commentaries/fanck/franck-chair-et-corps-commentary.html#chapter-five-eidetic-reduction-and-archi-facticity)
+  `franck-chair-et-corps-commentary#h2-chapter-five-eidetic-reduction-and-archi-facticity` · [Chapter Five: Eidetic Reduction and Archi-Facticity](https://faultynode.github.io/commentaries/commentaries/franck/franck-chair-et-corps-commentary.html#chapter-five-eidetic-reduction-and-archi-facticity)
   > If, under the reduction, we run through the flux of lived experiences, we will never grasp the pure I as a lived or original experience itself.
 
 - **criticized** · `reduktion/franck-chair/007` · *the transcendentally absolute produced by the reductions*
   Husserl warns that what the reductions produce as transcendentally absolute is not what is ultimate, but constitutes itself from a primal source that is truly absolute.
-  `franck-chair-et-corps-commentary#h2-chapter-five-eidetic-reduction-and-archi-facticity` · Ideas I · [Chapter Five: Eidetic Reduction and Archi-Facticity](https://faultynode.github.io/commentaries/commentaries/fanck/franck-chair-et-corps-commentary.html#chapter-five-eidetic-reduction-and-archi-facticity)
+  `franck-chair-et-corps-commentary#h2-chapter-five-eidetic-reduction-and-archi-facticity` · Ideas I · [Chapter Five: Eidetic Reduction and Archi-Facticity](https://faultynode.github.io/commentaries/commentaries/franck/franck-chair-et-corps-commentary.html#chapter-five-eidetic-reduction-and-archi-facticity)
   > the transcendentally "absolute" that the reductions have produced is not really what is ultimate; it is something that constitutes itself in a profound and completely peculiar sense of its own, with its primal source in what is ultimately and truly absolute
 
 - **introduced** · `reduktion/franck-chair/008` · *eidetic analysis*
   The charge that transcendental analysis merely transfers the empirical de facto ego onto the transcendental is met only by the transcendental analysis becoming eidetic.
-  `franck-chair-et-corps-commentary#h2-chapter-five-eidetic-reduction-and-archi-facticity` · [Chapter Five: Eidetic Reduction and Archi-Facticity](https://faultynode.github.io/commentaries/commentaries/fanck/franck-chair-et-corps-commentary.html#chapter-five-eidetic-reduction-and-archi-facticity)
+  `franck-chair-et-corps-commentary#h2-chapter-five-eidetic-reduction-and-archi-facticity` · [Chapter Five: Eidetic Reduction and Archi-Facticity](https://faultynode.github.io/commentaries/commentaries/franck/franck-chair-et-corps-commentary.html#chapter-five-eidetic-reduction-and-archi-facticity)
   > Indeed — this would be the case if the transcendental analysis did not become an *eidetic* analysis.
 
 *Partial pass: Covers Chapter Two, 'Science as Egology', and Chapter Five, 'Eidetic Reduction and Archi-Facticity'. Chapters Six, Eight and Nine also carry hits and are not covered.*
@@ -1268,37 +1268,37 @@
 
 - **presupposed** · `reduktion/franck-space/001` · *phenomenological destruction of the tradition*
   The incompletion of Sein und Zeit is not explained by obstacles in the phenomenological destruction of the tradition, much of which Heidegger had already accomplished.
-  `franck-heidegger-and-the-problem-of-space-commentary#h2-introduction` · [Introduction](https://faultynode.github.io/commentaries/commentaries/fanck/franck-heidegger-and-the-problem-of-space-commentary.html#introduction)
+  `franck-heidegger-and-the-problem-of-space-commentary#h2-introduction` · [Introduction](https://faultynode.github.io/commentaries/commentaries/franck/franck-heidegger-and-the-problem-of-space-commentary.html#introduction)
   > Does the incompletion mean that the *phenomenological destruction of the tradition* presented insurmountable obstacles that forbade its execution?
 
 - **presupposed** · `reduktion/franck-space/002` · *reduction of consciousness*
   The relation of being to the essence of the human being is inaccessible without a displacement and reduction of consciousness, since from consciousness things cannot be reached in their worldliness.
-  `franck-heidegger-and-the-problem-of-space-commentary#h1-chapter-i-the-question-of-being` · [Chapter I — The Question of Being](https://faultynode.github.io/commentaries/commentaries/fanck/franck-heidegger-and-the-problem-of-space-commentary.html#chapter-i--the-question-of-being)
+  `franck-heidegger-and-the-problem-of-space-commentary#h1-chapter-i-the-question-of-being` · [Chapter I — The Question of Being](https://faultynode.github.io/commentaries/commentaries/franck/franck-heidegger-and-the-problem-of-space-commentary.html#chapter-i--the-question-of-being)
   > inaccessible without the *displacement and reduction of consciousness* (because from consciousness it is impossible to reach things in their very being, i.e. in their *worldliness*)
 
 - **presupposed** · `reduktion/franck-space/003` · *reduction (Husserlian parallel)*
   As transcendental subjectivity covered over by the psyche surges forth in its own being thanks to the reduction, so Dasein initially understands itself from out of the world of things.
-  `franck-heidegger-and-the-problem-of-space-commentary#h1-chapter-i-the-question-of-being` · [Chapter I — The Question of Being](https://faultynode.github.io/commentaries/commentaries/fanck/franck-heidegger-and-the-problem-of-space-commentary.html#chapter-i--the-question-of-being)
+  `franck-heidegger-and-the-problem-of-space-commentary#h1-chapter-i-the-question-of-being` · [Chapter I — The Question of Being](https://faultynode.github.io/commentaries/commentaries/franck/franck-heidegger-and-the-problem-of-space-commentary.html#chapter-i--the-question-of-being)
   > Just as, according to Husserl, *transcendental subjectivity* — covered over by the *psyche* (ψυχή) — surges forth in its own being *thanks to the reduction* (the psyche being only its *mundanization*)
 
 - **introduced** · `reduktion/franck-space/004` · *phenomenological reduction*
   The phenomenological reduction is defined as the leading-back of the inquiring gaze from naively grasped beings toward being.
-  `franck-heidegger-and-the-problem-of-space-commentary#h1-chapter-i-the-question-of-being` · [Chapter I — The Question of Being](https://faultynode.github.io/commentaries/commentaries/fanck/franck-heidegger-and-the-problem-of-space-commentary.html#chapter-i--the-question-of-being)
+  `franck-heidegger-and-the-problem-of-space-commentary#h1-chapter-i-the-question-of-being` · [Chapter I — The Question of Being](https://faultynode.github.io/commentaries/commentaries/franck/franck-heidegger-and-the-problem-of-space-commentary.html#chapter-i--the-question-of-being)
   > the fundamental component of the phenomenological method, in the sense of the *leading-back of the inquiring gaze from naively grasped beings toward being*, is what is designated *phenomenological reduction*
 
 - **revised** · `reduktion/franck-space/005` · *transcendental reduction (contrast)*
   This reduction shares with Husserl's transcendental reduction only the purely formal trait of a conversion of the gaze, and nothing of its content.
-  `franck-heidegger-and-the-problem-of-space-commentary#h1-chapter-i-the-question-of-being` · [Chapter I — The Question of Being](https://faultynode.github.io/commentaries/commentaries/fanck/franck-heidegger-and-the-problem-of-space-commentary.html#chapter-i--the-question-of-being)
+  `franck-heidegger-and-the-problem-of-space-commentary#h1-chapter-i-the-question-of-being` · [Chapter I — The Question of Being](https://faultynode.github.io/commentaries/commentaries/franck/franck-heidegger-and-the-problem-of-space-commentary.html#chapter-i--the-question-of-being)
   > this reduction shares with Husserl's *transcendental* reduction *only the purely formal trait* of a *conversion of the gaze* — and nothing of its content
 
 - **introduced** · `reduktion/franck-space/006` · *phenomenological construction*
   The second component is phenomenological construction, the projection of the pre-given being with regard to its being and ontological structures.
-  `franck-heidegger-and-the-problem-of-space-commentary#h1-chapter-i-the-question-of-being` · [Chapter I — The Question of Being](https://faultynode.github.io/commentaries/commentaries/fanck/franck-heidegger-and-the-problem-of-space-commentary.html#chapter-i--the-question-of-being)
+  `franck-heidegger-and-the-problem-of-space-commentary#h1-chapter-i-the-question-of-being` · [Chapter I — The Question of Being](https://faultynode.github.io/commentaries/commentaries/franck/franck-heidegger-and-the-problem-of-space-commentary.html#chapter-i--the-question-of-being)
   > The *projection of the pre-given being*, with regard to its being and its ontological structures, is what is called *phenomenological construction*.
 
 - **introduced** · `reduktion/franck-space/007` · *destruction*
   The third component is destruction, required because the history of ontology covers over the possibility of fundamental-ontological construction as a forgetting of the first experiences of being.
-  `franck-heidegger-and-the-problem-of-space-commentary#h1-chapter-i-the-question-of-being` · [Chapter I — The Question of Being](https://faultynode.github.io/commentaries/commentaries/fanck/franck-heidegger-and-the-problem-of-space-commentary.html#chapter-i--the-question-of-being)
+  `franck-heidegger-and-the-problem-of-space-commentary#h1-chapter-i-the-question-of-being` · [Chapter I — The Question of Being](https://faultynode.github.io/commentaries/commentaries/franck/franck-heidegger-and-the-problem-of-space-commentary.html#chapter-i--the-question-of-being)
   > The history of ontology *covers over* the possibility of fundamental-ontological construction; it constitutes a *forgetting of the first experiences of being* that lie at the origin of metaphysics.
 
 *Partial pass: Covers the Introduction and Chapter I, 'The Question of Being'. The later chapters on space are not covered.*
@@ -1470,16 +1470,16 @@
 *Where the theme's terms occur but no extraction pass has run. Silence in the sections above is silence about these files, not evidence of absence in them.*
 
 - `husserliana-8-erste-philosophie-ii-commentary` - 393 term hits, no record
-- `henry-phenomenologie-de-la vie-1-commentary` - 153 term hits, no record
-- `Reduction et donation Commentary` - 123 term hits, no record
+- `henry-phenomenologie-de-la-vie-1-commentary` - 153 term hits, no record
+- `marion-reduction-et-donation-commentary` - 124 term hits, no record
 - `henry-phenomenologie-de-la-vie-2-commentary` - 115 term hits, no record
 - `henry-genealogie-de-la-psychanalyse-commentary` - 102 term hits, no record
 - `heidegger-ga-26-metaphysische-anfangsgruende-der-logik-commentary` - 36 term hits, no record
-- `kojève-introduction-à-la-lecture-de-hegel-commentary` - 36 term hits, no record
+- `kojeve-introduction-a-la-lecture-de-hegel-commentary` - 36 term hits, no record
 - `husserliana-4-ideas-ii-commentary` - 21 term hits, no record
 - `lacan-seminar-11-the-four-fundamental-concepts-of-psychoanalysis-commentary` - 17 term hits, no record
 - `descartes-regulae-ad-directionem-ingenii-commentary` - 12 term hits, no record
-- `Discours de la methode Commentary` - 9 term hits, no record
+- `descartes-discours-de-la-methode-commentary` - 9 term hits, no record
 - `leibniz-monadology-commentary` - 9 term hits, no record
 - `husserliana-28-vorlesungen-uber-ethik-und-wertlehre-commentary` - 8 term hits, no record
 - `heidegger-ga-3-kant-und-das-problem-der-metaphysik-commentary` - 6 term hits, no record
@@ -1488,7 +1488,7 @@
 - `husserliana-10-inneres-zeitbewusstsein-commentary` - 5 term hits, no record
 - `heidegger-ga-19-platon-sophistes-commentary` - 4 term hits, no record
 - `husserliana-19-1-fifth-logical-investigation-commentary` - 4 term hits, no record
-- `Passions de l ame Commentary` - 3 term hits, no record
+- `descartes-passions-de-lame-commentary` - 3 term hits, no record
 - `freud-gw-13-massenpsychologie-und-ich-analyse-commentary` - 3 term hits, no record
 - `heidegger-ga-61-phenomenological-interpretations-of-aristotle-commentary` - 3 term hits, no record
 - `husserl-erfahrung-und-urteil-commentary` - 3 term hits, no record

@@ -1732,7 +1732,7 @@
 
 *Where the theme's terms occur but no extraction pass has run. Silence in the sections above is silence about these files, not evidence of absence in them.*
 
-- `kojève-introduction-à-la-lecture-de-hegel-commentary` - 418 term hits, no record
+- `kojeve-introduction-a-la-lecture-de-hegel-commentary` - 418 term hits, no record
 - `henry-genealogie-de-la-psychanalyse-commentary` - 263 term hits, no record
 - `heidegger-ga-3-kant-und-das-problem-der-metaphysik-commentary` - 226 term hits, no record
 - `husserliana-10-inneres-zeitbewusstsein-commentary` - 226 term hits, no record
@@ -1747,7 +1747,7 @@
 - `marion-sur-le-prisme-metaphysique-de-descartes-commentary` - 174 term hits, no record
 - `husserl-prolegomena-commentary` - 164 term hits, no record
 - `heidegger-being-and-time-commentary` - 159 term hits, no record
-- `henry-phenomenologie-de-la vie-1-commentary` - 154 term hits, no record
+- `henry-phenomenologie-de-la-vie-1-commentary` - 154 term hits, no record
 - `heidegger-ga-20-prolegomena-zur-geschichte-des-zeitbegriffs-commentary` - 113 term hits, no record
 - `husserliana-13-basic-problems-of-phenomenology-commentary` - 106 term hits, no record
 - `franck-chair-et-corps-commentary` - 101 term hits, no record
@@ -1758,13 +1758,13 @@
 - `husserl-krisis-commentary` - 87 term hits, no record
 - `heidegger-ga-18-grundbegriffe-der-aristotelischen-philosophie-commentary` - 81 term hits, no record
 - `husserliana-1-cartesianische-meditationen-commentary` - 77 term hits, no record
-- `Reduction et donation Commentary` - 76 term hits, no record
 - `heidegger-ga-24-die-grundprobleme-der-phanomenologie-commentary` - 76 term hits, no record
+- `marion-reduction-et-donation-commentary` - 76 term hits, no record
 - `fichte-science-of-knowing-commentary` - 75 term hits, no record
-- `Discours de la methode Commentary` - 65 term hits, no record
+- `descartes-discours-de-la-methode-commentary` - 65 term hits, no record
 - `heidegger-ga-19-platon-sophistes-commentary` - 65 term hits, no record
 - `mohanty-philosophy-of-edmund-husserl-commentary` - 64 term hits, no record
-- `Passions de l ame Commentary` - 62 term hits, no record
+- `descartes-passions-de-lame-commentary` - 62 term hits, no record
 - `picht-de-anima-commentary` - 52 term hits, no record
 - `heidegger-ga-17-einfuhrung-in-die-phanomenologische-forschung-commentary` - 48 term hits, no record
 - `heidegger-ga-61-phenomenological-interpretations-of-aristotle-commentary` - 45 term hits, no record
