@@ -1,0 +1,151 @@
+{
+  "schema_version": 1,
+  "commentary": "mohanty-philosophy-of-edmund-husserl-commentary",
+  "source_sha256": "03d39a69c2a670c782feff731a869690d51cdc72bd141faf47a890ead261a069",
+  "extracted_at": "2026-10-18",
+  "extractor": {
+    "agent": "claude-code",
+    "model": "claude-opus-5-5",
+    "prompt": "synthesis/prompts/inheritance-prompt.md",
+    "note": "source_sha256 is the LF digest from corpus.json (CRLF checkout; a local validate reports a false staleness). The commentary covers only Mohanty's Preface and chapter 1 and was read in full. As in the Kern record, most engagements are Husserl's, as Mohanty reconstructs them in the Philosophie der Arithmetik; two are Mohanty's own, and their claims say so (inh/mohanty-peh/003, 014). The commentary gives no page references, so primary_locator names the chapter."
+  },
+  "coverage": "complete",
+  "coverage_note": "Whole commentary read (Preface and chapter 1, 'Toward a Philosophy of Mathematics'). Recorded: Husserl's engagements with Brentano, Cohen, Weierstrass, Helmholtz and Kronecker, Herbart, Beneke, Kant, Mill and Lange, Jevons, Sigwart and Schuppe, and Frege; Mohanty's own with the Frege-derived psychologism narrative and with Crispin Wright. The Preface engages no predecessor.",
+  "engagements": [
+    {
+      "id": "inh/mohanty-peh/001",
+      "locator": "mohanty-philosophy-of-edmund-husserl-commentary#h2-1-toward-a-philosophy-of-mathematics",
+      "primary_locator": "Mohanty, The Philosophy of Edmund Husserl, ch. 1",
+      "predecessor": { "author": "Franz Brentano" },
+      "mode": "acknowledged-debt",
+      "claim": "In his letter of 29 December 1886 Husserl contrasts the scientific philosophy of the day with Brentano's 'Gesundbrunnen', the wellspring of philosophical health to which he says he will always return.",
+      "quote": "This is contrasted with Brentano’s “Gesundbrunnen” — his wellspring of philosophical health and rigor — to which Husserl says he will always return."
+    },
+    {
+      "id": "inh/mohanty-peh/002",
+      "locator": "mohanty-philosophy-of-edmund-husserl-commentary#h2-1-toward-a-philosophy-of-mathematics",
+      "primary_locator": "Mohanty, The Philosophy of Edmund Husserl, ch. 1",
+      "predecessor": { "author": "Herman Cohen" },
+      "mode": "polemical-rejection",
+      "claim": "Husserl quotes Cohen's sentence on continuity as an example of what passed for scientific philosophy while being 'profound nonsense'.",
+      "quote": "To amuse Brentano, Husserl quotes a sentence on “continuity” by Herman Cohen, which he presents as an example of what at that time passed for scientific philosophy while really being what he calls “tiefsinnigen Blödsinn” (profound nonsense) or “blödsinnigen Tiefsinn” (nonsensical profundity)."
+    },
+    {
+      "id": "inh/mohanty-peh/003",
+      "locator": "mohanty-philosophy-of-edmund-husserl-commentary#h2-1-toward-a-philosophy-of-mathematics",
+      "primary_locator": "Mohanty, The Philosophy of Edmund Husserl, ch. 1",
+      "predecessor": { "author": "Gottlob Frege", "text": "review of the Philosophie der Arithmetik" },
+      "mode": "polemical-rejection",
+      "claim": "Mohanty rejects the standard story, going back to Frege's review, that the Philosophie der Arithmetik held a psychologistic position retracted under Frege's criticism: Frege did not understand Husserl's theory, which is a first attempt at a phenomenology of arithmetic.",
+      "quote": "Frege, in fact, did not understand the nature of Husserl’s theory."
+    },
+    {
+      "id": "inh/mohanty-peh/004",
+      "locator": "mohanty-philosophy-of-edmund-husserl-commentary#h2-1-toward-a-philosophy-of-mathematics",
+      "primary_locator": "Mohanty, The Philosophy of Edmund Husserl, ch. 1",
+      "predecessor": { "author": "Weierstrass" },
+      "mode": "acknowledged-debt",
+      "claim": "In assigning priority to cardinal numbers Husserl follows his teacher Weierstrass.",
+      "quote": "In assigning priority to cardinals, Husserl follows his teacher Weierstrass and rejects the view held by distinguished scholars such as Helmholtz and Kronecker, who, Husserl argues, do not clearly distinguish between numbers and numerical signs and consequently misinterpret the symbolic process of counting."
+    },
+    {
+      "id": "inh/mohanty-peh/005",
+      "locator": "mohanty-philosophy-of-edmund-husserl-commentary#h2-1-toward-a-philosophy-of-mathematics",
+      "primary_locator": "Mohanty, The Philosophy of Edmund Husserl, ch. 1",
+      "predecessor": { "author": "Helmholtz; Kronecker" },
+      "mode": "polemical-rejection",
+      "claim": "Husserl rejects the view of Helmholtz and Kronecker, who do not distinguish numbers from numerical signs and so misinterpret the symbolic process of counting.",
+      "quote": "In assigning priority to cardinals, Husserl follows his teacher Weierstrass and rejects the view held by distinguished scholars such as Helmholtz and Kronecker, who, Husserl argues, do not clearly distinguish between numbers and numerical signs and consequently misinterpret the symbolic process of counting."
+    },
+    {
+      "id": "inh/mohanty-peh/006",
+      "locator": "mohanty-philosophy-of-edmund-husserl-commentary#h2-1-toward-a-philosophy-of-mathematics",
+      "primary_locator": "Mohanty, The Philosophy of Edmund Husserl, ch. 1",
+      "predecessor": { "author": "Herbart" },
+      "mode": "acknowledged-debt",
+      "claim": "Husserl agrees with Herbart that number has no more in common with time than any other representation that can be produced only gradually.",
+      "quote": "Regarding the relevance of time for the concept of number, Husserl agrees with Herbart that number has no more in common with time than with a hundred other kinds of representations that can be produced only gradually."
+    },
+    {
+      "id": "inh/mohanty-peh/007",
+      "locator": "mohanty-philosophy-of-edmund-husserl-commentary#h2-1-toward-a-philosophy-of-mathematics",
+      "primary_locator": "Mohanty, The Philosophy of Edmund Husserl, ch. 1",
+      "predecessor": { "author": "Beneke" },
+      "mode": "acknowledged-debt",
+      "claim": "Husserl agrees with Beneke that the elapsing of time while we count proves nothing about number.",
+      "quote": "He also agrees with Beneke that the fact that time elapses while we are counting cannot prove anything — for when, over what, does time not elapse?"
+    },
+    {
+      "id": "inh/mohanty-peh/008",
+      "locator": "mohanty-philosophy-of-edmund-husserl-commentary#h2-1-toward-a-philosophy-of-mathematics",
+      "primary_locator": "Mohanty, The Philosophy of Edmund Husserl, ch. 1",
+      "predecessor": { "author": "Immanuel Kant" },
+      "mode": "polemical-rejection",
+      "claim": "Against Kant, who related the origin of numbers to time, Husserl holds that time is only a psychological precondition of number concepts and enters into neither their logical nature nor that of totality.",
+      "quote": "In this respect, Husserl differs from Kant, who, as is well known, had related the origin of numbers to time."
+    },
+    {
+      "id": "inh/mohanty-peh/009",
+      "locator": "mohanty-philosophy-of-edmund-husserl-commentary#h2-1-toward-a-philosophy-of-mathematics",
+      "primary_locator": "Mohanty, The Philosophy of Edmund Husserl, ch. 1",
+      "predecessor": { "author": "Immanuel Kant" },
+      "mode": "polemical-rejection",
+      "claim": "Husserl finds Kant's account of number as the pure schema of magnitude 'dark' and inconsistent with Kant's own concept of schema: the schema of quantity would be the procedure of counting, not number itself.",
+      "quote": "Husserl considers this text “dark” and finds it incompatible with what Kant himself says about “schema.”"
+    },
+    {
+      "id": "inh/mohanty-peh/010",
+      "locator": "mohanty-philosophy-of-edmund-husserl-commentary#h2-1-toward-a-philosophy-of-mathematics",
+      "primary_locator": "Mohanty, The Philosophy of Edmund Husserl, ch. 1",
+      "predecessor": { "author": "Mill; Lange" },
+      "mode": "polemical-rejection",
+      "claim": "Husserl finds the derivation of number concepts from the representation of space, held by Mill and Lange, too restrictive, since non-spatial things can be counted and rearrangement leaves number unchanged.",
+      "quote": "Such a view, held by Mill and Lange, is in consonance with the reduction of arithmetic to geometry. Again, Husserl finds this theory too restrictive for number concepts."
+    },
+    {
+      "id": "inh/mohanty-peh/011",
+      "locator": "mohanty-philosophy-of-edmund-husserl-commentary#h2-1-toward-a-philosophy-of-mathematics",
+      "primary_locator": "Mohanty, The Philosophy of Edmund Husserl, ch. 1",
+      "predecessor": { "author": "Jevons; Sigwart; Schuppe" },
+      "mode": "polemical-rejection",
+      "claim": "Husserl rejects the theory of Jevons, Sigwart and Schuppe that counted objects must be given as different: neither difference nor similarity is needed for collective combination.",
+      "quote": "So also Jevons: number is another name for diversity. Husserl rejects this theory."
+    },
+    {
+      "id": "inh/mohanty-peh/012",
+      "locator": "mohanty-philosophy-of-edmund-husserl-commentary#h2-1-toward-a-philosophy-of-mathematics",
+      "primary_locator": "Mohanty, The Philosophy of Edmund Husserl, ch. 1",
+      "predecessor": { "author": "Franz Brentano" },
+      "mode": "terminological-borrowing",
+      "claim": "Husserl sets collective combination apart from the primary relations, which are physical phenomena in Brentano's sense, and calls it a psychic relation; 'psychic' here means a relation disclosed by reflection on the act and open to unlimited variation of its relata, not a relation in a mind.",
+      "quote": "It is not one of the primary relations, which are, in Brentano’s sense, physical phenomena, or, as Husserl calls them here, primary contents."
+    },
+    {
+      "id": "inh/mohanty-peh/013",
+      "locator": "mohanty-philosophy-of-edmund-husserl-commentary#h2-1-toward-a-philosophy-of-mathematics",
+      "primary_locator": "Mohanty, The Philosophy of Edmund Husserl, ch. 1",
+      "predecessor": { "author": "Gottlob Frege" },
+      "mode": "polemical-rejection",
+      "claim": "Frege's ideal of grounding arithmetic on formal definitions is for Husserl a false ideal: fundamental concepts admit no logical definition, only a description of the phenomena from which they are abstracted.",
+      "quote": "What Frege attempts is to ground arithmetic on a series of formal definitions, from which the theorems of this science can be logically derived. In Husserl’s view, this is a false ideal."
+    },
+    {
+      "id": "inh/mohanty-peh/014",
+      "locator": "mohanty-philosophy-of-edmund-husserl-commentary#h2-1-toward-a-philosophy-of-mathematics",
+      "primary_locator": "Mohanty, The Philosophy of Edmund Husserl, ch. 1",
+      "predecessor": { "author": "Gottlob Frege", "text": "Grundlagen der Arithmetik" },
+      "mode": "polemical-rejection",
+      "claim": "Frege's definition of number as the extension of a second-order concept does not, for Husserl, clarify the sense of 'number', despite its acuity and 'unfruitful hyper-subtleties'.",
+      "quote": "Husserl’s point is that the definition in terms of “extension” and a second-order concept does not clarify the *sense* of “number,” in spite of the “Scharfsinn” (acuity) and “unfruchtbare Hypersubtililitäten” (unfruitful hyper-subtleties) of the definition."
+    },
+    {
+      "id": "inh/mohanty-peh/015",
+      "locator": "mohanty-philosophy-of-edmund-husserl-commentary#h2-1-toward-a-philosophy-of-mathematics",
+      "primary_locator": "Mohanty, The Philosophy of Edmund Husserl, ch. 1",
+      "predecessor": { "author": "Crispin Wright", "text": "Frege's Conception of Numbers as Objects" },
+      "mode": "acknowledged-debt",
+      "claim": "Mohanty credits Crispin Wright's book on Frege, which asks the same question as Husserl about statements of numerical identity, with helping him understand Husserl's point.",
+      "quote": "This question is asked, besides Husserl, also by Crispin Wright, whose book on Frege’s *Conception of Numbers as Objects* Mohanty has found extremely helpful in understanding Husserl’s point."
+    }
+  ]
+}

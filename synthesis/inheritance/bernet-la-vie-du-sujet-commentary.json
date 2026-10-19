@@ -1,0 +1,232 @@
+{
+  "schema_version": 1,
+  "commentary": "bernet-la-vie-du-sujet-commentary",
+  "source_sha256": "4269d26270bb4f610dfccc053738781719d3fd12980aa525092b4633187232af",
+  "extracted_at": "2026-10-18",
+  "extractor": {
+    "agent": "claude-code",
+    "model": "claude-opus-5-5",
+    "prompt": "synthesis/prompts/inheritance-prompt.md",
+    "note": "source_sha256 is the LF digest from corpus.json (CRLF checkout; a local validate reports a false staleness). Retrieval by predecessor name (Heidegger, Derrida, Merleau-Ponty, Cassirer, Proust, Barthes, Henry, Levinas, Lacan, Fink, Kant, Descartes, Brentano, Frege, Gurwitsch, Sartre, Ricœur, Marion, Patočka, Dilthey) with a relational word; Husserl, the subject of every essay, was not queried as a name. The commentary's opening guard is respected: Bernet's expositions of Heidegger, Derrida, Henry and Merleau-Ponty are not endorsements, so only places where the commentary marks Bernet's own verdict are recorded as his. Other voices (Heidegger, Merleau-Ponty, Sartre, Henry and Husserl on one another) are recorded where Bernet reports an engagement, and each claim names whose it is. primary_locator gives the essay, with Bernet's page where the quoted sentence carries one."
+  },
+  "coverage": "partial",
+  "coverage_note": "Read in full: the opening guards, the Foreword and the Introduction. Elsewhere read at the sentences naming a non-Husserl predecessor together with a relational word, with targeted context in I.1 (intentionality and transcendence), II.2 (Cassirer and Heidegger), II.3 (Merleau-Ponty), III.1 (time), III.4 (Derrida) and the Conclusion. Not recorded: I.2-3 and II.1, III.2 (essays on Husserl alone); III.3 on Proust and Barthes, which compares frames of memory without an engagement in any of the five modes; Kant, Lacan, Gurwitsch, Natorp, Freud and Schelling, which appear only in passing.",
+  "engagements": [
+    {
+      "id": "inh/bernet-vds/001",
+      "locator": "bernet-la-vie-du-sujet-commentary#h2-foreword",
+      "primary_locator": "La vie du sujet, Avant-propos",
+      "predecessor": { "author": "Martin Heidegger" },
+      "mode": "polemical-rejection",
+      "claim": "Heidegger stresses the Cartesian features of Husserl's transcendental consciousness so exclusively that his critique is partly unjust and conceals what Dasein still owes to Husserl's conception of transcendental life.",
+      "quote": "Heidegger accentuates the Cartesian features of Husserlian transcendental consciousness so exclusively that his critique is not merely partly unjust but conceals what Dasein still owes to Husserl's conception of transcendental life."
+    },
+    {
+      "id": "inh/bernet-vds/002",
+      "locator": "bernet-la-vie-du-sujet-commentary#h2-foreword",
+      "primary_locator": "La vie du sujet, Avant-propos",
+      "predecessor": { "author": "Jean-Paul Sartre" },
+      "mode": "polemical-rejection",
+      "claim": "Sartre attacks the egological subject while resting on a position Husserl had himself defended and then abandoned, with reasons given at length.",
+      "quote": "Sartre attacks the egological subject while resting on a position Husserl had himself defended and then abandoned, with reasons given at length."
+    },
+    {
+      "id": "inh/bernet-vds/003",
+      "locator": "bernet-la-vie-du-sujet-commentary#h2-foreword",
+      "primary_locator": "La vie du sujet, Avant-propos",
+      "predecessor": { "author": "Maurice Merleau-Ponty" },
+      "mode": "polemical-rejection",
+      "claim": "Merleau-Ponty presses transcendence, as Henry presses immanence, until it endangers what was most original in a subjectivity understood as transcendence within immanence, the formula Bernet defends.",
+      "quote": "Merleau-Ponty and Henry, closer to Husserl's implicit aspirations, press transcendence and immanence respectively until they endanger what was most original in a subjectivity understood as \"transcendence within immanence\"."
+    },
+    {
+      "id": "inh/bernet-vds/004",
+      "locator": "bernet-la-vie-du-sujet-commentary#h2-introduction-the-phenomenological-reduction-and-the-subject-s-double-life",
+      "primary_locator": "La vie du sujet, Introduction, pp. 7-8",
+      "predecessor": { "author": "Michel Henry" },
+      "mode": "acknowledged-debt",
+      "claim": "Without adjudicating Henry's reduction, Bernet meets Henry's 'duplicity of appearing' at one point: his aim is to exhibit the double life of the transcendental subject and of Dasein in a reduction with a double objective.",
+      "quote": "His design does meet Henry's \"duplicity of appearing\" at one point: he wants to exhibit the double life of the transcendental subject and of Dasein as it shows itself in a reduction that turns out to pursue a double objective."
+    },
+    {
+      "id": "inh/bernet-vds/005",
+      "locator": "bernet-la-vie-du-sujet-commentary#h3-heidegger",
+      "primary_locator": "La vie du sujet, Introduction, pp. 21-22",
+      "predecessor": { "author": "Eugen Fink", "text": "Sixth Cartesian Meditation" },
+      "mode": "polemical-rejection",
+      "claim": "The Sixth Meditation of Husserl and Fink questions the being of transcendental consciousness far beyond Ideen I, but still assumes that this being appears as an intentional object, however higher-order.",
+      "quote": "But even this late text of Husserl and Fink, though it does interrogate the being of transcendental consciousness, still assumes that this being appears in the form of an intentional object, however higher-order."
+    },
+    {
+      "id": "inh/bernet-vds/006",
+      "locator": "bernet-la-vie-du-sujet-commentary#h4-the-intentionality-of-sensible-and-categorial-acts",
+      "primary_locator": "La vie du sujet, I.1",
+      "predecessor": { "author": "Edmund Husserl" },
+      "mode": "destructive-appropriation",
+      "claim": "Behind Heidegger's explicit allegiance to Husserl lies covert work that clarifies and corrects Husserl's analyses of intentionality: under the appearance of serving Husserl, Heidegger uses him for fundamental ontology.",
+      "quote": "But the explicit allegiance goes together with more covert work that clarifies and even corrects certain Husserlian analyses, and one should not be taken in: under the appearance of serving Husserl, Heidegger uses him, and serves only himself."
+    },
+    {
+      "id": "inh/bernet-vds/007",
+      "locator": "bernet-la-vie-du-sujet-commentary#h4-the-being-of-intentional-consciousness",
+      "primary_locator": "La vie du sujet, I.1, pp. 53-54",
+      "predecessor": { "author": "Edmund Husserl", "text": "Ideen I" },
+      "mode": "polemical-rejection",
+      "claim": "In the Marburg courses Heidegger dismantles the ontological significations with which the reduction of Ideen I invests pure consciousness, contesting that being is apprehensibility by consciousness and that the subject's being is reached by turning from factical existence.",
+      "quote": "Heidegger patiently dismantles the several ontological significations with which pure consciousness is invested by the reduction (pp. 53–54)."
+    },
+    {
+      "id": "inh/bernet-vds/008",
+      "locator": "bernet-la-vie-du-sujet-commentary#h4-intentionality-and-transcendence",
+      "primary_locator": "La vie du sujet, I.1",
+      "predecessor": { "author": "Edmund Husserl" },
+      "mode": "polemical-rejection",
+      "claim": "Heidegger's chief reproach to Husserl's account of intentionality is that it thought the being of the intentional and of intentionality badly, by making them beings of a particular type.",
+      "quote": "Consequently Heidegger's chief reproach to the Husserlian understanding of intentionality is that it thought the being of the intentional and the being of intentionality badly, by making them into beings of a particular type"
+    },
+    {
+      "id": "inh/bernet-vds/009",
+      "locator": "bernet-la-vie-du-sujet-commentary#h4-method-and-status-of-a-hermeneutic-philosophy",
+      "primary_locator": "La vie du sujet, II.2, p. 154",
+      "predecessor": { "author": "Ernst Cassirer" },
+      "mode": "polemical-rejection",
+      "claim": "In his 1928 review and at Davos, Heidegger charges Cassirer with analysing the symbolic forms of objective spirit while neglecting their rootedness in the existence of an individual subject.",
+      "quote": "On that criticism, Cassirer would have concerned himself too exclusively with the analysis of the symbolic forms of objective spirit while totally neglecting the rootedness of their significance in the existence of an individual subject."
+    },
+    {
+      "id": "inh/bernet-vds/010",
+      "locator": "bernet-la-vie-du-sujet-commentary#h4-method-and-status-of-a-hermeneutic-philosophy",
+      "primary_locator": "La vie du sujet, II.2, pp. 156-157",
+      "predecessor": { "author": "Ernst Cassirer" },
+      "mode": "acknowledged-debt",
+      "claim": "Bernet turns Heidegger's criticism into evidence of Cassirer's hermeneutic character and credits Cassirer's hermeneutics with showing that objective spirit fragments into a multiplicity of symbolic forms.",
+      "quote": "Cassirer's hermeneutics has the further great merit of bringing to light that objective spirit fragments into a multiplicity of symbolic forms or universes (p. 157)."
+    },
+    {
+      "id": "inh/bernet-vds/011",
+      "locator": "bernet-la-vie-du-sujet-commentary#h3-3-perception-and-natural-life-husserl-and-merleau-ponty",
+      "primary_locator": "La vie du sujet, II.3, pp. 163-164",
+      "predecessor": { "author": "Maurice Merleau-Ponty" },
+      "mode": "acknowledged-debt",
+      "claim": "Bernet acknowledges how much his generation owes Merleau-Ponty, whose influence shaped its reading of Husserl, Sartre, Heidegger and Derrida.",
+      "quote": "For many of us it is hard to say what we owe him, so thoroughly was our reading of Husserl, Sartre, and even Heidegger and Derrida influenced by him."
+    },
+    {
+      "id": "inh/bernet-vds/012",
+      "locator": "bernet-la-vie-du-sujet-commentary#h4-i-3",
+      "primary_locator": "La vie du sujet, II.3, p. 170",
+      "predecessor": { "author": "Husserl; Heidegger" },
+      "mode": "terminological-borrowing",
+      "claim": "Merleau-Ponty's terms for the anonymous natural life governed by a general 'One', borrowed from Husserl and Heidegger, take on a new sense in the Phenomenology of Perception.",
+      "quote": "When the *Phenomenology of Perception* speaks of the anonymous character of a natural life governed by an indeterminate and general \"One\", these terms borrowed from Husserl and Heidegger take on a new sense (p. 170)."
+    },
+    {
+      "id": "inh/bernet-vds/013",
+      "locator": "bernet-la-vie-du-sujet-commentary#h3-1-origin-of-time-and-originary-time-husserl-and-heidegger",
+      "primary_locator": "La vie du sujet, III.1",
+      "predecessor": { "author": "Martin Heidegger", "text": "Sein und Zeit" },
+      "mode": "polemical-rejection",
+      "claim": "Husserl annotated Sein und Zeit copiously but scarcely grasped the novelty of an ontological interpretation of time; his remarks on the second division show irritation at Heidegger's abandonment of phenomenology's terminology.",
+      "quote": "Husserl did read and copiously annotate *Sein und Zeit*, but he scarcely grasped the novelty of an ontological interpretation of time"
+    },
+    {
+      "id": "inh/bernet-vds/014",
+      "locator": "bernet-la-vie-du-sujet-commentary#h4-i-6",
+      "primary_locator": "La vie du sujet, III.4, p. 275",
+      "predecessor": { "author": "Jacques Derrida", "text": "La voix et le phénomène" },
+      "mode": "polemical-rejection",
+      "claim": "Bernet's first objection: Derrida condemns as unphenomenological an essential distinction not found as such in concrete phenomena, and so depends on the very Husserl he claims to dissolve.",
+      "quote": "This is Bernet's first substantive objection, and it turns Derrida's own dependence on Husserl against the claim to have dissolved him."
+    },
+    {
+      "id": "inh/bernet-vds/015",
+      "locator": "bernet-la-vie-du-sujet-commentary#h4-i-6",
+      "primary_locator": "La vie du sujet, III.4, pp. 276-277",
+      "predecessor": { "author": "Jacques Derrida", "text": "La voix et le phénomène" },
+      "mode": "polemical-rejection",
+      "claim": "Derrida's conclusions on the reduction, that it cuts transcendental consciousness off from the world and others, are too hasty and even abusive with respect to Husserl's work as a whole, though his premises hold.",
+      "quote": "If Derrida's conclusions on the nature of the reduction are certainly too hasty and even abusive with respect to Husserl's work as a whole, the same does not hold for the premises of his interpretation (pp. 276–277)."
+    },
+    {
+      "id": "inh/bernet-vds/016",
+      "locator": "bernet-la-vie-du-sujet-commentary#h4-ii-6",
+      "primary_locator": "La vie du sujet, III.4, pp. 283-284",
+      "predecessor": { "author": "Jacques Derrida", "text": "La voix et le phénomène" },
+      "mode": "acknowledged-debt",
+      "claim": "Bernet confirms, from Husserl's texts on time including some Derrida did not know, Derrida's reading that retention leads Husserl to abandon a time originating in an absolute now.",
+      "quote": "An attentive examination of Husserl's texts on time — even texts Derrida did not take into account or did not know — confirms this interpretation (pp. 283–284)."
+    },
+    {
+      "id": "inh/bernet-vds/017",
+      "locator": "bernet-la-vie-du-sujet-commentary#h4-iii-6",
+      "primary_locator": "La vie du sujet, III.4, pp. 294-295",
+      "predecessor": { "author": "Jacques Derrida", "text": "La voix et le phénomène" },
+      "mode": "acknowledged-debt",
+      "claim": "Derrida's interpretation has the great merit of showing that the sense of the reduction is inseparable from an idea of language, even if that sense is not already revealed in the opposition of expression and indication.",
+      "quote": "One can hardly maintain that the ultimate sense of the reduction reveals itself already in the opposition of expression and indication, but Derrida's interpretation has the very great merit of showing that the sense of that reduction is inseparable from a certain idea of language"
+    },
+    {
+      "id": "inh/bernet-vds/018",
+      "locator": "bernet-la-vie-du-sujet-commentary#h4-iii-6",
+      "primary_locator": "La vie du sujet, III.4, p. 295",
+      "predecessor": { "author": "Jacques Derrida", "text": "La voix et le phénomène" },
+      "mode": "polemical-rejection",
+      "claim": "Bernet's final objection: the reduction does not deport transcendental consciousness into a separate world, and the phenomenon is never a pure voice; its history is written in the prose of the world.",
+      "quote": "The reduction is therefore not the deportation of transcendental consciousness into a separate world; the phenomenon is never a pure voice; and the history of transcendental consciousness is written, as Merleau-Ponty says, in \"the prose of the world\"."
+    },
+    {
+      "id": "inh/bernet-vds/019",
+      "locator": "bernet-la-vie-du-sujet-commentary#h4-genesis-of-egological-subjectivism",
+      "primary_locator": "La vie du sujet, Conclusion",
+      "predecessor": { "author": "Edmund Husserl", "text": "Ideen I" },
+      "mode": "polemical-rejection",
+      "claim": "Sartre's critique of the egological conception of Ideen I in The Transcendence of the Ego leads back to the position of the Logical Investigations, itself taken from Brentano.",
+      "quote": "In defending his thesis of *The Transcendence of the Ego* and criticizing the egological conception of *Ideen I*, Sartre in fact leads us back to the position of the *Logical Investigations*"
+    },
+    {
+      "id": "inh/bernet-vds/020",
+      "locator": "bernet-la-vie-du-sujet-commentary#h4-genesis-of-objectivism-and-the-analysis-of-the-intentionality-of-feelings",
+      "primary_locator": "La vie du sujet, Conclusion",
+      "predecessor": { "author": "Edmund Husserl", "text": "Ideen I" },
+      "mode": "polemical-rejection",
+      "claim": "Henry offers the severest and most attentive critique of the objectivism of Ideen I's analysis of the intentionality of feelings, holding that their subjective character excludes their being intentional experiences.",
+      "quote": "It is again in Henry that one finds the severest, but doubtless also the most attentive, critique of the parti pris for objectivism as it manifests itself notably in *Ideen I*'s analysis"
+    },
+    {
+      "id": "inh/bernet-vds/021",
+      "locator": "bernet-la-vie-du-sujet-commentary#h3-overcoming-subjectivism-and-objectivism-in-husserl",
+      "primary_locator": "La vie du sujet, Conclusion, pp. 315-316",
+      "predecessor": { "author": "Michel Henry" },
+      "mode": "polemical-rejection",
+      "claim": "Henry's taking-over of Husserl's analyses of non-objectivating self-consciousness may lead to an ontological dualism of subject and world that places him, despite himself, in the filiation of Sartre.",
+      "quote": "One may ask whether this does not lead to an ontological dualism opposing subject to world, placing Henry, doubtless despite himself, in the filiation of Sartrean thought."
+    },
+    {
+      "id": "inh/bernet-vds/022",
+      "locator": "bernet-la-vie-du-sujet-commentary#h4-the-impressional-intentionality-of-the-relation-to-self",
+      "primary_locator": "La vie du sujet, Conclusion, pp. 319-320",
+      "predecessor": { "author": "Franz Brentano" },
+      "mode": "acknowledged-debt",
+      "claim": "Brentano fixed the principal stake of the question of self-consciousness by distinguishing an inner representation that accompanies perception from an inner observation.",
+      "quote": "It was Brentano who fixed the principal stake by making at the outset the distinction between an inner representation (*innere Vorstellung*) and an inner observation (*innere Beobachtung*)"
+    },
+    {
+      "id": "inh/bernet-vds/023",
+      "locator": "bernet-la-vie-du-sujet-commentary#h4-the-impressional-intentionality-of-the-relation-to-self",
+      "primary_locator": "La vie du sujet, Conclusion, p. 320",
+      "predecessor": { "author": "Edmund Husserl" },
+      "mode": "acknowledged-debt",
+      "claim": "Against Sartre, Bernet finds in Husserl himself the most convincing alternative to the Husserlian conception that makes the self of pre-reflective consciousness a mere object in waiting.",
+      "quote": "It is not in Sartre but in Husserl himself that one can find the most convincing alternative to this Husserlian conception making the self of pre-reflective consciousness a mere object in waiting (p. 320)."
+    },
+    {
+      "id": "inh/bernet-vds/024",
+      "locator": "bernet-la-vie-du-sujet-commentary#h3-conclusion",
+      "primary_locator": "La vie du sujet, Conclusion",
+      "predecessor": { "author": "Emmanuel Levinas" },
+      "mode": "acknowledged-debt",
+      "claim": "Bernet draws on Levinas's showing, through the ontological difference of existent and existence, that its own existence appears to the existent insofar as it differentiates itself from it.",
+      "quote": "In insisting on the ontological difference between the existent and existence, Levinas showed how its own existence appears to the existent precisely insofar as the latter differentiates itself from it."
+    }
+  ]
+}

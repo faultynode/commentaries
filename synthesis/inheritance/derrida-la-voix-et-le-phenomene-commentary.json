@@ -1,0 +1,160 @@
+{
+  "schema_version": 1,
+  "commentary": "derrida-la-voix-et-le-phenomene-commentary",
+  "source_sha256": "4827e7d85b4a7071fe9fbf83dd055116407098d0eed75e1a3b0a32f970ca0961",
+  "extracted_at": "2026-10-18",
+  "extractor": {
+    "agent": "claude-code",
+    "model": "claude-opus-5-5",
+    "prompt": "synthesis/prompts/inheritance-prompt.md",
+    "note": "source_sha256 is the LF digest from corpus.json (CRLF checkout; a local validate reports a false staleness). The commentary was read in full. Its subject is Derrida's reading of Husserl's First Logical Investigation, so nearly every engagement is with Husserl. Left out as passing mentions: the Poe and Ideas I epigraphs, the commentary's own contrast of Husserl with Frege, Heidegger's praise of the time lectures, and Kant only as Husserl's 'Idea in the Kantian sense'. primary_locator gives the chapter and page range the commentary heads each chapter with (1989 Quadrige/PUF edition)."
+  },
+  "coverage": "complete",
+  "coverage_note": "Whole commentary read. Engagements recorded with Husserl (the principle of principles, the critique of metaphysics, the living present, re-presentation and appresentation, the expression/indication distinction and its reduction, intentional as voluntary consciousness, the effective/represented distinction, the time lectures, auto-affection, Verflechtung, the separation of intention and intuition, the 'I', the Idea in the Kantian sense) and with Saussure. No other predecessor does argumentative work in the commentary.",
+  "engagements": [
+    {
+      "id": "inh/derrida-vp/001",
+      "locator": "derrida-la-voix-et-le-phenomene-commentary#h3-derrida-s-guiding-question",
+      "primary_locator": "La voix et le phénomène, Introduction, pp. 1-16",
+      "predecessor": { "author": "Edmund Husserl" },
+      "mode": "polemical-rejection",
+      "claim": "Derrida asks whether Husserl's principle of principles, the presence of sense to a full and originary giving intuition, is a metaphysical presupposition that constitutes phenomenology from within rather than an accidental lapse.",
+      "quote": "Not an accidental one, not a lapse of vigilance, but one that *constitutes* phenomenology from within, in its critical project and its founding premises: namely, in what it will call the “principle of principles” — the original, giving intuition, the presence of sense to a full and originary intuition."
+    },
+    {
+      "id": "inh/derrida-vp/002",
+      "locator": "derrida-la-voix-et-le-phenomene-commentary#h3-the-project-phenomenological-critique-as-a-moment-within-metaphysics",
+      "primary_locator": "La voix et le phénomène, Introduction, pp. 1-16",
+      "predecessor": { "author": "Edmund Husserl" },
+      "mode": "polemical-rejection",
+      "claim": "Husserl's critique of metaphysics, aimed only at its degeneration in the name of an authentic first philosophy, is for Derrida itself a moment inside metaphysical assurance.",
+      "quote": "Derrida’s aim is to show, through the “privileged example” of the concept of sign, that the phenomenological critique of metaphysics is itself a moment *inside* metaphysical assurance."
+    },
+    {
+      "id": "inh/derrida-vp/003",
+      "locator": "derrida-la-voix-et-le-phenomene-commentary#h3-presence-ideality-and-the-living-present",
+      "primary_locator": "La voix et le phénomène, Introduction, pp. 1-16",
+      "predecessor": { "author": "Edmund Husserl" },
+      "mode": "polemical-rejection",
+      "claim": "The living present, for Husserl the ground of all evidence, ideality and truth, is for Derrida the unquestioned metaphysical presupposition of phenomenology and of Western metaphysics.",
+      "quote": "For Derrida, it is the unquestioned metaphysical presupposition of phenomenology — and of all Western metaphysics."
+    },
+    {
+      "id": "inh/derrida-vp/004",
+      "locator": "derrida-la-voix-et-le-phenomene-commentary#h3-temporalization-intersubjectivity-and-non-presence",
+      "primary_locator": "La voix et le phénomène, Introduction, pp. 1-16",
+      "predecessor": { "author": "Edmund Husserl" },
+      "mode": "destructive-appropriation",
+      "claim": "Derrida takes over Husserl's own analyses of temporalization (re-presentation) and intersubjectivity (appresentation) and turns them against the privilege of presence: the modification of presentation conditions presentation from the start.",
+      "quote": "In both cases, what Husserl calls a “modification of presentation” (re-presentation, appresentation) does not merely *happen to* presentation but *conditions it from the start*, “fissuring it a priori.”"
+    },
+    {
+      "id": "inh/derrida-vp/005",
+      "locator": "derrida-la-voix-et-le-phenomene-commentary#h3-husserl-s-opening-distinction-expression-vs-indication",
+      "primary_locator": "La voix et le phénomène, ch. I, pp. 17-27",
+      "predecessor": { "author": "Edmund Husserl", "text": "Logical Investigations, First Investigation" },
+      "mode": "terminological-borrowing",
+      "claim": "Derrida renders Husserl's bedeuten as vouloir-dire, so that Bedeutung becomes what someone or a discourse wants to say, always a discursive content.",
+      "quote": "Derrida proposes to render *bedeuten* as *vouloir-dire* (“to mean” in the sense of “wanting to say”), capturing the idea that *Bedeutung* is always what someone or a discourse *wants to say* — always a discursive content."
+    },
+    {
+      "id": "inh/derrida-vp/006",
+      "locator": "derrida-la-voix-et-le-phenomene-commentary#h3-indication-existence-and-the-foundations-of-reduction",
+      "primary_locator": "La voix et le phénomène, ch. II, pp. 28-33",
+      "predecessor": { "author": "Edmund Husserl" },
+      "mode": "destructive-appropriation",
+      "claim": "Derrida reads the reduction and the parallelism of the psychic and the transcendental as a relation between two modes of signification, so that the reduction would coincide with speech itself, against Husserl's belief in a pre-expressive layer of sense.",
+      "quote": "If so, the “reduction,” before becoming a method, would coincide with the most spontaneous act of spoken discourse — the simple practice of speech."
+    },
+    {
+      "id": "inh/derrida-vp/007",
+      "locator": "derrida-la-voix-et-le-phenomene-commentary#h3-what-is-expression",
+      "primary_locator": "La voix et le phénomène, ch. III, pp. 34-52",
+      "predecessor": { "author": "Edmund Husserl" },
+      "mode": "polemical-rejection",
+      "claim": "Husserl's equation of intentional and voluntary consciousness in expressive experience reveals, for Derrida, a voluntarist metaphysics in which sense wants to say itself.",
+      "quote": "Derrida suggests this reveals a deep “voluntarist metaphysics”: “Sense *wants* to signify itself; it expresses itself only in a *vouloir-dire* that is nothing but a *vouloir-se-dire* of the presence of sense.”"
+    },
+    {
+      "id": "inh/derrida-vp/008",
+      "locator": "derrida-la-voix-et-le-phenomene-commentary#h3-the-comparison-with-saussure",
+      "primary_locator": "La voix et le phénomène, ch. III, pp. 34-52",
+      "predecessor": { "author": "Ferdinand de Saussure", "text": "Course in General Linguistics" },
+      "mode": "polemical-rejection",
+      "claim": "Saussure, lacking the phenomenological precaution, made the acoustic image a reality whose only originality is to be interior; Husserl's analysis goes further.",
+      "quote": "But Saussure, lacking the “phenomenological precaution,” made the acoustic image — the signifier as “psychic imprint” — into a *reality* whose only originality is being interior."
+    },
+    {
+      "id": "inh/derrida-vp/009",
+      "locator": "derrida-la-voix-et-le-phenomene-commentary#h3-the-first-argument-the-problem-of-representation",
+      "primary_locator": "La voix et le phénomène, ch. IV, pp. 53-66",
+      "predecessor": { "author": "Edmund Husserl" },
+      "mode": "polemical-rejection",
+      "claim": "Husserl's distinction between effective and represented communication cannot be applied to language, since signification is representative through and through; maintaining it answers the desire to save presence.",
+      "quote": "The maintaining of this difference — throughout the history of metaphysics and still in Husserl — answers “the obstinate desire to save presence and to reduce or derive the sign.”"
+    },
+    {
+      "id": "inh/derrida-vp/010",
+      "locator": "derrida-la-voix-et-le-phenomene-commentary#h3-husserl-s-lectures-on-time-consciousness",
+      "primary_locator": "La voix et le phénomène, ch. V, pp. 67-77",
+      "predecessor": { "author": "Edmund Husserl", "text": "Lectures on the Phenomenology of Internal Time-Consciousness" },
+      "mode": "destructive-appropriation",
+      "claim": "Derrida uses Husserl's own account of retention, continuous with originary impression, to show that the punctual now is fissured by non-presence, so that the blink of the eye admits the other into self-identity.",
+      "quote": "Once one admits this continuity of the now and the non-now, of perception and non-perception, in the zone of originarity common to originary impression and retention, one *welcomes the other into the self-identity of the Augenblick*: non-presence and inevidence in the blink of the eye."
+    },
+    {
+      "id": "inh/derrida-vp/011",
+      "locator": "derrida-la-voix-et-le-phenomene-commentary#h3-auto-affection-and-differance",
+      "primary_locator": "La voix et le phénomène, ch. VI, pp. 78-97",
+      "predecessor": { "author": "Edmund Husserl" },
+      "mode": "destructive-appropriation",
+      "claim": "Derrida takes the auto-affection of the originary impression in Husserl's temporalization and makes it the work of différance, which produces the subject; no pure transcendental reduction is then possible.",
+      "quote": "Once one admits that auto-affection is the condition of self-presence, no pure transcendental reduction is possible."
+    },
+    {
+      "id": "inh/derrida-vp/012",
+      "locator": "derrida-la-voix-et-le-phenomene-commentary#h3-the-originary-supplement",
+      "primary_locator": "La voix et le phénomène, ch. VI, pp. 78-97",
+      "predecessor": { "author": "Edmund Husserl" },
+      "mode": "terminological-borrowing",
+      "claim": "Husserl's Verflechtung, the factual intertwining of indication and expression, becomes in Derrida an originary intertwining, the supplement of a non-self-presence that is originary.",
+      "quote": "Their *Verflechtung* is originary”; it is not a contingent association."
+    },
+    {
+      "id": "inh/derrida-vp/013",
+      "locator": "derrida-la-voix-et-le-phenomene-commentary#h3-the-freedom-of-language-and-the-telos-of-truth",
+      "primary_locator": "La voix et le phénomène, ch. VII, pp. 98-117",
+      "predecessor": { "author": "Edmund Husserl" },
+      "mode": "acknowledged-debt",
+      "claim": "Husserl showed, against the philosophical tradition, that speech remains speech even when false or contradictory, provided it obeys grammatical rules that are not rules of knowledge.",
+      "quote": "Husserl demonstrates, against the philosophical tradition, that speech remains speech even when it is false or contradictory, provided it obeys certain grammatical rules that are not immediately rules of knowledge."
+    },
+    {
+      "id": "inh/derrida-vp/014",
+      "locator": "derrida-la-voix-et-le-phenomene-commentary#h3-the-freedom-of-language-and-the-telos-of-truth",
+      "primary_locator": "La voix et le phénomène, ch. VII, pp. 98-117",
+      "predecessor": { "author": "Edmund Husserl" },
+      "mode": "polemical-rejection",
+      "claim": "Husserl does not draw the consequence that meaning excludes the fullness of intuition; the intuitionist imperative of full presence still commands his description, and language is recaptured in knowledge.",
+      "quote": "But Husserl does not draw this consequence. The motif of “full presence” — the intuitionist imperative — continues to command the entire description “at a distance.”"
+    },
+    {
+      "id": "inh/derrida-vp/015",
+      "locator": "derrida-la-voix-et-le-phenomene-commentary#h3-the-case-of-i-and-the-structural-necessity-of-death",
+      "primary_locator": "La voix et le phénomène, ch. VII, pp. 98-117",
+      "predecessor": { "author": "Edmund Husserl" },
+      "mode": "polemical-rejection",
+      "claim": "Against Husserl's account of 'I' as realized in the immediate representation of one's own personality, the anonymity of the written 'I' is the normal situation, and my death is structurally necessary to its pronouncement.",
+      "quote": "The anonymity of the written “I,” the impropriety of “I write,” is, “contrary to what Husserl says, the ‘normal situation.’”"
+    },
+    {
+      "id": "inh/derrida-vp/016",
+      "locator": "derrida-la-voix-et-le-phenomene-commentary#h3-closure",
+      "primary_locator": "La voix et le phénomène, ch. VII, pp. 98-117",
+      "predecessor": { "author": "Edmund Husserl" },
+      "mode": "polemical-rejection",
+      "claim": "Although Husserl thought infinity as an Idea in the Kantian sense and never derived difference from a full presence, the whole of phenomenological discourse remains caught in a metaphysics of presence that tries to derive différance.",
+      "quote": "And yet “the entire phenomenological discourse is caught, as we have sufficiently seen, in the schema of a metaphysics of presence that exhausts itself tirelessly in trying to derive *différance*.”"
+    }
+  ]
+}

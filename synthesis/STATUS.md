@@ -162,14 +162,19 @@ Next candidates, by term density:
 
 ## Inheritance index
 
-28 commentaries · 279 engagements
+38 commentaries · 455 engagements
 
+- `bernet-la-vie-du-sujet-commentary` - 24 engagements (partial)
 - `derrida-introduction-a-lorigine-de-la-geometrie-commentary` - 10 engagements (partial)
+- `derrida-la-voix-et-le-phenomene-commentary` - 16 engagements
 - `franck-chair-et-corps-commentary` - 12 engagements (partial)
+- `franck-heidegger-and-the-problem-of-space-commentary` - 15 engagements
 - `heidegger-ga-19-platon-sophistes-commentary` - 4 engagements (partial)
 - `heidegger-ga-20-prolegomena-zur-geschichte-des-zeitbegriffs-commentary` - 9 engagements (partial)
 - `heidegger-ga-24-die-grundprobleme-der-phanomenologie-commentary` - 4 engagements (partial)
+- `heidegger-ga-3-kant-und-das-problem-der-metaphysik-commentary` - 17 engagements (partial)
 - `heidegger-sein-und-zeit-commentary` - 19 engagements (partial)
+- `henry-genealogie-de-la-psychanalyse-commentary` - 23 engagements (partial)
 - `henry-philosophie-et-phenomenologie-du-corps-commentary` - 7 engagements (partial)
 - `henry-the-essence-of-manifestation-commentary` - 74 engagements (partial)
 - `husserl-erfahrung-und-urteil-commentary` - 8 engagements (partial)
@@ -179,6 +184,7 @@ Next candidates, by term density:
 - `husserl-thing-and-space-commentary` - 0 engagements (partial)
 - `husserliana-1-cartesianische-meditationen-commentary` - 8 engagements (partial)
 - `husserliana-11-analyses-concerning-passive-and-active-synthesis-commentary` - 1 engagements (partial)
+- `husserliana-13-editors-introduction-commentary` - 9 engagements
 - `husserliana-19-2-sixth-logical-investigation-commentary` - 6 engagements (partial)
 - `husserliana-28-vorlesungen-uber-ethik-und-wertlehre-commentary` - 8 engagements (partial)
 - `husserliana-3-ideas-i-commentary` - 3 engagements (partial)
@@ -191,6 +197,10 @@ Next candidates, by term density:
 - `husserliana-7-erste-philosophie-i-commentary` - 9 engagements (partial)
 - `husserliana-9-phenomenological-psychology-commentary` - 6 engagements (partial)
 - `kern-husserl-and-kant-commentary` - 16 engagements (partial)
+- `kojeve-introduction-a-la-lecture-de-hegel-commentary` - 18 engagements (partial)
+- `marion-reduction-et-donation-commentary` - 22 engagements (partial)
+- `marion-sur-le-prisme-metaphysique-de-descartes-commentary` - 17 engagements (partial)
+- `mohanty-philosophy-of-edmund-husserl-commentary` - 15 engagements
 - `picht-de-anima-commentary` - 7 engagements (partial)
 
 ## Stale records
@@ -240,14 +250,7 @@ A comparative pair (the reading text R takes up the read text P) needs an inheri
 
 ### Reading texts with no inheritance record
 
-Reception commentaries are reading texts by definition. Each needs a Stage 3 pass (`synthesis/prompts/inheritance-prompt.md`) before it can be paired.
-
-- [ ] `bernet-la-vie-du-sujet-commentary` (1994)
-- [ ] `derrida-la-voix-et-le-phenomene-commentary` (1967)
-- [ ] `franck-heidegger-and-the-problem-of-space-commentary` (1986)
-- [ ] `husserliana-13-editors-introduction-commentary` (undated)
-- [ ] `marion-sur-le-prisme-metaphysique-de-descartes-commentary` (1986)
-- [ ] `mohanty-philosophy-of-edmund-husserl-commentary` (undated)
+Every reception commentary has an inheritance record.
 
 ### Not in chronology.json
 
@@ -271,37 +274,37 @@ With no entry, a commentary's role (primary or reception) is unrecorded, so it c
 
 ### What the records name
 
-28 records · 279 engagements · 110 (39%) name the predecessor's text. An engagement that names only an author can suggest a pair at author level, never a particular P.
+38 records · 455 engagements · 169 (37%) name the predecessor's text. An engagement that names only an author can suggest a pair at author level, never a particular P.
 
 Named texts that no commentary's title matches: the P side of a pair that cannot be run yet, or a title the corpus gives in another language (*Ideen I* against *Ideas I*), which only a work link can resolve.
 
-- Descartes, *Meditationes de prima philosophia* - 7 engagements, in `heidegger-sein-und-zeit-commentary`, `husserl-formal-and-transcendental-logic-commentary`, `husserl-krisis-commentary` and 4 more
+- Descartes, *Meditationes de prima philosophia* - 9 engagements, in `heidegger-sein-und-zeit-commentary`, `henry-genealogie-de-la-psychanalyse-commentary`, `husserl-formal-and-transcendental-logic-commentary` and 6 more
+- Husserl, *Ideen I* - 6 engagements, in `bernet-la-vie-du-sujet-commentary`, `heidegger-ga-20-prolegomena-zur-geschichte-des-zeitbegriffs-commentary`, `heidegger-ga-3-kant-und-das-problem-der-metaphysik-commentary` and 1 more
 - Locke, *An Essay Concerning Human Understanding* - 4 engagements, in `husserl-erfahrung-und-urteil-commentary`, `husserl-krisis-commentary`, `husserliana-19-2-sixth-logical-investigation-commentary` and 1 more
 - Hume, *A Treatise of Human Nature* - 3 engagements, in `husserl-krisis-commentary`, `husserliana-7-erste-philosophie-i-commentary`, `kern-husserl-and-kant-commentary`
+- Hegel, *Phenomenology of Spirit* - 3 engagements, in `henry-the-essence-of-manifestation-commentary`, `kojeve-introduction-a-la-lecture-de-hegel-commentary`
+- Aristotle, *Metaphysics* - 2 engagements, in `heidegger-ga-20-prolegomena-zur-geschichte-des-zeitbegriffs-commentary`, `marion-sur-le-prisme-metaphysique-de-descartes-commentary`
+- Aristotle, *Physics IV 10-14* - 2 engagements, in `heidegger-sein-und-zeit-commentary`, `marion-sur-le-prisme-metaphysique-de-descartes-commentary`
 - Bolzano, *Wissenschaftslehre* - 2 engagements, in `husserl-formal-and-transcendental-logic-commentary`, `husserliana-5-ideas-iii-commentary`
 - Descartes, *Meditations* - 2 engagements, in `franck-chair-et-corps-commentary`, `henry-the-essence-of-manifestation-commentary`
-- Husserl, *Ideen I* - 2 engagements, in `heidegger-ga-20-prolegomena-zur-geschichte-des-zeitbegriffs-commentary`, `henry-the-essence-of-manifestation-commentary`
-- Fichte, *Anweisung zum seligen Leben* - 2 engagements, in `henry-the-essence-of-manifestation-commentary`
-- Aristotle, *De Interpretatione* - 1 engagement, in `husserliana-19-2-sixth-logical-investigation-commentary`
-- Aristotle, *Metaphysics* - 1 engagement, in `heidegger-ga-20-prolegomena-zur-geschichte-des-zeitbegriffs-commentary`
-- Aristotle, *Physics IV 10-14* - 1 engagement, in `heidegger-sein-und-zeit-commentary`
-- ... 53 more
+- Heidegger, *Nietzsche* - 2 engagements, in `franck-heidegger-and-the-problem-of-space-commentary`, `henry-genealogie-de-la-psychanalyse-commentary`
+- ... 73 more
 
 ### Candidate pairs
 
 Ranked by `scripts/comparative_candidates.py`: engagements weighted by mode (destructive and silent appropriation 3, polemical rejection 2.5, acknowledged debt 2, terminological borrowing 1), plus 4 for each named text that matches P, discounted where the record names only the author and the corpus holds several of their commentaries. Pairs with a run file are left out. Check the sources before starting one.
 
 - [ ] `henry-the-essence-of-manifestation-commentary` reads `heidegger-sein-und-zeit-commentary` - score 62.5 · 22 engagements (11 polemical-rejection, 6 acknowledged-debt, 4 terminological-borrowing, 1 silent-appropriation) · names *Sein und Zeit*
-- [ ] `franck-chair-et-corps-commentary` reads `heidegger-being-and-time-commentary` - score 27.0 · 5 engagements (3 acknowledged-debt, 2 polemical-rejection) · names *Being and Time*; *Being and Time § 69*; *Time and Being*
-- [ ] `kern-husserl-and-kant-commentary` reads `kant-kritik-der-reinen-vernunft-commentary` - score 18.0 · 7 engagements (2 acknowledged-debt, 2 polemical-rejection, 2 terminological-borrowing, 1 destructive-appropriation) · names *Kritik der reinen Vernunft*
-- [ ] `husserl-krisis-commentary` reads `kant-kritik-der-reinen-vernunft-commentary` - score 14.0 · 4 engagements (2 polemical-rejection, 1 acknowledged-debt, 1 destructive-appropriation) · names *Kritik der reinen Vernunft*
-- [ ] `heidegger-sein-und-zeit-commentary` reads `kant-kritik-der-reinen-vernunft-commentary` - score 13.0 · 4 engagements (2 polemical-rejection, 1 destructive-appropriation, 1 terminological-borrowing) · names *Kritik der reinen Vernunft*
-- [ ] `henry-the-essence-of-manifestation-commentary` reads `fichte-science-of-knowing-commentary` - score 12.0 · 5 engagements (2 acknowledged-debt, 2 polemical-rejection, 1 destructive-appropriation)
-- [ ] `heidegger-sein-und-zeit-commentary` reads `aristotle-de-anima-commentary` - score 10.0 · 4 engagements (3 destructive-appropriation, 1 terminological-borrowing)
-- [ ] `derrida-introduction-a-lorigine-de-la-geometrie-commentary` reads `kant-kritik-der-reinen-vernunft-commentary` - score 9.0 · 2 engagements (2 polemical-rejection) · names *Kritik der reinen Vernunft, Preface to the 2nd edition*
-- [ ] `heidegger-ga-24-die-grundprobleme-der-phanomenologie-commentary` reads `husserliana-8-erste-philosophie-ii-commentary` - score 8.5 · 2 engagements (1 acknowledged-debt, 1 polemical-rejection) · names *Phenomenological doctrine of intentionality as still inadequately grasped*
-- [ ] `heidegger-ga-24-die-grundprobleme-der-phanomenologie-commentary` reads `husserliana-9-phenomenological-psychology-commentary` - score 8.5 · 2 engagements (1 acknowledged-debt, 1 polemical-rejection) · names *Phenomenological doctrine of intentionality as still inadequately grasped*
-- ... 257 more; see `comparative_candidates.py --all`
+- [ ] `derrida-la-voix-et-le-phenomene-commentary` reads `husserliana-10-inneres-zeitbewusstsein-commentary` - score 40.0 · 15 engagements (8 polemical-rejection, 4 destructive-appropriation, 2 terminological-borrowing, 1 acknowledged-debt) · names *Lectures on the Phenomenology of Internal Time-Consciousness*
+- [ ] `derrida-la-voix-et-le-phenomene-commentary` reads `husserliana-19-1-fifth-logical-investigation-commentary` - score 40.0 · 15 engagements (8 polemical-rejection, 4 destructive-appropriation, 2 terminological-borrowing, 1 acknowledged-debt) · names *Logical Investigations, First Investigation*
+- [ ] `derrida-la-voix-et-le-phenomene-commentary` reads `husserliana-19-2-sixth-logical-investigation-commentary` - score 40.0 · 15 engagements (8 polemical-rejection, 4 destructive-appropriation, 2 terminological-borrowing, 1 acknowledged-debt) · names *Logical Investigations, First Investigation*
+- [ ] `franck-heidegger-and-the-problem-of-space-commentary` reads `heidegger-sein-und-zeit-commentary` - score 39.0 · 10 engagements (6 polemical-rejection, 4 acknowledged-debt) · names *Zeit und Sein*; *Sein und Zeit*
+- [ ] `marion-reduction-et-donation-commentary` reads `husserliana-3-ideas-i-commentary` - score 35.5 · 9 engagements (5 polemical-rejection, 3 destructive-appropriation, 1 acknowledged-debt) · names *Ideas I*
+- [ ] `marion-reduction-et-donation-commentary` reads `husserliana-3-ideas-i-parts-3-4-commentary` - score 35.5 · 9 engagements (5 polemical-rejection, 3 destructive-appropriation, 1 acknowledged-debt) · names *Ideas I*
+- [ ] `henry-genealogie-de-la-psychanalyse-commentary` reads `heidegger-ga-3-kant-und-das-problem-der-metaphysik-commentary` - score 33.0 · 9 engagements (6 polemical-rejection, 1 acknowledged-debt, 1 destructive-appropriation, 1 terminological-borrowing) · names *Kant und das Problem der Metaphysik*
+- [ ] `bernet-la-vie-du-sujet-commentary` reads `derrida-la-voix-et-le-phenomene-commentary` - score 31.5 · 5 engagements (3 polemical-rejection, 2 acknowledged-debt) · names *La voix et le phénomène*
+- [ ] `marion-reduction-et-donation-commentary` reads `husserliana-19-1-fifth-logical-investigation-commentary` - score 27.5 · 9 engagements (5 polemical-rejection, 3 destructive-appropriation, 1 acknowledged-debt) · names *Logical Investigations*
+- ... 452 more; see `comparative_candidates.py --all`
 
 ## Open gaps
 

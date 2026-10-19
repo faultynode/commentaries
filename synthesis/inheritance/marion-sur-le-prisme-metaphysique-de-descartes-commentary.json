@@ -1,0 +1,169 @@
+{
+  "schema_version": 1,
+  "commentary": "marion-sur-le-prisme-metaphysique-de-descartes-commentary",
+  "source_sha256": "434950859b94d97a942dc407b94e638e9bb92376932a6eaaf73f6738a668b71f",
+  "extracted_at": "2026-10-18",
+  "extractor": {
+    "agent": "claude-code",
+    "model": "claude-opus-5-5",
+    "prompt": "synthesis/prompts/inheritance-prompt.md",
+    "note": "source_sha256 is the LF digest from corpus.json (CRLF checkout; a local validate reports a false staleness). Retrieval by predecessor name (Heidegger, Pascal, Suárez, Aristotle, Kant, Leibniz, Spinoza, Malebranche, Aquinas, Hegel, Husserl, Gilson, Gouhier, Alquié, Nietzsche, Mersenne, Augustine, Plato, Eustache, Pererius, Clauberg and others) with a relational word. Descartes, the book's object, was not queried as a name: Marion's measurement of Descartes is the book's subject, not an engagement in one of the five modes. Three voices are recorded and each claim names its own: Marion's engagements (with Heidegger, Pascal, Alquié and Gouhier); Descartes' with Suárez and Aristotle as Marion reconstructs them; Pascal's with Descartes. primary_locator gives Marion's section, with his page where the commentary gives one."
+  },
+  "coverage": "partial",
+  "coverage_note": "Read in full: the opening guards and 'The Closure of a Question'. Elsewhere read at the sentences naming a predecessor together with a relational word, plus targeted context in §§ 4-6, 9-11, 14, 18-19 and 21-25. Not recorded: Pererius, Eustache, Abra de Raconis, Clauberg, Lessius and Goclenius (positions in the school landscape, not engagements in a mode); Malebranche, Spinoza and Leibniz as heirs of one figure of the redoubled onto-theo-logy (Marion's hypothesis, not a reported engagement); Augustine apart from Pascal's use of him; Hegel, Schopenhauer, Husserl and Nietzsche in passing. §§ 12-13, 15-17 and 20 carry no separate engagement.",
+  "engagements": [
+    {
+      "id": "inh/marion-pmd/001",
+      "locator": "marion-sur-le-prisme-metaphysique-de-descartes-commentary#h2-the-closure-of-a-question",
+      "primary_locator": "Sur le prisme métaphysique de Descartes, Introduction, pp. 4-6",
+      "predecessor": { "author": "Martin Heidegger" },
+      "mode": "acknowledged-debt",
+      "claim": "Marion adopts Heidegger's onto-theo-logical model of metaphysics, the most fruitful available, to measure whether Descartes constitutes a metaphysics, and subjects the model to a fresh trial from which it may emerge modified.",
+      "quote": "Marion passes over the school articulation of metaphysics into *ontologia* and a special metaphysics divided into rational theology, psychology and cosmology, and adopts instead Heidegger's onto-theo-logical model, noting in passing that Schopenhauer had already spoken of an ontotheological proposition of Descartes."
+    },
+    {
+      "id": "inh/marion-pmd/002",
+      "locator": "marion-sur-le-prisme-metaphysique-de-descartes-commentary#h2-the-closure-of-a-question",
+      "primary_locator": "Sur le prisme métaphysique de Descartes, Introduction, p. 1",
+      "predecessor": { "author": "Alquié; Gouhier" },
+      "mode": "polemical-rejection",
+      "claim": "Marion faults the standard studies of Cartesian metaphysics, Alquié and Gouhier above all, for presupposing the notion of metaphysics as known instead of measuring Descartes against it.",
+      "quote": "Alquié fixes \"metaphysical\" only by an undetermined *dépassement*; Gouhier states outright that his book presupposes Cartesian metaphysics as known — which means, Marion observes, that the notion of metaphysics itself is presupposed as known"
+    },
+    {
+      "id": "inh/marion-pmd/003",
+      "locator": "marion-sur-le-prisme-metaphysique-de-descartes-commentary#h3-s-4-primacy-and-universality-order-and-being",
+      "primary_locator": "Sur le prisme métaphysique de Descartes, § 4",
+      "predecessor": { "author": "Francisco Suárez" },
+      "mode": "destructive-appropriation",
+      "claim": "Descartes takes over Suárez's pair of metaphysics and first philosophy only to invert it: first philosophy becomes universal and non-theological, metaphysics particular and theological.",
+      "quote": "Descartes takes over the Suarezian pair, then, only to invert its characteristics: the first term becomes universal and non-theological, the second particular and theological."
+    },
+    {
+      "id": "inh/marion-pmd/004",
+      "locator": "marion-sur-le-prisme-metaphysique-de-descartes-commentary#h3-s-5-the-other-first",
+      "primary_locator": "Sur le prisme métaphysique de Descartes, § 5",
+      "predecessor": { "author": "Aristotle", "text": "Metaphysics" },
+      "mode": "destructive-appropriation",
+      "claim": "Descartes' two initiatives reproduce, and by reproducing destroy, according to the order of knowledge, Aristotle's paradox that first philosophy is universal because it is first.",
+      "quote": "Taken together, Descartes' two principal initiatives aim to reproduce, and by reproducing to destroy, according to the order of knowledge what Aristotle had stated in the paradox of *prōtē philosophia*: that it is universal insofar as it is first, *katholou houtōs hoti prōtē*."
+    },
+    {
+      "id": "inh/marion-pmd/005",
+      "locator": "marion-sur-le-prisme-metaphysique-de-descartes-commentary#h3-s-6-a-nothing-of-ontology",
+      "primary_locator": "Sur le prisme métaphysique de Descartes, § 6",
+      "predecessor": { "author": "Ferdinand Alquié" },
+      "mode": "acknowledged-debt",
+      "claim": "Marion acknowledges that his formula for the Cartesian nothing of ontology descends from Alquié's 'negative ontology', despite their different intentions.",
+      "quote": "Marion also acknowledges the phrase's ancestry in Alquié's \"negative ontology,\" despite the difference of intention."
+    },
+    {
+      "id": "inh/marion-pmd/006",
+      "locator": "marion-sur-le-prisme-metaphysique-de-descartes-commentary#h3-s-9-the-second-word-on-the-being-of-beings-causa",
+      "primary_locator": "Sur le prisme métaphysique de Descartes, § 9",
+      "predecessor": { "author": "Martin Heidegger", "text": "Sein und Zeit" },
+      "mode": "polemical-rejection",
+      "claim": "Against Heidegger's announcement of a phenomenological destruction of the cogito sum for the unpublished part of Sein und Zeit, Marion risks the thesis that Descartes himself accomplished that destruction.",
+      "quote": "Heidegger announced, for the unpublished part of *Sein und Zeit*, a phenomenological destruction of the *cogito sum* (pp. 121–122), and Marion is willing to risk that Descartes himself accomplished that destruction."
+    },
+    {
+      "id": "inh/marion-pmd/007",
+      "locator": "marion-sur-le-prisme-metaphysique-de-descartes-commentary#h3-s-10-a-redoubled-onto-theo-logy",
+      "primary_locator": "Sur le prisme métaphysique de Descartes, § 10, p. 129",
+      "predecessor": { "author": "Martin Heidegger" },
+      "mode": "terminological-borrowing",
+      "claim": "Heidegger's onto-theo-logy becomes in Marion's Descartes a redoubled constitution, two figures (esse as cogitare, esse as causare) subordinated one to the other, which tests the model of a simple onto-theo-logy.",
+      "quote": "The framework in which the two Cartesian figures join can now be fixed (p. 129), and Marion's postulate is that they neither oppose nor contradict one another but *subordinate* themselves one to the other, in a manner of onto-theo-logy that is redoubled rather than split."
+    },
+    {
+      "id": "inh/marion-pmd/008",
+      "locator": "marion-sur-le-prisme-metaphysique-de-descartes-commentary#h3-s-11-the-cogito-sum-as-protocol-statement",
+      "primary_locator": "Sur le prisme métaphysique de Descartes, § 11",
+      "predecessor": { "author": "Blaise Pascal" },
+      "mode": "acknowledged-debt",
+      "claim": "Marion gives Pascal the last word on the cogito: Descartes' contribution lies not in the statement, already Augustine's, but in interpreting it as a first principle and a substance, the distinction between protocol statement and interpretation.",
+      "quote": "Pascal, often polemical against Descartes, is not mistaken about this, and Marion gives him the last word here."
+    },
+    {
+      "id": "inh/marion-pmd/009",
+      "locator": "marion-sur-le-prisme-metaphysique-de-descartes-commentary#h3-s-11-the-cogito-sum-as-protocol-statement",
+      "primary_locator": "Sur le prisme métaphysique de Descartes, § 11",
+      "predecessor": { "author": "Aristotle" },
+      "mode": "polemical-rejection",
+      "claim": "Descartes transgresses the Aristotelian interdict not by recording a thought of thought Aristotle had approached, but by interpreting thought as an ousia.",
+      "quote": "Descartes transgresses the Aristotelian interdict — not when he records a protocol statement Aristotle had already approached, but when he undertakes to interpret thought in it as an *ousia*."
+    },
+    {
+      "id": "inh/marion-pmd/010",
+      "locator": "marion-sur-le-prisme-metaphysique-de-descartes-commentary#h3-s-14-the-subsistent-temporality-of-the-ego",
+      "primary_locator": "Sur le prisme métaphysique de Descartes, § 14",
+      "predecessor": { "author": "Aristotle", "text": "Physics" },
+      "mode": "terminological-borrowing",
+      "claim": "Descartes recovers Aristotle's definition of time as number of motion, as the medievals transmit it, without criticizing it; but what is numbered becomes the successive duration of cogitatio, so that the identical formula does not settle whether kinēsis and motus agree.",
+      "quote": "Marion registers that Descartes recovers the Aristotelian definition as the medievals transmit it, *without criticizing it*, whereas he does not fail to criticize the comparable definitions of motion and of place"
+    },
+    {
+      "id": "inh/marion-pmd/011",
+      "locator": "marion-sur-le-prisme-metaphysique-de-descartes-commentary#h3-s-14-the-subsistent-temporality-of-the-ego",
+      "primary_locator": "Sur le prisme métaphysique de Descartes, § 14",
+      "predecessor": { "author": "Martin Heidegger" },
+      "mode": "acknowledged-debt",
+      "claim": "Marion admits, following Heidegger, that a single vulgar concept of time governs metaphysics from Aristotle to Hegel and inscribes Descartes in it.",
+      "quote": "If one admits, following Heidegger, that a single vulgar concept of time traverses and governs the tradition of metaphysics from Aristotle to Hegel, it seems probable that Descartes is inscribed in it"
+    },
+    {
+      "id": "inh/marion-pmd/012",
+      "locator": "marion-sur-le-prisme-metaphysique-de-descartes-commentary#h3-s-18-power-and-perfections",
+      "primary_locator": "Sur le prisme métaphysique de Descartes, § 18",
+      "predecessor": { "author": "Martin Heidegger" },
+      "mode": "polemical-rejection",
+      "claim": "Marion refuses Heidegger's thesis that God as ens perfectissimum is a purely ontological concept, the being in which being in general is realized, since the sum of perfections names God in the manner of a divine name.",
+      "quote": "The sum of perfections designates God as *ens perfectissimum*, in the manner of a divine name and not merely in the manner of a concept of the being in general — and Marion's note refuses on this ground Heidegger's thesis that God is simply the title for that being in which the idea of being in general is realized in the genuine sense"
+    },
+    {
+      "id": "inh/marion-pmd/013",
+      "locator": "marion-sur-le-prisme-metaphysique-de-descartes-commentary#h3-s-19-the-system-of-contradictions",
+      "primary_locator": "Sur le prisme métaphysique de Descartes, § 19",
+      "predecessor": { "author": "Francisco Suárez" },
+      "mode": "destructive-appropriation",
+      "claim": "Where Suárez submits the divine essence only tangentially to a ratio and recoils from causa sui, Descartes takes the step of interpreting the divine essence directly as power and so as efficient cause of itself.",
+      "quote": "Suarez submits the divine essence only tangentially to a *ratio* of its infinite perfection; it falls to Descartes to take the step by interpreting the divine essence directly as power, and so as an efficient cause of itself."
+    },
+    {
+      "id": "inh/marion-pmd/014",
+      "locator": "marion-sur-le-prisme-metaphysique-de-descartes-commentary#h3-s-21-pascal-according-to-cartesian-metaphysics",
+      "primary_locator": "Sur le prisme métaphysique de Descartes, § 21",
+      "predecessor": { "author": "René Descartes" },
+      "mode": "destructive-appropriation",
+      "claim": "Pascal read and approved Descartes and thinks from him, holding metaphysical theses conformable to Cartesian orthodoxy, and can revoke Descartes only by first acceding to an authentic understanding of him.",
+      "quote": "Pascal thinks from Descartes and maintains metaphysical theses strictly conformable to Cartesian orthodoxy, at least on the essential."
+    },
+    {
+      "id": "inh/marion-pmd/015",
+      "locator": "marion-sur-le-prisme-metaphysique-de-descartes-commentary#h3-s-22-descartes-useless-and-uncertain",
+      "primary_locator": "Sur le prisme métaphysique de Descartes, § 22, pp. 310-316",
+      "predecessor": { "author": "René Descartes", "text": "Meditationes de prima philosophia" },
+      "mode": "polemical-rejection",
+      "claim": "Pascal radically calls in question the Cartesian ambition of demonstrating and adoring God by metaphysical proofs, and contests the legitimacy of any metaphysical access to God.",
+      "quote": "Pascal thus radically calls in question the Cartesian ambition not only of demonstrating God's existence but of *adoring* him by following the metaphysical ways of demonstration"
+    },
+    {
+      "id": "inh/marion-pmd/016",
+      "locator": "marion-sur-le-prisme-metaphysique-de-descartes-commentary#h3-s-25-the-destitution-of-metaphysics",
+      "primary_locator": "Sur le prisme métaphysique de Descartes, § 25",
+      "predecessor": { "author": "Martin Heidegger" },
+      "mode": "polemical-rejection",
+      "claim": "Against the Heideggerian habit of dismissing Kierkegaard and Pascal as religious writers who do not broach onto-theology, Marion asks whether they think short of it or beyond it, and holds that Pascal deserts and destitutes metaphysics.",
+      "quote": "The Heideggerian fashion of evading Kierkegaard, and so also Pascal, as mere religious writers who do not broach the onto-theological seriousness of metaphysics, sets aside a simple question: if they do not practise onto-theo-logy, which will readily be granted, do they think *short of* it or rather *beyond* it?"
+    },
+    {
+      "id": "inh/marion-pmd/017",
+      "locator": "marion-sur-le-prisme-metaphysique-de-descartes-commentary#h2-the-question-of-an-opening",
+      "primary_locator": "Sur le prisme métaphysique de Descartes, conclusion",
+      "predecessor": { "author": "Blaise Pascal" },
+      "mode": "acknowledged-debt",
+      "claim": "Marion takes from Pascal a new mode of overcoming, destitution: Pascal does not refute Descartes' redoubled onto-theology but sees it from the higher order of charity, which judges metaphysics as an inferior order.",
+      "quote": "Pascal does not refute Descartes' redoubled onto-theo-logy; he only *sees* it — but he sees it from the point of view of a more powerful order, charity, which, in simply considering metaphysics as an inferior order, judges it and destitutes it."
+    }
+  ]
+}

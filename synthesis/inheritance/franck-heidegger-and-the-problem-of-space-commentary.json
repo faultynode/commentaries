@@ -1,0 +1,151 @@
+{
+  "schema_version": 1,
+  "commentary": "franck-heidegger-and-the-problem-of-space-commentary",
+  "source_sha256": "afb3db2b215dfd3dd2dbdff47f7bf81e5ea8387aad56a511d8360c043abae220",
+  "extracted_at": "2026-10-18",
+  "extractor": {
+    "agent": "claude-code",
+    "model": "claude-opus-5-5",
+    "prompt": "synthesis/prompts/inheritance-prompt.md",
+    "note": "source_sha256 is the LF digest from corpus.json (CRLF checkout; a local validate reports a false staleness). The commentary covers Franck's Introduction and chapters I-II and was read in full. Most engagements are Franck's with Heidegger; five are Heidegger's own with Kant, Husserl, Hegel, Descartes and Scholastic ontology as Franck reports them, and their claims say so. Left out as passing: Kant's two editions as an analogy for the interruption, Aristotle in the etymology of logos, the Greek ontology of presence (no author named)."
+  },
+  "coverage": "complete",
+  "coverage_note": "Whole commentary read (Introduction; I, The Question of Being; II, Neutrality and Incarnation). Recorded: Franck's engagements with Heidegger's Nietzsche lectures, Letter on Humanism, Zeit und Sein, Sein und Zeit, The Principle of Reason and The Metaphysical Foundations of Logic; Heidegger's, as Franck reports them, with Kant (Dasein), Husserl (reduction), Hegel (Aufhebung), Descartes (the cogito) and Scholastic existentia.",
+  "engagements": [
+    {
+      "id": "inh/franck-hps/001",
+      "locator": "franck-heidegger-and-the-problem-of-space-commentary#h2-introduction",
+      "primary_locator": "Franck, Heidegger et le problème de l'espace, Introduction",
+      "predecessor": { "author": "Martin Heidegger", "text": "Nietzsche" },
+      "mode": "acknowledged-debt",
+      "claim": "Franck takes over Heidegger's thesis from the Nietzsche lectures that the catastrophe of a great thinker lies in continuing rather than holding back at the source, and turns it back on Heidegger to read the breaking-off of Being and Time as an essential difficulty.",
+      "quote": "Having set down this borrowed thesis, Franck turns it back upon Heidegger himself with a series of rhetorical questions."
+    },
+    {
+      "id": "inh/franck-hps/002",
+      "locator": "franck-heidegger-and-the-problem-of-space-commentary#h2-introduction",
+      "primary_locator": "Franck, Heidegger et le problème de l'espace, Introduction",
+      "predecessor": { "author": "Martin Heidegger", "text": "Letter on Humanism" },
+      "mode": "polemical-rejection",
+      "claim": "Franck declines Heidegger's self-interpretation in the Letter on Humanism, that 'Time and Being' was withheld for want of a saying adequate to the turn, since a thought's interpretation of itself stays within the limits it would grasp.",
+      "quote": "He acknowledges that the later Heidegger moved from fundamental ontology toward a \"topology of being\" and the thinking of *Ereignis* (appropriation/the event), but he declines to take Heidegger's own narrative of that shift at face value."
+    },
+    {
+      "id": "inh/franck-hps/003",
+      "locator": "franck-heidegger-and-the-problem-of-space-commentary#h2-introduction",
+      "primary_locator": "Franck, Heidegger et le problème de l'espace, Introduction",
+      "predecessor": { "author": "Martin Heidegger", "text": "Zeit und Sein" },
+      "mode": "acknowledged-debt",
+      "claim": "Franck takes as his lever the one critical reference to Being and Time in the 1962 lecture Zeit und Sein: the attempt of § 70 to lead the spatiality of Dasein back to temporality is not tenable.",
+      "quote": "Heidegger himself, late in life, retracts §70 — the very section in which *Sein und Zeit* had subordinated *Dasein*'s spatiality to its temporality."
+    },
+    {
+      "id": "inh/franck-hps/004",
+      "locator": "franck-heidegger-and-the-problem-of-space-commentary#h1-chapter-i-the-question-of-being",
+      "primary_locator": "Franck, Heidegger et le problème de l'espace, ch. I",
+      "predecessor": { "author": "Martin Heidegger", "text": "Sein und Zeit" },
+      "mode": "polemical-rejection",
+      "claim": "Franck asks whether the existential analytic, by keeping the subordination of regional ontologies to a general ontology and by founding vulgar time in ekstatic temporality, stays within ontology and ground, so that the language of Sein und Zeit is metaphysical.",
+      "quote": "By largely conserving the schema — invariant *from Aristotle to Husserl* — of a *subordination of regional ontologies to a general ontology*, does the existential analytic not *remain within the domain of ontology and of ground*, of beings as such, rather than passing into the domain of their *disclosure*, the *site of the truth of being*?"
+    },
+    {
+      "id": "inh/franck-hps/005",
+      "locator": "franck-heidegger-and-the-problem-of-space-commentary#h1-chapter-i-the-question-of-being",
+      "primary_locator": "Franck, Heidegger et le problème de l'espace, ch. I",
+      "predecessor": { "author": "Immanuel Kant" },
+      "mode": "terminological-borrowing",
+      "claim": "Heidegger takes the word Dasein, by which Kant designates existence in the sense of presence-at-hand, for the being that is ontologically distinct from it.",
+      "quote": "Why did Heidegger choose the word *Dasein* — a word by which Kant, among many others, designates precisely that from which *Dasein* existentially understood is ontologically *distinct* (Kant uses *Dasein* to mean existence/presence-at-hand)?"
+    },
+    {
+      "id": "inh/franck-hps/006",
+      "locator": "franck-heidegger-and-the-problem-of-space-commentary#h1-chapter-i-the-question-of-being",
+      "primary_locator": "Franck, Heidegger et le problème de l'espace, ch. I",
+      "predecessor": { "author": "Edmund Husserl" },
+      "mode": "terminological-borrowing",
+      "claim": "Heidegger's phenomenological reduction, the leading-back of the gaze from beings to their being, shares with Husserl's transcendental reduction only the formal trait of a conversion of the gaze and nothing of its content.",
+      "quote": "Franck immediately marks the contrast with Husserl: this reduction shares with Husserl's *transcendental* reduction *only the purely formal trait* of a *conversion of the gaze* — and nothing of its content."
+    },
+    {
+      "id": "inh/franck-hps/007",
+      "locator": "franck-heidegger-and-the-problem-of-space-commentary#h1-chapter-i-the-question-of-being",
+      "primary_locator": "Franck, Heidegger et le problème de l'espace, ch. I",
+      "predecessor": { "author": "G. W. F. Hegel" },
+      "mode": "polemical-rejection",
+      "claim": "The remembering that belongs to Heidegger's phenomenological construction is not a Hegelian sublation of finitude in absolute knowing but the finite revelation of finitude itself.",
+      "quote": "Every construction will also be a *remembering* — but *not* in the Hegelian sense of a *sublation (relève / Aufhebung)* of finitude in the advent of *absolute knowing*; rather as the *finite revelation of finitude itself*."
+    },
+    {
+      "id": "inh/franck-hps/008",
+      "locator": "franck-heidegger-and-the-problem-of-space-commentary#h1-chapter-ii-neutrality-and-incarnation",
+      "primary_locator": "Franck, Heidegger et le problème de l'espace, ch. II",
+      "predecessor": { "author": "Scholasticism" },
+      "mode": "terminological-borrowing",
+      "claim": "Heidegger keeps the word existence but, against the metaphysical sense of existentia as reality or actuality, uses it for the openness of a being to its own being through its understanding of it.",
+      "quote": "Franck stresses that \"existence\" here, naming the *openness* of a being to its own being through the understanding it has of it, retains *nothing* of the old sense of *existentia*."
+    },
+    {
+      "id": "inh/franck-hps/009",
+      "locator": "franck-heidegger-and-the-problem-of-space-commentary#h1-chapter-ii-neutrality-and-incarnation",
+      "primary_locator": "Franck, Heidegger et le problème de l'espace, ch. II",
+      "predecessor": { "author": "René Descartes" },
+      "mode": "polemical-rejection",
+      "claim": "Taking the I as the point of departure misses my being; the evidence of the cogito, apart from its usual ontological interpretation, is phenomenologically subordinate to mineness, so Heidegger cannot be reproached for neglecting it.",
+      "quote": "and one cannot reproach Heidegger for having neglected \"the primary evidence of the *cogito*,\" since that evidence — abstraction made of the ontological interpretation that ordinarily accompanies it — is *phenomenologically subordinate to mineness*."
+    },
+    {
+      "id": "inh/franck-hps/010",
+      "locator": "franck-heidegger-and-the-problem-of-space-commentary#h1-chapter-ii-neutrality-and-incarnation",
+      "primary_locator": "Franck, Heidegger et le problème de l'espace, ch. II",
+      "predecessor": { "author": "Martin Heidegger", "text": "Sein und Zeit" },
+      "mode": "polemical-rejection",
+      "claim": "Franck asks whether Heidegger's term Vorhandenheit, being-before-the-hand, chosen to interpret ousia and the relation of Dasein to other beings, presupposes that Dasein has hands and is incarnate, so that incarnation would have to be an existential.",
+      "quote": "But the very term retained to interpret the Greek *ousia* and to mark the *ontological relation* between *Dasein* and the being it is *not* — does it not *presuppose that Dasein is endowed with hands, that it is incarnate (embodied)*?"
+    },
+    {
+      "id": "inh/franck-hps/011",
+      "locator": "franck-heidegger-and-the-problem-of-space-commentary#h1-chapter-ii-neutrality-and-incarnation",
+      "primary_locator": "Franck, Heidegger et le problème de l'espace, ch. II",
+      "predecessor": { "author": "Martin Heidegger", "text": "The Principle of Reason" },
+      "mode": "acknowledged-debt",
+      "claim": "Franck credits to The Principle of Reason the thesis that there is no metaphor except metaphysical metaphor, and uses it to deny that Vorhandenheit can be read metaphorically.",
+      "quote": "(1) The use of the word *Vorhandenheit* *cannot be metaphorical* if it is true that *there is no metaphor except metaphysical metaphor* (a thesis he credits to Heidegger's *The Principle of Reason*)"
+    },
+    {
+      "id": "inh/franck-hps/012",
+      "locator": "franck-heidegger-and-the-problem-of-space-commentary#h1-chapter-ii-neutrality-and-incarnation",
+      "primary_locator": "Franck, Heidegger et le problème de l'espace, ch. II",
+      "predecessor": { "author": "Martin Heidegger", "text": "The Metaphysical Foundations of Logic" },
+      "mode": "polemical-rejection",
+      "claim": "The neutrality of Dasein introduced in the 1928 course splits into an essential neutrality and the neutrality of das Man, and since no Dasein can tell them apart, its thematic introduction gravely threatens the economy of phenomenological ontology.",
+      "quote": "The thematic introduction of neutrality therefore *gravely threatens*, by backlash, the *general economy of phenomenological ontology*"
+    },
+    {
+      "id": "inh/franck-hps/013",
+      "locator": "franck-heidegger-and-the-problem-of-space-commentary#h1-chapter-ii-neutrality-and-incarnation",
+      "primary_locator": "Franck, Heidegger et le problème de l'espace, ch. II",
+      "predecessor": { "author": "Martin Heidegger", "text": "The Metaphysical Foundations of Logic" },
+      "mode": "acknowledged-debt",
+      "claim": "Franck takes as a key citation Heidegger's remark that the spatial significations of all languages can be clarified only once the metaphysical problem of space, a metontology of spatiality, has been posed.",
+      "quote": "This is a key citation for Franck's whole book: Heidegger himself ties language's pervasive spatial significations to a still-unposed \"metaphysical problem of space.\""
+    },
+    {
+      "id": "inh/franck-hps/014",
+      "locator": "franck-heidegger-and-the-problem-of-space-commentary#h1-chapter-ii-neutrality-and-incarnation",
+      "primary_locator": "Franck, Heidegger et le problème de l'espace, ch. II",
+      "predecessor": { "author": "Martin Heidegger", "text": "The Metaphysical Foundations of Logic" },
+      "mode": "polemical-rejection",
+      "claim": "Franck asks whether understanding carnal-sexual relations as 'generic union' grounded in being-with conceives existence within the horizon of being-at-hand, against the most sustained effort of Sein und Zeit.",
+      "quote": "*can one understand the carnal-sexual relations between factical Dasein as \"generic union\" without surreptitiously conceiving existence within the horizon of being-at-hand* — thereby *contradicting the most sustained effort of Sein und Zeit*?"
+    },
+    {
+      "id": "inh/franck-hps/015",
+      "locator": "franck-heidegger-and-the-problem-of-space-commentary#h1-chapter-ii-neutrality-and-incarnation",
+      "primary_locator": "Franck, Heidegger et le problème de l'espace, ch. II",
+      "predecessor": { "author": "Martin Heidegger", "text": "Sein und Zeit" },
+      "mode": "polemical-rejection",
+      "claim": "Flesh and space, both exceptions to the modes of temporalization, lead to the limits of the conceptuality Sein und Zeit deploys in the service of the over-power of time.",
+      "quote": "Is it not, he asks, *already manifest* that the questions and aporias raised by *flesh and space* lead to the very *limits of the conceptuality* whose resources *Sein und Zeit* deploys *in the service of the over-power (surpuissance) of time*?"
+    }
+  ]
+}

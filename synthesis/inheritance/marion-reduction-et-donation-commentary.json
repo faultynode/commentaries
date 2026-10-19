@@ -1,0 +1,214 @@
+{
+  "schema_version": 1,
+  "commentary": "marion-reduction-et-donation-commentary",
+  "source_sha256": "c55a5c398571bf454524922566f75b5146259308213de514cc2b1cba053d9b91",
+  "extracted_at": "2026-10-18",
+  "extractor": {
+    "agent": "claude-code",
+    "model": "claude-opus-5-5",
+    "prompt": "synthesis/prompts/inheritance-prompt.md",
+    "note": "source_sha256 is the LF digest from corpus.json (CRLF checkout; a local validate reports a false staleness). Retrieval by predecessor name (Husserl, Heidegger, Descartes, Kant, Henry, Derrida, Nietzsche, Levinas, Hegel, Leibniz and others) with a relational word, then targeted reading of the sections that carry each chapter's verdict. Three voices are recorded and each claim names its own: Marion's engagements; Heidegger's with Husserl and Descartes as Marion reconstructs them; Husserl's with Kant and Descartes as Marion reports them. primary_locator gives Marion's chapter and section."
+  },
+  "coverage": "partial",
+  "coverage_note": "The commentary covers the Foreword, 'Phenomenology as such' and chapters I-IV. Read in full: Foreword, I.3, I.7, IV.7 (closing pages). Elsewhere read at the sentences naming a predecessor together with a relational word, plus targeted context in I.5-6, II.2-5, III.2-7 and IV.4-6. Heidegger and Husserl are recorded by each chapter's principal moves, not exhaustively; II.6-7 (the redoubled reduction through Dasein and the nothing) and IV.1-3 (the occurrences of ontological difference) carry no separate engagement. Passing mentions (Levinas, Ricœur, Leibniz, Spinoza, Malebranche, Pascal, Hegel on the This, Tugendhat, Granel, Courtine, Beaufret) are not recorded.",
+  "engagements": [
+    {
+      "id": "inh/marion-rd/001",
+      "locator": "marion-reduction-et-donation-commentary#h2-foreword",
+      "primary_locator": "Réduction et donation, Avant-propos",
+      "predecessor": { "author": "Michel Henry" },
+      "mode": "acknowledged-debt",
+      "claim": "Marion names Michel Henry in the Foreword; Henry's material phenomenology had already detached manifestation from intuition and from the world's horizon, and Marion's attempt to reduce beyond the question of being borrows that gesture while departing from Henry's answer.",
+      "quote": "The last name, Michel Henry, is the philosophically loaded one: Henry's material phenomenology had already detached manifestation from intuition and from the world's horizon, and Marion's eventual attempt to reduce beyond the question of being borrows that gesture even where it departs from Henry's answer."
+    },
+    {
+      "id": "inh/marion-rd/002",
+      "locator": "marion-reduction-et-donation-commentary#h3-2-the-domains-of-intuition",
+      "primary_locator": "Réduction et donation, ch. I, § 2",
+      "predecessor": { "author": "Immanuel Kant" },
+      "mode": "destructive-appropriation",
+      "claim": "Husserl's breakthrough, as Marion reads it, takes over intuition and enlarges it against its Kantian sense, transgressing the finitude for which intuition can only be sensuous, so that the categorial concept itself is given.",
+      "quote": "The enlargement of intuition is directed against the Kantian finitude for which our nature entails that intuition can only ever be sensuous; it requires subjecting intuitivity itself to an essential enlargement against its Kantian sense, so that the concept in its categorial figure affects us and is given."
+    },
+    {
+      "id": "inh/marion-rd/003",
+      "locator": "marion-reduction-et-donation-commentary#h3-3-the-accomplishment-of-presence",
+      "primary_locator": "Réduction et donation, ch. I, § 3",
+      "predecessor": { "author": "Friedrich Nietzsche" },
+      "mode": "acknowledged-debt",
+      "claim": "Marion reads the breakthrough of the Investigations through Nietzsche's late fragment 'How I recognise my own kind': intuition without remainder answers Zarathustra's unlimited Yes, so that Nietzsche, accomplishing the metaphysics of presence, would recognise Husserl as his own kind.",
+      "quote": "To accomplish the metaphysics of presence, Nietzsche can therefore recognise as his strangest and most unavoidable own kind — Husserl."
+    },
+    {
+      "id": "inh/marion-rd/004",
+      "locator": "marion-reduction-et-donation-commentary#h3-5-presence-without-intuition",
+      "primary_locator": "Réduction et donation, ch. I, § 5",
+      "predecessor": { "author": "Jacques Derrida" },
+      "mode": "polemical-rejection",
+      "claim": "Against Derrida, Marion shows that Husserl himself criticises as non-phenomenological, in Erdmann and Sigwart, the confusion of signification with fulfilling intuition that Derrida attributes to him, and that Derrida's key citation omits Husserl's own thesis.",
+      "quote": "Husserl criticises as non-phenomenological the confusion Derrida attributes to him, in an anachronism as exemplary as it is ideal."
+    },
+    {
+      "id": "inh/marion-rd/005",
+      "locator": "marion-reduction-et-donation-commentary#h3-6-the-evidence-of-givenness",
+      "primary_locator": "Réduction et donation, ch. I, § 6",
+      "predecessor": { "author": "Jacques Derrida" },
+      "mode": "polemical-rejection",
+      "claim": "Marion confirms Derrida's conclusion that the Investigations fall under the metaphysics of presence but contests his principal argument: by supposing that signification breaks with presence, Derrida exempts it from metaphysics, because his concept of presence is too narrow to reach givenness.",
+      "quote": "Derrida's reading is paradoxically not radical enough, since by supposing signification to break with presence he exempts it from metaphysics, and he does so because his understanding of presence is too narrow to reach its properly Husserlian deepening as givenness"
+    },
+    {
+      "id": "inh/marion-rd/006",
+      "locator": "marion-reduction-et-donation-commentary#h3-7-givenness-as-question",
+      "primary_locator": "Réduction et donation, ch. I, § 7",
+      "predecessor": { "author": "Edmund Husserl", "text": "Logical Investigations" },
+      "mode": "polemical-rejection",
+      "claim": "Husserl never asks in the Investigations what givenness means; leaving uninterrogated the givenness he enlarged, he concedes Derrida's thesis and keeps givenness in metaphysical detention under presence.",
+      "quote": "His silence amounts to conceding Derrida's thesis: leaving uninterrogated the givenness whose enlargement he has nevertheless carried out, Husserl does not free it from the bolt of presence and so keeps it in metaphysical detention."
+    },
+    {
+      "id": "inh/marion-rd/007",
+      "locator": "marion-reduction-et-donation-commentary#h3-7-givenness-as-question",
+      "primary_locator": "Réduction et donation, ch. I, § 7",
+      "predecessor": { "author": "Martin Heidegger" },
+      "mode": "acknowledged-debt",
+      "claim": "Marion credits Heidegger with seeing that the breakthrough consists in the enlargement of givenness beyond sensuous intuition and with inheriting Husserl by asking what givenness means, without reducing it too soon to presence.",
+      "quote": "Heidegger, seeing at once with extraordinary lucidity that the breakthrough consists wholly in the enlargement of givenness beyond sensuous intuition, assumes the Husserlian inheritance exactly by bearing his whole interrogation on what such givenness means, and by guarding against reducing it too soon to presence, even under the figure of categorial intuition."
+    },
+    {
+      "id": "inh/marion-rd/008",
+      "locator": "marion-reduction-et-donation-commentary#h3-2-the-method-of-ontology",
+      "primary_locator": "Réduction et donation, ch. II, § 2",
+      "predecessor": { "author": "Edmund Husserl", "text": "Ideas I" },
+      "mode": "destructive-appropriation",
+      "claim": "Heidegger's first turn contests Husserl's prohibition of ontology while remaining occupied with the articulation of phenomenology and ontology at the end of the Ideas: phenomenology becomes method by displacing its matter from entities to being.",
+      "quote": "Even in its parricide, Heidegger's first turn stays faithfully occupied with the last word of the *Ideas*: the articulation of phenomenology and ontology."
+    },
+    {
+      "id": "inh/marion-rd/009",
+      "locator": "marion-reduction-et-donation-commentary#h3-2-the-method-of-ontology",
+      "primary_locator": "Réduction et donation, ch. II, § 2",
+      "predecessor": { "author": "Edmund Husserl" },
+      "mode": "polemical-rejection",
+      "claim": "Measured by Heidegger's criterion of the phenomenological, the mode of exhibiting phenomena, Husserl's phenomenology remains non-phenomenological, phenomenological only in intention, because it diverts intentionality and the reduction to the ideal of an absolute science.",
+      "quote": "Measured against the criterion of the phenomenological — considering not phenomena but the mode of their exhibition — the conclusion, however violent the paradox, is that Husserl's phenomenology remains non-phenomenological, phenomenological only in intention and not yet in a fundamental and principial sense."
+    },
+    {
+      "id": "inh/marion-rd/010",
+      "locator": "marion-reduction-et-donation-commentary#h3-2-the-method-of-ontology",
+      "primary_locator": "Réduction et donation, ch. II, § 2",
+      "predecessor": { "author": "Edmund Husserl" },
+      "mode": "acknowledged-debt",
+      "claim": "For intentionality and the reduction, the two acquisitions Husserl then diverts toward an absolute science, Heidegger always acknowledges himself Husserl's disciple.",
+      "quote": "Husserl does not follow phenomenology's guiding thread to its terminus, the question of being, because having won intentionality and the reduction — for which Heidegger always acknowledges himself his disciple — he diverts them to accomplish the philosophical ideal of an absolute science of and through consciousness."
+    },
+    {
+      "id": "inh/marion-rd/011",
+      "locator": "marion-reduction-et-donation-commentary#h3-3-the-reduced-phenomenon-reduced-to-present-objectivity",
+      "primary_locator": "Réduction et donation, ch. II, § 3",
+      "predecessor": { "author": "Edmund Husserl", "text": "Ideas I" },
+      "mode": "polemical-rejection",
+      "claim": "Husserl does not respect the return to the things themselves, because in the Ideas it competes with the principle of all principles, which makes originarily giving intuition the source of right before any reduction.",
+      "quote": "Husserl does not respect it — not merely because Heidegger says so, but because in the *Ideas* that principle competes with another, exceptionally titled the principle of all principles"
+    },
+    {
+      "id": "inh/marion-rd/012",
+      "locator": "marion-reduction-et-donation-commentary#h3-4-from-the-inapparent-phenomenon-to-the-phenomenon-of-being",
+      "primary_locator": "Réduction et donation, ch. II, § 4",
+      "predecessor": { "author": "Edmund Husserl" },
+      "mode": "destructive-appropriation",
+      "claim": "Heidegger's § 7 keeps Husserl's phenomenon as what shows itself in itself but draws from its non-showings the opposite of a reduction to presence: coveredness is the counter-concept of phenomenon, and the phenomenon is ringed with inapparence.",
+      "quote": "From the deviant senses of the self-showing, that is from the phenomenon's non-showings, Heidegger draws not the need for a drastic reduction to presence absolutely given for consciousness but the opposite conclusion: coveredness is the counter-concept to phenomenon."
+    },
+    {
+      "id": "inh/marion-rd/013",
+      "locator": "marion-reduction-et-donation-commentary#h3-5-the-two-senses-of-the-reduction",
+      "primary_locator": "Réduction et donation, ch. II, § 5",
+      "predecessor": { "author": "Edmund Husserl" },
+      "mode": "polemical-rejection",
+      "claim": "Marion rejects Husserl's verdict, to Ingarden and in the 1930 Afterword, that Heidegger misunderstood the reduction; Husserl sees only one reduction where Heidegger relaunches it a second time, from the entity to its being.",
+      "quote": "Marion therefore rejects Husserl's verdict to Ingarden that Heidegger grasped neither this path nor the whole sense of the method of reduction"
+    },
+    {
+      "id": "inh/marion-rd/014",
+      "locator": "marion-reduction-et-donation-commentary#h3-2-the-phenomenological-motive-of-the-original-confrontation",
+      "primary_locator": "Réduction et donation, ch. III, § 2",
+      "predecessor": { "author": "René Descartes" },
+      "mode": "acknowledged-debt",
+      "claim": "In the 1923/24 course that became First Philosophy, and already in the 1907 Göttingen lectures, Husserl expounds and approves Descartes, whose genius sowed the seeds of transcendental philosophy.",
+      "quote": "At the very moment Heidegger was expounding and criticising Descartes at Marburg, Husserl was expounding and approving him at Freiburg, in the winter 1923/24 course that became *First Philosophy*: even when he happened to hold a false theory, Descartes' philosophical genius led him to sow the seeds of transcendental philosophy."
+    },
+    {
+      "id": "inh/marion-rd/015",
+      "locator": "marion-reduction-et-donation-commentary#h3-2-the-phenomenological-motive-of-the-original-confrontation",
+      "primary_locator": "Réduction et donation, ch. III, § 2",
+      "predecessor": { "author": "René Descartes" },
+      "mode": "terminological-borrowing",
+      "claim": "Citing Descartes' definition of substance to fix the being of consciousness, Husserl drops alia from alia re and puts res in quotation marks, so as not to make consciousness a res while opposing it to reality.",
+      "quote": "(c) Husserl modifies the formula: he drops *alia* from *alia re* and accepts *res* only in quotation marks."
+    },
+    {
+      "id": "inh/marion-rd/016",
+      "locator": "marion-reduction-et-donation-commentary#h3-2-the-phenomenological-motive-of-the-original-confrontation",
+      "primary_locator": "Réduction et donation, ch. III, § 2",
+      "predecessor": { "author": "Edmund Husserl" },
+      "mode": "polemical-rejection",
+      "claim": "Heidegger distances himself from Husserl by criticising the Cartesian presuppositions within his phenomenology: the critique of Descartes is aimed first and equally at Husserl, who is the less a phenomenologist the more he remains a Cartesian.",
+      "quote": "Descartes will undergo a critique that is aimed first and equally at Husserl, who is the less a phenomenologist the more he remains a Cartesian."
+    },
+    {
+      "id": "inh/marion-rd/017",
+      "locator": "marion-reduction-et-donation-commentary#h3-3-the-first-failure-the-indeterminacy-of-the-ego-sum",
+      "primary_locator": "Réduction et donation, ch. III, § 3",
+      "predecessor": { "author": "René Descartes" },
+      "mode": "polemical-rejection",
+      "claim": "In Sein und Zeit Descartes' first failure is the total ontological indeterminacy of the res cogitans: he examined the cogitare of the ego but left the sum unelucidated.",
+      "quote": "That indeterminacy marks Descartes' first and radical failure: a total ontological indeterminacy of the *res cogitans sive mens sive animus*"
+    },
+    {
+      "id": "inh/marion-rd/018",
+      "locator": "marion-reduction-et-donation-commentary#h3-4-the-second-failure-the-permanence-of-the-intraworldly-entity",
+      "primary_locator": "Réduction et donation, ch. III, § 4",
+      "predecessor": { "author": "Martin Heidegger", "text": "Sein und Zeit" },
+      "mode": "polemical-rejection",
+      "claim": "Correcting Heidegger as a historian, Marion notes that Descartes attributes permanence first to the ego, reduced to what remains certain, before the res extensa that Heidegger cites.",
+      "quote": "The reference is exact, but it masks another that attributes permanence first and directly to the *ego* before the *res extensa*"
+    },
+    {
+      "id": "inh/marion-rd/019",
+      "locator": "marion-reduction-et-donation-commentary#h3-6-dasein-as-confirmation-of-the-ego",
+      "primary_locator": "Réduction et donation, ch. III, § 6",
+      "predecessor": { "author": "Martin Heidegger" },
+      "mode": "polemical-rejection",
+      "claim": "The kinship of Cartesian finitude with Dasein stays masked to Heidegger, who sees the ego's finitude only through ancient-Christian anthropology and reduces finite and infinite substance to efficient production.",
+      "quote": "The pertinence of the comparison stays masked to and by Heidegger, who envisages the *ego*'s finitude only within the horizon of ancient-Christian anthropology and reduces the relation between finite and infinite substance to efficient production, so as to deny Cartesian finitude any originary validity."
+    },
+    {
+      "id": "inh/marion-rd/020",
+      "locator": "marion-reduction-et-donation-commentary#h3-7-the-repetition-of-the-ego",
+      "primary_locator": "Réduction et donation, ch. III, § 7",
+      "predecessor": { "author": "René Descartes" },
+      "mode": "destructive-appropriation",
+      "claim": "Heidegger destroys the Cartesian ego and yet retranscribes the analytic of Dasein in its displaced terms ('I am', mineness, indebtedness): between ego and Dasein the struggle is over the interpretation of one and the same phenomenon.",
+      "quote": "Between *ego* and Dasein, Descartes and Heidegger, what is at stake beyond the patent critique is a struggle for the interpretation of one and the same phenomenon — \"I think,\" \"I am.\""
+    },
+    {
+      "id": "inh/marion-rd/021",
+      "locator": "marion-reduction-et-donation-commentary#h3-4-the-most-cardinal-unthought",
+      "primary_locator": "Réduction et donation, ch. IV, § 4",
+      "predecessor": { "author": "Edmund Husserl", "text": "Ideas I" },
+      "mode": "destructive-appropriation",
+      "claim": "Heidegger's ontological difference recovers the difference of manners of being between consciousness and reality fixed in Ideas I § 42, and parts from Husserl by thinking as ontological a difference Husserl named but left indeterminate.",
+      "quote": "Heidegger does not separate himself from Husserl by introducing an ontological difference Husserl ignored, but by radically deepening as ontological a difference of essence and manner of being that Husserl left indeterminate as such."
+    },
+    {
+      "id": "inh/marion-rd/022",
+      "locator": "marion-reduction-et-donation-commentary#h3-7-the-misconstrual-of-ontological-difference-by-ontological-difference",
+      "primary_locator": "Réduction et donation, ch. IV, § 7",
+      "predecessor": { "author": "Martin Heidegger", "text": "Sein und Zeit" },
+      "mode": "polemical-rejection",
+      "claim": "Sein und Zeit cannot found access to the sense of being on Dasein, which lets only the being of entities be read; to attribute to Dasein the manifestation of the sense of being confuses the two gaps of the question, as § 83 and Heidegger's own marginalia concede.",
+      "quote": "To attribute to Dasein the direct manifestation of the sense of being is therefore first to confuse the two moments and gaps of the question of being, and second to overvalue Dasein's reach arbitrarily — as the aporia of §83 confirms."
+    }
+  ]
+}

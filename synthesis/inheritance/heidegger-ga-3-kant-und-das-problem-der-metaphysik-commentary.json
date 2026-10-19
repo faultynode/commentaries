@@ -1,0 +1,169 @@
+{
+  "schema_version": 1,
+  "commentary": "heidegger-ga-3-kant-und-das-problem-der-metaphysik-commentary",
+  "source_sha256": "dad53870fbf591408c5ecd64e89dc4c2080e037044d6ac19d426ddc14bb99f28",
+  "extracted_at": "2026-10-18",
+  "extractor": {
+    "agent": "claude-code",
+    "model": "claude-opus-5-5",
+    "prompt": "synthesis/prompts/inheritance-prompt.md",
+    "note": "source_sha256 is the LF digest from corpus.json (CRLF checkout; a local validate reports a false staleness). Retrieval by predecessor name (neo-Kantians, Cohen, Natorp, Scheler, Hegel, Aristotle, Plato, Baumgarten, Wolff, Husserl, Leibniz, Descartes, Schelling, Fichte, Cassirer, Riehl, Simmel, Dilthey, German idealism) with a relational word, and for Kant by the book's own terms of engagement (shrinking back, retrieval, violence, self-affection, epistemology, what Kant wanted to say). Every engagement is Heidegger's. The commentary excludes the appendices, so the Davos disputation with Cassirer is not recorded. primary_locator gives the GA 3 section."
+  },
+  "coverage": "partial",
+  "coverage_note": "Read in full: the opening note, §§ 31, 34 and 35. Elsewhere read at the sentences naming a predecessor together with a relational word, and for Kant at the sentences carrying the book's terms of engagement. Kant is recorded by the book's principal moves (the Critique as ontology, the finitude of knowing, the shrinking back of the second edition, self-affection, Kant's own interpretive maxim), not section by section: §§ 9-16 and 19-25 reconstruct Kant's argument and carry no separate engagement. Not recorded: Fichte, Schelling and Jacobi (a footnote that declines to judge them), Locke and Leibniz as targets of Kant rather than Heidegger, Baumgarten as the source of the school division (reported, not engaged).",
+  "engagements": [
+    {
+      "id": "inh/ga3/001",
+      "locator": "heidegger-ga-3-kant-und-das-problem-der-metaphysik-commentary#h3-s-1-the-traditional-concept-of-metaphysics",
+      "primary_locator": "GA 3 § 1",
+      "predecessor": { "author": "Plato; Aristotle" },
+      "mode": "acknowledged-debt",
+      "claim": "Heidegger credits Plato and Aristotle with leaving the central problems questionworthy and open, and traces the school concept of metaphysics to a failure to understand that openness, not to the continuation of an Aristotelian system.",
+      "quote": "Post-Aristotelian Western metaphysics owes its formation not to the taking over and continuation of a supposedly existing Aristotelian system, but to the failure to understand the questionworthiness and openness in which Plato and Aristotle left the central problems."
+    },
+    {
+      "id": "inh/ga3/002",
+      "locator": "heidegger-ga-3-kant-und-das-problem-der-metaphysik-commentary#h3-s-3-the-laying-of-the-ground-of-metaphysics-as-critique-of-pure-reason",
+      "primary_locator": "GA 3 § 3",
+      "predecessor": { "author": "neo-Kantianism" },
+      "mode": "polemical-rejection",
+      "claim": "Against the neo-Kantian reading, the Critique has nothing to do with epistemology: it is at most a theory of ontological knowledge, and it questions ontology as to its inner possibility.",
+      "quote": "The *Critique* has nothing to do with \"epistemology.\" If one could let the epistemological interpretation stand at all, one would have to say: the *Critique* is not a theory of ontic knowledge (experience) but a theory of ontological knowledge."
+    },
+    {
+      "id": "inh/ga3/003",
+      "locator": "heidegger-ga-3-kant-und-das-problem-der-metaphysik-commentary#h3-s-3-the-laying-of-the-ground-of-metaphysics-as-critique-of-pure-reason",
+      "primary_locator": "GA 3 § 3",
+      "predecessor": { "author": "Immanuel Kant", "text": "Kritik der reinen Vernunft" },
+      "mode": "terminological-borrowing",
+      "claim": "Heidegger reads Kant's name for his enterprise, transcendental philosophy, as a name for ontology, and takes it as the continuation of the Greek question of being rather than a modern departure from it.",
+      "quote": "Kant's own name for his enterprise is thus read as a name for ontology, and the phrase about the ancients is Heidegger's warrant for taking transcendental philosophy to be the continuation of the Greek question of being rather than a modern departure from it."
+    },
+    {
+      "id": "inh/ga3/004",
+      "locator": "heidegger-ga-3-kant-und-das-problem-der-metaphysik-commentary#h5-s-4-the-essence-of-knowledge-in-general",
+      "primary_locator": "GA 3 § 4",
+      "predecessor": { "author": "Immanuel Kant", "text": "Kritik der reinen Vernunft" },
+      "mode": "acknowledged-debt",
+      "claim": "Heidegger holds that the first sentence of the Transcendental Aesthetic, on knowledge relating to objects through intuition, is usually valued far too low, and builds his account of the finitude of human knowing on it.",
+      "quote": "Exhibiting the essence of finitude requires a general characterization of the essence of knowing, and in this respect what Kant says in the first sentence of the thematic discussion of the *Critique* is usually valued far too low"
+    },
+    {
+      "id": "inh/ga3/005",
+      "locator": "heidegger-ga-3-kant-und-das-problem-der-metaphysik-commentary#h5-s-6-the-source-ground-of-the-laying-of-the-ground-of-metaphysics",
+      "primary_locator": "GA 3 § 6",
+      "predecessor": { "author": "Edmund Husserl" },
+      "mode": "polemical-rejection",
+      "claim": "A grounding that ended in absolute evidence would have made philosophy a science; Heidegger counts Kant's refusal of that to his credit, against Husserl as much as against the neo-Kantians.",
+      "quote": "And the closing formula is a thrust at Husserl as much as at the neo-Kantians: a grounding that terminates in absolute evidence would have made philosophy into a science, and Kant's refusal of that is here counted to his credit."
+    },
+    {
+      "id": "inh/ga3/006",
+      "locator": "heidegger-ga-3-kant-und-das-problem-der-metaphysik-commentary#h6-b-the-second-way",
+      "primary_locator": "GA 3 § 17 b",
+      "predecessor": { "author": "Erdmann; Riehl" },
+      "mode": "polemical-rejection",
+      "claim": "Heidegger defends the received text against Erdmann's and Riehl's proposed deletion of 'and', which would remove the sense that the transcendental imagination unites pure intuition within itself and unites it with pure apperception.",
+      "quote": "Heidegger defends the received text against Erdmann's and Riehl's proposed deletion of the \"and,\" since removing it removes the decisive sense"
+    },
+    {
+      "id": "inh/ga3/007",
+      "locator": "heidegger-ga-3-kant-und-das-problem-der-metaphysik-commentary#h5-s-18-the-outer-form-of-the-transcendental-deduction",
+      "primary_locator": "GA 3 § 18",
+      "predecessor": { "author": "Edmund Husserl", "text": "Ideen I" },
+      "mode": "terminological-borrowing",
+      "claim": "Calling the transcendental deduction a pure phenomenology puts Husserl's title over Kant's chapter and alters it: a phenomenology of subjectivity that takes finitude as its theme is no longer a phenomenology of transcendental consciousness.",
+      "quote": "Naming the deduction a pure phenomenology places Husserl's title over Kant's chapter and simultaneously alters it: a phenomenology of subjectivity that takes finitude as its theme is no longer a phenomenology of transcendental consciousness, and the difference is the whole distance between GA 3 and *Ideen I*."
+    },
+    {
+      "id": "inh/ga3/008",
+      "locator": "heidegger-ga-3-kant-und-das-problem-der-metaphysik-commentary#h4-s-28-the-transcendental-imagination-and-pure-intuition",
+      "primary_locator": "GA 3 § 28",
+      "predecessor": { "author": "Cohen; Natorp" },
+      "mode": "polemical-rejection",
+      "claim": "Cohen and Natorp are right that the Aesthetic is incomplete on its own, but wrong that the Logic completes it: what completes it lies below both, in the transcendental imagination.",
+      "quote": "Cohen and Natorp are conceded their diagnosis and refused their remedy: the Aesthetic is indeed incomplete on its own, but what completes it lies below both disciplines rather than in one of them."
+    },
+    {
+      "id": "inh/ga3/009",
+      "locator": "heidegger-ga-3-kant-und-das-problem-der-metaphysik-commentary#h4-s-31-the-originality-of-the-laid-ground-and-kant-s-shrinking-back-before-the-tra",
+      "primary_locator": "GA 3 § 31",
+      "predecessor": { "author": "Immanuel Kant", "text": "Kritik der reinen Vernunft" },
+      "mode": "destructive-appropriation",
+      "claim": "Heidegger takes the transcendental imagination of the first edition as the ground Kant laid and turns it against Kant, who in the second edition shrank back before this unknown root, deleting the passages naming it a third basic faculty.",
+      "quote": "Kant shrank back before this unknown root."
+    },
+    {
+      "id": "inh/ga3/010",
+      "locator": "heidegger-ga-3-kant-und-das-problem-der-metaphysik-commentary#h4-s-34-time-as-pure-self-affection-and-the-time-character-of-the-self",
+      "primary_locator": "GA 3 § 34",
+      "predecessor": { "author": "Immanuel Kant", "text": "Kritik der reinen Vernunft" },
+      "mode": "terminological-borrowing",
+      "claim": "Heidegger takes Kant's self-affection and makes pure self-affection the innermost essence of transcendence, in which time and the 'I think' are the same; the idea was not first introduced in Kant's second edition.",
+      "quote": "The idea of pure self-affection, which as has now become clear determines the innermost essence of transcendence, was therefore not first introduced by Kant in the second edition."
+    },
+    {
+      "id": "inh/ga3/011",
+      "locator": "heidegger-ga-3-kant-und-das-problem-der-metaphysik-commentary#h4-s-35-the-originality-of-the-laid-ground-and-the-problem-of-metaphysics",
+      "primary_locator": "GA 3 § 35",
+      "predecessor": { "author": "Immanuel Kant", "text": "Reply to Eberhard" },
+      "mode": "acknowledged-debt",
+      "claim": "Heidegger's interpretation, aiming at what Kant 'wanted to say', makes its own a maxim Kant laid down in his reply to Eberhard for interpreting philosophical investigations; the violence of the reading is admitted and defended by its illuminating power.",
+      "quote": "In this procedure the interpretation makes its own a maxim that Kant himself wanted applied to the interpretation of philosophical investigations, laid down at the close of a reply to the Leibnizian Eberhard's criticism"
+    },
+    {
+      "id": "inh/ga3/012",
+      "locator": "heidegger-ga-3-kant-und-das-problem-der-metaphysik-commentary#h4-s-35-the-originality-of-the-laid-ground-and-the-problem-of-metaphysics",
+      "primary_locator": "GA 3 § 35",
+      "predecessor": { "author": "German idealism" },
+      "mode": "polemical-rejection",
+      "claim": "Every reinterpretation of the pure imagination as a function of pure thinking, carried further by German idealism after Kant's second edition, misjudges its specific essence.",
+      "quote": "Every reinterpretation of the pure imagination into a function of pure thinking — a reinterpretation that \"German idealism,\" following the second edition, pushed still further — misjudges its specific essence."
+    },
+    {
+      "id": "inh/ga3/013",
+      "locator": "heidegger-ga-3-kant-und-das-problem-der-metaphysik-commentary#h4-s-37-the-idea-of-a-philosophical-anthropology",
+      "primary_locator": "GA 3 § 37",
+      "predecessor": { "author": "Max Scheler" },
+      "mode": "polemical-rejection",
+      "claim": "Heidegger rejects the idea of a philosophical anthropology, treating Scheler's position, to whose memory the book is dedicated, as its most serious form and crediting Scheler with having seen the difficulty best.",
+      "quote": "The book is dedicated to Scheler's memory, and this is where the debt is discharged: the position is treated as the most serious form of the idea being criticized, and its author is credited with having seen the difficulty best."
+    },
+    {
+      "id": "inh/ga3/014",
+      "locator": "heidegger-ga-3-kant-und-das-problem-der-metaphysik-commentary#h4-s-44-the-goal-of-fundamental-ontology",
+      "primary_locator": "GA 3 § 44",
+      "predecessor": { "author": "Plato", "text": "Sophist" },
+      "mode": "acknowledged-debt",
+      "claim": "The passage from Plato's Sophist opening the investigation indicates that the gigantomachy over the being of beings has broken out in ancient metaphysics.",
+      "quote": "The passage from Plato's *Sophist* that opens the investigation does not serve as decoration but as an indication that in ancient metaphysics the gigantomachy over the being of beings has broken out."
+    },
+    {
+      "id": "inh/ga3/015",
+      "locator": "heidegger-ga-3-kant-und-das-problem-der-metaphysik-commentary#h4-s-44-the-goal-of-fundamental-ontology",
+      "primary_locator": "GA 3 § 44",
+      "predecessor": { "author": "Aristotle" },
+      "mode": "polemical-rejection",
+      "claim": "For Aristotle too time happens in the soul, but neither his determination of the soul nor his interpretation of time is guided by the grounding-problematic of metaphysics.",
+      "quote": "Time does count for Aristotle too as something happening in the \"soul,\" in the \"mind.\" But neither is the determination of the essence of the soul, the mind, the spirit, the consciousness of the human being primarily and decisively guided by the grounding-problematic of metaphysics"
+    },
+    {
+      "id": "inh/ga3/016",
+      "locator": "heidegger-ga-3-kant-und-das-problem-der-metaphysik-commentary#h4-s-44-the-goal-of-fundamental-ontology",
+      "primary_locator": "GA 3 § 44",
+      "predecessor": { "author": "Bergson; Dilthey; Simmel" },
+      "mode": "polemical-rejection",
+      "claim": "The temporal interpretation of Dasein is not undertaken because present-day philosophy of life (Bergson, Dilthey, Simmel) tries to grasp life more livingly by its time-character.",
+      "quote": "Nor is that interpretation set up because present-day philosophy — Bergson, Dilthey, Simmel — tries more thoroughly than earlier philosophy to grasp \"life\" in its liveliness more \"livingly\" by determining its time-character."
+    },
+    {
+      "id": "inh/ga3/017",
+      "locator": "heidegger-ga-3-kant-und-das-problem-der-metaphysik-commentary#h4-s-45-the-idea-of-fundamental-ontology-and-the-critique-of-pure-reason",
+      "primary_locator": "GA 3 § 45",
+      "predecessor": { "author": "German idealism" },
+      "mode": "polemical-rejection",
+      "claim": "The struggle against the thing in itself beginning in German idealism is a growing forgetting of what Kant fought for, the problem of finitude; Heidegger's interpretation moves in the opposite direction.",
+      "quote": "What does the struggle against the \"thing in itself\" beginning in German idealism mean but the growing forgetting of what Kant fought for"
+    }
+  ]
+}

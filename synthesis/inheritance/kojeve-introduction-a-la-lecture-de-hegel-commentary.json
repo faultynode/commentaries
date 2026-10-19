@@ -1,0 +1,178 @@
+{
+  "schema_version": 1,
+  "commentary": "kojeve-introduction-a-la-lecture-de-hegel-commentary",
+  "source_sha256": "79cf0e8be0b22619f763ada2ad14954ed646daaa5b61d52768ed5eca75b5d379",
+  "extracted_at": "2026-10-18",
+  "extractor": {
+    "agent": "claude-code",
+    "model": "claude-opus-5-5",
+    "prompt": "synthesis/prompts/inheritance-prompt.md",
+    "note": "source_sha256 is the LF digest from corpus.json (CRLF checkout; a local validate reports a false staleness). Retrieval by predecessor name (Heidegger, Marx, Kant, Descartes, Spinoza, Plato, Aristotle, Husserl, Fichte, Schelling, Koyré, Parmenides, Leibniz, Christianity and others) with a relational word, and for Hegel by the commentary's own terms for Kojève's departures (monism, dualism, dialectic of nature, atheism, end of history, Kojève's own). The opening guard is respected: Kojève's reading is not Hegel's text, and claims are attributed to whichever of the two makes them; only engagements the commentary marks as Kojève's are recorded. primary_locator gives the course or appendix, with the Gallimard page where the commentary cites one."
+  },
+  "coverage": "partial",
+  "coverage_note": "Read in full: the opening guards. Elsewhere read at the sentences naming a predecessor together with a relational word, and for Hegel at the sentences marking Kojève's departures, across 'By way of introduction', the six courses and both appendices. Hegel is recorded by the book's principal moves (the atheist anthropological substitution, the dualist correction of monism, the critique of the dialectic of nature, the end of history), not lecture by lecture: Kojève's translations and paraphrases of the Phenomenology, which make up most of the courses, carry no separate engagement. Not recorded: Husserl as an interpretive axis (no engagement in a mode located), Aristotle and Leibniz in passing, the romantic anthropology of love, Hyppolite, Queneau and Bataille as editors or auditors.",
+  "engagements": [
+    {
+      "id": "inh/kojeve-ilh/001",
+      "locator": "kojeve-introduction-a-la-lecture-de-hegel-commentary#h1-commentary-on-alexandre-kojeve-introduction-a-la-lecture-de-hegel",
+      "primary_locator": "Introduction à la lecture de Hegel, p. 38",
+      "predecessor": { "author": "G. W. F. Hegel", "text": "Phenomenology of Spirit" },
+      "mode": "destructive-appropriation",
+      "claim": "Kojève's glosses and lectures openly substitute an atheist, anthropological, labour-centred reading for Hegel's own, taking over the Phenomenology while dismantling its theological sense.",
+      "quote": "First, Kojève's reading is not Hegel's text: the bracketed glosses and the lectures substitute an atheist, anthropological, labour-centred reading for Hegel's, and Kojève says so openly (p. 38)."
+    },
+    {
+      "id": "inh/kojeve-ilh/002",
+      "locator": "kojeve-introduction-a-la-lecture-de-hegel-commentary#h1-commentary-on-alexandre-kojeve-introduction-a-la-lecture-de-hegel",
+      "primary_locator": "Introduction à la lecture de Hegel, passim (Appendix I)",
+      "predecessor": { "author": "G. W. F. Hegel" },
+      "mode": "polemical-rejection",
+      "claim": "Kojève's dualism of nature (identity, the given) and man (negativity, action) is his own correction of Hegel's monism, not a report of it.",
+      "quote": "Fifth, Kojève's dualism of nature (identity, the given) and man (negativity, action) is his own correction of Hegel's monism, not a report of it."
+    },
+    {
+      "id": "inh/kojeve-ilh/003",
+      "locator": "kojeve-introduction-a-la-lecture-de-hegel-commentary#h2-by-way-of-introduction",
+      "primary_locator": "Introduction à la lecture de Hegel, 'En guise d'introduction'",
+      "predecessor": { "author": "Christianity" },
+      "mode": "destructive-appropriation",
+      "claim": "Kojève's 'incarnate Spirit' secularizes the Christian incarnation, read throughout as the truth of Hegelian anthropology: God become man is man who makes himself.",
+      "quote": "The phrase \"Esprit incarné\" is Kojève's secular rendering of the Christian incarnation, which he will read throughout as the truth of Hegelian anthropology: God become man is man who makes himself."
+    },
+    {
+      "id": "inh/kojeve-ilh/004",
+      "locator": "kojeve-introduction-a-la-lecture-de-hegel-commentary#h4-plan-and-structure-of-the-phenomenology",
+      "primary_locator": "Introduction à la lecture de Hegel, p. 41",
+      "predecessor": { "author": "G. W. F. Hegel", "text": "Phenomenology of Spirit" },
+      "mode": "terminological-borrowing",
+      "claim": "Hegel's absolute knowledge becomes in Kojève the awareness of completed history: Napoleon completes history and Hegel becomes aware of it, so that nothing new will happen in the world.",
+      "quote": "Chapter VIII: Napoleon completes history and Hegel becomes aware of it: this is absolute knowledge, which will need no further change or completion"
+    },
+    {
+      "id": "inh/kojeve-ilh/005",
+      "locator": "kojeve-introduction-a-la-lecture-de-hegel-commentary#h5-iii-force-and-the-understanding-appearance-and-the-supersensible-world",
+      "primary_locator": "Introduction à la lecture de Hegel, course 1933-1934",
+      "predecessor": { "author": "F. W. J. Schelling" },
+      "mode": "polemical-rejection",
+      "claim": "Kojève rejects Schelling's naturalist and vitalist monism, the same monism he finds in Hegel himself.",
+      "quote": "Kojève's target in Schelling is the same monism he finds in Hegel himself."
+    },
+    {
+      "id": "inh/kojeve-ilh/006",
+      "locator": "kojeve-introduction-a-la-lecture-de-hegel-commentary#h3-summary-of-the-1933-1934-course",
+      "primary_locator": "Introduction à la lecture de Hegel, summary of the 1933-1934 course",
+      "predecessor": { "author": "Alexandre Koyré" },
+      "mode": "acknowledged-debt",
+      "claim": "Kojève devoted his lectures to the Phenomenology following Koyré's method of interpretation and guiding ideas, Koyré having analysed the texts preceding it.",
+      "quote": "Koyré had analysed the texts preceding the *Phenomenology*; Kojève devoted his lectures to the *Phenomenology*, following Koyré's method of interpretation and his guiding ideas."
+    },
+    {
+      "id": "inh/kojeve-ilh/007",
+      "locator": "kojeve-introduction-a-la-lecture-de-hegel-commentary#h3-freedom-of-self-consciousness-chapter-iv-subdivision-b",
+      "primary_locator": "Introduction à la lecture de Hegel, course 1934-1935",
+      "predecessor": { "author": "Alexandre Koyré" },
+      "mode": "destructive-appropriation",
+      "claim": "Kojève draws on Koyré's history of the Galilean revolution while turning it in a Marxian direction that Koyré himself rejected.",
+      "quote": "Kojève draws on Koyré's history of the Galilean revolution while turning it in a Marxian direction that Koyré himself rejected."
+    },
+    {
+      "id": "inh/kojeve-ilh/008",
+      "locator": "kojeve-introduction-a-la-lecture-de-hegel-commentary#h3-freedom-of-self-consciousness-chapter-iv-subdivision-b",
+      "primary_locator": "Introduction à la lecture de Hegel, course 1934-1935",
+      "predecessor": { "author": "Immanuel Kant" },
+      "mode": "polemical-rejection",
+      "claim": "Kojève's pointer places Kant among the Stoics: the emptiness of Stoic virtue anticipates Hegel's charge of formalism against the categorical imperative.",
+      "quote": "The emptiness objection to Stoic virtue anticipates Hegel's charge of formalism against the categorical imperative in Chapter V, C, and Kojève's pointer places Kant among the Stoics."
+    },
+    {
+      "id": "inh/kojeve-ilh/009",
+      "locator": "kojeve-introduction-a-la-lecture-de-hegel-commentary#h4-i-certainty-and-truth-of-reason-section-c-chapter-v",
+      "primary_locator": "Introduction à la lecture de Hegel, course 1935-1936",
+      "predecessor": { "author": "Johann Gottlieb Fichte" },
+      "mode": "polemical-rejection",
+      "claim": "Kojève takes over Hegel's charge that Fichte stays with the ought and makes it the difference between moralising and making history.",
+      "quote": "The charge that Fichte stays with the ought is Hegel's own, from the *Differenzschrift* and *Faith and Knowledge*; Kojève makes it the difference between moralising and making history."
+    },
+    {
+      "id": "inh/kojeve-ilh/010",
+      "locator": "kojeve-introduction-a-la-lecture-de-hegel-commentary#h3-b-self-alienated-spirit-culture-chapter-vi-b",
+      "primary_locator": "Introduction à la lecture de Hegel, course 1936-1937",
+      "predecessor": { "author": "Karl Marx" },
+      "mode": "acknowledged-debt",
+      "claim": "Kojève accepts Marx's materialist mechanism but insists that what Marx omitted is the anthropological core, finitude and the fear of death.",
+      "quote": "Kojève accepts the materialist mechanism but insists that the anthropological core, finitude and the fear of death, is what Marx omitted."
+    },
+    {
+      "id": "inh/kojeve-ilh/011",
+      "locator": "kojeve-introduction-a-la-lecture-de-hegel-commentary#h3-b-self-alienated-spirit-culture-chapter-vi-b",
+      "primary_locator": "Introduction à la lecture de Hegel, course 1936-1937",
+      "predecessor": { "author": "Karl Marx" },
+      "mode": "polemical-rejection",
+      "claim": "Kojève's theory of ideology differs from Marx's.",
+      "quote": "This is Kojève's theory of ideology, and it differs from Marx's."
+    },
+    {
+      "id": "inh/kojeve-ilh/012",
+      "locator": "kojeve-introduction-a-la-lecture-de-hegel-commentary#h3-summary-of-the-first-six-chapters-of-the-phenomenology-of-spirit",
+      "primary_locator": "Introduction à la lecture de Hegel, course 1937-1938",
+      "predecessor": { "author": "René Descartes" },
+      "mode": "polemical-rejection",
+      "claim": "Descartes, starting from 'I think', attended only to the thinking and neglected the 'I': he did not ask what kind of being says 'I', which is the question of Desire.",
+      "quote": "Starting from \"I think\", Descartes fixed his attention only on \"think\", completely neglecting the \"I\"."
+    },
+    {
+      "id": "inh/kojeve-ilh/013",
+      "locator": "kojeve-introduction-a-la-lecture-de-hegel-commentary#h3-summary-of-the-first-six-chapters-of-the-phenomenology-of-spirit",
+      "primary_locator": "Introduction à la lecture de Hegel, course 1937-1938",
+      "predecessor": { "author": "Martin Heidegger" },
+      "mode": "terminological-borrowing",
+      "claim": "Kojève assigns Angst to animal fear and Furcht to the anguish of nothingness, the reverse of Heidegger's distinction: a Heideggerian content under inverted labels.",
+      "quote": "Kojève here assigns *Angst* to animal fear and *Furcht* to the anguish of nothingness, the reverse of Heidegger's distinction"
+    },
+    {
+      "id": "inh/kojeve-ilh/014",
+      "locator": "kojeve-introduction-a-la-lecture-de-hegel-commentary#h3-sixth-lecture-note-on-eternity-time-and-the-concept-cf-hoffmeister-p-558-ll-3-4",
+      "primary_locator": "Introduction à la lecture de Hegel, course 1938-1939, sixth lecture",
+      "predecessor": { "author": "Plato" },
+      "mode": "polemical-rejection",
+      "claim": "On the concept that refers to nothing outside itself, Kojève aligns Hegel with Parmenides and Spinoza against Plato.",
+      "quote": "Kojève's alignment of Hegel with Parmenides–Spinoza against Plato, on the non-referential concept, is the key to the lecture."
+    },
+    {
+      "id": "inh/kojeve-ilh/015",
+      "locator": "kojeve-introduction-a-la-lecture-de-hegel-commentary#h3-seventh-lecture-note-on-eternity-time-and-the-concept-continued",
+      "primary_locator": "Introduction à la lecture de Hegel, course 1938-1939, seventh lecture",
+      "predecessor": { "author": "Baruch Spinoza" },
+      "mode": "polemical-rejection",
+      "claim": "Kojève inverts Spinoza's 'only God' into Hegel's 'only man', marking the difference between acosmism and anthropotheism.",
+      "quote": "Kojève's inversion, Spinoza says \"only God\", Hegel \"only man\", marks the difference between acosmism and anthropotheism."
+    },
+    {
+      "id": "inh/kojeve-ilh/016",
+      "locator": "kojeve-introduction-a-la-lecture-de-hegel-commentary#h3-eighth-lecture-note-on-eternity-time-and-the-concept-continued-and-concluded",
+      "primary_locator": "Introduction à la lecture de Hegel, course 1938-1939, eighth lecture",
+      "predecessor": { "author": "G. W. F. Hegel" },
+      "mode": "polemical-rejection",
+      "claim": "Kojève's critique of Hegel's dialectic of nature becomes a reductio: it would make Hegel either a Spinoza, which is madness, or a theologian, which contradicts his atheism.",
+      "quote": "The argument turns Kojève's critique into a reductio: the dialectic of nature makes Hegel a Spinoza, which is madness, or a theologian, which contradicts his atheism."
+    },
+    {
+      "id": "inh/kojeve-ilh/017",
+      "locator": "kojeve-introduction-a-la-lecture-de-hegel-commentary#h3-twelfth-lecture-interpretation-of-the-third-part-of-chapter-viii-continued-and-c",
+      "primary_locator": "Introduction à la lecture de Hegel, course 1938-1939, twelfth lecture",
+      "predecessor": { "author": "neo-Kantianism" },
+      "mode": "polemical-rejection",
+      "claim": "Kojève's reading of Hegel as a realist is his most polemical claim against the neo-Kantian and idealist readings of his day.",
+      "quote": "The reading of Hegel as a realist is Kojève's most polemical claim against the neo-Kantian and idealist readings of his day."
+    },
+    {
+      "id": "inh/kojeve-ilh/018",
+      "locator": "kojeve-introduction-a-la-lecture-de-hegel-commentary#h3-appendix-i-the-dialectic-of-the-real-and-the-phenomenological-method-in-hegel",
+      "primary_locator": "Introduction à la lecture de Hegel, Appendix I",
+      "predecessor": { "author": "Martin Heidegger", "text": "Being and Time" },
+      "mode": "destructive-appropriation",
+      "claim": "Kojève reads Hegel through Heidegger, as a philosophy of finitude and death, while claiming that Being and Time adds nothing new to the Phenomenology.",
+      "quote": "The claim that *Being and Time* adds nothing new to the *Phenomenology* is a provocation, but it states precisely how Kojève read Hegel: through Heidegger, as a philosophy of finitude and death."
+    }
+  ]
+}

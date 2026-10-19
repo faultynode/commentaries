@@ -1,0 +1,223 @@
+{
+  "schema_version": 1,
+  "commentary": "henry-genealogie-de-la-psychanalyse-commentary",
+  "source_sha256": "c6b665bcce554ef3077b031d10c50140e0bf8504bed35af996a50547d7c33344",
+  "extracted_at": "2026-10-18",
+  "extractor": {
+    "agent": "claude-code",
+    "model": "claude-opus-5-5",
+    "prompt": "synthesis/prompts/inheritance-prompt.md",
+    "note": "source_sha256 is the LF digest from corpus.json (CRLF checkout; a local validate reports a false staleness). Retrieval by predecessor name (Descartes, Husserl, Heidegger, Kant, Schopenhauer, Freud, Nietzsche, Hegel, Biran, Leibniz, Spinoza, Malebranche, Lacan, Ricœur, Fichte, Schelling) with a relational word, then the sentences in which Henry is the grammatical subject of the engagement. Every engagement is Henry's. The opening guard is respected: Henry sides with Freud's affect against Freud's representational and energetic metaphysics. The commentary cites by chapter, so primary_locator names the chapter."
+  },
+  "coverage": "partial",
+  "coverage_note": "Read in full: the opening guards. Elsewhere read at the sentences naming a predecessor together with a relational word in which Henry is the subject, across 'A late heir', chapters I-IX and 'Potentiality'. Recorded by each chapter's principal moves: Descartes (I), Husserl and Leibniz (II), Heidegger on the cogito (III), Kant and the Kantbuch (IV), Schopenhauer (V-VI), Nietzsche and Heidegger's Nietzsche (VII), Freud, Ricœur and Kierkegaard (IX). Not recorded: Malebranche (Henry's reading, paralleling Alquié), Spinoza, Fichte, Nabert and Lachièze-Rey, Lacan and Sartre in passing, Maine de Biran as the earlier attribution of a thesis now credited to Schopenhauer; chapter VIII (Nietzsche on values and the gods) carries no separate engagement.",
+  "engagements": [
+    {
+      "id": "inh/henry-gp/001",
+      "locator": "henry-genealogie-de-la-psychanalyse-commentary#h1-michel-henry-genealogie-de-la-psychanalyse-le-commencement-perdu-commentary",
+      "primary_locator": "Généalogie de la psychanalyse, passim",
+      "predecessor": { "author": "Sigmund Freud" },
+      "mode": "destructive-appropriation",
+      "claim": "Henry takes over Freud's affect and sides with it against Freud's representational and energetic metaphysics: the life Freud calls unconscious is revealed in itself, only not in the mode of representation.",
+      "quote": "Third, Henry does not oppose affect to Freud in favour of consciousness; he sides with Freud's affect against Freud's representational and energetic metaphysics."
+    },
+    {
+      "id": "inh/henry-gp/002",
+      "locator": "henry-genealogie-de-la-psychanalyse-commentary#h2-a-late-heir",
+      "primary_locator": "Généalogie de la psychanalyse, 'Un héritier tardif'",
+      "predecessor": { "author": "Martin Heidegger" },
+      "mode": "terminological-borrowing",
+      "claim": "Henry borrows Heidegger's vocabulary of the history of being, calling the loss of the beginning a 'historial deviation', and turns it against him: the philosophy of consciousness headed toward the world and technical mastery.",
+      "quote": "Henry calls the loss a \"déviance historiale\" (historial deviation), deliberately borrowing Heidegger's vocabulary of the history of being while turning it against him"
+    },
+    {
+      "id": "inh/henry-gp/003",
+      "locator": "henry-genealogie-de-la-psychanalyse-commentary#h2-a-late-heir",
+      "primary_locator": "Généalogie de la psychanalyse, 'Un héritier tardif'",
+      "predecessor": { "author": "G. W. F. Hegel" },
+      "mode": "polemical-rejection",
+      "claim": "Henry refuses to Hegelian and Heideggerian thought, and withholds from his own book, the role of completing life: life is complete without philosophy.",
+      "quote": "Henry thus closes by withholding from his own book the role he refuses to Hegelian or Heideggerian thought: philosophy does not complete life; life is complete without it."
+    },
+    {
+      "id": "inh/henry-gp/004",
+      "locator": "henry-genealogie-de-la-psychanalyse-commentary#h2-chapter-i-videre-videor",
+      "primary_locator": "Généalogie de la psychanalyse, ch. I",
+      "predecessor": { "author": "René Descartes", "text": "Meditationes de prima philosophia" },
+      "mode": "acknowledged-debt",
+      "claim": "By grounding the idea of thing on the thinking thing alone, Descartes refuses every interpretation of being from beings and takes the first steps of what Henry names a material phenomenology.",
+      "quote": "By grounding the idea of thing exclusively on the thinking thing, Descartes rejects every interpretation of being from beings, and takes the first steps of what Henry now names \"une phénoménologie matérielle\" (a material phenomenology)."
+    },
+    {
+      "id": "inh/henry-gp/005",
+      "locator": "henry-genealogie-de-la-psychanalyse-commentary#h2-chapter-i-videre-videor",
+      "primary_locator": "Généalogie de la psychanalyse, ch. I",
+      "predecessor": { "author": "Martin Heidegger" },
+      "mode": "polemical-rejection",
+      "claim": "Henry turns the ergo of the cogito against Heidegger: the question of being is answered by the analysis of manifestation, not presupposed by it.",
+      "quote": "The *ergo* is turned into Henry's weapon against Heidegger: the being-question is answered by the analysis of manifestation, not presupposed by it."
+    },
+    {
+      "id": "inh/henry-gp/006",
+      "locator": "henry-genealogie-de-la-psychanalyse-commentary#h2-chapter-ii-the-decline-of-the-phenomenological-absolutes",
+      "primary_locator": "Généalogie de la psychanalyse, ch. II",
+      "predecessor": { "author": "Edmund Husserl" },
+      "mode": "polemical-rejection",
+      "claim": "An intentional cogito that is merely the correlative pole of its cogitata, as in Husserl, has no being of its own.",
+      "quote": "Henry here anticipates his critique of Husserl in Chapter III: an intentional *cogito* that is merely the correlative pole of its *cogitata* has no being of its own."
+    },
+    {
+      "id": "inh/henry-gp/007",
+      "locator": "henry-genealogie-de-la-psychanalyse-commentary#h2-chapter-ii-the-decline-of-the-phenomenological-absolutes",
+      "primary_locator": "Généalogie de la psychanalyse, ch. II",
+      "predecessor": { "author": "Gottfried Wilhelm Leibniz" },
+      "mode": "destructive-appropriation",
+      "claim": "Henry accepts Leibniz's premise that thought escapes reflection and radicalizes it against Leibniz's conclusion: not unconscious thought, but all thought self-revealed without reflection.",
+      "quote": "Henry accepts Leibniz's premise and radicalizes it: not some, but all thought escapes reflection, and that is why all thought is self-revealed."
+    },
+    {
+      "id": "inh/henry-gp/008",
+      "locator": "henry-genealogie-de-la-psychanalyse-commentary#h2-chapter-iii-the-insertion-of-the-ego-cogito-into-the-history-of-western-metaphys",
+      "primary_locator": "Généalogie de la psychanalyse, ch. III",
+      "predecessor": { "author": "Martin Heidegger" },
+      "mode": "polemical-rejection",
+      "claim": "Henry turns Heidegger's etymological gloss of cogitare as co-agitare, gathering-before, against the lexical evidence of Descartes' own uses of perceptio.",
+      "quote": "Henry turns Heidegger's etymological gloss, *co-agitare* as gathering-before, against the lexical evidence of Descartes' own uses of *perceptio*."
+    },
+    {
+      "id": "inh/henry-gp/009",
+      "locator": "henry-genealogie-de-la-psychanalyse-commentary#h2-chapter-iii-the-insertion-of-the-ego-cogito-into-the-history-of-western-metaphys",
+      "primary_locator": "Généalogie de la psychanalyse, ch. III",
+      "predecessor": { "author": "Martin Heidegger" },
+      "mode": "polemical-rejection",
+      "claim": "Henry contests the first link of Heidegger's lineage from Descartes to Nietzsche, the identification of Cartesian certainty with the stability of the represented.",
+      "quote": "Heidegger's identification of Cartesian certainty with the stability of the represented underlies his link from Descartes to Nietzsche's will to power as securing of permanence; Henry contests its first link."
+    },
+    {
+      "id": "inh/henry-gp/010",
+      "locator": "henry-genealogie-de-la-psychanalyse-commentary#h2-chapter-iv-empty-subjectivity-and-lost-life-the-kantian-critique-of-the-soul",
+      "primary_locator": "Généalogie de la psychanalyse, ch. IV",
+      "predecessor": { "author": "Martin Heidegger", "text": "Kant und das Problem der Metaphysik" },
+      "mode": "destructive-appropriation",
+      "claim": "Henry follows the Kantbuch (§§ 4-5) in placing finitude in intuition rather than thought, in order to turn its results against it.",
+      "quote": "Henry follows Heidegger's *Kantbuch* (§§ 4–5) in placing finitude in intuition rather than in thought, preparing to turn the *Kantbuch*'s results against it."
+    },
+    {
+      "id": "inh/henry-gp/011",
+      "locator": "henry-genealogie-de-la-psychanalyse-commentary#h2-chapter-iv-empty-subjectivity-and-lost-life-the-kantian-critique-of-the-soul",
+      "primary_locator": "Généalogie de la psychanalyse, ch. IV",
+      "predecessor": { "author": "Martin Heidegger", "text": "Kant und das Problem der Metaphysik" },
+      "mode": "polemical-rejection",
+      "claim": "Henry's sharpest move against the Kantbuch reverses pure and empirical intuition, where for the Kantbuch the pure horizon is the condition of any encounter.",
+      "quote": "Henry's reversal of pure and empirical intuition is his sharpest move against the *Kantbuch*, where the pure horizon is the condition of any encounter."
+    },
+    {
+      "id": "inh/henry-gp/012",
+      "locator": "henry-genealogie-de-la-psychanalyse-commentary#h2-chapter-iv-empty-subjectivity-and-lost-life-the-kantian-critique-of-the-soul",
+      "primary_locator": "Généalogie de la psychanalyse, ch. IV",
+      "predecessor": { "author": "Immanuel Kant", "text": "Kritik der reinen Vernunft" },
+      "mode": "acknowledged-debt",
+      "claim": "Henry credits Kant with the deepest insight of the chapter, against Fichte: ipseity is passive, not self-positing.",
+      "quote": "Henry credits Kant with the deepest insight of the chapter: ipseity is passive, not self-positing, against Fichte."
+    },
+    {
+      "id": "inh/henry-gp/013",
+      "locator": "henry-genealogie-de-la-psychanalyse-commentary#h2-chapter-iv-empty-subjectivity-and-lost-life-the-kantian-critique-of-the-soul",
+      "primary_locator": "Généalogie de la psychanalyse, ch. IV",
+      "predecessor": { "author": "Martin Heidegger", "text": "Kant und das Problem der Metaphysik" },
+      "mode": "polemical-rejection",
+      "claim": "Henry reads Kantian self-affection against Heidegger, who took it as pure time, and against the French reflexive tradition (Nabert, Lachièze-Rey), which took it as self-positing.",
+      "quote": "The note situates Henry exactly: against Heidegger, who took Kantian self-affection as pure time, and against the French reflexive tradition (Nabert, Lachièze-Rey), which took it as self-positing."
+    },
+    {
+      "id": "inh/henry-gp/014",
+      "locator": "henry-genealogie-de-la-psychanalyse-commentary#h2-chapter-v-life-regained-the-world-as-will",
+      "primary_locator": "Généalogie de la psychanalyse, ch. V",
+      "predecessor": { "author": "Arthur Schopenhauer", "text": "The World as Will and Representation" },
+      "mode": "acknowledged-debt",
+      "claim": "Henry takes over Schopenhauer's subject-object correlation as his own description of ecstasis, and locates Schopenhauer's novelty in the claim that the correlation as such is the domain of unreality.",
+      "quote": "Henry takes over Schopenhauer's subject–object correlation as his own description of ecstasis (Chapter III), and identifies Schopenhauer's novelty in the claim that this correlation, as such, is the domain of unreality."
+    },
+    {
+      "id": "inh/henry-gp/015",
+      "locator": "henry-genealogie-de-la-psychanalyse-commentary#h2-chapter-v-life-regained-the-world-as-will",
+      "primary_locator": "Généalogie de la psychanalyse, ch. V",
+      "predecessor": { "author": "Arthur Schopenhauer", "text": "The World as Will and Representation" },
+      "mode": "polemical-rejection",
+      "claim": "Henry criticizes the turning point of Schopenhauer's system, the extension of will to nature by analogy, as a relapse into representation.",
+      "quote": "Henry now reaches the turning point of Schopenhauer's system, the extension of will to nature by analogy, which he will criticize as a relapse into representation."
+    },
+    {
+      "id": "inh/henry-gp/016",
+      "locator": "henry-genealogie-de-la-psychanalyse-commentary#h2-chapter-vi-life-and-its-properties-repression",
+      "primary_locator": "Généalogie de la psychanalyse, ch. VI",
+      "predecessor": { "author": "Arthur Schopenhauer" },
+      "mode": "acknowledged-debt",
+      "claim": "Henry credits Schopenhauer with the idea of an a priori eidetics of affectivity, the programme of L'essence de la manifestation.",
+      "quote": "Henry credits Schopenhauer with the idea of an a priori eidetics of affectivity, the programme of *L'essence de la manifestation*"
+    },
+    {
+      "id": "inh/henry-gp/017",
+      "locator": "henry-genealogie-de-la-psychanalyse-commentary#h2-chapter-vi-life-and-its-properties-repression",
+      "primary_locator": "Généalogie de la psychanalyse, ch. VI",
+      "predecessor": { "author": "Martin Heidegger", "text": "The Fundamental Concepts of Metaphysics" },
+      "mode": "polemical-rejection",
+      "claim": "Henry inverts Heidegger's interpretation of boredom: not the disclosure of beings as a whole but the will's self-experience, misread through the lack of an object.",
+      "quote": "Henry's interpretation of boredom inverts Heidegger's (*Fundamental Concepts of Metaphysics*), where profound boredom discloses beings as a whole: here boredom is the will's self-experience, misread through the lack of an object."
+    },
+    {
+      "id": "inh/henry-gp/018",
+      "locator": "henry-genealogie-de-la-psychanalyse-commentary#h2-chapter-vii-life-and-affectivity-according-to-nietzsche",
+      "primary_locator": "Généalogie de la psychanalyse, ch. VII",
+      "predecessor": { "author": "Martin Heidegger", "text": "Nietzsche" },
+      "mode": "acknowledged-debt",
+      "claim": "Henry agrees with Heidegger's Nietzsche that will to power is not a striving for power but power's self-enhancement.",
+      "quote": "Henry agrees with Heidegger (*Nietzsche* I, \"The Will to Power as Art\") that will to power is not a striving for power; it is power's self-enhancement."
+    },
+    {
+      "id": "inh/henry-gp/019",
+      "locator": "henry-genealogie-de-la-psychanalyse-commentary#h2-chapter-vii-life-and-affectivity-according-to-nietzsche",
+      "primary_locator": "Généalogie de la psychanalyse, ch. VII",
+      "predecessor": { "author": "Friedrich Nietzsche" },
+      "mode": "acknowledged-debt",
+      "claim": "Henry claims Nietzsche for fundamental ontology in a sense opposed to Heidegger's: the being of the will to power is life.",
+      "quote": "Henry claims Nietzsche for \"fundamental ontology\", but in a sense opposed to Heidegger's: the being of the will to power is life."
+    },
+    {
+      "id": "inh/henry-gp/020",
+      "locator": "henry-genealogie-de-la-psychanalyse-commentary#h2-chapter-vii-life-and-affectivity-according-to-nietzsche",
+      "primary_locator": "Généalogie de la psychanalyse, ch. VII",
+      "predecessor": { "author": "Gilles Deleuze", "text": "Nietzsche and Philosophy" },
+      "mode": "polemical-rejection",
+      "claim": "Against Deleuze's quantitative reading of Nietzsche in active and reactive forces, Henry's hyper-power holds that differences of force presuppose the same self-givenness in every force.",
+      "quote": "\"Hyper-power\" sets Henry against the quantitative reading of Nietzsche (Deleuze's *Nietzsche and Philosophy*, with its active and reactive quanta)"
+    },
+    {
+      "id": "inh/henry-gp/021",
+      "locator": "henry-genealogie-de-la-psychanalyse-commentary#h2-chapter-ix-man-s-ape-the-unconscious",
+      "primary_locator": "Généalogie de la psychanalyse, ch. IX",
+      "predecessor": { "author": "Sigmund Freud" },
+      "mode": "terminological-borrowing",
+      "claim": "Henry keeps Freud's drive but redefines it as the burden of self, reversing Freud's derivation of affect from drive.",
+      "quote": "The drive is the burden of self: Henry's definition reverses Freud's derivation of affect from drive."
+    },
+    {
+      "id": "inh/henry-gp/022",
+      "locator": "henry-genealogie-de-la-psychanalyse-commentary#h2-chapter-ix-man-s-ape-the-unconscious",
+      "primary_locator": "Généalogie de la psychanalyse, ch. IX",
+      "predecessor": { "author": "Søren Kierkegaard" },
+      "mode": "acknowledged-debt",
+      "claim": "Henry's definition of anxiety takes up Kierkegaard, and his own L'essence de la manifestation § 70, against Heidegger's anxiety before nothingness and being-in-the-world.",
+      "quote": "Henry's definition takes up Kierkegaard and his own *L'essence de la manifestation*, § 70, against Heidegger's anxiety before nothingness and being-in-the-world."
+    },
+    {
+      "id": "inh/henry-gp/023",
+      "locator": "henry-genealogie-de-la-psychanalyse-commentary#h2-chapter-ix-man-s-ape-the-unconscious",
+      "primary_locator": "Généalogie de la psychanalyse, ch. IX",
+      "predecessor": { "author": "Paul Ricœur", "text": "De l'interprétation" },
+      "mode": "polemical-rejection",
+      "claim": "Henry praises Ricœur's book on Freud as a rare philosophical approach but sets his own against it: the same diagnosis of the death drive as constancy, the opposite conclusion, life rather than hermeneutics.",
+      "quote": "The note sets Henry's book against Ricœur's: same diagnosis (death drive = constancy), opposite conclusion (hermeneutics vs. life)."
+    }
+  ]
+}

@@ -148,11 +148,52 @@ def years(ctx, slug):
     return (min(ys), max(ye)) if ys else (None, None)
 
 
+# Title words that every commentary in a tradition shares: a match on one of them alone
+# would pair "Lectures on the Phenomenology of Internal Time-Consciousness" with every
+# commentary whose title says "phenomenology".
+GENERIC = {"phenomenology", "phenomenological", "philosophy", "philosophical", "logic",
+           "logical", "lecture", "introduction", "study", "problem", "basic", "theory",
+           "critique", "general", "commentary", "part", "edition", "preface", "work"}
+MARKER = re.compile(r"\d+|[ivx]+")
+
+
+def title_words(s):
+    """(content words, volume markers): plurals folded, generic words dropped, so that
+    'Logical Investigations' meets 'fifth-logical-investigation' on 'investigation'."""
+    words = re.findall(r"[a-z0-9]+", fold(s))
+    marks = {w for w in words if MARKER.fullmatch(w)}
+    content = set()
+    for w in words:
+        if w in STOP or MARKER.fullmatch(w) or len(w) < 3:
+            continue
+        w = w[:-1] if len(w) > 4 and w.endswith("s") else w
+        if w not in GENERIC:
+            content.add(w)
+    return content, marks
+
+
+def text_matches(text, p_words, p_marks, pred):
+    words, marks = title_words(text)
+    words -= {pred}
+    # A long title must share two words: "The Fundamental Concepts of Metaphysics" is not
+    # a commentary on "Hegel's Concept of Experience".
+    if len(words & p_words) < (2 if len(words) >= 3 else 1):
+        return False
+    # "Ideen I" names one volume: it must not match the commentary on Ideen II.
+    return not marks or bool(marks & p_marks)
+
+
 def text_hits(ctx, pred, named, exclude=None):
     """{P slug: [named texts it matches]} over the predecessor's commentaries."""
     docs = ctx["docs"]
-    return {p: [t for t in named if tokens(t) & (tokens(p) | tokens(docs[p]["title"])) - {pred}]
-            for p in ctx["by_author"].get(pred, []) if p != exclude}
+    out = {}
+    for p in ctx["by_author"].get(pred, []):
+        if p == exclude:
+            continue
+        w1, m1 = title_words(p)
+        w2, m2 = title_words(docs[p]["title"])
+        out[p] = [t for t in named if text_matches(t, w1 | w2, m1 | m2, pred)]
+    return out
 
 
 def candidate_rows(ctx, check_sources=True):

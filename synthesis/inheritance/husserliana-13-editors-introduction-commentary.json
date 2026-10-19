@@ -1,0 +1,97 @@
+{
+  "schema_version": 1,
+  "commentary": "husserliana-13-editors-introduction-commentary",
+  "source_sha256": "977937c46151d7bf4ad90837b73a5916a68580d269068d4929a5658fe69c8ec6",
+  "extracted_at": "2026-10-18",
+  "extractor": {
+    "agent": "claude-code",
+    "model": "claude-opus-5-5",
+    "prompt": "synthesis/prompts/inheritance-prompt.md",
+    "note": "source_sha256 is the LF digest from corpus.json (CRLF checkout; a local validate reports a false staleness). The commentary on Iso Kern's editor's introduction was read in full. As in the Kern monograph record, the engagements are Husserl's, as Kern documents them; primary_locator gives Kern's Roman pagination as the commentary cites it. Left out: Kern's own comparison with Scheler (not presented as Husserl's engagement), Husserl's reading of Natorp in 1918 (reported without an engagement), Edith Stein's thesis (a possible stimulus Kern discounts), and Husserl's relation to his own Logical Investigations."
+  },
+  "coverage": "complete",
+  "coverage_note": "Whole commentary read (the single section on the Editor's Introduction). Recorded: Husserl's engagements with Lipps (the term empathy without the theory; the rejection of the expression-first framing, of the appeal to instinct, and of projection; the shared parallel of empathy and recollection), Meinong (a possible source of the 1905 usage), Dilthey, Avenarius and the Cartesian ideal of indubitable givenness.",
+  "engagements": [
+    {
+      "id": "inh/hua13-ei/001",
+      "locator": "husserliana-13-editors-introduction-commentary#h2-editor-s-introduction-iso-kern",
+      "primary_locator": "Hua XIII, Einleitung des Herausgebers, XXV-XXVI",
+      "predecessor": { "author": "Theodor Lipps" },
+      "mode": "terminological-borrowing",
+      "claim": "From the mid-1900s Husserl used Lipps's term 'empathy' for the experience of other persons without its implying any determinate theory of that experience, as it did for Lipps, and kept the word after calling it a false expression.",
+      "quote": "an index is that Husserl used the term \"empathy\" for the experience of other persons from the mid-1900s on, though without its implying for him any determinate theory of the experience of others, as it did for Lipps."
+    },
+    {
+      "id": "inh/hua13-ei/002",
+      "locator": "husserliana-13-editors-introduction-commentary#h2-editor-s-introduction-iso-kern",
+      "primary_locator": "Hua XIII, Einleitung des Herausgebers, XXVI-XXVII",
+      "predecessor": { "author": "Alexius Meinong", "text": "Über Annahmen" },
+      "mode": "terminological-borrowing",
+      "claim": "Kern suggests that Husserl's first use of 'empathy' in 1905, naming the neutrality modification of non-objectivating acts, may come not from Lipps but from Meinong's Über Annahmen, whose phantasy-feelings and phantasy-desires roughly correspond to that modification.",
+      "quote": "but suggests Husserl may have taken the word not from Lipps but from Alexius Meinong, whose *Über Annahmen* (1902), studied closely by Husserl, explained empathy into artworks as phantasy-feelings and phantasy-desires, concepts roughly corresponding to Husserl's neutrality modification of non-objectivating acts."
+    },
+    {
+      "id": "inh/hua13-ei/003",
+      "locator": "husserliana-13-editors-introduction-commentary#h2-editor-s-introduction-iso-kern",
+      "primary_locator": "Hua XIII, Einleitung des Herausgebers, XXVIII-XXIX",
+      "predecessor": { "author": "Theodor Lipps" },
+      "mode": "polemical-rejection",
+      "claim": "Husserl holds it upside down to attach the problem of empathy to expressive movements, as Lipps did; the grasp of expression is already mediated by the grasp of the body as a body with sensations.",
+      "quote": "It is upside down to attach the whole problem of empathy to mere expressive movements, to bodily expressions and utterances of the psychic, as is customary and as Lipps did in his own meritorious accounts; the grasping of \"utterance,\" of the \"expression\" of psychic acts and states, is already mediated by the grasping of the body as body."
+    },
+    {
+      "id": "inh/hua13-ei/004",
+      "locator": "husserliana-13-editors-introduction-commentary#h2-editor-s-introduction-iso-kern",
+      "primary_locator": "Hua XIII, Einleitung des Herausgebers, XXVIII-XXIX",
+      "predecessor": { "author": "Theodor Lipps" },
+      "mode": "polemical-rejection",
+      "claim": "Husserl rejects Lipps's appeal to inexplicable instincts of expression and imitation as an explanation of empathy, calling it a refuge of phenomenological ignorance, and demands a phenomenological clarification from the phenomena themselves.",
+      "quote": "he rejects Lipps's appeal to wonderful, further inexplicable instincts of life-utterance and of imitation of foreign expressive movements as an explanation of empathy, calling it a refuge of phenomenological ignorance, and demands in its place a phenomenological clarification guided by the exhibiting of the phenomena themselves."
+    },
+    {
+      "id": "inh/hua13-ei/005",
+      "locator": "husserliana-13-editors-introduction-commentary#h2-editor-s-introduction-iso-kern",
+      "primary_locator": "Hua XIII, Einleitung des Herausgebers, XXIX-XXX",
+      "predecessor": { "author": "Theodor Lipps" },
+      "mode": "polemical-rejection",
+      "claim": "Husserl never took foreign experience, as Lipps did, to be a projecting-in of what is lived into outwardly perceived bodies; he developed his thought on foreign experience in opposition to Lipps's theory.",
+      "quote": "Above all Husserl never interpreted foreign experience, as Lipps did, as a projecting-in of what is immediately lived into outwardly perceived bodies."
+    },
+    {
+      "id": "inh/hua13-ei/006",
+      "locator": "husserliana-13-editors-introduction-commentary#h2-editor-s-introduction-iso-kern",
+      "primary_locator": "Hua XIII, Einleitung des Herausgebers, XXIX-XXX",
+      "predecessor": { "author": "Theodor Lipps" },
+      "mode": "acknowledged-debt",
+      "claim": "The commonality with Lipps most fruitful for Husserl is the parallel of empathy with recollection, which gains fundamental significance in the 1910/11 lectures and the empathy texts of 1914 or 1915.",
+      "quote": "The commonality that was probably most important and most fruitful for Husserl lies in the parallelisation of empathy with recollection carried out by both."
+    },
+    {
+      "id": "inh/hua13-ei/007",
+      "locator": "husserliana-13-editors-introduction-commentary#h2-editor-s-introduction-iso-kern",
+      "primary_locator": "Hua XIII, Einleitung des Herausgebers, XXXII-XXXIII",
+      "predecessor": { "author": "Wilhelm Dilthey" },
+      "mode": "acknowledged-debt",
+      "claim": "Husserl's letter to Misch of 27 June 1929 credits a few conversations with Dilthey in Berlin in 1905, not his writings, with an impulse that led from the Logical Investigations to the Ideen, and the phenomenology completed 1913-1925 with innermost community with Dilthey, though by a different method.",
+      "quote": "few conversations with Dilthey in Berlin in 1905 — not his writings — meant an impulse that led Husserl from the *Logical Investigations* to the *Ideen*"
+    },
+    {
+      "id": "inh/hua13-ei/008",
+      "locator": "husserliana-13-editors-introduction-commentary#h2-editor-s-introduction-iso-kern",
+      "primary_locator": "Hua XIII, Einleitung des Herausgebers, XXXIV-XXXVI",
+      "predecessor": { "author": "René Descartes" },
+      "mode": "polemical-rejection",
+      "claim": "The extension of the reduction to intersubjectivity in 1910/11 is prepared by detaching the idea of phenomenology from the Cartesian thought of absolute, indubitable givenness and recognizing re-presentation as a necessary mode of experience within phenomenology.",
+      "quote": "It is prepared above all in principle by detaching the idea of phenomenology from the Cartesian thought of absolute, indubitable givenness — that is, by recognising re-presentation as a mode of experience that is not merely legitimate but necessary within phenomenology itself."
+    },
+    {
+      "id": "inh/hua13-ei/009",
+      "locator": "husserliana-13-editors-introduction-commentary#h2-editor-s-introduction-iso-kern",
+      "primary_locator": "Hua XIII, Einleitung des Herausgebers, XXXVI-XXXVIII",
+      "predecessor": { "author": "Richard Avenarius", "text": "Der menschliche Weltbegriff" },
+      "mode": "acknowledged-debt",
+      "claim": "Husserl introduces the natural concept of the world in the 1910/11 lectures with explicit appeal to Avenarius, above all Der menschliche Weltbegriff; Kern sees a kinship between Avenarius's abolition of introjection and Husserl's reduction to intersubjective consciousness.",
+      "quote": "Husserl introduces the natural world-concept with explicit appeal to Richard Avenarius, whose works he knew and valued, and above all to *Der menschliche Weltbegriff* (1891), which he had certainly studied thoroughly by 1902."
+    }
+  ]
+}
