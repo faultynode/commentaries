@@ -88,8 +88,10 @@ Output: outputs/henry-on-sz-comparative-commentary.md
 - The Kehre claim in §11 ¶25 (premises of the later reversal "dans Sein und Zeit") rests on texts outside the corpus (Letter on Humanism, GA 9 327-328, and the 1930s courses). Not settled; any later use is retrospective. (2026-10-19.)
 - Henry's rendering of SZ 96 "Umschaltung" as "inversion" (n. 86) and his "dénaturé" in quotation marks for SZ 58 (n. 81) are small tilts recorded in §12; no SZ word "dénaturé" was found at SZ 58-59. (2026-10-19.)
 - §13 ¶12 (light joins earth, "la terre est le lieu de la lumière") resembles "Der Ursprung des Kunstwerkes"; not SZ, not checked. (Also flagged in the GA 5 run.) (2026-10-19.)
+- Henry cites two post-1945 Heidegger texts in Section II: the 1949 introduction to *Was ist Metaphysik?* (Rovan, "La Remontée au fondement de la métaphysique", n. 91) and *Über den Humanismus* (Klostermann 1949, n. 107). Neither is in the corpus. His claims about "la philosophie de l'être" in §§25-26 (man only lit by being; non-truth as an essence juxtaposed to truth) rest on them and on *Vom Wesen der Wahrheit*, not on SZ. (2026-10-19.)
+- n. 90 of Section II reads "SZ, III"; by the sentence it supports it is SZ 111 (space in the world), the numeral being a misprint or conversion error. (2026-10-19.)
 
 ## Progress
-Last completed unit: Section II, §24 ¶14 (2026-10-19). Section II continues at §25.
+Last completed unit: Section II, §26 ¶8 (2026-10-19). Section II continues at §27.
 Next: Section II, §17 ¶1 ("Section II. Repetition of the elucidation of the concept of phenomenon: transcendence and immanence"). Map Section II's SZ notes first (the source's Section II notes start at line 1317 of henry-lessence-de-la-manifestation.md; the H notes belong to the GA 5 run and the K notes to the GA 3 run, so this run treats only SZ and the SZ-relevant claims).
 Revision: 2026-10-19, run opened; pair-specific notes 1-10 set; Introduction written. Guards 1-10 held in the Introduction; no new guard added, but the "zunächst und zumeist" rendering is recorded under Open threads.
