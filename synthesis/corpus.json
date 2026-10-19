@@ -2776,6 +2776,167 @@
       ]
     },
     {
+      "slug": "descartes-meditationes-de-prima-philosophia-commentary",
+      "path": "commentaries/descartes/descartes-meditationes-de-prima-philosophia-commentary.md",
+      "author": "descartes",
+      "title": "Descartes, Meditationes de prima philosophia (AT VII): A Commentary",
+      "wordpress_id": null,
+      "sha256": "3711e5a3f6a455e0a1245c2c01186c737ceeb9c31687c9a0f491e51db1f245c0",
+      "lines": 319,
+      "words": 43325,
+      "url": "https://faultynode.github.io/commentaries/commentaries/descartes/descartes-meditationes-de-prima-philosophia-commentary.html",
+      "sections": [
+        {
+          "id": "h1-descartes-meditationes-de-prima-philosophia-at-vii-a-commentary",
+          "level": 1,
+          "title": "Descartes, Meditationes de prima philosophia (AT VII): A Commentary",
+          "path": [
+            "Descartes, Meditationes de prima philosophia (AT VII): A Commentary"
+          ],
+          "anchor": "descartes-meditationes-de-prima-philosophia-at-vii-a-commentary",
+          "line_start": 6,
+          "line_end": 11,
+          "words": 289
+        },
+        {
+          "id": "h2-to-the-most-wise-and-distinguished-dean-and-doctors-of-the-sacred-faculty-of-the",
+          "level": 2,
+          "title": "To the Most Wise and Distinguished Dean and Doctors of the Sacred Faculty of Theology of Paris",
+          "path": [
+            "Descartes, Meditationes de prima philosophia (AT VII): A Commentary",
+            "To the Most Wise and Distinguished Dean and Doctors of the Sacred Faculty of Theology of Paris"
+          ],
+          "anchor": "to-the-most-wise-and-distinguished-dean-and-doctors-of-the-sacred-faculty-of-theology-of-paris",
+          "line_start": 12,
+          "line_end": 27,
+          "words": 1295
+        },
+        {
+          "id": "h2-preface-to-the-reader",
+          "level": 2,
+          "title": "Preface to the Reader",
+          "path": [
+            "Descartes, Meditationes de prima philosophia (AT VII): A Commentary",
+            "Preface to the Reader"
+          ],
+          "anchor": "preface-to-the-reader",
+          "line_start": 28,
+          "line_end": 43,
+          "words": 1307
+        },
+        {
+          "id": "h2-synopsis-of-the-six-following-meditations",
+          "level": 2,
+          "title": "Synopsis of the Six Following Meditations",
+          "path": [
+            "Descartes, Meditationes de prima philosophia (AT VII): A Commentary",
+            "Synopsis of the Six Following Meditations"
+          ],
+          "anchor": "synopsis-of-the-six-following-meditations",
+          "line_start": 44,
+          "line_end": 57,
+          "words": 1663
+        },
+        {
+          "id": "h2-meditations-on-first-philosophy-in-which-the-existence-of-god-and-the-distinctio",
+          "level": 2,
+          "title": "Meditations on First Philosophy, in Which the Existence of God and the Distinction of the Soul from the Body Are Demonstrated",
+          "path": [
+            "Descartes, Meditationes de prima philosophia (AT VII): A Commentary",
+            "Meditations on First Philosophy, in Which the Existence of God and the Distinction of the Soul from the Body Are Demonstrated"
+          ],
+          "anchor": "meditations-on-first-philosophy-in-which-the-existence-of-god-and-the-distinction-of-the-soul-from-the-body-are-demonstrated",
+          "line_start": 58,
+          "line_end": 59,
+          "words": 0
+        },
+        {
+          "id": "h3-first-meditation-what-can-be-called-into-doubt",
+          "level": 3,
+          "title": "First Meditation: What Can Be Called into Doubt",
+          "path": [
+            "Descartes, Meditationes de prima philosophia (AT VII): A Commentary",
+            "Meditations on First Philosophy, in Which the Existence of God and the Distinction of the Soul from the Body Are Demonstrated",
+            "First Meditation: What Can Be Called into Doubt"
+          ],
+          "anchor": "first-meditation-what-can-be-called-into-doubt",
+          "line_start": 60,
+          "line_end": 85,
+          "words": 3226
+        },
+        {
+          "id": "h3-second-meditation-the-nature-of-the-human-mind-and-that-it-is-better-known-than",
+          "level": 3,
+          "title": "Second Meditation: The Nature of the Human Mind, and That It Is Better Known than the Body",
+          "path": [
+            "Descartes, Meditationes de prima philosophia (AT VII): A Commentary",
+            "Meditations on First Philosophy, in Which the Existence of God and the Distinction of the Soul from the Body Are Demonstrated",
+            "Second Meditation: The Nature of the Human Mind, and That It Is Better Known than the Body"
+          ],
+          "anchor": "second-meditation-the-nature-of-the-human-mind-and-that-it-is-better-known-than-the-body",
+          "line_start": 86,
+          "line_end": 119,
+          "words": 5735
+        },
+        {
+          "id": "h3-third-meditation-of-god-that-he-exists",
+          "level": 3,
+          "title": "Third Meditation: Of God, That He Exists",
+          "path": [
+            "Descartes, Meditationes de prima philosophia (AT VII): A Commentary",
+            "Meditations on First Philosophy, in Which the Existence of God and the Distinction of the Soul from the Body Are Demonstrated",
+            "Third Meditation: Of God, That He Exists"
+          ],
+          "anchor": "third-meditation-of-god-that-he-exists",
+          "line_start": 120,
+          "line_end": 197,
+          "words": 10026
+        },
+        {
+          "id": "h3-fourth-meditation-of-the-true-and-the-false",
+          "level": 3,
+          "title": "Fourth Meditation: Of the True and the False",
+          "path": [
+            "Descartes, Meditationes de prima philosophia (AT VII): A Commentary",
+            "Meditations on First Philosophy, in Which the Existence of God and the Distinction of the Soul from the Body Are Demonstrated",
+            "Fourth Meditation: Of the True and the False"
+          ],
+          "anchor": "fourth-meditation-of-the-true-and-the-false",
+          "line_start": 198,
+          "line_end": 235,
+          "words": 5661
+        },
+        {
+          "id": "h3-fifth-meditation-of-the-essence-of-material-things-and-again-of-god-that-he-exis",
+          "level": 3,
+          "title": "Fifth Meditation: Of the Essence of Material Things, and Again of God, That He Exists",
+          "path": [
+            "Descartes, Meditationes de prima philosophia (AT VII): A Commentary",
+            "Meditations on First Philosophy, in Which the Existence of God and the Distinction of the Soul from the Body Are Demonstrated",
+            "Fifth Meditation: Of the Essence of Material Things, and Again of God, That He Exists"
+          ],
+          "anchor": "fifth-meditation-of-the-essence-of-material-things-and-again-of-god-that-he-exists",
+          "line_start": 236,
+          "line_end": 269,
+          "words": 4808
+        },
+        {
+          "id": "h3-sixth-meditation-of-the-existence-of-material-things-and-of-the-real-distinction",
+          "level": 3,
+          "title": "Sixth Meditation: Of the Existence of Material Things, and of the Real Distinction of the Mind from the Body",
+          "path": [
+            "Descartes, Meditationes de prima philosophia (AT VII): A Commentary",
+            "Meditations on First Philosophy, in Which the Existence of God and the Distinction of the Soul from the Body Are Demonstrated",
+            "Sixth Meditation: Of the Existence of Material Things, and of the Real Distinction of the Mind from the Body"
+          ],
+          "anchor": "sixth-meditation-of-the-existence-of-material-things-and-of-the-real-distinction-of-the-mind-from-the-body",
+          "line_start": 270,
+          "line_end": 319,
+          "words": 9164
+        }
+      ]
+    },
+    {
       "slug": "descartes-passions-de-lame-commentary",
       "path": "commentaries/descartes/descartes-passions-de-lame-commentary.md",
       "author": "descartes",

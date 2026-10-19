@@ -1878,6 +1878,7 @@
 - `leibniz-monadology-commentary` - 7 term hits, no record
 - `fichte-science-of-knowing-commentary` - 5 term hits, no record
 - `mohanty-philosophy-of-edmund-husserl-commentary` - 5 term hits, no record
+- `descartes-meditationes-de-prima-philosophia-commentary` - 4 term hits, no record
 - `freud-das-unbewusste-commentary` - 2 term hits, no record
 - `descartes-discours-de-la-methode-commentary` - 1 term hit, no record
 - `descartes-passions-de-lame-commentary` - 1 term hit, no record

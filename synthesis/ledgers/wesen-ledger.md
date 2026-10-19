@@ -1320,6 +1320,7 @@
 - `heidegger-ga-24-die-grundprobleme-der-phanomenologie-commentary` - 73 term hits, no record
 - `husserliana-23-phantasie-bildbewusstsein-erinnerung-commentary` - 65 term hits, no record
 - `husserliana-39-die-lebenswelt-commentary` - 63 term hits, no record
+- `descartes-meditationes-de-prima-philosophia-commentary` - 61 term hits, no record
 - `husserliana-10-inneres-zeitbewusstsein-commentary` - 61 term hits, no record
 - `husserliana-8-erste-philosophie-ii-commentary` - 60 term hits, no record
 - `heidegger-ga-18-grundbegriffe-der-aristotelischen-philosophie-commentary` - 58 term hits, no record

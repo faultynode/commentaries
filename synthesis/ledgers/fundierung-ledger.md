@@ -1765,6 +1765,7 @@
 - `heidegger-ga-19-platon-sophistes-commentary` - 65 term hits, no record
 - `mohanty-philosophy-of-edmund-husserl-commentary` - 64 term hits, no record
 - `descartes-passions-de-lame-commentary` - 62 term hits, no record
+- `descartes-meditationes-de-prima-philosophia-commentary` - 54 term hits, no record
 - `picht-de-anima-commentary` - 52 term hits, no record
 - `heidegger-ga-17-einfuhrung-in-die-phanomenologische-forschung-commentary` - 48 term hits, no record
 - `heidegger-ga-61-phenomenological-interpretations-of-aristotle-commentary` - 45 term hits, no record

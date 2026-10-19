@@ -1,3 +1,8 @@
+---
+redirect_from:
+  - "/commentaries/descartes/Meditationes de prima philosophia Commentary.html"
+---
+
 # Descartes, Meditationes de prima philosophia (AT VII): A Commentary
 
 References are to AT VII by page and line ("AT 25,12"). The main text is the Meditations with the dedicatory letter, the preface and the synopsis; the seven sets of Objections and Replies and the geometrical exposition appended to the Second Replies are folded into the units they bear on, cited by set and AT page. Neither the 1641 nor the 1642 edition breaks the letter or the preface into paragraphs, and both mark the Meditations' paragraphs only by blank intervals; the units below follow Adam–Tannery's paragraphing for the Meditations and divide the two unparagraphed pieces by argumentative step.

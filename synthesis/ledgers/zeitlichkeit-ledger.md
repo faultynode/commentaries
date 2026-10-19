@@ -1403,6 +1403,7 @@
 - `descartes-regulae-ad-directionem-ingenii-commentary` - 2 term hits, no record
 - `heidegger-ga-5-hegels-begriff-der-erfahrung-commentary` - 2 term hits, no record
 - `descartes-discours-de-la-methode-commentary` - 1 term hit, no record
+- `descartes-meditationes-de-prima-philosophia-commentary` - 1 term hit, no record
 - `fichte-science-of-knowing-commentary` - 1 term hit, no record
 - `husserl-prolegomena-commentary` - 1 term hit, no record
 - `leibniz-monadology-commentary` - 1 term hit, no record

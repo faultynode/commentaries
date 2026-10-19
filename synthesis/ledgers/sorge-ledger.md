@@ -318,6 +318,7 @@
 - `heidegger-ga-26-metaphysische-anfangsgruende-der-logik-commentary` - 59 term hits, no record
 - `lacan-seminar-11-the-four-fundamental-concepts-of-psychoanalysis-commentary` - 51 term hits, no record
 - `lacan-seminar-1-freuds-papers-on-technique-commentary` - 50 term hits, no record
+- `descartes-meditationes-de-prima-philosophia-commentary` - 47 term hits, no record
 - `henry-philosophie-et-phenomenologie-du-corps-commentary` - 47 term hits, no record
 - `husserliana-11-analyses-concerning-passive-and-active-synthesis-commentary` - 46 term hits, no record
 - `husserliana-28-vorlesungen-uber-ethik-und-wertlehre-commentary` - 44 term hits, no record
