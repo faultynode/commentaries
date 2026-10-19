@@ -19,7 +19,10 @@ are claims. Two more apply here:
 - **Name the predecessor text only where the commentary identifies it.**
   If the commentary says "Aristotle" and not which treatise, record the
   author and omit `text`. Supplying the work from your own knowledge is
-  the failure this pass exists to avoid.
+  the failure this pass exists to avoid. The same holds one level down
+  for `predecessor.locator`: where the commentary cites the place in the
+  predecessor's text the engagement bears on (`Ideas I § 42`,
+  `A 141 / B 180`), copy that citation; where it does not, omit it.
 - **The mode is a judgement about the commentary's report,** not about
   the philosophical relation. If the commentary describes Heidegger
   taking a distinction over without attribution, that is
@@ -51,7 +54,11 @@ theme:
         --commentary <slug> --sections --top 40
 
 Then read those sections, write the record against
-`synthesis/schema/inheritance.schema.json`, and validate:
+`synthesis/schema/inheritance.schema.json`, and validate. On a partial
+pass, copy the `--terms` list into `predecessors_queried` as searched: a
+name there with no engagement is a finding (searched, nothing found), a
+name missing from it is a debt, and `STATUS.md` lists the debts. A pass
+that read the whole commentary omits the field.
 
     python3 scripts/synthesis_validate.py
 
@@ -73,12 +80,13 @@ does not also refuse.
   "extractor": { "agent": "<model or person>", "prompt": "synthesis/prompts/inheritance-prompt.md" },
   "coverage": "partial",
   "coverage_note": "Preliminary Considerations only.",
+  "predecessors_queried": ["Aristotle", "Plato", "Husserl", "Natorp"],
   "engagements": [
     {
       "id": "inh/ga19/001",
       "locator": "heidegger-ga-19-platon-sophistes-commentary#h5-b-...",
       "primary_locator": "GA 19 § 2",
-      "predecessor": { "author": "Aristotle" },
+      "predecessor": { "author": "Aristotle", "text": "Nicomachean Ethics", "locator": "Z 3, 1139b15" },
       "mode": "acknowledged-debt",
       "claim": "One sentence: what is taken, refused, or renamed.",
       "quote": "Verbatim from the commentary."

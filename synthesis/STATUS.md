@@ -291,6 +291,20 @@ Named texts that no commentary's title matches: the P side of a pair that cannot
 - Plato, *Sophist* - 2 engagements, in `heidegger-ga-20-prolegomena-zur-geschichte-des-zeitbegriffs-commentary`, `heidegger-ga-3-kant-und-das-problem-der-metaphysik-commentary`
 - ... 72 more
 
+### Partial records: names not yet searched
+
+Corpus authors each partial record could engage, by date, but has neither engaged nor listed in `predecessors_queried`. A name searched without result is not listed: that absence is already a finding.
+
+- [ ] `bernet-la-vie-du-sujet-commentary` - aristotle, fichte, franck, freud, kern, kojeve, leibniz, mohanty, picht
+- [ ] `heidegger-ga-3-kant-und-das-problem-der-metaphysik-commentary` - freud, kojeve, mohanty, picht
+- [ ] `henry-genealogie-de-la-psychanalyse-commentary` - aristotle, bernet, derrida, franck, kern, kojeve, marion, mohanty, picht
+- [ ] `henry-the-essence-of-manifestation-commentary` - aristotle, derrida, freud, kojeve, lacan, leibniz, mohanty, picht
+- [ ] `kojeve-introduction-a-la-lecture-de-hegel-commentary` - bernet, derrida, franck, freud, henry, kern, lacan, marion, mohanty, picht
+- [ ] `marion-reduction-et-donation-commentary` - bernet, franck, freud, kern, kojeve, lacan, mohanty, picht
+- [ ] `marion-sur-le-prisme-metaphysique-de-descartes-commentary` - derrida, fichte, franck, freud, kern, kojeve, lacan, mohanty, picht
+
+27 partial records do not record which names they searched, so what they owe cannot be told: `derrida-introduction-a-lorigine-de-la-geometrie-commentary`, `franck-chair-et-corps-commentary`, `heidegger-ga-19-platon-sophistes-commentary`, `heidegger-ga-20-prolegomena-zur-geschichte-des-zeitbegriffs-commentary`, `heidegger-ga-24-die-grundprobleme-der-phanomenologie-commentary`, `heidegger-sein-und-zeit-commentary`, `henry-philosophie-et-phenomenologie-du-corps-commentary`, `husserl-erfahrung-und-urteil-commentary`, `husserl-formal-and-transcendental-logic-commentary`, `husserl-krisis-commentary`, `husserl-natur-und-geist-commentary`, `husserl-thing-and-space-commentary`, `husserliana-1-cartesianische-meditationen-commentary`, `husserliana-11-analyses-concerning-passive-and-active-synthesis-commentary`, `husserliana-19-2-sixth-logical-investigation-commentary`, `husserliana-28-vorlesungen-uber-ethik-und-wertlehre-commentary`, `husserliana-3-ideas-i-commentary`, `husserliana-3-ideas-i-parts-3-4-commentary`, `husserliana-33-die-bernauer-manuskripte-uber-das-zeitbewusstsein-commentary`, `husserliana-39-die-lebenswelt-commentary`, `husserliana-4-ideas-ii-commentary`, `husserliana-43-2-studien-zur-struktur-des-bewusstseins-commentary`, `husserliana-5-ideas-iii-commentary`, `husserliana-7-erste-philosophie-i-commentary`, `husserliana-9-phenomenological-psychology-commentary`, `kern-husserl-and-kant-commentary`, `picht-de-anima-commentary`.
+
 ### Candidate pairs
 
 Ranked by `scripts/comparative_candidates.py`: engagements weighted by mode (destructive and silent appropriation 3, polemical rejection 2.5, acknowledged debt 2, terminological borrowing 1), plus 4 for each named text that matches P, discounted where the record names only the author and the corpus holds several of their commentaries. Pairs with a run file are left out. Check the sources before starting one.
@@ -300,9 +314,9 @@ Ranked by `scripts/comparative_candidates.py`: engagements weighted by mode (des
 - [ ] `derrida-la-voix-et-le-phenomene-commentary` reads `husserliana-19-1-fifth-logical-investigation-commentary` - score 40.0 · 15 engagements (8 polemical-rejection, 4 destructive-appropriation, 2 terminological-borrowing, 1 acknowledged-debt) · names *Logical Investigations, First Investigation*
 - [ ] `derrida-la-voix-et-le-phenomene-commentary` reads `husserliana-19-2-sixth-logical-investigation-commentary` - score 40.0 · 15 engagements (8 polemical-rejection, 4 destructive-appropriation, 2 terminological-borrowing, 1 acknowledged-debt) · names *Logical Investigations, First Investigation*
 - [ ] `franck-heidegger-and-the-problem-of-space-commentary` reads `heidegger-sein-und-zeit-commentary` - score 39.0 · 10 engagements (6 polemical-rejection, 4 acknowledged-debt) · names *Zeit und Sein*; *Sein und Zeit*
-- [ ] `marion-reduction-et-donation-commentary` reads `husserliana-3-ideas-i-commentary` - score 35.5 · 9 engagements (5 polemical-rejection, 3 destructive-appropriation, 1 acknowledged-debt) · names *Ideas I*
-- [ ] `marion-reduction-et-donation-commentary` reads `husserliana-3-ideas-i-parts-3-4-commentary` - score 35.5 · 9 engagements (5 polemical-rejection, 3 destructive-appropriation, 1 acknowledged-debt) · names *Ideas I*
-- [ ] `henry-genealogie-de-la-psychanalyse-commentary` reads `heidegger-ga-3-kant-und-das-problem-der-metaphysik-commentary` - score 33.0 · 9 engagements (6 polemical-rejection, 1 acknowledged-debt, 1 destructive-appropriation, 1 terminological-borrowing) · names *Kant und das Problem der Metaphysik*
+- [ ] `marion-reduction-et-donation-commentary` reads `husserliana-3-ideas-i-commentary` - score 35.5 · 9 engagements (5 polemical-rejection, 3 destructive-appropriation, 1 acknowledged-debt) · names *Ideas I* · P-loci § 42
+- [ ] `marion-reduction-et-donation-commentary` reads `husserliana-3-ideas-i-parts-3-4-commentary` - score 35.5 · 9 engagements (5 polemical-rejection, 3 destructive-appropriation, 1 acknowledged-debt) · names *Ideas I* · P-loci § 42
+- [ ] `henry-genealogie-de-la-psychanalyse-commentary` reads `heidegger-ga-3-kant-und-das-problem-der-metaphysik-commentary` - score 33.0 · 9 engagements (6 polemical-rejection, 1 acknowledged-debt, 1 destructive-appropriation, 1 terminological-borrowing) · names *Kant und das Problem der Metaphysik* · P-loci §§ 4–5
 - [ ] `bernet-la-vie-du-sujet-commentary` reads `derrida-la-voix-et-le-phenomene-commentary` - score 31.5 · 5 engagements (3 polemical-rejection, 2 acknowledged-debt) · names *La voix et le phénomène*
 - [ ] `marion-reduction-et-donation-commentary` reads `husserliana-19-1-fifth-logical-investigation-commentary` - score 27.5 · 9 engagements (5 polemical-rejection, 3 destructive-appropriation, 1 acknowledged-debt) · names *Logical Investigations*
 - ... 449 more; see `comparative_candidates.py --all`

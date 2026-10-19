@@ -11,6 +11,7 @@
   },
   "coverage": "partial",
   "coverage_note": "Read in full: the opening guards, the Foreword and the Introduction. Elsewhere read at the sentences naming a non-Husserl predecessor together with a relational word, with targeted context in I.1 (intentionality and transcendence), II.2 (Cassirer and Heidegger), II.3 (Merleau-Ponty), III.1 (time), III.4 (Derrida) and the Conclusion. Not recorded: I.2-3 and II.1, III.2 (essays on Husserl alone); III.3 on Proust and Barthes, which compares frames of memory without an engagement in any of the five modes; Kant, Lacan, Gurwitsch, Natorp, Freud and Schelling, which appear only in passing.",
+  "predecessors_queried": ["Heidegger", "Derrida", "Merleau-Ponty", "Cassirer", "Proust", "Barthes", "Henry", "Levinas", "Lacan", "Fink", "Kant", "Descartes", "Brentano", "Frege", "Gurwitsch", "Sartre", "Ricœur", "Ricoeur", "Marion", "Patočka", "Dilthey"],
   "engagements": [
     {
       "id": "inh/bernet-vds/001",

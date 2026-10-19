@@ -11,6 +11,7 @@
   },
   "coverage": "partial",
   "coverage_note": "Covers Henry's engagement with the twelve queried predecessors only. Read in full: the Introduction and §§ 1-2. Every other section was read at the sentences that contain a queried name together with a relational word (credit, borrow, reject, against, confuse and similar), plus targeted context in §§ 13, 24 and 31. Heidegger (657 hits) and Eckhart (312) are recorded by their principal moves, not exhaustively; the Kant-book reading of §§ 22-36 is represented only by § 24 and § 31. Kant appears both as Henry's predecessor and through Heidegger's Kant book; engagements with the Kant book are recorded under Heidegger. No absences are claimed.",
+  "predecessors_queried": ["Husserl", "Heidegger", "Hegel", "Kant", "Descartes", "Kierkegaard", "Sartre", "Scheler", "Schelling", "Merleau-Ponty", "Eckhart", "Fichte"],
   "engagements": [
     {
       "id": "inh/henry-em/001",

@@ -11,6 +11,7 @@
   },
   "coverage": "partial",
   "coverage_note": "Read in full: the opening note, §§ 31, 34 and 35. Elsewhere read at the sentences naming a predecessor together with a relational word, and for Kant at the sentences carrying the book's terms of engagement. Kant is recorded by the book's principal moves (the Critique as ontology, the finitude of knowing, the shrinking back of the second edition, self-affection, Kant's own interpretive maxim), not section by section: §§ 9-16 and 19-25 reconstruct Kant's argument and carry no separate engagement. Not recorded: Fichte, Schelling and Jacobi (a footnote that declines to judge them), Locke and Leibniz as targets of Kant rather than Heidegger, Baumgarten as the source of the school division (reported, not engaged).",
+  "predecessors_queried": ["neo-Kantian", "Neo-Kantian", "Cohen", "Natorp", "Scheler", "Hegel", "Aristotle", "Plato", "Baumgarten", "Wolff", "Husserl", "Leibniz", "Descartes", "Schelling", "Fichte", "Cassirer", "Riehl", "Simmel", "Dilthey", "Kierkegaard", "Nietzsche", "Augustine", "German Idealism"],
   "engagements": [
     {
       "id": "inh/ga3/001",

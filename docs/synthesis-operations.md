@@ -108,6 +108,14 @@ a theme:
 Writes `synthesis/inheritance/<commentary-slug>.json`. One record per
 commentary, covering all predecessors — not one per predecessor.
 
+On a partial pass, copy the `--terms` list into `predecessors_queried`
+exactly as searched; `STATUS.md` §Comparative readiness then lists, per
+record, the corpus authors still unsearched. Widening a pass later means
+running the missing names and appending them, not rewriting the list.
+Where the commentary cites the predecessor's text at the engagement
+(`Ideas I § 42`, `A 141 / B 180`), put that citation in
+`predecessor.locator` as given.
+
 ## P3 · Run a synthesis pass
 
 Stage 4, prompt [synthesis-prompt.md](../synthesis/prompts/synthesis-prompt.md).

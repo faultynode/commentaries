@@ -263,6 +263,16 @@ def check_inheritance(rep, corpus, schemas):
             counts["stale"] += 1
             rep.warn(rel, "stale: %s has changed since this pass" % rec["commentary"])
 
+        # Which names were searched is what separates "not searched" from "searched,
+        # nothing found"; a record read in full has no such list to keep.
+        queried = rec.get("predecessors_queried", [])
+        dupes = sorted({q for q in queried if queried.count(q) > 1})
+        if dupes:
+            rep.warn(rel, "predecessors_queried lists %s more than once" % ", ".join(dupes))
+        if queried and rec["coverage"] == "complete":
+            rep.warn(rel, "predecessors_queried on a complete record: either the "
+                          "commentary was read in full or it was read by query")
+
         for eng in rec["engagements"]:
             counts["engagements"] += 1
             where = "%s [%s]" % (rel, eng["id"])

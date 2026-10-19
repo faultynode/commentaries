@@ -11,6 +11,7 @@
   },
   "coverage": "partial",
   "coverage_note": "Read in full: the opening guards. Elsewhere read at the sentences naming a predecessor together with a relational word, and for Hegel at the sentences marking Kojève's departures, across 'By way of introduction', the six courses and both appendices. Hegel is recorded by the book's principal moves (the atheist anthropological substitution, the dualist correction of monism, the critique of the dialectic of nature, the end of history), not lecture by lecture: Kojève's translations and paraphrases of the Phenomenology, which make up most of the courses, carry no separate engagement. Not recorded: Husserl as an interpretive axis (no engagement in a mode located), Aristotle and Leibniz in passing, the romantic anthropology of love, Hyppolite, Queneau and Bataille as editors or auditors.",
+  "predecessors_queried": ["Heidegger", "Marx", "Kant", "Descartes", "Spinoza", "Plato", "Aristotle", "Napoleon", "Husserl", "Fichte", "Schelling", "Hoffmeister", "Hyppolite", "Koyré", "Queneau", "Bataille", "Christian", "Socrates", "Parmenides", "Leibniz", "Feuerbach", "Strauss"],
   "engagements": [
     {
       "id": "inh/kojeve-ilh/001",

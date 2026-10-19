@@ -11,6 +11,7 @@
   },
   "coverage": "partial",
   "coverage_note": "The commentary covers the Foreword, 'Phenomenology as such' and chapters I-IV. Read in full: Foreword, I.3, I.7, IV.7 (closing pages). Elsewhere read at the sentences naming a predecessor together with a relational word, plus targeted context in I.5-6, II.2-5, III.2-7 and IV.4-6. Heidegger and Husserl are recorded by each chapter's principal moves, not exhaustively; II.6-7 (the redoubled reduction through Dasein and the nothing) and IV.1-3 (the occurrences of ontological difference) carry no separate engagement. Passing mentions (Levinas, Ricœur, Leibniz, Spinoza, Malebranche, Pascal, Hegel on the This, Tugendhat, Granel, Courtine, Beaufret) are not recorded.",
+  "predecessors_queried": ["Descartes", "Kant", "Hegel", "Nietzsche", "Levinas", "Derrida", "Sartre", "Natorp", "Brentano", "Fichte", "Plato", "Aristotle", "Leibniz", "Schelling", "Pascal", "Fink", "Henry", "Patočka", "Frege", "Bergson", "Heidegger", "Husserl"],
   "engagements": [
     {
       "id": "inh/marion-rd/001",
@@ -196,7 +197,7 @@
       "id": "inh/marion-rd/021",
       "locator": "marion-reduction-et-donation-commentary#h3-4-the-most-cardinal-unthought",
       "primary_locator": "Réduction et donation, ch. IV, § 4",
-      "predecessor": { "author": "Edmund Husserl", "text": "Ideas I" },
+      "predecessor": { "author": "Edmund Husserl", "text": "Ideas I", "locator": "§ 42" },
       "mode": "destructive-appropriation",
       "claim": "Heidegger's ontological difference recovers the difference of manners of being between consciousness and reality fixed in Ideas I § 42, and parts from Husserl by thinking as ontological a difference Husserl named but left indeterminate.",
       "quote": "Heidegger does not separate himself from Husserl by introducing an ontological difference Husserl ignored, but by radically deepening as ontological a difference of essence and manner of being that Husserl left indeterminate as such."

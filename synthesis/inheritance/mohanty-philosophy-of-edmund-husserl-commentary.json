@@ -133,7 +133,7 @@
       "id": "inh/mohanty-peh/014",
       "locator": "mohanty-philosophy-of-edmund-husserl-commentary#h2-1-toward-a-philosophy-of-mathematics",
       "primary_locator": "Mohanty, The Philosophy of Edmund Husserl, ch. 1",
-      "predecessor": { "author": "Gottlob Frege", "text": "Grundlagen der Arithmetik" },
+      "predecessor": { "author": "Gottlob Frege", "text": "Grundlagen der Arithmetik", "locator": "§§ 62–74" },
       "mode": "polemical-rejection",
       "claim": "Frege's definition of number as the extension of a second-order concept does not, for Husserl, clarify the sense of 'number', despite its acuity and 'unfruitful hyper-subtleties'.",
       "quote": "Husserl’s point is that the definition in terms of “extension” and a second-order concept does not clarify the *sense* of “number,” in spite of the “Scharfsinn” (acuity) and “unfruchtbare Hypersubtililitäten” (unfruitful hyper-subtleties) of the definition."

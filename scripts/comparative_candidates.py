@@ -218,6 +218,11 @@ def candidate_rows(ctx, check_sources=True):
                 cands = [p for p in cands if hits[p]]
             for p_slug in cands:
                 matched = hits[p_slug]
+                # The P-loci a run would start from: only where the engagement names a
+                # text that matched P, since a bare locator could be in any of its works.
+                loci = sorted({e["predecessor"]["locator"] for e in engs
+                               if e["predecessor"].get("locator")
+                               and e["predecessor"].get("text") in matched})
                 modes = Counter(e["mode"] for e in engs)
                 score = sum(MODE_WEIGHT.get(m, 1.0) * n for m, n in modes.items())
                 score += 4 * len(matched)  # a named text that matches P is the strongest signal
@@ -238,7 +243,8 @@ def candidate_rows(ctx, check_sources=True):
                 row = {
                     "score": round(score, 1), "R": r_slug, "P": p_slug,
                     "engagements": len(engs), "modes": dict(sorted(modes.items())),
-                    "text_match": matched, "R_years": [r0, r1], "P_years": [p0, p1],
+                    "text_match": matched, "loci": loci,
+                    "R_years": [r0, r1], "P_years": [p0, p1],
                     "done": done.get((r_slug, p_slug)), "notes": note,
                 }
                 if check_sources:
@@ -248,6 +254,47 @@ def candidate_rows(ctx, check_sources=True):
                 rows.append(row)
     rows.sort(key=lambda r: (-r["score"], r["R"], r["P"]))
     return rows
+
+
+def unsearched_names(ctx):
+    """For each partial inheritance record: the corpus authors it could engage but has
+    neither engaged nor searched for. Returns ([(slug, [authors])], [slugs that do not
+    record predecessors_queried]). An author counts if one of their commentaries could
+    precede R (undated on either side counts as possible), and R's own author never
+    does. This is the queue that tells a partial pass what is still owed."""
+    docs = ctx["docs"]
+    first_year = {}
+    for slug, d in docs.items():
+        y0, _ = years(ctx, slug)
+        a = AUTHOR_ALIAS.get(d["author"], d["author"])
+        first_year.setdefault(a, [])
+        first_year[a].append(y0)
+    itemized, unrecorded = [], []
+    for rec in ctx["records"]:
+        if rec.get("coverage") != "partial":
+            continue
+        slug = rec["commentary"]
+        if "predecessors_queried" not in rec:
+            unrecorded.append(slug)
+            continue
+        own = docs.get(slug, {}).get("author")
+        _, r1 = years(ctx, slug)
+        covered = {last_name(e["predecessor"]["author"]) for e in rec["engagements"]}
+        for q in rec["predecessors_queried"]:
+            covered |= set(re.findall(r"[a-z]+(?:-[a-z]+)*", fold(q)))
+        missing = []
+        for author, ys in sorted(first_year.items()):
+            if author == own or author in covered:
+                continue
+            # Judge by the author's dated commentaries; only an author with none dated
+            # stays in as possible. An undated Henry volume does not make Henry a
+            # possible predecessor of a 1929 text when his dated ones start in 1963.
+            dated = [y for y in ys if y]
+            if r1 and dated and min(dated) > r1:
+                continue
+            missing.append(author)
+        itemized.append((slug, missing))
+    return itemized, sorted(unrecorded)
 
 
 def unserved_texts(ctx):
@@ -303,7 +350,8 @@ def main():
     print(f"{'score':>5}  {'R':<44} {'P':<44} {'n':>2}  {'src P/R':<9} modes / notes")
     for r in rows:
         modes = ", ".join(f"{m.split('-')[0][:5]}{n}" for m, n in r["modes"].items())
-        extra = "; ".join(r["notes"] + ([f"text: {', '.join(r['text_match'])}"] if r["text_match"] else []))
+        extra = "; ".join(r["notes"] + ([f"text: {', '.join(r['text_match'])}"] if r["text_match"] else [])
+                          + ([f"P-loci: {', '.join(r['loci'])}"] if r["loci"] else []))
         print(f"{r['score']:>5}  {short(r['R'], 44):<44} {short(r['P'], 44):<44} {r['engagements']:>2}  "
               f"{r['source_P']}/{r['source_R']:<6} {modes}  {extra}")
     print(f"\n{len(rows)} rows. src: yes = source file found, author = author has files but none matched, no = none.")

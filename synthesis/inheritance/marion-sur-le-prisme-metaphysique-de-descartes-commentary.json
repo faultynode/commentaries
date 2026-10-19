@@ -11,6 +11,7 @@
   },
   "coverage": "partial",
   "coverage_note": "Read in full: the opening guards and 'The Closure of a Question'. Elsewhere read at the sentences naming a predecessor together with a relational word, plus targeted context in §§ 4-6, 9-11, 14, 18-19 and 21-25. Not recorded: Pererius, Eustache, Abra de Raconis, Clauberg, Lessius and Goclenius (positions in the school landscape, not engagements in a mode); Malebranche, Spinoza and Leibniz as heirs of one figure of the redoubled onto-theo-logy (Marion's hypothesis, not a reported engagement); Augustine apart from Pascal's use of him; Hegel, Schopenhauer, Husserl and Nietzsche in passing. §§ 12-13, 15-17 and 20 carry no separate engagement.",
+  "predecessors_queried": ["Heidegger", "Pascal", "Suarez", "Suárez", "Aristotle", "Kant", "Leibniz", "Spinoza", "Malebranche", "Aquinas", "Hegel", "Husserl", "Gilson", "Gouhier", "Alquié", "Levinas", "Henry", "Nietzsche", "Mersenne", "Bérulle", "Augustine", "Plato", "Eustache", "Clauberg", "Hobbes", "Gassendi", "Arnauld", "Caterus"],
   "engagements": [
     {
       "id": "inh/marion-pmd/001",

@@ -11,6 +11,7 @@
   },
   "coverage": "partial",
   "coverage_note": "Read in full: the opening guards. Elsewhere read at the sentences naming a predecessor together with a relational word in which Henry is the subject, across 'A late heir', chapters I-IX and 'Potentiality'. Recorded by each chapter's principal moves: Descartes (I), Husserl and Leibniz (II), Heidegger on the cogito (III), Kant and the Kantbuch (IV), Schopenhauer (V-VI), Nietzsche and Heidegger's Nietzsche (VII), Freud, Ricœur and Kierkegaard (IX). Not recorded: Malebranche (Henry's reading, paralleling Alquié), Spinoza, Fichte, Nabert and Lachièze-Rey, Lacan and Sartre in passing, Maine de Biran as the earlier attribution of a thesis now credited to Schopenhauer; chapter VIII (Nietzsche on values and the gods) carries no separate engagement.",
+  "predecessors_queried": ["Descartes", "Husserl", "Heidegger", "Kant", "Schopenhauer", "Freud", "Nietzsche", "Hegel", "Biran", "Leibniz", "Spinoza", "Malebranche", "Lacan", "Ricœur", "Ricoeur", "Fichte", "Schelling", "Lévi-Strauss"],
   "engagements": [
     {
       "id": "inh/henry-gp/001",
@@ -97,7 +98,7 @@
       "id": "inh/henry-gp/010",
       "locator": "henry-genealogie-de-la-psychanalyse-commentary#h2-chapter-iv-empty-subjectivity-and-lost-life-the-kantian-critique-of-the-soul",
       "primary_locator": "Généalogie de la psychanalyse, ch. IV",
-      "predecessor": { "author": "Martin Heidegger", "text": "Kant und das Problem der Metaphysik" },
+      "predecessor": { "author": "Martin Heidegger", "text": "Kant und das Problem der Metaphysik", "locator": "§§ 4–5" },
       "mode": "destructive-appropriation",
       "claim": "Henry follows the Kantbuch (§§ 4-5) in placing finitude in intuition rather than thought, in order to turn its results against it.",
       "quote": "Henry follows Heidegger's *Kantbuch* (§§ 4–5) in placing finitude in intuition rather than in thought, preparing to turn the *Kantbuch*'s results against it."

@@ -115,9 +115,15 @@ Three fields are less obvious than they look:
   commentary assigns the passage to a dated layer.
 
 **Inheritance record** — same shape, engagement-typed: `{predecessor:
-{author, text?}, mode, claim, quote}` with `mode` closed over five
+{author, text?, locator?}, mode, claim, quote}` with `mode` closed over five
 values. `text` is omitted rather than inferred when the commentary names
-only an author.
+only an author, and `locator` (where in the predecessor's text the
+engagement bears) only where the commentary cites it: it is what a
+comparative run starts from on the P side. A partial record also carries
+`predecessors_queried`, the names its retrieval used, so that a name with
+no engagement reads as "searched, nothing found" and a name not listed
+reads as "not searched"; `STATUS.md` §Comparative readiness turns the
+difference into a queue.
 
 **Chronology** — per commentary: `role` ∈ {primary, reception, output},
 `status` ∈ {resolved, unresolved}, and an array of dated `strata` each

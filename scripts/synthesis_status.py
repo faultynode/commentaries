@@ -149,6 +149,21 @@ def readiness_section(corpus, chron, out):
             out.append("- ... %d more" % (len(unserved) - UNSERVED))
         out.append("")
 
+    itemized, unrecorded = cc.unsearched_names(ctx)
+    out += ["### Partial records: names not yet searched", ""]
+    if itemized:
+        out += ["Corpus authors each partial record could engage, by date, but has neither "
+                "engaged nor listed in `predecessors_queried`. A name searched without "
+                "result is not listed: that absence is already a finding.", ""]
+        for slug, missing in itemized:
+            out.append("- [ ] `%s` - %s" % (slug, ", ".join(missing) if missing
+                                             else "every corpus author searched or engaged"))
+        out.append("")
+    if unrecorded:
+        out += ["%d partial record%s do not record which names they searched, so what "
+                "they owe cannot be told: %s." % (len(unrecorded), "" if len(unrecorded) == 1 else "s",
+                                                  ", ".join("`%s`" % s for s in unrecorded)), ""]
+
     rows = [r for r in cc.candidate_rows(ctx, check_sources=False) if not r["done"]]
     out += ["### Candidate pairs", ""]
     if rows:
@@ -165,6 +180,8 @@ def readiness_section(corpus, chron, out):
             notes = [n for n in r["notes"] if n != "partial record"]
             if texts:
                 notes.insert(0, "names " + "; ".join("*%s*" % t for t in texts))
+            if r["loci"]:
+                notes.insert(1 if texts else 0, "P-loci " + ", ".join(r["loci"]))
             out.append("- [ ] `%s` reads `%s` - score %s · %d engagement%s (%s)%s"
                        % (r["R"], r["P"], r["score"], r["engagements"],
                           "" if r["engagements"] == 1 else "s", modes,
