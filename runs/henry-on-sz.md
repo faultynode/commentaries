@@ -90,6 +90,6 @@ Output: outputs/henry-on-sz-comparative-commentary.md
 - §13 ¶12 (light joins earth, "la terre est le lieu de la lumière") resembles "Der Ursprung des Kunstwerkes"; not SZ, not checked. (Also flagged in the GA 5 run.) (2026-10-19.)
 
 ## Progress
-Last completed unit: Section I, §13 ¶15 (the last paragraph of §13) (2026-10-19). Section I continues at §14.
-Next: Section I, §14 ¶1. SZ notes still to do in Section I: n. 127 SZ 132, n. 128 SZ 212 (n. 6, 9, 13, 58, 64, 65, 81, 84-90 done).
+Last completed unit: Section I, §15 ¶12 (the last paragraph of §15) (2026-10-19). Section I continues at §16, the last section of the division.
+Next: Section I, §16 ¶1, then the closing paragraph of Section I. SZ notes: none in §16 (n. 127, 128 done in §14; n. 135-136 K and Corbin WG, if any, belong to §16).
 Revision: 2026-10-19, run opened; pair-specific notes 1-10 set; Introduction written. Guards 1-10 held in the Introduction; no new guard added, but the "zunächst und zumeist" rendering is recorded under Open threads.
