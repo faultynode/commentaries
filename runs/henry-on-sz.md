@@ -90,6 +90,6 @@ Output: outputs/henry-on-sz-comparative-commentary.md
 - §13 ¶12 (light joins earth, "la terre est le lieu de la lumière") resembles "Der Ursprung des Kunstwerkes"; not SZ, not checked. (Also flagged in the GA 5 run.) (2026-10-19.)
 
 ## Progress
-Last completed unit: Section II, §17 ¶13 (2026-10-19). Section II continues at §18.
+Last completed unit: Section II, §18 ¶9 (2026-10-19). Section II continues at §19.
 Next: Section II, §17 ¶1 ("Section II. Repetition of the elucidation of the concept of phenomenon: transcendence and immanence"). Map Section II's SZ notes first (the source's Section II notes start at line 1317 of henry-lessence-de-la-manifestation.md; the H notes belong to the GA 5 run and the K notes to the GA 3 run, so this run treats only SZ and the SZ-relevant claims).
 Revision: 2026-10-19, run opened; pair-specific notes 1-10 set; Introduction written. Guards 1-10 held in the Introduction; no new guard added, but the "zunächst und zumeist" rendering is recorded under Open threads.
