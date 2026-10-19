@@ -168,16 +168,23 @@ the merged array, and P9 below is the fuller loop.
 
 ## P5 · Resolve a chronology entry
 
-Nine commentaries do not date their own text (`STATUS.md` §Chronology to
-resolve). They sit off the ledger spine until fixed, and the fix is a
-reading task, not a lookup.
+The commentaries that do not date their own text are listed in
+`STATUS.md` §Chronology to resolve. They sit off the ledger spine until
+fixed, and the fix is a reading task, not a lookup.
 
 1. Find the date **in the volume the commentary works from** and write it
-   into the commentary's opening note — that is where it belongs.
+   into the commentary's opening note — that is where it belongs. If that
+   volume is not in faultynode/sources, another volume there that states
+   the date will do (the *Regulae* entry takes it from Cottingham's
+   translator's preface); cite volume and page in the sentence you add. If
+   no volume in the repo states it, the entry stays unresolved and its
+   note says what was checked.
 2. Re-run `synthesis_index.py` (the file changed).
 3. Update the `chronology.json` entry: `status: "resolved"`, and a
    stratum with `year_start`, `stated_in_commentary: true`, and `evidence`
-   quoting the commentary.
+   quoting the commentary. The validator looks up every quoted fragment of
+   a stated stratum's evidence in the commentary, like an extraction
+   quote; text outside quotation marks is description and is not checked.
 4. If the commentary distinguishes layers — a rework, a copyist's
    version, a second delivery — give each its own stratum. Hua IV and Hua
    XI are the worked examples.

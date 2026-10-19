@@ -64,6 +64,30 @@ def iter_records(root, suffix=".json"):
                 yield os.path.join(dirpath, name)
 
 
+QUOTED = re.compile(r'"([^"]{12,})"|“([^”]{12,})”')
+_UNQUOTED = {}
+
+
+def missing_evidence(evidence, doc):
+    """The quoted fragments of a chronology stratum's evidence that its commentary does
+    not contain. A date stated in the commentary is a claim about the commentary's text,
+    so it is checked like an extraction quote. Quote marks are ignored on both sides,
+    since evidence often re-quotes a phrase the commentary itself puts in quotes; text
+    outside quotes ("the commentary's title heading") is description and not checked."""
+    def bare(s):
+        return re.sub(r"[\"'\\]", "", lib.normalize_quote(s))
+    if doc["slug"] not in _UNQUOTED:
+        _UNQUOTED[doc["slug"]] = bare(lib.read_text(os.path.join(lib.REPO_ROOT, doc["path"])))
+    text = _UNQUOTED[doc["slug"]]
+    out = []
+    for a, b in QUOTED.findall(evidence.replace("\\", "")):
+        for piece in re.split(r"\.\.\.|…", a or b):
+            piece = piece.strip(" ,;:")
+            if len(piece) >= 12 and bare(piece) not in text:
+                out.append(piece)
+    return out
+
+
 def check_registries(rep, corpus, schemas):
     reg = schemas["registry"]["$defs"]
     out = {}
@@ -105,6 +129,12 @@ def check_registries(rep, corpus, schemas):
                     rep.error("chronology.json",
                               "stratum %r is not stated in the commentary and "
                               "gives no evidence for its date" % s["id"])
+                if s["stated_in_commentary"] and s.get("evidence") and e["commentary"] in slugs:
+                    for piece in missing_evidence(s["evidence"],
+                                                  lib.corpus_map(corpus)[e["commentary"]]):
+                        rep.error("chronology.json",
+                                  "stratum %r quotes evidence not found in %s: %r"
+                                  % (s["id"], e["commentary"], piece[:80]))
             resolved = any(s["year_start"] is not None for s in e["strata"])
             if e["status"] == "resolved" and not resolved:
                 rep.error("chronology.json",

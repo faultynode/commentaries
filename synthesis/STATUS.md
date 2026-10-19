@@ -26,11 +26,11 @@ Next candidates, by term density:
 
 Next candidates, by term density:
 
-- [ ] `kojeve-introduction-a-la-lecture-de-hegel-commentary` (undated) - 418 hits
-- [ ] `henry-genealogie-de-la-psychanalyse-commentary` (undated) - 263 hits
+- [ ] `kojeve-introduction-a-la-lecture-de-hegel-commentary` (1933) - 418 hits
+- [ ] `henry-genealogie-de-la-psychanalyse-commentary` (1983) - 263 hits
 - [ ] `heidegger-ga-3-kant-und-das-problem-der-metaphysik-commentary` (1929) - 226 hits
-- [ ] `husserliana-10-inneres-zeitbewusstsein-commentary` (undated) - 226 hits
-- [ ] `husserliana-8-erste-philosophie-ii-commentary` (undated) - 219 hits
+- [ ] `husserliana-10-inneres-zeitbewusstsein-commentary` (1905) - 226 hits
+- [ ] `husserliana-8-erste-philosophie-ii-commentary` (1923) - 219 hits
 - [ ] `heidegger-ga-26-metaphysische-anfangsgruende-der-logik-commentary` (1928) - 213 hits
 - ... 42 more; see `synthesis_query.py --theme fundierung`
 
@@ -40,12 +40,12 @@ Next candidates, by term density:
 
 Next candidates, by term density:
 
-- [ ] `henry-phenomenologie-de-la-vie-1-commentary` (undated) - 227 hits
-- [ ] `husserliana-8-erste-philosophie-ii-commentary` (undated) - 116 hits
-- [ ] `henry-phenomenologie-de-la-vie-2-commentary` (undated) - 90 hits
+- [ ] `henry-phenomenologie-de-la-vie-1-commentary` (1965) - 227 hits
+- [ ] `husserliana-8-erste-philosophie-ii-commentary` (1923) - 116 hits
+- [ ] `henry-phenomenologie-de-la-vie-2-commentary` (2003) - 90 hits
 - [ ] `heidegger-ga-26-metaphysische-anfangsgruende-der-logik-commentary` (1928) - 81 hits
-- [ ] `husserliana-10-inneres-zeitbewusstsein-commentary` (undated) - 49 hits
-- [ ] `marion-reduction-et-donation-commentary` (undated) - 43 hits
+- [ ] `husserliana-10-inneres-zeitbewusstsein-commentary` (1905) - 49 hits
+- [ ] `marion-reduction-et-donation-commentary` (1989) - 43 hits
 - ... 17 more; see `synthesis_query.py --theme intentionalitaet`
 
 ### konstitution - constitution
@@ -54,11 +54,11 @@ Next candidates, by term density:
 
 Next candidates, by term density:
 
-- [ ] `husserliana-10-inneres-zeitbewusstsein-commentary` (undated) - 265 hits
-- [ ] `henry-genealogie-de-la-psychanalyse-commentary` (undated) - 135 hits
-- [ ] `henry-phenomenologie-de-la-vie-1-commentary` (undated) - 96 hits
+- [ ] `husserliana-10-inneres-zeitbewusstsein-commentary` (1905) - 265 hits
+- [ ] `henry-genealogie-de-la-psychanalyse-commentary` (1983) - 135 hits
+- [ ] `henry-phenomenologie-de-la-vie-1-commentary` (1965) - 96 hits
 - [ ] `heidegger-ga-26-metaphysische-anfangsgruende-der-logik-commentary` (1928) - 82 hits
-- [ ] `henry-phenomenologie-de-la-vie-2-commentary` (undated) - 76 hits
+- [ ] `henry-phenomenologie-de-la-vie-2-commentary` (2003) - 76 hits
 - [ ] `husserliana-19-2-sixth-logical-investigation-commentary` (1921) - 59 hits
 - ... 35 more; see `synthesis_query.py --theme konstitution`
 
@@ -72,8 +72,8 @@ Next candidates, by term density:
 - [ ] `henry-philosophie-et-phenomenologie-du-corps-commentary` (1965) - 406 hits
 - [ ] `heidegger-ga-26-metaphysische-anfangsgruende-der-logik-commentary` (1928) - 372 hits
 - [ ] `husserliana-4-ideas-ii-commentary` (1912) - 276 hits
-- [ ] `henry-genealogie-de-la-psychanalyse-commentary` (undated) - 172 hits
-- [ ] `descartes-passions-de-lame-commentary` (undated) - 166 hits
+- [ ] `henry-genealogie-de-la-psychanalyse-commentary` (1983) - 172 hits
+- [ ] `descartes-passions-de-lame-commentary` (1649) - 166 hits
 - ... 56 more; see `synthesis_query.py --theme leib`
 
 ### reduktion - phenomenological reduction
@@ -82,11 +82,11 @@ Next candidates, by term density:
 
 Next candidates, by term density:
 
-- [ ] `husserliana-8-erste-philosophie-ii-commentary` (undated) - 393 hits
-- [ ] `henry-phenomenologie-de-la-vie-1-commentary` (undated) - 153 hits
-- [ ] `marion-reduction-et-donation-commentary` (undated) - 124 hits
-- [ ] `henry-phenomenologie-de-la-vie-2-commentary` (undated) - 115 hits
-- [ ] `henry-genealogie-de-la-psychanalyse-commentary` (undated) - 102 hits
+- [ ] `husserliana-8-erste-philosophie-ii-commentary` (1923) - 393 hits
+- [ ] `henry-phenomenologie-de-la-vie-1-commentary` (1965) - 153 hits
+- [ ] `marion-reduction-et-donation-commentary` (1989) - 124 hits
+- [ ] `henry-phenomenologie-de-la-vie-2-commentary` (2003) - 115 hits
+- [ ] `henry-genealogie-de-la-psychanalyse-commentary` (1983) - 102 hits
 - [ ] `heidegger-ga-26-metaphysische-anfangsgruende-der-logik-commentary` (1928) - 36 hits
 - ... 28 more; see `synthesis_query.py --theme reduktion`
 
@@ -110,12 +110,12 @@ Next candidates, by term density:
 
 Next candidates, by term density:
 
-- [ ] `kojeve-introduction-a-la-lecture-de-hegel-commentary` (undated) - 167 hits
-- [ ] `henry-genealogie-de-la-psychanalyse-commentary` (undated) - 123 hits
+- [ ] `kojeve-introduction-a-la-lecture-de-hegel-commentary` (1933) - 167 hits
+- [ ] `henry-genealogie-de-la-psychanalyse-commentary` (1983) - 123 hits
 - [ ] `franck-chair-et-corps-commentary` (1981) - 97 hits
-- [ ] `henry-phenomenologie-de-la-vie-1-commentary` (undated) - 84 hits
+- [ ] `henry-phenomenologie-de-la-vie-1-commentary` (1965) - 84 hits
 - [ ] `marion-sur-le-prisme-metaphysique-de-descartes-commentary` (1986) - 84 hits
-- [ ] `marion-reduction-et-donation-commentary` (undated) - 80 hits
+- [ ] `marion-reduction-et-donation-commentary` (1989) - 80 hits
 - ... 25 more; see `synthesis_query.py --theme transzendenz`
 
 ### vorhandenheit - presence-at-hand
@@ -138,12 +138,12 @@ Next candidates, by term density:
 
 Next candidates, by term density:
 
-- [ ] `henry-genealogie-de-la-psychanalyse-commentary` (undated) - 699 hits
+- [ ] `henry-genealogie-de-la-psychanalyse-commentary` (1983) - 699 hits
 - [ ] `heidegger-ga-26-metaphysische-anfangsgruende-der-logik-commentary` (1928) - 494 hits
-- [ ] `kojeve-introduction-a-la-lecture-de-hegel-commentary` (undated) - 445 hits
-- [ ] `henry-phenomenologie-de-la-vie-2-commentary` (undated) - 196 hits
-- [ ] `henry-phenomenologie-de-la-vie-1-commentary` (undated) - 172 hits
-- [ ] `heidegger-ga-5-hegels-begriff-der-erfahrung-commentary` (undated) - 141 hits
+- [ ] `kojeve-introduction-a-la-lecture-de-hegel-commentary` (1933) - 445 hits
+- [ ] `henry-phenomenologie-de-la-vie-2-commentary` (2003) - 196 hits
+- [ ] `henry-phenomenologie-de-la-vie-1-commentary` (1965) - 172 hits
+- [ ] `heidegger-ga-5-hegels-begriff-der-erfahrung-commentary` (1950) - 141 hits
 - ... 35 more; see `synthesis_query.py --theme wesen`
 
 ### zeitlichkeit - temporality
@@ -152,12 +152,12 @@ Next candidates, by term density:
 
 Next candidates, by term density:
 
-- [ ] `husserliana-10-inneres-zeitbewusstsein-commentary` (undated) - 654 hits
+- [ ] `husserliana-10-inneres-zeitbewusstsein-commentary` (1905) - 654 hits
 - [ ] `heidegger-ga-26-metaphysische-anfangsgruende-der-logik-commentary` (1928) - 223 hits
-- [ ] `kojeve-introduction-a-la-lecture-de-hegel-commentary` (undated) - 221 hits
-- [ ] `henry-phenomenologie-de-la-vie-1-commentary` (undated) - 79 hits
+- [ ] `kojeve-introduction-a-la-lecture-de-hegel-commentary` (1933) - 221 hits
+- [ ] `henry-phenomenologie-de-la-vie-1-commentary` (1965) - 79 hits
 - [ ] `husserliana-4-ideas-ii-commentary` (1912) - 50 hits
-- [ ] `henry-phenomenologie-de-la-vie-2-commentary` (undated) - 38 hits
+- [ ] `henry-phenomenologie-de-la-vie-2-commentary` (2003) - 38 hits
 - ... 32 more; see `synthesis_query.py --theme zeitlichkeit`
 
 ## Inheritance index
@@ -234,10 +234,11 @@ The commentary changed after the pass ran. Quotes are no longer guaranteed; re-e
 
 These commentaries do not date their own text, so they sit off the ledger spine. Each is a reading task, not a lookup: the date belongs in the commentary first.
 
+- [ ] `aristotle-de-anima-commentary` - Checked 2026-10-18: no volume of it is in faultynode/sources (sources/ tree and origin/main), so the date cannot yet be taken from the source.
 - [ ] `husserl-erfahrung-und-urteil-commentary` - Stays unresolved for want of the volume, not for want of a pass: no edition of Erfahrung und Urteil is in faultynode/sources, so the Landgrebe compilation strata cannot be taken from the source the way GA 18 and Hua XVII were. Resolving it means bringing the volume into the sources repo first.
-- [ ] `husserliana-13-editors-introduction-commentary`
-- [ ] `mohanty-philosophy-of-edmund-husserl-commentary`
-- [ ] `picht-de-anima-commentary`
+- [ ] `husserliana-13-editors-introduction-commentary` - Kern's introduction is not dated in the commentary. The Hua XIII conversion in faultynode/sources opens directly at Text Nr. 1 and lacks the front matter, and no PDF of the volume is in pdf-input (checked 2026-10-18), so the date cannot be taken from the source until the front matter is converted.
+- [ ] `mohanty-philosophy-of-edmund-husserl-commentary` - Checked 2026-10-18: no volume of it is in faultynode/sources (sources/ tree and origin/main), so the date cannot yet be taken from the source.
+- [ ] `picht-de-anima-commentary` - Checked 2026-10-18: no volume of it is in faultynode/sources (sources/ tree and origin/main), so the date cannot yet be taken from the source.
 
 ## Comparative readiness
 
@@ -250,28 +251,14 @@ A comparative pair (the reading text R takes up the read text P) needs an inheri
 
 ### Reading texts with no inheritance record
 
-Every reception commentary has an inheritance record.
+Reception commentaries are reading texts by definition. Each needs a Stage 3 pass (`synthesis/prompts/inheritance-prompt.md`) before it can be paired.
+
+- [ ] `henry-phenomenologie-de-la-vie-1-commentary` (1965)
+- [ ] `henry-phenomenologie-de-la-vie-2-commentary` (2003)
 
 ### Not in chronology.json
 
-With no entry, a commentary's role (primary or reception) is unrecorded, so it cannot be told apart as R or P, and a pair with it cannot be dated.
-
-- [ ] `aristotle-de-anima-commentary`
-- [ ] `descartes-discours-de-la-methode-commentary`
-- [ ] `descartes-meditationes-de-prima-philosophia-commentary`
-- [ ] `descartes-passions-de-lame-commentary`
-- [ ] `descartes-regulae-ad-directionem-ingenii-commentary`
-- [ ] `freud-das-unbewusste-commentary`
-- [ ] `freud-gw-13-massenpsychologie-und-ich-analyse-commentary`
-- [ ] `heidegger-ga-5-hegels-begriff-der-erfahrung-commentary`
-- [ ] `henry-genealogie-de-la-psychanalyse-commentary`
-- [ ] `henry-phenomenologie-de-la-vie-1-commentary`
-- [ ] `henry-phenomenologie-de-la-vie-2-commentary`
-- [ ] `husserliana-10-inneres-zeitbewusstsein-commentary`
-- [ ] `husserliana-8-erste-philosophie-ii-commentary`
-- [ ] `kojeve-introduction-a-la-lecture-de-hegel-commentary`
-- [ ] `lacan-seminar-2-the-ego-in-freuds-theory-and-in-the-technique-of-psychoanalysis-commentary`
-- [ ] `marion-reduction-et-donation-commentary`
+Every commentary has an entry.
 
 ### What the records name
 
@@ -296,11 +283,11 @@ Named texts that no commentary's title matches: the P side of a pair that cannot
 Corpus authors each partial record could engage, by date, but has neither engaged nor listed in `predecessors_queried`. A name searched without result is not listed: that absence is already a finding.
 
 - [ ] `bernet-la-vie-du-sujet-commentary` - aristotle, fichte, franck, freud, kern, kojeve, leibniz, mohanty, picht
-- [ ] `heidegger-ga-3-kant-und-das-problem-der-metaphysik-commentary` - freud, kojeve, mohanty, picht
-- [ ] `henry-genealogie-de-la-psychanalyse-commentary` - aristotle, bernet, derrida, franck, kern, kojeve, marion, mohanty, picht
+- [ ] `heidegger-ga-3-kant-und-das-problem-der-metaphysik-commentary` - freud, mohanty, picht
+- [ ] `henry-genealogie-de-la-psychanalyse-commentary` - aristotle, derrida, franck, kern, kojeve, mohanty, picht
 - [ ] `henry-the-essence-of-manifestation-commentary` - aristotle, derrida, freud, kojeve, lacan, leibniz, mohanty, picht
-- [ ] `kojeve-introduction-a-la-lecture-de-hegel-commentary` - bernet, derrida, franck, freud, henry, kern, lacan, marion, mohanty, picht
-- [ ] `marion-reduction-et-donation-commentary` - bernet, franck, freud, kern, kojeve, lacan, mohanty, picht
+- [ ] `kojeve-introduction-a-la-lecture-de-hegel-commentary` - freud, mohanty, picht
+- [ ] `marion-reduction-et-donation-commentary` - franck, freud, kern, kojeve, lacan, mohanty, picht
 - [ ] `marion-sur-le-prisme-metaphysique-de-descartes-commentary` - derrida, fichte, franck, freud, kern, kojeve, lacan, mohanty, picht
 
 27 partial records do not record which names they searched, so what they owe cannot be told: `derrida-introduction-a-lorigine-de-la-geometrie-commentary`, `franck-chair-et-corps-commentary`, `heidegger-ga-19-platon-sophistes-commentary`, `heidegger-ga-20-prolegomena-zur-geschichte-des-zeitbegriffs-commentary`, `heidegger-ga-24-die-grundprobleme-der-phanomenologie-commentary`, `heidegger-sein-und-zeit-commentary`, `henry-philosophie-et-phenomenologie-du-corps-commentary`, `husserl-erfahrung-und-urteil-commentary`, `husserl-formal-and-transcendental-logic-commentary`, `husserl-krisis-commentary`, `husserl-natur-und-geist-commentary`, `husserl-thing-and-space-commentary`, `husserliana-1-cartesianische-meditationen-commentary`, `husserliana-11-analyses-concerning-passive-and-active-synthesis-commentary`, `husserliana-19-2-sixth-logical-investigation-commentary`, `husserliana-28-vorlesungen-uber-ethik-und-wertlehre-commentary`, `husserliana-3-ideas-i-commentary`, `husserliana-3-ideas-i-parts-3-4-commentary`, `husserliana-33-die-bernauer-manuskripte-uber-das-zeitbewusstsein-commentary`, `husserliana-39-die-lebenswelt-commentary`, `husserliana-4-ideas-ii-commentary`, `husserliana-43-2-studien-zur-struktur-des-bewusstseins-commentary`, `husserliana-5-ideas-iii-commentary`, `husserliana-7-erste-philosophie-i-commentary`, `husserliana-9-phenomenological-psychology-commentary`, `kern-husserl-and-kant-commentary`, `picht-de-anima-commentary`.

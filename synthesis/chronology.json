@@ -3,6 +3,22 @@
   "_comment": "Dates are taken from what the commentaries themselves state. Where a commentary does not date its text, the entry is 'unresolved' and stays undated - the ledger prints those in a separate bucket rather than ordering them on a guess. Resolving one means finding the date in the commentary (or writing it into the commentary from the source), not recalling it. Volume order is never a proxy for composition order.",
   "entries": [
     {
+      "commentary": "aristotle-de-anima-commentary",
+      "role": "primary",
+      "status": "unresolved",
+      "strata": [
+        {
+          "id": "de-anima-undated",
+          "label": "Date not stated in the commentary",
+          "year_start": null,
+          "year_end": null,
+          "stated_in_commentary": false,
+          "evidence": "The commentary opens directly at Book I, chapter 1, with no note on edition or date."
+        }
+      ],
+      "note": "Checked 2026-10-18: no volume of it is in faultynode/sources (sources/ tree and origin/main), so the date cannot yet be taken from the source."
+    },
+    {
       "commentary": "bernet-la-vie-du-sujet-commentary",
       "role": "reception",
       "status": "resolved",
@@ -49,6 +65,101 @@
       ]
     },
     {
+      "commentary": "descartes-discours-de-la-methode-commentary",
+      "role": "primary",
+      "status": "resolved",
+      "strata": [
+        {
+          "id": "dm-1637",
+          "label": "*Discours de la méthode*, French text, 1637",
+          "year_start": 1637,
+          "year_end": 1637,
+          "stated_in_commentary": true,
+          "evidence": "\"for the French text of 1637, AT 540–720 for the Latin version of 1644\""
+        },
+        {
+          "id": "dm-1644",
+          "label": "Latin version (Courcelles, revised by Descartes), 1644",
+          "year_start": 1644,
+          "year_end": 1644,
+          "stated_in_commentary": true,
+          "evidence": "\"for the French text of 1637, AT 540–720 for the Latin version of 1644\""
+        }
+      ]
+    },
+    {
+      "commentary": "descartes-meditationes-de-prima-philosophia-commentary",
+      "role": "primary",
+      "status": "resolved",
+      "strata": [
+        {
+          "id": "med-1641",
+          "label": "*Meditationes de prima philosophia*, first edition, 1641",
+          "year_start": 1641,
+          "year_end": 1641,
+          "stated_in_commentary": true,
+          "evidence": "\"Neither the 1641 nor the 1642 edition breaks the letter or the preface into paragraphs\""
+        },
+        {
+          "id": "med-1642",
+          "label": "*Meditationes de prima philosophia*, second edition, 1642",
+          "year_start": 1642,
+          "year_end": 1642,
+          "stated_in_commentary": true,
+          "evidence": "\"Neither the 1641 nor the 1642 edition breaks the letter or the preface into paragraphs\""
+        }
+      ],
+      "note": "The commentary names both editions without saying which it follows where they differ; the two strata record the editions, not a composition history."
+    },
+    {
+      "commentary": "descartes-passions-de-lame-commentary",
+      "role": "primary",
+      "status": "resolved",
+      "strata": [
+        {
+          "id": "pass-1649",
+          "label": "*Les Passions de l'âme*, 1649 edition",
+          "year_start": 1649,
+          "year_end": 1649,
+          "stated_in_commentary": true,
+          "evidence": "\"The text is the 1649 edition as reproduced in Adam–Tannery XI, 301–488\""
+        }
+      ],
+      "note": "The commentary mentions the Latin version of 1650 but works from the French of 1649."
+    },
+    {
+      "commentary": "descartes-regulae-ad-directionem-ingenii-commentary",
+      "role": "primary",
+      "status": "resolved",
+      "strata": [
+        {
+          "id": "regulae-1628",
+          "label": "Composition, probably 1628 or a few years earlier",
+          "year_start": 1628,
+          "year_end": 1628,
+          "stated_in_commentary": true,
+          "evidence": "\"probably in 1628 or a few years earlier\" - the commentary's citation of Cottingham's translator's preface, CSM I 7"
+        },
+        {
+          "id": "regulae-1684",
+          "label": "Dutch translation, 1684 (first publication)",
+          "year_start": 1684,
+          "year_end": 1684,
+          "stated_in_commentary": true,
+          "evidence": "\"a Dutch translation appeared in 1684, and the first Latin edition in Amsterdam in 1701\""
+        },
+        {
+          "id": "regulae-1701",
+          "label": "First Latin edition, Amsterdam, 1701",
+          "year_start": 1701,
+          "year_end": 1701,
+          "stated_in_commentary": true,
+          "evidence": "\"a Dutch translation appeared in 1684, and the first Latin edition in Amsterdam in 1701\""
+        }
+      ],
+      "note": "The date was written into the commentary's opening on 2026-10-18 from Cottingham's translator's preface (The Philosophical Writings of Descartes, vol. I, p. 7; faultynode/sources sources/descartes/descartes-cottingham-vol1.md). 1628 stands for 'probably 1628 or a few years earlier'. The commentary itself follows Heffernan's 1998 edition. The work was unpublished until 1684/1701, which bounds what readers before then could know of it."
+    },
+    {
       "commentary": "fichte-science-of-knowing-commentary",
       "role": "primary",
       "status": "resolved",
@@ -90,6 +201,36 @@
           "stated_in_commentary": true,
           "year_end": 1986,
           "year_start": 1986
+        }
+      ]
+    },
+    {
+      "commentary": "freud-das-unbewusste-commentary",
+      "role": "primary",
+      "status": "resolved",
+      "strata": [
+        {
+          "id": "freud-ubw-1915",
+          "label": "*Das Unbewußte*, 1915",
+          "year_start": 1915,
+          "year_end": 1915,
+          "stated_in_commentary": true,
+          "evidence": "\"Freud, Das Unbewußte (1915): Commentary\""
+        }
+      ]
+    },
+    {
+      "commentary": "freud-gw-13-massenpsychologie-und-ich-analyse-commentary",
+      "role": "primary",
+      "status": "resolved",
+      "strata": [
+        {
+          "id": "freud-massen-1921",
+          "label": "*Massenpsychologie und Ich-Analyse*, 1921",
+          "year_start": 1921,
+          "year_end": 1921,
+          "stated_in_commentary": true,
+          "evidence": "\"Freud, Massenpsychologie und Ich-Analyse (1921): A Commentary\""
         }
       ]
     },
@@ -216,6 +357,22 @@
       ]
     },
     {
+      "commentary": "heidegger-ga-5-hegels-begriff-der-erfahrung-commentary",
+      "role": "primary",
+      "status": "resolved",
+      "strata": [
+        {
+          "id": "ga5-1950",
+          "label": "\"Hegels Begriff der Erfahrung\", first published in *Holzwege*, 1950",
+          "year_start": 1950,
+          "year_end": 1950,
+          "stated_in_commentary": true,
+          "evidence": "\"Marginal notes from Heidegger's copy of the first edition (1950) are folded in\""
+        }
+      ],
+      "note": "1950 is the first edition the commentary cites, a date of publication. The commentary does not date the essay's composition, so the ledger places the text at its publication."
+    },
+    {
       "commentary": "heidegger-ga-61-phenomenological-interpretations-of-aristotle-commentary",
       "role": "primary",
       "status": "resolved",
@@ -275,6 +432,69 @@
           "year_start": 1953
         }
       ]
+    },
+    {
+      "commentary": "henry-genealogie-de-la-psychanalyse-commentary",
+      "role": "reception",
+      "status": "resolved",
+      "strata": [
+        {
+          "id": "genealogie-1983",
+          "label": "Seminars at Osaka University, October–December 1983",
+          "year_start": 1983,
+          "year_end": 1983,
+          "stated_in_commentary": true,
+          "evidence": "\"The book grew out of seminars given at Osaka University in October–December 1983\""
+        },
+        {
+          "id": "genealogie-1985",
+          "label": "*Généalogie de la psychanalyse*, PUF/Épiméthée, 1985",
+          "year_start": 1985,
+          "year_end": 1985,
+          "stated_in_commentary": true,
+          "evidence": "\"References are to the PUF/Épiméthée edition (1985; 2nd ed. 2003), cited by page.\""
+        }
+      ]
+    },
+    {
+      "commentary": "henry-phenomenologie-de-la-vie-1-commentary",
+      "role": "reception",
+      "status": "resolved",
+      "strata": [
+        {
+          "id": "pdv1-essays",
+          "label": "Essays gathered in the volume, from 1965 to the late 1990s",
+          "year_start": 1965,
+          "year_end": null,
+          "stated_in_commentary": true,
+          "evidence": "\"The volume gathers eleven essays spanning 1965 to the late 1990s\""
+        },
+        {
+          "id": "pdv1-2003",
+          "label": "*Phénoménologie de la vie I*, PUF/Épiméthée, 2003",
+          "year_start": 2003,
+          "year_end": 2003,
+          "stated_in_commentary": true,
+          "evidence": "\"Citations give the page of the PUF \"Épiméthée\" edition (2003).\""
+        }
+      ],
+      "note": "year_end of the essay stratum is left open: the commentary says 'the late 1990s', not a year. Individual essays are dated in their own sections where the commentary gives a source note."
+    },
+    {
+      "commentary": "henry-phenomenologie-de-la-vie-2-commentary",
+      "role": "reception",
+      "status": "resolved",
+      "strata": [
+        {
+          "id": "pdv2-2003",
+          "label": "*Phénoménologie de la vie II*, PUF/Épiméthée, 2003",
+          "year_start": 2003,
+          "year_end": 2003,
+          "stated_in_commentary": true,
+          "evidence": "\"Citations are to the pages of the PUF \"Épiméthée\" edition (2003).\""
+        }
+      ],
+      "note": "The opening dates only the edition; the essays' own dates are not stated there."
     },
     {
       "commentary": "henry-philosophie-et-phenomenologie-du-corps-commentary",
@@ -441,6 +661,46 @@
       ]
     },
     {
+      "commentary": "husserliana-10-inneres-zeitbewusstsein-commentary",
+      "role": "primary",
+      "status": "resolved",
+      "strata": [
+        {
+          "id": "hua10-1905",
+          "label": "Original lecture sheets of 1905 (Introduction, §§ 1–6, first paragraph of § 7)",
+          "year_start": 1905,
+          "year_end": 1905,
+          "stated_in_commentary": true,
+          "evidence": "\"the Introduction, §§1–6 and the first paragraph of §7 rest on the original 1905 lecture sheets\""
+        },
+        {
+          "id": "hua10-1908",
+          "label": "Manuscripts of 1908–1911 drawn into the later sections",
+          "year_start": 1908,
+          "year_end": 1911,
+          "stated_in_commentary": true,
+          "evidence": "\"later sections, drawn from manuscripts of 1908–1911, break with it\""
+        },
+        {
+          "id": "hua10-1917",
+          "label": "Edith Stein's redaction, 1917, working in material from 1905 to 1917",
+          "year_start": 1917,
+          "year_end": 1917,
+          "stated_in_commentary": true,
+          "evidence": "\"the version printed here is Edith Stein's 1917 redaction, published by Heidegger in 1928, which works in material from 1905 to 1917\""
+        },
+        {
+          "id": "hua10-1928",
+          "label": "Published by Heidegger, 1928",
+          "year_start": 1928,
+          "year_end": 1928,
+          "stated_in_commentary": true,
+          "evidence": "\"the version printed here is Edith Stein's 1917 redaction, published by Heidegger in 1928\""
+        }
+      ],
+      "note": "Four layers, stated in the editor's note the commentary reports. The commentary warns against reading the work as one synchronic doctrine: the early sections and the 1908–1911 material argue differently."
+    },
+    {
       "commentary": "husserliana-11-analyses-concerning-passive-and-active-synthesis-commentary",
       "note": "Three deliveries, six years apart at the extremes. Where the commentary does not say which delivery a passage belongs to, leave the unit's stratum unset rather than assigning one.",
       "role": "primary",
@@ -478,7 +738,7 @@
       "status": "resolved",
       "strata": [
         {
-          "evidence": "\"Lectures from the Winter Semester 1910/11\"",
+          "evidence": "\"Basic Problems of Phenomenology (Winter Semester 1910/11)\" - the commentary's title heading.",
           "id": "hua13-1910",
           "label": "Lectures, WS 1910/11",
           "stated_in_commentary": true,
@@ -500,7 +760,8 @@
           "year_end": null,
           "year_start": null
         }
-      ]
+      ],
+      "note": "Kern's introduction is not dated in the commentary. The Hua XIII conversion in faultynode/sources opens directly at Text Nr. 1 and lacks the front matter, and no PDF of the volume is in pdf-input (checked 2026-10-18), so the date cannot be taken from the source until the front matter is converted."
     },
     {
       "commentary": "husserliana-19-1-fifth-logical-investigation-commentary",
@@ -806,7 +1067,7 @@
           "year_start": 1911,
           "year_end": 1911,
           "stated_in_commentary": true,
-          "evidence": "\"The footnote to the section heading dates the manuscript: \\\"*Anfang November 1911*\\\" - early November 1911\""
+          "evidence": "The footnote to the section heading dates the manuscript: \"Anfang November 1911\" (early November 1911)."
         }
       ],
       "note": "Only two manuscripts in the covered range are dated in the commentary, both to 1911. Part I and the body of Part II carry no date, so no unit from them should be given a stratum; § 5 places the 1908/09 ethics lectures (Hua XXVIII) already in the past, which bounds them from below but is not a date. An earlier pass recorded this entry as unresolved on the strength of the opening alone; the dates are further into the text."
@@ -843,12 +1104,27 @@
       ]
     },
     {
+      "commentary": "husserliana-8-erste-philosophie-ii-commentary",
+      "role": "primary",
+      "status": "resolved",
+      "strata": [
+        {
+          "id": "hua8-1923",
+          "label": "*Erste Philosophie*, lectures of 1923/24",
+          "year_start": 1923,
+          "year_end": 1924,
+          "stated_in_commentary": true,
+          "evidence": "\"Husserl, Erste Philosophie (1923/24), Second Part: Theory of the Phenomenological Reduction\""
+        }
+      ]
+    },
+    {
       "commentary": "husserliana-9-phenomenological-psychology-commentary",
       "role": "primary",
       "status": "resolved",
       "strata": [
         {
-          "evidence": "\"Phenomenological Psychology. Lectures, Summer Semester, 1925\"",
+          "evidence": "\"Phenomenological Psychology: Lectures, Summer Semester 1925\" - the commentary's title heading.",
           "id": "hua9-1925",
           "label": "Lectures, SS 1925",
           "stated_in_commentary": true,
@@ -897,6 +1173,30 @@
       ]
     },
     {
+      "commentary": "kojeve-introduction-a-la-lecture-de-hegel-commentary",
+      "role": "reception",
+      "status": "resolved",
+      "strata": [
+        {
+          "id": "kojeve-1933",
+          "label": "Course at the École pratique des Hautes Études, January 1933 to May 1939",
+          "year_start": 1933,
+          "year_end": 1939,
+          "stated_in_commentary": true,
+          "evidence": "\"Kojève's course at the École pratique des Hautes Études, from January 1933 to May 1939\""
+        },
+        {
+          "id": "kojeve-1947",
+          "label": "*Introduction à la lecture de Hegel*, Gallimard, 1947",
+          "year_start": 1947,
+          "year_end": 1947,
+          "stated_in_commentary": true,
+          "evidence": "\"Page references are to the Gallimard pagination of 1947\""
+        }
+      ],
+      "note": "The course is a reading of the Phenomenology given year by year; the inheritance record's primary_locator names the course year, which this stratum spans."
+    },
+    {
       "commentary": "lacan-seminar-1-freuds-papers-on-technique-commentary",
       "role": "primary",
       "status": "resolved",
@@ -928,6 +1228,21 @@
       ]
     },
     {
+      "commentary": "lacan-seminar-2-the-ego-in-freuds-theory-and-in-the-technique-of-psychoanalysis-commentary",
+      "role": "primary",
+      "status": "resolved",
+      "strata": [
+        {
+          "id": "lacan-sem2-1954",
+          "label": "Seminar delivered at Sainte-Anne, 1954–1955",
+          "year_start": 1954,
+          "year_end": 1955,
+          "stated_in_commentary": true,
+          "evidence": "\"delivered at the Sainte-Anne hospital in 1954–1955\""
+        }
+      ]
+    },
+    {
       "commentary": "leibniz-monadology-commentary",
       "role": "primary",
       "status": "resolved",
@@ -939,6 +1254,21 @@
           "stated_in_commentary": true,
           "year_end": 1714,
           "year_start": 1714
+        }
+      ]
+    },
+    {
+      "commentary": "marion-reduction-et-donation-commentary",
+      "role": "reception",
+      "status": "resolved",
+      "strata": [
+        {
+          "id": "rd-1989",
+          "label": "*Réduction et donation*, dated February 1989",
+          "year_start": 1989,
+          "year_end": 1989,
+          "stated_in_commentary": true,
+          "evidence": "\"The date, February 1989, places the book after the publication of the early Freiburg and Marburg lecture courses\""
         }
       ]
     },
@@ -970,7 +1300,8 @@
           "year_end": null,
           "year_start": null
         }
-      ]
+      ],
+      "note": "Checked 2026-10-18: no volume of it is in faultynode/sources (sources/ tree and origin/main), so the date cannot yet be taken from the source."
     },
     {
       "commentary": "picht-de-anima-commentary",
@@ -985,7 +1316,8 @@
           "year_end": null,
           "year_start": null
         }
-      ]
+      ],
+      "note": "Checked 2026-10-18: no volume of it is in faultynode/sources (sources/ tree and origin/main), so the date cannot yet be taken from the source."
     }
   ]
 }
