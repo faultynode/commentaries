@@ -43,6 +43,10 @@ Output: outputs/henry-on-sz-comparative-commentary.md
 9. **Chronology.** Henry read SZ in the 1941 printing and could not know the later Heidegger beyond what he names: the *Kantbuch*, the 1929 essays, *Holzwege* (1950), *Einführung in die Metaphysik* (1953), *Der Satz vom Grund* (1957), *Zur Sache des Denkens* (1969, "Zeit und Sein"), the marginalia in the *Gesamtausgabe* copy (Hütte-Exemplar), GA 20, GA 24, GA 26 and the Marburg courses. Any use is retrospective and marked.
 10. **Henry's French is his own** (see above). Rendering of *Dasein* as "réalité humaine" is an intermediary: Sartre's EN (1943) and Corbin's 1938 translation. Henry also keeps "Dasein". Track which.
 
+11. **Henry's "apparaître" merges what SZ 28-31 separates.** (Added 2026-10-19, Section I §8.) SZ distinguishes *Phänomen* (Sichzeigen), *Erscheinung* (Sich-nicht-zeigen, a reporting by something that shows) and *Schein* (semblance), and says phenomena are never appearances (SZ 30) and that Sichzeigen is not Erscheinen (SZ 36). Henry's "apparaître / apparence / phénomène" runs them together. Check every unit for which SZ term the French stands for.
+12. **SZ's *Ent-fernung* is a nearing, not a distancing.** (Added 2026-10-19, §9.) SZ 105: "Verschwindenmachen der Ferne ... Näherung"; Henry's "distance phénoménologique" quotes the "active and transitive" gloss and reads it as "ce qui éloigne". Mark any later use of Entfernung, Nähe, Ferne against SZ 105-108.
+13. **Henry quotes Heidegger's other texts as SZ's doctrine.** (Added 2026-10-19.) "Wesen der Ferne" is GA 9 175 (*Vom Wesen des Grundes*); "insurmontable" distance is Dufrenne's gloss on the Kantbuch (n. 27); Fichte supplies "existence" and "aliénation". Fix the source of each quoted sentence before attributing it to SZ.
+
 ### Glossary (fixed for this run)
 
 - Translation rule: every German or French quotation carries an English rendering in the citation parenthesis or as an apposition; single quoted words count; a quotation repeated within one paragraph relies on its first rendering there. In the output English leads; in this run file the original leads.
@@ -53,6 +57,9 @@ Output: outputs/henry-on-sz-comparative-commentary.md
 - *Erschlossenheit*: "disclosedness"; *Entdecktheit*: "uncoveredness"; *Lichtung*: "clearing"; *Verdecktheit*: "coveredness"; *Zeitlichkeit*: "temporality"; *Temporalität*: "temporality in the sense of the temporal sense of being" (kept as "Temporalität" when contrasted).
 - *Destruktion*: "destruction". *Anwesenheit*, *Parousia*, *Gegenwart*: "presence", "parousia", "the present".
 - Henry *horizon*, *milieu de visibilité*, *distance phénoménologique*, *monisme ontologique*, *immanence*, *révélation originaire*: Henry's terms, glossed in the unit that first meets them.
+- *Phänomen*: "phenomenon"; *Sichzeigen*: "showing-itself"; *Erscheinung*: "appearance"; *Erscheinen*: "appearing"; *Schein*: "semblance"; *Sehenlassen*: "letting-see"; *Verdeckung*, *Verdecktheit*: "covering-over", "coveredness". Henry's *apparence*, *apparaître*, *phénomène*: as written, marked when they stand for one of these.
+- *Ent-fernung*: "de-severance" (SZ's active sense, a nearing); *Entferntheit*: "remoteness"; *Abstand*: "distance" (measured); *Nähe*, *Ferne*: "nearness", "farness". Henry's *éloignement*, *distance phénoménologique*: as written.
+- *gleichursprünglich*: "equiprimordial"; *Jemeinigkeit*: "mineness"; *Vorhandenheit*: "presence-at-hand"; *Existenz* (SZ): "existence" in SZ's sense, to be told from Fichte's and Henry's *existence* (manifest being) and from the traditional *existentia*; *Bedeutsamkeit*: "significance"; *Einräumen*: "making room"; *Vorhabe*, *Vorsicht*, *Vorgriff*: "fore-having", "fore-sight", "fore-conception".
 - Retained untranslated: Dasein.
 
 ### Edition mappings
@@ -77,6 +84,6 @@ Output: outputs/henry-on-sz-comparative-commentary.md
 - "Zunächst und zumeist" is rendered "tout d'abord ... le plus souvent" (Introduction §7 ¶5, ¶11, nn. 10-11). Check every later SZ quotation for the same split. (2026-10-19.)
 
 ## Progress
-Last completed unit: Section I, §8 ¶16 (2026-10-19). Section I continues at §9.
-Next: Section I, §9 ¶1. SZ notes in Section I: n. 6 SZ 230 (done), n. 9 SZ 38 (done), n. 13 SZ 105, n. 58 SZ 132, n. 64 SZ 209, n. 65 SZ 366, n. 81 SZ 58, n. 84-85 SZ 221, n. 86 SZ 96, n. 87 SZ 98, n. 88 SZ 224 sq, n. 90 SZ 366, n. 127 SZ 132, n. 128 SZ 212.
+Last completed unit: Section I, §10 ¶11 (the last paragraph of §10) (2026-10-19). Section I continues at §11.
+Next: Section I, §11 ¶1. SZ notes in Section I: n. 6 SZ 230 (done), n. 9 SZ 38 (done), n. 13 SZ 105 (done), n. 58 SZ 132, n. 64 SZ 209, n. 65 SZ 366, n. 81 SZ 58, n. 84-85 SZ 221, n. 86 SZ 96, n. 87 SZ 98, n. 88 SZ 224 sq, n. 90 SZ 366, n. 127 SZ 132, n. 128 SZ 212.
 Revision: 2026-10-19, run opened; pair-specific notes 1-10 set; Introduction written. Guards 1-10 held in the Introduction; no new guard added, but the "zunächst und zumeist" rendering is recorded under Open threads.
