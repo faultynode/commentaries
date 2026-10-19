@@ -92,6 +92,6 @@ Output: outputs/henry-on-sz-comparative-commentary.md
 - n. 90 of Section II reads "SZ, III"; by the sentence it supports it is SZ 111 (space in the world), the numeral being a misprint or conversion error. (2026-10-19.)
 
 ## Progress
-Last completed unit: Section II, §28 ¶9 (2026-10-19). Section II continues at §29.
+Last completed unit: Section II, §29 ¶12 (2026-10-19). Section II continues at §30.
 Next: Section II, §17 ¶1 ("Section II. Repetition of the elucidation of the concept of phenomenon: transcendence and immanence"). Map Section II's SZ notes first (the source's Section II notes start at line 1317 of henry-lessence-de-la-manifestation.md; the H notes belong to the GA 5 run and the K notes to the GA 3 run, so this run treats only SZ and the SZ-relevant claims).
 Revision: 2026-10-19, run opened; pair-specific notes 1-10 set; Introduction written. Guards 1-10 held in the Introduction; no new guard added, but the "zunächst und zumeist" rendering is recorded under Open threads.
