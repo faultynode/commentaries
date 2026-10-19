@@ -86,8 +86,10 @@ Output: outputs/henry-on-sz-comparative-commentary.md
 - "Zunächst und zumeist" is rendered "tout d'abord ... le plus souvent" (Introduction §7 ¶5, ¶11, nn. 10-11). Check every later SZ quotation for the same split. (2026-10-19.)
 
 - The Kehre claim in §11 ¶25 (premises of the later reversal "dans Sein und Zeit") rests on texts outside the corpus (Letter on Humanism, GA 9 327-328, and the 1930s courses). Not settled; any later use is retrospective. (2026-10-19.)
+- Henry's rendering of SZ 96 "Umschaltung" as "inversion" (n. 86) and his "dénaturé" in quotation marks for SZ 58 (n. 81) are small tilts recorded in §12; no SZ word "dénaturé" was found at SZ 58-59. (2026-10-19.)
+- §13 ¶12 (light joins earth, "la terre est le lieu de la lumière") resembles "Der Ursprung des Kunstwerkes"; not SZ, not checked. (Also flagged in the GA 5 run.) (2026-10-19.)
 
 ## Progress
-Last completed unit: Section I, §11 ¶25 (the last paragraph of §11) (2026-10-19). Section I continues at §12.
-Next: Section I, §12 ¶1. SZ notes still to do in Section I: n. 81 SZ 58, n. 84-85 SZ 221, n. 86 SZ 96, n. 87 SZ 98, n. 88 SZ 224 sq, n. 90 SZ 366, n. 127 SZ 132, n. 128 SZ 212 (n. 6, 9, 13, 58, 64, 65 done).
+Last completed unit: Section I, §13 ¶15 (the last paragraph of §13) (2026-10-19). Section I continues at §14.
+Next: Section I, §14 ¶1. SZ notes still to do in Section I: n. 127 SZ 132, n. 128 SZ 212 (n. 6, 9, 13, 58, 64, 65, 81, 84-90 done).
 Revision: 2026-10-19, run opened; pair-specific notes 1-10 set; Introduction written. Guards 1-10 held in the Introduction; no new guard added, but the "zunächst und zumeist" rendering is recorded under Open threads.
