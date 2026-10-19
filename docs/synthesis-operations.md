@@ -25,8 +25,8 @@ against the repo root.
 | `python3 scripts/synthesis_ledger.py --all` | rebuild every ledger | 0 / 2 unknown theme |
 | `python3 scripts/synthesis_ledger.py --theme <id>` | rebuild one | |
 | `python3 scripts/synthesis_ledger.py --all --check` | are they current? | 0 / 1 stale |
-| `python3 scripts/synthesis_status.py [--check]` | rebuild `STATUS.md`, including §Comparative readiness | 0 / 1 |
-| `python3 scripts/comparative_candidates.py [--r X] [--ready]` | rank (R, P) pairs for a comparative commentary, with the source check `STATUS.md` cannot run | 0 |
+| `python3 scripts/synthesis_status.py [--check]` | rebuild `STATUS.md`, `READINESS.md` and `GAPS.md` | 0 / 1 |
+| `python3 scripts/comparative_candidates.py [--r X] [--ready]` | rank (R, P) pairs for a comparative commentary, with the source check `READINESS.md` cannot run | 0 |
 | `python3 scripts/synthesis_lexicon.py --check` | schema, references, attested renderings | 0 / 1 errors |
 | `python3 scripts/synthesis_lexicon.py --expand --theme <id>` | what `themes.json` is missing, both directions | 0 / 2 unknown theme |
 | `… --expand --theme <id> --json` | the merged `search_terms` array, ready to paste | |
@@ -44,7 +44,7 @@ Useful query flags: `--author husserl`, `--top 40`, `--min-hits 3`,
     # fix what it reports, repeat until OK
     git commit
 
-Ledgers and `STATUS.md` are rebuilt by CI on push. Rebuild them locally
+Ledgers and the status files (`STATUS.md`, `READINESS.md`, `GAPS.md`) are rebuilt by CI on push. Rebuild them locally
 only if you want to read them before pushing.
 
 ---
@@ -109,7 +109,7 @@ Writes `synthesis/inheritance/<commentary-slug>.json`. One record per
 commentary, covering all predecessors — not one per predecessor.
 
 On a partial pass, copy the `--terms` list into `predecessors_queried`
-exactly as searched; `STATUS.md` §Comparative readiness then lists, per
+exactly as searched; `READINESS.md` then lists, per
 record, the corpus authors still unsearched. Widening a pass later means
 running the missing names and appending them, not rewriting the list.
 Where the commentary cites the predecessor's text at the engagement
@@ -136,7 +136,8 @@ Stage 4, prompt [synthesis-prompt.md](../synthesis/prompts/synthesis-prompt.md).
    `raised_by` pointing at the output file. This is the deliverable that
    makes the next iteration possible.
 
-5. `python3 scripts/synthesis_status.py` to see the gaps in the queue.
+5. `python3 scripts/synthesis_status.py`, then read `synthesis/GAPS.md`: the
+   new gap is listed under Open.
 
 ## P4 · Add a theme
 
@@ -364,7 +365,7 @@ between them — see [lexicon-design.md](lexicon-design.md) §6):
 | Event | Job | Behaviour |
 |---|---|---|
 | pull request touching `synthesis/**`, `commentaries/**`, `scripts/synthesis*.py` | `validate` | quotes and absences re-checked against the branch's commentaries, then the lexicon's attested renderings; errors fail |
-| push to `main`, same paths | `validate` then `rebuild` | rebuilds `corpus.json`, ledgers, `STATUS.md`; commits `[skip ci]` |
+| push to `main`, same paths | `validate` then `rebuild` | rebuilds `corpus.json`, ledgers, `STATUS.md`, `READINESS.md`, `GAPS.md`; commits `[skip ci]` |
 | manual `workflow_dispatch` | both | |
 
 Notes:
@@ -414,7 +415,7 @@ that record** — fix them, re-run, then read the semantic errors.
 `python3 scripts/synthesis_index.py`. It is derived from the commentaries
 and holds nothing of its own.
 
-**Ledgers or `STATUS.md` look wrong** — they are generated. Delete and
+**Ledgers or the status files look wrong** — they are generated. Delete and
 rebuild; if the content is still wrong, the fault is in a record, and
 `synthesis_validate.py` locates it.
 

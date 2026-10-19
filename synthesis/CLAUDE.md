@@ -83,7 +83,7 @@ Everything below is downstream of keeping that check meaningful.
 | `themes.json` | `corpus.json` |
 | `lexicon.json` | |
 | `chronology.json` | `ledgers/*.md` |
-| `gaps.json` | `STATUS.md` |
+| `gaps.json` | `STATUS.md`, `READINESS.md`, `GAPS.md` |
 | `extractions/<theme>/<slug>.json` | |
 | `dossiers/specs/*.json` | `dossiers/<slug>.json` |
 | `inheritance/<slug>.json` | |
@@ -125,6 +125,10 @@ holds the data.
                          reproduce it from scratch. Holds the quotes
                          themselves, sliced off disk, never typed.
     STATUS.md            Generated. The queue for the next pass.
+    READINESS.md         Generated. What a comparative commentary still
+                         lacks, and the candidate pairs.
+    GAPS.md              Generated. gaps.json by status: open, in
+                         reading, closed with its resolution.
 
 Prompts live in [`prompts/`](prompts):
 [extraction](prompts/extraction-prompt.md) (Stage 1),

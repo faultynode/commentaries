@@ -57,7 +57,7 @@ Then read those sections, write the record against
 `synthesis/schema/inheritance.schema.json`, and validate. On a partial
 pass, copy the `--terms` list into `predecessors_queried` as searched: a
 name there with no engagement is a finding (searched, nothing found), a
-name missing from it is a debt, and `STATUS.md` lists the debts. A pass
+name missing from it is a debt, and `READINESS.md` lists the debts. A pass
 that read the whole commentary omits the field.
 
     python3 scripts/synthesis_validate.py

@@ -65,7 +65,7 @@ flowchart TD
     CH["chronology.json<br/>dates · strata"] --> L
     L --> S["Stage 4 · synthesis<br/>outputs/"]
     S -->|gaps| G["gaps.json"]
-    G --> ST["STATUS.md · the queue"]
+    G --> ST["STATUS.md · READINESS.md · GAPS.md<br/>the queue"]
     V --> ST
     ST -.->|next pass| E
     S -.->|author's decision| P["commentaries/author/<br/>PUBLISHED"]
@@ -94,7 +94,7 @@ and may be deleted at any time without loss.
                           │                    │
     chronology.json ──────┴──> ledger          └── inheritance record
          │                       │
-         └──> STATUS.md <────────┴──── gaps.json
+         └──> status files <─────┴──── gaps.json
 
 **Extraction record** — one pass, one commentary, one theme. Carries
 `source_sha256` (the digest read against), `coverage`, an array of
@@ -122,8 +122,8 @@ engagement bears) only where the commentary cites it: it is what a
 comparative run starts from on the P side. A partial record also carries
 `predecessors_queried`, the names its retrieval used, so that a name with
 no engagement reads as "searched, nothing found" and a name not listed
-reads as "not searched"; `STATUS.md` §Comparative readiness turns the
-difference into a queue.
+reads as "not searched"; `READINESS.md` turns the difference into a
+queue.
 
 **Chronology** — per commentary: `role` ∈ {primary, reception, output},
 `status` ∈ {resolved, unresolved}, and an array of dated `strata` each
@@ -133,7 +133,9 @@ carrying `stated_in_commentary` and `evidence`.
 flat section list with `id`, `level`, `title`, `path`, `anchor`,
 `line_start`, `line_end`, `words`. 1.9 MB of JSON, rebuilt in ~0.5 s.
 
-**Ledger and STATUS.md** (generated) — pure functions of the above.
+**Ledger and status files** (generated) — pure functions of the above.
+`STATUS.md` is the extraction queue; `READINESS.md` carries comparative
+readiness and the candidate pairs; `GAPS.md` lists `gaps.json` by status.
 
 ## 5. Design decisions
 
@@ -263,7 +265,7 @@ duplicates the spec in two places that drift.
 
 ### D8 · Generated artifacts are pure functions
 
-No timestamps in `corpus.json`, the ledgers, or `STATUS.md`. A rebuild
+No timestamps in `corpus.json`, the ledgers, or the status files. A rebuild
 that changes nothing produces no diff, therefore no commit, therefore no
 CI run, therefore no loop with the WordPress sync. Every generator also
 takes `--check`, which is the same computation with an exit code instead

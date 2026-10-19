@@ -39,7 +39,7 @@ run files, outputs, index.html, links between commentaries):
 
   - the old path, slug and folder are rewritten in every tracked text file,
     in raw, NFD, %20-escaped and percent-encoded spellings - except
-    corpus.json, the ledgers and STATUS.md, which are generated and must be
+    corpus.json, the ledgers and the status files, which are generated and must be
     rebuilt (synthesis_index.py, synthesis_ledger.py --all,
     synthesis_status.py) after an --apply;
   - a file that was already committed under its old name gets a
@@ -64,7 +64,8 @@ from urllib.parse import quote
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 CDIR = "commentaries"
 # Rebuilt from the tree after a rename; rewriting them would only race the rebuild.
-GENERATED = ("synthesis/corpus.json", "synthesis/STATUS.md", "synthesis/ledgers/")
+GENERATED = ("synthesis/corpus.json", "synthesis/STATUS.md", "synthesis/READINESS.md",
+             "synthesis/GAPS.md", "synthesis/ledgers/")
 RECORD_DIRS = ("synthesis/extractions/", "synthesis/inheritance/")
 TRANSLIT = {"ß": "ss", "æ": "ae", "Æ": "ae", "œ": "oe", "Œ": "oe", "ø": "o", "Ø": "o",
             "ł": "l", "Ł": "l", "đ": "d", "Đ": "d", "ð": "d", "þ": "th", "Þ": "th"}

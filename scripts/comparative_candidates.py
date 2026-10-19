@@ -20,8 +20,8 @@ engagement count, the weight of the mode, and a bonus when a named text matches 
     python3 scripts/comparative_candidates.py --all --json
 
 synthesis_status.py imports context(), candidate_rows(check_sources=False),
-unserved_texts() and runs() for the "Comparative readiness" section of STATUS.md. CI
-has no sources checkout, so STATUS.md never shows the source columns.
+unserved_texts(), unsearched_names() and runs() for synthesis/READINESS.md. CI has no
+sources checkout, so READINESS.md never shows the source columns.
 """
 import argparse
 import glob
@@ -198,7 +198,7 @@ def text_hits(ctx, pred, named, exclude=None):
 
 def candidate_rows(ctx, check_sources=True):
     """Every (R, P) pair the records support, scored and sorted. Without check_sources
-    the rows depend on this repo alone, which is what STATUS.md needs."""
+    the rows depend on this repo alone, which is what READINESS.md needs."""
     docs = ctx["docs"]
     done = {(r["R"], r["P"]): r["file"] for r in runs()}
     rows = []
