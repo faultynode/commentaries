@@ -1,3 +1,8 @@
+---
+redirect_from:
+  - "/commentaries/bergson/Essai_sur_les_donnees_immediates_Commentary.html"
+---
+
 # Commentary on Henri Bergson, *Essai sur les données immédiates de la conscience*
 
 Source: the PUF Quadrige critical edition (2007), whose text keeps the pagination of the earlier PUF reference editions, reproduced in the margin of the Centenary *Œuvres* (1959). References in parentheses are to that pagination: roman numerals for the Foreword, arabic numerals for the main text. The editorial dossier is drawn on only where it fixes a target or a reference.

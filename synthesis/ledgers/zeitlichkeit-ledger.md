@@ -1389,6 +1389,7 @@
 - `heidegger-ga-18-grundbegriffe-der-aristotelischen-philosophie-commentary` - 12 term hits, no record
 - `husserl-natur-und-geist-commentary` - 11 term hits, no record
 - `husserliana-5-ideas-iii-commentary` - 11 term hits, no record
+- `bergson-essai-sur-les-donnees-immediates-commentary` - 8 term hits, no record
 - `husserliana-19-1-fifth-logical-investigation-commentary` - 8 term hits, no record
 - `husserliana-19-2-sixth-logical-investigation-commentary` - 7 term hits, no record
 - `kern-husserl-and-kant-commentary` - 7 term hits, no record

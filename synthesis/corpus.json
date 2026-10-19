@@ -486,6 +486,96 @@
       ]
     },
     {
+      "slug": "bergson-essai-sur-les-donnees-immediates-commentary",
+      "path": "commentaries/bergson/bergson-essai-sur-les-donnees-immediates-commentary.md",
+      "author": "bergson",
+      "title": "Commentary on Henri Bergson, Essai sur les données immédiates de la conscience",
+      "wordpress_id": null,
+      "sha256": "ae91432980b14013c9f986ebeb5d16d09d5fd8e7881427e01d71a0661cb93ed1",
+      "lines": 349,
+      "words": 46074,
+      "url": "https://faultynode.github.io/commentaries/commentaries/bergson/bergson-essai-sur-les-donnees-immediates-commentary.html",
+      "sections": [
+        {
+          "id": "h1-commentary-on-henri-bergson-essai-sur-les-donnees-immediates-de-la-conscience",
+          "level": 1,
+          "title": "Commentary on Henri Bergson, Essai sur les données immédiates de la conscience",
+          "path": [
+            "Commentary on Henri Bergson, Essai sur les données immédiates de la conscience"
+          ],
+          "anchor": "commentary-on-henri-bergson-essai-sur-les-donnees-immediates-de-la-conscience",
+          "line_start": 6,
+          "line_end": 11,
+          "words": 286
+        },
+        {
+          "id": "h2-foreword",
+          "level": 2,
+          "title": "Foreword",
+          "path": [
+            "Commentary on Henri Bergson, Essai sur les données immédiates de la conscience",
+            "Foreword"
+          ],
+          "anchor": "foreword",
+          "line_start": 12,
+          "line_end": 17,
+          "words": 392
+        },
+        {
+          "id": "h2-chapter-one-on-the-intensity-of-psychological-states",
+          "level": 2,
+          "title": "Chapter One: On the Intensity of Psychological States",
+          "path": [
+            "Commentary on Henri Bergson, Essai sur les données immédiates de la conscience",
+            "Chapter One: On the Intensity of Psychological States"
+          ],
+          "anchor": "chapter-one-on-the-intensity-of-psychological-states",
+          "line_start": 18,
+          "line_end": 115,
+          "words": 12117
+        },
+        {
+          "id": "h2-chapter-two-on-the-multiplicity-of-conscious-states-the-idea-of-duration",
+          "level": 2,
+          "title": "Chapter Two: On the Multiplicity of Conscious States. The Idea of Duration",
+          "path": [
+            "Commentary on Henri Bergson, Essai sur les données immédiates de la conscience",
+            "Chapter Two: On the Multiplicity of Conscious States. The Idea of Duration"
+          ],
+          "anchor": "chapter-two-on-the-multiplicity-of-conscious-states-the-idea-of-duration",
+          "line_start": 116,
+          "line_end": 183,
+          "words": 11954
+        },
+        {
+          "id": "h2-chapter-three-on-the-organization-of-conscious-states-freedom",
+          "level": 2,
+          "title": "Chapter Three: On the Organization of Conscious States. Freedom",
+          "path": [
+            "Commentary on Henri Bergson, Essai sur les données immédiates de la conscience",
+            "Chapter Three: On the Organization of Conscious States. Freedom"
+          ],
+          "anchor": "chapter-three-on-the-organization-of-conscious-states-freedom",
+          "line_start": 184,
+          "line_end": 305,
+          "words": 16714
+        },
+        {
+          "id": "h2-conclusion",
+          "level": 2,
+          "title": "Conclusion",
+          "path": [
+            "Commentary on Henri Bergson, Essai sur les données immédiates de la conscience",
+            "Conclusion"
+          ],
+          "anchor": "conclusion",
+          "line_start": 306,
+          "line_end": 349,
+          "words": 4557
+        }
+      ]
+    },
+    {
       "slug": "bernet-la-vie-du-sujet-commentary",
       "path": "commentaries/bernet/bernet-la-vie-du-sujet-commentary.md",
       "author": "bernet",

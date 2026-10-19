@@ -1482,6 +1482,7 @@
 - `descartes-discours-de-la-methode-commentary` - 9 term hits, no record
 - `leibniz-monadology-commentary` - 9 term hits, no record
 - `husserliana-28-vorlesungen-uber-ethik-und-wertlehre-commentary` - 8 term hits, no record
+- `bergson-essai-sur-les-donnees-immediates-commentary` - 6 term hits, no record
 - `heidegger-ga-3-kant-und-das-problem-der-metaphysik-commentary` - 6 term hits, no record
 - `kant-kritik-der-reinen-vernunft-commentary` - 6 term hits, no record
 - `descartes-meditationes-de-prima-philosophia-commentary` - 5 term hits, no record

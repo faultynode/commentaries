@@ -1337,6 +1337,7 @@
 - `derrida-la-voix-et-le-phenomene-commentary` - 19 term hits, no record
 - `lacan-seminar-2-the-ego-in-freuds-theory-and-in-the-technique-of-psychoanalysis-commentary` - 18 term hits, no record
 - `heidegger-ga-19-platon-sophistes-commentary` - 14 term hits, no record
+- `bergson-essai-sur-les-donnees-immediates-commentary` - 11 term hits, no record
 - `descartes-discours-de-la-methode-commentary` - 11 term hits, no record
 - `heidegger-ga-17-einfuhrung-in-die-phanomenologische-forschung-commentary` - 10 term hits, no record
 - `leibniz-monadology-commentary` - 10 term hits, no record
