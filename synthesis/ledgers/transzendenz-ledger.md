@@ -126,6 +126,107 @@
 
 *Partial pass: Term-led pass over the whole file (lines 1-399): every paragraph containing the transcendence family, including bare transcendent and immanent, was read; paragraphs without such a word were not read.*
 
+### 1905 to 1928 - Commentary on Husserl, Lectures on the Phenomenology of Internal Time-Consciousness (Hua X)
+
+`husserliana-10-inneres-zeitbewusstsein-commentary`
+
+- **presupposed** · `transzendenz/hua10/001` · *transcendent positing*
+  The exclusion of objective time is the reduction in its 1905 form, with the sense of suspending transcendent positing in favour of what is given as such.
+  `husserliana-10-inneres-zeitbewusstsein-commentary#h4-s1-the-exclusion-of-objective-time` · Hua X § 1 · [§1. The Exclusion of Objective Time](https://faultynode.github.io/commentaries/commentaries/husserl/husserliana-10-inneres-zeitbewusstsein-commentary.html#the-exclusion-of-objective-time)
+  > This is the reduction in its 1905 form, two years before the Idea of Phenomenology lectures give it its name, and it already has the sense it will keep: suspension of transcendent positing in favour of what is given as such.
+
+- **introduced** · `transzendenz/hua10/002` · *immanent time*
+  The time accepted as existing is the immanent time of the flow of consciousness, not the time of the world of experience.
+  `husserliana-10-inneres-zeitbewusstsein-commentary#h4-s1-the-exclusion-of-objective-time` · Hua X § 1 · [§1. The Exclusion of Objective Time](https://faultynode.github.io/commentaries/commentaries/husserl/husserliana-10-inneres-zeitbewusstsein-commentary.html#the-exclusion-of-objective-time)
+  > We do also accept a time that exists, but it is the immanent time of the flow of consciousness, not the time of the world of experience.
+
+- **introduced** · `transzendenz/hua10/003` · *transcendencies*
+  Objective space, objective time and the objective world of actual things and events are all transcendencies.
+  `husserliana-10-inneres-zeitbewusstsein-commentary#h4-s1-the-exclusion-of-objective-time` · Hua X § 1 · [§1. The Exclusion of Objective Time](https://faultynode.github.io/commentaries/commentaries/husserl/husserliana-10-inneres-zeitbewusstsein-commentary.html#the-exclusion-of-objective-time)
+  > Objective space, objective time and the objective world of actual things and events are all transcendencies.
+
+- **criticized** · `transzendenz/hua10/004` · *transcendence*
+  Transcendent here does not mean a thing in itself behind appearances; it is the transcendence of the appearing object over the experience in which it appears.
+  `husserliana-10-inneres-zeitbewusstsein-commentary#h4-s1-the-exclusion-of-objective-time` · Hua X § 1 · [§1. The Exclusion of Objective Time](https://faultynode.github.io/commentaries/commentaries/husserl/husserliana-10-inneres-zeitbewusstsein-commentary.html#the-exclusion-of-objective-time)
+  > The transcendence in question is that of the appearing object over the experience in which it appears, not that of a Kantian noumenon over phenomena.
+
+- **criticized** · `transzendenz/hua10/005` · *transcendent presuppositions*
+  Brentano's theory does not stand on phenomenological ground because it works with transcendent presuppositions, existing temporal objects that cause sensations.
+  `husserliana-10-inneres-zeitbewusstsein-commentary#h4-s6-critique` · Hua X § 6 · [§6. Critique](https://faultynode.github.io/commentaries/commentaries/husserl/husserliana-10-inneres-zeitbewusstsein-commentary.html#critique)
+  > It does not stand on the ground required for a phenomenological analysis: it works with transcendent presuppositions, with existing temporal objects that exert "stimuli" and "cause" sensations in us.
+
+- **presupposed** · `transzendenz/hua10/006` · *transcending consciousness*
+  An added temporal moment attached to a present content cannot explain the transcending consciousness that A is past.
+  `husserliana-10-inneres-zeitbewusstsein-commentary#h4-s6-critique` · Hua X § 6 · [§6. Critique](https://faultynode.github.io/commentaries/commentaries/husserl/husserliana-10-inneres-zeitbewusstsein-commentary.html#critique)
+  > The presence of an A in consciousness, with a new moment attached, even if we call it the moment of pastness, cannot explain the transcending consciousness that A is past.
+
+- **presupposed** · `transzendenz/hua10/007` · *transcendent objects*
+  For transcendent objects retention guarantees only that the object was perceived, not that it existed, whereas for immanent objects the retained succession is absolutely certain.
+  `husserliana-10-inneres-zeitbewusstsein-commentary#h4-s13-necessity-of-an-impression-preceding-every-retention-the-evidence-of-retenti` · Hua X § 13 · [§13. Necessity of an Impression Preceding Every Retention. The Evidence of Retention](https://faultynode.github.io/commentaries/commentaries/husserl/husserliana-10-inneres-zeitbewusstsein-commentary.html#necessity-of-an-impression-preceding-every-retention-the-evidence-of-retention)
+  > For transcendent objects, retention guarantees only that the object was perceived, not that it existed, since perception itself can deceive.
+
+- **presupposed** · `transzendenz/hua10/008` · *immanent and transcendent evidence*
+  The editor dates the core of §22 before 1901, which shows that the distinction between immanent and transcendent evidence in time-consciousness predates the 1905 lectures.
+  `husserliana-10-inneres-zeitbewusstsein-commentary#h4-s22-the-evidence-of-reproduction` · Hua X § 22 · [§22. The Evidence of Reproduction](https://faultynode.github.io/commentaries/commentaries/husserl/husserliana-10-inneres-zeitbewusstsein-commentary.html#the-evidence-of-reproduction)
+  > The editor dates the core of §22 to a sheet probably written before 1901, which shows that the distinction between immanent and transcendent evidence in time-consciousness predates the 1905 lectures.
+
+- **presupposed** · `transzendenz/hua10/009` · *transcendent processes*
+  Every apprehension, however transcendent, is bound by the law that transcendent processes are given only as a past ending in a present limit, because their sensory basis is so given.
+  `husserliana-10-inneres-zeitbewusstsein-commentary#h4-s31-primal-impression-and-the-objective-individual-point-of-time` · Hua X § 31 · [§31. Primal Impression and the Objective Individual Point of Time](https://faultynode.github.io/commentaries/commentaries/husserl/husserliana-10-inneres-zeitbewusstsein-commentary.html#primal-impression-and-the-objective-individual-point-of-time)
+  > The law is universal: transcendent processes are given only as a past ending in a present limit, because their sensory basis is so given.
+
+- **introduced** · `transzendenz/hua10/010` · *immanent unities*
+  Three levels of constitution are distinguished: things in objective time, the immanent unities in pre-empirical time, and the absolute time-constituting flow, which is not itself a unity in time.
+  `husserliana-10-inneres-zeitbewusstsein-commentary#h4-s34-distinction-of-the-levels-of-constitution` · Hua X § 34 · [§34. Distinction of the Levels of Constitution](https://faultynode.github.io/commentaries/commentaries/husserl/husserliana-10-inneres-zeitbewusstsein-commentary.html#distinction-of-the-levels-of-constitution)
+  > second, the constituting manifolds of appearance of various levels, the immanent unities in pre-empirical time; third, the absolute time-constituting flow of consciousness
+
+- **introduced** · `transzendenz/hua10/011` · *transcendent object*
+  Husserl requires distinguishing everywhere consciousness as flow, appearance as immanent object, and the transcendent object.
+  `husserliana-10-inneres-zeitbewusstsein-commentary#h4-s37-appearances-of-transcendent-objects-as-constituted-unities` · Hua X § 37 · [§37. Appearances of Transcendent Objects as Constituted Unities](https://faultynode.github.io/commentaries/commentaries/husserl/husserliana-10-inneres-zeitbewusstsein-commentary.html#appearances-of-transcendent-objects-as-constituted-unities)
+  > We must distinguish everywhere: consciousness, which is flow; appearance, which is immanent object; and transcendent object, unless a primary content is the immanent object.
+
+- **revised** · `transzendenz/hua10/012` · *immanent unity*
+  The act of the Logical Investigations is revised into a constituted immanent unity rather than the ultimate subjective term.
+  `husserliana-10-inneres-zeitbewusstsein-commentary#h4-s37-appearances-of-transcendent-objects-as-constituted-unities` · Hua X § 37 · [§37. Appearances of Transcendent Objects as Constituted Unities](https://faultynode.github.io/commentaries/commentaries/husserl/husserliana-10-inneres-zeitbewusstsein-commentary.html#appearances-of-transcendent-objects-as-constituted-unities)
+  > Husserl here revises his own earlier doctrine: the "act" of the Logical Investigations turns out to be a constituted immanent unity, not the ultimate subjective term.
+
+- **introduced** · `transzendenz/hua10/013` · *transcendent intentionality*
+  Acts have transcendent intentionality only through something immanently constituted, the apprehensions, so transcendent intentionality is always mediated by immanent constitution.
+  `husserliana-10-inneres-zeitbewusstsein-commentary#h4-s43-constitution-of-thing-appearances-and-things-constituted-apprehensions-and-p` · Hua X § 43 · [§43. Constitution of Thing-Appearances and Things. Constituted Apprehensions and Primal Apprehensions](https://faultynode.github.io/commentaries/commentaries/husserl/husserliana-10-inneres-zeitbewusstsein-commentary.html#constitution-of-thing-appearances-and-things-constituted-apprehensions-and-primal-apprehensions)
+  > Transcendent intentionality is always mediated by immanent constitution, and the relation between the two can become the object of a higher act, which is how the phenomenological attitude itself becomes possible.
+
+- **presupposed** · `transzendenz/hua10/014` · *transcendent presenting*
+  Immanent impression and perceiving are both presenting, but the immanent unity is given directly in the flow while the transcendent object is given through appearances.
+  `husserliana-10-inneres-zeitbewusstsein-commentary#h4-s43-constitution-of-thing-appearances-and-things-constituted-apprehensions-and-p` · Hua X § 43 · [§43. Constitution of Thing-Appearances and Things. Constituted Apprehensions and Primal Apprehensions](https://faultynode.github.io/commentaries/commentaries/husserl/husserliana-10-inneres-zeitbewusstsein-commentary.html#constitution-of-thing-appearances-and-things-constituted-apprehensions-and-primal-apprehensions)
+  > Both levels are presentings; but the immanent unity is given directly in the flow, while the transcendent object is given through appearances.
+
+- **presupposed** · `transzendenz/hua10/015` · *immanent time*
+  Objective time coincides with phenomenological time because thing-apprehensions ride on temporally constituted sensory data; objective time is immanent time objectified through the apprehension of things.
+  `husserliana-10-inneres-zeitbewusstsein-commentary#h4-s43-constitution-of-thing-appearances-and-things-constituted-apprehensions-and-p` · Hua X § 43 · [§43. Constitution of Thing-Appearances and Things. Constituted Apprehensions and Primal Apprehensions](https://faultynode.github.io/commentaries/commentaries/husserl/husserliana-10-inneres-zeitbewusstsein-commentary.html#constitution-of-thing-appearances-and-things-constituted-apprehensions-and-primal-apprehensions)
+  > Objective time coincides point for point with phenomenological time because thing-apprehensions ride on sensory data that are themselves temporally constituted; objective time is immanent time objectified through the apprehension of things.
+
+- **presupposed** · `transzendenz/hua10/016` · *immanent object*
+  There is no appearance between inner perception and its object, since the immanent object does not present itself in profiles.
+  `husserliana-10-inneres-zeitbewusstsein-commentary#h4-s44-inner-and-outer-perception` · Hua X § 44 · [§44. Inner and Outer Perception](https://faultynode.github.io/commentaries/commentaries/husserl/husserliana-10-inneres-zeitbewusstsein-commentary.html#inner-and-outer-perception)
+  > There is no appearance between inner perception and its object, since the immanent object does not present itself in profiles.
+
+- **introduced** · `transzendenz/hua10/017` · *non-temporal transcendencies*
+  Every consciousness is a constituted immanent unity related to its objectivity, but not every consciousness constitutes something temporal: every act is in immanent time, yet not every object is temporal.
+  `husserliana-10-inneres-zeitbewusstsein-commentary#h4-s45-constitution-of-non-temporal-transcendencies` · Hua X § 45 · [§45. Constitution of Non-Temporal Transcendencies](https://faultynode.github.io/commentaries/commentaries/husserl/husserliana-10-inneres-zeitbewusstsein-commentary.html#constitution-of-non-temporal-transcendencies)
+  > Every act is in immanent time, but not every object is temporal.
+
+#### Recorded absences
+
+- **absent** · `husserliana-10-inneres-zeitbewusstsein-commentary#h4-s36-the-time-constituting-flow-as-absolute-subjectivity`
+  Expected because: §34 and §37 place the absolute flow beneath the immanent unities and the transcendent object, and this section names that flow absolute subjectivity.
+  [§36. The Time-Constituting Flow as Absolute Subjectivity](https://faultynode.github.io/commentaries/commentaries/husserl/husserliana-10-inneres-zeitbewusstsein-commentary.html#the-time-constituting-flow-as-absolute-subjectivity)
+
+- **absent** · `husserliana-10-inneres-zeitbewusstsein-commentary#h4-s16-perception-as-presentation-in-contrast-to-retention-and-recollection`
+  Expected because: §13 had divided the evidence of retention by immanent and transcendent object, and this section contrasts perception with retention and recollection.
+  [§16. Perception as Presentation in Contrast to Retention and Recollection](https://faultynode.github.io/commentaries/commentaries/husserl/husserliana-10-inneres-zeitbewusstsein-commentary.html#perception-as-presentation-in-contrast-to-retention-and-recollection)
+
+*Partial pass: Term-led pass over the whole file (lines 1-384): every paragraph containing the transcendence family, including bare transcendent and immanent, was read; paragraphs without such a word were not read.*
+
 ### 1907 - Husserl's Thing and Space (1907)
 
 `husserl-thing-and-space-commentary`
@@ -1177,6 +1278,33 @@
   [Sixth Lecture: The demand for a theory of cognition implied in the Platonic idea of dialectic](https://faultynode.github.io/commentaries/commentaries/husserl/husserliana-7-erste-philosophie-i-commentary.html#sixth-lecture-the-demand-for-a-theory-of-cognition-implied-in-the-platonic-idea-of-dialectic)
 
 *Partial pass: Term-led pass over the whole file (lines 1-971): every paragraph containing the transcendence family, including bare transcendent and immanent, was read; paragraphs without such a word were not read. The First to Fourth and Sixth to Eighth Lectures carry none.*
+
+### 1923-1924 - Husserl, Erste Philosophie (1923/24), Second Part: Theory of the Phenomenological Reduction
+
+`husserliana-8-erste-philosophie-ii-commentary`
+
+- **presupposed** · `transzendenz/hua8/001` · *immanent time*
+  Applied to the reduced field, immanent time is not a region of objective time but the form in which transcendental life presents itself to itself.
+  `husserliana-8-erste-philosophie-ii-commentary#h4-lecture-39-the-full-content-of-universal-transcendental-self-experience-transcen` · Hua VIII, Lecture 39 · [Lecture 39: The Full Content of Universal Transcendental Self-Experience: Transcendental Present, Past, and Future](https://faultynode.github.io/commentaries/commentaries/husserl/husserliana-8-erste-philosophie-ii-commentary.html#lecture-39-the-full-content-of-universal-transcendental-self-experience-transcendental-present-past-and-future)
+  > immanent time is not a region of objective time but the form in which transcendental life presents itself to itself
+
+- **revised** · `transzendenz/hua8/002` · *transcendence of the world*
+  The transcendence of the world has no metaphysical mystery and is of the same genus as the transcendence of numbers and other irreal objects.
+  `husserliana-8-erste-philosophie-ii-commentary#h5-b-transcendental-egology-solipsistic-phenomenology-and-the-transition-to-the-int` · [b) Transcendental Egology ("Solipsistic Phenomenology") and the Transition to the Intersubjective Reduction](https://faultynode.github.io/commentaries/commentaries/husserl/husserliana-8-erste-philosophie-ii-commentary.html#b-transcendental-egology-solipsistic-phenomenology-and-the-transition-to-the-intersubjective-reduction)
+  > The transcendence of the world has no metaphysical mystery: it is of another kind, but most generally of the same genus as the transcendence of numbers and other irreal objects.
+
+- **introduced** · `transzendenz/hua8/003` · *immanent pole*
+  Before other egos are known, the real world reduces to a system of external experiences in which things are poles immanent to the system and transcendent to every single experience.
+  `husserliana-8-erste-philosophie-ii-commentary#h5-b-transcendental-egology-solipsistic-phenomenology-and-the-transition-to-the-int` · [b) Transcendental Egology ("Solipsistic Phenomenology") and the Transition to the Intersubjective Reduction](https://faultynode.github.io/commentaries/commentaries/husserl/husserliana-8-erste-philosophie-ii-commentary.html#b-transcendental-egology-solipsistic-phenomenology-and-the-transition-to-the-intersubjective-reduction)
+  > The "immanent pole" formulation is precise: the thing is immanent to the system as its pole, transcendent to every single experience.
+
+#### Recorded absences
+
+- **absent** · `husserliana-8-erste-philosophie-ii-commentary#h4-lecture-37-the-apodictic-certainty-of-the-world-s-possible-non-existence-and-the`
+  Expected because: The possible non-existence of the world is argued here, and the later transition to egology treats the world's transcendence as that of a pole immanent to the system of experience.
+  [Lecture 37: The Apodictic Certainty of the World's Possible Non-Existence and the Setting-Off of the Transcendental Life of Subjectivity](https://faultynode.github.io/commentaries/commentaries/husserl/husserliana-8-erste-philosophie-ii-commentary.html#lecture-37-the-apodictic-certainty-of-the-worlds-possible-non-existence-and-the-setting-off-of-the-transcendental-life-of-subjectivity)
+
+*Partial pass: Term-led pass over the whole file (lines 1-674): every paragraph containing the transcendence family, including bare transcendent and immanent, was read; paragraphs without such a word were not read.*
 
 ### 1925 - Husserl, Hua 9 — Phenomenological Psychology
 

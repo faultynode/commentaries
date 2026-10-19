@@ -3103,9 +3103,9 @@
       "author": "descartes",
       "title": "Descartes, Regulae ad directionem ingenii: A Commentary",
       "wordpress_id": null,
-      "sha256": "f36e1e90781eb654ae98ab59d10b613e1fabfb638a52f2ac98410b462b0e5fa2",
+      "sha256": "9aeec43689e513860b2c01d8d927915315d0c614e6a3d8d7a053acd14f24fd83",
       "lines": 418,
-      "words": 30281,
+      "words": 30336,
       "url": "https://faultynode.github.io/commentaries/commentaries/descartes/descartes-regulae-ad-directionem-ingenii-commentary.html",
       "sections": [
         {
@@ -3118,7 +3118,7 @@
           "anchor": "descartes-regulae-ad-directionem-ingenii-a-commentary",
           "line_start": 1,
           "line_end": 6,
-          "words": 214
+          "words": 269
         },
         {
           "id": "h2-book-one-on-simple-propositions-and-inferences",
