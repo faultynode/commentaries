@@ -47,6 +47,8 @@ Output: outputs/henry-on-sz-comparative-commentary.md
 12. **SZ's *Ent-fernung* is a nearing, not a distancing.** (Added 2026-10-19, §9.) SZ 105: "Verschwindenmachen der Ferne ... Näherung"; Henry's "distance phénoménologique" quotes the "active and transitive" gloss and reads it as "ce qui éloigne". Mark any later use of Entfernung, Nähe, Ferne against SZ 105-108.
 13. **Henry quotes Heidegger's other texts as SZ's doctrine.** (Added 2026-10-19.) "Wesen der Ferne" is GA 9 175 (*Vom Wesen des Grundes*); "insurmontable" distance is Dufrenne's gloss on the Kantbuch (n. 27); Fichte supplies "existence" and "aliénation". Fix the source of each quoted sentence before attributing it to SZ.
 
+14. **Henry's SZ notes can cut the clause that qualifies or reverses the sentence.** (Added 2026-10-19, §11.) n. 58 cites SZ 132 as "accepting" consciousness as the being of the "between", where SZ calls that formula nearer to the facts and "irreführend"; n. 65 (SZ 366) drops the condition "wenn das Subjekt ontologisch als existierendes Dasein begriffen wird, dessen Sein in der Zeitlichkeit gründet"; n. 64 (SZ 209) puts "l'essence de la présence" where SZ has Dasein and care. Read every SZ sentence Henry cites in its full context.
+
 ### Glossary (fixed for this run)
 
 - Translation rule: every German or French quotation carries an English rendering in the citation parenthesis or as an apposition; single quoted words count; a quotation repeated within one paragraph relies on its first rendering there. In the output English leads; in this run file the original leads.
@@ -83,7 +85,9 @@ Output: outputs/henry-on-sz-comparative-commentary.md
 - Introduction §6 ¶9 and §7 ¶3-¶10 set Henry's "ambiguity" and "inhomogeneity" claims against SZ 8, 12-13, 136, 148, 152, 226; Section I §13 ("The ambiguity of 'Dasein'") develops them and should be read against these verdicts, not rederived. (2026-10-19.)
 - "Zunächst und zumeist" is rendered "tout d'abord ... le plus souvent" (Introduction §7 ¶5, ¶11, nn. 10-11). Check every later SZ quotation for the same split. (2026-10-19.)
 
+- The Kehre claim in §11 ¶25 (premises of the later reversal "dans Sein und Zeit") rests on texts outside the corpus (Letter on Humanism, GA 9 327-328, and the 1930s courses). Not settled; any later use is retrospective. (2026-10-19.)
+
 ## Progress
-Last completed unit: Section I, §10 ¶11 (the last paragraph of §10) (2026-10-19). Section I continues at §11.
-Next: Section I, §11 ¶1. SZ notes in Section I: n. 6 SZ 230 (done), n. 9 SZ 38 (done), n. 13 SZ 105 (done), n. 58 SZ 132, n. 64 SZ 209, n. 65 SZ 366, n. 81 SZ 58, n. 84-85 SZ 221, n. 86 SZ 96, n. 87 SZ 98, n. 88 SZ 224 sq, n. 90 SZ 366, n. 127 SZ 132, n. 128 SZ 212.
+Last completed unit: Section I, §11 ¶25 (the last paragraph of §11) (2026-10-19). Section I continues at §12.
+Next: Section I, §12 ¶1. SZ notes still to do in Section I: n. 81 SZ 58, n. 84-85 SZ 221, n. 86 SZ 96, n. 87 SZ 98, n. 88 SZ 224 sq, n. 90 SZ 366, n. 127 SZ 132, n. 128 SZ 212 (n. 6, 9, 13, 58, 64, 65 done).
 Revision: 2026-10-19, run opened; pair-specific notes 1-10 set; Introduction written. Guards 1-10 held in the Introduction; no new guard added, but the "zunächst und zumeist" rendering is recorded under Open threads.
