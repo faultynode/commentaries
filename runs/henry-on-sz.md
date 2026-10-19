@@ -77,6 +77,6 @@ Output: outputs/henry-on-sz-comparative-commentary.md
 - "Zunächst und zumeist" is rendered "tout d'abord ... le plus souvent" (Introduction §7 ¶5, ¶11, nn. 10-11). Check every later SZ quotation for the same split. (2026-10-19.)
 
 ## Progress
-Last completed unit: Introduction, §7 ¶17 (the last paragraph of Henry's Introduction), with the closing paragraph for the division (2026-10-19). 79 units: Prelude 5, §1 8, §2 8, §3 12, §4 7, §5 10, §6 12, §7 17.
-Next: Section I, §8 ¶1 ("Section I. Elucidation of the concept of phenomenon: ontological monism"). Map Henry's SZ notes for Section I (SZ 132, 209, 366, 58, 221, 96, 98, 224, among others) at the start of the turn.
+Last completed unit: Section I, §8 ¶16 (2026-10-19). Section I continues at §9.
+Next: Section I, §9 ¶1. SZ notes in Section I: n. 6 SZ 230 (done), n. 9 SZ 38 (done), n. 13 SZ 105, n. 58 SZ 132, n. 64 SZ 209, n. 65 SZ 366, n. 81 SZ 58, n. 84-85 SZ 221, n. 86 SZ 96, n. 87 SZ 98, n. 88 SZ 224 sq, n. 90 SZ 366, n. 127 SZ 132, n. 128 SZ 212.
 Revision: 2026-10-19, run opened; pair-specific notes 1-10 set; Introduction written. Guards 1-10 held in the Introduction; no new guard added, but the "zunächst und zumeist" rendering is recorded under Open threads.
