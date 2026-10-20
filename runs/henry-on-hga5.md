@@ -38,6 +38,8 @@ Range of R, in this order:
 Output: outputs/henry-on-hga5-comparative-commentary.md
 
 ## Pair-specific notes
+
+Kant's *Kritik der reinen Vernunft*: sources/sources/kant/ (added 2026-10-20): `Critique of Pure Reason.md` (Cambridge, Guyer-Wood; inline A/B markers like [A 19/B 33], A and B texts printed separately where Kant revised), `Kritik der reinen Vernunft 1781.md` and `... 1787.md` (German, no pagination: find passages by wording, locate the A/B page through the Cambridge text). Verified 2026-10-20: the Kant passages the commentary relies on. Only one Kant premise in the output bears on it (B 288 f., B 146 f.).
 (misreading guards, glossary decisions, edition mappings, settled once and kept)
 
 ### Henry's H loci in Commentary P

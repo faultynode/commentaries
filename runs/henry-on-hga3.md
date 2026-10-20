@@ -32,6 +32,8 @@ Range of R: Section II. Répétition de l’élucidation du concept de phénomè
 Output: outputs/henry-on-hga3-comparative-commentary.md
 
 ## Pair-specific notes
+
+Kant's *Kritik der reinen Vernunft*: sources/sources/kant/ (added 2026-10-20): `Critique of Pure Reason.md` (Cambridge, Guyer-Wood; inline A/B markers like [A 19/B 33], A and B texts printed separately where Kant revised), `Kritik der reinen Vernunft 1781.md` and `... 1787.md` (German, no pagination: find passages by wording, locate the A/B page through the Cambridge text). Verified 2026-10-20: the Kant passages the commentary relies on. Checks reported in the units on self-affection (B 67 f. is B-only; GA 3 §34, 190 not borne out), on time that cannot be perceived by itself (B 225/A 183, B 207, B 233) and on the unknown root (A 15/B 29, 'vielleicht').
 (misreading guards, glossary decisions, edition mappings, settled once and kept)
 
 ### Misreading guards (Henry, *L'essence de la manifestation* Section II, on GA 3)

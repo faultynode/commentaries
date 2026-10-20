@@ -28,6 +28,8 @@ Range of R: whole work, Introduction to §57, in R's order, by division. One div
 Output: outputs/henry-on-sz-comparative-commentary.md
 
 ## Pair-specific notes
+
+Kant's *Kritik der reinen Vernunft*: sources/sources/kant/ (added 2026-10-20): `Critique of Pure Reason.md` (Cambridge, Guyer-Wood; inline A/B markers like [A 19/B 33], A and B texts printed separately where Kant revised), `Kritik der reinen Vernunft 1781.md` and `... 1787.md` (German, no pagination: find passages by wording, locate the A/B page through the Cambridge text). Verified 2026-10-20: the Kant passages the commentary relies on. Section-level checks added 2026-10-20 for Introduction and Sections I-IV units that quote the Critique (B 25/A 11, B 288 f., B 225/A 183, A 142/B 182, A 34/B 50, B 414); later sections should cite A/B and check against these files.
 (misreading guards, glossary decisions, edition mappings, settled once and kept)
 
 ### Misreading guards (Henry, *L'essence de la manifestation*, on *Sein und Zeit*)
