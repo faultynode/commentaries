@@ -50,6 +50,7 @@ Output: outputs/marion-rd-on-hua3-comparative-commentary.md
 
 14. **Marion's "Beilagen IX-X" are autumn-1929 texts.** (Added 2026-10-20, chapter V.) Biemel's Hua III p. 394 ("Region des »absoluten Seins«", "unweltlich, unreal", "absolut eigenständige Region") = Hua III/2 Beilagen 37-38, "Herbst 1929", in copy D (Hua III/2 589-594). They postdate SZ. The 1913 text has "des in einem bestimmten Sinn »absoluten« Seins" (§76, Hua III/1 159) and "ein Eigensein" (§33).
 15. **Ideen I restores the name "ontology" for the eidetic sciences that phenomenology switches off.** (Added 2026-10-20.) It does not identify phenomenology with ontology; "die wahre und echte universale Ontologie" is CM §64 (1929). The 1913 relation is dominion and clarification (§§62, 76, 149-153). §60 brackets "transzendent-eidetische" domains, which Marion renders "transcendantaux" (R V n. 49).
+16. **§24's clause of limits drops out of Marion's glosses.** (Added 2026-10-20.) R VI.1 ¶1 glosses the principle as givenness "justifiée inconditionnellement", and the Figures make "unconditioned givenness" the third reduction's horizon; §24 grants intuition's right "nur in den Schranken, in denen es sich da gibt" (Hua III/1 51). Likewise, "Affektion" as the object's pull on the I is a later addition in copy F to §45 (Hua III/1 95, recorded in Hua III/2), not 1913 text.
 
 ### Glossary (fixed for this run)
 
@@ -86,10 +87,11 @@ Output: outputs/marion-rd-on-hua3-comparative-commentary.md
 - R I n. 15 also cites §78 (R "185") and §140 (R "347") for the source of right; the edition's subject index lists both stretches (1913 pp. 156 f., 293 f.) under "Prinzip aller Prinzipien". Not quoted by Marion; not used. (2026-10-20.)
 
 ## Progress
-Last completed unit: Chapter V, §7 ¶7, with the chapter's closing paragraph (2026-10-20). Next: Chapter VI, §1 ¶1 ("L'accès au « phénomène d'être »"; source line ~1315; notes from line 1423). Chapter VI has no Commentary R. Its Husserl is mostly Ideen III and the reduction; Ideen I loci to expect: §§31-33, 49, 57, 80, 84.
-Unit counts: Foreword 2; Bibliographical note 3; Phenomenology as such 7 (epigraph + 6); I.1 5, I.2 4, I.3 3, I.4 2, I.5 5, I.6 4, I.7 4; II.1 2, II.2 3, II.3 3, II.4 4, II.5 2, II.6 3, II.7 3; III.1 4, III.2 5, III.3 3, III.4 3, III.5 3 (the source splits ¶3 across a page seam mid-sentence; counted as one), III.6 5, III.7 4; IV.1 2, IV.2 3, IV.3 4 (¶3-¶4 treated in one unit), IV.4 5, IV.5 5 (¶2 spans the two analogy diagrams), IV.6 4, IV.7 5; V.1 3, V.2 2, V.3 3, V.4 8, V.5 4, V.6 5, V.7 7 (no Commentary R; units follow the source's paragraphs).
+Last completed unit: Les figures de la donation ¶6, with the closing verdict on the whole book (2026-10-20). Run complete: the range (Foreword through Les figures de la donation; index excluded) is done.
+Unit counts: Foreword 2; Bibliographical note 3; Phenomenology as such 7 (epigraph + 6); I.1 5, I.2 4, I.3 3, I.4 2, I.5 5, I.6 4, I.7 4; II.1 2, II.2 3, II.3 3, II.4 4, II.5 2, II.6 3, II.7 3; III.1 4, III.2 5, III.3 3, III.4 3, III.5 3 (the source splits ¶3 across a page seam mid-sentence; counted as one), III.6 5, III.7 4; IV.1 2, IV.2 3, IV.3 4 (¶3-¶4 treated in one unit), IV.4 5, IV.5 5 (¶2 spans the two analogy diagrams), IV.6 4, IV.7 5; V.1 3, V.2 2, V.3 3, V.4 8, V.5 4, V.6 5, V.7 7 (no Commentary R; units follow the source's paragraphs); VI.1 3, VI.2 8, VI.3 7, VI.4 5, VI.5 9, VI.6 5, VI.7 8 (no Commentary R); Figures 5 (¶5-¶6 treated in one unit) + closing verdict on the book.
 Revision: 2026-10-20, run opened; pair-specific notes 1-8 set; Foreword through chapter I written.
 Revision: 2026-10-20, chapter II written; guards 9-10 added; guard 1 extended (two §46 interpolations).
 Revision: 2026-10-20, chapter III written; guard 11 added.
 Revision: 2026-10-20, chapter IV written; guards 12-13 added; II.2 ¶2 and III.2 ¶2 amended (§43), §42 page numbers corrected from 96 to 88-89 in III.2 ¶2 and in the loci lists.
 Revision: 2026-10-20, chapter V written; guards 14-15 added.
+Revision: 2026-10-20, chapter VI and Les figures de la donation written; guard 16 added; run complete.
