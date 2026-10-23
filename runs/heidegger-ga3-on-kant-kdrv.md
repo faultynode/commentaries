@@ -118,6 +118,8 @@ Output: outputs/heidegger-ga3-on-kant-kdrv-comparative-commentary.md
 - commentaries: none yet.
 
 ## Progress
-Last completed unit: First Section, §3 ¶11 (GA 3, 18), with the First Section's closing paragraph (Prefaces and Introduction complete, each with a closing paragraph).
-Unit counts: 1973 preface 6 units (¶1, ¶2, ¶3, ¶4, ¶5-9, ¶10-12); 1929 preface 5 (¶1-4, ¶5-6); 1950/1965 4 (¶1, ¶2, ¶3-4, ¶5-6); Introduction 6; First Section intro 1; §1 10; §2 9; §3 11.
+Last completed unit: Second Section, A, §8 ¶7 (GA 3, 42), with a closing paragraph for part A (Prefaces, Introduction, First Section complete).
+Unit counts: 1973 preface 6 units (¶1, ¶2, ¶3, ¶4, ¶5-9, ¶10-12); 1929 preface 5 (¶1-4, ¶5-6); 1950/1965 4 (¶1, ¶2, ¶3-4, ¶5-6); Introduction 6; First Section intro 1; §1 10; §2 9; §3 11; Second Section intro 2 (¶1, ¶2-3); A intro 1; §4 9; §5 19 (¶7-10 and ¶14-15 joined); §6 5; §7 7; §8 7.
+Next: Second Section, B intro (GA 3, 42-43), then the First Stage §§9-12 (German l. ~1745 ff.; Taft l. ~952 ff.; Commentary R l. ~257 ff.).
 Revision: 2026-10-23, run opened; guards 1-10 set; Prefaces, Introduction and First Section written.
+Revision: 2026-10-23, Second Section A (§§4-8) written. Closing paragraph for part A added although A is not a top-level division (the Second Section is long; a full Second Section verdict follows §25).
