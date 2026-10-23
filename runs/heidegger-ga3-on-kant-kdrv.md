@@ -103,6 +103,15 @@ Output: outputs/heidegger-ga3-on-kant-kdrv-comparative-commentary.md
     object, "das Mannigfaltige der Anschauung" (Taft's note). Kant: schematism = "the procedure of the understanding" (A 140/B 179);
     schema restricts the use of concepts (A 140/B 179; A 146/B 185). Heidegger never uses Kant's "monogram" (A 141-142/B 181).
 
+15. **Highest principle and ontology misreported.** (Added 2026-10-23, §§24-25.) GA 3 118 gives as the highest principle's
+    "conclusive formulation" Kant's second sentence (A 158/B 197) without Kant's formal statement ("Every object stands under the
+    necessary conditions of the synthetic unity of the manifold of intuition in a possible experience") and without its last clause
+    ("and on this account have objective validity in a synthetic judgment a priori"). GA 3 124 says Kant replaces "the proud name of an
+    ontology" with "Transcendental Philosophy"; A 247/B 303 says "a mere analytic of pure understanding" (transcendental philosophy =
+    Ontologia is A 845/B 873). GA 3 122 quotes A 250 (A-only, cut in B) and stops before "cannot even be separated from the sensible
+    data ... no object of cognition in itself" (A 250-251). "Herbeigerufen" (GA 3 118) is Kant's word for the reproductive imagination
+    (A 156/B 195).
+
 ### Glossary (fixed for this run)
 
 - Translation rule (user, 2026-10-23): quote Taft (Heidegger) and Guyer-Wood (Kant); German only for key terms or where the English
@@ -148,11 +157,12 @@ Output: outputs/heidegger-ga3-on-kant-kdrv-comparative-commentary.md
 - commentaries: none yet.
 
 ## Progress
-Last completed unit: Second Section, B, Fourth Stage, §23 ¶11 (GA 3, 113), with a closing paragraph for the Fourth Stage.
-Unit counts: 1973 preface 6 units (¶1, ¶2, ¶3, ¶4, ¶5-9, ¶10-12); 1929 preface 5 (¶1-4, ¶5-6); 1950/1965 4 (¶1, ¶2, ¶3-4, ¶5-6); Introduction 6; First Section intro 1; §1 10; §2 9; §3 11; Second Section intro 2 (¶1, ¶2-3); A intro 1; §4 9; §5 19 (¶7-10 and ¶14-15 joined); §6 5; §7 7; §8 7; B intro 2; First Stage intro 1; §9 8 (¶4-5 joined); §10 10 (¶4-5, ¶11-12 joined); §11 9; §12 8; Second Stage intro 4; §13 4 (¶3-4 joined); §14 11; §15 8 (¶4-5, ¶8-9, ¶10-11 joined); Third Stage intro 4 (¶1-2 joined); §16 11 (¶2-3, ¶5-6, ¶12-13, ¶14-15 joined); §17 6 + first way 9 (¶1-2, ¶8-9 joined) + second way 7; §18 8 (¶3-4 joined); Fourth Stage intro 4 (¶1-2 joined); §19 7 (¶1-2, ¶6-7, ¶8-9 joined); §20 11; §21 9; §22 15; §23 9.
-Next: Fifth Stage intro (GA 3, 113-114), §24 (114-120), §25 (120-125), then the Second Section closing verdict (German l. 4276 ff.; Taft l. ~1866 ff.; Commentary R l. ~723 ff.). Kant loci: highest principle A 154-158/B 193-197; A 158/B 197 ('conditions of the possibility of experience in general are at the same time conditions of the possibility of the objects of experience'); A 235-260/B 294-315 (phenomena/noumena; transcendental object); Dialectic as consequence.
+Last completed unit: Second Section complete: Fifth Stage §25 ¶17 (GA 3, 125), with the Second Section's closing verdict.
+Unit counts: 1973 preface 6 units (¶1, ¶2, ¶3, ¶4, ¶5-9, ¶10-12); 1929 preface 5 (¶1-4, ¶5-6); 1950/1965 4 (¶1, ¶2, ¶3-4, ¶5-6); Introduction 6; First Section intro 1; §1 10; §2 9; §3 11; Second Section intro 2 (¶1, ¶2-3); A intro 1; §4 9; §5 19 (¶7-10 and ¶14-15 joined); §6 5; §7 7; §8 7; B intro 2; First Stage intro 1; §9 8 (¶4-5 joined); §10 10 (¶4-5, ¶11-12 joined); §11 9; §12 8; Second Stage intro 4; §13 4 (¶3-4 joined); §14 11; §15 8 (¶4-5, ¶8-9, ¶10-11 joined); Third Stage intro 4 (¶1-2 joined); §16 11 (¶2-3, ¶5-6, ¶12-13, ¶14-15 joined); §17 6 + first way 9 (¶1-2, ¶8-9 joined) + second way 7; §18 8 (¶3-4 joined); Fourth Stage intro 4 (¶1-2 joined); §19 7 (¶1-2, ¶6-7, ¶8-9 joined); §20 11; §21 9; §22 15; §23 9; Fifth Stage intro 1 (¶1-2); §24 10 (¶5-6, ¶10-11 joined); §25 13 (¶1-2, ¶3-4, ¶6-7, ¶9-10, ¶15-16 joined).
+Next: Third Section intro (GA 3, 126), A §26 (127-134), §27 (134-138), B intro (138-141), §28 (141-146), §29 (146-156), §30 (156-160), §31 (160-171) (German l. 4700 ff.; Taft l. ~2060 ff.; Commentary R l. ~791 ff.). Kant loci: A 78 Handexemplar correction; A 94, A 115, A 118-124; B 151-152, B 162 n.; A 15/B 29; B 67-68; CPrR (respect) for §30; Anthropology (not corpus).
 Revision: 2026-10-23, run opened; guards 1-10 set; Prefaces, Introduction and First Section written.
 Revision: 2026-10-23, Second Section A (§§4-8) written. Closing paragraph for part A added although A is not a top-level division (the Second Section is long; a full Second Section verdict follows §25).
 Revision: 2026-10-23, Second Section B, First and Second Stages (§§9-15) written; guards 11-12 added; §8 ¶6 corrected (Heidegger quotes A 65/B 90 at §11, 55).
 Revision: 2026-10-23, Third Stage (§§16-18) written; guard 13 added.
 Revision: 2026-10-23, Fourth Stage (§§19-23) written; guard 14 added.
+Revision: 2026-10-23, Fifth Stage (§§24-25) and Second Section verdict written; guard 15 added.
