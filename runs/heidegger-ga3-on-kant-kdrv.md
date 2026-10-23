@@ -73,6 +73,20 @@ Output: outputs/heidegger-ga3-on-kant-kdrv-comparative-commentary.md
     metaphysics from reason (A 334-335/B 391-392), his critique of the mathematical method in philosophy (A 712-738/B 740-766),
     his coinage "ontotheology" (A 632/B 660). Name the silence where it bears on the reading.
 
+11. **Kant's word, Heidegger's sense.** (Added 2026-10-23, §§9-15.) Single Kantian words carry Heidegger's theses: *ursprünglich*
+    "original" (Kant: underived, A 32/B 48, B 40; and the intuitus originarius we lack, B 72) becomes "letting spring forth";
+    *affizieren* at A 77/B 102 (space and time "must always also affect the concept of these objects") becomes time affecting pure
+    thinking, the first step to §34; Kant's "function" (A 68/B 93) is treated as the *Logic*'s "reflection"; "the same function" /
+    "the same understanding" (A 79/B 104-105) becomes a structural belonging-together; "pure synthesis brings itself to the concept"
+    (GA 3, 63) where Kant has the understanding bring it (A 78/B 103); "reflecting concepts" (Reflexion 5051) against the Critique's
+    "concepts of reflection" (A 269/B 325). Check each Kant word Heidegger glosses against its sentence.
+12. **Kant's corrections and A-only frames.** (Added 2026-10-23.) Kant's own copy replaces "function of the soul" at A 78 with "function
+    of the understanding" (Guyer-Wood note, Erdmann Nachträge XLI); Heidegger withholds it until §31. A 94 (A-only) makes sense,
+    imagination and apperception three sources that "cannot themselves be derived from any other faculty of the mind"; Heidegger cites
+    A 94 only for "synopsis". B 159 says the metaphysical deduction established the "origin" of the categories; B 145-146 concedes no
+    further ground for the functions of judgment. Kant has a discipline for the unity of category and intuition: the "transcendental
+    doctrine of the power of judgment" (A 136-137/B 175-176).
+
 ### Glossary (fixed for this run)
 
 - Translation rule (user, 2026-10-23): quote Taft (Heidegger) and Guyer-Wood (Kant); German only for key terms or where the English
@@ -118,8 +132,9 @@ Output: outputs/heidegger-ga3-on-kant-kdrv-comparative-commentary.md
 - commentaries: none yet.
 
 ## Progress
-Last completed unit: Second Section, A, §8 ¶7 (GA 3, 42), with a closing paragraph for part A (Prefaces, Introduction, First Section complete).
-Unit counts: 1973 preface 6 units (¶1, ¶2, ¶3, ¶4, ¶5-9, ¶10-12); 1929 preface 5 (¶1-4, ¶5-6); 1950/1965 4 (¶1, ¶2, ¶3-4, ¶5-6); Introduction 6; First Section intro 1; §1 10; §2 9; §3 11; Second Section intro 2 (¶1, ¶2-3); A intro 1; §4 9; §5 19 (¶7-10 and ¶14-15 joined); §6 5; §7 7; §8 7.
-Next: Second Section, B intro (GA 3, 42-43), then the First Stage §§9-12 (German l. ~1745 ff.; Taft l. ~952 ff.; Commentary R l. ~257 ff.).
+Last completed unit: Second Section, B, Second Stage, §15 ¶10-11 (GA 3, 68), with a closing paragraph for the first two stages.
+Unit counts: 1973 preface 6 units (¶1, ¶2, ¶3, ¶4, ¶5-9, ¶10-12); 1929 preface 5 (¶1-4, ¶5-6); 1950/1965 4 (¶1, ¶2, ¶3-4, ¶5-6); Introduction 6; First Section intro 1; §1 10; §2 9; §3 11; Second Section intro 2 (¶1, ¶2-3); A intro 1; §4 9; §5 19 (¶7-10 and ¶14-15 joined); §6 5; §7 7; §8 7; B intro 2; First Stage intro 1; §9 8 (¶4-5 joined); §10 10 (¶4-5, ¶11-12 joined); §11 9; §12 8; Second Stage intro 4; §13 4 (¶3-4 joined); §14 11; §15 8 (¶4-5, ¶8-9, ¶10-11 joined).
+Next: Third Stage intro (GA 3, 69-70), §16 (70 ff.), §17 a/b, §18 (German l. 2681 ff.; Taft l. ~1288 ff.; Commentary R l. ~435 ff.). Kant loci: A-Deduction A 84-130 (A 95-130 A-only), quaestio juris A 84/B 116, A 104 (dawider), A 108-109, A 115-130, B 129-169 for contrast.
 Revision: 2026-10-23, run opened; guards 1-10 set; Prefaces, Introduction and First Section written.
 Revision: 2026-10-23, Second Section A (§§4-8) written. Closing paragraph for part A added although A is not a top-level division (the Second Section is long; a full Second Section verdict follows §25).
+Revision: 2026-10-23, Second Section B, First and Second Stages (§§9-15) written; guards 11-12 added; §8 ¶6 corrected (Heidegger quotes A 65/B 90 at §11, 55).
