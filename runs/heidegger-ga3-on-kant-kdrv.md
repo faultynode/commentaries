@@ -87,6 +87,14 @@ Output: outputs/heidegger-ga3-on-kant-kdrv-comparative-commentary.md
     further ground for the functions of judgment. Kant has a discipline for the unity of category and intuition: the "transcendental
     doctrine of the power of judgment" (A 136-137/B 175-176).
 
+13. **The A-Deduction's own conclusion.** (Added 2026-10-23, §§16-18.) A 126-127 ends the A-Deduction with the understanding as
+    "the legislation for nature" and "source of the laws of nature"; Heidegger's "the understanding gives up its preeminence" (§17, 84)
+    contests it without reporting it. Kant says B changed "nothing" in propositions or proofs, only the presentation (B xxxvii-xxxviii),
+    against Heidegger's decision to read A alone (69). *Vor der Apperzeption* (A 118): "prior to" (Guyer-Wood), "for" (18th-c. *vor* =
+    *für*; 1787 corpus reads *für* at A 287/B 343), Heidegger's *coram* (from A-only A 249). A 124's "und": corpus German keeps it,
+    Guyer-Wood follow the editors' sense; Heidegger's reading is defensible and carries §28. Kant's object = "something in general = X"
+    (A 104, A 109); Heidegger's "a nothing" (72).
+
 ### Glossary (fixed for this run)
 
 - Translation rule (user, 2026-10-23): quote Taft (Heidegger) and Guyer-Wood (Kant); German only for key terms or where the English
@@ -132,9 +140,10 @@ Output: outputs/heidegger-ga3-on-kant-kdrv-comparative-commentary.md
 - commentaries: none yet.
 
 ## Progress
-Last completed unit: Second Section, B, Second Stage, §15 ¶10-11 (GA 3, 68), with a closing paragraph for the first two stages.
-Unit counts: 1973 preface 6 units (¶1, ¶2, ¶3, ¶4, ¶5-9, ¶10-12); 1929 preface 5 (¶1-4, ¶5-6); 1950/1965 4 (¶1, ¶2, ¶3-4, ¶5-6); Introduction 6; First Section intro 1; §1 10; §2 9; §3 11; Second Section intro 2 (¶1, ¶2-3); A intro 1; §4 9; §5 19 (¶7-10 and ¶14-15 joined); §6 5; §7 7; §8 7; B intro 2; First Stage intro 1; §9 8 (¶4-5 joined); §10 10 (¶4-5, ¶11-12 joined); §11 9; §12 8; Second Stage intro 4; §13 4 (¶3-4 joined); §14 11; §15 8 (¶4-5, ¶8-9, ¶10-11 joined).
-Next: Third Stage intro (GA 3, 69-70), §16 (70 ff.), §17 a/b, §18 (German l. 2681 ff.; Taft l. ~1288 ff.; Commentary R l. ~435 ff.). Kant loci: A-Deduction A 84-130 (A 95-130 A-only), quaestio juris A 84/B 116, A 104 (dawider), A 108-109, A 115-130, B 129-169 for contrast.
+Last completed unit: Second Section, B, Third Stage, §18 ¶10 (GA 3, 87-88), with a closing paragraph for the Third Stage.
+Unit counts: 1973 preface 6 units (¶1, ¶2, ¶3, ¶4, ¶5-9, ¶10-12); 1929 preface 5 (¶1-4, ¶5-6); 1950/1965 4 (¶1, ¶2, ¶3-4, ¶5-6); Introduction 6; First Section intro 1; §1 10; §2 9; §3 11; Second Section intro 2 (¶1, ¶2-3); A intro 1; §4 9; §5 19 (¶7-10 and ¶14-15 joined); §6 5; §7 7; §8 7; B intro 2; First Stage intro 1; §9 8 (¶4-5 joined); §10 10 (¶4-5, ¶11-12 joined); §11 9; §12 8; Second Stage intro 4; §13 4 (¶3-4 joined); §14 11; §15 8 (¶4-5, ¶8-9, ¶10-11 joined); Third Stage intro 4 (¶1-2 joined); §16 11 (¶2-3, ¶5-6, ¶12-13, ¶14-15 joined); §17 6 + first way 9 (¶1-2, ¶8-9 joined) + second way 7; §18 8 (¶3-4 joined).
+Next: Fourth Stage intro (GA 3, 88-89), §19 (90), §20 (92), §21 (97), §22 (101), §23 (108) (German l. 3367 ff.; Taft l. ~1508 ff.; Commentary R l. ~563 ff.). Kant loci: Schematism A 137-147/B 176-187; A 140/B 179-180 (schema vs image); A 141-142/B 180-181 (hidden art; monogram); A 142/B 182 (pure image); A 145/B 184; B 151-152 for contrast; A 120 (image).
 Revision: 2026-10-23, run opened; guards 1-10 set; Prefaces, Introduction and First Section written.
 Revision: 2026-10-23, Second Section A (§§4-8) written. Closing paragraph for part A added although A is not a top-level division (the Second Section is long; a full Second Section verdict follows §25).
 Revision: 2026-10-23, Second Section B, First and Second Stages (§§9-15) written; guards 11-12 added; §8 ¶6 corrected (Heidegger quotes A 65/B 90 at §11, 55).
+Revision: 2026-10-23, Third Stage (§§16-18) written; guard 13 added.
