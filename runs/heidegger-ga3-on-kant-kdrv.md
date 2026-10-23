@@ -95,6 +95,14 @@ Output: outputs/heidegger-ga3-on-kant-kdrv-comparative-commentary.md
     Guyer-Wood follow the editors' sense; Heidegger's reading is defensible and carries §28. Kant's object = "something in general = X"
     (A 104, A 109); Heidegger's "a nothing" (72).
 
+14. **Cut quotations in the Schematism.** (Added 2026-10-23, §§19-23.) GA 3 101 quotes "Dieser Schematismus ... ist eine verborgene
+    Kunst" and omits "unseres Verstandes, in Ansehung der Erscheinungen und ihrer bloßen Form" (A 141/B 180), which SZ 23 quoted whole.
+    GA 3 103 quotes "Das reine Bild ... aller Gegenstände der Sinne aber überhaupt [ist] die Zeit" and omits "aller Größen (quantorum)
+    vor dem äußeren Sinne ist der Raum" (A 142/B 182; Kant's *vor* = "for", bearing on A 118). GA 3 102 cuts A 142/B 181 before Kant's
+    positive definition of the pure schema (pure synthesis, determination of inner sense, unity of apperception). GA 3 91 cuts A 120's
+    object, "das Mannigfaltige der Anschauung" (Taft's note). Kant: schematism = "the procedure of the understanding" (A 140/B 179);
+    schema restricts the use of concepts (A 140/B 179; A 146/B 185). Heidegger never uses Kant's "monogram" (A 141-142/B 181).
+
 ### Glossary (fixed for this run)
 
 - Translation rule (user, 2026-10-23): quote Taft (Heidegger) and Guyer-Wood (Kant); German only for key terms or where the English
@@ -140,10 +148,11 @@ Output: outputs/heidegger-ga3-on-kant-kdrv-comparative-commentary.md
 - commentaries: none yet.
 
 ## Progress
-Last completed unit: Second Section, B, Third Stage, §18 ¶10 (GA 3, 87-88), with a closing paragraph for the Third Stage.
-Unit counts: 1973 preface 6 units (¶1, ¶2, ¶3, ¶4, ¶5-9, ¶10-12); 1929 preface 5 (¶1-4, ¶5-6); 1950/1965 4 (¶1, ¶2, ¶3-4, ¶5-6); Introduction 6; First Section intro 1; §1 10; §2 9; §3 11; Second Section intro 2 (¶1, ¶2-3); A intro 1; §4 9; §5 19 (¶7-10 and ¶14-15 joined); §6 5; §7 7; §8 7; B intro 2; First Stage intro 1; §9 8 (¶4-5 joined); §10 10 (¶4-5, ¶11-12 joined); §11 9; §12 8; Second Stage intro 4; §13 4 (¶3-4 joined); §14 11; §15 8 (¶4-5, ¶8-9, ¶10-11 joined); Third Stage intro 4 (¶1-2 joined); §16 11 (¶2-3, ¶5-6, ¶12-13, ¶14-15 joined); §17 6 + first way 9 (¶1-2, ¶8-9 joined) + second way 7; §18 8 (¶3-4 joined).
-Next: Fourth Stage intro (GA 3, 88-89), §19 (90), §20 (92), §21 (97), §22 (101), §23 (108) (German l. 3367 ff.; Taft l. ~1508 ff.; Commentary R l. ~563 ff.). Kant loci: Schematism A 137-147/B 176-187; A 140/B 179-180 (schema vs image); A 141-142/B 180-181 (hidden art; monogram); A 142/B 182 (pure image); A 145/B 184; B 151-152 for contrast; A 120 (image).
+Last completed unit: Second Section, B, Fourth Stage, §23 ¶11 (GA 3, 113), with a closing paragraph for the Fourth Stage.
+Unit counts: 1973 preface 6 units (¶1, ¶2, ¶3, ¶4, ¶5-9, ¶10-12); 1929 preface 5 (¶1-4, ¶5-6); 1950/1965 4 (¶1, ¶2, ¶3-4, ¶5-6); Introduction 6; First Section intro 1; §1 10; §2 9; §3 11; Second Section intro 2 (¶1, ¶2-3); A intro 1; §4 9; §5 19 (¶7-10 and ¶14-15 joined); §6 5; §7 7; §8 7; B intro 2; First Stage intro 1; §9 8 (¶4-5 joined); §10 10 (¶4-5, ¶11-12 joined); §11 9; §12 8; Second Stage intro 4; §13 4 (¶3-4 joined); §14 11; §15 8 (¶4-5, ¶8-9, ¶10-11 joined); Third Stage intro 4 (¶1-2 joined); §16 11 (¶2-3, ¶5-6, ¶12-13, ¶14-15 joined); §17 6 + first way 9 (¶1-2, ¶8-9 joined) + second way 7; §18 8 (¶3-4 joined); Fourth Stage intro 4 (¶1-2 joined); §19 7 (¶1-2, ¶6-7, ¶8-9 joined); §20 11; §21 9; §22 15; §23 9.
+Next: Fifth Stage intro (GA 3, 113-114), §24 (114-120), §25 (120-125), then the Second Section closing verdict (German l. 4276 ff.; Taft l. ~1866 ff.; Commentary R l. ~723 ff.). Kant loci: highest principle A 154-158/B 193-197; A 158/B 197 ('conditions of the possibility of experience in general are at the same time conditions of the possibility of the objects of experience'); A 235-260/B 294-315 (phenomena/noumena; transcendental object); Dialectic as consequence.
 Revision: 2026-10-23, run opened; guards 1-10 set; Prefaces, Introduction and First Section written.
 Revision: 2026-10-23, Second Section A (§§4-8) written. Closing paragraph for part A added although A is not a top-level division (the Second Section is long; a full Second Section verdict follows §25).
 Revision: 2026-10-23, Second Section B, First and Second Stages (§§9-15) written; guards 11-12 added; §8 ¶6 corrected (Heidegger quotes A 65/B 90 at §11, 55).
 Revision: 2026-10-23, Third Stage (§§16-18) written; guard 13 added.
+Revision: 2026-10-23, Fourth Stage (§§19-23) written; guard 14 added.
