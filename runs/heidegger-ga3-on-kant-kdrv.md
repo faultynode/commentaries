@@ -102,6 +102,9 @@ Output: outputs/heidegger-ga3-on-kant-kdrv-comparative-commentary.md
     positive definition of the pure schema (pure synthesis, determination of inner sense, unity of apperception). GA 3 91 cuts A 120's
     object, "das Mannigfaltige der Anschauung" (Taft's note). Kant: schematism = "the procedure of the understanding" (A 140/B 179);
     schema restricts the use of concepts (A 140/B 179; A 146/B 185). Heidegger never uses Kant's "monogram" (A 141-142/B 181).
+    NB: §29 (GA 3 151) does quote "Verfahren des Verstandes mit diesen Schematen" (A 140/B 179) and "Schematismus unseres
+    Verstandes" (A 141/B 180) and argues the understanding only "proceeds with" schemata the imagination produces; units amended.
+    Also: §27 (136) quotes A 94's three underivable sources in full; §28 (143) cites A 291/B 347 *ens imaginarium*.
 
 15. **Highest principle and ontology misreported.** (Added 2026-10-23, §§24-25.) GA 3 118 gives as the highest principle's
     "conclusive formulation" Kant's second sentence (A 158/B 197) without Kant's formal statement ("Every object stands under the
@@ -111,6 +114,17 @@ Output: outputs/heidegger-ga3-on-kant-kdrv-comparative-commentary.md
     Ontologia is A 845/B 873). GA 3 122 quotes A 250 (A-only, cut in B) and stops before "cannot even be separated from the sensible
     data ... no object of cognition in itself" (A 250-251). "Herbeigerufen" (GA 3 118) is Kant's word for the reproductive imagination
     (A 156/B 195).
+
+16. **Shrinking-back evidence.** (Added 2026-10-23, §§26-31.) B 103 (1787 text) still reads "Funktion der Seele"; the "Funktion des
+    Verstandes" correction is a note in Kant's copy of A (Erdmann Nachträge XLI), date unknown. A xvii: subjective deduction subordinated
+    because "something like a hypothesis"; the objective deduction "would come into its full strength", A 92-93 "sufficient by itself".
+    A 97-98 (A-only) "three subjective sources ... which make possible even the understanding" supports Heidegger, not quoted. B 160-161 n.
+    derives the unity of pure intuition "as the understanding determines the sensibility" (cited only in GA 3 146 n. 203, not reported).
+    A 124: apperception "must be added to the pure imagination in order to make its function intellectual". A 649/B 677: imagination
+    "perhaps even understanding and reason" as regulative idea of a "fundamental power". CPrR Typic: moral law has "no faculty but the
+    understanding ... (not the imagination)". CPrR: respect presupposes sensibility "and therefore also the finiteness" (supports GA 3).
+    B 151-152 (B-only) gives the imagination's definition, productive imagination, transcendental synthesis of the imagination; GA 3 131
+    concedes the definition is B. GA 3 uses B 33 "uns Menschen wenigstens" two ways (§5 clarification; §31 symptom).
 
 ### Glossary (fixed for this run)
 
@@ -157,12 +171,13 @@ Output: outputs/heidegger-ga3-on-kant-kdrv-comparative-commentary.md
 - commentaries: none yet.
 
 ## Progress
-Last completed unit: Second Section complete: Fifth Stage §25 ¶17 (GA 3, 125), with the Second Section's closing verdict.
-Unit counts: 1973 preface 6 units (¶1, ¶2, ¶3, ¶4, ¶5-9, ¶10-12); 1929 preface 5 (¶1-4, ¶5-6); 1950/1965 4 (¶1, ¶2, ¶3-4, ¶5-6); Introduction 6; First Section intro 1; §1 10; §2 9; §3 11; Second Section intro 2 (¶1, ¶2-3); A intro 1; §4 9; §5 19 (¶7-10 and ¶14-15 joined); §6 5; §7 7; §8 7; B intro 2; First Stage intro 1; §9 8 (¶4-5 joined); §10 10 (¶4-5, ¶11-12 joined); §11 9; §12 8; Second Stage intro 4; §13 4 (¶3-4 joined); §14 11; §15 8 (¶4-5, ¶8-9, ¶10-11 joined); Third Stage intro 4 (¶1-2 joined); §16 11 (¶2-3, ¶5-6, ¶12-13, ¶14-15 joined); §17 6 + first way 9 (¶1-2, ¶8-9 joined) + second way 7; §18 8 (¶3-4 joined); Fourth Stage intro 4 (¶1-2 joined); §19 7 (¶1-2, ¶6-7, ¶8-9 joined); §20 11; §21 9; §22 15; §23 9; Fifth Stage intro 1 (¶1-2); §24 10 (¶5-6, ¶10-11 joined); §25 13 (¶1-2, ¶3-4, ¶6-7, ¶9-10, ¶15-16 joined).
-Next: Third Section intro (GA 3, 126), A §26 (127-134), §27 (134-138), B intro (138-141), §28 (141-146), §29 (146-156), §30 (156-160), §31 (160-171) (German l. 4700 ff.; Taft l. ~2060 ff.; Commentary R l. ~791 ff.). Kant loci: A 78 Handexemplar correction; A 94, A 115, A 118-124; B 151-152, B 162 n.; A 15/B 29; B 67-68; CPrR (respect) for §30; Anthropology (not corpus).
+Last completed unit: Third Section, B, §31 ¶23 (GA 3, 171), with a closing paragraph for parts A-B of the Third Section.
+Unit counts: 1973 preface 6 units (¶1, ¶2, ¶3, ¶4, ¶5-9, ¶10-12); 1929 preface 5 (¶1-4, ¶5-6); 1950/1965 4 (¶1, ¶2, ¶3-4, ¶5-6); Introduction 6; First Section intro 1; §1 10; §2 9; §3 11; Second Section intro 2 (¶1, ¶2-3); A intro 1; §4 9; §5 19 (¶7-10 and ¶14-15 joined); §6 5; §7 7; §8 7; B intro 2; First Stage intro 1; §9 8 (¶4-5 joined); §10 10 (¶4-5, ¶11-12 joined); §11 9; §12 8; Second Stage intro 4; §13 4 (¶3-4 joined); §14 11; §15 8 (¶4-5, ¶8-9, ¶10-11 joined); Third Stage intro 4 (¶1-2 joined); §16 11 (¶2-3, ¶5-6, ¶12-13, ¶14-15 joined); §17 6 + first way 9 (¶1-2, ¶8-9 joined) + second way 7; §18 8 (¶3-4 joined); Fourth Stage intro 4 (¶1-2 joined); §19 7 (¶1-2, ¶6-7, ¶8-9 joined); §20 11; §21 9; §22 15; §23 9; Fifth Stage intro 1 (¶1-2); §24 10 (¶5-6, ¶10-11 joined); §25 13 (¶1-2, ¶3-4, ¶6-7, ¶9-10, ¶15-16 joined). Third Section intro 1 (¶1-2); §26 8; §27 7; B intro 6; §28 9; §29 18; §30 8; §31 19.
+Next: Third Section C intro (GA 3, 171-173), §32 (173-176), §33 with a) b) c) (176-188), §34 (188-195), §35 (195-203), then Third Section verdict (German l. ~6398 ff.; Taft l. ~2564 ff.; Commentary R l. ~1071 ff.). Kant loci: A 98-110 threefold synthesis (A-only); A 34/B 50; B 67-69, B 152-158 self-affection (B-only); A 123 standing and lasting I; A 107; A 182/B 224 (time does not change), A 143/B 183; A 41/B 58; A 314/B 370; reply to Eberhard (not corpus).
 Revision: 2026-10-23, run opened; guards 1-10 set; Prefaces, Introduction and First Section written.
 Revision: 2026-10-23, Second Section A (§§4-8) written. Closing paragraph for part A added although A is not a top-level division (the Second Section is long; a full Second Section verdict follows §25).
 Revision: 2026-10-23, Second Section B, First and Second Stages (§§9-15) written; guards 11-12 added; §8 ¶6 corrected (Heidegger quotes A 65/B 90 at §11, 55).
 Revision: 2026-10-23, Third Stage (§§16-18) written; guard 13 added.
 Revision: 2026-10-23, Fourth Stage (§§19-23) written; guard 14 added.
 Revision: 2026-10-23, Fifth Stage (§§24-25) and Second Section verdict written; guard 15 added.
+Revision: 2026-10-23, Third Section A-B (§§26-31) written; guard 16 added; Fourth Stage units amended (§29 quotes 'Schematismus unseres Verstandes'); §9 ¶2 and §13 ¶3-4 corrected (ens imaginarium cited in §28; A 94 quoted in §27).
