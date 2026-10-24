@@ -40,11 +40,35 @@ responses discussing these files, and for commit messages.
   There the original is the evidence and the translation is the gloss;
   here the commentary *is* the English rendering, so the priority flips.
 
+### When to keep the original (commentary body text)
+
+Translating is mandatory; showing the original is not. Write in English,
+and quote or paraphrase the author in English. Keep the original wording
+only for:
+
+- **terms of art** held in the run's glossary (Dasein, *Erschlossenheit*,
+  *donation*), glossed on first use; and
+- **wording whose sense departs from the English in a way the argument
+  turns on**: a contested rendering, a pun or etymology the author
+  exploits, a phrase one author turns against another, a word whose
+  range the English equivalent lacks, a difference between editions.
+
+**The test: delete the original from the sentence.** If a reader with no
+French or German loses nothing, leave it out. "au centre de la
+réduction, donc de la phénoménologie" (at the centre of the reduction,
+and therefore of phenomenology) fails: the French says what the English
+says, so write *at the centre of the reduction, and therefore of
+phenomenology*. *Selbstgegebenheit* (self-givenness) passes when the
+point is Husserl's term. Where the original is kept, it follows the
+English in parentheses, per the bullet above.
+
 In both contexts:
 
 - **Never replace the original with a translation** where the original
   is doing evidential work — a claim about what a text *says* needs the
-  words it says it in.
+  words it says it in. In commentary body text that is case (b) above:
+  the wording carries the claim. A claim about what an author *argues*
+  does not need it.
 - **Gloss terms of art on first use** per document; repeats within the
   same file don't need re-glossing.
 - **Mark working renderings as such** rather than letting them read as
