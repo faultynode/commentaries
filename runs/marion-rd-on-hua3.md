@@ -54,7 +54,7 @@ Output: outputs/marion-rd-on-hua3-comparative-commentary.md
 
 ### Glossary (fixed for this run)
 
-- Translation rule: every German or French quotation carries an English rendering in the citation parenthesis or as an apposition; single quoted words count; a quotation repeated within one paragraph relies on its first rendering there. In the output English leads; in this run file the original leads.
+- Translation rule: every German or French quotation carries an English rendering in the citation parenthesis or as an apposition; single quoted words count; a quotation repeated within one paragraph relies on its first rendering there. In the output English leads; in this run file the original leads. Revised 2026-10-24 under the repo's standing rule (root `CLAUDE.md`): the output keeps original wording only for glossary terms and wording whose sense departs from the English in a way the argument turns on; everything else is quoted or paraphrased in English.
 - Marion *donation*: "givenness". Husserl *Gegebenheit*: "givenness"; *Gegebenheiten*: "givens"; *Selbstgegebenheit*: "self-givenness"; *Gegebenheitsweise* / *Gegebenheitsart*: "mode of givenness"; *gebend*, *originär gebend*: "giving", "originarily giving". Marion *donné*: "the given".
 - *Anschauung*: "intuition"; *Sehen*: "seeing"; *Wesensschau* / *Wesenserschauung*: "seeing of essences"; *Ideation*: "ideation"; *Evidenz*: "evidence"; *Einsicht*, *einsichtig*: "insight", "with insight"; *Rechtsquelle*: "source of right"; *leibhaft*: "in bodily presence" (Marion *charnel*: "fleshly", marked).
 - *Gegenstand*: "object"; *Gegenständlichkeit* (Marion *objectité*): "objectness"; *Objektivität* (Marion *objectivité*): "objectivity"; *Reales*, *Realität*: "the real", "reality" (thinglike); Marion *effectivité* (*Wirklichkeit*): "actuality".
@@ -95,3 +95,4 @@ Revision: 2026-10-20, chapter III written; guard 11 added.
 Revision: 2026-10-20, chapter IV written; guards 12-13 added; II.2 ¶2 and III.2 ¶2 amended (§43), §42 page numbers corrected from 96 to 88-89 in III.2 ¶2 and in the loci lists.
 Revision: 2026-10-20, chapter V written; guards 14-15 added.
 Revision: 2026-10-20, chapter VI and Les figures de la donation written; guard 16 added; run complete.
+Revision: 2026-10-24, original-language pass over the whole output (standing rule): about 420 French/German quotations rendered in English, about 180 kept; headings and citations unchanged.
