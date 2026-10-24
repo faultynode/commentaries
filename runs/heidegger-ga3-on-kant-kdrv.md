@@ -142,6 +142,19 @@ Output: outputs/heidegger-ga3-on-kant-kdrv-comparative-commentary.md
     self-cognition from inner sense). Kant's time "has only one dimension" (A 31/B 47). Mediation: Husserl's time lectures (ed.
     Heidegger, 1928) for just-now/right-away and *Vergegenwärtigung*. GA 41 175-176 explains the omitted "zugleich" in Kant's terms.
 
+18. **Fourth Section texts.** (Added 2026-10-23, §§36-45.) The three questions open the Canon's "ideal of the highest good"
+    (A 804-805/B 832-833); Kant's gloss: first "merely speculative ... already exhausted", second "not transcendental, but moral ... cannot
+    be in itself a subject for our critique", third "simultaneously practical and theoretical". GA 3 207's mapping onto cosmology/
+    psychology/theology is Heidegger's (Kant: A 334-335/B 391-392; freedom cosmological, A 533/B 561). The fourth question, the
+    *Logic* sentence and the *Anthropology* definition ("makes of himself", GA 3 208 unattributed) are outside the Critique (not in
+    corpus). A 848-849/B 876-877: empirical psychology banned from metaphysics, domicile in "a complete anthropology". A 838-839/B 866-867
+    cosmopolitan concept, *teleologia rationis humanae*. A 703/B 731 ("study of our inner nature", "duty for a philosopher") is about
+    examining illusion (Dialectic); GA 3 218 elides. A 834/B 862 (founder's description vs idea) uncited. A 598/B 626 (being not a real
+    predicate) uncited in §40. A 837/B 865 construction = mathematics (vs GA 3 233). B xxxiii-xxxiv: unpopular critique protects popular
+    convictions. A xiii: Kant claims completeness. B 145: divine understanding needs no categories (supports GA 3 229, 246). CPrR §3
+    Remark II, §7 Remark: happiness and imperative tied to finite rational beings. A 613/B 641 "true abyss" = unconditioned necessity.
+    Taft garbled at GA 3 228-229 and omits 246; GA 3 225 marginal note *bedingte Notwendigkeit* (Taft "conditional possibility").
+
 ### Glossary (fixed for this run)
 
 - Translation rule (user, 2026-10-23): quote Taft (Heidegger) and Guyer-Wood (Kant); German only for key terms or where the English
@@ -161,6 +174,9 @@ Output: outputs/heidegger-ga3-on-kant-kdrv-comparative-commentary.md
 - *Offenbarkeit*: "manifestness" (Taft "apparentness" at GA 3 13); *Enthülltheit*: "unveiledness".
 - *Transzendenz*: "transcendence" (Heidegger). Kant *transzendental* "transcendental", *transzendent* "transcendent".
 - *Überdeutung* (1973 preface): "overinterpretation". *Zuflucht*: "refuge". *Gewaltsamkeit*: "violence".
+- *Existenz*: "existence"; *Sorge*: "care"; *Befindlichkeit*: "attunement"; *Entwurf*: "projection"; *Geworfenheit*: "thrownness";
+  *Verfallen*: "falling"; *Wiedererinnerung*: "remembering again" (Taft). Kant's *Dasein* = existence (modal category, A 80/B 106);
+  Heidegger's "Dasein in man" is not Kant's term.
 - Retained untranslated: Dasein (being-there). Latin school terms kept: metaphysica generalis, metaphysica specialis, ens commune.
 
 ### Edition mappings
@@ -187,9 +203,9 @@ Output: outputs/heidegger-ga3-on-kant-kdrv-comparative-commentary.md
 - commentaries: none yet.
 
 ## Progress
-Last completed unit: Third Section, C, §35 ¶22-¶24 (GA 3, 203), with the Third Section verdict. Third Section complete.
-Unit counts: 1973 preface 6 units (¶1, ¶2, ¶3, ¶4, ¶5-9, ¶10-12); 1929 preface 5 (¶1-4, ¶5-6); 1950/1965 4 (¶1, ¶2, ¶3-4, ¶5-6); Introduction 6; First Section intro 1; §1 10; §2 9; §3 11; Second Section intro 2 (¶1, ¶2-3); A intro 1; §4 9; §5 19 (¶7-10 and ¶14-15 joined); §6 5; §7 7; §8 7; B intro 2; First Stage intro 1; §9 8 (¶4-5 joined); §10 10 (¶4-5, ¶11-12 joined); §11 9; §12 8; Second Stage intro 4; §13 4 (¶3-4 joined); §14 11; §15 8 (¶4-5, ¶8-9, ¶10-11 joined); Third Stage intro 4 (¶1-2 joined); §16 11 (¶2-3, ¶5-6, ¶12-13, ¶14-15 joined); §17 6 + first way 9 (¶1-2, ¶8-9 joined) + second way 7; §18 8 (¶3-4 joined); Fourth Stage intro 4 (¶1-2 joined); §19 7 (¶1-2, ¶6-7, ¶8-9 joined); §20 11; §21 9; §22 15; §23 9; Fifth Stage intro 1 (¶1-2); §24 10 (¶5-6, ¶10-11 joined); §25 13 (¶1-2, ¶3-4, ¶6-7, ¶9-10, ¶15-16 joined). Third Section intro 1 (¶1-2); §26 8; §27 7; B intro 6; §28 9; §29 18; §30 8; §31 19; C intro 3 (¶1-2, ¶4-5 joined); §32 8 (¶3-4, ¶5-6, ¶7-8 joined); §33 intro 4 (¶2-4, ¶5-6, ¶7-10 joined), a 3, b 4, c 7; §34 14; §35 12.
-Next: Fourth Section intro (GA 3, 204-205); A: §36, §37, §38; B: §39, §40, §41; C: §42, §43, §44, §45; Fourth Section verdict and a closing paragraph for the run (German l. ~7495 ff.; Taft l. ~3040 ff.; Commentary R l. ~1289 ff.). Kant loci to expect: A 805/B 833 three questions and Logic's fourth (not corpus), Anthropology (not corpus), A 840/B 868 teleologia rationis humanae, A 850/B 878 natural predisposition, B 21-22, A 235-236/B 294-295 island of truth, A 296/B 352, CPrR respect.
+Last completed unit: Fourth Section, C, §45 ¶17-¶19 (GA 3, 246), with the Fourth Section verdict and a closing paragraph for the run. RUN COMPLETE (Prefaces, Introduction, §§1-45; appendices excluded).
+Unit counts: 1973 preface 6 units (¶1, ¶2, ¶3, ¶4, ¶5-9, ¶10-12); 1929 preface 5 (¶1-4, ¶5-6); 1950/1965 4 (¶1, ¶2, ¶3-4, ¶5-6); Introduction 6; First Section intro 1; §1 10; §2 9; §3 11; Second Section intro 2 (¶1, ¶2-3); A intro 1; §4 9; §5 19 (¶7-10 and ¶14-15 joined); §6 5; §7 7; §8 7; B intro 2; First Stage intro 1; §9 8 (¶4-5 joined); §10 10 (¶4-5, ¶11-12 joined); §11 9; §12 8; Second Stage intro 4; §13 4 (¶3-4 joined); §14 11; §15 8 (¶4-5, ¶8-9, ¶10-11 joined); Third Stage intro 4 (¶1-2 joined); §16 11 (¶2-3, ¶5-6, ¶12-13, ¶14-15 joined); §17 6 + first way 9 (¶1-2, ¶8-9 joined) + second way 7; §18 8 (¶3-4 joined); Fourth Stage intro 4 (¶1-2 joined); §19 7 (¶1-2, ¶6-7, ¶8-9 joined); §20 11; §21 9; §22 15; §23 9; Fifth Stage intro 1 (¶1-2); §24 10 (¶5-6, ¶10-11 joined); §25 13 (¶1-2, ¶3-4, ¶6-7, ¶9-10, ¶15-16 joined). Third Section intro 1 (¶1-2); §26 8; §27 7; B intro 6; §28 9; §29 18; §30 8; §31 19; C intro 3 (¶1-2, ¶4-5 joined); §32 8 (¶3-4, ¶5-6, ¶7-8 joined); §33 intro 4 (¶2-4, ¶5-6, ¶7-10 joined), a 3, b 4, c 7; §34 14; §35 12. Fourth Section intro 1 (¶1-3); §36 6; §37 4; §38 8; B intro 1; §39 2; §40 4; §41 5; C intro 1; §42 3; §43 5; §44 5; §45 9.
+Next: none. Possible follow-ups: corpus flag for the Taft file (garbled at GA 3 228-229; §45 page 246 missing; GA 3 225 marginal note mistranslated).
 Revision: 2026-10-23, run opened; guards 1-10 set; Prefaces, Introduction and First Section written.
 Revision: 2026-10-23, Second Section A (§§4-8) written. Closing paragraph for part A added although A is not a top-level division (the Second Section is long; a full Second Section verdict follows §25).
 Revision: 2026-10-23, Second Section B, First and Second Stages (§§9-15) written; guards 11-12 added; §8 ¶6 corrected (Heidegger quotes A 65/B 90 at §11, 55).
@@ -198,3 +214,4 @@ Revision: 2026-10-23, Fourth Stage (§§19-23) written; guard 14 added.
 Revision: 2026-10-23, Fifth Stage (§§24-25) and Second Section verdict written; guard 15 added.
 Revision: 2026-10-23, Third Section A-B (§§26-31) written; guard 16 added; Fourth Stage units amended (§29 quotes 'Schematismus unseres Verstandes'); §9 ¶2 and §13 ¶3-4 corrected (ens imaginarium cited in §28; A 94 quoted in §27).
 Revision: 2026-10-23, Third Section C (§§32-35) and Third Section verdict written; guard 17 added.
+Revision: 2026-10-23, Fourth Section (§§36-45), Fourth Section verdict and run-closing paragraph written; guard 18 added; run complete.
