@@ -1370,9 +1370,11 @@
 *Where the theme's terms occur but no extraction pass has run. Silence in the sections above is silence about these files, not evidence of absence in them.*
 
 - `husserliana-10-inneres-zeitbewusstsein-commentary` - 654 term hits, no record
+- `husserl-hua15-commentary` - 294 term hits, no record
 - `heidegger-ga-26-metaphysische-anfangsgruende-der-logik-commentary` - 223 term hits, no record
 - `kojeve-introduction-a-la-lecture-de-hegel-commentary` - 221 term hits, no record
 - `henry-phenomenologie-de-la-vie-1-commentary` - 79 term hits, no record
+- `husserliana-14-zur-phanomenologie-der-intersubjektivitat-zweiter-teil-19211928-commentary` - 68 term hits, no record
 - `husserl-transzendentaler-idealismus-commentary` - 57 term hits, no record
 - `husserliana-4-ideas-ii-commentary` - 50 term hits, no record
 - `henry-phenomenologie-de-la-vie-2-commentary` - 38 term hits, no record

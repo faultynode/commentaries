@@ -6,7 +6,7 @@ A comparative pair (the reading text R takes up the read text P) needs an inheri
 
 ## Runs
 
-- `runs/heidegger-ga3-on-kant-kdrv.md` - `heidegger-ga-3-kant-und-das-problem-der-metaphysik-commentary` reads `kant-kritik-der-reinen-vernunft-commentary`. Last completed unit: Second Section complete: Fifth Stage §25 ¶17 (GA 3, 125), with the Second Section's closing verdict.
+- `runs/heidegger-ga3-on-kant-kdrv.md` - `heidegger-ga-3-kant-und-das-problem-der-metaphysik-commentary` reads `kant-kritik-der-reinen-vernunft-commentary`. Last completed unit: Third Section, B, §31 ¶23 (GA 3, 171), with a closing paragraph for parts A-B of the Third Section.
 - `runs/henry-genealogie-on-hga3.md` - `henry-genealogie-de-la-psychanalyse-commentary` reads `heidegger-ga-3-kant-und-das-problem-der-metaphysik-commentary`. Last completed unit: Chapter IV, R ¶54 (p. 157), with its closing paragraph; Chapter III (R ¶1 p. 87 to ¶64 p. 123) with its closing paragraph, added 2026-10-19. Range complete. Chapter III is read f…
 - `runs/henry-on-hga3.md` - `henry-the-essence-of-manifestation-commentary` reads `heidegger-ga-3-kant-und-das-problem-der-metaphysik-commentary`. Last completed unit: Appendix, §77, with closing paragraph (Section II complete with its closing paragraph; Appendix read by section; range complete; edition has no page numbers)
 - `runs/henry-on-hga5.md` - `henry-the-essence-of-manifestation-commentary` reads `heidegger-ga-5-hegels-begriff-der-erfahrung-commentary`. Last completed unit: run complete (2026-10-08). Section I §§8-16 (113 units, closing paragraph); Section II §§17-21 (41 units: §17 13, §18 9, §19 6, §20 6, §21 7) and §28 ¶8, with the Section II clos…
@@ -25,7 +25,9 @@ Reception commentaries are reading texts by definition. Each needs a Stage 3 pas
 With no entry, a commentary's role (primary or reception) is unrecorded, so it cannot be told apart as R or P, and a pair with it cannot be dated.
 
 - [ ] `bergson-essai-sur-les-donnees-immediates-commentary`
+- [ ] `husserl-hua15-commentary`
 - [ ] `husserl-transzendentaler-idealismus-commentary`
+- [ ] `husserliana-14-zur-phanomenologie-der-intersubjektivitat-zweiter-teil-19211928-commentary`
 
 ## What the records name
 
@@ -73,4 +75,4 @@ Ranked by `scripts/comparative_candidates.py`: engagements weighted by mode (des
 - [ ] `marion-reduction-et-donation-commentary` reads `husserliana-19-2-sixth-logical-investigation-commentary` - score 27.5 · 9 engagements (5 polemical-rejection, 3 destructive-appropriation, 1 acknowledged-debt) · names *Logical Investigations*
 - [ ] `franck-chair-et-corps-commentary` reads `heidegger-being-and-time-commentary` - score 23.0 · 5 engagements (3 acknowledged-debt, 2 polemical-rejection) · names *Being and Time*; *Time and Being*
 - [ ] `kern-husserl-and-kant-commentary` reads `kant-kritik-der-reinen-vernunft-commentary` - score 18.0 · 7 engagements (2 acknowledged-debt, 2 polemical-rejection, 2 terminological-borrowing, 1 destructive-appropriation) · names *Kritik der reinen Vernunft*
-- ... 457 more; see `comparative_candidates.py --all`
+- ... 479 more; see `comparative_candidates.py --all`

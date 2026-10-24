@@ -1,3 +1,8 @@
+---
+redirect_from:
+  - "/commentaries/husserl/Hua15 Commentary.html"
+---
+
 # Commentary on Husserl, *Zur Phänomenologie der Intersubjektivität. Texte aus dem Nachlass. Dritter Teil: 1929–1935* (Hua XV)
 
 Citations give the Husserliana XV pagination (ed. Iso Kern, 1973). Kern's editor's introduction (XV–LXX) is blank in the scan used, so the commentary begins with Husserl's texts. Titles in the volume enclosed in angle brackets are Kern's; they are reproduced here in translation like Husserl's own. Retained terms: ego, alter ego, epoché, monad, eidos, cogito. Fixed renderings: Eigenheit/Eigenes as ownness/what is my own; Fremderfahrung as experience of the other; Einfühlung as empathy; Vergegenwärtigung as presentification; Appräsentation as appresentation; Leib and Körper as lived body and physical body; Paarung as pairing; Bekundung as manifestation; primordinal (Husserl's 1929 spelling) and primordial are kept as he writes them.

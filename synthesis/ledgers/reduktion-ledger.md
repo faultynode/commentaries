@@ -1470,11 +1470,13 @@
 *Where the theme's terms occur but no extraction pass has run. Silence in the sections above is silence about these files, not evidence of absence in them.*
 
 - `husserliana-8-erste-philosophie-ii-commentary` - 393 term hits, no record
+- `husserl-hua15-commentary` - 289 term hits, no record
 - `henry-phenomenologie-de-la-vie-1-commentary` - 153 term hits, no record
 - `marion-reduction-et-donation-commentary` - 124 term hits, no record
 - `henry-phenomenologie-de-la-vie-2-commentary` - 115 term hits, no record
 - `henry-genealogie-de-la-psychanalyse-commentary` - 102 term hits, no record
 - `husserl-transzendentaler-idealismus-commentary` - 88 term hits, no record
+- `husserliana-14-zur-phanomenologie-der-intersubjektivitat-zweiter-teil-19211928-commentary` - 40 term hits, no record
 - `heidegger-ga-26-metaphysische-anfangsgruende-der-logik-commentary` - 36 term hits, no record
 - `kojeve-introduction-a-la-lecture-de-hegel-commentary` - 36 term hits, no record
 - `husserliana-4-ideas-ii-commentary` - 21 term hits, no record

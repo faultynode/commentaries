@@ -309,6 +309,7 @@
 - `henry-the-essence-of-manifestation-commentary` - 227 term hits, no record
 - `bernet-la-vie-du-sujet-commentary` - 138 term hits, no record
 - `marion-sur-le-prisme-metaphysique-de-descartes-commentary` - 83 term hits, no record
+- `husserl-hua15-commentary` - 79 term hits, no record
 - `kant-kritik-der-reinen-vernunft-commentary` - 75 term hits, no record
 - `husserl-thing-and-space-commentary` - 66 term hits, no record
 - `husserliana-3-ideas-i-parts-3-4-commentary` - 65 term hits, no record
@@ -316,6 +317,7 @@
 - `husserliana-7-erste-philosophie-i-commentary` - 60 term hits, no record
 - `marion-reduction-et-donation-commentary` - 60 term hits, no record
 - `heidegger-ga-26-metaphysische-anfangsgruende-der-logik-commentary` - 59 term hits, no record
+- `husserliana-14-zur-phanomenologie-der-intersubjektivitat-zweiter-teil-19211928-commentary` - 59 term hits, no record
 - `lacan-seminar-11-the-four-fundamental-concepts-of-psychoanalysis-commentary` - 51 term hits, no record
 - `lacan-seminar-1-freuds-papers-on-technique-commentary` - 50 term hits, no record
 - `descartes-meditationes-de-prima-philosophia-commentary` - 47 term hits, no record

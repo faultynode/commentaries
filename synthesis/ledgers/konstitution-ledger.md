@@ -1842,6 +1842,8 @@
 
 *Where the theme's terms occur but no extraction pass has run. Silence in the sections above is silence about these files, not evidence of absence in them.*
 
+- `husserl-hua15-commentary` - 932 term hits, no record
+- `husserliana-14-zur-phanomenologie-der-intersubjektivitat-zweiter-teil-19211928-commentary` - 460 term hits, no record
 - `husserliana-10-inneres-zeitbewusstsein-commentary` - 265 term hits, no record
 - `husserl-transzendentaler-idealismus-commentary` - 163 term hits, no record
 - `henry-genealogie-de-la-psychanalyse-commentary` - 135 term hits, no record
