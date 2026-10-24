@@ -1733,6 +1733,7 @@
 *Where the theme's terms occur but no extraction pass has run. Silence in the sections above is silence about these files, not evidence of absence in them.*
 
 - `kojeve-introduction-a-la-lecture-de-hegel-commentary` - 418 term hits, no record
+- `husserl-transzendentaler-idealismus-commentary` - 351 term hits, no record
 - `henry-genealogie-de-la-psychanalyse-commentary` - 263 term hits, no record
 - `heidegger-ga-3-kant-und-das-problem-der-metaphysik-commentary` - 226 term hits, no record
 - `husserliana-10-inneres-zeitbewusstsein-commentary` - 226 term hits, no record

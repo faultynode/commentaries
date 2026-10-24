@@ -1474,6 +1474,7 @@
 - `marion-reduction-et-donation-commentary` - 124 term hits, no record
 - `henry-phenomenologie-de-la-vie-2-commentary` - 115 term hits, no record
 - `henry-genealogie-de-la-psychanalyse-commentary` - 102 term hits, no record
+- `husserl-transzendentaler-idealismus-commentary` - 88 term hits, no record
 - `heidegger-ga-26-metaphysische-anfangsgruende-der-logik-commentary` - 36 term hits, no record
 - `kojeve-introduction-a-la-lecture-de-hegel-commentary` - 36 term hits, no record
 - `husserliana-4-ideas-ii-commentary` - 21 term hits, no record

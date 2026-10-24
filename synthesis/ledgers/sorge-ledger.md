@@ -324,6 +324,7 @@
 - `husserliana-28-vorlesungen-uber-ethik-und-wertlehre-commentary` - 44 term hits, no record
 - `heidegger-ga-3-kant-und-das-problem-der-metaphysik-commentary` - 41 term hits, no record
 - `henry-genealogie-de-la-psychanalyse-commentary` - 41 term hits, no record
+- `husserl-transzendentaler-idealismus-commentary` - 41 term hits, no record
 - `husserliana-8-erste-philosophie-ii-commentary` - 41 term hits, no record
 - `derrida-introduction-a-lorigine-de-la-geometrie-commentary` - 39 term hits, no record
 - `husserliana-26-theory-of-meaning-commentary` - 37 term hits, no record

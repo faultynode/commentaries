@@ -1,3 +1,8 @@
+---
+redirect_from:
+  - "/commentaries/husserl/Husserl - Transzendentaler Idealismus Commentary.html"
+---
+
 # Husserl, Transzendentaler Idealismus: Texte aus dem Nachlass (1908–1921), Husserliana XXXVI — Commentary
 
 References give page and line of Hua XXXVI (e.g. 7.34–8.2); the editors' introduction, which has no line numbering, is cited by its roman page numbers. Ideen I is cited by section number, with Hua III/1 pages where useful. The second section of Ideen I, the "phenomenological fundamental consideration" (§§27–62), is the reference point throughout: its first chapter (§§27–32) describes the natural attitude and suspends its general thesis; its second (§§33–46) contrasts the being of consciousness with the being of the real; its third (§§47–55) draws from that contrast the thesis that the real world is dependent on actual consciousness while consciousness is absolute; its fourth (§§56–62) fixes the reach of the reductions. The texts of this volume are the workshop in which that argument was forged, and the commentary marks, unit by unit, which of its pieces each text supplies.

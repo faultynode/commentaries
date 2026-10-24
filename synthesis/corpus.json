@@ -29393,6 +29393,533 @@
       ]
     },
     {
+      "slug": "husserl-transzendentaler-idealismus-commentary",
+      "path": "commentaries/husserl/husserl-transzendentaler-idealismus-commentary.md",
+      "author": "husserl",
+      "title": "Husserl, Transzendentaler Idealismus: Texte aus dem Nachlass (1908–1921), Husserliana XXXVI — Commentary",
+      "wordpress_id": null,
+      "sha256": "4a524fdf0d2eb49a394200e28831ef4097c541154cd06c5d4b228d7020c8688a",
+      "lines": 1047,
+      "words": 88572,
+      "url": "https://faultynode.github.io/commentaries/commentaries/husserl/husserl-transzendentaler-idealismus-commentary.html",
+      "sections": [
+        {
+          "id": "h1-husserl-transzendentaler-idealismus-texte-aus-dem-nachlass-1908-1921-husserliana",
+          "level": 1,
+          "title": "Husserl, Transzendentaler Idealismus: Texte aus dem Nachlass (1908–1921), Husserliana XXXVI — Commentary",
+          "path": [
+            "Husserl, Transzendentaler Idealismus: Texte aus dem Nachlass (1908–1921), Husserliana XXXVI — Commentary"
+          ],
+          "anchor": "husserl-transzendentaler-idealismus-texte-aus-dem-nachlass-19081921-husserliana-xxxvi--commentary",
+          "line_start": 6,
+          "line_end": 11,
+          "words": 324
+        },
+        {
+          "id": "h2-introduction-by-the-editors-robin-d-rollinger-and-rochus-sowa",
+          "level": 2,
+          "title": "Introduction by the Editors (Robin D. Rollinger and Rochus Sowa)",
+          "path": [
+            "Husserl, Transzendentaler Idealismus: Texte aus dem Nachlass (1908–1921), Husserliana XXXVI — Commentary",
+            "Introduction by the Editors (Robin D. Rollinger and Rochus Sowa)"
+          ],
+          "anchor": "introduction-by-the-editors-robin-d-rollinger-and-rochus-sowa",
+          "line_start": 12,
+          "line_end": 89,
+          "words": 8061
+        },
+        {
+          "id": "h2-no-1-the-problem-of-constitution-perception-as-immediate-givenness-the-sphere-of",
+          "level": 2,
+          "title": "No. 1. The Problem of Constitution. Perception as Immediate Givenness. The Sphere of the Cogitationes as the Fundamental Sphere. The Problem of the Legitimation of the Actual World in the Cogitationes. The Distinction between Truths of Essence and Truths of Fact",
+          "path": [
+            "Husserl, Transzendentaler Idealismus: Texte aus dem Nachlass (1908–1921), Husserliana XXXVI — Commentary",
+            "No. 1. The Problem of Constitution. Perception as Immediate Givenness. The Sphere of the Cogitationes as the Fundamental Sphere. The Problem of the Legitimation of the Actual World in the Cogitationes. The Distinction between Truths of Essence and Truths of Fact"
+          ],
+          "anchor": "no-1-the-problem-of-constitution-perception-as-immediate-givenness-the-sphere-of-the-cogitationes-as-the-fundamental-sphere-the-problem-of-the-legitimation-of-the-actual-world-in-the-cogitationes-the-distinction-between-truths-of-essence-and-truths-of-fact",
+          "line_start": 90,
+          "line_end": 181,
+          "words": 6104
+        },
+        {
+          "id": "h2-no-2-the-epistemologist-and-the-metaphysician-the-problem-of-epistemology-the-di",
+          "level": 2,
+          "title": "No. 2. The Epistemologist and the Metaphysician. The Problem of Epistemology. The \"Dissolution\" of Empirical \"Being\" into Connections of Absolute Consciousness",
+          "path": [
+            "Husserl, Transzendentaler Idealismus: Texte aus dem Nachlass (1908–1921), Husserliana XXXVI — Commentary",
+            "No. 2. The Epistemologist and the Metaphysician. The Problem of Epistemology. The \"Dissolution\" of Empirical \"Being\" into Connections of Absolute Consciousness"
+          ],
+          "anchor": "no-2-the-epistemologist-and-the-metaphysician-the-problem-of-epistemology-the-dissolution-of-empirical-being-into-connections-of-absolute-consciousness",
+          "line_start": 182,
+          "line_end": 263,
+          "words": 6678
+        },
+        {
+          "id": "h2-appendix-i-on-establishing-epistemology-the-immediate-givenness-of-real-transcen",
+          "level": 2,
+          "title": "Appendix I. On Establishing Epistemology. The Immediate Givenness of Real Transcendent Objects in External Perception. Critique of the Inference Theory of External Perception. The Legitimation of All Being in Thought",
+          "path": [
+            "Husserl, Transzendentaler Idealismus: Texte aus dem Nachlass (1908–1921), Husserliana XXXVI — Commentary",
+            "Appendix I. On Establishing Epistemology. The Immediate Givenness of Real Transcendent Objects in External Perception. Critique of the Inference Theory of External Perception. The Legitimation of All Being in Thought"
+          ],
+          "anchor": "appendix-i-on-establishing-epistemology-the-immediate-givenness-of-real-transcendent-objects-in-external-perception-critique-of-the-inference-theory-of-external-perception-the-legitimation-of-all-being-in-thought",
+          "line_start": 264,
+          "line_end": 291,
+          "words": 2023
+        },
+        {
+          "id": "h2-appendix-ii-problems-of-transcendence-the-problem-of-external-perception-the-ana",
+          "level": 2,
+          "title": "Appendix II. Problems of Transcendence. The Problem of External Perception. The Analogous Difficulties of Self-Knowledge. The False Ideal of Immanent Perception of the Transcendent and the Inference Theory of Perception. The Riddle of Knowledge of an In-Itself",
+          "path": [
+            "Husserl, Transzendentaler Idealismus: Texte aus dem Nachlass (1908–1921), Husserliana XXXVI — Commentary",
+            "Appendix II. Problems of Transcendence. The Problem of External Perception. The Analogous Difficulties of Self-Knowledge. The False Ideal of Immanent Perception of the Transcendent and the Inference Theory of Perception. The Riddle of Knowledge of an In-Itself"
+          ],
+          "anchor": "appendix-ii-problems-of-transcendence-the-problem-of-external-perception-the-analogous-difficulties-of-self-knowledge-the-false-ideal-of-immanent-perception-of-the-transcendent-and-the-inference-theory-of-perception-the-riddle-of-knowledge-of-an-in-itself",
+          "line_start": 292,
+          "line_end": 321,
+          "words": 2304
+        },
+        {
+          "id": "h2-appendix-iii-the-problems-of-epistemology-perception-as-givenness-of-the-transce",
+          "level": 2,
+          "title": "Appendix III. The Problems of Epistemology. Perception as Givenness of the Transcendent, and Natural Science. Hume's Problem of the Thing. Problems of A Priori Knowledge. Questions",
+          "path": [
+            "Husserl, Transzendentaler Idealismus: Texte aus dem Nachlass (1908–1921), Husserliana XXXVI — Commentary",
+            "Appendix III. The Problems of Epistemology. Perception as Givenness of the Transcendent, and Natural Science. Hume's Problem of the Thing. Problems of A Priori Knowledge. Questions"
+          ],
+          "anchor": "appendix-iii-the-problems-of-epistemology-perception-as-givenness-of-the-transcendent-and-natural-science-humes-problem-of-the-thing-problems-of-a-priori-knowledge-questions",
+          "line_start": 322,
+          "line_end": 353,
+          "words": 2363
+        },
+        {
+          "id": "h2-no-3-considerations-of-variation-exhibition-of-the-functional-dependence-of-the",
+          "level": 2,
+          "title": "No. 3. Considerations of Variation: Exhibition of the Functional Dependence of the Correlates \"Consciousness\" and \"World\". Proof of Phenomenological Idealism on the Basis of the Distinction between Real and Merely Logical Possibilities",
+          "path": [
+            "Husserl, Transzendentaler Idealismus: Texte aus dem Nachlass (1908–1921), Husserliana XXXVI — Commentary",
+            "No. 3. Considerations of Variation: Exhibition of the Functional Dependence of the Correlates \"Consciousness\" and \"World\". Proof of Phenomenological Idealism on the Basis of the Distinction between Real and Merely Logical Possibilities"
+          ],
+          "anchor": "no-3-considerations-of-variation-exhibition-of-the-functional-dependence-of-the-correlates-consciousness-and-world-proof-of-phenomenological-idealism-on-the-basis-of-the-distinction-between-real-and-merely-logical-possibilities",
+          "line_start": 354,
+          "line_end": 393,
+          "words": 3093
+        },
+        {
+          "id": "h3-proof-of-phenomenological-idealism-carried-out-more-closely-and-correctly",
+          "level": 3,
+          "title": "Proof of Phenomenological Idealism, Carried Out More Closely and Correctly",
+          "path": [
+            "Husserl, Transzendentaler Idealismus: Texte aus dem Nachlass (1908–1921), Husserliana XXXVI — Commentary",
+            "No. 3. Considerations of Variation: Exhibition of the Functional Dependence of the Correlates \"Consciousness\" and \"World\". Proof of Phenomenological Idealism on the Basis of the Distinction between Real and Merely Logical Possibilities",
+            "Proof of Phenomenological Idealism, Carried Out More Closely and Correctly"
+          ],
+          "anchor": "proof-of-phenomenological-idealism-carried-out-more-closely-and-correctly",
+          "line_start": 394,
+          "line_end": 405,
+          "words": 862
+        },
+        {
+          "id": "h2-no-4-esse-and-percipi-unity-and-manifold-immanent-being-and-transcendent-being-i",
+          "level": 2,
+          "title": "No. 4. Esse and Percipi. Unity and Manifold. Immanent Being and Transcendent Being. Immanent Being and the \"Flow of Absolute Consciousness\". The Natural Object and the Manifolds. Immanence in the Narrower and the Wider Sense",
+          "path": [
+            "Husserl, Transzendentaler Idealismus: Texte aus dem Nachlass (1908–1921), Husserliana XXXVI — Commentary",
+            "No. 4. Esse and Percipi. Unity and Manifold. Immanent Being and Transcendent Being. Immanent Being and the \"Flow of Absolute Consciousness\". The Natural Object and the Manifolds. Immanence in the Narrower and the Wider Sense"
+          ],
+          "anchor": "no-4-esse-and-percipi-unity-and-manifold-immanent-being-and-transcendent-being-immanent-being-and-the-flow-of-absolute-consciousness-the-natural-object-and-the-manifolds-immanence-in-the-narrower-and-the-wider-sense",
+          "line_start": 406,
+          "line_end": 461,
+          "words": 4919
+        },
+        {
+          "id": "h2-no-5-on-transcendental-idealism-from-the-lecture-course-nature-and-spirit-summer",
+          "level": 2,
+          "title": "No. 5. On Transcendental Idealism. From the Lecture Course \"Nature and Spirit\", Summer Semester 1913",
+          "path": [
+            "Husserl, Transzendentaler Idealismus: Texte aus dem Nachlass (1908–1921), Husserliana XXXVI — Commentary",
+            "No. 5. On Transcendental Idealism. From the Lecture Course \"Nature and Spirit\", Summer Semester 1913"
+          ],
+          "anchor": "no-5-on-transcendental-idealism-from-the-lecture-course-nature-and-spirit-summer-semester-1913",
+          "line_start": 462,
+          "line_end": 499,
+          "words": 3117
+        },
+        {
+          "id": "h2-no-6-from-the-lecture-course-selected-problems-of-phenomenology-summer-semester",
+          "level": 2,
+          "title": "No. 6. From the Lecture Course \"Selected Problems of Phenomenology\", Summer Semester 1915",
+          "path": [
+            "Husserl, Transzendentaler Idealismus: Texte aus dem Nachlass (1908–1921), Husserliana XXXVI — Commentary",
+            "No. 6. From the Lecture Course \"Selected Problems of Phenomenology\", Summer Semester 1915"
+          ],
+          "anchor": "no-6-from-the-lecture-course-selected-problems-of-phenomenology-summer-semester-1915",
+          "line_start": 500,
+          "line_end": 501,
+          "words": 0
+        },
+        {
+          "id": "h3-s-1-the-opposition-of-immanence-and-transcendence-the-relevance-of-the-eidetic-d",
+          "level": 3,
+          "title": "§ 1. The Opposition of Immanence and Transcendence. The Relevance of the Eidetic Discussions Concerning It for Fixing the Field of Phenomenology",
+          "path": [
+            "Husserl, Transzendentaler Idealismus: Texte aus dem Nachlass (1908–1921), Husserliana XXXVI — Commentary",
+            "No. 6. From the Lecture Course \"Selected Problems of Phenomenology\", Summer Semester 1915",
+            "§ 1. The Opposition of Immanence and Transcendence. The Relevance of the Eidetic Discussions Concerning It for Fixing the Field of Phenomenology"
+          ],
+          "anchor": "the-opposition-of-immanence-and-transcendence-the-relevance-of-the-eidetic-discussions-concerning-it-for-fixing-the-field-of-phenomenology",
+          "line_start": 502,
+          "line_end": 523,
+          "words": 1738
+        },
+        {
+          "id": "h3-s-2-rational-consciousness-and-its-relation-to-transcendent-being-as-a-phenomeno",
+          "level": 3,
+          "title": "§ 2. Rational Consciousness and Its Relation to Transcendent Being as a Phenomenological Problem. External Perception as the Ultimate Source of Right for All Rational Assertions about Transcendent Things",
+          "path": [
+            "Husserl, Transzendentaler Idealismus: Texte aus dem Nachlass (1908–1921), Husserliana XXXVI — Commentary",
+            "No. 6. From the Lecture Course \"Selected Problems of Phenomenology\", Summer Semester 1915",
+            "§ 2. Rational Consciousness and Its Relation to Transcendent Being as a Phenomenological Problem. External Perception as the Ultimate Source of Right for All Rational Assertions about Transcendent Things"
+          ],
+          "anchor": "rational-consciousness-and-its-relation-to-transcendent-being-as-a-phenomenological-problem-external-perception-as-the-ultimate-source-of-right-for-all-rational-assertions-about-transcendent-things",
+          "line_start": 524,
+          "line_end": 537,
+          "words": 1135
+        },
+        {
+          "id": "h3-s-3-primary-and-secondary-qualities-levels-of-transcendence-the-transcendence-of",
+          "level": 3,
+          "title": "§ 3. Primary and Secondary Qualities. Levels of Transcendence: The Transcendence of the Perceptual Thing and That of the Physical Thing",
+          "path": [
+            "Husserl, Transzendentaler Idealismus: Texte aus dem Nachlass (1908–1921), Husserliana XXXVI — Commentary",
+            "No. 6. From the Lecture Course \"Selected Problems of Phenomenology\", Summer Semester 1915",
+            "§ 3. Primary and Secondary Qualities. Levels of Transcendence: The Transcendence of the Perceptual Thing and That of the Physical Thing"
+          ],
+          "anchor": "primary-and-secondary-qualities-levels-of-transcendence-the-transcendence-of-the-perceptual-thing-and-that-of-the-physical-thing",
+          "line_start": 538,
+          "line_end": 563,
+          "words": 1946
+        },
+        {
+          "id": "h3-s-4-the-pure-essence-of-perception",
+          "level": 3,
+          "title": "§ 4. The Pure Essence of Perception",
+          "path": [
+            "Husserl, Transzendentaler Idealismus: Texte aus dem Nachlass (1908–1921), Husserliana XXXVI — Commentary",
+            "No. 6. From the Lecture Course \"Selected Problems of Phenomenology\", Summer Semester 1915",
+            "§ 4. The Pure Essence of Perception"
+          ],
+          "anchor": "the-pure-essence-of-perception",
+          "line_start": 564,
+          "line_end": 565,
+          "words": 0
+        },
+        {
+          "id": "h4-a-the-givenness-of-the-thing-in-orientations",
+          "level": 4,
+          "title": "a) The Givenness of the Thing in Orientations",
+          "path": [
+            "Husserl, Transzendentaler Idealismus: Texte aus dem Nachlass (1908–1921), Husserliana XXXVI — Commentary",
+            "No. 6. From the Lecture Course \"Selected Problems of Phenomenology\", Summer Semester 1915",
+            "§ 4. The Pure Essence of Perception",
+            "a) The Givenness of the Thing in Orientations"
+          ],
+          "anchor": "a-the-givenness-of-the-thing-in-orientations",
+          "line_start": 566,
+          "line_end": 579,
+          "words": 1047
+        },
+        {
+          "id": "h4-b-what-is-properly-given-and-what-is-merely-co-meant",
+          "level": 4,
+          "title": "b) What Is Properly Given and What Is Merely Co-Meant",
+          "path": [
+            "Husserl, Transzendentaler Idealismus: Texte aus dem Nachlass (1908–1921), Husserliana XXXVI — Commentary",
+            "No. 6. From the Lecture Course \"Selected Problems of Phenomenology\", Summer Semester 1915",
+            "§ 4. The Pure Essence of Perception",
+            "b) What Is Properly Given and What Is Merely Co-Meant"
+          ],
+          "anchor": "b-what-is-properly-given-and-what-is-merely-co-meant",
+          "line_start": 580,
+          "line_end": 599,
+          "words": 1895
+        },
+        {
+          "id": "h4-c-real-content-and-intentional-object",
+          "level": 4,
+          "title": "c) Real Content and Intentional Object",
+          "path": [
+            "Husserl, Transzendentaler Idealismus: Texte aus dem Nachlass (1908–1921), Husserliana XXXVI — Commentary",
+            "No. 6. From the Lecture Course \"Selected Problems of Phenomenology\", Summer Semester 1915",
+            "§ 4. The Pure Essence of Perception",
+            "c) Real Content and Intentional Object"
+          ],
+          "anchor": "c-real-content-and-intentional-object",
+          "line_start": 600,
+          "line_end": 617,
+          "words": 1551
+        },
+        {
+          "id": "h3-s-5-the-peculiar-character-of-the-thing-s-transcendence",
+          "level": 3,
+          "title": "§ 5. The Peculiar Character of the Thing's Transcendence",
+          "path": [
+            "Husserl, Transzendentaler Idealismus: Texte aus dem Nachlass (1908–1921), Husserliana XXXVI — Commentary",
+            "No. 6. From the Lecture Course \"Selected Problems of Phenomenology\", Summer Semester 1915",
+            "§ 5. The Peculiar Character of the Thing's Transcendence"
+          ],
+          "anchor": "the-peculiar-character-of-the-things-transcendence",
+          "line_start": 618,
+          "line_end": 625,
+          "words": 672
+        },
+        {
+          "id": "h3-s-6-critique-of-the-image-and-sign-theory",
+          "level": 3,
+          "title": "§ 6. Critique of the Image and Sign Theory",
+          "path": [
+            "Husserl, Transzendentaler Idealismus: Texte aus dem Nachlass (1908–1921), Husserliana XXXVI — Commentary",
+            "No. 6. From the Lecture Course \"Selected Problems of Phenomenology\", Summer Semester 1915",
+            "§ 6. Critique of the Image and Sign Theory"
+          ],
+          "anchor": "critique-of-the-image-and-sign-theory",
+          "line_start": 626,
+          "line_end": 635,
+          "words": 752
+        },
+        {
+          "id": "h3-s-7-the-mode-of-being-of-experiences-of-consciousness-and-the-mode-of-being-of-r",
+          "level": 3,
+          "title": "§ 7. The Mode of Being of Experiences of Consciousness and the Mode of Being of Real Things",
+          "path": [
+            "Husserl, Transzendentaler Idealismus: Texte aus dem Nachlass (1908–1921), Husserliana XXXVI — Commentary",
+            "No. 6. From the Lecture Course \"Selected Problems of Phenomenology\", Summer Semester 1915",
+            "§ 7. The Mode of Being of Experiences of Consciousness and the Mode of Being of Real Things"
+          ],
+          "anchor": "the-mode-of-being-of-experiences-of-consciousness-and-the-mode-of-being-of-real-things",
+          "line_start": 636,
+          "line_end": 645,
+          "words": 954
+        },
+        {
+          "id": "h3-s-8-statements-about-reality-as-statements-about-consciousness",
+          "level": 3,
+          "title": "§ 8. Statements about Reality as Statements about Consciousness",
+          "path": [
+            "Husserl, Transzendentaler Idealismus: Texte aus dem Nachlass (1908–1921), Husserliana XXXVI — Commentary",
+            "No. 6. From the Lecture Course \"Selected Problems of Phenomenology\", Summer Semester 1915",
+            "§ 8. Statements about Reality as Statements about Consciousness"
+          ],
+          "anchor": "statements-about-reality-as-statements-about-consciousness",
+          "line_start": 646,
+          "line_end": 653,
+          "words": 802
+        },
+        {
+          "id": "h3-s-9-the-dependence-of-reality-on-an-actual-ego",
+          "level": 3,
+          "title": "§ 9. The Dependence of Reality on an Actual Ego",
+          "path": [
+            "Husserl, Transzendentaler Idealismus: Texte aus dem Nachlass (1908–1921), Husserliana XXXVI — Commentary",
+            "No. 6. From the Lecture Course \"Selected Problems of Phenomenology\", Summer Semester 1915",
+            "§ 9. The Dependence of Reality on an Actual Ego"
+          ],
+          "anchor": "the-dependence-of-reality-on-an-actual-ego",
+          "line_start": 654,
+          "line_end": 671,
+          "words": 1645
+        },
+        {
+          "id": "h3-s-10-the-world-and-its-legitimation-in-a-connection-of-experience",
+          "level": 3,
+          "title": "§ 10. The World and Its Legitimation in a Connection of Experience",
+          "path": [
+            "Husserl, Transzendentaler Idealismus: Texte aus dem Nachlass (1908–1921), Husserliana XXXVI — Commentary",
+            "No. 6. From the Lecture Course \"Selected Problems of Phenomenology\", Summer Semester 1915",
+            "§ 10. The World and Its Legitimation in a Connection of Experience"
+          ],
+          "anchor": "the-world-and-its-legitimation-in-a-connection-of-experience",
+          "line_start": 672,
+          "line_end": 685,
+          "words": 1444
+        },
+        {
+          "id": "h3-s-11-the-difference-between-ideal-and-real-being-with-respect-to-a-legitimating",
+          "level": 3,
+          "title": "§ 11. The Difference between Ideal and Real Being with Respect to a Legitimating Ego",
+          "path": [
+            "Husserl, Transzendentaler Idealismus: Texte aus dem Nachlass (1908–1921), Husserliana XXXVI — Commentary",
+            "No. 6. From the Lecture Course \"Selected Problems of Phenomenology\", Summer Semester 1915",
+            "§ 11. The Difference between Ideal and Real Being with Respect to a Legitimating Ego"
+          ],
+          "anchor": "the-difference-between-ideal-and-real-being-with-respect-to-a-legitimating-ego",
+          "line_start": 686,
+          "line_end": 693,
+          "words": 651
+        },
+        {
+          "id": "h3-s-12-empathy-as-condition-of-the-possibility-of-one-and-the-same-world-for-sever",
+          "level": 3,
+          "title": "§ 12. Empathy as Condition of the Possibility of One and the Same World for Several Egos",
+          "path": [
+            "Husserl, Transzendentaler Idealismus: Texte aus dem Nachlass (1908–1921), Husserliana XXXVI — Commentary",
+            "No. 6. From the Lecture Course \"Selected Problems of Phenomenology\", Summer Semester 1915",
+            "§ 12. Empathy as Condition of the Possibility of One and the Same World for Several Egos"
+          ],
+          "anchor": "empathy-as-condition-of-the-possibility-of-one-and-the-same-world-for-several-egos",
+          "line_start": 694,
+          "line_end": 703,
+          "words": 1131
+        },
+        {
+          "id": "h3-s-13-transcendental-consciousness-as-absolute-being",
+          "level": 3,
+          "title": "§ 13. Transcendental Consciousness as Absolute Being",
+          "path": [
+            "Husserl, Transzendentaler Idealismus: Texte aus dem Nachlass (1908–1921), Husserliana XXXVI — Commentary",
+            "No. 6. From the Lecture Course \"Selected Problems of Phenomenology\", Summer Semester 1915",
+            "§ 13. Transcendental Consciousness as Absolute Being"
+          ],
+          "anchor": "transcendental-consciousness-as-absolute-being",
+          "line_start": 704,
+          "line_end": 709,
+          "words": 473
+        },
+        {
+          "id": "h3-s-14-the-phenomenological-reduction-and-the-separation-of-transcendental-and-psy",
+          "level": 3,
+          "title": "§ 14. The Phenomenological Reduction and the Separation of Transcendental and Psychological Consciousness",
+          "path": [
+            "Husserl, Transzendentaler Idealismus: Texte aus dem Nachlass (1908–1921), Husserliana XXXVI — Commentary",
+            "No. 6. From the Lecture Course \"Selected Problems of Phenomenology\", Summer Semester 1915",
+            "§ 14. The Phenomenological Reduction and the Separation of Transcendental and Psychological Consciousness"
+          ],
+          "anchor": "the-phenomenological-reduction-and-the-separation-of-transcendental-and-psychological-consciousness",
+          "line_start": 710,
+          "line_end": 731,
+          "words": 2007
+        },
+        {
+          "id": "h2-appendix-iv-the-argument-of-the-lecture-course-of-summer-semester-1915-as-a-proo",
+          "level": 2,
+          "title": "Appendix IV. The Argument of the Lecture Course of Summer Semester 1915 as a Proof of Transcendental Idealism Conducted Solipsistically",
+          "path": [
+            "Husserl, Transzendentaler Idealismus: Texte aus dem Nachlass (1908–1921), Husserliana XXXVI — Commentary",
+            "Appendix IV. The Argument of the Lecture Course of Summer Semester 1915 as a Proof of Transcendental Idealism Conducted Solipsistically"
+          ],
+          "anchor": "appendix-iv-the-argument-of-the-lecture-course-of-summer-semester-1915-as-a-proof-of-transcendental-idealism-conducted-solipsistically",
+          "line_start": 732,
+          "line_end": 739,
+          "words": 764
+        },
+        {
+          "id": "h2-no-7-the-formally-general-proof-of-transcendental-idealism-and-the-unthinkabilit",
+          "level": 2,
+          "title": "No. 7. The Formally General Proof of Transcendental Idealism and the Unthinkability of Real Being without Bodily Subjectivity. Essential Relation of World-Constitution to an Open Plurality of Subjects. Birth and Death of Every Subject as A Priori Necessities",
+          "path": [
+            "Husserl, Transzendentaler Idealismus: Texte aus dem Nachlass (1908–1921), Husserliana XXXVI — Commentary",
+            "No. 7. The Formally General Proof of Transcendental Idealism and the Unthinkability of Real Being without Bodily Subjectivity. Essential Relation of World-Constitution to an Open Plurality of Subjects. Birth and Death of Every Subject as A Priori Necessities"
+          ],
+          "anchor": "no-7-the-formally-general-proof-of-transcendental-idealism-and-the-unthinkability-of-real-being-without-bodily-subjectivity-essential-relation-of-world-constitution-to-an-open-plurality-of-subjects-birth-and-death-of-every-subject-as-a-priori-necessities",
+          "line_start": 740,
+          "line_end": 809,
+          "words": 6235
+        },
+        {
+          "id": "h2-no-8-the-main-pieces-for-the-proof-of-transcendental-phenomenological-idealism-t",
+          "level": 2,
+          "title": "No. 8. The Main Pieces for the Proof of Transcendental-Phenomenological Idealism. The Possibility of Original Givenness as Correlate of the Existence of an Objectivity in General. The Equivalence of Possibility and Actuality for Eidetic Objects. The Positing of Individual Actuality",
+          "path": [
+            "Husserl, Transzendentaler Idealismus: Texte aus dem Nachlass (1908–1921), Husserliana XXXVI — Commentary",
+            "No. 8. The Main Pieces for the Proof of Transcendental-Phenomenological Idealism. The Possibility of Original Givenness as Correlate of the Existence of an Objectivity in General. The Equivalence of Possibility and Actuality for Eidetic Objects. The Positing of Individual Actuality"
+          ],
+          "anchor": "no-8-the-main-pieces-for-the-proof-of-transcendental-phenomenological-idealism-the-possibility-of-original-givenness-as-correlate-of-the-existence-of-an-objectivity-in-general-the-equivalence-of-possibility-and-actuality-for-eidetic-objects-the-positing-of-individual-actuality",
+          "line_start": 810,
+          "line_end": 837,
+          "words": 1956
+        },
+        {
+          "id": "h2-no-9-argument-for-transcendental-idealism-re-fiction-in-connection-with-bodiline",
+          "level": 2,
+          "title": "No. 9. Argument for Transcendental Idealism. Re-Fiction in Connection with Bodiliness and Intersubjectivity",
+          "path": [
+            "Husserl, Transzendentaler Idealismus: Texte aus dem Nachlass (1908–1921), Husserliana XXXVI — Commentary",
+            "No. 9. Argument for Transcendental Idealism. Re-Fiction in Connection with Bodiliness and Intersubjectivity"
+          ],
+          "anchor": "no-9-argument-for-transcendental-idealism-re-fiction-in-connection-with-bodiliness-and-intersubjectivity",
+          "line_start": 838,
+          "line_end": 899,
+          "words": 6342
+        },
+        {
+          "id": "h2-appendix-v-correlation-of-the-existence-of-a-nature-and-the-existence-of-nature",
+          "level": 2,
+          "title": "Appendix V. Correlation of the Existence of a Nature and the Existence of Nature-Experiencing Subjects",
+          "path": [
+            "Husserl, Transzendentaler Idealismus: Texte aus dem Nachlass (1908–1921), Husserliana XXXVI — Commentary",
+            "Appendix V. Correlation of the Existence of a Nature and the Existence of Nature-Experiencing Subjects"
+          ],
+          "anchor": "appendix-v-correlation-of-the-existence-of-a-nature-and-the-existence-of-nature-experiencing-subjects",
+          "line_start": 900,
+          "line_end": 919,
+          "words": 1935
+        },
+        {
+          "id": "h2-appendix-vi-existence-of-nature-idea-of-the-ontological-in-itself-and-the-ego",
+          "level": 2,
+          "title": "Appendix VI. Existence of Nature. Idea of the Ontological In-Itself and the Ego",
+          "path": [
+            "Husserl, Transzendentaler Idealismus: Texte aus dem Nachlass (1908–1921), Husserliana XXXVI — Commentary",
+            "Appendix VI. Existence of Nature. Idea of the Ontological In-Itself and the Ego"
+          ],
+          "anchor": "appendix-vi-existence-of-nature-idea-of-the-ontological-in-itself-and-the-ego",
+          "line_start": 920,
+          "line_end": 943,
+          "words": 1709
+        },
+        {
+          "id": "h2-no-10-the-causal-inference-from-immediately-given-consciousness-to-an-external-w",
+          "level": 2,
+          "title": "No. 10. The Causal Inference from Immediately Given Consciousness to an External World",
+          "path": [
+            "Husserl, Transzendentaler Idealismus: Texte aus dem Nachlass (1908–1921), Husserliana XXXVI — Commentary",
+            "No. 10. The Causal Inference from Immediately Given Consciousness to an External World"
+          ],
+          "anchor": "no-10-the-causal-inference-from-immediately-given-consciousness-to-an-external-world",
+          "line_start": 944,
+          "line_end": 993,
+          "words": 4167
+        },
+        {
+          "id": "h2-no-11-on-the-doctrine-of-transcendental-idealism-the-relation-of-fiction-and-exp",
+          "level": 2,
+          "title": "No. 11. On the Doctrine of Transcendental Idealism. The Relation of Fiction and Experience. Free and Experience-Bound Phantasy. Possible Worlds of Factual Temporal Objects and the Knowing Subjects Compossible with Them",
+          "path": [
+            "Husserl, Transzendentaler Idealismus: Texte aus dem Nachlass (1908–1921), Husserliana XXXVI — Commentary",
+            "No. 11. On the Doctrine of Transcendental Idealism. The Relation of Fiction and Experience. Free and Experience-Bound Phantasy. Possible Worlds of Factual Temporal Objects and the Knowing Subjects Compossible with Them"
+          ],
+          "anchor": "no-11-on-the-doctrine-of-transcendental-idealism-the-relation-of-fiction-and-experience-free-and-experience-bound-phantasy-possible-worlds-of-factual-temporal-objects-and-the-knowing-subjects-compossible-with-them",
+          "line_start": 994,
+          "line_end": 1029,
+          "words": 3315
+        },
+        {
+          "id": "h2-no-12-on-the-concept-of-the-in-itself-of-real-objects",
+          "level": 2,
+          "title": "No. 12. On the Concept of the In-Itself of Real Objects",
+          "path": [
+            "Husserl, Transzendentaler Idealismus: Texte aus dem Nachlass (1908–1921), Husserliana XXXVI — Commentary",
+            "No. 12. On the Concept of the In-Itself of Real Objects"
+          ],
+          "anchor": "no-12-on-the-concept-of-the-in-itself-of-real-objects",
+          "line_start": 1030,
+          "line_end": 1047,
+          "words": 1713
+        }
+      ]
+    },
+    {
       "slug": "husserliana-1-cartesianische-meditationen-commentary",
       "path": "commentaries/husserl/husserliana-1-cartesianische-meditationen-commentary.md",
       "author": "husserl",
