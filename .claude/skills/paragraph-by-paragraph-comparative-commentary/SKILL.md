@@ -96,6 +96,8 @@ Apply the base skill's translation and term-retention rules to **both** texts. K
 
 No bracketed original-language incipits. Short quotations from either text only where the exact wording carries the point (a contested rendering, a phrase R turns against P).
 
+Quote and paraphrase in English. Every quotation is translated, but keep the original wording only (a) for a glossary term or (b) where its sense departs from the English in a way the take-up turns on: a rendering in R that carries R's thesis, a phrase R turns against P, a pun or etymology, a difference between editions of P. Test: delete the original from the sentence; if a reader with no French or German loses nothing, leave it out. Where kept, it follows the English in parentheses. A paraphrase of R's move with a word-for-word French quotation and its English twin is the failure this rule exists to stop. (Repo rule: root `CLAUDE.md`, and `commentaries/CLAUDE.md` §"When to keep the original".)
+
 ## House style
 
 All house-style rules of the base skill apply: concise to the point of pressure; state the insight, do not narrate the reading; one pass per point; finite verbs over nominalizations; italics sparingly; prose only; no summary blocks at the start or end of the file.
@@ -119,7 +121,7 @@ One file for the whole run: `<ShortTitleR>_on_<ShortTitleP>_Comparative_Commenta
 4. For each unit, fix R's move and P's text before drafting; draft the comparison from that, not from the commentaries' wording.
 5. Append to the working copy of the file (recreate it from the saved version if missing).
 6. End at a clean structural boundary of R.
-7. Run the monolingual clarity pass and the concision-and-insight pass from the base skill, adding one test: in each paragraph, is it clear which author every claim belongs to?
+7. Run the monolingual clarity pass and the concision-and-insight pass from the base skill, adding two tests: in each paragraph, is it clear which author every claim belongs to? And does every piece of original-language wording pass the delete test (see Original-language terms and quotation)? Remove any that fails.
 8. Copy the updated file to the output folder and present it.
 9. If a run file is in use, update its **Progress** line to the last completed unit (R's division and unit, with R's page), record any new pair-specific notes, and commit the output file and the run file together in one commit, then push. A turn is not finished until that commit is pushed.
 10. If the output limit forced the stop, give a brief plain stopping-point note in chat and await "continue."

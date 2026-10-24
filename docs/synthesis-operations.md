@@ -239,7 +239,10 @@ is deliberately no automation across this line.
 3. Add frontmatter — `layout: default` and `title:`. Do **not** set
    `wordpress_id`; the sync writes it back.
 4. Check the translation discipline: in published commentary text the
-   English leads and the original follows in parentheses. Ledger quotes
+   original appears only where it passes the delete test of
+   [commentaries/CLAUDE.md](../commentaries/CLAUDE.md) §"When to keep
+   the original", and where it appears the English leads and the
+   original follows in parentheses. Ledger quotes
    are quotations *of a commentary* and are already English; check that
    none has been carried over as though it were the primary text.
 5. Add a `chronology.json` entry with `role: "output"`, so it can never
