@@ -126,6 +126,22 @@ Output: outputs/heidegger-ga3-on-kant-kdrv-comparative-commentary.md
     B 151-152 (B-only) gives the imagination's definition, productive imagination, transcendental synthesis of the imagination; GA 3 131
     concedes the definition is B. GA 3 uses B 33 "uns Menschen wenigstens" two ways (§5 clarification; §31 symptom).
 
+17. **Self-affection and the predicates of the I.** (Added 2026-10-23, §§32-35.) Every Kant statement of self-affection is B-only
+    (B 67-69, B 152-158). B 153-154 names the understanding as the affecting power ("under the designation of a transcendental synthesis
+    of the imagination") and rejects the psychologists' identification of inner sense with apperception; §31 (GA 3, 164) cites B 154 for
+    B's retreat ("d. h. die Zeit"), §34 quotes only B 67-68. B 68 *ihrer Vorstellung* (1787 corpus): antecedent "Form der Anschauung",
+    Heidegger's reading sound; B 67 names what is posited (representations of outer sense). GA 3 192 cuts A 123 before "just as all
+    sensible intuition ... belongs to a pure inner intuition, namely that of time". "Die Zeit ... bleibt und wechselt nicht" is B 224-225
+    only (GA 3 cites "A 182, B 224 f."). Kant's *stehend und bleibend* also at A 350 (I not "a standing and abiding intuition") and A 381
+    (time "has in it nothing abiding"); A 382 I = "mere form of consciousness"; B 278 I has no persistent predicate to serve as "correlate
+    for time-determination"; B 157 "only that I am"; A 107 "unchanging consciousness". GA 3 193 n. "A 548" = A 348 (OCR). A 126
+    *durchspähen* is said of the understanding. A 118 allows only productive synthesis a priori; A 101-102 asks for a pure transcendental
+    synthesis of reproduction (Heidegger's Riehl note defensible, A 118 unreported). A 100: sensibility "provides", synthesis "generates"
+    (Heidegger merges them); space named with time at A 100, A 102. B 291 "time constantly flows" is from the argument that substance
+    needs space; A 142/B 182 already puts space in the Schematism; B 293-294 states the General Remark's purpose (limits of
+    self-cognition from inner sense). Kant's time "has only one dimension" (A 31/B 47). Mediation: Husserl's time lectures (ed.
+    Heidegger, 1928) for just-now/right-away and *Vergegenwärtigung*. GA 41 175-176 explains the omitted "zugleich" in Kant's terms.
+
 ### Glossary (fixed for this run)
 
 - Translation rule (user, 2026-10-23): quote Taft (Heidegger) and Guyer-Wood (Kant); German only for key terms or where the English
@@ -171,9 +187,9 @@ Output: outputs/heidegger-ga3-on-kant-kdrv-comparative-commentary.md
 - commentaries: none yet.
 
 ## Progress
-Last completed unit: Third Section, B, §31 ¶23 (GA 3, 171), with a closing paragraph for parts A-B of the Third Section.
-Unit counts: 1973 preface 6 units (¶1, ¶2, ¶3, ¶4, ¶5-9, ¶10-12); 1929 preface 5 (¶1-4, ¶5-6); 1950/1965 4 (¶1, ¶2, ¶3-4, ¶5-6); Introduction 6; First Section intro 1; §1 10; §2 9; §3 11; Second Section intro 2 (¶1, ¶2-3); A intro 1; §4 9; §5 19 (¶7-10 and ¶14-15 joined); §6 5; §7 7; §8 7; B intro 2; First Stage intro 1; §9 8 (¶4-5 joined); §10 10 (¶4-5, ¶11-12 joined); §11 9; §12 8; Second Stage intro 4; §13 4 (¶3-4 joined); §14 11; §15 8 (¶4-5, ¶8-9, ¶10-11 joined); Third Stage intro 4 (¶1-2 joined); §16 11 (¶2-3, ¶5-6, ¶12-13, ¶14-15 joined); §17 6 + first way 9 (¶1-2, ¶8-9 joined) + second way 7; §18 8 (¶3-4 joined); Fourth Stage intro 4 (¶1-2 joined); §19 7 (¶1-2, ¶6-7, ¶8-9 joined); §20 11; §21 9; §22 15; §23 9; Fifth Stage intro 1 (¶1-2); §24 10 (¶5-6, ¶10-11 joined); §25 13 (¶1-2, ¶3-4, ¶6-7, ¶9-10, ¶15-16 joined). Third Section intro 1 (¶1-2); §26 8; §27 7; B intro 6; §28 9; §29 18; §30 8; §31 19.
-Next: Third Section C intro (GA 3, 171-173), §32 (173-176), §33 with a) b) c) (176-188), §34 (188-195), §35 (195-203), then Third Section verdict (German l. ~6398 ff.; Taft l. ~2564 ff.; Commentary R l. ~1071 ff.). Kant loci: A 98-110 threefold synthesis (A-only); A 34/B 50; B 67-69, B 152-158 self-affection (B-only); A 123 standing and lasting I; A 107; A 182/B 224 (time does not change), A 143/B 183; A 41/B 58; A 314/B 370; reply to Eberhard (not corpus).
+Last completed unit: Third Section, C, §35 ¶22-¶24 (GA 3, 203), with the Third Section verdict. Third Section complete.
+Unit counts: 1973 preface 6 units (¶1, ¶2, ¶3, ¶4, ¶5-9, ¶10-12); 1929 preface 5 (¶1-4, ¶5-6); 1950/1965 4 (¶1, ¶2, ¶3-4, ¶5-6); Introduction 6; First Section intro 1; §1 10; §2 9; §3 11; Second Section intro 2 (¶1, ¶2-3); A intro 1; §4 9; §5 19 (¶7-10 and ¶14-15 joined); §6 5; §7 7; §8 7; B intro 2; First Stage intro 1; §9 8 (¶4-5 joined); §10 10 (¶4-5, ¶11-12 joined); §11 9; §12 8; Second Stage intro 4; §13 4 (¶3-4 joined); §14 11; §15 8 (¶4-5, ¶8-9, ¶10-11 joined); Third Stage intro 4 (¶1-2 joined); §16 11 (¶2-3, ¶5-6, ¶12-13, ¶14-15 joined); §17 6 + first way 9 (¶1-2, ¶8-9 joined) + second way 7; §18 8 (¶3-4 joined); Fourth Stage intro 4 (¶1-2 joined); §19 7 (¶1-2, ¶6-7, ¶8-9 joined); §20 11; §21 9; §22 15; §23 9; Fifth Stage intro 1 (¶1-2); §24 10 (¶5-6, ¶10-11 joined); §25 13 (¶1-2, ¶3-4, ¶6-7, ¶9-10, ¶15-16 joined). Third Section intro 1 (¶1-2); §26 8; §27 7; B intro 6; §28 9; §29 18; §30 8; §31 19; C intro 3 (¶1-2, ¶4-5 joined); §32 8 (¶3-4, ¶5-6, ¶7-8 joined); §33 intro 4 (¶2-4, ¶5-6, ¶7-10 joined), a 3, b 4, c 7; §34 14; §35 12.
+Next: Fourth Section intro (GA 3, 204-205); A: §36, §37, §38; B: §39, §40, §41; C: §42, §43, §44, §45; Fourth Section verdict and a closing paragraph for the run (German l. ~7495 ff.; Taft l. ~3040 ff.; Commentary R l. ~1289 ff.). Kant loci to expect: A 805/B 833 three questions and Logic's fourth (not corpus), Anthropology (not corpus), A 840/B 868 teleologia rationis humanae, A 850/B 878 natural predisposition, B 21-22, A 235-236/B 294-295 island of truth, A 296/B 352, CPrR respect.
 Revision: 2026-10-23, run opened; guards 1-10 set; Prefaces, Introduction and First Section written.
 Revision: 2026-10-23, Second Section A (§§4-8) written. Closing paragraph for part A added although A is not a top-level division (the Second Section is long; a full Second Section verdict follows §25).
 Revision: 2026-10-23, Second Section B, First and Second Stages (§§9-15) written; guards 11-12 added; §8 ¶6 corrected (Heidegger quotes A 65/B 90 at §11, 55).
@@ -181,3 +197,4 @@ Revision: 2026-10-23, Third Stage (§§16-18) written; guard 13 added.
 Revision: 2026-10-23, Fourth Stage (§§19-23) written; guard 14 added.
 Revision: 2026-10-23, Fifth Stage (§§24-25) and Second Section verdict written; guard 15 added.
 Revision: 2026-10-23, Third Section A-B (§§26-31) written; guard 16 added; Fourth Stage units amended (§29 quotes 'Schematismus unseres Verstandes'); §9 ¶2 and §13 ¶3-4 corrected (ens imaginarium cited in §28; A 94 quoted in §27).
+Revision: 2026-10-23, Third Section C (§§32-35) and Third Section verdict written; guard 17 added.
