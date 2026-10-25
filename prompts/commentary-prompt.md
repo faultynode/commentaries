@@ -14,6 +14,7 @@ These are the rules most at risk of being silently dropped as source text and pr
 3. **Reconcile after drafting.** Before running style passes, count the drafted commentary blocks and check the count against the fixed unit count from step 2. Expand any block that covers more than one unit.
 4. **One file, clean boundaries only.** Append everything to a single `<ShortTitle>_Commentary.md`. Stop a turn only at a clean structural boundary — never mid-unit. Prefer stopping earlier at a smaller boundary over compressing units to cover more ground.
 5. **State the insight; do not narrate the reading or re-gloss a point already made.** See House style below for the full list of banned scaffolding.
+6. **Nominate key passages; never expand them here.** A unit that deserves a close reading goes on the key-passage list (see below) and still gets a block of ordinary depth. The close reading is a separate run under [close-reading-prompt](close-reading-prompt.md).
 
 If a turn's context is getting long (large source range, long prior commentary already in the file), treat that as a signal to re-check rules 1–3 more often, not less — length is exactly the condition under which silent merging happens.
 
@@ -68,7 +69,23 @@ Before writing any commentary prose for a new range, perform this segmentation s
 3. Draft commentary **unit by unit against that fixed list**, never against a re-skim of the raw source. If a unit seems minor or transitional, it still gets its own numbered slot and its own full treatment — do not let apparent thinness justify silent merging.
 4. If the source's own paragraphing is ambiguous (e.g., run-on OCR text, inconsistent line breaks), resolve the ambiguity at segmentation time and commit to a unit count, rather than deciding paragraph boundaries impressionistically while drafting.
 
+5. **Nominate key passages** as you segment and draft, in the run's key-passage list (see "Key-passage nominations" below). A nomination changes nothing about the unit's slot or its depth.
+
 Never skip this step to save time under a tight turn budget — skipping it is exactly what produces the merged-unit compression this section exists to prevent.
+
+## Key-passage nominations (hand-off to the close-reading prompt)
+
+Equal depth suits a map of the argument, and it is what keeps the unit count checkable. It cannot hold a close reading, which dwells on wording and runs as long as the passage needs. That work belongs to [close-reading-prompt](close-reading-prompt.md). This prompt only nominates passages for it, because the drafting pass is the one moment when every unit is read in order.
+
+- Nominate a unit only when one of these holds, and name which:
+  - **(a) term**: a term of art enters, is defined, or shifts sense;
+  - **(b) turn**: a thesis is stated, reversed or restricted, and later units depend on the step;
+  - **(c) target**: a phrase is turned against another author, or a doctrine is corrected;
+  - **(d) wording**: the argument turns on the original's wording (a contested rendering, a pun or etymology the author exploits, emphasis, syntax that does work);
+  - **(e) edition**: editions or versions differ in a way that matters.
+- Expect a few per chapter or major division, not one per section. A unit that is merely difficult does not qualify; its ordinary block should handle the difficulty.
+- Record each nomination in `runs/<commentary-slug>-key-passages.md` (format in [close-reading-prompt](close-reading-prompt.md) §"The key-passage list"), creating the file on first use. Set its status to `nominated`. The user approves or rejects; this run never does.
+- A nomination never shows in the commentary itself: no marker, no note, no lengthened block.
 
 ## Coverage rule (equal depth, no skipping)
 
@@ -82,6 +99,7 @@ Run this as a discrete, mechanical check — not a general impression — after 
 - [ ] Number of distinct commentary blocks actually drafted: ___
 - [ ] Do the two numbers match? If not, identify exactly which unit(s) were merged or dropped and split them back out.
 - [ ] Does any single commentary block visibly discuss the content of two or more numbered units? If so, expand it — even if the section runs longer or the turn must stop sooner at the boundary.
+- [ ] Is every nomination made in this range in the key-passage list, with its criterion? Is each nominated unit's block still of ordinary depth?
 - [ ] Only once the counts reconcile exactly, proceed to the monolingual clarity pass and concision-and-insight pass.
 
 This check is cheap and mechanical (a count comparison), which is precisely why it catches the failure mode reliably where a general instruction to "not skip units" does not — it converts an implicit norm into an explicit, checkable step.
@@ -155,7 +173,7 @@ The commentary must read as English written by someone who understands the argum
 6. End the turn at a clean structural boundary (complete any spilled-over section first).
 7. **Run the post-draft verification checklist**: reconcile the drafted block count against the fixed unit count and expand any collapsed unit.
 8. Run the monolingual clarity pass and the concision-and-insight pass on the new section.
-9. Copy the updated file to the output folder and present it.
+9. Copy the updated file to the output folder and present it, with the key-passage list if this turn added to it.
 10. Give a brief plain stopping-point note in chat only if the output limit forced the stop, then await "continue."
 
 ---
