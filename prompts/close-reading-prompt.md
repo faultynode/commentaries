@@ -16,7 +16,7 @@ description: "Writes close readings of selected key passages of a primary text, 
 
 ## When to use this skill
 
-Use this skill when asked to close-read, expand on, or "look closely at" particular paragraphs, block quotations or passages of a work that has a commentary under `commentaries/<author>/`. If the work has no commentary yet, say so and stop. The selection needs a commentary to come from, and so does the reading. For a paragraph-by-paragraph run, use [commentary-prompt](commentary-prompt.md).
+Use this skill when asked to close-read, expand on, or "look closely at" particular paragraphs, block quotations or passages of a work that has a commentary under `commentaries/<author>/`. If the work has no commentary yet, say so and stop. The selection needs a commentary to come from, and so does the reading. For a paragraph-by-paragraph run, use [commentary-prompt](commentary-prompt.md). If the commentary has no key-passage list, because it was written before nominations existed, run "Backfill for existing commentaries" below first, or read only the passages the user names.
 
 ## Inputs to confirm at the start of a run
 
@@ -29,7 +29,7 @@ Confirm these only if not already clear from the request, the commentary or the 
 
 ## The key-passage list
 
-One file per commentary: `runs/<commentary-slug>-key-passages.md`. The commentary run creates it while nominating (see [commentary-prompt](commentary-prompt.md) §"Key-passage nominations"); this run reads it and updates it. It is a working file and is not published as a commentary, so tables are fine in it.
+One file per commentary: `runs/<commentary-slug>-key-passages.md`. The commentary run creates it while nominating (see [commentary-prompt](commentary-prompt.md) §"Key-passage nominations"), or a backfill run creates it for an older commentary (see below). This run reads it and updates it. It is a working file and is not published as a commentary, so tables are fine in it.
 
 ```markdown
 # Key passages: <work title>
@@ -48,6 +48,41 @@ Close readings: outputs/<commentary-slug>-close-readings.md
 ```
 
 The criteria are those of the commentary prompt: **(a) term**, **(b) turn**, **(c) target**, **(d) wording**, **(e) edition**. The status is one of `nominated`, `approved`, `rejected`, `done` or `blocked`. Only the user moves a row from `nominated` to `approved` or `rejected`. This run sets `done` when a reading is written, and `blocked` when source damage stops a reading (give the reason in the row).
+
+## Backfill for existing commentaries
+
+A commentary written before the nomination hook has no key-passage list. A backfill run makes one. It is a run of its own: it ends with `nominated` rows and writes no close readings, because the user approves the rows first.
+
+The finished commentary records criteria (a), (b), (c) and (e) well enough to nominate from. It is blind to (d) by design: the commentary prompt paraphrased away from the wording and cut every original the delete test did not keep. A backfill therefore runs in two stages. The commentary stage covers everything the commentary records. The source stage is a targeted search for wording, not a reread of the source.
+
+**Stage 1: the commentary.** Grep the commentary's headings, then read it division by division, in order. Never load the whole file. For each block, look for:
+
+- **(a) term**: the first discussion of a term of art, and any block that defines it, contrasts it with a neighbour or shifts its sense. Take the author's entries in `synthesis/lexicon.json` (each entry's `forms` and the `english` of its `renderings`) and grep the commentary for them. The first hit inside the work is a candidate, but check that the block actually discusses the term and does not merely use it.
+- **(b) turn**: a block that states a thesis, reverses or restricts an earlier one, or that later blocks name as a step they depend on ("developed in §…", "on which the argument of §… rests").
+- **(c) target**: a named opponent, a doctrine corrected, a phrase taken from another author.
+- **(e) edition**: an edition or version difference the commentary folded in from the apparatus.
+- **(d) traces**: original wording kept in parentheses beyond the run's glossary. By the repo's rule, such wording marks a place where the argument turns on the original. Coinage notes, and remarks on emphasis or etymology, are traces of the same kind.
+
+**Stage 2: the source, for (d) only.** Run the source-integrity checks first, and record in the list header which markers the file cannot be trusted for (e.g. italics lost on the GA 20 text-layer pages). Then grep the source file for wording markers:
+
+- emphasis: italic markup and spaced type;
+- single terms in quotation marks;
+- hyphenated coinages and nominalized infinitives;
+- Greek, and Latin set off in the text;
+- etymological and definitional phrasing: in German "heißt", "besagt", "bedeutet ursprünglich", "das Wort"; in French "signifie", "au sens propre", "le mot"; in English "literally", "the word";
+- the names of other authors.
+
+Group the hits by the commentary's units. Read the source by line range only where the hits cluster, or where a marker falls in a Stage 1 candidate. A marker alone is no nomination: nominate only where a close reading would turn on the wording, and say how in the reason. In a file the header marks unreliable for a marker, the absence of that marker is no evidence.
+
+**Recording.** Use the list format above, with three backfill conventions:
+
+- **Unit.** No segmentation list survives from the original run. Give the block's ordinal under its lowest heading ("§7.3" is the third block under §7), and say so once in the header.
+- **Found by.** Start each reason with `commentary:`, `source:` or `both:`.
+- **Order.** Append rows in the order of the work, division by division. Keep the strongest few per chapter or major division; drop the rest, even if they qualify. A merely difficult block does not qualify.
+
+**Turns.** Work division by division and stop a turn only at the end of a major division. The list records how far the backfill has gone ("Backfill: through Part I"). Each turn presents the list, with a count of nominations per division and a note of anything Stage 2 could not search.
+
+**Check before presenting.** Every row has a criterion and a found-by prefix. Every citation resolves to a block of the commentary. No row is marked `approved`.
 
 ## Task
 
