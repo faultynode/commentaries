@@ -2,10 +2,10 @@
 
 Commentary: commentaries/heidegger/heidegger-ga-20-prolegomena-zur-geschichte-des-zeitbegriffs-commentary.md
 Source: sources/heidegger/heidegger-ga-20-prolegomena-zur-geschichte-des-zeitbegriffs.md  (German, Klostermann pagination "GA 20 n"; on the "Unsafe to quote" list: re-converted, ten pages from the text layer, old line pointers stale)
-Close readings: rows 1–18 done (Introduction and Preparatory Part); next is row 19 (§16).
+Close readings: rows 1–21 done (through Main Part, ch. 2); next is row 22 (§18).
 
 Backfill: complete, Introduction through §36 (2026-10-26). All 41 rows approved by the user on 2026-10-26.
-Close readings: rows 1–18 done (Introduction and Preparatory Part); next is row 19 (§16).
+Close readings: rows 1–21 done (through Main Part, ch. 2); next is row 22 (§18).
 
 ## Backfill conventions
 
@@ -43,9 +43,9 @@ Close readings: rows 1–18 done (Introduction and Preparatory Part); next is ro
 | 16 | §13, GA 20 158–59 (:2399–:2405, n. :2433) | §13.1 | "Between being as consciousness and being as reality 'yawns a true abyss of sense'." | c, d | both: Husserl's own phrase, turned against him: the abyss of *sense* is asserted while the sense of being that divides the regions is never asked about | done |
 | 17 | §13, GA 20 173–74 (:2604–:2617) | §13.6 | "…keeps the traditional definition of the human — *homo animal rationale* — as its guiding thread." | c | both: the "most important insight", that personalism keeps the old definition, which the source analyses as *animal* (present-at-hand) plus *rationale*; §18.3 sets the analytic outside this horizon | done |
 | 18 | §13, GA 20 179–80 (:2704) | §13.9 | "Dasein, in its manner of being as falling, which it does not escape…" | b | commentary: the pivot of the course: the neglect is an event of Dasein's own falling, not an error; first use of *Verfallen* (falling) and the ground for beginning the Main Part with Dasein | done |
-| 19 | §16, GA 20 192 (:2877) | §16.1 | "The sense of being is what is *asked-for* in the question…" | a, d | both: the triad *Erfragtes* / *Gefragtes* / *Befragtes* (asked-for, questioned, interrogated) is built on one verb with three participle forms; the structure of the question is read off the morphology, and the English triad hides it | approved |
-| 20 | §16, GA 20 198 (:2957) | §16.6 | "…a circle of investigating, of the course, and of being, a 'being-circle'…" | b, d | both: the circle objection answered by distinguishing a circle of grounding from a circle of being; the coinage in quotation marks, *Seinszirkel* (being-circle), carries the reply | approved |
-| 21 | §17, GA 20 199 (:2977) | §17.1 | "It is *the being* that we ourselves are; this being that I in each case am we call *Dasein*." | a | both: Dasein is introduced as the questioning being; every later unit depends on it | approved |
+| 19 | §16, GA 20 194–95 (:2877–:2881) | §16.1 | "The sense of being is what is *asked-for* in the question…" | a, d | both: the triad *Erfragtes* / *Gefragtes* / *Befragtes* (asked-for, questioned, interrogated) is built on one verb with three participle forms; the structure of the question is read off the morphology, and the English triad hides it | done |
+| 20 | §16, GA 20 197–98 (:2931–:2960) | §16.6 | "…a circle of investigating, of the course, and of being, a 'being-circle'…" | b, d | both: the circle objection answered by distinguishing a circle of grounding from a circle of being; the coinage in quotation marks, *Seinszirkel* (being-circle), carries the reply | done |
+| 21 | §17, GA 20 199 (:2975–:2979) | §17.1 | "It is *the being* that we ourselves are; this being that I in each case am we call *Dasein*." | a | both: Dasein is introduced as the questioning being; every later unit depends on it | done |
 | 22 | §18, GA 20 206 (:3046) | §18.2 | "This naming 'Dasein'… means *no what*…" | a, d | both: the name chosen as a pure expression of being, with *je meine* (in each case mine) and *Jeweiligkeit* (in-each-case-ness) in quotation marks and italics; the claim is about what the word does and does not say | approved |
 | 23 | §19, GA 20 213 (:3161) | §19.3 | "'In' derives from *innan*, and *innan* means to dwell, *habitare*…" | d | both: in-being as dwelling-alongside rests on the etymologies *innan* and *bin*/*bei* ("am"/"alongside"); a close reading would weigh how much the argument asks of them | approved |
 | 24 | §22, GA 20 233–45 (:3372, :3470) | §22.3 | "…because for Descartes *verum ens* equals *certum ens*…" | c | both: Descartes corrected on two counts: the analogy of "substance" between God and creatures (:3372), and the mathematical mode of knowing that prescribes the world's being (:3470); the overleaping of worldhood is grounded in both | approved |
