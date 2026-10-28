@@ -1751,7 +1751,7 @@
 - `husserl-prolegomena-commentary` - 164 term hits, no record
 - `heidegger-being-and-time-commentary` - 159 term hits, no record
 - `henry-phenomenologie-de-la-vie-1-commentary` - 154 term hits, no record
-- `heidegger-ga-20-prolegomena-zur-geschichte-des-zeitbegriffs-commentary` - 113 term hits, no record
+- `heidegger-ga-20-prolegomena-zur-geschichte-des-zeitbegriffs-commentary` - 116 term hits, no record
 - `husserliana-13-basic-problems-of-phenomenology-commentary` - 106 term hits, no record
 - `franck-chair-et-corps-commentary` - 101 term hits, no record
 - `husserl-natur-und-geist-commentary` - 101 term hits, no record

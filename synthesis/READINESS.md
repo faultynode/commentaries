@@ -6,6 +6,7 @@ A comparative pair (the reading text R takes up the read text P) needs an inheri
 
 ## Runs
 
+- `runs/heidegger-ga-20-prolegomena-zur-geschichte-des-zeitbegriffs-commentary-key-passages.md` - `None` reads `None`. no Progress line
 - `runs/heidegger-ga3-on-kant-kdrv.md` - `heidegger-ga-3-kant-und-das-problem-der-metaphysik-commentary` reads `kant-kritik-der-reinen-vernunft-commentary`. Last completed unit: Fourth Section, C, §45 ¶17-¶19 (GA 3, 246), with the Fourth Section verdict and a closing paragraph for the run. RUN COMPLETE (Prefaces, Introduction, §§1-45; appendices excluded…
 - `runs/henry-genealogie-on-hga3.md` - `henry-genealogie-de-la-psychanalyse-commentary` reads `heidegger-ga-3-kant-und-das-problem-der-metaphysik-commentary`. Last completed unit: Chapter IV, R ¶54 (p. 157), with its closing paragraph; Chapter III (R ¶1 p. 87 to ¶64 p. 123) with its closing paragraph, added 2026-10-19. Range complete. Chapter III is read f…
 - `runs/henry-on-hga3.md` - `henry-the-essence-of-manifestation-commentary` reads `heidegger-ga-3-kant-und-das-problem-der-metaphysik-commentary`. Last completed unit: Appendix, §77, with closing paragraph (Section II complete with its closing paragraph; Appendix read by section; range complete; edition has no page numbers)

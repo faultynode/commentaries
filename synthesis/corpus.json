@@ -9550,9 +9550,9 @@
       "author": "heidegger",
       "title": "Commentary on Heidegger, Prolegomena zur Geschichte des Zeitbegriffs (GA 20)",
       "wordpress_id": "368",
-      "sha256": "30416fcea761ee439a1e714cce8c61ed361ef1ef9e776b844fe15ad7cf060e0c",
-      "lines": 475,
-      "words": 46367,
+      "sha256": "aba70ce7beb91b3722790434e6583c06b11aa30c6aafb0f5bd1ad5ecfef6b3d5",
+      "lines": 503,
+      "words": 48804,
       "url": "https://faultynode.github.io/commentaries/commentaries/heidegger/heidegger-ga-20-prolegomena-zur-geschichte-des-zeitbegriffs-commentary.html",
       "sections": [
         {
@@ -9633,7 +9633,7 @@
           "anchor": "outline-of-the-lecture-course",
           "line_start": 57,
           "line_end": 64,
-          "words": 531
+          "words": 566
         },
         {
           "id": "h2-preparatory-part-the-sense-and-task-of-phenomenological-research",
@@ -9865,7 +9865,7 @@
           "anchor": "first-section-preparatory-description-of-the-field-in-which-the-phenomenon-of-time-becomes-visible",
           "line_start": 225,
           "line_end": 228,
-          "words": 67
+          "words": 72
         },
         {
           "id": "h4-chapter-one-the-exposition-of-the-question-of-being",
@@ -10067,7 +10067,7 @@
           "anchor": "the-positive-exhibition-of-the-basic-structure-of-the-worldhood-of-the-world",
           "line_start": 323,
           "line_end": 342,
-          "words": 2743
+          "words": 2780
         },
         {
           "id": "h4-s-24-the-inner-structuring-of-the-question-of-the-reality-of-the-external-world",
@@ -10096,8 +10096,8 @@
           ],
           "anchor": "the-spatiality-of-the-world",
           "line_start": 357,
-          "line_end": 360,
-          "words": 261
+          "line_end": 378,
+          "words": 1664
         },
         {
           "id": "h4-s-26-the-who-of-being-in-the-world-being-with-and-das-man",
@@ -10110,22 +10110,23 @@
             "§ 26. The \"who\" of being-in-the-world: being-with and das Man"
           ],
           "anchor": "the-who-of-being-in-the-world-being-with-and-das-man",
-          "line_start": 361,
-          "line_end": 378,
-          "words": 2361
+          "line_start": 379,
+          "line_end": 398,
+          "words": 2529
         },
         {
-          "id": "h3-chapter-four-a-more-original-explication-of-in-being-the-being-of-dasein-as-care",
-          "level": 3,
+          "id": "h4-chapter-four-a-more-original-explication-of-in-being-the-being-of-dasein-as-care",
+          "level": 4,
           "title": "Chapter Four: A more original explication of in-being: the being of Dasein as care",
           "path": [
             "Commentary on Heidegger, Prolegomena zur Geschichte des Zeitbegriffs (GA 20)",
             "Main Part: Analysis of the Time-Phenomenon and Winning of the Concept of Time",
+            "First Section: Preparatory description of the field in which the phenomenon of time becomes visible",
             "Chapter Four: A more original explication of in-being: the being of Dasein as care"
           ],
           "anchor": "chapter-four-a-more-original-explication-of-in-being-the-being-of-dasein-as-care",
-          "line_start": 379,
-          "line_end": 380,
+          "line_start": 399,
+          "line_end": 400,
           "words": 0
         },
         {
@@ -10135,12 +10136,12 @@
           "path": [
             "Commentary on Heidegger, Prolegomena zur Geschichte des Zeitbegriffs (GA 20)",
             "Main Part: Analysis of the Time-Phenomenon and Winning of the Concept of Time",
-            "Chapter Four: A more original explication of in-being: the being of Dasein as care",
+            "First Section: Preparatory description of the field in which the phenomenon of time becomes visible",
             "§ 27. In-being and care: outline"
           ],
           "anchor": "in-being-and-care-outline",
-          "line_start": 381,
-          "line_end": 384,
+          "line_start": 401,
+          "line_end": 404,
           "words": 287
         },
         {
@@ -10150,12 +10151,12 @@
           "path": [
             "Commentary on Heidegger, Prolegomena zur Geschichte des Zeitbegriffs (GA 20)",
             "Main Part: Analysis of the Time-Phenomenon and Winning of the Concept of Time",
-            "Chapter Four: A more original explication of in-being: the being of Dasein as care",
+            "First Section: Preparatory description of the field in which the phenomenon of time becomes visible",
             "§ 28. The phenomenon of uncoveredness (Entdecktheit)"
           ],
           "anchor": "the-phenomenon-of-uncoveredness-entdecktheit",
-          "line_start": 385,
-          "line_end": 396,
+          "line_start": 405,
+          "line_end": 416,
           "words": 1757
         },
         {
@@ -10165,12 +10166,12 @@
           "path": [
             "Commentary on Heidegger, Prolegomena zur Geschichte des Zeitbegriffs (GA 20)",
             "Main Part: Analysis of the Time-Phenomenon and Winning of the Concept of Time",
-            "Chapter Four: A more original explication of in-being: the being of Dasein as care",
+            "First Section: Preparatory description of the field in which the phenomenon of time becomes visible",
             "§ 29. Falling as a basic movedness of Dasein"
           ],
           "anchor": "falling-as-a-basic-movedness-of-dasein",
-          "line_start": 397,
-          "line_end": 408,
+          "line_start": 417,
+          "line_end": 428,
           "words": 2037
         },
         {
@@ -10180,12 +10181,12 @@
           "path": [
             "Commentary on Heidegger, Prolegomena zur Geschichte des Zeitbegriffs (GA 20)",
             "Main Part: Analysis of the Time-Phenomenon and Winning of the Concept of Time",
-            "Chapter Four: A more original explication of in-being: the being of Dasein as care",
+            "First Section: Preparatory description of the field in which the phenomenon of time becomes visible",
             "§ 30. The structure of uncanniness (Unheimlichkeit)"
           ],
           "anchor": "the-structure-of-uncanniness-unheimlichkeit",
-          "line_start": 409,
-          "line_end": 418,
+          "line_start": 429,
+          "line_end": 438,
           "words": 1183
         },
         {
@@ -10195,13 +10196,27 @@
           "path": [
             "Commentary on Heidegger, Prolegomena zur Geschichte des Zeitbegriffs (GA 20)",
             "Main Part: Analysis of the Time-Phenomenon and Winning of the Concept of Time",
-            "Chapter Four: A more original explication of in-being: the being of Dasein as care",
+            "First Section: Preparatory description of the field in which the phenomenon of time becomes visible",
             "§ 31. Care as the being of Dasein"
           ],
           "anchor": "care-as-the-being-of-dasein",
-          "line_start": 419,
-          "line_end": 430,
-          "words": 1232
+          "line_start": 439,
+          "line_end": 458,
+          "words": 2011
+        },
+        {
+          "id": "h3-second-section-the-laying-free-of-time-itself",
+          "level": 3,
+          "title": "Second Section: The laying-free of time itself",
+          "path": [
+            "Commentary on Heidegger, Prolegomena zur Geschichte des Zeitbegriffs (GA 20)",
+            "Main Part: Analysis of the Time-Phenomenon and Winning of the Concept of Time",
+            "Second Section: The laying-free of time itself"
+          ],
+          "anchor": "second-section-the-laying-free-of-time-itself",
+          "line_start": 459,
+          "line_end": 460,
+          "words": 0
         },
         {
           "id": "h4-s-32-the-result-and-the-task-of-the-fundamental-dasein-analysis-the-working-out",
@@ -10210,27 +10225,13 @@
           "path": [
             "Commentary on Heidegger, Prolegomena zur Geschichte des Zeitbegriffs (GA 20)",
             "Main Part: Analysis of the Time-Phenomenon and Winning of the Concept of Time",
-            "Chapter Four: A more original explication of in-being: the being of Dasein as care",
+            "Second Section: The laying-free of time itself",
             "§ 32. The result and the task of the fundamental Dasein-analysis: the working-out of the question of being itself"
           ],
           "anchor": "the-result-and-the-task-of-the-fundamental-dasein-analysis-the-working-out-of-the-question-of-being-itself",
-          "line_start": 431,
-          "line_end": 436,
+          "line_start": 461,
+          "line_end": 466,
           "words": 483
-        },
-        {
-          "id": "h3-chapter-five-the-laying-free-of-time-itself",
-          "level": 3,
-          "title": "Chapter Five: The laying-free of time itself",
-          "path": [
-            "Commentary on Heidegger, Prolegomena zur Geschichte des Zeitbegriffs (GA 20)",
-            "Main Part: Analysis of the Time-Phenomenon and Winning of the Concept of Time",
-            "Chapter Five: The laying-free of time itself"
-          ],
-          "anchor": "chapter-five-the-laying-free-of-time-itself",
-          "line_start": 437,
-          "line_end": 438,
-          "words": 0
         },
         {
           "id": "h4-s-33-the-necessity-of-thematically-positing-the-phenomenological-interpretation",
@@ -10239,12 +10240,12 @@
           "path": [
             "Commentary on Heidegger, Prolegomena zur Geschichte des Zeitbegriffs (GA 20)",
             "Main Part: Analysis of the Time-Phenomenon and Winning of the Concept of Time",
-            "Chapter Five: The laying-free of time itself",
+            "Second Section: The laying-free of time itself",
             "§ 33. The necessity of thematically positing the phenomenological interpretation of Dasein as a whole. The phenomenon of death"
           ],
           "anchor": "the-necessity-of-thematically-positing-the-phenomenological-interpretation-of-dasein-as-a-whole-the-phenomenon-of-death",
-          "line_start": 439,
-          "line_end": 448,
+          "line_start": 467,
+          "line_end": 476,
           "words": 939
         },
         {
@@ -10254,12 +10255,12 @@
           "path": [
             "Commentary on Heidegger, Prolegomena zur Geschichte des Zeitbegriffs (GA 20)",
             "Main Part: Analysis of the Time-Phenomenon and Winning of the Concept of Time",
-            "Chapter Five: The laying-free of time itself",
+            "Second Section: The laying-free of time itself",
             "§ 34. The phenomenological interpretation of death as a Dasein-phenomenon"
           ],
           "anchor": "the-phenomenological-interpretation-of-death-as-a-dasein-phenomenon",
-          "line_start": 449,
-          "line_end": 466,
+          "line_start": 477,
+          "line_end": 494,
           "words": 1922
         },
         {
@@ -10269,12 +10270,12 @@
           "path": [
             "Commentary on Heidegger, Prolegomena zur Geschichte des Zeitbegriffs (GA 20)",
             "Main Part: Analysis of the Time-Phenomenon and Winning of the Concept of Time",
-            "Chapter Five: The laying-free of time itself",
+            "Second Section: The laying-free of time itself",
             "§ 35. The phenomenon of wanting-to-have-conscience and of being-guilty"
           ],
           "anchor": "the-phenomenon-of-wanting-to-have-conscience-and-of-being-guilty",
-          "line_start": 467,
-          "line_end": 470,
+          "line_start": 495,
+          "line_end": 498,
           "words": 358
         },
         {
@@ -10284,13 +10285,13 @@
           "path": [
             "Commentary on Heidegger, Prolegomena zur Geschichte des Zeitbegriffs (GA 20)",
             "Main Part: Analysis of the Time-Phenomenon and Winning of the Concept of Time",
-            "Chapter Five: The laying-free of time itself",
+            "Second Section: The laying-free of time itself",
             "§ 36. Time as the being in which Dasein can be its wholeness"
           ],
           "anchor": "time-as-the-being-in-which-dasein-can-be-its-wholeness",
-          "line_start": 471,
-          "line_end": 475,
-          "words": 418
+          "line_start": 499,
+          "line_end": 503,
+          "words": 428
         }
       ]
     },
