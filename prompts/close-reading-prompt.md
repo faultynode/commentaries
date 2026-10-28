@@ -9,7 +9,7 @@ description: "Writes close readings of selected key passages of a primary text, 
 
 1. **Only approved passages.** Read only the passages marked `approved` in the run's key-passage list (see "The key-passage list" below), or named by the user in the request. Never add one on your own; propose it in the list instead.
 2. **The source is the evidence.** Quote from the source file and check every quoted word against it. Never quote the source through the commentary, and never repair a damaged passage from memory (see "Source integrity").
-3. **Wording and argument together.** A close reading shows how the wording carries the argument. A paragraph on vocabulary with no bearing on the argument fails, and so does a paragraph of argument that never touches the wording.
+3. **One understanding per reading.** Name the term, concept or claim the passage rests on, and build the whole reading around it: how the wording develops it, what it does between the passage's neighbours, where it leads in the work and beyond. A point that does not bear on that understanding is cut, however true. A paragraph on vocabulary with no bearing on the argument fails, and so does a paragraph of argument that never touches the wording.
 4. **Build on the commentary; don't restate it.** The unit's block in the main commentary already reconstructs the argument. Start from it, and add only what a close reading finds. Where the reading contradicts the block, say so and log the discrepancy (rule 6).
 5. **Depth follows the passage.** No set length and no equal depth. A passage gets as much as its wording and argument support, and no more. The house style's ban on padding still applies.
 6. **Never edit the main commentary in this run.** Log each error found in it under "Corrections to the commentary" in the key-passage list. Fixing it is a separate task.
@@ -86,20 +86,28 @@ Group the hits by the commentary's units. Read the source by line range only whe
 
 ## Task
 
-For each approved passage, in the order of the work:
+Each reading follows **one understanding** that the passage carries: a term of art, a concept, or a claim. For example, what Heidegger means by "productive logic" in GA 20 §1, or what "decline" means in §2. The reading makes that understanding clear and shows how the passage builds it. It does not survey everything the passage contains. Choose the understanding first, before drafting. It is usually the one the row's criterion and reason name. If the passage seems to carry two, choose the one the later work depends on.
 
-1. **Quote the passage in full**, in English, with the original (see "Quotation layout").
-2. **Read the wording.** Attend to whatever does work in this passage, and only that:
-   - choice of word: which of the author's available terms appears, and which is avoided; a term used in a sense different from its sense elsewhere in the work;
-   - morphology and coinage: hyphenation, nominalized infinitives, prefixes, etymology the author exploits or imposes;
-   - syntax: what is subject and what is predicate, active against passive, reflexives, modal verbs, the scope of a negation, a conditional the main commentary read as an assertion;
-   - emphasis and punctuation: italics, spaced type, quotation marks that distance a term, dashes and parentheses that hold a thought in suspension;
-   - particles and connectives: what "therefore", "but", "already", "precisely" claim, where the commentary prompt's translation rules dropped them;
-   - borrowed wording: the phrase from another author, and what the context does to it.
-3. **Read the argument.** State the step the passage makes, what it takes as given, what it rules out, and what it makes possible later in the work. Mark where the inference is weaker than the wording suggests.
-4. **Join the two.** Say how the wording does the argumentative work: where a word choice makes the step look necessary, or where a syntactic choice hides an assumption.
-5. **Place the passage.** Name its forward and backward connections inside the work, using the commentary's cross-references, and to the author's other works where a commentary in this repo covers them. Cite those by their commentary's citation system.
-6. **Compare translations** only when a published translation is in the corpus and departs from the original in a way that changes the argument. Name the translation and its file. Never cite a translation from memory.
+For each approved passage, in the order of the work, write one essay in this order.
+
+1. **State the understanding.** Open with a short paragraph, before the quotation, that says what the author means by the term or claim. Say it plainly enough that the rest of the reading can be checked against it.
+2. **Quote the passage in full**, in English, with the original (see "Quotation layout").
+3. **Show how the language develops the understanding.** Attend only to the wording that builds this understanding:
+   - which of the author's terms appears, and which is avoided;
+   - pairs and oppositions of terms, and a word family carried through the passage;
+   - morphology and coinage: hyphenation, prefixes, and etymology the author exploits or imposes;
+   - syntax: what is subject, a conditional the commentary read as an assertion, the scope of a negation;
+   - emphasis, and quotation marks that distance a term;
+   - particles and connectives that claim more than the argument shows ("therefore", "first", "only");
+   - borrowed wording, and what the context does to it.
+
+   Mark where the inference is weaker than the wording makes it look.
+4. **Place the passage in its context.** Show what comes before it and sets it up, and what comes after it and uses it. Say what the passage contributes to the author's argument at that point: why the argument needs this understanding here. Use the source for the neighbouring text and the commentary's units for orientation.
+5. **Follow the understanding through the whole work.** Find where it returns, changes or is carried out later. A word that changes its subject, a promise redeemed, a thesis hedged on its return. Cite those places by § and page.
+6. **Connect it to the author's other works** where that adds to the understanding: an earlier formulation, a later hardening, a revision. Draw these only from files in the sources repo, read by line range, and cite them by the volume's own pagination (Gesamtausgabe page, "SZ n", and so on). Where a commentary in this repo covers the work, its citation system governs. Never cite another work from memory. If the corpus cannot confirm a connection, leave it out. One or two connections that change how the passage reads are better than a survey.
+7. **Compare translations** only when a published translation is in the corpus and departs from the original in a way that changes the understanding. Name the translation. Never cite a translation from memory.
+
+The reading should read as one argument from the opening paragraph to the last. Each paragraph advances the understanding, and the last paragraph says where it ends up. Typical length is 900 to 1,300 words. A passage that carries less gets less.
 
 Audience: graduate-level familiarity with the author and the tradition, the same as the main commentary.
 
@@ -131,7 +139,8 @@ A paraphrase survives small conversion damage; a close reading does not. Before 
 - **Frontmatter** as for commentaries: `layout: default` and a `title`. Quote the title in YAML if it contains a colon.
 - **H1**: "<Author>, *<Work>*: close readings of key passages".
 - **Foreword**, in prose: the source file and edition, the citation system, a link to the main commentary, a statement that translations are working renderings, and any source caveat that affects more than one reading.
-- **One H2 per passage.** Its heading is the citation and a short English title of what the passage does: "§7, GA 20 110–11: the matter itself as a question of being". These headings are the file's own, unlike the commentary, which reproduces only the author's divisions. Under each heading, the first line links to the commentary unit it reads.
+- **One H2 per passage.** Its heading is the citation and a short English title naming the understanding: "§1, GA 20 2–3: productive logic". These headings are the file's own, unlike the commentary, which reproduces only the author's divisions. Under each heading, the first line links to the commentary unit it reads. The opening paragraph that states the understanding follows it, and the quotation comes after that paragraph.
+- **Notes on the text.** Where the source is damaged at the passage, put an italic "*Note on the text.*" paragraph directly after the quotation. Say what the file has, what the reading needs, and what is left out.
 - **Prose only** inside a reading, with no bullets or lists. The house style of [commentary-prompt](commentary-prompt.md) applies in full. Lead with the insight, prefer finite verbs, and avoid meta-scaffolding ("What is striking here is…", "Let us look closely at…"). A close reading invites narrating the reading. Write what the wording does, not that you are looking at it.
 
 ## Post-draft verification checklist (mandatory, before presenting)
@@ -141,6 +150,9 @@ A paraphrase survives small conversion damage; a close reading does not. Before 
 - [ ] Every quotation has an English rendering, and every glossed term is glossed on first use in this file.
 - [ ] The delete test is applied to each original-language word in the discussion.
 - [ ] No reading restates its commentary block without adding to it. Cut any sentence the block already says.
+- [ ] Each reading names its understanding in the opening paragraph, and every later paragraph advances that understanding. Cut any paragraph that does not.
+- [ ] The reading places the passage between what comes before and after it, and says what it contributes to the argument there.
+- [ ] Every connection to another part of the work or another work is cited by § and page, and every connection to another work was read in a corpus file, not supplied from memory.
 - [ ] Every point about wording is tied to the argument, and every point about the argument cites the wording that carries it.
 - [ ] Each disagreement with the main commentary is logged under "Corrections to the commentary".
 - [ ] No claim rests on emphasis or wording the "Source integrity" checks marked unreliable.
@@ -149,8 +161,9 @@ A paraphrase survives small conversion damage; a close reading does not. Before 
 
 1. Read the key-passage list. Take the next approved passages in the order of the work.
 2. Run the source-integrity checks for the source file, once per run, and record any caveat in the list header.
-3. For each passage, read the commentary's block for it, then the source by line range, including enough context on either side to see the step.
-4. Draft the reading: quotation, wording, argument, how the two join, placement.
-5. Append to the close-readings file, creating it with its frontmatter and foreword on first use.
-6. Run the verification checklist. Update each row's status and line pointer, and log any corrections.
-7. Present the updated close-readings file and list. If the turn stopped short of the approved list, say where, then await "continue".
+3. For each passage, read the commentary's block for it, then the source by line range, including the paragraphs on either side.
+4. Name the understanding the reading will follow. Grep the source for where its key words return later in the work, and grep the author's other files in the corpus for earlier or later formulations. Read the hits by line range.
+5. Draft the reading in the order the Task section sets: the understanding, the quotation, the language, the context, the whole work, other works.
+6. Append to the close-readings file, creating it with its frontmatter and foreword on first use.
+7. Run the verification checklist. Update each row's status and line pointer, and log any corrections.
+8. Present the updated close-readings file and list. If the turn stopped short of the approved list, say where, then await "continue".
