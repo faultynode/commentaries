@@ -112,16 +112,30 @@ def source_status(author_folder, slug):
 
 
 def runs():
-    """Every runs/*.md with its R, P and the first line of its Progress section."""
+    """Every comparative runs/*.md with its R, P, any auxiliary P's, and the first line
+    of its Progress section.
+
+    runs/ also holds single-commentary key-passages files ("Commentary: …", no R or P).
+    They are not pairs, so they are skipped. A file with only one of R and P is kept,
+    so that a malformed run header still shows up as "None" in READINESS.md.
+
+    An "Auxiliary map …: commentaries/…/<slug>.md" line in the header names a further
+    commentary on P's work that the run used for part of P's range (marion-rd-on-hua3
+    uses the Ideas I parts 3-4 commentary for §§63-110). That pair is served too."""
     out = []
     for f in sorted(glob.glob(os.path.join(ROOT, "runs", "*.md"))):
         with open(f, encoding="utf-8") as fh:
             txt = fh.read()
         r = re.search(r"Commentary R[^:]*:\s*\S*?([\w.-]+?)\.md", txt)
         p = re.search(r"Commentary P[^:]*:\s*\S*?([\w.-]+?)\.md", txt)
+        if not r and not p:
+            continue
+        head = txt.split("\n## ", 1)[0]
+        aux = re.findall(r"(?mi)^\s*Auxiliary[^:\n]*:\s*\S*?([\w.-]+?)\.md", head)
         progress = re.search(r"(?m)^## Progress[ \t]*\r?\n(.+)", txt)
         out.append({"file": "runs/" + os.path.basename(f),
                     "R": r.group(1) if r else None, "P": p.group(1) if p else None,
+                    "aux": aux,
                     "progress": progress.group(1).strip() if progress else None})
     return out
 
@@ -155,16 +169,29 @@ GENERIC = {"phenomenology", "phenomenological", "philosophy", "philosophical", "
            "logical", "lecture", "introduction", "study", "problem", "basic", "theory",
            "critique", "general", "commentary", "part", "edition", "preface", "work"}
 MARKER = re.compile(r"\d+|[ivx]+")
+# Ordinals pick out one member of a series ("First Investigation", "Zweiter Teil"). They
+# become markers of their own ("#1"), kept apart from the numerals: "19-1" in a slug is a
+# Hua half-volume, not the First Investigation.
+ORDINAL = {}
+for _n, _forms in enumerate([
+        ("first", "erste", "erster", "ersten", "premier", "premiere"),
+        ("second", "zweite", "zweiter", "zweiten", "deuxieme", "seconde"),
+        ("third", "dritte", "dritter", "dritten", "troisieme"),
+        ("fourth", "vierte", "vierter", "vierten", "quatrieme"),
+        ("fifth", "funfte", "fuenfte", "funfter", "fuenfter", "cinquieme"),
+        ("sixth", "sechste", "sechster", "sixieme")], start=1):
+    for _w in _forms:
+        ORDINAL[_w] = "#%d" % _n
 
 
 def title_words(s):
     """(content words, volume markers): plurals folded, generic words dropped, so that
     'Logical Investigations' meets 'fifth-logical-investigation' on 'investigation'."""
     words = re.findall(r"[a-z0-9]+", fold(s))
-    marks = {w for w in words if MARKER.fullmatch(w)}
+    marks = {w for w in words if MARKER.fullmatch(w)} | {ORDINAL[w] for w in words if w in ORDINAL}
     content = set()
     for w in words:
-        if w in STOP or MARKER.fullmatch(w) or len(w) < 3:
+        if w in STOP or MARKER.fullmatch(w) or w in ORDINAL or len(w) < 3:
             continue
         w = w[:-1] if len(w) > 4 and w.endswith("s") else w
         if w not in GENERIC:
@@ -200,7 +227,11 @@ def candidate_rows(ctx, check_sources=True):
     """Every (R, P) pair the records support, scored and sorted. Without check_sources
     the rows depend on this repo alone, which is what READINESS.md needs."""
     docs = ctx["docs"]
-    done = {(r["R"], r["P"]): r["file"] for r in runs()}
+    done = {}
+    for run in runs():
+        for aux in run["aux"]:
+            done[(run["R"], aux)] = run["file"] + " (auxiliary)"
+        done[(run["R"], run["P"])] = run["file"]
     rows = []
     for rec in ctx["records"]:
         r_slug = rec["commentary"]
