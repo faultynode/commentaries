@@ -1,0 +1,152 @@
+{
+  "schema_version": 1,
+  "theme": "erfuellung",
+  "commentary": "husserliana-19-2-sixth-logical-investigation-commentary",
+  "source_sha256": "b8cda8b8a2a31d263455efa37437b0aefc01c6231f22bb078a8ff640c779cc85",
+  "extracted_at": "2026-11-02",
+  "extractor": {
+    "agent": "claude-code",
+    "model": "claude-opus-5-5",
+    "prompt": "synthesis/prompts/extraction-prompt.md"
+  },
+  "coverage": "partial",
+  "coverage_note": "Read in full: §§ 8, 11, 13, 16, 21, 24, 37, 39, 40 and 45 (Chapters One to Three, Five and Six). Not read: the Introduction, §§ 9-10, 12, 14-15, 17-20, 22-23, 25-36, 38, 41-44, 46-66 and the Third Section, among them § 23, § 25, § 28, § 29 and § 63, which carry 33-43 term hits each.",
+  "units": [
+    {
+      "id": "erfuellung/hua-19-2/001",
+      "locator": "husserliana-19-2-sixth-logical-investigation-commentary#h3-s-8-the-dynamic-unity-between-expression-and-expressed-intuition-the-fulfilment",
+      "primary_locator": "LI VI § 8",
+      "term": "Erfüllungsbewußtsein",
+      "status": "introduced",
+      "claim": "When an intuition joins a merely symbolic expression afterward, a descriptively peculiar fulfilment-consciousness arises in which the meaning act finds fulfilment in the intuiting act as an aiming intention.",
+      "quote": "When this event occurs, we experience a descriptively peculiar *fulfilment-consciousness* (*Erfüllungsbewußtsein*): the act of pure meaning finds, in the manner of an *aiming intention*, a fulfilment in the intuiting act."
+    },
+    {
+      "id": "erfuellung/hua-19-2/002",
+      "locator": "husserliana-19-2-sixth-logical-investigation-commentary#h3-s-8-the-dynamic-unity-between-expression-and-expressed-intuition-the-fulfilment",
+      "primary_locator": "LI VI § 8",
+      "term": "Deckung",
+      "status": "introduced",
+      "claim": "Static fulfilment is distinguished from dynamic fulfilment as a resting being-fulfilled and a being-in-coincidence, possibly with no preceding stage of unfulfilled intention.",
+      "quote": "The fulfilment of the intention is here not a *process of self-fulfilling* but a resting *being-fulfilled*; not a *coinciding* but a *being-in-coincidence* (*in Deckung Sein*)."
+    },
+    {
+      "id": "erfuellung/hua-19-2/003",
+      "locator": "husserliana-19-2-sixth-logical-investigation-commentary#h3-s-8-the-dynamic-unity-between-expression-and-expressed-intuition-the-fulfilment",
+      "primary_locator": "LI VI § 8",
+      "term": "fulfilment",
+      "status": "introduced",
+      "claim": "What is called fulfilment with reference to the acts is, with reference to their objects, identity-consciousness or an act of identification.",
+      "quote": "what we phenomenologically characterize, with reference to the acts, as *fulfilment* is, with reference to the bilateral objects — the intuited object on the one side, the thought object on the other — to be expressed as *identity-experience, identity-consciousness, act of identification*"
+    },
+    {
+      "id": "erfuellung/hua-19-2/004",
+      "locator": "husserliana-19-2-sixth-logical-investigation-commentary#h3-s-11-disappointment-and-conflict-synthesis-of-distinction",
+      "primary_locator": "LI VI § 11",
+      "term": "Enttäuschung",
+      "status": "introduced",
+      "claim": "Disappointment is the excluding opposite of fulfilment and is not a privation of fulfilment but a new descriptive fact, a form of synthesis as peculiar as fulfilment.",
+      "quote": "The mostly negative expression usually serving here — e.g., *non-fulfilment* — means no mere privation of fulfilment, but a new descriptive fact, a form of synthesis as peculiar as fulfilment."
+    },
+    {
+      "id": "erfuellung/hua-19-2/005",
+      "locator": "husserliana-19-2-sixth-logical-investigation-commentary#h3-s-11-disappointment-and-conflict-synthesis-of-distinction",
+      "primary_locator": "LI VI § 11",
+      "term": "Widerstreit",
+      "status": "introduced",
+      "claim": "Conflict is not coordinate with fulfilment: an intention is disappointed in the manner of conflict only as part of a more comprehensive intention whose complementary part is fulfilled.",
+      "quote": "*an intention disappoints itself in the manner of conflict only by being a part of a more comprehensive intention whose complementary part fulfils itself.* With simple or isolated acts, therefore, there can be no talk of conflict."
+    },
+    {
+      "id": "erfuellung/hua-19-2/006",
+      "locator": "husserliana-19-2-sixth-logical-investigation-commentary#h3-s-13-the-synthesis-of-knowledge-as-the-form-of-fulfilment-characteristic-of-the",
+      "primary_locator": "LI VI § 13",
+      "term": "fulfilment-synthesis",
+      "status": "introduced",
+      "claim": "Objectifying acts could be defined as those whose fulfilment-synthesis has the character of identification and whose disappointment-synthesis has the character of distinction.",
+      "quote": "Accordingly we could outright *define* the objectifying acts as those whose fulfilment-synthesis has the character of *identification* (whose disappointment-synthesis, then, the character of *distinction*)"
+    },
+    {
+      "id": "erfuellung/hua-19-2/007",
+      "locator": "husserliana-19-2-sixth-logical-investigation-commentary#h3-s-13-the-synthesis-of-knowledge-as-the-form-of-fulfilment-characteristic-of-the",
+      "primary_locator": "LI VI § 13",
+      "term": "fulfilment",
+      "status": "criticized",
+      "claim": "Wish-fulfilment is founded in an identification but not exhausted by it, and speaking of satisfaction or fulfilment outside the sphere of feeling-intentions is only a simile.",
+      "quote": "It is only a *simile* when we like to speak of satisfaction — indeed even of fulfilment — outside the sphere of the *Gemüt*\\-intentions (intentions of feeling)."
+    },
+    {
+      "id": "erfuellung/hua-19-2/008",
+      "locator": "husserliana-19-2-sixth-logical-investigation-commentary#h3-s-16-mere-identification-and-fulfilment",
+      "primary_locator": "LI VI § 16",
+      "term": "fulfilment",
+      "status": "revised",
+      "claim": "Fulfilment is narrowed from identification in general to those identifications that bring the intention nearer to the knowledge-goal, in which a more or less perfect intuitivization takes place.",
+      "quote": "in every fulfilment there takes place a more or less perfect *intuitivization* (*Veranschaulichung*). What the intention indeed means, but makes presentational in more or less improper or inadequate fashion, the fulfilment"
+    },
+    {
+      "id": "erfuellung/hua-19-2/009",
+      "locator": "husserliana-19-2-sixth-logical-investigation-commentary#h3-s-16-mere-identification-and-fulfilment",
+      "primary_locator": "LI VI § 16",
+      "term": "Steigerungsrelation",
+      "status": "introduced",
+      "claim": "The fulfilment-relation is a relation of increase whose series points to an ideal limit, the adequate self-presentation of the object of knowledge.",
+      "quote": "every such increase-series points to an *ideal limit* (*ideale Grenze*), or already realizes it in its end-member, which sets to all increase an unsurpassable goal: the goal of *absolute knowledge*, of the *adequate self-presentation* of the object of knowledge."
+    },
+    {
+      "id": "erfuellung/hua-19-2/010",
+      "locator": "husserliana-19-2-sixth-logical-investigation-commentary#h3-s-16-mere-identification-and-fulfilment",
+      "primary_locator": "LI VI § 16",
+      "term": "fulfilment",
+      "status": "introduced",
+      "claim": "Examples from mere imagination show that the character of fulfilment does not presuppose the positing-quality in either the intending or the fulfilling act.",
+      "quote": "the character of fulfilment does *not* presuppose what is reckoned to the *logical* concept of knowledge — namely the *positing-quality* (*Setzungsqualität*), both in the intending and in the fulfilling acts."
+    },
+    {
+      "id": "erfuellung/hua-19-2/011",
+      "locator": "husserliana-19-2-sixth-logical-investigation-commentary#h3-s-21-the-fullness-of-the-presentation",
+      "primary_locator": "LI VI § 21",
+      "term": "Fülle",
+      "status": "introduced",
+      "claim": "Signitive intentions are in themselves empty and lack any fullness, which only the intuitive presentation brings to them through identification.",
+      "quote": "Rather, the signitive presentation lacks for itself *any* fullness; only the intuitive presentation brings it *to* it and, through the identification, *into* it. The signitive intention merely *points to* the object"
+    },
+    {
+      "id": "erfuellung/hua-19-2/012",
+      "locator": "husserliana-19-2-sixth-logical-investigation-commentary#h3-s-24-series-of-increase-of-the-fulfilment",
+      "primary_locator": "LI VI § 24",
+      "term": "mere identification",
+      "status": "revised",
+      "claim": "The distinction between mere identification and fulfilment is traced back to identity-syntheses of acts without fullness, or to enrichment of fullness accompanied by simultaneous emptying.",
+      "quote": "fulfilment (enrichment of fullness) does take place, but under simultaneous emptying, under surrender of already present fullness, so that no pronounced and pure increase-consciousness comes about."
+    },
+    {
+      "id": "erfuellung/hua-19-2/013",
+      "locator": "husserliana-19-2-sixth-logical-investigation-commentary#h3-s-37-the-fulfilment-function-of-perception-the-ideal-of-the-ultimate-fulfilment",
+      "primary_locator": "LI VI § 37",
+      "term": "endgültige und letzte Erfüllung",
+      "status": "introduced",
+      "claim": "The fulfilment-increase has a concluding goal, a definitive and ultimate fulfilment in which representing and represented content are identically one and adaequatio rei et intellectus is established.",
+      "quote": "a *definitive and ultimate fulfilment* (*endgültige und letzte Erfüllung*). The intuitive content of this concluding presentation is the *absolute sum of possible fullness*; the intuitive representant is the *object itself, as it is in itself*."
+    },
+    {
+      "id": "erfuellung/hua-19-2/014",
+      "locator": "husserliana-19-2-sixth-logical-investigation-commentary#h3-s-39-evidence-and-truth",
+      "primary_locator": "LI VI § 39",
+      "term": "evidence",
+      "status": "introduced",
+      "claim": "Truth in the first sense is the full agreement between meant and given, experienced in evidence understood as the actual performance of adequate identification.",
+      "quote": "*the full agreement between meant and given as such*. This agreement is *experienced* in evidence, insofar as evidence is the actual performance of the adequate identification."
+    },
+    {
+      "id": "erfuellung/hua-19-2/015",
+      "locator": "husserliana-19-2-sixth-logical-investigation-commentary#h3-s-45-extension-of-the-concept-intuition-especially-of-the-concepts-perception-an",
+      "primary_locator": "LI VI § 45",
+      "term": "categorial intuition",
+      "status": "revised",
+      "claim": "Because categorially formed meanings also find fulfilment, every act fulfilling as confirming self-presentation is to be called perception and every fulfilling act intuition.",
+      "quote": "The essential like-kindedness of the *fulfilment-function*, and of all the ideal relations lawfully connected with it, makes it unavoidable to designate every act fulfilling in the manner of *confirming self-presentation* as *perception*, every fulfilling act überhaupt as *intuition*"
+    }
+  ],
+  "absences": []
+}

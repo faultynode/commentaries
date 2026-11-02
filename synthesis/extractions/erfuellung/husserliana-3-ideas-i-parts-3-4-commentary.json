@@ -1,0 +1,125 @@
+{
+  "schema_version": 1,
+  "theme": "erfuellung",
+  "commentary": "husserliana-3-ideas-i-parts-3-4-commentary",
+  "source_sha256": "f19201709befc4de8b6bb22946e7a6025dab23288f3e0eedcb69c94689a60ce1",
+  "extracted_at": "2026-11-02",
+  "extractor": {
+    "agent": "claude-code",
+    "model": "claude-opus-5-5",
+    "prompt": "synthesis/prompts/extraction-prompt.md"
+  },
+  "coverage": "partial",
+  "coverage_note": "Read in full: §§ 132, 136 and 140. §§ 67, 138 and 145: only the paragraphs containing 'fulfil', 'fullness' or 'empty'. Not read: §§ 66, 68, 124, 131, 147 and 149 (5-11 term hits each) and the rest of Parts Three and Four.",
+  "units": [
+    {
+      "id": "erfuellung/ideas-i-3-4/001",
+      "locator": "husserliana-3-ideas-i-parts-3-4-commentary#h3-s-67-method-of-clarification-nearness-to-givenness-and-farness-from-givenness",
+      "primary_locator": "Ideas I § 67",
+      "term": "reine Selbstgegebenheit",
+      "status": "introduced",
+      "claim": "Self-givenness, as the limit-state of clarification, is distinguished from originary, bodily or perceptual givenness.",
+      "quote": "A crucial *disambiguation*: *self-givenness* (= *clarity*) ≠ *originary* givenness (= *bodily*, *perceptual* presence)."
+    },
+    {
+      "id": "erfuellung/ideas-i-3-4/002",
+      "locator": "husserliana-3-ideas-i-parts-3-4-commentary#h3-s-132-the-core-as-sense-in-the-mode-of-its-fullness",
+      "primary_locator": "Ideas I § 132",
+      "term": "fullness",
+      "status": "introduced",
+      "claim": "Fullness is the clarity-mode of givenness: a darkly and a clearly conscious object can share an identical sense while differing in fullness.",
+      "quote": "So the sense (the determination-content) is identical across clarity-levels, while the fullness (the clarity) differs."
+    },
+    {
+      "id": "erfuellung/ideas-i-3-4/003",
+      "locator": "husserliana-3-ideas-i-parts-3-4-commentary#h3-s-132-the-core-as-sense-in-the-mode-of-its-fullness",
+      "primary_locator": "Ideas I § 132",
+      "term": "full core",
+      "status": "introduced",
+      "claim": "The full core of the noema is defined as the sense in the mode of its fullness.",
+      "quote": "As full core we will accordingly reckon precisely the full concretion of the relevant noematic stock-piece, hence the sense in the mode of its fullness."
+    },
+    {
+      "id": "erfuellung/ideas-i-3-4/004",
+      "locator": "husserliana-3-ideas-i-parts-3-4-commentary#h3-s-136-the-first-fundamental-form-of-reason-consciousness-originarily-giving-seei",
+      "primary_locator": "Ideas I § 136",
+      "term": "filled or unfilled sense",
+      "status": "revised",
+      "claim": "The difference between blind and insightful judgment does not concern the sense or proposition, which is identical in both, but whether it is filled or unfilled.",
+      "quote": "The difference concerns the way how the mere sense, or proposition — which as mere abstractum in the concretion of the consciousness-noema demands a plus of completing moments — is filled or unfilled sense and proposition."
+    },
+    {
+      "id": "erfuellung/ideas-i-3-4/005",
+      "locator": "husserliana-3-ideas-i-parts-3-4-commentary#h3-s-136-the-first-fundamental-form-of-reason-consciousness-originarily-giving-seei",
+      "primary_locator": "Ideas I § 136",
+      "term": "fulfillment",
+      "status": "introduced",
+      "claim": "Fullness alone does not decide; the how of fulfillment matters, the intuitive mode and within it the distinguished originarily-giving mode.",
+      "quote": "Fullness of the sense alone does not make it out, it depends also on the how of the fulfillment. An experience-way of the sense is the \"intuitive,\" whereby the \"meant object as such\" is intuitively conscious"
+    },
+    {
+      "id": "erfuellung/ideas-i-3-4/006",
+      "locator": "husserliana-3-ideas-i-parts-3-4-commentary#h3-s-136-the-first-fundamental-form-of-reason-consciousness-originarily-giving-seei",
+      "primary_locator": "Ideas I § 136",
+      "term": "Evidenz",
+      "status": "revised",
+      "claim": "Evidence is defined as the unity of a reason-positing with the originary givenness that essentially motivates it, with a noetic and a noematic side.",
+      "quote": "Insight, in general evidence (Evidenz) is thus a quite distinguished occurrence; according to its \"core\" it is the unity of a reason-positing with the it essence-wise motivating"
+    },
+    {
+      "id": "erfuellung/ideas-i-3-4/007",
+      "locator": "husserliana-3-ideas-i-parts-3-4-commentary#h3-s-136-the-first-fundamental-form-of-reason-consciousness-originarily-giving-seei",
+      "primary_locator": "Ideas I § 136",
+      "term": "fulfillment",
+      "status": "introduced",
+      "claim": "Talk of fulfillment has a double sense: the character the thesis takes on through the mode of the sense, and the peculiarity of that sense to harbor a fullness that rationally motivates.",
+      "quote": "Once it is \"fulfillment of the intention,\" as a character that the actual thesis takes on through the special mode of the sense; the other time it is precisely the peculiarity of this mode itself, or the peculiarity of the relevant sense, to harbor in itself a \"fullness\" that rationally motivates."
+    },
+    {
+      "id": "erfuellung/ideas-i-3-4/008",
+      "locator": "husserliana-3-ideas-i-parts-3-4-commentary#h3-s-138-adequate-and-inadequate-evidence",
+      "primary_locator": "Ideas I § 138",
+      "term": "unanimous fulfillment",
+      "status": "presupposed",
+      "claim": "In the inadequate sphere of realities, the experience-course fills the empty places of preceding appearances in unanimous fulfillment whose reason-power steadily increases, and positings gain weight.",
+      "quote": "precisely the experience-course in which the empty-places of the preceding appearances fill themselves, the indeterminacies determine themselves more closely, and so constantly in the way of thoroughgoing unanimous fulfillment with its steadily self-increasing reason-power."
+    },
+    {
+      "id": "erfuellung/ideas-i-3-4/009",
+      "locator": "husserliana-3-ideas-i-parts-3-4-commentary#h3-s-140-confirmation-justification-without-evidence-equivalence-of-the-positional",
+      "primary_locator": "Ideas I § 140",
+      "term": "Deckung",
+      "status": "introduced",
+      "claim": "An evident and a non-evident act of the same sense can come to coincidence, in which the evident positing confirms the non-evident one.",
+      "quote": "There can, for example, an evident act and a non-evident one come to coincidence, whereby in the transition from the latter to the former this takes on the character of the verifying, that of the self-verifying."
+    },
+    {
+      "id": "erfuellung/ideas-i-3-4/010",
+      "locator": "husserliana-3-ideas-i-parts-3-4-commentary#h3-s-140-confirmation-justification-without-evidence-equivalence-of-the-positional",
+      "primary_locator": "Ideas I § 140",
+      "term": "fulfillment-course",
+      "status": "criticized",
+      "claim": "Not every imperfect evidence prescribes a fulfillment-course ending in an originary evidence of the same sense; for memory and empathy originary confirmation is excluded in principle.",
+      "quote": "It is to be seen that not every imperfect evidence prescribes thereby a fulfillment-course that terminates in a corresponding originary evidence, in one of the same sense; on the contrary, through certain evidence-kinds such a so-to-speak originary confirmation is in principle excluded."
+    },
+    {
+      "id": "erfuellung/ideas-i-3-4/011",
+      "locator": "husserliana-3-ideas-i-parts-3-4-commentary#h3-s-140-confirmation-justification-without-evidence-equivalence-of-the-positional",
+      "primary_locator": "Ideas I § 140",
+      "term": "fulfillment",
+      "status": "introduced",
+      "claim": "For essence-positings the intuitive re-presentation of perfect fulfillment is equivalent to the fulfillment itself, unlike existence-positings of the Real, which need actual experience.",
+      "quote": "in every case of an essence-positing, or essence-proposition, the intuitive re-presentation of its perfect fulfillment is equivalent with the fulfillment itself"
+    },
+    {
+      "id": "erfuellung/ideas-i-3-4/012",
+      "locator": "husserliana-3-ideas-i-parts-3-4-commentary#h3-s-145-critical-remarks-on-the-phenomenology-of-evidence",
+      "primary_locator": "Ideas I § 145",
+      "term": "fulfillment of the intention",
+      "status": "presupposed",
+      "claim": "Evidence is a positing-mode belonging to the essence-constitution of the noema, and essence-laws govern consciousness of fulfillment of the intention and its counter-characters of disconfirming.",
+      "quote": "that there is, for example, something like consciousness of the \"fulfillment of the intention,\" of the specifically on the thetic characters related justification and confirmation, just as the corresponding counter-characters of the disrighting, disconfirming."
+    }
+  ],
+  "absences": []
+}

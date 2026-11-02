@@ -1,0 +1,113 @@
+{
+  "schema_version": 1,
+  "theme": "erfuellung",
+  "commentary": "husserl-thing-and-space-commentary",
+  "source_sha256": "e0d0451d72ec96da3d81ae5556439940774ed1e7a51cb3d8a40eb1cf5affde23",
+  "extracted_at": "2026-11-02",
+  "extractor": {
+    "agent": "claude-code",
+    "model": "claude-opus-5-5",
+    "prompt": "synthesis/prompts/extraction-prompt.md"
+  },
+  "coverage": "partial",
+  "coverage_note": "Read in full: §§ 4, 5, 32 and 33. § 18: only the paragraphs containing 'fulfil', 'empty' or 'leer'. Not read: §§ 8-9, 30-31, 36-37, 51, 54 and 62 (9-17 term hits each) and the 32 further sections with hits.",
+  "units": [
+    {
+      "id": "erfuellung/thing-and-space/001",
+      "locator": "husserl-thing-and-space-commentary#h3-s4-intentionality-as-the-essential-determination-of-perception",
+      "primary_locator": "Thing and Space § 4",
+      "term": "leibhaftig da",
+      "status": "introduced",
+      "claim": "Perception is distinguished from phantasy, image-consciousness and thought not by intentionality as such but by the mode of givenness in which the object stands there in the flesh, self-given in the current now.",
+      "quote": "In perception, the object stands there as **there in the flesh** (*leibhaftig da*). More precisely: as **actually present**, as **self-given there in the current now**. This is the specific character of perceptual givenness."
+    },
+    {
+      "id": "erfuellung/thing-and-space/002",
+      "locator": "husserl-thing-and-space-commentary#h3-s18-the-mode-of-givenness-of-improperly-appearing-determinations",
+      "primary_locator": "Thing and Space § 18",
+      "term": "leere Intentionen",
+      "status": "introduced",
+      "claim": "A perception is a complex of full intentions backed by sensational material and empty intentions that lack presentational material but keep their direction toward moments of the object.",
+      "quote": "perception is a complex of **full intentions** (*volle Intentionen*) and **empty intentions** (*leere Intentionen*), or equivalently, full and empty rays of apprehension."
+    },
+    {
+      "id": "erfuellung/thing-and-space/003",
+      "locator": "husserl-thing-and-space-commentary#h3-s18-the-mode-of-givenness-of-improperly-appearing-determinations",
+      "primary_locator": "Thing and Space § 18",
+      "term": "empty intentions",
+      "status": "revised",
+      "claim": "The commentary states that the full/empty terminology of the Sixth Logical Investigation is here applied to the internal structure of a single perceptual act rather than to the relation between separate acts.",
+      "quote": "This full/empty terminology clearly carries forward the framework from the Sixth *Logical Investigation*, but now applied specifically to the internal structure of a *single* perceptual act rather than to the relation between separate acts of different types (signitive vs. intuitive)."
+    },
+    {
+      "id": "erfuellung/thing-and-space/004",
+      "locator": "husserl-thing-and-space-commentary#h3-s18-the-mode-of-givenness-of-improperly-appearing-determinations",
+      "primary_locator": "Thing and Space § 18",
+      "term": "empty",
+      "status": "introduced",
+      "claim": "The empty apprehensional components of a perception are distinguished from obscure representations such as dim phantasies, which still present something through degraded sensational material.",
+      "quote": "The empty components of perceptual apprehension have no presentational material *at all*. They are a structurally distinct mode of intentional directedness."
+    },
+    {
+      "id": "erfuellung/thing-and-space/005",
+      "locator": "husserl-thing-and-space-commentary#h3-s32-intention-and-fulfillment-in-the-perceptual-process-increase-and-decrease-of",
+      "primary_locator": "Thing and Space § 32",
+      "term": "intention and fulfillment",
+      "status": "introduced",
+      "claim": "Two interwoven plays of intention and fulfillment are distinguished in the continuous synthesis: the general forward-reference from phase to phase, and a narrower one concerning increase and decrease of the completeness of presentation.",
+      "quote": "The second play of intentions and fulfillments is narrower and structurally different. It concerns not the mere forward-directedness of the series but the **increase and decrease of the completeness of the presentation**."
+    },
+    {
+      "id": "erfuellung/thing-and-space/006",
+      "locator": "husserl-thing-and-space-commentary#h3-s32-intention-and-fulfillment-in-the-perceptual-process-increase-and-decrease-of",
+      "primary_locator": "Thing and Space § 32",
+      "term": "emptying",
+      "status": "introduced",
+      "claim": "Fulfillment in the opposite direction has its correlate in an emptying, a continuous receding from the goal, and the decreasing series end in a null-point of appearance.",
+      "quote": "Fulfillment proceeding in the opposite direction has its correlate in an **\"emptying\"** — a continuous receding from the goal, which is still what is \"intended\" in every phase."
+    },
+    {
+      "id": "erfuellung/thing-and-space/007",
+      "locator": "husserl-thing-and-space-commentary#h3-s32-intention-and-fulfillment-in-the-perceptual-process-increase-and-decrease-of",
+      "primary_locator": "Thing and Space § 32",
+      "term": "fulfillment",
+      "status": "introduced",
+      "claim": "The intention toward complete self-sameness is perpetually fulfilled in the increase of givenness but reaches its goal only at the maximal limit-point, where it becomes consciousness of the attained goal.",
+      "quote": "This penetrating intention finds perpetual fulfillment in the perpetual increase of the consciousness of givenness, but only in the limit-point as the maximal point is the goal of the increase actually attained."
+    },
+    {
+      "id": "erfuellung/thing-and-space/008",
+      "locator": "husserl-thing-and-space-commentary#h3-s33-the-role-of-improper-appearance-in-the-process-of-more-precise-determination",
+      "primary_locator": "Thing and Space § 33",
+      "term": "fulfillment",
+      "status": "presupposed",
+      "claim": "The continuous synthesis is at any time a braid of partial syntheses of increase and decrease, having the form of fulfillment in one direction and of emptying in the other.",
+      "quote": "Enrichment on one side goes hand in hand with impoverishment on the other. The synthesis has the form of fulfillment in one direction and the form of emptying in the other."
+    },
+    {
+      "id": "erfuellung/thing-and-space/009",
+      "locator": "husserl-thing-and-space-commentary#h3-s33-the-role-of-improper-appearance-in-the-process-of-more-precise-determination",
+      "primary_locator": "Thing and Space § 33",
+      "term": "adequate perception",
+      "status": "criticized",
+      "claim": "The ideal of an appearance absolutely saturated in every respect is put in question: thing-perception is constitutively perspectival and adumbrational because of the sense of spatial thinghood, not a limit of our faculties.",
+      "quote": "The entire analysis shows that thing-perception is *constitutively* perspectival and adumbrational, not because of some limitation of our cognitive faculties but because the very sense of spatial thinghood"
+    },
+    {
+      "id": "erfuellung/thing-and-space/010",
+      "locator": "husserl-thing-and-space-commentary#h3-s33-the-role-of-improper-appearance-in-the-process-of-more-precise-determination",
+      "primary_locator": "Thing and Space § 33",
+      "term": "possibility of fulfillment",
+      "status": "introduced",
+      "claim": "The evidence of the possibility of fulfillment is the evident possibility of phantasy appearances adapted to the perceptual appearance, which shows the direction of increase to be infinitely extendable rather than terminating in an achievable limit.",
+      "quote": "But this essential possibility is an ideal one — it shows that the direction of increase is infinitely extendable, not that it terminates in an actually achievable limit."
+    }
+  ],
+  "absences": [
+    {
+      "locator": "husserl-thing-and-space-commentary#h3-s5-presence-in-the-flesh-and-belief-perception-perzeption-and-position-taking",
+      "expected_because": "The section separates presence in the flesh from perceptual belief through unmasked hallucination and perceptual doubt, the cases where the Sixth Investigation's disappointment and conflict would apply.",
+      "absent_terms": ["fulfil", "fulfill", "disappoint", "Enttäuschung", "Erfüllung", "conflict", "Widerstreit"]
+    }
+  ]
+}

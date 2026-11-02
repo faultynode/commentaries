@@ -1,0 +1,98 @@
+{
+  "schema_version": 1,
+  "theme": "erfuellung",
+  "commentary": "husserliana-33-die-bernauer-manuskripte-uber-das-zeitbewusstsein-commentary",
+  "source_sha256": "7824dfc668eb525991d53ab3355fb32c76040ee942ce34e20338a34d494b2530",
+  "extracted_at": "2026-11-02",
+  "extractor": {
+    "agent": "claude-code",
+    "model": "claude-opus-5-5",
+    "prompt": "synthesis/prompts/extraction-prompt.md"
+  },
+  "coverage": "partial",
+  "coverage_note": "Read in full, lines 171-190 and 239-266: Text Nr. 1 §§ 1-2 and Text Nr. 2 §§ 2-6. Not read: Text Nr. 1 §§ 3-4 (12 and 20 term hits), Supplement I, Text Nr. 2 § 1, part III, § 9 and the rest of the volume.",
+  "units": [
+    {
+      "id": "erfuellung/hua-33/001",
+      "locator": "husserliana-33-die-bernauer-manuskripte-uber-das-zeitbewusstsein-commentary#h4-s-1-the-intentionality-of-ur-presentation-the-attentive-turning-toward-a-present",
+      "primary_locator": "Hua XXXIII Text Nr. 1 § 1",
+      "term": "fulfillment",
+      "status": "introduced",
+      "claim": "Ur-presentation is not an appearing of ur-presences that only afterwards take on intentionality, but a continual appearing of them in the mode of fulfillment of expectation-intentions.",
+      "quote": "the ur-presentation is not a mere appearing of ur-presences that would only subsequently take on intentionality, but a continual appearing of them in the mode of fulfillment of expectation-intentions."
+    },
+    {
+      "id": "erfuellung/hua-33/002",
+      "locator": "husserliana-33-die-bernauer-manuskripte-uber-das-zeitbewusstsein-commentary#h4-s-1-the-intentionality-of-ur-presentation-the-attentive-turning-toward-a-present",
+      "primary_locator": "Hua XXXIII Text Nr. 1 § 1",
+      "term": "empty concrete retention",
+      "status": "introduced",
+      "claim": "An empty concrete retention can find fulfillment only through a recollection that quasi-constitutes the same perception anew, and fulfillment in reverse running is impossible.",
+      "quote": "There is a primal law: an empty concrete retention can find fulfillment only through a recollection that (quasi-)constitutes anew the concrete perception of the same event in the mode of \"re-consciousness\" (*Wiederbewußtsein*)."
+    },
+    {
+      "id": "erfuellung/hua-33/003",
+      "locator": "husserliana-33-die-bernauer-manuskripte-uber-das-zeitbewusstsein-commentary#h4-s-2-the-interweaving-of-retentional-and-protentional-intentionality-in-the-cours",
+      "primary_locator": "Hua XXXIII Text Nr. 1 § 2",
+      "term": "fulfilled expectation",
+      "status": "introduced",
+      "claim": "Every middle phase of the primal process has a triple face, being retention of elapsed ur-data, retention of elapsed apprehensions, and fulfilled expectation from which an empty horizon of unfulfilled expectation radiates.",
+      "quote": "Every constituting total-phase is retention of fulfilled protention, which is the limit of a horizon of unfulfilled and itself continuously mediate protention (a stretch-continuum)."
+    },
+    {
+      "id": "erfuellung/hua-33/004",
+      "locator": "husserliana-33-die-bernauer-manuskripte-uber-das-zeitbewusstsein-commentary#h4-s-2-the-interweaving-of-retention-and-protention-as-fulfillment-process",
+      "primary_locator": "Hua XXXIII Text Nr. 2 § 2",
+      "term": "fulfillment",
+      "status": "introduced",
+      "claim": "Consciousness becomes both retentional and protentional continuity, steadily fulfillable such that every fulfillment is simultaneously intention for a new fulfillment.",
+      "quote": "In essence, it is steadily fulfillable such that every fulfillment is simultaneously intention for a new fulfillment, and so on."
+    },
+    {
+      "id": "erfuellung/hua-33/005",
+      "locator": "husserliana-33-die-bernauer-manuskripte-uber-das-zeitbewusstsein-commentary#h4-s-3-does-the-retentional-and-protentional-fulfillment-process-imply-an-infinite",
+      "primary_locator": "Hua XXXIII Text Nr. 2 § 3",
+      "term": "fulfillment-process",
+      "status": "criticized",
+      "claim": "The objection that retentionally conscious fulfillments generate an infinite regress of higher protentions is dismissed as a verbal entanglement that yields no vicious regress.",
+      "quote": "But Husserl dismisses this as a mere verbal entanglement: the protention not yet fulfilled passes into a fulfillment (a mode of the new protention), which passes into a new fulfillment"
+    },
+    {
+      "id": "erfuellung/hua-33/006",
+      "locator": "husserliana-33-die-bernauer-manuskripte-uber-das-zeitbewusstsein-commentary#h4-s-4-the-primal-process-consideration-in-steps",
+      "primary_locator": "Hua XXXIII Text Nr. 2 § 4",
+      "term": "intention and fulfillment",
+      "status": "presupposed",
+      "claim": "The primal process is an infinite protentional process in which each entering phase accords with the preceding tendency and is itself tendency on what is coming.",
+      "quote": "Tendency is a consciousness-mode, and what enters in accord with it is conscious as such and is in turn tendency on what is \"coming.\" Each phase is intention and fulfillment into infinity."
+    },
+    {
+      "id": "erfuellung/hua-33/007",
+      "locator": "husserliana-33-die-bernauer-manuskripte-uber-das-zeitbewusstsein-commentary#h4-s-5-new-graphic-representation-of-the-connection-of-progressive-fulfillment-and",
+      "primary_locator": "Hua XXXIII Text Nr. 2 § 5",
+      "term": "maximal fulfillment",
+      "status": "introduced",
+      "claim": "The Now is the form of the correlate of a consciousness-point of maximal fulfillment, an edge-point where the half-planes of intensification and sinking meet.",
+      "quote": "\"Now\" is the form of the correlate of a consciousness-point of maximal fulfillment, i.e., an edge-point."
+    },
+    {
+      "id": "erfuellung/hua-33/008",
+      "locator": "husserliana-33-die-bernauer-manuskripte-uber-das-zeitbewusstsein-commentary#h4-s-6-the-ultimately-constituting-consciousness-is-in-each-phase-positive-and-nega",
+      "primary_locator": "Hua XXXIII Text Nr. 2 § 6",
+      "term": "fulfilledness",
+      "status": "introduced",
+      "claim": "The zero-point of each phase is consciousness of saturation, the null of positive tendency, identified with originary consciousness of the bodily self-there.",
+      "quote": "The zero-point is consciousness of saturation—the null of positive tendency, \"fulfilledness.\""
+    },
+    {
+      "id": "erfuellung/hua-33/009",
+      "locator": "husserliana-33-die-bernauer-manuskripte-uber-das-zeitbewusstsein-commentary#h4-s-6-the-ultimately-constituting-consciousness-is-in-each-phase-positive-and-nega",
+      "primary_locator": "Hua XXXIII Text Nr. 2 § 6",
+      "term": "consciousness of fulfillment",
+      "status": "revised",
+      "claim": "Now-being alone is actually-being, given in the consciousness of fulfillment, while past and future are given as past Now and future Now.",
+      "quote": "Now-being alone is \"actually-being\"—what is given in the consciousness of fulfillment."
+    }
+  ],
+  "absences": []
+}

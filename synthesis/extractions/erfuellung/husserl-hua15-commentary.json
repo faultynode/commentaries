@@ -1,0 +1,107 @@
+{
+  "schema_version": 1,
+  "theme": "erfuellung",
+  "commentary": "husserl-hua15-commentary",
+  "source_sha256": "daa556a156ac145f8c58c4b948da0b3942d2609b351d9d92ce7c4c8c432ff899",
+  "extracted_at": "2026-11-02",
+  "extractor": {
+    "agent": "claude-code",
+    "model": "claude-opus-5-5",
+    "prompt": "synthesis/prompts/extraction-prompt.md"
+  },
+  "coverage": "partial",
+  "coverage_note": "Read in full: No. 6 (Hua XV 81-90) with its subsections 'Two Forms of Fulfilment of the Perception of Others' and 'Supplementary Remarks'. No. 19: only the paragraphs containing 'fulfil', 'empty' or 'confirm'; none extracted. Not read: Appendices IV, XVI and XX, 'Recollection and Empathy', No. 20, the Theory of Empathy section and the rest of the volume's 212 term hits.",
+  "units": [
+    {
+      "id": "erfuellung/hua-15/001",
+      "locator": "husserl-hua15-commentary#h3-no-6-on-the-theory-of-the-experience-of-others-intuitive-and-non-intuitive-forms",
+      "primary_locator": "Hua XV 83-84",
+      "term": "significatively",
+      "status": "introduced",
+      "claim": "The other's psychic life is given only significatively, and, per Husserl's later footnote, this appresentation can never become an actual presentation as a thing's back side can.",
+      "quote": "Husserl's footnote, added later, states the decisive contrast: the significatively co-present is appresented, but this appresentation can never become an actual presentation as that of a thing's back side can."
+    },
+    {
+      "id": "erfuellung/hua-15/002",
+      "locator": "husserl-hua15-commentary#h3-no-6-on-the-theory-of-the-experience-of-others-intuitive-and-non-intuitive-forms",
+      "primary_locator": "Hua XV 84",
+      "term": "empty, significative understanding",
+      "status": "introduced",
+      "claim": "Non-intuitive significative understanding precedes any making-intuitive of the other's experience, so empathy as intuitive imagining is optional and secondary.",
+      "quote": "Empathy in the narrow sense, intuitive imagining of the other's experience, is optional and secondary. The primary achievement is an empty, significative understanding."
+    },
+    {
+      "id": "erfuellung/hua-15/003",
+      "locator": "husserl-hua15-commentary#h3-no-6-on-the-theory-of-the-experience-of-others-intuitive-and-non-intuitive-forms",
+      "primary_locator": "Hua XV 84-85",
+      "term": "fulfilment",
+      "status": "revised",
+      "claim": "Fulfilment of the perception of others is two-layered, and fulfilment of the psychic layer is possible without intuition of the psychic, confirmed by the concordant course of the bodily layer.",
+      "quote": "Husserl's note names the structure: fulfilment of the perception of others is two-layered, its lower layer being the process and horizon of fulfilment of mere body-perception; hence the continuous appresentation is two-layered too. Fulfilment of the psychic layer is possible without intuition of the psychic."
+    },
+    {
+      "id": "erfuellung/hua-15/004",
+      "locator": "husserl-hua15-commentary#h3-no-6-on-the-theory-of-the-experience-of-others-intuitive-and-non-intuitive-forms",
+      "primary_locator": "Hua XV 85",
+      "term": "horizon-fulfilment",
+      "status": "introduced",
+      "claim": "Even in thing-perception the bulk of what is meant is fulfilled only in style, never intuitively, and horizon-fulfilment is the general structure the perception of others specifies.",
+      "quote": "The thing-case supplies the model: even in thing-perception, the bulk of what is meant is fulfilled only \"in style,\" never intuitively."
+    },
+    {
+      "id": "erfuellung/hua-15/005",
+      "locator": "husserl-hua15-commentary#h3-no-6-on-the-theory-of-the-experience-of-others-intuitive-and-non-intuitive-forms",
+      "primary_locator": "Hua XV 85",
+      "term": "fulfilment",
+      "status": "presupposed",
+      "claim": "The psychic meaning projects demands on the bodily course, and a bodily appearance that does not fit the demand cancels the positing.",
+      "quote": "The psychic meaning projects demands on the bodily course, and the bodily course confirms or cancels the psychic meaning."
+    },
+    {
+      "id": "erfuellung/hua-15/006",
+      "locator": "husserl-hua15-commentary#h4-two-forms-of-fulfilment-of-the-perception-of-others-which-are-at-the-same-time-l",
+      "primary_locator": "Hua XV 86",
+      "term": "levels of fulfilment",
+      "status": "introduced",
+      "claim": "Perception of others has two forms of fulfilment that are also levels: one without intuition, and one in which intuitive empathy is added to empty understanding confirmed in its course.",
+      "quote": "The two forms are not alternatives but levels: empty understanding is complete as perception yet surpassable by intuitive empathy, which gives the other in the highest originality open to him."
+    },
+    {
+      "id": "erfuellung/hua-15/007",
+      "locator": "husserl-hua15-commentary#h4-supplementary-remarks",
+      "primary_locator": "Hua XV 87",
+      "term": "confirmation",
+      "status": "revised",
+      "claim": "Confirmation of the psychic in another is the continuing unity of a total expression across manifold expressions, unlike thing-experience in which the appresented becomes actual by presentation.",
+      "quote": "The bracketed supplement restates the paradox and gives the answer: confirmation of the psychic is the continuing unity of a total expression across manifold expressions."
+    },
+    {
+      "id": "erfuellung/hua-15/008",
+      "locator": "husserl-hua15-commentary#h4-supplementary-remarks",
+      "primary_locator": "Hua XV 88",
+      "term": "levels of fulfilment",
+      "status": "introduced",
+      "claim": "The commentary applies the 'threefold layering' of Formal and Transcendental Logic to expression, yielding three levels of fulfilment: grammatical unity of sense, logical compatibility, intuitive evidence.",
+      "quote": "Applied to expression, it yields three levels of fulfilment: grammatical unity of sense, logical compatibility, intuitive evidence."
+    },
+    {
+      "id": "erfuellung/hua-15/009",
+      "locator": "husserl-hua15-commentary#h4-supplementary-remarks",
+      "primary_locator": "Hua XV 89",
+      "term": "fulfilling",
+      "status": "presupposed",
+      "claim": "Reading shows understanding fulfilling itself without intuition, through clarity of articulation.",
+      "quote": "Reading shows understanding fulfilling itself without intuition, through clarity of articulation, and its passage from understanding to co-judging to critical evaluation."
+    },
+    {
+      "id": "erfuellung/hua-15/010",
+      "locator": "husserl-hua15-commentary#h4-supplementary-remarks",
+      "primary_locator": "Hua XV 89-90",
+      "term": "fulfilment",
+      "status": "revised",
+      "claim": "Little becomes properly intuitive in perceptual transitions, yet there is continuous fulfilment of the non-intuitive sense and co-meant horizons.",
+      "quote": "Little becomes properly intuitive in these transitions, yet there is continuous fulfilment of the non-intuitive sense, the co-meant horizons."
+    }
+  ],
+  "absences": []
+}
