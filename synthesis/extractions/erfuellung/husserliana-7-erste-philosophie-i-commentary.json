@@ -1,0 +1,89 @@
+{
+  "schema_version": 1,
+  "theme": "erfuellung",
+  "commentary": "husserliana-7-erste-philosophie-i-commentary",
+  "source_sha256": "caeb8c837e2fc6f2afe18b07a39cebcd9f50a3476698bd72417fd9cebd8c9703",
+  "extracted_at": "2026-11-02",
+  "extractor": {
+    "agent": "claude-code",
+    "model": "claude-opus-5-5",
+    "prompt": "synthesis/prompts/extraction-prompt.md"
+  },
+  "coverage": "partial",
+  "coverage_note": "Eighteenth, Nineteenth and Twenty-third Lectures (lines 655-714 and 791-826): the paragraphs carrying fulfilment vocabulary. Not read: the First, Fourth, Fifth, Sixth and Twelfth Lectures (4-8 hits each) and the rest of the commentary.",
+  "units": [
+    {
+      "id": "erfuellung/hua-7/001",
+      "locator": "husserliana-7-erste-philosophie-i-commentary#h3-eighteenth-lecture-the-misrecognition-of-the-intuitive-self-givenness-of-the-gen",
+      "primary_locator": "Hua VII, Eighteenth Lecture",
+      "term": "fulfillment-synthesis",
+      "status": "presupposed",
+      "claim": "A general essence can be emptily thought or intuited as itself, and the synthesis of identification shows the merely meant and the self-given to be numerically one, through a fulfillment-synthesis.",
+      "quote": "possibly the same once merely meant and then itself given. Here too the *fulfillment-synthesis*, leading the meant back to the self-grasped,"
+    },
+    {
+      "id": "erfuellung/hua-7/002",
+      "locator": "husserliana-7-erste-philosophie-i-commentary#h3-eighteenth-lecture-the-misrecognition-of-the-intuitive-self-givenness-of-the-gen",
+      "primary_locator": "Hua VII, Eighteenth Lecture",
+      "term": "evidence",
+      "status": "criticized",
+      "claim": "Construing evidence as a light or feeling that indexes truth generates the Cartesian circle, which the insight that evidence is the self-givenness of the matter dissolves.",
+      "quote": "so long as evidence is construed as a mere *index* — a light or feeling accompanying certain judgments — one must then prove, circularly, that this index points to truth"
+    },
+    {
+      "id": "erfuellung/hua-7/003",
+      "locator": "husserliana-7-erste-philosophie-i-commentary#h3-eighteenth-lecture-the-misrecognition-of-the-intuitive-self-givenness-of-the-gen",
+      "primary_locator": "Hua VII, Eighteenth Lecture",
+      "term": "self-giving evidence",
+      "status": "introduced",
+      "claim": "Every kind of objectivity has its own immediacy of givenness and kind of self-giving evidence, and the unity of a proof is self-given only in carrying out its synthesis, even for a God.",
+      "quote": "*Every kind of objectivity has its immediacy of givenness, its kind of intuition, of self-giving evidence.*"
+    },
+    {
+      "id": "erfuellung/hua-7/004",
+      "locator": "husserliana-7-erste-philosophie-i-commentary#h3-nineteenth-lecture-the-necessity-of-the-extension-of-the-idea-of-intuition",
+      "primary_locator": "Hua VII, Nineteenth Lecture",
+      "term": "intuitive fulfillment",
+      "status": "presupposed",
+      "claim": "The concepts in an individual judgment like 'this tone is higher than that' fulfil themselves through intuition, but not through merely sensuous experience of the two tones.",
+      "quote": "According to sense, the word-senses \"tone\" and \"higher\" fulfill themselves through intuition — but not through the merely *sensuous* experience of two tones and a sensuous conjunction of both"
+    },
+    {
+      "id": "erfuellung/hua-7/005",
+      "locator": "husserliana-7-erste-philosophie-i-commentary#h3-nineteenth-lecture-the-necessity-of-the-extension-of-the-idea-of-intuition",
+      "primary_locator": "Hua VII, Nineteenth Lecture",
+      "term": "fulfillment",
+      "status": "revised",
+      "claim": "Experience or intuition is identified with evidence, the self-grasping of the meant as meant, and evidence-shapes are shapes of possible fulfillment of unfulfilled thought-intentions.",
+      "quote": "in the evidence-shapes possible and true sense — as shape of possible fulfillment of unfulfilled thought-intentions, a fulfillment in the shape of self-giving, or in \"measuring\" to such shape."
+    },
+    {
+      "id": "erfuellung/hua-7/006",
+      "locator": "husserliana-7-erste-philosophie-i-commentary#h3-twenty-third-lecture-hume-s-nominalistic-reduction-of-all-ideas-to-impressions-a",
+      "primary_locator": "Hua VII, Twenty-third Lecture",
+      "term": "synthesis of clarification and confirmation",
+      "status": "introduced",
+      "claim": "The empiricist demand to measure meanings against self-giving intuitions presupposes, without describing it, the synthesis in which an unclear thought appropriates fulfilling clarity.",
+      "quote": "the description of the *synthesis of clarification and confirmation*, of justification and its negative counterpart, dis-justification"
+    },
+    {
+      "id": "erfuellung/hua-7/007",
+      "locator": "husserliana-7-erste-philosophie-i-commentary#h3-twenty-third-lecture-hume-s-nominalistic-reduction-of-all-ideas-to-impressions-a",
+      "primary_locator": "Hua VII, Twenty-third Lecture",
+      "term": "confirmation",
+      "status": "revised",
+      "claim": "Hume's impression, rightly understood, is a title for evidence-consciousness: not the thing but only the self-intuition of the thing can confirm a mere meaning.",
+      "quote": "A real thing, which as such merely *is*, confirms nothing and has in itself nothing confirming. Not the thing can confirm, but only the *self-intuition* of the thing"
+    },
+    {
+      "id": "erfuellung/hua-7/008",
+      "locator": "husserliana-7-erste-philosophie-i-commentary#h3-twenty-third-lecture-hume-s-nominalistic-reduction-of-all-ideas-to-impressions-a",
+      "primary_locator": "Hua VII, Twenty-third Lecture",
+      "term": "confirmation-needing meanings",
+      "status": "introduced",
+      "claim": "'Idea' is a title for all confirmable and confirmation-needing meanings, conscious of what is meant in them but not self-given.",
+      "quote": "the analogous holds naturally for the counter-title \"idea,\" as title for all confirmable and confirmation-needing meanings: each is double-sidedly consciousness of in-it-conscious, in-it-meant, but *not* self-given."
+    }
+  ],
+  "absences": []
+}
