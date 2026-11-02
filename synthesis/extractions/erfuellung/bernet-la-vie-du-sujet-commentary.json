@@ -1,0 +1,98 @@
+{
+  "schema_version": 1,
+  "theme": "erfuellung",
+  "commentary": "bernet-la-vie-du-sujet-commentary",
+  "source_sha256": "4269d26270bb4f610dfccc053738781719d3fd12980aa525092b4633187232af",
+  "extracted_at": "2026-11-02",
+  "extractor": {
+    "agent": "claude-code",
+    "model": "claude-opus-5-5",
+    "prompt": "synthesis/prompts/extraction-prompt.md"
+  },
+  "coverage": "partial",
+  "coverage_note": "'The Intentionality of Sensible and Categorial Acts' (pp. 46-48) and II.1 sections I and II (pp. 125-136): the paragraphs carrying fulfilment vocabulary. Not read: the noema sections, 'A Hermeneutic Conception of Perception', 'Genesis of Objectivism…', 'Intentionality and Transcendence', II.1 section III, and the rest of the book.",
+  "units": [
+    {
+      "id": "erfuellung/bernet-vs/001",
+      "locator": "bernet-la-vie-du-sujet-commentary#h4-the-intentionality-of-sensible-and-categorial-acts",
+      "primary_locator": "La Vie du sujet pp. 47-48",
+      "term": "intuitive fulfilment",
+      "status": "presupposed",
+      "claim": "Because a perceptual statement contains forms with no counterpart in sensible perception, a categorial intuition is needed to secure its intuitive fulfilment.",
+      "quote": "Hence the need for a categorial intuition to justify the truth of a perceptual statement, that is, to secure what Husserl calls its intuitive fulfilment."
+    },
+    {
+      "id": "erfuellung/bernet-vs/002",
+      "locator": "bernet-la-vie-du-sujet-commentary#h4-i-2",
+      "primary_locator": "La Vie du sujet pp. 125-126",
+      "term": "signitive",
+      "status": "presupposed",
+      "claim": "In the Investigations the empty component surrounding the intuitive givenness of a spatial thing is called the signitive content of perception, making thing-perception a mixed representation.",
+      "quote": "In the *Investigations* this empty component of intuitive representation is called the *signitive* content of the perception of a thing"
+    },
+    {
+      "id": "erfuellung/bernet-vs/003",
+      "locator": "bernet-la-vie-du-sujet-commentary#h4-i-2",
+      "primary_locator": "La Vie du sujet p. 126",
+      "term": "signitive representation",
+      "status": "criticized",
+      "claim": "Bernet rejects the signitive model of the unseen side: the empty component is the anticipation of a possible perception, not the interpretation of a sign.",
+      "quote": "What I see of the thing without really seeing it is the object of a possible seeing: what is in question is the anticipation of an actual perception and a possible originary givenness, not the interpretation of a sign"
+    },
+    {
+      "id": "erfuellung/bernet-vs/004",
+      "locator": "bernet-la-vie-du-sujet-commentary#h4-i-2",
+      "primary_locator": "La Vie du sujet p. 128",
+      "term": "adequate representation",
+      "status": "criticized",
+      "claim": "The Investigations' ideal of adequacy for external perception is said to be borrowed from internal perception, an ideal it is absurd for external perception to be guided by.",
+      "quote": "Husserl seems for a moment to have forgotten that it is absurd to suppose external perception could be guided by an ideal belonging to the form of internal perception."
+    },
+    {
+      "id": "erfuellung/bernet-vs/005",
+      "locator": "bernet-la-vie-du-sujet-commentary#h4-i-2",
+      "primary_locator": "La Vie du sujet p. 129",
+      "term": "empty intentional horizon",
+      "status": "revised",
+      "claim": "Ideen I is said to understand the inadequacy of thing-perception as inseparability from an empty horizon of further appearances, so that a contradictory appearance always remains possible.",
+      "quote": "A perception or appearance is called inadequate because it is inseparable from an empty intentional horizon containing the anticipation of other possible and complementary appearances of the same object."
+    },
+    {
+      "id": "erfuellung/bernet-vs/006",
+      "locator": "bernet-la-vie-du-sujet-commentary#h4-ii-2",
+      "primary_locator": "La Vie du sujet p. 132",
+      "term": "Deckung",
+      "status": "presupposed",
+      "claim": "The continuous synthesis of appearances is a sensible synthesis of fusion or covering which, given the perceiver's interest, has the form of a process of intuitive fulfilment.",
+      "quote": "Taking that interest and the teleological movement it imprints on the process into account, we discover that the continuous synthesis of appearances has the form of a process of intuitive fulfilment."
+    },
+    {
+      "id": "erfuellung/bernet-vs/007",
+      "locator": "bernet-la-vie-du-sujet-commentary#h4-ii-2",
+      "primary_locator": "La Vie du sujet p. 133",
+      "term": "Entfüllung",
+      "status": "introduced",
+      "claim": "Because the ideal of adequate givenness is inaccessible, the synthesis of fulfilment is at the same time a synthesis of emptying or unfulfilment, open to disappointment.",
+      "quote": "The synthesis of fulfilment is therefore at the same time a synthesis of emptying (*Entleerung*) or unfulfilment (*Entfüllung*), since what is gained in intuitiveness by one appearance is lost by another."
+    },
+    {
+      "id": "erfuellung/bernet-vs/008",
+      "locator": "bernet-la-vie-du-sujet-commentary#h4-ii-2",
+      "primary_locator": "La Vie du sujet pp. 133-134",
+      "term": "perceptual fulfilment",
+      "status": "revised",
+      "claim": "The unlimited process of perceptual fulfilment is also a process of transcendental constitution, the thing being the synthetic unity of its appearances.",
+      "quote": "This unlimited process of perceptual fulfilment is also a process of transcendental constitution of the thing that appears"
+    },
+    {
+      "id": "erfuellung/bernet-vs/009",
+      "locator": "bernet-la-vie-du-sujet-commentary#h4-ii-2",
+      "primary_locator": "La Vie du sujet p. 136",
+      "term": "adequate givenness",
+      "status": "criticized",
+      "claim": "Gurwitsch's identification of the thing-in-itself with the totality of its appearances is said to risk falling back into the Investigations' contradictory ideal of adequacy, against Ideen I's Idea in the Kantian sense.",
+      "quote": "Gurwitsch would thereby lose the benefit of *Ideen I*'s analysis, on which the adequate givenness of the thing-in-itself is an Idea in the Kantian sense"
+    }
+  ],
+  "absences": []
+}
