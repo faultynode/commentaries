@@ -12,6 +12,7 @@ A comparative pair (the reading text R takes up the read text P) needs an inheri
 - `runs/henry-on-hga3.md` - `henry-the-essence-of-manifestation-commentary` reads `heidegger-ga-3-kant-und-das-problem-der-metaphysik-commentary`. Last completed unit: Appendix, §77, with closing paragraph (Section II complete with its closing paragraph; Appendix read by section; range complete; edition has no page numbers)
 - `runs/henry-on-hga5.md` - `henry-the-essence-of-manifestation-commentary` reads `heidegger-ga-5-hegels-begriff-der-erfahrung-commentary`. Last completed unit: run complete (2026-10-08). Section I §§8-16 (113 units, closing paragraph); Section II §§17-21 (41 units: §17 13, §18 9, §19 6, §20 6, §21 7) and §28 ¶8, with the Section II clos…
 - `runs/henry-on-sz.md` - `henry-the-essence-of-manifestation-commentary` reads `heidegger-sein-und-zeit-commentary`. Last completed unit: Appendix, §77 ¶16 (last unit of the book) with the Appendix closing verdict and the closing paragraph for the whole run. The run is complete.
+- `runs/henry-the-essence-of-manifestation-commentary-key-passages.md` - `None` reads `None`. no Progress line
 - `runs/marion-rd-on-hua3.md` - `marion-reduction-et-donation-commentary` reads `husserliana-3-ideas-i-commentary`. Last completed unit: Les figures de la donation ¶6, with the closing verdict on the whole book (2026-10-20). Run complete: the range (Foreword through Les figures de la donation; index excluded) is d…
 
 ## Reading texts with no inheritance record
@@ -32,7 +33,7 @@ With no entry, a commentary's role (primary or reception) is unrecorded, so it c
 
 ## What the records name
 
-38 records · 455 engagements · 169 (37%) name the predecessor's text. An engagement that names only an author can suggest a pair at author level, never a particular P.
+38 records · 469 engagements · 175 (37%) name the predecessor's text. An engagement that names only an author can suggest a pair at author level, never a particular P.
 
 Named texts that no commentary's title matches: the P side of a pair that cannot be run yet, or a title the corpus gives in another language (*Ideen I* against *Ideas I*), which only a work link can resolve.
 
@@ -46,7 +47,7 @@ Named texts that no commentary's title matches: the P side of a pair that cannot
 - Descartes, *Meditations* - 2 engagements, in `franck-chair-et-corps-commentary`, `henry-the-essence-of-manifestation-commentary`
 - Heidegger, *Nietzsche* - 2 engagements, in `franck-heidegger-and-the-problem-of-space-commentary`, `henry-genealogie-de-la-psychanalyse-commentary`
 - Plato, *Sophist* - 2 engagements, in `heidegger-ga-20-prolegomena-zur-geschichte-des-zeitbegriffs-commentary`, `heidegger-ga-3-kant-und-das-problem-der-metaphysik-commentary`
-- ... 72 more
+- ... 73 more
 
 ## Partial records: names not yet searched
 
@@ -57,7 +58,7 @@ Corpus authors each partial record could engage, by date, but has neither engage
 - [ ] `henry-genealogie-de-la-psychanalyse-commentary` - aristotle, bergson, derrida, franck, kern, kojeve, mohanty, picht
 - [ ] `henry-the-essence-of-manifestation-commentary` - aristotle, bergson, derrida, freud, kojeve, lacan, leibniz, mohanty, picht
 - [ ] `kojeve-introduction-a-la-lecture-de-hegel-commentary` - bergson, freud, mohanty, picht
-- [ ] `marion-reduction-et-donation-commentary` - franck, freud, kern, kojeve, lacan, mohanty, picht
+- [ ] `marion-reduction-et-donation-commentary` - every corpus author searched or engaged
 - [ ] `marion-sur-le-prisme-metaphysique-de-descartes-commentary` - bergson, derrida, fichte, franck, freud, kern, kojeve, lacan, mohanty, picht
 
 27 partial records do not record which names they searched, so what they owe cannot be told: `derrida-introduction-a-lorigine-de-la-geometrie-commentary`, `franck-chair-et-corps-commentary`, `heidegger-ga-19-platon-sophistes-commentary`, `heidegger-ga-20-prolegomena-zur-geschichte-des-zeitbegriffs-commentary`, `heidegger-ga-24-die-grundprobleme-der-phanomenologie-commentary`, `heidegger-sein-und-zeit-commentary`, `henry-philosophie-et-phenomenologie-du-corps-commentary`, `husserl-erfahrung-und-urteil-commentary`, `husserl-formal-and-transcendental-logic-commentary`, `husserl-krisis-commentary`, `husserl-natur-und-geist-commentary`, `husserl-thing-and-space-commentary`, `husserliana-1-cartesianische-meditationen-commentary`, `husserliana-11-analyses-concerning-passive-and-active-synthesis-commentary`, `husserliana-19-2-sixth-logical-investigation-commentary`, `husserliana-28-vorlesungen-uber-ethik-und-wertlehre-commentary`, `husserliana-3-ideas-i-commentary`, `husserliana-3-ideas-i-parts-3-4-commentary`, `husserliana-33-die-bernauer-manuskripte-uber-das-zeitbewusstsein-commentary`, `husserliana-39-die-lebenswelt-commentary`, `husserliana-4-ideas-ii-commentary`, `husserliana-43-2-studien-zur-struktur-des-bewusstseins-commentary`, `husserliana-5-ideas-iii-commentary`, `husserliana-7-erste-philosophie-i-commentary`, `husserliana-9-phenomenological-psychology-commentary`, `kern-husserl-and-kant-commentary`, `picht-de-anima-commentary`.
@@ -66,14 +67,14 @@ Corpus authors each partial record could engage, by date, but has neither engage
 
 Ranked by `scripts/comparative_candidates.py`: engagements weighted by mode (destructive and silent appropriation 3, polemical rejection 2.5, acknowledged debt 2, terminological borrowing 1), plus 4 for each named text that matches P, discounted where the record names only the author and the corpus holds several of their commentaries. Pairs with a run file are left out. Check the sources before starting one.
 
+- [ ] `marion-reduction-et-donation-commentary` reads `heidegger-sein-und-zeit-commentary` - score 47.0 · 12 engagements (6 acknowledged-debt, 6 polemical-rejection) · names *Sein und Zeit* · P-loci § 12; § 63
+- [ ] `marion-reduction-et-donation-commentary` reads `husserliana-3-ideas-i-parts-3-4-commentary` - score 46.5 · 13 engagements (7 polemical-rejection, 5 destructive-appropriation, 1 acknowledged-debt) · names *Ideas I* · P-loci § 42
 - [ ] `derrida-la-voix-et-le-phenomene-commentary` reads `husserliana-10-inneres-zeitbewusstsein-commentary` - score 40.0 · 15 engagements (8 polemical-rejection, 4 destructive-appropriation, 2 terminological-borrowing, 1 acknowledged-debt) · names *Lectures on the Phenomenology of Internal Time-Consciousness*
 - [ ] `derrida-la-voix-et-le-phenomene-commentary` reads `husserliana-19-1-fifth-logical-investigation-commentary` - score 40.0 · 15 engagements (8 polemical-rejection, 4 destructive-appropriation, 2 terminological-borrowing, 1 acknowledged-debt) · names *Logical Investigations, First Investigation*
 - [ ] `derrida-la-voix-et-le-phenomene-commentary` reads `husserliana-19-2-sixth-logical-investigation-commentary` - score 40.0 · 15 engagements (8 polemical-rejection, 4 destructive-appropriation, 2 terminological-borrowing, 1 acknowledged-debt) · names *Logical Investigations, First Investigation*
 - [ ] `franck-heidegger-and-the-problem-of-space-commentary` reads `heidegger-sein-und-zeit-commentary` - score 39.0 · 10 engagements (6 polemical-rejection, 4 acknowledged-debt) · names *Zeit und Sein*; *Sein und Zeit*
-- [ ] `marion-reduction-et-donation-commentary` reads `husserliana-3-ideas-i-parts-3-4-commentary` - score 35.5 · 9 engagements (5 polemical-rejection, 3 destructive-appropriation, 1 acknowledged-debt) · names *Ideas I* · P-loci § 42
+- [ ] `marion-reduction-et-donation-commentary` reads `husserliana-19-1-fifth-logical-investigation-commentary` - score 38.5 · 13 engagements (7 polemical-rejection, 5 destructive-appropriation, 1 acknowledged-debt) · names *Logical Investigations*
+- [ ] `marion-reduction-et-donation-commentary` reads `husserliana-19-2-sixth-logical-investigation-commentary` - score 38.5 · 13 engagements (7 polemical-rejection, 5 destructive-appropriation, 1 acknowledged-debt) · names *Logical Investigations*
 - [ ] `bernet-la-vie-du-sujet-commentary` reads `derrida-la-voix-et-le-phenomene-commentary` - score 31.5 · 5 engagements (3 polemical-rejection, 2 acknowledged-debt) · names *La voix et le phénomène*
-- [ ] `marion-reduction-et-donation-commentary` reads `husserliana-19-1-fifth-logical-investigation-commentary` - score 27.5 · 9 engagements (5 polemical-rejection, 3 destructive-appropriation, 1 acknowledged-debt) · names *Logical Investigations*
-- [ ] `marion-reduction-et-donation-commentary` reads `husserliana-19-2-sixth-logical-investigation-commentary` - score 27.5 · 9 engagements (5 polemical-rejection, 3 destructive-appropriation, 1 acknowledged-debt) · names *Logical Investigations*
-- [ ] `franck-chair-et-corps-commentary` reads `heidegger-being-and-time-commentary` - score 23.0 · 5 engagements (3 acknowledged-debt, 2 polemical-rejection) · names *Being and Time*; *Time and Being*
-- [ ] `kern-husserl-and-kant-commentary` reads `kant-kritik-der-reinen-vernunft-commentary` - score 18.0 · 7 engagements (2 acknowledged-debt, 2 polemical-rejection, 2 terminological-borrowing, 1 destructive-appropriation) · names *Kritik der reinen Vernunft*
-- ... 479 more; see `comparative_candidates.py --all`
+- [ ] `marion-reduction-et-donation-commentary` reads `heidegger-ga-24-die-grundprobleme-der-phanomenologie-commentary` - score 31.0 · 12 engagements (6 acknowledged-debt, 6 polemical-rejection) · names *Grundprobleme* · P-loci § 22
+- ... 483 more; see `comparative_candidates.py --all`

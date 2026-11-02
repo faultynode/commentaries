@@ -162,7 +162,7 @@ Next candidates, by term density:
 
 ## Inheritance index
 
-38 commentaries · 455 engagements
+38 commentaries · 469 engagements
 
 - `bernet-la-vie-du-sujet-commentary` - 24 engagements (partial)
 - `derrida-introduction-a-lorigine-de-la-geometrie-commentary` - 10 engagements (partial)
@@ -198,7 +198,7 @@ Next candidates, by term density:
 - `husserliana-9-phenomenological-psychology-commentary` - 6 engagements (partial)
 - `kern-husserl-and-kant-commentary` - 16 engagements (partial)
 - `kojeve-introduction-a-la-lecture-de-hegel-commentary` - 18 engagements (partial)
-- `marion-reduction-et-donation-commentary` - 22 engagements (partial)
+- `marion-reduction-et-donation-commentary` - 36 engagements (partial)
 - `marion-sur-le-prisme-metaphysique-de-descartes-commentary` - 17 engagements (partial)
 - `mohanty-philosophy-of-edmund-husserl-commentary` - 15 engagements
 - `picht-de-anima-commentary` - 7 engagements (partial)
