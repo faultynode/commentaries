@@ -8,17 +8,17 @@ Corpus: **71 commentaries**, 4,247,170 words, 4401 sections indexed in `synthesi
 
 ### erfuellung - intuitive fulfillment
 
-0 commentaries extracted · 0 units · 0 absences
+12 commentaries extracted · 117 units · 1 absences · 12 partial
 
 Next candidates, by term density:
 
-- [ ] `husserliana-19-2-sixth-logical-investigation-commentary` (1921) - 1033 hits
-- [ ] `husserl-thing-and-space-commentary` (1907) - 273 hits
-- [ ] `husserliana-11-analyses-concerning-passive-and-active-synthesis-commentary` (1920) - 253 hits
-- [ ] `husserl-hua15-commentary` (undated) - 212 hits
-- [ ] `husserliana-3-ideas-i-parts-3-4-commentary` (1913) - 209 hits
-- [ ] `husserliana-33-die-bernauer-manuskripte-uber-das-zeitbewusstsein-commentary` (1917) - 145 hits
-- ... 62 more; see `synthesis_query.py --theme erfuellung`
+- [ ] `heidegger-sein-und-zeit-commentary` (1927) - 89 hits
+- [ ] `husserliana-19-1-fifth-logical-investigation-commentary` (1901) - 87 hits
+- [ ] `henry-phenomenologie-de-la-vie-1-commentary` (1965) - 81 hits
+- [ ] `franck-chair-et-corps-commentary` (1981) - 77 hits
+- [ ] `husserliana-8-erste-philosophie-ii-commentary` (1923) - 77 hits
+- [ ] `husserliana-10-inneres-zeitbewusstsein-commentary` (1905) - 76 hits
+- ... 50 more; see `synthesis_query.py --theme erfuellung`
 
 ### fundierung - founding of higher-order objectivities
 
