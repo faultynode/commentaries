@@ -87,6 +87,25 @@ Companion run: runs/marion-rd-on-hua3.md (same R, P = Ideen I). Where a unit's H
    paragraph that acknowledges Husserl's ground; its "actuality" is phenomenology's being actual as a "Richtung" [school, movement]. Marion
    adds "in phenomenology, as against metaphysics" and "in truth", and turns the sentence against Heidegger too (R Phenomenology as such ¶6).
 
+11. **R's quotation of GA 24 §5 is cut at both ends.** (Added 2026-11-02, chapter II.) R II.5 ¶2 / n. 65 begins at "Für Husserl" and omits the
+   sentences before it: the reduction as "Rückführung des untersuchenden Blicks vom naiv erfaßten Seienden zum Sein", and "Damit knüpfen wir
+   dem Wortlaut, nicht aber der Sache nach an einen zentralen Terminus der Phänomenologie Husserls an". R inserts "[au contraire]". It stops
+   before "nicht das einzige, ja nicht einmal das zentrale Grundstück der phänomenologischen Methode" (GA 24, 29). R's French "la saisie de
+   l'étant comme toujours déterminé" renders "der wie immer bestimmten Erfassung des Seienden" [the apprehension of the entity, however
+   determined]. R's three-term "redoubled reduction", with Husserl's reduction as the first stage, contradicts GA 24's starting point in the
+   naively apprehended entity. Hold every later "reduction" in R to this.
+12. **R turns SZ's showing into giving.** (Added 2026-11-02.) R II.4 ¶1: "Le phénomène se donne de lui-même" glosses SZ 28's "das
+   Sich-an-ihm-selbst-zeigende". Martineau "ce-qui-se-montre-en-lui-même"; R "ce-qui-se-montre-en-soi-même", then "se-montrant-de-soi-même"
+   (R n. 49: "à partir de soi-même", after Hyppolite). "von ihm selbst her" is SZ 34 (the formal sense of phenomenology), not SZ 28. SZ 28 adds
+   "je nach der Zugangsart zu ihm". SZ's one use of "gegeben" in this sense is negative: "weil die Phänomene zunächst und zumeist *nicht*
+   gegeben sind, bedarf es der Phänomenologie" (SZ 36).
+13. **SZ 152 refuses "being without regard for entities".** (Added 2026-11-02.) "Der Sinn von Sein kann nie in Gegensatz gebracht werden zum
+   Seienden oder zum Sein als tragenden »Grund« des Seienden" [the sense of being can never be set in opposition to entities, or to being as
+   the supporting "ground" of entities]; the inquiry "fragt nach ihm selbst, sofern es in die Verständlichkeit des Daseins hereinsteht" (SZ 152).
+   R II.6 takes "être sans égard pour l'étant" from *Zeit und Sein* (1962) and makes it SZ's goal. Test chapters IV and VI against SZ 151-152.
+14. **SZ's answer to the sense of being is time.** (Added 2026-11-02.) SZ 17 (the horizon for the most original interpretation of being), SZ 437
+   (the closing questions). R II.7 ¶2 replaces it, "as a simple hypothesis", by ontological difference. Mark every substitution.
+
 ### Glossary (fixed for this run)
 
 - Translation rule: as in runs/marion-rd-on-hua3.md. In the output English leads and an original is kept only for glossary terms and wording
@@ -120,21 +139,43 @@ Companion run: runs/marion-rd-on-hua3.md (same R, P = Ideen I). Where a unit's H
   (the as-structure of plain seeing); §34, SZ 161 ("Den Bedeutungen wachsen Worte zu"), SZ 166 n. (LU I, IV-VI and Ideen I §§123 ff. on
   signification); §44, SZ 218 n. (LU VI "Über sinnliche und kategoriale Anschauungen S. 128 ff.", in a note on Lask). GA 20 §6, 90 (ideation;
   "Aussehen von etwas") and 97-98 ("gibt den Boden für ... die Ausarbeitung der Kategorien"). GA 15 (Zähringen), English, source :1517.
+- Loci of chapter II: §2, SZ 5-7 (triad, checked; "An welchem Seienden soll der Sinn von Sein abgelesen werden", SZ 7; marginal note "Aber nicht
+  wird an diesem Seienden der Sinn von Sein abgelesen", R n. 16, GA 2, unchecked); §4, SZ 12-13 (threefold priority); §7, SZ 27 (Methodenbegriff;
+  method not a "technischer Handgriff"), 28 (phenomenon; "je nach der Zugangsart"), 29-31 (Erscheinung), 34 ("von ihm selbst her"), 35
+  ("Ontologie ist nur als Phänomenologie möglich"; being of entities as the hidden phenomenon), 36 ("nicht gegeben"; "Verdecktheit ist der
+  Gegenbegriff"; "Wieviel Schein jedoch, soviel »Sein«", scare quotes dropped in R n. 53), 37 ("Sachhaltig genommen ..."; "phänomenal" /
+  "phänomenologisch"), 38 ("transcendens schlechthin" / Dasein's "ausgezeichnete" transcendence; "nicht zwei verschiedene Disziplinen"); §9,
+  SZ 43 (average everydayness); §20, SZ 92 (substance); §32, SZ 150-152 (Vorsicht; Sinn; SZ 152); §40, SZ 186-187 (the whole of involvements
+  "sinkt in sich zusammen"; "das Nichts, das heißt die Welt als solche"; "Die Angst vereinzelt"); §41, SZ 196 and §43, SZ 207 (being not
+  explained from entities); §44, SZ 220-221 (uncoveredness grounded in the disclosedness of the world, Dasein's); §63, SZ 311 ("ontologisch das
+  Fernste"); §69b, SZ 363 n. (intentionality deferred). GA 20: 117-118 ("besagt aber nichts über das Sein ... nur ihre Begegnisart"; R "p. 118"),
+  195-196 (triad numbered, R "p. 195"), 423. GA 24: 29 (§5). GA 9 essay: 134 and its notes a-c.
 
 ### Corpus flags (raised, not fixed here)
 
 - sources: heidegger-sein-und-zeit.md has repeating footnote numbers within a chapter (two `[^51]` in §44), and LaTeX garble for Greek (SZ 25).
 - sources: no file carries Heidegger's marginal notes to SZ (GA 2); R's chapter IV rests on four or more of them.
 - sources: *Was ist Metaphysik?* (R II.7, VI) and GA 29/30 (R VI, boredom) are not in the corpus. GA 15 is in English only.
+- sources: heidegger-ga-24-die-grundprobleme-der-phanomenologie.md breaks off mid-sentence at GA 24, 29 ("Dieses Entwerfen des", source :460)
+  and resumes at p. 36 (§7): GA 24 pp. 30-35, with §5's account of construction and destruction, are missing.
+- sources: GA 20 page markers sit at uncertain positions relative to the page text (R's "p. 118" falls after the marker "117"); confirm a GA 20
+  page by the quoted words, not by the marker alone.
+- commentaries: R n. 88 cites "*Grundprobleme*, § 14, *GA*, 20, p. 184"; GA 20 is the *Prolegomena*. Commentary R does not register it.
 
 ### Open threads
 
 - R I.7 ¶1 says Heidegger "will no longer mention" categorial intuition "in *Sein und Zeit*, nor later". SZ names it once, in a bibliographical
   note on Lask (§44, SZ 218 n.); R's own 1973 quotation discusses it at length. R presumably means that SZ does not use it. Follow whether
   chapters II-IV rely on the stronger claim. (2026-11-02.)
+- For chapter IV: the GA 9 notes R calls Heidegger's "1929 note" (Commentary R IV.2) are headed "1. Auflage 1929" in the corpus text and are
+  later marginalia (corpus map). Note 134b refers to GA 24 §22 as "die erste öffentliche Mitteilung"; notes 134a and 134c, on the same sentence,
+  call the distinction ambiguous and "eine verhängnisvolle Rückbindung" [a fateful binding back]. R cites 134b and not the others? Check in IV.2.
+  (2026-11-02.)
 
 ## Progress
-Last completed unit: I.7 ¶4, with the closing paragraph for chapter I (2026-11-02). Next: chapter II, ¶1 of II.1.
+Last completed unit: II.7 ¶3, with the closing paragraph for chapter II (2026-11-02). Next: chapter III, ¶1 of III.1.
 Unit counts: Foreword 2 (+ the head paragraph of traps); Bibliographical note 3; Phenomenology as such 7 (epigraph + 6); I.1 5, I.2 4, I.3 3,
   I.4 2, I.5 5, I.6 4, I.7 4 (as in runs/marion-rd-on-hua3.md).
+  II.1 2, II.2 3, II.3 3, II.4 4, II.5 2, II.6 3, II.7 3 (as in runs/marion-rd-on-hua3.md).
 Revision: 2026-11-02, run opened; pair-specific notes 1-10, glossary, edition mappings set; Foreword through chapter I written.
+Revision: 2026-11-02, chapter II written; guards 11-14 added; corpus flags for the GA 24 gap and GA 20 markers.
