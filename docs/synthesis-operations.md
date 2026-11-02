@@ -361,6 +361,44 @@ between them — see [lexicon-design.md](lexicon-design.md) §6):
   *Wissenschaft*), and only the words themselves say which. Flag the
   first, leave the second.
 
+## P12 · Scheduled passes (Routines)
+
+Stage passes can run as Routines: scheduled Claude Code cloud sessions,
+one fresh session per firing, in the owner's claude.ai account. They are
+not CI and live outside this repo; manage them from the claude.ai
+routines page. Design D9 still holds: **a scheduled run ends at a draft
+PR, and merging it is the review.**
+
+| Routine | Schedule (America/New_York) | Does |
+|---|---|---|
+| Stage 1 · extraction pass | daily 01:43 | one P1 (or P6) pass, 8–12 units, `partial`; draft PR |
+| Stage 3 · inheritance pass | Saturdays 03:22 | one P2 pass; draft PR |
+| Monthly maintenance audit | 1st of month 04:37 | the §Periodic maintenance commands in `--check` form; report only, no commit |
+| Stage 4 · synthesis pass | started by hand | one P3 pass into `synthesis/outputs/` + `gaps.json`; draft PR |
+| Stage 5 · dossier | started by hand | `synthesis_dossier.py` build/fill/check only; draft PR. Never writes the article |
+
+Every routine prompt carries the same hard stops: never push to `main`,
+merge, or mark a PR ready; never write to `commentaries/*/` or
+`articles/` (P8 stays a human act); never edit generated files; set
+`extractor.model` from the running session, never by guess.
+
+Conventions the routines rely on:
+
+- **Branch names** are `claude/synthesis-s<stage>-<theme>-<slug>` (Stage 3:
+  `-s3-<slug>`; Stage 5: `-s5-<draft-slug>`). A run skips any target
+  already named by an open PR on a `claude/synthesis-` branch, so two
+  firings do not take the same pass.
+- **Review backlog.** The daily pass is only useful if its PRs are read.
+  The monthly audit flags more than five unreviewed `claude/synthesis-*`
+  PRs; pause the Stage 1 routine until they are cleared.
+- **Reviewing a scheduled PR** is the same read as any extraction: check
+  that coverage is honest, that claims do not interpret (rule 4), and
+  that `absent_terms` is set where the English is an ordinary word. CI
+  has already checked the quotes; it cannot check those.
+- **Changing a routine's prompt** is changing a procedure: keep the
+  prompts consistent with P1–P3 and the Stage 5 prompt, and update this
+  table when a schedule changes.
+
 ## CI reference
 
 `.github/workflows/synthesis.yml`. **The model never runs here.**

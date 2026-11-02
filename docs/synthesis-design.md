@@ -279,6 +279,14 @@ non-determinism would make the diff unreviewable. So CI re-checks quotes
 and absences on pull requests, and rebuilds derived artifacts on pushes to
 `main`. It never writes a claim.
 
+Scheduled model runs do not change this. Routines (scheduled Claude Code
+cloud sessions, operations §P12) may run Stage 1 and Stage 3 passes on a
+timer, but each run ends at a draft pull request and nothing it writes
+reaches `main` until the owner reads and merges it. The PR is where the
+human comes into the loop; CI's `validate` job audits it like any other.
+Stage 4 is started only by hand, and Stage 5 runs unattended only as far
+as the dossier: writing the article is on the far side of D10.
+
 ### D10 · The publication seam is a directory
 
 `sync_wordpress.py` globs `commentaries/*/*.md`, exactly one level.
