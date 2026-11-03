@@ -28,7 +28,9 @@ Close readings: outputs/husserliana-7-erste-philosophie-i-commentary-close-readi
 
 ## Nominations per division
 
-First Section: Ch. 1 (Lectures 1–2), 3; Ch. 2 (Lectures 3–4), 3; Ch. 3 (Lectures 5–7), 2; Ch. 4 (Lectures 8–11), 6. Section total 14. Running total 14.
+First Section: Ch. 1 (Lectures 1–2), 3; Ch. 2 (Lectures 3–4), 3; Ch. 3 (Lectures 5–7), 2; Ch. 4 (Lectures 8–11), 6. Section total 14.
+
+Second Section: Ch. 1 (Lectures 12–14), 3; Ch. 2 (Lectures 15–17), 3; Ch. 3 (Lectures 18–19), 3. Section total 9. Running total 23.
 
 | # | citation | unit | opening (English) | criterion | reason | status |
 |---|---|---|---|---|---|---|
