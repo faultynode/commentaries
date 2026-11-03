@@ -4,7 +4,7 @@ Commentary: commentaries/husserl/husserliana-7-erste-philosophie-i-commentary.md
 Source: sources/husserl/husserl-hua-7-erste-philosophie-i-kritische-ideengeschichte.md (faultynode/sources). German, Husserliana VII (Boehm 1956). Citation system: lecture number, then Hua VII page, then source line. On the "Unsafe to quote" list: invented text on 24 blank leaves was removed by hand, which took out 519 lines and left invisible seams (`docs/conversion-history.md` §"Hua 5–8").
 Close readings: outputs/husserliana-7-erste-philosophie-i-commentary-close-readings.md (none yet).
 
-**Backfill: through the First Section (Lectures 1–11, Hua VII 3–77).** The Second Section (Lectures 12–19) and the Third Section (Lectures 20–27) are not yet backfilled.
+**Backfill: through the Second Section (Lectures 1–19, Hua VII 3–141).** The Third Section (Lectures 20–27) is not yet backfilled.
 
 **Extent mismatch.** The commentary's introduction (line 9) says it covers only Lectures 1–11 (Hua VII 3–77), and the assignment repeated that. The file actually runs through the Twenty-seventh Lecture, which is the end of the main text (Hua VII 199). Block §11.14 still calls itself "the closing diagnostic strokes of the main text", and §11.11 points to the "post-p.77" history. The introduction is out of date. This backfill covers the whole file.
 
