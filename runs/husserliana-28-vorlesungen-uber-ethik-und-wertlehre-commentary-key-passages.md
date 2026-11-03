@@ -64,3 +64,18 @@ These qualify but were dropped as weaker than the rows above, per the "strongest
 - §4(b).3–4: Münsterberg's parallel to Plato rejected (c). It is a misfire that row 2 replaces.
 - §4(c).11: the Protagorean "Gut ist, was einem jeden für gut erscheint" [good is what seems good to each] recast as a demand (c, d, src L388). It is the recapitulation of row 2.
 - §5(d).3: the will-content "This S shall be P" as the analogue of the *Satz* [proposition] (a). Row 4 and §7 carry the act/content parallel more decisively.
+- §7.3, §7.9: *Stellungnahme* (position-taking) as the root of the parallelism, and the will that "itself speaks" and "gives a vote" (*Votum*), whose *Unselbständigkeit* (non-self-sufficiency) is that it cannot assert (a, d, src L651–653). Rows 6 and 7 carry the same thesis at its decisive points.
+- §11(a).5: *Adiaphorie* (value-neutrality), with no neutrality in the truth-sphere (a, b). Row 12 states the law that formalizes it.
+- §12(a).1, §12(a).3: Brentano's *Vom Ursprung sittlicher Erkenntnis* as the impulse, and his preference-law corrected by the noetic/ontic distinction, with the forged Raphael (c). Row 13 carries the sharper correction of Brentano.
+- §12(b).1, §13.1: the commentary's report that Melle singles out value-production and the will-phenomenology as new in 1914 (e). It is not checkable in any corpus file.
+- §13.4: the merchant who strives for wealth, a will-modus beyond the wish (a). Row 14 is the principled statement.
+- §17(b).3: the essence of the question as an intention upon an answer, irreducible to doubt plus wish (b). It is a doxic preparation; row 17 is the stronger will-side parallel.
+- §18(a).4: the iteration axioms (willing a willing implies willing; omitting an omission implies doing), "with no proper parallel in the doxic domain" (b). It is a real disanalogy but a local one.
+- §19.2: the impartial spectator and the "alone valuable content" of Kant's universalization test (c). Row 21 carries the decisive break with Kant.
+- §20.1: the blindly right will (b). Row 23 states the resolution.
+- Beilage I.3: "cool" valuing against "warm" feeling (d). The quotation marks are Husserl's, but the block is exploratory, and its key question line is damaged (*Verneinungen*, src L1988).
+- Beilage II.2: the deliberator's temporal predicament and "was ich nicht weiß, macht mich nicht heiß" [what I don't know doesn't trouble me] (d). The proverb is colour, not argument.
+
+## Corrections to the commentary
+
+None. Every candidate checked against the source (rows 1–26 and the dropped items with line pointers) matched the commentary's account. The commentary's readings of *Vermeinen* as "meaning" are right where the source file's OCR reads *Verneinen*. That damage is in the source, not the commentary, and is recorded under the source caveats.
