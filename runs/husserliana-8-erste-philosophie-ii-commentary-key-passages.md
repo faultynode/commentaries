@@ -4,7 +4,7 @@ Commentary: commentaries/husserl/husserliana-8-erste-philosophie-ii-commentary.m
 Source: sources/husserl/husserl-hua-8-erste-philosophie-ii-theorie-der-phanomenologischen-reduktion.md (faultynode/sources). German, Hua VIII (Boehm 1959), pagination "Hua VIII n". On the "Unsafe to quote" list: invented text removed by hand, leaving invisible seams (see source caveats).
 Close readings: outputs/husserliana-8-erste-philosophie-ii-commentary-close-readings.md (none yet).
 
-**Backfill: through Section One (Lectures 28–32).** Sections Two to Four (Lectures 33–54) remain.
+**Backfill: through Section Two (Lectures 28–38).** Sections Three and Four (Lectures 39–54) remain.
 
 ## Backfill conventions
 
@@ -43,6 +43,11 @@ Close readings: outputs/husserliana-8-erste-philosophie-ii-commentary-close-read
 - Lecture 30.6 (src L575): "put out of validity in advance" (*vorweg in gewisser Weise außer Geltung gesetzt*) as the first formulation of the epoché over the sciences. It is (b), but it is an anticipation; the epoché is defined later.
 - Lecture 30.10: Descartes' overthrow "once in a lifetime" (*qui serio student ad bonam mentem* [who seriously strive for a good mind]). It is (c), but Lecture 31.18 carries the reconstruction of the Cartesian rule more fully.
 - Lecture 31.1: "anonymity" of functioning subjectivity (src L690). It is (a), but the term is used, not discussed.
+- Lecture 34.6: Husserl's own misreading-guard (real possibility, empirical doubt, pure conceivability). It is (b), but it restates row 9's distinction rather than adding a step.
+- Lecture 34.7–34.13: the "objection from madness". It is (c), but its lesson is drawn in rows 12 and 13.
+- Lecture 36.5 (src L1352): "is therefore judged" (*ist also gerichtet*), the juridical verdict on the proposition "the world exists". It is (d), but the word is a single image, not an argument.
+- Lecture 37.6 (src L1470): the angel of death (*Todesengel*) and the "transcendental world of semblance" God might have created. It is (c), but row 14 carries the correction of the residuum picture.
+- Lecture 38.8 (src L1578): the transcendental ego as "the irreality that all reality presupposes" (*die Irrealität, die alle Realität voraussetzt*). It is (a), but the term is not developed in this course.
 
 ## Corrections to the commentary
 
