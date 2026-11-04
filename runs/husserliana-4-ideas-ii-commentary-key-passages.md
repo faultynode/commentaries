@@ -9,7 +9,7 @@ Close readings: outputs/husserliana-4-ideas-ii-commentary-close-readings.md (non
 All 32 rows approved by the user on 2026-11-04.
 Commentary corrected 2026-11-04 (commit 2cf3902); unit labels re-pointed.
 
-All rows are `nominated`. Translations of German in this file are my working renderings, not a published translation.
+All rows were nominated by the backfill and approved by the user on 2026-11-04. Translations of German in this file are my working renderings, not a published translation.
 
 ## Backfill conventions
 

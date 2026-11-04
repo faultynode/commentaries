@@ -4,7 +4,7 @@ Commentary: commentaries/husserl/husserl-prolegomena-commentary.md
 Source: sources/husserl/husserl-hua-18-logische-untersuchungen-erster-band-prolegomena-zur-reinen-logik.md (faultynode/sources). German, Hua XVIII (ed. Holenstein), which prints the B text (1913) with A (1900) variants in the apparatus and A/B page markers. The file is not on the "Unsafe to quote" list. English twin for cross-checks only: `husserl/husserl-logical-investigations-1.md` (Findlay; no shared pagination).
 Close readings: outputs/husserl-prolegomena-commentary-close-readings.md (none yet).
 
-**Backfill: complete, Preface through Chapter XI (§72) (2026-11-02).** Every row is `nominated`; none has been approved.
+**Backfill: complete, Preface through Chapter XI (§72) (2026-11-02).** All rows were approved by the user on 2026-11-04.
 
 All 28 rows approved by the user on 2026-11-04.
 Commentary corrected 2026-11-04 (commit 2cf3902); unit labels re-pointed.
