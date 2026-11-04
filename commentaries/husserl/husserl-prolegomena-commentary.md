@@ -604,7 +604,7 @@ Husserl generalises his critique: every attempt to interpret logical principles 
 
 #### Paragraph 1
 
-Some writers (Sigwart, for example) claim that the principle of contradiction has two sides: it is simultaneously a natural law of thinking (describing how the mind in fact operates) and a normative law for the logical regulation of thinking. Husserl objects that this "two-sidedness" is illusory: the natural-law interpretation and the normative interpretation yield different propositions altogether, and conflating them obscures the essential nature of the logical principle.
+Some logicians claim that the principle of contradiction has a double standing, and Husserl takes as the most attractive statement of the view F. A. Lange's *Logical Studies*, which he quotes at length (Sigwart's older version of the doctrine is the subject of the next section): the principle is simultaneously a natural law of thinking (describing how the mind in fact operates) and a normative law for the logical regulation of thinking. Husserl objects that this "two-sidedness" is illusory: the natural-law interpretation and the normative interpretation yield different propositions altogether, and conflating them obscures the essential nature of the logical principle.
 
 ### § 29. Continuation: Sigwart's Doctrine
 

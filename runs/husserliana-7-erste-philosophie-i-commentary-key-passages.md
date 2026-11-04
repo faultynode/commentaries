@@ -7,8 +7,9 @@ Close readings: outputs/husserliana-7-erste-philosophie-i-commentary-close-readi
 **Backfill: complete, First Section through Third Section (Lectures 1–27, Hua VII 3–199) (2026-11-03).**
 
 All 32 rows approved by the user on 2026-11-04.
+Commentary corrected 2026-11-04 (commit 2cf3902); unit labels re-pointed.
 
-**Extent mismatch.** The commentary's introduction (line 9) says it covers only Lectures 1–11 (Hua VII 3–77), and the assignment repeated that. The file actually runs through the Twenty-seventh Lecture, which is the end of the main text (Hua VII 199). Block L11.14 still calls itself "the closing diagnostic strokes of the main text", and L11.11 points to the "post-p.77" history. The introduction is out of date. This backfill covers the whole file.
+**Extent mismatch.** The commentary's introduction (line 9) says it covers only Lectures 1–11 (Hua VII 3–77), and the assignment repeated that. The file actually runs through the Twenty-seventh Lecture, which is the end of the main text (Hua VII 199). Block L11.14 still calls itself "the closing diagnostic strokes of the main text", and L11.11 points to the "post-p.77" history. The introduction is out of date. This backfill covers the whole file. Commentary fixed 2026-11-04 (commit 2cf3902): see Corrections, "Extent". L11.11's "(post-p.77) history … through Berkeley and Hume" was left as it stands, since that history is in the commentary.
 
 ## Backfill conventions
 
@@ -96,3 +97,4 @@ These qualify but were dropped as weaker than the rows above, per the "strongest
 ## Corrections to the commentary
 
 - L4.23 (Lecture 4, Hua VII 30): the block says Husserl "states the thesis in emphatic form" and italicizes "*Judgment is judged in judging activity, and this is a subjective life*". The source has "Urteil ist Geurteiltes im urteilenden Tun" (judgment is what is judged in judging activity), a noun predicate and not a passive, with no emphasis in the file. A whole-file grep finds "Geurteiltes" only at L628. The file's italics are otherwise reliable, but its lack of emphasis here is weak evidence; check the print. Source: sources/husserl/husserl-hua-7-erste-philosophie-i-kritische-ideengeschichte.md:628.
+- Extent (introduction, L11.10, L11.14): the introduction (line 9) says the commentary covers Lectures 1–11 (Hua VII 3–77); L11.10 calls Locke's essay the forward edge of "the whole main text in this range"; L11.14 calls itself "the closing diagnostic strokes of the main text" and says the main text "breaks off here, at Hua p. 77". The commentary runs through the Twenty-seventh Lecture (Hua VII 199), the end of the main text (see the "Extent mismatch" note above). **Fixed 2026-11-04** (commit 2cf3902): the introduction now states Lectures 1–27, Hua VII 3–199, in three Sections, with the supplementary texts not covered; L11.10 and L11.14 now speak of the First Section, and L11.14 says the First Section closes at p. 77 and names what the Second and Third Sections take up.
