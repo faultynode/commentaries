@@ -588,25 +588,25 @@ Husserl presses the point: Mill's version, if taken as an empirical-psychologica
 
 Moreover, even if such experiments confirmed the generalisation, it would remain a mere empirical regularity — valid "for us" and perhaps not for beings with a different mental constitution. The logical law of contradiction, by contrast, is valid absolutely, for all possible minds, not just for the human species.
 
-### § 27. Appendix: On Some Fundamental Defects of Empiricism
+### Appendix to the Last Two Sections: On Some Fundamental Defects of Empiricism
 
 #### Paragraph 1
 
 Husserl pauses for a general methodological reflection on empiricism. Empiricism errs in treating all knowledge as derived from experience and all laws as empirical generalisations. But there are laws (logical and mathematical laws) that are *a priori* — known with apodictic evidence, not with the merely probabilistic support of induction. Empiricism's inability to acknowledge this category of knowledge is its fundamental weakness.
 
-### § 28. Analogous Objections against the Other Psychological Interpretations of the Logical Principle. Equivocations as Sources of Delusion
+### § 27. Analogous Objections against the Other Psychological Interpretations of the Logical Principle. Equivocations as Sources of Delusion
 
 #### Paragraph 1
 
 Husserl generalises his critique: every attempt to interpret logical principles as laws about mental acts rests on equivocations — systematically trading on the ambiguity between ideal and real, between propositions and judgements, between logical validity and psychological occurrence. He analyses several such equivocations in detail, showing how the psychologistic interpretation in each case substitutes a vague psychological claim for a precise logical one.
 
-### § 29. The Supposed Double-Sidedness of the Principle of Contradiction
+### § 28. The Supposed Double-Sidedness of the Principle of Contradiction
 
 #### Paragraph 1
 
 Some writers (Sigwart, for example) claim that the principle of contradiction has two sides: it is simultaneously a natural law of thinking (describing how the mind in fact operates) and a normative law for the logical regulation of thinking. Husserl objects that this "two-sidedness" is illusory: the natural-law interpretation and the normative interpretation yield different propositions altogether, and conflating them obscures the essential nature of the logical principle.
 
-### § 30 (continuation of Sigwart's doctrine)
+### § 29. Continuation: Sigwart's Doctrine
 
 Husserl examines Sigwart's position in further detail, showing how Sigwart equivocates between descriptive and normative readings of logical laws and how his position, when made precise, collapses into either pure psychologism or a tacit admission of a non-psychological logical law.
 
@@ -876,8 +876,6 @@ Husserl signals that the *Prolegomena* has accomplished only the negative, criti
 
 ## Appendix: References to F. A. Lange and B. Bolzano
 
-### § 62 (unnumbered appendix section)
-
 Husserl acknowledges two important forerunners. F. A. Lange, in his *Logische Studien*, had already raised objections to the psychologistic grounding of logic that anticipate some of Husserl's own arguments. Lange saw that the reduction of logical laws to psychological laws conflicted with the exact and a priori character of the former, though he did not develop this insight systematically.
 
 More importantly, Bolzano's *Wissenschaftslehre* (1837) had anticipated many of Husserl's central theses: the distinction between ideal propositions (*Sätze an sich*) and actual judgements, the objectivity of truth independently of any thinking subject, the distinction between subjective representations and their ideal contents, and the idea of a pure theory of science based on the study of ideal logical forms. Husserl credits Bolzano as one of the greatest logicians of all time and regrets that he did not discover Bolzano's work earlier in his own development. The *Wissenschaftslehre*, despite certain metaphysical presuppositions that Husserl rejects, contains a wealth of logical analysis that anticipates and in some respects surpasses later developments. Husserl's acknowledgement of Bolzano is significant because it positions his own project not as a wholly novel creation but as the resumption and philosophical deepening of a tradition that runs from Leibniz through Bolzano — a tradition that psychologism had buried but not refuted.
@@ -886,37 +884,37 @@ More importantly, Bolzano's *Wissenschaftslehre* (1837) had anticipated many of 
 
 ## Eleventh Chapter: The Idea of Pure Logic
 
-### § 63. The Unity of Science. The Connection among Things and the Connection among Truths
+### § 62. The Unity of Science. The Connection among Things and the Connection among Truths
 
 #### Paragraph 1
 
 Husserl now turns to the positive task: the articulation of the idea of pure logic. He begins by distinguishing two senses of the "unity" of a science: the unity given by the connection among the *things* (objects, facts) a science investigates, and the unity given by the connection among the *truths* the science establishes. These two unities are related but not identical. The truths of a science form a unity because the objects they concern form a domain; but the unity of truths has its own specifically logical character — it is a unity of grounding-connections.
 
-### § 64. Continuation: The Unity of Theory
+### § 63. Continuation: The Unity of Theory
 
 #### Paragraph 1
 
 The most important form of unity in science is the unity of *theory*. A theory is not merely a collection of true propositions but a systematically grounded body of truths unified by principles. The unity of a theory is an ideal unity: it resides not in the psychological acts of theorising but in the logical relationships among the propositions. The question for pure logic is: what are the ideal conditions that make such theoretical unity possible?
 
-### § 65. The Essential and Extra-Essential Principles That Give Science Its Unity. Abstract, Concrete, and Normative Sciences
+### § 64. The Essential and Extra-Essential Principles That Give Science Its Unity. Abstract, Concrete, and Normative Sciences
 
 #### Paragraph 1
 
 Husserl distinguishes between the essential principles that give a science its unity (the logical laws and fundamental concepts that define its domain) and extra-essential principles (auxiliary methods, conventions, etc.). He also distinguishes abstract sciences (which deal with ideal objects and their laws) from concrete sciences (which deal with individual existents) and normative sciences (which deal with standards of evaluation).
 
-### § 66. The Question of the Ideal Conditions of the Possibility of Science, or of Theory in General. A. The Question Referred to Actual Cognition
+### § 65. The Question of the Ideal Conditions of the Possibility of Science, or of Theory in General. A. The Question Referred to Actual Cognition
 
 #### Paragraph 1
 
 Husserl asks: what are the ideal conditions of the possibility of science or theory in general? On the side of actual cognition, these include the capacity for evidence, for distinguishing truth from falsehood, for grasping logical connections, and for sustained systematic inquiry. These are "noetic" conditions — conditions relating to the knowing subject.
 
-### § 67. B. The Question Referred to the Content of Cognition
+### § 66. B. The Question Referred to the Content of Cognition
 
 #### Paragraph 1
 
 On the side of the *content* of cognition (as opposed to the act of knowing), the conditions include: the existence of truth, the existence of logical laws governing truth-connections, the availability of systematic forms of theory, and the possibility of classifying truths into domains. These are "objective" or "ideal" conditions — they concern the structure of truth itself, not the constitution of knowing minds.
 
-### § 68. The Task of Pure Logic. First: The Fixing of the Pure Categories of Meaning, the Pure Object-Categories, and Their Lawful Combinations
+### § 67. The Task of Pure Logic. First: The Fixing of the Pure Categories of Meaning, the Pure Object-Categories, and Their Lawful Combinations
 
 #### Paragraph 1
 
@@ -924,19 +922,19 @@ Husserl now specifies the three main tasks of pure logic. The first is to fix th
 
 These categories are "pure" in the sense that they are independent of any particular domain of objects or any particular factual science. They are the most general formal concepts under which all thought-content falls. Their investigation constitutes the first foundational layer of pure logic.
 
-### § 69. Second: The Laws and Theories Grounded in These Categories
+### § 68. Second: The Laws and Theories Grounded in These Categories
 
 #### Paragraph 1
 
 The second task of pure logic is to establish the laws and theories that are grounded in these pure categories. These include the laws of syllogistic, the laws of propositional logic, the laws governing the relationships among truth, falsity, possibility, necessity, and probability — in short, the entire body of formal-logical laws.
 
-### § 70. Third: The Theory of Possible Theory-Forms, or the Pure Theory of Manifolds
+### § 69. Third: The Theory of Possible Theory-Forms, or the Pure Theory of Manifolds
 
 #### Paragraph 1
 
 The third and highest task of pure logic is the theory of possible theory-forms — the *pure theory of manifolds* (*reine Mannigfaltigkeitslehre*). This is the most general formal science: it investigates not any particular theory or domain but the possible *forms* of theories as such. Given certain axiom-types and certain connection-types, what kinds of theoretical structures are possible? This is the study of possible deductive systems in the most abstract sense — the science of possible sciences.
 
-### § 71. Elaboration of the Idea of the Pure Theory of Manifolds
+### § 70. Elaboration of the Idea of the Pure Theory of Manifolds
 
 #### Paragraph 1
 
@@ -944,13 +942,13 @@ Husserl elaborates: a "manifold" in this context is a domain of objects defined 
 
 This concept of a pure theory of manifolds places Husserl in direct connection with the Riemann-Cantor-Hilbert tradition in the foundations of mathematics. It also foreshadows the formal-ontological dimension of Husserl's later philosophy.
 
-### § 72. Division of Labour. The Contributions of Mathematicians and Philosophers
+### § 71. Division of Labour. The Contributions of Mathematicians and Philosophers
 
 #### Paragraph 1
 
 Husserl concludes by distinguishing the contributions of mathematicians and philosophers to pure logic. Mathematicians have developed the formal-deductive theories (arithmetic, algebra, analysis, set theory, etc.) that constitute much of the content of pure logic. But they have done so without philosophical self-understanding — without clarifying the epistemological foundations and the ontological status of their objects and laws. Philosophers, conversely, have attempted the epistemological clarification but have lacked the mathematical sophistication to carry it out. What is needed is a collaboration — or a thinker who combines both competences.
 
-### § 72 (continued). Extension of the Idea of Pure Logic. Pure Probability Theory as a Pure Theory of Experiential Cognition
+### § 72. Extension of the Idea of Pure Logic. Pure Probability Theory as a Pure Theory of Experiential Cognition
 
 #### Paragraph 1
 
