@@ -9,60 +9,34 @@ repo at `../sources/sources/` (the index's `sources/heidegger/...` and
 
 A scholarly article for specialists in phenomenology on how **Husserl**
 and **Heidegger** each understand *transcendence*, how each author's
-understanding **develops over time**, where the two **converge and
-diverge**, and, in a section near the end, a summary of **each author's
-arc across all the works the index cites**.
+understanding **develops over time** across the works the index cites,
+and where the two **converge and diverge**.
 
 Publish under `articles/`, not `commentaries/`.
 
-## Three documents govern the writing, in this order
+## Three documents govern the writing
 
-1. **This prompt.** It sets content, evidence, quotation and citation.
-   Where it conflicts with either document below, it wins.
-2. **The style guide, `prompts/bernet-style-guide.md`.** It sets how the
-   article is built and how it reads: architecture, argumentative moves,
-   paragraph and sentence, terms of art, voice, apparatus. **Read all of
-   it, in consecutive ranges, before outlining**, and run its Review
-   checklist (section 14) against your draft before you report. This
-   article is a research article (G1) that stages a confrontation between
-   two authors (A7-A10), so those entries govern the shape. Cite guide
-   rules by ID in the Register, not in the article.
-3. **`prompts/article-prompt.md`** for its SOURCE DISCIPLINE, ARGUMENT,
+1. **The style guide, `prompts/bernet-style-guide.md`.** It governs how
+   the article is built and how it reads: architecture, argumentative
+   moves, paragraph and sentence, terms of art, working with texts,
+   voice, apparatus, and the language constraints of its section 13.
+   **Read all of it, in consecutive ranges, before outlining**, and run
+   its Review checklist (section 14) against your draft before you
+   report. This article is a research article (G1) that stages a
+   confrontation between two authors (A7-A10), so those entries govern
+   its shape. Apply the guide **without exception**: where this prompt
+   seems to differ from it on form, quotation, language or closing,
+   follow the guide. Cite guide rules by ID in the Register, not in the
+   article.
+2. **This prompt**, which sets the content, the evidence and the
+   citation of editions.
+3. **`prompts/article-prompt.md`**, for its SOURCE DISCIPLINE, ARGUMENT,
    OUTPUT FILE and Research Register. Its FORM is replaced by the style
-   guide and the form notes below.
+   guide.
 
 The guide is drawn from a different author's prose and carries its own
 cautions against imitation (section 11). Take the method and the stance;
 do not mimic the surface idiom.
-
-### Where this prompt overrides the style guide
-
-These overrides come from the user's brief. Nothing else in the guide is
-set aside.
-
-- **Whole-paragraph block quotations** of the primary texts are required
-  (12-20 of them). The guide's W2 ("quote passages rarely") does not
-  apply to primary passages chosen as the spine of an argument. Keep the
-  guide's W3 exactly: lead into every quotation by saying why it is
-  there, and say afterwards what it shows. Terms and short phrases
-  woven into your own sentences still follow W2.
-- **A closing summary of the two arcs is required** (guide A12 says
-  close without a summary). Satisfy both: write the arcs as a
-  numbered section placed before the end, argued as a *result* that
-  sharpens the comparison, not as a section-by-section recap; then end
-  the article on A12/A13: the thesis in its strongest wording, a stated
-  limit, or what a criticised reading still achieved. The last
-  paragraph must not be the summary.
-- **No German quotation anywhere, including notes.** The guide's W8
-  places an original in a note and its T2 places the original in
-  parentheses after the English. Here, keep the original only for a
-  glossary term of art (Dasein is the model; consult
-  `commentaries/CLAUDE.md` for the glossary) or a word on whose wording
-  the argument turns, in parentheses after the English, and only if this
-  test passes: delete the original; if a reader without German loses
-  nothing, leave it out. No bracketed incipits.
-- **Both editions are cited under every block quotation** (below); the
-  guide's W7 is the model for how to state the convention.
 
 ## The index is your closed corpus
 
@@ -133,21 +107,20 @@ already extracted from it.
 
 ## From pointer to quotation
 
-The article argues from **whole-paragraph block quotations of the primary
-texts, in English**.
+The article argues from the primary texts, quoted as the guide directs
+(W1-W4): terms and short phrases woven into your own sentences; a full
+sentence or passage only when its wording is itself the evidence, led
+into and followed by what it shows (W3).
 
 1. Pick the passages that carry the argument (the spine) from the
    Husserl and Heidegger sections. Open the file at the pointer.
-2. Copy the **entire paragraph** out of the file. **Never retype from
-   memory** (repo rule). If the conversion splits the paragraph, take
-   the full run to the paragraph's end. Quote complete sentences; do not
-   ellipsize the part you rely on. If a paragraph is genuinely too long,
-   quote its whole opening movement and say where it continues.
+2. Copy quotations out of the file. **Never retype from memory** (repo
+   rule). Quote complete sentences where you quote sentences; do not
+   ellipsize the part you rely on.
 3. Record file, line span and section number for every quotation.
-   Afterwards confirm each by searching the file for two distinctive
-   sentences from it.
-4. Render as a Markdown block quote, followed by a citation line, then
-   your analysis (guide W3).
+   Afterwards confirm each by searching the file for the quoted words.
+4. Quote in English, and handle any original as the guide's T2, W8, C4
+   and section 13 direct.
 
 **Which English.** Use a published English translation held in
 `../sources/sources/` where one exists, and name it. The corpus holds,
@@ -160,7 +133,7 @@ Hua 6 are the likely cases), do not pretend to an edition: translate the
 and log it in the Register. If a published English exists outside the
 corpus, name it as **[English edition not in corpus]** and give no page.
 
-**Cite both editions under every block quotation**: (a) the English
+**Cite both editions for every quotation of a primary text** (guide W7): (a) the English
 edition (translator, title, year, page) and (b) the German edition
 (Husserliana or Gesamtausgabe volume, page; for *Sein und Zeit* both
 German and translation pagination as the files carry it; for *Ideas I*
@@ -198,17 +171,13 @@ argument needs:
    confrontation: around one question both authors ask (A7); parallels
    first, then differences, then the root of the differences (A8); each
    author explained in terms the other could have understood (A9);
-   criticism held until the reconstruction is complete (A10). Show each
-   divergence in **two facing block quotations**, one from each author,
-   with the argument in the prose before, between and after them. Treat
+   criticism held until the reconstruction is complete (A10). Treat
    Bernet as a witness compared with the texts, not as a conclusion to
    adopt.
-4. **The two arcs**, as a numbered section before the close (see the
-   override above): one author at a time and then together; where each
-   begins, what changes, where each ends in the works cited, and what
-   the index cannot speak to. One compact table of stages is allowed
-   (date, work, what transcendence is there, citation). Every stage in
-   it must already have been argued earlier in the article.
+
+The arc of each author is carried by the sections that treat that
+author in date order; the article does not recapitulate them. It closes
+as the guide directs (A12, A13).
 
 ## Form
 
@@ -221,16 +190,14 @@ argument needs:
   (T1-T4, T6), authors as subjects of active verbs (P8), "we" for the
   course of the argument and "I" for aims, limits and judgements (V1),
   credit before criticism (V3), what you do not know said plainly (V6).
-- **Three tiers visible in the sentence:** primary (block quotation with
+- **Three tiers visible in the sentence:** primary (quotation with
   both-edition citation); commentary (the index's analysis, named as
   that: "the index reads him as..."); yours (borrows the authority of
   neither). The guide's W5 keeps these voices apart.
 - Notes carry what the guide's N1-N4 assign them. Check how existing
   files in `articles/` format notes, for format only, never for content.
-- No bullet lists apart from the one table.
-- **12-20 block quotations**, balanced between the authors as the
-  evidence allows. If one side is thinner, say so.
-- Length: **7,000-10,000 words of your own prose**, excluding block
+- If the Heidegger or the Husserl evidence is thinner, say so (guide V6).
+- Length: **7,000-10,000 words of your own prose**, excluding
   quotations, citations and the Register.
 - Dates come from the index (its bands and section headings); a date
   from anywhere else must say where.
@@ -255,22 +222,20 @@ not taken; places the notes appear wrong or in tension), plus:
 9. **Acquisition queue**: texts needed to support an **[UNSUPPORTED]**
    step.
 10. **Style-guide deviations**: each place the article departs from the
-    guide, by rule ID, and why (the overrides above need no entry).
+    guide, by rule ID, and why. There should be none by design.
 
 ## Self-check before reporting
 
-- [ ] Every block quote is a complete paragraph, in English, copied from
-      a file in `sources/`, and confirmed by search.
-- [ ] Every block quote has an English- and a German-edition citation, or
+- [ ] Every quotation of a primary text is copied from a file in
+      `sources/` and confirmed by search.
+- [ ] Every quotation has an English- and a German-edition citation, or
       the explicit marker.
-- [ ] No German quotation, in text or notes; originals only per the
-      glossary/turn-on rule.
+- [ ] Language handled as guide T2, W8, C4 and section 13 direct.
 - [ ] None of the note's own translations appears as a quotation.
 - [ ] No claim of absence resting on the index's silence; no claim about
       Heidegger after 1929 beyond what GA 9's marginal notes carry.
 - [ ] No influence inferred from resemblance; anticipation claims respect
       the chronology bands.
-- [ ] Both arcs summarised in their own section, each stage already
-      argued with a citation, and the last paragraph is not that summary.
-- [ ] The style guide's Review checklist (section 14) was run, and
-      deviations are logged.
+- [ ] The close follows A12/A13 and does not summarise the sections.
+- [ ] The style guide's Review checklist (section 14) was run, and any
+      deviation is logged.
