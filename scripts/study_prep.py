@@ -356,6 +356,11 @@ def page_of_marker(comment):
     body = comment.strip()
     if re.fullmatch(r"\[\d+\]", body):
         return None
+    # Printer's signature marks in the Husserliana files ("Husserl Ideen II
+    # 5", "14 Husserl Ideen II", "Husserl, Die Krisis 1") number the
+    # binding sheets, not the pages.
+    if re.search(r"(^|\d\s+)Husserl(,|\s+Ideen|\s+Die)\b", body):
+        return None
     for pattern in (r"^(\d{1,4})\b", r"\b(\d{1,4})$"):
         m = re.search(pattern, body)
         if m:
