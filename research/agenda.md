@@ -6,6 +6,18 @@ taken, texts to acquire. Read before planning a study
 entry through when a later study or an acquisition settles it, and say
 which.
 
+## constitution-husserl-ideas-ii-study, second version (2026-11-14)
+
+Replaces the study of 2026-11-13 at the same path (kept in `research/constitution-husserl-ideas-ii/previous-2026-11-13/`). Theme: the concept of constitution as a form of circumstances; editorial history left aside.
+
+**Acquire** (unchanged; none supplied). Ricœur, "Analyses et problèmes dans *Ideen II*"; Merleau-Ponty, "Le philosophe et son ombre"; Sokolowski (1964): precedents for reading reality as unity under circumstances. Nenon & Embree (1996): whether the three senses of founding are distinguished. A clean English *Ideas II*: exact English pages (the study cites openings). A reviewed Hua III/1.
+
+**Held but unread.** Hua IV Beilage XIV whole (one sentence used, `:7084`); §§ 59–60, 63; § 18 d–h and § 51 (intersubjective constitution).
+
+**Directions not taken.** Constitution without circumstances: time (§ 10) and the pure ego (§§ 28–29). Whether a faculty is a property under circumstances (Husserl's notes to § 57). The first root of § 64 in *Ideen I* (individuation of consciousness), untested against *Ideen I*. "Absolute Bekundung" (Beilage X) and the later doctrine of habituality.
+
+**Write-back done 14 Nov 2026.** `sources/notes/constitution-ideen-ii-layers.md` (new part "The concept": pointers by §, corrected pages, correction on *Bekundung*); corpus map (Hua IV: gap at pp. 110–111, early markers, unread `p. NNN` markers; CW3: openings only).
+
 ## constitution-husserl-ideas-ii-study (2026-11-13)
 
 **Acquire** (all requested at the gate, none supplied; each is a declared limit in the study).

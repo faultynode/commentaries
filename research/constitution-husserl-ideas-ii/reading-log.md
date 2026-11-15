@@ -63,3 +63,28 @@ All of Hua IV is unpointed. Every dense section is in the reading of the core te
     - Not read, noted: § 63 footnote with "Lebenswelt" (no apparatus entry; undated); apparatus note to p. 202 "da! hier haben mich immer Schiefheiten beirrt".
 
 12. **Moran & Cohen, "Constitution" (`:622`).** The neo-Kantian sense, objects "formed and given … structure" by a priori acts; the ledger's warning against reading constitution as production applies.
+
+## Second study (2026-11-14): the concept, not the layers
+
+The survey, holdings, literature and acquisitions of 2026-11-12 are reused. What follows was read for the second study, in Hua IV unless noted, before its thesis was chosen. Passages read by the first study are not repeated.
+
+| Range (file lines; Hua pages) | Finding |
+| --- | --- |
+| §§ 4, 7–11 (`:493`–`:522`, `:716`–`:886`; 4–27) | Objects are constituted before theory; categorial synthesis is spontaneous, aesthetic synthesis not; sense-objects as "Urgegenstände"; sensation data pregiven "before the constitution of the object as object"; nature as a sphere of mere things reached by "eine Art ἐποχή". *Surprise*: the regress ends in sensation and time-consciousness, not in material nature. |
+| § 15 a–e, § 16, § 17 (`:997`–`:1329`; 33–55) | Phantom and schema; "Das Ding aber ist, was es ist, mit Beziehung auf ‚Umstände'"; the steel spring; "Beurkundung (originäre Bekundung)"; higher levels of properties; substance = reality. *Surprise*: Husserl says he stressed "reality" over materiality on purpose (54). |
+| § 18, opening, a, b (end), c (`:1337`–`:1388`, `:1470`–`:1501`, `:1574`–`:1590`; 55–58, 64–66, 72–75) | "Bei aller Konstitution und in allen Stufen haben wir … ‚Umstände' … überall … ‚wenn-so' oder ‚weil-so'" (57); kinaesthetic series "motivierend"; conditionality; anomalies contribute nothing to the thing. *Surprise*: a general sentence on all constitution that names no layer; "motivation" at the lowest level. |
+| §§ 27–29 (`:2177`–`:2286`; 108–118) | Pure ego "konstituiert als Einheit mit Beziehung auf diese Stromeinheit"; opinions as "Stiftung". **Damage**: between `:2196` and `:2197` the text of pp. 110–111 is lost (the line reads "bloße intentionale Einfassen kann"); the § 29 heading is missing. |
+| §§ 30–33 (`:2356`–`:2702`; 120–139) | Soul real "in einem ähnlichen Sinn"; "Einheiten der Bekundung"; "schematisiert sich nicht"; no soul-substance, no causality; three kinds of circumstance; "geschichtslose Realitäten" against realities with a history; "Einheit bleibender Eigenschaften mit Beziehung auf zugehörige Umstände". *Surprise*: the difference later called relative/absolute appears here as outer/inner circumstances. |
+| §§ 35–36, 40–47 (`:2787`–`:2809`, `:2928`–`:3153`; 143–172) | Body: sensings, "konditionale" property, "Umschlagspunkt"; the human being constituted only with empathy and "realisiert zu einer Art Erscheinungseinheit"; § 47: "das absolute Subjekt" that cannot become an "Index". |
+| § 50, § 53 (`:3256`–`:3284`, `:3424`–`:3451`; 185–190, 208–211) | Person as subject of a surrounding world; motivation in place of causality; the "böser Zirkel". |
+| §§ 54–58 (`:3458`–`:3863`; 211–253) | Possession ("Habe"); intentional against real relation; kinds of motivation; "alle Natur … aufgelöst … in ein Gewebe von immanenten Motivationen" (226); expression "vorhergeht" the founded unity (244–45); founded unity requires realities as circumstances "für einander" (246); § 57 the person under "subjektiven Umständen"; § 58 "nicht aus Erfahrung … sondern aus Leben". |
+| § 61 (part), § 62 (part), § 64 (`:4267`–`:4277`, `:4353`, `:4593`–`:4693`; 276–77, 281, 297–302) | "Schicht verborgener Vernunft"; realities as expressions of "Regelungen"; § 64 whole. |
+| Beilage X, pp. 323–25 (`:5225`–`:5260`) | "absolute Bekundung"; things "relativ konstituiert", persons "absolut"; note "Das ist zu schnell". |
+| Beilage XII, II §§ 1–3 (`:5592`–`:5676`; 340–46) | **The prediction text**, read after the plan. Result in the study, § 3.7, and Register 12. |
+| GA 20 § 13 c–d (`:2522`–`:2617`; 167–74) | Re-read whole for part 6. |
+| *Ideen I* §§ 149, 151–52 (`:6668`–`:6676`, `:6805`–`:6830`) | Re-read: "Leitfaden" and "unterste Stufe" are two claims. |
+| Moran and Cohen, "Constitution" (`:624`); Mattens § 1 (`:1406`) | Re-read for the two quotations used. |
+
+**Not read for this study, and why.** §§ 1–3, 5–6, 12–14, 19–26, 34, 37–39, 43–45 (in part), 48–49 (beyond the passages in the evidence table), 51–52 (beyond one passage), 59–60, 63, and supplements other than I (one passage), X and XII: outside the line of the argument or covered by the first study's reading; the reviewer was asked to look there for counter-evidence. Hua XIII–XV, Hua XVI, Hua IX, Hua XI, CM: as in the first log; the study is confined to the printed *Ideen II*.
+
+**Pages.** In Hua IV a page marker often stands before a paragraph that begins on the page before. Pages of quotations taken from such paragraphs were settled against the page breaks printed in the English file (bracketed Hua numbers inside the sentences); 26 rows of the evidence table were corrected in this way (the `OVERRIDE` list of the scratch generator; the check script reports the larger corrections as warnings). Markers of the form `<!-- p. 226 PHÄNOMENOLOGISCHE … -->` are not read by `study_prep.py`.
