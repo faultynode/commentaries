@@ -439,3 +439,345 @@ accounted for here or above.
   McDowell): works from *Erfahrung und Urteil*; excluded. Vol. XX/2022
   (`:4536`, sensory feelings): excluded. Vols. IX, XII, XV, XXI, XXIII: hits
   scattered in indexes, glossaries or unrelated papers; excluded.
+
+## 7. After the gate (2026-11-15): the six acquisitions received
+
+User supplied all six (commit 0f63b3c and e9374d1 of the sources repo), "from
+native text extraction so the quality may be an issue"; length may be
+extended. Files: `husserl/husserl-hua-11-…-einleitung-des-herausgebers.md`
+(535 lines), `husserl/husserl-hua-11-…-textkritischer-anhang.md` (4,958),
+`husserl/husserl-cw9-analyses-concerning-passive-and-active-synthesis.md`
+(31,497), `husserl/husserl-hua-31-aktive-synthesen-….md` (5,836),
+`husserl/husserl-erfahrung-und-urteil.md` (18,645; German only, no English),
+`holenstein/holenstein-phanomenologie-der-assoziation-….md` (15,661),
+`welton/welton-the-other-husserl-….md` (23,077). All: raw text layer, short
+lines broken mid-sentence (quotations cannot be grepped across line breaks),
+no headings, no `<!-- N -->` page markers; printed page numbers survive as
+bare lines beside the running heads. Governing guides read in full
+(bernet-style-guide.md 1–1167; husserl-methodological-guide.md 1–520).
+
+### Hua XI, Einleitung des Herausgebers (Fleischer), read in full (1–535)
+
+- `:2`–`:12` (p. XIII): course given three times (WS 1920/21, SS 1923, WS
+  1925/26), reworked at both repetitions; "Der Haupttext wird in der Fassung
+  von 1925/26 gedruckt"; Teil A = reconstructed first version (1920/21) of
+  §§ 12–40.
+- `:27`–`:31`: titles: *Logik* (1920/21), *Ausgewählte phänomenologische
+  Probleme* (1923), *Grundprobleme der Logik* (1925/26). Manuscript title
+  "Transzendentale Logik", on F I 38 with "Urkonstitutionen".
+- `:74`–`:76` (p. XIV n.): Husserl also calls the course "Genetische Logik"
+  (note to p. 411,4) and "Transzendentale Analytik".
+- `:193`–`:208` (p. XVII): the analyses are unified "durch das die
+  Vorlesungen in Bewegung haltende Problem des Ansich des Bewußtseinsstromes";
+  `:209`–`:383` (pp. XVII–XXI): Fleischer's own account: §§ 23–24 reach the
+  problem of truth; the association analyses are to lead out of it; the past
+  is solved, the future "behält den Charakter des Problems". *Surprise:*
+  Fleischer's introduction never uses "genetisch" for the method; she frames
+  the whole under truth/Ansich. Candidate thesis (b) is thus the editor's
+  frame, not new; what she does not do is connect it with the genetic method.
+- `:457`–`:462` (p. XXII): cover of F I 37: "Vorlesungen transzendentale Logik
+  1920/21. Wiederholt und (leider umgearbeitet) 1923 Sommer und abermals (zum
+  Teil verbessert, zum Teil verdorben) 1925/26."
+- `:409`–`:416`: Landgrebe's "Vorlesung über 'Genetische Logik'" = this course.
+
+### Hua XI, Textkritischer Anhang: general notes read (1–330, 2080–2403, 3987–4031, 4713–4736) and notes to key pages
+
+**The dating table (`:228`–`:316`, p. 446).** Pages and lines of Hua XI by layer:
+3,5–44,21 = 1920/21 (F I 37 Bl. 69–99); 44,24–53,32 = 1923; 53,32–64,17 =
+1925/26; 65,7–92,16 = 1925/26; 92,19–95,30 = 1923; 95,37–103,26 = 1925/26;
+103,27–118,13 = 1920/21; 118,14–184,5 = 1925/26 (the whole of §§ 26 end–39);
+184,6–187,5 = 1925/26; 187,6–190,33 = 1920/21; 190,34–191,18 = 1925/26;
+192,7–222,23 = 1920/21. "diese Bearbeitungen überschreiten in den Partien von
+1920/21 weit das bei Husserl übliche Maß" (`:319`).
+Consequences for passages already logged:
+- end of § 4 (file `:672`, p. 24–25): **1920/21**.
+- §§ 16–18 (`:1283`–`:1321`, pp. 69–75; "Grundgesetz der passiven Genesis",
+  "Genetisch sagen wir auch mit Grund"): **1925/26**.
+- §§ 23 end–25 and the opening of § 26 up to p. 118,13 (`:1893`, `:1911`–`:1913`;
+  association entered through the origin of error "als genetischer
+  Analyse"; association as "Form und Gesetzmäßigkeit der immanenten
+  Genesis"): **1920/21**.
+- § 26 from 118,14 (Kant, `:1932`; `:1944`; `:1982`), §§ 27–39 (living present,
+  `:2076`; "Wir tun so, als ob", `:2202`; § 34's rule, `:2331`–`:2345`; `:2393`;
+  §§ 36–38, `:2431`, `:2494`, `:2517`): **1925/26**.
+- §§ 42–48 (`:2934`–`:2981`: Leitgedanke, "nie abbrechende Geschichte",
+  "statisch und genetisch"): **1920/21**. So the closing reflection that names
+  the pair precedes the treatise "Genesis 1921"; the association theory with
+  its rule of method is five years later.
+- The third part (F I 39, activity, judgment) was not read in 1923 or 1925/26
+  (`:83`–`:95`); it is Hua XXXI. F I 37 Bl. 3–32 went into FTL's introduction
+  (`:102`–`:126`).
+- F I 38 cover (`:197`–`:210`): "1925/26 neu ausgearbeitet. Assoziation von
+  134a an"; loose leaf: "Wichtiges zur Assoziation ... die St. Märgener
+  Manuskripte vom Herbst 1921 (also unmittelbar nach dem vorliegenden
+  Kolleg)".
+**Notes to passages.**
+- `:1203`–`:1217` (to 117,15–118,16): 118,13 a struck passage on association
+  as "einem der größten und wichtigsten Themen rein phänomenologischer
+  Forschung"; 118,14–16 "Aus den Darlegungen … Forschung ist" an insertion
+  (the seam between the layers).
+- `:1219`–`:1223` (to 119,33 f.): after "Assoziationslehre" struck: "eine
+  parallele, die Gesetzmäßigkeit der reproduktiven Genesis voraussetzende".
+- `:1570` (162 n.; 163,26): new lecture probably begins 163,27; after "Ich
+  zu" the text breaks off.
+- `:1692` (178,23–179,10): "Freilich, ein Unterschied … verfolgen haben" in
+  red square brackets.
+- `:2099`–`:2131` (§ 48): 219,5–7 "Geschichte … Ansich vorgezeichnet" in blue
+  square brackets; 219,21 "Weihnachten" = Christmas 1920; 220,13 struck:
+  "Aber alles Konstituierte ist ein im Bewußtsein, dem Werden,
+  Konstituiertes, und es ist so ein notwendiges Problem und ein solches von
+  einer ergänzenden Dimension, wie das Bewußtsein und sein Ich sich
+  stufenweise seine Objektivitäten ... motiviert aufbaut"; 220,39–221,1
+  "sozusagen naiv" a pencil insertion.
+- `:2137`–`:2298` (first version, pp. 480–482): leaves discarded partly 1923,
+  partly 1925/26; Husserl's cover: "Ausgeschiedene Blätter, nicht immer aus
+  guten Gründen ausgeschieden"; "Es scheint hier im einzelnen die Darstellung
+  besser zu sein". Table of discard dates `:2299` ff. (pp. 225–253: discarded
+  1923 for most).
+- `:3987`–`:4025` (treatise): B III 10, cover "Genesis. 1921. Neue Beilagen.
+  …"; leaves 22–30 dated 1921; 339,9 "Genesis V. für Kausation"; 339,36
+  marginal "Konstitutive Deskriptionen, die ich als statisch zu bezeichnen
+  pflegte"; 345,29–32 "Ich muß … betrachte" a later addition.
+- `:4713`–`:4724` (Beilage XIX): D 19 Bl. 133–137, dated 12–14 Feb 1926, cover
+  "ad Logik von 1920, Verschmelzung"; keyword "Zu genetische Logik 1920 und
+  den Bernauer Manuskripten über Verschmelzung etc."
+
+### Steinbock, Translator's Introduction to *Analyses Concerning Passive and Active Synthesis* (2001)
+
+File `husserl/husserl-cw9-….md`; English pages are bare lines at page breaks,
+Hua XI pages stand in the margin as `[103]` (sometimes damaged, `1101]`), print
+line numbers every fifth line. Intro `:640`–`:2823` (pp. xv–lxvii): §§ 1–2
+read in full (`:640`–`:1532`), § 3 sampled (`:1533`–`:1600`, `:1858`–`:1882`,
+`:2424`–`:2472`, `:2510`–`:2522`).
+- `:691`–`:701` (p. xvi): the lectures are "expressive, even exemplary of his
+  genetic method"; they surpass "the Cartesian static analysis peculiar to
+  the Ideas" and initiate "a regressive style of inquiry into origins".
+- `:917`–`:946` (p. xxii): a regressive, "archeological" movement from active
+  to passive, then description "by beginning from below and ascending
+  upward" (quoting pp. 32, 607 n. 93 of his edition).
+- `:1100`–`:1106` (p. xxvi): "While Parts 1 and 2 of the Main Text date back to
+  1920/21", reworked 1923 and 1925/26; first version reproduced. He does not
+  say that the printed main text is the 1925/26 version nor use the layers.
+- `:1183`–`:1232` (pp. xxviii–xxix): "genetic method is at the heart of these
+  lectures"; the 1921 texts are "the first explicit formulation of this
+  difference"; "Husserl had undertaken genetic analyses implicitly without
+  phenomenology having been explicitly cognizant of itself as having this
+  genetic methodological dimension" (the sentence Bégout quotes); Husserl
+  "was provoked by the very matters themselves to catch up reflectively with
+  his own descriptions". Dilthey and Brentano named for
+  descriptive/explanatory.
+- `:1292`–`:1301` (p. xxxi): three geneses (active; between active and passive;
+  primordial constitution), "bound to the analysis of the genesis of the
+  monad"; `:1356`–`:1365` (p. xxxii): "it is not until we get to the problems of
+  association and affection, and the individuation of the monad that the
+  problem of genesis really comes into play"; quotes "attending to
+  constitution is not attending to genesis"; "The matter of genetic
+  phenomenology, then, concerns monadic individuation and its genesis."
+- `:1458`–`:1519` (pp. xxxv–xxxvi): static as leading clue to genetic; then the
+  direction reverses, static phenomena "grasped as 'finished,' as
+  abstractions from temporality".
+- `:1563`–`:1567`: the Analyses "enacts a genetic method"; `:1587`–`:1597`:
+  passivity is what "a regressive inquiry into origins unearths".
+*Finding:* Steinbock is a named holder of the received view in its strongest
+form: the lectures enact the method of the 1921 texts, whose matter is
+monadic genesis. He has the thought that practice preceded formulation
+(shared with Drummond). He does not distinguish what the lectures do from
+the monad's history (he identifies them), does not use Fleischer's dating,
+and does not discuss § 34's rule or the "as if" of the living present.
+
+### Hua XXXI (Breeur 2000)
+
+File `husserl/husserl-hua-31-….md`, no markers; pages as bare lines. Read:
+Vorwort `:176`–`:301` (pp. IX–XII) in full; `:465`–`:482`; `:1655`–`:1668`;
+`:2760`–`:2835` (pp. 66–67).
+- `:182`–`:190`: second part not read in 1923 or 1925/26, "vermutlich aus
+  Zeitmangel", but reworked after 1920/21 and included in the new pagination
+  of 1925: Husserl still treated the course as one.
+- `:211`–`:228`: task of transcendental logic: to lead categorial syntheses
+  back to their "transzendental-genetischen Ursprünge"; in 1920/21 the main
+  opposition is passivity/activity, not pre-predicative/predicative.
+- `:2772`–`:2775` (p. 66): insights into "die Struktur der Urteile als fertige
+  Gestaltungen" and into "die apriorische Genesis, nach der sich systematisch
+  und nach festen Gesetzen jedes ideale mögliche Fortbauen von Urteilen ...
+  vollzieht". `:2820`–`:2831` (p. 67): "Unser Prinzip, die Objektivierung als
+  eine genetische Stufenfolge thematisierender Leistungen zu verstehen, muss
+  bis aufs Letzte konsequent durchgeführt werden"; "Lehre von der Genesis der
+  logischen Bedeutung". `:475`: "die genetisch primitivsten
+  Entwicklungsreihen". *Finding:* in the active part "genesis" means an
+  a priori order of building-up (structure of finished forms / a priori
+  genesis of forms), a law-governed sequence of levels, not a history.
+  Layer of these pages not yet checked in Breeur's apparatus.
+
+### Welton, *The Other Husserl* (2000)
+
+File `welton/welton-….md` (a library scan's text layer; pages as bare
+lines). Read: ch. 8 end and ch. 9 § A opening `:9896`–`:10020` (pp. 219–223);
+`:10195`–`:10271` (pp. 226–228); ch. 9 § F "Systematic Phenomenology"
+`:11186`–`:11505` (pp. 249–256) in full. Chs. 8 A–D and 9 B–E not read.
+- `:9932`–`:9937` (p. 220): the transcendental aesthetics "was itself a piece of
+  genetic analysis. We find this in ... Analysen zur passiven Synthesis".
+- `:9954`–`:9958` (p. 221): the course as Husserl's "first attempt to apply his
+  newly found genetic analysis to both perception and theory of judgment".
+- `:10209`–`:10229` (p. 227): Fink's 1930 outline replaces static/genetic by
+  regressive/progressive ("Abbau-Analyse"/"Aufbau-Analyse"); Welton thinks
+  Husserl's own draft closer to his course of a decade. So Welton treats
+  "Abbau" as Fink's term of 1930.
+- `:11250`–`:11340` (pp. 250–252): three disciplines: categorial (static),
+  constitutive, genetic. "to trace [the order of] constitution is not to
+  trace the [order of] genesis" (Hua XIV) locates "the difference between
+  constitutive and genetic phenomenology"; constitutive = vertical
+  transformations (conditioned/condition), genetic = lateral, temporal.
+  `:11383`–`:11398` (p. 253): "Husserl's account of passive synthesis moves
+  through his constitutive to his genetic analysis"; "this allowed Husserl to
+  treat the basic laws of genesis as laws of time-consciousness". Fig. 9.1:
+  genetic analysis = "Explanatory Phenomenology".
+*Finding:* Welton already has a third term between static and genetic
+(constitutive analysis) and uses the Hua XIV sentence. He does not use Hua
+XIV's own three kinds (static; laws of genesis; the monad's history), and
+places the lectures in both the constitutive and the genetic register
+without saying which passages do which.
+
+### Holenstein, *Phänomenologie der Assoziation* (1972)
+
+File `holenstein/holenstein-….md` (text layer; pages as bare lines in running
+heads). Read: § 3 on the Freiburg texts `:1330`–`:1400` (pp. 11–12); § 6 "Die
+Assoziation in der genetischen Phänomenologie" `:1781`–`:2031` (pp. 25–31) in
+full; § 8 "Urassoziationen" `:2177`–`:2320` (pp. 35–39) in full; samples
+`:2470`–`:2484`, `:2880`–`:2900`, `:3960`–`:3978`, `:9560`–`:9590`, `:9778`–`:9790`.
+Not read: chs. 3–15 otherwise.
+- `:1344`–`:1360`, n. 30, n. 32 (pp. 11–12): in 1920/21 association takes
+  "rund 15 Buchseiten" (Hua XI 270–275, 283–290, 187–191); in 1923 and 1925/26
+  "gut 75 Buchseiten", five times as much (116–191; the new version runs from
+  118,14 to 187,5). "Leider ist in der Husserliana-Ausgabe nicht auszumachen,
+  wie sich die Ausarbeitung auf die Vorlesungen von 1923 und 1925/26
+  verteilt." *Correction available:* Fleischer's table (Anhang p. 446) gives
+  118,14–187,5 wholly to 1925/26 (1923 only at 92,19–95,30 and 44,24–53,32).
+  Holenstein calls the course throughout "Vorlesungen zur genetischen Logik".
+- `:1803`–`:1920` (pp. 26–29): the treatise B III 10 (he cites manuscript
+  pages, including parts not in Hua XI: "Die genetische Analyse ist die
+  verstehende Aufklärung der genetischen Konstitution, das ist der
+  Konstitution dieser Konstitution", B III 10 p. 48). Genetic phenomenology
+  traces "die Wesensgeschichte der Apperzeptionstypen". "Es ist Husserl nicht
+  recht gelungen, statische und genetische Phänomenologie voneinander ohne
+  Ueberlappungen abzuscheiden"; conclusion: they are "zwei abstraktive oder
+  reduktive Modi des Zugangs zum selben genetisch erwachsenden Phänomen".
+- `:1923`–`:1953`: association "gibt sich in sich selbst als Genesis" (EU § 16).
+- `:2273`–`:2291` (p. 38): on Hua XI 159–166: pre-affective unity-formation is
+  "nur zur Diskussion" gestellt; units that form for themselves and only
+  afterwards affect the ego "sind Substruktionen, mit denen die Sphäre der
+  Phänomenologie unterschritten wird"; a theory of pre-affective constitution
+  is phenomenological only so far as it draws its motives "aus den Evidenzen
+  der ersten Stufe". In Beilagen XXIV, XVIII Husserl operates
+  "wenigstens hypothetisch" with non-affective connections (against Beilage
+  VIII).
+- `:3967`–`:3975` (p. 61?): the whole sphere of passive pregivenness is
+  "bloss reduktiv zugänglich ..., in einer Abstraktion, die alle aktiven
+  Leistungen suspendiert. Diese phänomenologische Abstraktion besagt jedoch
+  keine konstruierende oder postulierende Spekulation".
+- `:9784`–`:9788`: pure passivity "nur abstraktiv, in einer mühsamen
+  Rekonstruktion enthüllbar", by following the references of "fertigen"
+  objects of experience to their genesis.
+*Finding:* Holenstein has § 34's rule, read exactly as the reading log read
+it, and the non-speculative sense of the abstraction. Direction (a) as a
+correction of Bégout is therefore **not new**: Holenstein (1972) precedes
+Bégout (2000) and already answers him. What Holenstein lacks: the dating of
+the association section (he says it cannot be made out); any account of what
+"genetic" means in the 1920/21 layer as against the 1925/26 one; the
+question whether stratifying the living present is "genetic" in the
+treatise's sense at all.
+
+### After plan.md was fixed: the prediction text, and other reading done on 2026-11-16
+
+- **Hua XI §§ 39 end–42** (`:2542`–`:2711`, pp. 183–197), read in full after the
+  plan (prediction, plan e). Layers: 184,6–187,5 = 1925/26; 187,6–190,33 =
+  1920/21; 190,34–191,18 = 1925/26; 192 ff. = 1920/21.
+  `:2555`–`:2559` (p. 184, 1925/26): the living present "die wir bisher, in
+  einer notwendigen Abstraktion, rein als einen Prozeß immanenter hyletischer
+  Erfahrung ... dachten". `:2594` (p. 185): protention "sozusagen
+  totgeschwiegen"; the future "schafft nicht mit Erfahrungseinheiten im
+  ursprünglichen Sinn, sie setzt sie voraus". `:2606` (p. 186): expectation
+  "das genetisch ursprünglichste Quellgebiet der Modalisierung". `:2608`: "Es
+  handelt sich also um eine notwendige Motivation." `:2618` (p. 188,
+  **1920/21**): "in ursprünglicher Evidenz gegeben. Wir können hier direkt
+  die Motivationskausalität als eine Notwendigkeit sehen; wir können in
+  Evidenz sagen: Ich erwarte hier q', weil ich unter ähnlichen Umständen q
+  erfahren habe, und dieses Weil-so ist evident gegeben." `:2635` (p. 189):
+  in clear reproduction the instances "evident"; "In der leeren retentionalen
+  Sphäre aber summieren und hemmen sich die Kräfte ... blind". `:2677`–`:2679`
+  (p. 192, 1920/21): "Es ist fraglich, wie weit in diese dunkle Sphäre der
+  Retention die Wesenseinsicht reicht. Anders steht es im Reich der schon
+  reproduktiv entwickelten Erinnerungen". `:2687` (p. 193): no source yet for
+  the concept of illusion: "so scheint das ein Fehler der Theorie zu sein".
+  `:2691` (p. 194): "wie eine Überschiebung und Durchdringung von
+  Erinnerungen genetisch möglich ist". `:2704` (p. 196): "in seiner
+  genetischen Entwicklung; hier ist ja eine Ordnung des Werdens
+  vorgezeichnet". **Result of the prediction:** confirmed, and more
+  literally than predicted: the motivation of an expectation is said to be
+  *seen* as a necessity, with an evident "because", where the awakened past
+  has come to clear recollection; the empty retentional sphere is set against
+  it as blind and as a place where it is "questionable how far insight into
+  essence reaches". Both sentences are of 1920/21.
+- **Hua XI first version, nos. 13–26** (`:3446`–`:3505`, `:3741`–`:3990`; pp.
+  253–260, 268–290), read in full. The file has the leaves out of order
+  between pp. 274 and 283 (the running heads jump 274 → 277 → 278 → 280 → 281
+  → 282 → 283; two footnotes carry the number 42). `:3453` (p. 253): "Unsere
+  Methode war im Wesen die sokratisch-platonische." `:3749` (p. 269): the
+  example of Sils Maria and the Fex valley. `:3753` (p. 270): "Das
+  Sich-auseinanderschieben in zwei gesonderte Erinnerungen ist keine Theorie,
+  sondern eine in ihrer Intentionalität verstehbare Sachlage." `:3758` (pp.
+  270–271): "Die beiden sind 'assoziierend'; die eine Situation erinnert an
+  die andere, und das ist nicht Ausdruck irgendeiner objektiven
+  psychologischen Tatsache, sondern eine rein phänomenologische Wesenslage."
+  `:3798`–`:3803` (p. 272): "müßte man phänomenologisch den Begriff der
+  Assoziation erweitern". `:3837` (p. 273): "Das sind, scheint es mir,
+  Urformen der Assoziation". `:3890`–`:3895` (p. 283): origin of error, "als
+  genetischer Analyse". `:3965` (p. 286): "So bin ich genötigt, hierin
+  Urformen der Assoziation zu sehen". `:3981` (pp. 288–289): "wie ist es zu
+  verstehen, daß die Gegenwart durch Ähnlichkeit die ferne versunkene
+  Vergangenheit herbeiholt"; answer by "die Gesetzmäßigkeit der Retention"
+  and "Ergänzend tritt aber dazu das Gesetz". `:3983` (p. 289): "neue
+  Probleme, die dringend der Bearbeitung harren". `:3988` (pp. 289–290): "von
+  der Wiedererinnerung her angefaßt, und meines Erachtens muß sie von daher
+  angefaßt werden"; "Durch unsere jetzigen genetischen Analysen".
+- **Hua XIV Beilage I**, `:1255`–`:1295` re-read (pp. 37–41): added `:1265`
+  (p. 38): "Eine systematische Phänomenologie, wie ich sie mir dachte, geht
+  den Stufen möglicher Konstitutionen nach ... dann die genetisch höheren
+  Stufen ... Das sind also genetische Betrachtungen und als Deskription
+  fertig konstituierter Gebilde ... in den Zusammenhang genetischer Forschung
+  hineingestellt. ... In der Genesis wird ihr Werden aus konstitutiven
+  Unterstufen verständlich."; p. 40: laws of compatibility against
+  "Notwendigkeiten der Folge"; p. 41: "zeigt sie, wie Bewusstsein aus
+  Bewusstsein wird".
+- **Hua XVII**: Ergänzender Text IV, `:7891` (p. 374): "von unten aufsteigend
+  zu zeigen, wie da das eigentliche Denken in allen seinen Stufen auftaucht,
+  wie es in seiner fundierten Leistung motiviert und gebaut ist"; no
+  "genetisch"/"Genesis" in Erg. Text IV by search of `:7600`–`:7900`. Beilage
+  II § 2 b, `:6695`–`:6765` (pp. 316–318) read: static analysis "von der
+  Einheit des vermeinten Gegenstandes geleitet"; genetic analysis "auf den
+  ganzen konkreten Zusammenhang gerichtet"; "urstiftende" Genesis. File
+  unreviewed (corpus map).
+- **Hua XIII Beilage XLV** (`:7530`–`:7704`, 1916/17): opening and Husserl's
+  notes read. Note `:7593`: "Das was ich anderwärts auch statische
+  phänomenologische Konstitution (unpassend) genannt habe ... 2. Ein Anhieb
+  zur Lehre von der Genesis nach allgemeinen Prinzipien. Genetische
+  Konstitution."
+- **Erfahrung und Urteil**: Landgrebe's Vorwort `:95`–`:215` (pp. VI–IX) read:
+  the Introduction was drafted last (after 1935), "teils freie Wiedergabe von
+  Gedanken aus ... 'Die Krisis' ..., und aus der 'Formalen und
+  transzendentalen Logik', teils ... mündliche Erörterungen ... und teils auf
+  Manuskripte aus den Jahren 1929–1934". "Abbau" at `:2207`, `:2506`, `:2560`,
+  `:2724` (Introduction §§ 10–11) and `:12272`; § 16 `:3712`–`:3746` (pp. 77–78)
+  repeats Hua XI's sentences on association ("Form der Gesetzmäßigkeit
+  immanenter Genesis"; "gibt sich in sich selbst als Genesis") and adds that
+  the LU's insight was "schon den Keim der genetischen Phänomenologie".
+- **Bégout**, further paragraphs read: `:394`, `:591`, `:673`, `:1016`–`:1030`,
+  `:1242`–`:1270`. He does quote "substructions incompréhensibles" correctly
+  at `:1022` (affection as "ratio cognoscendi", the graded theory as
+  "conjuratoire", a "garantie de phénoménalité") and holds that gradation only
+  moves the problem to the zero (`:1030`). At `:673` "substructions" is given
+  as Husserl's name for what the analysis produces, with Beilage XIX's
+  "Urelemente". `:1242`–`:1244`: the Abbau is described from C 6 (August 1930).
+  Not read: `:687`–`:774`, `:1549`–`:1726`.
+- Still unread and declared as such: Hua XI §§ 19–22, 43–47 (hit lines only),
+  Beilagen other than XIX; Hua I § 39; Hua XXXIII; Hua IX; Hua XV; German BKM;
+  Derrida; Lerner, Luft, Pietrek; Brentano.

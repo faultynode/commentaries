@@ -1,7 +1,7 @@
 # Acquisitions: genetic phenomenology in Hua XI
 
-Written 2026-11-15, at the gate. Status of every entry: **wanted** (none has
-been supplied or declined yet).
+Written 2026-11-15, at the gate. Status then: every entry wanted. For the
+fate of each entry after the user's reply see the last section.
 
 **What was searched before listing a work as missing.** Filenames under
 `../sources/sources/*/` (all folders); `../sources/docs/corpus-map.md`; the
@@ -210,3 +210,26 @@ for this topic (a new note is to be written at write-back); length: about
 `articles/constitution-husserl-ideas-ii-study.md`; slug:
 `genetic-phenomenology-husserl-hua-11`, output
 `articles/genetic-phenomenology-husserl-hua-11-study.md`.
+
+## Fate of the entries (2026-11-16)
+
+The user replied on 2026-11-15: all six texts were added to the sources repo
+"from native text extraction so the quality may be an issue"; the length may
+be extended if it helps the exposition. Files and their state are in
+holdings.md and reading-log.md § 7.
+
+1. Hua XI, editor's introduction and Textkritischer Anhang: **received and
+   used** (two files). Settled the dating: Fleischer's table, Anhang p. 446.
+2. Steinbock's translation: **received and used** (text layer; English pages
+   as bare lines, Hua pages in the margin). Used for the English page of
+   every Hua XI quotation and for the translator's introduction (§§ 1-2 read
+   in full).
+3. Hua XXXI: **received**; preface read in full, text sampled (pp. 66-67).
+   Used only for the limit it states (the active part) and one passage.
+4. Holenstein: **received and used** (§§ 3, 6, 8 read in full, samples
+   elsewhere).
+5. Welton: **received and used** (ch. 9 § F in full, parts of chs. 8-9).
+6. *Erfahrung und Urteil*: **received in German only**; Landgrebe's foreword
+   and the passages on "Abbau" read. *Experience and Judgment* (Churchill and
+   Ameriks) **still wanted**: quotations from EU are in my translation.
+7-15 (useful): none supplied; all **still wanted**, carried to the agenda.

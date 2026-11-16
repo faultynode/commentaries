@@ -6,6 +6,20 @@ taken, texts to acquire. Read before planning a study
 entry through when a later study or an acquisition settles it, and say
 which.
 
+## genetic-phenomenology-husserl-hua-11-study (2026-11-16)
+
+Theme: what the genetic method does in the lectures of Hua XI, by dated layer. Result: a genesis seen (1920/21) and a genesis built under an as-if and the rule of § 34 (1925/26); § 48's "history" a guiding thought.
+
+**Acquired at the gate (all received 2026-11-15):** Hua XI Einleitung and Textkritischer Anhang; Steinbock's translation (CW IX); Hua XXXI; Holenstein (1972); Welton (2000); *Erfahrung und Urteil* (German only).
+
+**Acquire.** *Experience and Judgment* (Churchill and Ameriks 1973): English pages for EU. Kern, *Husserl und Kant* (1964): source of the pair Geltungs-/Genesisfundierung and of the Natorp letter. Steinbock, "Husserl's static and genetic phenomenology" (1998); Larrabee (1976); Aguirre (1970); de Almeida (1972). Husserl to Natorp, 29 June 1918 (*Briefwechsel* V). Natorp, *Allgemeine Psychologie* (1912). Derrida, *Le problème de la genèse* (1990). Cairns's English CM and FTL. A reviewed Hua XVII. Hua XXXIII introduction whole (the Bernau date, read in one paragraph).
+
+**Held but unread.** Hua XI §§ 19–22, 43–47 and the Beilagen other than XIX (Holenstein says Beilagen XVIII, XXIV assume pre-affective connections; test against § 34). Holenstein chs. 3–15; Welton chs. 8 A–D, 9 B–E; Bégout's sections on association, error and the Conclusion; Hua XXXI apparatus (layer of pp. 66–67); Hua I § 39; Hua IX § 39 and Beilage XXVI; Hua XIV Text Nr. 2 and the texts on empathy as "fiktive Genesis"; Hua XV (1929–35).
+
+**Directions not taken.** The null of affection: does any text give it an evidence beyond "known by waking"? The genesis of expectation and of apperceptive types (named in the new § 26, not carried out). The active part (Hua XXXI): "genesis" as a priori order of building up, and whether it was ever put under § 34's rule. The vocabulary of *Abbau*/*Aufbau* from Beilage XIX (Feb 1926) to C 6 (1930) and Fink's outline (1930). Brentano's descriptive/genetic psychology against Husserl's "beschreibende"/"erklärende".
+
+**Write-back done 16 Nov 2026.** `sources/notes/genetic-method-hua-xi-layers.md` (new); corpus map (Hua XI damage and dating; six new files with their damage; holenstein/ and welton/ sections; note listed).
+
 ## constitution-husserl-ideas-ii-study, second version (2026-11-14)
 
 Replaces the study of 2026-11-13 at the same path (kept in `research/constitution-husserl-ideas-ii/previous-2026-11-13/`). Theme: the concept of constitution as a form of circumstances; editorial history left aside.

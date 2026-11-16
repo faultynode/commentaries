@@ -90,3 +90,17 @@ list at `husserl-hua-33-…:5422`); no *Erfahrung und Urteil* in either
 language; no Hua XVII or Hua I in English; no Holenstein, Steinbock, Welton,
 Aguirre, de Almeida, Yamaguchi, Kern (*Husserl und Kant*) or Sokolowski
 monograph. See acquisitions.md.
+
+## Added after the gate (2026-11-16)
+
+All six acquisitions received (user, 2026-11-15; "native text extraction so the quality may be an issue"). None has `<!-- N -->` page markers; pages are read off bare page lines; the study_prep checker warns on every row from these files, as expected.
+
+| Work | File (under `../sources/sources/`) | Language | Pages / markers | Date | Damage |
+| --- | --- | --- | --- | --- | --- |
+| Hua XI, Einleitung des Herausgebers (Fleischer) | `husserl/husserl-hua-11-analysen-zur-passiven-synthesis-einleitung-des-herausgebers.md` | German | roman pages as bare lines (XIV … XXIV; "xXVI" for XVI) | written summer 1965, publ. 1966 (Einl. XXIV) | hyphenated breaks, quote marks garbled, footnote numerals misread ("17SsLOLT.") |
+| Hua XI, Textkritischer Anhang | `husserl/husserl-hua-11-analysen-zur-passiven-synthesis-textkritischer-anhang.md` | German | bare page lines 442–529, some misread ("528" for 523, "518" twice) | 1966 | OCR ("dritien", "Ausden"); the dating table split one cell per line (p. 446) |
+| Steinbock, *Analyses Concerning Passive and Active Synthesis* (CW IX, 2001) | `husserl/husserl-cw9-analyses-concerning-passive-and-active-synthesis.md` | English | English pages as bare lines (spaced digits), Hua pages in margin `[N]` | 2001 | margin marks damaged or lost (esp. §§ 16–18); print line numbers inside text; intro pages roman, mangled ("XXXÜ") |
+| Hua XXXI, *Aktive Synthesen* (Breeur 2000) | `husserl/husserl-hua-31-…-passiven-synthesis.md` | German | bare page lines | lecture 1920/21, reworked; ed. 2000 | OCR ("Tei1", "tiber"); print line numbers inside sentences |
+| *Erfahrung und Urteil* (Landgrebe 1939) | `husserl/husserl-erfahrung-und-urteil.md` | German | bare page lines | drafts 1928–30; Introduction after 1935 (Vorwort VIII–IX) | short lines, hyphenation; no English held |
+| Holenstein, *Phänomenologie der Assoziation* (1972) | `holenstein/holenstein-…-husserl.md` | German | pages in running heads ("28 HUSSERLS …") | 1972 | umlauts lost; footnotes inline |
+| Welton, *The Other Husserl* (2000) | `welton/welton-the-other-husserl-….md` | English | page numbers at top (even) / bottom (odd), checked pp. 220–254 | 2000 | library stamps at the start; otherwise clean |
