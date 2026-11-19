@@ -11,8 +11,8 @@ A comparative pair (the reading text R takes up the read text P) needs an inheri
 - `runs/henry-on-hga3.md` - `henry-the-essence-of-manifestation-commentary` reads `heidegger-ga-3-kant-und-das-problem-der-metaphysik-commentary`. Last completed unit: Appendix, §77, with closing paragraph (Section II complete with its closing paragraph; Appendix read by section; range complete; edition has no page numbers)
 - `runs/henry-on-hga5.md` - `henry-the-essence-of-manifestation-commentary` reads `heidegger-ga-5-hegels-begriff-der-erfahrung-commentary`. Last completed unit: run complete (2026-10-08). Section I §§8-16 (113 units, closing paragraph); Section II §§17-21 (41 units: §17 13, §18 9, §19 6, §20 6, §21 7) and §28 ¶8, with the Section II clos…
 - `runs/henry-on-sz.md` - `henry-the-essence-of-manifestation-commentary` reads `heidegger-sein-und-zeit-commentary`. Last completed unit: Appendix, §77 ¶16 (last unit of the book) with the Appendix closing verdict and the closing paragraph for the whole run. The run is complete.
-- `runs/henry-the-essence-of-manifestation-commentary-key-passages.md` - `None` reads `None`. no Progress line
 - `runs/marion-rd-on-hua3.md` - `marion-reduction-et-donation-commentary` reads `husserliana-3-ideas-i-commentary`. Last completed unit: Les figures de la donation ¶6, with the closing verdict on the whole book (2026-10-20). Run complete: the range (Foreword through Les figures de la donation; index excluded) is d…
+- `runs/marion-rd-on-sz.md` - `marion-reduction-et-donation-commentary` reads `heidegger-sein-und-zeit-commentary`. Last completed unit: II.7 ¶3, with the closing paragraph for chapter II (2026-11-02). Next: chapter III, ¶1 of III.1.
 
 ## Reading texts with no inheritance record
 
@@ -46,7 +46,7 @@ Named texts that no commentary's title matches: the P side of a pair that cannot
 - Descartes, *Meditations* - 2 engagements, in `franck-chair-et-corps-commentary`, `henry-the-essence-of-manifestation-commentary`
 - Heidegger, *Nietzsche* - 2 engagements, in `franck-heidegger-and-the-problem-of-space-commentary`, `henry-genealogie-de-la-psychanalyse-commentary`
 - Plato, *Sophist* - 2 engagements, in `heidegger-ga-20-prolegomena-zur-geschichte-des-zeitbegriffs-commentary`, `heidegger-ga-3-kant-und-das-problem-der-metaphysik-commentary`
-- ... 73 more
+- ... 74 more
 
 ## Partial records: names not yet searched
 
@@ -66,12 +66,14 @@ Corpus authors each partial record could engage, by date, but has neither engage
 
 Ranked by `scripts/comparative_candidates.py`: engagements weighted by mode (destructive and silent appropriation 3, polemical rejection 2.5, acknowledged debt 2, terminological borrowing 1), plus 4 for each named text that matches P, discounted where the record names only the author and the corpus holds several of their commentaries. Pairs with a run file are left out. Check the sources before starting one.
 
-- [ ] `marion-reduction-et-donation-commentary` reads `heidegger-sein-und-zeit-commentary` - score 47.0 · 12 engagements (6 acknowledged-debt, 6 polemical-rejection) · names *Sein und Zeit* · P-loci § 12; § 63
-- [ ] `marion-reduction-et-donation-commentary` reads `husserliana-3-ideas-i-parts-3-4-commentary` - score 46.5 · 13 engagements (7 polemical-rejection, 5 destructive-appropriation, 1 acknowledged-debt) · names *Ideas I* · P-loci § 42
 - [ ] `derrida-la-voix-et-le-phenomene-commentary` reads `husserliana-10-inneres-zeitbewusstsein-commentary` - score 40.0 · 15 engagements (8 polemical-rejection, 4 destructive-appropriation, 2 terminological-borrowing, 1 acknowledged-debt) · names *Lectures on the Phenomenology of Internal Time-Consciousness*
 - [ ] `franck-heidegger-and-the-problem-of-space-commentary` reads `heidegger-sein-und-zeit-commentary` - score 39.0 · 10 engagements (6 polemical-rejection, 4 acknowledged-debt) · names *Zeit und Sein*; *Sein und Zeit*
 - [ ] `marion-reduction-et-donation-commentary` reads `husserliana-19-1-fifth-logical-investigation-commentary` - score 38.5 · 13 engagements (7 polemical-rejection, 5 destructive-appropriation, 1 acknowledged-debt) · names *Logical Investigations*
 - [ ] `marion-reduction-et-donation-commentary` reads `husserliana-19-2-sixth-logical-investigation-commentary` - score 38.5 · 13 engagements (7 polemical-rejection, 5 destructive-appropriation, 1 acknowledged-debt) · names *Logical Investigations*
 - [ ] `bernet-la-vie-du-sujet-commentary` reads `derrida-la-voix-et-le-phenomene-commentary` - score 31.5 · 5 engagements (3 polemical-rejection, 2 acknowledged-debt) · names *La voix et le phénomène*
-- [ ] `marion-reduction-et-donation-commentary` reads `heidegger-ga-24-die-grundprobleme-der-phanomenologie-commentary` - score 31.0 · 12 engagements (6 acknowledged-debt, 6 polemical-rejection) · names *Grundprobleme* · P-loci § 22
-- ... 483 more; see `comparative_candidates.py --all`
+- [ ] `marion-reduction-et-donation-commentary` reads `heidegger-ga-9-vom-wesen-des-grundes-commentary` - score 31.0 · 12 engagements (6 acknowledged-debt, 6 polemical-rejection) · names *Vom Wesen des Grundes*
+- [ ] `franck-chair-et-corps-commentary` reads `heidegger-being-and-time-commentary` - score 23.0 · 5 engagements (3 acknowledged-debt, 2 polemical-rejection) · names *Being and Time*; *Time and Being*
+- [ ] `kern-husserl-and-kant-commentary` reads `kant-kritik-der-reinen-vernunft-commentary` - score 18.0 · 7 engagements (2 acknowledged-debt, 2 polemical-rejection, 2 terminological-borrowing, 1 destructive-appropriation) · names *Kritik der reinen Vernunft*
+- [ ] `husserliana-1-cartesianische-meditationen-commentary` reads `descartes-meditationes-de-prima-philosophia-commentary` - score 16.5 · 5 engagements (2 acknowledged-debt, 2 destructive-appropriation, 1 polemical-rejection) · names *Meditationes de prima philosophia*
+- [ ] `marion-sur-le-prisme-metaphysique-de-descartes-commentary` reads `heidegger-sein-und-zeit-commentary` - score 16.5 · 6 engagements (3 polemical-rejection, 2 acknowledged-debt, 1 terminological-borrowing) · names *Sein und Zeit*
+- ... 478 more; see `comparative_candidates.py --all`
