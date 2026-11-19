@@ -1,0 +1,98 @@
+{
+  "schema_version": 1,
+  "theme": "erfuellung",
+  "commentary": "henry-the-essence-of-manifestation-commentary",
+  "source_sha256": "a2a90bd7e215000feb637e46e5db70ffcc8032e3c242f450bb72616e3e95db25",
+  "extracted_at": "2026-11-02",
+  "extractor": {
+    "agent": "claude-code",
+    "model": "claude-opus-5-5",
+    "prompt": "synthesis/prompts/extraction-prompt.md"
+  },
+  "coverage": "partial",
+  "coverage_note": "§ 1 and § 3 (lines 27-58 and 97-148): the paragraphs carrying fulfilment vocabulary. Not read: §§ 10, 37, 41, 49, 50 and 51 (4-10 hits each, mostly in very long sections) and the rest of the commentary.",
+  "units": [
+    {
+      "id": "erfuellung/henry-em/001",
+      "locator": "henry-the-essence-of-manifestation-commentary#h2-s-1-the-idea-of-an-apodictic-evidence-as-privileged-pathway-of-access-to-the-bei",
+      "primary_locator": "EM § 1",
+      "term": "Erfüllung",
+      "status": "presupposed",
+      "claim": "Henry's summary of Husserl has signifying intentions find a fulfillment that can reach the living presence of the thing, and the way this fulfillment operates defines the degree of evidence.",
+      "quote": "Henry continues: the way in which this fulfillment operates defines the degree of the evidence."
+    },
+    {
+      "id": "erfuellung/henry-em/002",
+      "locator": "henry-the-essence-of-manifestation-commentary#h2-s-1-the-idea-of-an-apodictic-evidence-as-privileged-pathway-of-access-to-the-bei",
+      "primary_locator": "EM § 1",
+      "term": "fulfilled",
+      "status": "presupposed",
+      "claim": "At the highest degree of perfection is an originary evidence in which all elements of the signifying intention are fulfilled by a corresponding intuition, but it is perfect only if it cannot be belied by later experience.",
+      "quote": "at the highest degree of perfection, we find an immediate, originary evidence in which the diverse elements of signifying intention by which consciousness aims at the object are all fulfilled by a corresponding intuition"
+    },
+    {
+      "id": "erfuellung/henry-em/003",
+      "locator": "henry-the-essence-of-manifestation-commentary#h2-s-1-the-idea-of-an-apodictic-evidence-as-privileged-pathway-of-access-to-the-bei",
+      "primary_locator": "EM § 1",
+      "term": "intuitive fulfillment",
+      "status": "presupposed",
+      "claim": "The ego becomes the theme of a consciousness seeking apodicticity only because it alone can furnish an adequate intuitive fulfillment.",
+      "quote": "The ego arises before it only because it is the sole being capable of furnishing to such a consciousness an adequate intuitive fulfillment."
+    },
+    {
+      "id": "erfuellung/henry-em/004",
+      "locator": "henry-the-essence-of-manifestation-commentary#h2-s-3-the-overcoming-of-intuitionism-and-the-liberation-of-the-universal-phenomeno",
+      "primary_locator": "EM § 3",
+      "term": "fulfillment",
+      "status": "introduced",
+      "claim": "Three senses of intuition are distinguished: every presenting act, a consciousness whose signifying intentions are fulfilled, and the fulfilling given itself.",
+      "quote": "(3) The fulfillment itself of intuition, understood as the arising of a given to which the signifying intentions of consciousness come to adjoin themselves in a rigorous correspondence."
+    },
+    {
+      "id": "erfuellung/henry-em/005",
+      "locator": "henry-the-essence-of-manifestation-commentary#h2-s-3-the-overcoming-of-intuitionism-and-the-liberation-of-the-universal-phenomeno",
+      "primary_locator": "EM § 3",
+      "term": "fulfillment",
+      "status": "presupposed",
+      "claim": "The content that gives fulfillment the occasion to occur remains the true goal of intentional life, which is why rational life stays oriented by being-there.",
+      "quote": "the content that must give this fulfillment the occasion to be produced — which remains the true goal of intentional life"
+    },
+    {
+      "id": "erfuellung/henry-em/006",
+      "locator": "henry-the-essence-of-manifestation-commentary#h2-s-3-the-overcoming-of-intuitionism-and-the-liberation-of-the-universal-phenomeno",
+      "primary_locator": "EM § 3",
+      "term": "perfect fulfillment",
+      "status": "criticized",
+      "claim": "The ideal of a consciousness whose signifying intentions are all intuitively realized is questioned as a dangerous ideal in which forgetting of the origin is engendered.",
+      "quote": "is it not, however, in many respects, and despite its practical fecundity, a dangerous ideal? Is it not in this ideal that originary forgetting is engendered, the forgetting of the origin and of the foundation?"
+    },
+    {
+      "id": "erfuellung/henry-em/007",
+      "locator": "henry-the-essence-of-manifestation-commentary#h2-s-3-the-overcoming-of-intuitionism-and-the-liberation-of-the-universal-phenomeno",
+      "primary_locator": "EM § 3",
+      "term": "not-yet-fulfilled",
+      "status": "criticized",
+      "claim": "The commentary states that if the horizon of unfulfilled co-intentions belongs to consciousness in principle, it is a positive ontological structure, not a deficit of intuition.",
+      "quote": "But if the horizon belongs to consciousness *in principle*, then the horizon is not a deficit of intuition but a positive ontological structure — and the ideal of total intuition is a deceptive, even \"dangerous\" ideal."
+    },
+    {
+      "id": "erfuellung/henry-em/008",
+      "locator": "henry-the-essence-of-manifestation-commentary#h2-s-3-the-overcoming-of-intuitionism-and-the-liberation-of-the-universal-phenomeno",
+      "primary_locator": "EM § 3",
+      "term": "not-yet-fulfilled",
+      "status": "criticized",
+      "claim": "Husserl's horizon-doctrine is said to serve only to describe how the not-yet-fulfilled content converts into the fulfilled given, so that the essence of the horizon as such is missed.",
+      "quote": "it uses the doctrine of the horizon as an auxiliary device to describe how the content *within* the horizon (the not-yet-fulfilled) is supposed to convert itself into the content *at the center* of the horizon (the fulfilled given)."
+    },
+    {
+      "id": "erfuellung/henry-em/009",
+      "locator": "henry-the-essence-of-manifestation-commentary#h2-s-3-the-overcoming-of-intuitionism-and-the-liberation-of-the-universal-phenomeno",
+      "primary_locator": "EM § 3",
+      "term": "fulfillment",
+      "status": "revised",
+      "claim": "Henry proposes beginning not from fulfilled intuition but from the confused, non-intuitive consciousness before fulfillment, still immersed in the horizon.",
+      "quote": "Henry proposes beginning from the confused, non-intuitive consciousness — the consciousness before fulfillment, still immersed in the horizon as such."
+    }
+  ],
+  "absences": []
+}

@@ -1,0 +1,89 @@
+{
+  "schema_version": 1,
+  "theme": "erfuellung",
+  "commentary": "husserl-erfahrung-und-urteil-commentary",
+  "source_sha256": "82c4ca54e212939aeb705d8aa3ecf44065fe852bd013910cfcf8326007d09b15",
+  "extracted_at": "2026-11-02",
+  "extractor": {
+    "agent": "claude-code",
+    "model": "claude-opus-5-5",
+    "prompt": "synthesis/prompts/extraction-prompt.md"
+  },
+  "coverage": "partial",
+  "coverage_note": "Term-led reading of the paragraphs carrying fulfilment vocabulary in § 5 a) (mere judging), § 16, § 21 with § 21 a) (origin of negation), and § 48. Not read: § 8, § 17, the two-memberedness of the predicative process, and the remaining sections with hits.",
+  "units": [
+    {
+      "id": "erfuellung/eu/001",
+      "locator": "husserl-erfahrung-und-urteil-commentary#h4-a-mere-judging-as-an-intentional-modification-of-evident-judging",
+      "primary_locator": "EU § 5 a)",
+      "term": "fulfillment",
+      "status": "introduced",
+      "claim": "Mere judging is an intentional modification of evident judging, and every judgment, even an empty one, carries a reference to possible fulfillment.",
+      "quote": "every judgment, even one made emptily, carries within itself a reference to possible fulfillment, to a possible return to the things themselves."
+    },
+    {
+      "id": "erfuellung/eu/002",
+      "locator": "husserl-erfahrung-und-urteil-commentary#h4-a-mere-judging-as-an-intentional-modification-of-evident-judging",
+      "primary_locator": "EU § 5 a)",
+      "term": "empty judgment",
+      "status": "presupposed",
+      "claim": "Emptier forms of consciousness presuppose fuller ones, and the genetic regress traces intentional modifications back to their fulfilling originals.",
+      "quote": "Empty judgment presupposes the possibility of filled, evident judgment; and filled judgment presupposes the objectual givenness of the substrates."
+    },
+    {
+      "id": "erfuellung/eu/003",
+      "locator": "husserl-erfahrung-und-urteil-commentary#h3-s16-the-field-of-passive-pregivennesses-and-its-associative-structure",
+      "primary_locator": "EU § 16",
+      "term": "coincidence-synthesis",
+      "status": "revised",
+      "claim": "Equality and similarity in static description are products of coincidence-syntheses, total for equals and partial with conflict for similars, which are called association.",
+      "quote": "What in a purely static description gives itself as equality or similarity is thus itself already to be regarded as the product of one or another kind of coincidence-synthesis"
+    },
+    {
+      "id": "erfuellung/eu/004",
+      "locator": "husserl-erfahrung-und-urteil-commentary#h3-s21-the-inhibition-of-tendencies-and-the-origin-of-the-modalizations-of-certaint",
+      "primary_locator": "EU § 21",
+      "term": "fulfillment",
+      "status": "presupposed",
+      "claim": "In unhindered perception the fulfillment of the interest's tendencies is at once fulfillment of the expectation-intentions and closer determination of the object.",
+      "quote": "The satisfaction of the interest, the fulfillment of the tendencies in striving-onward from phase to phase, is at once fulfillment of the expectation-intentions."
+    },
+    {
+      "id": "erfuellung/eu/005",
+      "locator": "husserl-erfahrung-und-urteil-commentary#h4-a-the-origin-of-negation",
+      "primary_locator": "EU § 21 a)",
+      "term": "Enttäuschung",
+      "status": "introduced",
+      "claim": "Disappointment of an expectation-intention presupposes a measure of continuing fulfillment and a unity of objectual sense maintained through the changing appearances.",
+      "quote": "A certain measure of continuing fulfillment is presupposed throughout, and correlatively, a certain unity of the objectual sense must maintain itself through the flow of changing appearances."
+    },
+    {
+      "id": "erfuellung/eu/006",
+      "locator": "husserl-erfahrung-und-urteil-commentary#h4-a-the-origin-of-negation",
+      "primary_locator": "EU § 21 a)",
+      "term": "negation",
+      "status": "introduced",
+      "claim": "The disappointment of perceptual expectation is the original phenomenon of negation, which thus appears in primal form in pre-predicative receptive experience.",
+      "quote": "Negation is thus not first a matter of predicative judging but already appears in its primal form in the pre-predicative sphere of receptive experience."
+    },
+    {
+      "id": "erfuellung/eu/007",
+      "locator": "husserl-erfahrung-und-urteil-commentary#h3-s48-cognitive-action-paralleled-with-practical-action",
+      "primary_locator": "EU § 48",
+      "term": "fulfillment",
+      "status": "revised",
+      "claim": "Cognitive action is paralleled with desiring striving: both run from unfulfilled aiming through rising fulfillment to attainment, the goal of cognition being knowledge.",
+      "quote": "the goal is knowledge, and we distinguish the completely unfulfilled aiming and its rising fulfillment in the cognitive action up to complete attainment, until the object stands before us as completely known."
+    },
+    {
+      "id": "erfuellung/eu/008",
+      "locator": "husserl-erfahrung-und-urteil-commentary#h3-s48-cognitive-action-paralleled-with-practical-action",
+      "primary_locator": "EU § 48",
+      "term": "fulfillment",
+      "status": "introduced",
+      "claim": "Each step of cognition is both fulfillment with clarity and intuitiveness and fulfillment of the cognitive striving, whose satisfaction concerns the mode of cognition, not the being of the object.",
+      "quote": "Every step of cognition is determined by the fact that it means not merely fulfillment with clarity and intuitiveness but at the same time fulfillment of the cognitive striving and thereby its rising satisfaction."
+    }
+  ],
+  "absences": []
+}

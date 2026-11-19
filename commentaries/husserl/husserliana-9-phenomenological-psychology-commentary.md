@@ -1370,7 +1370,27 @@ The remainder of the Second Drafting Attempt follows broadly the architecture of
 
 ## **The Encyclopaedia Britannica Article — Fourth, Final Version**
 
-The Fourth Final Version is the form in which the article was eventually published (in shortened and modified form) in the Encyclopaedia Britannica. Husserl has by this point worked through several attempts at the article, and has come to a more settled formulation of the relation between psychological and transcendental phenomenology. He drops the Heideggerian framing of the Second Drafting Attempt and returns to the framing of the First Draft, but with significant refinements that reflect his deeper working-through.
+The Fourth Final Version is the form in which the article was eventually published (in shortened and modified form) in the Encyclopaedia Britannica. Husserl has by this point worked through several attempts at the article, and has come to a more settled formulation of the relation between psychological and transcendental phenomenology. He drops the Heideggerian framing of the Second Drafting Attempt and returns to the framing of the First Draft, but with significant refinements that reflect his deeper working-through. Of its sixteen numbered sections, this commentary covers only §11, the opening section of Part III; §§1–10 and §§12–16 have no commentary here.
+
+---
+
+### **III. Transcendental Phenomenology and Philosophy as Universal Science in Absolute Grounding — 11. Transcendental Phenomenology as Ontology**
+
+---
+
+In consideration of the *reach* of transcendental phenomenology, remarkable consequences result. In its systematic carrying-out it realizes the *Leibnizian Idea of a universal ontology* as systematic unity of all conceivable a priori sciences — but in a *new, dogmatism-overcoming-through-the-transcendental-phenomenological-method founding*. Phenomenology — as science of all conceivable transcendental phenomena, and specifically in the *synthetic total-configurations* in which they alone concretely possible: those of *transcendental singular subjects, connected to subject-communities* — is *eo ipso* an *a priori science of all conceivable beings*. But then not *merely* of the *All of objectively being* (in an attitude of natural positivity), but in *full concretion* of *being in general*, as it draws its being-sense and validity from the correlative intentional constitution.
+
+This includes the *being of the transcendental subjectivity itself* — whose demonstrable essence is to be *transcendentally constituted in and for itself*. Accordingly, *a carried-through phenomenology*, over against the only-apparently-universal ontology in positivity, is the *truly universal* one — thereby *overcoming the dogmatic one-sidedness and consequent unintelligibility of the former*, while yet justifying its *legitimate kernel*.
+
+With this, the closing horizon opens onto *philosophy as universal science in absolute grounding* — the *philosophia perennis* of the closing paragraph of the First Draft, now in fuller articulation. Phenomenology is not a *standpoint* but a *method* — and a method that, carried through, *realizes* what philosophy in its long history has been *striving* for: the *absolute, self-justifying, all-encompassing* science of being.
+
+Part III of the Fourth Version thus closes on a note that connects the article back to Husserl's philosophical lineage (from Plato through Descartes, Leibniz, Locke, Hume, Kant, Brentano, and beyond), and forward to the projected complete *system* of phenomenology — which Husserl would continue working toward through the *Cartesian Meditations* (1929), the *Krisis* (1936), and the still-unpublished manuscripts of his later years. The supplementary texts of Hua IX thus stand as the *programmatic statement* of the phenomenological project at its mature articulation in the late 1920s — the project whose full execution Husserl, by §45 of the 1925 lectures, had himself acknowledged he could only *sketch*.
+
+---
+
+## **The Amsterdam Lectures**
+
+The Amsterdam Lectures (1928) are a culminating presentation of phenomenology to a wider audience. They follow the architecture of the Fourth Final Version of the Encyclopaedia Britannica article, but in a fuller and more polished form. They were Husserl's most carefully prepared public statement of the relation between psychological and transcendental phenomenology in the late 1920s. This commentary covers only §§1–4 of Part I; §§5–16 have no commentary here.
 
 ---
 
@@ -1378,9 +1398,9 @@ The Fourth Final Version is the form in which the article was eventually publish
 
 ---
 
-Husserl restates the working definition: phenomenology is a philosophical movement aimed at the radical re-grounding of scientific philosophy and the sciences, and also a *new fundamental science* serving these purposes. *Psychological* and *transcendental* phenomenology are to be distinguished. But the Fourth Version now stresses the *Doppelsinn* — the *twofold sense* — of phenomenology itself: it is not merely two *different* sciences but *one* science with *two structurally distinguishable senses* unified by the *change of attitude* between them.
+Husserl restates the working definition: phenomenology is a philosophical movement aimed at the radical re-grounding of scientific philosophy and the sciences, and also a *new fundamental science* serving these purposes. *Psychological* and *transcendental* phenomenology are to be distinguished. But the Amsterdam Lectures now stress the *Doppelsinn* — the *twofold sense* — of phenomenology itself: it is not merely two *different* sciences but *one* science with *two structurally distinguishable senses* unified by the *change of attitude* between them.
 
-*Psychological phenomenology* is *pure psychology* — the eidetic science of pure psychic life, won through the *psychological-phenomenological reduction*. *Transcendental phenomenology* is the eidetic science of *transcendental subjectivity*, won through the *transcendental reduction* in which the *being of the world* (the natural positing of an objective world-existence) is *bracketed*. The two sciences have *parallel content* — they unfold the same essential structures of intentional life — but operate in *different attitudes*, with *fundamentally different senses* of validity. The articulation of *parallel content with different sense* will be the distinctive contribution of this version.
+*Psychological phenomenology* is *pure psychology* — the eidetic science of pure psychic life, won through the *psychological-phenomenological reduction*. *Transcendental phenomenology* is the eidetic science of *transcendental subjectivity*, won through the *transcendental reduction* in which the *being of the world* (the natural positing of an objective world-existence) is *bracketed*. The two sciences have *parallel content* — they unfold the same essential structures of intentional life — but operate in *different attitudes*, with *fundamentally different senses* of validity. The articulation of *parallel content with different sense* will be the distinctive contribution of these lectures.
 
 ---
 
@@ -1390,7 +1410,7 @@ Husserl restates the working definition: phenomenology is a philosophical moveme
 
 *Pure psychology* is to be parallel to *pure natural science*: as pure geometry is to physics, so pure psychology is to empirical psychology. *Pure natural science* — geometry, kinematics, etc. — provides the *necessary essential framework* within which any empirical-factual investigation of nature must hold itself. So *pure psychology* is to provide the *necessary essential framework* within which any empirical-factual investigation of psychic life must hold itself. The parallel is methodologically illuminating: just as no merely-inductive empirical natural science could establish itself without the eidetic framework of geometry, no merely-inductive empirical psychology can establish itself without the eidetic framework of phenomenological psychology.
 
-The Fourth Version emphasizes the *propaedeutic* function of pure psychology for the transcendental phenomenology. Pure psychology is *accessible* through *inner reflection* in the natural attitude — it does not require the radical attitudinal break of the transcendental reduction. It is therefore *pedagogically prior*: anyone can be brought to recognize the field of pure psychology by reflecting on his own intentional life. Once pure psychology is established as an autonomous discipline, the further step into transcendental phenomenology can be motivated.
+The Amsterdam text emphasizes the *propaedeutic* function of pure psychology for the transcendental phenomenology. Pure psychology is *accessible* through *inner reflection* in the natural attitude — it does not require the radical attitudinal break of the transcendental reduction. It is therefore *pedagogically prior*: anyone can be brought to recognize the field of pure psychology by reflecting on his own intentional life. Once pure psychology is established as an autonomous discipline, the further step into transcendental phenomenology can be motivated.
 
 ---
 
@@ -1423,26 +1443,6 @@ Here lie certain difficulties: *how far* one can really consistently practice pu
 (b) On the other hand, *pure experience* naturally means *freedom from all prejudices* that, *stemming from other (scientifically otherwise preferred) experiential spheres*, could make blind to what phenomenological reflection actually presents — what it actually offers, for a first purely-intuitively progressing taking-cognizance, for a first exemplary explication, and along all dimensions of implicit purely-psychic moments. Both difficulties in their combination have so strongly worked that one can dare the paradox that *in the whole psychology of modernity it has never come to an actual carrying-out of an intentional analysis* — and this, although it has wanted to be psychology *on the ground of inner experience for centuries* and occasionally also a *descriptive psychology of the pure consciousness-givennesses*. Here I cannot exempt *Brentano* himself and his school — although he has the epoch-making merit of having *introduced intentionality as the descriptive fundamental character of the psychic* and demanded a build-up of empirical psychology on the foundation of a *systematic and first purely descriptive consciousness-research*. But the *proper sense* and the *method* of a *pure consciousness-analysis* has remained *hidden* to him.
 
 The *stable prejudices* that made unreceptive for what is here to be accomplished stem from the *natural-scientific exemplariness*. In fact, from there stems the *naturalization of the psychic*, ruling into our days, and the *supposed self-evidence of the essential identity of psychological and natural-scientific method*. Historically these prejudices appear already at the great beginners of modern psychology — at Descartes and Hobbes — in sharpest mintage in Locke's *tabula-rasa* interpretation of the soul. The phenomenological psychology, by contrast, demands as its first principle the *radical freedom from all naturalistic prejudice* and the *radical immersion in the proper essence of intentionality*.
-
----
-
-## **The Amsterdam Lectures**
-
-The Amsterdam Lectures (1928) are a culminating presentation of phenomenology to a wider audience. They follow the architecture of the Fourth Final Version of the Encyclopaedia Britannica article, but in a fuller and more polished form. They were Husserl's most carefully prepared public statement of the relation between psychological and transcendental phenomenology in the late 1920s.
-
----
-
-### **Closing Section: Transcendental Phenomenology as Ontology, and Philosophy as Universal Science in Absolute Grounding**
-
----
-
-In consideration of the *reach* of transcendental phenomenology, remarkable consequences result. In its systematic carrying-out it realizes the *Leibnizian Idea of a universal ontology* as systematic unity of all conceivable a priori sciences — but in a *new, dogmatism-overcoming-through-the-transcendental-phenomenological-method founding*. Phenomenology — as science of all conceivable transcendental phenomena, and specifically in the *synthetic total-configurations* in which they alone concretely possible: those of *transcendental singular subjects, connected to subject-communities* — is *eo ipso* an *a priori science of all conceivable beings*. But then not *merely* of the *All of objectively being* (in an attitude of natural positivity), but in *full concretion* of *being in general*, as it draws its being-sense and validity from the correlative intentional constitution.
-
-This includes the *being of the transcendental subjectivity itself* — whose demonstrable essence is to be *transcendentally constituted in and for itself*. Accordingly, *a carried-through phenomenology*, over against the only-apparently-universal ontology in positivity, is the *truly universal* one — thereby *overcoming the dogmatic one-sidedness and consequent unintelligibility of the former*, while yet justifying its *legitimate kernel*.
-
-With this, the closing horizon opens onto *philosophy as universal science in absolute grounding* — the *philosophia perennis* of the closing paragraph of the First Draft, now in fuller articulation. Phenomenology is not a *standpoint* but a *method* — and a method that, carried through, *realizes* what philosophy in its long history has been *striving* for: the *absolute, self-justifying, all-encompassing* science of being.
-
-The Amsterdam Lectures thus close on a note that connects them back to Husserl's philosophical lineage (from Plato through Descartes, Leibniz, Locke, Hume, Kant, Brentano, and beyond), and forward to the projected complete *system* of phenomenology — which Husserl would continue working toward through the *Cartesian Meditations* (1929), the *Krisis* (1936), and the still-unpublished manuscripts of his later years. The supplementary texts of Hua IX thus stand as the *programmatic statement* of the phenomenological project at its mature articulation in the late 1920s — the project whose full execution Husserl, by §45 of the 1925 lectures, had himself acknowledged he could only *sketch*.
 
 ---
 
@@ -1652,6 +1652,8 @@ Beilage XXVII addresses §44's claim that phenomenological psychology is foundat
 
 The Beilage thus argues for the *concrete usefulness* of phenomenological psychology *for* the existing Geisteswissenschaften — not as replacement but as *foundation*.
 
+Beilage XXVII also contains a crucial sentence: *the a priori of We and our surrounding world precedes all a priori and includes everything in itself*. It concludes the argument that the world is not given before the subjects but within their intentional life, so that to speak of the world is to presuppose from the outset a community of subjects who experience it and live in it, and who must also find one another in it as objects. The a priori it names includes both the a priori of the constituted, inductively known world and the a priori of subjectivity as constituting it, passively as surrounding world and actively as cultural world. This formulation anticipates the *Krisis* and is one of the most powerful single statements of the late-Husserlian position: the *common world of an intersubjective We* is the *most originary* phenomenological datum, the *unsurpassable* horizon within which all phenomenological work takes place.
+
 ---
 
 #### **Beilage XXVIII (to §45): Summarizing Overview of the Lectures**
@@ -1660,7 +1662,6 @@ Beilage XXVIII is the *long retrospective summary* of the entire lecture course.
 
 The Beilage also marks the *foreshortenings* of the lectures: the time-consciousness was only briefly treated; the intersubjectivity-analyses were only sketched; the constitution-doctrine was not systematically developed. Husserl acknowledges these limits and points to the work that remains.
 
-The Beilage also includes a crucial passage on the *apriori of We and our Umwelt* — *Das Apriori Wir und unsere Umwelt geht allem Apriori vorher und schließt alles in sich*: the a priori of We-and-our-Umwelt *precedes* all a priori and contains everything in itself. This formulation anticipates the *Krisis* and is one of the most powerful single statements of the late-Husserlian position: the *common world of an intersubjective We* is the *most originary* phenomenological datum, the *unsurpassable* horizon within which all phenomenological work takes place.
 
 ---
 
