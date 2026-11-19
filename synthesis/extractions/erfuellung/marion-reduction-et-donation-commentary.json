@@ -1,0 +1,89 @@
+{
+  "schema_version": 1,
+  "theme": "erfuellung",
+  "commentary": "marion-reduction-et-donation-commentary",
+  "source_sha256": "c55a5c398571bf454524922566f75b5146259308213de514cc2b1cba053d9b91",
+  "extracted_at": "2026-11-02",
+  "extractor": {
+    "agent": "claude-code",
+    "model": "claude-opus-5-5",
+    "prompt": "synthesis/prompts/extraction-prompt.md"
+  },
+  "coverage": "partial",
+  "coverage_note": "Chapter I, sections 2, 5, 6 and 7: the paragraphs carrying fulfilment vocabulary (lines 48-57 and 72-103). Not read: Chapter I sections 1, 3 and 4, II.3 and II.6, and Chapters II onward otherwise.",
+  "units": [
+    {
+      "id": "erfuellung/marion-rd/001",
+      "locator": "marion-reduction-et-donation-commentary#h3-2-the-domains-of-intuition",
+      "primary_locator": "Réduction et donation I, 2",
+      "term": "fulfilment",
+      "status": "presupposed",
+      "claim": "Marion reads §45 as resting on the essential homogeneity of the fulfilment function, by which every signifying intention demands at least the possibility of intuitive fulfilment.",
+      "quote": "A principle: the essential homogeneity of the function of fulfilment, so that whatever the signifying intentions, all in principle demand at least the possibility of intuitive fulfilment."
+    },
+    {
+      "id": "erfuellung/marion-rd/002",
+      "locator": "marion-reduction-et-donation-commentary#h3-2-the-domains-of-intuition",
+      "primary_locator": "Réduction et donation I, 2",
+      "term": "fulfilling intuition",
+      "status": "presupposed",
+      "claim": "The bare 'is' of 'gold is yellow' calls for its own fulfilling intuition, confirmed negatively by the distinguishable absence of its fulfilment.",
+      "quote": "Strictly categorial intentions therefore call for a corresponding fulfilling intuition. Confirmation comes from the negative case"
+    },
+    {
+      "id": "erfuellung/marion-rd/003",
+      "locator": "marion-reduction-et-donation-commentary#h3-5-presence-without-intuition",
+      "primary_locator": "Réduction et donation I, 5",
+      "term": "fulfilment",
+      "status": "revised",
+      "claim": "The possibilities of error, disappointment and adequate or partial fulfilment require that signification precede intuition and receive from the intuitive given only a confirmation of itself.",
+      "quote": "The phenomenological possibilities of error, disappointment, adequate or partial fulfilment all require that signification precede intuition and that even when filled with an intuitive given it first receive from that given a confirmation of itself, hence of its sense."
+    },
+    {
+      "id": "erfuellung/marion-rd/004",
+      "locator": "marion-reduction-et-donation-commentary#h3-5-presence-without-intuition",
+      "primary_locator": "Réduction et donation I, 5",
+      "term": "adequate fulfilment",
+      "status": "revised",
+      "claim": "Inadequacy of intuitive fulfilment, shown by mathematical idealities, is not an exception but an absolute rule.",
+      "quote": "Inadequacy — the overflow of intuition by intention, signification's overhang — is not an exception but an absolute rule."
+    },
+    {
+      "id": "erfuellung/marion-rd/005",
+      "locator": "marion-reduction-et-donation-commentary#h3-5-presence-without-intuition",
+      "primary_locator": "Réduction et donation I, 5",
+      "term": "fulfilling intuition",
+      "status": "criticized",
+      "claim": "Against Derrida's reading of LI I § 11, Marion holds that Husserl refuses to deny a signification its truth because it lacks fulfilling intuition.",
+      "quote": "Husserl's own thesis will be the refusal to deny a signification its truth on the grounds that it lacks fulfilling intuition."
+    },
+    {
+      "id": "erfuellung/marion-rd/006",
+      "locator": "marion-reduction-et-donation-commentary#h3-5-presence-without-intuition",
+      "primary_locator": "Réduction et donation I, 5",
+      "term": "fulfilling intuition",
+      "status": "criticized",
+      "claim": "Marion's single thesis is that in the Logical Investigations signification gives itself evidently without depending on fulfilling intuition.",
+      "quote": "in the *Logical Investigations*, signification gives itself evidently without depending on fulfilling intuition."
+    },
+    {
+      "id": "erfuellung/marion-rd/007",
+      "locator": "marion-reduction-et-donation-commentary#h3-6-the-evidence-of-givenness",
+      "primary_locator": "Réduction et donation I, 6",
+      "term": "fulfilment",
+      "status": "revised",
+      "claim": "The enlargement of intuition implies signification's autonomy, because intuition can extend only by extending its fulfilment and so depends on signified spaces already given.",
+      "quote": "Intuition can extend only by extending its fulfilment, hence by depending on the signified spaces to be filled."
+    },
+    {
+      "id": "erfuellung/marion-rd/008",
+      "locator": "marion-reduction-et-donation-commentary#h3-7-givenness-as-question",
+      "primary_locator": "Réduction et donation I, 7",
+      "term": "categorial intuition",
+      "status": "criticized",
+      "claim": "Categorial intuition neither gives nor sees the 'is'; it is an indication of a givenness it does not itself perform.",
+      "quote": "Categorial intuition neither gives nor even sees the *is*: it marks — the paradox is exact — the in fact anonymous givenness of the *is*. Categorial intuition functions as an indication of a givenness it does not itself perform."
+    }
+  ],
+  "absences": []
+}

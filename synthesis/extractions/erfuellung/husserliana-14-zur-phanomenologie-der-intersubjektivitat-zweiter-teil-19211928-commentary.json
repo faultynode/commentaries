@@ -1,0 +1,80 @@
+{
+  "schema_version": 1,
+  "theme": "erfuellung",
+  "commentary": "husserliana-14-zur-phanomenologie-der-intersubjektivitat-zweiter-teil-19211928-commentary",
+  "source_sha256": "da58cc3ebb605bd83e1ad7d0c316c73dcb1ae9f125ec6d99734f4e5cc544e1da",
+  "extracted_at": "2026-11-02",
+  "extractor": {
+    "agent": "claude-code",
+    "model": "claude-opus-5-5",
+    "prompt": "synthesis/prompts/extraction-prompt.md"
+  },
+  "coverage": "partial",
+  "coverage_note": "Term-led: a whole-file grep for fulfil, disappoint, empty intention, emptily and fullness, with the hit paragraphs read in the introduction III (XXXIII-XXXV), No. 1 (3-4), 'Normal and Anomalous Empathy' (124-125) and Appendix XX (156); also 'Recapitulation…' (98-100) and Appendices XVI-XVIII (141-147) read through. Most of the file's 110 query hits are 'coincidence' and 'conflict' in eidetic variation, not fulfilment; those were not extracted.",
+  "units": [
+    {
+      "id": "erfuellung/hua-14/001",
+      "locator": "husserliana-14-zur-phanomenologie-der-intersubjektivitat-zweiter-teil-19211928-commentary#h3-iii",
+      "primary_locator": "Hua XIV XXXIII-XXXV",
+      "term": "fulfilment",
+      "status": "presupposed",
+      "claim": "Kern's introduction states that the 1927 studies analyse the perception of others in the realization of its possible fulfilment, showing it to be a mediate rather than direct appresentation.",
+      "quote": "Working constantly against his earlier texts, Husserl analyses the perception of others in the realization of its possible fulfilment."
+    },
+    {
+      "id": "erfuellung/hua-14/002",
+      "locator": "husserliana-14-zur-phanomenologie-der-intersubjektivitat-zweiter-teil-19211928-commentary#h3-no-1-the-apperception-of-one-s-own-body-as-the-original-bodily-apperception-and",
+      "primary_locator": "Hua XIV 3-4",
+      "term": "fulfilment",
+      "status": "criticized",
+      "claim": "Husserl doubts that empathy's empty intention can be 'fulfilled' by presentifications, since a perceptual apperception is fulfilled only by further perceptions.",
+      "quote": "For empathy, the empty intention can be \"fulfilled\" only by presentifications: I can make the other's interiority more or less intuitive to myself, but never live through it as an experience of the type \"interiority\". Husserl at once doubts this use of \"fulfilment\"."
+    },
+    {
+      "id": "erfuellung/hua-14/003",
+      "locator": "husserliana-14-zur-phanomenologie-der-intersubjektivitat-zweiter-teil-19211928-commentary#h3-no-1-the-apperception-of-one-s-own-body-as-the-original-bodily-apperception-and",
+      "primary_locator": "Hua XIV 3-4",
+      "term": "fulfilment",
+      "status": "revised",
+      "claim": "Fulfilment is relocated to the other's outward conduct, which confirms expectations, while the interiority is demanded as co-present but not as perceivable.",
+      "quote": "He therefore relocates fulfilment. The other's body is perceived as a lived body and as a human being; his outward conduct, continually understood through the interiority that belongs to it, confirms expectations and arouses new ones."
+    },
+    {
+      "id": "erfuellung/hua-14/004",
+      "locator": "husserliana-14-zur-phanomenologie-der-intersubjektivitat-zweiter-teil-19211928-commentary#h4-normal-and-anomalous-empathy-here-as-purely-somatological-experience",
+      "primary_locator": "Hua XIV 124-125",
+      "term": "disappointment",
+      "status": "introduced",
+      "claim": "Non-confirmation of empathy is divided into cancellation, striking out the appresented soul, and other determination, which yields an anomalous but still confirmed empathy.",
+      "quote": "A note distinguishes non-confirmation by cancellation of the empathy, striking out the appresented soul, from non-confirmation by other determination; and it marks a special case."
+    },
+    {
+      "id": "erfuellung/hua-14/005",
+      "locator": "husserliana-14-zur-phanomenologie-der-intersubjektivitat-zweiter-teil-19211928-commentary#h3-appendix-xvi-on-the-theory-of-empathy-i-and-other-egos-may-1919",
+      "primary_locator": "Hua XIV 141-142",
+      "term": "coincidence",
+      "status": "introduced",
+      "claim": "The other can be found intuitively only in coincidence with me, and the other's experiences only in conflict with mine, by way of presentification.",
+      "quote": "Wonderfully, then, I can find the other intuitively only in coincidence with me, the other's experiences only in conflict with my experiences, the other's stream only in conflict with my stream, but only by way of presentification."
+    },
+    {
+      "id": "erfuellung/hua-14/006",
+      "locator": "husserliana-14-zur-phanomenologie-der-intersubjektivitat-zweiter-teil-19211928-commentary#h3-appendix-xviii-the-re-imagining-of-my-stream-of-consciousness-and-the-possibilit",
+      "primary_locator": "Hua XIV 147",
+      "term": "empty re-imagining",
+      "status": "introduced",
+      "claim": "Empty re-imagining on superficial components with empty horizons is distinguished from fully explicit re-imagining, which alone yields genuine possibilities.",
+      "quote": "The difference must always be observed between empty re-imagining, carried out only on superficial components with empty horizons and backgrounds, and fully explicit re-imagining, which alone exhibits the whole sense, content, and range of the possibilities."
+    },
+    {
+      "id": "erfuellung/hua-14/007",
+      "locator": "husserliana-14-zur-phanomenologie-der-intersubjektivitat-zweiter-teil-19211928-commentary#h3-appendix-xx-the-universe-of-the-possibilities-of-my-being-otherwise-coincides-wi",
+      "primary_locator": "Hua XIV 156",
+      "term": "disappointment",
+      "status": "presupposed",
+      "claim": "An expectation can be disappointed only in relation to something newly arriving, so a breaking off of the stream without fulfilment or disappointment is unrepresentable from within.",
+      "quote": "Can there be a breaking off without fulfilment or disappointment? Breaking off, what is that to mean? Nothing comes, and then there is nothing, neither the expected nor its other."
+    }
+  ],
+  "absences": []
+}

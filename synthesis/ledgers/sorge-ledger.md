@@ -311,7 +311,7 @@
 - `marion-sur-le-prisme-metaphysique-de-descartes-commentary` - 83 term hits, no record
 - `husserl-hua15-commentary` - 79 term hits, no record
 - `kant-kritik-der-reinen-vernunft-commentary` - 75 term hits, no record
-- `husserl-thing-and-space-commentary` - 66 term hits, no record
+- `husserl-thing-and-space-commentary` - 65 term hits, no record
 - `husserliana-3-ideas-i-parts-3-4-commentary` - 65 term hits, no record
 - `kojeve-introduction-a-la-lecture-de-hegel-commentary` - 65 term hits, no record
 - `husserliana-7-erste-philosophie-i-commentary` - 60 term hits, no record
@@ -354,9 +354,9 @@
 - `picht-de-anima-commentary` - 14 term hits, no record
 - `husserliana-1-cartesianische-meditationen-commentary` - 13 term hits, no record
 - `husserliana-33-die-bernauer-manuskripte-uber-das-zeitbewusstsein-commentary` - 13 term hits, no record
+- `husserliana-3-ideas-i-commentary` - 12 term hits, no record
 - `franck-heidegger-and-the-problem-of-space-commentary` - 11 term hits, no record
 - `heidegger-ga-24-die-grundprobleme-der-phanomenologie-commentary` - 11 term hits, no record
-- `husserliana-3-ideas-i-commentary` - 11 term hits, no record
 - `husserliana-5-ideas-iii-commentary` - 11 term hits, no record
 - `henry-phenomenologie-de-la-vie-2-commentary` - 10 term hits, no record
 - `husserl-erfahrung-und-urteil-commentary` - 10 term hits, no record

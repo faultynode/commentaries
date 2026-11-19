@@ -1753,12 +1753,12 @@
 - `henry-phenomenologie-de-la-vie-1-commentary` - 154 term hits, no record
 - `heidegger-ga-20-prolegomena-zur-geschichte-des-zeitbegriffs-commentary` - 116 term hits, no record
 - `husserliana-13-basic-problems-of-phenomenology-commentary` - 106 term hits, no record
+- `husserliana-3-ideas-i-commentary` - 103 term hits, no record
 - `franck-chair-et-corps-commentary` - 101 term hits, no record
 - `husserl-natur-und-geist-commentary` - 101 term hits, no record
 - `henry-phenomenologie-de-la-vie-2-commentary` - 99 term hits, no record
-- `husserliana-3-ideas-i-commentary` - 99 term hits, no record
 - `lacan-seminar-2-the-ego-in-freuds-theory-and-in-the-technique-of-psychoanalysis-commentary` - 94 term hits, no record
-- `husserl-krisis-commentary` - 87 term hits, no record
+- `husserl-krisis-commentary` - 90 term hits, no record
 - `heidegger-ga-18-grundbegriffe-der-aristotelischen-philosophie-commentary` - 81 term hits, no record
 - `husserliana-1-cartesianische-meditationen-commentary` - 77 term hits, no record
 - `heidegger-ga-24-die-grundprobleme-der-phanomenologie-commentary` - 76 term hits, no record
