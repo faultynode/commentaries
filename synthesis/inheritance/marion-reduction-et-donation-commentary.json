@@ -2,16 +2,16 @@
   "schema_version": 1,
   "commentary": "marion-reduction-et-donation-commentary",
   "source_sha256": "c55a5c398571bf454524922566f75b5146259308213de514cc2b1cba053d9b91",
-  "extracted_at": "2026-10-18",
+  "extracted_at": "2026-11-02",
   "extractor": {
     "agent": "claude-code",
     "model": "claude-opus-5-5",
     "prompt": "synthesis/prompts/inheritance-prompt.md",
-    "note": "source_sha256 is the LF digest from corpus.json (CRLF checkout; a local validate reports a false staleness). Retrieval by predecessor name (Husserl, Heidegger, Descartes, Kant, Henry, Derrida, Nietzsche, Levinas, Hegel, Leibniz and others) with a relational word, then targeted reading of the sections that carry each chapter's verdict. Three voices are recorded and each claim names its own: Marion's engagements; Heidegger's with Husserl and Descartes as Marion reconstructs them; Husserl's with Kant and Descartes as Marion reports them. primary_locator gives Marion's chapter and section."
+    "note": "source_sha256 is the LF digest from corpus.json (CRLF checkout; a local validate reports a false staleness). Retrieval by predecessor name (Husserl, Heidegger, Descartes, Kant, Henry, Derrida, Nietzsche, Levinas, Hegel, Leibniz and others) with a relational word, then targeted reading of the sections that carry each chapter's verdict. Three voices are recorded and each claim names its own: Marion's engagements; Heidegger's with Husserl and Descartes as Marion reconstructs them; Husserl's with Kant and Descartes as Marion reports them. primary_locator gives Marion's chapter and section. Top-up 2026-11-02: II.1, II.6-7 and IV.1-3 read in full for Heidegger (engagements 023-036), with the Heidegger-Husserl voice where those sections carry it; Beaufret recorded where IV.3 argues against him; the Foreword's credit to Franck recorded; Freud, Kern, Kojève, Lacan, Mohanty and Picht searched and not found."
   },
   "coverage": "partial",
-  "coverage_note": "The commentary covers the Foreword, 'Phenomenology as such' and chapters I-IV. Read in full: Foreword, I.3, I.7, IV.7 (closing pages). Elsewhere read at the sentences naming a predecessor together with a relational word, plus targeted context in I.5-6, II.2-5, III.2-7 and IV.4-6. Heidegger and Husserl are recorded by each chapter's principal moves, not exhaustively; II.6-7 (the redoubled reduction through Dasein and the nothing) and IV.1-3 (the occurrences of ontological difference) carry no separate engagement. Passing mentions (Levinas, Ricœur, Leibniz, Spinoza, Malebranche, Pascal, Hegel on the This, Tugendhat, Granel, Courtine, Beaufret) are not recorded.",
-  "predecessors_queried": ["Descartes", "Kant", "Hegel", "Nietzsche", "Levinas", "Derrida", "Sartre", "Natorp", "Brentano", "Fichte", "Plato", "Aristotle", "Leibniz", "Schelling", "Pascal", "Fink", "Henry", "Patočka", "Frege", "Bergson", "Heidegger", "Husserl"],
+  "coverage_note": "The commentary covers the Foreword, 'Phenomenology as such' and chapters I-IV. Read in full: Foreword, I.3, I.7, II.1, II.6-7, IV.1-3, IV.7 (closing pages). Elsewhere read at the sentences naming a predecessor together with a relational word, plus targeted context in I.5-6, II.2-5, III.2-7 and IV.4-6. Heidegger and Husserl are recorded by each chapter's principal moves, not exhaustively. Passing mentions (Levinas, Ricœur, Leibniz, Spinoza, Malebranche, Pascal, Hegel on the This, Tugendhat, Granel, Courtine; Vail and Salus in IV.3, named alongside Beaufret) are not recorded.",
+  "predecessors_queried": ["Descartes", "Kant", "Hegel", "Nietzsche", "Levinas", "Derrida", "Sartre", "Natorp", "Brentano", "Fichte", "Plato", "Aristotle", "Leibniz", "Schelling", "Pascal", "Fink", "Henry", "Patočka", "Frege", "Bergson", "Heidegger", "Husserl", "Franck", "Freud", "Kern", "Kojève", "Lacan", "Mohanty", "Picht", "Beaufret"],
   "engagements": [
     {
       "id": "inh/marion-rd/001",
@@ -210,6 +210,132 @@
       "mode": "polemical-rejection",
       "claim": "Sein und Zeit cannot found access to the sense of being on Dasein, which lets only the being of entities be read; to attribute to Dasein the manifestation of the sense of being confuses the two gaps of the question, as § 83 and Heidegger's own marginalia concede.",
       "quote": "To attribute to Dasein the direct manifestation of the sense of being is therefore first to confuse the two moments and gaps of the question of being, and second to overvalue Dasein's reach arbitrarily — as the aporia of §83 confirms."
+    },
+    {
+      "id": "inh/marion-rd/023",
+      "locator": "marion-reduction-et-donation-commentary#h3-1-putting-ontology-out-of-play",
+      "primary_locator": "Réduction et donation, ch. II, § 1",
+      "predecessor": { "author": "Edmund Husserl" },
+      "mode": "polemical-rejection",
+      "claim": "Heidegger in 1925 refuses Husserl's 1912 separation of ontology from phenomenology: there is no ontology alongside a phenomenology, and scientific ontology is phenomenology; the opposition made his divergence from Husserl possible and necessary before 1927.",
+      "quote": "Heidegger in 1925: there is no ontology alongside a phenomenology; scientific ontology is nothing other than phenomenology. Husserl in 1912: in itself, ontology is not phenomenology."
+    },
+    {
+      "id": "inh/marion-rd/024",
+      "locator": "marion-reduction-et-donation-commentary#h3-1-putting-ontology-out-of-play",
+      "primary_locator": "Réduction et donation, ch. II, § 1",
+      "predecessor": { "author": "Martin Heidegger", "text": "Sein und Zeit" },
+      "mode": "polemical-rejection",
+      "claim": "Marion turns Husserl's demand for phenomenological intelligibility of every ontology against any later attempt to restore classical ontology, even by destroying it, and aims the objection at Sein und Zeit.",
+      "quote": "the demand for phenomenological intelligibility of whatever ontology claims to treat will press all the harder on any subsequent attempt to restore classical ontology — even by destroying it. Marion is already aiming that remark at *Sein und Zeit*."
+    },
+    {
+      "id": "inh/marion-rd/025",
+      "locator": "marion-reduction-et-donation-commentary#h3-6-the-redoubled-reduction-dasein",
+      "primary_locator": "Réduction et donation, ch. II, § 6",
+      "predecessor": { "author": "Martin Heidegger" },
+      "mode": "acknowledged-debt",
+      "claim": "Marion credits Heidegger, from the threefold structure of the question named in the 1925 course, with a reduction redoubled: from the entity to the being of entities, then from the being of entities to the sense of being.",
+      "quote": "That formal result suffices for understanding Heidegger's own practice of the reduction, which sets itself to question to the bottom — that is, in two moments, relaunching the entity twice rather than once."
+    },
+    {
+      "id": "inh/marion-rd/026",
+      "locator": "marion-reduction-et-donation-commentary#h3-6-the-redoubled-reduction-dasein",
+      "primary_locator": "Réduction et donation, ch. II, § 6",
+      "predecessor": { "author": "Edmund Husserl" },
+      "mode": "destructive-appropriation",
+      "claim": "Heidegger keeps intentionality as the ratio cognoscendi of Dasein's transcendence, but intentionality thought to its root implies being-in-the-world, which Marion marks as another line of fracture with Husserl.",
+      "quote": "intentionality is the *ratio cognoscendi* of transcendence. Intentionality thought to its root implies a world, more exactly being-in-the-world — another line of fracture with Husserl"
+    },
+    {
+      "id": "inh/marion-rd/027",
+      "locator": "marion-reduction-et-donation-commentary#h3-6-the-redoubled-reduction-dasein",
+      "primary_locator": "Réduction et donation, ch. II, § 6",
+      "predecessor": { "author": "Martin Heidegger", "text": "Sein und Zeit" },
+      "mode": "acknowledged-debt",
+      "claim": "Against the charge of anthropology, Marion defends Dasein's privilege as strictly phenomenological, while finding Sein und Zeit more reticent than the 1925 course in saying so.",
+      "quote": "It is not enough to say, with *Sein und Zeit* — which Marion finds more reticent here — that understanding of being is itself a determination of Dasein's being"
+    },
+    {
+      "id": "inh/marion-rd/028",
+      "locator": "marion-reduction-et-donation-commentary#h3-7-the-redoubled-reduction-the-nothing",
+      "primary_locator": "Réduction et donation, ch. II, § 7",
+      "predecessor": { "author": "Martin Heidegger", "text": "What Is Metaphysics?" },
+      "mode": "acknowledged-debt",
+      "claim": "Marion reads the 1929 lecture's anxiety as a second, generalised implementation of the redoubled reduction, exercised on entities in their totality rather than on Dasein alone, and leading them back to being.",
+      "quote": "Anxiety thereby performs a phenomenological reduction by leading entities in totality back to being."
+    },
+    {
+      "id": "inh/marion-rd/029",
+      "locator": "marion-reduction-et-donation-commentary#h3-7-the-redoubled-reduction-the-nothing",
+      "primary_locator": "Réduction et donation, ch. II, § 7",
+      "predecessor": { "author": "Edmund Husserl" },
+      "mode": "polemical-rejection",
+      "claim": "In the 1929 reduction being is reached as the accomplishment of a movement of referral, not as what remains after the entity founders: not, in Husserl's idiom, as a residue.",
+      "quote": "being is not discovered as the last piece of flotsam of the entity's sepulchral shipwreck, nor, in Husserl's idiom, as a residue."
+    },
+    {
+      "id": "inh/marion-rd/030",
+      "locator": "marion-reduction-et-donation-commentary#h3-7-the-redoubled-reduction-the-nothing",
+      "primary_locator": "Réduction et donation, ch. II, § 7",
+      "predecessor": { "author": "Edmund Husserl" },
+      "mode": "destructive-appropriation",
+      "claim": "Heidegger rejects Husserl's reduction as non-phenomenological while relaunching it, by phenomenology's method and the principle of return to the things themselves, toward being as phenomenon; he neither abandons nor refutes Husserl.",
+      "quote": "at the very moment he rejects and claims to overstep Husserl's reduction as non-phenomenological, Heidegger can still legitimately call himself Husserl's disciple"
+    },
+    {
+      "id": "inh/marion-rd/031",
+      "locator": "marion-reduction-et-donation-commentary#h3-1-the-breakthrough-and-the-difference-sein-und-zeit",
+      "primary_locator": "Réduction et donation, ch. IV, § 1",
+      "predecessor": { "author": "Martin Heidegger" },
+      "mode": "acknowledged-debt",
+      "claim": "Marion grants Heidegger phenomenology's second breakthrough, after the Logical Investigations: intentionality returned to the being of entities, so that ontological difference defines the breakthrough entirely; but the breakthrough stands or falls with how the difference is attested.",
+      "quote": "It accomplishes a second when Heidegger assigns intentionality to return, as to the matter itself, no longer to entities but to their being."
+    },
+    {
+      "id": "inh/marion-rd/032",
+      "locator": "marion-reduction-et-donation-commentary#h3-2-emergence-and-delay",
+      "primary_locator": "Réduction et donation, ch. IV, § 2",
+      "predecessor": { "author": "Martin Heidegger", "text": "Vom Wesen des Grundes" },
+      "mode": "polemical-rejection",
+      "claim": "Marion dismantles the conclusion, drawn from Heidegger's 1949 foreword to Vom Wesen des Grundes, that ontological difference is named only in 1928/29 and is foreign to Sein und Zeit.",
+      "quote": "That conclusion, however widely accepted, is on examination extremely fragile, and Marion dismantles it in three moves."
+    },
+    {
+      "id": "inh/marion-rd/033",
+      "locator": "marion-reduction-et-donation-commentary#h3-2-emergence-and-delay",
+      "primary_locator": "Réduction et donation, ch. IV, § 2",
+      "predecessor": { "author": "Martin Heidegger", "text": "Grundprobleme", "locator": "§ 22" },
+      "mode": "polemical-rejection",
+      "claim": "The summer 1927 course names ontological difference at § 22, but Marion asks whether it is won there or only programmed: the second part breaks off after one chapter, and the difference is recognised as an unanswered aporia.",
+      "quote": "One may even ask whether, named here, ontological difference is really won at all — whether this is a record of phenomenological victory or a programme for a breakthrough still to be made."
+    },
+    {
+      "id": "inh/marion-rd/034",
+      "locator": "marion-reduction-et-donation-commentary#h3-3-the-occurrences-and-the-notes",
+      "primary_locator": "Réduction et donation, ch. IV, § 3",
+      "predecessor": { "author": "Jean Beaufret" },
+      "mode": "polemical-rejection",
+      "claim": "Marion refuses Beaufret's formula that Sein und Zeit is the book of the difference of being and entities although the word does not yet come forward, as an explanation that itself demands explanation.",
+      "quote": "Marion refuses the formula as an explanation demanding an explanation: how is one to understand that the book of the difference of being and entities is precisely the one that keeps completely silent about its locution and its word?"
+    },
+    {
+      "id": "inh/marion-rd/035",
+      "locator": "marion-reduction-et-donation-commentary#h3-3-the-occurrences-and-the-notes",
+      "primary_locator": "Réduction et donation, ch. IV, § 3",
+      "predecessor": { "author": "Martin Heidegger", "text": "Sein und Zeit", "locator": "§ 12; § 63" },
+      "mode": "acknowledged-debt",
+      "claim": "Against the commentators, Marion finds the phrase ontological difference used in Sein und Zeit (§ 12, § 63), worked verbally at § 2 and the end of Division One, and confirmed by Heidegger's marginalia: the 1927 breakthrough is accomplished within ontological difference.",
+      "quote": "First point: Heidegger does use the phrase \"ontological difference\" in *Sein und Zeit*, contrary to the commentators' opinion, so far as Marion knows without exception."
+    },
+    {
+      "id": "inh/marion-rd/036",
+      "locator": "marion-reduction-et-donation-commentary#h2-foreword",
+      "primary_locator": "Réduction et donation, Foreword",
+      "predecessor": { "author": "Franck" },
+      "mode": "acknowledged-debt",
+      "claim": "The acknowledgements credit Courtine and Franck with a practice of phenomenology older and better than Marion's own, placing the book within the French Husserl scholarship of the Paris Archives.",
+      "quote": "Courtine and Franck are credited with a practice of phenomenology older and better than his own"
     }
   ]
 }
