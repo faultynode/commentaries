@@ -1315,9 +1315,9 @@
 - `henry-phenomenologie-de-la-vie-2-commentary` - 196 term hits, no record
 - `henry-phenomenologie-de-la-vie-1-commentary` - 172 term hits, no record
 - `heidegger-ga-5-hegels-begriff-der-erfahrung-commentary` - 141 term hits, no record
+- `husserliana-3-ideas-i-commentary` - 120 term hits, no record
 - `heidegger-ga-9-vom-wesen-des-grundes-commentary` - 113 term hits, no record
 - `husserl-natur-und-geist-commentary` - 102 term hits, no record
-- `husserliana-3-ideas-i-commentary` - 100 term hits, no record
 - `marion-reduction-et-donation-commentary` - 100 term hits, no record
 - `husserliana-11-analyses-concerning-passive-and-active-synthesis-commentary` - 97 term hits, no record
 - `heidegger-ga-24-die-grundprobleme-der-phanomenologie-commentary` - 73 term hits, no record
