@@ -25799,9 +25799,9 @@
       "author": "husserl",
       "title": "Husserl Prolegomena Analysis",
       "wordpress_id": "200",
-      "sha256": "3eaeaa79defda50fa6cad1a583b181fe7454a12c57aea0d76cc35c8a080a51e1",
+      "sha256": "bbe684ea71f68c849bc011730506f74a468f88c96b6d89d75462feb38f689833",
       "lines": 961,
-      "words": 18882,
+      "words": 18915,
       "url": "https://faultynode.github.io/commentaries/commentaries/husserl/husserl-prolegomena-commentary.html",
       "sections": [
         {
@@ -27667,7 +27667,7 @@
           "anchor": "paragraph-1-29",
           "line_start": 605,
           "line_end": 608,
-          "words": 68
+          "words": 101
         },
         {
           "id": "h3-s-29-continuation-sigwart-s-doctrine",
@@ -29194,9 +29194,9 @@
       "author": "husserl",
       "title": "Husserl's Thing and Space (1907)",
       "wordpress_id": "362",
-      "sha256": "db40d465584c33294d49495cc75f622cc143eeb4327e15b294e1ed6e36b14cda",
+      "sha256": "cfd987771c5cb67bdeee7fb02195da78e3e2ccbfeede47283908f01d430e2318",
       "lines": 2212,
-      "words": 86708,
+      "words": 86719,
       "url": "https://faultynode.github.io/commentaries/commentaries/husserl/husserl-thing-and-space-commentary.html",
       "sections": [
         {
@@ -30268,7 +30268,7 @@
           "anchor": "the-consciousness-of-unity-in-the-sequences-of-images-and-in-the-kinaesthetic-sequences",
           "line_start": 1543,
           "line_end": 1576,
-          "words": 1496
+          "words": 1507
         },
         {
           "id": "h3-s55-system-of-kinaesthetic-sequences-and-proper-appearance",
@@ -49693,9 +49693,9 @@
       "author": "husserl",
       "title": "Hua 4 - Ideas II",
       "wordpress_id": "193",
-      "sha256": "8780a792aca9eba64a6cb4ce8442f19f964ce82e370e25c55443fb2c15c69be6",
+      "sha256": "2283d85790306a077094495cbfcf46f99f3d4258337fb27e61e18917823b53ed",
       "lines": 1213,
-      "words": 80097,
+      "words": 80109,
       "url": "https://faultynode.github.io/commentaries/commentaries/husserl/husserliana-4-ideas-ii-commentary.html",
       "sections": [
         {
@@ -51136,7 +51136,7 @@
           "anchor": "h-body-and-spirit-as-comprehensive-unity-bespirited-objects",
           "line_start": 863,
           "line_end": 910,
-          "words": 4783
+          "words": 4795
         },
         {
           "id": "h3-s57-pure-ego-and-personal-ego-as-object-of-reflexive-self-apperception",

@@ -605,13 +605,13 @@
 - `henry-phenomenologie-de-la-vie-2-commentary` - 37 term hits, no record
 - `derrida-introduction-a-lorigine-de-la-geometrie-commentary` - 35 term hits, no record
 - `husserl-natur-und-geist-commentary` - 31 term hits, no record
-- `husserl-krisis-commentary` - 29 term hits, no record
+- `husserliana-3-ideas-i-commentary` - 30 term hits, no record
 - `husserliana-1-cartesianische-meditationen-commentary` - 29 term hits, no record
 - `husserliana-28-vorlesungen-uber-ethik-und-wertlehre-commentary` - 29 term hits, no record
 - `husserliana-9-phenomenological-psychology-commentary` - 29 term hits, no record
+- `husserl-krisis-commentary` - 28 term hits, no record
 - `lacan-seminar-1-freuds-papers-on-technique-commentary` - 26 term hits, no record
 - `heidegger-being-and-time-commentary` - 22 term hits, no record
-- `husserliana-3-ideas-i-commentary` - 21 term hits, no record
 - `lacan-seminar-11-the-four-fundamental-concepts-of-psychoanalysis-commentary` - 20 term hits, no record
 - `husserliana-5-ideas-iii-commentary` - 18 term hits, no record
 - `husserliana-13-basic-problems-of-phenomenology-commentary` - 14 term hits, no record

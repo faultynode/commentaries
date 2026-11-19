@@ -1852,12 +1852,12 @@
 - `henry-phenomenologie-de-la-vie-2-commentary` - 76 term hits, no record
 - `husserliana-19-2-sixth-logical-investigation-commentary` - 59 term hits, no record
 - `kojeve-introduction-a-la-lecture-de-hegel-commentary` - 54 term hits, no record
+- `husserliana-3-ideas-i-commentary` - 53 term hits, no record
 - `kant-kritik-der-reinen-vernunft-commentary` - 51 term hits, no record
 - `kern-husserl-and-kant-commentary` - 51 term hits, no record
-- `husserliana-3-ideas-i-commentary` - 50 term hits, no record
 - `husserliana-8-erste-philosophie-ii-commentary` - 48 term hits, no record
-- `husserl-krisis-commentary` - 47 term hits, no record
 - `husserliana-23-phantasie-bildbewusstsein-erinnerung-commentary` - 47 term hits, no record
+- `husserl-krisis-commentary` - 46 term hits, no record
 - `husserliana-26-theory-of-meaning-commentary` - 45 term hits, no record
 - `heidegger-ga-18-grundbegriffe-der-aristotelischen-philosophie-commentary` - 42 term hits, no record
 - `heidegger-ga-3-kant-und-das-problem-der-metaphysik-commentary` - 40 term hits, no record
