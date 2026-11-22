@@ -116,6 +116,18 @@ Companion run: runs/marion-rd-on-hua3.md (same R, P = Ideen I). Where a unit's H
 17. **SZ 211 is a conditional.** (Added 2026-11-22.) "Sollte das »cogito sum« als Ausgang der existenzialen Analytik des Daseins dienen, dann
    bedarf es ..." (§43c). R III.7 ¶1 reads it as Heidegger's sketch of a retranscription. It states what the start would need and that Descartes
    did not meet it.
+18. **R's "note de 1929" to GA 9, 134 is a later marginal note.** (Added 2026-11-22, chapter IV.) The corpus text heads it "1. Auflage 1929";
+   the corpus map identifies these headings as marginalia in Heidegger's copy. R IV.2 ¶3 uses n. b ("die erste öffentliche Mitteilung ... SS
+   1927 ... § 22") to date the first naming and does not cite nn. a and c on the same sentence, which call the distinction "eine verhängnisvolle
+   Rückbindung" and say truth is here grasped "vom »Unterschied« als fester Marke her".
+19. **SZ subordinates the distinction to the sense of being.** (Added 2026-11-22.) "Was es bedeutet: Sein »ist«, wo es doch von allem Seienden
+   unterschieden sein soll, kann erst konkret gefragt werden, wenn der Sinn von Sein und die Tragweite von Seinsverständnis überhaupt
+   aufgeklärt sind" (§44c, SZ 230). With SZ 314 ("Beide meinen doch *Sein*") and SZ 437, this is the published order R IV.5 reconstructs.
+   R cites SZ 230 only as an occurrence of the difference.
+20. **R's extra occurrences are a preposition and an *Unterscheidung*.** (Added 2026-11-22.) SZ 188: "im Unterschied von der kategorialen
+   Bedeutung" (Martineau "par opposition à", defensible); SZ 314: *Unterscheidung* (Martineau "différenciation", then "distinction" a few lines
+   later; R n. 22 rightly notes the inconsistency). Only SZ 56 joins "ontologisch" to *Unterschied*. All SZ occurrences are R's own figure β
+   (n. 36). Marion's correction of Martineau at SZ 230 ("si tant est que" for an adversative "doch") holds.
 
 ### Glossary (fixed for this run)
 
@@ -170,6 +182,16 @@ Companion run: runs/marion-rd-on-hua3.md (same R, P = Ideen I). Where a unit's H
   Subjekt"); §25, SZ 115-116 ("in schlichter Gebung"; formal indication); §27, SZ 129 (das Man an existential); §28, SZ 132-133 ("Hier" und
   "Dort" only in a "Da"); §40, SZ 186; §43, SZ 183, 203 (Kant's Dasein = Vorhandensein), 205 (scandal inverted), 208 (idealism naive), 211
   (conditional); §50, SZ 250; §52, SZ 258; §57, SZ 274-275; §60, SZ 298; §63-64, SZ 315-316 ("weltloses Ich"), 318, 320-322; §65, SZ 331.
+- Loci of chapter IV: §2, SZ 5-7 (triad; "Seinsmodus eines Seienden", 7; being determinable "ohne daß dabei schon der explizite Begriff vom
+  Sinn des Seins verfügbar sein müßte", 7); §3, SZ 9; §6, SZ 22-25 ("am Leitfaden der Problematik der Temporalität", 24); §7, SZ 37 ("Sein aber
+  je Sein von Seiendem"); §8, SZ 39 (Division Three "Zeit und Sein"); §12, SZ 56; §20, SZ 93-94; §39-40, SZ 183, 188-189; §43, SZ 208; §44c, SZ
+  230; §61, SZ 303 ("ontologisch grundsätzlich ... verschieden"); §63, SZ 311, 314; §69c, SZ 364-366; §83, SZ 436 ("die These nicht als Dogma";
+  the alternative of ontological or ontic foundation), 437. GA 9 essay: 123 (1949 foreword), 134 and nn. a-c. GA 24 §22: 452-455 (latent
+  Unterschied; "Daher nennen wir den ausdrücklichen vollzogenen Unterschied von Sein und Seiendem die *ontologische Differenz*", 454; §22a
+  heading "Zeitlichkeit, Temporalität und ontologische Differenz"). GA 20 §13, 158 ("das Merkwürdige ... den radikalsten Seinsunterschied").
+- Bernet connection (sources/notes/bernet-interpretive-frame.md §3): Bernet, on Heidegger's late account, places Husserl's first approach to
+  ontological difference in categorial intuition; R IV.4 places it in LU III §9 (2nd ed.) and Ideen I §42. Different Husserlian origins; SZ
+  names neither.
 
 ### Corpus flags (raised, not fixed here)
 
@@ -186,6 +208,9 @@ Companion run: runs/marion-rd-on-hua3.md (same R, P = Ideen I). Where a unit's H
 - sources: Descartes's own texts (AT) were not checked in this run; R's corrections of Heidegger as a reader of Descartes (wax, fundamentum
   inconcussum) are reported as R's.
 - commentaries: Commentary R III.6 ¶4 renders SZ 116's "in schlichter Gebung" as "in pure and simple givenness".
+- commentaries: Commentary R IV.3 names "John Salus"; R n. 17 has "John C. Sallis".
+- commentaries: Commentary R IV.7 has "the analytic of Dasein must not be taken for a dogma"; SZ 436 says "die These" (philosophy as universal
+  phenomenological ontology starting from the hermeneutic of Dasein).
 
 ### Open threads
 
@@ -194,15 +219,17 @@ Companion run: runs/marion-rd-on-hua3.md (same R, P = Ideen I). Where a unit's H
   chapters II-IV rely on the stronger claim. (2026-11-02.)
 - For chapter IV: the GA 9 notes R calls Heidegger's "1929 note" (Commentary R IV.2) are headed "1. Auflage 1929" in the corpus text and are
   later marginalia (corpus map). Note 134b refers to GA 24 §22 as "die erste öffentliche Mitteilung"; notes 134a and 134c, on the same sentence,
-  call the distinction ambiguous and "eine verhängnisvolle Rückbindung" [a fateful binding back]. R cites 134b and not the others? Check in IV.2.
-  (2026-11-02.)
+  call the distinction ambiguous and "eine verhängnisvolle Rückbindung" [a fateful binding back]. Resolved 2026-11-22 in IV.2: R calls n. b "une
+  note de 1929" and cites neither n. a nor n. c (guard 18).
 
 ## Progress
-Last completed unit: III.7 ¶4, with the closing paragraph for chapter III (2026-11-22). Next: chapter IV, ¶1 of IV.1.
+Last completed unit: IV.7 ¶5, with the closing paragraph for chapter IV (2026-11-22). Next: chapter V, ¶1 of V.1 (no Commentary R from here on).
 Unit counts: Foreword 2 (+ the head paragraph of traps); Bibliographical note 3; Phenomenology as such 7 (epigraph + 6); I.1 5, I.2 4, I.3 3,
   I.4 2, I.5 5, I.6 4, I.7 4 (as in runs/marion-rd-on-hua3.md).
   II.1 2, II.2 3, II.3 3, II.4 4, II.5 2, II.6 3, II.7 3 (as in runs/marion-rd-on-hua3.md).
   III.1 4, III.2 5, III.3 3, III.4 3, III.5 3 (source ¶3 split across a page seam, one unit), III.6 5, III.7 4.
+  IV.1 2, IV.2 3, IV.3 4 (¶3-¶4 one unit), IV.4 5, IV.5 5 (¶2 spans the two analogy diagrams), IV.6 4, IV.7 5.
 Revision: 2026-11-02, run opened; pair-specific notes 1-10, glossary, edition mappings set; Foreword through chapter I written.
 Revision: 2026-11-02, chapter II written; guards 11-14 added; corpus flags for the GA 24 gap and GA 20 markers.
 Revision: 2026-11-22, chapter III written; guards 15-17 added; branch restarted from main after PR #78 was merged.
+Revision: 2026-11-22, chapter IV written; guards 18-20 added; Bernet connection recorded; GA 9 open thread resolved.
