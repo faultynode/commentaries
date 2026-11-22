@@ -105,6 +105,17 @@ Companion run: runs/marion-rd-on-hua3.md (same R, P = Ideen I). Where a unit's H
    R II.6 takes "être sans égard pour l'étant" from *Zeit und Sein* (1962) and makes it SZ's goal. Test chapters IV and VI against SZ 151-152.
 14. **SZ's answer to the sense of being is time.** (Added 2026-11-02.) SZ 17 (the horizon for the most original interpretation of being), SZ 437
    (the closing questions). R II.7 ¶2 replaces it, "as a simple hypothesis", by ontological difference. Mark every substitution.
+15. **SZ's cause of the undetermined *sum* is the *ens creatum*, not certainty.** (Added 2026-11-22, chapter III.) "Übertragung der
+   mittelalterlichen Ontologie auf die von ihm als fundamentum inconcussum angesetzte Seiende ... ens creatum" (§6, SZ 25). R III.3 ¶1 (b)
+   substitutes the univocity of methodical certainty and the "grey ontology" of the *Regulae* (Marion's own Descartes books). R III n. 11 says
+   Heidegger "passes over in silence" the finite/infinite difference; SZ 92 names it ("ein »unendlicher« Unterschied ihres Seins") and SZ 93
+   makes it the problem of the analogy of being.
+16. **SZ's first person is a formal indication.** (Added 2026-11-22.) "Das »Ich« darf nur verstanden werden im Sinne einer unverbindlichen
+   *formalen Anzeige*" (§25, SZ 116); "Im »Ich« spricht sich das Selbst aus, das ich zunächst und zumeist *nicht* eigentlich bin" (§64, SZ 322).
+   R III.6 ¶3 and III.7 ¶3 read SZ 42's "ich bin" as *ego sum* without SZ 116. Hold every "repetition of the ego" to these two pages.
+17. **SZ 211 is a conditional.** (Added 2026-11-22.) "Sollte das »cogito sum« als Ausgang der existenzialen Analytik des Daseins dienen, dann
+   bedarf es ..." (§43c). R III.7 ¶1 reads it as Heidegger's sketch of a retranscription. It states what the start would need and that Descartes
+   did not meet it.
 
 ### Glossary (fixed for this run)
 
@@ -150,6 +161,15 @@ Companion run: runs/marion-rd-on-hua3.md (same R, P = Ideen I). Where a unit's H
   explained from entities); §44, SZ 220-221 (uncoveredness grounded in the disclosedness of the world, Dasein's); §63, SZ 311 ("ontologisch das
   Fernste"); §69b, SZ 363 n. (intentionality deferred). GA 20: 117-118 ("besagt aber nichts über das Sein ... nur ihre Begegnisart"; R "p. 118"),
   195-196 (triad numbered, R "p. 195"), 423. GA 24: 29 (§5). GA 9 essay: 134 and its notes a-c.
+- Loci of chapter III: §5, SZ 15-16 (ontically nearest, ontologically farthest; "Rückstrahlung", 16); §6, SZ 22-23 (destruction's "*positive*
+  Absicht"), 24 ("»Gewißsein« des cogito"), 25 (fundamentum inconcussum; ens creatum); §8, SZ 40 (plan, Part Two Division Two); §10, SZ 45-46
+  (the sum "undiscussed"), 47 and n. (Husserl and Scheler on the person), 48 ("antik-christlichen Anthropologie"), 49; §12, SZ 56; §13, SZ 61-62
+  ("Defizienz"); §14, SZ 66 ("weder ontisch noch ontologisch"); §18, SZ 89 ("extremsten Durchführung"); §19, SZ 91 (Principia II §4; no wax in
+  SZ); §20, SZ 92-94 (substance; "unendlicher Unterschied"; analogy and Cajetan note; "geringfügigen Unterschied der Bedeutung", R's p. 94, the
+  corpus places it after the p. 95 marker); §21, SZ 95-96 ("remanens capax mutationum" is Heidegger's Latin); §23, SZ 110 ("weltloses
+  Subjekt"); §25, SZ 115-116 ("in schlichter Gebung"; formal indication); §27, SZ 129 (das Man an existential); §28, SZ 132-133 ("Hier" und
+  "Dort" only in a "Da"); §40, SZ 186; §43, SZ 183, 203 (Kant's Dasein = Vorhandensein), 205 (scandal inverted), 208 (idealism naive), 211
+  (conditional); §50, SZ 250; §52, SZ 258; §57, SZ 274-275; §60, SZ 298; §63-64, SZ 315-316 ("weltloses Ich"), 318, 320-322; §65, SZ 331.
 
 ### Corpus flags (raised, not fixed here)
 
@@ -161,6 +181,11 @@ Companion run: runs/marion-rd-on-hua3.md (same R, P = Ideen I). Where a unit's H
 - sources: GA 20 page markers sit at uncertain positions relative to the page text (R's "p. 118" falls after the marker "117"); confirm a GA 20
   page by the quoted words, not by the marker alone.
 - commentaries: R n. 88 cites "*Grundprobleme*, § 14, *GA*, 20, p. 184"; GA 20 is the *Prolegomena*. Commentary R does not register it.
+- sources: SZ page markers drift by one in places (§20's "geringfügigen Unterschied" falls after the p. 95 marker, R and the print give 94;
+  "Defizienz" after the p. 62 marker, R gives 61). Locate by text.
+- sources: Descartes's own texts (AT) were not checked in this run; R's corrections of Heidegger as a reader of Descartes (wax, fundamentum
+  inconcussum) are reported as R's.
+- commentaries: Commentary R III.6 ¶4 renders SZ 116's "in schlichter Gebung" as "in pure and simple givenness".
 
 ### Open threads
 
@@ -173,9 +198,11 @@ Companion run: runs/marion-rd-on-hua3.md (same R, P = Ideen I). Where a unit's H
   (2026-11-02.)
 
 ## Progress
-Last completed unit: II.7 ¶3, with the closing paragraph for chapter II (2026-11-02). Next: chapter III, ¶1 of III.1.
+Last completed unit: III.7 ¶4, with the closing paragraph for chapter III (2026-11-22). Next: chapter IV, ¶1 of IV.1.
 Unit counts: Foreword 2 (+ the head paragraph of traps); Bibliographical note 3; Phenomenology as such 7 (epigraph + 6); I.1 5, I.2 4, I.3 3,
   I.4 2, I.5 5, I.6 4, I.7 4 (as in runs/marion-rd-on-hua3.md).
   II.1 2, II.2 3, II.3 3, II.4 4, II.5 2, II.6 3, II.7 3 (as in runs/marion-rd-on-hua3.md).
+  III.1 4, III.2 5, III.3 3, III.4 3, III.5 3 (source ¶3 split across a page seam, one unit), III.6 5, III.7 4.
 Revision: 2026-11-02, run opened; pair-specific notes 1-10, glossary, edition mappings set; Foreword through chapter I written.
 Revision: 2026-11-02, chapter II written; guards 11-14 added; corpus flags for the GA 24 gap and GA 20 markers.
+Revision: 2026-11-22, chapter III written; guards 15-17 added; branch restarted from main after PR #78 was merged.
