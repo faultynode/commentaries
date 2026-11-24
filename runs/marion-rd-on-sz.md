@@ -128,6 +128,15 @@ Companion run: runs/marion-rd-on-hua3.md (same R, P = Ideen I). Where a unit's H
    Bedeutung" (Martineau "par opposition à", defensible); SZ 314: *Unterscheidung* (Martineau "différenciation", then "distinction" a few lines
    later; R n. 22 rightly notes the inconsistency). Only SZ 56 joins "ontologisch" to *Unterschied*. All SZ occurrences are R's own figure β
    (n. 36). Marion's correction of Martineau at SZ 230 ("si tant est que" for an adversative "doch") holds.
+21. **R V.7 ¶2 states guard 1 in its own words.** (Added 2026-11-24, chapter V.) Heidegger "prétend, du moins dans *Sein und Zeit*, assumer la
+   méthode phénoménologique sans pourtant jamais faire droit à la réduction" (n. 59: "Du moins explicitement. Voir *supra*, chap. II, § 5-7").
+   This stands against R II.5 ¶2 ("Heidegger reste donc phénoménologue, puisqu'il reprend la réduction"). Cite both whenever chapter VI's
+   "third reduction" presupposes a second one in SZ.
+22. **SZ already makes R's critique of formal ontology, uncited.** (Added 2026-11-24.) Formalizations "die Phänomene so weit nivellieren, daß der
+   eigentliche phänomenale Gehalt verloren geht" (§18, SZ 88); existential possibility "unterscheidet sich ebensosehr von der leeren, logischen
+   Möglichkeit wie von der Kontingenz eines Vorhandenen" (§31, SZ 143); traditional logic "selbst ihre Fundamente in der antiken Ontologie hat"
+   (§1, SZ 4); "Alle Ontologie ... bleibt im Grunde blind", without the sense of being (§3, SZ 11). SZ 77 n. cites Ideen I §10 ff. and LU I ch. 11
+   for formal ontology, against R V.3 ¶3's "Heidegger ... toujours exclusivement ... la *Recherche VI*".
 
 ### Glossary (fixed for this run)
 
@@ -189,6 +198,12 @@ Companion run: runs/marion-rd-on-hua3.md (same R, P = Ideen I). Where a unit's H
   the alternative of ontological or ontic foundation), 437. GA 9 essay: 123 (1949 foreword), 134 and nn. a-c. GA 24 §22: 452-455 (latent
   Unterschied; "Daher nennen wir den ausdrücklichen vollzogenen Unterschied von Sein und Seiendem die *ontologische Differenz*", 454; §22a
   heading "Zeitlichkeit, Temporalität und ontologische Differenz"). GA 20 §13, 158 ("das Merkwürdige ... den radikalsten Seinsunterschied").
+- Loci of chapter V: §1, SZ 3 (universality of being not a genus), 4 (definition and logic founded in ancient ontology); §3, SZ 11 ("bleibt
+  im Grunde blind"); §6, SZ 22 ("mit entsprechenden Formalisierungen"); §7, SZ 35, 37, 38 (and n.: "unveröffentlichter Untersuchungen"); §17,
+  SZ 77-78 and n. (sign formalized into a "universalen Beziehungsart"; Ideen I §10 ff., LU I ch. 11); §18, SZ 88 (formalization levels); §29,
+  SZ 134 ("nacktes »Daß es ist und zu sein hat«"); §31, SZ 143-144 (existential vs logical possibility); §33, SZ 158 (hermeneutic vs apophantic
+  "Als"); §57, SZ 276-277 ("das nackte »Daß« im Nichts der Welt"; R "p. 276, 40"); §69b, SZ 363 n. R's Husserl texts in this chapter, except the
+  *Cartesian Meditations* (1929) and FTL (1929), were published posthumously; "prior even to ontology" is Husserl to Cairns, 19 May 1932 (R n. 46).
 - Bernet connection (sources/notes/bernet-interpretive-frame.md §3): Bernet, on Heidegger's late account, places Husserl's first approach to
   ontological difference in categorial intuition; R IV.4 places it in LU III §9 (2nd ed.) and Ideen I §42. Different Husserlian origins; SZ
   names neither.
@@ -223,13 +238,15 @@ Companion run: runs/marion-rd-on-hua3.md (same R, P = Ideen I). Where a unit's H
   note de 1929" and cites neither n. a nor n. c (guard 18).
 
 ## Progress
-Last completed unit: IV.7 ¶5, with the closing paragraph for chapter IV (2026-11-22). Next: chapter V, ¶1 of V.1 (no Commentary R from here on).
+Last completed unit: V.7 ¶7, with the closing paragraph for chapter V (2026-11-24). Next: chapter VI, ¶1 of VI.1 (no Commentary R).
 Unit counts: Foreword 2 (+ the head paragraph of traps); Bibliographical note 3; Phenomenology as such 7 (epigraph + 6); I.1 5, I.2 4, I.3 3,
   I.4 2, I.5 5, I.6 4, I.7 4 (as in runs/marion-rd-on-hua3.md).
   II.1 2, II.2 3, II.3 3, II.4 4, II.5 2, II.6 3, II.7 3 (as in runs/marion-rd-on-hua3.md).
   III.1 4, III.2 5, III.3 3, III.4 3, III.5 3 (source ¶3 split across a page seam, one unit), III.6 5, III.7 4.
   IV.1 2, IV.2 3, IV.3 4 (¶3-¶4 one unit), IV.4 5, IV.5 5 (¶2 spans the two analogy diagrams), IV.6 4, IV.7 5.
+  V.1 3, V.2 2, V.3 3, V.4 8, V.5 4, V.6 5, V.7 7 (no Commentary R; units follow the source's paragraphs).
 Revision: 2026-11-02, run opened; pair-specific notes 1-10, glossary, edition mappings set; Foreword through chapter I written.
 Revision: 2026-11-02, chapter II written; guards 11-14 added; corpus flags for the GA 24 gap and GA 20 markers.
 Revision: 2026-11-22, chapter III written; guards 15-17 added; branch restarted from main after PR #78 was merged.
 Revision: 2026-11-22, chapter IV written; guards 18-20 added; Bernet connection recorded; GA 9 open thread resolved.
+Revision: 2026-11-24, chapter V written (no Commentary R); guards 21-22 added.
