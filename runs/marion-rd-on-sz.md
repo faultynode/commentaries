@@ -259,7 +259,7 @@ Companion run: runs/marion-rd-on-hua3.md (same R, P = Ideen I). Where a unit's H
   note de 1929" and cites neither n. a nor n. c (guard 18).
 
 ## Progress
-Last completed unit: VI.7 ¶8, with the closing paragraph for chapter VI (2026-11-24). Next: Les figures de la donation ¶1, then the closing verdict on the book.
+Last completed unit: Les figures de la donation ¶6, with the closing verdict on the whole book (2026-11-24). Run complete: the range (Foreword through Les figures de la donation; index excluded) is done.
 Unit counts: Foreword 2 (+ the head paragraph of traps); Bibliographical note 3; Phenomenology as such 7 (epigraph + 6); I.1 5, I.2 4, I.3 3,
   I.4 2, I.5 5, I.6 4, I.7 4 (as in runs/marion-rd-on-hua3.md).
   II.1 2, II.2 3, II.3 3, II.4 4, II.5 2, II.6 3, II.7 3 (as in runs/marion-rd-on-hua3.md).
@@ -267,9 +267,11 @@ Unit counts: Foreword 2 (+ the head paragraph of traps); Bibliographical note 3;
   IV.1 2, IV.2 3, IV.3 4 (¶3-¶4 one unit), IV.4 5, IV.5 5 (¶2 spans the two analogy diagrams), IV.6 4, IV.7 5.
   V.1 3, V.2 2, V.3 3, V.4 8, V.5 4, V.6 5, V.7 7 (no Commentary R; units follow the source's paragraphs).
   VI.1 3, VI.2 8, VI.3 7, VI.4 5, VI.5 9, VI.6 5, VI.7 8 (no Commentary R).
+  Figures 5 (¶5-¶6 treated in one unit) + closing verdict on the book.
 Revision: 2026-11-02, run opened; pair-specific notes 1-10, glossary, edition mappings set; Foreword through chapter I written.
 Revision: 2026-11-02, chapter II written; guards 11-14 added; corpus flags for the GA 24 gap and GA 20 markers.
 Revision: 2026-11-22, chapter III written; guards 15-17 added; branch restarted from main after PR #78 was merged.
 Revision: 2026-11-22, chapter IV written; guards 18-20 added; Bernet connection recorded; GA 9 open thread resolved.
 Revision: 2026-11-24, chapter V written (no Commentary R); guards 21-22 added.
 Revision: 2026-11-24, chapter VI written (no Commentary R); guards 23-25 added.
+Revision: 2026-11-24, Les figures de la donation and the closing verdict written; run complete.
