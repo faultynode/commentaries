@@ -2,15 +2,16 @@
   "schema_version": 1,
   "theme": "erfuellung",
   "commentary": "husserl-thing-and-space-commentary",
-  "source_sha256": "e0d0451d72ec96da3d81ae5556439940774ed1e7a51cb3d8a40eb1cf5affde23",
-  "extracted_at": "2026-11-02",
+  "source_sha256": "cfd987771c5cb67bdeee7fb02195da78e3e2ccbfeede47283908f01d430e2318",
+  "extracted_at": "2026-11-25",
   "extractor": {
     "agent": "claude-code",
     "model": "claude-opus-5-5",
-    "prompt": "synthesis/prompts/extraction-prompt.md"
+    "prompt": "synthesis/prompts/extraction-prompt.md",
+    "note": "2026-11-25: P6 refresh (digest and date updated; all ten earlier quotes still resolved) with units 011-012 added in a later session. Model of that session not recorded."
   },
   "coverage": "partial",
-  "coverage_note": "Read in full: §§ 4, 5, 32 and 33. § 18: only the paragraphs containing 'fulfil', 'empty' or 'leer'. Not read: §§ 8-9, 30-31, 36-37, 51, 54 and 62 (9-17 term hits each) and the 32 further sections with hits.",
+  "coverage_note": "Read in full: §§ 4, 5, 32 and 33. § 18: only the paragraphs containing 'fulfil', 'empty' or 'leer'. Units 011-012 (added 2026-11-25) come from § 30 (anticipatory-intention paragraph) and § 54 (i-component paragraph) only. Not read: §§ 8-9, 31, 36-37, 51, 62 (9-17 term hits each), § 84 and the further sections with hits.",
   "units": [
     {
       "id": "erfuellung/thing-and-space/001",
@@ -101,13 +102,39 @@
       "status": "introduced",
       "claim": "The evidence of the possibility of fulfillment is the evident possibility of phantasy appearances adapted to the perceptual appearance, which shows the direction of increase to be infinitely extendable rather than terminating in an achievable limit.",
       "quote": "But this essential possibility is an ideal one — it shows that the direction of increase is infinitely extendable, not that it terminates in an actually achievable limit."
+    },
+    {
+      "id": "erfuellung/thing-and-space/011",
+      "locator": "husserl-thing-and-space-commentary#h3-s30-continuous-synthesis-of-manifold-perceptions",
+      "primary_locator": "Thing and Space § 30",
+      "term": "anticipatory intention",
+      "status": "introduced",
+      "claim": "In a continuous series of appearances the first differential of change fixes the direction of the course, giving a system of intentions that are continuously set out and continuously fulfilled.",
+      "quote": "When a series of appearances runs its course in continuous unity, the first determination of the change — the \"differential of movement\" — already defines the *direction* of the course. Thereby a system of intentions is given that are continuously setting out and continuously getting fulfilled."
+    },
+    {
+      "id": "erfuellung/thing-and-space/012",
+      "locator": "husserl-thing-and-space-commentary#h3-s54-the-consciousness-of-unity-in-the-sequences-of-images-and-in-the-kinaestheti",
+      "primary_locator": "Thing and Space § 54",
+      "term": "fulfillment",
+      "status": "presupposed",
+      "claim": "The i-component of each phase intends toward the next, fulfils itself in it and is fulfilled again, so that every i is at once fulfillment and fulfilling.",
+      "quote": "the i-component fulfills itself, penetrates the next phase, is again fulfilled, and so on. Every i is both fulfillment and fulfilling, through its apprehensional function."
     }
   ],
   "absences": [
     {
       "locator": "husserl-thing-and-space-commentary#h3-s5-presence-in-the-flesh-and-belief-perception-perzeption-and-position-taking",
       "expected_because": "The section separates presence in the flesh from perceptual belief through unmasked hallucination and perceptual doubt, the cases where the Sixth Investigation's disappointment and conflict would apply.",
-      "absent_terms": ["fulfil", "fulfill", "disappoint", "Enttäuschung", "Erfüllung", "conflict", "Widerstreit"]
+      "absent_terms": [
+        "fulfil",
+        "fulfill",
+        "disappoint",
+        "Enttäuschung",
+        "Erfüllung",
+        "conflict",
+        "Widerstreit"
+      ]
     }
   ]
 }
