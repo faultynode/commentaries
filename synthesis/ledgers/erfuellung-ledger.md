@@ -4,7 +4,7 @@
 
 *The Sixth Investigation's dynamic — an empty or signitive intention brought to coincidence (Deckung) with intuition, the series of fulfilments running toward adequation, and disappointment (Enttäuschung) as the negative case — and then what becomes of it: Ideas I's grades of evidence, Hua XI on fulfilled and frustrated protention, Erfahrung und Urteil deriving negation from disappointment, Heidegger's categorial intuition in GA 20. Two traps. First, the matcher anchors at a word start only, so a stem carries its family: 'fulfil' finds fulfilment, fulfillment, fulfilled and fulfilling (1,321 hits in 48 of the 53 documents, and it is what bridges the British/American spelling split between translations), while 'unfulfil' has to be listed separately. Second, the obvious English words are withheld on purpose: 'intuition' (3,427 hits, 49 documents), 'evidence' (2,005 in 52), 'empty', 'intuitive' and 'identification' are ordinary words at this scale, and would both swamp the ranking and make any recorded absence meaningless — 'Evidenz' is the reliable handle, as that lexicon entry already says. 'coincidence', 'fullness', 'in person' and 'verification' are kept, and are the ones to set absent_terms against by hand.*
 
-121 units and 1 recorded absences from 12 commentaries.
+123 units and 1 recorded absences from 12 commentaries.
 
 ## Primary corpus, by composition or delivery date
 
@@ -62,13 +62,23 @@
   `husserl-thing-and-space-commentary#h3-s33-the-role-of-improper-appearance-in-the-process-of-more-precise-determination` · Thing and Space § 33 · [§33. The role of improper appearance in the process of more precise determination. The ideal of adequate perception](https://faultynode.github.io/commentaries/commentaries/husserl/husserl-thing-and-space-commentary.html#the-role-of-improper-appearance-in-the-process-of-more-precise-determination-the-ideal-of-adequate-perception)
   > But this essential possibility is an ideal one — it shows that the direction of increase is infinitely extendable, not that it terminates in an actually achievable limit.
 
+- **introduced** · `erfuellung/thing-and-space/011` · *anticipatory intention*
+  In a continuous series of appearances the first differential of change fixes the direction of the course, giving a system of intentions that are continuously set out and continuously fulfilled.
+  `husserl-thing-and-space-commentary#h3-s30-continuous-synthesis-of-manifold-perceptions` · Thing and Space § 30 · [§30. Continuous synthesis of manifold perceptions](https://faultynode.github.io/commentaries/commentaries/husserl/husserl-thing-and-space-commentary.html#continuous-synthesis-of-manifold-perceptions)
+  > When a series of appearances runs its course in continuous unity, the first determination of the change — the "differential of movement" — already defines the *direction* of the course. Thereby a system of intentions is given that are continuously setting out and continuously getting fulfilled.
+
+- **presupposed** · `erfuellung/thing-and-space/012` · *fulfillment*
+  The i-component of each phase intends toward the next, fulfils itself in it and is fulfilled again, so that every i is at once fulfillment and fulfilling.
+  `husserl-thing-and-space-commentary#h3-s54-the-consciousness-of-unity-in-the-sequences-of-images-and-in-the-kinaestheti` · Thing and Space § 54 · [§54. The consciousness of unity in the sequences of images and in the kinaesthetic sequences](https://faultynode.github.io/commentaries/commentaries/husserl/husserl-thing-and-space-commentary.html#the-consciousness-of-unity-in-the-sequences-of-images-and-in-the-kinaesthetic-sequences)
+  > the i-component fulfills itself, penetrates the next phase, is again fulfilled, and so on. Every i is both fulfillment and fulfilling, through its apprehensional function.
+
 #### Recorded absences
 
 - **absent** · `husserl-thing-and-space-commentary#h3-s5-presence-in-the-flesh-and-belief-perception-perzeption-and-position-taking`
   Expected because: The section separates presence in the flesh from perceptual belief through unmasked hallucination and perceptual doubt, the cases where the Sixth Investigation's disappointment and conflict would apply.
   [§5. Presence in the flesh and belief. Perception \[Perzeption\] and position-taking](https://faultynode.github.io/commentaries/commentaries/husserl/husserl-thing-and-space-commentary.html#presence-in-the-flesh-and-belief-perception-perzeption-and-position-taking)
 
-*Partial pass: Read in full: §§ 4, 5, 32 and 33. § 18: only the paragraphs containing 'fulfil', 'empty' or 'leer'. Not read: §§ 8-9, 30-31, 36-37, 51, 54 and 62 (9-17 term hits each) and the 32 further sections with hits.*
+*Partial pass: Read in full: §§ 4, 5, 32 and 33. § 18: only the paragraphs containing 'fulfil', 'empty' or 'leer'. Units 011-012 (added 2026-11-25) come from § 30 (anticipatory-intention paragraph) and § 54 (i-component paragraph) only. Not read: §§ 8-9, 31, 36-37, 51, 62 (9-17 term hits each), § 84 and the further sections with hits.*
 
 ### 1913-1928 - Husserl, Hua 3 — Ideas I, Parts 3–4
 
