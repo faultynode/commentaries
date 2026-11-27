@@ -2,15 +2,15 @@
   "schema_version": 1,
   "theme": "erfuellung",
   "commentary": "husserliana-7-erste-philosophie-i-commentary",
-  "source_sha256": "caeb8c837e2fc6f2afe18b07a39cebcd9f50a3476698bd72417fd9cebd8c9703",
-  "extracted_at": "2026-11-02",
+  "source_sha256": "96776776cf1a85f5f368811239de9bf6aa37ba630bed70cedd433010e1ffe8ee",
+  "extracted_at": "2026-11-26",
   "extractor": {
     "agent": "claude-code",
-    "model": "claude-opus-5-5",
+    "model": "claude-sonnet-5-5",
     "prompt": "synthesis/prompts/extraction-prompt.md"
   },
   "coverage": "partial",
-  "coverage_note": "Eighteenth, Nineteenth and Twenty-third Lectures (lines 655-714 and 791-826): the paragraphs carrying fulfilment vocabulary. Not read: the First, Fourth, Fifth, Sixth and Twelfth Lectures (4-8 hits each) and the rest of the commentary.",
+  "coverage_note": "Eighteenth, Nineteenth and Twenty-third Lectures (lines 655-714 and 791-826), re-checked against the current file (P6 refresh), plus the Fifth Lecture (lines 233-278) and the Twelfth Lecture (lines 461-494). Not read: the First, Fourth, Sixth and the other lectures with fewer hits, and the rest of the commentary.",
   "units": [
     {
       "id": "erfuellung/hua-7/001",
@@ -83,6 +83,42 @@
       "status": "introduced",
       "claim": "'Idea' is a title for all confirmable and confirmation-needing meanings, conscious of what is meant in them but not self-given.",
       "quote": "the analogous holds naturally for the counter-title \"idea,\" as title for all confirmable and confirmation-needing meanings: each is double-sidedly consciousness of in-it-conscious, in-it-meant, but *not* self-given."
+    },
+    {
+      "id": "erfuellung/hua-7/009",
+      "locator": "husserliana-7-erste-philosophie-i-commentary#h3-fifth-lecture-the-discovery-of-the-cognition-of-ideas-and-the-greek-beginnings-o",
+      "primary_locator": "Hua VII, Fifth Lecture",
+      "term": "Evidenz and blind Meinen",
+      "status": "introduced",
+      "claim": "A mere opinion, however convinced, must justify itself by adequation to the thing-giving intuition, which contrasts insightful judging with vague opining.",
+      "quote": "He will contrast insightful judging — judging that beholds the things and states of affairs themselves and determines in beholding — with vague, thing-remote \"opining.\""
+    },
+    {
+      "id": "erfuellung/hua-7/010",
+      "locator": "husserliana-7-erste-philosophie-i-commentary#h3-fifth-lecture-the-discovery-of-the-cognition-of-ideas-and-the-greek-beginnings-o",
+      "primary_locator": "Hua VII, Fifth Lecture",
+      "term": "outer experience",
+      "status": "presupposed",
+      "claim": "Outer experience gives its object itself only as a flowing, never a definitive being itself, and so never satisfies its pretension of self-grasping.",
+      "quote": "thus outer experience is never a consciousness that is able to satisfy its pretension of having-itself, self-grasping of the object itself."
+    },
+    {
+      "id": "erfuellung/hua-7/011",
+      "locator": "husserliana-7-erste-philosophie-i-commentary#h3-twelfth-lecture-the-naive-dogmatism-of-objectivism",
+      "primary_locator": "Hua VII, Twelfth Lecture",
+      "term": "confirmations and refutations",
+      "status": "introduced",
+      "claim": "Between mere meanings and cognition in the pregnant sense lie transition-shapes: confirmations (Bewährungen) and refutations, a cognition-path leading mere aiming into fulfilling aiming.",
+      "quote": "a unitary consciousness, a cognition-path, leads the mere aiming over into the fulfilling aiming"
+    },
+    {
+      "id": "erfuellung/hua-7/012",
+      "locator": "husserliana-7-erste-philosophie-i-commentary#h3-twelfth-lecture-the-naive-dogmatism-of-objectivism",
+      "primary_locator": "Hua VII, Twelfth Lecture",
+      "term": "fulfilling identification",
+      "status": "presupposed",
+      "claim": "Self-directing consciousness actualizes itself only in syntheses of fulfilling identification.",
+      "quote": "as if the self-directing itself actualized itself otherwise than as in *syntheses of fulfilling identification*"
     }
   ],
   "absences": []
