@@ -5,6 +5,13 @@ title: "Husserl, Grundprobleme der Phänomenologie (1910/11): close readings of 
 
 # Husserl, *Grundprobleme der Phänomenologie* (1910/11): close readings of key passages
 
+<!-- toc:start -->
+**Contents**
+
+- [§1, Hua XIII 111: an experiencing phenomenology](#1-hua-xiii-111-an-experiencing-phenomenology)
+- [§1, Hua XIII 113: the haver and the had](#1-hua-xiii-113-the-haver-and-the-had)
+<!-- toc:end -->
+
 These readings take up the passages approved in the [key-passage list](../runs/husserliana-13-basic-problems-of-phenomenology-commentary-key-passages.md). The [main commentary](../commentaries/husserl/husserliana-13-basic-problems-of-phenomenology-commentary.md) works through the lecture course at equal depth, section by section. Each reading here follows one understanding that a passage carries: what Husserl means by a term or a claim, how his wording builds it, what the passage does between its neighbours, and where the understanding goes in the rest of the course and in Husserl's other works.
 
 The text is Text Nr. 6 of Husserliana XIII (*Zur Phänomenologie der Intersubjektivität*, first part, 1905–1920, edited by Iso Kern), "From the lectures *Basic Problems of Phenomenology*, winter semester 1910/11". It is quoted from the converted German file in `faultynode/sources` (`sources/husserl/husserl-hua-13-zur-phanomenologie-der-intersubjektivitat-ersterteil-1905-1920.md`). Passages are cited by § and by Hua XIII page. The main commentary cites § numbers only, and unit references such as "§10.7" name the seventh paragraph of the commentary under § 10. All English renderings of Husserl and of the editor's notes are my working translations, kept close to the German so that its structure shows.
