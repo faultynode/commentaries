@@ -4,7 +4,7 @@
 
 *The Sixth Investigation's dynamic — an empty or signitive intention brought to coincidence (Deckung) with intuition, the series of fulfilments running toward adequation, and disappointment (Enttäuschung) as the negative case — and then what becomes of it: Ideas I's grades of evidence, Hua XI on fulfilled and frustrated protention, Erfahrung und Urteil deriving negation from disappointment, Heidegger's categorial intuition in GA 20. Two traps. First, the matcher anchors at a word start only, so a stem carries its family: 'fulfil' finds fulfilment, fulfillment, fulfilled and fulfilling (1,321 hits in 48 of the 53 documents, and it is what bridges the British/American spelling split between translations), while 'unfulfil' has to be listed separately. Second, the obvious English words are withheld on purpose: 'intuition' (3,427 hits, 49 documents), 'evidence' (2,005 in 52), 'empty', 'intuitive' and 'identification' are ordinary words at this scale, and would both swamp the ranking and make any recorded absence meaningless — 'Evidenz' is the reliable handle, as that lexicon entry already says. 'coincidence', 'fullness', 'in person' and 'verification' are kept, and are the ones to set absent_terms against by hand.*
 
-117 units and 1 recorded absences from 12 commentaries.
+121 units and 1 recorded absences from 12 commentaries.
 
 ## Primary corpus, by composition or delivery date
 
@@ -378,7 +378,27 @@
   `husserliana-7-erste-philosophie-i-commentary#h3-twenty-third-lecture-hume-s-nominalistic-reduction-of-all-ideas-to-impressions-a` · Hua VII, Twenty-third Lecture · [Twenty-third Lecture: Hume's nominalistic reduction of all ideas to impressions and the countersense in this principle](https://faultynode.github.io/commentaries/commentaries/husserl/husserliana-7-erste-philosophie-i-commentary.html#twenty-third-lecture-humes-nominalistic-reduction-of-all-ideas-to-impressions-and-the-countersense-in-this-principle)
   > the analogous holds naturally for the counter-title "idea," as title for all confirmable and confirmation-needing meanings: each is double-sidedly consciousness of in-it-conscious, in-it-meant, but *not* self-given.
 
-*Partial pass: Eighteenth, Nineteenth and Twenty-third Lectures (lines 655-714 and 791-826): the paragraphs carrying fulfilment vocabulary. Not read: the First, Fourth, Fifth, Sixth and Twelfth Lectures (4-8 hits each) and the rest of the commentary.*
+- **introduced** · `erfuellung/hua-7/009` · *Evidenz and blind Meinen*
+  A mere opinion, however convinced, must justify itself by adequation to the thing-giving intuition, which contrasts insightful judging with vague opining.
+  `husserliana-7-erste-philosophie-i-commentary#h3-fifth-lecture-the-discovery-of-the-cognition-of-ideas-and-the-greek-beginnings-o` · Hua VII, Fifth Lecture · [Fifth Lecture: The discovery of the cognition of ideas and the Greek beginnings of philosophical, rational sciences](https://faultynode.github.io/commentaries/commentaries/husserl/husserliana-7-erste-philosophie-i-commentary.html#fifth-lecture-the-discovery-of-the-cognition-of-ideas-and-the-greek-beginnings-of-philosophical-rational-sciences)
+  > He will contrast insightful judging — judging that beholds the things and states of affairs themselves and determines in beholding — with vague, thing-remote "opining."
+
+- **presupposed** · `erfuellung/hua-7/010` · *outer experience*
+  Outer experience gives its object itself only as a flowing, never a definitive being itself, and so never satisfies its pretension of self-grasping.
+  `husserliana-7-erste-philosophie-i-commentary#h3-fifth-lecture-the-discovery-of-the-cognition-of-ideas-and-the-greek-beginnings-o` · Hua VII, Fifth Lecture · [Fifth Lecture: The discovery of the cognition of ideas and the Greek beginnings of philosophical, rational sciences](https://faultynode.github.io/commentaries/commentaries/husserl/husserliana-7-erste-philosophie-i-commentary.html#fifth-lecture-the-discovery-of-the-cognition-of-ideas-and-the-greek-beginnings-of-philosophical-rational-sciences)
+  > thus outer experience is never a consciousness that is able to satisfy its pretension of having-itself, self-grasping of the object itself.
+
+- **introduced** · `erfuellung/hua-7/011` · *confirmations and refutations*
+  Between mere meanings and cognition in the pregnant sense lie transition-shapes: confirmations (Bewährungen) and refutations, a cognition-path leading mere aiming into fulfilling aiming.
+  `husserliana-7-erste-philosophie-i-commentary#h3-twelfth-lecture-the-naive-dogmatism-of-objectivism` · Hua VII, Twelfth Lecture · [Twelfth Lecture: The naive dogmatism of objectivism](https://faultynode.github.io/commentaries/commentaries/husserl/husserliana-7-erste-philosophie-i-commentary.html#twelfth-lecture-the-naive-dogmatism-of-objectivism)
+  > a unitary consciousness, a cognition-path, leads the mere aiming over into the fulfilling aiming
+
+- **presupposed** · `erfuellung/hua-7/012` · *fulfilling identification*
+  Self-directing consciousness actualizes itself only in syntheses of fulfilling identification.
+  `husserliana-7-erste-philosophie-i-commentary#h3-twelfth-lecture-the-naive-dogmatism-of-objectivism` · Hua VII, Twelfth Lecture · [Twelfth Lecture: The naive dogmatism of objectivism](https://faultynode.github.io/commentaries/commentaries/husserl/husserliana-7-erste-philosophie-i-commentary.html#twelfth-lecture-the-naive-dogmatism-of-objectivism)
+  > as if the self-directing itself actualized itself otherwise than as in *syntheses of fulfilling identification*
+
+*Partial pass: Eighteenth, Nineteenth and Twenty-third Lectures (lines 655-714 and 791-826), re-checked against the current file (P6 refresh), plus the Fifth Lecture (lines 233-278) and the Twelfth Lecture (lines 461-494). Not read: the First, Fourth, Sixth and the other lectures with fewer hits, and the rest of the commentary.*
 
 ## Reception layer
 

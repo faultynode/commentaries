@@ -8,7 +8,7 @@ Corpus: **71 commentaries**, 4,248,726 words, 4400 sections indexed in `synthesi
 
 ### erfuellung - intuitive fulfillment
 
-12 commentaries extracted · 117 units · 1 absences · 2 stale · 12 partial
+12 commentaries extracted · 121 units · 1 absences · 1 stale · 12 partial
 
 Next candidates, by term density:
 
@@ -208,7 +208,6 @@ Next candidates, by term density:
 The commentary changed after the pass ran. Quotes are no longer guaranteed; re-extract and update `source_sha256`.
 
 - [ ] `synthesis/extractions/erfuellung/husserl-thing-and-space-commentary.json`
-- [ ] `synthesis/extractions/erfuellung/husserliana-7-erste-philosophie-i-commentary.json`
 - [ ] `synthesis/extractions/fundierung/husserl-thing-and-space-commentary.json`
 - [ ] `synthesis/extractions/fundierung/husserliana-4-ideas-ii-commentary.json`
 - [ ] `synthesis/extractions/fundierung/husserliana-9-phenomenological-psychology-commentary.json`
