@@ -106,7 +106,7 @@ Next candidates, by term density:
 
 ### transzendenz - transcendence
 
-30 commentaries extracted · 584 units · 34 absences · 6 stale · 29 partial
+30 commentaries extracted · 587 units · 33 absences · 5 stale · 29 partial
 
 Next candidates, by term density:
 
@@ -243,7 +243,6 @@ The commentary changed after the pass ran. Quotes are no longer guaranteed; re-e
 - [ ] `synthesis/extractions/sorge/heidegger-ga-20-prolegomena-zur-geschichte-des-zeitbegriffs-commentary.json`
 - [ ] `synthesis/extractions/transzendenz/husserl-krisis-commentary.json`
 - [ ] `synthesis/extractions/transzendenz/husserl-thing-and-space-commentary.json`
-- [ ] `synthesis/extractions/transzendenz/husserliana-3-ideas-i-commentary.json`
 - [ ] `synthesis/extractions/transzendenz/husserliana-4-ideas-ii-commentary.json`
 - [ ] `synthesis/extractions/transzendenz/husserliana-7-erste-philosophie-i-commentary.json`
 - [ ] `synthesis/extractions/transzendenz/husserliana-9-phenomenological-psychology-commentary.json`

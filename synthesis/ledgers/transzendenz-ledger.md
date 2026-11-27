@@ -4,7 +4,7 @@
 
 *Transcendence as the stepping-beyond, not the transcendental: Husserl's transcendent/immanent split (immanent versus transcendent perception, transcendence of the thing and of the world, the ego's self-transcendence, 'transcendence within immanence' in Hua XIII and Thing and Space), Heidegger's transcendence of Dasein (GA 24 §20, GA 26 §11, GA 3, GA 9 'Vom Wesen des Grundes', where Überstieg, world-entry, the epekeina and freedom carry it), and Henry's L'essence de la manifestation, which turns the whole tradition into a single thesis - that manifestation is transcendence - and argues against it from immanence. The one trap dominates everything: the matcher is left-anchored, so 'transcend' (6,963 hits) and even 'transcendent' (4,745) fire inside 'transcendental' 3,800 times and would rank Hua VIII and GA 3 for the wrong word. Neither is listed; the -ence/-s/-ing/-ed forms and the compounds ('transcendent object', 'transcendent perception') stand in, which means a bare adjectival 'transcendent' is not searched and an absence claim never covers it. 'surpass' and 'overstep' are prefix stems and carry their families (surpassing is the standing rendering of Überstieg; overstepping is Marion's). Bare 'immanent' (1,670 hits in 42 documents) is withheld the same way; 'immanence' is kept and is the term to set absent_terms against by hand. Bare 'transcendental' belongs to reduktion, not here. Ranking puts Henry's Essence of Manifestation far ahead (1,622 hits, nearly four times GA 26), then GA 26, Henry's Philosophie et phénoménologie du corps, GA 9, Bernet and GA 3; Hua VIII, which the bare stem would have ranked near the top, drops out once 'transcendental' stops counting. The GA 9 commentary was renamed to heidegger-ga-9-vom-wesen-des-grundes-commentary so that records can name it.*
 
-584 units and 34 recorded absences from 30 commentaries.
+587 units and 33 recorded absences from 30 commentaries.
 
 ## Primary corpus, by composition or delivery date
 
@@ -658,13 +658,22 @@
   `husserliana-3-ideas-i-commentary#h2-s-144-reality-and-originarily-giving-consciousness-concluding-determinations` · Ideas I § 144 · [§ 144. Reality and Originarily Giving Consciousness: Concluding Determinations](https://faultynode.github.io/commentaries/commentaries/husserl/husserliana-3-ideas-i-commentary.html#reality-and-originarily-giving-consciousness-concluding-determinations)
   > Where the giving intuition is transcending, adequate givenness is impossible; only the Idea of such an objectuality can be given, together with an a priori rule for the lawful infinities of inadequate experiences.
 
-#### Recorded absences
+- **presupposed** · `transzendenz/hua3/004` · *immanent component*
+  The manifold thing-senses do not contain the regional essence 'thing' as an immanent, originarily intuitive component.
+  `husserliana-3-ideas-i-commentary#h2-s-149-the-reason-theoretical-problems-of-the-regional-ontologies-the-problem-of` · Ideas I § 149 · [§ 149. The Reason-Theoretical Problems of the Regional Ontologies. The Problem of Phenomenological Constitution](https://faultynode.github.io/commentaries/commentaries/husserl/husserliana-3-ideas-i-commentary.html#the-reason-theoretical-problems-of-the-regional-ontologies-the-problem-of-phenomenological-constitution)
+  > do not contain the regional essence “thing” as an immanent, originarily intuitive component
 
-- **absent** · `husserliana-3-ideas-i-commentary#h2-s-149-the-reason-theoretical-problems-of-the-regional-ontologies-the-problem-of`
-  Expected because: The constitution problem of the regions follows §144, which divided being into the immanent and the transcendent given only as an Idea.
-  [§ 149. The Reason-Theoretical Problems of the Regional Ontologies. The Problem of Phenomenological Constitution](https://faultynode.github.io/commentaries/commentaries/husserl/husserliana-3-ideas-i-commentary.html#the-reason-theoretical-problems-of-the-regional-ontologies-the-problem-of-phenomenological-constitution)
+- **revised** · `transzendenz/hua3/005` · *transcendence of the thing*
+  The thing's transcendence is stated to belong to its eidos, not only to be a fact about perception.
+  `husserliana-3-ideas-i-commentary#h2-s-149-the-reason-theoretical-problems-of-the-regional-ontologies-the-problem-of` · Ideas I § 149 · [§ 149. The Reason-Theoretical Problems of the Regional Ontologies. The Problem of Phenomenological Constitution](https://faultynode.github.io/commentaries/commentaries/husserl/husserliana-3-ideas-i-commentary.html#the-reason-theoretical-problems-of-the-regional-ontologies-the-problem-of-phenomenological-constitution)
+  > the thing’s transcendence is not only a fact about perception but belongs to its eidos
 
-*Partial pass: Term-led pass over the whole file (lines 1-467): every paragraph containing the transcendence family, including bare transcendent and immanent, was read; paragraphs without such a word were not read.*
+- **presupposed** · `transzendenz/hua3/006` · *transcendence of the thing*
+  The thing's transcendence is said to express itself in the boundless progressions of intuition.
+  `husserliana-3-ideas-i-commentary#h2-s-149-the-reason-theoretical-problems-of-the-regional-ontologies-the-problem-of` · Ideas I § 149 · [§ 149. The Reason-Theoretical Problems of the Regional Ontologies. The Problem of Phenomenological Constitution](https://faultynode.github.io/commentaries/commentaries/husserl/husserliana-3-ideas-i-commentary.html#the-reason-theoretical-problems-of-the-regional-ontologies-the-problem-of-phenomenological-constitution)
+  > the thing’s transcendence expresses itself in these boundless progressions
+
+*Partial pass: Term-led pass over the whole file (lines 1-487): every paragraph containing the transcendence family, including bare transcendent and immanent, was read; paragraphs without such a word were not read.*
 
 ### 1913-1928 - Husserl, Hua 3 — Ideas I, Parts 3–4
 
