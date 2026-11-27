@@ -707,7 +707,7 @@ The difference survives in the pages after the formula, and it follows from the 
 
 ## ⟨§73⟩, Hua VI 269–276 and 519: an ending supplied by the editor
 
-Reads [§73.1](../commentaries/husserl/husserl-krisis-commentary.md#conclusion-philosophy-as-humanitys-self-reflection-self-realization-of-reason), the first paragraph under ⟨§ 73⟩.
+Reads [§73.1](../commentaries/husserl/husserl-krisis-commentary.md#conclusion--philosophy-as-humanitys-self-reflection-self-realization-of-reason), the first paragraph under ⟨§ 73⟩.
 
 The *Krisis* has no ending of Husserl's. His text breaks off "with § 71, or § 72", and the closing word that now ends the book is a manuscript the editor placed there and justified. The justification is the point of this reading. Biemel warrants the addition by its fit with a plan for two further parts that Eugen Fink drafted, and in that plan the part the closing word is said to match is a title with nothing under it. The ⟨§ 73⟩ is therefore an answer to a title: a text of Husserl's chosen to fill the place where Fink's Part V would have stood. What the closing word says may well be Husserl's "basic intention", as the editor puts it. That it is the conclusion of this book is the editor's judgement, and the edition marks it as one: in the bracketed word of the title, in the "or" of the note, and in its own table of original pages.
 
