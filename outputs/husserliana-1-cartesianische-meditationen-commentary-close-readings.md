@@ -5,6 +5,25 @@ title: "Husserl, Cartesianische Meditationen: close readings of key passages"
 
 # Husserl, *Cartesianische Meditationen*: close readings of key passages
 
+<!-- toc:start -->
+**Contents**
+
+- [§1, Hua I 44: the prototype of every beginning](#1-hua-i-44-the-prototype-of-every-beginning)
+- [§2, Hua I 46: the eternal sense of a tendency](#2-hua-i-46-the-eternal-sense-of-a-tendency)
+- [§3, Hua I 48–49: the fateful prejudice](#3-hua-i-4849-the-fateful-prejudice)
+- [§6, Hua I 55–56: apodicticity as the inconceivability of non-being](#6-hua-i-5556-apodicticity-as-the-inconceivability-of-non-being)
+- [§7, Hua I 57–58: the world as a validity-phenomenon](#7-hua-i-5758-the-world-as-a-validity-phenomenon)
+- [§8, Hua I 60–61: the names of the epochē](#8-hua-i-6061-the-names-of-the-epochē)
+- [§9, Hua I 63: the apodictic core and its presumptive horizon](#9-hua-i-63-the-apodictic-core-and-its-presumptive-horizon)
+- [§10, Hua I 63–64: a little tail-end of the world](#10-hua-i-6364-a-little-tail-end-of-the-world)
+- [§11, Hua I 65: transcendence as irreal containedness](#11-hua-i-65-transcendence-as-irreal-containedness)
+- [§13, Hua I 69: transcendental solipsism as a substage](#13-hua-i-69-transcendental-solipsism-as-a-substage)
+- [§14, Hua I 71–72: intentionality as the third member of the ego cogito](#14-hua-i-7172-intentionality-as-the-third-member-of-the-ego-cogito)
+- [§15, Hua I 73: the disinterested spectator](#15-hua-i-73-the-disinterested-spectator)
+- [§16, Hua I 77: mute experience and its first expression](#16-hua-i-77-mute-experience-and-its-first-expression)
+- [§20, Hua I 83–86: intentional analysis as disclosure of implied potentialities](#20-hua-i-8386-intentional-analysis-as-disclosure-of-implied-potentialities)
+<!-- toc:end -->
+
 These readings take up the passages approved in the [key-passage list](../runs/husserliana-1-cartesianische-meditationen-commentary-key-passages.md) and read them for their wording. Each heading links to the block of the [main commentary](../commentaries/husserl/husserliana-1-cartesianische-meditationen-commentary.md) that it extends. The German is quoted from the Husserliana edition (Hua I, ed. S. Strasser) in `faultynode/sources` (`sources/husserl/husserl-hua-1-cartesianische-meditationen-und-pariser-vortrage.md`). That file holds the whole volume, and the *Paris Lectures* (*Pariser Vorträge*) that precede the Meditations share much of their wording. Every passage here is quoted from the Meditations; where a reading compares the lecture version, it says so. The commentary cites § numbers only. Headings here add the Hua I page, taken from the page markers in the file. Odd pages are usually numbered there and even pages often are not, so a page can be off by one.
 
 All English renderings of Husserl, and of the Latin and Greek he quotes, are working renderings. They stay close to the German so that its structure shows, and they are not taken from a published translation.

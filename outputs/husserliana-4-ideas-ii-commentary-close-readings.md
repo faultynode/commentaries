@@ -5,6 +5,62 @@ title: "Husserl, Ideen II: close readings of key passages"
 
 # Husserl, *Ideen II*: close readings of key passages
 
+<!-- toc:start -->
+**Contents**
+
+- [§4, Hua IV 9–10: value-taking](#4-hua-iv-910-value-taking)
+- [§6, Hua IV 15: beauty is no reflection-predicate](#6-hua-iv-15-beauty-is-no-reflection-predicate)
+- [§9, Hua IV 18–20: aesthetic synthesis](#9-hua-iv-1820-aesthetic-synthesis)
+- [§11, Hua IV 24–27: a kind of reduction](#11-hua-iv-2427-a-kind-of-reduction)
+- [§12, Hua IV 28–29: extension, rightly understood](#12-hua-iv-2829-extension-rightly-understood)
+- [§15 b, Hua IV 36–37: phantom and schema](#15-b-hua-iv-3637-phantom-and-schema)
+- [§15 c, Hua IV 41: materiality as relation to circumstances](#15-c-hua-iv-41-materiality-as-relation-to-circumstances)
+- [§17, Hua IV 53–54: reality, substance and their equivocations](#17-hua-iv-5354-reality-substance-and-their-equivocations)
+- [§18 a, Hua IV 55–58: the body as zero point and organ](#18-a-hua-iv-5558-the-body-as-zero-point-and-organ)
+- [§18 f, Hua IV 80–81: the solus ipse](#18-f-hua-iv-8081-the-solus-ipse)
+- [§18 g, Hua IV 85–86: God's distorting glasses and the thing as rule](#18-g-hua-iv-8586-gods-distorting-glasses-and-the-thing-as-rule)
+- [§18 h, Hua IV 89–90: a member of nature](#18-h-hua-iv-8990-a-member-of-nature)
+- [§21, Hua IV 94–96: having a body](#21-hua-iv-9496-having-a-body)
+- [§22, Hua IV 97–99: the ego-ray](#22-hua-iv-9799-the-ego-ray)
+- [§26, Hua IV 107–108: Kant's sentence in a good sense](#26-hua-iv-107108-kants-sentence-in-a-good-sense)
+- [§29, Hua IV 112: positions taken as foundations](#29-hua-iv-112-positions-taken-as-foundations)
+- [§30, Hua IV 123: the soul as a unity of capacities](#30-hua-iv-123-the-soul-as-a-unity-of-capacities)
+- [§32, Hua IV 127–132: the soul does not schematize itself](#32-hua-iv-127132-the-soul-does-not-schematize-itself)
+- [§33, Hua IV 136–37: realities without history](#33-hua-iv-13637-realities-without-history)
+- [§34, Hua IV 139–43: the naming of the second attitude](#34-hua-iv-13943-the-naming-of-the-second-attitude)
+- [§36, Hua IV 144–46: sensings](#36-hua-iv-14446-sensings)
+- [§37, Hua IV 148: seen seeing, touched touching](#37-hua-iv-148-seen-seeing-touched-touching)
+- [§42, Hua IV 160–61: the conversion point](#42-hua-iv-16061-the-conversion-point)
+- [§44, Hua IV 162–63: original presence and appresence](#44-hua-iv-16263-original-presence-and-appresence)
+- [§46, Hua IV 167–68: legitimate naturalization](#46-hua-iv-16768-legitimate-naturalization)
+- [§47, Hua IV 169–72: nature points beyond itself](#47-hua-iv-16972-nature-points-beyond-itself)
+- [§48, Hua IV 172–73: Dilthey's intuition](#48-hua-iv-17273-diltheys-intuition)
+- [§49 a, Hua IV 176: introjection](#49-a-hua-iv-176-introjection)
+- [§49 d, Hua IV 179–80: natural, not naturalistic](#49-d-hua-iv-17980-natural-not-naturalistic)
+- [§49 e, Hua IV 183: physio-psychic, and the blinkers](#49-e-hua-iv-183-physio-psychic-and-the-blinkers)
+- [§49 e, Hua IV 184: self-forgetfulness](#49-e-hua-iv-184-self-forgetfulness)
+- [§50, Hua IV 185–86: the person as subject of a surrounding world](#50-hua-iv-18586-the-person-as-subject-of-a-surrounding-world)
+- [§50, Hua IV 189–90: stimulus and motivation](#50-hua-iv-18990-stimulus-and-motivation)
+- [§51, Hua IV 191: comprehension](#51-hua-iv-191-comprehension)
+- [§53, Hua IV 208–10: the vicious circle](#53-hua-iv-20810-the-vicious-circle)
+- [§55, Hua IV 216–17: motivational causality and the ghost](#55-hua-iv-21617-motivational-causality-and-the-ghost)
+- [§56 b, Hua IV 222–23: hidden motives](#56-b-hua-iv-22223-hidden-motives)
+- [§56 d, Hua IV 226–27: nature dissolved into motivations](#56-d-hua-iv-22627-nature-dissolved-into-motivations)
+- [§56 f, Hua IV 229: the "because–so"](#56-f-hua-iv-229-the-becauseso)
+- [§56 h, Hua IV 244: empathy as understanding sense](#56-h-hua-iv-244-empathy-as-understanding-sense)
+- [§57, Hua IV 249–51: is "habit" the good title?](#57-hua-iv-24951-is-habit-the-good-title)
+- [§58, Hua IV 252: out of life, not out of experience](#58-hua-iv-252-out-of-life-not-out-of-experience)
+- [§59, Hua IV 253–54: a system of "I can"](#59-hua-iv-25354-a-system-of-i-can)
+- [§60 a, Hua IV 265: the murder I cannot imagine committing](#60-a-hua-iv-265-the-murder-i-cannot-imagine-committing)
+- [§60 c, Hua IV 268–69: demand, primal institution and "one"](#60-c-hua-iv-26869-demand-primal-institution-and-one)
+- [§60 d, Hua IV 273–74: "intuition" is not intuition](#60-d-hua-iv-27374-intuition-is-not-intuition)
+- [§61, Hua IV 279–80: root-soil, nature-side, spirit-soul](#61-hua-iv-27980-root-soil-nature-side-spirit-soul)
+- [§62, Hua IV 281, 286: another cut, and the point of conversion](#62-hua-iv-281-286-another-cut-and-the-point-of-conversion)
+- [§62, Hua IV 288: the life-world, in a note](#62-hua-iv-288-the-life-world-in-a-note)
+- [§63–§64, Hua IV 294, 297: refuting parallelism, and the limit of naturalization](#6364-hua-iv-294-297-refuting-parallelism-and-the-limit-of-naturalization)
+- [§64, Hua IV 300–302: thisness is a form; nature is the X](#64-hua-iv-300302-thisness-is-a-form-nature-is-the-x)
+<!-- toc:end -->
+
 These readings take up the passages approved in the [key-passage list](../runs/husserliana-4-ideas-ii-commentary-key-passages.md). The [main commentary](../commentaries/husserl/husserliana-4-ideas-ii-commentary.md) maps the argument of the whole book at equal depth. Each reading here follows one understanding that a passage carries instead: what Husserl means by a term or a claim, how his wording builds that meaning, what work the passage does between its neighbours, and where the understanding leads in the rest of the book and in his other works.
 
 The text is the German of Husserliana IV, *Ideen zu einer reinen Phänomenologie und phänomenologischen Philosophie, Zweites Buch*, edited by Marly Biemel. Passages are cited by § and printed page, "Hua IV n". Unit references such as "§4.12" name the twelfth paragraph of the main commentary under § 4. All English renderings are my working translations, close enough to show the structure under discussion. They are not the published translation by Rojcewicz and Schuwer. Other Husserl volumes are cited by Husserliana volume and page where the corpus file carries the page, and otherwise by section.

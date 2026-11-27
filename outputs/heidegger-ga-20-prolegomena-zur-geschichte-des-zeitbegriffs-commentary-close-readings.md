@@ -5,6 +5,52 @@ title: "Heidegger, Prolegomena zur Geschichte des Zeitbegriffs: close readings o
 
 # Heidegger, *Prolegomena zur Geschichte des Zeitbegriffs*: close readings of key passages
 
+<!-- toc:start -->
+**Contents**
+
+- [§1, GA 20 2–3: productive logic](#1-ga-20-23-productive-logic)
+- [§2, GA 20 8: the history of the question of being as decline](#2-ga-20-8-the-history-of-the-question-of-being-as-decline)
+- [§2, GA 20 9–10: phenomenological research before the division into historical and systematic](#2-ga-20-910-phenomenological-research-before-the-division-into-historical-and-systematic)
+- [§4, GA 20 26: Brentano's intentional in-existence as in-dwelling](#4-ga-20-26-brentanos-intentional-in-existence-as-in-dwelling)
+- [§4, GA 20 31: a work's self-interpretation and what it in fact achieves](#4-ga-20-31-a-works-self-interpretation-and-what-it-in-fact-achieves)
+- [§5, GA 20 40: intentionality as intentional from the outset](#5-ga-20-40-intentionality-as-intentional-from-the-outset)
+- [§5, GA 20 60–61: the intentum, the being in the how of its being-intended](#5-ga-20-6061-the-intentum-the-being-in-the-how-of-its-being-intended)
+- [§5, GA 20 61–62: what intentionality is the structure of](#5-ga-20-6162-what-intentionality-is-the-structure-of)
+- [§6, GA 20 77–78: the surplus of the "is"](#6-ga-20-7778-the-surplus-of-the-is)
+- [§6, GA 20 98: scientific ontology as phenomenology](#6-ga-20-98-scientific-ontology-as-phenomenology)
+- [§7, GA 20 99: the a priori as "the earlier"](#7-ga-20-99-the-a-priori-as-the-earlier)
+- [§9, GA 20 111–12: the phenomenon as what shows itself](#9-ga-20-11112-the-phenomenon-as-what-shows-itself)
+- [§9, GA 20 115–16: logos as letting be seen](#9-ga-20-11516-logos-as-letting-be-seen)
+- [§11, GA 20 144–45: consciousness as absolute in the order of constitution](#11-ga-20-14445-consciousness-as-absolute-in-the-order-of-constitution)
+- [§12, GA 20 151: the reduction gives the ground out of hand](#12-ga-20-151-the-reduction-gives-the-ground-out-of-hand)
+- [§13, GA 20 158–59: the abyss of sense](#13-ga-20-15859-the-abyss-of-sense)
+- [§13, GA 20 172–74: the human being as animal rationale](#13-ga-20-17274-the-human-being-as-animal-rationale)
+- [§13, GA 20 179–80: the neglect grounded in Dasein's falling](#13-ga-20-17980-the-neglect-grounded-in-daseins-falling)
+- [§16, GA 20 194–95: the structure of the question of being](#16-ga-20-19495-the-structure-of-the-question-of-being)
+- [§16, GA 20 197–98: the circle of being](#16-ga-20-19798-the-circle-of-being)
+- [§17, GA 20 199: the questioning being, Dasein](#17-ga-20-199-the-questioning-being-dasein)
+- [§18, GA 20 205–206: the name "Dasein" says no what](#18-ga-20-205206-the-name-dasein-says-no-what)
+- [§19, GA 20 213: in-being as dwelling](#19-ga-20-213-in-being-as-dwelling)
+- [§22, GA 20 245: true being as certain being](#22-ga-20-245-true-being-as-certain-being)
+- [§23, GA 20 263–65: readiness-to-hand as founded presence](#23-ga-20-26365-readiness-to-hand-as-founded-presence)
+- [§23, GA 20 274–75: significance](#23-ga-20-27475-significance)
+- [§24, GA 20 296: "sum cogito"](#24-ga-20-296-sum-cogito)
+- [§25, GA 20 313–14: de-severance as an existential](#25-ga-20-31314-de-severance-as-an-existential)
+- [§26, GA 20 331–34: being-with, not "with-world"](#26-ga-20-33134-being-with-not-with-world)
+- [§28, GA 20 348–49: being the "there"](#28-ga-20-34849-being-the-there)
+- [§28, GA 20 352–53: disposedness, finding oneself](#28-ga-20-35253-disposedness-finding-oneself)
+- [§29, GA 20 376–77: falling as Dasein's pushing itself away from itself](#29-ga-20-37677-falling-as-daseins-pushing-itself-away-from-itself)
+- [§29, GA 20 379–81: curiosity as the care of seeing](#29-ga-20-37981-curiosity-as-the-care-of-seeing)
+- [§29, GA 20 390–91: authenticity read literally, and proneness](#29-ga-20-39091-authenticity-read-literally-and-proneness)
+- [§30, GA 20 400–402: the nothing of anxiety as the world itself](#30-ga-20-400402-the-nothing-of-anxiety-as-the-world-itself)
+- [§31, GA 20 407–409: care as being-ahead-of-itself in already-being-alongside](#31-ga-20-407409-care-as-being-ahead-of-itself-in-already-being-alongside)
+- [§34, GA 20 431–32: death as what impends, not what is outstanding](#34-ga-20-43132-death-as-what-impends-not-what-is-outstanding)
+- [§34, GA 20 433: "Dasein is thus essentially its death"](#34-ga-20-433-dasein-is-thus-essentially-its-death)
+- [§34, GA 20 437–38: "sum moribundus"](#34-ga-20-43738-sum-moribundus)
+- [§35, GA 20 440–41: the one who acts is always conscienceless](#35-ga-20-44041-the-one-who-acts-is-always-conscienceless)
+- [§36, GA 20 441: "Dasein temporalizes qua time its being"](#36-ga-20-441-dasein-temporalizes-qua-time-its-being)
+<!-- toc:end -->
+
 These readings take up the passages approved in the [key-passage list](../runs/heidegger-ga-20-prolegomena-zur-geschichte-des-zeitbegriffs-commentary-key-passages.md). The [main commentary](../commentaries/heidegger/heidegger-ga-20-prolegomena-zur-geschichte-des-zeitbegriffs-commentary.md) maps the argument of the whole course at equal depth. Each reading here instead follows one understanding that a passage carries: what Heidegger means by a term or a claim, how his wording builds that meaning, what work the passage does between what precedes and what follows it, and where the understanding leads in the rest of the course and in his other works.
 
 The text is the German of GA 20, the Marburg lecture course of summer 1925, edited by Petra Jaeger (Klostermann). Passages are cited by § and by the printed page, "GA 20 n". Unit references such as "§2.3" name the third paragraph of the main commentary under § 2. All English renderings are my working translations, close enough to show the structure under discussion. They are not Theodore Kisiel's published translation (*History of the Concept of Time*), which is cited by name where it differs in a way that matters. Other works are cited by their Gesamtausgabe volume and page, *Sein und Zeit* by the Niemeyer page ("SZ n"), and works held in the corpus only in English by the translation and its German page where the file gives one.

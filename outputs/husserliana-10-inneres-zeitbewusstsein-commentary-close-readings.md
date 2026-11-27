@@ -5,6 +5,23 @@ title: "Husserl, Vorlesungen zur Phänomenologie des inneren Zeitbewußtseins: c
 
 # Husserl, *Vorlesungen zur Phänomenologie des inneren Zeitbewußtseins*: close readings of key passages
 
+<!-- toc:start -->
+**Contents**
+
+- [Introduction, Hua X 4: temporal objectivity as individual objectivity](#introduction-hua-x-4-temporal-objectivity-as-individual-objectivity)
+- [§1, Hua X 7 and note: "sensed" as a relational concept](#1-hua-x-7-and-note-sensed-as-a-relational-concept)
+- [§3, Hua X 12: duration of sensation and sensation of duration](#3-hua-x-12-duration-of-sensation-and-sensation-of-duration)
+- [§6, Hua X 16: the phenomenological core of original association](#6-hua-x-16-the-phenomenological-core-of-original-association)
+- [§6, Hua X 19 (with §5, Hua X 15): non-real, reell, and where the past is not](#6-hua-x-19-with-5-hua-x-15-non-real-reell-and-where-the-past-is-not)
+- [§6, Hua X 19–20: the form of time is not a content](#6-hua-x-1920-the-form-of-time-is-not-a-content)
+- [§7, Hua X 22–23: the temporal object in the special sense](#7-hua-x-2223-the-temporal-object-in-the-special-sense)
+- [§8, Hua X 24–25: "retention" among the quoted words](#8-hua-x-2425-retention-among-the-quoted-words)
+- [§9, Hua X 26–27: the object in its how, and the two senses of intentionality](#9-hua-x-2627-the-object-in-its-how-and-the-two-senses-of-intentionality)
+- [§11, Hua X 29–30: primal impression, "source-point" and "production"](#11-hua-x-2930-primal-impression-source-point-and-production)
+- [§12, Hua X 31: retention is no image](#12-hua-x-31-retention-is-no-image)
+- [§17, Hua X 41–42: "presentatively, not representatively"](#17-hua-x-4142-presentatively-not-representatively)
+<!-- toc:end -->
+
 These readings take up the passages approved in the [key-passage list](../runs/husserliana-10-inneres-zeitbewusstsein-commentary-key-passages.md). The [main commentary](../commentaries/husserl/husserliana-10-inneres-zeitbewusstsein-commentary.md) works through Part One of the lectures at equal depth. Each reading here follows one understanding that a passage carries: what Husserl means by a term or a claim, how his wording builds it, what the passage does between its neighbours, and where the understanding goes in the rest of the lectures and in the manuscripts printed with them.
 
 The text is the German of Husserliana X, edited by Rudolf Boehm (1966): Edith Stein's redaction of the lectures, first published by Heidegger in 1928, followed by the supplements and by Part B, the supplementary texts that print Husserl's manuscripts of 1893–1917. Both parts are quoted from one converted file in `faultynode/sources` (`sources/husserl/husserl-hua-10-vorlesungen-zur-phanomenologie-des-inneren-zeitbewusstseins.md`). Passages are cited by § and by Hua X page; Part B texts by their number ("Nr. 54") and Hua X page. In Part One the file's bracketed numbers are the pages of the 1928 first edition; in Part B they are the Hua X pages, and the plain number beside them is the page of Bernet's Meiner edition. The main commentary cites § numbers only, and unit references such as "§6.7" name the seventh paragraph of the commentary under § 6. Hua X's editorial apparatus is quoted from the split-off file `husserl-texte-zur-phanomenologie-des-inneren-zeitbewusstseins.md` (Bernet's Meiner edition), and John Barnett Brough's English translation (*On the Phenomenology of the Consciousness of Internal Time*, Collected Works IV) from `husserl-cw4-on-the-phenomenlogy-of-the-consciousness-of-internal-time.md`; Brough is named wherever he is cited. All other English renderings are my working translations, kept close to the German so that its structure shows.

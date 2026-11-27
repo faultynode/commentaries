@@ -5,6 +5,29 @@ title: "Michel Henry, L'essence de la manifestation: close readings of key passa
 
 # Michel Henry, *L'essence de la manifestation*: close readings of key passages
 
+<!-- toc:start -->
+**Contents**
+
+- [§17 ¶2, K 279: the future tense the translators supplied](#17-2-k-279-the-future-tense-the-translators-supplied)
+- [§17 ¶6, H 163 and 144: "forget" in quotation marks](#17-6-h-163-and-144-forget-in-quotation-marks)
+- [§18 ¶5–6, H 163: the ontological and the existentiell, and Heidegger's "not yet"](#18-56-h-163-the-ontological-and-the-existentiell-and-heideggers-not-yet)
+- [§18 ¶8: "existentiell or, better said, existential"](#18-8-existentiell-or-better-said-existential)
+- [§19 ¶3–4: für es, für sich, für uns, and the irreal](#19-34-für-es-für-sich-für-uns-and-the-irreal)
+- [§21 ¶4, H 140: "not the modesty of an obscure Grund, … the Word"](#21-4-h-140-not-the-modesty-of-an-obscure-grund--the-word)
+- [§22 ¶3, K 98: the seemingly non-finite, cut](#22-3-k-98-the-seemingly-non-finite-cut)
+- [§22 ¶4–5, K 92: Ent-stand, Gegen-stand, and Henry's hyphens](#22-45-k-92-ent-stand-gegen-stand-and-henrys-hyphens)
+- [§23, K 199: "in itself a forming act", and the italic also](#23-k-199-in-itself-a-forming-act-and-the-italic-also)
+- [§23, K 157 and 159–160: the rule cut out of the schema-image](#23-k-157-and-159160-the-rule-cut-out-of-the-schema-image)
+- [§24, K 244: affection by itself and affection of itself](#24-k-244-affection-by-itself-and-affection-of-itself)
+- [§24, K 229–231: "not its temporal character but its intuitive character"](#24-k-229231-not-its-temporal-character-but-its-intuitive-character)
+- [§28–§29, H 134: Erscheinen, "of it and by it"](#2829-h-134-erscheinen-of-it-and-by-it)
+- [§30: immanence defined by what it does not do](#30-immanence-defined-by-what-it-does-not-do)
+- [§31, K 244–245: "as one should, and as Heidegger does"](#31-k-244245-as-one-should-and-as-heidegger-does)
+- [§32: "immanence is the essence of transcendence"](#32-immanence-is-the-essence-of-transcendence)
+- [§33, der reine Bezug: the capital letter](#33-der-reine-bezug-the-capital-letter)
+- [§34: "the not-being-in-the-world of being-in-the-world"](#34-the-not-being-in-the-world-of-being-in-the-world)
+<!-- toc:end -->
+
 These readings take up passages approved in the [key-passage list](../runs/henry-the-essence-of-manifestation-commentary-key-passages.md) and read them for their wording. Each heading links to the block of the [main commentary](../commentaries/henry/henry-the-essence-of-manifestation-commentary.md) that it extends. The French is quoted from the PUF text in `faultynode/sources` (`sources/henry/henry-lessence-de-la-manifestation.md`, an ebook conversion of the 2011 reprint). That file keeps Henry's italics, so emphasis can be argued from. It has no page numbers, so passages are cited, as in the commentary, by section and by the commentary's paragraph labels. All English renderings of Henry, Hegel and Heidegger are working renderings, kept close to the French so that its structure shows.
 
 Two sigla recur. *K* is the 1953 French translation of Heidegger's *Kant und das Problem der Metaphysik* by de Waelhens and Biemel. A *K* page resolves only in `heidegger-ga-3-kant-et-le-probleme-de-la-metaphysique-biemel.md`, where it equals the pdf page minus two, and each *K* passage is given with its place in GA 3. *H* is the separate edition of *Holzwege*, which Henry quotes in his own French for Heidegger's essay on Hegel's concept of experience. The corpus copy of that essay (`heidegger-ga-5-hegels-begriff-der-erfahrung.md`) prints the *Holzwege* page numbers in the margin, so *H* pages can be checked against the German.
