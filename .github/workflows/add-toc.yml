@@ -1,0 +1,62 @@
+name: Add table of contents
+
+# The close-reading files in outputs/ arrive through the web uploader as often
+# as through git, so the table of contents is added here, on the server, the
+# same way normalize-filenames.yml enforces the filename convention.
+# scripts/add_toc.py is idempotent: a file whose TOC is already current is left
+# untouched, so a run that finds nothing to change makes no commit.
+#
+# A push made with GITHUB_TOKEN starts no other workflow, so a TOC commit made
+# here does not trigger wordpress-sync.yml or pii-check.yml.
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - "outputs/*close-readings.md"
+      - "scripts/add_toc.py"
+  workflow_dispatch: {}
+
+permissions:
+  contents: write
+
+jobs:
+  add-toc:
+    runs-on: ubuntu-latest
+    # Shared with normalize-filenames.yml and synthesis.yml: all of them push to
+    # main, and two of them racing would fail each other's rebase.
+    concurrency:
+      group: main-generated-files
+      cancel-in-progress: false
+    steps:
+      # The tip of main, not the pushed commit, so an earlier job's push is
+      # already there.
+      - uses: actions/checkout@v4
+        with:
+          ref: main
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.x"
+
+      - name: Add or refresh tables of contents
+        id: toc
+        run: |
+          python3 scripts/add_toc.py
+          if ! git diff --quiet -- outputs; then
+            echo "changed=true" >> "$GITHUB_OUTPUT"
+          fi
+
+      - name: Commit and push
+        if: steps.toc.outputs.changed == 'true'
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add -- outputs
+          git commit -m "Update close-reading tables of contents [skip ci]"
+          for delay in 0 2 4 8 16; do
+            sleep "$delay"
+            git pull --rebase origin main && git push && exit 0
+          done
+          echo "push failed after retries" >&2
+          exit 1
